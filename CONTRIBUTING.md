@@ -27,7 +27,7 @@ Wenn der direkte Versand nicht verfügbar ist, kannst du die geprüfte Vorschlag
 
 ## Werke und Autoren vorschlagen
 
-Unter [Mitarbeiten](https://www.erste-christen.de/mitarbeiten) kannst du ein Werk oder einen Autor wünschen.
+In der [Werkübersicht](https://www.erste-christen.de/werke#werk-wunsch) kannst du über **„Werkwunsch senden“** ein Werk oder einen Autor wünschen.
 Gib Autor und Wunsch an; bei einem Werkwunsch zusätzlich den Titel. Ein Quellenlink und die Quellsprache
 (Griechisch, Latein, Syrisch oder Englisch) sind freiwillig. Eine geeignete Quelle kann später recherchiert werden.
 Prüfe die Vorschau und stimme der öffentlichen Veröffentlichung deines eigenen Beitrags unter CC BY-NC-SA 4.0 zu.
