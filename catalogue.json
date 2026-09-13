@@ -6150,6 +6150,26 @@
       }
     },
     {
+      "workId": "16cf2c23-e67c-4865-fb2e-08df104798a7",
+      "title": "Physiologus",
+      "authorId": "f865b06f-5024-4129-1e34-08dd5a51aaf7",
+      "authorName": "Unbekannt",
+      "collectionTitle": null,
+      "languageCode": "de",
+      "sourceUrl": "https://erste-christen.de/werke/unbekannt/physiologus",
+      "contentRevision": "sha256:b0b5ee15f4837398aacadb1c14ef1e92e85f9f74b950f3f50d515f1d9316bdf8",
+      "chapterCount": 51,
+      "provenance": "Eigene Übersetzung; aktuelle deutsche Texte durch Übersetzungsaufträge belegt. Keine Aussage über menschliche Prüfung.",
+      "rights": {
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "attributionName": "Die ersten Christen",
+        "attributionUrl": "https://erste-christen.de",
+        "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+        "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+      }
+    },
+    {
       "workId": "da012c97-77fd-4904-d39b-08dd5a4cf805",
       "title": "Vom Untergang Jerusalems, Buch 1",
       "authorId": "f865b06f-5024-4129-1e34-08dd5a51aaf7",
