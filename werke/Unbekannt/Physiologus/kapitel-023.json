@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "16cf2c23-e67c-4865-fb2e-08df104798a7",
+  "chapterId": "bb20e621-0c45-4be3-ba08-08df104d63f5",
+  "number": 23,
+  "title": "Kapitel 23",
+  "workTitle": "Physiologus",
+  "authorName": "Unbekannt",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/unbekannt/physiologus#kapitel-bb20e621-0c45-4be3-ba08-08df104d63f5",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:b89380fa82362d13e433fa67443a550e2476a7d3a2f9be0fc98cd688bdf6d57d",
+  "plainText": "Es gibt einen Stein namens Achat. Handwerker, die nach Perlen suchen, verwenden diesen Stein, um sie zu finden. Taucher binden den Achat an eine sehr feste Schnur und lassen ihn ins Meer hinab. Wenn der Achat zur Perle gelangt, kommt er zum Stillstand und bewegt sich nicht mehr. Die Taucher folgen daraufhin der Schnur und finden die Perle.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Es gibt einen Stein namens Achat. Handwerker, die nach Perlen suchen, verwenden diesen Stein, um sie zu finden. Taucher binden den Achat an eine sehr feste Schnur und lassen ihn ins Meer hinab. Wenn der Achat zur Perle gelangt, kommt er zum Stillstand und bewegt sich nicht mehr. Die Taucher folgen daraufhin der Schnur und finden die Perle."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [],
+  "footnotes": []
+}

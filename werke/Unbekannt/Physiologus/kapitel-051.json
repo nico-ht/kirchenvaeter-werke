@@ -1,0 +1,235 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "16cf2c23-e67c-4865-fb2e-08df104798a7",
+  "chapterId": "2bb3bfbb-c191-4ec8-ba24-08df104d63f5",
+  "number": 51,
+  "title": "Kapitel 51",
+  "workTitle": "Physiologus",
+  "authorName": "Unbekannt",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/unbekannt/physiologus#kapitel-2bb3bfbb-c191-4ec8-ba24-08df104d63f5",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:54507277a7cf4498584c59c781bbbca2bbfb72ba3016a3ec4324d4e8552b0a04",
+  "plainText": "Es gibt ein Tier, das Sonneneidechse genannt wird, das heißt Sonnenaal. Wenn dieses Tier alt wird, macht ihm die Schwäche seiner beiden Augen zu schaffen. Da es das Sonnenlicht nicht mehr wahrnehmen kann, erblindet es. Was tut es? Von seiner guten Natur geleitet, findet es eine nach Osten gerichtete Mauer, kriecht in einen Spalt dieser Mauer und blickt nach Osten. Die Sonne im Osten öffnet ihm dann die Augen und macht sie wieder neu. Und du, Mensch: Wenn du das Gewand des alten Menschen trägst, dann achte darauf, die geistige Sonne im Osten zu suchen, wenn die Augen deines Herzens getrübt sind. Sie ist Jesus Christus, der bei Jeremia den Namen „Osten “ trägt. Wie der Apostel sagt: „Er ist die Sonne der Gerechtigkeit. “ Er wird dir die geistigen „Augen deines Herzens “ öffnen, und dein altes Gewand wird neu werden.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Es gibt ein Tier, das Sonneneidechse genannt wird, das heißt Sonnenaal. Wenn dieses Tier alt wird, macht ihm die Schwäche seiner beiden Augen zu schaffen. Da es das Sonnenlicht nicht mehr wahrnehmen kann, erblindet es. Was tut es? Von seiner guten Natur geleitet, findet es eine nach Osten gerichtete Mauer, kriecht in einen Spalt dieser Mauer und blickt nach Osten. Die Sonne im Osten öffnet ihm dann die Augen und macht sie wieder neu. Und du, Mensch: Wenn du "
+          },
+          {
+            "type": "text",
+            "text": "das Gewand des alten Menschen trägst",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "ccae7170-0476-48f4-86a4-8bed7b2501d8"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", dann achte darauf, die geistige Sonne im Osten zu suchen, wenn die "
+          },
+          {
+            "type": "text",
+            "text": "Augen deines Herzens",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "c4109fb2-a494-45f2-a499-6ff88ccd8527"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " getrübt sind. Sie ist Jesus Christus, der bei Jeremia den Namen „"
+          },
+          {
+            "type": "text",
+            "text": "Osten",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "8ca5feff-5bce-4d69-bda9-bd53e5ee7346"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ trägt. Wie der Apostel sagt: „"
+          },
+          {
+            "type": "text",
+            "text": "Er ist die Sonne der Gerechtigkeit.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "148a6b58-fa62-4634-8efd-a6d8e88770dc"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Er wird dir die geistigen "
+          },
+          {
+            "type": "text",
+            "text": "„"
+          },
+          {
+            "type": "text",
+            "text": "Augen deines Herzens",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "c4109fb2-a494-45f2-a499-6ff88ccd8527"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “"
+          },
+          {
+            "type": "text",
+            "text": " öffnen, und "
+          },
+          {
+            "type": "text",
+            "text": "dein altes Gewand wird neu werden",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "e53d945b-f263-47e3-891d-dfd4c6b46abb"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "148a6b58-fa62-4634-8efd-a6d8e88770dc",
+      "passages": [
+        {
+          "from": {
+            "book": 380,
+            "chapter": 4,
+            "verse": 2
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "8ca5feff-5bce-4d69-bda9-bd53e5ee7346",
+      "passages": [
+        {
+          "from": {
+            "book": 370,
+            "chapter": 3,
+            "verse": 8
+          },
+          "to": null
+        },
+        {
+          "from": {
+            "book": 370,
+            "chapter": 6,
+            "verse": 12
+          },
+          "to": null
+        },
+        {
+          "from": {
+            "book": 510,
+            "chapter": 1,
+            "verse": 78
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "c4109fb2-a494-45f2-a499-6ff88ccd8527",
+      "passages": [
+        {
+          "from": {
+            "book": 580,
+            "chapter": 1,
+            "verse": 18
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "ccae7170-0476-48f4-86a4-8bed7b2501d8",
+      "passages": [
+        {
+          "from": {
+            "book": 580,
+            "chapter": 4,
+            "verse": 22
+          },
+          "to": null
+        },
+        {
+          "from": {
+            "book": 600,
+            "chapter": 3,
+            "verse": 9
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "e53d945b-f263-47e3-891d-dfd4c6b46abb",
+      "passages": [
+        {
+          "from": {
+            "book": 600,
+            "chapter": 3,
+            "verse": 9
+          },
+          "to": {
+            "book": 600,
+            "chapter": 3,
+            "verse": 10
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

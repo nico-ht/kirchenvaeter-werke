@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "16cf2c23-e67c-4865-fb2e-08df104798a7",
+  "chapterId": "2ee1f0e8-9d09-41b3-ba11-08df104d63f5",
+  "number": 32,
+  "title": "Kapitel 32",
+  "workTitle": "Physiologus",
+  "authorName": "Unbekannt",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/unbekannt/physiologus#kapitel-2ee1f0e8-9d09-41b3-ba11-08df104d63f5",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:9957c9f868eabf08cf38dedf0e42958adba2be43cb9cf035f97cce2aef05434f",
+  "plainText": "Jeremia sagte über das Rebhuhn: „Das Rebhuhn rief und sammelte die Brut, die es nicht selbst ausgebrütet hatte. “ Das Rebhuhn wärmt die Eier anderer Vögel, müht sich um sie und nährt sie. Wenn die Küken jedoch herangewachsen sind und zu fliegen beginnen, fliegt jede Art zu ihren eigenen Eltern und lässt das Rebhuhn allein zurück. So bemächtigt sich der Teufel der Schar der Kleinen. Wenn sie aber erwachsen sind, kommen sie zu Christus und zur Kirche, und der Teufel erweist sich als dumm. [Wenn die Jungen die Stimme Christi hören, fliegen sie mit ihren Flügeln davon, die durch den Glauben geistlich geworden sind, und vertrauen sich Christus an. Sogleich nimmt er sie im Schatten seiner Flügel auf, schenkt ihnen reichen väterlichen Lohn und Liebe und übergibt sie der Kirche, damit sie dort ernährt werden.] Wenn jemand heute böse Wege geht, wird er morgen besonnen sein. Fliehe vor dem Teufel, das heißt vor dem Rebhuhn, und du wirst zu deinen rechtmäßigen Eltern kommen, den Propheten und Aposteln.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Jeremia sagte über das Rebhuhn: „"
+          },
+          {
+            "type": "text",
+            "text": "Das Rebhuhn rief und sammelte die Brut, die es nicht selbst ausgebrütet hatte.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "f3b0b6a2-d459-4a9a-bd9a-b39a02f5834c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Das Rebhuhn wärmt die Eier anderer Vögel, müht sich um sie und nährt sie. Wenn die Küken jedoch herangewachsen sind und zu fliegen beginnen, fliegt jede Art zu ihren eigenen Eltern und lässt das Rebhuhn allein zurück. So bemächtigt sich der Teufel der Schar der Kleinen. Wenn sie aber erwachsen sind, kommen sie zu Christus und zur Kirche, und "
+          },
+          {
+            "type": "text",
+            "text": "der Teufel erweist sich als dumm",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "f3b0b6a2-d459-4a9a-bd9a-b39a02f5834c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". [Wenn die Jungen die Stimme Christi hören, fliegen sie mit ihren Flügeln davon, die durch den Glauben geistlich geworden sind, und vertrauen sich Christus an. Sogleich nimmt er sie im Schatten seiner Flügel auf, schenkt ihnen reichen väterlichen Lohn und Liebe und übergibt sie der Kirche, damit sie dort ernährt werden.] Wenn jemand heute böse Wege geht, wird er morgen besonnen sein. Fliehe vor dem Teufel, das heißt vor dem Rebhuhn, und du wirst zu deinen rechtmäßigen Eltern kommen, den Propheten und Aposteln."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "f3b0b6a2-d459-4a9a-bd9a-b39a02f5834c",
+      "passages": [
+        {
+          "from": {
+            "book": 230,
+            "chapter": 17,
+            "verse": 11
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

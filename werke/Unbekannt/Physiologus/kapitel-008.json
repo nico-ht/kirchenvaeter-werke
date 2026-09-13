@@ -1,0 +1,232 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "16cf2c23-e67c-4865-fb2e-08df104798a7",
+  "chapterId": "56f36909-1f65-4705-b9f9-08df104d63f5",
+  "number": 8,
+  "title": "Kapitel 8",
+  "workTitle": "Physiologus",
+  "authorName": "Unbekannt",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/unbekannt/physiologus#kapitel-56f36909-1f65-4705-b9f9-08df104d63f5",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:c321e29260a65334558e016eb9093a137af4cd18970f68d6ad9babd0b6466183",
+  "plainText": "David sagt in Psalm 102: „Deine Jugend wird erneuert werden wie die des Adlers. “ Physiologus sagt vom Adler, dass seine Flügel schwer und seine Augen trüb werden, wenn er alt wird. Was tut er dann? Er sucht eine Quelle und fliegt dann hinauf in die Atmosphäre der Sonne. Dort brennt er seine Flügel und die Trübung seiner Augen weg. Dann steigt er in die Quelle hinab und badet dreimal darin; so wird er wiederhergestellt und erneuert. Wenn also auch du das alte Gewand trägst und die Augen deines Herzens trüb geworden sind, dann suche die geistliche Quelle, die der Herr ist. „Sie haben mich verlassen, die Quelle lebendigen Wassers. “ Während du zur Sonne der Gerechtigkeit in die Höhe fliegst, zu Christus, wie der Apostel sagt, wird er selbst dein altes Gewand wegbrennen, das dem Teufel gehört. Deshalb bekamen jene beiden Ältesten bei Daniel zu hören: „Ihr seid in bösen Tagen alt geworden. “ Lass dich in der ewigen Quelle taufen, indem du den alten Menschen mit seinen Taten ablegst und den neuen anziehst, du, der du nach Gottes Ebenbild geschaffen bist, wie der Apostel sagte. Deshalb sagte David: „Deine Jugend wird erneuert werden wie die des Adlers. “",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "David sagt in Psalm 102: „"
+          },
+          {
+            "type": "text",
+            "text": "Deine Jugend wird erneuert werden wie die des Adlers.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "df7d6e3b-5c26-4185-a0d0-78232c21131b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Physiologus sagt vom Adler, dass seine Flügel schwer und seine Augen trüb werden, wenn er alt wird. Was tut er dann? Er sucht eine Quelle und fliegt dann hinauf in die Atmosphäre der Sonne. Dort brennt er seine Flügel und die Trübung seiner Augen weg. Dann steigt er in die Quelle hinab und badet dreimal darin; so wird er wiederhergestellt und erneuert. Wenn also auch du das alte Gewand trägst und die Augen deines Herzens trüb geworden sind, dann suche die geistliche Quelle, die der Herr ist. „"
+          },
+          {
+            "type": "text",
+            "text": "Sie haben mich verlassen, die Quelle lebendigen Wassers.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "82a02844-519c-4f57-a341-20b9cbab9113"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Während du zur "
+          },
+          {
+            "type": "text",
+            "text": "Sonne der Gerechtigkeit",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "5f5f6aae-b024-4eac-82dc-fd202696625f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " in die Höhe fliegst, zu Christus, wie der Apostel sagt, wird er selbst dein altes Gewand wegbrennen, das dem Teufel gehört. Deshalb bekamen jene beiden Ältesten bei Daniel zu hören: „"
+          },
+          {
+            "type": "text",
+            "text": "Ihr seid in bösen Tagen alt geworden.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "ff57ad95-1675-4daa-adf2-793329cdb9a9"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Lass dich in der ewigen Quelle taufen, indem du "
+          },
+          {
+            "type": "text",
+            "text": "den alten Menschen mit seinen Taten ablegst und den neuen anziehst",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "f89d1bd3-fd22-456f-828c-81adb51e8726"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", du, der du "
+          },
+          {
+            "type": "text",
+            "text": "nach Gottes Ebenbild geschaffen bist",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "f8806f30-bc2f-4a6b-bc79-c5e8dfef659c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", wie der Apostel sagte. Deshalb sagte David: „"
+          },
+          {
+            "type": "text",
+            "text": "Deine Jugend wird erneuert werden wie die des Adlers.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "df7d6e3b-5c26-4185-a0d0-78232c21131b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “"
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "5f5f6aae-b024-4eac-82dc-fd202696625f",
+      "passages": [
+        {
+          "from": {
+            "book": 380,
+            "chapter": 4,
+            "verse": 2
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "82a02844-519c-4f57-a341-20b9cbab9113",
+      "passages": [
+        {
+          "from": {
+            "book": 230,
+            "chapter": 2,
+            "verse": 13
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "df7d6e3b-5c26-4185-a0d0-78232c21131b",
+      "passages": [
+        {
+          "from": {
+            "book": 180,
+            "chapter": 103,
+            "verse": 5
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "f8806f30-bc2f-4a6b-bc79-c5e8dfef659c",
+      "passages": [
+        {
+          "from": {
+            "book": 580,
+            "chapter": 4,
+            "verse": 24
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "f89d1bd3-fd22-456f-828c-81adb51e8726",
+      "passages": [
+        {
+          "from": {
+            "book": 600,
+            "chapter": 3,
+            "verse": 9
+          },
+          "to": {
+            "book": 600,
+            "chapter": 3,
+            "verse": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "ff57ad95-1675-4daa-adf2-793329cdb9a9",
+      "passages": [
+        {
+          "from": {
+            "book": 260,
+            "chapter": 13,
+            "verse": 52
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,456 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "16cf2c23-e67c-4865-fb2e-08df104798a7",
+  "chapterId": "77ae0912-39e4-4d3e-ba02-08df104d63f5",
+  "number": 17,
+  "title": "Kapitel 17",
+  "workTitle": "Physiologus",
+  "authorName": "Unbekannt",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/unbekannt/physiologus#kapitel-77ae0912-39e4-4d3e-ba02-08df104d63f5",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:d6944efd88ece4eb6bf9d5d837a062faf775112c461e59f60f7c3f4f83fd72b7",
+  "plainText": "Es gibt ein Tier namens Ibis, das nach dem Gesetz unreiner ist als alle anderen Vögel [denn es ernährt sich stets von Aas am Ufer des Meeres, der Flüsse oder der Sümpfe und geht dort Tag und Nacht umher, um tote Fische oder Aas zu suchen, das faul und verwest aus dem Wasser angeschwemmt wurde]. Da der Ibis nicht schwimmen kann, sucht er seine Nahrung am Ufer von Flüssen oder Teichen. Er kann nicht im tiefen Wasser schwimmen, sondern nur dort, wo unreine kleine Fische leben, und ist nur außerhalb der tiefsten Stellen zu finden. Lerne geistlich zu schwimmen, damit du in den tiefen, geistig erfassbaren und geistlichen Strom und in die Tiefe der Weisheit der Macht Gottes gelangst. Wenn du in die Tiefe gehen und die Geheimnisse Jesu Christi kennenlernen willst, lerne geistlich zu schwimmen. [Nimm die geistliche und reinste Nahrung zu dir, die der Apostel mit diesen Worten nennt: „Die Frucht des Geistes ist Liebe, Freude, Frieden, Geduld, Langmut, Güte, Freundlichkeit, Sanftmut, Glaube, Bescheidenheit, Enthaltsamkeit und Keuschheit. “ Wenn du aber das tiefe Wasser meidest, wo du geistliche Nahrung finden könntest, und am Ufer entlanggehst und umherirrst, wirst du dich von totem, stinkendem Aas ernähren. Davon sagte der Apostel: „Die Werke des Fleisches aber sind offenkundig: Unreinheit, Ehebruch, Unzucht, Schamlosigkeit, Begierde, Götzendienst, Trunkenheit, Geiz und Habsucht. “ Das sind die fleischlichen und tödlichen Speisen, die unglückliche Seelen nähren und ihnen dadurch Leid bereiten.] Wenn du nicht beide Hände ausstreckst und die Gestalt des Kreuzes bildest, wirst du das Meer nicht durchqueren können.\n\nUnd wenn du nicht durch das Kreuz den Weg durch die Welt zu Gott gehen willst, wirst du den Ärgernissen nicht entgehen. Weise Männer, die weder schwimmen noch beten können, ernähren sich außerhalb der Kirche. Außerhalb des Glaubens stehen Taten der Unzucht, des Ehebruchs, der Verleumdung und der Habgier. Die Wurzel aller Übel ist die Habgier, und über jedem Geschöpf steht die Gestalt des Kreuzes. Und die Sonne kann nicht scheinen, wenn sie nicht ihre Strahlen ausstreckt. Und der Mond scheint nicht, wenn er nicht seine beiden Hörner ausstreckt. Und selbst die Vögel des Himmels können nicht fliegen, wenn sie nicht ihre Flügel ausbreiten. Auch ein Schiff kommt bei wehendem Wind nicht in Fahrt, wenn sein Segel nicht aufgespannt ist. So tötete auch Mose mit ausgestreckten Händen Amalek. Weil Daniel betete, entkam er den Löwen. Ebenso wurde Jona durch sein Gebet gerettet, als er im Bauch des Wals war. Thekla wurde ins Feuer und in die Gruben der wilden Tiere geworfen, und die Gestalt des Kreuzes rettete sie. Auch Susanna wurde aus der Gewalt der Ältesten befreit. Auf diese Weise tötete Judith mit ihrer mächtigen Rechten Holofernes, und Ester tötete Haman. Durch ein solches Zeichen wurden die drei Jungen im Feuerofen geschützt. Viele heilige Männer erduldeten andere, noch schlimmere Qualen. [Alle heiligen Männer werden durch diese Gestalt dargestellt. Wie Zugvögel gelangen sie ins Himmelreich wie in einen Hafen vollkommener Ruhe. Wer nicht geistlich zu schwimmen weiß und sich mit irdischen und vergänglichen Dingen abgibt, wird vom Himmelreich ausgeschlossen werden und unter den Toten zugrunde gehen. So sagte der Herr im Evangelium: „Lass die Toten ihre Toten begraben. “] Der Physiologus hat also weise über den Ibis gesprochen.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Es gibt ein Tier namens Ibis, das "
+          },
+          {
+            "type": "text",
+            "text": "nach dem Gesetz unreiner ist als alle anderen Vögel",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "f2d7fa7c-b019-4657-b71a-34b91c6e9086"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " [denn es ernährt sich stets von Aas am Ufer des Meeres, der Flüsse oder der Sümpfe und geht dort Tag und Nacht umher, um tote Fische oder Aas zu suchen, das faul und verwest aus dem Wasser angeschwemmt wurde]. Da der Ibis nicht schwimmen kann, sucht er seine Nahrung am Ufer von Flüssen oder Teichen. Er kann nicht im tiefen Wasser schwimmen, sondern nur dort, wo unreine kleine Fische leben, und ist nur außerhalb der tiefsten Stellen zu finden. Lerne geistlich zu schwimmen, damit du in den tiefen, geistig erfassbaren und geistlichen Strom und in die "
+          },
+          {
+            "type": "text",
+            "text": "Tiefe der Weisheit der Macht Gottes",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "05ade9d1-a468-4ab3-b051-ba810d9dcb16"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " gelangst. Wenn du in die Tiefe gehen und die Geheimnisse Jesu Christi kennenlernen willst, lerne geistlich zu schwimmen. [Nimm die geistliche und reinste Nahrung zu dir, die der Apostel mit diesen Worten nennt: „"
+          },
+          {
+            "type": "text",
+            "text": "Die Frucht des Geistes ist Liebe, Freude, Frieden, Geduld, Langmut, Güte, Freundlichkeit, Sanftmut, Glaube, Bescheidenheit, Enthaltsamkeit und Keuschheit.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "b25568ea-d1b9-4612-a98e-3d6b31f9656e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Wenn du aber das tiefe Wasser meidest, wo du geistliche Nahrung finden könntest, und am Ufer entlanggehst und umherirrst, wirst du dich von totem, stinkendem Aas ernähren. Davon sagte der Apostel: „"
+          },
+          {
+            "type": "text",
+            "text": "Die Werke des Fleisches aber sind offenkundig: Unreinheit, Ehebruch, Unzucht, Schamlosigkeit, Begierde, Götzendienst, Trunkenheit, Geiz und Habsucht.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "873add03-a340-4cb4-8d71-36cfdb145f26"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Das sind die fleischlichen und tödlichen Speisen, die unglückliche Seelen nähren und ihnen dadurch Leid bereiten.] Wenn du nicht beide Hände ausstreckst und die Gestalt des Kreuzes bildest, wirst du das Meer nicht durchqueren können."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Und wenn du nicht durch das Kreuz den Weg durch die Welt zu Gott gehen willst, wirst du den Ärgernissen nicht entgehen. Weise Männer, die weder schwimmen noch beten können, ernähren sich außerhalb der Kirche. Außerhalb des Glaubens stehen Taten der Unzucht, des Ehebruchs, der Verleumdung und der Habgier. "
+          },
+          {
+            "type": "text",
+            "text": "Die Wurzel aller Übel ist die Habgier",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "063c7637-9c42-44bd-84fb-407a77cc7b70"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", und über jedem Geschöpf steht die Gestalt des Kreuzes. Und die Sonne kann nicht scheinen, wenn sie nicht ihre Strahlen ausstreckt. Und der Mond scheint nicht, wenn er nicht seine beiden Hörner ausstreckt. Und selbst die Vögel des Himmels können nicht fliegen, wenn sie nicht ihre Flügel ausbreiten. Auch ein Schiff kommt bei wehendem Wind nicht in Fahrt, wenn sein Segel nicht aufgespannt ist. So "
+          },
+          {
+            "type": "text",
+            "text": "tötete auch Mose mit ausgestreckten Händen Amalek",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "5ee0c95d-fe98-4c5a-a784-628ed0265ffb"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Weil Daniel betete, entkam er den Löwen",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "a02381f3-7b82-43da-a2bd-0d3520698464"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Ebenso "
+          },
+          {
+            "type": "text",
+            "text": "wurde Jona durch sein Gebet gerettet, als er im Bauch des Wals war",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "3ded1131-e18b-439d-903c-80c95f6fe46b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Thekla wurde ins Feuer und in die Gruben der wilden Tiere geworfen, und die Gestalt des Kreuzes rettete sie. "
+          },
+          {
+            "type": "text",
+            "text": "Auch Susanna wurde aus der Gewalt der Ältesten befreit",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "7d226061-1568-46f7-b90d-532bc66469dc"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Auf diese Weise "
+          },
+          {
+            "type": "text",
+            "text": "tötete Judith mit ihrer mächtigen Rechten Holofernes",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "068d6354-c751-4faa-a0b2-b73bef582ddd"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", und "
+          },
+          {
+            "type": "text",
+            "text": "Ester tötete Haman",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "a68a4b4c-71f3-4fb0-9781-d697a24493c9"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Durch ein solches Zeichen "
+          },
+          {
+            "type": "text",
+            "text": "wurden die drei Jungen im Feuerofen geschützt",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "1b5b3de8-640a-4102-a3b9-bcd43514fdbd"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Viele heilige Männer erduldeten andere, noch schlimmere Qualen. [Alle heiligen Männer werden durch diese Gestalt dargestellt. Wie Zugvögel gelangen sie ins Himmelreich wie in einen Hafen vollkommener Ruhe. Wer nicht geistlich zu schwimmen weiß und sich mit irdischen und vergänglichen Dingen abgibt, wird vom Himmelreich ausgeschlossen werden und unter den Toten zugrunde gehen. So sagte der Herr im Evangelium: „"
+          },
+          {
+            "type": "text",
+            "text": "Lass die Toten ihre Toten begraben.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "81056490-342f-41db-888a-9a4c7190a80c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “] Der Physiologus hat also weise über den Ibis gesprochen."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "05ade9d1-a468-4ab3-b051-ba810d9dcb16",
+      "passages": [
+        {
+          "from": {
+            "book": 540,
+            "chapter": 11,
+            "verse": 33
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "063c7637-9c42-44bd-84fb-407a77cc7b70",
+      "passages": [
+        {
+          "from": {
+            "book": 630,
+            "chapter": 6,
+            "verse": 10
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "068d6354-c751-4faa-a0b2-b73bef582ddd",
+      "passages": [
+        {
+          "from": {
+            "book": 400,
+            "chapter": 13,
+            "verse": 7
+          },
+          "to": {
+            "book": 400,
+            "chapter": 13,
+            "verse": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "1b5b3de8-640a-4102-a3b9-bcd43514fdbd",
+      "passages": [
+        {
+          "from": {
+            "book": 260,
+            "chapter": 3,
+            "verse": 1
+          },
+          "to": {
+            "book": 260,
+            "chapter": 3,
+            "verse": 30
+          }
+        }
+      ]
+    },
+    {
+      "id": "3ded1131-e18b-439d-903c-80c95f6fe46b",
+      "passages": [
+        {
+          "from": {
+            "book": 310,
+            "chapter": 2,
+            "verse": 1
+          },
+          "to": {
+            "book": 310,
+            "chapter": 2,
+            "verse": 11
+          }
+        }
+      ]
+    },
+    {
+      "id": "5ee0c95d-fe98-4c5a-a784-628ed0265ffb",
+      "passages": [
+        {
+          "from": {
+            "book": 10,
+            "chapter": 17,
+            "verse": 11
+          },
+          "to": {
+            "book": 10,
+            "chapter": 17,
+            "verse": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "7d226061-1568-46f7-b90d-532bc66469dc",
+      "passages": [
+        {
+          "from": {
+            "book": 265,
+            "chapter": 1,
+            "verse": 60
+          },
+          "to": {
+            "book": 265,
+            "chapter": 1,
+            "verse": 62
+          }
+        }
+      ]
+    },
+    {
+      "id": "81056490-342f-41db-888a-9a4c7190a80c",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 8,
+            "verse": 22
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "873add03-a340-4cb4-8d71-36cfdb145f26",
+      "passages": [
+        {
+          "from": {
+            "book": 570,
+            "chapter": 5,
+            "verse": 19
+          },
+          "to": {
+            "book": 570,
+            "chapter": 5,
+            "verse": 21
+          }
+        }
+      ]
+    },
+    {
+      "id": "a02381f3-7b82-43da-a2bd-0d3520698464",
+      "passages": [
+        {
+          "from": {
+            "book": 260,
+            "chapter": 6,
+            "verse": 19
+          },
+          "to": {
+            "book": 260,
+            "chapter": 6,
+            "verse": 23
+          }
+        }
+      ]
+    },
+    {
+      "id": "a68a4b4c-71f3-4fb0-9781-d697a24493c9",
+      "passages": [
+        {
+          "from": {
+            "book": 160,
+            "chapter": 7,
+            "verse": 10
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "b25568ea-d1b9-4612-a98e-3d6b31f9656e",
+      "passages": [
+        {
+          "from": {
+            "book": 570,
+            "chapter": 5,
+            "verse": 22
+          },
+          "to": {
+            "book": 570,
+            "chapter": 5,
+            "verse": 23
+          }
+        }
+      ]
+    },
+    {
+      "id": "f2d7fa7c-b019-4657-b71a-34b91c6e9086",
+      "passages": [
+        {
+          "from": {
+            "book": 20,
+            "chapter": 11,
+            "verse": 17
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

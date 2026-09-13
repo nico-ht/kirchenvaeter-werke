@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "16cf2c23-e67c-4865-fb2e-08df104798a7",
+  "chapterId": "8595c26f-e5fe-44c7-ba0d-08df104d63f5",
+  "number": 28,
+  "title": "Kapitel 28",
+  "workTitle": "Physiologus",
+  "authorName": "Unbekannt",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/unbekannt/physiologus#kapitel-8595c26f-e5fe-44c7-ba0d-08df104d63f5",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:12d5b79d4788d430bfa47686ea5e328a27fe06f57473d9ba483ce8266c3a672e",
+  "plainText": "Es gibt einen Vogel namens Reiher. David kannte ihn, als er sagte: „Der Reiher ist das Oberhaupt ihres Hauses .“ Das ist das „Blässhuhn “ aus Psalm 104. Dieses Tier ist klüger als alle anderen Vögel, denn es sucht sich nicht viele Nester, sondern frisst dort, wo es sich niederlässt, kehrt dorthin zurück und schläft dort. Dieser Vogel frisst auch kein Aas und fliegt nicht an viele verschiedene Orte. Sein Nest und seine Nahrung sind am selben Ort. Und du, Bürger, lass die heilige katholische Kirche deine einzige und ewige Amme sein, damit du geistliche Nahrung und himmlisches Brot leicht verdauen kannst. Suche nicht viele Stätten fremder Herrlichkeit auf (das heißt Stätten der Häretiker).",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Es gibt einen Vogel namens Reiher. David kannte ihn, als er sagte: „"
+          },
+          {
+            "type": "text",
+            "text": "Der Reiher ist das Oberhaupt ihres Hauses",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "8e605a3e-5639-401b-83cc-51dbbc7b44d2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": ".“"
+          },
+          {
+            "type": "text",
+            "text": " Das ist das "
+          },
+          {
+            "type": "text",
+            "text": "„"
+          },
+          {
+            "type": "text",
+            "text": "Blässhuhn",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "8e605a3e-5639-401b-83cc-51dbbc7b44d2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “"
+          },
+          {
+            "type": "text",
+            "text": " aus Psalm 104. Dieses Tier ist klüger als alle anderen Vögel, denn es sucht sich nicht viele Nester, sondern frisst dort, wo es sich niederlässt, kehrt dorthin zurück und schläft dort. Dieser Vogel frisst auch kein Aas und fliegt nicht an viele verschiedene Orte. Sein Nest und seine Nahrung sind am selben Ort. Und du, Bürger, lass die heilige katholische Kirche deine einzige und ewige Amme sein, damit du geistliche Nahrung und himmlisches Brot leicht verdauen kannst. Suche nicht viele Stätten fremder Herrlichkeit auf (das heißt Stätten der Häretiker)."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "8e605a3e-5639-401b-83cc-51dbbc7b44d2",
+      "passages": [
+        {
+          "from": {
+            "book": 180,
+            "chapter": 104,
+            "verse": 17
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

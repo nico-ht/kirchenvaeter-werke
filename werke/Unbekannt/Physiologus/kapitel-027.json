@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "16cf2c23-e67c-4865-fb2e-08df104798a7",
+  "chapterId": "5854ca3b-b2db-45e6-ba0c-08df104d63f5",
+  "number": 27,
+  "title": "Kapitel 27",
+  "workTitle": "Physiologus",
+  "authorName": "Unbekannt",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/unbekannt/physiologus#kapitel-5854ca3b-b2db-45e6-ba0c-08df104d63f5",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:c02ef067ced068b826db7f453436ccf0e93ef34dd5efba328d2ddbe0dca1ed4a",
+  "plainText": "Es gibt einen Stein namens Sindicus, der folgende Eigenschaft hat: Wenn ein Mensch wassersüchtig ist, suchen die Ärzte nach diesem Stein und binden ihn, sobald sie ihn finden, für drei Stunden an den Wassersüchtigen. Daraufhin verlässt die Unreinheit den Kranken und wird vom Stein selbst aufgenommen. Wenn sie den Stein vom Kranken losgebunden haben, wiegen sie beide, und der mittelgroße Stein wiegt auf der Waage mehr als der Mensch. Setzt man den Stein aber drei Stunden lang der Sonne aus, lässt er das äußerst unreine Wasser, das er aus dem Körper des Wassersüchtigen aufgenommen hat, herausströmen und wird wieder so rein wie zuvor. Der Stein ist unser Herr Jesus Christus. Weil wir wassersüchtig waren und die Wasser des Teufels in unseren Herzen hatten, kam der Stein des Erlösers herab und wurde festgebunden, und seine Liebe umschloss unsere Herzen. Als er aber von den Toten auferstand, befreite er unsere Seele von jedem geistigen Gebrechen. „Und er selbst trug unsere Gebrechen. “",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Es gibt einen Stein namens Sindicus, der folgende Eigenschaft hat: Wenn ein Mensch wassersüchtig ist, suchen die Ärzte nach diesem Stein und binden ihn, sobald sie ihn finden, für drei Stunden an den Wassersüchtigen. Daraufhin verlässt die Unreinheit den Kranken und wird vom Stein selbst aufgenommen. Wenn sie den Stein vom Kranken losgebunden haben, wiegen sie beide, und der mittelgroße Stein wiegt auf der Waage mehr als der Mensch. Setzt man den Stein aber drei Stunden lang der Sonne aus, lässt er das äußerst unreine Wasser, das er aus dem Körper des Wassersüchtigen aufgenommen hat, herausströmen und wird wieder so rein wie zuvor. Der Stein ist unser Herr Jesus Christus. Weil wir wassersüchtig waren und die Wasser des Teufels in unseren Herzen hatten, kam der Stein des Erlösers herab und wurde festgebunden, und seine Liebe umschloss unsere Herzen. Als er aber von den Toten auferstand, befreite er unsere Seele von jedem geistigen Gebrechen. „"
+          },
+          {
+            "type": "text",
+            "text": "Und er selbst trug unsere Gebrechen.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "5bbaa1f2-5092-4c56-9af6-92b22347fbe4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “"
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "5bbaa1f2-5092-4c56-9af6-92b22347fbe4",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 8,
+            "verse": 17
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

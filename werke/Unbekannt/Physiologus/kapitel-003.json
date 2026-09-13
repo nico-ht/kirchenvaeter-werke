@@ -1,0 +1,157 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "16cf2c23-e67c-4865-fb2e-08df104798a7",
+  "chapterId": "ef3d43b8-018a-4aa2-b9f4-08df104d63f5",
+  "number": 3,
+  "title": "Kapitel 3",
+  "workTitle": "Physiologus",
+  "authorName": "Unbekannt",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/unbekannt/physiologus#kapitel-ef3d43b8-018a-4aa2-b9f4-08df104d63f5",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:3288fb44ead56b4505fca8cb9cfe81e0052817052917df4714987015da861bc9",
+  "plainText": "Piroboli-Steine gibt es nur im Osten; es sind feurige Steine männlichen und weiblichen Geschlechts. Solange sie voneinander getrennt sind, brennen sie nicht. Nähert sich aber der männliche dem weiblichen Stein, bricht Feuer aus und verzehrt alles. Du Bürger, der du in allem Maß hältst: Im Tartaros sind viele Männer, die wegen Frauen in Versuchung geraten sind. [Halte dich weit von Frauen fern, damit nicht das doppelte Feuer aufflammt, wenn ihr einander näherkommt, und die guten Gaben verzehrt, die Christus dir hinterlassen hat. Satans Engel bekämpfen stets die Gerechten, nicht nur heilige Männer, sondern auch keusche Frauen. Simson und Josef wurden beide von Frauen versucht; der eine siegte, der andere wurde selbst besiegt. Eva und Susanna wurden versucht: Erstere siegte, Letztere wurde besiegt.]",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Piroboli-Steine gibt es nur im Osten; es sind feurige Steine männlichen und weiblichen Geschlechts. Solange sie voneinander getrennt sind, brennen sie nicht. Nähert sich aber der männliche dem weiblichen Stein, bricht Feuer aus und verzehrt alles. Du Bürger, der du in allem Maß hältst: Im Tartaros sind viele Männer, die "
+          },
+          {
+            "type": "text",
+            "text": "wegen Frauen in Versuchung geraten sind",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "54e644ff-ab6e-40ea-aae0-1cf199429407"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". [Halte dich weit von Frauen fern, damit nicht das doppelte Feuer aufflammt, wenn ihr einander näherkommt, und die guten Gaben verzehrt, die Christus dir hinterlassen hat. Satans Engel bekämpfen stets die Gerechten, nicht nur heilige Männer, sondern auch keusche Frauen. "
+          },
+          {
+            "type": "text",
+            "text": "Simson und Josef wurden beide von Frauen versucht; der eine siegte, der andere wurde selbst besiegt",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "dc71622c-2fb9-46ac-9fdd-63e1974bcb30"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Eva und Susanna wurden versucht",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "8c74c5d0-c5cf-474b-8143-06fae80b0811"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ": Erstere siegte, Letztere wurde besiegt.]"
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "54e644ff-ab6e-40ea-aae0-1cf199429407",
+      "passages": [
+        {
+          "from": {
+            "book": 430,
+            "chapter": 9,
+            "verse": 8
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "8c74c5d0-c5cf-474b-8143-06fae80b0811",
+      "passages": [
+        {
+          "from": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 1
+          },
+          "to": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 6
+          }
+        },
+        {
+          "from": {
+            "book": 265,
+            "chapter": 1,
+            "verse": 19
+          },
+          "to": {
+            "book": 265,
+            "chapter": 1,
+            "verse": 23
+          }
+        }
+      ]
+    },
+    {
+      "id": "dc71622c-2fb9-46ac-9fdd-63e1974bcb30",
+      "passages": [
+        {
+          "from": {
+            "book": 1,
+            "chapter": 39,
+            "verse": 7
+          },
+          "to": {
+            "book": 1,
+            "chapter": 39,
+            "verse": 12
+          }
+        },
+        {
+          "from": {
+            "book": 60,
+            "chapter": 16,
+            "verse": 4
+          },
+          "to": {
+            "book": 60,
+            "chapter": 16,
+            "verse": 21
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

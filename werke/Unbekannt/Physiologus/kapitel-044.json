@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "16cf2c23-e67c-4865-fb2e-08df104798a7",
+  "chapterId": "214db165-c6c1-4f02-ba1d-08df104d63f5",
+  "number": 44,
+  "title": "Kapitel 44",
+  "workTitle": "Physiologus",
+  "authorName": "Unbekannt",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/unbekannt/physiologus#kapitel-214db165-c6c1-4f02-ba1d-08df104d63f5",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:65465baed98769dc3908d2179130e26ab6a4bf9e607e9604d97b65ce2baa78d6",
+  "plainText": "König Hezekiah sagte im Buch des Propheten Jesaja: „Wie eine Schwalbe schreie ich, und wie eine Taube stöhne ich. “ Und bei Jeremia heißt es: „Die Turteltaube, die Schwalbe und der Storch halten ihre Ankunftszeit ein. “ Physiologus sagte von der Schwalbe, dass sie nur einmal Junge zur Welt bringt und danach nie wieder. Auch mein Erlöser wurde nur einmal im Mutterleib empfangen. Einmal wurde er ausgetragen, einmal gekreuzigt, und einmal ist er von den Toten auferstanden: „Ein Gott, ein Glaube, eine Taufe. “",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "König Hezekiah sagte im Buch des Propheten Jesaja: „"
+          },
+          {
+            "type": "text",
+            "text": "Wie eine Schwalbe schreie ich, und wie eine Taube stöhne ich.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "05d0dc8c-f8a0-46dc-ba07-c82e8ab6135a"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Und bei Jeremia heißt es: „"
+          },
+          {
+            "type": "text",
+            "text": "Die Turteltaube, die Schwalbe und der Storch halten ihre Ankunftszeit ein.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "b07d7a0b-6782-4d07-95df-3eb81e13392f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Physiologus sagte von der Schwalbe, dass sie nur einmal Junge zur Welt bringt und danach nie wieder. Auch mein Erlöser wurde nur einmal im Mutterleib empfangen. Einmal wurde er ausgetragen, einmal gekreuzigt, und einmal ist er von den Toten auferstanden: „"
+          },
+          {
+            "type": "text",
+            "text": "Ein Gott, ein Glaube, eine Taufe.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "0f39bfac-5293-4b7b-a04a-08acc67c35fc"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “"
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "05d0dc8c-f8a0-46dc-ba07-c82e8ab6135a",
+      "passages": [
+        {
+          "from": {
+            "book": 220,
+            "chapter": 38,
+            "verse": 14
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "0f39bfac-5293-4b7b-a04a-08acc67c35fc",
+      "passages": [
+        {
+          "from": {
+            "book": 580,
+            "chapter": 4,
+            "verse": 5
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "b07d7a0b-6782-4d07-95df-3eb81e13392f",
+      "passages": [
+        {
+          "from": {
+            "book": 230,
+            "chapter": 8,
+            "verse": 7
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

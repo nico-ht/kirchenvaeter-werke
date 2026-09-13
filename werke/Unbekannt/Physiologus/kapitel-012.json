@@ -1,0 +1,133 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "16cf2c23-e67c-4865-fb2e-08df104798a7",
+  "chapterId": "01b4c707-1eed-4dae-b9fd-08df104d63f5",
+  "number": 12,
+  "title": "Kapitel 12",
+  "workTitle": "Physiologus",
+  "authorName": "Unbekannt",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/unbekannt/physiologus#kapitel-01b4c707-1eed-4dae-b9fd-08df104d63f5",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:742e1808440afaca13d8944b8eb39c5f2ab3d2a83e335a8559547bf507b1d55a",
+  "plainText": "Johannes sagte zu den Pharisäern: „Ihr Vipernbrut! “ Physiologus sagt von der Viper, dass das Männchen das Gesicht eines Mannes hat, während das Weibchen bis zum Nabel die Gestalt einer Frau, vom Nabel bis zum Schwanz aber die Gestalt eines Krokodils hat. Die Frau hat nämlich keine Schamteile, das heißt keine Geschlechtsteile zum Gebären, sondern nur eine stecknadelgroße Öffnung. Wenn sich das Männchen mit dem Weibchen paart und seinen Samen in dessen Mund ergießt und wenn das Weibchen diesen Samen trinkt, trennt es dem Männchen die Zeugungsorgane ab, also dessen männliche Geschlechtsteile, und das Männchen stirbt. Wenn aber die Jungen im Leib ihrer Mutter herangewachsen sind, die keine Geschlechtsteile zum Gebären hat, durchstoßen sie ihre Seite und töten sie auf ihrem Weg ins Freie. Deshalb verglich unser Erlöser die Pharisäer mit der Viper: Wie die Vipernbrut ihren Vater und ihre Mutter tötet, so tötet dieses Volk, das ohne Gott ist, seinen Vater Jesus Christus und seine irdische Mutter Jerusalem. „Doch wie werden sie dem kommenden Zorn entfliehen? “ Unser Vater Jesus Christus und unsere Mutter, die Kirche, leben in Ewigkeit; wer aber in Sünde lebt, ist tot.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Johannes sagte zu den Pharisäern: „"
+          },
+          {
+            "type": "text",
+            "text": "Ihr Vipernbrut!",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "58e3774d-d733-4dcb-b3fc-2db8cf7bf37e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Physiologus sagt von der Viper, dass das Männchen das Gesicht eines Mannes hat, während das Weibchen bis zum Nabel die Gestalt einer Frau, vom Nabel bis zum Schwanz aber die Gestalt eines Krokodils hat. Die Frau hat nämlich keine Schamteile, das heißt keine Geschlechtsteile zum Gebären, sondern nur eine stecknadelgroße Öffnung. Wenn sich das Männchen mit dem Weibchen paart und seinen Samen in dessen Mund ergießt und wenn das Weibchen diesen Samen trinkt, trennt es dem Männchen die Zeugungsorgane ab, also dessen männliche Geschlechtsteile, und das Männchen stirbt. Wenn aber die Jungen im Leib ihrer Mutter herangewachsen sind, die keine Geschlechtsteile zum Gebären hat, durchstoßen sie ihre Seite und töten sie auf ihrem Weg ins Freie. Deshalb "
+          },
+          {
+            "type": "text",
+            "text": "verglich unser Erlöser die Pharisäer mit der Viper",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "bbf9dc31-fbef-4245-a167-4c9cfb2850c4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ": Wie die Vipernbrut ihren Vater und ihre Mutter tötet, so tötet dieses Volk, das ohne Gott ist, seinen Vater Jesus Christus und seine irdische Mutter Jerusalem. „"
+          },
+          {
+            "type": "text",
+            "text": "Doch wie werden sie dem kommenden Zorn entfliehen?",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "22218c23-bfee-4db0-91d2-633c6f2b808e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Unser Vater Jesus Christus und unsere Mutter, die Kirche, leben in Ewigkeit; wer aber in Sünde lebt, ist tot."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "22218c23-bfee-4db0-91d2-633c6f2b808e",
+      "passages": [
+        {
+          "from": {
+            "book": 510,
+            "chapter": 3,
+            "verse": 7
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "58e3774d-d733-4dcb-b3fc-2db8cf7bf37e",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 3,
+            "verse": 7
+          },
+          "to": null
+        },
+        {
+          "from": {
+            "book": 510,
+            "chapter": 3,
+            "verse": 7
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "bbf9dc31-fbef-4245-a167-4c9cfb2850c4",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 23,
+            "verse": 33
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

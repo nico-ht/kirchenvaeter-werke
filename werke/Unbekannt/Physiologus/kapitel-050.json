@@ -1,0 +1,757 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "16cf2c23-e67c-4865-fb2e-08df104798a7",
+  "chapterId": "e515b9d4-535d-47f4-ba23-08df104d63f5",
+  "number": 50,
+  "title": "Kapitel 50",
+  "workTitle": "Physiologus",
+  "authorName": "Unbekannt",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/unbekannt/physiologus#kapitel-e515b9d4-535d-47f4-ba23-08df104d63f5",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:44778345d53d228b916e5c9368a492a9dcf1717b42f5ae6da721ef60f166969c",
+  "plainText": "Der Evangelist Johannes sagt: „Ich sah den Himmel offen und den Geist Gottes auf ihn herabkommen. “ Physiologus sprach von vielen Arten von Tauben: bunten, gesprenkelten, schwarzen, weißen, roten (Stephanitus), goldgelben, himmelblauen, aschgrauen, goldenen und honigfarbenen. Die rote Taube ist die Erste unter ihnen; sie herrscht über sie, besänftigt sie und sammelt wilde Tauben in ihrem Taubenschlag. Auch derjenige ist der Erste, der uns durch sein kostbares Blut erlöst und uns aus verschiedenen Völkern in dem einen Haus der Kirche gesammelt hat. Weder Mose noch Elija noch einer der Propheten oder Patriarchen hat uns gerettet, sondern er allein, der vom Vater kam und uns durch sein Leiden vom ewigen Tod erlöste. Johannes sagte: „Ich sah den Himmel offen und den Geist Gottes wie eine Taube herabkommen. “ Dieser Geist war von Gott gesandt. „Er will, dass alle Menschen gerettet werden und zur Erkenntnis der Wahrheit gelangen. “ Weil er die Menschheit in der heiligen katholischen und apostolischen Kirche sammeln wollte, sandte er den Heiligen Geist zu allen Menschen. Durch das Gesetz und die Propheten sprach dieser „auf vielerlei und unterschiedliche Weise “, so verschieden wie die Farben der Tauben. Schwarz steht für das Gesetz, weil seine Worte dunkel sind und sein Sinn strittig ist. Die gesprenkelte Färbung steht für die Vielfalt der zwölf Propheten. Himmelblau steht für Elija, der in einem Wagen durch die Lüfte in den Himmel aufgenommen wurde. Aschgrau steht für den Propheten Jona, der den Niniviten predigte und in einem härenen Gewand und in Asche Buße tat. Darum schützte der Herr sein Leben. Gold steht für niemand anderen als jene drei Jungen, die den wahren Geist Gottes hatten und zu König Nebukadnezar sagten: „Du sollst wissen, König, dass wir deinem Gott nicht dienen und uns vor dem goldenen Abbild, das du aufgestellt hast, nicht niederwerfen werden. “ Elisa ist honigfarben, denn er empfing den Mantel von seinem Meister Elija, als dieser in den Himmel aufstieg, und verdiente es, mit einem doppelten Anteil an dessen Geist geehrt zu werden. Weiß steht für den seligen Johannes, den Vorläufer Christi, der die Reinheit der heiligen Taufe besaß.\n\nDer Prophet Jesaja sagte darüber: „Wascht euch, macht euch rein, schafft eure bösen Gedanken mir aus den Augen; lernt, Gutes zu tun. Und wenn eure Sünden wie Scharlach wären, werden sie weiß wie Schnee werden. “ Der Herr sagte über Johannes: „Wahrlich, ich sage euch: Unter denen, die von einer Frau geboren wurden, war keiner größer als Johannes der Täufer. “ Die Verkündigung des Gesetzes und der Propheten reichte bis zur Zeit des Johannes, der mit dem Finger auf Christus zeigte: „Seht, das Lamm Gottes, das die Sünden der Welt hinwegnimmt. “ Rot (stephanitus) ist Stephanus, der erste Märtyrer. Nachdem er den Heiligen Geist empfangen hatte, wurde er für würdig befunden, Christus in einer Vision zur Rechten des Vaters zu sehen. Rot steht für das Leiden des Herrn, dessentwegen Rahab, die Hure, das scharlachrote Zeichen beiseitelegte und in Jericho gerettet wurde. Im Hohenlied heißt es: „Deine Lippen sind rot wie ein geflochtenes Band. “ Das Evangelium sagt: „Die Juden kleideten den Herrn in ein scharlachrotes Gewand. “ Und Jesaja fragt: „Wer ist dieser, der aus Edom heraufkommt, in tiefroten Gewändern aus Bozra? “ Und die Hebamme band Serach, dem Sohn des Judas, einen scharlachroten Faden um die Hand, als er noch im Leib seiner Mutter war. Im Hohenlied heißt es: „Mein Cousin ist weiß und rot. “ Weiß steht für Jungfräulichkeit und Rot für das Martyrium, durch das wir alle, die wir glauben, gerettet worden sind, im Namen des Vaters und des Sohnes und des Heiligen Geistes, der gepriesen ist in Ewigkeit. Amen. So hat das Blut meines Erlösers alle zum ewigen Leben geführt. Weder Mose, weil er das Gesetz gab, noch Jesaja, noch irgendeiner der Propheten hat uns gerettet, sondern der Herr Jesus Christus, der Sohn Gottes, kam herab und rettete uns mit seinem heiligen Blut. Wegen des scharlachroten Zeichens wurde seine Seele vor Unzucht gerettet; und Maria nahm, nachdem sie erwählt worden war, den Scharlach und den Purpur an. Im Hohenlied wurde gesagt: „Deine Lippen sind wie ein scharlachroter Mantel, und deine Worte sind lieblich. “ Und bei Matthäus: „Sie kleideten ihn in ein scharlachrotes Gewand. “",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Der Evangelist Johannes sagt: „"
+          },
+          {
+            "type": "text",
+            "text": "Ich sah den Himmel offen und den Geist Gottes auf ihn herabkommen.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "f1587fa4-54c0-4cbe-b5e3-f7ef6d703e5d"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Physiologus sprach von vielen Arten von Tauben: bunten, gesprenkelten, schwarzen, weißen, roten (Stephanitus), goldgelben, himmelblauen, aschgrauen, goldenen und honigfarbenen. Die rote Taube ist die Erste unter ihnen; sie herrscht über sie, besänftigt sie und sammelt wilde Tauben in ihrem Taubenschlag. Auch derjenige ist der Erste, der "
+          },
+          {
+            "type": "text",
+            "text": "uns durch sein kostbares Blut erlöst",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "d4e607da-ef05-4b7f-b08f-e41966401ce0"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und uns aus verschiedenen Völkern in dem einen Haus der Kirche gesammelt hat. Weder Mose noch Elija noch einer der Propheten oder Patriarchen hat uns gerettet, sondern er allein, der vom Vater kam und uns durch sein Leiden vom ewigen Tod erlöste. Johannes sagte: „"
+          },
+          {
+            "type": "text",
+            "text": "Ich sah den Himmel offen und den Geist Gottes wie eine Taube herabkommen.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "588b04b5-3118-4853-9965-694d66252217"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Dieser Geist war von Gott gesandt. „"
+          },
+          {
+            "type": "text",
+            "text": "Er will, dass alle Menschen gerettet werden und zur Erkenntnis der Wahrheit gelangen.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "2438a62a-90e8-4ebd-aa01-819dc8e47a60"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Weil er die Menschheit in der heiligen katholischen und apostolischen Kirche sammeln wollte, sandte er den Heiligen Geist zu allen Menschen. Durch das Gesetz und die Propheten sprach dieser „"
+          },
+          {
+            "type": "text",
+            "text": "auf vielerlei und unterschiedliche Weise",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "b3dbdeb3-ce60-4977-8a4b-f3be0589b890"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “, so verschieden wie die Farben der Tauben. Schwarz steht für das Gesetz, weil seine Worte dunkel sind und sein Sinn strittig ist. Die gesprenkelte Färbung steht für die Vielfalt der zwölf Propheten. Himmelblau steht für "
+          },
+          {
+            "type": "text",
+            "text": "Elija, der in einem Wagen durch die Lüfte in den Himmel aufgenommen wurde",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "50f51fec-a687-4762-8995-2d67e7515eb1"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Aschgrau steht für den "
+          },
+          {
+            "type": "text",
+            "text": "Propheten Jona, der den Niniviten predigte und in einem härenen Gewand und in Asche Buße tat",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "106ed097-7391-44bc-ba32-02fda01f83f7"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Darum schützte der Herr sein Leben. Gold steht für niemand anderen als jene drei Jungen, die den wahren Geist Gottes hatten und zu König Nebukadnezar sagten: „"
+          },
+          {
+            "type": "text",
+            "text": "Du sollst wissen, König, dass wir deinem Gott nicht dienen und uns vor dem goldenen Abbild, das du aufgestellt hast, nicht niederwerfen werden.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "3f762fd8-05e3-417e-b108-d2916fea9cae"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Elisa ist honigfarben, denn "
+          },
+          {
+            "type": "text",
+            "text": "er empfing den Mantel von seinem Meister Elija, als dieser in den Himmel aufstieg",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "5cc0ae28-0f50-495e-9e66-830516cbbef8"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", und verdiente es, "
+          },
+          {
+            "type": "text",
+            "text": "mit einem doppelten Anteil an dessen Geist",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "5cc0ae28-0f50-495e-9e66-830516cbbef8"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " geehrt zu werden. Weiß steht für den seligen Johannes, den Vorläufer Christi, der die Reinheit der heiligen Taufe besaß."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Der Prophet Jesaja sagte darüber: „"
+          },
+          {
+            "type": "text",
+            "text": "Wascht euch, macht euch rein, schafft eure bösen Gedanken mir aus den Augen; lernt, Gutes zu tun. Und wenn eure Sünden wie Scharlach wären, werden sie weiß wie Schnee werden.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "d2bc87b5-a8e2-4b59-9e12-1e5135e76ccd"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Der Herr sagte über Johannes: „"
+          },
+          {
+            "type": "text",
+            "text": "Wahrlich, ich sage euch: Unter denen, die von einer Frau geboren wurden, war keiner größer als Johannes der Täufer.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "94e1abd6-0867-40ec-bd34-ebba5d2b207c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ "
+          },
+          {
+            "type": "text",
+            "text": "Die Verkündigung des Gesetzes und der Propheten reichte bis zur Zeit des Johannes",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "e7eba418-5fdd-4012-9635-d4822b30df4f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", der mit dem Finger auf Christus zeigte: „"
+          },
+          {
+            "type": "text",
+            "text": "Seht, das Lamm Gottes, das die Sünden der Welt hinwegnimmt.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "f81c5126-0b94-4109-bc0a-d7398c08c304"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Rot (stephanitus) ist Stephanus, der erste Märtyrer. Nachdem er den Heiligen Geist empfangen hatte, wurde er für würdig befunden, "
+          },
+          {
+            "type": "text",
+            "text": "Christus in einer Vision zur Rechten des Vaters zu sehen",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "41d6e321-eda0-435d-8d6e-1e56761216e2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Rot steht für das Leiden des Herrn, dessentwegen "
+          },
+          {
+            "type": "text",
+            "text": "Rahab, die Hure, das scharlachrote Zeichen beiseitelegte und in Jericho gerettet wurde",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "24bca4c5-9d4e-4d29-81f6-38e20dae0e99"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Im Hohenlied heißt es: „"
+          },
+          {
+            "type": "text",
+            "text": "Deine Lippen sind rot wie ein geflochtenes Band.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "5785665f-e9ff-4173-9fdd-c03140df01f5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Das Evangelium sagt: „"
+          },
+          {
+            "type": "text",
+            "text": "Die Juden kleideten den Herrn in ein scharlachrotes Gewand.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "2bd689e7-03c5-440e-b580-4289eff9669e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Und Jesaja fragt: „"
+          },
+          {
+            "type": "text",
+            "text": "Wer ist dieser, der aus Edom heraufkommt, in tiefroten Gewändern aus Bozra?",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "fd26c822-db9c-436f-8129-0a0955982f74"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Und "
+          },
+          {
+            "type": "text",
+            "text": "die Hebamme band Serach, dem Sohn des Judas, einen scharlachroten Faden um die Hand, als er noch im Leib seiner Mutter war",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "36d60dff-b021-4ada-879d-a8a0fc66462b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Im Hohenlied heißt es: „"
+          },
+          {
+            "type": "text",
+            "text": "Mein Cousin ist weiß und rot.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "db8ff05a-a15b-46f5-9b0a-9735df8958d9"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Weiß steht für Jungfräulichkeit und Rot für das Martyrium, durch das wir alle, die wir glauben, gerettet worden sind, "
+          },
+          {
+            "type": "text",
+            "text": "im Namen des Vaters und des Sohnes und des Heiligen Geistes",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "4e94eddf-9d50-4ed7-a357-102202e15cf9"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", der gepriesen ist in Ewigkeit. Amen. So hat das Blut meines Erlösers alle zum ewigen Leben geführt. Weder Mose, weil er das Gesetz gab, noch Jesaja, noch irgendeiner der Propheten hat uns gerettet, sondern der Herr Jesus Christus, der Sohn Gottes, kam herab und rettete uns mit seinem heiligen Blut. Wegen des scharlachroten Zeichens wurde seine Seele vor Unzucht gerettet; und "
+          },
+          {
+            "type": "text",
+            "text": "Maria nahm, nachdem sie erwählt worden war, den Scharlach und den Purpur an",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "324bdcf7-ef7c-40c0-9075-dcce29abd8da"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Im Hohenlied wurde gesagt: „"
+          },
+          {
+            "type": "text",
+            "text": "Deine Lippen sind wie ein scharlachroter Mantel, und deine Worte sind lieblich.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "5785665f-e9ff-4173-9fdd-c03140df01f5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Und bei Matthäus: „"
+          },
+          {
+            "type": "text",
+            "text": "Sie kleideten ihn in ein scharlachrotes Gewand.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "2bd689e7-03c5-440e-b580-4289eff9669e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “"
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "106ed097-7391-44bc-ba32-02fda01f83f7",
+      "passages": [
+        {
+          "from": {
+            "book": 310,
+            "chapter": 3,
+            "verse": 4
+          },
+          "to": {
+            "book": 310,
+            "chapter": 3,
+            "verse": 6
+          }
+        }
+      ]
+    },
+    {
+      "id": "2438a62a-90e8-4ebd-aa01-819dc8e47a60",
+      "passages": [
+        {
+          "from": {
+            "book": 630,
+            "chapter": 2,
+            "verse": 4
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "24bca4c5-9d4e-4d29-81f6-38e20dae0e99",
+      "passages": [
+        {
+          "from": {
+            "book": 50,
+            "chapter": 2,
+            "verse": 18
+          },
+          "to": null
+        },
+        {
+          "from": {
+            "book": 50,
+            "chapter": 6,
+            "verse": 25
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "2bd689e7-03c5-440e-b580-4289eff9669e",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 27,
+            "verse": 28
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "324bdcf7-ef7c-40c0-9075-dcce29abd8da",
+      "passages": [
+        {
+          "from": {
+            "book": 750,
+            "chapter": 17,
+            "verse": 4
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "36d60dff-b021-4ada-879d-a8a0fc66462b",
+      "passages": [
+        {
+          "from": {
+            "book": 1,
+            "chapter": 38,
+            "verse": 28
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "3f762fd8-05e3-417e-b108-d2916fea9cae",
+      "passages": [
+        {
+          "from": {
+            "book": 260,
+            "chapter": 3,
+            "verse": 18
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "41d6e321-eda0-435d-8d6e-1e56761216e2",
+      "passages": [
+        {
+          "from": {
+            "book": 530,
+            "chapter": 7,
+            "verse": 55
+          },
+          "to": {
+            "book": 530,
+            "chapter": 7,
+            "verse": 56
+          }
+        }
+      ]
+    },
+    {
+      "id": "4e94eddf-9d50-4ed7-a357-102202e15cf9",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 28,
+            "verse": 19
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "50f51fec-a687-4762-8995-2d67e7515eb1",
+      "passages": [
+        {
+          "from": {
+            "book": 110,
+            "chapter": 2,
+            "verse": 11
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "5785665f-e9ff-4173-9fdd-c03140df01f5",
+      "passages": [
+        {
+          "from": {
+            "book": 210,
+            "chapter": 4,
+            "verse": 3
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "588b04b5-3118-4853-9965-694d66252217",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 3,
+            "verse": 16
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "5cc0ae28-0f50-495e-9e66-830516cbbef8",
+      "passages": [
+        {
+          "from": {
+            "book": 110,
+            "chapter": 2,
+            "verse": 9
+          },
+          "to": {
+            "book": 110,
+            "chapter": 2,
+            "verse": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "94e1abd6-0867-40ec-bd34-ebba5d2b207c",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 11,
+            "verse": 11
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "b3dbdeb3-ce60-4977-8a4b-f3be0589b890",
+      "passages": [
+        {
+          "from": {
+            "book": 670,
+            "chapter": 1,
+            "verse": 1
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "d2bc87b5-a8e2-4b59-9e12-1e5135e76ccd",
+      "passages": [
+        {
+          "from": {
+            "book": 220,
+            "chapter": 1,
+            "verse": 16
+          },
+          "to": {
+            "book": 220,
+            "chapter": 1,
+            "verse": 18
+          }
+        }
+      ]
+    },
+    {
+      "id": "d4e607da-ef05-4b7f-b08f-e41966401ce0",
+      "passages": [
+        {
+          "from": {
+            "book": 690,
+            "chapter": 1,
+            "verse": 19
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "db8ff05a-a15b-46f5-9b0a-9735df8958d9",
+      "passages": [
+        {
+          "from": {
+            "book": 210,
+            "chapter": 5,
+            "verse": 10
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "e7eba418-5fdd-4012-9635-d4822b30df4f",
+      "passages": [
+        {
+          "from": {
+            "book": 510,
+            "chapter": 16,
+            "verse": 16
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "f1587fa4-54c0-4cbe-b5e3-f7ef6d703e5d",
+      "passages": [
+        {
+          "from": {
+            "book": 520,
+            "chapter": 1,
+            "verse": 32
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "f81c5126-0b94-4109-bc0a-d7398c08c304",
+      "passages": [
+        {
+          "from": {
+            "book": 520,
+            "chapter": 1,
+            "verse": 29
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "fd26c822-db9c-436f-8129-0a0955982f74",
+      "passages": [
+        {
+          "from": {
+            "book": 220,
+            "chapter": 63,
+            "verse": 1
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

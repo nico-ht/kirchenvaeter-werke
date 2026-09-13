@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "16cf2c23-e67c-4865-fb2e-08df104798a7",
+  "chapterId": "3873e005-e889-4fd1-ba01-08df104d63f5",
+  "number": 16,
+  "title": "Kapitel 16",
+  "workTitle": "Physiologus",
+  "authorName": "Unbekannt",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/unbekannt/physiologus#kapitel-3873e005-e889-4fd1-ba01-08df104d63f5",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:774db7e5831f1f63c270a7d09aff6a6f6ab1f94f9c252c1fec86ae221638258d",
+  "plainText": "Der Igel hat nicht ganz die Gestalt einer Kugel, denn er ist voller Stacheln. Physiologus sagte über den Igel, dass er am Weinstock zu einer Traube hinaufklettert und dann die Beeren (also die Weinbeeren) auf den Boden wirft. Danach wälzt er sich auf ihnen, spießt die Frucht des Weinstocks auf seine Stacheln und trägt sie zu seinen Jungen; den abgepflückten Stiel wirft er weg. Und du, o Christ, beschäftige dich nicht mit allem Möglichen, sondern bewache deinen geistlichen Weinberg, aus dem du deinen geistlichen Keller füllst. Lege in den Hallen Gottes, des Königs, im heiligen Gerichtssaal Christi einen Vorrat an, und du wirst ewiges Leben empfangen. [Lass dich nicht von der Sorge um diese Welt und der Freude an vergänglichen Gütern ganz in Anspruch nehmen, denn dann wird der stachelige Teufel alle deine geistlichen Früchte zerstreuen, sie mit seinen Stacheln durchbohren und dich den Tieren zum Fraß machen. Deine Seele wird kahl, leer und unfruchtbar werden wie eine Ranke ohne Frucht. Danach wirst du ausrufen: „Meinen eigenen Weinberg habe ich nicht bewacht “, wie die Schrift des Hohenliedes bezeugt.] So hast du zugelassen, dass jener überaus böse Geist zu dir hinaufklettert, und er hat deine Enthaltsamkeit zerstreut. So hat er dich mit den Widerhaken des Todes getäuscht, um das, was er dir geraubt hat, unter feindlichen Mächten aufzuteilen. Zu Recht hat Physiologus also die Verhaltensweisen der Tiere mit geistlichen Dingen verglichen.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Der Igel hat nicht ganz die Gestalt einer Kugel, denn er ist voller Stacheln. Physiologus sagte über den Igel, dass er am Weinstock zu einer Traube hinaufklettert und dann die Beeren (also die Weinbeeren) auf den Boden wirft. Danach wälzt er sich auf ihnen, spießt die Frucht des Weinstocks auf seine Stacheln und trägt sie zu seinen Jungen; den abgepflückten Stiel wirft er weg. Und du, o Christ, beschäftige dich nicht mit allem Möglichen, sondern bewache deinen geistlichen Weinberg, aus dem du deinen geistlichen Keller füllst. Lege in den Hallen Gottes, des Königs, im heiligen Gerichtssaal Christi einen Vorrat an, und du wirst ewiges Leben empfangen. [Lass dich nicht von der Sorge um diese Welt und der Freude an vergänglichen Gütern ganz in Anspruch nehmen, denn dann wird der stachelige Teufel alle deine geistlichen Früchte zerstreuen, sie mit seinen Stacheln durchbohren und dich den Tieren zum Fraß machen. Deine Seele wird kahl, leer und unfruchtbar werden wie eine Ranke ohne Frucht. Danach wirst du ausrufen: „"
+          },
+          {
+            "type": "text",
+            "text": "Meinen eigenen Weinberg habe ich nicht bewacht",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "9622ad5b-2231-43fe-b488-223caba77623"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “, wie die Schrift des Hohenliedes bezeugt.] So hast du zugelassen, dass jener überaus böse Geist zu dir hinaufklettert, und er hat deine Enthaltsamkeit zerstreut. So hat er dich mit den Widerhaken des Todes getäuscht, um das, was er dir geraubt hat, unter feindlichen Mächten aufzuteilen. Zu Recht hat Physiologus also die Verhaltensweisen der Tiere mit geistlichen Dingen verglichen."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "9622ad5b-2231-43fe-b488-223caba77623",
+      "passages": [
+        {
+          "from": {
+            "book": 210,
+            "chapter": 1,
+            "verse": 6
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

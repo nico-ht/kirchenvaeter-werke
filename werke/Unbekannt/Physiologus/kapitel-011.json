@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "16cf2c23-e67c-4865-fb2e-08df104798a7",
+  "chapterId": "f0e1ef1d-3214-4d95-b9fc-08df104d63f5",
+  "number": 11,
+  "title": "Kapitel 11",
+  "workTitle": "Physiologus",
+  "authorName": "Unbekannt",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/unbekannt/physiologus#kapitel-f0e1ef1d-3214-4d95-b9fc-08df104d63f5",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:625fa8ed6a6f51b2e83cbf42fc2940299ba298d0f517feb2ba704c71e591b391",
+  "plainText": "Bei Hiob heißt es: „Wer hat den Wildesel freigelassen? “ Physiologus sagt vom Wildesel, der in der Herde an erster Stelle steht: Wenn er Fohlen zeugt, zerschlägt er ihnen als Vater die Geschlechtsteile, damit sie keinen Samen hervorbringen. Die Patriarchen suchten fleischlichen Samen zu zeugen, die Apostel dagegen gewannen auf geistliche Weise fleischliche Söhne, damit sie himmlischen Samen besäßen, wie es heißt: „Freue dich, unfruchtbare Frau, die du nicht gebierst “, und so weiter. Das Alte Testament kündigt den Samen an, das Neue dagegen verkündet die Enthaltsamkeit.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Bei Hiob heißt es: „"
+          },
+          {
+            "type": "text",
+            "text": "Wer hat den Wildesel freigelassen?",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "392d95fa-1bc8-4a6a-b110-0c502d0d471f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Physiologus sagt vom Wildesel, der in der Herde an erster Stelle steht: Wenn er Fohlen zeugt, zerschlägt er ihnen als Vater die Geschlechtsteile, damit sie keinen Samen hervorbringen. Die Patriarchen suchten fleischlichen Samen zu zeugen, die Apostel dagegen gewannen auf geistliche Weise fleischliche Söhne, damit sie himmlischen Samen besäßen, wie es heißt: „"
+          },
+          {
+            "type": "text",
+            "text": "Freue dich, unfruchtbare Frau, die du nicht gebierst",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "f569aff2-b36f-464a-a09d-51e79873036f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “, und so weiter. Das Alte Testament kündigt den Samen an, das Neue dagegen verkündet die Enthaltsamkeit."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "392d95fa-1bc8-4a6a-b110-0c502d0d471f",
+      "passages": [
+        {
+          "from": {
+            "book": 170,
+            "chapter": 39,
+            "verse": 5
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "f569aff2-b36f-464a-a09d-51e79873036f",
+      "passages": [
+        {
+          "from": {
+            "book": 220,
+            "chapter": 54,
+            "verse": 1
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}
