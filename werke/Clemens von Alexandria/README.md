@@ -6,7 +6,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Der Erzieher](Der%20Erzieher/) · 1 Werk
+- [Der Erzieher](Der%20Erzieher/) · 2 Werke
 
 ## Einzelwerke
 

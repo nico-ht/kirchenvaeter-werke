@@ -550,6 +550,26 @@
       }
     },
     {
+      "workId": "9d9cdcc1-b1ed-4453-acad-08de8d7ab65a",
+      "title": "Der Erzieher: Buch 2",
+      "authorId": "a0fc1ec9-94c4-4e7e-7585-08dd0634fd28",
+      "authorName": "Clemens von Alexandria",
+      "collectionTitle": "Der Erzieher",
+      "languageCode": "de",
+      "sourceUrl": "https://erste-christen.de/werke/clemens-von-alexandria/der-erzieher-buch-2",
+      "contentRevision": "sha256:b9e704bb35c232cadf37898fe9778d66a2fbc09df5adc789af5bf69c41507af1",
+      "chapterCount": 13,
+      "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
+      "rights": {
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "attributionName": "Die ersten Christen",
+        "attributionUrl": "https://erste-christen.de",
+        "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+        "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+      }
+    },
+    {
       "workId": "7a183836-343f-434e-e4d7-08dd0635942f",
       "title": "Welcher Reiche wird gerettet werden?",
       "authorId": "a0fc1ec9-94c4-4e7e-7585-08dd0634fd28",
