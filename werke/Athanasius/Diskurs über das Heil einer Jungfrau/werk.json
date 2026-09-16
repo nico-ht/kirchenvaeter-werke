@@ -992,7 +992,7 @@
         "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
         "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
       },
-      "contentRevision": "sha256:733a7e87c4b819ee2212877f05c58c7a1c1cfb93dbfa9f2e2257972a8b5530cb",
+      "contentRevision": "sha256:663b638f370579910f2085b0c2ca4e19fc9a7f5c88d79577e8089c76ebd9fbcb",
       "plainText": "Salbe deinen Körper nicht mit kostbaren Ölen und trage keine teuren Düfte auf deinem Gewand. Wenn dein Körper schwächer wird, nimm ein wenig Wein für deinen Magen. Sollte es jedoch, Gott bewahre, zu einer Krankheit kommen, sorge gut für dich selbst. Gib keinen Anlass zu der Behauptung, „diese Krankheit traf sie wegen der Askese“. Sei also achtsam mit dir, damit du schnell wieder gesund wirst und deine Aufgaben wieder übernehmen kannst. Verbringe all die Jahre deines Lebens mit Fasten, Gebet und Almosen. Gesegnet ist der, der diese Dinge hört. Lass das Wort Gottes Tag und Nacht nicht von deinem Mund weichen. Lass die Praxis der Heiligen Schrift stets dein Werk sein. Halte einen Psalter bereit und lerne die Psalme. Lass die aufgehende Sonne das Buch in deiner Hand sehen und vollende nach der dritten Stunde die Versammlung, denn das Holz des Kreuzes wurde in dieser Stunde zusammengefügt. Vollende um die sechste Stunde deine Gebete mit Psalmen, Weinen und Flehen, denn in dieser Stunde wurde der Sohn Gottes ans Kreuz gehängt. Um die neunte Stunde bekenne erneut in Hymnen und Doxologien deine Übertretungen mit Tränen und bitte Gott, denn in dieser Stunde gab der Herr, der am Kreuz hing, seinen Geist auf. Nach der Versammlung der neunten Stunde iss dein Brot und danke Gott an deinem Tisch auf folgende Weise: „Gesegnet sei Gott, der mich von meiner Jugend nährt, der allen Fleisch Nahrung gibt. Mein Herz ist voller Freude und froher Gedanken, dass wir, die wir jederzeit genug haben, in jedem guten Werk überfließen mögen in Jesus Christus, unserem Herrn, dem die Ehre, der Ruhm und die Macht zusammen mit dem Heiligen Geist von Ewigkeit zu Ewigkeit gebühren. Amen.\"",
       "ast": {
         "type": "doc",
@@ -1002,7 +1002,19 @@
             "content": [
               {
                 "type": "text",
-                "text": "Salbe deinen Körper nicht mit kostbaren Ölen und trage keine teuren Düfte auf deinem Gewand. Wenn dein Körper schwächer wird, nimm ein wenig Wein für deinen Magen. Sollte es jedoch, Gott bewahre, zu einer Krankheit kommen, sorge gut für dich selbst. Gib keinen Anlass zu der Behauptung, „diese Krankheit traf sie wegen der Askese“. Sei also achtsam mit dir, damit du schnell wieder gesund wirst und deine Aufgaben wieder übernehmen kannst. Verbringe all die Jahre deines Lebens mit Fasten, Gebet und Almosen. Gesegnet ist der, der diese Dinge hört. Lass das Wort Gottes Tag und Nacht nicht von deinem Mund weichen. Lass die Praxis der Heiligen Schrift stets dein Werk sein. Halte einen Psalter bereit und lerne die Psalme. Lass die aufgehende Sonne das Buch in deiner Hand sehen und vollende nach der dritten Stunde die Versammlung, denn das Holz des Kreuzes wurde in dieser Stunde zusammengefügt. Vollende um die sechste Stunde deine Gebete mit Psalmen, Weinen und Flehen, denn in dieser Stunde wurde der Sohn Gottes ans Kreuz gehängt. Um die neunte Stunde bekenne erneut in Hymnen und Doxologien deine Übertretungen mit Tränen und bitte Gott, denn in dieser Stunde gab der Herr, der am Kreuz hing, seinen Geist auf. Nach der Versammlung der neunten Stunde iss dein Brot und danke Gott an deinem Tisch auf folgende Weise: „Gesegnet sei Gott, der mich von meiner Jugend nährt, der allen Fleisch Nahrung gibt. Mein Herz ist voller Freude und froher Gedanken, dass wir, die wir jederzeit genug haben, in jedem guten Werk überfließen mögen in Jesus Christus, unserem Herrn, dem die Ehre, der Ruhm und die Macht zusammen mit dem Heiligen Geist von Ewigkeit zu Ewigkeit gebühren. Amen.\""
+                "text": "Salbe deinen Körper nicht mit kostbaren Ölen und trage keine teuren Düfte auf deinem Gewand.",
+                "marks": [
+                  {
+                    "type": "lexiconQuoteLink",
+                    "attrs": {
+                      "id": "97b62234-197b-4c55-5bbd-08df132a4f42"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " Wenn dein Körper schwächer wird, nimm ein wenig Wein für deinen Magen. Sollte es jedoch, Gott bewahre, zu einer Krankheit kommen, sorge gut für dich selbst. Gib keinen Anlass zu der Behauptung, „diese Krankheit traf sie wegen der Askese“. Sei also achtsam mit dir, damit du schnell wieder gesund wirst und deine Aufgaben wieder übernehmen kannst. Verbringe all die Jahre deines Lebens mit Fasten, Gebet und Almosen. Gesegnet ist der, der diese Dinge hört. Lass das Wort Gottes Tag und Nacht nicht von deinem Mund weichen. Lass die Praxis der Heiligen Schrift stets dein Werk sein. Halte einen Psalter bereit und lerne die Psalme. Lass die aufgehende Sonne das Buch in deiner Hand sehen und vollende nach der dritten Stunde die Versammlung, denn das Holz des Kreuzes wurde in dieser Stunde zusammengefügt. Vollende um die sechste Stunde deine Gebete mit Psalmen, Weinen und Flehen, denn in dieser Stunde wurde der Sohn Gottes ans Kreuz gehängt. Um die neunte Stunde bekenne erneut in Hymnen und Doxologien deine Übertretungen mit Tränen und bitte Gott, denn in dieser Stunde gab der Herr, der am Kreuz hing, seinen Geist auf. Nach der Versammlung der neunten Stunde iss dein Brot und danke Gott an deinem Tisch auf folgende Weise: „Gesegnet sei Gott, der mich von meiner Jugend nährt, der allen Fleisch Nahrung gibt. Mein Herz ist voller Freude und froher Gedanken, dass wir, die wir jederzeit genug haben, in jedem guten Werk überfließen mögen in Jesus Christus, unserem Herrn, dem die Ehre, der Ruhm und die Macht zusammen mit dem Heiligen Geist von Ewigkeit zu Ewigkeit gebühren. Amen.\""
               }
             ]
           }
@@ -1887,7 +1899,7 @@
         "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
         "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
       },
-      "contentRevision": "sha256:a5651bb502e55a3abb6247a74c5b0d5064e5ece86f6c849f4a4de33c2b671714",
+      "contentRevision": "sha256:23c444f8763b2954b228811352999e2097006c957e7218d3e8378f95eb591fa3",
       "plainText": "Du sollst nicht traurig sein, wenn dir eine Prüfung widerfährt, noch über Verlust oder eine Beleidigung trauern, denn „die Traurigkeit dieser Welt bringt den Tod hervor.“ Trauere nur über deine Sünden, über andere kleine Dinge sollst du nicht traurig sein. Erhebe deine Stimme nicht, wenn du wütend auf jemanden bist, denn der Diener des Herrn hat keinen Grund zu streiten. Flüche sollen nicht aus deinem Mund kommen, weder Unverschämtheiten noch Missbrauch. Denn dein Mund ist durch Hymnen und Lobpreisungen an Gott geheiligt. Es ist nicht gut für dich, hinauszugehen, es sei denn, es ist von großer Notwendigkeit. Liebe die Stille, so gut du kannst. Vergiss die Diener Gottes nicht und lass sie nicht aus deinem Herzen verschwinden. Wenn ein Heiliger zu dir nach Hause kommt, empfange ihn so, wie den Sohn Gottes. Denn unser Herr Jesus Christus sagt: „Wer euch empfängt, empfängt mich.“ Wenn ein gerechter Mann in dein Haus kommt, sollst du ihm mit Furcht und Zittern begegnen und dich auf den Boden zu seinen Füßen niederwerfen. Denn du wirfst dich nicht vor ihm nieder, sondern vor Gott, der ihn gesandt hat. Du sollst Wasser nehmen und seine Füße waschen und seinen Worten mit aller Ehrfurcht lauschen. Sei nicht zuversichtlich in deiner Selbstbeherrschung, damit du nicht fällst. Sei vielmehr ängstlich, denn in dem Maße, in dem du ängstlich bist, fällst du nicht. Es ist das Beste für die Enthaltsame, ihr Brot im Stillen zu essen. Wenn du mit anderen Jungfrauen am Tisch sitzt, iss mit ihnen alles, was sie bereitgestellt haben; denn wenn du nicht isst, erscheinst du, als würdest du sie verurteilen. Und wenn sie Wein trinken und du normalerweise nicht trinkst, nimm ein wenig zu ihrem Wohl. Wenn es sich jedoch um angesehene ältere Frauen handelt und sie dich drängen, mehr zu trinken, höre nicht auf sie, sondern sage zu ihnen: „Ihr habt eure Jugend in großer Askese verbracht, aber ich habe noch nicht einmal den ersten Grad erreicht.“ Du brauchst keine Ermahnung bezüglich Gastfreundschaft und Almosen, denn das wirst du von selbst tun.",
       "ast": {
         "type": "doc",
@@ -1913,7 +1925,19 @@
               },
               {
                 "type": "text",
-                "text": "Trauere nur über deine Sünden, über andere kleine Dinge sollst du nicht traurig sein. Erhebe deine Stimme nicht, wenn du wütend auf jemanden bist, denn der Diener des Herrn hat keinen Grund zu streiten. Flüche sollen nicht aus deinem Mund kommen, weder Unverschämtheiten noch Missbrauch. Denn dein Mund ist durch Hymnen und Lobpreisungen an Gott geheiligt. Es ist nicht gut für dich, hinauszugehen, es sei denn, es ist von großer Notwendigkeit. Liebe die Stille, so gut du kannst. Vergiss die Diener Gottes nicht und lass sie nicht aus deinem Herzen verschwinden. Wenn ein Heiliger zu dir nach Hause kommt, empfange ihn so, wie den Sohn Gottes. Denn unser Herr Jesus Christus sagt:"
+                "text": "Trauere nur über deine Sünden, über andere kleine Dinge sollst du nicht traurig sein. Erhebe deine Stimme nicht, wenn du wütend auf jemanden bist, denn der Diener des Herrn hat keinen Grund zu streiten. Flüche sollen nicht aus deinem Mund kommen, weder Unverschämtheiten noch Missbrauch. Denn dein Mund ist durch Hymnen und Lobpreisungen an Gott geheiligt. "
+              },
+              {
+                "type": "text",
+                "text": "Es ist nicht gut für dich, hinauszugehen, es sei denn, es ist von großer Notwendigkeit. Liebe die Stille, so gut du kannst. Vergiss die Diener Gottes nicht und lass sie nicht aus deinem Herzen verschwinden. Wenn ein Heiliger zu dir nach Hause kommt, empfange ihn so, wie den Sohn Gottes. Denn unser Herr Jesus Christus sagt:",
+                "marks": [
+                  {
+                    "type": "lexiconQuoteLink",
+                    "attrs": {
+                      "id": "17f17bb0-f1d0-4b0c-5bbe-08df132a4f42"
+                    }
+                  }
+                ]
               },
               {
                 "type": "text",
@@ -1924,12 +1948,30 @@
                     "attrs": {
                       "id": "2f12f8a5-478c-4c9e-87c9-e4a0db1b8e0e"
                     }
+                  },
+                  {
+                    "type": "lexiconQuoteLink",
+                    "attrs": {
+                      "id": "17f17bb0-f1d0-4b0c-5bbe-08df132a4f42"
+                    }
                   }
                 ]
               },
               {
                 "type": "text",
-                "text": " Wenn ein gerechter Mann in dein Haus kommt, sollst du ihm mit Furcht und Zittern begegnen und dich auf den Boden zu seinen Füßen niederwerfen. Denn du wirfst dich nicht vor ihm nieder, sondern vor Gott, der ihn gesandt hat. Du sollst Wasser nehmen und seine Füße waschen und seinen Worten mit aller Ehrfurcht lauschen. Sei nicht zuversichtlich in deiner Selbstbeherrschung, damit du nicht fällst. Sei vielmehr ängstlich, denn in dem Maße, in dem du ängstlich bist, fällst du nicht. Es ist das Beste für die Enthaltsame, ihr Brot im Stillen zu essen. Wenn du mit anderen Jungfrauen am Tisch sitzt, iss mit ihnen alles, was sie bereitgestellt haben; denn wenn du nicht isst, erscheinst du, als würdest du sie verurteilen. Und wenn sie Wein trinken und du normalerweise nicht trinkst, nimm ein wenig zu ihrem Wohl. Wenn es sich jedoch um angesehene ältere Frauen handelt und sie dich drängen, mehr zu trinken, höre nicht auf sie, sondern sage zu ihnen: „Ihr habt eure Jugend in großer Askese verbracht, aber ich habe noch nicht einmal den ersten Grad erreicht.“ Du brauchst keine Ermahnung bezüglich Gastfreundschaft und Almosen, denn das wirst du von selbst tun."
+                "text": " Wenn ein gerechter Mann in dein Haus kommt, sollst du ihm mit Furcht und Zittern begegnen und dich auf den Boden zu seinen Füßen niederwerfen. Denn du wirfst dich nicht vor ihm nieder, sondern vor Gott, der ihn gesandt hat. Du sollst Wasser nehmen und seine Füße waschen und seinen Worten mit aller Ehrfurcht lauschen. Sei nicht zuversichtlich in deiner Selbstbeherrschung, damit du nicht fällst. Sei vielmehr ängstlich, denn in dem Maße, in dem du ängstlich bist, fällst du nicht. Es ist das Beste für die Enthaltsame, ihr Brot im Stillen zu essen.",
+                "marks": [
+                  {
+                    "type": "lexiconQuoteLink",
+                    "attrs": {
+                      "id": "17f17bb0-f1d0-4b0c-5bbe-08df132a4f42"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " Wenn du mit anderen Jungfrauen am Tisch sitzt, iss mit ihnen alles, was sie bereitgestellt haben; denn wenn du nicht isst, erscheinst du, als würdest du sie verurteilen. Und wenn sie Wein trinken und du normalerweise nicht trinkst, nimm ein wenig zu ihrem Wohl. Wenn es sich jedoch um angesehene ältere Frauen handelt und sie dich drängen, mehr zu trinken, höre nicht auf sie, sondern sage zu ihnen: „Ihr habt eure Jugend in großer Askese verbracht, aber ich habe noch nicht einmal den ersten Grad erreicht.“ Du brauchst keine Ermahnung bezüglich Gastfreundschaft und Almosen, denn das wirst du von selbst tun."
               }
             ]
           }
@@ -2130,7 +2172,7 @@
   "collectionTitle": null,
   "languageCode": "de",
   "sourceUrl": "https://erste-christen.de/werke/athanasius/diskurs-ueber-das-heil-einer-jungfrau",
-  "contentRevision": "sha256:55d78eaa95594dc1bd06206d0594eed19329bbf41d0fd3992455ed80a6a3b1ce",
+  "contentRevision": "sha256:b1343cd1ef584670e42df493457a9af897b0fd58e71d277d502af81a95c272e5",
   "chapterCount": 25,
   "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
   "rights": {
