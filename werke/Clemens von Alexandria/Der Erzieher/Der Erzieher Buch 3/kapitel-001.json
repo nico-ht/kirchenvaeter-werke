@@ -1,0 +1,231 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "bd06f216-fa47-4034-330b-08deae0a27b1",
+  "chapterId": "4d8dddbc-2740-4250-b96a-08df128edadb",
+  "number": 1,
+  "title": "Kapitel 1",
+  "workTitle": "Der Erzieher: Buch 3",
+  "authorName": "Clemens von Alexandria",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/clemens-von-alexandria/der-erzieher-buch-3#kapitel-4d8dddbc-2740-4250-b96a-08df128edadb",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:64cd7003571080ca723d764c1e448548962049659238ad08024e14255e430650",
+  "plainText": "Sich selbst zu erkennen ist also, wie es scheint, die höchste aller Lehren. Denn wer sich selbst erkennt, wird Gott erkennen. Und wer Gott erkennt, wird ihm ähnlich gemacht, nicht indem er Gold oder lange Gewänder trägt, sondern indem er Gutes tut und so wenig wie möglich braucht. Denn Gott allein fehlt nichts, und nichts freut ihn mehr, als zu sehen, wie wir rein werden: zuerst in der Ordnung unseres Geistes, dann auch in unserem Körper, bekleidet mit Schamhaftigkeit und Selbstbeherrschung. Da die Seele drei Teile hat, ist der vernünftige Teil, den wir Geist nennen, der wahre Mensch im Inneren und der Herrscher über den äußeren Menschen, den wir sehen. Doch dieser innere Mensch wird selbst von einem anderen beherrscht: von Gott. Der aufbrausende Teil ähnelt eher einem Tier und steht dem Wahnsinn nahe. Der dritte Teil, der begehrende, ist vielgestaltig, noch vielgestaltiger als der Meeresgott Proteus. Ständig verändert er seine Gestalt, je nachdem, wem er dient: bald wird er zum Ehebruch, bald zur Begierde, bald zur Zerstörung. Zunächst wird er zu einem Löwen mit schönem Bart. Noch immer trage ich das Bild der Eitelkeit in mir; denn der Bart eines Mannes zeigt seine Männlichkeit. Doch dann wird er zu einer Schlange, einem Leoparden oder einem großen Eber. Die Liebe zu dieser Welt ist in wilde Ausschweifung abgeglitten. Ich ertrage es nicht länger: Der Mensch ist zum Tier geworden. Dann verwandelt sich dieser Teil der Seele in fließendes Wasser und einen Baum, der hoch aufragt. Leidenschaften strömen hervor, Vergnügungen sprudeln über, die Schönheit verblasst und fällt wie ein Blütenblatt rasch zu Boden, wenn die Sturmwinde überheblicher Liebe sie treffen. Sie verwelkt, noch bevor der Herbst kommt. Denn das Begehren nimmt ständig neue Gestalten an, verstellt sich und täuscht, um den wirklichen Menschen zu verbergen. Wer aber mit der Vernunft als Begleiterin lebt, nimmt keine falsche Gestalt an und verkleidet sich nicht. Die Vernunft gibt ihm seine Gestalt. Er wird Gott ähnlich. Er ist schön, nicht weil er geschmückt ist, sondern weil er wirklich schön ist. Denn Schönheit ist das, was wirklich ist, und das ist Gott selbst.\n\nUnd der Mensch wird Gott ähnlich, weil Gott es will. Deshalb sagte Heraklit zu Recht: „Menschen sind Götter, und Götter sind Menschen. Das Wort ist dasselbe.“ Dies ist ein offenkundiges Geheimnis: Gott ist im Menschen, und der Mensch wird zu einem Gott, und der Mittler erfüllt den Willen des Vaters. Denn das Wort steht zwischen beiden: als Gottes Sohn und als Retter der Menschen, der Gott dient und uns lehrt. Das Fleisch ist ein Sklave, wie selbst Paulus bezeugt. Wie könnte es da recht sein, den Diener wie eine Prostituierte herauszuputzen? Das Fleisch selbst ist die Gestalt eines Dieners; von ihm sprach der Apostel, als er über den Herrn sagte: „Er entäußerte sich selbst und nahm die Gestalt eines Dieners an. “ Damit nannte er den äußeren Menschen einen Sklaven, noch bevor der Herr zum Diener wurde und menschliches Fleisch annahm. Doch Gott befreite voller Erbarmen das Fleisch aus dem Verderben und den Fesseln tödlicher Sklaverei. Er nahm ihm die Bitterkeit und schenkte ihm Unvergänglichkeit: Er verlieh dem Fleisch eine heilige und ewige Schönheit, indem er ihm Unsterblichkeit gab. Es gibt noch eine andere Art von Schönheit im Menschen: die Liebe. „Die Liebe “, sagt der Apostel, „ist geduldig und freundlich; sie ist nicht neidisch, prahlt nicht und ist nicht überheblich. “ Denn Prahlerei ist der Schmuck des Übermaßes und des Nutzlosen: Sie stellt sich zur Schau. Deshalb fügt er hinzu: „Sie benimmt sich nicht ungehörig. “ Denn was am Äußeren fremd und unnatürlich ist, ist schändlich. Und was künstlich ist, ist fremd. Das erklärt er deutlich mit den Worten: „Sie sucht nicht, was ihr nicht gehört. “ Denn die Wahrheit nennt das, was ihr gehört, „ihr Eigenes“. Die Weltlichkeit dagegen sucht das Fremde und steht außerhalb Gottes, des Wortes und der Liebe. Der Geist bezeugt durch Jesaja, dass der Herr selbst äußerlich hässlich wurde: „Wir sahen ihn, und er hatte weder Gestalt noch Schönheit. Seine Erscheinung war verachtet und unter den Menschen unansehnlich. “ Und wer ist größer als der Herr? Doch seine Schönheit war nicht jene vermeintliche Schönheit des Fleisches. Vielmehr zeigte er die wahre Schönheit, die der Seele wie die des Körpers: in der Seele die Kraft, Gutes zu tun, im Körper die Unsterblichkeit.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Sich selbst zu erkennen ist also, wie es scheint, die höchste aller Lehren. Denn wer sich selbst erkennt, wird Gott erkennen. Und wer Gott erkennt, wird ihm ähnlich gemacht, nicht indem er Gold oder lange Gewänder trägt, sondern indem er Gutes tut und so wenig wie möglich braucht. Denn Gott allein fehlt nichts, und nichts freut ihn mehr, als zu sehen, wie wir rein werden: zuerst in der Ordnung unseres Geistes, dann auch in unserem Körper, bekleidet mit Schamhaftigkeit und Selbstbeherrschung. Da die Seele drei Teile hat, ist der vernünftige Teil, den wir Geist nennen, der wahre Mensch im Inneren und der Herrscher über den äußeren Menschen, den wir sehen. Doch dieser innere Mensch wird selbst von einem anderen beherrscht: von Gott. Der aufbrausende Teil ähnelt eher einem Tier und steht dem Wahnsinn nahe. Der dritte Teil, der begehrende, ist vielgestaltig, noch vielgestaltiger als der Meeresgott Proteus. Ständig verändert er seine Gestalt, je nachdem, wem er dient: bald wird er zum Ehebruch, bald zur Begierde, bald zur Zerstörung. Zunächst wird er zu einem Löwen mit schönem Bart. Noch immer trage ich das Bild der Eitelkeit in mir; denn der Bart eines Mannes zeigt seine Männlichkeit. Doch dann wird er zu einer Schlange, einem Leoparden oder einem großen Eber. Die Liebe zu dieser Welt ist in wilde Ausschweifung abgeglitten. Ich ertrage es nicht länger: Der Mensch ist zum Tier geworden. Dann verwandelt sich dieser Teil der Seele in fließendes Wasser und einen Baum, der hoch aufragt. Leidenschaften strömen hervor, Vergnügungen sprudeln über, die Schönheit verblasst und fällt wie ein Blütenblatt rasch zu Boden, wenn die Sturmwinde überheblicher Liebe sie treffen. Sie verwelkt, noch bevor der Herbst kommt. Denn das Begehren nimmt ständig neue Gestalten an, verstellt sich und täuscht, um den wirklichen Menschen zu verbergen. Wer aber mit der Vernunft als Begleiterin lebt, nimmt keine falsche Gestalt an und verkleidet sich nicht. Die Vernunft gibt ihm seine Gestalt. Er wird Gott ähnlich. Er ist schön, nicht weil er geschmückt ist, sondern weil er wirklich schön ist. Denn Schönheit ist das, was wirklich ist, und das ist Gott selbst."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Und der Mensch wird Gott ähnlich, weil Gott es will. Deshalb sagte Heraklit zu Recht: „Menschen sind Götter, und Götter sind Menschen. Das Wort ist dasselbe.“ Dies ist ein offenkundiges Geheimnis: Gott ist im Menschen, und der Mensch wird zu einem Gott, und der Mittler erfüllt den Willen des Vaters. Denn das Wort steht zwischen beiden: als Gottes Sohn und als Retter der Menschen, der Gott dient und uns lehrt. Das Fleisch ist ein Sklave, wie selbst Paulus bezeugt. Wie könnte es da recht sein, den Diener wie eine Prostituierte herauszuputzen? Das Fleisch selbst ist "
+          },
+          {
+            "type": "text",
+            "text": "die Gestalt eines Dieners",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "0e6ebf2a-8e55-40a7-9ac1-064d3dfa7b09"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; von ihm sprach der Apostel, als er über den Herrn sagte: „"
+          },
+          {
+            "type": "text",
+            "text": "Er entäußerte sich selbst und nahm die Gestalt eines Dieners an.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "0e6ebf2a-8e55-40a7-9ac1-064d3dfa7b09"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Damit nannte er den äußeren Menschen einen Sklaven, noch bevor "
+          },
+          {
+            "type": "text",
+            "text": "der Herr zum Diener wurde und menschliches Fleisch annahm",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "0e6ebf2a-8e55-40a7-9ac1-064d3dfa7b09"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Doch Gott befreite voller Erbarmen das Fleisch aus dem Verderben und den Fesseln tödlicher Sklaverei. Er nahm ihm die Bitterkeit und schenkte ihm Unvergänglichkeit: Er verlieh dem Fleisch eine heilige und ewige Schönheit, indem er ihm Unsterblichkeit gab. Es gibt noch eine andere Art von Schönheit im Menschen: die Liebe. „"
+          },
+          {
+            "type": "text",
+            "text": "Die Liebe",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "dca55f92-89c5-4495-a53a-e24587348968"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “, sagt der Apostel, „"
+          },
+          {
+            "type": "text",
+            "text": "ist geduldig und freundlich; sie ist nicht neidisch, prahlt nicht und ist nicht überheblich.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "dca55f92-89c5-4495-a53a-e24587348968"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Denn Prahlerei ist der Schmuck des Übermaßes und des Nutzlosen: Sie stellt sich zur Schau. Deshalb fügt er hinzu: „"
+          },
+          {
+            "type": "text",
+            "text": "Sie benimmt sich nicht ungehörig.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "f82ecd4c-0d34-44b0-ad77-588aa2f8b317"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Denn was am Äußeren fremd und unnatürlich ist, ist schändlich. Und was künstlich ist, ist fremd. Das erklärt er deutlich mit den Worten: „"
+          },
+          {
+            "type": "text",
+            "text": "Sie sucht nicht, was ihr nicht gehört.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "f82ecd4c-0d34-44b0-ad77-588aa2f8b317"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Denn die Wahrheit nennt das, was ihr gehört, „ihr Eigenes“. Die Weltlichkeit dagegen sucht das Fremde und steht außerhalb Gottes, des Wortes und der Liebe. Der Geist bezeugt durch Jesaja, dass der Herr selbst äußerlich hässlich wurde: „"
+          },
+          {
+            "type": "text",
+            "text": "Wir sahen ihn, und er hatte weder Gestalt noch Schönheit. Seine Erscheinung war verachtet und unter den Menschen unansehnlich.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "e8919904-2526-4da1-96b0-d201296aecf7"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Und wer ist größer als der Herr? Doch seine Schönheit war nicht jene vermeintliche Schönheit des Fleisches. Vielmehr zeigte er die wahre Schönheit, die der Seele wie die des Körpers: in der Seele die Kraft, Gutes zu tun, im Körper die Unsterblichkeit."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "0e6ebf2a-8e55-40a7-9ac1-064d3dfa7b09",
+      "passages": [
+        {
+          "from": {
+            "book": 590,
+            "chapter": 2,
+            "verse": 7
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "dca55f92-89c5-4495-a53a-e24587348968",
+      "passages": [
+        {
+          "from": {
+            "book": 550,
+            "chapter": 13,
+            "verse": 4
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "e8919904-2526-4da1-96b0-d201296aecf7",
+      "passages": [
+        {
+          "from": {
+            "book": 220,
+            "chapter": 53,
+            "verse": 2
+          },
+          "to": {
+            "book": 220,
+            "chapter": 53,
+            "verse": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "f82ecd4c-0d34-44b0-ad77-588aa2f8b317",
+      "passages": [
+        {
+          "from": {
+            "book": 550,
+            "chapter": 13,
+            "verse": 5
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}
