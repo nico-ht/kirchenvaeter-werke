@@ -169,7 +169,7 @@
         "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
         "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
       },
-      "contentRevision": "sha256:f79759b6b6114a475355e94db296faa98e8dce13fccf3a67c23ef752f6544f0c",
+      "contentRevision": "sha256:24b15d181264902cbbcef8d94cf6fc436bb09425dd5f7a2817cc7ef3bfc222f1",
       "plainText": "Beginnen wir also mit den Barbaren und gehen wir dann die übrigen Völker der Reihe nach durch, damit wir sehen, welche von ihnen die Wahrheit über Gott haben und welche im Irrtum befangen sind. Da die Barbaren Gott nicht erkannten, gerieten sie unter den Elementen in die Irre und begannen, geschaffene Dinge statt ihres Schöpfers anzubeten. Zu diesem Zweck machten sie Abbilder und schlossen sie in Schreinen ein; und siehe, sie beten sie an und bewachen sie dabei auch noch mit großer Sorgfalt, damit ihre Götter nicht von Räubern gestohlen werden. Die Barbaren aber bemerkten nicht, dass das, was Wache hält, größer ist als das, was bewacht wird, und dass jeder, der etwas erschafft, größer ist als das, was erschaffen wird. Wenn ihre Götter also zu schwach sind, für ihre eigene Sicherheit zu sorgen, wie sollen sie dann für die Sicherheit der Menschen Sorge tragen? Groß ist also der Irrtum, in den die Barbaren gerieten, als sie leblose Abbilder anbeteten, die ihnen in keiner Weise helfen können. Und ich muss mich wundern, König, über ihre Philosophen: Auch sie gerieten in die Irre und gaben Abbildern, die zu Ehren der Elemente gemacht waren, den Namen von Göttern; und ihre Weisen erkannten nicht, dass auch die Elemente auflösbar und vergänglich sind. Denn wenn ein kleiner Teil eines Elements aufgelöst oder zerstört wird, kann das ganze Element aufgelöst und zerstört werden. Wenn also die Elemente selbst aufgelöst und zerstört werden, wenn sie gezwungen sind, einem anderen unterworfen zu sein, das unbeugsamer ist als sie, und wenn sie ihrer Natur nach keine Götter sind, warum nennen sie dann die Abbilder, die zu ihrer Ehre gemacht werden, Gott? Groß ist also der Irrtum, den die Philosophen unter ihnen über ihre Anhänger gebracht haben.",
       "ast": {
         "type": "doc",
@@ -179,7 +179,19 @@
             "content": [
               {
                 "type": "text",
-                "text": "Beginnen wir also mit den Barbaren und gehen wir dann die übrigen Völker der Reihe nach durch, damit wir sehen, welche von ihnen die Wahrheit über Gott haben und welche im Irrtum befangen sind. Da die Barbaren Gott nicht erkannten, gerieten sie unter den Elementen in die Irre und begannen, geschaffene Dinge statt ihres Schöpfers anzubeten. Zu diesem Zweck machten sie Abbilder und schlossen sie in Schreinen ein; und siehe, sie beten sie an und bewachen sie dabei auch noch mit großer Sorgfalt, damit ihre Götter nicht von Räubern gestohlen werden. Die Barbaren aber bemerkten nicht, dass das, was Wache hält, größer ist als das, was bewacht wird, und dass jeder, der etwas erschafft, größer ist als das, was erschaffen wird. Wenn ihre Götter also zu schwach sind, für ihre eigene Sicherheit zu sorgen, wie sollen sie dann für die Sicherheit der Menschen Sorge tragen? Groß ist also der Irrtum, in den die Barbaren gerieten, als sie leblose Abbilder anbeteten, die ihnen in keiner Weise helfen können. Und ich muss mich wundern, König, über ihre Philosophen: Auch sie gerieten in die Irre und gaben Abbildern, die zu Ehren der Elemente gemacht waren, den Namen von Göttern; und ihre Weisen erkannten nicht, dass auch die Elemente auflösbar und vergänglich sind. Denn wenn ein kleiner Teil eines Elements aufgelöst oder zerstört wird, kann das ganze Element aufgelöst und zerstört werden. Wenn also die Elemente selbst aufgelöst und zerstört werden, wenn sie gezwungen sind, einem anderen unterworfen zu sein, das unbeugsamer ist als sie, und wenn sie ihrer Natur nach keine Götter sind, warum nennen sie dann die Abbilder, die zu ihrer Ehre gemacht werden, Gott? Groß ist also der Irrtum, den die Philosophen unter ihnen über ihre Anhänger gebracht haben."
+                "text": "Beginnen wir also mit den Barbaren und gehen wir dann die übrigen Völker der Reihe nach durch, damit wir sehen, welche von ihnen die Wahrheit über Gott haben und welche im Irrtum befangen sind. "
+              },
+              {
+                "type": "text",
+                "text": "Da die Barbaren Gott nicht erkannten, gerieten sie unter den Elementen in die Irre und begannen, geschaffene Dinge statt ihres Schöpfers anzubeten. Zu diesem Zweck machten sie Abbilder und schlossen sie in Schreinen ein; und siehe, sie beten sie an und bewachen sie dabei auch noch mit großer Sorgfalt, damit ihre Götter nicht von Räubern gestohlen werden. Die Barbaren aber bemerkten nicht, dass das, was Wache hält, größer ist als das, was bewacht wird, und dass jeder, der etwas erschafft, größer ist als das, was erschaffen wird. Wenn ihre Götter also zu schwach sind, für ihre eigene Sicherheit zu sorgen, wie sollen sie dann für die Sicherheit der Menschen Sorge tragen? Groß ist also der Irrtum, in den die Barbaren gerieten, als sie leblose Abbilder anbeteten, die ihnen in keiner Weise helfen können. Und ich muss mich wundern, König, über ihre Philosophen: Auch sie gerieten in die Irre und gaben Abbildern, die zu Ehren der Elemente gemacht waren, den Namen von Göttern; und ihre Weisen erkannten nicht, dass auch die Elemente auflösbar und vergänglich sind. Denn wenn ein kleiner Teil eines Elements aufgelöst oder zerstört wird, kann das ganze Element aufgelöst und zerstört werden. Wenn also die Elemente selbst aufgelöst und zerstört werden, wenn sie gezwungen sind, einem anderen unterworfen zu sein, das unbeugsamer ist als sie, und wenn sie ihrer Natur nach keine Götter sind, warum nennen sie dann die Abbilder, die zu ihrer Ehre gemacht werden, Gott? Groß ist also der Irrtum, den die Philosophen unter ihnen über ihre Anhänger gebracht haben.",
+                "marks": [
+                  {
+                    "type": "lexiconQuoteLink",
+                    "attrs": {
+                      "id": "c99fe5af-3b32-4119-7680-08df1361216e"
+                    }
+                  }
+                ]
               }
             ]
           }
@@ -317,7 +329,7 @@
         "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
         "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
       },
-      "contentRevision": "sha256:2bca677e65b33d4c6a11f7810e3f26d85607d6c3499ed6d98b4e828e76fe95cc",
+      "contentRevision": "sha256:f8570bd4ee98082cd667850bc696b95c2af5ce26158f38664be19db763214a57",
       "plainText": "Auch diejenigen, die von den Menschen der Vorzeit glaubten, einige von ihnen seien Götter gewesen, irrten sehr. Denn wie du selbst zugibst, o König, besteht der Mensch aus den vier Elementen sowie aus Seele und Geist, und deshalb wird er Mikrokosmos genannt; ohne eines dieser Teile könnte er nicht bestehen. Er hat Anfang und Ende, er wird geboren und stirbt. Gott aber hat, wie ich sagte, nichts von alledem in seiner Natur, sondern ist ungeschaffen und unvergänglich. Daher ist es nicht möglich, den Menschen der Natur Gottes zuzurechnen: den Menschen, dem zuweilen, wenn er Freude erwartet, Kummer widerfährt, und wenn er Lachen erwartet, Weinen; der zornig, habgierig und neidisch ist und dazu noch andere Mängel hat. Und er wird auf vielerlei Weise durch die Elemente und auch durch die Tiere vernichtet. Daher, o König, müssen wir den Irrtum der Barbaren erkennen: Daran zeigt sich, dass sie, weil sie keine Spuren des wahren Gottes fanden, von der Wahrheit abwichen und der Begierde ihrer Einbildung nachliefen; sie dienten den vergänglichen Elementen und leblosen Bildwerken und erkannten durch ihren Irrtum nicht, was der wahre Gott ist.",
       "ast": {
         "type": "doc",
@@ -327,7 +339,23 @@
             "content": [
               {
                 "type": "text",
-                "text": "Auch diejenigen, die von den Menschen der Vorzeit glaubten, einige von ihnen seien Götter gewesen, irrten sehr. Denn wie du selbst zugibst, o König, besteht der Mensch aus den vier Elementen sowie aus Seele und Geist, und deshalb wird er Mikrokosmos genannt; ohne eines dieser Teile könnte er nicht bestehen. Er hat Anfang und Ende, er wird geboren und stirbt. Gott aber hat, wie ich sagte, nichts von alledem in seiner Natur, sondern ist ungeschaffen und unvergänglich. Daher ist es nicht möglich, den Menschen der Natur Gottes zuzurechnen: den Menschen, dem zuweilen, wenn er Freude erwartet, Kummer widerfährt, und wenn er Lachen erwartet, Weinen; der zornig, habgierig und neidisch ist und dazu noch andere Mängel hat. Und er wird auf vielerlei Weise durch die Elemente und auch durch die Tiere vernichtet. Daher, o König, müssen wir den Irrtum der Barbaren erkennen: Daran zeigt sich, dass sie, weil sie keine Spuren des wahren Gottes fanden, von der Wahrheit abwichen und der Begierde ihrer Einbildung nachliefen; sie dienten den vergänglichen Elementen und leblosen Bildwerken und erkannten durch ihren Irrtum nicht, was der wahre Gott ist."
+                "text": "Auch diejenigen, die von den Menschen der Vorzeit glaubten, einige von ihnen seien Götter gewesen, irrten sehr. Denn wie du selbst zugibst, o König, besteht der Mensch aus den vier Elementen sowie aus Seele und Geist, und deshalb wird er Mikrokosmos genannt; ohne eines dieser Teile könnte er nicht bestehen. Er hat Anfang und Ende, er wird geboren und stirbt. Gott aber hat, wie ich sagte, nichts von alledem in seiner Natur, sondern ist ungeschaffen und unvergänglich. Daher ist es nicht möglich, den Menschen der Natur Gottes zuzurechnen: den Menschen, dem zuweilen, wenn er Freude erwartet, Kummer widerfährt, und wenn er Lachen erwartet, Weinen; der zornig, habgierig und neidisch ist und dazu noch andere Mängel hat. Und er wird auf vielerlei Weise durch die Elemente und auch durch die Tiere vernichtet. Daher, o König, müssen wir den Irrtum der Barbaren erkennen: Daran zeigt sich, dass sie, weil sie keine Spuren des wahren Gottes fanden, "
+              },
+              {
+                "type": "text",
+                "text": "von der Wahrheit abwichen und der Begierde ihrer Einbildung nachliefen; sie dienten den vergänglichen Elementen und leblosen Bildwerken",
+                "marks": [
+                  {
+                    "type": "lexiconQuoteLink",
+                    "attrs": {
+                      "id": "bbaca7b7-d109-4927-7681-08df1361216e"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " und erkannten durch ihren Irrtum nicht, was der wahre Gott ist."
               }
             ]
           }
@@ -539,7 +567,7 @@
         "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
         "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
       },
-      "contentRevision": "sha256:853cfd7a36d5de7e881b52c87326881afacf5389ddd53e1157bc99a2a9698b75",
+      "contentRevision": "sha256:ddbe197ab39f622c6e723153bbd56e45ec0b0a6f3f2be9a9e54503db21057f8e",
       "plainText": "Doch erstaunlich ist, o König, bei den Griechen, die alle anderen Völker in Lebensweise und Denken übertreffen, wie sie toten Götzen und leblosen Bildern nach in die Irre gegangen sind. Und doch sehen sie ihre Götter in den Händen ihrer Handwerker: Sie werden herausgesägt, gehobelt und gestutzt, kurz gehauen, angekohlt, geschmückt und von ihnen auf jede nur erdenkliche Weise verändert. Und wenn sie alt werden, im Lauf der Zeit abgenutzt sind, eingeschmolzen und zu Staub zermahlen werden: Wie, frage ich mich, haben sie da nicht an ihnen erkannt, dass sie keine Götter sind? Und wie können solche, die für sich selbst keine Rettung fanden, der Not der Menschen abhelfen? Aber sogar die Schriftsteller und Philosophen unter ihnen haben fälschlich behauptet, die Götter seien solche, die zur Ehre des allmächtigen Gottes gemacht würden. Und sie irren, wenn sie versuchen, sie Gott ähnlich zu machen, den kein Mensch je gesehen hat und auch nicht sehen kann, wie er ist. Auch darin irren sie, dass sie von der Gottheit behaupten, ihr könne so etwas wie Mangel eigen sein: etwa wenn sie sagen, die Gottheit nehme Opfer an und brauche Brandopfer, Trankopfer, Menschenopfer und Tempel. Gott aber bedarf nichts, und nichts von alledem ist für ihn notwendig; und es ist klar, dass die Menschen in dem irren, was sie sich dabei vorstellen. Ferner stellen ihre Schriftsteller und Philosophen dar und erklären, die Natur aller ihrer Götter sei eine. Und sie haben Gott, unseren Herrn, nicht begriffen, der, obwohl er einer ist, in allem ist. Darum irren sie. Denn wenn der Leib eines Menschen, obwohl er viele Teile hat, sich nicht fürchtet, ein Glied vor dem anderen, sondern als ein einziger Leib ganz mit sich selbst übereinstimmt, so ist auch Gott einer in seiner Natur. Ihm kommt ein einziges Wesen zu, da er in seiner Natur und seinem Wesen einheitlich ist; und er fürchtet sich nicht vor sich selbst. Wenn also die Natur der Götter eine ist, gehört es sich nicht, dass ein Gott einen Gott verfolgt, tötet oder schädigt. Wenn nun Götter von Göttern verfolgt und verwundet werden, wenn einige geraubt und andere vom Blitz erschlagen werden, dann ist offenkundig, dass die Natur ihrer Götter nicht eine ist. Daraus erkennt man, o König, dass es ein Irrtum ist, wenn sie die Naturen ihrer Götter aufzählen und unter eine einzige Natur fassen. Wenn es uns also ansteht, einen Gott zu bewundern, der gesehen wird und nicht sieht, wie viel lobenswerter ist es dann, an eine Natur zu glauben, die unsichtbar ist und alles sieht? Und wenn es ferner angemessen ist, die Werke eines Handwerkers zu würdigen, wie viel mehr ist es angemessen, den Schöpfer des Handwerkers zu verherrlichen? Denn siehe: Als die Griechen Gesetze machten, erkannten sie nicht, dass sie durch ihre Gesetze ihre Götter verurteilen. Denn wenn ihre Gesetze gerecht sind, sind ihre Götter ungerecht, weil sie das Gesetz übertraten, indem sie einander töteten, Zauberei trieben, Ehebruch begingen, raubten und stahlen, bei Männern lagen und ebenso ihre übrigen Frevel verübten. Denn wenn ihre Götter recht daran taten, all dies zu tun, wie es von ihnen erzählt wird, dann sind die Gesetze der Griechen ungerecht, weil sie nicht nach dem Willen ihrer Götter gemacht sind. Und in diesem Fall ist die ganze Welt in die Irre gegangen. Denn die Erzählungen über ihre Götter sind teils Mythen, teils Naturgedichte und teils Hymnen und Klagelieder. Die Hymnen freilich und Klagelieder sind leere Worte und Lärm. Aber diese Naturgedichte: Selbst wenn sie so gemacht sind, wie sie sagen, sind doch diejenigen keine Götter, die solches tun, solches erleiden und solches ertragen. Und jene Mythen sind seichte Geschichten ohne jede Tiefe.",
       "ast": {
         "type": "doc",
@@ -549,7 +577,19 @@
             "content": [
               {
                 "type": "text",
-                "text": "Doch erstaunlich ist, o König, bei den Griechen, die alle anderen Völker in Lebensweise und Denken übertreffen, wie sie toten Götzen und leblosen Bildern nach in die Irre gegangen sind. Und doch sehen sie ihre Götter in den Händen ihrer Handwerker: Sie werden herausgesägt, gehobelt und gestutzt, kurz gehauen, angekohlt, geschmückt und von ihnen auf jede nur erdenkliche Weise verändert. Und wenn sie alt werden, im Lauf der Zeit abgenutzt sind, eingeschmolzen und zu Staub zermahlen werden: Wie, frage ich mich, haben sie da nicht an ihnen erkannt, dass sie keine Götter sind? Und wie können solche, die für sich selbst keine Rettung fanden, der Not der Menschen abhelfen? Aber sogar die Schriftsteller und Philosophen unter ihnen haben fälschlich behauptet, die Götter seien solche, die zur Ehre des allmächtigen Gottes gemacht würden. Und sie irren, wenn sie versuchen, sie Gott ähnlich zu machen, den "
+                "text": "Doch erstaunlich ist, o König, bei den Griechen, die alle anderen Völker in Lebensweise und Denken übertreffen, wie sie toten Götzen und leblosen Bildern nach in die Irre gegangen sind. Und doch sehen sie ihre Götter in den Händen ihrer Handwerker: Sie werden herausgesägt, gehobelt und gestutzt, kurz gehauen, angekohlt, geschmückt und von ihnen auf jede nur erdenkliche Weise verändert. Und wenn sie alt werden, im Lauf der Zeit abgenutzt sind, eingeschmolzen und zu Staub zermahlen werden: Wie, frage ich mich, haben sie da nicht an ihnen erkannt, dass sie keine Götter sind? Und wie können solche, die für sich selbst keine Rettung fanden, der Not der Menschen abhelfen?",
+                "marks": [
+                  {
+                    "type": "lexiconQuoteLink",
+                    "attrs": {
+                      "id": "4f8c2de1-d5f8-4524-7682-08df1361216e"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " Aber sogar die Schriftsteller und Philosophen unter ihnen haben fälschlich behauptet, die Götter seien solche, die zur Ehre des allmächtigen Gottes gemacht würden. Und sie irren, wenn sie versuchen, sie Gott ähnlich zu machen, den "
               },
               {
                 "type": "text",
@@ -643,7 +683,7 @@
         "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
         "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
       },
-      "contentRevision": "sha256:7f06c49e8c2ab9bd5a3f6d22fd3733812825fcd37c10e27071d3a06832daa2eb",
+      "contentRevision": "sha256:5a7504502330da61270aa3cf9e9a16b701a0856aad36fa9744e1f4d4256f369d",
       "plainText": "Die Christen aber, o König, sind umhergezogen und haben gesucht und die Wahrheit gefunden. Und wie wir aus ihren Schriften erfahren haben, sind sie der Wahrheit und der echten Erkenntnis nähergekommen als die übrigen Völker. Denn sie kennen Gott und vertrauen auf ihn, den Schöpfer des Himmels und der Erde, in dem und aus dem alles ist und dem kein anderer Gott als Gefährte zur Seite steht. Von ihm haben sie Gebote empfangen, die sie ihrem Geist eingeprägt haben und in der Hoffnung und Erwartung der kommenden Welt halten. Darum begehen sie keinen Ehebruch und keine Unzucht, legen kein falsches Zeugnis ab, unterschlagen nicht, was ihnen als Pfand anvertraut ist, und begehren nicht, was ihnen nicht gehört. Sie ehren Vater und Mutter und erweisen denen Güte, die ihnen nahestehen; und wann immer sie als Richter auftreten, urteilen sie recht. Sie beten keine Götzen an, die nach dem Abbild eines Menschen gemacht sind. Und alles, was sie nicht wollen, dass andere ihnen tun, tun sie auch anderen nicht. Von Speisen, die Götzen geweiht sind, essen sie nicht, denn sie sind rein. Ihre Unterdrücker besänftigen sie und machen sie zu ihren Freunden; sie tun ihren Feinden Gutes. Ihre Frauen, o König, sind rein wie Jungfrauen, und ihre Töchter sind züchtig; ihre Männer halten sich fern von jeder unerlaubten Verbindung und von aller Unreinheit, in der Hoffnung auf den künftigen Lohn in der anderen Welt. Weiter: Wenn einige von ihnen Sklaven und Sklavinnen oder Kinder haben, bewegen sie diese aus Liebe zu ihnen dazu, Christen zu werden; und wenn sie es geworden sind, nennen sie sie ohne Unterschied Brüder. Sie beten keine fremden Götter an und gehen ihren Weg in aller Bescheidenheit und Freude. Lüge findet sich unter ihnen nicht; sie lieben einander, und von den Witwen wenden sie ihre Achtung nicht ab; die Waise befreien sie aus der Hand dessen, der sie hart behandelt. Wer hat, gibt dem, der nicht hat, ohne sich zu rühmen. Wenn sie einen Fremden sehen, nehmen sie ihn in ihre Häuser auf und freuen sich über ihn wie über einen wirklichen Bruder; denn sie nennen sie nicht Brüder dem Fleisch nach, sondern Brüder dem Geist nach und in Gott. Und wann immer einer ihrer Armen aus der Welt scheidet, kümmert sich jeder von ihnen nach seinen Kräften um ihn und sorgt sorgfältig für seine Bestattung. Wenn sie hören, dass einer aus ihrer Zahl um des Namens ihres Messias willen gefangen oder bedrängt ist, dienen sie alle mit Sorge seiner Not; und wenn es möglich ist, ihn freizukaufen, befreien sie ihn. Wenn unter ihnen jemand arm und bedürftig ist und sie keine Speise übrig haben, fasten sie zwei oder drei Tage, um dem Bedürftigen das zu geben, was ihm an Nahrung fehlt. Die Gebote ihres Messias halten sie mit großer Sorgfalt; sie leben gerecht und besonnen, wie der Herr, ihr Gott, es ihnen geboten hat. Jeden Morgen und zu jeder Stunde danken und loben sie Gott für seine Wohltaten an ihnen; und für ihre Speise und ihren Trank bringen sie ihm Dank dar. Wenn ein Gerechter unter ihnen aus der Welt scheidet, freuen sie sich und sagen Gott Dank; und sie geleiten seinen Leib, als bräche er von einem Ort zu einem anderen, nahe gelegenen Ort auf. Wenn einem von ihnen ein Kind geboren wird, danken sie Gott; und wenn es dazu kommt, dass es im Kindesalter stirbt, danken sie Gott umso mehr über eines, das ohne Sünden durch die Welt gegangen ist.Wenn sie aber sehen, dass einer von ihnen in seiner Gottlosigkeit oder in seinen Sünden stirbt, trauern sie bitter um ihn und klagen wie um einen, der seinem Urteil entgegengeht.",
       "ast": {
         "type": "doc",
@@ -653,7 +693,19 @@
             "content": [
               {
                 "type": "text",
-                "text": "Die Christen aber, o König, sind umhergezogen und haben gesucht und die Wahrheit gefunden. Und wie wir aus ihren Schriften erfahren haben, sind sie der Wahrheit und der echten Erkenntnis nähergekommen als die übrigen Völker. Denn sie kennen Gott und vertrauen auf ihn, "
+                "text": "Die Christen aber, o König, sind umhergezogen und haben gesucht und die Wahrheit gefunden. Und wie wir aus ihren Schriften erfahren haben, sind sie der Wahrheit und der echten Erkenntnis nähergekommen als die übrigen Völker.",
+                "marks": [
+                  {
+                    "type": "lexiconQuoteLink",
+                    "attrs": {
+                      "id": "a8d76e67-f46c-428c-7683-08df1361216e"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " Denn sie kennen Gott und vertrauen auf ihn, "
               },
               {
                 "type": "text",
@@ -785,7 +837,23 @@
               },
               {
                 "type": "text",
-                "text": "und erweisen denen Güte, die ihnen nahestehen; und wann immer sie als Richter auftreten, urteilen sie recht. Sie beten keine Götzen an, die nach dem Abbild eines Menschen gemacht sind. Und alles, "
+                "text": "und erweisen denen Güte, die ihnen nahestehen; und wann immer sie als Richter auftreten, urteilen sie recht. "
+              },
+              {
+                "type": "text",
+                "text": "Sie beten keine Götzen an, die nach dem Abbild eines Menschen gemacht sind.",
+                "marks": [
+                  {
+                    "type": "lexiconQuoteLink",
+                    "attrs": {
+                      "id": "a8d76e67-f46c-428c-7683-08df1361216e"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " Und alles, "
               },
               {
                 "type": "text",
@@ -1059,7 +1127,7 @@
   "collectionTitle": null,
   "languageCode": "de",
   "sourceUrl": "https://erste-christen.de/werke/aristides-von-athen/apologie",
-  "contentRevision": "sha256:f574ce47e04312070f9956909b964d8d7f29915a2c49ddd90f2e1e2f399d24eb",
+  "contentRevision": "sha256:d56abb3ccc4376d77078079f198371f402ee1be712f3e908b869e9e130358cae",
   "chapterCount": 17,
   "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
   "rights": {
