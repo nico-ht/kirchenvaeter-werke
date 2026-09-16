@@ -7,7 +7,7 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/auszuege-aus-genesis-fragmente#kapitel-6aa99313-a63a-4d60-ead7-08de02a1dc4b).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:969d49e410846ac7de9cd180a252e15f3389abe2dd2e473509f20ba4c6043c41`
+Revision: `sha256:6b5648abf183b4225a89be4b64c66518a6d1e2a784ad18075640897f4e97a3b2`
 
 „Und Terach lebte siebzig Jahre und zeugte Abram, Nahor und Haran\.“[^bible-91850f80-6c60-41a2-8d7f-f985a4822f3b] Den Vater des Volkes, das die Woche feiert, zeugte Terach, als er siebzigjährig war\. Ich gebe zu bedenken, ob er nicht alle drei als Drillinge gezeugt hat\. Denn sonst hätte er, siebzigjährig, nicht Vater aller drei aus einer Frau sein können; zugleich werden bei ihm keine weiteren Frauen genannt\. „Und Abram zog nach Ägypten, um dort als Fremder zu wohnen, denn die Hungersnot war hart im Land\.“[^bible-93beaaf4-61a9-4ec9-b466-6d19814a59c5] Abraham wohnte nicht sesshaft in Ägypten, sondern hielt sich als Fremder dort auf, weil die Hungersnot im Land schwer war\. „Die Kanaaniter und die Perisiter wohnten damals im Land\.“ Als Verwerfliche wohnten die Kanaaniter dort sesshaft, nicht als Fremde\. So ist es: Die Schlechten siedeln sich an, sie „bewohnen“ das Land, sie sind nicht nur zu Gast\. „Wenn du nach links gehst, gehe ich nach rechts; und wenn du nach rechts gehst, gehe ich nach links“ – und so weiter\. Auch wenn die Wahl Lot aufgrund der Großmut Abrahams gestattet wurde, ist zu beachten: Der, der wählte, hat keinen Gewinn von seiner Wahl; der, der aber nachgab, hat den zurückgelassenen Teil als gesegneten Anteil\.
 
