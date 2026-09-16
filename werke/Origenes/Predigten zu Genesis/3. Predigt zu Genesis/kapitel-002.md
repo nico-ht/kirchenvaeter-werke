@@ -7,7 +7,7 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/3-predigt-zu-genesis#kapitel-106c6663-2fd6-4c1f-eb90-08dd138fb380).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e0d1268d87c1255c2567b4faecbf1c61540eae30f979adbd570d5493f62d4c3f`
+Revision: `sha256:6d2ead6b3b7a9ad2366826b60289d37b2f840920f3e4c7ab5039e5b7a8d229e4`
 
 Wir lesen in vielen Passagen der göttlichen Schrift, dass Gott zu den Menschen spricht\. Aus diesem Grund haben die Juden, aber auch einige von uns, angenommen, dass Gott als ein Mensch verstanden werden sollte, das heißt, geschmückt mit menschlichen Gliedern und menschlichem Aussehen\. Die Philosophen hingegen verachten solche Geschichten als fabulierend und in der Art poetischer Fiktionen\. Daher scheint es mir notwendig, zunächst einige dieser Punkte zu erörtern und dann zu den Worten zu kommen, die gelesen wurden\.
 
