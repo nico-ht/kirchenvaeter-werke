@@ -197,7 +197,7 @@
       "collectionTitle": null,
       "languageCode": "de",
       "sourceUrl": "https://erste-christen.de/werke/aristides-von-athen/apologie",
-      "contentRevision": "sha256:f574ce47e04312070f9956909b964d8d7f29915a2c49ddd90f2e1e2f399d24eb",
+      "contentRevision": "sha256:d56abb3ccc4376d77078079f198371f402ee1be712f3e908b869e9e130358cae",
       "chapterCount": 17,
       "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
       "rights": {
@@ -297,7 +297,7 @@
       "collectionTitle": null,
       "languageCode": "de",
       "sourceUrl": "https://erste-christen.de/werke/athanasius/diskurs-ueber-das-heil-einer-jungfrau",
-      "contentRevision": "sha256:55d78eaa95594dc1bd06206d0594eed19329bbf41d0fd3992455ed80a6a3b1ce",
+      "contentRevision": "sha256:b1343cd1ef584670e42df493457a9af897b0fd58e71d277d502af81a95c272e5",
       "chapterCount": 25,
       "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
       "rights": {
@@ -560,6 +560,26 @@
       "contentRevision": "sha256:b9e704bb35c232cadf37898fe9778d66a2fbc09df5adc789af5bf69c41507af1",
       "chapterCount": 13,
       "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
+      "rights": {
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "attributionName": "Die ersten Christen",
+        "attributionUrl": "https://erste-christen.de",
+        "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+        "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+      }
+    },
+    {
+      "workId": "bd06f216-fa47-4034-330b-08deae0a27b1",
+      "title": "Der Erzieher: Buch 3",
+      "authorId": "a0fc1ec9-94c4-4e7e-7585-08dd0634fd28",
+      "authorName": "Clemens von Alexandria",
+      "collectionTitle": "Der Erzieher",
+      "languageCode": "de",
+      "sourceUrl": "https://erste-christen.de/werke/clemens-von-alexandria/der-erzieher-buch-3",
+      "contentRevision": "sha256:207fa46559b080fc297c17e40c492b500986bbb51f0d2ad0c6a6573681cb475d",
+      "chapterCount": 12,
+      "provenance": "Eigene Übersetzung; aktuelle deutsche Texte durch Übersetzungsaufträge belegt. Keine Aussage über menschliche Prüfung.",
       "rights": {
         "license": "CC BY-NC-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
@@ -4137,7 +4157,7 @@
       "collectionTitle": null,
       "languageCode": "de",
       "sourceUrl": "https://erste-christen.de/werke/justin-der-maertyrer/1-apologie",
-      "contentRevision": "sha256:8517d6aa9039c42f761e5e6f54d0e365ea1b8ebf42450e8d8e09feed79e31e41",
+      "contentRevision": "sha256:a77f315b9321396500ac8e9fc9d9496ed4da9237d7f68ce998a9717adf32e354",
       "chapterCount": 69,
       "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
       "rights": {
@@ -5017,7 +5037,7 @@
       "collectionTitle": "Predigten zu Genesis",
       "languageCode": "de",
       "sourceUrl": "https://erste-christen.de/werke/origenes/3-predigt-zu-genesis",
-      "contentRevision": "sha256:dd8ceee2745d06240d7cc8e12647dc39248030fa95e7907558c8ac5b146e7197",
+      "contentRevision": "sha256:4861d3ce4b08ecd45fe5c6c2db3b6bd7728f2023e461b1bb73df7c431ae28eb9",
       "chapterCount": 7,
       "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
       "rights": {
@@ -5337,7 +5357,7 @@
       "collectionTitle": "Fragmente zu Genesis",
       "languageCode": "de",
       "sourceUrl": "https://erste-christen.de/werke/origenes/auszuege-aus-genesis-fragmente",
-      "contentRevision": "sha256:8f9aba3650bd7c435dca7db1aee0b0c836bd3c94c914edf04e9340bbfc54689d",
+      "contentRevision": "sha256:0b56720ad5ddac90e2175e62a569e348534c7bbe7964fce8eaf5513fc57235c6",
       "chapterCount": 19,
       "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
       "rights": {
