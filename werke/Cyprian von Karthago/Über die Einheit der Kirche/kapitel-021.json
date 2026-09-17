@@ -16,7 +16,7 @@
     "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
     "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
   },
-  "contentRevision": "sha256:742b35aae74cbadc181cc62cdcba9d31b7afefe92360df909f45a10336c9afd2",
+  "contentRevision": "sha256:2857f78368d9146b3be030d5cd9599fde6fe23fbda5b2163b64090758594409f",
   "plainText": "Das Geständnis ist der Anfang des Ruhms, nicht der volle Verdienst der Krone; es vollendet nicht unser Lob, sondern begründet unsere Würde. Da geschrieben steht: „Wer aber bis ans Ende ausharrt, der wird gerettet werden,“ ist alles, was vor dem Ende liegt, nur eine Stufe auf dem Weg zum Gipfel des Heils, nicht das Ziel, in dem das Ergebnis des Aufstiegs bereits erreicht ist. Er ist ein Bekenner; doch nach dem Geständnis ist seine Gefahr größer, weil der Gegner mehr herausgefordert ist. Er ist ein Bekenner; gerade deshalb muss er umso mehr auf der Seite des Evangeliums des Herrn stehen, da er durch das Evangelium Ruhm vom Herrn erlangt hat. Denn der Herr sagt: „Wem viel gegeben ist, von dem wird viel gefordert; und wem mehr Würde verliehen ist, von dem wird mehr Dienst verlangt.“ Niemand soll durch das Beispiel eines Geständigen zugrunde gehen; niemand soll von ihm Ungerechtigkeit, Hochmut oder Verrat lernen. Er ist ein Bekenner – so sei er demütig und still; er sei in seinem Verhalten bescheiden und diszipliniert, damit derjenige, der sich Geständiger Christi nennt, auch Christus nachahmt, den er gesteht. Da Christus sagt: „Wer sich selbst erhöht, der wird erniedrigt werden, und wer sich selbst erniedrigt, der wird erhöht werden,“ und da er selbst vom Vater erhöht wurde, weil er, als das Wort, die Kraft und die Weisheit Gottes des Vaters, sich auf Erden erniedrigte, wie könnte er dann den Hochmut lieben, wo er uns doch durch sein eigenes Gesetz Demut aufgetragen hat und selbst vom Vater den höchsten Namen als Lohn seiner Demut empfangen hat? Er ist ein Geständiger Christi – aber nur dann, wenn er nicht die Majestät und Würde Christi später durch sein Verhalten lästert. Die Zunge, die Christus gestanden hat, soll nicht böse reden; sie soll nicht aufrührerisch sein, sie soll nicht mit Schmähungen und Streit die Gemeinschaft stören; sie soll nach Worten des Lobes nicht Schlangengift gegen die Brüder und gegen die Priester Gottes speien. Wenn jemand sich später aber als verwerflich und schädlich erweist; wenn er sein Geständnis durch übles Verhalten verschwendet; wenn er sein Leben durch schändliche Unreinheit befleckt; wenn er schließlich die Kirche verlässt, in der er zum Geständigen wurde, und die Eintracht der Einheit zerreißt, indem er seinen anfänglichen Glauben gegen nachfolgende Ungläubigkeit eintauscht, so möge er sich nicht wegen seines Geständnisses einbilden, zur Belohnung des Ruhms auserwählt zu sein, wenn ihm durch eben dieses Verhalten das verdiente Strafurteil umso sicherer geworden ist.",
   "ast": {
     "type": "doc",
@@ -42,7 +42,19 @@
           },
           {
             "type": "text",
-            "text": " ist alles, was vor dem Ende liegt, nur eine Stufe auf dem Weg zum Gipfel des Heils, nicht das Ziel, in dem das Ergebnis des Aufstiegs bereits erreicht ist. Er ist ein Bekenner; doch nach dem Geständnis ist seine Gefahr größer, weil der Gegner mehr herausgefordert ist. Er ist ein Bekenner; gerade deshalb muss er umso mehr auf der Seite des Evangeliums des Herrn stehen, da er durch das Evangelium Ruhm vom Herrn erlangt hat. Denn der Herr sagt: "
+            "text": " ist alles, was vor dem Ende liegt, nur eine Stufe auf dem Weg zum Gipfel des Heils, nicht das Ziel, in dem das Ergebnis des Aufstiegs bereits erreicht ist. Er ist ein Bekenner; doch nach dem Geständnis ist seine Gefahr größer, weil der Gegner mehr herausgefordert ist. "
+          },
+          {
+            "type": "text",
+            "text": "Er ist ein Bekenner; gerade deshalb muss er umso mehr auf der Seite des Evangeliums des Herrn stehen, da er durch das Evangelium Ruhm vom Herrn erlangt hat. Denn der Herr sagt: ",
+            "marks": [
+              {
+                "type": "lexiconQuoteLink",
+                "attrs": {
+                  "id": "4fd9d9a9-760a-4ac6-7636-08df142daa41"
+                }
+              }
+            ]
           },
           {
             "type": "text",
@@ -53,12 +65,30 @@
                 "attrs": {
                   "id": "b4e071f9-69dc-432e-8f2e-18ed61390911"
                 }
+              },
+              {
+                "type": "lexiconQuoteLink",
+                "attrs": {
+                  "id": "4fd9d9a9-760a-4ac6-7636-08df142daa41"
+                }
               }
             ]
           },
           {
             "type": "text",
-            "text": " Niemand soll durch das Beispiel eines Geständigen zugrunde gehen; niemand soll von ihm Ungerechtigkeit, Hochmut oder Verrat lernen. Er ist ein Bekenner – so sei er demütig und still; er sei in seinem Verhalten bescheiden und diszipliniert, damit derjenige, der sich Geständiger Christi nennt, auch Christus nachahmt, den er gesteht. Da Christus sagt: "
+            "text": " Niemand soll durch das Beispiel eines Geständigen zugrunde gehen; niemand soll von ihm Ungerechtigkeit, Hochmut oder Verrat lernen. Er ist ein Bekenner – so sei er demütig und still; er sei in seinem Verhalten bescheiden und diszipliniert, damit derjenige, der sich Geständiger Christi nennt, auch Christus nachahmt, den er gesteht.",
+            "marks": [
+              {
+                "type": "lexiconQuoteLink",
+                "attrs": {
+                  "id": "4fd9d9a9-760a-4ac6-7636-08df142daa41"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Da Christus sagt: "
           },
           {
             "type": "text",
