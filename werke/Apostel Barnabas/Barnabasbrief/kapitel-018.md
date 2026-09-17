@@ -7,6 +7,6 @@ Autor: Apostel Barnabas
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostel-barnabas/barnabasbrief#kapitel-878cbfb2-bfc1-4240-83f8-08deb834b855).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:1b3611572e8a0cf0cc542b3ff3a8459ff02409938c5eb3aa796f83fe1a174e8c`
+Revision: `sha256:866c8e07928a7a187587f4056a1c8e34bc49a4763da01f062937db4081c78654`
 
-Kommen wirnunauchzueiner anderenErkenntnisundLehre\. Es gibtzweiWegeder Lehreundder Macht: den einendes Lichtsundden anderender Finsternis\. Dochzwischen den beiden Wegenbesteht ein großerUnterschied\. Dennüber den einensinddie lichtbringendenEngelGottesgesetzt, über den anderenaberdie EngelSatans\. Undder eineistHerrvon Ewigkeitundin Ewigkeit, der andereaberist Herrscherüber die gegenwärtigeZeitder Gesetzlosigkeit\.
+Kommen wir nun auch zu einer anderen Erkenntnis und Lehre\. Es gibt zwei Wege der Lehre und der Macht: den einen des Lichts und den anderen der Finsternis\. Doch zwischen den beiden Wegen besteht ein großer Unterschied\. Denn über den einen sind die lichtbringenden Engel Gottes gesetzt, über den anderen aber die Engel Satans\. Und der eine ist Herr von Ewigkeit und in Ewigkeit, der andere aber ist Herrscher über die gegenwärtige Zeit der Gesetzlosigkeit\.

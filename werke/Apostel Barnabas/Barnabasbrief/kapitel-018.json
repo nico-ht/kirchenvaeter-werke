@@ -16,8 +16,8 @@
     "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
     "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
   },
-  "contentRevision": "sha256:1b3611572e8a0cf0cc542b3ff3a8459ff02409938c5eb3aa796f83fe1a174e8c",
-  "plainText": "Kommen wirnunauchzueiner anderenErkenntnisundLehre. Es gibtzweiWegeder Lehreundder Macht: den einendes Lichtsundden anderender Finsternis. Dochzwischen den beiden Wegenbesteht ein großerUnterschied. Dennüber den einensinddie lichtbringendenEngelGottesgesetzt, über den anderenaberdie EngelSatans. Undder eineistHerrvon Ewigkeitundin Ewigkeit, der andereaberist Herrscherüber die gegenwärtigeZeitder Gesetzlosigkeit.",
+  "contentRevision": "sha256:866c8e07928a7a187587f4056a1c8e34bc49a4763da01f062937db4081c78654",
+  "plainText": "Kommen wir nun auch zu einer anderen Erkenntnis und Lehre. Es gibt zwei Wege der Lehre und der Macht: den einen des Lichts und den anderen der Finsternis. Doch zwischen den beiden Wegen besteht ein großer Unterschied. Denn über den einen sind die lichtbringenden Engel Gottes gesetzt, über den anderen aber die Engel Satans. Und der eine ist Herr von Ewigkeit und in Ewigkeit, der andere aber ist Herrscher über die gegenwärtige Zeit der Gesetzlosigkeit.",
   "ast": {
     "type": "doc",
     "content": [
@@ -41,7 +41,7 @@
           },
           {
             "type": "text",
-            "text": "nun",
+            "text": " nun",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -57,7 +57,7 @@
           },
           {
             "type": "text",
-            "text": "auch",
+            "text": " auch",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -72,7 +72,7 @@
           },
           {
             "type": "text",
-            "text": "zu",
+            "text": " zu",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -87,7 +87,7 @@
           },
           {
             "type": "text",
-            "text": "einer anderen",
+            "text": " einer anderen",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -103,7 +103,7 @@
           },
           {
             "type": "text",
-            "text": "Erkenntnis",
+            "text": " Erkenntnis",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -119,7 +119,7 @@
           },
           {
             "type": "text",
-            "text": "und",
+            "text": " und",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -134,7 +134,7 @@
           },
           {
             "type": "text",
-            "text": "Lehre",
+            "text": " Lehre",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -169,7 +169,7 @@
           },
           {
             "type": "text",
-            "text": "zwei",
+            "text": " zwei",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -184,7 +184,7 @@
           },
           {
             "type": "text",
-            "text": "Wege",
+            "text": " Wege",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -200,7 +200,7 @@
           },
           {
             "type": "text",
-            "text": "der Lehre",
+            "text": " der Lehre",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -215,7 +215,7 @@
           },
           {
             "type": "text",
-            "text": "und",
+            "text": " und",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -230,7 +230,7 @@
           },
           {
             "type": "text",
-            "text": "der Macht",
+            "text": " der Macht",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -266,7 +266,7 @@
           },
           {
             "type": "text",
-            "text": "des Lichts",
+            "text": " des Lichts",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -282,7 +282,7 @@
           },
           {
             "type": "text",
-            "text": "und",
+            "text": " und",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -297,7 +297,7 @@
           },
           {
             "type": "text",
-            "text": "den anderen",
+            "text": " den anderen",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -312,7 +312,7 @@
           },
           {
             "type": "text",
-            "text": "der Finsternis",
+            "text": " der Finsternis",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -348,7 +348,7 @@
           },
           {
             "type": "text",
-            "text": "zwischen "
+            "text": " zwischen "
           },
           {
             "type": "text",
@@ -369,7 +369,7 @@
           },
           {
             "type": "text",
-            "text": "besteht ein "
+            "text": " besteht ein "
           },
           {
             "type": "text",
@@ -389,7 +389,7 @@
           },
           {
             "type": "text",
-            "text": "Unterschied",
+            "text": " Unterschied",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -424,7 +424,7 @@
           },
           {
             "type": "text",
-            "text": "über den einen",
+            "text": " über den einen",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -441,7 +441,7 @@
           },
           {
             "type": "text",
-            "text": "sind",
+            "text": " sind",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -457,7 +457,7 @@
           },
           {
             "type": "text",
-            "text": "die "
+            "text": " die "
           },
           {
             "type": "text",
@@ -476,7 +476,7 @@
           },
           {
             "type": "text",
-            "text": "Engel",
+            "text": " Engel",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -492,7 +492,7 @@
           },
           {
             "type": "text",
-            "text": "Gottes",
+            "text": " Gottes",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -508,7 +508,7 @@
           },
           {
             "type": "text",
-            "text": "gesetzt",
+            "text": " gesetzt",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -543,7 +543,7 @@
           },
           {
             "type": "text",
-            "text": "aber",
+            "text": " aber",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -559,7 +559,7 @@
           },
           {
             "type": "text",
-            "text": "die "
+            "text": " die "
           },
           {
             "type": "text",
@@ -579,7 +579,7 @@
           },
           {
             "type": "text",
-            "text": "Satans",
+            "text": " Satans",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -614,7 +614,7 @@
           },
           {
             "type": "text",
-            "text": "der eine",
+            "text": " der eine",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -630,7 +630,7 @@
           },
           {
             "type": "text",
-            "text": "ist",
+            "text": " ist",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -645,7 +645,7 @@
           },
           {
             "type": "text",
-            "text": "Herr",
+            "text": " Herr",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -661,7 +661,7 @@
           },
           {
             "type": "text",
-            "text": "von Ewigkeit",
+            "text": " von Ewigkeit",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -677,7 +677,7 @@
           },
           {
             "type": "text",
-            "text": "und",
+            "text": " und",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -692,7 +692,7 @@
           },
           {
             "type": "text",
-            "text": "in Ewigkeit",
+            "text": " in Ewigkeit",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -728,7 +728,7 @@
           },
           {
             "type": "text",
-            "text": "aber",
+            "text": " aber",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -744,7 +744,7 @@
           },
           {
             "type": "text",
-            "text": "ist "
+            "text": " ist "
           },
           {
             "type": "text",
@@ -764,7 +764,7 @@
           },
           {
             "type": "text",
-            "text": "über die "
+            "text": " über die "
           },
           {
             "type": "text",
@@ -784,7 +784,7 @@
           },
           {
             "type": "text",
-            "text": "Zeit",
+            "text": " Zeit",
             "marks": [
               {
                 "type": "greekWordLink",
@@ -800,7 +800,7 @@
           },
           {
             "type": "text",
-            "text": "der Gesetzlosigkeit",
+            "text": " der Gesetzlosigkeit",
             "marks": [
               {
                 "type": "greekWordLink",
