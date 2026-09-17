@@ -117,7 +117,7 @@
       "collectionTitle": null,
       "languageCode": "de",
       "sourceUrl": "https://erste-christen.de/werke/apostel-barnabas/barnabasbrief",
-      "contentRevision": "sha256:49a3cb4e55b6f1df5235942660e4d6055c8408ef306f3eab6e6bd0d6f74b8c3d",
+      "contentRevision": "sha256:57d71c274e13397ee38eb4501e73b7c6b2f0c8e5e517260e1a50c4cfb916c225",
       "chapterCount": 21,
       "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
       "rights": {
@@ -937,7 +937,7 @@
       "collectionTitle": null,
       "languageCode": "de",
       "sourceUrl": "https://erste-christen.de/werke/cyprian/ueber-die-einheit-der-kirche",
-      "contentRevision": "sha256:1cdcffe4e05e70aac2133b745d322c69dd7763671fb19e6dc95d3c250af3594b",
+      "contentRevision": "sha256:60c22aee1b019d7d73a98b1ca9a8c49fe8aa30f0baebb32e673ddc936c211582",
       "chapterCount": 27,
       "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
       "rights": {
@@ -1597,7 +1597,7 @@
       "collectionTitle": "Gegen die Häresien",
       "languageCode": "de",
       "sourceUrl": "https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-iv",
-      "contentRevision": "sha256:daf8e282d34d07ff03e4584c4427a685dec95c44e306c05b33b1ac906f7972d5",
+      "contentRevision": "sha256:8bff4fc84b09704d1d775ee0c0b3d96e60abd6af589ace97bb935231dc1c0757",
       "chapterCount": 42,
       "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
       "rights": {
@@ -2217,9 +2217,9 @@
       "collectionTitle": "Homilien über Matthäus",
       "languageCode": "de",
       "sourceUrl": "https://erste-christen.de/werke/chrysostomos/26-homilie-ueber-matthaeus",
-      "contentRevision": "sha256:4034b4eb8bd84fa61458d1a56a41a5a282dd461fd70398e2fb13db14eec80e0a",
+      "contentRevision": "sha256:d7e848aa4e31bdc6382a024b876de64df4e95f30f688193a0f42eba8578dc983",
       "chapterCount": 8,
-      "provenance": "Eigene Übersetzung; aktuelle deutsche Texte durch Übersetzungsaufträge belegt. Keine Aussage über menschliche Prüfung.",
+      "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
       "rights": {
         "license": "CC BY-NC-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
