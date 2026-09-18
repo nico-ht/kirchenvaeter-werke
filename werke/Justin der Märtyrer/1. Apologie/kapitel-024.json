@@ -16,7 +16,7 @@
     "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
     "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
   },
-  "contentRevision": "sha256:cbb79b06c928de04f794c6755ac0f930b4a4c5aedce752b03dd70f7d5cf7b51f",
+  "contentRevision": "sha256:0267898f33721685c869bc571eadd294998f8adcba7dfd0b849efeb575be841b",
   "plainText": "Zunächst bringen wir den Beweis, dass wir, obwohl wir Dinge sagen, die den Aussagen der Griechen ähnlich sind, allein wegen des Namens Christi gehasst werden. Obwohl wir kein Unrecht tun, werden wir als Sünder hingerichtet. Andere Menschen an anderen Orten verehren Bäume, Flüsse, Mäuse, Katzen, Krokodile und viele andere irrationalen Tiere. Diese Tiere werden jedoch nicht überall gleich geschätzt. An einem Ort wird das eine Tier verehrt, an einem anderen ein anderes, sodass alle in den Augen der anderen profan sind, weil sie nicht dieselben Objekte anbeten. Dies ist die einzige Anklage, die ihr gegen uns erhebt: dass wir nicht die gleichen Götter verehren wie ihr, dass wir den Toten keine Trankopfer, keinen Duft von Fett, keine Kränze für ihre Statuen und keine Opfer darbringen. Ihr wisst sehr gut, dass dieselben Tiere für einige als Götter gelten, für andere jedoch als wilde Tiere und für wieder andere als Opfergaben.",
   "ast": {
     "type": "doc",
@@ -26,7 +26,23 @@
         "content": [
           {
             "type": "text",
-            "text": "Zunächst bringen wir den Beweis, dass wir, obwohl wir Dinge sagen, die den Aussagen der Griechen ähnlich sind, allein wegen des Namens Christi gehasst werden. Obwohl wir kein Unrecht tun, werden wir als Sünder hingerichtet. Andere Menschen an anderen Orten verehren Bäume, Flüsse, Mäuse, Katzen, Krokodile und viele andere irrationalen Tiere. Diese Tiere werden jedoch nicht überall gleich geschätzt. An einem Ort wird das eine Tier verehrt, an einem anderen ein anderes, sodass alle in den Augen der anderen profan sind, weil sie nicht dieselben Objekte anbeten. Dies ist die einzige Anklage, die ihr gegen uns erhebt: dass wir nicht die gleichen Götter verehren wie ihr, dass wir den Toten keine Trankopfer, keinen Duft von Fett, keine Kränze für ihre Statuen und keine Opfer darbringen. Ihr wisst sehr gut, dass dieselben Tiere für einige als Götter gelten, für andere jedoch als wilde Tiere und für wieder andere als Opfergaben."
+            "text": "Zunächst bringen wir den Beweis, dass wir, obwohl wir Dinge sagen, die den Aussagen der Griechen ähnlich sind, allein wegen des Namens Christi gehasst werden. Obwohl wir kein Unrecht tun, werden wir als Sünder hingerichtet. Andere Menschen an anderen Orten verehren Bäume, Flüsse, Mäuse, Katzen, Krokodile und viele andere irrationalen Tiere. Diese Tiere werden jedoch nicht überall gleich geschätzt. An einem Ort wird das eine Tier verehrt, an einem anderen ein anderes, sodass alle in den Augen der anderen profan sind, weil sie nicht dieselben Objekte anbeten. "
+          },
+          {
+            "type": "text",
+            "text": "Dies ist die einzige Anklage, die ihr gegen uns erhebt: dass wir nicht die gleichen Götter verehren wie ihr, dass wir den Toten keine Trankopfer, keinen Duft von Fett, keine Kränze für ihre Statuen und keine Opfer darbringen.",
+            "marks": [
+              {
+                "type": "lexiconQuoteLink",
+                "attrs": {
+                  "id": "0b5bf7b5-000e-4c76-9f25-08df14de11fa"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Ihr wisst sehr gut, dass dieselben Tiere für einige als Götter gelten, für andere jedoch als wilde Tiere und für wieder andere als Opfergaben."
           }
         ]
       }
