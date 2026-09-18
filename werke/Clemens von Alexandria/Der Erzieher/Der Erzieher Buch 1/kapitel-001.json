@@ -16,7 +16,7 @@
     "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
     "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
   },
-  "contentRevision": "sha256:ef472ba99aa1ea8ee893aa822bd0b858d7981204b32fe6e517bd256a81eed682",
+  "contentRevision": "sha256:89a8c4f9cde0e2be5abb507a6c66a6c0d90cd163be42c24b18032fb934349067",
   "plainText": "Ein Fundament der Wahrheit ist unter uns errichtet worden, Kinder, eine feste Basis der Erkenntnis für den Tempel des großen, heiligen Gottes. Es ist eine edle Ermutigung, an einem geistlichen Ort gepflanzt, die in uns eine Sehnsucht nach ewigem Leben weckt durch den Gehorsam gegenüber einer vernünftigen Lebensweise. Drei Dinge machen den Menschen aus: Charakter, Handlungen und Leidenschaften. Das ermutigende Wort zielt darauf ab, seinen Charakter zu formen – es führt ihn zur Ehrfurcht vor Gott. Dieses Wort liegt darunter wie der Kiel eines Schiffes und trägt den Aufbau des Glaubens. Darüber freuen wir uns zutiefst, erinnern uns an die alten Lehren und werden zur Rettung erneuert, indem wir in die Prophetenstimme einstimmen: „Gott ist gut zu Israel, zu denen, die aufrichtig im Herzen sind.“ Dasselbe Wort wacht über alle Handlungen als das belehrende Wort, und es heilt die Leidenschaften als das tröstende Wort. Aber in Wahrheit sind all diese ein und dasselbe Wort. Es reißt den Menschen von weltlichen Gewohnheiten weg und erhebt ihn auf den einzigen Weg des Glaubens an Gott, um ihn zur Rettung zu leiten. Das Wort vom Himmel, wann immer es Menschen zur Rettung rief, wurde also „Ermutiger“ genannt – diese spezifische, aufrüttelnde Botschaft, die oft als das ganze Wort bezeichnet wird, obwohl sie nur ein Teil davon ist. Denn jede Ehrfurcht vor Gott ist ermutigend, da sie in unserem Verstand das Verlangen nach dem gegenwärtigen und dem zukünftigen Leben weckt.\n\nNun ist das Wort zugleich heilend und belehrend und folgt sich selbst in vollkommener Harmonie. Es rät dem bereits Aufgerüttelten und verspricht Heilung für die Hauptwurzel unserer inneren Kämpfe. Lasst uns dieses Wort zu Recht mit einem einzigen, treffenden Namen benennen: Pädagoge (Erzieher der Kinder) – nicht im technischen Sinn eines Schulmeisters, sondern als jemand, dessen Ziel es ist, die Seele zu verbessern; nicht um Lehre zu vermitteln, sondern um vielmehr mit Selbstbeherrschung als mit Spezialwissen zu führen. Dennoch ist dasselbe Wort auch ein Lehrer, aber nicht in diesem Moment. In den lehrmäßigen Unterweisungen offenbart und erklärt Er als der Didaskalos (Lehrer), aber davor treibt Er uns als der Paidagogos (Erzieher) zuerst zum richtigen Charakter an! Nun ruft Er uns zur aktiven Tugend auf, gibt reine Anweisungen weiter und zeigt den Nachkommenden die Fehler der Vorangegangenen wie auf Bildern. Beide Formen sind äußerst nützlich – der ermutigende Teil bringt Gehorsam, und der bildhafte Teil (mit seiner doppelten Natur) ist auf ähnliche Weise hilfreich. Der eine Teil zeigt uns, was wir anstreben sollen, indem wir das Gute wählen; der andere warnt uns, uns abzuwenden, indem wir das Böse verwerfen. Die Heilung unserer Leidenschaften folgt dann daraus, da der Pädagoge die Seelen durch die sanfte Medizin seines gütigen Rates stärkt, um die Schwachen zu leiten in die volle „Erkenntnis der Wahrheit.“\n\nAber Gesundheit und Erkenntnis sind nicht dasselbe. Erkenntnis kommt durch Lernen, Gesundheit durch Heilung. Wer also in der Seele noch krank ist, kann die höheren Lehren nicht erlernen, bis er vollständig geheilt ist. Und nicht jede Unterweisung wird auf dieselbe Weise vermittelt – für die, die bereit sind für die Erkenntnis, gibt es die eine Art von Botschaft; für jene, die Heilung brauchen, eine andere. Genau wie kranke Körper einen Arzt brauchen, so brauchen kranke Seelen einen Pädagogen, um ihre Leidenschaften zu heilen. Dann erst können sie zu einem Lehrer geführt werden, der sie leitet und die Seele darauf vorbereitet, rein und bereit zu sein, die Erkenntnis und die Offenbarung des Wortes zu empfangen. Um uns also eilends auf die höchste Stufe der Rettung zu bringen, bedient sich das allliebende Wort einer passenden Lehrmethode. Es wirkt durch gute Führung: zuerst ermutigend, dann erziehend und schließlich alles lehrend.",
   "ast": {
     "type": "doc",
@@ -72,7 +72,23 @@
         "content": [
           {
             "type": "text",
-            "text": "Aber Gesundheit und Erkenntnis sind nicht dasselbe. Erkenntnis kommt durch Lernen, Gesundheit durch Heilung. Wer also in der Seele noch krank ist, kann die höheren Lehren nicht erlernen, bis er vollständig geheilt ist. Und nicht jede Unterweisung wird auf dieselbe Weise vermittelt – für die, die bereit sind für die Erkenntnis, gibt es die eine Art von Botschaft; für jene, die Heilung brauchen, eine andere. Genau wie kranke Körper einen Arzt brauchen, so brauchen kranke Seelen einen Pädagogen, um ihre Leidenschaften zu heilen. Dann erst können sie zu einem Lehrer geführt werden, der sie leitet und die Seele darauf vorbereitet, rein und bereit zu sein, die Erkenntnis und die Offenbarung des Wortes zu empfangen. Um uns also eilends auf die höchste Stufe der Rettung zu bringen, bedient sich das allliebende Wort einer passenden Lehrmethode. Es wirkt durch gute Führung: zuerst ermutigend, dann erziehend und schließlich alles lehrend."
+            "text": "Aber Gesundheit und Erkenntnis sind nicht dasselbe. Erkenntnis kommt durch Lernen, Gesundheit durch Heilung. Wer also in der Seele noch krank ist, kann die höheren Lehren nicht erlernen, bis er vollständig geheilt ist. Und nicht jede Unterweisung wird auf dieselbe Weise vermittelt – für die, die bereit sind für die Erkenntnis, gibt es die eine Art von Botschaft; für jene, die Heilung brauchen, eine andere. "
+          },
+          {
+            "type": "text",
+            "text": "Genau wie kranke Körper einen Arzt brauchen, so brauchen kranke Seelen einen Pädagogen, um ihre Leidenschaften zu heilen.",
+            "marks": [
+              {
+                "type": "lexiconQuoteLink",
+                "attrs": {
+                  "id": "f3a46cc2-ff9a-4f54-9f2a-08df14de11fa"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Dann erst können sie zu einem Lehrer geführt werden, der sie leitet und die Seele darauf vorbereitet, rein und bereit zu sein, die Erkenntnis und die Offenbarung des Wortes zu empfangen. Um uns also eilends auf die höchste Stufe der Rettung zu bringen, bedient sich das allliebende Wort einer passenden Lehrmethode. Es wirkt durch gute Führung: zuerst ermutigend, dann erziehend und schließlich alles lehrend."
           }
         ]
       }
