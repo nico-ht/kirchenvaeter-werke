@@ -1258,7 +1258,7 @@
         "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
         "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
       },
-      "contentRevision": "sha256:1de8187ffee365220ec13c408a19fdced6372b00429cea26be12891555b5e048",
+      "contentRevision": "sha256:b338f14729aaa98bbfbad38ab558c2b2684831488b42b294132686a1224c21f8",
       "plainText": "Und warum, wird jemand sagen, wenn das Bad all unsere Sünden hinwegnimmt, wird es nicht das Bad der Sündenvergebung oder das Bad der Reinigung genannt, sondern das Bad der Wiedergeburt? Der Grund ist, dass es unsere Sünden nicht einfach vergibt und uns nicht nur von unseren Fehlern reinigt, sondern es geschieht so, als wären wir neu geboren. Denn es schafft uns neu und formt uns wieder, nicht indem es uns aus Erde formt, sondern indem es uns aus einem anderen Element, der Natur des Wassers, erschafft.",
       "ast": {
         "type": "doc",
@@ -1268,7 +1268,15 @@
             "content": [
               {
                 "type": "text",
-                "text": "Und warum, wird jemand sagen, wenn das Bad all unsere Sünden hinwegnimmt, wird es nicht das Bad der Sündenvergebung oder das Bad der Reinigung genannt, sondern das Bad der Wiedergeburt? Der Grund ist, dass es unsere Sünden nicht einfach vergibt und uns nicht nur von unseren Fehlern reinigt, sondern es geschieht so, als wären wir neu geboren. Denn es schafft uns neu und formt uns wieder, nicht indem es uns aus Erde formt, sondern indem es uns aus einem anderen Element, der Natur des Wassers, erschafft."
+                "text": "Und warum, wird jemand sagen, wenn das Bad all unsere Sünden hinwegnimmt, wird es nicht das Bad der Sündenvergebung oder das Bad der Reinigung genannt, sondern das Bad der Wiedergeburt? Der Grund ist, dass es unsere Sünden nicht einfach vergibt und uns nicht nur von unseren Fehlern reinigt, sondern es geschieht so, als wären wir neu geboren. Denn es schafft uns neu und formt uns wieder, nicht indem es uns aus Erde formt, sondern indem es uns aus einem anderen Element, der Natur des Wassers, erschafft.",
+                "marks": [
+                  {
+                    "type": "lexiconQuoteLink",
+                    "attrs": {
+                      "id": "599c3373-a4ca-43c5-9f27-08df14de11fa"
+                    }
+                  }
+                ]
               }
             ]
           }
@@ -2661,7 +2669,7 @@
   "collectionTitle": "Taufunterweisung",
   "languageCode": "de",
   "sourceUrl": "https://erste-christen.de/werke/chrysostomos/9-taufunterweisung",
-  "contentRevision": "sha256:2febaa4d77885b6df15aef745c8840dba59b34c38832d8e1e4a12df6fb1738ba",
+  "contentRevision": "sha256:72f3240d6a6690db9316a3d2a70626aa86d7336c2aa996f3b0a43df23e1423f4",
   "chapterCount": 47,
   "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
   "rights": {
