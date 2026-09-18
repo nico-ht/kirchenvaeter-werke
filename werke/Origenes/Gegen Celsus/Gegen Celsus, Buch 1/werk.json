@@ -2100,7 +2100,7 @@
         "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
         "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
       },
-      "contentRevision": "sha256:2149d4df316a39980147f3a9011d3cb90696379ad73046e780eafd279c9902a0",
+      "contentRevision": "sha256:dacd1b450970128f02a729e368b8a65d407fb9826d87a91dbaa51f334306fc62",
       "plainText": "Doch sehen wir uns an, wie dieser Celsus, der alles zu wissen vorgibt, die Juden zu Unrecht beschuldigt, wenn er behauptet: „Sie beten Engel an und sind der Zauberei ergeben, in der Mose ihr Lehrer war.“ Wo in den Schriften des Mose hat er denn gefunden, dass der Gesetzgeber die Anbetung von Engeln gebietet? Das soll uns derjenige sagen, der über Christentum und Judentum alles zu wissen vorgibt. Auch soll er zeigen, wie es unter Menschen, die das mosaische Gesetz angenommen haben und darin das Gebot lesen: „Sucht auch keine Zauberer auf, damit ihr euch nicht durch sie verunreinigt. “, überhaupt Zauberei geben kann. Ferner verspricht er, später zu zeigen, „wie die Juden aus Unwissenheit getäuscht und in die Irre geführt wurden“. Hätte er nun erkannt, dass die Juden Christus nicht kannten, weil sie die Prophezeiungen über ihn nicht gehört hatten, würde er wahrheitsgemäß zeigen, wie sie in die Irre gerieten. Doch ohne auch nur im Geringsten darauf aus zu sein, dies aufzuzeigen, hält er für jüdische Irrtümer, was überhaupt keine Irrtümer sind. Nachdem Celsus versprochen hat, uns in einem späteren Teil seines Werkes mit den Lehren des Judentums bekannt zu machen, spricht er zunächst von unserem Erlöser als dem Begründer unseres Geschlechts, insofern wir Christen sind, und sagt: „Vor wenigen Jahren begann er diese Lehre zu verkünden und wurde von den Christen für den Sohn Gottes gehalten.“Zu diesem Punkt, seinem Bestehen vor wenigen Jahren, ist nun Folgendes zu sagen.\n\nHätte es ohne göttlichen Beistand geschehen können, dass Jesus, der in diesen Jahren seine Worte und seine Lehre verbreiten wollte, so großen Erfolg hatte, dass überall auf der Welt nicht wenige Menschen, Griechen wie Barbaren, Gebildete wie Ungebildete, seine Lehre annahmen und für sie bis in den Tod kämpften, statt sie zu verleugnen, obwohl von niemandem je berichtet wird, er habe für irgendein anderes Lehrsystem dasselbe getan? Ich sage dies nicht, um dem Christentum zu schmeicheln, sondern aus dem Wunsch, die Tatsachen gründlich zu prüfen. Denn ich würde sagen, dass selbst diejenigen, die zahlreiche Kranke behandeln, ihr Ziel, die Heilung des Körpers, nicht ohne göttliche Hilfe erreichen. Und wenn es jemandem gelänge, Seelen aus einer Flut von Bosheit, Ausschweifungen und ungerechten Taten sowie von der Verachtung Gottes zu erretten, und er als Beweis für diesen Erfolg hundert Menschen vorweisen könnte, die in ihrem Wesen gebessert worden wären, setzen wir die Zahl einmal so hoch an, dann würde kein vernünftiger Mensch behaupten, er habe diesen hundert Menschen ohne göttlichen Beistand eine Lehre eingepflanzt, die so viele Übel zu beseitigen vermag.Wenn jemand bei unvoreingenommener Betrachtung dieser Dinge zugibt, dass unter den Menschen niemals eine Besserung ohne göttliche Hilfe geschieht, wie viel zuversichtlicher wird er dann dasselbe von Jesus sagen! Er braucht nur das frühere Leben der vielen Menschen, die sich zu seiner Lehre bekehrt haben, mit ihrem späteren Verhalten zu vergleichen und zu bedenken, welchen Ausschweifungen, ungerechten Taten und welcher Habgier sie sich früher hingaben, bis sie, wie Celsus und seine Gesinnungsgenossen behaupten, „getäuscht wurden“ und eine Lehre annahmen, die nach deren Aussage das menschliche Leben zerstört. Doch eben diese Bekehrten sind, seit sie die Lehre angenommen haben, in gewisser Weise sanfter, gottesfürchtiger und in ihrem Verhalten beständiger geworden, sodass manche von ihnen aus dem Streben nach außerordentlicher Keuschheit und aus dem Wunsch, Gott in größerer Reinheit anzubeten, sogar auf die erlaubten Freuden der Liebe verzichten.",
       "ast": {
         "type": "doc",
@@ -2151,7 +2151,37 @@
             "content": [
               {
                 "type": "text",
-                "text": "Hätte es ohne göttlichen Beistand geschehen können, dass Jesus, der in diesen Jahren seine Worte und seine Lehre verbreiten wollte, so großen Erfolg hatte, dass überall auf der Welt nicht wenige Menschen, Griechen wie Barbaren, Gebildete wie Ungebildete, seine Lehre annahmen und für sie bis in den Tod kämpften, statt sie zu verleugnen, obwohl von niemandem je berichtet wird, er habe für irgendein anderes Lehrsystem dasselbe getan? Ich sage dies nicht, um dem Christentum zu schmeicheln, sondern aus dem Wunsch, die Tatsachen gründlich zu prüfen. Denn ich würde sagen, dass selbst diejenigen, die zahlreiche Kranke behandeln, ihr Ziel, die Heilung des Körpers, nicht ohne göttliche Hilfe erreichen. Und wenn es jemandem gelänge, Seelen aus einer Flut von Bosheit, Ausschweifungen und ungerechten Taten sowie von der Verachtung Gottes zu erretten, und er als Beweis für diesen Erfolg hundert Menschen vorweisen könnte, die in ihrem Wesen gebessert worden wären, setzen wir die Zahl einmal so hoch an, dann würde kein vernünftiger Mensch behaupten, er habe diesen hundert Menschen ohne göttlichen Beistand eine Lehre eingepflanzt, die so viele Übel zu beseitigen vermag.",
+                "text": "Hätte es ohne göttlichen Beistand geschehen können, dass Jesus, der in diesen Jahren seine Worte und seine Lehre verbreiten wollte, so großen Erfolg hatte, dass überall auf der Welt nicht wenige Menschen, Griechen wie Barbaren, Gebildete wie Ungebildete, seine Lehre annahmen und für sie bis in den Tod kämpften, statt sie zu verleugnen, obwohl von niemandem je berichtet wird, er habe für irgendein anderes Lehrsystem dasselbe getan? ",
+                "marks": [
+                  {
+                    "type": "lexiconQuoteLink",
+                    "attrs": {
+                      "id": "6baa32e3-21c3-4910-b95c-08def58bbb1b"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ich sage dies nicht, um dem Christentum zu schmeicheln, sondern aus dem Wunsch, die Tatsachen gründlich zu prüfen. Denn ich würde sagen, dass selbst diejenigen, die zahlreiche Kranke behandeln, ihr Ziel, die Heilung des Körpers, nicht ohne göttliche Hilfe erreichen.",
+                "marks": [
+                  {
+                    "type": "lexiconQuoteLink",
+                    "attrs": {
+                      "id": "6baa32e3-21c3-4910-b95c-08def58bbb1b"
+                    }
+                  },
+                  {
+                    "type": "lexiconQuoteLink",
+                    "attrs": {
+                      "id": "9c401e18-9598-4742-9f32-08df14de11fa"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " Und wenn es jemandem gelänge, Seelen aus einer Flut von Bosheit, Ausschweifungen und ungerechten Taten sowie von der Verachtung Gottes zu erretten, und er als Beweis für diesen Erfolg hundert Menschen vorweisen könnte, die in ihrem Wesen gebessert worden wären, setzen wir die Zahl einmal so hoch an, dann würde kein vernünftiger Mensch behaupten, er habe diesen hundert Menschen ohne göttlichen Beistand eine Lehre eingepflanzt, die so viele Übel zu beseitigen vermag.",
                 "marks": [
                   {
                     "type": "lexiconQuoteLink",
@@ -7625,9 +7655,9 @@
   "collectionTitle": "Gegen Celsus",
   "languageCode": "de",
   "sourceUrl": "https://erste-christen.de/werke/origenes/gegen-celsus-buch-1",
-  "contentRevision": "sha256:df4c266af37b0ecf26c9bec93af8783a36375b031596306f327b1b0b42bd8a06",
+  "contentRevision": "sha256:52af966302cc28cd00b8ddcd2a7e5db1a18cf49b95587deb6eca0aee6022af04",
   "chapterCount": 72,
-  "provenance": "Eigene Übersetzung; aktuelle deutsche Texte durch Übersetzungsaufträge belegt. Keine Aussage über menschliche Prüfung.",
+  "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
   "rights": {
     "license": "CC BY-NC-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
