@@ -537,7 +537,7 @@
       "collectionTitle": "Der Erzieher",
       "languageCode": "de",
       "sourceUrl": "https://erste-christen.de/werke/clemens-von-alexandria/der-erzieher-buch-1",
-      "contentRevision": "sha256:d4c13caf15e91c8df58eea4c3a95487d9600c6ad2b9f0b4792164f26216c797c",
+      "contentRevision": "sha256:84be33e6dc5190d086eade439d674d02972ec25534f1b4c4e026866135d8cefe",
       "chapterCount": 13,
       "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
       "rights": {
@@ -557,7 +557,7 @@
       "collectionTitle": "Der Erzieher",
       "languageCode": "de",
       "sourceUrl": "https://erste-christen.de/werke/clemens-von-alexandria/der-erzieher-buch-2",
-      "contentRevision": "sha256:b9e704bb35c232cadf37898fe9778d66a2fbc09df5adc789af5bf69c41507af1",
+      "contentRevision": "sha256:12d8114bfa09a62e80b3b604a830413be32aeeb88620ec3bc71169c639b889f4",
       "chapterCount": 13,
       "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
       "rights": {
@@ -3857,7 +3857,7 @@
       "collectionTitle": "Taufunterweisung",
       "languageCode": "de",
       "sourceUrl": "https://erste-christen.de/werke/chrysostomos/9-taufunterweisung",
-      "contentRevision": "sha256:2febaa4d77885b6df15aef745c8840dba59b34c38832d8e1e4a12df6fb1738ba",
+      "contentRevision": "sha256:72f3240d6a6690db9316a3d2a70626aa86d7336c2aa996f3b0a43df23e1423f4",
       "chapterCount": 47,
       "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
       "rights": {
@@ -4157,7 +4157,7 @@
       "collectionTitle": null,
       "languageCode": "de",
       "sourceUrl": "https://erste-christen.de/werke/justin-der-maertyrer/1-apologie",
-      "contentRevision": "sha256:a77f315b9321396500ac8e9fc9d9496ed4da9237d7f68ce998a9717adf32e354",
+      "contentRevision": "sha256:56cd85d70081e18b1b631eff8d84146d6040069ca5c0a384a7906b460631d316",
       "chapterCount": 69,
       "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
       "rights": {
@@ -5437,9 +5437,9 @@
       "collectionTitle": "Gegen Celsus",
       "languageCode": "de",
       "sourceUrl": "https://erste-christen.de/werke/origenes/gegen-celsus-buch-1",
-      "contentRevision": "sha256:df4c266af37b0ecf26c9bec93af8783a36375b031596306f327b1b0b42bd8a06",
+      "contentRevision": "sha256:52af966302cc28cd00b8ddcd2a7e5db1a18cf49b95587deb6eca0aee6022af04",
       "chapterCount": 72,
-      "provenance": "Eigene Übersetzung; aktuelle deutsche Texte durch Übersetzungsaufträge belegt. Keine Aussage über menschliche Prüfung.",
+      "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
       "rights": {
         "license": "CC BY-NC-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
@@ -5797,7 +5797,7 @@
       "collectionTitle": "Kirchengeschichte",
       "languageCode": "de",
       "sourceUrl": "https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-4",
-      "contentRevision": "sha256:092a077353ec4f943594ca31438fef248cb63772e9bfbf3714b9d212198d7e3e",
+      "contentRevision": "sha256:8f5cbe8fd02a35d055a4011e58716c9a562bb61910be00a1a2a1594efd77588f",
       "chapterCount": 30,
       "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
       "rights": {
