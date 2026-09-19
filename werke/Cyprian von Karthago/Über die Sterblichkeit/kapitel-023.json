@@ -1,0 +1,239 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "3a1119bb-7adb-4c0c-ccc6-08dd2abb5377",
+  "chapterId": "b6ef7818-7f05-46cc-fba1-08df14d31bf7",
+  "number": 23,
+  "title": "Kapitel 23",
+  "workTitle": "Über die Sterblichkeit",
+  "authorName": "Cyprian von Karthago",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/cyprian/ueber-die-sterblichkeit#kapitel-b6ef7818-7f05-46cc-fba1-08df14d31bf7",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:c9b9f6b5b7c42e4c853460577a49fa6d2ef2f021e4c5880e168b8a02e0984cae",
+  "plainText": "So erfahren wir auch, dass Henoch, der Gott gefiel, entrückt wurde, wie die Heilige Schrift im Buch Genesis bezeugt: „Und Henoch gefiel Gott; danach war er nicht mehr zu finden, weil Gott ihn entrückt hatte. “ Gott gefallen zu haben bedeutete also, es verdient zu haben, der Ansteckung durch diese Welt entrückt zu werden. Auch lehrt der Heilige Geist durch Salomo, dass diejenigen, die Gott gefallen, früher von hier hinweggenommen und rascher befreit werden, damit sie nicht durch die Ansteckung der Welt befleckt werden, wenn sie länger in dieser Welt verweilen. „Er wurde hinweggenommen “, sagt er, „damit die Bosheit seinen Verstand nicht verändere. “ „Denn seine Seele gefiel Gott; deshalb beeilte sich Gott, ihn mitten aus der Bosheit hinwegzunehmen. “ Ebenso eilt in den Psalmen die Seele, die ihrem Gott in geistlichem Glauben ergeben ist, zum Herrn und spricht: „Wie lieblich sind deine Wohnungen, o Gott der Heerscharen! Meine Seele sehnt sich nach den Vorhöfen Gottes und eilt zu ihnen. “",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "So erfahren wir auch, dass "
+          },
+          {
+            "type": "text",
+            "text": "Henoch, der Gott gefiel, entrückt wurde",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "6f4e18cc-d226-465e-9c31-b5e1b70d0288"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", wie die Heilige Schrift im Buch Genesis bezeugt: „"
+          },
+          {
+            "type": "text",
+            "text": "Und Henoch gefiel Gott; danach war er nicht mehr zu finden, weil Gott ihn entrückt hatte.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "6f4e18cc-d226-465e-9c31-b5e1b70d0288"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Gott gefallen zu haben bedeutete also, es verdient zu haben, der Ansteckung durch diese Welt entrückt zu werden. Auch lehrt der Heilige Geist durch Salomo, dass "
+          },
+          {
+            "type": "text",
+            "text": "diejenigen, die Gott gefallen, früher von hier hinweggenommen und rascher befreit werden, damit sie nicht durch die Ansteckung der Welt befleckt werden, wenn sie länger in dieser Welt verweilen",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "0e621c2f-426b-46c4-9b55-18a2cdf17b2d"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". „"
+          },
+          {
+            "type": "text",
+            "text": "Er wurde hinweggenommen",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "57f2e4fe-c164-40cb-80fa-70d182154a91"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “, sagt er, „"
+          },
+          {
+            "type": "text",
+            "text": "damit die Bosheit seinen Verstand nicht verändere.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "57f2e4fe-c164-40cb-80fa-70d182154a91"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “"
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "„"
+          },
+          {
+            "type": "text",
+            "text": "Denn seine Seele gefiel Gott; deshalb beeilte sich Gott, ihn mitten aus der Bosheit hinwegzunehmen.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "1e25a480-0c11-40a2-91bc-d579a79ccdcb"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “"
+          },
+          {
+            "type": "text",
+            "text": " Ebenso eilt in den Psalmen die Seele, die ihrem Gott in geistlichem Glauben ergeben ist, zum Herrn und spricht: „"
+          },
+          {
+            "type": "text",
+            "text": "Wie lieblich sind deine Wohnungen, o Gott der Heerscharen! Meine Seele sehnt sich nach den Vorhöfen Gottes und eilt zu ihnen.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "1f6e0080-1935-46ec-8f36-7ef86fc37694"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “"
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "0e621c2f-426b-46c4-9b55-18a2cdf17b2d",
+      "passages": [
+        {
+          "from": {
+            "book": 420,
+            "chapter": 4,
+            "verse": 11
+          },
+          "to": null
+        },
+        {
+          "from": {
+            "book": 420,
+            "chapter": 4,
+            "verse": 14
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "1e25a480-0c11-40a2-91bc-d579a79ccdcb",
+      "passages": [
+        {
+          "from": {
+            "book": 420,
+            "chapter": 4,
+            "verse": 14
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "1f6e0080-1935-46ec-8f36-7ef86fc37694",
+      "passages": [
+        {
+          "from": {
+            "book": 180,
+            "chapter": 83,
+            "verse": 2
+          },
+          "to": {
+            "book": 180,
+            "chapter": 83,
+            "verse": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "57f2e4fe-c164-40cb-80fa-70d182154a91",
+      "passages": [
+        {
+          "from": {
+            "book": 420,
+            "chapter": 4,
+            "verse": 11
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "6f4e18cc-d226-465e-9c31-b5e1b70d0288",
+      "passages": [
+        {
+          "from": {
+            "book": 1,
+            "chapter": 5,
+            "verse": 24
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

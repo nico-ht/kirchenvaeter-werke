@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "3a1119bb-7adb-4c0c-ccc6-08dd2abb5377",
+  "chapterId": "17e053e1-ea86-4d58-fb8e-08df14d31bf7",
+  "number": 4,
+  "title": "Kapitel 4",
+  "workTitle": "Über die Sterblichkeit",
+  "authorName": "Cyprian von Karthago",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/cyprian/ueber-die-sterblichkeit#kapitel-17e053e1-ea86-4d58-fb8e-08df14d31bf7",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:2848ed914d4fef6e2166484ad07f644311381e8fec6a395bf53e46430c9813f1",
+  "plainText": "Was aber tun wir sonst Tag für Tag in dieser Welt, als gegen den Teufel zu kämpfen und uns in unablässigen Gefechten gegen seine Geschosse und Waffen zu wehren? Wir kämpfen gegen Habgier, gegen Schamlosigkeit, gegen Zorn, gegen Ehrgeiz; wir ringen beharrlich und mühsam mit den Lastern des Fleisches, mit den Verlockungen der Welt. Der menschliche Geist, vom Teufel belagert und von allen Seiten bestürmt, kann den Angriffen ringsum kaum begegnen, ihnen kaum standhalten. Ist die Habgier niedergeworfen, erhebt sich die Wollust. Ist die Wollust besiegt, tritt der Ehrgeiz an ihre Stelle. Wird der Ehrgeiz verachtet, erbittert uns der Zorn, bläht uns der Hochmut auf, verlockt uns das Zechen, zerstört Neid die Eintracht und zerreißt Eifersucht die Freundschaft. Du wirst zum Fluchen gedrängt, obwohl Gottes Gesetz es verbietet; du wirst zum Schwören gezwungen, obwohl es nicht erlaubt ist.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Was aber tun wir sonst Tag für Tag in dieser Welt, als gegen den Teufel zu kämpfen und uns in unablässigen Gefechten gegen seine Geschosse und Waffen zu wehren? Wir kämpfen gegen Habgier, gegen Schamlosigkeit, gegen Zorn, gegen Ehrgeiz; wir ringen beharrlich und mühsam mit den Lastern des Fleisches, mit den Verlockungen der Welt. Der menschliche Geist, vom Teufel belagert und von allen Seiten bestürmt, kann den Angriffen ringsum kaum begegnen, ihnen kaum standhalten. Ist die Habgier niedergeworfen, erhebt sich die Wollust. Ist die Wollust besiegt, tritt der Ehrgeiz an ihre Stelle. Wird der Ehrgeiz verachtet, erbittert uns der Zorn, bläht uns der Hochmut auf, verlockt uns das Zechen, zerstört Neid die Eintracht und zerreißt Eifersucht die Freundschaft. Du wirst zum Fluchen gedrängt, obwohl Gottes Gesetz es verbietet; du wirst zum Schwören gezwungen, obwohl es nicht erlaubt ist."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [],
+  "footnotes": []
+}

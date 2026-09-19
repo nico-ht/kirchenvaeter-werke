@@ -1,0 +1,223 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "3a1119bb-7adb-4c0c-ccc6-08dd2abb5377",
+  "chapterId": "d609e47b-76a2-4ec6-fb97-08df14d31bf7",
+  "number": 13,
+  "title": "Kapitel 13",
+  "workTitle": "Über die Sterblichkeit",
+  "authorName": "Cyprian von Karthago",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/cyprian/ueber-die-sterblichkeit#kapitel-d609e47b-76a2-4ec6-fb97-08df14d31bf7",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:aa33abf236a87bbed906e27d34c4443f164ac9a8e254d1bdfb422066ce9f4e1e",
+  "plainText": "So sagt auch der Apostel Paulus nach Schiffbrüchen, nach Geißelungen, nach vielen schweren Qualen an Fleisch und Körper, dass seine Not ihn nicht betrübt, sondern ihm nützt: Im schweren Leiden soll er umso gründlicher erprobt werden. Er sagt: „Mir wurde ein Dorn ins Fleisch gegeben, ein Bote Satans, der mich mit Fäusten schlagen soll, damit ich mich nicht überhebe. Deshalb habe ich den Herrn dreimal angefleht, er möge von mir weichen. “ Und er sagte zu mir: „‚Meine Gnade genügt dir, denn die Kraft wird in der Schwäche vollendet. ‘“ Wenn uns also Schwäche, Unvermögen und Verderben jeder Art befallen, dann wird unsere Kraft vollendet; dann wird unser Glaube gekrönt, sofern er in der Prüfung standhält. So steht es geschrieben: „Der Ofen prüft die Gefäße des Töpfers, und die Bedrängnis prüft die Gerechten. “ Darin liegt kurz gesagt der Unterschied zwischen uns und den anderen, die Gott nicht kennen: Im Unglück klagen und murren sie, während die Not uns nicht von echter Tugend und echtem Glauben abbringt, sondern uns durch das Leiden stärkt, das sie uns zufügt.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "So sagt auch der Apostel Paulus nach "
+          },
+          {
+            "type": "text",
+            "text": "Schiffbrüchen",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "987df435-29ae-4551-9721-a6bfb5622592"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", nach "
+          },
+          {
+            "type": "text",
+            "text": "Geißelungen",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "c1e805be-faab-442d-92bd-821cb9f7e75b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", nach vielen schweren Qualen an Fleisch und Körper, dass seine Not ihn nicht betrübt, sondern ihm nützt: Im schweren Leiden soll er umso gründlicher erprobt werden. Er sagt: „"
+          },
+          {
+            "type": "text",
+            "text": "Mir wurde ein Dorn ins Fleisch gegeben, ein Bote Satans, der mich mit Fäusten schlagen soll, damit ich mich nicht überhebe. Deshalb habe ich den Herrn dreimal angefleht, er möge von mir weichen.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "16119769-feae-4dcf-923a-68848ced68ba"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “"
+          },
+          {
+            "type": "text",
+            "text": " Und er sagte zu mir: „"
+          },
+          {
+            "type": "text",
+            "text": "‚"
+          },
+          {
+            "type": "text",
+            "text": "Meine Gnade genügt dir, denn die Kraft wird in der Schwäche vollendet.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "93e5d12f-19fa-44e9-862c-c57fd8d8412b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ‘"
+          },
+          {
+            "type": "text",
+            "text": "“"
+          },
+          {
+            "type": "text",
+            "text": " Wenn uns also Schwäche, Unvermögen und Verderben jeder Art befallen, dann "
+          },
+          {
+            "type": "text",
+            "text": "wird unsere Kraft vollendet",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "93e5d12f-19fa-44e9-862c-c57fd8d8412b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; dann wird unser Glaube gekrönt, sofern er in der Prüfung standhält. So steht es geschrieben: „"
+          },
+          {
+            "type": "text",
+            "text": "Der Ofen prüft die Gefäße des Töpfers, und die Bedrängnis prüft die Gerechten.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "31607acf-a364-4e87-ab4b-bea216dc5165"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Darin liegt kurz gesagt der Unterschied zwischen uns und den anderen, die Gott nicht kennen: Im Unglück klagen und murren sie, während die Not uns nicht von echter Tugend und echtem Glauben abbringt, sondern uns durch das Leiden stärkt, das sie uns zufügt."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "16119769-feae-4dcf-923a-68848ced68ba",
+      "passages": [
+        {
+          "from": {
+            "book": 560,
+            "chapter": 12,
+            "verse": 7
+          },
+          "to": {
+            "book": 560,
+            "chapter": 12,
+            "verse": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "31607acf-a364-4e87-ab4b-bea216dc5165",
+      "passages": [
+        {
+          "from": {
+            "book": 430,
+            "chapter": 27,
+            "verse": 5
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "93e5d12f-19fa-44e9-862c-c57fd8d8412b",
+      "passages": [
+        {
+          "from": {
+            "book": 560,
+            "chapter": 12,
+            "verse": 9
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "987df435-29ae-4551-9721-a6bfb5622592",
+      "passages": [
+        {
+          "from": {
+            "book": 560,
+            "chapter": 11,
+            "verse": 25
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "c1e805be-faab-442d-92bd-821cb9f7e75b",
+      "passages": [
+        {
+          "from": {
+            "book": 560,
+            "chapter": 11,
+            "verse": 24
+          },
+          "to": {
+            "book": 560,
+            "chapter": 11,
+            "verse": 25
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

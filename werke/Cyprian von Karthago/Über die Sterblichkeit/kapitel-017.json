@@ -1,0 +1,153 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "3a1119bb-7adb-4c0c-ccc6-08dd2abb5377",
+  "chapterId": "c39b7a6b-08c3-4dc4-fb9b-08df14d31bf7",
+  "number": 17,
+  "title": "Kapitel 17",
+  "workTitle": "Über die Sterblichkeit",
+  "authorName": "Cyprian von Karthago",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/cyprian/ueber-die-sterblichkeit#kapitel-c39b7a6b-08c3-4dc4-fb9b-08df14d31bf7",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:54e2cba552e2b200b8ea8cfdbb98c2e6346401931a1f8203260b2a15a499372c",
+  "plainText": "Vielleicht wendet aber jemand ein: „Gerade das betrübt mich bei diesem Seuchensterben: Ich war zum Bekenntnis bereit und hatte mich mit ganzem Herzen und großem Mut entschlossen, Leiden zu ertragen. Nun wird mir das Martyrium genommen, weil der Tod mich vorher ereilt.“ Zunächst einmal liegt das Martyrium nicht in deiner Macht, sondern hängt von Gottes gnädiger Zuwendung ab. Du kannst auch nicht behaupten, etwas verloren zu haben, von dem du nicht weißt, ob du würdig gewesen wärst, es zu empfangen. Außerdem sieht dich Gott, der Nieren und Herzen erforscht und das Verborgene ergründet und kennt; er lobt dich und erkennt dich an. Er sieht, dass deine Tugend bereit war, sich zu bewähren, und wird dir für diese Tugend den Lohn geben. Hatte Kain, als er Gott seine Gabe darbrachte, seinen Bruder schon erschlagen? Und doch sah Gott den Brudermord voraus, der in Kains Gedanken bereits Gestalt angenommen hatte, und verurteilte ihn schon vor der Tat. Wie Gott in seiner Voraussicht damals den bösen Gedanken und die schädliche Absicht erkannte, so krönt Gott als Richter auch bei seinen Dienern den dem Guten hingegebenen Willen, wenn sie zum Bekenntnis entschlossen sind und das Martyrium ins Auge gefasst haben. Es ist ein Unterschied, ob der Wille zum Martyrium fehlt oder ob dem Willen das Martyrium versagt bleibt. So, wie der Herr dich vorfindet, wenn er dich ruft, so beurteilt er dich auch. Denn er selbst bezeugt es mit den Worten: „Und alle Kirchen werden erkennen, dass ich es bin, der Nieren und Herzen erforscht .“ Gott verlangt nämlich nicht unser Blut, sondern unseren Glauben. Weder Abraham noch Isaak noch Jakob wurden getötet. Dennoch wurden sie für die Verdienste ihres Glaubens und ihrer Gerechtigkeit geehrt und waren würdig, unter den Patriarchen die Ersten zu sein, zu deren Festmahl alle versammelt werden, die sich als treu, gerecht und des Lobes würdig erweisen.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Vielleicht wendet aber jemand ein: „Gerade das betrübt mich bei diesem Seuchensterben: Ich war zum Bekenntnis bereit und hatte mich mit ganzem Herzen und großem Mut entschlossen, Leiden zu ertragen. Nun wird mir das Martyrium genommen, weil der Tod mich vorher ereilt.“ Zunächst einmal liegt das Martyrium nicht in deiner Macht, sondern hängt von Gottes gnädiger Zuwendung ab. Du kannst auch nicht behaupten, etwas verloren zu haben, von dem du nicht weißt, ob du würdig gewesen wärst, es zu empfangen. Außerdem sieht dich Gott, der "
+          },
+          {
+            "type": "text",
+            "text": "Nieren und Herzen erforscht",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "08146f99-610f-477b-8015-fe1b49337a83"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und das Verborgene ergründet und kennt; er lobt dich und erkennt dich an. Er sieht, dass deine Tugend bereit war, sich zu bewähren, und wird dir für diese Tugend den Lohn geben. "
+          },
+          {
+            "type": "text",
+            "text": "Hatte Kain, als er Gott seine Gabe darbrachte, seinen Bruder schon erschlagen",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "7abeb849-cb6b-4623-8976-fa8b69158cc4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "? Und doch sah Gott den Brudermord voraus, der in Kains Gedanken bereits Gestalt angenommen hatte, und verurteilte ihn schon vor der Tat. Wie Gott in seiner Voraussicht damals den bösen Gedanken und die schädliche Absicht erkannte, so krönt Gott als Richter auch bei seinen Dienern den dem Guten hingegebenen Willen, wenn sie zum Bekenntnis entschlossen sind und das Martyrium ins Auge gefasst haben. Es ist ein Unterschied, ob der Wille zum Martyrium fehlt oder ob dem Willen das Martyrium versagt bleibt. So, wie der Herr dich vorfindet, wenn er dich ruft, so beurteilt er dich auch. Denn er selbst bezeugt es mit den Worten: „"
+          },
+          {
+            "type": "text",
+            "text": "Und alle Kirchen werden erkennen, dass ich es bin, der Nieren und Herzen erforscht",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "08146f99-610f-477b-8015-fe1b49337a83"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": ".“"
+          },
+          {
+            "type": "text",
+            "text": " Gott verlangt nämlich nicht unser Blut, sondern unseren Glauben. Weder Abraham noch Isaak noch Jakob wurden getötet. Dennoch wurden sie für die Verdienste ihres Glaubens und ihrer Gerechtigkeit geehrt und waren würdig, unter den Patriarchen die Ersten zu sein, "
+          },
+          {
+            "type": "text",
+            "text": "zu deren Festmahl alle versammelt werden",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "3e04b1c8-9842-49fc-a8e7-4ec2f0382e43"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", die sich als treu, gerecht und des Lobes würdig erweisen."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "08146f99-610f-477b-8015-fe1b49337a83",
+      "passages": [
+        {
+          "from": {
+            "book": 750,
+            "chapter": 2,
+            "verse": 23
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "3e04b1c8-9842-49fc-a8e7-4ec2f0382e43",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 8,
+            "verse": 11
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "7abeb849-cb6b-4623-8976-fa8b69158cc4",
+      "passages": [
+        {
+          "from": {
+            "book": 1,
+            "chapter": 4,
+            "verse": 3
+          },
+          "to": {
+            "book": 1,
+            "chapter": 4,
+            "verse": 8
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

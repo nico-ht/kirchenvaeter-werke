@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "3a1119bb-7adb-4c0c-ccc6-08dd2abb5377",
+  "chapterId": "c0a77e17-8282-4ac4-fb9c-08df14d31bf7",
+  "number": 18,
+  "title": "Kapitel 18",
+  "workTitle": "Über die Sterblichkeit",
+  "authorName": "Cyprian von Karthago",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/cyprian/ueber-die-sterblichkeit#kapitel-c0a77e17-8282-4ac4-fb9c-08df14d31bf7",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:67030f22599fe0f55816b06b18355907014416090c8b9ae6cd574f7ec826d28e",
+  "plainText": "Wir müssen daran denken, dass wir nicht unseren eigenen Willen tun sollen, sondern Gottes Willen, wie unser Herr uns täglich zu beten aufgetragen hat. Wie verkehrt und widersinnig ist es, dass wir darum bitten, dass Gottes Wille geschehe, aber nicht sogleich tun, was sein Wille gebietet, wenn Gott uns ruft und aus dieser Welt abberuft! Wir wehren uns und leisten Widerstand; wie widerspenstige Diener werden wir traurig und voller Schmerz vor den Herrn geschleppt und verlassen diese Welt unter dem Zwang der Notwendigkeit, nicht in freiwilligem Gehorsam. Und doch wollen wir von dem, zu dem wir widerwillig kommen, mit himmlischem Lohn geehrt werden. Warum beten und bitten wir dann, dass das Himmelreich komme, wenn uns die Gefangenschaft auf Erden gefällt? Warum flehen und bitten wir in immer wiederholten Gebeten, dass der Tag seines Reiches bald komme, wenn wir mehr danach verlangen und es uns sehnlicher wünschen, hier dem Teufel zu gehorchen, als mit Christus zu herrschen?",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Wir müssen daran denken, dass wir "
+          },
+          {
+            "type": "text",
+            "text": "nicht unseren eigenen Willen tun sollen, sondern Gottes Willen",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "a6e290e0-a028-4567-b47c-374d74b6b616"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", wie unser Herr uns täglich zu beten aufgetragen hat. Wie verkehrt und widersinnig ist es, dass wir darum bitten, "
+          },
+          {
+            "type": "text",
+            "text": "dass Gottes Wille geschehe",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "a6e290e0-a028-4567-b47c-374d74b6b616"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", aber nicht sogleich tun, was sein Wille gebietet, wenn Gott uns ruft und aus dieser Welt abberuft! Wir wehren uns und leisten Widerstand; wie widerspenstige Diener werden wir traurig und voller Schmerz vor den Herrn geschleppt und verlassen diese Welt unter dem Zwang der Notwendigkeit, nicht in freiwilligem Gehorsam. Und doch wollen wir von dem, zu dem wir widerwillig kommen, mit himmlischem Lohn geehrt werden. Warum beten und bitten wir dann, "
+          },
+          {
+            "type": "text",
+            "text": "dass das Himmelreich komme",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "a6e290e0-a028-4567-b47c-374d74b6b616"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", wenn uns die Gefangenschaft auf Erden gefällt? Warum flehen und bitten wir in immer wiederholten Gebeten, "
+          },
+          {
+            "type": "text",
+            "text": "dass der Tag seines Reiches bald komme",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "a6e290e0-a028-4567-b47c-374d74b6b616"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", wenn wir mehr danach verlangen und es uns sehnlicher wünschen, hier dem Teufel zu gehorchen, als mit Christus zu herrschen?"
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "a6e290e0-a028-4567-b47c-374d74b6b616",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 6,
+            "verse": 10
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

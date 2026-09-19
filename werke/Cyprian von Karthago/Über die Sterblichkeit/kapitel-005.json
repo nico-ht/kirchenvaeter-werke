@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "3a1119bb-7adb-4c0c-ccc6-08dd2abb5377",
+  "chapterId": "c99b40ab-bdd3-4718-fb8f-08df14d31bf7",
+  "number": 5,
+  "title": "Kapitel 5",
+  "workTitle": "Über die Sterblichkeit",
+  "authorName": "Cyprian von Karthago",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/cyprian/ueber-die-sterblichkeit#kapitel-c99b40ab-bdd3-4718-fb8f-08df14d31bf7",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:aff499402f7a52bd6ee76fbb269b2c6692654f68fbf27c60f52b25e3cfa14cb1",
+  "plainText": "So viele Verfolgungen erleidet die Seele täglich, so viele Gefahren ermüden das Herz, und doch bleibt es gern noch lange hier inmitten der Waffen des Teufels. Dabei sollten wir vielmehr danach verlangen und uns wünschen, durch einen früheren Tod zu Christus zu eilen, wie er selbst uns lehrt und sagt: „Wahrhaftig, wahrhaftig, ich sage euch: Ihr werdet weinen und klagen, die Welt aber wird sich freuen; ihr werdet traurig sein, aber eure Trauer wird sich in Freude verwandeln. “ Wer möchte nicht frei von Trauer sein? Wer würde sich nicht beeilen, zur Freude zu gelangen? Wann aber unsere Trauer sich in Freude verwandeln wird, erklärt wiederum der Herr selbst, wenn er sagt: „Ich werde euch wiedersehen, und euer Herz wird sich freuen; und niemand wird euch eure Freude nehmen. “ Da es also Freude bedeutet, Christus zu sehen, und wir erst Freude haben können, wenn wir Christus sehen, welche Blindheit des Geistes oder welche Dummheit ist es da, die Bedrängnisse, Strafen und Tränen der Welt zu lieben und nicht vielmehr der Freude, die uns niemals genommen werden kann, entgegenzueilen!",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "So viele Verfolgungen erleidet die Seele täglich, so viele Gefahren ermüden das Herz, und doch bleibt es gern noch lange hier inmitten der Waffen des Teufels. Dabei sollten wir vielmehr danach verlangen und uns wünschen, durch einen früheren Tod zu Christus zu eilen, wie er selbst uns lehrt und sagt: „"
+          },
+          {
+            "type": "text",
+            "text": "Wahrhaftig, wahrhaftig, ich sage euch: Ihr werdet weinen und klagen, die Welt aber wird sich freuen; ihr werdet traurig sein, aber eure Trauer wird sich in Freude verwandeln.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "20b791bd-bbe1-4b2a-919a-c3fa2c72cdad"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Wer möchte nicht frei von Trauer sein? Wer würde sich nicht beeilen, zur Freude zu gelangen? Wann aber "
+          },
+          {
+            "type": "text",
+            "text": "unsere Trauer sich in Freude verwandeln wird",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "20b791bd-bbe1-4b2a-919a-c3fa2c72cdad"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", erklärt wiederum der Herr selbst, wenn er sagt: „"
+          },
+          {
+            "type": "text",
+            "text": "Ich werde euch wiedersehen, und euer Herz wird sich freuen; und niemand wird euch eure Freude nehmen.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "975d9ab4-6989-4df6-ac90-8f919de9adf4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Da es also Freude bedeutet, Christus zu sehen, und wir erst Freude haben können, wenn wir Christus sehen, welche Blindheit des Geistes oder welche Dummheit ist es da, die Bedrängnisse, Strafen und Tränen der Welt zu lieben und nicht vielmehr der "
+          },
+          {
+            "type": "text",
+            "text": "Freude, die uns niemals genommen werden kann",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "975d9ab4-6989-4df6-ac90-8f919de9adf4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", entgegenzueilen!"
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "20b791bd-bbe1-4b2a-919a-c3fa2c72cdad",
+      "passages": [
+        {
+          "from": {
+            "book": 520,
+            "chapter": 16,
+            "verse": 20
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "975d9ab4-6989-4df6-ac90-8f919de9adf4",
+      "passages": [
+        {
+          "from": {
+            "book": 520,
+            "chapter": 16,
+            "verse": 22
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

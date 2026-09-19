@@ -1,0 +1,158 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "3a1119bb-7adb-4c0c-ccc6-08dd2abb5377",
+  "chapterId": "15e794bb-5dbc-45c8-fb95-08df14d31bf7",
+  "number": 11,
+  "title": "Kapitel 11",
+  "workTitle": "Über die Sterblichkeit",
+  "authorName": "Cyprian von Karthago",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/cyprian/ueber-die-sterblichkeit#kapitel-15e794bb-5dbc-45c8-fb95-08df14d31bf7",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:3d23392dd61aade7da318bbf8eb13bdb4bef28a2f7a48500062d0f96fa5dedb4",
+  "plainText": "Gerechte zeichneten sich seit jeher durch diese Standhaftigkeit aus. Die Apostel befolgten diese Weisung aus dem Gesetz des Herrn: in der Not nicht zu murren, sondern tapfer und geduldig alles anzunehmen, was in der Welt geschieht. Denn das Volk der Juden verfehlte sich darin immer wieder, indem es ständig gegen Gott murrte, wie Gott, der Herr, im Buch Numeri bezeugt: „Ihr Murren gegen mich soll aufhören, und sie werden nicht sterben. “ Wir dürfen in der Not nicht murren, geliebte Brüder, sondern müssen alles, was geschieht, mit Geduld und Mut ertragen. Denn es steht geschrieben: „Das Opfer für Gott ist ein zerbrochener Geist; ein zerknirschtes und gebeugtes Herz verachtet Gott nicht. “ Denn auch im Deuteronomium mahnt der Heilige Geist durch Mose mit den Worten: „Der Herr, dein Gott, wird dich bedrängen und hungern lassen; und in deinem Herzen wird sich zeigen, ob du seine Gebote gewissenhaft gehalten hast oder nicht. “ Und weiter: „Der Herr, euer Gott, prüft euch, um zu erkennen, ob ihr den Herrn, euren Gott, mit eurem ganzen Herzen und eurer ganzen Seele liebt. “",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Gerechte zeichneten sich seit jeher durch diese Standhaftigkeit aus. Die Apostel befolgten diese Weisung aus dem Gesetz des Herrn: in der Not nicht zu murren, sondern tapfer und geduldig alles anzunehmen, was in der Welt geschieht. Denn das Volk der Juden verfehlte sich darin immer wieder, indem es ständig gegen Gott murrte, wie Gott, der Herr, im Buch Numeri bezeugt: „"
+          },
+          {
+            "type": "text",
+            "text": "Ihr Murren gegen mich soll aufhören, und sie werden nicht sterben.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "37982f58-a966-4fa9-94ba-f4f7dc9bb334"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Wir dürfen in der Not nicht murren, geliebte Brüder, sondern müssen alles, was geschieht, mit Geduld und Mut ertragen. Denn es steht geschrieben: „"
+          },
+          {
+            "type": "text",
+            "text": "Das Opfer für Gott ist ein zerbrochener Geist; ein zerknirschtes und gebeugtes Herz verachtet Gott nicht.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "f6995094-dab4-47fa-9152-e8396125c448"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Denn auch im Deuteronomium mahnt der Heilige Geist durch Mose mit den Worten: „"
+          },
+          {
+            "type": "text",
+            "text": "Der Herr, dein Gott, wird dich bedrängen und hungern lassen; und in deinem Herzen wird sich zeigen, ob du seine Gebote gewissenhaft gehalten hast oder nicht.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "72352572-06c5-4ad6-a482-c7b8caa10994"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Und weiter: „"
+          },
+          {
+            "type": "text",
+            "text": "Der Herr, euer Gott, prüft euch, um zu erkennen, ob ihr den Herrn, euren Gott, mit eurem ganzen Herzen und eurer ganzen Seele liebt.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "a19cf4a6-a286-4a38-96d2-703d13fffab5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “"
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "37982f58-a966-4fa9-94ba-f4f7dc9bb334",
+      "passages": [
+        {
+          "from": {
+            "book": 30,
+            "chapter": 17,
+            "verse": 10
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "72352572-06c5-4ad6-a482-c7b8caa10994",
+      "passages": [
+        {
+          "from": {
+            "book": 40,
+            "chapter": 8,
+            "verse": 2
+          },
+          "to": {
+            "book": 40,
+            "chapter": 8,
+            "verse": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "a19cf4a6-a286-4a38-96d2-703d13fffab5",
+      "passages": [
+        {
+          "from": {
+            "book": 40,
+            "chapter": 13,
+            "verse": 3
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "f6995094-dab4-47fa-9152-e8396125c448",
+      "passages": [
+        {
+          "from": {
+            "book": 180,
+            "chapter": 50,
+            "verse": 19
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}
