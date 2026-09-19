@@ -1,0 +1,241 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "600c199e-5827-4323-b499-08df143d42b0",
+  "chapterId": "9c874cf0-2186-457f-d659-08df143d42f6",
+  "number": 12,
+  "title": "Kapitel 12",
+  "workTitle": "15 Hymnen zum Fest der Epiphanie",
+  "authorName": "Ephräm der Syrer",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/ephraem-der-syrer/15-hymnen-zum-fest-der-epiphanie#kapitel-9c874cf0-2186-457f-d659-08df143d42f6",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:1fc9efaa538a0816ce51ffa09993644040453a871bf246799c642a44ef20eb5d",
+  "plainText": "Gesegnet ist er, der hinabstieg und sich im Jordan taufen ließ und das Volk vom Irrtum abbrachte! In der Taufe fand Adam jene Herrlichkeit wieder, die unter den Bäumen Edens war. Er stieg hinab und empfing sie aus dem Wasser; er legte sie an und stieg hinauf, mit ihr geschmückt. Gesegnet sei er, der sich aller erbarmt! Der Mensch fiel mitten im Paradies, und in der Taufe richtete ihn das Erbarmen wieder auf: Er verlor seine Schönheit durch Satans Neid und fand sie durch Gottes Gnade wieder. Gesegnet sei er, der sich aller erbarmt! Das Ehepaar war in Eden geschmückt, doch die Schlange stahl ihm die Kronen. Aber das Erbarmen zermalmte den Verfluchten und machte das Ehepaar in seinen Gewändern schön. Gesegnet sei er, der sich aller erbarmt! Aus Not kleideten sie sich in Blätter, doch der Barmherzige erbarmte sich ihrer Schönheit, und statt mit Blättern der Bäume bekleidete er sie im Wasser mit Herrlichkeit. Gesegnet sei er, der sich aller erbarmt! Die Taufe ist die Quelle des Lebens, die der Sohn Gottes durch sein Leben geöffnet hat; und aus seiner Seite hat sie Ströme hervorgebracht. Kommt, alle, die ihr Durst habt, kommt und freut euch! Gesegnet sei er, der sich aller erbarmt! Der Vater hat die Taufe versiegelt, um sie zu erhöhen; der Sohn hat sich mit ihr vermählt, um sie zu verherrlichen; und der Geist hat ihr ein dreifaches Siegel aufgeprägt, und sie erstrahlte in Heiligkeit. Gesegnet sei er, der sich aller erbarmt! Die unergründliche Dreifaltigkeit hat Schätze in der Taufe geborgen. Steigt hinab, ihr Armen, zu ihrer Quelle, und werdet durch sie reich, ihr Bedürftigen! Gesegnet sei er, der sich aller erbarmt!",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Gesegnet ist er, der "
+          },
+          {
+            "type": "text",
+            "text": "hinabstieg und sich im Jordan taufen ließ",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "7144cb7b-3eaa-4639-b901-e757f1421079"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und das Volk vom Irrtum abbrachte! In der Taufe fand Adam jene Herrlichkeit wieder, die unter den Bäumen Edens war. Er stieg hinab und empfing sie aus dem Wasser; er legte sie an und stieg hinauf, mit ihr geschmückt. Gesegnet sei er, der sich aller erbarmt! "
+          },
+          {
+            "type": "text",
+            "text": "Der Mensch fiel mitten im Paradies",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "28f73eb7-dfdf-4d2a-8df7-31a2385bfad7"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", und in der Taufe richtete ihn das Erbarmen wieder auf: Er verlor seine Schönheit "
+          },
+          {
+            "type": "text",
+            "text": "durch Satans Neid",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "0c4890e3-4447-4e54-9d82-c028363840b4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und fand sie durch Gottes Gnade wieder. Gesegnet sei er, der sich aller erbarmt! Das Ehepaar war in Eden geschmückt, doch die Schlange stahl ihm die Kronen. Aber das Erbarmen "
+          },
+          {
+            "type": "text",
+            "text": "zermalmte den Verfluchten",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "724430a6-089e-435f-8ac4-6bd6d03ed15f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und machte das Ehepaar in seinen Gewändern schön. Gesegnet sei er, der sich aller erbarmt! "
+          },
+          {
+            "type": "text",
+            "text": "Aus Not kleideten sie sich in Blätter",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "ff4de329-ef00-4b47-aa41-aa1e55ea4eee"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", doch der Barmherzige erbarmte sich ihrer Schönheit, und statt mit Blättern der Bäume bekleidete er sie im Wasser mit Herrlichkeit. Gesegnet sei er, der sich aller erbarmt! Die Taufe ist die Quelle des Lebens, die der Sohn Gottes durch sein Leben geöffnet hat; und "
+          },
+          {
+            "type": "text",
+            "text": "aus seiner Seite hat sie Ströme hervorgebracht",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "5a7db20a-1db7-45a8-9980-7a15b485676a"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Kommt, alle, die ihr Durst habt",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "3f1a2a86-e464-48d0-b2d4-d630446dfdf8"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", kommt und freut euch! Gesegnet sei er, der sich aller erbarmt! Der Vater hat die Taufe versiegelt, um sie zu erhöhen; der Sohn hat sich mit ihr vermählt, um sie zu verherrlichen; und der Geist hat ihr ein dreifaches Siegel aufgeprägt, und sie erstrahlte in Heiligkeit. Gesegnet sei er, der sich aller erbarmt! Die unergründliche Dreifaltigkeit hat Schätze in der Taufe geborgen. Steigt hinab, ihr Armen, zu ihrer Quelle, und werdet durch sie reich, ihr Bedürftigen! Gesegnet sei er, der sich aller erbarmt!"
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "0c4890e3-4447-4e54-9d82-c028363840b4",
+      "passages": [
+        {
+          "from": {
+            "book": 420,
+            "chapter": 2,
+            "verse": 24
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "28f73eb7-dfdf-4d2a-8df7-31a2385bfad7",
+      "passages": [
+        {
+          "from": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 6
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "3f1a2a86-e464-48d0-b2d4-d630446dfdf8",
+      "passages": [
+        {
+          "from": {
+            "book": 220,
+            "chapter": 55,
+            "verse": 1
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "5a7db20a-1db7-45a8-9980-7a15b485676a",
+      "passages": [
+        {
+          "from": {
+            "book": 520,
+            "chapter": 19,
+            "verse": 34
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "7144cb7b-3eaa-4639-b901-e757f1421079",
+      "passages": [
+        {
+          "from": {
+            "book": 500,
+            "chapter": 1,
+            "verse": 9
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "724430a6-089e-435f-8ac4-6bd6d03ed15f",
+      "passages": [
+        {
+          "from": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 15
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "ff4de329-ef00-4b47-aa41-aa1e55ea4eee",
+      "passages": [
+        {
+          "from": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 7
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

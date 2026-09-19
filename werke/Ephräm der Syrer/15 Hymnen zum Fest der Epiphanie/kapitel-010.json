@@ -1,0 +1,328 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "600c199e-5827-4323-b499-08df143d42b0",
+  "chapterId": "d9da09dc-283b-4c4a-d657-08df143d42f6",
+  "number": 10,
+  "title": "Kapitel 10",
+  "workTitle": "15 Hymnen zum Fest der Epiphanie",
+  "authorName": "Ephräm der Syrer",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/ephraem-der-syrer/15-hymnen-zum-fest-der-epiphanie#kapitel-d9da09dc-283b-4c4a-d657-08df143d42f6",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:1c8a56e95e461f922c66d871d1e05085d44306af30f05558430381ad2b4483f3",
+  "plainText": "Ehre sei dem, der kam und sie wieder aufrichtete! Adam sündigte und zog sich alles Leid zu; ebenso lud die Welt nach seinem Beispiel alle Schuld auf sich. Statt zu überlegen, wie sie wieder aufgerichtet werden könnte, überlegte sie, wie sie sich ihren Fall angenehm machen könnte. Ehre sei dem, der kam und sie wieder aufrichtete! Aus diesem Grund wurde der Reine herbeigerufen, damit er komme und sich taufen lasse, auch er zusammen mit den Befleckten. Zu seiner Ehre riss der Himmel auf. Damit der, der alle reinigt, mit allen getauft würde, stieg er herab und heiligte das Wasser für unsere Taufe. Aus demselben Grund, aus dem er in den Mutterschoß kam, stieg er auch in den Fluss hinab. Aus demselben Grund, aus dem er ins Grab ging, führt er uns auch in seine Kammer. Aus all diesen Gründen vollendete er die Menschheit. Seine Empfängnis ist die Vorratskammer unserer Segnungen; seine Geburt ist die Schatzkammer unserer Freuden; seine Taufe ist der Grund unserer Vergebung; sein Tod ist der Grund unseres Lebens. Er allein hat in seiner Auferstehung den Tod überwunden. Bei seiner Geburt strahlte ein heller Stern in der Luft; als er getauft wurde, blitzte Licht aus dem Wasser auf; bei seinem Tod verfinsterte sich die Sonne am Himmelsgewölbe; bei seinem Leiden gingen die Himmelslichter mit ihm unter; bei seiner Erscheinung gingen die Himmelslichter mit ihm auf. Seine Herrlichkeit wurde offenbar, weil er erhaben ist; sein Leiden wurde offenbar, weil er Mensch ist; seine Liebe wurde offenbar, weil er gütig ist; sein Gericht wurde offenbar, weil er gerecht ist. Was ihm eigen ist, hat er über die Seinen ausgegossen. Seine Hilfen hat er über die ausgegossen, die ihn anbeten, damit jeder, der seine Herrlichkeit gesehen und ihn verachtet hat, seine Herrlichkeit erneut sieht und ihn anbetet, und jeder, der es verschmäht hat, seine Güte zu kosten, fürchtet, seine Gerechtigkeit zu spüren zu bekommen. Siehe, der Osten wurde am Morgen erhellt! Siehe!\n\nDer Süden wurde zur Mittagszeit finster! Der Westen wiederum wurde am Abend erhellt. Die drei Himmelsrichtungen stellen die eine Geburt dar; seinen Tod und sein Leben verkünden sie. Seine Geburt floss weiter und verband sich mit seiner Taufe; seine Taufe wiederum floss weiter bis zu seinem Tod; sein Tod führte weiter bis zu seiner Auferstehung: eine vierfache Brücke in sein Reich. Und siehe, seine Schafe gehen auf seinen Spuren hinüber. Wie niemand anders als durch die Tür der Geburt in die Schöpfung eintreten kann, so kann niemand anders als durch die Tür der Auferstehung in das Reich eintreten. Wer seine Brücke abgebrochen hat, hat seine Hoffnung zunichtegemacht. Er legte seine Rüstung an, siegte und wurde gekrönt; er ließ seine Rüstung auf der Erde zurück und stieg empor, damit jeder, der nach der Krone verlangt, zur Rüstung greifen und mit ihr die ersehnte Siegeskrone erringen kann. Er erfüllte die Gerechtigkeit auf der Erde und stieg empor. Wenn aber er, der alles reinigt, getauft wurde, welcher Mensch sollte sich dann nicht taufen lassen? Denn die Gnade ist zur Taufe gekommen, um den Schmutz unserer Wunde abzuwaschen. Gottes Zwang ist eine Macht, die alles bezwingt; doch was aus Zwang geschieht, gefällt ihm nicht so wie das, was aus einsichtigem Willen geschieht. Darum spricht er uns, die wir nicht unter Zwang leben, im Blick auf unsere Früchte an und sucht uns zu überzeugen. Er ist gut, denn siehe, um diese beiden Dinge müht er sich: Er will unsere Freiheit nicht zwingen und lässt zugleich nicht zu, dass wir sie missbrauchen. Denn hätte er sie gezwungen, hätte er ihr die Kraft genommen; und hätte er sie sich selbst überlassen, hätte er ihr die Hilfe entzogen. Er weiß: Wenn er uns zwingt, beraubt er uns; er weiß: Wenn er uns verstößt, zerstört er uns; er weiß: Wenn er uns unterweist, gewinnt er uns. Er hat uns weder gezwungen noch verstoßen, wie es der Böse tut; er hat uns unterwiesen, gezüchtigt und gewonnen, weil er der gute Gott ist. Er weiß, dass seine Schatzkammern reich gefüllt sind; die Schlüssel seiner Schatzkammern hat er in unsere Hände gelegt. Das Kreuz hat er zu unserem Schatzmeister gemacht, damit es uns die Tore des Paradieses öffnet, wie Adam das Tor der Gehenna geöffnet hat.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ehre sei dem, der kam und sie wieder aufrichtete! "
+          },
+          {
+            "type": "text",
+            "text": "Adam sündigte und zog sich alles Leid zu",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "e4d43561-70d3-40eb-a188-fd5e37e40285"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; ebenso lud die Welt nach seinem Beispiel alle Schuld auf sich. Statt zu überlegen, wie sie wieder aufgerichtet werden könnte, überlegte sie, wie sie sich ihren Fall angenehm machen könnte. Ehre sei dem, der kam und sie wieder aufrichtete! Aus diesem Grund wurde der Reine herbeigerufen, damit er komme und sich taufen lasse, auch er zusammen mit den Befleckten. "
+          },
+          {
+            "type": "text",
+            "text": "Zu seiner Ehre riss der Himmel auf.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "e5dfa723-515d-4216-b95e-a4363fe7df0c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Damit der, der alle reinigt, "
+          },
+          {
+            "type": "text",
+            "text": "mit allen getauft würde",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "37f836a8-2cec-462a-ace3-75a41b48ae34"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", stieg er herab und heiligte das Wasser für unsere Taufe. Aus demselben Grund, aus dem er in den Mutterschoß kam, stieg er auch in den Fluss hinab. Aus demselben Grund, aus dem er ins Grab ging, führt er uns auch in seine Kammer. Aus all diesen Gründen vollendete er die Menschheit. Seine Empfängnis ist die Vorratskammer unserer Segnungen; seine Geburt ist die Schatzkammer unserer Freuden; seine Taufe ist der Grund unserer Vergebung; sein Tod ist der Grund unseres Lebens. Er allein hat in seiner Auferstehung den Tod überwunden. "
+          },
+          {
+            "type": "text",
+            "text": "Bei seiner Geburt strahlte ein heller Stern in der Luft",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "280bb094-4731-4141-bc84-0178443c3f54"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; als er getauft wurde, blitzte Licht aus dem Wasser auf; "
+          },
+          {
+            "type": "text",
+            "text": "bei seinem Tod verfinsterte sich die Sonne am Himmelsgewölbe",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "4ec94f43-6ff0-4d4b-87e6-6442033065b1"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "text": "bei seinem Leiden gingen die Himmelslichter mit ihm unter",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "4ec94f43-6ff0-4d4b-87e6-6442033065b1"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; bei seiner Erscheinung gingen die Himmelslichter mit ihm auf. Seine Herrlichkeit wurde offenbar, weil er erhaben ist; sein Leiden wurde offenbar, weil er Mensch ist; seine Liebe wurde offenbar, weil er gütig ist; sein Gericht wurde offenbar, weil er gerecht ist. Was ihm eigen ist, hat er über die Seinen ausgegossen. Seine Hilfen hat er über die ausgegossen, die ihn anbeten, damit jeder, der seine Herrlichkeit gesehen und ihn verachtet hat, seine Herrlichkeit erneut sieht und ihn anbetet, und jeder, der es verschmäht hat, seine Güte zu kosten, fürchtet, seine Gerechtigkeit zu spüren zu bekommen. Siehe, der Osten wurde am Morgen erhellt! Siehe!"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Der Süden wurde zur Mittagszeit finster!",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "fd469caf-7721-4d8a-9ada-d19812482c38"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "Der Westen wiederum wurde am Abend erhellt",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "20b26ae1-ee5c-4af1-886b-cbe5036bfa7d"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Die drei Himmelsrichtungen stellen die eine Geburt dar; seinen Tod und sein Leben verkünden sie. Seine Geburt floss weiter und verband sich mit seiner Taufe; seine Taufe wiederum floss weiter bis zu seinem Tod; sein Tod führte weiter bis zu seiner Auferstehung: eine vierfache Brücke in sein Reich. Und siehe, seine Schafe gehen auf seinen Spuren hinüber. Wie niemand anders als durch die Tür der Geburt in die Schöpfung eintreten kann, so kann niemand anders als durch die Tür der Auferstehung in das Reich eintreten. Wer seine Brücke abgebrochen hat, hat seine Hoffnung zunichtegemacht. Er legte seine Rüstung an, siegte und wurde gekrönt; er ließ seine Rüstung auf der Erde zurück und stieg empor, damit jeder, der nach der Krone verlangt, zur Rüstung greifen und mit ihr die ersehnte Siegeskrone erringen kann. Er "
+          },
+          {
+            "type": "text",
+            "text": "erfüllte die Gerechtigkeit",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "4c5ac7f9-3e70-4d29-9ae0-e3184d9f8d8a"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " auf der Erde und stieg empor. Wenn aber er, der alles reinigt, "
+          },
+          {
+            "type": "text",
+            "text": "getauft wurde",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "0675dd03-7083-4787-a7e9-b38a79de8442"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", welcher Mensch sollte sich dann nicht taufen lassen? Denn die Gnade ist zur Taufe gekommen, um den Schmutz unserer Wunde abzuwaschen. Gottes Zwang ist eine Macht, die alles bezwingt; doch was aus Zwang geschieht, gefällt ihm nicht so wie das, was aus einsichtigem Willen geschieht. Darum spricht er uns, die wir nicht unter Zwang leben, im Blick auf unsere Früchte an und sucht uns zu überzeugen. Er ist gut, denn siehe, um diese beiden Dinge müht er sich: Er will unsere Freiheit nicht zwingen und lässt zugleich nicht zu, dass wir sie missbrauchen. Denn hätte er sie gezwungen, hätte er ihr die Kraft genommen; und hätte er sie sich selbst überlassen, hätte er ihr die Hilfe entzogen. Er weiß: Wenn er uns zwingt, beraubt er uns; er weiß: Wenn er uns verstößt, zerstört er uns; er weiß: Wenn er uns unterweist, gewinnt er uns. Er hat uns weder gezwungen noch verstoßen, wie es der Böse tut; er hat uns unterwiesen, gezüchtigt und gewonnen, weil er der gute Gott ist. Er weiß, dass seine Schatzkammern reich gefüllt sind; die Schlüssel seiner Schatzkammern hat er in unsere Hände gelegt. Das Kreuz hat er zu unserem Schatzmeister gemacht, damit es uns die Tore des Paradieses öffnet, wie Adam das Tor der Gehenna geöffnet hat."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "0675dd03-7083-4787-a7e9-b38a79de8442",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 3,
+            "verse": 16
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "20b26ae1-ee5c-4af1-886b-cbe5036bfa7d",
+      "passages": [
+        {
+          "from": {
+            "book": 370,
+            "chapter": 14,
+            "verse": 7
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "280bb094-4731-4141-bc84-0178443c3f54",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 2,
+            "verse": 2
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "37f836a8-2cec-462a-ace3-75a41b48ae34",
+      "passages": [
+        {
+          "from": {
+            "book": 510,
+            "chapter": 3,
+            "verse": 21
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "4c5ac7f9-3e70-4d29-9ae0-e3184d9f8d8a",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 3,
+            "verse": 15
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "4ec94f43-6ff0-4d4b-87e6-6442033065b1",
+      "passages": [
+        {
+          "from": {
+            "book": 510,
+            "chapter": 23,
+            "verse": 44
+          },
+          "to": {
+            "book": 510,
+            "chapter": 23,
+            "verse": 45
+          }
+        }
+      ]
+    },
+    {
+      "id": "e4d43561-70d3-40eb-a188-fd5e37e40285",
+      "passages": [
+        {
+          "from": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 16
+          },
+          "to": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "e5dfa723-515d-4216-b95e-a4363fe7df0c",
+      "passages": [
+        {
+          "from": {
+            "book": 500,
+            "chapter": 1,
+            "verse": 10
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "fd469caf-7721-4d8a-9ada-d19812482c38",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 27,
+            "verse": 45
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

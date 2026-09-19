@@ -1,0 +1,384 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "600c199e-5827-4323-b499-08df143d42b0",
+  "chapterId": "56e5b78c-95cf-469a-d651-08df143d42f6",
+  "number": 4,
+  "title": "Kapitel 4",
+  "workTitle": "15 Hymnen zum Fest der Epiphanie",
+  "authorName": "Ephräm der Syrer",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/ephraem-der-syrer/15-hymnen-zum-fest-der-epiphanie#kapitel-56e5b78c-95cf-469a-d651-08df143d42f6",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:1e57b19148f0abd17fa427a387bc6cff8368ffc72868a0d203743512eca37f17",
+  "plainText": "Gepriesen sei er, der im Wasser Verfehlungen tilgt, die jedes Maß übersteigen! Steigt hinab, meine versiegelten Brüder, zieht unseren Herrn an und werdet wieder mit seinem Geschlecht verbunden, denn er ist Sohn eines großen Geschlechts, wie er in seinem Wort gesagt hat. Von oben stammt seine Natur, von unten sein Gewand. Wer sein Gewand ablegt, dessen Gewand wird für immer mit dem Gewand des Herrn vereint. Empfangt auch ihr im Wasser von ihm das Gewand, das weder verschleißt noch verloren geht; denn es ist das Gewand, das alle, die es anlegen, für immer kleidet. Der gesegnete Priester aber ist Mittler zwischen beiden: Vor ihm soll der Bund geschlossen werden; er ist Mittler für seinen Herrn und Bürge auf unserer Seite. Seht, die Gottheit hat ihren Sauerteig ins Wasser gemischt; denn dieser Sauerteig hebt die Geschöpfe aus Staub empor, und die Gottheit verbindet sich mit ihnen. Denn es ist der Sauerteig des Herrn, der in den Sklaven eindringen und ihn zur Freiheit erheben kann; er hat den Sklaven mit dem Geschlecht dessen verbunden, der Herr über alle ist. Denn der Sklave, der im Wasser den angezogen hat, der alle befreit, ist, auch wenn er auf Erden ein Sklave ist, ein Sohn der Freien in der Höhe, denn er hat die Freiheit angezogen. Der Freie, der im Wasser jenen Engel angezogen hat, ist ein Gefährte der Diener, damit er dem Herrn gleich wird, der den Sklaven zum Sklaven wurde. Er, der alle reich macht, kam herab und zog die Armut an, um aus der Schatzkammer des Wassers die verborgenen Vorräte an die Armen zu verteilen. Der Niedrige wiederum, der im Wasser den Geber aller Größe angezogen hat, ist, auch wenn er in den Augen der Toren verächtlich ist, in den Augen der Wächter groß, denn er ist in Größe gekleidet. Denn ebenso wurde der Große, der in seiner Liebe niedrig wurde, von den Ungläubigen verfolgt und von den Wächtern angebetet; er wurde erniedrigt und macht die Niedrigen groß.\n\nSo soll der Große niedrig sein, damit in ihm der Niedrige groß werden kann. Lasst uns dem gleichen, der größer ist als alle und kleiner wurde als alle. Er wurde erniedrigt und macht alle Menschen groß. Der Sanftmütige, der im Wasser den angezogen hat, der groß ist, hat sehr große Einsicht, auch wenn sein Gesicht unscheinbar ist; denn in ihm wohnt der, der über alle erhaben ist. Wer könnte denn den verachteten und niedrigen Dornbusch verachten, in dem die Majestät im Feuer Wohnung nahm? Wer wiederum hätte Mose verachten können, der sanftmütig war und schwerfällig sprach, als jene überragende Herrlichkeit auf seiner Sanftmut ruhte? Wer ihn verachtete, verachtete seinen Herrn. Die Erde verschlang im Zorn die Frevler, die ihn verachteten; das Feuer verzehrte in seiner Wut die Leviten, die den Herrn verhöhnten. Christus gebot: „Du sollst ihn nicht Raka nennen.“ Das sagte er von dem, der getauft ist und ihn angezogen hat; denn wer den Verachteten verachtet, verachtet mit ihm den Mächtigen. In Eden und in der Welt gibt es Gleichnisse unseres Herrn. Welche Zunge kann die Sinnbilder seiner Geheimnisse zusammentragen? Denn in allen Dingen ist er in seiner Ganzheit abgebildet. In den Schriften steht von ihm geschrieben; der Natur ist er eingeprägt. Seine Krone ist in den Königen abgebildet, seine Wahrheit in den Propheten, seine Sühne in den Priestern. Er war im Stab des Mose, in den Ysopzweigen Aarons und in der Krone Davids. Den Propheten gehört sein Sinnbild, den Aposteln sein Evangelium. Offenbarungen schauten dich, Sprüche hielten nach dir Ausschau, Geheimnisse erwarteten dich, Sinnbilder begrüßten dich, Gleichnisse zeigten Vorbilder von dir. Der Bund des Mose blickte dem Evangelium entgegen. Alles aus alter Zeit flog darauf zu und ließ sich darauf nieder, im neuen Bund. Seht! Die Propheten haben ihre herrlichen Geheimnisse über ihn ausgegossen; die Priester und Könige haben ihre wunderbaren Vorbilder über ihn ausgegossen. Sie alle haben sie über ihn in seiner Ganzheit ausgegossen. Christus überwand und übertraf mit seinen Lehren die Geheimnisse, mit seinen Deutungen die Gleichnisse, wie das Meer alle Ströme in sich aufnimmt. Denn Christus ist das Meer, und er kann die Quellen und Bäche, die Flüsse und Ströme aufnehmen, die aus der Mitte der Schriften fließen.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Gepriesen sei er, der im Wasser Verfehlungen tilgt, die jedes Maß übersteigen! Steigt hinab, meine versiegelten Brüder, "
+          },
+          {
+            "type": "text",
+            "text": "zieht unseren Herrn an",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "f21fc889-fd06-43e3-bc94-2af0020b462a"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und werdet wieder mit seinem Geschlecht verbunden, denn er ist Sohn eines großen Geschlechts, wie er in seinem Wort gesagt hat. Von oben stammt seine Natur, von unten sein Gewand. Wer sein Gewand ablegt, dessen Gewand wird für immer mit dem Gewand des Herrn vereint. Empfangt auch ihr im Wasser von ihm das Gewand, das weder verschleißt noch verloren geht; denn es ist das Gewand, das alle, die es anlegen, für immer kleidet. Der gesegnete Priester aber ist Mittler zwischen beiden: Vor ihm soll der Bund geschlossen werden; er ist Mittler für seinen Herrn und Bürge auf unserer Seite. Seht, die Gottheit hat ihren Sauerteig ins Wasser gemischt; denn dieser Sauerteig hebt die Geschöpfe aus Staub empor, und die Gottheit verbindet sich mit ihnen. Denn es ist der Sauerteig des Herrn, der in den Sklaven eindringen und ihn zur Freiheit erheben kann; er hat den Sklaven mit dem Geschlecht dessen verbunden, der Herr über alle ist. Denn der Sklave, "
+          },
+          {
+            "type": "text",
+            "text": "der im Wasser den angezogen hat",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "f21fc889-fd06-43e3-bc94-2af0020b462a"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", der alle befreit, ist, auch wenn er auf Erden ein Sklave ist, ein Sohn der Freien in der Höhe, denn er hat die Freiheit angezogen. Der Freie, "
+          },
+          {
+            "type": "text",
+            "text": "der im Wasser jenen Engel angezogen hat",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "f21fc889-fd06-43e3-bc94-2af0020b462a"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", ist ein Gefährte der Diener, damit er dem Herrn gleich wird, "
+          },
+          {
+            "type": "text",
+            "text": "der den Sklaven zum Sklaven wurde",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "c3d2e08e-a047-49d8-8251-55ba75bce5f9"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Er, der alle reich macht, kam herab und zog die Armut an",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "bf0d1da6-f376-424c-8c01-77a090f635a8"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", um aus der Schatzkammer des Wassers die verborgenen Vorräte an die Armen zu verteilen. Der Niedrige wiederum, "
+          },
+          {
+            "type": "text",
+            "text": "der im Wasser den Geber aller Größe angezogen hat",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "f21fc889-fd06-43e3-bc94-2af0020b462a"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", ist, auch wenn er in den Augen der Toren verächtlich ist, in den Augen der Wächter groß, denn er ist in Größe gekleidet. Denn ebenso wurde der Große, der in seiner Liebe niedrig wurde, von den Ungläubigen verfolgt und von den Wächtern angebetet; er wurde erniedrigt und macht die Niedrigen groß."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "So soll der Große niedrig sein, damit in ihm der Niedrige groß werden kann. Lasst uns dem gleichen, der größer ist als alle und kleiner wurde als alle. Er wurde erniedrigt und macht alle Menschen groß. Der Sanftmütige, der "
+          },
+          {
+            "type": "text",
+            "text": "im Wasser den angezogen hat, der groß ist",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "4c0fd03b-73ec-451c-908b-fefd102220f1"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", hat sehr große Einsicht, auch wenn sein Gesicht unscheinbar ist; denn in ihm wohnt der, der über alle erhaben ist. Wer könnte denn den verachteten und niedrigen Dornbusch verachten, "
+          },
+          {
+            "type": "text",
+            "text": "in dem die Majestät im Feuer Wohnung nahm",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "eb19248a-7990-41a3-98f1-5e464d27ac41"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "? Wer wiederum hätte Mose verachten können, "
+          },
+          {
+            "type": "text",
+            "text": "der sanftmütig war und schwerfällig sprach",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "0aa84ee3-6d6b-477a-a5c9-6e77ee9c5b63"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", als jene überragende Herrlichkeit auf seiner Sanftmut ruhte? Wer ihn verachtete, verachtete seinen Herrn. "
+          },
+          {
+            "type": "text",
+            "text": "Die Erde verschlang im Zorn die Frevler, die ihn verachteten",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "3fd15b4f-64b5-4435-abd7-19b5aa1bee01"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "text": "das Feuer verzehrte in seiner Wut die Leviten, die den Herrn verhöhnten",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "5488c0bf-b318-45a1-92fb-60cbeaa98a0e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Christus gebot: „"
+          },
+          {
+            "type": "text",
+            "text": "Du sollst ihn nicht Raka nennen",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "218e6d69-4c5a-4d1f-9e6c-1f075fe9304c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ".“ Das sagte er von dem, der "
+          },
+          {
+            "type": "text",
+            "text": "getauft ist und ihn angezogen hat",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "4c0fd03b-73ec-451c-908b-fefd102220f1"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; denn wer den Verachteten verachtet, verachtet mit ihm den Mächtigen. In Eden und in der Welt gibt es Gleichnisse unseres Herrn. Welche Zunge kann die Sinnbilder seiner Geheimnisse zusammentragen? Denn in allen Dingen ist er in seiner Ganzheit abgebildet. In den Schriften steht von ihm geschrieben; der Natur ist er eingeprägt. Seine Krone ist in den Königen abgebildet, seine Wahrheit in den Propheten, seine Sühne in den Priestern. Er war im Stab des Mose, in den Ysopzweigen Aarons und in der Krone Davids. Den Propheten gehört sein Sinnbild, den Aposteln sein Evangelium. Offenbarungen schauten dich, Sprüche hielten nach dir Ausschau, Geheimnisse erwarteten dich, Sinnbilder begrüßten dich, Gleichnisse zeigten Vorbilder von dir. Der Bund des Mose blickte dem Evangelium entgegen. Alles aus alter Zeit flog darauf zu und ließ sich darauf nieder, im neuen Bund. Seht! Die Propheten haben ihre herrlichen Geheimnisse über ihn ausgegossen; die Priester und Könige haben ihre wunderbaren Vorbilder über ihn ausgegossen. Sie alle haben sie über ihn in seiner Ganzheit ausgegossen. Christus überwand und übertraf mit seinen Lehren die Geheimnisse, mit seinen Deutungen die Gleichnisse, wie das Meer alle Ströme in sich aufnimmt. Denn Christus ist das Meer, und er kann die Quellen und Bäche, die Flüsse und Ströme aufnehmen, die aus der Mitte der Schriften fließen."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "0aa84ee3-6d6b-477a-a5c9-6e77ee9c5b63",
+      "passages": [
+        {
+          "from": {
+            "book": 10,
+            "chapter": 4,
+            "verse": 10
+          },
+          "to": null
+        },
+        {
+          "from": {
+            "book": 30,
+            "chapter": 12,
+            "verse": 3
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "218e6d69-4c5a-4d1f-9e6c-1f075fe9304c",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 5,
+            "verse": 22
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "3fd15b4f-64b5-4435-abd7-19b5aa1bee01",
+      "passages": [
+        {
+          "from": {
+            "book": 30,
+            "chapter": 16,
+            "verse": 31
+          },
+          "to": {
+            "book": 30,
+            "chapter": 16,
+            "verse": 33
+          }
+        }
+      ]
+    },
+    {
+      "id": "4c0fd03b-73ec-451c-908b-fefd102220f1",
+      "passages": [
+        {
+          "from": {
+            "book": 570,
+            "chapter": 3,
+            "verse": 27
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "5488c0bf-b318-45a1-92fb-60cbeaa98a0e",
+      "passages": [
+        {
+          "from": {
+            "book": 30,
+            "chapter": 16,
+            "verse": 35
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "bf0d1da6-f376-424c-8c01-77a090f635a8",
+      "passages": [
+        {
+          "from": {
+            "book": 560,
+            "chapter": 8,
+            "verse": 9
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "c3d2e08e-a047-49d8-8251-55ba75bce5f9",
+      "passages": [
+        {
+          "from": {
+            "book": 590,
+            "chapter": 2,
+            "verse": 7
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "eb19248a-7990-41a3-98f1-5e464d27ac41",
+      "passages": [
+        {
+          "from": {
+            "book": 10,
+            "chapter": 3,
+            "verse": 2
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "f21fc889-fd06-43e3-bc94-2af0020b462a",
+      "passages": [
+        {
+          "from": {
+            "book": 570,
+            "chapter": 3,
+            "verse": 27
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

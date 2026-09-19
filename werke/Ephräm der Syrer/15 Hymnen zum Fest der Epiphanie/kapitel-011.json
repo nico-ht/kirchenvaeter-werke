@@ -1,0 +1,364 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "600c199e-5827-4323-b499-08df143d42b0",
+  "chapterId": "3a3a1814-fe57-480f-d658-08df143d42f6",
+  "number": 11,
+  "title": "Kapitel 11",
+  "workTitle": "15 Hymnen zum Fest der Epiphanie",
+  "authorName": "Ephräm der Syrer",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/ephraem-der-syrer/15-hymnen-zum-fest-der-epiphanie#kapitel-3a3a1814-fe57-480f-d658-08df143d42f6",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:d4b3c6ba0ddddc562db4f680dd69d8faee65fa9690270091b431c3914c8bbee7",
+  "plainText": "Freuen sollen sich die Leiber, die der Böse nackt gemacht hatte, denn im Wasser haben sie ihre Herrlichkeit angezogen! Danke, Tochter, dass du doppelt gekrönt worden bist; denn siehe, deine Tempel und deine Söhne freuen sich. Deine Tempel werden durch den Dienst geweiht, deine Söhne durch die Salbung. Gesegnet bist du, denn zugleich … die Stiftshütte für die, die in dir wohnen, und der Geist hat auf deinen Söhnen Wohnung genommen! Unser Herr eröffnete die Taufe mitten im Jordan, dem gesegneten Fluss. Höhe und Tiefe freuten sich an ihm. Er bringt die Erstlingsfrüchte seines Friedens aus dem Wasser hervor, denn Erstlingsfrüchte sind sie, die Früchte der Taufe. Der gute Gott wird in seinem Erbarmen bewirken, dass sein Friede zur Erstlingsfrucht auf Erden wird. Mose spannte die vergängliche Stiftshütte auf; die Priester wuschen sich mit Wasser, gingen hinein und verrichteten ihren Dienst; und sie wurden geschlagen und bestraft, weil ihr Herz im Innern nicht gereinigt war. Gesegnet bist du, denn siehe, beim Passah des großen Leidens reinigen die Priester durch den Duft ihrer Opfergaben die Seelen in dir! Groß war das Geheimnis, das der Prophet sah: der mächtige Strom. In seine Tiefen blickte er und sah deine Schönheit statt seiner selbst. Dich sah er, denn dein Glaube vergeht nicht; deine unsichtbare Flut wird die Spitzfindigkeiten des Götzendienstes überschwemmen. Obwohl Johannes unter denen groß war, die von Frauen geboren sind, ist der Geringe doch größer als er, und zwar darin, dass die von ihm Getauften noch einmal getauft wurden, mit der Taufe der Apostel. Gesegnet bist du, denn dein Priester ist größer als er, allein darin, dass seine Taufe für immer Bestand hat. Das Tauchbad von Siloam brachte dem Mann, der dort lag und achtunddreißig Jahre darauf wartete, kein Erbarmen, denn er ließ sich vom Ansehen der Leviten leiten. Gesegnet bist du, denn in dir gibt es Heilung für alle Menschen, und deine Priester sind voller Hingabe und stehen für alle bereit, die deine Hilfe brauchen. Der Prophet heilte das ungesunde Wasser und machte das kranke, unfruchtbare Land gesund, sodass der Tod daraus wich und das Land widerhallte, denn seine Nachkommenschaft mehrte sich und sein Schoß füllte sich. Größer ist deine Gnade, Herr, als die Elisas! Mehre meine Lämmer und meine Herden am großen Strom meines Brunnens! Groß ist das Wunder in deiner Wohnstätte: die Herden zusammen mit den Hirten, alle am Wasserstrom; zwei Unsichtbare sind dort mit einem Sichtbaren, der tauft. Gesegnet ist, wer in ihren Quellen getauft wird! Denn drei Arme haben ihn gehalten, und drei Namen haben ihn bewahrt!",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Freuen sollen sich die Leiber, die der Böse nackt gemacht hatte, denn im Wasser haben sie ihre Herrlichkeit angezogen! Danke, Tochter, dass du doppelt gekrönt worden bist; denn siehe, deine Tempel und deine Söhne freuen sich. Deine Tempel werden durch den Dienst geweiht, deine Söhne durch die Salbung. Gesegnet bist du, denn zugleich … die Stiftshütte für die, die in dir wohnen, und der Geist hat auf deinen Söhnen Wohnung genommen! Unser Herr eröffnete die Taufe "
+          },
+          {
+            "type": "text",
+            "text": "mitten im Jordan, dem gesegneten Fluss",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "e316141d-9587-49d2-91a7-f2968993f3c3"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Höhe und Tiefe freuten sich an ihm. Er bringt die Erstlingsfrüchte seines Friedens aus dem Wasser hervor, denn Erstlingsfrüchte sind sie, die Früchte der Taufe. Der gute Gott wird in seinem Erbarmen bewirken, dass sein Friede zur Erstlingsfrucht auf Erden wird. "
+          },
+          {
+            "type": "text",
+            "text": "Mose spannte die vergängliche Stiftshütte auf",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "3cd5f981-7d82-424e-a7c3-f3c6b6ca3600"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "text": "die Priester wuschen sich mit Wasser, gingen hinein und verrichteten ihren Dienst",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "05f2ee86-7ce9-4d27-8862-8069f1a7cc22"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; und "
+          },
+          {
+            "type": "text",
+            "text": "sie wurden geschlagen und bestraft",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "df9ee853-cea8-43f5-adcc-4a5ddd756ada"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", weil ihr Herz im Innern nicht gereinigt war. Gesegnet bist du, denn siehe, beim Passah des großen Leidens reinigen die Priester durch den Duft ihrer Opfergaben die Seelen in dir! Groß war das Geheimnis, "
+          },
+          {
+            "type": "text",
+            "text": "das der Prophet sah: der mächtige Strom. In seine Tiefen blickte er",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "ea8ff6bb-3bd4-4184-9b8b-12bf1246b3d1"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und sah deine Schönheit statt seiner selbst. Dich sah er, denn dein Glaube vergeht nicht; deine unsichtbare Flut wird die Spitzfindigkeiten des Götzendienstes überschwemmen. "
+          },
+          {
+            "type": "text",
+            "text": "Obwohl Johannes unter denen groß war, die von Frauen geboren sind, ist der Geringe doch größer als er",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "720cd0b8-d006-4162-92c8-819bfc1dcda5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", und zwar darin, dass "
+          },
+          {
+            "type": "text",
+            "text": "die von ihm Getauften noch einmal getauft wurden, mit der Taufe der Apostel",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "43d1edb8-d308-46ac-82f2-adf9e3b79e5f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Gesegnet bist du, denn dein Priester ist größer als er, allein darin, dass seine Taufe für immer Bestand hat. "
+          },
+          {
+            "type": "text",
+            "text": "Das Tauchbad von Siloam brachte dem Mann, der dort lag und achtunddreißig Jahre darauf wartete, kein Erbarmen",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "b13e50c0-462f-4aa7-943b-7aeb20adae83"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", denn er ließ sich vom Ansehen der Leviten leiten. Gesegnet bist du, denn in dir gibt es Heilung für alle Menschen, und deine Priester sind voller Hingabe und stehen für alle bereit, die deine Hilfe brauchen. "
+          },
+          {
+            "type": "text",
+            "text": "Der Prophet heilte das ungesunde Wasser und machte das kranke, unfruchtbare Land gesund, sodass der Tod daraus wich",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "d447ccc5-9d76-499c-b32f-2ef3add6ac58"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und das Land widerhallte, denn seine Nachkommenschaft mehrte sich und sein Schoß füllte sich. Größer ist deine Gnade, Herr, als die Elisas! Mehre meine Lämmer und meine Herden "
+          },
+          {
+            "type": "text",
+            "text": "am großen Strom meines Brunnens",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "fd179c5c-010c-4478-9349-b47f25a4f9e4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "! Groß ist das Wunder in deiner Wohnstätte: die Herden zusammen mit den Hirten, alle am Wasserstrom; zwei Unsichtbare sind dort mit einem Sichtbaren, der tauft. Gesegnet ist, wer in ihren Quellen getauft wird! Denn drei Arme haben ihn gehalten, und drei Namen haben ihn bewahrt!"
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "05f2ee86-7ce9-4d27-8862-8069f1a7cc22",
+      "passages": [
+        {
+          "from": {
+            "book": 10,
+            "chapter": 40,
+            "verse": 31
+          },
+          "to": {
+            "book": 10,
+            "chapter": 40,
+            "verse": 32
+          }
+        }
+      ]
+    },
+    {
+      "id": "3cd5f981-7d82-424e-a7c3-f3c6b6ca3600",
+      "passages": [
+        {
+          "from": {
+            "book": 10,
+            "chapter": 40,
+            "verse": 18
+          },
+          "to": {
+            "book": 10,
+            "chapter": 40,
+            "verse": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "43d1edb8-d308-46ac-82f2-adf9e3b79e5f",
+      "passages": [
+        {
+          "from": {
+            "book": 530,
+            "chapter": 19,
+            "verse": 3
+          },
+          "to": {
+            "book": 530,
+            "chapter": 19,
+            "verse": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": "720cd0b8-d006-4162-92c8-819bfc1dcda5",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 11,
+            "verse": 11
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "b13e50c0-462f-4aa7-943b-7aeb20adae83",
+      "passages": [
+        {
+          "from": {
+            "book": 520,
+            "chapter": 5,
+            "verse": 5
+          },
+          "to": {
+            "book": 520,
+            "chapter": 5,
+            "verse": 7
+          }
+        }
+      ]
+    },
+    {
+      "id": "d447ccc5-9d76-499c-b32f-2ef3add6ac58",
+      "passages": [
+        {
+          "from": {
+            "book": 110,
+            "chapter": 2,
+            "verse": 19
+          },
+          "to": {
+            "book": 110,
+            "chapter": 2,
+            "verse": 22
+          }
+        }
+      ]
+    },
+    {
+      "id": "df9ee853-cea8-43f5-adcc-4a5ddd756ada",
+      "passages": [
+        {
+          "from": {
+            "book": 20,
+            "chapter": 10,
+            "verse": 1
+          },
+          "to": {
+            "book": 20,
+            "chapter": 10,
+            "verse": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "e316141d-9587-49d2-91a7-f2968993f3c3",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 3,
+            "verse": 13
+          },
+          "to": {
+            "book": 490,
+            "chapter": 3,
+            "verse": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "ea8ff6bb-3bd4-4184-9b8b-12bf1246b3d1",
+      "passages": [
+        {
+          "from": {
+            "book": 250,
+            "chapter": 47,
+            "verse": 1
+          },
+          "to": {
+            "book": 250,
+            "chapter": 47,
+            "verse": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": "fd179c5c-010c-4478-9349-b47f25a4f9e4",
+      "passages": [
+        {
+          "from": {
+            "book": 250,
+            "chapter": 47,
+            "verse": 1
+          },
+          "to": {
+            "book": 250,
+            "chapter": 47,
+            "verse": 12
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}
