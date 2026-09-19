@@ -1,0 +1,3739 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "7d89d74d-df95-4c6b-7d58-08df134d0ace",
+  "chapterId": "7f441638-245b-402c-a8f2-08df134d0b15",
+  "number": 6,
+  "title": "Kapitel 6",
+  "workTitle": "Über die Auferstehung der Toten",
+  "authorName": "Athenagoras von Athen",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/athenagoras/ueber-die-auferstehung-der-toten#kapitel-7f441638-245b-402c-a8f2-08df134d0b15",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:d9019a4b664397948a9e29ec3683cdc53a515b7daad6c5b196a81c23bd95d14b",
+  "plainText": "Die natürlichen Unterschiede zwischen allen Lebewesen sind also groß, und auch die naturgemäße Nahrung ist je nach Tierart und ernährtem Körper verschieden. Zudem durchläuft die Nahrung jedes Lebewesens eine dreifache Reinigung und Trennung. Deshalb muss alles, was dem Lebewesen als Nahrung fremd ist und sich deshalb nicht mit ihm vermischen kann, zwangsläufig zersetzt und auf natürlichem Weg ausgeschieden oder in etwas anderes umgewandelt werden. Die Kraft des nährenden Stoffes hingegen muss mit den Kräften des ernährten Lebewesens übereinstimmen und seiner Natur entsprechen. Nachdem sie die natürlichen Filter durchlaufen hat und durch die natürlichen Reinigungsvorgänge gründlich gereinigt worden ist, muss sie zu einem völlig reinen Zuwachs an Körpersubstanz werden. Nur diese könnte man der Sache nach zu Recht als Nahrung bezeichnen, denn sie scheidet alles aus, was dem körperlichen Aufbau des ernährten Lebewesens fremd und schädlich ist, und ebenso jene große Masse, die aufgenommen wurde, um den Magen zu füllen und den Appetit zu stillen. Nun würde niemand bestreiten, dass diese Nahrung sich mit dem ernährten Körper vereint, sich mit all seinen Teilen und einzelnen Bestandteilen verflicht und sich ihnen anschmiegt. Nahrung hingegen, die anders beschaffen und naturwidrig ist, wird rasch zersetzt, wenn sie sich mit einer stärkeren Kraft vermischt; die ihr unterlegene Kraft dagegen zerstört sie leicht. Dabei verwandelt sie sich in schädliche Säfte und nimmt giftige Eigenschaften an, weil sie dem ernährten Körper nichts Angemessenes oder Zuträgliches bietet. Der stärkste Beweis dafür ist, dass viele Lebewesen, die Nahrung aufnehmen dadurch Schmerzen erleiden oder in Gefahr geraten oder den Tod finden, wenn sie aus übermäßigem Appetit etwas Giftiges und Naturwidriges, das mit der Nahrung vermischt ist, mit aufnehmen. Das muss den ernährten Körper unweigerlich zerstören, wenn doch alles, was ernährt wird, durch das ihm Angemessene und Naturgemäße ernährt, durch das Gegenteilige dagegen zerstört wird. Wenn also die naturgemäße Nahrung entsprechend den natürlichen Unterschieden der Lebewesen verschieden ist und sich selbst von dieser Nahrung weder alles, was das Lebewesen aufnimmt, noch jeder beliebige Teil davon mit dem ernährten Körper vermischt, sondern nur das, was durch die gesamte Verdauung gereinigt und vollständig umgewandelt wurde, um sich mit dem jeweiligen Körper zu vereinen, und zu den ernährten Teilen passt, dann ist klar: Nichts Naturwidriges kann sich je mit einem Körper vereinen, für den es keine passende und geeignete Nahrung ist. Vielmehr wird es entweder schon aus dem Magen selbst ausgeschieden, bevor es einen anderen, unverdauten und verdorbenen Saft hervorbringt, oder es bleibt länger im Körper und verursacht ein Leiden oder eine schwer heilbare Krankheit, die auch die naturgemäße Nahrung mit zersetzt oder sogar das Fleisch selbst, das Nahrung braucht. Aber selbst wenn es einmal durch gewisse Arzneien oder bessere Speisen ausgetrieben wird oder von den natürlichen Kräften überwunden und so ausgeschieden wird, fließt es nicht ohne erheblichen Schaden ab, weil es dem Naturgemäßen keinen Frieden bringt, da es sich mit der Natur nicht vermischen lässt.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Die natürlichen Unterschiede",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000008",
+                    "grc-token-v1:8d4e8045aa99069a:000009",
+                    "grc-token-v1:8d4e8045aa99069a:000010"
+                  ],
+                  "groupId": "gwg-v1-68ef2ff422c86a72fab81b10d888727213ca24ca04aabdd54e44abd286cd4794"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " zwischen allen Lebewesen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000004",
+                    "grc-token-v1:8d4e8045aa99069a:000005",
+                    "grc-token-v1:8d4e8045aa99069a:000006",
+                    "grc-token-v1:8d4e8045aa99069a:000007"
+                  ],
+                  "groupId": "gwg-v1-7a8589e51e0fefa2ac7444b19cf8bb0ec0a2801b537a926df5fa53335c58d294"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sind",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000003"
+                  ],
+                  "groupId": "gwg-v1-6a37d6c43fe1b73159584eed358c0b5e32978a8d4de46a890d42e23946daa4f7",
+                  "lexiconEntryId": "-eimi"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " also",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000002"
+                  ],
+                  "groupId": "gwg-v1-809dd735fe169d9168f4e5d78e585728e3ed9b3eb7caf60144465766dfbd9ad4",
+                  "lexiconEntryId": "-oun"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " groß",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000001"
+                  ],
+                  "groupId": "gwg-v1-92ae318dd7ee23e3a246e41a83910b1965dbc09ca9a7f0f8aaadf2672c3b2684",
+                  "lexiconEntryId": "-polys"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000011"
+                  ],
+                  "groupId": "gwg-v1-6741706fd2c3cef50d51e3514c47c25a760776a04ca119cb02100389ddb61ad4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " auch",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000012",
+                    "grc-token-v1:8d4e8045aa99069a:000013"
+                  ],
+                  "groupId": "gwg-v1-906a9ed90ef04625761cc22bc0db932da05130d6715562bdbdd6722799d47dec"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " die naturgemäße Nahrung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000014",
+                    "grc-token-v1:8d4e8045aa99069a:000015",
+                    "grc-token-v1:8d4e8045aa99069a:000016",
+                    "grc-token-v1:8d4e8045aa99069a:000017"
+                  ],
+                  "groupId": "gwg-v1-caa9347db074848070473a0b3fdc1448ec07001baf6e73062ae4a294e8f7eca0"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ist je nach",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000025"
+                  ],
+                  "groupId": "gwg-v1-738f140195b9f5899a51bc28e023fecb6c60ab950e7a5f13e9a2e1f40b17b2ee"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Tierart",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000018",
+                    "grc-token-v1:8d4e8045aa99069a:000019",
+                    "grc-token-v1:8d4e8045aa99069a:000020"
+                  ],
+                  "groupId": "gwg-v1-86febb08a1570bd42bdc4ab2d1cecff839bc619e07380d26bf57b31dc1c8050b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000021"
+                  ],
+                  "groupId": "gwg-v1-d023f81955e3942a1fa002a69c5193fa917d0974887934bb8632272055f024b2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ernährtem Körper",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000022",
+                    "grc-token-v1:8d4e8045aa99069a:000023",
+                    "grc-token-v1:8d4e8045aa99069a:000024"
+                  ],
+                  "groupId": "gwg-v1-ca23466b77d129bcbb933d27992a93d9432c095a38320eda037d33bde58860c0"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " verschieden. "
+          },
+          {
+            "type": "text",
+            "text": "Zudem",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000027"
+                  ],
+                  "groupId": "gwg-v1-8d7caa923cc98f6358f4c038b58669886fd2ebc06bc342d36af197d8f25a7bbb",
+                  "lexiconEntryId": "-de-2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " durchläuft",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000033"
+                  ],
+                  "groupId": "gwg-v1-b8f04ba224db94e16120873eb6a39810d7397ab795be4447b7fbcd89b4ec552d",
+                  "lexiconEntryId": "-ginomai"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " die Nahrung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000028",
+                    "grc-token-v1:8d4e8045aa99069a:000029",
+                    "grc-token-v1:8d4e8045aa99069a:000032"
+                  ],
+                  "groupId": "gwg-v1-986abbb5d1581f8b8315465ffa28f1f2b03603278827fa4e29f9a4b2b0f4fe9e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " jedes Lebewesens",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000030",
+                    "grc-token-v1:8d4e8045aa99069a:000031"
+                  ],
+                  "groupId": "gwg-v1-0362b43b146a81f12b7728ce8358cea81f1e16137773f72d7ba9651a649722fd"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " eine dreifache",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000026"
+                  ],
+                  "groupId": "gwg-v1-849183aed0574460b49a95c455260e3194126659a7eb751952e02f62e949f826"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Reinigung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000034"
+                  ],
+                  "groupId": "gwg-v1-9e0aed7f156aefe472f9ec07fc5a8c26fb6b9c7b536c6ddc9a27820b898ce433"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000035"
+                  ],
+                  "groupId": "gwg-v1-76616bcfa6c9e0ea0a8b75610c884555c939d2af0fb6cc0936c01c496359fc5a"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Trennung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000036"
+                  ],
+                  "groupId": "gwg-v1-c792e9c30db1bc595490f9fbc34261255cbaa10c2dce1ed37c260a094d56d556"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Deshalb "
+          },
+          {
+            "type": "text",
+            "text": "muss",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000037"
+                  ],
+                  "groupId": "gwg-v1-4af9523e293121b1cd7f4ec638498e2094a18e27381635c6231a80ec06f28239",
+                  "lexiconEntryId": "-dei"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " alles",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000050",
+                    "grc-token-v1:8d4e8045aa99069a:000051"
+                  ],
+                  "groupId": "gwg-v1-012f2493d521234cf537d88734aacb7b310a3243aa21a24dd4d5b67eadbebc31"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", was "
+          },
+          {
+            "type": "text",
+            "text": "dem Lebewesen als Nahrung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000053",
+                    "grc-token-v1:8d4e8045aa99069a:000054",
+                    "grc-token-v1:8d4e8045aa99069a:000055",
+                    "grc-token-v1:8d4e8045aa99069a:000056",
+                    "grc-token-v1:8d4e8045aa99069a:000057"
+                  ],
+                  "groupId": "gwg-v1-83a20752c17bd7682cee3767291741df5610cb6d761599927a12ba453f4addce"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " fremd ist",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000052"
+                  ],
+                  "groupId": "gwg-v1-909950f47488685f4163185a363b0cd16a48daf0926f5f2fa64518444cf49c37",
+                  "lexiconEntryId": "-allotrios"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und sich deshalb "
+          },
+          {
+            "type": "text",
+            "text": "nicht mit ihm vermischen kann",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000058",
+                    "grc-token-v1:8d4e8045aa99069a:000059",
+                    "grc-token-v1:8d4e8045aa99069a:000060",
+                    "grc-token-v1:8d4e8045aa99069a:000061"
+                  ],
+                  "groupId": "gwg-v1-9fb50b318d7516ab70c13a81bf9c2bc82cdcfc3ee16af1f23814a871f68453d8"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "zwangsläufig",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000038"
+                  ],
+                  "groupId": "gwg-v1-da2ef5b7d7071a8c9f53560d4a7dc6065e9c0af78f3823ff401d244e1fcbc722",
+                  "lexiconEntryId": "-pantos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " zersetzt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000039"
+                  ],
+                  "groupId": "gwg-v1-0d0b4d0513f00058b201eb6eeda6a78c7cf139abb2d126f39d4e3502ae6e199b",
+                  "lexiconEntryId": "-phtheiro"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000041"
+                  ],
+                  "groupId": "gwg-v1-70d225bf589b122b7f8728661d03752bcbd82cacf5a7b309bed93244410acd85"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " auf natürlichem Weg",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000043",
+                    "grc-token-v1:8d4e8045aa99069a:000044"
+                  ],
+                  "groupId": "gwg-v1-2a47147be93a5c7e7cafee4f1f1116c9185b879e42ef8d56ac34260bc478f07c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ausgeschieden",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000042"
+                  ],
+                  "groupId": "gwg-v1-d4b04b18a28da324e0a41802f98b4cbd5f89f8fbfeecd326cda53beb173d99be"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " oder",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000045"
+                  ],
+                  "groupId": "gwg-v1-44808a2e85d6b00811c37e0a4b0dc1f5117cee49685507d0284e73c22a592429"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " in etwas anderes",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000046",
+                    "grc-token-v1:8d4e8045aa99069a:000047",
+                    "grc-token-v1:8d4e8045aa99069a:000048"
+                  ],
+                  "groupId": "gwg-v1-d4c8c26e75f3f8112edf62583b982bf95d48947c581ba5807eca0d9d64250962"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " umgewandelt werden",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000049"
+                  ],
+                  "groupId": "gwg-v1-6e2a7c1b3b123b49defeab8eb18c351a34f48a036c83e746ef57b364a035067e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Die Kraft",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000068",
+                    "grc-token-v1:8d4e8045aa99069a:000072"
+                  ],
+                  "groupId": "gwg-v1-8074509c14acb7b6c8b5238493bff0073fe55fc60ddb3e1ae4a5b735129566bd"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " des nährenden Stoffes",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000069",
+                    "grc-token-v1:8d4e8045aa99069a:000070",
+                    "grc-token-v1:8d4e8045aa99069a:000071"
+                  ],
+                  "groupId": "gwg-v1-df05bc65fcf9fa4c6990b121f5953a93eab3bcfbe74b55d435b8ac7ad287e0ce"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " hingegen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000063"
+                  ],
+                  "groupId": "gwg-v1-741d3425e6009a0fb8cd7e2bd2eac1da997d9b704e3512e832a30897719b4174",
+                  "lexiconEntryId": "-de-2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " muss "
+          },
+          {
+            "type": "text",
+            "text": "mit den Kräften",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000073",
+                    "grc-token-v1:8d4e8045aa99069a:000077"
+                  ],
+                  "groupId": "gwg-v1-d243ffe00c9fb50c2b68c5d9fea8d1edd7dfe7e651d03007ae19a9b250b1a418"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " des ernährten Lebewesens",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000074",
+                    "grc-token-v1:8d4e8045aa99069a:000075",
+                    "grc-token-v1:8d4e8045aa99069a:000076"
+                  ],
+                  "groupId": "gwg-v1-56debf0efd9a3322d13d31de489141e1d7f89fe66ae687cfb829e960c7ebbfdc"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " übereinstimmen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000062"
+                  ],
+                  "groupId": "gwg-v1-14e7e5796770eea4572a10a4a1f7eb009c4c7a66ad489138e3db307235a77dac",
+                  "lexiconEntryId": "-symbaino"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000064"
+                  ],
+                  "groupId": "gwg-v1-0a15053e785e4e4d01f88df44a5ad4ab256896b7459291ecff15af887aff42e4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " seiner Natur entsprechen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000065",
+                    "grc-token-v1:8d4e8045aa99069a:000066",
+                    "grc-token-v1:8d4e8045aa99069a:000067"
+                  ],
+                  "groupId": "gwg-v1-9aaaa76b08ad122829d02126f169d879a5c60347fd0621473e5640d57254eef2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Nachdem sie",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000079"
+                  ],
+                  "groupId": "gwg-v1-a63cb07c1022f523c882f9111d04a512a0c4dcd4abd19dc67a7213579f37c2c2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " die natürlichen Filter",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000081",
+                    "grc-token-v1:8d4e8045aa99069a:000082",
+                    "grc-token-v1:8d4e8045aa99069a:000083",
+                    "grc-token-v1:8d4e8045aa99069a:000084"
+                  ],
+                  "groupId": "gwg-v1-7df5593b80e25a2831c8e7512e2cfef1919ceb0bed2c3fe97eb6d3db11ab3125"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " durchlaufen hat",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000080"
+                  ],
+                  "groupId": "gwg-v1-bcd43d23ab3df4c5a09f2aa4a65c482d16a0c7b6f71c4524e3965803307dfaba"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000085"
+                  ],
+                  "groupId": "gwg-v1-016b7cc78d4db74886d3a3252235e80ac2c8195be0bde9fd4707c67bf44fc672"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " durch die natürlichen Reinigungsvorgänge",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000088",
+                    "grc-token-v1:8d4e8045aa99069a:000089",
+                    "grc-token-v1:8d4e8045aa99069a:000090"
+                  ],
+                  "groupId": "gwg-v1-cc67a7e1f134d68f03888f06600204479cdfda37d56e8169f1b6a44d851c1fa9"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " gründlich",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000087"
+                  ],
+                  "groupId": "gwg-v1-9a6fde37967d2ecf2bd4097ec87d06e5f2a2f8aad437bb523c68c538185b4ed9",
+                  "lexiconEntryId": "-akribos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " gereinigt worden ist",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000086"
+                  ],
+                  "groupId": "gwg-v1-5a014c80178f0ac37e27ac274f2a8ff75deb3290da3a01e99e8cd2a3b619e220"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", muss sie "
+          },
+          {
+            "type": "text",
+            "text": "zu einem völlig reinen Zuwachs",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000091",
+                    "grc-token-v1:8d4e8045aa99069a:000092",
+                    "grc-token-v1:8d4e8045aa99069a:000093"
+                  ],
+                  "groupId": "gwg-v1-cb07d20d834140137149bedf11b772323627a6625f03fc731e1e376f46eccdf6"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " an Körpersubstanz",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000094",
+                    "grc-token-v1:8d4e8045aa99069a:000095"
+                  ],
+                  "groupId": "gwg-v1-b37a5131b98c7d13c221effafcf88c1bdcb21bc548fd4970a7b362e7339900f2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " werden. "
+          },
+          {
+            "type": "text",
+            "text": "Nur diese",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000096",
+                    "grc-token-v1:8d4e8045aa99069a:000097",
+                    "grc-token-v1:8d4e8045aa99069a:000098",
+                    "grc-token-v1:8d4e8045aa99069a:000099"
+                  ],
+                  "groupId": "gwg-v1-999d1479123ba37833dda551930687dae13679227cb352cac140f0903ef9441c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " könnte man",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000101",
+                    "grc-token-v1:8d4e8045aa99069a:000102"
+                  ],
+                  "groupId": "gwg-v1-d2e9f2d507216e163972910f3444db476fe3d97128031f3961ff6c8f8a7fdc6d"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " der Sache nach zu Recht",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000100",
+                    "grc-token-v1:8d4e8045aa99069a:000103",
+                    "grc-token-v1:8d4e8045aa99069a:000104"
+                  ],
+                  "groupId": "gwg-v1-5ce998d6f88a0fe679e6f8b92ba2253c36dfbd9f6a66b6bd2eebaffe0e214520"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " als Nahrung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000106"
+                  ],
+                  "groupId": "gwg-v1-7418c46c7be562837d10119cfa579f5751a049452c7a893db88e045f916f1d92",
+                  "lexiconEntryId": "-trophe"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " bezeichnen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000105"
+                  ],
+                  "groupId": "gwg-v1-f11820d3540c4a851d3eda6a33eb1eabce51f8904a2d722bea347a8a02e78458"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "denn",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000107"
+                  ],
+                  "groupId": "gwg-v1-67279b0074bc407a950e2a864289617ec9772acf5bd041c873c51d838d686012"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sie scheidet",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000108"
+                  ],
+                  "groupId": "gwg-v1-ff9c9bff58f1d6226388705f7bf2896845a7924ea9e70a94aadabc6fc8dd10a5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " alles",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000109",
+                    "grc-token-v1:8d4e8045aa99069a:000110"
+                  ],
+                  "groupId": "gwg-v1-150990428f9f2dd8b5165e6c20d8725b342463ebc8d68c42de4e4f7f1f9cb56b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " aus, was "
+          },
+          {
+            "type": "text",
+            "text": "dem körperlichen Aufbau",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000114",
+                    "grc-token-v1:8d4e8045aa99069a:000115",
+                    "grc-token-v1:8d4e8045aa99069a:000119"
+                  ],
+                  "groupId": "gwg-v1-ca6b09dbb788c8ddd6afa4df721ea3d349a48976409002f1390045ee0f407261"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " des ernährten Lebewesens",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000116",
+                    "grc-token-v1:8d4e8045aa99069a:000117",
+                    "grc-token-v1:8d4e8045aa99069a:000118"
+                  ],
+                  "groupId": "gwg-v1-fba8174eacf41098da55680648e67bb7003a0ef8bfab48f99afedcbdb58c4233"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " fremd",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000111"
+                  ],
+                  "groupId": "gwg-v1-a60d2db61206f86170f5155479cdb2154daa9ede41a02559be8b576671dd60fd",
+                  "lexiconEntryId": "-allotrios"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000112"
+                  ],
+                  "groupId": "gwg-v1-08fb8c6f84e498c3c8d0ad15f01ac5eaca4f248822c02612f5b695d2f0672292"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " schädlich",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000113"
+                  ],
+                  "groupId": "gwg-v1-c98c49c53f5a04877e6f2202a1e2c76bdcc6146361974ca9ecd2351f261d3212",
+                  "lexiconEntryId": "-blaberos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ist, "
+          },
+          {
+            "type": "text",
+            "text": "und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000120"
+                  ],
+                  "groupId": "gwg-v1-ec1c395d6dc8657966387dfd06827c04d77c0a9eee81e42affcea596c6e7d0f1"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ebenso jene große Masse",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000121",
+                    "grc-token-v1:8d4e8045aa99069a:000122",
+                    "grc-token-v1:8d4e8045aa99069a:000123",
+                    "grc-token-v1:8d4e8045aa99069a:000124"
+                  ],
+                  "groupId": "gwg-v1-5c90c9b7370e674f2023033da0f4c605e665f8a8c6d1bbdcdc6501297000a83f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", die "
+          },
+          {
+            "type": "text",
+            "text": "aufgenommen wurde",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000125"
+                  ],
+                  "groupId": "gwg-v1-d155aafd568e9da709bbc8183748c0659f469579e27943afe20a2b23561f6a87"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "um den Magen zu füllen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000126",
+                    "grc-token-v1:8d4e8045aa99069a:000127",
+                    "grc-token-v1:8d4e8045aa99069a:000128",
+                    "grc-token-v1:8d4e8045aa99069a:000129",
+                    "grc-token-v1:8d4e8045aa99069a:000130"
+                  ],
+                  "groupId": "gwg-v1-70a9be531aa9cdccafeece8e680d3deffb7e3d9e7487c36b13d19fef994d0198"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000131"
+                  ],
+                  "groupId": "gwg-v1-108d2b21ceb1046d76173fc1586b68ae9d59bf9f7f6c616c285774a8febb805e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " den Appetit zu stillen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000132",
+                    "grc-token-v1:8d4e8045aa99069a:000133",
+                    "grc-token-v1:8d4e8045aa99069a:000134",
+                    "grc-token-v1:8d4e8045aa99069a:000135"
+                  ],
+                  "groupId": "gwg-v1-f3e60b84fdef738da08bb1681998d20ab1d12c6069f25e1ce877ae14c9b39e2f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Nun",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000136"
+                  ],
+                  "groupId": "gwg-v1-8684c0e1bc3d7ff8a6aebf67a9144713a2a704e0093c039dbb749c19629e7664"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " würde niemand bestreiten",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000139",
+                    "grc-token-v1:8d4e8045aa99069a:000140",
+                    "grc-token-v1:8d4e8045aa99069a:000141",
+                    "grc-token-v1:8d4e8045aa99069a:000142"
+                  ],
+                  "groupId": "gwg-v1-f6bbbbc6d16a42bf009439d11e7ed5b10dfc718dacb23690f7b81116b6041c62"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", dass "
+          },
+          {
+            "type": "text",
+            "text": "diese Nahrung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000137"
+                  ],
+                  "groupId": "gwg-v1-78096b15b19d888477946a823a4cc1eba8c3b48fc32ff08f3b28e3fbf6811b71"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sich mit dem ernährten Körper",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000144",
+                    "grc-token-v1:8d4e8045aa99069a:000145",
+                    "grc-token-v1:8d4e8045aa99069a:000146"
+                  ],
+                  "groupId": "gwg-v1-89430f35e5df3137703bd39c07467ec67013bea6646c8484ed691d4e9d5cc159"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " vereint",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000143"
+                  ],
+                  "groupId": "gwg-v1-d85bc6e56aee675c6b2517ade39d72eb3ce07bb3089349631b4c158e47732dff"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", sich "
+          },
+          {
+            "type": "text",
+            "text": "mit all seinen Teilen und einzelnen Bestandteilen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000151",
+                    "grc-token-v1:8d4e8045aa99069a:000152",
+                    "grc-token-v1:8d4e8045aa99069a:000153",
+                    "grc-token-v1:8d4e8045aa99069a:000154",
+                    "grc-token-v1:8d4e8045aa99069a:000155",
+                    "grc-token-v1:8d4e8045aa99069a:000156"
+                  ],
+                  "groupId": "gwg-v1-772d517fd475a5dc2e8c01bfa2687114de5835f941bd02176018e4ea9666a9a7"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " verflicht",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000147"
+                  ],
+                  "groupId": "gwg-v1-11b0794252224c783f7ce0f5b34a05fd62af2881ec66372cc52a11a70ff3632e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000148",
+                    "grc-token-v1:8d4e8045aa99069a:000149"
+                  ],
+                  "groupId": "gwg-v1-3ea1bd9b5e83c689a77eed4324e87b7b3f1a26efe7a6af6640b0921d1997b9cf"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sich ihnen anschmiegt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000150"
+                  ],
+                  "groupId": "gwg-v1-39924e65a649814b8e0f0080d818a99fbd2038e01ac6718e5be9325564287623"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Nahrung hingegen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000157",
+                    "grc-token-v1:8d4e8045aa99069a:000158"
+                  ],
+                  "groupId": "gwg-v1-6281c823b992d3f085f162682ad0ba69576b63d8f201e77eadf86184b4dd913d"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", die "
+          },
+          {
+            "type": "text",
+            "text": "anders beschaffen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000159",
+                    "grc-token-v1:8d4e8045aa99069a:000160"
+                  ],
+                  "groupId": "gwg-v1-77a71e663e9bbd50b3f80dec368406caa381d250f733626b5d4ac12168b348bb"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000161"
+                  ],
+                  "groupId": "gwg-v1-cec87b175ffb70896376ee9d1dbea5e67673e9e0664fa4db6d9c640bfd3b1425"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " naturwidrig",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000162",
+                    "grc-token-v1:8d4e8045aa99069a:000163"
+                  ],
+                  "groupId": "gwg-v1-8000082e2dc6bcf7c4acec1a23566577d0d34ddc883c31a1128ed6164d07b907"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ist, "
+          },
+          {
+            "type": "text",
+            "text": "wird rasch zersetzt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000164",
+                    "grc-token-v1:8d4e8045aa99069a:000166"
+                  ],
+                  "groupId": "gwg-v1-618bf1cb2f5e38b3087265316f0c3830830ec4ccdb775578bc3a8c0122c0b689"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "wenn",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000167"
+                  ],
+                  "groupId": "gwg-v1-cad73e24074eadc690ab5e899dbb670507623b2d33ac7b7f9858d8a22c419d5f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sie sich "
+          },
+          {
+            "type": "text",
+            "text": "mit einer stärkeren Kraft",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000168",
+                    "grc-token-v1:8d4e8045aa99069a:000170"
+                  ],
+                  "groupId": "gwg-v1-bcf0fb8e51dbdb5bf729b0f5496c62a0d66f88b6054cc9dd0706164521dbe931"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " vermischt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000169"
+                  ],
+                  "groupId": "gwg-v1-2ed935430a6a1c5c36f34837841ab2ce6dc3352691e90f835268895f5a0eb9c0"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; "
+          },
+          {
+            "type": "text",
+            "text": "die ihr unterlegene Kraft",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000175",
+                    "grc-token-v1:8d4e8045aa99069a:000176"
+                  ],
+                  "groupId": "gwg-v1-33a69520cd5373a411881df8b6022e77792545d73bd9f6cf9746c701c2641099"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " dagegen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000172"
+                  ],
+                  "groupId": "gwg-v1-dc7038abfb5f197cbe37797ad1319893b47b7292c66fc627cba93820c85f083b",
+                  "lexiconEntryId": "-de-2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " zerstört",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000171"
+                  ],
+                  "groupId": "gwg-v1-e7ecc1fe37780317d00d5bcc1e5106d98232173071d463dd6a214dd8c890cee0"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sie "
+          },
+          {
+            "type": "text",
+            "text": "leicht",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000173",
+                    "grc-token-v1:8d4e8045aa99069a:000174"
+                  ],
+                  "groupId": "gwg-v1-e0131d9ddb9699914142122e6cb18fe37e9c09a5b4e77aeeac24a7fec1f7e7b5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Dabei "
+          },
+          {
+            "type": "text",
+            "text": "verwandelt sie sich",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000180"
+                  ],
+                  "groupId": "gwg-v1-ccb7d1cf502e5b47a626502d3edfcb9dff04e0ed704e8a7ca62aac4a8c313251"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " in schädliche Säfte",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000177",
+                    "grc-token-v1:8d4e8045aa99069a:000178",
+                    "grc-token-v1:8d4e8045aa99069a:000179",
+                    "grc-token-v1:8d4e8045aa99069a:000181"
+                  ],
+                  "groupId": "gwg-v1-2fe0751beb58d4190df178792f2860ea21db895df9bd5666f8be1014083ec129"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000182"
+                  ],
+                  "groupId": "gwg-v1-33347c90b01ba40732974d78e8b651973c335783ba6a17f3123b3170e7077a0c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " nimmt giftige Eigenschaften an",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000183",
+                    "grc-token-v1:8d4e8045aa99069a:000184"
+                  ],
+                  "groupId": "gwg-v1-3818f5ee49a1e239ed2ae521c503cde20da20e49424c7ae20dcde867c910eeb5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "weil",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000185"
+                  ],
+                  "groupId": "gwg-v1-f7cdebddf143dda6fa3b0e3ec62f4c82f69bc57879d167005e78785c3ffb9946"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sie "
+          },
+          {
+            "type": "text",
+            "text": "dem ernährten Körper",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000190",
+                    "grc-token-v1:8d4e8045aa99069a:000191",
+                    "grc-token-v1:8d4e8045aa99069a:000192"
+                  ],
+                  "groupId": "gwg-v1-fa3fd4257acd9fa5de90e34f0e84802526409222a9b32af1fc8decb08574f1d0"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " nichts",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000186"
+                  ],
+                  "groupId": "gwg-v1-d24e035891bf651899a531c481d49dc080563de4ccf423d6a98f1ed3a7cc1581",
+                  "lexiconEntryId": "-medeis"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Angemessenes",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000187"
+                  ],
+                  "groupId": "gwg-v1-811d515b04fc38eb206d4018d471c344175a851cd43cdaa7e70d5a1b53593da1",
+                  "lexiconEntryId": "-oikeios"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " oder",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000188"
+                  ],
+                  "groupId": "gwg-v1-f56d754915c876ccbd88c01c2d7b0b37307be155657859a9bf68008327970301"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Zuträgliches",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000189"
+                  ],
+                  "groupId": "gwg-v1-03cc6aec2b87364de830f82f7ecf644b8c1a185a647437f19444f64a561b8ab9",
+                  "lexiconEntryId": "-philos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " bietet",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000193"
+                  ],
+                  "groupId": "gwg-v1-71a5cca741cf08a2f1193c3fd960d6613a41db4a8a331f643228a279ff16d6d1"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Der stärkste Beweis",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000196",
+                    "grc-token-v1:8d4e8045aa99069a:000197"
+                  ],
+                  "groupId": "gwg-v1-fc41e1dbb2cfc1222d60db23db99f66f2353c5a5ea56916fc786a2ee54ae852c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " dafür",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000195"
+                  ],
+                  "groupId": "gwg-v1-a250d4ef33c06a962d2c53c679a82b52d454625a4b14c2d25466d0503060efee",
+                  "lexiconEntryId": "-houtos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ist, dass "
+          },
+          {
+            "type": "text",
+            "text": "viele Lebewesen, die Nahrung aufnehmen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000199",
+                    "grc-token-v1:8d4e8045aa99069a:000200",
+                    "grc-token-v1:8d4e8045aa99069a:000201",
+                    "grc-token-v1:8d4e8045aa99069a:000202"
+                  ],
+                  "groupId": "gwg-v1-5c92ffc1af0b684e7e936284a35f5b81514d52e4d699d144973b77412343c045"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " dadurch",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000203",
+                    "grc-token-v1:8d4e8045aa99069a:000204"
+                  ],
+                  "groupId": "gwg-v1-660c5744b00f4e1894f432c9e3950b28cc443fa4f65bc0cfe50a2964753604bd"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Schmerzen erleiden",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000206"
+                  ],
+                  "groupId": "gwg-v1-402d388c0affb1caedbff6fe8d898100c68480b30d23dd07df4f6406adfe6616"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " oder in "
+          },
+          {
+            "type": "text",
+            "text": "Gefahr geraten",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000208"
+                  ],
+                  "groupId": "gwg-v1-c05aa26779bc42c3243b60d2efb9d3e30bf6b843485de48f35707d4132b3be83",
+                  "lexiconEntryId": "-kindynos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " oder",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000209"
+                  ],
+                  "groupId": "gwg-v1-ab631f0c33ac8e7a4e0c19c087271e14f97822d882c62a9ea353b87b6ff87475"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " den Tod",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000210"
+                  ],
+                  "groupId": "gwg-v1-8fe55e6375334490ad884396ce2ced70cdbbf898c9c3e65a45f5ff750d30c983",
+                  "lexiconEntryId": "-thanatos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " finden",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000205"
+                  ],
+                  "groupId": "gwg-v1-33a20cf92dd1b2c30742078853462ed3270df7fadabba1c10791eef86b885d25"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "wenn",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000211"
+                  ],
+                  "groupId": "gwg-v1-936bd3b639e7f475b75fe371428ee1520574eaae587e5e129fc793fee07ef039"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sie "
+          },
+          {
+            "type": "text",
+            "text": "aus übermäßigem Appetit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000212",
+                    "grc-token-v1:8d4e8045aa99069a:000213",
+                    "grc-token-v1:8d4e8045aa99069a:000214"
+                  ],
+                  "groupId": "gwg-v1-4c68065d236e2b7fa57ae4e85ee6483c48c4f3864c13a0c119c91c43296241cf"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " etwas Giftiges",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000219",
+                    "grc-token-v1:8d4e8045aa99069a:000220"
+                  ],
+                  "groupId": "gwg-v1-01c8c45e283573cc7b94774b4a5e7245b89f5f22c709fb14906e4b14400a8e29"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000221"
+                  ],
+                  "groupId": "gwg-v1-922866fb5c98f35e11f9e4285b10cde39b1598d97d1959caf6babfb57695466e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Naturwidriges",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000222",
+                    "grc-token-v1:8d4e8045aa99069a:000223"
+                  ],
+                  "groupId": "gwg-v1-333b506cb70c14e0544dbf6d557c8368905376f707e7d9dbedc85359c9177767"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", das "
+          },
+          {
+            "type": "text",
+            "text": "mit der Nahrung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000215",
+                    "grc-token-v1:8d4e8045aa99069a:000216"
+                  ],
+                  "groupId": "gwg-v1-95005c5dc709f8d6502873bd06f5936cb86e53e46c235595d3aa3552ebdb6cba"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " vermischt ist",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000217"
+                  ],
+                  "groupId": "gwg-v1-0a68b084f67b61e0dda213e9a54c5516b0f938664efd93e76d3accb5e2815719"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "mit aufnehmen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000218"
+                  ],
+                  "groupId": "gwg-v1-36c8a0db99bd69d007dad3e68cbe2e7c47608eeb1b13ef448a225fea47298277"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Das",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000224"
+                  ],
+                  "groupId": "gwg-v1-76c1aa31f209264fe5d3ba7482f766dc001e44beaa1d7aff4ea1b92e1ad21238"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " muss",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000229",
+                    "grc-token-v1:8d4e8045aa99069a:000230"
+                  ],
+                  "groupId": "gwg-v1-51a828a8b58075e5b706801bcce337b8e6174974b721b234ba3d96e5751a2907"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " den ernährten Körper",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000231",
+                    "grc-token-v1:8d4e8045aa99069a:000232",
+                    "grc-token-v1:8d4e8045aa99069a:000233"
+                  ],
+                  "groupId": "gwg-v1-fc90336a0cafb9f73025a9e9b4c538361456ae441569cc55a56b3ce09a412c10"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " unweigerlich",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000225",
+                    "grc-token-v1:8d4e8045aa99069a:000226",
+                    "grc-token-v1:8d4e8045aa99069a:000227"
+                  ],
+                  "groupId": "gwg-v1-5b4f6838d6b2b5b9e81624bd44733b16c569f309cdc38ff2b2baf2374af83b82"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " zerstören",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000228"
+                  ],
+                  "groupId": "gwg-v1-13895a2950bd2d2dca4a660dd0c700c813837f7aa6b07a646758f31832ad6d5e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "wenn doch",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000234",
+                    "grc-token-v1:8d4e8045aa99069a:000235"
+                  ],
+                  "groupId": "gwg-v1-a35b21deb326041dac82b5745f0f5df39bdc94cdd79607325dd624e8ea441638"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " alles, was ernährt wird",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000238",
+                    "grc-token-v1:8d4e8045aa99069a:000239"
+                  ],
+                  "groupId": "gwg-v1-c0acbcd26325f28389c67c188c6623f823fb679c03899643f76a2b871cdbb073"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "durch das ihm Angemessene",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000240",
+                    "grc-token-v1:8d4e8045aa99069a:000241"
+                  ],
+                  "groupId": "gwg-v1-880678f553f2ef8cf8a8688e0553f37cc79f734b752e11370ea2ae1007275fd2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000242"
+                  ],
+                  "groupId": "gwg-v1-341576e78212c9742b4e259140b0b247c7abd0e5d5156932b2af617cf678acf5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Naturgemäße",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000243",
+                    "grc-token-v1:8d4e8045aa99069a:000244"
+                  ],
+                  "groupId": "gwg-v1-25e2a719c4a830c8d9eefe700e49c403eb074e2e780f2218fd6e454ea6ddf616"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ernährt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000236"
+                  ],
+                  "groupId": "gwg-v1-4a854fb616d184599c2885b32941a3c490b739c2b89c6486df0570b923e623f0"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "durch das Gegenteilige",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000247",
+                    "grc-token-v1:8d4e8045aa99069a:000248"
+                  ],
+                  "groupId": "gwg-v1-d24d99f932653b63068bad0ed49541ce67d9a95d71c2855c87ec6d0df568f4b1"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " dagegen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000246"
+                  ],
+                  "groupId": "gwg-v1-48f228ce2bc196a07858fa37b601af8c4ac087f3b8f71d14c2999bb0838fa312",
+                  "lexiconEntryId": "-de-2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " zerstört wird",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000245"
+                  ],
+                  "groupId": "gwg-v1-e992af37cde9aa645de447bc7cd9325abf5b9cbaf314cada37e3e88ff053fa50",
+                  "lexiconEntryId": "-phtheiro"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Wenn",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000249"
+                  ],
+                  "groupId": "gwg-v1-ae933d218a900b5f1997425321be4698dfba5f2f5fd7071adb4d6914ab4fa05e",
+                  "lexiconEntryId": "-eiper"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " also",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000250"
+                  ],
+                  "groupId": "gwg-v1-8fddf64b29a64ded0bd19c6487b0be3d8b97d125849ec8f9b1b76b8bb85325a1",
+                  "lexiconEntryId": "-oun"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " die naturgemäße Nahrung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000258",
+                    "grc-token-v1:8d4e8045aa99069a:000259",
+                    "grc-token-v1:8d4e8045aa99069a:000260",
+                    "grc-token-v1:8d4e8045aa99069a:000262"
+                  ],
+                  "groupId": "gwg-v1-a66916d120b6afe53595eeb6ec74bee26c058b2ff0bb2eedbf5e14937f109f75"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " entsprechend den natürlichen Unterschieden der Lebewesen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000251",
+                    "grc-token-v1:8d4e8045aa99069a:000252",
+                    "grc-token-v1:8d4e8045aa99069a:000253",
+                    "grc-token-v1:8d4e8045aa99069a:000254",
+                    "grc-token-v1:8d4e8045aa99069a:000255",
+                    "grc-token-v1:8d4e8045aa99069a:000256",
+                    "grc-token-v1:8d4e8045aa99069a:000257"
+                  ],
+                  "groupId": "gwg-v1-2386e6f59c138b8eb31c4c0109bac7cbc2bad5bcd70c78c6ee325028e699bc67"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " verschieden ist",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000261"
+                  ],
+                  "groupId": "gwg-v1-3a2105d4953d64e77f3697d949e3eb78aa703e60d3dcdf6f511934fb98cb265a"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000263"
+                  ],
+                  "groupId": "gwg-v1-9ce4508ac85fda372353fc084895f8bec0cdaa3c9e40fd2a4170223baea7d831"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sich "
+          },
+          {
+            "type": "text",
+            "text": "selbst von dieser Nahrung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000264",
+                    "grc-token-v1:8d4e8045aa99069a:000265",
+                    "grc-token-v1:8d4e8045aa99069a:000266"
+                  ],
+                  "groupId": "gwg-v1-f8a4a5ce3dcd11c08409b6812b607a0eff04193bbca4a340255e0428b05817be"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " weder",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000267"
+                  ],
+                  "groupId": "gwg-v1-8b34e01f3d127d715398eefb8b68c1f844480b3e34114e378ef01c6500ff45f5",
+                  "lexiconEntryId": "-oute"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " alles",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000268"
+                  ],
+                  "groupId": "gwg-v1-263947d553b6c91efdcea89e7a0e6da1ad36b811f3bbe808efedda93749c1660",
+                  "lexiconEntryId": "-pas"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", was "
+          },
+          {
+            "type": "text",
+            "text": "das Lebewesen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000272",
+                    "grc-token-v1:8d4e8045aa99069a:000273"
+                  ],
+                  "groupId": "gwg-v1-ee95e500f1ded06929bf497300bfb836d4d12e804032b4d5504a0422f925788d"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " aufnimmt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000269",
+                    "grc-token-v1:8d4e8045aa99069a:000270",
+                    "grc-token-v1:8d4e8045aa99069a:000271"
+                  ],
+                  "groupId": "gwg-v1-6341d8859263783c6618a8c4b5954f08677200c62ba9999c37090b7c089e11ee"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "noch",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000274"
+                  ],
+                  "groupId": "gwg-v1-c6567cf80a29fa58ec9f497a38305ae5c9ad71d605a75965cf3ef93849ac5dfa",
+                  "lexiconEntryId": "-oute"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " jeder beliebige Teil davon",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000275",
+                    "grc-token-v1:8d4e8045aa99069a:000276",
+                    "grc-token-v1:8d4e8045aa99069a:000277",
+                    "grc-token-v1:8d4e8045aa99069a:000278"
+                  ],
+                  "groupId": "gwg-v1-b272644636be2da0af65947bfd69334c31385687926a3208a25a340024ede488"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " mit dem ernährten Körper",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000280",
+                    "grc-token-v1:8d4e8045aa99069a:000281",
+                    "grc-token-v1:8d4e8045aa99069a:000282",
+                    "grc-token-v1:8d4e8045aa99069a:000283"
+                  ],
+                  "groupId": "gwg-v1-3b367a34d43d4043a29df1a889aa1eeca0a1f4ff7e892fceff98096f4ba358e1"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " vermischt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000279",
+                    "grc-token-v1:8d4e8045aa99069a:000284",
+                    "grc-token-v1:8d4e8045aa99069a:000285"
+                  ],
+                  "groupId": "gwg-v1-493bfdca7dd4c7bc45c0d26ca3c93fd7e6c036dec774213ddf9ea7c089ffaf14"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "sondern",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000286"
+                  ],
+                  "groupId": "gwg-v1-8ac83867e0bcad025e4a20ca30b2ed318fe925db25d8cea6cfd7aab96ac90634"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " nur das",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000287",
+                    "grc-token-v1:8d4e8045aa99069a:000288",
+                    "grc-token-v1:8d4e8045aa99069a:000289"
+                  ],
+                  "groupId": "gwg-v1-381892cb1a9d2189dd6a2961b2c01ee4ed3f929e49d7ddd57896251f5edc528f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", was "
+          },
+          {
+            "type": "text",
+            "text": "durch die gesamte Verdauung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000290",
+                    "grc-token-v1:8d4e8045aa99069a:000291",
+                    "grc-token-v1:8d4e8045aa99069a:000292"
+                  ],
+                  "groupId": "gwg-v1-a1503fe86732d5042c6675396a5696df33b59cc4423e589d6b434725e93a8aa5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " gereinigt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000293"
+                  ],
+                  "groupId": "gwg-v1-592135add9d5427dd89406cb4ac09ea930fd9bd096e3ab9b4e91760d3a554fad"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000294"
+                  ],
+                  "groupId": "gwg-v1-5f5bb0f0d2b138f3f76eb982af1e47e0261a38211020d7f6dc5fd5fcca04b005"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " vollständig",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000296"
+                  ],
+                  "groupId": "gwg-v1-b625e443017b7adaf3ee20bcced4be7e5b695fd503b1eedfe5bcdf5911baed23"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " umgewandelt wurde",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000295"
+                  ],
+                  "groupId": "gwg-v1-b18a7888c1c713a5e6ba6814c0712e1fece86a97c0b4d923b30e8cc424eea0a6"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "um sich mit dem jeweiligen Körper zu vereinen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000297",
+                    "grc-token-v1:8d4e8045aa99069a:000298",
+                    "grc-token-v1:8d4e8045aa99069a:000299",
+                    "grc-token-v1:8d4e8045aa99069a:000300",
+                    "grc-token-v1:8d4e8045aa99069a:000301",
+                    "grc-token-v1:8d4e8045aa99069a:000302"
+                  ],
+                  "groupId": "gwg-v1-4125b10bbc357030e45de64581f4bc3df675b19d75812674a334c8d1fff256a6"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000303"
+                  ],
+                  "groupId": "gwg-v1-ed8067b5d037478f01135be2fd8320d172cc9159932f470ea835708a6750cfe4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " zu den ernährten Teilen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000304",
+                    "grc-token-v1:8d4e8045aa99069a:000305",
+                    "grc-token-v1:8d4e8045aa99069a:000306"
+                  ],
+                  "groupId": "gwg-v1-b4a456504a3af63145adc1897028c1649f7eb3ef42efb0d5f3254cdce2413cf1"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " passt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000307"
+                  ],
+                  "groupId": "gwg-v1-3f4cdcc7833544c7c19837e252545f5356586bc019d751a0a7b8d85b768b4141"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", dann "
+          },
+          {
+            "type": "text",
+            "text": "ist klar",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000308"
+                  ],
+                  "groupId": "gwg-v1-53f8dba11c6d8fefe33a9a9240f38f852ea42a474e7982b957af91e5bad5f9f1",
+                  "lexiconEntryId": "-eudelos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ": "
+          },
+          {
+            "type": "text",
+            "text": "Nichts Naturwidriges",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000310",
+                    "grc-token-v1:8d4e8045aa99069a:000311",
+                    "grc-token-v1:8d4e8045aa99069a:000312",
+                    "grc-token-v1:8d4e8045aa99069a:000313"
+                  ],
+                  "groupId": "gwg-v1-baef5f7ce31cdb0003c4a44bb0a18c0c1002acedb1b291dfd54697eec6203151"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " kann",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000316"
+                  ],
+                  "groupId": "gwg-v1-0e2678be95112ca2a59e2491d4bde100b3dfbfbf8a8658bd19650ef6d4d8a58d",
+                  "lexiconEntryId": "-an"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sich "
+          },
+          {
+            "type": "text",
+            "text": "je",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000315"
+                  ],
+                  "groupId": "gwg-v1-6887f85d366d0feb62fcde9a6f8c90c27442e94c612cffe7bcc4f98fe9b80f07"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " mit einem Körper",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000317"
+                  ],
+                  "groupId": "gwg-v1-5637b31e58107e80785f2d2c517537b30aba67f4d88f92b75f8f0d704a6b1438",
+                  "lexiconEntryId": "-houtos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " vereinen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000314"
+                  ],
+                  "groupId": "gwg-v1-3f18c1ca9407de3ed5eadf7fec1d275a494d240e26657c478f3d83340f559576"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "für den",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000318"
+                  ],
+                  "groupId": "gwg-v1-916960fa1abae9c04ec8431e2985da67bb720a57995a8039a1f0256d737c3ee7",
+                  "lexiconEntryId": "-hos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " es "
+          },
+          {
+            "type": "text",
+            "text": "keine",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000319"
+                  ],
+                  "groupId": "gwg-v1-0bab0be355659f04243334d21dad0e7074becd10552a17889c14167bf14e2eb0",
+                  "lexiconEntryId": "-ou"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " passende",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000322"
+                  ],
+                  "groupId": "gwg-v1-f047c2cf33c56447713354255e7ad96dd19cc78ce39b374979e1b0bec4a4228d"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000323"
+                  ],
+                  "groupId": "gwg-v1-1931382d7cc0f65830cfbc71c960866eaa99b69890f32a37b0add109856a3657"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " geeignete",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000324"
+                  ],
+                  "groupId": "gwg-v1-86e323709fd43f2ae747c380b5895ca997d77cf9df588479bd99bbbc93f0ea4d",
+                  "lexiconEntryId": "-katallelos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Nahrung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000321"
+                  ],
+                  "groupId": "gwg-v1-3124c71527b6ef0369f8ac3bf84d3d99f0845b22c064f95fc527f44ced867f65",
+                  "lexiconEntryId": "-trophe"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ist",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000320"
+                  ],
+                  "groupId": "gwg-v1-9baa8685f12e8abcbda4d031f7194500e1e55e451d5467896e9acf94e043d5fa"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Vielmehr",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000325"
+                  ],
+                  "groupId": "gwg-v1-a1606455c4bc72a90b76a2f95d45f478501e49a389ddf191d313907d0b4881d0"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " wird es "
+          },
+          {
+            "type": "text",
+            "text": "entweder",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000326"
+                  ],
+                  "groupId": "gwg-v1-f895b75ff790c787de16743898ac980d00ec00d4c7b96b69f1d7fa156b6f1b6f",
+                  "lexiconEntryId": "-etoi"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " schon aus dem Magen selbst",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000327",
+                    "grc-token-v1:8d4e8045aa99069a:000328",
+                    "grc-token-v1:8d4e8045aa99069a:000329",
+                    "grc-token-v1:8d4e8045aa99069a:000330"
+                  ],
+                  "groupId": "gwg-v1-7d185376b82af18aa4fe64a1cd84204c28dd495d9d96d6a54f5d2d0174e4ecca"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ausgeschieden",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000331"
+                  ],
+                  "groupId": "gwg-v1-93dc6ea96bdb119ea30f7987313df870225289645dd1351c34059de35622f518"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "bevor",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000332"
+                  ],
+                  "groupId": "gwg-v1-1152980c60b6bc3fb2e0f9f1650edaaa5d52eb1eab49bafcc30da4b61413b9df",
+                  "lexiconEntryId": "-prin"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " es "
+          },
+          {
+            "type": "text",
+            "text": "einen anderen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000333",
+                    "grc-token-v1:8d4e8045aa99069a:000334"
+                  ],
+                  "groupId": "gwg-v1-fa0b1b5ab514de638fbc8486bcb910161c5fbe03b374f2db7ba3af08f8b0e7ef"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "unverdauten",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000337"
+                  ],
+                  "groupId": "gwg-v1-5585d65aeef023ce86e97abd213887d35128fd6c85bbdadd1a7bca1933bce131"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000338"
+                  ],
+                  "groupId": "gwg-v1-5a4856cea79f91dfa3168bf4f9cbe0c394253832a9b3c52e8594e3c953bb119c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " verdorbenen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000339"
+                  ],
+                  "groupId": "gwg-v1-047ffdb2271b20a2ccda827280d0c5add13443197b2e50f4872e3dd6f0bba611",
+                  "lexiconEntryId": "-diaphtheiro"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Saft",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000336"
+                  ],
+                  "groupId": "gwg-v1-6c19be0762299ab4385c030fc92a8d21066060244cceba4f1ba743de34a5785e",
+                  "lexiconEntryId": "-chymos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " hervorbringt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000335"
+                  ],
+                  "groupId": "gwg-v1-9feb93f3ea8ac072bc267e4e88f24243bff9ccc3de6bdfa88753a32bee360af6",
+                  "lexiconEntryId": "-gennao"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "oder",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000340"
+                  ],
+                  "groupId": "gwg-v1-98d353caaa94cc945b79507754d5c59f6ce843a7c80c15ccfcaea3e346bc8da7"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " es "
+          },
+          {
+            "type": "text",
+            "text": "bleibt länger im Körper",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000341",
+                    "grc-token-v1:8d4e8045aa99069a:000342",
+                    "grc-token-v1:8d4e8045aa99069a:000343"
+                  ],
+                  "groupId": "gwg-v1-094c03fe5868cf08fb45121f44b8f759ad8eef217281c0db801664ff69240497"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und "
+          },
+          {
+            "type": "text",
+            "text": "verursacht",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000344"
+                  ],
+                  "groupId": "gwg-v1-ab103aedd70565021b8abe701f94676e6e89cbd1036959036013e9a4068e9faf"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ein Leiden",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000345"
+                  ],
+                  "groupId": "gwg-v1-4ebeeb54688c89e2fe8aa3d3d37d88c2baba196d41f196500afd4d7054486d64",
+                  "lexiconEntryId": "-pathos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " oder",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000346"
+                  ],
+                  "groupId": "gwg-v1-5ab9a467efb09ec568a811a622e02fd7c2c3536c00468e113aa97ca90045095d"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " eine schwer heilbare Krankheit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000347",
+                    "grc-token-v1:8d4e8045aa99069a:000348"
+                  ],
+                  "groupId": "gwg-v1-b7c4718f894c337e28f7fbc6351a384129650f52fa4c41d323a797ed52ac116d"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", die "
+          },
+          {
+            "type": "text",
+            "text": "auch",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000350"
+                  ],
+                  "groupId": "gwg-v1-2447256146ac38cdd0ae886e748978016b93641399155e934a8f93f61f1d9409"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " die naturgemäße Nahrung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000351",
+                    "grc-token-v1:8d4e8045aa99069a:000352",
+                    "grc-token-v1:8d4e8045aa99069a:000353",
+                    "grc-token-v1:8d4e8045aa99069a:000354"
+                  ],
+                  "groupId": "gwg-v1-84be8de8df26f868b7ad1fd9d88fcb243f92d78cff9fababfde41b8bdb360eb5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " mit zersetzt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000349"
+                  ],
+                  "groupId": "gwg-v1-54ed19c8d0db03309692491bc7780e73e548d36f811469642fd308a7346fd300"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " oder",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000355"
+                  ],
+                  "groupId": "gwg-v1-33206486a06cc9241352ac6ca3d910d01d7e375283dda5ef9cc95c07339e1b8b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sogar",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000356"
+                  ],
+                  "groupId": "gwg-v1-5f10586351ca56cc6a1b9c75956791d1ae9e7b97a0be9e01c511c0de11f451d2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " das Fleisch selbst",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000357",
+                    "grc-token-v1:8d4e8045aa99069a:000358",
+                    "grc-token-v1:8d4e8045aa99069a:000362"
+                  ],
+                  "groupId": "gwg-v1-38d81c6a90d7332c07c98a44cd482ab8a6409ff784a6f4974d50277de5ffaa15"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "das Nahrung braucht",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000359",
+                    "grc-token-v1:8d4e8045aa99069a:000360",
+                    "grc-token-v1:8d4e8045aa99069a:000361"
+                  ],
+                  "groupId": "gwg-v1-9992545390b0fd9443e6ebfc049c14c502d32cc1bea8873f72528260934d4bb2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Aber",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000363"
+                  ],
+                  "groupId": "gwg-v1-9e171082df5258de0ff57e1b25410a0f55f4410f1bb75edfbe78609bd35d40ac"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " selbst wenn",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000364"
+                  ],
+                  "groupId": "gwg-v1-dbc5e71c40089b347538d03fd09055f47422c5472e1bcd439e3bf39e0284ac75",
+                  "lexiconEntryId": "-kan"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " es "
+          },
+          {
+            "type": "text",
+            "text": "einmal",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000366"
+                  ],
+                  "groupId": "gwg-v1-910976cf19b8f401dee787f9e2b6d0a41ad5de9b723c532b8eca1e8c2fdea25e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " durch gewisse Arzneien",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000367",
+                    "grc-token-v1:8d4e8045aa99069a:000368"
+                  ],
+                  "groupId": "gwg-v1-e7421f73b41d67e21f8250ff6e87905ff93ac9e6bf3f5e6726db6cbf3a1681b4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " oder",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000369"
+                  ],
+                  "groupId": "gwg-v1-620c8aa39f6a508f338bcb8df263f8778b654642f741673ad3879220eea0dbd2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " bessere Speisen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000370",
+                    "grc-token-v1:8d4e8045aa99069a:000371"
+                  ],
+                  "groupId": "gwg-v1-28978bec507e6fdad98fd5a8b6773216b8d44ee5c0c6ddcfc66fbcf462d0cf0e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ausgetrieben wird",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000365"
+                  ],
+                  "groupId": "gwg-v1-1c7f9ca0d1b9d50b3e6428ff8d27f3ce91b0b4ffa82cc9b268dc64176f0842fa"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " oder",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000372"
+                  ],
+                  "groupId": "gwg-v1-a7db22f415fc1fdd285bd83a229f81fe6181ff4a9af7658e4d1f73c512120784"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " von den natürlichen Kräften",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000373",
+                    "grc-token-v1:8d4e8045aa99069a:000374",
+                    "grc-token-v1:8d4e8045aa99069a:000375"
+                  ],
+                  "groupId": "gwg-v1-c2f88d4d1fde8d44a3247249fc292ace99bc03211c9a740059b4409f18b1d3fa"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " überwunden und so ausgeschieden wird",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000376"
+                  ],
+                  "groupId": "gwg-v1-42c3bbb04df0f5c9327974992006a5898a98a23f1f910f365670b2f53dee81eb"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "fließt es",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000380"
+                  ],
+                  "groupId": "gwg-v1-14d10a8df876183dc061a70697032647345d234016179ac112b7c68c9b9997d7"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " nicht ohne erheblichen Schaden",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000377",
+                    "grc-token-v1:8d4e8045aa99069a:000378",
+                    "grc-token-v1:8d4e8045aa99069a:000379",
+                    "grc-token-v1:8d4e8045aa99069a:000381",
+                    "grc-token-v1:8d4e8045aa99069a:000382"
+                  ],
+                  "groupId": "gwg-v1-a7eb108b978c2909860869a17d88f4c5f245525a9bdc9e191c0eb8d5c12aff1c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ab, "
+          },
+          {
+            "type": "text",
+            "text": "weil",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000383"
+                  ],
+                  "groupId": "gwg-v1-9b543dc9244eca0e5674d0ca9bf5c333b170394f072bd417fe94f31d32e9f7d2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " es "
+          },
+          {
+            "type": "text",
+            "text": "dem Naturgemäßen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000386",
+                    "grc-token-v1:8d4e8045aa99069a:000387",
+                    "grc-token-v1:8d4e8045aa99069a:000388"
+                  ],
+                  "groupId": "gwg-v1-73b69e0c4e4025ef62524a84bf2d13eee2e1f23c0666b6fe8f2dd96a8973dd17"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " keinen Frieden",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000384",
+                    "grc-token-v1:8d4e8045aa99069a:000389"
+                  ],
+                  "groupId": "gwg-v1-0d44157487b8883d9bfd0d9f10fb54e245dae95beb3f9718242daae9bd27d906"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " bringt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000385"
+                  ],
+                  "groupId": "gwg-v1-6798963591322a343999d67ecd1407198eb1eb5a72894afead2cb4b4e9a7d464",
+                  "lexiconEntryId": "-phero"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "da",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000390",
+                    "grc-token-v1:8d4e8045aa99069a:000391"
+                  ],
+                  "groupId": "gwg-v1-26cbb6505d3d59ce569bc9565ce0f82c978599a6ea33ff77cad0c66f9b4b3ff5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " es sich "
+          },
+          {
+            "type": "text",
+            "text": "mit der Natur",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000392",
+                    "grc-token-v1:8d4e8045aa99069a:000393",
+                    "grc-token-v1:8d4e8045aa99069a:000394"
+                  ],
+                  "groupId": "gwg-v1-58ba86962aba17bf1a9dd882e82598f605f47df6214f0cd3039670672a27f6a9"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " nicht vermischen lässt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:8d4e8045aa99069a:000395"
+                  ],
+                  "groupId": "gwg-v1-8a36b0a0ed6a8c8a31614b1a5218aa218a7f65e481575a17eb68cecc42e7de95"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [],
+  "footnotes": []
+}

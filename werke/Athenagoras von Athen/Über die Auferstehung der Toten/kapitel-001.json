@@ -1,0 +1,3566 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "7d89d74d-df95-4c6b-7d58-08df134d0ace",
+  "chapterId": "39a36462-3788-49ac-a8ed-08df134d0b15",
+  "number": 1,
+  "title": "Kapitel 1",
+  "workTitle": "Über die Auferstehung der Toten",
+  "authorName": "Athenagoras von Athen",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/athenagoras/ueber-die-auferstehung-der-toten#kapitel-39a36462-3788-49ac-a8ed-08df134d0b15",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:3021f20360ce7007f1da8dd43eac9aad4d25432e44f5bc682faf561a60a79872",
+  "plainText": "Neben jeder Lehre und jeder Darlegung, die sich an die Wahrheit ihres Gegenstands hält, wächst eine Unwahrheit empor. Sie wächst aber nicht naturgemäß aus einem zugrunde liegenden Prinzip oder aus dem Wesensgrund der jeweiligen Sache empor, sondern wird von denen eifrig gefördert, die die gesetzlose Saat in Ehren halten, um die Wahrheit zu verderben. Das lässt sich zunächst an denen erkennen, die sich schon früher eingehend mit diesen Fragen beschäftigt haben, und an ihrem Streit mit ihren Vorgängern und Zeitgenossen, nicht zuletzt aber an der Verwirrung in den gegenwärtigen Auseinandersetzungen selbst. Denn solche Leute haben keine Wahrheit von ihrer Verleumdung verschont: weder das Sein Gottes noch sein Wissen noch sein Wirken noch das, was sich daraus folgerichtig ergibt und uns die Lehre von der Gottesverehrung umreißt. Vielmehr verwerfen die einen die Wahrheit in diesen Fragen ganz und gar, die anderen verdrehen sie ihrer eigenen Meinung gemäß, und wieder andere machen es sich zur Gewohnheit, selbst bei offenkundigen Dingen Bedenken zu erheben. Deshalb brauchen meines Erachtens diejenigen, die sich mit diesen Fragen abmühen, zweierlei Darlegungen: solche zur Verteidigung der Wahrheit und solche über die Wahrheit. Die Darlegungen zur Verteidigung der Wahrheit richten sich an die, die nicht glauben oder zweifeln, die Darlegungen über die Wahrheit an die, die einsichtig sind und die Wahrheit wohlwollend annehmen. Darum müssen diejenigen, die diese Fragen untersuchen wollen, bedenken, was jeweils gebraucht wird, und ihre Darlegungen daran bemessen sowie deren Reihenfolge dem jeweiligen Bedarf anpassen. Sie dürfen nicht, um den Anschein zu erwecken, immer denselben Anfang beizubehalten, das Angemessene und den Platz vernachlässigen, der jeder Darlegung zukommt. Denn für die Beweisführung und die natürliche Gedankenfolge haben die Darlegungen über die Wahrheit stets Vorrang vor den Darlegungen zu ihrer Verteidigung. Geht es aber darum, was dringender gebraucht wird, stehen umgekehrt die Darlegungen zu ihrer Verteidigung vor den Darlegungen über sie. Denn ein Bauer kann die Samen nicht richtig in die Erde säen, ohne zuvor den Wildwuchs und alles entfernt zu haben, was den ausgesäten Samen der Nutzpflanzen schadet. Ebenso wenig kann ein Arzt einem behandlungsbedürftigen Körper ein Heilmittel verabreichen, ohne ihn zuvor von dem vorhandenen Übel gereinigt oder dessen Nachströmen aufgehalten zu haben. Ebenso wenig kann jemand, der die Wahrheit lehren will, durch Darlegungen über die Wahrheit jemanden überzeugen, solange irgendein Irrtum im Denken der Zuhörer haust und den Darlegungen Widerstand leistet. Deshalb stellen auch wir bisweilen die Darlegungen zur Verteidigung der Wahrheit vor die Darlegungen über die Wahrheit, weil wir darauf achten, was dringender gebraucht wird. Auch jetzt scheint es uns nicht unnütz, bei den Darlegungen über die Auferstehung ebenso vorzugehen, wenn wir bedenken, was erforderlich ist. Denn auch hierbei finden wir Menschen, die überhaupt nicht glauben, andere, die zweifeln, und selbst unter denen, die die grundlegenden Voraussetzungen angenommen haben, einige, die ebenso ratlos sind wie die Zweifelnden. Das Widersinnigste von allem aber ist, dass es ihnen so ergeht, obwohl sie aus der Sache selbst keinerlei Anlass zum Unglauben haben und auch keinen vernünftigen Grund angeben können, weshalb sie nicht glauben oder ratlos sind.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Neben "
+          },
+          {
+            "type": "text",
+            "text": "jeder Lehre",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000001",
+                    "grc-token-v1:59e4e14dcd2280f5:000002"
+                  ],
+                  "groupId": "gwg-v1-35d1f279ae4017137e9fb1e2f8ebf021ad1e508446b7084cd5b2a00c8e3b90c0"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und "
+          },
+          {
+            "type": "text",
+            "text": "jeder Darlegung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000004"
+                  ],
+                  "groupId": "gwg-v1-ed35e6c6331a92b5788dce7b47714ae426cff3d474033fe7552c55d0162d57a8",
+                  "lexiconEntryId": "-logos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", die sich an "
+          },
+          {
+            "type": "text",
+            "text": "die Wahrheit ihres Gegenstands",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000005",
+                    "grc-token-v1:59e4e14dcd2280f5:000006",
+                    "grc-token-v1:59e4e14dcd2280f5:000007",
+                    "grc-token-v1:59e4e14dcd2280f5:000008"
+                  ],
+                  "groupId": "gwg-v1-84d9b76578d3b5fe337d5a164ebbce1fc5d8706ac64e725094c463dbd6d7538b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " hält, "
+          },
+          {
+            "type": "text",
+            "text": "wächst",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000010"
+                  ],
+                  "groupId": "gwg-v1-f2d92bab60325b7bd9942d3e60cb912e79d7d348d4645b4b502071babdc62825"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "eine Unwahrheit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000011",
+                    "grc-token-v1:59e4e14dcd2280f5:000012"
+                  ],
+                  "groupId": "gwg-v1-39d85a2323e4786f8d80e77ec05d6b382f7a1bf23675fc9311e894fc0eef2892"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " empor. Sie "
+          },
+          {
+            "type": "text",
+            "text": "wächst",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000013"
+                  ],
+                  "groupId": "gwg-v1-012c995e45982d8f484a020bf7ed48fe87e58141ddd22f23f2c2cd6bd269748c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "aber",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000014"
+                  ],
+                  "groupId": "gwg-v1-f9b9a6bf65212ec690d52ce3e953c5af2f18a6837ee3b5efdb8d99bcc232901e",
+                  "lexiconEntryId": "-de-2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "nicht",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000015"
+                  ],
+                  "groupId": "gwg-v1-04df46d38ffb7ecf10a0014b512d59957e78eb14956ef52ce34fc1fedfb67a2d",
+                  "lexiconEntryId": "-ou"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "naturgemäß",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000020",
+                    "grc-token-v1:59e4e14dcd2280f5:000021"
+                  ],
+                  "groupId": "gwg-v1-903d0d2131beb7f26fff88d7b4efd640ca7efdf27a2c379b18dd2aa48cd6d345"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "aus einem zugrunde liegenden Prinzip",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000016",
+                    "grc-token-v1:59e4e14dcd2280f5:000017",
+                    "grc-token-v1:59e4e14dcd2280f5:000018",
+                    "grc-token-v1:59e4e14dcd2280f5:000019"
+                  ],
+                  "groupId": "gwg-v1-496d5281ee58eff3fcfe608e9b8e75a8ce0ca25f6f952da1f5a3fcfc93f19a2f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " oder aus "
+          },
+          {
+            "type": "text",
+            "text": "dem Wesensgrund der jeweiligen Sache",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000024",
+                    "grc-token-v1:59e4e14dcd2280f5:000025",
+                    "grc-token-v1:59e4e14dcd2280f5:000026",
+                    "grc-token-v1:59e4e14dcd2280f5:000027",
+                    "grc-token-v1:59e4e14dcd2280f5:000028",
+                    "grc-token-v1:59e4e14dcd2280f5:000029",
+                    "grc-token-v1:59e4e14dcd2280f5:000030"
+                  ],
+                  "groupId": "gwg-v1-119d44131aef1249f1d3f01d61c04f9649a621dcc71fdaa9987466b5da4dcaee"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " empor, sondern wird "
+          },
+          {
+            "type": "text",
+            "text": "von denen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000032",
+                    "grc-token-v1:59e4e14dcd2280f5:000033"
+                  ],
+                  "groupId": "gwg-v1-455cc48ae4f2a0bd4e29beb3d0beb05a3964289fce5c5137eabc61416234ae16"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "eifrig gefördert",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000042"
+                  ],
+                  "groupId": "gwg-v1-839da6e29580bcb0a593c3381b282bbcd1a422a2f1256ca0af5d912fb130f5be",
+                  "lexiconEntryId": "-spoudazo"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", die "
+          },
+          {
+            "type": "text",
+            "text": "die gesetzlose Saat",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000034",
+                    "grc-token-v1:59e4e14dcd2280f5:000035",
+                    "grc-token-v1:59e4e14dcd2280f5:000036"
+                  ],
+                  "groupId": "gwg-v1-5f185bb8c999da2669e01ab4cf7401c9ed2ee5fcee09b7a9db052672b4425671"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "in Ehren halten",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000041"
+                  ],
+                  "groupId": "gwg-v1-e51e665527c8cdff85220a1f99985ad0b2badc60c76a3b5eb70a40a27d007f57"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", um "
+          },
+          {
+            "type": "text",
+            "text": "die Wahrheit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000039",
+                    "grc-token-v1:59e4e14dcd2280f5:000040"
+                  ],
+                  "groupId": "gwg-v1-a5b6e474cfc2776f673752d2cb4e5c2c77865c1135e44ec9a118e4b4a6418bcb"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "zu verderben",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000037",
+                    "grc-token-v1:59e4e14dcd2280f5:000038"
+                  ],
+                  "groupId": "gwg-v1-de8dfc7182b10285685138757d8e5ba7f06e3b28d70dbf15690bb7be726b4fc5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Das",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000043"
+                  ],
+                  "groupId": "gwg-v1-7ea33605f520cc3d47ecd6488a654af0abc08d799c5d7ab94e046bfca66d9df0",
+                  "lexiconEntryId": "-houtos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " lässt sich "
+          },
+          {
+            "type": "text",
+            "text": "zunächst",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000047"
+                  ],
+                  "groupId": "gwg-v1-14784c0abdb3e77bc27ba19fb617c27d6b318f934d76ed188ca0a7327b3e48a9",
+                  "lexiconEntryId": "-protos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " an denen "
+          },
+          {
+            "type": "text",
+            "text": "erkennen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000046"
+                  ],
+                  "groupId": "gwg-v1-a00a0d35a0eef6a177ad347379ff70d6a0250b988ebbafbf47d5286b8d37fa29",
+                  "lexiconEntryId": "-heurisko"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", die sich "
+          },
+          {
+            "type": "text",
+            "text": "schon früher",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000051"
+                  ],
+                  "groupId": "gwg-v1-09ed96fe0db069f99d28c8ae3af541c81f8139e674862c8247834feb15ddf099",
+                  "lexiconEntryId": "-palai"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "eingehend",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000056"
+                  ],
+                  "groupId": "gwg-v1-babf82645e6c4967ae314c64cc5845097e47c29eb3c5f91c6ca4792f60fe6b5c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "mit diesen Fragen beschäftigt haben",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000052",
+                    "grc-token-v1:59e4e14dcd2280f5:000053",
+                    "grc-token-v1:59e4e14dcd2280f5:000054",
+                    "grc-token-v1:59e4e14dcd2280f5:000055"
+                  ],
+                  "groupId": "gwg-v1-f695f5cd1e76a11c3196bff08daf69eb564ff2638a0f78adc2f9d727099035bf"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", und an "
+          },
+          {
+            "type": "text",
+            "text": "ihrem Streit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000058",
+                    "grc-token-v1:59e4e14dcd2280f5:000059",
+                    "grc-token-v1:59e4e14dcd2280f5:000069"
+                  ],
+                  "groupId": "gwg-v1-e9499036e09df923b95e843b3c04bf6885c739def89e053cd854d1120e2374de"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "mit ihren Vorgängern",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000060",
+                    "grc-token-v1:59e4e14dcd2280f5:000062",
+                    "grc-token-v1:59e4e14dcd2280f5:000063",
+                    "grc-token-v1:59e4e14dcd2280f5:000064"
+                  ],
+                  "groupId": "gwg-v1-7fdf77680fe69bad050e7b1b5423fea79da14b0454b92f0c68103cd34727abe1"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und "
+          },
+          {
+            "type": "text",
+            "text": "Zeitgenossen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000066",
+                    "grc-token-v1:59e4e14dcd2280f5:000067"
+                  ],
+                  "groupId": "gwg-v1-552678eb77d41861818ef70f22f891e4b92d295d3a7d71f0221a1a460205b9e3"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "nicht zuletzt aber",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000070",
+                    "grc-token-v1:59e4e14dcd2280f5:000071",
+                    "grc-token-v1:59e4e14dcd2280f5:000072"
+                  ],
+                  "groupId": "gwg-v1-862b5ccc9768e3c0dae6c62bcc2c6601ef938ed0c8bf6ce8c0b03dc342e8abc5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " an "
+          },
+          {
+            "type": "text",
+            "text": "der Verwirrung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000075",
+                    "grc-token-v1:59e4e14dcd2280f5:000080"
+                  ],
+                  "groupId": "gwg-v1-2624f1ad339b1c05a1fd7192ab6ef13db0528ce3356470061887c31c7c137233"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "in den gegenwärtigen Auseinandersetzungen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000076",
+                    "grc-token-v1:59e4e14dcd2280f5:000077",
+                    "grc-token-v1:59e4e14dcd2280f5:000078",
+                    "grc-token-v1:59e4e14dcd2280f5:000079"
+                  ],
+                  "groupId": "gwg-v1-e4b12cf349409f1a5cd8296ed546f69dceb07613c53214b348d918782908e335"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "selbst",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000074"
+                  ],
+                  "groupId": "gwg-v1-7c6517e2959bc71a4ac9c86c81bba3c276d151f4401ca25896424ecc11c8747f",
+                  "lexiconEntryId": "-autos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Denn",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000082"
+                  ],
+                  "groupId": "gwg-v1-da41c313a2d0f3ee3882dd81bb01c13f1fc176ce399cb01918f7d6a8f994a334",
+                  "lexiconEntryId": "-gar"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "solche Leute",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000085",
+                    "grc-token-v1:59e4e14dcd2280f5:000086"
+                  ],
+                  "groupId": "gwg-v1-1e7225e7fa6d35000eec22671f40187a3ff4453b3da9121214e0df4a57d825d3"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " haben "
+          },
+          {
+            "type": "text",
+            "text": "keine Wahrheit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000081",
+                    "grc-token-v1:59e4e14dcd2280f5:000083",
+                    "grc-token-v1:59e4e14dcd2280f5:000084"
+                  ],
+                  "groupId": "gwg-v1-d6165fb7e6575a28c4fb9bc74faf9ab836d5835125d93f903275977ac51f99be"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "von ihrer Verleumdung verschont",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000087",
+                    "grc-token-v1:59e4e14dcd2280f5:000088"
+                  ],
+                  "groupId": "gwg-v1-b25411f0a7aa3f61fe466cf36fbcaa086b9ed9903f4deea05324147dc39f2b14"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ": weder "
+          },
+          {
+            "type": "text",
+            "text": "das Sein Gottes",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000090",
+                    "grc-token-v1:59e4e14dcd2280f5:000091",
+                    "grc-token-v1:59e4e14dcd2280f5:000092",
+                    "grc-token-v1:59e4e14dcd2280f5:000093"
+                  ],
+                  "groupId": "gwg-v1-15e79d95043b16fc8dbb973a6d7a861add3774b86ba0dc7a66b42007c3ac6fcf"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " noch "
+          },
+          {
+            "type": "text",
+            "text": "sein Wissen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000095",
+                    "grc-token-v1:59e4e14dcd2280f5:000096"
+                  ],
+                  "groupId": "gwg-v1-03dd548836f2af63c984dc6e7eb1e151889d710078ad63513b695298849ad271"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " noch "
+          },
+          {
+            "type": "text",
+            "text": "sein Wirken",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000098",
+                    "grc-token-v1:59e4e14dcd2280f5:000099"
+                  ],
+                  "groupId": "gwg-v1-755fac8399ed017f4d2cddd875bd621f3b42f62db9f070207d5c43c0a5a2394a"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " noch "
+          },
+          {
+            "type": "text",
+            "text": "das, was sich daraus folgerichtig ergibt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000101",
+                    "grc-token-v1:59e4e14dcd2280f5:000102",
+                    "grc-token-v1:59e4e14dcd2280f5:000103",
+                    "grc-token-v1:59e4e14dcd2280f5:000104",
+                    "grc-token-v1:59e4e14dcd2280f5:000105",
+                    "grc-token-v1:59e4e14dcd2280f5:000106"
+                  ],
+                  "groupId": "gwg-v1-0f4de0c4d2d0f3c11bc566cc5c542dab1bbaadcc498f460ae8a81e96b2de959c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und "
+          },
+          {
+            "type": "text",
+            "text": "uns",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000111"
+                  ],
+                  "groupId": "gwg-v1-930ddb6262ce97b7452fbc0aa4898a72a2083466ee9a66864728778733e7b5cc",
+                  "lexiconEntryId": "-ego"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "die Lehre von der Gottesverehrung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000108",
+                    "grc-token-v1:59e4e14dcd2280f5:000109",
+                    "grc-token-v1:59e4e14dcd2280f5:000110",
+                    "grc-token-v1:59e4e14dcd2280f5:000113"
+                  ],
+                  "groupId": "gwg-v1-fc8016c89d877c7403f4c2e52416706d33915a9a4cfb9124dc1a2fbd3bd66c52"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "umreißt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000112"
+                  ],
+                  "groupId": "gwg-v1-42e64e4eb9d97c5a2a292ab901462916c3261de50b818df722a61ee6382221a6"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Vielmehr "
+          },
+          {
+            "type": "text",
+            "text": "verwerfen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000120"
+                  ],
+                  "groupId": "gwg-v1-1dfe11069939090b24887ca52bc46e481c5ec5fde4d65524ae519ed7ce43f9a2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "die einen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000115",
+                    "grc-token-v1:59e4e14dcd2280f5:000116"
+                  ],
+                  "groupId": "gwg-v1-877ffd11a4c9e2ca2edd2601ee0e13117185ee199450772aecf24e8bbd865e40"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "die Wahrheit in diesen Fragen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000121",
+                    "grc-token-v1:59e4e14dcd2280f5:000122",
+                    "grc-token-v1:59e4e14dcd2280f5:000123",
+                    "grc-token-v1:59e4e14dcd2280f5:000124"
+                  ],
+                  "groupId": "gwg-v1-5cea87b8f5511270fbf40740203e894e2ec6fd5bc6d4741dd8970d95e2d7a0f0"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "ganz und gar",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000117",
+                    "grc-token-v1:59e4e14dcd2280f5:000118",
+                    "grc-token-v1:59e4e14dcd2280f5:000119"
+                  ],
+                  "groupId": "gwg-v1-4f6ec3209fecf2eb585b44829c89a43f9c811d9da3a6a7390cf3ac96ffdb850b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "die anderen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000125",
+                    "grc-token-v1:59e4e14dcd2280f5:000126"
+                  ],
+                  "groupId": "gwg-v1-9dc296d83141a0398f6e94d7b23e19c73567b67622e6a6ad806b90b81200e7b6"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "verdrehen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000131"
+                  ],
+                  "groupId": "gwg-v1-52ef1009360bc354ac4ae3fa3a6177c44c980cebd3d947c93065c10b9a7eed15"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sie "
+          },
+          {
+            "type": "text",
+            "text": "ihrer eigenen Meinung gemäß",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000127",
+                    "grc-token-v1:59e4e14dcd2280f5:000128",
+                    "grc-token-v1:59e4e14dcd2280f5:000129",
+                    "grc-token-v1:59e4e14dcd2280f5:000130"
+                  ],
+                  "groupId": "gwg-v1-142889477d58d38bca9212c60b5135d32308855361f62f94c23d3469dec5ba34"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", und "
+          },
+          {
+            "type": "text",
+            "text": "wieder andere",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000132",
+                    "grc-token-v1:59e4e14dcd2280f5:000133"
+                  ],
+                  "groupId": "gwg-v1-cbc432e5a1a2aa40cb3c47490768f1c705c11af6dccadd21aafabcdbd8ca7439"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "machen es sich zur Gewohnheit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000139"
+                  ],
+                  "groupId": "gwg-v1-6b6adebb7ff889f522e4f2426f3de1a27920171168614e402733dd28f74df820"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "selbst bei offenkundigen Dingen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000134",
+                    "grc-token-v1:59e4e14dcd2280f5:000135",
+                    "grc-token-v1:59e4e14dcd2280f5:000136",
+                    "grc-token-v1:59e4e14dcd2280f5:000137"
+                  ],
+                  "groupId": "gwg-v1-2545b568d4b8cb0ccdf0c2f2d103907a2b406b1024e77d5bb68dc2c02067495d"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "Bedenken zu erheben",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000138"
+                  ],
+                  "groupId": "gwg-v1-ef6dffbd394702901e93132b73ea12ca92c5297a2f6b83d065e95d00954bff6b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Deshalb",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000140"
+                  ],
+                  "groupId": "gwg-v1-0f8834bc5044875a90b2b754fbc17bcc270e847b59b4de4776d681b1961541da",
+                  "lexiconEntryId": "-hothen"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "brauchen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000142"
+                  ],
+                  "groupId": "gwg-v1-0b5c9bd7f6de4702340fdf231ca79e4896ec4615c62e40b68230a793f32e8623"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "meines Erachtens",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000141"
+                  ],
+                  "groupId": "gwg-v1-4a227966173db5c5a154f12acc3c9763697d0b3b4e820e43e63f23ed864593c6",
+                  "lexiconEntryId": "-oiomai"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "diejenigen, die sich mit diesen Fragen abmühen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000143",
+                    "grc-token-v1:59e4e14dcd2280f5:000144",
+                    "grc-token-v1:59e4e14dcd2280f5:000145",
+                    "grc-token-v1:59e4e14dcd2280f5:000146"
+                  ],
+                  "groupId": "gwg-v1-be96d427f1137b7b9875b5b2281d6c2e76c8de141dd029ae93fe6b59348ae581"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "zweierlei Darlegungen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000147",
+                    "grc-token-v1:59e4e14dcd2280f5:000148"
+                  ],
+                  "groupId": "gwg-v1-0ccec3d8caf99cd326e4547eaec362e4a58e1d89093fb3d9d2e97422863f9acc"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ": "
+          },
+          {
+            "type": "text",
+            "text": "solche zur Verteidigung der Wahrheit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000149",
+                    "grc-token-v1:59e4e14dcd2280f5:000150",
+                    "grc-token-v1:59e4e14dcd2280f5:000151",
+                    "grc-token-v1:59e4e14dcd2280f5:000152",
+                    "grc-token-v1:59e4e14dcd2280f5:000153"
+                  ],
+                  "groupId": "gwg-v1-0182e761b858b29f4127e63c855da7c98e574f56169b3f44403edaee7cd9b9fe"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und "
+          },
+          {
+            "type": "text",
+            "text": "solche über die Wahrheit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000154",
+                    "grc-token-v1:59e4e14dcd2280f5:000155",
+                    "grc-token-v1:59e4e14dcd2280f5:000156",
+                    "grc-token-v1:59e4e14dcd2280f5:000157",
+                    "grc-token-v1:59e4e14dcd2280f5:000158"
+                  ],
+                  "groupId": "gwg-v1-84adc3444b0e863b7e31e783f34eb7eb1554555b0418d0f1ffe02de96c304bd8"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Die Darlegungen zur Verteidigung der Wahrheit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000160",
+                    "grc-token-v1:59e4e14dcd2280f5:000161",
+                    "grc-token-v1:59e4e14dcd2280f5:000162",
+                    "grc-token-v1:59e4e14dcd2280f5:000163",
+                    "grc-token-v1:59e4e14dcd2280f5:000164"
+                  ],
+                  "groupId": "gwg-v1-f165be5c10da5ccf5d7f8b484558f73ea063d3a4c36567683edeaf92d3ff5d75"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " richten sich "
+          },
+          {
+            "type": "text",
+            "text": "an die, die nicht glauben",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000165",
+                    "grc-token-v1:59e4e14dcd2280f5:000166",
+                    "grc-token-v1:59e4e14dcd2280f5:000167"
+                  ],
+                  "groupId": "gwg-v1-ed728973ec1a07eb47be0e772291d0899cbec28f5a9f1923a4cdcf4615341846"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " oder "
+          },
+          {
+            "type": "text",
+            "text": "zweifeln",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000169",
+                    "grc-token-v1:59e4e14dcd2280f5:000170"
+                  ],
+                  "groupId": "gwg-v1-70319463b35effb13e543fa8c54517f4b95c2109eca53146a9a350ab3c925760"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "die Darlegungen über die Wahrheit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000171",
+                    "grc-token-v1:59e4e14dcd2280f5:000172",
+                    "grc-token-v1:59e4e14dcd2280f5:000173",
+                    "grc-token-v1:59e4e14dcd2280f5:000174",
+                    "grc-token-v1:59e4e14dcd2280f5:000175"
+                  ],
+                  "groupId": "gwg-v1-73faf399b09d236821dc3a076eb289e733f4476173ddb74e2269114aeac1b83a"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "an die, die einsichtig sind",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000176",
+                    "grc-token-v1:59e4e14dcd2280f5:000177",
+                    "grc-token-v1:59e4e14dcd2280f5:000178"
+                  ],
+                  "groupId": "gwg-v1-81e70ba192cb18d59a313032dc71e0eddaab735a6412d59bc75c838b4b154d1c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und "
+          },
+          {
+            "type": "text",
+            "text": "die Wahrheit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000183",
+                    "grc-token-v1:59e4e14dcd2280f5:000184"
+                  ],
+                  "groupId": "gwg-v1-584b0d008d212298e0314177c989c353e07e8cac369e6476bc753a266d503d14"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "wohlwollend",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000180",
+                    "grc-token-v1:59e4e14dcd2280f5:000181"
+                  ],
+                  "groupId": "gwg-v1-9b6f6bdf03729c6fd7bd72e197e86aa7dd83409cc1d69ab2b07f1c6f688e9fd6"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "annehmen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000182"
+                  ],
+                  "groupId": "gwg-v1-82ddef2f95487448a88103eb7d7120844a92d7a3123cd2cc2d1930137bb7e186",
+                  "lexiconEntryId": "-dechomai"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Darum",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000185",
+                    "grc-token-v1:59e4e14dcd2280f5:000186"
+                  ],
+                  "groupId": "gwg-v1-1b06e57ac76782b7443791ec8616b3be70804d4f1caacab6568a703dfabc6ead"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "müssen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000187"
+                  ],
+                  "groupId": "gwg-v1-467fbe3d4ff3ee35e3f75af8a5e540486d188a611fd8eb2a4decf59fdad969db",
+                  "lexiconEntryId": "-chre"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "diejenigen, die diese Fragen untersuchen wollen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000188",
+                    "grc-token-v1:59e4e14dcd2280f5:000189",
+                    "grc-token-v1:59e4e14dcd2280f5:000190",
+                    "grc-token-v1:59e4e14dcd2280f5:000191",
+                    "grc-token-v1:59e4e14dcd2280f5:000192"
+                  ],
+                  "groupId": "gwg-v1-8f786430d490c7b907fc53b59e2237798e4309e38df31051b41b6dfe5f72f83f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "bedenken",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000197"
+                  ],
+                  "groupId": "gwg-v1-c4e5c37b155b8608f560b89cbba36209d332679fda3b5dc9cef800d0390f5181",
+                  "lexiconEntryId": "-skopeo"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "was jeweils gebraucht wird",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000193",
+                    "grc-token-v1:59e4e14dcd2280f5:000194",
+                    "grc-token-v1:59e4e14dcd2280f5:000195",
+                    "grc-token-v1:59e4e14dcd2280f5:000196"
+                  ],
+                  "groupId": "gwg-v1-d18fcbdc50485e44beef6b6e6d80a4b70edb5d724c8c9afe0255b8f6fda95c62"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", und "
+          },
+          {
+            "type": "text",
+            "text": "ihre Darlegungen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000200",
+                    "grc-token-v1:59e4e14dcd2280f5:000201"
+                  ],
+                  "groupId": "gwg-v1-01c2276a833f3dd69a05493bf5a517cd1f3fbad998ee7f5a8720a0552c8cf736"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "daran",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000199"
+                  ],
+                  "groupId": "gwg-v1-1d133292a488bd13eb822d2009224c0528e8a6a6bafa37453de93df242b6aad6",
+                  "lexiconEntryId": "-houtos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "bemessen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000202"
+                  ],
+                  "groupId": "gwg-v1-e82a0374974b4d3423422aed675fc0f442bf5b6f3f2bc45b4be0971f772665ea"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sowie "
+          },
+          {
+            "type": "text",
+            "text": "deren Reihenfolge",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000203",
+                    "grc-token-v1:59e4e14dcd2280f5:000205",
+                    "grc-token-v1:59e4e14dcd2280f5:000206",
+                    "grc-token-v1:59e4e14dcd2280f5:000207"
+                  ],
+                  "groupId": "gwg-v1-011f7261cf37a1733149f9ca1c9147250d8bc49c19a10d368b140e4ebd899591"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "dem jeweiligen Bedarf",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000209",
+                    "grc-token-v1:59e4e14dcd2280f5:000210",
+                    "grc-token-v1:59e4e14dcd2280f5:000211"
+                  ],
+                  "groupId": "gwg-v1-00cf971dde4cb2e66835ed893c5b910d9c39f2030a43f3d20f1d97ae773efda1"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "anpassen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000208"
+                  ],
+                  "groupId": "gwg-v1-66e553caa96005c107077f886ef30bf29a4c01b84f454324afc692c8fe04099d"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Sie dürfen "
+          },
+          {
+            "type": "text",
+            "text": "nicht",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000213"
+                  ],
+                  "groupId": "gwg-v1-5ab467f7355eceaea168e06ec20c04cfed01b9f4e9c7b05a1ca6e0440c541de7"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "um den Anschein zu erwecken",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000214",
+                    "grc-token-v1:59e4e14dcd2280f5:000215"
+                  ],
+                  "groupId": "gwg-v1-5ee29078760d3bc5dacb627ee472daa7891dd40df0b8a3edf7b2548556992753"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "immer",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000218"
+                  ],
+                  "groupId": "gwg-v1-5e14badac946f9abc4543498970048f1b210e611dac16de25d54d9ae440f3f52",
+                  "lexiconEntryId": "-pantote"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "denselben Anfang",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000216",
+                    "grc-token-v1:59e4e14dcd2280f5:000217",
+                    "grc-token-v1:59e4e14dcd2280f5:000220"
+                  ],
+                  "groupId": "gwg-v1-2d5bdff72f69a6dcf74fb9ccf244d36f39a090cdf3dee965d4681e1464e86ab8"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "beizubehalten",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000219"
+                  ],
+                  "groupId": "gwg-v1-42baa3536871a752992fa844bd2f359d0bf59df919b7210b6900e1ba44a0a50a",
+                  "lexiconEntryId": "-phylatto"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "das Angemessene",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000222",
+                    "grc-token-v1:59e4e14dcd2280f5:000223"
+                  ],
+                  "groupId": "gwg-v1-0218d76e90b4318ce2c4b5b7b0484572753275345953051b604cdd173c09f528"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und "
+          },
+          {
+            "type": "text",
+            "text": "den Platz",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000225",
+                    "grc-token-v1:59e4e14dcd2280f5:000228"
+                  ],
+                  "groupId": "gwg-v1-c49784ef2f9d3d1d19a2ce23d7db4f1f78829d63406cc9db3dedd6c4a8500edf"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "vernachlässigen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000221"
+                  ],
+                  "groupId": "gwg-v1-e9918902b5f8038ae68a9ce28fc7c602e2295cd2656b4a2b386a3f9964cbfb49",
+                  "lexiconEntryId": "-ameleo"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", der "
+          },
+          {
+            "type": "text",
+            "text": "jeder Darlegung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000227"
+                  ],
+                  "groupId": "gwg-v1-4d870e5a7884b9170b2ab1f76539e2091aeeea554fbfd57513d4d05ff11c5ca3",
+                  "lexiconEntryId": "-hekastos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "zukommt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000226"
+                  ],
+                  "groupId": "gwg-v1-011a3673699cae44b228bee2efcdd21c27ad927f0539dfc14bb786dbaee200e2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Denn",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000231"
+                  ],
+                  "groupId": "gwg-v1-b6969904fcc75971c250f0eb058298520563888b2eff83577c89a4d309f998da",
+                  "lexiconEntryId": "-gar"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "für die Beweisführung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000232",
+                    "grc-token-v1:59e4e14dcd2280f5:000233"
+                  ],
+                  "groupId": "gwg-v1-97962665604b959fc5498805d45576ce7b3b8e9fe84fc19561cd68f93b5d5c7f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und "
+          },
+          {
+            "type": "text",
+            "text": "die natürliche Gedankenfolge",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000235",
+                    "grc-token-v1:59e4e14dcd2280f5:000236",
+                    "grc-token-v1:59e4e14dcd2280f5:000237"
+                  ],
+                  "groupId": "gwg-v1-e88db5aa086c38227ab1463c0267b8c51d1df111b2c6e5042e96f46bd4694c70"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " haben "
+          },
+          {
+            "type": "text",
+            "text": "die Darlegungen über die Wahrheit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000240",
+                    "grc-token-v1:59e4e14dcd2280f5:000241",
+                    "grc-token-v1:59e4e14dcd2280f5:000242",
+                    "grc-token-v1:59e4e14dcd2280f5:000243"
+                  ],
+                  "groupId": "gwg-v1-f1b9c31da0b242c20dc0cd16632e0122b9634c2ecb9492080b527bb9ac4ca09c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "stets",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000238"
+                  ],
+                  "groupId": "gwg-v1-455fa7bf400c753a88248c13f9daa91cf71051c46a295a1afcd05800c3bfb774",
+                  "lexiconEntryId": "-pantote"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "Vorrang",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000239"
+                  ],
+                  "groupId": "gwg-v1-5a9d0dee8bf26953025627137ce224556271aa365db58881009e48ced5887860"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " vor "
+          },
+          {
+            "type": "text",
+            "text": "den Darlegungen zu ihrer Verteidigung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000244",
+                    "grc-token-v1:59e4e14dcd2280f5:000245",
+                    "grc-token-v1:59e4e14dcd2280f5:000246"
+                  ],
+                  "groupId": "gwg-v1-be1a16dae4f27f6fd7ea84591678967311ef5b7aaf187195f903b93cf3e56722"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Geht es aber darum, was dringender gebraucht wird",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000247",
+                    "grc-token-v1:59e4e14dcd2280f5:000248",
+                    "grc-token-v1:59e4e14dcd2280f5:000249",
+                    "grc-token-v1:59e4e14dcd2280f5:000250",
+                    "grc-token-v1:59e4e14dcd2280f5:000251"
+                  ],
+                  "groupId": "gwg-v1-1003aaaa844dea9436d0898d1d4b23c756dd8b46f45cd1873cf58f5c3b9a697a"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", stehen "
+          },
+          {
+            "type": "text",
+            "text": "umgekehrt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000252"
+                  ],
+                  "groupId": "gwg-v1-c9a1a4d0b2ce03e040f98d32101d46f714bd94abcfd78e2fd2d0787c391f554e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "die Darlegungen zu ihrer Verteidigung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000253",
+                    "grc-token-v1:59e4e14dcd2280f5:000254",
+                    "grc-token-v1:59e4e14dcd2280f5:000255"
+                  ],
+                  "groupId": "gwg-v1-93ea0414b68866dc32c124cedb38be2ece4f6fdc6c83e1328c547d39c3b3cdd9"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " vor "
+          },
+          {
+            "type": "text",
+            "text": "den Darlegungen über sie",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000256",
+                    "grc-token-v1:59e4e14dcd2280f5:000257",
+                    "grc-token-v1:59e4e14dcd2280f5:000258"
+                  ],
+                  "groupId": "gwg-v1-b2818dbea6bb296873a66ec09e72afab7dfe661c5f89d7efa3829171fec72328"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Denn",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000260"
+                  ],
+                  "groupId": "gwg-v1-efb5ba3faab247b50d3df023fe2eb8256ebddd2edf4f4da74dcdafc8647240fb",
+                  "lexiconEntryId": "-gar"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "ein Bauer",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000261"
+                  ],
+                  "groupId": "gwg-v1-f213541eebfaa1099536dd1965819c215d171f82cb459cb6f09c4dd4fe1e89f1",
+                  "lexiconEntryId": "-georgos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "kann",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000262",
+                    "grc-token-v1:59e4e14dcd2280f5:000263"
+                  ],
+                  "groupId": "gwg-v1-de6801a120c4ac06954735bae05b6641359db329b2223e8c79f5867e019378c7"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "die Samen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000268",
+                    "grc-token-v1:59e4e14dcd2280f5:000269"
+                  ],
+                  "groupId": "gwg-v1-cd8ea791246b03aa7101aa6b3903d0897819cb0327cf39e5298f433ffd11228a"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "nicht",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000259"
+                  ],
+                  "groupId": "gwg-v1-277dcb6001d6b6498c978f0defb55f1845c6e9822c0c1ca7aab6ae3e649b9426",
+                  "lexiconEntryId": "-oute"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "richtig",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000264"
+                  ],
+                  "groupId": "gwg-v1-d9d7ef8e5b7d7a7d357757211f4a198b9c0ca9a2d17d59485ed465e657ac2f14",
+                  "lexiconEntryId": "-prosekontos"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "in die Erde",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000266",
+                    "grc-token-v1:59e4e14dcd2280f5:000267"
+                  ],
+                  "groupId": "gwg-v1-7ef6c6953dd16f8f8abb0d9e8b6cb7f123bc4f1b01aa556f37be8014b5bb47cb"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "säen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000265"
+                  ],
+                  "groupId": "gwg-v1-62b8df4af857db93a534a91c525a32eefda2694ef1519566708475f7591bfae4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "ohne zuvor",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000270"
+                  ],
+                  "groupId": "gwg-v1-f8b0a34b570c2154a0ff60eaefc9dbbd1aa356ea1c0a83551c208c1ab4e17b7b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "den Wildwuchs",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000272",
+                    "grc-token-v1:59e4e14dcd2280f5:000273",
+                    "grc-token-v1:59e4e14dcd2280f5:000274",
+                    "grc-token-v1:59e4e14dcd2280f5:000275"
+                  ],
+                  "groupId": "gwg-v1-1477066cbb8e9ccd0bb07f2dcd1c1789117a740c60ff5fbefd282f49afb579ac"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und "
+          },
+          {
+            "type": "text",
+            "text": "alles",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000277"
+                  ],
+                  "groupId": "gwg-v1-2b4ecad71f389f25ed7fd39cf195cd60985df357c15c76c8dda4e87014b8c152"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "entfernt zu haben",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000271"
+                  ],
+                  "groupId": "gwg-v1-b4f637d4df0b3bab8ab4f1312f2c26e6c4c43fae832d74c6524ead29b8a5b42f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", was "
+          },
+          {
+            "type": "text",
+            "text": "den ausgesäten Samen der Nutzpflanzen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000278",
+                    "grc-token-v1:59e4e14dcd2280f5:000279",
+                    "grc-token-v1:59e4e14dcd2280f5:000280",
+                    "grc-token-v1:59e4e14dcd2280f5:000281"
+                  ],
+                  "groupId": "gwg-v1-4906bc33db1f6e77ad77e6f220c7795d2e9cac1394c8c7e1266665e7ef061225"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "schadet",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000282"
+                  ],
+                  "groupId": "gwg-v1-04312b6bb17d618b4b8568e9f87bd557e3f8b79420b5f8be52e95119bc4c9229"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Ebenso wenig",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000283"
+                  ],
+                  "groupId": "gwg-v1-90dafe40ff8c17258ae2439ffe2d22b23616dc4d4c0dfcfc2337713ff572ef60",
+                  "lexiconEntryId": "-oute"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " kann "
+          },
+          {
+            "type": "text",
+            "text": "ein Arzt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000284"
+                  ],
+                  "groupId": "gwg-v1-4d55daa747349861daa33c536d4c6c9cf6a55800aaefeb843a7310d061098f50",
+                  "lexiconEntryId": "-iatros"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "einem behandlungsbedürftigen Körper",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000290",
+                    "grc-token-v1:59e4e14dcd2280f5:000291",
+                    "grc-token-v1:59e4e14dcd2280f5:000292",
+                    "grc-token-v1:59e4e14dcd2280f5:000293"
+                  ],
+                  "groupId": "gwg-v1-824faa85e0d2cb8fd7b5beac0ff846f5ce007b59503a97fa8114ad970a2b0b98"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "ein Heilmittel",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000286",
+                    "grc-token-v1:59e4e14dcd2280f5:000287",
+                    "grc-token-v1:59e4e14dcd2280f5:000288",
+                    "grc-token-v1:59e4e14dcd2280f5:000289"
+                  ],
+                  "groupId": "gwg-v1-63868b19904fb7d44bc329bbf5a6bdbfdabbbf39d55e4010e42fb143ce5bc24d"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "verabreichen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000285"
+                  ],
+                  "groupId": "gwg-v1-626ce4a04919a0130bf4679b7acea5723333f0710a4aa7469734df92f396c993"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", ohne ihn "
+          },
+          {
+            "type": "text",
+            "text": "zuvor",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000298"
+                  ],
+                  "groupId": "gwg-v1-d29ba834c8648de9fa00e1d861696223845e5bf3166339d9e4e00208a58229da"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " von "
+          },
+          {
+            "type": "text",
+            "text": "dem vorhandenen Übel",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000295",
+                    "grc-token-v1:59e4e14dcd2280f5:000296",
+                    "grc-token-v1:59e4e14dcd2280f5:000297"
+                  ],
+                  "groupId": "gwg-v1-3904b711bbb4eb7baf766c9cc86ec5ca8bbceab80edb635c31a8e60e7b061ff3"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "gereinigt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000298"
+                  ],
+                  "groupId": "gwg-v1-d29ba834c8648de9fa00e1d861696223845e5bf3166339d9e4e00208a58229da"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " oder "
+          },
+          {
+            "type": "text",
+            "text": "dessen Nachströmen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000300",
+                    "grc-token-v1:59e4e14dcd2280f5:000301"
+                  ],
+                  "groupId": "gwg-v1-40027beec3f9d785844a7a38ca58c86f61f030c0fa758c01ddb437f0a253ad9b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "aufgehalten",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000302"
+                  ],
+                  "groupId": "gwg-v1-96921fc55e8b1bcf8611364da1634032b31721b321c857794c100dfa30476e0c",
+                  "lexiconEntryId": "-epecho"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " zu haben. "
+          },
+          {
+            "type": "text",
+            "text": "Ebenso wenig",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000303",
+                    "grc-token-v1:59e4e14dcd2280f5:000304"
+                  ],
+                  "groupId": "gwg-v1-f39dfa0eaaecb693d3689a7408dbb6c6d91f3f052bb7f0fc3e14caa1143836f0"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "kann",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000315",
+                    "grc-token-v1:59e4e14dcd2280f5:000316"
+                  ],
+                  "groupId": "gwg-v1-b42d31d1ee7b812c028eb628f35e87d4d88796f2b8d662731e0258c70b009931"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " jemand, der "
+          },
+          {
+            "type": "text",
+            "text": "die Wahrheit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000306",
+                    "grc-token-v1:59e4e14dcd2280f5:000307"
+                  ],
+                  "groupId": "gwg-v1-6af35cddad88e11a7b0c15738ff4ceb0824e89dd0a97cbe425107e0daf619972"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "lehren",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000308"
+                  ],
+                  "groupId": "gwg-v1-7b05de502a2c726e353db0d4009ef7e25e419c4ffc19c511031d833268b3207f",
+                  "lexiconEntryId": "-didasko"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "will",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000309"
+                  ],
+                  "groupId": "gwg-v1-e986ba07bf3c78d3e09066fd95f78b4c6cf1029685dfcc672da9cd626737d79d"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", durch "
+          },
+          {
+            "type": "text",
+            "text": "Darlegungen über die Wahrheit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000310",
+                    "grc-token-v1:59e4e14dcd2280f5:000311",
+                    "grc-token-v1:59e4e14dcd2280f5:000312",
+                    "grc-token-v1:59e4e14dcd2280f5:000313"
+                  ],
+                  "groupId": "gwg-v1-a5a2e2f89e8bc30439552903e9b30f534bc4e51ad7883e6bc897b8455df0c228"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "jemanden",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000317"
+                  ],
+                  "groupId": "gwg-v1-0ce7dba2edffe32f10c8dfb2624acb9e8247518957589c70e2ba1e5abd1d0608"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "überzeugen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000314"
+                  ],
+                  "groupId": "gwg-v1-7e3f461b9b356186b6b70dcd9b8a9839a32d4d111071ecc40360a8ad85691272",
+                  "lexiconEntryId": "-peitho"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", solange "
+          },
+          {
+            "type": "text",
+            "text": "irgendein Irrtum",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000318",
+                    "grc-token-v1:59e4e14dcd2280f5:000319"
+                  ],
+                  "groupId": "gwg-v1-89e519d44145286ad7dcdb372a1f89f133589fdc010811c311db689360b7932f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "im Denken",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000321",
+                    "grc-token-v1:59e4e14dcd2280f5:000324"
+                  ],
+                  "groupId": "gwg-v1-345b3073b2f38bd7aac3cc55d005a3e6552d2760e6a8523cd33eed3c7ef0b4d3"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "der Zuhörer",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000322",
+                    "grc-token-v1:59e4e14dcd2280f5:000323"
+                  ],
+                  "groupId": "gwg-v1-78dab206913ff19a835c9351a2e306adbd01a6d65e5050aebfbcfbc63c3cc578"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "haust",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000320"
+                  ],
+                  "groupId": "gwg-v1-ba35663bc2d76b16ce0e62d25f1184988b5f4fad43bebdf0d1c1032f391fc518"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und "
+          },
+          {
+            "type": "text",
+            "text": "den Darlegungen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000326",
+                    "grc-token-v1:59e4e14dcd2280f5:000327"
+                  ],
+                  "groupId": "gwg-v1-d614786e385064e292df9c2935f46c243b7a993f9b83c34a1cdf58bc5396c75e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "Widerstand leistet",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000328"
+                  ],
+                  "groupId": "gwg-v1-367f4d740707c156fed559abc47d28d227d4558eaabdd65f0a1fbcf5b3db01af"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Deshalb",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000329"
+                  ],
+                  "groupId": "gwg-v1-635ae9e729a1d1c69b193c6eef39c01b07c1b32b68890b7b7fb64df213b3d6b9"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "stellen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000336"
+                  ],
+                  "groupId": "gwg-v1-b6af3ac42938760500346af10ef2564ec75589b2b427fdce8fdbfa5951cfd1ff"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "auch wir",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000334",
+                    "grc-token-v1:59e4e14dcd2280f5:000335"
+                  ],
+                  "groupId": "gwg-v1-7b8d2a12b0364e3a939b5a7a2a7af5a6ac8d1e0f44299803210aa48b8fc6a0a2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "bisweilen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000337",
+                    "grc-token-v1:59e4e14dcd2280f5:000338"
+                  ],
+                  "groupId": "gwg-v1-546e16ab341299a17d8714028294422637e57e9b64f75c1fd7568134f3ecbf56"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "die Darlegungen zur Verteidigung der Wahrheit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000339",
+                    "grc-token-v1:59e4e14dcd2280f5:000340",
+                    "grc-token-v1:59e4e14dcd2280f5:000341",
+                    "grc-token-v1:59e4e14dcd2280f5:000342",
+                    "grc-token-v1:59e4e14dcd2280f5:000343"
+                  ],
+                  "groupId": "gwg-v1-f8fb2b43caab095c9a25a4d107b6264b51088367f93c4bddf9fbf205ef028231"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " vor "
+          },
+          {
+            "type": "text",
+            "text": "die Darlegungen über die Wahrheit",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000344",
+                    "grc-token-v1:59e4e14dcd2280f5:000345",
+                    "grc-token-v1:59e4e14dcd2280f5:000346",
+                    "grc-token-v1:59e4e14dcd2280f5:000347"
+                  ],
+                  "groupId": "gwg-v1-eaed406ebc6420aca3243c72bc196e20ad852a6b7211ad600c48e4fc21ac81ea"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", weil wir "
+          },
+          {
+            "type": "text",
+            "text": "darauf achten, was dringender gebraucht wird",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000330",
+                    "grc-token-v1:59e4e14dcd2280f5:000331",
+                    "grc-token-v1:59e4e14dcd2280f5:000332",
+                    "grc-token-v1:59e4e14dcd2280f5:000333"
+                  ],
+                  "groupId": "gwg-v1-8f1b35a00ff567b0d0e885e5ee86188d3a4c1e01625383a25bad47dd8f04c55f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Auch jetzt",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000354",
+                    "grc-token-v1:59e4e14dcd2280f5:000355"
+                  ],
+                  "groupId": "gwg-v1-47c91c174fd73b7fd392bf514c37d04c5a21ee114d8aa838f5fa5dcb09492ac3"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "scheint",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000363"
+                  ],
+                  "groupId": "gwg-v1-093342e18489a382406e1951fd0334b0ea2428f51b4d4fd4f47fa11369782258",
+                  "lexiconEntryId": "-phaino"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " es uns "
+          },
+          {
+            "type": "text",
+            "text": "nicht unnütz",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000361",
+                    "grc-token-v1:59e4e14dcd2280f5:000362"
+                  ],
+                  "groupId": "gwg-v1-59b1838c22283be41f919d382d4cea2a5edfb5f6f9bed2596aeb370f3f244cb7"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "bei den Darlegungen über die Auferstehung",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000356",
+                    "grc-token-v1:59e4e14dcd2280f5:000357",
+                    "grc-token-v1:59e4e14dcd2280f5:000358",
+                    "grc-token-v1:59e4e14dcd2280f5:000359",
+                    "grc-token-v1:59e4e14dcd2280f5:000360"
+                  ],
+                  "groupId": "gwg-v1-844369913381bc9d45b106cc492068d327ded22bd0aef9f58f8d320b995cface"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "ebenso vorzugehen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000348",
+                    "grc-token-v1:59e4e14dcd2280f5:000349",
+                    "grc-token-v1:59e4e14dcd2280f5:000350",
+                    "grc-token-v1:59e4e14dcd2280f5:000352",
+                    "grc-token-v1:59e4e14dcd2280f5:000353"
+                  ],
+                  "groupId": "gwg-v1-db12ba6a429e89f0cce9ea57e04c4c837840e1bdfe3f4267fe9caac03955015f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", wenn wir "
+          },
+          {
+            "type": "text",
+            "text": "bedenken, was erforderlich ist",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000364",
+                    "grc-token-v1:59e4e14dcd2280f5:000365",
+                    "grc-token-v1:59e4e14dcd2280f5:000366"
+                  ],
+                  "groupId": "gwg-v1-ea17742ea440e8b1431d83b768990914475b555a2a0b9ebfd209eb645bf7a2e1"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Denn auch hierbei",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000367",
+                    "grc-token-v1:59e4e14dcd2280f5:000368",
+                    "grc-token-v1:59e4e14dcd2280f5:000369",
+                    "grc-token-v1:59e4e14dcd2280f5:000370"
+                  ],
+                  "groupId": "gwg-v1-c4a9701dea5570c3494562752ce583eae03fc3e8b2d0b975365ee87eaa2650fb"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "finden wir",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000371"
+                  ],
+                  "groupId": "gwg-v1-6581e29341ba44d9fc2e0489300e3e83976e7b8030023911d3f48c00c31f7b2a"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "Menschen, die überhaupt nicht glauben",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000372",
+                    "grc-token-v1:59e4e14dcd2280f5:000373",
+                    "grc-token-v1:59e4e14dcd2280f5:000374",
+                    "grc-token-v1:59e4e14dcd2280f5:000375"
+                  ],
+                  "groupId": "gwg-v1-b9d4592babd676381a9dd897e7388a07519886c09efd847966f18ce28bd5af5c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "andere, die zweifeln",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000376",
+                    "grc-token-v1:59e4e14dcd2280f5:000377",
+                    "grc-token-v1:59e4e14dcd2280f5:000378"
+                  ],
+                  "groupId": "gwg-v1-55884b36b2b3c8c1539216edb2897852703a4094f7b0f72edac35e91f1b4e197"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", und "
+          },
+          {
+            "type": "text",
+            "text": "selbst unter denen, die die grundlegenden Voraussetzungen angenommen haben",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000380",
+                    "grc-token-v1:59e4e14dcd2280f5:000381",
+                    "grc-token-v1:59e4e14dcd2280f5:000382",
+                    "grc-token-v1:59e4e14dcd2280f5:000383",
+                    "grc-token-v1:59e4e14dcd2280f5:000384",
+                    "grc-token-v1:59e4e14dcd2280f5:000385"
+                  ],
+                  "groupId": "gwg-v1-93ee01d0e63592936e2191e7de6b114744afc95efb6d5315c4c12de20b286cd4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "einige",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000386"
+                  ],
+                  "groupId": "gwg-v1-496fb8fa4105ca7f36220a1a39a409190aef0cddae1e9c66ada0502d0913f4c5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", die "
+          },
+          {
+            "type": "text",
+            "text": "ebenso",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000387",
+                    "grc-token-v1:59e4e14dcd2280f5:000388"
+                  ],
+                  "groupId": "gwg-v1-14c4260b1cdeaa7bea96647e64c58120b09bffe27b14c4e826317a47808f8495"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "ratlos sind",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000391"
+                  ],
+                  "groupId": "gwg-v1-433ecc25fd7a97112040f901ffdbafb4342dcba47f75be8c366a18abf333a9d5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " wie "
+          },
+          {
+            "type": "text",
+            "text": "die Zweifelnden",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000389",
+                    "grc-token-v1:59e4e14dcd2280f5:000390"
+                  ],
+                  "groupId": "gwg-v1-b9dfeaed551573f6176a585006733845db0c119d211d2f09054e621a8ca257e4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Das Widersinnigste von allem",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000392",
+                    "grc-token-v1:59e4e14dcd2280f5:000394",
+                    "grc-token-v1:59e4e14dcd2280f5:000395"
+                  ],
+                  "groupId": "gwg-v1-3818534a859f654631ac101f15936e68d90c955e83699c4a9aa42ca8efcfd4b4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "aber",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000393"
+                  ],
+                  "groupId": "gwg-v1-39fc82c12984c6dcab1f3682b524a9f8f544e498ba2064ebb155c2b420d675c0",
+                  "lexiconEntryId": "-de-2"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ist, "
+          },
+          {
+            "type": "text",
+            "text": "dass",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000396"
+                  ],
+                  "groupId": "gwg-v1-7ab4da513c1e6d04c4529db5d2d08895c932ae087d654e31fdb386f11a5e51c5",
+                  "lexiconEntryId": "-hoti"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "es ihnen so ergeht",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000397",
+                    "grc-token-v1:59e4e14dcd2280f5:000398"
+                  ],
+                  "groupId": "gwg-v1-c0fd14f31a0c0446b0e482d244062d2899c0123e6e6873b35eb3391588b38506"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", obwohl sie "
+          },
+          {
+            "type": "text",
+            "text": "aus der Sache selbst",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000402",
+                    "grc-token-v1:59e4e14dcd2280f5:000403",
+                    "grc-token-v1:59e4e14dcd2280f5:000404"
+                  ],
+                  "groupId": "gwg-v1-bf7092b9d35441c850f7519623bb8b71a3ad85fd0b12a9493ae18282c7e707e5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "keinerlei",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000399",
+                    "grc-token-v1:59e4e14dcd2280f5:000400"
+                  ],
+                  "groupId": "gwg-v1-a8c19b1b701b8e3702cec006576121c781420208343fe766065f2385ac1e7102"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "Anlass zum Unglauben",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000405",
+                    "grc-token-v1:59e4e14dcd2280f5:000406"
+                  ],
+                  "groupId": "gwg-v1-1d46c09c80486309803ae2bd4a5446b51205310f29598d334921e4f9967a809c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "haben",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000401"
+                  ],
+                  "groupId": "gwg-v1-8f704669fb3ba412cde8e439b66371c0c6e39aef6167e92125b88e28c1a73ab8",
+                  "lexiconEntryId": "-echo"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " und "
+          },
+          {
+            "type": "text",
+            "text": "auch keinen",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000407"
+                  ],
+                  "groupId": "gwg-v1-c123f5c9ef1bc3b6406d38684fda7cf9cc2fe42fc46ceb46c902490d2de83bb0"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "vernünftigen Grund",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000408",
+                    "grc-token-v1:59e4e14dcd2280f5:000411"
+                  ],
+                  "groupId": "gwg-v1-7a1f32bb86a40a9710d839ae498f48276bb25095647331c57ee0b12d7888cec4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "angeben können",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000409",
+                    "grc-token-v1:59e4e14dcd2280f5:000410"
+                  ],
+                  "groupId": "gwg-v1-e1b7b3dca66a7cea43550e66919b98c7237d2992ca83c92e19ef3f78ecbccfe6"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "weshalb",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000412",
+                    "grc-token-v1:59e4e14dcd2280f5:000413"
+                  ],
+                  "groupId": "gwg-v1-1b9d092077c695ca2bec034772c16f294c7911bc830ef358564770a269fe63a6"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sie "
+          },
+          {
+            "type": "text",
+            "text": "nicht glauben",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000414"
+                  ],
+                  "groupId": "gwg-v1-e8d7626e3aef829ae9f06d715589d698e2fabfe7653f1e5fa84fe1c62a93b059",
+                  "lexiconEntryId": "-apisteo"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " oder "
+          },
+          {
+            "type": "text",
+            "text": "ratlos sind",
+            "marks": [
+              {
+                "type": "greekWordLink",
+                "attrs": {
+                  "sourceTokenIds": [
+                    "grc-token-v1:59e4e14dcd2280f5:000416"
+                  ],
+                  "groupId": "gwg-v1-6c2bced59cb8c44cd8e75e3a896c8fa0d8ad63681db00f869ca46d3a898c9ef3"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [],
+  "footnotes": []
+}
