@@ -1,0 +1,377 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "69b8196e-a0e5-4594-b498-08df143d42b0",
+  "chapterId": "75e133e5-0c94-4052-d649-08df143d42f6",
+  "number": 3,
+  "title": "Kapitel 3",
+  "workTitle": "Die Perle – sieben Hymnen über den Glauben",
+  "authorName": "Ephräm der Syrer",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/ephraem-der-syrer/die-perle-sieben-hymnen-ueber-den-glauben#kapitel-75e133e5-0c94-4052-d649-08df143d42f6",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:f941ab68640b9c2c0d3f257bb20076a2464a2e9a89cbff9e8611b2223323e5eb",
+  "plainText": "Du verbirgst dich nicht in deiner Nacktheit, o Perle! Auch den Kaufmann reißt die Liebe zu dir hin, denn er legt seine Kleider ab, nicht um dich zu bedecken: Dein Licht ist deine Kleidung, dein Glanz ist dein Gewand, du Nackte! Du bist wie Eva, die in Nacktheit gekleidet war. Verflucht sei der, der sie täuschte, sie entkleidete und verließ. Die Schlange kann dich deiner Herrlichkeit nicht entkleiden. In den Mysterien, deren Sinnbild du bist, werden Frauen in Eden mit Licht bekleidet. Hell glänzen die Perlen Äthiopiens, wie geschrieben steht: „Wer gab dich Äthiopien, dem Land der schwarzen Menschen? “ Er gab den Völkern Licht; seine hellen Strahlen erreichten sowohl die Äthiopier als auch die Inder. Der Eunuch aus Äthiopien sah auf seinem Wagen Philippus: Das Lamm des Lichts trat dem dunklen Mann aus dem Wasser entgegen. Während er las, wurde der Äthiopier getauft, strahlte vor Freude und zog weiter! Er gewann Jünger und lehrte, und aus schwarzen Menschen machte er weiße. Und die dunklen Frauen Äthiopiens wurden zu Perlen für den Sohn; er brachte sie dem Vater dar als eine glänzende Krone aus Äthiopien. Die Königin von Saba war ein Schaf, das unter Wölfe gekommen war. Salomo gab ihr die Leuchte der Wahrheit; er heiratete sie auch, als er abtrünnig wurde. Sie wurde erleuchtet und zog fort, jene aber waren dunkel, wie es ihre Art war. Der helle Funke, der mit jener seligen Königin in ihre Heimat zog, leuchtete inmitten der Finsternis weiter, bis das neue Morgenlicht kam. Der helle Funke begegnete diesem Glanz und erhellte den Ort.\n\nIm Meer gibt es allerlei Fische, viele Ellen lang, und bei all ihrer Größe sind sie doch sehr klein. Durch deine Kleinheit aber wird die Krone groß, so wie Adam durch die Kleinheit des Sohnes groß wurde. Deine Krone ist für das Haupt bestimmt, deine Schönheit für das Auge, deine Pracht für das Ohr. Komm herauf aus dem Meer, du Nachbarin des trockenen Landes, komm und verweile am Ohr. Das Ohr soll das Wort des Lebens lieben, wie es dich liebt! Im Ohr ist das Wort, außen am Ohr die Perle. Von dir gemahnt soll es durch dich weise werden und sich vom Wort der Wahrheit mahnen lassen. Sei sein Spiegel: In deiner eigenen Schönheit wird es die Schönheit des Wortes sehen; an dir wird es lernen, wie kostbar das Wort in der Höhe ist! Das Ohr ist das Blatt, das Fleisch der Baum, und du bist mitten darin eine Frucht des Lichts. Als Sinnbild weist du auf den Schoß hin, der das Licht gebiert. Dich nahm er zum Gleichnis für jenes Reich, o Perle, ebenso wie die fünf Jungfrauen, die dort einzogen, bekleidet mit dem Licht ihrer Lampen! Jene Leuchtenden gleichen dir, die du in Licht gekleidet bist! Wer würde der Tochter armer Leute eine Perle schenken? Denn wenn sie an ihr hängt, steht sie ihr nicht. Erwirb ohne Bezahlung jenen Glauben, der ganz und gar alle Glieder der Menschen schmückt. Für kein Gold aber würde eine vornehme Frau ihre Perle hergeben. Es wäre eine große Schande, wenn du deine Perle für nichts in den Schlamm werfen würdest! In der Perle der Zeit wollen wir die der Ewigkeit erblicken; denn sie ist im Beutel, im Siegel oder in der Schatzkammer. Hinter dem Tor sind weitere Tore mit ihren Schlössern und Schlüsseln. Deine Perle hat der Höchste versiegelt, der auf alles achtet.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Du verbirgst dich nicht in deiner Nacktheit, o Perle! Auch den Kaufmann reißt die Liebe zu dir hin, denn er legt seine Kleider ab, nicht um dich zu bedecken: Dein Licht ist deine Kleidung, dein Glanz ist dein Gewand, du Nackte! Du bist wie "
+          },
+          {
+            "type": "text",
+            "text": "Eva, die in Nacktheit gekleidet war",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "6b6ad5d1-a5a9-4ef1-94cd-01ae2e232751"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Verflucht sei der, "
+          },
+          {
+            "type": "text",
+            "text": "der sie täuschte",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "8a1e3f6f-35a9-43ba-bbb1-0bfdf1a0ee7c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", sie entkleidete und verließ. Die Schlange kann dich deiner Herrlichkeit nicht entkleiden. In den Mysterien, deren Sinnbild du bist, werden Frauen in Eden mit Licht bekleidet. Hell glänzen die Perlen Äthiopiens, wie geschrieben steht: „"
+          },
+          {
+            "type": "text",
+            "text": "Wer gab dich Äthiopien, dem Land der schwarzen Menschen?",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "cb3d3324-9eb9-4a64-a523-397c1fbdf119"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Er gab den Völkern Licht; seine hellen Strahlen erreichten sowohl die Äthiopier als auch die Inder. "
+          },
+          {
+            "type": "text",
+            "text": "Der Eunuch aus Äthiopien sah auf seinem Wagen Philippus",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "2b795a8a-4bdd-49f3-b2fd-aaa85f375775"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ": Das Lamm des Lichts trat dem dunklen Mann aus dem Wasser entgegen. "
+          },
+          {
+            "type": "text",
+            "text": "Während er las, wurde der Äthiopier getauft, strahlte vor Freude und zog weiter",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "d2695bc3-bc9e-4761-a08b-284894bd542b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "! Er gewann Jünger und lehrte, und "
+          },
+          {
+            "type": "text",
+            "text": "aus schwarzen Menschen machte er weiße",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "bec5f9de-9f48-4988-8067-6572e3102872"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Und "
+          },
+          {
+            "type": "text",
+            "text": "die dunklen Frauen Äthiopiens",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "fc905c68-05b2-4b16-8407-22468aa206d5"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " wurden zu Perlen für den Sohn; er brachte sie dem Vater dar als eine glänzende Krone aus Äthiopien. "
+          },
+          {
+            "type": "text",
+            "text": "Die Königin von Saba war ein Schaf, das unter Wölfe gekommen war",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "e564917e-d6b2-4969-9c98-923c279ab11e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Salomo gab ihr die Leuchte der Wahrheit; er heiratete sie auch, als er abtrünnig wurde. Sie wurde erleuchtet und zog fort, jene aber waren dunkel, wie es ihre Art war. Der helle Funke, der mit jener seligen Königin in ihre Heimat zog, leuchtete inmitten der Finsternis weiter, bis das neue Morgenlicht kam. Der helle Funke begegnete diesem Glanz und erhellte den Ort."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Im Meer gibt es allerlei Fische, viele Ellen lang, und bei all ihrer Größe sind sie doch sehr klein. Durch deine Kleinheit aber wird die Krone groß, so wie Adam durch die Kleinheit des Sohnes groß wurde. Deine Krone ist für das Haupt bestimmt, deine Schönheit für das Auge, deine Pracht für das Ohr. Komm herauf aus dem Meer, du Nachbarin des trockenen Landes, komm und verweile am Ohr. Das Ohr soll das Wort des Lebens lieben, wie es dich liebt! Im Ohr ist das Wort, außen am Ohr die Perle. Von dir gemahnt soll es durch dich weise werden und sich vom Wort der Wahrheit mahnen lassen. Sei sein Spiegel: In deiner eigenen Schönheit wird es die Schönheit des Wortes sehen; an dir wird es lernen, wie kostbar das Wort in der Höhe ist! Das Ohr ist das Blatt, das Fleisch der Baum, und du bist mitten darin eine Frucht des Lichts. Als Sinnbild weist du auf den Schoß hin, der das Licht gebiert. "
+          },
+          {
+            "type": "text",
+            "text": "Dich nahm er zum Gleichnis für jenes Reich",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "a7267feb-779f-484e-8218-9de45ef12f18"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", o Perle, ebenso wie "
+          },
+          {
+            "type": "text",
+            "text": "die fünf Jungfrauen, die dort einzogen",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "6dcb5c69-43f7-4754-b404-abcea4ab5ce3"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", bekleidet mit dem Licht ihrer Lampen! Jene Leuchtenden gleichen dir, die du in Licht gekleidet bist! Wer würde der Tochter armer Leute eine Perle schenken? Denn wenn sie an ihr hängt, steht sie ihr nicht. Erwirb ohne Bezahlung jenen Glauben, der ganz und gar alle Glieder der Menschen schmückt. Für kein Gold aber würde eine vornehme Frau ihre Perle hergeben. Es wäre eine große Schande, wenn du deine Perle für nichts in den Schlamm werfen würdest! In der Perle der Zeit wollen wir die der Ewigkeit erblicken; denn sie ist im Beutel, im Siegel oder in der Schatzkammer. Hinter dem Tor sind weitere Tore mit ihren Schlössern und Schlüsseln. Deine Perle hat der Höchste versiegelt, der auf alles achtet."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "2b795a8a-4bdd-49f3-b2fd-aaa85f375775",
+      "passages": [
+        {
+          "from": {
+            "book": 530,
+            "chapter": 8,
+            "verse": 27
+          },
+          "to": {
+            "book": 530,
+            "chapter": 8,
+            "verse": 31
+          }
+        }
+      ]
+    },
+    {
+      "id": "6b6ad5d1-a5a9-4ef1-94cd-01ae2e232751",
+      "passages": [
+        {
+          "from": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 25
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "6dcb5c69-43f7-4754-b404-abcea4ab5ce3",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 25,
+            "verse": 1
+          },
+          "to": {
+            "book": 490,
+            "chapter": 25,
+            "verse": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "8a1e3f6f-35a9-43ba-bbb1-0bfdf1a0ee7c",
+      "passages": [
+        {
+          "from": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 13
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "a7267feb-779f-484e-8218-9de45ef12f18",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 13,
+            "verse": 45
+          },
+          "to": {
+            "book": 490,
+            "chapter": 13,
+            "verse": 46
+          }
+        }
+      ]
+    },
+    {
+      "id": "bec5f9de-9f48-4988-8067-6572e3102872",
+      "passages": [
+        {
+          "from": {
+            "book": 220,
+            "chapter": 1,
+            "verse": 18
+          },
+          "to": null
+        },
+        {
+          "from": {
+            "book": 230,
+            "chapter": 13,
+            "verse": 23
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "cb3d3324-9eb9-4a64-a523-397c1fbdf119",
+      "passages": [
+        {
+          "from": {
+            "book": 170,
+            "chapter": 28,
+            "verse": 19
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "d2695bc3-bc9e-4761-a08b-284894bd542b",
+      "passages": [
+        {
+          "from": {
+            "book": 530,
+            "chapter": 8,
+            "verse": 28
+          },
+          "to": null
+        },
+        {
+          "from": {
+            "book": 530,
+            "chapter": 8,
+            "verse": 38
+          },
+          "to": {
+            "book": 530,
+            "chapter": 8,
+            "verse": 39
+          }
+        }
+      ]
+    },
+    {
+      "id": "e564917e-d6b2-4969-9c98-923c279ab11e",
+      "passages": [
+        {
+          "from": {
+            "book": 100,
+            "chapter": 10,
+            "verse": 1
+          },
+          "to": null
+        },
+        {
+          "from": {
+            "book": 490,
+            "chapter": 10,
+            "verse": 16
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "fc905c68-05b2-4b16-8407-22468aa206d5",
+      "passages": [
+        {
+          "from": {
+            "book": 180,
+            "chapter": 68,
+            "verse": 31
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

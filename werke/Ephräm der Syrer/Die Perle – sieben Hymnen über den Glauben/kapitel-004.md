@@ -1,0 +1,24 @@
+# Die Perle – sieben Hymnen über den Glauben – Kapitel 4
+
+Autor: Ephräm der Syrer
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ephraem-der-syrer/die-perle-sieben-hymnen-ueber-den-glauben#kapitel-b4b0a8b3-4f56-460a-d64a-08df143d42f6).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Revision: `sha256:557a9ff7fd062afa4c71bd1f9568a05cc2cbb4d62d30183720f1288d3fcf7a8b`
+
+Der Räuber gewann den Glauben[^bible-19bc4656-e2ca-4e01-90a5-14945ab4dffa], der ihn gewann, ihn hinaufführte und ins Paradies versetzte[^bible-19bc4656-e2ca-4e01-90a5-14945ab4dffa]\. Er sah im Kreuz einen Baum des Lebens[^bible-921b5ab5-6655-4e24-8b4c-cacf1c93e490]; es war die Frucht, und er aß an Adams Stelle davon\. Der Dumme, der in die Irre geht, verletzt mit allerlei Fragen den Glauben, als wäre er ein Auge[^bible-18854933-ea64-4928-bd3c-67670d879b03]\. Ein Finger, der im Auge bohrt, macht es blind; noch viel mehr macht solches Nachforschen den Glauben blind\. Denn selbst der Taucher erforscht seine Perle nicht\. Alle Kaufleute freuen sich an ihr, ohne zu erforschen, woher sie kam; selbst der König, dessen Krone sie schmückt, untersucht sie nicht\. Weil Bileam dumm war, sprach ein dummes Tier, ein Esel, mit ihm[^bible-774bb1b2-feec-4c49-b881-b1941ffa5e62], denn er verachtete Gott, der mit ihm sprach[^bible-0a763005-48c4-49fe-916b-610cfd311107]\. Auch dich soll die Perle anstelle des Esels zurechtweisen\. Das Volk hatte ein Herz aus Stein; durch einen Stein machte er es zunichte[^bible-39d569bd-d6fd-47a4-b399-d28a9e5b87e6], denn sieh: Ein Stein hört Worte[^bible-af068139-39f8-45bd-8d4d-1084a36cfcbc]\. Seht sein Werk, das sie zurechtgewiesen hat; und euch, ihr Tauben, soll heute die Perle zurechtweisen\. Mit der Schwalbe und der Krähe beschämte er die Menschen[^bible-769834dd-4845-498d-aedd-c5a9c6476f70]; mit dem Ochsen, ja mit dem Esel beschämte er sie[^bible-865bfd62-9cfb-4356-9744-676f6606212d]\. Nun soll die Perle zurechtweisen, ihr Vögel und ihr Wesen auf und unter der Erde\! Dein Licht nimmt nicht zu oder ab wie das des Mondes\. Die Sonne, deren Licht alles überstrahlt: Sieh, sie ist es, die in deiner kleinen Gestalt sinnbildlich dargestellt wird\. O Sinnbild des Sohnes, von dem ein einziger Funke größer ist als die Sonne\! Die Perle selbst ist voll, denn voll ist ihr Licht; auch gibt es keinen geschickten Handwerker, der ihr etwas rauben könnte, denn ihre eigene Schönheit ist ihre Mauer, ja auch ihr Schutz\! Ihr fehlt nichts, denn sie ist ganz und gar vollkommen\. Und wenn jemand dich zerbrechen will, um dir ein Stück zu entnehmen, dann gleichst du dem Glauben, der bei den Häretikern zugrunde geht, weil sie ihn in Stücke gebrochen und verdorben haben\. Denn ist es etwa besser als das, den Glauben zu durchforschen? Der Glaube ist seinem Wesen nach ein Ganzes, das nicht verdorben werden darf\. Wer ihn verdirbt, schadet sich damit selbst; der Häretiker richtet sich dadurch selbst zugrunde\. Wer das Licht aus seinen Pupillen vertreibt, macht sich selbst blind\. Feuer und Luft werden geteilt, wenn man sie trennt\. Unter allen Geschöpfen bleibt allein das Licht ungeteilt, wie sein Schöpfer; es ist nicht unfruchtbar, denn auch es zeugt, ohne dabei etwas zu verlieren\. Und wenn jemand meint, du seist künstlich hergestellt, irrt er sich sehr\. Deine Natur verkündet, dass du wie alle Steine kein Werk der Kunstfertigkeit bist; so bist du ein Sinnbild jener Zeugung, die ungeschaffen ist\. Der Stein, der du bist, flieht vor dem Vergleich mit dem Stein, der der Sohn ist\. Denn du wurdest mitten in der Tiefe gezeugt, der Sohn deines Schöpfers aber in der höchsten Höhe; er gleicht dir nicht, denn er gleicht seinem Vater\. Und wie man erzählt, haben auch dich zwei Mutterschöße geboren\. Als flüssiger Stoff kamst du von oben herab; als fester Körper stiegst du aus dem Meer empor\. Durch deine zweite Geburt zeigtest du den Menschenkindern deine Schönheit\. Als du körperliche Gestalt angenommen hattest, setzten Hände dich in deine Fassungen ein; denn in der Krone bist du wie am Kreuz und im Diadem wie bei einem Sieg\. An den Ohren hängst du, als würdest du ergänzen, was fehlte; du breitest dich über alles aus\.
+
+## Bibelverweise
+
+[^bible-0a763005-48c4-49fe-916b-610cfd311107]: Num 22,9–Num 22,20
+[^bible-18854933-ea64-4928-bd3c-67670d879b03]: Sach 2,8
+[^bible-19bc4656-e2ca-4e01-90a5-14945ab4dffa]: Lk 23,42–Lk 23,43
+[^bible-39d569bd-d6fd-47a4-b399-d28a9e5b87e6]: Mt 21,42–Mt 21,44
+[^bible-769834dd-4845-498d-aedd-c5a9c6476f70]: Jer 8,7
+[^bible-774bb1b2-feec-4c49-b881-b1941ffa5e62]: Num 22,28–Num 22,30
+[^bible-865bfd62-9cfb-4356-9744-676f6606212d]: Jes 1,3
+[^bible-921b5ab5-6655-4e24-8b4c-cacf1c93e490]: Gen 2,9
+[^bible-af068139-39f8-45bd-8d4d-1084a36cfcbc]: Jos 24,27

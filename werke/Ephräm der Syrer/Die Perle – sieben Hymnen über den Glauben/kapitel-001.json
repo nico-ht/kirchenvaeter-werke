@@ -1,0 +1,353 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "69b8196e-a0e5-4594-b498-08df143d42b0",
+  "chapterId": "03e10374-e967-4b05-d647-08df143d42f6",
+  "number": 1,
+  "title": "Kapitel 1",
+  "workTitle": "Die Perle – sieben Hymnen über den Glauben",
+  "authorName": "Ephräm der Syrer",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/ephraem-der-syrer/die-perle-sieben-hymnen-ueber-den-glauben#kapitel-03e10374-e967-4b05-d647-08df143d42f6",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:cfdd05d1d8bcad2313986cbd9e38d48d73369533d6b02bf8ae2df2c10ae6692f",
+  "plainText": "Eines Tages, meine Brüder, nahm ich eine Perle zur Hand. Ich sah in ihr Geheimnisse des Reiches, Abbilder und Sinnbilder der Majestät. Sie wurde zur Quelle, und aus ihr trank ich Geheimnisse des Sohnes. Ich legte sie, meine Brüder, auf meine Handfläche, um sie zu untersuchen. Ich wollte sie von einer Seite betrachten, doch auf allen Seiten zeigte sie ein Gesicht. Ich erkannte, dass der Sohn unbegreiflich ist, weil er ganz Licht ist. In ihrem Glanz sah ich den Strahlenden, den nichts trüben kann, und in ihrer Reinheit ein großes Geheimnis: den vollkommen geläuterten Leib unseres Herrn. In ihrer Ungeteiltheit sah ich die ungeteilte Wahrheit. So sah ich darin ihre reine Empfängnis: die Kirche und den Sohn in ihr. Die Wolke war das Abbild derer, die ihn gebar, und der Himmel ihr Sinnbild, denn aus ihr leuchtete sein gnadenreicher Glanz hervor. Ich sah darin seine Siegeszeichen, seine Siege und seine Kronen. Ich sah seine hilfreichen, überströmenden Gnadengaben, seine Geheimnisse und seine Offenbarungen. Für mich war sie größer als die Arche, denn ich staunte über sie. Ich sah darin Falten ohne Schatten, weil sie eine Tochter des Lichtes war, Sinnbilder, die ohne Zungen sprachen, Worte, die ohne Lippen Geheimnisse verkündeten, eine schweigende Harfe, die ohne Stimme Melodien erklingen ließ. Die Posaune stockt, und der Donner murmelt; sei du also nicht vermessen. Lass das Verborgene ruhen, nimm das Offenbarte an. Du hast am klaren Himmel einen zweiten Regenschauer gesehen; die Öffnungen deiner Ohren sind wie aus Wolken mit Deutungen gefüllt. Und wie jenes Manna allein das Volk mit seinem Wohlgeschmack sättigte und ihm köstliche Speisen ersetzte, so sättigt mich diese Perle anstelle der Bücher, ihrer Lektüre und ihrer Erklärungen.\n\nUnd als ich fragte, ob es noch weitere Geheimnisse gebe, hatte sie keinen Mund, aus dem ich etwas hätte hören können, und keine Ohren, mit denen sie mich hätte hören können. O du Wesen ohne Sinne, durch das ich neue Sinne gewonnen habe! Sie antwortete mir: „Die Tochter des Meeres bin ich, des grenzenlosen Meeres! Aus jenem Meer, aus dem ich aufstieg, stammt der gewaltige Schatz an Geheimnissen in meinem Schoß! Erforsche das Meer, aber erforsche nicht den Herrn des Meeres! Ich habe gesehen, wie die Taucher, die nach mir hinabstiegen, erschraken und mitten aus dem Meer ans trockene Land zurückkehrten; nicht einmal wenige Augenblicke hielten sie es aus. Wer wollte da verweilen und immer weiter in den Tiefen der Gottheit forschen? Die Wellen des Sohnes sind voller Segen, aber auch voller Unheil. Habt ihr denn die Wellen des Meeres nicht gesehen? Wenn ein Schiff gegen sie ankämpft, zerschlagen sie es; wenn es sich ihnen überlässt und sich ihnen nicht widersetzt, bleibt es bewahrt. Im Meer ertranken alle Ägypter, obwohl sie es nicht ergründeten, und ohne neugierig zu forschen, kamen auch die Hebräer auf dem trockenen Land um. Wie sollt ihr da am Leben bleiben? Und die Menschen von Sodom wurden vom Feuer verzehrt. Wie wollt ihr da bestehen? Bei diesen Tumulten erbebten die Fische im Meer, auch Leviatan. Habt ihr denn ein Herz aus Stein, dass ihr dies lest und euch in diese Irrtümer stürzt? Wie schrecklich, dass auch die Gerechtigkeit so lange schweigt! Forschen mischt sich mit Danksagung; was von beidem wird die Oberhand gewinnen? Der Weihrauch des Lobes steigt zugleich mit dem Qualm des Streits von der Zunge auf; worauf sollen wir hören? Gebet und neugieriges Forschen kommen aus einem Mund; welchem sollen wir unser Ohr leihen? Drei Tage lang war Jona mein Nachbar im Meer. Die Lebewesen im Meer erschraken und sagten: ‚Wer kann vor Gott fliehen? Jona floh, und ihr beharrt darauf, ihn zu ergründen!‘“",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Eines Tages, meine Brüder, nahm ich eine Perle zur Hand. Ich sah in ihr Geheimnisse des Reiches, Abbilder und Sinnbilder der Majestät. Sie wurde zur Quelle, und aus ihr trank ich Geheimnisse des Sohnes. Ich legte sie, meine Brüder, auf meine Handfläche, um sie zu untersuchen. Ich wollte sie von einer Seite betrachten, doch auf allen Seiten zeigte sie ein Gesicht. Ich erkannte, dass der Sohn unbegreiflich ist, weil er ganz Licht ist. In ihrem Glanz sah ich den Strahlenden, den nichts trüben kann, und in ihrer Reinheit ein großes Geheimnis: den vollkommen geläuterten Leib unseres Herrn. In ihrer Ungeteiltheit sah ich die ungeteilte Wahrheit. So sah ich darin ihre reine Empfängnis: die Kirche und den Sohn in ihr. Die Wolke war das Abbild derer, die ihn gebar, und der Himmel ihr Sinnbild, denn aus ihr leuchtete sein gnadenreicher Glanz hervor. Ich sah darin seine Siegeszeichen, seine Siege und seine Kronen. Ich sah seine hilfreichen, überströmenden Gnadengaben, seine Geheimnisse und seine Offenbarungen. Für mich war sie größer als die Arche, denn ich staunte über sie. Ich sah darin Falten ohne Schatten, weil sie eine Tochter des Lichtes war, Sinnbilder, die ohne Zungen sprachen, Worte, die ohne Lippen Geheimnisse verkündeten, eine schweigende Harfe, die ohne Stimme Melodien erklingen ließ. Die Posaune stockt, und der Donner murmelt; sei du also nicht vermessen. "
+          },
+          {
+            "type": "text",
+            "text": "Lass das Verborgene ruhen, nimm das Offenbarte an",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "e29b9f8d-bc9e-406f-a59c-052ab7e5e238"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Du hast am klaren Himmel einen zweiten Regenschauer gesehen; die Öffnungen deiner Ohren sind wie aus Wolken mit Deutungen gefüllt. Und wie "
+          },
+          {
+            "type": "text",
+            "text": "jenes Manna allein das Volk mit seinem Wohlgeschmack sättigte und ihm köstliche Speisen ersetzte",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "8850da1e-e623-4e7a-a056-ad0b9c81f455"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", so sättigt mich diese Perle anstelle der Bücher, ihrer Lektüre und ihrer Erklärungen."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Und als ich fragte, ob es noch weitere Geheimnisse gebe, hatte sie keinen Mund, aus dem ich etwas hätte hören können, und keine Ohren, mit denen sie mich hätte hören können. O du Wesen ohne Sinne, durch das ich neue Sinne gewonnen habe! Sie antwortete mir: „Die Tochter des Meeres bin ich, des grenzenlosen Meeres! Aus jenem Meer, aus dem ich aufstieg, stammt der gewaltige Schatz an Geheimnissen in meinem Schoß! Erforsche das Meer, aber erforsche nicht den Herrn des Meeres! Ich habe gesehen, wie die Taucher, die nach mir hinabstiegen, erschraken und mitten aus dem Meer ans trockene Land zurückkehrten; nicht einmal wenige Augenblicke hielten sie es aus. Wer wollte da verweilen und immer weiter in den Tiefen der Gottheit forschen? Die Wellen des Sohnes sind voller Segen, aber auch voller Unheil. Habt ihr denn die Wellen des Meeres nicht gesehen? Wenn ein Schiff gegen sie ankämpft, zerschlagen sie es; wenn es sich ihnen überlässt und sich ihnen nicht widersetzt, bleibt es bewahrt. "
+          },
+          {
+            "type": "text",
+            "text": "Im Meer ertranken alle Ägypter",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "60730ffe-9533-4a77-b578-0a44019d6f9f"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", obwohl sie es nicht ergründeten, und ohne neugierig zu forschen, "
+          },
+          {
+            "type": "text",
+            "text": "kamen auch die Hebräer auf dem trockenen Land um",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "693eb1c1-0e3d-47b8-aa43-399eff90703b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Wie sollt ihr da am Leben bleiben? Und "
+          },
+          {
+            "type": "text",
+            "text": "die Menschen von Sodom wurden vom Feuer verzehrt",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "6f98311e-29a1-405d-91a5-5c7ebd8b7375"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Wie wollt ihr da bestehen? Bei diesen Tumulten "
+          },
+          {
+            "type": "text",
+            "text": "erbebten die Fische im Meer",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "94841e06-85b2-4875-b071-43f3142239c0"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", auch Leviatan. Habt ihr denn ein Herz aus Stein, dass ihr dies lest und euch in diese Irrtümer stürzt? Wie schrecklich, dass auch "
+          },
+          {
+            "type": "text",
+            "text": "die Gerechtigkeit so lange schweigt",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "4476fb12-5dda-4890-8885-55e3473eaf7c"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "! Forschen mischt sich mit Danksagung; was von beidem wird die Oberhand gewinnen? Der Weihrauch des Lobes steigt zugleich mit dem Qualm des Streits von der Zunge auf; worauf sollen wir hören? "
+          },
+          {
+            "type": "text",
+            "text": "Gebet und neugieriges Forschen kommen aus einem Mund",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "e4aac9f1-23ea-47e5-9328-0d16698bf0e9"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; welchem sollen wir unser Ohr leihen? "
+          },
+          {
+            "type": "text",
+            "text": "Drei Tage lang war Jona mein Nachbar im Meer",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "c37d1847-f8f2-4bdd-982b-f24c9c1cb571"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Die Lebewesen im Meer erschraken und sagten: ‚Wer kann vor Gott fliehen? "
+          },
+          {
+            "type": "text",
+            "text": "Jona floh",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "583e42f0-8b72-45ee-8211-7907f6fe068b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", und ihr beharrt darauf, ihn zu ergründen!‘“"
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "4476fb12-5dda-4890-8885-55e3473eaf7c",
+      "passages": [
+        {
+          "from": {
+            "book": 200,
+            "chapter": 8,
+            "verse": 11
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "583e42f0-8b72-45ee-8211-7907f6fe068b",
+      "passages": [
+        {
+          "from": {
+            "book": 310,
+            "chapter": 1,
+            "verse": 3
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "60730ffe-9533-4a77-b578-0a44019d6f9f",
+      "passages": [
+        {
+          "from": {
+            "book": 10,
+            "chapter": 14,
+            "verse": 28
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "693eb1c1-0e3d-47b8-aa43-399eff90703b",
+      "passages": [
+        {
+          "from": {
+            "book": 550,
+            "chapter": 10,
+            "verse": 5
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "6f98311e-29a1-405d-91a5-5c7ebd8b7375",
+      "passages": [
+        {
+          "from": {
+            "book": 1,
+            "chapter": 19,
+            "verse": 24
+          },
+          "to": {
+            "book": 1,
+            "chapter": 19,
+            "verse": 25
+          }
+        }
+      ]
+    },
+    {
+      "id": "8850da1e-e623-4e7a-a056-ad0b9c81f455",
+      "passages": [
+        {
+          "from": {
+            "book": 420,
+            "chapter": 16,
+            "verse": 20
+          },
+          "to": {
+            "book": 420,
+            "chapter": 16,
+            "verse": 21
+          }
+        }
+      ]
+    },
+    {
+      "id": "94841e06-85b2-4875-b071-43f3142239c0",
+      "passages": [
+        {
+          "from": {
+            "book": 270,
+            "chapter": 4,
+            "verse": 3
+          },
+          "to": null
+        },
+        {
+          "from": {
+            "book": 350,
+            "chapter": 1,
+            "verse": 3
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "c37d1847-f8f2-4bdd-982b-f24c9c1cb571",
+      "passages": [
+        {
+          "from": {
+            "book": 310,
+            "chapter": 2,
+            "verse": 1
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "e29b9f8d-bc9e-406f-a59c-052ab7e5e238",
+      "passages": [
+        {
+          "from": {
+            "book": 40,
+            "chapter": 29,
+            "verse": 29
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "e4aac9f1-23ea-47e5-9328-0d16698bf0e9",
+      "passages": [
+        {
+          "from": {
+            "book": 680,
+            "chapter": 3,
+            "verse": 10
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}
