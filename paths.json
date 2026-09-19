@@ -136,6 +136,14 @@
     "directory": "werke/Athenagoras von Athen/Ein Plädoyer für die Christen"
   },
   {
+    "workId": "7d89d74d-df95-4c6b-7d58-08df134d0ace",
+    "authorId": "376e9596-0c14-4ecc-d0fa-08dd21e6c981",
+    "authorName": "Athenagoras von Athen",
+    "collectionTitle": null,
+    "title": "Über die Auferstehung der Toten",
+    "directory": "werke/Athenagoras von Athen/Über die Auferstehung der Toten"
+  },
+  {
     "workId": "58765e75-22c3-474e-7958-08df04fdf8e1",
     "authorId": "a01ef90e-3690-4f74-819d-08dd765d69c5",
     "authorName": "Augustinus",
@@ -376,6 +384,14 @@
     "directory": "werke/Cyprian von Karthago/Über die Einheit der Kirche"
   },
   {
+    "workId": "3a1119bb-7adb-4c0c-ccc6-08dd2abb5377",
+    "authorId": "8e815ed9-cd77-4943-2fe0-08dd081b556e",
+    "authorName": "Cyprian von Karthago",
+    "collectionTitle": null,
+    "title": "Über die Sterblichkeit",
+    "directory": "werke/Cyprian von Karthago/Über die Sterblichkeit"
+  },
+  {
     "workId": "32f88a56-d71e-4c65-e777-08de08d551ab",
     "authorId": "8e815ed9-cd77-4943-2fe0-08dd081b556e",
     "authorName": "Cyprian von Karthago",
@@ -414,6 +430,22 @@
     "collectionTitle": "Kommentare zu den Psalmen",
     "title": "Psalm 3",
     "directory": "werke/Didymus der Blinde/Kommentare zu den Psalmen/Psalm 3"
+  },
+  {
+    "workId": "600c199e-5827-4323-b499-08df143d42b0",
+    "authorId": "2c5f97d4-3848-4962-e818-08de0b6f7845",
+    "authorName": "Ephräm der Syrer",
+    "collectionTitle": null,
+    "title": "15 Hymnen zum Fest der Epiphanie",
+    "directory": "werke/Ephräm der Syrer/15 Hymnen zum Fest der Epiphanie"
+  },
+  {
+    "workId": "69b8196e-a0e5-4594-b498-08df143d42b0",
+    "authorId": "2c5f97d4-3848-4962-e818-08de0b6f7845",
+    "authorName": "Ephräm der Syrer",
+    "collectionTitle": null,
+    "title": "Die Perle – sieben Hymnen über den Glauben",
+    "directory": "werke/Ephräm der Syrer/Die Perle – sieben Hymnen über den Glauben"
   },
   {
     "workId": "edd8954e-c9ce-4401-8d53-08de0b5e2e48",

@@ -350,6 +350,26 @@
       }
     },
     {
+      "workId": "7d89d74d-df95-4c6b-7d58-08df134d0ace",
+      "title": "Über die Auferstehung der Toten",
+      "authorId": "376e9596-0c14-4ecc-d0fa-08dd21e6c981",
+      "authorName": "Athenagoras von Athen",
+      "collectionTitle": null,
+      "languageCode": "de",
+      "sourceUrl": "https://erste-christen.de/werke/athenagoras/ueber-die-auferstehung-der-toten",
+      "contentRevision": "sha256:932d1643d06d64bbd7b57181c43594007890bcc1f575a2aa57547d70fd28b6b0",
+      "chapterCount": 25,
+      "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
+      "rights": {
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "attributionName": "Die ersten Christen",
+        "attributionUrl": "https://erste-christen.de",
+        "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+        "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+      }
+    },
+    {
       "workId": "58765e75-22c3-474e-7958-08df04fdf8e1",
       "title": "Gegen die Akademiker – Buch 1",
       "authorId": "a01ef90e-3690-4f74-819d-08dd765d69c5",
@@ -950,6 +970,26 @@
       }
     },
     {
+      "workId": "3a1119bb-7adb-4c0c-ccc6-08dd2abb5377",
+      "title": "Über die Sterblichkeit",
+      "authorId": "8e815ed9-cd77-4943-2fe0-08dd081b556e",
+      "authorName": "Cyprian von Karthago",
+      "collectionTitle": null,
+      "languageCode": "de",
+      "sourceUrl": "https://erste-christen.de/werke/cyprian/ueber-die-sterblichkeit",
+      "contentRevision": "sha256:8556ec765154073d62d756696f668d80a5adacfb5f0970b0be66f2eb709f0873",
+      "chapterCount": 26,
+      "provenance": "Eigene Übersetzung; aktuelle deutsche Texte durch Übersetzungsaufträge belegt. Keine Aussage über menschliche Prüfung.",
+      "rights": {
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "attributionName": "Die ersten Christen",
+        "attributionUrl": "https://erste-christen.de",
+        "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+        "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+      }
+    },
+    {
       "workId": "32f88a56-d71e-4c65-e777-08de08d551ab",
       "title": "Über öffentliche Veranstaltungen",
       "authorId": "8e815ed9-cd77-4943-2fe0-08dd081b556e",
@@ -1040,6 +1080,46 @@
       "contentRevision": "sha256:c707c01fa0b96aa67b64e3b32dc7278dc367692e6500c4f03f86c7aff937dd20",
       "chapterCount": 7,
       "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
+      "rights": {
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "attributionName": "Die ersten Christen",
+        "attributionUrl": "https://erste-christen.de",
+        "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+        "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+      }
+    },
+    {
+      "workId": "600c199e-5827-4323-b499-08df143d42b0",
+      "title": "15 Hymnen zum Fest der Epiphanie",
+      "authorId": "2c5f97d4-3848-4962-e818-08de0b6f7845",
+      "authorName": "Ephräm der Syrer",
+      "collectionTitle": null,
+      "languageCode": "de",
+      "sourceUrl": "https://erste-christen.de/werke/ephraem-der-syrer/15-hymnen-zum-fest-der-epiphanie",
+      "contentRevision": "sha256:c8139e6f49a0504c9d1f0b7236f32b61e96e8478d33a0c5827cf988201571102",
+      "chapterCount": 15,
+      "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
+      "rights": {
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "attributionName": "Die ersten Christen",
+        "attributionUrl": "https://erste-christen.de",
+        "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+        "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+      }
+    },
+    {
+      "workId": "69b8196e-a0e5-4594-b498-08df143d42b0",
+      "title": "Die Perle – sieben Hymnen über den Glauben",
+      "authorId": "2c5f97d4-3848-4962-e818-08de0b6f7845",
+      "authorName": "Ephräm der Syrer",
+      "collectionTitle": null,
+      "languageCode": "de",
+      "sourceUrl": "https://erste-christen.de/werke/ephraem-der-syrer/die-perle-sieben-hymnen-ueber-den-glauben",
+      "contentRevision": "sha256:cf236b0a580129d116bee9e9be127600925ca485744102b90e647777fa24bbf0",
+      "chapterCount": 7,
+      "provenance": "Eigene Übersetzung; aktuelle deutsche Texte durch Übersetzungsaufträge belegt. Keine Aussage über menschliche Prüfung.",
       "rights": {
         "license": "CC BY-NC-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
