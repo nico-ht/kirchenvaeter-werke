@@ -1,0 +1,288 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "c5da6ec7-c5d4-4379-49fa-08df14d31b95",
+  "chapterId": "8e9b3773-0d51-43c9-fbc6-08df14d31bf7",
+  "number": 11,
+  "title": "Kapitel 11",
+  "workTitle": "De patientia",
+  "authorName": "Tertullian",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/tertullian/tertullian-de-patientia#kapitel-8e9b3773-0d51-43c9-fbc6-08df14d31bf7",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:6953af3b8f729402f1ba864b0d7db029b911e58197afb8a9edd16de3c682f39c",
+  "plainText": "Nachdem wir diese Hauptursachen der Ungeduld so gut wie möglich aufgeführt haben, warum sollten wir nun abschweifen und uns mit den übrigen befassen, die uns zu Hause oder draußen begegnen? Weit greift das Wirken des Bösen um sich: Er bestürmt unser Gemüt mit allerlei Ärgernissen, bald geringfügigen, bald sehr schweren. Die geringfügigen kannst du gerade wegen ihrer Geringfügigkeit verachten; den sehr schweren kannst du angesichts ihrer Übermacht nachgeben. Wo die Verletzung geringer ist, braucht es keine Ungeduld; wo sie aber größer ist, braucht es umso mehr das Heilmittel gegen die Verletzung: Geduld. Bemühen wir uns also, die Schläge des Bösen zu ertragen, damit wir dem Eifer des Feindes unseren Eifer in der Gelassenheit entgegensetzen und ihn so verspotten. Wenn wir uns aber selbst etwas zuziehen, sei es aus Unvorsichtigkeit oder mit Absicht, wollen wir ebenso geduldig hinnehmen, was wir uns selbst zuzuschreiben haben. Wenn wir zudem glauben, dass manche Schläge uns vom Herrn gesandt werden, wem sollten wir dann mehr Geduld entgegenbringen als dem Herrn? Ja, er lehrt uns darüber hinaus, dafür zu danken und uns darüber zu freuen, dass wir göttlicher Züchtigung für würdig erachtet werden. „Wen ich liebe “, sagt er, „den züchtige ich. “ O seliger Diener, um dessen Besserung sich der Herr bemüht! Den er seines Zorns würdigt! Den er nicht dadurch täuscht, dass er seine Zurechtweisungen verbirgt! In jeder Hinsicht sind wir also verpflichtet, Geduld zu üben, auf welchem Weg wir uns auch die Zurechtweisungen des Herrn zuziehen, sei es durch eigene Fehler oder durch die Fallstricke des Bösen. Groß ist der Lohn für die Erfüllung dieser Pflicht: die Seligkeit. Denn wen außer den Geduldigen hat der Herr selig genannt, wenn er sagt: „Selig sind die Armen im Geist, denn ihnen gehört das Himmelreich “? Gewiss ist niemand arm im Geist, wenn er nicht demütig ist. Wer aber ist demütig, wenn er nicht geduldig ist? Denn niemand kann sich erniedrigen, wenn er nicht zuerst die Geduld hat, diese Erniedrigung zu ertragen. „Selig “, sagt er, „sind die Weinenden und Trauernden. “ Wer erträgt solches Leid ohne Geduld? Deshalb werden ihnen Trost und Lachen verheißen. „Selig sind die Sanftmütigen. “ Zu ihnen können die Ungeduldigen gewiss nicht zählen. Wenn er ferner die Friedensstifter ebenso selig nennt und sie als Söhne Gottes bezeichnet, frage ich: Haben die Ungeduldigen etwa irgendeine Verwandtschaft mit dem Frieden? Selbst ein Dummkopf kann das erkennen. Wenn er aber sagt: „Freut euch und jubelt, sooft sie euch verfluchen und verfolgen; denn sehr groß ist euer Lohn im Himmel “, dann gilt diese Verheißung natürlich nicht einem ungeduldigen Jubel. Denn niemand wird im Unglück jubeln, wenn er nicht zuvor gelernt hat, es zu verachten; und niemand wird es verachten, wenn er nicht gelernt hat, Geduld zu üben.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Nachdem wir diese Hauptursachen der Ungeduld so gut wie möglich aufgeführt haben, warum sollten wir nun abschweifen und uns mit den übrigen befassen, die uns zu Hause oder draußen begegnen? Weit greift das Wirken des Bösen um sich: Er bestürmt unser Gemüt mit allerlei Ärgernissen, bald geringfügigen, bald sehr schweren. Die geringfügigen kannst du gerade wegen ihrer Geringfügigkeit verachten; den sehr schweren kannst du angesichts ihrer Übermacht nachgeben. Wo die Verletzung geringer ist, braucht es keine Ungeduld; wo sie aber größer ist, braucht es umso mehr das Heilmittel gegen die Verletzung: Geduld. Bemühen wir uns also, die Schläge des Bösen zu ertragen, damit wir dem Eifer des Feindes unseren Eifer in der Gelassenheit entgegensetzen und ihn so verspotten. Wenn wir uns aber selbst etwas zuziehen, sei es aus Unvorsichtigkeit oder mit Absicht, wollen wir ebenso geduldig hinnehmen, was wir uns selbst zuzuschreiben haben. Wenn wir zudem glauben, dass manche Schläge uns vom Herrn gesandt werden, wem sollten wir dann mehr Geduld entgegenbringen als dem Herrn? Ja, er lehrt uns darüber hinaus, dafür zu danken und uns darüber zu freuen, dass wir göttlicher Züchtigung für würdig erachtet werden. „"
+          },
+          {
+            "type": "text",
+            "text": "Wen ich liebe",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "cb1ac44a-3a7f-4b39-9b02-d10ed3b7301e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “, sagt er, „"
+          },
+          {
+            "type": "text",
+            "text": "den züchtige ich.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "cb1ac44a-3a7f-4b39-9b02-d10ed3b7301e"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ O seliger Diener, um dessen Besserung sich der Herr bemüht! Den er seines Zorns würdigt! Den er nicht dadurch täuscht, dass er seine Zurechtweisungen verbirgt! In jeder Hinsicht sind wir also verpflichtet, Geduld zu üben, auf welchem Weg wir uns auch die Zurechtweisungen des Herrn zuziehen, sei es durch eigene Fehler oder durch die Fallstricke des Bösen. Groß ist der Lohn für die Erfüllung dieser Pflicht: die Seligkeit. Denn wen außer den Geduldigen hat der Herr selig genannt, wenn er sagt: „"
+          },
+          {
+            "type": "text",
+            "text": "Selig sind die Armen im Geist, denn ihnen gehört das Himmelreich",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "2bda4d92-af3d-4def-91a3-7a5e4245cfc3"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “? Gewiss ist niemand "
+          },
+          {
+            "type": "text",
+            "text": "arm im Geist",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "2bda4d92-af3d-4def-91a3-7a5e4245cfc3"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", wenn er nicht demütig ist. Wer aber ist demütig, wenn er nicht geduldig ist? Denn niemand kann sich erniedrigen, wenn er nicht zuerst die Geduld hat, diese Erniedrigung zu ertragen. „"
+          },
+          {
+            "type": "text",
+            "text": "Selig",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "bc234d5e-5297-44f1-814b-0920fe548ad9"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “, sagt er, „"
+          },
+          {
+            "type": "text",
+            "text": "sind die Weinenden und Trauernden.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "bc234d5e-5297-44f1-814b-0920fe548ad9"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Wer erträgt solches Leid ohne Geduld? Deshalb werden ihnen "
+          },
+          {
+            "type": "text",
+            "text": "Trost und Lachen verheißen",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "bc234d5e-5297-44f1-814b-0920fe548ad9"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". „"
+          },
+          {
+            "type": "text",
+            "text": "Selig sind die Sanftmütigen.",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "56e9d8ce-9c7f-4cf9-a9bf-b8c68198ffe6"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “ Zu ihnen können die Ungeduldigen gewiss nicht zählen. Wenn er ferner die "
+          },
+          {
+            "type": "text",
+            "text": "Friedensstifter ebenso selig nennt und sie als Söhne Gottes bezeichnet",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "8989563a-6198-4580-8341-bfe9b5107944"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", frage ich: Haben die Ungeduldigen etwa irgendeine Verwandtschaft mit dem Frieden? Selbst ein Dummkopf kann das erkennen. Wenn er aber sagt: „"
+          },
+          {
+            "type": "text",
+            "text": "Freut euch und jubelt, sooft sie euch verfluchen und verfolgen; denn sehr groß ist euer Lohn im Himmel",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "ee9932c0-527b-4a31-a689-254c36d2eda8"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " “, dann gilt diese Verheißung natürlich nicht einem ungeduldigen Jubel. Denn niemand wird im Unglück jubeln, wenn er nicht zuvor gelernt hat, es zu verachten; und niemand wird es verachten, wenn er nicht gelernt hat, Geduld zu üben."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "2bda4d92-af3d-4def-91a3-7a5e4245cfc3",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 5,
+            "verse": 3
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "56e9d8ce-9c7f-4cf9-a9bf-b8c68198ffe6",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 5,
+            "verse": 5
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "8989563a-6198-4580-8341-bfe9b5107944",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 5,
+            "verse": 9
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "bc234d5e-5297-44f1-814b-0920fe548ad9",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 5,
+            "verse": 4
+          },
+          "to": null
+        },
+        {
+          "from": {
+            "book": 510,
+            "chapter": 6,
+            "verse": 21
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "cb1ac44a-3a7f-4b39-9b02-d10ed3b7301e",
+      "passages": [
+        {
+          "from": {
+            "book": 750,
+            "chapter": 3,
+            "verse": 19
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "ee9932c0-527b-4a31-a689-254c36d2eda8",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 5,
+            "verse": 11
+          },
+          "to": {
+            "book": 490,
+            "chapter": 5,
+            "verse": 12
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

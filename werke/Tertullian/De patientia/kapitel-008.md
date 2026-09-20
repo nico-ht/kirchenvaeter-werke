@@ -1,0 +1,20 @@
+# De patientia – Kapitel 8
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/tertullian-de-patientia#kapitel-313b77d2-70c9-4e13-fbc3-08df14d31bf7).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Revision: `sha256:14157470bf1a56a0ea607382168f0c8062d600bd198031020beb8a9ae2b42d26`
+
+Wir tragen in dieser Welt unsere eigene Seele, unseren eigenen Körper mit uns, beide den Angriffen aller ausgesetzt, und ertragen solche Verletzungen geduldig\. Soll uns da der Verlust weniger wichtiger Dinge schmerzen? Ein Diener Christi soll sich nicht dadurch beflecken, dass ihn die Geduld, die für größere Prüfungen gerüstet ist, bei nichtigen im Stich lässt\. Wenn jemand versucht, dich mit körperlicher Gewalt zu reizen, ist die Mahnung des Herrn zur Hand\. Er sagt: „Wer dir ins Gesicht schlägt, dem halte auch die andere Wange hin\.[^bible-cee8aaf4-8e15-44e4-b06c-52849dd98312] “ Lass die Gewalttätigkeit an deiner Geduld ermüden\. Wie dieser Schlag auch ausfällt und welche Schmerzen und welche Schmach er mit sich bringt, der Herr wird ihn mit einem schwereren vergelten\. Du verwundest den Gewalttäter stärker, indem du aushältst; denn ihn wird der schlagen, um dessentwillen du aushältst\. Wenn die Bitterkeit der Zunge in Flüchen oder Schmähungen ausbricht, erinnere dich an das Wort: „Wenn sie euch verfluchen, freut euch\.[^bible-5a7f243a-9aaf-41d6-984e-880acaee85da] “ Der Herr selbst war vor dem Gesetz verflucht[^bible-99b363ed-b9c3-4e21-a414-f5f8cc788e2b], und doch ist er der einzige Gesegnete\. Folgen wir als Diener also unserem Herrn auf Schritt und Tritt und lassen wir uns geduldig verfluchen, damit wir gesegnet werden können\. Wenn ich ein mutwilliges oder böses Wort gegen mich mit zu wenig Gelassenheit anhöre, muss ich entweder selbst die Bitterkeit erwidern oder werde von stummer Ungeduld gequält\. Wenn ich also auf einen Fluch hin mit meiner Zunge zurückschlage, wie soll sich dann zeigen, dass ich der Lehre des Herrn gefolgt bin, die besagt, dass der Mensch nicht durch die Unreinheit der Gefäße unrein wird, sondern durch die Unreinheit dessen, was aus seinem Mund kommt[^bible-7154a3d0-3e92-49ac-ae1f-7bd69997fe93]? Weiter heißt es, dass wir uns für jedes leere und unnötige Wort verantworten müssen[^bible-b432061c-08e9-40c0-b71e-a751895c9aeb]\. Daraus folgt: Was der Herr uns zu tun verwehrt, das sollen wir nach seiner Mahnung von anderen geduldig ertragen\. Ich will noch etwas über das Vergnügen sagen, das die Geduld bereitet\. Denn jede Verletzung, ob durch die Zunge oder die Hand zugefügt, wird, wenn sie auf Geduld trifft, ebenso abgewehrt wie eine Waffe, die gegen einen unerschütterlich festen Felsen geschleudert wird und daran abstumpft\. Sie fällt auf der Stelle zu Boden, und alle Mühe bleibt nutzlos und ohne Frucht\. Manchmal prallt sie auch zurück und entlädt mit der Wucht des Rückpralls ihre Wut auf den, der sie geschleudert hat\. Gewiss verletzt dich jemand deshalb, damit du Schmerz empfindest; denn das Vergnügen dessen, der verletzt, besteht im Schmerz des Verletzten\. Wenn du ihm nun sein Vergnügen verdorben hast, indem du keinen Schmerz empfindest, muss ihn der Verlust seines Vergnügens schmerzen\. Dann gehst du nicht nur unverletzt davon, was dir allein schon genügt; obendrein verschafft dir die Enttäuschung deines Gegners Genugtuung, und durch seinen Schmerz bist du gerächt\. Das ist der Nutzen und das Vergnügen der Geduld\.
+
+## Bibelverweise
+
+[^bible-5a7f243a-9aaf-41d6-984e-880acaee85da]: Mt 5,11–Mt 5,12
+[^bible-7154a3d0-3e92-49ac-ae1f-7bd69997fe93]: Mt 15,11
+[^bible-99b363ed-b9c3-4e21-a414-f5f8cc788e2b]: Gal 3,13
+[^bible-b432061c-08e9-40c0-b71e-a751895c9aeb]: Mt 12,36
+[^bible-cee8aaf4-8e15-44e4-b06c-52849dd98312]: Mt 5,39

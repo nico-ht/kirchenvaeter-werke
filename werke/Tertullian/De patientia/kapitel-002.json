@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "c5da6ec7-c5d4-4379-49fa-08df14d31b95",
+  "chapterId": "10dceb51-7d5d-474f-fbbd-08df14d31bf7",
+  "number": 2,
+  "title": "Kapitel 2",
+  "workTitle": "De patientia",
+  "authorName": "Tertullian",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/tertullian/tertullian-de-patientia#kapitel-10dceb51-7d5d-474f-fbbd-08df14d31bf7",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:fe847c9e3a380af50a71feac99bbf6e8fafc6716e82909c2b3f00f80354a5634",
+  "plainText": "Für uns beruht die Übung der Geduld nicht auf der menschlichen Pose eines hündischen, von Empfindungslosigkeit geprägten Gleichmuts, sondern auf der göttlichen Ordnung einer lebendigen, himmlischen Lebenslehre. Sie stellt uns an allererster Stelle Gott selbst als Vorbild der Geduld vor Augen: Er streut den Glanz dieses Lichts gleichermaßen über Gerechte und Ungerechte; er lässt die Wohltaten der Jahreszeiten, die Dienste der Elemente und die Gaben der gesamten Natur Würdigen wie Unwürdigen zugutekommen. Er erträgt die undankbarsten Völker, die das Spielzeug der Kunst und die Werke ihrer eigenen Hände anbeten und seinen Namen samt seiner Familie verfolgen; er erträgt Schwelgerei, Habgier, Ungerechtigkeit und Bosheit, die täglich dreister werden. So setzt er sich durch seine eigene Geduld selbst herab; denn viele glauben deshalb nicht an den Herrn, weil sie so lange nichts von seinem Zorn gegen die Welt erfahren.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Für uns beruht die Übung der Geduld nicht auf der menschlichen Pose eines hündischen, von Empfindungslosigkeit geprägten Gleichmuts, sondern auf der göttlichen Ordnung einer lebendigen, himmlischen Lebenslehre. Sie stellt uns an allererster Stelle Gott selbst als Vorbild der Geduld vor Augen: Er "
+          },
+          {
+            "type": "text",
+            "text": "streut den Glanz dieses Lichts gleichermaßen über Gerechte und Ungerechte",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "087ed133-cd55-44f5-844e-f8a24df114f6"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; er lässt die Wohltaten der Jahreszeiten, die Dienste der Elemente und die Gaben der gesamten Natur Würdigen wie Unwürdigen zugutekommen. Er erträgt die undankbarsten Völker, die das Spielzeug der Kunst und die Werke ihrer eigenen Hände anbeten und seinen Namen samt seiner Familie verfolgen; er erträgt Schwelgerei, Habgier, Ungerechtigkeit und Bosheit, die täglich dreister werden. So setzt er sich durch seine eigene Geduld selbst herab; denn viele glauben deshalb nicht an den Herrn, weil sie so lange nichts von seinem Zorn gegen die Welt erfahren."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "087ed133-cd55-44f5-844e-f8a24df114f6",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 5,
+            "verse": 45
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}
