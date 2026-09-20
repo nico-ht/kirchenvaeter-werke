@@ -6050,6 +6050,26 @@
       }
     },
     {
+      "workId": "c5da6ec7-c5d4-4379-49fa-08df14d31b95",
+      "title": "De patientia",
+      "authorId": "bb849caf-31d6-4c24-0b7f-08dd0a5aa18b",
+      "authorName": "Tertullian",
+      "collectionTitle": null,
+      "languageCode": "de",
+      "sourceUrl": "https://erste-christen.de/werke/tertullian/tertullian-de-patientia",
+      "contentRevision": "sha256:d1109705aab22ded905d7e6d7ae61ea42d252fc2e9701f84de56ef3453e1f84f",
+      "chapterCount": 16,
+      "provenance": "Eigene Übersetzung; aktuelle deutsche Texte durch Übersetzungsaufträge belegt. Keine Aussage über menschliche Prüfung.",
+      "rights": {
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "attributionName": "Die ersten Christen",
+        "attributionUrl": "https://erste-christen.de",
+        "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+        "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+      }
+    },
+    {
       "workId": "6ee1af48-6036-4372-1511-08dd1bad7a7e",
       "title": "Verschreibung gegen Häretiker",
       "authorId": "bb849caf-31d6-4c24-0b7f-08dd0a5aa18b",
@@ -6117,7 +6137,7 @@
       "collectionTitle": null,
       "languageCode": "de",
       "sourceUrl": "https://erste-christen.de/werke/tertullian/ueber-die-verschleierung-von-jungfrauen",
-      "contentRevision": "sha256:7410db0615a16034fd496d720da5aeb5ffbc4c2cca173f31c13b849e33d45c9b",
+      "contentRevision": "sha256:b4994cdeba8c1242b7503b737203d58dd9da6d992044257e124c93f052b53885",
       "chapterCount": 17,
       "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
       "rights": {
