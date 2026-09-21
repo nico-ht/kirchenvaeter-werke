@@ -16,7 +16,7 @@
     "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
     "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
   },
-  "contentRevision": "sha256:5d358f89ae9e2aca74261edd0aa53f6dfbc389699d5fe9b2e627f120115386de",
+  "contentRevision": "sha256:c4e7c7c3bb1c0ec68a8caabdb9c52cf244b52f98f2bac0f98da8cbb5b5067388",
   "plainText": "Wenden wir uns nun den Gründen zu, die der Apostel Paulus dafür lehrt, warum eine „Frau verschleiert sein soll“, und prüfen wir, ob dieselben Gründe auch für „Jungfrauen“ gelten; so wird auch daran deutlich werden, dass der Begriff „Frau“ Jungfrauen und verheiratete Frauen gemeinsam umfasst, da sich dieselben Gründe für die Verschleierung auf beiden Seiten finden. Wenn „das Haupt der Frau der Mann ist“, dann ist der Mann auch das Haupt der Jungfrau; denn aus der Jungfrau wird die Frau, die heiratet, es sei denn, du willst irgendeine ungeheuerliche dritte Art weiblichen Geschlechts erfinden, die „ihr eigenes Haupt“ ist. Wenn es „für eine Frau schändlich ist, geschoren zu werden oder sich das Haar abschneiden zu lassen“, dann ist es auch für die Jungfrau schändlich. Mag die Welt in ihrem Wetteifer gegen Gott so tun, als sei das Abschneiden des Haares einer Jungfrau „schön“, wie sie es auch bei einem Knaben zulässt. Wenn aber Scheren oder Abschneiden für sie gleichermaßen unziemlich ist, dann ist die Verschleierung für sie gleichermaßen ziemend. Wenn „die Frau die Herrlichkeit des Mannes ist“, wie viel mehr dann die Jungfrau, die auch ihre eigene Herrlichkeit ist! Wenn die Frau vom Mann kommt und für den Mann da ist, dann war jene Rippe Adams zuerst eine Jungfrau. Wenn „die Frau Vollmacht auf ihrem Haupt haben muss“, dann erst recht die Jungfrau, auf die der Grund dieser Regel am unmittelbarsten zutrifft. Wenn es „um der Engel willen“ ist, jener Engel, von denen wir lesen, dass sie wegen ihrer Begierde nach Frauen von Gott und vom Himmel abfielen: Wer könnte sich vorstellen, was für Engel bereits befleckte Leiber und Überreste menschlicher Begierde begehrt hätten, statt nach Jungfrauen zu brennen, deren eigene Blüte sogar menschliche Lust entschuldigt?\n\nDenn die Schrift selbst deutet es an: „Und es geschah, als die Menschen begannen, sich auf der Erde zu vermehren, und ihnen Töchter geboren wurden, da sahen die Söhne Gottes, dass die Töchter der Menschen schön waren, und nahmen sich Frauen von allen, die sie erwählten.“ Hier hat das griechische Wort für Frauen den Sinn von „Ehefrauen“, weil von Ehe die Rede ist. Wenn es aber „Töchter der Menschen“ heißt, weist das klar auf Jungfrauen hin, die noch unter der Vollmacht ihrer Väter standen; denn verheiratete Frauen heißen „Ehefrauen ihrer Männer“. Der Text hätte „Frauen von Männern“ sagen können, doch er nennt die Engel nicht „Ehebrecher“, sondern „Ehemänner“, weil sie „die Töchter der Menschen“ zu Frauen nahmen, eben jene „Töchter“, von denen schon gesagt wurde, sie seien „geboren“ worden, die aber noch unverheiratet waren. Damit zeigt er, dass die zuvor erwähnten „Töchter“ Jungfrauen waren. Von denen aber, die hier mit Engeln verheiratet wurden, weiß ich nichts anderes, als dass sie „geboren“ wurden und danach heirateten. Darum muss ein solches Gesicht, so gefährlich, dass es Anstöße bis in den Himmel schleuderte, verborgen werden: damit sie, wenn sie vor Gott steht, dem gegenüber sie am Sturz der Engel schuldig ist, auch vor den übrigen Engeln errötet und schließlich jene frevelhafte Freiheit ihres unbedeckten Hauptes zügelt, indem sie sich nicht einmal mehr den Augen der Männer darbietet. Und selbst wenn jene Engel vor Begierde nach bereits befleckten Frauen gebrannt hätten, müssen Jungfrauen umso mehr „um der Engel willen“ verschleiert sein, da es umso eher Jungfrauen gewesen sein konnten, die den Anlass zur Sünde der Engel gaben. Und wenn der Apostel das Zeugnis der Natur hinzufügt, dass die Fülle des Haares die Herrlichkeit der Frau ist, weil „ihr Haar ihr als Schleier gegeben ist“, dann ist dies vor allem das Kennzeichen der Jungfrau, deren Schmuck gerade darin besteht, ihr Haar so geordnet zu tragen, dass es, hoch oben auf dem Scheitel zusammengefasst, mit seinem umschließenden Kranz die höchste Stelle ihres Hauptes verhüllt.",
   "ast": {
     "type": "doc",
@@ -30,15 +30,7 @@
           },
           {
             "type": "text",
-            "text": "Frau verschleiert sein soll",
-            "marks": [
-              {
-                "type": "biblePassageLink",
-                "attrs": {
-                  "id": "79b41dab-df50-4572-89b8-ef4a214f9431"
-                }
-              }
-            ]
+            "text": "Frau verschleiert sein soll"
           },
           {
             "type": "text",
@@ -46,15 +38,7 @@
           },
           {
             "type": "text",
-            "text": "das Haupt der Frau der Mann ist",
-            "marks": [
-              {
-                "type": "biblePassageLink",
-                "attrs": {
-                  "id": "071c5190-4b7d-43ea-8a6e-7edbf0668c35"
-                }
-              }
-            ]
+            "text": "das Haupt der Frau der Mann ist"
           },
           {
             "type": "text",
@@ -62,15 +46,7 @@
           },
           {
             "type": "text",
-            "text": "für eine Frau schändlich ist, geschoren zu werden oder sich das Haar abschneiden zu lassen",
-            "marks": [
-              {
-                "type": "biblePassageLink",
-                "attrs": {
-                  "id": "112ea9ad-f898-4079-9a7f-c65b4db549ee"
-                }
-              }
-            ]
+            "text": "für eine Frau schändlich ist, geschoren zu werden oder sich das Haar abschneiden zu lassen"
           },
           {
             "type": "text",
@@ -78,15 +54,7 @@
           },
           {
             "type": "text",
-            "text": "die Frau die Herrlichkeit des Mannes ist",
-            "marks": [
-              {
-                "type": "biblePassageLink",
-                "attrs": {
-                  "id": "0ad80931-0533-409f-9b59-e6ea450c1b8c"
-                }
-              }
-            ]
+            "text": "die Frau die Herrlichkeit des Mannes ist"
           },
           {
             "type": "text",
@@ -94,15 +62,7 @@
           },
           {
             "type": "text",
-            "text": "die Frau vom Mann kommt und für den Mann da ist",
-            "marks": [
-              {
-                "type": "biblePassageLink",
-                "attrs": {
-                  "id": "1c77222e-53b4-46be-8731-ecead7470186"
-                }
-              }
-            ]
+            "text": "die Frau vom Mann kommt und für den Mann da ist"
           },
           {
             "type": "text",
@@ -110,15 +70,7 @@
           },
           {
             "type": "text",
-            "text": "Rippe Adams",
-            "marks": [
-              {
-                "type": "biblePassageLink",
-                "attrs": {
-                  "id": "e6eb7a74-32ef-4adc-bf7e-f79d62903144"
-                }
-              }
-            ]
+            "text": "Rippe Adams"
           },
           {
             "type": "text",
@@ -126,15 +78,7 @@
           },
           {
             "type": "text",
-            "text": "die Frau Vollmacht auf ihrem Haupt haben muss",
-            "marks": [
-              {
-                "type": "biblePassageLink",
-                "attrs": {
-                  "id": "79b41dab-df50-4572-89b8-ef4a214f9431"
-                }
-              }
-            ]
+            "text": "die Frau Vollmacht auf ihrem Haupt haben muss"
           },
           {
             "type": "text",
@@ -142,15 +86,7 @@
           },
           {
             "type": "text",
-            "text": "um der Engel willen",
-            "marks": [
-              {
-                "type": "biblePassageLink",
-                "attrs": {
-                  "id": "79b41dab-df50-4572-89b8-ef4a214f9431"
-                }
-              }
-            ]
+            "text": "um der Engel willen"
           },
           {
             "type": "text",
@@ -167,15 +103,7 @@
           },
           {
             "type": "text",
-            "text": "Und es geschah, als die Menschen begannen, sich auf der Erde zu vermehren, und ihnen Töchter geboren wurden, da sahen die Söhne Gottes, dass die Töchter der Menschen schön waren, und nahmen sich Frauen von allen, die sie erwählten",
-            "marks": [
-              {
-                "type": "biblePassageLink",
-                "attrs": {
-                  "id": "7d216464-93cb-444f-b636-7cd758e2a99b"
-                }
-              }
-            ]
+            "text": "Und es geschah, als die Menschen begannen, sich auf der Erde zu vermehren, und ihnen Töchter geboren wurden, da sahen die Söhne Gottes, dass die Töchter der Menschen schön waren, und nahmen sich Frauen von allen, die sie erwählten"
           },
           {
             "type": "text",
@@ -183,248 +111,32 @@
           },
           {
             "type": "text",
-            "text": "Von denen aber, die hier mit Engeln verheiratet wurden, weiß ich nichts anderes, als dass sie „geboren“ wurden und danach heirateten. Darum muss ein solches Gesicht, so gefährlich, dass es Anstöße bis in den Himmel schleuderte, verborgen werden: ",
-            "marks": [
-              {
-                "type": "lexiconQuoteLink",
-                "attrs": {
-                  "id": "53dca52b-52ef-4fae-f560-08dec56cd4a8"
-                }
-              }
-            ]
+            "text": "Von denen aber, die hier mit Engeln verheiratet wurden, weiß ich nichts anderes, als dass sie „geboren“ wurden und danach heirateten. Darum muss ein solches Gesicht, so gefährlich, dass es Anstöße bis in den Himmel schleuderte, verborgen werden: "
           },
           {
             "type": "text",
-            "text": "damit sie, wenn sie vor Gott steht, dem gegenüber sie am Sturz der Engel schuldig ist, auch vor den übrigen Engeln errötet und schließlich jene frevelhafte Freiheit ihres unbedeckten Hauptes zügelt, indem sie sich nicht einmal mehr den Augen der Männer darbietet. Und selbst wenn jene Engel vor Begierde nach bereits befleckten Frauen gebrannt hätten, müssen Jungfrauen umso mehr „",
-            "marks": [
-              {
-                "type": "lexiconQuoteLink",
-                "attrs": {
-                  "id": "53dca52b-52ef-4fae-f560-08dec56cd4a8"
-                }
-              },
-              {
-                "type": "lexiconQuoteLink",
-                "attrs": {
-                  "id": "48b1c089-982e-42bf-f561-08dec56cd4a8"
-                }
-              }
-            ]
+            "text": "damit sie, wenn sie vor Gott steht, dem gegenüber sie am Sturz der Engel schuldig ist, auch vor den übrigen Engeln errötet und schließlich jene frevelhafte Freiheit ihres unbedeckten Hauptes zügelt, indem sie sich nicht einmal mehr den Augen der Männer darbietet. Und selbst wenn jene Engel vor Begierde nach bereits befleckten Frauen gebrannt hätten, müssen Jungfrauen umso mehr „"
           },
           {
             "type": "text",
-            "text": "um der Engel willen",
-            "marks": [
-              {
-                "type": "biblePassageLink",
-                "attrs": {
-                  "id": "cc78bfbe-baf6-4508-8509-f8aa47943e58"
-                }
-              },
-              {
-                "type": "lexiconQuoteLink",
-                "attrs": {
-                  "id": "53dca52b-52ef-4fae-f560-08dec56cd4a8"
-                }
-              },
-              {
-                "type": "lexiconQuoteLink",
-                "attrs": {
-                  "id": "48b1c089-982e-42bf-f561-08dec56cd4a8"
-                }
-              }
-            ]
+            "text": "um der Engel willen"
           },
           {
             "type": "text",
-            "text": "“ verschleiert sein, da es umso eher Jungfrauen gewesen sein konnten, die den Anlass zur Sünde der Engel gaben. Und wenn der Apostel das Zeugnis der Natur hinzufügt, dass die Fülle des Haares die Herrlichkeit der Frau ist, weil „",
-            "marks": [
-              {
-                "type": "lexiconQuoteLink",
-                "attrs": {
-                  "id": "53dca52b-52ef-4fae-f560-08dec56cd4a8"
-                }
-              },
-              {
-                "type": "lexiconQuoteLink",
-                "attrs": {
-                  "id": "48b1c089-982e-42bf-f561-08dec56cd4a8"
-                }
-              }
-            ]
+            "text": "“ verschleiert sein, da es umso eher Jungfrauen gewesen sein konnten, die den Anlass zur Sünde der Engel gaben. Und wenn der Apostel das Zeugnis der Natur hinzufügt, dass die Fülle des Haares die Herrlichkeit der Frau ist, weil „"
           },
           {
             "type": "text",
-            "text": "ihr Haar ihr als Schleier gegeben ist",
-            "marks": [
-              {
-                "type": "biblePassageLink",
-                "attrs": {
-                  "id": "4f8d9597-b4a5-4ff4-8999-a2d8bc0224a0"
-                }
-              },
-              {
-                "type": "lexiconQuoteLink",
-                "attrs": {
-                  "id": "53dca52b-52ef-4fae-f560-08dec56cd4a8"
-                }
-              },
-              {
-                "type": "lexiconQuoteLink",
-                "attrs": {
-                  "id": "48b1c089-982e-42bf-f561-08dec56cd4a8"
-                }
-              }
-            ]
+            "text": "ihr Haar ihr als Schleier gegeben ist"
           },
           {
             "type": "text",
-            "text": "“, dann ist dies vor allem das Kennzeichen der Jungfrau, deren Schmuck gerade darin besteht, ihr Haar so geordnet zu tragen, dass es, hoch oben auf dem Scheitel zusammengefasst, mit seinem umschließenden Kranz die höchste Stelle ihres Hauptes verhüllt.",
-            "marks": [
-              {
-                "type": "lexiconQuoteLink",
-                "attrs": {
-                  "id": "53dca52b-52ef-4fae-f560-08dec56cd4a8"
-                }
-              },
-              {
-                "type": "lexiconQuoteLink",
-                "attrs": {
-                  "id": "48b1c089-982e-42bf-f561-08dec56cd4a8"
-                }
-              }
-            ]
+            "text": "“, dann ist dies vor allem das Kennzeichen der Jungfrau, deren Schmuck gerade darin besteht, ihr Haar so geordnet zu tragen, dass es, hoch oben auf dem Scheitel zusammengefasst, mit seinem umschließenden Kranz die höchste Stelle ihres Hauptes verhüllt."
           }
         ]
       }
     ]
   },
-  "bibleLinks": [
-    {
-      "id": "071c5190-4b7d-43ea-8a6e-7edbf0668c35",
-      "passages": [
-        {
-          "from": {
-            "book": 550,
-            "chapter": 11,
-            "verse": 3
-          },
-          "to": null
-        }
-      ]
-    },
-    {
-      "id": "0ad80931-0533-409f-9b59-e6ea450c1b8c",
-      "passages": [
-        {
-          "from": {
-            "book": 550,
-            "chapter": 11,
-            "verse": 7
-          },
-          "to": null
-        }
-      ]
-    },
-    {
-      "id": "112ea9ad-f898-4079-9a7f-c65b4db549ee",
-      "passages": [
-        {
-          "from": {
-            "book": 550,
-            "chapter": 11,
-            "verse": 6
-          },
-          "to": null
-        }
-      ]
-    },
-    {
-      "id": "1c77222e-53b4-46be-8731-ecead7470186",
-      "passages": [
-        {
-          "from": {
-            "book": 550,
-            "chapter": 11,
-            "verse": 8
-          },
-          "to": {
-            "book": 550,
-            "chapter": 11,
-            "verse": 9
-          }
-        }
-      ]
-    },
-    {
-      "id": "4f8d9597-b4a5-4ff4-8999-a2d8bc0224a0",
-      "passages": [
-        {
-          "from": {
-            "book": 550,
-            "chapter": 11,
-            "verse": 15
-          },
-          "to": null
-        }
-      ]
-    },
-    {
-      "id": "79b41dab-df50-4572-89b8-ef4a214f9431",
-      "passages": [
-        {
-          "from": {
-            "book": 550,
-            "chapter": 11,
-            "verse": 10
-          },
-          "to": null
-        }
-      ]
-    },
-    {
-      "id": "7d216464-93cb-444f-b636-7cd758e2a99b",
-      "passages": [
-        {
-          "from": {
-            "book": 1,
-            "chapter": 6,
-            "verse": 1
-          },
-          "to": {
-            "book": 1,
-            "chapter": 6,
-            "verse": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "cc78bfbe-baf6-4508-8509-f8aa47943e58",
-      "passages": [
-        {
-          "from": {
-            "book": 550,
-            "chapter": 11,
-            "verse": 10
-          },
-          "to": null
-        }
-      ]
-    },
-    {
-      "id": "e6eb7a74-32ef-4adc-bf7e-f79d62903144",
-      "passages": [
-        {
-          "from": {
-            "book": 1,
-            "chapter": 2,
-            "verse": 22
-          },
-          "to": null
-        }
-      ]
-    }
-  ],
+  "bibleLinks": [],
   "footnotes": []
 }
