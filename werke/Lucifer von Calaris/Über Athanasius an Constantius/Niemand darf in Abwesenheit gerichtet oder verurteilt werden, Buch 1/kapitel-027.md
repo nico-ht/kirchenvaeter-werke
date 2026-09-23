@@ -7,9 +7,103 @@ Autor: Lucifer von Calaris
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/lucifer-von-calaris/niemand-darf-in-abwesenheit-gerichtet-oder-verurteilt-werden-buch-1#kapitel-6f65449c-9f9d-4ac2-68b0-08ded9b64703).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e57c5dc03732c352f6c4eed24cc9b1f9656261a9bd32c1eea2a52ec2601724f8`
-
-„Wodurch“, sagst du, „werde ich dies erlangen können? Durch welche Dinge?“ Lass davon ab, das Haus Gottes zu verfolgen; lass davon ab, seine Diener zu ächten, zu verbannen und zu töten\. Bekenne, dass du Christ bist; verfluche mit uns die Schar der Arianer, die durch eine Erfindung des Teufels zusammengebracht wurde\. Glaube so, wie wir glauben, die wir Bischöfe aus der Nachfolge der seligen Apostel sind; bekenne den eingeborenen Sohn Gottes, wie jene ihn bekannt haben und wie wir ihn bekennen, und du wirst Vergebung für so große Verbrechen erlangen\. Denn du hast bei Salomo gelesen: „Tod und Leben sind in der Hand der Zunge[^bible-c2bc8ed6-0f7d-4d32-9857-8f91a86680a9]“, und beim seligen Paulus: „Mit dem Herzen glaubt man zur Gerechtigkeit, mit dem Mund aber geschieht das Bekenntnis zum Heil[^bible-1c7926ab-6998-4f77-8587-9c6372c34eb3]“\. Du erinnerst dich, dass geschrieben steht: „Ein falscher Zeuge wird nicht ungestraft bleiben, und wer ungerecht anklagt, wird nicht entkommen[^bible-c6a028e8-b5a4-444d-a49e-e88c9512ae1d]“, und dennoch hast du es gewagt, Athanasius zu verleugnen\. Denn wir hatten keinerlei Streit mit den Arianern, den Genossen deiner Sekte, da Gottes Macht sie schon längst zusammen mit Arius in Nizäa zuvor überwunden hatte, zu der Zeit, als der Glaube nicht nur gegen eure Lästerung, sondern auch gegen alle Häresien festgeschrieben wurde\. Nicht, sage ich, mit jenen Pseudobischöfen, den Feinden Gottes und deinen Lehrern, hatten wir irgendeine Streitfrage, sodass wir nochmals gegen eben die kämpfen müssten, die Gott ein für alle Mal aus seinem Volk verstoßen hatte\. Darum haben wir es jetzt mit dir zu tun, weil du dich selbst zum Urheber gemacht hast: Weil nämlich Athanasius schuldig gewesen sein sollte und wir ihn nicht bestrafen wollten, ohne dass er gehört worden war, hast du, ein Mensch, der doch wusstest, dass du selbst ein falscher Zeuge bist, wie ein wildes Raubtier und ein Ungeheuer begonnen, uns zusammen mit Athanasius bestrafen zu wollen, als könntest du mit deinem Zähneknirschen die Stärke der Diener Gottes überwinden\. Denn auch wenn Salomo sagt: „Die Drohungen eines Königs gleichen dem Brüllen eines Löwen[^bible-96cf0c82-560a-4cdd-bbcf-ea327c040cd9]“, so wird doch dein löwenhaftes Brüllen gegen uns keine Kraft haben können\. Warum? Weil du der Vorläufer des Antichristen bist und wir Soldaten Christi sind\. Warum? Weil du die Menschen Gottes nicht besiegen kannst, du Verfolger seiner Religion\. Ebenso sagt er an anderer Stelle: „Es gibt keinen Unterschied zwischen den Drohungen eines Königs und dem Zorn eines Löwen[^bible-ca73474a-9590-4458-a1d6-cb1ba8346a62]“\. Was hat das mit den Dienern Gottes zu tun, die festgesetzt haben, dass außer Gott niemand zu fürchten ist, und die daran denken, dass unsere Seelen in Gottes Hand gelegt sind? Deine Mit\-Arianer können dein Gebrüll fürchten, weil sie ohne Erkenntnis Gottes sind, weil sie keineswegs die Waffen Gottes angelegt haben\. Wir aber, die Hausgenossen Gottes, verlachen dein löwengleiches Gebrüll\. Warum? Weil wir dich als ein wildes Tier erkannt haben, dessen Gebrüll dir zugeschrieben wird, und weil wir dich, ein rasendes Tier in Menschengestalt, eher verlachen müssen, als dass wir dich fürchten\. Wenn du aber kein Tier bist, das unter dem Bild eines Menschen verborgen liegt, dann sprich\. Du hast bei Salomo gelesen: „Barmherzigkeit und Wahrheit sind dem König Schutz, und Gerechte umgeben seinen Thron[^bible-7a89ef17-d554-4dc6-8871-4d3d9f7ca3ae]“\. Da dich dagegen eine Schar bösartiger Arianer umstellt hat und wir sehen, dass du Barmherzigkeit bestrafst und Wahrheit verabscheust, wofür sollen wir dich anderes halten als für ein wildes Tier und Ungeheuer? Du erhebst dich gegen uns wie ein brüllender Löwe, weil wir Barmherzigkeit und Wahrheit lieben, weil wir den Schuldlosen und Gerechten nicht bestraft haben, und meinst du, du seiest kein unmenschliches Tier und kein äußerst grausames Ungeheuer?
+„Wodurch“,
+sagst du,
+„werde ich dies erlangen können?
+Durch welche Dinge?“
+Lass davon ab,
+das Haus Gottes zu verfolgen;
+lass davon ab,
+seine Diener zu ächten,
+zu verbannen und zu töten\.
+Bekenne,
+dass du Christ bist;
+verfluche mit uns die Schar der Arianer,
+die durch eine Erfindung des Teufels zusammengebracht wurde\.
+Glaube so,
+wie wir glauben,
+die wir Bischöfe aus der Nachfolge der seligen Apostel sind;
+bekenne den eingeborenen Sohn Gottes,
+wie jene ihn bekannt haben und wie wir ihn bekennen,
+und du wirst Vergebung für so große Verbrechen erlangen\.
+Denn du hast bei Salomo gelesen:
+„Tod und Leben sind in der Hand der Zunge[^bible-c2bc8ed6-0f7d-4d32-9857-8f91a86680a9]“,
+und beim seligen Paulus:
+„Mit dem Herzen glaubt man zur Gerechtigkeit,
+mit dem Mund aber geschieht das Bekenntnis zum Heil[^bible-1c7926ab-6998-4f77-8587-9c6372c34eb3]“\.
+Du erinnerst dich,
+dass geschrieben steht:
+„Ein falscher Zeuge wird nicht ungestraft bleiben,
+und wer ungerecht anklagt,
+wird nicht entkommen[^bible-c6a028e8-b5a4-444d-a49e-e88c9512ae1d]“,
+und dennoch hast du es gewagt,
+Athanasius zu verleugnen\.
+Denn wir hatten keinerlei Streit mit den Arianern,
+den Genossen deiner Sekte,
+da Gottes Macht sie schon längst zusammen mit Arius in Nizäa zuvor überwunden hatte,
+zu der Zeit,
+als der Glaube nicht nur gegen eure Lästerung,
+sondern auch gegen alle Häresien festgeschrieben wurde\.
+Nicht,
+sage ich,
+mit jenen Pseudobischöfen,
+den Feinden Gottes und deinen Lehrern,
+hatten wir irgendeine Streitfrage,
+sodass wir nochmals gegen eben die kämpfen müssten,
+die Gott ein für alle Mal aus seinem Volk verstoßen hatte\.
+Darum haben wir es jetzt mit dir zu tun,
+weil du dich selbst zum Urheber gemacht hast:
+Weil nämlich Athanasius schuldig gewesen sein sollte und wir ihn nicht bestrafen wollten,
+ohne dass er gehört worden war,
+hast du,
+ein Mensch,
+der doch wusstest,
+dass du selbst ein falscher Zeuge bist,
+wie ein wildes Raubtier und ein Ungeheuer begonnen,
+uns zusammen mit Athanasius bestrafen zu wollen,
+als könntest du mit deinem Zähneknirschen die Stärke der Diener Gottes überwinden\.
+Denn auch wenn Salomo sagt:
+„Die Drohungen eines Königs gleichen dem Brüllen eines Löwen[^bible-96cf0c82-560a-4cdd-bbcf-ea327c040cd9]“,
+so wird doch dein löwenhaftes Brüllen gegen uns keine Kraft haben können\.
+Warum?
+Weil du der Vorläufer des Antichristen bist und wir Soldaten Christi sind\.
+Warum?
+Weil du die Menschen Gottes nicht besiegen kannst,
+du Verfolger seiner Religion\.
+Ebenso sagt er an anderer Stelle:
+„Es gibt keinen Unterschied zwischen den Drohungen eines Königs und dem Zorn eines Löwen[^bible-ca73474a-9590-4458-a1d6-cb1ba8346a62]“\.
+Was hat das mit den Dienern Gottes zu tun,
+die festgesetzt haben,
+dass außer Gott niemand zu fürchten ist,
+und die daran denken,
+dass unsere Seelen in Gottes Hand gelegt sind?
+Deine Mit\-Arianer können dein Gebrüll fürchten,
+weil sie ohne Erkenntnis Gottes sind,
+weil sie keineswegs die Waffen Gottes angelegt haben\.
+Wir aber,
+die Hausgenossen Gottes,
+verlachen dein löwengleiches Gebrüll\.
+Warum?
+Weil wir dich als ein wildes Tier erkannt haben,
+dessen Gebrüll dir zugeschrieben wird,
+und weil wir dich,
+ein rasendes Tier in Menschengestalt,
+eher verlachen müssen,
+als dass wir dich fürchten\.
+Wenn du aber kein Tier bist,
+das unter dem Bild eines Menschen verborgen liegt,
+dann sprich\.
+Du hast bei Salomo gelesen:
+„Barmherzigkeit und Wahrheit sind dem König Schutz,
+und Gerechte umgeben seinen Thron[^bible-7a89ef17-d554-4dc6-8871-4d3d9f7ca3ae]“\.
+Da dich dagegen eine Schar bösartiger Arianer umstellt hat und wir sehen,
+dass du Barmherzigkeit bestrafst und Wahrheit verabscheust,
+wofür sollen wir dich anderes halten als für ein wildes Tier und Ungeheuer?
+Du erhebst dich gegen uns wie ein brüllender Löwe,
+weil wir Barmherzigkeit und Wahrheit lieben,
+weil wir den Schuldlosen und Gerechten nicht bestraft haben,
+und meinst du,
+du seiest kein unmenschliches Tier und kein äußerst grausames Ungeheuer?
 
 ## Bibelverweise
 

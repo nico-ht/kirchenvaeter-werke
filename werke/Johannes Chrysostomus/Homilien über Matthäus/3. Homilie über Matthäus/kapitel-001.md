@@ -7,6 +7,105 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/3-homilie-ueber-matthaeus#kapitel-478b50c0-948e-4d16-5a1b-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:12db20ea260c49bfee3acbfee12e1e738d72829af3b5b33b6e86f8e01cffe3aa`
-
-Buch der Abstammung Jesu Christi, des Sohnes Davids, des Sohnes Abrahams\. Seht, schon die dritte Lehrrede, und noch immer haben wir die Fragen aus der Einleitung nicht aufgelöst\. Also sagte ich nicht umsonst, dass diese Gedanken ihrer Natur nach große Tiefe haben\. Kommt, sprechen wir heute über das, was noch übrig ist\. Was ist nun die Frage, die jetzt vorliegt? Aus welchem Grund wird Josef in der Genealogie aufgeführt, obwohl er zur Geburt nichts beigetragen hat? Einen Grund haben wir bereits genannt; nun ist es nötig, auch den anderen zu nennen, der geheimnisvoller und verborgener ist als jener\. Welcher ist das? Christus wollte zur Zeit der Wehen den Juden nicht offenbar machen, dass er aus einer Jungfrau geboren worden war\. Lasst euch aber nicht beunruhigen, weil das Gesagte befremdlich klingt\. Denn diese Aussage stammt nicht von mir, sondern von unseren Vätern, bewundernswerten und angesehenen Männern\. Wenn er nämlich von Anfang an vieles verhüllt hat, indem er sich den Sohn des Menschen nannte, und uns auch seine Gleichheit mit dem Vater nicht überall klar enthüllt hat: Warum wunderst du dich, wenn er auch dies eine Zeit lang verhüllte und damit etwas Bewundernswertes und Großes ordnete? „Und was ist daran bewundernswert?“, sagt einer\. Dass die Jungfrau bewahrt und von einem bösen Verdacht befreit wurde\. Denn wäre dies den Juden von Anfang an offenkundig geworden, hätten sie die Jungfrau gesteinigt, indem sie das Gesagte als Verbrechen behandelten, und sie wegen Ehebruchs verurteilt\. Wenn sie sich nämlich schon bei den anderen Dingen, für die sie im Alten Bund oft Beispiele hatten, offen schamlos verhielten, denn weil er Dämonen austrieb, nannten sie ihn besessen, und weil er am Sabbat heilte, hielten sie ihn für einen Widersacher Gottes, obwohl der Sabbat schon früher oft gebrochen worden war: Was hätten sie dann nicht gesagt, wenn dies ausgesprochen worden wäre? Denn sie hatten die ganze vorangegangene Zeit als Mitstreiterin auf ihrer Seite, die nie etwas Derartiges hervorgebracht hatte\. Wenn sie ihn nach so vielen Zeichen noch immer den Sohn Josefs nannten, wie hätten sie dann vor den Zeichen geglaubt, dass er aus einer Jungfrau stammte? Eben deshalb wird er in der Genealogie aufgeführt, und eben deshalb wird die Jungfrau verlobt\. Denn wenn Josef, obwohl er gerecht und ein bewundernswerter Mann war, vieles brauchte, um das Geschehene anzunehmen: den Engel, die Erscheinung im Traum und das Zeugnis der Propheten, wie hätten dann die Juden, die roh und verdorben waren und ihm so feindlich gegenüberstanden, diese Vermutung annehmen sollen? Denn das Fremde und Neue musste sie sehr beunruhigen, und ebenso, dass sie niemals auch nur vom Hörensagen erfahren hatten, dass bei den Vorfahren etwas Derartiges geschehen sei\. Wer nämlich einmal davon überzeugt war, dass er der Sohn Gottes ist, der hatte auch an diesem Punkt keinen Grund mehr zu zweifeln\. Wer ihn aber für einen Verführer und Widersacher Gottes hielt, wie hätte der daran nicht erst recht Anstoß genommen und wäre zu jenem Verdacht geführt worden? Deshalb sagen auch die Apostel dies nicht gleich am Anfang\. Über die Auferstehung sprechen sie viel und oft, weil es dafür in früheren Zeiten Beispiele gab, wenn auch nicht von gleicher Art\. Dass er aber aus einer Jungfrau geboren wurde, sagen sie nicht ständig; ja nicht einmal die Mutter selbst wagte es, dies auszusprechen\. Sieh doch, was die Jungfrau zu ihm selbst sagt: „Siehe, ich und dein Vater suchten dich\.“ Denn wäre dies vermutet worden, hätte man ihn auch nicht mehr für den Sohn Davids gehalten\. Und wenn man dies nicht geglaubt hätte, wären daraus noch viele andere Übel entstanden\. Deshalb sagen auch die Engel dies nicht, sondern nur Maria und Josef\. Als sie aber den Hirten die geschehene Botschaft verkündeten, fügten sie dies nicht mehr hinzu\. Warum aber erwähnt er Abraham, sagt: „Er zeugte Isaak, und Isaak zeugte Jakob“, und erwähnt dessen Bruder nicht, während er, als er zu Jakob kommt, Judas und dessen Brüder nennt?
+Buch der Abstammung Jesu Christi,
+des Sohnes Davids,
+des Sohnes Abrahams\.
+Seht,
+schon die dritte Lehrrede,
+und noch immer haben wir die Fragen aus der Einleitung nicht aufgelöst\.
+Also sagte ich nicht umsonst,
+dass diese Gedanken ihrer Natur nach große Tiefe haben\.
+Kommt,
+sprechen wir heute über das,
+was noch übrig ist\.
+Was ist nun die Frage,
+die jetzt vorliegt?
+Aus welchem Grund wird Josef in der Genealogie aufgeführt,
+obwohl er zur Geburt nichts beigetragen hat?
+Einen Grund haben wir bereits genannt;
+nun ist es nötig,
+auch den anderen zu nennen,
+der geheimnisvoller und verborgener ist als jener\.
+Welcher ist das?
+Christus wollte zur Zeit der Wehen den Juden nicht offenbar machen,
+dass er aus einer Jungfrau geboren worden war\.
+Lasst euch aber nicht beunruhigen,
+weil das Gesagte befremdlich klingt\.
+Denn diese Aussage stammt nicht von mir,
+sondern von unseren Vätern,
+bewundernswerten und angesehenen Männern\.
+Wenn er nämlich von Anfang an vieles verhüllt hat,
+indem er sich den Sohn des Menschen nannte,
+und uns auch seine Gleichheit mit dem Vater nicht überall klar enthüllt hat:
+Warum wunderst du dich,
+wenn er auch dies eine Zeit lang verhüllte und damit etwas Bewundernswertes und Großes ordnete?
+„Und was ist daran bewundernswert?“,
+sagt einer\.
+Dass die Jungfrau bewahrt und von einem bösen Verdacht befreit wurde\.
+Denn wäre dies den Juden von Anfang an offenkundig geworden,
+hätten sie die Jungfrau gesteinigt,
+indem sie das Gesagte als Verbrechen behandelten,
+und sie wegen Ehebruchs verurteilt\.
+Wenn sie sich nämlich schon bei den anderen Dingen,
+für die sie im Alten Bund oft Beispiele hatten,
+offen schamlos verhielten,
+denn weil er Dämonen austrieb,
+nannten sie ihn besessen,
+und weil er am Sabbat heilte,
+hielten sie ihn für einen Widersacher Gottes,
+obwohl der Sabbat schon früher oft gebrochen worden war:
+Was hätten sie dann nicht gesagt,
+wenn dies ausgesprochen worden wäre?
+Denn sie hatten die ganze vorangegangene Zeit als Mitstreiterin auf ihrer Seite,
+die nie etwas Derartiges hervorgebracht hatte\.
+Wenn sie ihn nach so vielen Zeichen noch immer den Sohn Josefs nannten,
+wie hätten sie dann vor den Zeichen geglaubt,
+dass er aus einer Jungfrau stammte?
+Eben deshalb wird er in der Genealogie aufgeführt,
+und eben deshalb wird die Jungfrau verlobt\.
+Denn wenn Josef,
+obwohl er gerecht und ein bewundernswerter Mann war,
+vieles brauchte,
+um das Geschehene anzunehmen:
+den Engel,
+die Erscheinung im Traum und das Zeugnis der Propheten,
+wie hätten dann die Juden,
+die roh und verdorben waren und ihm so feindlich gegenüberstanden,
+diese Vermutung annehmen sollen?
+Denn das Fremde und Neue musste sie sehr beunruhigen,
+und ebenso,
+dass sie niemals auch nur vom Hörensagen erfahren hatten,
+dass bei den Vorfahren etwas Derartiges geschehen sei\.
+Wer nämlich einmal davon überzeugt war,
+dass er der Sohn Gottes ist,
+der hatte auch an diesem Punkt keinen Grund mehr zu zweifeln\.
+Wer ihn aber für einen Verführer und Widersacher Gottes hielt,
+wie hätte der daran nicht erst recht Anstoß genommen und wäre zu jenem Verdacht geführt worden?
+Deshalb sagen auch die Apostel dies nicht gleich am Anfang\.
+Über die Auferstehung sprechen sie viel und oft,
+weil es dafür in früheren Zeiten Beispiele gab,
+wenn auch nicht von gleicher Art\.
+Dass er aber aus einer Jungfrau geboren wurde,
+sagen sie nicht ständig;
+ja nicht einmal die Mutter selbst wagte es,
+dies auszusprechen\.
+Sieh doch,
+was die Jungfrau zu ihm selbst sagt:
+„Siehe,
+ich und dein Vater suchten dich\.“
+Denn wäre dies vermutet worden,
+hätte man ihn auch nicht mehr für den Sohn Davids gehalten\.
+Und wenn man dies nicht geglaubt hätte,
+wären daraus noch viele andere Übel entstanden\.
+Deshalb sagen auch die Engel dies nicht,
+sondern nur Maria und Josef\.
+Als sie aber den Hirten die geschehene Botschaft verkündeten,
+fügten sie dies nicht mehr hinzu\.
+Warum aber erwähnt er Abraham,
+sagt:
+„Er zeugte Isaak,
+und Isaak zeugte Jakob“,
+und erwähnt dessen Bruder nicht,
+während er,
+als er zu Jakob kommt,
+Judas und dessen Brüder nennt?

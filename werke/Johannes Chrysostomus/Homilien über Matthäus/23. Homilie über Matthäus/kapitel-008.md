@@ -7,9 +7,134 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/23-homilie-ueber-matthaeus#kapitel-731b3f94-d066-4b8e-5a9f-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:13041966c9306f8e86e9c399bfd24853cbc02cb73ef4a7d1cb43ec6e7528b5dd`
-
-Doch dass wir dies niemals erleiden, o eingeborener Sohn Gottes, und nie auch nur irgendeine Erfahrung dieser unheilbaren Strafe machen\! Denn wie groß das Übel ist, aus jenen Gütern herauszufallen, lässt sich nicht klar sagen\. Dennoch will ich, soweit ich es vermag, mich anstrengen und darum ringen, es euch wenigstens ein wenig durch ein Beispiel deutlich zu machen\. Nehmen wir also an, es gebe ein wunderbares Kind, und es besitze neben der Tugend auch noch das Königtum über die ganze Welt; und es wäre überall so tugendhaft, dass es alle in die Liebe einer väterlichen Gesinnung versetzen könnte\. Was, meint ihr, würde sein Vater nicht gern erleiden, um nicht aus seiner Gemeinschaft herauszufallen? Welches kleine oder große Übel würde er nicht auf sich nehmen, um es sehen und sich an ihm freuen zu dürfen? So lasst uns auch über jene Herrlichkeit denken\. Denn einem Vater ist ein Kind, selbst wenn es tausendmal tugendhaft wäre, nicht so ersehnt und liebenswert wie das Erlangen jener Güter und das Aufbrechen, um bei Christus zu sein\. Unerträglich ist die Gehenna, und unerträglich ist auch jene Strafe\. Aber selbst wenn jemand zehntausend Gehennas ansetzen würde, hätte er noch nichts genannt, was dem gleichkäme: aus jener seligen Herrlichkeit herauszufallen, von Christus gehasst zu werden, zu hören: „Ich kenne euch nicht[^bible-70c462d1-8642-4eea-9a77-7e21271958c2]“, angeklagt zu werden, weil wir ihn hungrig gesehen und nicht ernährt haben\. Denn es ist besser, zehntausend Blitze zu ertragen, als jenes sanfte Gesicht zu sehen, wie es sich von uns abwendet, und jenes ruhige Auge, das es nicht erträgt, uns anzublicken\. Wenn er mich, als ich sein Feind war, ihn hasste und mich abwandte, so verfolgt hat, dass er nicht einmal sich selbst schonte, sondern sich dem Tod auslieferte: Mit welchen Augen werde ich ihn dann noch ansehen, wenn ich ihn nach all dem nicht einmal eines Brotes für würdig halte, während er hungert? Sieh auch hier seine Milde\. Denn er nennt nicht die Wohltaten und sagt nicht: Du hast den übersehen, der dir so viel Gutes getan hat\. Er sagt ja auch nicht: „Mich, der ich dich aus dem Nichtsein ins Sein geführt habe; der ich dir Seele eingehaucht und dich über alles auf der Erde gestellt habe; der ich deinetwegen Erde und Himmel und Meer und Luft und alles Seiende geschaffen habe; der ich von dir entehrt wurde und dir geringer zu sein schien als der Teufel, und der ich trotzdem nicht von dir abließ, sondern danach noch unzählige Wege ersann; der ich gewählt habe, Sklave zu werden; der ich geschlagen und angespuckt wurde; der ich geschlachtet wurde; der ich den schändlichsten Tod gestorben bin; der ich auch oben für dich eintrete; der ich dir den Geist schenke; der ich dich des Reiches würdige; der ich solche Dinge verheiße; der ich dein Haupt sein wollte und Bräutigam, Gewand und Haus, Wurzel, Nahrung und Trank, Hirt und König, Bruder, Erbe und Miterbe, der ich dich aus der Finsternis in die Herrschaft des Lichts geführt habe\.“ Obwohl er dies und noch mehr als dies sagen könnte, sagt er nichts davon\. Was sagt er stattdessen? Nur die Sünde selbst\. Und auch darin zeigt er seine Liebe und macht sichtbar, welche Sehnsucht er nach dir hat\. Denn er sagte nicht: „Geht in das Feuer, das für euch bereitet ist“, sondern: „das für den Teufel bereitet ist[^bible-5e1fba98-f87e-403f-84df-b2c1b84c83a6]“\. Und vorher nennt er, was sie Unrechtes getan haben, und selbst so bringt er es nicht über sich, alles zu sagen, sondern nur weniges\. Und noch davor ruft er die, die recht gehandelt haben, damit er auch von daher zeigt, dass seine Anklage gerecht ist\. Welche Strafe wäre also nicht leichter zu ertragen als diese Worte? Denn wenn jemand einen Menschen, seinen Wohltäter, hungern sähe, würde er ihn nicht übersehen\. Und wenn er ihn doch übersehen hätte, würde er, sobald man ihm das vorhält, lieber in die Erde versinken wollen, als dies vor zwei oder drei Freunden zu hören\. Was werden dann wir erleiden, wenn wir dies vor der ganzen Welt hören, Worte, die er nicht einmal dann gesagt hätte, wenn er nicht darauf bedacht gewesen wäre, seine eigene Sache zu rechtfertigen? Denn dass er dies nicht vorbrachte, um zu beschämen, sondern um sich zu rechtfertigen und zu zeigen, dass er nicht grundlos und nicht ohne Ursache zu ihnen sagte: „Geht weg von mir[^bible-5e1fba98-f87e-403f-84df-b2c1b84c83a6]“, ist aus den unaussprechlichen Wohltaten klar\. Denn wenn er hätte beschämen wollen, hätte er all jenes in die Mitte gestellt; jetzt aber nennt er nur, was er erlitten hat\.
+Doch dass wir dies niemals erleiden,
+o eingeborener Sohn Gottes,
+und nie auch nur irgendeine Erfahrung dieser unheilbaren Strafe machen\!
+Denn wie groß das Übel ist,
+aus jenen Gütern herauszufallen,
+lässt sich nicht klar sagen\.
+Dennoch will ich,
+soweit ich es vermag,
+mich anstrengen und darum ringen,
+es euch wenigstens ein wenig durch ein Beispiel deutlich zu machen\.
+Nehmen wir also an,
+es gebe ein wunderbares Kind,
+und es besitze neben der Tugend auch noch das Königtum über die ganze Welt;
+und es wäre überall so tugendhaft,
+dass es alle in die Liebe einer väterlichen Gesinnung versetzen könnte\.
+Was,
+meint ihr,
+würde sein Vater nicht gern erleiden,
+um nicht aus seiner Gemeinschaft herauszufallen?
+Welches kleine oder große Übel würde er nicht auf sich nehmen,
+um es sehen und sich an ihm freuen zu dürfen?
+So lasst uns auch über jene Herrlichkeit denken\.
+Denn einem Vater ist ein Kind,
+selbst wenn es tausendmal tugendhaft wäre,
+nicht so ersehnt und liebenswert wie das Erlangen jener Güter und das Aufbrechen,
+um bei Christus zu sein\.
+Unerträglich ist die Gehenna,
+und unerträglich ist auch jene Strafe\.
+Aber selbst wenn jemand zehntausend Gehennas ansetzen würde,
+hätte er noch nichts genannt,
+was dem gleichkäme:
+aus jener seligen Herrlichkeit herauszufallen,
+von Christus gehasst zu werden,
+zu hören:
+„Ich kenne euch nicht[^bible-70c462d1-8642-4eea-9a77-7e21271958c2]“,
+angeklagt zu werden,
+weil wir ihn hungrig gesehen und nicht ernährt haben\.
+Denn es ist besser,
+zehntausend Blitze zu ertragen,
+als jenes sanfte Gesicht zu sehen,
+wie es sich von uns abwendet,
+und jenes ruhige Auge,
+das es nicht erträgt,
+uns anzublicken\.
+Wenn er mich,
+als ich sein Feind war,
+ihn hasste und mich abwandte,
+so verfolgt hat,
+dass er nicht einmal sich selbst schonte,
+sondern sich dem Tod auslieferte:
+Mit welchen Augen werde ich ihn dann noch ansehen,
+wenn ich ihn nach all dem nicht einmal eines Brotes für würdig halte,
+während er hungert?
+Sieh auch hier seine Milde\.
+Denn er nennt nicht die Wohltaten und sagt nicht:
+Du hast den übersehen,
+der dir so viel Gutes getan hat\.
+Er sagt ja auch nicht:
+„Mich,
+der ich dich aus dem Nichtsein ins Sein geführt habe;
+der ich dir Seele eingehaucht und dich über alles auf der Erde gestellt habe;
+der ich deinetwegen Erde und Himmel und Meer und Luft und alles Seiende geschaffen habe;
+der ich von dir entehrt wurde und dir geringer zu sein schien als der Teufel,
+und der ich trotzdem nicht von dir abließ,
+sondern danach noch unzählige Wege ersann;
+der ich gewählt habe,
+Sklave zu werden;
+der ich geschlagen und angespuckt wurde;
+der ich geschlachtet wurde;
+der ich den schändlichsten Tod gestorben bin;
+der ich auch oben für dich eintrete;
+der ich dir den Geist schenke;
+der ich dich des Reiches würdige;
+der ich solche Dinge verheiße;
+der ich dein Haupt sein wollte und Bräutigam,
+Gewand und Haus,
+Wurzel,
+Nahrung und Trank,
+Hirt und König,
+Bruder,
+Erbe und Miterbe,
+der ich dich aus der Finsternis in die Herrschaft des Lichts geführt habe\.“
+Obwohl er dies und noch mehr als dies sagen könnte,
+sagt er nichts davon\.
+Was sagt er stattdessen?
+Nur die Sünde selbst\.
+Und auch darin zeigt er seine Liebe und macht sichtbar,
+welche Sehnsucht er nach dir hat\.
+Denn er sagte nicht:
+„Geht in das Feuer,
+das für euch bereitet ist“,
+sondern:
+„das für den Teufel bereitet ist[^bible-5e1fba98-f87e-403f-84df-b2c1b84c83a6]“\.
+Und vorher nennt er,
+was sie Unrechtes getan haben,
+und selbst so bringt er es nicht über sich,
+alles zu sagen,
+sondern nur weniges\.
+Und noch davor ruft er die,
+die recht gehandelt haben,
+damit er auch von daher zeigt,
+dass seine Anklage gerecht ist\.
+Welche Strafe wäre also nicht leichter zu ertragen als diese Worte?
+Denn wenn jemand einen Menschen,
+seinen Wohltäter,
+hungern sähe,
+würde er ihn nicht übersehen\.
+Und wenn er ihn doch übersehen hätte,
+würde er,
+sobald man ihm das vorhält,
+lieber in die Erde versinken wollen,
+als dies vor zwei oder drei Freunden zu hören\.
+Was werden dann wir erleiden,
+wenn wir dies vor der ganzen Welt hören,
+Worte,
+die er nicht einmal dann gesagt hätte,
+wenn er nicht darauf bedacht gewesen wäre,
+seine eigene Sache zu rechtfertigen?
+Denn dass er dies nicht vorbrachte,
+um zu beschämen,
+sondern um sich zu rechtfertigen und zu zeigen,
+dass er nicht grundlos und nicht ohne Ursache zu ihnen sagte:
+„Geht weg von mir[^bible-5e1fba98-f87e-403f-84df-b2c1b84c83a6]“,
+ist aus den unaussprechlichen Wohltaten klar\.
+Denn wenn er hätte beschämen wollen,
+hätte er all jenes in die Mitte gestellt;
+jetzt aber nennt er nur,
+was er erlitten hat\.
 
 ## Bibelverweise
 

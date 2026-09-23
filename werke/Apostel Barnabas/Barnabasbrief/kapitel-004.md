@@ -7,13 +7,131 @@ Autor: Apostel Barnabas
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostel-barnabas/barnabasbrief#kapitel-7cde1747-d25f-4e80-83ea-08deb834b855).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a1e625ad8f71b31872f60ed9e47898f6df73539bbd0e94c3b9f51a0cfbb8ff6f`
+Darum müssen wir die gegenwärtigen Dinge gründlich erforschen und suchen,
+was uns retten kann\.
+Fliehen wir also vollständig vor allen Werken der Gesetzlosigkeit,
+damit uns die Werke der Gesetzlosigkeit nicht ergreifen;
+und hassen wir den Irrtum der jetzigen Zeit,
+damit wir in der künftigen geliebt werden\.
+Geben wir unserer eigenen Seele keinen Spielraum,
+sodass sie die Erlaubnis hat,
+mit Sündern und Bösen mitzulaufen,
+damit wir ihnen nicht gleich werden\.
+Das vollendete Ärgernis ist nahe gekommen[^bible-f85cd885-7d3e-444d-a25d-5688f0300e0c],
+von dem geschrieben steht,
+wie Enoch sagt\.
+Denn dazu hat der Gebieter die Zeiten und die Tage verkürzt,
+damit sein Geliebter eilt und zu seinem Erbe kommt\.
+So sagt auch der Prophet:
+„Zehn Königreiche werden auf der Erde herrschen,
+und nach ihnen wird ein kleiner König aufstehen,
+der drei von den Königen auf einmal erniedrigen wird[^bible-18654b6f-ffdf-449b-8979-0b93785f8591]\.“
+Ebenso sagt Daniel über dasselbe:
+„Und ich sah das vierte Tier,
+böse und stark und furchtbarer als alle Tiere des Meeres;
+und aus ihm wuchsen zehn Hörner hervor,
+und es erniedrigte auf einmal drei der großen Hörner[^bible-ceb5d804-763b-490e-9785-91a420464ca6]\.“
+Ihr müsst also verstehen\.
+Darüber hinaus bitte ich euch auch dies,
+als einer von euch und doch besonders euch alle mehr liebend als meine eigene Seele:
+Achtet jetzt auf euch selbst und werdet nicht manchen gleich,
+indem ihr eure Sünden noch aufhäuft und sagt:
+Der Bund gehört jenen wie auch uns\.
+Unser ist er zwar;
+doch jene haben ihn auf diese Weise endgültig verloren,
+nachdem Mose ihn schon empfangen hatte\.
+Denn die Schrift sagt:
+„Und Mose war auf dem Berg,
+fastend vierzig Tage und vierzig Nächte,
+und er empfing den Bund vom Herrn,
+steinerne Tafeln,
+beschrieben mit dem Finger der Hand des Herrn[^bible-1c43d659-b855-460f-a78c-6da77a7e4a2f]\.“
+Aber weil sie sich den Götzen zuwandten,
+verloren sie ihn\.
+Denn so sagt der Herr:
+„Mose,
+Mose,
+steig schnell hinab;
+denn dein Volk,
+das du aus dem Land Ägypten herausgeführt hast,
+hat gesetzlos gehandelt[^bible-f36bb3d1-2cfe-4f5d-9605-b62291f3df0c]\.“
+Und Mose verstand es und warf die zwei Tafeln aus seinen Händen;
+und ihr Bund wurde zerbrochen[^bible-01456216-15e2-4b19-856d-c16cee45d2bc],
+damit der Bund des geliebten Jesus in der Hoffnung des Glaubens an ihn in unser Herz eingesiegelt werde\.
+Obwohl ich vieles schreiben wollte,
+habe ich mich beeilt zu schreiben,
+nicht als Lehrer,
+sondern wie es einem Liebenden entspricht,
+nichts von dem fehlen zu lassen,
+was wir haben,
+ich,
+euer Abschaum\.
+Darum lasst uns in den letzten Tagen achtgeben\.
+Denn die ganze Zeit unseres Glaubens wird uns nichts nützen,
+wenn wir nicht jetzt,
+in der gesetzlosen Zeit und angesichts der kommenden Ärgernisse,
+Widerstand leisten,
+wie es Söhnen Gottes entspricht,
+damit der Schwarze keinen Zugang findet\.
 
-Darum müssen wir die gegenwärtigen Dinge gründlich erforschen und suchen, was uns retten kann\. Fliehen wir also vollständig vor allen Werken der Gesetzlosigkeit, damit uns die Werke der Gesetzlosigkeit nicht ergreifen; und hassen wir den Irrtum der jetzigen Zeit, damit wir in der künftigen geliebt werden\. Geben wir unserer eigenen Seele keinen Spielraum, sodass sie die Erlaubnis hat, mit Sündern und Bösen mitzulaufen, damit wir ihnen nicht gleich werden\. Das vollendete Ärgernis ist nahe gekommen[^bible-f85cd885-7d3e-444d-a25d-5688f0300e0c], von dem geschrieben steht, wie Enoch sagt\. Denn dazu hat der Gebieter die Zeiten und die Tage verkürzt, damit sein Geliebter eilt und zu seinem Erbe kommt\. So sagt auch der Prophet: „Zehn Königreiche werden auf der Erde herrschen, und nach ihnen wird ein kleiner König aufstehen, der drei von den Königen auf einmal erniedrigen wird[^bible-18654b6f-ffdf-449b-8979-0b93785f8591]\.“ Ebenso sagt Daniel über dasselbe: „Und ich sah das vierte Tier, böse und stark und furchtbarer als alle Tiere des Meeres; und aus ihm wuchsen zehn Hörner hervor, und es erniedrigte auf einmal drei der großen Hörner[^bible-ceb5d804-763b-490e-9785-91a420464ca6]\.“ Ihr müsst also verstehen\. Darüber hinaus bitte ich euch auch dies, als einer von euch und doch besonders euch alle mehr liebend als meine eigene Seele: Achtet jetzt auf euch selbst und werdet nicht manchen gleich, indem ihr eure Sünden noch aufhäuft und sagt: Der Bund gehört jenen wie auch uns\. Unser ist er zwar; doch jene haben ihn auf diese Weise endgültig verloren, nachdem Mose ihn schon empfangen hatte\. Denn die Schrift sagt: „Und Mose war auf dem Berg, fastend vierzig Tage und vierzig Nächte, und er empfing den Bund vom Herrn, steinerne Tafeln, beschrieben mit dem Finger der Hand des Herrn[^bible-1c43d659-b855-460f-a78c-6da77a7e4a2f]\.“ Aber weil sie sich den Götzen zuwandten, verloren sie ihn\. Denn so sagt der Herr: „Mose, Mose, steig schnell hinab; denn dein Volk, das du aus dem Land Ägypten herausgeführt hast, hat gesetzlos gehandelt[^bible-f36bb3d1-2cfe-4f5d-9605-b62291f3df0c]\.“ Und Mose verstand es und warf die zwei Tafeln aus seinen Händen; und ihr Bund wurde zerbrochen[^bible-01456216-15e2-4b19-856d-c16cee45d2bc], damit der Bund des geliebten Jesus in der Hoffnung des Glaubens an ihn in unser Herz eingesiegelt werde\. Obwohl ich vieles schreiben wollte, habe ich mich beeilt zu schreiben, nicht als Lehrer, sondern wie es einem Liebenden entspricht, nichts von dem fehlen zu lassen, was wir haben, ich, euer Abschaum\. Darum lasst uns in den letzten Tagen achtgeben\. Denn die ganze Zeit unseres Glaubens wird uns nichts nützen, wenn wir nicht jetzt, in der gesetzlosen Zeit und angesichts der kommenden Ärgernisse, Widerstand leisten, wie es Söhnen Gottes entspricht, damit der Schwarze keinen Zugang findet\.
+Lasst uns vor jeder Nichtigkeit fliehen;
+lasst uns die Werke des bösen Weges ganz und gar hassen\.
+Zieht euch nicht auf euch selbst zurück und lebt nicht für euch allein,
+als wärt ihr schon gerechtfertigt,
+sondern kommt an demselben Ort zusammen und beratet miteinander über das,
+was allen gemeinsam nützt\.
+Denn die Schrift sagt:
+„Wehe denen,
+die in ihren eigenen Augen verständig und vor sich selbst klug sind[^bible-319531c3-d89d-47e5-a506-3a37e81fa286]\.“
+Lasst uns geistlich werden;
+lasst uns ein vollkommener Tempel für Gott werden\.
+Soweit es an uns liegt,
+lasst uns die Furcht Gottes einüben und darum ringen,
+seine Gebote zu bewahren,
+damit wir uns an seinen gerechten Satzungen freuen\.
+Der Herr wird die Welt ohne Ansehen der Person richten\.
+Jeder wird empfangen,
+wie er gehandelt hat[^bible-4fa16996-aad7-4a23-bec7-98eb3b5e3a08]\.
+Wenn er gut ist oder böse:
+der Lohn der Bosheit liegt vor ihm;
+damit wir uns nicht darauf ausruhen,
+berufen zu sein,
+und über unseren Sünden einschlafen,
+sodass der böse Herrscher die Macht gegen uns ergreift und uns vom Reich des Herrn wegstößt\.
+Und noch dies,
+meine Brüder,
+sollt ihr bedenken:
+Wenn ihr seht,
+dass sie nach so großen Zeichen und Wundern in Israel dennoch so verlassen worden sind,
+dann lasst uns achtgeben,
+damit wir nicht,
+wie geschrieben steht,
+„als viele Berufene,
+aber wenige Erwählte[^bible-3aa84151-c61e-4d4d-9ec3-67e138c213ad]“ erfunden werden\.
 
-Lasst uns vor jeder Nichtigkeit fliehen; lasst uns die Werke des bösen Weges ganz und gar hassen\. Zieht euch nicht auf euch selbst zurück und lebt nicht für euch allein, als wärt ihr schon gerechtfertigt, sondern kommt an demselben Ort zusammen und beratet miteinander über das, was allen gemeinsam nützt\. Denn die Schrift sagt: „Wehe denen, die in ihren eigenen Augen verständig und vor sich selbst klug sind[^bible-319531c3-d89d-47e5-a506-3a37e81fa286]\.“ Lasst uns geistlich werden; lasst uns ein vollkommener Tempel für Gott werden\. Soweit es an uns liegt, lasst uns die Furcht Gottes einüben und darum ringen, seine Gebote zu bewahren, damit wir uns an seinen gerechten Satzungen freuen\. Der Herr wird die Welt ohne Ansehen der Person richten\. Jeder wird empfangen, wie er gehandelt hat[^bible-4fa16996-aad7-4a23-bec7-98eb3b5e3a08]\. Wenn er gut ist oder böse: der Lohn der Bosheit liegt vor ihm; damit wir uns nicht darauf ausruhen, berufen zu sein, und über unseren Sünden einschlafen, sodass der böse Herrscher die Macht gegen uns ergreift und uns vom Reich des Herrn wegstößt\. Und noch dies, meine Brüder, sollt ihr bedenken: Wenn ihr seht, dass sie nach so großen Zeichen und Wundern in Israel dennoch so verlassen worden sind, dann lasst uns achtgeben, damit wir nicht, wie geschrieben steht, „als viele Berufene, aber wenige Erwählte[^bible-3aa84151-c61e-4d4d-9ec3-67e138c213ad]“ erfunden werden\.
-
-Soweit es an uns liegt, lasst uns die Furcht Gottes einüben und darum ringen, seine Gebote zu bewahren, damit wir uns an seinen gerechten Satzungen freuen\. Der Herr wird die Welt ohne Ansehen der Person richten\. Jeder wird empfangen, wie er gehandelt hat\. Sei er gut oder böse: Der Lohn der Bosheit liegt vor ihm; damit wir uns nicht darauf ausruhen, berufen zu sein, und über unseren Sünden einschlafen, sodass der böse Herrscher die Macht gegen uns ergreift und uns vom Reich des Herrn wegstößt\. Und noch dies, meine Brüder, sollt ihr bedenken: Wenn ihr seht, dass sie nach so großen Zeichen und Wundern in Israel so verlassen worden sind, dann lasst uns achtgeben, damit wir nicht, wie geschrieben steht, als „viele Berufene, aber wenige Erwählte[^bible-83a52508-fac7-4cef-9ece-ac2cc7cdb7d2]“ erfunden werden\.
+Soweit es an uns liegt,
+lasst uns die Furcht Gottes einüben und darum ringen,
+seine Gebote zu bewahren,
+damit wir uns an seinen gerechten Satzungen freuen\.
+Der Herr wird die Welt ohne Ansehen der Person richten\.
+Jeder wird empfangen,
+wie er gehandelt hat\.
+Sei er gut oder böse:
+Der Lohn der Bosheit liegt vor ihm;
+damit wir uns nicht darauf ausruhen,
+berufen zu sein,
+und über unseren Sünden einschlafen,
+sodass der böse Herrscher die Macht gegen uns ergreift und uns vom Reich des Herrn wegstößt\.
+Und noch dies,
+meine Brüder,
+sollt ihr bedenken:
+Wenn ihr seht,
+dass sie nach so großen Zeichen und Wundern in Israel so verlassen worden sind,
+dann lasst uns achtgeben,
+damit wir nicht,
+wie geschrieben steht,
+als „viele Berufene,
+aber wenige Erwählte[^bible-83a52508-fac7-4cef-9ece-ac2cc7cdb7d2]“ erfunden werden\.
 
 ## Bibelverweise
 

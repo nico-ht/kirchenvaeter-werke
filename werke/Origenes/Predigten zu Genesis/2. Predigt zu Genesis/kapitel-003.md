@@ -7,27 +7,215 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/2-predigt-zu-genesis#kapitel-12c2f43a-90d1-4263-4a77-08dd1138e6c8).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f45a48e05aeb012a5b79940a7cabf62f0386cc5555141c1aa62f9417e2619eee`
+Da wir nun bereits zuvor zu dem gebetet haben,
+der allein den Schleier vom Lesen des Alten Testaments entfernen kann,
+wollen wir versuchen zu erkunden,
+welche geistliche Erbauung auch dieser prächtige Bau der Arche enthält\.
+Ich denke daher,
+so weit ich es mit meinem begrenzten Verständnis erfassen kann,
+dass die Flut,
+die damals die Welt beinahe endete,
+eine Form des Endes der Welt enthält,
+das wirklich kommen wird\.
+Denn auch der Herr selbst kündigte an und sagte:
+„Denn wie es in den Tagen Noahs war,
+so werden auch die Tage des Menschensohnes sein\.“[^bible-bebe1cd2-116a-4306-bb6c-1f90c89bdb5d]
+In dieser Aussage stellt der Herr klar,
+dass die Flut,
+die vorausging,
+und das Ende der Welt,
+von dem er sagt,
+dass es kommen wird,
+ein und dasselbe ist\.
 
-Da wir nun bereits zuvor zu dem gebetet haben, der allein den Schleier vom Lesen des Alten Testaments entfernen kann, wollen wir versuchen zu erkunden, welche geistliche Erbauung auch dieser prächtige Bau der Arche enthält\. Ich denke daher, so weit ich es mit meinem begrenzten Verständnis erfassen kann, dass die Flut, die damals die Welt beinahe endete, eine Form des Endes der Welt enthält, das wirklich kommen wird\. Denn auch der Herr selbst kündigte an und sagte: „Denn wie es in den Tagen Noahs war, so werden auch die Tage des Menschensohnes sein\.“[^bible-bebe1cd2-116a-4306-bb6c-1f90c89bdb5d] In dieser Aussage stellt der Herr klar, dass die Flut, die vorausging, und das Ende der Welt, von dem er sagt, dass es kommen wird, ein und dasselbe ist\.
+So wie damals zu Noah gesagt wurde,
+er solle eine Arche bauen und nicht nur seine Söhne und Nachbarn,
+sondern auch verschiedene Arten von Tieren mit sich hineinbringen,
+so wird auch zu unserem Noah,
+der allein wahrhaftig gerecht und vollkommen ist,
+vom Vater in der Vollendung der Zeiten gesagt,
+dass er sich eine Arche aus quadratischen Planken machen und ihr Maße mit himmlischen Geheimnissen füllen soll\.
+Denn dies wird im Psalm beschrieben,
+wo es heißt:
+„Bitte mich,
+und ich werde dir die Heiden zum Erbe geben und die Enden der Erde zu deinem Besitz\.“
 
-So wie damals zu Noah gesagt wurde, er solle eine Arche bauen und nicht nur seine Söhne und Nachbarn, sondern auch verschiedene Arten von Tieren mit sich hineinbringen, so wird auch zu unserem Noah, der allein wahrhaftig gerecht und vollkommen ist, vom Vater in der Vollendung der Zeiten gesagt, dass er sich eine Arche aus quadratischen Planken machen und ihr Maße mit himmlischen Geheimnissen füllen soll\. Denn dies wird im Psalm beschrieben, wo es heißt: „Bitte mich, und ich werde dir die Heiden zum Erbe geben und die Enden der Erde zu deinem Besitz\.“
+Daher konstruiert er die Arche und macht Nester darin,
+das heißt,
+bestimmte Kammern,
+in denen Tiere verschiedener Art empfangen werden\.
+Der Prophet spricht auch von diesen Kammern:
+„Gehe,
+mein Volk,
+in deine Kammern,
+verstecke dich eine Weile,
+bis der Zorn meines Angesichts vorübergeht\.“[^bible-08a486cf-44fd-4e4d-b44a-a9b707817f81]
+Dieses Volk,
+das in der Kirche gerettet wird,
+wird mit all jenen verglichen,
+ob Menschen oder Tiere,
+die in der Arche gerettet wurden\.
 
-Daher konstruiert er die Arche und macht Nester darin, das heißt, bestimmte Kammern, in denen Tiere verschiedener Art empfangen werden\. Der Prophet spricht auch von diesen Kammern: „Gehe, mein Volk, in deine Kammern, verstecke dich eine Weile, bis der Zorn meines Angesichts vorübergeht\.“[^bible-08a486cf-44fd-4e4d-b44a-a9b707817f81] Dieses Volk, das in der Kirche gerettet wird, wird mit all jenen verglichen, ob Menschen oder Tiere, die in der Arche gerettet wurden\.
+Da jedoch weder das Verdienst aller noch der Fortschritt im Glauben gleich ist,
+bietet auch diese Arche nicht einen einzigen Wohnraum für alle\.
+Vielmehr gibt es zwei untere Decks und drei obere Decks,
+und die Abteile sind darin getrennt,
+um zu zeigen,
+dass auch in der Kirche,
+obwohl alle im einen Glauben enthalten sind und im einen Baptismus gewaschen werden,
+der Fortschritt jedoch nicht für alle gleich ist,
+„sondern jeder in seiner eigenen Ordnung\.“
+Diese,
+die durch rationales Wissen leben und fähig sind,
+nicht nur sich selbst zu regieren,
+sondern auch andere zu lehren,
+da nur sehr wenige zu finden sind,
+repräsentieren die wenigen,
+die mit Noah selbst gerettet werden und mit ihm in engster Beziehung stehen\.
+So hat auch unser Herr,
+der wahre Noah,
+Christus Jesus,
+nur wenige Vertraute,
+wenige Söhne und Verwandte,
+die an seinem Wort teilhaben und fähig sind,
+seine Weisheit zu empfangen\.
+Diese sind die,
+die in der höchsten Position stehen und im obersten Teil der Arche versammelt sind\.
 
-Da jedoch weder das Verdienst aller noch der Fortschritt im Glauben gleich ist, bietet auch diese Arche nicht einen einzigen Wohnraum für alle\. Vielmehr gibt es zwei untere Decks und drei obere Decks, und die Abteile sind darin getrennt, um zu zeigen, dass auch in der Kirche, obwohl alle im einen Glauben enthalten sind und im einen Baptismus gewaschen werden, der Fortschritt jedoch nicht für alle gleich ist, „sondern jeder in seiner eigenen Ordnung\.“ Diese, die durch rationales Wissen leben und fähig sind, nicht nur sich selbst zu regieren, sondern auch andere zu lehren, da nur sehr wenige zu finden sind, repräsentieren die wenigen, die mit Noah selbst gerettet werden und mit ihm in engster Beziehung stehen\. So hat auch unser Herr, der wahre Noah, Christus Jesus, nur wenige Vertraute, wenige Söhne und Verwandte, die an seinem Wort teilhaben und fähig sind, seine Weisheit zu empfangen\. Diese sind die, die in der höchsten Position stehen und im obersten Teil der Arche versammelt sind\.
+Eine Vielzahl anderer irrationaler Tiere oder sogar Bestien wird in den unteren Decks gehalten,
+insbesondere eine Vielzahl jener Tiere,
+deren wütendes Toben der Zauber des Glaubens nicht gezähmt hat\.
+Von dieser Gruppe sind diejenigen,
+die etwas überlegen sind,
+obwohl sie in der Vernunft zurückbleiben,
+dennoch einfacher und unschuldiger\.
 
-Eine Vielzahl anderer irrationaler Tiere oder sogar Bestien wird in den unteren Decks gehalten, insbesondere eine Vielzahl jener Tiere, deren wütendes Toben der Zauber des Glaubens nicht gezähmt hat\. Von dieser Gruppe sind diejenigen, die etwas überlegen sind, obwohl sie in der Vernunft zurückbleiben, dennoch einfacher und unschuldiger\.
+So gelangt man durch das Aufsteigen durch die einzelnen Ebenen der Wohnungen zu Noah selbst,
+dessen Name Ruhe oder Gerechtigkeit bedeutet,
+der Christus Jesus ist\.
+Denn was Lamech,
+sein Vater,
+sagt,
+ist nicht auf den alten Noah anwendbar\.
+Denn „dieser“,
+sagt er,
+„wird uns Ruhe geben von den Mühen und den Sorgen unserer Hände und von der Erde,
+die der Herr Gott verflucht hat\.“
+Wie kann es wahr sein,
+dass der alte Noah Lamech oder das Volk,
+das damals in den Ländern war,
+Ruhe gegeben hat?
+Wie kann es eine Beendigung von Sorgen und Mühen in den Zeiten Noahs geben?
+Wie wird der Fluch,
+den der Herr auf die Erde gelegt hat,
+aufgehoben,
+wenn vielmehr der göttliche Zorn größer zu sein scheint und Gott berichtet wird,
+dass er sagt:
+„Es tut mir leid,
+dass ich den Menschen auf der Erde gemacht habe,“
+und wieder sagt er:
+„Ich will alles Fleisch,
+das auf der Erde ist,
+vernichten,“[^bible-9797a28d-8f5a-4c81-835b-daec43c3a72a]
+und die Zerstörung der Lebenden wird vor allem als Zeichen des größten Missmuts gegeben?
 
-So gelangt man durch das Aufsteigen durch die einzelnen Ebenen der Wohnungen zu Noah selbst, dessen Name Ruhe oder Gerechtigkeit bedeutet, der Christus Jesus ist\. Denn was Lamech, sein Vater, sagt, ist nicht auf den alten Noah anwendbar\. Denn „dieser“, sagt er, „wird uns Ruhe geben von den Mühen und den Sorgen unserer Hände und von der Erde, die der Herr Gott verflucht hat\.“ Wie kann es wahr sein, dass der alte Noah Lamech oder das Volk, das damals in den Ländern war, Ruhe gegeben hat? Wie kann es eine Beendigung von Sorgen und Mühen in den Zeiten Noahs geben? Wie wird der Fluch, den der Herr auf die Erde gelegt hat, aufgehoben, wenn vielmehr der göttliche Zorn größer zu sein scheint und Gott berichtet wird, dass er sagt: „Es tut mir leid, dass ich den Menschen auf der Erde gemacht habe,“ und wieder sagt er: „Ich will alles Fleisch, das auf der Erde ist, vernichten,“[^bible-9797a28d-8f5a-4c81-835b-daec43c3a72a] und die Zerstörung der Lebenden wird vor allem als Zeichen des größten Missmuts gegeben?
+Wenn du jedoch auf unseren Herrn Jesus Christus schaust,
+von dem gesagt wird:
+„Siehe,
+das Lamm Gottes,
+siehe,
+der die Sünde der Welt wegnimmt,“[^bible-11e9e8d6-21f8-49e2-bedd-921521c7d67f]
+und von dem erneut gesagt wird:
+„Er wurde zum Fluch für uns gemacht,
+damit er uns von dem Fluch des Gesetzes erlösen könnte,“[^bible-e9c048c9-6c1a-4d56-96db-15f40ada0619]
+und wieder,
+wenn die Schrift sagt:
+„Kommt zu mir,
+die ihr mühselig und beladen seid,
+und ich werde euch erquicken,
+und ihr werdet Ruhe finden für eure Seelen,“[^bible-d1e671e5-a1fb-43d6-a465-c079b45db216]
+wirst du ihn finden als den,
+der den Menschen wahrhaftig Ruhe gegeben hat und die Erde von dem Fluch befreit hat,
+mit dem der Herr Gott sie verflucht hat\.
+Daher wird zu diesem geistlichen Noah,
+der den Menschen Ruhe gegeben hat und die Sünde der Welt weggenommen hat,
+gesagt:
+„Du sollst dir eine Arche aus quadratischen Planken machen\.“
 
-Wenn du jedoch auf unseren Herrn Jesus Christus schaust, von dem gesagt wird: „Siehe, das Lamm Gottes, siehe, der die Sünde der Welt wegnimmt,“[^bible-11e9e8d6-21f8-49e2-bedd-921521c7d67f] und von dem erneut gesagt wird: „Er wurde zum Fluch für uns gemacht, damit er uns von dem Fluch des Gesetzes erlösen könnte,“[^bible-e9c048c9-6c1a-4d56-96db-15f40ada0619] und wieder, wenn die Schrift sagt: „Kommt zu mir, die ihr mühselig und beladen seid, und ich werde euch erquicken, und ihr werdet Ruhe finden für eure Seelen,“[^bible-d1e671e5-a1fb-43d6-a465-c079b45db216] wirst du ihn finden als den, der den Menschen wahrhaftig Ruhe gegeben hat und die Erde von dem Fluch befreit hat, mit dem der Herr Gott sie verflucht hat\. Daher wird zu diesem geistlichen Noah, der den Menschen Ruhe gegeben hat und die Sünde der Welt weggenommen hat, gesagt: „Du sollst dir eine Arche aus quadratischen Planken machen\.“
+Jene,
+die wahrhaft durch rationales Wissen leben und nicht nur in der Lage sind,
+sich selbst zu regieren,
+sondern auch andere zu lehren,
+stellen,
+da nur sehr wenige zu finden sind,
+die wenigen dar,
+die zusammen mit Noah selbst gerettet werden und in engster Beziehung zu ihm stehen,
+so wie auch unser Herr,
+der wahre Noah,
+Christus Jesus,
+nur wenige Vertraute,
+wenige Söhne und Verwandte hat,
+die an seinem Wort teilnehmen und fähig sind,
+seine Weisheit zu empfangen\.
+Und diese werden in die höchste Stellung erhoben und im obersten Teil der Arche versammelt\.
+Eine Vielzahl anderer irrationaler Tiere oder sogar Bestien wird in den unteren Decks gehalten,
+insbesondere eine Vielzahl jener Tiere,
+deren wütendes Toben der Zauber des Glaubens nicht gezähmt hat\.
+Von dieser Gruppe sind diejenigen,
+die zwar in der Vernunft hinterherhinken,
+jedoch mehr Einfachheit und Unschuld bewahren,
+etwas überlegen\.
 
-Jene, die wahrhaft durch rationales Wissen leben und nicht nur in der Lage sind, sich selbst zu regieren, sondern auch andere zu lehren, stellen, da nur sehr wenige zu finden sind, die wenigen dar, die zusammen mit Noah selbst gerettet werden und in engster Beziehung zu ihm stehen, so wie auch unser Herr, der wahre Noah, Christus Jesus, nur wenige Vertraute, wenige Söhne und Verwandte hat, die an seinem Wort teilnehmen und fähig sind, seine Weisheit zu empfangen\. Und diese werden in die höchste Stellung erhoben und im obersten Teil der Arche versammelt\. Eine Vielzahl anderer irrationaler Tiere oder sogar Bestien wird in den unteren Decks gehalten, insbesondere eine Vielzahl jener Tiere, deren wütendes Toben der Zauber des Glaubens nicht gezähmt hat\. Von dieser Gruppe sind diejenigen, die zwar in der Vernunft hinterherhinken, jedoch mehr Einfachheit und Unschuld bewahren, etwas überlegen\.
+So gelangt man durch das Aufsteigen in die einzelnen Ebenen der Wohnungen zu Noah selbst,
+dessen Name Ruhe oder Gerechtigkeit bedeutet,
+der Christus Jesus ist\.
+Denn was Lamech,
+sein Vater,
+sagt,
+ist nicht auf den alten Noah anwendbar\.
+Denn „dieser“,
+sagt er,
+„wird uns Ruhe geben von den Mühen und den Sorgen unserer Hände und von der Erde,
+die der Herr Gott verflucht hat\.“[^bible-d6b6e82c-ebd1-4752-be6b-4609298c6ecd]
+Wie kann es wahr sein,
+dass der alte Noah Lamech oder das Volk,
+das damals in den Ländern lebte,
+Ruhe gegeben hat?
+Wie kann es eine Beendigung von Sorgen und Mühen in den Zeiten Noahs gegeben haben?
+Wie wird der Fluch,
+den der Herr auf die Erde gelegt hat,
+aufgehoben,
+wenn vielmehr der göttliche Zorn größer erscheint und vonn Gott berichtet wird,
+dass er sagt:
+„Es tut mir leid,
+dass ich den Menschen auf der Erde gemacht habe,“
+[^bible-20119423-dc94-48f2-b037-943024d09a4a]und erneut sagt er:
+„Ich will alles Fleisch,
+das auf der Erde ist,
+vernichten,“[^bible-9b3ad5f5-dc71-4ce3-be25-16a927d9f160]
+und die Zerstörung der Lebenden wird vor allem als Zeichen des größten Missmuts gegeben?
 
-So gelangt man durch das Aufsteigen in die einzelnen Ebenen der Wohnungen zu Noah selbst, dessen Name Ruhe oder Gerechtigkeit bedeutet, der Christus Jesus ist\. Denn was Lamech, sein Vater, sagt, ist nicht auf den alten Noah anwendbar\. Denn „dieser“, sagt er, „wird uns Ruhe geben von den Mühen und den Sorgen unserer Hände und von der Erde, die der Herr Gott verflucht hat\.“[^bible-d6b6e82c-ebd1-4752-be6b-4609298c6ecd] Wie kann es wahr sein, dass der alte Noah Lamech oder das Volk, das damals in den Ländern lebte, Ruhe gegeben hat? Wie kann es eine Beendigung von Sorgen und Mühen in den Zeiten Noahs gegeben haben? Wie wird der Fluch, den der Herr auf die Erde gelegt hat, aufgehoben, wenn vielmehr der göttliche Zorn größer erscheint und vonn Gott berichtet wird, dass er sagt: „Es tut mir leid, dass ich den Menschen auf der Erde gemacht habe,“ [^bible-20119423-dc94-48f2-b037-943024d09a4a]und erneut sagt er: „Ich will alles Fleisch, das auf der Erde ist, vernichten,“[^bible-9b3ad5f5-dc71-4ce3-be25-16a927d9f160] und die Zerstörung der Lebenden wird vor allem als Zeichen des größten Missmuts gegeben?
-
-Wenn du jedoch auf unseren Herrn Jesus Christus schaust, von dem gesagt wird: „Siehe, das Lamm Gottes, siehe, der die Sünde der Welt hinweg nimmt,“[^bible-2a240578-f811-41b3-b538-14d8a797d03d] und von dem erneut gesagt wird: „Er wurde zum Fluch für uns, damit er uns von dem Fluch des Gesetzes erlösen könnte,“[^bible-c0184dcd-3e4f-4ae7-9c06-acdf550ac385] und wenn die Schrift sagt: „Kommt zu mir, die ihr mühselig und beladen seid, und ich werde euch erfrischen, und ihr werdet Ruhe für eure Seelen finden,“[^bible-517658e6-5de6-4c55-b971-b9ac1bb7998f] wirst du ihn als den finden, der den Menschen wahrhaft Ruhe gegeben hat und die Erde von dem Fluch befreit hat, mit dem der Herr Gott sie verflucht hat\. Daher wird zu diesem geistlichen Noah, der den Menschen Ruhe gegeben und die Sünde der Welt hinweggenommen hat, gesagt: „Du sollst dir eine Arche aus quadratischen Planken machen\.“
+Wenn du jedoch auf unseren Herrn Jesus Christus schaust,
+von dem gesagt wird:
+„Siehe,
+das Lamm Gottes,
+siehe,
+der die Sünde der Welt hinweg nimmt,“[^bible-2a240578-f811-41b3-b538-14d8a797d03d]
+und von dem erneut gesagt wird:
+„Er wurde zum Fluch für uns,
+damit er uns von dem Fluch des Gesetzes erlösen könnte,“[^bible-c0184dcd-3e4f-4ae7-9c06-acdf550ac385]
+und wenn die Schrift sagt:
+„Kommt zu mir,
+die ihr mühselig und beladen seid,
+und ich werde euch erfrischen,
+und ihr werdet Ruhe für eure Seelen finden,“[^bible-517658e6-5de6-4c55-b971-b9ac1bb7998f]
+wirst du ihn als den finden,
+der den Menschen wahrhaft Ruhe gegeben hat und die Erde von dem Fluch befreit hat,
+mit dem der Herr Gott sie verflucht hat\.
+Daher wird zu diesem geistlichen Noah,
+der den Menschen Ruhe gegeben und die Sünde der Welt hinweggenommen hat,
+gesagt:
+„Du sollst dir eine Arche aus quadratischen Planken machen\.“
 
 ## Bibelverweise
 

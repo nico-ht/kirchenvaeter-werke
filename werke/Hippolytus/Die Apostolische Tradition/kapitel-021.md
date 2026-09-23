@@ -7,11 +7,201 @@ Autor: Hippolytus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/hippolytus/die-apostolische-tradition#kapitel-74b00506-e205-48ab-86c8-08dd08e25f52).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:4f1170f9b3bc8d2e695ab67073127ca7d918bebad37807010130858ea73644f2`
+Zu der Stunde,
+in der der Hahn kräht,
+sollen sie zuerst über dem Wasser beten\.
+Wenn sie zum Wasser kommen,
+soll das Wasser rein und fließend sein,
+das heißt Wasser aus einer Quelle oder aus einem fließenden Gewässer\.
+Dann sollen sie alle ihre Kleider ablegen\.
+Zuerst sollen die Kinder getauft werden\.
+Alle Kinder,
+die für sich selbst antworten können,
+sollen antworten\.
+Wenn es Kinder gibt,
+die nicht für sich selbst antworten können,
+sollen ihre Eltern für sie antworten oder jemand anderes aus ihrer Familie\.
+Danach werden die Männer getauft\.
+Zuletzt die Frauen,
+nachdem sie ihr Haar gelöst und ihren Schmuck abgelegt haben\.
+Niemand soll irgendeinen fremden Gegenstand mit sich hinab ins Wasser nehmen\.
+Zu der für die Taufe bestimmten Zeit soll der Bischof über etwas Öl Dank sagen und es in ein Gefäß geben\.
+Es heißt Öl der Danksagung\.
+Dann soll er weiteres Öl nehmen und es exorzieren\.
+Es heißt Öl des Exorzismus\.
+Ein Diakon soll das Öl des Exorzismus halten und links stehen\.
+Ein anderer Diakon soll das Öl der Danksagung halten und rechts stehen\.
+Wenn der Presbyter jeden einzelnen von denen,
+die die Taufe empfangen sollen,
+ergreift,
+soll er jeden auffordern zu entsagen,
+indem er sagt:
+„Ich entsage dir,
+Satan,
+deinem ganzen Dienst und all deinen Werken\.“
+Nachdem er dies gesagt hat,
+soll er jeden mit dem Öl des Exorzismus salben und sagen:
+„Jeder böse Geist weiche von dir\.“
+Danach übergibt der Bischof jeden von ihnen nackt dem Presbyter,
+der am Wasser steht\.
+Sie sollen nackt im Wasser stehen\.
+Ebenso wird ein Diakon mit ihnen ins Wasser hinabsteigen\.
+Wenn jeder von denen,
+die getauft werden sollen,
+ins Wasser hinabgestiegen ist,
+soll der Taufende jedem die Hände auflegen und fragen:
+„Glaubst du an Gott,
+den allmächtigen Vater?“
+Und der,
+der getauft wird,
+soll antworten:
+„Ich glaube\.“
+Dann soll er jeden einmal taufen und dabei jedem die Hand auf den Kopf legen\.
+Dann soll er fragen:
+„Glaubst du an Jesus Christus,
+den Sohn Gottes,
+der aus dem Heiligen Geist und der Jungfrau Maria geboren wurde,
+unter Pontius Pilatus gekreuzigt wurde und starb,
+am dritten Tag lebend von den Toten auferstand[^bible-6431844d-1519-4f51-b18e-4cc94aaa3a04],
+in den Himmel aufstieg und sich zur Rechten des Vaters setzte[^bible-2b602b88-1d66-4884-b52c-b64b3886ddb0],
+der kommen wird,
+die Lebenden und die Toten zu richten[^bible-76500fb1-d4fe-4e23-b3fe-1914dce0020a]?“
+Wenn jeder geantwortet hat:
+„Ich glaube“,
+soll er ein zweites Mal taufen\.
+Dann soll er fragen:
+„Glaubst du an den Heiligen Geist und die heilige Kirche und die Auferstehung des Fleisches?“
+Dann soll jeder,
+der getauft wird,
+antworten:
+„Ich glaube\.“
+Und so soll er zum dritten Mal taufen\.
+Danach,
+wenn sie aus dem Wasser heraufgestiegen sind,
+sollen sie vom Presbyter mit dem Öl der Danksagung gesalbt werden,
+wobei er sagt:
+„Ich salbe dich mit heiligem Öl im Namen Jesu Christi\.“
+Dann sollen sie sich abtrocknen,
+sich ankleiden und sich anschließend in der Kirche versammeln\.
+Der Bischof wird ihnen dann die Hand auflegen,
+unter Anrufung mit den Worten:
+„Herr Gott,
+du hast sie würdig gemacht,
+durch das Bad der Wiedergeburt[^bible-2f6a8d3f-fa7b-4906-afb6-9c394ecfc667] von den Sünden befreit zu werden\.
+Mache sie würdig,
+mit deinem Heiligen Geist erfüllt zu werden\.
+Gewähre ihnen deine Gnade,
+damit sie dir nach deinem Willen dienen;
+denn dir gebührt die Herrlichkeit,
+dem Vater und dem Sohn mit dem Heiligen Geist,
+in der heiligen Kirche,
+jetzt und durch alle Ewigkeiten der Ewigkeiten\.
+Amen\.“
 
-Zu der Stunde, in der der Hahn kräht, sollen sie zuerst über dem Wasser beten\. Wenn sie zum Wasser kommen, soll das Wasser rein und fließend sein, das heißt Wasser aus einer Quelle oder aus einem fließenden Gewässer\. Dann sollen sie alle ihre Kleider ablegen\. Zuerst sollen die Kinder getauft werden\. Alle Kinder, die für sich selbst antworten können, sollen antworten\. Wenn es Kinder gibt, die nicht für sich selbst antworten können, sollen ihre Eltern für sie antworten oder jemand anderes aus ihrer Familie\. Danach werden die Männer getauft\. Zuletzt die Frauen, nachdem sie ihr Haar gelöst und ihren Schmuck abgelegt haben\. Niemand soll irgendeinen fremden Gegenstand mit sich hinab ins Wasser nehmen\. Zu der für die Taufe bestimmten Zeit soll der Bischof über etwas Öl Dank sagen und es in ein Gefäß geben\. Es heißt Öl der Danksagung\. Dann soll er weiteres Öl nehmen und es exorzieren\. Es heißt Öl des Exorzismus\. Ein Diakon soll das Öl des Exorzismus halten und links stehen\. Ein anderer Diakon soll das Öl der Danksagung halten und rechts stehen\. Wenn der Presbyter jeden einzelnen von denen, die die Taufe empfangen sollen, ergreift, soll er jeden auffordern zu entsagen, indem er sagt: „Ich entsage dir, Satan, deinem ganzen Dienst und all deinen Werken\.“ Nachdem er dies gesagt hat, soll er jeden mit dem Öl des Exorzismus salben und sagen: „Jeder böse Geist weiche von dir\.“ Danach übergibt der Bischof jeden von ihnen nackt dem Presbyter, der am Wasser steht\. Sie sollen nackt im Wasser stehen\. Ebenso wird ein Diakon mit ihnen ins Wasser hinabsteigen\. Wenn jeder von denen, die getauft werden sollen, ins Wasser hinabgestiegen ist, soll der Taufende jedem die Hände auflegen und fragen: „Glaubst du an Gott, den allmächtigen Vater?“ Und der, der getauft wird, soll antworten: „Ich glaube\.“ Dann soll er jeden einmal taufen und dabei jedem die Hand auf den Kopf legen\. Dann soll er fragen: „Glaubst du an Jesus Christus, den Sohn Gottes, der aus dem Heiligen Geist und der Jungfrau Maria geboren wurde, unter Pontius Pilatus gekreuzigt wurde und starb, am dritten Tag lebend von den Toten auferstand[^bible-6431844d-1519-4f51-b18e-4cc94aaa3a04], in den Himmel aufstieg und sich zur Rechten des Vaters setzte[^bible-2b602b88-1d66-4884-b52c-b64b3886ddb0], der kommen wird, die Lebenden und die Toten zu richten[^bible-76500fb1-d4fe-4e23-b3fe-1914dce0020a]?“ Wenn jeder geantwortet hat: „Ich glaube“, soll er ein zweites Mal taufen\. Dann soll er fragen: „Glaubst du an den Heiligen Geist und die heilige Kirche und die Auferstehung des Fleisches?“ Dann soll jeder, der getauft wird, antworten: „Ich glaube\.“ Und so soll er zum dritten Mal taufen\. Danach, wenn sie aus dem Wasser heraufgestiegen sind, sollen sie vom Presbyter mit dem Öl der Danksagung gesalbt werden, wobei er sagt: „Ich salbe dich mit heiligem Öl im Namen Jesu Christi\.“ Dann sollen sie sich abtrocknen, sich ankleiden und sich anschließend in der Kirche versammeln\. Der Bischof wird ihnen dann die Hand auflegen, unter Anrufung mit den Worten: „Herr Gott, du hast sie würdig gemacht, durch das Bad der Wiedergeburt[^bible-2f6a8d3f-fa7b-4906-afb6-9c394ecfc667] von den Sünden befreit zu werden\. Mache sie würdig, mit deinem Heiligen Geist erfüllt zu werden\. Gewähre ihnen deine Gnade, damit sie dir nach deinem Willen dienen; denn dir gebührt die Herrlichkeit, dem Vater und dem Sohn mit dem Heiligen Geist, in der heiligen Kirche, jetzt und durch alle Ewigkeiten der Ewigkeiten\. Amen\.“
-
-Danach gießt er Öl in seine Hand, legt jedem von ihnen die Hand auf den Kopf und sagt: „Ich salbe dich mit heiligem Öl in Gott, dem Vater, dem Allmächtigen, und Christus Jesus und dem Heiligen Geist\.“ Dann, nachdem er jeden von ihnen auf der Stirn besiegelt hat, soll er ihnen den Friedenskuss geben und sagen: „Der Herr sei mit dir\.“ Und der Getaufte soll sagen: „Und mit deinem Geist\.“ So soll er es bei jedem Einzelnen tun\. Von da an werden sie gemeinsam mit dem ganzen Volk beten\. Vorher dürfen sie nicht mit den Gläubigen beten, bis sie alles vollendet haben\. Nach dem Gebet sollen sie einander den Friedenskuss geben\. Dann sollen die Diakone sofort die Darbringung herbeibringen\. Der Bischof soll das Brot segnen, das Symbol des Leibes Christi; und den Kelch mit gemischtem Wein, das Symbol des Blutes, das für alle vergossen wurde, die an ihn glauben; und die miteinander vermischte Milch und den Honig, zur Erfüllung der den Vätern gegebenen Verheißung, in der er sagte: „ein Land, in dem Milch und Honig fließen[^bible-2598bce4-5edf-4d63-ae10-8b0480190838]“, das Christus tatsächlich gegeben hat, sein Fleisch, durch das die Glaubenden wie kleine Kinder genährt werden, indem die Süße seines Wortes das bittere Herz milde macht; und auch Wasser zur Darbringung, als Zeichen der Taufe, damit auch der innere Mensch, der seelisch ist, dasselbe empfängt wie der Körper\. Der Bischof soll denen, die empfangen, all dies erklären\. Wenn er das Brot bricht und jedem ein Stück austeilt, soll er sagen: „Das Brot des Himmels in Jesus Christus\.“ Und wer empfängt, soll antworten: „Amen\.“ Die Presbyter, und wenn es nicht genug sind, die Diakone, sollen die Kelche halten und geordnet und mit Ehrfurcht beieinanderstehen: zuerst der, der das Wasser hält, zweitens der, der die Milch hält, und drittens der, der den Wein hält\. Die, die teilhaben, sollen von jedem dreimal kosten\. Und der, der gibt, soll sagen: „In Gott, dem Vater, dem Allmächtigen\.“ Wer empfängt, soll antworten: „Amen\.“ Der Gebende soll sagen: „Und in dem Herrn Jesus Christus\.“ Wer empfängt, soll antworten: „Amen\.“ Der Gebende soll sagen: „Und in dem Heiligen Geist und in der heiligen Kirche\.“ Und wer empfängt, soll antworten: „Amen\.“ So soll es bei jedem geschehen\. Wenn dies vollzogen ist, sollen sie eifrig sein, gute Werke zu tun, Gott zu gefallen, ehrbar zu leben, sich der Kirche zu widmen, das zu tun, worin sie unterwiesen wurden, und in der Frömmigkeit voranzuschreiten\. Dies haben wir euch über die Taufe und die Darbringung nur kurz überliefert, weil ihr über die Auferstehung des Fleisches und das Übrige bereits unterwiesen worden seid, gemäß dem, was geschrieben steht\. Wenn sonst noch etwas gesagt werden muss, soll der Bischof es denen, die die Taufe empfangen, privat sagen\. Niemand außer den Gläubigen darf es wissen, und auch sie erst nach dem Empfang der Taufe\. Dies ist der weiße Stein, von dem Johannes sagte: „Auf ihn ist ein neuer Name geschrieben, den niemand kennt außer dem, der den Stein empfangen hat[^bible-75f5f26c-75a8-4f31-b575-6b9327ae5575]\.“
+Danach gießt er Öl in seine Hand,
+legt jedem von ihnen die Hand auf den Kopf und sagt:
+„Ich salbe dich mit heiligem Öl in Gott,
+dem Vater,
+dem Allmächtigen,
+und Christus Jesus und dem Heiligen Geist\.“
+Dann,
+nachdem er jeden von ihnen auf der Stirn besiegelt hat,
+soll er ihnen den Friedenskuss geben und sagen:
+„Der Herr sei mit dir\.“
+Und der Getaufte soll sagen:
+„Und mit deinem Geist\.“
+So soll er es bei jedem Einzelnen tun\.
+Von da an werden sie gemeinsam mit dem ganzen Volk beten\.
+Vorher dürfen sie nicht mit den Gläubigen beten,
+bis sie alles vollendet haben\.
+Nach dem Gebet sollen sie einander den Friedenskuss geben\.
+Dann sollen die Diakone sofort die Darbringung herbeibringen\.
+Der Bischof soll das Brot segnen,
+das Symbol des Leibes Christi;
+und den Kelch mit gemischtem Wein,
+das Symbol des Blutes,
+das für alle vergossen wurde,
+die an ihn glauben;
+und die miteinander vermischte Milch und den Honig,
+zur Erfüllung der den Vätern gegebenen Verheißung,
+in der er sagte:
+„ein Land,
+in dem Milch und Honig fließen[^bible-2598bce4-5edf-4d63-ae10-8b0480190838]“,
+das Christus tatsächlich gegeben hat,
+sein Fleisch,
+durch das die Glaubenden wie kleine Kinder genährt werden,
+indem die Süße seines Wortes das bittere Herz milde macht;
+und auch Wasser zur Darbringung,
+als Zeichen der Taufe,
+damit auch der innere Mensch,
+der seelisch ist,
+dasselbe empfängt wie der Körper\.
+Der Bischof soll denen,
+die empfangen,
+all dies erklären\.
+Wenn er das Brot bricht und jedem ein Stück austeilt,
+soll er sagen:
+„Das Brot des Himmels in Jesus Christus\.“
+Und wer empfängt,
+soll antworten:
+„Amen\.“
+Die Presbyter,
+und wenn es nicht genug sind,
+die Diakone,
+sollen die Kelche halten und geordnet und mit Ehrfurcht beieinanderstehen:
+zuerst der,
+der das Wasser hält,
+zweitens der,
+der die Milch hält,
+und drittens der,
+der den Wein hält\.
+Die,
+die teilhaben,
+sollen von jedem dreimal kosten\.
+Und der,
+der gibt,
+soll sagen:
+„In Gott,
+dem Vater,
+dem Allmächtigen\.“
+Wer empfängt,
+soll antworten:
+„Amen\.“
+Der Gebende soll sagen:
+„Und in dem Herrn Jesus Christus\.“
+Wer empfängt,
+soll antworten:
+„Amen\.“
+Der Gebende soll sagen:
+„Und in dem Heiligen Geist und in der heiligen Kirche\.“
+Und wer empfängt,
+soll antworten:
+„Amen\.“
+So soll es bei jedem geschehen\.
+Wenn dies vollzogen ist,
+sollen sie eifrig sein,
+gute Werke zu tun,
+Gott zu gefallen,
+ehrbar zu leben,
+sich der Kirche zu widmen,
+das zu tun,
+worin sie unterwiesen wurden,
+und in der Frömmigkeit voranzuschreiten\.
+Dies haben wir euch über die Taufe und die Darbringung nur kurz überliefert,
+weil ihr über die Auferstehung des Fleisches und das Übrige bereits unterwiesen worden seid,
+gemäß dem,
+was geschrieben steht\.
+Wenn sonst noch etwas gesagt werden muss,
+soll der Bischof es denen,
+die die Taufe empfangen,
+privat sagen\.
+Niemand außer den Gläubigen darf es wissen,
+und auch sie erst nach dem Empfang der Taufe\.
+Dies ist der weiße Stein,
+von dem Johannes sagte:
+„Auf ihn ist ein neuer Name geschrieben,
+den niemand kennt außer dem,
+der den Stein empfangen hat[^bible-75f5f26c-75a8-4f31-b575-6b9327ae5575]\.“
 
 ## Bibelverweise
 

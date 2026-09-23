@@ -7,9 +7,76 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-2#kapitel-96c4a714-636b-44e2-0a32-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:73fc08d9caa42f5c6270a4bd7610706ef1b290f820c70be7bbc19b7c72e01463`
-
-Der Jude setzt dann seine Ansprache an die Bekehrten aus seinem eigenen Volk so fort: „Gestern und vorgestern, als wir den Mann bestraften, der euch getäuscht hat, seid ihr vom Gesetz eurer Väter abgefallen\.“ Mit solchen Behauptungen zeigt er, wie wir gerade nachgewiesen haben, alles andere als eine genaue Kenntnis der Wahrheit\. Doch was er anschließend vorbringt, scheint nicht ganz ohne Gewicht zu sein: „Wie kommt es, dass ihr den Ausgangspunkt eures Lehrsystems unserem Gottesdienst entnehmt, ihn aber, sobald ihr einige Fortschritte gemacht habt, verächtlich behandelt, obwohl ihr für eure Lehren keine andere Grundlage vorweisen könnt als unser Gesetz?“ Tatsächlich führt der Weg zum Christentum über den Gottesdienst nach Mose und die Schriften der Propheten\. Wer diesen ersten Schritt getan hat, macht Fortschritte, indem er diese Schriften deutet und auslegt\. So erforscht er „das Geheimnis gemäß der Offenbarung, das seit Beginn der Welt verschwiegen war, jetzt aber in den Schriften der Propheten offenbart worden ist[^bible-6b744987-9e5e-4843-9b8e-1431c3866f54] “ und durch das Erscheinen unseres Herrn Jesus Christus\. Wer in der Erkenntnis des Christentums voranschreitet, behandelt die Gebote des Gesetzes jedoch nicht, wie ihr behauptet, verächtlich\. Im Gegenteil: Er erweist ihnen größere Ehre und zeigt, welche Tiefe weiser und geheimnisvoller Gründe in diesen Schriften enthalten ist\. Die Juden erfassen sie nicht vollständig, weil sie sie nur oberflächlich und bisweilen sogar wie Fabeln behandeln\. Und was sollte daran widersinnig sein, dass unser Lehrsystem, das Evangelium, auf dem Gesetz gründet, wenn selbst der Herr Jesus zu denen, die nicht an ihn glauben wollten, sagte: „Wenn ihr Mose geglaubt hättet, würdet ihr auch mir glauben; denn er hat über mich geschrieben\. Wenn ihr aber seinen Schriften nicht glaubt, wie werdet ihr dann meinen Worten glauben?[^bible-cd674620-32c5-40a6-86d9-4aaa9b7ade5f] “ Ja, sogar einer der Evangelisten, Markus, sagt: „Der Anfang des Evangeliums von Jesus Christus, wie beim Propheten Jesaja geschrieben steht: Siehe, ich sende meinen Boten vor dir her; er wird deinen Weg vor dir bereiten\.[^bible-a5cdf9bd-9328-4780-9328-2f10b0b71ad9] “ Das zeigt, dass der Anfang des Evangeliums mit den jüdischen Schriften verbunden ist\. Was für ein Gewicht hat dann noch der Einwand des Juden bei Celsus: „Wenn uns jemand vorausgesagt hat, dass der Sohn Gottes zu den Menschen kommen würde, dann war es einer unserer Propheten, ein Prophet unseres Gottes“? Oder wie kann es als Vorwurf gegen das Christentum gelten, dass Johannes, der Jesus taufte, Jude war? Denn daraus, dass er Jude war, folgt nicht, dass jeder Gläubige, ob er aus dem Heidentum oder aus dem Judentum bekehrt wurde, dem Gesetz des Mose wörtlich gehorchen muss\.
+Der Jude setzt dann seine Ansprache an die Bekehrten aus seinem eigenen Volk so fort:
+„Gestern und vorgestern,
+als wir den Mann bestraften,
+der euch getäuscht hat,
+seid ihr vom Gesetz eurer Väter abgefallen\.“
+Mit solchen Behauptungen zeigt er,
+wie wir gerade nachgewiesen haben,
+alles andere als eine genaue Kenntnis der Wahrheit\.
+Doch was er anschließend vorbringt,
+scheint nicht ganz ohne Gewicht zu sein:
+„Wie kommt es,
+dass ihr den Ausgangspunkt eures Lehrsystems unserem Gottesdienst entnehmt,
+ihn aber,
+sobald ihr einige Fortschritte gemacht habt,
+verächtlich behandelt,
+obwohl ihr für eure Lehren keine andere Grundlage vorweisen könnt als unser Gesetz?“
+Tatsächlich führt der Weg zum Christentum über den Gottesdienst nach Mose und die Schriften der Propheten\.
+Wer diesen ersten Schritt getan hat,
+macht Fortschritte,
+indem er diese Schriften deutet und auslegt\.
+So erforscht er „das Geheimnis gemäß der Offenbarung,
+das seit Beginn der Welt verschwiegen war,
+jetzt aber in den Schriften der Propheten offenbart worden ist[^bible-6b744987-9e5e-4843-9b8e-1431c3866f54] “ und durch das Erscheinen unseres Herrn Jesus Christus\.
+Wer in der Erkenntnis des Christentums voranschreitet,
+behandelt die Gebote des Gesetzes jedoch nicht,
+wie ihr behauptet,
+verächtlich\.
+Im Gegenteil:
+Er erweist ihnen größere Ehre und zeigt,
+welche Tiefe weiser und geheimnisvoller Gründe in diesen Schriften enthalten ist\.
+Die Juden erfassen sie nicht vollständig,
+weil sie sie nur oberflächlich und bisweilen sogar wie Fabeln behandeln\.
+Und was sollte daran widersinnig sein,
+dass unser Lehrsystem,
+das Evangelium,
+auf dem Gesetz gründet,
+wenn selbst der Herr Jesus zu denen,
+die nicht an ihn glauben wollten,
+sagte:
+„Wenn ihr Mose geglaubt hättet,
+würdet ihr auch mir glauben;
+denn er hat über mich geschrieben\.
+Wenn ihr aber seinen Schriften nicht glaubt,
+wie werdet ihr dann meinen Worten glauben?[^bible-cd674620-32c5-40a6-86d9-4aaa9b7ade5f]
+“ Ja,
+sogar einer der Evangelisten,
+Markus,
+sagt:
+„Der Anfang des Evangeliums von Jesus Christus,
+wie beim Propheten Jesaja geschrieben steht:
+Siehe,
+ich sende meinen Boten vor dir her;
+er wird deinen Weg vor dir bereiten\.[^bible-a5cdf9bd-9328-4780-9328-2f10b0b71ad9]
+“ Das zeigt,
+dass der Anfang des Evangeliums mit den jüdischen Schriften verbunden ist\.
+Was für ein Gewicht hat dann noch der Einwand des Juden bei Celsus:
+„Wenn uns jemand vorausgesagt hat,
+dass der Sohn Gottes zu den Menschen kommen würde,
+dann war es einer unserer Propheten,
+ein Prophet unseres Gottes“?
+Oder wie kann es als Vorwurf gegen das Christentum gelten,
+dass Johannes,
+der Jesus taufte,
+Jude war?
+Denn daraus,
+dass er Jude war,
+folgt nicht,
+dass jeder Gläubige,
+ob er aus dem Heidentum oder aus dem Judentum bekehrt wurde,
+dem Gesetz des Mose wörtlich gehorchen muss\.
 
 ## Bibelverweise
 

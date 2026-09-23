@@ -7,23 +7,106 @@ Autor: Ambrosius von Mailand
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/kommentar-zu-psalm-1#kapitel-2c6a7e25-3bec-42e7-a79b-08dd76c0d655).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:bf56eec7f22aed15b2a7524cda6976aec961cda6604dd4a085a8db5745b205e3`
+Daher müssen die ersten Laster vermieden werden,
+damit sie sich nicht in schwerwiegendere ausbreiten\.
+Denn ebenso wie diejenigen,
+die im Schlamm wühlen,
+umso mehr beschmutzt werden,
+je mehr sie sich darin wälzen,
+so wird auch derjenige,
+der sich einmal mit dem Unrat der Gottlosigkeit bespritzt hat,
+es,
+sofern er nicht schnell daraus flieht,
+täglich mit einem schwereren Morast der Schande durch seine Lebensweise überziehen\.
+Aus dem üblen Gestank dieses Landes und dem Abgrund der Gottlosigkeit wird eine gewisse Seelenpest übertragen;
+und mit dem Atem gesunder Gedanken,
+der verdorben ist,
+breitet sich eine Plage brennender Leidenschaften elend aus\.
 
-Daher müssen die ersten Laster vermieden werden, damit sie sich nicht in schwerwiegendere ausbreiten\. Denn ebenso wie diejenigen, die im Schlamm wühlen, umso mehr beschmutzt werden, je mehr sie sich darin wälzen, so wird auch derjenige, der sich einmal mit dem Unrat der Gottlosigkeit bespritzt hat, es, sofern er nicht schnell daraus flieht, täglich mit einem schwereren Morast der Schande durch seine Lebensweise überziehen\. Aus dem üblen Gestank dieses Landes und dem Abgrund der Gottlosigkeit wird eine gewisse Seelenpest übertragen; und mit dem Atem gesunder Gedanken, der verdorben ist, breitet sich eine Plage brennender Leidenschaften elend aus\.
+Von dort gießt sie ihr Gift in die Gedanken,
+von dort schleicht sie sich in den Körper mit Krankheiten und in die Seele mit Verfall\.
+Denn es gibt eine böse Krankheit:
+die Krankheit des Irrtums,
+die Krankheit der Gier,
+die Krankheit des unstillbaren Verlangens\.
+Dies sind die Reichtümer,
+die,
+wie der Prediger sagt,
+„eine böse Krankheit sind,
+die ich unter der Sonne gesehen habe:
+Reichtum,
+der zum Schaden seines Besitzers aufbewahrt wird“[^bible-7fc5bb3a-ff9a-4644-88d4-e3d5c05b6731]\.
+Sag mir,
+o Prediger,
+warum dies eine böse Krankheit ist?
+Er antwortet:
+weil die gierigen Hoffnungen viele verschlingen\.
+Das Verlangen nach Habgier ist unstillbar\.
+„Wer Silber liebt,
+wird nicht mit Silber zufrieden sein“[^bible-a1d36263-7074-4c50-8912-940819726fd3]\.
+Reichtum wächst,
+erfüllt aber nicht\.
+„Und wenn ein Mann mit Reichtum zufrieden ist,“[^bible-c919cbb1-7075-498d-8790-135238cdf459]
+sagt er,
+„so gibt es niemanden,
+der ihm Schlaf gönnt“\.
 
-Von dort gießt sie ihr Gift in die Gedanken, von dort schleicht sie sich in den Körper mit Krankheiten und in die Seele mit Verfall\. Denn es gibt eine böse Krankheit: die Krankheit des Irrtums, die Krankheit der Gier, die Krankheit des unstillbaren Verlangens\. Dies sind die Reichtümer, die, wie der Prediger sagt, „eine böse Krankheit sind, die ich unter der Sonne gesehen habe: Reichtum, der zum Schaden seines Besitzers aufbewahrt wird“[^bible-7fc5bb3a-ff9a-4644-88d4-e3d5c05b6731]\. Sag mir, o Prediger, warum dies eine böse Krankheit ist? Er antwortet: weil die gierigen Hoffnungen viele verschlingen\. Das Verlangen nach Habgier ist unstillbar\. „Wer Silber liebt, wird nicht mit Silber zufrieden sein“[^bible-a1d36263-7074-4c50-8912-940819726fd3]\. Reichtum wächst, erfüllt aber nicht\. „Und wenn ein Mann mit Reichtum zufrieden ist,“[^bible-c919cbb1-7075-498d-8790-135238cdf459] sagt er, „so gibt es niemanden, der ihm Schlaf gönnt“\.
+In der Tat,
+„sind alle seine Tage in Dunkelheit und Trauer und großer Zorn und Krankheit und Grimm“\.
+Wie kann er schlafen,
+der ängstlich über sein Gold wacht,
+der Verlust fürchtet,
+auf Gewinn plant,
+Zinsen berechnet und seine Vorratskammern zählt?
 
-In der Tat, „sind alle seine Tage in Dunkelheit und Trauer und großer Zorn und Krankheit und Grimm“\. Wie kann er schlafen, der ängstlich über sein Gold wacht, der Verlust fürchtet, auf Gewinn plant, Zinsen berechnet und seine Vorratskammern zählt?
+Dies ist eine böse Krankheit,
+die den guten Schlaf des Verstandes raubt\.
+Es gibt auch das Übel der Lust,
+des Verlangens,
+des sinnlichen Vergnügens,
+der Ambition – die schnell die Gesundheit der Nüchternheit zerstört\.
+Kurz gesagt,
+die gesamte Pest dieser Welt ist von dieser Art\.
 
-Dies ist eine böse Krankheit, die den guten Schlaf des Verstandes raubt\. Es gibt auch das Übel der Lust, des Verlangens, des sinnlichen Vergnügens, der Ambition – die schnell die Gesundheit der Nüchternheit zerstört\. Kurz gesagt, die gesamte Pest dieser Welt ist von dieser Art\.
+Darum:
+„Berühre es nicht,
+handle nicht danach,“[^bible-1c0d10a2-a4e4-4988-865e-c6787541aafa]
+denn es ist eine Plage,
+es verunreinigt,
+es ist eine Krankheit,
+es macht unrein\.
+„Schmeckt nicht,“
+sagt der Apostel,
+„was alles mit dem Gebrauch vergeht“\.
+Überall ruft er aus:
+„Die Wurzel allen Übels ist die Gier“\.
+Sie erregt Krankheiten,
+fügt Trauer hinzu\.
+In der Tat,
+„die,
+die es begehrt haben,
+haben sich mit vielen Sorgen durchbohrt“[^bible-ec7f425b-c449-4d98-a987-c5e00305b380]\.
 
-Darum: „Berühre es nicht, handle nicht danach,“[^bible-1c0d10a2-a4e4-4988-865e-c6787541aafa] denn es ist eine Plage, es verunreinigt, es ist eine Krankheit, es macht unrein\. „Schmeckt nicht,“ sagt der Apostel, „was alles mit dem Gebrauch vergeht“\. Überall ruft er aus: „Die Wurzel allen Übels ist die Gier“\. Sie erregt Krankheiten, fügt Trauer hinzu\. In der Tat, „die, die es begehrt haben, haben sich mit vielen Sorgen durchbohrt“[^bible-ec7f425b-c449-4d98-a987-c5e00305b380]\.
+Dies ist die Pest,
+die die Menschen meist weder heiß noch kalt lässt,
+sondern schlimmer als heiß und kalt:
+lauwarm,
+um aus dem Mund des Herrn Jesus ausgespien zu werden,
+die er wegen der Sünde verworfen hat\.
+Dies ist die Krankheit,
+die nicht nur einige betrifft,
+sondern in allen Krankheiten erregt\.
 
-Dies ist die Pest, die die Menschen meist weder heiß noch kalt lässt, sondern schlimmer als heiß und kalt: lauwarm, um aus dem Mund des Herrn Jesus ausgespien zu werden, die er wegen der Sünde verworfen hat\. Dies ist die Krankheit, die nicht nur einige betrifft, sondern in allen Krankheiten erregt\.
+„Der ganze Kopf ist in Schmerzen,
+das ganze Herz ist betrübt“\.
+Von den Füßen bis zum Kopf ist der Sünder voller Wunden\.
+Der ganze Kopf ist schmerzlich,
+wenn selbst die als weise Geachteten von der Trauer der Gier gequält werden – denn „der Verstand des Weisen ist in seinem Kopf“[^bible-35b4b690-aeb5-41e0-83ad-c380749060f7]\.
 
-„Der ganze Kopf ist in Schmerzen, das ganze Herz ist betrübt“\. Von den Füßen bis zum Kopf ist der Sünder voller Wunden\. Der ganze Kopf ist schmerzlich, wenn selbst die als weise Geachteten von der Trauer der Gier gequält werden – denn „der Verstand des Weisen ist in seinem Kopf“[^bible-35b4b690-aeb5-41e0-83ad-c380749060f7]\.
-
-Dies kann auch auf die Kirche angewendet werden, wenn fleischliche Dinge und körperliche Vergnügungen die Einsicht unseres Herzens blenden\. Daher sagt der Herr über solche: „Ich werde ihnen ein fleischliches Herz geben“[^bible-80f2100e-9392-45ab-9a10-219ff580eaee]\.
+Dies kann auch auf die Kirche angewendet werden,
+wenn fleischliche Dinge und körperliche Vergnügungen die Einsicht unseres Herzens blenden\.
+Daher sagt der Herr über solche:
+„Ich werde ihnen ein fleischliches Herz geben“[^bible-80f2100e-9392-45ab-9a10-219ff580eaee]\.
 
 ## Bibelverweise
 

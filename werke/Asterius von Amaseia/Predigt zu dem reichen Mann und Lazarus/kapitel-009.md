@@ -7,6 +7,26 @@ Autor: Asterius von Amaseia
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/asterius-von-amaseia/predigt-zu-dem-reichen-mann-und-lazarus#kapitel-2c3add14-f75d-4fd3-0604-08dd1fa7b534).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:9929b1c00ba7f1c78094db7eddb75e0fdeeb42d1fffaa598ecf9723ef7692644`
-
-Nun vermischt der Luxus, der stetig an Pracht zunimmt, sogar indische Gewürze mit dem Essen; und die Apotheker liefern Vorräte an die Köche statt an die Ärzte\. Betrachte dann die Anzahl der Menschen, die den Tisch bedienen – die Tischdecker, die Mundschenke, die Aufseherinnen und die Musiker, die ihnen vorangehen, die weiblichen Musiker, die Tänzerinnen, die Flötenspieler, die Spaßmacher, die Schmeichler, die Parasiten – das Gesindel, das der Eitelkeit folgt\. Um diese Dinge zu erlangen, wie viele Arme werden beraubt\! Wie viele Waisen werden misshandelt\! Wie viele Witwen weinen\! Wie viele, schrecklich gequält, werden zum Selbstmord getrieben\!
+Nun vermischt der Luxus,
+der stetig an Pracht zunimmt,
+sogar indische Gewürze mit dem Essen;
+und die Apotheker liefern Vorräte an die Köche statt an die Ärzte\.
+Betrachte dann die Anzahl der Menschen,
+die den Tisch bedienen – die Tischdecker,
+die Mundschenke,
+die Aufseherinnen und die Musiker,
+die ihnen vorangehen,
+die weiblichen Musiker,
+die Tänzerinnen,
+die Flötenspieler,
+die Spaßmacher,
+die Schmeichler,
+die Parasiten – das Gesindel,
+das der Eitelkeit folgt\.
+Um diese Dinge zu erlangen,
+wie viele Arme werden beraubt\!
+Wie viele Waisen werden misshandelt\!
+Wie viele Witwen weinen\!
+Wie viele,
+schrecklich gequält,
+werden zum Selbstmord getrieben\!

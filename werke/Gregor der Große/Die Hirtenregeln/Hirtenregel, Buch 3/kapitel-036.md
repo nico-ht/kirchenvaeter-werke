@@ -7,6 +7,49 @@ Autor: Gregor der Große
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/hirtenregel-buch-3#kapitel-120e24cf-9f98-411d-478f-08dd47ac18f8).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f8984f9fe4ccefc6d48e0abe6cb529f22c3b23ad4691eea79f8a3aa6895a721f`
-
-Wie man viele zugleich ermahnen muss, sodass die Tugenden der Einzelnen gefördert werden, ohne dass durch die Ermahnung jene Laster zunehmen, die den Tugenden entgegenstehen\. Darauf muss der Seelenhirte bei der Vielfalt seiner Verkündigung achten und mit Sorgfalt den Wunden jedes Einzelnen die geeigneten Heilmittel entgegenstellen\. Schon jedem Einzelnen mit einer aufmerksamen, wohlbedachten Unterweisung ihn mit der nötigen Umsicht über seine eigenen Angelegenheiten zu unterweisen, erfordert große Mühe; weitaus mühsamer aber ist es, unzählige Zuhörer, die unter verschiedenartigen Leidenschaften leiden, zur selben Zeit mit ein und derselben Stimme zu unterweisen\. Diese Stimme muss mit solcher Kunst abgestimmt werden, dass sie trotz der Verschiedenheit der Laster jedem Einzelnen angemessen ist und dennoch nicht mit sich selbst in Widerspruch gerät\. Sie muss auf einer einzigen Bahn mitten zwischen den Leidenschaften hindurchgehen und dabei wie ein zweischneidiges Schwert die Schwellungen fleischlicher Gedanken von beiden Seiten aufschneiden: Den Stolzen soll so Demut gepredigt werden, dass die Furcht der Ängstlichen nicht zunimmt; den Ängstlichen soll so Mut eingeflößt werden, dass die Zügellosigkeit der Stolzen nicht wächst\. Den Untätigen und Trägen soll man so die Sorge um gute Werke predigen, dass die Ruhelosen dadurch nicht noch mehr Freiheit zu maßlosem Handeln erhalten; den Ruhelosen soll man so Grenzen setzen, dass die Untätigen nicht sorglos in ihrer Trägheit verharren\. Der Zorn der Ungeduldigen soll so erstickt werden, dass bei den Nachgiebigen und Sanftmütigen nicht die Nachlässigkeit wächst; die Sanftmütigen sollen so zum Eifer entflammt werden, dass man das Feuer der Zornigen nicht noch anfacht\. Den Geizigen soll man so Freigebigkeit einflößen, dass die Zügel der Verschwendung bei den Verschwendern keineswegs gelockert werden; den Verschwendern soll man so Sparsamkeit predigen, dass das Hüten vergänglicher Dinge bei den Geizigen, nicht zunimmt\. Den Unenthaltsamen soll man so die Ehe empfehlen, dass diejenigen, die bereits enthaltsam leben, nicht wieder zur Ausschweifung verleitet werden; den Enthaltsamen soll man so die leibliche Jungfräulichkeit empfehlen, dass die Fruchtbarkeit des Fleisches in der Ehe nicht verachtet wird\. Das Gute muss so gepredigt werden, dass nicht zugleich von der anderen Seite auch das Böse gefördert wird\. Die höchsten Güter müssen so gepriesen werden, dass die niedrigeren nicht für unerreichbar gehalten werden\. Die niedrigeren Güter müssen so gefördert werden, dass nicht etwa, wenn man sie für ausreichend hält, das Streben nach den höchsten unterbleibt\.
+Wie man viele zugleich ermahnen muss,
+sodass die Tugenden der Einzelnen gefördert werden,
+ohne dass durch die Ermahnung jene Laster zunehmen,
+die den Tugenden entgegenstehen\.
+Darauf muss der Seelenhirte bei der Vielfalt seiner Verkündigung achten und mit Sorgfalt den Wunden jedes Einzelnen die geeigneten Heilmittel entgegenstellen\.
+Schon jedem Einzelnen mit einer aufmerksamen,
+wohlbedachten Unterweisung ihn mit der nötigen Umsicht über seine eigenen Angelegenheiten zu unterweisen,
+erfordert große Mühe;
+weitaus mühsamer aber ist es,
+unzählige Zuhörer,
+die unter verschiedenartigen Leidenschaften leiden,
+zur selben Zeit mit ein und derselben Stimme zu unterweisen\.
+Diese Stimme muss mit solcher Kunst abgestimmt werden,
+dass sie trotz der Verschiedenheit der Laster jedem Einzelnen angemessen ist und dennoch nicht mit sich selbst in Widerspruch gerät\.
+Sie muss auf einer einzigen Bahn mitten zwischen den Leidenschaften hindurchgehen und dabei wie ein zweischneidiges Schwert die Schwellungen fleischlicher Gedanken von beiden Seiten aufschneiden:
+Den Stolzen soll so Demut gepredigt werden,
+dass die Furcht der Ängstlichen nicht zunimmt;
+den Ängstlichen soll so Mut eingeflößt werden,
+dass die Zügellosigkeit der Stolzen nicht wächst\.
+Den Untätigen und Trägen soll man so die Sorge um gute Werke predigen,
+dass die Ruhelosen dadurch nicht noch mehr Freiheit zu maßlosem Handeln erhalten;
+den Ruhelosen soll man so Grenzen setzen,
+dass die Untätigen nicht sorglos in ihrer Trägheit verharren\.
+Der Zorn der Ungeduldigen soll so erstickt werden,
+dass bei den Nachgiebigen und Sanftmütigen nicht die Nachlässigkeit wächst;
+die Sanftmütigen sollen so zum Eifer entflammt werden,
+dass man das Feuer der Zornigen nicht noch anfacht\.
+Den Geizigen soll man so Freigebigkeit einflößen,
+dass die Zügel der Verschwendung bei den Verschwendern keineswegs gelockert werden;
+den Verschwendern soll man so Sparsamkeit predigen,
+dass das Hüten vergänglicher Dinge bei den Geizigen,
+nicht zunimmt\.
+Den Unenthaltsamen soll man so die Ehe empfehlen,
+dass diejenigen,
+die bereits enthaltsam leben,
+nicht wieder zur Ausschweifung verleitet werden;
+den Enthaltsamen soll man so die leibliche Jungfräulichkeit empfehlen,
+dass die Fruchtbarkeit des Fleisches in der Ehe nicht verachtet wird\.
+Das Gute muss so gepredigt werden,
+dass nicht zugleich von der anderen Seite auch das Böse gefördert wird\.
+Die höchsten Güter müssen so gepriesen werden,
+dass die niedrigeren nicht für unerreichbar gehalten werden\.
+Die niedrigeren Güter müssen so gefördert werden,
+dass nicht etwa,
+wenn man sie für ausreichend hält,
+das Streben nach den höchsten unterbleibt\.

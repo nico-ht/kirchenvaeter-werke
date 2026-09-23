@@ -7,6 +7,6 @@ Autor: Johannes II\. von Jerusalem
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/johannes-ii-von-jerusalem/5-mystagogische-katechese#kapitel-de8d6d5e-859d-4da9-0722-08def3162faa).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:84938223f50e2e14b3fdc9d6405a94f0d3b192b2697a073e1527e8733494ba9b`
-
-Durch die Menschenfreundlichkeit Gottes habt ihr in den vorausgegangenen Versammlungen ausreichend über die Taufe, die Salbung und die Teilnahme am Leib und Blut Christi gehört\. Nun aber müssen wir zum Folgenden übergehen und heute dem geistlichen Bau zu eurem Nutzen die Krone aufsetzen\.
+Durch die Menschenfreundlichkeit Gottes habt ihr in den vorausgegangenen Versammlungen ausreichend über die Taufe,
+die Salbung und die Teilnahme am Leib und Blut Christi gehört\.
+Nun aber müssen wir zum Folgenden übergehen und heute dem geistlichen Bau zu eurem Nutzen die Krone aufsetzen\.

@@ -7,6 +7,11 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-c788a92e-ab97-44a9-7671-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:6b2345315c0e10dcd8469cc441259628743a8672297f3b5eaa76705b182f3b3e`
-
-Es ist alt in Bezug auf das Gesetz, neu in Bezug auf das Wort\. Vorübergehend in Bezug auf das Vorbild, doch ewig durch die Gnade\. Es ist vergänglich wegen der Schlachtung der Schafe, unvergänglich wegen des Lebens des Herrn\. Es ist sterblich aufgrund der Beerdigung im Boden, unsterblich wegen der Auferstehung von den Toten\.
+Es ist alt in Bezug auf das Gesetz,
+neu in Bezug auf das Wort\.
+Vorübergehend in Bezug auf das Vorbild,
+doch ewig durch die Gnade\.
+Es ist vergänglich wegen der Schlachtung der Schafe,
+unvergänglich wegen des Lebens des Herrn\.
+Es ist sterblich aufgrund der Beerdigung im Boden,
+unsterblich wegen der Auferstehung von den Toten\.

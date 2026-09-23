@@ -7,9 +7,68 @@ Autor: Nilus von Ankyra
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/nilus-von-ankyra/an-den-senator-ptolemaios#kapitel-a80a17b0-3876-4048-5864-08de7d32944c).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c9fd1224a9d39cfe1c504584bdf1f78a8363d7276de584c283856ff2992d440f`
-
-Gott wird den Mönchen vor dem kommenden Zeitalter so unermesslich viel Gnade schenken, dass sie weder nach einem guten Ruf gieren noch ihr Herz an irgendeine Ehre in dieser Welt hängen sollten\. Sie sollen sich vielmehr weitgehend im Verborgenen halten und sich so klein wie nur möglich machen\. Sie müssen sich von den Menschen zurückziehen und dürfen sich auf keinen Fall mit verachtenswerten und wertlosen Brüdern abgeben\! Denn sich – ob nun freiwillig, zufällig oder aus welchem Grund auch immer – mit berühmten Männern, mit Leuten, die in den Augen der Welt etwas gelten, oder mit falschen Mönchen einzulassen, ist absolut tödlich\! Gottes Vorsehung wird die Mächtigen zusammentreiben und sie wohl oder übel zwingen, bei den Sanftmütigen Schutz und Rettung zu suchen\. Es beschämt mich, dass du so viele Briefe schreibst, aber ich war nicht faul darin, sie zu beantworten\. Jemand vor uns hat einmal gesagt, dass die Kirche ungeschriebene Erinnerungen wie diese bewahrt: Judäa war der erste bewohnte Ort\. Adam, der erste erschaffene Mensch, ließ sich dort nieder, als er aus dem Paradies vertrieben wurde, was ihm ein Trost für all das war, was er verloren hatte\. Deshalb war Palästina der Ort, wo der Tod eines Menschen das Urteil gegen Adam vollständig bezahlte\! Als sie dann erkannten, dass der felsige, unfruchtbare Ort, an den sie den Kopf des Körpers legten, wie ein Schädel aussah, nannten sie ihn Schädel\. Und genauso kannte Noah, durch den die gesamte Menschheit nach der Sintflut gerettet wurde, das Grab des ersten Vorfahren der ganzen Menschheit nicht\. Derjenige, der den Ursprung des menschlichen Todes suchte, gab sich also genau an dem Ort namens Schädel dem Leiden hin\! So sollte dort, wo das Verderben der Menschheit seinen Anfang nahm, das Leben des Reiches beginnen\. Und dort, wo der Tod in Adam herrschte, wurde er im Tod Christi geschwächt\! Darum sagte der Prophet Jesaja: „In dem Horn, dem fruchtbaren Ort\.“[^bible-7dfb79e9-6a1f-474e-9dd9-20c33a8bdded] Das Horn symbolisiert das Kreuz des Meisters und ist ein Schutz vor dem Tod, denn ein Horn dient dem Schutz\. Der Ort ist fruchtbar, weil er nach dem Paradies zum reichsten Ort unter der Sonne wurde\! Andererseits ist es, wie wir sehr wohl wissen, auch der schmerzhafte Ort, an dem alle Sünden zusammenlaufen\. Mord und Ehebruch sind schwerwiegend, und sie werden auch als schwerwiegend angesehen\. Aber ein Eid ist ebenso schwerwiegend, wird jedoch nicht so betrachtet\! Deshalb müssen wir mit unseren Gelübden extrem vorsichtig sein, damit wir nicht aus der Höhe hinabgestürzt und aus dem ewigen Leben verbannt werden – ob uns das nun fair erscheint oder nicht\!
+Gott wird den Mönchen vor dem kommenden Zeitalter so unermesslich viel Gnade schenken,
+dass sie weder nach einem guten Ruf gieren noch ihr Herz an irgendeine Ehre in dieser Welt hängen sollten\.
+Sie sollen sich vielmehr weitgehend im Verborgenen halten und sich so klein wie nur möglich machen\.
+Sie müssen sich von den Menschen zurückziehen und dürfen sich auf keinen Fall mit verachtenswerten und wertlosen Brüdern abgeben\!
+Denn sich – ob nun freiwillig,
+zufällig oder aus welchem Grund auch immer – mit berühmten Männern,
+mit Leuten,
+die in den Augen der Welt etwas gelten,
+oder mit falschen Mönchen einzulassen,
+ist absolut tödlich\!
+Gottes Vorsehung wird die Mächtigen zusammentreiben und sie wohl oder übel zwingen,
+bei den Sanftmütigen Schutz und Rettung zu suchen\.
+Es beschämt mich,
+dass du so viele Briefe schreibst,
+aber ich war nicht faul darin,
+sie zu beantworten\.
+Jemand vor uns hat einmal gesagt,
+dass die Kirche ungeschriebene Erinnerungen wie diese bewahrt:
+Judäa war der erste bewohnte Ort\.
+Adam,
+der erste erschaffene Mensch,
+ließ sich dort nieder,
+als er aus dem Paradies vertrieben wurde,
+was ihm ein Trost für all das war,
+was er verloren hatte\.
+Deshalb war Palästina der Ort,
+wo der Tod eines Menschen das Urteil gegen Adam vollständig bezahlte\!
+Als sie dann erkannten,
+dass der felsige,
+unfruchtbare Ort,
+an den sie den Kopf des Körpers legten,
+wie ein Schädel aussah,
+nannten sie ihn Schädel\.
+Und genauso kannte Noah,
+durch den die gesamte Menschheit nach der Sintflut gerettet wurde,
+das Grab des ersten Vorfahren der ganzen Menschheit nicht\.
+Derjenige,
+der den Ursprung des menschlichen Todes suchte,
+gab sich also genau an dem Ort namens Schädel dem Leiden hin\!
+So sollte dort,
+wo das Verderben der Menschheit seinen Anfang nahm,
+das Leben des Reiches beginnen\.
+Und dort,
+wo der Tod in Adam herrschte,
+wurde er im Tod Christi geschwächt\!
+Darum sagte der Prophet Jesaja:
+„In dem Horn,
+dem fruchtbaren Ort\.“[^bible-7dfb79e9-6a1f-474e-9dd9-20c33a8bdded]
+Das Horn symbolisiert das Kreuz des Meisters und ist ein Schutz vor dem Tod,
+denn ein Horn dient dem Schutz\.
+Der Ort ist fruchtbar,
+weil er nach dem Paradies zum reichsten Ort unter der Sonne wurde\!
+Andererseits ist es,
+wie wir sehr wohl wissen,
+auch der schmerzhafte Ort,
+an dem alle Sünden zusammenlaufen\.
+Mord und Ehebruch sind schwerwiegend,
+und sie werden auch als schwerwiegend angesehen\.
+Aber ein Eid ist ebenso schwerwiegend,
+wird jedoch nicht so betrachtet\!
+Deshalb müssen wir mit unseren Gelübden extrem vorsichtig sein,
+damit wir nicht aus der Höhe hinabgestürzt und aus dem ewigen Leben verbannt werden – ob uns das nun fair erscheint oder nicht\!
 
 ## Bibelverweise
 

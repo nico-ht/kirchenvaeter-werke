@@ -7,13 +7,145 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-5#kapitel-674d5fa7-21a5-4783-2783-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e3ecfae8dbbbb1ebd536ffb0cc496a7b1801a5e9c75cb78dd89e2c9ed5f99bed`
+Da er also sah,
+dass für ihn allein in der Tapferkeit eine Aussicht auf Rettung lag und der Weg nur mit dem Schwert geöffnet werden konnte,
+denn die anderen hatten ihre Pferde bereits gewendet und zogen ab,
+obwohl sie darauf vertrauten,
+der Sohn des Kaisers werde ihnen folgen,
+wandte er sein Pferd\.
+Mit lautem Ruf trieb er die übrigen an,
+ihm zu folgen,
+und stürzte sich gegen den Feind\.
+Es schien unmöglich,
+wie er entkommen könnte,
+wenn man nicht bedenkt,
+dass im Krieg oft die Kühnheit,
+auch wenn sie allein steht,
+für den eigenen Schutz leisten kann,
+was eine Mauer leistet;
+später kam hinzu,
+dass die nachrückende Menge in der Gefahr mehr darauf bedacht war,
+für sich selbst zu sorgen,
+als den Feind zu verfolgen,
+als müsste etwa der,
+der seine Hand ausstreckte,
+um ein Pferd zu ergreifen,
+getötet werden\.
+Schließlich wurden nur zwei von den Gefährten des Titus getötet;
+mit den übrigen kehrte der Sohn des Kaisers zu seinen Leuten zurück\.
+Und wahrlich scheint kein Zweifel möglich:
+Da er mit unbedecktem Haupt und auch sonst ungeschützt bei dem Ausfall vorgerückt war,
+nicht zum Kampf gerüstet,
+weder mit Helm noch mit Brustpanzer versehen,
+und dabei keine Wunde davontrug,
+obwohl die Geschosse vor allem gegen ihn gerichtet waren,
+wurde ein so großer Mann für den Sturz dieser Stadt aufbewahrt\.
+Gewiss ist das Herz des Königs in der Hand Gottes[^bible-8c127a8d-0815-4f27-9d22-1aa166750e5a]\.
+Darum wuchs den Juden aus dem Ausgang ihrer List und dem Gelingen ihrer Täuschung keine größere Kühnheit zu\.
+Nach einer Nacht kehrte er mit dem Heer zur Stadt zurück und zeigte seinen Truppen von einem bestimmten Turm aus,
+von dem man die Stadt und die gewaltige Größe des Tempels überblickte,
+welche Stadt ihm im Krieg gegenüberstand\.
+Sie müssten tatkräftig und umsichtig sein,
+weil sie ein zahlloses Volk zu besiegen hätten,
+das zur List bereit war\.
+Er ordnete an,
+welche Abteilungen gegen die Mauern vorrücken sollten;
 
-Da er also sah, dass für ihn allein in der Tapferkeit eine Aussicht auf Rettung lag und der Weg nur mit dem Schwert geöffnet werden konnte, denn die anderen hatten ihre Pferde bereits gewendet und zogen ab, obwohl sie darauf vertrauten, der Sohn des Kaisers werde ihnen folgen, wandte er sein Pferd\. Mit lautem Ruf trieb er die übrigen an, ihm zu folgen, und stürzte sich gegen den Feind\. Es schien unmöglich, wie er entkommen könnte, wenn man nicht bedenkt, dass im Krieg oft die Kühnheit, auch wenn sie allein steht, für den eigenen Schutz leisten kann, was eine Mauer leistet; später kam hinzu, dass die nachrückende Menge in der Gefahr mehr darauf bedacht war, für sich selbst zu sorgen, als den Feind zu verfolgen, als müsste etwa der, der seine Hand ausstreckte, um ein Pferd zu ergreifen, getötet werden\. Schließlich wurden nur zwei von den Gefährten des Titus getötet; mit den übrigen kehrte der Sohn des Kaisers zu seinen Leuten zurück\. Und wahrlich scheint kein Zweifel möglich: Da er mit unbedecktem Haupt und auch sonst ungeschützt bei dem Ausfall vorgerückt war, nicht zum Kampf gerüstet, weder mit Helm noch mit Brustpanzer versehen, und dabei keine Wunde davontrug, obwohl die Geschosse vor allem gegen ihn gerichtet waren, wurde ein so großer Mann für den Sturz dieser Stadt aufbewahrt\. Gewiss ist das Herz des Königs in der Hand Gottes[^bible-8c127a8d-0815-4f27-9d22-1aa166750e5a]\. Darum wuchs den Juden aus dem Ausgang ihrer List und dem Gelingen ihrer Täuschung keine größere Kühnheit zu\. Nach einer Nacht kehrte er mit dem Heer zur Stadt zurück und zeigte seinen Truppen von einem bestimmten Turm aus, von dem man die Stadt und die gewaltige Größe des Tempels überblickte, welche Stadt ihm im Krieg gegenüberstand\. Sie müssten tatkräftig und umsichtig sein, weil sie ein zahlloses Volk zu besiegen hätten, das zur List bereit war\. Er ordnete an, welche Abteilungen gegen die Mauern vorrücken sollten;
+Nachdem er erkundet hatte,
+welche noch vom nächtlichen Marsch erschöpft waren,
+stellte er sie in einiger Entfernung als Reserve auf\.
+Langsam ging es voran\.
+Als man zum Ölberg kam,
+lag unterhalb,
+zwischen dem Marschweg und der Stadt,
+ein Tal,
+das den Namen Kidron trägt\.
+Von den Mauern aus blickten sie dort auf das aufgestellte Heer,
+das sechs Stadien entfernt stand,
+und legten für den Augenblick ihren Eifer für den Streit beiseite;
+der heranrückende äußere Feind ließ die Kämpfe der Bürgerkriege in innerer Einigung ruhen\.
+Denn gewöhnlich unterdrückt sogar die Furcht heftige Feindschaften\.
+Schließlich ermunterten die Männer der Parteien einander abwechselnd und vereinten ihren Eifer,
+um gemeinsam ihr Vaterland zu verteidigen,
+damit sie nicht durch ihre Zwietracht den Römern einen unblutigen Sieg verschafften\.
+Im Vertrauen auf ihre Zahl meinten sie,
+der Feind müsse rasch angegriffen und die vordersten Reihen durch einen unerwarteten Angriff in Verwirrung gebracht werden\.
+Als aber die Römer,
+durch lange Übung und Kämpfe verschiedenster Art geschult,
+Mut fassten,
+begannen sie,
+im Vertrauen auf ihre Ordnung die Angreifenden niederzumachen,
+sie mit den Schilden zurückzudrängen und durch das Schleudern von Wurfspießen abzuwehren,
+freilich keineswegs ohne beiderseitige Verluste\.
+Schon bedrängten nämlich die Juden sie aus nächster Nähe,
+und die römische Schlachtreihe begann zu wanken\.
+Hätte Titus nicht,
+nachdem er die Lage erfahren hatte,
+eingegriffen,
+wäre er nicht gegen die Gegner vorgestürmt,
+hätte er nicht seine Truppen ermuntert,
+die Schlacht erneuert,
+den Mut der Soldaten entfacht und die römischen Reihen zurechtgewiesen,
+dann wäre der ungeordneten Menge der Sieg überlassen worden,
+nicht ohne die Schande großer Verzagtheit\.
+Nachdem die Juden vertrieben waren,
+verfolgten sie sie,
+durch das Tal getrennt\.
+Der Sieger zog sich zu seinen eigenen Leuten zurück,
+sicher in seinem Urteil,
+weil die höher gelegenen Stellungen gegenüber den tieferen hilfreich waren,
+falls sie versuchen sollten,
+eine Schlacht zu liefern;
+dann begab er sich zu einem anderen Teil des römischen Heeres\.
+Als Caesar sich entfernte,
+stürzten sich die Juden von den Mauern herab und warfen sich in dichtem Gedränge auf den Feind,
+sodass die Soldaten vor dem Ansturm der unzähligen Menge flohen und sich in die höheren Berglagen zurückzogen\.
+Da die Flanke ungeschützt blieb,
+flohen auch die Übrigen,
+die den Kampf vorgezogen hatten\.
+Inzwischen stand Caesar mitten im Geschehen\.
+Die meisten flehten ihn an,
+er solle sich nicht in Gefahr bringen und,
+während das Heer zerstreut sei,
+allein in die größte Gefahr geraten,
+da er doch der Herr der Welt sei;
+denn er solle nicht wie zuvor an der Stelle eines Soldaten kämpfen,
+sondern an der eines Kaisers,
+in dessen Gefahr das Verderben aller lag\.
+Er aber gab nicht nach,
+sondern stellte die Ehre des Kriegsdienstes über die Sicherheit,
+weil in seinen Augen ein ruhmvoller Tod schwerer wog als die Schande des Lebens\.
+Er wandte seine Brust gegen den Feind,
+stürmte auf die,
+die vor ihm zurückschreckten,
+und warf sich dann gegen andere\.
 
-Nachdem er erkundet hatte, welche noch vom nächtlichen Marsch erschöpft waren, stellte er sie in einiger Entfernung als Reserve auf\. Langsam ging es voran\. Als man zum Ölberg kam, lag unterhalb, zwischen dem Marschweg und der Stadt, ein Tal, das den Namen Kidron trägt\. Von den Mauern aus blickten sie dort auf das aufgestellte Heer, das sechs Stadien entfernt stand, und legten für den Augenblick ihren Eifer für den Streit beiseite; der heranrückende äußere Feind ließ die Kämpfe der Bürgerkriege in innerer Einigung ruhen\. Denn gewöhnlich unterdrückt sogar die Furcht heftige Feindschaften\. Schließlich ermunterten die Männer der Parteien einander abwechselnd und vereinten ihren Eifer, um gemeinsam ihr Vaterland zu verteidigen, damit sie nicht durch ihre Zwietracht den Römern einen unblutigen Sieg verschafften\. Im Vertrauen auf ihre Zahl meinten sie, der Feind müsse rasch angegriffen und die vordersten Reihen durch einen unerwarteten Angriff in Verwirrung gebracht werden\. Als aber die Römer, durch lange Übung und Kämpfe verschiedenster Art geschult, Mut fassten, begannen sie, im Vertrauen auf ihre Ordnung die Angreifenden niederzumachen, sie mit den Schilden zurückzudrängen und durch das Schleudern von Wurfspießen abzuwehren, freilich keineswegs ohne beiderseitige Verluste\. Schon bedrängten nämlich die Juden sie aus nächster Nähe, und die römische Schlachtreihe begann zu wanken\. Hätte Titus nicht, nachdem er die Lage erfahren hatte, eingegriffen, wäre er nicht gegen die Gegner vorgestürmt, hätte er nicht seine Truppen ermuntert, die Schlacht erneuert, den Mut der Soldaten entfacht und die römischen Reihen zurechtgewiesen, dann wäre der ungeordneten Menge der Sieg überlassen worden, nicht ohne die Schande großer Verzagtheit\. Nachdem die Juden vertrieben waren, verfolgten sie sie, durch das Tal getrennt\. Der Sieger zog sich zu seinen eigenen Leuten zurück, sicher in seinem Urteil, weil die höher gelegenen Stellungen gegenüber den tieferen hilfreich waren, falls sie versuchen sollten, eine Schlacht zu liefern; dann begab er sich zu einem anderen Teil des römischen Heeres\. Als Caesar sich entfernte, stürzten sich die Juden von den Mauern herab und warfen sich in dichtem Gedränge auf den Feind, sodass die Soldaten vor dem Ansturm der unzähligen Menge flohen und sich in die höheren Berglagen zurückzogen\. Da die Flanke ungeschützt blieb, flohen auch die Übrigen, die den Kampf vorgezogen hatten\. Inzwischen stand Caesar mitten im Geschehen\. Die meisten flehten ihn an, er solle sich nicht in Gefahr bringen und, während das Heer zerstreut sei, allein in die größte Gefahr geraten, da er doch der Herr der Welt sei; denn er solle nicht wie zuvor an der Stelle eines Soldaten kämpfen, sondern an der eines Kaisers, in dessen Gefahr das Verderben aller lag\. Er aber gab nicht nach, sondern stellte die Ehre des Kriegsdienstes über die Sicherheit, weil in seinen Augen ein ruhmvoller Tod schwerer wog als die Schande des Lebens\. Er wandte seine Brust gegen den Feind, stürmte auf die, die vor ihm zurückschreckten, und warf sich dann gegen andere\.
-
-Denn schon durch sein Erscheinen und den Ruf seiner weithin bekannten, tapferen Kühnheit trieb er den Feind zurück\. So wichen diejenigen, gegen die er angestürmt war; doch von anderen Seiten strömten immer mehr Juden heran\. Sie hätten Titus beinahe eingeschlossen, wenn nicht viele Soldaten, als sie sahen, dass Caesar mitten in die Schlacht verwickelt war, den Übrigen zugerufen hätten, der Sohn des Kaisers dürfe nicht in Gefahr zurückgelassen werden\. So rief ihr Ehrgefühl alle zurück und machte ihre Furcht wehrhaft: Sie sollten nicht mit der Schande gebrandmarkt werden, Caesar im Stich gelassen zu haben\. Da wandten sie sich mit aller Kraft und Tapferkeit gegen die Juden und trieben den ungeordneten Haufen ins Tal; auch fiel es denen, die aus dem Tal hinaufkletterten, nicht schwer, zurückzuweichen\. So rief Titus zweimal eine Anzahl fliehender Soldaten von der Flucht zurück und entriss sie Gefahr und Schande\. Dabei machte er von gleicher Tapferkeit und schließlich von ihrem Ehrgefühl Gebrauch; dieses wandte die Mutlosigkeit ab und weckte Tapferkeit: zuerst, damit Caesar nicht verlassen würde, und danach sogar, damit der Feind zurückgetrieben würde\.
+Denn schon durch sein Erscheinen und den Ruf seiner weithin bekannten,
+tapferen Kühnheit trieb er den Feind zurück\.
+So wichen diejenigen,
+gegen die er angestürmt war;
+doch von anderen Seiten strömten immer mehr Juden heran\.
+Sie hätten Titus beinahe eingeschlossen,
+wenn nicht viele Soldaten,
+als sie sahen,
+dass Caesar mitten in die Schlacht verwickelt war,
+den Übrigen zugerufen hätten,
+der Sohn des Kaisers dürfe nicht in Gefahr zurückgelassen werden\.
+So rief ihr Ehrgefühl alle zurück und machte ihre Furcht wehrhaft:
+Sie sollten nicht mit der Schande gebrandmarkt werden,
+Caesar im Stich gelassen zu haben\.
+Da wandten sie sich mit aller Kraft und Tapferkeit gegen die Juden und trieben den ungeordneten Haufen ins Tal;
+auch fiel es denen,
+die aus dem Tal hinaufkletterten,
+nicht schwer,
+zurückzuweichen\.
+So rief Titus zweimal eine Anzahl fliehender Soldaten von der Flucht zurück und entriss sie Gefahr und Schande\.
+Dabei machte er von gleicher Tapferkeit und schließlich von ihrem Ehrgefühl Gebrauch;
+dieses wandte die Mutlosigkeit ab und weckte Tapferkeit:
+zuerst,
+damit Caesar nicht verlassen würde,
+und danach sogar,
+damit der Feind zurückgetrieben würde\.
 
 ## Bibelverweise
 

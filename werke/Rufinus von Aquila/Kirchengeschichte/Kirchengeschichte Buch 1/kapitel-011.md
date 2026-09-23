@@ -7,16 +7,108 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-1#kapitel-a2fd9d22-69e3-45c8-31c3-08dde97c7c3f).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3fb00be937b50fed5d9ee63f7fde28417cf61d4dd4f7c7386142c8e82a741bfc`
+Kurz darauf wurde Johannes der Täufer von Herodes’ Sohn,
+Herodes,
+hingerichtet;
+auch die Evangelien berichten davon\.
+Josephus stimmt in seinen Schriften dem,
+was sie sagen,
+zu:
+Er erwähnt auch Herodias namentlich und sagt,
+dass sie gewaltsam von ihrem Ehemann Philippus,
+dem noch lebenden Bruder von Herodes,
+entfernt wurde und sich in eine inzestuöse Ehe mit Herodes begab,
+nachdem dieser seine rechtmäßige Frau zurückgewiesen hatte\.
+Er sagt,
+dass Herodias die Tochter von Aretas,
+dem König von Arabien,
+war,
+und berichtet auch,
+dass Johannes der Täufer wegen ihr von Herodes getötet wurde\.
 
-Kurz darauf wurde Johannes der Täufer von Herodes’ Sohn, Herodes, hingerichtet; auch die Evangelien berichten davon\. Josephus stimmt in seinen Schriften dem, was sie sagen, zu: Er erwähnt auch Herodias namentlich und sagt, dass sie gewaltsam von ihrem Ehemann Philippus, dem noch lebenden Bruder von Herodes, entfernt wurde und sich in eine inzestuöse Ehe mit Herodes begab, nachdem dieser seine rechtmäßige Frau zurückgewiesen hatte\. Er sagt, dass Herodias die Tochter von Aretas, dem König von Arabien, war, und berichtet auch, dass Johannes der Täufer wegen ihr von Herodes getötet wurde\.
+Er sagt,
+dass zwischen Aretas und Herodes Krieg ausbrach,
+um die Schande seiner Tochter zu rächen\.
+Herodes’ Armee wurde in diesem Krieg vernichtet,
+und er fügt hinzu,
+dass all dies ihm wegen seines Verbrechens,
+Johannes zu ermorden,
+widerfuhr\.
 
-Er sagt, dass zwischen Aretas und Herodes Krieg ausbrach, um die Schande seiner Tochter zu rächen\. Herodes’ Armee wurde in diesem Krieg vernichtet, und er fügt hinzu, dass all dies ihm wegen seines Verbrechens, Johannes zu ermorden, widerfuhr\.
+Josephus sagt außerdem,
+dass Johannes ein überaus gerechter Mann war,
+mehr als alle anderen,
+wie die Evangelien bestätigen,
+und dass er von Herodes wegen Herodias enthauptet wurde;
+auch wegen ihr wurde er aus seinem Reich vertrieben und nach Vienne,
+einer Stadt in Gallien,
+verbannt\.
 
-Josephus sagt außerdem, dass Johannes ein überaus gerechter Mann war, mehr als alle anderen, wie die Evangelien bestätigen, und dass er von Herodes wegen Herodias enthauptet wurde; auch wegen ihr wurde er aus seinem Reich vertrieben und nach Vienne, einer Stadt in Gallien, verbannt\.
+Folgendes schreibt er in eigenen Worten im achtzehnten Buch der Antiquitäten:
+„Es erschien einigen der Juden,
+dass Herodes’ Armee zugrunde ging,
+weil die göttliche Vergeltung gegen ihn aufgebracht wurde,
+und zwar zu Recht,
+um Genugtuung für Johannes,
+‚der Täufer‘ genannt,
+zu fordern,
+einen außergewöhnlich guten Mann,
+den Herodes bestraft hatte\.
+Er hatte den Juden gelehrt,
+auf Tugend zu achten,
+Gerechtigkeit gegenüber einander und Frömmigkeit gegenüber Gott zu praktizieren und sich durch die Taufe zusammenzuschließen\.
+Denn die Taufe wäre auf diese Weise annehmbar:
+wenn sie nicht nur dazu verwendet würde,
+Sünden abzuwaschen,
+sondern auch zur körperlichen Reinheit und zur Gerechtigkeit und Reinigung der Seele praktiziert und als eine Art Siegel und treuer Wächter aller Tugenden zusammen betrachtet würde\.
+Während er ihnen solche Grundsätze vermittelte und sich immense Menschenmengen versammelten,
+um ihn zu hören,
+fürchtete Herodes,
+dass das Volk,
+bewegt durch seine Lehre,
+von ihrem König abfallen könnte,
+denn er sah,
+dass die Bevölkerung bereit war,
+seinen Grundsätzen und Ratschlägen in allem zu folgen\.
+Daher hielt er es für besser,
+den Mann zu töten,
+bevor es irgendwelche Anzeichen von Aufstand gab,
+als später,
+wenn es zu spät war,
+Bedauern zu empfinden,
+nachdem die Unruhen bereits eingetreten waren\.
+Einfach aus Herodes’ Verdacht heraus wurde Johannes dann gefesselt zur Festung Machaerus gebracht und dort enthauptet\.“
 
-Folgendes schreibt er in eigenen Worten im achtzehnten Buch der Antiquitäten: „Es erschien einigen der Juden, dass Herodes’ Armee zugrunde ging, weil die göttliche Vergeltung gegen ihn aufgebracht wurde, und zwar zu Recht, um Genugtuung für Johannes, ‚der Täufer‘ genannt, zu fordern, einen außergewöhnlich guten Mann, den Herodes bestraft hatte\. Er hatte den Juden gelehrt, auf Tugend zu achten, Gerechtigkeit gegenüber einander und Frömmigkeit gegenüber Gott zu praktizieren und sich durch die Taufe zusammenzuschließen\. Denn die Taufe wäre auf diese Weise annehmbar: wenn sie nicht nur dazu verwendet würde, Sünden abzuwaschen, sondern auch zur körperlichen Reinheit und zur Gerechtigkeit und Reinigung der Seele praktiziert und als eine Art Siegel und treuer Wächter aller Tugenden zusammen betrachtet würde\. Während er ihnen solche Grundsätze vermittelte und sich immense Menschenmengen versammelten, um ihn zu hören, fürchtete Herodes, dass das Volk, bewegt durch seine Lehre, von ihrem König abfallen könnte, denn er sah, dass die Bevölkerung bereit war, seinen Grundsätzen und Ratschlägen in allem zu folgen\. Daher hielt er es für besser, den Mann zu töten, bevor es irgendwelche Anzeichen von Aufstand gab, als später, wenn es zu spät war, Bedauern zu empfinden, nachdem die Unruhen bereits eingetreten waren\. Einfach aus Herodes’ Verdacht heraus wurde Johannes dann gefesselt zur Festung Machaerus gebracht und dort enthauptet\.“
+So lauten seine Worte über Johannes\.
+Josephus schreibt auch Folgendes in denselben Büchern seiner Geschichtsschreibung über den Erlöser Herrn:
+„In jenen Zeiten gab es einen weisen Mann,
+Jesus,
+wenn es denn recht ist,
+ihn einen Mann zu nennen\.
+Denn er war ein Wundertäter und ein Lehrer der Menschen,
+die froh sind,
+die Wahrheit zu hören\.
+Er vereinte viele sowohl von den Juden als auch von den Heiden um sich\.
+Er war der Christus\.
+Als Pilatus anordnete,
+dass er gekreuzigt werden sollte,
+wegen der Anklage,
+die die führenden Männer unseres Volkes gegen ihn erhoben hatten,
+verließen ihn diejenigen,
+die ihn von Anfang an geliebt hatten,
+nicht\.
+Denn er erschien ihnen am dritten Tag lebendig,
+so wie es die göttlich inspirierten Propheten vorhergesagt hatten:
+dies und unzählige andere Wunder,
+die geschehen würden\.
+Der Name ‚Christ‘ und die Menschen,
+die ihren Namen von ihm ableiten,
+bestehen bis zum heutigen Tag\.“
 
-So lauten seine Worte über Johannes\. Josephus schreibt auch Folgendes in denselben Büchern seiner Geschichtsschreibung über den Erlöser Herrn: „In jenen Zeiten gab es einen weisen Mann, Jesus, wenn es denn recht ist, ihn einen Mann zu nennen\. Denn er war ein Wundertäter und ein Lehrer der Menschen, die froh sind, die Wahrheit zu hören\. Er vereinte viele sowohl von den Juden als auch von den Heiden um sich\. Er war der Christus\. Als Pilatus anordnete, dass er gekreuzigt werden sollte, wegen der Anklage, die die führenden Männer unseres Volkes gegen ihn erhoben hatten, verließen ihn diejenigen, die ihn von Anfang an geliebt hatten, nicht\. Denn er erschien ihnen am dritten Tag lebendig, so wie es die göttlich inspirierten Propheten vorhergesagt hatten: dies und unzählige andere Wunder, die geschehen würden\. Der Name ‚Christ‘ und die Menschen, die ihren Namen von ihm ableiten, bestehen bis zum heutigen Tag\.“
-
-Da der Historiker der Hebräer selbst schon vor langer Zeit diese Angelegenheiten sowohl über Johannes den Täufer als auch über unseren Herrn und Erlöser in seinen Büchern festgehalten hat – was nicht geleugnet werden kann – bleibt diesen schamlosen, treulosen Leuten kein Mittel, sich der eindeutigen Beweise zu entziehen, dass sie die Akten, die sie später gefälscht haben, selbst erfunden haben\. Aber das soll für jetzt genügen\.
+Da der Historiker der Hebräer selbst schon vor langer Zeit diese Angelegenheiten sowohl über Johannes den Täufer als auch über unseren Herrn und Erlöser in seinen Büchern festgehalten hat – was nicht geleugnet werden kann – bleibt diesen schamlosen,
+treulosen Leuten kein Mittel,
+sich der eindeutigen Beweise zu entziehen,
+dass sie die Akten,
+die sie später gefälscht haben,
+selbst erfunden haben\.
+Aber das soll für jetzt genügen\.

@@ -7,15 +7,239 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-iii#kapitel-213f3bff-7364-474e-036e-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:44f6439f1b63dddd98798a2fb2d40fc8247ddeaba564a323ac0d29239a31e0de`
+Dass dieser Lukas aber von Paulus unzertrennlich war und mit ihm am Evangelium arbeitete,
+macht er selbst deutlich sichtbar\.
+Er tut es nicht,
+um sich zu rühmen,
+sondern weil die Wahrheit selbst ihn dazu verpflichtet\.
+Denn er sagt,
+als Barnabas und Johannes,
+der Markus genannt wurde,
+sich von Paulus getrennt hatten und nach Zypern gesegelt waren:
+„Wir kamen nach Troas[^bible-6143b7aa-1600-4053-b0aa-6a4106c1ca79]\.“
+Und als Paulus im Traum einen Mann aus Makedonien gesehen hatte,
+der sagte:
+„Komm nach Makedonien,
+Paulus,
+und hilf uns[^bible-47950ad4-2cf7-41b5-8237-59fa05c0c7cb]“,
+sagt er:
+„Sogleich suchten wir nach Makedonien zu gehen,
+weil wir erkannten,
+dass der Herr uns gerufen hatte,
+ihnen das Evangelium zu verkünden\.
+Von Troas fuhren wir also ab und nahmen Kurs auf Samothrake[^bible-f640286f-e57a-4b5e-aa9e-7543f019c98b]\.“
+Danach gibt er sorgfältig den ganzen weiteren Weg bis nach Philippi an und berichtet,
+wie sie ihre erste Ansprache hielten:
+„Denn wir setzten uns[^bible-b377d736-3509-4831-bd68-4e8990c2ed7a]“,
+sagt er,
+„und sprachen zu den Frauen,
+die zusammengekommen waren[^bible-b377d736-3509-4831-bd68-4e8990c2ed7a]“;
+und einige glaubten,
+ja sogar sehr viele\.
+Wieder sagt er:
+„Wir aber fuhren nach den Tagen der ungesäuerten Brote von Philippi ab und kamen nach Troas,
+wo wir sieben Tage blieben[^bible-496e847b-4e1e-48b4-96af-7ac7b7102c33]\.“
+Auch alles Übrige auf seiner Reise mit Paulus erzählt er und nennt mit aller Sorgfalt Orte,
+Städte und die Zahl der Tage,
+bis sie nach Jerusalem hinaufgingen;
+was Paulus dort widerfuhr;
+wie er gefesselt nach Rom geschickt wurde;
+den Namen des Hauptmanns,
+der ihn übernahm;
+die Kennzeichen der Schiffe;
+wie sie Schiffbruch erlitten;
+auf welche Insel sie sich retteten;
+wie sie dort freundlich aufgenommen wurden und Paulus den Vorsteher dieser Insel heilte;
+wie sie von dort nach Puteoli segelten und von dort nach Rom kamen;
+und wie lange sie in Rom blieben\.
+Weil Lukas bei all dem gegenwärtig war,
+hat er es sorgfältig schriftlich festgehalten\.
+So kann man ihn nicht der Lüge oder der Prahlerei überführen;
+denn all diese Einzelheiten beweisen sowohl,
+dass er früher da war als alle,
+die heute anders lehren,
+als auch,
+dass er die Wahrheit kannte\.
+Dass er nicht nur ein Begleiter,
+sondern auch ein Mitarbeiter der Apostel war,
+besonders des Paulus,
+hat Paulus selbst auch in den Briefen erklärt,
+wenn er sagt:
+„Demas hat mich verlassen[^bible-24d2f235-145b-4832-90ca-0b8f39d79c28]“… „und ist nach Thessalonich gegangen;
+Kreszens nach Galatien,
+Titus nach Dalmatien\.
+Nur Lukas ist bei mir[^bible-24d2f235-145b-4832-90ca-0b8f39d79c28]\.“
+Daraus zeigt er,
+dass Lukas ihm immer verbunden und von ihm untrennbar war\.
+Und wieder sagt er im Brief an die Kolosser:
+„Lukas,
+der geliebte Arzt,
+grüßt euch[^bible-65574470-43fa-480b-9f2e-ddf733c90b6b]\.“
+Wenn nun aber Lukas,
+der stets zusammen mit Paulus predigte,
+von ihm „der Geliebte“ genannt wird,
+mit ihm das Werk eines Evangelisten tat und den Auftrag erhielt,
+uns ein Evangelium zu überliefern,
+nichts anderes von ihm gelernt hat,
+wie aus seinen eigenen Worten gezeigt wurde:
+Wie können sich dann diese Leute,
+die nie mit Paulus verbunden waren,
+rühmen,
+sie hätten verborgene und unaussprechliche Geheimnisse gelernt?
 
-Dass dieser Lukas aber von Paulus unzertrennlich war und mit ihm am Evangelium arbeitete, macht er selbst deutlich sichtbar\. Er tut es nicht, um sich zu rühmen, sondern weil die Wahrheit selbst ihn dazu verpflichtet\. Denn er sagt, als Barnabas und Johannes, der Markus genannt wurde, sich von Paulus getrennt hatten und nach Zypern gesegelt waren: „Wir kamen nach Troas[^bible-6143b7aa-1600-4053-b0aa-6a4106c1ca79]\.“ Und als Paulus im Traum einen Mann aus Makedonien gesehen hatte, der sagte: „Komm nach Makedonien, Paulus, und hilf uns[^bible-47950ad4-2cf7-41b5-8237-59fa05c0c7cb]“, sagt er: „Sogleich suchten wir nach Makedonien zu gehen, weil wir erkannten, dass der Herr uns gerufen hatte, ihnen das Evangelium zu verkünden\. Von Troas fuhren wir also ab und nahmen Kurs auf Samothrake[^bible-f640286f-e57a-4b5e-aa9e-7543f019c98b]\.“ Danach gibt er sorgfältig den ganzen weiteren Weg bis nach Philippi an und berichtet, wie sie ihre erste Ansprache hielten: „Denn wir setzten uns[^bible-b377d736-3509-4831-bd68-4e8990c2ed7a]“, sagt er, „und sprachen zu den Frauen, die zusammengekommen waren[^bible-b377d736-3509-4831-bd68-4e8990c2ed7a]“; und einige glaubten, ja sogar sehr viele\. Wieder sagt er: „Wir aber fuhren nach den Tagen der ungesäuerten Brote von Philippi ab und kamen nach Troas, wo wir sieben Tage blieben[^bible-496e847b-4e1e-48b4-96af-7ac7b7102c33]\.“ Auch alles Übrige auf seiner Reise mit Paulus erzählt er und nennt mit aller Sorgfalt Orte, Städte und die Zahl der Tage, bis sie nach Jerusalem hinaufgingen; was Paulus dort widerfuhr; wie er gefesselt nach Rom geschickt wurde; den Namen des Hauptmanns, der ihn übernahm; die Kennzeichen der Schiffe; wie sie Schiffbruch erlitten; auf welche Insel sie sich retteten; wie sie dort freundlich aufgenommen wurden und Paulus den Vorsteher dieser Insel heilte; wie sie von dort nach Puteoli segelten und von dort nach Rom kamen; und wie lange sie in Rom blieben\. Weil Lukas bei all dem gegenwärtig war, hat er es sorgfältig schriftlich festgehalten\. So kann man ihn nicht der Lüge oder der Prahlerei überführen; denn all diese Einzelheiten beweisen sowohl, dass er früher da war als alle, die heute anders lehren, als auch, dass er die Wahrheit kannte\. Dass er nicht nur ein Begleiter, sondern auch ein Mitarbeiter der Apostel war, besonders des Paulus, hat Paulus selbst auch in den Briefen erklärt, wenn er sagt: „Demas hat mich verlassen[^bible-24d2f235-145b-4832-90ca-0b8f39d79c28]“… „und ist nach Thessalonich gegangen; Kreszens nach Galatien, Titus nach Dalmatien\. Nur Lukas ist bei mir[^bible-24d2f235-145b-4832-90ca-0b8f39d79c28]\.“ Daraus zeigt er, dass Lukas ihm immer verbunden und von ihm untrennbar war\. Und wieder sagt er im Brief an die Kolosser: „Lukas, der geliebte Arzt, grüßt euch[^bible-65574470-43fa-480b-9f2e-ddf733c90b6b]\.“ Wenn nun aber Lukas, der stets zusammen mit Paulus predigte, von ihm „der Geliebte“ genannt wird, mit ihm das Werk eines Evangelisten tat und den Auftrag erhielt, uns ein Evangelium zu überliefern, nichts anderes von ihm gelernt hat, wie aus seinen eigenen Worten gezeigt wurde: Wie können sich dann diese Leute, die nie mit Paulus verbunden waren, rühmen, sie hätten verborgene und unaussprechliche Geheimnisse gelernt?
+Dass Paulus aber schlicht weitergab,
+was er wusste,
+nicht nur denen,
+die mit ihm arbeiteten,
+sondern auch denen,
+die ihn hörten,
+macht er selbst deutlich\.
+Denn als sich in Milet die Bischöfe und Presbyter versammelt hatten,
+die aus Ephesus und den angrenzenden Städten gekommen waren,
+während er selbst nach Jerusalem eilte,
+um dort Pfingsten zu feiern,
+bezeugte er ihnen vieles und erklärte,
+was ihm in Jerusalem widerfahren musste\.
+Dann fügte er hinzu:
+„Ich weiß,
+dass ihr mein Angesicht nicht mehr sehen werdet\.
+Darum bezeuge ich euch an diesem Tag,
+dass ich rein bin vom Blut aller\.
+Denn ich habe nicht gezögert,
+euch den ganzen Ratschluss Gottes zu verkünden\.
+Achtet also auf euch selbst und auf die ganze Herde,
+über die euch der Heilige Geist als Bischöfe eingesetzt hat,
+damit ihr die Kirche des Herrn leitet,
+die er sich durch sein eigenes Blut erworben hat\.[^bible-979db900-db55-45ad-97dc-ebb27023a16d]“ Dann sprach er von den bösen Lehrern,
+die auftreten würden,
+und sagte:
+„Ich weiß,
+dass nach meinem Weggang gefährliche Wölfe zu euch kommen werden,
+die die Herde nicht schonen\.
+Auch aus eurer eigenen Mitte werden Männer aufstehen und Verkehrtes reden,
+um die Jünger auf ihre Seite zu ziehen\.[^bible-37629d8f-c28b-4283-ba82-496ba6b6a0ac]“ „Ich habe nicht gezögert[^bible-1f8e0c9d-f241-43a4-8e46-e0afac97ea51]“,
+sagt er,
+„euch den ganzen Ratschluss Gottes zu verkünden[^bible-1f8e0c9d-f241-43a4-8e46-e0afac97ea51]\.“
+So haben die Apostel schlicht und ohne Ansehen der Person allen weitergegeben,
+was sie selbst vom Herrn gelernt hatten\.
+So gibt auch Lukas ohne Ansehen der Person an uns weiter,
+was er von ihnen gelernt hatte,
+wie er selbst bezeugt hat,
+wenn er sagt:
+„wie sie es uns überliefert haben,
+die von Anfang an Augenzeugen und Diener des Wortes waren\.[^bible-0ddd5764-55f7-4e4a-84d1-080f00f9d6fc]“ Wenn nun jemand Lukas beiseitesetzt,
+als hätte er die Wahrheit nicht gekannt,
+dann verwirft er damit offenkundig jenes Evangelium,
+dessen Schüler er zu sein behauptet\.
+Denn durch ihn haben wir sehr viele und wichtige Teile des Evangeliums kennengelernt:
+etwa die Geburt des Johannes,
+die Geschichte des Zacharias,
+das Kommen des Engels zu Maria,
+den Ausruf Elisabeths,
+den Abstieg der Engel zu den Hirten,
+die von ihnen gesprochenen Worte,
+das Zeugnis Annas und Simeons über Christus und dass der Herr im Alter von zwölf Jahren in Jerusalem zurückblieb;
+ebenso die Taufe des Johannes,
+das Alter des Herrn bei seiner Taufe und dass dies im fünfzehnten Jahr des Kaisers Tiberius geschah\.
 
-Dass Paulus aber schlicht weitergab, was er wusste, nicht nur denen, die mit ihm arbeiteten, sondern auch denen, die ihn hörten, macht er selbst deutlich\. Denn als sich in Milet die Bischöfe und Presbyter versammelt hatten, die aus Ephesus und den angrenzenden Städten gekommen waren, während er selbst nach Jerusalem eilte, um dort Pfingsten zu feiern, bezeugte er ihnen vieles und erklärte, was ihm in Jerusalem widerfahren musste\. Dann fügte er hinzu: „Ich weiß, dass ihr mein Angesicht nicht mehr sehen werdet\. Darum bezeuge ich euch an diesem Tag, dass ich rein bin vom Blut aller\. Denn ich habe nicht gezögert, euch den ganzen Ratschluss Gottes zu verkünden\. Achtet also auf euch selbst und auf die ganze Herde, über die euch der Heilige Geist als Bischöfe eingesetzt hat, damit ihr die Kirche des Herrn leitet, die er sich durch sein eigenes Blut erworben hat\.[^bible-979db900-db55-45ad-97dc-ebb27023a16d]“ Dann sprach er von den bösen Lehrern, die auftreten würden, und sagte: „Ich weiß, dass nach meinem Weggang gefährliche Wölfe zu euch kommen werden, die die Herde nicht schonen\. Auch aus eurer eigenen Mitte werden Männer aufstehen und Verkehrtes reden, um die Jünger auf ihre Seite zu ziehen\.[^bible-37629d8f-c28b-4283-ba82-496ba6b6a0ac]“ „Ich habe nicht gezögert[^bible-1f8e0c9d-f241-43a4-8e46-e0afac97ea51]“, sagt er, „euch den ganzen Ratschluss Gottes zu verkünden[^bible-1f8e0c9d-f241-43a4-8e46-e0afac97ea51]\.“ So haben die Apostel schlicht und ohne Ansehen der Person allen weitergegeben, was sie selbst vom Herrn gelernt hatten\. So gibt auch Lukas ohne Ansehen der Person an uns weiter, was er von ihnen gelernt hatte, wie er selbst bezeugt hat, wenn er sagt: „wie sie es uns überliefert haben, die von Anfang an Augenzeugen und Diener des Wortes waren\.[^bible-0ddd5764-55f7-4e4a-84d1-080f00f9d6fc]“ Wenn nun jemand Lukas beiseitesetzt, als hätte er die Wahrheit nicht gekannt, dann verwirft er damit offenkundig jenes Evangelium, dessen Schüler er zu sein behauptet\. Denn durch ihn haben wir sehr viele und wichtige Teile des Evangeliums kennengelernt: etwa die Geburt des Johannes, die Geschichte des Zacharias, das Kommen des Engels zu Maria, den Ausruf Elisabeths, den Abstieg der Engel zu den Hirten, die von ihnen gesprochenen Worte, das Zeugnis Annas und Simeons über Christus und dass der Herr im Alter von zwölf Jahren in Jerusalem zurückblieb; ebenso die Taufe des Johannes, das Alter des Herrn bei seiner Taufe und dass dies im fünfzehnten Jahr des Kaisers Tiberius geschah\.
+Und in seinem Amt als Lehrer hat er zu den Reichen gesagt:
+„Weh euch Reichen,
+denn ihr habt euren Trost empfangen[^bible-412c6bef-2c94-4604-ba85-1d235eed3573]“;
+und:
+„Weh euch,
+die ihr satt seid,
+denn ihr werdet hungern;
+und ihr,
+die ihr jetzt lacht,
+denn ihr werdet weinen[^bible-1f41e23a-c2af-4c27-9e85-f061776dba58]“;
+und:
+„Weh euch,
+wenn alle Menschen gut von euch sprechen;
+denn ebenso haben es eure Väter mit den falschen Propheten gemacht[^bible-50f32e06-24bc-4652-a37d-9d9f70059c55]\.“
+Alles Folgende kennen wir allein durch Lukas,
+und durch ihn haben wir zahlreiche Taten des Herrn erfahren,
+die auch alle Evangelisten erwähnen:
+die Menge der Fische,
+die die Gefährten des Petrus einfingen,
+als sie auf Befehl des Herrn die Netze auswarfen[^bible-ef159e23-a1e2-4d53-85cc-100f1b91dbad];
+die Frau,
+die achtzehn Jahre gelitten hatte und am Sabbat geheilt wurde[^bible-0a6bda41-b624-4cb6-b52c-742c503792c2];
+den wassersüchtigen Mann,
+den der Herr am Sabbat gesund machte,
+und wie er sich dafür verteidigte[^bible-44a63a06-2920-44d3-ac0a-0e07aa1f0878],
+an diesem Tag eine Heilung vollbracht zu haben;
+wie er seine Jünger lehrte,
+nicht nach den obersten Plätzen zu streben[^bible-d8ee2397-527f-4a5e-9222-b1c396f980e3];
+wie wir die Armen und Schwachen einladen sollen,
+die uns nichts vergelten können[^bible-ba7bb67c-0c57-473d-b54c-0ea22e189c1b];
+den Mann,
+der nachts anklopfte,
+um Brote zu bekommen,
+und sie wegen der Dringlichkeit seines beharrlichen Bittens auch erhielt[^bible-9bc4a71e-def0-46f9-a3a6-ee99661abe03];
+wie,
+als unser Herr bei einem Pharisäer zu Tisch saß,
+eine Frau,
+die eine Sünderin war,
+seine Füße küsste und sie mit Salböl salbte,
+samt dem,
+was der Herr zu ihren Gunsten zu Simon über die zwei Schuldner sagte[^bible-c9313beb-e2dd-4022-a1e6-2b7ba5fd1026];
+ebenso das Gleichnis von jenem reichen Mann,
+der die Güter aufspeicherte,
+die ihm zugefallen waren,
+und zu dem gesagt wurde:
+„In dieser Nacht wird man deine Seele von dir fordern;
+wem wird dann gehören,
+was du bereitet hast?[^bible-94eb3945-248e-4041-970a-e82c897348d8]“;
+und ähnlich dazu das Gleichnis von dem reichen Mann,
+der Purpur trug und herrlich lebte,
+und von dem armen Lazarus[^bible-6e442530-3b96-4b84-ba3e-c08d5923553b];
+auch die Antwort,
+die er seinen Jüngern gab,
+als sie sagten:
+„Mehre unseren Glauben[^bible-18fe5281-f19a-4249-8668-fa2fd1ad2be2]“;
+ferner sein Gespräch mit Zachäus,
+dem Zöllner[^bible-991b3f8f-7891-4c2c-8f89-202a989e69e1];
+ebenso vom Pharisäer und vom Zöllner,
+die zur selben Zeit im Tempel beteten[^bible-4869f572-75a1-414d-a481-87aba00107d5];
+auch die zehn Aussätzigen,
+die er unterwegs alle zugleich reinigte[^bible-09a010a5-03ce-4c4a-ae56-354e240f918b];
+ferner wie er befahl,
+die Lahmen und Blinden von den Gassen und Straßen zur Hochzeit zu holen[^bible-a3fcef95-d6ea-46a8-b298-ca5d4039b750];
+auch das Gleichnis von dem Richter,
+der Gott nicht fürchtete und den die Beharrlichkeit der Witwe dazu brachte,
+ihr Recht zu verschaffen[^bible-afa470b0-647a-4a1f-ae70-498c83397649];
+und vom Feigenbaum im Weinberg,
+der keine Frucht brachte[^bible-b07e9c85-f848-4dd8-bf61-d8e71c30c0f0]\.
+Es finden sich noch viele andere Einzelheiten,
+die allein Lukas erwähnt und die sowohl Marcion als auch Valentinus verwenden\.
+Und außer all dem berichtet er,
+was Christus nach der Auferstehung unterwegs zu seinen Jüngern sagte und wie sie ihn am Brechen des Brotes erkannten[^bible-e191288f-9d11-4c16-bbb3-838e195249ee]\.
 
-Und in seinem Amt als Lehrer hat er zu den Reichen gesagt: „Weh euch Reichen, denn ihr habt euren Trost empfangen[^bible-412c6bef-2c94-4604-ba85-1d235eed3573]“; und: „Weh euch, die ihr satt seid, denn ihr werdet hungern; und ihr, die ihr jetzt lacht, denn ihr werdet weinen[^bible-1f41e23a-c2af-4c27-9e85-f061776dba58]“; und: „Weh euch, wenn alle Menschen gut von euch sprechen; denn ebenso haben es eure Väter mit den falschen Propheten gemacht[^bible-50f32e06-24bc-4652-a37d-9d9f70059c55]\.“ Alles Folgende kennen wir allein durch Lukas, und durch ihn haben wir zahlreiche Taten des Herrn erfahren, die auch alle Evangelisten erwähnen: die Menge der Fische, die die Gefährten des Petrus einfingen, als sie auf Befehl des Herrn die Netze auswarfen[^bible-ef159e23-a1e2-4d53-85cc-100f1b91dbad]; die Frau, die achtzehn Jahre gelitten hatte und am Sabbat geheilt wurde[^bible-0a6bda41-b624-4cb6-b52c-742c503792c2]; den wassersüchtigen Mann, den der Herr am Sabbat gesund machte, und wie er sich dafür verteidigte[^bible-44a63a06-2920-44d3-ac0a-0e07aa1f0878], an diesem Tag eine Heilung vollbracht zu haben; wie er seine Jünger lehrte, nicht nach den obersten Plätzen zu streben[^bible-d8ee2397-527f-4a5e-9222-b1c396f980e3]; wie wir die Armen und Schwachen einladen sollen, die uns nichts vergelten können[^bible-ba7bb67c-0c57-473d-b54c-0ea22e189c1b]; den Mann, der nachts anklopfte, um Brote zu bekommen, und sie wegen der Dringlichkeit seines beharrlichen Bittens auch erhielt[^bible-9bc4a71e-def0-46f9-a3a6-ee99661abe03]; wie, als unser Herr bei einem Pharisäer zu Tisch saß, eine Frau, die eine Sünderin war, seine Füße küsste und sie mit Salböl salbte, samt dem, was der Herr zu ihren Gunsten zu Simon über die zwei Schuldner sagte[^bible-c9313beb-e2dd-4022-a1e6-2b7ba5fd1026]; ebenso das Gleichnis von jenem reichen Mann, der die Güter aufspeicherte, die ihm zugefallen waren, und zu dem gesagt wurde: „In dieser Nacht wird man deine Seele von dir fordern; wem wird dann gehören, was du bereitet hast?[^bible-94eb3945-248e-4041-970a-e82c897348d8]“; und ähnlich dazu das Gleichnis von dem reichen Mann, der Purpur trug und herrlich lebte, und von dem armen Lazarus[^bible-6e442530-3b96-4b84-ba3e-c08d5923553b]; auch die Antwort, die er seinen Jüngern gab, als sie sagten: „Mehre unseren Glauben[^bible-18fe5281-f19a-4249-8668-fa2fd1ad2be2]“; ferner sein Gespräch mit Zachäus, dem Zöllner[^bible-991b3f8f-7891-4c2c-8f89-202a989e69e1]; ebenso vom Pharisäer und vom Zöllner, die zur selben Zeit im Tempel beteten[^bible-4869f572-75a1-414d-a481-87aba00107d5]; auch die zehn Aussätzigen, die er unterwegs alle zugleich reinigte[^bible-09a010a5-03ce-4c4a-ae56-354e240f918b]; ferner wie er befahl, die Lahmen und Blinden von den Gassen und Straßen zur Hochzeit zu holen[^bible-a3fcef95-d6ea-46a8-b298-ca5d4039b750]; auch das Gleichnis von dem Richter, der Gott nicht fürchtete und den die Beharrlichkeit der Witwe dazu brachte, ihr Recht zu verschaffen[^bible-afa470b0-647a-4a1f-ae70-498c83397649]; und vom Feigenbaum im Weinberg, der keine Frucht brachte[^bible-b07e9c85-f848-4dd8-bf61-d8e71c30c0f0]\. Es finden sich noch viele andere Einzelheiten, die allein Lukas erwähnt und die sowohl Marcion als auch Valentinus verwenden\. Und außer all dem berichtet er, was Christus nach der Auferstehung unterwegs zu seinen Jüngern sagte und wie sie ihn am Brechen des Brotes erkannten[^bible-e191288f-9d11-4c16-bbb3-838e195249ee]\.
-
-Daraus folgt nun selbstverständlich: Diese Männer müssen entweder auch seinen übrigen Bericht annehmen oder auch diese Teile verwerfen\. Denn kein verständiger Mensch kann ihnen zugestehen, einiges von dem, was Lukas erzählt, als wahr anzunehmen und anderes beiseitezuschieben, als hätte er die Wahrheit nicht gekannt\. Wenn nun die Anhänger Marcions diese Stücke verwerfen, besitzen sie überhaupt kein Evangelium mehr; denn sie haben, wie ich schon gesagt habe, das Evangelium nach Lukas beschnitten und rühmen sich dann, in dem, was übrig bleibt, das Evangelium zu haben\. Die Anhänger des Valentinus aber müssen ihr völlig leeres Gerede aufgeben; denn sie haben aus diesem Evangelium viele Anlässe für ihre eigenen Spekulationen genommen, um das, was er gut gesagt hat, böswillig auszulegen\. Wenn sie sich dagegen gezwungen sehen, auch die übrigen Teile anzunehmen, dann werden sie beim Studium des vollständigen Evangeliums und der Lehre der Apostel die Notwendigkeit der Umkehr erkennen, damit sie aus der Gefahr gerettet werden, der sie ausgesetzt sind\.
+Daraus folgt nun selbstverständlich:
+Diese Männer müssen entweder auch seinen übrigen Bericht annehmen oder auch diese Teile verwerfen\.
+Denn kein verständiger Mensch kann ihnen zugestehen,
+einiges von dem,
+was Lukas erzählt,
+als wahr anzunehmen und anderes beiseitezuschieben,
+als hätte er die Wahrheit nicht gekannt\.
+Wenn nun die Anhänger Marcions diese Stücke verwerfen,
+besitzen sie überhaupt kein Evangelium mehr;
+denn sie haben,
+wie ich schon gesagt habe,
+das Evangelium nach Lukas beschnitten und rühmen sich dann,
+in dem,
+was übrig bleibt,
+das Evangelium zu haben\.
+Die Anhänger des Valentinus aber müssen ihr völlig leeres Gerede aufgeben;
+denn sie haben aus diesem Evangelium viele Anlässe für ihre eigenen Spekulationen genommen,
+um das,
+was er gut gesagt hat,
+böswillig auszulegen\.
+Wenn sie sich dagegen gezwungen sehen,
+auch die übrigen Teile anzunehmen,
+dann werden sie beim Studium des vollständigen Evangeliums und der Lehre der Apostel die Notwendigkeit der Umkehr erkennen,
+damit sie aus der Gefahr gerettet werden,
+der sie ausgesetzt sind\.
 
 ## Bibelverweise
 

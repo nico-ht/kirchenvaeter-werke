@@ -7,6 +7,54 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-1#kapitel-45f0e0ab-eca7-482d-09fb-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5b745f87f54c431b9de3e2548668a9db1cf9d96f91bdefd21562f8fd80e59b79`
-
-Und indem ich Buch mit Buch zum Vergleich stelle, würde ich sagen: „Nun denn, mein Bester, nimm die Gedichte des Linus, des Musaios und des Orpheus sowie die Schriften des Pherekydes zur Hand und vergleiche sie sorgfältig mit den Gesetzen des Mose, Geschichtsdarstellungen mit Geschichtsdarstellungen und sittliche Lehrreden mit Gesetzen und Geboten\. Dann sieh, welche von beiden eher geeignet sind, den Charakter des Hörers auf der Stelle zu verändern, und welche ihn in seiner Bosheit bestärken\. Beachte auch, wie wenig sich die Reihe deiner Schriftsteller um Leser kümmert, die ihre Werke sogleich und ohne fremde Hilfe lesen sollen\. Vielmehr haben sie ihre Philosophie, wie du sie nennst, für diejenigen verfasst, die deren bildlichen und allegorischen Sinn erfassen können\. Mose dagegen verfuhr wie ein hervorragender Redner, der eine rhetorische Figur durchdenkt und überall mit Bedacht Worte von zweifachem Sinn einführt\. So hat er es in seinen fünf Büchern gehalten: In den Abschnitten über das sittliche Leben bot er seinen jüdischen Untergebenen keinen Anhalt, Böses zu tun; zugleich versagte er den wenigen, die mit größerer Weisheit begabt waren und seinen Sinn zu erforschen vermochten, keine Abhandlung, die Stoff zum Nachdenken bot\. Die Schriften eurer gelehrten Dichter dagegen scheinen nicht einmal mehr erhalten zu sein, obwohl man sie sorgfältig bewahrt hätte, wenn ihre Leser darin irgendeinen Nutzen erkannt hätten\. Die Werke des Mose hingegen haben viele, denen die Lebensweise der Juden völlig fremd war, zu dem Glauben bewegt, dass, wie diese Schriften bezeugen, derjenige, der diese Gesetze zuerst erließ und sie Mose übergab, der Gott war, der die Welt erschaffen hat\. Denn nachdem der Schöpfer des Alls Gesetze zu dessen Ordnung erlassen hatte, entsprach es ihm auch, seinen Worten eine Macht zu verleihen, die imstande wäre, alle Menschen in allen Teilen der Erde sich zu unterwerfen\. Das behaupte ich, ohne bisher die Frage nach Jesus untersucht zu haben; dennoch zeige ich weiterhin, dass Mose, der weit unter dem Herrn steht, euren weisen Dichtern und Philosophen weit überlegen ist, wie diese Abhandlung zeigen wird\.“
+Und indem ich Buch mit Buch zum Vergleich stelle,
+würde ich sagen:
+„Nun denn,
+mein Bester,
+nimm die Gedichte des Linus,
+des Musaios und des Orpheus sowie die Schriften des Pherekydes zur Hand und vergleiche sie sorgfältig mit den Gesetzen des Mose,
+Geschichtsdarstellungen mit Geschichtsdarstellungen und sittliche Lehrreden mit Gesetzen und Geboten\.
+Dann sieh,
+welche von beiden eher geeignet sind,
+den Charakter des Hörers auf der Stelle zu verändern,
+und welche ihn in seiner Bosheit bestärken\.
+Beachte auch,
+wie wenig sich die Reihe deiner Schriftsteller um Leser kümmert,
+die ihre Werke sogleich und ohne fremde Hilfe lesen sollen\.
+Vielmehr haben sie ihre Philosophie,
+wie du sie nennst,
+für diejenigen verfasst,
+die deren bildlichen und allegorischen Sinn erfassen können\.
+Mose dagegen verfuhr wie ein hervorragender Redner,
+der eine rhetorische Figur durchdenkt und überall mit Bedacht Worte von zweifachem Sinn einführt\.
+So hat er es in seinen fünf Büchern gehalten:
+In den Abschnitten über das sittliche Leben bot er seinen jüdischen Untergebenen keinen Anhalt,
+Böses zu tun;
+zugleich versagte er den wenigen,
+die mit größerer Weisheit begabt waren und seinen Sinn zu erforschen vermochten,
+keine Abhandlung,
+die Stoff zum Nachdenken bot\.
+Die Schriften eurer gelehrten Dichter dagegen scheinen nicht einmal mehr erhalten zu sein,
+obwohl man sie sorgfältig bewahrt hätte,
+wenn ihre Leser darin irgendeinen Nutzen erkannt hätten\.
+Die Werke des Mose hingegen haben viele,
+denen die Lebensweise der Juden völlig fremd war,
+zu dem Glauben bewegt,
+dass,
+wie diese Schriften bezeugen,
+derjenige,
+der diese Gesetze zuerst erließ und sie Mose übergab,
+der Gott war,
+der die Welt erschaffen hat\.
+Denn nachdem der Schöpfer des Alls Gesetze zu dessen Ordnung erlassen hatte,
+entsprach es ihm auch,
+seinen Worten eine Macht zu verleihen,
+die imstande wäre,
+alle Menschen in allen Teilen der Erde sich zu unterwerfen\.
+Das behaupte ich,
+ohne bisher die Frage nach Jesus untersucht zu haben;
+dennoch zeige ich weiterhin,
+dass Mose,
+der weit unter dem Herrn steht,
+euren weisen Dichtern und Philosophen weit überlegen ist,
+wie diese Abhandlung zeigen wird\.“

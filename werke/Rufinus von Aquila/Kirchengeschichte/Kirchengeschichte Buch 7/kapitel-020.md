@@ -7,6 +7,28 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-7#kapitel-2abc8167-dcc1-4526-8263-08de214e7d1f).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:48d9a03fdb5501195c01c655ffb3c256fa132efff570b6f7b406d14ca40ad925`
-
-In Alexandria aber, auch wenn von außen keine Gefahr droht, reicht schon die Tatsache, dass das Menschengeschlecht wild, aufrührerisch und unruhig ist, um innere Unruhen und Kriege zu entzünden – nicht aus irgendeinem berechtigten Grund oder zur Verteidigung, sondern nur mit dem Ziel, die eigenen Bürger zu erschlagen und abzuschlachten\. Dionysius berichtet, wenn er dies in seinen Briefen erwähnt, die Stadt sei von ihren eigenen Bewohnern so verwüstet und zerstört worden, dass dort, wo früher wegen der Menschenmassen kaum Platz war, sich einen Weg zu bahnen, jetzt der Zustand herrschte, dass man auf den Straßen nur noch selten überhaupt einen Menschen zu sehen bekam; alle Straßen seien vom Blut ihrer Einwohner getränkt gewesen, die Wege mit Leichen verstopft, und die wenigen Überlebenden hätten nicht ausgereicht, sie zu begraben\. So brach nach der Raserei des Krieges und der Verheerung durch das Schwert die Seuche aus, die im verdorbenen Gestank der Leichen in der Luft hing, sodass alles, was dem Schwert entkommen war, von der Krankheit dahingerafft wurde\.
+In Alexandria aber,
+auch wenn von außen keine Gefahr droht,
+reicht schon die Tatsache,
+dass das Menschengeschlecht wild,
+aufrührerisch und unruhig ist,
+um innere Unruhen und Kriege zu entzünden – nicht aus irgendeinem berechtigten Grund oder zur Verteidigung,
+sondern nur mit dem Ziel,
+die eigenen Bürger zu erschlagen und abzuschlachten\.
+Dionysius berichtet,
+wenn er dies in seinen Briefen erwähnt,
+die Stadt sei von ihren eigenen Bewohnern so verwüstet und zerstört worden,
+dass dort,
+wo früher wegen der Menschenmassen kaum Platz war,
+sich einen Weg zu bahnen,
+jetzt der Zustand herrschte,
+dass man auf den Straßen nur noch selten überhaupt einen Menschen zu sehen bekam;
+alle Straßen seien vom Blut ihrer Einwohner getränkt gewesen,
+die Wege mit Leichen verstopft,
+und die wenigen Überlebenden hätten nicht ausgereicht,
+sie zu begraben\.
+So brach nach der Raserei des Krieges und der Verheerung durch das Schwert die Seuche aus,
+die im verdorbenen Gestank der Leichen in der Luft hing,
+sodass alles,
+was dem Schwert entkommen war,
+von der Krankheit dahingerafft wurde\.

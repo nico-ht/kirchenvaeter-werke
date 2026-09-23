@@ -7,11 +7,101 @@ Autor: Isidor von Sevilla
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/isidor-von-sevilla/de-ecclesiastics-officiis-buch-1#kapitel-a1c38b6e-9963-4e76-f4dc-08ded514b29a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d3182132c03abb80c5e2a151494004f98358155d5d8c9f7617474d3c20649c76`
+In den Kirchen Christi werden Lesungen aus den Heiligen Schriften vorgetragen\.
+Eben diese Heilige Schrift besteht aus dem Alten Gesetz und dem Neuen\.
+Das Alte Gesetz ist jenes,
+das zuerst den Juden durch Mose und die Propheten gegeben wurde;
+es wird Altes Testament genannt\.
+Testament heißt es,
+weil es durch geeignete Zeugen,
+nämlich durch die Propheten,
+geschrieben und besiegelt wurde\.
+Das Neue Gesetz ist das Evangelium,
+das Neue Testament genannt wird und das er durch Christus,
+Gottes eigenen Sohn,
+und durch seine Apostel gibt\.
+Jenes Alte Gesetz ist gleichsam die Wurzel,
+dieses Neue gleichsam die Frucht der Wurzel\.
+Denn vom Gesetz her gelangt es zum Evangelium\.
+Christus nämlich,
+der im Evangelium offenbar geworden ist,
+wurde im Gesetz vorherverkündigt;
+vielmehr sprach er selbst in den Propheten,
+wie geschrieben steht:
+„Sie sollen erkennen,
+dass ich es bin,
+der spricht[^bible-4d64690c-d5f1-40c4-8db3-34d4b4db1cd1]\.“
+Er,
+der zuvor das Gesetz als Erziehung für Unmündige sandte,
+legt nun allen Erwachsenen das Evangelium vor,
+die wahrhaft vollkommene Lehre des Lebens\.
+So wurden im Gesetz denen,
+die arbeiteten,
+die Güter der Erde verheißen;
+im Evangelium wird denen,
+die durch den Glauben unter der Gnade leben,
+das Himmelreich angeboten\.
+Das Evangelium heißt nämlich gute Botschaft,
+und in Wahrheit ist es gute Botschaft,
+insofern die,
+die es annehmen,
+Söhne Gottes genannt werden\.
+Dies sind die Bücher des Alten Testaments,
+welche die Vorsteher der Kirchen überliefert haben,
+damit sie aus Liebe zur Lehre und zur Frömmigkeit gelesen und angenommen werden\.
+Zuerst stehen die fünf Bücher des Gesetzes,
+das heißt des Mose:
+Genesis,
+Exodus,
+Levitikus,
+Numeri und Deuteronomium\.
 
-In den Kirchen Christi werden Lesungen aus den Heiligen Schriften vorgetragen\. Eben diese Heilige Schrift besteht aus dem Alten Gesetz und dem Neuen\. Das Alte Gesetz ist jenes, das zuerst den Juden durch Mose und die Propheten gegeben wurde; es wird Altes Testament genannt\. Testament heißt es, weil es durch geeignete Zeugen, nämlich durch die Propheten, geschrieben und besiegelt wurde\. Das Neue Gesetz ist das Evangelium, das Neue Testament genannt wird und das er durch Christus, Gottes eigenen Sohn, und durch seine Apostel gibt\. Jenes Alte Gesetz ist gleichsam die Wurzel, dieses Neue gleichsam die Frucht der Wurzel\. Denn vom Gesetz her gelangt es zum Evangelium\. Christus nämlich, der im Evangelium offenbar geworden ist, wurde im Gesetz vorherverkündigt; vielmehr sprach er selbst in den Propheten, wie geschrieben steht: „Sie sollen erkennen, dass ich es bin, der spricht[^bible-4d64690c-d5f1-40c4-8db3-34d4b4db1cd1]\.“ Er, der zuvor das Gesetz als Erziehung für Unmündige sandte, legt nun allen Erwachsenen das Evangelium vor, die wahrhaft vollkommene Lehre des Lebens\. So wurden im Gesetz denen, die arbeiteten, die Güter der Erde verheißen; im Evangelium wird denen, die durch den Glauben unter der Gnade leben, das Himmelreich angeboten\. Das Evangelium heißt nämlich gute Botschaft, und in Wahrheit ist es gute Botschaft, insofern die, die es annehmen, Söhne Gottes genannt werden\. Dies sind die Bücher des Alten Testaments, welche die Vorsteher der Kirchen überliefert haben, damit sie aus Liebe zur Lehre und zur Frömmigkeit gelesen und angenommen werden\. Zuerst stehen die fünf Bücher des Gesetzes, das heißt des Mose: Genesis, Exodus, Levitikus, Numeri und Deuteronomium\.
-
-Auf sie folgen sechzehn Geschichtsbücher: je ein Buch Josua, des Sohnes Nuns, der Richter und Ruth; vier Bücher der Könige, zwei der Paralipomenon, zwei des Esdras, je ein Buch Tobit, Esther und Judith und zwei Bücher der Makkabäer\. Hinzu kommen sechzehn prophetische Bücher: je ein Buch Jesaja, Jeremia, Ezechiel und Daniel sowie je ein Buch der zwölf Propheten; dies sind die prophetischen Bücher\. Danach stehen acht Bücher in Versen, die bei den Hebräern in einem anderen Metrum geschrieben sind, nämlich das Buch Hiob, das Buch der Psalme, die Sprüche, der Prediger, das Hohelied, das Buch der Weisheit, Ecclesiasticus und die Klagelieder Jeremias\. So wird die Zahl der fünfundvierzig Bücher des Alten Testaments vollendet\. Vom Neuen Testament stehen zuerst die vier Evangelien: Matthäus, Markus, Lukas und Johannes\. Auf sie folgen vierzehn Briefe des Apostels Paulus\. Zu diesen kommen auch die sieben katholischen Briefe des Jakobus, Petrus, Johannes und Judas sowie die Apostelgeschichte der zwölf Apostel\. Das Siegel all dieser Bücher ist die Apokalypse des Johannes, die Offenbarung Jesu Christi, der alle Bücher sowohl zeitlich als auch der Ordnung nach abschließt\. Dies sind die zweiundsiebzig kanonischen Bücher, und deshalb wählte Mose zweiundsiebzig Älteste, die weissagten[^bible-6520c376-cfe5-4127-82e3-7f22f8ae5890]\. Deshalb gebot auch Jesus, unser Herr, zweiundsiebzig Jüngern zu predigen\. Und weil zweiundsiebzig Sprachen über diese Welt verbreitet waren, sorgte der Heilige Geist in angemessener Weise dafür, dass es ebenso viele Bücher wie Völker gab, durch die Völker und Nationen aufgebaut werden sollten, um die Gnade des Glaubens zu empfangen\.
+Auf sie folgen sechzehn Geschichtsbücher:
+je ein Buch Josua,
+des Sohnes Nuns,
+der Richter und Ruth;
+vier Bücher der Könige,
+zwei der Paralipomenon,
+zwei des Esdras,
+je ein Buch Tobit,
+Esther und Judith und zwei Bücher der Makkabäer\.
+Hinzu kommen sechzehn prophetische Bücher:
+je ein Buch Jesaja,
+Jeremia,
+Ezechiel und Daniel sowie je ein Buch der zwölf Propheten;
+dies sind die prophetischen Bücher\.
+Danach stehen acht Bücher in Versen,
+die bei den Hebräern in einem anderen Metrum geschrieben sind,
+nämlich das Buch Hiob,
+das Buch der Psalme,
+die Sprüche,
+der Prediger,
+das Hohelied,
+das Buch der Weisheit,
+Ecclesiasticus und die Klagelieder Jeremias\.
+So wird die Zahl der fünfundvierzig Bücher des Alten Testaments vollendet\.
+Vom Neuen Testament stehen zuerst die vier Evangelien:
+Matthäus,
+Markus,
+Lukas und Johannes\.
+Auf sie folgen vierzehn Briefe des Apostels Paulus\.
+Zu diesen kommen auch die sieben katholischen Briefe des Jakobus,
+Petrus,
+Johannes und Judas sowie die Apostelgeschichte der zwölf Apostel\.
+Das Siegel all dieser Bücher ist die Apokalypse des Johannes,
+die Offenbarung Jesu Christi,
+der alle Bücher sowohl zeitlich als auch der Ordnung nach abschließt\.
+Dies sind die zweiundsiebzig kanonischen Bücher,
+und deshalb wählte Mose zweiundsiebzig Älteste,
+die weissagten[^bible-6520c376-cfe5-4127-82e3-7f22f8ae5890]\.
+Deshalb gebot auch Jesus,
+unser Herr,
+zweiundsiebzig Jüngern zu predigen\.
+Und weil zweiundsiebzig Sprachen über diese Welt verbreitet waren,
+sorgte der Heilige Geist in angemessener Weise dafür,
+dass es ebenso viele Bücher wie Völker gab,
+durch die Völker und Nationen aufgebaut werden sollten,
+um die Gnade des Glaubens zu empfangen\.
 
 ## Bibelverweise
 

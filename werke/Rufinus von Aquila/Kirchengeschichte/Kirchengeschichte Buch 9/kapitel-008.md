@@ -7,17 +7,194 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-9#kapitel-0fbee712-ca34-4c58-7d01-08de2b8bd82a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:116697cc3126695355d16ebfb88d6e695af2a3ce4957aac4609573ec6723bb30`
+Sie strafte seine Worte Lügen,
+indem sie den Regen in den Wolken zurückhielt und die Ernte vertrocknet und unfruchtbar zurückließ\!
+Das Gras auf den Feldern verdorrte ebenfalls und verweigerte nicht nur den Menschen den Ertrag,
+sondern auch dem Vieh das Futter,
+und eine abscheuliche,
+monströse Hungersnot breitete sich überall aus\.
+Auch die Milde der Luft,
+die er in seiner gottlosen List als Dienerin bezeichnet hatte,
+wandelte sich in einen so fauligen Zustand,
+dass die menschlichen Körper mit den grässlichsten Geschwüren bedeckt waren,
+die man Ignis sacer nennt,
+zusammen mit sogenannten Karbunkeln\.
+Diese befielen sogar die Gesichter und Augen der Menschen,
+sodass jene,
+die zufällig dem Tod entkamen,
+ihres Augenlichts beraubt waren\.
+Ebenso streckten andere seuchenartige Krankheiten gewaltige Massen von Männern und Frauen nieder,
+und vor allem unzählige Kleinkinder\.
+Und als wäre das nicht schon schlimm genug:
+Als er die Armenier,
+die einst dem römischen Volk höchst freundschaftlich und unterstützend verbunden waren,
+zwingen wollte,
+von der Ausübung der christlichen Religion – der sie alle vollkommen ergeben waren – zur Anbetung von Götzen überzutreten und Dämonen statt Gott zu verehren,
+machte er sie zu Feinden statt Freunden und zu Gegnern statt Verbündeten\!
+Sie machten sich bereit,
+seine bösen Erlasse mit Gewalt abzuwehren,
+und zogen aus eigenem Antrieb in den Krieg\.
 
-Sie strafte seine Worte Lügen, indem sie den Regen in den Wolken zurückhielt und die Ernte vertrocknet und unfruchtbar zurückließ\! Das Gras auf den Feldern verdorrte ebenfalls und verweigerte nicht nur den Menschen den Ertrag, sondern auch dem Vieh das Futter, und eine abscheuliche, monströse Hungersnot breitete sich überall aus\. Auch die Milde der Luft, die er in seiner gottlosen List als Dienerin bezeichnet hatte, wandelte sich in einen so fauligen Zustand, dass die menschlichen Körper mit den grässlichsten Geschwüren bedeckt waren, die man Ignis sacer nennt, zusammen mit sogenannten Karbunkeln\. Diese befielen sogar die Gesichter und Augen der Menschen, sodass jene, die zufällig dem Tod entkamen, ihres Augenlichts beraubt waren\. Ebenso streckten andere seuchenartige Krankheiten gewaltige Massen von Männern und Frauen nieder, und vor allem unzählige Kleinkinder\. Und als wäre das nicht schon schlimm genug: Als er die Armenier, die einst dem römischen Volk höchst freundschaftlich und unterstützend verbunden waren, zwingen wollte, von der Ausübung der christlichen Religion – der sie alle vollkommen ergeben waren – zur Anbetung von Götzen überzutreten und Dämonen statt Gott zu verehren, machte er sie zu Feinden statt Freunden und zu Gegnern statt Verbündeten\! Sie machten sich bereit, seine bösen Erlasse mit Gewalt abzuwehren, und zogen aus eigenem Antrieb in den Krieg\.
+All diese Dinge zusammen forderten Genugtuung von ihm für seine dumme Anmaßung,
+als Vergeltung für seine Prahlerei,
+dass er durch die Verbannung und Verfolgung der Christen Frieden,
+Überfluss an allen Dingen und eben jene Milde der Luft zu seinen Diensten habe\.
+Während er und die Armee also schwer und mühsam im Armenierkrieg beschäftigt waren,
+wurden die Menschen in den Städten und Dörfern – denen er unter Berufung auf seine Gesetze versprochen hatte,
+dass alles Göttliche und Menschliche erfolgreich verlaufen würde – von einer schrecklichen und gnadenlosen Hungersnot verwüstet\.
+In den Städten wurden jeden Tag so viele Mengen dahingerafft,
+dass nicht einmal mehr Platz war,
+sie zu begraben\!
+Auf dem Land und in den Dörfern blieben die meisten Häuser völlig leer zurück\.
+Wenn also manche Leute,
+als sie das Verderben nahen sahen,
+ihre Kinder in die Stadt brachten,
+um sie zu verkaufen,
+starben sie selbst mit ihren Kindern,
+von deren Verkauf sie sich zu ernähren gehofft hatten,
+weil der Käufer zögerte oder vom Geschäft zurücktrat,
+da er selbst dem Tode nah war\.
+Andere suchten nach Pflanzenwurzeln und versuchten,
+sich mit deren Säften am Leben zu erhalten,
+kamen aber,
+durch den Hunger zur Unbesonnenheit getrieben,
+um,
+wenn sie etwas Tödliches zu sich nahmen\.
+Auch Frauen,
+die Herrinnen von Haushalten und wohlgeboren waren,
+wurden durch den Hunger gezwungen,
+den Anstand zu vergessen und auf die Straßen zu gehen,
+um Almosen zu suchen;
+und jene,
+denen es die Scham früher verboten hatte,
+anderen ins Gesicht zu sehen,
+wurden durch den Hunger gezwungen,
+um einen Bissen Brot zu betteln oder ihn sich gar selbst zu nehmen\.
+Sehr viele gingen so erschöpft umher,
+dass man sie eher für fleischlose Statuen als für Menschen hätte halten können;
+abstoßend im Aussehen,
+mit eingefallenen Augen,
+schwankten sie hierhin und dorthin,
+brachen beinahe zusammen und bettelten nicht mehr mit ihrer Stimme,
+sondern mit ihrem letzten Atemzug um Almosen\.
+So geschah es oft,
+dass Menschen,
+wenn sie ein Stückchen Brot sahen,
+dessen sie nicht habhaft werden konnten,
+versuchten,
+ihre Hände danach auszustrecken,
+aber ihre körperliche Kraft war ihrem Verlangen nicht gewachsen,
+und sie brachen während des vergeblichen Versuchs zusammen,
+enttäuscht über diesen Schlag\.
 
-All diese Dinge zusammen forderten Genugtuung von ihm für seine dumme Anmaßung, als Vergeltung für seine Prahlerei, dass er durch die Verbannung und Verfolgung der Christen Frieden, Überfluss an allen Dingen und eben jene Milde der Luft zu seinen Diensten habe\. Während er und die Armee also schwer und mühsam im Armenierkrieg beschäftigt waren, wurden die Menschen in den Städten und Dörfern – denen er unter Berufung auf seine Gesetze versprochen hatte, dass alles Göttliche und Menschliche erfolgreich verlaufen würde – von einer schrecklichen und gnadenlosen Hungersnot verwüstet\. In den Städten wurden jeden Tag so viele Mengen dahingerafft, dass nicht einmal mehr Platz war, sie zu begraben\! Auf dem Land und in den Dörfern blieben die meisten Häuser völlig leer zurück\. Wenn also manche Leute, als sie das Verderben nahen sahen, ihre Kinder in die Stadt brachten, um sie zu verkaufen, starben sie selbst mit ihren Kindern, von deren Verkauf sie sich zu ernähren gehofft hatten, weil der Käufer zögerte oder vom Geschäft zurücktrat, da er selbst dem Tode nah war\. Andere suchten nach Pflanzenwurzeln und versuchten, sich mit deren Säften am Leben zu erhalten, kamen aber, durch den Hunger zur Unbesonnenheit getrieben, um, wenn sie etwas Tödliches zu sich nahmen\. Auch Frauen, die Herrinnen von Haushalten und wohlgeboren waren, wurden durch den Hunger gezwungen, den Anstand zu vergessen und auf die Straßen zu gehen, um Almosen zu suchen; und jene, denen es die Scham früher verboten hatte, anderen ins Gesicht zu sehen, wurden durch den Hunger gezwungen, um einen Bissen Brot zu betteln oder ihn sich gar selbst zu nehmen\. Sehr viele gingen so erschöpft umher, dass man sie eher für fleischlose Statuen als für Menschen hätte halten können; abstoßend im Aussehen, mit eingefallenen Augen, schwankten sie hierhin und dorthin, brachen beinahe zusammen und bettelten nicht mehr mit ihrer Stimme, sondern mit ihrem letzten Atemzug um Almosen\. So geschah es oft, dass Menschen, wenn sie ein Stückchen Brot sahen, dessen sie nicht habhaft werden konnten, versuchten, ihre Hände danach auszustrecken, aber ihre körperliche Kraft war ihrem Verlangen nicht gewachsen, und sie brachen während des vergeblichen Versuchs zusammen, enttäuscht über diesen Schlag\.
+Wenn sich also zufällig doch einmal das Mitleid bei den Reichen regte und sie etwas Nahrung mit den Bedürftigen teilen wollten,
+wurden sie von deren bloßer Masse zurückgehalten und förmlich erstickt\!
+Da es niemanden gab,
+den abzuweisen richtig erschien,
+gaben sie ihren Versuch auf\.
+Sie konnten ihren beabsichtigten Akt der Barmherzigkeit wegen der Gewalt jener,
+die der Hunger rücksichtslos gemacht hatte,
+nicht ausführen\.
+Währenddessen war alles in allen Straßen und Gassen mit den Leichnamen der Toten gefüllt\.
+Und es gab niemanden,
+absolut niemanden,
+um sie zu begraben,
+da auch jene,
+die dem Anschein nach noch lebten,
+krank und schwach waren und gewissermaßen unmittelbar vor dem Tod standen\.
+Der Anblick war jämmerlich – darunter auch sehr viele,
+die von Hunden gefressen wurden\!
+So teilten sich zwei gewaltige Plagen,
+Hunger und Seuche,
+das Volk untereinander auf:
+Der Hunger verwüstete alle Armen,
+die ihren täglichen Unterhalt durch ihrer Hände Arbeit verdienten,
+als seine direkten Nachbarn;
+die Seuche aber beanspruchte jene für sich,
+die wohlhabend schienen und im Reichtum schwammen\.
+So konnte man sehen,
+wie ein Haus einer großen Familie in kurzer Zeit leer stand,
+alle tot,
+da die Ansteckung rasend schnell von einem zum anderen übergesprungen war\.
+So verwüsteten Hunger und Seuche Städte und Land und führten aus getrennten Lagern einen Krieg,
+dessen einziger Ausgang der Tod war\.
+Das war der Lohn für die Gesetze des Maximinus und für seine Einbildung und Arroganz und das Urteil,
+das er über die Christen gefällt hatte\!
+Das war seine Frömmigkeit gegenüber Gott und die Größe der vom Himmel gegebenen Religion,
+wie er behauptete\!
 
-Wenn sich also zufällig doch einmal das Mitleid bei den Reichen regte und sie etwas Nahrung mit den Bedürftigen teilen wollten, wurden sie von deren bloßer Masse zurückgehalten und förmlich erstickt\! Da es niemanden gab, den abzuweisen richtig erschien, gaben sie ihren Versuch auf\. Sie konnten ihren beabsichtigten Akt der Barmherzigkeit wegen der Gewalt jener, die der Hunger rücksichtslos gemacht hatte, nicht ausführen\. Währenddessen war alles in allen Straßen und Gassen mit den Leichnamen der Toten gefüllt\. Und es gab niemanden, absolut niemanden, um sie zu begraben, da auch jene, die dem Anschein nach noch lebten, krank und schwach waren und gewissermaßen unmittelbar vor dem Tod standen\. Der Anblick war jämmerlich – darunter auch sehr viele, die von Hunden gefressen wurden\! So teilten sich zwei gewaltige Plagen, Hunger und Seuche, das Volk untereinander auf: Der Hunger verwüstete alle Armen, die ihren täglichen Unterhalt durch ihrer Hände Arbeit verdienten, als seine direkten Nachbarn; die Seuche aber beanspruchte jene für sich, die wohlhabend schienen und im Reichtum schwammen\. So konnte man sehen, wie ein Haus einer großen Familie in kurzer Zeit leer stand, alle tot, da die Ansteckung rasend schnell von einem zum anderen übergesprungen war\. So verwüsteten Hunger und Seuche Städte und Land und führten aus getrennten Lagern einen Krieg, dessen einziger Ausgang der Tod war\. Das war der Lohn für die Gesetze des Maximinus und für seine Einbildung und Arroganz und das Urteil, das er über die Christen gefällt hatte\! Das war seine Frömmigkeit gegenüber Gott und die Größe der vom Himmel gegebenen Religion, wie er behauptete\!
+Als nun die unbegrabenen Leichen derer,
+die der Hunger verzehrt hatte,
+auf den Straßen lagen und jene,
+die die Seuche allesamt dahingerafft hatte,
+ebenso unbegraben in den Häusern blieben – wie wir oben sagten –,
+und als zudem alle,
+die scheinbar überlebt hatten,
+vom Hunger getrieben spontan aufschrien und die Christen um Mitgefühl und Mitleid anflehten;
+als sie nun demütig jene um Hilfe baten,
+die sie kurz zuvor aus ihren Häusern und Heimatorten vertrieben hatten,
+um jenen Beistand zu erbitten,
+den diese gewohnheitsmäßig in Form von Nahrung für die Lebenden und ordentlichem Begräbnis für die unbegrabenen Toten anboten:
+Da mussten sie anerkennen,
+dass diese allein von Barmherzigkeit bewegt wurden\!
+Dass diese allein bewahrten,
+was der Menschlichkeit und Frömmigkeit entspricht\!
+Dass es keine andere Religion gab,
+die so wahr,
+so heilig und in jeder Hinsicht so vollkommen darin war,
+die Sorge für alle Menschen als Nächste und Verwandte zu verfechten,
+und dass es keinen anderen Gott gab außer dem der Christen\!
+Da vergaßen unsere Leute tatsächlich – die sich wahrhaftig durch Gottes Gnade in keiner Weise unter der Herrschaft von Hunger oder Seuche wiederfanden,
+zur gewaltigen Überraschung aller – jegliches Unrecht,
+das man ihnen angetan hatte\.
+In ihrer gewohnten Art,
+geschult durch die Vorschriften des Herrn,
+selbst ihren Feinden Barmherzigkeit zu erweisen,
+wetteiferten sie miteinander,
+Essen anzubieten,
+wie jeder es vermochte\.
+Sie stützten und bauten jene auf,
+die am Vergehen waren,
+und teilten nicht nur Nahrung mit ihnen,
+sondern auch Zuneigung,
+sodass selbst wenig für die Bedürftigen auszureichen schien,
+wenn es mit der tiefen Zuneigung der Frömmigkeit angeboten wurde\.
 
-Als nun die unbegrabenen Leichen derer, die der Hunger verzehrt hatte, auf den Straßen lagen und jene, die die Seuche allesamt dahingerafft hatte, ebenso unbegraben in den Häusern blieben – wie wir oben sagten –, und als zudem alle, die scheinbar überlebt hatten, vom Hunger getrieben spontan aufschrien und die Christen um Mitgefühl und Mitleid anflehten; als sie nun demütig jene um Hilfe baten, die sie kurz zuvor aus ihren Häusern und Heimatorten vertrieben hatten, um jenen Beistand zu erbitten, den diese gewohnheitsmäßig in Form von Nahrung für die Lebenden und ordentlichem Begräbnis für die unbegrabenen Toten anboten: Da mussten sie anerkennen, dass diese allein von Barmherzigkeit bewegt wurden\! Dass diese allein bewahrten, was der Menschlichkeit und Frömmigkeit entspricht\! Dass es keine andere Religion gab, die so wahr, so heilig und in jeder Hinsicht so vollkommen darin war, die Sorge für alle Menschen als Nächste und Verwandte zu verfechten, und dass es keinen anderen Gott gab außer dem der Christen\! Da vergaßen unsere Leute tatsächlich – die sich wahrhaftig durch Gottes Gnade in keiner Weise unter der Herrschaft von Hunger oder Seuche wiederfanden, zur gewaltigen Überraschung aller – jegliches Unrecht, das man ihnen angetan hatte\. In ihrer gewohnten Art, geschult durch die Vorschriften des Herrn, selbst ihren Feinden Barmherzigkeit zu erweisen, wetteiferten sie miteinander, Essen anzubieten, wie jeder es vermochte\. Sie stützten und bauten jene auf, die am Vergehen waren, und teilten nicht nur Nahrung mit ihnen, sondern auch Zuneigung, sodass selbst wenig für die Bedürftigen auszureichen schien, wenn es mit der tiefen Zuneigung der Frömmigkeit angeboten wurde\.
-
-Auch jene, die an der Ansteckung der Krankheit litten und zu denen keiner der Heiden, nicht einmal ihre eigenen Verwandten, hineinzugehen wagte, heilten sie durch ihre häufigen und aufmerksamen Besuche\! Und sie litten überhaupt nicht unter der Ansteckung, da sie durch göttliche Gnade geschützt waren; sie kümmerten sich auch um das Begräbnis derer, die gestorben waren, und erfüllten, was die Natur verlangte\. So reichte der bloße Einzug der Christen in die Städte und Dörfer aus, um den Anblick des Unheils in kurzer Zeit zu verändern, und das wiederum schrieb in die Herzen aller – durch die Ereignisse und Taten selbst – die Botschaft, dass die Religion der Christen wahr und fromm sei\. Eine Botschaft, die sich als weitaus hartnäckiger erwies als die in Bronze gravierte Behauptung des Tyrannen, dass sie falsch sei\! Als sich die Unseren also auf diese Weise verhielten und durch die Güte ihrer Taten – eine Art stille Predigt – die Wahrheit über unseren Gott erkannt wurde, sah man die Worte erfüllt, die in Exodus aufgezeichnet sind: „die Ägypter waren in greifbarer und dichter Finsternis, während die Kinder Israels Licht in all ihren Wohnungen hatten\.“[^bible-b1957caa-ab33-434a-bb3e-fbd94dfd0410] Unser Gott fuhr dennoch fort, in seinen Heiligen verherrlicht zu werden und das begonnene tugendhafte Werk durch noch erfolgreichere Ergebnisse zu erweitern und erneut den Glanz seines Lichts für uns zu entzünden, die wir uns in der Finsternis befanden\. Das heißt, er „speiste uns mit dem Brot der Tränen und gab uns Tränen zu trinken, doch im Maß“[^bible-0b86ac60-1e31-4408-9005-155f05b8bd6a], wie der Prophet sagte\. So ist also das Maß seiner Zurechtweisung und Besserung: Er ist nicht ständig empört über uns, noch ist er für immer zornig auf uns, sondern er versöhnt sich mit seinen Dienern, die auf ihn hoffen\.
+Auch jene,
+die an der Ansteckung der Krankheit litten und zu denen keiner der Heiden,
+nicht einmal ihre eigenen Verwandten,
+hineinzugehen wagte,
+heilten sie durch ihre häufigen und aufmerksamen Besuche\!
+Und sie litten überhaupt nicht unter der Ansteckung,
+da sie durch göttliche Gnade geschützt waren;
+sie kümmerten sich auch um das Begräbnis derer,
+die gestorben waren,
+und erfüllten,
+was die Natur verlangte\.
+So reichte der bloße Einzug der Christen in die Städte und Dörfer aus,
+um den Anblick des Unheils in kurzer Zeit zu verändern,
+und das wiederum schrieb in die Herzen aller – durch die Ereignisse und Taten selbst – die Botschaft,
+dass die Religion der Christen wahr und fromm sei\.
+Eine Botschaft,
+die sich als weitaus hartnäckiger erwies als die in Bronze gravierte Behauptung des Tyrannen,
+dass sie falsch sei\!
+Als sich die Unseren also auf diese Weise verhielten und durch die Güte ihrer Taten – eine Art stille Predigt – die Wahrheit über unseren Gott erkannt wurde,
+sah man die Worte erfüllt,
+die in Exodus aufgezeichnet sind:
+„die Ägypter waren in greifbarer und dichter Finsternis,
+während die Kinder Israels Licht in all ihren Wohnungen hatten\.“[^bible-b1957caa-ab33-434a-bb3e-fbd94dfd0410]
+Unser Gott fuhr dennoch fort,
+in seinen Heiligen verherrlicht zu werden und das begonnene tugendhafte Werk durch noch erfolgreichere Ergebnisse zu erweitern und erneut den Glanz seines Lichts für uns zu entzünden,
+die wir uns in der Finsternis befanden\.
+Das heißt,
+er „speiste uns mit dem Brot der Tränen und gab uns Tränen zu trinken,
+doch im Maß“[^bible-0b86ac60-1e31-4408-9005-155f05b8bd6a],
+wie der Prophet sagte\.
+So ist also das Maß seiner Zurechtweisung und Besserung:
+Er ist nicht ständig empört über uns,
+noch ist er für immer zornig auf uns,
+sondern er versöhnt sich mit seinen Dienern,
+die auf ihn hoffen\.
 
 ## Bibelverweise
 

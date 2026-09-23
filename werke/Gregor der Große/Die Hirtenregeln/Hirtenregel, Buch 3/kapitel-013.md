@@ -7,11 +7,156 @@ Autor: Gregor der Große
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/hirtenregel-buch-3#kapitel-51349036-c523-4c54-4778-08dd47ac18f8).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:6cca536df3ea43b4730f99c0e1f176666764238e69afada1d25a73f4ce2a2cc8`
+Wie diejenigen zu ermahnen sind,
+die Schläge fürchten,
+und diejenigen,
+die sie verachten\.
+Anders sind diejenigen zu ermahnen,
+die Schläge fürchten und deshalb ohne Schuld leben,
+und anders diejenigen,
+die so sehr in ihrer Ungerechtigkeit verhärtet sind,
+dass selbst Schläge sie nicht bessern\.
+Denjenigen,
+die Schläge fürchten,
+muss man sagen,
+sie sollen zeitliche Güter keineswegs für etwas Großes halten und begehren,
+da sie sehen,
+dass auch böse Menschen sie besitzen\.
+Ebenso wenig sollen sie den gegenwärtigen Übeln entfliehen,
+als wären sie unerträglich,
+denn sie wissen,
+dass davon in dieser Welt oft auch gute Menschen betroffen sind\.
+Sie sind zu ermahnen,
+dass sie,
+wenn sie den Übeln wirklich entgehen wollen,
+vor den ewigen Strafen erschrecken\.
+Doch sie sollen nicht bei dieser Furcht vor Strafe stehen bleiben,
+sondern,
+genährt von der Liebe,
+zur Gnade der Liebe heranwachsen\.
+Denn es steht geschrieben:
+„Die vollkommene Liebe treibt die Furcht hinaus\.[^bible-0ac199aa-0295-41aa-9b86-a45204dd732d]
+“ Und wiederum steht geschrieben:
+„Ihr habt nicht abermals den Geist der Knechtschaft zur Furcht empfangen,
+sondern den Geist der Kindschaft,
+in dem wir rufen:
+‚Abba,
+Vater\!‘[^bible-a6d2ecb6-5553-4b13-b708-c0952e7735bb]
+“ Daher sagt derselbe Lehrer wiederum:
+„Wo der Geist des Herrn ist,
+da ist Freiheit\.[^bible-e0ebe5b8-eafc-445f-b97e-3d9a900d8821]
+“ Wenn also die gefürchtete Strafe einen Menschen noch von bösem Handeln abhält,
+besitzt sein furchtsames Herz gewiss nicht die Freiheit des Geistes\.
+Denn fürchtete er keine Strafe,
+würde er ohne Zweifel eine Verfehlung begehen\.
+Ein solcher Geist kennt die Gnade der Freiheit nicht,
+denn die Knechtschaft der Furcht hält ihn gefesselt\.
+Das Gute muss um seiner selbst willen geliebt und getan werden,
+nicht unter dem Zwang von Strafen\.
+Denn wer das Gute nur tut,
+weil er qualvolle Strafen fürchtet,
+wünscht,
+es gäbe nichts,
+was er fürchten müsste,
+damit er unerschrocken Verbotenes begehen könnte\.
+Daraus wird heller als das Licht deutlich,
+dass die Unschuld vor Gott bereits verloren ist,
+weil man vor seinen Augen schon im Begehren sündigt\.
+Diejenigen dagegen,
+die nicht einmal Schläge von ihrer Ungerechtigkeit abbringen,
+müssen umso schärfer angegriffen werden,
+je unempfindlicher sie geworden sind\.
+Oft muss man ihnen Abscheu zeigen,
+ohne sie wirklich abzuschreiben,
+und sie scheinbar aufgeben,
+ohne an ihnen zu verzweifeln\.
+Die gezeigte Hoffnungslosigkeit soll ihnen Furcht einjagen,
+die anschließende Ermahnung sie aber wieder zur Hoffnung führen\.
+Deshalb müssen ihnen die göttlichen Urteilssprüche mit aller Strenge vorgehalten werden,
+damit die Betrachtung der ewigen Strafe sie zur Selbsterkenntnis zurückführt\.
+Sie sollen hören,
+dass sich an ihnen erfüllt hat,
+was geschrieben steht:
+„Wenn du einen Dummen im Mörser zusammen mit den Gerstenkörnern unter dem Stößel zerstößt,
+wird seine Dummheit nicht von ihm weichen\.[^bible-45b8c48d-99ab-4650-a1ae-ea65ab23fd56]
+“ Über solche Menschen klagt der Prophet vor dem Herrn:
+„Du hast sie zerschlagen,
+doch sie weigerten sich,
+Zucht anzunehmen\.[^bible-ab7b442a-1974-4f85-9b04-f74b9def7386]
+“
 
-Wie diejenigen zu ermahnen sind, die Schläge fürchten, und diejenigen, die sie verachten\. Anders sind diejenigen zu ermahnen, die Schläge fürchten und deshalb ohne Schuld leben, und anders diejenigen, die so sehr in ihrer Ungerechtigkeit verhärtet sind, dass selbst Schläge sie nicht bessern\. Denjenigen, die Schläge fürchten, muss man sagen, sie sollen zeitliche Güter keineswegs für etwas Großes halten und begehren, da sie sehen, dass auch böse Menschen sie besitzen\. Ebenso wenig sollen sie den gegenwärtigen Übeln entfliehen, als wären sie unerträglich, denn sie wissen, dass davon in dieser Welt oft auch gute Menschen betroffen sind\. Sie sind zu ermahnen, dass sie, wenn sie den Übeln wirklich entgehen wollen, vor den ewigen Strafen erschrecken\. Doch sie sollen nicht bei dieser Furcht vor Strafe stehen bleiben, sondern, genährt von der Liebe, zur Gnade der Liebe heranwachsen\. Denn es steht geschrieben: „Die vollkommene Liebe treibt die Furcht hinaus\.[^bible-0ac199aa-0295-41aa-9b86-a45204dd732d] “ Und wiederum steht geschrieben: „Ihr habt nicht abermals den Geist der Knechtschaft zur Furcht empfangen, sondern den Geist der Kindschaft, in dem wir rufen: ‚Abba, Vater\!‘[^bible-a6d2ecb6-5553-4b13-b708-c0952e7735bb] “ Daher sagt derselbe Lehrer wiederum: „Wo der Geist des Herrn ist, da ist Freiheit\.[^bible-e0ebe5b8-eafc-445f-b97e-3d9a900d8821] “ Wenn also die gefürchtete Strafe einen Menschen noch von bösem Handeln abhält, besitzt sein furchtsames Herz gewiss nicht die Freiheit des Geistes\. Denn fürchtete er keine Strafe, würde er ohne Zweifel eine Verfehlung begehen\. Ein solcher Geist kennt die Gnade der Freiheit nicht, denn die Knechtschaft der Furcht hält ihn gefesselt\. Das Gute muss um seiner selbst willen geliebt und getan werden, nicht unter dem Zwang von Strafen\. Denn wer das Gute nur tut, weil er qualvolle Strafen fürchtet, wünscht, es gäbe nichts, was er fürchten müsste, damit er unerschrocken Verbotenes begehen könnte\. Daraus wird heller als das Licht deutlich, dass die Unschuld vor Gott bereits verloren ist, weil man vor seinen Augen schon im Begehren sündigt\. Diejenigen dagegen, die nicht einmal Schläge von ihrer Ungerechtigkeit abbringen, müssen umso schärfer angegriffen werden, je unempfindlicher sie geworden sind\. Oft muss man ihnen Abscheu zeigen, ohne sie wirklich abzuschreiben, und sie scheinbar aufgeben, ohne an ihnen zu verzweifeln\. Die gezeigte Hoffnungslosigkeit soll ihnen Furcht einjagen, die anschließende Ermahnung sie aber wieder zur Hoffnung führen\. Deshalb müssen ihnen die göttlichen Urteilssprüche mit aller Strenge vorgehalten werden, damit die Betrachtung der ewigen Strafe sie zur Selbsterkenntnis zurückführt\. Sie sollen hören, dass sich an ihnen erfüllt hat, was geschrieben steht: „Wenn du einen Dummen im Mörser zusammen mit den Gerstenkörnern unter dem Stößel zerstößt, wird seine Dummheit nicht von ihm weichen\.[^bible-45b8c48d-99ab-4650-a1ae-ea65ab23fd56] “ Über solche Menschen klagt der Prophet vor dem Herrn: „Du hast sie zerschlagen, doch sie weigerten sich, Zucht anzunehmen\.[^bible-ab7b442a-1974-4f85-9b04-f74b9def7386] “
-
-Daher sagt der Herr: „Ich habe dieses Volk getötet und vernichtet, und dennoch ist es von seinen Wegen nicht umgekehrt\.[^bible-cb9df26a-6e38-4e5f-8a2d-739c78d88b41] “ Daher sagt er wiederum: „Das Volk ist nicht zu dem zurückgekehrt, der es schlug\.[^bible-cb9df26a-6e38-4e5f-8a2d-739c78d88b41] “ Daher klagt der Prophet im Namen derer, die es züchtigen: „Wir haben Babylon geheilt, doch es ist nicht gesund geworden\.[^bible-bd800ee8-1ffc-46ef-9823-2a389cb7de7c] “ Babylon wird zwar behandelt, aber nicht wieder gesund: Ein Mensch, dessen Denken durch verkehrtes Handeln verwirrt ist, hört dann die Worte der Zurechtweisung und bekommt ihre Schläge zu spüren, weigert sich aber dennoch, auf die rechten Wege des Heils zurückzukehren\. Daher hält der Herr dem gefangenen Volk Israel, das sich dennoch nicht von seiner Ungerechtigkeit abgewandt hat, vor: „Das Haus Israel ist mir zu Schlacke geworden\. Sie alle sind Kupfer, Zinn, Eisen und Blei mitten im Schmelzofen\.[^bible-c3fb87dc-ca09-411f-a703-697320e33822] “ Damit sagt er offen: „Ich wollte sie im Feuer der Bedrängnis reinigen und suchte sie zu Silber oder Gold zu machen\. Doch im Schmelzofen wurden sie mir zu Kupfer, Zinn, Eisen und Blei, weil sie selbst in der Bedrängnis nicht zur Tugend, sondern zu Lastern übergingen\.“ Kupfer klingt nämlich lauter als die anderen Metalle, wenn man darauf schlägt\. Wer also unter Schlägen in lautes Murren ausbricht, ist mitten im Schmelzofen zu Kupfer geworden\. Zinn wiederum wird so verarbeitet, dass es wie Silber aussieht\. Wer daher selbst in der Bedrängnis nicht vom Laster der Heuchelei lässt, ist im Schmelzofen zu Zinn geworden\. Eisen gebraucht, wer dem Leben seines Nächsten nachstellt\. Eisen im Schmelzofen ist daher, wer auch in der Bedrängnis seine böswillige Absicht, anderen zu schaden, nicht aufgibt\. Blei ist außerdem schwerer als die anderen Metalle\. Als Blei findet sich also im Schmelzofen, wen die Last seiner Sünde so niederdrückt, dass ihn selbst die Bedrängnis nicht über irdische Begierden erhebt\. Daher steht wiederum geschrieben: „Mit großer Mühe wurde geschwitzt, doch ihr übermäßiger Rost wich nicht von ihr, nicht einmal durch das Feuer\.[^bible-b9601ac1-365d-4bae-aafd-31458bb8fbda] “ Gott setzt uns nämlich dem Feuer der Bedrängnis aus, um die Laster in uns auszubrennen\. Doch selbst im Feuer verlieren wir unseren Rost nicht, wenn wir auch unter Schlägen an unserem Laster festhalten\. Daher sagt der Prophet wiederum: „Vergeblich hat der Schmelzer geschmolzen; ihre Bosheiten sind nicht verzehrt worden\.[^bible-dad5d28b-e609-46d1-b99a-d68cc7365b66] “ Man muss jedoch wissen: Wenn Menschen selbst unter harten Schlägen ungebessert bleiben, muss man sie bisweilen mit freundlicher Ermahnung besänftigen\. Denn manchmal halten sanfte Worte diejenigen von ungerechtem Handeln ab, die Qualen nicht zur Umkehr bringen\. So hat oft lauwarmes Wasser Kranke wieder gesund gemacht, denen ein starker Arzneitrank nicht helfen konnte\. Und manche Wunden, die sich durch einen Schnitt nicht behandeln lassen, werden durch warme Ölumschläge geheilt\. Auch der harte Diamant lässt sich mit Eisen nicht schneiden, wird aber durch mildes Ziegenblut weich\.
+Daher sagt der Herr:
+„Ich habe dieses Volk getötet und vernichtet,
+und dennoch ist es von seinen Wegen nicht umgekehrt\.[^bible-cb9df26a-6e38-4e5f-8a2d-739c78d88b41]
+“ Daher sagt er wiederum:
+„Das Volk ist nicht zu dem zurückgekehrt,
+der es schlug\.[^bible-cb9df26a-6e38-4e5f-8a2d-739c78d88b41]
+“ Daher klagt der Prophet im Namen derer,
+die es züchtigen:
+„Wir haben Babylon geheilt,
+doch es ist nicht gesund geworden\.[^bible-bd800ee8-1ffc-46ef-9823-2a389cb7de7c]
+“ Babylon wird zwar behandelt,
+aber nicht wieder gesund:
+Ein Mensch,
+dessen Denken durch verkehrtes Handeln verwirrt ist,
+hört dann die Worte der Zurechtweisung und bekommt ihre Schläge zu spüren,
+weigert sich aber dennoch,
+auf die rechten Wege des Heils zurückzukehren\.
+Daher hält der Herr dem gefangenen Volk Israel,
+das sich dennoch nicht von seiner Ungerechtigkeit abgewandt hat,
+vor:
+„Das Haus Israel ist mir zu Schlacke geworden\.
+Sie alle sind Kupfer,
+Zinn,
+Eisen und Blei mitten im Schmelzofen\.[^bible-c3fb87dc-ca09-411f-a703-697320e33822]
+“ Damit sagt er offen:
+„Ich wollte sie im Feuer der Bedrängnis reinigen und suchte sie zu Silber oder Gold zu machen\.
+Doch im Schmelzofen wurden sie mir zu Kupfer,
+Zinn,
+Eisen und Blei,
+weil sie selbst in der Bedrängnis nicht zur Tugend,
+sondern zu Lastern übergingen\.“
+Kupfer klingt nämlich lauter als die anderen Metalle,
+wenn man darauf schlägt\.
+Wer also unter Schlägen in lautes Murren ausbricht,
+ist mitten im Schmelzofen zu Kupfer geworden\.
+Zinn wiederum wird so verarbeitet,
+dass es wie Silber aussieht\.
+Wer daher selbst in der Bedrängnis nicht vom Laster der Heuchelei lässt,
+ist im Schmelzofen zu Zinn geworden\.
+Eisen gebraucht,
+wer dem Leben seines Nächsten nachstellt\.
+Eisen im Schmelzofen ist daher,
+wer auch in der Bedrängnis seine böswillige Absicht,
+anderen zu schaden,
+nicht aufgibt\.
+Blei ist außerdem schwerer als die anderen Metalle\.
+Als Blei findet sich also im Schmelzofen,
+wen die Last seiner Sünde so niederdrückt,
+dass ihn selbst die Bedrängnis nicht über irdische Begierden erhebt\.
+Daher steht wiederum geschrieben:
+„Mit großer Mühe wurde geschwitzt,
+doch ihr übermäßiger Rost wich nicht von ihr,
+nicht einmal durch das Feuer\.[^bible-b9601ac1-365d-4bae-aafd-31458bb8fbda]
+“ Gott setzt uns nämlich dem Feuer der Bedrängnis aus,
+um die Laster in uns auszubrennen\.
+Doch selbst im Feuer verlieren wir unseren Rost nicht,
+wenn wir auch unter Schlägen an unserem Laster festhalten\.
+Daher sagt der Prophet wiederum:
+„Vergeblich hat der Schmelzer geschmolzen;
+ihre Bosheiten sind nicht verzehrt worden\.[^bible-dad5d28b-e609-46d1-b99a-d68cc7365b66]
+“ Man muss jedoch wissen:
+Wenn Menschen selbst unter harten Schlägen ungebessert bleiben,
+muss man sie bisweilen mit freundlicher Ermahnung besänftigen\.
+Denn manchmal halten sanfte Worte diejenigen von ungerechtem Handeln ab,
+die Qualen nicht zur Umkehr bringen\.
+So hat oft lauwarmes Wasser Kranke wieder gesund gemacht,
+denen ein starker Arzneitrank nicht helfen konnte\.
+Und manche Wunden,
+die sich durch einen Schnitt nicht behandeln lassen,
+werden durch warme Ölumschläge geheilt\.
+Auch der harte Diamant lässt sich mit Eisen nicht schneiden,
+wird aber durch mildes Ziegenblut weich\.
 
 ## Bibelverweise
 

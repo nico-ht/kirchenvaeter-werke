@@ -7,9 +7,21 @@ Autor: Ambrosius von Mailand
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/brief-69#kapitel-dce144dd-8a8f-4d71-c9d5-08dd3412a7f6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0eaf4ae54ac0f9e31f1580b7ec89d41ba5b9595557f2b2c54b52ba67b7df60ab`
-
-Du hast dich an mich gewandt, wie an einen Vater, mit der Frage, warum das Gesetz so streng darin ist, diejenigen, die die Kleidung des anderen Geschlechts tragen, als unrein zu erklären, sei es Männer oder Frauen\. Denn es steht geschrieben: „Eine Frau soll nicht das tragen, was einem Mann gehört, und ein Mann soll kein Frauenkleid anziehen; denn alle, die das tun, sind dem Herrn ein Greuel\.[^bible-ab251b44-3900-4914-8362-c90da36278c5]“[^bible-ab251b44-3900-4914-8362-c90da36278c5]
+Du hast dich an mich gewandt,
+wie an einen Vater,
+mit der Frage,
+warum das Gesetz so streng darin ist,
+diejenigen,
+die die Kleidung des anderen Geschlechts tragen,
+als unrein zu erklären,
+sei es Männer oder Frauen\.
+Denn es steht geschrieben:
+„Eine Frau soll nicht das tragen,
+was einem Mann gehört,
+und ein Mann soll kein Frauenkleid anziehen;
+denn alle,
+die das tun,
+sind dem Herrn ein Greuel\.[^bible-ab251b44-3900-4914-8362-c90da36278c5]“[^bible-ab251b44-3900-4914-8362-c90da36278c5]
 
 ## Bibelverweise
 

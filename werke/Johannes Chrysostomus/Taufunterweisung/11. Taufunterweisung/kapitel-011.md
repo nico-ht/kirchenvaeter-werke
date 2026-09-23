@@ -7,6 +7,16 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/11-taufunterweisung#kapitel-184cbacb-db13-4cc5-9104-08ddf7b770e0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:caba49524ac4dcbd1bbb05ad7ae301f5fe5f4b7ba124a7501281f29f66eeb175`
-
-Als ich den Namen der Braut hörte, fiel mir eine alte Schuld ein\. Ich hatte versprochen, euch zu sagen, warum wir die Gläubigen heißen\. Warum also werden wir so genannt? Wir Gläubigen haben an Dinge geglaubt, die unsere leiblichen Augen nicht sehen können\. Diese Dinge sind groß und furchteinflößend und gehen über unsere Natur hinaus\. Weder Nachdenken noch menschliche Vernunft vermögen sie zu entdecken und zu erklären; nur die Lehre des Glaubens versteht sie wirklich\. Darum hat Gott uns zwei Arten von Augen gegeben: die des Fleisches und die des Glaubens\.
+Als ich den Namen der Braut hörte,
+fiel mir eine alte Schuld ein\.
+Ich hatte versprochen,
+euch zu sagen,
+warum wir die Gläubigen heißen\.
+Warum also werden wir so genannt?
+Wir Gläubigen haben an Dinge geglaubt,
+die unsere leiblichen Augen nicht sehen können\.
+Diese Dinge sind groß und furchteinflößend und gehen über unsere Natur hinaus\.
+Weder Nachdenken noch menschliche Vernunft vermögen sie zu entdecken und zu erklären;
+nur die Lehre des Glaubens versteht sie wirklich\.
+Darum hat Gott uns zwei Arten von Augen gegeben:
+die des Fleisches und die des Glaubens\.

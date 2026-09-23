@@ -7,9 +7,165 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/57-homilie-ueber-matthaeus#kapitel-5af75b39-9071-459a-5b46-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a82269e44c45c6da32c4702a5df9a7450bce3a44023ae6e67cdc4173c472e6d3`
-
-Aber tu das nicht\. Denn das kommt aus einer satanischen Gesinnung\. Verleumde nicht den Wein, sondern die Trunkenheit\. Nimm eben diesen Menschen, wenn er nüchtern ist, und zeichne ihm seine ganze Schamlosigkeit vor Augen; sag zu ihm: „Wein wurde gegeben, damit wir fröhlich sind, nicht damit wir uns schändlich benehmen; damit wir lachen, nicht damit man über uns lacht; damit wir gesund sind, nicht damit wir krank werden; damit wir eine Schwäche des Körpers beheben, nicht damit wir die Kraft der Seele zu Boden werfen\. Gott hat dich durch diese Gabe geehrt\. Warum entehrst du dich selbst durch Maßlosigkeit?“ Höre, was Paulus sagt: „Gebrauche ein wenig Wein wegen deines Magens und deiner häufigen Schwächen\.[^bible-7ad232d3-93f5-46c0-931a-68df128d8892]“ Wenn aber jener Heilige, obwohl er von Krankheit bedrängt war und aufeinanderfolgende Erkrankungen ertrug, keinen Wein genoss, bis der Lehrer es erlaubte, welche Entschuldigung könnten dann wir haben, die wir bei Gesundheit betrunken werden? Zu jenem sagte er: „Gebrauche ein wenig Wein wegen deines Magens\.[^bible-7ad232d3-93f5-46c0-931a-68df128d8892]“ Zu jedem von euch aber, der betrunken wird, wird er sagen: „Gebrauche ein wenig Wein wegen der Unzucht, wegen des häufigen unanständigen Redens, wegen der anderen bösen Begierden, die die Trunkenheit gewöhnlich hervorbringt\.“ Wenn ihr euch aus diesen Gründen nicht enthalten wollt, dann enthaltet euch wenigstens wegen der Niedergeschlagenheit und der Widerwärtigkeiten, die daraus entstehen\. Denn Wein wurde zur Freude gegeben; denn der Wein, sagt er, „erfreut das Herz des Menschen\.[^bible-54dc50ae-6e16-4547-9a00-6b45c45a70c5]“ Ihr aber verderbt sogar diese seine gute Wirkung\. Was für eine Freude soll es denn sein, nicht bei sich selbst zu sein, unzählige Schmerzen zu haben, alles sich drehen zu sehen, vom Schwindel gepackt zu werden und wie Fieberkranke Menschen zu brauchen, die einem den Kopf mit Öl befeuchten? Das sage ich nicht zu allen, oder vielmehr: doch, zu allen; nicht weil alle betrunken werden, gewiss nicht, sondern weil die Nüchternen sich nicht um die Betrunkenen kümmern\. Darum wende ich mich auch eher an euch, die ihr gesund seid\. Denn auch ein Arzt lässt die Kranken selbst beiseite und spricht mit denen, die bei ihnen sitzen\. An euch also richte ich das Wort und bitte euch: Lasst euch niemals von dieser Leidenschaft fangen, und zieht die heraus, die gefangen sind, damit sie nicht schlechter erscheinen als die unvernünftigen Tiere\. Denn diese verlangen nichts über das Notwendige hinaus; jene aber sind noch unvernünftiger geworden als sie, weil sie die Grenzen des Maßes überschreiten\. Wie viel besser ist doch der Esel als sie\! Wie viel vernünftiger der Hund\! Denn jedes dieser Tiere, und auch alle übrigen Tiere, kennt, wenn es essen oder trinken muss, als Grenze das, was ihm genügt, und geht nicht über das Notwendige hinaus\. Und selbst wenn unzählige es dazu zwingen wollten, würde es sich nicht dazu bringen lassen, in Maßlosigkeit zu fallen\. Darin also seid ihr schlechter als die unvernünftigen Tiere, nicht nur im Urteil der Gesunden, sondern auch in eurem eigenen\. Denn dass ihr selbst entschieden habt, weniger wert zu sein als Hunde und Esel, ist daran klar: Diese unvernünftigen Tiere zwingst du nicht, über das Maß hinaus Nahrung zu genießen\. Und wenn dich jemand fragt: „Warum?“, wirst du sagen: „Damit sie keinen Schaden nehmen\.“ Dir selbst aber gewährst du nicht einmal diese Fürsorge\. So hältst du dich selbst für geringer als sie und siehst tatenlos zu, wie du beständig vom Sturm hin und her geworfen wirst\. Denn du erträgst den Schaden der Trunkenheit nicht nur am Tag der Trunkenheit, sondern auch noch nach jenem Tag\. Wie nach einem Fieber, wenn es vorüber ist, die Verwüstung des Fiebers bleibt, so wühlt auch, wenn die Trunkenheit gegangen ist, der Wirbel der Trunkenheit weiter in Seele und Körper\. Der elende Körper liegt gelähmt da wie ein vom Schiffbruch zugerichtetes Schiff; die Seele aber, noch elender als er, erregt den Sturm selbst dann, wenn der Körper erschlafft ist, und facht die Begierde an\. Und wenn sie vernünftig zu sein scheint, ist sie gerade dann am meisten von Wahnsinn ergriffen, weil sie sich Wein, Fässer, Schalen und Mischkrüge vorstellt\. Und wie im Sturm, wenn der Aufruhr der Wogen aufgehört hat, der Schaden durch den Sturm bleibt, so ist es auch hier\. Denn wie dort von der Ladung, so wirft auch hier die Trunkenheit, wenn sie Besonnenheit findet, wenn sie Schamgefühl findet, wenn sie Einsicht findet, wenn sie Milde findet, wenn sie Demut findet, alles in das Meer der Gesetzlosigkeit\. Doch was danach kommt, ist nicht mehr gleich\. Dort wird das Schiff nach dem Auswurf leichter; hier aber wird es im Gegenteil noch schwerer\. Denn statt jenes Reichtums nimmt es Sand und Salzwasser auf und den ganzen Unrat der Trunkenheit, der das Schiff samt den Passagieren und dem Steuermann sofort versenkt\. Damit wir das nicht erleiden, wollen wir uns von diesem Sturm befreien\. Mit Trunkenheit kann man das Himmelreich nicht sehen\. Denn es heißt: „Irrt euch nicht: Weder Trunkenbolde noch Lästerer werden das Reich Gottes erben\.[^bible-b63cc537-33a5-41dd-98a6-0f92d9a8b05a]“ Und warum spreche ich vom Reich? Mit Trunkenheit kann man nicht einmal das Gegenwärtige sehen\. Denn die Trunkenheit macht uns die Tage zu Nächten und das Licht zur Finsternis\. Und obwohl ihre Augen offen sind, sehen die Betrunkenen nicht einmal, was ihnen vor den Füßen liegt\. Und nicht das allein ist das Schlimme\. Dazu erleiden sie noch eine andere, überaus harte Strafe: Sie ertragen grundlose Niedergeschlagenheit, Wahnsinn, Krankheit, Gelächter und fortwährende Schande\. Welche Entschuldigung gibt es also für Menschen, die sich selbst mit so vielen Übeln durchbohren? Es gibt keine\. Fliehen wir also diese Krankheit, damit wir sowohl die hiesigen als auch die künftigen Güter erlangen, durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus; ihm sei die Herrlichkeit und die Macht, zusammen mit dem Vater und dem Heiligen Geist, in alle Ewigkeit\. Amen\.
+Aber tu das nicht\.
+Denn das kommt aus einer satanischen Gesinnung\.
+Verleumde nicht den Wein,
+sondern die Trunkenheit\.
+Nimm eben diesen Menschen,
+wenn er nüchtern ist,
+und zeichne ihm seine ganze Schamlosigkeit vor Augen;
+sag zu ihm:
+„Wein wurde gegeben,
+damit wir fröhlich sind,
+nicht damit wir uns schändlich benehmen;
+damit wir lachen,
+nicht damit man über uns lacht;
+damit wir gesund sind,
+nicht damit wir krank werden;
+damit wir eine Schwäche des Körpers beheben,
+nicht damit wir die Kraft der Seele zu Boden werfen\.
+Gott hat dich durch diese Gabe geehrt\.
+Warum entehrst du dich selbst durch Maßlosigkeit?“
+Höre,
+was Paulus sagt:
+„Gebrauche ein wenig Wein wegen deines Magens und deiner häufigen Schwächen\.[^bible-7ad232d3-93f5-46c0-931a-68df128d8892]“ Wenn aber jener Heilige,
+obwohl er von Krankheit bedrängt war und aufeinanderfolgende Erkrankungen ertrug,
+keinen Wein genoss,
+bis der Lehrer es erlaubte,
+welche Entschuldigung könnten dann wir haben,
+die wir bei Gesundheit betrunken werden?
+Zu jenem sagte er:
+„Gebrauche ein wenig Wein wegen deines Magens\.[^bible-7ad232d3-93f5-46c0-931a-68df128d8892]“ Zu jedem von euch aber,
+der betrunken wird,
+wird er sagen:
+„Gebrauche ein wenig Wein wegen der Unzucht,
+wegen des häufigen unanständigen Redens,
+wegen der anderen bösen Begierden,
+die die Trunkenheit gewöhnlich hervorbringt\.“
+Wenn ihr euch aus diesen Gründen nicht enthalten wollt,
+dann enthaltet euch wenigstens wegen der Niedergeschlagenheit und der Widerwärtigkeiten,
+die daraus entstehen\.
+Denn Wein wurde zur Freude gegeben;
+denn der Wein,
+sagt er,
+„erfreut das Herz des Menschen\.[^bible-54dc50ae-6e16-4547-9a00-6b45c45a70c5]“ Ihr aber verderbt sogar diese seine gute Wirkung\.
+Was für eine Freude soll es denn sein,
+nicht bei sich selbst zu sein,
+unzählige Schmerzen zu haben,
+alles sich drehen zu sehen,
+vom Schwindel gepackt zu werden und wie Fieberkranke Menschen zu brauchen,
+die einem den Kopf mit Öl befeuchten?
+Das sage ich nicht zu allen,
+oder vielmehr:
+doch,
+zu allen;
+nicht weil alle betrunken werden,
+gewiss nicht,
+sondern weil die Nüchternen sich nicht um die Betrunkenen kümmern\.
+Darum wende ich mich auch eher an euch,
+die ihr gesund seid\.
+Denn auch ein Arzt lässt die Kranken selbst beiseite und spricht mit denen,
+die bei ihnen sitzen\.
+An euch also richte ich das Wort und bitte euch:
+Lasst euch niemals von dieser Leidenschaft fangen,
+und zieht die heraus,
+die gefangen sind,
+damit sie nicht schlechter erscheinen als die unvernünftigen Tiere\.
+Denn diese verlangen nichts über das Notwendige hinaus;
+jene aber sind noch unvernünftiger geworden als sie,
+weil sie die Grenzen des Maßes überschreiten\.
+Wie viel besser ist doch der Esel als sie\!
+Wie viel vernünftiger der Hund\!
+Denn jedes dieser Tiere,
+und auch alle übrigen Tiere,
+kennt,
+wenn es essen oder trinken muss,
+als Grenze das,
+was ihm genügt,
+und geht nicht über das Notwendige hinaus\.
+Und selbst wenn unzählige es dazu zwingen wollten,
+würde es sich nicht dazu bringen lassen,
+in Maßlosigkeit zu fallen\.
+Darin also seid ihr schlechter als die unvernünftigen Tiere,
+nicht nur im Urteil der Gesunden,
+sondern auch in eurem eigenen\.
+Denn dass ihr selbst entschieden habt,
+weniger wert zu sein als Hunde und Esel,
+ist daran klar:
+Diese unvernünftigen Tiere zwingst du nicht,
+über das Maß hinaus Nahrung zu genießen\.
+Und wenn dich jemand fragt:
+„Warum?“,
+wirst du sagen:
+„Damit sie keinen Schaden nehmen\.“
+Dir selbst aber gewährst du nicht einmal diese Fürsorge\.
+So hältst du dich selbst für geringer als sie und siehst tatenlos zu,
+wie du beständig vom Sturm hin und her geworfen wirst\.
+Denn du erträgst den Schaden der Trunkenheit nicht nur am Tag der Trunkenheit,
+sondern auch noch nach jenem Tag\.
+Wie nach einem Fieber,
+wenn es vorüber ist,
+die Verwüstung des Fiebers bleibt,
+so wühlt auch,
+wenn die Trunkenheit gegangen ist,
+der Wirbel der Trunkenheit weiter in Seele und Körper\.
+Der elende Körper liegt gelähmt da wie ein vom Schiffbruch zugerichtetes Schiff;
+die Seele aber,
+noch elender als er,
+erregt den Sturm selbst dann,
+wenn der Körper erschlafft ist,
+und facht die Begierde an\.
+Und wenn sie vernünftig zu sein scheint,
+ist sie gerade dann am meisten von Wahnsinn ergriffen,
+weil sie sich Wein,
+Fässer,
+Schalen und Mischkrüge vorstellt\.
+Und wie im Sturm,
+wenn der Aufruhr der Wogen aufgehört hat,
+der Schaden durch den Sturm bleibt,
+so ist es auch hier\.
+Denn wie dort von der Ladung,
+so wirft auch hier die Trunkenheit,
+wenn sie Besonnenheit findet,
+wenn sie Schamgefühl findet,
+wenn sie Einsicht findet,
+wenn sie Milde findet,
+wenn sie Demut findet,
+alles in das Meer der Gesetzlosigkeit\.
+Doch was danach kommt,
+ist nicht mehr gleich\.
+Dort wird das Schiff nach dem Auswurf leichter;
+hier aber wird es im Gegenteil noch schwerer\.
+Denn statt jenes Reichtums nimmt es Sand und Salzwasser auf und den ganzen Unrat der Trunkenheit,
+der das Schiff samt den Passagieren und dem Steuermann sofort versenkt\.
+Damit wir das nicht erleiden,
+wollen wir uns von diesem Sturm befreien\.
+Mit Trunkenheit kann man das Himmelreich nicht sehen\.
+Denn es heißt:
+„Irrt euch nicht:
+Weder Trunkenbolde noch Lästerer werden das Reich Gottes erben\.[^bible-b63cc537-33a5-41dd-98a6-0f92d9a8b05a]“ Und warum spreche ich vom Reich?
+Mit Trunkenheit kann man nicht einmal das Gegenwärtige sehen\.
+Denn die Trunkenheit macht uns die Tage zu Nächten und das Licht zur Finsternis\.
+Und obwohl ihre Augen offen sind,
+sehen die Betrunkenen nicht einmal,
+was ihnen vor den Füßen liegt\.
+Und nicht das allein ist das Schlimme\.
+Dazu erleiden sie noch eine andere,
+überaus harte Strafe:
+Sie ertragen grundlose Niedergeschlagenheit,
+Wahnsinn,
+Krankheit,
+Gelächter und fortwährende Schande\.
+Welche Entschuldigung gibt es also für Menschen,
+die sich selbst mit so vielen Übeln durchbohren?
+Es gibt keine\.
+Fliehen wir also diese Krankheit,
+damit wir sowohl die hiesigen als auch die künftigen Güter erlangen,
+durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus;
+ihm sei die Herrlichkeit und die Macht,
+zusammen mit dem Vater und dem Heiligen Geist,
+in alle Ewigkeit\.
+Amen\.
 
 ## Bibelverweise
 

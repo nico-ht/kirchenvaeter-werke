@@ -7,6 +7,41 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-1#kapitel-d8583ef4-3415-49d4-a001-08de579aa9c5).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b847d6862748e5281786f4131fe30e6ec353526eab27a59d27eb7dd13526b002`
-
-Danach fixierte mich Kajaphas wieder und sagte – mal warnend, mal beschuldigend –, ich solle für den Rest der Zeit aufhören, Christus Jesus zu predigen, damit ich das nicht zu meinem eigenen Verderben tue oder, selbst durch einen Irrtum getäuscht, auch noch andere mit meinem Irrtum betrüge\. Dann warf er mir außerdem noch Dreistigkeit vor: Dass ich es wagen würde, das Amt eines Lehrers zu übernehmen, obwohl ich selbst ein Unwissender, ein Fischer und ein Bauer sei\! Als er dies und noch viel mehr Ähnliches sagte, antwortete auch ich mit folgenden Worten: „Für mich besteht wohl weniger Gefahr, wenn dieser – wie er sagt – nicht der Christus ist, weil ich ihn immerhin als Lehrer des Gesetzes angenommen habe; für ihn aber ist das Risiko gewaltig, wenn genau dieser der Christus ist – was er ganz sicher ist\! Ich glaube nämlich dem, der erschienen ist; wem aber glaubt er die Treue zu halten? Einem anderen, der überhaupt nicht erschienen ist? Wenn ich aber als Ungebildeter – wie du sagst – und Unwissender und Fischer und Bauer mehr verstehe als die weisen Ältesten: Das“, sagte ich, „sollte dir noch viel mehr Angst einjagen\! Denn wenn ich in der Diskussion aufgrund irgendeiner Gelehrsamkeit über euch Weise und Gebildete siegen würde, dann sähe es natürlich so aus, als hätte mir das das Studium langer Jahre eingebracht und nicht die Gnade göttlicher Kraft; nun aber, da wir Unwissenden – wie ich sagte – euch Weise überführen und besiegen: Wem, der noch bei Verstand ist, ist da nicht offensichtlich, dass dies kein Werk menschlicher Schläue ist, sondern des göttlichen Willens und Geschenks?“
+Danach fixierte mich Kajaphas wieder und sagte – mal warnend,
+mal beschuldigend –,
+ich solle für den Rest der Zeit aufhören,
+Christus Jesus zu predigen,
+damit ich das nicht zu meinem eigenen Verderben tue oder,
+selbst durch einen Irrtum getäuscht,
+auch noch andere mit meinem Irrtum betrüge\.
+Dann warf er mir außerdem noch Dreistigkeit vor:
+Dass ich es wagen würde,
+das Amt eines Lehrers zu übernehmen,
+obwohl ich selbst ein Unwissender,
+ein Fischer und ein Bauer sei\!
+Als er dies und noch viel mehr Ähnliches sagte,
+antwortete auch ich mit folgenden Worten:
+„Für mich besteht wohl weniger Gefahr,
+wenn dieser – wie er sagt – nicht der Christus ist,
+weil ich ihn immerhin als Lehrer des Gesetzes angenommen habe;
+für ihn aber ist das Risiko gewaltig,
+wenn genau dieser der Christus ist – was er ganz sicher ist\!
+Ich glaube nämlich dem,
+der erschienen ist;
+wem aber glaubt er die Treue zu halten?
+Einem anderen,
+der überhaupt nicht erschienen ist?
+Wenn ich aber als Ungebildeter – wie du sagst – und Unwissender und Fischer und Bauer mehr verstehe als die weisen Ältesten:
+Das“,
+sagte ich,
+„sollte dir noch viel mehr Angst einjagen\!
+Denn wenn ich in der Diskussion aufgrund irgendeiner Gelehrsamkeit über euch Weise und Gebildete siegen würde,
+dann sähe es natürlich so aus,
+als hätte mir das das Studium langer Jahre eingebracht und nicht die Gnade göttlicher Kraft;
+nun aber,
+da wir Unwissenden – wie ich sagte – euch Weise überführen und besiegen:
+Wem,
+der noch bei Verstand ist,
+ist da nicht offensichtlich,
+dass dies kein Werk menschlicher Schläue ist,
+sondern des göttlichen Willens und Geschenks?“

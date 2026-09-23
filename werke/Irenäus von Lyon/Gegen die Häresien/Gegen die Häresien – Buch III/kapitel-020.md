@@ -7,15 +7,229 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-iii#kapitel-c8823d27-4e18-44c8-0374-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7ff680315a79c0c7deecbfc166deefce84760335f1068e78171a40d4174c2cf4`
+Gott war also langmütig,
+als der Mensch schuldig wurde;
+denn er sah den Sieg voraus,
+der ihm durch das Wort geschenkt werden sollte\.
+Denn als die Kraft in der Schwachheit vollendet wurde[^bible-c2ba3c93-b81d-4d4f-a6fd-980561b79581],
+zeigte sie Gottes Güte und seine überragende Macht\.
+Denn wie Gott geduldig zuließ,
+dass Jona vom Walfisch verschlungen wurde — nicht damit er verschlungen würde und ganz zugrunde ginge,
+sondern damit er,
+nachdem er wieder ausgespien worden war,
+Gott umso mehr unterworfen wäre,
+ihn umso mehr verherrlichte,
+der ihm eine so unverhoffte Rettung geschenkt hatte,
+und die Niniviten zu dauerhafter Umkehr führte,
+sodass sie sich zu dem Herrn bekehrten,
+der sie vom Tod befreien würde,
+erschüttert von jenem Zeichen,
+das an Jona geschehen war,
+wie die Schrift von ihnen sagt:
+„Und sie kehrten um,
+jeder von seinem bösen Weg und von der Ungerechtigkeit ihrer Hände,
+und sagten:
+Wer weiß,
+ob Gott bereuen und seinen Zorn von uns abwenden wird,
+sodass wir nicht zugrunde gehen?[^bible-ad7bc3e5-6c3a-4f13-af2d-a80f47f087c4]“ —,
+so ließ Gott auch von Anfang an zu,
+dass der Mensch von dem großen Walfisch verschlungen wurde,
+dem Urheber der Übertretung:
+nicht damit er,
+so verschlungen,
+ganz zugrunde ginge,
+sondern indem er den Heilsplan ordnete und vorbereitete,
+der durch das Wort,
+durch das Zeichen Jonas,
+vollendet wurde für jene,
+die über den Herrn dieselbe Meinung hatten wie Jona und bekannten und sagten:
+„Ich bin ein Knecht des Herrn,
+und ich bete den Herrn,
+den Gott des Himmels,
+an,
+der das Meer und das trockene Land gemacht hat\.[^bible-06f1c41a-021a-4de8-9ec1-cef243b8b034]“ Dies geschah,
+damit der Mensch,
+der von Gott eine unverhoffte Rettung empfängt,
+von den Toten aufersteht,
+Gott verherrlicht und jenes Wort wiederholt,
+das Jona prophetisch ausgesprochen hat:
+„Aus meiner Bedrängnis rief ich zum Herrn,
+meinem Gott,
+und er erhörte mich aus dem Bauch der Unterwelt\.[^bible-3649e04b-59d3-4f23-85cc-85cb62e9a45b]“ Und er sollte fortwährend Gott verherrlichen und ihm ohne Unterlass danken für die Rettung,
+die er von ihm empfangen hat,
+„damit kein Fleisch sich vor dem Herrn rühme[^bible-65d4243e-62ab-4ec1-9bff-41b721184926]“,
+und der Mensch sollte niemals eine entgegengesetzte Meinung über Gott annehmen,
+indem er annähme,
+die Unvergänglichkeit,
+die ihm zukommt,
+gehöre ihm von Natur aus,
+und sich,
+weil er so die Wahrheit nicht festhält,
+in leerer Überheblichkeit rühmen,
+als wäre er Gott von Natur aus gleich\.
+Denn so machte er,
+Satan,
+ihn,
+den Menschen,
+undankbarer gegen seinen Schöpfer,
+verdunkelte die Liebe,
+die Gott zum Menschen hatte,
+und verblendete seinen Sinn,
+sodass er nicht wahrnahm,
+was Gottes würdig ist,
+sondern sich mit Gott verglich und sich Gott gleichstellte\.
 
-Gott war also langmütig, als der Mensch schuldig wurde; denn er sah den Sieg voraus, der ihm durch das Wort geschenkt werden sollte\. Denn als die Kraft in der Schwachheit vollendet wurde[^bible-c2ba3c93-b81d-4d4f-a6fd-980561b79581], zeigte sie Gottes Güte und seine überragende Macht\. Denn wie Gott geduldig zuließ, dass Jona vom Walfisch verschlungen wurde — nicht damit er verschlungen würde und ganz zugrunde ginge, sondern damit er, nachdem er wieder ausgespien worden war, Gott umso mehr unterworfen wäre, ihn umso mehr verherrlichte, der ihm eine so unverhoffte Rettung geschenkt hatte, und die Niniviten zu dauerhafter Umkehr führte, sodass sie sich zu dem Herrn bekehrten, der sie vom Tod befreien würde, erschüttert von jenem Zeichen, das an Jona geschehen war, wie die Schrift von ihnen sagt: „Und sie kehrten um, jeder von seinem bösen Weg und von der Ungerechtigkeit ihrer Hände, und sagten: Wer weiß, ob Gott bereuen und seinen Zorn von uns abwenden wird, sodass wir nicht zugrunde gehen?[^bible-ad7bc3e5-6c3a-4f13-af2d-a80f47f087c4]“ —, so ließ Gott auch von Anfang an zu, dass der Mensch von dem großen Walfisch verschlungen wurde, dem Urheber der Übertretung: nicht damit er, so verschlungen, ganz zugrunde ginge, sondern indem er den Heilsplan ordnete und vorbereitete, der durch das Wort, durch das Zeichen Jonas, vollendet wurde für jene, die über den Herrn dieselbe Meinung hatten wie Jona und bekannten und sagten: „Ich bin ein Knecht des Herrn, und ich bete den Herrn, den Gott des Himmels, an, der das Meer und das trockene Land gemacht hat\.[^bible-06f1c41a-021a-4de8-9ec1-cef243b8b034]“ Dies geschah, damit der Mensch, der von Gott eine unverhoffte Rettung empfängt, von den Toten aufersteht, Gott verherrlicht und jenes Wort wiederholt, das Jona prophetisch ausgesprochen hat: „Aus meiner Bedrängnis rief ich zum Herrn, meinem Gott, und er erhörte mich aus dem Bauch der Unterwelt\.[^bible-3649e04b-59d3-4f23-85cc-85cb62e9a45b]“ Und er sollte fortwährend Gott verherrlichen und ihm ohne Unterlass danken für die Rettung, die er von ihm empfangen hat, „damit kein Fleisch sich vor dem Herrn rühme[^bible-65d4243e-62ab-4ec1-9bff-41b721184926]“, und der Mensch sollte niemals eine entgegengesetzte Meinung über Gott annehmen, indem er annähme, die Unvergänglichkeit, die ihm zukommt, gehöre ihm von Natur aus, und sich, weil er so die Wahrheit nicht festhält, in leerer Überheblichkeit rühmen, als wäre er Gott von Natur aus gleich\. Denn so machte er, Satan, ihn, den Menschen, undankbarer gegen seinen Schöpfer, verdunkelte die Liebe, die Gott zum Menschen hatte, und verblendete seinen Sinn, sodass er nicht wahrnahm, was Gottes würdig ist, sondern sich mit Gott verglich und sich Gott gleichstellte\.
+Das also war das Ziel von Gottes Langmut:
+Der Mensch sollte alles durchlaufen,
+die Erkenntnis moralischer Zucht gewinnen,
+dann zur Auferstehung von den Toten gelangen und aus Erfahrung lernen,
+woher seine Befreiung kommt\.
+So sollte er immer in Dankbarkeit gegenüber dem Herrn leben,
+nachdem er von ihm die Gabe der Unvergänglichkeit empfangen hat,
+damit er ihn umso mehr liebt;
+denn „wem mehr vergeben wird,
+der liebt mehr[^bible-ae2fa1af-a34b-423c-9692-2a68d6449b1c]“\.
+Und er sollte sich selbst erkennen:
+wie sterblich und schwach er ist\.
+Zugleich sollte er von Gott begreifen,
+dass er unsterblich und so mächtig ist,
+dass er dem Sterblichen Unsterblichkeit schenkt und dem Zeitlichen Ewigkeit\.
+Auch die übrigen Eigenschaften Gottes sollte er erkennen,
+die sich an ihm zeigen;
+durch sie belehrt,
+sollte er von Gott so denken,
+wie es der göttlichen Größe entspricht\.
+Denn die Herrlichkeit des Menschen ist Gott,
+die Herrlichkeit Gottes aber sind seine Werke;
+und der Mensch ist das Gefäß all seiner Weisheit und Macht\.
+Wie der Arzt sich an seinen Kranken erweist,
+so offenbart sich auch Gott durch die Menschen\.
+Darum erklärt Paulus:
+„Denn Gott hat alle in den Unglauben eingeschlossen,
+damit er sich aller erbarme[^bible-569ad031-fc9a-48dc-aa2e-a51a623a0d97]\.“
+Das sagt er nicht im Blick auf geistliche Äonen,
+sondern auf den Menschen,
+der Gott ungehorsam gewesen war und,
+aus der Unsterblichkeit verstoßen,
+dann Erbarmen erlangte,
+indem er durch den Sohn Gottes jene Kindschaft empfing,
+die durch ihn selbst vollbracht wird\.
+Denn wer ohne Stolz und Prahlerei die wahre Herrlichkeit,
+das rechte Urteil,
+über das Geschaffene und über den Schöpfer festhält,
+der der allmächtige Gott aller ist und allem das Dasein geschenkt hat,
+der wird,
+wenn er in seiner Liebe und Unterordnung bleibt und Dank sagt,
+von ihm auch die größere Herrlichkeit des Aufstiegs empfangen\.
+Er blickt auf die Zeit voraus,
+in der er dem ähnlich werden wird,
+der für ihn gestorben ist;
+denn auch er „wurde in der Gestalt des Fleisches der Sünde gemacht[^bible-c7a0be4e-a2b3-4dc4-b898-4bf21f2ee4c4],“
+um die Sünde zu verurteilen und sie,
+nun als verurteilte Sache,
+über das Fleisch hinaus wegzustoßen;
+zugleich aber sollte er den Menschen in seine eigene Ähnlichkeit rufen,
+ihn Gott als seinen Nachahmer zuweisen,
+ihm das Gesetz seines Vaters auferlegen,
+damit er Gott schaut,
+und ihm die Kraft geben,
+den Vater zu empfangen:
+Er ist das Wort Gottes,
+das im Menschen wohnte und der Sohn des Menschen wurde,
+damit er den Menschen daran gewöhnt,
+Gott zu empfangen,
+und Gott daran,
+im Menschen zu wohnen,
+nach dem Wohlgefallen des Vaters\.
 
-Das also war das Ziel von Gottes Langmut: Der Mensch sollte alles durchlaufen, die Erkenntnis moralischer Zucht gewinnen, dann zur Auferstehung von den Toten gelangen und aus Erfahrung lernen, woher seine Befreiung kommt\. So sollte er immer in Dankbarkeit gegenüber dem Herrn leben, nachdem er von ihm die Gabe der Unvergänglichkeit empfangen hat, damit er ihn umso mehr liebt; denn „wem mehr vergeben wird, der liebt mehr[^bible-ae2fa1af-a34b-423c-9692-2a68d6449b1c]“\. Und er sollte sich selbst erkennen: wie sterblich und schwach er ist\. Zugleich sollte er von Gott begreifen, dass er unsterblich und so mächtig ist, dass er dem Sterblichen Unsterblichkeit schenkt und dem Zeitlichen Ewigkeit\. Auch die übrigen Eigenschaften Gottes sollte er erkennen, die sich an ihm zeigen; durch sie belehrt, sollte er von Gott so denken, wie es der göttlichen Größe entspricht\. Denn die Herrlichkeit des Menschen ist Gott, die Herrlichkeit Gottes aber sind seine Werke; und der Mensch ist das Gefäß all seiner Weisheit und Macht\. Wie der Arzt sich an seinen Kranken erweist, so offenbart sich auch Gott durch die Menschen\. Darum erklärt Paulus: „Denn Gott hat alle in den Unglauben eingeschlossen, damit er sich aller erbarme[^bible-569ad031-fc9a-48dc-aa2e-a51a623a0d97]\.“ Das sagt er nicht im Blick auf geistliche Äonen, sondern auf den Menschen, der Gott ungehorsam gewesen war und, aus der Unsterblichkeit verstoßen, dann Erbarmen erlangte, indem er durch den Sohn Gottes jene Kindschaft empfing, die durch ihn selbst vollbracht wird\. Denn wer ohne Stolz und Prahlerei die wahre Herrlichkeit, das rechte Urteil, über das Geschaffene und über den Schöpfer festhält, der der allmächtige Gott aller ist und allem das Dasein geschenkt hat, der wird, wenn er in seiner Liebe und Unterordnung bleibt und Dank sagt, von ihm auch die größere Herrlichkeit des Aufstiegs empfangen\. Er blickt auf die Zeit voraus, in der er dem ähnlich werden wird, der für ihn gestorben ist; denn auch er „wurde in der Gestalt des Fleisches der Sünde gemacht[^bible-c7a0be4e-a2b3-4dc4-b898-4bf21f2ee4c4],“ um die Sünde zu verurteilen und sie, nun als verurteilte Sache, über das Fleisch hinaus wegzustoßen; zugleich aber sollte er den Menschen in seine eigene Ähnlichkeit rufen, ihn Gott als seinen Nachahmer zuweisen, ihm das Gesetz seines Vaters auferlegen, damit er Gott schaut, und ihm die Kraft geben, den Vater zu empfangen: Er ist das Wort Gottes, das im Menschen wohnte und der Sohn des Menschen wurde, damit er den Menschen daran gewöhnt, Gott zu empfangen, und Gott daran, im Menschen zu wohnen, nach dem Wohlgefallen des Vaters\.
+Darum ist der Herr selbst,
+der Emmanuel aus der Jungfrau,
+das Zeichen unseres Heils;
+denn es war der Herr selbst,
+der sie rettete,
+weil sie sich aus eigener Kraft nicht retten konnten\.
+Deshalb sagt Paulus,
+wenn er die menschliche Schwachheit darlegt:
+„Denn ich weiß,
+dass in meinem Fleisch nichts Gutes wohnt[^bible-5701c1dd-52ff-4c8e-8147-a1868ce5440c]“;
+damit zeigt er,
+dass das Gute unseres Heils nicht aus uns kommt,
+sondern von Gott\.
+Und wieder:
+„Ich elender Mensch,
+wer wird mich aus dem Leib dieses Todes befreien?[^bible-ab7fe686-50b9-49f1-8dd6-79ab34388bfc]“ Dann führt er den Befreier ein:
+„Die Gnade Jesu Christi,
+unseres Herrn\.[^bible-5c6d0276-025d-4ca5-86bc-198949b89a30]“ Auch Jesaja erklärt dies,
+wenn er sagt:
+„Werdet stark,
+ihr herabhängenden Hände und ihr schwachen Knie;
+fasst Mut,
+ihr Kleinmütigen;
+lasst euch trösten,
+fürchtet euch nicht:
+Siehe,
+unser Gott hat Gericht gegeben mit Vergeltung und wird vergelten;
+er selbst wird kommen und uns retten\.[^bible-cb0eb5ee-d635-4b6a-b931-60fe13547b12]“ Hier sehen wir:
+Nicht durch uns selbst,
+sondern durch Gottes Hilfe müssen wir gerettet werden\.
 
-Darum ist der Herr selbst, der Emmanuel aus der Jungfrau, das Zeichen unseres Heils; denn es war der Herr selbst, der sie rettete, weil sie sich aus eigener Kraft nicht retten konnten\. Deshalb sagt Paulus, wenn er die menschliche Schwachheit darlegt: „Denn ich weiß, dass in meinem Fleisch nichts Gutes wohnt[^bible-5701c1dd-52ff-4c8e-8147-a1868ce5440c]“; damit zeigt er, dass das Gute unseres Heils nicht aus uns kommt, sondern von Gott\. Und wieder: „Ich elender Mensch, wer wird mich aus dem Leib dieses Todes befreien?[^bible-ab7fe686-50b9-49f1-8dd6-79ab34388bfc]“ Dann führt er den Befreier ein: „Die Gnade Jesu Christi, unseres Herrn\.[^bible-5c6d0276-025d-4ca5-86bc-198949b89a30]“ Auch Jesaja erklärt dies, wenn er sagt: „Werdet stark, ihr herabhängenden Hände und ihr schwachen Knie; fasst Mut, ihr Kleinmütigen; lasst euch trösten, fürchtet euch nicht: Siehe, unser Gott hat Gericht gegeben mit Vergeltung und wird vergelten; er selbst wird kommen und uns retten\.[^bible-cb0eb5ee-d635-4b6a-b931-60fe13547b12]“ Hier sehen wir: Nicht durch uns selbst, sondern durch Gottes Hilfe müssen wir gerettet werden\.
-
-Wiederum hat derselbe Prophet verkündet, dass es kein bloßer Mensch sein sollte, der uns rettet, und auch keiner ohne Fleisch, denn die Engel sind ohne Fleisch\. Er sagt: „Weder ein Ältester noch ein Engel, sondern der Herr selbst wird sie retten, weil er sie liebt, und er wird sie schonen; er selbst wird sie befreien[^bible-85237a5f-6199-40ff-b040-ffe150dccc30]\.“ Und dass er selbst wahrer Mensch werden sollte, sichtbar, während er doch das Wort ist, das Heil schenkt, sagt Jesaja wiederum: „Siehe, Stadt Zion: Deine Augen werden unser Heil sehen[^bible-f6a16e73-072f-4b06-8736-59641d065f04]\.“ Und dass es kein bloßer Mensch war, der für uns starb, sagt Jesaja: „Und der heilige Herr gedachte seines toten Israel, das im Land des Grabes geschlafen hatte; und er stieg hinab, um ihnen sein Heil zu verkünden, damit er sie rette[^bible-ce4dbbb7-6776-4fc5-8628-a0c8ed022434]\.“ Und der Prophet Amos, das heißt Micha, erklärt dasselbe: „Er wird sich wieder zu uns wenden und Erbarmen mit uns haben; er wird unsere Schuld vernichten und unsere Sünden in die Tiefen des Meeres werfen[^bible-dbb6cfba-4bb9-41ee-9a9a-9601fb951bed]\.“ Und wieder sagt er, indem er den Ort seines Kommens genauer bestimmt: „Der Herr hat von Zion gesprochen und seine Stimme aus Jerusalem erschallen lassen[^bible-45902905-1d55-41f3-a79c-e9bf30719335]\.“ Dass aber aus jener Gegend, die südlich des Erbes Judas liegt, der Sohn Gottes kommen wird, der Gott ist, und dass er aus Bethlehem stammt, wo der Herr geboren wurde, und seinen Lobpreis über die ganze Erde aussenden wird, sagt der Prophet Habakuk so: „Gott wird aus dem Süden kommen und der Heilige vom Berg Effrem\. Seine Macht bedeckte die Himmel, und die Erde ist voll seines Lobes\. Vor seinem Angesicht wird das Wort hervorgehen, und seine Füße werden in den Ebenen voranschreiten[^bible-8f3e1dfa-ef11-48ea-b454-e19a8ccf62a0]\.“ So zeigt er mit klaren Worten an, dass er Gott ist, dass sein Kommen in Bethlehem stattfinden sollte und vom Berg Effrem her, der südlich des Erbes liegt, und dass er Mensch ist\. Denn er sagt: „Seine Füße werden in den Ebenen voranschreiten[^bible-d00dd6d6-b60c-4d1f-b9e4-63fe01bd5214]\.“ Das aber ist ein Zeichen, das eigentlich zum Menschen gehört\.
+Wiederum hat derselbe Prophet verkündet,
+dass es kein bloßer Mensch sein sollte,
+der uns rettet,
+und auch keiner ohne Fleisch,
+denn die Engel sind ohne Fleisch\.
+Er sagt:
+„Weder ein Ältester noch ein Engel,
+sondern der Herr selbst wird sie retten,
+weil er sie liebt,
+und er wird sie schonen;
+er selbst wird sie befreien[^bible-85237a5f-6199-40ff-b040-ffe150dccc30]\.“
+Und dass er selbst wahrer Mensch werden sollte,
+sichtbar,
+während er doch das Wort ist,
+das Heil schenkt,
+sagt Jesaja wiederum:
+„Siehe,
+Stadt Zion:
+Deine Augen werden unser Heil sehen[^bible-f6a16e73-072f-4b06-8736-59641d065f04]\.“
+Und dass es kein bloßer Mensch war,
+der für uns starb,
+sagt Jesaja:
+„Und der heilige Herr gedachte seines toten Israel,
+das im Land des Grabes geschlafen hatte;
+und er stieg hinab,
+um ihnen sein Heil zu verkünden,
+damit er sie rette[^bible-ce4dbbb7-6776-4fc5-8628-a0c8ed022434]\.“
+Und der Prophet Amos,
+das heißt Micha,
+erklärt dasselbe:
+„Er wird sich wieder zu uns wenden und Erbarmen mit uns haben;
+er wird unsere Schuld vernichten und unsere Sünden in die Tiefen des Meeres werfen[^bible-dbb6cfba-4bb9-41ee-9a9a-9601fb951bed]\.“
+Und wieder sagt er,
+indem er den Ort seines Kommens genauer bestimmt:
+„Der Herr hat von Zion gesprochen und seine Stimme aus Jerusalem erschallen lassen[^bible-45902905-1d55-41f3-a79c-e9bf30719335]\.“
+Dass aber aus jener Gegend,
+die südlich des Erbes Judas liegt,
+der Sohn Gottes kommen wird,
+der Gott ist,
+und dass er aus Bethlehem stammt,
+wo der Herr geboren wurde,
+und seinen Lobpreis über die ganze Erde aussenden wird,
+sagt der Prophet Habakuk so:
+„Gott wird aus dem Süden kommen und der Heilige vom Berg Effrem\.
+Seine Macht bedeckte die Himmel,
+und die Erde ist voll seines Lobes\.
+Vor seinem Angesicht wird das Wort hervorgehen,
+und seine Füße werden in den Ebenen voranschreiten[^bible-8f3e1dfa-ef11-48ea-b454-e19a8ccf62a0]\.“
+So zeigt er mit klaren Worten an,
+dass er Gott ist,
+dass sein Kommen in Bethlehem stattfinden sollte und vom Berg Effrem her,
+der südlich des Erbes liegt,
+und dass er Mensch ist\.
+Denn er sagt:
+„Seine Füße werden in den Ebenen voranschreiten[^bible-d00dd6d6-b60c-4d1f-b9e4-63fe01bd5214]\.“
+Das aber ist ein Zeichen,
+das eigentlich zum Menschen gehört\.
 
 ## Bibelverweise
 

@@ -7,15 +7,194 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-iv#kapitel-403877ac-ced6-48c7-039d-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:769e8240f8c29c3119faaef1e9717e25c43b5f0a69c58a93cdb28ae280ee17fe`
+Weiter sagen wir gegen die Valentinianer und die anderen,
+fälschlich so genannten Gnostiker:
+Sie behaupten,
+manche Teile der Schrift seien bald aus dem Pleroma,
+vom höchsten Gipfel her,
+vermittelt durch den Samen,
+der von dort stammt,
+gesprochen worden,
+bald aber aus dem mittleren Aufenthaltsort,
+vermittelt durch die verwegene Mutter Prunica;
+viele dagegen gingen auf den Schöpfer der Welt zurück,
+von dem auch die Propheten ihre Sendung empfangen hätten\.
+Dem halten wir entgegen:
+Es ist völlig unvernünftig,
+den Vater des Alls in eine solche Enge zu treiben,
+als hätte er keine eigenen Werkzeuge,
+durch die das,
+was im Pleroma ist,
+vollkommen verkündet werden könnte\.
+Vor wem hätte er denn Angst gehabt,
+dass er seinen Willen nicht auf seine eigene Weise offenbart hätte,
+selbstständig,
+frei und ohne sich mit jenem Geist einzulassen,
+der in Verkommenheit und Unwissenheit entstanden ist?
+Fürchtete er etwa,
+sehr viele würden gerettet werden,
+wenn doch noch mehr auf die unverfälschte Wahrheit hören sollten?
+Oder war er etwa nicht imstande,
+sich selbst solche Menschen zu bereiten,
+die das Kommen des Erlösers ankündigen sollten?
 
-Weiter sagen wir gegen die Valentinianer und die anderen, fälschlich so genannten Gnostiker: Sie behaupten, manche Teile der Schrift seien bald aus dem Pleroma, vom höchsten Gipfel her, vermittelt durch den Samen, der von dort stammt, gesprochen worden, bald aber aus dem mittleren Aufenthaltsort, vermittelt durch die verwegene Mutter Prunica; viele dagegen gingen auf den Schöpfer der Welt zurück, von dem auch die Propheten ihre Sendung empfangen hätten\. Dem halten wir entgegen: Es ist völlig unvernünftig, den Vater des Alls in eine solche Enge zu treiben, als hätte er keine eigenen Werkzeuge, durch die das, was im Pleroma ist, vollkommen verkündet werden könnte\. Vor wem hätte er denn Angst gehabt, dass er seinen Willen nicht auf seine eigene Weise offenbart hätte, selbstständig, frei und ohne sich mit jenem Geist einzulassen, der in Verkommenheit und Unwissenheit entstanden ist? Fürchtete er etwa, sehr viele würden gerettet werden, wenn doch noch mehr auf die unverfälschte Wahrheit hören sollten? Oder war er etwa nicht imstande, sich selbst solche Menschen zu bereiten, die das Kommen des Erlösers ankündigen sollten?
+Wenn nun der Erlöser,
+als er auf diese Erde kam,
+seine Apostel in die Welt sandte,
+damit sie sein Kommen genau verkünden und den Willen des Vaters lehren,
+ohne irgendetwas mit der Lehre der Heiden oder der Juden gemein zu haben,
+dann hätte er erst recht,
+solange er noch im Pleroma war,
+seine eigenen Herolde bestimmt,
+sein künftiges Kommen in diese Welt zu verkünden,
+ohne irgendetwas mit jenen Weissagungen gemein zu haben,
+die vom Demiurgen stammen\.
+Wenn er aber,
+solange er im Pleroma war,
+sich jener Propheten bediente,
+die unter dem Gesetz standen,
+und durch sie seine eigenen Angelegenheiten kundtat,
+dann hätte er erst recht nach seiner Ankunft hier dieselben Lehrer gebraucht und uns durch sie das Evangelium verkündet\.
+Darum sollen sie nicht länger behaupten,
+Petrus,
+Paulus und die übrigen Apostel hätten die Wahrheit verkündet,
+sondern es seien die Schriftgelehrten und Pharisäer und die anderen gewesen,
+durch die das Gesetz dargelegt wurde\.
+Wenn er aber bei seinem Kommen seine eigenen Apostel im Geist der Wahrheit aussandte und nicht im Geist des Irrtums,
+dann tat er dasselbe auch bei den Propheten;
+denn das Wort Gottes war immer ein und dasselbe\.
+Und wenn der Geist aus dem Pleroma nach ihrem System der Geist des Lichts,
+der Geist der Wahrheit,
+der Geist der Vollkommenheit und der Geist der Erkenntnis war,
+der Geist vom Demiurgen dagegen der Geist der Unwissenheit,
+der Verkommenheit und des Irrtums und ein Sprössling der Finsternis,
+wie kann dann in ein und demselben Wesen Vollkommenheit und Mangel,
+Erkenntnis und Unwissenheit,
+Irrtum und Wahrheit,
+Licht und Finsternis bestehen?
+Wenn es aber unmöglich war,
+dass so etwas bei den Propheten geschah,
+weil sie das Wort des Herrn von dem einen Gott verkündeten und das Kommen seines Sohnes ankündigten,
+dann hätte der Herr selbst erst recht niemals einmal Worte von oben,
+ein andermal aber aus der Verkommenheit unten ausgesprochen und wäre so zugleich Lehrer der Erkenntnis und der Unwissenheit geworden\.
+Auch hätte er niemals einmal den Gründer der Welt als Vater verherrlicht und ein andermal den,
+der über diesem steht,
+wie er selbst erklärt:
+„Niemand setzt ein Stück von einem neuen Gewand auf ein altes[^bible-72dbf337-3345-4c96-b3f6-104a3797bbf2],
+und neuen Wein füllt man nicht in alte Schläuche[^bible-d7e80fcf-0f2b-45a8-beb2-c9aaffd4e3c1]\.“
+Darum sollen diese Leute entweder mit den Propheten überhaupt nichts mehr zu tun haben,
+als wären sie altgewordene Zeugen,
+und nicht länger behaupten,
+diese Männer,
+die vom Demiurgen vorausgesandt worden seien,
+hätten unter jenem neuen Einfluss,
+der zum Pleroma gehört,
+gewisse Dinge ausgesprochen;
+oder aber sie sollen sich von unserem Herrn überzeugen lassen,
+wenn er erklärt,
+dass neuer Wein nicht in alte Schläuche gefüllt werden kann[^bible-d7e80fcf-0f2b-45a8-beb2-c9aaffd4e3c1]\.
 
-Wenn nun der Erlöser, als er auf diese Erde kam, seine Apostel in die Welt sandte, damit sie sein Kommen genau verkünden und den Willen des Vaters lehren, ohne irgendetwas mit der Lehre der Heiden oder der Juden gemein zu haben, dann hätte er erst recht, solange er noch im Pleroma war, seine eigenen Herolde bestimmt, sein künftiges Kommen in diese Welt zu verkünden, ohne irgendetwas mit jenen Weissagungen gemein zu haben, die vom Demiurgen stammen\. Wenn er aber, solange er im Pleroma war, sich jener Propheten bediente, die unter dem Gesetz standen, und durch sie seine eigenen Angelegenheiten kundtat, dann hätte er erst recht nach seiner Ankunft hier dieselben Lehrer gebraucht und uns durch sie das Evangelium verkündet\. Darum sollen sie nicht länger behaupten, Petrus, Paulus und die übrigen Apostel hätten die Wahrheit verkündet, sondern es seien die Schriftgelehrten und Pharisäer und die anderen gewesen, durch die das Gesetz dargelegt wurde\. Wenn er aber bei seinem Kommen seine eigenen Apostel im Geist der Wahrheit aussandte und nicht im Geist des Irrtums, dann tat er dasselbe auch bei den Propheten; denn das Wort Gottes war immer ein und dasselbe\. Und wenn der Geist aus dem Pleroma nach ihrem System der Geist des Lichts, der Geist der Wahrheit, der Geist der Vollkommenheit und der Geist der Erkenntnis war, der Geist vom Demiurgen dagegen der Geist der Unwissenheit, der Verkommenheit und des Irrtums und ein Sprössling der Finsternis, wie kann dann in ein und demselben Wesen Vollkommenheit und Mangel, Erkenntnis und Unwissenheit, Irrtum und Wahrheit, Licht und Finsternis bestehen? Wenn es aber unmöglich war, dass so etwas bei den Propheten geschah, weil sie das Wort des Herrn von dem einen Gott verkündeten und das Kommen seines Sohnes ankündigten, dann hätte der Herr selbst erst recht niemals einmal Worte von oben, ein andermal aber aus der Verkommenheit unten ausgesprochen und wäre so zugleich Lehrer der Erkenntnis und der Unwissenheit geworden\. Auch hätte er niemals einmal den Gründer der Welt als Vater verherrlicht und ein andermal den, der über diesem steht, wie er selbst erklärt: „Niemand setzt ein Stück von einem neuen Gewand auf ein altes[^bible-72dbf337-3345-4c96-b3f6-104a3797bbf2], und neuen Wein füllt man nicht in alte Schläuche[^bible-d7e80fcf-0f2b-45a8-beb2-c9aaffd4e3c1]\.“ Darum sollen diese Leute entweder mit den Propheten überhaupt nichts mehr zu tun haben, als wären sie altgewordene Zeugen, und nicht länger behaupten, diese Männer, die vom Demiurgen vorausgesandt worden seien, hätten unter jenem neuen Einfluss, der zum Pleroma gehört, gewisse Dinge ausgesprochen; oder aber sie sollen sich von unserem Herrn überzeugen lassen, wenn er erklärt, dass neuer Wein nicht in alte Schläuche gefüllt werden kann[^bible-d7e80fcf-0f2b-45a8-beb2-c9aaffd4e3c1]\.
+Aus welcher Quelle konnte aber der Sprössling dieser Mutter sein Wissen um die Geheimnisse innerhalb des Pleroma und die Fähigkeit schöpfen,
+darüber zu sprechen?
+Nehmen wir an,
+die Mutter habe eben diesen Sprössling hervorgebracht,
+während sie außerhalb des Pleroma war\.
+Was aber außerhalb des Pleroma liegt,
+stellen sie als außerhalb des Bereichs der Erkenntnis dar,
+das heißt als Unwissenheit\.
+Wie konnte also jener Same,
+der in Unwissenheit empfangen wurde,
+die Fähigkeit besitzen,
+Erkenntnis zu verkünden?
+Oder wie konnte die Mutter selbst,
+ein gestaltloses und unbestimmtes Wesen,
+wie eine Fehlgeburt vor die Tür geworfen,
+Wissen um die Geheimnisse innerhalb des Pleroma besitzen,
+sie,
+die außerhalb davon geordnet und in Gestalt gebracht wurde,
+von Horos am Eintritt gehindert wurde und bis zur Vollendung außerhalb des Pleroma bleibt,
+das heißt außerhalb des Bereichs der Erkenntnis?
+Wenn sie ferner sagen,
+das Leiden des Herrn sei ein Typus für die Ausdehnung des oberen Christus,
+die er durch Horos bewirkte und durch die er ihrer Mutter Gestalt gab,
+dann werden sie durch die übrigen Einzelheiten des Leidens des Herrn widerlegt;
+denn in Bezug auf diese können sie nicht einmal den Schein eines Typus vorweisen\.
+Denn wann wurde dem oberen Christus Essig und Galle zu trinken gegeben[^bible-ad13c288-4441-4b17-ad7b-bc89fcb03502]?
+Oder wann wurde sein Gewand aufgeteilt[^bible-a9aeb87b-f55a-4b87-8f2a-8929da351d54]?
+Oder wann wurde er durchbohrt,
+und Blut und Wasser traten hervor[^bible-e636cbbb-2beb-4ea2-99ce-214e0be34a52]?
+Oder wann schwitzte er große Tropfen Blut[^bible-520eb3f8-7b39-4441-9720-94a54f58492f]?
+Dasselbe ist auch hinsichtlich der übrigen Einzelheiten zu fragen,
+die dem Herrn widerfuhren und von denen die Propheten gesprochen haben\.
+Woher also haben die Mutter oder ihr Sprössling die Dinge vorausgewusst,
+die noch nicht geschehen waren,
+sondern erst später geschehen sollten?
 
-Aus welcher Quelle konnte aber der Sprössling dieser Mutter sein Wissen um die Geheimnisse innerhalb des Pleroma und die Fähigkeit schöpfen, darüber zu sprechen? Nehmen wir an, die Mutter habe eben diesen Sprössling hervorgebracht, während sie außerhalb des Pleroma war\. Was aber außerhalb des Pleroma liegt, stellen sie als außerhalb des Bereichs der Erkenntnis dar, das heißt als Unwissenheit\. Wie konnte also jener Same, der in Unwissenheit empfangen wurde, die Fähigkeit besitzen, Erkenntnis zu verkünden? Oder wie konnte die Mutter selbst, ein gestaltloses und unbestimmtes Wesen, wie eine Fehlgeburt vor die Tür geworfen, Wissen um die Geheimnisse innerhalb des Pleroma besitzen, sie, die außerhalb davon geordnet und in Gestalt gebracht wurde, von Horos am Eintritt gehindert wurde und bis zur Vollendung außerhalb des Pleroma bleibt, das heißt außerhalb des Bereichs der Erkenntnis? Wenn sie ferner sagen, das Leiden des Herrn sei ein Typus für die Ausdehnung des oberen Christus, die er durch Horos bewirkte und durch die er ihrer Mutter Gestalt gab, dann werden sie durch die übrigen Einzelheiten des Leidens des Herrn widerlegt; denn in Bezug auf diese können sie nicht einmal den Schein eines Typus vorweisen\. Denn wann wurde dem oberen Christus Essig und Galle zu trinken gegeben[^bible-ad13c288-4441-4b17-ad7b-bc89fcb03502]? Oder wann wurde sein Gewand aufgeteilt[^bible-a9aeb87b-f55a-4b87-8f2a-8929da351d54]? Oder wann wurde er durchbohrt, und Blut und Wasser traten hervor[^bible-e636cbbb-2beb-4ea2-99ce-214e0be34a52]? Oder wann schwitzte er große Tropfen Blut[^bible-520eb3f8-7b39-4441-9720-94a54f58492f]? Dasselbe ist auch hinsichtlich der übrigen Einzelheiten zu fragen, die dem Herrn widerfuhren und von denen die Propheten gesprochen haben\. Woher also haben die Mutter oder ihr Sprössling die Dinge vorausgewusst, die noch nicht geschehen waren, sondern erst später geschehen sollten?
-
-Sie behaupten, außer diesen seien noch bestimmte weitere Aussprüche aus dem Pleroma ergangen; doch durch die Schriftstellen, die von der Ankunft Christi handeln, werden sie widerlegt\. Was aber diese Aussprüche sind, die aus dem Pleroma gesprochen sein sollen, darüber sind sie sich nicht einig, sondern geben verschiedene Antworten\. Denn wenn jemand sie prüfen will und ihre führenden Männer zu irgendeiner Stelle einzeln befragt, wird er feststellen, dass der eine die betreffende Stelle auf den Propator bezieht, das heißt auf Bythus; ein anderer schreibt sie Arche zu, das heißt dem Eingeborenen; ein anderer dem Vater aller, das heißt dem Wort; wieder ein anderer wird sagen, sie sei von jenem einen Äon gesprochen, der aus der gemeinsamen Anteilgabe der Äonen im Pleroma gebildet wurde; andere werden die Stelle auf Christus beziehen, ein weiterer auf den Erlöser\. Einer wiederum, versierter als diese, erklärt nach lang hingezogenem Schweigen, sie sei von Horos gesprochen; ein anderer, sie bezeichne die Sophia im Inneren des Pleroma; ein anderer, sie kündige die Mutter außerhalb des Pleroma an; wieder ein anderer wird den Gott nennen, der die Welt gemacht hat, den Demiurgen\. Solche Abweichungen bestehen bei ihnen im Blick auf eine einzige Stelle: Sie vertreten über dieselben Schriften widersprüchliche Meinungen\. Und wenn ein und dieselbe Stelle vorgelesen wird, beginnen sie alle, die Augenbrauen zusammenzuziehen und den Kopf zu schütteln, und sagen, sie könnten zwar eine überaus erhabene Darlegung vortragen, aber nicht alle könnten die Größe des darin liegenden Gedankens fassen; darum sei unter den Weisen das Wichtigste das Schweigen\. Denn jene Sige, das Schweigen, die oben ist, müsse durch das Schweigen vorgebildet werden, das sie bewahren\. So gehen sie alle, so viele sie auch sind, auseinander: Sie haben über eine einzige Sache so viele Meinungen und tragen ihre schlauen Einfälle heimlich in sich herum\. Wenn sie sich also untereinander über die Dinge geeinigt haben, die in den Schriften vorhergesagt sind, dann werden sie auch von uns widerlegt werden\. Denn obwohl sie falsche Ansichten vertreten, überführen sie sich inzwischen doch selbst, weil sie bei denselben Worten nicht eines Sinnes sind\. Wir aber folgen dem einen und allein wahren Gott als unserem Lehrer und besitzen seine Worte als Regel der Wahrheit; deshalb sprechen wir alle übereinstimmend über dieselben Dinge, da wir nur einen Gott kennen: den Schöpfer dieses Alls, der die Propheten sandte, der das Volk aus dem Land Ägypten herausführte, der in diesen letzten Zeiten seinen eigenen Sohn offenbarte, damit er die Ungläubigen beschäme und die Frucht der Gerechtigkeit aufspüre\.
+Sie behaupten,
+außer diesen seien noch bestimmte weitere Aussprüche aus dem Pleroma ergangen;
+doch durch die Schriftstellen,
+die von der Ankunft Christi handeln,
+werden sie widerlegt\.
+Was aber diese Aussprüche sind,
+die aus dem Pleroma gesprochen sein sollen,
+darüber sind sie sich nicht einig,
+sondern geben verschiedene Antworten\.
+Denn wenn jemand sie prüfen will und ihre führenden Männer zu irgendeiner Stelle einzeln befragt,
+wird er feststellen,
+dass der eine die betreffende Stelle auf den Propator bezieht,
+das heißt auf Bythus;
+ein anderer schreibt sie Arche zu,
+das heißt dem Eingeborenen;
+ein anderer dem Vater aller,
+das heißt dem Wort;
+wieder ein anderer wird sagen,
+sie sei von jenem einen Äon gesprochen,
+der aus der gemeinsamen Anteilgabe der Äonen im Pleroma gebildet wurde;
+andere werden die Stelle auf Christus beziehen,
+ein weiterer auf den Erlöser\.
+Einer wiederum,
+versierter als diese,
+erklärt nach lang hingezogenem Schweigen,
+sie sei von Horos gesprochen;
+ein anderer,
+sie bezeichne die Sophia im Inneren des Pleroma;
+ein anderer,
+sie kündige die Mutter außerhalb des Pleroma an;
+wieder ein anderer wird den Gott nennen,
+der die Welt gemacht hat,
+den Demiurgen\.
+Solche Abweichungen bestehen bei ihnen im Blick auf eine einzige Stelle:
+Sie vertreten über dieselben Schriften widersprüchliche Meinungen\.
+Und wenn ein und dieselbe Stelle vorgelesen wird,
+beginnen sie alle,
+die Augenbrauen zusammenzuziehen und den Kopf zu schütteln,
+und sagen,
+sie könnten zwar eine überaus erhabene Darlegung vortragen,
+aber nicht alle könnten die Größe des darin liegenden Gedankens fassen;
+darum sei unter den Weisen das Wichtigste das Schweigen\.
+Denn jene Sige,
+das Schweigen,
+die oben ist,
+müsse durch das Schweigen vorgebildet werden,
+das sie bewahren\.
+So gehen sie alle,
+so viele sie auch sind,
+auseinander:
+Sie haben über eine einzige Sache so viele Meinungen und tragen ihre schlauen Einfälle heimlich in sich herum\.
+Wenn sie sich also untereinander über die Dinge geeinigt haben,
+die in den Schriften vorhergesagt sind,
+dann werden sie auch von uns widerlegt werden\.
+Denn obwohl sie falsche Ansichten vertreten,
+überführen sie sich inzwischen doch selbst,
+weil sie bei denselben Worten nicht eines Sinnes sind\.
+Wir aber folgen dem einen und allein wahren Gott als unserem Lehrer und besitzen seine Worte als Regel der Wahrheit;
+deshalb sprechen wir alle übereinstimmend über dieselben Dinge,
+da wir nur einen Gott kennen:
+den Schöpfer dieses Alls,
+der die Propheten sandte,
+der das Volk aus dem Land Ägypten herausführte,
+der in diesen letzten Zeiten seinen eigenen Sohn offenbarte,
+damit er die Ungläubigen beschäme und die Frucht der Gerechtigkeit aufspüre\.
 
 ## Bibelverweise
 

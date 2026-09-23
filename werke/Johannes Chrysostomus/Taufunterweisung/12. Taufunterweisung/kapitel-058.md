@@ -7,6 +7,12 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/12-taufunterweisung#kapitel-f975e82c-2ba8-45f8-a951-08de0016b13a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0942928d66c337eb05317d1f41f405122ed8041503ba24dfe721b69d37613589`
-
-Welcher Strafe wärst du nicht würdig? Du trägst nicht nur Amulette bei dir, sondern sogar Beschwörungsformeln; du holst dir betrunkene und geistlose alte Weiber ins Haus\. Schämtest du dich nicht, errötest du nicht, dass du, nachdem du in der wahren Lehre unterwiesen wurdest, dich von solchen Dingen in Schrecken jagen lässt?
+Welcher Strafe wärst du nicht würdig?
+Du trägst nicht nur Amulette bei dir,
+sondern sogar Beschwörungsformeln;
+du holst dir betrunkene und geistlose alte Weiber ins Haus\.
+Schämtest du dich nicht,
+errötest du nicht,
+dass du,
+nachdem du in der wahren Lehre unterwiesen wurdest,
+dich von solchen Dingen in Schrecken jagen lässt?

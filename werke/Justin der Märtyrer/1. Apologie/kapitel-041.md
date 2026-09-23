@@ -7,9 +7,28 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/1-apologie#kapitel-bb20160b-deb1-4bc9-4f7f-08dd0bd65d0d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:57f6745d1673ca40b4fc64aa524a61f58c3edf0d471d796d26015c7c68ffabfa`
-
-Und erneut hat der Geist der Prophezeiung durch denselben David angedeutet, dass Christus, nachdem Er gekreuzigt worden ist, herrschen wird\. Er sprach folgendermaßen: "Singt dem Herrn, alle Länder, und verkündet Tag für Tag Seine Rettung\. Denn groß ist der Herr und hoch zu loben, zu fürchten über alle Götter\. Denn alle Götter der Nationen sind Götzen der Teufel; aber Gott hat die Himmel gemacht\. Ehre und Lob stehen vor Seinem Angesicht, Stärke und Ruhm sind in der Wohnung Seiner Heiligkeit\. Gebt Ehre dem Herrn, dem ewigen Vater\. Nehmt Gnade an, tretet in Seine Gegenwart ein und betet in Seinen heiligen Höfen\. Lass die ganze Erde vor Seinem Angesicht fürchten; sie soll fest stehen und nicht erschüttert werden\. Lass sie sich unter den Nationen freuen\. Der Herr hat vom Baum her regiert\."[^bible-827cd771-d06e-499f-9c94-0262025a2b92]
+Und erneut hat der Geist der Prophezeiung durch denselben David angedeutet,
+dass Christus,
+nachdem Er gekreuzigt worden ist,
+herrschen wird\.
+Er sprach folgendermaßen:
+"Singt dem Herrn,
+alle Länder,
+und verkündet Tag für Tag Seine Rettung\.
+Denn groß ist der Herr und hoch zu loben,
+zu fürchten über alle Götter\.
+Denn alle Götter der Nationen sind Götzen der Teufel;
+aber Gott hat die Himmel gemacht\.
+Ehre und Lob stehen vor Seinem Angesicht,
+Stärke und Ruhm sind in der Wohnung Seiner Heiligkeit\.
+Gebt Ehre dem Herrn,
+dem ewigen Vater\.
+Nehmt Gnade an,
+tretet in Seine Gegenwart ein und betet in Seinen heiligen Höfen\.
+Lass die ganze Erde vor Seinem Angesicht fürchten;
+sie soll fest stehen und nicht erschüttert werden\.
+Lass sie sich unter den Nationen freuen\.
+Der Herr hat vom Baum her regiert\."[^bible-827cd771-d06e-499f-9c94-0262025a2b92]
 
 ## Bibelverweise
 

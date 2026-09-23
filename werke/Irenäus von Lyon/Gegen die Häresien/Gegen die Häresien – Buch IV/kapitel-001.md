@@ -7,11 +7,78 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-iv#kapitel-a0c14185-60c8-4e8e-037b-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:795bef6e2a02f8d8813d256ed3592ee7e32ce221782d7f370980718c52ebf9a0`
+Da dies also sicher und feststeht:
+dass der Geist keinen anderen Gott oder Herrn verkündet hat als den,
+der als Gott über alles herrscht,
+zusammen mit seinem Wort,
+sowie diejenigen,
+die den Geist der Sohnschaft empfangen,
+das heißt diejenigen,
+die an den einen und wahren Gott und an Jesus Christus,
+den Sohn Gottes,
+glauben;
+ebenso,
+dass die Apostel von sich aus keinen anderen Gott nannten und keinen anderen als Herrn bezeichneten;
+und,
+was noch viel wichtiger ist,
+dass auch unser Herr so gehandelt hat,
+der uns gebot,
+niemanden Vater zu nennen außer dem,
+der in den Himmeln ist[^bible-8db97178-e0ca-4ee3-9c54-6f9a6e1cea7b],
+der der eine Gott und der eine Vater ist:
+darum erweisen sich die Behauptungen,
+die diese Betrüger und höchst verkehrten Sophisten vorbringen,
+klar als falsch\.
+Sie behaupten,
+das Wesen,
+das sie selbst erfunden haben,
+sei von Natur aus Gott und Vater;
+der Demiurg dagegen sei von Natur aus weder Gott noch Vater,
+sondern werde nur der Höflichkeit halber so genannt,
+also nur dem Namen nach,
+weil er über die Schöpfung herrsche\.
+So reden diese verkehrten Mythenerzähler:
+Sie stellen ihre Gedanken gegen Gott,
+legen die Lehre Christi beiseite,
+ersinnen von sich aus Lügen und streiten gegen die ganze Heilsordnung Gottes\.
+Denn sie behaupten,
+auch ihre Äonen,
+Götter,
+Väter und Herren würden darüber hinaus Himmel genannt,
+zusammen mit ihrer Mutter,
+die sie auch „die Erde“ und „Jerusalem“ nennen,
+während sie ihr noch viele andere Namen geben\.
 
-Da dies also sicher und feststeht: dass der Geist keinen anderen Gott oder Herrn verkündet hat als den, der als Gott über alles herrscht, zusammen mit seinem Wort, sowie diejenigen, die den Geist der Sohnschaft empfangen, das heißt diejenigen, die an den einen und wahren Gott und an Jesus Christus, den Sohn Gottes, glauben; ebenso, dass die Apostel von sich aus keinen anderen Gott nannten und keinen anderen als Herrn bezeichneten; und, was noch viel wichtiger ist, dass auch unser Herr so gehandelt hat, der uns gebot, niemanden Vater zu nennen außer dem, der in den Himmeln ist[^bible-8db97178-e0ca-4ee3-9c54-6f9a6e1cea7b], der der eine Gott und der eine Vater ist: darum erweisen sich die Behauptungen, die diese Betrüger und höchst verkehrten Sophisten vorbringen, klar als falsch\. Sie behaupten, das Wesen, das sie selbst erfunden haben, sei von Natur aus Gott und Vater; der Demiurg dagegen sei von Natur aus weder Gott noch Vater, sondern werde nur der Höflichkeit halber so genannt, also nur dem Namen nach, weil er über die Schöpfung herrsche\. So reden diese verkehrten Mythenerzähler: Sie stellen ihre Gedanken gegen Gott, legen die Lehre Christi beiseite, ersinnen von sich aus Lügen und streiten gegen die ganze Heilsordnung Gottes\. Denn sie behaupten, auch ihre Äonen, Götter, Väter und Herren würden darüber hinaus Himmel genannt, zusammen mit ihrer Mutter, die sie auch „die Erde“ und „Jerusalem“ nennen, während sie ihr noch viele andere Namen geben\.
-
-Wem ist nun nicht klar: Wenn der Herr viele Väter und Götter gekannt hätte, hätte er seine Jünger nicht gelehrt, nur einen Gott zu erkennen und ihn allein Vater zu nennen\. Vielmehr unterschied er gerade jene, die nur dem Wort nach, nur dem Namen nach, Götter genannt werden, von dem, der wahrhaft Gott ist, damit sie in seiner Lehre nicht irren und nicht den einen für den anderen halten\. Und wenn er uns tatsächlich gelehrt hätte, ein einziges Wesen Vater und Gott zu nennen, während er selbst hin und wieder andere Väter und Götter im selben Sinn bekennt, dann erschiene er als einer, der seinen Jüngern einen anderen Weg vorschreibt, als er selbst geht\. Ein solches Verhalten aber kennzeichnet keinen guten Lehrer, sondern einen irreführenden und missgünstigen\. Auch die Apostel erweisen sich nach der Darstellung dieser Leute als Übertreter des Gebots, da sie den Schöpfer als Gott, Herrn und Vater bekennen, wie ich gezeigt habe, falls er nicht allein Gott und Vater ist\. Für sie wäre Jesus also der Urheber und Lehrer einer solchen Übertretung, weil er geboten hat, ein einziges Wesen Vater zu nennen, und ihnen damit die Notwendigkeit auferlegt hätte, den Schöpfer als ihren Vater zu bekennen, wie bereits dargelegt wurde\.
+Wem ist nun nicht klar:
+Wenn der Herr viele Väter und Götter gekannt hätte,
+hätte er seine Jünger nicht gelehrt,
+nur einen Gott zu erkennen und ihn allein Vater zu nennen\.
+Vielmehr unterschied er gerade jene,
+die nur dem Wort nach,
+nur dem Namen nach,
+Götter genannt werden,
+von dem,
+der wahrhaft Gott ist,
+damit sie in seiner Lehre nicht irren und nicht den einen für den anderen halten\.
+Und wenn er uns tatsächlich gelehrt hätte,
+ein einziges Wesen Vater und Gott zu nennen,
+während er selbst hin und wieder andere Väter und Götter im selben Sinn bekennt,
+dann erschiene er als einer,
+der seinen Jüngern einen anderen Weg vorschreibt,
+als er selbst geht\.
+Ein solches Verhalten aber kennzeichnet keinen guten Lehrer,
+sondern einen irreführenden und missgünstigen\.
+Auch die Apostel erweisen sich nach der Darstellung dieser Leute als Übertreter des Gebots,
+da sie den Schöpfer als Gott,
+Herrn und Vater bekennen,
+wie ich gezeigt habe,
+falls er nicht allein Gott und Vater ist\.
+Für sie wäre Jesus also der Urheber und Lehrer einer solchen Übertretung,
+weil er geboten hat,
+ein einziges Wesen Vater zu nennen,
+und ihnen damit die Notwendigkeit auferlegt hätte,
+den Schöpfer als ihren Vater zu bekennen,
+wie bereits dargelegt wurde\.
 
 ## Bibelverweise
 

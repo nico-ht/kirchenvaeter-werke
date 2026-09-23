@@ -7,6 +7,7 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-26c82492-e445-44c4-768d-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ca440157155c755a42f1089db96f856dfd587073d5e282da26122f6ceff6c195`
-
-O seltsames und unaussprechliches Mysterium\! Das Schlachten der Schafe war Israels Heil, und der Tod der Schafe war Leben für das Volk, und das Blut wendete den Engel ab\.
+O seltsames und unaussprechliches Mysterium\!
+Das Schlachten der Schafe war Israels Heil,
+und der Tod der Schafe war Leben für das Volk,
+und das Blut wendete den Engel ab\.

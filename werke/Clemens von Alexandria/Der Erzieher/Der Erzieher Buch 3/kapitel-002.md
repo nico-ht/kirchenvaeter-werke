@@ -7,17 +7,418 @@ Autor: Clemens von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-alexandria/der-erzieher-buch-3#kapitel-69da62f5-0d1d-4d3a-b96b-08df128edadb).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0c4c375711606d2505dc712dd17224d19d4abbde81b1e0bc354b6190cc0bc04d`
+Nicht die äußere Erscheinung des Menschen soll also verschönert werden,
+sondern die Seele muss mit Güte und edlem Charakter geschmückt werden\.[^bible-8a2c36ac-eced-4c35-9a3f-c298b436c7ce]
+Man könnte sogar sagen,
+der Schmuck des Körpers sollte die Selbstbeherrschung sein\.
+Frauen aber,
+die nur ihr Äußeres schmücken und ihr Innerstes vernachlässigen,
+haben sich selbst vergessen\.
+Sie gleichen den Ägyptern,
+die ihre Tempel schmücken\.
+Deren Tore und Außenmauern sind prächtig gestaltet,
+mit Hainen und Gärten und unzähligen Säulen,
+die von Zierrat gekrönt sind\.
+Fremdländische Steine und kunstvolle Arbeiten verleihen den Wänden Glanz;
+es fehlt an nichts\.
+Ihre Tempel funkeln von Gold,
+Silber und Elektrum und leuchten von Steinchen aus Indien und Äthiopien\.
+Goldene Wandbehänge beschatten ihre innersten Heiligtümer\.
+Wenn du aber in den Innenhof des Tempels gehst,
+voller Verlangen,
+etwas Größeres zu sehen,
+und darum bittest,
+den Gott zu sehen,
+der im Tempel wohnt,
+zieht vielleicht ein Tempeldiener oder einer der Diener des Heiligtums den Vorhang ein wenig zurück\.
+Er gibt sich dabei sehr ernst und singt auf Ägyptisch,
+als wollte er dir den Gott zeigen\.
+Doch zum Vorschein kommt nur etwas Lächerliches statt etwas Heiligem\.
+Denn den Gott,
+den du im Innern suchst,
+wirst du nicht finden\.
+Stattdessen siehst du vielleicht eine Katze,
+ein Krokodil,
+eine einheimische Schlange oder irgendein anderes Tier,
+das eines Tempels unwürdig ist und eher in einen Graben,
+ein Loch oder einen Sumpf gehört\.
+Der ägyptische Gott erweist sich als wildes Tier,
+das sich auf einem purpurgefärbten Ruhebett wälzt\.
+Daran denke ich bei Frauen,
+die Gold tragen,
+ihr Haar in enge Locken drehen,
+ihre Wangen mit Cremes einreiben,
+ihre Augen umranden,
+ihr Haar färben und allerlei dumme Kunstgriffe ersinnen\.
+Sie schmücken den Körper wie einen Tempelbezirk,
+werden den Ägyptern tatsächlich gleich und versuchen,
+abergläubige Liebhaber anzulocken\.
+Wenn aber jemand den Vorhang des Tempels hebt,
+also den Kopfschmuck,
+die Farbe,
+die Kleidung,
+das Gold,
+die Wangenröte,
+die Duftstoffe und den ganzen Aufputz entfernt,
+der verbirgt,
+was wirklich da ist,
+dann wird er die wahre Schönheit im Innern abstoßend finden,
+da bin ich sicher\.
+Denn er wird dort nicht das ehrwürdige Bild Gottes[^bible-76cf8b2b-7756-4940-8cc6-03aaab3d8739] wohnen sehen;
+stattdessen hat eine Hure oder Ehebrecherin das innere Heiligtum der Seele in Besitz genommen\.
+Das wirkliche Tier kommt zum Vorschein:
+ein mit Schminke beschmierter Affe\.
+Und jene trügerische Schlange vom Anfang[^bible-bcd875a0-7e45-47db-b583-69002633f0d7],
+die durch Hochmut den vernünftigen Teil des Menschen zerfrisst,
+hält die Seele wie eine Schlammgrube besetzt\.
+Sie hat sie mit tödlichen Giften gefüllt und das Gift der Täuschung ausgehaucht und macht so Frauen zu Huren:
+Sie ist der Drache,
+der als Zuhälter wirkt\.
+Denn hier geht es nicht um die Liebe zur wahren Weiblichkeit,
+sondern um die Liebe zur Weltlichkeit\.
+Diese Frauen kümmern sich kaum um ihren Haushalt\.
+Sobald sie den Geldbeutel ihres Mannes geöffnet haben,
+geben sie das Geld aus,
+um ihre Begierden zu befriedigen und so viele Bewunderer zu gewinnen,
+die ihnen sagen,
+wie schön sie aussehen\.
 
-Nicht die äußere Erscheinung des Menschen soll also verschönert werden, sondern die Seele muss mit Güte und edlem Charakter geschmückt werden\.[^bible-8a2c36ac-eced-4c35-9a3f-c298b436c7ce] Man könnte sogar sagen, der Schmuck des Körpers sollte die Selbstbeherrschung sein\. Frauen aber, die nur ihr Äußeres schmücken und ihr Innerstes vernachlässigen, haben sich selbst vergessen\. Sie gleichen den Ägyptern, die ihre Tempel schmücken\. Deren Tore und Außenmauern sind prächtig gestaltet, mit Hainen und Gärten und unzähligen Säulen, die von Zierrat gekrönt sind\. Fremdländische Steine und kunstvolle Arbeiten verleihen den Wänden Glanz; es fehlt an nichts\. Ihre Tempel funkeln von Gold, Silber und Elektrum und leuchten von Steinchen aus Indien und Äthiopien\. Goldene Wandbehänge beschatten ihre innersten Heiligtümer\. Wenn du aber in den Innenhof des Tempels gehst, voller Verlangen, etwas Größeres zu sehen, und darum bittest, den Gott zu sehen, der im Tempel wohnt, zieht vielleicht ein Tempeldiener oder einer der Diener des Heiligtums den Vorhang ein wenig zurück\. Er gibt sich dabei sehr ernst und singt auf Ägyptisch, als wollte er dir den Gott zeigen\. Doch zum Vorschein kommt nur etwas Lächerliches statt etwas Heiligem\. Denn den Gott, den du im Innern suchst, wirst du nicht finden\. Stattdessen siehst du vielleicht eine Katze, ein Krokodil, eine einheimische Schlange oder irgendein anderes Tier, das eines Tempels unwürdig ist und eher in einen Graben, ein Loch oder einen Sumpf gehört\. Der ägyptische Gott erweist sich als wildes Tier, das sich auf einem purpurgefärbten Ruhebett wälzt\. Daran denke ich bei Frauen, die Gold tragen, ihr Haar in enge Locken drehen, ihre Wangen mit Cremes einreiben, ihre Augen umranden, ihr Haar färben und allerlei dumme Kunstgriffe ersinnen\. Sie schmücken den Körper wie einen Tempelbezirk, werden den Ägyptern tatsächlich gleich und versuchen, abergläubige Liebhaber anzulocken\. Wenn aber jemand den Vorhang des Tempels hebt, also den Kopfschmuck, die Farbe, die Kleidung, das Gold, die Wangenröte, die Duftstoffe und den ganzen Aufputz entfernt, der verbirgt, was wirklich da ist, dann wird er die wahre Schönheit im Innern abstoßend finden, da bin ich sicher\. Denn er wird dort nicht das ehrwürdige Bild Gottes[^bible-76cf8b2b-7756-4940-8cc6-03aaab3d8739] wohnen sehen; stattdessen hat eine Hure oder Ehebrecherin das innere Heiligtum der Seele in Besitz genommen\. Das wirkliche Tier kommt zum Vorschein: ein mit Schminke beschmierter Affe\. Und jene trügerische Schlange vom Anfang[^bible-bcd875a0-7e45-47db-b583-69002633f0d7], die durch Hochmut den vernünftigen Teil des Menschen zerfrisst, hält die Seele wie eine Schlammgrube besetzt\. Sie hat sie mit tödlichen Giften gefüllt und das Gift der Täuschung ausgehaucht und macht so Frauen zu Huren: Sie ist der Drache, der als Zuhälter wirkt\. Denn hier geht es nicht um die Liebe zur wahren Weiblichkeit, sondern um die Liebe zur Weltlichkeit\. Diese Frauen kümmern sich kaum um ihren Haushalt\. Sobald sie den Geldbeutel ihres Mannes geöffnet haben, geben sie das Geld aus, um ihre Begierden zu befriedigen und so viele Bewunderer zu gewinnen, die ihnen sagen, wie schön sie aussehen\.
+Den ganzen Tag sitzen sie beim Friseur herum und verbringen ihre Zeit mit jungen Sklavinnen,
+die für Silber gekauft wurden\.
+Es ist wie mit einem bitteren Gericht,
+das der Zunge schmeichelt,
+aber dem Körper schadet:
+Diese Frauen verbringen den ganzen Tag damit,
+sich die Haare machen zu lassen,
+und verstecken sich im Haus,
+damit niemand sie sieht,
+während sie sich bleichen\.
+Abends kriecht dann ihre falsche Schönheit hervor,
+wie etwas,
+das aus einem Loch zum Lampenlicht krabbelt\.
+Trunkenheit und Dämmerlicht helfen ihnen beim Verführen\.
+Der Komödiendichter Menander sagt sogar,
+man solle eine Frau,
+die sich die Haare gelb färbt,
+aus dem Haus werfen:
+„Nun hinaus aus diesem Haus\!
+Eine anständige Ehefrau soll sich weder die Haare blond färben noch die Wangen bemalen oder die Augen umranden\.“
+Doch diese elenden Frauen merken nicht einmal,
+dass sie ihre natürliche Schönheit zerstören,
+indem sie ihr Fremdes aufzwingen\.
+Den ganzen Tag wird an ihnen gezupft und gerieben,
+werden sie mit Pasten bestrichen\.
+Sie machen ihre Haut dünn,
+schädigen ihr Fleisch mit chemischen Mitteln und nehmen ihrer natürlichen Blüte durch übertriebene Pflege den Glanz\.
+So werden sie von der Schminke blass und anfällig für Krankheiten,
+und ihre Körper verfallen\.
+Mit ihren bemalten Gesichtern entehren sie den Gott,
+der sie geschaffen hat,
+als wäre Schönheit kein wertvolles Geschenk\.
+Natürlich vernachlässigen sie dann aus Faulheit ihre häuslichen Pflichten und sitzen herum wie Gemälde,
+die zum Betrachten da sind und nicht für wirkliche Arbeit geschaffen wurden\.
+Deshalb sagt eine nachdenkliche Frau in einer Komödie:
+„Was könnten wir Frauen schon Kluges oder Edles tun,
+wenn wir hier mit gefärbten Haaren herumsitzen,
+den guten Ruf ehrbarer Frauen zerstören,
+Häuser auf den Kopf stellen,
+Ehen zerbrechen und uneheliche Kinder einschleusen?“
+Auch der Komödiendichter Antiphanes verspottet dieses hurenhafte Verhalten in seinem Stück Malthake\.
+Er macht sich darüber lustig,
+wie Frauen immer dieselben abgedroschenen Wendungen zum Verführen gebrauchen\.
+Er sagt:
+„Sie kommt,
+dann geht sie wieder,
+dann kommt sie wieder,
+geht wieder\.
+Sie trifft ein,
+sie ist da,
+sie wirft sich hin und her,
+sie kommt näher\.
+Sie wird abgerieben,
+gekämmt,
+sie tritt vor,
+sie wird massiert\.
+Sie badet,
+betrachtet sich im Spiegel,
+putzt sich heraus,
+parfümiert sich\.
+Sie schmückt sich,
+sie ölt sich ein\.
+Und wenn sie nicht bekommt,
+was sie will,
+hängt sie sich auf\.“
+Diese Frauen verdienen es,
+dreimal verurteilt zu werden,
+nicht nur einmal:
+Sie beschmieren sich mit Krokodilkot und ranzigen Ölen,
+schwärzen ihre Augenbrauen mit Ruß und reiben sich Bleiweiß auf die Wangen\.
+Für ihre Aufmachung ernten sie sogar Lob von heidnischen Dichtern\.
+Wie sollten sie da nicht von der Wahrheit ausgeschlossen werden?
+Auch ein anderer Komödiendichter,
+Alexis,
+stellt sie bloß\.
+Ich werde seine Worte anführen,
+obwohl sie hart sind,
+denn sie zeigen,
+wie schamlos diese Frauen sind\.
+Er war nicht übermäßig empfindlich;
+mir aber ist es peinlich,
+auch nur auszusprechen,
+wie tief diese Frauen in der Komödie herabgezogen werden:
+Frauen,
+die zunächst „Helferinnen[^bible-5c6bb492-10aa-494d-83d6-331f33900afd] “ sind und am Ende sogar ihre Männer zugrunde richten\.
+„Zunächst wird alles andere,
+was sie tun,
+zweitrangig,
+weil sie Gewinn machen und andere berauben wollen\.
+Ist die eine klein,
+legt sie sich Kork in die Schuhe,
+um größer zu wirken\.
+Eine andere ist groß;
+sie trägt deshalb Schuhe mit dünnen Sohlen und neigt den Kopf zur Schulter,
+um kleiner zu erscheinen\.
+Wieder eine andere hat kaum Hüften und näht sich deshalb in enge Kleider ein,
+um ihr Hinterteil hervorzuheben\.
+Eine andere hat einen ausgeprägten Bauch und trägt deshalb falsche Brüste,
+wie sie die Komödiendichter verspotten\.
 
-Den ganzen Tag sitzen sie beim Friseur herum und verbringen ihre Zeit mit jungen Sklavinnen, die für Silber gekauft wurden\. Es ist wie mit einem bitteren Gericht, das der Zunge schmeichelt, aber dem Körper schadet: Diese Frauen verbringen den ganzen Tag damit, sich die Haare machen zu lassen, und verstecken sich im Haus, damit niemand sie sieht, während sie sich bleichen\. Abends kriecht dann ihre falsche Schönheit hervor, wie etwas, das aus einem Loch zum Lampenlicht krabbelt\. Trunkenheit und Dämmerlicht helfen ihnen beim Verführen\. Der Komödiendichter Menander sagt sogar, man solle eine Frau, die sich die Haare gelb färbt, aus dem Haus werfen: „Nun hinaus aus diesem Haus\! Eine anständige Ehefrau soll sich weder die Haare blond färben noch die Wangen bemalen oder die Augen umranden\.“ Doch diese elenden Frauen merken nicht einmal, dass sie ihre natürliche Schönheit zerstören, indem sie ihr Fremdes aufzwingen\. Den ganzen Tag wird an ihnen gezupft und gerieben, werden sie mit Pasten bestrichen\. Sie machen ihre Haut dünn, schädigen ihr Fleisch mit chemischen Mitteln und nehmen ihrer natürlichen Blüte durch übertriebene Pflege den Glanz\. So werden sie von der Schminke blass und anfällig für Krankheiten, und ihre Körper verfallen\. Mit ihren bemalten Gesichtern entehren sie den Gott, der sie geschaffen hat, als wäre Schönheit kein wertvolles Geschenk\. Natürlich vernachlässigen sie dann aus Faulheit ihre häuslichen Pflichten und sitzen herum wie Gemälde, die zum Betrachten da sind und nicht für wirkliche Arbeit geschaffen wurden\. Deshalb sagt eine nachdenkliche Frau in einer Komödie: „Was könnten wir Frauen schon Kluges oder Edles tun, wenn wir hier mit gefärbten Haaren herumsitzen, den guten Ruf ehrbarer Frauen zerstören, Häuser auf den Kopf stellen, Ehen zerbrechen und uneheliche Kinder einschleusen?“ Auch der Komödiendichter Antiphanes verspottet dieses hurenhafte Verhalten in seinem Stück Malthake\. Er macht sich darüber lustig, wie Frauen immer dieselben abgedroschenen Wendungen zum Verführen gebrauchen\. Er sagt: „Sie kommt, dann geht sie wieder, dann kommt sie wieder, geht wieder\. Sie trifft ein, sie ist da, sie wirft sich hin und her, sie kommt näher\. Sie wird abgerieben, gekämmt, sie tritt vor, sie wird massiert\. Sie badet, betrachtet sich im Spiegel, putzt sich heraus, parfümiert sich\. Sie schmückt sich, sie ölt sich ein\. Und wenn sie nicht bekommt, was sie will, hängt sie sich auf\.“ Diese Frauen verdienen es, dreimal verurteilt zu werden, nicht nur einmal: Sie beschmieren sich mit Krokodilkot und ranzigen Ölen, schwärzen ihre Augenbrauen mit Ruß und reiben sich Bleiweiß auf die Wangen\. Für ihre Aufmachung ernten sie sogar Lob von heidnischen Dichtern\. Wie sollten sie da nicht von der Wahrheit ausgeschlossen werden? Auch ein anderer Komödiendichter, Alexis, stellt sie bloß\. Ich werde seine Worte anführen, obwohl sie hart sind, denn sie zeigen, wie schamlos diese Frauen sind\. Er war nicht übermäßig empfindlich; mir aber ist es peinlich, auch nur auszusprechen, wie tief diese Frauen in der Komödie herabgezogen werden: Frauen, die zunächst „Helferinnen[^bible-5c6bb492-10aa-494d-83d6-331f33900afd] “ sind und am Ende sogar ihre Männer zugrunde richten\. „Zunächst wird alles andere, was sie tun, zweitrangig, weil sie Gewinn machen und andere berauben wollen\. Ist die eine klein, legt sie sich Kork in die Schuhe, um größer zu wirken\. Eine andere ist groß; sie trägt deshalb Schuhe mit dünnen Sohlen und neigt den Kopf zur Schulter, um kleiner zu erscheinen\. Wieder eine andere hat kaum Hüften und näht sich deshalb in enge Kleider ein, um ihr Hinterteil hervorzuheben\. Eine andere hat einen ausgeprägten Bauch und trägt deshalb falsche Brüste, wie sie die Komödiendichter verspotten\.
+Diese Hilfsmittel binden sie sich um den Bauch,
+sodass sie wie kleine Stangen nach vorn abstehen\.
+Eine hat rote Augenbrauen;
+die werden mit Ruß bemalt\.
+Eine andere ist von Natur aus dunkelhäutig und macht sich deshalb mit Bleiweiß hell\.
+Wieder eine andere ist zu blass und trägt deshalb etwas auf,
+das sie kindlicher aussehen lässt\.
+Hat sie etwas Schönes an sich,
+stellt sie es zur Schau\.
+Hat sie schöne Zähne,
+muss sie oft lachen,
+damit alle sehen können,
+wie reizvoll ihr Mund ist\.
+Und wenn sie nicht gern lacht,
+hält sie den ganzen Tag ein dünnes,
+gerades Stäbchen aus Myrrhenholz zwischen den Lippen,
+sodass ihr Mund ständig lächelt,
+ob sie will oder nicht\.“
+Ich lege euch diese Worte vor,
+um euch von der weltlichen,
+trügerischen Sucht nach Schönheit abzubringen,
+die nicht aus göttlicher Weisheit,
+sondern aus weltlicher Schläue stammt\.
+Das Wort,
+das uns ganz und gar retten wollte,
+hat gesprochen\.
+Bald werde ich mich auch der göttlichen Schrift zuwenden\.
+Scham hält uns oft vom Unrecht ab,
+wenn wir für die Zurechtweisung nicht blind sind\.
+Wie eine verbundene Hand oder ein mit Salbe bedecktes Auge schon beim bloßen Anblick erkennen lässt,
+dass im Inneren etwas krank ist,
+so deuten auch Schminke und Färbemittel darauf hin,
+dass tief in der Seele etwas krank ist\.
+Unser göttlicher Lehrer warnt uns davor,
+„am fremden Fluss vorbeizugehen[^bible-02c75833-9caa-4688-a4d9-7e35b4480632] “\.
+Damit meint er die sittenlose Frau\.
+Er nennt sie einen „fremden Fluss[^bible-02c75833-9caa-4688-a4d9-7e35b4480632] “,
+weil sie jedem zuströmt und mit ihrer zügellosen,
+lüsternen Ausschweifung alle durchströmt\.
+„Haltet euch von fremdem Wasser fern[^bible-02c75833-9caa-4688-a4d9-7e35b4480632] “,
+heißt es,
+„und trinkt nicht aus einer fremden Quelle[^bible-02c75833-9caa-4688-a4d9-7e35b4480632] “\.
+Damit werden wir ermahnt,
+den Strom der Genusssucht zu meiden,
+„damit wir lange leben und uns Jahre hinzugefügt werden[^bible-02c75833-9caa-4688-a4d9-7e35b4480632] “\.
+Das kann sich entweder auf das Meiden fremder Genüsse oder auf das Meiden von Häresien beziehen\.
+Geldliebe und Weinliebe sind starke Leidenschaften,
+doch sie sind nicht so groß wie die Sucht nach Schönheit\.
+Ein Tisch voller Speisen und kreisende Becher können die gierige Esslust stillen\.
+Wer aber Gold,
+Purpur und Edelsteine liebt,
+dem reicht nicht einmal alles Gold über und unter der Erde,
+weder das Meer bei Tyrus noch die Fracht aus Indien und Äthiopien,
+nicht einmal der Reichtum des Flusses Paktolos\.
+Selbst wenn einer von ihnen zu einem zweiten Midas würde,
+wäre er noch immer nicht zufrieden;
+er wäre noch immer arm und würde nach weiterem Reichtum verlangen\.
+Diese Menschen sind bereit,
+zusammen mit ihrem Gold zu sterben\.
+Und wenn der Reichtum blind ist,
+wie sollten dann diejenigen nicht auch blind sein,
+die in ihm gefangen sind und ihm anhängen?
+Weil ihre Begierden keine Grenzen kennen,
+stürzen sie sich in die Schamlosigkeit\.
+Sie müssen im Theater sein,
+bei Festen,
+in der Menge der Zuschauer,
+müssen in Tempeln umherstreifen und auf öffentlichen Straßen müßig verweilen,
+um von allen gesehen zu werden\.
+Sie putzen sich heraus,
+um anderen zu gefallen,
+stellen ihre Gesichter zur Schau und kümmern sich nicht um ihre Herzen\.
+Wie man einen entlaufenen Sklaven an seinem Brandmal erkennt,
+so kennzeichnet auch die Schminke eine Ehebrecherin\.
+„Selbst wenn du dich in Rot kleidest[^bible-9df14357-230e-46b2-892c-b93950d3e09f] “,
+sagt die Schrift,
+„dich mit Gold schmückst und deine Augen mit Kajal bemalst,
+machst du dich vergeblich schön[^bible-9df14357-230e-46b2-892c-b93950d3e09f] “\.
+Das sagt Gott durch Jeremia\.
+Ist es nicht seltsam,
+dass Pferde,
+Vögel und andere Tiere sich an ihrem eigenen natürlichen Schmuck aus Gras und Feld erfreuen,
+an ihren Mähnen,
+Farben und Federn,
+während Frauen sich für geringer als die Tiere halten,
+wenn sie nicht zu künstlicher Schönheit greifen,
+die sie kaufen und aufmalen?
 
-Diese Hilfsmittel binden sie sich um den Bauch, sodass sie wie kleine Stangen nach vorn abstehen\. Eine hat rote Augenbrauen; die werden mit Ruß bemalt\. Eine andere ist von Natur aus dunkelhäutig und macht sich deshalb mit Bleiweiß hell\. Wieder eine andere ist zu blass und trägt deshalb etwas auf, das sie kindlicher aussehen lässt\. Hat sie etwas Schönes an sich, stellt sie es zur Schau\. Hat sie schöne Zähne, muss sie oft lachen, damit alle sehen können, wie reizvoll ihr Mund ist\. Und wenn sie nicht gern lacht, hält sie den ganzen Tag ein dünnes, gerades Stäbchen aus Myrrhenholz zwischen den Lippen, sodass ihr Mund ständig lächelt, ob sie will oder nicht\.“ Ich lege euch diese Worte vor, um euch von der weltlichen, trügerischen Sucht nach Schönheit abzubringen, die nicht aus göttlicher Weisheit, sondern aus weltlicher Schläue stammt\. Das Wort, das uns ganz und gar retten wollte, hat gesprochen\. Bald werde ich mich auch der göttlichen Schrift zuwenden\. Scham hält uns oft vom Unrecht ab, wenn wir für die Zurechtweisung nicht blind sind\. Wie eine verbundene Hand oder ein mit Salbe bedecktes Auge schon beim bloßen Anblick erkennen lässt, dass im Inneren etwas krank ist, so deuten auch Schminke und Färbemittel darauf hin, dass tief in der Seele etwas krank ist\. Unser göttlicher Lehrer warnt uns davor, „am fremden Fluss vorbeizugehen[^bible-02c75833-9caa-4688-a4d9-7e35b4480632] “\. Damit meint er die sittenlose Frau\. Er nennt sie einen „fremden Fluss[^bible-02c75833-9caa-4688-a4d9-7e35b4480632] “, weil sie jedem zuströmt und mit ihrer zügellosen, lüsternen Ausschweifung alle durchströmt\. „Haltet euch von fremdem Wasser fern[^bible-02c75833-9caa-4688-a4d9-7e35b4480632] “, heißt es, „und trinkt nicht aus einer fremden Quelle[^bible-02c75833-9caa-4688-a4d9-7e35b4480632] “\. Damit werden wir ermahnt, den Strom der Genusssucht zu meiden, „damit wir lange leben und uns Jahre hinzugefügt werden[^bible-02c75833-9caa-4688-a4d9-7e35b4480632] “\. Das kann sich entweder auf das Meiden fremder Genüsse oder auf das Meiden von Häresien beziehen\. Geldliebe und Weinliebe sind starke Leidenschaften, doch sie sind nicht so groß wie die Sucht nach Schönheit\. Ein Tisch voller Speisen und kreisende Becher können die gierige Esslust stillen\. Wer aber Gold, Purpur und Edelsteine liebt, dem reicht nicht einmal alles Gold über und unter der Erde, weder das Meer bei Tyrus noch die Fracht aus Indien und Äthiopien, nicht einmal der Reichtum des Flusses Paktolos\. Selbst wenn einer von ihnen zu einem zweiten Midas würde, wäre er noch immer nicht zufrieden; er wäre noch immer arm und würde nach weiterem Reichtum verlangen\. Diese Menschen sind bereit, zusammen mit ihrem Gold zu sterben\. Und wenn der Reichtum blind ist, wie sollten dann diejenigen nicht auch blind sein, die in ihm gefangen sind und ihm anhängen? Weil ihre Begierden keine Grenzen kennen, stürzen sie sich in die Schamlosigkeit\. Sie müssen im Theater sein, bei Festen, in der Menge der Zuschauer, müssen in Tempeln umherstreifen und auf öffentlichen Straßen müßig verweilen, um von allen gesehen zu werden\. Sie putzen sich heraus, um anderen zu gefallen, stellen ihre Gesichter zur Schau und kümmern sich nicht um ihre Herzen\. Wie man einen entlaufenen Sklaven an seinem Brandmal erkennt, so kennzeichnet auch die Schminke eine Ehebrecherin\. „Selbst wenn du dich in Rot kleidest[^bible-9df14357-230e-46b2-892c-b93950d3e09f] “, sagt die Schrift, „dich mit Gold schmückst und deine Augen mit Kajal bemalst, machst du dich vergeblich schön[^bible-9df14357-230e-46b2-892c-b93950d3e09f] “\. Das sagt Gott durch Jeremia\. Ist es nicht seltsam, dass Pferde, Vögel und andere Tiere sich an ihrem eigenen natürlichen Schmuck aus Gras und Feld erfreuen, an ihren Mähnen, Farben und Federn, während Frauen sich für geringer als die Tiere halten, wenn sie nicht zu künstlicher Schönheit greifen, die sie kaufen und aufmalen?
+Mit Kopftüchern,
+kunstvollen Frisuren und auf unzählige Arten zurechtgemachtem Haar,
+mit teuren Spiegeln und all den Werkzeugen,
+mit denen sie ihre Gesichter formen,
+machen sie Jagd auf Männer,
+die wie dumme Jungen vom Aussehen besessen sind\.
+Diese Frauen kennen keine Scham\.
+Mit Recht kann man sie nicht Ehefrauen,
+sondern Kurtisanen nennen,
+denn sie machen ihre Gesichter zu Masken\.
+Das Wort aber sagt uns:
+„Richtet euren Blick nicht auf das Sichtbare,
+sondern auf das Unsichtbare\.
+Denn das Sichtbare ist vergänglich,
+das Unsichtbare aber ist ewig\.[^bible-7ff54cd0-9560-4856-9a61-e1d2f103202b]
+“ Noch schlimmer ist,
+dass manche Frauen ihr künstliches Aussehen für eine große Leistung oder eine Verbesserung ihrer Moral halten und den Spiegel betrachten,
+als wäre er ein Beweis ihrer Tugend,
+obwohl er eigentlich dazu dienen sollte,
+die Täuschung zu verdecken\.
+Nicht einmal Narziss im griechischen Mythos verliebte sich mehr in sein eigenes Spiegelbild als diese Frauen\.
+Wenn nun Mose den Menschen gebot,
+keine Bilder als Nachahmung Gottes anzufertigen[^bible-feb176ca-67d7-4603-8558-03d479d753c0],
+mit welchem Recht schaffen sich diese Frauen dann falsche Bilder ihrer selbst im Spiegel und verfälschen ihre Gesichter?
+Selbst der Prophet Samuel sah,
+als er ausgesandt wurde,
+einen der Söhne Isais zum König zu salben,
+den ältesten Sohn,
+schön und groß gewachsen,
+und war bereit,
+ihn zu salben[^bible-680bfdd6-6759-44f1-8f43-243f2d330671]\.
+Doch der Herr sagte zu ihm:
+„Sieh nicht auf sein Aussehen oder seine Größe,
+denn ich habe ihn verworfen\.
+Der Mensch sieht auf das Äußere,
+der Herr aber sieht auf das Herz\.[^bible-4d30358c-5423-4e57-999f-ac19fb49c691]
+“ So salbte Samuel nicht den mit dem schönen Körper,
+sondern den mit der schönen Seele\.
+Wenn der Herr die natürliche Schönheit des Körpers geringer achtet als die Schönheit der Seele,
+was,
+meint ihr,
+hält er dann von künstlicher Schönheit?
+Er lehnt jede Lüge uneingeschränkt ab\.
+„Denn wir gehen unseren Weg im Glauben,
+nicht nach dem äußeren Anschein\.[^bible-dfa7f07a-2df0-4e75-93a3-46bfdf6aa22c]
+“ Der Herr lehrt also durch Abraham deutlich,
+dass jeder,
+der Gott folgt,
+Heimat,
+Familie,
+Besitz und Reichtum verachten muss\.
+Gott machte Abraham zu einem Wanderer[^bible-f2074eec-5e9c-4ba9-a16b-def396bd43d5] und nannte ihn deshalb „Freund[^bible-5c5b3578-deac-4d33-bf80-5f694fdb37ba] “,
+weil er seinen Grundbesitz in der Heimat aufgegeben hatte\.
+Er stammte aus einer vornehmen Familie und war sehr reich[^bible-2385ce75-5876-4d28-9898-32392836d759]\.
+Mit 318 seiner eigenen Diener besiegte er die vier Könige,
+die Lot gefangen genommen hatten\.[^bible-0fab117d-7a38-46a5-a715-3a35545d7fb6]
+Unter den Frauen findet sich nur Ester,
+die sich mit Recht schmückte\.
+Sie machte sich in aller Stille für ihren eigenen Mann,
+den König,
+schön[^bible-1d0906e9-da07-4696-b940-432a06569324],
+doch ihre Schönheit wurde zum Preis für die Rettung ihres Volkes vor der Vernichtung[^bible-ea547cee-6808-4060-bb45-016d90d3b07a]\.
+Dass gerade die Schminke Frauen zu Kurtisanen und Männer zu schwächlichen,
+ehebrecherischen Gestalten macht,
+zeigen sogar die Tragödiendichter\.
+Einer sagt über Paris:
+„Aus Phrygien kehrte er zurück,
+der über die Göttinnen geurteilt hatte,
+wie der Mythos von Argos erzählt\.
+Er kam nach Sparta,
+in blumengeschmückte Gewänder gekleidet,
+in Gold erstrahlend,
+in fremdländischem Luxus\.
+Von Liebe ergriffen,
+raubte er die Frau,
+die ihn liebte,
+Helena,
+und brachte sie auf die Weiden des Idagebirges,
+während Menelaos fern von zu Hause war\.“
+O welch ehebrecherische Schönheit\!
+Griechenland wurde durch fremdländische Weltliebe und weibischen Luxus zu Fall gebracht\.
+Die spartanische Sittsamkeit wurde durch prunkvolle Kleider,
+Genusssucht und jugendliche Schönheit zerstört\.
+Diese fremdländischen,
+weltlichen Moden stellten die Tochter des Zeus zur Schau,
+als wäre sie nur eine Kurtisane\.
+Unter ihnen gab es keinen Lehrer,
+der ihre Begierden gezügelt hätte,
+niemanden,
+der sagte:
+„Du sollst nicht die Ehe brechen[^bible-8d5046e0-7d1b-496c-8151-c915e02c301e] “,
+oder:
+„Du sollst nicht begehren[^bible-f37e4c0a-637f-4223-aaaa-b52941d80e0f] “,
+oder:
+„Lass dich nicht durch Begierde zum Ehebruch führen\.[^bible-97f2f73f-e7e8-4bd8-9b1c-1cd1109bee02]
+“ Stattdessen warnte sie nicht einmal jemand davor,
+ihre Begierden durch die Liebe zu weltlichen Dingen anzufachen\.
+Was für ein Ende nahm ein solches Verhalten\!
 
-Mit Kopftüchern, kunstvollen Frisuren und auf unzählige Arten zurechtgemachtem Haar, mit teuren Spiegeln und all den Werkzeugen, mit denen sie ihre Gesichter formen, machen sie Jagd auf Männer, die wie dumme Jungen vom Aussehen besessen sind\. Diese Frauen kennen keine Scham\. Mit Recht kann man sie nicht Ehefrauen, sondern Kurtisanen nennen, denn sie machen ihre Gesichter zu Masken\. Das Wort aber sagt uns: „Richtet euren Blick nicht auf das Sichtbare, sondern auf das Unsichtbare\. Denn das Sichtbare ist vergänglich, das Unsichtbare aber ist ewig\.[^bible-7ff54cd0-9560-4856-9a61-e1d2f103202b] “ Noch schlimmer ist, dass manche Frauen ihr künstliches Aussehen für eine große Leistung oder eine Verbesserung ihrer Moral halten und den Spiegel betrachten, als wäre er ein Beweis ihrer Tugend, obwohl er eigentlich dazu dienen sollte, die Täuschung zu verdecken\. Nicht einmal Narziss im griechischen Mythos verliebte sich mehr in sein eigenes Spiegelbild als diese Frauen\. Wenn nun Mose den Menschen gebot, keine Bilder als Nachahmung Gottes anzufertigen[^bible-feb176ca-67d7-4603-8558-03d479d753c0], mit welchem Recht schaffen sich diese Frauen dann falsche Bilder ihrer selbst im Spiegel und verfälschen ihre Gesichter? Selbst der Prophet Samuel sah, als er ausgesandt wurde, einen der Söhne Isais zum König zu salben, den ältesten Sohn, schön und groß gewachsen, und war bereit, ihn zu salben[^bible-680bfdd6-6759-44f1-8f43-243f2d330671]\. Doch der Herr sagte zu ihm: „Sieh nicht auf sein Aussehen oder seine Größe, denn ich habe ihn verworfen\. Der Mensch sieht auf das Äußere, der Herr aber sieht auf das Herz\.[^bible-4d30358c-5423-4e57-999f-ac19fb49c691] “ So salbte Samuel nicht den mit dem schönen Körper, sondern den mit der schönen Seele\. Wenn der Herr die natürliche Schönheit des Körpers geringer achtet als die Schönheit der Seele, was, meint ihr, hält er dann von künstlicher Schönheit? Er lehnt jede Lüge uneingeschränkt ab\. „Denn wir gehen unseren Weg im Glauben, nicht nach dem äußeren Anschein\.[^bible-dfa7f07a-2df0-4e75-93a3-46bfdf6aa22c] “ Der Herr lehrt also durch Abraham deutlich, dass jeder, der Gott folgt, Heimat, Familie, Besitz und Reichtum verachten muss\. Gott machte Abraham zu einem Wanderer[^bible-f2074eec-5e9c-4ba9-a16b-def396bd43d5] und nannte ihn deshalb „Freund[^bible-5c5b3578-deac-4d33-bf80-5f694fdb37ba] “, weil er seinen Grundbesitz in der Heimat aufgegeben hatte\. Er stammte aus einer vornehmen Familie und war sehr reich[^bible-2385ce75-5876-4d28-9898-32392836d759]\. Mit 318 seiner eigenen Diener besiegte er die vier Könige, die Lot gefangen genommen hatten\.[^bible-0fab117d-7a38-46a5-a715-3a35545d7fb6] Unter den Frauen findet sich nur Ester, die sich mit Recht schmückte\. Sie machte sich in aller Stille für ihren eigenen Mann, den König, schön[^bible-1d0906e9-da07-4696-b940-432a06569324], doch ihre Schönheit wurde zum Preis für die Rettung ihres Volkes vor der Vernichtung[^bible-ea547cee-6808-4060-bb45-016d90d3b07a]\. Dass gerade die Schminke Frauen zu Kurtisanen und Männer zu schwächlichen, ehebrecherischen Gestalten macht, zeigen sogar die Tragödiendichter\. Einer sagt über Paris: „Aus Phrygien kehrte er zurück, der über die Göttinnen geurteilt hatte, wie der Mythos von Argos erzählt\. Er kam nach Sparta, in blumengeschmückte Gewänder gekleidet, in Gold erstrahlend, in fremdländischem Luxus\. Von Liebe ergriffen, raubte er die Frau, die ihn liebte, Helena, und brachte sie auf die Weiden des Idagebirges, während Menelaos fern von zu Hause war\.“ O welch ehebrecherische Schönheit\! Griechenland wurde durch fremdländische Weltliebe und weibischen Luxus zu Fall gebracht\. Die spartanische Sittsamkeit wurde durch prunkvolle Kleider, Genusssucht und jugendliche Schönheit zerstört\. Diese fremdländischen, weltlichen Moden stellten die Tochter des Zeus zur Schau, als wäre sie nur eine Kurtisane\. Unter ihnen gab es keinen Lehrer, der ihre Begierden gezügelt hätte, niemanden, der sagte: „Du sollst nicht die Ehe brechen[^bible-8d5046e0-7d1b-496c-8151-c915e02c301e] “, oder: „Du sollst nicht begehren[^bible-f37e4c0a-637f-4223-aaaa-b52941d80e0f] “, oder: „Lass dich nicht durch Begierde zum Ehebruch führen\.[^bible-97f2f73f-e7e8-4bd8-9b1c-1cd1109bee02] “ Stattdessen warnte sie nicht einmal jemand davor, ihre Begierden durch die Liebe zu weltlichen Dingen anzufachen\. Was für ein Ende nahm ein solches Verhalten\!
-
-Und welche Übel mussten diejenigen erleiden, die ihre Selbstliebe nicht aufgeben wollten\! Zwei Kontinente wurden durch Lüste erschüttert, die keine Erziehung kennen, und alles bebt wegen eines wilden, leichtsinnigen Jünglings aus der Fremde\. Ganz Griechenland wird wie ein Schiff auf See hin und her geworfen, und selbst das Meer stöhnt unter den Kontinenten, die es auf seinem Rücken trägt\. Ein langer Krieg wird entfacht, und gewaltige Schlachten brechen los\. Die Felder sind voller Leichen\. Hochmütig bemächtigt sich der Barbar des Hafens\. Das Unrecht herrscht, und jener Zeus der Dichtung blickt herab und sieht die Thraker\. Die Länder der Barbaren trinken edles Blut\. Leichen verstopfen die Flussläufe\. In Trauer schlägt man sich an die Brust, und Kummer breitet sich über das Land aus\. Alles wird erschüttert: selbst die Wurzeln des quellenreichen Ida, seine Gipfel, die Stadt der Trojaner und die Schiffe der Achäer\. Wohin können wir fliehen, Homer, und wo können wir festen Stand finden? Zeige uns ein Land, das nicht erschüttert wurde\. Fass die Zügel nicht an, Kind, du hast keine Erfahrung\! Steig nicht in den Wagen, wenn du nicht gelernt hast, ihn zu lenken\! Nur zwei Wagenlenker erfreuen den Himmel, und nur ihre Hände lenken das Feuer richtig\. Denn die Lust bringt den Verstand leicht vom Weg ab, und die reine Vernunft verfällt dem Leichtsinn, wenn das Wort sie nicht schult\. Die Strafe für den Fall ist der Fall selbst\. Ein Beispiel dafür hast du an den Engeln Gottes, die die Schönheit um einer anderen Schönheit willen aufgaben und dafür vernichtet wurden: So tief fielen sie vom Himmel auf die Erde\.[^bible-37db8307-1546-4516-8145-d5a347b44cb9] Selbst die Männer von Sichem wurden dafür bestraft, dass sie die heilige Jungfrau entehrt hatten: Sie fielen[^bible-bcf2b454-e4d8-42f8-99aa-7535d218ff95], und ihre Strafe wurde ihnen zum Grab\. Ihr Grab wurde zu einer mahnenden Lehre, die andere zum Heil führen sollte\.
+Und welche Übel mussten diejenigen erleiden,
+die ihre Selbstliebe nicht aufgeben wollten\!
+Zwei Kontinente wurden durch Lüste erschüttert,
+die keine Erziehung kennen,
+und alles bebt wegen eines wilden,
+leichtsinnigen Jünglings aus der Fremde\.
+Ganz Griechenland wird wie ein Schiff auf See hin und her geworfen,
+und selbst das Meer stöhnt unter den Kontinenten,
+die es auf seinem Rücken trägt\.
+Ein langer Krieg wird entfacht,
+und gewaltige Schlachten brechen los\.
+Die Felder sind voller Leichen\.
+Hochmütig bemächtigt sich der Barbar des Hafens\.
+Das Unrecht herrscht,
+und jener Zeus der Dichtung blickt herab und sieht die Thraker\.
+Die Länder der Barbaren trinken edles Blut\.
+Leichen verstopfen die Flussläufe\.
+In Trauer schlägt man sich an die Brust,
+und Kummer breitet sich über das Land aus\.
+Alles wird erschüttert:
+selbst die Wurzeln des quellenreichen Ida,
+seine Gipfel,
+die Stadt der Trojaner und die Schiffe der Achäer\.
+Wohin können wir fliehen,
+Homer,
+und wo können wir festen Stand finden?
+Zeige uns ein Land,
+das nicht erschüttert wurde\.
+Fass die Zügel nicht an,
+Kind,
+du hast keine Erfahrung\!
+Steig nicht in den Wagen,
+wenn du nicht gelernt hast,
+ihn zu lenken\!
+Nur zwei Wagenlenker erfreuen den Himmel,
+und nur ihre Hände lenken das Feuer richtig\.
+Denn die Lust bringt den Verstand leicht vom Weg ab,
+und die reine Vernunft verfällt dem Leichtsinn,
+wenn das Wort sie nicht schult\.
+Die Strafe für den Fall ist der Fall selbst\.
+Ein Beispiel dafür hast du an den Engeln Gottes,
+die die Schönheit um einer anderen Schönheit willen aufgaben und dafür vernichtet wurden:
+So tief fielen sie vom Himmel auf die Erde\.[^bible-37db8307-1546-4516-8145-d5a347b44cb9]
+Selbst die Männer von Sichem wurden dafür bestraft,
+dass sie die heilige Jungfrau entehrt hatten:
+Sie fielen[^bible-bcf2b454-e4d8-42f8-99aa-7535d218ff95],
+und ihre Strafe wurde ihnen zum Grab\.
+Ihr Grab wurde zu einer mahnenden Lehre,
+die andere zum Heil führen sollte\.
 
 ## Bibelverweise
 

@@ -7,9 +7,20 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/1-taufunterweisung#kapitel-49e774cc-5c94-45b9-362d-08ddd2c57f81).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:03028c3efacb38bef975ac1219a259a7c086c86a43244daab51effffc76de54a`
-
-Betrachtet also die überaus große Güte dieses Geschenks eines gütigen Gottes und bereitet euch im Voraus darauf vor, von bösen Taten abzusehen und Gutes zu tun\. Der Prophet fordert uns dazu auf, wenn er sagt: „Weiche vom Bösen und tue Gutes\.“[^bible-1557803f-c223-4ae9-b834-75208fd35ef4] Und Christus selbst, der die gesamte Menschheit anspricht, sagte: „Kommt zu mir, alle ihr Mühseligen und Beladenen, und ich werde euch Ruhe geben\. Nehmt mein Joch auf euch und lernt von mir, denn ich bin sanftmütig und von Herzen demütig, und ihr werdet Ruhe finden für eure Seelen\.“[^bible-294cf936-88e4-4f61-81bc-d5ba7de944f8]
+Betrachtet also die überaus große Güte dieses Geschenks eines gütigen Gottes und bereitet euch im Voraus darauf vor,
+von bösen Taten abzusehen und Gutes zu tun\.
+Der Prophet fordert uns dazu auf,
+wenn er sagt:
+„Weiche vom Bösen und tue Gutes\.“[^bible-1557803f-c223-4ae9-b834-75208fd35ef4]
+Und Christus selbst,
+der die gesamte Menschheit anspricht,
+sagte:
+„Kommt zu mir,
+alle ihr Mühseligen und Beladenen,
+und ich werde euch Ruhe geben\.
+Nehmt mein Joch auf euch und lernt von mir,
+denn ich bin sanftmütig und von Herzen demütig,
+und ihr werdet Ruhe finden für eure Seelen\.“[^bible-294cf936-88e4-4f61-81bc-d5ba7de944f8]
 
 ## Bibelverweise
 

@@ -7,12 +7,16 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-a100dd41-8a0f-48bf-76a9-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f2bd49565e1cbd9f5c3e581596f900d36636ff51b8632617ca0553d28ee99006`
-
 So wenn du das Mysterium des Herrn sehen möchtest,
-schau auf Abel, der ebenso erschlagen wurde,
-auf Isaak, der ebenso gebunden ist,
-auf Josef, der ebenso verkauft wurde,
-auf Mose, der ebenso ausgesetzt wurde,
-auf David, der ebenso verfolgt wird,
-auf die Propheten, die ebenfalls um Christi willen leiden\.
+schau auf Abel,
+der ebenso erschlagen wurde,
+auf Isaak,
+der ebenso gebunden ist,
+auf Josef,
+der ebenso verkauft wurde,
+auf Mose,
+der ebenso ausgesetzt wurde,
+auf David,
+der ebenso verfolgt wird,
+auf die Propheten,
+die ebenfalls um Christi willen leiden\.

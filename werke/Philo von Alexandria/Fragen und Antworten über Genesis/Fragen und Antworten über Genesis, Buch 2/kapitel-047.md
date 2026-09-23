@@ -7,8 +7,83 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-2#kapitel-25d86168-0baa-4721-9c55-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e98ba24a42f1d4b05068d22ccadcf23b84ea1c477d6773b32b5e4263e7336595`
+Warum trocknete die Erde im siebten Monat und am siebenundzwanzigsten Tag aus?
+Siehst du nicht,
+dass er hier den Monat den siebten nennt,
+den er kurz zuvor den ersten genannt hat?
+Denn der siebte ist,
+soweit es die Zeit betrifft,
+wie ich schon früher gesagt habe,
+derselbe wie der,
+der der Natur nach der erste ist,
+da er den Beginn der Tagundnachtgleiche bildet\.
+Mit großer Angemessenheit aber wird der Anfang der Flut auf den siebten Monat und den siebenundzwanzigsten Tag des Monats bezogen;
+und ebenso wird wiederum das Ende und Aufhören der Flut auf denselben siebten Monat und denselben Tag bezogen\.
+Denn sowohl die Flut als auch die Beseitigung des Lebens geschahen zur Tagundnachtgleiche,
+deren Grundsatz wir vor kurzem angegeben haben\.
+Denn der siebte Monat erweist sich als gleichbedeutend mit den Monaten und Tagen dieser Zeit,
+und dann erscheint wiederum der siebenundzwanzigste Tag in derselben Bedeutung,
+als die Arche auf den Bergen ruhte\.
+Dies ist der Monat,
+der der Natur nach der siebte,
+der Zeitrechnung nach aber der erste ist,
+nämlich der Monat der Tagundnachtgleiche\.
+Daher wird zu den Tagundnachtgleichen eine Auswahlkraft für sieben Monate und siebenundzwanzig Tage gegeben\.
+Denn die Flut ereignete sich im siebten Monat,
+in dem die Frühlingstagundnachtgleiche eintritt,
+sodass er der Zeitrechnung nach der siebte,
+der Natur nach aber der erste ist\.
+Und das Aufhören der Flut und die Offenbarung des Erbarmens gehören zu demselben Maß,
+als die Arche auf den Gipfeln der Berge ruhte:
+wiederum in Wahrheit im siebten Monat,
+jedoch nicht in demselben Monat,
+sondern in jenem,
+in dem die Herbsttagundnachtgleiche eintritt,
+das heißt:
+dem der Natur nach siebten,
+der Zeitrechnung nach aber ersten\.
+Die vollkommenste Heilung aber,
+nämlich dass das Übel völlig ausgetrocknet ist,
+wird wiederum auf den siebten Monat und den siebenundzwanzigsten Tag der Frühlingszeit bezogen;
 
-Warum trocknete die Erde im siebten Monat und am siebenundzwanzigsten Tag aus? Siehst du nicht, dass er hier den Monat den siebten nennt, den er kurz zuvor den ersten genannt hat? Denn der siebte ist, soweit es die Zeit betrifft, wie ich schon früher gesagt habe, derselbe wie der, der der Natur nach der erste ist, da er den Beginn der Tagundnachtgleiche bildet\. Mit großer Angemessenheit aber wird der Anfang der Flut auf den siebten Monat und den siebenundzwanzigsten Tag des Monats bezogen; und ebenso wird wiederum das Ende und Aufhören der Flut auf denselben siebten Monat und denselben Tag bezogen\. Denn sowohl die Flut als auch die Beseitigung des Lebens geschahen zur Tagundnachtgleiche, deren Grundsatz wir vor kurzem angegeben haben\. Denn der siebte Monat erweist sich als gleichbedeutend mit den Monaten und Tagen dieser Zeit, und dann erscheint wiederum der siebenundzwanzigste Tag in derselben Bedeutung, als die Arche auf den Bergen ruhte\. Dies ist der Monat, der der Natur nach der siebte, der Zeitrechnung nach aber der erste ist, nämlich der Monat der Tagundnachtgleiche\. Daher wird zu den Tagundnachtgleichen eine Auswahlkraft für sieben Monate und siebenundzwanzig Tage gegeben\. Denn die Flut ereignete sich im siebten Monat, in dem die Frühlingstagundnachtgleiche eintritt, sodass er der Zeitrechnung nach der siebte, der Natur nach aber der erste ist\. Und das Aufhören der Flut und die Offenbarung des Erbarmens gehören zu demselben Maß, als die Arche auf den Gipfeln der Berge ruhte: wiederum in Wahrheit im siebten Monat, jedoch nicht in demselben Monat, sondern in jenem, in dem die Herbsttagundnachtgleiche eintritt, das heißt: dem der Natur nach siebten, der Zeitrechnung nach aber ersten\. Die vollkommenste Heilung aber, nämlich dass das Übel völlig ausgetrocknet ist, wird wiederum auf den siebten Monat und den siebenundzwanzigsten Tag der Frühlingszeit bezogen;
-
-damit Anfang und Ende der Flut ihre Grenze in derselben Jahreszeit fänden und die mittlere Zeit, in der das menschliche Leben wiederhergestellt wird, der Zwischenzeit zugewiesen sei\. Dabei ist jene Aussage umso genauer zu beachten, dass nämlich das ganze Jahr nach strenger Berechnung der Tage die Dauer der Flut der genauen Zeit des Heilmittels gleichsetzte\. Denn sie begann im sechshundertsten Lebensjahr Noahs, im siebten Monat und am siebenundzwanzigsten Tag, sodass der ganze dazwischenliegende Zeitraum ein vollkommenes Jahr vollendete: Der Anfang lag bei der Frühlingstagundnachtgleiche, und ebenso endete auch die Flut an demselben Zeitpunkt der Frühlingstagundnachtgleiche\. Auf diese Weise wurde, nachdem alles auf der Erde, was voller Frucht war, wie ich schon sagte, der Vernichtung verfallen war und nun auch die Menschen vernichtet waren, die diese Früchte gebrauchten, die Erde, von allem Übel gänzlich entlastet, wieder voll von Samen und fruchttragenden Bäumen gefunden, entsprechend dem Hervorbringen des Frühlings\. Denn er hielt es für angemessen, dass die Erde, nachdem sie die Flut erlitten hatte und nach dem Wiederabtrocknen in einem ähnlichen Zustand war wie zuvor, sich nun ebenso zeigte und die Schuld bezahlte, die sie der Natur schuldete\. Niemand darf sich darüber wundern, dass die Erde, sich selbst überlassen, an einem einzigen Tag durch göttliche Kraft alles hervorbrachte: Samen und Bäume, alles vollendet, ganz und plötzlich, mit vollkommenen und vortrefflichen Kräutern, Getreide, Pflanzen und Früchten\. Denn bei der Erschaffung der Welt vollendete er an einem der sechs Tage die ganze Entstehung der Pflanzenwelt und brachte sie zur Vollkommenheit\. Die jetzigen Früchte aber waren schon an sich vollkommen und brachten alle Arten von Früchten in einer Weise hervor, die der Frühlingszeit angemessen war und ihr entsprach\. Denn für Gott ist alles möglich, und er bedarf kaum der Zeit, um irgendetwas zu bewirken\.
+damit Anfang und Ende der Flut ihre Grenze in derselben Jahreszeit fänden und die mittlere Zeit,
+in der das menschliche Leben wiederhergestellt wird,
+der Zwischenzeit zugewiesen sei\.
+Dabei ist jene Aussage umso genauer zu beachten,
+dass nämlich das ganze Jahr nach strenger Berechnung der Tage die Dauer der Flut der genauen Zeit des Heilmittels gleichsetzte\.
+Denn sie begann im sechshundertsten Lebensjahr Noahs,
+im siebten Monat und am siebenundzwanzigsten Tag,
+sodass der ganze dazwischenliegende Zeitraum ein vollkommenes Jahr vollendete:
+Der Anfang lag bei der Frühlingstagundnachtgleiche,
+und ebenso endete auch die Flut an demselben Zeitpunkt der Frühlingstagundnachtgleiche\.
+Auf diese Weise wurde,
+nachdem alles auf der Erde,
+was voller Frucht war,
+wie ich schon sagte,
+der Vernichtung verfallen war und nun auch die Menschen vernichtet waren,
+die diese Früchte gebrauchten,
+die Erde,
+von allem Übel gänzlich entlastet,
+wieder voll von Samen und fruchttragenden Bäumen gefunden,
+entsprechend dem Hervorbringen des Frühlings\.
+Denn er hielt es für angemessen,
+dass die Erde,
+nachdem sie die Flut erlitten hatte und nach dem Wiederabtrocknen in einem ähnlichen Zustand war wie zuvor,
+sich nun ebenso zeigte und die Schuld bezahlte,
+die sie der Natur schuldete\.
+Niemand darf sich darüber wundern,
+dass die Erde,
+sich selbst überlassen,
+an einem einzigen Tag durch göttliche Kraft alles hervorbrachte:
+Samen und Bäume,
+alles vollendet,
+ganz und plötzlich,
+mit vollkommenen und vortrefflichen Kräutern,
+Getreide,
+Pflanzen und Früchten\.
+Denn bei der Erschaffung der Welt vollendete er an einem der sechs Tage die ganze Entstehung der Pflanzenwelt und brachte sie zur Vollkommenheit\.
+Die jetzigen Früchte aber waren schon an sich vollkommen und brachten alle Arten von Früchten in einer Weise hervor,
+die der Frühlingszeit angemessen war und ihr entsprach\.
+Denn für Gott ist alles möglich,
+und er bedarf kaum der Zeit,
+um irgendetwas zu bewirken\.

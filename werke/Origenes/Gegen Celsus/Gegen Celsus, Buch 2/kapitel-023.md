@@ -7,6 +7,48 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-2#kapitel-447316ce-bd8e-4105-0a43-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:34c9536d7ae19ed1d3864b4dece65e46875d1ca4da279f018b773be9309906a9`
-
-In diesem Ton fährt er fort: „Wenn er diese Dinge beschlossen und im Gehorsam gegenüber seinem Vater Züchtigung erlitten hatte, dann ist offensichtlich, dass ihm als Gott, der sich freiwillig fügte, all das, was seinem eigenen Entschluss gemäß mit ihm geschah, weder Schmerz noch Leid bereitete\.“ Doch er bemerkte nicht, dass er sich damit unmittelbar selbst widersprach\. Denn wenn er zugestand, dass Jesus gezüchtigt wurde, weil er diese Dinge beschlossen und sich seinem Vater unterworfen hatte, dann ist klar, dass er tatsächlich Strafe erlitt\. Und es war unmöglich, dass ihm nicht wehtat, was seine Peiniger ihm zufügten, denn Schmerz widerfährt einem gegen den eigenen Willen\. Wenn aber das, was ihm zugefügt wurde, weder schmerzhaft noch leidvoll war, weil er es freiwillig erlitt, wie konnte Celsus dann zugestehen, dass „er gezüchtigt wurde“? Er erkannte nicht, dass Jesus, als er durch seine Geburt einen Körper annahm, einen Körper annahm, der sowohl Schmerzen als auch die zum Menschsein gehörenden Leiden erfahren konnte, sofern wir unter Leiden das verstehen, was niemand freiwillig wählt\. Da er also freiwillig einen Körper annahm, dessen Natur sich nicht völlig von der des menschlichen Fleisches unterschied, nahm er mit diesem Körper auch dessen Schmerzen und Leiden auf sich\. Er konnte es nicht vermeiden, sie zu erdulden, denn seine Peiniger hatten die Macht, ihm Schmerzhaftes und Leidvolles zuzufügen\. Auf den vorangehenden Seiten haben wir bereits gezeigt, dass er nicht in die Hände der Menschen gefallen wäre, wenn er es nicht gewollt hätte\. Doch er fiel ihnen in die Hände, weil er es wollte und weil im Voraus offenbar war, dass sein Tod für die Menschen dem ganzen Menschengeschlecht zugutekommen würde\.
+In diesem Ton fährt er fort:
+„Wenn er diese Dinge beschlossen und im Gehorsam gegenüber seinem Vater Züchtigung erlitten hatte,
+dann ist offensichtlich,
+dass ihm als Gott,
+der sich freiwillig fügte,
+all das,
+was seinem eigenen Entschluss gemäß mit ihm geschah,
+weder Schmerz noch Leid bereitete\.“
+Doch er bemerkte nicht,
+dass er sich damit unmittelbar selbst widersprach\.
+Denn wenn er zugestand,
+dass Jesus gezüchtigt wurde,
+weil er diese Dinge beschlossen und sich seinem Vater unterworfen hatte,
+dann ist klar,
+dass er tatsächlich Strafe erlitt\.
+Und es war unmöglich,
+dass ihm nicht wehtat,
+was seine Peiniger ihm zufügten,
+denn Schmerz widerfährt einem gegen den eigenen Willen\.
+Wenn aber das,
+was ihm zugefügt wurde,
+weder schmerzhaft noch leidvoll war,
+weil er es freiwillig erlitt,
+wie konnte Celsus dann zugestehen,
+dass „er gezüchtigt wurde“?
+Er erkannte nicht,
+dass Jesus,
+als er durch seine Geburt einen Körper annahm,
+einen Körper annahm,
+der sowohl Schmerzen als auch die zum Menschsein gehörenden Leiden erfahren konnte,
+sofern wir unter Leiden das verstehen,
+was niemand freiwillig wählt\.
+Da er also freiwillig einen Körper annahm,
+dessen Natur sich nicht völlig von der des menschlichen Fleisches unterschied,
+nahm er mit diesem Körper auch dessen Schmerzen und Leiden auf sich\.
+Er konnte es nicht vermeiden,
+sie zu erdulden,
+denn seine Peiniger hatten die Macht,
+ihm Schmerzhaftes und Leidvolles zuzufügen\.
+Auf den vorangehenden Seiten haben wir bereits gezeigt,
+dass er nicht in die Hände der Menschen gefallen wäre,
+wenn er es nicht gewollt hätte\.
+Doch er fiel ihnen in die Hände,
+weil er es wollte und weil im Voraus offenbar war,
+dass sein Tod für die Menschen dem ganzen Menschengeschlecht zugutekommen würde\.

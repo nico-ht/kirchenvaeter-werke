@@ -7,6 +7,51 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-2#kapitel-2897656b-26a9-455e-9c48-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:9cb0483a35a22ac47637f01e3cb3dbed556932aec4a681d6c52d37f812fced77`
-
-Was ist das Fenster der Arche, das der Gerechte öffnet? Die wörtliche Aussage lässt kaum eine Schwierigkeit oder einen Zweifel zu, da sie klar ist\. Im Blick auf den inneren Sinn aber ist Folgendes zu sagen: Jeder einzelne Teil der Sinne hat die Fenster des Körpers nachgebildet; denn durch sie dringt, wie durch Fenster, die Erfassung der sinnlich wahrnehmbaren Dinge in den Verstand ein, und wiederum durch sie streckt sich der Verstand gleichsam hinaus, als wolle er entweichen\. Unter diesen Fenstern, den Sinnen, ist der edlere Anteil, so sage ich, das Sehen, weil es vor allen übrigen der Seele verwandt ist, mit dem Licht, der schönsten der Wesenheiten, innig vertraut ist und als Diener heiliger Dinge wirkt\. Außerdem ist es das Sehen, das zuerst den Weg zur Philosophie eröffnet hat\. Denn als es die regelmäßige Bewegung der Sonne und des Mondes, den unsteten Lauf der übrigen Planeten, die unfehlbare Kreisbewegung des ganzen Himmels und die dort bestehende Ordnung und Harmonie, die jede Berechnung übersteigt, betrachtete, berichtete es, als wäre es der eine wirkliche Schöpfer der ganzen Welt, von sich aus seinem einen obersten Ratgeber und Leiter alles, was es sah\. Und da erkannte der Verstand, der diese Dinge mit seinem scharfen Auge sah und durch sie höhere beweiskräftige Gedanken sowie die Ursache all dieser Dinge unterschied, sogleich, dass es einen Gott gibt, in demselben Augenblick, in dem er zur Vorstellung von Entstehung und Vorsehung gelangte; denn es war klar, dass diese sichtbare Natur nicht aus sich selbst geschaffen war\. Unmöglich konnten eine solche Harmonie, Ordnung, Vernunft und vollkommen stimmige Entsprechung, eine Eintracht von solcher Art und solchem Umfang und ein so wahres und vollkommenes Glück aus eigener Kraft existieren\. Vielmehr musste es irgendeinen Schöpfer und Vater davon geben, der wie ein Lenker und Leiter wirkt, diese Dinge hervorgebracht hat und sie, nachdem er sie hervorgebracht hat, unversehrt und heil bewahrt\.
+Was ist das Fenster der Arche,
+das der Gerechte öffnet?
+Die wörtliche Aussage lässt kaum eine Schwierigkeit oder einen Zweifel zu,
+da sie klar ist\.
+Im Blick auf den inneren Sinn aber ist Folgendes zu sagen:
+Jeder einzelne Teil der Sinne hat die Fenster des Körpers nachgebildet;
+denn durch sie dringt,
+wie durch Fenster,
+die Erfassung der sinnlich wahrnehmbaren Dinge in den Verstand ein,
+und wiederum durch sie streckt sich der Verstand gleichsam hinaus,
+als wolle er entweichen\.
+Unter diesen Fenstern,
+den Sinnen,
+ist der edlere Anteil,
+so sage ich,
+das Sehen,
+weil es vor allen übrigen der Seele verwandt ist,
+mit dem Licht,
+der schönsten der Wesenheiten,
+innig vertraut ist und als Diener heiliger Dinge wirkt\.
+Außerdem ist es das Sehen,
+das zuerst den Weg zur Philosophie eröffnet hat\.
+Denn als es die regelmäßige Bewegung der Sonne und des Mondes,
+den unsteten Lauf der übrigen Planeten,
+die unfehlbare Kreisbewegung des ganzen Himmels und die dort bestehende Ordnung und Harmonie,
+die jede Berechnung übersteigt,
+betrachtete,
+berichtete es,
+als wäre es der eine wirkliche Schöpfer der ganzen Welt,
+von sich aus seinem einen obersten Ratgeber und Leiter alles,
+was es sah\.
+Und da erkannte der Verstand,
+der diese Dinge mit seinem scharfen Auge sah und durch sie höhere beweiskräftige Gedanken sowie die Ursache all dieser Dinge unterschied,
+sogleich,
+dass es einen Gott gibt,
+in demselben Augenblick,
+in dem er zur Vorstellung von Entstehung und Vorsehung gelangte;
+denn es war klar,
+dass diese sichtbare Natur nicht aus sich selbst geschaffen war\.
+Unmöglich konnten eine solche Harmonie,
+Ordnung,
+Vernunft und vollkommen stimmige Entsprechung,
+eine Eintracht von solcher Art und solchem Umfang und ein so wahres und vollkommenes Glück aus eigener Kraft existieren\.
+Vielmehr musste es irgendeinen Schöpfer und Vater davon geben,
+der wie ein Lenker und Leiter wirkt,
+diese Dinge hervorgebracht hat und sie,
+nachdem er sie hervorgebracht hat,
+unversehrt und heil bewahrt\.

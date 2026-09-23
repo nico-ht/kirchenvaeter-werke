@@ -7,15 +7,169 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-v#kapitel-2d844b80-1b79-44b4-ce6d-08def5891738).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:9a63ab8bcbfc39bec2ccd3afc2af5f84c205ef3ff24dca095676833650e67ec6`
+Dieses Wesen nun ist der Schöpfer \(Demiurg\),
+der in seiner Liebe der Vater ist,
+in seiner Macht aber der Herr und in seiner Weisheit unser Macher und Bildner;
+durch die Übertretung seines Gebots sind wir zu seinen Feinden geworden\.
+Darum hat der Herr uns in den letzten Zeiten durch seine Menschwerdung wieder in Freundschaft mit sich gebracht:
+Er wurde „der Mittler zwischen Gott und den Menschen[^bible-5b52cb74-dd4e-45d4-bd24-a67abe4fe3fa]“,
+wirkte für uns Versöhnung gegenüber dem Vater,
+gegen den wir gesündigt hatten,
+und hob unseren Ungehorsam durch seinen eigenen Gehorsam auf;
+zugleich schenkte er uns Gemeinschaft mit unserem Macher und Unterordnung unter ihn\.
+Aus diesem Grund hat er uns auch gelehrt,
+im Gebet zu sprechen:
+„Und vergib uns unsere Schulden[^bible-0c2db343-ecd7-46db-b29a-1f9e7d73ca8b]“,
+denn er ist wirklich unser Vater,
+dessen Schuldner wir waren,
+weil wir seine Gebote übertreten hatten\.
+Wer aber ist dieses Wesen?
+Ist er irgendein Unbekannter,
+ein Vater,
+der niemandem ein Gebot gibt?
+Oder ist er der Gott,
+der in den Schriften verkündet wird und dessen Schuldner wir waren,
+weil wir sein Gebot übertreten hatten?
+Das Gebot aber wurde dem Menschen durch das Wort gegeben\.
+Denn Adam,
+so heißt es,
+„hörte die Stimme des Herrn,
+Gottes[^bible-aa1f708c-35ca-46cf-96cf-86138459744b]“\.
+Mit Recht also sagt sein Wort zum Menschen:
+„Deine Sünden sind dir vergeben[^bible-eb6f7475-6674-4c49-80b7-9729cea51458]“;
+derselbe,
+gegen den wir am Anfang gesündigt hatten,
+gewährt am Ende Vergebung der Sünden\.
+Wenn wir aber tatsächlich dem Gebot eines anderen ungehorsam gewesen wären,
+während ein anderes Wesen sagte:
+„Deine Sünden sind dir vergeben[^bible-eb6f7475-6674-4c49-80b7-9729cea51458]“,
+dann wäre ein solcher weder gut noch wahr noch gerecht\.
+Denn wie kann der gut sein,
+der nicht aus dem gibt,
+was ihm selbst gehört?
+Oder wie kann der gerecht sein,
+der fremde Güter an sich reißt?
+Und wie können Sünden wirklich erlassen werden,
+wenn nicht der selbst,
+gegen den wir gesündigt haben,
+Erlass gewährt hat „durch das herzliche Erbarmen unseres Gottes[^bible-4996cfbc-55ce-47c3-aeb5-1d624f2dbd69]“,
+in dem „er uns besucht hat[^bible-4996cfbc-55ce-47c3-aeb5-1d624f2dbd69]“ durch seinen Sohn?
 
-Dieses Wesen nun ist der Schöpfer \(Demiurg\), der in seiner Liebe der Vater ist, in seiner Macht aber der Herr und in seiner Weisheit unser Macher und Bildner; durch die Übertretung seines Gebots sind wir zu seinen Feinden geworden\. Darum hat der Herr uns in den letzten Zeiten durch seine Menschwerdung wieder in Freundschaft mit sich gebracht: Er wurde „der Mittler zwischen Gott und den Menschen[^bible-5b52cb74-dd4e-45d4-bd24-a67abe4fe3fa]“, wirkte für uns Versöhnung gegenüber dem Vater, gegen den wir gesündigt hatten, und hob unseren Ungehorsam durch seinen eigenen Gehorsam auf; zugleich schenkte er uns Gemeinschaft mit unserem Macher und Unterordnung unter ihn\. Aus diesem Grund hat er uns auch gelehrt, im Gebet zu sprechen: „Und vergib uns unsere Schulden[^bible-0c2db343-ecd7-46db-b29a-1f9e7d73ca8b]“, denn er ist wirklich unser Vater, dessen Schuldner wir waren, weil wir seine Gebote übertreten hatten\. Wer aber ist dieses Wesen? Ist er irgendein Unbekannter, ein Vater, der niemandem ein Gebot gibt? Oder ist er der Gott, der in den Schriften verkündet wird und dessen Schuldner wir waren, weil wir sein Gebot übertreten hatten? Das Gebot aber wurde dem Menschen durch das Wort gegeben\. Denn Adam, so heißt es, „hörte die Stimme des Herrn, Gottes[^bible-aa1f708c-35ca-46cf-96cf-86138459744b]“\. Mit Recht also sagt sein Wort zum Menschen: „Deine Sünden sind dir vergeben[^bible-eb6f7475-6674-4c49-80b7-9729cea51458]“; derselbe, gegen den wir am Anfang gesündigt hatten, gewährt am Ende Vergebung der Sünden\. Wenn wir aber tatsächlich dem Gebot eines anderen ungehorsam gewesen wären, während ein anderes Wesen sagte: „Deine Sünden sind dir vergeben[^bible-eb6f7475-6674-4c49-80b7-9729cea51458]“, dann wäre ein solcher weder gut noch wahr noch gerecht\. Denn wie kann der gut sein, der nicht aus dem gibt, was ihm selbst gehört? Oder wie kann der gerecht sein, der fremde Güter an sich reißt? Und wie können Sünden wirklich erlassen werden, wenn nicht der selbst, gegen den wir gesündigt haben, Erlass gewährt hat „durch das herzliche Erbarmen unseres Gottes[^bible-4996cfbc-55ce-47c3-aeb5-1d624f2dbd69]“, in dem „er uns besucht hat[^bible-4996cfbc-55ce-47c3-aeb5-1d624f2dbd69]“ durch seinen Sohn?
+Als er deshalb den Gelähmten geheilt hatte,
+sagt der Evangelist:
+„Als die Menschen es sahen,
+verherrlichten sie Gott,
+der den Menschen solche Vollmacht gegeben hatte[^bible-2e6776f5-7a39-4c03-956a-6c41afcbe39b]\.“
+Welchen Gott also verherrlichten die Umstehenden?
+Etwa wirklich jenen unbekannten Vater,
+den die Häretiker erfunden haben?
+Und wie hätten sie den verherrlichen können,
+der ihnen völlig unbekannt war?
+Es ist daher klar:
+Die Israeliten verherrlichten den,
+der durch Gesetz und Propheten als Gott verkündet worden ist und der auch der Vater unseres Herrn ist\.
+Darum lehrte er die Menschen durch die greifbaren Beweise jener Zeichen,
+die er vollbrachte,
+Gott die Ehre zu geben\.
+Wenn er selbst aber von einem anderen Vater gekommen wäre und die Menschen einen anderen Vater verherrlicht hätten,
+als sie seine Wunder sahen,
+dann hätte er sie undankbar gemacht gegen jenen Vater,
+der die Gabe der Heilung gesandt hatte\.
+Weil aber der einziggeborene Sohn zum Heil des Menschen von dem gekommen war,
+der Gott ist,
+rüttelte er durch die Wunder,
+die er zu tun pflegte,
+die Ungläubigen auf,
+dem Vater die Ehre zu geben\.
+Und zu den Pharisäern,
+die das Kommen seines Sohnes nicht anerkannten und deshalb auch nicht an den durch ihn gewährten Erlass der Sünden glaubten,
+sagte er:
+„Damit ihr aber wisst,
+dass der Sohn des Menschen Vollmacht hat,
+Sünden zu vergeben[^bible-0c548d90-f0d4-4067-8a47-3aafb0d14d1a]\.“
+Und nachdem er das gesagt hatte,
+befahl er dem Gelähmten,
+die Matte,
+auf der er lag,
+aufzunehmen und in sein Haus zu gehen\.
+Durch dieses Werk beschämte er die Ungläubigen und zeigte,
+dass er selbst die Stimme Gottes ist,
+durch die der Mensch Gebote empfangen hatte,
+die er übertrat,
+sodass er zum Sünder wurde;
+denn die Lähmung folgte als Folge der Sünden\.
 
-Als er deshalb den Gelähmten geheilt hatte, sagt der Evangelist: „Als die Menschen es sahen, verherrlichten sie Gott, der den Menschen solche Vollmacht gegeben hatte[^bible-2e6776f5-7a39-4c03-956a-6c41afcbe39b]\.“ Welchen Gott also verherrlichten die Umstehenden? Etwa wirklich jenen unbekannten Vater, den die Häretiker erfunden haben? Und wie hätten sie den verherrlichen können, der ihnen völlig unbekannt war? Es ist daher klar: Die Israeliten verherrlichten den, der durch Gesetz und Propheten als Gott verkündet worden ist und der auch der Vater unseres Herrn ist\. Darum lehrte er die Menschen durch die greifbaren Beweise jener Zeichen, die er vollbrachte, Gott die Ehre zu geben\. Wenn er selbst aber von einem anderen Vater gekommen wäre und die Menschen einen anderen Vater verherrlicht hätten, als sie seine Wunder sahen, dann hätte er sie undankbar gemacht gegen jenen Vater, der die Gabe der Heilung gesandt hatte\. Weil aber der einziggeborene Sohn zum Heil des Menschen von dem gekommen war, der Gott ist, rüttelte er durch die Wunder, die er zu tun pflegte, die Ungläubigen auf, dem Vater die Ehre zu geben\. Und zu den Pharisäern, die das Kommen seines Sohnes nicht anerkannten und deshalb auch nicht an den durch ihn gewährten Erlass der Sünden glaubten, sagte er: „Damit ihr aber wisst, dass der Sohn des Menschen Vollmacht hat, Sünden zu vergeben[^bible-0c548d90-f0d4-4067-8a47-3aafb0d14d1a]\.“ Und nachdem er das gesagt hatte, befahl er dem Gelähmten, die Matte, auf der er lag, aufzunehmen und in sein Haus zu gehen\. Durch dieses Werk beschämte er die Ungläubigen und zeigte, dass er selbst die Stimme Gottes ist, durch die der Mensch Gebote empfangen hatte, die er übertrat, sodass er zum Sünder wurde; denn die Lähmung folgte als Folge der Sünden\.
+Darum heilte er den Menschen tatsächlich dadurch,
+dass er Sünden vergab;
+zugleich offenbarte er,
+wer er war\.
+Denn wenn niemand Sünden vergeben kann außer Gott allein,
+der Herr aber sie vergab und Menschen heilte,
+dann ist klar:
+Er selbst war das Wort Gottes,
+zum Sohn des Menschen geworden,
+und empfing vom Vater die Vollmacht,
+Sünden zu vergeben\.
+Denn er war Mensch,
+und er war Gott:
+damit er,
+weil er als Mensch für uns litt,
+als Gott Erbarmen mit uns habe und uns unsere Schulden vergebe,
+durch die wir vor Gott,
+unserem Schöpfer,
+zu Schuldnern geworden waren\.
+Darum sagte David im Voraus:
+„Selig sind die,
+deren Gesetzlosigkeiten vergeben und deren Sünden bedeckt sind\.
+Selig ist der Mann,
+dem der Herr Sünde nicht angerechnet hat[^bible-decd758e-681c-444c-af7f-18191a8baddb]“;
+damit zeigte er jenen Erlass der Sünden an,
+der auf sein Kommen folgt,
+durch das „er den Schuldschein[^bible-a6ea59aa-aa23-46c1-b24c-69e50070e3d3]“ unserer Schuld „vernichtet[^bible-a6ea59aa-aa23-46c1-b24c-69e50070e3d3]“ und „ans Kreuz geheftet hat[^bible-a6ea59aa-aa23-46c1-b24c-69e50070e3d3]“;
+sodass wir,
+wie wir durch ein Holz vor Gott zu Schuldnern wurden,
+auch durch ein Holz den Erlass unserer Schuld erlangen\.
 
-Darum heilte er den Menschen tatsächlich dadurch, dass er Sünden vergab; zugleich offenbarte er, wer er war\. Denn wenn niemand Sünden vergeben kann außer Gott allein, der Herr aber sie vergab und Menschen heilte, dann ist klar: Er selbst war das Wort Gottes, zum Sohn des Menschen geworden, und empfing vom Vater die Vollmacht, Sünden zu vergeben\. Denn er war Mensch, und er war Gott: damit er, weil er als Mensch für uns litt, als Gott Erbarmen mit uns habe und uns unsere Schulden vergebe, durch die wir vor Gott, unserem Schöpfer, zu Schuldnern geworden waren\. Darum sagte David im Voraus: „Selig sind die, deren Gesetzlosigkeiten vergeben und deren Sünden bedeckt sind\. Selig ist der Mann, dem der Herr Sünde nicht angerechnet hat[^bible-decd758e-681c-444c-af7f-18191a8baddb]“; damit zeigte er jenen Erlass der Sünden an, der auf sein Kommen folgt, durch das „er den Schuldschein[^bible-a6ea59aa-aa23-46c1-b24c-69e50070e3d3]“ unserer Schuld „vernichtet[^bible-a6ea59aa-aa23-46c1-b24c-69e50070e3d3]“ und „ans Kreuz geheftet hat[^bible-a6ea59aa-aa23-46c1-b24c-69e50070e3d3]“; sodass wir, wie wir durch ein Holz vor Gott zu Schuldnern wurden, auch durch ein Holz den Erlass unserer Schuld erlangen\.
-
-Diese Tatsache ist von vielen anderen eindrucksvoll vor Augen gestellt worden, besonders aber durch den Propheten Elisa\. Denn als seine Mitpropheten Holz für den Bau einer Stiftshütte schlugen und das Eisen, das sich von der Axt gelöst hatte, in den Jordan gefallen war und von ihnen nicht gefunden werden konnte, kam Elisa an den Ort\. Als er erfahren hatte, was geschehen war, warf er ein Stück Holz ins Wasser\. Nachdem er das getan hatte, schwamm das Eisen der Axt nach oben, und sie nahmen von der Wasseroberfläche auf, was sie zuvor verloren hatten[^bible-8c522ee8-16b7-4842-9892-2eaca2751676]\. Durch diese Handlung zeigte der Prophet an: Das sichere Wort Gottes, das wir durch ein Holz leichtfertig verloren hatten und zu dessen Wiederfinden uns kein Weg offenstand, sollten wir durch die Heilsordnung eines Holzes neu empfangen, nämlich durch das Kreuz Christi\. Denn dass das Wort Gottes mit einer Axt verglichen wird, erklärt Johannes der Täufer, wenn er darauf Bezug nimmt und sagt: „Schon jetzt ist die Axt an die Wurzel der Bäume gelegt\.[^bible-cf9eab41-0557-4b7a-9e96-2be7dd889695]“ Auch Jeremia sagt in demselben Sinn: „Das Wort Gottes spaltet den Felsen wie eine Axt\.[^bible-cbf6d471-191a-4e12-8b63-50378298b4a9]“ Dieses Wort also, das uns verborgen war, hat die Heilsordnung des Holzes offenbar gemacht, wie ich schon bemerkt habe\. Denn wie wir es durch ein Holz verloren haben, so wurde es durch ein Holz wieder allen offenbar gemacht; es zeigte in sich selbst Höhe, Länge, Breite und Tiefe[^bible-f9f0d904-3d68-468c-88af-930390823522]\. Und, wie einer unserer Vorgänger bemerkt hat: „Durch das Ausstrecken der Hände einer göttlichen Person geschieht das Sammeln der beiden Völker zu dem einen Gott\.“ Denn es waren zwei Hände, weil es zwei Völker gab, die bis an die Enden der Erde zerstreut waren; aber in der Mitte war ein Haupt, wie es nur einen Gott gibt, der über allen und durch alle und in uns allen ist[^bible-af74456f-c8c0-4183-ac5d-33c22f962a4d]\.
+Diese Tatsache ist von vielen anderen eindrucksvoll vor Augen gestellt worden,
+besonders aber durch den Propheten Elisa\.
+Denn als seine Mitpropheten Holz für den Bau einer Stiftshütte schlugen und das Eisen,
+das sich von der Axt gelöst hatte,
+in den Jordan gefallen war und von ihnen nicht gefunden werden konnte,
+kam Elisa an den Ort\.
+Als er erfahren hatte,
+was geschehen war,
+warf er ein Stück Holz ins Wasser\.
+Nachdem er das getan hatte,
+schwamm das Eisen der Axt nach oben,
+und sie nahmen von der Wasseroberfläche auf,
+was sie zuvor verloren hatten[^bible-8c522ee8-16b7-4842-9892-2eaca2751676]\.
+Durch diese Handlung zeigte der Prophet an:
+Das sichere Wort Gottes,
+das wir durch ein Holz leichtfertig verloren hatten und zu dessen Wiederfinden uns kein Weg offenstand,
+sollten wir durch die Heilsordnung eines Holzes neu empfangen,
+nämlich durch das Kreuz Christi\.
+Denn dass das Wort Gottes mit einer Axt verglichen wird,
+erklärt Johannes der Täufer,
+wenn er darauf Bezug nimmt und sagt:
+„Schon jetzt ist die Axt an die Wurzel der Bäume gelegt\.[^bible-cf9eab41-0557-4b7a-9e96-2be7dd889695]“ Auch Jeremia sagt in demselben Sinn:
+„Das Wort Gottes spaltet den Felsen wie eine Axt\.[^bible-cbf6d471-191a-4e12-8b63-50378298b4a9]“ Dieses Wort also,
+das uns verborgen war,
+hat die Heilsordnung des Holzes offenbar gemacht,
+wie ich schon bemerkt habe\.
+Denn wie wir es durch ein Holz verloren haben,
+so wurde es durch ein Holz wieder allen offenbar gemacht;
+es zeigte in sich selbst Höhe,
+Länge,
+Breite und Tiefe[^bible-f9f0d904-3d68-468c-88af-930390823522]\.
+Und,
+wie einer unserer Vorgänger bemerkt hat:
+„Durch das Ausstrecken der Hände einer göttlichen Person geschieht das Sammeln der beiden Völker zu dem einen Gott\.“
+Denn es waren zwei Hände,
+weil es zwei Völker gab,
+die bis an die Enden der Erde zerstreut waren;
+aber in der Mitte war ein Haupt,
+wie es nur einen Gott gibt,
+der über allen und durch alle und in uns allen ist[^bible-af74456f-c8c0-4183-ac5d-33c22f962a4d]\.
 
 ## Bibelverweise
 

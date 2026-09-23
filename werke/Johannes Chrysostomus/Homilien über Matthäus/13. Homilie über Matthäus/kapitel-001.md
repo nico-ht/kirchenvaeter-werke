@@ -7,9 +7,119 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/13-homilie-ueber-matthaeus#kapitel-0a537156-8a0e-465f-5a5f-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:bc17405f1e6d89ecfe28448701640663dba0346c7b7d9d973030683f4a1690be`
-
-Damals wurde Jesus vom Geist in die Wüste hinaufgeführt, um vom Teufel versucht zu werden\. Damals, wann? Nach der Herabkunft des Geistes, nach der Stimme, die von oben her erklang und sagte: „Dieser ist mein geliebter Sohn, an dem ich Wohlgefallen gefunden habe\.[^bible-cfc46964-e331-4e34-80c3-5357875143dc]“ Und das Erstaunliche ist: Es geschah durch den Heiligen Geist; denn diesen nennt der Text als den, der Jesus dorthin hinaufführte\. Weil Christus nämlich alles zu unserer Belehrung tat und ertrug, ließ er sich auch dorthin hinaufführen und nahm den Kampf mit dem Teufel auf, damit jeder Getaufte, wenn er nach der Taufe größere Versuchungen zu ertragen hat, nicht erschreckt, als geschehe etwas Unerwartetes, sondern standhaft bleibt und alles tapfer trägt, als geschehe dies der Ordnung entsprechend\. Denn dazu hast du Waffen empfangen: nicht damit du untätig bleibst, sondern damit du kämpfst\. Darum hindert Gott auch nicht, dass die Versuchungen auf dich zukommen: erstens, damit du lernst, dass du viel stärker geworden bist; zweitens, damit du maßvoll bleibst und dich nicht wegen der Größe der Gaben erhebst, da die Versuchungen dich kleinhalten können; außerdem, damit jener böse Dämon, der bisher noch im Zweifel über deinen Abfall von ihm ist, durch die Prüfung der Versuchungen volle Gewissheit bekommt, dass du ihn ganz verlassen und dich von ihm losgesagt hast; viertens, damit du dadurch stärker und fester gemacht wirst als jedes Eisen; fünftens, damit du einen klaren Beweis für die Schätze erhältst, die dir anvertraut wurden\. Denn der Teufel wäre nicht gegen dich angegangen, wenn er dich nicht in größerer Ehre gesehen hätte\. Daher erhob er sich auch von Anfang an gegen Adam, weil er sah, dass dieser hohe Würde genoss\. Darum stellte er sich gegen Ijob auf, weil er sah, dass dieser von dem Gott des Alls bekränzt und öffentlich ausgerufen wurde\. Und wie sagt er dann: „Betet, dass ihr nicht in Versuchung geratet[^bible-35341de8-ac87-482b-86f7-8d8dd3ab0bcc]“? Eben deshalb zeigt er dir Jesus nicht einfach als einen, der von sich aus hinaufgeht, sondern als einen, der nach dem Sinn der Heilsordnung hinaufgeführt wird\. Damit deutet er an: Man soll sich nicht selbst in Versuchungen stürzen; wenn man aber hineingezogen wird, soll man tapfer standhalten\. Und sieh, wohin der Geist ihn nahm und hinaufführte: nicht in eine Stadt, nicht auf einen Marktplatz, sondern in die Wüste\. Weil er den Teufel herbeiziehen wollte, gab er ihm nicht nur durch den Hunger, sondern auch durch den Ort eine Angriffsfläche\. Denn gerade dann greift der Teufel am liebsten an, wenn er Menschen vereinzelt und für sich allein sieht\. So griff er auch am Anfang die Frau an: Er nahm sie allein beiseite und fand sie ohne den Mann\. Wenn er Menschen aber mit anderen zusammen und fest verbunden sieht, hat er nicht die gleiche Zuversicht und rückt nicht heran\. Darum müssen wir uns gerade auch deshalb ständig aneinanderhalten, damit wir für den Teufel nicht leicht zu fassen sind\. Als er ihn nun in der Wüste fand, und zwar in einer unwegsamen Wüste, denn dass die Wüste so beschaffen war, hat Markus deutlich gemacht, als er sagte: „Er war bei den wilden Tieren[^bible-faf12abc-ed7c-4656-9f2d-116cff67918f]“, sieh, mit welcher Bosheit und Niedertracht er herantritt und welchen Zeitpunkt er abpasst\. Er tritt nämlich nicht an ihn heran, während er fastet, sondern als ihn hungert\. Daran sollst du lernen, welch großes Gut das Fasten ist, dass es die größte Waffe gegen den Teufel ist, und dass man sich nach dem Bad nicht an Üppigkeit, Trunkenheit und einen vollen Tisch halten soll, sondern ans Fasten\. Denn deshalb fastete auch er selbst: nicht weil er das Fasten brauchte, sondern weil er uns erziehen wollte\. Denn weil die Sünden vor dem Bad die Knechtschaft gegenüber dem Bauch eingeführt hatten, tat er hier nach dem Bad das Gleiche wie jemand, der einen Kranken gesund gemacht hat und ihm dann befiehlt, das nicht mehr zu tun, wodurch die Krankheit entstanden ist: Auch er führte nach dem Bad das Fasten ein\. Denn auch die Maßlosigkeit des Bauches hat Adam aus dem Paradies vertrieben; auch die Sintflut zur Zeit Noahs hat sie herbeigeführt, und die Blitze gegen Sodom hat sie herabgezogen\. Denn auch wenn die Anklage auf Unzucht lautete, so wuchs doch die Wurzel der beiden genannten Strafen von hier her\. Darauf deutete auch Hesekiel, als er sagte: „Doch dies war die Gesetzlosigkeit Sodoms: In Hochmut, in Überfluss an Broten und in Wohlstand schwelgten sie\.[^bible-e9aa9ef6-cee6-4b1f-b9be-f18eba774212]“ So begingen auch die Juden die größten Übel, als sie von Trunkenheit und Üppigkeit in die Gesetzlosigkeit abglitten\.
+Damals wurde Jesus vom Geist in die Wüste hinaufgeführt,
+um vom Teufel versucht zu werden\.
+Damals,
+wann?
+Nach der Herabkunft des Geistes,
+nach der Stimme,
+die von oben her erklang und sagte:
+„Dieser ist mein geliebter Sohn,
+an dem ich Wohlgefallen gefunden habe\.[^bible-cfc46964-e331-4e34-80c3-5357875143dc]“ Und das Erstaunliche ist:
+Es geschah durch den Heiligen Geist;
+denn diesen nennt der Text als den,
+der Jesus dorthin hinaufführte\.
+Weil Christus nämlich alles zu unserer Belehrung tat und ertrug,
+ließ er sich auch dorthin hinaufführen und nahm den Kampf mit dem Teufel auf,
+damit jeder Getaufte,
+wenn er nach der Taufe größere Versuchungen zu ertragen hat,
+nicht erschreckt,
+als geschehe etwas Unerwartetes,
+sondern standhaft bleibt und alles tapfer trägt,
+als geschehe dies der Ordnung entsprechend\.
+Denn dazu hast du Waffen empfangen:
+nicht damit du untätig bleibst,
+sondern damit du kämpfst\.
+Darum hindert Gott auch nicht,
+dass die Versuchungen auf dich zukommen:
+erstens,
+damit du lernst,
+dass du viel stärker geworden bist;
+zweitens,
+damit du maßvoll bleibst und dich nicht wegen der Größe der Gaben erhebst,
+da die Versuchungen dich kleinhalten können;
+außerdem,
+damit jener böse Dämon,
+der bisher noch im Zweifel über deinen Abfall von ihm ist,
+durch die Prüfung der Versuchungen volle Gewissheit bekommt,
+dass du ihn ganz verlassen und dich von ihm losgesagt hast;
+viertens,
+damit du dadurch stärker und fester gemacht wirst als jedes Eisen;
+fünftens,
+damit du einen klaren Beweis für die Schätze erhältst,
+die dir anvertraut wurden\.
+Denn der Teufel wäre nicht gegen dich angegangen,
+wenn er dich nicht in größerer Ehre gesehen hätte\.
+Daher erhob er sich auch von Anfang an gegen Adam,
+weil er sah,
+dass dieser hohe Würde genoss\.
+Darum stellte er sich gegen Ijob auf,
+weil er sah,
+dass dieser von dem Gott des Alls bekränzt und öffentlich ausgerufen wurde\.
+Und wie sagt er dann:
+„Betet,
+dass ihr nicht in Versuchung geratet[^bible-35341de8-ac87-482b-86f7-8d8dd3ab0bcc]“?
+Eben deshalb zeigt er dir Jesus nicht einfach als einen,
+der von sich aus hinaufgeht,
+sondern als einen,
+der nach dem Sinn der Heilsordnung hinaufgeführt wird\.
+Damit deutet er an:
+Man soll sich nicht selbst in Versuchungen stürzen;
+wenn man aber hineingezogen wird,
+soll man tapfer standhalten\.
+Und sieh,
+wohin der Geist ihn nahm und hinaufführte:
+nicht in eine Stadt,
+nicht auf einen Marktplatz,
+sondern in die Wüste\.
+Weil er den Teufel herbeiziehen wollte,
+gab er ihm nicht nur durch den Hunger,
+sondern auch durch den Ort eine Angriffsfläche\.
+Denn gerade dann greift der Teufel am liebsten an,
+wenn er Menschen vereinzelt und für sich allein sieht\.
+So griff er auch am Anfang die Frau an:
+Er nahm sie allein beiseite und fand sie ohne den Mann\.
+Wenn er Menschen aber mit anderen zusammen und fest verbunden sieht,
+hat er nicht die gleiche Zuversicht und rückt nicht heran\.
+Darum müssen wir uns gerade auch deshalb ständig aneinanderhalten,
+damit wir für den Teufel nicht leicht zu fassen sind\.
+Als er ihn nun in der Wüste fand,
+und zwar in einer unwegsamen Wüste,
+denn dass die Wüste so beschaffen war,
+hat Markus deutlich gemacht,
+als er sagte:
+„Er war bei den wilden Tieren[^bible-faf12abc-ed7c-4656-9f2d-116cff67918f]“,
+sieh,
+mit welcher Bosheit und Niedertracht er herantritt und welchen Zeitpunkt er abpasst\.
+Er tritt nämlich nicht an ihn heran,
+während er fastet,
+sondern als ihn hungert\.
+Daran sollst du lernen,
+welch großes Gut das Fasten ist,
+dass es die größte Waffe gegen den Teufel ist,
+und dass man sich nach dem Bad nicht an Üppigkeit,
+Trunkenheit und einen vollen Tisch halten soll,
+sondern ans Fasten\.
+Denn deshalb fastete auch er selbst:
+nicht weil er das Fasten brauchte,
+sondern weil er uns erziehen wollte\.
+Denn weil die Sünden vor dem Bad die Knechtschaft gegenüber dem Bauch eingeführt hatten,
+tat er hier nach dem Bad das Gleiche wie jemand,
+der einen Kranken gesund gemacht hat und ihm dann befiehlt,
+das nicht mehr zu tun,
+wodurch die Krankheit entstanden ist:
+Auch er führte nach dem Bad das Fasten ein\.
+Denn auch die Maßlosigkeit des Bauches hat Adam aus dem Paradies vertrieben;
+auch die Sintflut zur Zeit Noahs hat sie herbeigeführt,
+und die Blitze gegen Sodom hat sie herabgezogen\.
+Denn auch wenn die Anklage auf Unzucht lautete,
+so wuchs doch die Wurzel der beiden genannten Strafen von hier her\.
+Darauf deutete auch Hesekiel,
+als er sagte:
+„Doch dies war die Gesetzlosigkeit Sodoms:
+In Hochmut,
+in Überfluss an Broten und in Wohlstand schwelgten sie\.[^bible-e9aa9ef6-cee6-4b1f-b9be-f18eba774212]“ So begingen auch die Juden die größten Übel,
+als sie von Trunkenheit und Üppigkeit in die Gesetzlosigkeit abglitten\.
 
 ## Bibelverweise
 

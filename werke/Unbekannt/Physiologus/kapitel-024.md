@@ -7,13 +7,232 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/physiologus#kapitel-92b19b3c-5f25-41cd-ba09-08df104d63f5).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:00ab6df9bf04c9a04832a9767efbd601d8e537f8cd5b00d3afd962feeeebf207`
+Ich will dir erzählen,
+wie die Perle entsteht\.
+Im Meer gibt es einen Stein,
+der Auster heißt\.
+Früh am Morgen,
+noch vor dem ersten Licht,
+kommt er aus dem Meer hervor,
+öffnet seine Schale,
+also seinen Mund,
+und schluckt den himmlischen Tau,
+die Strahlen der Sonne und des Mondes und das Licht der Sterne dort oben\.
+So entsteht die Perle aus den höchsten Gestirnen\.
+Wie beim Achat zeigt uns auch hier Johannes selbst,
+dass die Perle im geistigen Sinn Jesus Christus,
+unser Herr,
+ist\.
+Er sagt:
+„Seht,
+das Lamm Gottes,
+seht den,
+der die Sünden der Welt hinwegnimmt\.[^bible-cd02a7e9-9b25-434e-99eb-c83a366c9d3c]
+“ Das Meer ist die Welt,
+und die Taucher,
+die die Perle heraufholen,
+sind der Chor der heiligen Lehrer\.
+Die Sünder jedoch tragen die Perle aus bösem Willen wieder hinab,
+so sehr steht sie ihnen entgegen\.
+Mein Herr,
+der Erlöser,
+aber empfängt,
+geistig verstanden,
+Nahrung aus den höchsten Höhen,
+mitten in der Muschel oder zwischen ihren beiden Flügeln,
+das heißt zwischen dem Alten und dem Neuen Testament\.
+Mein Herr hat gesagt:
+„Mein Königtum ist nicht von dieser Welt[^bible-a7e20046-6234-4224-ae87-c9f3321f02f5] “,
+sondern es kommt vom ewigen Vater und seinen heiligen Mächten\.
+Physiologus hat also weise vom Achat und von der Perle gesprochen\.
+\[Der Stein,
+der Muschel heißt,
+ist ein Sinnbild der heiligen Maria,
+von der Jesaja prophezeite:
+„Ein Spross \(virga\) wird aus dem Stumpf Isais hervorgehen\.[^bible-fe4b397e-9666-408e-bf56-f26602c845af]
+“ Und weiter:
+„Seht,
+eine junge Frau \(virgo\) wird in ihrem Schoß empfangen und gebären\.[^bible-78c33e69-0a6c-4fd8-9f53-cc48081dd83c]
+“ Wegen dieses Sprosses \(virga\) wurde die heilige Maria Jungfrau \(virgo\) genannt\.
+In Wahrheit ist die Blume,
+die die heilige Maria geboren hat,
+unser Herr und Gott Jesus Christus\.
+Denn wie der Stein aus dem Meer emporsteigt,
+so stieg die heilige Maria aus dem Haus ihres Vaters zum Tempel Gottes hinauf und empfing dort den himmlischen Tau\.
+Der Erzengel Gabriel sprach diese Worte zu ihr:
+„Der Heilige Geist wird über dich kommen,
+und die Kraft des Höchsten wird dich überschatten\.
+Darum wird das Kind,
+das geboren wird,
+heilig und Sohn Gottes genannt werden\.[^bible-65360659-3592-4985-a10d-22b691860b5c]
+“ Diese Worte sind himmlischer Tau\.
+So sagte einst auch der heilige Patriarch Jakob,
+als er seinen Sohn segnete und damit darauf hinwies,
+dass Christus aus seiner Nachkommenschaft geboren werden würde:
+„Gott gebe dir vom Tau des Himmels und von der Fruchtbarkeit der Erde\.[^bible-9442de00-3dd4-4ecc-9f2e-86ed0750ba82]
+“ Damit meinte er die keusche und makellose Jungfrau Maria\.
+Die Morgenstunde aber,
+von der er sprach,
+bezeichnet die Zeit des Morgengebets\.
+Dass die Muschel ihren Mund öffnet,
+weist auf Marias Worte an den Engel hin:
+„Siehe,
+ich bin die Magd des Herrn;
+mir geschehe nach deinem Wort\.[^bible-b6b0dd8e-8257-42e5-9e37-d2c335d20e43]
+“
 
-Ich will dir erzählen, wie die Perle entsteht\. Im Meer gibt es einen Stein, der Auster heißt\. Früh am Morgen, noch vor dem ersten Licht, kommt er aus dem Meer hervor, öffnet seine Schale, also seinen Mund, und schluckt den himmlischen Tau, die Strahlen der Sonne und des Mondes und das Licht der Sterne dort oben\. So entsteht die Perle aus den höchsten Gestirnen\. Wie beim Achat zeigt uns auch hier Johannes selbst, dass die Perle im geistigen Sinn Jesus Christus, unser Herr, ist\. Er sagt: „Seht, das Lamm Gottes, seht den, der die Sünden der Welt hinwegnimmt\.[^bible-cd02a7e9-9b25-434e-99eb-c83a366c9d3c] “ Das Meer ist die Welt, und die Taucher, die die Perle heraufholen, sind der Chor der heiligen Lehrer\. Die Sünder jedoch tragen die Perle aus bösem Willen wieder hinab, so sehr steht sie ihnen entgegen\. Mein Herr, der Erlöser, aber empfängt, geistig verstanden, Nahrung aus den höchsten Höhen, mitten in der Muschel oder zwischen ihren beiden Flügeln, das heißt zwischen dem Alten und dem Neuen Testament\. Mein Herr hat gesagt: „Mein Königtum ist nicht von dieser Welt[^bible-a7e20046-6234-4224-ae87-c9f3321f02f5] “, sondern es kommt vom ewigen Vater und seinen heiligen Mächten\. Physiologus hat also weise vom Achat und von der Perle gesprochen\. \[Der Stein, der Muschel heißt, ist ein Sinnbild der heiligen Maria, von der Jesaja prophezeite: „Ein Spross \(virga\) wird aus dem Stumpf Isais hervorgehen\.[^bible-fe4b397e-9666-408e-bf56-f26602c845af] “ Und weiter: „Seht, eine junge Frau \(virgo\) wird in ihrem Schoß empfangen und gebären\.[^bible-78c33e69-0a6c-4fd8-9f53-cc48081dd83c] “ Wegen dieses Sprosses \(virga\) wurde die heilige Maria Jungfrau \(virgo\) genannt\. In Wahrheit ist die Blume, die die heilige Maria geboren hat, unser Herr und Gott Jesus Christus\. Denn wie der Stein aus dem Meer emporsteigt, so stieg die heilige Maria aus dem Haus ihres Vaters zum Tempel Gottes hinauf und empfing dort den himmlischen Tau\. Der Erzengel Gabriel sprach diese Worte zu ihr: „Der Heilige Geist wird über dich kommen, und die Kraft des Höchsten wird dich überschatten\. Darum wird das Kind, das geboren wird, heilig und Sohn Gottes genannt werden\.[^bible-65360659-3592-4985-a10d-22b691860b5c] “ Diese Worte sind himmlischer Tau\. So sagte einst auch der heilige Patriarch Jakob, als er seinen Sohn segnete und damit darauf hinwies, dass Christus aus seiner Nachkommenschaft geboren werden würde: „Gott gebe dir vom Tau des Himmels und von der Fruchtbarkeit der Erde\.[^bible-9442de00-3dd4-4ecc-9f2e-86ed0750ba82] “ Damit meinte er die keusche und makellose Jungfrau Maria\. Die Morgenstunde aber, von der er sprach, bezeichnet die Zeit des Morgengebets\. Dass die Muschel ihren Mund öffnet, weist auf Marias Worte an den Engel hin: „Siehe, ich bin die Magd des Herrn; mir geschehe nach deinem Wort\.[^bible-b6b0dd8e-8257-42e5-9e37-d2c335d20e43] “
+Sogleich empfing sie den Heiligen Geist in sich[^bible-cd9324a6-87aa-4393-b90f-35fb6e705db7],
+und die Kraft des Höchsten[^bible-cd9324a6-87aa-4393-b90f-35fb6e705db7] leuchtete über ihr wie die Sonne der Gerechtigkeit[^bible-7bd298e0-0bfe-4c1f-af8f-e32bd2fba9a4]\.
+Und in dem,
+der aus ihr geboren wurde,
+ist Leben[^bible-2f36eea3-a576-4722-9527-66d39509daf3],
+und „das Licht kam,
+das jeden Menschen erleuchtet,
+der in die Welt kommt\.[^bible-40bae036-d8a3-45dc-a0a7-861d930a7e56]
+“ Und Paulus sagte:
+„Er ist der Glanz der Herrlichkeit und das Abbild seines Wesens\.[^bible-64d9d968-2329-47bc-aa20-2f4e940da1ac]
+“ Und an anderer Stelle:
+„Denn die ganze Fülle Gottes fand Gefallen daran,
+in ihm zu wohnen\.[^bible-3cec5584-fa62-4df9-a0d1-32ad17969f8b]
+“ Über die Perle lesen wir daher im Evangelium:
+„Das Himmelreich gleicht einem Kaufmann,
+der schöne Perlen suchte\.
+Als er eine Perle von großem Wert fand,
+ging er hin,
+verkaufte alles,
+was er hatte,
+und kaufte sie\.[^bible-471def1b-417f-45db-ad58-f6b4a5edf9c7]
+“ Dieser Kaufmann ist gewiss der Chor der Apostel,
+denn wegen der Einheit ihres Glaubens bezeichnet er alle Apostel als einen einzigen Kaufmann\.
+Denn es gilt:
+„Es gibt weder Juden noch Griechen,
+weder Sklaven noch Freie,
+weder Skythen noch Barbaren,[^bible-17f8ffbb-0555-4366-b4b0-43c7f207b7ec]
+weder Männer noch Frauen;
+denn wir alle sind eins in Christus Jesus\.[^bible-9de5ede7-e613-4758-911b-086d318a78ed]
+“ Darum ist der gute und weise Kaufmann,
+der heilige Chor der Apostel,
+auf der Suche nach guten Perlen[^bible-782d3f6c-ede2-4c6d-b741-7cc6b626ca1b],
+das heißt nach dem Gesetz und den Propheten\.
+Oder:
+Jede Seele,
+die an Gott glaubt,
+sucht die guten Perlen[^bible-782d3f6c-ede2-4c6d-b741-7cc6b626ca1b],
+nämlich die Apostel,
+Propheten und Patriarchen,
+durch die sie jene wahre und kostbare Perle finden kann\.
+Jene Männer sind heilige Steine,
+die auf der Erde zu finden sind[^bible-5fe8c9c3-ad78-4146-acf2-d2c8e5b4e15b]\.
+Wenn der gute Mensch mit diesen Steinen handelt,
+wird er die Perle finden[^bible-082f29b5-fead-4791-8f41-7b39d9f85226],
+das heißt unseren Herrn Jesus Christus,
+den Sohn des lebendigen Gottes[^bible-a5e012c7-c338-443a-b0c3-3ced00d8d1b3]\.
+Und er wird alles verkaufen,
+was er hat,
+und sie kaufen[^bible-082f29b5-fead-4791-8f41-7b39d9f85226]\.
+Dabei missachtet und verachtet er nicht nur die materiellen Güter dieses Lebens,
+sondern auch seine Frau,
+seine Söhne und alle Blutsverwandten,
+dazu seinen Leib und seine Seele[^bible-29d872e0-5fa1-446a-b3a8-b7cab8b314bc]\.
+Es ist wahr:
+„Wer seine Seele um meinetwillen verliert,
+wird sie finden\.[^bible-2c7a13d3-62ec-49e0-8d02-29e322e35113]
+“ Der Chor der Apostel erkennt dies alles und nimmt weder Gold noch Silber an[^bible-9e1d4590-4e20-427e-a499-67e7b1be7b55]\.
+So sagte der heilige Petrus zu dem Lahmen,
+der um Almosen bat[^bible-6fdea684-2393-4f5e-b6f5-96b81afddf33]:
+„Silber und Gold habe ich nicht,
+aber was ich habe,
+gebe ich dir\.
+Im Namen unseres Herrn Jesus Christus:
+Steh auf und geh\![^bible-92077d4a-1ce9-4178-aa72-417289f940f1]
+“ Und Paulus sagte:
+„Alles,
+was Gewinn war,
+habe ich um Christi und seiner erhabenen Unschuld willen als Verlust angesehen\.[^bible-3305ce71-465b-4042-898d-31939b8ff7da]
+“ Wer würde bewusst seinen ganzen Besitz,
+seine Frau,
+seine Söhne und alle seine Verwandten,
+dazu seinen Leib und seine Seele verachten[^bible-29d872e0-5fa1-446a-b3a8-b7cab8b314bc],
+um eine einzige Perle zu erwerben,
+wenn er nicht fest bekennen und glauben würde,
+dass er durch diese eine Perle größeren und besseren Reichtum,
+höhere Ehre und eine Krone der Herrlichkeit erlangen könnte?
+Alles,
+was der Kaufmann,
+also der Chor der Apostel,
+besitzt,
+hat er durch diesen einen kostbaren Stein,
+den Herrn Jesus Christus\.
+Er ist die wahre Perle,
+der Weg,
+die Wahrheit und unser Leben[^bible-731c6457-6111-4565-96c0-7ecd23c44d2e]\.
+Ich habe Jesus im Evangelium sagen hören:
+„Siehe,
+ich habe euch Macht über unreine Geister gegeben:
+Ihr könnt auf Schlangen und Skorpione und jede teuflische Macht treten und jede Krankheit und jedes Gebrechen heilen\.[^bible-1d2dcd2d-41f4-4d98-97da-0b10a769a96b]
+“ Und wiederum:
+„Und verkündet unterwegs,
+denn das Himmelreich naht\.
+Heilt die Kranken,
+reinigt die Aussätzigen,
+heilt die Blinden,
+weckt die Toten auf,
+treibt Dämonen aus\.[^bible-887a0886-d9ee-4d1c-9031-f733e831bc91]
+“
 
-Sogleich empfing sie den Heiligen Geist in sich[^bible-cd9324a6-87aa-4393-b90f-35fb6e705db7], und die Kraft des Höchsten[^bible-cd9324a6-87aa-4393-b90f-35fb6e705db7] leuchtete über ihr wie die Sonne der Gerechtigkeit[^bible-7bd298e0-0bfe-4c1f-af8f-e32bd2fba9a4]\. Und in dem, der aus ihr geboren wurde, ist Leben[^bible-2f36eea3-a576-4722-9527-66d39509daf3], und „das Licht kam, das jeden Menschen erleuchtet, der in die Welt kommt\.[^bible-40bae036-d8a3-45dc-a0a7-861d930a7e56] “ Und Paulus sagte: „Er ist der Glanz der Herrlichkeit und das Abbild seines Wesens\.[^bible-64d9d968-2329-47bc-aa20-2f4e940da1ac] “ Und an anderer Stelle: „Denn die ganze Fülle Gottes fand Gefallen daran, in ihm zu wohnen\.[^bible-3cec5584-fa62-4df9-a0d1-32ad17969f8b] “ Über die Perle lesen wir daher im Evangelium: „Das Himmelreich gleicht einem Kaufmann, der schöne Perlen suchte\. Als er eine Perle von großem Wert fand, ging er hin, verkaufte alles, was er hatte, und kaufte sie\.[^bible-471def1b-417f-45db-ad58-f6b4a5edf9c7] “ Dieser Kaufmann ist gewiss der Chor der Apostel, denn wegen der Einheit ihres Glaubens bezeichnet er alle Apostel als einen einzigen Kaufmann\. Denn es gilt: „Es gibt weder Juden noch Griechen, weder Sklaven noch Freie, weder Skythen noch Barbaren,[^bible-17f8ffbb-0555-4366-b4b0-43c7f207b7ec] weder Männer noch Frauen; denn wir alle sind eins in Christus Jesus\.[^bible-9de5ede7-e613-4758-911b-086d318a78ed] “ Darum ist der gute und weise Kaufmann, der heilige Chor der Apostel, auf der Suche nach guten Perlen[^bible-782d3f6c-ede2-4c6d-b741-7cc6b626ca1b], das heißt nach dem Gesetz und den Propheten\. Oder: Jede Seele, die an Gott glaubt, sucht die guten Perlen[^bible-782d3f6c-ede2-4c6d-b741-7cc6b626ca1b], nämlich die Apostel, Propheten und Patriarchen, durch die sie jene wahre und kostbare Perle finden kann\. Jene Männer sind heilige Steine, die auf der Erde zu finden sind[^bible-5fe8c9c3-ad78-4146-acf2-d2c8e5b4e15b]\. Wenn der gute Mensch mit diesen Steinen handelt, wird er die Perle finden[^bible-082f29b5-fead-4791-8f41-7b39d9f85226], das heißt unseren Herrn Jesus Christus, den Sohn des lebendigen Gottes[^bible-a5e012c7-c338-443a-b0c3-3ced00d8d1b3]\. Und er wird alles verkaufen, was er hat, und sie kaufen[^bible-082f29b5-fead-4791-8f41-7b39d9f85226]\. Dabei missachtet und verachtet er nicht nur die materiellen Güter dieses Lebens, sondern auch seine Frau, seine Söhne und alle Blutsverwandten, dazu seinen Leib und seine Seele[^bible-29d872e0-5fa1-446a-b3a8-b7cab8b314bc]\. Es ist wahr: „Wer seine Seele um meinetwillen verliert, wird sie finden\.[^bible-2c7a13d3-62ec-49e0-8d02-29e322e35113] “ Der Chor der Apostel erkennt dies alles und nimmt weder Gold noch Silber an[^bible-9e1d4590-4e20-427e-a499-67e7b1be7b55]\. So sagte der heilige Petrus zu dem Lahmen, der um Almosen bat[^bible-6fdea684-2393-4f5e-b6f5-96b81afddf33]: „Silber und Gold habe ich nicht, aber was ich habe, gebe ich dir\. Im Namen unseres Herrn Jesus Christus: Steh auf und geh\![^bible-92077d4a-1ce9-4178-aa72-417289f940f1] “ Und Paulus sagte: „Alles, was Gewinn war, habe ich um Christi und seiner erhabenen Unschuld willen als Verlust angesehen\.[^bible-3305ce71-465b-4042-898d-31939b8ff7da] “ Wer würde bewusst seinen ganzen Besitz, seine Frau, seine Söhne und alle seine Verwandten, dazu seinen Leib und seine Seele verachten[^bible-29d872e0-5fa1-446a-b3a8-b7cab8b314bc], um eine einzige Perle zu erwerben, wenn er nicht fest bekennen und glauben würde, dass er durch diese eine Perle größeren und besseren Reichtum, höhere Ehre und eine Krone der Herrlichkeit erlangen könnte? Alles, was der Kaufmann, also der Chor der Apostel, besitzt, hat er durch diesen einen kostbaren Stein, den Herrn Jesus Christus\. Er ist die wahre Perle, der Weg, die Wahrheit und unser Leben[^bible-731c6457-6111-4565-96c0-7ecd23c44d2e]\. Ich habe Jesus im Evangelium sagen hören: „Siehe, ich habe euch Macht über unreine Geister gegeben: Ihr könnt auf Schlangen und Skorpione und jede teuflische Macht treten und jede Krankheit und jedes Gebrechen heilen\.[^bible-1d2dcd2d-41f4-4d98-97da-0b10a769a96b] “ Und wiederum: „Und verkündet unterwegs, denn das Himmelreich naht\. Heilt die Kranken, reinigt die Aussätzigen, heilt die Blinden, weckt die Toten auf, treibt Dämonen aus\.[^bible-887a0886-d9ee-4d1c-9031-f733e831bc91] “
-
-Sieh, welch unschätzbaren Wert diese Perle für die heiligen Märtyrer hat, die nicht nur während ihres Lebens Wunder wirkten, sondern auch, nachdem sie aus diesem Leben geschieden waren\. So sehen wir noch heute, wie die unreinen Geister in den Besessenen durch die Kraft und Macht der Märtyrer gequält und bestraft und mit unsichtbaren Geißeln geschlagen werden, bis Menschen sie austreiben und in die Flucht schlagen\. Wir hören die Dämonen laut aufschreien und die Menschen bitten, sie nicht länger zu quälen\. Da sie aber alle verschieden sind und vielerlei Gestalt haben, schreien die einen, andere brüllen, wieder andere zischen wie Schlangen\. Durch die Kräfte der Apostel und aller Heiligen, die der Herr ihnen nach ihren Verdiensten verliehen hat, fliehen die Geister aus den besessenen Leibern der Menschen\. Die Apostel und Heiligen haben durch diesen kostbaren Stein jene hohe Ehre erlangt, die jede irdische Ehre übersteigt\. Für ihn gaben sie ihren ganzen Besitz auf, um jenen himmlischen Schatz zu besitzen[^bible-5c12a9cd-bf8e-4bbe-ba47-9b2e82be43b4], wie jene, die zum Erlöser sagten: „Siehe, wir haben um deinetwillen unsere Frauen und Söhne und unseren ganzen Besitz aufgegeben\. Was wirst du in deinem Reich für uns tun?[^bible-08511566-1a45-4b48-98bc-74acec5b179a] “ Jesus sagte zu ihnen: „Wahrlich, ich sage euch: Wenn der Menschensohn auf dem Thron seiner Majestät sitzen wird, um die Welt zu richten, werdet auch ihr auf zwölf Thronen sitzen und die zwölf Stämme Israels richten\.[^bible-8ed02660-749a-4e3f-80bd-a53b6474f79d] “ Darum erklärt der Apostel Paulus voller Zuversicht: „Wisst ihr, dass wir die Engel richten werden?[^bible-b31a1882-ecf0-4660-897f-72811d4eb95c] Und durch uns wird die Welt gerichtet werden\.[^bible-bc8a3ea6-f1f7-4f35-a64e-0338e894f213] “ Mit so großer Herrlichkeit und Ehre wurde der Chor der Apostel belohnt, dass Paulus, jener wahre Wettkämpfer Christi, schon während seines Lebens in dieser Welt die Krone seiner Gerechtigkeit im Himmel[^bible-72fe55d8-3855-444c-9a91-651c90840060] voraussah\. Er sagte: „Freut euch\! ‚Ich habe den guten Kampf gekämpft\. Ich habe den Lauf vollendet, ich habe den Glauben bewahrt\. Nun liegt die Krone der Gerechtigkeit für mich bereit, die mir der Herr, der gerechte Richter, an jenem Tag verleihen wird, und nicht nur mir, sondern auch allen, die sein Erscheinen geliebt haben\.[^bible-b3f618a1-2283-436a-9a43-dd82038c1a4e] ‘“ Der Chor der seligen Apostel verdient eine solche Krone von Christus und wird einen solchen Lohn anstelle vergänglicher Dinge empfangen\.
+Sieh,
+welch unschätzbaren Wert diese Perle für die heiligen Märtyrer hat,
+die nicht nur während ihres Lebens Wunder wirkten,
+sondern auch,
+nachdem sie aus diesem Leben geschieden waren\.
+So sehen wir noch heute,
+wie die unreinen Geister in den Besessenen durch die Kraft und Macht der Märtyrer gequält und bestraft und mit unsichtbaren Geißeln geschlagen werden,
+bis Menschen sie austreiben und in die Flucht schlagen\.
+Wir hören die Dämonen laut aufschreien und die Menschen bitten,
+sie nicht länger zu quälen\.
+Da sie aber alle verschieden sind und vielerlei Gestalt haben,
+schreien die einen,
+andere brüllen,
+wieder andere zischen wie Schlangen\.
+Durch die Kräfte der Apostel und aller Heiligen,
+die der Herr ihnen nach ihren Verdiensten verliehen hat,
+fliehen die Geister aus den besessenen Leibern der Menschen\.
+Die Apostel und Heiligen haben durch diesen kostbaren Stein jene hohe Ehre erlangt,
+die jede irdische Ehre übersteigt\.
+Für ihn gaben sie ihren ganzen Besitz auf,
+um jenen himmlischen Schatz zu besitzen[^bible-5c12a9cd-bf8e-4bbe-ba47-9b2e82be43b4],
+wie jene,
+die zum Erlöser sagten:
+„Siehe,
+wir haben um deinetwillen unsere Frauen und Söhne und unseren ganzen Besitz aufgegeben\.
+Was wirst du in deinem Reich für uns tun?[^bible-08511566-1a45-4b48-98bc-74acec5b179a]
+“ Jesus sagte zu ihnen:
+„Wahrlich,
+ich sage euch:
+Wenn der Menschensohn auf dem Thron seiner Majestät sitzen wird,
+um die Welt zu richten,
+werdet auch ihr auf zwölf Thronen sitzen und die zwölf Stämme Israels richten\.[^bible-8ed02660-749a-4e3f-80bd-a53b6474f79d]
+“ Darum erklärt der Apostel Paulus voller Zuversicht:
+„Wisst ihr,
+dass wir die Engel richten werden?[^bible-b31a1882-ecf0-4660-897f-72811d4eb95c]
+Und durch uns wird die Welt gerichtet werden\.[^bible-bc8a3ea6-f1f7-4f35-a64e-0338e894f213]
+“ Mit so großer Herrlichkeit und Ehre wurde der Chor der Apostel belohnt,
+dass Paulus,
+jener wahre Wettkämpfer Christi,
+schon während seines Lebens in dieser Welt die Krone seiner Gerechtigkeit im Himmel[^bible-72fe55d8-3855-444c-9a91-651c90840060] voraussah\.
+Er sagte:
+„Freut euch\!
+‚Ich habe den guten Kampf gekämpft\.
+Ich habe den Lauf vollendet,
+ich habe den Glauben bewahrt\.
+Nun liegt die Krone der Gerechtigkeit für mich bereit,
+die mir der Herr,
+der gerechte Richter,
+an jenem Tag verleihen wird,
+und nicht nur mir,
+sondern auch allen,
+die sein Erscheinen geliebt haben\.[^bible-b3f618a1-2283-436a-9a43-dd82038c1a4e]
+‘“ Der Chor der seligen Apostel verdient eine solche Krone von Christus und wird einen solchen Lohn anstelle vergänglicher Dinge empfangen\.
 
 ## Bibelverweise
 

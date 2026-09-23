@@ -7,11 +7,39 @@ Autor: Ambrosius von Mailand
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/kommentar-zu-psalm-1#kapitel-be8978a7-002c-4179-14c7-08dd77aa2ebb).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:885a81963f1402d2d1dcee50d7f8a0202441343349db8161824fd43df9615152`
+Und deshalb,
+weil auch der Erlöser zwei Arten der Auferstehung dargelegt hat,
+und Johannes in der Apokalypse sagte:
+„Selig ist,
+der an der ersten Auferstehung teilhat“[^bible-c0081245-08f0-4524-9ccf-03c0656de7cb] – diese kommen tatsächlich zur Gnade ohne Gericht;
+aber diejenigen,
+die nicht zur ersten Auferstehung kommen,
+sondern für die zweite reserviert sind,
+werden brennen,
+bis sie die Zeiten zwischen der ersten und der zweiten Auferstehung erfüllt haben,
+oder,
+wenn sie diese nicht erfüllt haben,
+werden sie länger in der Strafe bleiben\.
+Daher lasst uns beten,
+dass wir als würdig erachtet werden,
+an der ersten Auferstehung teilzuhaben\.
 
-Und deshalb, weil auch der Erlöser zwei Arten der Auferstehung dargelegt hat, und Johannes in der Apokalypse sagte: „Selig ist, der an der ersten Auferstehung teilhat“[^bible-c0081245-08f0-4524-9ccf-03c0656de7cb] – diese kommen tatsächlich zur Gnade ohne Gericht; aber diejenigen, die nicht zur ersten Auferstehung kommen, sondern für die zweite reserviert sind, werden brennen, bis sie die Zeiten zwischen der ersten und der zweiten Auferstehung erfüllt haben, oder, wenn sie diese nicht erfüllt haben, werden sie länger in der Strafe bleiben\. Daher lasst uns beten, dass wir als würdig erachtet werden, an der ersten Auferstehung teilzuhaben\.
-
-Es gibt diejenigen, die zur Passion Christi auferstanden sind, und diese sind wahrhaftig gesegnet, die die Gnade Christi empfangen und Seine Stimme gehört haben, von der geschrieben steht: „Die Stunde kommt, in der die Toten die Stimme des Sohnes Gottes hören werden, und die, die hören, werden leben“[^bible-e824fbc2-3656-414a-88b5-d2e37d498c64] und: „Sie betraten die heilige Stadt\.“ Ich denke, dass dies mehr das himmlische Jerusalem bedeutet als diese, die Er verlassen und getadelt hat, denn sie traten in jene – die himmlische – durch Verdienst ein, während Er in dieser hier mit Seinen Füßen wandelte\.
+Es gibt diejenigen,
+die zur Passion Christi auferstanden sind,
+und diese sind wahrhaftig gesegnet,
+die die Gnade Christi empfangen und Seine Stimme gehört haben,
+von der geschrieben steht:
+„Die Stunde kommt,
+in der die Toten die Stimme des Sohnes Gottes hören werden,
+und die,
+die hören,
+werden leben“[^bible-e824fbc2-3656-414a-88b5-d2e37d498c64] und:
+„Sie betraten die heilige Stadt\.“
+Ich denke,
+dass dies mehr das himmlische Jerusalem bedeutet als diese,
+die Er verlassen und getadelt hat,
+denn sie traten in jene – die himmlische – durch Verdienst ein,
+während Er in dieser hier mit Seinen Füßen wandelte\.
 
 ## Bibelverweise
 

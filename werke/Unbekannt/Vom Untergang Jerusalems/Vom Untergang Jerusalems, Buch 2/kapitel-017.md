@@ -7,6 +7,40 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-2#kapitel-96ee78a0-91c2-404e-fedd-08ded489fbe0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:83720f00fd987a9719d83eca30e7fce0917ff9c0645448bb507fe40fd99423ac`
-
-So griffen sie alle an einem engen Ort an und töteten zehntausend Juden\. Das war leicht, denn sie wurden von Bewaffneten eingeschlossen und starben selbst unbewaffnet\. Und tatsächlich ging ein noch frisches Beispiel solcher Grausamkeit in Scythopolis noch weiter; dadurch, meine ich, wurden die Damascener aufgestachelt\. Denn als die Juden jedes benachbarte Gebiet verwüsteten, kamen sie nach Scythopolis\. Dort griffen die Einwohner sie an, um die Juden auf die Probe zu stellen; sie stellten sich den Gegnern zur Verfügung, die sie für ihnen treu hielten, weil nach Art der menschlichen Natur die Sorge um die Sicherheit das Leid überwog\. In günstiger Lage zogen sie daher einem Bund mit Stammesgenossen das Bündnis mit den Einwohnern vor und drohten ihren Stammesgenossen Verderben an\. Das erregte beim Volk Verdacht, weil das Vorgehen vom offenkundigen Geist des Hasses geprägt war: Es sollte nicht unter dem Schein der Verstellung ein Verrat vorbereitet werden, sodass sie die Stadt bei Nacht angriffen, wenn die Bewohner weniger vorsichtig waren, und sich, nachdem das ganze Volk niedergeworfen war, bei den Juden wieder Gunst verschafften\. Und außerdem sollten sie, wenn sie wollten, gerade dadurch auch vor den Heiden ihre Treue zeigen: Jedes Geschlecht sollte aus seiner Stadt hinausgehen und den benachbarten Hain aufsuchen\. Als das geschehen war, blieben die Scythopolitaner zwei Tage ruhig, damit ein Teil der Juden das Misstrauen ablegte und Sorglosigkeit annahm\. In der dritten Nacht, als das erwartete Vertrauen auf Gnade bereits jede Wachsamkeit der Wache beseitigt hatte, wurden sie unvorsichtig und schlafend überwältigt; dreizehntausend Männer wurden getötet, und alles, was sie besaßen, wurde geplündert\.
+So griffen sie alle an einem engen Ort an und töteten zehntausend Juden\.
+Das war leicht,
+denn sie wurden von Bewaffneten eingeschlossen und starben selbst unbewaffnet\.
+Und tatsächlich ging ein noch frisches Beispiel solcher Grausamkeit in Scythopolis noch weiter;
+dadurch,
+meine ich,
+wurden die Damascener aufgestachelt\.
+Denn als die Juden jedes benachbarte Gebiet verwüsteten,
+kamen sie nach Scythopolis\.
+Dort griffen die Einwohner sie an,
+um die Juden auf die Probe zu stellen;
+sie stellten sich den Gegnern zur Verfügung,
+die sie für ihnen treu hielten,
+weil nach Art der menschlichen Natur die Sorge um die Sicherheit das Leid überwog\.
+In günstiger Lage zogen sie daher einem Bund mit Stammesgenossen das Bündnis mit den Einwohnern vor und drohten ihren Stammesgenossen Verderben an\.
+Das erregte beim Volk Verdacht,
+weil das Vorgehen vom offenkundigen Geist des Hasses geprägt war:
+Es sollte nicht unter dem Schein der Verstellung ein Verrat vorbereitet werden,
+sodass sie die Stadt bei Nacht angriffen,
+wenn die Bewohner weniger vorsichtig waren,
+und sich,
+nachdem das ganze Volk niedergeworfen war,
+bei den Juden wieder Gunst verschafften\.
+Und außerdem sollten sie,
+wenn sie wollten,
+gerade dadurch auch vor den Heiden ihre Treue zeigen:
+Jedes Geschlecht sollte aus seiner Stadt hinausgehen und den benachbarten Hain aufsuchen\.
+Als das geschehen war,
+blieben die Scythopolitaner zwei Tage ruhig,
+damit ein Teil der Juden das Misstrauen ablegte und Sorglosigkeit annahm\.
+In der dritten Nacht,
+als das erwartete Vertrauen auf Gnade bereits jede Wachsamkeit der Wache beseitigt hatte,
+wurden sie unvorsichtig und schlafend überwältigt;
+dreizehntausend Männer wurden getötet,
+und alles,
+was sie besaßen,
+wurde geplündert\.

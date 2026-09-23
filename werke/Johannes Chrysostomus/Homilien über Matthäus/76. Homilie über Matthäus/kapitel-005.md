@@ -7,9 +7,165 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/76-homilie-ueber-matthaeus#kapitel-6141eaac-d5f7-43e8-5b9c-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ffdb69168e70b74b36ad712c0c160df16c6ed7228ef3a75254ddaf4bf6d6db88`
-
-Wendet er sich also nicht mit Recht von uns ab und straft uns, wenn er sich uns für alles anbietet, wir aber widerstehen? Das ist doch jedem klar\. Denn wenn du dich schmücken willst, sagt er, nimm meinen Schmuck; wenn du gerüstet werden willst, meine Waffen; wenn du bekleidet werden willst, mein Gewand; wenn du genährt werden willst, meinen Tisch; wenn du reisen willst, meinen Weg; wenn du erben willst, mein Erbe; wenn du in die Heimat eintreten willst, in die Stadt, deren Baumeister und Schöpfer ich bin; wenn du ein Haus bauen willst, dann in meinen Zelten\. Denn für das, was ich gebe, fordere ich keinen Lohn von dir; vielmehr schulde ich dir sogar für eben dies noch Lohn, wenn du alles nutzen willst, was mir gehört\. Was könnte dieser Freigebigkeit gleichkommen? Ich bin Vater, ich bin Bruder, ich bin Bräutigam, ich bin Haus, ich bin Nahrung, ich bin Gewand, ich bin Wurzel, ich bin Fundament; alles, was du willst, bin ich\. Du sollst an nichts Mangel haben\. Ich werde sogar dienen; denn ich bin gekommen, um zu dienen, nicht um bedient zu werden[^bible-54d57f30-34cf-4e3d-aece-7841774540f1]\. Ich bin auch Freund, Glied und Haupt, Bruder, Schwester und Mutter; alles bin ich\. Sei nur vertraut mit mir\. Ich bin arm um deinetwillen, und heimatlos um deinetwillen; am Kreuz um deinetwillen, im Grab um deinetwillen\. Oben trete ich für dich beim Vater ein, unten bin ich für dich als Gesandter vom Vater gekommen\. Du bist mir alles: Bruder, Miterbe, Freund und Glied\. Was willst du noch mehr? Warum wendest du dich von dem ab, der dich liebt? Warum mühst du dich für die Welt ab? Warum schöpfst du Wasser in ein durchlöchertes Fass? Denn genau das heißt es, sich für das gegenwärtige Leben abzuarbeiten\. Warum kämmst du Wolle ins Feuer? Warum schlägst du mit den Fäusten in die Luft? Warum läufst du vergeblich? Hat nicht jede Kunst ein Ziel? Das ist doch jedem klar\. Zeig auch du mir das Ziel deiner Mühe um das irdische Leben\. Aber du hast keines\. Denn Nichtigkeit der Nichtigkeiten, alles ist Nichtigkeit[^bible-e53d6b98-afb0-4190-acae-31fb58c62826]\. Gehen wir zu den Gräbern: Zeig mir den Vater, zeig mir die Frau\. Wo ist der, der goldene Gewänder trug? Der auf dem Wagen saß? Der Heerlager hatte, den Gürtel, die Herolde? Der die einen hinrichten ließ und die anderen ins Gefängnis warf? Der tötete, wen er wollte, und freiließ, wen er wollte? Ich sehe nichts als Knochen, Moder und Spinnweben\. All das ist Erde, all das ist Erzählung, alles Traum und Schatten, bloßer Bericht und Bild, ja nicht einmal ein Bild\. Denn ein Bild können wir wenigstens in einem Abbild sehen; hier aber gibt es nicht einmal ein Abbild\. Und wären die Schrecken doch nur darauf beschränkt\! Jetzt aber reicht das, was Ehre, Üppigkeit und Ansehen betrifft, nur bis zum Schatten, nur bis zu Worten; was aber daraus hervorgeht, reicht nicht nur bis zu Schatten und Worten, sondern bleibt und wird mit uns dorthin hinübergehen und allen offenbar sein: die Raubgier, die Habgier, die Unzucht, die Ehebrüche, die zahllosen Schrecken\. Diese stehen nicht in einem Bild und nicht in Asche, sondern oben aufgeschrieben als Worte und als Taten\. Mit welchen Augen werden wir also Christus anschauen? Denn wenn jemand es nicht ertrüge, den Vater anzusehen, weil er sich bewusst ist, gegen ihn gesündigt zu haben, wie werden wir dann den anblicken können, der unendlich milder ist als ein Vater? Wie werden wir es ertragen? Denn wir werden vor dem Richterstuhl Christi stehen, und alles wird genau geprüft werden\. Wenn aber jemand dem kommenden Gericht nicht glaubt, dann soll er auf das schauen, was hier geschieht: auf die Menschen in den Gefängnissen, in den Bergwerken, in den Kotgruben, auf die von Dämonen Besessenen, die Verwirrten, die mit unheilbaren Krankheiten ringen, die in dauernder Armut kämpfen, die mit Hunger leben, die von unheilbarem Leid niedergedrückt sind, die in Gefangenschaft leben\. Denn diese würden das jetzt nicht erleiden, wenn nicht auch alle anderen, die solche Sünden begangen haben, Strafe und Züchtigung erwarten würden\. Wenn aber die Übrigen hier nichts erlitten haben, musst du gerade dies als Zeichen dafür nehmen, dass es nach dem Weggang von hier ganz gewiss noch etwas gibt\. Denn Gott, der doch derselbe Gott aller ist, hätte nicht die einen bestraft und die anderen ungestraft gelassen, obwohl sie dasselbe oder sogar Schlimmeres getan haben, wenn er nicht vorhätte, dort eine Strafe über sie zu bringen\. Aufgrund solcher Überlegungen und Beispiele wollen auch wir uns demütigen; und die, die dem Gericht misstrauen, sollen von nun an glauben und besser werden, damit wir hier der Königsherrschaft würdig leben und die künftigen Güter erlangen durch die Gnade und Menschenliebe unseres Herrn Jesus Christus\. Ihm sei die Herrlichkeit in alle Ewigkeit\. Amen\.
+Wendet er sich also nicht mit Recht von uns ab und straft uns,
+wenn er sich uns für alles anbietet,
+wir aber widerstehen?
+Das ist doch jedem klar\.
+Denn wenn du dich schmücken willst,
+sagt er,
+nimm meinen Schmuck;
+wenn du gerüstet werden willst,
+meine Waffen;
+wenn du bekleidet werden willst,
+mein Gewand;
+wenn du genährt werden willst,
+meinen Tisch;
+wenn du reisen willst,
+meinen Weg;
+wenn du erben willst,
+mein Erbe;
+wenn du in die Heimat eintreten willst,
+in die Stadt,
+deren Baumeister und Schöpfer ich bin;
+wenn du ein Haus bauen willst,
+dann in meinen Zelten\.
+Denn für das,
+was ich gebe,
+fordere ich keinen Lohn von dir;
+vielmehr schulde ich dir sogar für eben dies noch Lohn,
+wenn du alles nutzen willst,
+was mir gehört\.
+Was könnte dieser Freigebigkeit gleichkommen?
+Ich bin Vater,
+ich bin Bruder,
+ich bin Bräutigam,
+ich bin Haus,
+ich bin Nahrung,
+ich bin Gewand,
+ich bin Wurzel,
+ich bin Fundament;
+alles,
+was du willst,
+bin ich\.
+Du sollst an nichts Mangel haben\.
+Ich werde sogar dienen;
+denn ich bin gekommen,
+um zu dienen,
+nicht um bedient zu werden[^bible-54d57f30-34cf-4e3d-aece-7841774540f1]\.
+Ich bin auch Freund,
+Glied und Haupt,
+Bruder,
+Schwester und Mutter;
+alles bin ich\.
+Sei nur vertraut mit mir\.
+Ich bin arm um deinetwillen,
+und heimatlos um deinetwillen;
+am Kreuz um deinetwillen,
+im Grab um deinetwillen\.
+Oben trete ich für dich beim Vater ein,
+unten bin ich für dich als Gesandter vom Vater gekommen\.
+Du bist mir alles:
+Bruder,
+Miterbe,
+Freund und Glied\.
+Was willst du noch mehr?
+Warum wendest du dich von dem ab,
+der dich liebt?
+Warum mühst du dich für die Welt ab?
+Warum schöpfst du Wasser in ein durchlöchertes Fass?
+Denn genau das heißt es,
+sich für das gegenwärtige Leben abzuarbeiten\.
+Warum kämmst du Wolle ins Feuer?
+Warum schlägst du mit den Fäusten in die Luft?
+Warum läufst du vergeblich?
+Hat nicht jede Kunst ein Ziel?
+Das ist doch jedem klar\.
+Zeig auch du mir das Ziel deiner Mühe um das irdische Leben\.
+Aber du hast keines\.
+Denn Nichtigkeit der Nichtigkeiten,
+alles ist Nichtigkeit[^bible-e53d6b98-afb0-4190-acae-31fb58c62826]\.
+Gehen wir zu den Gräbern:
+Zeig mir den Vater,
+zeig mir die Frau\.
+Wo ist der,
+der goldene Gewänder trug?
+Der auf dem Wagen saß?
+Der Heerlager hatte,
+den Gürtel,
+die Herolde?
+Der die einen hinrichten ließ und die anderen ins Gefängnis warf?
+Der tötete,
+wen er wollte,
+und freiließ,
+wen er wollte?
+Ich sehe nichts als Knochen,
+Moder und Spinnweben\.
+All das ist Erde,
+all das ist Erzählung,
+alles Traum und Schatten,
+bloßer Bericht und Bild,
+ja nicht einmal ein Bild\.
+Denn ein Bild können wir wenigstens in einem Abbild sehen;
+hier aber gibt es nicht einmal ein Abbild\.
+Und wären die Schrecken doch nur darauf beschränkt\!
+Jetzt aber reicht das,
+was Ehre,
+Üppigkeit und Ansehen betrifft,
+nur bis zum Schatten,
+nur bis zu Worten;
+was aber daraus hervorgeht,
+reicht nicht nur bis zu Schatten und Worten,
+sondern bleibt und wird mit uns dorthin hinübergehen und allen offenbar sein:
+die Raubgier,
+die Habgier,
+die Unzucht,
+die Ehebrüche,
+die zahllosen Schrecken\.
+Diese stehen nicht in einem Bild und nicht in Asche,
+sondern oben aufgeschrieben als Worte und als Taten\.
+Mit welchen Augen werden wir also Christus anschauen?
+Denn wenn jemand es nicht ertrüge,
+den Vater anzusehen,
+weil er sich bewusst ist,
+gegen ihn gesündigt zu haben,
+wie werden wir dann den anblicken können,
+der unendlich milder ist als ein Vater?
+Wie werden wir es ertragen?
+Denn wir werden vor dem Richterstuhl Christi stehen,
+und alles wird genau geprüft werden\.
+Wenn aber jemand dem kommenden Gericht nicht glaubt,
+dann soll er auf das schauen,
+was hier geschieht:
+auf die Menschen in den Gefängnissen,
+in den Bergwerken,
+in den Kotgruben,
+auf die von Dämonen Besessenen,
+die Verwirrten,
+die mit unheilbaren Krankheiten ringen,
+die in dauernder Armut kämpfen,
+die mit Hunger leben,
+die von unheilbarem Leid niedergedrückt sind,
+die in Gefangenschaft leben\.
+Denn diese würden das jetzt nicht erleiden,
+wenn nicht auch alle anderen,
+die solche Sünden begangen haben,
+Strafe und Züchtigung erwarten würden\.
+Wenn aber die Übrigen hier nichts erlitten haben,
+musst du gerade dies als Zeichen dafür nehmen,
+dass es nach dem Weggang von hier ganz gewiss noch etwas gibt\.
+Denn Gott,
+der doch derselbe Gott aller ist,
+hätte nicht die einen bestraft und die anderen ungestraft gelassen,
+obwohl sie dasselbe oder sogar Schlimmeres getan haben,
+wenn er nicht vorhätte,
+dort eine Strafe über sie zu bringen\.
+Aufgrund solcher Überlegungen und Beispiele wollen auch wir uns demütigen;
+und die,
+die dem Gericht misstrauen,
+sollen von nun an glauben und besser werden,
+damit wir hier der Königsherrschaft würdig leben und die künftigen Güter erlangen durch die Gnade und Menschenliebe unseres Herrn Jesus Christus\.
+Ihm sei die Herrlichkeit in alle Ewigkeit\.
+Amen\.
 
 ## Bibelverweise
 

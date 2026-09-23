@@ -7,6 +7,42 @@ Autor: Athanasius
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/diskurs-ueber-das-heil-einer-jungfrau#kapitel-ade2821f-9212-402d-a07a-08dd0631e784).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:2845a961561d42d68025b4ed4d90e57d02cf665a4387e37a2d7a25bf30096e94`
-
-Und du nun, Diener Gottes, ob du aufstehst oder dich hinsetzt, ob du eine Arbeit verrichtest, ob du isst, ob du zu Bett gehst, um zu schlafen, ob du wach wirst, lass den Lobgesang auf Gott nicht von deinen Lippen weichen\. Selig sind die Ohren, die diese Worte aufnehmen\. Wenn die zwölfte Stunde anbricht, sollst du eine größere und längere Synaxis mit deinen jungfräulichen Seelengefährtinnen feiern\. Aber wenn du keine Seelengefährtinnen bei dir hast, vollziehe sie allein mit Gott, der bei dir ist und dich hört\. Es ist gut, vor Gott Tränen zu vergießen\. Erinnere dich an die zwölfte Stunde, denn in dieser Stunde stieg unser Herr in den Hades hinab\. Und als der Hades ihn sah, erschauderte er, war bestürzt und sagte: „Wer ist dieser, der in Vollmacht und großer Macht hinabsteigt? Wer ist dieser, der die ehernen Tore des Hades zerschlägt und die stählernen Riegel zerschmettert? Wer ist dieser, der vom Himmel herabsteigt, gekreuzigt wird und mir, dem Tod, dennoch nicht unterworfen ist? Wer ist dieser, der die Ketten derer löst, die in meiner Macht stehen? Wer ist dieser, der durch seinen eigenen Tod mich, den Tod, vernichtet?“
+Und du nun,
+Diener Gottes,
+ob du aufstehst oder dich hinsetzt,
+ob du eine Arbeit verrichtest,
+ob du isst,
+ob du zu Bett gehst,
+um zu schlafen,
+ob du wach wirst,
+lass den Lobgesang auf Gott nicht von deinen Lippen weichen\.
+Selig sind die Ohren,
+die diese Worte aufnehmen\.
+Wenn die zwölfte Stunde anbricht,
+sollst du eine größere und längere Synaxis mit deinen jungfräulichen Seelengefährtinnen feiern\.
+Aber wenn du keine Seelengefährtinnen bei dir hast,
+vollziehe sie allein mit Gott,
+der bei dir ist und dich hört\.
+Es ist gut,
+vor Gott Tränen zu vergießen\.
+Erinnere dich an die zwölfte Stunde,
+denn in dieser Stunde stieg unser Herr in den Hades hinab\.
+Und als der Hades ihn sah,
+erschauderte er,
+war bestürzt und sagte:
+„Wer ist dieser,
+der in Vollmacht und großer Macht hinabsteigt?
+Wer ist dieser,
+der die ehernen Tore des Hades zerschlägt und die stählernen Riegel zerschmettert?
+Wer ist dieser,
+der vom Himmel herabsteigt,
+gekreuzigt wird und mir,
+dem Tod,
+dennoch nicht unterworfen ist?
+Wer ist dieser,
+der die Ketten derer löst,
+die in meiner Macht stehen?
+Wer ist dieser,
+der durch seinen eigenen Tod mich,
+den Tod,
+vernichtet?“

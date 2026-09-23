@@ -7,11 +7,141 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-2#kapitel-617c6b87-181d-488c-0a3a-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:858f24b0acc09b504912f5e677f4cececea4c5923cc481ae0888a5a33e2dc389`
+Nach dem Vorhergehenden fährt dieser Jude des Celsus folgendermaßen fort:
+„Obwohl er über die Ereignisse im Leben Jesu vieles Wahre berichten könnte,
+das nicht den Aufzeichnungen der Jünger gleicht,
+verschweigt er es aus freien Stücken\.“
+Was sind denn diese wahren Aussagen,
+die sich von den Berichten der Evangelien unterscheiden und die der Jude des Celsus unerwähnt lässt?
+Oder bedient er sich nur einer vermeintlichen rhetorischen Figur,
+indem er vorgibt,
+etwas sagen zu können,
+während er in Wirklichkeit außer dem Bericht der Evangelien nichts vorzubringen hatte,
+was beim Hörer den Eindruck erwecken konnte,
+es sei wahr,
+und zugleich eine klare Grundlage für eine Anklage gegen Jesus und seine Lehre bot?
+Er wirft den Jüngern auch vor,
+sie hätten die Behauptung erfunden,
+Jesus habe alles,
+was ihm widerfuhr,
+im Voraus gewusst und vorhergesagt\.
+Doch die Wahrheit dieser Behauptung werden wir,
+ob es Celsus gefällt oder nicht,
+durch viele andere Vorhersagen des Erlösers belegen,
+in denen er ankündigte,
+was den Christen in späteren Generationen widerfahren würde\.
+Und wer würde nicht über diese Vorhersage staunen:
+„Ihr werdet um meinetwillen vor Statthalter und Könige geführt werden,
+ihnen und den Heiden zum Zeugnis\.[^bible-db0c8480-69d5-4b8a-b29c-d2e4d9f02b1d]
+“,
+und ebenso über andere Worte,
+die er vielleicht über die künftige Verfolgung seiner Jünger gesprochen hat?
+Denn welche Lehre hat es unter den Menschen je gegeben,
+um derentwillen andere bestraft werden,
+sodass einer der Ankläger Jesu sagen könnte,
+Jesus habe vorausgesehen,
+dass die Gottlosigkeit oder Falschheit seiner Ansichten Anlass zu einer Anklage gegen seine Anhänger geben werde,
+und habe geglaubt,
+es werde ihm zur Ehre gereichen,
+wenn er dies lange zuvor prophezeite?
+Wenn überhaupt jemand wegen seiner Ansichten vor Statthalter und Könige geführt zu werden verdient,
+wer sonst als die Epikureer,
+die die Existenz der Vorsehung gänzlich leugnen?
+Und ebenso die Peripatetiker,
+die behaupten,
+Gebete seien nutzlos und Opfer würden wie einer Gottheit dargebracht?
+Nun könnte jemand einwenden,
+die Samaritaner würden wegen ihrer Religion verfolgt\.
+Darauf antworten wir,
+dass die Sikarier wegen der Beschneidung hingerichtet werden:
+Sie verstümmeln sich damit selbst,
+entgegen den geltenden Gesetzen und Bräuchen,
+nach denen allein den Juden diese Praxis gestattet ist\.
+Und niemals hört man einen Richter danach fragen,
+ob ein Sikarier,
+der nach dieser angestammten Religion zu leben sucht,
+seiner Strafe entgehen werde,
+wenn er von ihr abfällt,
+dagegen zum Tod geführt werde,
+wenn er standhaft bleibt\.
+Denn der Befund der Beschneidung allein genügt,
+um den,
+der sie an sich hat vollziehen lassen,
+dem Tod zu überantworten\.
 
-Nach dem Vorhergehenden fährt dieser Jude des Celsus folgendermaßen fort: „Obwohl er über die Ereignisse im Leben Jesu vieles Wahre berichten könnte, das nicht den Aufzeichnungen der Jünger gleicht, verschweigt er es aus freien Stücken\.“ Was sind denn diese wahren Aussagen, die sich von den Berichten der Evangelien unterscheiden und die der Jude des Celsus unerwähnt lässt? Oder bedient er sich nur einer vermeintlichen rhetorischen Figur, indem er vorgibt, etwas sagen zu können, während er in Wirklichkeit außer dem Bericht der Evangelien nichts vorzubringen hatte, was beim Hörer den Eindruck erwecken konnte, es sei wahr, und zugleich eine klare Grundlage für eine Anklage gegen Jesus und seine Lehre bot? Er wirft den Jüngern auch vor, sie hätten die Behauptung erfunden, Jesus habe alles, was ihm widerfuhr, im Voraus gewusst und vorhergesagt\. Doch die Wahrheit dieser Behauptung werden wir, ob es Celsus gefällt oder nicht, durch viele andere Vorhersagen des Erlösers belegen, in denen er ankündigte, was den Christen in späteren Generationen widerfahren würde\. Und wer würde nicht über diese Vorhersage staunen: „Ihr werdet um meinetwillen vor Statthalter und Könige geführt werden, ihnen und den Heiden zum Zeugnis\.[^bible-db0c8480-69d5-4b8a-b29c-d2e4d9f02b1d] “, und ebenso über andere Worte, die er vielleicht über die künftige Verfolgung seiner Jünger gesprochen hat? Denn welche Lehre hat es unter den Menschen je gegeben, um derentwillen andere bestraft werden, sodass einer der Ankläger Jesu sagen könnte, Jesus habe vorausgesehen, dass die Gottlosigkeit oder Falschheit seiner Ansichten Anlass zu einer Anklage gegen seine Anhänger geben werde, und habe geglaubt, es werde ihm zur Ehre gereichen, wenn er dies lange zuvor prophezeite? Wenn überhaupt jemand wegen seiner Ansichten vor Statthalter und Könige geführt zu werden verdient, wer sonst als die Epikureer, die die Existenz der Vorsehung gänzlich leugnen? Und ebenso die Peripatetiker, die behaupten, Gebete seien nutzlos und Opfer würden wie einer Gottheit dargebracht? Nun könnte jemand einwenden, die Samaritaner würden wegen ihrer Religion verfolgt\. Darauf antworten wir, dass die Sikarier wegen der Beschneidung hingerichtet werden: Sie verstümmeln sich damit selbst, entgegen den geltenden Gesetzen und Bräuchen, nach denen allein den Juden diese Praxis gestattet ist\. Und niemals hört man einen Richter danach fragen, ob ein Sikarier, der nach dieser angestammten Religion zu leben sucht, seiner Strafe entgehen werde, wenn er von ihr abfällt, dagegen zum Tod geführt werde, wenn er standhaft bleibt\. Denn der Befund der Beschneidung allein genügt, um den, der sie an sich hat vollziehen lassen, dem Tod zu überantworten\.
-
-Doch allein die Christen werden, wie ihr Erlöser vorausgesagt hat, „Meinetwegen wird man euch vor Statthalter und Könige führen[^bible-e7684323-03da-4c2c-b4fa-2e9ae7fffcd0] “, von ihren Richtern bis zum letzten Atemzug gedrängt, das Christentum zu verleugnen, nach den öffentlichen Bräuchen zu opfern und nach dem Abschwörungseid nach Hause zurückzukehren und dort in Sicherheit zu leben\. Prüfe nun, ob nicht mit großer Vollmacht erklärt wird: „Wer sich vor den Menschen zu mir bekennt, zu dem werde auch ich mich vor meinem Vater im Himmel bekennen\. Wer mich aber vor den Menschen verleugnet[^bible-3c54ea91-2073-4ab7-946c-909982ba9402] “, und so weiter\. Versetze dich mit mir in Gedanken zurück zu Jesus, als er diese Worte sprach, und sieh, dass seine Voraussagen noch nicht eingetroffen sind\. Vielleicht wirst du ungläubig sagen, er spreche Dummheit und rede vergeblich, weil seine Worte sich nicht erfüllen werden\. Oder du zögerst, seinen Worten zuzustimmen, und sagst: Wenn diese Voraussagen eintreffen und die Lehre Jesu sich so durchsetzt, dass Statthalter und Könige danach trachten, diejenigen zu vernichten, die sich zu Jesus bekennen, dann werden wir glauben, dass er diese Prophezeiungen als einer ausspricht, der von Gott große Macht empfangen hat, um diese Lehre unter den Menschen einzupflanzen, und der überzeugt ist, dass sie sich durchsetzen wird\. Und wer wird nicht von Staunen erfüllt, wenn er sich in Gedanken zu dem zurückversetzt, der damals lehrte und sagte: „Dieses Evangelium wird in der ganzen Welt verkündet werden, zum Zeugnis gegen sie und die Heiden[^bible-bc882d9e-4e13-4fb3-91a5-211e5b256137] “, und dann sieht, wie seinen Worten entsprechend das Evangelium Jesu Christi in der ganzen Welt unter dem Himmel verkündet wird, unter Griechen und Barbaren, Weisen und Dummen gleichermaßen? Denn das mit Macht gesprochene Wort hat über Menschen jeder Art Herrschaft gewonnen, und kein Menschengeschlecht ist zu finden, das sich der Annahme der Lehre Jesu entzogen hätte\. Dieser Jude des Celsus, der nicht glaubt, dass Jesus alles, was ihm widerfuhr, im Voraus wusste, soll nun bedenken, wie Jesus schon voraussagte, was Jerusalem durch die Hand der Römer treffen würde, als die Stadt noch stand und der gesamte jüdische Gottesdienst dort gefeiert wurde\. Denn sie werden wohl kaum behaupten, die Vertrauten und Schüler Jesu hätten seine in den Evangelien enthaltene Lehre weitergegeben, ohne sie schriftlich niederzulegen, und seine Jünger ohne die in ihren Werken enthaltenen Erinnerungen an Jesus gelassen\. Darin steht nämlich: „Wenn ihr Jerusalem von Heeren umzingelt seht, dann erkennt, dass seine Verwüstung nahe ist\.[^bible-81b09fe1-1cbe-4732-90b1-9709f94c45dd] “ Damals aber standen noch keine Heere um Jerusalem, die es umzingelten, einschlossen und belagerten\. Denn die Belagerung begann unter der Herrschaft Neros und dauerte bis zur Regierung Vespasians, dessen Sohn Titus Jerusalem zerstörte, nach Josephus wegen Jakobus des Gerechten, des Bruders Jesu, der Christus genannt wurde, in Wahrheit aber, wie die Wahrheit deutlich macht, wegen Jesus Christus, des Sohnes Gottes\.
+Doch allein die Christen werden,
+wie ihr Erlöser vorausgesagt hat,
+„Meinetwegen wird man euch vor Statthalter und Könige führen[^bible-e7684323-03da-4c2c-b4fa-2e9ae7fffcd0] “,
+von ihren Richtern bis zum letzten Atemzug gedrängt,
+das Christentum zu verleugnen,
+nach den öffentlichen Bräuchen zu opfern und nach dem Abschwörungseid nach Hause zurückzukehren und dort in Sicherheit zu leben\.
+Prüfe nun,
+ob nicht mit großer Vollmacht erklärt wird:
+„Wer sich vor den Menschen zu mir bekennt,
+zu dem werde auch ich mich vor meinem Vater im Himmel bekennen\.
+Wer mich aber vor den Menschen verleugnet[^bible-3c54ea91-2073-4ab7-946c-909982ba9402] “,
+und so weiter\.
+Versetze dich mit mir in Gedanken zurück zu Jesus,
+als er diese Worte sprach,
+und sieh,
+dass seine Voraussagen noch nicht eingetroffen sind\.
+Vielleicht wirst du ungläubig sagen,
+er spreche Dummheit und rede vergeblich,
+weil seine Worte sich nicht erfüllen werden\.
+Oder du zögerst,
+seinen Worten zuzustimmen,
+und sagst:
+Wenn diese Voraussagen eintreffen und die Lehre Jesu sich so durchsetzt,
+dass Statthalter und Könige danach trachten,
+diejenigen zu vernichten,
+die sich zu Jesus bekennen,
+dann werden wir glauben,
+dass er diese Prophezeiungen als einer ausspricht,
+der von Gott große Macht empfangen hat,
+um diese Lehre unter den Menschen einzupflanzen,
+und der überzeugt ist,
+dass sie sich durchsetzen wird\.
+Und wer wird nicht von Staunen erfüllt,
+wenn er sich in Gedanken zu dem zurückversetzt,
+der damals lehrte und sagte:
+„Dieses Evangelium wird in der ganzen Welt verkündet werden,
+zum Zeugnis gegen sie und die Heiden[^bible-bc882d9e-4e13-4fb3-91a5-211e5b256137] “,
+und dann sieht,
+wie seinen Worten entsprechend das Evangelium Jesu Christi in der ganzen Welt unter dem Himmel verkündet wird,
+unter Griechen und Barbaren,
+Weisen und Dummen gleichermaßen?
+Denn das mit Macht gesprochene Wort hat über Menschen jeder Art Herrschaft gewonnen,
+und kein Menschengeschlecht ist zu finden,
+das sich der Annahme der Lehre Jesu entzogen hätte\.
+Dieser Jude des Celsus,
+der nicht glaubt,
+dass Jesus alles,
+was ihm widerfuhr,
+im Voraus wusste,
+soll nun bedenken,
+wie Jesus schon voraussagte,
+was Jerusalem durch die Hand der Römer treffen würde,
+als die Stadt noch stand und der gesamte jüdische Gottesdienst dort gefeiert wurde\.
+Denn sie werden wohl kaum behaupten,
+die Vertrauten und Schüler Jesu hätten seine in den Evangelien enthaltene Lehre weitergegeben,
+ohne sie schriftlich niederzulegen,
+und seine Jünger ohne die in ihren Werken enthaltenen Erinnerungen an Jesus gelassen\.
+Darin steht nämlich:
+„Wenn ihr Jerusalem von Heeren umzingelt seht,
+dann erkennt,
+dass seine Verwüstung nahe ist\.[^bible-81b09fe1-1cbe-4732-90b1-9709f94c45dd]
+“ Damals aber standen noch keine Heere um Jerusalem,
+die es umzingelten,
+einschlossen und belagerten\.
+Denn die Belagerung begann unter der Herrschaft Neros und dauerte bis zur Regierung Vespasians,
+dessen Sohn Titus Jerusalem zerstörte,
+nach Josephus wegen Jakobus des Gerechten,
+des Bruders Jesu,
+der Christus genannt wurde,
+in Wahrheit aber,
+wie die Wahrheit deutlich macht,
+wegen Jesus Christus,
+des Sohnes Gottes\.
 
 ## Bibelverweise
 

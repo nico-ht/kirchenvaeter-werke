@@ -7,9 +7,38 @@ Autor: Athenagoras von Athen
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athenagoras/ein-plaedoyer-fuer-die-christen#kapitel-4075b5ff-c270-4831-c9b8-08dd3412a7f6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3f172b39811e1c22358236b67234e5a092c4857513fe83833ec899086d79bca6`
-
-Wenn wir uns also mit solchen Überlegungen begnügten, könnte jemand unsere Darlegung für rein menschlich halten\. Doch die Stimmen der Propheten bekräftigen unsere Gedanken\. Ich glaube, dass auch ihr, die ihr überaus wissbegierig und gelehrt seid, hinsichtlich der Schriften des Mose, des Jesaja, des Jeremia und der übrigen Propheten nicht dumm geworden seid\. Vom göttlichen Geist bewegt, gerieten sie in Ekstase, wobei ihre eigenen Gedanken zurücktraten; sie sprachen aus, was in ihnen bewirkt wurde, wobei der Geist sich ihrer bediente, wie ein Flötenspieler in eine Flöte bläst\. Was sagen sie nun? „Der Herr ist unser Gott; kein anderer wird ihm gleichgestellt werden\.[^bible-5bd090db-d0f9-49cb-a615-bf992106e405]“ Und wiederum: „Ich bin Gott, der Erste und der Letzte, und außer mir gibt es keinen Gott\.[^bible-69995d94-2336-4fb4-89fb-39c1a4a12144]“ Ebenso: „Vor mir ist kein anderer Gott geworden, und nach mir wird keiner sein\. Ich bin Gott, und außer mir gibt es keinen\.[^bible-7b6b760b-4466-4257-8bca-99b094222906]“ Und über seine Größe: „Der Himmel ist mein Thron, die Erde aber der Schemel meiner Füße\. Was für ein Haus wollt ihr mir bauen, und welcher Ort könnte meine Ruhestätte sein?[^bible-28f05b32-c1b9-464b-8576-ba2e5a065d2b]“ Euch aber überlasse ich es, die Bücher selbst zur Hand zu nehmen und die Weissagungen jener Männer noch genauer zu prüfen, damit ihr euch aufgrund angemessener Überlegung der gegen uns gerichteten Anfeindung entledigt\.
+Wenn wir uns also mit solchen Überlegungen begnügten,
+könnte jemand unsere Darlegung für rein menschlich halten\.
+Doch die Stimmen der Propheten bekräftigen unsere Gedanken\.
+Ich glaube,
+dass auch ihr,
+die ihr überaus wissbegierig und gelehrt seid,
+hinsichtlich der Schriften des Mose,
+des Jesaja,
+des Jeremia und der übrigen Propheten nicht dumm geworden seid\.
+Vom göttlichen Geist bewegt,
+gerieten sie in Ekstase,
+wobei ihre eigenen Gedanken zurücktraten;
+sie sprachen aus,
+was in ihnen bewirkt wurde,
+wobei der Geist sich ihrer bediente,
+wie ein Flötenspieler in eine Flöte bläst\.
+Was sagen sie nun?
+„Der Herr ist unser Gott;
+kein anderer wird ihm gleichgestellt werden\.[^bible-5bd090db-d0f9-49cb-a615-bf992106e405]“ Und wiederum:
+„Ich bin Gott,
+der Erste und der Letzte,
+und außer mir gibt es keinen Gott\.[^bible-69995d94-2336-4fb4-89fb-39c1a4a12144]“ Ebenso:
+„Vor mir ist kein anderer Gott geworden,
+und nach mir wird keiner sein\.
+Ich bin Gott,
+und außer mir gibt es keinen\.[^bible-7b6b760b-4466-4257-8bca-99b094222906]“ Und über seine Größe:
+„Der Himmel ist mein Thron,
+die Erde aber der Schemel meiner Füße\.
+Was für ein Haus wollt ihr mir bauen,
+und welcher Ort könnte meine Ruhestätte sein?[^bible-28f05b32-c1b9-464b-8576-ba2e5a065d2b]“ Euch aber überlasse ich es,
+die Bücher selbst zur Hand zu nehmen und die Weissagungen jener Männer noch genauer zu prüfen,
+damit ihr euch aufgrund angemessener Überlegung der gegen uns gerichteten Anfeindung entledigt\.
 
 ## Bibelverweise
 

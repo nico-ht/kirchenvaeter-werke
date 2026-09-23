@@ -7,19 +7,233 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-i#kapitel-e15ab8fe-1a42-4389-0321-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:08b8da8f5eda5577237285595a54cd4e9ace4675d3d41840a05d72d29969c2a4`
+Nachdem also nach ihrer Lehre diese drei Arten des Seins gebildet waren:
+die eine aus der Leidenschaft,
+nämlich die Materie;
+die zweite aus der Umkehr,
+nämlich das seelische Sein;
+und die dritte,
+die sie,
+Achamoth,
+selbst hervorgebracht hatte,
+nämlich das geistliche Sein,
+wandte sie sich als Nächstes daran,
+ihnen Gestalt zu geben\.
+Doch beim geistlichen Sein gelang ihr das nicht,
+weil es von derselben Natur war wie sie selbst\.
+Deshalb machte sie sich daran,
+der seelischen Substanz Gestalt zu geben,
+die aus ihrer eigenen Umkehr hervorgegangen war,
+und die Unterweisungen des Erlösers ans Licht zu bringen\.
+Und sie sagen,
+sie habe zuerst aus seelischer Substanz den gebildet,
+der Vater und König aller Dinge ist:
+sowohl derer,
+die von derselben Natur sind wie er selbst,
+also der seelischen Substanzen,
+die sie auch die rechten nennen,
+als auch derer,
+die aus der Leidenschaft und aus der Materie entsprangen,
+die sie die linken nennen\.
+Denn sie behaupten,
+er habe alles geformt,
+was nach ihm ins Dasein trat,
+wobei seine Mutter ihn heimlich dazu antrieb\.
+Darum nennen sie ihn Metropator,
+Apator,
+Demiurg und Vater:
+Vater,
+sagen sie,
+sei er der Substanzen auf der rechten Seite,
+also der seelischen;
+Demiurg aber derer auf der linken,
+also der materiellen,
+während er zugleich König aller sei\.
+Denn sie sagen,
+diese Enthymesis habe in dem Wunsch,
+alles zur Ehre der Äonen zu machen,
+Abbilder von ihnen geformt,
+oder vielmehr:
+Der Erlöser habe dies durch sie als Werkzeug getan\.
+Und sie hielt sich,
+nach dem Bild des unsichtbaren Vaters,
+vor dem Demiurgen verborgen\.
+Er aber war nach dem Bild des einziggeborenen Sohnes,
+und die Engel und Erzengel,
+die von ihm geschaffen wurden,
+waren nach dem Bild der übrigen Äonen\.
 
-Nachdem also nach ihrer Lehre diese drei Arten des Seins gebildet waren: die eine aus der Leidenschaft, nämlich die Materie; die zweite aus der Umkehr, nämlich das seelische Sein; und die dritte, die sie, Achamoth, selbst hervorgebracht hatte, nämlich das geistliche Sein, wandte sie sich als Nächstes daran, ihnen Gestalt zu geben\. Doch beim geistlichen Sein gelang ihr das nicht, weil es von derselben Natur war wie sie selbst\. Deshalb machte sie sich daran, der seelischen Substanz Gestalt zu geben, die aus ihrer eigenen Umkehr hervorgegangen war, und die Unterweisungen des Erlösers ans Licht zu bringen\. Und sie sagen, sie habe zuerst aus seelischer Substanz den gebildet, der Vater und König aller Dinge ist: sowohl derer, die von derselben Natur sind wie er selbst, also der seelischen Substanzen, die sie auch die rechten nennen, als auch derer, die aus der Leidenschaft und aus der Materie entsprangen, die sie die linken nennen\. Denn sie behaupten, er habe alles geformt, was nach ihm ins Dasein trat, wobei seine Mutter ihn heimlich dazu antrieb\. Darum nennen sie ihn Metropator, Apator, Demiurg und Vater: Vater, sagen sie, sei er der Substanzen auf der rechten Seite, also der seelischen; Demiurg aber derer auf der linken, also der materiellen, während er zugleich König aller sei\. Denn sie sagen, diese Enthymesis habe in dem Wunsch, alles zur Ehre der Äonen zu machen, Abbilder von ihnen geformt, oder vielmehr: Der Erlöser habe dies durch sie als Werkzeug getan\. Und sie hielt sich, nach dem Bild des unsichtbaren Vaters, vor dem Demiurgen verborgen\. Er aber war nach dem Bild des einziggeborenen Sohnes, und die Engel und Erzengel, die von ihm geschaffen wurden, waren nach dem Bild der übrigen Äonen\.
+Sie behaupten also,
+er sei zum Vater und Gott all dessen eingesetzt worden,
+was außerhalb des Pleroma ist,
+als Schöpfer aller seelischen und materiellen Substanzen\.
+Denn er habe diese beiden bis dahin vermischten Arten des Seins unterschieden,
+aus unkörperlichen Substanzen Körperliches gemacht,
+Himmlisches und Irdisches geformt und sei zum Bildner,
+zum Demiurgen,
+der materiellen und seelischen Dinge geworden:
+der rechten und der linken,
+des Leichten und des Schweren,
+dessen,
+was nach oben,
+wie auch dessen,
+was nach unten strebt\.
+Auch sieben Himmel habe er geschaffen;
+über ihnen,
+sagen sie,
+sei er,
+der Demiurg\.
+Deshalb nennen sie ihn Hebdomas,
+seine Mutter Achamoth aber Ogdoads,
+wobei sie die Zahl der erstgeborenen und primären Ogdoad als Pleroma bewahren\.
+Weiter behaupten sie,
+diese sieben Himmel seien vernunftbegabt,
+und sie sprechen von ihnen als Engeln;
+den Demiurgen selbst aber bezeichnen sie als einen Engel,
+der Gott ähnlich ist\.
+In derselben Weise erklären sie,
+das Paradies,
+das über dem dritten Himmel liegt,
+sei ein vierter Engel,
+mit Macht ausgestattet;
+von ihm habe Adam gewisse Eigenschaften empfangen,
+während er mit ihm im Gespräch stand\.
 
-Sie behaupten also, er sei zum Vater und Gott all dessen eingesetzt worden, was außerhalb des Pleroma ist, als Schöpfer aller seelischen und materiellen Substanzen\. Denn er habe diese beiden bis dahin vermischten Arten des Seins unterschieden, aus unkörperlichen Substanzen Körperliches gemacht, Himmlisches und Irdisches geformt und sei zum Bildner, zum Demiurgen, der materiellen und seelischen Dinge geworden: der rechten und der linken, des Leichten und des Schweren, dessen, was nach oben, wie auch dessen, was nach unten strebt\. Auch sieben Himmel habe er geschaffen; über ihnen, sagen sie, sei er, der Demiurg\. Deshalb nennen sie ihn Hebdomas, seine Mutter Achamoth aber Ogdoads, wobei sie die Zahl der erstgeborenen und primären Ogdoad als Pleroma bewahren\. Weiter behaupten sie, diese sieben Himmel seien vernunftbegabt, und sie sprechen von ihnen als Engeln; den Demiurgen selbst aber bezeichnen sie als einen Engel, der Gott ähnlich ist\. In derselben Weise erklären sie, das Paradies, das über dem dritten Himmel liegt, sei ein vierter Engel, mit Macht ausgestattet; von ihm habe Adam gewisse Eigenschaften empfangen, während er mit ihm im Gespräch stand\.
+Weiter sagen sie,
+der Demiurg habe sich eingebildet,
+all dies aus sich selbst geschaffen zu haben,
+während er es in Wirklichkeit zusammen mit der hervorbringenden Kraft der Achamoth gemacht habe\.
+Er habe die Himmel gebildet,
+doch die Himmel nicht gekannt;
+er habe den Menschen geformt,
+doch den Menschen nicht gekannt;
+er habe die Erde ans Licht gebracht,
+doch mit der Erde keine Bekanntschaft gehabt\.
+Ebenso erklären sie,
+er habe die Gestalten all dessen,
+was er machte,
+nicht gekannt,
+ja nicht einmal von der Existenz seiner eigenen Mutter gewusst,
+sondern gemeint,
+er selbst sei alles\.
+Weiter behaupten sie,
+seine Mutter habe diese Meinung in seinem Geist entstehen lassen,
+weil sie ihn in einer solchen Beschaffenheit hervorbringen wollte,
+dass er Haupt und Quelle seines eigenen Wesens sein sollte und der uneingeschränkte Herrscher über jede Art von Tätigkeit sein sollte\.
+Diese Mutter nennen sie auch Ogdoad,
+Sophia,
+Terra,
+Jerusalem,
+Heiliger Geist und,
+männlich bezogen,
+Herr\.
+Ihr Wohnort ist ein mittlerer:
+zwar über dem Demiurgen,
+aber unterhalb und außerhalb des Pleromas,
+bis hin zum Ende\.
 
-Weiter sagen sie, der Demiurg habe sich eingebildet, all dies aus sich selbst geschaffen zu haben, während er es in Wirklichkeit zusammen mit der hervorbringenden Kraft der Achamoth gemacht habe\. Er habe die Himmel gebildet, doch die Himmel nicht gekannt; er habe den Menschen geformt, doch den Menschen nicht gekannt; er habe die Erde ans Licht gebracht, doch mit der Erde keine Bekanntschaft gehabt\. Ebenso erklären sie, er habe die Gestalten all dessen, was er machte, nicht gekannt, ja nicht einmal von der Existenz seiner eigenen Mutter gewusst, sondern gemeint, er selbst sei alles\. Weiter behaupten sie, seine Mutter habe diese Meinung in seinem Geist entstehen lassen, weil sie ihn in einer solchen Beschaffenheit hervorbringen wollte, dass er Haupt und Quelle seines eigenen Wesens sein sollte und der uneingeschränkte Herrscher über jede Art von Tätigkeit sein sollte\. Diese Mutter nennen sie auch Ogdoad, Sophia, Terra, Jerusalem, Heiliger Geist und, männlich bezogen, Herr\. Ihr Wohnort ist ein mittlerer: zwar über dem Demiurgen, aber unterhalb und außerhalb des Pleromas, bis hin zum Ende\.
+Da sie also darstellen,
+die ganze materielle Substanz sei aus drei Leidenschaften gebildet,
+nämlich aus Furcht,
+Kummer und Ratlosigkeit,
+geben sie folgende Erklärung:
+Die seelischen Wesen seien aus Furcht und aus Umkehr hervorgegangen;
+auch den Demiurgen beschreiben sie so,
+dass er seinen Ursprung der Umkehr verdanke\.
+Die Existenz aller übrigen seelischen Wesen,
+nämlich der Seelen der vernunftlosen Tiere,
+der wilden Tiere und der Menschen,
+führen sie dagegen auf die Furcht zurück\.
+Deshalb habe er,
+der Demiurg,
+weil er keinerlei geistige Wesenheiten erkennen konnte,
+sich für den einzigen Gott gehalten und durch die Propheten erklärt:
+„Ich bin Gott,
+und außer mir gibt es keinen anderen[^bible-b5e47003-4d4e-4ac2-b0e2-420105a4730b]\.“
+Weiter lehren sie,
+die Geister der Bosheit hätten ihren Ursprung aus dem Kummer gewonnen\.
+Daher hätten der Teufel,
+den sie auch Kosmokrator \(Herrscher der Welt\) nennen,
+sowie die Dämonen,
+die Engel und jedes böse geistige Wesen,
+das es gibt,
+den Ursprung ihrer Existenz gefunden\.
+Den Demiurgen stellen sie als Sohn jener ihrer Mutter,
+Achamoth,
+dar,
+den Kosmokrator aber als Geschöpf des Demiurgen\.
+Der Kosmokrator kenne,
+was über ihm ist,
+weil er ein Geist der Bosheit sei;
+der Demiurg aber wisse nichts von solchen Dingen,
+insofern er bloß seelisch ist\.
+Ihre Mutter wohne an jenem Ort über den Himmeln,
+also in der mittleren Wohnstätte;
+der Demiurg am himmlischen Ort,
+also in der Hebdomad;
+der Kosmokrator aber in dieser unserer Welt\.
+Die körperlichen Elemente der Welt wiederum seien,
+wie wir zuvor bemerkt haben,
+aus Verwirrung und Ratlosigkeit entsprungen,
+also aus einer niedrigeren Quelle\.
+So sei die Erde aus ihrem Zustand der Erstarrung hervorgegangen,
+das Wasser aus der Erregung,
+die ihre Furcht verursachte,
+die Luft aus der Verdichtung ihres Kummers;
+das Feuer aber,
+das Tod und Verderben hervorbringt,
+habe all diesen Elementen innegewohnt,
+so wie sie auch lehren,
+dass die Unwissenheit in diesen drei Leidenschaften verborgen gelegen habe\.
 
-Da sie also darstellen, die ganze materielle Substanz sei aus drei Leidenschaften gebildet, nämlich aus Furcht, Kummer und Ratlosigkeit, geben sie folgende Erklärung: Die seelischen Wesen seien aus Furcht und aus Umkehr hervorgegangen; auch den Demiurgen beschreiben sie so, dass er seinen Ursprung der Umkehr verdanke\. Die Existenz aller übrigen seelischen Wesen, nämlich der Seelen der vernunftlosen Tiere, der wilden Tiere und der Menschen, führen sie dagegen auf die Furcht zurück\. Deshalb habe er, der Demiurg, weil er keinerlei geistige Wesenheiten erkennen konnte, sich für den einzigen Gott gehalten und durch die Propheten erklärt: „Ich bin Gott, und außer mir gibt es keinen anderen[^bible-b5e47003-4d4e-4ac2-b0e2-420105a4730b]\.“ Weiter lehren sie, die Geister der Bosheit hätten ihren Ursprung aus dem Kummer gewonnen\. Daher hätten der Teufel, den sie auch Kosmokrator \(Herrscher der Welt\) nennen, sowie die Dämonen, die Engel und jedes böse geistige Wesen, das es gibt, den Ursprung ihrer Existenz gefunden\. Den Demiurgen stellen sie als Sohn jener ihrer Mutter, Achamoth, dar, den Kosmokrator aber als Geschöpf des Demiurgen\. Der Kosmokrator kenne, was über ihm ist, weil er ein Geist der Bosheit sei; der Demiurg aber wisse nichts von solchen Dingen, insofern er bloß seelisch ist\. Ihre Mutter wohne an jenem Ort über den Himmeln, also in der mittleren Wohnstätte; der Demiurg am himmlischen Ort, also in der Hebdomad; der Kosmokrator aber in dieser unserer Welt\. Die körperlichen Elemente der Welt wiederum seien, wie wir zuvor bemerkt haben, aus Verwirrung und Ratlosigkeit entsprungen, also aus einer niedrigeren Quelle\. So sei die Erde aus ihrem Zustand der Erstarrung hervorgegangen, das Wasser aus der Erregung, die ihre Furcht verursachte, die Luft aus der Verdichtung ihres Kummers; das Feuer aber, das Tod und Verderben hervorbringt, habe all diesen Elementen innegewohnt, so wie sie auch lehren, dass die Unwissenheit in diesen drei Leidenschaften verborgen gelegen habe\.
+Nachdem er so die Welt gebildet hatte,
+schuf er,
+der Demiurg,
+auch den erdhaften Teil des Menschen:
+Er nahm ihn nicht aus dieser trockenen Erde,
+sondern aus einer unsichtbaren Substanz,
+die aus schmelzbarer und flüssiger Materie bestand;
+danach hauchte er ihm[^bible-afa787c9-4b69-43df-b05f-3dce2f3e09d6],
+wie sie den Vorgang bestimmen,
+den seelischen Teil seiner Natur ein\.
+Dieser letztere wurde nach seinem Bild und seiner Ähnlichkeit[^bible-f0dd3b46-1ce2-4b83-84fe-2ca76eca5dc3] geschaffen\.
+Der materielle Teil stand Gott zwar sehr nahe,
+soweit es um das Bild ging,
+war aber nicht von derselben Substanz wie er\.
+Der seelische Teil hingegen stand Gott so nahe im Hinblick auf die Ähnlichkeit;
+und deshalb wurde seine Substanz Geist des Lebens[^bible-afa787c9-4b69-43df-b05f-3dce2f3e09d6] genannt,
+weil sie aus einem geistigen Ausströmen hervorgegangen war\.
+Nach all dem sei er,
+wie sie sagen,
+ringsum mit einer Hülle aus Haut umgeben worden;
+damit meinen sie das äußere,
+empfindungsfähige Fleisch\.
 
-Nachdem er so die Welt gebildet hatte, schuf er, der Demiurg, auch den erdhaften Teil des Menschen: Er nahm ihn nicht aus dieser trockenen Erde, sondern aus einer unsichtbaren Substanz, die aus schmelzbarer und flüssiger Materie bestand; danach hauchte er ihm[^bible-afa787c9-4b69-43df-b05f-3dce2f3e09d6], wie sie den Vorgang bestimmen, den seelischen Teil seiner Natur ein\. Dieser letztere wurde nach seinem Bild und seiner Ähnlichkeit[^bible-f0dd3b46-1ce2-4b83-84fe-2ca76eca5dc3] geschaffen\. Der materielle Teil stand Gott zwar sehr nahe, soweit es um das Bild ging, war aber nicht von derselben Substanz wie er\. Der seelische Teil hingegen stand Gott so nahe im Hinblick auf die Ähnlichkeit; und deshalb wurde seine Substanz Geist des Lebens[^bible-afa787c9-4b69-43df-b05f-3dce2f3e09d6] genannt, weil sie aus einem geistigen Ausströmen hervorgegangen war\. Nach all dem sei er, wie sie sagen, ringsum mit einer Hülle aus Haut umgeben worden; damit meinen sie das äußere, empfindungsfähige Fleisch\.
-
-Weiter behaupten sie, der Demiurg selbst habe von jenem Kind seiner Mutter Achamoth nichts gewusst, das sie hervorgebracht hatte, als sie die Engel betrachtete, die dem Erlöser dienten, und das wie sie selbst geistiger Natur war\. Diese Unkenntnis nutzte sie, um es, ihr eigenes Erzeugnis, ohne sein Wissen in ihn hineinzulegen, damit es durch sein Wirken in jene von ihm ausgehende animalische Seele eingegossen und so wie in einem Mutterleib in diesem materiellen Körper getragen würde, während es allmählich an Kraft zunähme und mit der Zeit geeignet würde, vollkommene Vernünftigkeit zu empfangen\. So sei es also nach ihrer Ansicht geschehen, dass der durch seine Einhauchung gebildete Mensch ohne jedes Wissen des Demiurgen zugleich durch eine unaussprechliche Vorsehung zu einem geistigen Menschen gemacht wurde, nämlich durch die gleichzeitig von Sophia empfangene Einhauchung\. Denn wie der Demiurg seine Mutter nicht kannte, so hatte er auch von ihrem Kind keine Kenntnis\. Dieses Kind nennen sie auch die Ecclesia, ein Abbild der oberen Ecclesia\. Das also ist die Art Mensch, die sie sich vorstellen: Seine animalische Seele hat er vom Demiurgen, seinen Körper von der Erde, seinen fleischlichen Teil von der Materie und seinen geistigen Menschen von der Mutter Achamoth\.
+Weiter behaupten sie,
+der Demiurg selbst habe von jenem Kind seiner Mutter Achamoth nichts gewusst,
+das sie hervorgebracht hatte,
+als sie die Engel betrachtete,
+die dem Erlöser dienten,
+und das wie sie selbst geistiger Natur war\.
+Diese Unkenntnis nutzte sie,
+um es,
+ihr eigenes Erzeugnis,
+ohne sein Wissen in ihn hineinzulegen,
+damit es durch sein Wirken in jene von ihm ausgehende animalische Seele eingegossen und so wie in einem Mutterleib in diesem materiellen Körper getragen würde,
+während es allmählich an Kraft zunähme und mit der Zeit geeignet würde,
+vollkommene Vernünftigkeit zu empfangen\.
+So sei es also nach ihrer Ansicht geschehen,
+dass der durch seine Einhauchung gebildete Mensch ohne jedes Wissen des Demiurgen zugleich durch eine unaussprechliche Vorsehung zu einem geistigen Menschen gemacht wurde,
+nämlich durch die gleichzeitig von Sophia empfangene Einhauchung\.
+Denn wie der Demiurg seine Mutter nicht kannte,
+so hatte er auch von ihrem Kind keine Kenntnis\.
+Dieses Kind nennen sie auch die Ecclesia,
+ein Abbild der oberen Ecclesia\.
+Das also ist die Art Mensch,
+die sie sich vorstellen:
+Seine animalische Seele hat er vom Demiurgen,
+seinen Körper von der Erde,
+seinen fleischlichen Teil von der Materie und seinen geistigen Menschen von der Mutter Achamoth\.
 
 ## Bibelverweise
 

@@ -7,6 +7,12 @@ Autor: Gregor von Nyssa
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nyssa/ueber-das-leben-des-mose-buch-1#kapitel-b7937ae3-8c46-4853-8289-08ded879412e).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7b4747b2770fb75c54dcaad9626b984dfc8339efbd5d88f66ca0e025151c721b`
-
-sodass auch Aaron, der mit den Ehren des Priestertums geehrt wurde, und seine Schwester Mirjam, von einer gewissen eher weibischen Eifersucht gegen die Mose von Gott verliehene Ehre angestachelt, etwas Derartiges äußerten, worüber das Göttliche zur Bestrafung der Verfehlung bewegt wurde\. Gerade hier ist an Mose noch mehr seine Nachsicht zu bewundern: Als Gott die unvernünftige Missgunst der Schwester strafte, ließ er das natürliche Band stärker sein als den Zorn und versöhnte Gott zugunsten seiner Schwester\.
+sodass auch Aaron,
+der mit den Ehren des Priestertums geehrt wurde,
+und seine Schwester Mirjam,
+von einer gewissen eher weibischen Eifersucht gegen die Mose von Gott verliehene Ehre angestachelt,
+etwas Derartiges äußerten,
+worüber das Göttliche zur Bestrafung der Verfehlung bewegt wurde\.
+Gerade hier ist an Mose noch mehr seine Nachsicht zu bewundern:
+Als Gott die unvernünftige Missgunst der Schwester strafte,
+ließ er das natürliche Band stärker sein als den Zorn und versöhnte Gott zugunsten seiner Schwester\.

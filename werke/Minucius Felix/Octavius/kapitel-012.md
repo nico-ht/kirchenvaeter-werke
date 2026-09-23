@@ -7,6 +7,74 @@ Autor: Minucius Felix
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/minucius-felix/octavius#kapitel-b1c78057-a316-4403-3732-08df04f3eaa6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:35b21708aabcad34f38ee62e4fc3282b563ae8fdee139ee09bc146e549f31089`
-
-Nicht einmal das, was vor euren Augen geschieht, lehrt euch, wie sehr euch die trügerischen Hoffnungen nichtiger Verheißungen täuschen\. Bedenkt doch, ihr erbärmlichen Menschen, solange ihr noch lebt, was euch nach dem Tod droht\. Seht nur: Ein Teil von euch, und nach eurer eigenen Aussage der größere und bessere, leidet Not und Kälte, müht sich unter schwerer Arbeit ab und hungert\. Gott aber lässt es geschehen und tut, als bemerkte er es nicht\. Entweder will oder kann er seinem Volk nicht helfen; somit ist er entweder machtlos oder ungerecht\. Du träumst von Unsterblichkeit nach dem Tod\. Doch wenn Gefahr dich erschüttert, wenn Fieber dich verzehrt, wenn Schmerz dich zerreißt, spürst du dann nicht, wie es wirklich um dich steht? Erkennst du dann nicht deine Gebrechlichkeit? Du armer Mensch, wirst gegen deinen Willen von deiner Schwäche überzeugt und willst sie dennoch nicht eingestehen? Doch ich übergehe, was alle gleichermaßen trifft\. Seht, euch erwarten Drohungen, Strafen, Folter und Kreuze, nun nicht mehr als Gegenstände der Anbetung, sondern als Qualen, die ihr selbst erleiden müsst; dazu Feuer, das ihr zugleich voraussagt und fürchtet\. Wo ist jener Gott, der euch helfen kann, wenn ihr wieder zum Leben erwacht, da er euch in diesem Leben nicht helfen kann? Herrschen und regieren die Römer nicht ohne jede Hilfe eures Gottes, genießen sie nicht die ganze Welt und gebieten über euch? Ihr aber verzichtet unterdessen voller Ungewissheit und Sorge auf ehrbare Vergnügungen\. Ihr besucht keine Schauspiele und beteiligt euch nicht an öffentlichen Darbietungen; ihr lehnt die öffentlichen Gastmähler ab und verabscheut die heiligen Wettkämpfe, ebenso die zuvor gekosteten Speisen und die dort als Trankopfer ausgegossenen Getränke\. So fürchtet ihr die Götter, die ihr leugnet\. Ihr bekränzt eure Köpfe nicht mit Blumen und schmückt eure Körper nicht mit Düften; Salböl bewahrt ihr für die Bestattung auf, und selbst euren Gräbern verweigert ihr Kränze\. Ihr bleichen, zitternden Gestalten seid sogar des Mitleids unserer Götter würdig\! So erbärmlich, wie ihr seid, steht ihr weder wieder auf, noch lebt ihr unterdessen\. Wenn ihr also irgendeine Einsicht oder Anstand besitzt, hört auf, die Gefilde des Himmels sowie die Schicksalsfügungen und Geheimnisse der Welt zu erforschen\. Es genügt, vor die eigenen Füße zu schauen, besonders für ungelehrte, unkultivierte, plumpe, bäurische Menschen: Sie sind schon nicht imstande, bürgerliche Angelegenheiten zu verstehen, und erst recht fehlt ihnen die Fähigkeit, göttliche Dinge zu erörtern\.
+Nicht einmal das,
+was vor euren Augen geschieht,
+lehrt euch,
+wie sehr euch die trügerischen Hoffnungen nichtiger Verheißungen täuschen\.
+Bedenkt doch,
+ihr erbärmlichen Menschen,
+solange ihr noch lebt,
+was euch nach dem Tod droht\.
+Seht nur:
+Ein Teil von euch,
+und nach eurer eigenen Aussage der größere und bessere,
+leidet Not und Kälte,
+müht sich unter schwerer Arbeit ab und hungert\.
+Gott aber lässt es geschehen und tut,
+als bemerkte er es nicht\.
+Entweder will oder kann er seinem Volk nicht helfen;
+somit ist er entweder machtlos oder ungerecht\.
+Du träumst von Unsterblichkeit nach dem Tod\.
+Doch wenn Gefahr dich erschüttert,
+wenn Fieber dich verzehrt,
+wenn Schmerz dich zerreißt,
+spürst du dann nicht,
+wie es wirklich um dich steht?
+Erkennst du dann nicht deine Gebrechlichkeit?
+Du armer Mensch,
+wirst gegen deinen Willen von deiner Schwäche überzeugt und willst sie dennoch nicht eingestehen?
+Doch ich übergehe,
+was alle gleichermaßen trifft\.
+Seht,
+euch erwarten Drohungen,
+Strafen,
+Folter und Kreuze,
+nun nicht mehr als Gegenstände der Anbetung,
+sondern als Qualen,
+die ihr selbst erleiden müsst;
+dazu Feuer,
+das ihr zugleich voraussagt und fürchtet\.
+Wo ist jener Gott,
+der euch helfen kann,
+wenn ihr wieder zum Leben erwacht,
+da er euch in diesem Leben nicht helfen kann?
+Herrschen und regieren die Römer nicht ohne jede Hilfe eures Gottes,
+genießen sie nicht die ganze Welt und gebieten über euch?
+Ihr aber verzichtet unterdessen voller Ungewissheit und Sorge auf ehrbare Vergnügungen\.
+Ihr besucht keine Schauspiele und beteiligt euch nicht an öffentlichen Darbietungen;
+ihr lehnt die öffentlichen Gastmähler ab und verabscheut die heiligen Wettkämpfe,
+ebenso die zuvor gekosteten Speisen und die dort als Trankopfer ausgegossenen Getränke\.
+So fürchtet ihr die Götter,
+die ihr leugnet\.
+Ihr bekränzt eure Köpfe nicht mit Blumen und schmückt eure Körper nicht mit Düften;
+Salböl bewahrt ihr für die Bestattung auf,
+und selbst euren Gräbern verweigert ihr Kränze\.
+Ihr bleichen,
+zitternden Gestalten seid sogar des Mitleids unserer Götter würdig\!
+So erbärmlich,
+wie ihr seid,
+steht ihr weder wieder auf,
+noch lebt ihr unterdessen\.
+Wenn ihr also irgendeine Einsicht oder Anstand besitzt,
+hört auf,
+die Gefilde des Himmels sowie die Schicksalsfügungen und Geheimnisse der Welt zu erforschen\.
+Es genügt,
+vor die eigenen Füße zu schauen,
+besonders für ungelehrte,
+unkultivierte,
+plumpe,
+bäurische Menschen:
+Sie sind schon nicht imstande,
+bürgerliche Angelegenheiten zu verstehen,
+und erst recht fehlt ihnen die Fähigkeit,
+göttliche Dinge zu erörtern\.

@@ -7,12 +7,57 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/die-prinzipien-vorwort#kapitel-2ba993b7-4f01-4134-daf9-08dd0e6866b6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d7028b400334d6f7dd850c6bf9fcd13e50a2869f44cb25a0ce9440e962e6fc60`
+Schließlich ist es auch Teil der Lehre,
+dass die Schrift von dem Geist Gottes verfasst wurde und eine Bedeutung hat,
+die nicht nur auf den ersten Blick offensichtlich ist,
+sondern auch eine andere,
+die den meisten entgeht\.
+Die geschriebenen Worte sind Formen gewisser Geheimnisse und Bilder göttlicher Dinge\.
+In der gesamten Kirche herrscht die Meinung,
+dass das gesamte Gesetz in der Tat geistlich ist\.
+Doch die geistliche Bedeutung,
+die das Gesetz vermittelt,
+ist nicht allen bekannt,
+sondern nur denen,
+auf die die Gnade des Heiligen Geistes in Form von Weisheit und Erkenntnis herabkommt\.
 
-Schließlich ist es auch Teil der Lehre, dass die Schrift von dem Geist Gottes verfasst wurde und eine Bedeutung hat, die nicht nur auf den ersten Blick offensichtlich ist, sondern auch eine andere, die den meisten entgeht\. Die geschriebenen Worte sind Formen gewisser Geheimnisse und Bilder göttlicher Dinge\. In der gesamten Kirche herrscht die Meinung, dass das gesamte Gesetz in der Tat geistlich ist\. Doch die geistliche Bedeutung, die das Gesetz vermittelt, ist nicht allen bekannt, sondern nur denen, auf die die Gnade des Heiligen Geistes in Form von Weisheit und Erkenntnis herabkommt\.
+Der Begriff ἀσώματον,
+das heißt,
+körperlos,
+wird nicht nur in vielen anderen Schriften,
+sondern auch in unseren eigenen Schriften nicht verwendet und ist unbekannt\.
+Wenn jemand uns aus dem kleinen Traktat mit dem Titel „Die Lehre des Petrus“ zitiert,
+in dem der Erlöser anscheinend zu seinen Jüngern sagt:
+„Ich bin kein körperloser Dämon“,
+muss ich zunächst darauf hinweisen,
+dass dieses Werk nicht zu den kirchlichen Schriften gehört\.
+Wir können zeigen,
+dass es weder von Petrus noch von einer anderen Person verfasst wurde,
+die vom Geist Gottes inspiriert war\.
 
-Der Begriff ἀσώματον, das heißt, körperlos, wird nicht nur in vielen anderen Schriften, sondern auch in unseren eigenen Schriften nicht verwendet und ist unbekannt\. Wenn jemand uns aus dem kleinen Traktat mit dem Titel „Die Lehre des Petrus“ zitiert, in dem der Erlöser anscheinend zu seinen Jüngern sagt: „Ich bin kein körperloser Dämon“, muss ich zunächst darauf hinweisen, dass dieses Werk nicht zu den kirchlichen Schriften gehört\. Wir können zeigen, dass es weder von Petrus noch von einer anderen Person verfasst wurde, die vom Geist Gottes inspiriert war\.
+Selbst wenn man diesen Punkt zugestehen würde,
+vermittelt das Wort ἀσώματον dort nicht die gleiche Bedeutung,
+die griechische und heidnische Autoren meinen,
+wenn sie über die körperlose Natur in der Philosophie sprechen\.
+In dem erwähnten Traktat verwendet der Autor den Ausdruck „körperloser Dämon“,
+um zu verdeutlichen,
+dass diese Form oder Gestalt eines dämonischen Körpers,
+was auch immer sie ist,
+nicht unserem groben und sichtbaren Körper ähnelt\.
+Entsprechend der Absicht des Verfassers des Traktats muss verstanden werden,
+dass Er keinen Körper hatte,
+wie ihn Dämonen besitzen,
+die von Natur aus fein und dünn sind,
+als wären sie aus Luft geformt \(und aus diesem Grund von vielen als körperlos betrachtet oder bezeichnet werden\)\.
+Vielmehr hatte Er einen festen und greifbaren Körper\.
 
-Selbst wenn man diesen Punkt zugestehen würde, vermittelt das Wort ἀσώματον dort nicht die gleiche Bedeutung, die griechische und heidnische Autoren meinen, wenn sie über die körperlose Natur in der Philosophie sprechen\. In dem erwähnten Traktat verwendet der Autor den Ausdruck „körperloser Dämon“, um zu verdeutlichen, dass diese Form oder Gestalt eines dämonischen Körpers, was auch immer sie ist, nicht unserem groben und sichtbaren Körper ähnelt\. Entsprechend der Absicht des Verfassers des Traktats muss verstanden werden, dass Er keinen Körper hatte, wie ihn Dämonen besitzen, die von Natur aus fein und dünn sind, als wären sie aus Luft geformt \(und aus diesem Grund von vielen als körperlos betrachtet oder bezeichnet werden\)\. Vielmehr hatte Er einen festen und greifbaren Körper\.
-
-Nach menschlichem Brauch wird alles, was nicht dieser Natur entspricht, von den einfachen oder Unwissenden als körperlos bezeichnet\. Man könnte sagen, dass die Luft, die wir atmen, körperlos ist, weil sie kein Körper ist, der so beschaffen ist, dass man ihn greifen und festhalten kann oder der Widerstand gegen Druck bietet\.
+Nach menschlichem Brauch wird alles,
+was nicht dieser Natur entspricht,
+von den einfachen oder Unwissenden als körperlos bezeichnet\.
+Man könnte sagen,
+dass die Luft,
+die wir atmen,
+körperlos ist,
+weil sie kein Körper ist,
+der so beschaffen ist,
+dass man ihn greifen und festhalten kann oder der Widerstand gegen Druck bietet\.

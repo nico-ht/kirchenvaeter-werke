@@ -7,6 +7,25 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/11-taufunterweisung#kapitel-52d42849-7415-4a3d-910e-08ddf7b770e0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:4d8a3dc66d26b4ba9f65670297f65654528cf090f4c0a9f60c020074f02edbb1`
-
-Außerdem: Wenn ihr alle in die Kirche eingetreten seid, müsst ihr alle zusammen — denn achtet darauf: All diese Gaben sind euch allen gemeinsam gegeben, damit der Reiche nicht auf den Armen herabschaut und der Arme nicht meint, er habe weniger als der Reiche\. Denn in Jesus Christus gibt es weder Mann noch Frau; da ist kein Skythe, kein Barbar, kein Jude, kein Grieche\. Nicht nur gibt es keinen Unterschied von Alter oder Natur, sondern sogar jeder Unterschied an Ehre ist aufgehoben: Für alle gilt dieselbe Achtung, eine Gabe, eine Brüderlichkeit, die uns zusammenbindet, dieselbe Gnade\. Darum, wenn ihr alle in die Kirche geführt worden seid, müsst ihr alle zusammen die Knie beugen und nicht aufrecht stehen; streckt die Hände zum Himmel aus und dankt Gott für diese Gabe\.
+Außerdem:
+Wenn ihr alle in die Kirche eingetreten seid,
+müsst ihr alle zusammen — denn achtet darauf:
+All diese Gaben sind euch allen gemeinsam gegeben,
+damit der Reiche nicht auf den Armen herabschaut und der Arme nicht meint,
+er habe weniger als der Reiche\.
+Denn in Jesus Christus gibt es weder Mann noch Frau;
+da ist kein Skythe,
+kein Barbar,
+kein Jude,
+kein Grieche\.
+Nicht nur gibt es keinen Unterschied von Alter oder Natur,
+sondern sogar jeder Unterschied an Ehre ist aufgehoben:
+Für alle gilt dieselbe Achtung,
+eine Gabe,
+eine Brüderlichkeit,
+die uns zusammenbindet,
+dieselbe Gnade\.
+Darum,
+wenn ihr alle in die Kirche geführt worden seid,
+müsst ihr alle zusammen die Knie beugen und nicht aufrecht stehen;
+streckt die Hände zum Himmel aus und dankt Gott für diese Gabe\.

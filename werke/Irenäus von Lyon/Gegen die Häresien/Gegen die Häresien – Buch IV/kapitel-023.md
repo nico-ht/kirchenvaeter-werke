@@ -7,11 +7,120 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-iv#kapitel-c6e1ba0a-1654-4623-0391-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:22f927fa0b4f09f9a5911a90c4f65f01c9d63e1c8cd70099dc07a41f529c99c6`
+Darum erklärte der Herr den Jüngern:
+„Seht,
+ich sage euch:
+Erhebt eure Augen und schaut auf die Gegenden,
+denn sie sind schon weiß zur Ernte\.
+Denn der Erntearbeiter empfängt Lohn und sammelt Frucht zum ewigen Leben,
+damit der,
+der sät,
+und der,
+der erntet,
+sich gemeinsam freuen\.
+Denn darin ist das Wort wahr,
+dass einer sät und ein anderer erntet\.
+Denn ich habe euch vorausgeschickt,
+zu ernten,
+woran ihr keine Arbeit hattet;
+andere haben gearbeitet,
+und ihr seid in ihre Arbeit eingetreten\.[^bible-ab54f07c-dfbd-45b6-b47c-eba3ed448571]“ Wer sind nun die,
+die gearbeitet und die Heilsordnungen Gottes vorangebracht haben?
+Es ist klar:
+die Patriarchen und Propheten\.
+Sie haben sogar unseren Glauben im Voraus abgebildet und über die Erde hin die Ankunft des Sohnes Gottes verbreitet,
+wer und was er sein sollte,
+damit die späteren Geschlechter,
+die Gottesfurcht besaßen,
+die Ankunft Christi leicht annehmen konnten,
+weil sie durch die Propheten unterwiesen waren\.
+Und aus diesem Grund sagte der Engel zu Josef im Schlaf,
+als Josef bemerkte,
+dass Maria schwanger war,
+und sie heimlich entlassen wollte:
+„Fürchte dich nicht,
+Maria,
+deine Frau,
+zu dir zu nehmen;
+denn was in ihr gezeugt ist,
+ist vom Heiligen Geist\.
+Denn sie wird einen Sohn gebären,
+und du sollst seinen Namen Jesus nennen;
+denn er wird sein Volk von ihren Sünden retten\.[^bible-d3fa491d-dc65-49f1-a645-0a74807f695d]“ Und indem er ihn dazu anhielt,
+fügte er hinzu:
+„Dies alles aber ist geschehen,
+damit erfüllt würde,
+was vom Herrn durch den Propheten gesprochen wurde,
+der sagt:
+Siehe,
+eine Jungfrau wird schwanger sein und einen Sohn gebären,
+und man wird seinen Namen Emmanuel nennen\.[^bible-c3300b8b-b71d-4375-8c17-a1a426b75068]“ So gewann er ihn durch die Worte des Propheten und wehrte den Tadel von Maria ab,
+indem er zeigte,
+dass sie die Jungfrau war,
+die Jesaja zuvor genannt hatte und die den Emmanuel gebären sollte\.
+Als Josef deshalb ohne jeden Zweifel überzeugt war,
+nahm er Maria zu sich und fügte sich auch in allem Übrigen,
+was die Erziehung Christi betraf,
+mit Freude:
+Er unternahm die Reise nach Ägypten und wieder zurück und zog dann nach Nazareth um\.
+Darum nannten ihn schließlich die,
+die weder die Schriften noch die Verheißung Gottes noch die Heilsordnung Christi kannten,
+den Vater des Kindes\.
+Aus diesem Grund las auch der Herr selbst in Kapernaum die Weissagungen Jesajas vor:
+„Der Geist des Herrn ist auf mir,
+weil er mich gesalbt hat;
+den Armen das Evangelium zu verkünden,
+hat er mich gesandt,
+die zerbrochenen Herzen zu heilen,
+den Gefangenen Befreiung zu verkünden und den Blinden das Augenlicht\.[^bible-cb6965fb-b036-45a4-ab59-054b0a91f8e4]“ Zugleich zeigte er,
+dass er selbst es war,
+der durch den Propheten Jesaja vorhergesagt worden war,
+und sagte zu ihnen:
+„Heute ist diese Schrift vor euren Ohren erfüllt\.[^bible-da2184e3-4d63-4a73-8b86-3eaf856a7a4f]“
 
-Darum erklärte der Herr den Jüngern: „Seht, ich sage euch: Erhebt eure Augen und schaut auf die Gegenden, denn sie sind schon weiß zur Ernte\. Denn der Erntearbeiter empfängt Lohn und sammelt Frucht zum ewigen Leben, damit der, der sät, und der, der erntet, sich gemeinsam freuen\. Denn darin ist das Wort wahr, dass einer sät und ein anderer erntet\. Denn ich habe euch vorausgeschickt, zu ernten, woran ihr keine Arbeit hattet; andere haben gearbeitet, und ihr seid in ihre Arbeit eingetreten\.[^bible-ab54f07c-dfbd-45b6-b47c-eba3ed448571]“ Wer sind nun die, die gearbeitet und die Heilsordnungen Gottes vorangebracht haben? Es ist klar: die Patriarchen und Propheten\. Sie haben sogar unseren Glauben im Voraus abgebildet und über die Erde hin die Ankunft des Sohnes Gottes verbreitet, wer und was er sein sollte, damit die späteren Geschlechter, die Gottesfurcht besaßen, die Ankunft Christi leicht annehmen konnten, weil sie durch die Propheten unterwiesen waren\. Und aus diesem Grund sagte der Engel zu Josef im Schlaf, als Josef bemerkte, dass Maria schwanger war, und sie heimlich entlassen wollte: „Fürchte dich nicht, Maria, deine Frau, zu dir zu nehmen; denn was in ihr gezeugt ist, ist vom Heiligen Geist\. Denn sie wird einen Sohn gebären, und du sollst seinen Namen Jesus nennen; denn er wird sein Volk von ihren Sünden retten\.[^bible-d3fa491d-dc65-49f1-a645-0a74807f695d]“ Und indem er ihn dazu anhielt, fügte er hinzu: „Dies alles aber ist geschehen, damit erfüllt würde, was vom Herrn durch den Propheten gesprochen wurde, der sagt: Siehe, eine Jungfrau wird schwanger sein und einen Sohn gebären, und man wird seinen Namen Emmanuel nennen\.[^bible-c3300b8b-b71d-4375-8c17-a1a426b75068]“ So gewann er ihn durch die Worte des Propheten und wehrte den Tadel von Maria ab, indem er zeigte, dass sie die Jungfrau war, die Jesaja zuvor genannt hatte und die den Emmanuel gebären sollte\. Als Josef deshalb ohne jeden Zweifel überzeugt war, nahm er Maria zu sich und fügte sich auch in allem Übrigen, was die Erziehung Christi betraf, mit Freude: Er unternahm die Reise nach Ägypten und wieder zurück und zog dann nach Nazareth um\. Darum nannten ihn schließlich die, die weder die Schriften noch die Verheißung Gottes noch die Heilsordnung Christi kannten, den Vater des Kindes\. Aus diesem Grund las auch der Herr selbst in Kapernaum die Weissagungen Jesajas vor: „Der Geist des Herrn ist auf mir, weil er mich gesalbt hat; den Armen das Evangelium zu verkünden, hat er mich gesandt, die zerbrochenen Herzen zu heilen, den Gefangenen Befreiung zu verkünden und den Blinden das Augenlicht\.[^bible-cb6965fb-b036-45a4-ab59-054b0a91f8e4]“ Zugleich zeigte er, dass er selbst es war, der durch den Propheten Jesaja vorhergesagt worden war, und sagte zu ihnen: „Heute ist diese Schrift vor euren Ohren erfüllt\.[^bible-da2184e3-4d63-4a73-8b86-3eaf856a7a4f]“
-
-Auch aus diesem Grund überzeugte Philippus den Eunuchen der Königin der Äthiopier leicht, an ihn zu glauben, nachdem er ihn dabei angetroffen hatte, wie er diese geschriebenen Worte las: „Er wurde wie ein Schaf zur Schlachtung geführt; und wie ein Lamm vor dem Scherer stumm ist, so tat er seinen Mund nicht auf\. In seiner Erniedrigung wurde sein Gericht weggenommen[^bible-cdd257f3-e6ba-48df-a7b9-df3b4a7d801c]“, und alles Übrige, was der Prophet über sein Leiden, seine Ankunft im Fleisch und darüber weiter berichtete, wie er von denen entehrt wurde, die nicht an ihn glaubten\. Philippus überzeugte ihn also, dass er Christus Jesus sei, der unter Pontius Pilatus gekreuzigt wurde und alles erlitt, was der Prophet vorhergesagt hatte, und dass er der Sohn Gottes sei, der den Menschen ewiges Leben gibt\. Und sogleich, als Philippus ihn getauft hatte, ging er von ihm weg\. Denn ihm, der bereits durch die Propheten unterwiesen war, fehlte nichts anderes als die Taufe: Er kannte Gott, den Vater, sehr wohl, ebenso die Regeln der rechten Lebensweise; nur die Ankunft des Sohnes Gottes kannte er noch nicht\. Nachdem er diese in kurzer Zeit kennengelernt hatte, zog er voll Freude seines Weges[^bible-51328896-b803-45b9-925c-c76c6279e1d2], um in Äthiopien die Ankunft Christi zu verkünden\. Deshalb hatte Philippus mit diesem Mann keine große Mühe, denn durch die Propheten war er in der Furcht Gottes bereits vorbereitet\. Aus diesem Grund sammelten auch die Apostel die verlorenen Schafe aus dem Haus Israel[^bible-f3461e55-e2bc-43db-9357-c1d96c5f11a7], legten ihnen aus den Schriften dar und bewiesen, dass dieser gekreuzigte Jesus der Christus ist, der Sohn des lebendigen Gottes[^bible-2126e3a6-bf74-43e8-9bc6-ee99a2921587]\. Und sie überzeugten eine große Menge, die jedoch die Furcht Gottes schon besaß\. So wurden an einem einzigen Tag dreitausend, viertausend und fünftausend Menschen getauft[^bible-01bcb5c4-1a3d-43d0-95ea-3db185a5b72d]\.
+Auch aus diesem Grund überzeugte Philippus den Eunuchen der Königin der Äthiopier leicht,
+an ihn zu glauben,
+nachdem er ihn dabei angetroffen hatte,
+wie er diese geschriebenen Worte las:
+„Er wurde wie ein Schaf zur Schlachtung geführt;
+und wie ein Lamm vor dem Scherer stumm ist,
+so tat er seinen Mund nicht auf\.
+In seiner Erniedrigung wurde sein Gericht weggenommen[^bible-cdd257f3-e6ba-48df-a7b9-df3b4a7d801c]“,
+und alles Übrige,
+was der Prophet über sein Leiden,
+seine Ankunft im Fleisch und darüber weiter berichtete,
+wie er von denen entehrt wurde,
+die nicht an ihn glaubten\.
+Philippus überzeugte ihn also,
+dass er Christus Jesus sei,
+der unter Pontius Pilatus gekreuzigt wurde und alles erlitt,
+was der Prophet vorhergesagt hatte,
+und dass er der Sohn Gottes sei,
+der den Menschen ewiges Leben gibt\.
+Und sogleich,
+als Philippus ihn getauft hatte,
+ging er von ihm weg\.
+Denn ihm,
+der bereits durch die Propheten unterwiesen war,
+fehlte nichts anderes als die Taufe:
+Er kannte Gott,
+den Vater,
+sehr wohl,
+ebenso die Regeln der rechten Lebensweise;
+nur die Ankunft des Sohnes Gottes kannte er noch nicht\.
+Nachdem er diese in kurzer Zeit kennengelernt hatte,
+zog er voll Freude seines Weges[^bible-51328896-b803-45b9-925c-c76c6279e1d2],
+um in Äthiopien die Ankunft Christi zu verkünden\.
+Deshalb hatte Philippus mit diesem Mann keine große Mühe,
+denn durch die Propheten war er in der Furcht Gottes bereits vorbereitet\.
+Aus diesem Grund sammelten auch die Apostel die verlorenen Schafe aus dem Haus Israel[^bible-f3461e55-e2bc-43db-9357-c1d96c5f11a7],
+legten ihnen aus den Schriften dar und bewiesen,
+dass dieser gekreuzigte Jesus der Christus ist,
+der Sohn des lebendigen Gottes[^bible-2126e3a6-bf74-43e8-9bc6-ee99a2921587]\.
+Und sie überzeugten eine große Menge,
+die jedoch die Furcht Gottes schon besaß\.
+So wurden an einem einzigen Tag dreitausend,
+viertausend und fünftausend Menschen getauft[^bible-01bcb5c4-1a3d-43d0-95ea-3db185a5b72d]\.
 
 ## Bibelverweise
 

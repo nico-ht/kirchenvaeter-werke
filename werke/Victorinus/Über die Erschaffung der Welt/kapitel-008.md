@@ -7,6 +7,17 @@ Autor: Victorinus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/victorinus/ueber-die-erschaffung-der-welt#kapitel-8ed787f5-433b-405a-e59b-08dd2f5bc8e8).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f9002dcede1c8203eff113a126c5632db59ae53124dd5f2c148ac0550e20d348`
-
-Der Tag, wie ich oben berichtet habe, ist durch die Zahl zwölf in zwei Teile gegliedert – durch die zwölf Stunden von Tag und Nacht\. Anhand dieser Stunden werden auch Monate, Jahre, Jahreszeiten und Zeitalter berechnet\. Daher sind zweifellos auch zwölf Engel des Tages und zwölf Engel der Nacht bestimmt, entsprechend der Anzahl der Stunden\. Diese sind die vierundzwanzig Zeugen der Tage und Nächte, die vor dem Thron Gottes sitzen und goldene Kronen auf ihren Köpfen tragen\. Die Offenbarung des Johannes, des Apostels und Evangelisten, nennt sie Älteste, weil sie älter sind als die anderen Engel und als die Menschen\.
+Der Tag,
+wie ich oben berichtet habe,
+ist durch die Zahl zwölf in zwei Teile gegliedert – durch die zwölf Stunden von Tag und Nacht\.
+Anhand dieser Stunden werden auch Monate,
+Jahre,
+Jahreszeiten und Zeitalter berechnet\.
+Daher sind zweifellos auch zwölf Engel des Tages und zwölf Engel der Nacht bestimmt,
+entsprechend der Anzahl der Stunden\.
+Diese sind die vierundzwanzig Zeugen der Tage und Nächte,
+die vor dem Thron Gottes sitzen und goldene Kronen auf ihren Köpfen tragen\.
+Die Offenbarung des Johannes,
+des Apostels und Evangelisten,
+nennt sie Älteste,
+weil sie älter sind als die anderen Engel und als die Menschen\.

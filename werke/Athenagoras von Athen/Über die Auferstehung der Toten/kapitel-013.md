@@ -7,6 +7,40 @@ Autor: Athenagoras von Athen
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athenagoras/ueber-die-auferstehung-der-toten#kapitel-7efbd33c-0dc4-4917-a8f9-08df134d0b15).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:55bf5bf6cc86277b490c73fb993a5dda693dffde949699238f77ce28892f579c`
-
-Da wir darauf nicht weniger als auf das bereits Geschehene vertrauen und unsere eigene Natur betrachten, nehmen wir das Leben mit seinen Entbehrungen und seiner Vergänglichkeit an, weil es zum gegenwärtigen Dasein gehört, und hoffen fest auf ein Fortbestehen in Unvergänglichkeit\. Dieses Fortbestehen denken wir uns nicht nach menschlichen Vorstellungen aus, indem wir uns vergeblich mit falschen Hoffnungen vertrösten\. Vielmehr vertrauen wir auf die untrüglichste Gewähr: die Absicht dessen, der uns geschaffen hat\. Dieser Absicht entsprechend hat er den Menschen aus einer unsterblichen Seele und einem Körper geschaffen und ihn zugleich mit Verstand und einem angeborenen Gesetz ausgestattet, um die Gaben, die er ihm schenkt, zu erhalten und zu bewahren\. Diese Gaben entsprechen einer verständigen Lebensführung und einem vernünftigen Leben\. Wir wissen sehr wohl, dass er ein solches Lebewesen nicht geschaffen hätte und es nicht mit allem ausgestattet hätte, was zu seinem Fortbestehen nötig ist, wenn er nicht gewollt hätte, dass das Geschaffene fortbesteht\. Wenn also der Schöpfer dieses Weltalls den Menschen geschaffen hat, damit er an einem verständigen Leben teilhat und die Herrlichkeit des Schöpfers sowie seine in allem erkennbare Weisheit betrachtet und dabei in dieser Betrachtung für immer fortbesteht, entsprechend dessen Absicht und der Natur, die ihm zuteilgeworden ist, dann verbürgt der Grund seiner Erschaffung das ewige Fortbestehen, das Fortbestehen wiederum die Auferstehung\. Ohne sie könnte der Mensch nicht fortbestehen\. Aus dem Gesagten wird deutlich, dass der Grund seiner Erschaffung und die Absicht des Schöpfers die Auferstehung klar erweisen\. Da dies also der Grund ist, aus dem der Mensch in diese Welt gebracht wurde, wäre es folgerichtig, den Gedankengang zu untersuchen, der sich daran der Natur der Sache nach oder in der logischen Folge anschließt\. Bei der Untersuchung folgt nämlich auf den Grund der Erschaffung die Natur der geschaffenen Menschen, auf die Natur der Geschaffenen wiederum das gerechte Urteil des Schöpfers über sie und auf all dies das Ziel des Lebens\. Nachdem wir die vorangestellten Fragen untersucht haben, müssen wir als Nächstes die Natur der Menschen betrachten\.
+Da wir darauf nicht weniger als auf das bereits Geschehene vertrauen und unsere eigene Natur betrachten,
+nehmen wir das Leben mit seinen Entbehrungen und seiner Vergänglichkeit an,
+weil es zum gegenwärtigen Dasein gehört,
+und hoffen fest auf ein Fortbestehen in Unvergänglichkeit\.
+Dieses Fortbestehen denken wir uns nicht nach menschlichen Vorstellungen aus,
+indem wir uns vergeblich mit falschen Hoffnungen vertrösten\.
+Vielmehr vertrauen wir auf die untrüglichste Gewähr:
+die Absicht dessen,
+der uns geschaffen hat\.
+Dieser Absicht entsprechend hat er den Menschen aus einer unsterblichen Seele und einem Körper geschaffen und ihn zugleich mit Verstand und einem angeborenen Gesetz ausgestattet,
+um die Gaben,
+die er ihm schenkt,
+zu erhalten und zu bewahren\.
+Diese Gaben entsprechen einer verständigen Lebensführung und einem vernünftigen Leben\.
+Wir wissen sehr wohl,
+dass er ein solches Lebewesen nicht geschaffen hätte und es nicht mit allem ausgestattet hätte,
+was zu seinem Fortbestehen nötig ist,
+wenn er nicht gewollt hätte,
+dass das Geschaffene fortbesteht\.
+Wenn also der Schöpfer dieses Weltalls den Menschen geschaffen hat,
+damit er an einem verständigen Leben teilhat und die Herrlichkeit des Schöpfers sowie seine in allem erkennbare Weisheit betrachtet und dabei in dieser Betrachtung für immer fortbesteht,
+entsprechend dessen Absicht und der Natur,
+die ihm zuteilgeworden ist,
+dann verbürgt der Grund seiner Erschaffung das ewige Fortbestehen,
+das Fortbestehen wiederum die Auferstehung\.
+Ohne sie könnte der Mensch nicht fortbestehen\.
+Aus dem Gesagten wird deutlich,
+dass der Grund seiner Erschaffung und die Absicht des Schöpfers die Auferstehung klar erweisen\.
+Da dies also der Grund ist,
+aus dem der Mensch in diese Welt gebracht wurde,
+wäre es folgerichtig,
+den Gedankengang zu untersuchen,
+der sich daran der Natur der Sache nach oder in der logischen Folge anschließt\.
+Bei der Untersuchung folgt nämlich auf den Grund der Erschaffung die Natur der geschaffenen Menschen,
+auf die Natur der Geschaffenen wiederum das gerechte Urteil des Schöpfers über sie und auf all dies das Ziel des Lebens\.
+Nachdem wir die vorangestellten Fragen untersucht haben,
+müssen wir als Nächstes die Natur der Menschen betrachten\.

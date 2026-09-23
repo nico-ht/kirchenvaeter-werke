@@ -7,11 +7,104 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/13-predigt-zu-exodus#kapitel-8933e3ef-d1ea-4212-5754-08de5b572cf0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0ebae347cba3186563ae5ef57c852eb148c3acf0efce90684b2375084848d0e0`
+Lasst uns auch betrachten,
+was „gezwirntes Leinen“ bedeutet\.
+Denn auch hier macht er einen Zusatz zu den anderen Elementen\.
+Wir sagten,
+dass Leinen die Erde repräsentiert,
+die unser Fleisch ist\.
+Er will also nicht,
+dass Fleisch Gott geopfert wird,
+das im Luxus schwelgt und durch Vergnügungen verweichlicht ist,
+sondern er befiehlt,
+dass es gezwirnt und gezügelt ist\.
+Wer ist es also,
+der sein Fleisch zwirnt?
+Zweifellos der,
+der sagte:
+„Ich züchtige meinen Körper und unterwerfe ihn,
+damit ich nicht vielleicht,
+nachdem ich anderen gepredigt habe,
+selbst verwerflich werde\.“[^bible-d6913f65-8ad2-45e4-8f84-0dcbcd730112]
+So bedeutet also auch gezwirntes Leinen zu opfern,
+das Fleisch durch Enthaltsamkeit,
+durch Nachtwachen und durch die Anstrengung von Meditationen zu schwächen\.
+Ziegenhaar wird auch geopfert\.
+Diese Art von Tier ist im Gesetz befohlen,
+für die Sünde geopfert zu werden\.
+Haar ist eine tote,
+blutlose,
+seelenlose Form\.
+Wer dieses Tier opfert,
+zeigt,
+dass die Neigung zur Sünde in ihm bereits tot ist und die Sünde in seinen Gliedern nicht weiter lebt oder herrscht\.
+Widderfelle werden auch geopfert\.
+Einige vor uns haben vorgeschlagen,
+dass der Widder den Wahnsinn repräsentiert\.
+Und weil ein Fell ein Anzeichen für ein totes Tier ist,
+zeigt derjenige,
+der dem Herrn Widderfelle opfert,
+dass der Wahnsinn in ihm tot ist\.
+Als Nächstes sagt der Text:
+„Und alle Männer,
+denen es in ihrem Verständnis gut schien,
+empfingen von ihren Frauen und brachten Juwelen und Ohrringe und Ringe und Haarnadeln und Armbänder\.“[^bible-0f4e1c8f-70e1-4f33-be5b-f6b424c0b519]
+Ihr seht hier auch,
+wie jene Gott Gaben opfern,
+die im Herzen sehen,
+die Verständnis im Herzen empfangen,
+deren Verstand auf das Wort Gottes gerichtet und hingegeben ist\.
+Jene bringen also Gaben,
+und sie bringen sie auch von ihren Frauen,
+der Text sagt:
+„Ohrringe und Juwelen und Armbänder\.“[^bible-a6b4dbe7-26f6-4fed-954b-851be8cf7ec2]
 
-Lasst uns auch betrachten, was „gezwirntes Leinen“ bedeutet\. Denn auch hier macht er einen Zusatz zu den anderen Elementen\. Wir sagten, dass Leinen die Erde repräsentiert, die unser Fleisch ist\. Er will also nicht, dass Fleisch Gott geopfert wird, das im Luxus schwelgt und durch Vergnügungen verweichlicht ist, sondern er befiehlt, dass es gezwirnt und gezügelt ist\. Wer ist es also, der sein Fleisch zwirnt? Zweifellos der, der sagte: „Ich züchtige meinen Körper und unterwerfe ihn, damit ich nicht vielleicht, nachdem ich anderen gepredigt habe, selbst verwerflich werde\.“[^bible-d6913f65-8ad2-45e4-8f84-0dcbcd730112] So bedeutet also auch gezwirntes Leinen zu opfern, das Fleisch durch Enthaltsamkeit, durch Nachtwachen und durch die Anstrengung von Meditationen zu schwächen\. Ziegenhaar wird auch geopfert\. Diese Art von Tier ist im Gesetz befohlen, für die Sünde geopfert zu werden\. Haar ist eine tote, blutlose, seelenlose Form\. Wer dieses Tier opfert, zeigt, dass die Neigung zur Sünde in ihm bereits tot ist und die Sünde in seinen Gliedern nicht weiter lebt oder herrscht\. Widderfelle werden auch geopfert\. Einige vor uns haben vorgeschlagen, dass der Widder den Wahnsinn repräsentiert\. Und weil ein Fell ein Anzeichen für ein totes Tier ist, zeigt derjenige, der dem Herrn Widderfelle opfert, dass der Wahnsinn in ihm tot ist\. Als Nächstes sagt der Text: „Und alle Männer, denen es in ihrem Verständnis gut schien, empfingen von ihren Frauen und brachten Juwelen und Ohrringe und Ringe und Haarnadeln und Armbänder\.“[^bible-0f4e1c8f-70e1-4f33-be5b-f6b424c0b519] Ihr seht hier auch, wie jene Gott Gaben opfern, die im Herzen sehen, die Verständnis im Herzen empfangen, deren Verstand auf das Wort Gottes gerichtet und hingegeben ist\. Jene bringen also Gaben, und sie bringen sie auch von ihren Frauen, der Text sagt: „Ohrringe und Juwelen und Armbänder\.“[^bible-a6b4dbe7-26f6-4fed-954b-851be8cf7ec2]
-
-Wir haben bereits oft gesagt, dass die Frau gemäß dem allegorischen Sinn als Fleisch gedeutet wird und der Mann als das rationale Verständnis\. Gute Ehefrauen sind also jene, die ihren Ehemännern gehorchen; das Fleisch ist gut, das dem Geist nicht länger widersteht, sondern sich unterwirft und zustimmt\. Deshalb sagte der Herr: „Wenn zwei oder drei von euch übereinstimmen, wird euch getan werden, was immer ihr bitten werdet\.“[^bible-38125e57-6070-4b74-8f4c-be6ae0266b61] Sie opfern also „Ohrringe von ihren Frauen“\. Ihr seht, wie das Gehör dem Herrn geopfert wird\. Aber auch Armbänder werden dem Herrn geopfert, die sich auf geschickte und gute Werke beziehen, die durch das Fleisch vollbracht werden\. Das rationale Verständnis opfert diese Dinge dem Herrn\. Aber auch Haarnadeln werden geopfert\. Der opfert Haarnadeln, der gut zu unterscheiden weiß, was getan werden muss, was vermieden werden muss, was Gott wohlgefällig oder was missfallend ist, was gerecht ist, was ungerecht\. Das sind die Haarnadeln, die dem Herrn geopfert werden\. Hier opfern also die Frauen dem Herrn Ohrringe, weil sie weise Frauen sind\. Denn der Text sagt, weise Frauen kamen und machten, was immer für die Gewänder des Hohepriesters notwendig war\. Aber jene Frauen, die ihre Ohrringe opferten, um ein Kalb zu machen, waren dumm, die „ihr Gehör von der Wahrheit abwandten und sich Fabeln und Gottlosigkeit zuwandten“[^bible-a8ef5ce7-5b9f-4f7f-a79e-7dffd91e1f64], und deshalb ihre Ohrringe opferten, um den Kopf eines Kalbes zu machen\. Aber auch im Buch der Richter finden wir einen anderen Götzen, der nicht minder aus den Ohrringen von Frauen gemacht wurde\. Jene Frauen sind also gesegnet, jenes Fleisch ist gesegnet, das dem Herrn seine Ohrringe und seine Haarnadeln und seine Ringe und alle Werke seiner Hände opfert, die es in den Geboten des Herrn vollbringt\.
+Wir haben bereits oft gesagt,
+dass die Frau gemäß dem allegorischen Sinn als Fleisch gedeutet wird und der Mann als das rationale Verständnis\.
+Gute Ehefrauen sind also jene,
+die ihren Ehemännern gehorchen;
+das Fleisch ist gut,
+das dem Geist nicht länger widersteht,
+sondern sich unterwirft und zustimmt\.
+Deshalb sagte der Herr:
+„Wenn zwei oder drei von euch übereinstimmen,
+wird euch getan werden,
+was immer ihr bitten werdet\.“[^bible-38125e57-6070-4b74-8f4c-be6ae0266b61]
+Sie opfern also „Ohrringe von ihren Frauen“\.
+Ihr seht,
+wie das Gehör dem Herrn geopfert wird\.
+Aber auch Armbänder werden dem Herrn geopfert,
+die sich auf geschickte und gute Werke beziehen,
+die durch das Fleisch vollbracht werden\.
+Das rationale Verständnis opfert diese Dinge dem Herrn\.
+Aber auch Haarnadeln werden geopfert\.
+Der opfert Haarnadeln,
+der gut zu unterscheiden weiß,
+was getan werden muss,
+was vermieden werden muss,
+was Gott wohlgefällig oder was missfallend ist,
+was gerecht ist,
+was ungerecht\.
+Das sind die Haarnadeln,
+die dem Herrn geopfert werden\.
+Hier opfern also die Frauen dem Herrn Ohrringe,
+weil sie weise Frauen sind\.
+Denn der Text sagt,
+weise Frauen kamen und machten,
+was immer für die Gewänder des Hohepriesters notwendig war\.
+Aber jene Frauen,
+die ihre Ohrringe opferten,
+um ein Kalb zu machen,
+waren dumm,
+die „ihr Gehör von der Wahrheit abwandten und sich Fabeln und Gottlosigkeit zuwandten“[^bible-a8ef5ce7-5b9f-4f7f-a79e-7dffd91e1f64],
+und deshalb ihre Ohrringe opferten,
+um den Kopf eines Kalbes zu machen\.
+Aber auch im Buch der Richter finden wir einen anderen Götzen,
+der nicht minder aus den Ohrringen von Frauen gemacht wurde\.
+Jene Frauen sind also gesegnet,
+jenes Fleisch ist gesegnet,
+das dem Herrn seine Ohrringe und seine Haarnadeln und seine Ringe und alle Werke seiner Hände opfert,
+die es in den Geboten des Herrn vollbringt\.
 
 ## Bibelverweise
 

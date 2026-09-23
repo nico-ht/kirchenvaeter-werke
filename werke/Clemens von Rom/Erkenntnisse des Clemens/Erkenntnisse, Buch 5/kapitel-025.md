@@ -7,9 +7,73 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-5#kapitel-f911bd6d-7f1d-4fb0-4bf1-08dd123715ec).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:36cf737faf370e94b303e3d152ce425c6b6a8a49887dadbeedf70ae893fba047`
-
-Doch ihr sagt: Dann sollten die, die das verehren, was nicht verehrt werden darf, von Gott sofort vernichtet werden, um zu verhindern, dass andere das Gleiche tun\. Aber seid ihr weiser als Gott, dass ihr Ihm Rat anbieten könnt? „Denn wer hat den Sinn des Herrn erkannt, oder wer ist sein Ratgeber gewesen?“[^bible-58ff3511-e489-43be-8993-5f560403b7bc] Er weiß, was zu tun ist\. Denn mit all denen, die in Unwissenheit sind, übt Er Geduld, weil Er barmherzig und gnädig ist; und Er sieht voraus, dass viele der Gottlosen fromm werden und dass sogar einige von denen, die unreine Statuen und verunreinigte Bilder anbeten, zu Gott bekehrt werden\. Sie lassen ihre Sünden hinter sich und tun gute Werke, um das Heil zu erlangen\. Es wird jedoch gesagt: „Wir hätten nicht einmal den Gedanken fassen sollen, diese Dinge zu tun\.“ Ihr wisst nicht, was Freiheit des Willens ist, und vergesst, dass derjenige gut ist, der es aus eigener Absicht ist; aber derjenige, der aus Notwendigkeit in der Güte gehalten wird, kann nicht gut genannt werden, weil es nicht aus sich selbst ist, dass er so ist\. Daher hat jeder die Freiheit, Gutes oder Böses zu wählen; er erwirbt entweder Belohnungen oder bringt sich selbst Zerstörung\. Es wird gesagt: „Gott bringt uns alles, was wir denken, in den Sinn\.“ Was meint ihr, o Menschen? Ihr lästert\. Denn wenn Er all unsere Gedanken in unseren Geist bringt, dann ist Er es, der uns Gedanken der Ehebrecherei, der Habgier, der Lästerung und jeder Art von Unzucht vorschlägt\. Hört auf, ich bitte euch, mit diesen Lästerungen, und versteht, was die Ehre ist, die Gott gebührt\. Und sagt nicht, wie einige von euch es gewohnt sind zu sagen, dass Gott keine Ehre von den Menschen benötigt\. In der Tat benötigt Er von niemandem; aber ihr solltet wissen, dass die Ehre, die ihr Gott zuteilwerden lasst, euch selbst nützt\. Denn was ist so abscheulich, wie dass ein Mensch seinem Schöpfer nicht dankt?
+Doch ihr sagt:
+Dann sollten die,
+die das verehren,
+was nicht verehrt werden darf,
+von Gott sofort vernichtet werden,
+um zu verhindern,
+dass andere das Gleiche tun\.
+Aber seid ihr weiser als Gott,
+dass ihr Ihm Rat anbieten könnt?
+„Denn wer hat den Sinn des Herrn erkannt,
+oder wer ist sein Ratgeber gewesen?“[^bible-58ff3511-e489-43be-8993-5f560403b7bc]
+Er weiß,
+was zu tun ist\.
+Denn mit all denen,
+die in Unwissenheit sind,
+übt Er Geduld,
+weil Er barmherzig und gnädig ist;
+und Er sieht voraus,
+dass viele der Gottlosen fromm werden und dass sogar einige von denen,
+die unreine Statuen und verunreinigte Bilder anbeten,
+zu Gott bekehrt werden\.
+Sie lassen ihre Sünden hinter sich und tun gute Werke,
+um das Heil zu erlangen\.
+Es wird jedoch gesagt:
+„Wir hätten nicht einmal den Gedanken fassen sollen,
+diese Dinge zu tun\.“
+Ihr wisst nicht,
+was Freiheit des Willens ist,
+und vergesst,
+dass derjenige gut ist,
+der es aus eigener Absicht ist;
+aber derjenige,
+der aus Notwendigkeit in der Güte gehalten wird,
+kann nicht gut genannt werden,
+weil es nicht aus sich selbst ist,
+dass er so ist\.
+Daher hat jeder die Freiheit,
+Gutes oder Böses zu wählen;
+er erwirbt entweder Belohnungen oder bringt sich selbst Zerstörung\.
+Es wird gesagt:
+„Gott bringt uns alles,
+was wir denken,
+in den Sinn\.“
+Was meint ihr,
+o Menschen?
+Ihr lästert\.
+Denn wenn Er all unsere Gedanken in unseren Geist bringt,
+dann ist Er es,
+der uns Gedanken der Ehebrecherei,
+der Habgier,
+der Lästerung und jeder Art von Unzucht vorschlägt\.
+Hört auf,
+ich bitte euch,
+mit diesen Lästerungen,
+und versteht,
+was die Ehre ist,
+die Gott gebührt\.
+Und sagt nicht,
+wie einige von euch es gewohnt sind zu sagen,
+dass Gott keine Ehre von den Menschen benötigt\.
+In der Tat benötigt Er von niemandem;
+aber ihr solltet wissen,
+dass die Ehre,
+die ihr Gott zuteilwerden lasst,
+euch selbst nützt\.
+Denn was ist so abscheulich,
+wie dass ein Mensch seinem Schöpfer nicht dankt?
 
 ## Bibelverweise
 

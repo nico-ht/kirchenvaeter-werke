@@ -7,11 +7,130 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-2#kapitel-87b14c77-8094-4229-087d-08ded872ad01).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:01a902f508dd4eac4c18a8cb3b81c3a8c40d64ea2616b982b9d3b315b158de28`
+Nachdem ich nun den Bericht über diejenigen gegeben habe,
+die wegen unerwarteter Umstände zu spät kamen,
+um das Opfer des Passahfestes mit dem übrigen Volk darzubringen,
+die aber dennoch wünschten,
+die so versäumte Pflicht,
+wenn auch spät,
+doch in der vorgeschriebenen Weise zu erfüllen,
+gehe ich nun zur letzten Anordnung über,
+die die Erbfolge betrifft\.
+Auch sie ist,
+in gleicher Weise,
+gemischter Art und besteht aus Frage und Antwort\.
+Es gab einen Mann namens Shalpaath,
+einen Mann von hohem Ansehen und aus einem ausgezeichneten Stamm\.
+Er hatte vier Töchter,
+aber keinen einzigen Sohn\.
+Nach dem Tod ihres Vaters fürchteten die Töchter,
+sie könnten des Erbes ihres Vaters beraubt werden,
+weil die Zuteilungen solcher Erbschaften den männlichen Erben gegeben wurden;
+darum kamen sie mit der Bescheidenheit,
+die Jungfrauen ansteht,
+zum Herrscher des Volkes,
+nicht weil sie nach Reichtum verlangten,
+sondern weil sie den Namen und das Ansehen ihres Vaters bewahren wollten\.
+Und sie sagten zu Mose:
+„Unser Vater ist gestorben;
+er starb,
+ohne in irgendeinen jener Aufstände verwickelt gewesen zu sein,
+bei denen es geschehen ist,
+dass so viele Tausende getötet wurden;
+vielmehr pflegte er ein Leben ohne Unruhe und ohne Berühmtheit,
+es sei denn freilich,
+man müsste es als Vergehen ansehen,
+dass er keine männlichen Nachkommen hatte\.
+Und wir stehen nun hier,
+dem Anschein nach als Waisen,
+in Wahrheit aber mit dem Wunsch,
+in dir einen Vater zu finden;
+denn ein rechtmäßiger Herrscher ist mit seinen Untergebenen so eng verbunden wie ein Vater\.[^bible-b3424157-0fea-436c-8e17-6bcd389e9427]“ Warum soll der Name unseres Vaters aus seiner Sippe verschwinden,
+weil er keinen Sohn hat?
+Gib uns Besitz unter den Brüdern unseres Vaters\.[^bible-b3424157-0fea-436c-8e17-6bcd389e9427]
+Und Mose bewunderte die Weisheit der Mädchen und ihre Liebe zu ihrem Vater;
+dennoch zögerte er,
+weil ihn in gewissem Maß andere Erwägungen beeinflussten,
+nach denen es angemessen schien,
+dass Männer die Erbschaften unter sich aufteilten,
+damit sie den verdienten Lohn für ihre Kriegsdienste und für die Kriege erhielten,
+die sie durchgestanden hatten\.
+Die Natur aber,
+die der Frau Schutz vor all solchen Kämpfen gegeben hat,
+entzieht ihr eben dadurch offenkundig auch das Recht auf einen Anteil an dem,
+was als Lohn für das Bestehen dieser Kämpfe ausgesetzt ist\.
+Daher befand sich der Geist des Mose ganz natürlich in einem Zustand der Unentschiedenheit und wurde nach verschiedenen Seiten gezogen;
+so legte Mose seine Verlegenheit vor Gott,
+von dem er wusste,
+dass er als Einziger mit wahrhaftigem und unfehlbarem Urteil solche heiklen Unterschiede in voller Wahrheit und Gerechtigkeit entscheiden konnte\.
 
-Nachdem ich nun den Bericht über diejenigen gegeben habe, die wegen unerwarteter Umstände zu spät kamen, um das Opfer des Passahfestes mit dem übrigen Volk darzubringen, die aber dennoch wünschten, die so versäumte Pflicht, wenn auch spät, doch in der vorgeschriebenen Weise zu erfüllen, gehe ich nun zur letzten Anordnung über, die die Erbfolge betrifft\. Auch sie ist, in gleicher Weise, gemischter Art und besteht aus Frage und Antwort\. Es gab einen Mann namens Shalpaath, einen Mann von hohem Ansehen und aus einem ausgezeichneten Stamm\. Er hatte vier Töchter, aber keinen einzigen Sohn\. Nach dem Tod ihres Vaters fürchteten die Töchter, sie könnten des Erbes ihres Vaters beraubt werden, weil die Zuteilungen solcher Erbschaften den männlichen Erben gegeben wurden; darum kamen sie mit der Bescheidenheit, die Jungfrauen ansteht, zum Herrscher des Volkes, nicht weil sie nach Reichtum verlangten, sondern weil sie den Namen und das Ansehen ihres Vaters bewahren wollten\. Und sie sagten zu Mose: „Unser Vater ist gestorben; er starb, ohne in irgendeinen jener Aufstände verwickelt gewesen zu sein, bei denen es geschehen ist, dass so viele Tausende getötet wurden; vielmehr pflegte er ein Leben ohne Unruhe und ohne Berühmtheit, es sei denn freilich, man müsste es als Vergehen ansehen, dass er keine männlichen Nachkommen hatte\. Und wir stehen nun hier, dem Anschein nach als Waisen, in Wahrheit aber mit dem Wunsch, in dir einen Vater zu finden; denn ein rechtmäßiger Herrscher ist mit seinen Untergebenen so eng verbunden wie ein Vater\.[^bible-b3424157-0fea-436c-8e17-6bcd389e9427]“ Warum soll der Name unseres Vaters aus seiner Sippe verschwinden, weil er keinen Sohn hat? Gib uns Besitz unter den Brüdern unseres Vaters\.[^bible-b3424157-0fea-436c-8e17-6bcd389e9427] Und Mose bewunderte die Weisheit der Mädchen und ihre Liebe zu ihrem Vater; dennoch zögerte er, weil ihn in gewissem Maß andere Erwägungen beeinflussten, nach denen es angemessen schien, dass Männer die Erbschaften unter sich aufteilten, damit sie den verdienten Lohn für ihre Kriegsdienste und für die Kriege erhielten, die sie durchgestanden hatten\. Die Natur aber, die der Frau Schutz vor all solchen Kämpfen gegeben hat, entzieht ihr eben dadurch offenkundig auch das Recht auf einen Anteil an dem, was als Lohn für das Bestehen dieser Kämpfe ausgesetzt ist\. Daher befand sich der Geist des Mose ganz natürlich in einem Zustand der Unentschiedenheit und wurde nach verschiedenen Seiten gezogen; so legte Mose seine Verlegenheit vor Gott, von dem er wusste, dass er als Einziger mit wahrhaftigem und unfehlbarem Urteil solche heiklen Unterschiede in voller Wahrheit und Gerechtigkeit entscheiden konnte\.
-
-Der Schöpfer des Alls aber, der Vater der Welt, der Erde und Himmel, Wasser und Luft und alles, was aus einem von ihnen zusammengesetzt ist, zusammenhält und die ganze Welt regiert, der König von Göttern und Menschen, hielt es nicht für seiner unwürdig, für diese verwaisten Mädchen die Rolle eines Schiedsrichters zu übernehmen\. Und als Schiedsrichter tat er, wie mir scheint, mehr für sie, als wenn er nur Richter des Gesetzes gewesen wäre; denn er ist barmherzig und wohltätig und hat alles überall mit seiner wohltätigen Macht erfüllt, indem er den Mädchen großes Lob spendete\. O Herr, wie könnte jemand dein Lob angemessen singen, mit welchem Mund, mit welcher Zunge, mit welcher Fügung der Stimme? Können die Sterne zu einem Chor werden und eine Melodie hervorströmen lassen, die des Gegenstandes würdig wäre? Selbst wenn der ganze Himmel sich in Stimme auflöste, könnte er auch nur einen Teil deiner Tugenden aufzählen? „Ganz richtig“, sagt Gott, „haben die Töchter Shalpaaths gesprochen\.“ Wer könnte verkennen, wie groß dieses Lob ist, wenn Gott zu ihren Gunsten Zeugnis ablegt? Kommt nun, ihr Gewalttätigen, ihr, die ihr euch wegen eurer tugendhaften Taten aufspielt, ihr, die ihr eure Hände höher erhebt, als die Natur es rechtfertigt, und die Brauen hochzieht; ihr, bei denen die Witwenschaft einer Frau ein Anlass zum Lachen ist, obwohl sie ein überaus beklagenswertes Übel ist, und in deren Gedanken die Verlassenheit verwaister Kinder noch schändlicher verspottet wird als die eben genannte Not\. Da nun also jene, die in einer so niedrigen und unglücklichen Lage erschienen, von Gott nicht zu den Vernachlässigten und Unbeachteten gerechnet wurden, obwohl alle Königreiche des ganzen bewohnten Erdkreises nur der unbedeutendste Teil seiner Herrschaft sind, weil der ganze Umfang und Raum der Welt nur der äußerste Rand seiner Werke ist, lernt aus dieser Tatsache eine notwendige Lehre\. Mose aber, der die Rede der Mädchen gelobt hatte, ließ sie weder ohne die ihnen gebührende Ehre und Belohnung, noch erhob er sie andererseits zu gleichem Rang der Ehre mit den Männern, auf denen die Hauptlast des Krieges liegt; vielmehr wies er den Männern die Erbschaften als die Preise zu, die ihnen als Lohn für die tapferen Taten gebührten, die sie vollbracht hatten\. Die Mädchen aber hielt er der Gnade und Güte würdig, nicht des Lohnes; das zeigte er aufs deutlichste durch die Ausdrücke, die er gebrauchte, indem er von „Gaben“ und „Geschenken“ sprach, nicht aber von „Vergeltung“ oder „Entgelt“\. Denn die eine Redeweise passt zu denen, die empfangen, worauf sie ein Recht haben, die andere gehört zu denen, denen unverdiente Gunst erwiesen wird\.
+Der Schöpfer des Alls aber,
+der Vater der Welt,
+der Erde und Himmel,
+Wasser und Luft und alles,
+was aus einem von ihnen zusammengesetzt ist,
+zusammenhält und die ganze Welt regiert,
+der König von Göttern und Menschen,
+hielt es nicht für seiner unwürdig,
+für diese verwaisten Mädchen die Rolle eines Schiedsrichters zu übernehmen\.
+Und als Schiedsrichter tat er,
+wie mir scheint,
+mehr für sie,
+als wenn er nur Richter des Gesetzes gewesen wäre;
+denn er ist barmherzig und wohltätig und hat alles überall mit seiner wohltätigen Macht erfüllt,
+indem er den Mädchen großes Lob spendete\.
+O Herr,
+wie könnte jemand dein Lob angemessen singen,
+mit welchem Mund,
+mit welcher Zunge,
+mit welcher Fügung der Stimme?
+Können die Sterne zu einem Chor werden und eine Melodie hervorströmen lassen,
+die des Gegenstandes würdig wäre?
+Selbst wenn der ganze Himmel sich in Stimme auflöste,
+könnte er auch nur einen Teil deiner Tugenden aufzählen?
+„Ganz richtig“,
+sagt Gott,
+„haben die Töchter Shalpaaths gesprochen\.“
+Wer könnte verkennen,
+wie groß dieses Lob ist,
+wenn Gott zu ihren Gunsten Zeugnis ablegt?
+Kommt nun,
+ihr Gewalttätigen,
+ihr,
+die ihr euch wegen eurer tugendhaften Taten aufspielt,
+ihr,
+die ihr eure Hände höher erhebt,
+als die Natur es rechtfertigt,
+und die Brauen hochzieht;
+ihr,
+bei denen die Witwenschaft einer Frau ein Anlass zum Lachen ist,
+obwohl sie ein überaus beklagenswertes Übel ist,
+und in deren Gedanken die Verlassenheit verwaister Kinder noch schändlicher verspottet wird als die eben genannte Not\.
+Da nun also jene,
+die in einer so niedrigen und unglücklichen Lage erschienen,
+von Gott nicht zu den Vernachlässigten und Unbeachteten gerechnet wurden,
+obwohl alle Königreiche des ganzen bewohnten Erdkreises nur der unbedeutendste Teil seiner Herrschaft sind,
+weil der ganze Umfang und Raum der Welt nur der äußerste Rand seiner Werke ist,
+lernt aus dieser Tatsache eine notwendige Lehre\.
+Mose aber,
+der die Rede der Mädchen gelobt hatte,
+ließ sie weder ohne die ihnen gebührende Ehre und Belohnung,
+noch erhob er sie andererseits zu gleichem Rang der Ehre mit den Männern,
+auf denen die Hauptlast des Krieges liegt;
+vielmehr wies er den Männern die Erbschaften als die Preise zu,
+die ihnen als Lohn für die tapferen Taten gebührten,
+die sie vollbracht hatten\.
+Die Mädchen aber hielt er der Gnade und Güte würdig,
+nicht des Lohnes;
+das zeigte er aufs deutlichste durch die Ausdrücke,
+die er gebrauchte,
+indem er von „Gaben“ und „Geschenken“ sprach,
+nicht aber von „Vergeltung“ oder „Entgelt“\.
+Denn die eine Redeweise passt zu denen,
+die empfangen,
+worauf sie ein Recht haben,
+die andere gehört zu denen,
+denen unverdiente Gunst erwiesen wird\.
 
 ## Bibelverweise
 

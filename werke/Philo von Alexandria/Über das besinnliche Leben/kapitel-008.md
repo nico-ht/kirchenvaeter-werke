@@ -7,8 +7,111 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-besinnliche-leben#kapitel-e16395e7-46a5-4545-c0bb-08dd0c1e2646).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:223851d6fde0a7d32038b0e2df650709877c6f5910c3bcc3f594728967552fba`
+Da nun aber die berühmtesten Gastmähler voll solcher Nichtigkeiten und Dummheit sind und schon in sich selbst Beweiskraft haben,
+sofern man nicht vager Meinung und dem allgemein überlieferten Ruf folgen will,
+als seien sie besonders gelungene Feste gewesen,
+will ich ihnen die Gastmähler jener Menschen gegenüberstellen,
+die ihr ganzes Leben und sich selbst der Erkenntnis und Betrachtung der Naturdinge gewidmet haben,
+gemäß den hochheiligen Mahnungen und Vorschriften des Propheten Mose\.
+Zuerst kommen diese Männer am Ende von sieben Wochen zusammen,
+denn sie verehren nicht nur die einfache Woche von sieben Tagen,
+sondern auch ihre vervielfachte Kraft;
+sie wissen nämlich,
+dass sie rein und immer jungfräulich ist\.
+Und sie ist Vorspiel und gleichsam Vorfest des größten Festes,
+das der Zahl fünfzig zugeordnet ist,
+der heiligsten und natürlichsten der Zahlen,
+zusammengesetzt aus der Kraft des rechtwinkligen Dreiecks,
+das Prinzip der Entstehung und Beschaffenheit des Ganzen ist\.
+Wenn sie also in weißen Gewändern zusammenkommen,
+froh und zugleich von höchstem Ernst erfüllt,
+dann tritt,
+ehe sie sich zum Mahl niederlassen,
+einer der Ephemerëuten,
+so nennen sie nämlich gewöhnlich diejenigen,
+die mit solchen Diensten betraut sind,
+vor;
+sie stehen der Reihe nach geordnet da,
+erheben Augen und Hände zum Himmel,
+die Augen,
+weil sie gelernt haben,
+ihre Aufmerksamkeit auf das zu richten,
+was des Anschauens wert ist,
+die Hände,
+weil sie frei sind vom Vorwurf jedes unreinen Gewinns und sich unter keinem Vorwand je durch irgendeine Art von Vergehen beflecken,
+das aus irgendwelchen Mitteln zur Erlangung von Vorteil entstehen kann\.
+So beten sie zu Gott,
+dass das Gastmahl angenehm,
+willkommen und wohlgefällig sei\.
+Nachdem sie diese Gebete dargebracht haben,
+setzen sich die Älteren zum Mahl,
+wobei sie weiterhin die Ordnung einhalten,
+in der sie zuvor standen;
+denn sie betrachten nicht jene als Ältere,
+die an Jahren fortgeschritten und sehr alt sind,
+vielmehr gelten ihnen solche in manchen Fällen als sehr jung,
+wenn sie sich dieser Gemeinschaft erst seit Kurzem angeschlossen haben\.
+Ältere nennen sie vielmehr diejenigen,
+die von frühester Kindheit an im betrachtenden Teil der Philosophie herangewachsen und zur Reife gelangt sind,
+dem schönsten und göttlichsten Teil von ihr\.
+Auch die Frauen nehmen an diesem Fest teil\.
+Der größere Teil von ihnen ist,
+obwohl alt,
+in Reinheit jungfräulich,
+nicht aus Zwang,
+wie es bei einigen Priesterinnen unter den Griechen der Fall ist,
+die genötigt wurden,
+ihre Keuschheit stärker zu bewahren,
+als sie es von sich aus getan hätten,
+sondern aus Bewunderung für die Weisheit und Liebe zu ihr,
+in der sie ihr Leben zubringen wollen\.
+Deshalb achten sie die Freuden des Körpers gering und verlangen nicht nach sterblicher,
+sondern nach unsterblicher Nachkommenschaft;
+diese kann allein die an Gott gebundene Seele aus sich selbst und durch sich selbst hervorbringen,
+nachdem der Vater in sie Strahlen eines Lichtes gesät hat,
+das nur vom Verstand erfassbar ist,
+durch die sie die Lehren der Weisheit wahrnehmen kann\.
 
-Da nun aber die berühmtesten Gastmähler voll solcher Nichtigkeiten und Dummheit sind und schon in sich selbst Beweiskraft haben, sofern man nicht vager Meinung und dem allgemein überlieferten Ruf folgen will, als seien sie besonders gelungene Feste gewesen, will ich ihnen die Gastmähler jener Menschen gegenüberstellen, die ihr ganzes Leben und sich selbst der Erkenntnis und Betrachtung der Naturdinge gewidmet haben, gemäß den hochheiligen Mahnungen und Vorschriften des Propheten Mose\. Zuerst kommen diese Männer am Ende von sieben Wochen zusammen, denn sie verehren nicht nur die einfache Woche von sieben Tagen, sondern auch ihre vervielfachte Kraft; sie wissen nämlich, dass sie rein und immer jungfräulich ist\. Und sie ist Vorspiel und gleichsam Vorfest des größten Festes, das der Zahl fünfzig zugeordnet ist, der heiligsten und natürlichsten der Zahlen, zusammengesetzt aus der Kraft des rechtwinkligen Dreiecks, das Prinzip der Entstehung und Beschaffenheit des Ganzen ist\. Wenn sie also in weißen Gewändern zusammenkommen, froh und zugleich von höchstem Ernst erfüllt, dann tritt, ehe sie sich zum Mahl niederlassen, einer der Ephemerëuten, so nennen sie nämlich gewöhnlich diejenigen, die mit solchen Diensten betraut sind, vor; sie stehen der Reihe nach geordnet da, erheben Augen und Hände zum Himmel, die Augen, weil sie gelernt haben, ihre Aufmerksamkeit auf das zu richten, was des Anschauens wert ist, die Hände, weil sie frei sind vom Vorwurf jedes unreinen Gewinns und sich unter keinem Vorwand je durch irgendeine Art von Vergehen beflecken, das aus irgendwelchen Mitteln zur Erlangung von Vorteil entstehen kann\. So beten sie zu Gott, dass das Gastmahl angenehm, willkommen und wohlgefällig sei\. Nachdem sie diese Gebete dargebracht haben, setzen sich die Älteren zum Mahl, wobei sie weiterhin die Ordnung einhalten, in der sie zuvor standen; denn sie betrachten nicht jene als Ältere, die an Jahren fortgeschritten und sehr alt sind, vielmehr gelten ihnen solche in manchen Fällen als sehr jung, wenn sie sich dieser Gemeinschaft erst seit Kurzem angeschlossen haben\. Ältere nennen sie vielmehr diejenigen, die von frühester Kindheit an im betrachtenden Teil der Philosophie herangewachsen und zur Reife gelangt sind, dem schönsten und göttlichsten Teil von ihr\. Auch die Frauen nehmen an diesem Fest teil\. Der größere Teil von ihnen ist, obwohl alt, in Reinheit jungfräulich, nicht aus Zwang, wie es bei einigen Priesterinnen unter den Griechen der Fall ist, die genötigt wurden, ihre Keuschheit stärker zu bewahren, als sie es von sich aus getan hätten, sondern aus Bewunderung für die Weisheit und Liebe zu ihr, in der sie ihr Leben zubringen wollen\. Deshalb achten sie die Freuden des Körpers gering und verlangen nicht nach sterblicher, sondern nach unsterblicher Nachkommenschaft; diese kann allein die an Gott gebundene Seele aus sich selbst und durch sich selbst hervorbringen, nachdem der Vater in sie Strahlen eines Lichtes gesät hat, das nur vom Verstand erfassbar ist, durch die sie die Lehren der Weisheit wahrnehmen kann\.
-
-Denn der größte Teil des Buches ist von gewöhnlicher, niedriger und wahlloser Liebe eingenommen; sie nimmt der Seele den Mut, diese nützlichste aller Tugenden im Krieg wie im Frieden, und erzeugt in ihr stattdessen die weibliche Krankheit und macht Männer zu Mannweibern, obwohl sie vielmehr in allen Übungen sorgfältig geschult werden sollten, die Männern Tapferkeit verleihen können\. Und nachdem sie das Knabenalter verdorben, die Knaben verwandelt und sie in Zuordnung und Wesen der Frauen versetzt hat, hat sie auch ihren Liebhabern in den wichtigsten Dingen geschadet: an ihren Körpern, ihren Seelen und ihrem Besitz\. Denn notwendig ist der Sinn eines Knabenliebhabers auf die Gegenstände seiner Zuneigung gespannt und hat für nichts anderes einen scharfen Blick, sondern wird durch sein Begehren für alles übrige, Eigenes wie Gemeinsames, blind und zehrt auf diese Weise dahin, besonders wenn er sein Ziel verfehlt\. Außerdem muss der Besitz des Mannes aus zwei Gründen abnehmen: durch die Vernachlässigung des Eigentümers und durch seine Ausgaben für den Geliebten\. Dazu kommt ein anderes, noch größeres Übel, das das ganze Volk trifft und neben jenem heranwächst\. Denn Männer, die solchen Leidenschaften nachgeben, erzeugen Einsamkeit in den Städten, Mangel an den besten Männern, Unfruchtbarkeit und Ertraglosigkeit, indem sie jene Bauern nachahmen, die sich auf Ackerbau nicht verstehen und statt tiefgründigen ebenen Landes salzige Sümpfe oder steinige und raue Gegenden besäen, die keinerlei Ernte hervorbringen können und nur den Samen verderben, der in sie gelegt wird\. Ich übergehe schweigend die verschiedenen mythischen Erdichtungen und die Erzählungen von Personen mit zwei Körpern, die, nachdem sie ursprünglich durch Liebeskräfte aneinandergeheftet waren, später wie zusammengefügte Teile wieder getrennt werden, weil die Harmonie aufgelöst wurde, durch die sie zusammengehalten waren\. Denn all dies ist sehr anziehend und vermag durch die Neuheit seiner Einbildung die Ohren zu verführen; doch die Schüler des Moses verachten es, die in der Fülle ihrer Weisheit von frühester Kindheit an gelernt haben, die Wahrheit zu lieben, und bis ans Ende ihres Lebens unfähig bleiben, getäuscht zu werden\.
+Denn der größte Teil des Buches ist von gewöhnlicher,
+niedriger und wahlloser Liebe eingenommen;
+sie nimmt der Seele den Mut,
+diese nützlichste aller Tugenden im Krieg wie im Frieden,
+und erzeugt in ihr stattdessen die weibliche Krankheit und macht Männer zu Mannweibern,
+obwohl sie vielmehr in allen Übungen sorgfältig geschult werden sollten,
+die Männern Tapferkeit verleihen können\.
+Und nachdem sie das Knabenalter verdorben,
+die Knaben verwandelt und sie in Zuordnung und Wesen der Frauen versetzt hat,
+hat sie auch ihren Liebhabern in den wichtigsten Dingen geschadet:
+an ihren Körpern,
+ihren Seelen und ihrem Besitz\.
+Denn notwendig ist der Sinn eines Knabenliebhabers auf die Gegenstände seiner Zuneigung gespannt und hat für nichts anderes einen scharfen Blick,
+sondern wird durch sein Begehren für alles übrige,
+Eigenes wie Gemeinsames,
+blind und zehrt auf diese Weise dahin,
+besonders wenn er sein Ziel verfehlt\.
+Außerdem muss der Besitz des Mannes aus zwei Gründen abnehmen:
+durch die Vernachlässigung des Eigentümers und durch seine Ausgaben für den Geliebten\.
+Dazu kommt ein anderes,
+noch größeres Übel,
+das das ganze Volk trifft und neben jenem heranwächst\.
+Denn Männer,
+die solchen Leidenschaften nachgeben,
+erzeugen Einsamkeit in den Städten,
+Mangel an den besten Männern,
+Unfruchtbarkeit und Ertraglosigkeit,
+indem sie jene Bauern nachahmen,
+die sich auf Ackerbau nicht verstehen und statt tiefgründigen ebenen Landes salzige Sümpfe oder steinige und raue Gegenden besäen,
+die keinerlei Ernte hervorbringen können und nur den Samen verderben,
+der in sie gelegt wird\.
+Ich übergehe schweigend die verschiedenen mythischen Erdichtungen und die Erzählungen von Personen mit zwei Körpern,
+die,
+nachdem sie ursprünglich durch Liebeskräfte aneinandergeheftet waren,
+später wie zusammengefügte Teile wieder getrennt werden,
+weil die Harmonie aufgelöst wurde,
+durch die sie zusammengehalten waren\.
+Denn all dies ist sehr anziehend und vermag durch die Neuheit seiner Einbildung die Ohren zu verführen;
+doch die Schüler des Moses verachten es,
+die in der Fülle ihrer Weisheit von frühester Kindheit an gelernt haben,
+die Wahrheit zu lieben,
+und bis ans Ende ihres Lebens unfähig bleiben,
+getäuscht zu werden\.

@@ -7,6 +7,11 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/12-taufunterweisung#kapitel-79111efd-2063-4f8d-a93f-08de0016b13a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b7f1bb63a59f4acc26a048a0fd87a5b1bd35ae9cf8e367af16e489afb6731736`
-
-Lasst uns also Reichtum nicht für etwas Großes halten und Gold nicht für besser als Ton\. Der Wert einer Substanz erwächst nicht aus ihrer Natur, sondern aus der Wertschätzung, die wir ihr beimessen\. Prüfen wir die Sache genau, ist Eisen weit notwendiger als Gold: Gold bringt unserem Leben nichts Nützliches, Eisen hingegen dient unzähligen Handwerken und deckt viele unserer Bedürfnisse\.
+Lasst uns also Reichtum nicht für etwas Großes halten und Gold nicht für besser als Ton\.
+Der Wert einer Substanz erwächst nicht aus ihrer Natur,
+sondern aus der Wertschätzung,
+die wir ihr beimessen\.
+Prüfen wir die Sache genau,
+ist Eisen weit notwendiger als Gold:
+Gold bringt unserem Leben nichts Nützliches,
+Eisen hingegen dient unzähligen Handwerken und deckt viele unserer Bedürfnisse\.

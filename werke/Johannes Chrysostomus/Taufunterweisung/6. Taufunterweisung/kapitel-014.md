@@ -7,9 +7,22 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/6-taufunterweisung#kapitel-a58ccaba-7114-426b-8c05-08dde028ab04).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b54856e5285190955990f3ef38497043068e28b150bfab910b0715006768889f`
-
-Es war nicht ohne Grund, dass ich diese Frage vor eurer liebevollen Versammlung aufbrachte\. Ich tat dies, damit ihr erkennen mögt, wie fest wir sein müssen, wenn wir unser Heil im Auge behalten wollen\. Ich wollte, dass ihr versteht, welche ernste Verdammnis diejenigen verdienen, die weltlichen Vergnügungen, törichten und schädlichen Verbindungen, dem Rennplatz und den tödlichen Spektakeln Satans den Vorzug geben vor unserem Zusammensein an diesem Ort und dieser geistlichen Unterweisung\. Sie verdienen diese Verdammnis, weil sie die Worte des seligen Paulus ignoriert haben, als er sagte: „Seid kein Anstoß für Juden und Griechen und für die Gemeinde Gottes\."[^bible-cad4e9a7-c536-41be-9e2c-b5de29a64b85]
+Es war nicht ohne Grund,
+dass ich diese Frage vor eurer liebevollen Versammlung aufbrachte\.
+Ich tat dies,
+damit ihr erkennen mögt,
+wie fest wir sein müssen,
+wenn wir unser Heil im Auge behalten wollen\.
+Ich wollte,
+dass ihr versteht,
+welche ernste Verdammnis diejenigen verdienen,
+die weltlichen Vergnügungen,
+törichten und schädlichen Verbindungen,
+dem Rennplatz und den tödlichen Spektakeln Satans den Vorzug geben vor unserem Zusammensein an diesem Ort und dieser geistlichen Unterweisung\.
+Sie verdienen diese Verdammnis,
+weil sie die Worte des seligen Paulus ignoriert haben,
+als er sagte:
+„Seid kein Anstoß für Juden und Griechen und für die Gemeinde Gottes\."[^bible-cad4e9a7-c536-41be-9e2c-b5de29a64b85]
 
 ## Bibelverweise
 

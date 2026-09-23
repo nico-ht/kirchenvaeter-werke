@@ -7,6 +7,63 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-5#kapitel-f3657deb-54e1-42e4-2785-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:291924f4147981a15dfbf626cc214dff5b2c2adefb7405146276e7bec42ed9fb`
-
-Auch am dritten Tag rückte Titus gegen den Feind vor und führte das Heer hinaus\. Als er herangekommen war, stieß er vor der Stadt auf die dicht gedrängte Menge der Juden, die den Anschein erweckte, sich den Römern ergeben zu wollen, aber zugleich so tat, als fürchte sie sich\. Da er Verrat vermutete, zumal er erst kürzlich gesehen hatte, wie sie untereinander Ränke schmiedeten und hartnäckig blieben, und es nicht für glaubhaft hielt, dass sie sich plötzlich geändert hätten, mahnte er die Soldaten, man müsse sich vor List hüten und dürfe sich den Mauern nicht unbesonnen in geschlossenen Reihen nähern, außer auf seinen Befehl; sonst könnten jene, die aus der Stadt herausgekommen waren, sie von hinten umzingeln\. Plötzlich erhob sich aus der Stadt ein Lärm, und nach und nach war ein Streit zu hören: Die einen täuschten einen freiwilligen Auszug vor, die anderen leisteten noch Widerstand, denn die Ersten verlangten, man solle ihnen die Tore öffnen, die Letzten befahlen, sie geschlossen zu halten; die einen wollten Frieden, die anderen Krieg\. Die Menge der Soldaten stürmte vor, um denen zu helfen, die von den Mauern her um Unterstützung gebeten hatten\. Sehr viele gingen ohne Ordnung und ohne jeden Plan über den Befehl hinaus, als eilten sie den Kommenden entgegen und brächten ihnen Hilfe, damit durch die nähere Unterstützung einer großen Zahl die Zuversicht zum Ausbruch gegeben werde und den Widerstehenden Furcht, oder damit sich unter den Kämpfenden eine Gelegenheit böte, selbst auszubrechen\. Diejenigen aber, die draußen standhielten, begannen jene von hinten zu umströmen und drängten die Umzingelten zusammen\. Diese flohen zur Mauer, als ahnten sie nichts von denen, die Frieden vortäuschten\. Da wurden Steine und Geschosse hinabgeworfen, und plötzlich verwandelte sich die Vorspiegelung des Friedens in Kampf\. Dadurch aufgestachelt, stürmten sie gegen den Feind\. Obwohl sie versucht hatten, die vordersten römischen Soldaten einzuschließen, fürchteten sie dennoch, nun selbst vom ganzen Heer umzingelt zu werden; und so verloren sie, während sie das ganze Heer fürchteten, beinahe aus den Händen diejenigen, die sie schon gefangen glaubten, obgleich sie viele Wunden zugefügt hatten und selbst größtenteils verwundet waren\. Sie folgten ihnen jedoch bis zum Grab Helenas; dort machten sie, wie es Brauch ist, mit aneinandergeschlagenen Schilden Lärm und verspotteten die Römer, weil sie sie ein zweites Mal durch List umzingelt hatten\.
+Auch am dritten Tag rückte Titus gegen den Feind vor und führte das Heer hinaus\.
+Als er herangekommen war,
+stieß er vor der Stadt auf die dicht gedrängte Menge der Juden,
+die den Anschein erweckte,
+sich den Römern ergeben zu wollen,
+aber zugleich so tat,
+als fürchte sie sich\.
+Da er Verrat vermutete,
+zumal er erst kürzlich gesehen hatte,
+wie sie untereinander Ränke schmiedeten und hartnäckig blieben,
+und es nicht für glaubhaft hielt,
+dass sie sich plötzlich geändert hätten,
+mahnte er die Soldaten,
+man müsse sich vor List hüten und dürfe sich den Mauern nicht unbesonnen in geschlossenen Reihen nähern,
+außer auf seinen Befehl;
+sonst könnten jene,
+die aus der Stadt herausgekommen waren,
+sie von hinten umzingeln\.
+Plötzlich erhob sich aus der Stadt ein Lärm,
+und nach und nach war ein Streit zu hören:
+Die einen täuschten einen freiwilligen Auszug vor,
+die anderen leisteten noch Widerstand,
+denn die Ersten verlangten,
+man solle ihnen die Tore öffnen,
+die Letzten befahlen,
+sie geschlossen zu halten;
+die einen wollten Frieden,
+die anderen Krieg\.
+Die Menge der Soldaten stürmte vor,
+um denen zu helfen,
+die von den Mauern her um Unterstützung gebeten hatten\.
+Sehr viele gingen ohne Ordnung und ohne jeden Plan über den Befehl hinaus,
+als eilten sie den Kommenden entgegen und brächten ihnen Hilfe,
+damit durch die nähere Unterstützung einer großen Zahl die Zuversicht zum Ausbruch gegeben werde und den Widerstehenden Furcht,
+oder damit sich unter den Kämpfenden eine Gelegenheit böte,
+selbst auszubrechen\.
+Diejenigen aber,
+die draußen standhielten,
+begannen jene von hinten zu umströmen und drängten die Umzingelten zusammen\.
+Diese flohen zur Mauer,
+als ahnten sie nichts von denen,
+die Frieden vortäuschten\.
+Da wurden Steine und Geschosse hinabgeworfen,
+und plötzlich verwandelte sich die Vorspiegelung des Friedens in Kampf\.
+Dadurch aufgestachelt,
+stürmten sie gegen den Feind\.
+Obwohl sie versucht hatten,
+die vordersten römischen Soldaten einzuschließen,
+fürchteten sie dennoch,
+nun selbst vom ganzen Heer umzingelt zu werden;
+und so verloren sie,
+während sie das ganze Heer fürchteten,
+beinahe aus den Händen diejenigen,
+die sie schon gefangen glaubten,
+obgleich sie viele Wunden zugefügt hatten und selbst größtenteils verwundet waren\.
+Sie folgten ihnen jedoch bis zum Grab Helenas;
+dort machten sie,
+wie es Brauch ist,
+mit aneinandergeschlagenen Schilden Lärm und verspotteten die Römer,
+weil sie sie ein zweites Mal durch List umzingelt hatten\.

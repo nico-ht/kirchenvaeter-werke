@@ -7,9 +7,67 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-2#kapitel-2b3d6916-b621-4366-9c29-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:80637e3ff8093297214a8e9ebc6eb9c1c0f09e21407064eaf9b9c3b5af2d010f`
-
-Warum sagt Gott: „Du sollst die Arche in Nestern machen“? „Du sollst die Arche in Nestern machen[^bible-d10e1108-b46c-451a-a83d-a7e192d665c7]“\. In unserer Bibel steht „Räume“, nicht „Nester“\. Er gibt diese Anordnung ganz natürlich; denn der menschliche Körper ist aus Höhlungen gebildet, die Nestern gleichen, und jede von ihnen wird genährt und wächst wie ein junger Vogel, indem eine gewisse geistige Kraft, die von ihrem frühesten Ursprung an in ihr vorhanden ist, sie durchdringt\. So sind etwa einige der Höhlungen und Nester die Augen, in denen die Fähigkeit des Sehens ihren Sitz hat; andere Nester sind die Ohren, der Ort, an dem das Hören angesiedelt ist\. Eine dritte Art von Nestern sind die Nasenlöcher, in denen der Geruchssinn wohnt\. Das vierte Nest, größer als die bisher genannten, ist der Mund, der Sitz des Geschmacks; und er ist groß gestaltet, weil außer dem Geschmack noch ein anderes, wichtigeres Werkzeug in ihm ruht, nämlich das der gegliederten Sprache: die Zunge\. Sie bildet und formt, wie Sokrates zu sagen pflegte, ein Wort, indem sie auf verschiedene Weise nach allen Richtungen schlägt und unterschiedliche Stellen berührt; in Wahrheit ist sie ein Werkzeug, das unmittelbar von der Vernunft geleitet wird\. Auch unter dem Schädel ist ein Nest angelegt, und die sogenannte Hirnhaut ist gleichsam ein bestimmtes Nest des Genius eines jeden Menschen\. Ebenso ist auch die Brust ein Nest, in dem Lungen und Herz wohnen, und beide sind Aufnahmeorte weiterer innerer Organe: die Lungen sind der Ort, an dem die Kraft des Atmens wohnt, und das Herz ist die Wohnung sowohl des Blutes als auch des Atems; denn es hat zwei Kammern, die gleichsam eine bestimmte Art von Nestern oder Aufnahmegefäßen in der Brust sind: das Blut, aus dem die Venen, als könnten sie seine Wirkungen wahrnehmen, gespeist werden, und eine Atemöffnung, die sich wiederum über die Wahrnehmungskanäle der Atmung hin erstreckt und sie bewässert\. Und die härteren wie auch die weicheren Teile nähren, wie eigens dazu bereitete Nester, die Knochen, so wie wirkliche Nester junge Vögel nähren; der härtere Teil davon, nämlich das Mark, ist das Nest, und das weichere Fleisch ist das Nest von Lust und Schmerz\. Wenn jemand auch die übrigen Teile untersuchen wollte, würde er finden, dass die Natur des Menschen in jeder Hinsicht im Wesentlichen dieselbe Grundlage hat wie die Arche\.
+Warum sagt Gott:
+„Du sollst die Arche in Nestern machen“?
+„Du sollst die Arche in Nestern machen[^bible-d10e1108-b46c-451a-a83d-a7e192d665c7]“\.
+In unserer Bibel steht „Räume“,
+nicht „Nester“\.
+Er gibt diese Anordnung ganz natürlich;
+denn der menschliche Körper ist aus Höhlungen gebildet,
+die Nestern gleichen,
+und jede von ihnen wird genährt und wächst wie ein junger Vogel,
+indem eine gewisse geistige Kraft,
+die von ihrem frühesten Ursprung an in ihr vorhanden ist,
+sie durchdringt\.
+So sind etwa einige der Höhlungen und Nester die Augen,
+in denen die Fähigkeit des Sehens ihren Sitz hat;
+andere Nester sind die Ohren,
+der Ort,
+an dem das Hören angesiedelt ist\.
+Eine dritte Art von Nestern sind die Nasenlöcher,
+in denen der Geruchssinn wohnt\.
+Das vierte Nest,
+größer als die bisher genannten,
+ist der Mund,
+der Sitz des Geschmacks;
+und er ist groß gestaltet,
+weil außer dem Geschmack noch ein anderes,
+wichtigeres Werkzeug in ihm ruht,
+nämlich das der gegliederten Sprache:
+die Zunge\.
+Sie bildet und formt,
+wie Sokrates zu sagen pflegte,
+ein Wort,
+indem sie auf verschiedene Weise nach allen Richtungen schlägt und unterschiedliche Stellen berührt;
+in Wahrheit ist sie ein Werkzeug,
+das unmittelbar von der Vernunft geleitet wird\.
+Auch unter dem Schädel ist ein Nest angelegt,
+und die sogenannte Hirnhaut ist gleichsam ein bestimmtes Nest des Genius eines jeden Menschen\.
+Ebenso ist auch die Brust ein Nest,
+in dem Lungen und Herz wohnen,
+und beide sind Aufnahmeorte weiterer innerer Organe:
+die Lungen sind der Ort,
+an dem die Kraft des Atmens wohnt,
+und das Herz ist die Wohnung sowohl des Blutes als auch des Atems;
+denn es hat zwei Kammern,
+die gleichsam eine bestimmte Art von Nestern oder Aufnahmegefäßen in der Brust sind:
+das Blut,
+aus dem die Venen,
+als könnten sie seine Wirkungen wahrnehmen,
+gespeist werden,
+und eine Atemöffnung,
+die sich wiederum über die Wahrnehmungskanäle der Atmung hin erstreckt und sie bewässert\.
+Und die härteren wie auch die weicheren Teile nähren,
+wie eigens dazu bereitete Nester,
+die Knochen,
+so wie wirkliche Nester junge Vögel nähren;
+der härtere Teil davon,
+nämlich das Mark,
+ist das Nest,
+und das weichere Fleisch ist das Nest von Lust und Schmerz\.
+Wenn jemand auch die übrigen Teile untersuchen wollte,
+würde er finden,
+dass die Natur des Menschen in jeder Hinsicht im Wesentlichen dieselbe Grundlage hat wie die Arche\.
 
 ## Bibelverweise
 

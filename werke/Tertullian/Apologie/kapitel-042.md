@@ -7,6 +7,85 @@ Autor: Tertullian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/apologie#kapitel-fc968330-c597-4422-09e1-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:329529cc387db8351d9a1efb89966ad0ce627226cb25a3414a408c8b28c2ef8f`
-
-Doch noch unter einem anderen Vorwurf werden wir angeklagt: Wir seien für das Geschäftsleben nutzlos\. Wie sollte das sein? Wir leben doch mit euch zusammen, teilen dieselbe Nahrung und Kleidung, dieselbe Lebensweise und dieselben Bedürfnisse\. Wir sind schließlich keine Brahmanen oder indischen Gymnosophisten, keine Waldbewohner und keine Menschen, die sich aus dem Leben zurückgezogen haben\. Wir wissen, dass wir Gott, unserem Herrn und Schöpfer, Dank schulden\. Nichts von den Früchten seiner Werke weisen wir zurück; wir halten nur Maß, um sie nicht übermäßig oder verkehrt zu gebrauchen\. Darum leben wir in dieser Welt mit euch und nutzen durchaus eure Marktplätze, Fleischmärkte, Bäder, Läden, Werkstätten, Herbergen, Jahrmärkte und den übrigen Handel\. Wir fahren ebenso wie ihr zur See, leisten Militärdienst, treiben Landwirtschaft und Handel\. Auch unsere Künste und unsere Arbeit stellen wir in euren Dienst\. Wie wir für euer Geschäftsleben nutzlos sein sollen, obwohl wir mit euch und von euch leben, weiß ich nicht\. Doch auch wenn ich deine religiösen Bräuche nicht mitmache, bin ich auch an diesem Festtag ein Mensch\. An den Saturnalien bade ich nicht schon im Morgengrauen, damit ich nicht auch noch Nacht und Tag vergeude\. Ich bade aber zu einer angemessenen, gesunden Stunde, die mir Wärme und Blut erhält\. Frieren und bleich werden kann ich nach dem Bad noch, wenn ich tot bin\. An den Liberalien speise ich nicht öffentlich, wie es bei Tierkämpfern üblich ist, die ihr letztes Mahl einnehmen\. Dennoch esse ich irgendwo und von deinen Vorräten\. Ich kaufe keinen Kranz für meinen Kopf\. Was geht es dich an, wie ich die Blumen verwende, die ich trotzdem kaufe? Ich finde, sie erfreuen mehr, wenn sie frei und ungebunden sind und sich überallhin entfalten können\. Doch selbst wenn sie zu einem Kranz gewunden sind, riechen wir mit der Nase daran\. Wer mit den Haaren riecht, mag selbst sehen, was er davon hat\! Zu den Schauspielen kommen wir nicht\. Wenn ich jedoch etwas haben will, was bei diesen Versammlungen verkauft wird, kaufe ich es ungehinderter an den dafür bestimmten Orten\. Weihrauch kaufen wir allerdings nicht\. Wenn Arabien sich darüber beklagt, sollen die Sabäer wissen: Für die Bestattung von Christen werden mehr und kostbarere Waren von ihnen verbraucht als zum Räuchern für die Götter\. Ihr sagt: „Gewiss, die täglichen Einnahmen der Tempel gehen zugrunde\. Wer wirft denn heute noch eine Spende ein?“ Wir können schließlich nicht zugleich den Menschen und euren bettelnden Göttern helfen, und wir meinen, nur denen etwas geben zu sollen, die darum bitten\. Jupiter soll also die Hand ausstrecken und seine Gabe empfangen\! Unterdessen gibt unsere Barmherzigkeit Straße für Straße mehr aus als eure Religion Tempel für Tempel\. Die übrigen Steuereinnahmen aber werden den Christen dankbar sein, denn wir entrichten gewissenhaft, was wir schulden\. Unser Glaube hält uns davon ab, andere zu betrügen\. Würde man daher berechnen, wie viele Steuern durch den Betrug und die falschen Angaben eurer Steuererklärungen verloren gehen, ließe sich leicht feststellen: Die Klage über den Verlust bei einer einzigen Einnahmeart wird durch den Gewinn bei den übrigen Rechnungen ausgeglichen\.
+Doch noch unter einem anderen Vorwurf werden wir angeklagt:
+Wir seien für das Geschäftsleben nutzlos\.
+Wie sollte das sein?
+Wir leben doch mit euch zusammen,
+teilen dieselbe Nahrung und Kleidung,
+dieselbe Lebensweise und dieselben Bedürfnisse\.
+Wir sind schließlich keine Brahmanen oder indischen Gymnosophisten,
+keine Waldbewohner und keine Menschen,
+die sich aus dem Leben zurückgezogen haben\.
+Wir wissen,
+dass wir Gott,
+unserem Herrn und Schöpfer,
+Dank schulden\.
+Nichts von den Früchten seiner Werke weisen wir zurück;
+wir halten nur Maß,
+um sie nicht übermäßig oder verkehrt zu gebrauchen\.
+Darum leben wir in dieser Welt mit euch und nutzen durchaus eure Marktplätze,
+Fleischmärkte,
+Bäder,
+Läden,
+Werkstätten,
+Herbergen,
+Jahrmärkte und den übrigen Handel\.
+Wir fahren ebenso wie ihr zur See,
+leisten Militärdienst,
+treiben Landwirtschaft und Handel\.
+Auch unsere Künste und unsere Arbeit stellen wir in euren Dienst\.
+Wie wir für euer Geschäftsleben nutzlos sein sollen,
+obwohl wir mit euch und von euch leben,
+weiß ich nicht\.
+Doch auch wenn ich deine religiösen Bräuche nicht mitmache,
+bin ich auch an diesem Festtag ein Mensch\.
+An den Saturnalien bade ich nicht schon im Morgengrauen,
+damit ich nicht auch noch Nacht und Tag vergeude\.
+Ich bade aber zu einer angemessenen,
+gesunden Stunde,
+die mir Wärme und Blut erhält\.
+Frieren und bleich werden kann ich nach dem Bad noch,
+wenn ich tot bin\.
+An den Liberalien speise ich nicht öffentlich,
+wie es bei Tierkämpfern üblich ist,
+die ihr letztes Mahl einnehmen\.
+Dennoch esse ich irgendwo und von deinen Vorräten\.
+Ich kaufe keinen Kranz für meinen Kopf\.
+Was geht es dich an,
+wie ich die Blumen verwende,
+die ich trotzdem kaufe?
+Ich finde,
+sie erfreuen mehr,
+wenn sie frei und ungebunden sind und sich überallhin entfalten können\.
+Doch selbst wenn sie zu einem Kranz gewunden sind,
+riechen wir mit der Nase daran\.
+Wer mit den Haaren riecht,
+mag selbst sehen,
+was er davon hat\!
+Zu den Schauspielen kommen wir nicht\.
+Wenn ich jedoch etwas haben will,
+was bei diesen Versammlungen verkauft wird,
+kaufe ich es ungehinderter an den dafür bestimmten Orten\.
+Weihrauch kaufen wir allerdings nicht\.
+Wenn Arabien sich darüber beklagt,
+sollen die Sabäer wissen:
+Für die Bestattung von Christen werden mehr und kostbarere Waren von ihnen verbraucht als zum Räuchern für die Götter\.
+Ihr sagt:
+„Gewiss,
+die täglichen Einnahmen der Tempel gehen zugrunde\.
+Wer wirft denn heute noch eine Spende ein?“
+Wir können schließlich nicht zugleich den Menschen und euren bettelnden Göttern helfen,
+und wir meinen,
+nur denen etwas geben zu sollen,
+die darum bitten\.
+Jupiter soll also die Hand ausstrecken und seine Gabe empfangen\!
+Unterdessen gibt unsere Barmherzigkeit Straße für Straße mehr aus als eure Religion Tempel für Tempel\.
+Die übrigen Steuereinnahmen aber werden den Christen dankbar sein,
+denn wir entrichten gewissenhaft,
+was wir schulden\.
+Unser Glaube hält uns davon ab,
+andere zu betrügen\.
+Würde man daher berechnen,
+wie viele Steuern durch den Betrug und die falschen Angaben eurer Steuererklärungen verloren gehen,
+ließe sich leicht feststellen:
+Die Klage über den Verlust bei einer einzigen Einnahmeart wird durch den Gewinn bei den übrigen Rechnungen ausgeglichen\.

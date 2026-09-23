@@ -7,11 +7,90 @@ Autor: Isidor von Sevilla
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/isidor-von-sevilla/de-ecclesiastics-officiis-buch-2#kapitel-c0f68ce7-942b-465b-1419-08ded5491050).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:36c3c9f8d5ae0ede6e9dfab50f840f6913e8848b96cf5452111d62341acb5a46`
+Der Brauch der kirchlichen Tonsur ist,
+wenn ich nicht irre,
+bei den Nasiräern entstanden\.
+Zuerst ließen sie ihr Haar stehen;
+dann schoren sie sich durch ein Leben großer Enthaltsamkeit in völliger Hingabe das Haupt und erhielten den Auftrag,
+ihr Haar in ein Opferfeuer zu legen,
+damit sie die Vollkommenheit ihrer Hingabe dem Herrn weihten\.
+Die Übernahme ihres Beispiels wurde von den Aposteln eingeführt,
+damit diejenigen,
+die dem göttlichen Gottesdienst hingegeben und gleich den Nasiräern,
+das heißt den Heiligen Gottes,
+dem Herrn geweiht sind,
+durch das Schneiden ihres Haares erneuert würden\.
+Auch dem Propheten Ezechiel wurde vom Herrn befohlen,
+dies zu tun,
+als er sprach:
+„Und du,
+Menschensohn,
+nimm dir ein scharfes Schwert;
+gebrauche es wie ein Schermesser und führe es über dein Haupt und deinen Bart[^bible-64076836-f44c-43a9-945e-8e257f76c21e]\.“
+Dies geschah,
+weil er Gott in der Weise eines Priesters im Dienst der Heiligung hingebungsvoll diente\.
+Wir lesen auch in der Apostelgeschichte,
+dass jene Nasiräer Priscilla und Aquila dies zuerst getan hatten,
+und nach ihnen der Apostel Paulus und diejenigen unter den Jüngern Christi,
+die dadurch hervorragten,
+dass sie dieser religiösen Praxis folgten\.
+Bei den Klerikern jedoch ist die Tonsur ein bestimmtes Zeichen,
+das am Körper sinnbildlich erscheint,
+aber in der Seele vollzogen wird,
+damit durch dieses Zeichen in der Religion die Laster beschnitten werden und wir die Vergehen unseres Fleisches ablegen wie unsere Haare\.
+Dann können die Sinne,
+wie erneuerte wilde Haarlocken,
+aufleuchten,
+nach dem Wort des Apostels:
+„da ihr den alten Menschen mit seinen Handlungen ausgezogen und den neuen Menschen angezogen habt,
+der erneuert wird \.\.\.
+nach dem Bild seines Schöpfers[^bible-1404dc0d-c47e-47a2-80da-37c101a4d5ea]\.“
 
-Der Brauch der kirchlichen Tonsur ist, wenn ich nicht irre, bei den Nasiräern entstanden\. Zuerst ließen sie ihr Haar stehen; dann schoren sie sich durch ein Leben großer Enthaltsamkeit in völliger Hingabe das Haupt und erhielten den Auftrag, ihr Haar in ein Opferfeuer zu legen, damit sie die Vollkommenheit ihrer Hingabe dem Herrn weihten\. Die Übernahme ihres Beispiels wurde von den Aposteln eingeführt, damit diejenigen, die dem göttlichen Gottesdienst hingegeben und gleich den Nasiräern, das heißt den Heiligen Gottes, dem Herrn geweiht sind, durch das Schneiden ihres Haares erneuert würden\. Auch dem Propheten Ezechiel wurde vom Herrn befohlen, dies zu tun, als er sprach: „Und du, Menschensohn, nimm dir ein scharfes Schwert; gebrauche es wie ein Schermesser und führe es über dein Haupt und deinen Bart[^bible-64076836-f44c-43a9-945e-8e257f76c21e]\.“ Dies geschah, weil er Gott in der Weise eines Priesters im Dienst der Heiligung hingebungsvoll diente\. Wir lesen auch in der Apostelgeschichte, dass jene Nasiräer Priscilla und Aquila dies zuerst getan hatten, und nach ihnen der Apostel Paulus und diejenigen unter den Jüngern Christi, die dadurch hervorragten, dass sie dieser religiösen Praxis folgten\. Bei den Klerikern jedoch ist die Tonsur ein bestimmtes Zeichen, das am Körper sinnbildlich erscheint, aber in der Seele vollzogen wird, damit durch dieses Zeichen in der Religion die Laster beschnitten werden und wir die Vergehen unseres Fleisches ablegen wie unsere Haare\. Dann können die Sinne, wie erneuerte wilde Haarlocken, aufleuchten, nach dem Wort des Apostels: „da ihr den alten Menschen mit seinen Handlungen ausgezogen und den neuen Menschen angezogen habt, der erneuert wird \.\.\. nach dem Bild seines Schöpfers[^bible-1404dc0d-c47e-47a2-80da-37c101a4d5ea]\.“
-
-Es ist angemessen, dass diese Erneuerung im Geist vollzogen, aber am Haupt sichtbar gemacht wird, wo jener Geist bekanntlich wohnt\. Da nämlich oben das Haupt geschoren wird, unten aber der Kronenkranz ausgespart bleibt, meine ich, dass auf diese Weise das Priestertum und die Leitung der Kirche sinnbildlich dargestellt werden\. Denn bei den Alten wurde den Priestern eine Tiara auf das Haupt gesetzt\. Diese Tiara, aus feinem Leinen gefertigt, war rund nach Art einer Kugel\. Dies wird am geschorenen Teil des Hauptes bezeichnet; denn die Breite des Kreises ist eine goldene Krone, die die Häupter der Könige umgibt\. Und jedes der beiden Zeichen, Tiara oder Tonsur, wird am Haupt der Kleriker ausgedrückt, damit durch eine gewisse körperliche Ähnlichkeit das vollzogen wird, was der Apostel Petrus nachdrücklich lehrt: „ihr seid ein auserwähltes Geschlecht, ein königliches Priestertum[^bible-2f474784-0ee3-4d53-82c0-2c7449537ce4]“\. Es wird jedoch gefragt, warum das Haar nicht wie bei den alten Nasiräern zuerst lang wachsen gelassen und dann abgeschnitten wird\. Wer dies untersucht, soll aber beachten, was zwischen jenem prophetischen Schleier und dieser Offenbarung des Evangeliums liegt, von der der Apostel sagt: „wenn man sich zum Herrn wendet, wird der Schleier weggenommen[^bible-3fcb8ae4-f426-4940-acb5-921e7806aca0]“\. Denn was jener Schleier bedeutet, der zwischen das Angesicht des Mose und den Blick des Volkes Israel gelegt war, das bedeutet in diesen Zeiten auch das Haar der Heiligen\. Denn auch der Apostel sagt, dass das Haar wie ein Schleier ist\. Darum ist es jetzt nicht angemessen, dass die Häupter derer, die dem Herrn geweiht sind, durch Haar verhüllt werden, sondern vielmehr, dass sie offen sichtbar sind, weil nun im Evangelium kundgemacht ist, was im Zeichen des Propheten verborgen war\. Kommen wir nun zu den heiligsten Ordnungen der Kleriker; wir werden ihren Ursprung einzeln darlegen\.
+Es ist angemessen,
+dass diese Erneuerung im Geist vollzogen,
+aber am Haupt sichtbar gemacht wird,
+wo jener Geist bekanntlich wohnt\.
+Da nämlich oben das Haupt geschoren wird,
+unten aber der Kronenkranz ausgespart bleibt,
+meine ich,
+dass auf diese Weise das Priestertum und die Leitung der Kirche sinnbildlich dargestellt werden\.
+Denn bei den Alten wurde den Priestern eine Tiara auf das Haupt gesetzt\.
+Diese Tiara,
+aus feinem Leinen gefertigt,
+war rund nach Art einer Kugel\.
+Dies wird am geschorenen Teil des Hauptes bezeichnet;
+denn die Breite des Kreises ist eine goldene Krone,
+die die Häupter der Könige umgibt\.
+Und jedes der beiden Zeichen,
+Tiara oder Tonsur,
+wird am Haupt der Kleriker ausgedrückt,
+damit durch eine gewisse körperliche Ähnlichkeit das vollzogen wird,
+was der Apostel Petrus nachdrücklich lehrt:
+„ihr seid ein auserwähltes Geschlecht,
+ein königliches Priestertum[^bible-2f474784-0ee3-4d53-82c0-2c7449537ce4]“\.
+Es wird jedoch gefragt,
+warum das Haar nicht wie bei den alten Nasiräern zuerst lang wachsen gelassen und dann abgeschnitten wird\.
+Wer dies untersucht,
+soll aber beachten,
+was zwischen jenem prophetischen Schleier und dieser Offenbarung des Evangeliums liegt,
+von der der Apostel sagt:
+„wenn man sich zum Herrn wendet,
+wird der Schleier weggenommen[^bible-3fcb8ae4-f426-4940-acb5-921e7806aca0]“\.
+Denn was jener Schleier bedeutet,
+der zwischen das Angesicht des Mose und den Blick des Volkes Israel gelegt war,
+das bedeutet in diesen Zeiten auch das Haar der Heiligen\.
+Denn auch der Apostel sagt,
+dass das Haar wie ein Schleier ist\.
+Darum ist es jetzt nicht angemessen,
+dass die Häupter derer,
+die dem Herrn geweiht sind,
+durch Haar verhüllt werden,
+sondern vielmehr,
+dass sie offen sichtbar sind,
+weil nun im Evangelium kundgemacht ist,
+was im Zeichen des Propheten verborgen war\.
+Kommen wir nun zu den heiligsten Ordnungen der Kleriker;
+wir werden ihren Ursprung einzeln darlegen\.
 
 ## Bibelverweise
 

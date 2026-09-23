@@ -7,6 +7,11 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-6#kapitel-9a1bcafb-867e-456d-2b11-08de1f7dfc7a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:dca45bfca2f060a8374103cc9fed468a6a00352ce6a0c64023d443770c00c5ee`
-
-Es war im zehnten Jahr des genannten römischen Kaisers, als Origenes aus Alexandria floh und nach Cäsarea kam; die Katechetenschule überließ er Heraclas, einem seiner besten Schüler, von dem ich zuvor gesprochen habe\. Nicht lange danach starb auch Bischof Demetrius, nachdem er dreiundvierzig Jahre Bischof jener Kirche gewesen war, und Heraclas trat seine Nachfolge an\.
+Es war im zehnten Jahr des genannten römischen Kaisers,
+als Origenes aus Alexandria floh und nach Cäsarea kam;
+die Katechetenschule überließ er Heraclas,
+einem seiner besten Schüler,
+von dem ich zuvor gesprochen habe\.
+Nicht lange danach starb auch Bischof Demetrius,
+nachdem er dreiundvierzig Jahre Bischof jener Kirche gewesen war,
+und Heraclas trat seine Nachfolge an\.

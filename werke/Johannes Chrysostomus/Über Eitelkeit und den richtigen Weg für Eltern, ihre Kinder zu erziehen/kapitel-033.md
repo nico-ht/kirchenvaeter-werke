@@ -7,6 +7,9 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-eitelkeit-und-den-richtigen-weg-fuer-eltern-ihre-kinder-zu-erziehen#kapitel-55a0daf6-05d5-4113-cfbb-08ddc86f66b7).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f67a90a0f845df138f8b4489d77aa8e214781309f806af802d136b4a261ee87c`
-
-Und denke bitte nicht, dass dies lange dauert\. Wenn du von Anfang an deine Anordnungen und Drohungen fest und entschieden umsetzt und so viele Wächter einsetzt, genügen zwei Monate, und alles ist in guter Ordnung, und die Gewohnheit ist fest verankert wie seine zweite Natur\.
+Und denke bitte nicht,
+dass dies lange dauert\.
+Wenn du von Anfang an deine Anordnungen und Drohungen fest und entschieden umsetzt und so viele Wächter einsetzt,
+genügen zwei Monate,
+und alles ist in guter Ordnung,
+und die Gewohnheit ist fest verankert wie seine zweite Natur\.

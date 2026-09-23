@@ -7,6 +7,53 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-4#kapitel-9332ac16-c1b6-4dd1-2772-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:71af852f7b9d872ced2806c10dc0cc57976571ebf34411f7ba2f4d5ba38d5c07`
-
-Vespasian kehrte in die Stadt Caesarea zurück, um dort alle seine Streitkräfte zu sammeln und von dort aus die Einschließung der Stadt Jerusalem zu beginnen\. Ein Bote traf ein und meldete, Nero sei getötet worden, nachdem das dreizehnte Jahr seiner Herrschaft vollendet war und er vom folgenden Jahr bereits den achten Tag verbracht hatte\. Er verdiente diese Strafe, denn er hatte nicht nur die Treue durch Frevel verletzt, die Kindespflicht durch Muttermord, die Tugend durch Blutschande, sondern auch die Herrschaft des Römischen Reiches selbst, deren Pflichten und Aufgaben er den schlimmsten Freigelassenen anvertraut hatte\. Da er selbst nämlich keinem die Treue hielt, misstraute er allen und glaubte gerade deshalb, dem nichtswürdigen Nymfidius und Gemellinus besonders vertrauen zu können; sie waren von niedriger Herkunft, und er hatte sie zu Knechten gemacht\. Doch selbst sie erschauderten zuweilen vor dem Beispiel seiner Grausamkeit; und weil er die ihm Teuersten getötet hatte, hielten sie es für nötig, sich vor ihm zu hüten, und wollten dem zuvorkommen, was sie fürchteten\. Nachdem sie sich daher mit anderen verschworen hatten, verließen sie den Muttermörder\. Denn wen sollte der wohl verschonen, der seine eigene Mutter nicht verschont hatte? So wurde er von allen den Seinen verlassen und floh mit seinen vier Freigelassenen aus der Stadt\. Als er merkte, dass die unmittelbar drohenden Verschwörer und eine feindselige Menge ihn bedrängten, zog er sich heimlich auf ein Landgut nahe bei Rom zurück, von Dornen zerkratzt und zerrissen, während er fürchtete, von jemandem gesehen und ausgeliefert zu werden\. Als er dann erkannte, dass er umstellt war, bereitete er, damit keine schweren Strafen an ihm vollzogen würden, für sich ein hölzernes Werkzeug, setzte es mit eigenen Händen an, um sich damit zu töten, und wandte sich an seine Freigelassenen mit den Worten: „Welch ein Künstler stirbt\.“ So erlitt der abscheulichste Muttermörder ein Lebensende, das seinen Verdiensten entsprach: Er, der seine Mutter und seine Verwandten getötet hatte, verschonte auch sich selbst nicht\. Wahrhaftig war er ein geschickter Konstrukteur seines eigenen Todes, der es so einrichtete, dass er zugrunde ging und sein Tod frei von Entehrungen blieb\.
+Vespasian kehrte in die Stadt Caesarea zurück,
+um dort alle seine Streitkräfte zu sammeln und von dort aus die Einschließung der Stadt Jerusalem zu beginnen\.
+Ein Bote traf ein und meldete,
+Nero sei getötet worden,
+nachdem das dreizehnte Jahr seiner Herrschaft vollendet war und er vom folgenden Jahr bereits den achten Tag verbracht hatte\.
+Er verdiente diese Strafe,
+denn er hatte nicht nur die Treue durch Frevel verletzt,
+die Kindespflicht durch Muttermord,
+die Tugend durch Blutschande,
+sondern auch die Herrschaft des Römischen Reiches selbst,
+deren Pflichten und Aufgaben er den schlimmsten Freigelassenen anvertraut hatte\.
+Da er selbst nämlich keinem die Treue hielt,
+misstraute er allen und glaubte gerade deshalb,
+dem nichtswürdigen Nymfidius und Gemellinus besonders vertrauen zu können;
+sie waren von niedriger Herkunft,
+und er hatte sie zu Knechten gemacht\.
+Doch selbst sie erschauderten zuweilen vor dem Beispiel seiner Grausamkeit;
+und weil er die ihm Teuersten getötet hatte,
+hielten sie es für nötig,
+sich vor ihm zu hüten,
+und wollten dem zuvorkommen,
+was sie fürchteten\.
+Nachdem sie sich daher mit anderen verschworen hatten,
+verließen sie den Muttermörder\.
+Denn wen sollte der wohl verschonen,
+der seine eigene Mutter nicht verschont hatte?
+So wurde er von allen den Seinen verlassen und floh mit seinen vier Freigelassenen aus der Stadt\.
+Als er merkte,
+dass die unmittelbar drohenden Verschwörer und eine feindselige Menge ihn bedrängten,
+zog er sich heimlich auf ein Landgut nahe bei Rom zurück,
+von Dornen zerkratzt und zerrissen,
+während er fürchtete,
+von jemandem gesehen und ausgeliefert zu werden\.
+Als er dann erkannte,
+dass er umstellt war,
+bereitete er,
+damit keine schweren Strafen an ihm vollzogen würden,
+für sich ein hölzernes Werkzeug,
+setzte es mit eigenen Händen an,
+um sich damit zu töten,
+und wandte sich an seine Freigelassenen mit den Worten:
+„Welch ein Künstler stirbt\.“
+So erlitt der abscheulichste Muttermörder ein Lebensende,
+das seinen Verdiensten entsprach:
+Er,
+der seine Mutter und seine Verwandten getötet hatte,
+verschonte auch sich selbst nicht\.
+Wahrhaftig war er ein geschickter Konstrukteur seines eigenen Todes,
+der es so einrichtete,
+dass er zugrunde ging und sein Tod frei von Entehrungen blieb\.

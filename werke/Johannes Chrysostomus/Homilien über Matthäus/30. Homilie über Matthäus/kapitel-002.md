@@ -7,9 +7,149 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/30-homilie-ueber-matthaeus#kapitel-53f95869-d041-441e-5ac0-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:83072db8c5483d081cc6e940bd6fcebf91c2cf8e80c60909494a825a4f0ae09e`
-
-Nachdem er ihn also gerufen hatte, erwies er ihm auch die größte Ehre: Er teilte sofort den Tisch mit ihm\. Dadurch gab er ihm auch Hoffnung für das Kommende und führte ihn zu größerer Zuversicht\. Denn nicht erst nach langer Zeit, sondern auf einmal heilte er seine Bosheit\. Und er liegt nicht mit ihm allein zu Tisch, sondern auch mit vielen anderen\. Dabei schien auch das als Anklage gegen ihn zu gelten, dass er die Sünder nicht vertrieb\. Doch auch das verschweigen sie nicht: welche Vorwürfe man gegen sein Handeln zu erheben versuchte\. Die Zöllner kommen aber zusammen wie zu einem Berufsgenossen; denn Matthäus sah sich durch den Besuch Christi geehrt und lud sie alle mit ein\. Denn Christus wandte jede Art von Heilung an: nicht nur, indem er sprach, heilte oder die Feinde zurechtwies, sondern auch, indem er Mahl hielt, brachte er viele von denen zurecht, die übel daran waren\. Dadurch lehrte er uns, dass jede Zeit und jedes Tun uns Nutzen bringen kann\. Allerdings stammte das, was damals auf dem Tisch lag, aus Unrecht und Habgier\. Doch Christus lehnte es nicht ab, daran teilzunehmen, weil daraus ein großer Gewinn entstehen sollte\. Vielmehr war er mit denen, die solches Unrecht begangen hatten, unter demselben Dach und an demselben Tisch\. Denn so ist der Arzt: Wenn er die Fäulnis der Kranken nicht erträgt, befreit er sie nicht von ihrer Krankheit\. Allerdings bekam er dadurch einen schlechten Ruf: weil er mit ihm aß, weil er in dessen Haus war und weil er mit vielen Zöllnern zusammen war\. Sieh nur, wie sie ihm gerade das vorwerfen: „Siehe, ein Mensch, ein Fresser und Weinsäufer, ein Freund von Zöllnern und Sündern\.[^bible-39ce57b3-5412-4d5c-bc6c-3fb358102133]“ Hören sollen das alle, die sich eifrig bemühen, sich durch Fasten einen großen Ruf zu verschaffen, und bedenken sollen sie, dass unser Herr Fresser und Weinsäufer genannt wurde und sich nicht schämte, sondern über all dies hinwegsah, um das vor ihm liegende Ziel zu erreichen\. Genau das geschah auch\. Denn auch der Zöllner änderte sich und wurde so besser\. Und damit du erkennst, dass diese Tischgemeinschaft mit ihm Großes bewirkte, höre, was Zachäus sagt, wiederum ein anderer Zöllner\. Als er nämlich Christus sagen hörte: „Heute muss ich in deinem Haus bleiben\.[^bible-267f6fcf-0e7d-4f43-973d-1f13f7800621]“, da wurde er vor Freude gleichsam beflügelt und sagt: „Die Hälfte meines Besitzes gebe ich den Armen, und wenn ich von jemandem etwas erpresst habe, erstatte ich es vierfach\.[^bible-f8c20b49-2255-4041-9e95-4eb5a1417ad5]“ Und Jesus sagt zu ihm: „Heute ist diesem Haus Heil widerfahren\.[^bible-8e6d3052-5f2b-4d57-96df-cf50061c0c31]“ So kann man durch alles erziehen\. Und wie, sagt man, befiehlt Paulus: „Wenn jemand, der Bruder genannt wird, ein Unzüchtiger oder Habgieriger ist, mit einem solchen nicht einmal zusammen zu essen\.[^bible-c720bf5a-f10d-437a-bc6f-111a99db3b2b]“ Zunächst ist noch gar nicht klar, ob er dies auch den Lehrern rät und nicht nur den Brüdern\. Dann gehörten diese Menschen hier noch nicht zu den Vollendeten und waren auch noch nicht Brüder geworden\. Außerdem befiehlt Paulus, auch solche, die Brüder geworden sind, erst dann zu meiden, wenn sie darin verharren; diese aber hatten bereits aufgehört und sich geändert\. Doch nichts davon beschämte die Pharisäer\. Sie klagen vielmehr die Jünger an und sagen: „Warum isst euer Lehrer mit Zöllnern und Sündern?[^bible-a5572232-3161-4138-9f15-4b55efacc88e]“ Wenn dagegen die Jünger selbst in ihren Augen sündigen, treten sie an ihn heran und sagen: „Siehe, deine Jünger tun, was man am Sabbat nicht tun darf\.[^bible-595b8be8-2df6-433d-a946-97976819b161]“ Hier aber verleumden sie ihn bei ihnen\. All das tat man in böser Absicht und aus dem Wunsch heraus, die Schar der Jünger vom Lehrer loszureißen\. Was tut nun die unendliche Weisheit? Er sagt: „Nicht die Starken brauchen einen Arzt, sondern die Kranken\.[^bible-a43813e2-5718-4913-9a2f-33950ad49598]“ Sieh, wie er ihre Rede ins Gegenteil wendet\. Denn sie machten ihm zum Vorwurf, dass er mit solchen Menschen Umgang hatte; er aber sagt im Gegenteil, dass es seiner und seiner Menschenliebe unwürdig wäre, keinen Umgang mit ihnen zu haben\. Solche Menschen zurechtzubringen ist nicht nur frei von jeder Anklage, sondern vorzüglich, notwendig und tausendfachen Lobes wert\. Damit es aber nicht so aussieht, als beschäme er die Gerufenen, wenn er sagt: „die Kranken“, sieh, wie er dies sogleich wieder auffängt, indem er jene zurechtweist und sagt: „Geht aber hin und lernt, was das heißt: Barmherzigkeit will ich und nicht Opfer\.[^bible-5a391064-bcd7-4a36-8535-ba5fdb8feeda]“ Das sagte er, um ihnen ihre Unkenntnis der Schriften vorzuhalten\. Darum gebraucht er auch eine schärfere Rede, nicht weil er selbst zornig wäre, das sei fern, sondern damit jene nicht völlig in Verlegenheit geraten\. Dabei hätte er sagen können: „Habt ihr nicht bedacht, wie ich die Sünden des Gelähmten gelöst habe? Wie ich seinen Leib gefestigt habe?“ Doch davon sagt er nichts\. Vielmehr spricht er zuerst von den allgemein einsichtigen Gedanken her mit ihnen und dann von den Schriften her\. Denn nachdem er gesagt hatte: „Nicht die Starken brauchen einen Arzt, sondern die Kranken\.[^bible-a43813e2-5718-4913-9a2f-33950ad49598]“ und damit unauffällig gezeigt hatte, dass er selbst der Arzt ist, sagte er dann: „Geht hin und lernt, was das heißt: Barmherzigkeit will ich und nicht Opfer\.[^bible-5a391064-bcd7-4a36-8535-ba5fdb8feeda]“ So macht es auch Paulus\. Zuerst baut er seine Argumentation aus allgemeinen Beispielen auf und sagt: „Wer weidet eine Herde und isst nicht von ihrer Milch?[^bible-e97e925a-2670-4e9e-b9f3-26ecabbd2cd1]“ Dann führt er auch die Schriften an und sagt: „Denn im Gesetz des Mose steht geschrieben: Du sollst einem Ochsen, der drischt, nicht das Maul verbinden\.[^bible-02accdc0-9eb7-456c-8967-03f26fcfcbe8]“ Und wiederum: „So hat der Herr denen, die das Evangelium verkünden, angeordnet, vom Evangelium zu leben\.[^bible-fad44f9a-c1bd-4405-9bb1-d92cb6019a2e]“ Zu den Jüngern aber spricht er nicht so, sondern erinnert sie an die Zeichen und sagt: „Erinnert ihr euch noch nicht an die fünf Brote der Fünftausend und wie viele Körbe ihr aufgehoben habt?[^bible-3bde797b-7add-4516-b7ac-8566787eb852]“
+Nachdem er ihn also gerufen hatte,
+erwies er ihm auch die größte Ehre:
+Er teilte sofort den Tisch mit ihm\.
+Dadurch gab er ihm auch Hoffnung für das Kommende und führte ihn zu größerer Zuversicht\.
+Denn nicht erst nach langer Zeit,
+sondern auf einmal heilte er seine Bosheit\.
+Und er liegt nicht mit ihm allein zu Tisch,
+sondern auch mit vielen anderen\.
+Dabei schien auch das als Anklage gegen ihn zu gelten,
+dass er die Sünder nicht vertrieb\.
+Doch auch das verschweigen sie nicht:
+welche Vorwürfe man gegen sein Handeln zu erheben versuchte\.
+Die Zöllner kommen aber zusammen wie zu einem Berufsgenossen;
+denn Matthäus sah sich durch den Besuch Christi geehrt und lud sie alle mit ein\.
+Denn Christus wandte jede Art von Heilung an:
+nicht nur,
+indem er sprach,
+heilte oder die Feinde zurechtwies,
+sondern auch,
+indem er Mahl hielt,
+brachte er viele von denen zurecht,
+die übel daran waren\.
+Dadurch lehrte er uns,
+dass jede Zeit und jedes Tun uns Nutzen bringen kann\.
+Allerdings stammte das,
+was damals auf dem Tisch lag,
+aus Unrecht und Habgier\.
+Doch Christus lehnte es nicht ab,
+daran teilzunehmen,
+weil daraus ein großer Gewinn entstehen sollte\.
+Vielmehr war er mit denen,
+die solches Unrecht begangen hatten,
+unter demselben Dach und an demselben Tisch\.
+Denn so ist der Arzt:
+Wenn er die Fäulnis der Kranken nicht erträgt,
+befreit er sie nicht von ihrer Krankheit\.
+Allerdings bekam er dadurch einen schlechten Ruf:
+weil er mit ihm aß,
+weil er in dessen Haus war und weil er mit vielen Zöllnern zusammen war\.
+Sieh nur,
+wie sie ihm gerade das vorwerfen:
+„Siehe,
+ein Mensch,
+ein Fresser und Weinsäufer,
+ein Freund von Zöllnern und Sündern\.[^bible-39ce57b3-5412-4d5c-bc6c-3fb358102133]“ Hören sollen das alle,
+die sich eifrig bemühen,
+sich durch Fasten einen großen Ruf zu verschaffen,
+und bedenken sollen sie,
+dass unser Herr Fresser und Weinsäufer genannt wurde und sich nicht schämte,
+sondern über all dies hinwegsah,
+um das vor ihm liegende Ziel zu erreichen\.
+Genau das geschah auch\.
+Denn auch der Zöllner änderte sich und wurde so besser\.
+Und damit du erkennst,
+dass diese Tischgemeinschaft mit ihm Großes bewirkte,
+höre,
+was Zachäus sagt,
+wiederum ein anderer Zöllner\.
+Als er nämlich Christus sagen hörte:
+„Heute muss ich in deinem Haus bleiben\.[^bible-267f6fcf-0e7d-4f43-973d-1f13f7800621]“,
+da wurde er vor Freude gleichsam beflügelt und sagt:
+„Die Hälfte meines Besitzes gebe ich den Armen,
+und wenn ich von jemandem etwas erpresst habe,
+erstatte ich es vierfach\.[^bible-f8c20b49-2255-4041-9e95-4eb5a1417ad5]“ Und Jesus sagt zu ihm:
+„Heute ist diesem Haus Heil widerfahren\.[^bible-8e6d3052-5f2b-4d57-96df-cf50061c0c31]“ So kann man durch alles erziehen\.
+Und wie,
+sagt man,
+befiehlt Paulus:
+„Wenn jemand,
+der Bruder genannt wird,
+ein Unzüchtiger oder Habgieriger ist,
+mit einem solchen nicht einmal zusammen zu essen\.[^bible-c720bf5a-f10d-437a-bc6f-111a99db3b2b]“ Zunächst ist noch gar nicht klar,
+ob er dies auch den Lehrern rät und nicht nur den Brüdern\.
+Dann gehörten diese Menschen hier noch nicht zu den Vollendeten und waren auch noch nicht Brüder geworden\.
+Außerdem befiehlt Paulus,
+auch solche,
+die Brüder geworden sind,
+erst dann zu meiden,
+wenn sie darin verharren;
+diese aber hatten bereits aufgehört und sich geändert\.
+Doch nichts davon beschämte die Pharisäer\.
+Sie klagen vielmehr die Jünger an und sagen:
+„Warum isst euer Lehrer mit Zöllnern und Sündern?[^bible-a5572232-3161-4138-9f15-4b55efacc88e]“ Wenn dagegen die Jünger selbst in ihren Augen sündigen,
+treten sie an ihn heran und sagen:
+„Siehe,
+deine Jünger tun,
+was man am Sabbat nicht tun darf\.[^bible-595b8be8-2df6-433d-a946-97976819b161]“ Hier aber verleumden sie ihn bei ihnen\.
+All das tat man in böser Absicht und aus dem Wunsch heraus,
+die Schar der Jünger vom Lehrer loszureißen\.
+Was tut nun die unendliche Weisheit?
+Er sagt:
+„Nicht die Starken brauchen einen Arzt,
+sondern die Kranken\.[^bible-a43813e2-5718-4913-9a2f-33950ad49598]“ Sieh,
+wie er ihre Rede ins Gegenteil wendet\.
+Denn sie machten ihm zum Vorwurf,
+dass er mit solchen Menschen Umgang hatte;
+er aber sagt im Gegenteil,
+dass es seiner und seiner Menschenliebe unwürdig wäre,
+keinen Umgang mit ihnen zu haben\.
+Solche Menschen zurechtzubringen ist nicht nur frei von jeder Anklage,
+sondern vorzüglich,
+notwendig und tausendfachen Lobes wert\.
+Damit es aber nicht so aussieht,
+als beschäme er die Gerufenen,
+wenn er sagt:
+„die Kranken“,
+sieh,
+wie er dies sogleich wieder auffängt,
+indem er jene zurechtweist und sagt:
+„Geht aber hin und lernt,
+was das heißt:
+Barmherzigkeit will ich und nicht Opfer\.[^bible-5a391064-bcd7-4a36-8535-ba5fdb8feeda]“ Das sagte er,
+um ihnen ihre Unkenntnis der Schriften vorzuhalten\.
+Darum gebraucht er auch eine schärfere Rede,
+nicht weil er selbst zornig wäre,
+das sei fern,
+sondern damit jene nicht völlig in Verlegenheit geraten\.
+Dabei hätte er sagen können:
+„Habt ihr nicht bedacht,
+wie ich die Sünden des Gelähmten gelöst habe?
+Wie ich seinen Leib gefestigt habe?“
+Doch davon sagt er nichts\.
+Vielmehr spricht er zuerst von den allgemein einsichtigen Gedanken her mit ihnen und dann von den Schriften her\.
+Denn nachdem er gesagt hatte:
+„Nicht die Starken brauchen einen Arzt,
+sondern die Kranken\.[^bible-a43813e2-5718-4913-9a2f-33950ad49598]“ und damit unauffällig gezeigt hatte,
+dass er selbst der Arzt ist,
+sagte er dann:
+„Geht hin und lernt,
+was das heißt:
+Barmherzigkeit will ich und nicht Opfer\.[^bible-5a391064-bcd7-4a36-8535-ba5fdb8feeda]“ So macht es auch Paulus\.
+Zuerst baut er seine Argumentation aus allgemeinen Beispielen auf und sagt:
+„Wer weidet eine Herde und isst nicht von ihrer Milch?[^bible-e97e925a-2670-4e9e-b9f3-26ecabbd2cd1]“ Dann führt er auch die Schriften an und sagt:
+„Denn im Gesetz des Mose steht geschrieben:
+Du sollst einem Ochsen,
+der drischt,
+nicht das Maul verbinden\.[^bible-02accdc0-9eb7-456c-8967-03f26fcfcbe8]“ Und wiederum:
+„So hat der Herr denen,
+die das Evangelium verkünden,
+angeordnet,
+vom Evangelium zu leben\.[^bible-fad44f9a-c1bd-4405-9bb1-d92cb6019a2e]“ Zu den Jüngern aber spricht er nicht so,
+sondern erinnert sie an die Zeichen und sagt:
+„Erinnert ihr euch noch nicht an die fünf Brote der Fünftausend und wie viele Körbe ihr aufgehoben habt?[^bible-3bde797b-7add-4516-b7ac-8566787eb852]“
 
 ## Bibelverweise
 

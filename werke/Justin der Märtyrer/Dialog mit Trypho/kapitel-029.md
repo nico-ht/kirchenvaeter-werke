@@ -7,6 +7,42 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-e621e9e4-880e-4eb9-1c63-08de1269efdb).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:8ea9ff21a33efdfcfef68893ebde239f91907d16f2b1e29f65d1e8df7b6bf533`
-
-Lasst uns mit den Heiden zusammenkommen und Gott verherrlichen, denn er hat in seiner Herablassung auch auf uns geschaut\. Lasst uns ihn verherrlichen durch den König der Herrlichkeit und den Herrn der Heerscharen\. Denn er hat auch uns Heiden seine Güte erwiesen, und er nimmt unsere Opfer lieber an als eure\. Wenn ich von Gott anerkannt bin, wozu brauche ich die Beschneidung? Wenn ich bereits mit der Gnade des Heiligen Geistes getauft bin, wofür brauche ich eure Waschung? Ich bin sicher, dass ich mit diesen Worten selbst die weniger Verständigen überzeugen kann\. Denn die Worte, die ich gebrauche, sind nicht meine und nicht mit menschlicher Rhetorik ausgeschmückt; es sind die Worte, wie David sie gesungen, wie Jesaja sie als gute Nachricht verkündet, wie Sacharja sie ausgerufen und wie Mose sie niedergeschrieben hat\. Kennst du sie nicht, Trypho? Du solltest sie kennen, denn sie stehen in euren Schriften – oder besser: nicht euren, sondern unseren\. Denn wir glauben ihnen und halten sie ein, während ihr sie zwar lest, aber ihren Geist nicht erfasst\. Werdet darum nicht zornig über uns und macht uns nicht den Vorwurf, dass wir am Körper unbeschnitten sind; Gott hat uns ja so geschaffen\. Und haltet es nicht für verwerflich, wenn wir am Sabbat heißes Wasser trinken; denn Gott stellt an diesem Tag die Lenkung des Kosmos nicht ein, sondern er regiert ihn dann ebenso wie an allen anderen Tagen\. Außerdem hat Gott euren Hohepriestern geboten, am Sabbat ebenso wie an den übrigen Tagen Opfer darzubringen\. Und es gibt so viele Gerechte, die von Gott selbst anerkannt sind, und doch haben sie nie irgendeinen eurer gesetzlichen Riten vollzogen\.
+Lasst uns mit den Heiden zusammenkommen und Gott verherrlichen,
+denn er hat in seiner Herablassung auch auf uns geschaut\.
+Lasst uns ihn verherrlichen durch den König der Herrlichkeit und den Herrn der Heerscharen\.
+Denn er hat auch uns Heiden seine Güte erwiesen,
+und er nimmt unsere Opfer lieber an als eure\.
+Wenn ich von Gott anerkannt bin,
+wozu brauche ich die Beschneidung?
+Wenn ich bereits mit der Gnade des Heiligen Geistes getauft bin,
+wofür brauche ich eure Waschung?
+Ich bin sicher,
+dass ich mit diesen Worten selbst die weniger Verständigen überzeugen kann\.
+Denn die Worte,
+die ich gebrauche,
+sind nicht meine und nicht mit menschlicher Rhetorik ausgeschmückt;
+es sind die Worte,
+wie David sie gesungen,
+wie Jesaja sie als gute Nachricht verkündet,
+wie Sacharja sie ausgerufen und wie Mose sie niedergeschrieben hat\.
+Kennst du sie nicht,
+Trypho?
+Du solltest sie kennen,
+denn sie stehen in euren Schriften – oder besser:
+nicht euren,
+sondern unseren\.
+Denn wir glauben ihnen und halten sie ein,
+während ihr sie zwar lest,
+aber ihren Geist nicht erfasst\.
+Werdet darum nicht zornig über uns und macht uns nicht den Vorwurf,
+dass wir am Körper unbeschnitten sind;
+Gott hat uns ja so geschaffen\.
+Und haltet es nicht für verwerflich,
+wenn wir am Sabbat heißes Wasser trinken;
+denn Gott stellt an diesem Tag die Lenkung des Kosmos nicht ein,
+sondern er regiert ihn dann ebenso wie an allen anderen Tagen\.
+Außerdem hat Gott euren Hohepriestern geboten,
+am Sabbat ebenso wie an den übrigen Tagen Opfer darzubringen\.
+Und es gibt so viele Gerechte,
+die von Gott selbst anerkannt sind,
+und doch haben sie nie irgendeinen eurer gesetzlichen Riten vollzogen\.

@@ -7,6 +7,29 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-4#kapitel-98686a5b-a641-4fb8-8a36-08de0a72e412).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ecc2832988bb4379c022b7572dd45f8924aac7dd76a32fa2f8191fb0405d29af`
-
-Es sind drei Bücher der Unterweisung erhalten, die Theophilus, wie wir früher sagten, Bischof von Antiochien, an Autolykus schrieb\. Ein weiteres seiner Bücher richtet sich gegen die Häresie des Hermogenes; darin zieht er auch Belegstellen aus der Offenbarung des Johannes heran\. Außerdem sind kürzere Schriften von ihm erhalten, die verschiedene Unterweisungen enthalten\. Damals nämlich verdarben die Häretiker überall das reine Saatgut des Wortes Gottes wie mit Unkraut und verunreinigten die Saatbeete der apostolischen Lehre mit falschen Beimischungen; die Priester Gottes mühten sich daher überall, ihr böses Saatgut wie wachsame Bauern auszureißen und wegzuräumen und wie besorgte Hirten die Wölfe, die die Herden Christi umlauerten, mit lauten Rufen zu verfolgen und zu verjagen; sie ermahnten und unterwiesen die Brüder und schrieben sogar an die Fernen, und trafen sie die Irrlehrer einmal irgendwo an, setzten sie ihnen scharf zu und brachten sie in Disputationen, Argumenten und Streitgesprächen zu Fall\. Andere wiederum dachten an spätere Generationen und widerlegten ihre Spekulationen und verkehrten Einwände in veröffentlichten Traktaten\. Zu ihnen gehörte Theophilus, von dem wir sprechen; was wir gelesen haben, zeigt ihn als ausgezeichneten Kämpfer in der Auseinandersetzung gegen die Häretiker, namentlich gegen Marcion\. In das priesterliche Amt der Kirche von Antiochien trat an seine Stelle Maximus, der siebte seit den Aposteln\.
+Es sind drei Bücher der Unterweisung erhalten,
+die Theophilus,
+wie wir früher sagten,
+Bischof von Antiochien,
+an Autolykus schrieb\.
+Ein weiteres seiner Bücher richtet sich gegen die Häresie des Hermogenes;
+darin zieht er auch Belegstellen aus der Offenbarung des Johannes heran\.
+Außerdem sind kürzere Schriften von ihm erhalten,
+die verschiedene Unterweisungen enthalten\.
+Damals nämlich verdarben die Häretiker überall das reine Saatgut des Wortes Gottes wie mit Unkraut und verunreinigten die Saatbeete der apostolischen Lehre mit falschen Beimischungen;
+die Priester Gottes mühten sich daher überall,
+ihr böses Saatgut wie wachsame Bauern auszureißen und wegzuräumen und wie besorgte Hirten die Wölfe,
+die die Herden Christi umlauerten,
+mit lauten Rufen zu verfolgen und zu verjagen;
+sie ermahnten und unterwiesen die Brüder und schrieben sogar an die Fernen,
+und trafen sie die Irrlehrer einmal irgendwo an,
+setzten sie ihnen scharf zu und brachten sie in Disputationen,
+Argumenten und Streitgesprächen zu Fall\.
+Andere wiederum dachten an spätere Generationen und widerlegten ihre Spekulationen und verkehrten Einwände in veröffentlichten Traktaten\.
+Zu ihnen gehörte Theophilus,
+von dem wir sprechen;
+was wir gelesen haben,
+zeigt ihn als ausgezeichneten Kämpfer in der Auseinandersetzung gegen die Häretiker,
+namentlich gegen Marcion\.
+In das priesterliche Amt der Kirche von Antiochien trat an seine Stelle Maximus,
+der siebte seit den Aposteln\.

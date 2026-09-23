@@ -7,6 +7,11 @@ Autor: Eusebius
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/eusebius/psalm-2#kapitel-bdfc630d-bc76-47e9-915c-08dd7a8241c1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:fc3db4fcc7257bdba4bc38bdf09ada80929986dae6ed2854dcbb02d688f2e4af`
-
-Diapsalma\. Das Diapsalma kommt in der Septuaginta vor, jedoch nicht bei Theodotion und Symmachus, obwohl sie es gewohnt waren, denselben Text ähnlich wie die Septuaginta häufig zu verwenden\. Es ist daher wahrscheinlich, dass trotz einer Änderung der Person der musikalische Rhythmus erhalten blieb, und aus diesem Grund haben Theodotion und Symmachus das Diapsalma nicht verwendet\.
+Diapsalma\.
+Das Diapsalma kommt in der Septuaginta vor,
+jedoch nicht bei Theodotion und Symmachus,
+obwohl sie es gewohnt waren,
+denselben Text ähnlich wie die Septuaginta häufig zu verwenden\.
+Es ist daher wahrscheinlich,
+dass trotz einer Änderung der Person der musikalische Rhythmus erhalten blieb,
+und aus diesem Grund haben Theodotion und Symmachus das Diapsalma nicht verwendet\.

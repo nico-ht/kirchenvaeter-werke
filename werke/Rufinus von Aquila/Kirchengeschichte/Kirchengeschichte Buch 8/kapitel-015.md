@@ -7,6 +7,47 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-8#kapitel-9762e452-7687-4a23-7cf7-08de2b8bd82a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:27720c0eb28832d13d7be605c1c835ed0c6053520b91ac52c2b1d9e1a57f6f7d`
-
-Als aber der Kaiser Maximian im Osten zehn Jahre lang ununterbrochen mit gleicher Grausamkeit gegen die Christen gewütet und zahllose Tausende Anbeter des wahren Gottes abgeschlachtet hatte und als seine Trunkenheit seiner Grausamkeit und Lust unnachgiebige Stärke verliehen hatte, die weder Klugheit noch Sättigung aufhielt oder hemmte, da kam die göttliche Vorsehung ihren Anbetern zu Hilfe und brachte jenen Erleichterung, die sie im Feuer geprüft hatte\. Denn die göttliche Vergeltung stürzte sich auf den Urheber des Verbrechens selbst\. Er, der mit seinem feisten, vollgestopften Fleisch umherstolziert war, schwoll plötzlich auf, seine Eingeweide aufgedunsen und eiternd\. Ein Geschwür, das dann tiefer in seiner Brust entstand, verzehrte von innen heraus das gesamte Innere seiner Gedärme, während sich die Fäulnis ausbreitete\. Danach, als sich durch eiternde Geschwüre einige Gänge zur Oberfläche geöffnet hatten, begann eine zahllose Menge von Würmern in Wellen aus den Adern im Inneren des verfaulten Geschwürs herauszuschwärmen\. Der Gestank war so unerträglich, dass sich niemand nähern konnte, nicht einmal die Ärzte, da sein feistes Fleisch, von jeder Delikatesse genährt, einen schweren Geruch von Verwesung und Fäulnis ausdünstete\. Er befahl dann, die meisten Ärzte hinzurichten, da sie kein Heilmittel für die Krankheit bieten noch ihren Gestank ertragen konnten\. Einer von ihnen, der dort war, um getötet zu werden, statt zu heilen, wurde von Gott inspiriert zu sagen: „Warum, Majestät, begeht Ihr den Fehler zu denken, dass Menschen rückgängig machen können, was Gott zufügt? Diese Krankheit ist nicht menschlich, noch kann sie von Ärzten geheilt werden\. Aber erinnert Euch, wie viel Ihr gegen Gottes Diener getan habt und wie gottlos und profan Ihr Euch gegenüber der göttlichen Religion verhalten habt, und Ihr werdet erkennen, woher Ihr Heilung suchen müsst\. Denn ich kann mit den Übrigen sterben, Ihr aber werdet nicht durch Ärzte geheilt werden\.“
+Als aber der Kaiser Maximian im Osten zehn Jahre lang ununterbrochen mit gleicher Grausamkeit gegen die Christen gewütet und zahllose Tausende Anbeter des wahren Gottes abgeschlachtet hatte und als seine Trunkenheit seiner Grausamkeit und Lust unnachgiebige Stärke verliehen hatte,
+die weder Klugheit noch Sättigung aufhielt oder hemmte,
+da kam die göttliche Vorsehung ihren Anbetern zu Hilfe und brachte jenen Erleichterung,
+die sie im Feuer geprüft hatte\.
+Denn die göttliche Vergeltung stürzte sich auf den Urheber des Verbrechens selbst\.
+Er,
+der mit seinem feisten,
+vollgestopften Fleisch umherstolziert war,
+schwoll plötzlich auf,
+seine Eingeweide aufgedunsen und eiternd\.
+Ein Geschwür,
+das dann tiefer in seiner Brust entstand,
+verzehrte von innen heraus das gesamte Innere seiner Gedärme,
+während sich die Fäulnis ausbreitete\.
+Danach,
+als sich durch eiternde Geschwüre einige Gänge zur Oberfläche geöffnet hatten,
+begann eine zahllose Menge von Würmern in Wellen aus den Adern im Inneren des verfaulten Geschwürs herauszuschwärmen\.
+Der Gestank war so unerträglich,
+dass sich niemand nähern konnte,
+nicht einmal die Ärzte,
+da sein feistes Fleisch,
+von jeder Delikatesse genährt,
+einen schweren Geruch von Verwesung und Fäulnis ausdünstete\.
+Er befahl dann,
+die meisten Ärzte hinzurichten,
+da sie kein Heilmittel für die Krankheit bieten noch ihren Gestank ertragen konnten\.
+Einer von ihnen,
+der dort war,
+um getötet zu werden,
+statt zu heilen,
+wurde von Gott inspiriert zu sagen:
+„Warum,
+Majestät,
+begeht Ihr den Fehler zu denken,
+dass Menschen rückgängig machen können,
+was Gott zufügt?
+Diese Krankheit ist nicht menschlich,
+noch kann sie von Ärzten geheilt werden\.
+Aber erinnert Euch,
+wie viel Ihr gegen Gottes Diener getan habt und wie gottlos und profan Ihr Euch gegenüber der göttlichen Religion verhalten habt,
+und Ihr werdet erkennen,
+woher Ihr Heilung suchen müsst\.
+Denn ich kann mit den Übrigen sterben,
+Ihr aber werdet nicht durch Ärzte geheilt werden\.“

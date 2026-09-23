@@ -7,10 +7,87 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-c12c243d-295e-4495-2f6b-08de09a6435b).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3a41f688f5f1af334cb03a488b315f057635149ae8c7d5350e99d75ce3c89dec`
+„Ich will dir sagen“,
+erwiderte ich,
+„wie ich persönlich darüber denke\.
+Die Philosophie ist tatsächlich der größte Besitz des Menschen und vor Gott das Kostbarste;
+nur sie führt uns zu ihm und vereint uns mit ihm,
+und wahr ist,
+dass die,
+die sich der Philosophie hingeben,
+heilige Menschen sind\.
+Aber viele haben das Wesen der Philosophie und den Grund verfehlt,
+warum sie den Menschen gegeben wurde;
+sonst gäbe es keine Platoniker,
+keine Stoiker,
+keine Peripatetiker,
+keine Theoretiker und keine Pythagoreer,
+denn diese Wissenschaft ist immer dieselbe\.
+Nun will ich dir sagen,
+warum sie schließlich so zersplittert wurde\.
+Auf die,
+die zuerst zur Philosophie griffen und deshalb als hervorragende Männer galten,
+folgten andere,
+die sich keine Zeit für die Erforschung der Wahrheit nahmen\.
+Beeindruckt vom Mut und der Selbstbeherrschung ihrer Lehrer und von der Neuheit ihrer Lehren,
+hielten sie für die Wahrheit,
+was jeder von seinem eigenen Lehrer gelernt hatte\.
+Das gaben sie wiederum ihren Nachfolgern weiter,
+und ähnliche Meinungen dazu,
+und so wurden sie nach dem benannt,
+den man für den Vater der Lehre hielt\.
+Als ich zum ersten Mal mit einem dieser Philosophen in Verbindung treten wollte,
+stellte ich mich unter die Anleitung eines gewissen Stoikers\.
 
-„Ich will dir sagen“, erwiderte ich, „wie ich persönlich darüber denke\. Die Philosophie ist tatsächlich der größte Besitz des Menschen und vor Gott das Kostbarste; nur sie führt uns zu ihm und vereint uns mit ihm, und wahr ist, dass die, die sich der Philosophie hingeben, heilige Menschen sind\. Aber viele haben das Wesen der Philosophie und den Grund verfehlt, warum sie den Menschen gegeben wurde; sonst gäbe es keine Platoniker, keine Stoiker, keine Peripatetiker, keine Theoretiker und keine Pythagoreer, denn diese Wissenschaft ist immer dieselbe\. Nun will ich dir sagen, warum sie schließlich so zersplittert wurde\. Auf die, die zuerst zur Philosophie griffen und deshalb als hervorragende Männer galten, folgten andere, die sich keine Zeit für die Erforschung der Wahrheit nahmen\. Beeindruckt vom Mut und der Selbstbeherrschung ihrer Lehrer und von der Neuheit ihrer Lehren, hielten sie für die Wahrheit, was jeder von seinem eigenen Lehrer gelernt hatte\. Das gaben sie wiederum ihren Nachfolgern weiter, und ähnliche Meinungen dazu, und so wurden sie nach dem benannt, den man für den Vater der Lehre hielt\. Als ich zum ersten Mal mit einem dieser Philosophen in Verbindung treten wollte, stellte ich mich unter die Anleitung eines gewissen Stoikers\.
+Nachdem ich einige Zeit bei ihm verbracht und nichts Neues über Gott gelernt hatte – denn mein Lehrer hatte keine Erkenntnis von Gott und hielt eine solche auch nicht für nötig –,
+verließ ich ihn und wandte mich einem Peripatetiker zu,
+der sich für einen scharfsinnigen Lehrer hielt\.
+Nach wenigen Tagen verlangte er,
+wir sollten die Frage meines Schulgeldes so regeln,
+dass unsere Verbindung für ihn nicht unprofitabel sei\.
+Daraufhin verließ ich ihn,
+weil ich ihn nicht für einen wirklichen Philosophen hielt\.
+Da mein Geist noch immer danach verlangte,
+den eigentlichen,
+hervorragenden Sinn der Philosophie zu hören,
+wandte ich mich einem sehr berühmten Pythagoreer zu,
+der großen Stolz auf seine eigene Weisheit hatte\.
+Als ich ihm sagte,
+ich wolle sein Schüler werden,
+fragte er mich:
+‚Wie bitte?
+Kennst du Musik,
+Astronomie und Geometrie?
+Wie willst du irgendetwas von dem begreifen,
+was zum Glück beiträgt,
+wenn du nicht zuerst mit jenen Studien vertraut bist,
+die deinen Geist von den Gegenständen der Sinne abziehen und ihn für das Geistige tauglich machen,
+damit er das Gute und das Schöne betrachten kann?‘“
 
-Nachdem ich einige Zeit bei ihm verbracht und nichts Neues über Gott gelernt hatte – denn mein Lehrer hatte keine Erkenntnis von Gott und hielt eine solche auch nicht für nötig –, verließ ich ihn und wandte mich einem Peripatetiker zu, der sich für einen scharfsinnigen Lehrer hielt\. Nach wenigen Tagen verlangte er, wir sollten die Frage meines Schulgeldes so regeln, dass unsere Verbindung für ihn nicht unprofitabel sei\. Daraufhin verließ ich ihn, weil ich ihn nicht für einen wirklichen Philosophen hielt\. Da mein Geist noch immer danach verlangte, den eigentlichen, hervorragenden Sinn der Philosophie zu hören, wandte ich mich einem sehr berühmten Pythagoreer zu, der großen Stolz auf seine eigene Weisheit hatte\. Als ich ihm sagte, ich wolle sein Schüler werden, fragte er mich: ‚Wie bitte? Kennst du Musik, Astronomie und Geometrie? Wie willst du irgendetwas von dem begreifen, was zum Glück beiträgt, wenn du nicht zuerst mit jenen Studien vertraut bist, die deinen Geist von den Gegenständen der Sinne abziehen und ihn für das Geistige tauglich machen, damit er das Gute und das Schöne betrachten kann?‘“
-
-Er fuhr sehr lange fort, diese Wissenschaften zu preisen und ihre Notwendigkeit zu betonen, bis ich zugab, dass ich davon nichts verstand; da schickte er mich fort\. Wie zu erwarten war, war ich niedergeschlagen, weil meine Hoffnungen zerplatzten, zumal ich ihn als einen Mann von beträchtlichem Wissen schätzte\. Doch als ich darüber nachdachte, wie viel Zeit ich für diese Fächer aufwenden müsste, konnte ich mich nicht entschließen, so lange zu warten\. Mit meinem Latein am Ende kam ich darauf, mich an die Platoniker zu wenden, deren Ruf groß war\. So ergab es sich, dass ich so viel Zeit wie möglich mit einem weisen Mann verbrachte, der bei den Platonikern hohes Ansehen genoss und erst vor kurzem in unsere Stadt gekommen war\. Unter seiner Anleitung machte ich in der Philosophie Fortschritte und wurde Tag für Tag besser\. Die Wahrnehmung unkörperlicher Dinge überwältigte mich, und die platonische Ideenlehre verlieh meinem Geist Flügel, sodass ich mich in kurzer Zeit für einen Weisen hielt\. So groß war meine Dummheit, dass ich fest erwartete, Gott sogleich zu schauen; denn dies ist das Ziel der platonischen Philosophie\.
+Er fuhr sehr lange fort,
+diese Wissenschaften zu preisen und ihre Notwendigkeit zu betonen,
+bis ich zugab,
+dass ich davon nichts verstand;
+da schickte er mich fort\.
+Wie zu erwarten war,
+war ich niedergeschlagen,
+weil meine Hoffnungen zerplatzten,
+zumal ich ihn als einen Mann von beträchtlichem Wissen schätzte\.
+Doch als ich darüber nachdachte,
+wie viel Zeit ich für diese Fächer aufwenden müsste,
+konnte ich mich nicht entschließen,
+so lange zu warten\.
+Mit meinem Latein am Ende kam ich darauf,
+mich an die Platoniker zu wenden,
+deren Ruf groß war\.
+So ergab es sich,
+dass ich so viel Zeit wie möglich mit einem weisen Mann verbrachte,
+der bei den Platonikern hohes Ansehen genoss und erst vor kurzem in unsere Stadt gekommen war\.
+Unter seiner Anleitung machte ich in der Philosophie Fortschritte und wurde Tag für Tag besser\.
+Die Wahrnehmung unkörperlicher Dinge überwältigte mich,
+und die platonische Ideenlehre verlieh meinem Geist Flügel,
+sodass ich mich in kurzer Zeit für einen Weisen hielt\.
+So groß war meine Dummheit,
+dass ich fest erwartete,
+Gott sogleich zu schauen;
+denn dies ist das Ziel der platonischen Philosophie\.

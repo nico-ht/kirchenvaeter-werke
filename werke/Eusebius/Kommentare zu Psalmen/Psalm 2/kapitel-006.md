@@ -7,6 +7,15 @@ Autor: Eusebius
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/eusebius/psalm-2#kapitel-33233702-9829-4cb2-915e-08dd7a8241c1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b5fab9b0271cb5f36f209428ecbbf3ec3ba3968ff903aaa08831dc933926996a`
-
-„Dann wird er zu ihnen sprechen in seinem Zorn und in seiner Wut wird er sie erschüttern\.“ Aber alle Widersacher des rettenden Wortes werden tatsächlich den Zorn Gottes in der Zeit des Gerichts erfahren, und sie werden von seiner Wut erschüttert werden\. Denn derjenige, der von ihnen gekreuzigt und dem Tod übergeben wurde, wird, während er im Himmel wohnt und alles enthält, über sie lachen, und sein Vater, der zusammen mit Christus kämpft, wird sie verspotten und das Urteil vollstrecken, das ihnen zusteht\.
+„Dann wird er zu ihnen sprechen in seinem Zorn und in seiner Wut wird er sie erschüttern\.“
+Aber alle Widersacher des rettenden Wortes werden tatsächlich den Zorn Gottes in der Zeit des Gerichts erfahren,
+und sie werden von seiner Wut erschüttert werden\.
+Denn derjenige,
+der von ihnen gekreuzigt und dem Tod übergeben wurde,
+wird,
+während er im Himmel wohnt und alles enthält,
+über sie lachen,
+und sein Vater,
+der zusammen mit Christus kämpft,
+wird sie verspotten und das Urteil vollstrecken,
+das ihnen zusteht\.

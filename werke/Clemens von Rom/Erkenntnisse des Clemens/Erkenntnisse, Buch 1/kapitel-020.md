@@ -7,6 +7,68 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-1#kapitel-1f4da641-b83a-41bc-f1ad-08de3ca443c2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5adc11df83981331f7d998137b0f914c90a6aaee64d15a2a82ca44196ff3f53e`
-
-Am nächsten Morgen kam Zachäus in aller Frühe zu uns herein, grüßte und sagte zu Petrus: „Simon verschiebt den Tag des Kampfes auf den Elften dieses Monats, also in sieben Tagen\. Er behauptet nämlich, dann mehr freie Zeit für die Auseinandersetzung zu haben\. Aber mir scheint seine Vertagung auch für uns notwendig zu sein, damit mehr Leute zusammenkommen, die als Zuhörer oder Richter unseres Streitgesprächs fungieren\. Dennoch, wenn es dir sinnvoll erscheint: Lass uns während dieser Wartezeit die Dinge, die unserer Meinung nach streitig werden könnten, erst einmal unter uns ausdiskutieren, damit jeder von uns – sobald er erkannt hat, was vorzubringen und was zu entgegnen ist – bei sich selbst durchgeht, ob diese Argumente stichhaltig sind, oder ob der Gegner irgendetwas finden könnte, das er dagegen einwendet oder womit er unsere Einwände zerschlägt\. Wenn aber von allen Seiten klar geworden ist, dass unsere Aussagen fest abgesichert sind, dann erst soll man voller Selbstbewusstsein den Anfang der Untersuchung wagen\! Und meine Meinung ist jedenfalls diese: Vor allem muss gefragt werden, was das Allererste ist oder was unmittelbar ist, wovon gelehrt werden muss, dass es auch die Ursache von allem ist, was existiert; dann, ob alles, was existiert, gemacht wurde – und von wem, durch wen oder weswegen; ob sie ihre Substanz von einem, von zweien oder von vielen empfangen haben; und ob sie aus nichts Bestehendem oder aus etwas Vorhandenem genommen und geordnet wurden; ferner, ob es irgendeine Kraft in den höchsten Höhen oder in der Tiefe gibt; ob es etwas gibt, das besser ist als alles, oder unter allem steht; ob es Bewegungen gibt oder keine; ob das, was wir sehen, immer war und immer sein wird; ob es entstanden ist, ohne dass jemand wirkte, und zerfallen wird, ohne dass jemand es auflöst\. Wenn, sage ich, das Streitgespräch damit seinen Anfang nimmt, denke ich, dass die Fragen, die wir sorgfältig prüfen und diskutieren, leicht klar werden\. Sobald das aber geklärt ist, wird die Erkenntnis der Dinge, die daraus folgen, offen zutage liegen\. Ich habe vorgetragen, was ich denke; zögere nicht, auch mir zu zeigen, was dir richtig scheint\.“
+Am nächsten Morgen kam Zachäus in aller Frühe zu uns herein,
+grüßte und sagte zu Petrus:
+„Simon verschiebt den Tag des Kampfes auf den Elften dieses Monats,
+also in sieben Tagen\.
+Er behauptet nämlich,
+dann mehr freie Zeit für die Auseinandersetzung zu haben\.
+Aber mir scheint seine Vertagung auch für uns notwendig zu sein,
+damit mehr Leute zusammenkommen,
+die als Zuhörer oder Richter unseres Streitgesprächs fungieren\.
+Dennoch,
+wenn es dir sinnvoll erscheint:
+Lass uns während dieser Wartezeit die Dinge,
+die unserer Meinung nach streitig werden könnten,
+erst einmal unter uns ausdiskutieren,
+damit jeder von uns – sobald er erkannt hat,
+was vorzubringen und was zu entgegnen ist – bei sich selbst durchgeht,
+ob diese Argumente stichhaltig sind,
+oder ob der Gegner irgendetwas finden könnte,
+das er dagegen einwendet oder womit er unsere Einwände zerschlägt\.
+Wenn aber von allen Seiten klar geworden ist,
+dass unsere Aussagen fest abgesichert sind,
+dann erst soll man voller Selbstbewusstsein den Anfang der Untersuchung wagen\!
+Und meine Meinung ist jedenfalls diese:
+Vor allem muss gefragt werden,
+was das Allererste ist oder was unmittelbar ist,
+wovon gelehrt werden muss,
+dass es auch die Ursache von allem ist,
+was existiert;
+dann,
+ob alles,
+was existiert,
+gemacht wurde – und von wem,
+durch wen oder weswegen;
+ob sie ihre Substanz von einem,
+von zweien oder von vielen empfangen haben;
+und ob sie aus nichts Bestehendem oder aus etwas Vorhandenem genommen und geordnet wurden;
+ferner,
+ob es irgendeine Kraft in den höchsten Höhen oder in der Tiefe gibt;
+ob es etwas gibt,
+das besser ist als alles,
+oder unter allem steht;
+ob es Bewegungen gibt oder keine;
+ob das,
+was wir sehen,
+immer war und immer sein wird;
+ob es entstanden ist,
+ohne dass jemand wirkte,
+und zerfallen wird,
+ohne dass jemand es auflöst\.
+Wenn,
+sage ich,
+das Streitgespräch damit seinen Anfang nimmt,
+denke ich,
+dass die Fragen,
+die wir sorgfältig prüfen und diskutieren,
+leicht klar werden\.
+Sobald das aber geklärt ist,
+wird die Erkenntnis der Dinge,
+die daraus folgen,
+offen zutage liegen\.
+Ich habe vorgetragen,
+was ich denke;
+zögere nicht,
+auch mir zu zeigen,
+was dir richtig scheint\.“

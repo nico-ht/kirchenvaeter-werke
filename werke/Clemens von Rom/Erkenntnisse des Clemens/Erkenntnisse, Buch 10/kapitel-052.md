@@ -7,6 +7,36 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-10#kapitel-c56cc8cc-371d-447a-7554-08dd36600a1f).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0a64a8b2a7b21d42aaad3a8eb84a82b9dcf7656487931952ecdb161b38997f09`
-
-Als er dies gesagt hatte und noch mehr in ähnlichem Sinne, heilte er einige der Anwesenden, die krank und von Dämonen besessen waren, und entließ die Menge, während sie Gott dankten und lobten\. Er forderte sie auf, auch an den folgenden Tagen an denselben Ort zu kommen, um zu hören\. Als wir dann zu Hause zusammen waren und uns zum Essen vorbereiteten, kam jemand herein und berichtete uns, dass Appion Pleistonices mit Anubion kürzlich aus Antiochien gekommen sind und bei Simon hausten\. Mein Vater freute sich, als er dies hörte, und sagte zu Petrus: „Wenn du es mir erlaubst, möchte ich Appion und Anubion begrüßen, denn sie sind große Freunde von mir; vielleicht kann ich Anubion überzeugen, mit Clemens über das Thema Genesis zu diskutieren\.“ Daraufhin sagte Petrus: „Ich stimme zu und lobe dich, weil du deine Freunde wertschätzt\. Aber bedenke, wie dir alles gemäß deinem Wunsch durch die Vorsehung Gottes widerfährt; denn siehe, nicht nur sind dir die Objekte der richtigen Zuneigung durch den Willen Gottes zurückgegeben worden, sondern auch die Anwesenheit deiner Freunde ist für dich arrangiert\.“ Mein Vater erwiderte: „Wahrlich, ich halte es für so, wie du sagst\.“ Und nachdem er dies gesagt hatte, ging er zu Anubion\.
+Als er dies gesagt hatte und noch mehr in ähnlichem Sinne,
+heilte er einige der Anwesenden,
+die krank und von Dämonen besessen waren,
+und entließ die Menge,
+während sie Gott dankten und lobten\.
+Er forderte sie auf,
+auch an den folgenden Tagen an denselben Ort zu kommen,
+um zu hören\.
+Als wir dann zu Hause zusammen waren und uns zum Essen vorbereiteten,
+kam jemand herein und berichtete uns,
+dass Appion Pleistonices mit Anubion kürzlich aus Antiochien gekommen sind und bei Simon hausten\.
+Mein Vater freute sich,
+als er dies hörte,
+und sagte zu Petrus:
+„Wenn du es mir erlaubst,
+möchte ich Appion und Anubion begrüßen,
+denn sie sind große Freunde von mir;
+vielleicht kann ich Anubion überzeugen,
+mit Clemens über das Thema Genesis zu diskutieren\.“
+Daraufhin sagte Petrus:
+„Ich stimme zu und lobe dich,
+weil du deine Freunde wertschätzt\.
+Aber bedenke,
+wie dir alles gemäß deinem Wunsch durch die Vorsehung Gottes widerfährt;
+denn siehe,
+nicht nur sind dir die Objekte der richtigen Zuneigung durch den Willen Gottes zurückgegeben worden,
+sondern auch die Anwesenheit deiner Freunde ist für dich arrangiert\.“
+Mein Vater erwiderte:
+„Wahrlich,
+ich halte es für so,
+wie du sagst\.“
+Und nachdem er dies gesagt hatte,
+ging er zu Anubion\.

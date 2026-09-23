@@ -7,15 +7,216 @@ Autor: Apostolische Werke
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-werke/didascalia-apostolorum#kapitel-c6936476-af83-442f-bf3e-08dec0ed9724).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3a4b493a5075295119b9f11570ac34b747064c382a95aaae1138ee06f1b403a4`
+Wenn du nun lehrst,
+gebiete und ermahne das Volk,
+beständig in der Kirche zusammenzukommen und nicht fernzubleiben,
+sondern sich immer zu versammeln,
+damit niemand die Kirche durch sein Fernbleiben mindert und den Leib Christi[^bible-68ac3c5f-e311-452a-b9a2-655e1fc3bc34] um ein Glied verkürzt\.
+Denn ein Mensch soll nicht nur an andere denken,
+sondern auch an sich selbst,
+indem er auf das hört,
+was unser Herr gesagt hat:
+„Wer nicht mit mir sammelt,
+zerstreut[^bible-0c2932ad-1b24-49b1-aab1-4ba92bea0670]\.“
+Da ihr also Glieder Christi[^bible-bf7d2d07-885f-4c73-b762-04de58e106f2] seid,
+trennt euch nicht durch Fernbleiben von der Kirche\.
+Da ihr Christus als euer Haupt habt,
+wie er verheißen hat,
+‚ihr habt Gemeinschaft mit uns[^bible-15962d9b-a7a7-460f-b30a-ef2cca5f1604]‘,
+seid also nicht nachlässig gegen euch selbst,
+beraubt unseren Retter nicht seiner Glieder und zerreißt und zerstreut seinen Leib nicht\.
+Stellt eure weltlichen Geschäfte nicht höher als das Wort Gottes,
+sondern lasst am Tag des Herrn alles zurück und eilt eifrig zu eurer Kirche;
+denn sie ist eure Ehre\.
+Welche Entschuldigung haben sonst diejenigen vor Gott,
+die am Tag des Herrn nicht zusammenkommen,
+um das Wort des Lebens[^bible-dab7a6c7-f7fa-4221-9763-1d8bf1f5e7d5] zu hören und mit der göttlichen Speise,
+die für immer bleibt[^bible-1dcb1e9b-95f4-446c-9e83-e8d0bfd10655],
+genährt zu werden?
 
-Wenn du nun lehrst, gebiete und ermahne das Volk, beständig in der Kirche zusammenzukommen und nicht fernzubleiben, sondern sich immer zu versammeln, damit niemand die Kirche durch sein Fernbleiben mindert und den Leib Christi[^bible-68ac3c5f-e311-452a-b9a2-655e1fc3bc34] um ein Glied verkürzt\. Denn ein Mensch soll nicht nur an andere denken, sondern auch an sich selbst, indem er auf das hört, was unser Herr gesagt hat: „Wer nicht mit mir sammelt, zerstreut[^bible-0c2932ad-1b24-49b1-aab1-4ba92bea0670]\.“ Da ihr also Glieder Christi[^bible-bf7d2d07-885f-4c73-b762-04de58e106f2] seid, trennt euch nicht durch Fernbleiben von der Kirche\. Da ihr Christus als euer Haupt habt, wie er verheißen hat, ‚ihr habt Gemeinschaft mit uns[^bible-15962d9b-a7a7-460f-b30a-ef2cca5f1604]‘, seid also nicht nachlässig gegen euch selbst, beraubt unseren Retter nicht seiner Glieder und zerreißt und zerstreut seinen Leib nicht\. Stellt eure weltlichen Geschäfte nicht höher als das Wort Gottes, sondern lasst am Tag des Herrn alles zurück und eilt eifrig zu eurer Kirche; denn sie ist eure Ehre\. Welche Entschuldigung haben sonst diejenigen vor Gott, die am Tag des Herrn nicht zusammenkommen, um das Wort des Lebens[^bible-dab7a6c7-f7fa-4221-9763-1d8bf1f5e7d5] zu hören und mit der göttlichen Speise, die für immer bleibt[^bible-1dcb1e9b-95f4-446c-9e83-e8d0bfd10655], genährt zu werden?
+Denn ihr seid eifrig darauf bedacht,
+zeitliche Dinge zu erlangen,
+die nur für einen Tag und eine Stunde bestehen;
+die ewigen Dinge aber vernachlässigt ihr\.
+Ihr sorgt euch um Bäder,
+darum,
+mit Speise und Trank für den Bauch versorgt zu werden,
+und um anderes;
+um die ewigen Dinge aber kümmert ihr euch nicht,
+sondern vernachlässigt eure Seele und habt keinen Eifer für die Kirche,
+um das Wort Gottes zu hören und zu empfangen\.
+Welche Entschuldigung bleibt euch im Vergleich zu denen,
+die irren?
+Denn die Heiden gehen,
+wenn sie täglich vom Schlaf aufstehen,
+am Morgen hin,
+um ihre Götzen anzubeten und ihnen zu dienen;
+und vor all ihren Werken und Unternehmungen gehen sie zuerst hin und beten ihre Götzen an\.
+Auch bei ihren Festen und Märkten fehlen sie nicht,
+sondern kommen beständig zusammen:
+nicht nur die aus dem Bezirk,
+sondern sogar die,
+die von weit her kommen;
+und alle versammeln sich ebenso und kommen zum Schauspiel ihres Theaters\.
+Ebenso bleiben auch jene,
+die vergeblich Juden genannt werden,
+nach sechs Tagen einen Tag untätig und versammeln sich in ihrer Synagoge;
+niemals entziehen sie sich ihr oder vernachlässigen ihre Synagoge,
+noch missachten sie ihre Tage der Untätigkeit,
+sogar sie,
+die wegen ihres Unglaubens der Kraft des Wortes und selbst des Namens,
+mit dem sie sich Juden nennen,
+beraubt sind\.
+Denn „Jude[^bible-f1815a86-1ced-41aa-8daf-15e5eb6c49a9]“ wird als „Bekenntnis“ gedeutet;
+diese aber sind keine Bekenner,
+da sie das Leiden Christi nicht bekennen,
+das sie durch Übertretung des Gesetzes verursacht haben,
+damit sie umkehren und gerettet werden\.
+Wenn also jene,
+die nicht gerettet sind,
+allezeit Sorge auf Dinge verwenden,
+in denen kein Nutzen liegt und die ihnen nichts helfen,
+welche Entschuldigung hat dann vor dem Herrn Gott der,
+der sich der Versammlung der Kirche entzieht und nicht einmal die Heiden nachahmt,
+sondern wegen seines Fernbleibens gleichgültig und sorglos wird,
+abseits steht und Böses tut?
+Zu ihm sprach der Herr durch Jeremia:
+„Meine Gesetze habt ihr nicht gehalten[^bible-8a6a58e3-befb-4873-bc61-15cc05fdb2aa];
+aber auch nach den Gesetzen der Heiden habt ihr nicht gewandelt[^bible-8a6a58e3-befb-4873-bc61-15cc05fdb2aa];
+und ihr habt sie im Bösestun beinahe übertroffen[^bible-e234bb17-e4de-4e8c-be1c-a35235ab4107]“;
+und:
+„Tauschen die Heiden ihre Götter,
+die doch keine Götter sind?
+Mein Volk aber hat seine Ehre eingetauscht gegen das,
+was keinen Nutzen bringt[^bible-f1815a86-1ced-41aa-8daf-15e5eb6c49a9]\.“
+Wie soll sich also der entschuldigen können,
+der gleichgültig ist und keinen Eifer für die Versammlung der Kirche hat?
+Wenn aber jemand weltliche Geschäfte zum Anlass nimmt,
+sich zu entziehen,
+so soll er dies wissen:
+Die Gewerbe der Gläubigen werden nachrangige Werke genannt;
+denn ihr wahres Werk ist die Religion\.
+Betreibt daher eure Gewerbe als ein nachrangiges Werk,
+zu eurem Unterhalt;
+euer wahres Werk aber sei die Religion\.
 
-Denn ihr seid eifrig darauf bedacht, zeitliche Dinge zu erlangen, die nur für einen Tag und eine Stunde bestehen; die ewigen Dinge aber vernachlässigt ihr\. Ihr sorgt euch um Bäder, darum, mit Speise und Trank für den Bauch versorgt zu werden, und um anderes; um die ewigen Dinge aber kümmert ihr euch nicht, sondern vernachlässigt eure Seele und habt keinen Eifer für die Kirche, um das Wort Gottes zu hören und zu empfangen\. Welche Entschuldigung bleibt euch im Vergleich zu denen, die irren? Denn die Heiden gehen, wenn sie täglich vom Schlaf aufstehen, am Morgen hin, um ihre Götzen anzubeten und ihnen zu dienen; und vor all ihren Werken und Unternehmungen gehen sie zuerst hin und beten ihre Götzen an\. Auch bei ihren Festen und Märkten fehlen sie nicht, sondern kommen beständig zusammen: nicht nur die aus dem Bezirk, sondern sogar die, die von weit her kommen; und alle versammeln sich ebenso und kommen zum Schauspiel ihres Theaters\. Ebenso bleiben auch jene, die vergeblich Juden genannt werden, nach sechs Tagen einen Tag untätig und versammeln sich in ihrer Synagoge; niemals entziehen sie sich ihr oder vernachlässigen ihre Synagoge, noch missachten sie ihre Tage der Untätigkeit, sogar sie, die wegen ihres Unglaubens der Kraft des Wortes und selbst des Namens, mit dem sie sich Juden nennen, beraubt sind\. Denn „Jude[^bible-f1815a86-1ced-41aa-8daf-15e5eb6c49a9]“ wird als „Bekenntnis“ gedeutet; diese aber sind keine Bekenner, da sie das Leiden Christi nicht bekennen, das sie durch Übertretung des Gesetzes verursacht haben, damit sie umkehren und gerettet werden\. Wenn also jene, die nicht gerettet sind, allezeit Sorge auf Dinge verwenden, in denen kein Nutzen liegt und die ihnen nichts helfen, welche Entschuldigung hat dann vor dem Herrn Gott der, der sich der Versammlung der Kirche entzieht und nicht einmal die Heiden nachahmt, sondern wegen seines Fernbleibens gleichgültig und sorglos wird, abseits steht und Böses tut? Zu ihm sprach der Herr durch Jeremia: „Meine Gesetze habt ihr nicht gehalten[^bible-8a6a58e3-befb-4873-bc61-15cc05fdb2aa]; aber auch nach den Gesetzen der Heiden habt ihr nicht gewandelt[^bible-8a6a58e3-befb-4873-bc61-15cc05fdb2aa]; und ihr habt sie im Bösestun beinahe übertroffen[^bible-e234bb17-e4de-4e8c-be1c-a35235ab4107]“; und: „Tauschen die Heiden ihre Götter, die doch keine Götter sind? Mein Volk aber hat seine Ehre eingetauscht gegen das, was keinen Nutzen bringt[^bible-f1815a86-1ced-41aa-8daf-15e5eb6c49a9]\.“ Wie soll sich also der entschuldigen können, der gleichgültig ist und keinen Eifer für die Versammlung der Kirche hat? Wenn aber jemand weltliche Geschäfte zum Anlass nimmt, sich zu entziehen, so soll er dies wissen: Die Gewerbe der Gläubigen werden nachrangige Werke genannt; denn ihr wahres Werk ist die Religion\. Betreibt daher eure Gewerbe als ein nachrangiges Werk, zu eurem Unterhalt; euer wahres Werk aber sei die Religion\.
+Seht daher zu,
+dass ihr euch niemals von der Versammlung der Kirche zurückzieht\.
+Wenn aber jemand die Versammlung der Kirche Gottes verlässt und zur Versammlung der Heiden geht,
+was wird er sagen,
+und welche Entschuldigung kann er vor Gott am Tag des Gerichts vorbringen?
+Denn er hat die heilige Kirche verlassen und die Worte des lebendigen Gottes,
+die lebendig und lebenspendend sind,
+die erlösen,
+vom Feuer befreien und lebendig retten können,
+und ist zur Versammlung der Heiden gegangen,
+weil ihn das Theaterspektakel gelüstet hat\.
+Darum wird er zu denen gezählt werden,
+die dorthin gehen,
+weil er begehrt hat,
+ihre Fabeln zu hören und aufzunehmen;
+sie stammen von Toten und aus dem Geist Satans,
+denn sie sind tot und tödlich,
+wenden vom Glauben ab und führen ins ewige Feuer\.
+Nein,
+vielmehr gilt eure Sorge den Dingen der Welt;
+ihr achtet auf die Angelegenheiten dieses Lebens und verschmäht es,
+euch zur katholischen Kirche zu begeben,
+der geliebten Tochter des Herrn,
+Gottes des Höchsten,
+damit ihr die Lehre Gottes empfangt,
+die in Ewigkeit bleibt und die retten kann,
+welche das Wort des Lebens aufnehmen\.
+Seid daher beständig darin,
+mit den Gläubigen zusammenzukommen,
+die in eurer Mutter,
+der Kirche,
+gerettet werden,
+der lebendigen und lebenspendenden\.
+Und hütet euch davor,
+euch mit denen zu versammeln,
+die im Theater zugrunde gehen,
+das die Versammlung der Heiden ist,
+des Irrtums und des Verderbens\.
+Denn wer in eine Versammlung der Heiden eintritt,
+wird zu ihnen gezählt werden und das Wehe empfangen\.
+Denn zu solchen sprach der Herr Gott durch Jesaja:
+„Wehe,
+wehe denen,
+die vom Schauspiel kommen\.[^bible-bcdc8700-04aa-46df-921a-8c6e116d356c]“ Und wiederum sagt er:
+„Ihr Frauen,
+die ihr vom Schauspiel kommt,
+kommt;
+denn es ist ein Volk ohne Einsicht[^bible-bcdc8700-04aa-46df-921a-8c6e116d356c]\.“
+‚Frauen‘ nannte er also die Kirchen,
+die er rief und erlöste,
+aus dem Schauspiel des Theaters herausführte,
+nahm und annahm;
+und dadurch lehrte er uns,
+von nun an nicht mehr dorthin zu gehen\.
+Denn er spricht bei Jeremia:
+„Ihr sollt nicht nach den Wegen der Heiden lernen[^bible-92470070-019a-41eb-bfb3-8a3d65ceffab]\.“
+Und er sagt wiederum im Evangelium:
+„Auf den Weg der Heiden sollt ihr nicht gehen;
+und in die Städte der Samariter sollt ihr nicht eintreten[^bible-8d69a226-dc8a-4358-873f-2085922a201b]\.“
+Hier also gebietet und mahnt er uns,
+alle Häresien,
+die die Städte der Samariter sind,
+vollständig zu meiden;
+ferner sollen wir uns weit von den Versammlungen der Heiden fernhalten und nicht in fremde Versammlungen eintreten;
+und wir sollen das Theater völlig meiden sowie ihre Festmärkte,
+die um der Götzen willen abgehalten werden\.
+Ein Gläubiger darf einem Markt nicht einmal nahekommen,
+außer um sich Nahrung für den Leib und die Seele zu kaufen\.
+Meidet daher alle eitlen Schauspiele der Götzen und die Feste ihrer Märkte\.
 
-Seht daher zu, dass ihr euch niemals von der Versammlung der Kirche zurückzieht\. Wenn aber jemand die Versammlung der Kirche Gottes verlässt und zur Versammlung der Heiden geht, was wird er sagen, und welche Entschuldigung kann er vor Gott am Tag des Gerichts vorbringen? Denn er hat die heilige Kirche verlassen und die Worte des lebendigen Gottes, die lebendig und lebenspendend sind, die erlösen, vom Feuer befreien und lebendig retten können, und ist zur Versammlung der Heiden gegangen, weil ihn das Theaterspektakel gelüstet hat\. Darum wird er zu denen gezählt werden, die dorthin gehen, weil er begehrt hat, ihre Fabeln zu hören und aufzunehmen; sie stammen von Toten und aus dem Geist Satans, denn sie sind tot und tödlich, wenden vom Glauben ab und führen ins ewige Feuer\. Nein, vielmehr gilt eure Sorge den Dingen der Welt; ihr achtet auf die Angelegenheiten dieses Lebens und verschmäht es, euch zur katholischen Kirche zu begeben, der geliebten Tochter des Herrn, Gottes des Höchsten, damit ihr die Lehre Gottes empfangt, die in Ewigkeit bleibt und die retten kann, welche das Wort des Lebens aufnehmen\. Seid daher beständig darin, mit den Gläubigen zusammenzukommen, die in eurer Mutter, der Kirche, gerettet werden, der lebendigen und lebenspendenden\. Und hütet euch davor, euch mit denen zu versammeln, die im Theater zugrunde gehen, das die Versammlung der Heiden ist, des Irrtums und des Verderbens\. Denn wer in eine Versammlung der Heiden eintritt, wird zu ihnen gezählt werden und das Wehe empfangen\. Denn zu solchen sprach der Herr Gott durch Jesaja: „Wehe, wehe denen, die vom Schauspiel kommen\.[^bible-bcdc8700-04aa-46df-921a-8c6e116d356c]“ Und wiederum sagt er: „Ihr Frauen, die ihr vom Schauspiel kommt, kommt; denn es ist ein Volk ohne Einsicht[^bible-bcdc8700-04aa-46df-921a-8c6e116d356c]\.“ ‚Frauen‘ nannte er also die Kirchen, die er rief und erlöste, aus dem Schauspiel des Theaters herausführte, nahm und annahm; und dadurch lehrte er uns, von nun an nicht mehr dorthin zu gehen\. Denn er spricht bei Jeremia: „Ihr sollt nicht nach den Wegen der Heiden lernen[^bible-92470070-019a-41eb-bfb3-8a3d65ceffab]\.“ Und er sagt wiederum im Evangelium: „Auf den Weg der Heiden sollt ihr nicht gehen; und in die Städte der Samariter sollt ihr nicht eintreten[^bible-8d69a226-dc8a-4358-873f-2085922a201b]\.“ Hier also gebietet und mahnt er uns, alle Häresien, die die Städte der Samariter sind, vollständig zu meiden; ferner sollen wir uns weit von den Versammlungen der Heiden fernhalten und nicht in fremde Versammlungen eintreten; und wir sollen das Theater völlig meiden sowie ihre Festmärkte, die um der Götzen willen abgehalten werden\. Ein Gläubiger darf einem Markt nicht einmal nahekommen, außer um sich Nahrung für den Leib und die Seele zu kaufen\. Meidet daher alle eitlen Schauspiele der Götzen und die Feste ihrer Märkte\.
-
-Und die Jüngeren in der Kirche sollen eifrig dienen, ohne Trägheit, in allem, was nötig ist, mit großer Ehrfurcht und Bescheidenheit\. Ihr Gläubigen also, ihr alle, widmet euch täglich und stündlich, sooft ihr nicht in der Kirche seid, eurer Arbeit, damit ihr in eurem ganzen Lebenswandel entweder mit den Dingen des Herrn beschäftigt oder bei eurer Arbeit tätig seid und niemals müßig bleibt\. Denn der Herr hat gesagt: „Ahme die Ameise nach, du Fauler, eifere ihren Wegen nach und werde weiser als sie\. Denn sie hat keinen Ackerbau, niemanden, der sie antreibt, und steht unter keiner Obrigkeit; dennoch sammelt sie im Sommer ihr Brot und legt sich in der Ernte reichlich Nahrung auf Vorrat[^bible-066c4100-b171-4b48-9317-1e1879cccd08]\.“ Und wiederum spricht er: „Geh zur Biene und lerne, wie sie arbeitet\. Denn ihre Arbeit verrichtet sie in Weisheit; und aus ihrer Mühe wird Nahrung für Reiche und Arme gewonnen\. Geliebt und lobenswert ist sie; und obwohl sie wenig Kraft hat, ehrt sie die Weisheit und wird dadurch gelobt[^bible-c3e3c780-e476-4ac4-a73c-2d1f137f1006]“\. Wie lange willst du schlafen, du Fauler? Wann willst du von deinem Schlaf aufstehen? Du wirst ein wenig schlummern und ein wenig schlafen, ein wenig sitzen und ein wenig die Hand an deinen Busen legen; und die Armut wird dich einholen wie ein Läufer, und der Mangel wie ein kräftiger Mann[^bible-3c5df9c8-8d04-48c0-a488-2d129a73f8de]\. Doch wenn du nicht träge sein willst, wird dein Zuwachs reichlich sein und überfließen wie eine Quelle; und die Armut wird wie ein schwacher Läufer von dir weichen\.“ Darum arbeitet allezeit; denn Müßiggang ist ein Makel, für den es keine Heilung gibt\. Wenn aber jemand unter euch nicht arbeiten will, soll er auch nicht essen[^bible-54170f4c-9944-46d7-b2f0-4207521d87b7]; denn auch der Herr, Gott, hasst die Trägen, denn ein Fauler kann kein Gläubiger sein\.
+Und die Jüngeren in der Kirche sollen eifrig dienen,
+ohne Trägheit,
+in allem,
+was nötig ist,
+mit großer Ehrfurcht und Bescheidenheit\.
+Ihr Gläubigen also,
+ihr alle,
+widmet euch täglich und stündlich,
+sooft ihr nicht in der Kirche seid,
+eurer Arbeit,
+damit ihr in eurem ganzen Lebenswandel entweder mit den Dingen des Herrn beschäftigt oder bei eurer Arbeit tätig seid und niemals müßig bleibt\.
+Denn der Herr hat gesagt:
+„Ahme die Ameise nach,
+du Fauler,
+eifere ihren Wegen nach und werde weiser als sie\.
+Denn sie hat keinen Ackerbau,
+niemanden,
+der sie antreibt,
+und steht unter keiner Obrigkeit;
+dennoch sammelt sie im Sommer ihr Brot und legt sich in der Ernte reichlich Nahrung auf Vorrat[^bible-066c4100-b171-4b48-9317-1e1879cccd08]\.“
+Und wiederum spricht er:
+„Geh zur Biene und lerne,
+wie sie arbeitet\.
+Denn ihre Arbeit verrichtet sie in Weisheit;
+und aus ihrer Mühe wird Nahrung für Reiche und Arme gewonnen\.
+Geliebt und lobenswert ist sie;
+und obwohl sie wenig Kraft hat,
+ehrt sie die Weisheit und wird dadurch gelobt[^bible-c3e3c780-e476-4ac4-a73c-2d1f137f1006]“\.
+Wie lange willst du schlafen,
+du Fauler?
+Wann willst du von deinem Schlaf aufstehen?
+Du wirst ein wenig schlummern und ein wenig schlafen,
+ein wenig sitzen und ein wenig die Hand an deinen Busen legen;
+und die Armut wird dich einholen wie ein Läufer,
+und der Mangel wie ein kräftiger Mann[^bible-3c5df9c8-8d04-48c0-a488-2d129a73f8de]\.
+Doch wenn du nicht träge sein willst,
+wird dein Zuwachs reichlich sein und überfließen wie eine Quelle;
+und die Armut wird wie ein schwacher Läufer von dir weichen\.“
+Darum arbeitet allezeit;
+denn Müßiggang ist ein Makel,
+für den es keine Heilung gibt\.
+Wenn aber jemand unter euch nicht arbeiten will,
+soll er auch nicht essen[^bible-54170f4c-9944-46d7-b2f0-4207521d87b7];
+denn auch der Herr,
+Gott,
+hasst die Trägen,
+denn ein Fauler kann kein Gläubiger sein\.
 
 ## Bibelverweise
 

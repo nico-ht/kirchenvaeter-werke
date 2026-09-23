@@ -7,12 +7,118 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-ii#kapitel-6917a21d-69e9-4315-035f-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:4799191440cbebeba8b4cbcb3df5051e834c3f2643af01b686d406121089cb17`
+Darüber hinaus wird Basilides selbst nach seinen eigenen Grundsätzen behaupten müssen,
+dass es nicht nur dreihundertfünfundsechzig Himmel gibt,
+die nacheinander,
+einer durch den anderen,
+entstanden sind\.
+Vielmehr muss er auch behaupten,
+dass seit jeher eine ungeheure und unzählbare Menge von Himmeln im Entstehen begriffen war,
+noch entsteht und weiter entstehen wird,
+sodass die Bildung solcher Himmel niemals aufhören kann\.
+Denn wenn aus dem Ausfluss des ersten Himmels der zweite nach dessen Muster entstanden ist,
+der dritte nach dem Muster des zweiten und so alle übrigen,
+die danach folgen,
+dann ergibt sich notwendig:
+Aus dem Ausfluss unseres Himmels,
+den er ja den letzten nennt,
+muss ein weiterer entstehen,
+der ihm gleicht,
+und aus diesem wiederum ein dritter\.
+So kann weder der Ausfluss aus den bereits entstandenen Himmeln jemals aufhören noch die Herstellung neuer Himmel;
+vielmehr muss dieser Vorgang ins Unendliche weiterlaufen und eine völlig unbestimmte Zahl von Himmeln hervorbringen\.
 
-Darüber hinaus wird Basilides selbst nach seinen eigenen Grundsätzen behaupten müssen, dass es nicht nur dreihundertfünfundsechzig Himmel gibt, die nacheinander, einer durch den anderen, entstanden sind\. Vielmehr muss er auch behaupten, dass seit jeher eine ungeheure und unzählbare Menge von Himmeln im Entstehen begriffen war, noch entsteht und weiter entstehen wird, sodass die Bildung solcher Himmel niemals aufhören kann\. Denn wenn aus dem Ausfluss des ersten Himmels der zweite nach dessen Muster entstanden ist, der dritte nach dem Muster des zweiten und so alle übrigen, die danach folgen, dann ergibt sich notwendig: Aus dem Ausfluss unseres Himmels, den er ja den letzten nennt, muss ein weiterer entstehen, der ihm gleicht, und aus diesem wiederum ein dritter\. So kann weder der Ausfluss aus den bereits entstandenen Himmeln jemals aufhören noch die Herstellung neuer Himmel; vielmehr muss dieser Vorgang ins Unendliche weiterlaufen und eine völlig unbestimmte Zahl von Himmeln hervorbringen\.
+Die übrigen von denen,
+die fälschlich Gnostiker genannt werden und behaupten,
+die Propheten hätten ihre Weissagungen unter dem Antrieb verschiedener Götter ausgesprochen,
+lassen sich durch diese Tatsache leicht widerlegen:
+Alle Propheten haben einen Gott und Herrn verkündet,
+nämlich den Schöpfer des Himmels und der Erde und alles dessen,
+was darin ist\.
+Außerdem haben sie die Ankunft seines Sohnes angekündigt,
+wie ich in den folgenden Büchern aus den Schriften selbst zeigen werde\.
 
-Die übrigen von denen, die fälschlich Gnostiker genannt werden und behaupten, die Propheten hätten ihre Weissagungen unter dem Antrieb verschiedener Götter ausgesprochen, lassen sich durch diese Tatsache leicht widerlegen: Alle Propheten haben einen Gott und Herrn verkündet, nämlich den Schöpfer des Himmels und der Erde und alles dessen, was darin ist\. Außerdem haben sie die Ankunft seines Sohnes angekündigt, wie ich in den folgenden Büchern aus den Schriften selbst zeigen werde\.
+Wenn jedoch jemand einwendet,
+in den Schriften kämen in der hebräischen Sprache verschiedene Ausdrücke für Gott vor,
+etwa Sabaoth,
+Eloë,
+Adonai und alle übrigen Bezeichnungen dieser Art,
+und daraus zu beweisen sucht,
+es gebe verschiedene Mächte und Götter,
+dann soll er lernen:
+Alle solche Ausdrücke sind nichts anderes als Kundmachungen und Benennungen ein und desselben Wesens\.
+Denn der Ausdruck Eloë bezeichnet in der jüdischen Sprache Gott,
+während Elōeim und Eleōuth in der hebräischen Sprache „das,
+was alles umfasst“ bedeuten\.
+Was die Benennung Adonai betrifft,
+so bezeichnet sie bisweilen das,
+was benennbar und bewundernswert ist;
+zu anderen Zeiten aber,
+wenn der Buchstabe Daleth darin verdoppelt wird und das Wort einen gutturalen Anlaut erhält,
+also Addonai,
+bedeutet es:
+„Der,
+der dem Land Grenzen setzt und es vom Wasser trennt“,
+damit das Wasser das Land später nicht überschwemmt\.
+Ebenso bezeichnet Sabaoth,
+wenn es in der letzten Silbe mit einem griechischen Omega geschrieben wird,
+also Sabaōth,
+„einen aus eigenem Willen Handelnden“;
+wenn es aber mit einem griechischen Omikron geschrieben wird,
+zum Beispiel Sabaŏth,
+drückt es „den ersten Himmel“ aus\.
+In derselben Weise bezeichnet auch das Wort Jaōth,
+wenn die letzte Silbe lang und aspiriert gesprochen wird,
+„ein vorbestimmtes Maß“;
+wenn es aber kurz mit dem griechischen Buchstaben Omikron geschrieben wird,
+nämlich Jaŏth,
+bedeutet es „einen,
+der Übel in die Flucht schlägt“\.
+Ebenso bringen alle übrigen Ausdrücke den Titel ein und desselben Wesens zur Geltung,
+zum Beispiel auf Deutsch:
+Herr der Mächte,
+Vater aller,
+Gott der Allmächtige,
+der Höchste,
+der Schöpfer,
+der Bildner und dergleichen\.
+Das sind nicht Namen und Titel einer Reihe verschiedener Wesen,
+sondern Namen und Titel ein und desselben\.
+Durch sie wird der eine Gott und Vater offenbart:
+Er umfasst alles und schenkt allen die Wohltat des Daseins\.
 
-Wenn jedoch jemand einwendet, in den Schriften kämen in der hebräischen Sprache verschiedene Ausdrücke für Gott vor, etwa Sabaoth, Eloë, Adonai und alle übrigen Bezeichnungen dieser Art, und daraus zu beweisen sucht, es gebe verschiedene Mächte und Götter, dann soll er lernen: Alle solche Ausdrücke sind nichts anderes als Kundmachungen und Benennungen ein und desselben Wesens\. Denn der Ausdruck Eloë bezeichnet in der jüdischen Sprache Gott, während Elōeim und Eleōuth in der hebräischen Sprache „das, was alles umfasst“ bedeuten\. Was die Benennung Adonai betrifft, so bezeichnet sie bisweilen das, was benennbar und bewundernswert ist; zu anderen Zeiten aber, wenn der Buchstabe Daleth darin verdoppelt wird und das Wort einen gutturalen Anlaut erhält, also Addonai, bedeutet es: „Der, der dem Land Grenzen setzt und es vom Wasser trennt“, damit das Wasser das Land später nicht überschwemmt\. Ebenso bezeichnet Sabaoth, wenn es in der letzten Silbe mit einem griechischen Omega geschrieben wird, also Sabaōth, „einen aus eigenem Willen Handelnden“; wenn es aber mit einem griechischen Omikron geschrieben wird, zum Beispiel Sabaŏth, drückt es „den ersten Himmel“ aus\. In derselben Weise bezeichnet auch das Wort Jaōth, wenn die letzte Silbe lang und aspiriert gesprochen wird, „ein vorbestimmtes Maß“; wenn es aber kurz mit dem griechischen Buchstaben Omikron geschrieben wird, nämlich Jaŏth, bedeutet es „einen, der Übel in die Flucht schlägt“\. Ebenso bringen alle übrigen Ausdrücke den Titel ein und desselben Wesens zur Geltung, zum Beispiel auf Deutsch: Herr der Mächte, Vater aller, Gott der Allmächtige, der Höchste, der Schöpfer, der Bildner und dergleichen\. Das sind nicht Namen und Titel einer Reihe verschiedener Wesen, sondern Namen und Titel ein und desselben\. Durch sie wird der eine Gott und Vater offenbart: Er umfasst alles und schenkt allen die Wohltat des Daseins\.
-
-Dass nun die Predigt der Apostel, die verbindliche Lehre des Herrn, die Verkündigungen der Propheten, die eingegebenen Worte der Apostel und der Dienst des Gesetzes mit unseren Aussagen übereinstimmen, ist, wie ich meine, hinreichend bewiesen\. Sie alle preisen ein und dasselbe Wesen, den Gott und Vater aller: nicht viele verschiedene Wesen und auch nicht einen, der seine Substanz von verschiedenen Göttern oder Mächten herleitet, sondern sie erklären, dass alles von ein und demselben Vater geschaffen wurde\. Dieser passt seine Werke jedoch der Natur und den Neigungen der Stoffe an, die er bearbeitet\. Sichtbares und Unsichtbares, kurz: alles, was geschaffen ist, wurde weder von Engeln noch von irgendeiner anderen Macht geschaffen, sondern allein von Gott, dem Vater\. Durch diese gewichtigen Argumente ist gezeigt worden, dass es nur einen Gott gibt, den Schöpfer aller Dinge\. Damit man aber nicht meint, ich wiche jener Beweisreihe aus, die sich aus den Schriften des Herrn gewinnen lässt – denn gerade diese Schriften verkünden diesen Punkt viel offenkundiger und klarer –, werde ich wenigstens zum Nutzen derer, die nicht mit verdorbenem Sinn an sie herangehen, den genannten Schriften ein eigenes Buch widmen\. Darin werde ich sie redlich durchgehen und auslegen, und aus diesen göttlichen Schriften werde ich allen, die die Wahrheit lieben, die Beweise klar darlegen\.
+Dass nun die Predigt der Apostel,
+die verbindliche Lehre des Herrn,
+die Verkündigungen der Propheten,
+die eingegebenen Worte der Apostel und der Dienst des Gesetzes mit unseren Aussagen übereinstimmen,
+ist,
+wie ich meine,
+hinreichend bewiesen\.
+Sie alle preisen ein und dasselbe Wesen,
+den Gott und Vater aller:
+nicht viele verschiedene Wesen und auch nicht einen,
+der seine Substanz von verschiedenen Göttern oder Mächten herleitet,
+sondern sie erklären,
+dass alles von ein und demselben Vater geschaffen wurde\.
+Dieser passt seine Werke jedoch der Natur und den Neigungen der Stoffe an,
+die er bearbeitet\.
+Sichtbares und Unsichtbares,
+kurz:
+alles,
+was geschaffen ist,
+wurde weder von Engeln noch von irgendeiner anderen Macht geschaffen,
+sondern allein von Gott,
+dem Vater\.
+Durch diese gewichtigen Argumente ist gezeigt worden,
+dass es nur einen Gott gibt,
+den Schöpfer aller Dinge\.
+Damit man aber nicht meint,
+ich wiche jener Beweisreihe aus,
+die sich aus den Schriften des Herrn gewinnen lässt – denn gerade diese Schriften verkünden diesen Punkt viel offenkundiger und klarer –,
+werde ich wenigstens zum Nutzen derer,
+die nicht mit verdorbenem Sinn an sie herangehen,
+den genannten Schriften ein eigenes Buch widmen\.
+Darin werde ich sie redlich durchgehen und auslegen,
+und aus diesen göttlichen Schriften werde ich allen,
+die die Wahrheit lieben,
+die Beweise klar darlegen\.

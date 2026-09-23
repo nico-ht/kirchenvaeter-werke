@@ -7,13 +7,130 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-v#kapitel-82cbf6ed-9a9f-4f51-ce80-08def5891738).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:209d583b60551998c06c81e83f623e6a758a40d442a4cdd428b8b92fb0929838`
+Denn weil es wirkliche Menschen gibt,
+muss es auch eine wirkliche Pflanzung geben,
+damit sie nicht unter dem verschwinden,
+was kein Sein hat,
+sondern unter dem voranschreiten,
+was tatsächlich besteht\.
+Denn weder die Substanz noch das Wesen der Schöpfung wird vernichtet,
+denn treu und wahr ist der,
+der sie gegründet hat,
+sondern „die Gestalt dieser Welt vergeht[^bible-4c6ddfbe-2a31-4f93-9361-f05858196189]“;
+das heißt:
+jene Dinge,
+unter denen die Übertretung geschehen ist,
+weil der Mensch in ihnen alt geworden ist\.
+Darum ist diese gegenwärtige Gestalt vorläufig geschaffen worden,
+da Gott alles vorherweiß;
+wie ich im vorangehenden Buch dargelegt und,
+soweit es möglich war,
+auch die Ursache der Schöpfung dieser Welt zeitlicher Dinge gezeigt habe\.
+Wenn aber diese gegenwärtige Gestalt der Dinge vergeht,
+der Mensch erneuert ist und in Unvergänglichkeit aufblüht,
+sodass jedes Altwerden ausgeschlossen ist,
+dann wird es den neuen Himmel und die neue Erde geben[^bible-e6ffb006-b6e3-45cb-8546-ebb00ee7e563],
+in denen der neue Mensch für immer bleiben und immer neu mit Gott Umgang haben wird\.
+Und weil diese Dinge ohne Ende für immer bestehen werden,
+erklärt Jesaja:
+„Denn wie die neuen Himmel und die neue Erde,
+die ich mache,
+vor mir bestehen bleiben,
+spricht der Herr,
+so werden eure Nachkommen und euer Name bestehen bleiben[^bible-b3bbea03-989f-471a-968b-c4c3ab4abaee]\.“
+Und wie die Presbyter sagen:
+Dann werden die,
+die einer Wohnstätte im Himmel für würdig erachtet werden,
+dorthin gehen;
+andere werden die Freuden des Paradieses genießen,
+und wieder andere werden den Glanz der Stadt besitzen\.
+Denn überall wird der Erlöser geschaut werden,
+je nachdem die,
+die ihn schauen,
+würdig sein werden\.
 
-Denn weil es wirkliche Menschen gibt, muss es auch eine wirkliche Pflanzung geben, damit sie nicht unter dem verschwinden, was kein Sein hat, sondern unter dem voranschreiten, was tatsächlich besteht\. Denn weder die Substanz noch das Wesen der Schöpfung wird vernichtet, denn treu und wahr ist der, der sie gegründet hat, sondern „die Gestalt dieser Welt vergeht[^bible-4c6ddfbe-2a31-4f93-9361-f05858196189]“; das heißt: jene Dinge, unter denen die Übertretung geschehen ist, weil der Mensch in ihnen alt geworden ist\. Darum ist diese gegenwärtige Gestalt vorläufig geschaffen worden, da Gott alles vorherweiß; wie ich im vorangehenden Buch dargelegt und, soweit es möglich war, auch die Ursache der Schöpfung dieser Welt zeitlicher Dinge gezeigt habe\. Wenn aber diese gegenwärtige Gestalt der Dinge vergeht, der Mensch erneuert ist und in Unvergänglichkeit aufblüht, sodass jedes Altwerden ausgeschlossen ist, dann wird es den neuen Himmel und die neue Erde geben[^bible-e6ffb006-b6e3-45cb-8546-ebb00ee7e563], in denen der neue Mensch für immer bleiben und immer neu mit Gott Umgang haben wird\. Und weil diese Dinge ohne Ende für immer bestehen werden, erklärt Jesaja: „Denn wie die neuen Himmel und die neue Erde, die ich mache, vor mir bestehen bleiben, spricht der Herr, so werden eure Nachkommen und euer Name bestehen bleiben[^bible-b3bbea03-989f-471a-968b-c4c3ab4abaee]\.“ Und wie die Presbyter sagen: Dann werden die, die einer Wohnstätte im Himmel für würdig erachtet werden, dorthin gehen; andere werden die Freuden des Paradieses genießen, und wieder andere werden den Glanz der Stadt besitzen\. Denn überall wird der Erlöser geschaut werden, je nachdem die, die ihn schauen, würdig sein werden\.
+Sie sagen außerdem,
+dass es diesen Unterschied gibt zwischen der Wohnstätte derer,
+die hundertfach Frucht bringen,
+und derer,
+die sechzigfach Frucht bringen,
+und derer,
+die dreißigfach Frucht bringen:
+Die Ersten werden in die Himmel aufgenommen werden,
+die Zweiten werden im Paradies wohnen,
+die Letzten werden die Stadt bewohnen\.
+Darum hat der Herr erklärt:
+„Im Haus meines Vaters sind viele Wohnstätten[^bible-c8e967e5-43b9-4c21-898c-c6dafc67a28b]\.“
+Denn alles gehört Gott,
+der allen eine passende Wohnstätte gibt,
+wie auch sein Wort sagt,
+dass allen vom Vater ein Anteil zugewiesen wird,
+je nachdem jeder würdig ist oder würdig sein wird\.
+Und das ist das Lager,
+auf dem die Gäste Platz nehmen werden,
+nachdem sie zur Hochzeit eingeladen worden sind[^bible-e1055c19-e65a-443c-8c8a-d9079b2a8fcb]\.
+Die Presbyter,
+die Schüler der Apostel,
+bekräftigen:
+Dies ist die Abstufung und Ordnung derer,
+die gerettet werden;
+sie schreiten auf solchen Stufen voran;
+sie steigen auch durch den Geist zum Sohn hinauf und durch den Sohn zum Vater\.
+Zur rechten Zeit wird der Sohn dem Vater sein Werk übergeben,
+wie der Apostel sagt:
+„Denn er muss herrschen,
+bis er alle Feinde unter seine Füße gelegt hat\.
+Der letzte Feind,
+der vernichtet wird,
+ist der Tod[^bible-ddb2a880-f429-4418-8cae-83c9c7348a39]\.“
+Denn in den Zeiten des Königreichs wird der Gerechte,
+der auf der Erde ist,
+dann vergessen zu sterben\.
+„Wenn er aber sagt:
+Alles wird ihm unterworfen sein,
+ist offenbar,
+dass der ausgenommen ist,
+der ihm alles unterworfen hat\.
+Und wenn ihm alles unterworfen sein wird,
+dann wird auch der Sohn selbst dem unterworfen sein,
+der ihm alles unterworfen hat,
+damit Gott alles in allen sei[^bible-e2ce3795-b9a3-4b77-b28d-994ed576c0b4]\.“
 
-Sie sagen außerdem, dass es diesen Unterschied gibt zwischen der Wohnstätte derer, die hundertfach Frucht bringen, und derer, die sechzigfach Frucht bringen, und derer, die dreißigfach Frucht bringen: Die Ersten werden in die Himmel aufgenommen werden, die Zweiten werden im Paradies wohnen, die Letzten werden die Stadt bewohnen\. Darum hat der Herr erklärt: „Im Haus meines Vaters sind viele Wohnstätten[^bible-c8e967e5-43b9-4c21-898c-c6dafc67a28b]\.“ Denn alles gehört Gott, der allen eine passende Wohnstätte gibt, wie auch sein Wort sagt, dass allen vom Vater ein Anteil zugewiesen wird, je nachdem jeder würdig ist oder würdig sein wird\. Und das ist das Lager, auf dem die Gäste Platz nehmen werden, nachdem sie zur Hochzeit eingeladen worden sind[^bible-e1055c19-e65a-443c-8c8a-d9079b2a8fcb]\. Die Presbyter, die Schüler der Apostel, bekräftigen: Dies ist die Abstufung und Ordnung derer, die gerettet werden; sie schreiten auf solchen Stufen voran; sie steigen auch durch den Geist zum Sohn hinauf und durch den Sohn zum Vater\. Zur rechten Zeit wird der Sohn dem Vater sein Werk übergeben, wie der Apostel sagt: „Denn er muss herrschen, bis er alle Feinde unter seine Füße gelegt hat\. Der letzte Feind, der vernichtet wird, ist der Tod[^bible-ddb2a880-f429-4418-8cae-83c9c7348a39]\.“ Denn in den Zeiten des Königreichs wird der Gerechte, der auf der Erde ist, dann vergessen zu sterben\. „Wenn er aber sagt: Alles wird ihm unterworfen sein, ist offenbar, dass der ausgenommen ist, der ihm alles unterworfen hat\. Und wenn ihm alles unterworfen sein wird, dann wird auch der Sohn selbst dem unterworfen sein, der ihm alles unterworfen hat, damit Gott alles in allen sei[^bible-e2ce3795-b9a3-4b77-b28d-994ed576c0b4]\.“
-
-Johannes sah also deutlich die erste „Auferstehung der Gerechten“ voraus und das Erbe im Königreich der Erde; und was die Propheten darüber geweissagt haben, stimmt damit überein\. Denn auch der Herr lehrte dies, als er versprach, den gemischten Kelch mit seinen Jüngern neu im Königreich zu trinken[^bible-fae457e6-3c81-41de-876e-8171dd999537]\. Auch der Apostel hat bekannt, dass die Schöpfung von der Knechtschaft der Vergänglichkeit frei werden soll, um in die Freiheit der Kinder Gottes zu gelangen[^bible-7be1dedb-c662-413a-adb6-54855e77519f]\. Und in all dem und durch alles wird derselbe Gott, der Vater, offenbar: Er hat den Menschen gebildet; er hat den Vätern das Erbe der Erde verheißen; er führt die Schöpfung bei der Auferstehung der Gerechten aus der Knechtschaft heraus und erfüllt die Verheißungen für das Königreich seines Sohnes\. Danach schenkt er auf väterliche Weise das, was weder ein Auge gesehen noch ein Ohr gehört hat und was in keines Menschen Herz aufgestiegen ist[^bible-57c4c421-287d-4f3e-b811-9e39ddd142d1]\. Denn es gibt den einen Sohn, der den Willen seines Vaters vollbracht hat, und auch das eine Menschengeschlecht, in dem die Geheimnisse Gottes gewirkt werden, „in die die Engel hineinzuschauen begehren[^bible-00b486fc-6354-496c-a936-a1d11dc9f975]“; und sie können die Weisheit Gottes nicht erforschen, durch die sein Gebilde, gefestigt und mit seinem Sohn verbunden, zur Vollendung gebracht wird: dass sein Spross, das erstgeborene Wort, zur Schöpfung hinabsteigt, also zu dem, was geformt worden ist, und von ihr aufgenommen wird; und umgekehrt die Schöpfung das Wort aufnimmt, zu ihm hinaufsteigt, über die Engel hinausgeht und nach dem Bild und Gleichnis Gottes gemacht wird[^bible-9dff43e7-25ce-45a3-b5ec-fd022c9db217]\.
+Johannes sah also deutlich die erste „Auferstehung der Gerechten“ voraus und das Erbe im Königreich der Erde;
+und was die Propheten darüber geweissagt haben,
+stimmt damit überein\.
+Denn auch der Herr lehrte dies,
+als er versprach,
+den gemischten Kelch mit seinen Jüngern neu im Königreich zu trinken[^bible-fae457e6-3c81-41de-876e-8171dd999537]\.
+Auch der Apostel hat bekannt,
+dass die Schöpfung von der Knechtschaft der Vergänglichkeit frei werden soll,
+um in die Freiheit der Kinder Gottes zu gelangen[^bible-7be1dedb-c662-413a-adb6-54855e77519f]\.
+Und in all dem und durch alles wird derselbe Gott,
+der Vater,
+offenbar:
+Er hat den Menschen gebildet;
+er hat den Vätern das Erbe der Erde verheißen;
+er führt die Schöpfung bei der Auferstehung der Gerechten aus der Knechtschaft heraus und erfüllt die Verheißungen für das Königreich seines Sohnes\.
+Danach schenkt er auf väterliche Weise das,
+was weder ein Auge gesehen noch ein Ohr gehört hat und was in keines Menschen Herz aufgestiegen ist[^bible-57c4c421-287d-4f3e-b811-9e39ddd142d1]\.
+Denn es gibt den einen Sohn,
+der den Willen seines Vaters vollbracht hat,
+und auch das eine Menschengeschlecht,
+in dem die Geheimnisse Gottes gewirkt werden,
+„in die die Engel hineinzuschauen begehren[^bible-00b486fc-6354-496c-a936-a1d11dc9f975]“;
+und sie können die Weisheit Gottes nicht erforschen,
+durch die sein Gebilde,
+gefestigt und mit seinem Sohn verbunden,
+zur Vollendung gebracht wird:
+dass sein Spross,
+das erstgeborene Wort,
+zur Schöpfung hinabsteigt,
+also zu dem,
+was geformt worden ist,
+und von ihr aufgenommen wird;
+und umgekehrt die Schöpfung das Wort aufnimmt,
+zu ihm hinaufsteigt,
+über die Engel hinausgeht und nach dem Bild und Gleichnis Gottes gemacht wird[^bible-9dff43e7-25ce-45a3-b5ec-fd022c9db217]\.
 
 ## Bibelverweise
 

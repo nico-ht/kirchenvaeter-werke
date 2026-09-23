@@ -7,6 +7,55 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-1#kapitel-22b6519c-861f-464a-f1ab-08de3ca443c2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:db96f34bc5364fe574b578c6fceab8d608a09ab18527c39e486298a1b397b677`
-
-Daraufhin sagte ich: „Ich danke dem allmächtigen Gott\! Denn jetzt bin ich genau so unterwiesen, wie ich es mir gewünscht habe\. Du kannst dir meinetwegen absolut sicher sein: Es ist völlig ausgeschlossen, dass ich an den Dingen zweifle, die ich von dir gelernt habe\. Selbst wenn du persönlich irgendwann versuchen würdest, mich von meinem Glauben an den wahren Propheten wegzureißen – du hättest absolut keine Chance\! So tief und mit vollem Geist habe ich das in mich aufgesogen, was du mir übergeben hast\. Und denk bloß nicht, ich würde hier den Mund zu voll nehmen, wenn ich behaupte, dass ich mich von diesem Glauben nicht mehr abbringen lasse\. Für mich steht fest: Jeder Mensch, der diese Vernunftgründe über den wahren Propheten annimmt, kann an der Wahrheit unmöglich noch zweifeln\. Deshalb setze ich mein ganzes Vertrauen auf diese göttliche Lehre, die direkt vom Himmel festgelegt wurde\. In ihr wird jede bösartige List besiegt\. Denn gegen die Prophetie kann keine Kunst bestehen, auch nicht die Gerissenheit von sophistischen Wortklaubereien und logischen Spitzfindigkeiten\. Wer vom wahren Propheten hört, den muss sofort das Verlangen nach der Wahrheit selbst packen\! Er wird sich nicht länger diversen Irrtümern ausliefern, nur unter dem Vorwand, er müsse die Wahrheit erst noch suchen\. Deswegen, mein Herr Petrus, hör auf, dir Sorgen zu machen\! Tu nicht so, als hättest du es mit einem zu tun, der nicht weiß, was er empfangen hat, oder der nicht kapiert, welch gewaltiges Geschenk ihm anvertraut wurde\. Sei dir gewiss: Du hast deine Gnade einem gegeben, der Bescheid weiß und versteht\. Ich lasse mich nicht leicht täuschen, denn was ich so lange ersehnt habe, scheine ich jetzt blitzschnell erlangt zu haben\. Es kann nämlich passieren, dass der eine, der sucht, schnell ans Ziel kommt, während der andere selbst nach langer Zeit nicht das erreicht, was er begehrt\.“
+Daraufhin sagte ich:
+„Ich danke dem allmächtigen Gott\!
+Denn jetzt bin ich genau so unterwiesen,
+wie ich es mir gewünscht habe\.
+Du kannst dir meinetwegen absolut sicher sein:
+Es ist völlig ausgeschlossen,
+dass ich an den Dingen zweifle,
+die ich von dir gelernt habe\.
+Selbst wenn du persönlich irgendwann versuchen würdest,
+mich von meinem Glauben an den wahren Propheten wegzureißen – du hättest absolut keine Chance\!
+So tief und mit vollem Geist habe ich das in mich aufgesogen,
+was du mir übergeben hast\.
+Und denk bloß nicht,
+ich würde hier den Mund zu voll nehmen,
+wenn ich behaupte,
+dass ich mich von diesem Glauben nicht mehr abbringen lasse\.
+Für mich steht fest:
+Jeder Mensch,
+der diese Vernunftgründe über den wahren Propheten annimmt,
+kann an der Wahrheit unmöglich noch zweifeln\.
+Deshalb setze ich mein ganzes Vertrauen auf diese göttliche Lehre,
+die direkt vom Himmel festgelegt wurde\.
+In ihr wird jede bösartige List besiegt\.
+Denn gegen die Prophetie kann keine Kunst bestehen,
+auch nicht die Gerissenheit von sophistischen Wortklaubereien und logischen Spitzfindigkeiten\.
+Wer vom wahren Propheten hört,
+den muss sofort das Verlangen nach der Wahrheit selbst packen\!
+Er wird sich nicht länger diversen Irrtümern ausliefern,
+nur unter dem Vorwand,
+er müsse die Wahrheit erst noch suchen\.
+Deswegen,
+mein Herr Petrus,
+hör auf,
+dir Sorgen zu machen\!
+Tu nicht so,
+als hättest du es mit einem zu tun,
+der nicht weiß,
+was er empfangen hat,
+oder der nicht kapiert,
+welch gewaltiges Geschenk ihm anvertraut wurde\.
+Sei dir gewiss:
+Du hast deine Gnade einem gegeben,
+der Bescheid weiß und versteht\.
+Ich lasse mich nicht leicht täuschen,
+denn was ich so lange ersehnt habe,
+scheine ich jetzt blitzschnell erlangt zu haben\.
+Es kann nämlich passieren,
+dass der eine,
+der sucht,
+schnell ans Ziel kommt,
+während der andere selbst nach langer Zeit nicht das erreicht,
+was er begehrt\.“

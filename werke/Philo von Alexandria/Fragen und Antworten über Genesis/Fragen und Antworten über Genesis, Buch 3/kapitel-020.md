@@ -7,6 +7,59 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-3#kapitel-87f775c5-efe7-4f17-9c8c-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:06f017e4cb4fb73b929cb3351487209c1173df5789ec949853d3d866d8257e1f`
-
-Warum sagte Sarah zu Abraham: „Siehe, der Herr hat mich verschlossen, sodass ich nicht gebäre; geh nun zu meiner Magd ein, um durch sie einen Sohn zu zeugen“? Dem Wortsinn dieser Aussage nach ist es ein und dasselbe, keinen Neid zu empfinden und zugleich für das Wohl des Weisen zu sorgen, der ihr Mann und ihr echter Bruder ist\. So gibt sie, weil sie durch ihre Magd, deren Herrin sie war, ein Mittel gegen ihre eigene Unfruchtbarkeit finden will, sie ihrem Mann als Nebenfrau\. Noch reicher aber zeigt sich darin ihre Zuneigung zu ihrem Mann: Da sie selbst als unfruchtbar galt, hielt sie es nicht für richtig, dass das Haus ihres Mannes ohne Nachkommenschaft bleiben sollte, sondern stellte seinen Vorteil über ihre eigene Würde\. Das ist es, was diese Aussage dem Buchstaben nach anzeigt\. Wenn wir aber auf den inneren Sinn der Stelle blicken, lässt sie sich so deuten: Menschen, die ihrer Tugend nach nicht imstande sind, schöne und lobenswerte Werke hervorzubringen, sollen sich der mittleren Art des Studiums zuwenden und, wenn ich so sagen darf, sich Kinder aus den Zweigen der allgemeinen Bildung verschaffen\. Denn eine Fülle von Wissen ist gleichsam der Schleifstein des Sinnes und des Verstandes\. Und mit großer Angemessenheit sagt sie: „Der Herr hat mich verschlossen“; denn was verschlossen ist, wird gewöhnlich zur rechten Zeit wieder geöffnet\. Daher war sie nicht ohne Hoffnung, und ihre Weisheit stand auch nicht in der Überzeugung fest, sie werde für immer ohne Nachkommen bleiben, sondern sie wusste, dass sie eines Tages gebären würde\. Gleichwohl wird sie nicht jetzt gebären, sondern dann, wenn die Seele die Reinheit ihrer Vollendung zeigt\. Da sie aber gegenwärtig noch unvollkommen ist, begnügt sie sich damit, eine mildere Art der Bildung zu gebrauchen, wie sie durch die allgemeine Bildung erreichbar ist\. Deshalb ist es nicht ohne Absicht, dass auch bei den heiligen Wettkämpfen in Olympia diejenigen, die den ersten Siegespreis nicht erlangen können, damit zufrieden sind, des zweiten würdig erachtet zu werden; denn den Wettkämpfern werden von den Vorstehern der Spiele, die Vertreter der Natur sind, ein erster, ein zweiter und ein dritter Preis dargeboten\. So schreibt der heilige Schriftsteller ihr nun den ersten Preis der Tugenden und den zweiten Preis des allgemeinen Studiums zu\.
+Warum sagte Sarah zu Abraham:
+„Siehe,
+der Herr hat mich verschlossen,
+sodass ich nicht gebäre;
+geh nun zu meiner Magd ein,
+um durch sie einen Sohn zu zeugen“?
+Dem Wortsinn dieser Aussage nach ist es ein und dasselbe,
+keinen Neid zu empfinden und zugleich für das Wohl des Weisen zu sorgen,
+der ihr Mann und ihr echter Bruder ist\.
+So gibt sie,
+weil sie durch ihre Magd,
+deren Herrin sie war,
+ein Mittel gegen ihre eigene Unfruchtbarkeit finden will,
+sie ihrem Mann als Nebenfrau\.
+Noch reicher aber zeigt sich darin ihre Zuneigung zu ihrem Mann:
+Da sie selbst als unfruchtbar galt,
+hielt sie es nicht für richtig,
+dass das Haus ihres Mannes ohne Nachkommenschaft bleiben sollte,
+sondern stellte seinen Vorteil über ihre eigene Würde\.
+Das ist es,
+was diese Aussage dem Buchstaben nach anzeigt\.
+Wenn wir aber auf den inneren Sinn der Stelle blicken,
+lässt sie sich so deuten:
+Menschen,
+die ihrer Tugend nach nicht imstande sind,
+schöne und lobenswerte Werke hervorzubringen,
+sollen sich der mittleren Art des Studiums zuwenden und,
+wenn ich so sagen darf,
+sich Kinder aus den Zweigen der allgemeinen Bildung verschaffen\.
+Denn eine Fülle von Wissen ist gleichsam der Schleifstein des Sinnes und des Verstandes\.
+Und mit großer Angemessenheit sagt sie:
+„Der Herr hat mich verschlossen“;
+denn was verschlossen ist,
+wird gewöhnlich zur rechten Zeit wieder geöffnet\.
+Daher war sie nicht ohne Hoffnung,
+und ihre Weisheit stand auch nicht in der Überzeugung fest,
+sie werde für immer ohne Nachkommen bleiben,
+sondern sie wusste,
+dass sie eines Tages gebären würde\.
+Gleichwohl wird sie nicht jetzt gebären,
+sondern dann,
+wenn die Seele die Reinheit ihrer Vollendung zeigt\.
+Da sie aber gegenwärtig noch unvollkommen ist,
+begnügt sie sich damit,
+eine mildere Art der Bildung zu gebrauchen,
+wie sie durch die allgemeine Bildung erreichbar ist\.
+Deshalb ist es nicht ohne Absicht,
+dass auch bei den heiligen Wettkämpfen in Olympia diejenigen,
+die den ersten Siegespreis nicht erlangen können,
+damit zufrieden sind,
+des zweiten würdig erachtet zu werden;
+denn den Wettkämpfern werden von den Vorstehern der Spiele,
+die Vertreter der Natur sind,
+ein erster,
+ein zweiter und ein dritter Preis dargeboten\.
+So schreibt der heilige Schriftsteller ihr nun den ersten Preis der Tugenden und den zweiten Preis des allgemeinen Studiums zu\.

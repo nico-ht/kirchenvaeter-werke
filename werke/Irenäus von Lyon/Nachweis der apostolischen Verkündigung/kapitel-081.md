@@ -7,9 +7,28 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-2c63b17a-7a4f-4940-325e-08debf1e7015).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:46806cd2fcf1db9cd53f48a47f43346dfca8454f004be9ad16e0d1cf05285aec`
-
-Und wiederum sagt der Prophet Jeremia: „Und sie nahmen die dreißig Silberstücke, den Preis dessen, der verkauft worden war, den sie von den Kindern Israel erkauft hatten; und sie gaben sie für den Acker des Töpfers, wie der Herr mir befohlen hatte[^bible-d639d80e-f222-42c9-9b7f-7be457e1c381]\.“ Denn Judas, einer von Christi Jüngern, einigte sich mit den Juden und traf eine Abmachung mit ihnen, als er sah, dass sie Ihn töten wollten, weil er von Ihm zurechtgewiesen worden war; und er nahm die dreißig Statere der Provinz und verriet Christus an sie[^bible-565e2dbb-2801-4052-81a5-fd51358729f2]\. Dann aber, als ihn reute, was er getan hatte, gab er das Silber den Oberen der Juden wieder zurück und erhängte sich[^bible-b41fd868-90fe-41d9-9d7f-6052ccd35cb6]\. Die Oberen aber hielten es nicht für recht, es in ihren Schatz zu werfen, weil es der Preis des Blutes war, und kauften damit den Acker eines gewissen Töpfers zum Begräbnis der Fremden[^bible-78541dff-4afc-4e3f-b86f-3d72d1646b27]\.
+Und wiederum sagt der Prophet Jeremia:
+„Und sie nahmen die dreißig Silberstücke,
+den Preis dessen,
+der verkauft worden war,
+den sie von den Kindern Israel erkauft hatten;
+und sie gaben sie für den Acker des Töpfers,
+wie der Herr mir befohlen hatte[^bible-d639d80e-f222-42c9-9b7f-7be457e1c381]\.“
+Denn Judas,
+einer von Christi Jüngern,
+einigte sich mit den Juden und traf eine Abmachung mit ihnen,
+als er sah,
+dass sie Ihn töten wollten,
+weil er von Ihm zurechtgewiesen worden war;
+und er nahm die dreißig Statere der Provinz und verriet Christus an sie[^bible-565e2dbb-2801-4052-81a5-fd51358729f2]\.
+Dann aber,
+als ihn reute,
+was er getan hatte,
+gab er das Silber den Oberen der Juden wieder zurück und erhängte sich[^bible-b41fd868-90fe-41d9-9d7f-6052ccd35cb6]\.
+Die Oberen aber hielten es nicht für recht,
+es in ihren Schatz zu werfen,
+weil es der Preis des Blutes war,
+und kauften damit den Acker eines gewissen Töpfers zum Begräbnis der Fremden[^bible-78541dff-4afc-4e3f-b86f-3d72d1646b27]\.
 
 ## Bibelverweise
 

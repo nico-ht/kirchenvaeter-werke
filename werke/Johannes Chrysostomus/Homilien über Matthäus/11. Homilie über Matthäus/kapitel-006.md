@@ -7,9 +7,115 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/11-homilie-ueber-matthaeus#kapitel-e674be2c-3042-483f-5a57-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:333a84816e7c6d1d3791da8eb5e63ece9ab77279e57f640ffe124591586332c4`
-
-Wenn er also die Apostel und alle, die es wollen, nicht Tag für Tag mit dem Geist getauft hätte, könntest du auch an jenem Zweifel haben\. Wenn aber das Größere, das, was schwieriger zu sein scheint und alles Denken übersteigt, geschehen ist und Tag für Tag geschieht, wie kannst du dann sagen, das Leichte, das der Vernunft gemäß geschieht, sei nicht wahr? Denn nachdem er gesagt hatte, er werde mit Heiligem Geist und Feuer taufen, und daraus große Güter verheißen hatte, fügte er, damit du nach der Vergebung aller früheren Sünden nicht sorglos wirst, die Wurfschaufel hinzu und das Gericht, das sich durch sie zeigt\. Denn meint ja nicht, sagt er, die Taufe genüge, wenn ihr danach schlecht werdet; wir brauchen auch Tugend und viel geübte Lebensweisheit\. Darum treibt er sie durch die Axt zur Gnade und zum Taufbad; nach der Gnade aber schreckt er sie durch die Wurfschaufel und das unauslöschliche Feuer\. Vor der Taufe macht er keinen Unterschied, sondern sagt schlicht: „Jeder Baum, der keine gute Frucht bringt, wird abgehauen[^bible-8a9dc4a3-efa5-45ae-aa80-47d9a4fd2401]“, und bestraft damit alle Ungläubigen\. Nach der Taufe aber nimmt er eine gewisse Scheidung vor, weil viele von denen, die gläubig geworden waren, ein Leben zeigen sollten, das des Glaubens unwürdig ist\. Keiner werde also zu Spreu, keiner sei leicht hin und her zu treiben, keiner liege den bösen Begierden preisgegeben da und lasse sich überall von ihnen mühelos aufwirbeln\. Denn wenn du Weizen bleibst, wirst du nichts Schlimmes erleiden, auch wenn Versuchung über dich kommt; auch auf der Tenne zerschneiden die sägeartigen Räder des Wagens den Weizen nicht\. Wenn du aber in die Schwäche der Spreu absinkst, wirst du schon hier unheilbaren Schaden nehmen, von allem umhergeschlagen, und dort die unsterbliche Strafe auf dich nehmen\. Denn alle solche Menschen werden schon vor jenem Ofen hier zur Nahrung für die vernunftlosen Leidenschaften, wie die Spreu für die unvernünftigen Tiere; und dort wiederum werden sie Stoff und Nahrung für das Feuer\. Hätte er nun geradeheraus gesagt, dass er selbst über das, was getan wird, Gericht halten werde, hätte das seine Rede nicht so leicht annehmbar gemacht\. Dass er aber das Gleichnis einfügte und dadurch das Ganze begründete, überzeugte stärker und zog den Hörer mit umso gewinnenderer Milde an sich\. Deshalb spricht er selbst auch meist so zu ihnen: Er mischt Tenne, Ernte, Weinberg, Kelter, Acker, Netz, Fischfang und all das Gewohnte, worin sie sich bewegten, in seine Worte hinein\. Genau das hat auch der Täufer hier getan und als größten Beweis für das Gesagte die Gabe des Geistes angeführt\. Denn wer so Großes vermag, dass er sogar Sünden vergibt und den Geist gibt, der wird erst recht auch dies vermögen, sagt er\. Siehst du, wie er schon folgerichtig das Geheimnis der Auferstehung und des Gerichts vorauslegte? Und weshalb, sagt man, nannte er nicht die Zeichen und Wunder, die unmittelbar durch ihn geschehen sollten? Weil dies größer war als alles und weil um dessentwillen all jene Dinge geschahen\. Denn indem er den Kern nannte, umfasste er alles: die Auflösung des Todes, die Wegnahme der Sünden, das Verschwinden des Fluches, die Befreiung von den langwährenden Kriegen, den Eingang ins Paradies, den Aufstieg in die Himmel, das Leben mit den Engeln, die Teilhabe an den künftigen Gütern; denn der Geist ist das Angeld jener Dinge\. Nachdem er also dies gesagt hatte, sagte er auch die Auferstehung der Leiber, den Erweis der Zeichen hier, die Teilhabe am Reich und die Güter, „die kein Auge gesehen und kein Ohr gehört hat und die in keines Menschen Herz hinaufgestiegen sind[^bible-4313cd42-b467-4c5b-8091-dd0fa139c644]“\. Denn all das hat er uns durch jene Gnadengabe geschenkt\. Darum war es überflüssig, von den Zeichen zu sprechen, die unmittelbar eintreten und mit den Augen beurteilt werden sollten\. Vielmehr musste über jene Dinge gesprochen werden, an denen sie zweifelten: dass er der Sohn Gottes ist, dass er Johannes unvergleichlich überragt, dass er die Sünde der Welt wegnimmt, dass er Rechenschaft für das Getane fordern wird, dass unsere Sache nicht auf das Gegenwärtige beschränkt ist, sondern dass dort jeder die verdiente Strafe auf sich nehmen wird\. Denn dies ließ sich damals noch nicht durch Anschauen vor Augen stellen\.
+Wenn er also die Apostel und alle,
+die es wollen,
+nicht Tag für Tag mit dem Geist getauft hätte,
+könntest du auch an jenem Zweifel haben\.
+Wenn aber das Größere,
+das,
+was schwieriger zu sein scheint und alles Denken übersteigt,
+geschehen ist und Tag für Tag geschieht,
+wie kannst du dann sagen,
+das Leichte,
+das der Vernunft gemäß geschieht,
+sei nicht wahr?
+Denn nachdem er gesagt hatte,
+er werde mit Heiligem Geist und Feuer taufen,
+und daraus große Güter verheißen hatte,
+fügte er,
+damit du nach der Vergebung aller früheren Sünden nicht sorglos wirst,
+die Wurfschaufel hinzu und das Gericht,
+das sich durch sie zeigt\.
+Denn meint ja nicht,
+sagt er,
+die Taufe genüge,
+wenn ihr danach schlecht werdet;
+wir brauchen auch Tugend und viel geübte Lebensweisheit\.
+Darum treibt er sie durch die Axt zur Gnade und zum Taufbad;
+nach der Gnade aber schreckt er sie durch die Wurfschaufel und das unauslöschliche Feuer\.
+Vor der Taufe macht er keinen Unterschied,
+sondern sagt schlicht:
+„Jeder Baum,
+der keine gute Frucht bringt,
+wird abgehauen[^bible-8a9dc4a3-efa5-45ae-aa80-47d9a4fd2401]“,
+und bestraft damit alle Ungläubigen\.
+Nach der Taufe aber nimmt er eine gewisse Scheidung vor,
+weil viele von denen,
+die gläubig geworden waren,
+ein Leben zeigen sollten,
+das des Glaubens unwürdig ist\.
+Keiner werde also zu Spreu,
+keiner sei leicht hin und her zu treiben,
+keiner liege den bösen Begierden preisgegeben da und lasse sich überall von ihnen mühelos aufwirbeln\.
+Denn wenn du Weizen bleibst,
+wirst du nichts Schlimmes erleiden,
+auch wenn Versuchung über dich kommt;
+auch auf der Tenne zerschneiden die sägeartigen Räder des Wagens den Weizen nicht\.
+Wenn du aber in die Schwäche der Spreu absinkst,
+wirst du schon hier unheilbaren Schaden nehmen,
+von allem umhergeschlagen,
+und dort die unsterbliche Strafe auf dich nehmen\.
+Denn alle solche Menschen werden schon vor jenem Ofen hier zur Nahrung für die vernunftlosen Leidenschaften,
+wie die Spreu für die unvernünftigen Tiere;
+und dort wiederum werden sie Stoff und Nahrung für das Feuer\.
+Hätte er nun geradeheraus gesagt,
+dass er selbst über das,
+was getan wird,
+Gericht halten werde,
+hätte das seine Rede nicht so leicht annehmbar gemacht\.
+Dass er aber das Gleichnis einfügte und dadurch das Ganze begründete,
+überzeugte stärker und zog den Hörer mit umso gewinnenderer Milde an sich\.
+Deshalb spricht er selbst auch meist so zu ihnen:
+Er mischt Tenne,
+Ernte,
+Weinberg,
+Kelter,
+Acker,
+Netz,
+Fischfang und all das Gewohnte,
+worin sie sich bewegten,
+in seine Worte hinein\.
+Genau das hat auch der Täufer hier getan und als größten Beweis für das Gesagte die Gabe des Geistes angeführt\.
+Denn wer so Großes vermag,
+dass er sogar Sünden vergibt und den Geist gibt,
+der wird erst recht auch dies vermögen,
+sagt er\.
+Siehst du,
+wie er schon folgerichtig das Geheimnis der Auferstehung und des Gerichts vorauslegte?
+Und weshalb,
+sagt man,
+nannte er nicht die Zeichen und Wunder,
+die unmittelbar durch ihn geschehen sollten?
+Weil dies größer war als alles und weil um dessentwillen all jene Dinge geschahen\.
+Denn indem er den Kern nannte,
+umfasste er alles:
+die Auflösung des Todes,
+die Wegnahme der Sünden,
+das Verschwinden des Fluches,
+die Befreiung von den langwährenden Kriegen,
+den Eingang ins Paradies,
+den Aufstieg in die Himmel,
+das Leben mit den Engeln,
+die Teilhabe an den künftigen Gütern;
+denn der Geist ist das Angeld jener Dinge\.
+Nachdem er also dies gesagt hatte,
+sagte er auch die Auferstehung der Leiber,
+den Erweis der Zeichen hier,
+die Teilhabe am Reich und die Güter,
+„die kein Auge gesehen und kein Ohr gehört hat und die in keines Menschen Herz hinaufgestiegen sind[^bible-4313cd42-b467-4c5b-8091-dd0fa139c644]“\.
+Denn all das hat er uns durch jene Gnadengabe geschenkt\.
+Darum war es überflüssig,
+von den Zeichen zu sprechen,
+die unmittelbar eintreten und mit den Augen beurteilt werden sollten\.
+Vielmehr musste über jene Dinge gesprochen werden,
+an denen sie zweifelten:
+dass er der Sohn Gottes ist,
+dass er Johannes unvergleichlich überragt,
+dass er die Sünde der Welt wegnimmt,
+dass er Rechenschaft für das Getane fordern wird,
+dass unsere Sache nicht auf das Gegenwärtige beschränkt ist,
+sondern dass dort jeder die verdiente Strafe auf sich nehmen wird\.
+Denn dies ließ sich damals noch nicht durch Anschauen vor Augen stellen\.
 
 ## Bibelverweise
 

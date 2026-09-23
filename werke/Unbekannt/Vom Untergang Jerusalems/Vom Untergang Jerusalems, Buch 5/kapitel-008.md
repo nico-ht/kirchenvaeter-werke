@@ -7,6 +7,45 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-5#kapitel-2ad117ed-21d0-4180-2787-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d4d8e6092d8b44f9765ad0b3781adfd9eba2f714438d3066921d3e67fd650845`
-
-Danach richtete Titus seinen Zorn gegen den Feind\. Er bedachte, wie gefährlich eine Blockade inmitten so vieler jäher und steiler Stellen war: Bei unerwarteten Ausfällen hatten die überholten Soldaten keine Möglichkeit, ihre Stellung wiederzugewinnen, dem Feind zuvorzukommen oder Kriegsmaschinen aufzustellen\. Deshalb befahl er, die Steilhänge vor der Stadt aufzufüllen\. Als dies geschehen war, stellten die jüdischen Ausfälle nicht einmal mehr eine unmittelbare Gefahr dar\. Sie litten unter ihrem inneren Kampf, während die Römer damit beschäftigt waren, die Steilhänge aufzufüllen\. Auch war die Schar auf keiner der beiden Seiten klein\. Bei Simon standen zehntausend Mann und ihre fünfzig Anführer\. Auch die Idumäer, fünftausend an der Zahl, hatten sich der Partei Simons angeschlossen; über sie standen Iacobus und Simon der Jüngere\. Johannes aber hatte durch jene List, von der wir früher gesprochen haben, das Innere des Tempels besetzt und schürte, zusammengedrängt mit sechstausend Bewaffneten, den Kampf\. Zu ihm stießen zweitausend und weitere vierhundert Männer, nachdem sie begonnen hatten, sich in einmütigem Geist zur Verteidigung der Stadt zu verbinden; Eleazarus und Simon Arinis hatten sie zuvor als Anführer gebraucht\. Während diese um Beute gegeneinander kämpften, stand das Volk zwischen den Siegern, als würde der Preis des Wettstreits je nach wechselndem Ausgang hin und her übertragen\. Für kurze Zeit waren sie nach Art eines Waffenstillstands zusammengekommen und beim ersten Angriff der Römer aufgerüttelt worden; doch mit krankem Inneren fielen sie in die alte Krankheit des inneren Fiebers zurück, sobald der Anfall der äußeren Krankheiten nachließ\. Draußen herrschte überall Krieg, drinnen Aufruhr, und dieser war noch schwerer, weil der Aufruhr selbst zugleich vom Krieg genährt wurde und den Krieg nährte\. Die beiden Parteien kämpften um die Herrschaft; das Volk zwischen beiden sorgte sich nicht um die Knechtschaft, sondern darum, nicht dem schlimmsten Herrn in die Hände zu fallen\.
+Danach richtete Titus seinen Zorn gegen den Feind\.
+Er bedachte,
+wie gefährlich eine Blockade inmitten so vieler jäher und steiler Stellen war:
+Bei unerwarteten Ausfällen hatten die überholten Soldaten keine Möglichkeit,
+ihre Stellung wiederzugewinnen,
+dem Feind zuvorzukommen oder Kriegsmaschinen aufzustellen\.
+Deshalb befahl er,
+die Steilhänge vor der Stadt aufzufüllen\.
+Als dies geschehen war,
+stellten die jüdischen Ausfälle nicht einmal mehr eine unmittelbare Gefahr dar\.
+Sie litten unter ihrem inneren Kampf,
+während die Römer damit beschäftigt waren,
+die Steilhänge aufzufüllen\.
+Auch war die Schar auf keiner der beiden Seiten klein\.
+Bei Simon standen zehntausend Mann und ihre fünfzig Anführer\.
+Auch die Idumäer,
+fünftausend an der Zahl,
+hatten sich der Partei Simons angeschlossen;
+über sie standen Iacobus und Simon der Jüngere\.
+Johannes aber hatte durch jene List,
+von der wir früher gesprochen haben,
+das Innere des Tempels besetzt und schürte,
+zusammengedrängt mit sechstausend Bewaffneten,
+den Kampf\.
+Zu ihm stießen zweitausend und weitere vierhundert Männer,
+nachdem sie begonnen hatten,
+sich in einmütigem Geist zur Verteidigung der Stadt zu verbinden;
+Eleazarus und Simon Arinis hatten sie zuvor als Anführer gebraucht\.
+Während diese um Beute gegeneinander kämpften,
+stand das Volk zwischen den Siegern,
+als würde der Preis des Wettstreits je nach wechselndem Ausgang hin und her übertragen\.
+Für kurze Zeit waren sie nach Art eines Waffenstillstands zusammengekommen und beim ersten Angriff der Römer aufgerüttelt worden;
+doch mit krankem Inneren fielen sie in die alte Krankheit des inneren Fiebers zurück,
+sobald der Anfall der äußeren Krankheiten nachließ\.
+Draußen herrschte überall Krieg,
+drinnen Aufruhr,
+und dieser war noch schwerer,
+weil der Aufruhr selbst zugleich vom Krieg genährt wurde und den Krieg nährte\.
+Die beiden Parteien kämpften um die Herrschaft;
+das Volk zwischen beiden sorgte sich nicht um die Knechtschaft,
+sondern darum,
+nicht dem schlimmsten Herrn in die Hände zu fallen\.

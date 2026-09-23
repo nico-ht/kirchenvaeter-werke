@@ -7,6 +7,54 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-3#kapitel-31728d2c-15ef-4a91-9769-08dd0a5c7235).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:8f59debfb21a157d0eed3ff792daa0439cc85036e2ef34bb541e45b6577a13f6`
-
-Bei dieser Ankündigung weinte das ganze Volk, als sie hörten, dass er sie verlassen würde\. Auch Petrus, der mit ihnen mitfühlte, vergoss Tränen\. Er blickte zum Himmel und sagte: "Zu Dir, o Gott, der Du Himmel und Erde und alles, was darin ist, geschaffen hast, bringen wir das Gebet der Bitte dar, dass Du diejenigen tröstest, die in ihrer Not zu Dir fliehen\. Wegen der Zuneigung, die sie zu Dir haben, lieben sie mich, der ich ihnen Deine Wahrheit verkündet habe\. Bewahre sie daher mit der rechten Hand Deiner Barmherzigkeit; denn weder Zacchäus noch ein anderer Mensch kann ihnen ausreichend Schutz bieten\." Nachdem er dies und noch mehr in ähnlichem Sinne gesagt hatte, legte er seine Hände auf Zacchäus und betete, dass er die Pflichten seines Bischofsamtes ohne Tadel erfüllen möge\. Dann ordinierte er zwölf Presbyter und vier Diakone und sagte: "Ich habe diesen Zacchäus als Bischof eingesetzt, da ich weiß, dass er Gottesfurcht hat und in den Schriften bewandert ist\. Ihr sollt ihn daher ehren, da er den Platz Christi einnimmt, ihm gehorchen zu eurem Heil und wissen, dass jede Ehre und jede Verletzung, die ihm angetan werden, auf Christus zurückfällt und von Christus zu Gott gelangt\. Hört ihm daher mit aller Aufmerksamkeit zu und empfangt von ihm die Lehre des Glaubens; von den Presbytern die Ermahnungen zum Leben; und von den Diakonen die Ordnung der Disziplin\. Kümmert euch religiös um Witwen; helft Waisenkindern tatkräftig; habt Mitleid mit den Armen; lehrt die Jungen die Bescheidenheit; und kurz gesagt, unterstützt einander, wie es die Umstände erfordern\. Verehrt Gott, der Himmel und Erde geschaffen hat; glaubt an Christus; liebt einander; seid allen gegenüber barmherzig; und erfüllt die Nächstenliebe nicht nur mit Worten, sondern auch mit Taten und Werken\."
+Bei dieser Ankündigung weinte das ganze Volk,
+als sie hörten,
+dass er sie verlassen würde\.
+Auch Petrus,
+der mit ihnen mitfühlte,
+vergoss Tränen\.
+Er blickte zum Himmel und sagte:
+"Zu Dir,
+o Gott,
+der Du Himmel und Erde und alles,
+was darin ist,
+geschaffen hast,
+bringen wir das Gebet der Bitte dar,
+dass Du diejenigen tröstest,
+die in ihrer Not zu Dir fliehen\.
+Wegen der Zuneigung,
+die sie zu Dir haben,
+lieben sie mich,
+der ich ihnen Deine Wahrheit verkündet habe\.
+Bewahre sie daher mit der rechten Hand Deiner Barmherzigkeit;
+denn weder Zacchäus noch ein anderer Mensch kann ihnen ausreichend Schutz bieten\."
+Nachdem er dies und noch mehr in ähnlichem Sinne gesagt hatte,
+legte er seine Hände auf Zacchäus und betete,
+dass er die Pflichten seines Bischofsamtes ohne Tadel erfüllen möge\.
+Dann ordinierte er zwölf Presbyter und vier Diakone und sagte:
+"Ich habe diesen Zacchäus als Bischof eingesetzt,
+da ich weiß,
+dass er Gottesfurcht hat und in den Schriften bewandert ist\.
+Ihr sollt ihn daher ehren,
+da er den Platz Christi einnimmt,
+ihm gehorchen zu eurem Heil und wissen,
+dass jede Ehre und jede Verletzung,
+die ihm angetan werden,
+auf Christus zurückfällt und von Christus zu Gott gelangt\.
+Hört ihm daher mit aller Aufmerksamkeit zu und empfangt von ihm die Lehre des Glaubens;
+von den Presbytern die Ermahnungen zum Leben;
+und von den Diakonen die Ordnung der Disziplin\.
+Kümmert euch religiös um Witwen;
+helft Waisenkindern tatkräftig;
+habt Mitleid mit den Armen;
+lehrt die Jungen die Bescheidenheit;
+und kurz gesagt,
+unterstützt einander,
+wie es die Umstände erfordern\.
+Verehrt Gott,
+der Himmel und Erde geschaffen hat;
+glaubt an Christus;
+liebt einander;
+seid allen gegenüber barmherzig;
+und erfüllt die Nächstenliebe nicht nur mit Worten,
+sondern auch mit Taten und Werken\."

@@ -7,6 +7,38 @@ Autor: Apollonius von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apollonius-von-rom/der-prozess-gegen-apollonius#kapitel-4c053fab-f6dd-42c2-2bba-08dd4a0b76b4).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:662c320c87778067a09ae5bcfd74957f5ee274e554cd58508823b7a36859fadc`
-
-Perennius sagte: „Ich weiß nicht, was ich sagen soll, und ich verstehe, rechtlich gesprochen, auch nicht, was du sagst\.“ Apollonius sagte: „Wie kann ich mit jemandem mitfühlen, der so wirklich nicht versteht, wie schön die Gnade ist? Zu einem sehenden Herzen, Perennius, gehört der Logos des Herrn, wie zu sehenden Augen das Licht gehört; denn niemand hat Nutzen davon, zu den Unverständigen zu sprechen, wie auch die Blinden keinen Nutzen vom Licht haben\.“ Ein kynischer Philosoph sagte: „Apollonius, du beleidigst dich selbst\. Du irrst dich sehr, auch wenn du glaubst, ein tiefsinniger Denker zu sein\.“ Apollonius antwortete: „Ich habe gelernt zu beten, nicht zu beleidigen\. Wenn du weiter eine übertriebene Verteidigung vorbringst, wird deine Antwort die Blindheit deines Herzens zeigen\. Denn dem wirklich Unverständigen gilt die Wahrheit als Beleidigung\.“ Perennius sagte: „Auch wir wissen, dass das Wort Gottes der Erzeuger von Seele und Leib der Gerechten ist, das denkt und lehrt, was Gott gefällt\.“
+Perennius sagte:
+„Ich weiß nicht,
+was ich sagen soll,
+und ich verstehe,
+rechtlich gesprochen,
+auch nicht,
+was du sagst\.“
+Apollonius sagte:
+„Wie kann ich mit jemandem mitfühlen,
+der so wirklich nicht versteht,
+wie schön die Gnade ist?
+Zu einem sehenden Herzen,
+Perennius,
+gehört der Logos des Herrn,
+wie zu sehenden Augen das Licht gehört;
+denn niemand hat Nutzen davon,
+zu den Unverständigen zu sprechen,
+wie auch die Blinden keinen Nutzen vom Licht haben\.“
+Ein kynischer Philosoph sagte:
+„Apollonius,
+du beleidigst dich selbst\.
+Du irrst dich sehr,
+auch wenn du glaubst,
+ein tiefsinniger Denker zu sein\.“
+Apollonius antwortete:
+„Ich habe gelernt zu beten,
+nicht zu beleidigen\.
+Wenn du weiter eine übertriebene Verteidigung vorbringst,
+wird deine Antwort die Blindheit deines Herzens zeigen\.
+Denn dem wirklich Unverständigen gilt die Wahrheit als Beleidigung\.“
+Perennius sagte:
+„Auch wir wissen,
+dass das Wort Gottes der Erzeuger von Seele und Leib der Gerechten ist,
+das denkt und lehrt,
+was Gott gefällt\.“

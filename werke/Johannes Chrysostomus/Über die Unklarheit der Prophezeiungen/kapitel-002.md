@@ -7,11 +7,169 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-die-unklarheit-der-prophezeiungen#kapitel-f3bb4d16-feaa-4862-73bc-08df05e0ddd9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3a73420bb83d2ba157ec10ce477f0576c7ae5854300685d2f1910f09051d71ed`
+So wollen auch wir es machen\.
+Mag das Meer der Propheten auch grenzenlos sein und viele Tiefen bergen,
+wagen wir uns nach unserem Vermögen darauf hinaus\.
+Oder vielmehr:
+nicht nach unserem Vermögen,
+sondern nach der Gnade,
+die uns von oben geschenkt wurde;
+nicht weil wir selbst uns das zutrauen,
+sondern um euch zu nützen\.
+Wagen wir uns also auf das Meer hinaus und folgen wir auch darin dem Beispiel des Paulus\.
+Dass er ihnen die Lehre über Melchisedek nicht vorenthielt,
+könnt ihr aus dem Folgenden erkennen\.
+Nachdem er gesagt hatte:
+„Über ihn haben wir viel zu sagen,
+und es ist schwer auszulegen[^bible-6654abd8-0537-4208-ae04-d356d3238b28]“,
+fuhr er fort:
+„Dieser Melchisedek nämlich,
+König der Gerechtigkeit und dann auch König von Salem,
+das heißt König des Friedens,
+ohne Vater,
+ohne Mutter,
+ohne Stammbaum,
+ohne Anfang seiner Tage und ohne Ende seines Lebens,
+dem Sohn Gottes gleichgestaltet,
+bleibt Priester für immer\.[^bible-188453ae-0f1a-49ba-99ca-9683bbc0a8c9]“ Hat Paulus euch nicht verstört,
+als er von einem Menschen sprach und sagte:
+„ohne Vater,
+ohne Mutter“?
+Doch warum sage ich:
+von einem Menschen?
+Selbst wenn dies von Christus gesagt wäre,
+gäbe es uns nicht auch dann viel zu untersuchen?
+Denn wenn er keinen Vater hat,
+wie kann er Sohn sein?
+Wenn er keinen Vater hat,
+wie kann er der einziggeborene Sohn sein?
+Ein Sohn muss doch einen Vater haben,
+sonst wäre er kein Sohn\.
+Und doch ist der Sohn Gottes ohne Vater und ohne Mutter\.
+Wie ist das zu verstehen?
+Bei seiner irdischen Geburt war er ohne Vater,
+bei seiner himmlischen ohne Mutter;
+denn auf der Erde hatte er keinen Vater und im Himmel keine Mutter\.
+„Ohne Stammbaum[^bible-10ab75a0-6281-44fa-a43a-a316d53e2d56]“:
+Das sollen jene hören,
+die seine Substanz neugierig erforschen\.
+Manche meinen allerdings,
+die Worte „ohne Stammbaum“ seien nur von seiner himmlischen Geburt gesagt\.
+Die Häretiker wollen nicht einmal das gelten lassen,
+denn sie erforschen auch diese Geburt vermessen und bis ins Einzelne\.
+Andere,
+die vernünftiger sind als sie,
+lassen dies zwar für die himmlische Geburt gelten,
+meinen aber,
+die Worte „ohne Stammbaum“ bezögen sich nicht auch auf die irdische\.
+Zeigen wir also,
+dass Paulus dies von beiden Geburten gesagt hat,
+von der himmlischen wie von der irdischen\.
+Denn jene erfüllt uns mit Ehrfurcht,
+und diese ist zutiefst geheimnisvoll\.
+Darum sagt auch Jesaja:
+„Wer wird seine Herkunft schildern?[^bible-bb68b5ec-94c1-48f7-8f93-2a6a205cbeec]“ Aber er habe,
+so wendet man ein,
+von der himmlischen Herkunft gesprochen\.
+Was werden wir dann Paulus entgegnen,
+der beide Geburten nennt und erst danach hinzufügt:
+„ohne Stammbaum“?
+Zuerst sagt er nämlich:
+„ohne Vater,
+ohne Mutter“,
+und erst dann fügt er „ohne Stammbaum“ hinzu\.
+So sollst du glauben,
+dass er nicht nur nach jener Geburt ohne Stammbaum ist,
+bei der er ohne Mutter ist,
+sondern auch nach der anderen,
+bei der er ohne Vater war,
+ich meine die irdische\.
+Deshalb nennt Paulus zuerst beide Geburten und sagt erst dann „ohne Stammbaum“\.
+Denn auch diese irdische Geburt ist unbegreiflich,
+damit wir es nicht einmal wagen,
+einen Blick in jene andere zu werfen\.
 
-So wollen auch wir es machen\. Mag das Meer der Propheten auch grenzenlos sein und viele Tiefen bergen, wagen wir uns nach unserem Vermögen darauf hinaus\. Oder vielmehr: nicht nach unserem Vermögen, sondern nach der Gnade, die uns von oben geschenkt wurde; nicht weil wir selbst uns das zutrauen, sondern um euch zu nützen\. Wagen wir uns also auf das Meer hinaus und folgen wir auch darin dem Beispiel des Paulus\. Dass er ihnen die Lehre über Melchisedek nicht vorenthielt, könnt ihr aus dem Folgenden erkennen\. Nachdem er gesagt hatte: „Über ihn haben wir viel zu sagen, und es ist schwer auszulegen[^bible-6654abd8-0537-4208-ae04-d356d3238b28]“, fuhr er fort: „Dieser Melchisedek nämlich, König der Gerechtigkeit und dann auch König von Salem, das heißt König des Friedens, ohne Vater, ohne Mutter, ohne Stammbaum, ohne Anfang seiner Tage und ohne Ende seines Lebens, dem Sohn Gottes gleichgestaltet, bleibt Priester für immer\.[^bible-188453ae-0f1a-49ba-99ca-9683bbc0a8c9]“ Hat Paulus euch nicht verstört, als er von einem Menschen sprach und sagte: „ohne Vater, ohne Mutter“? Doch warum sage ich: von einem Menschen? Selbst wenn dies von Christus gesagt wäre, gäbe es uns nicht auch dann viel zu untersuchen? Denn wenn er keinen Vater hat, wie kann er Sohn sein? Wenn er keinen Vater hat, wie kann er der einziggeborene Sohn sein? Ein Sohn muss doch einen Vater haben, sonst wäre er kein Sohn\. Und doch ist der Sohn Gottes ohne Vater und ohne Mutter\. Wie ist das zu verstehen? Bei seiner irdischen Geburt war er ohne Vater, bei seiner himmlischen ohne Mutter; denn auf der Erde hatte er keinen Vater und im Himmel keine Mutter\. „Ohne Stammbaum[^bible-10ab75a0-6281-44fa-a43a-a316d53e2d56]“: Das sollen jene hören, die seine Substanz neugierig erforschen\. Manche meinen allerdings, die Worte „ohne Stammbaum“ seien nur von seiner himmlischen Geburt gesagt\. Die Häretiker wollen nicht einmal das gelten lassen, denn sie erforschen auch diese Geburt vermessen und bis ins Einzelne\. Andere, die vernünftiger sind als sie, lassen dies zwar für die himmlische Geburt gelten, meinen aber, die Worte „ohne Stammbaum“ bezögen sich nicht auch auf die irdische\. Zeigen wir also, dass Paulus dies von beiden Geburten gesagt hat, von der himmlischen wie von der irdischen\. Denn jene erfüllt uns mit Ehrfurcht, und diese ist zutiefst geheimnisvoll\. Darum sagt auch Jesaja: „Wer wird seine Herkunft schildern?[^bible-bb68b5ec-94c1-48f7-8f93-2a6a205cbeec]“ Aber er habe, so wendet man ein, von der himmlischen Herkunft gesprochen\. Was werden wir dann Paulus entgegnen, der beide Geburten nennt und erst danach hinzufügt: „ohne Stammbaum“? Zuerst sagt er nämlich: „ohne Vater, ohne Mutter“, und erst dann fügt er „ohne Stammbaum“ hinzu\. So sollst du glauben, dass er nicht nur nach jener Geburt ohne Stammbaum ist, bei der er ohne Mutter ist, sondern auch nach der anderen, bei der er ohne Vater war, ich meine die irdische\. Deshalb nennt Paulus zuerst beide Geburten und sagt erst dann „ohne Stammbaum“\. Denn auch diese irdische Geburt ist unbegreiflich, damit wir es nicht einmal wagen, einen Blick in jene andere zu werfen\.
-
-Wenn schon die Vorhallen des Tempels so furchterregend und unzugänglich sind, wie sollte dann jemand versuchen, in das Allerheiligste einzudringen? Dass der Sohn aus dem Vater gezeugt wurde, weiß ich; wie aber, weiß ich nicht\. Dass er von der Jungfrau geboren wurde, weiß ich; doch auch hier kann ich die Art und Weise nicht begreifen\. Bei beiden Naturen wird die Geburt bekannt, doch über die Art und Weise wird bei beiden geschwiegen\. Hier bei der Jungfrau weiß ich nicht, wie er von einer Jungfrau geboren wurde, und bekenne dennoch, dass er geboren wurde\. Ich leugne die Tatsache nicht, nur weil ich die Art und Weise nicht kenne\. So sollst auch du es beim Vater halten: Auch wenn du nicht weißt, wie er gezeugt wurde, bekenne, dass er gezeugt wurde\. Und wenn der Häretiker dich fragt: „Wie wurde der Sohn aus dem Vater gezeugt?“, dann zwing seinen Hochmut zu Boden und antworte ihm: „Steig vom Himmel herab und zeige, wie er von der Jungfrau geboren wurde; dann kannst du jene Fragen stellen\.“ Halte ihn fest, umzingele ihn und lass ihn weder entkommen noch sich in das Labyrinth seiner Gedanken zurückziehen\. Halte ihn fest und schnüre ihm die Kehle zu, nicht mit der Hand, sondern mit dem Wort\. Gewähre ihm nicht die Spielräume und Fluchtwege, die er haben will\. Nur deshalb stiften sie bei ihren Gesprächspartnern Verwirrung: weil wir ihnen folgen, statt sie den Gesetzen der göttlichen Schriften zu unterwerfen\. Umgib ihn deshalb von allen Seiten mit einer Mauer aus Schriftzeugnissen, dann wird er nicht einmal den Mund öffnen können\. Sag zu ihm: „Wie wurde er von der Jungfrau geboren? Ich weiche keinen Schritt und ziehe mich nicht zurück\.“ Er könnte die Art und Weise nicht erklären, selbst wenn er noch so hartnäckig darum stritte\. Denn wenn Gott verschließt, wer wird dann noch öffnen? Solche Dinge lassen sich allein im Glauben annehmen\. Wenn du dich damit aber nicht zufriedengibst, sondern nach Erklärungen suchst, werde ich dir sagen, was Christus zu Nikodemus sagte: „Wenn ich euch das Irdische gesagt habe und ihr nicht glaubt, wie werdet ihr glauben, wenn ich euch das Himmlische sage?[^bible-cdd9184b-ac30-422c-8063-34c9504f995f]“ Ich habe von der Geburt aus der Jungfrau gesprochen, und du weißt nichts darüber, wagst nicht einmal den Mund zu öffnen und willst doch den Himmel ergründen? Wenn du doch nur den Himmel und nicht den Herrn des Himmels erforschen wolltest\! „Wenn ich euch das Irdische gesagt habe und ihr nicht glaubt\.[^bible-cdd9184b-ac30-422c-8063-34c9504f995f]“ Er sagte nicht: „Ihr lasst euch nicht überzeugen“, sondern: „Ihr glaubt nicht\.[^bible-cdd9184b-ac30-422c-8063-34c9504f995f]“ Damit zeigt er uns, dass selbst das Irdische Glauben verlangt\. Wenn aber schon das Irdische Glauben verlangt, dann erst recht das Himmlische\. Dabei sprach er damals mit Nikodemus über eine weit geringere Geburt, denn es ging um die Taufe und die geistliche Wiedergeburt\. Dennoch sagte er, dass auch dies nur im Glauben begriffen werden kann\. Er nannte es nicht deshalb irdisch, weil es irdisch wäre, sondern weil es auf der Erde geschieht und im Vergleich mit jener unaussprechlichen Geburt von oben, die jeden Verstand übersteigt, irdisch ist\. Wenn es also unmöglich ist zu wissen, wie ich aus dem Wasser wiedergeboren werde, wenn man vielmehr das Geschehen allein im Glauben annehmen muss und die Art und Weise nicht ergründen darf, welch ein Wahnsinn ist es dann, bei der himmlischen Geburt des einziggeborenen Sohnes menschliche Überlegungen anzustellen und Rechenschaft darüber zu fordern, wie diese Geburt geschah?
+Wenn schon die Vorhallen des Tempels so furchterregend und unzugänglich sind,
+wie sollte dann jemand versuchen,
+in das Allerheiligste einzudringen?
+Dass der Sohn aus dem Vater gezeugt wurde,
+weiß ich;
+wie aber,
+weiß ich nicht\.
+Dass er von der Jungfrau geboren wurde,
+weiß ich;
+doch auch hier kann ich die Art und Weise nicht begreifen\.
+Bei beiden Naturen wird die Geburt bekannt,
+doch über die Art und Weise wird bei beiden geschwiegen\.
+Hier bei der Jungfrau weiß ich nicht,
+wie er von einer Jungfrau geboren wurde,
+und bekenne dennoch,
+dass er geboren wurde\.
+Ich leugne die Tatsache nicht,
+nur weil ich die Art und Weise nicht kenne\.
+So sollst auch du es beim Vater halten:
+Auch wenn du nicht weißt,
+wie er gezeugt wurde,
+bekenne,
+dass er gezeugt wurde\.
+Und wenn der Häretiker dich fragt:
+„Wie wurde der Sohn aus dem Vater gezeugt?“,
+dann zwing seinen Hochmut zu Boden und antworte ihm:
+„Steig vom Himmel herab und zeige,
+wie er von der Jungfrau geboren wurde;
+dann kannst du jene Fragen stellen\.“
+Halte ihn fest,
+umzingele ihn und lass ihn weder entkommen noch sich in das Labyrinth seiner Gedanken zurückziehen\.
+Halte ihn fest und schnüre ihm die Kehle zu,
+nicht mit der Hand,
+sondern mit dem Wort\.
+Gewähre ihm nicht die Spielräume und Fluchtwege,
+die er haben will\.
+Nur deshalb stiften sie bei ihren Gesprächspartnern Verwirrung:
+weil wir ihnen folgen,
+statt sie den Gesetzen der göttlichen Schriften zu unterwerfen\.
+Umgib ihn deshalb von allen Seiten mit einer Mauer aus Schriftzeugnissen,
+dann wird er nicht einmal den Mund öffnen können\.
+Sag zu ihm:
+„Wie wurde er von der Jungfrau geboren?
+Ich weiche keinen Schritt und ziehe mich nicht zurück\.“
+Er könnte die Art und Weise nicht erklären,
+selbst wenn er noch so hartnäckig darum stritte\.
+Denn wenn Gott verschließt,
+wer wird dann noch öffnen?
+Solche Dinge lassen sich allein im Glauben annehmen\.
+Wenn du dich damit aber nicht zufriedengibst,
+sondern nach Erklärungen suchst,
+werde ich dir sagen,
+was Christus zu Nikodemus sagte:
+„Wenn ich euch das Irdische gesagt habe und ihr nicht glaubt,
+wie werdet ihr glauben,
+wenn ich euch das Himmlische sage?[^bible-cdd9184b-ac30-422c-8063-34c9504f995f]“ Ich habe von der Geburt aus der Jungfrau gesprochen,
+und du weißt nichts darüber,
+wagst nicht einmal den Mund zu öffnen und willst doch den Himmel ergründen?
+Wenn du doch nur den Himmel und nicht den Herrn des Himmels erforschen wolltest\!
+„Wenn ich euch das Irdische gesagt habe und ihr nicht glaubt\.[^bible-cdd9184b-ac30-422c-8063-34c9504f995f]“ Er sagte nicht:
+„Ihr lasst euch nicht überzeugen“,
+sondern:
+„Ihr glaubt nicht\.[^bible-cdd9184b-ac30-422c-8063-34c9504f995f]“ Damit zeigt er uns,
+dass selbst das Irdische Glauben verlangt\.
+Wenn aber schon das Irdische Glauben verlangt,
+dann erst recht das Himmlische\.
+Dabei sprach er damals mit Nikodemus über eine weit geringere Geburt,
+denn es ging um die Taufe und die geistliche Wiedergeburt\.
+Dennoch sagte er,
+dass auch dies nur im Glauben begriffen werden kann\.
+Er nannte es nicht deshalb irdisch,
+weil es irdisch wäre,
+sondern weil es auf der Erde geschieht und im Vergleich mit jener unaussprechlichen Geburt von oben,
+die jeden Verstand übersteigt,
+irdisch ist\.
+Wenn es also unmöglich ist zu wissen,
+wie ich aus dem Wasser wiedergeboren werde,
+wenn man vielmehr das Geschehen allein im Glauben annehmen muss und die Art und Weise nicht ergründen darf,
+welch ein Wahnsinn ist es dann,
+bei der himmlischen Geburt des einziggeborenen Sohnes menschliche Überlegungen anzustellen und Rechenschaft darüber zu fordern,
+wie diese Geburt geschah?
 
 ## Bibelverweise
 

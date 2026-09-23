@@ -7,9 +7,84 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-8f1ac742-c7ce-44f6-efeb-08de65b8739d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:56ad4c90c0d22c6cd80a4699a41c5fc649c131490daa1c1e4a771fb5dfb46979`
-
-"Ich möchte den ganzen Psalm zitieren, damit ihr hört, wie er seinen Vater verehrt und wie er alles auf ihn bezieht, so wie wenn er fleht, von ihm aus diesem Tod befreit zu werden; gleichzeitig zeigt er in dem Psalm auf, was für Menschen seine Feinde waren, und beweist, dass er tatsächlich ein Mensch wurde, der fähig war zu leiden\. Der Psalm lautet wie folgt: 'O Gott, mein Gott, sieh auf mich, warum hast du mich verlassen? Fern von meiner Rettung sind die Worte meiner Sünden\. O mein Gott, ich werde am Tag schreien, und du wirst nicht hören, und bei Nacht, und es geschieht mir nicht aus Unverstand\. Du aber wohnst im Heiligen, du Ruhm Israels\. Auf dich haben unsere Väter gehofft; sie haben gehofft, und du hast sie befreit\. Zu dir schrien sie, und sie wurden gerettet; auf dich vertrauten sie und wurden nicht beschämt\. Ich aber bin ein Wurm und kein Mensch; der Schimpf der Menschen und der Auswurf des Volkes\. Alle, die mich sahen, haben mich verhöhnt; sie haben mit den Lippen geredet und den Kopf geschüttelt: Er hat auf den Herrn gehofft, lass ihn ihn befreien; lass ihn ihn retten, da er ihn begehrt\. Denn du bist es, der mich aus dem Schoß gezogen hat; meine Hoffnung von den Brüsten meiner Mutter an\. Dir wurde ich übergeben vom Schoß an\. Vom Bauch meiner Mutter an bist du mein Gott\. Bleib nicht fern von mir, denn die Drangsal ist nahe; denn es gibt keinen, der mir hilft\. Viele Kälber haben mich umringt; fette Stiere haben mich umzingelt\. Sie haben ihren Mund gegen mich aufgerissen wie ein reißender und brüllender Löwe\. Alle meine Knochen sind ausgeschüttet und zerstreut wie Wasser\. Mein Herz ist wie Wachs geworden, das inmitten meines Bauches schmilzt\. Meine Kraft ist vertrocknet wie eine Scherbe, und meine Zunge klebt an meinem Gaumen; und du hast mich in den Staub des Todes hinabgebracht\. Denn viele Hunde haben mich umringt; eine Zusammenrottung von Übeltätern hat mich belagert\. Sie haben meine Hände und Füße durchbohrt\. Sie haben alle meine Knochen gezählt\. Und sie haben mich betrachtet und angestarrt\. Sie haben meine Kleider unter sich aufgeteilt, und über mein Gewand warfen sie das Los\. Du aber, o Herr, entferne deine Hilfe nicht von mir; achte auf meine Verteidigung\. Rette meine Seele vor dem Schwert und meine Einziggeborene aus dem Griff des Hundes\. Rette mich aus dem Maul des Löwen und meine Niedrigkeit vor den Hörnern der Einhörner\. Ich werde deinen Namen meinen Brüdern verkünden; mitten in der Versammlung werde ich dein Lob singen\. Die ihr den Herrn fürchtet, lobt ihn; all ihr Samen Jakobs, verherrlicht ihn\. Fürchte ihn, ganzer Samen Israels\.'[^bible-f09c26a2-9232-41e9-8c40-08bd9a164f9b]"
+"Ich möchte den ganzen Psalm zitieren,
+damit ihr hört,
+wie er seinen Vater verehrt und wie er alles auf ihn bezieht,
+so wie wenn er fleht,
+von ihm aus diesem Tod befreit zu werden;
+gleichzeitig zeigt er in dem Psalm auf,
+was für Menschen seine Feinde waren,
+und beweist,
+dass er tatsächlich ein Mensch wurde,
+der fähig war zu leiden\.
+Der Psalm lautet wie folgt:
+'O Gott,
+mein Gott,
+sieh auf mich,
+warum hast du mich verlassen?
+Fern von meiner Rettung sind die Worte meiner Sünden\.
+O mein Gott,
+ich werde am Tag schreien,
+und du wirst nicht hören,
+und bei Nacht,
+und es geschieht mir nicht aus Unverstand\.
+Du aber wohnst im Heiligen,
+du Ruhm Israels\.
+Auf dich haben unsere Väter gehofft;
+sie haben gehofft,
+und du hast sie befreit\.
+Zu dir schrien sie,
+und sie wurden gerettet;
+auf dich vertrauten sie und wurden nicht beschämt\.
+Ich aber bin ein Wurm und kein Mensch;
+der Schimpf der Menschen und der Auswurf des Volkes\.
+Alle,
+die mich sahen,
+haben mich verhöhnt;
+sie haben mit den Lippen geredet und den Kopf geschüttelt:
+Er hat auf den Herrn gehofft,
+lass ihn ihn befreien;
+lass ihn ihn retten,
+da er ihn begehrt\.
+Denn du bist es,
+der mich aus dem Schoß gezogen hat;
+meine Hoffnung von den Brüsten meiner Mutter an\.
+Dir wurde ich übergeben vom Schoß an\.
+Vom Bauch meiner Mutter an bist du mein Gott\.
+Bleib nicht fern von mir,
+denn die Drangsal ist nahe;
+denn es gibt keinen,
+der mir hilft\.
+Viele Kälber haben mich umringt;
+fette Stiere haben mich umzingelt\.
+Sie haben ihren Mund gegen mich aufgerissen wie ein reißender und brüllender Löwe\.
+Alle meine Knochen sind ausgeschüttet und zerstreut wie Wasser\.
+Mein Herz ist wie Wachs geworden,
+das inmitten meines Bauches schmilzt\.
+Meine Kraft ist vertrocknet wie eine Scherbe,
+und meine Zunge klebt an meinem Gaumen;
+und du hast mich in den Staub des Todes hinabgebracht\.
+Denn viele Hunde haben mich umringt;
+eine Zusammenrottung von Übeltätern hat mich belagert\.
+Sie haben meine Hände und Füße durchbohrt\.
+Sie haben alle meine Knochen gezählt\.
+Und sie haben mich betrachtet und angestarrt\.
+Sie haben meine Kleider unter sich aufgeteilt,
+und über mein Gewand warfen sie das Los\.
+Du aber,
+o Herr,
+entferne deine Hilfe nicht von mir;
+achte auf meine Verteidigung\.
+Rette meine Seele vor dem Schwert und meine Einziggeborene aus dem Griff des Hundes\.
+Rette mich aus dem Maul des Löwen und meine Niedrigkeit vor den Hörnern der Einhörner\.
+Ich werde deinen Namen meinen Brüdern verkünden;
+mitten in der Versammlung werde ich dein Lob singen\.
+Die ihr den Herrn fürchtet,
+lobt ihn;
+all ihr Samen Jakobs,
+verherrlicht ihn\.
+Fürchte ihn,
+ganzer Samen Israels\.'[^bible-f09c26a2-9232-41e9-8c40-08bd9a164f9b]"
 
 ## Bibelverweise
 

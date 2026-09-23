@@ -7,6 +7,72 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-1#kapitel-208255ed-bc50-4d9a-4870-08ded87107d6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5ac80c820bdb9b9a3c7ea75c8ea8802575d054923932612111fe06aca039f881`
-
-Daher war Mose, nachdem er der kundigste Hirte seiner Zeit geworden war und seine Herde mit größter Umsicht mit allem Notwendigen und allem, was ihr zum Vorteil gereichte, versorgte, weil er niemals säumte oder zögerte, sondern bei allem, was für die ihm anvertrauten Tiere nötig war, freiwillig und aus eigenem Antrieb freudige Bereitwilligkeit zeigte, bald gewahr, dass seine Herden in großer Freude und arglosem Vertrauen zunahmen\. So zog er rasch den Neid der anderen Hirten auf sich, die in ihren eigenen Herden nichts sahen, was dem Zustand der seinen glich; sie hielten sich schon für glücklich, wenn ihre Herden blieben wie zuvor, während man bei der Herde des Mose schon von einem Rückgang gesprochen hätte, wenn sie sich nicht täglich verbessert hätte: an Schönheit durch ihren ausgezeichneten Zustand und ihre Fettigkeit, an Zahl durch die Fruchtbarkeit der weiblichen Tiere und durch die gesunde Weise, in der sie ernährt und geführt wurde\. Und als Mose seine Herde an einen Ort führte, der reich an gutem Wasser und gutem Gras war, wo es auch viel Pflanzenwuchs gab, der besonders für Schafe geeignet war, kam er in einem Tal zu einem Hain; dort sah er ein höchst wunderbares Schauspiel\. Da stand ein Busch oder Dornstrauch, eine sehr dornige Pflanze, schwach und biegsam\. Plötzlich geriet dieser Busch in Brand, ohne dass irgendjemand Feuer an ihn gelegt hätte; und obwohl er von der Wurzel bis zum äußersten Zweig ganz von der reichen Flamme umhüllt war, als wäre sie aus irgendeiner Quelle hervorgeströmt, die Feuer über ihn ausgoss, blieb er dennoch unversehrt, ohne verzehrt zu werden, wie eine leidensunfähige Wesenheit, nicht als wäre er selbst der natürliche Brennstoff des Feuers, sondern vielmehr, als nähme er das Feuer als seinen eigenen Brennstoff auf\. Inmitten der Flamme aber erschien eine sehr schöne Gestalt, die keinem sichtbaren Ding glich, ein überaus gottähnliches Bild, das ein Licht ausstrahlte, glänzender als Feuer; man hätte meinen können, es sei das Bild des lebendigen Gottes\. Doch soll sie Engel genannt werden, weil sie die Ereignisse, die geschehen sollten, in einem Schweigen, das deutlicher war als jede Stimme, lediglich verkündete, durch das wunderbare Schauspiel, das so dargeboten wurde\. Denn der brennende Busch war ein Symbol des bedrängten Volkes, und das brennende Feuer war ein Symbol der Bedränger; und dass der brennende Busch nicht verzehrt wurde, war ein Sinnbild dafür, dass das so bedrängte Volk von denen, die es angriffen, nicht vernichtet werden würde, sondern dass ihre Feindschaft für die eine Seite erfolglos und fruchtlos bleiben und der gegen die andere Seite gerichtete Anschlag ihr keinen Schaden zufügen würde\. Der Engel wiederum war das Sinnbild der Vorsehung Gottes, die Umstände, die sehr furchtbar erscheinen, mildert, sodass aus ihnen große Ruhe entsteht, über alle Hoffnung und Erwartung hinaus\.
+Daher war Mose,
+nachdem er der kundigste Hirte seiner Zeit geworden war und seine Herde mit größter Umsicht mit allem Notwendigen und allem,
+was ihr zum Vorteil gereichte,
+versorgte,
+weil er niemals säumte oder zögerte,
+sondern bei allem,
+was für die ihm anvertrauten Tiere nötig war,
+freiwillig und aus eigenem Antrieb freudige Bereitwilligkeit zeigte,
+bald gewahr,
+dass seine Herden in großer Freude und arglosem Vertrauen zunahmen\.
+So zog er rasch den Neid der anderen Hirten auf sich,
+die in ihren eigenen Herden nichts sahen,
+was dem Zustand der seinen glich;
+sie hielten sich schon für glücklich,
+wenn ihre Herden blieben wie zuvor,
+während man bei der Herde des Mose schon von einem Rückgang gesprochen hätte,
+wenn sie sich nicht täglich verbessert hätte:
+an Schönheit durch ihren ausgezeichneten Zustand und ihre Fettigkeit,
+an Zahl durch die Fruchtbarkeit der weiblichen Tiere und durch die gesunde Weise,
+in der sie ernährt und geführt wurde\.
+Und als Mose seine Herde an einen Ort führte,
+der reich an gutem Wasser und gutem Gras war,
+wo es auch viel Pflanzenwuchs gab,
+der besonders für Schafe geeignet war,
+kam er in einem Tal zu einem Hain;
+dort sah er ein höchst wunderbares Schauspiel\.
+Da stand ein Busch oder Dornstrauch,
+eine sehr dornige Pflanze,
+schwach und biegsam\.
+Plötzlich geriet dieser Busch in Brand,
+ohne dass irgendjemand Feuer an ihn gelegt hätte;
+und obwohl er von der Wurzel bis zum äußersten Zweig ganz von der reichen Flamme umhüllt war,
+als wäre sie aus irgendeiner Quelle hervorgeströmt,
+die Feuer über ihn ausgoss,
+blieb er dennoch unversehrt,
+ohne verzehrt zu werden,
+wie eine leidensunfähige Wesenheit,
+nicht als wäre er selbst der natürliche Brennstoff des Feuers,
+sondern vielmehr,
+als nähme er das Feuer als seinen eigenen Brennstoff auf\.
+Inmitten der Flamme aber erschien eine sehr schöne Gestalt,
+die keinem sichtbaren Ding glich,
+ein überaus gottähnliches Bild,
+das ein Licht ausstrahlte,
+glänzender als Feuer;
+man hätte meinen können,
+es sei das Bild des lebendigen Gottes\.
+Doch soll sie Engel genannt werden,
+weil sie die Ereignisse,
+die geschehen sollten,
+in einem Schweigen,
+das deutlicher war als jede Stimme,
+lediglich verkündete,
+durch das wunderbare Schauspiel,
+das so dargeboten wurde\.
+Denn der brennende Busch war ein Symbol des bedrängten Volkes,
+und das brennende Feuer war ein Symbol der Bedränger;
+und dass der brennende Busch nicht verzehrt wurde,
+war ein Sinnbild dafür,
+dass das so bedrängte Volk von denen,
+die es angriffen,
+nicht vernichtet werden würde,
+sondern dass ihre Feindschaft für die eine Seite erfolglos und fruchtlos bleiben und der gegen die andere Seite gerichtete Anschlag ihr keinen Schaden zufügen würde\.
+Der Engel wiederum war das Sinnbild der Vorsehung Gottes,
+die Umstände,
+die sehr furchtbar erscheinen,
+mildert,
+sodass aus ihnen große Ruhe entsteht,
+über alle Hoffnung und Erwartung hinaus\.

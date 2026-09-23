@@ -7,9 +7,172 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/24-homilie-ueber-matthaeus#kapitel-98d5822d-4acc-48a1-5aa5-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c8f3ec80691bc72e95bf830091b33e92a9ad330402de492e93a97e617061e675`
-
-So war Ahab, aber so war Elija nicht\. Denn wenn wir Tugend und Schlechtigkeit nebeneinanderstellen, werden wir den Unterschied genauer erkennen\. Der eine baute auf den Felsen, der andere auf den Sand\. Darum fürchtete und zitterte er, obwohl er König war, vor dem Propheten, der nichts hatte als sein Schaffell\. So waren die Juden, aber nicht die Apostel\. Darum zeigten sie, obwohl sie wenige und gefesselt waren, die Festigkeit des Felsens; jene aber zeigten, obwohl sie viele und bewaffnet waren, die Schwäche des Sandes\. Denn sie sagten: „Was sollen wir diesen Menschen tun?[^bible-ccede5b3-4084-457e-9d83-3d51e4b65653]“ Siehst du, wer ratlos ist? Nicht die Unterworfenen und Gefesselten, sondern die, die sie festhalten und fesseln\. Was könnte seltsamer sein als das? Du hältst sie fest und bist ratlos? Und das mit gutem Grund\. Denn weil sie alles auf Sand gebaut hatten, waren sie schwächer als alle\. Darum sagten sie auch wieder: „Was tut ihr, da ihr das Blut dieses Menschen über uns bringen wollt?[^bible-b8e4676d-7130-419f-b832-e52d478770aa]“ Was sagt er? Du geißelst und fürchtest dich? Du misshandelst und hast Angst? Du richtest und zitterst? So schwach ist die Schlechtigkeit\. Aber die Apostel waren nicht so\. Wie denn? „Wir können nicht schweigen von dem, was wir gesehen und gehört haben\.[^bible-8ad1dcd0-096d-4407-a911-1a51ba722b43]“ Hast du den hohen Sinn gesehen? Hast du den Felsen gesehen, der über die Wellen lacht? Hast du das unerschütterliche Haus gesehen? Und das eigentlich noch Erstaunlichere ist: Sie wurden durch die Anschläge gegen sie nicht nur selbst nicht feige, sondern fassten noch größeren Mut und stürzten jene in noch größere Angst\. Denn wer den Diamanten schlägt, wird selbst geschlagen; wer gegen die Stacheln ausschlägt, wird selbst gestochen und empfängt schwere Wunden; und wer den Tugendhaften nachstellt, bringt sich selbst in Gefahr\. Denn die Schlechtigkeit wird umso schwächer, je mehr sie sich gegen die Tugend aufstellt\. Und wie einer, der Feuer in ein Kleid einschließt, die Flamme nicht löscht, sondern das Kleid verzehrt, so hat auch der, der die Tugendhaften misshandelt, festhält und fesselt, sie nur heller leuchten lassen, sich selbst aber zugrunde gerichtet\. Denn je Schlimmeres du erleidest, wenn du rechtschaffen lebst, desto stärker bist du geworden; je höher wir nämlich die Weisheit des Lebens achten, desto weniger werden wir irgendetwas brauchen; und je weniger wir irgendetwas brauchen, desto stärker werden wir und über allem stehen\. So war Johannes\. Darum konnte ihm niemand Schmerz zufügen, er aber fügte Herodes Schmerz zu\. Der, der nichts hatte, trat gegen den Machthaber auf; der aber, der Diadem, Purpur und tausendfachen Prunk um sich trug, zittert und fürchtet den, der von allem entblößt war, und konnte nicht einmal sein abgeschlagenes Haupt ohne Angst ansehen\. Dass seine Furcht auch nach dessen Tod noch in voller Kraft stand, höre, was er sagt: „Das ist Johannes, den ich habe töten lassen\.[^bible-c4229009-ac92-47dd-9b85-683aec7a9300]“ Dieses „ich habe töten lassen“ kam nicht aus Prahlerei, sondern daraus, dass er seine Furcht beschwichtigen und seine aufgewühlte Seele dazu bringen wollte, sich daran zu erinnern, dass er selbst ihn geschlachtet hatte\. So groß ist die Kraft der Tugend: Auch nach dem Tod ist sie stärker als die Lebenden\. Darum kamen auch, als er noch lebte, die, die viel Besitz hatten, zu ihm und sagten: „Was sollen wir tun?[^bible-efc28c19-d82d-4eb1-b8f0-e310722380eb]“ Ihr habt so viel und wollt von dem, der nichts hat, den Weg zu eurem Wohlergehen lernen? Die Reichen von dem Armen? Die Soldaten von dem, der nicht einmal ein Haus hat? So war auch Elija\. Darum sprach er mit derselben Freimütigkeit zum Volk\. Der eine sagte: „Schlangenbrut\![^bible-5fc5ca9e-c40a-453e-a431-b51ad0ae05e9]“ Dieser aber: „Wie lange hinkt ihr noch auf beiden Knien?“ Und der eine sagte: „Du hast gemordet und das Erbe an dich gerissen\.“ Der andere aber sagte: „Es ist dir nicht erlaubt, die Frau deines Bruders Philippus zu haben\.[^bible-71a0843d-7f3a-4630-a702-a0973c891cea]“ Hast du den Felsen gesehen? Hast du den Sand gesehen? Wie leicht fällt er zusammen\! Wie gibt er den Unglücken nach\! Wie wird er umgestürzt, auch wenn er mit einem König steht, mit einer Menge oder mit Macht\! Denn die Schlechtigkeit macht alle, die ihr nachgehen, stumpfer als alle\. Und sie fällt nicht einfach zusammen, sondern mit großem Unglück\. Denn „ihr Fall war groß[^bible-3a7dfd28-4601-45e3-a320-7ff30f6d439b]“, sagt er\. Die Gefahr geht ja nicht um Nebensachen, sondern um die Seele, um den Ausschluss vom Himmel und von jenen unsterblichen Gütern\. Mehr noch: Schon vor diesen Dingen wird der, der der Schlechtigkeit nachjagt, elender als alle sein Leben führen, weil er mit ständiger Niedergeschlagenheit, Feigheit, Sorgen und Ängsten zusammenlebt\. Darauf spielte auch ein Weiser an, als er sagte: „Der Gottlose flieht, obwohl ihn niemand verfolgt\.[^bible-a5bda759-7b07-4d6e-8134-4a4ef9970257]“ Denn solche Menschen zittern vor Schatten, verdächtigen Freunde und Feinde, Diener, die sie kennen, und die, die sie nicht kennen; und noch vor der Strafe zahlen sie schon hier die äußerste Strafe\. All das machte Christus deutlich, als er sagte: „Und ihr Fall war groß\.[^bible-3a7dfd28-4601-45e3-a320-7ff30f6d439b]“ So schloss er diese schönen Gebote mit dem passenden Ende ab und überzeugte auch die sehr Ungläubigen, schon wegen der gegenwärtigen Dinge vor der Schlechtigkeit zu fliehen\. Denn wenn auch die Rede von den künftigen Dingen gewichtiger ist, so ist doch diese eher imstande, die gröberen Menschen zurückzuhalten und von der Bosheit wegzuführen\. Darum endete er auch damit, damit ihnen der Nutzen im Ohr bleibt\. Da wir nun das alles wissen, das Gegenwärtige wie das Künftige, lasst uns vor der Schlechtigkeit fliehen und der Tugend nacheifern, damit wir uns nicht vergeblich und umsonst abmühen, sondern schon hier Sicherheit genießen und dort an der Herrlichkeit Anteil erhalten\. Möge es uns allen geschenkt werden, sie zu erlangen, durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus; ihm sei die Herrlichkeit und die Macht in alle Ewigkeit\. Amen\.
+So war Ahab,
+aber so war Elija nicht\.
+Denn wenn wir Tugend und Schlechtigkeit nebeneinanderstellen,
+werden wir den Unterschied genauer erkennen\.
+Der eine baute auf den Felsen,
+der andere auf den Sand\.
+Darum fürchtete und zitterte er,
+obwohl er König war,
+vor dem Propheten,
+der nichts hatte als sein Schaffell\.
+So waren die Juden,
+aber nicht die Apostel\.
+Darum zeigten sie,
+obwohl sie wenige und gefesselt waren,
+die Festigkeit des Felsens;
+jene aber zeigten,
+obwohl sie viele und bewaffnet waren,
+die Schwäche des Sandes\.
+Denn sie sagten:
+„Was sollen wir diesen Menschen tun?[^bible-ccede5b3-4084-457e-9d83-3d51e4b65653]“ Siehst du,
+wer ratlos ist?
+Nicht die Unterworfenen und Gefesselten,
+sondern die,
+die sie festhalten und fesseln\.
+Was könnte seltsamer sein als das?
+Du hältst sie fest und bist ratlos?
+Und das mit gutem Grund\.
+Denn weil sie alles auf Sand gebaut hatten,
+waren sie schwächer als alle\.
+Darum sagten sie auch wieder:
+„Was tut ihr,
+da ihr das Blut dieses Menschen über uns bringen wollt?[^bible-b8e4676d-7130-419f-b832-e52d478770aa]“ Was sagt er?
+Du geißelst und fürchtest dich?
+Du misshandelst und hast Angst?
+Du richtest und zitterst?
+So schwach ist die Schlechtigkeit\.
+Aber die Apostel waren nicht so\.
+Wie denn?
+„Wir können nicht schweigen von dem,
+was wir gesehen und gehört haben\.[^bible-8ad1dcd0-096d-4407-a911-1a51ba722b43]“ Hast du den hohen Sinn gesehen?
+Hast du den Felsen gesehen,
+der über die Wellen lacht?
+Hast du das unerschütterliche Haus gesehen?
+Und das eigentlich noch Erstaunlichere ist:
+Sie wurden durch die Anschläge gegen sie nicht nur selbst nicht feige,
+sondern fassten noch größeren Mut und stürzten jene in noch größere Angst\.
+Denn wer den Diamanten schlägt,
+wird selbst geschlagen;
+wer gegen die Stacheln ausschlägt,
+wird selbst gestochen und empfängt schwere Wunden;
+und wer den Tugendhaften nachstellt,
+bringt sich selbst in Gefahr\.
+Denn die Schlechtigkeit wird umso schwächer,
+je mehr sie sich gegen die Tugend aufstellt\.
+Und wie einer,
+der Feuer in ein Kleid einschließt,
+die Flamme nicht löscht,
+sondern das Kleid verzehrt,
+so hat auch der,
+der die Tugendhaften misshandelt,
+festhält und fesselt,
+sie nur heller leuchten lassen,
+sich selbst aber zugrunde gerichtet\.
+Denn je Schlimmeres du erleidest,
+wenn du rechtschaffen lebst,
+desto stärker bist du geworden;
+je höher wir nämlich die Weisheit des Lebens achten,
+desto weniger werden wir irgendetwas brauchen;
+und je weniger wir irgendetwas brauchen,
+desto stärker werden wir und über allem stehen\.
+So war Johannes\.
+Darum konnte ihm niemand Schmerz zufügen,
+er aber fügte Herodes Schmerz zu\.
+Der,
+der nichts hatte,
+trat gegen den Machthaber auf;
+der aber,
+der Diadem,
+Purpur und tausendfachen Prunk um sich trug,
+zittert und fürchtet den,
+der von allem entblößt war,
+und konnte nicht einmal sein abgeschlagenes Haupt ohne Angst ansehen\.
+Dass seine Furcht auch nach dessen Tod noch in voller Kraft stand,
+höre,
+was er sagt:
+„Das ist Johannes,
+den ich habe töten lassen\.[^bible-c4229009-ac92-47dd-9b85-683aec7a9300]“ Dieses „ich habe töten lassen“ kam nicht aus Prahlerei,
+sondern daraus,
+dass er seine Furcht beschwichtigen und seine aufgewühlte Seele dazu bringen wollte,
+sich daran zu erinnern,
+dass er selbst ihn geschlachtet hatte\.
+So groß ist die Kraft der Tugend:
+Auch nach dem Tod ist sie stärker als die Lebenden\.
+Darum kamen auch,
+als er noch lebte,
+die,
+die viel Besitz hatten,
+zu ihm und sagten:
+„Was sollen wir tun?[^bible-efc28c19-d82d-4eb1-b8f0-e310722380eb]“ Ihr habt so viel und wollt von dem,
+der nichts hat,
+den Weg zu eurem Wohlergehen lernen?
+Die Reichen von dem Armen?
+Die Soldaten von dem,
+der nicht einmal ein Haus hat?
+So war auch Elija\.
+Darum sprach er mit derselben Freimütigkeit zum Volk\.
+Der eine sagte:
+„Schlangenbrut\![^bible-5fc5ca9e-c40a-453e-a431-b51ad0ae05e9]“ Dieser aber:
+„Wie lange hinkt ihr noch auf beiden Knien?“
+Und der eine sagte:
+„Du hast gemordet und das Erbe an dich gerissen\.“
+Der andere aber sagte:
+„Es ist dir nicht erlaubt,
+die Frau deines Bruders Philippus zu haben\.[^bible-71a0843d-7f3a-4630-a702-a0973c891cea]“ Hast du den Felsen gesehen?
+Hast du den Sand gesehen?
+Wie leicht fällt er zusammen\!
+Wie gibt er den Unglücken nach\!
+Wie wird er umgestürzt,
+auch wenn er mit einem König steht,
+mit einer Menge oder mit Macht\!
+Denn die Schlechtigkeit macht alle,
+die ihr nachgehen,
+stumpfer als alle\.
+Und sie fällt nicht einfach zusammen,
+sondern mit großem Unglück\.
+Denn „ihr Fall war groß[^bible-3a7dfd28-4601-45e3-a320-7ff30f6d439b]“,
+sagt er\.
+Die Gefahr geht ja nicht um Nebensachen,
+sondern um die Seele,
+um den Ausschluss vom Himmel und von jenen unsterblichen Gütern\.
+Mehr noch:
+Schon vor diesen Dingen wird der,
+der der Schlechtigkeit nachjagt,
+elender als alle sein Leben führen,
+weil er mit ständiger Niedergeschlagenheit,
+Feigheit,
+Sorgen und Ängsten zusammenlebt\.
+Darauf spielte auch ein Weiser an,
+als er sagte:
+„Der Gottlose flieht,
+obwohl ihn niemand verfolgt\.[^bible-a5bda759-7b07-4d6e-8134-4a4ef9970257]“ Denn solche Menschen zittern vor Schatten,
+verdächtigen Freunde und Feinde,
+Diener,
+die sie kennen,
+und die,
+die sie nicht kennen;
+und noch vor der Strafe zahlen sie schon hier die äußerste Strafe\.
+All das machte Christus deutlich,
+als er sagte:
+„Und ihr Fall war groß\.[^bible-3a7dfd28-4601-45e3-a320-7ff30f6d439b]“ So schloss er diese schönen Gebote mit dem passenden Ende ab und überzeugte auch die sehr Ungläubigen,
+schon wegen der gegenwärtigen Dinge vor der Schlechtigkeit zu fliehen\.
+Denn wenn auch die Rede von den künftigen Dingen gewichtiger ist,
+so ist doch diese eher imstande,
+die gröberen Menschen zurückzuhalten und von der Bosheit wegzuführen\.
+Darum endete er auch damit,
+damit ihnen der Nutzen im Ohr bleibt\.
+Da wir nun das alles wissen,
+das Gegenwärtige wie das Künftige,
+lasst uns vor der Schlechtigkeit fliehen und der Tugend nacheifern,
+damit wir uns nicht vergeblich und umsonst abmühen,
+sondern schon hier Sicherheit genießen und dort an der Herrlichkeit Anteil erhalten\.
+Möge es uns allen geschenkt werden,
+sie zu erlangen,
+durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus;
+ihm sei die Herrlichkeit und die Macht in alle Ewigkeit\.
+Amen\.
 
 ## Bibelverweise
 

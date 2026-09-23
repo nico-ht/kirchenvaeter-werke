@@ -7,6 +7,77 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-4#kapitel-174f4eb7-1425-4658-2769-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a0ca783f0897115280cb76deba07fc589956b43a6786cc471e8b91f2b49f6afe`
-
-Während dies in Jerusalem geschah, unterwarf Vespasian inzwischen die übrigen Teile des Stammes Iudaea\. Ihm wurde berichtet, welche Bürgerzwietracht in Jerusalem herrschte, welches Blutbad sie sich in inneren Kämpfen selbst zufügten und welche Leiden Bürger Bürgern abverlangten\. Viele drängten ihn, dorthin zu eilen, damit dem römischen Triumph und seinem Ruhm nichts entzogen werde\. Doch er, ein maßvoller und besonnener Mann, hielt nicht für richtig, was die Meinung der Menge so beurteilte; vielmehr meinte er, die Sache aus der höheren Rücksicht auf das eigentliche Ziel führen zu müssen, und begann denen, die ihn dazu überreden wollten, in Erinnerung zu rufen, dass nicht der Staat es sei, der die Römer herausfordere\. Wenn aber jemand behauptet, unserem Ruhm werde etwas entzogen, so soll er lernen, dass eine Lösung in Ruhe stets aus Kämpfen Nutzen zieht, dass aber meist sogar nach Niederlegung der Waffen Lob erworben und jede Schuld des Landes gelöst wird\. „Was liegt daran, ob ein Feind durch unsere oder durch seine Waffen überwunden wird, wenn er nur durch eigene Waffen ohne römischen Unwillen überwunden wird? Denn sie können sich über uns nicht beklagen, wenn sie sich selbst verwundet haben\. Zugleich zeigen sie, dass sie einen wirklichen Krieg gegen uns gefördert haben, und zugleich schonen sie sich selbst nicht\. Diese Vergeltung, die man vom Himmel her sehen muss, dass sie mit Wahnsinn geschlagen werden, ist stets höher zu achten als ein Kampf unter Gefahr\. Schließlich hat unser Maximus Hannibal mehr durch Zögern als durch Kämpfen besiegt\. Zwar unterwarfen die Scipionen Africa; doch der Sieg in den Kriegen war vielen gemeinsam, während Maximus allein zugesprochen wird, dass er durch Zögern das römische Geschick wiederhergestellt hat\. Wichtiger ist es, das römische Reich bewahrt zu haben, als es vergrößert zu haben\. Vergleichen wir also die Verdienste der Tugenden\. Denn die Überlegungen der Weisheit sind auch im Krieg selbst nicht weniger wert als die Zeichen der Tapferkeit\. Sie sollen also durch ihre eigenen Waffen zugrunde gehen; dem Lob wird nichts genommen, und unserem Sieg wird vieles hinzugefügt\. Sie wissen nicht, dass die gerettet werden, die wir verschonen\. Was aber, wenn wir zu drohen beginnen? Vielleicht kommen sie untereinander zur Besinnung und kehren zur Gunst zurück, was ich nicht fürchte, sondern gegen eure Meinung vorbringe\. Wenn aber die Bürgerzwietracht fortbesteht, dann soll sichtbar werden, dass sie sich selbst bezwungen haben, dass das römische Heer nichts getan hat, dass unsere Hände untätig geblieben sind und der Sieg nicht durch unsere Tapferkeit, sondern durch das feindliche Blutbad unter ihnen selbst errungen wurde\. Und so soll niemand meinen, dieser klügere Rat, dass sie in unserer Abwesenheit bis zur eigenen Vernichtung rasen, habe sie mehr durch uns als durch ihre eigenen Parteiungen verstrickt\. Darum werden wir besser dann heranrücken, wenn ein Sieger übrig geblieben ist, der sich unserem Triumph anschließen wird\. Es sollen also die zu uns kommen, die vor den Ihren fliehen; sie sollen bei uns Sicherheit für sich finden, nachdem ihre eigene Plage sie zermürbt hat\.“
+Während dies in Jerusalem geschah,
+unterwarf Vespasian inzwischen die übrigen Teile des Stammes Iudaea\.
+Ihm wurde berichtet,
+welche Bürgerzwietracht in Jerusalem herrschte,
+welches Blutbad sie sich in inneren Kämpfen selbst zufügten und welche Leiden Bürger Bürgern abverlangten\.
+Viele drängten ihn,
+dorthin zu eilen,
+damit dem römischen Triumph und seinem Ruhm nichts entzogen werde\.
+Doch er,
+ein maßvoller und besonnener Mann,
+hielt nicht für richtig,
+was die Meinung der Menge so beurteilte;
+vielmehr meinte er,
+die Sache aus der höheren Rücksicht auf das eigentliche Ziel führen zu müssen,
+und begann denen,
+die ihn dazu überreden wollten,
+in Erinnerung zu rufen,
+dass nicht der Staat es sei,
+der die Römer herausfordere\.
+Wenn aber jemand behauptet,
+unserem Ruhm werde etwas entzogen,
+so soll er lernen,
+dass eine Lösung in Ruhe stets aus Kämpfen Nutzen zieht,
+dass aber meist sogar nach Niederlegung der Waffen Lob erworben und jede Schuld des Landes gelöst wird\.
+„Was liegt daran,
+ob ein Feind durch unsere oder durch seine Waffen überwunden wird,
+wenn er nur durch eigene Waffen ohne römischen Unwillen überwunden wird?
+Denn sie können sich über uns nicht beklagen,
+wenn sie sich selbst verwundet haben\.
+Zugleich zeigen sie,
+dass sie einen wirklichen Krieg gegen uns gefördert haben,
+und zugleich schonen sie sich selbst nicht\.
+Diese Vergeltung,
+die man vom Himmel her sehen muss,
+dass sie mit Wahnsinn geschlagen werden,
+ist stets höher zu achten als ein Kampf unter Gefahr\.
+Schließlich hat unser Maximus Hannibal mehr durch Zögern als durch Kämpfen besiegt\.
+Zwar unterwarfen die Scipionen Africa;
+doch der Sieg in den Kriegen war vielen gemeinsam,
+während Maximus allein zugesprochen wird,
+dass er durch Zögern das römische Geschick wiederhergestellt hat\.
+Wichtiger ist es,
+das römische Reich bewahrt zu haben,
+als es vergrößert zu haben\.
+Vergleichen wir also die Verdienste der Tugenden\.
+Denn die Überlegungen der Weisheit sind auch im Krieg selbst nicht weniger wert als die Zeichen der Tapferkeit\.
+Sie sollen also durch ihre eigenen Waffen zugrunde gehen;
+dem Lob wird nichts genommen,
+und unserem Sieg wird vieles hinzugefügt\.
+Sie wissen nicht,
+dass die gerettet werden,
+die wir verschonen\.
+Was aber,
+wenn wir zu drohen beginnen?
+Vielleicht kommen sie untereinander zur Besinnung und kehren zur Gunst zurück,
+was ich nicht fürchte,
+sondern gegen eure Meinung vorbringe\.
+Wenn aber die Bürgerzwietracht fortbesteht,
+dann soll sichtbar werden,
+dass sie sich selbst bezwungen haben,
+dass das römische Heer nichts getan hat,
+dass unsere Hände untätig geblieben sind und der Sieg nicht durch unsere Tapferkeit,
+sondern durch das feindliche Blutbad unter ihnen selbst errungen wurde\.
+Und so soll niemand meinen,
+dieser klügere Rat,
+dass sie in unserer Abwesenheit bis zur eigenen Vernichtung rasen,
+habe sie mehr durch uns als durch ihre eigenen Parteiungen verstrickt\.
+Darum werden wir besser dann heranrücken,
+wenn ein Sieger übrig geblieben ist,
+der sich unserem Triumph anschließen wird\.
+Es sollen also die zu uns kommen,
+die vor den Ihren fliehen;
+sie sollen bei uns Sicherheit für sich finden,
+nachdem ihre eigene Plage sie zermürbt hat\.“

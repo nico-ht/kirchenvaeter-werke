@@ -7,15 +7,118 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/5-predigt-zu-genesis#kapitel-ad69fac3-6cce-4a8e-ede3-08dde73bc706).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:6607786b082c44cb726e16cc4a489a5272456a8e7bcd3b12406bb9a754828b83`
+Als die Engel,
+die gesandt worden waren,
+um Sodom zu zerstören,
+den Wunsch hegten,
+die ihnen aufgetragene Aufgabe zu beschleunigen,
+hatten sie zunächst Sorge um ihren Gastgeber,
+Lot,
+dass sie ihn,
+in Anbetracht seiner Gastfreundschaft,
+von der drohenden Zerstörung durch das bevorstehende Feuer retten könnten\.
+Hört diese Worte,
+ihr,
+die ihr eure Häuser vor Fremden schließt;
+hört diese Worte,
+ihr,
+die ihr einen Gast wie einen Feind meidet\.
+Lot lebte in Sodom\.
+Wir lesen nicht von anderen guten Taten seinerseits\.
+Nur die Gastfreundschaft,
+die zu jener Zeit stattfand,
+wird erwähnt\.
+Er entkommt den Flammen,
+er entkommt der Feuersbrunst aus diesem einzigen Grund:
+weil er sein Haus für Fremde öffnete\.
+Engel traten in das gastfreundliche Haus ein;
+Feuer drang in die Häuser ein,
+die vor Fremden verschlossen waren\.
+Lasst uns daher sehen,
+was die Engel ihrem Gastgeber aufgrund seiner gastlichen Dienste sagen\.
+„Rette dein Leben im Gebirge“,
+sagt der Text,
+„damit du nicht mit ihnen zusammen gefangen wirst\!“
+Lot war in der Tat gastfreundlich\.
+Und wie die Schrift ihm Zeugnis gibt,
+wurde er vor der Zerstörung verborgen,
+als die Engel ihn gastfreundlich aufnahmen\.
 
-Als die Engel, die gesandt worden waren, um Sodom zu zerstören, den Wunsch hegten, die ihnen aufgetragene Aufgabe zu beschleunigen, hatten sie zunächst Sorge um ihren Gastgeber, Lot, dass sie ihn, in Anbetracht seiner Gastfreundschaft, von der drohenden Zerstörung durch das bevorstehende Feuer retten könnten\. Hört diese Worte, ihr, die ihr eure Häuser vor Fremden schließt; hört diese Worte, ihr, die ihr einen Gast wie einen Feind meidet\. Lot lebte in Sodom\. Wir lesen nicht von anderen guten Taten seinerseits\. Nur die Gastfreundschaft, die zu jener Zeit stattfand, wird erwähnt\. Er entkommt den Flammen, er entkommt der Feuersbrunst aus diesem einzigen Grund: weil er sein Haus für Fremde öffnete\. Engel traten in das gastfreundliche Haus ein; Feuer drang in die Häuser ein, die vor Fremden verschlossen waren\. Lasst uns daher sehen, was die Engel ihrem Gastgeber aufgrund seiner gastlichen Dienste sagen\. „Rette dein Leben im Gebirge“, sagt der Text, „damit du nicht mit ihnen zusammen gefangen wirst\!“ Lot war in der Tat gastfreundlich\. Und wie die Schrift ihm Zeugnis gibt, wurde er vor der Zerstörung verborgen, als die Engel ihn gastfreundlich aufnahmen\.
+Doch er war nicht so vollkommen,
+dass er,
+unmittelbar nach dem Verlassen von Sodom,
+in die Berge aufsteigen konnte;
+denn es gehört zu den Vollkommenen zu sagen:
+„Ich habe meine Augen zu den Bergen erhoben,
+von woher meine Hilfe kommen wird\.“[^bible-633728b9-156f-44aa-adaf-57a4de79cee6]
+Er war daher weder so,
+dass er unter den Einwohnern von Sodom umkommen sollte,
+noch war er so groß,
+dass er mit Abraham in den Höhen wohnen konnte\.
+Denn wenn er so gewesen wäre,
+hätte Abraham niemals zu ihm gesagt:
+„Wenn du nach rechts gehst,
+werde ich nach links gehen,
+oder wenn du nach links gehst,
+werde ich nach rechts gehen\.“
+Auch hätten ihm die Wohnstätten von Sodom nicht gefallen\.
+Er war also irgendwo in der Mitte zwischen den Vollkommenen und den Verdammten\.
+Und da er wusste,
+dass es mit seiner Kraft nicht angemessen war,
+in die Berge aufzusteigen,
+entschuldigte er sich fromm und demütig und sagte:
+„Ich kann nicht im Gebirge gerettet werden,
+aber siehe,
+diese Stadt ist klein\.
+Hier werde ich gerettet;
+und ist sie nicht klein?“
+Gewiss,
+als er in die kleine Stadt Segor eintrat,
+wurde er dort gerettet\.
+Und danach ging er mit seinen Töchtern in die Berge\.
+Denn es gab keine Möglichkeit,
+von Sodom in die Berge aufzusteigen,
+obwohl von dem Land Sodom,
+bevor es umgestürzt wurde,
+geschrieben steht,
+dass es zu der Zeit,
+als Lot es als seinen Wohnsitz wählte,
+„wie das Paradies Gottes und wie das Land Ägypten“ war\.
 
-Doch er war nicht so vollkommen, dass er, unmittelbar nach dem Verlassen von Sodom, in die Berge aufsteigen konnte; denn es gehört zu den Vollkommenen zu sagen: „Ich habe meine Augen zu den Bergen erhoben, von woher meine Hilfe kommen wird\.“[^bible-633728b9-156f-44aa-adaf-57a4de79cee6] Er war daher weder so, dass er unter den Einwohnern von Sodom umkommen sollte, noch war er so groß, dass er mit Abraham in den Höhen wohnen konnte\. Denn wenn er so gewesen wäre, hätte Abraham niemals zu ihm gesagt: „Wenn du nach rechts gehst, werde ich nach links gehen, oder wenn du nach links gehst, werde ich nach rechts gehen\.“ Auch hätten ihm die Wohnstätten von Sodom nicht gefallen\. Er war also irgendwo in der Mitte zwischen den Vollkommenen und den Verdammten\. Und da er wusste, dass es mit seiner Kraft nicht angemessen war, in die Berge aufzusteigen, entschuldigte er sich fromm und demütig und sagte: „Ich kann nicht im Gebirge gerettet werden, aber siehe, diese Stadt ist klein\. Hier werde ich gerettet; und ist sie nicht klein?“ Gewiss, als er in die kleine Stadt Segor eintrat, wurde er dort gerettet\. Und danach ging er mit seinen Töchtern in die Berge\. Denn es gab keine Möglichkeit, von Sodom in die Berge aufzusteigen, obwohl von dem Land Sodom, bevor es umgestürzt wurde, geschrieben steht, dass es zu der Zeit, als Lot es als seinen Wohnsitz wählte, „wie das Paradies Gottes und wie das Land Ägypten“ war\.
+Und doch,
+um etwas abzuschweifen,
+welche Ähnlichkeit scheint es zu geben,
+dass Sodom passend mit dem Paradies Gottes und dem Land Ägypten verglichen wird?
+Ich denke,
+es ist folgendermaßen:
+Bevor Sodom sündigte,
+als es noch die Einfachheit des unbefleckten Lebens bewahrte,
+war es „wie das Paradies Gottes“\.
+Aber als es begann,
+sich zu verfärben und mit den Flecken der Sünden zu verdunkeln,
+wurde es „wie das Land Ägypten“\.
 
-Und doch, um etwas abzuschweifen, welche Ähnlichkeit scheint es zu geben, dass Sodom passend mit dem Paradies Gottes und dem Land Ägypten verglichen wird? Ich denke, es ist folgendermaßen: Bevor Sodom sündigte, als es noch die Einfachheit des unbefleckten Lebens bewahrte, war es „wie das Paradies Gottes“\. Aber als es begann, sich zu verfärben und mit den Flecken der Sünden zu verdunkeln, wurde es „wie das Land Ägypten“\.
-
-Da der Prophet jedoch sagt: „Deine Schwester Sodom wird in ihren früheren Zustand wiederhergestellt werden“[^bible-1a21a6ee-cd87-49b7-be56-6e8c77d355ed], fragen wir uns, ob diese Wiederherstellung so beschaffen sein wird, dass sie ‚wie das Paradies Gottes‘ oder nur ‚wie das Land Ägypten‘ erscheint\.“ Ich jedenfalls zweifle daran, dass die Sünden Sodoms so weit verringert und ihre Übel so weit gereinigt werden können, dass ihre Wiederherstellung so groß ist, dass sie nicht nur mit dem Land Ägypten, sondern auch mit dem Paradies Gottes verglichen werden kann\. Diejenigen jedoch, die dies behaupten wollen, werden uns besonders mit jenem Wort bedrängen, das dieser Gegenverheißung hinzugefügt zu sein scheint\. Denn die Schrift sagt nicht bloß: „Sodom wird wiederhergestellt“ und schweigt, sondern sie sagt: „Sodom wird in ihren früheren Zustand wiederhergestellt“\. Und sie werden entschieden behaupten, dass ihr früherer Zustand nicht „wie das Land Ägypten“, sondern „wie das Paradies Gottes“ war\.
+Da der Prophet jedoch sagt:
+„Deine Schwester Sodom wird in ihren früheren Zustand wiederhergestellt werden“[^bible-1a21a6ee-cd87-49b7-be56-6e8c77d355ed],
+fragen wir uns,
+ob diese Wiederherstellung so beschaffen sein wird,
+dass sie ‚wie das Paradies Gottes‘ oder nur ‚wie das Land Ägypten‘ erscheint\.“
+Ich jedenfalls zweifle daran,
+dass die Sünden Sodoms so weit verringert und ihre Übel so weit gereinigt werden können,
+dass ihre Wiederherstellung so groß ist,
+dass sie nicht nur mit dem Land Ägypten,
+sondern auch mit dem Paradies Gottes verglichen werden kann\.
+Diejenigen jedoch,
+die dies behaupten wollen,
+werden uns besonders mit jenem Wort bedrängen,
+das dieser Gegenverheißung hinzugefügt zu sein scheint\.
+Denn die Schrift sagt nicht bloß:
+„Sodom wird wiederhergestellt“ und schweigt,
+sondern sie sagt:
+„Sodom wird in ihren früheren Zustand wiederhergestellt“\.
+Und sie werden entschieden behaupten,
+dass ihr früherer Zustand nicht „wie das Land Ägypten“,
+sondern „wie das Paradies Gottes“ war\.
 
 ## Bibelverweise
 

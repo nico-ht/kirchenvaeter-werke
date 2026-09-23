@@ -27,6 +27,16 @@ In jedem Werk findest du ein Inhaltsverzeichnis; jedes Kapitel liegt als lesbare
 
 Der Git-Verlauf macht veröffentlichte Änderungen nachvollziehbar. Eine nächtliche Codex-Automation gleicht die veröffentlichten Fassungen ab: ein Commit je geändertem Werk, getrennte Commits für Archivverzeichnisse und Dokumentation. Ohne Änderungen entstehen keine Commits.
 
+## Änderungen lesen
+
+Öffne im Commit die betroffene `kapitel-NNN.md`. Kurze Textzeilen an Satz- und Teilsatzgrenzen
+machen Korrekturen sichtbar; GitHub kann innerhalb geänderter Zeilen einzelne Wörter hervorheben.
+Beim Lesen bleiben die Absätze zusammenhängend. Technische JSON-Dateien sind im Diff standardmäßig
+eingeklappt und können bei Bedarf geöffnet werden. Inhaltsrevisionen stehen weiterhin im JSON.
+
+Lokal zeigt `git log -p --word-diff=color -- 'werke/**/*.md'` die Wortänderungen im Verlauf.
+Für einen bestimmten Werk-Commit verwende `git show --word-diff=color COMMIT-ID -- 'werke/**/*.md'`.
+
 ## Lokal lesen und aktuell halten
 
 Mit Git erhältst du das Archiv einschließlich seiner Versionsgeschichte:

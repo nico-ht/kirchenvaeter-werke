@@ -7,6 +7,11 @@ Autor: Gregor von Nyssa
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nyssa/ueber-das-leben-des-mose-buch-1#kapitel-545604b0-0453-41ce-8286-08ded879412e).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:bfeadedb6bc662f664627455b39391e7c430296da8319756d907ac5115625006`
-
-Als nun das Götzenbild aus Gold, seinem Stoff, entstanden war, es war aber ein Kalb als Götzenbild, frohlockten die einen über das frevelhafte Tun; Mose aber war schon bei ihnen angekommen und zerbrach die Tafeln, die er von Gott her mitbrachte, damit sie als dem Vergehen angemessene Strafe den Verlust der von Gott geschenkten Gnade erleiden sollten\.
+Als nun das Götzenbild aus Gold,
+seinem Stoff,
+entstanden war,
+es war aber ein Kalb als Götzenbild,
+frohlockten die einen über das frevelhafte Tun;
+Mose aber war schon bei ihnen angekommen und zerbrach die Tafeln,
+die er von Gott her mitbrachte,
+damit sie als dem Vergehen angemessene Strafe den Verlust der von Gott geschenkten Gnade erleiden sollten\.

@@ -7,10 +7,146 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-besinnliche-leben#kapitel-e08e2556-fbd4-44a9-c0b7-08dd0c1e2646).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d8647e9bd0bd5ba26dd1658a421b40d7c2929fba81e1234f31f7acf2347f994a`
+Diese Ausleger des Gesetzes legen zunächst die Mäßigung gleichsam als Fundament,
+auf dem die Seele ruhen soll;
+auf diesem Fundament bauen sie dann die anderen Tugenden auf\.
+Keiner von ihnen darf vor Sonnenuntergang Speise oder Trank zu sich nehmen,
+denn sie urteilen,
+dass das Philosophieren des Lichts würdig ist,
+die Sorge um die Bedürfnisse des Körpers aber ausschließlich der Dunkelheit angemessen\.
+Darum weisen sie dem einen Werk den Tag zu,
+dem anderen einen kurzen Teil der Nacht\.
+Manche,
+in denen ein glühenderes Verlangen nach Erkenntnis eingepflanzt ist,
+können drei Tage lang nur die Erinnerung an ihre Nahrung bewahren,
+ohne sie auch nur zu kosten;
+andere wiederum sind so erfreut und genießen sich so sehr,
+wenn die Weisheit sie mit ihren Lehren in aller Fülle und Überfülle bewirtet,
+dass sie sogar doppelt so lange ausharren und erst am Ende von sechs Tagen kaum die notwendige Nahrung kosten\.
+Sie sind,
+wie man von den Heuschrecken sagt,
+daran gewöhnt,
+sich von Luft zu nähren;
+ihr Gesang,
+so stelle ich mir vor,
+macht ihnen den Mangel erträglich\.
+Den siebten Tag betrachten sie als Tag vollkommener Heiligkeit und als ein ganz vollendetes Fest;
+darum halten sie ihn einer ganz besonderen Ehre für würdig\.
+An ihm sorgen sie,
+nachdem sie ihrer Seele die gebührende Pflege gewidmet haben,
+auch für ihre Körper und gewähren ihnen,
+wie sie es auch bei ihrem Vieh tun,
+völlige Ruhe von den unablässigen Mühen\.
+Sie essen nichts Kostbares,
+sondern schlichtes Brot und als Würze Salz,
+das die Anspruchsvolleren unter ihnen zusätzlich mit Ysop würzen;
+ihr Getränk ist Quellwasser\.
+Denn sie treten jenen Regungen entgegen,
+die die Natur zu Herrinnen des Menschengeschlechts gemacht hat,
+nämlich Hunger und Durst:
+Sie geben ihnen nichts,
+was ihnen schmeichelt oder entgegenkommt,
+sondern nur das Nützliche,
+ohne das man nicht bestehen kann\.
+Deshalb essen sie nur so viel,
+dass sie nicht hungrig sind,
+und trinken gerade genug,
+um dem Durst zu entgehen;
+jede Sättigung meiden sie als Feind und Verschwörer gegen Seele und Körper zugleich\.
+Es gibt zwei Arten von Bedeckung:
+die eine ist die Kleidung,
+die andere das Haus\.
+Von ihren Häusern haben wir bereits gesagt,
+dass sie mit keinem Schmuck verziert sind,
+sondern eilig errichtet werden und nur den unbedingt notwendigen Zwecken genügen sollen\.
+Ebenso ist ihre Kleidung von ganz gewöhnlicher Art,
+gerade kräftig genug,
+um Kälte und Hitze abzuwehren:
+im Winter ein Mantel aus einem zottigen Fell,
+im Sommer ein dünner Umhang oder ein leinenes Schultertuch\.
+Kurz,
+sie üben gänzliche Einfachheit;
+die Lüge betrachten sie als Fundament des Hochmuts,
+die Wahrheit aber als Ursprung der Einfachheit,
+und Wahrheit und Lüge gelten ihnen gleichsam als Quellen\.
+Denn aus der Lüge geht jede Art von Übel und Bosheit hervor,
+aus der Wahrheit aber strömt jede denkbare Fülle des Guten,
+des menschlichen wie des göttlichen\.
 
-Diese Ausleger des Gesetzes legen zunächst die Mäßigung gleichsam als Fundament, auf dem die Seele ruhen soll; auf diesem Fundament bauen sie dann die anderen Tugenden auf\. Keiner von ihnen darf vor Sonnenuntergang Speise oder Trank zu sich nehmen, denn sie urteilen, dass das Philosophieren des Lichts würdig ist, die Sorge um die Bedürfnisse des Körpers aber ausschließlich der Dunkelheit angemessen\. Darum weisen sie dem einen Werk den Tag zu, dem anderen einen kurzen Teil der Nacht\. Manche, in denen ein glühenderes Verlangen nach Erkenntnis eingepflanzt ist, können drei Tage lang nur die Erinnerung an ihre Nahrung bewahren, ohne sie auch nur zu kosten; andere wiederum sind so erfreut und genießen sich so sehr, wenn die Weisheit sie mit ihren Lehren in aller Fülle und Überfülle bewirtet, dass sie sogar doppelt so lange ausharren und erst am Ende von sechs Tagen kaum die notwendige Nahrung kosten\. Sie sind, wie man von den Heuschrecken sagt, daran gewöhnt, sich von Luft zu nähren; ihr Gesang, so stelle ich mir vor, macht ihnen den Mangel erträglich\. Den siebten Tag betrachten sie als Tag vollkommener Heiligkeit und als ein ganz vollendetes Fest; darum halten sie ihn einer ganz besonderen Ehre für würdig\. An ihm sorgen sie, nachdem sie ihrer Seele die gebührende Pflege gewidmet haben, auch für ihre Körper und gewähren ihnen, wie sie es auch bei ihrem Vieh tun, völlige Ruhe von den unablässigen Mühen\. Sie essen nichts Kostbares, sondern schlichtes Brot und als Würze Salz, das die Anspruchsvolleren unter ihnen zusätzlich mit Ysop würzen; ihr Getränk ist Quellwasser\. Denn sie treten jenen Regungen entgegen, die die Natur zu Herrinnen des Menschengeschlechts gemacht hat, nämlich Hunger und Durst: Sie geben ihnen nichts, was ihnen schmeichelt oder entgegenkommt, sondern nur das Nützliche, ohne das man nicht bestehen kann\. Deshalb essen sie nur so viel, dass sie nicht hungrig sind, und trinken gerade genug, um dem Durst zu entgehen; jede Sättigung meiden sie als Feind und Verschwörer gegen Seele und Körper zugleich\. Es gibt zwei Arten von Bedeckung: die eine ist die Kleidung, die andere das Haus\. Von ihren Häusern haben wir bereits gesagt, dass sie mit keinem Schmuck verziert sind, sondern eilig errichtet werden und nur den unbedingt notwendigen Zwecken genügen sollen\. Ebenso ist ihre Kleidung von ganz gewöhnlicher Art, gerade kräftig genug, um Kälte und Hitze abzuwehren: im Winter ein Mantel aus einem zottigen Fell, im Sommer ein dünner Umhang oder ein leinenes Schultertuch\. Kurz, sie üben gänzliche Einfachheit; die Lüge betrachten sie als Fundament des Hochmuts, die Wahrheit aber als Ursprung der Einfachheit, und Wahrheit und Lüge gelten ihnen gleichsam als Quellen\. Denn aus der Lüge geht jede Art von Übel und Bosheit hervor, aus der Wahrheit aber strömt jede denkbare Fülle des Guten, des menschlichen wie des göttlichen\.
+In jedem Haus gibt es einen heiligen Raum,
+der heiliger Ort und Klause genannt wird;
+dort ziehen sie sich allein zurück und vollziehen alle Geheimnisse eines heiligen Lebens\.
+Sie bringen nichts hinein,
+weder Speise noch Trank noch sonst etwas,
+was zur Versorgung der Bedürfnisse des Körpers unentbehrlich ist,
+sondern studieren an diesem Ort die Gesetze und die heiligen Gottesworte,
+die von den heiligen Propheten verkündet wurden,
+dazu Hymnen,
+Psalme und allerlei anderes,
+wodurch Erkenntnis und Frömmigkeit gemehrt und zur Vollendung geführt werden\.
+Darum bewahren sie stets ein unvergängliches Gedenken an Gott,
+sodass ihnen nicht einmal in ihren Träumen je ein anderer Gegenstand vor Augen tritt als die Schönheit der göttlichen Tugenden und der göttlichen Kräfte\.
+Daher sprechen viele im Schlaf und geben die gefeierten Lehren der heiligen Philosophie preis und machen sie kund\.
+Sie pflegen zweimal täglich zu beten,
+am Morgen und am Abend:
+Wenn die Sonne aufgeht,
+bitten sie Gott,
+das Glück des kommenden Tages möge wahres Glück sein,
+damit ihr Geist mit himmlischem Licht erfüllt werde;
+wenn die Sonne untergeht,
+beten sie,
+ihre Seele möge,
+völlig erleichtert und befreit von der Last der äußeren Sinne und von dem diesen äußeren Sinnen zugehörigen Gegenstand,
+die Wahrheit in ihrer eigenen Versammlungs\- und Ratskammer aufspüren können\.
+Die Zeit zwischen Morgen und Abend widmen sie ganz der Betrachtung und Einübung der Tugend\.
+Denn sie nehmen die heiligen Schriften zur Hand und philosophieren über sie,
+indem sie die Allegorien ihrer vaterländischen Philosophie erforschen;
+denn den wörtlichen Ausdruck betrachten sie als Sinnbilder einer verborgenen natürlichen Bedeutung,
+die durch diese bildlichen Ausdrücke vermittelt werden soll\.
+Sie besitzen auch Schriften alter Männer,
+die als Begründer der einen oder anderen Richtung viele Denkmäler allegorischer Schreib\- und Auslegungsweise hinterlassen haben;
+diese nehmen sie sich gleichsam zum Vorbild und ahmen die allgemeine Gestalt ihrer Richtung nach\.
+So beschäftigen sie sich nicht allein mit Betrachtung,
+sondern verfassen auch Psalme und Hymnen an Gott in jeder nur denkbaren Art von Versmaß und Melodie,
+die sie notwendig in einen würdigeren Rhythmus bringen\.
+Sechs Tage lang also zieht sich jeder von ihnen für sich allein in die Einsamkeit zurück und philosophiert für sich an einem der Orte,
+die Klausen genannt werden;
+er geht niemals über die Schwelle des äußeren Hofes hinaus,
+ja blickt nicht einmal hinaus\.
+Am siebten Tag aber kommen alle wie zu einer heiligen Versammlung zusammen,
+und sie setzen sich der Reihe nach entsprechend ihrem Alter mit aller angemessenen Würde nieder\.
+Ihre Hände halten sie innerhalb der Gewänder:
+die rechte Hand zwischen Brust und Kleid,
+die linke unten an der Seite,
+dicht an der Flanke\.
 
-In jedem Haus gibt es einen heiligen Raum, der heiliger Ort und Klause genannt wird; dort ziehen sie sich allein zurück und vollziehen alle Geheimnisse eines heiligen Lebens\. Sie bringen nichts hinein, weder Speise noch Trank noch sonst etwas, was zur Versorgung der Bedürfnisse des Körpers unentbehrlich ist, sondern studieren an diesem Ort die Gesetze und die heiligen Gottesworte, die von den heiligen Propheten verkündet wurden, dazu Hymnen, Psalme und allerlei anderes, wodurch Erkenntnis und Frömmigkeit gemehrt und zur Vollendung geführt werden\. Darum bewahren sie stets ein unvergängliches Gedenken an Gott, sodass ihnen nicht einmal in ihren Träumen je ein anderer Gegenstand vor Augen tritt als die Schönheit der göttlichen Tugenden und der göttlichen Kräfte\. Daher sprechen viele im Schlaf und geben die gefeierten Lehren der heiligen Philosophie preis und machen sie kund\. Sie pflegen zweimal täglich zu beten, am Morgen und am Abend: Wenn die Sonne aufgeht, bitten sie Gott, das Glück des kommenden Tages möge wahres Glück sein, damit ihr Geist mit himmlischem Licht erfüllt werde; wenn die Sonne untergeht, beten sie, ihre Seele möge, völlig erleichtert und befreit von der Last der äußeren Sinne und von dem diesen äußeren Sinnen zugehörigen Gegenstand, die Wahrheit in ihrer eigenen Versammlungs\- und Ratskammer aufspüren können\. Die Zeit zwischen Morgen und Abend widmen sie ganz der Betrachtung und Einübung der Tugend\. Denn sie nehmen die heiligen Schriften zur Hand und philosophieren über sie, indem sie die Allegorien ihrer vaterländischen Philosophie erforschen; denn den wörtlichen Ausdruck betrachten sie als Sinnbilder einer verborgenen natürlichen Bedeutung, die durch diese bildlichen Ausdrücke vermittelt werden soll\. Sie besitzen auch Schriften alter Männer, die als Begründer der einen oder anderen Richtung viele Denkmäler allegorischer Schreib\- und Auslegungsweise hinterlassen haben; diese nehmen sie sich gleichsam zum Vorbild und ahmen die allgemeine Gestalt ihrer Richtung nach\. So beschäftigen sie sich nicht allein mit Betrachtung, sondern verfassen auch Psalme und Hymnen an Gott in jeder nur denkbaren Art von Versmaß und Melodie, die sie notwendig in einen würdigeren Rhythmus bringen\. Sechs Tage lang also zieht sich jeder von ihnen für sich allein in die Einsamkeit zurück und philosophiert für sich an einem der Orte, die Klausen genannt werden; er geht niemals über die Schwelle des äußeren Hofes hinaus, ja blickt nicht einmal hinaus\. Am siebten Tag aber kommen alle wie zu einer heiligen Versammlung zusammen, und sie setzen sich der Reihe nach entsprechend ihrem Alter mit aller angemessenen Würde nieder\. Ihre Hände halten sie innerhalb der Gewänder: die rechte Hand zwischen Brust und Kleid, die linke unten an der Seite, dicht an der Flanke\.
-
-Dann tritt der Älteste unter ihnen vor, der in ihren Lehren die tiefste Bildung besitzt, und spricht mit festem Blick und fester Stimme, mit großer gedanklicher Kraft und großer Besonnenheit\. Er stellt nicht seine Redekunst zur Schau wie die Rhetoren früherer Zeiten oder die Sophisten der Gegenwart, sondern erforscht mit großer Mühe und erklärt mit äußerster Genauigkeit den Sinn der Gesetze\. Dieser bleibt nicht etwa an der Oberfläche ihrer Ohren hängen, sondern dringt durch das Hören in die Seele ein und bleibt dort dauerhaft\. Alle übrigen hören schweigend den Lobpreisungen zu, die er dem Gesetz widmet, und zeigen ihre Zustimmung nur durch ein Nicken des Kopfes oder durch den wachen Blick ihrer Augen\. Dieser gemeinsame heilige Ort, an dem sie alle am siebten Tag zusammenkommen, ist in zwei Bezirke geteilt: teils in den Raum der Männer, teils in eine Kammer für die Frauen\. Auch Frauen gehören dort nach der üblichen Sitte zur Zuhörerschaft; sie teilen dieselbe Bewunderung wie die Männer und haben sich derselben Richtung mit gleicher Überlegung und Entschlossenheit angeschlossen\. Die Wand zwischen den Häusern erhebt sich vom Boden drei oder vier Ellen hoch wie eine Brustwehr, während der obere Teil ohne jede Öffnung bis zum Dach hinaufreicht, aus zwei Gründen: erstens, damit die Zurückhaltung gewahrt bleibt, die dem weiblichen Geschlecht so angemessen ist, und zweitens, damit die Frauen, da sie in Hörweite sitzen, leicht erfassen können, was gesagt wird, weil dann nichts die Stimme des Sprechenden irgendwie abfangen kann\.
+Dann tritt der Älteste unter ihnen vor,
+der in ihren Lehren die tiefste Bildung besitzt,
+und spricht mit festem Blick und fester Stimme,
+mit großer gedanklicher Kraft und großer Besonnenheit\.
+Er stellt nicht seine Redekunst zur Schau wie die Rhetoren früherer Zeiten oder die Sophisten der Gegenwart,
+sondern erforscht mit großer Mühe und erklärt mit äußerster Genauigkeit den Sinn der Gesetze\.
+Dieser bleibt nicht etwa an der Oberfläche ihrer Ohren hängen,
+sondern dringt durch das Hören in die Seele ein und bleibt dort dauerhaft\.
+Alle übrigen hören schweigend den Lobpreisungen zu,
+die er dem Gesetz widmet,
+und zeigen ihre Zustimmung nur durch ein Nicken des Kopfes oder durch den wachen Blick ihrer Augen\.
+Dieser gemeinsame heilige Ort,
+an dem sie alle am siebten Tag zusammenkommen,
+ist in zwei Bezirke geteilt:
+teils in den Raum der Männer,
+teils in eine Kammer für die Frauen\.
+Auch Frauen gehören dort nach der üblichen Sitte zur Zuhörerschaft;
+sie teilen dieselbe Bewunderung wie die Männer und haben sich derselben Richtung mit gleicher Überlegung und Entschlossenheit angeschlossen\.
+Die Wand zwischen den Häusern erhebt sich vom Boden drei oder vier Ellen hoch wie eine Brustwehr,
+während der obere Teil ohne jede Öffnung bis zum Dach hinaufreicht,
+aus zwei Gründen:
+erstens,
+damit die Zurückhaltung gewahrt bleibt,
+die dem weiblichen Geschlecht so angemessen ist,
+und zweitens,
+damit die Frauen,
+da sie in Hörweite sitzen,
+leicht erfassen können,
+was gesagt wird,
+weil dann nichts die Stimme des Sprechenden irgendwie abfangen kann\.

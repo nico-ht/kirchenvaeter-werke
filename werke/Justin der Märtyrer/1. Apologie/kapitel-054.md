@@ -7,13 +7,101 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/1-apologie#kapitel-f736a51e-b7ca-4f8e-4f8c-08dd0bd65d0d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:70ec1205805d9ce7b7afad5853461e2b3dd66d2782170794e119af87fc434545`
+Doch diejenigen,
+die die Mythen,
+die die Dichter geschaffen haben,
+weitergeben,
+bringen den Jugendlichen,
+die sie lernen,
+keinen Beweis\.
+Wir wollen jedoch darlegen,
+dass diese Mythen durch den Einfluss der bösen Dämonen geäußert wurden,
+um die Menschheit zu täuschen und in die Irre zu führen\.
+Nachdem sie durch die Propheten gehört hatten,
+dass der Christus kommen würde und dass die Gottlosen unter den Menschen durch Feuer bestraft werden sollten,
+führten sie viele an,
+die als Söhne des Jupiter bezeichnet wurden,
+in der Annahme,
+sie könnten den Menschen die Vorstellung vermitteln,
+dass die Dinge,
+die über Christus gesagt wurden,
+bloße Geschichten seien,
+ähnlich den Erzählungen der Dichter\.
+Diese Dinge wurden sowohl unter den Griechen als auch in allen Völkern gesagt,
+wo die Dämonen die Propheten hörten,
+die vorhersagten,
+dass an Christus besonders geglaubt werden würde\.
+Doch dass sie,
+als sie hörten,
+was die Propheten sagten,
+es nicht genau verstanden,
+sondern das,
+was über unseren Christus gesagt wurde,
+nachahmten,
+wie Menschen,
+die sich irren,
+wollen wir klarstellen\.
 
-Doch diejenigen, die die Mythen, die die Dichter geschaffen haben, weitergeben, bringen den Jugendlichen, die sie lernen, keinen Beweis\. Wir wollen jedoch darlegen, dass diese Mythen durch den Einfluss der bösen Dämonen geäußert wurden, um die Menschheit zu täuschen und in die Irre zu führen\. Nachdem sie durch die Propheten gehört hatten, dass der Christus kommen würde und dass die Gottlosen unter den Menschen durch Feuer bestraft werden sollten, führten sie viele an, die als Söhne des Jupiter bezeichnet wurden, in der Annahme, sie könnten den Menschen die Vorstellung vermitteln, dass die Dinge, die über Christus gesagt wurden, bloße Geschichten seien, ähnlich den Erzählungen der Dichter\. Diese Dinge wurden sowohl unter den Griechen als auch in allen Völkern gesagt, wo die Dämonen die Propheten hörten, die vorhersagten, dass an Christus besonders geglaubt werden würde\. Doch dass sie, als sie hörten, was die Propheten sagten, es nicht genau verstanden, sondern das, was über unseren Christus gesagt wurde, nachahmten, wie Menschen, die sich irren, wollen wir klarstellen\.
+Der Prophet Mose war,
+wie wir bereits gesagt haben,
+älter als alle Schriftsteller;
+und durch ihn wurde,
+wie wir zuvor erwähnt haben,
+folgendes vorhergesagt:
+"Es wird kein Fürst von Juda fehlen,
+noch ein Gesetzgeber zwischen seinen Füßen,
+bis der kommt,
+für den es bestimmt ist;
+und Er wird der Wunsch der Heiden sein,
+Sein Fohlen an den Weinstock bindend,
+Sein Gewand im Blut der Traube waschend\."
+[^bible-4bbdea2d-a078-46e2-989a-362436445e79]Als die Teufel diese prophetischen Worte hörten,
+behaupteten sie,
+Bacchus sei der Sohn des Jupiter und gab an,
+er sei der Entdecker des Weinstocks,
+und sie zählten Wein \[oder den Esel\] zu seinen Mysterien;
+sie lehrten,
+dass er,
+nachdem er zerrissen worden war,
+in den Himmel aufgestiegen sei\.
+Da in der Prophezeiung des Mose jedoch nicht ausdrücklich angedeutet wurde,
+ob der,
+der kommen sollte,
+der Sohn Gottes sei und ob er,
+auf dem Fohlen reitend,
+auf der Erde bleiben oder in den Himmel aufsteigen würde,
+und da der Begriff "Fohlen" sowohl das Fohlen eines Esels als auch das eines Pferdes bedeuten konnte,
+wussten sie nicht,
+ob der,
+der vorhergesagt wurde,
+das Fohlen eines Esels oder eines Pferdes als Zeichen seines Kommens bringen würde,
+noch ob er,
+wie oben gesagt,
+der Sohn Gottes oder der Sohn des Menschen sei\.
+Daher gaben sie an,
+dass Bellerophon,
+ein Mensch,
+der von einem Menschen geboren wurde,
+selbst auf seinem Pferd Pegasus in den Himmel aufgestiegen sei\.
 
-Der Prophet Mose war, wie wir bereits gesagt haben, älter als alle Schriftsteller; und durch ihn wurde, wie wir zuvor erwähnt haben, folgendes vorhergesagt: "Es wird kein Fürst von Juda fehlen, noch ein Gesetzgeber zwischen seinen Füßen, bis der kommt, für den es bestimmt ist; und Er wird der Wunsch der Heiden sein, Sein Fohlen an den Weinstock bindend, Sein Gewand im Blut der Traube waschend\." [^bible-4bbdea2d-a078-46e2-989a-362436445e79]Als die Teufel diese prophetischen Worte hörten, behaupteten sie, Bacchus sei der Sohn des Jupiter und gab an, er sei der Entdecker des Weinstocks, und sie zählten Wein \[oder den Esel\] zu seinen Mysterien; sie lehrten, dass er, nachdem er zerrissen worden war, in den Himmel aufgestiegen sei\. Da in der Prophezeiung des Mose jedoch nicht ausdrücklich angedeutet wurde, ob der, der kommen sollte, der Sohn Gottes sei und ob er, auf dem Fohlen reitend, auf der Erde bleiben oder in den Himmel aufsteigen würde, und da der Begriff "Fohlen" sowohl das Fohlen eines Esels als auch das eines Pferdes bedeuten konnte, wussten sie nicht, ob der, der vorhergesagt wurde, das Fohlen eines Esels oder eines Pferdes als Zeichen seines Kommens bringen würde, noch ob er, wie oben gesagt, der Sohn Gottes oder der Sohn des Menschen sei\. Daher gaben sie an, dass Bellerophon, ein Mensch, der von einem Menschen geboren wurde, selbst auf seinem Pferd Pegasus in den Himmel aufgestiegen sei\.
-
-Als sie dann hörten, dass von einem anderen Propheten, Jesaja, gesagt wurde, dass Er von einer Jungfrau geboren werden sollte und durch seine eigenen Mittel in den Himmel aufsteigen würde, taten sie so, als wäre von Perseus die Rede\. Und als sie wussten, was gesagt worden war, wie oben zitiert in den zuvor geschriebenen Prophezeiungen: "Stark wie ein Riese, um seinen Lauf zu vollenden," behaupteten sie, dass Herkules stark sei und die ganze Erde durchreist habe\. Und als sie erneut erfuhren, dass vorhergesagt worden war, dass Er jede Krankheit heilen und die Toten auferwecken sollte, brachten sie Äskulap hervor\.
+Als sie dann hörten,
+dass von einem anderen Propheten,
+Jesaja,
+gesagt wurde,
+dass Er von einer Jungfrau geboren werden sollte und durch seine eigenen Mittel in den Himmel aufsteigen würde,
+taten sie so,
+als wäre von Perseus die Rede\.
+Und als sie wussten,
+was gesagt worden war,
+wie oben zitiert in den zuvor geschriebenen Prophezeiungen:
+"Stark wie ein Riese,
+um seinen Lauf zu vollenden,"
+behaupteten sie,
+dass Herkules stark sei und die ganze Erde durchreist habe\.
+Und als sie erneut erfuhren,
+dass vorhergesagt worden war,
+dass Er jede Krankheit heilen und die Toten auferwecken sollte,
+brachten sie Äskulap hervor\.
 
 ## Bibelverweise
 

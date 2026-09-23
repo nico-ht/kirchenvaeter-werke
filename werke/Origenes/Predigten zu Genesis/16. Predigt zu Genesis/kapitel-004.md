@@ -7,11 +7,80 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/16-predigt-zu-genesis#kapitel-4600e6a6-1722-4476-eac4-08de02a1dc4b).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:14080f32bc8e3153ab89e7f3ae9243e269e8a43310c7c1d68c727df52d2f8e43`
+Da du also siehst,
+dass eine Beobachtung dieser Art in fast allen Texten der Heiligen Schrift korrekt bewahrt ist,
+übertrage diese Worte auf ihren bildhaften und allegorischen Sinn,
+zu dem uns nicht weniger die Worte der Propheten selbst anleiten\.
+Denn einer der Zwölfpropheten verkündet klar und offen in schlichter Aussage,
+dass eine geistliche Hungersnot gemeint ist,
+wenn er sagt:
+„Siehe,
+Tage kommen,
+spricht der Herr,
+da sende ich eine Hungersnot über das Land,
+nicht eine Hungersnot nach Brot noch Durst nach Wasser,
+sondern eine Hungersnot,
+das Wort des Herrn zu hören\.“
+[^bible-d6dd9dae-7a64-4f2c-b448-21d845cf27ae]Siehst du,
+was die Hungersnot ist,
+die über die Sünder die Oberhand gewinnt?
+Siehst du,
+was die Hungersnot ist,
+die über das Land die Oberhand gewinnt?
+Denn die,
+die von der Erde sind und „irdische Dinge im Sinn haben“[^bible-1f82954f-235b-4ae2-9f22-3010c1b766ca] und nicht „erfassen können,
+was vom Geist Gottes ist“,
+leiden „eine Hungersnot an Gottes Wort“\.
+Sie hören die Gebote des Gesetzes nicht;
+sie kennen die Vorwürfe der Propheten nicht;
+sie sind der apostolischen Tröstungen unwissend;
+sie erfahren die Heilung des Evangeliums nicht\.
+Und darum wird von ihnen mit Recht gesagt:
+„Die Hungersnot gewann die Oberhand über das Land\.“
+Für die Gerechten hingegen und für die,
+„die über das Gesetz des Herrn nachsinnen Tag und Nacht“[^bible-2d40b7ce-bc56-469e-afa0-2ea5b75b1e42],
+bereitet die Weisheit ihren Tisch:
+„sie bereitet ihren Tisch,
+sie schlachtet ihre Opfer,
+sie mischt ihren Wein im Mischkrug und ruft mit lauter Stimme“ – nicht damit alle kommen,
+nicht damit die im Überfluss Lebenden,
+nicht die Reichen und nicht die Weisen dieser Welt sich ihr zuwenden,
+sondern:
+„wenn es solche gibt,
+die schwach an Verstand sind,
+die sollen zu mir kommen\.“
 
-Da du also siehst, dass eine Beobachtung dieser Art in fast allen Texten der Heiligen Schrift korrekt bewahrt ist, übertrage diese Worte auf ihren bildhaften und allegorischen Sinn, zu dem uns nicht weniger die Worte der Propheten selbst anleiten\. Denn einer der Zwölfpropheten verkündet klar und offen in schlichter Aussage, dass eine geistliche Hungersnot gemeint ist, wenn er sagt: „Siehe, Tage kommen, spricht der Herr, da sende ich eine Hungersnot über das Land, nicht eine Hungersnot nach Brot noch Durst nach Wasser, sondern eine Hungersnot, das Wort des Herrn zu hören\.“ [^bible-d6dd9dae-7a64-4f2c-b448-21d845cf27ae]Siehst du, was die Hungersnot ist, die über die Sünder die Oberhand gewinnt? Siehst du, was die Hungersnot ist, die über das Land die Oberhand gewinnt? Denn die, die von der Erde sind und „irdische Dinge im Sinn haben“[^bible-1f82954f-235b-4ae2-9f22-3010c1b766ca] und nicht „erfassen können, was vom Geist Gottes ist“, leiden „eine Hungersnot an Gottes Wort“\. Sie hören die Gebote des Gesetzes nicht; sie kennen die Vorwürfe der Propheten nicht; sie sind der apostolischen Tröstungen unwissend; sie erfahren die Heilung des Evangeliums nicht\. Und darum wird von ihnen mit Recht gesagt: „Die Hungersnot gewann die Oberhand über das Land\.“ Für die Gerechten hingegen und für die, „die über das Gesetz des Herrn nachsinnen Tag und Nacht“[^bible-2d40b7ce-bc56-469e-afa0-2ea5b75b1e42], bereitet die Weisheit ihren Tisch: „sie bereitet ihren Tisch, sie schlachtet ihre Opfer, sie mischt ihren Wein im Mischkrug und ruft mit lauter Stimme“ – nicht damit alle kommen, nicht damit die im Überfluss Lebenden, nicht die Reichen und nicht die Weisen dieser Welt sich ihr zuwenden, sondern: „wenn es solche gibt, die schwach an Verstand sind, die sollen zu mir kommen\.“
-
-Das heißt: Wenn es solche gibt, die „von Herzen demütig“ sind, die von Christus gelernt haben, „sanftmütig und von Herzen demütig“[^bible-786dfffd-f4b8-4192-aa6c-d5312349c503] zu sein \(was anderswo „arm im Geist“ genannt wird\), die aber reich sind im Glauben, dann versammeln sie sich bei den Festmählern der Weisheit und, erfrischt durch ihre Gastmähler, treiben sie die Hungersnot aus, die „über das Land die Oberhand gewinnt“\. Achte auch du daher darauf, dass du nicht als Ägypter befunden wirst und die Hungersnot über dich die Oberhand gewinnt, dass du nicht, beschäftigt mit den Geschäften der Welt oder gefesselt von den Banden der Habsucht oder entkräftet durch die Ausschweifungen des Luxus, von den Speisen der Weisheit entfremdet wirst, die in den Kirchen Gottes immer aufgetragen werden\. Denn wenn du dein Ohr von diesen Worten abwendest, die entweder in der Kirche gelesen oder ausgelegt werden, wirst du ohne Zweifel „eine Hungersnot an Gottes Wort“[^bible-5b887447-cb9f-460a-967d-7f45dec42153] erleiden\. Wenn du aber vom Geschlecht Abrahams stammst und den Adel des Volkes Israel bewahrst, nährt dich das Gesetz immer, die Propheten nähren dich, und die Apostel bereiten dir ein reiches Gastmahl\. Die Evangelien werden dich einladen, dich auch in den Schoß Abrahams, Isaaks und Jakobs zu legen „im Reich des Vaters“, damit du dort „vom Baum des Lebens“ isst und Wein trinkst vom „wahren Weinstock“, „den neuen mit Christus im Reich seines Vaters“\. Denn „die Kinder des Bräutigams, solange der Bräutigam bei ihnen ist“[^bible-b682b459-e960-47a6-8107-aa726a234319], können auf diese Speisen nicht verzichten und keine Hungersnot leiden\.
+Das heißt:
+Wenn es solche gibt,
+die „von Herzen demütig“ sind,
+die von Christus gelernt haben,
+„sanftmütig und von Herzen demütig“[^bible-786dfffd-f4b8-4192-aa6c-d5312349c503] zu sein \(was anderswo „arm im Geist“ genannt wird\),
+die aber reich sind im Glauben,
+dann versammeln sie sich bei den Festmählern der Weisheit und,
+erfrischt durch ihre Gastmähler,
+treiben sie die Hungersnot aus,
+die „über das Land die Oberhand gewinnt“\.
+Achte auch du daher darauf,
+dass du nicht als Ägypter befunden wirst und die Hungersnot über dich die Oberhand gewinnt,
+dass du nicht,
+beschäftigt mit den Geschäften der Welt oder gefesselt von den Banden der Habsucht oder entkräftet durch die Ausschweifungen des Luxus,
+von den Speisen der Weisheit entfremdet wirst,
+die in den Kirchen Gottes immer aufgetragen werden\.
+Denn wenn du dein Ohr von diesen Worten abwendest,
+die entweder in der Kirche gelesen oder ausgelegt werden,
+wirst du ohne Zweifel „eine Hungersnot an Gottes Wort“[^bible-5b887447-cb9f-460a-967d-7f45dec42153] erleiden\.
+Wenn du aber vom Geschlecht Abrahams stammst und den Adel des Volkes Israel bewahrst,
+nährt dich das Gesetz immer,
+die Propheten nähren dich,
+und die Apostel bereiten dir ein reiches Gastmahl\.
+Die Evangelien werden dich einladen,
+dich auch in den Schoß Abrahams,
+Isaaks und Jakobs zu legen „im Reich des Vaters“,
+damit du dort „vom Baum des Lebens“ isst und Wein trinkst vom „wahren Weinstock“,
+„den neuen mit Christus im Reich seines Vaters“\.
+Denn „die Kinder des Bräutigams,
+solange der Bräutigam bei ihnen ist“[^bible-b682b459-e960-47a6-8107-aa726a234319],
+können auf diese Speisen nicht verzichten und keine Hungersnot leiden\.
 
 ## Bibelverweise
 

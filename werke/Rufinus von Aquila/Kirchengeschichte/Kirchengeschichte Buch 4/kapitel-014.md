@@ -7,11 +7,77 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-4#kapitel-555f55c3-1a0e-4029-8a2c-08de0a72e412).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c5a115874463d9ab0f23f19277d07d6dbe4771236db32a7ca02f95a485361853`
+In dieser Zeit,
+sagt Irenäus,
+fiel auch Polykarps Reise nach Rom,
+als Anicetus die römische Kirche leitete,
+und er beriet sich mit Anicetus über den Termin des Passahfest\.
+Er sagt über Polykarp noch anderes,
+das es wert ist,
+in unseren Bericht aufgenommen zu werden\.
+Im dritten Buch Gegen die Häresien überliefert er über ihn:
+„Polykarp wurde nicht nur von den Aposteln unterwiesen und verkehrte nicht nur mit denen,
+die den Herrn gesehen hatten;
+er wurde von den Aposteln selbst zum Bischof der Kirche von Smyrna eingesetzt,
+und wir haben ihn gesehen,
+als wir noch sehr jung waren\.
+Denn sein Leben währte lange;
+er führte ein edles Leben bis ins hohe Alter und starb noch edler,
+indem er sein Leben im Martyrium vollendete\.
+Doch er lehrte immer das,
+was er selbst von den Aposteln gelernt hatte,
+und gab der Kirche das weiter,
+was allein als wahr zu gelten hat\.
+Zeugen hierfür sind alle in Asien gegründeten Kirchen sowie die Männer,
+die der Reihe nach Polykarps Nachfolger geworden sind und es geblieben sind\.
+Er ist in der Kirche eine weit wahrere und verlässlichere Autorität und ein Zeuge der Wahrheit als Valentinus,
+Marcion und die anderen Leute verkehrten Sinnes\.
+Er kam auch unter Anicetus nach Rom und bekehrte viele der oben genannten Sektierer zur Kirche Gottes,
+indem er verkündigte,
+dass allein das festzuhalten sei,
+was er wusste,
+von den Aposteln empfangen zu haben und der Kirche weiterzugeben\.
 
-In dieser Zeit, sagt Irenäus, fiel auch Polykarps Reise nach Rom, als Anicetus die römische Kirche leitete, und er beriet sich mit Anicetus über den Termin des Passahfest\. Er sagt über Polykarp noch anderes, das es wert ist, in unseren Bericht aufgenommen zu werden\. Im dritten Buch Gegen die Häresien überliefert er über ihn: „Polykarp wurde nicht nur von den Aposteln unterwiesen und verkehrte nicht nur mit denen, die den Herrn gesehen hatten; er wurde von den Aposteln selbst zum Bischof der Kirche von Smyrna eingesetzt, und wir haben ihn gesehen, als wir noch sehr jung waren\. Denn sein Leben währte lange; er führte ein edles Leben bis ins hohe Alter und starb noch edler, indem er sein Leben im Martyrium vollendete\. Doch er lehrte immer das, was er selbst von den Aposteln gelernt hatte, und gab der Kirche das weiter, was allein als wahr zu gelten hat\. Zeugen hierfür sind alle in Asien gegründeten Kirchen sowie die Männer, die der Reihe nach Polykarps Nachfolger geworden sind und es geblieben sind\. Er ist in der Kirche eine weit wahrere und verlässlichere Autorität und ein Zeuge der Wahrheit als Valentinus, Marcion und die anderen Leute verkehrten Sinnes\. Er kam auch unter Anicetus nach Rom und bekehrte viele der oben genannten Sektierer zur Kirche Gottes, indem er verkündigte, dass allein das festzuhalten sei, was er wusste, von den Aposteln empfangen zu haben und der Kirche weiterzugeben\.
-
-Es gibt auch solche, die ihn sagen hörten, dass Johannes, der Jünger des Herrn in Ephesus, als er zum Baden in die Bäder ging und dort Cerinthus sah, sofort wieder hinausging und ohne zu baden fortging und sagte: „Lasst uns von hier fliehen, bevor die Bäder selbst einstürzen, in denen dieser Feind der Wahrheit, Cerinthus, badet\.“ Polykarp traf einmal zufällig auf Marcion; der sagte zu ihm: „Erkenne uns an\!“ Er antwortete: „Ich erkenne an, ich erkenne an den Erstgeborenen des Satan\!“ Die Apostel und ihre Schüler waren damals so sorgfältig in der Einhaltung ihres Glaubens, dass sie nicht einmal ein Wort mit denen wechselten, die von der Wahrheit abgewichen waren\. Es ist, wie Paulus sagt: „Meide einen Sektierer nach einer ersten und zweiten Zurechtweisung; du weißt, dass er verdreht ist und sündigt, da er sich selbst verurteilt hat\.“[^bible-f4cde932-7f43-422e-83d2-15217443325f] Es gibt zudem Polykarps sehr kraftvollen Brief an die Philipper; darin können alle, die um ihr Heil besorgt sind, den Charakter seines Glaubens und seiner Verkündigung erkennen\.“ So weit Irenäus\. Polykarp hat in diesem Brief, den er an die Philipper schrieb, Belegstellen aus dem ersten Brief des Petrus verwendet\. Als Antoninus, genannt Pius, sein zweiundzwanzigstes Regierungsjahr vollendet hatte, folgten ihm Marcus Aurelius Verus und Antoninus, sein Sohn, mit seinem Bruder Lucius\.
+Es gibt auch solche,
+die ihn sagen hörten,
+dass Johannes,
+der Jünger des Herrn in Ephesus,
+als er zum Baden in die Bäder ging und dort Cerinthus sah,
+sofort wieder hinausging und ohne zu baden fortging und sagte:
+„Lasst uns von hier fliehen,
+bevor die Bäder selbst einstürzen,
+in denen dieser Feind der Wahrheit,
+Cerinthus,
+badet\.“
+Polykarp traf einmal zufällig auf Marcion;
+der sagte zu ihm:
+„Erkenne uns an\!“
+Er antwortete:
+„Ich erkenne an,
+ich erkenne an den Erstgeborenen des Satan\!“
+Die Apostel und ihre Schüler waren damals so sorgfältig in der Einhaltung ihres Glaubens,
+dass sie nicht einmal ein Wort mit denen wechselten,
+die von der Wahrheit abgewichen waren\.
+Es ist,
+wie Paulus sagt:
+„Meide einen Sektierer nach einer ersten und zweiten Zurechtweisung;
+du weißt,
+dass er verdreht ist und sündigt,
+da er sich selbst verurteilt hat\.“[^bible-f4cde932-7f43-422e-83d2-15217443325f]
+Es gibt zudem Polykarps sehr kraftvollen Brief an die Philipper;
+darin können alle,
+die um ihr Heil besorgt sind,
+den Charakter seines Glaubens und seiner Verkündigung erkennen\.“
+So weit Irenäus\.
+Polykarp hat in diesem Brief,
+den er an die Philipper schrieb,
+Belegstellen aus dem ersten Brief des Petrus verwendet\.
+Als Antoninus,
+genannt Pius,
+sein zweiundzwanzigstes Regierungsjahr vollendet hatte,
+folgten ihm Marcus Aurelius Verus und Antoninus,
+sein Sohn,
+mit seinem Bruder Lucius\.
 
 ## Bibelverweise
 

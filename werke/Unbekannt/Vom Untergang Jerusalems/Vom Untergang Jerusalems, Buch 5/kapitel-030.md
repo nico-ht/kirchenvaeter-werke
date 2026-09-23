@@ -7,8 +7,99 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-5#kapitel-f81c5273-e357-4a14-279d-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:014a95387f45c29a6a17cdb1038164e26701dbc619f14eeff45ce45ebe5dfc3c`
+Eine ruhmreiche Tat unternahm auch der Zenturio Julianus,
+ein Mann von sehr großer Kampfkraft,
+aus der Provinz Bithynien ausgehoben,
+aber nach römischer Art geschult,
+in Kriegen erprobt und berühmt für die Auszeichnungen ehrenvollen Dienstes\.
+Als er nahe bei Caesar stand und sah,
+dass die Römer in die Flucht geschlagen worden waren,
+weil die Juden an Zahl größer waren und bisher nur wenige Römer zur Stelle standen,
+brach er plötzlich von der Antonia hervor und trieb die Angreifer zurück\.
+Sie wagten nicht,
+schon dem bloßen Anblick eines so hervorragenden Mannes und der sicheren,
+stolzen Hoheit seines Mutes,
+die das menschliche Maß überstieg,
+standzuhalten,
+sodass Caesar selbst staunte\.
+O wechselhaftes und unsicheres Würfelspiel des Kampfes,
+das oft mit unerwarteten Ausgängen spottet und gleichsam durch einen Wurf,
+durch Zufall eher als durch Tapferkeit,
+neue Ergebnisse hervorbringt\!
+Denn hier fallen nicht Würfel,
+sondern zahlreiche Wurfspieße und Pfeile,
+auch Steine,
+durch die oft ein Sieger von feindlicher Wunde niedergestreckt wird und,
+während er einem anderen Beute entreißt,
+selbst beraubt wird\.
+So erging es auch Julianus:
+Er bedrohte den Rücken der Feinde,
+tötete andere und hielt sie wie mit einer Schranke auf;
+doch in seiner eigenen Hast zu unvorsichtig,
+mit Schuhen an den Füßen,
+die nach Soldatenbrauch mit Nägeln beschlagen waren,
+achtete er nicht auf den mit glatten Steinen bestreuten Boden,
+den er hätte meiden müssen\.
+Er kämpfte,
+als stünde er auf ebenem Grund,
+glitt unversehens aus,
+stürzte mit lautem Krachen zu Boden und konnte,
+hingestreckt auf dem schlüpfrigen Untergrund,
+nicht wieder aufstehen\.
+Auf ein Knie gestützt,
+wehrte er die zurückgekehrten Feinde ab,
+sodass er die tötete,
+die sich nahe herandrängten,
+und den Wurfspießen,
+soweit er konnte,
+auswich\.
 
-Eine ruhmreiche Tat unternahm auch der Zenturio Julianus, ein Mann von sehr großer Kampfkraft, aus der Provinz Bithynien ausgehoben, aber nach römischer Art geschult, in Kriegen erprobt und berühmt für die Auszeichnungen ehrenvollen Dienstes\. Als er nahe bei Caesar stand und sah, dass die Römer in die Flucht geschlagen worden waren, weil die Juden an Zahl größer waren und bisher nur wenige Römer zur Stelle standen, brach er plötzlich von der Antonia hervor und trieb die Angreifer zurück\. Sie wagten nicht, schon dem bloßen Anblick eines so hervorragenden Mannes und der sicheren, stolzen Hoheit seines Mutes, die das menschliche Maß überstieg, standzuhalten, sodass Caesar selbst staunte\. O wechselhaftes und unsicheres Würfelspiel des Kampfes, das oft mit unerwarteten Ausgängen spottet und gleichsam durch einen Wurf, durch Zufall eher als durch Tapferkeit, neue Ergebnisse hervorbringt\! Denn hier fallen nicht Würfel, sondern zahlreiche Wurfspieße und Pfeile, auch Steine, durch die oft ein Sieger von feindlicher Wunde niedergestreckt wird und, während er einem anderen Beute entreißt, selbst beraubt wird\. So erging es auch Julianus: Er bedrohte den Rücken der Feinde, tötete andere und hielt sie wie mit einer Schranke auf; doch in seiner eigenen Hast zu unvorsichtig, mit Schuhen an den Füßen, die nach Soldatenbrauch mit Nägeln beschlagen waren, achtete er nicht auf den mit glatten Steinen bestreuten Boden, den er hätte meiden müssen\. Er kämpfte, als stünde er auf ebenem Grund, glitt unversehens aus, stürzte mit lautem Krachen zu Boden und konnte, hingestreckt auf dem schlüpfrigen Untergrund, nicht wieder aufstehen\. Auf ein Knie gestützt, wehrte er die zurückgekehrten Feinde ab, sodass er die tötete, die sich nahe herandrängten, und den Wurfspießen, soweit er konnte, auswich\.
-
-Doch davon erschöpft und von der Menge überwältigt, weil er allein war und niemand wagte, sich in eine so große Gefahr zu begeben, starb er dennoch nicht schnell, verachtet und ungerächt\. Keineswegs, so meine ich, hatte er einen solchen Tod verdient, dass so große Tapferkeit in einem Mann um ihren Lohn gebracht werden sollte\. Doch im Krieg ist Besonnenheit am meisten wert: scharf und wachsam bedenkt sie stets die Möglichkeit ungewisser Ereignisse\. Allein kam er aus Antonia hervor, allein stürmte er gegen die feindlichen Kräfte an, allein verwickelte er sich in den Kampf, allein zwang er die Juden, sich in den Tempel zurückzuziehen\. Ich fürchte, gerade das schmerzte am meisten, dass die Gott Untreuen aus dem Tempel vertrieben worden waren\. So fand sein Sturz kein Heilmittel\. Titus sah mit Freude, wie er siegte, und mit großer Sorge, wie er kämpfte; er wollte ihm zu Hilfe kommen, war aber weit entfernt\. Von seinen Leuten wurde er zurückgerufen, weil es bei einem Soldaten nur um das Schicksal eines Einzelnen geht, bei einem Kaiser aber um das Schicksal aller\. Die Gefahr zeigte das Beispiel, das Caesar eher meiden als nachahmen sollte\. Kurz gesagt: Seine Gefährten waren so erschüttert und seine Gegner so begeistert, dass der Leichnam des Julianus tatsächlich in die Gewalt der Feinde geriet, als fürchteten sie ihn selbst noch im Tod, falls er den Römern zurückgegeben würde\. Nachdem Julianus getötet war, wichen die übrigen von der leichten Aufgabe zurück\. Denn eine große Streitmacht war noch nicht hinaufgestiegen, und das Ereignis seines Todes hatte den Kampfmut der Juden gesteigert: Alexa und Gyptheus, Mitverschworene des Iohannes und Anhänger seiner Partei, ferner Melchius und Jacobus, der Anführer der Idumäer, ausgezeichnete Kämpfer aus der Partei des Simon, außerdem Aris Simonis und Iudis, Männer der dritten Partei, die sie ebenso unterstützten; sie schlossen sich zu einem gemeinsamen Trupp zusammen und sperrten die zurückgedrängten Römer in Antonia ein\.
+Doch davon erschöpft und von der Menge überwältigt,
+weil er allein war und niemand wagte,
+sich in eine so große Gefahr zu begeben,
+starb er dennoch nicht schnell,
+verachtet und ungerächt\.
+Keineswegs,
+so meine ich,
+hatte er einen solchen Tod verdient,
+dass so große Tapferkeit in einem Mann um ihren Lohn gebracht werden sollte\.
+Doch im Krieg ist Besonnenheit am meisten wert:
+scharf und wachsam bedenkt sie stets die Möglichkeit ungewisser Ereignisse\.
+Allein kam er aus Antonia hervor,
+allein stürmte er gegen die feindlichen Kräfte an,
+allein verwickelte er sich in den Kampf,
+allein zwang er die Juden,
+sich in den Tempel zurückzuziehen\.
+Ich fürchte,
+gerade das schmerzte am meisten,
+dass die Gott Untreuen aus dem Tempel vertrieben worden waren\.
+So fand sein Sturz kein Heilmittel\.
+Titus sah mit Freude,
+wie er siegte,
+und mit großer Sorge,
+wie er kämpfte;
+er wollte ihm zu Hilfe kommen,
+war aber weit entfernt\.
+Von seinen Leuten wurde er zurückgerufen,
+weil es bei einem Soldaten nur um das Schicksal eines Einzelnen geht,
+bei einem Kaiser aber um das Schicksal aller\.
+Die Gefahr zeigte das Beispiel,
+das Caesar eher meiden als nachahmen sollte\.
+Kurz gesagt:
+Seine Gefährten waren so erschüttert und seine Gegner so begeistert,
+dass der Leichnam des Julianus tatsächlich in die Gewalt der Feinde geriet,
+als fürchteten sie ihn selbst noch im Tod,
+falls er den Römern zurückgegeben würde\.
+Nachdem Julianus getötet war,
+wichen die übrigen von der leichten Aufgabe zurück\.
+Denn eine große Streitmacht war noch nicht hinaufgestiegen,
+und das Ereignis seines Todes hatte den Kampfmut der Juden gesteigert:
+Alexa und Gyptheus,
+Mitverschworene des Iohannes und Anhänger seiner Partei,
+ferner Melchius und Jacobus,
+der Anführer der Idumäer,
+ausgezeichnete Kämpfer aus der Partei des Simon,
+außerdem Aris Simonis und Iudis,
+Männer der dritten Partei,
+die sie ebenso unterstützten;
+sie schlossen sich zu einem gemeinsamen Trupp zusammen und sperrten die zurückgedrängten Römer in Antonia ein\.

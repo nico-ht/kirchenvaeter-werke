@@ -7,9 +7,81 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/5-homilie-ueber-matthaeus#kapitel-d97e2b5d-cc01-4bf1-5a2c-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5ee5068f1326a36064ff307687cc27ea1f131771d2ef6ef303b4aec100d585b6`
-
-Dies alles aber ist geschehen, damit erfüllt würde, was vom Herrn durch den Propheten gesagt worden war: „Siehe, die Jungfrau wird empfangen und einen Sohn gebären, und man wird ihm den Namen Emmanuel geben\.[^bible-b14f4741-1a93-4a03-a865-d3d89a6c048e]“ Ich höre viele sagen: Während wir hier sind und Freude am Hören haben, werden wir innerlich gezügelt; sobald wir aber hinausgegangen sind, werden wir wieder ganz andere Menschen und löschen das Feuer unseres Eifers aus\. Was kann also geschehen, damit dies nicht geschieht? Sehen wir zu, woher es kommt\. Woher also kommt bei uns eine so große Veränderung? Von unangemessener Beschäftigung und vom Umgang mit schlechten Menschen\. Denn man sollte, wenn man aus der Versammlung weggeht, sich nicht in Geschäfte stürzen, die der Versammlung nicht entsprechen, sondern sofort nach Hause gehen, das Buch zur Hand nehmen, Frau und Kinder zur gemeinsamen Sammlung des Gesagten rufen und erst dann die Angelegenheiten des Lebens anfassen\. Wenn du nämlich nach dem Bad dich nicht auf den Markt stürzen wolltest, um die dort gewonnene Erholung nicht durch die Geschäfte auf dem Markt zu verderben, dann sollte man nach der Versammlung erst recht so handeln\. Jetzt aber tun wir das Gegenteil; eben deshalb verlieren wir auch alles\. Denn noch bevor der Nutzen des Gesagten sich richtig festgesetzt hat, bricht der gewaltige Ansturm dessen, was von außen auf uns eindringt, herein, reißt alles mit sich fort, und alles ist dahin\. Damit dies also nicht geschieht, halte beim Weggehen aus der Versammlung nichts für notwendiger als die Sammlung des Gesagten\. Denn es wäre äußerste Undankbarkeit, fünf und sechs Tage den Angelegenheiten des Lebens zuzuteilen, den geistlichen Dingen aber nicht einmal einen Tag, ja nicht einmal einen kleinen Teil des Tages zu geben\. Seht ihr nicht unsere Kinder, wie sie die Lektionen, die sie aufgenommen haben, den ganzen Tag über einüben? Genau das wollen auch wir tun; sonst wird uns unser Kommen hierher nichts nützen: Wir schöpfen dann Tag für Tag in ein durchlöchertes Fass und bringen nicht einmal so viel Sorgfalt für die Bewahrung des Gesagten auf, wie wir sie bei Gold und Silber zeigen\. Denn wenn einer wenige Denare erhalten hat, legt er sie in einen Beutel und setzt ein Siegel darauf; wir aber empfangen Aussprüche, kostbarer als Gold und Edelsteine, nehmen die Schätze des Geistes auf und legen sie nicht in den Vorratskammern der Seele nieder, sondern lassen sie einfach und aufs Geratewohl aus unserem Denken herausfließen\. Wer wird also noch Mitleid mit uns haben, wenn wir gegen uns selbst Anschläge schmieden und uns in eine solche Armut stürzen? Damit dies also nicht geschieht, wollen wir uns selbst, unseren Frauen und unseren Kindern ein unverrückbares Gesetz auferlegen: diesen einen Tag der Woche ganz dem Hören und der Sammlung des Gehörten zu widmen\. So werden wir auch besser vorbereitet dem begegnen, was künftig gesagt werden soll; für uns wird die Mühe geringer sein und für euch der Gewinn größer, wenn ihr das früher Gesagte im Gedächtnis tragt und so das Folgende hört\. Denn auch dies trägt nicht wenig zum Verständnis des Gesagten bei: den Zusammenhang der Gedanken genau zu kennen, die wir für euch ineinanderweben\. Da man nämlich nicht alles an einem einzigen Tag niederlegen kann, verbindet das, was wir euch an vielen Tagen anvertrauen, durch beständiges Erinnern gleichsam zu einer Kette und legt es so eurer Seele um, damit der ganze Leib der Schriften sichtbar wird\. Erinnert euch also an das, was jüngst gesagt wurde; so wollen wir auch heute zu dem vor uns Liegenden übergehen\.
+Dies alles aber ist geschehen,
+damit erfüllt würde,
+was vom Herrn durch den Propheten gesagt worden war:
+„Siehe,
+die Jungfrau wird empfangen und einen Sohn gebären,
+und man wird ihm den Namen Emmanuel geben\.[^bible-b14f4741-1a93-4a03-a865-d3d89a6c048e]“ Ich höre viele sagen:
+Während wir hier sind und Freude am Hören haben,
+werden wir innerlich gezügelt;
+sobald wir aber hinausgegangen sind,
+werden wir wieder ganz andere Menschen und löschen das Feuer unseres Eifers aus\.
+Was kann also geschehen,
+damit dies nicht geschieht?
+Sehen wir zu,
+woher es kommt\.
+Woher also kommt bei uns eine so große Veränderung?
+Von unangemessener Beschäftigung und vom Umgang mit schlechten Menschen\.
+Denn man sollte,
+wenn man aus der Versammlung weggeht,
+sich nicht in Geschäfte stürzen,
+die der Versammlung nicht entsprechen,
+sondern sofort nach Hause gehen,
+das Buch zur Hand nehmen,
+Frau und Kinder zur gemeinsamen Sammlung des Gesagten rufen und erst dann die Angelegenheiten des Lebens anfassen\.
+Wenn du nämlich nach dem Bad dich nicht auf den Markt stürzen wolltest,
+um die dort gewonnene Erholung nicht durch die Geschäfte auf dem Markt zu verderben,
+dann sollte man nach der Versammlung erst recht so handeln\.
+Jetzt aber tun wir das Gegenteil;
+eben deshalb verlieren wir auch alles\.
+Denn noch bevor der Nutzen des Gesagten sich richtig festgesetzt hat,
+bricht der gewaltige Ansturm dessen,
+was von außen auf uns eindringt,
+herein,
+reißt alles mit sich fort,
+und alles ist dahin\.
+Damit dies also nicht geschieht,
+halte beim Weggehen aus der Versammlung nichts für notwendiger als die Sammlung des Gesagten\.
+Denn es wäre äußerste Undankbarkeit,
+fünf und sechs Tage den Angelegenheiten des Lebens zuzuteilen,
+den geistlichen Dingen aber nicht einmal einen Tag,
+ja nicht einmal einen kleinen Teil des Tages zu geben\.
+Seht ihr nicht unsere Kinder,
+wie sie die Lektionen,
+die sie aufgenommen haben,
+den ganzen Tag über einüben?
+Genau das wollen auch wir tun;
+sonst wird uns unser Kommen hierher nichts nützen:
+Wir schöpfen dann Tag für Tag in ein durchlöchertes Fass und bringen nicht einmal so viel Sorgfalt für die Bewahrung des Gesagten auf,
+wie wir sie bei Gold und Silber zeigen\.
+Denn wenn einer wenige Denare erhalten hat,
+legt er sie in einen Beutel und setzt ein Siegel darauf;
+wir aber empfangen Aussprüche,
+kostbarer als Gold und Edelsteine,
+nehmen die Schätze des Geistes auf und legen sie nicht in den Vorratskammern der Seele nieder,
+sondern lassen sie einfach und aufs Geratewohl aus unserem Denken herausfließen\.
+Wer wird also noch Mitleid mit uns haben,
+wenn wir gegen uns selbst Anschläge schmieden und uns in eine solche Armut stürzen?
+Damit dies also nicht geschieht,
+wollen wir uns selbst,
+unseren Frauen und unseren Kindern ein unverrückbares Gesetz auferlegen:
+diesen einen Tag der Woche ganz dem Hören und der Sammlung des Gehörten zu widmen\.
+So werden wir auch besser vorbereitet dem begegnen,
+was künftig gesagt werden soll;
+für uns wird die Mühe geringer sein und für euch der Gewinn größer,
+wenn ihr das früher Gesagte im Gedächtnis tragt und so das Folgende hört\.
+Denn auch dies trägt nicht wenig zum Verständnis des Gesagten bei:
+den Zusammenhang der Gedanken genau zu kennen,
+die wir für euch ineinanderweben\.
+Da man nämlich nicht alles an einem einzigen Tag niederlegen kann,
+verbindet das,
+was wir euch an vielen Tagen anvertrauen,
+durch beständiges Erinnern gleichsam zu einer Kette und legt es so eurer Seele um,
+damit der ganze Leib der Schriften sichtbar wird\.
+Erinnert euch also an das,
+was jüngst gesagt wurde;
+so wollen wir auch heute zu dem vor uns Liegenden übergehen\.
 
 ## Bibelverweise
 

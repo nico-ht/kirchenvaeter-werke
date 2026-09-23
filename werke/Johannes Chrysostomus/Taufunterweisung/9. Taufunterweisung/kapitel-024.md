@@ -7,6 +7,17 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/9-taufunterweisung#kapitel-eec598e3-24a1-40b3-cd19-08ddea5063d8).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:856ac05fe06c66a3b8f93a90d6a50b809e8510d27c6502b8bb22de86ff13694c`
-
-Beachte, dass das Bad in einem etwas mystischen Sinne verstanden wird; denn er sagt nicht einfach ein Gefäß aus Ton, sondern ein Tongefäß\. Achte gut darauf, denn wenn ein Gefäß aus gebranntem Ton zerbrochen wird, kann es nicht wieder zusammengesetzt werden, aufgrund der dauerhaften Härte, die es durch das Feuer erlangt hat\. Das Tongefäß hingegen ist nicht aus gebranntem Ton, sondern aus feuchtem Ton gefertigt\. Folglich, wenn es verzerrt ist, kann es durch die Geschicklichkeit des Handwerkers eine neue Form erhalten\.
+Beachte,
+dass das Bad in einem etwas mystischen Sinne verstanden wird;
+denn er sagt nicht einfach ein Gefäß aus Ton,
+sondern ein Tongefäß\.
+Achte gut darauf,
+denn wenn ein Gefäß aus gebranntem Ton zerbrochen wird,
+kann es nicht wieder zusammengesetzt werden,
+aufgrund der dauerhaften Härte,
+die es durch das Feuer erlangt hat\.
+Das Tongefäß hingegen ist nicht aus gebranntem Ton,
+sondern aus feuchtem Ton gefertigt\.
+Folglich,
+wenn es verzerrt ist,
+kann es durch die Geschicklichkeit des Handwerkers eine neue Form erhalten\.

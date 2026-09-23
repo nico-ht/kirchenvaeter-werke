@@ -7,6 +7,6 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-2#kapitel-856be5c8-1848-4871-cd33-08ddea5063d8).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ccbab7b6a82ea02db97c65fbd186e59dbf975c50eaa3ac5c2a5c152c121d0704`
-
-Im ersten Jahr der Regierung Neros übernahm Anianos als Nachfolger von Markus, dem Evangelisten, den Bischofssitz der Kirche in Alexandria\.
+Im ersten Jahr der Regierung Neros übernahm Anianos als Nachfolger von Markus,
+dem Evangelisten,
+den Bischofssitz der Kirche in Alexandria\.

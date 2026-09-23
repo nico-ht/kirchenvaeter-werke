@@ -7,11 +7,90 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-6f88b98d-8e94-4f4d-effc-08de65b8739d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:1dfc0ce1c6fdeef57f431efb5e6e61bcba66e1a163c9c9707a6f0a90272e2f68`
+Ihr solltet aber Sacharja glauben,
+wenn er das Geheimnis Christi auf diese Weise in einem Gleichnis beschreibt und es mit verborgenem Sinn verkündet\.
+Dies sind seine Worte:
+‚Freue dich und sei fröhlich,
+O Tochter Zion;
+denn siehe,
+ich komme,
+und ich werde in deiner Mitte wohnen,
+spricht der Herr\.
+Und viele Nationen werden sich an jenem Tag dem Herrn anschließen,
+und sie werden mein Volk sein;
+und ich werde in deiner Mitte wohnen,
+und sie werden erkennen,
+dass der Herr der Heerscharen mich zu dir gesandt hat\.
+Und der Herr wird Juda besitzen,
+seinen Anteil im heiligen Land,
+und wird Jerusalem wieder erwählen\.
+Alles Fleisch hüte sich vor der Gegenwart des Herrn,
+denn er hat sich aus seinen heiligen Wolken erhoben\.
+Und er zeigte mir Jesus,
+den Hohepriester,
+der vor dem Engel \[des Herrn\] stand;
+und der Teufel stand zu seiner Rechten,
+um sich ihm zu widersetzen;
+und der Herr sprach zum Teufel:
+Der Herr,
+der Jerusalem erwählt hat,
+weise dich zurecht\!
+Siehe,
+ist dies nicht ein Brandscheit,
+das aus dem Feuer gerissen wurde?‘[^bible-c5e6e9f5-dc7a-4ea2-a74a-9bb5a5ce1615]
+Als Trypho gerade antworten und mir widersprechen wollte,
+sagte ich:
+‚Einen Moment\!
+Bitte hört mich an,
+denn ich werde diese Stelle nicht so auslegen,
+wie ihr denkt – als ob es nie einen Priester namens Jesus in Babylon gegeben hätte,
+dem Land der Gefangenschaft eures Volkes\.
+Selbst wenn ich das täte,
+hätte ich bewiesen,
+dass der Prophet,
+falls es einen Priester namens Jesus unter eurem Volk gab,
+diesen nicht in seiner Offenbarung sah,
+so wie er auch den Teufel oder den Engel des Herrn nicht mit seinen eigenen Augen sah,
+da er sich in seiner Offenbarung nicht in einem normalen Zustand befand,
+sondern in einer Ekstase\.
 
-Ihr solltet aber Sacharja glauben, wenn er das Geheimnis Christi auf diese Weise in einem Gleichnis beschreibt und es mit verborgenem Sinn verkündet\. Dies sind seine Worte: ‚Freue dich und sei fröhlich, O Tochter Zion; denn siehe, ich komme, und ich werde in deiner Mitte wohnen, spricht der Herr\. Und viele Nationen werden sich an jenem Tag dem Herrn anschließen, und sie werden mein Volk sein; und ich werde in deiner Mitte wohnen, und sie werden erkennen, dass der Herr der Heerscharen mich zu dir gesandt hat\. Und der Herr wird Juda besitzen, seinen Anteil im heiligen Land, und wird Jerusalem wieder erwählen\. Alles Fleisch hüte sich vor der Gegenwart des Herrn, denn er hat sich aus seinen heiligen Wolken erhoben\. Und er zeigte mir Jesus, den Hohepriester, der vor dem Engel \[des Herrn\] stand; und der Teufel stand zu seiner Rechten, um sich ihm zu widersetzen; und der Herr sprach zum Teufel: Der Herr, der Jerusalem erwählt hat, weise dich zurecht\! Siehe, ist dies nicht ein Brandscheit, das aus dem Feuer gerissen wurde?‘[^bible-c5e6e9f5-dc7a-4ea2-a74a-9bb5a5ce1615] Als Trypho gerade antworten und mir widersprechen wollte, sagte ich: ‚Einen Moment\! Bitte hört mich an, denn ich werde diese Stelle nicht so auslegen, wie ihr denkt – als ob es nie einen Priester namens Jesus in Babylon gegeben hätte, dem Land der Gefangenschaft eures Volkes\. Selbst wenn ich das täte, hätte ich bewiesen, dass der Prophet, falls es einen Priester namens Jesus unter eurem Volk gab, diesen nicht in seiner Offenbarung sah, so wie er auch den Teufel oder den Engel des Herrn nicht mit seinen eigenen Augen sah, da er sich in seiner Offenbarung nicht in einem normalen Zustand befand, sondern in einer Ekstase\.
-
-Aber nun behaupte ich: Genauso wie der Heilige Geist bekräftigte, dass jener durch den Namen Jesus, der dem Sohn des Nun verliehen wurde, Wunder und andere Taten vollbrachte, die im Voraus abbildeten, was unser Herr tun würde, so werde ich beweisen, dass die Offenbarung, die unter eurem Volk in Babylon in den Tagen des Priesters Jesus geschah, eine Vorhersage dessen war, was durch unseren Priester und Gott und Christus, den Sohn des Vaters des Universums, getan werden sollte\. Ich war vorhin tatsächlich überrascht‘, fuhr ich fort, ‚dass ihr geschwiegen und mir nicht widersprochen habt, als ich feststellte, dass der Sohn des Nun der einzige seiner Zeitgenossen war, der aus Ägypten floh, um zusammen mit denen, die als die Jugend jener Generation beschrieben wurden, in das Heilige Land einzuziehen\. Denn genau wie Fliegen auf Wunden, so schwärmt ihr zusammen und lasst euch nieder\. Und selbst wenn jemand zehntausend Worte akkurat äußert und ein kleines Wort euch Anstoß erregt, weil es nicht verständlich oder exakt genug ist, überseht ihr die vielen akkuraten Worte komplett und stürzt euch auf ein kleines Wort und tut euer Äußerstes, um es gotteslästerlich und böse erscheinen zu lassen\. Folglich werdet ihr, wenn ihr von Gott mit derselben Art von Gericht gerichtet werdet, strengere Rechenschaft für eure Taten der Voreiligkeit ablegen müssen, seien es sündige Handlungen oder falsche und verkehrte Auslegungen der Schrift; denn: Mit welchem Urteil ihr richtet, ist es recht, dass ihr gerichtet werdet\.[^bible-05717215-021f-4baa-b70c-95146c60a64b]‘
+Aber nun behaupte ich:
+Genauso wie der Heilige Geist bekräftigte,
+dass jener durch den Namen Jesus,
+der dem Sohn des Nun verliehen wurde,
+Wunder und andere Taten vollbrachte,
+die im Voraus abbildeten,
+was unser Herr tun würde,
+so werde ich beweisen,
+dass die Offenbarung,
+die unter eurem Volk in Babylon in den Tagen des Priesters Jesus geschah,
+eine Vorhersage dessen war,
+was durch unseren Priester und Gott und Christus,
+den Sohn des Vaters des Universums,
+getan werden sollte\.
+Ich war vorhin tatsächlich überrascht‘,
+fuhr ich fort,
+‚dass ihr geschwiegen und mir nicht widersprochen habt,
+als ich feststellte,
+dass der Sohn des Nun der einzige seiner Zeitgenossen war,
+der aus Ägypten floh,
+um zusammen mit denen,
+die als die Jugend jener Generation beschrieben wurden,
+in das Heilige Land einzuziehen\.
+Denn genau wie Fliegen auf Wunden,
+so schwärmt ihr zusammen und lasst euch nieder\.
+Und selbst wenn jemand zehntausend Worte akkurat äußert und ein kleines Wort euch Anstoß erregt,
+weil es nicht verständlich oder exakt genug ist,
+überseht ihr die vielen akkuraten Worte komplett und stürzt euch auf ein kleines Wort und tut euer Äußerstes,
+um es gotteslästerlich und böse erscheinen zu lassen\.
+Folglich werdet ihr,
+wenn ihr von Gott mit derselben Art von Gericht gerichtet werdet,
+strengere Rechenschaft für eure Taten der Voreiligkeit ablegen müssen,
+seien es sündige Handlungen oder falsche und verkehrte Auslegungen der Schrift;
+denn:
+Mit welchem Urteil ihr richtet,
+ist es recht,
+dass ihr gerichtet werdet\.[^bible-05717215-021f-4baa-b70c-95146c60a64b]‘
 
 ## Bibelverweise
 

@@ -7,6 +7,51 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-3#kapitel-86453c4b-6535-4270-9765-08dd0a5c7235).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a98edc1210aa70edc2c43df0cea3c2dda20bb6e1f67e15daa280dbfa28caec7d`
-
-Petrus sagte: "Wer ist derjenige, der ernsthaft nach Unterweisung strebt und in jede Einzelheit eingehend forscht, wenn nicht der, der seine eigene Seele zur Rettung liebt und alle Angelegenheiten dieser Welt aufgibt, um sich nur dem Wort Gottes zu widmen? Solch einer ist derjenige, den der wahre Prophet für weise hält, der alles verkauft, was er hat, und die eine wahre Perle kauft, die versteht, was der Unterschied zwischen vergänglichen und ewigen Dingen, zwischen Kleinem und Großem, zwischen Mensch und Gott ist\. Denn er erkennt die ewige Hoffnung in der Gegenwart des wahren und guten Gottes\. Aber wer liebt Gott, wenn nicht der, der Seine Weisheit kennt? Und wie kann jemand die Weisheit Gottes erlangen, es sei denn, er ist beständig im Hören Seines Wortes? Daher kommt es, dass er eine Liebe zu Ihm empfindet und Ihn mit würdiger Ehre verehrt, indem er Hymnen und Gebete an Ihn richtet und sich in diesen am angenehmsten ausruht\. Er hält es für sein größtes Unglück, wenn er auch nur für einen Moment etwas anderes spricht oder tut; denn in Wirklichkeit kann die Seele, die mit der Liebe Gottes erfüllt ist, nichts anderes betrachten als das, was zu Gott gehört\. Aus Liebe zu Ihm kann sie sich nicht mit den Dingen beschäftigen, von denen sie weiß, dass sie Ihm nicht gefallen\. Aber diejenigen, die keine Zuneigung zu Ihm entwickelt haben und dessen Liebe nicht in ihrem Geist entzündet ist, befinden sich gleichsam in Dunkelheit und können das Licht nicht sehen\. Daher erlahmen sie, noch bevor sie beginnen, etwas über Gott zu lernen, als wären sie von der Arbeit erschöpft\. Erfüllt von Müdigkeit werden sie sofort von ihren eigenen Gewohnheiten zu den Worten gedrängt, die ihnen angenehm sind\. Für solche Personen ist es mühsam und lästig, etwas über Gott zu hören; und das aus dem Grund, den ich genannt habe, weil ihr Geist keine Süße der göttlichen Liebe empfangen hat\."
+Petrus sagte:
+"Wer ist derjenige,
+der ernsthaft nach Unterweisung strebt und in jede Einzelheit eingehend forscht,
+wenn nicht der,
+der seine eigene Seele zur Rettung liebt und alle Angelegenheiten dieser Welt aufgibt,
+um sich nur dem Wort Gottes zu widmen?
+Solch einer ist derjenige,
+den der wahre Prophet für weise hält,
+der alles verkauft,
+was er hat,
+und die eine wahre Perle kauft,
+die versteht,
+was der Unterschied zwischen vergänglichen und ewigen Dingen,
+zwischen Kleinem und Großem,
+zwischen Mensch und Gott ist\.
+Denn er erkennt die ewige Hoffnung in der Gegenwart des wahren und guten Gottes\.
+Aber wer liebt Gott,
+wenn nicht der,
+der Seine Weisheit kennt?
+Und wie kann jemand die Weisheit Gottes erlangen,
+es sei denn,
+er ist beständig im Hören Seines Wortes?
+Daher kommt es,
+dass er eine Liebe zu Ihm empfindet und Ihn mit würdiger Ehre verehrt,
+indem er Hymnen und Gebete an Ihn richtet und sich in diesen am angenehmsten ausruht\.
+Er hält es für sein größtes Unglück,
+wenn er auch nur für einen Moment etwas anderes spricht oder tut;
+denn in Wirklichkeit kann die Seele,
+die mit der Liebe Gottes erfüllt ist,
+nichts anderes betrachten als das,
+was zu Gott gehört\.
+Aus Liebe zu Ihm kann sie sich nicht mit den Dingen beschäftigen,
+von denen sie weiß,
+dass sie Ihm nicht gefallen\.
+Aber diejenigen,
+die keine Zuneigung zu Ihm entwickelt haben und dessen Liebe nicht in ihrem Geist entzündet ist,
+befinden sich gleichsam in Dunkelheit und können das Licht nicht sehen\.
+Daher erlahmen sie,
+noch bevor sie beginnen,
+etwas über Gott zu lernen,
+als wären sie von der Arbeit erschöpft\.
+Erfüllt von Müdigkeit werden sie sofort von ihren eigenen Gewohnheiten zu den Worten gedrängt,
+die ihnen angenehm sind\.
+Für solche Personen ist es mühsam und lästig,
+etwas über Gott zu hören;
+und das aus dem Grund,
+den ich genannt habe,
+weil ihr Geist keine Süße der göttlichen Liebe empfangen hat\."

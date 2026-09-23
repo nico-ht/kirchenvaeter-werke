@@ -7,6 +7,52 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/gegen-die-bekanntmachung-der-fehler-von-bruedern#kapitel-06e61a9a-ee4f-47c1-7954-08dd11809e0c).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:488d5a3ba52fedd54574647207f352f0560bb613d996cbcee0a5d66def3fc6c3`
-
-Lasst uns daher nicht den Reichtum beschuldigen, noch die Armut an sich verurteilen, sondern diejenigen, die nicht bereit sind, diese Dinge tugendhaft zu nutzen; denn die Dinge selbst liegen in der Mitte\. Aber wie ich schon sagte \(denn es ist gut, zum vorherigen Thema zurückzukehren\), genießen sowohl Reiche als auch Arme den Nutzen der hier verabreichten Heilmittel mit derselben Zuversicht und Freiheit; oft tun dies die Armen sogar mit größerem Eifer\. Denn die besondere Exzellenz dieser Heilmittel liegt nicht nur darin, dass sie Seelen heilen, dass ihre Kraft nicht durch die Zeit geschwächt wird, dass sie von keiner Krankheit überwältigt werden, dass der Nutzen kostenlos öffentlich angeboten wird und die Behandlung sowohl für Reiche als auch für Arme auf einer Grundlage der Gleichheit erfolgt – sie haben auch eine weitere Eigenschaft, die diesen guten Punkten nicht nachsteht\. Welche Eigenschaft ist das? Es ist die, dass wir diejenigen, die zu dieser Heilstätte kommen, nicht öffentlich bloßstellen\. Denn diejenigen, die in die Heilstätten der Außenwelt gehen, haben viele, die ihre Wunden untersuchen, und der Arzt legt das Geschwür erst frei, bevor er den Verband anlegt\. Hier jedoch ist es anders: Obwohl wir unzählige Patienten sehen, führen wir ihre Behandlung auf verborgene Weise durch\. Denn wir ziehen die Sünder nicht in die Öffentlichkeit, um ihre begangenen Sünden bekannt zu machen\. Stattdessen bringen wir unsere Lehre vor, die für alle gleichermaßen gilt, und überlassen es dem Gewissen der Zuhörer, das für ihre eigene Wunde passende Heilmittel aus dem Gesagten zu entnehmen\. Denn aus dem Mund des Sprechers strömt das Wort der Lehre; das Anklage gegen das Böse, Lob für die Tugend, Tadel der Lüsternheit, Lob der Keuschheit, Tadel des Stolzes und Lob der Sanftmut enthält – ähnlich einem Heilmittel mit verschiedenen und vielfältigen Zutaten, die aus allen Arten zusammengesetzt sind\. Es ist die Aufgabe jedes Zuhörers, das für ihn passende und heilsame Mittel zu entnehmen\. So wird das Wort offen ausgesprochen, und es dringt in das Gewissen jedes Einzelnen ein, gewährt ihm im Verborgenen die heilende Behandlung und stellt oft die Gesundheit wieder her, bevor die Krankheit enthüllt wurde\.
+Lasst uns daher nicht den Reichtum beschuldigen,
+noch die Armut an sich verurteilen,
+sondern diejenigen,
+die nicht bereit sind,
+diese Dinge tugendhaft zu nutzen;
+denn die Dinge selbst liegen in der Mitte\.
+Aber wie ich schon sagte \(denn es ist gut,
+zum vorherigen Thema zurückzukehren\),
+genießen sowohl Reiche als auch Arme den Nutzen der hier verabreichten Heilmittel mit derselben Zuversicht und Freiheit;
+oft tun dies die Armen sogar mit größerem Eifer\.
+Denn die besondere Exzellenz dieser Heilmittel liegt nicht nur darin,
+dass sie Seelen heilen,
+dass ihre Kraft nicht durch die Zeit geschwächt wird,
+dass sie von keiner Krankheit überwältigt werden,
+dass der Nutzen kostenlos öffentlich angeboten wird und die Behandlung sowohl für Reiche als auch für Arme auf einer Grundlage der Gleichheit erfolgt – sie haben auch eine weitere Eigenschaft,
+die diesen guten Punkten nicht nachsteht\.
+Welche Eigenschaft ist das?
+Es ist die,
+dass wir diejenigen,
+die zu dieser Heilstätte kommen,
+nicht öffentlich bloßstellen\.
+Denn diejenigen,
+die in die Heilstätten der Außenwelt gehen,
+haben viele,
+die ihre Wunden untersuchen,
+und der Arzt legt das Geschwür erst frei,
+bevor er den Verband anlegt\.
+Hier jedoch ist es anders:
+Obwohl wir unzählige Patienten sehen,
+führen wir ihre Behandlung auf verborgene Weise durch\.
+Denn wir ziehen die Sünder nicht in die Öffentlichkeit,
+um ihre begangenen Sünden bekannt zu machen\.
+Stattdessen bringen wir unsere Lehre vor,
+die für alle gleichermaßen gilt,
+und überlassen es dem Gewissen der Zuhörer,
+das für ihre eigene Wunde passende Heilmittel aus dem Gesagten zu entnehmen\.
+Denn aus dem Mund des Sprechers strömt das Wort der Lehre;
+das Anklage gegen das Böse,
+Lob für die Tugend,
+Tadel der Lüsternheit,
+Lob der Keuschheit,
+Tadel des Stolzes und Lob der Sanftmut enthält – ähnlich einem Heilmittel mit verschiedenen und vielfältigen Zutaten,
+die aus allen Arten zusammengesetzt sind\.
+Es ist die Aufgabe jedes Zuhörers,
+das für ihn passende und heilsame Mittel zu entnehmen\.
+So wird das Wort offen ausgesprochen,
+und es dringt in das Gewissen jedes Einzelnen ein,
+gewährt ihm im Verborgenen die heilende Behandlung und stellt oft die Gesundheit wieder her,
+bevor die Krankheit enthüllt wurde\.

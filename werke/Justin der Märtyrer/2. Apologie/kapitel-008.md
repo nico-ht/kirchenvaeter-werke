@@ -7,8 +7,35 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/2-apologie#kapitel-9f7b9512-40f0-42e9-ec34-08dd722811bf).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5c059f5f8a5de0a02d749154fa7cbfa0b9ce2a2062f334e9932b976a5a8c8183`
+Und die Anhänger der stoischen Schule – da sie,
+was ihre moralische Lehre betrifft,
+bewundernswert waren,
+ebenso wie die Dichter in einigen Aspekten,
+aufgrund des Samens der Vernunft \[des Logos\],
+der in jeder Menschheit eingepflanzt ist – wurden,
+wie wir wissen,
+gehasst und getötet\.
+Heraklit zum Beispiel und unter den Zeitgenossen Musonius und andere\.
+Denn,
+wie wir angedeutet haben,
+haben die Teufel stets bewirkt,
+dass all jene,
+die in irgendeiner Weise ein vernünftiges und ernsthaftes Leben führen und das Laster meiden,
+gehasst werden\.
 
-Und die Anhänger der stoischen Schule – da sie, was ihre moralische Lehre betrifft, bewundernswert waren, ebenso wie die Dichter in einigen Aspekten, aufgrund des Samens der Vernunft \[des Logos\], der in jeder Menschheit eingepflanzt ist – wurden, wie wir wissen, gehasst und getötet\. Heraklit zum Beispiel und unter den Zeitgenossen Musonius und andere\. Denn, wie wir angedeutet haben, haben die Teufel stets bewirkt, dass all jene, die in irgendeiner Weise ein vernünftiges und ernsthaftes Leben führen und das Laster meiden, gehasst werden\.
-
-Es ist nichts Wunderliches daran, wenn sich herausstellt, dass die Teufel diejenigen, die nicht nur nach einem Teil des unter den Menschen verbreiteten Wortes leben, sondern durch das Wissen und die Betrachtung des ganzen Wortes, das Christus ist, noch viel mehr hassen\. Und sie, die in das ewige Feuer eingeschlossen sind, werden ihre gerechte Strafe und Buße erleiden\. Denn wenn sie sogar jetzt durch den Namen Jesu Christi von den Menschen überwunden werden, ist dies ein Hinweis auf die Strafe im ewigen Feuer, die ihnen und jenen, die ihnen dienen, auferlegt werden wird\. Denn so haben sowohl alle Propheten vorausgesagt als auch unser Lehrer Jesus gelehrt\.
+Es ist nichts Wunderliches daran,
+wenn sich herausstellt,
+dass die Teufel diejenigen,
+die nicht nur nach einem Teil des unter den Menschen verbreiteten Wortes leben,
+sondern durch das Wissen und die Betrachtung des ganzen Wortes,
+das Christus ist,
+noch viel mehr hassen\.
+Und sie,
+die in das ewige Feuer eingeschlossen sind,
+werden ihre gerechte Strafe und Buße erleiden\.
+Denn wenn sie sogar jetzt durch den Namen Jesu Christi von den Menschen überwunden werden,
+ist dies ein Hinweis auf die Strafe im ewigen Feuer,
+die ihnen und jenen,
+die ihnen dienen,
+auferlegt werden wird\.
+Denn so haben sowohl alle Propheten vorausgesagt als auch unser Lehrer Jesus gelehrt\.

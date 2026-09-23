@@ -7,9 +7,145 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/22-homilie-ueber-matthaeus#kapitel-d1f03318-6ea2-473f-5a94-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d66701e96c7e0c3b1fbf3850a4534e297338c5f89f26078fea9dacccb69077b0`
-
-Darum wollen wir uns keine Sorgen machen; denn wir gewinnen damit nichts weiter, außer dass wir uns selbst aufreiben\. Wenn er ja gibt, ob wir uns sorgen oder nicht, ja mehr noch, wenn wir uns nicht sorgen, was hast du dann von der Sorge, außer dass du von dir selbst eine überflüssige Strafe einforderst? Denn auch wer zu einem reich gedeckten Mahl gehen will, wird es nicht ertragen, sich um Nahrung zu sorgen; und wer zu einer Quelle geht, macht sich keine Sorge ums Trinken\. Darum sollen auch wir, die wir in Gottes Vorsehung eine Versorgung haben, die reicher ist als jede Quelle und als zehntausend bereitstehende Mahlzeiten, uns nicht arm gebärden und nicht kleinmütig sein\. Denn neben dem Gesagten führt er wieder einen weiteren Grund an, weshalb wir in solchen Dingen zuversichtlich sein sollen, wenn er sagt: „Sucht das Königreich der Himmel, und dies alles wird euch hinzugefügt werden\.[^bible-6ad43920-db3b-4dd8-aa86-cf21c2693123]“ Denn nachdem er die Seele von der Sorge befreit hatte, erwähnte er dann auch die Himmel\. Denn er ist ja gekommen, um das Alte aufzuheben und uns in eine größere Heimat zu rufen\. Darum tut er alles, um uns von den überflüssigen Dingen und von der Anhänglichkeit an die Erde zu befreien\. Darum erwähnte er auch die Heiden, indem er sagte, dass die Heiden dies alles suchen: Menschen, deren ganze Mühe dem gegenwärtigen Leben gilt, die keinen Gedanken an das Kommende haben und keine Vorstellung von den Himmeln\. Für euch aber steht nicht dies an erster Stelle, sondern anderes\. Denn wir sind nicht dazu geworden, dass wir essen und trinken und uns kleiden, sondern dazu, dass wir Gott gefallen und die künftigen Güter erlangen\. Wie also diese Dinge in unserem Eifer Nebensache sind, so sollen sie auch in unserem Bitten Nebensache sein\. Darum sprach er auch: „Sucht das Königreich der Himmel, und dies alles wird euch hinzugefügt werden\.[^bible-6ad43920-db3b-4dd8-aa86-cf21c2693123]“ Und er sagte nicht: „Es wird gegeben werden“, sondern: „Es wird hinzugefügt werden“, damit du erkennst: Von dem, was gegeben wird, sind die gegenwärtigen Dinge nichts Großes im Vergleich zur Größe der künftigen\. Eben deshalb befiehlt er auch nicht, sie zu erbitten, sondern anderes zu erbitten und zugleich darauf zu vertrauen, dass auch diese Dinge jenen hinzugefügt werden\. Suche also das Kommende, und du wirst auch das Gegenwärtige empfangen; suche nicht nach dem Sichtbaren, und du wirst es gewiss erlangen\. Denn es ist deiner unwürdig, wegen solcher Dinge vor den Herrn zu treten\. Wenn du all deinen Eifer und deine Sorge auf jene unaussprechlichen Güter richten solltest, beschämst du dich selbst sehr, wenn du beides im Verlangen nach den vergänglichen Dingen verbrauchst\. „Wie also?“, sagt einer\. „Hat er nicht befohlen, um das Brot zu bitten?“ Doch er fügte hinzu: „das für den kommenden Tag[^bible-de6c299f-bcc4-4d65-aee9-1eb37e6d8893]“, und dazu wiederum: „heute[^bible-de6c299f-bcc4-4d65-aee9-1eb37e6d8893]“\. Genau das tut er auch hier\. Denn er sagte nicht: „Sorgt euch nicht“, sondern: „Sorgt euch nicht um den morgigen Tag[^bible-7e60a7cc-3e69-4451-904d-de19d3d1f012]“, indem er uns zugleich Freiheit schenkt und unsere Seele an das bindet, was notwendiger ist\. Denn auch jene Dinge zu erbitten hat er deshalb befohlen, nicht weil Gott es nötig hätte, von uns erinnert zu werden, sondern damit wir lernen: Mit seiner Hilfe bringen wir zustande, was immer wir zustande bringen, und damit wir uns durch das ständige Bitten um diese Dinge mit ihm vertraut machen\. Siehst du, wie er auch von hier aus überzeugt hat, dass sie das Gegenwärtige ganz gewiss empfangen werden? Denn wer das Größere gibt, wird erst recht das Geringere geben\. Nicht deshalb, sagt er, habe ich gesagt, ihr sollt euch nicht sorgen und nicht bitten, damit ihr elend seid und nackt umhergeht, sondern damit ihr auch von diesen Dingen Überfluss habt\. Gerade das war am meisten geeignet, sie anzuziehen\. Wie er sie also bei der Almosengabe davon abhielt, sich vor den Menschen zur Schau zu stellen, und sie vor allem dadurch überzeugte, dass er ihnen versprach, er werde es ihnen mit noch größerer Freigebigkeit vergelten: „Denn dein Vater, der im Verborgenen sieht, wird dir im Sichtbaren vergelten[^bible-ac96a2cd-4fb8-4232-825a-608a99ea87e4]“, so überzeugt er auch hier, indem er sie davon abbringt, diese Dinge zu suchen, vor allem dadurch, dass er denen, die nicht suchen, verspricht, er werde sie mit größerem Überfluss geben\. Denn deshalb, sagt er, befehle ich, nicht zu suchen: nicht damit du nicht empfängst, sondern damit du reichlich empfängst; damit du empfängst in der Haltung, die dir zukommt, und mit dem Nutzen, der dir angemessen ist; damit du dich nicht durch Sorge um diese Dinge und durch innere Zerrissenheit ihrer selbst wie auch der geistlichen Dinge unwürdig machst; damit du keine überflüssige Mühsal erträgst und das Ziel, das vor dir liegt, wiederum verfehlst\. „Sorgt euch also nicht um den morgigen Tag\. Denn jedem Tag ist seine eigene Mühsal genug\.[^bible-7e60a7cc-3e69-4451-904d-de19d3d1f012]“ Das heißt: seine Plage, seine Last\. Reicht es dir nicht, im Schweiß deines Angesichts dein Brot zu essen[^bible-db8e6c03-b378-4246-8152-5e94b8156a11]? Warum fügst du noch eine andere Mühsal hinzu, die aus der Sorge kommt, obwohl du doch von den früheren Mühen künftig befreit werden sollst?
+Darum wollen wir uns keine Sorgen machen;
+denn wir gewinnen damit nichts weiter,
+außer dass wir uns selbst aufreiben\.
+Wenn er ja gibt,
+ob wir uns sorgen oder nicht,
+ja mehr noch,
+wenn wir uns nicht sorgen,
+was hast du dann von der Sorge,
+außer dass du von dir selbst eine überflüssige Strafe einforderst?
+Denn auch wer zu einem reich gedeckten Mahl gehen will,
+wird es nicht ertragen,
+sich um Nahrung zu sorgen;
+und wer zu einer Quelle geht,
+macht sich keine Sorge ums Trinken\.
+Darum sollen auch wir,
+die wir in Gottes Vorsehung eine Versorgung haben,
+die reicher ist als jede Quelle und als zehntausend bereitstehende Mahlzeiten,
+uns nicht arm gebärden und nicht kleinmütig sein\.
+Denn neben dem Gesagten führt er wieder einen weiteren Grund an,
+weshalb wir in solchen Dingen zuversichtlich sein sollen,
+wenn er sagt:
+„Sucht das Königreich der Himmel,
+und dies alles wird euch hinzugefügt werden\.[^bible-6ad43920-db3b-4dd8-aa86-cf21c2693123]“ Denn nachdem er die Seele von der Sorge befreit hatte,
+erwähnte er dann auch die Himmel\.
+Denn er ist ja gekommen,
+um das Alte aufzuheben und uns in eine größere Heimat zu rufen\.
+Darum tut er alles,
+um uns von den überflüssigen Dingen und von der Anhänglichkeit an die Erde zu befreien\.
+Darum erwähnte er auch die Heiden,
+indem er sagte,
+dass die Heiden dies alles suchen:
+Menschen,
+deren ganze Mühe dem gegenwärtigen Leben gilt,
+die keinen Gedanken an das Kommende haben und keine Vorstellung von den Himmeln\.
+Für euch aber steht nicht dies an erster Stelle,
+sondern anderes\.
+Denn wir sind nicht dazu geworden,
+dass wir essen und trinken und uns kleiden,
+sondern dazu,
+dass wir Gott gefallen und die künftigen Güter erlangen\.
+Wie also diese Dinge in unserem Eifer Nebensache sind,
+so sollen sie auch in unserem Bitten Nebensache sein\.
+Darum sprach er auch:
+„Sucht das Königreich der Himmel,
+und dies alles wird euch hinzugefügt werden\.[^bible-6ad43920-db3b-4dd8-aa86-cf21c2693123]“ Und er sagte nicht:
+„Es wird gegeben werden“,
+sondern:
+„Es wird hinzugefügt werden“,
+damit du erkennst:
+Von dem,
+was gegeben wird,
+sind die gegenwärtigen Dinge nichts Großes im Vergleich zur Größe der künftigen\.
+Eben deshalb befiehlt er auch nicht,
+sie zu erbitten,
+sondern anderes zu erbitten und zugleich darauf zu vertrauen,
+dass auch diese Dinge jenen hinzugefügt werden\.
+Suche also das Kommende,
+und du wirst auch das Gegenwärtige empfangen;
+suche nicht nach dem Sichtbaren,
+und du wirst es gewiss erlangen\.
+Denn es ist deiner unwürdig,
+wegen solcher Dinge vor den Herrn zu treten\.
+Wenn du all deinen Eifer und deine Sorge auf jene unaussprechlichen Güter richten solltest,
+beschämst du dich selbst sehr,
+wenn du beides im Verlangen nach den vergänglichen Dingen verbrauchst\.
+„Wie also?“,
+sagt einer\.
+„Hat er nicht befohlen,
+um das Brot zu bitten?“
+Doch er fügte hinzu:
+„das für den kommenden Tag[^bible-de6c299f-bcc4-4d65-aee9-1eb37e6d8893]“,
+und dazu wiederum:
+„heute[^bible-de6c299f-bcc4-4d65-aee9-1eb37e6d8893]“\.
+Genau das tut er auch hier\.
+Denn er sagte nicht:
+„Sorgt euch nicht“,
+sondern:
+„Sorgt euch nicht um den morgigen Tag[^bible-7e60a7cc-3e69-4451-904d-de19d3d1f012]“,
+indem er uns zugleich Freiheit schenkt und unsere Seele an das bindet,
+was notwendiger ist\.
+Denn auch jene Dinge zu erbitten hat er deshalb befohlen,
+nicht weil Gott es nötig hätte,
+von uns erinnert zu werden,
+sondern damit wir lernen:
+Mit seiner Hilfe bringen wir zustande,
+was immer wir zustande bringen,
+und damit wir uns durch das ständige Bitten um diese Dinge mit ihm vertraut machen\.
+Siehst du,
+wie er auch von hier aus überzeugt hat,
+dass sie das Gegenwärtige ganz gewiss empfangen werden?
+Denn wer das Größere gibt,
+wird erst recht das Geringere geben\.
+Nicht deshalb,
+sagt er,
+habe ich gesagt,
+ihr sollt euch nicht sorgen und nicht bitten,
+damit ihr elend seid und nackt umhergeht,
+sondern damit ihr auch von diesen Dingen Überfluss habt\.
+Gerade das war am meisten geeignet,
+sie anzuziehen\.
+Wie er sie also bei der Almosengabe davon abhielt,
+sich vor den Menschen zur Schau zu stellen,
+und sie vor allem dadurch überzeugte,
+dass er ihnen versprach,
+er werde es ihnen mit noch größerer Freigebigkeit vergelten:
+„Denn dein Vater,
+der im Verborgenen sieht,
+wird dir im Sichtbaren vergelten[^bible-ac96a2cd-4fb8-4232-825a-608a99ea87e4]“,
+so überzeugt er auch hier,
+indem er sie davon abbringt,
+diese Dinge zu suchen,
+vor allem dadurch,
+dass er denen,
+die nicht suchen,
+verspricht,
+er werde sie mit größerem Überfluss geben\.
+Denn deshalb,
+sagt er,
+befehle ich,
+nicht zu suchen:
+nicht damit du nicht empfängst,
+sondern damit du reichlich empfängst;
+damit du empfängst in der Haltung,
+die dir zukommt,
+und mit dem Nutzen,
+der dir angemessen ist;
+damit du dich nicht durch Sorge um diese Dinge und durch innere Zerrissenheit ihrer selbst wie auch der geistlichen Dinge unwürdig machst;
+damit du keine überflüssige Mühsal erträgst und das Ziel,
+das vor dir liegt,
+wiederum verfehlst\.
+„Sorgt euch also nicht um den morgigen Tag\.
+Denn jedem Tag ist seine eigene Mühsal genug\.[^bible-7e60a7cc-3e69-4451-904d-de19d3d1f012]“ Das heißt:
+seine Plage,
+seine Last\.
+Reicht es dir nicht,
+im Schweiß deines Angesichts dein Brot zu essen[^bible-db8e6c03-b378-4246-8152-5e94b8156a11]?
+Warum fügst du noch eine andere Mühsal hinzu,
+die aus der Sorge kommt,
+obwohl du doch von den früheren Mühen künftig befreit werden sollst?
 
 ## Bibelverweise
 

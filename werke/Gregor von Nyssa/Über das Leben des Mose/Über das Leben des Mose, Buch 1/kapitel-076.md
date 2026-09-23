@@ -7,6 +7,7 @@ Autor: Gregor von Nyssa
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nyssa/ueber-das-leben-des-mose-buch-1#kapitel-64d19e74-5b47-48d9-8297-08ded879412e).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7a1a8a4b2304e375fb515fd1522919558dbdaaaecafdc77a17b6dd1512e04e96`
-
-dessen Schönheit die Zeit nicht angetastet hatte: Weder hatte sie den Glanz seiner Augen verdunkelt noch die ausstrahlende Anmut seines Angesichts gemindert\. Vielmehr blieb er immer derselbe und bewahrte in der Wandelbarkeit der Natur unverändert, was im Schönen unwandelbar ist\.
+dessen Schönheit die Zeit nicht angetastet hatte:
+Weder hatte sie den Glanz seiner Augen verdunkelt noch die ausstrahlende Anmut seines Angesichts gemindert\.
+Vielmehr blieb er immer derselbe und bewahrte in der Wandelbarkeit der Natur unverändert,
+was im Schönen unwandelbar ist\.

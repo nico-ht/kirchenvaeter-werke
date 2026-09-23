@@ -7,13 +7,147 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/4-predigt-zu-exodus#kapitel-c13d49fb-e05e-4e86-ede0-08dde73bc706).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ab7580459cf100450ec766cb1bba5488f0c16ce83695d05d8b6e11c81f093684`
+Soweit ich es erkennen kann,
+meine ich,
+dass dieser Mose,
+der nach Ägypten kommt und den Stab mit sich bringt,
+mit dem er Ägypten mit den zehn Plagen schlägt und straft,
+das Gesetz Gottes ist,
+das dieser Welt gegeben wurde,
+damit es sie mit den zehn Plagen zurechtweist und bessert,
+das heißt mit den zehn Geboten,
+die im Dekalog enthalten sind\.
+Der Stab aber,
+durch den all dies geschieht,
+durch den Ägypten unterworfen und Pharao überwunden wird,
+ist das Kreuz Christi,
+durch das diese Welt besiegt und „der Herrscher dieser Welt“[^bible-c3db9eea-cd77-4dc2-8f1d-c5eda929e414] samt den Fürstentümern und Gewalten im Triumph einhergeführt wird\.
+Die Bedeutung der Tatsache nun,
+dass der Stab,
+nachdem er hingeworfen wurde,
+zu einem Drachen oder einer Schlange wird und die Schlangen der ägyptischen Magier frisst,
+die ebenso getan hatten,
+wird in jenem Wort des Evangeliums angedeutet,
+das zeigt,
+dass die Schlange Weisheit oder Klugheit bedeutet:
+„Seid weise wie die Schlangen,“[^bible-8995b7d1-a2b6-4380-8941-5a1516952f0e]
+sagt die Schrift,
+und an anderer Stelle:
+„Die Schlange aber war weiser als alle Tiere und alle Tiere des Feldes,
+die im Paradies waren\.“[^bible-ac463fdd-4ea0-4140-91d1-1915f30dbf5f]
+Das Kreuz Christi also,
+dessen Verkündigung als „Dummheit“ erschien,
+dieses Kreuz,
+das Mose,
+das heißt das Gesetz,
+in sich trägt,
+wie der Herr gesagt hat:
+„Denn er hat von mir geschrieben,“[^bible-3103f377-e8fa-41b6-b0cf-b4185b9b0970]
+dieses Kreuz,
+sage ich,
+von dem Mose geschrieben hat,
+ist,
+nachdem es auf die Erde geworfen worden war,
+das heißt,
+nachdem die Menschen begonnen hatten,
+an es zu glauben,
+in Weisheit verwandelt worden,
+und in eine so große Weisheit,
+dass es alle Weisheit der Ägypter,
+das heißt dieser Welt,
+verschlungen hat\.
+Denn bedenke,
+wie „Gott die Weisheit dieser Welt zur Dummheit gemacht hat,“
+nachdem er „Christus,
+den Gekreuzigten,
+als die Kraft Gottes und Weisheit Gottes“[^bible-46876f12-02fd-4b73-984e-8bc175be4a55] offenbart hat,
+und wie jetzt die ganze Welt gefangen ist von dem,
+der gesagt hat:
+„Ich fange die Weisen in ihrer List\.“[^bible-13ca9052-118d-449d-931c-541af2d82c25]
+Auch die Tatsache,
+dass die Wasser des Flusses in Blut verwandelt werden,
+lässt sich sehr treffend deuten\.
 
-Soweit ich es erkennen kann, meine ich, dass dieser Mose, der nach Ägypten kommt und den Stab mit sich bringt, mit dem er Ägypten mit den zehn Plagen schlägt und straft, das Gesetz Gottes ist, das dieser Welt gegeben wurde, damit es sie mit den zehn Plagen zurechtweist und bessert, das heißt mit den zehn Geboten, die im Dekalog enthalten sind\. Der Stab aber, durch den all dies geschieht, durch den Ägypten unterworfen und Pharao überwunden wird, ist das Kreuz Christi, durch das diese Welt besiegt und „der Herrscher dieser Welt“[^bible-c3db9eea-cd77-4dc2-8f1d-c5eda929e414] samt den Fürstentümern und Gewalten im Triumph einhergeführt wird\. Die Bedeutung der Tatsache nun, dass der Stab, nachdem er hingeworfen wurde, zu einem Drachen oder einer Schlange wird und die Schlangen der ägyptischen Magier frisst, die ebenso getan hatten, wird in jenem Wort des Evangeliums angedeutet, das zeigt, dass die Schlange Weisheit oder Klugheit bedeutet: „Seid weise wie die Schlangen,“[^bible-8995b7d1-a2b6-4380-8941-5a1516952f0e] sagt die Schrift, und an anderer Stelle: „Die Schlange aber war weiser als alle Tiere und alle Tiere des Feldes, die im Paradies waren\.“[^bible-ac463fdd-4ea0-4140-91d1-1915f30dbf5f] Das Kreuz Christi also, dessen Verkündigung als „Dummheit“ erschien, dieses Kreuz, das Mose, das heißt das Gesetz, in sich trägt, wie der Herr gesagt hat: „Denn er hat von mir geschrieben,“[^bible-3103f377-e8fa-41b6-b0cf-b4185b9b0970] dieses Kreuz, sage ich, von dem Mose geschrieben hat, ist, nachdem es auf die Erde geworfen worden war, das heißt, nachdem die Menschen begonnen hatten, an es zu glauben, in Weisheit verwandelt worden, und in eine so große Weisheit, dass es alle Weisheit der Ägypter, das heißt dieser Welt, verschlungen hat\. Denn bedenke, wie „Gott die Weisheit dieser Welt zur Dummheit gemacht hat,“ nachdem er „Christus, den Gekreuzigten, als die Kraft Gottes und Weisheit Gottes“[^bible-46876f12-02fd-4b73-984e-8bc175be4a55] offenbart hat, und wie jetzt die ganze Welt gefangen ist von dem, der gesagt hat: „Ich fange die Weisen in ihrer List\.“[^bible-13ca9052-118d-449d-931c-541af2d82c25] Auch die Tatsache, dass die Wasser des Flusses in Blut verwandelt werden, lässt sich sehr treffend deuten\.
+Zuerst ist es recht,
+dass eben jener Fluss,
+in den sie die Kinder der Hebräer zur grausamen Schlachtung geworfen hatten,
+den Urhebern des Bösen nun Blut zu trinken gibt und dass sie das Blut eines verdorbenen Stromes trinken müssen,
+den sie selbst durch Mord entweiht haben\.
+Danach aber,
+damit in den allegorischen Gesetzen nichts fehle,
+wird das Wasser in Blut verwandelt,
+und Ägypten bekommt sein eigenes Blut zu trinken\.
+Die Wasser Ägyptens sind die irrenden und glitschigen Lehren der Philosophen\.
+Weil diese Lehren Menschen getäuscht haben,
+die schwach im Verstand und Kinder im Wissen waren,
+müssen jene Lehren,
+sobald das Kreuz Christi dieser Welt das Licht der Wahrheit zeigt,
+für den Tod der Kinder und für die Blutschuld Strafe zahlen\.
+Denn so sagt auch der Herr selbst:
+„Alles Blut,
+das auf der Erde vergossen worden ist,
+vom Blut Abels,
+des Gerechten,
+bis zum Blut des Zacharias,
+wird von diesem Geschlecht gefordert werden\.“[^bible-7ca829cd-7cb6-4412-8684-9219b54745b5]
+Die Lieder der Dichter,
+so denke ich,
+sind bildlich durch die zweite Plage angedeutet,
+in der Frösche hervorkommen\.
+Die Dichter haben mit einer gewissen leeren,
+aufgeblasenen Melodie verführerische Geschichten in diese Welt eingeführt,
+wie mit dem Gequake und den Liedern der Frösche\.
+Denn dieses Tier ist nutzlos,
+außer dass es einen minderwertigen,
+rauen Laut hervorbringt\.
+Danach kommen die Stechmücken\.
+Dieses Tier wird,
+während es durch die Luft fliegt,
+von seinen Flügeln getragen,
+ist aber so fein und klein,
+dass es dem Auge entgeht,
+wenn man nicht sehr genau hinschaut\.
+Setzt es sich jedoch auf den Körper,
+bohrt es mit dem schärfsten Stachel,
+sodass man das,
+was man im Flug nicht sehen konnte,
+als Stich sehr wohl spürt\.
 
-Zuerst ist es recht, dass eben jener Fluss, in den sie die Kinder der Hebräer zur grausamen Schlachtung geworfen hatten, den Urhebern des Bösen nun Blut zu trinken gibt und dass sie das Blut eines verdorbenen Stromes trinken müssen, den sie selbst durch Mord entweiht haben\. Danach aber, damit in den allegorischen Gesetzen nichts fehle, wird das Wasser in Blut verwandelt, und Ägypten bekommt sein eigenes Blut zu trinken\. Die Wasser Ägyptens sind die irrenden und glitschigen Lehren der Philosophen\. Weil diese Lehren Menschen getäuscht haben, die schwach im Verstand und Kinder im Wissen waren, müssen jene Lehren, sobald das Kreuz Christi dieser Welt das Licht der Wahrheit zeigt, für den Tod der Kinder und für die Blutschuld Strafe zahlen\. Denn so sagt auch der Herr selbst: „Alles Blut, das auf der Erde vergossen worden ist, vom Blut Abels, des Gerechten, bis zum Blut des Zacharias, wird von diesem Geschlecht gefordert werden\.“[^bible-7ca829cd-7cb6-4412-8684-9219b54745b5] Die Lieder der Dichter, so denke ich, sind bildlich durch die zweite Plage angedeutet, in der Frösche hervorkommen\. Die Dichter haben mit einer gewissen leeren, aufgeblasenen Melodie verführerische Geschichten in diese Welt eingeführt, wie mit dem Gequake und den Liedern der Frösche\. Denn dieses Tier ist nutzlos, außer dass es einen minderwertigen, rauen Laut hervorbringt\. Danach kommen die Stechmücken\. Dieses Tier wird, während es durch die Luft fliegt, von seinen Flügeln getragen, ist aber so fein und klein, dass es dem Auge entgeht, wenn man nicht sehr genau hinschaut\. Setzt es sich jedoch auf den Körper, bohrt es mit dem schärfsten Stachel, sodass man das, was man im Flug nicht sehen konnte, als Stich sehr wohl spürt\.
-
-Diese Art von Tier, meine ich, lässt sich am treffendsten mit der Kunst der Dialektik vergleichen, die die Seelen mit winzigen, feinen Stichworten durchbohrt und sie so scharfsinnig umgeht, dass der, der betrogen wird, die Täuschung weder sieht noch begreift\. An vierter Stelle würde ich die Fliege mit der Sekte der Kyniker vergleichen, die neben den übrigen Verderbtheiten ihrer Verführung Lust und Begierde als das höchste Gut ausrufen\. Da also die Welt zuerst durch solche einzelnen Dinge verführt worden ist, tadeln sie das Wort und das Gesetz Gottes, wenn sie kommen, mit eben solchen Schlägen, damit die Welt aus der Art der Strafen die Art ihrer Irrtümer kennenlernt\. Ägypten aber wird an fünfter Stelle durch den Tod der Tiere und des Viehs geschlagen\. Darin wird der Wahnsinn und die Dummheit der Sterblichen überführt, die zum Beispiel unvernünftigem Vieh Verehrung entgegenbrachten und Bildern nicht nur von Menschen, sondern auch von Tieren, in Holz und Stein geprägt, den Namen „Gott“ gaben\. Sie verehren Jupiter Hammon im Widder und Anubis im Hund\. Sie beten Apis im Stier an und andere Tiere, die Ägypten als Wunderzeichen der Götter bewundert\. Darum sehen sie gerade an jenen Tieren jämmerliches Leid, in denen sie meinten, eine Gottheit verehren zu müssen\. Danach kommen in der sechsten Plage Geschwüre und brennende Beulen hervor\. Mir scheint, in den Geschwüren wird die betrügerische, eiternde Bosheit entlarvt, in den Beulen die geschwollene, aufgeblasene Überheblichkeit, in den Fiebern der Wahnsinn des Zorns und der Raserei\. So sehr werden die Leiden in der Welt durch die Gestalten ihrer eigenen Irrtümer regiert\.
+Diese Art von Tier,
+meine ich,
+lässt sich am treffendsten mit der Kunst der Dialektik vergleichen,
+die die Seelen mit winzigen,
+feinen Stichworten durchbohrt und sie so scharfsinnig umgeht,
+dass der,
+der betrogen wird,
+die Täuschung weder sieht noch begreift\.
+An vierter Stelle würde ich die Fliege mit der Sekte der Kyniker vergleichen,
+die neben den übrigen Verderbtheiten ihrer Verführung Lust und Begierde als das höchste Gut ausrufen\.
+Da also die Welt zuerst durch solche einzelnen Dinge verführt worden ist,
+tadeln sie das Wort und das Gesetz Gottes,
+wenn sie kommen,
+mit eben solchen Schlägen,
+damit die Welt aus der Art der Strafen die Art ihrer Irrtümer kennenlernt\.
+Ägypten aber wird an fünfter Stelle durch den Tod der Tiere und des Viehs geschlagen\.
+Darin wird der Wahnsinn und die Dummheit der Sterblichen überführt,
+die zum Beispiel unvernünftigem Vieh Verehrung entgegenbrachten und Bildern nicht nur von Menschen,
+sondern auch von Tieren,
+in Holz und Stein geprägt,
+den Namen „Gott“ gaben\.
+Sie verehren Jupiter Hammon im Widder und Anubis im Hund\.
+Sie beten Apis im Stier an und andere Tiere,
+die Ägypten als Wunderzeichen der Götter bewundert\.
+Darum sehen sie gerade an jenen Tieren jämmerliches Leid,
+in denen sie meinten,
+eine Gottheit verehren zu müssen\.
+Danach kommen in der sechsten Plage Geschwüre und brennende Beulen hervor\.
+Mir scheint,
+in den Geschwüren wird die betrügerische,
+eiternde Bosheit entlarvt,
+in den Beulen die geschwollene,
+aufgeblasene Überheblichkeit,
+in den Fiebern der Wahnsinn des Zorns und der Raserei\.
+So sehr werden die Leiden in der Welt durch die Gestalten ihrer eigenen Irrtümer regiert\.
 
 ## Bibelverweise
 

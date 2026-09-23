@@ -7,6 +7,13 @@ Autor: Gregor von Nyssa
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nyssa/ueber-das-leben-des-mose-buch-1#kapitel-0e322da7-355d-4734-8282-08ded879412e).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:830702ca183ad9c310055ea551ca1c92c4280915ee456c5649c3462f23a23412`
-
-Dazu die Binde des Hauptes, ganz hyazinthfarben, und das Stirnblatt aus reinem Gold, mit einem gewissen unaussprechlichen Zeichen darauf eingeprägt\. Dazu der Gürtel, der das Ausfließende des Gewandes zusammenfasst, der Schmuck des Verborgenen und alles, was durch Rätselbilder, in Gestalt einer Gewandung, über priesterliche Tugend unterwiesen wird\.
+Dazu die Binde des Hauptes,
+ganz hyazinthfarben,
+und das Stirnblatt aus reinem Gold,
+mit einem gewissen unaussprechlichen Zeichen darauf eingeprägt\.
+Dazu der Gürtel,
+der das Ausfließende des Gewandes zusammenfasst,
+der Schmuck des Verborgenen und alles,
+was durch Rätselbilder,
+in Gestalt einer Gewandung,
+über priesterliche Tugend unterwiesen wird\.

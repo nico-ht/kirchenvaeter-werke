@@ -7,6 +7,38 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-3#kapitel-87dbb8d5-f613-4042-9c7a-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0b9f47563eb93b5126d9c18072a845477834a2606f2a3a62bf0f5bb8e2909895`
-
-Warum sagt er: „Herr, woran soll ich erkennen, dass ich es erben werde?“ Hier sucht er ein Zeichen zur Bestätigung der Verheißung\. Doch nur zwei Dinge werden als einer Betrachtung würdig beschrieben: das eine ist eine Regung der Seele, nämlich der Glaube an Gott nach seinem ausdrücklichen Wort; das andere ist, dass er von überaus starkem Verlangen getrieben wird, nicht ohne Zeichen zu bleiben, durch die der Hörer mit der Gewissheit seiner äußeren Sinne eine Bestätigung der Verheißung empfinden kann\. Dem aber, der die Verheißung gegeben hat, erweist er durch die Anrede „Herr“ eine angemessene Verehrung\. Denn mit diesem Titel sagt er: „Ich weiß, dass du der Herr und Fürst aller Dinge bist, der auch alles tun kann, und bei dir gibt es kein Hindernis\. Wenn ich aber deiner Verheißung bereits Glauben geschenkt habe, so möchte ich doch, wenn nicht schon ihre Erfüllung, so wenigstens bald einige deutliche Zeichen erhalten, durch die ihre Vollendung angezeigt wird\. Denn ich bin dein Geschöpf, und selbst wenn ich den höchsten Grad der Vollkommenheit erreichen würde, kann ich die Gewalt meines Verlangens nicht immer so zügeln, dass ich, sobald ich etwas Gutes gesehen oder gehört habe, damit zufrieden wäre, es langsam und nicht sofort zu erlangen\. Darum bitte ich, dass du mir ein Mittel der Erkenntnis gibst, durch das ich jene künftigen Ereignisse begreifen kann\.“
+Warum sagt er:
+„Herr,
+woran soll ich erkennen,
+dass ich es erben werde?“
+Hier sucht er ein Zeichen zur Bestätigung der Verheißung\.
+Doch nur zwei Dinge werden als einer Betrachtung würdig beschrieben:
+das eine ist eine Regung der Seele,
+nämlich der Glaube an Gott nach seinem ausdrücklichen Wort;
+das andere ist,
+dass er von überaus starkem Verlangen getrieben wird,
+nicht ohne Zeichen zu bleiben,
+durch die der Hörer mit der Gewissheit seiner äußeren Sinne eine Bestätigung der Verheißung empfinden kann\.
+Dem aber,
+der die Verheißung gegeben hat,
+erweist er durch die Anrede „Herr“ eine angemessene Verehrung\.
+Denn mit diesem Titel sagt er:
+„Ich weiß,
+dass du der Herr und Fürst aller Dinge bist,
+der auch alles tun kann,
+und bei dir gibt es kein Hindernis\.
+Wenn ich aber deiner Verheißung bereits Glauben geschenkt habe,
+so möchte ich doch,
+wenn nicht schon ihre Erfüllung,
+so wenigstens bald einige deutliche Zeichen erhalten,
+durch die ihre Vollendung angezeigt wird\.
+Denn ich bin dein Geschöpf,
+und selbst wenn ich den höchsten Grad der Vollkommenheit erreichen würde,
+kann ich die Gewalt meines Verlangens nicht immer so zügeln,
+dass ich,
+sobald ich etwas Gutes gesehen oder gehört habe,
+damit zufrieden wäre,
+es langsam und nicht sofort zu erlangen\.
+Darum bitte ich,
+dass du mir ein Mittel der Erkenntnis gibst,
+durch das ich jene künftigen Ereignisse begreifen kann\.“

@@ -7,6 +7,38 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-1#kapitel-1954b020-2424-405f-09ea-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3f58a322bae69b189f203cd19ae1dee0cc1145a4011b722bb35772b1983595db`
-
-Der erste Punkt, den Celsus vorbringt, um das Christentum in Verruf zu bringen, lautet: Die Christen hätten sich entgegen dem Gesetz zu geheimen Gemeinschaften zusammengeschlossen\. Dazu sagt er: „Von den Gemeinschaften sind einige öffentlich und stehen im Einklang mit den Gesetzen; andere dagegen sind geheim und werden unter Verletzung der Gesetze unterhalten\.“ Er will damit die sogenannten Liebesmähler der Christen in Verruf bringen, als seien sie aus der gemeinsamen Gefahr entstanden und verpflichtender als jeder Eid\. Da er nun vom öffentlichen Gesetz schwadroniert und behauptet, die Gemeinschaften der Christen verstießen dagegen, müssen wir ihm antworten: Wäre jemand unter Skythen geraten, deren Gesetze gottlos sind, und müsste er ohne jede Möglichkeit zur Flucht unter ihnen leben, dann würde er sich mit gutem Grund um des Gesetzes der Wahrheit willen, das die Skythen als Frevel ansähen, entgegen ihren Gesetzen mit Gleichgesinnten zusammenschließen\. Wenn also die Wahrheit entscheiden soll, sind auch die Gesetze der Heiden über Götzenbilder und einen atheistischen Polytheismus „skythische“ Gesetze oder sogar noch gottloser als diese, sofern es überhaupt noch gottlosere gibt\. Es ist daher nicht unvernünftig, sich um der Wahrheit willen entgegen den bestehenden Gesetzen zusammenzuschließen\. So wie diejenigen richtig handeln würden, die sich heimlich zusammenschließen, um einen Tyrannen zu töten, der einem Staat die Freiheit geraubt hat, so bilden auch die Christen, wenn der sogenannte Teufel und die Lüge sie tyrannisieren, Bündnisse, die den Gesetzen des Teufels zuwiderlaufen und gegen seine Macht gerichtet sind\. Dies tun sie auch zum Schutz der übrigen Menschen, die sie vielleicht dazu bewegen können, sich von einer gleichsam „skythischen“ und despotischen Herrschaft loszusagen\.
+Der erste Punkt,
+den Celsus vorbringt,
+um das Christentum in Verruf zu bringen,
+lautet:
+Die Christen hätten sich entgegen dem Gesetz zu geheimen Gemeinschaften zusammengeschlossen\.
+Dazu sagt er:
+„Von den Gemeinschaften sind einige öffentlich und stehen im Einklang mit den Gesetzen;
+andere dagegen sind geheim und werden unter Verletzung der Gesetze unterhalten\.“
+Er will damit die sogenannten Liebesmähler der Christen in Verruf bringen,
+als seien sie aus der gemeinsamen Gefahr entstanden und verpflichtender als jeder Eid\.
+Da er nun vom öffentlichen Gesetz schwadroniert und behauptet,
+die Gemeinschaften der Christen verstießen dagegen,
+müssen wir ihm antworten:
+Wäre jemand unter Skythen geraten,
+deren Gesetze gottlos sind,
+und müsste er ohne jede Möglichkeit zur Flucht unter ihnen leben,
+dann würde er sich mit gutem Grund um des Gesetzes der Wahrheit willen,
+das die Skythen als Frevel ansähen,
+entgegen ihren Gesetzen mit Gleichgesinnten zusammenschließen\.
+Wenn also die Wahrheit entscheiden soll,
+sind auch die Gesetze der Heiden über Götzenbilder und einen atheistischen Polytheismus „skythische“ Gesetze oder sogar noch gottloser als diese,
+sofern es überhaupt noch gottlosere gibt\.
+Es ist daher nicht unvernünftig,
+sich um der Wahrheit willen entgegen den bestehenden Gesetzen zusammenzuschließen\.
+So wie diejenigen richtig handeln würden,
+die sich heimlich zusammenschließen,
+um einen Tyrannen zu töten,
+der einem Staat die Freiheit geraubt hat,
+so bilden auch die Christen,
+wenn der sogenannte Teufel und die Lüge sie tyrannisieren,
+Bündnisse,
+die den Gesetzen des Teufels zuwiderlaufen und gegen seine Macht gerichtet sind\.
+Dies tun sie auch zum Schutz der übrigen Menschen,
+die sie vielleicht dazu bewegen können,
+sich von einer gleichsam „skythischen“ und despotischen Herrschaft loszusagen\.

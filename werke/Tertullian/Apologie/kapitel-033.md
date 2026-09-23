@@ -7,6 +7,53 @@ Autor: Tertullian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/apologie#kapitel-b5943dcf-c530-459d-09d8-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:9f0863ff3cfea8ada1418793ccfae19173fc4dc81b6a45437342d0bc65419a9c`
-
-Doch was soll ich noch weiter von der christlichen Gottesverehrung und pflichtgemäßen Achtung gegenüber dem Kaiser sagen? Wir müssen ihn als den vom Herrn Erwählten achten, sodass ich mit Recht sagen kann: „Der Kaiser gehört mehr uns als euch, denn unser Gott hat ihn eingesetzt\.“ Deshalb setze ich mich umso mehr für sein Wohlergehen ein: Ich erbitte es nicht nur von dem, der es gewähren kann, sondern bitte auch als einer, der erhört zu werden verdient; und indem ich die Majestät des Kaisers unter Gott einordne, empfehle ich ihn Gott umso nachdrücklicher\. Ihm allein unterwerfe ich den Kaiser; ich unterwerfe ihn aber dem, dem ich ihn nicht gleichstelle\. Denn den Kaiser werde ich nicht Gott nennen: zum einen, weil ich nicht zu lügen weiß, zum anderen, weil ich nicht wage, ihn zu verspotten, und schließlich, weil auch er selbst nicht Gott genannt werden will\. Ist er ein Mensch, so ist es zu seinem Vorteil, Gott den Vorrang zu lassen\. Es soll ihm genügen, Kaiser genannt zu werden; schon dieser Name ist groß, denn Gott verleiht ihn\. Wer ihn Gott nennt, bestreitet, dass er Kaiser ist; wäre er kein Mensch, wäre er kein Kaiser\. Selbst im Triumphzug wird er auf jenem hocherhabenen Wagen daran erinnert, dass er ein Mensch ist; denn von hinten wird ihm zugerufen: „Blick hinter dich\! Denk daran, dass du ein Mensch bist\!“ Und gewiss freut er sich gerade deshalb umso mehr, in so gewaltigem Ruhm zu erstrahlen, dass die Mahnung an seine eigene menschliche Lage nötig wird\. Geringer wäre er, wenn man ihn dann Gott nennte, denn es wäre nicht wahr\. Größer ist er, wenn man ihn zur Besinnung ruft, damit er sich nicht für einen Gott hält\.
+Doch was soll ich noch weiter von der christlichen Gottesverehrung und pflichtgemäßen Achtung gegenüber dem Kaiser sagen?
+Wir müssen ihn als den vom Herrn Erwählten achten,
+sodass ich mit Recht sagen kann:
+„Der Kaiser gehört mehr uns als euch,
+denn unser Gott hat ihn eingesetzt\.“
+Deshalb setze ich mich umso mehr für sein Wohlergehen ein:
+Ich erbitte es nicht nur von dem,
+der es gewähren kann,
+sondern bitte auch als einer,
+der erhört zu werden verdient;
+und indem ich die Majestät des Kaisers unter Gott einordne,
+empfehle ich ihn Gott umso nachdrücklicher\.
+Ihm allein unterwerfe ich den Kaiser;
+ich unterwerfe ihn aber dem,
+dem ich ihn nicht gleichstelle\.
+Denn den Kaiser werde ich nicht Gott nennen:
+zum einen,
+weil ich nicht zu lügen weiß,
+zum anderen,
+weil ich nicht wage,
+ihn zu verspotten,
+und schließlich,
+weil auch er selbst nicht Gott genannt werden will\.
+Ist er ein Mensch,
+so ist es zu seinem Vorteil,
+Gott den Vorrang zu lassen\.
+Es soll ihm genügen,
+Kaiser genannt zu werden;
+schon dieser Name ist groß,
+denn Gott verleiht ihn\.
+Wer ihn Gott nennt,
+bestreitet,
+dass er Kaiser ist;
+wäre er kein Mensch,
+wäre er kein Kaiser\.
+Selbst im Triumphzug wird er auf jenem hocherhabenen Wagen daran erinnert,
+dass er ein Mensch ist;
+denn von hinten wird ihm zugerufen:
+„Blick hinter dich\!
+Denk daran,
+dass du ein Mensch bist\!“
+Und gewiss freut er sich gerade deshalb umso mehr,
+in so gewaltigem Ruhm zu erstrahlen,
+dass die Mahnung an seine eigene menschliche Lage nötig wird\.
+Geringer wäre er,
+wenn man ihn dann Gott nennte,
+denn es wäre nicht wahr\.
+Größer ist er,
+wenn man ihn zur Besinnung ruft,
+damit er sich nicht für einen Gott hält\.

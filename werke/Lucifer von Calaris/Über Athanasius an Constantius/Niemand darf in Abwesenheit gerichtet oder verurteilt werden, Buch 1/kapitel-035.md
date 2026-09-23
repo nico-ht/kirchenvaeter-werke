@@ -7,9 +7,132 @@ Autor: Lucifer von Calaris
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/lucifer-von-calaris/niemand-darf-in-abwesenheit-gerichtet-oder-verurteilt-werden-buch-1#kapitel-8aff12e3-5d29-4b92-68b8-08ded9b64703).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7634fddc8346e04a6709153a466fee6e94335def2bb9d4daa37ee961b8745394`
-
-Wir wollten einen Abwesenden nicht verurteilen; wir wollten gegen den, den wir als unschuldig kennen und von dem wir wissen, dass er Verkündiger des katholischen Glaubens ist, nicht nach deinem Verlangen ein Urteil fällen\. Warum? Weil wir Christen unsere Hoffnung auf Gott gerichtet haben, nicht auf dich und dein vergängliches Reich\. Wir wollten uns nicht an der Herrlichkeit deines Reiches gefallen lassen, da wir erwarten, Herrlichkeit von dem zu erlangen, auf den allein man vertrauen und hoffen soll, wie David im Psalm lehrt und sagt: „Vertraut nicht auf Fürsten und nicht auf Menschensöhne, bei denen kein Heil ist\. Sein Geist wird ausgehen, und er wird zu seiner Erde zurückkehren; an jenem Tag werden all ihre Gedanken zugrunde gehen\. Selig, dessen Helfer der Gott Jakobs ist und dessen Hoffnung auf dem Herrn, seinem Gott, steht, der Himmel und Erde gemacht hat, das Meer und alles, was in ihnen ist; der die Wahrheit bewahrt auf ewig und Recht schafft denen, die Unrecht leiden[^bible-4670c723-a0c9-41b6-b697-636236b7bbbb]“\. Wir wollten mit dir nicht ungerecht den verfolgen, der voll ist von Früchten der Gerechtigkeit, damit er, wenn er von dir Vergeltung zu erlangen begänne, sie nicht auch von uns erlangte; wir taten nicht, was du uns ungerecht zu erfüllen befahlst, damit wir nicht mit dir an jene Stelle kämen, die im Ecclesiasticus beschrieben wird: „Gott wird den suchen, der Verfolgung leidet[^bible-63023edd-6aa6-44b0-98b4-b37c51e89aaf]“, und weiter: „Ich sah unter der Sonne den Ort des Gerichts: dort war der Gottlose; und den Ort des Gerechten: dort war der Fromme[^bible-93a52657-7817-434c-8071-127aa4a3509e]“\. Wir wollten uns euch Häretikern nicht anschließen; wir wollten dir nicht die Hand reichen, um Gottes Haus zu bekämpfen; wir wollten mit dir nicht Götzendienst zur Schmähung Gottes auf uns nehmen; wir wollten uns nicht mit deinem Frevel vermischen, damit nicht auch wir mit dir verdienten, jene Worte zu hören, die durch den Mund des Propheten Hosea die Priester, das Volk und der König Israels hören werden, die alle Gott verlassen und sich dem Götzendienst zugewandt hatten: „Hört dies, ihr Priester, und merkt auf, Haus Israel, und du Haus des Königs, schaut hin: Euch gilt das Gericht, denn ihr seid zur Schlinge geworden für den Hinterhalt und wie ausgespannte Netze für die Vogeljagd[^bible-7da109fa-3ca6-40b7-b96a-8f7500d52c10]“\. Beim Propheten Amos wusstest du doch, dass geschrieben steht, als du die Weisung gabst, nämlich das Beispiel, einen Unschuldigen zu verurteilen: „der in der Höhe Gericht gemacht und Gerechtigkeit auf die Erde gesetzt hat[^bible-afa032cf-eeee-4e83-be68-2bece79eeb3e]“\. Du Verletzer der Gerechtigkeit Gottes, wusstest du etwa nicht, dass der Prophet Micha über die Fürsten der Juden gesagt hat: „Sie erhoben ihre Hände nicht zu Gott; sie begehrten Felder und raubten Waisen aus, und mit Gewalt drangen sie in ein Haus ein und plünderten den Mann und sein Haus, den Mann und sein Erbe\. Darum spricht der Herr dies: Siehe, ich erkenne über dieses Volk Unheil, aus dem ihr eure Nacken nicht erheben werdet[^bible-50705f1a-bdef-4e61-95ac-af4aa2fbf45e]“? Dir aber, wenn du dich dazu herablässt, Gottes Verehrer zu enteignen, zu verbannen, ins Gefängnis zu werfen, zu foltern und zuletzt zu töten, wird da nichts von all den Übeln vor Augen gestellt? Wir wollten uns mit deinen ruchlosen Taten nicht vermischen, damit wir nicht mit dir, zur ewigen Strafe verurteilt, dies hören müssten, was bei Micha von Gott gesagt wird: „Hört also dies, ihr Vorsteher des Hauses Jakob und ihr Übrigen des Hauses Israel, die ihr das Gericht verabscheut und alles Gerade verkehrt, die ihr Zion mit Blut und Jerusalem mit Ungerechtigkeiten gebaut habt\. Seine Richter richteten um Geschenke, seine Priester antworteten um Lohn, und seine Propheten weissagten um Geld; und doch ruhten sie im Herrn und sagten: Der Herr ist in unserer Mitte, und kein Unheil wird über uns kommen[^bible-22a45b90-ee2d-465b-b714-6a46396e3c5b]“\. Hattest du bei diesem hochheiligen Propheten noch nicht gelesen, dass du befahlst, einen Gott geweihten Mann zu verurteilen: „Womit soll ich den Herrn erfassen, meinen erhabenen Gott ergreifen? Soll ich ihn mit Brandopfern erfassen oder mit einjährigen Kälbern? Wird der Herr Tausende von Widdern annehmen oder zehntausende fette Böcke? Oder soll ich meine Erstgeborenen für die Gottlosigkeit geben, die Frucht meines Leibes für die Sünden meiner Seele? Dir ist kundzutun, Mensch, was gut ist\. Oder was hat der Herr anderes von dir verlangt, als Gericht und Gerechtigkeit zu üben, Barmherzigkeit zu lieben und bereit zu sein, mit dem Herrn, deinem Gott, zu gehen[^bible-1b6ed2e0-aee4-48ea-a092-a01a1c4ff51e]“? Hattest du auch bei Habakuk nicht geschrieben gefunden: „Der Gottlose hat den Gerechten durch Gewalt unterdrückt[^bible-394b1472-ea3d-4145-9c04-68570ccb9c54]“, sodass du ein so verbrecherisches Werk in Angriff nahmst, das dich vor Gott zum Gottlosen machen konnte? Hast du ebenso weiter unten nicht stehen gefunden: „Warum schaust du auf die Verächter? Wirst du dazu schweigen, dass der Gottlose den Gerechten verschlingt[^bible-742d84d0-da15-4aa2-ab58-8e33949b71c4]?“
+Wir wollten einen Abwesenden nicht verurteilen;
+wir wollten gegen den,
+den wir als unschuldig kennen und von dem wir wissen,
+dass er Verkündiger des katholischen Glaubens ist,
+nicht nach deinem Verlangen ein Urteil fällen\.
+Warum?
+Weil wir Christen unsere Hoffnung auf Gott gerichtet haben,
+nicht auf dich und dein vergängliches Reich\.
+Wir wollten uns nicht an der Herrlichkeit deines Reiches gefallen lassen,
+da wir erwarten,
+Herrlichkeit von dem zu erlangen,
+auf den allein man vertrauen und hoffen soll,
+wie David im Psalm lehrt und sagt:
+„Vertraut nicht auf Fürsten und nicht auf Menschensöhne,
+bei denen kein Heil ist\.
+Sein Geist wird ausgehen,
+und er wird zu seiner Erde zurückkehren;
+an jenem Tag werden all ihre Gedanken zugrunde gehen\.
+Selig,
+dessen Helfer der Gott Jakobs ist und dessen Hoffnung auf dem Herrn,
+seinem Gott,
+steht,
+der Himmel und Erde gemacht hat,
+das Meer und alles,
+was in ihnen ist;
+der die Wahrheit bewahrt auf ewig und Recht schafft denen,
+die Unrecht leiden[^bible-4670c723-a0c9-41b6-b697-636236b7bbbb]“\.
+Wir wollten mit dir nicht ungerecht den verfolgen,
+der voll ist von Früchten der Gerechtigkeit,
+damit er,
+wenn er von dir Vergeltung zu erlangen begänne,
+sie nicht auch von uns erlangte;
+wir taten nicht,
+was du uns ungerecht zu erfüllen befahlst,
+damit wir nicht mit dir an jene Stelle kämen,
+die im Ecclesiasticus beschrieben wird:
+„Gott wird den suchen,
+der Verfolgung leidet[^bible-63023edd-6aa6-44b0-98b4-b37c51e89aaf]“,
+und weiter:
+„Ich sah unter der Sonne den Ort des Gerichts:
+dort war der Gottlose;
+und den Ort des Gerechten:
+dort war der Fromme[^bible-93a52657-7817-434c-8071-127aa4a3509e]“\.
+Wir wollten uns euch Häretikern nicht anschließen;
+wir wollten dir nicht die Hand reichen,
+um Gottes Haus zu bekämpfen;
+wir wollten mit dir nicht Götzendienst zur Schmähung Gottes auf uns nehmen;
+wir wollten uns nicht mit deinem Frevel vermischen,
+damit nicht auch wir mit dir verdienten,
+jene Worte zu hören,
+die durch den Mund des Propheten Hosea die Priester,
+das Volk und der König Israels hören werden,
+die alle Gott verlassen und sich dem Götzendienst zugewandt hatten:
+„Hört dies,
+ihr Priester,
+und merkt auf,
+Haus Israel,
+und du Haus des Königs,
+schaut hin:
+Euch gilt das Gericht,
+denn ihr seid zur Schlinge geworden für den Hinterhalt und wie ausgespannte Netze für die Vogeljagd[^bible-7da109fa-3ca6-40b7-b96a-8f7500d52c10]“\.
+Beim Propheten Amos wusstest du doch,
+dass geschrieben steht,
+als du die Weisung gabst,
+nämlich das Beispiel,
+einen Unschuldigen zu verurteilen:
+„der in der Höhe Gericht gemacht und Gerechtigkeit auf die Erde gesetzt hat[^bible-afa032cf-eeee-4e83-be68-2bece79eeb3e]“\.
+Du Verletzer der Gerechtigkeit Gottes,
+wusstest du etwa nicht,
+dass der Prophet Micha über die Fürsten der Juden gesagt hat:
+„Sie erhoben ihre Hände nicht zu Gott;
+sie begehrten Felder und raubten Waisen aus,
+und mit Gewalt drangen sie in ein Haus ein und plünderten den Mann und sein Haus,
+den Mann und sein Erbe\.
+Darum spricht der Herr dies:
+Siehe,
+ich erkenne über dieses Volk Unheil,
+aus dem ihr eure Nacken nicht erheben werdet[^bible-50705f1a-bdef-4e61-95ac-af4aa2fbf45e]“?
+Dir aber,
+wenn du dich dazu herablässt,
+Gottes Verehrer zu enteignen,
+zu verbannen,
+ins Gefängnis zu werfen,
+zu foltern und zuletzt zu töten,
+wird da nichts von all den Übeln vor Augen gestellt?
+Wir wollten uns mit deinen ruchlosen Taten nicht vermischen,
+damit wir nicht mit dir,
+zur ewigen Strafe verurteilt,
+dies hören müssten,
+was bei Micha von Gott gesagt wird:
+„Hört also dies,
+ihr Vorsteher des Hauses Jakob und ihr Übrigen des Hauses Israel,
+die ihr das Gericht verabscheut und alles Gerade verkehrt,
+die ihr Zion mit Blut und Jerusalem mit Ungerechtigkeiten gebaut habt\.
+Seine Richter richteten um Geschenke,
+seine Priester antworteten um Lohn,
+und seine Propheten weissagten um Geld;
+und doch ruhten sie im Herrn und sagten:
+Der Herr ist in unserer Mitte,
+und kein Unheil wird über uns kommen[^bible-22a45b90-ee2d-465b-b714-6a46396e3c5b]“\.
+Hattest du bei diesem hochheiligen Propheten noch nicht gelesen,
+dass du befahlst,
+einen Gott geweihten Mann zu verurteilen:
+„Womit soll ich den Herrn erfassen,
+meinen erhabenen Gott ergreifen?
+Soll ich ihn mit Brandopfern erfassen oder mit einjährigen Kälbern?
+Wird der Herr Tausende von Widdern annehmen oder zehntausende fette Böcke?
+Oder soll ich meine Erstgeborenen für die Gottlosigkeit geben,
+die Frucht meines Leibes für die Sünden meiner Seele?
+Dir ist kundzutun,
+Mensch,
+was gut ist\.
+Oder was hat der Herr anderes von dir verlangt,
+als Gericht und Gerechtigkeit zu üben,
+Barmherzigkeit zu lieben und bereit zu sein,
+mit dem Herrn,
+deinem Gott,
+zu gehen[^bible-1b6ed2e0-aee4-48ea-a092-a01a1c4ff51e]“?
+Hattest du auch bei Habakuk nicht geschrieben gefunden:
+„Der Gottlose hat den Gerechten durch Gewalt unterdrückt[^bible-394b1472-ea3d-4145-9c04-68570ccb9c54]“,
+sodass du ein so verbrecherisches Werk in Angriff nahmst,
+das dich vor Gott zum Gottlosen machen konnte?
+Hast du ebenso weiter unten nicht stehen gefunden:
+„Warum schaust du auf die Verächter?
+Wirst du dazu schweigen,
+dass der Gottlose den Gerechten verschlingt[^bible-742d84d0-da15-4aa2-ab58-8e33949b71c4]?“
 
 ## Bibelverweise
 

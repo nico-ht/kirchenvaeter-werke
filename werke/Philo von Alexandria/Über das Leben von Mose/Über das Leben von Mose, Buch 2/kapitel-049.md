@@ -7,9 +7,66 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-2#kapitel-26a236ce-efdf-4891-0883-08ded872ad01).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:6a47f5b3e43b7cda133864c7a924a038814536136c2b8c8120067d7ee7cf9c82`
-
-Dies also sind die Weissagungen, die er unter dem Einfluss göttlicher Eingebung über die Speise gab, die vom Himmel herabkam\. Doch er gab der Reihe nach auch andere, die von großer Notwendigkeit waren, obgleich sie eher Mahnungen als eigentliche Orakel zu sein schienen\. Eine davon ist jene Weissagung, die er aussprach, als sie in größtem Maß von ihren vaterländischen Sitten abfielen, wovon ich schon gesprochen habe: Sie machten ein goldenes Kalb nach Art der ägyptischen Verehrung und Dummheit, veranstalteten Tänze, bereiteten einen Altar und brachten Opfer dar, während sie den wahren Gott vergaßen und die edle Gesinnung ihrer Vorfahren verwarfen, die durch Frömmigkeit und Heiligkeit gewachsen war\. Darüber war Mose sehr entrüstet: zuerst darüber, dass das ganze Volk so plötzlich blind geworden war, obwohl es kurz zuvor das scharfsichtigste unter allen Völkern gewesen war; sodann darüber, dass eine leere Erfindung der Fabel einen so überragenden Glanz der Wahrheit auslöschen konnte, den weder die verfinsterte Sonne noch das ganze Heer der Sterne je verdunkeln könnte\. Denn sie wird durch ihr eigenes Licht erfasst, geistig und unkörperlich; verglichen mit ihr ist das Licht, das von den äußeren Sinnen wahrgenommen wird, wie Nacht gegenüber dem Tag\. Aus diesem Grund bewegt, blieb er nicht länger wie zuvor, sondern sprang gleichsam aus seiner früheren Erscheinung und Haltung heraus, wurde von Eingebung ergriffen und sagte: „Wer ist da, der diesem Irrtum nicht zugestimmt und nicht gebilligt hat, was nicht gebilligt werden darf? Alle solche sollen zu mir herüberkommen[^bible-f66c0787-c570-4d9c-996e-34cf25f63ac4]\.“ Als ein Stamm zu ihm herübergekommen war, nicht weniger mit dem Sinn als mit dem Körper, ein Stamm, der schon zuvor nach der Tötung der gottlosen und frevelhaften Täter verlangt und einen Anführer und Heerführer gesucht hatte, der ihnen zu Recht Gelegenheit und rechte Weise zeigen würde, ihre Bosheit niederzuhalten, da sah er, dass sie zornentbrannt und voll guter Zuversicht und Tapferkeit waren; und noch stärker als zuvor von Eingebung ergriffen, sagte er: „Jeder von euch nehme ein Schwert, eile durch das ganze Lager und töte nicht nur Fremde, sondern auch die ihm Nächsten und Liebsten unter seinen eigenen Freunden und Verwandten\. Greift sie alle an und haltet euer Tun für hochheilig, weil es zur Verteidigung der Wahrheit und der Gott geschuldeten Ehre geschieht; für diese zu kämpfen und als ihr Vorkämpfer einzustehen, ist die leichteste aller Mühen\.[^bible-f66c0787-c570-4d9c-996e-34cf25f63ac4]“ Da stürmten sie mit lautem Ruf hinaus und töteten dreitausend, besonders die Anführer dieser Gottlosigkeit\. So wurden sie nicht nur selbst von jeder Beteiligung an der frevelhaften Verwegenheit der anderen freigesprochen, sondern auch unter die edelsten der tapferen Männer eingereiht und einer Ehre und eines Lohnes für würdig gehalten, der ihrer Tat in höchstem Maß entsprach, nämlich des Priestertums\. Denn es war unvermeidlich, dass jene Männer Diener der Heiligkeit sein sollten, die sich in ihrer Verteidigung als tapfer erwiesen und als Vorkämpfer der Heiligkeit mutig gekämpft hatten\.
+Dies also sind die Weissagungen,
+die er unter dem Einfluss göttlicher Eingebung über die Speise gab,
+die vom Himmel herabkam\.
+Doch er gab der Reihe nach auch andere,
+die von großer Notwendigkeit waren,
+obgleich sie eher Mahnungen als eigentliche Orakel zu sein schienen\.
+Eine davon ist jene Weissagung,
+die er aussprach,
+als sie in größtem Maß von ihren vaterländischen Sitten abfielen,
+wovon ich schon gesprochen habe:
+Sie machten ein goldenes Kalb nach Art der ägyptischen Verehrung und Dummheit,
+veranstalteten Tänze,
+bereiteten einen Altar und brachten Opfer dar,
+während sie den wahren Gott vergaßen und die edle Gesinnung ihrer Vorfahren verwarfen,
+die durch Frömmigkeit und Heiligkeit gewachsen war\.
+Darüber war Mose sehr entrüstet:
+zuerst darüber,
+dass das ganze Volk so plötzlich blind geworden war,
+obwohl es kurz zuvor das scharfsichtigste unter allen Völkern gewesen war;
+sodann darüber,
+dass eine leere Erfindung der Fabel einen so überragenden Glanz der Wahrheit auslöschen konnte,
+den weder die verfinsterte Sonne noch das ganze Heer der Sterne je verdunkeln könnte\.
+Denn sie wird durch ihr eigenes Licht erfasst,
+geistig und unkörperlich;
+verglichen mit ihr ist das Licht,
+das von den äußeren Sinnen wahrgenommen wird,
+wie Nacht gegenüber dem Tag\.
+Aus diesem Grund bewegt,
+blieb er nicht länger wie zuvor,
+sondern sprang gleichsam aus seiner früheren Erscheinung und Haltung heraus,
+wurde von Eingebung ergriffen und sagte:
+„Wer ist da,
+der diesem Irrtum nicht zugestimmt und nicht gebilligt hat,
+was nicht gebilligt werden darf?
+Alle solche sollen zu mir herüberkommen[^bible-f66c0787-c570-4d9c-996e-34cf25f63ac4]\.“
+Als ein Stamm zu ihm herübergekommen war,
+nicht weniger mit dem Sinn als mit dem Körper,
+ein Stamm,
+der schon zuvor nach der Tötung der gottlosen und frevelhaften Täter verlangt und einen Anführer und Heerführer gesucht hatte,
+der ihnen zu Recht Gelegenheit und rechte Weise zeigen würde,
+ihre Bosheit niederzuhalten,
+da sah er,
+dass sie zornentbrannt und voll guter Zuversicht und Tapferkeit waren;
+und noch stärker als zuvor von Eingebung ergriffen,
+sagte er:
+„Jeder von euch nehme ein Schwert,
+eile durch das ganze Lager und töte nicht nur Fremde,
+sondern auch die ihm Nächsten und Liebsten unter seinen eigenen Freunden und Verwandten\.
+Greift sie alle an und haltet euer Tun für hochheilig,
+weil es zur Verteidigung der Wahrheit und der Gott geschuldeten Ehre geschieht;
+für diese zu kämpfen und als ihr Vorkämpfer einzustehen,
+ist die leichteste aller Mühen\.[^bible-f66c0787-c570-4d9c-996e-34cf25f63ac4]“ Da stürmten sie mit lautem Ruf hinaus und töteten dreitausend,
+besonders die Anführer dieser Gottlosigkeit\.
+So wurden sie nicht nur selbst von jeder Beteiligung an der frevelhaften Verwegenheit der anderen freigesprochen,
+sondern auch unter die edelsten der tapferen Männer eingereiht und einer Ehre und eines Lohnes für würdig gehalten,
+der ihrer Tat in höchstem Maß entsprach,
+nämlich des Priestertums\.
+Denn es war unvermeidlich,
+dass jene Männer Diener der Heiligkeit sein sollten,
+die sich in ihrer Verteidigung als tapfer erwiesen und als Vorkämpfer der Heiligkeit mutig gekämpft hatten\.
 
 ## Bibelverweise
 

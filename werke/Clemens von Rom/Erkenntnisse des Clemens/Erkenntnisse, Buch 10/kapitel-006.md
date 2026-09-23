@@ -7,6 +7,33 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-10#kapitel-fc7cf8ff-8b80-4b60-7526-08dd36600a1f).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:96a014dc042b1e4f9a3475845523886f0b608cb6cebeedcc71d029a5f2e30ff5`
-
-Aber ich möchte, dass einer von euch, und nicht Petrus, auf das, was ich gesagt habe, antwortet; denn es ist nicht angemessen, Worte und Lehren aus seiner Hand zu nehmen, wenn Fragen gestellt werden; vielmehr sollte, wenn er zu einem Thema eine Entscheidung trifft, diese ohne weitere Antwort gelten\. Lasst uns ihn daher als Schiedsrichter behalten; so dass, wenn unsere Diskussion zu keinem Ergebnis kommt, er erklären kann, was ihm gut erscheint, und somit einen unzweifelhaften Schluss zu zweifelhaften Angelegenheiten geben kann\. Und jetzt könnte ich also, zufrieden mit seiner alleinigen Meinung, glauben, falls er eine Meinung äußert; und das ist es, was ich schließlich tun werde\. Doch zunächst möchte ich sehen, ob es möglich ist, durch Diskussion das Gesuchte zu finden\. Mein Wunsch ist daher, dass Clemens zuerst beginnt und zeigt, ob es in der Substanz oder in den Handlungen etwas Gutes oder Böses gibt\.“
+Aber ich möchte,
+dass einer von euch,
+und nicht Petrus,
+auf das,
+was ich gesagt habe,
+antwortet;
+denn es ist nicht angemessen,
+Worte und Lehren aus seiner Hand zu nehmen,
+wenn Fragen gestellt werden;
+vielmehr sollte,
+wenn er zu einem Thema eine Entscheidung trifft,
+diese ohne weitere Antwort gelten\.
+Lasst uns ihn daher als Schiedsrichter behalten;
+so dass,
+wenn unsere Diskussion zu keinem Ergebnis kommt,
+er erklären kann,
+was ihm gut erscheint,
+und somit einen unzweifelhaften Schluss zu zweifelhaften Angelegenheiten geben kann\.
+Und jetzt könnte ich also,
+zufrieden mit seiner alleinigen Meinung,
+glauben,
+falls er eine Meinung äußert;
+und das ist es,
+was ich schließlich tun werde\.
+Doch zunächst möchte ich sehen,
+ob es möglich ist,
+durch Diskussion das Gesuchte zu finden\.
+Mein Wunsch ist daher,
+dass Clemens zuerst beginnt und zeigt,
+ob es in der Substanz oder in den Handlungen etwas Gutes oder Böses gibt\.“

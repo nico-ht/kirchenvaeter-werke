@@ -7,6 +7,26 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-2#kapitel-c09d0296-0af2-44be-9c73-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:58b63536ee7865a10d49243cce76889829fdf7fa12f951363415fd4d0b6da690`
-
-Warum verkündete Gott, weil Ham gesündigt hatte, dass sein Sohn Kanaan der Diener Hams und Japhets sein solle? Erstens sprach Gott dieses Urteil aus, weil Vater und Sohn dieselbe Bosheit gezeigt hatten: Beide waren miteinander verbunden und nicht voneinander getrennt, und beide gaben sich derselben Gesinnung hin\. Zweitens aber tat er es, weil der Vater durch den Fluch, der so auf den Sohn gelegt wurde, überaus schwer getroffen werden sollte, da der Sohn hinreichend wusste, dass er nicht so sehr um seiner selbst willen bestraft wurde wie um seines Vaters willen\. So erlitt der Anführer und Lehrer der beiden die Strafe für seine bösen Ratschläge, Worte und Taten\. Dies ist der wörtliche Sinn der Aussage\. Wenn wir aber auf ihren inneren Sinn blicken, dann handelt es sich in Wirklichkeit nicht um zwei verschiedene Menschen, sondern um zwei verschiedene Gesinnungen\. Das machen auch die ihnen gegebenen Namen deutlich, die offenkundig das Wesen der Sache bezeichnen; denn Ham bedeutet ausgelegt Hitze oder heiß, Kanaan aber Kaufleute von Ursachen\.
+Warum verkündete Gott,
+weil Ham gesündigt hatte,
+dass sein Sohn Kanaan der Diener Hams und Japhets sein solle?
+Erstens sprach Gott dieses Urteil aus,
+weil Vater und Sohn dieselbe Bosheit gezeigt hatten:
+Beide waren miteinander verbunden und nicht voneinander getrennt,
+und beide gaben sich derselben Gesinnung hin\.
+Zweitens aber tat er es,
+weil der Vater durch den Fluch,
+der so auf den Sohn gelegt wurde,
+überaus schwer getroffen werden sollte,
+da der Sohn hinreichend wusste,
+dass er nicht so sehr um seiner selbst willen bestraft wurde wie um seines Vaters willen\.
+So erlitt der Anführer und Lehrer der beiden die Strafe für seine bösen Ratschläge,
+Worte und Taten\.
+Dies ist der wörtliche Sinn der Aussage\.
+Wenn wir aber auf ihren inneren Sinn blicken,
+dann handelt es sich in Wirklichkeit nicht um zwei verschiedene Menschen,
+sondern um zwei verschiedene Gesinnungen\.
+Das machen auch die ihnen gegebenen Namen deutlich,
+die offenkundig das Wesen der Sache bezeichnen;
+denn Ham bedeutet ausgelegt Hitze oder heiß,
+Kanaan aber Kaufleute von Ursachen\.

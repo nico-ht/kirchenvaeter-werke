@@ -7,6 +7,14 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-ecaa588a-3bf6-4912-76b3-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ccba6c5d661bb8be473f6eb89630407e570f910e1473204593e442458d1a4897`
-
-Dies ist das Passah unseres Heils: dies ist derjenige, der in vielen Menschen viele Dinge erduldete\. Dies ist derjenige, der in Abel ermordet, in Isaak gebunden, in Jakob verbannt, in Josef verkauft, in Mose bloßgestellt, im Lamm geschlachtet, in David verfolgt und in den Propheten entehrt wurde\.
+Dies ist das Passah unseres Heils:
+dies ist derjenige,
+der in vielen Menschen viele Dinge erduldete\.
+Dies ist derjenige,
+der in Abel ermordet,
+in Isaak gebunden,
+in Jakob verbannt,
+in Josef verkauft,
+in Mose bloßgestellt,
+im Lamm geschlachtet,
+in David verfolgt und in den Propheten entehrt wurde\.

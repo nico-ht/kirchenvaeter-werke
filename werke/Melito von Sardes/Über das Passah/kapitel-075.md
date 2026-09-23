@@ -7,6 +7,11 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-e0e8c2b5-5549-412b-76b9-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5cb69bd1b814c5003618033315ab38c558a659435a8de8f7098d9bb5d16845c6`
-
-Er musste leiden, aber nicht durch dich\. Er musste entehrt werden, aber nicht von dir\. Er musste gerichtet werden, aber nicht durch dich\. Er musste aufgehängt werden, aber nicht von dir und deiner rechten Hand\.
+Er musste leiden,
+aber nicht durch dich\.
+Er musste entehrt werden,
+aber nicht von dir\.
+Er musste gerichtet werden,
+aber nicht durch dich\.
+Er musste aufgehängt werden,
+aber nicht von dir und deiner rechten Hand\.

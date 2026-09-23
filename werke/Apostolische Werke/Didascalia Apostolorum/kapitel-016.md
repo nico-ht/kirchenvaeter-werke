@@ -7,13 +7,166 @@ Autor: Apostolische Werke
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-werke/didascalia-apostolorum#kapitel-6793accd-6c60-4523-bf41-08dec0ed9724).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7202bd2d2f0e7dd035befaaed1ca5f9fc39ed7653d78034c3efc9d566c991feb`
+Darum,
+o Bischof,
+bestelle dir Mitarbeiter der Gerechtigkeit als Helfer,
+die mit dir zum Heil zusammenwirken können\.
+Aus dem ganzen Volk sollst du diejenigen auswählen und als Diakone einsetzen,
+die dir gefallen:
+einen Mann für die Erfüllung der meisten notwendigen Aufgaben,
+eine Frau aber für den Dienst an den Frauen\.
+Denn es gibt Häuser,
+in die du wegen der Heiden keinen Diakon zu den Frauen senden kannst,
+wohl aber eine Diakonin\.
+Auch in vielen anderen Angelegenheiten ist der Dienst einer Diakonin erforderlich\.
+Zuerst:
+Wenn Frauen ins Wasser hinabsteigen,
+sollen sie von einer Diakonin mit dem Salböl gesalbt werden;
+und wenn keine Frau zur Hand ist,
+besonders keine Diakonin,
+dann muss der,
+der tauft,
+notwendigerweise diejenige salben,
+die getauft wird\.
+Wo aber eine Frau da ist,
+besonders eine Diakonin,
+gehört es sich nicht,
+dass Frauen von Männern gesehen werden;
+vielmehr sollst du mit der Handauflegung nur das Haupt salben\.
+Wie einst die Priester und Könige in Israel gesalbt wurden,
+so salbe auch du ebenso,
+mit der Handauflegung,
+das Haupt derer,
+die die Taufe empfangen,
+seien es Männer oder Frauen;
+und danach,
+ob du selbst taufst oder den Diakonen oder Presbytern befiehlst zu taufen,
+soll,
+wie wir schon gesagt haben,
+eine Diakonin die Frauen salben\.
+Ein Mann aber soll über ihnen im Wasser die Anrufung der göttlichen Namen aussprechen\.
+Und wenn die,
+die getauft wird,
+aus dem Wasser heraufgestiegen ist,
+soll die Diakonin sie aufnehmen und sie lehren und unterweisen,
+wie das Siegel der Taufe unversehrt in Reinheit und Heiligkeit bewahrt werden muss\.
+Aus diesem Grund sagen wir,
+dass der Dienst einer Diakonin besonders notwendig und wichtig ist\.
+Denn auch unserem Herrn und Erlöser dienten Frauen:
+Maria Magdalena und Maria,
+die Tochter des Jakobus und Mutter des Joses,
+und die Mutter der Söhne des Zebedäus[^bible-4098f6b1-7439-45e0-ab30-9707a545a07a],
+dazu noch andere Frauen\.
+Auch du brauchst den Dienst einer Diakonin für viele Dinge;
+denn eine Diakonin wird gebraucht,
+um in die Häuser der Heiden zu gehen,
+wo gläubige Frauen sind,
+die Kranken zu besuchen,
+ihnen in dem zu dienen,
+was sie nötig haben,
+und diejenigen zu baden,
+die begonnen haben,
+sich von der Krankheit zu erholen\.
 
-Darum, o Bischof, bestelle dir Mitarbeiter der Gerechtigkeit als Helfer, die mit dir zum Heil zusammenwirken können\. Aus dem ganzen Volk sollst du diejenigen auswählen und als Diakone einsetzen, die dir gefallen: einen Mann für die Erfüllung der meisten notwendigen Aufgaben, eine Frau aber für den Dienst an den Frauen\. Denn es gibt Häuser, in die du wegen der Heiden keinen Diakon zu den Frauen senden kannst, wohl aber eine Diakonin\. Auch in vielen anderen Angelegenheiten ist der Dienst einer Diakonin erforderlich\. Zuerst: Wenn Frauen ins Wasser hinabsteigen, sollen sie von einer Diakonin mit dem Salböl gesalbt werden; und wenn keine Frau zur Hand ist, besonders keine Diakonin, dann muss der, der tauft, notwendigerweise diejenige salben, die getauft wird\. Wo aber eine Frau da ist, besonders eine Diakonin, gehört es sich nicht, dass Frauen von Männern gesehen werden; vielmehr sollst du mit der Handauflegung nur das Haupt salben\. Wie einst die Priester und Könige in Israel gesalbt wurden, so salbe auch du ebenso, mit der Handauflegung, das Haupt derer, die die Taufe empfangen, seien es Männer oder Frauen; und danach, ob du selbst taufst oder den Diakonen oder Presbytern befiehlst zu taufen, soll, wie wir schon gesagt haben, eine Diakonin die Frauen salben\. Ein Mann aber soll über ihnen im Wasser die Anrufung der göttlichen Namen aussprechen\. Und wenn die, die getauft wird, aus dem Wasser heraufgestiegen ist, soll die Diakonin sie aufnehmen und sie lehren und unterweisen, wie das Siegel der Taufe unversehrt in Reinheit und Heiligkeit bewahrt werden muss\. Aus diesem Grund sagen wir, dass der Dienst einer Diakonin besonders notwendig und wichtig ist\. Denn auch unserem Herrn und Erlöser dienten Frauen: Maria Magdalena und Maria, die Tochter des Jakobus und Mutter des Joses, und die Mutter der Söhne des Zebedäus[^bible-4098f6b1-7439-45e0-ab30-9707a545a07a], dazu noch andere Frauen\. Auch du brauchst den Dienst einer Diakonin für viele Dinge; denn eine Diakonin wird gebraucht, um in die Häuser der Heiden zu gehen, wo gläubige Frauen sind, die Kranken zu besuchen, ihnen in dem zu dienen, was sie nötig haben, und diejenigen zu baden, die begonnen haben, sich von der Krankheit zu erholen\.
+Und die Diakone sollen die Bischöfe in ihrem Wandel nachahmen;
+ja,
+sie sollen sogar mehr arbeiten als er\.
+Und sie sollen nicht schändlichen Gewinn lieben[^bible-bc34e5e0-bc29-4e5f-9133-0f0097d0aa04],
+sondern eifrig im Dienst sein\.
+Und entsprechend der Zahl der Gemeinde des Volkes der Kirche soll auch die Zahl der Diakone sein,
+damit sie jeden Einzelnen kennen und alle erquicken können;
+so sollen sie für die alten Frauen,
+die gebrechlich sind,
+und für Brüder und Schwestern,
+die krank sind,
+für jeden den Dienst bereitstellen,
+der ihm zukommt\.
+Eine Frau aber soll vielmehr dem Dienst an Frauen hingegeben sein,
+ein männlicher Diakon dem Dienst an Männern\.
+Und er soll bereit sein,
+zu gehorchen und sich dem Befehl des Bischofs zu unterstellen\.
+Und er soll an jedem Ort arbeiten und sich mühen,
+wohin er gesandt wird,
+um zu dienen oder mit jemandem über eine Sache zu sprechen\.
+Denn jeder muss sein Amt kennen und eifrig darin sein,
+es auszuführen\.
+Und ihr,
+Bischof und Diakon,
+sollt eines Sinnes und eines Zieles sein,
+eine Seele,
+die in zwei Leibern wohnt\.
+Und erkennt,
+was der Dienst ist,
+wie unser Herr und Erlöser im Evangelium gesagt hat:
+„Wer unter euch der Erste sein will,
+der sei euer Diener;
+so wie der Menschensohn nicht gekommen ist,
+um sich dienen zu lassen,
+sondern um zu dienen und sein Leben als Lösegeld für viele zu geben[^bible-e546a3ff-2172-45ea-bb5e-93d51df61f75]\.“
+So sollt auch ihr Diakone handeln,
+wenn es euch zufällt,
+euer Leben für eure Brüder in dem Dienst hinzugeben,
+der ihnen gebührt\.
+Denn auch unser Herr und Erlöser selbst hat es nicht verschmäht,
+uns zu dienen,
+wie bei Jesaja geschrieben steht:
+„Den Gerechten zu rechtfertigen,
+der für viele einen Dienst wohl vollbracht hat[^bible-9f2e2999-4eb5-4a16-9655-9a011bb75b96]\.“
+Wenn also der Herr des Himmels und der Erde für uns einen Dienst vollbracht und alles für uns getragen und erduldet hat,
+wie viel mehr müssen wir Gleiches für unsere Brüder tun,
+damit wir ihn nachahmen\.
+Denn wir sind seine Nachahmer und nehmen die Stelle Christi ein\.
+Und wiederum findest du im Evangelium geschrieben,
+wie unser Herr ein Leinentuch um seine Hüften band und Wasser in ein Waschbecken goss,
+während wir bei Tisch lagen,
+dann herantrat,
+uns allen die Füße wusch und sie mit dem Tuch abtrocknete[^bible-dce4d39b-0077-4265-aab6-25bcbd74099e]\.
+Das aber tat er,
+um uns Liebe und brüderliche Zuneigung als Beispiel zu zeigen,
+damit auch wir einander ebenso tun[^bible-c7a333b2-22fe-41cc-a26d-a4edd0163d1b]\.
+Wenn also unser Herr so gehandelt hat,
+werdet ihr,
+Diakone,
+zögern,
+Gleiches für die Kranken und Gebrechlichen zu tun,
+ihr,
+die ihr Arbeiter der Wahrheit seid und das Bild Christi tragt?
+Dient daher mit Liebe und murrt nicht und zögert nicht;
+andernfalls werdet ihr gleichsam um der Menschen willen gedient haben und nicht um Gottes willen,
+und ihr werdet euren Lohn gemäß eurem Dienst am Tag des Gerichts empfangen\.
+Von euch Diakonen wird daher verlangt,
+dass ihr alle besucht,
+die in Not sind,
+und den Bischof über die unterrichtet,
+die bedrängt sind;
+und ihr sollt seine Seele und sein Sinn sein;
+und in allem sollt ihr Mühe auf euch nehmen und ihm gehorsam sein\.
 
-Und die Diakone sollen die Bischöfe in ihrem Wandel nachahmen; ja, sie sollen sogar mehr arbeiten als er\. Und sie sollen nicht schändlichen Gewinn lieben[^bible-bc34e5e0-bc29-4e5f-9133-0f0097d0aa04], sondern eifrig im Dienst sein\. Und entsprechend der Zahl der Gemeinde des Volkes der Kirche soll auch die Zahl der Diakone sein, damit sie jeden Einzelnen kennen und alle erquicken können; so sollen sie für die alten Frauen, die gebrechlich sind, und für Brüder und Schwestern, die krank sind, für jeden den Dienst bereitstellen, der ihm zukommt\. Eine Frau aber soll vielmehr dem Dienst an Frauen hingegeben sein, ein männlicher Diakon dem Dienst an Männern\. Und er soll bereit sein, zu gehorchen und sich dem Befehl des Bischofs zu unterstellen\. Und er soll an jedem Ort arbeiten und sich mühen, wohin er gesandt wird, um zu dienen oder mit jemandem über eine Sache zu sprechen\. Denn jeder muss sein Amt kennen und eifrig darin sein, es auszuführen\. Und ihr, Bischof und Diakon, sollt eines Sinnes und eines Zieles sein, eine Seele, die in zwei Leibern wohnt\. Und erkennt, was der Dienst ist, wie unser Herr und Erlöser im Evangelium gesagt hat: „Wer unter euch der Erste sein will, der sei euer Diener; so wie der Menschensohn nicht gekommen ist, um sich dienen zu lassen, sondern um zu dienen und sein Leben als Lösegeld für viele zu geben[^bible-e546a3ff-2172-45ea-bb5e-93d51df61f75]\.“ So sollt auch ihr Diakone handeln, wenn es euch zufällt, euer Leben für eure Brüder in dem Dienst hinzugeben, der ihnen gebührt\. Denn auch unser Herr und Erlöser selbst hat es nicht verschmäht, uns zu dienen, wie bei Jesaja geschrieben steht: „Den Gerechten zu rechtfertigen, der für viele einen Dienst wohl vollbracht hat[^bible-9f2e2999-4eb5-4a16-9655-9a011bb75b96]\.“ Wenn also der Herr des Himmels und der Erde für uns einen Dienst vollbracht und alles für uns getragen und erduldet hat, wie viel mehr müssen wir Gleiches für unsere Brüder tun, damit wir ihn nachahmen\. Denn wir sind seine Nachahmer und nehmen die Stelle Christi ein\. Und wiederum findest du im Evangelium geschrieben, wie unser Herr ein Leinentuch um seine Hüften band und Wasser in ein Waschbecken goss, während wir bei Tisch lagen, dann herantrat, uns allen die Füße wusch und sie mit dem Tuch abtrocknete[^bible-dce4d39b-0077-4265-aab6-25bcbd74099e]\. Das aber tat er, um uns Liebe und brüderliche Zuneigung als Beispiel zu zeigen, damit auch wir einander ebenso tun[^bible-c7a333b2-22fe-41cc-a26d-a4edd0163d1b]\. Wenn also unser Herr so gehandelt hat, werdet ihr, Diakone, zögern, Gleiches für die Kranken und Gebrechlichen zu tun, ihr, die ihr Arbeiter der Wahrheit seid und das Bild Christi tragt? Dient daher mit Liebe und murrt nicht und zögert nicht; andernfalls werdet ihr gleichsam um der Menschen willen gedient haben und nicht um Gottes willen, und ihr werdet euren Lohn gemäß eurem Dienst am Tag des Gerichts empfangen\. Von euch Diakonen wird daher verlangt, dass ihr alle besucht, die in Not sind, und den Bischof über die unterrichtet, die bedrängt sind; und ihr sollt seine Seele und sein Sinn sein; und in allem sollt ihr Mühe auf euch nehmen und ihm gehorsam sein\.
-
-in ein Waschbecken, während wir bei Tisch lagen, dann herantrat, uns allen die Füße wusch und sie mit dem Tuch abtrocknete[^bible-9dd19485-0f31-4875-8fa0-6d176dab1f98]\. Das aber tat er, um uns Liebe und brüderliche Liebe als Beispiel zu zeigen, damit auch wir einander ebenso tun[^bible-2ce2a446-3e0a-4ff6-9b08-bb6eb4e82f7d]\. Wenn also unser Herr so gehandelt hat, werdet ihr, Diakone, zögern, Gleiches für die Kranken und Gebrechlichen zu tun, ihr, die ihr Arbeiter der Wahrheit seid und das Bild Christi tragt? Dient daher mit Liebe, und murrt nicht und zögert nicht; andernfalls werdet ihr gleichsam um der Menschen willen gedient haben und nicht um Gottes willen, und ihr werdet euren Lohn gemäß eurem Dienst am Tag des Gerichts empfangen\. Von euch Diakonen wird daher verlangt, dass ihr alle besucht, die in Not sind, und den Bischof über die unterrichtet, die in Bedrängnis sind; und ihr sollt seine Seele und sein Verstand sein; und in allem sollt ihr Mühe auf euch nehmen und ihm gehorsam sein\.
+in ein Waschbecken,
+während wir bei Tisch lagen,
+dann herantrat,
+uns allen die Füße wusch und sie mit dem Tuch abtrocknete[^bible-9dd19485-0f31-4875-8fa0-6d176dab1f98]\.
+Das aber tat er,
+um uns Liebe und brüderliche Liebe als Beispiel zu zeigen,
+damit auch wir einander ebenso tun[^bible-2ce2a446-3e0a-4ff6-9b08-bb6eb4e82f7d]\.
+Wenn also unser Herr so gehandelt hat,
+werdet ihr,
+Diakone,
+zögern,
+Gleiches für die Kranken und Gebrechlichen zu tun,
+ihr,
+die ihr Arbeiter der Wahrheit seid und das Bild Christi tragt?
+Dient daher mit Liebe,
+und murrt nicht und zögert nicht;
+andernfalls werdet ihr gleichsam um der Menschen willen gedient haben und nicht um Gottes willen,
+und ihr werdet euren Lohn gemäß eurem Dienst am Tag des Gerichts empfangen\.
+Von euch Diakonen wird daher verlangt,
+dass ihr alle besucht,
+die in Not sind,
+und den Bischof über die unterrichtet,
+die in Bedrängnis sind;
+und ihr sollt seine Seele und sein Verstand sein;
+und in allem sollt ihr Mühe auf euch nehmen und ihm gehorsam sein\.
 
 ## Bibelverweise
 

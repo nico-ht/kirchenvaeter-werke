@@ -7,9 +7,144 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/33-homilie-ueber-matthaeus#kapitel-42059c47-dca4-4c2a-5ad7-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e5953a9de3a4513da58794ac3ad0d7e41e58336c8388a19c769bfc8669679269`
-
-Wenn es also geschehen sollte, was nicht geschehen möge und nie eintreten möge, dass ein Krieg der Kirchen und eine Verfolgung ausbricht, dann bedenke, wie groß das Gelächter sein wird, wie groß die Schmach\. Und das völlig zu Recht\. Denn wenn sich niemand in der Ringschule übt, wie soll er dann in den Wettkämpfen glänzen? Welcher Athlet, der keinen Trainer kennt, wird, wenn die Olympischen Spiele rufen, gegen seinen Gegner etwas Großes und Edles zeigen können? Müssten wir nicht jeden Tag ringen, boxen und laufen? Seht ihr nicht, wie die sogenannten Fünfkämpfer, wenn sie keinen Gegner haben, einen Sack mit viel Sand füllen, ihn aufhängen und daran ihre ganze Kraft üben? Und wie die Jüngeren unter ihnen an den Körpern ihrer Gefährten den Kampf gegen Feinde einüben? Nimm auch du dir diese zum Vorbild und übe die Ringgriffe der Philosophie\. Denn viele reizen zum Zorn, stürzen in Begierde und entzünden eine große Flamme\. Stell dich also gegen die Leidenschaften; ertrage tapfer die Schmerzen in der Seele, damit du auch die des Körpers ertragen kannst\. Denn auch der selige Hiob: Wäre er nicht schon vor den Kämpfen gut trainiert gewesen, hätte er in den Kämpfen nicht so hell geglänzt; hätte er sich nicht darin geübt, frei von jeder Mutlosigkeit zu bleiben, hätte er etwas Verwegenes gesagt, als seine Kinder starben\. Nun aber hielt er gegen alle Ringkämpfe stand: gegen den Verlust des Geldes und das Verschwinden eines so großen Besitzes, gegen den Verlust der Kinder, gegen die Anfechtung durch seine Frau, gegen die Geißeln seines Körpers, gegen die Vorwürfe der Freunde, gegen die Schmähungen der Diener\. Wenn du auch seine Übungen sehen willst, dann hör ihn selbst sagen, wie er das Geld verachtete: „Wenn ich mich freute, weil mein Reichtum groß geworden war[^bible-0f99b641-175c-4eac-9386-deafea7bc3ca]; wenn ich Gold wie Staub achtete[^bible-78329fcf-12f8-4784-ac7b-665708dd51ec], wenn ich auf einen kostbaren Stein vertraute[^bible-78329fcf-12f8-4784-ac7b-665708dd51ec]\.“ Deshalb geriet er auch nicht in Unruhe, als es geraubt wurde; denn selbst als es da war, begehrte er es nicht\. Hör, wie er auch mit seinen Kindern umging: nicht nachgiebiger als nötig, wie wir es tun, sondern indem er von ihnen in allem Genauigkeit verlangte\. Denn wenn er sogar für verborgene Dinge ein Opfer darbrachte, dann bedenke, wie streng er über das Offenkundige richtete\. Wenn du auch von den Kämpfen um die Keuschheit hören willst, dann hör ihn sagen: „Ich habe mit meinen Augen einen Bund geschlossen, nicht auf eine Jungfrau zu blicken\.[^bible-a0be871a-0ffb-4da3-b440-c4823c88b0f3]“ Darum hat seine Frau ihn nicht gebrochen\. Er liebte sie zwar auch vorher, aber nicht über das Maß hinaus, sondern so, wie es gegenüber einer Frau angemessen ist\. Daher muss ich staunen: Wie kam es dem Teufel in den Sinn, obwohl er seine Übungen kannte, die Kämpfe anzustoßen? Woher kam es ihm also? Das Tier ist böse und gibt niemals auf\. Gerade das wird zu unserer schwersten Verurteilung: Er nämlich gibt die Hoffnung auf unser Verderben nie auf, wir aber geben die Hoffnung auf unsere eigene Rettung auf\. Betrachte aber, wie er sich auf körperliche Versehrung und Misshandlung vorbereitete\. Denn da er selbst nie etwas dergleichen erlitten hatte, sondern ständig in Reichtum, Genuss und sonstigem Ansehen lebte, stellte er sich jeden Tag die fremden Unglücksfälle vor Augen\. Und um das deutlich zu machen, sagte er: „Denn die Furcht, die ich fürchtete, kam über mich, und wovor ich mich ängstigte, trat mir entgegen\.[^bible-c282b0c1-f580-4381-be27-09f01158bbbb]“ Und wieder: „Ich aber weinte über jeden Hilflosen und seufzte, wenn ich einen Mann in Nöten sah\.[^bible-45a76464-721f-4edd-84a4-2f40f76ea16f]“ Eben darum brachte ihn nichts von dem, was über ihn kam, in Unruhe, auch nicht jene großen und unerträglichen Dinge\. Schau mir nämlich nicht auf den Verlust des Geldes, nicht auf die Wegnahme der Kinder, nicht auf jene unheilbare Wunde, nicht auf den Anschlag seiner Frau, sondern auf das, was weit schwerer war als dies\. „Und was Schwereres als dies“, sagt einer, „hat Hiob denn erlitten? Aus der Erzählung erfahren wir ja nichts, was darüber hinausginge\.“ Weil wir schlafen, erfahren wir es nicht\. Wer aber achtsam ist und die Perle gründlich sucht, wird weit mehr erkennen als dies\. Denn es gab anderes, das schwerer war und eine noch viel größere Erschütterung hätte hervorrufen können\. Erstens: dass er nichts Sicheres vom Himmelreich und von der Auferstehung wusste\. Darum sagte er auch klagend: „Denn ich werde nicht ewig leben, dass ich lange Geduld haben könnte\.[^bible-53f5c523-d82a-4b2b-a262-44b024079b14]“ Zweitens: dass er sich vieler guter Dinge bewusst war\. Drittens: dass er sich keiner bösen Tat bewusst war\. Viertens: dass er meinte, dies von Gott her ertragen zu müssen; und wenn es auch vom Teufel her kam, wäre selbst das genug gewesen, ihn zu Fall zu bringen\. Fünftens: dass er seine Freunde hören musste, wie sie ihn wegen Bosheit verleumdeten: „Denn du bist nicht nach dem Maß deiner Sünden gegeißelt worden\.[^bible-c3227af8-d099-440a-89d3-9a5788bff2a0]“ Sechstens: dass er sah, wie Menschen, die in Bosheit lebten, Gutes erfuhren und ihn dazu noch auslachten\. Siebtens: dass er auf keinen anderen blicken konnte, der je Derartiges erlitten hatte\.
+Wenn es also geschehen sollte,
+was nicht geschehen möge und nie eintreten möge,
+dass ein Krieg der Kirchen und eine Verfolgung ausbricht,
+dann bedenke,
+wie groß das Gelächter sein wird,
+wie groß die Schmach\.
+Und das völlig zu Recht\.
+Denn wenn sich niemand in der Ringschule übt,
+wie soll er dann in den Wettkämpfen glänzen?
+Welcher Athlet,
+der keinen Trainer kennt,
+wird,
+wenn die Olympischen Spiele rufen,
+gegen seinen Gegner etwas Großes und Edles zeigen können?
+Müssten wir nicht jeden Tag ringen,
+boxen und laufen?
+Seht ihr nicht,
+wie die sogenannten Fünfkämpfer,
+wenn sie keinen Gegner haben,
+einen Sack mit viel Sand füllen,
+ihn aufhängen und daran ihre ganze Kraft üben?
+Und wie die Jüngeren unter ihnen an den Körpern ihrer Gefährten den Kampf gegen Feinde einüben?
+Nimm auch du dir diese zum Vorbild und übe die Ringgriffe der Philosophie\.
+Denn viele reizen zum Zorn,
+stürzen in Begierde und entzünden eine große Flamme\.
+Stell dich also gegen die Leidenschaften;
+ertrage tapfer die Schmerzen in der Seele,
+damit du auch die des Körpers ertragen kannst\.
+Denn auch der selige Hiob:
+Wäre er nicht schon vor den Kämpfen gut trainiert gewesen,
+hätte er in den Kämpfen nicht so hell geglänzt;
+hätte er sich nicht darin geübt,
+frei von jeder Mutlosigkeit zu bleiben,
+hätte er etwas Verwegenes gesagt,
+als seine Kinder starben\.
+Nun aber hielt er gegen alle Ringkämpfe stand:
+gegen den Verlust des Geldes und das Verschwinden eines so großen Besitzes,
+gegen den Verlust der Kinder,
+gegen die Anfechtung durch seine Frau,
+gegen die Geißeln seines Körpers,
+gegen die Vorwürfe der Freunde,
+gegen die Schmähungen der Diener\.
+Wenn du auch seine Übungen sehen willst,
+dann hör ihn selbst sagen,
+wie er das Geld verachtete:
+„Wenn ich mich freute,
+weil mein Reichtum groß geworden war[^bible-0f99b641-175c-4eac-9386-deafea7bc3ca];
+wenn ich Gold wie Staub achtete[^bible-78329fcf-12f8-4784-ac7b-665708dd51ec],
+wenn ich auf einen kostbaren Stein vertraute[^bible-78329fcf-12f8-4784-ac7b-665708dd51ec]\.“
+Deshalb geriet er auch nicht in Unruhe,
+als es geraubt wurde;
+denn selbst als es da war,
+begehrte er es nicht\.
+Hör,
+wie er auch mit seinen Kindern umging:
+nicht nachgiebiger als nötig,
+wie wir es tun,
+sondern indem er von ihnen in allem Genauigkeit verlangte\.
+Denn wenn er sogar für verborgene Dinge ein Opfer darbrachte,
+dann bedenke,
+wie streng er über das Offenkundige richtete\.
+Wenn du auch von den Kämpfen um die Keuschheit hören willst,
+dann hör ihn sagen:
+„Ich habe mit meinen Augen einen Bund geschlossen,
+nicht auf eine Jungfrau zu blicken\.[^bible-a0be871a-0ffb-4da3-b440-c4823c88b0f3]“ Darum hat seine Frau ihn nicht gebrochen\.
+Er liebte sie zwar auch vorher,
+aber nicht über das Maß hinaus,
+sondern so,
+wie es gegenüber einer Frau angemessen ist\.
+Daher muss ich staunen:
+Wie kam es dem Teufel in den Sinn,
+obwohl er seine Übungen kannte,
+die Kämpfe anzustoßen?
+Woher kam es ihm also?
+Das Tier ist böse und gibt niemals auf\.
+Gerade das wird zu unserer schwersten Verurteilung:
+Er nämlich gibt die Hoffnung auf unser Verderben nie auf,
+wir aber geben die Hoffnung auf unsere eigene Rettung auf\.
+Betrachte aber,
+wie er sich auf körperliche Versehrung und Misshandlung vorbereitete\.
+Denn da er selbst nie etwas dergleichen erlitten hatte,
+sondern ständig in Reichtum,
+Genuss und sonstigem Ansehen lebte,
+stellte er sich jeden Tag die fremden Unglücksfälle vor Augen\.
+Und um das deutlich zu machen,
+sagte er:
+„Denn die Furcht,
+die ich fürchtete,
+kam über mich,
+und wovor ich mich ängstigte,
+trat mir entgegen\.[^bible-c282b0c1-f580-4381-be27-09f01158bbbb]“ Und wieder:
+„Ich aber weinte über jeden Hilflosen und seufzte,
+wenn ich einen Mann in Nöten sah\.[^bible-45a76464-721f-4edd-84a4-2f40f76ea16f]“ Eben darum brachte ihn nichts von dem,
+was über ihn kam,
+in Unruhe,
+auch nicht jene großen und unerträglichen Dinge\.
+Schau mir nämlich nicht auf den Verlust des Geldes,
+nicht auf die Wegnahme der Kinder,
+nicht auf jene unheilbare Wunde,
+nicht auf den Anschlag seiner Frau,
+sondern auf das,
+was weit schwerer war als dies\.
+„Und was Schwereres als dies“,
+sagt einer,
+„hat Hiob denn erlitten?
+Aus der Erzählung erfahren wir ja nichts,
+was darüber hinausginge\.“
+Weil wir schlafen,
+erfahren wir es nicht\.
+Wer aber achtsam ist und die Perle gründlich sucht,
+wird weit mehr erkennen als dies\.
+Denn es gab anderes,
+das schwerer war und eine noch viel größere Erschütterung hätte hervorrufen können\.
+Erstens:
+dass er nichts Sicheres vom Himmelreich und von der Auferstehung wusste\.
+Darum sagte er auch klagend:
+„Denn ich werde nicht ewig leben,
+dass ich lange Geduld haben könnte\.[^bible-53f5c523-d82a-4b2b-a262-44b024079b14]“ Zweitens:
+dass er sich vieler guter Dinge bewusst war\.
+Drittens:
+dass er sich keiner bösen Tat bewusst war\.
+Viertens:
+dass er meinte,
+dies von Gott her ertragen zu müssen;
+und wenn es auch vom Teufel her kam,
+wäre selbst das genug gewesen,
+ihn zu Fall zu bringen\.
+Fünftens:
+dass er seine Freunde hören musste,
+wie sie ihn wegen Bosheit verleumdeten:
+„Denn du bist nicht nach dem Maß deiner Sünden gegeißelt worden\.[^bible-c3227af8-d099-440a-89d3-9a5788bff2a0]“ Sechstens:
+dass er sah,
+wie Menschen,
+die in Bosheit lebten,
+Gutes erfuhren und ihn dazu noch auslachten\.
+Siebtens:
+dass er auf keinen anderen blicken konnte,
+der je Derartiges erlitten hatte\.
 
 ## Bibelverweise
 

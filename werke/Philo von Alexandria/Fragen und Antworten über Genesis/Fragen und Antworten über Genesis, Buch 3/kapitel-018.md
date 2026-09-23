@@ -7,6 +7,43 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-3#kapitel-dd78f057-0209-47c3-9c8a-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:940c5e80c4af593cba7007ce98efa1b029591f1ef862e83c3711f7228e7e52b2`
-
-Warum gebar Sara, die Frau Abrahams, ihm keine Kinder? Die Mutter der Meinung wird hier als unfruchtbar bezeichnet\. Erstens, damit der Sohn der Zeugung umso wunderbarer erscheine, als durch ein Wunder geboren\. Zweitens, damit seine Empfängnis und Geburt nicht stärker der Ehe des Mannes als der göttlichen Vorsehung zugeschrieben werden\. Denn dass eine unfruchtbare Frau einen Sohn gebiert, liegt nicht am Vermögen der Empfängnis, sondern vielmehr am Wirken göttlicher Macht\. Das ist der wörtliche Sinn der Aussage\. Wenn wir aber auf ihren inneren Sinn blicken, dann werden wir erstens sagen: Hervorbringen ist dem weiblichen Geschlecht eigen, wie Zeugen die Aufgabe des männlichen ist\. Darum will Gott vor allem den Geist, der mit Tugend erfüllt ist, eher dem männlichen als dem weiblichen Geschlecht ähnlich machen, weil er es seinem Wesen angemessen hält, tätig zu sein, nicht leidend\. Zweitens erzeugen beide, sowohl der tugendhafte als auch der schlechte Geist\. Aber sie erzeugen auf verschiedene Weise und bringen gegensätzliche Nachkommen hervor: Der tugendhafte Geist bringt Gutes und Nützliches hervor, der verdorbene oder schlechte Geist dagegen Gemeines und Nutzloses\. Drittens muss der, der noch voranschreitet und Fortschritte macht, bis zum Gipfel selbst angespornt werden; er ist nahe bei dem Licht, das nach der Aussage mancher dem Vergessen übergeben und unbekannt gemacht wird\. Weil er also Fortschritte macht, erzeugt er nichts Schlechtes, aber auch noch nichts Gutes, denn er ist noch nicht vollkommen\. Vielmehr gleicht er einem Menschen, der weder krank noch schon ganz gesund ist, sondern nach langer Krankheit endlich auf dem Weg der Genesung ist\.
+Warum gebar Sara,
+die Frau Abrahams,
+ihm keine Kinder?
+Die Mutter der Meinung wird hier als unfruchtbar bezeichnet\.
+Erstens,
+damit der Sohn der Zeugung umso wunderbarer erscheine,
+als durch ein Wunder geboren\.
+Zweitens,
+damit seine Empfängnis und Geburt nicht stärker der Ehe des Mannes als der göttlichen Vorsehung zugeschrieben werden\.
+Denn dass eine unfruchtbare Frau einen Sohn gebiert,
+liegt nicht am Vermögen der Empfängnis,
+sondern vielmehr am Wirken göttlicher Macht\.
+Das ist der wörtliche Sinn der Aussage\.
+Wenn wir aber auf ihren inneren Sinn blicken,
+dann werden wir erstens sagen:
+Hervorbringen ist dem weiblichen Geschlecht eigen,
+wie Zeugen die Aufgabe des männlichen ist\.
+Darum will Gott vor allem den Geist,
+der mit Tugend erfüllt ist,
+eher dem männlichen als dem weiblichen Geschlecht ähnlich machen,
+weil er es seinem Wesen angemessen hält,
+tätig zu sein,
+nicht leidend\.
+Zweitens erzeugen beide,
+sowohl der tugendhafte als auch der schlechte Geist\.
+Aber sie erzeugen auf verschiedene Weise und bringen gegensätzliche Nachkommen hervor:
+Der tugendhafte Geist bringt Gutes und Nützliches hervor,
+der verdorbene oder schlechte Geist dagegen Gemeines und Nutzloses\.
+Drittens muss der,
+der noch voranschreitet und Fortschritte macht,
+bis zum Gipfel selbst angespornt werden;
+er ist nahe bei dem Licht,
+das nach der Aussage mancher dem Vergessen übergeben und unbekannt gemacht wird\.
+Weil er also Fortschritte macht,
+erzeugt er nichts Schlechtes,
+aber auch noch nichts Gutes,
+denn er ist noch nicht vollkommen\.
+Vielmehr gleicht er einem Menschen,
+der weder krank noch schon ganz gesund ist,
+sondern nach langer Krankheit endlich auf dem Weg der Genesung ist\.

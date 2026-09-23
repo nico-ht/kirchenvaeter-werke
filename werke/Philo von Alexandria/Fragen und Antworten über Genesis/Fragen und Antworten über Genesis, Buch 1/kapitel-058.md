@@ -7,9 +7,24 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-1#kapitel-ea5ce9a7-5acc-47e7-cd54-08dd5e2b9946).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f0cbbdd31940894c0c7d6422f4c96420b118a28934bfb9ab69460c3dabaf717e`
-
-Ob es im Blick auf Kain richtig gesagt wurde: „Ich habe einen Mann vom Herrn erworben[^bible-16dd280b-4539-4763-a90a-897fe016ebe2]?“ Hier wird unterschieden zwischen von jemandem her, aus jemandem heraus und durch etwas\. Aus jemandem heraus, wie aus Stoffen; von jemandem her, wie von einer Ursache; und durch etwas, wie durch ein Werkzeug\. Der Vater und Schöpfer der ganzen Welt aber ist kein Werkzeug, sondern Ursache\. Darum weicht von der rechten Weisheit ab, wer sagt: „Das, was geworden ist, sei nicht von Gott her, sondern durch Gott geworden\.“
+Ob es im Blick auf Kain richtig gesagt wurde:
+„Ich habe einen Mann vom Herrn erworben[^bible-16dd280b-4539-4763-a90a-897fe016ebe2]?“
+Hier wird unterschieden zwischen von jemandem her,
+aus jemandem heraus und durch etwas\.
+Aus jemandem heraus,
+wie aus Stoffen;
+von jemandem her,
+wie von einer Ursache;
+und durch etwas,
+wie durch ein Werkzeug\.
+Der Vater und Schöpfer der ganzen Welt aber ist kein Werkzeug,
+sondern Ursache\.
+Darum weicht von der rechten Weisheit ab,
+wer sagt:
+„Das,
+was geworden ist,
+sei nicht von Gott her,
+sondern durch Gott geworden\.“
 
 ## Bibelverweise
 

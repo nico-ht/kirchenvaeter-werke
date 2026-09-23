@@ -7,6 +7,30 @@ Autor: Kyrill von Jerusalem
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/kyrill-von-jerusalem/2-katechetische-vorlesung#kapitel-28cb770f-ed98-4c44-dce9-08dd30bdeab5).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:73114fd739e03d6b0b351ecd3671e4a722d85c677d4db2188e481312bb149111`
-
-Was denkst du über Nebukadnezar? Hast du nicht aus den Schriften gehört, dass er blutrünstig, wild und löwenartig in seiner Gesinnung war? Hast du nicht gehört, dass er die Knochen der Könige aus ihren Gräbern ans Licht brachte? Hast du nicht gehört, dass er das Volk gefangen wegführte? Hast du nicht gehört, dass er dem König die Augen ausstach, nachdem er bereits seine Kinder hatte erschlagen sehen? Hast du nicht gehört, dass er die Cherubim zerbrach? Ich meine nicht die unsichtbaren Wesen – schaffe solchen Gedanken, o Mensch, ab – sondern die skulpturierten Bilder und die Gnadenstätte, in deren Mitte Gott mit Seiner Stimme sprach\. Den Vorhang des Heiligtums trat er mit Füßen: den Räucheraltar nahm er und trug ihn in einen Götzentempel; alle Opfer nahm er mit: den Tempel verbrannte er bis zu den Fundamenten\. Welche großen Strafen hätte er nicht verdient, für das Erschlagen von Königen, für das Anzünden des Heiligtums, für das Wegführen des Volkes, für das Platzieren der heiligen Gefäße im Haus der Götzen? Verdiente er nicht zehntausend Tode?
+Was denkst du über Nebukadnezar?
+Hast du nicht aus den Schriften gehört,
+dass er blutrünstig,
+wild und löwenartig in seiner Gesinnung war?
+Hast du nicht gehört,
+dass er die Knochen der Könige aus ihren Gräbern ans Licht brachte?
+Hast du nicht gehört,
+dass er das Volk gefangen wegführte?
+Hast du nicht gehört,
+dass er dem König die Augen ausstach,
+nachdem er bereits seine Kinder hatte erschlagen sehen?
+Hast du nicht gehört,
+dass er die Cherubim zerbrach?
+Ich meine nicht die unsichtbaren Wesen – schaffe solchen Gedanken,
+o Mensch,
+ab – sondern die skulpturierten Bilder und die Gnadenstätte,
+in deren Mitte Gott mit Seiner Stimme sprach\.
+Den Vorhang des Heiligtums trat er mit Füßen:
+den Räucheraltar nahm er und trug ihn in einen Götzentempel;
+alle Opfer nahm er mit:
+den Tempel verbrannte er bis zu den Fundamenten\.
+Welche großen Strafen hätte er nicht verdient,
+für das Erschlagen von Königen,
+für das Anzünden des Heiligtums,
+für das Wegführen des Volkes,
+für das Platzieren der heiligen Gefäße im Haus der Götzen?
+Verdiente er nicht zehntausend Tode?

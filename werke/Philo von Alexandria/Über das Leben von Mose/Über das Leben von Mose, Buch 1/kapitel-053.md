@@ -7,6 +7,41 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-1#kapitel-c2fee591-b113-4570-4899-08ded87107d6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d39e03ae0d74f8e78b94684a4da7195211432b5d3eb06bddd822f0cf1e7028b7`
-
-Da wurde der König über diese Worte sehr zornig und sagte: „Ich habe dich hierher rufen lassen, damit du meine Feinde verfluchst; du aber hast nun schon dreimal für sie gebetet und sie gesegnet\. Flieh also schnell; denn Leidenschaft ist eine hastige Regung, und ich könnte sonst gezwungen werden, etwas Gewalttätigeres zu tun, als es meine Gewohnheit ist\. Um welch gewaltige Summe Geld, du törichtster aller Menschen, um wie viele Geschenke, um wie viel Ansehen, Berühmtheit und Ruhm hast du dich in deinem Wahn gebracht\! Jetzt wirst du aus einem fremden Land in deine Heimat zurückkehren und nichts Gutes mit dir nehmen, sondern nur Vorwürfe und, wie es scheint, große Schande; man wird dich gerade wegen jenes Wissens verspotten und verachten, auf das du früher so außerordentlich stolz warst\.“ Balaam erwiderte: „Alles, was ich bisher ausgesprochen habe, waren Orakel und Worte Gottes; was ich aber jetzt sagen werde, sind lediglich Eingebungen meines eigenen Geistes\.“ Und er nahm ihn bei der rechten Hand und gab ihm, als sie beide allein waren, einen Rat, durch dessen Befolgung er sich, soweit möglich, gegen die Macht seiner Feinde schützen konnte, wobei er sich selbst der ungeheuerlichsten Verbrechen schuldig machte\. Denn warum, könnte vielleicht jemand sagen, ziehst du dich so in die Einsamkeit zurück und gibst einen Rat, der den Orakeln Gottes widerspricht, wenn nicht etwa deine Ratschläge mächtiger sind als seine Beschlüsse?
+Da wurde der König über diese Worte sehr zornig und sagte:
+„Ich habe dich hierher rufen lassen,
+damit du meine Feinde verfluchst;
+du aber hast nun schon dreimal für sie gebetet und sie gesegnet\.
+Flieh also schnell;
+denn Leidenschaft ist eine hastige Regung,
+und ich könnte sonst gezwungen werden,
+etwas Gewalttätigeres zu tun,
+als es meine Gewohnheit ist\.
+Um welch gewaltige Summe Geld,
+du törichtster aller Menschen,
+um wie viele Geschenke,
+um wie viel Ansehen,
+Berühmtheit und Ruhm hast du dich in deinem Wahn gebracht\!
+Jetzt wirst du aus einem fremden Land in deine Heimat zurückkehren und nichts Gutes mit dir nehmen,
+sondern nur Vorwürfe und,
+wie es scheint,
+große Schande;
+man wird dich gerade wegen jenes Wissens verspotten und verachten,
+auf das du früher so außerordentlich stolz warst\.“
+Balaam erwiderte:
+„Alles,
+was ich bisher ausgesprochen habe,
+waren Orakel und Worte Gottes;
+was ich aber jetzt sagen werde,
+sind lediglich Eingebungen meines eigenen Geistes\.“
+Und er nahm ihn bei der rechten Hand und gab ihm,
+als sie beide allein waren,
+einen Rat,
+durch dessen Befolgung er sich,
+soweit möglich,
+gegen die Macht seiner Feinde schützen konnte,
+wobei er sich selbst der ungeheuerlichsten Verbrechen schuldig machte\.
+Denn warum,
+könnte vielleicht jemand sagen,
+ziehst du dich so in die Einsamkeit zurück und gibst einen Rat,
+der den Orakeln Gottes widerspricht,
+wenn nicht etwa deine Ratschläge mächtiger sind als seine Beschlüsse?

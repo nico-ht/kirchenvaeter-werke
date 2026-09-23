@@ -7,6 +7,9 @@ Autor: Gregor von Nyssa
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nyssa/ueber-das-leben-des-mose-buch-1#kapitel-e7fcee13-a959-482a-828e-08ded879412e).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:624e8741baf384f4ceeb4103d632193df2a9bb6edcec84a680791ebc271764b3`
-
-Als aber in ihnen wieder die sklavische Lust an Speisen die Begierde der Völlerei entfachte und sie, obwohl es ihnen an nichts Lebensnotwendigem fehlte, vom ägyptischen Überfluss träumten, wurden die Aufsässigen unter den Jüngeren mit härteren Schlägen zurechtgebracht: Schlangen brachten ihnen im Lager tödliches Gift bei, indem sie sie bissen\.
+Als aber in ihnen wieder die sklavische Lust an Speisen die Begierde der Völlerei entfachte und sie,
+obwohl es ihnen an nichts Lebensnotwendigem fehlte,
+vom ägyptischen Überfluss träumten,
+wurden die Aufsässigen unter den Jüngeren mit härteren Schlägen zurechtgebracht:
+Schlangen brachten ihnen im Lager tödliches Gift bei,
+indem sie sie bissen\.

@@ -7,6 +7,11 @@ Autor: Johannes II\. von Jerusalem
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/johannes-ii-von-jerusalem/4-mystagogische-katechese#kapitel-b00ff439-5d98-4730-071d-08def3162faa).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c592e2efd38dfd926264c626ee7bcddbefe449fd91aa25dc7289f2088f7e10ae`
-
-Auch im alten Bund gab es Brote der Darbringung; jene aber, zum alten Bund gehörend, haben ihr Ende gefunden\. Im neuen Bund aber gibt es ein himmlisches Brot und einen Kelch des Heils, die Seele und Körper heiligen\. Denn wie das Brot für den Körper geeignet ist, so ist auch der Logos der Seele angemessen\.
+Auch im alten Bund gab es Brote der Darbringung;
+jene aber,
+zum alten Bund gehörend,
+haben ihr Ende gefunden\.
+Im neuen Bund aber gibt es ein himmlisches Brot und einen Kelch des Heils,
+die Seele und Körper heiligen\.
+Denn wie das Brot für den Körper geeignet ist,
+so ist auch der Logos der Seele angemessen\.

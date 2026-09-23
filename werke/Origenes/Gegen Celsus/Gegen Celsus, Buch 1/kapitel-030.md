@@ -7,6 +7,45 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-1#kapitel-ed2a0c31-7c09-466b-0a05-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0e5aa25b0bef300590fa0ab918524f86057144cf686ca20eb42d80833f7cefc9`
-
-Müsste nicht jeder, der das Wesen dieser Tatsachen auch nur mit gewöhnlicher Sorgfalt untersucht, staunend vor dem Sieg dieses Mannes stehen? Müsste er nicht darüber staunen, wie vollkommen es diesem durch sein Ansehen gelang, sämtliche Ursachen zu überwinden, die ihn in Verruf zu bringen drohten, und wie er alle anderen berühmten Männer der Welt übertraf? Und doch gelingt es bedeutenden Männern nur selten, sich für mehrere Dinge zugleich einen Namen zu machen\. Denn der eine wird wegen seiner Weisheit bewundert, ein anderer wegen seiner Kriegskunst, manche Barbaren wegen ihrer erstaunlichen Beschwörungskünste, manche wegen dieser und andere wegen jener Eigenschaft; nur wenige aber sind für vieles zugleich bewundert worden und zu Ansehen gelangt\. Dieser Mann hingegen wird neben seinen übrigen Vorzügen sowohl wegen seiner Weisheit als auch wegen seiner Wunder und seiner Fähigkeit zu führen bewundert\. Denn er bewog einige, sich von ihren Gesetzen abzuwenden und sich ihm anzuschließen, jedoch weder nach Art eines Tyrannen noch nach Art eines Räubers, der seine Anhänger gegen Menschen bewaffnet, noch nach Art eines Reichen, der denen Unterstützung gewährt, die zu ihm kommen, und auch nicht nach Art eines von denen, deren Tadelnswürdigkeit unbestritten ist, sondern indem er sie in der Lehre über den Gott aller Dinge, über die diesem Gott gebührende Anbetung und über alle Gebote der Moral unterwies, durch die derjenige die Gunst des höchsten Gottes erlangen kann, der sein Leben nach ihnen ausrichtet\. Weder Themistokles noch einem anderen bedeutenden Mann widerfuhr etwas, das dem jeweiligen Ansehen hinderlich gewesen wäre\. Bei diesem Mann dagegen kam zu allem bereits Genannten, das ausgereicht hätte, selbst die Seele eines Menschen von edelster Natur mit Schande zu bedecken, noch der allem Anschein nach schändliche Kreuzestod hinzu\. Dieser hätte ausgereicht, seinen zuvor erworbenen Ruhm auszulöschen und diejenigen, die nach der Behauptung derer, die seine Lehre verleugnen, einst von ihm verblendet waren, dazu zu bringen, ihre Verblendung aufzugeben und ihren Verführer zu verurteilen\.
+Müsste nicht jeder,
+der das Wesen dieser Tatsachen auch nur mit gewöhnlicher Sorgfalt untersucht,
+staunend vor dem Sieg dieses Mannes stehen?
+Müsste er nicht darüber staunen,
+wie vollkommen es diesem durch sein Ansehen gelang,
+sämtliche Ursachen zu überwinden,
+die ihn in Verruf zu bringen drohten,
+und wie er alle anderen berühmten Männer der Welt übertraf?
+Und doch gelingt es bedeutenden Männern nur selten,
+sich für mehrere Dinge zugleich einen Namen zu machen\.
+Denn der eine wird wegen seiner Weisheit bewundert,
+ein anderer wegen seiner Kriegskunst,
+manche Barbaren wegen ihrer erstaunlichen Beschwörungskünste,
+manche wegen dieser und andere wegen jener Eigenschaft;
+nur wenige aber sind für vieles zugleich bewundert worden und zu Ansehen gelangt\.
+Dieser Mann hingegen wird neben seinen übrigen Vorzügen sowohl wegen seiner Weisheit als auch wegen seiner Wunder und seiner Fähigkeit zu führen bewundert\.
+Denn er bewog einige,
+sich von ihren Gesetzen abzuwenden und sich ihm anzuschließen,
+jedoch weder nach Art eines Tyrannen noch nach Art eines Räubers,
+der seine Anhänger gegen Menschen bewaffnet,
+noch nach Art eines Reichen,
+der denen Unterstützung gewährt,
+die zu ihm kommen,
+und auch nicht nach Art eines von denen,
+deren Tadelnswürdigkeit unbestritten ist,
+sondern indem er sie in der Lehre über den Gott aller Dinge,
+über die diesem Gott gebührende Anbetung und über alle Gebote der Moral unterwies,
+durch die derjenige die Gunst des höchsten Gottes erlangen kann,
+der sein Leben nach ihnen ausrichtet\.
+Weder Themistokles noch einem anderen bedeutenden Mann widerfuhr etwas,
+das dem jeweiligen Ansehen hinderlich gewesen wäre\.
+Bei diesem Mann dagegen kam zu allem bereits Genannten,
+das ausgereicht hätte,
+selbst die Seele eines Menschen von edelster Natur mit Schande zu bedecken,
+noch der allem Anschein nach schändliche Kreuzestod hinzu\.
+Dieser hätte ausgereicht,
+seinen zuvor erworbenen Ruhm auszulöschen und diejenigen,
+die nach der Behauptung derer,
+die seine Lehre verleugnen,
+einst von ihm verblendet waren,
+dazu zu bringen,
+ihre Verblendung aufzugeben und ihren Verführer zu verurteilen\.

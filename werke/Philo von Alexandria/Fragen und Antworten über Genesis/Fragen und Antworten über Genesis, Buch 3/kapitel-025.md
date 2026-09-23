@@ -7,6 +7,25 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-3#kapitel-a8aefc65-007b-4d97-9c91-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e20e27187145b7ff4b49f8260c5f05a7083846abf25f81247954a45770ec5dae`
-
-Warum heißt es: „Sara bedrängte sie“? Der wörtliche Sinn der Worte ist klar; wenn wir aber auf ihren inneren Sinn sehen, enthalten sie einen Grundsatz dieser Art: Nicht jede Bedrängnis ist schädlich, sondern es gibt sogar Fälle, in denen sie heilsam ist\. Das erfahren Kranke durch die Ärzte, Knaben unter ihren Erziehern und dumme Menschen durch diejenigen, die sie zurechtweisen, um sie zur Weisheit zu führen\. Und dies kann ich keineswegs Bedrängnis nennen, sondern vielmehr Rettung und Nutzen für Seele und Körper\. Einen Teil solchen Nutzens gewährt nun die Weisheit dem Kreis der enzyklischen Bildung: Sie mahnt die Seele, die sich einem Übermaß an Unterweisung hingegeben hat und mit Sophistik schwanger geht, mit Recht, sich nicht aufzulehnen, als hätte sie irgendein großes und vortreffliches Gut erworben, sondern sich zu fügen und jene höhere und vortrefflichere Natur als ihre eigentliche Herrin zu ehren, in deren Macht die Beständigkeit selbst steht und die Autorität über alles\.
+Warum heißt es:
+„Sara bedrängte sie“?
+Der wörtliche Sinn der Worte ist klar;
+wenn wir aber auf ihren inneren Sinn sehen,
+enthalten sie einen Grundsatz dieser Art:
+Nicht jede Bedrängnis ist schädlich,
+sondern es gibt sogar Fälle,
+in denen sie heilsam ist\.
+Das erfahren Kranke durch die Ärzte,
+Knaben unter ihren Erziehern und dumme Menschen durch diejenigen,
+die sie zurechtweisen,
+um sie zur Weisheit zu führen\.
+Und dies kann ich keineswegs Bedrängnis nennen,
+sondern vielmehr Rettung und Nutzen für Seele und Körper\.
+Einen Teil solchen Nutzens gewährt nun die Weisheit dem Kreis der enzyklischen Bildung:
+Sie mahnt die Seele,
+die sich einem Übermaß an Unterweisung hingegeben hat und mit Sophistik schwanger geht,
+mit Recht,
+sich nicht aufzulehnen,
+als hätte sie irgendein großes und vortreffliches Gut erworben,
+sondern sich zu fügen und jene höhere und vortrefflichere Natur als ihre eigentliche Herrin zu ehren,
+in deren Macht die Beständigkeit selbst steht und die Autorität über alles\.

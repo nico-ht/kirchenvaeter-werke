@@ -7,9 +7,112 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/22-homilie-ueber-matthaeus#kapitel-65b457ef-03e3-4976-5a97-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5c2da0f9d5bc0b1e27a33a0df64aebc83ab354c0cd0ccc07a16cea08f40568a5`
-
-Wären doch auch wir so entflammt, wie jenes Erbarmen sich zur Liebe zu uns erhebt\. Aber dieses Feuer sucht nur einen Anlass; gib ihm nur einen kleinen Funken, und du entzündest eine ganze Flamme des Wohltuns\. Denn er ist nicht deshalb empört, weil er beleidigt worden ist, sondern weil du es bist, der beleidigt, und dadurch frevelhaft wirst\. Wenn schon wir, obwohl wir böse sind, um der Kinder willen Schmerz empfinden, wenn sie sich beleidigend verhalten, wie viel mehr ist Gott, den man nicht einmal beleidigen kann, um deinetwillen empört, weil du der Beleidigende bist\. Wenn schon wir von Natur aus lieben, wie viel mehr er, der über die Natur hinaus liebevoll ist\. Denn er sagt: „Auch wenn eine Frau die Kinder ihres Schoßes vergessen sollte, werde ich dich doch nicht vergessen\.[^bible-63c9ef4e-2e3d-4a28-b1fc-e85e149e9b15]“ Lasst uns also zu ihm treten und sagen: „Ja, Herr; denn auch die Hündchen fressen von den Brocken, die vom Tisch ihrer Herren fallen\.[^bible-45c300af-21f8-4340-869f-454eaac69d4b]“ Lasst uns zu ihm treten, zur rechten Zeit und zur Unzeit, oder vielmehr: Es ist niemals Unzeit, zu ihm zu treten; unzeitig ist es, nicht unablässig zu ihm zu kommen\. Denn jemanden zu bitten, der geben will, ist immer zur rechten Zeit\. Denn wie das Atmen niemals unzeitig ist, so auch das Bitten nicht; unzeitig ist es vielmehr, nicht zu bitten\. Denn wie wir diesen Atem brauchen, so brauchen wir auch die Hilfe von ihm; und wenn wir wollen, werden wir ihn leicht zu uns ziehen\. Auch der Prophet machte das deutlich und zeigte, dass seine Wohltat immer bereitsteht, als er sagte: „Wie die Morgenröte werden wir ihn bereit finden\.[^bible-5d0ac866-5067-4991-b218-5ef701ef3491]“ Denn sooft wir zu ihm treten, werden wir sehen, dass er auf das wartet, was von uns kommt\. Wenn wir aber nichts aus seiner quellenden Güte schöpfen, liegt die Schuld ganz bei uns\. Eben das sagte er auch, als er die Juden anklagte: „Meine Barmherzigkeit aber ist wie eine Morgenwolke und wie der Tau am frühen Morgen, der vergeht\.[^bible-30333523-9e60-4dfb-a8fe-41de3c19c531]“ Was er damit sagt, ist dies: „Ich habe von meiner Seite alles bereitgestellt; ihr aber habt, wie eine heiße Sonne, die aufgeht und Wolke wie Tau vertreibt und verschwinden lässt, durch eure große Bosheit meine unaussprechliche Freigebigkeit zum Rückzug gebracht\.“ Auch das wiederum ist Fürsorge\. Denn wenn er sieht, dass Menschen unwürdig sind, Gutes zu empfangen, hält er seine Wohltaten zurück, damit er uns nicht träge macht\. Wenn wir uns aber auch nur ein wenig ändern, gerade so viel, dass wir erkennen, dass wir gesündigt haben, dann bricht er über Quellen hinaus hervor und strömt über das Meer hinaus; und je mehr du empfängst, desto mehr freut er sich\. Eben dadurch wird er wieder bewegt, noch mehr zu geben\. Denn unsere Rettung hält er für seinen eigenen Reichtum, und ebenso, den Bittenden reichlich zu geben\. Auch das machte Paulus deutlich, als er sagte: „Er ist reich für alle und über alle, die ihn anrufen\.[^bible-9a58c947-d84f-4375-9b5a-31cde9e090f8]“ Denn wenn wir nicht bitten, dann zürnt er; wenn wir nicht bitten, dann wendet er sich ab\. Darum wurde er arm, um uns reich zu machen; darum hat er auch all jenes auf sich genommen, um uns zum Bitten zu rufen\. Lasst uns also nicht verzweifeln\. Vielmehr lasst uns, weil wir so viele Anlässe und so gute Hoffnungen haben, auch wenn wir jeden Tag sündigen, zu ihm kommen, ihn anflehen, ihn bitten und Vergebung für unsere Verfehlungen erbitten\. Denn so werden wir künftig auch zögerlicher zum Sündigen sein, den Teufel vertreiben, Gottes Menschenfreundlichkeit herbeirufen und die künftigen Güter erlangen, durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus\. Ihm sei die Herrlichkeit und die Macht in alle Ewigkeit\. Amen\.
+Wären doch auch wir so entflammt,
+wie jenes Erbarmen sich zur Liebe zu uns erhebt\.
+Aber dieses Feuer sucht nur einen Anlass;
+gib ihm nur einen kleinen Funken,
+und du entzündest eine ganze Flamme des Wohltuns\.
+Denn er ist nicht deshalb empört,
+weil er beleidigt worden ist,
+sondern weil du es bist,
+der beleidigt,
+und dadurch frevelhaft wirst\.
+Wenn schon wir,
+obwohl wir böse sind,
+um der Kinder willen Schmerz empfinden,
+wenn sie sich beleidigend verhalten,
+wie viel mehr ist Gott,
+den man nicht einmal beleidigen kann,
+um deinetwillen empört,
+weil du der Beleidigende bist\.
+Wenn schon wir von Natur aus lieben,
+wie viel mehr er,
+der über die Natur hinaus liebevoll ist\.
+Denn er sagt:
+„Auch wenn eine Frau die Kinder ihres Schoßes vergessen sollte,
+werde ich dich doch nicht vergessen\.[^bible-63c9ef4e-2e3d-4a28-b1fc-e85e149e9b15]“ Lasst uns also zu ihm treten und sagen:
+„Ja,
+Herr;
+denn auch die Hündchen fressen von den Brocken,
+die vom Tisch ihrer Herren fallen\.[^bible-45c300af-21f8-4340-869f-454eaac69d4b]“ Lasst uns zu ihm treten,
+zur rechten Zeit und zur Unzeit,
+oder vielmehr:
+Es ist niemals Unzeit,
+zu ihm zu treten;
+unzeitig ist es,
+nicht unablässig zu ihm zu kommen\.
+Denn jemanden zu bitten,
+der geben will,
+ist immer zur rechten Zeit\.
+Denn wie das Atmen niemals unzeitig ist,
+so auch das Bitten nicht;
+unzeitig ist es vielmehr,
+nicht zu bitten\.
+Denn wie wir diesen Atem brauchen,
+so brauchen wir auch die Hilfe von ihm;
+und wenn wir wollen,
+werden wir ihn leicht zu uns ziehen\.
+Auch der Prophet machte das deutlich und zeigte,
+dass seine Wohltat immer bereitsteht,
+als er sagte:
+„Wie die Morgenröte werden wir ihn bereit finden\.[^bible-5d0ac866-5067-4991-b218-5ef701ef3491]“ Denn sooft wir zu ihm treten,
+werden wir sehen,
+dass er auf das wartet,
+was von uns kommt\.
+Wenn wir aber nichts aus seiner quellenden Güte schöpfen,
+liegt die Schuld ganz bei uns\.
+Eben das sagte er auch,
+als er die Juden anklagte:
+„Meine Barmherzigkeit aber ist wie eine Morgenwolke und wie der Tau am frühen Morgen,
+der vergeht\.[^bible-30333523-9e60-4dfb-a8fe-41de3c19c531]“ Was er damit sagt,
+ist dies:
+„Ich habe von meiner Seite alles bereitgestellt;
+ihr aber habt,
+wie eine heiße Sonne,
+die aufgeht und Wolke wie Tau vertreibt und verschwinden lässt,
+durch eure große Bosheit meine unaussprechliche Freigebigkeit zum Rückzug gebracht\.“
+Auch das wiederum ist Fürsorge\.
+Denn wenn er sieht,
+dass Menschen unwürdig sind,
+Gutes zu empfangen,
+hält er seine Wohltaten zurück,
+damit er uns nicht träge macht\.
+Wenn wir uns aber auch nur ein wenig ändern,
+gerade so viel,
+dass wir erkennen,
+dass wir gesündigt haben,
+dann bricht er über Quellen hinaus hervor und strömt über das Meer hinaus;
+und je mehr du empfängst,
+desto mehr freut er sich\.
+Eben dadurch wird er wieder bewegt,
+noch mehr zu geben\.
+Denn unsere Rettung hält er für seinen eigenen Reichtum,
+und ebenso,
+den Bittenden reichlich zu geben\.
+Auch das machte Paulus deutlich,
+als er sagte:
+„Er ist reich für alle und über alle,
+die ihn anrufen\.[^bible-9a58c947-d84f-4375-9b5a-31cde9e090f8]“ Denn wenn wir nicht bitten,
+dann zürnt er;
+wenn wir nicht bitten,
+dann wendet er sich ab\.
+Darum wurde er arm,
+um uns reich zu machen;
+darum hat er auch all jenes auf sich genommen,
+um uns zum Bitten zu rufen\.
+Lasst uns also nicht verzweifeln\.
+Vielmehr lasst uns,
+weil wir so viele Anlässe und so gute Hoffnungen haben,
+auch wenn wir jeden Tag sündigen,
+zu ihm kommen,
+ihn anflehen,
+ihn bitten und Vergebung für unsere Verfehlungen erbitten\.
+Denn so werden wir künftig auch zögerlicher zum Sündigen sein,
+den Teufel vertreiben,
+Gottes Menschenfreundlichkeit herbeirufen und die künftigen Güter erlangen,
+durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus\.
+Ihm sei die Herrlichkeit und die Macht in alle Ewigkeit\.
+Amen\.
 
 ## Bibelverweise
 

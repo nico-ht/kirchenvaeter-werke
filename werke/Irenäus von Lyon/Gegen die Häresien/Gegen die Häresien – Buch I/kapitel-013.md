@@ -7,21 +7,250 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-i#kapitel-6b4fd9cb-ff6d-4dd8-0329-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b9436cea70ff9c6502a318e2d7a6867f833d185ef8907bc4768f8791b70d0b27`
+Unter diesen Häretikern gibt es aber noch einen anderen namens Marcus,
+der sich rühmt,
+seinen Meister übertroffen zu haben\.
+Er ist ein vollendeter Meister magischer Betrügereien;
+damit zieht er eine große Zahl von Männern und nicht wenige Frauen von der Wahrheit weg und hat sie dazu gebracht,
+sich ihm anzuschließen,
+als besäße er die höchste Erkenntnis und Vollendung und hätte die höchste Macht aus den unsichtbaren und unaussprechlichen Regionen oben empfangen\.
+So scheint er tatsächlich der Vorläufer des Antichristus zu sein\.
+Denn er verbindet die Possen des Anaxilaus mit der List der sogenannten Magier;
+deshalb gilt er seinen sinnlosen und verwirrten Anhängern als jemand,
+der durch diese Mittel Wunder wirkt\.
 
-Unter diesen Häretikern gibt es aber noch einen anderen namens Marcus, der sich rühmt, seinen Meister übertroffen zu haben\. Er ist ein vollendeter Meister magischer Betrügereien; damit zieht er eine große Zahl von Männern und nicht wenige Frauen von der Wahrheit weg und hat sie dazu gebracht, sich ihm anzuschließen, als besäße er die höchste Erkenntnis und Vollendung und hätte die höchste Macht aus den unsichtbaren und unaussprechlichen Regionen oben empfangen\. So scheint er tatsächlich der Vorläufer des Antichristus zu sein\. Denn er verbindet die Possen des Anaxilaus mit der List der sogenannten Magier; deshalb gilt er seinen sinnlosen und verwirrten Anhängern als jemand, der durch diese Mittel Wunder wirkt\.
+Er gibt vor,
+mit Wein gemischte Kelche zu weihen,
+und dehnt die Anrufungsformel in die Länge\.
+Dabei bringt er es zustande,
+ihnen eine purpurrote,
+rötliche Farbe zu geben,
+sodass man glauben soll,
+Charis,
+die zu denen gehört,
+die allem überlegen sind,
+lasse durch seine Anrufung ihr eigenes Blut in diesen Kelch tropfen;
+und so sollen die Anwesenden dazu gebracht werden,
+sich darauf zu freuen,
+von diesem Kelch zu kosten,
+damit auf diese Weise auch die Charis,
+die dieser Magier vor Augen stellt,
+in sie einströmt\.
+Dann reicht er den Frauen gemischte Kelche und fordert sie auf,
+diese in seiner Gegenwart zu weihen\.
+Ist das geschehen,
+bringt er selbst einen anderen Kelch hervor,
+viel größer als der,
+den die getäuschte Frau geweiht hat;
+und während er aus dem kleineren,
+von der Frau geweihten Kelch in den von ihm selbst hervorgeholten gießt,
+spricht er zugleich diese Worte:
+„Möge jene Charis,
+die vor allem ist und alle Erkenntnis und alle Rede übersteigt,
+deinen inneren Menschen erfüllen[^bible-db244721-dba0-4995-a1fe-082d17f41a61] und in dir ihre eigene Erkenntnis mehren,
+indem sie das Senfkorn in dich sät[^bible-b4b98aa2-d32e-4afc-9318-e5f0878113fe] wie in guten Boden[^bible-1962199c-3677-421c-bec1-47693148f557]\.“
+Nachdem er noch andere ähnliche Worte wiederholt und so die elende Frau bis zum Wahnsinn antreibt,
+erscheint er als Wundertäter,
+wenn man sieht,
+dass der große Kelch aus dem kleinen gefüllt worden ist,
+ja sogar von dem überfließt,
+was aus ihm gewonnen wurde\.
+Durch mehrere andere ähnliche Dinge hat er viele vollständig getäuscht und hinter sich her weggezogen\.
 
-Er gibt vor, mit Wein gemischte Kelche zu weihen, und dehnt die Anrufungsformel in die Länge\. Dabei bringt er es zustande, ihnen eine purpurrote, rötliche Farbe zu geben, sodass man glauben soll, Charis, die zu denen gehört, die allem überlegen sind, lasse durch seine Anrufung ihr eigenes Blut in diesen Kelch tropfen; und so sollen die Anwesenden dazu gebracht werden, sich darauf zu freuen, von diesem Kelch zu kosten, damit auf diese Weise auch die Charis, die dieser Magier vor Augen stellt, in sie einströmt\. Dann reicht er den Frauen gemischte Kelche und fordert sie auf, diese in seiner Gegenwart zu weihen\. Ist das geschehen, bringt er selbst einen anderen Kelch hervor, viel größer als der, den die getäuschte Frau geweiht hat; und während er aus dem kleineren, von der Frau geweihten Kelch in den von ihm selbst hervorgeholten gießt, spricht er zugleich diese Worte: „Möge jene Charis, die vor allem ist und alle Erkenntnis und alle Rede übersteigt, deinen inneren Menschen erfüllen[^bible-db244721-dba0-4995-a1fe-082d17f41a61] und in dir ihre eigene Erkenntnis mehren, indem sie das Senfkorn in dich sät[^bible-b4b98aa2-d32e-4afc-9318-e5f0878113fe] wie in guten Boden[^bible-1962199c-3677-421c-bec1-47693148f557]\.“ Nachdem er noch andere ähnliche Worte wiederholt und so die elende Frau bis zum Wahnsinn antreibt, erscheint er als Wundertäter, wenn man sieht, dass der große Kelch aus dem kleinen gefüllt worden ist, ja sogar von dem überfließt, was aus ihm gewonnen wurde\. Durch mehrere andere ähnliche Dinge hat er viele vollständig getäuscht und hinter sich her weggezogen\.
+Es ist durchaus wahrscheinlich,
+dass dieser Mann einen Dämon als vertrauten Geist besitzt;
+durch ihn scheint er weissagen zu können,
+und durch ihn befähigt er auch alle,
+die er für würdig hält,
+als Teilhaber seiner Charis selbst zu weissagen\.
+Besonders widmet er sich Frauen,
+und zwar solchen von guter Herkunft,
+vornehmer Kleidung und großem Vermögen\.
+Sie sucht er oft hinter sich her wegzuziehen,
+indem er sie mit verführerischen Worten wie diesen anspricht:
+„Ich bin begierig,
+dich an meiner Charis teilhaben zu lassen,
+denn der Vater aller schaut deinen Engel unablässig vor seinem Angesicht[^bible-e1567be6-6d05-4fc1-9a2e-2f516c70a373]\.
+Der Ort deines Engels aber ist unter uns;
+wir müssen eins werden\.
+Empfange zuerst von mir und durch mich die Charis\.
+Schmücke dich wie eine Braut,
+die ihren Bräutigam erwartet,
+damit du wirst,
+was ich bin,
+und ich,
+was du bist\.
+Setze den Keim des Lichts in dein Brautgemach\.
+Empfange von mir einen Gemahl,
+und nimm ihn in dich auf,
+während du von ihm aufgenommen wirst\.
+Sieh,
+Charis ist auf dich herabgestiegen;
+öffne deinen Mund und weissage\.“
+Wenn die Frau antwortet:
+„Ich habe noch nie geweissagt und weiß auch nicht,
+wie man weissagt“,
+nimmt er ein zweites Mal bestimmte Anrufungen vor,
+um sein getäuschtes Opfer zu überwältigen,
+und sagt zu ihr:
+„Öffne deinen Mund,
+sprich aus,
+was dir gerade einfällt,
+und du wirst weissagen\.“
+Dann wird sie durch diese Worte eitel aufgeblasen und in Hochmut versetzt;
+in ihrer Seele ist sie durch die Erwartung,
+dass sie selbst weissagen soll,
+heftig erregt,
+ihr Herz schlägt vor Aufwallung stark,
+und so erreicht sie das nötige Maß an Dreistigkeit\.
+Müßig und zugleich schamlos stößt sie irgendeinen Unsinn hervor,
+wie er ihr gerade einfällt,
+genau das,
+was man von jemandem erwarten kann,
+der von einem leeren Geist erhitzt ist\.
+Dazu hat einer,
+der größer ist als ich,
+bemerkt,
+die Seele sei dreist und schamlos,
+wenn sie von leerer Luft erhitzt werde\.
+Von da an hält sie sich für eine Prophetin und dankt Markus dafür,
+dass er ihr von seiner eigenen Charis mitgeteilt hat\.
+Dann bemüht sie sich,
+ihn zu belohnen:
+nicht nur durch die Hingabe ihres Besitzes,
+wodurch er ein sehr großes Vermögen zusammengebracht hat,
+sondern auch dadurch,
+dass sie ihm ihre Person überlässt,
+weil sie auf jede Weise mit ihm vereinigt werden will,
+um ganz eins mit ihm zu werden\.
 
-Es ist durchaus wahrscheinlich, dass dieser Mann einen Dämon als vertrauten Geist besitzt; durch ihn scheint er weissagen zu können, und durch ihn befähigt er auch alle, die er für würdig hält, als Teilhaber seiner Charis selbst zu weissagen\. Besonders widmet er sich Frauen, und zwar solchen von guter Herkunft, vornehmer Kleidung und großem Vermögen\. Sie sucht er oft hinter sich her wegzuziehen, indem er sie mit verführerischen Worten wie diesen anspricht: „Ich bin begierig, dich an meiner Charis teilhaben zu lassen, denn der Vater aller schaut deinen Engel unablässig vor seinem Angesicht[^bible-e1567be6-6d05-4fc1-9a2e-2f516c70a373]\. Der Ort deines Engels aber ist unter uns; wir müssen eins werden\. Empfange zuerst von mir und durch mich die Charis\. Schmücke dich wie eine Braut, die ihren Bräutigam erwartet, damit du wirst, was ich bin, und ich, was du bist\. Setze den Keim des Lichts in dein Brautgemach\. Empfange von mir einen Gemahl, und nimm ihn in dich auf, während du von ihm aufgenommen wirst\. Sieh, Charis ist auf dich herabgestiegen; öffne deinen Mund und weissage\.“ Wenn die Frau antwortet: „Ich habe noch nie geweissagt und weiß auch nicht, wie man weissagt“, nimmt er ein zweites Mal bestimmte Anrufungen vor, um sein getäuschtes Opfer zu überwältigen, und sagt zu ihr: „Öffne deinen Mund, sprich aus, was dir gerade einfällt, und du wirst weissagen\.“ Dann wird sie durch diese Worte eitel aufgeblasen und in Hochmut versetzt; in ihrer Seele ist sie durch die Erwartung, dass sie selbst weissagen soll, heftig erregt, ihr Herz schlägt vor Aufwallung stark, und so erreicht sie das nötige Maß an Dreistigkeit\. Müßig und zugleich schamlos stößt sie irgendeinen Unsinn hervor, wie er ihr gerade einfällt, genau das, was man von jemandem erwarten kann, der von einem leeren Geist erhitzt ist\. Dazu hat einer, der größer ist als ich, bemerkt, die Seele sei dreist und schamlos, wenn sie von leerer Luft erhitzt werde\. Von da an hält sie sich für eine Prophetin und dankt Markus dafür, dass er ihr von seiner eigenen Charis mitgeteilt hat\. Dann bemüht sie sich, ihn zu belohnen: nicht nur durch die Hingabe ihres Besitzes, wodurch er ein sehr großes Vermögen zusammengebracht hat, sondern auch dadurch, dass sie ihm ihre Person überlässt, weil sie auf jede Weise mit ihm vereinigt werden will, um ganz eins mit ihm zu werden\.
+Doch schon haben sich einige der treuesten Frauen,
+erfüllt von Gottesfurcht und nicht getäuscht,
+obgleich er alles tat,
+um sie wie die übrigen zu verführen,
+indem er sie zum Weissagen befehlen wollte,
+mit Abscheu und Verwünschung von dieser schändlichen Gemeinschaft von Zechern zurückgezogen\.
+Sie taten das,
+weil sie genau wussten:
+Die Gabe der Prophetie wird den Menschen nicht von Markus,
+dem Magier,
+verliehen\.
+Nur die,
+denen Gott seine Gnade von oben sendet,
+besitzen die von Gott geschenkte Kraft zu weissagen;
+und dann sprechen sie,
+wo und wann Gott es will,
+und nicht auf Markus’ Befehl\.
+Denn was befiehlt,
+ist größer und hat höhere Vollmacht als das,
+dem befohlen wird,
+da jenes herrscht,
+dieses aber unterworfen ist\.
+Wenn also Markus oder irgendein anderer befiehlt,
+zu weissagen,
+wie diese Leute bei ihren Gelagen ständig gewohnt sind,
+mit Losziehen zu spielen und einander dann zu befehlen,
+zu weissagen,
+wobei sie als Orakel ausgeben,
+was ihren eigenen Begierden entspricht,
+dann folgt daraus:
+Der,
+der befiehlt,
+ist größer und hat höhere Vollmacht als der prophetische Geist,
+obwohl er nur ein Mensch ist\.
+Das aber ist unmöglich\.
+Solche Geister jedoch,
+die von diesen Männern Befehle erhalten und sprechen,
+wann diese es wollen,
+sind irdisch und schwach,
+dreist und schamlos;
+Satan hat sie ausgesandt zur Verführung und zum Verderben derer,
+die nicht festhalten an jenem gut gefügten Glauben,
+den sie zuerst durch die Kirche empfangen haben\.
 
-Doch schon haben sich einige der treuesten Frauen, erfüllt von Gottesfurcht und nicht getäuscht, obgleich er alles tat, um sie wie die übrigen zu verführen, indem er sie zum Weissagen befehlen wollte, mit Abscheu und Verwünschung von dieser schändlichen Gemeinschaft von Zechern zurückgezogen\. Sie taten das, weil sie genau wussten: Die Gabe der Prophetie wird den Menschen nicht von Markus, dem Magier, verliehen\. Nur die, denen Gott seine Gnade von oben sendet, besitzen die von Gott geschenkte Kraft zu weissagen; und dann sprechen sie, wo und wann Gott es will, und nicht auf Markus’ Befehl\. Denn was befiehlt, ist größer und hat höhere Vollmacht als das, dem befohlen wird, da jenes herrscht, dieses aber unterworfen ist\. Wenn also Markus oder irgendein anderer befiehlt, zu weissagen, wie diese Leute bei ihren Gelagen ständig gewohnt sind, mit Losziehen zu spielen und einander dann zu befehlen, zu weissagen, wobei sie als Orakel ausgeben, was ihren eigenen Begierden entspricht, dann folgt daraus: Der, der befiehlt, ist größer und hat höhere Vollmacht als der prophetische Geist, obwohl er nur ein Mensch ist\. Das aber ist unmöglich\. Solche Geister jedoch, die von diesen Männern Befehle erhalten und sprechen, wann diese es wollen, sind irdisch und schwach, dreist und schamlos; Satan hat sie ausgesandt zur Verführung und zum Verderben derer, die nicht festhalten an jenem gut gefügten Glauben, den sie zuerst durch die Kirche empfangen haben\.
+Dass dieser Markus außerdem Zaubermittel und Liebestränke mischt,
+um die Person einiger dieser Frauen,
+wenn nicht aller,
+zu verletzen und zu entehren,
+haben jene von ihnen eingestanden,
+die zur Kirche Gottes zurückgekehrt sind,
+was häufig geschieht\.
+Dabei bekannten sie auch,
+dass sie von ihm befleckt worden waren und eine brennende Leidenschaft für ihn empfunden hatten\.
+Ein trauriges Beispiel dafür ereignete sich im Haus eines gewissen Asiaten,
+eines unserer Diakone,
+der ihn,
+Markus,
+bei sich aufgenommen hatte\.
+Dessen Frau,
+eine Frau von außergewöhnlicher Schönheit,
+fiel diesem Magier an Geist und Leib zum Opfer und zog lange Zeit mit ihm umher\.
+Als die Brüder sie schließlich,
+nicht ohne große Mühe,
+zur Umkehr gebracht hatten,
+verbrachte sie ihre ganze Zeit mit öffentlichem Bekenntnis;
+sie weinte und klagte über die Befleckung,
+die sie von diesem Magier empfangen hatte\.
 
-Dass dieser Markus außerdem Zaubermittel und Liebestränke mischt, um die Person einiger dieser Frauen, wenn nicht aller, zu verletzen und zu entehren, haben jene von ihnen eingestanden, die zur Kirche Gottes zurückgekehrt sind, was häufig geschieht\. Dabei bekannten sie auch, dass sie von ihm befleckt worden waren und eine brennende Leidenschaft für ihn empfunden hatten\. Ein trauriges Beispiel dafür ereignete sich im Haus eines gewissen Asiaten, eines unserer Diakone, der ihn, Markus, bei sich aufgenommen hatte\. Dessen Frau, eine Frau von außergewöhnlicher Schönheit, fiel diesem Magier an Geist und Leib zum Opfer und zog lange Zeit mit ihm umher\. Als die Brüder sie schließlich, nicht ohne große Mühe, zur Umkehr gebracht hatten, verbrachte sie ihre ganze Zeit mit öffentlichem Bekenntnis; sie weinte und klagte über die Befleckung, die sie von diesem Magier empfangen hatte\.
+Auch einige seiner Jünger geben sich denselben Praktiken hin;
+sie haben viele leichtgläubige Frauen getäuscht und befleckt\.
+Sie geben sich als „vollkommen“ aus,
+sodass ihnen niemand an der Größe ihres Wissens gleichkommen könne,
+selbst wenn man Paulus oder Petrus oder irgendeinen anderen Apostel nennen würde\.
+Sie behaupten,
+sie selbst wüssten mehr als alle anderen und sie allein hätten die Größe der Erkenntnis jener unaussprechlichen Kraft in sich aufgenommen\.
+Auch erklären sie,
+sie hätten eine Höhe über alle Macht erreicht und seien deshalb in jeder Hinsicht frei,
+zu tun,
+was ihnen beliebt,
+ohne in irgendetwas jemanden fürchten zu müssen\.
+Denn sie behaupten,
+wegen der „Erlösung“ sei es so gekommen,
+dass sie vom Richter weder festgenommen noch auch nur gesehen werden könnten\.
+Sollte er sie aber doch einmal ergreifen,
+dann müssten sie,
+während sie zusammen mit der „Erlösung“ vor ihm stehen,
+nur diese Worte wiederholen:
+„Du,
+der du neben Gott sitzt,
+und du mystische,
+ewige Sige,
+du,
+durch den die Engel,
+die Gewalten,
+die beständig das Angesicht des Vaters schauen[^bible-fb375c12-29d5-41c5-9e26-391e5f79aa28],
+dich als Führer und Einführer haben und von oben ihre Gestalten empfangen:
+sie hat uns in der Größe ihrer Kühnheit,
+vom Denken erfüllt wegen der Güte des Propator,
+als ihre Abbilder hervorgebracht,
+während ihr Denken wie im Traum auf die Dinge oben gerichtet war\.
+Sieh,
+der Richter ist nahe,
+und der Ausrufer befiehlt mir,
+meine Verteidigung vorzubringen\.
+Du aber,
+der du mit den Angelegenheiten beider vertraut bist,
+lege dem Richter die Sache von uns beiden vor,
+da sie in Wirklichkeit nur eine einzige Sache ist\.“
+Sobald die Mutter diese Worte hört,
+setzt sie ihnen den homerischen Helm des Pluto auf,
+damit sie dem Richter unsichtbar entkommen\.
+Und dann reißt sie sie sofort empor,
+führt sie in das Brautgemach und übergibt sie ihren Gefährten\.
 
-Auch einige seiner Jünger geben sich denselben Praktiken hin; sie haben viele leichtgläubige Frauen getäuscht und befleckt\. Sie geben sich als „vollkommen“ aus, sodass ihnen niemand an der Größe ihres Wissens gleichkommen könne, selbst wenn man Paulus oder Petrus oder irgendeinen anderen Apostel nennen würde\. Sie behaupten, sie selbst wüssten mehr als alle anderen und sie allein hätten die Größe der Erkenntnis jener unaussprechlichen Kraft in sich aufgenommen\. Auch erklären sie, sie hätten eine Höhe über alle Macht erreicht und seien deshalb in jeder Hinsicht frei, zu tun, was ihnen beliebt, ohne in irgendetwas jemanden fürchten zu müssen\. Denn sie behaupten, wegen der „Erlösung“ sei es so gekommen, dass sie vom Richter weder festgenommen noch auch nur gesehen werden könnten\. Sollte er sie aber doch einmal ergreifen, dann müssten sie, während sie zusammen mit der „Erlösung“ vor ihm stehen, nur diese Worte wiederholen: „Du, der du neben Gott sitzt, und du mystische, ewige Sige, du, durch den die Engel, die Gewalten, die beständig das Angesicht des Vaters schauen[^bible-fb375c12-29d5-41c5-9e26-391e5f79aa28], dich als Führer und Einführer haben und von oben ihre Gestalten empfangen: sie hat uns in der Größe ihrer Kühnheit, vom Denken erfüllt wegen der Güte des Propator, als ihre Abbilder hervorgebracht, während ihr Denken wie im Traum auf die Dinge oben gerichtet war\. Sieh, der Richter ist nahe, und der Ausrufer befiehlt mir, meine Verteidigung vorzubringen\. Du aber, der du mit den Angelegenheiten beider vertraut bist, lege dem Richter die Sache von uns beiden vor, da sie in Wirklichkeit nur eine einzige Sache ist\.“ Sobald die Mutter diese Worte hört, setzt sie ihnen den homerischen Helm des Pluto auf, damit sie dem Richter unsichtbar entkommen\. Und dann reißt sie sie sofort empor, führt sie in das Brautgemach und übergibt sie ihren Gefährten\.
-
-Solche Worte und Taten sind es, mit denen sie in unserer eigenen Gegend an der Rhone viele Frauen getäuscht haben, deren Gewissen wie mit einem glühenden Eisen gebrandmarkt ist\. Einige von ihnen bekennen ihre Sünden öffentlich; andere aber schämen sich, das zu tun, und geben auf stumme Weise die Hoffnung auf das Leben Gottes auf: Manche von ihnen sind ganz abgefallen, während andere zwischen beiden Wegen schwanken und sich damit das zuziehen, was in dem Sprichwort gemeint ist: „weder draußen noch drinnen“\. Das ist die Frucht, die sie aus dem Samen der Kinder der Erkenntnis besitzen\.
+Solche Worte und Taten sind es,
+mit denen sie in unserer eigenen Gegend an der Rhone viele Frauen getäuscht haben,
+deren Gewissen wie mit einem glühenden Eisen gebrandmarkt ist\.
+Einige von ihnen bekennen ihre Sünden öffentlich;
+andere aber schämen sich,
+das zu tun,
+und geben auf stumme Weise die Hoffnung auf das Leben Gottes auf:
+Manche von ihnen sind ganz abgefallen,
+während andere zwischen beiden Wegen schwanken und sich damit das zuziehen,
+was in dem Sprichwort gemeint ist:
+„weder draußen noch drinnen“\.
+Das ist die Frucht,
+die sie aus dem Samen der Kinder der Erkenntnis besitzen\.
 
 ## Bibelverweise
 

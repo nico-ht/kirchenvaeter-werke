@@ -7,9 +7,167 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/64-homilie-ueber-matthaeus#kapitel-6d1c1612-aa0d-4b34-5b66-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b1b00c54de7eefbbdc95c0c41054669b1b3a22c4c650f4c4ac466edd1aff7bd8`
-
-Was will uns dieses Gleichnis sagen? Denn was am Anfang gesagt wird, stimmt nicht mit dem überein, was gegen Ende gesagt wird, sondern zeigt durchweg das Gegenteil\. Hier zeigt er nämlich, dass alle dasselbe genießen und nicht die einen hinausgeworfen, die anderen aber hineingeführt werden; er selbst aber hat sowohl vor dem Gleichnis als auch nach dem Gleichnis das Gegenteil gesagt: „Die Ersten werden Letzte sein und die Letzten Erste[^bible-a15ebe32-940e-46d4-9a95-bc7215341a5d]“; das heißt: Die Letzten werden sogar vor den Ersten selbst Erste sein, nicht so, dass die Ersten Erste bleiben, sondern so, dass jene zu Letzten geworden sind\. Dass er dies meint, fügte er hinzu: „Denn viele sind berufen, wenige aber auserwählt[^bible-9963bdb3-35d5-4cd7-8e99-6297c95b95dc]“, um jene doppelt zu treffen und diese zu trösten und anzuspornen\. Das Gleichnis aber sagt nicht dies, sondern dass die zuletzt Gekommenen denen gleich sein werden, die angesehen sind und viel Mühe getragen haben\. Denn es heißt: „Du hast sie uns gleichgestellt, die wir die Last des Tages und die Hitze getragen haben[^bible-72c523f1-09fc-41c9-a668-71b9c38cf20d]\.“ Was sagt also das Gleichnis? Das muss zuerst klar gemacht werden, und dann werden wir jenes andere lösen\. Mit dem Weinberg, sagt er, seien die Weisungen Gottes und die Gebote gemeint; mit der Zeit der Arbeit das gegenwärtige Leben; mit den Arbeitern diejenigen, die auf verschiedene Weise zu den Weisungen gerufen werden; mit dem frühen Morgen und der dritten, sechsten, neunten und elften Stunde diejenigen, die in verschiedenen Lebensaltern herangetreten sind und sich bewährt haben\. Die Frage aber ist diese: ob die Ersten, nachdem sie sich glänzend bewährt, Gott gefallen und den ganzen Tag durch ihre Mühen geglänzt haben, von der äußersten Leidenschaft der Bosheit ergriffen werden, von Missgunst und Neid\. Denn als sie sahen, dass jene dasselbe genossen hatten, sagten sie: „Diese Letzten haben eine Stunde gearbeitet, und du hast sie uns gleichgestellt, die wir die Last des Tages und die Hitze getragen haben[^bible-72c523f1-09fc-41c9-a668-71b9c38cf20d]\.“ Und obwohl sie selbst keinen Schaden erleiden und an ihrem eigenen Lohn nichts verlieren sollten, waren sie verdrossen und empört über die Güter anderer; das war Neid und Missgunst\. Und was noch schwerer wiegt: Auch der Hausherr, der sein eigenes Vorgehen rechtfertigt und dem antwortet, der dies gesagt hatte, erklärt ihn der Bosheit und äußerster Missgunst schuldig, indem er sagt: „Hast du nicht einen Denar mit mir vereinbart? Nimm, was dir gehört, und geh\. Ich will aber dem Letzten geben wie dir\. Ist dein Auge böse, weil ich gut bin?[^bible-676c1d7d-7d49-4814-b2ea-47ca4fcbc6c3]“ Was wird daraus also gezeigt? Denn dasselbe kann man auch bei anderen Gleichnissen sehen\. Auch der bewährte Sohn wird so dargestellt, als habe er eben dies empfunden, als er sah, dass der verlorene Bruder große Ehre genoss, sogar mehr als er selbst\. Wie nämlich diese eine größere Ehre genossen, weil sie zuerst den Lohn empfingen, so wurde auch jener in noch höherem Maß durch das Übermaß der Gaben geehrt; und das bezeugt der bewährte Sohn selbst\. Was ist also zu sagen? Es gibt niemanden im Himmelreich, der sich so rechtfertigt oder Anklage erhebt; fern damit\! Denn jener Ort ist frei von Neid und Missgunst\. Wenn die Heiligen schon hier ihre eigenen Seelen für die Sünder hingeben, dann freuen sie sich erst recht, wenn sie dort sehen, dass diese solche Güter genießen, und halten deren Güter für ihre eigenen\. Weshalb hat er also die Rede so gestaltet? Was gesagt wurde, war ein Gleichnis; darum darf man auch nicht alles in den Gleichnissen bis aufs einzelne Wort ausforschen, sondern muss den Zweck erkennen, um dessentwillen es gebildet wurde, daraus den Ertrag gewinnen und nicht weiter herumforschen\. Weshalb also wurde dieses Gleichnis so gebildet, und was will es erweisen? Es will diejenigen eifriger machen, die sich erst im äußersten Greisenalter ändern und besser werden, und ihnen keinen Anlass geben zu meinen, sie kämen zu kurz\. Darum führt er auch andere ein, die über deren Güter verdrossen sind, nicht um zu zeigen, dass jene sich verzehren und gebissen werden; fern damit\! Sondern um diese zu lehren, dass sie eine so große Ehre genossen haben, dass sie sogar bei anderen Neid hätte hervorrufen können\. So handeln auch wir oft, wenn wir sagen: Dieser oder jener hat mir Vorwürfe gemacht, weil ich dich einer so großen Ehre gewürdigt habe; nicht weil uns wirklich Vorwürfe gemacht worden wären oder weil wir jenen verleumden wollten, sondern um diesem die Größe der Gabe zu zeigen, die er genossen hat\. Warum aber hat er nicht alle sofort angeworben? Soweit es an ihm lag, alle; wenn aber nicht alle zugleich gehorchten, hat die Gesinnung der Gerufenen den Unterschied bewirkt\. Darum werden die einen am frühen Morgen, die anderen zur dritten, wieder andere zur sechsten, andere zur neunten Stunde gerufen, und andere zur elften, nämlich dann, wenn sie gehorchen würden\. Das zeigte auch Paulus, als er sagte: „Als es aber dem gefiel, der mich vom Leib meiner Mutter an ausgesondert hatte[^bible-a4e141c3-4aac-48d3-b261-94ca4c50c0e2]\.“ Wann aber gefiel es ihm? Als Paulus gehorchen würde\. Denn er selbst wollte es schon von Anfang an; weil Paulus aber nicht nachgegeben hätte, gefiel es ihm damals, als auch Paulus selbst sich fügen würde\. So rief er auch den Räuber, obwohl er ihn auch früher hätte rufen können; jener aber hätte nicht gehorcht\. Denn wenn Paulus von Anfang an nicht gehorcht hätte, wie viel weniger der Räuber\. Wenn diese aber sagen: „Niemand hat uns angeworben[^bible-f34d5849-478b-4f90-a605-f84c42f67a25]“, so gilt zunächst, was ich sagte: Man darf nicht alles in den Gleichnissen ausforschen; hier erscheint auch nicht der Hausherr als der, der dies sagt, sondern jene\. Er aber weist sie nicht zurecht, damit sie nicht ratlos werden, sondern er sie gewinnt\. Dass er nämlich, soweit es an ihm lag, alle von der ersten Stunde an rief, hat auch das Gleichnis gezeigt, indem es sagt, dass er vom frühen Morgen an hinausging, um Arbeiter anzuwerben\.
+Was will uns dieses Gleichnis sagen?
+Denn was am Anfang gesagt wird,
+stimmt nicht mit dem überein,
+was gegen Ende gesagt wird,
+sondern zeigt durchweg das Gegenteil\.
+Hier zeigt er nämlich,
+dass alle dasselbe genießen und nicht die einen hinausgeworfen,
+die anderen aber hineingeführt werden;
+er selbst aber hat sowohl vor dem Gleichnis als auch nach dem Gleichnis das Gegenteil gesagt:
+„Die Ersten werden Letzte sein und die Letzten Erste[^bible-a15ebe32-940e-46d4-9a95-bc7215341a5d]“;
+das heißt:
+Die Letzten werden sogar vor den Ersten selbst Erste sein,
+nicht so,
+dass die Ersten Erste bleiben,
+sondern so,
+dass jene zu Letzten geworden sind\.
+Dass er dies meint,
+fügte er hinzu:
+„Denn viele sind berufen,
+wenige aber auserwählt[^bible-9963bdb3-35d5-4cd7-8e99-6297c95b95dc]“,
+um jene doppelt zu treffen und diese zu trösten und anzuspornen\.
+Das Gleichnis aber sagt nicht dies,
+sondern dass die zuletzt Gekommenen denen gleich sein werden,
+die angesehen sind und viel Mühe getragen haben\.
+Denn es heißt:
+„Du hast sie uns gleichgestellt,
+die wir die Last des Tages und die Hitze getragen haben[^bible-72c523f1-09fc-41c9-a668-71b9c38cf20d]\.“
+Was sagt also das Gleichnis?
+Das muss zuerst klar gemacht werden,
+und dann werden wir jenes andere lösen\.
+Mit dem Weinberg,
+sagt er,
+seien die Weisungen Gottes und die Gebote gemeint;
+mit der Zeit der Arbeit das gegenwärtige Leben;
+mit den Arbeitern diejenigen,
+die auf verschiedene Weise zu den Weisungen gerufen werden;
+mit dem frühen Morgen und der dritten,
+sechsten,
+neunten und elften Stunde diejenigen,
+die in verschiedenen Lebensaltern herangetreten sind und sich bewährt haben\.
+Die Frage aber ist diese:
+ob die Ersten,
+nachdem sie sich glänzend bewährt,
+Gott gefallen und den ganzen Tag durch ihre Mühen geglänzt haben,
+von der äußersten Leidenschaft der Bosheit ergriffen werden,
+von Missgunst und Neid\.
+Denn als sie sahen,
+dass jene dasselbe genossen hatten,
+sagten sie:
+„Diese Letzten haben eine Stunde gearbeitet,
+und du hast sie uns gleichgestellt,
+die wir die Last des Tages und die Hitze getragen haben[^bible-72c523f1-09fc-41c9-a668-71b9c38cf20d]\.“
+Und obwohl sie selbst keinen Schaden erleiden und an ihrem eigenen Lohn nichts verlieren sollten,
+waren sie verdrossen und empört über die Güter anderer;
+das war Neid und Missgunst\.
+Und was noch schwerer wiegt:
+Auch der Hausherr,
+der sein eigenes Vorgehen rechtfertigt und dem antwortet,
+der dies gesagt hatte,
+erklärt ihn der Bosheit und äußerster Missgunst schuldig,
+indem er sagt:
+„Hast du nicht einen Denar mit mir vereinbart?
+Nimm,
+was dir gehört,
+und geh\.
+Ich will aber dem Letzten geben wie dir\.
+Ist dein Auge böse,
+weil ich gut bin?[^bible-676c1d7d-7d49-4814-b2ea-47ca4fcbc6c3]“ Was wird daraus also gezeigt?
+Denn dasselbe kann man auch bei anderen Gleichnissen sehen\.
+Auch der bewährte Sohn wird so dargestellt,
+als habe er eben dies empfunden,
+als er sah,
+dass der verlorene Bruder große Ehre genoss,
+sogar mehr als er selbst\.
+Wie nämlich diese eine größere Ehre genossen,
+weil sie zuerst den Lohn empfingen,
+so wurde auch jener in noch höherem Maß durch das Übermaß der Gaben geehrt;
+und das bezeugt der bewährte Sohn selbst\.
+Was ist also zu sagen?
+Es gibt niemanden im Himmelreich,
+der sich so rechtfertigt oder Anklage erhebt;
+fern damit\!
+Denn jener Ort ist frei von Neid und Missgunst\.
+Wenn die Heiligen schon hier ihre eigenen Seelen für die Sünder hingeben,
+dann freuen sie sich erst recht,
+wenn sie dort sehen,
+dass diese solche Güter genießen,
+und halten deren Güter für ihre eigenen\.
+Weshalb hat er also die Rede so gestaltet?
+Was gesagt wurde,
+war ein Gleichnis;
+darum darf man auch nicht alles in den Gleichnissen bis aufs einzelne Wort ausforschen,
+sondern muss den Zweck erkennen,
+um dessentwillen es gebildet wurde,
+daraus den Ertrag gewinnen und nicht weiter herumforschen\.
+Weshalb also wurde dieses Gleichnis so gebildet,
+und was will es erweisen?
+Es will diejenigen eifriger machen,
+die sich erst im äußersten Greisenalter ändern und besser werden,
+und ihnen keinen Anlass geben zu meinen,
+sie kämen zu kurz\.
+Darum führt er auch andere ein,
+die über deren Güter verdrossen sind,
+nicht um zu zeigen,
+dass jene sich verzehren und gebissen werden;
+fern damit\!
+Sondern um diese zu lehren,
+dass sie eine so große Ehre genossen haben,
+dass sie sogar bei anderen Neid hätte hervorrufen können\.
+So handeln auch wir oft,
+wenn wir sagen:
+Dieser oder jener hat mir Vorwürfe gemacht,
+weil ich dich einer so großen Ehre gewürdigt habe;
+nicht weil uns wirklich Vorwürfe gemacht worden wären oder weil wir jenen verleumden wollten,
+sondern um diesem die Größe der Gabe zu zeigen,
+die er genossen hat\.
+Warum aber hat er nicht alle sofort angeworben?
+Soweit es an ihm lag,
+alle;
+wenn aber nicht alle zugleich gehorchten,
+hat die Gesinnung der Gerufenen den Unterschied bewirkt\.
+Darum werden die einen am frühen Morgen,
+die anderen zur dritten,
+wieder andere zur sechsten,
+andere zur neunten Stunde gerufen,
+und andere zur elften,
+nämlich dann,
+wenn sie gehorchen würden\.
+Das zeigte auch Paulus,
+als er sagte:
+„Als es aber dem gefiel,
+der mich vom Leib meiner Mutter an ausgesondert hatte[^bible-a4e141c3-4aac-48d3-b261-94ca4c50c0e2]\.“
+Wann aber gefiel es ihm?
+Als Paulus gehorchen würde\.
+Denn er selbst wollte es schon von Anfang an;
+weil Paulus aber nicht nachgegeben hätte,
+gefiel es ihm damals,
+als auch Paulus selbst sich fügen würde\.
+So rief er auch den Räuber,
+obwohl er ihn auch früher hätte rufen können;
+jener aber hätte nicht gehorcht\.
+Denn wenn Paulus von Anfang an nicht gehorcht hätte,
+wie viel weniger der Räuber\.
+Wenn diese aber sagen:
+„Niemand hat uns angeworben[^bible-f34d5849-478b-4f90-a605-f84c42f67a25]“,
+so gilt zunächst,
+was ich sagte:
+Man darf nicht alles in den Gleichnissen ausforschen;
+hier erscheint auch nicht der Hausherr als der,
+der dies sagt,
+sondern jene\.
+Er aber weist sie nicht zurecht,
+damit sie nicht ratlos werden,
+sondern er sie gewinnt\.
+Dass er nämlich,
+soweit es an ihm lag,
+alle von der ersten Stunde an rief,
+hat auch das Gleichnis gezeigt,
+indem es sagt,
+dass er vom frühen Morgen an hinausging,
+um Arbeiter anzuwerben\.
 
 ## Bibelverweise
 

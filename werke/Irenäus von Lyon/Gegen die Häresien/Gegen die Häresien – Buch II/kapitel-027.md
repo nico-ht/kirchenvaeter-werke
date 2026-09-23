@@ -7,13 +7,100 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-ii#kapitel-8d098603-c6eb-4f62-0357-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7c0f0b87aa43c609069f9256483561b49402cc0c5c026d7dd23028a6b71fb09d`
+Ein gesunder Geist,
+der seinen Besitzer nicht in Gefahr bringt und der Frömmigkeit und der Liebe zur Wahrheit ergeben ist,
+wird mit Eifer über das nachdenken,
+was Gott dem menschlichen Vermögen und unserer Erkenntnis zugänglich gemacht hat;
+und er wird darin Fortschritte machen,
+indem ihm das tägliche Studium die Erkenntnis dieser Dinge leicht macht\.
+Das sind die Dinge,
+die klar vor unseren Augen liegen und in den Heiligen Schriften deutlich,
+unzweideutig und mit ausdrücklichen Worten dargelegt sind\.
+Darum darf man die Gleichnisse nicht an mehrdeutige Ausdrücke anpassen\.
+Denn wenn dies nicht geschieht,
+erklärt sie der Ausleger ohne Gefahr;
+die Gleichnisse erhalten von allen dieselbe Deutung,
+und der Leib der Wahrheit bleibt unversehrt:
+Seine Glieder sind harmonisch aufeinander abgestimmt und geraten nicht miteinander in Widerstreit\.
+Unklare oder nicht offenkundige Ausdrücke aber auf Deutungen der Gleichnisse anzuwenden,
+wie jeder sie nach eigener Neigung für sich entdeckt,
+ist widersinnig\.
+Denn so besitzt niemand die Regel der Wahrheit;
+vielmehr findet man dann so viele verschiedene Systeme der Wahrheit,
+wie es Ausleger der Gleichnisse gibt,
+die einander widersprechen und gegensätzliche Lehren vortragen,
+wie die Streitfragen,
+die unter den heidnischen Philosophen umlaufen\.
 
-Ein gesunder Geist, der seinen Besitzer nicht in Gefahr bringt und der Frömmigkeit und der Liebe zur Wahrheit ergeben ist, wird mit Eifer über das nachdenken, was Gott dem menschlichen Vermögen und unserer Erkenntnis zugänglich gemacht hat; und er wird darin Fortschritte machen, indem ihm das tägliche Studium die Erkenntnis dieser Dinge leicht macht\. Das sind die Dinge, die klar vor unseren Augen liegen und in den Heiligen Schriften deutlich, unzweideutig und mit ausdrücklichen Worten dargelegt sind\. Darum darf man die Gleichnisse nicht an mehrdeutige Ausdrücke anpassen\. Denn wenn dies nicht geschieht, erklärt sie der Ausleger ohne Gefahr; die Gleichnisse erhalten von allen dieselbe Deutung, und der Leib der Wahrheit bleibt unversehrt: Seine Glieder sind harmonisch aufeinander abgestimmt und geraten nicht miteinander in Widerstreit\. Unklare oder nicht offenkundige Ausdrücke aber auf Deutungen der Gleichnisse anzuwenden, wie jeder sie nach eigener Neigung für sich entdeckt, ist widersinnig\. Denn so besitzt niemand die Regel der Wahrheit; vielmehr findet man dann so viele verschiedene Systeme der Wahrheit, wie es Ausleger der Gleichnisse gibt, die einander widersprechen und gegensätzliche Lehren vortragen, wie die Streitfragen, die unter den heidnischen Philosophen umlaufen\.
+Nach diesem Verfahren also würde der Mensch immer suchen und doch nie finden,
+weil er gerade den Weg verworfen hat,
+auf dem man findet\.
+Und wenn der Bräutigam kommt,
+wird der,
+dessen Lampe nicht hergerichtet ist und nicht im hellen Glanz eines beständigen Lichtes brennt,
+zu denen gerechnet,
+die die Deutungen der Gleichnisse verdunkeln:
+Er verlässt den,
+der durch seine klaren Verkündigungen allen,
+die zu ihm kommen,
+frei seine Gaben schenkt,
+und wird aus seinem Hochzeitsgemach ausgeschlossen[^bible-2fd2dcbb-2ebd-4f38-9432-0c0fe73aaf96]\.
+Da also die gesamten Schriften,
+die Propheten und die Evangelien,
+von allen klar,
+unzweideutig und in innerem Einklang verstanden werden können,
+auch wenn nicht alle ihnen glauben;
+da sie verkünden,
+dass der eine und einzige Gott,
+unter Ausschluss aller anderen,
+alles durch sein Wort geschaffen hat,
+das Sichtbare wie das Unsichtbare,
+das Himmlische wie das Irdische,
+das im Wasser wie das unter der Erde,
+wie ich aus den Worten der Schrift selbst gezeigt habe;
+und da die Ordnung der Schöpfung,
+zu der wir gehören,
+durch das,
+was vor unseren Augen liegt,
+bezeugt,
+dass ein einziges Wesen sie geschaffen hat und regiert,
+werden jene Menschen wahrhaft dumm erscheinen,
+die vor einem so klaren Beweis die Augen verschließen und das Licht der an sie ergangenen Verkündigung nicht sehen wollen\.
+Sie legen sich vielmehr selbst Fesseln an,
+und jeder von ihnen bildet sich ein,
+er habe durch seine dunklen Deutungen der Gleichnisse einen eigenen Gott entdeckt\.
+Denn dass an keiner Stelle der Schrift offen,
+ausdrücklich und unumstritten etwas über den Vater gesagt wird,
+wie ihn jene denken,
+die eine gegenteilige Meinung vertreten,
+bezeugen sie selbst,
+wenn sie behaupten,
+der Erlöser habe eben diese Dinge im Verborgenen nicht allen,
+sondern nur bestimmten Jüngern gelehrt,
+die sie fassen konnten und die verstanden,
+was er durch Beweisführungen,
+Rätsel und Gleichnisse meinte\.
+Am Ende gelangen sie dahin,
+zu behaupten,
+der eine werde als Gott verkündet und ein anderer als Vater:
+nämlich der,
+der durch Gleichnisse und Rätsel als solcher dargestellt wird\.
 
-Nach diesem Verfahren also würde der Mensch immer suchen und doch nie finden, weil er gerade den Weg verworfen hat, auf dem man findet\. Und wenn der Bräutigam kommt, wird der, dessen Lampe nicht hergerichtet ist und nicht im hellen Glanz eines beständigen Lichtes brennt, zu denen gerechnet, die die Deutungen der Gleichnisse verdunkeln: Er verlässt den, der durch seine klaren Verkündigungen allen, die zu ihm kommen, frei seine Gaben schenkt, und wird aus seinem Hochzeitsgemach ausgeschlossen[^bible-2fd2dcbb-2ebd-4f38-9432-0c0fe73aaf96]\. Da also die gesamten Schriften, die Propheten und die Evangelien, von allen klar, unzweideutig und in innerem Einklang verstanden werden können, auch wenn nicht alle ihnen glauben; da sie verkünden, dass der eine und einzige Gott, unter Ausschluss aller anderen, alles durch sein Wort geschaffen hat, das Sichtbare wie das Unsichtbare, das Himmlische wie das Irdische, das im Wasser wie das unter der Erde, wie ich aus den Worten der Schrift selbst gezeigt habe; und da die Ordnung der Schöpfung, zu der wir gehören, durch das, was vor unseren Augen liegt, bezeugt, dass ein einziges Wesen sie geschaffen hat und regiert, werden jene Menschen wahrhaft dumm erscheinen, die vor einem so klaren Beweis die Augen verschließen und das Licht der an sie ergangenen Verkündigung nicht sehen wollen\. Sie legen sich vielmehr selbst Fesseln an, und jeder von ihnen bildet sich ein, er habe durch seine dunklen Deutungen der Gleichnisse einen eigenen Gott entdeckt\. Denn dass an keiner Stelle der Schrift offen, ausdrücklich und unumstritten etwas über den Vater gesagt wird, wie ihn jene denken, die eine gegenteilige Meinung vertreten, bezeugen sie selbst, wenn sie behaupten, der Erlöser habe eben diese Dinge im Verborgenen nicht allen, sondern nur bestimmten Jüngern gelehrt, die sie fassen konnten und die verstanden, was er durch Beweisführungen, Rätsel und Gleichnisse meinte\. Am Ende gelangen sie dahin, zu behaupten, der eine werde als Gott verkündet und ein anderer als Vater: nämlich der, der durch Gleichnisse und Rätsel als solcher dargestellt wird\.
-
-Da aber Gleichnisse viele Deutungen zulassen, welcher Liebhaber der Wahrheit wird da nicht einsehen: Wenn sie behaupten, Gott müsse aus ihnen herausgesucht werden, während sie das Sichere, Unzweifelhafte und Wahre verlassen, dann handeln sie wie Menschen, die sich begierig in Gefahr stürzen und tun, als hätten sie keinen Verstand? Und heißt ein solches Vorgehen nicht, sein Haus auf einen festen, starken, offen sichtbaren Felsen zu bauen, sondern auf wandernden Sand[^bible-d89e2682-29a6-48e1-8c38-235d840ad3ba]? Darum lässt sich ein solches Gebäude leicht zum Einsturz bringen\.
+Da aber Gleichnisse viele Deutungen zulassen,
+welcher Liebhaber der Wahrheit wird da nicht einsehen:
+Wenn sie behaupten,
+Gott müsse aus ihnen herausgesucht werden,
+während sie das Sichere,
+Unzweifelhafte und Wahre verlassen,
+dann handeln sie wie Menschen,
+die sich begierig in Gefahr stürzen und tun,
+als hätten sie keinen Verstand?
+Und heißt ein solches Vorgehen nicht,
+sein Haus auf einen festen,
+starken,
+offen sichtbaren Felsen zu bauen,
+sondern auf wandernden Sand[^bible-d89e2682-29a6-48e1-8c38-235d840ad3ba]?
+Darum lässt sich ein solches Gebäude leicht zum Einsturz bringen\.
 
 ## Bibelverweise
 

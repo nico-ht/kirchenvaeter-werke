@@ -7,8 +7,69 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-6#kapitel-c421a569-117b-40af-2b02-08de1f7dfc7a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:be91e911e84bbaeceb8f2388bce3a2560cb8cc8fe4bc17d5169ab9a62a8a43d7`
+Da Narcissus nun vom Alter ermattet war und dem Dienst des Hohepriesteramts nicht mehr gewachsen,
+rief Gottes Fügung Alexander dem Greis durch die denkbar deutlichste Offenbarung zur Hilfe;
+Alexander,
+den wir zuvor erwähnt haben,
+war bereits Bischof eines anderen Ortes\.
+Seine Vorfahren stammten aus Kappadokien;
+dort war er Bischof einer angesehenen Stadt\.
+Er war nach Jerusalem geeilt,
+um anzubeten und die heiligen Stätten zu sehen\.
+Gott bewegte die Bewohner des Ortes,
+ihn mit allen Zeichen von Liebe und Aufmerksamkeit aufzunehmen;
+sie banden ihn durch die Kraft der Liebe und die Bande der Zuneigung und ließen ihn nicht in die Heimat zurückkehren\.
+Denn der Herr hatte nicht nur dem seligen Narcissus,
+sondern auch vielen anderen durch Offenbarungen vor aller Augen deutlich gezeigt,
+dass sie ihn am heiligen Ort als Bischof behalten sollten\.
+Das Ehrfurchtgebietendste aber war:
+An dem Tag,
+als seine Ankunft in der Stadt angekündigt war und eine große Schar der Brüder ihm vor die Tore entgegenging,
+hörten alle mit größter Deutlichkeit eine Stimme vom Himmel:
+„Nehmt den Bischof auf,
+den Gott euch bestimmt hat\!“
+Und da durch all dies Gottes Fügung allen klar kundgetan war,
+nötigten die Bischöfe der benachbarten Städte,
+als sie von allem erfuhren,
+was zeigte,
+dass das,
+was mit ihm geschah,
+aus Gottes Beschluss hervorging,
+ihn,
+dortzubleiben\.
 
-Da Narcissus nun vom Alter ermattet war und dem Dienst des Hohepriesteramts nicht mehr gewachsen, rief Gottes Fügung Alexander dem Greis durch die denkbar deutlichste Offenbarung zur Hilfe; Alexander, den wir zuvor erwähnt haben, war bereits Bischof eines anderen Ortes\. Seine Vorfahren stammten aus Kappadokien; dort war er Bischof einer angesehenen Stadt\. Er war nach Jerusalem geeilt, um anzubeten und die heiligen Stätten zu sehen\. Gott bewegte die Bewohner des Ortes, ihn mit allen Zeichen von Liebe und Aufmerksamkeit aufzunehmen; sie banden ihn durch die Kraft der Liebe und die Bande der Zuneigung und ließen ihn nicht in die Heimat zurückkehren\. Denn der Herr hatte nicht nur dem seligen Narcissus, sondern auch vielen anderen durch Offenbarungen vor aller Augen deutlich gezeigt, dass sie ihn am heiligen Ort als Bischof behalten sollten\. Das Ehrfurchtgebietendste aber war: An dem Tag, als seine Ankunft in der Stadt angekündigt war und eine große Schar der Brüder ihm vor die Tore entgegenging, hörten alle mit größter Deutlichkeit eine Stimme vom Himmel: „Nehmt den Bischof auf, den Gott euch bestimmt hat\!“ Und da durch all dies Gottes Fügung allen klar kundgetan war, nötigten die Bischöfe der benachbarten Städte, als sie von allem erfuhren, was zeigte, dass das, was mit ihm geschah, aus Gottes Beschluss hervorging, ihn, dortzubleiben\.
-
-Alexander selbst erwähnt in seinen Briefen an die Antinoiten, Briefe, die wir noch besitzen, Narcissus als seinen Gefährten und Teilhaber im Episkopat und schreibt über ihn: „Es grüßt euch Narcissus, der vor mir als Bischof begonnen hat, diese Kirche zu leiten und der, durch eure Gebete mir zur Seite gestellt, jetzt im hundertsechzehnten Lebensjahr steht; er bittet euch zusammen mit mir, in Eintracht zu leben\.“ So viel hierzu\. In Antiochien starb inzwischen der Bischof Serapion, und Asclepiades erhielt diesen Sitz; er war selbst einer der Bekenner von herausragendem Verdienst\. Der eben genannte Alexander vermerkt seine Ordination und schreibt an die Antiochener: „Alexander, Sklave und Gefangener Jesu Christi, an die gesegnete Kirche in Antiochien: Gruß im Herrn\. Der Herr erleichterte meine Fesseln und weitete die Enge meines Gefängnisses, sobald ich erfuhr, dass jener höchst würdige Mann Asclepiades das Bischofsamt eurer heiligen Kirche empfangen hat\.“ Zugleich zeigt er, dass er diesen Brief durch die Hand des Presbyters Clemens an die Kirche in Antiochien gesandt hat; am Ende des Schreibens heißt es: „Was ich euch geschrieben habe, habe ich gesandt, Herren meine Brüder, durch die Hand des seligen Presbyters Clemens, eines Mannes von höchster Vorzüglichkeit in jeder Tugend, den ihr kennt und noch besser kennenlernen werdet\. Seine Gegenwart bei uns, von Gottes Vorsehung gefügt, hat die Kirche des Herrn zugleich gefestigt und vermehrt\.“
+Alexander selbst erwähnt in seinen Briefen an die Antinoiten,
+Briefe,
+die wir noch besitzen,
+Narcissus als seinen Gefährten und Teilhaber im Episkopat und schreibt über ihn:
+„Es grüßt euch Narcissus,
+der vor mir als Bischof begonnen hat,
+diese Kirche zu leiten und der,
+durch eure Gebete mir zur Seite gestellt,
+jetzt im hundertsechzehnten Lebensjahr steht;
+er bittet euch zusammen mit mir,
+in Eintracht zu leben\.“
+So viel hierzu\.
+In Antiochien starb inzwischen der Bischof Serapion,
+und Asclepiades erhielt diesen Sitz;
+er war selbst einer der Bekenner von herausragendem Verdienst\.
+Der eben genannte Alexander vermerkt seine Ordination und schreibt an die Antiochener:
+„Alexander,
+Sklave und Gefangener Jesu Christi,
+an die gesegnete Kirche in Antiochien:
+Gruß im Herrn\.
+Der Herr erleichterte meine Fesseln und weitete die Enge meines Gefängnisses,
+sobald ich erfuhr,
+dass jener höchst würdige Mann Asclepiades das Bischofsamt eurer heiligen Kirche empfangen hat\.“
+Zugleich zeigt er,
+dass er diesen Brief durch die Hand des Presbyters Clemens an die Kirche in Antiochien gesandt hat;
+am Ende des Schreibens heißt es:
+„Was ich euch geschrieben habe,
+habe ich gesandt,
+Herren meine Brüder,
+durch die Hand des seligen Presbyters Clemens,
+eines Mannes von höchster Vorzüglichkeit in jeder Tugend,
+den ihr kennt und noch besser kennenlernen werdet\.
+Seine Gegenwart bei uns,
+von Gottes Vorsehung gefügt,
+hat die Kirche des Herrn zugleich gefestigt und vermehrt\.“

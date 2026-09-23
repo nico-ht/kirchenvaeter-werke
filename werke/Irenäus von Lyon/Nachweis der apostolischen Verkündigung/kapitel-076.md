@@ -7,9 +7,19 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-6ef91406-0b13-43fb-3259-08debf1e7015).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3635370859bac3fc915629c47acde8732eb9ff3eab6ea88be5c7d15ea09c39ee`
-
-Und Sacharja spricht so: „Schwert, erwache gegen meinen Hirten und gegen den Mann, das heißt: meinen Gefährten\. Schlage den Hirten, und die Schafe der Herde werden zerstreut werden[^bible-d77a7f98-09df-4575-9995-d61815308455]\.“ Und dies erfüllte sich, als er von den Juden ergriffen wurde; denn alle Jünger verließen ihn aus Furcht, mit ihm zu sterben\. Denn noch nicht glaubten sie standhaft an ihn, bis sie ihn von den Toten auferstanden gesehen hatten\.
+Und Sacharja spricht so:
+„Schwert,
+erwache gegen meinen Hirten und gegen den Mann,
+das heißt:
+meinen Gefährten\.
+Schlage den Hirten,
+und die Schafe der Herde werden zerstreut werden[^bible-d77a7f98-09df-4575-9995-d61815308455]\.“
+Und dies erfüllte sich,
+als er von den Juden ergriffen wurde;
+denn alle Jünger verließen ihn aus Furcht,
+mit ihm zu sterben\.
+Denn noch nicht glaubten sie standhaft an ihn,
+bis sie ihn von den Toten auferstanden gesehen hatten\.
 
 ## Bibelverweise
 

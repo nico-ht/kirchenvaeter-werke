@@ -7,6 +7,28 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-6#kapitel-93838787-c119-4cd5-2b25-08de1f7dfc7a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:abafb356e36038fe9981a03c8cdfb29d43b25a46714e90a9db68c8a8b8a905cb`
-
-Er schrieb das Gleiche auch an Novatian\. An die Ägypter schickte er zudem einen Brief über die Buße der Gefallenen, in dem er die Regeln für ihre Buße darlegt\. Und es sind viele weitere ausgezeichnete Schriften des Dionysius im Umlauf\. Er schrieb über die Buße und eine kurze Ermahnungsschrift zum Martyrium an Origenes, ebenso etwas über die Buße an die Laodizener und die Armenier\. Ferner schrieb er mehrere Stücke an Cornelius, den Bischof von Rom, in denen er auch festhält, er sei von vielen Bischöfen eingeladen worden, nämlich von Helenus in Tarsus in Kilikien, von Firmilian in Kappadokien und von Theoktistus in Palästina, nach Antiochien zu einer Synode zu kommen, weil es dort einige gab, die die Lehren des Novatus zu säen versuchten\. Er fügte hinzu, dass nach dem Tod des Bischofs Fabian von Antiochien Demetrian die Bischofswürde übernommen habe\. Über den Bischof von Jerusalem schrieb er so: „Der wunderbare Mann Alexander hat sein Leben glücklich im Gefängnis vollendet und ist dem Herrn vorausgegangen\.“ Es gibt einen weiteren Brief des Dionysius an die Römer über die Dienste und noch einen an sie über Frieden und Buße sowie einen an einige Bekennende in Rom, die noch Novatus folgten\. An dieselben schrieb er zwei weitere Briefe, nachdem sie zur Kirche zurückgekehrt waren\. Und indem er zu verschiedensten Themen an viele andere schrieb, hat er jedem mit wissenschaftlichem Interesse ein überaus reiches Reservoir an Belehrung und Unterweisung hinterlassen\.
+Er schrieb das Gleiche auch an Novatian\.
+An die Ägypter schickte er zudem einen Brief über die Buße der Gefallenen,
+in dem er die Regeln für ihre Buße darlegt\.
+Und es sind viele weitere ausgezeichnete Schriften des Dionysius im Umlauf\.
+Er schrieb über die Buße und eine kurze Ermahnungsschrift zum Martyrium an Origenes,
+ebenso etwas über die Buße an die Laodizener und die Armenier\.
+Ferner schrieb er mehrere Stücke an Cornelius,
+den Bischof von Rom,
+in denen er auch festhält,
+er sei von vielen Bischöfen eingeladen worden,
+nämlich von Helenus in Tarsus in Kilikien,
+von Firmilian in Kappadokien und von Theoktistus in Palästina,
+nach Antiochien zu einer Synode zu kommen,
+weil es dort einige gab,
+die die Lehren des Novatus zu säen versuchten\.
+Er fügte hinzu,
+dass nach dem Tod des Bischofs Fabian von Antiochien Demetrian die Bischofswürde übernommen habe\.
+Über den Bischof von Jerusalem schrieb er so:
+„Der wunderbare Mann Alexander hat sein Leben glücklich im Gefängnis vollendet und ist dem Herrn vorausgegangen\.“
+Es gibt einen weiteren Brief des Dionysius an die Römer über die Dienste und noch einen an sie über Frieden und Buße sowie einen an einige Bekennende in Rom,
+die noch Novatus folgten\.
+An dieselben schrieb er zwei weitere Briefe,
+nachdem sie zur Kirche zurückgekehrt waren\.
+Und indem er zu verschiedensten Themen an viele andere schrieb,
+hat er jedem mit wissenschaftlichem Interesse ein überaus reiches Reservoir an Belehrung und Unterweisung hinterlassen\.

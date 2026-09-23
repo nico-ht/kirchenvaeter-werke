@@ -7,9 +7,131 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/11-homilie-ueber-matthaeus#kapitel-4ca4157b-4d2f-470b-5a55-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:44870b759a651634a1ef67ca2dcd5396319257ca6f1c347770e53460ce443d12`
-
-Und wie sollen wir, sagt er, Frucht bringen können, wenn das Abhauen unmittelbar bevorsteht, die Zeit so knapp ist und die Frist verkürzt wurde? Du kannst es, sagt er\. Denn diese Frucht ist nicht wie die Frucht der Bäume: Sie wartet nicht auf lange Zeit, ist nicht den Zwängen der Jahreszeiten unterworfen und braucht auch keinen großen weiteren Aufwand\. Es genügt, zu wollen, und der Baum treibt sofort aus\. Denn zu einer solchen Fruchtbarkeit trägt nicht nur die Beschaffenheit der Wurzel bei, sondern in höchstem Maß auch die Kunst des Landmanns\. Eben deshalb fügte er, damit sie nicht sagten: „Du bringst uns in Unruhe, treibst uns an und setzt uns unter Druck, indem du die Axt anlegst, das Abhauen androht und im Augenblick drohender Strafe noch Erträge forderst“, hinzu und zeigte damit, wie leicht das Fruchtbringen ist: „Ich taufe euch mit Wasser; der aber nach mir kommt, ist stärker als ich; ich bin nicht würdig, den Riemen seiner Sandale zu lösen; er wird euch mit Heiligem Geist und Feuer taufen\.[^bible-51ab73c7-5c05-4ba2-994d-33317425a734]“ Damit zeigt er: Es braucht nur Entschluss und Glauben, nicht Mühen und Schweiß; und wie es leicht ist, getauft zu werden, so ist es leicht, sich zu ändern und besser zu werden\. So erschütterte er ihren Sinn durch die Furcht vor dem Gericht, durch die Erwartung der Strafe, durch den Namen der Axt, durch die Zurückweisung des Vorrechts aus den Vorfahren, durch die Einführung anderer Kinder und durch die doppelte Strafe des Abgehauenwerdens und Verbrennens; er machte ihre Härte von allen Seiten weich und brachte sie dazu, sich nach Befreiung von so vielen Übeln zu sehnen\. Da erst führt er das Wort über Christus ein, und zwar nicht einfach, sondern mit großer Überlegenheit\. Dann stellt er den Abstand zwischen sich und jenem heraus, damit es nicht so scheint, als sage er das aus schmeichelnder Begünstigung; er beweist es aus dem Vergleich dessen, was von jedem der beiden gegeben wird\. Denn er sagte nicht sofort: „Ich bin nicht würdig, den Riemen seiner Sandale zu lösen“, sondern nannte zuerst die geringe Bedeutung seiner eigenen Taufe und zeigte, dass sie nicht mehr bewirkt, als sie zur Umkehr zu führen\. Er sagte ja nicht: mit Wasser der Vergebung, sondern: der Umkehr\. Dann stellt er auch das Seine vor Augen, seine von unaussprechlicher Gabe erfüllte Taufe\. Denn damit du, sagt er, wenn du hörst, dass er nach mir kommt, ihn nicht verachtest, als sei er später erschienen, lerne die Kraft seiner Gabe kennen\. Dann wirst du klar erkennen, dass ich nichts Angemessenes und nichts Großes gesagt habe, als ich sagte: „Ich bin nicht würdig, den Riemen seiner Sandale zu lösen\.“ Wenn du also hörst, dass er stärker ist als ich, meine nicht, ich hätte das im Vergleich mit mir gesagt\. Denn ich bin nicht einmal würdig, unter seine Sklaven gezählt zu werden, nicht einmal unter die geringsten Sklaven, und nicht einmal den niedrigsten Teil seines Dienstes zu übernehmen\. Deshalb sagte er nicht einfach: die Sandalen, sondern: nicht einmal den Riemen; das galt als das Geringste von allem\. Damit du nun nicht meinst, das Gesagte sei bloße Demut, fügt er auch den Beweis aus den Tatsachen hinzu: „Jener nämlich, sagt er, wird euch mit Heiligem Geist und Feuer taufen\.“ Siehst du, wie groß die Weisheit des Täufers ist? Wenn er selbst verkündigt, sagt er alles Furchtbare, alles, was Angst einflößt; wenn er sie aber zu jenem sendet, sagt er das Gütige und das, was geeignet ist, sie aufzurichten\. Denn er stellt nicht die Axt in den Mittelpunkt, auch nicht den Baum, der abgehauen, verbrannt und ins Feuer geworfen wird, auch nicht den kommenden Zorn, sondern die Vergebung der Sünden, die Aufhebung der Strafe, Gerechtigkeit, Heiligung, Erlösung, Kindschaft, Bruderschaft, Teilhabe am Erbe und die reiche Gabe des Heiligen Geistes\. All das deutete er an, als er sagte: „Er wird euch mit Heiligem Geist taufen\.“ Schon durch das Bild in dieser Wortwahl macht er die Fülle der Gnade sichtbar\. Denn er sagte nicht: Er wird euch Heiligen Geist geben, sondern: Er wird euch mit Heiligem Geist taufen\. Und durch die erläuternde Hinzufügung des Feuers zeigt er wiederum die Wucht und Unaufhaltsamkeit der Gnade\.
+Und wie sollen wir,
+sagt er,
+Frucht bringen können,
+wenn das Abhauen unmittelbar bevorsteht,
+die Zeit so knapp ist und die Frist verkürzt wurde?
+Du kannst es,
+sagt er\.
+Denn diese Frucht ist nicht wie die Frucht der Bäume:
+Sie wartet nicht auf lange Zeit,
+ist nicht den Zwängen der Jahreszeiten unterworfen und braucht auch keinen großen weiteren Aufwand\.
+Es genügt,
+zu wollen,
+und der Baum treibt sofort aus\.
+Denn zu einer solchen Fruchtbarkeit trägt nicht nur die Beschaffenheit der Wurzel bei,
+sondern in höchstem Maß auch die Kunst des Landmanns\.
+Eben deshalb fügte er,
+damit sie nicht sagten:
+„Du bringst uns in Unruhe,
+treibst uns an und setzt uns unter Druck,
+indem du die Axt anlegst,
+das Abhauen androht und im Augenblick drohender Strafe noch Erträge forderst“,
+hinzu und zeigte damit,
+wie leicht das Fruchtbringen ist:
+„Ich taufe euch mit Wasser;
+der aber nach mir kommt,
+ist stärker als ich;
+ich bin nicht würdig,
+den Riemen seiner Sandale zu lösen;
+er wird euch mit Heiligem Geist und Feuer taufen\.[^bible-51ab73c7-5c05-4ba2-994d-33317425a734]“ Damit zeigt er:
+Es braucht nur Entschluss und Glauben,
+nicht Mühen und Schweiß;
+und wie es leicht ist,
+getauft zu werden,
+so ist es leicht,
+sich zu ändern und besser zu werden\.
+So erschütterte er ihren Sinn durch die Furcht vor dem Gericht,
+durch die Erwartung der Strafe,
+durch den Namen der Axt,
+durch die Zurückweisung des Vorrechts aus den Vorfahren,
+durch die Einführung anderer Kinder und durch die doppelte Strafe des Abgehauenwerdens und Verbrennens;
+er machte ihre Härte von allen Seiten weich und brachte sie dazu,
+sich nach Befreiung von so vielen Übeln zu sehnen\.
+Da erst führt er das Wort über Christus ein,
+und zwar nicht einfach,
+sondern mit großer Überlegenheit\.
+Dann stellt er den Abstand zwischen sich und jenem heraus,
+damit es nicht so scheint,
+als sage er das aus schmeichelnder Begünstigung;
+er beweist es aus dem Vergleich dessen,
+was von jedem der beiden gegeben wird\.
+Denn er sagte nicht sofort:
+„Ich bin nicht würdig,
+den Riemen seiner Sandale zu lösen“,
+sondern nannte zuerst die geringe Bedeutung seiner eigenen Taufe und zeigte,
+dass sie nicht mehr bewirkt,
+als sie zur Umkehr zu führen\.
+Er sagte ja nicht:
+mit Wasser der Vergebung,
+sondern:
+der Umkehr\.
+Dann stellt er auch das Seine vor Augen,
+seine von unaussprechlicher Gabe erfüllte Taufe\.
+Denn damit du,
+sagt er,
+wenn du hörst,
+dass er nach mir kommt,
+ihn nicht verachtest,
+als sei er später erschienen,
+lerne die Kraft seiner Gabe kennen\.
+Dann wirst du klar erkennen,
+dass ich nichts Angemessenes und nichts Großes gesagt habe,
+als ich sagte:
+„Ich bin nicht würdig,
+den Riemen seiner Sandale zu lösen\.“
+Wenn du also hörst,
+dass er stärker ist als ich,
+meine nicht,
+ich hätte das im Vergleich mit mir gesagt\.
+Denn ich bin nicht einmal würdig,
+unter seine Sklaven gezählt zu werden,
+nicht einmal unter die geringsten Sklaven,
+und nicht einmal den niedrigsten Teil seines Dienstes zu übernehmen\.
+Deshalb sagte er nicht einfach:
+die Sandalen,
+sondern:
+nicht einmal den Riemen;
+das galt als das Geringste von allem\.
+Damit du nun nicht meinst,
+das Gesagte sei bloße Demut,
+fügt er auch den Beweis aus den Tatsachen hinzu:
+„Jener nämlich,
+sagt er,
+wird euch mit Heiligem Geist und Feuer taufen\.“
+Siehst du,
+wie groß die Weisheit des Täufers ist?
+Wenn er selbst verkündigt,
+sagt er alles Furchtbare,
+alles,
+was Angst einflößt;
+wenn er sie aber zu jenem sendet,
+sagt er das Gütige und das,
+was geeignet ist,
+sie aufzurichten\.
+Denn er stellt nicht die Axt in den Mittelpunkt,
+auch nicht den Baum,
+der abgehauen,
+verbrannt und ins Feuer geworfen wird,
+auch nicht den kommenden Zorn,
+sondern die Vergebung der Sünden,
+die Aufhebung der Strafe,
+Gerechtigkeit,
+Heiligung,
+Erlösung,
+Kindschaft,
+Bruderschaft,
+Teilhabe am Erbe und die reiche Gabe des Heiligen Geistes\.
+All das deutete er an,
+als er sagte:
+„Er wird euch mit Heiligem Geist taufen\.“
+Schon durch das Bild in dieser Wortwahl macht er die Fülle der Gnade sichtbar\.
+Denn er sagte nicht:
+Er wird euch Heiligen Geist geben,
+sondern:
+Er wird euch mit Heiligem Geist taufen\.
+Und durch die erläuternde Hinzufügung des Feuers zeigt er wiederum die Wucht und Unaufhaltsamkeit der Gnade\.
 
 ## Bibelverweise
 

@@ -7,9 +7,52 @@ Autor: Amphilochius von Ikonion
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/amphilochius-von-ikonion/ueber-die-neugetauften#kapitel-0f5b97af-93bc-4a40-e3da-08de390dce23).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7b0a9a6e5b091be06a015b8e97af6f9ac8bd65f789e600c644a253cac8ce58dd`
-
-Denn was hat Christus um unseretwillen nicht erduldet, genannt zu werden? Wir können seine Namen nicht durchzählen, aber ich mache mich daran, sie zu nennen, Geliebte: Tür, Weg, Schaf, Hirte, Wurm, Stein, Perle, Blüte, Engel, Mensch, Gott, Licht, Quelle, Sonne der Gerechtigkeit\. Der vielnamige Christus, der doch einer ist; vielnamig ist der Sohn und ist doch einer, ohne sich zu wenden, ohne sich zu wandeln, denn die Gottheit ist unveränderlich\. Sondern er passt sich jeder Sache gemäß ihrer Wirkweise an und hat für jede Wirkweise einen eigenen Namen festgesetzt\. Und lasst uns sehen, Geliebte, ob wir für jeden Namen die Wirkweise aufzeigen können\. Weg wurde er genannt\. Denn: „Ich bin“, sagt er, „der Weg und die Wahrheit“[^bible-bdea8f8c-f8a4-4fe2-b707-4a7ebfe1143c], weil er selbst der Anführer aller Tugenden und des Aufstiegs in die Himmel geworden ist\. Er selbst ist die Tür: „Ich bin die Tür der Schafe“[^bible-792a7260-3d6d-4432-ba5c-d12acd0c788b], weil wir durch ihn wie durch eine Tür in das Königreich der Himmel hineingehen\. Salz wurde er genannt, weil er den Gestank des Götzendienstes der Menschen abgewaschen und unsere Seelen durch den Glauben für die Heimkehr zur Frömmigkeit gewürzt und die erschlafften Glieder des Verstandes durch die Wahrheit gestrafft hat\. Schaf wurde er genannt\. Denn: „Wie ein Schaf wurde er zur Schlachtung geführt und wie ein Lamm stumm vor dem, der es schert\.“[^bible-7f30ccb5-9612-4d62-8f54-e77f1b0b61a2] Schaf wurde er genannt wegen der Schlachtung und wegen der Teilhabe an seinen heiligen Gliedern und wegen seines unsterblichen Schutzes durch das Siegel seines heiligen Blutes\.
+Denn was hat Christus um unseretwillen nicht erduldet,
+genannt zu werden?
+Wir können seine Namen nicht durchzählen,
+aber ich mache mich daran,
+sie zu nennen,
+Geliebte:
+Tür,
+Weg,
+Schaf,
+Hirte,
+Wurm,
+Stein,
+Perle,
+Blüte,
+Engel,
+Mensch,
+Gott,
+Licht,
+Quelle,
+Sonne der Gerechtigkeit\.
+Der vielnamige Christus,
+der doch einer ist;
+vielnamig ist der Sohn und ist doch einer,
+ohne sich zu wenden,
+ohne sich zu wandeln,
+denn die Gottheit ist unveränderlich\.
+Sondern er passt sich jeder Sache gemäß ihrer Wirkweise an und hat für jede Wirkweise einen eigenen Namen festgesetzt\.
+Und lasst uns sehen,
+Geliebte,
+ob wir für jeden Namen die Wirkweise aufzeigen können\.
+Weg wurde er genannt\.
+Denn:
+„Ich bin“,
+sagt er,
+„der Weg und die Wahrheit“[^bible-bdea8f8c-f8a4-4fe2-b707-4a7ebfe1143c],
+weil er selbst der Anführer aller Tugenden und des Aufstiegs in die Himmel geworden ist\.
+Er selbst ist die Tür:
+„Ich bin die Tür der Schafe“[^bible-792a7260-3d6d-4432-ba5c-d12acd0c788b],
+weil wir durch ihn wie durch eine Tür in das Königreich der Himmel hineingehen\.
+Salz wurde er genannt,
+weil er den Gestank des Götzendienstes der Menschen abgewaschen und unsere Seelen durch den Glauben für die Heimkehr zur Frömmigkeit gewürzt und die erschlafften Glieder des Verstandes durch die Wahrheit gestrafft hat\.
+Schaf wurde er genannt\.
+Denn:
+„Wie ein Schaf wurde er zur Schlachtung geführt und wie ein Lamm stumm vor dem,
+der es schert\.“[^bible-7f30ccb5-9612-4d62-8f54-e77f1b0b61a2]
+Schaf wurde er genannt wegen der Schlachtung und wegen der Teilhabe an seinen heiligen Gliedern und wegen seines unsterblichen Schutzes durch das Siegel seines heiligen Blutes\.
 
 ## Bibelverweise
 

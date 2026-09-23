@@ -7,9 +7,23 @@ Autor: Polykarp
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/polykarp/brief-an-die-philipper#kapitel-ad66ec29-76e3-4749-d007-08dd3fddc14a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e3269a8dd5dd3e24ba6dff40c592cc5205bcc75d6e8bad6d236ab07e3f08fbcd`
-
-„Denn wer nicht bekennt, dass Jesus Christus im Fleisch gekommen ist, ist der Antichrist“[^bible-d5758ef8-f2db-4e7e-8e5e-17417f68001d]\. Und wer das Zeugnis des Kreuzes nicht bekennt, ist vom Teufel; und wer die Orakel des Herrn zu seinen eigenen Gelüsten verdreht und sagt, dass es weder eine Auferstehung noch ein Gericht gibt, der ist der Erstgeborene Satans\. Darum, die Eitelkeit vieler und ihre falschen Lehren verlassend, lasst uns zu dem Wort zurückkehren, das uns von Anfang an überliefert wurde „und wachsam im Gebet sein“ und im Fasten ausharren; lasst uns in unseren Bitten den allsehenden Gott anflehen, „uns nicht in Versuchung zu führen“[^bible-0af7e384-08be-4cd7-8452-9724fd2971e8], wie der Herr gesagt hat: „Der Geist ist zwar willig, aber das Fleisch ist schwach\.“[^bible-a0cc2721-bee1-4566-849f-73a0a72bbb8f]
+„Denn wer nicht bekennt,
+dass Jesus Christus im Fleisch gekommen ist,
+ist der Antichrist“[^bible-d5758ef8-f2db-4e7e-8e5e-17417f68001d]\.
+Und wer das Zeugnis des Kreuzes nicht bekennt,
+ist vom Teufel;
+und wer die Orakel des Herrn zu seinen eigenen Gelüsten verdreht und sagt,
+dass es weder eine Auferstehung noch ein Gericht gibt,
+der ist der Erstgeborene Satans\.
+Darum,
+die Eitelkeit vieler und ihre falschen Lehren verlassend,
+lasst uns zu dem Wort zurückkehren,
+das uns von Anfang an überliefert wurde „und wachsam im Gebet sein“ und im Fasten ausharren;
+lasst uns in unseren Bitten den allsehenden Gott anflehen,
+„uns nicht in Versuchung zu führen“[^bible-0af7e384-08be-4cd7-8452-9724fd2971e8],
+wie der Herr gesagt hat:
+„Der Geist ist zwar willig,
+aber das Fleisch ist schwach\.“[^bible-a0cc2721-bee1-4566-849f-73a0a72bbb8f]
 
 ## Bibelverweise
 

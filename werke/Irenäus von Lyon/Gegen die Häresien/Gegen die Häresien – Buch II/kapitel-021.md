@@ -7,11 +7,88 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-ii#kapitel-6877faf8-e51d-4217-0351-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:cea7625ce4df9d4ee3b274d8b2eb140a21fb98913b8e1716720ee2589930dd87`
+Wenn sie ferner behaupten,
+die zwölf Apostel seien nur ein Typos jener Gruppe von zwölf Äonen gewesen,
+die Anthropos zusammen mit Ecclesia hervorgebracht habe,
+dann sollen sie zehn weitere Apostel vorweisen als Typos jener zehn übrigen Äonen,
+die,
+wie sie erklären,
+von Logos und Zoe hervorgebracht worden seien\.
+Denn es ist unvernünftig anzunehmen,
+die jüngeren und eben deshalb niedrigeren Äonen seien vom Erlöser durch die Wahl der Apostel dargestellt worden,
+während ihre älteren und darum höheren nicht ebenso im Voraus angezeigt worden seien;
+denn der Erlöser hätte,
+wenn er die Apostel wirklich in dieser Absicht gewählt hätte,
+um durch sie die Äonen im Pleroma sichtbar zu machen,
+auch noch zehn andere Apostel wählen können und ebenso vor diesen noch acht weitere,
+damit er so die ursprüngliche und erste Ogdoas dargestellt hätte\.
+Die zweite \[Duo\-\]Dekas konnte er nicht durch die Zahl der Apostel darstellen,
+da die Zahl der Apostel bereits als Typos festgelegt war\.
+Denn eine solche andere Zahl von Jüngern hat er nicht gewählt;
+vielmehr zeigt sich,
+dass unser Herr nach den zwölf Aposteln noch siebzig andere vor sich her sandte[^bible-aeb21d62-a332-4019-818f-0a1d2a7aea82]\.
+Siebzig aber kann unmöglich der Typos einer Ogdoas,
+einer Dekas oder einer Dreißigergruppe sein\.
+Was ist also der Grund dafür,
+dass die niedrigeren Äonen,
+wie ich gesagt habe,
+durch die Apostel dargestellt werden,
+die höheren aber,
+von denen jene doch ihr Sein empfangen haben,
+überhaupt nicht im Voraus abgebildet sind?
+Wenn aber die zwölf Apostel zu dem Zweck gewählt wurden,
+dass durch sie die Zahl der zwölf Äonen angezeigt werde,
+dann hätten auch die siebzig gewählt werden müssen,
+um Typos von siebzig Äonen zu sein;
+und in diesem Fall müssen sie behaupten,
+die Äonen seien nicht mehr dreißig,
+sondern zweiundachtzig an der Zahl\.
+Denn der,
+der die Apostel auswählte,
+damit sie Typos der im Pleroma bestehenden Äonen seien,
+hätte sie niemals nur zu Typen einiger Äonen gemacht und nicht auch der übrigen;
+vielmehr hätte er durch die Apostel ein Abbild bewahren und einen Typos jener Äonen zeigen wollen,
+die im Pleroma bestehen\.
 
-Wenn sie ferner behaupten, die zwölf Apostel seien nur ein Typos jener Gruppe von zwölf Äonen gewesen, die Anthropos zusammen mit Ecclesia hervorgebracht habe, dann sollen sie zehn weitere Apostel vorweisen als Typos jener zehn übrigen Äonen, die, wie sie erklären, von Logos und Zoe hervorgebracht worden seien\. Denn es ist unvernünftig anzunehmen, die jüngeren und eben deshalb niedrigeren Äonen seien vom Erlöser durch die Wahl der Apostel dargestellt worden, während ihre älteren und darum höheren nicht ebenso im Voraus angezeigt worden seien; denn der Erlöser hätte, wenn er die Apostel wirklich in dieser Absicht gewählt hätte, um durch sie die Äonen im Pleroma sichtbar zu machen, auch noch zehn andere Apostel wählen können und ebenso vor diesen noch acht weitere, damit er so die ursprüngliche und erste Ogdoas dargestellt hätte\. Die zweite \[Duo\-\]Dekas konnte er nicht durch die Zahl der Apostel darstellen, da die Zahl der Apostel bereits als Typos festgelegt war\. Denn eine solche andere Zahl von Jüngern hat er nicht gewählt; vielmehr zeigt sich, dass unser Herr nach den zwölf Aposteln noch siebzig andere vor sich her sandte[^bible-aeb21d62-a332-4019-818f-0a1d2a7aea82]\. Siebzig aber kann unmöglich der Typos einer Ogdoas, einer Dekas oder einer Dreißigergruppe sein\. Was ist also der Grund dafür, dass die niedrigeren Äonen, wie ich gesagt habe, durch die Apostel dargestellt werden, die höheren aber, von denen jene doch ihr Sein empfangen haben, überhaupt nicht im Voraus abgebildet sind? Wenn aber die zwölf Apostel zu dem Zweck gewählt wurden, dass durch sie die Zahl der zwölf Äonen angezeigt werde, dann hätten auch die siebzig gewählt werden müssen, um Typos von siebzig Äonen zu sein; und in diesem Fall müssen sie behaupten, die Äonen seien nicht mehr dreißig, sondern zweiundachtzig an der Zahl\. Denn der, der die Apostel auswählte, damit sie Typos der im Pleroma bestehenden Äonen seien, hätte sie niemals nur zu Typen einiger Äonen gemacht und nicht auch der übrigen; vielmehr hätte er durch die Apostel ein Abbild bewahren und einen Typos jener Äonen zeigen wollen, die im Pleroma bestehen\.
-
-Außerdem dürfen wir über Paulus nicht schweigen, sondern müssen von ihnen verlangen, dass sie sagen, nach dem Typos welchen Äons uns dieser Apostel überliefert worden ist, es sei denn vielleicht, sie behaupten, er stelle den aus ihnen allen zusammengesetzten Erlöser dar, der sein Sein aus den gesammelten Gaben des Ganzen empfangen habe und den sie Alle Dinge nennen, weil er aus ihnen allen gebildet worden sei\. Über dieses Wesen hat sich der Dichter Hesiod treffend geäußert, indem er ihn Pandora nannte, das heißt „Gabe aller“, und zwar deshalb, weil in ihm die beste Gabe aus dem Besitz aller zusammengefasst war\. Bei der Beschreibung dieser Gaben wird Folgendes erzählt: Hermes, so heißt er auf Griechisch, habe ihnen „trügerische und betrügerische Worte in den Sinn und diebische Gewohnheiten eingepflanzt“, um dumme Menschen in die Irre zu führen, damit solche Leute ihren Lügen glauben\. Denn ihre Mutter, nämlich Leto, stachelte sie heimlich an, daher wird sie nach der Bedeutung des griechischen Wortes auch Leto genannt, weil sie die Menschen heimlich anstachelte, ohne Wissen des Demiurgen tiefe und unaussprechliche Mysterien für juckende Ohren hervorzubringen\. Und nicht nur brachte ihre Mutter es dahin, dass dieses Mysterium durch Hesiod verkündet wurde; sondern ebenso ließ sie sehr geschickt durch den Lyriker Pindar, als er dem Demiurgen den Fall des Pelops schildert, dessen Fleisch vom Vater in Stücke geschnitten, dann von allen Göttern gesammelt, zusammengebracht und neu gefügt wurde, auf diese Weise Pandora und diese Männer anzeigte\. Dadurch erweisen sich diese Männer, deren Gewissen durch sie gebrandmarkt ist und die, wie sie behaupten, genau dasselbe verkünden, als von derselben Familie und demselben Geist wie die anderen\.
+Außerdem dürfen wir über Paulus nicht schweigen,
+sondern müssen von ihnen verlangen,
+dass sie sagen,
+nach dem Typos welchen Äons uns dieser Apostel überliefert worden ist,
+es sei denn vielleicht,
+sie behaupten,
+er stelle den aus ihnen allen zusammengesetzten Erlöser dar,
+der sein Sein aus den gesammelten Gaben des Ganzen empfangen habe und den sie Alle Dinge nennen,
+weil er aus ihnen allen gebildet worden sei\.
+Über dieses Wesen hat sich der Dichter Hesiod treffend geäußert,
+indem er ihn Pandora nannte,
+das heißt „Gabe aller“,
+und zwar deshalb,
+weil in ihm die beste Gabe aus dem Besitz aller zusammengefasst war\.
+Bei der Beschreibung dieser Gaben wird Folgendes erzählt:
+Hermes,
+so heißt er auf Griechisch,
+habe ihnen „trügerische und betrügerische Worte in den Sinn und diebische Gewohnheiten eingepflanzt“,
+um dumme Menschen in die Irre zu führen,
+damit solche Leute ihren Lügen glauben\.
+Denn ihre Mutter,
+nämlich Leto,
+stachelte sie heimlich an,
+daher wird sie nach der Bedeutung des griechischen Wortes auch Leto genannt,
+weil sie die Menschen heimlich anstachelte,
+ohne Wissen des Demiurgen tiefe und unaussprechliche Mysterien für juckende Ohren hervorzubringen\.
+Und nicht nur brachte ihre Mutter es dahin,
+dass dieses Mysterium durch Hesiod verkündet wurde;
+sondern ebenso ließ sie sehr geschickt durch den Lyriker Pindar,
+als er dem Demiurgen den Fall des Pelops schildert,
+dessen Fleisch vom Vater in Stücke geschnitten,
+dann von allen Göttern gesammelt,
+zusammengebracht und neu gefügt wurde,
+auf diese Weise Pandora und diese Männer anzeigte\.
+Dadurch erweisen sich diese Männer,
+deren Gewissen durch sie gebrandmarkt ist und die,
+wie sie behaupten,
+genau dasselbe verkünden,
+als von derselben Familie und demselben Geist wie die anderen\.
 
 ## Bibelverweise
 

@@ -7,6 +7,75 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-1#kapitel-e0a5afaf-e2ce-4ace-0a00-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:cedbee5f58cff6fe1bcf60779b7d5520d800602a5ac4376d86e1981a5964d9fd`
-
-Danach fährt er fort: „Diese Viehhirten und Schafhirten kamen zu dem Schluss, dass es nur einen Gott gebe, der entweder der Höchste, Adonai, der Himmlische oder Sabaoth heiße oder mit einem anderen jener Namen bezeichnet werde, die sie dieser Welt so gern geben; darüber hinaus wussten sie nichts\.“ An einer späteren Stelle seines Werkes sagt er: „Es macht keinen Unterschied, ob man den Gott über allem mit dem bei den Griechen gebräuchlichen Namen Zeus bezeichnet oder etwa mit dem Namen, der bei den Indern oder Ägyptern gebräuchlich ist\.“ Darauf müssen wir erwidern, dass hier ein tiefes und geheimnisvolles Thema berührt wird, nämlich das Wesen der Namen\. Es stellt sich die Frage, ob Namen, wie Aristoteles meint, durch Übereinkunft vergeben wurden oder, wie die Stoiker behaupten, von Natur aus entstanden sind, wobei die ersten Wörter Nachahmungen der Dinge waren und die Namen nach diesen Wörtern gebildet wurden; daran knüpfen sie bestimmte Grundsätze der Etymologie\. Oder wurden die Namen, wie Epikur im Unterschied zu den Stoikern lehrt, von der Natur gegeben, indem die ersten Menschen je nach den Umständen, in denen sie sich befanden, jeweils andere Laute hervorbrachten? Wenn wir nun im Hinblick auf die vorangegangene Behauptung das Wesen machtvoller Namen darlegen können, von denen manche bei den Gelehrten der Ägypter, andere bei den Magiern der Perser, bei den indischen Philosophen, die Brahmanen heißen, bei den Samanäern und bei weiteren Gruppen in verschiedenen Ländern gebräuchlich sind, und wenn wir zeigen können, dass die sogenannte Magie nicht, wie die Anhänger Epikurs und Aristoteles meinen, etwas völlig Ungewisses ist, sondern, wie die darin Kundigen beweisen, ein zusammenhängendes System, dessen Worte nur äußerst wenigen bekannt sind, dann sagen wir: Der Name Sabaoth, Adonai und die anderen Namen, die bei den Hebräern mit so großer Ehrfurcht behandelt werden, lassen sich nicht auf gewöhnliche geschaffene Dinge anwenden, sondern gehören zu einer verborgenen Gotteslehre, die sich auf den Schöpfer aller Dinge bezieht\. Werden diese Namen unter den Begleitumständen ausgesprochen, die ihrem Wesen entsprechen, besitzen sie daher große Macht\. Andere Namen, die in der ägyptischen Sprache gebräuchlich sind, wirken gegen bestimmte Dämonen, die nur bestimmte Dinge tun können; andere Namen in persischer Sprache haben eine entsprechende Macht über andere Geister\. So verhält es sich bei jedem einzelnen Volk und für unterschiedliche Zwecke\. Daher wird sich zeigen, dass jeder der verschiedenen Dämonen auf der Erde, denen unterschiedliche Gebiete zugewiesen sind, einen Namen trägt, der der jeweiligen Mundart des Ortes und Landes entspricht\. Wer also eine noch so geringe edlere Einsicht in diese Dinge besitzt, wird darauf achten, nicht unterschiedliche Namen auf unterschiedliche Dinge anzuwenden\. Sonst gleicht er denen, die irrtümlich den Namen Gottes auf leblose Materie anwenden oder die Bezeichnung „das Gute“ von der ersten Ursache oder von Tugend und Vortrefflichkeit herabziehen und sie auf den blinden Plutos, auf ein gesundes und wohlproportioniertes Gemisch aus Fleisch, Blut und Knochen oder auf das anwenden, was als vornehme Herkunft gilt\.
+Danach fährt er fort:
+„Diese Viehhirten und Schafhirten kamen zu dem Schluss,
+dass es nur einen Gott gebe,
+der entweder der Höchste,
+Adonai,
+der Himmlische oder Sabaoth heiße oder mit einem anderen jener Namen bezeichnet werde,
+die sie dieser Welt so gern geben;
+darüber hinaus wussten sie nichts\.“
+An einer späteren Stelle seines Werkes sagt er:
+„Es macht keinen Unterschied,
+ob man den Gott über allem mit dem bei den Griechen gebräuchlichen Namen Zeus bezeichnet oder etwa mit dem Namen,
+der bei den Indern oder Ägyptern gebräuchlich ist\.“
+Darauf müssen wir erwidern,
+dass hier ein tiefes und geheimnisvolles Thema berührt wird,
+nämlich das Wesen der Namen\.
+Es stellt sich die Frage,
+ob Namen,
+wie Aristoteles meint,
+durch Übereinkunft vergeben wurden oder,
+wie die Stoiker behaupten,
+von Natur aus entstanden sind,
+wobei die ersten Wörter Nachahmungen der Dinge waren und die Namen nach diesen Wörtern gebildet wurden;
+daran knüpfen sie bestimmte Grundsätze der Etymologie\.
+Oder wurden die Namen,
+wie Epikur im Unterschied zu den Stoikern lehrt,
+von der Natur gegeben,
+indem die ersten Menschen je nach den Umständen,
+in denen sie sich befanden,
+jeweils andere Laute hervorbrachten?
+Wenn wir nun im Hinblick auf die vorangegangene Behauptung das Wesen machtvoller Namen darlegen können,
+von denen manche bei den Gelehrten der Ägypter,
+andere bei den Magiern der Perser,
+bei den indischen Philosophen,
+die Brahmanen heißen,
+bei den Samanäern und bei weiteren Gruppen in verschiedenen Ländern gebräuchlich sind,
+und wenn wir zeigen können,
+dass die sogenannte Magie nicht,
+wie die Anhänger Epikurs und Aristoteles meinen,
+etwas völlig Ungewisses ist,
+sondern,
+wie die darin Kundigen beweisen,
+ein zusammenhängendes System,
+dessen Worte nur äußerst wenigen bekannt sind,
+dann sagen wir:
+Der Name Sabaoth,
+Adonai und die anderen Namen,
+die bei den Hebräern mit so großer Ehrfurcht behandelt werden,
+lassen sich nicht auf gewöhnliche geschaffene Dinge anwenden,
+sondern gehören zu einer verborgenen Gotteslehre,
+die sich auf den Schöpfer aller Dinge bezieht\.
+Werden diese Namen unter den Begleitumständen ausgesprochen,
+die ihrem Wesen entsprechen,
+besitzen sie daher große Macht\.
+Andere Namen,
+die in der ägyptischen Sprache gebräuchlich sind,
+wirken gegen bestimmte Dämonen,
+die nur bestimmte Dinge tun können;
+andere Namen in persischer Sprache haben eine entsprechende Macht über andere Geister\.
+So verhält es sich bei jedem einzelnen Volk und für unterschiedliche Zwecke\.
+Daher wird sich zeigen,
+dass jeder der verschiedenen Dämonen auf der Erde,
+denen unterschiedliche Gebiete zugewiesen sind,
+einen Namen trägt,
+der der jeweiligen Mundart des Ortes und Landes entspricht\.
+Wer also eine noch so geringe edlere Einsicht in diese Dinge besitzt,
+wird darauf achten,
+nicht unterschiedliche Namen auf unterschiedliche Dinge anzuwenden\.
+Sonst gleicht er denen,
+die irrtümlich den Namen Gottes auf leblose Materie anwenden oder die Bezeichnung „das Gute“ von der ersten Ursache oder von Tugend und Vortrefflichkeit herabziehen und sie auf den blinden Plutos,
+auf ein gesundes und wohlproportioniertes Gemisch aus Fleisch,
+Blut und Knochen oder auf das anwenden,
+was als vornehme Herkunft gilt\.

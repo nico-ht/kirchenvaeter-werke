@@ -7,8 +7,16 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-faee026a-079e-472c-76b5-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7ff80c6881581d221bf227ec8ba8681ba8f23f708cc9a7600935e9a2e9ddc867`
+Dies ist das geschlachtete Lamm,
+dies ist das sprachlose Lamm,
+dies ist derjenige,
+der von Maria,
+das schöne Mutterschaf,
+geboren wurde,
+dies ist derjenige,
+der aus der Herde genommen und zur Schlachtung geführt wurde\.
 
-Dies ist das geschlachtete Lamm, dies ist das sprachlose Lamm, dies ist derjenige, der von Maria, das schöne Mutterschaf, geboren wurde, dies ist derjenige, der aus der Herde genommen und zur Schlachtung geführt wurde\.
-
-Er wurde am Abend geopfert und in der Nacht begraben; er wurde am Baum nicht gebrochen, er wurde in der Erde nicht entstellt, er ist von den Toten auferstanden und hat die Menschheit aus dem Grab darunter auferweckt\.
+Er wurde am Abend geopfert und in der Nacht begraben;
+er wurde am Baum nicht gebrochen,
+er wurde in der Erde nicht entstellt,
+er ist von den Toten auferstanden und hat die Menschheit aus dem Grab darunter auferweckt\.

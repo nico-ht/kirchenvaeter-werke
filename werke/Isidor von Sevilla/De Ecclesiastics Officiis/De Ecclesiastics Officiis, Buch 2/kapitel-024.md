@@ -7,13 +7,226 @@ Autor: Isidor von Sevilla
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/isidor-von-sevilla/de-ecclesiastics-officiis-buch-2#kapitel-0f89f109-d8b3-4387-142d-08ded5491050).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:853d9323b5ecc530ad0b9a5435a39fdb90aaa74d23fef0ee949cfeb267e8e6ef`
+Wenn ich das Sakrament der Taufe darlege und dabei „bis zum Anfang selbst zurückgehe“,
+dann hat Mose im Meer und in der Wolke getauft,
+sowohl als vorausbildendes Zeichen wie auch als Symbol;
+denn so verkündet es Paulus:
+Unsere Väter waren alle unter der Wolke und gingen alle durch das Meer,
+und alle wurden auf Mose getauft in der Wolke und im Meer[^bible-3ab1677d-f258-4a49-8a50-000eee3db52c]\.
+Das Meer hatte also die Gestalt des Wassers;
+die Wolke die des Heiligen Geistes;
+das Manna die des Brotes des Lebens\.
+Denn in jenem Meer wird,
+wie die Bilder der Väter lehren,
+der Ägypter versenkt,
+und das Volk Gottes steigt empor,
+erneuert durch den Heiligen Geist,
+das auch trockenen Fußes durch das Rote Meer hindurchzog\.
+Auch Johannes taufte,
+aber nicht ganz im jüdischen Sinn\.
+Denn er taufte nicht nur mit Wasser,
+sondern auch im Geist;
+doch verlieh er dies nur insofern,
+als er zur Umkehr taufte,
+wie Paulus in der Apostelgeschichte sagt:
+„Johannes taufte mit der Taufe der Umkehr[^bible-4fcbecc3-37a2-486b-ad79-37bd4b569dda]\.“
+Dennoch wurde ihm also gegeben,
+mit Wasser zu taufen,
+damit Christus,
+der mit Wasser und im Geist taufen sollte,
+durch die Taufe des Johannes „Israel offenbar würde[^bible-b8dbc084-14e5-4c41-a1d6-db47edfde378]“\.
+Dies geschah,
+als er durch das Herabkommen des Heiligen Geistes und durch die Stimme des Vaters allen deutlich als Sohn Gottes gezeigt wurde\.
+Die vollkommene Taufe nahm also bei Jesus ihren Anfang\.
+Er taufte vor allem anderen im Heiligen Geist,
+wie auch Johannes sagte:
+„Ich taufe mit Wasser\.
+Mitten unter euch steht einer,
+den ihr nicht kennt[^bible-c62a509b-3e77-4616-bb36-056cbe7da2a1]\.
+Er wird euch mit dem Heiligen Geist und mit Feuer taufen[^bible-58b228dd-f64c-4e49-b66d-2b036506e84f]\.“
+Dies ist die Vollendung der Taufe\.
+Gott ist es,
+der tauft,
+damit die Getauften Söhne Gottes werden können\.
+Es gibt drei Arten der Taufe:
+erstens die Taufe,
+durch die die Makel der Sünde durch das Bad der Wiedergeburt abgewaschen werden\.
+Zweitens die Taufe,
+durch die einer in seinem Blut durch das Martyrium getauft wird\.
+Mit dieser Taufe wurde auch Christus getauft,
+damit er auch darin wie in den anderen Dingen den Gläubigen ein Beispiel gebe,
+wie er zu seinen Jüngern,
+den Söhnen des Zebedäus,
+sagte:
+„Könnt ihr den Kelch trinken,
+den ich trinke,
+oder mit der Taufe getauft werden,
+mit der ich getauft werde?[^bible-9abf581d-064d-4e36-a51a-268661bc6f8f]“ Wasser und Blut bezeichnen also eine zweifache Taufe:
+die eine,
+durch die wir im Bad wiedergeboren werden,
+die andere,
+durch die wir durch Blut geweiht werden\.
+Es gibt auch eine dritte Taufe,
+die der Tränen;
+sie wird mühsam vollzogen,
+wie bei dem,
+der jede Nacht sein Bett mit Tränen überschwemmt[^bible-532db30e-df88-4fa4-b4ed-4be16a4a89ac],
+der die Bekehrung Manasses und die Demut des Volkes von Ninive nachahmt,
+auf die hin Erbarmen folgte,
+der das Gebet jenes Zöllners im Tempel nachahmt,
+„der von ferne stand und nicht einmal die Augen zum Himmel erheben wollte,
+sondern an seine Brust schlug[^bible-fbed2397-b71e-4220-b5d0-37f389f79cf2]“\.
+Denn das Wasser der Taufe ist jenes,
+das zur Zeit des Leidens aus der Seite Christi floss,
+und es gibt kein anderes Element,
+das in dieser Welt alles reinigt und alles lebendig macht\.
 
-Wenn ich das Sakrament der Taufe darlege und dabei „bis zum Anfang selbst zurückgehe“, dann hat Mose im Meer und in der Wolke getauft, sowohl als vorausbildendes Zeichen wie auch als Symbol; denn so verkündet es Paulus: Unsere Väter waren alle unter der Wolke und gingen alle durch das Meer, und alle wurden auf Mose getauft in der Wolke und im Meer[^bible-3ab1677d-f258-4a49-8a50-000eee3db52c]\. Das Meer hatte also die Gestalt des Wassers; die Wolke die des Heiligen Geistes; das Manna die des Brotes des Lebens\. Denn in jenem Meer wird, wie die Bilder der Väter lehren, der Ägypter versenkt, und das Volk Gottes steigt empor, erneuert durch den Heiligen Geist, das auch trockenen Fußes durch das Rote Meer hindurchzog\. Auch Johannes taufte, aber nicht ganz im jüdischen Sinn\. Denn er taufte nicht nur mit Wasser, sondern auch im Geist; doch verlieh er dies nur insofern, als er zur Umkehr taufte, wie Paulus in der Apostelgeschichte sagt: „Johannes taufte mit der Taufe der Umkehr[^bible-4fcbecc3-37a2-486b-ad79-37bd4b569dda]\.“ Dennoch wurde ihm also gegeben, mit Wasser zu taufen, damit Christus, der mit Wasser und im Geist taufen sollte, durch die Taufe des Johannes „Israel offenbar würde[^bible-b8dbc084-14e5-4c41-a1d6-db47edfde378]“\. Dies geschah, als er durch das Herabkommen des Heiligen Geistes und durch die Stimme des Vaters allen deutlich als Sohn Gottes gezeigt wurde\. Die vollkommene Taufe nahm also bei Jesus ihren Anfang\. Er taufte vor allem anderen im Heiligen Geist, wie auch Johannes sagte: „Ich taufe mit Wasser\. Mitten unter euch steht einer, den ihr nicht kennt[^bible-c62a509b-3e77-4616-bb36-056cbe7da2a1]\. Er wird euch mit dem Heiligen Geist und mit Feuer taufen[^bible-58b228dd-f64c-4e49-b66d-2b036506e84f]\.“ Dies ist die Vollendung der Taufe\. Gott ist es, der tauft, damit die Getauften Söhne Gottes werden können\. Es gibt drei Arten der Taufe: erstens die Taufe, durch die die Makel der Sünde durch das Bad der Wiedergeburt abgewaschen werden\. Zweitens die Taufe, durch die einer in seinem Blut durch das Martyrium getauft wird\. Mit dieser Taufe wurde auch Christus getauft, damit er auch darin wie in den anderen Dingen den Gläubigen ein Beispiel gebe, wie er zu seinen Jüngern, den Söhnen des Zebedäus, sagte: „Könnt ihr den Kelch trinken, den ich trinke, oder mit der Taufe getauft werden, mit der ich getauft werde?[^bible-9abf581d-064d-4e36-a51a-268661bc6f8f]“ Wasser und Blut bezeichnen also eine zweifache Taufe: die eine, durch die wir im Bad wiedergeboren werden, die andere, durch die wir durch Blut geweiht werden\. Es gibt auch eine dritte Taufe, die der Tränen; sie wird mühsam vollzogen, wie bei dem, der jede Nacht sein Bett mit Tränen überschwemmt[^bible-532db30e-df88-4fa4-b4ed-4be16a4a89ac], der die Bekehrung Manasses und die Demut des Volkes von Ninive nachahmt, auf die hin Erbarmen folgte, der das Gebet jenes Zöllners im Tempel nachahmt, „der von ferne stand und nicht einmal die Augen zum Himmel erheben wollte, sondern an seine Brust schlug[^bible-fbed2397-b71e-4220-b5d0-37f389f79cf2]“\. Denn das Wasser der Taufe ist jenes, das zur Zeit des Leidens aus der Seite Christi floss, und es gibt kein anderes Element, das in dieser Welt alles reinigt und alles lebendig macht\.
+Wenn wir also in Christus getauft werden,
+werden wir durch jenes Wasser wiedergeboren,
+damit wir,
+gereinigt,
+zum Leben geführt werden\.
+Der Taufbrunnen aber ist der Ursprung aller Herrlichkeiten\.
+In ihm gibt es sieben Stufen:
+drei,
+auf denen man hinabsteigt wegen der drei Male,
+bei denen wir absagen,
+und drei weitere,
+auf denen man hinaufsteigt wegen der drei Dinge,
+die wir bekennen\.
+Die siebte aber ist wahrhaft der,
+der die vierte Stufe ist,
+der ‚aussieht wie ein Menschensohn‘[^bible-d60ab1c9-6d56-4106-9a8c-26a9ee599e50],
+und den Feuerofen auslöscht\.
+Er ist die Stütze der Stufen,
+das Fundament des Wassers;
+denn ‚in Christus wohnt die ganze Fülle der Gottheit körperlich‘[^bible-56a800e7-96dd-4852-99d6-afd598c7e166]\.
+Die heilbringenden Gaben der Taufe bestehen im Vater und im Sohn und im Heiligen Geist\.
+Darum wird keineswegs jemand durch die Feier der Taufe geheiligt,
+wenn er nicht unter dem Zeichen der Dreifaltigkeit gewaschen wird,
+wie der Herr sagt:
+„Geht also hin und macht alle Völker zu Jüngern,
+indem ihr sie tauft auf den Namen des Vaters und des Sohnes und des Heiligen Geistes[^bible-34b4f6f6-ded2-4ec2-bf3e-60700abe3e41]\.“
+Folglich geschieht bei der feierlichen Handlung der Wiedergeburt offenkundig nichts,
+wenn die Taufe gespendet wird und dabei in irgendeiner Weise eine Person der Dreifaltigkeit ausgelassen wurde,
+sofern nicht die ganze Dreifaltigkeit angerufen wird\.
+Denn auch vom Herrn liest man,
+dass er,
+als er von Johannes getauft wurde,
+diese Taufe unter dem Zeichen der Dreifaltigkeit vollzog\.
+Denn als Gott sagte:
+„Dies ist mein Sohn[^bible-0d063c51-bf64-4dc1-94e6-a05c11cdf85a]“,
+war der Vater in der Stimme,
+der Sohn im Körper;
+der Heilige Geist aber,
+so wird gezeigt,
+war in Gestalt der Taube\.
+Es gibt zwei Bündnisse der Glaubenden\.
+Das erste Bündnis ist das,
+in dem man dem Teufel,
+seinem Gepränge und seiner ganzen Lebensweise absagt\.
+Das zweite Bündnis ist das,
+in dem man bekennt,
+an den Vater und den Sohn und den Heiligen Geist zu glauben\.
+Wir müssen in Christus nur einmal gewaschen werden,
+weil auch Christus nur einmal für uns gestorben ist\.
+Denn wenn es ‚einen Herrn‘[^bible-85cf85e4-df6a-43eb-9625-8d99619661d7] und ‚einen Glauben‘[^bible-85cf85e4-df6a-43eb-9625-8d99619661d7] gibt,
+dann gibt es notwendig auch ‚eine Taufe‘[^bible-85cf85e4-df6a-43eb-9625-8d99619661d7],
+weil es auch einen Tod Christi für uns gibt\.
+Durch das Geheimnis des heiligen Taufbrunnens werden wir in sein Bild hineingetaucht,
+damit wir mit Christus begraben werden,
+indem wir dieser Welt sterben;
+und aus denselben Wassern steigen wir in der Gestalt seiner Auferstehung wieder empor,
+um nicht zur Verwesung zurückzukehren,
+so wie er nicht zum Tod zurückkehrte\.
+Denn selbst wenn jemand später von irgendeiner Sünde überwältigt worden ist,
+wird er nun nicht durch die Wohltat des Bades entsühnt,
+sondern durch die Buße,
+die in Nachahmung des Taufbrunnens die Sünden tötet\.
+Wir glauben,
+dass die Taufe im Alter der Vollendung entweder die Reinigung von der ursprünglichen Schuld oder die Tilgung der tatsächlich begangenen Sünde bewirkt\.
+Bei Kindern aber besteht die Wirkung der Taufe darin,
+dass sie nur von der Ursünde gewaschen werden,
+die sie von Adam durch ihre erste Geburt auf sich gezogen haben\.
+Sollten sie sterben,
+bevor sie wiedergeboren werden,
+sind sie ohne Zweifel vom Reich Christi getrennt,
+wie unser Erlöser bezeugt:
+„Niemand kann in das Reich Gottes eingehen,
+wenn er nicht aus Wasser und Geist geboren wird[^bible-63cb7cd9-4f06-44a9-ab92-c92241020925]\.“
+Deshalb werden Kinder getauft,
+indem ein anderer das Bekenntnis spricht,
+weil sie noch nicht wissen,
+zu sprechen oder zu glauben\.
 
-Wenn wir also in Christus getauft werden, werden wir durch jenes Wasser wiedergeboren, damit wir, gereinigt, zum Leben geführt werden\. Der Taufbrunnen aber ist der Ursprung aller Herrlichkeiten\. In ihm gibt es sieben Stufen: drei, auf denen man hinabsteigt wegen der drei Male, bei denen wir absagen, und drei weitere, auf denen man hinaufsteigt wegen der drei Dinge, die wir bekennen\. Die siebte aber ist wahrhaft der, der die vierte Stufe ist, der ‚aussieht wie ein Menschensohn‘[^bible-d60ab1c9-6d56-4106-9a8c-26a9ee599e50], und den Feuerofen auslöscht\. Er ist die Stütze der Stufen, das Fundament des Wassers; denn ‚in Christus wohnt die ganze Fülle der Gottheit körperlich‘[^bible-56a800e7-96dd-4852-99d6-afd598c7e166]\. Die heilbringenden Gaben der Taufe bestehen im Vater und im Sohn und im Heiligen Geist\. Darum wird keineswegs jemand durch die Feier der Taufe geheiligt, wenn er nicht unter dem Zeichen der Dreifaltigkeit gewaschen wird, wie der Herr sagt: „Geht also hin und macht alle Völker zu Jüngern, indem ihr sie tauft auf den Namen des Vaters und des Sohnes und des Heiligen Geistes[^bible-34b4f6f6-ded2-4ec2-bf3e-60700abe3e41]\.“ Folglich geschieht bei der feierlichen Handlung der Wiedergeburt offenkundig nichts, wenn die Taufe gespendet wird und dabei in irgendeiner Weise eine Person der Dreifaltigkeit ausgelassen wurde, sofern nicht die ganze Dreifaltigkeit angerufen wird\. Denn auch vom Herrn liest man, dass er, als er von Johannes getauft wurde, diese Taufe unter dem Zeichen der Dreifaltigkeit vollzog\. Denn als Gott sagte: „Dies ist mein Sohn[^bible-0d063c51-bf64-4dc1-94e6-a05c11cdf85a]“, war der Vater in der Stimme, der Sohn im Körper; der Heilige Geist aber, so wird gezeigt, war in Gestalt der Taube\. Es gibt zwei Bündnisse der Glaubenden\. Das erste Bündnis ist das, in dem man dem Teufel, seinem Gepränge und seiner ganzen Lebensweise absagt\. Das zweite Bündnis ist das, in dem man bekennt, an den Vater und den Sohn und den Heiligen Geist zu glauben\. Wir müssen in Christus nur einmal gewaschen werden, weil auch Christus nur einmal für uns gestorben ist\. Denn wenn es ‚einen Herrn‘[^bible-85cf85e4-df6a-43eb-9625-8d99619661d7] und ‚einen Glauben‘[^bible-85cf85e4-df6a-43eb-9625-8d99619661d7] gibt, dann gibt es notwendig auch ‚eine Taufe‘[^bible-85cf85e4-df6a-43eb-9625-8d99619661d7], weil es auch einen Tod Christi für uns gibt\. Durch das Geheimnis des heiligen Taufbrunnens werden wir in sein Bild hineingetaucht, damit wir mit Christus begraben werden, indem wir dieser Welt sterben; und aus denselben Wassern steigen wir in der Gestalt seiner Auferstehung wieder empor, um nicht zur Verwesung zurückzukehren, so wie er nicht zum Tod zurückkehrte\. Denn selbst wenn jemand später von irgendeiner Sünde überwältigt worden ist, wird er nun nicht durch die Wohltat des Bades entsühnt, sondern durch die Buße, die in Nachahmung des Taufbrunnens die Sünden tötet\. Wir glauben, dass die Taufe im Alter der Vollendung entweder die Reinigung von der ursprünglichen Schuld oder die Tilgung der tatsächlich begangenen Sünde bewirkt\. Bei Kindern aber besteht die Wirkung der Taufe darin, dass sie nur von der Ursünde gewaschen werden, die sie von Adam durch ihre erste Geburt auf sich gezogen haben\. Sollten sie sterben, bevor sie wiedergeboren werden, sind sie ohne Zweifel vom Reich Christi getrennt, wie unser Erlöser bezeugt: „Niemand kann in das Reich Gottes eingehen, wenn er nicht aus Wasser und Geist geboren wird[^bible-63cb7cd9-4f06-44a9-ab92-c92241020925]\.“ Deshalb werden Kinder getauft, indem ein anderer das Bekenntnis spricht, weil sie noch nicht wissen, zu sprechen oder zu glauben\.
-
-So verhält es sich auch bei Kranken, Stummen und Tauben, für die ein anderer das Bekenntnis spricht, um an ihrer Stelle zu antworten, während sie getauft werden\. Obwohl aber die Ursünde durch die Wiedergeburt vergeht, bleibt doch auch in denen, die die Taufe des Erlösers von der Schuld des Ursprungs reinigt, die Strafe des verhängten Todes bestehen, der durch die Übertretung eingetreten ist\. Dies ist deshalb so, damit man erkennt: Die Hoffnung auf die künftige Seligkeit folgt durch die Wiedergeburt, nicht aber, um jemanden von der Strafe des zeitlichen Todes zu lösen\. Dass es weder Privatpersonen noch Klerikern erlaubt ist zu taufen, sondern nur Priestern, lesen wir im Evangelium als etwas, das allein den Aposteln gestattet wurde\. Denn nach der Auferstehung sagte Jesus zu ihnen: „Wie mich der Vater gesandt hat, so sende auch ich euch\.[^bible-6ce365cd-f568-4146-a44c-820f5f893e11]“ Nachdem er dies gesagt hatte, hauchte er sie an und sagte zu ihnen: „Empfangt den Heiligen Geist\. Wem ihr die Sünden vergebt, dem sind sie vergeben; wem ihr sie behaltet, dem sind sie behalten\.[^bible-c0d32b3b-ab24-424e-b059-5dfeac17e61f]“ Und an anderer Stelle: „Geht also hin und macht alle Völker zu Jüngern, indem ihr sie tauft auf den Namen des Vaters und des Sohnes und des Heiligen Geistes[^bible-61455673-ef1d-4bbc-a0be-a2e02cd319f7]\.“ Folglich bleibt es unverändert dabei, dass die Taufe nur von Priestern überliefert wird\. Diakonen ist es nicht erlaubt, diesen Dienst von sich aus ohne den Bischof oder einen Presbyter zu vollziehen, es sei denn, diese sind weit entfernt abwesend und die äußerste Not einer Krankheit verlangt es\. Auch gläubigen Laien wird das Taufen oft erlaubt, damit niemand ohne dieses heilbringende Heilmittel aus der Welt gerufen wird\. Auch Häretiker, sofern jedoch gelehrt wurde, dass sie die Taufe im Bekenntnis zum Vater und zum Sohn und zum Heiligen Geist empfangen haben, sind nicht nochmals zu taufen, sondern nur durch Chrisam und Handauflegung zu reinigen\. Die Taufe ist nicht die eines Menschen, sondern die Christi; darum ist es ohne Belang, ob ein Häretiker oder ein Gläubiger tauft\. Das Sakrament ist so heilig, dass es nicht befleckt wird, wenn ein Mörder es spendet\. Gewiss hat ein Häretiker die Taufe Christi; weil er aber außerhalb der Einheit des Glaubens steht, bewirkt sie für ihn nichts\. Wenn er aber wieder hineingekommen ist, beginnt sogleich die Taufe, die er draußen zu seinem Verderben hatte, nun in ihm zum Heil zu wirken\. Dass er sie empfangen hat, billige ich; dass er sie außerhalb der Einheit des Glaubens empfangen hat, missbillige ich\. Wenn er aber wieder hineinkommt, wird er nicht verändert, sondern anerkannt\. Da das Prägemal von meinem König stammt, werde ich kein Sakrileg begehen\. Den Überläufer weise ich zurecht; das Prägemal verändere ich nicht\.
+So verhält es sich auch bei Kranken,
+Stummen und Tauben,
+für die ein anderer das Bekenntnis spricht,
+um an ihrer Stelle zu antworten,
+während sie getauft werden\.
+Obwohl aber die Ursünde durch die Wiedergeburt vergeht,
+bleibt doch auch in denen,
+die die Taufe des Erlösers von der Schuld des Ursprungs reinigt,
+die Strafe des verhängten Todes bestehen,
+der durch die Übertretung eingetreten ist\.
+Dies ist deshalb so,
+damit man erkennt:
+Die Hoffnung auf die künftige Seligkeit folgt durch die Wiedergeburt,
+nicht aber,
+um jemanden von der Strafe des zeitlichen Todes zu lösen\.
+Dass es weder Privatpersonen noch Klerikern erlaubt ist zu taufen,
+sondern nur Priestern,
+lesen wir im Evangelium als etwas,
+das allein den Aposteln gestattet wurde\.
+Denn nach der Auferstehung sagte Jesus zu ihnen:
+„Wie mich der Vater gesandt hat,
+so sende auch ich euch\.[^bible-6ce365cd-f568-4146-a44c-820f5f893e11]“ Nachdem er dies gesagt hatte,
+hauchte er sie an und sagte zu ihnen:
+„Empfangt den Heiligen Geist\.
+Wem ihr die Sünden vergebt,
+dem sind sie vergeben;
+wem ihr sie behaltet,
+dem sind sie behalten\.[^bible-c0d32b3b-ab24-424e-b059-5dfeac17e61f]“ Und an anderer Stelle:
+„Geht also hin und macht alle Völker zu Jüngern,
+indem ihr sie tauft auf den Namen des Vaters und des Sohnes und des Heiligen Geistes[^bible-61455673-ef1d-4bbc-a0be-a2e02cd319f7]\.“
+Folglich bleibt es unverändert dabei,
+dass die Taufe nur von Priestern überliefert wird\.
+Diakonen ist es nicht erlaubt,
+diesen Dienst von sich aus ohne den Bischof oder einen Presbyter zu vollziehen,
+es sei denn,
+diese sind weit entfernt abwesend und die äußerste Not einer Krankheit verlangt es\.
+Auch gläubigen Laien wird das Taufen oft erlaubt,
+damit niemand ohne dieses heilbringende Heilmittel aus der Welt gerufen wird\.
+Auch Häretiker,
+sofern jedoch gelehrt wurde,
+dass sie die Taufe im Bekenntnis zum Vater und zum Sohn und zum Heiligen Geist empfangen haben,
+sind nicht nochmals zu taufen,
+sondern nur durch Chrisam und Handauflegung zu reinigen\.
+Die Taufe ist nicht die eines Menschen,
+sondern die Christi;
+darum ist es ohne Belang,
+ob ein Häretiker oder ein Gläubiger tauft\.
+Das Sakrament ist so heilig,
+dass es nicht befleckt wird,
+wenn ein Mörder es spendet\.
+Gewiss hat ein Häretiker die Taufe Christi;
+weil er aber außerhalb der Einheit des Glaubens steht,
+bewirkt sie für ihn nichts\.
+Wenn er aber wieder hineingekommen ist,
+beginnt sogleich die Taufe,
+die er draußen zu seinem Verderben hatte,
+nun in ihm zum Heil zu wirken\.
+Dass er sie empfangen hat,
+billige ich;
+dass er sie außerhalb der Einheit des Glaubens empfangen hat,
+missbillige ich\.
+Wenn er aber wieder hineinkommt,
+wird er nicht verändert,
+sondern anerkannt\.
+Da das Prägemal von meinem König stammt,
+werde ich kein Sakrileg begehen\.
+Den Überläufer weise ich zurecht;
+das Prägemal verändere ich nicht\.
 
 ## Bibelverweise
 

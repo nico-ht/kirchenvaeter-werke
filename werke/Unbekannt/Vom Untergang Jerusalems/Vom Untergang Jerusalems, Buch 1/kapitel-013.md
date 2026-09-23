@@ -7,6 +7,70 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-1#kapitel-a886ddaf-f999-477a-c84a-08dd5a4d0198).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a5963b2b8a0e337c8c8b23aa03a117b2f17fe2499ed7f3c28c5b812c3651b56a`
-
-Zur selben Zeit geschah es, dass der junge Mann nach Damaskus entsandt wurde, weil Ptolomaeus die Bewohner dieser berühmten Stadt durch häufige Überfälle zermürbte und die Schwierigkeit dieses Unternehmens eine starke militärische Truppe aus dem Heer Alexandras erforderte\. Auch Tigranes, der über Armenien herrschte, hatte Kleopatra durch eine Belagerung in der Stadt eingeschlossen, die den Namen Ptolomais trägt\. Alexandra besänftigte ihn mit Bestechungsgaben, damit er von ihr ablassen sollte\. Lucullus griff ihn an und zwang ihn, ohne dass er seine Ziele erreicht hatte, in das Land der Armenier zurückzukehren; denn jener hielt es für klüger, für sein eigenes Land zu sorgen, als das anderer an sich zu bringen\. Durch so große Aufgaben erschöpft, verfiel Alexandra in Krankheit\. Diese Gelegenheit nutzte Aristobolus zu seinem Vorteil: Er sammelte eine Schar um sich, Männer, die mit ihm verschworen waren und die ihre hitzige Natur mit ihm zum Wagnis jedes plötzlichen Unternehmens verbunden hatte, weil sie dasselbe wollten\. Er bemächtigte sich der Schatzhäuser, warb mit ihren Mitteln Freiwillige zum Kriegsdienst an, verpflichtete sie gegen Sold, in allem, was er wollte, treu bleiben zu sollen, und legte die königlichen Herrschaftszeichen an\. Hyrcanus geriet in Verwirrung und kam unter Tränen zu seiner Mutter\. Sie aber, von grimmiger Entschlossenheit erfüllt, ließ die Söhne und die Frau des Aristobolus in der Festung einschließen, die zuerst Baris, später aber Antonia genannt wurde und die wir schon früher erwähnt haben\. Alexandras Unternehmungen fanden durch ihren frühen Tod ein Ende\. Hyrcanus trat das ganze Erbe an, er, dem seine Mutter noch zu ihren Lebzeiten das Priesteramt übertragen hatte\. Aristobolus jedoch übertraf ihn an Tapferkeit und Klugheit, und so kam es schließlich zu Streit und Kampf\. Als dieser beigelegt war, folgten die meisten, nachdem sie Hyrcanus verlassen hatten, Aristobolus, weil er im Krieg der bessere war\. Hyrcanus floh mit denen, die bei ihm geblieben waren und noch am Kampf teilnahmen, in die Antonia; dort fand er Sicherheit durch Geiseln, nachdem man die Söhne und die Frau des Aristobolus entdeckt hatte, denn Aristobolus entschied sich für eine Vereinbarung, damit seiner Familie nichts Hartes widerfahre\. Die Vereinbarung der Brüder war folgender Art: Hyrcanus sollte auf die Königsherrschaft verzichten, und das ganze Recht zu herrschen sollte auf Aristobolus übergehen; Aristobolus aber werde Hyrcanus nicht ohne Ehrenstellung lassen, sondern ihm, ohne Anteil an der Königsherrschaft, gestatten, sich anderer Ehren zu erfreuen, die Aristobolus selbst ihm verliehen hatte\. Eine Vereinbarung dieser Art fand die freiwillige Zustimmung beider, bekräftigt durch die heilige Ehrfurcht vor dem Tempel\. So schieden sie in Gunst und gegenseitigem Wohlwollen voneinander; Aristobolus begab sich in den Königshof, Hyrcanus aber zog gelassen in das Haus des Aristobolus\.
+Zur selben Zeit geschah es,
+dass der junge Mann nach Damaskus entsandt wurde,
+weil Ptolomaeus die Bewohner dieser berühmten Stadt durch häufige Überfälle zermürbte und die Schwierigkeit dieses Unternehmens eine starke militärische Truppe aus dem Heer Alexandras erforderte\.
+Auch Tigranes,
+der über Armenien herrschte,
+hatte Kleopatra durch eine Belagerung in der Stadt eingeschlossen,
+die den Namen Ptolomais trägt\.
+Alexandra besänftigte ihn mit Bestechungsgaben,
+damit er von ihr ablassen sollte\.
+Lucullus griff ihn an und zwang ihn,
+ohne dass er seine Ziele erreicht hatte,
+in das Land der Armenier zurückzukehren;
+denn jener hielt es für klüger,
+für sein eigenes Land zu sorgen,
+als das anderer an sich zu bringen\.
+Durch so große Aufgaben erschöpft,
+verfiel Alexandra in Krankheit\.
+Diese Gelegenheit nutzte Aristobolus zu seinem Vorteil:
+Er sammelte eine Schar um sich,
+Männer,
+die mit ihm verschworen waren und die ihre hitzige Natur mit ihm zum Wagnis jedes plötzlichen Unternehmens verbunden hatte,
+weil sie dasselbe wollten\.
+Er bemächtigte sich der Schatzhäuser,
+warb mit ihren Mitteln Freiwillige zum Kriegsdienst an,
+verpflichtete sie gegen Sold,
+in allem,
+was er wollte,
+treu bleiben zu sollen,
+und legte die königlichen Herrschaftszeichen an\.
+Hyrcanus geriet in Verwirrung und kam unter Tränen zu seiner Mutter\.
+Sie aber,
+von grimmiger Entschlossenheit erfüllt,
+ließ die Söhne und die Frau des Aristobolus in der Festung einschließen,
+die zuerst Baris,
+später aber Antonia genannt wurde und die wir schon früher erwähnt haben\.
+Alexandras Unternehmungen fanden durch ihren frühen Tod ein Ende\.
+Hyrcanus trat das ganze Erbe an,
+er,
+dem seine Mutter noch zu ihren Lebzeiten das Priesteramt übertragen hatte\.
+Aristobolus jedoch übertraf ihn an Tapferkeit und Klugheit,
+und so kam es schließlich zu Streit und Kampf\.
+Als dieser beigelegt war,
+folgten die meisten,
+nachdem sie Hyrcanus verlassen hatten,
+Aristobolus,
+weil er im Krieg der bessere war\.
+Hyrcanus floh mit denen,
+die bei ihm geblieben waren und noch am Kampf teilnahmen,
+in die Antonia;
+dort fand er Sicherheit durch Geiseln,
+nachdem man die Söhne und die Frau des Aristobolus entdeckt hatte,
+denn Aristobolus entschied sich für eine Vereinbarung,
+damit seiner Familie nichts Hartes widerfahre\.
+Die Vereinbarung der Brüder war folgender Art:
+Hyrcanus sollte auf die Königsherrschaft verzichten,
+und das ganze Recht zu herrschen sollte auf Aristobolus übergehen;
+Aristobolus aber werde Hyrcanus nicht ohne Ehrenstellung lassen,
+sondern ihm,
+ohne Anteil an der Königsherrschaft,
+gestatten,
+sich anderer Ehren zu erfreuen,
+die Aristobolus selbst ihm verliehen hatte\.
+Eine Vereinbarung dieser Art fand die freiwillige Zustimmung beider,
+bekräftigt durch die heilige Ehrfurcht vor dem Tempel\.
+So schieden sie in Gunst und gegenseitigem Wohlwollen voneinander;
+Aristobolus begab sich in den Königshof,
+Hyrcanus aber zog gelassen in das Haus des Aristobolus\.

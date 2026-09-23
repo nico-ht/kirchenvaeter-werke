@@ -7,9 +7,45 @@ Autor: Isidor von Sevilla
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/isidor-von-sevilla/de-ecclesiastics-officiis-buch-2#kapitel-eb062157-ba0f-4625-1422-08ded5491050).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e48af0efb00a3c4acd38b19ad5d6aa424a0100dbf3e061c3f1f07e3498f44496`
-
-In der Ordnung und im Dienst der Kirche gibt es Exorzisten entsprechend den Ämtern, die im Tempel Salomos eingerichtet und später vom heiligsten Esra dort eingesetzt wurden\. Wir erkennen, dass diejenigen, die Esra als Diener des Tempels nennt, heute jene sind, die in der Kirche Gottes Exorzisten sind\. Denn die Diener des Tempels unter Esra waren die Söhne der Knechte Salomos; sie hatten das Werk des Tempels ganz unter ihrer Obhut und dienten nicht nur bei den Ämtern der Priester, sondern versahen auch hingebungsvoll den Dienst an den heiligen Opfergaben\. Und weil sie zu Ordnung und Dienst des Tempels gehörten, standen sie dem Dienst am Altar Gottes fern; denn es war den Psalmisten, den Torhütern oder den Dienern der heiligen Dinge nicht erlaubt, die Gaben des Altars zu berühren, sondern allein den Leviten\. Und warum war das so? Die Diener des Tempels hatten keine andere Sorge, als die Dächer in gutem Zustand zu halten, damit alles, was am Bau des Tempels erschüttert worden oder eingestürzt war, durch diese Diener aus der Schatzkammer des Herrn instand gesetzt und ausgebessert wurde\. Deshalb sind die Diener des Tempels unter dem Volk Gottes die Exorzisten\. Denn wie der umsichtige und gute Verwalter weiß, was das Eigentum seines Herrn und die ganze Art seiner Habe ist, und ihm die ursprünglichen Verzeichnisse seines gesamten Besitzes vorlegt, so ruft auch der Exorzist in seiner Sorgfalt die Geheimnisse des Reiches des Herrn vollständig ins Gedächtnis, damit er sich aus den Sakramenten der Schriften dem Gedächtnis einprägt, woraus er die Gabe ausübt, die ihm vom Heiligen Geist nach der Verkündigung des Apostels gegeben ist\. Denn der Apostel hatte die Exorzisten im Sinn, als er sagte: „Haben alle Gnadengaben der Heilungen?[^bible-ac2760e0-8b74-4875-be44-c8891f887756]“ Denn wenn die Exorzisten geweiht werden, empfangen sie, wie der Kanon sagt, aus der Hand des Bischofs das Buch, in dem die Exorzismen geschrieben stehen, und erhalten die Vollmacht, den vom Teufel Besessenen oder den Katechumenen die Hände aufzulegen\.
+In der Ordnung und im Dienst der Kirche gibt es Exorzisten entsprechend den Ämtern,
+die im Tempel Salomos eingerichtet und später vom heiligsten Esra dort eingesetzt wurden\.
+Wir erkennen,
+dass diejenigen,
+die Esra als Diener des Tempels nennt,
+heute jene sind,
+die in der Kirche Gottes Exorzisten sind\.
+Denn die Diener des Tempels unter Esra waren die Söhne der Knechte Salomos;
+sie hatten das Werk des Tempels ganz unter ihrer Obhut und dienten nicht nur bei den Ämtern der Priester,
+sondern versahen auch hingebungsvoll den Dienst an den heiligen Opfergaben\.
+Und weil sie zu Ordnung und Dienst des Tempels gehörten,
+standen sie dem Dienst am Altar Gottes fern;
+denn es war den Psalmisten,
+den Torhütern oder den Dienern der heiligen Dinge nicht erlaubt,
+die Gaben des Altars zu berühren,
+sondern allein den Leviten\.
+Und warum war das so?
+Die Diener des Tempels hatten keine andere Sorge,
+als die Dächer in gutem Zustand zu halten,
+damit alles,
+was am Bau des Tempels erschüttert worden oder eingestürzt war,
+durch diese Diener aus der Schatzkammer des Herrn instand gesetzt und ausgebessert wurde\.
+Deshalb sind die Diener des Tempels unter dem Volk Gottes die Exorzisten\.
+Denn wie der umsichtige und gute Verwalter weiß,
+was das Eigentum seines Herrn und die ganze Art seiner Habe ist,
+und ihm die ursprünglichen Verzeichnisse seines gesamten Besitzes vorlegt,
+so ruft auch der Exorzist in seiner Sorgfalt die Geheimnisse des Reiches des Herrn vollständig ins Gedächtnis,
+damit er sich aus den Sakramenten der Schriften dem Gedächtnis einprägt,
+woraus er die Gabe ausübt,
+die ihm vom Heiligen Geist nach der Verkündigung des Apostels gegeben ist\.
+Denn der Apostel hatte die Exorzisten im Sinn,
+als er sagte:
+„Haben alle Gnadengaben der Heilungen?[^bible-ac2760e0-8b74-4875-be44-c8891f887756]“ Denn wenn die Exorzisten geweiht werden,
+empfangen sie,
+wie der Kanon sagt,
+aus der Hand des Bischofs das Buch,
+in dem die Exorzismen geschrieben stehen,
+und erhalten die Vollmacht,
+den vom Teufel Besessenen oder den Katechumenen die Hände aufzulegen\.
 
 ## Bibelverweise
 

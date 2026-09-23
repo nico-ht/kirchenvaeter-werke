@@ -7,11 +7,174 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-die-unklarheit-der-prophezeiungen#kapitel-68c67cb8-2185-4011-73c4-08df05e0ddd9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:42a6db7d77d45216e9c398029e2f44fbed2297a78624861e458a809469611f83`
+Da also das Alte Testament das Leiden,
+die Auferstehung,
+die Himmelfahrt,
+das Sitzen zur Rechten,
+seine Wiederkunft und überhaupt alles vorausgesagt hat,
+was im Neuen Testament steht,
+fügte es die Gnade Gottes so,
+dass die Schriften vor dem Kommen Christi übersetzt wurden\.
+All dies sollte den Völkern,
+die später leben würden,
+nicht unbekannt bleiben und ihnen die Kraft der Weissagung nicht unbekannt sein\.
+Damit machte die Gnade Gottes die Schriften nicht nur den Menschen aus den Völkern zugänglich,
+sondern auch den Juden,
+die über die ganze bewohnte Erde verstreut waren und schließlich die hebräische Sprache verloren hatten\.
+Denn sieh:
+Der Mensch aus den Völkern kam zum Glauben und sah dabei die Zeichen der Juden\.
+Wie hätten nun die Apostel den Juden gewinnen können,
+wenn sie ihm nicht aus seinem eigenen Volk den Propheten als Lehrer zur Seite gestellt hätten?
+Als Paulus nach Athen kam,
+bedurfte er einer Inschrift,
+die in einen Altar eingemeißelt war,
+und nahm sie zum Ausgangspunkt seiner Unterweisung an die Athener,
+weil er hoffte,
+sie mit ihren eigenen Waffen leichter zu gewinnen\.
+Und so geschah es auch\.
+Um wie viel mehr bedurfte er im Gespräch mit Juden des Beistands der Propheten,
+damit nicht auch die Juden ihm vorwerfen konnten,
+er trage ihnen etwas Neues und Befremdliches zu Ohren\.
+„Warum“,
+fragt jemand,
+„gab es nicht nur eine Sprache,
+sodass wir von der ganzen Schwierigkeit verschont geblieben wären?“
+Einst gab es nur eine Sprache,
+o Mensch;
+wie alle Menschen eine Natur hatten,
+so hatten sie auch alle eine Sprache\.
+Von Anfang an gab es keine verschiedenen Sprachen und keine verschiedenen Stimmen;
+es gab weder Inder noch Thraker noch Skythen,
+sondern alle verständigten sich in einer einzigen Sprache\.
+„Was war dann die Ursache dafür?“,
+fragt er\.
+Wir selbst haben uns dieser einen Sprache als unwürdig erwiesen,
+wir,
+die wir unserem Wohltäter gegenüber stets undankbar sind\.
+Was sagst du?
+Wir haben uns einer Sprache als unwürdig erwiesen?
+Alle vernunftlosen Tiere haben doch ihre eigene Stimme:
+Schafe blöken,
+Ziegen meckern,
+der Stier muht,
+das Pferd wiehert,
+der Löwe brüllt,
+der Wolf heult und die Drachenschlange zischt\.
+Jedes vernunftlose Tier hat seinen eigenen Laut bewahrt,
+und nur ich bin meiner eigenen Sprache beraubt worden?
+Wilde und zahme,
+an Menschen gewöhnte und ungezähmte Tiere haben alle die Stimme behalten,
+die ihnen von Anfang an zugeteilt war\.
+Nur ich,
+der über sie herrscht,
+bin entehrt worden?
+Ihnen bleibt ihre Ehrenstellung ungeschmälert,
+ich aber habe die Gaben Gottes verloren?
+Was habe ich denn so Schlimmes verbrochen?
+Genügten die früheren Strafen nicht?
+Er gab mir das Paradies und vertrieb mich aus dem Paradies\.[^bible-0865457d-45aa-441f-ae7f-c41e180ebb2d]
+Ich führte ein müheloses,
+von jeder Anstrengung freies Leben,
+doch er verurteilte mich zu Schweiß und Mühsal\.
+Die Erde bot mir alles dar,
+ohne dass ich gesät oder gepflügt hatte;
+dann befahl er ihr,
+Dornen und Disteln hervorzubringen,
+und ließ mich wieder zu ihr zurückkehren\.[^bible-798d6bc8-0391-4e55-ba8c-087d334d7ff3]
+Er bestrafte mich mit dem Tod\.[^bible-3b7f335a-8e6a-4094-9c48-3b4555f22d7e]
+Das Geschlecht der Frauen bestrafte er,
+indem er es Geburtswehen und Schmerzen unterwarf\.[^bible-8952831c-c213-444f-ae26-53f9d5a6d5ce]
 
-Da also das Alte Testament das Leiden, die Auferstehung, die Himmelfahrt, das Sitzen zur Rechten, seine Wiederkunft und überhaupt alles vorausgesagt hat, was im Neuen Testament steht, fügte es die Gnade Gottes so, dass die Schriften vor dem Kommen Christi übersetzt wurden\. All dies sollte den Völkern, die später leben würden, nicht unbekannt bleiben und ihnen die Kraft der Weissagung nicht unbekannt sein\. Damit machte die Gnade Gottes die Schriften nicht nur den Menschen aus den Völkern zugänglich, sondern auch den Juden, die über die ganze bewohnte Erde verstreut waren und schließlich die hebräische Sprache verloren hatten\. Denn sieh: Der Mensch aus den Völkern kam zum Glauben und sah dabei die Zeichen der Juden\. Wie hätten nun die Apostel den Juden gewinnen können, wenn sie ihm nicht aus seinem eigenen Volk den Propheten als Lehrer zur Seite gestellt hätten? Als Paulus nach Athen kam, bedurfte er einer Inschrift, die in einen Altar eingemeißelt war, und nahm sie zum Ausgangspunkt seiner Unterweisung an die Athener, weil er hoffte, sie mit ihren eigenen Waffen leichter zu gewinnen\. Und so geschah es auch\. Um wie viel mehr bedurfte er im Gespräch mit Juden des Beistands der Propheten, damit nicht auch die Juden ihm vorwerfen konnten, er trage ihnen etwas Neues und Befremdliches zu Ohren\. „Warum“, fragt jemand, „gab es nicht nur eine Sprache, sodass wir von der ganzen Schwierigkeit verschont geblieben wären?“ Einst gab es nur eine Sprache, o Mensch; wie alle Menschen eine Natur hatten, so hatten sie auch alle eine Sprache\. Von Anfang an gab es keine verschiedenen Sprachen und keine verschiedenen Stimmen; es gab weder Inder noch Thraker noch Skythen, sondern alle verständigten sich in einer einzigen Sprache\. „Was war dann die Ursache dafür?“, fragt er\. Wir selbst haben uns dieser einen Sprache als unwürdig erwiesen, wir, die wir unserem Wohltäter gegenüber stets undankbar sind\. Was sagst du? Wir haben uns einer Sprache als unwürdig erwiesen? Alle vernunftlosen Tiere haben doch ihre eigene Stimme: Schafe blöken, Ziegen meckern, der Stier muht, das Pferd wiehert, der Löwe brüllt, der Wolf heult und die Drachenschlange zischt\. Jedes vernunftlose Tier hat seinen eigenen Laut bewahrt, und nur ich bin meiner eigenen Sprache beraubt worden? Wilde und zahme, an Menschen gewöhnte und ungezähmte Tiere haben alle die Stimme behalten, die ihnen von Anfang an zugeteilt war\. Nur ich, der über sie herrscht, bin entehrt worden? Ihnen bleibt ihre Ehrenstellung ungeschmälert, ich aber habe die Gaben Gottes verloren? Was habe ich denn so Schlimmes verbrochen? Genügten die früheren Strafen nicht? Er gab mir das Paradies und vertrieb mich aus dem Paradies\.[^bible-0865457d-45aa-441f-ae7f-c41e180ebb2d] Ich führte ein müheloses, von jeder Anstrengung freies Leben, doch er verurteilte mich zu Schweiß und Mühsal\. Die Erde bot mir alles dar, ohne dass ich gesät oder gepflügt hatte; dann befahl er ihr, Dornen und Disteln hervorzubringen, und ließ mich wieder zu ihr zurückkehren\.[^bible-798d6bc8-0391-4e55-ba8c-087d334d7ff3] Er bestrafte mich mit dem Tod\.[^bible-3b7f335a-8e6a-4094-9c48-3b4555f22d7e] Das Geschlecht der Frauen bestrafte er, indem er es Geburtswehen und Schmerzen unterwarf\.[^bible-8952831c-c213-444f-ae26-53f9d5a6d5ce]
-
-Genügte all das nicht als Strafe? Musste er mich auch noch meiner Stimme und damit dieser Ehre berauben, sodass ich Menschen gleicher Natur und gleicher Abstammung wie wilde Tiere meide, weil der Verlust der Stimme mich vom Umgang mit ihnen abschneidet? Deshalb habe ich den Einwand so zugespitzt, damit der Sieg umso glänzender wird, wenn ich die Lösung vorbringe\. „Wenn er mich all dessen berauben wollte“, sagt er, „warum gab er es mir dann von Anfang an?“ Soll ich die Lösung aus eben diesem Einwand selbst gewinnen, aus dem bloßen Widerspruch? Denn die Gründe, die für Gott sprechen, sind so überreich, dass schon der Einwand des Widersprechenden allein, ohne jede Ergänzung von unserer Seite, genügt, um die Anschuldigungen zu entkräften\. „Wenn er mich all dessen berauben wollte, warum gab er es mir dann von Anfang an?“ Genau das sage auch ich: Wenn er dich all dessen berauben wollte, warum gab er es dir dann? Weil er dich also nicht berauben wollte, gab er dir all das von Anfang an\. Was ist nun geschehen? Nicht Gott hat es dir genommen, sondern du selbst hast das Geschenk verloren\. Bewundere ihn für seine Menschenliebe, weil er es dir schenkte; tadle dich selbst für deine Nachlässigkeit, weil du das Geschenk nicht bewahrt hast\. Es ist also klar: Nicht derjenige, der das Gut anvertraut hat, trägt die Schuld; vielmehr ist derjenige, der das anvertraute Gut preisgab, für die Anschuldigungen verantwortlich\. Dass er dich liebte, menschenfreundlich war und dir schenken wollte, hat er dadurch gezeigt, dass niemand ihn zwang oder ihm Gewalt antat, dass er nicht etwa deine guten Taten bewunderte und dir auch keinen Lohn für Mühen zu erstatten hatte\. Vielmehr erschuf er dich sogleich und erhob dich sogleich zu dieser Herrschaft\. So zeigte er, dass die Gabe keine Gegenleistung als Lohn, sondern unverdiente Gnade war\. Wenn du aber das Geschenk nicht bewahrt hast, gib dir selbst die Schuld, nicht dem, der es dir schenkte\. Ist das nun alles, was wir zur Verteidigung des Herrn sagen können? Gewiss genügt schon diese Verteidigung\. Doch seine unendliche Güte und seine unaussprechliche Menschenliebe schenken uns noch eine Fülle weiterer Gründe\. Denn wir können nicht nur sagen: Er hat gegeben, du aber hast verloren\. Schon damit ist der Geber von allen Anschuldigungen frei\. Mehr noch: Er verdient höchste Bewunderung, weil er dir die Gabe nicht vorenthielt, obwohl er im Voraus wusste, dass du sie verlieren würdest\. Doch ich kann noch etwas sagen, das all dies weit übertrifft\. Was ist das? Nachdem du das Geschenk aus eigener Nachlässigkeit verloren hattest, gab er dir das Verlorene zurück, und nicht nur das Verlorene, sondern weit Größeres\. Du hast das Paradies verloren, er aber gab dir den Himmel\. Siehst du, wie sehr der Gewinn den Verlust übersteigt, wie viel größer der Reichtum ist? Er gab dir den Himmel, um seine Menschenliebe zu erweisen und dem Teufel einen empfindlichen Stich zu versetzen\. Damit zeigte er: Mag der Teufel auch unzählige Anschläge gegen das Menschengeschlecht unternehmen, er wird dadurch nichts gewinnen, denn Gott führt uns stets zu noch größerer Ehre empor\. Du hast also das Paradies verloren, und Gott öffnete dir den Himmel\. Du wurdest zu zeitlich begrenzter Mühsal verurteilt und mit ewigem Leben geehrt\. Er befahl der Erde, Dornen und Disteln hervorzubringen[^bible-f2da99b8-a9d5-406a-b588-e02d40427dc1]; in deiner Seele aber spross für dich Frucht des Geistes hervor[^bible-36a9b4b2-eade-4bae-8b40-f732919d6a91]\.
+Genügte all das nicht als Strafe?
+Musste er mich auch noch meiner Stimme und damit dieser Ehre berauben,
+sodass ich Menschen gleicher Natur und gleicher Abstammung wie wilde Tiere meide,
+weil der Verlust der Stimme mich vom Umgang mit ihnen abschneidet?
+Deshalb habe ich den Einwand so zugespitzt,
+damit der Sieg umso glänzender wird,
+wenn ich die Lösung vorbringe\.
+„Wenn er mich all dessen berauben wollte“,
+sagt er,
+„warum gab er es mir dann von Anfang an?“
+Soll ich die Lösung aus eben diesem Einwand selbst gewinnen,
+aus dem bloßen Widerspruch?
+Denn die Gründe,
+die für Gott sprechen,
+sind so überreich,
+dass schon der Einwand des Widersprechenden allein,
+ohne jede Ergänzung von unserer Seite,
+genügt,
+um die Anschuldigungen zu entkräften\.
+„Wenn er mich all dessen berauben wollte,
+warum gab er es mir dann von Anfang an?“
+Genau das sage auch ich:
+Wenn er dich all dessen berauben wollte,
+warum gab er es dir dann?
+Weil er dich also nicht berauben wollte,
+gab er dir all das von Anfang an\.
+Was ist nun geschehen?
+Nicht Gott hat es dir genommen,
+sondern du selbst hast das Geschenk verloren\.
+Bewundere ihn für seine Menschenliebe,
+weil er es dir schenkte;
+tadle dich selbst für deine Nachlässigkeit,
+weil du das Geschenk nicht bewahrt hast\.
+Es ist also klar:
+Nicht derjenige,
+der das Gut anvertraut hat,
+trägt die Schuld;
+vielmehr ist derjenige,
+der das anvertraute Gut preisgab,
+für die Anschuldigungen verantwortlich\.
+Dass er dich liebte,
+menschenfreundlich war und dir schenken wollte,
+hat er dadurch gezeigt,
+dass niemand ihn zwang oder ihm Gewalt antat,
+dass er nicht etwa deine guten Taten bewunderte und dir auch keinen Lohn für Mühen zu erstatten hatte\.
+Vielmehr erschuf er dich sogleich und erhob dich sogleich zu dieser Herrschaft\.
+So zeigte er,
+dass die Gabe keine Gegenleistung als Lohn,
+sondern unverdiente Gnade war\.
+Wenn du aber das Geschenk nicht bewahrt hast,
+gib dir selbst die Schuld,
+nicht dem,
+der es dir schenkte\.
+Ist das nun alles,
+was wir zur Verteidigung des Herrn sagen können?
+Gewiss genügt schon diese Verteidigung\.
+Doch seine unendliche Güte und seine unaussprechliche Menschenliebe schenken uns noch eine Fülle weiterer Gründe\.
+Denn wir können nicht nur sagen:
+Er hat gegeben,
+du aber hast verloren\.
+Schon damit ist der Geber von allen Anschuldigungen frei\.
+Mehr noch:
+Er verdient höchste Bewunderung,
+weil er dir die Gabe nicht vorenthielt,
+obwohl er im Voraus wusste,
+dass du sie verlieren würdest\.
+Doch ich kann noch etwas sagen,
+das all dies weit übertrifft\.
+Was ist das?
+Nachdem du das Geschenk aus eigener Nachlässigkeit verloren hattest,
+gab er dir das Verlorene zurück,
+und nicht nur das Verlorene,
+sondern weit Größeres\.
+Du hast das Paradies verloren,
+er aber gab dir den Himmel\.
+Siehst du,
+wie sehr der Gewinn den Verlust übersteigt,
+wie viel größer der Reichtum ist?
+Er gab dir den Himmel,
+um seine Menschenliebe zu erweisen und dem Teufel einen empfindlichen Stich zu versetzen\.
+Damit zeigte er:
+Mag der Teufel auch unzählige Anschläge gegen das Menschengeschlecht unternehmen,
+er wird dadurch nichts gewinnen,
+denn Gott führt uns stets zu noch größerer Ehre empor\.
+Du hast also das Paradies verloren,
+und Gott öffnete dir den Himmel\.
+Du wurdest zu zeitlich begrenzter Mühsal verurteilt und mit ewigem Leben geehrt\.
+Er befahl der Erde,
+Dornen und Disteln hervorzubringen[^bible-f2da99b8-a9d5-406a-b588-e02d40427dc1];
+in deiner Seele aber spross für dich Frucht des Geistes hervor[^bible-36a9b4b2-eade-4bae-8b40-f732919d6a91]\.
 
 ## Bibelverweise
 

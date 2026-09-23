@@ -7,9 +7,104 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/4-homilie-ueber-matthaeus#kapitel-5ec178d6-fed8-4d67-5a23-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:bcfd4614867f916574639d5a4f3c85ea4123971526c79e0d55eb2972d48e6ae8`
-
-Weil er also gerecht war, das heißt gütig und milde, wollte er sie heimlich entlassen\. Darum berichtet er, was vor der Erkenntnis geschah, damit du nicht an dem zweifelst, was nach der Erkenntnis geschah\. Und doch hätte eine solche Frau nicht nur öffentlicher Schande unterlegen, sondern das Gesetz befahl sogar, sie zu bestrafen\. Josef aber erließ ihr nicht nur jenes Größere, sondern auch das Geringere: die Schande\. Denn er wollte sie nicht nur nicht bestrafen, sondern sie nicht einmal öffentlich bloßstellen\. Siehst du, was für ein besonnener Mann das war, frei von der tyrannischsten aller Leidenschaften? Ihr wisst ja, wie stark Eifersucht ist\. Darum sagte auch der, der dies genau kannte: „Denn voll Eifersucht ist der Zorn eines Mannes; er wird am Tag des Gerichts nicht schonen\.[^bible-563ccbac-4598-4da8-951c-760d835b1b8c]“ Und: „Hart wie der Hades ist die Eifersucht\.[^bible-c671dace-22b1-4172-8a83-91404643b11b]“ Auch wir kennen viele, die lieber ihr Leben hingegeben hätten, als in den Verdacht der Eifersucht zu geraten\. Hier aber war es nicht einmal mehr ein Verdacht, da die Wölbung des Leibes den Sachverhalt offen bewies\. Dennoch war er so frei von Leidenschaft, dass er die Jungfrau nicht einmal im Geringsten betrüben wollte\. Denn sie im Haus zu behalten schien gesetzwidrig zu sein; sie aber hinauszuführen und vor Gericht zu bringen, hätte ihn gezwungen, sie dem Tod auszuliefern\. Nichts davon tut er, sondern er handelt schon über das Gesetz hinaus\. Denn als die Gnade erschienen war, mussten fortan viele Zeichen einer erhabenen Lebensführung sichtbar werden\. Wie nämlich die Sonne, noch bevor sie ihre Strahlen zeigt, schon aus der Ferne den größten Teil der Welt mit ihrem Licht übergießt, so hat auch Christus, der aus jenem Mutterschoß aufgehen sollte, noch bevor er hervortrat, die ganze Welt erleuchtet\. Darum sprangen schon vor den Wehen Propheten vor Freude auf, Frauen sagten das Kommende voraus, und Johannes, noch ehe er aus dem Leib hervorgekommen war, hüpfte schon im Mutterleib\. Daher zeigte auch Josef große Besonnenheit: Er klagte sie nicht an, machte ihr keine Vorwürfe, sondern versuchte nur, sie fortzuschicken\. Als die Dinge nun so standen und alle ratlos waren, erscheint der Engel und löst alle Schwierigkeiten\. Es lohnt sich aber zu fragen, warum der Engel nicht vorher gesprochen hat, bevor der Mann dies erwog, sondern erst dann kommt, als er es bei sich überlegte\. Denn es heißt: „Als er dies aber erwogen hatte, kommt der Engel\.[^bible-b134d3d5-abcf-440d-97e0-d0a4876fda64]“ Und doch verkündigt er ihr die Botschaft schon vor der Empfängnis, was wiederum eine andere Schwierigkeit enthält\. Denn wenn auch der Engel es nicht sagte: Warum schwieg die Jungfrau, nachdem sie es vom Engel gehört hatte, und warum löste sie nicht die Ratlosigkeit ihres Verlobten, als sie sah, wie er in Unruhe geriet? Warum also sagte der Engel es ihm nicht, bevor er in Unruhe geriet? Denn zuerst müssen wir das frühere Problem lösen\. Warum also sagte er es nicht? Damit Josef nicht ungläubig würde und dasselbe erlitte wie Zacharias\. Denn wenn die Sache sichtbar vor Augen stand, war der Glaube fortan leicht; solange sie aber noch keinen Anfang genommen hatte, war das Gesagte nicht ebenso leicht anzunehmen\. Darum sprach der Engel nicht von Anfang an; und aus demselben Grund schwieg auch die Jungfrau\. Denn sie glaubte nicht, dass ihr Verlobter ihr glauben würde, wenn sie ihm eine so fremdartige Sache berichtete\. Vielmehr meinte sie, ihn noch mehr zu reizen, als wollte sie eine geschehene Sünde verdecken\. Wenn nämlich sie selbst, die eine so große Gnade empfangen sollte, etwas Menschliches durchmacht und sagt: „Wie wird dies sein, da ich keinen Mann erkenne?[^bible-1762269d-bc22-4480-89fc-27ff7fef45ff]“, dann hätte er erst recht gezweifelt, zumal wenn er es von einer Frau hörte, die unter Verdacht stand\.
+Weil er also gerecht war,
+das heißt gütig und milde,
+wollte er sie heimlich entlassen\.
+Darum berichtet er,
+was vor der Erkenntnis geschah,
+damit du nicht an dem zweifelst,
+was nach der Erkenntnis geschah\.
+Und doch hätte eine solche Frau nicht nur öffentlicher Schande unterlegen,
+sondern das Gesetz befahl sogar,
+sie zu bestrafen\.
+Josef aber erließ ihr nicht nur jenes Größere,
+sondern auch das Geringere:
+die Schande\.
+Denn er wollte sie nicht nur nicht bestrafen,
+sondern sie nicht einmal öffentlich bloßstellen\.
+Siehst du,
+was für ein besonnener Mann das war,
+frei von der tyrannischsten aller Leidenschaften?
+Ihr wisst ja,
+wie stark Eifersucht ist\.
+Darum sagte auch der,
+der dies genau kannte:
+„Denn voll Eifersucht ist der Zorn eines Mannes;
+er wird am Tag des Gerichts nicht schonen\.[^bible-563ccbac-4598-4da8-951c-760d835b1b8c]“ Und:
+„Hart wie der Hades ist die Eifersucht\.[^bible-c671dace-22b1-4172-8a83-91404643b11b]“ Auch wir kennen viele,
+die lieber ihr Leben hingegeben hätten,
+als in den Verdacht der Eifersucht zu geraten\.
+Hier aber war es nicht einmal mehr ein Verdacht,
+da die Wölbung des Leibes den Sachverhalt offen bewies\.
+Dennoch war er so frei von Leidenschaft,
+dass er die Jungfrau nicht einmal im Geringsten betrüben wollte\.
+Denn sie im Haus zu behalten schien gesetzwidrig zu sein;
+sie aber hinauszuführen und vor Gericht zu bringen,
+hätte ihn gezwungen,
+sie dem Tod auszuliefern\.
+Nichts davon tut er,
+sondern er handelt schon über das Gesetz hinaus\.
+Denn als die Gnade erschienen war,
+mussten fortan viele Zeichen einer erhabenen Lebensführung sichtbar werden\.
+Wie nämlich die Sonne,
+noch bevor sie ihre Strahlen zeigt,
+schon aus der Ferne den größten Teil der Welt mit ihrem Licht übergießt,
+so hat auch Christus,
+der aus jenem Mutterschoß aufgehen sollte,
+noch bevor er hervortrat,
+die ganze Welt erleuchtet\.
+Darum sprangen schon vor den Wehen Propheten vor Freude auf,
+Frauen sagten das Kommende voraus,
+und Johannes,
+noch ehe er aus dem Leib hervorgekommen war,
+hüpfte schon im Mutterleib\.
+Daher zeigte auch Josef große Besonnenheit:
+Er klagte sie nicht an,
+machte ihr keine Vorwürfe,
+sondern versuchte nur,
+sie fortzuschicken\.
+Als die Dinge nun so standen und alle ratlos waren,
+erscheint der Engel und löst alle Schwierigkeiten\.
+Es lohnt sich aber zu fragen,
+warum der Engel nicht vorher gesprochen hat,
+bevor der Mann dies erwog,
+sondern erst dann kommt,
+als er es bei sich überlegte\.
+Denn es heißt:
+„Als er dies aber erwogen hatte,
+kommt der Engel\.[^bible-b134d3d5-abcf-440d-97e0-d0a4876fda64]“ Und doch verkündigt er ihr die Botschaft schon vor der Empfängnis,
+was wiederum eine andere Schwierigkeit enthält\.
+Denn wenn auch der Engel es nicht sagte:
+Warum schwieg die Jungfrau,
+nachdem sie es vom Engel gehört hatte,
+und warum löste sie nicht die Ratlosigkeit ihres Verlobten,
+als sie sah,
+wie er in Unruhe geriet?
+Warum also sagte der Engel es ihm nicht,
+bevor er in Unruhe geriet?
+Denn zuerst müssen wir das frühere Problem lösen\.
+Warum also sagte er es nicht?
+Damit Josef nicht ungläubig würde und dasselbe erlitte wie Zacharias\.
+Denn wenn die Sache sichtbar vor Augen stand,
+war der Glaube fortan leicht;
+solange sie aber noch keinen Anfang genommen hatte,
+war das Gesagte nicht ebenso leicht anzunehmen\.
+Darum sprach der Engel nicht von Anfang an;
+und aus demselben Grund schwieg auch die Jungfrau\.
+Denn sie glaubte nicht,
+dass ihr Verlobter ihr glauben würde,
+wenn sie ihm eine so fremdartige Sache berichtete\.
+Vielmehr meinte sie,
+ihn noch mehr zu reizen,
+als wollte sie eine geschehene Sünde verdecken\.
+Wenn nämlich sie selbst,
+die eine so große Gnade empfangen sollte,
+etwas Menschliches durchmacht und sagt:
+„Wie wird dies sein,
+da ich keinen Mann erkenne?[^bible-1762269d-bc22-4480-89fc-27ff7fef45ff]“,
+dann hätte er erst recht gezweifelt,
+zumal wenn er es von einer Frau hörte,
+die unter Verdacht stand\.
 
 ## Bibelverweise
 

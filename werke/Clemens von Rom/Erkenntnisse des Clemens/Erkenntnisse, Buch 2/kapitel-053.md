@@ -7,6 +7,63 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-2#kapitel-878770c1-cbae-434d-54cd-08dd130c175e).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e3ea3652b1838c718f4e3c376952ded1274505bf6e94026a1a6b46756b904ed9`
-
-Dann sagte Simon: "Hört zu: Es ist für alle offensichtlich und auf eine Weise bestätigt, die keiner Erklärung bedarf, dass es einen Gott gibt, der besser ist als alle anderen und von dem alles seinen Anfang nahm\. Daher sind zwangsläufig alle Dinge, die nach ihm kommen, ihm unterworfen, als dem höchsten und vortrefflichsten aller Wesen\. Als ich also erkannt hatte, dass der Gott, der die Welt erschaffen hat, gemäß dem, was das Gesetz lehrt, in vielerlei Hinsicht schwach ist \- und Schwäche ist völlig unvereinbar mit einem vollkommenen Gott \-, und ich sah, dass er nicht vollkommen ist, kam ich zwangsläufig zu dem Schluss, dass es einen anderen Gott geben muss, der vollkommen ist\. Denn dieser Gott, wie ich gesagt habe, zeigt sich laut den Schriften des Gesetzes in vielerlei Dingen schwach\. Erstens, weil der Mensch, den er erschaffen hat, nicht so bleiben konnte, wie er ihn beabsichtigt hatte\. Und weil er nicht gut sein kann, wenn er dem ersten Menschen ein Gesetz gab, das besagte, er solle von allen Bäumen des Paradieses essen, aber nicht den Baum der Erkenntnis berühren und wenn er davon essen würde, sollte er sterben\. Denn warum sollte er ihm verbieten zu essen und zu erkennen, was gut und was böse ist, damit er, wenn er es wüsste, das Böse meiden und das Gute wählen könnte? Aber das erlaubte er ihm nicht\. Und weil er entgegen dem Gebot aß und entdeckte, was gut ist, und aus Ehrgefühl lernte, seine Blöße zu bedecken \(denn er erkannte, dass es unangemessen ist, nackt vor seinem Schöpfer zu stehen\), verurteilt er denjenigen zum Tod, der gelernt hatte, Gott Ehre zu erweisen, und verflucht die Schlange, die ihm diese Dinge gezeigt hatte\. Aber in Wahrheit, wenn der Mensch durch dieses Mittel Schaden erleiden sollte, warum hat er dann überhaupt die Ursache des Schadens ins Paradies gesetzt? Und wenn das, was er ins Paradies setzte, gut war, so ist es nicht das Handeln eines Guten, einem anderen das Gute zu verwehren\.
+Dann sagte Simon:
+"Hört zu:
+Es ist für alle offensichtlich und auf eine Weise bestätigt,
+die keiner Erklärung bedarf,
+dass es einen Gott gibt,
+der besser ist als alle anderen und von dem alles seinen Anfang nahm\.
+Daher sind zwangsläufig alle Dinge,
+die nach ihm kommen,
+ihm unterworfen,
+als dem höchsten und vortrefflichsten aller Wesen\.
+Als ich also erkannt hatte,
+dass der Gott,
+der die Welt erschaffen hat,
+gemäß dem,
+was das Gesetz lehrt,
+in vielerlei Hinsicht schwach ist \- und Schwäche ist völlig unvereinbar mit einem vollkommenen Gott \-,
+und ich sah,
+dass er nicht vollkommen ist,
+kam ich zwangsläufig zu dem Schluss,
+dass es einen anderen Gott geben muss,
+der vollkommen ist\.
+Denn dieser Gott,
+wie ich gesagt habe,
+zeigt sich laut den Schriften des Gesetzes in vielerlei Dingen schwach\.
+Erstens,
+weil der Mensch,
+den er erschaffen hat,
+nicht so bleiben konnte,
+wie er ihn beabsichtigt hatte\.
+Und weil er nicht gut sein kann,
+wenn er dem ersten Menschen ein Gesetz gab,
+das besagte,
+er solle von allen Bäumen des Paradieses essen,
+aber nicht den Baum der Erkenntnis berühren und wenn er davon essen würde,
+sollte er sterben\.
+Denn warum sollte er ihm verbieten zu essen und zu erkennen,
+was gut und was böse ist,
+damit er,
+wenn er es wüsste,
+das Böse meiden und das Gute wählen könnte?
+Aber das erlaubte er ihm nicht\.
+Und weil er entgegen dem Gebot aß und entdeckte,
+was gut ist,
+und aus Ehrgefühl lernte,
+seine Blöße zu bedecken \(denn er erkannte,
+dass es unangemessen ist,
+nackt vor seinem Schöpfer zu stehen\),
+verurteilt er denjenigen zum Tod,
+der gelernt hatte,
+Gott Ehre zu erweisen,
+und verflucht die Schlange,
+die ihm diese Dinge gezeigt hatte\.
+Aber in Wahrheit,
+wenn der Mensch durch dieses Mittel Schaden erleiden sollte,
+warum hat er dann überhaupt die Ursache des Schadens ins Paradies gesetzt?
+Und wenn das,
+was er ins Paradies setzte,
+gut war,
+so ist es nicht das Handeln eines Guten,
+einem anderen das Gute zu verwehren\.

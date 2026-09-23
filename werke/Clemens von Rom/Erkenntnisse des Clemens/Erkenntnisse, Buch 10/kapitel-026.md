@@ -7,6 +7,48 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-10#kapitel-b55753c1-2dac-46d0-753a-08dd36600a1f).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:8f9fb2e7b788ae39e9c3a89129278d4bf5b9a39b4cf893d712d9a78c176b9c1d`
-
-Daher wird nun hinzugefügt, dass auch die Dichter die Falschheiten des Irrtums durch die Eleganz ihrer Worte schmücken und durch die Süße ihrer Rede überzeugen, dass Sterbliche unsterblich gemacht worden seien\. Ja, sie behaupten sogar, dass Menschen in Sterne, Bäume, Tiere, Blumen, Vögel, Quellen und Flüsse verwandelt werden\. Und um nicht den Eindruck zu erwecken, es sei eine Verschwendung von Worten, könnte ich beinahe alle Sterne, Bäume, Quellen und Flüsse aufzählen, von denen sie behaupten, sie seien aus Menschen gemacht worden; doch als Beispiel will ich zumindest eines aus jeder Kategorie nennen\. Sie sagen, dass Andromeda, die Tochter des Kepheus, in einen Stern verwandelt wurde; Daphne, die Tochter des Flusses Lado, in einen Baum; Hyacinthus, den Apollo liebte, in eine Blume; Callisto in das Sternbild, das sie Arktos nennen; Progne und Philomela, zusammen mit Tereus, in Vögel; dass Thysbe in Kilikien in eine Quelle aufgelöst wurde; und Pyramus, am selben Ort, in einen Fluss\. Sie behaupten, dass fast alle Sterne, Bäume, Quellen, Flüsse, Blumen, Tiere und Vögel einst Menschen waren\.
+Daher wird nun hinzugefügt,
+dass auch die Dichter die Falschheiten des Irrtums durch die Eleganz ihrer Worte schmücken und durch die Süße ihrer Rede überzeugen,
+dass Sterbliche unsterblich gemacht worden seien\.
+Ja,
+sie behaupten sogar,
+dass Menschen in Sterne,
+Bäume,
+Tiere,
+Blumen,
+Vögel,
+Quellen und Flüsse verwandelt werden\.
+Und um nicht den Eindruck zu erwecken,
+es sei eine Verschwendung von Worten,
+könnte ich beinahe alle Sterne,
+Bäume,
+Quellen und Flüsse aufzählen,
+von denen sie behaupten,
+sie seien aus Menschen gemacht worden;
+doch als Beispiel will ich zumindest eines aus jeder Kategorie nennen\.
+Sie sagen,
+dass Andromeda,
+die Tochter des Kepheus,
+in einen Stern verwandelt wurde;
+Daphne,
+die Tochter des Flusses Lado,
+in einen Baum;
+Hyacinthus,
+den Apollo liebte,
+in eine Blume;
+Callisto in das Sternbild,
+das sie Arktos nennen;
+Progne und Philomela,
+zusammen mit Tereus,
+in Vögel;
+dass Thysbe in Kilikien in eine Quelle aufgelöst wurde;
+und Pyramus,
+am selben Ort,
+in einen Fluss\.
+Sie behaupten,
+dass fast alle Sterne,
+Bäume,
+Quellen,
+Flüsse,
+Blumen,
+Tiere und Vögel einst Menschen waren\.

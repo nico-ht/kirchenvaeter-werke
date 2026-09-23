@@ -7,13 +7,125 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/7-predigt-zu-exodus#kapitel-5754ff7b-7117-47c9-3b83-08de2d20f097).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:93881ce8f6c0b37f5977e9d2647f7f25e324f3cfabca80717297a257d2a245d7`
+Nach der Durchquerung des Roten Meeres und den Geheimnissen des großartigen Mysteriums,
+nach Tänzen und Tamburinen,
+nach Triumphhymnen kommen sie nach Mara\.
+Das Wasser von Mara aber war bitter und das Volk konnte es nicht trinken\.
+Warum also wird das Volk Gottes nach so zahlreichen und großartigen Wundern zu bitteren Wassern und in die Gefahr des Durstes geführt?
+Denn der Text sagt:
+„Und die Söhne Israels kamen nach Mara und konnten das Wasser von Mara nicht trinken,
+weil es bitter war\.
+Aus diesem Grund wurde der Name jenes Ortes Bitterkeit genannt\.“[^bible-4b1a9f2d-f524-46ed-b8d1-f0d25e39e694]
+Aber was wird danach hinzugefügt?
+„Mose“,
+sagt der Text,
+„rief zum Herrn,
+und der Herr zeigte ihm einen Baum;
+er warf ihn ins Wasser,
+und das Wasser wurde süß\.
+Und dort“,
+heißt es,
+„setzte der Herr für ihn Satzungen und Vorschriften fest\.“[^bible-db449568-c5f7-4574-b4cc-6984bc92c1d2]
+Dort,
+wo Bitterkeit herrschte,
+dort,
+wo es Durst gab – und was noch schlimmer ist:
+Durst im Angesicht von Wasser im Überfluss –,
+dort „setzte Gott Satzungen und Gerichte für sie fest\.“[^bible-722c0d97-3ff2-4f75-8f64-b1ebc54d2b67]
+Gab es keinen anderen Ort,
+der würdiger,
+geeigneter,
+fruchtbarer war als dieser Ort der Bitterkeit?
+Dazu kommt,
+dass die Aussage:
+„Der Herr zeigte ihm einen Baum,
+und er warf ihn ins Wasser,
+und das Wasser wurde süß“[^bible-a6128c4f-744a-4712-94b0-34a8c5febd4b],
+sehr seltsam ist\.
 
-Nach der Durchquerung des Roten Meeres und den Geheimnissen des großartigen Mysteriums, nach Tänzen und Tamburinen, nach Triumphhymnen kommen sie nach Mara\. Das Wasser von Mara aber war bitter und das Volk konnte es nicht trinken\. Warum also wird das Volk Gottes nach so zahlreichen und großartigen Wundern zu bitteren Wassern und in die Gefahr des Durstes geführt? Denn der Text sagt: „Und die Söhne Israels kamen nach Mara und konnten das Wasser von Mara nicht trinken, weil es bitter war\. Aus diesem Grund wurde der Name jenes Ortes Bitterkeit genannt\.“[^bible-4b1a9f2d-f524-46ed-b8d1-f0d25e39e694] Aber was wird danach hinzugefügt? „Mose“, sagt der Text, „rief zum Herrn, und der Herr zeigte ihm einen Baum; er warf ihn ins Wasser, und das Wasser wurde süß\. Und dort“, heißt es, „setzte der Herr für ihn Satzungen und Vorschriften fest\.“[^bible-db449568-c5f7-4574-b4cc-6984bc92c1d2] Dort, wo Bitterkeit herrschte, dort, wo es Durst gab – und was noch schlimmer ist: Durst im Angesicht von Wasser im Überfluss –, dort „setzte Gott Satzungen und Gerichte für sie fest\.“[^bible-722c0d97-3ff2-4f75-8f64-b1ebc54d2b67] Gab es keinen anderen Ort, der würdiger, geeigneter, fruchtbarer war als dieser Ort der Bitterkeit? Dazu kommt, dass die Aussage: „Der Herr zeigte ihm einen Baum, und er warf ihn ins Wasser, und das Wasser wurde süß“[^bible-a6128c4f-744a-4712-94b0-34a8c5febd4b], sehr seltsam ist\.
+Warum sollte Gott dem Mose einen Baum zeigen,
+den er ins Wasser werfen soll,
+um es süß zu machen?
+Es ist,
+als ob Gott nicht fähig gewesen wäre,
+das Wasser ohne den Baum süß zu machen\!
+Oder wusste Mose nichts von dem Baum,
+sodass Gott ihn ihm zeigen musste?
+Aber wir müssen sehen,
+welche Schönheit der innere Sinn in diesen Worten birgt\.
+Ich denke,
+dass das Gesetz,
+wenn es dem Buchstaben nach befolgt wird,
+bitter genug und selbst Mara ist\.
+Denn was ist so bitter,
+als wenn ein Kind am achten Tag die Wunde der Beschneidung empfängt und die zarte Kindheit die Härte des Eisens erleidet?
+Ein Becher dieser Art von Gesetz ist extrem bitter,
+so bitter sogar,
+dass das Volk Gottes – nicht jenes Volk,
+das „auf Mose im Meer und in der Wolke“[^bible-15eb0977-27bd-4241-9c20-4da6609b76e4] getauft wurde,
+sondern jenes Volk,
+das „im Geist“ und „im Wasser“ getauft wurde – von diesem Wasser nicht trinken kann\.
+Aber tatsächlich können sie die Bitterkeit der Beschneidung nicht schmecken,
+noch sind sie fähig,
+die Bitterkeit der Opfer oder die Einhaltung des Sabbats zu ertragen\.
+Aber wenn „Gott einen Baum zeigt“,
+der in diese Bitterkeit geworfen wird,
+damit das „Wasser“ des Gesetzes „süß“ wird,
+können sie davon trinken\.
+Salomo lehrt uns,
+was jener „Baum“ ist,
+den „der Herr zeigte“,
+wenn er sagt,
+dass die Weisheit „ein Baum des Lebens für alle ist,
+die sie ergreifen\.“
+[^bible-3898aa65-3bb7-4953-8dca-d6bbb940eda5]Wenn also der Baum der Weisheit Christi in das Gesetz geworfen wurde und uns gezeigt hat,
+wie die Beschneidung verstanden werden soll,
+wie der Sabbat und das Gesetz über den Aussatz eingehalten werden müssen,
+welche Art von Unterscheidung zwischen rein und unrein getroffen werden soll,
+dann wird das Wasser von Mara süß gemacht und die Bitterkeit des Buchstabens des Gesetzes in die Süße des geistlichen Verständnisses verwandelt;
+und dann kann das Volk Gottes trinken\.
 
-Warum sollte Gott dem Mose einen Baum zeigen, den er ins Wasser werfen soll, um es süß zu machen? Es ist, als ob Gott nicht fähig gewesen wäre, das Wasser ohne den Baum süß zu machen\! Oder wusste Mose nichts von dem Baum, sodass Gott ihn ihm zeigen musste? Aber wir müssen sehen, welche Schönheit der innere Sinn in diesen Worten birgt\. Ich denke, dass das Gesetz, wenn es dem Buchstaben nach befolgt wird, bitter genug und selbst Mara ist\. Denn was ist so bitter, als wenn ein Kind am achten Tag die Wunde der Beschneidung empfängt und die zarte Kindheit die Härte des Eisens erleidet? Ein Becher dieser Art von Gesetz ist extrem bitter, so bitter sogar, dass das Volk Gottes – nicht jenes Volk, das „auf Mose im Meer und in der Wolke“[^bible-15eb0977-27bd-4241-9c20-4da6609b76e4] getauft wurde, sondern jenes Volk, das „im Geist“ und „im Wasser“ getauft wurde – von diesem Wasser nicht trinken kann\. Aber tatsächlich können sie die Bitterkeit der Beschneidung nicht schmecken, noch sind sie fähig, die Bitterkeit der Opfer oder die Einhaltung des Sabbats zu ertragen\. Aber wenn „Gott einen Baum zeigt“, der in diese Bitterkeit geworfen wird, damit das „Wasser“ des Gesetzes „süß“ wird, können sie davon trinken\. Salomo lehrt uns, was jener „Baum“ ist, den „der Herr zeigte“, wenn er sagt, dass die Weisheit „ein Baum des Lebens für alle ist, die sie ergreifen\.“ [^bible-3898aa65-3bb7-4953-8dca-d6bbb940eda5]Wenn also der Baum der Weisheit Christi in das Gesetz geworfen wurde und uns gezeigt hat, wie die Beschneidung verstanden werden soll, wie der Sabbat und das Gesetz über den Aussatz eingehalten werden müssen, welche Art von Unterscheidung zwischen rein und unrein getroffen werden soll, dann wird das Wasser von Mara süß gemacht und die Bitterkeit des Buchstabens des Gesetzes in die Süße des geistlichen Verständnisses verwandelt; und dann kann das Volk Gottes trinken\.
-
-Wenn diese Dinge nicht geistlich ausgelegt werden, wendet sich das Volk, das den Götzen entsagt und bei Gott Zuflucht gesucht hat, sofort vom Gesetz ab und kann nicht trinken, wenn es hört, wie es Anweisungen über Opfer gibt\. Sie empfinden dies als bitter und harsch\. Denn: „Wenn er das, was er zerstört hat, wieder aufbaut, macht er sich selbst zu einem Übertreter\.“[^bible-04eb1339-29b9-4b0f-b9ab-7504436fa5cc] In dieser Bitterkeit von Mara also, das heißt in jenem Buchstaben des Gesetzes, „setzte der Herr Satzungen und Gerichte fest\.“[^bible-4efeca35-e414-4d85-9dd2-ed2b8ace97cc] Scheint euch das nicht zu besagen, dass Gott die Schätze seiner Weisheit und Erkenntnis im Buchstaben des Gesetzes wie in einem kleinen Gefäß festgesetzt hat? Das ist also die Bedeutung der Aussage: „Und dort setzte Gott Satzungen und Gerichte für sie fest\.“[^bible-adeadc76-8ad7-4573-83b4-2c049ab27893] Das war es auch, was der Apostel sagte: „Wir haben aber diesen Schatz in irdenen Gefäßen, damit das Übermaß der Kraft von Gott sei und nicht aus uns\.“[^bible-0806d55a-a179-41a2-955a-cadb7932680c] Damit also dieses Wasser von Mara getrunken werden kann, „zeigt Gott einen Baum“, der hineingeworfen wird, damit derjenige, der trinkt, nicht stirbt und die Bitterkeit nicht schmeckt\. Daraus steht fest: Wenn jemand ohne den „Baum des Lebens“, das heißt ohne das Geheimnis des Kreuzes, ohne den Glauben an Christus, ohne geistliches Verständnis aus dem Buchstaben des Gesetzes trinken will, wird er an allzu großer Bitterkeit sterben\! Weil der Apostel Paulus das wusste, sagte er: „Der Buchstabe tötet\.“[^bible-8eee32ad-4fb0-4d4f-8bad-f879e2303be6] Dies besagt ganz offen, dass das Wasser von Mara tötet, wenn es unverändert getrunken und nicht süß gemacht wird\.
+Wenn diese Dinge nicht geistlich ausgelegt werden,
+wendet sich das Volk,
+das den Götzen entsagt und bei Gott Zuflucht gesucht hat,
+sofort vom Gesetz ab und kann nicht trinken,
+wenn es hört,
+wie es Anweisungen über Opfer gibt\.
+Sie empfinden dies als bitter und harsch\.
+Denn:
+„Wenn er das,
+was er zerstört hat,
+wieder aufbaut,
+macht er sich selbst zu einem Übertreter\.“[^bible-04eb1339-29b9-4b0f-b9ab-7504436fa5cc]
+In dieser Bitterkeit von Mara also,
+das heißt in jenem Buchstaben des Gesetzes,
+„setzte der Herr Satzungen und Gerichte fest\.“[^bible-4efeca35-e414-4d85-9dd2-ed2b8ace97cc]
+Scheint euch das nicht zu besagen,
+dass Gott die Schätze seiner Weisheit und Erkenntnis im Buchstaben des Gesetzes wie in einem kleinen Gefäß festgesetzt hat?
+Das ist also die Bedeutung der Aussage:
+„Und dort setzte Gott Satzungen und Gerichte für sie fest\.“[^bible-adeadc76-8ad7-4573-83b4-2c049ab27893]
+Das war es auch,
+was der Apostel sagte:
+„Wir haben aber diesen Schatz in irdenen Gefäßen,
+damit das Übermaß der Kraft von Gott sei und nicht aus uns\.“[^bible-0806d55a-a179-41a2-955a-cadb7932680c]
+Damit also dieses Wasser von Mara getrunken werden kann,
+„zeigt Gott einen Baum“,
+der hineingeworfen wird,
+damit derjenige,
+der trinkt,
+nicht stirbt und die Bitterkeit nicht schmeckt\.
+Daraus steht fest:
+Wenn jemand ohne den „Baum des Lebens“,
+das heißt ohne das Geheimnis des Kreuzes,
+ohne den Glauben an Christus,
+ohne geistliches Verständnis aus dem Buchstaben des Gesetzes trinken will,
+wird er an allzu großer Bitterkeit sterben\!
+Weil der Apostel Paulus das wusste,
+sagte er:
+„Der Buchstabe tötet\.“[^bible-8eee32ad-4fb0-4d4f-8bad-f879e2303be6]
+Dies besagt ganz offen,
+dass das Wasser von Mara tötet,
+wenn es unverändert getrunken und nicht süß gemacht wird\.
 
 ## Bibelverweise
 

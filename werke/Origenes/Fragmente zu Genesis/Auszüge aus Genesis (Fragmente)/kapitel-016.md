@@ -7,13 +7,149 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/auszuege-aus-genesis-fragmente#kapitel-7a7b0388-08d0-437f-eadc-08de02a1dc4b).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:6846150d538447e651437c50aec41c4470a5b93318d04ccdec2ec1563b330e97`
+„Und er sprach:
+Die Stimme ist die Stimme Jakobs\.“[^bible-7efe67d5-8ba1-4d24-bc69-540726210ece]
+Eine fromme Stimme wäre aus Esaus Mund nicht zu hören gewesen\.
+Als er nämlich sagte:
+„Was der Herr,
+dein Gott,
+mir vorgelegt hat“,
+erkannte Isaak es und sprach:
+„Die Stimme ist die Stimme Jakobs\.“
+[^bible-90edaec2-0967-416a-9335-ee50a2e558b0]„Und er sprach:
+Siehe,
+der Duft meines Sohnes ist wie der Duft eines vollen Feldes,
+das der Herr gesegnet hat\.“[^bible-d7ba75df-e19c-47f4-9261-038ab9b77f42]
+Offenkundig war dieser Duft nicht sinnlich\.
+Was für ein Geruch ließe sich denn mit dem Duft eines Feldes vergleichen?
+Vielleicht war es jener,
+den der Apostel trägt,
+wenn er sagt:
+„Wir sind Christi Wohlgeruch für Gott an jedem Ort\.“[^bible-f2605372-71eb-4ee4-99f0-77e3a283bf98]
+Ich meine zudem,
+jede Tugend habe ihren eigenen Wohlgeruch,
+der die Gesamtheit der Tugenden zur Fülle bringt\.
+Umgekehrt aber stinken die Laster,
+wie es heißt:
+„Faul und eitrig sind meine Wunden geworden\.“[^bible-037da63c-7eb6-43a6-ba8e-ec8902a8a7e1]
+Es ist angemessen,
+dass der Herr den Acker der Tugenden segnet,
+der ihm wohlriechend ist\.
+„Und sie sprach zu ihm:
+Siehe,
+Esau,
+dein Bruder,
+droht,
+dich zu töten;
+nun also,
+mein Sohn,
+höre auf meine Stimme,
+steh auf und fliehe nach Mesopotamien\.“[^bible-3e213a35-cae0-4811-88c4-ce285cae8d13]
+Daraus lernen wir:
+Man soll sich den Nachstellungen entziehen und Verfolgungen fliehen,
+selbst wenn man – wie Jakob – der Visionen gewürdigt wird\.
+Man fände Trost,
+wenn man sieht,
+was Jakob widerfuhr,
+als er vor Esau floh:
+Er wurde der Visionen gewürdigt,
+wurde Vater von zwölf Stämmen,
+und als er aus der Flucht um der Verfolgung willen zurückkehrte,
+wurde er statt Jakob Israel\.
+„Du sollst dir keine Frau nehmen aus den Töchtern Kanaans\.“[^bible-4d4956bf-07c1-455b-bab6-112568e8a6af]
+Die Töchter Kanaans sind böse – nicht nur vor Esau,
+sondern vor Isaak,
+seinem Vater\.
+„Als aber der Herr Gott sah,
+dass Lea gehasst wurde,
+öffnete er ihren Mutterleib\.“[^bible-2ac496e5-17fb-4232-b62e-566f19579953]
+Gott öffnet einen Mutterleib zur Geburt von Heiligen\.
+Und nach dem geistlichen Gesetz öffnet er den Mutterschoß der Seele,
+damit die,
+die seine Mutter werden soll,
+das Wort Gottes gebärt\.
+Denn als Erste hat für Gott die Synagoge der Juden,
+die der Zeit nach ältere,
+Frucht hervorgebracht\.
 
-„Und er sprach: Die Stimme ist die Stimme Jakobs\.“[^bible-7efe67d5-8ba1-4d24-bc69-540726210ece] Eine fromme Stimme wäre aus Esaus Mund nicht zu hören gewesen\. Als er nämlich sagte: „Was der Herr, dein Gott, mir vorgelegt hat“, erkannte Isaak es und sprach: „Die Stimme ist die Stimme Jakobs\.“ [^bible-90edaec2-0967-416a-9335-ee50a2e558b0]„Und er sprach: Siehe, der Duft meines Sohnes ist wie der Duft eines vollen Feldes, das der Herr gesegnet hat\.“[^bible-d7ba75df-e19c-47f4-9261-038ab9b77f42] Offenkundig war dieser Duft nicht sinnlich\. Was für ein Geruch ließe sich denn mit dem Duft eines Feldes vergleichen? Vielleicht war es jener, den der Apostel trägt, wenn er sagt: „Wir sind Christi Wohlgeruch für Gott an jedem Ort\.“[^bible-f2605372-71eb-4ee4-99f0-77e3a283bf98] Ich meine zudem, jede Tugend habe ihren eigenen Wohlgeruch, der die Gesamtheit der Tugenden zur Fülle bringt\. Umgekehrt aber stinken die Laster, wie es heißt: „Faul und eitrig sind meine Wunden geworden\.“[^bible-037da63c-7eb6-43a6-ba8e-ec8902a8a7e1] Es ist angemessen, dass der Herr den Acker der Tugenden segnet, der ihm wohlriechend ist\. „Und sie sprach zu ihm: Siehe, Esau, dein Bruder, droht, dich zu töten; nun also, mein Sohn, höre auf meine Stimme, steh auf und fliehe nach Mesopotamien\.“[^bible-3e213a35-cae0-4811-88c4-ce285cae8d13] Daraus lernen wir: Man soll sich den Nachstellungen entziehen und Verfolgungen fliehen, selbst wenn man – wie Jakob – der Visionen gewürdigt wird\. Man fände Trost, wenn man sieht, was Jakob widerfuhr, als er vor Esau floh: Er wurde der Visionen gewürdigt, wurde Vater von zwölf Stämmen, und als er aus der Flucht um der Verfolgung willen zurückkehrte, wurde er statt Jakob Israel\. „Du sollst dir keine Frau nehmen aus den Töchtern Kanaans\.“[^bible-4d4956bf-07c1-455b-bab6-112568e8a6af] Die Töchter Kanaans sind böse – nicht nur vor Esau, sondern vor Isaak, seinem Vater\. „Als aber der Herr Gott sah, dass Lea gehasst wurde, öffnete er ihren Mutterleib\.“[^bible-2ac496e5-17fb-4232-b62e-566f19579953] Gott öffnet einen Mutterleib zur Geburt von Heiligen\. Und nach dem geistlichen Gesetz öffnet er den Mutterschoß der Seele, damit die, die seine Mutter werden soll, das Wort Gottes gebärt\. Denn als Erste hat für Gott die Synagoge der Juden, die der Zeit nach ältere, Frucht hervorgebracht\.
+Und Laban sprach zu ihm:
+„Wenn ich Gnade vor dir gefunden habe,
+würde ich Wahrsagung treiben;
+denn Gott hat mich bei deinem Eintreten gesegnet\.“
+„Es gibt keine Wahrsagerei in Jakob“\.
+Laban aber sagt:
+„Ich würde wahrsagen“ – als einer,
+der der Lebenswahl Jakobs fremd ist,
+ihr jedoch nicht völlig fremd,
+da er zu dem „ich würde wahrsagen“ noch hinzufügt:
+„Denn Gott hat mich bei deinem Eintreten gesegnet\.“
+„Jakob nahm sich frische Ruten – vom Storaxbaum,
+vom Walnussbaum und von der Platane\.“[^bible-7271ff08-656c-425f-b086-1f01100e16a3]
+Die drei Ruten sind sinnbildlich entweder die drei Seelenkräfte:
+Vernunft,
+Mut,
+Begierde;
+oder die drei Betrachtungen:
+der körperlichen Dinge,
+der unkörperlichen und der heiligen Dreifaltigkeit;
+oder – allgemeiner – deutet die Walnuss auf das tätige Leben,
+der Storax auf das betrachtende,
+und die Platane auf diese Welt und ihre Schau\.
+Das Abziehen des grünen Rindenanteils bedeutet die Lossagung davon:
+Im tätigen Leben ist das „Grüne“ die Lustsuche;
+in der Betrachtung ist es die Beschäftigung mit dem Körperlichen\.
+Was das „Grüne“ in den beiden anderen Deutungen angeht – prüfe es\.
+Und der Herr sprach zu Jakob:
+„Kehre zurück in das Land deines Vaters und zu deiner Verwandtschaft;
+und ich werde mit dir sein\.“[^bible-abaff79a-4d7d-49cc-bd99-253519523e45]
+Als Jakob Frucht brachte und reich wurde,
+sich aber außerhalb seiner eigenen Sippe befand,
+da sagte der Herr zu ihm:
+„Kehre zurück in das Land deines Vaters\.“
+Etwas Ähnliches ist vom Herrn zu denken,
+wenn wir an der Schwelle des Hinscheidens stehen,
+um freigelassen zu werden zu unseren Vätern\.
+Und er gibt dem,
+der in das Land seines Vaters und zu seinem Geschlecht zurückkehrt,
+auch den Lohn\.
+Ich meine,
+der Herr war ihm im Traum gegenwärtig\.
 
-Und Laban sprach zu ihm: „Wenn ich Gnade vor dir gefunden habe, würde ich Wahrsagung treiben; denn Gott hat mich bei deinem Eintreten gesegnet\.“ „Es gibt keine Wahrsagerei in Jakob“\. Laban aber sagt: „Ich würde wahrsagen“ – als einer, der der Lebenswahl Jakobs fremd ist, ihr jedoch nicht völlig fremd, da er zu dem „ich würde wahrsagen“ noch hinzufügt: „Denn Gott hat mich bei deinem Eintreten gesegnet\.“ „Jakob nahm sich frische Ruten – vom Storaxbaum, vom Walnussbaum und von der Platane\.“[^bible-7271ff08-656c-425f-b086-1f01100e16a3] Die drei Ruten sind sinnbildlich entweder die drei Seelenkräfte: Vernunft, Mut, Begierde; oder die drei Betrachtungen: der körperlichen Dinge, der unkörperlichen und der heiligen Dreifaltigkeit; oder – allgemeiner – deutet die Walnuss auf das tätige Leben, der Storax auf das betrachtende, und die Platane auf diese Welt und ihre Schau\. Das Abziehen des grünen Rindenanteils bedeutet die Lossagung davon: Im tätigen Leben ist das „Grüne“ die Lustsuche; in der Betrachtung ist es die Beschäftigung mit dem Körperlichen\. Was das „Grüne“ in den beiden anderen Deutungen angeht – prüfe es\. Und der Herr sprach zu Jakob: „Kehre zurück in das Land deines Vaters und zu deiner Verwandtschaft; und ich werde mit dir sein\.“[^bible-abaff79a-4d7d-49cc-bd99-253519523e45] Als Jakob Frucht brachte und reich wurde, sich aber außerhalb seiner eigenen Sippe befand, da sagte der Herr zu ihm: „Kehre zurück in das Land deines Vaters\.“ Etwas Ähnliches ist vom Herrn zu denken, wenn wir an der Schwelle des Hinscheidens stehen, um freigelassen zu werden zu unseren Vätern\. Und er gibt dem, der in das Land seines Vaters und zu seinem Geschlecht zurückkehrt, auch den Lohn\. Ich meine, der Herr war ihm im Traum gegenwärtig\.
-
-„Euer Vater hat mich betrogen und meinen Lohn zehnmal verändert\.“[^bible-58dcb8e7-7f0c-4029-bd95-a87834a942df] Aquila gibt wieder: „zehn Zahlen“, Symmachus: „zehnmal der Zahl nach“\. Der Hebräer erklärt: Laban habe die Abmachungen mit Jakob zehnmal gebrochen, weil sich das, was „auf Jakobs Namen“ geboren wurde, überaus mehrte und er Jakob beneidete\. Das zeigen auch die beiden Fassungen: „Und du hast meinen Lohn um zehn Lämmer betrogen\.“[^bible-0dbb9072-33c8-48d5-b467-750fea73059e] Von „Lämmern“, die er mir zu geben vereinbart hätte, ist allerdings nirgends die Rede; es findet sich kein Hinweis auf eine solche Abmachung\. Doch aus dem, was er selbst sagt, wird es klar\. Denn wie die Schrift Lamech nicht ausdrücklich als Mörder einführt, es aber bei der Auslegung herauskommt und das Geschehene erkennbar wird, so auch hier\. Oft erklärt die Schrift das, was beim Geschehen nicht erzählt wurde, später durch einen Ausleger\. „Deine Schafe und Ziegen wurden nicht fehlgebärend; die Widder deiner Herde habe ich nicht verzehrt\.“ In diesen Worten zeigt sich der Freimut des guten Hirten – daran sollen wir uns ein Beispiel nehmen\. So sollen die Schaf\- und Ziegenherden geistliche Früchte hervorbringen; und die Reichen der Herde sollen wir nicht auffressen\. Weil aber seine Hausgötter nicht gefunden wurden, schließt er Verträge mit dem erhabenen Jakob\. So auch die Welt: Sobald sie die falschgenannten Götter abwarf, wurde sie ein Freund Christi\.
+„Euer Vater hat mich betrogen und meinen Lohn zehnmal verändert\.“[^bible-58dcb8e7-7f0c-4029-bd95-a87834a942df]
+Aquila gibt wieder:
+„zehn Zahlen“,
+Symmachus:
+„zehnmal der Zahl nach“\.
+Der Hebräer erklärt:
+Laban habe die Abmachungen mit Jakob zehnmal gebrochen,
+weil sich das,
+was „auf Jakobs Namen“ geboren wurde,
+überaus mehrte und er Jakob beneidete\.
+Das zeigen auch die beiden Fassungen:
+„Und du hast meinen Lohn um zehn Lämmer betrogen\.“[^bible-0dbb9072-33c8-48d5-b467-750fea73059e]
+Von „Lämmern“,
+die er mir zu geben vereinbart hätte,
+ist allerdings nirgends die Rede;
+es findet sich kein Hinweis auf eine solche Abmachung\.
+Doch aus dem,
+was er selbst sagt,
+wird es klar\.
+Denn wie die Schrift Lamech nicht ausdrücklich als Mörder einführt,
+es aber bei der Auslegung herauskommt und das Geschehene erkennbar wird,
+so auch hier\.
+Oft erklärt die Schrift das,
+was beim Geschehen nicht erzählt wurde,
+später durch einen Ausleger\.
+„Deine Schafe und Ziegen wurden nicht fehlgebärend;
+die Widder deiner Herde habe ich nicht verzehrt\.“
+In diesen Worten zeigt sich der Freimut des guten Hirten – daran sollen wir uns ein Beispiel nehmen\.
+So sollen die Schaf\- und Ziegenherden geistliche Früchte hervorbringen;
+und die Reichen der Herde sollen wir nicht auffressen\.
+Weil aber seine Hausgötter nicht gefunden wurden,
+schließt er Verträge mit dem erhabenen Jakob\.
+So auch die Welt:
+Sobald sie die falschgenannten Götter abwarf,
+wurde sie ein Freund Christi\.
 
 ## Bibelverweise
 

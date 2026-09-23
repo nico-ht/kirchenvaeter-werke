@@ -7,9 +7,46 @@ Autor: Clemens von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-alexandria/welcher-reiche-wird-gerettet-werden#kapitel-3ba24056-499a-436c-546c-08df013cfca0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:48f24d31bf59d99ce9800e08bc439b897b38878fccde07dcbb59ecb797979be1`
-
-„Jesus antwortete: ‚Amen, ich sage euch: Wer um meinetwillen und um des Evangeliums willen das Seine, Eltern, Geschwister und Vermögen verlässt, wird hundertfachen Ersatz empfangen\.‘[^bible-b4290611-48aa-4b62-a403-801a509a40dc] “ Doch auch das soll uns nicht beunruhigen, ebenso wenig das noch härtere Wort, das er an anderer Stelle ausgesprochen hat: „Wer nicht Vater und Mutter und Kinder hasst, dazu auch sein eigenes Leben, kann nicht mein Jünger sein\.[^bible-9687f9f3-087b-406f-8359-9a3e44d672a7] “ Denn der Gott des Friedens fordert weder Hass noch die Trennung von den Menschen, die uns am liebsten sind\. Er ist es doch, der dazu mahnt, die Feinde zu lieben[^bible-2aa72d19-603f-4b0e-bbc1-77645aa0e2a6]\. Wenn man aber die Feinde lieben soll, dann gilt dies, wenn man von ihnen zu den nächsten Verwandten aufsteigt, entsprechend erst recht für diese\. Oder wenn man die Blutsverwandten hassen soll, dann lehrt dieses Wort, wenn man die Stufen hinabsteigt, umso mehr, die Feinde von sich zu stoßen\. So würden die beiden Worte einander aufheben und sich dadurch als unvereinbar erweisen\. Doch sie heben einander nicht auf, nicht im Geringsten\. Vielmehr kann jemand aus derselben Überzeugung und Haltung und mit demselben Ziel seinen Vater hassen und seinen Feind lieben, wenn er weder am Feind Rache übt noch den Vater mehr achtet als Christus\. Mit dem einen Wort beseitigt Christus Hass und Bosheit, mit dem anderen die hemmende Rücksicht auf die Menschen, mit denen wir aufgewachsen sind, sofern diese Rücksicht dem Heil schadet\. Ist also für jemanden der Vater, der Sohn oder der Bruder gottlos und wird er zum Hindernis für den Glauben und zum Hemmnis für das Leben in der Höhe, so soll der Betreffende weder mit ihm gemeinsame Sache machen noch seine Gesinnung teilen, sondern die fleischliche Verbundenheit wegen der geistlichen Feindschaft lösen\.
+„Jesus antwortete:
+‚Amen,
+ich sage euch:
+Wer um meinetwillen und um des Evangeliums willen das Seine,
+Eltern,
+Geschwister und Vermögen verlässt,
+wird hundertfachen Ersatz empfangen\.‘[^bible-b4290611-48aa-4b62-a403-801a509a40dc]
+“ Doch auch das soll uns nicht beunruhigen,
+ebenso wenig das noch härtere Wort,
+das er an anderer Stelle ausgesprochen hat:
+„Wer nicht Vater und Mutter und Kinder hasst,
+dazu auch sein eigenes Leben,
+kann nicht mein Jünger sein\.[^bible-9687f9f3-087b-406f-8359-9a3e44d672a7]
+“ Denn der Gott des Friedens fordert weder Hass noch die Trennung von den Menschen,
+die uns am liebsten sind\.
+Er ist es doch,
+der dazu mahnt,
+die Feinde zu lieben[^bible-2aa72d19-603f-4b0e-bbc1-77645aa0e2a6]\.
+Wenn man aber die Feinde lieben soll,
+dann gilt dies,
+wenn man von ihnen zu den nächsten Verwandten aufsteigt,
+entsprechend erst recht für diese\.
+Oder wenn man die Blutsverwandten hassen soll,
+dann lehrt dieses Wort,
+wenn man die Stufen hinabsteigt,
+umso mehr,
+die Feinde von sich zu stoßen\.
+So würden die beiden Worte einander aufheben und sich dadurch als unvereinbar erweisen\.
+Doch sie heben einander nicht auf,
+nicht im Geringsten\.
+Vielmehr kann jemand aus derselben Überzeugung und Haltung und mit demselben Ziel seinen Vater hassen und seinen Feind lieben,
+wenn er weder am Feind Rache übt noch den Vater mehr achtet als Christus\.
+Mit dem einen Wort beseitigt Christus Hass und Bosheit,
+mit dem anderen die hemmende Rücksicht auf die Menschen,
+mit denen wir aufgewachsen sind,
+sofern diese Rücksicht dem Heil schadet\.
+Ist also für jemanden der Vater,
+der Sohn oder der Bruder gottlos und wird er zum Hindernis für den Glauben und zum Hemmnis für das Leben in der Höhe,
+so soll der Betreffende weder mit ihm gemeinsame Sache machen noch seine Gesinnung teilen,
+sondern die fleischliche Verbundenheit wegen der geistlichen Feindschaft lösen\.
 
 ## Bibelverweise
 

@@ -7,6 +7,29 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-1#kapitel-f8085144-3ece-4c7e-09fc-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:2c432f57bcd586ea4b5eee22af9002b324b03f779ef99e654d75105aaee5add5`
-
-Und doch verstrickt sich Celsus wider Willen in das Eingeständnis, dass die Welt verhältnismäßig jung und noch keine zehntausend Jahre alt ist, wenn er behauptet, die Griechen hielten jene Ereignisse deshalb für uralt, weil sie infolge der Fluten und Weltenbrände keine Zeugnisse älterer Ereignisse gesehen oder überliefert bekommen hätten\. Als Gewährsleute für seinen Mythos von den Weltenbränden und Überschwemmungen mag Celsus diejenigen gelten lassen, die er für die gelehrtesten Ägypter hält und deren Weisheit sich noch in der Verehrung vernunftloser Tiere und in Beweisführungen zeigt, wonach ein solcher Gottesdienst vernunftgemäß und von geheimem, mysteriösem Charakter sei\. Wenn also die Ägypter prahlerisch ihre eigene Darstellung von der Göttlichkeit der Tiere vortragen, sollen sie als weise gelten; wenn dagegen ein Jude, der sich zum Gesetz und zum Gesetzgeber bekannt hat, alles auf den Schöpfer des Alls und den einzigen Gott zurückführt, gilt er Celsus und seinesgleichen als minderwertig gegenüber einem Menschen, der die Gottheit nicht nur auf die Stufe vernunftbegabter und sterblicher Lebewesen herabsetzt, sondern sogar auf die vernunftloser Tiere\! Diese Auffassung geht noch weit über die mythische Lehre von der Seelenwanderung hinaus, nach der die Seele vom Gipfel des Himmels herabfällt und in die Körper vernunftloser, zahmer wie wilder Tiere eingeht\! Wenn die Ägypter solche Fabeln erzählen, glaubt man, sie vermittelten durch ihre Rätsel und Mysterien einen philosophischen Sinn; wenn aber Mose für ein ganzes Volk Geschichten und Gesetze verfasst und hinterlässt, sollen sie als leere Fabeln gelten, deren Sprache keine sinnbildliche Deutung zulässt\!
+Und doch verstrickt sich Celsus wider Willen in das Eingeständnis,
+dass die Welt verhältnismäßig jung und noch keine zehntausend Jahre alt ist,
+wenn er behauptet,
+die Griechen hielten jene Ereignisse deshalb für uralt,
+weil sie infolge der Fluten und Weltenbrände keine Zeugnisse älterer Ereignisse gesehen oder überliefert bekommen hätten\.
+Als Gewährsleute für seinen Mythos von den Weltenbränden und Überschwemmungen mag Celsus diejenigen gelten lassen,
+die er für die gelehrtesten Ägypter hält und deren Weisheit sich noch in der Verehrung vernunftloser Tiere und in Beweisführungen zeigt,
+wonach ein solcher Gottesdienst vernunftgemäß und von geheimem,
+mysteriösem Charakter sei\.
+Wenn also die Ägypter prahlerisch ihre eigene Darstellung von der Göttlichkeit der Tiere vortragen,
+sollen sie als weise gelten;
+wenn dagegen ein Jude,
+der sich zum Gesetz und zum Gesetzgeber bekannt hat,
+alles auf den Schöpfer des Alls und den einzigen Gott zurückführt,
+gilt er Celsus und seinesgleichen als minderwertig gegenüber einem Menschen,
+der die Gottheit nicht nur auf die Stufe vernunftbegabter und sterblicher Lebewesen herabsetzt,
+sondern sogar auf die vernunftloser Tiere\!
+Diese Auffassung geht noch weit über die mythische Lehre von der Seelenwanderung hinaus,
+nach der die Seele vom Gipfel des Himmels herabfällt und in die Körper vernunftloser,
+zahmer wie wilder Tiere eingeht\!
+Wenn die Ägypter solche Fabeln erzählen,
+glaubt man,
+sie vermittelten durch ihre Rätsel und Mysterien einen philosophischen Sinn;
+wenn aber Mose für ein ganzes Volk Geschichten und Gesetze verfasst und hinterlässt,
+sollen sie als leere Fabeln gelten,
+deren Sprache keine sinnbildliche Deutung zulässt\!

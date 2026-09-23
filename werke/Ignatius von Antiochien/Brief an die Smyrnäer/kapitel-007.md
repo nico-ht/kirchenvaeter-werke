@@ -7,6 +7,13 @@ Autor: Ignatius von Antiochien
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ignatius-von-antiochien/brief-an-die-smyrnaeer#kapitel-847e74ac-097f-4fad-0c70-08ddc6fbf826).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f7cb03fe8c80650156d468c186ed4e69ad39514a552f5d67ea2e218900c4434a`
-
-Deshalb gehen diejenigen, die die gute Gabe Gottes leugnen, in ihrer Streitsucht zugrunde\. Es wäre zu ihrem Vorteil, zu lieben, damit sie auch auferstehen können\. Es ist daher angemessen, solche Menschen zu meiden und weder privat noch öffentlich über sie zu sprechen\. Achtet jedoch auf die Propheten und insbesondere auf das Evangelium, in dem uns das Leiden klar vor Augen geführt und die Auferstehung vollbracht wurde\.
+Deshalb gehen diejenigen,
+die die gute Gabe Gottes leugnen,
+in ihrer Streitsucht zugrunde\.
+Es wäre zu ihrem Vorteil,
+zu lieben,
+damit sie auch auferstehen können\.
+Es ist daher angemessen,
+solche Menschen zu meiden und weder privat noch öffentlich über sie zu sprechen\.
+Achtet jedoch auf die Propheten und insbesondere auf das Evangelium,
+in dem uns das Leiden klar vor Augen geführt und die Auferstehung vollbracht wurde\.

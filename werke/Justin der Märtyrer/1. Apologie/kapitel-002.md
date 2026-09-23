@@ -7,6 +7,40 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/1-apologie#kapitel-38ecc0a6-128f-443e-8ea0-08dd07e8078e).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f33e575c379373c2748fe7f6cfef99e056bd8f554b04865b9f7efb0f06000cd5`
-
-Die Vernunft leitet diejenigen, die wahrhaft fromm und philosophisch sind, dazu, nur das Wahre zu ehren und zu lieben, und lehnt es ab, traditionellen Meinungen zu folgen, wenn diese wertlos sind\. Denn nicht nur weist uns die gesunde Vernunft an, die Führung von denen abzulehnen, die etwas Falsches getan oder gelehrt haben, sondern es ist auch die Pflicht des Liebhabers der Wahrheit, um jeden Preis, selbst wenn ihm der Tod droht, das Richtige zu tun und zu sagen\. So hört, da ihr als fromm und philosophisch bezeichnet werdet, als Wächter der Gerechtigkeit und Liebhaber des Wissens, aufmerksam zu und lasst euch von meiner Ansprache ansprechen\. Wenn ihr tatsächlich solche seid, wird sich das zeigen\. Denn wir sind nicht gekommen, um euch mit diesem Schreiben zu schmeicheln oder euch mit unserer Ansprache zu erfreuen\. Vielmehr bitten wir darum, dass ihr nach einer genauen und gründlichen Untersuchung ein Urteil fällt, das nicht von Vorurteilen oder dem Wunsch, abergläubischen Menschen zu gefallen, beeinflusst ist\. Auch sollt ihr euch nicht von irrationalen Impulsen oder bösen Gerüchten leiten lassen, die schon lange verbreitet sind, um ein Urteil zu fällen, das sich gegen euch selbst richten könnte\. Denn wir sind der Meinung, dass uns nichts Böses angetan werden kann, es sei denn, wir werden als Übeltäter verurteilt oder als böse Menschen erwiesen\. Ihr könnt uns töten, aber nicht schaden\.
+Die Vernunft leitet diejenigen,
+die wahrhaft fromm und philosophisch sind,
+dazu,
+nur das Wahre zu ehren und zu lieben,
+und lehnt es ab,
+traditionellen Meinungen zu folgen,
+wenn diese wertlos sind\.
+Denn nicht nur weist uns die gesunde Vernunft an,
+die Führung von denen abzulehnen,
+die etwas Falsches getan oder gelehrt haben,
+sondern es ist auch die Pflicht des Liebhabers der Wahrheit,
+um jeden Preis,
+selbst wenn ihm der Tod droht,
+das Richtige zu tun und zu sagen\.
+So hört,
+da ihr als fromm und philosophisch bezeichnet werdet,
+als Wächter der Gerechtigkeit und Liebhaber des Wissens,
+aufmerksam zu und lasst euch von meiner Ansprache ansprechen\.
+Wenn ihr tatsächlich solche seid,
+wird sich das zeigen\.
+Denn wir sind nicht gekommen,
+um euch mit diesem Schreiben zu schmeicheln oder euch mit unserer Ansprache zu erfreuen\.
+Vielmehr bitten wir darum,
+dass ihr nach einer genauen und gründlichen Untersuchung ein Urteil fällt,
+das nicht von Vorurteilen oder dem Wunsch,
+abergläubischen Menschen zu gefallen,
+beeinflusst ist\.
+Auch sollt ihr euch nicht von irrationalen Impulsen oder bösen Gerüchten leiten lassen,
+die schon lange verbreitet sind,
+um ein Urteil zu fällen,
+das sich gegen euch selbst richten könnte\.
+Denn wir sind der Meinung,
+dass uns nichts Böses angetan werden kann,
+es sei denn,
+wir werden als Übeltäter verurteilt oder als böse Menschen erwiesen\.
+Ihr könnt uns töten,
+aber nicht schaden\.

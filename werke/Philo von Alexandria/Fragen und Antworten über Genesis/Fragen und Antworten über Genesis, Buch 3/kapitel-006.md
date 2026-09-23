@@ -7,9 +7,38 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-3#kapitel-21207203-bb45-447b-9c7e-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:88099011a8a94e7758e2655daee01c0460fe5e82b7b55d0ba2fc40c2031ceb8d`
-
-Warum heißt es: „Die Vögel aber teilte er nicht[^bible-7872544f-ef78-418d-8ab7-c16f12b7aee5]“? Er deutet eine fünfte und periodische Natur voraus, aus der nach Aussage der Alten der Himmel gemacht wurde\. Denn die vier Elemente sind eher Mischungen als Elemente; mit ihnen unterteilt er das, was bereits geteilt ist, in jene Stoffe, aus denen es ursprünglich zusammengesetzt war\. So schließt die Erde in sich einen Anteil der Elemente des Wassers, auch der Luft und des Feuers ein; ihren Namen erhält sie jedoch nicht so sehr nach unserer begrifflichen Auffassung von ihr, sondern nach dem, was wir sehen\. Und wiederum ist das Wasser nicht so klar oder rein, dass es nicht einen gewissen Anteil an Wind und Erde hätte\. Ebenso gibt es auch in jedem der übrigen Elemente eine bestimmte Durchmischung und Verbindung\. Die fünfte Substanz aber ist die einzige, die unvermischt und rein geschaffen wurde; deshalb wurde sie gewöhnlich überhaupt nicht genannt\. Darum heißt es treffend, dass er die Vögel nicht teilte, da die himmlische Natur, sowohl die der Planeten als auch die der Fixsterne, wie die der Vögel in die Höhe erhoben ist, in Ähnlichkeit mit beiden Arten, nämlich mit den reinen Vögeln, der Turteltaube und der Taube, die kaum eine Teilung oder Zerschneidung zulassen\. Denn die unteilbare Natur gehört zu einer fünften Wesenheit, unvermischter und reiner als die anderen; deshalb ähnelt sie der Einheit in höherem Maß\.
+Warum heißt es:
+„Die Vögel aber teilte er nicht[^bible-7872544f-ef78-418d-8ab7-c16f12b7aee5]“?
+Er deutet eine fünfte und periodische Natur voraus,
+aus der nach Aussage der Alten der Himmel gemacht wurde\.
+Denn die vier Elemente sind eher Mischungen als Elemente;
+mit ihnen unterteilt er das,
+was bereits geteilt ist,
+in jene Stoffe,
+aus denen es ursprünglich zusammengesetzt war\.
+So schließt die Erde in sich einen Anteil der Elemente des Wassers,
+auch der Luft und des Feuers ein;
+ihren Namen erhält sie jedoch nicht so sehr nach unserer begrifflichen Auffassung von ihr,
+sondern nach dem,
+was wir sehen\.
+Und wiederum ist das Wasser nicht so klar oder rein,
+dass es nicht einen gewissen Anteil an Wind und Erde hätte\.
+Ebenso gibt es auch in jedem der übrigen Elemente eine bestimmte Durchmischung und Verbindung\.
+Die fünfte Substanz aber ist die einzige,
+die unvermischt und rein geschaffen wurde;
+deshalb wurde sie gewöhnlich überhaupt nicht genannt\.
+Darum heißt es treffend,
+dass er die Vögel nicht teilte,
+da die himmlische Natur,
+sowohl die der Planeten als auch die der Fixsterne,
+wie die der Vögel in die Höhe erhoben ist,
+in Ähnlichkeit mit beiden Arten,
+nämlich mit den reinen Vögeln,
+der Turteltaube und der Taube,
+die kaum eine Teilung oder Zerschneidung zulassen\.
+Denn die unteilbare Natur gehört zu einer fünften Wesenheit,
+unvermischter und reiner als die anderen;
+deshalb ähnelt sie der Einheit in höherem Maß\.
 
 ## Bibelverweise
 

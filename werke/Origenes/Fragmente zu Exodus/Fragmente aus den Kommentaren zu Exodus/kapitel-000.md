@@ -7,9 +7,8 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/fragmente-aus-den-kommentaren-zu-exodus#kapitel-59c1797c-caf7-4667-57d2-08de5b572cf0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:58abdcc57bf83770e498e408c2adb2d4a0443ded480bb36590678d0a64b0e694`
-
-Aus den Schriften des Origenes zum Exodus über die Stelle: „Der Herr verhärtete das Herz des Pharao\.“[^bible-ee4e6137-518b-4f5b-b4d5-352f04e98ae2]
+Aus den Schriften des Origenes zum Exodus über die Stelle:
+„Der Herr verhärtete das Herz des Pharao\.“[^bible-ee4e6137-518b-4f5b-b4d5-352f04e98ae2]
 
 ## Bibelverweise
 

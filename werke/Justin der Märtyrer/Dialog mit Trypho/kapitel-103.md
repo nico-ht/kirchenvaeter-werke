@@ -7,11 +7,128 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-ff42f607-b991-4cfe-eff0-08de65b8739d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e0fcfa9a7e35d83d34cda8b93adcdbadf56b0b29ad7e1181474014057d64230a`
+Und die Worte,
+die im Psalm folgen:
+‚Denn die Not ist nahe;
+denn es gibt niemanden,
+der mir hilft\.
+Viele Kälber haben mich umringt;
+fette Bullen haben mich umzingelt\.
+Sie haben ihre Mäuler gegen mich aufgerissen wie ein reißender und brüllender Löwe\.
+Alle meine Knochen sind ausgeschüttet und zerstreut wie Wasser‘[^bible-1ad21214-32af-4010-a2ed-4f2ff2800e9e],
+waren ebenfalls eine Prophezeiung der Dinge,
+die ihm zustoßen würden\.
+Denn in jener Nacht,
+als Leute aus eurem Volk,
+die gemäß der Anweisung der Pharisäer,
+Schriftgelehrten und Lehrer gesandt worden waren,
+ihn am Ölberg trafen,
+umzingelten sie ihn;
+und so wurden sie vom Wort ‚Kälber mit Hörnern‘ genannt und als für das Verderben vorherbestimmt bezeichnet\.
+Durch die Worte ‚fette Bullen haben mich umzingelt‘ sagte er die Taten derer voraus,
+die sich wie Kälber aufführten,
+als er vor eure Lehrer geführt wurde\.
+Das Wort beschrieb diese Personen als Bullen,
+denn wie wir wissen,
+sind Bullen die Väter der Kälber\.
+Da nun Bullen die Väter der Kälber sind,
+so waren eure Lehrer die Ursache dafür,
+dass ihre Kinder zum Ölberg hinausgingen,
+um ihn zu fangen und zu ihnen zu führen\.
+Ebenso waren die Worte ‚Denn es gibt niemanden,
+der mir hilft‘ ein Hinweis auf das,
+was geschehen würde;
+denn es gab nicht eine einzige Person,
+die ihm half,
+so sündlos er auch war\.
+Und der Ausdruck ‚Sie haben ihre Mäuler gegen mich aufgerissen wie ein brüllender Löwe‘ meint Herodes,
+den damaligen König der Juden,
+einen Nachfolger jenes anderen Herodes,
+der alle männlichen Kinder abschlachtete,
+die zur Zeit von Christi Geburt in Bethlehem geboren wurden,
+weil er dachte,
+dass jener,
+über den die Magier aus Arabien gesprochen hatten,
+sicher unter ihnen sein würde\.
+Er wusste jedoch nichts von den Plänen des allmächtigen Gottes,
+der Josef und Maria befohlen hatte,
+das Kind zu nehmen und nach Ägypten zu gehen und dort zu bleiben,
+bis ihnen wiederum offenbart würde,
+dass sie in ihr eigenes Land zurückkehren sollten\.
+Und nach ihrem Aufbruch blieben sie dort bis zum Tod des Herodes,
+des Mörders der Kleinkinder von Bethlehem\.
+Auch Archelaus,
+der ihm nachfolgte,
+starb,
+bevor Christus durch seine Kreuzigung den Plan des Vaters für unsere Erlösung erfüllte\.
 
-Und die Worte, die im Psalm folgen: ‚Denn die Not ist nahe; denn es gibt niemanden, der mir hilft\. Viele Kälber haben mich umringt; fette Bullen haben mich umzingelt\. Sie haben ihre Mäuler gegen mich aufgerissen wie ein reißender und brüllender Löwe\. Alle meine Knochen sind ausgeschüttet und zerstreut wie Wasser‘[^bible-1ad21214-32af-4010-a2ed-4f2ff2800e9e], waren ebenfalls eine Prophezeiung der Dinge, die ihm zustoßen würden\. Denn in jener Nacht, als Leute aus eurem Volk, die gemäß der Anweisung der Pharisäer, Schriftgelehrten und Lehrer gesandt worden waren, ihn am Ölberg trafen, umzingelten sie ihn; und so wurden sie vom Wort ‚Kälber mit Hörnern‘ genannt und als für das Verderben vorherbestimmt bezeichnet\. Durch die Worte ‚fette Bullen haben mich umzingelt‘ sagte er die Taten derer voraus, die sich wie Kälber aufführten, als er vor eure Lehrer geführt wurde\. Das Wort beschrieb diese Personen als Bullen, denn wie wir wissen, sind Bullen die Väter der Kälber\. Da nun Bullen die Väter der Kälber sind, so waren eure Lehrer die Ursache dafür, dass ihre Kinder zum Ölberg hinausgingen, um ihn zu fangen und zu ihnen zu führen\. Ebenso waren die Worte ‚Denn es gibt niemanden, der mir hilft‘ ein Hinweis auf das, was geschehen würde; denn es gab nicht eine einzige Person, die ihm half, so sündlos er auch war\. Und der Ausdruck ‚Sie haben ihre Mäuler gegen mich aufgerissen wie ein brüllender Löwe‘ meint Herodes, den damaligen König der Juden, einen Nachfolger jenes anderen Herodes, der alle männlichen Kinder abschlachtete, die zur Zeit von Christi Geburt in Bethlehem geboren wurden, weil er dachte, dass jener, über den die Magier aus Arabien gesprochen hatten, sicher unter ihnen sein würde\. Er wusste jedoch nichts von den Plänen des allmächtigen Gottes, der Josef und Maria befohlen hatte, das Kind zu nehmen und nach Ägypten zu gehen und dort zu bleiben, bis ihnen wiederum offenbart würde, dass sie in ihr eigenes Land zurückkehren sollten\. Und nach ihrem Aufbruch blieben sie dort bis zum Tod des Herodes, des Mörders der Kleinkinder von Bethlehem\. Auch Archelaus, der ihm nachfolgte, starb, bevor Christus durch seine Kreuzigung den Plan des Vaters für unsere Erlösung erfüllte\.
-
-Und als Herodes dem Archelaus nachfolgte und die Befehlsgewalt erhielt, die ihm als sein Anteil zugefallen war, erwies ihm Pilatus einen Gefallen, indem er Jesus gefesselt zu ihm sandte; und dies hatte Gott in seinem Vorwissen mit folgenden Worten vorausgesagt: ‚Und \(nachdem sie ihn gefesselt hatten\) brachten sie ihn zum Assyrer, als Geschenk für den König\.‘[^bible-1af1342a-ed80-4dcf-82a0-6abc4cc4ce52] Oder es könnte sein, dass er mit dem Löwen, der gegen ihn brüllte, den Teufel selbst meinte, also denjenigen, den Mose die Schlange nannte, den Hiob und Sacharja den Teufel nannten und den Jesus als Satanas ansprach, womit er andeutete, dass er einen zusammengesetzten Namen trug, gebildet aus den Taten, die er vollbrachte; denn das Wort Sata bedeutet in der jüdischen und syrischen Sprache ‚Abtrünniger‘, während Nas das Wort ist, das übersetzt ‚Schlange‘ heißt; so wird aus beiden Teilen das eine Wort Satanas gebildet\. Es wird in den Aufzeichnungen der Apostel berichtet, dass sofort, als Jesus aus dem Fluss Jordan stieg und eine Stimme zu ihm sprach: ‚Du bist mein Sohn, heute habe ich dich gezeugt‘[^bible-1c5c5f9c-4af9-418a-bd80-03b5ce35564e], dieser Teufel kam und ihn versuchte, sogar so weit, dass er ausrief: ‚Bete mich an‘; Christus aber antwortete: ‚Weiche von mir, Satan; den Herrn, deinen Gott, sollst du anbeten und ihm allein dienen\!‘[^bible-bdce1ed9-9237-4900-8886-6ff877dc752c] Da der Teufel nämlich Adam getäuscht hatte, bildete er sich ein, er könne auch ihm irgendwie schaden\. Nun hat die Passage ‚Alle meine Knochen sind ausgeschüttet und zerstreut wie Wasser; mein Herz ist wie Wachs geworden, das inmitten meines Bauches schmilzt‘[^bible-30ac4248-b0b0-4bb9-af0a-8b4304f3ad55] das vorhergesagt, was in jener Nacht geschehen würde, als sie zum Ölberg kamen, um ihn zu fangen\. Denn in den Aufzeichnungen der Apostel und ihrer Nachfolger steht geschrieben, dass sein Schweiß wie Blutstropfen herabströmte, als er betete und sprach: ‚Wenn es möglich ist, lass diesen Kelch an mir vorübergehen\.‘[^bible-f8ea95a6-bc5d-4c8e-b30b-7feb307068ad] Offensichtlich bebten sein Herz und seine Knochen, und sein Herz war wie Wachs, das in seinem Bauch schmolz, damit wir verstehen, dass der Vater wünschte, dass sein Sohn diese schweren Leiden für uns in der Realität ertrug, und damit wir nicht behaupten, er habe – da er der Sohn Gottes war – nicht gefühlt, was ihm angetan und zugefügt wurde\. Und die Worte ‚Meine Kraft ist vertrocknet wie eine Tonscherbe, und meine Zunge klebt fest in meiner Kehle‘[^bible-59d95024-2f02-4756-89f4-77ef8aabb146] sagten voraus, dass er schweigen würde; denn tatsächlich antwortete er, der bewies, dass all eure Lehrer ohne Weisheit sind, kein Wort zu seiner eigenen Verteidigung\.
+Und als Herodes dem Archelaus nachfolgte und die Befehlsgewalt erhielt,
+die ihm als sein Anteil zugefallen war,
+erwies ihm Pilatus einen Gefallen,
+indem er Jesus gefesselt zu ihm sandte;
+und dies hatte Gott in seinem Vorwissen mit folgenden Worten vorausgesagt:
+‚Und \(nachdem sie ihn gefesselt hatten\) brachten sie ihn zum Assyrer,
+als Geschenk für den König\.‘[^bible-1af1342a-ed80-4dcf-82a0-6abc4cc4ce52]
+Oder es könnte sein,
+dass er mit dem Löwen,
+der gegen ihn brüllte,
+den Teufel selbst meinte,
+also denjenigen,
+den Mose die Schlange nannte,
+den Hiob und Sacharja den Teufel nannten und den Jesus als Satanas ansprach,
+womit er andeutete,
+dass er einen zusammengesetzten Namen trug,
+gebildet aus den Taten,
+die er vollbrachte;
+denn das Wort Sata bedeutet in der jüdischen und syrischen Sprache ‚Abtrünniger‘,
+während Nas das Wort ist,
+das übersetzt ‚Schlange‘ heißt;
+so wird aus beiden Teilen das eine Wort Satanas gebildet\.
+Es wird in den Aufzeichnungen der Apostel berichtet,
+dass sofort,
+als Jesus aus dem Fluss Jordan stieg und eine Stimme zu ihm sprach:
+‚Du bist mein Sohn,
+heute habe ich dich gezeugt‘[^bible-1c5c5f9c-4af9-418a-bd80-03b5ce35564e],
+dieser Teufel kam und ihn versuchte,
+sogar so weit,
+dass er ausrief:
+‚Bete mich an‘;
+Christus aber antwortete:
+‚Weiche von mir,
+Satan;
+den Herrn,
+deinen Gott,
+sollst du anbeten und ihm allein dienen\!‘[^bible-bdce1ed9-9237-4900-8886-6ff877dc752c]
+Da der Teufel nämlich Adam getäuscht hatte,
+bildete er sich ein,
+er könne auch ihm irgendwie schaden\.
+Nun hat die Passage ‚Alle meine Knochen sind ausgeschüttet und zerstreut wie Wasser;
+mein Herz ist wie Wachs geworden,
+das inmitten meines Bauches schmilzt‘[^bible-30ac4248-b0b0-4bb9-af0a-8b4304f3ad55] das vorhergesagt,
+was in jener Nacht geschehen würde,
+als sie zum Ölberg kamen,
+um ihn zu fangen\.
+Denn in den Aufzeichnungen der Apostel und ihrer Nachfolger steht geschrieben,
+dass sein Schweiß wie Blutstropfen herabströmte,
+als er betete und sprach:
+‚Wenn es möglich ist,
+lass diesen Kelch an mir vorübergehen\.‘[^bible-f8ea95a6-bc5d-4c8e-b30b-7feb307068ad]
+Offensichtlich bebten sein Herz und seine Knochen,
+und sein Herz war wie Wachs,
+das in seinem Bauch schmolz,
+damit wir verstehen,
+dass der Vater wünschte,
+dass sein Sohn diese schweren Leiden für uns in der Realität ertrug,
+und damit wir nicht behaupten,
+er habe – da er der Sohn Gottes war – nicht gefühlt,
+was ihm angetan und zugefügt wurde\.
+Und die Worte ‚Meine Kraft ist vertrocknet wie eine Tonscherbe,
+und meine Zunge klebt fest in meiner Kehle‘[^bible-59d95024-2f02-4756-89f4-77ef8aabb146] sagten voraus,
+dass er schweigen würde;
+denn tatsächlich antwortete er,
+der bewies,
+dass all eure Lehrer ohne Weisheit sind,
+kein Wort zu seiner eigenen Verteidigung\.
 
 ## Bibelverweise
 

@@ -7,6 +7,80 @@ Autor: Aristides von Athen
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/aristides-von-athen/apologie#kapitel-dc667239-421a-4b26-d550-08deb5c5d2c1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:03b1854e31862f5bff19faf0b1fde6a0236352bdd5a1453a0fc4a4c659d5bacc`
-
-Nach ihm führen sie einen weiteren Gott an und nennen ihn Apollon\. Von ihm sagen sie, er sei eifersüchtig und unbeständig; bald trage er Bogen und Köcher, bald wieder Leier und Plektron\. Auch gebe er den Menschen Orakel, damit er von ihnen Lohn empfange\. Braucht dieser Gott also Lohn? Doch es ist eine Schmähung, dass all dies bei einem Gott zu finden sein soll\. Nach ihm führen sie Artemis als Göttin an, die Schwester Apollons; und sie sagen, sie sei Jägerin gewesen, habe selbst Bogen und Pfeile getragen, sei auf den Bergen umhergestreift und habe die Hunde geführt, um Hirsche oder wilde Eber des Feldes zu jagen\. Doch es ist schändlich, dass eine Jungfrau allein auf den Hügeln umherstreift oder bei der Jagd Tieren nachstellt\. Darum ist es unmöglich, dass Artemis eine Göttin ist\. Weiter sagen sie von Aphrodite, sie sei tatsächlich eine Göttin\. Bald wohnt sie bei ihren Göttern, bald aber ist sie Nachbarin der Menschen\. Einst hatte sie Ares zum Geliebten, dann wieder Adonis, der Tammuz ist\. Einmal auch klagte und weinte Aphrodite um den Tod des Tammuz; und sie sagen, sie sei in den Scheol hinabgestiegen, um Adonis von Persephone freizukaufen, der Tochter des Scheol \(Hades\)\. Wenn Aphrodite also eine Göttin ist und ihrem Geliebten bei seinem Tod nicht helfen konnte, wie wird sie es dann fertigbringen, anderen zu helfen? Und man kann es nicht anhören, dass eine göttliche Natur zu Weinen, Klagen und Ehebruch kommen soll\. Und wieder sagen sie von Tammuz, er sei ein Gott\. Und er ist, fürwahr, ein Jäger und ein Ehebrecher\! Sie sagen, er sei durch die Verwundung von einem wilden Eber getötet worden, ohne sich retten zu können\. Wenn er sich aber nicht helfen konnte, wie kann er für das Menschengeschlecht Sorge tragen? Dass aber ein Gott ein Ehebrecher oder ein Jäger ist oder gewaltsam stirbt, ist unmöglich\. Wieder sagen sie von Rhea, sie sei die Mutter ihrer Götter\. Und sie sagen, sie habe einst Atys zum Geliebten gehabt und habe an verdorbenen Männern Gefallen gefunden\. Zuletzt erhob sie eine Klage und trauerte um Atys, ihren Geliebten\. Wenn also die Mutter ihrer Götter ihrem Geliebten nicht helfen und ihn nicht vom Tod befreien konnte, wie kann sie anderen helfen? So ist es schändlich, dass eine Göttin klagt und weint und an verdorbenen Männern Gefallen findet\. Wieder führen sie Kore ein und sagen, sie sei eine Göttin; sie wurde von Pluto geraubt und konnte sich nicht helfen\. Wenn sie also eine Göttin ist und sich nicht helfen konnte, wie wird sie Mittel finden, anderen zu helfen? Denn ein Gott, der geraubt wird, ist sehr machtlos\. All dies also, König, haben die Griechen über ihre Götter vorgebracht; sie haben es über sie erfunden und von ihnen ausgesagt\. Von daher erhielten alle Menschen den Antrieb, jede Gottlosigkeit und jede Befleckung zu begehen; und dadurch wurde die ganze Erde verdorben\.
+Nach ihm führen sie einen weiteren Gott an und nennen ihn Apollon\.
+Von ihm sagen sie,
+er sei eifersüchtig und unbeständig;
+bald trage er Bogen und Köcher,
+bald wieder Leier und Plektron\.
+Auch gebe er den Menschen Orakel,
+damit er von ihnen Lohn empfange\.
+Braucht dieser Gott also Lohn?
+Doch es ist eine Schmähung,
+dass all dies bei einem Gott zu finden sein soll\.
+Nach ihm führen sie Artemis als Göttin an,
+die Schwester Apollons;
+und sie sagen,
+sie sei Jägerin gewesen,
+habe selbst Bogen und Pfeile getragen,
+sei auf den Bergen umhergestreift und habe die Hunde geführt,
+um Hirsche oder wilde Eber des Feldes zu jagen\.
+Doch es ist schändlich,
+dass eine Jungfrau allein auf den Hügeln umherstreift oder bei der Jagd Tieren nachstellt\.
+Darum ist es unmöglich,
+dass Artemis eine Göttin ist\.
+Weiter sagen sie von Aphrodite,
+sie sei tatsächlich eine Göttin\.
+Bald wohnt sie bei ihren Göttern,
+bald aber ist sie Nachbarin der Menschen\.
+Einst hatte sie Ares zum Geliebten,
+dann wieder Adonis,
+der Tammuz ist\.
+Einmal auch klagte und weinte Aphrodite um den Tod des Tammuz;
+und sie sagen,
+sie sei in den Scheol hinabgestiegen,
+um Adonis von Persephone freizukaufen,
+der Tochter des Scheol \(Hades\)\.
+Wenn Aphrodite also eine Göttin ist und ihrem Geliebten bei seinem Tod nicht helfen konnte,
+wie wird sie es dann fertigbringen,
+anderen zu helfen?
+Und man kann es nicht anhören,
+dass eine göttliche Natur zu Weinen,
+Klagen und Ehebruch kommen soll\.
+Und wieder sagen sie von Tammuz,
+er sei ein Gott\.
+Und er ist,
+fürwahr,
+ein Jäger und ein Ehebrecher\!
+Sie sagen,
+er sei durch die Verwundung von einem wilden Eber getötet worden,
+ohne sich retten zu können\.
+Wenn er sich aber nicht helfen konnte,
+wie kann er für das Menschengeschlecht Sorge tragen?
+Dass aber ein Gott ein Ehebrecher oder ein Jäger ist oder gewaltsam stirbt,
+ist unmöglich\.
+Wieder sagen sie von Rhea,
+sie sei die Mutter ihrer Götter\.
+Und sie sagen,
+sie habe einst Atys zum Geliebten gehabt und habe an verdorbenen Männern Gefallen gefunden\.
+Zuletzt erhob sie eine Klage und trauerte um Atys,
+ihren Geliebten\.
+Wenn also die Mutter ihrer Götter ihrem Geliebten nicht helfen und ihn nicht vom Tod befreien konnte,
+wie kann sie anderen helfen?
+So ist es schändlich,
+dass eine Göttin klagt und weint und an verdorbenen Männern Gefallen findet\.
+Wieder führen sie Kore ein und sagen,
+sie sei eine Göttin;
+sie wurde von Pluto geraubt und konnte sich nicht helfen\.
+Wenn sie also eine Göttin ist und sich nicht helfen konnte,
+wie wird sie Mittel finden,
+anderen zu helfen?
+Denn ein Gott,
+der geraubt wird,
+ist sehr machtlos\.
+All dies also,
+König,
+haben die Griechen über ihre Götter vorgebracht;
+sie haben es über sie erfunden und von ihnen ausgesagt\.
+Von daher erhielten alle Menschen den Antrieb,
+jede Gottlosigkeit und jede Befleckung zu begehen;
+und dadurch wurde die ganze Erde verdorben\.

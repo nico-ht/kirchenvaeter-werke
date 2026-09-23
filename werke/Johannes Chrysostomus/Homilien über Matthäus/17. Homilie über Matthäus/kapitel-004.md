@@ -7,6 +7,172 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/17-homilie-ueber-matthaeus#kapitel-c0054a11-8734-41ae-5a76-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5f8c3bc6e93cd36857b70fd8054b2bb062c91d2e1a08bab6d629aeaa5993abdc`
-
-Er geht nicht eher zum Folgenden über, bis er das Vorhergehende gründlich bereinigt hat\. Sieh nur: Er zeigt uns noch eine andere Art des Ehebruchs\. Welche ist das? Es gab ein altes Gesetz: Wer seine eigene Frau aus irgendeinem Grund hasste, sollte nicht daran gehindert werden, sie fortzuschicken und an ihrer Stelle eine andere ins Haus zu holen\. Doch das Gesetz befahl nicht, dies einfach so zu tun, sondern der Frau eine Scheidungsurkunde zu geben, damit sie nicht mehr befugt wäre, wieder zu ihm zurückzukehren, und so wenigstens die Gestalt der Ehe bestehen bliebe\. Denn wenn er dies nicht angeordnet hätte, sondern es erlaubt gewesen wäre, sie fortzuschicken, eine andere zu nehmen und dann die erste wieder zurückzuholen, wäre große Verwirrung entstanden: Alle hätten fortwährend die Frauen der anderen genommen, und die Sache wäre offenkundig Ehebruch gewesen\. Darum hat die Scheidungsurkunde eine nicht geringe Abhilfe geschaffen\. Dies aber geschah wegen eines anderen, weit größeren Übels\. Denn wenn er gezwungen hätte, auch die gehasste Frau im Haus zu behalten, hätte der Hassende sie abgeschlachtet\. So war nämlich das Volk der Juden\. Diejenigen, die nicht einmal Kinder verschonten, Propheten töteten und Blut wie Wasser vergossen, hätten Frauen erst recht nicht verschont\. Darum ließ er das geringere Übel zu, um das größere auszuhauen\. Dass dieses Gesetz aber nicht ursprünglich gewollt war, hör ihn selbst sagen: „Mose hat euch das wegen eurer Herzenshärte geschrieben, damit ihr sie nicht im Haus abschlachtet, sondern nach draußen fortschickt\.“ Da er selbst aber den ganzen Zorn beseitigt hat, indem er nicht nur den Mord, sondern schon den bloßen Zorn verbot, führt er mit Leichtigkeit auch dieses Gesetz ein\. Darum erinnert er auch immer wieder an die früheren Worte, um zu zeigen, dass er nichts sagt, was ihnen widerspricht, sondern was zu ihnen passt: Er verschärft sie, er stürzt sie nicht um; er berichtigt, er löst nicht auf\. Sieh auch, wie er überall mit dem Mann spricht\. Denn wer seine Frau entlässt, sagt er, macht, dass sie Ehebruch begeht; und wer eine Entlassene heiratet, begeht Ehebruch\. Der eine hat sich nämlich, auch wenn er keine andere nimmt, eben dadurch der Anklage schuldig gemacht, dass er jene zur Ehebrecherin gemacht hat; der andere aber ist, weil er die Frau eines anderen genommen hat, seinerseits zum Ehebrecher geworden\. Sag mir also nicht: Jener hat sie doch fortgeschickt\. Denn auch fortgeschickt bleibt sie die Frau dessen, der sie fortgeschickt hat\. Dann, damit er nicht, indem er alles auf den schiebt, der sie fortschickt, die Frau noch eigensinniger macht, verschloss er ihr auch die Türen dessen, der sie danach aufnehmen könnte\. Indem er sagt: „Wer eine Entlassene heiratet, begeht Ehebruch“, bringt er die Frau auch gegen ihren Willen zur Besonnenheit, versperrt ihr den Zugang zu allen und erlaubt ihr nicht, Anlässe zu Kleinmut zu bieten\. Denn wenn sie gelernt hat, dass sie notwendig entweder den behalten muss, der ihr von Anfang an zugeteilt wurde, oder, wenn sie aus jenem Haus gefallen ist, keine andere Zuflucht hat, wird sie auch gegen ihren Willen gezwungen, den Hausgenossen zu lieben\. Wenn er aber mit ihr selbst über nichts davon spricht, wundere dich nicht; denn die Frau ist schwächer\. Darum lässt er sie beiseite und bessert ihre Nachlässigkeit durch die Drohung gegen die Männer\. So wäre es, wenn jemand einen verschwenderischen Sohn hätte, diesen beiseiteließe und diejenigen zur Rede stellte, die ihn so machen, und ihnen verböte, mit ihm zusammenzukommen oder sich ihm auch nur zu nähern\. Wenn dir dies aber drückend erscheint, erinnere dich an das, was vorher gesagt wurde, wofür er die Hörenden seliggepriesen hat, und du wirst sehen, dass es sehr wohl möglich und leicht ist\. Denn wie sollte der Sanftmütige, der Friedensstifter, der Arme im Geist und der Barmherzige seine Frau fortschicken? Wie sollte der, der andere versöhnt, selbst mit seiner eigenen Frau in Zwietracht geraten? Doch nicht nur auf diese Weise hat er das Gesetz leicht gemacht, sondern auch auf eine andere\. Denn auch hier lässt er einen einzigen Weg der Entlassung offen, indem er sagt: „außer wegen Unzucht“; sonst wäre die Sache wieder auf dasselbe hinausgelaufen\. Denn wenn er befohlen hätte, auch eine, die mit vielen verkehrt, im Haus zu behalten, hätte er die Sache wieder in Ehebruch verkehrt\. Siehst du, wie dies zum Vorhergehenden passt? Denn wer eine andere Frau nicht mit zügellosen Augen ansieht, wird keine Unzucht begehen; wer aber keine Unzucht begeht, wird dem Mann keinen Anlass geben, seine eigene Frau fortzuschicken\. Darum zieht er die Zügel nun unbedenklich straffer und errichtet die Furcht wie eine Schutzmauer, indem er dem Mann eine große Gefahr vor Augen stellt, wenn er sie fortschickt; denn er macht sich für ihren Ehebruch verantwortlich\. Damit du nämlich, wenn du hörst: „Reiß das Auge aus“, nicht meinst, dies werde auch von der Frau gesagt, fügte er zur rechten Zeit diese weitere Berichtigung hinzu: Er erlaubt, sie nur auf eine einzige Weise fortzuschicken, auf keine andere\. „Wieder habt ihr gehört, dass zu den Alten gesagt wurde: ‚Du sollst keinen Meineid schwören; du sollst aber dem Herrn deine Eide erfüllen\.‘ Ich aber sage euch: Schwört überhaupt nicht\.“ Weshalb kam er nicht sofort auf den Diebstahl zu sprechen, sondern auf das falsche Zeugnis und überging jenes Gebot? Weil der, der stiehlt, manchmal auch schwört; wer aber weiß, dass er weder schwören noch lügen darf, wird sich erst recht nicht dafür entscheiden zu stehlen\. So hat er durch dieses Gebot auch jene Sünde aufgehoben; denn die Lüge kommt vom Stehlen\. Was aber bedeutet: „Du sollst dem Herrn deine Eide erfüllen“? Das heißt: Du sollst die Wahrheit sagen, wenn du schwörst\. „Ich aber sage euch: Schwört überhaupt nicht\.“
+Er geht nicht eher zum Folgenden über,
+bis er das Vorhergehende gründlich bereinigt hat\.
+Sieh nur:
+Er zeigt uns noch eine andere Art des Ehebruchs\.
+Welche ist das?
+Es gab ein altes Gesetz:
+Wer seine eigene Frau aus irgendeinem Grund hasste,
+sollte nicht daran gehindert werden,
+sie fortzuschicken und an ihrer Stelle eine andere ins Haus zu holen\.
+Doch das Gesetz befahl nicht,
+dies einfach so zu tun,
+sondern der Frau eine Scheidungsurkunde zu geben,
+damit sie nicht mehr befugt wäre,
+wieder zu ihm zurückzukehren,
+und so wenigstens die Gestalt der Ehe bestehen bliebe\.
+Denn wenn er dies nicht angeordnet hätte,
+sondern es erlaubt gewesen wäre,
+sie fortzuschicken,
+eine andere zu nehmen und dann die erste wieder zurückzuholen,
+wäre große Verwirrung entstanden:
+Alle hätten fortwährend die Frauen der anderen genommen,
+und die Sache wäre offenkundig Ehebruch gewesen\.
+Darum hat die Scheidungsurkunde eine nicht geringe Abhilfe geschaffen\.
+Dies aber geschah wegen eines anderen,
+weit größeren Übels\.
+Denn wenn er gezwungen hätte,
+auch die gehasste Frau im Haus zu behalten,
+hätte der Hassende sie abgeschlachtet\.
+So war nämlich das Volk der Juden\.
+Diejenigen,
+die nicht einmal Kinder verschonten,
+Propheten töteten und Blut wie Wasser vergossen,
+hätten Frauen erst recht nicht verschont\.
+Darum ließ er das geringere Übel zu,
+um das größere auszuhauen\.
+Dass dieses Gesetz aber nicht ursprünglich gewollt war,
+hör ihn selbst sagen:
+„Mose hat euch das wegen eurer Herzenshärte geschrieben,
+damit ihr sie nicht im Haus abschlachtet,
+sondern nach draußen fortschickt\.“
+Da er selbst aber den ganzen Zorn beseitigt hat,
+indem er nicht nur den Mord,
+sondern schon den bloßen Zorn verbot,
+führt er mit Leichtigkeit auch dieses Gesetz ein\.
+Darum erinnert er auch immer wieder an die früheren Worte,
+um zu zeigen,
+dass er nichts sagt,
+was ihnen widerspricht,
+sondern was zu ihnen passt:
+Er verschärft sie,
+er stürzt sie nicht um;
+er berichtigt,
+er löst nicht auf\.
+Sieh auch,
+wie er überall mit dem Mann spricht\.
+Denn wer seine Frau entlässt,
+sagt er,
+macht,
+dass sie Ehebruch begeht;
+und wer eine Entlassene heiratet,
+begeht Ehebruch\.
+Der eine hat sich nämlich,
+auch wenn er keine andere nimmt,
+eben dadurch der Anklage schuldig gemacht,
+dass er jene zur Ehebrecherin gemacht hat;
+der andere aber ist,
+weil er die Frau eines anderen genommen hat,
+seinerseits zum Ehebrecher geworden\.
+Sag mir also nicht:
+Jener hat sie doch fortgeschickt\.
+Denn auch fortgeschickt bleibt sie die Frau dessen,
+der sie fortgeschickt hat\.
+Dann,
+damit er nicht,
+indem er alles auf den schiebt,
+der sie fortschickt,
+die Frau noch eigensinniger macht,
+verschloss er ihr auch die Türen dessen,
+der sie danach aufnehmen könnte\.
+Indem er sagt:
+„Wer eine Entlassene heiratet,
+begeht Ehebruch“,
+bringt er die Frau auch gegen ihren Willen zur Besonnenheit,
+versperrt ihr den Zugang zu allen und erlaubt ihr nicht,
+Anlässe zu Kleinmut zu bieten\.
+Denn wenn sie gelernt hat,
+dass sie notwendig entweder den behalten muss,
+der ihr von Anfang an zugeteilt wurde,
+oder,
+wenn sie aus jenem Haus gefallen ist,
+keine andere Zuflucht hat,
+wird sie auch gegen ihren Willen gezwungen,
+den Hausgenossen zu lieben\.
+Wenn er aber mit ihr selbst über nichts davon spricht,
+wundere dich nicht;
+denn die Frau ist schwächer\.
+Darum lässt er sie beiseite und bessert ihre Nachlässigkeit durch die Drohung gegen die Männer\.
+So wäre es,
+wenn jemand einen verschwenderischen Sohn hätte,
+diesen beiseiteließe und diejenigen zur Rede stellte,
+die ihn so machen,
+und ihnen verböte,
+mit ihm zusammenzukommen oder sich ihm auch nur zu nähern\.
+Wenn dir dies aber drückend erscheint,
+erinnere dich an das,
+was vorher gesagt wurde,
+wofür er die Hörenden seliggepriesen hat,
+und du wirst sehen,
+dass es sehr wohl möglich und leicht ist\.
+Denn wie sollte der Sanftmütige,
+der Friedensstifter,
+der Arme im Geist und der Barmherzige seine Frau fortschicken?
+Wie sollte der,
+der andere versöhnt,
+selbst mit seiner eigenen Frau in Zwietracht geraten?
+Doch nicht nur auf diese Weise hat er das Gesetz leicht gemacht,
+sondern auch auf eine andere\.
+Denn auch hier lässt er einen einzigen Weg der Entlassung offen,
+indem er sagt:
+„außer wegen Unzucht“;
+sonst wäre die Sache wieder auf dasselbe hinausgelaufen\.
+Denn wenn er befohlen hätte,
+auch eine,
+die mit vielen verkehrt,
+im Haus zu behalten,
+hätte er die Sache wieder in Ehebruch verkehrt\.
+Siehst du,
+wie dies zum Vorhergehenden passt?
+Denn wer eine andere Frau nicht mit zügellosen Augen ansieht,
+wird keine Unzucht begehen;
+wer aber keine Unzucht begeht,
+wird dem Mann keinen Anlass geben,
+seine eigene Frau fortzuschicken\.
+Darum zieht er die Zügel nun unbedenklich straffer und errichtet die Furcht wie eine Schutzmauer,
+indem er dem Mann eine große Gefahr vor Augen stellt,
+wenn er sie fortschickt;
+denn er macht sich für ihren Ehebruch verantwortlich\.
+Damit du nämlich,
+wenn du hörst:
+„Reiß das Auge aus“,
+nicht meinst,
+dies werde auch von der Frau gesagt,
+fügte er zur rechten Zeit diese weitere Berichtigung hinzu:
+Er erlaubt,
+sie nur auf eine einzige Weise fortzuschicken,
+auf keine andere\.
+„Wieder habt ihr gehört,
+dass zu den Alten gesagt wurde:
+‚Du sollst keinen Meineid schwören;
+du sollst aber dem Herrn deine Eide erfüllen\.‘
+Ich aber sage euch:
+Schwört überhaupt nicht\.“
+Weshalb kam er nicht sofort auf den Diebstahl zu sprechen,
+sondern auf das falsche Zeugnis und überging jenes Gebot?
+Weil der,
+der stiehlt,
+manchmal auch schwört;
+wer aber weiß,
+dass er weder schwören noch lügen darf,
+wird sich erst recht nicht dafür entscheiden zu stehlen\.
+So hat er durch dieses Gebot auch jene Sünde aufgehoben;
+denn die Lüge kommt vom Stehlen\.
+Was aber bedeutet:
+„Du sollst dem Herrn deine Eide erfüllen“?
+Das heißt:
+Du sollst die Wahrheit sagen,
+wenn du schwörst\.
+„Ich aber sage euch:
+Schwört überhaupt nicht\.“

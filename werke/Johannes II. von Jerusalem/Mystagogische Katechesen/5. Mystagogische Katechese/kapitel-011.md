@@ -7,9 +7,19 @@ Autor: Johannes II\. von Jerusalem
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/johannes-ii-von-jerusalem/5-mystagogische-katechese#kapitel-9fb5feec-8de6-40e1-072c-08def3162faa).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:53867cf2c99cac105e266629434b6c9a35e3498f32fae3cb2962f27ce719f52e`
-
-Danach sprichst du jenes Gebet, das der Erlöser seinen eigenen Jüngern übergeben hat: Mit reinem Gewissen nennst du Gott Vater und sagst: „Unser Vater, der du in den Himmeln bist\.[^bible-ddc12f3f-8c60-4189-8191-1060598980a8]“ O wie groß ist Gottes Menschenliebe\! Denen, die von ihm abgefallen und in äußerste Übel geraten waren, hat er eine so große Amnestie von den Übeln und Anteil an der Gnade geschenkt, dass sie ihn sogar Vater nennen dürfen\. Unser Vater, der du in den Himmeln bist\.[^bible-ddc12f3f-8c60-4189-8191-1060598980a8]Himmel aber könnten auch die sein, die das Abbild des Himmlischen tragen, in denen Gott wohnt und wandelt\.
+Danach sprichst du jenes Gebet,
+das der Erlöser seinen eigenen Jüngern übergeben hat:
+Mit reinem Gewissen nennst du Gott Vater und sagst:
+„Unser Vater,
+der du in den Himmeln bist\.[^bible-ddc12f3f-8c60-4189-8191-1060598980a8]“ O wie groß ist Gottes Menschenliebe\!
+Denen,
+die von ihm abgefallen und in äußerste Übel geraten waren,
+hat er eine so große Amnestie von den Übeln und Anteil an der Gnade geschenkt,
+dass sie ihn sogar Vater nennen dürfen\.
+Unser Vater,
+der du in den Himmeln bist\.[^bible-ddc12f3f-8c60-4189-8191-1060598980a8]Himmel aber könnten auch die sein,
+die das Abbild des Himmlischen tragen,
+in denen Gott wohnt und wandelt\.
 
 ## Bibelverweise
 

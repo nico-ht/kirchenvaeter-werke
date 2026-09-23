@@ -7,6 +7,43 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-6#kapitel-8db5463c-23c3-432d-2b0c-08de1f7dfc7a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:2646c5e0b2572aee4738c542486b9a48499845a7a0d90e827c23a5aa56c0b42b`
-
-Als Antoninus eine Regierung von sieben Jahren und sechs Monaten vollendet hatte, folgte ihm Macrinus\. Als dieser ein Jahr später starb, übernahm ein anderer Antoninus die Herrschaft über das römische Reich\. Im ersten Jahr seiner Regierung entschlief der Bischof von Rom, Zephyrinus, nach achtzehn Jahren im bischöflichen Amt\. Nach ihm erhielt Kallistus das Amt; nach fünf Jahren im Dienst überließ er bei seinem Tod den Bischofsstuhl Urban\. Nach Antoninus, der das römische Reich nur vier Jahre innehatte, gelangte es in die Hände Alexanders\. Damals starb auch in Antiochien Asklepiades, und Philetus trat die Nachfolge im Bischofsamt an\. Die Mutter des Kaisers Alexander, Mamaea, eine sehr gottesfürchtige Frau, hörte von Origenes’ Ruf, denn seine herrliche Berühmtheit hatte sich so weit verbreitet, dass sie selbst die Ohren der Herrscher erreichte\. Sie setzte daher alles daran, ihn zu sich zu holen, um selbst bestätigt zu bekommen, was sie sehen konnte, dass alle an seinem Schreiben, seiner Rede, seinem Glauben, seiner Klugheit und seiner Lehre aller Art bewunderten\. Deshalb sandte sie Männer aus dem Militärdienst, die ihn mit allen Zeichen von Ehrerbietung und inständigem Bitten baten, als wahren Ausleger des göttlichen Wortes und als Diener Gottes zu ihr nach Antiochien zu kommen, wo sie sich damals aufhielt\. Als er dorthin gegangen war und die Mühe und Zeit aufgewandt hatte, die nötig waren, um alles, was das Wort Gottes und die Herrlichkeit des Herrn betrifft, ordentlich zu ordnen, und die von ihm Unterwiesenen gefestigt und standhaft im Glauben zurückgelassen hatte, kehrte er zu seiner eigenen Schule in Alexandria zurück; durch seine Anwesenheit war er noch weit berühmter geworden als durch seinen Ruf\.
+Als Antoninus eine Regierung von sieben Jahren und sechs Monaten vollendet hatte,
+folgte ihm Macrinus\.
+Als dieser ein Jahr später starb,
+übernahm ein anderer Antoninus die Herrschaft über das römische Reich\.
+Im ersten Jahr seiner Regierung entschlief der Bischof von Rom,
+Zephyrinus,
+nach achtzehn Jahren im bischöflichen Amt\.
+Nach ihm erhielt Kallistus das Amt;
+nach fünf Jahren im Dienst überließ er bei seinem Tod den Bischofsstuhl Urban\.
+Nach Antoninus,
+der das römische Reich nur vier Jahre innehatte,
+gelangte es in die Hände Alexanders\.
+Damals starb auch in Antiochien Asklepiades,
+und Philetus trat die Nachfolge im Bischofsamt an\.
+Die Mutter des Kaisers Alexander,
+Mamaea,
+eine sehr gottesfürchtige Frau,
+hörte von Origenes’ Ruf,
+denn seine herrliche Berühmtheit hatte sich so weit verbreitet,
+dass sie selbst die Ohren der Herrscher erreichte\.
+Sie setzte daher alles daran,
+ihn zu sich zu holen,
+um selbst bestätigt zu bekommen,
+was sie sehen konnte,
+dass alle an seinem Schreiben,
+seiner Rede,
+seinem Glauben,
+seiner Klugheit und seiner Lehre aller Art bewunderten\.
+Deshalb sandte sie Männer aus dem Militärdienst,
+die ihn mit allen Zeichen von Ehrerbietung und inständigem Bitten baten,
+als wahren Ausleger des göttlichen Wortes und als Diener Gottes zu ihr nach Antiochien zu kommen,
+wo sie sich damals aufhielt\.
+Als er dorthin gegangen war und die Mühe und Zeit aufgewandt hatte,
+die nötig waren,
+um alles,
+was das Wort Gottes und die Herrlichkeit des Herrn betrifft,
+ordentlich zu ordnen,
+und die von ihm Unterwiesenen gefestigt und standhaft im Glauben zurückgelassen hatte,
+kehrte er zu seiner eigenen Schule in Alexandria zurück;
+durch seine Anwesenheit war er noch weit berühmter geworden als durch seinen Ruf\.

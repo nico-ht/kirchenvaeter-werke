@@ -7,11 +7,109 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/auszuege-aus-genesis-fragmente#kapitel-77f06455-b42a-4f87-ead3-08de02a1dc4b).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ecf6ec942546caf9d177fe31fe634822802720c2c8176ba2a7d49c11bc269643`
+Und „Furcht und Schrecken vor euch sei auf allen Tieren der Erde“[^bible-00d1f102-5800-4e27-a370-5cc7052293eb] – und das Folgende\.
+Manche drängen den Wortlaut dahin,
+dass sie behaupten,
+jedes Lebewesen fürchte beim Anblick des Menschen,
+ja sogar die wilden Tiere in der Einöde\.
+Vielleicht ist es aber besser,
+an die bösen Mächte zu denken,
+die wilden Tiere der Erde und die übrigen Arten von Gegnern,
+die vom Gerechten Schrecken erleiden,
+und dass der Schrecken auf solchen liegt\.
+Denn die bösen Mächte fürchten den Gerechten\.
+„Nur Blut einer Seele sollt ihr nicht essen;
+denn euer Blut,
+das der Seelen,
+will ich einfordern\.
+Aus der Hand aller Tiere will ich es einfordern\.“[^bible-4dacab80-9874-44ad-be18-0b920ad1c3be]
+Da der Wortlaut darauf hinweist,
+ist zu sagen:
+Die Tiere sind widerstehende Mächte,
+durch deren Hand die sündigende Seele stirbt;
+von ihrer Hand wird der Tod des Sünders eingefordert werden\.
+Man kann es aber auch auf die Tiere im engeren Sinn beziehen,
+von deren Hand er verfügt hat,
+dass der stoßende Stier gesteinigt werde\.
+„Denn im Bild Gottes habe ich den Menschen gemacht\.“[^bible-a4c3ef3e-a730-4f9d-995b-dfc2aa398b27]
+Gott sagt:
+„Im Bild Gottes habe ich den Menschen gemacht\.“
+Bild des unsichtbaren Gottes aber ist der Retter\.
+Also ist nach der Schrift auch der Retter Gott\.
+„Die Söhne aber Noahs,
+die aus der Arche herauskamen,
+waren Sem,
+Ham,
+Jafet\.
+Ham aber war der Vater Kanaans\.“[^bible-9906f393-9066-42ae-b695-c6dc66aed122]
+Warum hat die Schrift,
+nachdem sie gesagt hatte:
+„Und die Söhne Noahs,
+die aus der Arche herauskamen,
+waren Sem,
+Ham,
+Jafet“[^bible-863b9c65-6f49-4877-b061-2d2d188209a0],
+hinzugefügt:
+„Und Ham,
+dieser war der Vater Kanaans“[^bible-97c4c872-7dbe-49b5-a0c7-fd33a8cc9d2a]?
 
-Und „Furcht und Schrecken vor euch sei auf allen Tieren der Erde“[^bible-00d1f102-5800-4e27-a370-5cc7052293eb] – und das Folgende\. Manche drängen den Wortlaut dahin, dass sie behaupten, jedes Lebewesen fürchte beim Anblick des Menschen, ja sogar die wilden Tiere in der Einöde\. Vielleicht ist es aber besser, an die bösen Mächte zu denken, die wilden Tiere der Erde und die übrigen Arten von Gegnern, die vom Gerechten Schrecken erleiden, und dass der Schrecken auf solchen liegt\. Denn die bösen Mächte fürchten den Gerechten\. „Nur Blut einer Seele sollt ihr nicht essen; denn euer Blut, das der Seelen, will ich einfordern\. Aus der Hand aller Tiere will ich es einfordern\.“[^bible-4dacab80-9874-44ad-be18-0b920ad1c3be] Da der Wortlaut darauf hinweist, ist zu sagen: Die Tiere sind widerstehende Mächte, durch deren Hand die sündigende Seele stirbt; von ihrer Hand wird der Tod des Sünders eingefordert werden\. Man kann es aber auch auf die Tiere im engeren Sinn beziehen, von deren Hand er verfügt hat, dass der stoßende Stier gesteinigt werde\. „Denn im Bild Gottes habe ich den Menschen gemacht\.“[^bible-a4c3ef3e-a730-4f9d-995b-dfc2aa398b27] Gott sagt: „Im Bild Gottes habe ich den Menschen gemacht\.“ Bild des unsichtbaren Gottes aber ist der Retter\. Also ist nach der Schrift auch der Retter Gott\. „Die Söhne aber Noahs, die aus der Arche herauskamen, waren Sem, Ham, Jafet\. Ham aber war der Vater Kanaans\.“[^bible-9906f393-9066-42ae-b695-c6dc66aed122] Warum hat die Schrift, nachdem sie gesagt hatte: „Und die Söhne Noahs, die aus der Arche herauskamen, waren Sem, Ham, Jafet“[^bible-863b9c65-6f49-4877-b061-2d2d188209a0], hinzugefügt: „Und Ham, dieser war der Vater Kanaans“[^bible-97c4c872-7dbe-49b5-a0c7-fd33a8cc9d2a]?
-
-Wenn es nötig war, die Söhne zu nennen, hätte man alle nennen müssen, nicht nur Kanaan\. Kanaan aber wurde selbst gottlos, wie die Geschichte zeigt\. Weil der Geist also die Nähe des Vaters zu dem Sohn zeigen wollte, entfremdet er ihn gewissermaßen durch den Zusatz „Ham war der Vater Kanaans“ von der Frömmigkeit der Brüder\. Söhne waren zwar alle Söhne Noahs dem Geschlecht nach; nur dieser aber war dem Wesen nach kein Sohn, sondern Vater eines ähnlichen Kindes\. Darum steht es eindringlich: „Er war der Vater Kanaans\.“ Der Hebräer, der dies gesagt hat, brachte auch eine solche Überlieferung vor und legte der Überlieferung einen Beweis bei: Kanaan habe zuerst die Blöße des Großvaters gesehen und es seinem Vater allein gemeldet und dabei, wie über den Greis, gespottet\. Ham aber, der ebenso wie die Brüder nicht gottlos zum Vater hätte hingehen sollen, sondern auch den ersten, der es gesehen und verbreitet hatte, zurechtweisen, ließ sich vielmehr überzeugen, ging hinein, sah und berichtete es den Brüdern\. Das scheint freilich ein Märchen zu sein, wenn nicht der Beweis stark wäre: „Und Noah erwachte aus seinem Schlaf und erkannte, was ihm sein jüngerer Sohn getan hatte\.“[^bible-cdd96abd-7a57-454f-ae38-d460b59f81f2] Denn der jüngste Sohn war Ham nicht, sondern der zweite\. Es heißt ja: „Sem und Ham und Jafet“\. Hätte er den Jüngsten bezeichnen wollen, hätte er Jafet gesagt\. Weil Großväter aber die Nachkommen stets „Söhne“ nennen, auch die ferneren Abkömmlinge, hat die Schrift den äußersten der Nachkommen, Kanaan, genannt, dass er von Noah erkannt worden sei, weil er dies getan hat\. Und dass es so ist, fügt das göttliche Wort sogleich hinzu und sprach: „Verflucht sei Kanaan, ein Sklave der Sklaven werde er seinen Brüdern sein\.[^bible-fdf19638-d6ae-47a3-916c-e2de1390e19a]“ Wundert sich aber jemand, warum Ham, der selbst gottlos war, nicht dieselbe Verfluchung wie sein Sohn erhielt, so soll er erkennen: Wäre über Ham gesagt worden: „Er wird Sklave der Sklaven sein“, dann hätten an der Sklaverei auch seine Brüder Anteil bekommen, so wie die Brüder Kanaans gemäß dem Fluch zu Sklaven wurden, dessen Sklave Kanaan erklärt wurde\.
+Wenn es nötig war,
+die Söhne zu nennen,
+hätte man alle nennen müssen,
+nicht nur Kanaan\.
+Kanaan aber wurde selbst gottlos,
+wie die Geschichte zeigt\.
+Weil der Geist also die Nähe des Vaters zu dem Sohn zeigen wollte,
+entfremdet er ihn gewissermaßen durch den Zusatz „Ham war der Vater Kanaans“ von der Frömmigkeit der Brüder\.
+Söhne waren zwar alle Söhne Noahs dem Geschlecht nach;
+nur dieser aber war dem Wesen nach kein Sohn,
+sondern Vater eines ähnlichen Kindes\.
+Darum steht es eindringlich:
+„Er war der Vater Kanaans\.“
+Der Hebräer,
+der dies gesagt hat,
+brachte auch eine solche Überlieferung vor und legte der Überlieferung einen Beweis bei:
+Kanaan habe zuerst die Blöße des Großvaters gesehen und es seinem Vater allein gemeldet und dabei,
+wie über den Greis,
+gespottet\.
+Ham aber,
+der ebenso wie die Brüder nicht gottlos zum Vater hätte hingehen sollen,
+sondern auch den ersten,
+der es gesehen und verbreitet hatte,
+zurechtweisen,
+ließ sich vielmehr überzeugen,
+ging hinein,
+sah und berichtete es den Brüdern\.
+Das scheint freilich ein Märchen zu sein,
+wenn nicht der Beweis stark wäre:
+„Und Noah erwachte aus seinem Schlaf und erkannte,
+was ihm sein jüngerer Sohn getan hatte\.“[^bible-cdd96abd-7a57-454f-ae38-d460b59f81f2]
+Denn der jüngste Sohn war Ham nicht,
+sondern der zweite\.
+Es heißt ja:
+„Sem und Ham und Jafet“\.
+Hätte er den Jüngsten bezeichnen wollen,
+hätte er Jafet gesagt\.
+Weil Großväter aber die Nachkommen stets „Söhne“ nennen,
+auch die ferneren Abkömmlinge,
+hat die Schrift den äußersten der Nachkommen,
+Kanaan,
+genannt,
+dass er von Noah erkannt worden sei,
+weil er dies getan hat\.
+Und dass es so ist,
+fügt das göttliche Wort sogleich hinzu und sprach:
+„Verflucht sei Kanaan,
+ein Sklave der Sklaven werde er seinen Brüdern sein\.[^bible-fdf19638-d6ae-47a3-916c-e2de1390e19a]“ Wundert sich aber jemand,
+warum Ham,
+der selbst gottlos war,
+nicht dieselbe Verfluchung wie sein Sohn erhielt,
+so soll er erkennen:
+Wäre über Ham gesagt worden:
+„Er wird Sklave der Sklaven sein“,
+dann hätten an der Sklaverei auch seine Brüder Anteil bekommen,
+so wie die Brüder Kanaans gemäß dem Fluch zu Sklaven wurden,
+dessen Sklave Kanaan erklärt wurde\.
 
 ## Bibelverweise
 

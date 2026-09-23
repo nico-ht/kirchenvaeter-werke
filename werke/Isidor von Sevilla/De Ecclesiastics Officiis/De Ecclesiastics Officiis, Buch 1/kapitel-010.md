@@ -7,9 +7,59 @@ Autor: Isidor von Sevilla
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/isidor-von-sevilla/de-ecclesiastics-officiis-buch-1#kapitel-bc0a9e8a-58bb-4e35-f4db-08ded514b29a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:cfbb879cbb28647134418db289b7c8eeb7b45c3a5167f831a6f9b61807c010d0`
-
-Die Überlieferung lehrt, dass die Lesungen zu verkünden eine alte Einrichtung der Juden ist\. Denn an den rechtmäßigen und vorgeschriebenen Tagen gebrauchten sie in den Synagogen Lesungen aus dem Gesetz und den Propheten\. Die Kirchen Christi bewahren dies nach der alten Einsetzung der Väter\. Die Lesung ist eine keineswegs unbedeutende Erbauung der Hörer\. Darum ist es angemessen, dass, wenn Psalme gesungen werden, alle sie singen, dass, wenn gebetet wird, alle beten, und dass, wenn die Lesung gelesen wird, Schweigen eintritt, damit sie von allen gehört werden kann\. Denn selbst wenn dann jemand hereinkäme, während die Lesung gehalten wird, würde er einfach Gott anbeten und, nachdem er seine Stirn bezeichnet hat, aufmerksam sein Ohr hinwenden und sein Gebet beiseitelegen, damit er die Lesung nicht versäumt\. Es ist klar, dass wir während der Gebetszeit mit allen beten müssen; ebenso ist klar, dass jeder für sich beten kann, wann er will\. Das tun wir, weil man nicht immer eine Lesung zur Hand haben kann, während die Möglichkeit zu beten immer gegeben ist\. Du sollst auch nicht meinen, aus dem Hören der Lesung entstehe nur geringer Nutzen\. Vielleicht wird sogar das Gebet selbst stärker, wenn der Geist, von einer eben gehörten Lesung erfüllt, die Bilder göttlicher Dinge durchgeht, die er gerade vernommen hat\. Denn auch Maria, die Schwester der Marta, ‚hörte‘[^bible-9e4f76f3-be46-48a1-82a4-240a329876b7] aufmerksamer auf ‚das, was er sagte, und saß zu den Füßen des Herrn‘[^bible-9e4f76f3-be46-48a1-82a4-240a329876b7], nachdem sie ihre Schwester vernachlässigt hatte, und wurde durch die Stimme des Herrn bestärkt, der sagte, sie habe „‚den besseren Teil erwählt‘[^bible-e5d3c4a2-339d-4892-98ed-b9ff5a3692a4]“\. So mahnt auch der Diakon mit klarer Stimme zum Schweigen, damit, ob Psalme gesungen werden oder die Lesung gelesen wird, die Einheit von allen bewahrt wird, sodass das, was allen verkündigt wird, von allen in gleicher Weise gehört werden kann\.
+Die Überlieferung lehrt,
+dass die Lesungen zu verkünden eine alte Einrichtung der Juden ist\.
+Denn an den rechtmäßigen und vorgeschriebenen Tagen gebrauchten sie in den Synagogen Lesungen aus dem Gesetz und den Propheten\.
+Die Kirchen Christi bewahren dies nach der alten Einsetzung der Väter\.
+Die Lesung ist eine keineswegs unbedeutende Erbauung der Hörer\.
+Darum ist es angemessen,
+dass,
+wenn Psalme gesungen werden,
+alle sie singen,
+dass,
+wenn gebetet wird,
+alle beten,
+und dass,
+wenn die Lesung gelesen wird,
+Schweigen eintritt,
+damit sie von allen gehört werden kann\.
+Denn selbst wenn dann jemand hereinkäme,
+während die Lesung gehalten wird,
+würde er einfach Gott anbeten und,
+nachdem er seine Stirn bezeichnet hat,
+aufmerksam sein Ohr hinwenden und sein Gebet beiseitelegen,
+damit er die Lesung nicht versäumt\.
+Es ist klar,
+dass wir während der Gebetszeit mit allen beten müssen;
+ebenso ist klar,
+dass jeder für sich beten kann,
+wann er will\.
+Das tun wir,
+weil man nicht immer eine Lesung zur Hand haben kann,
+während die Möglichkeit zu beten immer gegeben ist\.
+Du sollst auch nicht meinen,
+aus dem Hören der Lesung entstehe nur geringer Nutzen\.
+Vielleicht wird sogar das Gebet selbst stärker,
+wenn der Geist,
+von einer eben gehörten Lesung erfüllt,
+die Bilder göttlicher Dinge durchgeht,
+die er gerade vernommen hat\.
+Denn auch Maria,
+die Schwester der Marta,
+‚hörte‘[^bible-9e4f76f3-be46-48a1-82a4-240a329876b7] aufmerksamer auf ‚das,
+was er sagte,
+und saß zu den Füßen des Herrn‘[^bible-9e4f76f3-be46-48a1-82a4-240a329876b7],
+nachdem sie ihre Schwester vernachlässigt hatte,
+und wurde durch die Stimme des Herrn bestärkt,
+der sagte,
+sie habe „‚den besseren Teil erwählt‘[^bible-e5d3c4a2-339d-4892-98ed-b9ff5a3692a4]“\.
+So mahnt auch der Diakon mit klarer Stimme zum Schweigen,
+damit,
+ob Psalme gesungen werden oder die Lesung gelesen wird,
+die Einheit von allen bewahrt wird,
+sodass das,
+was allen verkündigt wird,
+von allen in gleicher Weise gehört werden kann\.
 
 ## Bibelverweise
 

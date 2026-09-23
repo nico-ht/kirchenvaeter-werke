@@ -7,25 +7,573 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-iii#kapitel-812a3ec5-b007-476f-0370-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b5740be2c308e157524d456e673104cf52c7720ae25c7ad268c5dd0da4ee6917`
+Es gibt aber einige,
+die sagen,
+Jesus sei lediglich ein Gefäß Christi gewesen;
+auf ihn sei Christus wie eine Taube von oben herabgekommen,
+und nachdem er den unnennbaren Vater verkündet hatte,
+sei er auf unbegreifliche und unsichtbare Weise in das Pleroma eingegangen\.
+Denn er sei nicht erfasst worden,
+nicht nur nicht von Menschen,
+sondern nicht einmal von den Mächten und Kräften im Himmel;
+Jesus sei der Sohn gewesen,
+Christus aber der Vater,
+und der Vater Christi sei Gott\.
+Andere wiederum sagen,
+er habe nur dem äußeren Anschein nach gelitten,
+da er seiner Natur nach leidensunfähig sei\.
+Die Valentinianer dagegen behaupten,
+der Jesus der Heilsordnung sei derselbe gewesen,
+der durch Maria hindurchging;
+auf ihn sei jener Erlöser aus dem höheren Bereich herabgekommen,
+der auch Pan genannt worden sei,
+weil er die Namen all derer besessen habe,
+die ihn hervorgebracht hatten\.
+Dieser aber habe dem Jesus der Heilsordnung seine Kraft und seinen Namen mitgeteilt,
+sodass durch ihn der Tod aufgehoben,
+der Vater aber durch jenen Erlöser bekannt gemacht wurde,
+der von oben herabgekommen war\.
+Von diesem behaupten sie auch,
+er selbst sei das Gefäß Christi und des ganzen Pleroma\.
+Mit der Zunge bekennen sie zwar einen Christus Jesus,
+in ihrer tatsächlichen Auffassung aber sind sie gespalten\.
+Denn,
+wie ich schon bemerkt habe,
+ist es die Gewohnheit dieser Leute zu sagen,
+es gebe einen Christus,
+der vom Eingeborenen hervorgebracht wurde,
+um das Pleroma zu festigen;
+ein anderer aber,
+der Erlöser,
+sei ausgesandt worden,
+um den Vater zu verherrlichen;
+und wieder ein anderer sei der Jesus der Heilsordnung,
+den sie als den darstellen,
+der gelitten habe und der auch Christus in sich getragen habe,
+jenen Erlöser,
+der in das Pleroma zurückkehrte\.
+Darum halte ich es für notwendig,
+die ganze Auffassung der Apostel über unseren Herrn Jesus Christus zu berücksichtigen und zu zeigen,
+dass sie nicht nur niemals solche Meinungen über ihn vertraten,
+sondern darüber hinaus durch den Heiligen Geist ankündigten,
+dass diejenigen,
+die solche Lehren vortragen würden,
+Werkzeuge Satans seien,
+ausgesandt,
+um den Glauben mancher umzustürzen und sie vom Leben abzubringen\.
 
-Es gibt aber einige, die sagen, Jesus sei lediglich ein Gefäß Christi gewesen; auf ihn sei Christus wie eine Taube von oben herabgekommen, und nachdem er den unnennbaren Vater verkündet hatte, sei er auf unbegreifliche und unsichtbare Weise in das Pleroma eingegangen\. Denn er sei nicht erfasst worden, nicht nur nicht von Menschen, sondern nicht einmal von den Mächten und Kräften im Himmel; Jesus sei der Sohn gewesen, Christus aber der Vater, und der Vater Christi sei Gott\. Andere wiederum sagen, er habe nur dem äußeren Anschein nach gelitten, da er seiner Natur nach leidensunfähig sei\. Die Valentinianer dagegen behaupten, der Jesus der Heilsordnung sei derselbe gewesen, der durch Maria hindurchging; auf ihn sei jener Erlöser aus dem höheren Bereich herabgekommen, der auch Pan genannt worden sei, weil er die Namen all derer besessen habe, die ihn hervorgebracht hatten\. Dieser aber habe dem Jesus der Heilsordnung seine Kraft und seinen Namen mitgeteilt, sodass durch ihn der Tod aufgehoben, der Vater aber durch jenen Erlöser bekannt gemacht wurde, der von oben herabgekommen war\. Von diesem behaupten sie auch, er selbst sei das Gefäß Christi und des ganzen Pleroma\. Mit der Zunge bekennen sie zwar einen Christus Jesus, in ihrer tatsächlichen Auffassung aber sind sie gespalten\. Denn, wie ich schon bemerkt habe, ist es die Gewohnheit dieser Leute zu sagen, es gebe einen Christus, der vom Eingeborenen hervorgebracht wurde, um das Pleroma zu festigen; ein anderer aber, der Erlöser, sei ausgesandt worden, um den Vater zu verherrlichen; und wieder ein anderer sei der Jesus der Heilsordnung, den sie als den darstellen, der gelitten habe und der auch Christus in sich getragen habe, jenen Erlöser, der in das Pleroma zurückkehrte\. Darum halte ich es für notwendig, die ganze Auffassung der Apostel über unseren Herrn Jesus Christus zu berücksichtigen und zu zeigen, dass sie nicht nur niemals solche Meinungen über ihn vertraten, sondern darüber hinaus durch den Heiligen Geist ankündigten, dass diejenigen, die solche Lehren vortragen würden, Werkzeuge Satans seien, ausgesandt, um den Glauben mancher umzustürzen und sie vom Leben abzubringen\.
+Dass Johannes das eine und selbe Wort Gottes kannte,
+dass es der Eingeborene war und dass es zu unserem Heil Fleisch annahm,
+Jesus Christus,
+unser Herr,
+habe ich aus dem Wort des Johannes selbst hinreichend bewiesen\.
+Auch Matthäus erkennt den einen und selben Jesus Christus an und zeigt seine Geburt als Mensch aus der Jungfrau\.
+Denn Gott hatte David verheißen,
+er werde aus der Frucht seines Leibes einen ewigen König erwecken,
+nachdem er dieselbe Verheißung lange zuvor Abraham gegeben hatte\.
+Darum sagt Matthäus:
+„Buch der Geburt Jesu Christi,
+des Sohnes Davids,
+des Sohnes Abrahams[^bible-d9d88e54-1e69-4ed2-88c7-d33ea30b8e06]\.“
+Dann,
+um unseren Gedanken jeden Verdacht in Bezug auf Josef zu nehmen,
+sagt er:
+„Mit der Geburt Christi aber verhielt es sich so:
+Als seine Mutter mit Josef verlobt war,
+noch bevor sie zusammenkamen,
+fand es sich,
+dass sie vom Heiligen Geist schwanger war[^bible-75c69db3-8e0f-4c02-bc5c-c25619d511e0]\.“
+Als Josef dann erwog,
+Maria fortzuschicken,
+weil sie schwanger war,
+berichtet Matthäus,
+wie der Engel Gottes bei ihm stand und sagte:
+„Fürchte dich nicht,
+Maria,
+deine Frau,
+zu dir zu nehmen;
+denn was in ihr gezeugt ist,
+ist vom Heiligen Geist\.
+Sie wird einen Sohn gebären,
+und du sollst ihm den Namen Jesus geben;
+denn er wird sein Volk von seinen Sünden retten\.
+Dies alles aber ist geschehen,
+damit erfüllt würde,
+was vom Herrn durch den Propheten gesprochen wurde:
+Siehe,
+eine Jungfrau wird empfangen und einen Sohn gebären,
+und man wird ihm den Namen Emmanuel geben,
+das heißt:
+Gott mit uns[^bible-4366d3bc-7539-46a3-b099-ec3aadc3c57f]\.“
+Damit bezeichnet er klar,
+dass die Verheißung an die Väter erfüllt war,
+dass der Sohn Gottes aus einer Jungfrau geboren wurde und dass er selbst Christus ist,
+der Erlöser,
+den die Propheten vorhergesagt hatten\.
+Nicht so,
+wie diese Leute behaupten,
+als wäre Jesus der von Maria Geborene,
+Christus aber der,
+der von oben herabstieg\.
+Matthäus hätte gewiss sagen können:
+„Mit der Geburt Jesu aber verhielt es sich so[^bible-75c69db3-8e0f-4c02-bc5c-c25619d511e0]\.“
+Doch der Heilige Geist sah die Verderber der Wahrheit voraus und wehrte ihrem Betrug im Voraus,
+indem er durch Matthäus sagt:
+„Mit der Geburt Christi aber verhielt es sich so\.“
+Und dass er Emmanuel ist,
+sagt er,
+damit wir ihn nicht etwa für einen bloßen Menschen halten\.
+Denn „nicht aus dem Willen des Fleisches und nicht aus dem Willen des Mannes,
+sondern aus dem Willen Gottes wurde das Wort Fleisch[^bible-3fbdddd4-638d-4132-bab6-a0c3cea6a3ca]“,
+und damit wir nicht meinen,
+Jesus sei der eine und Christus ein anderer,
+sondern wissen,
+dass beide einer und derselbe sind\.
 
-Dass Johannes das eine und selbe Wort Gottes kannte, dass es der Eingeborene war und dass es zu unserem Heil Fleisch annahm, Jesus Christus, unser Herr, habe ich aus dem Wort des Johannes selbst hinreichend bewiesen\. Auch Matthäus erkennt den einen und selben Jesus Christus an und zeigt seine Geburt als Mensch aus der Jungfrau\. Denn Gott hatte David verheißen, er werde aus der Frucht seines Leibes einen ewigen König erwecken, nachdem er dieselbe Verheißung lange zuvor Abraham gegeben hatte\. Darum sagt Matthäus: „Buch der Geburt Jesu Christi, des Sohnes Davids, des Sohnes Abrahams[^bible-d9d88e54-1e69-4ed2-88c7-d33ea30b8e06]\.“ Dann, um unseren Gedanken jeden Verdacht in Bezug auf Josef zu nehmen, sagt er: „Mit der Geburt Christi aber verhielt es sich so: Als seine Mutter mit Josef verlobt war, noch bevor sie zusammenkamen, fand es sich, dass sie vom Heiligen Geist schwanger war[^bible-75c69db3-8e0f-4c02-bc5c-c25619d511e0]\.“ Als Josef dann erwog, Maria fortzuschicken, weil sie schwanger war, berichtet Matthäus, wie der Engel Gottes bei ihm stand und sagte: „Fürchte dich nicht, Maria, deine Frau, zu dir zu nehmen; denn was in ihr gezeugt ist, ist vom Heiligen Geist\. Sie wird einen Sohn gebären, und du sollst ihm den Namen Jesus geben; denn er wird sein Volk von seinen Sünden retten\. Dies alles aber ist geschehen, damit erfüllt würde, was vom Herrn durch den Propheten gesprochen wurde: Siehe, eine Jungfrau wird empfangen und einen Sohn gebären, und man wird ihm den Namen Emmanuel geben, das heißt: Gott mit uns[^bible-4366d3bc-7539-46a3-b099-ec3aadc3c57f]\.“ Damit bezeichnet er klar, dass die Verheißung an die Väter erfüllt war, dass der Sohn Gottes aus einer Jungfrau geboren wurde und dass er selbst Christus ist, der Erlöser, den die Propheten vorhergesagt hatten\. Nicht so, wie diese Leute behaupten, als wäre Jesus der von Maria Geborene, Christus aber der, der von oben herabstieg\. Matthäus hätte gewiss sagen können: „Mit der Geburt Jesu aber verhielt es sich so[^bible-75c69db3-8e0f-4c02-bc5c-c25619d511e0]\.“ Doch der Heilige Geist sah die Verderber der Wahrheit voraus und wehrte ihrem Betrug im Voraus, indem er durch Matthäus sagt: „Mit der Geburt Christi aber verhielt es sich so\.“ Und dass er Emmanuel ist, sagt er, damit wir ihn nicht etwa für einen bloßen Menschen halten\. Denn „nicht aus dem Willen des Fleisches und nicht aus dem Willen des Mannes, sondern aus dem Willen Gottes wurde das Wort Fleisch[^bible-3fbdddd4-638d-4132-bab6-a0c3cea6a3ca]“, und damit wir nicht meinen, Jesus sei der eine und Christus ein anderer, sondern wissen, dass beide einer und derselbe sind\.
+Paulus hat ebendies in seinem Schreiben an die Römer dargelegt:
+„Paulus,
+Apostel Jesu Christi,
+auf das Evangelium Gottes hin bestimmt,
+das er durch seine Propheten in den heiligen Schriften zuvor verheißen hatte,
+über seinen Sohn,
+der ihm dem Fleisch nach aus dem Samen Davids geworden ist,
+der als Sohn Gottes in Kraft bestimmt wurde nach dem Geist der Heiligkeit durch die Auferstehung von den Toten:
+unseren Herrn Jesus Christus\.[^bible-d931dc6f-16ad-4350-8521-fafaa6498d24]“ Und wiederum schreibt er den Römern über Israel:
+„Ihnen gehören die Väter,
+und aus ihnen stammt Christus dem Fleisch nach,
+der Gott über allem ist,
+gepriesen in Ewigkeit\.[^bible-2d9cfd3d-829b-47ed-9831-df386e531e29]“ Und wiederum sagt er in seinem Brief an die Galater:
+„Als aber die Fülle der Zeit gekommen war,
+sandte Gott seinen Sohn aus,
+geworden aus einer Frau,
+geworden unter das Gesetz,
+um die zu erlösen,
+die unter dem Gesetz waren,
+damit wir die Sohnschaft empfingen\.[^bible-0863830f-45ae-40f0-9f2f-86612b6d3f08]“ Damit zeigt er klar:
+Es gibt den einen Gott,
+der durch die Propheten den Sohn verheißen hat,
+und den einen Jesus Christus,
+unseren Herrn,
+der nach seiner Geburt aus Maria aus dem Samen Davids war;
+und Jesus Christus wurde nach dem Geist der Heiligkeit durch die Auferstehung von den Toten als Sohn Gottes in Kraft eingesetzt,
+als der Erstgeborene in der ganzen Schöpfung\.
+Der Sohn Gottes wurde zum Menschensohn,
+damit wir durch ihn die Sohnschaft empfangen,
+indem die Menschheit den Sohn Gottes trägt,
+empfängt und umfasst\.
+Darum sagt auch Markus:
+„Anfang des Evangeliums Jesu Christi,
+des Sohnes Gottes,
+wie es in den Propheten geschrieben steht\.[^bible-88e37607-d147-41f2-adb6-f5c72271366a]“ Er kennt den einen und selben Sohn Gottes,
+Jesus Christus,
+der von den Propheten angekündigt wurde,
+der aus der Frucht von Davids Leib Emmanuel war,
+„der Bote des großen Ratschlusses des Vaters[^bible-b2bda7eb-7e91-46e4-aa8f-4ebbef448524]“;
+durch ihn ließ Gott dem Haus David den Aufgang und den Gerechten aufgehen und richtete ihm ein Horn des Heils auf,
+„und stellte ein Zeugnis in Jakob auf[^bible-70d51bdc-d9f9-461a-8791-8126fbe0dbfe]“,
+wie David sagt,
+wenn er über die Gründe der Geburt Christi spricht:
+„Und er setzte ein Gesetz in Israel ein,
+damit ein anderes Geschlecht ihn erkenne,
+die Kinder,
+die aus ihnen geboren werden sollten;
+und sie sollen aufstehen und es ihren Kindern verkünden,
+damit sie ihre Hoffnung auf Gott setzen und nach seinen Geboten suchen\.[^bible-ed4d7e3b-b8bb-4444-8b2a-88b28447183c]“ Und wiederum sagte der Engel,
+als er Maria die gute Botschaft brachte:
+„Er wird groß sein und Sohn des Höchsten genannt werden;
+und der Herr wird ihm den Thron seines Vaters David geben\.[^bible-f08d466f-431b-49cf-8a15-08806d9cf072]“ In diesem Wort wird anerkannt,
+dass derselbe,
+der der Sohn des Höchsten ist,
+auch selbst der Sohn Davids ist\.
+Und David,
+der durch den Geist die Heilsordnung der Ankunft dieser Person kannte,
+durch die Christus über alle Lebenden und Toten Herr ist,
+bekannte ihn als Herrn,
+der zur Rechten des höchsten Vaters sitzt[^bible-dd15390e-d926-4d32-a367-bc2d0b5b1e02]\.
 
-Paulus hat ebendies in seinem Schreiben an die Römer dargelegt: „Paulus, Apostel Jesu Christi, auf das Evangelium Gottes hin bestimmt, das er durch seine Propheten in den heiligen Schriften zuvor verheißen hatte, über seinen Sohn, der ihm dem Fleisch nach aus dem Samen Davids geworden ist, der als Sohn Gottes in Kraft bestimmt wurde nach dem Geist der Heiligkeit durch die Auferstehung von den Toten: unseren Herrn Jesus Christus\.[^bible-d931dc6f-16ad-4350-8521-fafaa6498d24]“ Und wiederum schreibt er den Römern über Israel: „Ihnen gehören die Väter, und aus ihnen stammt Christus dem Fleisch nach, der Gott über allem ist, gepriesen in Ewigkeit\.[^bible-2d9cfd3d-829b-47ed-9831-df386e531e29]“ Und wiederum sagt er in seinem Brief an die Galater: „Als aber die Fülle der Zeit gekommen war, sandte Gott seinen Sohn aus, geworden aus einer Frau, geworden unter das Gesetz, um die zu erlösen, die unter dem Gesetz waren, damit wir die Sohnschaft empfingen\.[^bible-0863830f-45ae-40f0-9f2f-86612b6d3f08]“ Damit zeigt er klar: Es gibt den einen Gott, der durch die Propheten den Sohn verheißen hat, und den einen Jesus Christus, unseren Herrn, der nach seiner Geburt aus Maria aus dem Samen Davids war; und Jesus Christus wurde nach dem Geist der Heiligkeit durch die Auferstehung von den Toten als Sohn Gottes in Kraft eingesetzt, als der Erstgeborene in der ganzen Schöpfung\. Der Sohn Gottes wurde zum Menschensohn, damit wir durch ihn die Sohnschaft empfangen, indem die Menschheit den Sohn Gottes trägt, empfängt und umfasst\. Darum sagt auch Markus: „Anfang des Evangeliums Jesu Christi, des Sohnes Gottes, wie es in den Propheten geschrieben steht\.[^bible-88e37607-d147-41f2-adb6-f5c72271366a]“ Er kennt den einen und selben Sohn Gottes, Jesus Christus, der von den Propheten angekündigt wurde, der aus der Frucht von Davids Leib Emmanuel war, „der Bote des großen Ratschlusses des Vaters[^bible-b2bda7eb-7e91-46e4-aa8f-4ebbef448524]“; durch ihn ließ Gott dem Haus David den Aufgang und den Gerechten aufgehen und richtete ihm ein Horn des Heils auf, „und stellte ein Zeugnis in Jakob auf[^bible-70d51bdc-d9f9-461a-8791-8126fbe0dbfe]“, wie David sagt, wenn er über die Gründe der Geburt Christi spricht: „Und er setzte ein Gesetz in Israel ein, damit ein anderes Geschlecht ihn erkenne, die Kinder, die aus ihnen geboren werden sollten; und sie sollen aufstehen und es ihren Kindern verkünden, damit sie ihre Hoffnung auf Gott setzen und nach seinen Geboten suchen\.[^bible-ed4d7e3b-b8bb-4444-8b2a-88b28447183c]“ Und wiederum sagte der Engel, als er Maria die gute Botschaft brachte: „Er wird groß sein und Sohn des Höchsten genannt werden; und der Herr wird ihm den Thron seines Vaters David geben\.[^bible-f08d466f-431b-49cf-8a15-08806d9cf072]“ In diesem Wort wird anerkannt, dass derselbe, der der Sohn des Höchsten ist, auch selbst der Sohn Davids ist\. Und David, der durch den Geist die Heilsordnung der Ankunft dieser Person kannte, durch die Christus über alle Lebenden und Toten Herr ist, bekannte ihn als Herrn, der zur Rechten des höchsten Vaters sitzt[^bible-dd15390e-d926-4d32-a367-bc2d0b5b1e02]\.
+Auch Simeon,
+der vom Heiligen Geist die Zusage erhalten hatte,
+den Tod nicht zu sehen,
+bevor er Christus Jesus geschaut hätte[^bible-ae64dbf5-6988-4a67-8428-013085e74a68],
+nahm ihn,
+den Erstgeborenen der Jungfrau,
+in seine Arme,
+pries Gott und sagte:
+„Herr,
+nun lässt du deinen Diener in Frieden scheiden nach deinem Wort;
+denn meine Augen haben dein Heil gesehen,
+das du vor dem Angesicht aller Völker bereitet hast:
+ein Licht zur Erleuchtung der Heiden und die Herrlichkeit deines Volkes Israel[^bible-638d98ea-e46f-4173-9310-2f74fee4444f]\.“
+Damit bekannte er:
+Das Kind,
+das er in seinen Armen hielt,
+Jesus,
+von Maria geboren,
+war Christus selbst,
+der Sohn Gottes,
+das Licht aller,
+die Herrlichkeit Israels selbst und der Friede und die Erquickung derer,
+die entschlafen waren\.
+Denn schon damals beraubte er die Menschen,
+indem er ihre Unwissenheit wegnahm,
+ihnen seine eigene Erkenntnis schenkte und die,
+die ihn erkannten,
+weithin ausstreute,
+wie Jesaja sagt:
+„Nenne seinen Namen:
+Schnell raube,
+rasch teile[^bible-4498bb1b-3482-448d-9c6b-79e6d59da5ad]\.“
+Das nun sind die Werke Christi\.
+Er selbst also war Christus:
+Ihn trug Simeon in seinen Armen und pries den Höchsten;
+ihn sahen die Hirten und verherrlichten Gott;
+ihn erkannte Johannes als den Herrn,
+als er noch im Leib seiner Mutter war und Christus im Leib Marias,
+und begrüßte ihn mit einem Sprung;
+ihn sahen die Magier,
+warfen sich nieder und brachten ihm ihre Gaben dar[^bible-f5cb7f5b-da10-4fa3-8966-8ed8c45280b1],
+wie ich schon gesagt habe,
+und nachdem sie vor dem ewigen König niedergefallen waren,
+zogen sie auf einem anderen Weg fort und kehrten nicht mehr auf dem Weg der Assyrer zurück[^bible-ee987b59-f921-4246-97d6-43513061f20a]\.
+„Denn bevor das Kind Vater oder Mutter rufen kann,
+wird es die Macht von Damaskus und die Beute Samarias vor dem König der Assyrer empfangen[^bible-9648749f-ddcb-47f6-9e8a-3ef626cf3a6d]\.“
+Damit erklärt er zwar geheimnisvoll,
+aber mit Nachdruck,
+dass der Herr mit verborgener Hand gegen Amalek kämpfte\.
+Deshalb nahm er auch plötzlich jene Kinder aus dem Haus Davids weg,
+denen das glückliche Los zuteilgeworden war,
+zu jener Zeit geboren zu werden,
+damit er sie voraus in sein Reich sende\.
+Weil er selbst ein Kind war,
+fügte er es so,
+dass Menschenkinder Märtyrer wurden:
+nach den Schriften getötet um Christi willen,
+der in Betlehem in Juda,
+in der Stadt Davids,
+geboren wurde\.
 
-Auch Simeon, der vom Heiligen Geist die Zusage erhalten hatte, den Tod nicht zu sehen, bevor er Christus Jesus geschaut hätte[^bible-ae64dbf5-6988-4a67-8428-013085e74a68], nahm ihn, den Erstgeborenen der Jungfrau, in seine Arme, pries Gott und sagte: „Herr, nun lässt du deinen Diener in Frieden scheiden nach deinem Wort; denn meine Augen haben dein Heil gesehen, das du vor dem Angesicht aller Völker bereitet hast: ein Licht zur Erleuchtung der Heiden und die Herrlichkeit deines Volkes Israel[^bible-638d98ea-e46f-4173-9310-2f74fee4444f]\.“ Damit bekannte er: Das Kind, das er in seinen Armen hielt, Jesus, von Maria geboren, war Christus selbst, der Sohn Gottes, das Licht aller, die Herrlichkeit Israels selbst und der Friede und die Erquickung derer, die entschlafen waren\. Denn schon damals beraubte er die Menschen, indem er ihre Unwissenheit wegnahm, ihnen seine eigene Erkenntnis schenkte und die, die ihn erkannten, weithin ausstreute, wie Jesaja sagt: „Nenne seinen Namen: Schnell raube, rasch teile[^bible-4498bb1b-3482-448d-9c6b-79e6d59da5ad]\.“ Das nun sind die Werke Christi\. Er selbst also war Christus: Ihn trug Simeon in seinen Armen und pries den Höchsten; ihn sahen die Hirten und verherrlichten Gott; ihn erkannte Johannes als den Herrn, als er noch im Leib seiner Mutter war und Christus im Leib Marias, und begrüßte ihn mit einem Sprung; ihn sahen die Magier, warfen sich nieder und brachten ihm ihre Gaben dar[^bible-f5cb7f5b-da10-4fa3-8966-8ed8c45280b1], wie ich schon gesagt habe, und nachdem sie vor dem ewigen König niedergefallen waren, zogen sie auf einem anderen Weg fort und kehrten nicht mehr auf dem Weg der Assyrer zurück[^bible-ee987b59-f921-4246-97d6-43513061f20a]\. „Denn bevor das Kind Vater oder Mutter rufen kann, wird es die Macht von Damaskus und die Beute Samarias vor dem König der Assyrer empfangen[^bible-9648749f-ddcb-47f6-9e8a-3ef626cf3a6d]\.“ Damit erklärt er zwar geheimnisvoll, aber mit Nachdruck, dass der Herr mit verborgener Hand gegen Amalek kämpfte\. Deshalb nahm er auch plötzlich jene Kinder aus dem Haus Davids weg, denen das glückliche Los zuteilgeworden war, zu jener Zeit geboren zu werden, damit er sie voraus in sein Reich sende\. Weil er selbst ein Kind war, fügte er es so, dass Menschenkinder Märtyrer wurden: nach den Schriften getötet um Christi willen, der in Betlehem in Juda, in der Stadt Davids, geboren wurde\.
+Darum sagte der Herr auch nach der Auferstehung zu seinen Jüngern:
+„Ihr Unverständigen und im Herzen Trägen,
+zu glauben an alles,
+was die Propheten gesprochen haben\!
+Musste der Christus nicht dies erleiden und in seine Herrlichkeit eingehen?[^bible-55cc5416-a9b3-4c09-8a23-e9cd8b66e9de]“ Und wiederum sagt er zu ihnen:
+„Dies sind die Worte,
+die ich zu euch sprach,
+als ich noch bei euch war:
+Alles muss erfüllt werden,
+was im Gesetz des Mose,
+in den Propheten und in den Psalmen über mich geschrieben steht\.
+Dann öffnete er ihnen das Verständnis,
+damit sie die Schriften verstünden,
+und sagte zu ihnen:
+So steht es geschrieben,
+und so musste Christus leiden und von den Toten auferstehen,
+und in seinem Namen muss Buße zur Vergebung der Sünden unter allen Völkern verkündet werden\.[^bible-a0cd753b-b238-45f7-8b5a-cb6cdf2021c0]“ Das ist nun der,
+der aus Maria geboren wurde;
+denn er sagt:
+„Der Menschensohn muss vieles erleiden,
+verworfen und gekreuzigt werden und am dritten Tag auferstehen\.[^bible-1df58040-f9a1-4023-b550-29f71a764958]“ Das Evangelium kannte also keinen anderen Menschensohn als den,
+der aus Maria stammte und auch gelitten hat;
+und keinen Christus,
+der vor dem Leiden von Jesus wegflog,
+sondern es kannte den,
+der geboren wurde,
+als Jesus Christus,
+den Sohn Gottes,
+und dass eben dieser gelitten hat und auferstanden ist\.
+Das bestätigt Johannes,
+der Jünger des Herrn,
+wenn er sagt:
+„Dies aber ist geschrieben,
+damit ihr glaubt,
+dass Jesus der Christus ist,
+der Sohn Gottes,
+und damit ihr,
+wenn ihr glaubt,
+ewiges Leben habt in seinem Namen\.[^bible-7896aaf7-e051-4c51-87e4-0f45837a83e7]“ Dabei sah er jene lästerlichen Systeme voraus,
+die den Herrn,
+soweit es in ihrer Macht steht,
+aufteilen und sagen,
+er sei aus zwei verschiedenen Substanzen gebildet\.
+Deshalb hat er uns auch in seinem Brief so bezeugt:
+„Kinder,
+es ist die letzte Stunde;
+und wie ihr gehört habt,
+dass der Antichrist kommt,
+so sind jetzt viele Antichristen erschienen\.
+Daran erkennen wir,
+dass es die letzte Stunde ist\.
+Sie sind von uns ausgegangen,
+aber sie gehörten nicht zu uns;
+denn wenn sie zu uns gehört hätten,
+wären sie bei uns geblieben\.
+Doch es sollte offenbar werden,
+dass sie nicht zu uns gehören\.[^bible-906e191f-089e-4f75-9ac1-84f3684b37ae]Wisst also:
+Jede Lüge kommt von außen und ist nicht aus der Wahrheit\.
+Wer ist der Lügner,
+wenn nicht der,
+der leugnet,
+dass Jesus der Christus ist?
+Das ist der Antichrist\.[^bible-ba5f0947-9d11-4a7f-b732-ff5cf2e8f148]“
 
-Darum sagte der Herr auch nach der Auferstehung zu seinen Jüngern: „Ihr Unverständigen und im Herzen Trägen, zu glauben an alles, was die Propheten gesprochen haben\! Musste der Christus nicht dies erleiden und in seine Herrlichkeit eingehen?[^bible-55cc5416-a9b3-4c09-8a23-e9cd8b66e9de]“ Und wiederum sagt er zu ihnen: „Dies sind die Worte, die ich zu euch sprach, als ich noch bei euch war: Alles muss erfüllt werden, was im Gesetz des Mose, in den Propheten und in den Psalmen über mich geschrieben steht\. Dann öffnete er ihnen das Verständnis, damit sie die Schriften verstünden, und sagte zu ihnen: So steht es geschrieben, und so musste Christus leiden und von den Toten auferstehen, und in seinem Namen muss Buße zur Vergebung der Sünden unter allen Völkern verkündet werden\.[^bible-a0cd753b-b238-45f7-8b5a-cb6cdf2021c0]“ Das ist nun der, der aus Maria geboren wurde; denn er sagt: „Der Menschensohn muss vieles erleiden, verworfen und gekreuzigt werden und am dritten Tag auferstehen\.[^bible-1df58040-f9a1-4023-b550-29f71a764958]“ Das Evangelium kannte also keinen anderen Menschensohn als den, der aus Maria stammte und auch gelitten hat; und keinen Christus, der vor dem Leiden von Jesus wegflog, sondern es kannte den, der geboren wurde, als Jesus Christus, den Sohn Gottes, und dass eben dieser gelitten hat und auferstanden ist\. Das bestätigt Johannes, der Jünger des Herrn, wenn er sagt: „Dies aber ist geschrieben, damit ihr glaubt, dass Jesus der Christus ist, der Sohn Gottes, und damit ihr, wenn ihr glaubt, ewiges Leben habt in seinem Namen\.[^bible-7896aaf7-e051-4c51-87e4-0f45837a83e7]“ Dabei sah er jene lästerlichen Systeme voraus, die den Herrn, soweit es in ihrer Macht steht, aufteilen und sagen, er sei aus zwei verschiedenen Substanzen gebildet\. Deshalb hat er uns auch in seinem Brief so bezeugt: „Kinder, es ist die letzte Stunde; und wie ihr gehört habt, dass der Antichrist kommt, so sind jetzt viele Antichristen erschienen\. Daran erkennen wir, dass es die letzte Stunde ist\. Sie sind von uns ausgegangen, aber sie gehörten nicht zu uns; denn wenn sie zu uns gehört hätten, wären sie bei uns geblieben\. Doch es sollte offenbar werden, dass sie nicht zu uns gehören\.[^bible-906e191f-089e-4f75-9ac1-84f3684b37ae]Wisst also: Jede Lüge kommt von außen und ist nicht aus der Wahrheit\. Wer ist der Lügner, wenn nicht der, der leugnet, dass Jesus der Christus ist? Das ist der Antichrist\.[^bible-ba5f0947-9d11-4a7f-b732-ff5cf2e8f148]“
+Da aber alle zuvor genannten Leute zwar mit der Zunge den einen Jesus Christus bekennen,
+sich jedoch selbst zum Gespött machen,
+indem sie das eine denken und das andere sagen — denn ihre Hypothesen gehen,
+wie ich bereits gezeigt habe,
+auseinander:
+Sie behaupten nämlich,
+das eine Wesen habe gelitten und sei geboren worden,
+und dieses sei Jesus gewesen;
+ein anderes aber sei auf ihn herabgestiegen,
+und dieses sei Christus gewesen,
+der auch wieder hinaufgestiegen sei\.
+Und sie argumentieren,
+derjenige,
+der vom Demiurgen ausgegangen sei,
+oder derjenige,
+der zur Heilsordnung gehöre,
+oder derjenige,
+der von Josef abstamme,
+sei das Wesen gewesen,
+das dem Leiden unterworfen war;
+auf diesen dem Leiden unterworfenen Träger aber sei aus den unsichtbaren und unaussprechlichen Orten jener Erstere herabgestiegen,
+von dem sie behaupten,
+er sei unbegreiflich,
+unsichtbar und leidensunfähig\.
+So irren sie von der Wahrheit ab,
+weil ihre Lehre sich von dem entfernt,
+der wahrhaft Gott ist\.
+Sie wissen nicht,
+dass sein einziggeborenes Wort,
+das dem Menschengeschlecht immer gegenwärtig ist,
+sich nach dem Wohlgefallen des Vaters mit seiner eigenen Schöpfung vereint und vermischt hat und Fleisch geworden ist[^bible-60a8f90a-f56e-4444-bfc1-d920d3da1540]:
+Er selbst ist Jesus Christus,
+unser Herr,
+der auch für uns gelitten hat,
+für uns auferstanden ist und in der Herrlichkeit seines Vaters wiederkommen wird,
+um alles Fleisch aufzuerwecken,
+das Heil offenbar zu machen und an allen,
+die durch ihn geschaffen wurden,
+die Richtschnur des gerechten Gerichts anzulegen\.
+Es gibt also,
+wie ich dargelegt habe,
+einen Gott,
+den Vater,
+und einen Christus Jesus,
+der durch die ganze mit ihm verbundene Heilsordnung gekommen ist und alles in sich zusammengefasst[^bible-307c730d-a8a3-4e47-871c-4219ff078a80] hat\.
+In jeder Hinsicht aber ist auch er Mensch,
+das Gebilde Gottes;
+und so nahm er den Menschen in sich auf:
+der Unsichtbare wurde sichtbar,
+der Unbegreifliche begreiflich,
+der Leidensunfähige leidensfähig und das Wort Mensch\.
+So fasste er alles in sich zusammen[^bible-307c730d-a8a3-4e47-871c-4219ff078a80],
+damit,
+wie das Wort Gottes in den überhimmlischen,
+geistlichen und unsichtbaren Dingen den Vorrang hat,
+es ebenso auch in den sichtbaren und körperlichen Dingen den Vorrang besitze und,
+indem es die Vorrangstellung an sich nimmt und sich selbst zum Haupt der Kirche[^bible-87a02333-dbc3-45ee-bda3-943e579a7b0e] macht,
+zur rechten Zeit alles zu sich ziehe[^bible-84bd001d-5d33-4a84-9e60-b2f65bf2527d]\.
 
-Da aber alle zuvor genannten Leute zwar mit der Zunge den einen Jesus Christus bekennen, sich jedoch selbst zum Gespött machen, indem sie das eine denken und das andere sagen — denn ihre Hypothesen gehen, wie ich bereits gezeigt habe, auseinander: Sie behaupten nämlich, das eine Wesen habe gelitten und sei geboren worden, und dieses sei Jesus gewesen; ein anderes aber sei auf ihn herabgestiegen, und dieses sei Christus gewesen, der auch wieder hinaufgestiegen sei\. Und sie argumentieren, derjenige, der vom Demiurgen ausgegangen sei, oder derjenige, der zur Heilsordnung gehöre, oder derjenige, der von Josef abstamme, sei das Wesen gewesen, das dem Leiden unterworfen war; auf diesen dem Leiden unterworfenen Träger aber sei aus den unsichtbaren und unaussprechlichen Orten jener Erstere herabgestiegen, von dem sie behaupten, er sei unbegreiflich, unsichtbar und leidensunfähig\. So irren sie von der Wahrheit ab, weil ihre Lehre sich von dem entfernt, der wahrhaft Gott ist\. Sie wissen nicht, dass sein einziggeborenes Wort, das dem Menschengeschlecht immer gegenwärtig ist, sich nach dem Wohlgefallen des Vaters mit seiner eigenen Schöpfung vereint und vermischt hat und Fleisch geworden ist[^bible-60a8f90a-f56e-4444-bfc1-d920d3da1540]: Er selbst ist Jesus Christus, unser Herr, der auch für uns gelitten hat, für uns auferstanden ist und in der Herrlichkeit seines Vaters wiederkommen wird, um alles Fleisch aufzuerwecken, das Heil offenbar zu machen und an allen, die durch ihn geschaffen wurden, die Richtschnur des gerechten Gerichts anzulegen\. Es gibt also, wie ich dargelegt habe, einen Gott, den Vater, und einen Christus Jesus, der durch die ganze mit ihm verbundene Heilsordnung gekommen ist und alles in sich zusammengefasst[^bible-307c730d-a8a3-4e47-871c-4219ff078a80] hat\. In jeder Hinsicht aber ist auch er Mensch, das Gebilde Gottes; und so nahm er den Menschen in sich auf: der Unsichtbare wurde sichtbar, der Unbegreifliche begreiflich, der Leidensunfähige leidensfähig und das Wort Mensch\. So fasste er alles in sich zusammen[^bible-307c730d-a8a3-4e47-871c-4219ff078a80], damit, wie das Wort Gottes in den überhimmlischen, geistlichen und unsichtbaren Dingen den Vorrang hat, es ebenso auch in den sichtbaren und körperlichen Dingen den Vorrang besitze und, indem es die Vorrangstellung an sich nimmt und sich selbst zum Haupt der Kirche[^bible-87a02333-dbc3-45ee-bda3-943e579a7b0e] macht, zur rechten Zeit alles zu sich ziehe[^bible-84bd001d-5d33-4a84-9e60-b2f65bf2527d]\.
+Bei ihm ist nichts unvollständig und nichts kommt zur Unzeit,
+so wie beim Vater nichts unangemessen ist\.
+Denn all dies war dem Vater im Voraus bekannt;
+der Sohn aber führt es zur rechten Zeit aus,
+in vollkommener Ordnung und Folge\.
+Deshalb sagte der Herr,
+als Maria ihn drängte,
+das wunderbare Weinwunder zu wirken,
+und schon vor der Zeit den Becher mit sinnbildlicher Bedeutung nehmen wollte,
+und als er ihre voreilige Eile zurückwies:
+„Frau,
+was habe ich mit dir zu schaffen?
+Meine Stunde ist noch nicht gekommen\.[^bible-eefc63f1-1afb-485e-b9f0-d11c84e3a6d0]“ Er wartete auf jene Stunde,
+die dem Vater im Voraus bekannt war\.
+Deshalb heißt es auch,
+als Menschen ihn oft ergreifen wollten:
+„Kein Mensch legte Hand an ihn,
+denn die Stunde,
+da er ergriffen werden sollte,
+war noch nicht gekommen[^bible-916f8745-d438-4148-8621-26c5c0dce003]“;
+ebenso wenig war die Zeit seines Leidens gekommen,
+die dem Vater im Voraus bekannt war\.
+So sagt auch der Prophet Habakuk:
+„Durch dies wirst du erkannt werden,
+wenn die Jahre nahe gekommen sind;
+du wirst offenbar gemacht werden,
+wenn die Zeit kommt;
+weil meine Seele durch Zorn beunruhigt ist,
+wirst du an dein Erbarmen denken\.[^bible-a6a3673c-f4ad-4546-bdb1-1d40424a5233]“ Auch Paulus sagt:
+„Als aber die Fülle der Zeit kam,
+sandte Gott seinen Sohn aus\.[^bible-8dc164ae-17d5-48a5-99ca-541511252360]“ Dadurch wird offenbar,
+dass unser Herr alles,
+was dem Vater im Voraus bekannt war,
+in seiner Ordnung,
+seiner Zeit und seiner Stunde vollbracht hat:
+im Voraus bekannt und passend,
+wahrhaft einer und derselbe,
+aber reich und groß\.
+Denn er erfüllt den freigebigen und umfassenden Willen seines Vaters,
+weil er selbst der Retter derer ist,
+die gerettet werden,
+der Herr derer,
+die unter Herrschaft stehen,
+und der Gott all dessen,
+was gebildet wurde,
+der Einziggeborene des Vaters,
+der angekündigte Christus und das Wort Gottes,
+das Fleisch wurde,
+als die Fülle der Zeit gekommen war,
+zu der der Sohn Gottes der Sohn des Menschen werden musste\.
 
-Bei ihm ist nichts unvollständig und nichts kommt zur Unzeit, so wie beim Vater nichts unangemessen ist\. Denn all dies war dem Vater im Voraus bekannt; der Sohn aber führt es zur rechten Zeit aus, in vollkommener Ordnung und Folge\. Deshalb sagte der Herr, als Maria ihn drängte, das wunderbare Weinwunder zu wirken, und schon vor der Zeit den Becher mit sinnbildlicher Bedeutung nehmen wollte, und als er ihre voreilige Eile zurückwies: „Frau, was habe ich mit dir zu schaffen? Meine Stunde ist noch nicht gekommen\.[^bible-eefc63f1-1afb-485e-b9f0-d11c84e3a6d0]“ Er wartete auf jene Stunde, die dem Vater im Voraus bekannt war\. Deshalb heißt es auch, als Menschen ihn oft ergreifen wollten: „Kein Mensch legte Hand an ihn, denn die Stunde, da er ergriffen werden sollte, war noch nicht gekommen[^bible-916f8745-d438-4148-8621-26c5c0dce003]“; ebenso wenig war die Zeit seines Leidens gekommen, die dem Vater im Voraus bekannt war\. So sagt auch der Prophet Habakuk: „Durch dies wirst du erkannt werden, wenn die Jahre nahe gekommen sind; du wirst offenbar gemacht werden, wenn die Zeit kommt; weil meine Seele durch Zorn beunruhigt ist, wirst du an dein Erbarmen denken\.[^bible-a6a3673c-f4ad-4546-bdb1-1d40424a5233]“ Auch Paulus sagt: „Als aber die Fülle der Zeit kam, sandte Gott seinen Sohn aus\.[^bible-8dc164ae-17d5-48a5-99ca-541511252360]“ Dadurch wird offenbar, dass unser Herr alles, was dem Vater im Voraus bekannt war, in seiner Ordnung, seiner Zeit und seiner Stunde vollbracht hat: im Voraus bekannt und passend, wahrhaft einer und derselbe, aber reich und groß\. Denn er erfüllt den freigebigen und umfassenden Willen seines Vaters, weil er selbst der Retter derer ist, die gerettet werden, der Herr derer, die unter Herrschaft stehen, und der Gott all dessen, was gebildet wurde, der Einziggeborene des Vaters, der angekündigte Christus und das Wort Gottes, das Fleisch wurde, als die Fülle der Zeit gekommen war, zu der der Sohn Gottes der Sohn des Menschen werden musste\.
+Darum stehen alle außerhalb der christlichen Heilsordnung,
+die unter dem Vorwand der Erkenntnis meinen,
+Jesus sei einer,
+Christus ein anderer,
+der Einziggeborene wieder ein anderer,
+von dem dann das Wort ausgehe,
+und der Retter sei nochmals ein anderer;
+diesen Retter geben die Schüler des Irrtums als ein Erzeugnis jener aus,
+die in einem Zustand des Verfalls zu Äonen gemacht worden seien\.
+Solche Menschen sind dem äußeren Anschein nach Schafe;
+denn durch das,
+was sie öffentlich sagen,
+scheinen sie uns ähnlich zu sein,
+weil sie dieselben Worte wiederholen wie wir\.
+Innerlich aber sind sie Wölfe\.
+Ihre Lehre ist mörderisch:
+Sie beschwört eine Vielzahl von Göttern herauf,
+spiegelt viele Väter vor,
+setzt aber den Sohn Gottes auf vielerlei Weise herab und teilt ihn auf\.
+Vor solchen Menschen hat der Herr uns im Voraus gewarnt;
+und sein Jünger befiehlt uns in dem schon erwähnten Brief,
+sie zu meiden,
+wenn er sagt:
+„Denn ‚viele Verführer sind in die Welt gekommen,
+die nicht bekennen,
+dass Jesus Christus im Fleisch gekommen ist\.
+Das ist der Verführer und der Antichrist\.
+Seht euch vor,
+damit ihr nicht verliert,
+was ihr erarbeitet habt\.[^bible-2f6f63dc-7424-4d7b-8956-bfb283ca81ce]‘“ Und wieder sagt er in dem Brief:
+„Viele falsche Propheten sind in die Welt hinausgegangen\.
+Daran erkennt ihr den Geist Gottes:
+Jeder Geist,
+der bekennt,
+dass Jesus Christus im Fleisch gekommen ist,
+ist aus Gott;
+und jeder Geist,
+der Jesus Christus trennt,
+ist nicht aus Gott,
+sondern aus dem Antichrist\.[^bible-437089fa-086d-4b7e-9ebc-bc5ea33a6173]“ Diese Worte stimmen mit dem überein,
+was im Evangelium gesagt wurde:
+„Das Wort wurde Fleisch und wohnte unter uns\.[^bible-e493c811-0c54-4049-a681-29d83663b85d]“ Darum ruft er in seinem Brief erneut aus:
+„Jeder,
+der glaubt,
+dass Jesus der Christus ist,
+ist aus Gott geboren\.[^bible-9e1f12dc-e7c7-4712-85cc-d4afe4ba3fd4]“,
+da er wusste,
+dass Jesus Christus einer und derselbe ist;
+ihm wurden die Tore des Himmels geöffnet,
+weil er Fleisch annahm\.
+Und er wird auch in demselben Fleisch kommen,
+in dem er gelitten hat,
+und die Herrlichkeit des Vaters offenbaren\.
 
-Darum stehen alle außerhalb der christlichen Heilsordnung, die unter dem Vorwand der Erkenntnis meinen, Jesus sei einer, Christus ein anderer, der Einziggeborene wieder ein anderer, von dem dann das Wort ausgehe, und der Retter sei nochmals ein anderer; diesen Retter geben die Schüler des Irrtums als ein Erzeugnis jener aus, die in einem Zustand des Verfalls zu Äonen gemacht worden seien\. Solche Menschen sind dem äußeren Anschein nach Schafe; denn durch das, was sie öffentlich sagen, scheinen sie uns ähnlich zu sein, weil sie dieselben Worte wiederholen wie wir\. Innerlich aber sind sie Wölfe\. Ihre Lehre ist mörderisch: Sie beschwört eine Vielzahl von Göttern herauf, spiegelt viele Väter vor, setzt aber den Sohn Gottes auf vielerlei Weise herab und teilt ihn auf\. Vor solchen Menschen hat der Herr uns im Voraus gewarnt; und sein Jünger befiehlt uns in dem schon erwähnten Brief, sie zu meiden, wenn er sagt: „Denn ‚viele Verführer sind in die Welt gekommen, die nicht bekennen, dass Jesus Christus im Fleisch gekommen ist\. Das ist der Verführer und der Antichrist\. Seht euch vor, damit ihr nicht verliert, was ihr erarbeitet habt\.[^bible-2f6f63dc-7424-4d7b-8956-bfb283ca81ce]‘“ Und wieder sagt er in dem Brief: „Viele falsche Propheten sind in die Welt hinausgegangen\. Daran erkennt ihr den Geist Gottes: Jeder Geist, der bekennt, dass Jesus Christus im Fleisch gekommen ist, ist aus Gott; und jeder Geist, der Jesus Christus trennt, ist nicht aus Gott, sondern aus dem Antichrist\.[^bible-437089fa-086d-4b7e-9ebc-bc5ea33a6173]“ Diese Worte stimmen mit dem überein, was im Evangelium gesagt wurde: „Das Wort wurde Fleisch und wohnte unter uns\.[^bible-e493c811-0c54-4049-a681-29d83663b85d]“ Darum ruft er in seinem Brief erneut aus: „Jeder, der glaubt, dass Jesus der Christus ist, ist aus Gott geboren\.[^bible-9e1f12dc-e7c7-4712-85cc-d4afe4ba3fd4]“, da er wusste, dass Jesus Christus einer und derselbe ist; ihm wurden die Tore des Himmels geöffnet, weil er Fleisch annahm\. Und er wird auch in demselben Fleisch kommen, in dem er gelitten hat, und die Herrlichkeit des Vaters offenbaren\.
-
-Im Einklang mit diesen Aussagen erklärt Paulus, wenn er an die Römer schreibt: „Erst recht werden die, welche die Fülle der Gnade und der Gerechtigkeit zum Leben empfangen, durch den einen herrschen, Christus Jesus[^bible-f49258fd-86e9-43c7-b960-ff6611f88836]\.“ Daraus folgt, dass er nichts von jenem Christus wusste, der von Jesus wegflog, und auch nichts von dem oberen Erlöser, den sie für leidensunfähig halten\. Denn wenn wirklich der eine gelitten hat und der andere leidensunfähig blieb, der eine geboren wurde, der andere aber auf den Geborenen herabkam und ihn wieder verließ, dann werden nicht einer, sondern zwei aufgezeigt\. Dass der Apostel ihn aber als einen kannte, der geboren wurde und litt, nämlich Christus Jesus, sagt er wiederum in demselben Brief: „Wisst ihr nicht, dass wir alle, die wir auf Christus Jesus getauft wurden, auf seinen Tod getauft wurden? Wie Christus von den Toten auferstand, so sollen auch wir in der Neuheit des Lebens wandeln[^bible-d82dbda5-76e4-4272-81dd-da6185144cab]\.“ Und wieder zeigt er, dass Christus gelitten hat und selbst der Sohn Gottes ist, der für uns gestorben ist und uns mit seinem Blut zu der vorher bestimmten Zeit erlöst hat, wenn er sagt: „Denn wie kommt es, dass Christus, als wir noch kraftlos waren, zur bestimmten Zeit für Gottlose starb[^bible-7a43e5c6-4610-4d72-bf6e-4f1ee8bfbab7]? Gott aber erweist seine Liebe zu uns darin, dass Christus für uns starb, als wir noch Sünder waren[^bible-3de8dc24-1b18-419e-9627-11355274c818]\. Erst recht werden wir nun, da wir durch sein Blut gerechtfertigt sind, durch ihn vor dem Zorn gerettet werden[^bible-71c78c2b-9387-4625-ad26-022a249344ac]\. Denn wenn wir, als wir Feinde waren, durch den Tod seines Sohnes mit Gott versöhnt wurden, werden wir erst recht, da wir versöhnt sind, durch sein Leben gerettet werden[^bible-55a6b0ec-ae1f-422a-9481-727f9253f6b7]\.“ Er erklärt auf die deutlichste Weise, dass derselbe, der ergriffen wurde, Leiden auf sich nahm und sein Blut für uns vergoss, sowohl Christus als auch der Sohn Gottes war, der auch auferstand und in den Himmel aufgenommen wurde, wie er selbst sagt: „Zugleich aber ist es Christus, der gestorben ist, ja vielmehr, der auferstanden ist, der auch zur Rechten Gottes ist[^bible-32ad5337-a8f1-41a4-b243-b8d8f9a5c749]\.“ Und wieder: „Wir wissen, dass Christus, von den Toten auferstanden, nicht mehr stirbt[^bible-929e105d-a3d6-4b8b-b111-2c3c63cd24fb]\.“ Denn da er selbst durch den Geist die Aufspaltungen der bösen Lehrer im Blick auf die Person des Herrn voraussah und ihnen jeden Anlass zur Ausflucht abschneiden wollte, sagt er das bereits Angeführte und erklärt auch: „Wenn aber der Geist dessen, der Jesus von den Toten auferweckt hat, in euch wohnt, wird der, der Christus von den Toten auferweckt hat, auch eure sterblichen Leiber lebendig machen[^bible-4f317a4a-bf2c-4bc0-b17a-a0e08189981e]\.“ Das sagt er nicht nur zu denen, die es hören wollen\. Verirrt euch nicht, sagt er allen: Jesus Christus, der Sohn Gottes, ist ein und derselbe; durch sein Leiden hat er uns mit Gott versöhnt, ist von den Toten auferstanden, ist zur Rechten des Vaters und in allem vollkommen; „als er geschlagen wurde, schlug er nicht zurück; als er litt, drohte er nicht[^bible-582f12a3-462b-44a6-b1f4-675df5b3b6bd]“; und als er Gewaltherrschaft erlitt, bat er seinen Vater, denen zu vergeben, die ihn gekreuzigt hatten\. Denn er selbst hat wahrhaftig das Heil gebracht, da er selbst das Wort Gottes ist, selbst der Einziggeborene des Vaters, Christus Jesus, unser Herr\.
+Im Einklang mit diesen Aussagen erklärt Paulus,
+wenn er an die Römer schreibt:
+„Erst recht werden die,
+welche die Fülle der Gnade und der Gerechtigkeit zum Leben empfangen,
+durch den einen herrschen,
+Christus Jesus[^bible-f49258fd-86e9-43c7-b960-ff6611f88836]\.“
+Daraus folgt,
+dass er nichts von jenem Christus wusste,
+der von Jesus wegflog,
+und auch nichts von dem oberen Erlöser,
+den sie für leidensunfähig halten\.
+Denn wenn wirklich der eine gelitten hat und der andere leidensunfähig blieb,
+der eine geboren wurde,
+der andere aber auf den Geborenen herabkam und ihn wieder verließ,
+dann werden nicht einer,
+sondern zwei aufgezeigt\.
+Dass der Apostel ihn aber als einen kannte,
+der geboren wurde und litt,
+nämlich Christus Jesus,
+sagt er wiederum in demselben Brief:
+„Wisst ihr nicht,
+dass wir alle,
+die wir auf Christus Jesus getauft wurden,
+auf seinen Tod getauft wurden?
+Wie Christus von den Toten auferstand,
+so sollen auch wir in der Neuheit des Lebens wandeln[^bible-d82dbda5-76e4-4272-81dd-da6185144cab]\.“
+Und wieder zeigt er,
+dass Christus gelitten hat und selbst der Sohn Gottes ist,
+der für uns gestorben ist und uns mit seinem Blut zu der vorher bestimmten Zeit erlöst hat,
+wenn er sagt:
+„Denn wie kommt es,
+dass Christus,
+als wir noch kraftlos waren,
+zur bestimmten Zeit für Gottlose starb[^bible-7a43e5c6-4610-4d72-bf6e-4f1ee8bfbab7]?
+Gott aber erweist seine Liebe zu uns darin,
+dass Christus für uns starb,
+als wir noch Sünder waren[^bible-3de8dc24-1b18-419e-9627-11355274c818]\.
+Erst recht werden wir nun,
+da wir durch sein Blut gerechtfertigt sind,
+durch ihn vor dem Zorn gerettet werden[^bible-71c78c2b-9387-4625-ad26-022a249344ac]\.
+Denn wenn wir,
+als wir Feinde waren,
+durch den Tod seines Sohnes mit Gott versöhnt wurden,
+werden wir erst recht,
+da wir versöhnt sind,
+durch sein Leben gerettet werden[^bible-55a6b0ec-ae1f-422a-9481-727f9253f6b7]\.“
+Er erklärt auf die deutlichste Weise,
+dass derselbe,
+der ergriffen wurde,
+Leiden auf sich nahm und sein Blut für uns vergoss,
+sowohl Christus als auch der Sohn Gottes war,
+der auch auferstand und in den Himmel aufgenommen wurde,
+wie er selbst sagt:
+„Zugleich aber ist es Christus,
+der gestorben ist,
+ja vielmehr,
+der auferstanden ist,
+der auch zur Rechten Gottes ist[^bible-32ad5337-a8f1-41a4-b243-b8d8f9a5c749]\.“
+Und wieder:
+„Wir wissen,
+dass Christus,
+von den Toten auferstanden,
+nicht mehr stirbt[^bible-929e105d-a3d6-4b8b-b111-2c3c63cd24fb]\.“
+Denn da er selbst durch den Geist die Aufspaltungen der bösen Lehrer im Blick auf die Person des Herrn voraussah und ihnen jeden Anlass zur Ausflucht abschneiden wollte,
+sagt er das bereits Angeführte und erklärt auch:
+„Wenn aber der Geist dessen,
+der Jesus von den Toten auferweckt hat,
+in euch wohnt,
+wird der,
+der Christus von den Toten auferweckt hat,
+auch eure sterblichen Leiber lebendig machen[^bible-4f317a4a-bf2c-4bc0-b17a-a0e08189981e]\.“
+Das sagt er nicht nur zu denen,
+die es hören wollen\.
+Verirrt euch nicht,
+sagt er allen:
+Jesus Christus,
+der Sohn Gottes,
+ist ein und derselbe;
+durch sein Leiden hat er uns mit Gott versöhnt,
+ist von den Toten auferstanden,
+ist zur Rechten des Vaters und in allem vollkommen;
+„als er geschlagen wurde,
+schlug er nicht zurück;
+als er litt,
+drohte er nicht[^bible-582f12a3-462b-44a6-b1f4-675df5b3b6bd]“;
+und als er Gewaltherrschaft erlitt,
+bat er seinen Vater,
+denen zu vergeben,
+die ihn gekreuzigt hatten\.
+Denn er selbst hat wahrhaftig das Heil gebracht,
+da er selbst das Wort Gottes ist,
+selbst der Einziggeborene des Vaters,
+Christus Jesus,
+unser Herr\.
 
 ## Bibelverweise
 

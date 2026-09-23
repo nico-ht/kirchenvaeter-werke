@@ -7,6 +7,19 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/7-taufunterweisung#kapitel-116f3180-2b8a-4632-ce6a-08dde1605df7).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a230865234f912be771720c7488c3ee021f64463afe69785b1611a0d97ff237a`
-
-Diese heiligen Märtyrer, die die Dinge, die oben sind, im Blick hatten und die Dinge, die auf der Erde sind, verachteten, suchten die ewigen Güter\. Daher erlangten sie diese in Fülle und genießen jeden Tag die Ehre, die ihnen an diesem Ort zuteilwird, auch wenn sie keinerlei Bedarf dafür haben und einst die Ehre insgesamt verachteten\. Dennoch nehmen sie, um uns zu helfen, die Ehre an, die wir ihnen erweisen und die sie nicht benötigen, damit wir den Segen ernten können, der von ihnen kommt\.
+Diese heiligen Märtyrer,
+die die Dinge,
+die oben sind,
+im Blick hatten und die Dinge,
+die auf der Erde sind,
+verachteten,
+suchten die ewigen Güter\.
+Daher erlangten sie diese in Fülle und genießen jeden Tag die Ehre,
+die ihnen an diesem Ort zuteilwird,
+auch wenn sie keinerlei Bedarf dafür haben und einst die Ehre insgesamt verachteten\.
+Dennoch nehmen sie,
+um uns zu helfen,
+die Ehre an,
+die wir ihnen erweisen und die sie nicht benötigen,
+damit wir den Segen ernten können,
+der von ihnen kommt\.

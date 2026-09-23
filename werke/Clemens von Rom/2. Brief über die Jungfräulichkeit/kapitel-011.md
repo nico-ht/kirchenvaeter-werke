@@ -7,9 +7,19 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/2-brief-ueber-die-jungfraeulichkeit#kapitel-f5f2d594-c0ba-42b5-888c-08dd13db0f9d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d0b62e06cea7a08a11ca997d137380e86923177b66c97706e9fc211351d06960`
-
-Habt ihr nicht die Geschichte von Amnon und Tamar gelesen, den Kindern Davids? Amnon begehrte seine Schwester und überwältigte sie, ohne ihr Erbarmen zu zeigen, weil er sie mit widerlicher Begierde begehrt hatte\. Und Amnon wurde durch seinen ständigen Umgang mit ihr, der nicht in der Furcht Gottes geschah, ein böser und gesetzloser Mensch, und er „beging eine schändliche Tat in Israel\.“[^bible-4b85def7-f264-400c-ba43-5321a884f4e3] Daher ist es für uns nicht recht und nicht angemessen, mit unseren Schwestern mitten in lautem Gelächter und unanständigem Verhalten zusammen zu sein, sondern wir sollen uns ihnen gegenüber in aller Schamhaftigkeit, Reinheit und in der Furcht Gottes verhalten\.
+Habt ihr nicht die Geschichte von Amnon und Tamar gelesen,
+den Kindern Davids?
+Amnon begehrte seine Schwester und überwältigte sie,
+ohne ihr Erbarmen zu zeigen,
+weil er sie mit widerlicher Begierde begehrt hatte\.
+Und Amnon wurde durch seinen ständigen Umgang mit ihr,
+der nicht in der Furcht Gottes geschah,
+ein böser und gesetzloser Mensch,
+und er „beging eine schändliche Tat in Israel\.“[^bible-4b85def7-f264-400c-ba43-5321a884f4e3]
+Daher ist es für uns nicht recht und nicht angemessen,
+mit unseren Schwestern mitten in lautem Gelächter und unanständigem Verhalten zusammen zu sein,
+sondern wir sollen uns ihnen gegenüber in aller Schamhaftigkeit,
+Reinheit und in der Furcht Gottes verhalten\.
 
 ## Bibelverweise
 

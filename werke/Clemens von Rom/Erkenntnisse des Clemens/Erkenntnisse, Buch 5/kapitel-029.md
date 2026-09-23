@@ -7,6 +7,42 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-5#kapitel-f1a7fd77-5ab1-4525-4bf5-08dd123715ec).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:4da7b148c4dd9c0b676ca14b4b1e8dd7a9eccc53124b58e9cc5ffa4984eda367`
-
-Vielleicht wird jedoch der eine oder andere von euch sagen: „Gott kümmert sich nicht um die menschlichen Dinge; und wenn wir nicht einmal zu dem Wissen über Ihn gelangen können, wie sollen wir dann zu Seiner Freundschaft gelangen?“ Dass Gott sich um die Angelegenheiten der Menschen kümmert, bezeugt Seine Regierung der Welt: Denn die Sonne wartet täglich darauf, die Regenfälle dienen ihr; die Quellen, Flüsse, Winde und alle Elemente stehen ihr zur Verfügung; und je mehr diese Dinge den Menschen bekannt werden, desto mehr zeigen sie Gottes Sorge um die Menschen\. Denn wenn nicht durch die Macht des Höchsten, würden die Mächtigeren niemals den Unterlegenen dienen; und dadurch wird gezeigt, dass Gott nicht nur Sorge um die Menschen hat, sondern auch eine große Zuneigung, da Er solch edle Elemente zu ihrem Dienst bestimmt hat\. Dass die Menschen auch die Freundschaft Gottes erlangen können, wird uns durch das Beispiel derer bewiesen, deren Gebete Er so wohlwollend erhört hat, dass Er den Himmel vom Regen zurückgehalten hat, als sie es wünschten, und ihn wieder geöffnet hat, als sie beteten\. Und viele andere Dinge hat Er denen gewährt, die Seinen Willen tun, die niemand anders gewährt werden könnten als Seinen Freunden\. Doch ihr werdet sagen: „Welchen Schaden nimmt Gott, wenn auch diese Dinge von uns verehrt werden?“ Wenn jemand von euch einem anderen die Ehre erweist, die seinem Vater gebührt, von dem er unzählige Wohltaten empfangen hat, und einen Fremden und Ausländer wie seinen Vater verehrt, würdet ihr dann nicht denken, dass er undankbar gegenüber seinem Vater ist und es am meisten verdient, enterbt zu werden?
+Vielleicht wird jedoch der eine oder andere von euch sagen:
+„Gott kümmert sich nicht um die menschlichen Dinge;
+und wenn wir nicht einmal zu dem Wissen über Ihn gelangen können,
+wie sollen wir dann zu Seiner Freundschaft gelangen?“
+Dass Gott sich um die Angelegenheiten der Menschen kümmert,
+bezeugt Seine Regierung der Welt:
+Denn die Sonne wartet täglich darauf,
+die Regenfälle dienen ihr;
+die Quellen,
+Flüsse,
+Winde und alle Elemente stehen ihr zur Verfügung;
+und je mehr diese Dinge den Menschen bekannt werden,
+desto mehr zeigen sie Gottes Sorge um die Menschen\.
+Denn wenn nicht durch die Macht des Höchsten,
+würden die Mächtigeren niemals den Unterlegenen dienen;
+und dadurch wird gezeigt,
+dass Gott nicht nur Sorge um die Menschen hat,
+sondern auch eine große Zuneigung,
+da Er solch edle Elemente zu ihrem Dienst bestimmt hat\.
+Dass die Menschen auch die Freundschaft Gottes erlangen können,
+wird uns durch das Beispiel derer bewiesen,
+deren Gebete Er so wohlwollend erhört hat,
+dass Er den Himmel vom Regen zurückgehalten hat,
+als sie es wünschten,
+und ihn wieder geöffnet hat,
+als sie beteten\.
+Und viele andere Dinge hat Er denen gewährt,
+die Seinen Willen tun,
+die niemand anders gewährt werden könnten als Seinen Freunden\.
+Doch ihr werdet sagen:
+„Welchen Schaden nimmt Gott,
+wenn auch diese Dinge von uns verehrt werden?“
+Wenn jemand von euch einem anderen die Ehre erweist,
+die seinem Vater gebührt,
+von dem er unzählige Wohltaten empfangen hat,
+und einen Fremden und Ausländer wie seinen Vater verehrt,
+würdet ihr dann nicht denken,
+dass er undankbar gegenüber seinem Vater ist und es am meisten verdient,
+enterbt zu werden?

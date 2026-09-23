@@ -7,6 +7,36 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-5#kapitel-1caf7390-3924-43a9-2ea1-08de1b0deba8).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:110678f6131d7276df933a15599e91e53659a4d9b00d449cb6808a410c103ae0`
-
-Damals leitete Pantänus, ein Mann von herausragender Gelehrsamkeit in allen Fächern, den Unterricht in der Kirchenschule\. Von ihm stammt bei ihnen die alte, bis heute bestehende Gewohnheit, in jener Schule nur Männer mit höchstem Ansehen in Wissen und Gelehrsamkeit als Lehrer der heiligen Schriften einzusetzen\. So galt der genannte Mann als der Begründer dieses Amtes und als sehr berühmt, da er zuvor bei den Philosophen, den sogenannten Stoikern, hohes Ansehen gewonnen hatte\. Sein Eifer für das Wort Gottes war so groß und seine Liebe so stark, dass er, wie man sagt, in der Glut seines Glaubens und seiner Hingabe sogar zu den Völkern reiste, die in den entlegensten Winkeln des Ostens verborgen liegen, um ihnen das Evangelium zu verkünden, und bis ins nähere Indien gelangte, wo er Gottes Wort predigte\. Denn damals gab es noch etliche Evangelisten, die in Nachahmung der heiligen Apostel verschiedene Teile der Welt durchzogen und durch Gottes Gnade und die Kraft ihres Geistes das Wort Gottes und den Glauben an Christus zu den Völkern brachten, die davon noch nichts wussten\. Unter ihnen galt Pantänus als ausgezeichnet und hoch angesehen\. Man erzählt, dass er, als er zu den Indern kam, vorfand, dass der Apostel Bartholomäus unter ihnen die ersten Samen des Glaubens gesät und in hebräischer Sprache das Evangelium des Matthäus hinterlassen hatte, und dass Pantänus es, als er es dort fand, mitbrachte\. Während er sich in Alexandria noch in vielerlei Dienst der kirchlichen Lehre betätigte, führte er sein edles und gefeiertes Leben zu einem wunderbaren und bewunderungswürdigen Abschluss, sowohl indem er seine Schüler unmittelbar unterwies als auch indem er der Nachwelt in seinen Schriften die Schätze seines Wissens hinterließ\.
+Damals leitete Pantänus,
+ein Mann von herausragender Gelehrsamkeit in allen Fächern,
+den Unterricht in der Kirchenschule\.
+Von ihm stammt bei ihnen die alte,
+bis heute bestehende Gewohnheit,
+in jener Schule nur Männer mit höchstem Ansehen in Wissen und Gelehrsamkeit als Lehrer der heiligen Schriften einzusetzen\.
+So galt der genannte Mann als der Begründer dieses Amtes und als sehr berühmt,
+da er zuvor bei den Philosophen,
+den sogenannten Stoikern,
+hohes Ansehen gewonnen hatte\.
+Sein Eifer für das Wort Gottes war so groß und seine Liebe so stark,
+dass er,
+wie man sagt,
+in der Glut seines Glaubens und seiner Hingabe sogar zu den Völkern reiste,
+die in den entlegensten Winkeln des Ostens verborgen liegen,
+um ihnen das Evangelium zu verkünden,
+und bis ins nähere Indien gelangte,
+wo er Gottes Wort predigte\.
+Denn damals gab es noch etliche Evangelisten,
+die in Nachahmung der heiligen Apostel verschiedene Teile der Welt durchzogen und durch Gottes Gnade und die Kraft ihres Geistes das Wort Gottes und den Glauben an Christus zu den Völkern brachten,
+die davon noch nichts wussten\.
+Unter ihnen galt Pantänus als ausgezeichnet und hoch angesehen\.
+Man erzählt,
+dass er,
+als er zu den Indern kam,
+vorfand,
+dass der Apostel Bartholomäus unter ihnen die ersten Samen des Glaubens gesät und in hebräischer Sprache das Evangelium des Matthäus hinterlassen hatte,
+und dass Pantänus es,
+als er es dort fand,
+mitbrachte\.
+Während er sich in Alexandria noch in vielerlei Dienst der kirchlichen Lehre betätigte,
+führte er sein edles und gefeiertes Leben zu einem wunderbaren und bewunderungswürdigen Abschluss,
+sowohl indem er seine Schüler unmittelbar unterwies als auch indem er der Nachwelt in seinen Schriften die Schätze seines Wissens hinterließ\.

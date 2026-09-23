@@ -7,6 +7,65 @@ Autor: Tertullian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/tertullian-de-patientia#kapitel-2fdcfb59-c464-4fcc-fbbf-08df14d31bf7).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:80d1139dc86c5d9c82999236c7bf323ec9d94c4eef7d29eafaac7ba088d09302`
-
-Wenn wir also sehen, dass alle rechtschaffenen und gut gesinnten Diener ihr Verhalten nach der Wesensart ihres Herrn richten, wenn also die Kunst, sich Gunst zu verdienen, im Gehorsam besteht und Gehorsam bereitwillige Unterordnung verlangt, wie viel mehr müssen dann wir in unserer Gesinnung unserem Herrn entsprechen? Denn wir sind Diener des lebendigen Gottes, bei dessen Urteil über seine Diener es nicht um Fesseln oder die Freiheitsmütze geht, sondern um ewige Strafe oder ewiges Heil\. Um seiner Strenge zu entgehen oder um seine Freigebigkeit zu werben, müssen wir einen Eifer im Gehorsam aufbringen, der so groß ist wie die Drohungen, die seine Strenge ausspricht, oder die Verheißungen, die seine Freigebigkeit aus freien Stücken gibt\. Und doch verlangen wir Gehorsam nicht nur von Menschen, die die Fessel ihrer Sklaverei unter dem Kinn tragen oder auf andere Weise rechtlich zum Gehorsam verpflichtet sind, sondern sogar vom Vieh, sogar von unvernünftigen Tieren\. Wir wissen ja, dass der Herr sie zu unserem Gebrauch vorgesehen und uns übergeben hat\. Sollen dann Geschöpfe, die Gott uns unterwirft, im Gehorsam besser geschult sein als wir? Schließlich erkennen die Geschöpfe, die gehorchen, ihre Herren an\. Zögern wir etwa, gewissenhaft auf den zu hören, dem allein wir unterworfen sind, nämlich auf den Herrn? Aber wie ungerecht und zugleich undankbar ist es, dem, durch den du Gehorsam empfängst, nicht selbst denselben Gehorsam zu erweisen, den du dank des Entgegenkommens deines Nächsten von anderen erhältst\! Es braucht keine weiteren Worte darüber, dass wir Gott, dem Herrn, Gehorsam erweisen müssen; denn wer Gott anerkennt, weiß, wozu ihn das verpflichtet\. Damit unsere Ausführungen über den Gehorsam jedoch nicht wie ein sachfremder Einschub erscheinen, wollen wir uns daran erinnern, dass der Gehorsam selbst aus der Geduld erwächst\. Ein Ungeduldiger leistet ihn niemals, und ein Geduldiger hat immer Freude daran\. Wer könnte also ausführlich genug darlegen, welch ein Gut die Geduld ist, die Gott, der Herr, selbst in sich trug, er, der alles Gute vor Augen stellt und annimmt? Und wer könnte daran zweifeln, dass alle, die Gott gehören, mit ganzem Sinn eifrig nach allem Guten streben müssen, weil es zu Gott gehört? Mit diesen Überlegungen sind sowohl das Lob der Geduld als auch die Ermahnung zur Geduld kurz begründet, gleichsam zusammengefasst in einer verbindlichen Regel\.
+Wenn wir also sehen,
+dass alle rechtschaffenen und gut gesinnten Diener ihr Verhalten nach der Wesensart ihres Herrn richten,
+wenn also die Kunst,
+sich Gunst zu verdienen,
+im Gehorsam besteht und Gehorsam bereitwillige Unterordnung verlangt,
+wie viel mehr müssen dann wir in unserer Gesinnung unserem Herrn entsprechen?
+Denn wir sind Diener des lebendigen Gottes,
+bei dessen Urteil über seine Diener es nicht um Fesseln oder die Freiheitsmütze geht,
+sondern um ewige Strafe oder ewiges Heil\.
+Um seiner Strenge zu entgehen oder um seine Freigebigkeit zu werben,
+müssen wir einen Eifer im Gehorsam aufbringen,
+der so groß ist wie die Drohungen,
+die seine Strenge ausspricht,
+oder die Verheißungen,
+die seine Freigebigkeit aus freien Stücken gibt\.
+Und doch verlangen wir Gehorsam nicht nur von Menschen,
+die die Fessel ihrer Sklaverei unter dem Kinn tragen oder auf andere Weise rechtlich zum Gehorsam verpflichtet sind,
+sondern sogar vom Vieh,
+sogar von unvernünftigen Tieren\.
+Wir wissen ja,
+dass der Herr sie zu unserem Gebrauch vorgesehen und uns übergeben hat\.
+Sollen dann Geschöpfe,
+die Gott uns unterwirft,
+im Gehorsam besser geschult sein als wir?
+Schließlich erkennen die Geschöpfe,
+die gehorchen,
+ihre Herren an\.
+Zögern wir etwa,
+gewissenhaft auf den zu hören,
+dem allein wir unterworfen sind,
+nämlich auf den Herrn?
+Aber wie ungerecht und zugleich undankbar ist es,
+dem,
+durch den du Gehorsam empfängst,
+nicht selbst denselben Gehorsam zu erweisen,
+den du dank des Entgegenkommens deines Nächsten von anderen erhältst\!
+Es braucht keine weiteren Worte darüber,
+dass wir Gott,
+dem Herrn,
+Gehorsam erweisen müssen;
+denn wer Gott anerkennt,
+weiß,
+wozu ihn das verpflichtet\.
+Damit unsere Ausführungen über den Gehorsam jedoch nicht wie ein sachfremder Einschub erscheinen,
+wollen wir uns daran erinnern,
+dass der Gehorsam selbst aus der Geduld erwächst\.
+Ein Ungeduldiger leistet ihn niemals,
+und ein Geduldiger hat immer Freude daran\.
+Wer könnte also ausführlich genug darlegen,
+welch ein Gut die Geduld ist,
+die Gott,
+der Herr,
+selbst in sich trug,
+er,
+der alles Gute vor Augen stellt und annimmt?
+Und wer könnte daran zweifeln,
+dass alle,
+die Gott gehören,
+mit ganzem Sinn eifrig nach allem Guten streben müssen,
+weil es zu Gott gehört?
+Mit diesen Überlegungen sind sowohl das Lob der Geduld als auch die Ermahnung zur Geduld kurz begründet,
+gleichsam zusammengefasst in einer verbindlichen Regel\.

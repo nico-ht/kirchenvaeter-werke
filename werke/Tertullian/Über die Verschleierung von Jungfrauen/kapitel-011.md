@@ -7,9 +7,129 @@ Autor: Tertullian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-die-verschleierung-von-jungfrauen#kapitel-61ad840b-267b-446f-ba15-08dddb5510b9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:4ba04b891660fe147658d67fcc142a846493fb88dee78968504799e49c71ee2d`
-
-Doch auf das, was ich vorhin zurückgestellt habe, um den Gedankengang nicht zu unterbrechen, will ich nun abschließend antworten\. Als wir feststellten, dass die uneingeschränkte Bestimmung des Apostels, „jede Frau[^bible-de0dbb16-66b8-426b-a986-21f87fbc3efb] “, für jedes Alter gilt, lag der Einwand schon bereit: „Dann muss eine Jungfrau von Geburt an verschleiert sein, vom allerersten Lebensabschnitt an\!“ Keineswegs\! Es gilt von dem Augenblick an, in dem sie sich selbst zu verstehen beginnt, sich ihrer eigenen Natur bewusst wird, der Jungfräulichkeit entwächst und in den neuen Zustand eintritt, der zu einem anderen Lebensalter gehört\. Denn unsere Stammeltern Adam und Eva lebten nackt[^bible-f1c8c393-6bbe-4ca7-aee9-71549786ca74], solange ihnen die Erkenntnis fehlte; als sie aber vom Baum der Erkenntnis kosteten, war Scham das Erste, was sie empfanden[^bible-4cfdc015-1682-49b7-ac6d-5f6399fca491]\. So besiegelten beide Geschlechter ihr neues Bewusstsein, indem sie sich bedeckten[^bible-6707eb74-c59a-4564-beea-ce08e995b318]\. Wenn aber eine Frau „wegen der Engel[^bible-38a5196f-91c5-49c2-bc86-a2104c1b5fd2] “ verschleiert sein muss, dann tritt das Gebot der Verschleierung zweifellos in dem Alter in Kraft, in dem die „Töchter der Menschen[^bible-564d7d57-79b1-4415-8273-7e38d6c7f14c] “ das Begehren der Männer wecken und eine Ehe eingehen können\. Denn eine Jungfrau hört in dem Augenblick auf, Jungfrau zu sein, in dem es ihr möglich wird, keine mehr zu sein\. Deshalb ist es in Israel verboten, einem Mann ein Mädchen zur Frau zu geben, bevor es die Reife erreicht hat, die sich durch das Zeichen des Blutes erweist\. Vor diesem Zeichen gilt es als noch nicht reif\. Wenn sie also Jungfrau ist, solange sie noch unreif ist, hört sie auf, Jungfrau zu sein, sobald man sie als reif erkennt\. Da sie nun keine Jungfrau mehr ist, untersteht sie dem Gebot der Verschleierung, ebenso wie in der Ehe\. Die Verlobten sollen sich Rebekka zum Vorbild nehmen\. Als sie zu ihrem Mann geführt wurde, der ihr noch fremd war, erkannte sie in dem Mann, den sie aus der Ferne gesehen hatte, ihren künftigen Ehemann[^bible-ed5d54bf-4e5c-4162-938c-0a9dadc9eeda]\. Sofort weigerte sie sich, sich von ihm bei der rechten Hand nehmen zu lassen, einen Kuss zu empfangen oder auch nur Grüße mit ihm zu wechseln[^bible-ed5d54bf-4e5c-4162-938c-0a9dadc9eeda]\. Sie bekannte damit, was sie im Herzen schon wusste: Im Geist war sie seine Frau\. So bestritt sie auf der Stelle, eine Jungfrau zu sein, indem sie sich verschleierte[^bible-d30a7f0f-8ea4-474e-977a-8d1ed0a79c67]\. Was für eine Frau, schon in Christi Disziplin geschult\! Sie zeigte, dass eine Ehe ebenso wie Unzucht durch die Augen und die Gedanken zustande kommen kann[^bible-49d0b1b2-90ec-4556-b8a0-3165d0676cf5]\. Manche behaupten freilich weiterhin, Rebekka sei die ganze Zeit verschleiert gewesen[^bible-d30a7f0f-8ea4-474e-977a-8d1ed0a79c67]\! Was die anderen betrifft, also die noch nicht Verlobten: Vielleicht schieben ihre Eltern die Verlobung hinaus, sei es aus Armut oder aus übergroßer Vorsicht, vielleicht auch wegen des Ehelosigkeitsgelübdes der Tochter selbst\. Das alles spielt keine Rolle: Die Zeit nimmt ihren natürlichen Lauf auf die Reife zu und begleicht ihre Schuld, indem sie die Veränderungen mit sich bringt, die dem Mädchensein ein Ende setzen\. Die Natur ist eine zweite Mutter, die im Verborgenen wirkt; die Zeit ist ein zweiter Vater, den niemand sieht\. Gemeinsam verheiraten sie ihre Tochter nach ihren eigenen Gesetzen\. Sieh deine Jungfrau an, die du schon auf einen Ehemann vorbereitest: Sie ist bereits eine Ehefrau, in ihrer Seele durch die Erwartung, in ihrem Fleisch durch die Verwandlung\. Ihre Stimme hat den kindlichen Klang verloren, ihr Körper ist voll ausgebildet, Schamhaftigkeit umkleidet sie ganz, ihre Monatsblutungen entrichten ihren Tribut\. Und du bestreitest, dass sie eine Frau ist, obwohl du selbst zugibst, dass sie die Leiden einer Frau erduldet? Wenn erst der Verkehr mit einem Mann sie zur Frau macht, dann soll sie bis nach dem Vollzug der Ehe unverschleiert bleiben\. Und doch werden selbst bei den Heiden die Bräute verschleiert, wenn man sie ihren Männern zuführt\. Wenn sie aber schon bei der Verlobung verschleiert werden, weil sie sich durch den Kuss und das Reichen der rechten Hand körperlich wie geistig mit dem Mann verbinden, weil sie in diesem Augenblick die Schamhaftigkeit des Geistes aufgeben und weil sie sich durch ein gegenseitiges Versprechen, das ihr Gewissen bindet, zur völligen Hingabe aneinander verpflichten, um wie viel mehr muss dann die Zeit selbst ihnen den Schleier auferlegen, da sie ohne das nötige Alter nicht verlobt werden können\. Auch ohne Verlobung bringt die Zeit sie zu dem Alter und der Reife, in denen sie nach dem Gesetz der Natur nicht mehr als Jungfrauen gelten\. Selbst die Heiden achten auf das Alter und gewähren die jeweiligen Rechte entsprechend: Ihre Mädchen halten sie mit zwölf Jahren für mündig, ihre Jungen zwei Jahre später\. Dann lassen sie sie an den Angelegenheiten des Lebens teilnehmen und bestimmen die Geschlechtsreife nach den Jahren, nicht nach Verlobung oder Eheschließung\. Ein Mädchen wird „Herrin des Hauses“ genannt, obwohl es noch Jungfrau ist; ein Junge „Herr des Hauses“, obwohl er noch seine Tunika trägt\. Wir aber beachten nicht einmal, was die Natur selbst lehrt[^bible-c6412657-33ea-49a5-a314-4e38537e77bb], als gäbe es neben unserem Gott noch einen anderen Gott der Natur\. Kurz: Die Zeit selbst macht Jungfrauen zu Frauen, sodass sie keine Jungfrauen mehr sind, und verlangt deshalb ihre Verschleierung\. Die Zeit also, nicht ein Mann\.
+Doch auf das,
+was ich vorhin zurückgestellt habe,
+um den Gedankengang nicht zu unterbrechen,
+will ich nun abschließend antworten\.
+Als wir feststellten,
+dass die uneingeschränkte Bestimmung des Apostels,
+„jede Frau[^bible-de0dbb16-66b8-426b-a986-21f87fbc3efb] “,
+für jedes Alter gilt,
+lag der Einwand schon bereit:
+„Dann muss eine Jungfrau von Geburt an verschleiert sein,
+vom allerersten Lebensabschnitt an\!“
+Keineswegs\!
+Es gilt von dem Augenblick an,
+in dem sie sich selbst zu verstehen beginnt,
+sich ihrer eigenen Natur bewusst wird,
+der Jungfräulichkeit entwächst und in den neuen Zustand eintritt,
+der zu einem anderen Lebensalter gehört\.
+Denn unsere Stammeltern Adam und Eva lebten nackt[^bible-f1c8c393-6bbe-4ca7-aee9-71549786ca74],
+solange ihnen die Erkenntnis fehlte;
+als sie aber vom Baum der Erkenntnis kosteten,
+war Scham das Erste,
+was sie empfanden[^bible-4cfdc015-1682-49b7-ac6d-5f6399fca491]\.
+So besiegelten beide Geschlechter ihr neues Bewusstsein,
+indem sie sich bedeckten[^bible-6707eb74-c59a-4564-beea-ce08e995b318]\.
+Wenn aber eine Frau „wegen der Engel[^bible-38a5196f-91c5-49c2-bc86-a2104c1b5fd2] “ verschleiert sein muss,
+dann tritt das Gebot der Verschleierung zweifellos in dem Alter in Kraft,
+in dem die „Töchter der Menschen[^bible-564d7d57-79b1-4415-8273-7e38d6c7f14c] “ das Begehren der Männer wecken und eine Ehe eingehen können\.
+Denn eine Jungfrau hört in dem Augenblick auf,
+Jungfrau zu sein,
+in dem es ihr möglich wird,
+keine mehr zu sein\.
+Deshalb ist es in Israel verboten,
+einem Mann ein Mädchen zur Frau zu geben,
+bevor es die Reife erreicht hat,
+die sich durch das Zeichen des Blutes erweist\.
+Vor diesem Zeichen gilt es als noch nicht reif\.
+Wenn sie also Jungfrau ist,
+solange sie noch unreif ist,
+hört sie auf,
+Jungfrau zu sein,
+sobald man sie als reif erkennt\.
+Da sie nun keine Jungfrau mehr ist,
+untersteht sie dem Gebot der Verschleierung,
+ebenso wie in der Ehe\.
+Die Verlobten sollen sich Rebekka zum Vorbild nehmen\.
+Als sie zu ihrem Mann geführt wurde,
+der ihr noch fremd war,
+erkannte sie in dem Mann,
+den sie aus der Ferne gesehen hatte,
+ihren künftigen Ehemann[^bible-ed5d54bf-4e5c-4162-938c-0a9dadc9eeda]\.
+Sofort weigerte sie sich,
+sich von ihm bei der rechten Hand nehmen zu lassen,
+einen Kuss zu empfangen oder auch nur Grüße mit ihm zu wechseln[^bible-ed5d54bf-4e5c-4162-938c-0a9dadc9eeda]\.
+Sie bekannte damit,
+was sie im Herzen schon wusste:
+Im Geist war sie seine Frau\.
+So bestritt sie auf der Stelle,
+eine Jungfrau zu sein,
+indem sie sich verschleierte[^bible-d30a7f0f-8ea4-474e-977a-8d1ed0a79c67]\.
+Was für eine Frau,
+schon in Christi Disziplin geschult\!
+Sie zeigte,
+dass eine Ehe ebenso wie Unzucht durch die Augen und die Gedanken zustande kommen kann[^bible-49d0b1b2-90ec-4556-b8a0-3165d0676cf5]\.
+Manche behaupten freilich weiterhin,
+Rebekka sei die ganze Zeit verschleiert gewesen[^bible-d30a7f0f-8ea4-474e-977a-8d1ed0a79c67]\!
+Was die anderen betrifft,
+also die noch nicht Verlobten:
+Vielleicht schieben ihre Eltern die Verlobung hinaus,
+sei es aus Armut oder aus übergroßer Vorsicht,
+vielleicht auch wegen des Ehelosigkeitsgelübdes der Tochter selbst\.
+Das alles spielt keine Rolle:
+Die Zeit nimmt ihren natürlichen Lauf auf die Reife zu und begleicht ihre Schuld,
+indem sie die Veränderungen mit sich bringt,
+die dem Mädchensein ein Ende setzen\.
+Die Natur ist eine zweite Mutter,
+die im Verborgenen wirkt;
+die Zeit ist ein zweiter Vater,
+den niemand sieht\.
+Gemeinsam verheiraten sie ihre Tochter nach ihren eigenen Gesetzen\.
+Sieh deine Jungfrau an,
+die du schon auf einen Ehemann vorbereitest:
+Sie ist bereits eine Ehefrau,
+in ihrer Seele durch die Erwartung,
+in ihrem Fleisch durch die Verwandlung\.
+Ihre Stimme hat den kindlichen Klang verloren,
+ihr Körper ist voll ausgebildet,
+Schamhaftigkeit umkleidet sie ganz,
+ihre Monatsblutungen entrichten ihren Tribut\.
+Und du bestreitest,
+dass sie eine Frau ist,
+obwohl du selbst zugibst,
+dass sie die Leiden einer Frau erduldet?
+Wenn erst der Verkehr mit einem Mann sie zur Frau macht,
+dann soll sie bis nach dem Vollzug der Ehe unverschleiert bleiben\.
+Und doch werden selbst bei den Heiden die Bräute verschleiert,
+wenn man sie ihren Männern zuführt\.
+Wenn sie aber schon bei der Verlobung verschleiert werden,
+weil sie sich durch den Kuss und das Reichen der rechten Hand körperlich wie geistig mit dem Mann verbinden,
+weil sie in diesem Augenblick die Schamhaftigkeit des Geistes aufgeben und weil sie sich durch ein gegenseitiges Versprechen,
+das ihr Gewissen bindet,
+zur völligen Hingabe aneinander verpflichten,
+um wie viel mehr muss dann die Zeit selbst ihnen den Schleier auferlegen,
+da sie ohne das nötige Alter nicht verlobt werden können\.
+Auch ohne Verlobung bringt die Zeit sie zu dem Alter und der Reife,
+in denen sie nach dem Gesetz der Natur nicht mehr als Jungfrauen gelten\.
+Selbst die Heiden achten auf das Alter und gewähren die jeweiligen Rechte entsprechend:
+Ihre Mädchen halten sie mit zwölf Jahren für mündig,
+ihre Jungen zwei Jahre später\.
+Dann lassen sie sie an den Angelegenheiten des Lebens teilnehmen und bestimmen die Geschlechtsreife nach den Jahren,
+nicht nach Verlobung oder Eheschließung\.
+Ein Mädchen wird „Herrin des Hauses“ genannt,
+obwohl es noch Jungfrau ist;
+ein Junge „Herr des Hauses“,
+obwohl er noch seine Tunika trägt\.
+Wir aber beachten nicht einmal,
+was die Natur selbst lehrt[^bible-c6412657-33ea-49a5-a314-4e38537e77bb],
+als gäbe es neben unserem Gott noch einen anderen Gott der Natur\.
+Kurz:
+Die Zeit selbst macht Jungfrauen zu Frauen,
+sodass sie keine Jungfrauen mehr sind,
+und verlangt deshalb ihre Verschleierung\.
+Die Zeit also,
+nicht ein Mann\.
 
 ## Bibelverweise
 

@@ -7,6 +7,13 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/4-taufunterweisung#kapitel-bf8baddf-a852-4309-a44b-08ddd58807a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e99d825c7dd45eaa5dbc4fe51219342ea94d16f06a9082a8185730498465860f`
-
-Wie könnte es etwas anderes als neu und unglaublich sein, wenn jemand, der gestern und vorgestern sein Leben in Luxus und Völlerei verbrachte, plötzlich ein Leben der Selbstbeherrschung und Einfachheit annimmt? Wie könnte es etwas anderes als neu und völlig unglaublich sein, wenn jemand, der zuvor unbeherrscht war und von den Vergnügungen dieses Lebens verzehrt wurde, plötzlich über seine Leidenschaften hinauswächst und, als wäre er nicht mehr im Fleisch gekleidet, ein Leben der Mäßigung und Keuschheit verfolgt?
+Wie könnte es etwas anderes als neu und unglaublich sein,
+wenn jemand,
+der gestern und vorgestern sein Leben in Luxus und Völlerei verbrachte,
+plötzlich ein Leben der Selbstbeherrschung und Einfachheit annimmt?
+Wie könnte es etwas anderes als neu und völlig unglaublich sein,
+wenn jemand,
+der zuvor unbeherrscht war und von den Vergnügungen dieses Lebens verzehrt wurde,
+plötzlich über seine Leidenschaften hinauswächst und,
+als wäre er nicht mehr im Fleisch gekleidet,
+ein Leben der Mäßigung und Keuschheit verfolgt?

@@ -7,17 +7,399 @@ Autor: Clemens von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-alexandria/der-erzieher-buch-2#kapitel-c4c49c1f-9366-4cf5-934b-08df110dcf23).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e6bdef8c5ab1c3223e4225a6562b06efcfe298cdc96024b1c6e44535dbee71c3`
+Es ist kindisch,
+glänzende oder grüne Steine zu bestaunen,
+Dinge,
+die das Meer angespült hat,
+oder verkrustete Brocken,
+die man aus der Erde gräbt\.
+Nur dumme Menschen sehnen sich nach durchscheinenden kleinen Edelsteinen und bunten Glasstücken;
+sie lassen sich von glitzerndem Schein verführen\.
+Wie Kinder vom Feuer angezogen werden,
+weil es leuchtet,
+ohne zu begreifen,
+dass es gefährlich ist,
+es anzufassen,
+so bewundern auch Frauen in ihrer Dummheit diese leblosen Steine,
+als wären sie große Schätze:
+Amethyste,
+Donnersteine,
+Jaspisse,
+Topas und den grünen Smaragd aus Milet\.
+Sie tragen sie an ihren Halsketten und Schmuckstücken\.
+Dazu kommt die teure Perle,
+die bis tief in die Frauengemächer vorgedrungen ist\.
+Diese Perle wächst in einer Muschel,
+ähnlich einer Steckmuschel,
+und ist etwa so groß wie das große Auge eines Fisches\.
+Dennoch schämen sich diese armen Seelen nicht,
+ihre ganze Kraft darauf zu verwenden,
+eine so winzige Muschel zu bekommen\.
+Dabei könnten sie sich mit dem wahren heiligen Stein schmücken,
+dem Wort Gottes,
+das die Schrift „Perle[^bible-62cfea91-d3ed-4984-9854-c3d16841ffbe] “ nennt:
+klar und rein,
+Jesus selbst,
+der im Fleisch erschienen ist[^bible-f23d0ffe-44e3-4cf1-8d34-02d8bc55e316],
+das sichtbar gewordene Wort\.
+Durch ihn wird das Fleisch würdig,
+indem es im Wasser wiedergeboren wird[^bible-f21d3251-4d9a-47ce-80f2-9cc2d7c611d5]\.
+Und wie jene Muschel im Wasser entsteht und mit ihrem Fleisch eine Hülle bildet,
+so wird aus ihr die Perle geboren\.
+Uns wurde gelehrt,
+dass das himmlische Jerusalem aus heiligen Steinen erbaut ist und seine zwölf Tore aus kostbaren Edelsteinen bestehen[^bible-a55bf439-c517-47c8-8735-2b43dc172df8]\.
+Das verweist auf die strahlende Kraft der apostolischen Botschaft\.
+Denn Edelsteine werden nach ihren Farben angeordnet und sind kostbar;
+alles andere Material aber ist nur irdischer Stoff\.
+Darum heißt es von der geistlich erbauten Stadt der Heiligen zu Recht,
+sie sei mit solchen Steinen ummauert[^bible-447c1097-a041-4b09-b8e4-3c9d5bfa83f5],
+die hier als Sinnbilder stehen\.
+Und die unvergleichliche Schönheit geistlicher Edelsteine weist auf die reine und heilige Schönheit des Wesens des Geistes hin\.
+Manche Frauen verstehen diese Sinnbilder jedoch nicht\.
+Stattdessen behängen sie sich mit Steinen und rechtfertigen sich so:
+„Nun,
+wenn Gott uns das gezeigt hat,
+warum sollten wir es dann nicht benutzen?
+Es ist da,
+warum sollte ich es also nicht genießen?
+Für wen wurde es geschaffen,
+wenn nicht für uns?“
+Doch so sprechen Menschen,
+die Gottes Willen nicht kennen\.
+Was notwendig ist,
+etwa Wasser und Luft,
+stellt Gott allen offen zur Verfügung;
+was nicht notwendig ist,
+verbirgt er in der Erde und im Meer\.
+Deshalb graben Ameisen nach Gold,
+Greifen bewachen es,
+und das Meer verbirgt die Perle\.
+Du aber bist besessen von dem,
+was du nicht brauchst\.
+Sieh,
+der Himmel liegt offen vor dir,
+und du suchst Gott nicht\.
+Stattdessen sind es das verborgene Gold und die Edelsteine,
+die zum Tode Verurteilte in unserer Welt ausgraben\.
 
-Es ist kindisch, glänzende oder grüne Steine zu bestaunen, Dinge, die das Meer angespült hat, oder verkrustete Brocken, die man aus der Erde gräbt\. Nur dumme Menschen sehnen sich nach durchscheinenden kleinen Edelsteinen und bunten Glasstücken; sie lassen sich von glitzerndem Schein verführen\. Wie Kinder vom Feuer angezogen werden, weil es leuchtet, ohne zu begreifen, dass es gefährlich ist, es anzufassen, so bewundern auch Frauen in ihrer Dummheit diese leblosen Steine, als wären sie große Schätze: Amethyste, Donnersteine, Jaspisse, Topas und den grünen Smaragd aus Milet\. Sie tragen sie an ihren Halsketten und Schmuckstücken\. Dazu kommt die teure Perle, die bis tief in die Frauengemächer vorgedrungen ist\. Diese Perle wächst in einer Muschel, ähnlich einer Steckmuschel, und ist etwa so groß wie das große Auge eines Fisches\. Dennoch schämen sich diese armen Seelen nicht, ihre ganze Kraft darauf zu verwenden, eine so winzige Muschel zu bekommen\. Dabei könnten sie sich mit dem wahren heiligen Stein schmücken, dem Wort Gottes, das die Schrift „Perle[^bible-62cfea91-d3ed-4984-9854-c3d16841ffbe] “ nennt: klar und rein, Jesus selbst, der im Fleisch erschienen ist[^bible-f23d0ffe-44e3-4cf1-8d34-02d8bc55e316], das sichtbar gewordene Wort\. Durch ihn wird das Fleisch würdig, indem es im Wasser wiedergeboren wird[^bible-f21d3251-4d9a-47ce-80f2-9cc2d7c611d5]\. Und wie jene Muschel im Wasser entsteht und mit ihrem Fleisch eine Hülle bildet, so wird aus ihr die Perle geboren\. Uns wurde gelehrt, dass das himmlische Jerusalem aus heiligen Steinen erbaut ist und seine zwölf Tore aus kostbaren Edelsteinen bestehen[^bible-a55bf439-c517-47c8-8735-2b43dc172df8]\. Das verweist auf die strahlende Kraft der apostolischen Botschaft\. Denn Edelsteine werden nach ihren Farben angeordnet und sind kostbar; alles andere Material aber ist nur irdischer Stoff\. Darum heißt es von der geistlich erbauten Stadt der Heiligen zu Recht, sie sei mit solchen Steinen ummauert[^bible-447c1097-a041-4b09-b8e4-3c9d5bfa83f5], die hier als Sinnbilder stehen\. Und die unvergleichliche Schönheit geistlicher Edelsteine weist auf die reine und heilige Schönheit des Wesens des Geistes hin\. Manche Frauen verstehen diese Sinnbilder jedoch nicht\. Stattdessen behängen sie sich mit Steinen und rechtfertigen sich so: „Nun, wenn Gott uns das gezeigt hat, warum sollten wir es dann nicht benutzen? Es ist da, warum sollte ich es also nicht genießen? Für wen wurde es geschaffen, wenn nicht für uns?“ Doch so sprechen Menschen, die Gottes Willen nicht kennen\. Was notwendig ist, etwa Wasser und Luft, stellt Gott allen offen zur Verfügung; was nicht notwendig ist, verbirgt er in der Erde und im Meer\. Deshalb graben Ameisen nach Gold, Greifen bewachen es, und das Meer verbirgt die Perle\. Du aber bist besessen von dem, was du nicht brauchst\. Sieh, der Himmel liegt offen vor dir, und du suchst Gott nicht\. Stattdessen sind es das verborgene Gold und die Edelsteine, die zum Tode Verurteilte in unserer Welt ausgraben\.
+Du widersprichst sogar der Schrift,
+die unmissverständlich ruft:
+„Sucht zuerst das Himmelreich,
+und all diese Dinge werden euch dazugegeben\.[^bible-951d2135-7553-4267-9b26-e837c4e55f96]
+“ Und selbst wenn uns alles gewährt worden ist und wir,
+wie der Apostel sagt,
+„zu allem das Recht haben[^bible-898c4b92-b969-4961-ba65-d7b73c3334b7] “,
+gilt dennoch:
+„Nicht alles ist hilfreich\.[^bible-898c4b92-b969-4961-ba65-d7b73c3334b7]
+“ Gott hat unsere Natur auf Gemeinschaft angelegt\.
+Er hat zuerst sich selbst gegeben und sein Wort allen Menschen zugänglich gemacht;
+alles hat er für alle getan\.
+Also gehört alles allen gemeinsam;
+unter den Reichen sollte es keine Habgier geben\.
+Wer sagt:
+„Es gehört mir,
+ich habe reichlich,
+warum sollte ich es mir also nicht gut gehen lassen?“,
+spricht ohne Menschlichkeit und Gemeinschaftssinn\.
+Besser ist es,
+zu sagen:
+„Da ich es habe,
+warum sollte ich es nicht mit den Bedürftigen teilen?“
+Wer so handelt,
+erfüllt wirklich das Gebot:
+„Du sollst deinen Nächsten lieben wie dich selbst\.[^bible-e6c8146d-d552-4cf2-a724-ed4be945f16e]
+“ Das ist echter Genuss,
+der wahre Schatz\.
+Aber Geld für nutzlose Wünsche auszugeben?
+Das ist nur Verlust,
+der sich als Luxus ausgibt\.
+Gott hat uns die Entscheidung darüber überlassen,
+wie wir die Dinge gebrauchen,
+doch nur im Rahmen des Notwendigen\.
+Er wollte,
+dass wir sie gemeinsam nutzen\.
+Es ist widersinnig,
+dass einer im Luxus lebt,
+während viele um ihn herum arm sind\.
+Ist es nicht ehrenvoller,
+vielen Menschen zu helfen,
+als verschwenderisch zu leben?
+Ist es nicht klüger,
+Geld für Menschen auszugeben als für Steine und Gold?
+Ist es nicht nützlicher,
+edle Freunde zu haben als leblosen Schmuck?
+Welcher Acker könnte mehr Ertrag bringen als großzügiges Geben?
+Nun bleibt noch ein letzter Einwand zu beantworten:
+„Für wen sind dann die kostbaren Dinge bestimmt,
+wenn alle die einfacheren wählen?“
+Ich würde sagen:
+für die Menschen,
+sofern wir sie gebrauchen,
+ohne unser Herz daran zu hängen oder stolz darauf zu sein\.
+Wenn aber nicht alle zur Selbstbeherrschung fähig sind,
+sollten wenigstens die Wohlhabenden sich an das halten,
+was leicht zu bekommen ist,
+und sich von diesen unnötigen Ausschweifungen weit fernhalten\.
+Überhaupt sollte man all diesen prunkvollen Schmuck wie Kinderspielzeug wegwerfen:
+Verwerft mit dem Tand auch die Welt selbst\.
+Frauen sollen von innen heraus bescheiden sein und ihre wahre Schönheit im Inneren zeigen\.
+Denn wahre Schönheit und Hässlichkeit sind nur in der Seele zu erkennen\.
+Deshalb ist nur der tugendhafte Mensch wirklich schön und gut,
+und nur das Gute ist wirklich schön\.
+Allein die Tugend macht Schönheit auch durch einen wohlgestalteten Körper sichtbar:
+Sie blüht durch das Fleisch hindurch auf und offenbart die Anmut der Selbstbeherrschung,
+wenn die Moral eines Menschen wie ein Licht aus seinem Gesicht strahlt\.
+Denn bei allen Pflanzen und Tieren entspringt die Schönheit der Vortrefflichkeit ihrer eigenen Natur\.
+Beim Menschen aber besteht die Tugend in Gerechtigkeit,
+Selbstbeherrschung,
+Mut und Ehrfurcht vor Gott\.
+Wirklich schön ist also,
+wer gerecht,
+selbstbeherrscht und gut ist,
+nicht,
+wer reich ist\.
+Sogar Soldaten wollen sich heute mit Gold schmücken,
+obwohl sie jenes Gedicht nicht gelesen haben,
+in dem es heißt:
+„Sogar mit Gold zog er in den Krieg,
+wie ein dummes Mädchen\.“
+Deshalb müssen wir all diese Liebe zum Prunk verwerfen,
+die sich nicht um die Tugend kümmert,
+sondern am Körper hängt und die Liebe zur Schönheit in Eitelkeit verwandelt\.
+Indem wir den Körper mit Dingen behängen,
+die nicht zu ihm gehören,
+haben wir uns in der Täuschung geübt und uns an die Trickserei gewöhnt\.
+Das ist weder Ernsthaftigkeit noch Aufrichtigkeit,
+sondern ein Leben voller Prunk und Selbstverwöhnung\.
 
-Du widersprichst sogar der Schrift, die unmissverständlich ruft: „Sucht zuerst das Himmelreich, und all diese Dinge werden euch dazugegeben\.[^bible-951d2135-7553-4267-9b26-e837c4e55f96] “ Und selbst wenn uns alles gewährt worden ist und wir, wie der Apostel sagt, „zu allem das Recht haben[^bible-898c4b92-b969-4961-ba65-d7b73c3334b7] “, gilt dennoch: „Nicht alles ist hilfreich\.[^bible-898c4b92-b969-4961-ba65-d7b73c3334b7] “ Gott hat unsere Natur auf Gemeinschaft angelegt\. Er hat zuerst sich selbst gegeben und sein Wort allen Menschen zugänglich gemacht; alles hat er für alle getan\. Also gehört alles allen gemeinsam; unter den Reichen sollte es keine Habgier geben\. Wer sagt: „Es gehört mir, ich habe reichlich, warum sollte ich es mir also nicht gut gehen lassen?“, spricht ohne Menschlichkeit und Gemeinschaftssinn\. Besser ist es, zu sagen: „Da ich es habe, warum sollte ich es nicht mit den Bedürftigen teilen?“ Wer so handelt, erfüllt wirklich das Gebot: „Du sollst deinen Nächsten lieben wie dich selbst\.[^bible-e6c8146d-d552-4cf2-a724-ed4be945f16e] “ Das ist echter Genuss, der wahre Schatz\. Aber Geld für nutzlose Wünsche auszugeben? Das ist nur Verlust, der sich als Luxus ausgibt\. Gott hat uns die Entscheidung darüber überlassen, wie wir die Dinge gebrauchen, doch nur im Rahmen des Notwendigen\. Er wollte, dass wir sie gemeinsam nutzen\. Es ist widersinnig, dass einer im Luxus lebt, während viele um ihn herum arm sind\. Ist es nicht ehrenvoller, vielen Menschen zu helfen, als verschwenderisch zu leben? Ist es nicht klüger, Geld für Menschen auszugeben als für Steine und Gold? Ist es nicht nützlicher, edle Freunde zu haben als leblosen Schmuck? Welcher Acker könnte mehr Ertrag bringen als großzügiges Geben? Nun bleibt noch ein letzter Einwand zu beantworten: „Für wen sind dann die kostbaren Dinge bestimmt, wenn alle die einfacheren wählen?“ Ich würde sagen: für die Menschen, sofern wir sie gebrauchen, ohne unser Herz daran zu hängen oder stolz darauf zu sein\. Wenn aber nicht alle zur Selbstbeherrschung fähig sind, sollten wenigstens die Wohlhabenden sich an das halten, was leicht zu bekommen ist, und sich von diesen unnötigen Ausschweifungen weit fernhalten\. Überhaupt sollte man all diesen prunkvollen Schmuck wie Kinderspielzeug wegwerfen: Verwerft mit dem Tand auch die Welt selbst\. Frauen sollen von innen heraus bescheiden sein und ihre wahre Schönheit im Inneren zeigen\. Denn wahre Schönheit und Hässlichkeit sind nur in der Seele zu erkennen\. Deshalb ist nur der tugendhafte Mensch wirklich schön und gut, und nur das Gute ist wirklich schön\. Allein die Tugend macht Schönheit auch durch einen wohlgestalteten Körper sichtbar: Sie blüht durch das Fleisch hindurch auf und offenbart die Anmut der Selbstbeherrschung, wenn die Moral eines Menschen wie ein Licht aus seinem Gesicht strahlt\. Denn bei allen Pflanzen und Tieren entspringt die Schönheit der Vortrefflichkeit ihrer eigenen Natur\. Beim Menschen aber besteht die Tugend in Gerechtigkeit, Selbstbeherrschung, Mut und Ehrfurcht vor Gott\. Wirklich schön ist also, wer gerecht, selbstbeherrscht und gut ist, nicht, wer reich ist\. Sogar Soldaten wollen sich heute mit Gold schmücken, obwohl sie jenes Gedicht nicht gelesen haben, in dem es heißt: „Sogar mit Gold zog er in den Krieg, wie ein dummes Mädchen\.“ Deshalb müssen wir all diese Liebe zum Prunk verwerfen, die sich nicht um die Tugend kümmert, sondern am Körper hängt und die Liebe zur Schönheit in Eitelkeit verwandelt\. Indem wir den Körper mit Dingen behängen, die nicht zu ihm gehören, haben wir uns in der Täuschung geübt und uns an die Trickserei gewöhnt\. Das ist weder Ernsthaftigkeit noch Aufrichtigkeit, sondern ein Leben voller Prunk und Selbstverwöhnung\.
+Diese Dinge verdecken die wahre Schönheit mit Gold,
+und die Frauen begreifen nicht,
+wie weit sie sich verirrt haben:
+Sie wickeln sich wie Gefangene in unzählige goldene Ketten\.
+So wie man erzählt,
+dass bei den Barbaren Verbrecher mit Gold gefesselt werden,
+scheinen diese Frauen jene reichen Gefangenen nachzuahmen\.
+Ist eine goldene Halskette nicht einfach ein Halsband?
+Sind die gewundenen Armbänder nicht einfach Ketten?
+Selbst die langen,
+herabhängenden Ohrringe gleichen kleinen Fesseln\.
+Im attischen Griechisch heißen sie wörtlich „Ketten“\.
+Ein Schriftsteller sagte sogar,
+die prunkvoll geschmückten Füße der Frauen glichen mit ihren durchsichtigen Gewändern und goldenen Fesseln Fußschellen\.
+Warum bewundert ihr Frauen also noch immer diesen Aufzug und wollt aussehen,
+als lägt ihr in Ketten?
+Wenn materielle Dinge Schande mit sich bringen,
+dann ist die Besessenheit davon keine große Sache\.
+Mir aber scheint,
+dass ihr euch freiwillig in Ketten legt und euch dann eures reichen Unglücks rühmt\.
+Vielleicht handelte sogar jener Mythos der Dichter von der in Ketten gefangenen Aphrodite davon:
+Die goldenen Schmuckstücke waren ein Sinnbild des Ehebruchs\.
+Homer sagte,
+selbst jene Ketten seien aus Gold gewesen\.
+Dennoch schämen sich die Frauen heute nicht,
+die deutlichsten Zeichen der Bosheit zu tragen\.
+Wie die Schlange Eva täuschte[^bible-76533f1c-5540-471a-9f80-32bfbd74c5b0],
+so täuscht die goldene Welt andere Frauen:
+Sie überlistet sie wie die Schlange[^bible-76533f1c-5540-471a-9f80-32bfbd74c5b0] und verführt sie mit glitzernden Kosmetikartikeln in Gestalt von Eidechsen und Schlangen zur Überheblichkeit\.
+Der Komödiendichter Nikostratos drückte es so aus:
+„Ketten,
+Ohrgehänge,
+Ringe,
+wilde Tiere,
+Schlangen,
+Schenkelbänder und Nieswurz\.“
+Aristophanes verspottet in seinem Stück Thesmophoriazusen ganz unverblümt all die ausgefallenen Arten,
+wie Frauen sich schmücken\.
+Ich werde die genauen Worte des Komödiendichters anführen,
+die deutlich offenlegen,
+wie lästig eure Besessenheit,
+übermäßig gut sein zu wollen,
+wirklich ist\.
+A:
+„Stirnbänder,
+Schmuck,
+Seife,
+Rouge,
+Büstenhalter,
+Rückengürtel,
+Schleier,
+Purpurfarbe,
+Halsketten,
+aufgemalte Augenbrauen,
+weiche safrangelbe Schals,
+〈Nieswurz,〉 Haarnetze,
+Schärpen,
+Mäntel,
+zierliche Gewänder,
+Borten,
+Gewänder mit langen Schleppen,
+Tuniken,
+tiefe Falten,
+runde Umhänge,
+kleine Chitone\.
+Und die größten Dinge habe ich noch gar nicht genannt\!“
+B:
+„Was denn noch?“
+A:
+„Sonnenschirme,
+Edelsteine,
+Grundierungscremes,
+Malvenblätter,
+Weintrauben,
+kostbare Umhänge,
+Nadeln,
+doppelte Ohrringe,
+Ketten,
+Fußringe,
+Siegel,
+Armbänder,
+Ringe,
+Gesichtsmasken,
+Blasen,
+Bandagen,
+Dildos,
+Sardsteine,
+Achselpolster,
+Lockenwickler\.“
+Ehrlich gesagt bin ich schon vom Aufzählen so vieler Schönheitsartikel erschöpft und verärgert;
+dennoch staune ich,
+dass sie nicht müde werden,
+eine so schwere Last an Dingen mit sich herumzutragen\.
+Ach,
+was für ein leeres,
+geschäftiges Treiben\!
+Ach,
+was für eine eitle Gier nach Lob\!
+Sie verschleudern ihren Reichtum wie Prostituierte in Schande und verderben Gottes Gaben durch geschmacklosen Luxus\.
+Damit ahmen sie die Kunst des Bösen nach\.
+Der Herr zeigt dies im Evangelium deutlich an dem reichen Mann,
+der Schätze in Scheunen aufhäufte[^bible-aec62344-a2e9-4f62-bdaa-ea3b4c738bfa] und zu sich selbst sagte:
+„Du hast viele Güter für viele Jahre auf Vorrat;
+iss,
+trink und genieße das Leben\.[^bible-b52c3311-1d97-458f-bcdd-e3229f4271b9]
+“ Er nannte ihn dumm[^bible-55ea1989-42a5-4a6e-9641-f5e1156a7e14]:
+„Denn noch in dieser Nacht nehmen sie dir deine Seele\.[^bible-55ea1989-42a5-4a6e-9641-f5e1156a7e14]
 
-Diese Dinge verdecken die wahre Schönheit mit Gold, und die Frauen begreifen nicht, wie weit sie sich verirrt haben: Sie wickeln sich wie Gefangene in unzählige goldene Ketten\. So wie man erzählt, dass bei den Barbaren Verbrecher mit Gold gefesselt werden, scheinen diese Frauen jene reichen Gefangenen nachzuahmen\. Ist eine goldene Halskette nicht einfach ein Halsband? Sind die gewundenen Armbänder nicht einfach Ketten? Selbst die langen, herabhängenden Ohrringe gleichen kleinen Fesseln\. Im attischen Griechisch heißen sie wörtlich „Ketten“\. Ein Schriftsteller sagte sogar, die prunkvoll geschmückten Füße der Frauen glichen mit ihren durchsichtigen Gewändern und goldenen Fesseln Fußschellen\. Warum bewundert ihr Frauen also noch immer diesen Aufzug und wollt aussehen, als lägt ihr in Ketten? Wenn materielle Dinge Schande mit sich bringen, dann ist die Besessenheit davon keine große Sache\. Mir aber scheint, dass ihr euch freiwillig in Ketten legt und euch dann eures reichen Unglücks rühmt\. Vielleicht handelte sogar jener Mythos der Dichter von der in Ketten gefangenen Aphrodite davon: Die goldenen Schmuckstücke waren ein Sinnbild des Ehebruchs\. Homer sagte, selbst jene Ketten seien aus Gold gewesen\. Dennoch schämen sich die Frauen heute nicht, die deutlichsten Zeichen der Bosheit zu tragen\. Wie die Schlange Eva täuschte[^bible-76533f1c-5540-471a-9f80-32bfbd74c5b0], so täuscht die goldene Welt andere Frauen: Sie überlistet sie wie die Schlange[^bible-76533f1c-5540-471a-9f80-32bfbd74c5b0] und verführt sie mit glitzernden Kosmetikartikeln in Gestalt von Eidechsen und Schlangen zur Überheblichkeit\. Der Komödiendichter Nikostratos drückte es so aus: „Ketten, Ohrgehänge, Ringe, wilde Tiere, Schlangen, Schenkelbänder und Nieswurz\.“ Aristophanes verspottet in seinem Stück Thesmophoriazusen ganz unverblümt all die ausgefallenen Arten, wie Frauen sich schmücken\. Ich werde die genauen Worte des Komödiendichters anführen, die deutlich offenlegen, wie lästig eure Besessenheit, übermäßig gut sein zu wollen, wirklich ist\. A: „Stirnbänder, Schmuck, Seife, Rouge, Büstenhalter, Rückengürtel, Schleier, Purpurfarbe, Halsketten, aufgemalte Augenbrauen, weiche safrangelbe Schals, 〈Nieswurz,〉 Haarnetze, Schärpen, Mäntel, zierliche Gewänder, Borten, Gewänder mit langen Schleppen, Tuniken, tiefe Falten, runde Umhänge, kleine Chitone\. Und die größten Dinge habe ich noch gar nicht genannt\!“ B: „Was denn noch?“ A: „Sonnenschirme, Edelsteine, Grundierungscremes, Malvenblätter, Weintrauben, kostbare Umhänge, Nadeln, doppelte Ohrringe, Ketten, Fußringe, Siegel, Armbänder, Ringe, Gesichtsmasken, Blasen, Bandagen, Dildos, Sardsteine, Achselpolster, Lockenwickler\.“ Ehrlich gesagt bin ich schon vom Aufzählen so vieler Schönheitsartikel erschöpft und verärgert; dennoch staune ich, dass sie nicht müde werden, eine so schwere Last an Dingen mit sich herumzutragen\. Ach, was für ein leeres, geschäftiges Treiben\! Ach, was für eine eitle Gier nach Lob\! Sie verschleudern ihren Reichtum wie Prostituierte in Schande und verderben Gottes Gaben durch geschmacklosen Luxus\. Damit ahmen sie die Kunst des Bösen nach\. Der Herr zeigt dies im Evangelium deutlich an dem reichen Mann, der Schätze in Scheunen aufhäufte[^bible-aec62344-a2e9-4f62-bdaa-ea3b4c738bfa] und zu sich selbst sagte: „Du hast viele Güter für viele Jahre auf Vorrat; iss, trink und genieße das Leben\.[^bible-b52c3311-1d97-458f-bcdd-e3229f4271b9] “ Er nannte ihn dumm[^bible-55ea1989-42a5-4a6e-9641-f5e1156a7e14]: „Denn noch in dieser Nacht nehmen sie dir deine Seele\.[^bible-55ea1989-42a5-4a6e-9641-f5e1156a7e14]
+Wem wird dann gehören,
+was du vorbereitet hast?[^bible-61c95a98-0e31-467d-b809-f01595ca3603]
+“ Der Maler Apelles sah einmal,
+wie einer seiner Schüler eine mit Gold bedeckte Helena malte,
+und sagte:
+„Junger Mann,
+weil du keine schöne Frau malen konntest,
+hast du sie stattdessen reich gemacht\.“
+Die Frauen von heute gleichen dieser Helena:
+Sie sind nicht wirklich schön,
+sondern herausgeputzt,
+um kostbar zu wirken\.
+Der Geist spricht durch den Propheten Zefanja und sagt über sie voraus:
+„Ihr Silber und Gold werden sie am Tag des Zornes des Herrn nicht retten können\.[^bible-b2ae1f71-3e9a-425f-b890-3e5b97ecf875]
+“ Frauen aber,
+die von Christus unterwiesen werden,
+sollen sich nicht mit Gold schmücken,
+sondern mit dem Wort\.
+Denn nur durch das Wort zeigt sich das Gold als das,
+was es wirklich ist\.
+Die alten Hebräer wären glücklich zu preisen gewesen,
+wenn sie den Schmuck,
+den sie ihren Frauen abgenommen hatten[^bible-bb272c2e-9fc2-4371-bd27-36fe8bf0b80f],
+weggeworfen oder eingeschmolzen hätten\.
+Stattdessen aber machten sie daraus ein goldenes Kalb und beteten es an\.[^bible-560efa8e-280e-4327-b5cb-d1036ae37120]
+Sie gewannen nichts dabei,
+weder durch die Kunstfertigkeit noch durch die Tat,
+lehrten aber unsere Frauen sehr deutlich,
+solchen Schmuck zu meiden\.
+Die Begierde,
+die sie für Gold feilboten,
+verwandelte sich in einen Götzen,
+der durch Feuer bestraft werden wird\.
+Dieser Götze bewahrt die Lust nur als Abbild,
+nicht als Wahrheit\.
+Deshalb weist die Schrift durch den Propheten die Hebräer zurecht:
+„Sie machten Silber und Gold für Baal[^bible-d457dab2-3065-4fce-a4df-fa5e98af91fe] “,
+das heißt für Schmuck\.
+Und sie droht ihnen unmissverständlich:
+„Ich werde sie für die Tage der Baale bestrafen,
+an denen sie ihnen Räucheropfer darbrachte und ihre Ohrringe und Halsketten anlegte\.[^bible-37c5e16a-1999-4530-8413-0afb0c61f77c]
+“ Er nennt sogar den Grund für den Schmuck:
+„Sie lief ihren Liebhabern nach,
+mich aber vergaß sie[^bible-37c5e16a-1999-4530-8413-0afb0c61f77c] “,
+spricht der Herr\.
+Also sollen die Frauen diese dummen Dinge ablegen,
+diese Kunstgriffe des bösen Verführers,
+mit solcher weltlichen Verschönerung nichts zu tun haben und auch nicht hinter prächtigen Vorhängen Götzendienst treiben\.
+Der selige Petrus sagt es treffend:
+„Ehefrauen sollen sich nicht mit geflochtenem Haar,
+Gold,
+Perlen oder teuren Kleidern schmücken,
+sondern mit dem,
+was Frauen angemessen ist,
+die sich zur Ehrfurcht vor Gott bekennen:
+mit guten Werken\.[^bible-6f8fdc0b-3b43-4371-a364-9924641b6cc0]
+“ Deshalb gebietet er ihnen zu Recht,
+solchen Schmuck zu meiden\.
+Sind sie von Natur aus schön,
+so genügt die Natur\.
+Die Kunst soll nicht mit der Natur wetteifern,
+die Täuschung nicht die Wahrheit herausfordern\.
+Sind sie aber von Natur aus hässlich,
+so legen sie nur ihren Mangel offen,
+wenn sie hinzuzufügen versuchen,
+was ihnen fehlt\.
+Wer Christus dient,
+soll sich deshalb an die Einfachheit halten\.
+Denn in Wahrheit bringt Einfachheit Heiligkeit hervor,
+wirkt der Habgier entgegen und sorgt mit gewöhnlichen Dingen für alles Nötige,
+statt sich auf zusätzlichen Luxus zu stützen\.
+Einfachheit ist,
+wie schon ihr Name zeigt,
+weder maßlos noch aufgebläht oder stolz\.
+Sie ist glatt,
+eben,
+gleichmäßig und bescheiden,
+und so reicht sie aus\.
+Dieses Ausreichen bedeutet,
+dass man das wirklich Nötige hat,
+ohne Überfluss und ohne Mangel\.
+Seine Mutter ist die Gerechtigkeit,
+seine Amme die Selbstbeherrschung\.
+Eine solche Lebensweise begnügt sich mit dem Notwendigen und bringt aus sich selbst alles mit,
+was für ein glückseliges Leben nötig ist\.
+So soll eure wahre Schönheit aus den Werken eurer Hände erwachsen:
+aus heiliger Freigebigkeit,
+aus Gemeinschaft,
+in der ihr miteinander teilt,
+und aus der Mühe,
+einen Haushalt gut zu führen\.
+„Wer den Armen gibt,
+leiht Gott[^bible-33574ced-de8f-4e34-86c6-bf7ea5c73456] “,
+und:
+„Die Hände der Starken werden reich\.[^bible-b7155787-792b-4372-9a31-c91fa89ca59a]
+“ Stark nennt er diejenigen,
+die dem Geld wenig Gewicht beimessen und großzügig geben\.
 
-Wem wird dann gehören, was du vorbereitet hast?[^bible-61c95a98-0e31-467d-b809-f01595ca3603] “ Der Maler Apelles sah einmal, wie einer seiner Schüler eine mit Gold bedeckte Helena malte, und sagte: „Junger Mann, weil du keine schöne Frau malen konntest, hast du sie stattdessen reich gemacht\.“ Die Frauen von heute gleichen dieser Helena: Sie sind nicht wirklich schön, sondern herausgeputzt, um kostbar zu wirken\. Der Geist spricht durch den Propheten Zefanja und sagt über sie voraus: „Ihr Silber und Gold werden sie am Tag des Zornes des Herrn nicht retten können\.[^bible-b2ae1f71-3e9a-425f-b890-3e5b97ecf875] “ Frauen aber, die von Christus unterwiesen werden, sollen sich nicht mit Gold schmücken, sondern mit dem Wort\. Denn nur durch das Wort zeigt sich das Gold als das, was es wirklich ist\. Die alten Hebräer wären glücklich zu preisen gewesen, wenn sie den Schmuck, den sie ihren Frauen abgenommen hatten[^bible-bb272c2e-9fc2-4371-bd27-36fe8bf0b80f], weggeworfen oder eingeschmolzen hätten\. Stattdessen aber machten sie daraus ein goldenes Kalb und beteten es an\.[^bible-560efa8e-280e-4327-b5cb-d1036ae37120] Sie gewannen nichts dabei, weder durch die Kunstfertigkeit noch durch die Tat, lehrten aber unsere Frauen sehr deutlich, solchen Schmuck zu meiden\. Die Begierde, die sie für Gold feilboten, verwandelte sich in einen Götzen, der durch Feuer bestraft werden wird\. Dieser Götze bewahrt die Lust nur als Abbild, nicht als Wahrheit\. Deshalb weist die Schrift durch den Propheten die Hebräer zurecht: „Sie machten Silber und Gold für Baal[^bible-d457dab2-3065-4fce-a4df-fa5e98af91fe] “, das heißt für Schmuck\. Und sie droht ihnen unmissverständlich: „Ich werde sie für die Tage der Baale bestrafen, an denen sie ihnen Räucheropfer darbrachte und ihre Ohrringe und Halsketten anlegte\.[^bible-37c5e16a-1999-4530-8413-0afb0c61f77c] “ Er nennt sogar den Grund für den Schmuck: „Sie lief ihren Liebhabern nach, mich aber vergaß sie[^bible-37c5e16a-1999-4530-8413-0afb0c61f77c] “, spricht der Herr\. Also sollen die Frauen diese dummen Dinge ablegen, diese Kunstgriffe des bösen Verführers, mit solcher weltlichen Verschönerung nichts zu tun haben und auch nicht hinter prächtigen Vorhängen Götzendienst treiben\. Der selige Petrus sagt es treffend: „Ehefrauen sollen sich nicht mit geflochtenem Haar, Gold, Perlen oder teuren Kleidern schmücken, sondern mit dem, was Frauen angemessen ist, die sich zur Ehrfurcht vor Gott bekennen: mit guten Werken\.[^bible-6f8fdc0b-3b43-4371-a364-9924641b6cc0] “ Deshalb gebietet er ihnen zu Recht, solchen Schmuck zu meiden\. Sind sie von Natur aus schön, so genügt die Natur\. Die Kunst soll nicht mit der Natur wetteifern, die Täuschung nicht die Wahrheit herausfordern\. Sind sie aber von Natur aus hässlich, so legen sie nur ihren Mangel offen, wenn sie hinzuzufügen versuchen, was ihnen fehlt\. Wer Christus dient, soll sich deshalb an die Einfachheit halten\. Denn in Wahrheit bringt Einfachheit Heiligkeit hervor, wirkt der Habgier entgegen und sorgt mit gewöhnlichen Dingen für alles Nötige, statt sich auf zusätzlichen Luxus zu stützen\. Einfachheit ist, wie schon ihr Name zeigt, weder maßlos noch aufgebläht oder stolz\. Sie ist glatt, eben, gleichmäßig und bescheiden, und so reicht sie aus\. Dieses Ausreichen bedeutet, dass man das wirklich Nötige hat, ohne Überfluss und ohne Mangel\. Seine Mutter ist die Gerechtigkeit, seine Amme die Selbstbeherrschung\. Eine solche Lebensweise begnügt sich mit dem Notwendigen und bringt aus sich selbst alles mit, was für ein glückseliges Leben nötig ist\. So soll eure wahre Schönheit aus den Werken eurer Hände erwachsen: aus heiliger Freigebigkeit, aus Gemeinschaft, in der ihr miteinander teilt, und aus der Mühe, einen Haushalt gut zu führen\. „Wer den Armen gibt, leiht Gott[^bible-33574ced-de8f-4e34-86c6-bf7ea5c73456] “, und: „Die Hände der Starken werden reich\.[^bible-b7155787-792b-4372-9a31-c91fa89ca59a] “ Stark nennt er diejenigen, die dem Geld wenig Gewicht beimessen und großzügig geben\.
-
-Eure Füße sollen zu guten Werken bereit sein[^bible-19b17f16-f716-4700-ad16-b879862a91ff] und in Gerechtigkeit gehen\. Als Halsketten und Halsbänder sollen euch Bescheidenheit und Selbstbeherrschung dienen: Das ist der Schmuck, den Gott schafft\. „Selig ist, wer Weisheit findet[^bible-0cefa00f-9d63-4de4-a096-b34045d63a7c] “, sagt der Geist durch Salomo, „und der Sterbliche, der Einsicht gewinnt\. Denn sie bringt mehr Gewinn als Schätze aus Gold und Silber und ist kostbarer als kostbare Edelsteine\.[^bible-aaca5b34-cf49-4b6e-b50c-4918b2d87245] “ Das ist der wahre Schmuck\. Sie sollen sich nicht gegen die Natur die Ohren durchstechen lassen, um Ohrringe und Schmuck daran zu hängen; denn es ist nicht recht, der Natur gegen ihren Willen Gewalt anzutun\. Auch gibt es für die Ohren keinen besseren Schmuck, als die natürlichen Klänge wahrer Unterweisung aufzunehmen\. Wenn das Wort die Augen erhebt und die Ohren für das Verständnis göttlicher Dinge geöffnet werden, bereiten sie den Menschen darauf vor, Heiliges zu hören und Heiliges zu sehen\. So zeigen sie in Wahrheit die wahre Schönheit des Wortes: „was noch kein Auge gesehen und kein Ohr gehört hat[^bible-9d7a702a-07e3-4a95-ac9d-5458c170aacc] “\.
+Eure Füße sollen zu guten Werken bereit sein[^bible-19b17f16-f716-4700-ad16-b879862a91ff] und in Gerechtigkeit gehen\.
+Als Halsketten und Halsbänder sollen euch Bescheidenheit und Selbstbeherrschung dienen:
+Das ist der Schmuck,
+den Gott schafft\.
+„Selig ist,
+wer Weisheit findet[^bible-0cefa00f-9d63-4de4-a096-b34045d63a7c] “,
+sagt der Geist durch Salomo,
+„und der Sterbliche,
+der Einsicht gewinnt\.
+Denn sie bringt mehr Gewinn als Schätze aus Gold und Silber und ist kostbarer als kostbare Edelsteine\.[^bible-aaca5b34-cf49-4b6e-b50c-4918b2d87245]
+“ Das ist der wahre Schmuck\.
+Sie sollen sich nicht gegen die Natur die Ohren durchstechen lassen,
+um Ohrringe und Schmuck daran zu hängen;
+denn es ist nicht recht,
+der Natur gegen ihren Willen Gewalt anzutun\.
+Auch gibt es für die Ohren keinen besseren Schmuck,
+als die natürlichen Klänge wahrer Unterweisung aufzunehmen\.
+Wenn das Wort die Augen erhebt und die Ohren für das Verständnis göttlicher Dinge geöffnet werden,
+bereiten sie den Menschen darauf vor,
+Heiliges zu hören und Heiliges zu sehen\.
+So zeigen sie in Wahrheit die wahre Schönheit des Wortes:
+„was noch kein Auge gesehen und kein Ohr gehört hat[^bible-9d7a702a-07e3-4a95-ac9d-5458c170aacc] “\.
 
 ## Bibelverweise
 

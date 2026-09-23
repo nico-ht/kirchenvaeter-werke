@@ -7,6 +7,18 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-eitelkeit-und-den-richtigen-weg-fuer-eltern-ihre-kinder-zu-erziehen#kapitel-51df9e85-097c-46c4-b912-08ddc88111a4).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:6b4d5c53a28dcca1121122e7d9bf0c7c7a4b4b11ed7a4e8cbeb838057812722e`
-
-Es gibt noch ein weiteres Tor, das sich von den anderen unterscheidet, da es sich durch den ganzen Körper erstreckt\. Wir nennen es den Tastsinn\. Es scheint geschlossen zu sein, doch ist es gleichsam offen und lässt alles, was kommt, in sich eindringen\. Lassen wir nicht zu, dass es mit weichen Gewändern oder Körpern in Berührung kommt\. Lassen wir es streng halten\. Wir erziehen einen Athleten, lasst uns unsere Gedanken darauf konzentrieren\. So soll er keine weichen Lager oder Gewänder benutzen\. Dies seien unsere Anordnungen\.
+Es gibt noch ein weiteres Tor,
+das sich von den anderen unterscheidet,
+da es sich durch den ganzen Körper erstreckt\.
+Wir nennen es den Tastsinn\.
+Es scheint geschlossen zu sein,
+doch ist es gleichsam offen und lässt alles,
+was kommt,
+in sich eindringen\.
+Lassen wir nicht zu,
+dass es mit weichen Gewändern oder Körpern in Berührung kommt\.
+Lassen wir es streng halten\.
+Wir erziehen einen Athleten,
+lasst uns unsere Gedanken darauf konzentrieren\.
+So soll er keine weichen Lager oder Gewänder benutzen\.
+Dies seien unsere Anordnungen\.

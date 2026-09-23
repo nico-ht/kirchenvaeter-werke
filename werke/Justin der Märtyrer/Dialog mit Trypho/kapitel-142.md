@@ -7,6 +7,39 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-9a0b0535-0961-4d34-c1a8-08de6c821f66).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:8c928392cec21e59626e922c5d454f3e3d4737c94b5c7b5889534450a8c9688d`
-
-Nach einer kurzen Pause fuhr Trypho fort: „Du siehst, dass wir die Diskussion über diese Dinge nicht aus irgendeiner bewussten Absicht heraus begonnen haben, aber ich bekenne, dass mir unsere Zusammenkunft große Freude bereitet hat, und ich denke, dass auch sie ähnlich gesinnt sind\! Wir haben mehr gehört, als wir erwartet hatten, und weit mehr, als überhaupt zu erwarten war\! Wenn wir uns häufiger treffen und unser Studium der Schriften fortsetzen könnten, würden wir ganz gewiss noch viel mehr davon profitieren\. Aber da du im Begriff bist, die Stadt zu verlassen, und jeden Tag in See stechen willst, zögere nicht, uns als Freunde in Erinnerung zu behalten, wenn du abreist\!“ „Was mich betrifft“, antwortete ich, „hätte ich diese Diskussion gerne jeden Tag fortgesetzt, wenn ich hiergeblieben wäre\! Aber da ich erwarte, mit Gottes Willen und Hilfe sofort an Bord zu gehen, flehe ich euch an: Setzt all eure Kraft in diesen gewaltigen Kampf um euer eigenes Heil und nehmt den Christus des allmächtigen Gottes an, anstatt euren Lehrern den Vorzug zu geben\!“ Danach verließen sie mich und wünschten mir eine sichere Reise und Bewahrung vor jedem Unheil\. Und ich wiederum betete für sie und sagte: „Ich kann euch absolut keinen größeren Segen wünschen als diesen, meine Herren: Dass ihr erkennt, dass jedem Menschen auf diesem Weg Weisheit gegeben wird, und dass auch ihr eines Tages völlig so wie wir glaubt, dass Jesus der Christus Gottes ist\!“
+Nach einer kurzen Pause fuhr Trypho fort:
+„Du siehst,
+dass wir die Diskussion über diese Dinge nicht aus irgendeiner bewussten Absicht heraus begonnen haben,
+aber ich bekenne,
+dass mir unsere Zusammenkunft große Freude bereitet hat,
+und ich denke,
+dass auch sie ähnlich gesinnt sind\!
+Wir haben mehr gehört,
+als wir erwartet hatten,
+und weit mehr,
+als überhaupt zu erwarten war\!
+Wenn wir uns häufiger treffen und unser Studium der Schriften fortsetzen könnten,
+würden wir ganz gewiss noch viel mehr davon profitieren\.
+Aber da du im Begriff bist,
+die Stadt zu verlassen,
+und jeden Tag in See stechen willst,
+zögere nicht,
+uns als Freunde in Erinnerung zu behalten,
+wenn du abreist\!“
+„Was mich betrifft“,
+antwortete ich,
+„hätte ich diese Diskussion gerne jeden Tag fortgesetzt,
+wenn ich hiergeblieben wäre\!
+Aber da ich erwarte,
+mit Gottes Willen und Hilfe sofort an Bord zu gehen,
+flehe ich euch an:
+Setzt all eure Kraft in diesen gewaltigen Kampf um euer eigenes Heil und nehmt den Christus des allmächtigen Gottes an,
+anstatt euren Lehrern den Vorzug zu geben\!“
+Danach verließen sie mich und wünschten mir eine sichere Reise und Bewahrung vor jedem Unheil\.
+Und ich wiederum betete für sie und sagte:
+„Ich kann euch absolut keinen größeren Segen wünschen als diesen,
+meine Herren:
+Dass ihr erkennt,
+dass jedem Menschen auf diesem Weg Weisheit gegeben wird,
+und dass auch ihr eines Tages völlig so wie wir glaubt,
+dass Jesus der Christus Gottes ist\!“

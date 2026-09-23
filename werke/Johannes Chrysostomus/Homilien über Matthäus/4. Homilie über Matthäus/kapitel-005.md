@@ -7,6 +7,109 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/4-homilie-ueber-matthaeus#kapitel-e10a7f4c-6d07-49c5-5a24-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b48975bcb8ecaaa4429ff8ebb1939f4a1f609ca9e4741ccb9986fec18617e7a0`
-
-Aus diesen Gründen sagt die Jungfrau ihm nichts; der Engel aber tritt hinzu, als die Zeit es verlangt\. Warum also, sagt man, tat er das nicht auch bei der Jungfrau: ihr erst nach der Empfängnis die Botschaft zu bringen? Damit sie nicht in Verwirrung und große Unruhe geriete\. Denn es war wahrscheinlich, dass sie, wenn sie die klare Wahrheit nicht kannte, etwas Schreckliches gegen sich selbst beschlossen hätte: zum Strick und zum Schwert zu greifen, weil sie die Schande nicht ertrug\. Denn bewundernswert war die Jungfrau; und Lukas zeigt ihre Tugend, wenn er sagt, dass sie, als sie den Gruß hörte, sich nicht sogleich öffnete und das Gesagte auch nicht einfach annahm, sondern in Unruhe geriet und überlegte, was das für ein Gruß sei\. Eine Frau von solcher Genauigkeit aber wäre durch die Niedergeschlagenheit außer sich geraten, wenn sie die Schande bedachte und nicht erwartete, irgendjemanden von ihren Hörern, was immer sie auch sagte, davon überzeugen zu können, dass das Geschehene kein Ehebruch war\. Damit dies also nicht geschieht, kam der Engel vor der Empfängnis\. Denn jener Schoß, den der Schöpfer aller betreten hatte, musste frei von Unruhe sein; und die Seele, die gewürdigt worden war, Dienerin solcher Geheimnisse zu werden, musste von jedem Aufruhr befreit sein\. Aus diesen Gründen spricht er zur Jungfrau vor der Empfängnis, zu Josef aber zur Zeit der Wehen\. Das haben viele der Einfacheren nicht mitbedacht und sagten, es liege ein Widerspruch vor, weil Lukas sage, die Botschaft sei Maria gebracht worden, Matthäus aber, sie sei Josef gebracht worden; sie wussten nicht, dass beides geschehen ist\. Das muss man in der ganzen Geschichte beachten; denn so werden wir viele vermeintliche Widersprüche lösen\. Der Engel kommt also, während Josef in Unruhe ist\. Denn sowohl aus den genannten Gründen als auch damit seine Weisheit sichtbar werde, schiebt er sein Erscheinen hinaus\. Als die Sache aber zum Ende kommen sollte, tritt er endlich hinzu\. Als Josef dies aber bei sich überlegte, erscheint ihm im Traum ein Engel\. Siehst du die Milde des Mannes? Nicht nur, dass er sie nicht bestrafte, sondern dass er auch niemandem etwas sagte, nicht einmal ihr selbst, die unter Verdacht stand; vielmehr überlegte er alles bei sich und bemühte sich, sogar vor der Jungfrau selbst den Grund zu verbergen\. Denn es heißt nicht, er habe sie hinauswerfen wollen, sondern entlassen; so sanft und milde war der Mann\. Als er dies aber bei sich erwog, erscheint der Engel im Traum\. Und warum nicht sichtbar, wie bei den Hirten, bei Zacharias und bei der Jungfrau? Der Mann war sehr gläubig und brauchte diese Erscheinung nicht\. Die Jungfrau nämlich brauchte, weil ihr etwas sehr Großes verkündet wurde, größer noch als Zacharias, und zwar vor der Sache selbst, auch eine außergewöhnliche Erscheinung; ebenso die Hirten, weil sie einfacher eingestellt waren\. Dieser aber empfängt die Offenbarung leicht: nach der Geburt, als seine Seele bereits von dem schlimmen Verdacht ergriffen war und bereitstand, zu guten Hoffnungen überzugehen, wenn sich nur einer zeigte, der sie dorthin führte\. Darum wird ihm nach dem Verdacht die Botschaft gebracht, damit gerade dies ihm zum Beweis für das Gesagte werde\. Denn dass er es niemandem gesagt hatte, nun aber das, was er im Innern überlegt hatte, vom Engel ausgesprochen hörte, gab ihm ein unbestreitbares Zeichen, dass der Sprecher von Gott gekommen war; denn nur Gott kommt es zu, die Geheimnisse des Herzens zu kennen\. Sieh also, wie vieles geschieht: Die philosophische Haltung des Mannes wird sichtbar, das zur rechten Zeit Gesagte hilft ihm zum Glauben, und die Rede wird unverdächtig, weil sie zeigt, dass er genau das durchgemacht hatte, was ein Mann wahrscheinlich durchmachen musste\.
+Aus diesen Gründen sagt die Jungfrau ihm nichts;
+der Engel aber tritt hinzu,
+als die Zeit es verlangt\.
+Warum also,
+sagt man,
+tat er das nicht auch bei der Jungfrau:
+ihr erst nach der Empfängnis die Botschaft zu bringen?
+Damit sie nicht in Verwirrung und große Unruhe geriete\.
+Denn es war wahrscheinlich,
+dass sie,
+wenn sie die klare Wahrheit nicht kannte,
+etwas Schreckliches gegen sich selbst beschlossen hätte:
+zum Strick und zum Schwert zu greifen,
+weil sie die Schande nicht ertrug\.
+Denn bewundernswert war die Jungfrau;
+und Lukas zeigt ihre Tugend,
+wenn er sagt,
+dass sie,
+als sie den Gruß hörte,
+sich nicht sogleich öffnete und das Gesagte auch nicht einfach annahm,
+sondern in Unruhe geriet und überlegte,
+was das für ein Gruß sei\.
+Eine Frau von solcher Genauigkeit aber wäre durch die Niedergeschlagenheit außer sich geraten,
+wenn sie die Schande bedachte und nicht erwartete,
+irgendjemanden von ihren Hörern,
+was immer sie auch sagte,
+davon überzeugen zu können,
+dass das Geschehene kein Ehebruch war\.
+Damit dies also nicht geschieht,
+kam der Engel vor der Empfängnis\.
+Denn jener Schoß,
+den der Schöpfer aller betreten hatte,
+musste frei von Unruhe sein;
+und die Seele,
+die gewürdigt worden war,
+Dienerin solcher Geheimnisse zu werden,
+musste von jedem Aufruhr befreit sein\.
+Aus diesen Gründen spricht er zur Jungfrau vor der Empfängnis,
+zu Josef aber zur Zeit der Wehen\.
+Das haben viele der Einfacheren nicht mitbedacht und sagten,
+es liege ein Widerspruch vor,
+weil Lukas sage,
+die Botschaft sei Maria gebracht worden,
+Matthäus aber,
+sie sei Josef gebracht worden;
+sie wussten nicht,
+dass beides geschehen ist\.
+Das muss man in der ganzen Geschichte beachten;
+denn so werden wir viele vermeintliche Widersprüche lösen\.
+Der Engel kommt also,
+während Josef in Unruhe ist\.
+Denn sowohl aus den genannten Gründen als auch damit seine Weisheit sichtbar werde,
+schiebt er sein Erscheinen hinaus\.
+Als die Sache aber zum Ende kommen sollte,
+tritt er endlich hinzu\.
+Als Josef dies aber bei sich überlegte,
+erscheint ihm im Traum ein Engel\.
+Siehst du die Milde des Mannes?
+Nicht nur,
+dass er sie nicht bestrafte,
+sondern dass er auch niemandem etwas sagte,
+nicht einmal ihr selbst,
+die unter Verdacht stand;
+vielmehr überlegte er alles bei sich und bemühte sich,
+sogar vor der Jungfrau selbst den Grund zu verbergen\.
+Denn es heißt nicht,
+er habe sie hinauswerfen wollen,
+sondern entlassen;
+so sanft und milde war der Mann\.
+Als er dies aber bei sich erwog,
+erscheint der Engel im Traum\.
+Und warum nicht sichtbar,
+wie bei den Hirten,
+bei Zacharias und bei der Jungfrau?
+Der Mann war sehr gläubig und brauchte diese Erscheinung nicht\.
+Die Jungfrau nämlich brauchte,
+weil ihr etwas sehr Großes verkündet wurde,
+größer noch als Zacharias,
+und zwar vor der Sache selbst,
+auch eine außergewöhnliche Erscheinung;
+ebenso die Hirten,
+weil sie einfacher eingestellt waren\.
+Dieser aber empfängt die Offenbarung leicht:
+nach der Geburt,
+als seine Seele bereits von dem schlimmen Verdacht ergriffen war und bereitstand,
+zu guten Hoffnungen überzugehen,
+wenn sich nur einer zeigte,
+der sie dorthin führte\.
+Darum wird ihm nach dem Verdacht die Botschaft gebracht,
+damit gerade dies ihm zum Beweis für das Gesagte werde\.
+Denn dass er es niemandem gesagt hatte,
+nun aber das,
+was er im Innern überlegt hatte,
+vom Engel ausgesprochen hörte,
+gab ihm ein unbestreitbares Zeichen,
+dass der Sprecher von Gott gekommen war;
+denn nur Gott kommt es zu,
+die Geheimnisse des Herzens zu kennen\.
+Sieh also,
+wie vieles geschieht:
+Die philosophische Haltung des Mannes wird sichtbar,
+das zur rechten Zeit Gesagte hilft ihm zum Glauben,
+und die Rede wird unverdächtig,
+weil sie zeigt,
+dass er genau das durchgemacht hatte,
+was ein Mann wahrscheinlich durchmachen musste\.

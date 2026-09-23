@@ -7,6 +7,9 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-4#kapitel-313742a4-94ae-4310-8a22-08de0a72e412).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:23a51362fe155f7f1ec1fe806e99fcd0a49cedfef047b212641cfa0dacaa1968`
-
-Im dritten Jahr dieses Kaisers kam Alexander, der Bischof von Rom, nach vollendetem zehnten Jahr zugleich an das Ende seines Bischofsamts und seines Lebens\. Ihm folgte Sixtus nach\. Zur selben Zeit starb in Alexandria Primus im zwölften Jahr seines Bischofsamts, und Justus übernahm das Bischofsamt\.
+Im dritten Jahr dieses Kaisers kam Alexander,
+der Bischof von Rom,
+nach vollendetem zehnten Jahr zugleich an das Ende seines Bischofsamts und seines Lebens\.
+Ihm folgte Sixtus nach\.
+Zur selben Zeit starb in Alexandria Primus im zwölften Jahr seines Bischofsamts,
+und Justus übernahm das Bischofsamt\.

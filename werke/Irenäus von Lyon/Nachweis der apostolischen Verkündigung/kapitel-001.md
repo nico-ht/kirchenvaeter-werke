@@ -7,6 +7,45 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-8d95faa1-e705-430b-3212-08debf1e7015).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:01135f0bb8956038d42891c50c58e161a65b43aba563791228ad359737c8e1bf`
-
-Da ich, mein geliebter Marcianus, dein Verlangen kenne, in Gottesfurcht zu wandeln, die allein den Menschen zum ewigen Leben führt, freue ich mich mit dir und bete, dass du deinen Glauben unversehrt bewahrst und so Gott gefällst, der dich geschaffen hat\. Wäre es uns doch möglich sein, immer beisammen zu sein, einander zu helfen und die Mühe unseres irdischen Lebens durch beständiges gemeinsames Gespräch über das, was nützt, zu erleichtern\. Da wir aber in dieser gegenwärtigen Zeit leiblich voneinander getrennt sind, wollen wir nach unserem Vermögen doch nicht versäumen, ein wenig schriftlich mit dir zu sprechen und die Verkündigung der Wahrheit zur Bestärkung deines Glaubens kurz darzulegen\. Wir senden dir gleichsam ein Handbuch des Wesentlichen, damit du durch Weniges zu Vielem gelangst, in kurzer Zeit alle Glieder des Leibes der Wahrheit kennenlernst und in gedrängter Form den Nachweis der Dinge Gottes empfängst\. So wird es deiner eigenen Rettung Frucht bringen; du wirst alle beschämen, die Falschheit einschärfen, und jedem, der sie verstehen will, mit aller Zuversicht unsere gesunde und reine Lehre vorlegen\. Denn einer ist der Weg, der für alle, die sehen, nach oben führt, erleuchtet von himmlischem Licht; vielfach aber, dunkel und entgegengesetzt sind die Wege derer, die nicht sehen\. Dieser Weg führt zum Himmelreich und verbindet den Menschen mit Gott; jene Wege aber ziehen hinab zum Tod und trennen den Menschen von Gott\. Darum ist es für dich und für alle, denen an ihrer eigenen Rettung liegt, nötig, euren Lauf durch den Glauben unbeirrbar, fest und sicher zu machen, damit du nicht wankst, nicht durch materielle Begierden aufgehalten und festgehalten wirst und nicht vom Rechten abbiegst und umherirrst\.
+Da ich,
+mein geliebter Marcianus,
+dein Verlangen kenne,
+in Gottesfurcht zu wandeln,
+die allein den Menschen zum ewigen Leben führt,
+freue ich mich mit dir und bete,
+dass du deinen Glauben unversehrt bewahrst und so Gott gefällst,
+der dich geschaffen hat\.
+Wäre es uns doch möglich sein,
+immer beisammen zu sein,
+einander zu helfen und die Mühe unseres irdischen Lebens durch beständiges gemeinsames Gespräch über das,
+was nützt,
+zu erleichtern\.
+Da wir aber in dieser gegenwärtigen Zeit leiblich voneinander getrennt sind,
+wollen wir nach unserem Vermögen doch nicht versäumen,
+ein wenig schriftlich mit dir zu sprechen und die Verkündigung der Wahrheit zur Bestärkung deines Glaubens kurz darzulegen\.
+Wir senden dir gleichsam ein Handbuch des Wesentlichen,
+damit du durch Weniges zu Vielem gelangst,
+in kurzer Zeit alle Glieder des Leibes der Wahrheit kennenlernst und in gedrängter Form den Nachweis der Dinge Gottes empfängst\.
+So wird es deiner eigenen Rettung Frucht bringen;
+du wirst alle beschämen,
+die Falschheit einschärfen,
+und jedem,
+der sie verstehen will,
+mit aller Zuversicht unsere gesunde und reine Lehre vorlegen\.
+Denn einer ist der Weg,
+der für alle,
+die sehen,
+nach oben führt,
+erleuchtet von himmlischem Licht;
+vielfach aber,
+dunkel und entgegengesetzt sind die Wege derer,
+die nicht sehen\.
+Dieser Weg führt zum Himmelreich und verbindet den Menschen mit Gott;
+jene Wege aber ziehen hinab zum Tod und trennen den Menschen von Gott\.
+Darum ist es für dich und für alle,
+denen an ihrer eigenen Rettung liegt,
+nötig,
+euren Lauf durch den Glauben unbeirrbar,
+fest und sicher zu machen,
+damit du nicht wankst,
+nicht durch materielle Begierden aufgehalten und festgehalten wirst und nicht vom Rechten abbiegst und umherirrst\.

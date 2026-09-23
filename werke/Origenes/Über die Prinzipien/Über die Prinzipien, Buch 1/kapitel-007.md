@@ -7,47 +7,346 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/ueber-die-prinzipien-buch-1#kapitel-7340ef5e-5164-4f59-1b13-08dd65968b20).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:2cc9b5f6e43555a73d7d53ea76b2e39a2333bc585b4f06339e0a476ac4860f71`
+Die Themen,
+die im vorherigen Kapitel behandelt wurden,
+wurden in allgemeiner Sprache angesprochen\.
+Die Natur der rationalen Wesen wurde eher durch intelligente Schlussfolgerungen als durch strenge dogmatische Definitionen erörtert,
+mit Ausnahme des Abschnitts,
+in dem wir,
+nach bestem Wissen,
+die Personen des Vaters,
+des Sohnes und des Heiligen Geistes behandelt haben\.
+Nun gilt es zu klären,
+welche Angelegenheiten wir in den folgenden Seiten gemäß unserem dogmatischen Glauben,
+also im Einklang mit dem Glaubensbekenntnis der Kirche,
+behandeln sollten\.
 
-Die Themen, die im vorherigen Kapitel behandelt wurden, wurden in allgemeiner Sprache angesprochen\. Die Natur der rationalen Wesen wurde eher durch intelligente Schlussfolgerungen als durch strenge dogmatische Definitionen erörtert, mit Ausnahme des Abschnitts, in dem wir, nach bestem Wissen, die Personen des Vaters, des Sohnes und des Heiligen Geistes behandelt haben\. Nun gilt es zu klären, welche Angelegenheiten wir in den folgenden Seiten gemäß unserem dogmatischen Glauben, also im Einklang mit dem Glaubensbekenntnis der Kirche, behandeln sollten\.
+Alle Seelen und alle rationalen Naturen,
+ob heilig oder gottlos,
+wurden geformt oder geschaffen,
+und alle sind,
+ihrer eigenen Natur nach,
+körperlos\.
+Obwohl sie körperlos sind,
+wurden sie dennoch geschaffen,
+denn alle Dinge wurden von Gott durch Christus gemacht,
+wie Johannes in seinem Evangelium allgemein lehrt,
+indem er sagt:
+„Im Anfang war das Wort,
+und das Wort war bei Gott,
+und das Wort war Gott\.
+Dasselbe war im Anfang bei Gott\.
+Alle Dinge sind durch ihn gemacht,
+und ohne ihn ist nichts gemacht worden\.“[^bible-45ad968f-ac27-4161-87e7-18c97fb040e7]
 
-Alle Seelen und alle rationalen Naturen, ob heilig oder gottlos, wurden geformt oder geschaffen, und alle sind, ihrer eigenen Natur nach, körperlos\. Obwohl sie körperlos sind, wurden sie dennoch geschaffen, denn alle Dinge wurden von Gott durch Christus gemacht, wie Johannes in seinem Evangelium allgemein lehrt, indem er sagt: „Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott\. Dasselbe war im Anfang bei Gott\. Alle Dinge sind durch ihn gemacht, und ohne ihn ist nichts gemacht worden\.“[^bible-45ad968f-ac27-4161-87e7-18c97fb040e7]
+Der Apostel Paulus beschreibt zudem die geschaffenen Dinge nach Arten,
+Zahlen und Ordnungen und spricht,
+um zu zeigen,
+dass alle Dinge durch Christus gemacht wurden:
+„Denn in ihm sind alle Dinge geschaffen,
+die im Himmel und die auf Erden sind,
+sichtbare und unsichtbare,
+ob Throne,
+Herrschaften,
+Fürstentümer oder Gewalten:
+alle Dinge sind durch ihn und für ihn geschaffen;
+und er ist vor allen Dingen,
+und in ihm bestehen alle Dinge\.“[^bible-a6d0b617-e7c4-4c14-8af2-3b4a5245df07]
 
-Der Apostel Paulus beschreibt zudem die geschaffenen Dinge nach Arten, Zahlen und Ordnungen und spricht, um zu zeigen, dass alle Dinge durch Christus gemacht wurden: „Denn in ihm sind alle Dinge geschaffen, die im Himmel und die auf Erden sind, sichtbare und unsichtbare, ob Throne, Herrschaften, Fürstentümer oder Gewalten: alle Dinge sind durch ihn und für ihn geschaffen; und er ist vor allen Dingen, und in ihm bestehen alle Dinge\.“[^bible-a6d0b617-e7c4-4c14-8af2-3b4a5245df07]
+Er erklärt somit eindeutig,
+dass in Christus und durch Christus alle Dinge gemacht und geschaffen wurden,
+seien es sichtbare Dinge,
+die körperlich sind,
+oder unsichtbare Dinge,
+die ich als nichts anderes als körperlose und geistliche Mächte betrachte\.
+Von den Dingen,
+die er allgemein als körperlich oder körperlos bezeichnet hat,
+scheint er mir in den folgenden Worten die verschiedenen Arten aufzulisten,
+nämlich Throne,
+Herrschaften,
+Fürstentümer und Gewalten\.
 
-Er erklärt somit eindeutig, dass in Christus und durch Christus alle Dinge gemacht und geschaffen wurden, seien es sichtbare Dinge, die körperlich sind, oder unsichtbare Dinge, die ich als nichts anderes als körperlose und geistliche Mächte betrachte\. Von den Dingen, die er allgemein als körperlich oder körperlos bezeichnet hat, scheint er mir in den folgenden Worten die verschiedenen Arten aufzulisten, nämlich Throne, Herrschaften, Fürstentümer und Gewalten\.
+Diese Angelegenheiten wurden bereits von uns erwähnt,
+da wir uns in geordneter Weise der Untersuchung der Sonne,
+des Mondes und der Sterne durch logische Schlussfolgerungen nähern wollen\.
+Wir möchten klären,
+ob sie auch zu den Fürstentümern gezählt werden sollten,
+weil gesagt wird,
+dass sie in ᾿Αρχάς geschaffen wurden,
+also zur Regierung von Tag und Nacht;
+oder ob sie lediglich die Regierung von Tag und Nacht ausüben,
+indem sie deren Beleuchtung übernehmen,
+und in Wirklichkeit nicht die Oberhäupter dieser Ordnung der Fürstentümer sind\.
 
-Diese Angelegenheiten wurden bereits von uns erwähnt, da wir uns in geordneter Weise der Untersuchung der Sonne, des Mondes und der Sterne durch logische Schlussfolgerungen nähern wollen\. Wir möchten klären, ob sie auch zu den Fürstentümern gezählt werden sollten, weil gesagt wird, dass sie in ᾿Αρχάς geschaffen wurden, also zur Regierung von Tag und Nacht; oder ob sie lediglich die Regierung von Tag und Nacht ausüben, indem sie deren Beleuchtung übernehmen, und in Wirklichkeit nicht die Oberhäupter dieser Ordnung der Fürstentümer sind\.
+Wenn nun gesagt wird,
+dass alle Dinge durch Ihn gemacht wurden und dass in Ihm alle Dinge geschaffen sind,
+sowohl die Dinge im Himmel als auch die Dinge auf Erden,
+so besteht kein Zweifel,
+dass auch die Dinge,
+die im Firmament sind,
+das als Himmel bezeichnet wird und in dem die Himmelskörper platziert sind,
+zu den himmlischen Dingen zählen\.
 
-Wenn nun gesagt wird, dass alle Dinge durch Ihn gemacht wurden und dass in Ihm alle Dinge geschaffen sind, sowohl die Dinge im Himmel als auch die Dinge auf Erden, so besteht kein Zweifel, dass auch die Dinge, die im Firmament sind, das als Himmel bezeichnet wird und in dem die Himmelskörper platziert sind, zu den himmlischen Dingen zählen\.
+Zweitens,
+da der Verlauf der Diskussion eindeutig gezeigt hat,
+dass alle Dinge gemacht oder geschaffen wurden und dass unter den geschaffenen Dingen nichts existiert,
+was nicht sowohl Gut als auch Böse annehmen könnte,
+was sollen wir dann von der Meinung halten,
+die einige unserer Freunde über Sonne,
+Mond und Sterne vertreten?
+Sie glauben,
+dass diese unveränderlich sind und nicht das Gegenteil dessen werden können,
+was sie sind\.
+Nicht wenige haben diese Ansicht sogar bezüglich der heiligen Engel vertreten,
+und auch einige Häretiker bezüglich der Seelen,
+die sie als geistliche Naturen bezeichnen\.
 
-Zweitens, da der Verlauf der Diskussion eindeutig gezeigt hat, dass alle Dinge gemacht oder geschaffen wurden und dass unter den geschaffenen Dingen nichts existiert, was nicht sowohl Gut als auch Böse annehmen könnte, was sollen wir dann von der Meinung halten, die einige unserer Freunde über Sonne, Mond und Sterne vertreten? Sie glauben, dass diese unveränderlich sind und nicht das Gegenteil dessen werden können, was sie sind\. Nicht wenige haben diese Ansicht sogar bezüglich der heiligen Engel vertreten, und auch einige Häretiker bezüglich der Seelen, die sie als geistliche Naturen bezeichnen\.
+Zunächst wollen wir untersuchen,
+was die Vernunft über Sonne,
+Mond und Sterne herausfinden kann – ob die von einigen vertretene Meinung ihrer Unveränderlichkeit korrekt ist – und lassen wir die Aussagen der heiligen Schrift,
+soweit möglich,
+zuerst zu Wort kommen\.
+Denn Hiob scheint zu behaupten,
+dass nicht nur die Sterne der Sünde unterworfen sein können,
+sondern dass sie tatsächlich auch nicht rein von deren Ansteckung sind\.
+Seine Worte lauten:
+„Die Sterne sind auch nicht rein in Deinen Augen\.“[^bible-d7981a46-785c-4f9a-9d5c-b1dd54f6769e]
 
-Zunächst wollen wir untersuchen, was die Vernunft über Sonne, Mond und Sterne herausfinden kann – ob die von einigen vertretene Meinung ihrer Unveränderlichkeit korrekt ist – und lassen wir die Aussagen der heiligen Schrift, soweit möglich, zuerst zu Wort kommen\. Denn Hiob scheint zu behaupten, dass nicht nur die Sterne der Sünde unterworfen sein können, sondern dass sie tatsächlich auch nicht rein von deren Ansteckung sind\. Seine Worte lauten: „Die Sterne sind auch nicht rein in Deinen Augen\.“[^bible-d7981a46-785c-4f9a-9d5c-b1dd54f6769e]
+Dies ist nicht im Sinne des Glanzes ihrer physischen Substanz zu verstehen,
+als ob man beispielsweise von einem Kleidungsstück sagen würde,
+dass es nicht rein ist;
+denn wäre dies die Bedeutung,
+würde die Beschuldigung eines Mangels an Reinheit im Glanz ihrer körperlichen Substanz eine schädliche Unterstellung gegen ihren Schöpfer implizieren\.
+Wenn sie durch ihre eigenen fleißigen Bemühungen weder einen Körper von größerer Helligkeit erlangen noch durch ihre Trägheit den,
+den sie haben,
+weniger rein machen können,
+wie sollten sie dann für ihre Unreinheit als Sterne getadelt werden,
+wenn sie dafür kein Lob erhalten?
 
-Dies ist nicht im Sinne des Glanzes ihrer physischen Substanz zu verstehen, als ob man beispielsweise von einem Kleidungsstück sagen würde, dass es nicht rein ist; denn wäre dies die Bedeutung, würde die Beschuldigung eines Mangels an Reinheit im Glanz ihrer körperlichen Substanz eine schädliche Unterstellung gegen ihren Schöpfer implizieren\. Wenn sie durch ihre eigenen fleißigen Bemühungen weder einen Körper von größerer Helligkeit erlangen noch durch ihre Trägheit den, den sie haben, weniger rein machen können, wie sollten sie dann für ihre Unreinheit als Sterne getadelt werden, wenn sie dafür kein Lob erhalten?
+Aber um ein klareres Verständnis dieser Angelegenheiten zu erlangen,
+sollten wir zunächst die Frage aufwerfen,
+ob es zulässig ist,
+anzunehmen,
+dass sie lebende und rationale Wesen sind\.
+Als Nächstes sollten wir klären,
+ob ihre Seelen gleichzeitig mit ihren Körpern entstanden sind oder ob sie ihnen vorauszugehen scheinen\.
+Zudem stellt sich die Frage,
+ob wir nach dem Ende der Welt verstehen sollen,
+dass sie von ihren Körpern befreit werden,
+und ob sie,
+wie wir aufhören zu leben,
+auch aufhören werden,
+die Welt zu erleuchten\.
 
-Aber um ein klareres Verständnis dieser Angelegenheiten zu erlangen, sollten wir zunächst die Frage aufwerfen, ob es zulässig ist, anzunehmen, dass sie lebende und rationale Wesen sind\. Als Nächstes sollten wir klären, ob ihre Seelen gleichzeitig mit ihren Körpern entstanden sind oder ob sie ihnen vorauszugehen scheinen\. Zudem stellt sich die Frage, ob wir nach dem Ende der Welt verstehen sollen, dass sie von ihren Körpern befreit werden, und ob sie, wie wir aufhören zu leben, auch aufhören werden, die Welt zu erleuchten\.
+Obwohl diese Untersuchung etwas gewagt erscheinen mag,
+so gibt es doch keinen Widerspruch darin,
+das Thema im Einklang mit der Gnade des Heiligen Geistes zu erforschen,
+da wir durch den Wunsch,
+die Wahrheit so weit wie möglich zu erkennen,
+angeregt werden\.
 
-Obwohl diese Untersuchung etwas gewagt erscheinen mag, so gibt es doch keinen Widerspruch darin, das Thema im Einklang mit der Gnade des Heiligen Geistes zu erforschen, da wir durch den Wunsch, die Wahrheit so weit wie möglich zu erkennen, angeregt werden\.
+Wir sind der Meinung,
+dass sie als lebende Wesen bezeichnet werden können,
+weil gesagt wird,
+dass sie Gebote von Gott empfangen,
+was gewöhnlich nur bei vernünftigen Wesen der Fall ist\.
+„Ich habe allen Sternen ein Gebot gegeben,“
+sagt der Herr\.
+Was sind nun diese Gebote?
+Nämlich,
+dass jeder Stern in seiner Ordnung und Bahn der Welt den Glanz verleiht,
+der ihm anvertraut wurde\.
+Denn die sogenannten „Planeten“ bewegen sich in einer bestimmten Art von Bahnen,
+während die als ἀπλανεῖς bezeichneten Sterne anders sind\.
 
-Wir sind der Meinung, dass sie als lebende Wesen bezeichnet werden können, weil gesagt wird, dass sie Gebote von Gott empfangen, was gewöhnlich nur bei vernünftigen Wesen der Fall ist\. „Ich habe allen Sternen ein Gebot gegeben,“ sagt der Herr\. Was sind nun diese Gebote? Nämlich, dass jeder Stern in seiner Ordnung und Bahn der Welt den Glanz verleiht, der ihm anvertraut wurde\. Denn die sogenannten „Planeten“ bewegen sich in einer bestimmten Art von Bahnen, während die als ἀπλανεῖς bezeichneten Sterne anders sind\.
+Es folgt offensichtlich daraus,
+dass die Bewegung eines solchen Körpers ohne eine Seele nicht stattfinden kann und dass lebende Dinge niemals ohne Bewegung sein können\.
+Da die Sterne mit einer solchen Ordnung und Regelmäßigkeit bewegen,
+dass ihre Bewegungen niemals Anzeichen von Störung zeigen,
+wäre es nicht der Gipfel der Torheit zu behaupten,
+dass eine so ordentliche Einhaltung von Methode und Plan von irrationalen Wesen durchgeführt oder erreicht werden könnte?
+In den Schriften Jeremias wird die Mond tatsächlich als die Königin des Himmels bezeichnet\.
+Wenn die Sterne jedoch lebende und vernünftige Wesen sind,
+wird es unter ihnen zweifellos sowohl Fortschritt als auch Rückschritt geben\.
+Denn die Worte Hiobs:
+„Die Sterne sind nicht rein in Seinen Augen,“[^bible-86adda64-60c4-451a-b69e-16abee9528e6]
+scheinen mir eine solche Vorstellung zu vermitteln\.
 
-Es folgt offensichtlich daraus, dass die Bewegung eines solchen Körpers ohne eine Seele nicht stattfinden kann und dass lebende Dinge niemals ohne Bewegung sein können\. Da die Sterne mit einer solchen Ordnung und Regelmäßigkeit bewegen, dass ihre Bewegungen niemals Anzeichen von Störung zeigen, wäre es nicht der Gipfel der Torheit zu behaupten, dass eine so ordentliche Einhaltung von Methode und Plan von irrationalen Wesen durchgeführt oder erreicht werden könnte? In den Schriften Jeremias wird die Mond tatsächlich als die Königin des Himmels bezeichnet\. Wenn die Sterne jedoch lebende und vernünftige Wesen sind, wird es unter ihnen zweifellos sowohl Fortschritt als auch Rückschritt geben\. Denn die Worte Hiobs: „Die Sterne sind nicht rein in Seinen Augen,“[^bible-86adda64-60c4-451a-b69e-16abee9528e6] scheinen mir eine solche Vorstellung zu vermitteln\.
+Und nun müssen wir klären,
+ob die Wesen,
+die wir im Verlauf der Diskussion als lebendig und vernünftig erkannt haben,
+mit einer Seele ausgestattet wurden,
+als ihre Körper zu der im Schrifttext erwähnten Zeit geschaffen wurden,
+als „Gott zwei große Lichter machte,
+das größere Licht,
+um den Tag zu regieren,
+und das kleinere Licht,
+um die Nacht zu regieren,
+und die Sterne auch“[^bible-3bfe8837-9acb-43c1-bda5-e01e08a058a1],
+oder ob ihr Geist nicht bei der Schöpfung ihrer Körper,
+sondern von außen,
+nachdem sie bereits erschaffen waren,
+in sie eingepflanzt wurde\.
+Ich persönlich vermute,
+dass der Geist von außen in sie eingepflanzt wurde;
+es wird jedoch lohnenswert sein,
+dies aus der Schrift zu beweisen\.
+Denn es scheint einfach,
+eine solche Behauptung auf spekulativen Grundlagen aufzustellen,
+während es schwieriger ist,
+sie durch die Zeugenaussage der Schrift zu untermauern\.
 
-Und nun müssen wir klären, ob die Wesen, die wir im Verlauf der Diskussion als lebendig und vernünftig erkannt haben, mit einer Seele ausgestattet wurden, als ihre Körper zu der im Schrifttext erwähnten Zeit geschaffen wurden, als „Gott zwei große Lichter machte, das größere Licht, um den Tag zu regieren, und das kleinere Licht, um die Nacht zu regieren, und die Sterne auch“[^bible-3bfe8837-9acb-43c1-bda5-e01e08a058a1], oder ob ihr Geist nicht bei der Schöpfung ihrer Körper, sondern von außen, nachdem sie bereits erschaffen waren, in sie eingepflanzt wurde\. Ich persönlich vermute, dass der Geist von außen in sie eingepflanzt wurde; es wird jedoch lohnenswert sein, dies aus der Schrift zu beweisen\. Denn es scheint einfach, eine solche Behauptung auf spekulativen Grundlagen aufzustellen, während es schwieriger ist, sie durch die Zeugenaussage der Schrift zu untermauern\.
+Es kann spekulativ wie folgt begründet werden:
+Wenn die Seele eines Menschen,
+die sicherlich minderwertig ist,
+solange sie die Seele eines Menschen bleibt,
+nicht zusammen mit seinem Körper geformt wurde,
+sondern nachweislich von außen eingepflanzt wurde,
+dann muss dies umso mehr für jene lebenden Wesen gelten,
+die als himmlisch bezeichnet werden\.
+Was den Menschen betrifft,
+wie könnte die Seele von Jakob,
+der seinen Bruder im Mutterleib überlistete,
+zusammen mit seinem Körper geformt worden sein?
+Oder wie könnte seine Seele oder deren Bilder zusammen mit seinem Körper geformt worden sein,
+der,
+während er im Mutterleib seiner Mutter lag,
+mit dem Heiligen Geist erfüllt wurde?
+Ich beziehe mich auf Johannes,
+der im Mutterleib seiner Mutter hüpfte und sich freute,
+weil die Stimme der Begrüßung Mariens zu den Ohren seiner Mutter Elisabeth gelangte\.
+Wie könnte seine Seele und deren Bilder zusammen mit seinem Körper geformt worden sein,
+der,
+bevor er im Mutterleib geschaffen wurde,
+als von Gott bekannt gilt und von Ihm vor seiner Geburt geheiligt wurde?
 
-Es kann spekulativ wie folgt begründet werden: Wenn die Seele eines Menschen, die sicherlich minderwertig ist, solange sie die Seele eines Menschen bleibt, nicht zusammen mit seinem Körper geformt wurde, sondern nachweislich von außen eingepflanzt wurde, dann muss dies umso mehr für jene lebenden Wesen gelten, die als himmlisch bezeichnet werden\. Was den Menschen betrifft, wie könnte die Seele von Jakob, der seinen Bruder im Mutterleib überlistete, zusammen mit seinem Körper geformt worden sein? Oder wie könnte seine Seele oder deren Bilder zusammen mit seinem Körper geformt worden sein, der, während er im Mutterleib seiner Mutter lag, mit dem Heiligen Geist erfüllt wurde? Ich beziehe mich auf Johannes, der im Mutterleib seiner Mutter hüpfte und sich freute, weil die Stimme der Begrüßung Mariens zu den Ohren seiner Mutter Elisabeth gelangte\. Wie könnte seine Seele und deren Bilder zusammen mit seinem Körper geformt worden sein, der, bevor er im Mutterleib geschaffen wurde, als von Gott bekannt gilt und von Ihm vor seiner Geburt geheiligt wurde?
+Einige mögen vielleicht denken,
+dass Gott Einzelne mit Seinem Heiligen Geist erfüllt und ihnen Heiligung gewährt,
+nicht aufgrund von Gerechtigkeit und nach ihren Verdiensten,
+sondern unverdient\.
+Und wie sollen wir dieser Aussage entkommen:
+„Ist Ungerechtigkeit bei Gott?
+Gott bewahre\!“[^bible-c261721f-24bf-4d39-bcba-77af43011995]
+oder dieser:
+„Gibt es Ansehen der Person bei Gott?“
+Denn so lautet die Verteidigung derjenigen,
+die behaupten,
+Seelen entstünden zusammen mit den Körpern\.
+Soweit wir also aus einem Vergleich mit dem Zustand des Menschen eine Meinung bilden können,
+denke ich,
+dass es folgt,
+dass wir das Gleiche auch für himmlische Wesen annehmen müssen,
+was uns sowohl die Vernunft als auch die Autorität der Schrift in Bezug auf die Menschen zeigen\.
 
-Einige mögen vielleicht denken, dass Gott Einzelne mit Seinem Heiligen Geist erfüllt und ihnen Heiligung gewährt, nicht aufgrund von Gerechtigkeit und nach ihren Verdiensten, sondern unverdient\. Und wie sollen wir dieser Aussage entkommen: „Ist Ungerechtigkeit bei Gott? Gott bewahre\!“[^bible-c261721f-24bf-4d39-bcba-77af43011995] oder dieser: „Gibt es Ansehen der Person bei Gott?“ Denn so lautet die Verteidigung derjenigen, die behaupten, Seelen entstünden zusammen mit den Körpern\. Soweit wir also aus einem Vergleich mit dem Zustand des Menschen eine Meinung bilden können, denke ich, dass es folgt, dass wir das Gleiche auch für himmlische Wesen annehmen müssen, was uns sowohl die Vernunft als auch die Autorität der Schrift in Bezug auf die Menschen zeigen\.
+Doch lasst uns nun untersuchen,
+ob wir in der heiligen Schrift Hinweise finden,
+die auf diese himmlischen Wesen zutreffen\.
+Der Apostel Paulus sagt:
+„Die Kreatur wurde der Vergänglichkeit unterworfen,
+nicht freiwillig,
+sondern wegen dessen,
+der sie in Hoffnung unterworfen hat,
+weil auch die Kreatur selbst von der Knechtschaft der Vergänglichkeit in die herrliche Freiheit der Kinder Gottes befreit werden soll\.“[^bible-b18cc640-7a7d-40a5-a787-f676764f1d98]
+Auf welche Vergänglichkeit,
+frage ich,
+wurde die Kreatur unterworfen,
+oder auf welche Kreatur wird hier Bezug genommen?
+Und wie kann gesagt werden,
+dass dies „nicht freiwillig“ geschah,
+oder „in Hoffnung auf was?“
+Und auf welche Weise soll die Kreatur selbst von der Knechtschaft der Vergänglichkeit befreit werden?
+An anderer Stelle sagt derselbe Apostel:
+„Denn die Erwartung der Kreatur wartet auf die Offenbarung der Söhne Gottes\.“[^bible-51ec2b37-ae38-4946-b37f-e3892135c23e]
+Und wieder in einem anderen Abschnitt:
+„Und nicht nur wir,
+sondern auch die Schöpfung selbst seufzt zusammen und hat bis jetzt Schmerzen\.“[^bible-18a8b0a5-e4b2-4f93-8114-9b2fe33e2cfb]
+Daher müssen wir untersuchen,
+was diese Seufzer und Schmerzen sind\.
 
-Doch lasst uns nun untersuchen, ob wir in der heiligen Schrift Hinweise finden, die auf diese himmlischen Wesen zutreffen\. Der Apostel Paulus sagt: „Die Kreatur wurde der Vergänglichkeit unterworfen, nicht freiwillig, sondern wegen dessen, der sie in Hoffnung unterworfen hat, weil auch die Kreatur selbst von der Knechtschaft der Vergänglichkeit in die herrliche Freiheit der Kinder Gottes befreit werden soll\.“[^bible-b18cc640-7a7d-40a5-a787-f676764f1d98] Auf welche Vergänglichkeit, frage ich, wurde die Kreatur unterworfen, oder auf welche Kreatur wird hier Bezug genommen? Und wie kann gesagt werden, dass dies „nicht freiwillig“ geschah, oder „in Hoffnung auf was?“ Und auf welche Weise soll die Kreatur selbst von der Knechtschaft der Vergänglichkeit befreit werden? An anderer Stelle sagt derselbe Apostel: „Denn die Erwartung der Kreatur wartet auf die Offenbarung der Söhne Gottes\.“[^bible-51ec2b37-ae38-4946-b37f-e3892135c23e] Und wieder in einem anderen Abschnitt: „Und nicht nur wir, sondern auch die Schöpfung selbst seufzt zusammen und hat bis jetzt Schmerzen\.“[^bible-18a8b0a5-e4b2-4f93-8114-9b2fe33e2cfb] Daher müssen wir untersuchen, was diese Seufzer und Schmerzen sind\.
+Lasst uns zunächst klären,
+was die Vergänglichkeit ist,
+der der Kreatur unterworfen ist\.
+Ich vermute,
+dass es nichts anderes als der Körper ist;
+denn obwohl der Körper der Sterne ätherisch ist,
+bleibt er dennoch materiell\.
+Daher scheint auch Salomo die gesamte körperliche Natur als eine Art Last zu charakterisieren,
+die die Kraft der Seele schwächt,
+wenn er sagt:
+„Eitelkeit der Eitelkeiten,
+spricht der Prediger;
+alles ist Eitelkeit\.
+Ich habe geschaut und alle Werke gesehen,
+die unter der Sonne getan werden;
+und siehe,
+alles ist Eitelkeit\.“[^bible-aa5ce2e0-d058-4d2a-a342-ad726fb8feca]
+Dieser Eitelkeit ist die Kreatur also unterworfen,
+insbesondere jene Kreatur,
+die gewiss die größte in dieser Welt ist und auch ein herausragendes Prinzip der Arbeit innehat,
+das heißt,
+die Sonne,
+der Mond und die Sterne,
+die der Eitelkeit unterworfen sind,
+weil sie mit Körpern bekleidet und dazu bestimmt sind,
+dem Menschengeschlecht Licht zu spenden\.
+„Und diese Kreatur“,
+bemerkt er,
+„wurde nicht freiwillig der Eitelkeit unterworfen\.“
+Denn sie hat keinen freiwilligen Dienst an der Eitelkeit übernommen,
+sondern weil es der Wille dessen war,
+der sie unterworfen hat,
+und wegen des Versprechens des Unterwerfers an diejenigen,
+die in diesen unfreiwilligen Gehorsam gebracht wurden,
+dass sie,
+wenn der Dienst ihres großen Werkes vollbracht ist,
+von dieser Knechtschaft der Vergänglichkeit und Eitelkeit befreit werden sollen,
+wenn die Zeit der herrlichen Erlösung der Kinder Gottes gekommen ist\.
+Und die gesamte Schöpfung,
+die diese Hoffnung empfängt und auf die Erfüllung dieses Versprechens wartet,
+seufzt in der Zwischenzeit,
+da sie eine Zuneigung zu denjenigen hat,
+denen sie dient,
+zusammen mit ihnen und leidet geduldig,
+in der Hoffnung auf die Erfüllung der Verheißungen\.
 
-Lasst uns zunächst klären, was die Vergänglichkeit ist, der der Kreatur unterworfen ist\. Ich vermute, dass es nichts anderes als der Körper ist; denn obwohl der Körper der Sterne ätherisch ist, bleibt er dennoch materiell\. Daher scheint auch Salomo die gesamte körperliche Natur als eine Art Last zu charakterisieren, die die Kraft der Seele schwächt, wenn er sagt: „Eitelkeit der Eitelkeiten, spricht der Prediger; alles ist Eitelkeit\. Ich habe geschaut und alle Werke gesehen, die unter der Sonne getan werden; und siehe, alles ist Eitelkeit\.“[^bible-aa5ce2e0-d058-4d2a-a342-ad726fb8feca] Dieser Eitelkeit ist die Kreatur also unterworfen, insbesondere jene Kreatur, die gewiss die größte in dieser Welt ist und auch ein herausragendes Prinzip der Arbeit innehat, das heißt, die Sonne, der Mond und die Sterne, die der Eitelkeit unterworfen sind, weil sie mit Körpern bekleidet und dazu bestimmt sind, dem Menschengeschlecht Licht zu spenden\. „Und diese Kreatur“, bemerkt er, „wurde nicht freiwillig der Eitelkeit unterworfen\.“ Denn sie hat keinen freiwilligen Dienst an der Eitelkeit übernommen, sondern weil es der Wille dessen war, der sie unterworfen hat, und wegen des Versprechens des Unterwerfers an diejenigen, die in diesen unfreiwilligen Gehorsam gebracht wurden, dass sie, wenn der Dienst ihres großen Werkes vollbracht ist, von dieser Knechtschaft der Vergänglichkeit und Eitelkeit befreit werden sollen, wenn die Zeit der herrlichen Erlösung der Kinder Gottes gekommen ist\. Und die gesamte Schöpfung, die diese Hoffnung empfängt und auf die Erfüllung dieses Versprechens wartet, seufzt in der Zwischenzeit, da sie eine Zuneigung zu denjenigen hat, denen sie dient, zusammen mit ihnen und leidet geduldig, in der Hoffnung auf die Erfüllung der Verheißungen\.
+Sieh auch,
+ob die folgenden Worte von Paulus auf jene anwendbar sind,
+die,
+obwohl nicht freiwillig,
+doch gemäß dem Willen dessen,
+der sie unterworfen hat,
+und in Hoffnung auf die Verheißungen,
+der Eitelkeit unterworfen wurden,
+wenn er sagt:
+„Denn ich wünsche,
+aufgelöst zu werden und bei Christus zu sein,
+was viel besser ist\.“[^bible-7a20ac9b-6306-4ea1-be0f-96dae5ee1027]
+Denn ich denke,
+dass die Sonne in ähnlicher Weise sagen könnte:
+„Ich möchte aufgelöst werden“ oder „zu Christus zurückzukehren,
+was viel besser ist\.“
+Paulus fügt in der Tat hinzu:
+„Dennoch ist es nötiger,
+im Fleisch zu bleiben für euch\.“
+Während die Sonne sagen könnte:
+„Im Licht und in diesem himmlischen Körper zu bleiben,
+ist wichtiger,
+wegen der Offenbarung der Söhne Gottes\.“
+Die gleichen Ansichten sollten auch bezüglich des Mondes und der Sterne geglaubt und geäußert werden\.
 
-Sieh auch, ob die folgenden Worte von Paulus auf jene anwendbar sind, die, obwohl nicht freiwillig, doch gemäß dem Willen dessen, der sie unterworfen hat, und in Hoffnung auf die Verheißungen, der Eitelkeit unterworfen wurden, wenn er sagt: „Denn ich wünsche, aufgelöst zu werden und bei Christus zu sein, was viel besser ist\.“[^bible-7a20ac9b-6306-4ea1-be0f-96dae5ee1027] Denn ich denke, dass die Sonne in ähnlicher Weise sagen könnte: „Ich möchte aufgelöst werden“ oder „zu Christus zurückzukehren, was viel besser ist\.“ Paulus fügt in der Tat hinzu: „Dennoch ist es nötiger, im Fleisch zu bleiben für euch\.“ Während die Sonne sagen könnte: „Im Licht und in diesem himmlischen Körper zu bleiben, ist wichtiger, wegen der Offenbarung der Söhne Gottes\.“ Die gleichen Ansichten sollten auch bezüglich des Mondes und der Sterne geglaubt und geäußert werden\.
-
-Lasst uns nun betrachten, was die Freiheit der Kreatur ist oder das Ende ihrer Knechtschaft\. Wenn Christus das Reich an Gott, den Vater, übergeben hat, dann werden auch die lebendigen Wesen, nachdem sie zuvor zum Reich Christi gemacht worden sind, zusammen mit dem gesamten Reich dem Herrschaftsbereich des Vaters übergeben\. So wird Gott, wenn Er alles in allem ist, auch in ihnen sein, da sie ein Teil von allem sind, so wie Er in allen Dingen ist\.
+Lasst uns nun betrachten,
+was die Freiheit der Kreatur ist oder das Ende ihrer Knechtschaft\.
+Wenn Christus das Reich an Gott,
+den Vater,
+übergeben hat,
+dann werden auch die lebendigen Wesen,
+nachdem sie zuvor zum Reich Christi gemacht worden sind,
+zusammen mit dem gesamten Reich dem Herrschaftsbereich des Vaters übergeben\.
+So wird Gott,
+wenn Er alles in allem ist,
+auch in ihnen sein,
+da sie ein Teil von allem sind,
+so wie Er in allen Dingen ist\.
 
 ## Bibelverweise
 

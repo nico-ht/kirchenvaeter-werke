@@ -7,6 +7,54 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-1#kapitel-7b152a9c-e18d-4216-09f1-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:1bf2643b2b83f1ad88db059547c4c8fe2e11e1b119576264e92425fd1f5f7dfd`
-
-Mit einer gewissen Beredsamkeit scheint er tatsächlich für diejenigen einzutreten, die durch ihren Tod für die Wahrheit des Christentums Zeugnis ablegen\. Er schreibt: „Ich behaupte auch nicht, dass ein Mensch, der sich einer guten Lehre angeschlossen hat und dem deshalb Gefahr von Menschen droht, von ihr abfallen, seinen Abfall vortäuschen oder seine Überzeugungen offen verleugnen sollte\.“ Auch verurteilt er diejenigen, die christliche Überzeugungen vertreten, aber entweder so tun, als täten sie es nicht, oder sie verleugnen\. Er sagt: „Wer eine bestimmte Überzeugung vertritt, darf nicht so tun, als hätte er sie widerrufen, und sie auch nicht öffentlich verleugnen\.“ Hier muss Celsus jedoch des Selbstwiderspruchs überführt werden\. Aus seinen anderen Schriften geht nämlich hervor, dass er Epikureer war\. Hier aber meint er, das Christentum wirksamer angreifen zu können, wenn er sich nicht zu den Ansichten Epikurs bekennt\. Deshalb tut er so, als gäbe es im Menschen etwas, das besser sei als der irdische Teil seiner Natur und mit Gott verwandt sei\. Er sagt: „Diejenigen, deren Seele, also dieses Element, gesund ist, suchen stets nach der ihnen verwandten Natur, womit Gott gemeint ist\. Immer möchten sie etwas über ihn hören und sich das Gehörte ins Gedächtnis rufen\.“ Man beachte seine Unaufrichtigkeit\! Kurz zuvor hatte er noch erklärt: „Wer sich einer guten Lehre angeschlossen hat, darf sie nicht verleugnen oder so tun, als hätte er es getan, und sie auch nicht offen von sich weisen, selbst wenn ihm deshalb Gefahr von Menschen droht\.“ Nun aber verstrickt er sich in alle möglichen Widersprüche\. Denn er wusste: Wenn er sich offen als Epikureer bekennen würde, fände seine Anklage gegen diejenigen keinen Glauben, die in irgendeiner Form die Lehre von der Vorsehung in ihre Erklärung einführen und einen Gott über die Welt setzen\. Wir haben gehört, dass es zwei Männer namens Celsus gab und beide Epikureer waren\. Der frühere lebte zur Zeit Neros, dieser aber zur Zeit Hadrians und noch später\.
+Mit einer gewissen Beredsamkeit scheint er tatsächlich für diejenigen einzutreten,
+die durch ihren Tod für die Wahrheit des Christentums Zeugnis ablegen\.
+Er schreibt:
+„Ich behaupte auch nicht,
+dass ein Mensch,
+der sich einer guten Lehre angeschlossen hat und dem deshalb Gefahr von Menschen droht,
+von ihr abfallen,
+seinen Abfall vortäuschen oder seine Überzeugungen offen verleugnen sollte\.“
+Auch verurteilt er diejenigen,
+die christliche Überzeugungen vertreten,
+aber entweder so tun,
+als täten sie es nicht,
+oder sie verleugnen\.
+Er sagt:
+„Wer eine bestimmte Überzeugung vertritt,
+darf nicht so tun,
+als hätte er sie widerrufen,
+und sie auch nicht öffentlich verleugnen\.“
+Hier muss Celsus jedoch des Selbstwiderspruchs überführt werden\.
+Aus seinen anderen Schriften geht nämlich hervor,
+dass er Epikureer war\.
+Hier aber meint er,
+das Christentum wirksamer angreifen zu können,
+wenn er sich nicht zu den Ansichten Epikurs bekennt\.
+Deshalb tut er so,
+als gäbe es im Menschen etwas,
+das besser sei als der irdische Teil seiner Natur und mit Gott verwandt sei\.
+Er sagt:
+„Diejenigen,
+deren Seele,
+also dieses Element,
+gesund ist,
+suchen stets nach der ihnen verwandten Natur,
+womit Gott gemeint ist\.
+Immer möchten sie etwas über ihn hören und sich das Gehörte ins Gedächtnis rufen\.“
+Man beachte seine Unaufrichtigkeit\!
+Kurz zuvor hatte er noch erklärt:
+„Wer sich einer guten Lehre angeschlossen hat,
+darf sie nicht verleugnen oder so tun,
+als hätte er es getan,
+und sie auch nicht offen von sich weisen,
+selbst wenn ihm deshalb Gefahr von Menschen droht\.“
+Nun aber verstrickt er sich in alle möglichen Widersprüche\.
+Denn er wusste:
+Wenn er sich offen als Epikureer bekennen würde,
+fände seine Anklage gegen diejenigen keinen Glauben,
+die in irgendeiner Form die Lehre von der Vorsehung in ihre Erklärung einführen und einen Gott über die Welt setzen\.
+Wir haben gehört,
+dass es zwei Männer namens Celsus gab und beide Epikureer waren\.
+Der frühere lebte zur Zeit Neros,
+dieser aber zur Zeit Hadrians und noch später\.

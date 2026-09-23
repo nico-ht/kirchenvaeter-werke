@@ -7,6 +7,78 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-1#kapitel-b4a6772b-9151-4c3e-4883-08ded87107d6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3e8b3972458a2130f2daefcbc0c293e0b8615689ebed9d8f17e51343ff9b34f4`
-
-Da erschraken die Hebräer vor dieser außergewöhnlichen und unerwarteten Gefahr\. Zur Verteidigung waren sie nicht gut gerüstet, weil es ihnen an Schutzwaffen und Waffen fehlte, denn sie waren nicht zum Krieg ausgezogen, sondern um eine Kolonie zu gründen; entkommen konnten sie ebenfalls nicht, denn hinter ihnen lag das Meer, vor ihnen stand der Feind, und zu beiden Seiten erstreckte sich eine weite, weglose Wüste\. So schmähten sie Mose und begannen, bestürzt über das Ausmaß der Übel, die ihnen drohten, wie es in solchen Nöten sehr gewöhnlich ist, ihre Führer anzuklagen, und sagten: „Weil es in Ägypten keine Gräber gab, in denen man uns nach unserem Tod hätte bestatten können, hast du uns hierher geführt, um uns hier zu töten und zu begraben? Oder ist nicht selbst Sklaverei ein leichteres Übel als der Tod? Du hast die Menge mit der Hoffnung auf Freiheit gelockt und sie dadurch in eine Gefahr gebracht, die noch schwerer wiegt als Sklaverei, nämlich in die Gefahr, das Leben zu verlieren\. Kanntest du nicht unsere Arglosigkeit und die Bitterkeit und grausame Wut der Ägypter? Siehst du nicht, wie groß die Übel sind, die uns umringen und aus denen wir nicht entkommen können? Was sollen wir tun? Sollen wir, unbewaffnet, gegen vollständig gerüstete Männer kämpfen? Oder sollen wir fliehen, jetzt, da wir wie von Netzen eingeschlossen sind, die unsere erbarmungslosen Feinde rings um uns ausgeworfen haben, eingeschlossen von weglosen Wüsten und unpassierbaren Meeren? Oder, selbst wenn das Meer befahrbar wäre: Woher sollten wir Schiffe nehmen, um es zu überqueren?“ Als Mose diese Klagen hörte, verzieh er seinem Volk, gedachte aber der Weissagungen Gottes\. Zugleich teilte und verteilte er seinen Sinn und seine Rede so, dass er mit dem einen unsichtbar bei Gott war, damit Gott ihn aus sonst unentwirrbaren Nöten befreie, mit der anderen aber die zu ihm Schreienden ermutigte und tröstete, indem er sagte: „Werdet nicht mutlos und verzweifelt nicht\. Gott rettet nicht auf dieselbe Weise wie der Mensch\. Warum vertraut ihr nur solchen Mitteln zur Rettung, die wahrscheinlich und naheliegend erscheinen? Wenn Gott als Helfer kommt, braucht er keine äußeren Vorbereitungen\. Es ist seine besondere Eigenart, mitten in unentwirrbaren Verlegenheiten einen Weg zu finden\. Was jedem geschaffenen Wesen unmöglich ist, ist ihm in der Höhe möglich und leicht\.“ So sprach er zu ihnen, während er noch stillstand\. Doch nach kurzer Zeit wurde er von Gott ergriffen, und erfüllt vom göttlichen Geist, unter der Wirkung jenes Geistes, der gewöhnlich in ihn einzog, weissagte er und sprach ihnen so Mut zu: „Dieses Heer, das ihr in so glänzender Waffenrüstung vor euch seht, werdet ihr nicht mehr als gegen euch aufgestellt sehen; denn es wird fallen, vollständig und gänzlich niedergeworfen, sodass auf der Erde kein Rest und keine Spur mehr davon zu sehen sein wird, und das nicht erst nach längerer Zeit, sondern noch in dieser kommenden Nacht\.“
+Da erschraken die Hebräer vor dieser außergewöhnlichen und unerwarteten Gefahr\.
+Zur Verteidigung waren sie nicht gut gerüstet,
+weil es ihnen an Schutzwaffen und Waffen fehlte,
+denn sie waren nicht zum Krieg ausgezogen,
+sondern um eine Kolonie zu gründen;
+entkommen konnten sie ebenfalls nicht,
+denn hinter ihnen lag das Meer,
+vor ihnen stand der Feind,
+und zu beiden Seiten erstreckte sich eine weite,
+weglose Wüste\.
+So schmähten sie Mose und begannen,
+bestürzt über das Ausmaß der Übel,
+die ihnen drohten,
+wie es in solchen Nöten sehr gewöhnlich ist,
+ihre Führer anzuklagen,
+und sagten:
+„Weil es in Ägypten keine Gräber gab,
+in denen man uns nach unserem Tod hätte bestatten können,
+hast du uns hierher geführt,
+um uns hier zu töten und zu begraben?
+Oder ist nicht selbst Sklaverei ein leichteres Übel als der Tod?
+Du hast die Menge mit der Hoffnung auf Freiheit gelockt und sie dadurch in eine Gefahr gebracht,
+die noch schwerer wiegt als Sklaverei,
+nämlich in die Gefahr,
+das Leben zu verlieren\.
+Kanntest du nicht unsere Arglosigkeit und die Bitterkeit und grausame Wut der Ägypter?
+Siehst du nicht,
+wie groß die Übel sind,
+die uns umringen und aus denen wir nicht entkommen können?
+Was sollen wir tun?
+Sollen wir,
+unbewaffnet,
+gegen vollständig gerüstete Männer kämpfen?
+Oder sollen wir fliehen,
+jetzt,
+da wir wie von Netzen eingeschlossen sind,
+die unsere erbarmungslosen Feinde rings um uns ausgeworfen haben,
+eingeschlossen von weglosen Wüsten und unpassierbaren Meeren?
+Oder,
+selbst wenn das Meer befahrbar wäre:
+Woher sollten wir Schiffe nehmen,
+um es zu überqueren?“
+Als Mose diese Klagen hörte,
+verzieh er seinem Volk,
+gedachte aber der Weissagungen Gottes\.
+Zugleich teilte und verteilte er seinen Sinn und seine Rede so,
+dass er mit dem einen unsichtbar bei Gott war,
+damit Gott ihn aus sonst unentwirrbaren Nöten befreie,
+mit der anderen aber die zu ihm Schreienden ermutigte und tröstete,
+indem er sagte:
+„Werdet nicht mutlos und verzweifelt nicht\.
+Gott rettet nicht auf dieselbe Weise wie der Mensch\.
+Warum vertraut ihr nur solchen Mitteln zur Rettung,
+die wahrscheinlich und naheliegend erscheinen?
+Wenn Gott als Helfer kommt,
+braucht er keine äußeren Vorbereitungen\.
+Es ist seine besondere Eigenart,
+mitten in unentwirrbaren Verlegenheiten einen Weg zu finden\.
+Was jedem geschaffenen Wesen unmöglich ist,
+ist ihm in der Höhe möglich und leicht\.“
+So sprach er zu ihnen,
+während er noch stillstand\.
+Doch nach kurzer Zeit wurde er von Gott ergriffen,
+und erfüllt vom göttlichen Geist,
+unter der Wirkung jenes Geistes,
+der gewöhnlich in ihn einzog,
+weissagte er und sprach ihnen so Mut zu:
+„Dieses Heer,
+das ihr in so glänzender Waffenrüstung vor euch seht,
+werdet ihr nicht mehr als gegen euch aufgestellt sehen;
+denn es wird fallen,
+vollständig und gänzlich niedergeworfen,
+sodass auf der Erde kein Rest und keine Spur mehr davon zu sehen sein wird,
+und das nicht erst nach längerer Zeit,
+sondern noch in dieser kommenden Nacht\.“

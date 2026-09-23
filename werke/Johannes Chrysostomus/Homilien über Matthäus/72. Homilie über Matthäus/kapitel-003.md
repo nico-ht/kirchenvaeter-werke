@@ -7,9 +7,161 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/72-homilie-ueber-matthaeus#kapitel-4e3d2b28-42fd-4768-5b88-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e83cad73c63b6af1b10662617a25fe67870f39a51d3b57499efc93c5db65799e`
-
-Die übrigen Dinge also ließ er bei der Anklage gegen jene stehen, weil sie klein und gering waren und die Jünger deswegen keiner weiteren Zurechtweisung bedurften\. Was aber die Ursache aller Übel war, die Herrschsucht und das Ansichreißen des Lehrstuhls, das führt er in die Mitte und berichtigt es mit großem Ernst; gerade deswegen ermahnt er auch sie mit besonderem Nachdruck\. Denn was sagt er? „Ihr aber sollt euch nicht Rabbi nennen lassen\.[^bible-9fdc23fa-444d-4b0d-b10a-fefc67f55e02]“ Dann nennt er auch den Grund: „Denn einer ist euer Lehrer; ihr alle aber seid Brüder\.[^bible-9fdc23fa-444d-4b0d-b10a-fefc67f55e02]“ Keiner hat mehr als der andere, sofern keiner sein Wissen aus sich selbst hat\. Deshalb sagt auch Paulus: „Was ist denn Paulus, was ist Apollos, was Kephas, wenn nicht Diener?[^bible-54d167b7-fff6-4e27-9df3-f4ee3c41c485]“ Er sagte nicht: Lehrer\. Und wieder: „Nennt niemanden Vater\.[^bible-871e3407-a007-450e-acb9-b02ae11938aa]“ Nicht damit sie überhaupt niemanden so nennen, sondern damit sie wissen, wen man im eigentlichen Sinn Vater nennen muss\. Denn wie der Lehrer nicht im eigentlichen und ursprünglichen Sinn Lehrer ist, so auch der Vater nicht im eigentlichen Sinn\. Jener nämlich ist die Ursache von allem, von den Lehrern ebenso wie von den Vätern\. Und wieder fügt er hinzu: „Lasst euch auch nicht Lehrmeister nennen; denn einer ist euer Lehrmeister, der Christus\.[^bible-4dddc639-d6e0-474b-b7de-9ec2a781cdfe]“ Und er sagte nicht: ich\. Wie er oben sagte: „Was meint ihr über den Christus?[^bible-b6a0912f-97f6-4b38-bc08-3738e64df4da]“, und nicht: über mich, so auch hier\. Ich würde an dieser Stelle aber gern fragen, was wohl die sagen würden, die das „Einer“ und „Einer“ häufig allein auf den Vater anwenden, um den Einziggezeugten außer Geltung zu setzen\. Ist der Vater Lehrmeister? Alle würden es sagen, und keiner würde widersprechen\. Und doch sagt er: „Einer ist euer Lehrmeister, der Christus\.[^bible-4dddc639-d6e0-474b-b7de-9ec2a781cdfe]“ Wie also Christus, wenn er der eine Lehrmeister genannt wird, den Vater nicht davon ausschließt, Lehrmeister zu sein, so schließt auch der Vater, wenn er der eine Lehrer genannt wird, den Sohn nicht davon aus, Lehrer zu sein\. Denn das „Einer“ und „Einer“ ist zur Unterscheidung von den Menschen und von der übrigen Schöpfung gesagt\. Nachdem er ihnen also diese schwere Krankheit untersagt und sie zurechtgebracht hat, lehrt er sie auch, wie sie ihr entkommen können: durch Demut\. Deshalb fügt er hinzu: „Der Größte unter euch soll euer Diener sein\. Denn wer sich selbst erhöht, wird erniedrigt werden; und wer sich selbst erniedrigt, wird erhöht werden\.[^bible-009156cd-ecbd-470e-870a-ed7c1a7b5a73]“ Nichts kommt nämlich demütiger Gesinnung gleich\. Darum erinnert er sie unablässig an diese Tugend: damals, als er die Kinder in die Mitte stellte, und auch jetzt; und als er auf dem Berg die Seligpreisungen begann, fing er damit an\. Auch hier reißt er sie von der Wurzel her aus, indem er sagt: „Wer sich selbst erniedrigt, wird erhöht werden\.[^bible-39300314-9884-428e-9ef4-bb597c5f670b]“ Siehst du, wie er den Hörer geradewegs zum Gegenteil hinführt? Er verbietet nämlich nicht nur, die ersten Plätze zu lieben, sondern gebietet auch, die letzten zu suchen\. „So wirst du nämlich erlangen, was du begehrst“, sagt er\. Darum muss, wer nach den ersten Plätzen strebt, den letzten Rang suchen\. „Denn wer sich selbst erniedrigt, wird erhöht werden\.[^bible-39300314-9884-428e-9ef4-bb597c5f670b]“ Und wo finden wir diese Demut? Wollt ihr, dass wir wieder in die Stadt der Tugend gehen, zu den Zelten der Heiligen, ich meine: zu den Bergen und den Tälern? Denn auch dort werden wir diese Höhe der Demut sehen\. Menschen, die zum Teil durch äußere Ehrenstellungen, zum Teil auch durch Reichtum angesehen waren, halten sich dort in jeder Hinsicht niedrig: in der Kleidung, in der Wohnung und in der Art, wie sie sich bedienen lassen\. Und wie in Buchstaben schreiben sie durch alles, was sie tun, die Demut sichtbar hin\. Alles aber, was den Hochmut anfacht, schöne Kleidung, prächtiges Bauen und viele Diener zu haben, Dinge, die oft sogar gegen den eigenen Willen in Hochmut stürzen, ist dort vollständig abgeschafft\. Sie selbst machen Feuer, sie selbst spalten Holz, sie selbst kochen, sie selbst dienen denen, die kommen\. Dort hört man keinen, der beschimpft, und sieht keinen, der beschimpft wird; keinen, dem befohlen wird, und keinen, der befiehlt\. Alle gehören zu denen, die dienen, und jeder wäscht den Gästen die Füße; darum gibt es einen großen Wettstreit\. Und er tut das, ohne zu prüfen, wer einer ist, ob Sklave oder Freier; vielmehr erfüllt er diesen Dienst an jedem\. Dort gilt keiner als groß oder klein\. Was also? Unordnung? Keineswegs, sondern die vollkommenste Ordnung\. Denn auch wenn jemand klein ist, sieht der Große nicht darauf, sondern ist überzeugt, selbst wiederum geringer zu sein als jener; und gerade dadurch wird er größer\. Ein Tisch ist für alle da, für die, denen gedient wird, und für die, die dienen; dieselben Speisen, dieselbe Kleidung, dieselben Wohnungen, dieselbe Lebensweise\. Groß ist dort, wer die niedrige Arbeit bereitwillig ergreift\. Es gibt dort kein „mein“ und „dein“; vielmehr ist dieses Wort verbannt, die Ursache unzähliger Kriege\.
+Die übrigen Dinge also ließ er bei der Anklage gegen jene stehen,
+weil sie klein und gering waren und die Jünger deswegen keiner weiteren Zurechtweisung bedurften\.
+Was aber die Ursache aller Übel war,
+die Herrschsucht und das Ansichreißen des Lehrstuhls,
+das führt er in die Mitte und berichtigt es mit großem Ernst;
+gerade deswegen ermahnt er auch sie mit besonderem Nachdruck\.
+Denn was sagt er?
+„Ihr aber sollt euch nicht Rabbi nennen lassen\.[^bible-9fdc23fa-444d-4b0d-b10a-fefc67f55e02]“ Dann nennt er auch den Grund:
+„Denn einer ist euer Lehrer;
+ihr alle aber seid Brüder\.[^bible-9fdc23fa-444d-4b0d-b10a-fefc67f55e02]“ Keiner hat mehr als der andere,
+sofern keiner sein Wissen aus sich selbst hat\.
+Deshalb sagt auch Paulus:
+„Was ist denn Paulus,
+was ist Apollos,
+was Kephas,
+wenn nicht Diener?[^bible-54d167b7-fff6-4e27-9df3-f4ee3c41c485]“ Er sagte nicht:
+Lehrer\.
+Und wieder:
+„Nennt niemanden Vater\.[^bible-871e3407-a007-450e-acb9-b02ae11938aa]“ Nicht damit sie überhaupt niemanden so nennen,
+sondern damit sie wissen,
+wen man im eigentlichen Sinn Vater nennen muss\.
+Denn wie der Lehrer nicht im eigentlichen und ursprünglichen Sinn Lehrer ist,
+so auch der Vater nicht im eigentlichen Sinn\.
+Jener nämlich ist die Ursache von allem,
+von den Lehrern ebenso wie von den Vätern\.
+Und wieder fügt er hinzu:
+„Lasst euch auch nicht Lehrmeister nennen;
+denn einer ist euer Lehrmeister,
+der Christus\.[^bible-4dddc639-d6e0-474b-b7de-9ec2a781cdfe]“ Und er sagte nicht:
+ich\.
+Wie er oben sagte:
+„Was meint ihr über den Christus?[^bible-b6a0912f-97f6-4b38-bc08-3738e64df4da]“,
+und nicht:
+über mich,
+so auch hier\.
+Ich würde an dieser Stelle aber gern fragen,
+was wohl die sagen würden,
+die das „Einer“ und „Einer“ häufig allein auf den Vater anwenden,
+um den Einziggezeugten außer Geltung zu setzen\.
+Ist der Vater Lehrmeister?
+Alle würden es sagen,
+und keiner würde widersprechen\.
+Und doch sagt er:
+„Einer ist euer Lehrmeister,
+der Christus\.[^bible-4dddc639-d6e0-474b-b7de-9ec2a781cdfe]“ Wie also Christus,
+wenn er der eine Lehrmeister genannt wird,
+den Vater nicht davon ausschließt,
+Lehrmeister zu sein,
+so schließt auch der Vater,
+wenn er der eine Lehrer genannt wird,
+den Sohn nicht davon aus,
+Lehrer zu sein\.
+Denn das „Einer“ und „Einer“ ist zur Unterscheidung von den Menschen und von der übrigen Schöpfung gesagt\.
+Nachdem er ihnen also diese schwere Krankheit untersagt und sie zurechtgebracht hat,
+lehrt er sie auch,
+wie sie ihr entkommen können:
+durch Demut\.
+Deshalb fügt er hinzu:
+„Der Größte unter euch soll euer Diener sein\.
+Denn wer sich selbst erhöht,
+wird erniedrigt werden;
+und wer sich selbst erniedrigt,
+wird erhöht werden\.[^bible-009156cd-ecbd-470e-870a-ed7c1a7b5a73]“ Nichts kommt nämlich demütiger Gesinnung gleich\.
+Darum erinnert er sie unablässig an diese Tugend:
+damals,
+als er die Kinder in die Mitte stellte,
+und auch jetzt;
+und als er auf dem Berg die Seligpreisungen begann,
+fing er damit an\.
+Auch hier reißt er sie von der Wurzel her aus,
+indem er sagt:
+„Wer sich selbst erniedrigt,
+wird erhöht werden\.[^bible-39300314-9884-428e-9ef4-bb597c5f670b]“ Siehst du,
+wie er den Hörer geradewegs zum Gegenteil hinführt?
+Er verbietet nämlich nicht nur,
+die ersten Plätze zu lieben,
+sondern gebietet auch,
+die letzten zu suchen\.
+„So wirst du nämlich erlangen,
+was du begehrst“,
+sagt er\.
+Darum muss,
+wer nach den ersten Plätzen strebt,
+den letzten Rang suchen\.
+„Denn wer sich selbst erniedrigt,
+wird erhöht werden\.[^bible-39300314-9884-428e-9ef4-bb597c5f670b]“ Und wo finden wir diese Demut?
+Wollt ihr,
+dass wir wieder in die Stadt der Tugend gehen,
+zu den Zelten der Heiligen,
+ich meine:
+zu den Bergen und den Tälern?
+Denn auch dort werden wir diese Höhe der Demut sehen\.
+Menschen,
+die zum Teil durch äußere Ehrenstellungen,
+zum Teil auch durch Reichtum angesehen waren,
+halten sich dort in jeder Hinsicht niedrig:
+in der Kleidung,
+in der Wohnung und in der Art,
+wie sie sich bedienen lassen\.
+Und wie in Buchstaben schreiben sie durch alles,
+was sie tun,
+die Demut sichtbar hin\.
+Alles aber,
+was den Hochmut anfacht,
+schöne Kleidung,
+prächtiges Bauen und viele Diener zu haben,
+Dinge,
+die oft sogar gegen den eigenen Willen in Hochmut stürzen,
+ist dort vollständig abgeschafft\.
+Sie selbst machen Feuer,
+sie selbst spalten Holz,
+sie selbst kochen,
+sie selbst dienen denen,
+die kommen\.
+Dort hört man keinen,
+der beschimpft,
+und sieht keinen,
+der beschimpft wird;
+keinen,
+dem befohlen wird,
+und keinen,
+der befiehlt\.
+Alle gehören zu denen,
+die dienen,
+und jeder wäscht den Gästen die Füße;
+darum gibt es einen großen Wettstreit\.
+Und er tut das,
+ohne zu prüfen,
+wer einer ist,
+ob Sklave oder Freier;
+vielmehr erfüllt er diesen Dienst an jedem\.
+Dort gilt keiner als groß oder klein\.
+Was also?
+Unordnung?
+Keineswegs,
+sondern die vollkommenste Ordnung\.
+Denn auch wenn jemand klein ist,
+sieht der Große nicht darauf,
+sondern ist überzeugt,
+selbst wiederum geringer zu sein als jener;
+und gerade dadurch wird er größer\.
+Ein Tisch ist für alle da,
+für die,
+denen gedient wird,
+und für die,
+die dienen;
+dieselben Speisen,
+dieselbe Kleidung,
+dieselben Wohnungen,
+dieselbe Lebensweise\.
+Groß ist dort,
+wer die niedrige Arbeit bereitwillig ergreift\.
+Es gibt dort kein „mein“ und „dein“;
+vielmehr ist dieses Wort verbannt,
+die Ursache unzähliger Kriege\.
 
 ## Bibelverweise
 

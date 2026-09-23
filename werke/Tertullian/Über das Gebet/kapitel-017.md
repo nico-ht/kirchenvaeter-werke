@@ -7,6 +7,33 @@ Autor: Tertullian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-das-gebet#kapitel-5f55d991-1d4c-4208-c3f6-08dd3744178d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:8714885e7f6d13a0e69dbcc27fd9e86c77131e276cdb30fcc1c2803ecc620001`
-
-Aber wir geben unsere Gebete Gott noch mehr, wenn wir mit Bescheidenheit und Demut beten, ohne unsere Hände zu hoch zu erheben, sondern maßvoll und angemessen\. Auch unser Antlitz sollte nicht übermütig erhoben sein\. Denn jener Zöllner, der mit Demut und Niedergeschlagenheit betete, nicht nur in seiner Bitte, sondern auch in seinem Gesicht, ging „gerechter“ von dannen als der schamlose Pharisäer\. Die Töne unserer Stimme sollten ebenfalls gedämpft sein; denn wenn wir wegen unseres Lärms gehört werden wollen, wie große Luftröhren bräuchten wir dann\! Gott hört nicht die Stimme, sondern das Herz, so wie Er es auch prüft\. Der Dämon des Pythia\-Orakels sagt: „Und ich verstehe den Stummen und höre deutlich den Sprachlosen\.“ Warten die Ohren Gottes auf Geräusche? Wie könnte dann das Gebet Jonahs aus der Tiefe des Walbauches bis zum Himmel gelangen, durch die Eingeweide eines so riesigen Tieres; aus den tiefsten Abgründen, durch eine so große Menge Wasser? Welchen Vorteil werden diejenigen, die zu laut beten, erlangen, außer dass sie ihre Nachbarn belästigen? Indem sie ihre Bitten hörbar machen, begehen sie nicht weniger einen Fehler, als wenn sie öffentlich beten würden\.
+Aber wir geben unsere Gebete Gott noch mehr,
+wenn wir mit Bescheidenheit und Demut beten,
+ohne unsere Hände zu hoch zu erheben,
+sondern maßvoll und angemessen\.
+Auch unser Antlitz sollte nicht übermütig erhoben sein\.
+Denn jener Zöllner,
+der mit Demut und Niedergeschlagenheit betete,
+nicht nur in seiner Bitte,
+sondern auch in seinem Gesicht,
+ging „gerechter“ von dannen als der schamlose Pharisäer\.
+Die Töne unserer Stimme sollten ebenfalls gedämpft sein;
+denn wenn wir wegen unseres Lärms gehört werden wollen,
+wie große Luftröhren bräuchten wir dann\!
+Gott hört nicht die Stimme,
+sondern das Herz,
+so wie Er es auch prüft\.
+Der Dämon des Pythia\-Orakels sagt:
+„Und ich verstehe den Stummen und höre deutlich den Sprachlosen\.“
+Warten die Ohren Gottes auf Geräusche?
+Wie könnte dann das Gebet Jonahs aus der Tiefe des Walbauches bis zum Himmel gelangen,
+durch die Eingeweide eines so riesigen Tieres;
+aus den tiefsten Abgründen,
+durch eine so große Menge Wasser?
+Welchen Vorteil werden diejenigen,
+die zu laut beten,
+erlangen,
+außer dass sie ihre Nachbarn belästigen?
+Indem sie ihre Bitten hörbar machen,
+begehen sie nicht weniger einen Fehler,
+als wenn sie öffentlich beten würden\.

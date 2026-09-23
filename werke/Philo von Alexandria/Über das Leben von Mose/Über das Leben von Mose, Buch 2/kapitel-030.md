@@ -7,8 +7,84 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-2#kapitel-11304b2b-b53b-4967-0870-08ded872ad01).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a241a6720d5a39cbe11793a6f5b5af5fb0d5f63312013c37b0e4336444048c89`
+Dementsprechend salbte er zuerst die drei zuvor genannten Teile der Körper der Priester mit dem unvermischten Blut eines der Opfertiere,
+nämlich desjenigen,
+das Widder der Vollendung genannt wurde\.
+Danach nahm er etwas von dem Blut auf dem Altar,
+dem Blut aller Opfertiere,
+das miteinander vermischt war,
+dazu auch etwas von der bereits erwähnten Salbe,
+welche die Salbenbereiter hergestellt hatten,
+mischte einen Teil des Öls mit dem vermischten Blut der verschiedenen Opfertiere und sprengte davon etwas auf die Priester und auf ihre Gewänder\.
+Damit sollten sie nicht nur Anteil an jener Reinheit haben,
+die äußerlich und unter freiem Himmel bestand,
+sondern auch an der Reinheit des innersten Heiligtums,
+da sie im Tempel Dienst tun sollten\.
+Und alles,
+was sich im Tempel befand,
+wurde mit Öl gesalbt\.
+Als sie dann außer den früheren Opfern noch weitere Opfer herbeigebracht hatten,
+teils indem die Priester für sich selbst opferten,
+teils indem die Ältesten für das ganze Volk opferten,
+trat Mose in die Stiftshütte ein und führte seinen Bruder an der Hand\.
+Es war der achte und letzte Tag des Festes,
+denn die sieben vorangehenden Tage waren der Einweihung der Hierophanten gewidmet gewesen;
+nun weihte er sowohl ihn als auch seine Neffen ein\.
+Nachdem er eingetreten war,
+unterwies er ihn,
+wie ein kundiger Lehrer einen unwissenden Schüler unterrichten würde,
+auf welche Weise der Hohepriester die Dienste zu verrichten habe,
+die im Inneren des Tempels vollzogen werden\.
+Als dann beide wieder herausgekommen waren und ihre Hände vor ihrem Haupt erhoben hatten,
+brachten sie mit reinem und heiligem Sinn solche Gebete dar,
+wie sie für das Volk angemessen und passend waren\.
+Und während sie noch beteten,
+geschah ein höchst wunderbares Zeichen;
 
-Dementsprechend salbte er zuerst die drei zuvor genannten Teile der Körper der Priester mit dem unvermischten Blut eines der Opfertiere, nämlich desjenigen, das Widder der Vollendung genannt wurde\. Danach nahm er etwas von dem Blut auf dem Altar, dem Blut aller Opfertiere, das miteinander vermischt war, dazu auch etwas von der bereits erwähnten Salbe, welche die Salbenbereiter hergestellt hatten, mischte einen Teil des Öls mit dem vermischten Blut der verschiedenen Opfertiere und sprengte davon etwas auf die Priester und auf ihre Gewänder\. Damit sollten sie nicht nur Anteil an jener Reinheit haben, die äußerlich und unter freiem Himmel bestand, sondern auch an der Reinheit des innersten Heiligtums, da sie im Tempel Dienst tun sollten\. Und alles, was sich im Tempel befand, wurde mit Öl gesalbt\. Als sie dann außer den früheren Opfern noch weitere Opfer herbeigebracht hatten, teils indem die Priester für sich selbst opferten, teils indem die Ältesten für das ganze Volk opferten, trat Mose in die Stiftshütte ein und führte seinen Bruder an der Hand\. Es war der achte und letzte Tag des Festes, denn die sieben vorangehenden Tage waren der Einweihung der Hierophanten gewidmet gewesen; nun weihte er sowohl ihn als auch seine Neffen ein\. Nachdem er eingetreten war, unterwies er ihn, wie ein kundiger Lehrer einen unwissenden Schüler unterrichten würde, auf welche Weise der Hohepriester die Dienste zu verrichten habe, die im Inneren des Tempels vollzogen werden\. Als dann beide wieder herausgekommen waren und ihre Hände vor ihrem Haupt erhoben hatten, brachten sie mit reinem und heiligem Sinn solche Gebete dar, wie sie für das Volk angemessen und passend waren\. Und während sie noch beteten, geschah ein höchst wunderbares Zeichen;
-
-denn aus dem innersten Heiligtum hervor, sei es, dass es ein Teil des reinsten denkbaren Äthers war, sei es, dass die Luft durch eine natürliche Wandlung der Elemente in Feuer aufgelöst worden war, leuchtete plötzlich ein Leib von Flamme auf, stürzte mit ungestümer Gewalt auf den Altar herab und verzehrte alles, was darauf lag\. Damit sollte, wie ich meine, auf das Klarste gezeigt werden, dass nichts von dem, was geschehen war, ohne die besondere Vorsehung Gottes geschehen war\. Denn es war natürlich, dass dem heiligen Ort eine besondere Ehre zugewiesen wurde, nicht nur durch jene Dinge, bei denen Menschen als Werkleute tätig sind, sondern auch durch das Feuer, die reinste aller Wesenheiten, damit das gewöhnliche Feuer, dessen Menschen sich bedienen, den Altar nicht berührte, vielleicht deshalb, weil es durch zehntausend Unreinheiten befleckt ist\. Denn es hat nicht nur mit vernunftlosen Tieren zu tun, wenn sie zur ungerechten Besänftigung unserer elenden Bäuche gebraten oder gekocht werden, sondern auch mit Menschen, die durch feindlichen Angriff getötet werden, nicht bloß in einer kleinen Gruppe von drei oder vier, sondern in zahlreichen Heeren\. Jedenfalls sind schon früher mit Feuer beladene Pfeile auf gewaltige Flotten gerichtet worden und haben sie verbrannt; und Feuer hat ganze Städte zerstört, die so lange in Flammen standen, bis sie bis auf ihre Fundamente verzehrt und zu Asche geworden waren, sodass nicht die geringste Spur ihrer früheren Lage übrigblieb\. Dies scheint mir der Grund gewesen zu sein, weshalb Gott das Feuer, das für gewöhnliche Zwecke verwendet wird, als befleckt von seinem heiligen Altar verwarf und stattdessen himmlische Flamme vom Himmel herabregnen ließ, um zwischen heiligen und profanen Dingen zu unterscheiden und das, was dem Menschen zukommt, von dem zu trennen, was Gott zukommt; denn es war angemessen, dass für die Opfer eine unvergänglichere Wesenheit des Feuers ausgesondert wurde als jene, die den gemeinsamen Zwecken des Lebens dient\.
+denn aus dem innersten Heiligtum hervor,
+sei es,
+dass es ein Teil des reinsten denkbaren Äthers war,
+sei es,
+dass die Luft durch eine natürliche Wandlung der Elemente in Feuer aufgelöst worden war,
+leuchtete plötzlich ein Leib von Flamme auf,
+stürzte mit ungestümer Gewalt auf den Altar herab und verzehrte alles,
+was darauf lag\.
+Damit sollte,
+wie ich meine,
+auf das Klarste gezeigt werden,
+dass nichts von dem,
+was geschehen war,
+ohne die besondere Vorsehung Gottes geschehen war\.
+Denn es war natürlich,
+dass dem heiligen Ort eine besondere Ehre zugewiesen wurde,
+nicht nur durch jene Dinge,
+bei denen Menschen als Werkleute tätig sind,
+sondern auch durch das Feuer,
+die reinste aller Wesenheiten,
+damit das gewöhnliche Feuer,
+dessen Menschen sich bedienen,
+den Altar nicht berührte,
+vielleicht deshalb,
+weil es durch zehntausend Unreinheiten befleckt ist\.
+Denn es hat nicht nur mit vernunftlosen Tieren zu tun,
+wenn sie zur ungerechten Besänftigung unserer elenden Bäuche gebraten oder gekocht werden,
+sondern auch mit Menschen,
+die durch feindlichen Angriff getötet werden,
+nicht bloß in einer kleinen Gruppe von drei oder vier,
+sondern in zahlreichen Heeren\.
+Jedenfalls sind schon früher mit Feuer beladene Pfeile auf gewaltige Flotten gerichtet worden und haben sie verbrannt;
+und Feuer hat ganze Städte zerstört,
+die so lange in Flammen standen,
+bis sie bis auf ihre Fundamente verzehrt und zu Asche geworden waren,
+sodass nicht die geringste Spur ihrer früheren Lage übrigblieb\.
+Dies scheint mir der Grund gewesen zu sein,
+weshalb Gott das Feuer,
+das für gewöhnliche Zwecke verwendet wird,
+als befleckt von seinem heiligen Altar verwarf und stattdessen himmlische Flamme vom Himmel herabregnen ließ,
+um zwischen heiligen und profanen Dingen zu unterscheiden und das,
+was dem Menschen zukommt,
+von dem zu trennen,
+was Gott zukommt;
+denn es war angemessen,
+dass für die Opfer eine unvergänglichere Wesenheit des Feuers ausgesondert wurde als jene,
+die den gemeinsamen Zwecken des Lebens dient\.

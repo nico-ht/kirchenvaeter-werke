@@ -7,6 +7,85 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-2#kapitel-72728290-542e-4eec-fecf-08ded489fbe0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d74a64e1add97c09ca289d8f1ab404d1b81bfa8ac927da3832c58dc26df3300f`
-
-Auch Archelaus selbst sah im Traum neun große, volle Ähren, die von Ochsen gefressen wurden\. Als er den Deuter befragte, antwortete dieser, durch die neun Ähren würden neun Jahre bezeichnet, in denen er große und umfassende Macht genießen werde\. Im neunten Jahr seiner Herrschaft aber werde für ihn ein Umschwung eintreten, denn die Ochsen, die gewöhnlich die Felder pflügen, zeigten einen mühevollen Wandel an, der die früheren Erfolge aufzehren und verschlingen werde\. Nachdem dies erfahren worden war, kam am fünften Tag von Caesar ein Mann, der ihn zum Gericht nach Rom führen sollte; dort wurde er für schuldig befunden und ins Exil verbannt und erfüllte seine Träume auch durch seinen Tod\. Die Herrschaft über das Gebiet, das Archelaus gehört hatte, wurde in den Namen einer Provinz umgewandelt; mit diesem Ausdruck bezeichneten die Römer die weit entfernten Landschaften, die sie durch Sieg wieder unter ihre Macht gebracht hatten\. Es blieben jedoch die Tetrarchen Philippus und Herodes, der letztere hieß früher, bevor sein Name geändert wurde, Antipas\. Denn Salome hatte bei ihrem Tod die Gebiete, die sie besessen hatte, und die Herrschaft über ihr Volk Livia, der Frau Caesars, hinterlassen\. Dies war die Lage Judäas, als Caesar starb und Tiberius, seinen Stiefsohn, den Sohn seiner Frau Livia aus ihrer früheren Ehe, als Nachfolger des Römischen Reiches zurückließ; zu dessen Ehren gründete Herodes Tiberias\. Auch Philippus meinte, eine Stadt müsse nach dem Namen seiner Mutter Livia benannt werden\. Und weil wir uns vorgenommen haben, die Ursachen aufzudecken, durch die das Volk der Juden vom Römischen Reich abfiel und sich selbst den Untergang beschleunigte, zeigt der Verlauf der Ereignisse, dass Pilatus, der Statthalter der Provinz, den Anfang ihres Verderbens gab: Er zögerte nämlich als Erster nicht, die Abbilder Caesars in die Tempel Jerusalems zu bringen\. Als das Volk, darüber aufgebracht, Widerstand leistete und er verfügte, dass die Abbilder aufgenommen werden müssten, trieb er sehr viele in den Tod\. Während dies in Judäa geschah, gelangte Agrippa, der Sohn des Aristobolus, nach Rom, weil er vor Tiberius gerichtlich gegen den Tetrarchen Herodes auftreten wollte\. Von Tiberius jedoch verachtet, verbrachte er seine Zeit in Rom, gewann sehr viele für seine Freundschaft und besonders Gaius, den Sohn des Germanicus\. Ob er ihn wegen des Namens seines Vaters liebte, der beim Volk beliebt war, oder weil Gaius durch seine Nähe zum Herrscherhaus als dem höchsten Amt am nächsten stehend galt, oder ob er ihn aus einer gewissen Vorahnung eifrig umwarb, jedenfalls erlaubten ihm Alter und Ansehen dies; so betete er eines Tages mit erhobenen Händen, Tiberius möge bald sterben und er möge Gaius als Kaiser sehen\. Als dies durch seinen Freigelassenen Eutychus offenbart worden war, wurde Agrippa auf Befehl des Tiberius in Fesseln gelegt und aufs Schwerste gefoltert; er wurde nicht freigelassen, bevor Tiberius sein Leben beendet hatte\. Dessen widerwärtige Zeiten und sein Rückzug in die Ausschweifungen der Insel Capri, diese unerträgliche Untätigkeit, trieben jedoch keinen Mann von tatkräftigem Wirken dazu, seinen Tod herbeizuführen, aus Rücksicht auf das noch junge Römische Reich, wie ich meine, oder aus Furcht vor der wilden Grausamkeit; denn gewöhnlich gilt: Je schmerzlicher die Strenge ist, desto sicherer bleibt sie\.
+Auch Archelaus selbst sah im Traum neun große,
+volle Ähren,
+die von Ochsen gefressen wurden\.
+Als er den Deuter befragte,
+antwortete dieser,
+durch die neun Ähren würden neun Jahre bezeichnet,
+in denen er große und umfassende Macht genießen werde\.
+Im neunten Jahr seiner Herrschaft aber werde für ihn ein Umschwung eintreten,
+denn die Ochsen,
+die gewöhnlich die Felder pflügen,
+zeigten einen mühevollen Wandel an,
+der die früheren Erfolge aufzehren und verschlingen werde\.
+Nachdem dies erfahren worden war,
+kam am fünften Tag von Caesar ein Mann,
+der ihn zum Gericht nach Rom führen sollte;
+dort wurde er für schuldig befunden und ins Exil verbannt und erfüllte seine Träume auch durch seinen Tod\.
+Die Herrschaft über das Gebiet,
+das Archelaus gehört hatte,
+wurde in den Namen einer Provinz umgewandelt;
+mit diesem Ausdruck bezeichneten die Römer die weit entfernten Landschaften,
+die sie durch Sieg wieder unter ihre Macht gebracht hatten\.
+Es blieben jedoch die Tetrarchen Philippus und Herodes,
+der letztere hieß früher,
+bevor sein Name geändert wurde,
+Antipas\.
+Denn Salome hatte bei ihrem Tod die Gebiete,
+die sie besessen hatte,
+und die Herrschaft über ihr Volk Livia,
+der Frau Caesars,
+hinterlassen\.
+Dies war die Lage Judäas,
+als Caesar starb und Tiberius,
+seinen Stiefsohn,
+den Sohn seiner Frau Livia aus ihrer früheren Ehe,
+als Nachfolger des Römischen Reiches zurückließ;
+zu dessen Ehren gründete Herodes Tiberias\.
+Auch Philippus meinte,
+eine Stadt müsse nach dem Namen seiner Mutter Livia benannt werden\.
+Und weil wir uns vorgenommen haben,
+die Ursachen aufzudecken,
+durch die das Volk der Juden vom Römischen Reich abfiel und sich selbst den Untergang beschleunigte,
+zeigt der Verlauf der Ereignisse,
+dass Pilatus,
+der Statthalter der Provinz,
+den Anfang ihres Verderbens gab:
+Er zögerte nämlich als Erster nicht,
+die Abbilder Caesars in die Tempel Jerusalems zu bringen\.
+Als das Volk,
+darüber aufgebracht,
+Widerstand leistete und er verfügte,
+dass die Abbilder aufgenommen werden müssten,
+trieb er sehr viele in den Tod\.
+Während dies in Judäa geschah,
+gelangte Agrippa,
+der Sohn des Aristobolus,
+nach Rom,
+weil er vor Tiberius gerichtlich gegen den Tetrarchen Herodes auftreten wollte\.
+Von Tiberius jedoch verachtet,
+verbrachte er seine Zeit in Rom,
+gewann sehr viele für seine Freundschaft und besonders Gaius,
+den Sohn des Germanicus\.
+Ob er ihn wegen des Namens seines Vaters liebte,
+der beim Volk beliebt war,
+oder weil Gaius durch seine Nähe zum Herrscherhaus als dem höchsten Amt am nächsten stehend galt,
+oder ob er ihn aus einer gewissen Vorahnung eifrig umwarb,
+jedenfalls erlaubten ihm Alter und Ansehen dies;
+so betete er eines Tages mit erhobenen Händen,
+Tiberius möge bald sterben und er möge Gaius als Kaiser sehen\.
+Als dies durch seinen Freigelassenen Eutychus offenbart worden war,
+wurde Agrippa auf Befehl des Tiberius in Fesseln gelegt und aufs Schwerste gefoltert;
+er wurde nicht freigelassen,
+bevor Tiberius sein Leben beendet hatte\.
+Dessen widerwärtige Zeiten und sein Rückzug in die Ausschweifungen der Insel Capri,
+diese unerträgliche Untätigkeit,
+trieben jedoch keinen Mann von tatkräftigem Wirken dazu,
+seinen Tod herbeizuführen,
+aus Rücksicht auf das noch junge Römische Reich,
+wie ich meine,
+oder aus Furcht vor der wilden Grausamkeit;
+denn gewöhnlich gilt:
+Je schmerzlicher die Strenge ist,
+desto sicherer bleibt sie\.

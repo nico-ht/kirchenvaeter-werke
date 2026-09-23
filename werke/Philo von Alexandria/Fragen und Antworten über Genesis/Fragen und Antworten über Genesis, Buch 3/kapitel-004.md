@@ -7,9 +7,15 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-3#kapitel-2722b81f-c984-4a9f-9c7c-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d7d8b560efff8e33f8b1f9cb6291d08c01bcd41bed5f73a1a4c82bb7c6b393b5`
-
-Warum sagt er: „Und er nahm all dies zu sich[^bible-7a92573e-7856-4486-b0f8-dd71065a93b1]“? Auch die Wendung „Und er nahm zu sich[^bible-7a92573e-7856-4486-b0f8-dd71065a93b1]“ hat er mit besonderer Angemessenheit hinzugefügt; denn es ist das Zeichen einer von der Liebe zu Gott ganz durchdrungenen Seele, alles Gute und Edle an Einsichten und Regungen, das sie empfängt, nicht sich selbst zuzuschreiben, sondern ganz Gott, dem Geber aller Wohltaten\.
+Warum sagt er:
+„Und er nahm all dies zu sich[^bible-7a92573e-7856-4486-b0f8-dd71065a93b1]“?
+Auch die Wendung „Und er nahm zu sich[^bible-7a92573e-7856-4486-b0f8-dd71065a93b1]“ hat er mit besonderer Angemessenheit hinzugefügt;
+denn es ist das Zeichen einer von der Liebe zu Gott ganz durchdrungenen Seele,
+alles Gute und Edle an Einsichten und Regungen,
+das sie empfängt,
+nicht sich selbst zuzuschreiben,
+sondern ganz Gott,
+dem Geber aller Wohltaten\.
 
 ## Bibelverweise
 

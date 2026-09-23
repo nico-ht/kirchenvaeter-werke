@@ -7,12 +7,114 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-ii#kapitel-cdeeccd7-827d-459e-034c-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:89653d2559299cef0ffb0aab008fdafffaca6fb72b25cee0376348428bf020e6`
+Wenn sie aber keiner dieser Folgerungen zustimmen wollen,
+weil wir sie,
+falls sie es täten,
+als unfähig erweisen würden,
+irgendeinen Grund für eine solche Hervorbringung ihres Pleromas anzugeben,
+bleibt ihnen zwangsläufig nur dies:
+Sie müssen bekennen,
+dass es über dem Pleroma noch ein anderes System gab,
+geistlicher und mächtiger,
+nach dessen Abbild ihr Pleroma gebildet wurde\.
+Denn wenn der Demiurg die vorhandene Gestalt der Schöpfung nicht aus sich selbst hervorgebracht,
+sondern sie nach der Form der oberen Dinge gemacht hat,
+von wem hat dann ihr Bythus,
+der ja bewirkt hat,
+dass das Pleroma eine solche Gestaltung besaß,
+die Gestalt jener Dinge empfangen,
+die vor ihm existierten?
+Denn notwendig gilt eines von beidem:
+Entweder wohnte die Absicht zu schaffen in jenem Gott,
+der die Welt machte,
+sodass er aus eigener Macht und aus sich selbst das Modell für ihre Bildung gewann;
+oder wenn man von diesem Wesen abweicht,
+dann wird man immer weiter fragen müssen,
+woher dem,
+der über ihm steht,
+die Gestaltung der geschaffenen Dinge kam,
+wie groß die Zahl der Hervorbringungen war und was die Substanz des Modells selbst gewesen ist\.
+Wenn es aber in der Macht des Bythus stand,
+dem Pleroma aus sich selbst eine solche Gestaltung mitzuteilen,
+warum sollte es dann nicht auch in der Macht des Demiurgen gestanden haben,
+aus sich selbst eine Welt zu bilden,
+wie sie besteht?
+Und wenn schließlich die Schöpfung ein Abbild der oberen Dinge ist,
+warum sollten wir dann nicht behaupten,
+dass auch diese wiederum Abbilder anderer Dinge über ihnen sind,
+und die darüber wieder Abbilder anderer,
+und so fortfahren,
+unzählige Abbilder von Abbildern anzunehmen?
 
-Wenn sie aber keiner dieser Folgerungen zustimmen wollen, weil wir sie, falls sie es täten, als unfähig erweisen würden, irgendeinen Grund für eine solche Hervorbringung ihres Pleromas anzugeben, bleibt ihnen zwangsläufig nur dies: Sie müssen bekennen, dass es über dem Pleroma noch ein anderes System gab, geistlicher und mächtiger, nach dessen Abbild ihr Pleroma gebildet wurde\. Denn wenn der Demiurg die vorhandene Gestalt der Schöpfung nicht aus sich selbst hervorgebracht, sondern sie nach der Form der oberen Dinge gemacht hat, von wem hat dann ihr Bythus, der ja bewirkt hat, dass das Pleroma eine solche Gestaltung besaß, die Gestalt jener Dinge empfangen, die vor ihm existierten? Denn notwendig gilt eines von beidem: Entweder wohnte die Absicht zu schaffen in jenem Gott, der die Welt machte, sodass er aus eigener Macht und aus sich selbst das Modell für ihre Bildung gewann; oder wenn man von diesem Wesen abweicht, dann wird man immer weiter fragen müssen, woher dem, der über ihm steht, die Gestaltung der geschaffenen Dinge kam, wie groß die Zahl der Hervorbringungen war und was die Substanz des Modells selbst gewesen ist\. Wenn es aber in der Macht des Bythus stand, dem Pleroma aus sich selbst eine solche Gestaltung mitzuteilen, warum sollte es dann nicht auch in der Macht des Demiurgen gestanden haben, aus sich selbst eine Welt zu bilden, wie sie besteht? Und wenn schließlich die Schöpfung ein Abbild der oberen Dinge ist, warum sollten wir dann nicht behaupten, dass auch diese wiederum Abbilder anderer Dinge über ihnen sind, und die darüber wieder Abbilder anderer, und so fortfahren, unzählige Abbilder von Abbildern anzunehmen?
+Diese Schwierigkeit stellte sich Basilides,
+nachdem er die Wahrheit völlig verfehlt hatte\.
+Er meinte,
+einer solchen Verlegenheit entgehen zu können,
+indem er eine endlose Folge jener Wesen annahm,
+die jeweils auseinander hervorgebracht wurden\.
+Er verkündete,
+dreihundertfünfundsechzig Himmel seien durch Folge und Ähnlichkeit voneinander gebildet worden,
+und ein offenkundiger Beweis dafür finde sich in der Zahl der Tage des Jahres,
+wie ich schon gesagt habe;
+über ihnen aber stehe eine Macht,
+die sie ebenfalls die Unbenennbare nennen,
+samt ihrer Ordnung\.
+Doch auch auf diesem Weg entkam er jener Verlegenheit nicht\.
+Denn wenn man ihn fragt,
+woher jenem Himmel,
+der über allen steht und von dem nach seinem Willen die übrigen durch eine Folge abgeleitet sein sollen,
+das Abbild seiner Gestalt kam,
+wird er sagen:
+aus jener Ordnung,
+die der Unbenennbaren gehört\.
+Dann muss er entweder sagen,
+das Unaussprechliche habe ihn aus sich selbst gebildet,
+oder er wird einräumen müssen,
+dass es über diesem Wesen noch eine andere Macht gibt,
+von der sein unbenennbarer Einer jene gewaltige Zahl von Gestaltungen erhalten hat,
+die nach seiner Auffassung bestehen\.
 
-Diese Schwierigkeit stellte sich Basilides, nachdem er die Wahrheit völlig verfehlt hatte\. Er meinte, einer solchen Verlegenheit entgehen zu können, indem er eine endlose Folge jener Wesen annahm, die jeweils auseinander hervorgebracht wurden\. Er verkündete, dreihundertfünfundsechzig Himmel seien durch Folge und Ähnlichkeit voneinander gebildet worden, und ein offenkundiger Beweis dafür finde sich in der Zahl der Tage des Jahres, wie ich schon gesagt habe; über ihnen aber stehe eine Macht, die sie ebenfalls die Unbenennbare nennen, samt ihrer Ordnung\. Doch auch auf diesem Weg entkam er jener Verlegenheit nicht\. Denn wenn man ihn fragt, woher jenem Himmel, der über allen steht und von dem nach seinem Willen die übrigen durch eine Folge abgeleitet sein sollen, das Abbild seiner Gestalt kam, wird er sagen: aus jener Ordnung, die der Unbenennbaren gehört\. Dann muss er entweder sagen, das Unaussprechliche habe ihn aus sich selbst gebildet, oder er wird einräumen müssen, dass es über diesem Wesen noch eine andere Macht gibt, von der sein unbenennbarer Einer jene gewaltige Zahl von Gestaltungen erhalten hat, die nach seiner Auffassung bestehen\.
+Wie viel sicherer und genauer ist es also,
+sogleich zu bekennen,
+was wahr ist:
+dass dieser Gott,
+der Schöpfer,
+der die Welt gebildet hat,
+der einzige Gott ist und dass es außer ihm keinen anderen Gott gibt;
+dass er selbst aus sich selbst das Muster und die Gestalt dessen nimmt,
+was gemacht worden ist\.
+Sonst ermüden wir uns mit einer so gottlosen und umständlichen Beschreibung und werden am Ende doch gezwungen,
+den Geist auf irgendeinen Einen zu richten und zu bekennen,
+dass von ihm die Gestalt der geschaffenen Dinge ausgegangen ist\.
 
-Wie viel sicherer und genauer ist es also, sogleich zu bekennen, was wahr ist: dass dieser Gott, der Schöpfer, der die Welt gebildet hat, der einzige Gott ist und dass es außer ihm keinen anderen Gott gibt; dass er selbst aus sich selbst das Muster und die Gestalt dessen nimmt, was gemacht worden ist\. Sonst ermüden wir uns mit einer so gottlosen und umständlichen Beschreibung und werden am Ende doch gezwungen, den Geist auf irgendeinen Einen zu richten und zu bekennen, dass von ihm die Gestalt der geschaffenen Dinge ausgegangen ist\.
-
-Was nun die Anklage betrifft, die die Anhänger des Valentinus gegen uns erheben, wenn sie behaupten, wir blieben in jener unteren Hebdomas, als könnten wir unseren Geist nicht in die Höhe erheben und die oberen Dinge nicht verstehen, weil wir ihre ungeheuerlichen Behauptungen nicht annehmen: Genau diesen Vorwurf erheben die Anhänger des Basilides wiederum gegen sie\. Denn die Valentinianer kreisen selbst um die unteren Dinge, gelangen nur bis zur ersten und zweiten Ogdoas und bilden sich ohne Sachverstand ein, sie hätten unmittelbar nach den dreißig Äonen den gefunden, der als Vater über allen Dingen steht, statt ihre gedanklichen Untersuchungen bis zu jenem Pleroma weiterzuführen, das über den dreihundertfünfundsechzig Himmeln liegt, also über fünfundvierzig Ogdoaden\. Und wiederum könnte irgendeiner denselben Vorwurf gegen sie erheben, wenn er sich viertausenddreihundertachtzig Himmel oder Äonen ausdenkt, da die Tage des Jahres ebenso viele Stunden enthalten\. Wenn dann noch jemand auch die Nächte hinzurechnet und so die genannten Stunden verdoppelt, wenn er sich einbildet, auf diese Weise eine große Menge von Ogdoaden und eine Art unzählbare Schar von Äonen entdeckt zu haben, und sich so, im Gegensatz zu dem, der als Vater über allen Dingen steht, für vollkommener hält als alle anderen, dann wird er denselben Vorwurf gegen alle erheben: Sie seien nämlich nicht fähig, sich zu einer Vorstellung von einer so großen Menge von Himmeln oder Äonen zu erheben, wie er sie verkündet hat, sondern seien entweder so mangelhaft, dass sie bei den unteren Dingen bleiben, oder hielten sich im Zwischenraum auf\.
+Was nun die Anklage betrifft,
+die die Anhänger des Valentinus gegen uns erheben,
+wenn sie behaupten,
+wir blieben in jener unteren Hebdomas,
+als könnten wir unseren Geist nicht in die Höhe erheben und die oberen Dinge nicht verstehen,
+weil wir ihre ungeheuerlichen Behauptungen nicht annehmen:
+Genau diesen Vorwurf erheben die Anhänger des Basilides wiederum gegen sie\.
+Denn die Valentinianer kreisen selbst um die unteren Dinge,
+gelangen nur bis zur ersten und zweiten Ogdoas und bilden sich ohne Sachverstand ein,
+sie hätten unmittelbar nach den dreißig Äonen den gefunden,
+der als Vater über allen Dingen steht,
+statt ihre gedanklichen Untersuchungen bis zu jenem Pleroma weiterzuführen,
+das über den dreihundertfünfundsechzig Himmeln liegt,
+also über fünfundvierzig Ogdoaden\.
+Und wiederum könnte irgendeiner denselben Vorwurf gegen sie erheben,
+wenn er sich viertausenddreihundertachtzig Himmel oder Äonen ausdenkt,
+da die Tage des Jahres ebenso viele Stunden enthalten\.
+Wenn dann noch jemand auch die Nächte hinzurechnet und so die genannten Stunden verdoppelt,
+wenn er sich einbildet,
+auf diese Weise eine große Menge von Ogdoaden und eine Art unzählbare Schar von Äonen entdeckt zu haben,
+und sich so,
+im Gegensatz zu dem,
+der als Vater über allen Dingen steht,
+für vollkommener hält als alle anderen,
+dann wird er denselben Vorwurf gegen alle erheben:
+Sie seien nämlich nicht fähig,
+sich zu einer Vorstellung von einer so großen Menge von Himmeln oder Äonen zu erheben,
+wie er sie verkündet hat,
+sondern seien entweder so mangelhaft,
+dass sie bei den unteren Dingen bleiben,
+oder hielten sich im Zwischenraum auf\.

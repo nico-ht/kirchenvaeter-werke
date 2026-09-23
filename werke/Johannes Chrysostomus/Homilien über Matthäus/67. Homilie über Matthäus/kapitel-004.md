@@ -7,9 +7,138 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/67-homilie-ueber-matthaeus#kapitel-caa4c5a4-7625-45f0-5b77-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d1b0f503ffa212d0c6c266296d6818e56b9b221f90686b2e12e785ef24b17c0c`
-
-Keiner von denen, die im Bösen leben, soll also verzweifeln; keiner, der in der Tugend steht, soll schläfrig werden\. Dieser soll nicht selbstsicher sein; denn oft wird die Hure an ihm vorbeiziehen\. Jener soll nicht verzweifeln; denn auch er kann die Ersten überholen\. Hör, was Gott zu Jerusalem sagt: „Nachdem sie all dies mit ihrer Hurerei getan hatte, sagte ich: Kehre zu mir zurück\. Und sie kehrte nicht zurück\.[^bible-f4877fbb-cef5-4fd8-8637-2a3d0171b05f]“ Wenn wir zur glühenden Liebe zu Gott zurückkehren, denkt er nicht mehr an das Frühere\. Gott ist nicht wie ein Mensch; denn er wirft uns das Vergangene nicht vor und sagt nicht: „Warum bist du so lange weggeblieben?“, wenn wir umkehren\. Sondern er liebt, wenn wir zu ihm kommen; wir müssen nur so zu ihm kommen, wie es sich gehört\. Hängen wir ihm mit ganzer Kraft an und nageln wir unsere Herzen fest durch die Furcht vor ihm\. Solche Dinge sind nicht nur im Neuen geschehen, sondern auch im Alten\. Was war denn schlimmer als Manasse? Und doch konnte er Gott versöhnen\. Was war seliger als Salomo? Und doch wurde er schläfrig und fiel\. Ja, ich kann sogar beides in einem einzigen Menschen zeigen, in dessen Vater; denn derselbe war einmal gut und einmal böse\. Was war seliger als Judas? Und doch wurde er zum Verräter\. Was war elender als Matthäus? Und doch wurde er Evangelist\. Was war schlimmer als Paulus? Und doch wurde er Apostel\. Was war beneidenswerter als Simon? Und doch wurde auch er elender als alle\. Wie viele andere solche Wandlungen willst du sehen, solche, die einst geschahen, und solche, die jetzt jeden Tag geschehen? Eben darum sage ich: Weder soll der auf der Bühne verzweifeln, noch soll der in der Kirche selbstsicher sein\. Denn zu diesem sagt er: „Wer meint, er stehe, sehe zu, dass er nicht fällt\.[^bible-4dc4e4ad-2fdc-40c8-aa02-01c34c3dde08]“ Zu jenem aber: „Fällt denn einer und steht nicht wieder auf?[^bible-8c59b79a-4912-4cb7-b13b-ea784a3d067f]“ Und: „Richtet die erschlafften Hände und die gelähmten Knie wieder auf\.[^bible-b1a41a7d-50a6-436f-93b0-e27e8f171dde]“ Wieder sagt er zu diesen: „Wacht\.[^bible-4c5621a0-74fe-44b5-a9a3-eed586c44cac]“ Zu jenen aber: „Wach auf, du Schläfer, und steh auf von den Toten\.[^bible-9ab4c0f6-22c6-46de-9666-89aff7c4bddd]“ Denn diese müssen bewahren, was sie haben, jene aber müssen werden, was sie nicht sind; diese müssen die Gesundheit erhalten, jene von ihrer Krankheit frei werden\. Sie sind nämlich krank\. Doch auch von den Kranken werden viele gesund, und von den Gesunden werden viele krank, wenn sie nachlässig werden\. Zu jenen also sagt er: „Sieh, du bist gesund geworden; sündige nicht mehr, damit dir nicht etwas Schlimmeres geschieht\.[^bible-7e0c13c3-5970-4d40-aa20-47f38b739280]“ Zu diesen aber: „Willst du gesund werden? Steh auf, nimm deine Matte und geh in dein Haus\.[^bible-ac052a0f-5809-4858-b82e-ea241b6a4db4]“ Denn furchtbar, furchtbar ist die Lähmung der Sünde\. Mehr noch: Sie ist nicht nur Lähmung, sondern noch etwas anderes, Schwereres\. Ein solcher Mensch ist nämlich nicht nur untätig für das Gute, sondern auch tätig im Bösen\. Doch selbst wenn du so dastehst: Wenn du nur ein wenig aufstehen willst, löst sich alles Furchtbare auf\. Und wenn du achtunddreißig Jahre in diesem Zustand bist, dich aber eifrig bemühst, gesund zu werden, gibt es niemanden, der dich hindert\. Auch jetzt ist Christus da und sagt: „Nimm deine Matte\.[^bible-29b281d0-da8a-4931-b362-d061de8e45d9]“ Du musst nur aufstehen wollen; verzweifle nicht\. Du hast keinen Menschen? Aber du hast Gott\. Du hast keinen, der dich in den Teich wirft? Aber du hast den, der dich nicht nötig haben lässt, einen Teich zu brauchen\. Du hast keinen, der dich dort hineinwirft? Aber du hast den, der dir befiehlt, deine Matte zu nehmen\. Du kannst nicht sagen: „Während ich komme, steigt ein anderer vor mir hinab\.[^bible-ea26e890-7dbb-42ac-bd11-bff2a8bda1fd]“ Denn wenn du in die Quelle hinabsteigen willst, gibt es niemanden, der dich hindert\. Die Gnade wird nicht verbraucht, sie geht nicht aus; sie ist eine Quelle, die unaufhörlich hervorsprudelt\. Aus seiner Fülle werden wir alle geheilt, an Seele und Leib\. Treten wir also auch jetzt hinzu\. Denn auch Rahab war eine Hure, aber sie wurde gerettet; auch der Räuber war ein Mörder, aber er wurde Bürger des Paradieses\. Judas war beim Lehrer und ging verloren; der Räuber hing am Kreuz und wurde Jünger\. Das sind die erstaunlichen Taten Gottes\. So wurden die Magier bewährt; so wurde der Zöllner Evangelist; so wurde der Lästerer Apostel\.
+Keiner von denen,
+die im Bösen leben,
+soll also verzweifeln;
+keiner,
+der in der Tugend steht,
+soll schläfrig werden\.
+Dieser soll nicht selbstsicher sein;
+denn oft wird die Hure an ihm vorbeiziehen\.
+Jener soll nicht verzweifeln;
+denn auch er kann die Ersten überholen\.
+Hör,
+was Gott zu Jerusalem sagt:
+„Nachdem sie all dies mit ihrer Hurerei getan hatte,
+sagte ich:
+Kehre zu mir zurück\.
+Und sie kehrte nicht zurück\.[^bible-f4877fbb-cef5-4fd8-8637-2a3d0171b05f]“ Wenn wir zur glühenden Liebe zu Gott zurückkehren,
+denkt er nicht mehr an das Frühere\.
+Gott ist nicht wie ein Mensch;
+denn er wirft uns das Vergangene nicht vor und sagt nicht:
+„Warum bist du so lange weggeblieben?“,
+wenn wir umkehren\.
+Sondern er liebt,
+wenn wir zu ihm kommen;
+wir müssen nur so zu ihm kommen,
+wie es sich gehört\.
+Hängen wir ihm mit ganzer Kraft an und nageln wir unsere Herzen fest durch die Furcht vor ihm\.
+Solche Dinge sind nicht nur im Neuen geschehen,
+sondern auch im Alten\.
+Was war denn schlimmer als Manasse?
+Und doch konnte er Gott versöhnen\.
+Was war seliger als Salomo?
+Und doch wurde er schläfrig und fiel\.
+Ja,
+ich kann sogar beides in einem einzigen Menschen zeigen,
+in dessen Vater;
+denn derselbe war einmal gut und einmal böse\.
+Was war seliger als Judas?
+Und doch wurde er zum Verräter\.
+Was war elender als Matthäus?
+Und doch wurde er Evangelist\.
+Was war schlimmer als Paulus?
+Und doch wurde er Apostel\.
+Was war beneidenswerter als Simon?
+Und doch wurde auch er elender als alle\.
+Wie viele andere solche Wandlungen willst du sehen,
+solche,
+die einst geschahen,
+und solche,
+die jetzt jeden Tag geschehen?
+Eben darum sage ich:
+Weder soll der auf der Bühne verzweifeln,
+noch soll der in der Kirche selbstsicher sein\.
+Denn zu diesem sagt er:
+„Wer meint,
+er stehe,
+sehe zu,
+dass er nicht fällt\.[^bible-4dc4e4ad-2fdc-40c8-aa02-01c34c3dde08]“ Zu jenem aber:
+„Fällt denn einer und steht nicht wieder auf?[^bible-8c59b79a-4912-4cb7-b13b-ea784a3d067f]“ Und:
+„Richtet die erschlafften Hände und die gelähmten Knie wieder auf\.[^bible-b1a41a7d-50a6-436f-93b0-e27e8f171dde]“ Wieder sagt er zu diesen:
+„Wacht\.[^bible-4c5621a0-74fe-44b5-a9a3-eed586c44cac]“ Zu jenen aber:
+„Wach auf,
+du Schläfer,
+und steh auf von den Toten\.[^bible-9ab4c0f6-22c6-46de-9666-89aff7c4bddd]“ Denn diese müssen bewahren,
+was sie haben,
+jene aber müssen werden,
+was sie nicht sind;
+diese müssen die Gesundheit erhalten,
+jene von ihrer Krankheit frei werden\.
+Sie sind nämlich krank\.
+Doch auch von den Kranken werden viele gesund,
+und von den Gesunden werden viele krank,
+wenn sie nachlässig werden\.
+Zu jenen also sagt er:
+„Sieh,
+du bist gesund geworden;
+sündige nicht mehr,
+damit dir nicht etwas Schlimmeres geschieht\.[^bible-7e0c13c3-5970-4d40-aa20-47f38b739280]“ Zu diesen aber:
+„Willst du gesund werden?
+Steh auf,
+nimm deine Matte und geh in dein Haus\.[^bible-ac052a0f-5809-4858-b82e-ea241b6a4db4]“ Denn furchtbar,
+furchtbar ist die Lähmung der Sünde\.
+Mehr noch:
+Sie ist nicht nur Lähmung,
+sondern noch etwas anderes,
+Schwereres\.
+Ein solcher Mensch ist nämlich nicht nur untätig für das Gute,
+sondern auch tätig im Bösen\.
+Doch selbst wenn du so dastehst:
+Wenn du nur ein wenig aufstehen willst,
+löst sich alles Furchtbare auf\.
+Und wenn du achtunddreißig Jahre in diesem Zustand bist,
+dich aber eifrig bemühst,
+gesund zu werden,
+gibt es niemanden,
+der dich hindert\.
+Auch jetzt ist Christus da und sagt:
+„Nimm deine Matte\.[^bible-29b281d0-da8a-4931-b362-d061de8e45d9]“ Du musst nur aufstehen wollen;
+verzweifle nicht\.
+Du hast keinen Menschen?
+Aber du hast Gott\.
+Du hast keinen,
+der dich in den Teich wirft?
+Aber du hast den,
+der dich nicht nötig haben lässt,
+einen Teich zu brauchen\.
+Du hast keinen,
+der dich dort hineinwirft?
+Aber du hast den,
+der dir befiehlt,
+deine Matte zu nehmen\.
+Du kannst nicht sagen:
+„Während ich komme,
+steigt ein anderer vor mir hinab\.[^bible-ea26e890-7dbb-42ac-bd11-bff2a8bda1fd]“ Denn wenn du in die Quelle hinabsteigen willst,
+gibt es niemanden,
+der dich hindert\.
+Die Gnade wird nicht verbraucht,
+sie geht nicht aus;
+sie ist eine Quelle,
+die unaufhörlich hervorsprudelt\.
+Aus seiner Fülle werden wir alle geheilt,
+an Seele und Leib\.
+Treten wir also auch jetzt hinzu\.
+Denn auch Rahab war eine Hure,
+aber sie wurde gerettet;
+auch der Räuber war ein Mörder,
+aber er wurde Bürger des Paradieses\.
+Judas war beim Lehrer und ging verloren;
+der Räuber hing am Kreuz und wurde Jünger\.
+Das sind die erstaunlichen Taten Gottes\.
+So wurden die Magier bewährt;
+so wurde der Zöllner Evangelist;
+so wurde der Lästerer Apostel\.
 
 ## Bibelverweise
 

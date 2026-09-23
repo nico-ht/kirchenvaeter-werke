@@ -7,10 +7,46 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/2-homilie-ueber-genesis#kapitel-51bacdc5-c962-4aa5-76f4-08dd32fb8e24).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d66c39b83dedacfde5aac606173ae66574f6d3b6853ef0ed68557d36896ea438`
+Jetzt ist die richtige Zeit,
+wenn es jemals eine gab,
+für die Lehren,
+die ich im Sinn habe,
+wenn die Magd ihrer Herrin nicht mehr widersteht,
+sondern gehorsam,
+ansprechbar und folgsam ist,
+die Impulse der Natur zügelt und sich innerhalb angemessener Grenzen hält\.
+Fasten ist schließlich unser Seelenfrieden,
+der Reiz der Alten,
+der Lehrer der Jungen,
+das Vorbild der Klugen,
+das jede Altersgruppe und Veranlagung wie ein Diadem schmückt\.
 
-Jetzt ist die richtige Zeit, wenn es jemals eine gab, für die Lehren, die ich im Sinn habe, wenn die Magd ihrer Herrin nicht mehr widersteht, sondern gehorsam, ansprechbar und folgsam ist, die Impulse der Natur zügelt und sich innerhalb angemessener Grenzen hält\. Fasten ist schließlich unser Seelenfrieden, der Reiz der Alten, der Lehrer der Jungen, das Vorbild der Klugen, das jede Altersgruppe und Veranlagung wie ein Diadem schmückt\.
+Heute soll es kein Zeichen von Aufruhr oder Geschrei geben,
+kein Zerlegen von Kadavern oder die Possen von Köchen;
+lasst all dies beiseite und lasst unsere Stadt das Erscheinungsbild einer anständigen Dame zeigen,
+nett und charmant\.
+Wenn ich die Verwandlung betrachte,
+die über Nacht von der Unruhe,
+an die ich mich von gestern erinnere,
+stattgefunden hat,
+bin ich erstaunt und überwältigt von der Wirksamkeit des Fastens,
+wie es die Einstellung aller verändern und reinigen kann,
+nicht nur die der Herrscher,
+sondern auch die der Beherrschten,
+nicht nur die der Freien,
+sondern auch die der Sklaven,
+nicht nur die der Männer,
+sondern auch die der Frauen,
+nicht nur die der Reichen,
+sondern auch die der Armen,
+nicht nur die derjenigen,
+die die griechische Sprache beherrschen,
+sondern auch die,
+die kein Griechisch sprechen\.
 
-Heute soll es kein Zeichen von Aufruhr oder Geschrei geben, kein Zerlegen von Kadavern oder die Possen von Köchen; lasst all dies beiseite und lasst unsere Stadt das Erscheinungsbild einer anständigen Dame zeigen, nett und charmant\. Wenn ich die Verwandlung betrachte, die über Nacht von der Unruhe, an die ich mich von gestern erinnere, stattgefunden hat, bin ich erstaunt und überwältigt von der Wirksamkeit des Fastens, wie es die Einstellung aller verändern und reinigen kann, nicht nur die der Herrscher, sondern auch die der Beherrschten, nicht nur die der Freien, sondern auch die der Sklaven, nicht nur die der Männer, sondern auch die der Frauen, nicht nur die der Reichen, sondern auch die der Armen, nicht nur die derjenigen, die die griechische Sprache beherrschen, sondern auch die, die kein Griechisch sprechen\.
-
-Aber warum von Herrschern und Beherrschten sprechen? Der Träger der Krone hat zusammen mit allen anderen seine Einstellung durch das Fasten unter Kontrolle\. Heute ist kein Unterschied zwischen dem Tisch des Reichen und dem des Armen zu erkennen; stattdessen gibt es in jedem Fall ein einfaches Leben, frei von Luxus oder Pomp, wobei die Menschen mit größerer Freude zur Einfachheit der Speise kommen als wenn sie mit üppigen Gerichten und reichlich Wein versorgt wurden\.
+Aber warum von Herrschern und Beherrschten sprechen?
+Der Träger der Krone hat zusammen mit allen anderen seine Einstellung durch das Fasten unter Kontrolle\.
+Heute ist kein Unterschied zwischen dem Tisch des Reichen und dem des Armen zu erkennen;
+stattdessen gibt es in jedem Fall ein einfaches Leben,
+frei von Luxus oder Pomp,
+wobei die Menschen mit größerer Freude zur Einfachheit der Speise kommen als wenn sie mit üppigen Gerichten und reichlich Wein versorgt wurden\.

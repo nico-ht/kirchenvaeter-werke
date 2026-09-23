@@ -7,17 +7,200 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-iv#kapitel-728f277a-1285-4360-0394-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3702afb4da9ec9c01ea82c02ae927bc6807d9499d0118e515844cc8f659d70e3`
+Wenn also jemand die Schriften aufmerksam liest,
+wird er in ihnen einen Bericht über Christus finden und eine Vorausabbildung der neuen Berufung\.
+Denn Christus ist der Schatz,
+der im Acker verborgen war[^bible-74ff7dbd-3f65-422c-aeea-c18307b2516a],
+das heißt in dieser Welt,
+denn „der Acker ist die Welt[^bible-1de3fa73-f6ab-44a7-8352-ec7310256962]“;
+der in den Schriften verborgene Schatz aber ist Christus,
+weil er durch Vorbilder und Gleichnisse angezeigt wurde\.
+Deshalb konnte seine menschliche Natur vor der Vollendung dessen,
+was vorhergesagt worden war,
+also vor der Ankunft Christi,
+nicht verstanden werden\.
+Darum wurde zu dem Propheten Daniel gesagt:
+„Verschließe die Worte und versiegle das Buch bis zur Zeit der Vollendung,
+bis viele lernen und die Erkenntnis vollendet wird[^bible-39acb7be-9171-4686-836c-85d404320ab1]\.
+Denn zu jener Zeit,
+wenn die Zerstreuung vollendet sein wird,
+werden sie dies alles erkennen[^bible-2de2b5f9-1f78-4d3a-a9b2-c5c7f7fee12f]\.“
+Auch Jeremia sagt:
+„In den letzten Tagen werden sie dies verstehen[^bible-9f2dbf60-1e1a-4cfd-b4f3-165155e19b65]\.“
+Denn jede Prophetie ist für die Menschen vor ihrer Erfüllung voller Rätsel und Mehrdeutigkeiten\.
+Wenn aber die Zeit gekommen ist und die Vorhersage eingetreten ist,
+dann haben die Prophetien eine klare und sichere Auslegung\.
+Eben deshalb ist das Gesetz,
+wenn es in der gegenwärtigen Zeit den Juden vorgelesen wird,
+für sie wie eine Fabel;
+denn sie besitzen nicht die Erklärung all dessen,
+was zur Ankunft des Sohnes Gottes gehört,
+die in menschlicher Natur geschah\.
+Wenn es aber von den Christen gelesen wird,
+ist es ein Schatz:
+zwar im Acker verborgen,
+aber durch das Kreuz Christi ans Licht gebracht und ausgelegt\.
+Es bereichert das Verständnis der Menschen,
+zeigt die Weisheit Gottes,
+legt seine Heilsordnungen im Blick auf den Menschen dar,
+bildet das Reich Christi im Voraus,
+verkündet im Voraus das Erbe des heiligen Jerusalem und kündigt zuvor an,
+dass der Mensch,
+der Gott liebt,
+zu einer solchen Höhe gelangen wird,
+dass er sogar Gott sieht,
+sein Wort hört und durch das Hören seiner Rede so sehr verherrlicht wird,
+dass andere die Herrlichkeit seines Angesichts nicht anschauen können,
+wie Daniel gesagt hat:
+„Die Verständigen werden leuchten wie der Glanz des Firmaments und viele von den Gerechten wie die Sterne für immer und ewig[^bible-6fde6e38-897f-47e7-9ab6-8cdb9e992607]\.“
+So also,
+habe ich gezeigt,
+verhält es sich,
+wenn jemand die Schriften liest\.
+Denn so sprach der Herr nach seiner Auferstehung von den Toten mit den Jüngern:
+Er bewies ihnen aus den Schriften selbst,
+„dass Christus leiden und in seine Herrlichkeit eingehen musste[^bible-84259641-5b45-445c-833a-08c016883965] und dass in seinem Namen Vergebung der Sünden in der ganzen Welt verkündigt werden sollte[^bible-76bffcbc-282b-4f16-a021-e7e0a6e45d19]“\.
+Und der Jünger wird zur Vollendung geführt und dem Hausherrn gleich gemacht,
+„der aus seinem Schatz Neues und Altes hervorbringt[^bible-6c866d76-8da5-4a9e-b190-b23ed3c0c2d5]“\.
 
-Wenn also jemand die Schriften aufmerksam liest, wird er in ihnen einen Bericht über Christus finden und eine Vorausabbildung der neuen Berufung\. Denn Christus ist der Schatz, der im Acker verborgen war[^bible-74ff7dbd-3f65-422c-aeea-c18307b2516a], das heißt in dieser Welt, denn „der Acker ist die Welt[^bible-1de3fa73-f6ab-44a7-8352-ec7310256962]“; der in den Schriften verborgene Schatz aber ist Christus, weil er durch Vorbilder und Gleichnisse angezeigt wurde\. Deshalb konnte seine menschliche Natur vor der Vollendung dessen, was vorhergesagt worden war, also vor der Ankunft Christi, nicht verstanden werden\. Darum wurde zu dem Propheten Daniel gesagt: „Verschließe die Worte und versiegle das Buch bis zur Zeit der Vollendung, bis viele lernen und die Erkenntnis vollendet wird[^bible-39acb7be-9171-4686-836c-85d404320ab1]\. Denn zu jener Zeit, wenn die Zerstreuung vollendet sein wird, werden sie dies alles erkennen[^bible-2de2b5f9-1f78-4d3a-a9b2-c5c7f7fee12f]\.“ Auch Jeremia sagt: „In den letzten Tagen werden sie dies verstehen[^bible-9f2dbf60-1e1a-4cfd-b4f3-165155e19b65]\.“ Denn jede Prophetie ist für die Menschen vor ihrer Erfüllung voller Rätsel und Mehrdeutigkeiten\. Wenn aber die Zeit gekommen ist und die Vorhersage eingetreten ist, dann haben die Prophetien eine klare und sichere Auslegung\. Eben deshalb ist das Gesetz, wenn es in der gegenwärtigen Zeit den Juden vorgelesen wird, für sie wie eine Fabel; denn sie besitzen nicht die Erklärung all dessen, was zur Ankunft des Sohnes Gottes gehört, die in menschlicher Natur geschah\. Wenn es aber von den Christen gelesen wird, ist es ein Schatz: zwar im Acker verborgen, aber durch das Kreuz Christi ans Licht gebracht und ausgelegt\. Es bereichert das Verständnis der Menschen, zeigt die Weisheit Gottes, legt seine Heilsordnungen im Blick auf den Menschen dar, bildet das Reich Christi im Voraus, verkündet im Voraus das Erbe des heiligen Jerusalem und kündigt zuvor an, dass der Mensch, der Gott liebt, zu einer solchen Höhe gelangen wird, dass er sogar Gott sieht, sein Wort hört und durch das Hören seiner Rede so sehr verherrlicht wird, dass andere die Herrlichkeit seines Angesichts nicht anschauen können, wie Daniel gesagt hat: „Die Verständigen werden leuchten wie der Glanz des Firmaments und viele von den Gerechten wie die Sterne für immer und ewig[^bible-6fde6e38-897f-47e7-9ab6-8cdb9e992607]\.“ So also, habe ich gezeigt, verhält es sich, wenn jemand die Schriften liest\. Denn so sprach der Herr nach seiner Auferstehung von den Toten mit den Jüngern: Er bewies ihnen aus den Schriften selbst, „dass Christus leiden und in seine Herrlichkeit eingehen musste[^bible-84259641-5b45-445c-833a-08c016883965] und dass in seinem Namen Vergebung der Sünden in der ganzen Welt verkündigt werden sollte[^bible-76bffcbc-282b-4f16-a021-e7e0a6e45d19]“\. Und der Jünger wird zur Vollendung geführt und dem Hausherrn gleich gemacht, „der aus seinem Schatz Neues und Altes hervorbringt[^bible-6c866d76-8da5-4a9e-b190-b23ed3c0c2d5]“\.
+Darum muss man den Presbytern gehorchen,
+die in der Kirche sind:
+jenen,
+die,
+wie ich gezeigt habe,
+die Nachfolge von den Aposteln besitzen;
+jenen,
+die zusammen mit der Nachfolge des Bischofsamtes nach dem Wohlgefallen des Vaters die sichere Gabe der Wahrheit empfangen haben\.
+Andere aber,
+die von der ursprünglichen Nachfolge abweichen und sich an irgendeinem beliebigen Ort versammeln,
+muss man mit Misstrauen betrachten:
+entweder als Häretiker mit verdorbenem Sinn oder als Schismatiker,
+aufgeblasen und selbstgefällig,
+oder wiederum als Heuchler,
+die so handeln um des Gewinns und eitlen Ruhmes willen\.
+Denn sie alle sind von der Wahrheit abgefallen\.
+Die Häretiker nämlich,
+die fremdes Feuer zum Altar Gottes bringen,
+das heißt fremde Lehren,
+wird das Feuer aus dem Himmel verzehren,
+wie Nadab und Abiud[^bible-23300e7a-ec2e-425a-915a-4c0fc9b58dc9]\.
+Wer aber gegen die Wahrheit aufsteht und andere gegen die Kirche Gottes aufwiegelt,
+wird bei denen in der Unterwelt bleiben,
+von einem Erdbeben verschlungen,
+wie jene,
+die bei Chore,
+Dathan und Abiron waren[^bible-bc7ed4ea-ad18-4212-a16f-82ad72ecd995]\.
+Wer aber die Einheit der Kirche zerreißt und spaltet,
+wird von Gott dieselbe Strafe empfangen wie Jeroboam[^bible-d5ad8086-fc9c-4e5e-a378-baef3bdcb217]\.
 
-Darum muss man den Presbytern gehorchen, die in der Kirche sind: jenen, die, wie ich gezeigt habe, die Nachfolge von den Aposteln besitzen; jenen, die zusammen mit der Nachfolge des Bischofsamtes nach dem Wohlgefallen des Vaters die sichere Gabe der Wahrheit empfangen haben\. Andere aber, die von der ursprünglichen Nachfolge abweichen und sich an irgendeinem beliebigen Ort versammeln, muss man mit Misstrauen betrachten: entweder als Häretiker mit verdorbenem Sinn oder als Schismatiker, aufgeblasen und selbstgefällig, oder wiederum als Heuchler, die so handeln um des Gewinns und eitlen Ruhmes willen\. Denn sie alle sind von der Wahrheit abgefallen\. Die Häretiker nämlich, die fremdes Feuer zum Altar Gottes bringen, das heißt fremde Lehren, wird das Feuer aus dem Himmel verzehren, wie Nadab und Abiud[^bible-23300e7a-ec2e-425a-915a-4c0fc9b58dc9]\. Wer aber gegen die Wahrheit aufsteht und andere gegen die Kirche Gottes aufwiegelt, wird bei denen in der Unterwelt bleiben, von einem Erdbeben verschlungen, wie jene, die bei Chore, Dathan und Abiron waren[^bible-bc7ed4ea-ad18-4212-a16f-82ad72ecd995]\. Wer aber die Einheit der Kirche zerreißt und spaltet, wird von Gott dieselbe Strafe empfangen wie Jeroboam[^bible-d5ad8086-fc9c-4e5e-a378-baef3bdcb217]\.
+Die aber,
+die von vielen für Presbyter gehalten werden,
+dabei aber ihren eigenen Begierden dienen,
+die Gottesfurcht nicht obenan in ihr Herz stellen,
+andere verächtlich behandeln,
+sich im Hochmut auf den ersten Platz aufblähen und im Verborgenen Böses tun,
+indem sie sagen:
+„Kein Mensch sieht uns“,
+die wird das Wort überführen\.
+Denn es richtet nicht nach dem äußeren Ansehen und schaut nicht auf das Gesicht,
+sondern auf das Herz\.
+Und sie werden jene Worte hören,
+die beim Propheten Daniel stehen:
+„Du Same Kanaans und nicht Judas,
+die Schönheit hat dich getäuscht,
+und die Begierde hat dein Herz verkehrt[^bible-0c097c54-d669-4a9a-82d8-f5cc57ea8d71]\.
+Du bist alt geworden in bösen Tagen;
+nun kommen deine Sünden ans Licht,
+die du früher begangen hast\.
+Denn du hast falsche Urteile gefällt und warst gewohnt,
+den Unschuldigen zu verurteilen und den Schuldigen freizulassen,
+obwohl der Herr sagt:
+Den Unschuldigen und Gerechten sollst du nicht töten[^bible-5613ffe3-976a-455e-9a4d-edd727d7d938]\.“
+Von ihnen sagte auch der Herr:
+„Wenn aber jener böse Knecht in seinem Herzen sagt:
+Mein Herr bleibt noch aus,
+und anfängt,
+die Knechte und Mägde zu schlagen,
+zu essen und zu trinken und sich zu berauschen,
+dann wird der Herr dieses Knechtes an einem Tag kommen,
+an dem er ihn nicht erwartet,
+und zu einer Stunde,
+die er nicht kennt;
+er wird ihn entzweischneiden und ihm seinen Anteil bei den Ungläubigen geben[^bible-b43b2aed-cac8-4097-b55f-b8dd2031342f]\.“
 
-Die aber, die von vielen für Presbyter gehalten werden, dabei aber ihren eigenen Begierden dienen, die Gottesfurcht nicht obenan in ihr Herz stellen, andere verächtlich behandeln, sich im Hochmut auf den ersten Platz aufblähen und im Verborgenen Böses tun, indem sie sagen: „Kein Mensch sieht uns“, die wird das Wort überführen\. Denn es richtet nicht nach dem äußeren Ansehen und schaut nicht auf das Gesicht, sondern auf das Herz\. Und sie werden jene Worte hören, die beim Propheten Daniel stehen: „Du Same Kanaans und nicht Judas, die Schönheit hat dich getäuscht, und die Begierde hat dein Herz verkehrt[^bible-0c097c54-d669-4a9a-82d8-f5cc57ea8d71]\. Du bist alt geworden in bösen Tagen; nun kommen deine Sünden ans Licht, die du früher begangen hast\. Denn du hast falsche Urteile gefällt und warst gewohnt, den Unschuldigen zu verurteilen und den Schuldigen freizulassen, obwohl der Herr sagt: Den Unschuldigen und Gerechten sollst du nicht töten[^bible-5613ffe3-976a-455e-9a4d-edd727d7d938]\.“ Von ihnen sagte auch der Herr: „Wenn aber jener böse Knecht in seinem Herzen sagt: Mein Herr bleibt noch aus, und anfängt, die Knechte und Mägde zu schlagen, zu essen und zu trinken und sich zu berauschen, dann wird der Herr dieses Knechtes an einem Tag kommen, an dem er ihn nicht erwartet, und zu einer Stunde, die er nicht kennt; er wird ihn entzweischneiden und ihm seinen Anteil bei den Ungläubigen geben[^bible-b43b2aed-cac8-4097-b55f-b8dd2031342f]\.“
+Von all solchen Menschen müssen wir uns also fernhalten;
+halten sollen wir uns vielmehr an diejenigen,
+die,
+wie ich schon gesagt habe,
+an der Lehre der Apostel festhalten und in der Ordnung der Presbyter gesunde Rede und untadeligen Wandel zeigen,
+zur Stärkung und Zurechtbringung anderer\.
+So rechtfertigte sich Mose,
+dem eine solche Leitung anvertraut war,
+im Vertrauen auf ein gutes Gewissen vor Gott und sagte:
+„Ich habe aus Habgier nichts genommen,
+was einem dieser Männer gehört,
+und keinem von ihnen habe ich Böses getan\.[^bible-a3f32c1f-c3f4-4ee3-b023-5907264e2f1a]“ So rechtfertigte sich auch Samuel,
+der so viele Jahre das Volk gerichtet und ohne jeden Hochmut über Israel geherrscht hatte,
+am Ende mit den Worten:
+„Ich bin vor euch gewandelt von meiner Kindheit an bis zum heutigen Tag\.
+Antwortet mir vor Gott und vor seinem Gesalbten:
+Wessen Rind oder wessen Esel von euch habe ich genommen?
+Über wen habe ich Gewalt ausgeübt,
+wen habe ich bedrückt?
+Oder wenn ich aus jemandes Hand ein Bestechungsgeschenk oder auch nur einen Schuh angenommen habe,
+dann tretet gegen mich auf,
+und ich werde es euch zurückgeben\.[^bible-37d48979-5db0-4350-86bc-e58aa29034de]“ Und als das Volk zu ihm gesagt hatte:
+„Du hast keine Gewalt über uns ausgeübt,
+du hast uns nicht bedrückt und aus niemandes Hand etwas genommen\.[^bible-5bf3444b-17d0-411b-84ce-046a3f3950c4]“,
+rief er den Herrn zum Zeugen an und sagte:
+„Der Herr ist Zeuge,
+und sein Gesalbter ist heute Zeuge,
+dass ihr nichts in meiner Hand gefunden habt\.[^bible-1e88c5b6-83e8-4d38-b51e-fb743036406b]“ Und sie sagten zu ihm:
+„Er ist Zeuge\.[^bible-1e88c5b6-83e8-4d38-b51e-fb743036406b]“ In derselben Weise sagte auch der Apostel Paulus,
+weil er ein gutes Gewissen hatte,
+zu den Korinthern:
+„Denn wir sind nicht wie die vielen,
+die das Wort Gottes verfälschen,
+sondern aus Aufrichtigkeit,
+sondern aus Gott,
+vor Gott reden wir in Christus\.[^bible-19436b4e-859f-4c06-b7e3-9e22a9b6ab3d]“ „Wir haben niemandem Unrecht getan,
+niemanden verdorben,
+niemanden übervorteilt\.[^bible-e127e4ee-e884-4669-9602-a84f284ff554]“
 
-Von all solchen Menschen müssen wir uns also fernhalten; halten sollen wir uns vielmehr an diejenigen, die, wie ich schon gesagt habe, an der Lehre der Apostel festhalten und in der Ordnung der Presbyter gesunde Rede und untadeligen Wandel zeigen, zur Stärkung und Zurechtbringung anderer\. So rechtfertigte sich Mose, dem eine solche Leitung anvertraut war, im Vertrauen auf ein gutes Gewissen vor Gott und sagte: „Ich habe aus Habgier nichts genommen, was einem dieser Männer gehört, und keinem von ihnen habe ich Böses getan\.[^bible-a3f32c1f-c3f4-4ee3-b023-5907264e2f1a]“ So rechtfertigte sich auch Samuel, der so viele Jahre das Volk gerichtet und ohne jeden Hochmut über Israel geherrscht hatte, am Ende mit den Worten: „Ich bin vor euch gewandelt von meiner Kindheit an bis zum heutigen Tag\. Antwortet mir vor Gott und vor seinem Gesalbten: Wessen Rind oder wessen Esel von euch habe ich genommen? Über wen habe ich Gewalt ausgeübt, wen habe ich bedrückt? Oder wenn ich aus jemandes Hand ein Bestechungsgeschenk oder auch nur einen Schuh angenommen habe, dann tretet gegen mich auf, und ich werde es euch zurückgeben\.[^bible-37d48979-5db0-4350-86bc-e58aa29034de]“ Und als das Volk zu ihm gesagt hatte: „Du hast keine Gewalt über uns ausgeübt, du hast uns nicht bedrückt und aus niemandes Hand etwas genommen\.[^bible-5bf3444b-17d0-411b-84ce-046a3f3950c4]“, rief er den Herrn zum Zeugen an und sagte: „Der Herr ist Zeuge, und sein Gesalbter ist heute Zeuge, dass ihr nichts in meiner Hand gefunden habt\.[^bible-1e88c5b6-83e8-4d38-b51e-fb743036406b]“ Und sie sagten zu ihm: „Er ist Zeuge\.[^bible-1e88c5b6-83e8-4d38-b51e-fb743036406b]“ In derselben Weise sagte auch der Apostel Paulus, weil er ein gutes Gewissen hatte, zu den Korinthern: „Denn wir sind nicht wie die vielen, die das Wort Gottes verfälschen, sondern aus Aufrichtigkeit, sondern aus Gott, vor Gott reden wir in Christus\.[^bible-19436b4e-859f-4c06-b7e3-9e22a9b6ab3d]“ „Wir haben niemandem Unrecht getan, niemanden verdorben, niemanden übervorteilt\.[^bible-e127e4ee-e884-4669-9602-a84f284ff554]“
-
-Solche Presbyter nährt die Kirche; von ihnen sagt auch der Prophet: „Ich werde dir deine Herrscher in Frieden geben und deine Bischöfe in Gerechtigkeit[^bible-c364ba3c-04e9-4895-ba24-d7281271bb40]\.“ Von ihnen hat auch der Herr erklärt: „Wer ist also der treue Verwalter, gut und weise, den der Herr über sein Haus setzt, damit er ihnen zur rechten Zeit die Speise gibt? Selig ist jener Knecht, den sein Herr, wenn er kommt, so handelnd finden wird[^bible-3212b046-34c2-4bae-a1d0-cd5e112c038f]\.“ Paulus lehrt uns nun, wo man solche Menschen finden kann, und sagt: „Gott hat in der Kirche eingesetzt: erstens Apostel, zweitens Propheten, drittens Lehrer[^bible-5c674ba9-3961-4fee-a67d-8b19e68d62a6]\.“ Wo also die Gaben des Herrn eingesetzt sind, dort müssen wir die Wahrheit lernen: bei denen, die jene Sukzession der Kirche besitzen, die von den Aposteln herkommt, und bei denen sich ein gesundes und untadeliges Verhalten findet, ebenso wie eine unverfälschte und unverdorbene Lehre\. Denn auch sie bewahren diesen unseren Glauben an den einen Gott, der alles geschaffen hat; sie lassen die Liebe wachsen, die wir zum Sohn Gottes haben, der um unseretwillen solche wunderbaren Heilsordnungen vollbracht hat; und sie legen uns die Schriften ohne Gefahr aus: Sie lästern Gott nicht, sie entehrten die Patriarchen nicht und sie verachten die Propheten nicht\.
+Solche Presbyter nährt die Kirche;
+von ihnen sagt auch der Prophet:
+„Ich werde dir deine Herrscher in Frieden geben und deine Bischöfe in Gerechtigkeit[^bible-c364ba3c-04e9-4895-ba24-d7281271bb40]\.“
+Von ihnen hat auch der Herr erklärt:
+„Wer ist also der treue Verwalter,
+gut und weise,
+den der Herr über sein Haus setzt,
+damit er ihnen zur rechten Zeit die Speise gibt?
+Selig ist jener Knecht,
+den sein Herr,
+wenn er kommt,
+so handelnd finden wird[^bible-3212b046-34c2-4bae-a1d0-cd5e112c038f]\.“
+Paulus lehrt uns nun,
+wo man solche Menschen finden kann,
+und sagt:
+„Gott hat in der Kirche eingesetzt:
+erstens Apostel,
+zweitens Propheten,
+drittens Lehrer[^bible-5c674ba9-3961-4fee-a67d-8b19e68d62a6]\.“
+Wo also die Gaben des Herrn eingesetzt sind,
+dort müssen wir die Wahrheit lernen:
+bei denen,
+die jene Sukzession der Kirche besitzen,
+die von den Aposteln herkommt,
+und bei denen sich ein gesundes und untadeliges Verhalten findet,
+ebenso wie eine unverfälschte und unverdorbene Lehre\.
+Denn auch sie bewahren diesen unseren Glauben an den einen Gott,
+der alles geschaffen hat;
+sie lassen die Liebe wachsen,
+die wir zum Sohn Gottes haben,
+der um unseretwillen solche wunderbaren Heilsordnungen vollbracht hat;
+und sie legen uns die Schriften ohne Gefahr aus:
+Sie lästern Gott nicht,
+sie entehrten die Patriarchen nicht und sie verachten die Propheten nicht\.
 
 ## Bibelverweise
 

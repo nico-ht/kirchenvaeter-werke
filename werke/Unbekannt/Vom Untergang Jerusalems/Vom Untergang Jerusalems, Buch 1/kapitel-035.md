@@ -7,8 +7,97 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-1#kapitel-1405c84f-20d2-4b01-c860-08dd5a4d0198).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f83f5e177e1f54519eb8f5095f4f62dce7ba425b7f9cc00803651df0bdce5696`
+So schmückte er im fünfzehnten Jahr seiner Herrschaft,
+um seinem glücklichen Stand und seiner Gunst zu entsprechen,
+erhoben durch einen so großen Erfolg günstiger Umstände,
+in seinem Streben nach Güte und um sich den himmlischen Göttern für die ihm grenzenlos zufließenden Wohltaten dankbar zu erweisen,
+den Tempel;
+den ganzen Raum rings um den Tempel umgab er mit einer Mauer,
+verdoppelte die Fläche und schloss sie mit großem Bauaufwand und erlesener Schönheit ein\.
+Als Beweis dafür dienten die großen überdachten Hallen rings um das Heiligtum,
+die er von Grund auf errichtete\.
+Dabei ging es ihm nicht weniger um Schutz als um Verschönerung;
+deshalb befestigte er die im Norden gelegene Burg,
+die er zu Ehren des Antonius Antonia nannte und die den höher gelegenen Palästen in nichts nachstand\.
+Auch in der Burg des königlichen Hauses fügte er zwei weitläufige Wohnsitze von wunderbarer Schönheit hinzu,
+deren Anmut man nichts mehr hinzuzufügen meinte\.
+Der eine wurde Caesarium genannt,
+der andere Agrippium,
+damit in seinen Wohnstätten das dauernde Andenken an so große Freunde gefeiert werde\.
+Auch den Bau der Stadt Sebaste vollendete er nicht nur,
+sondern füllte sie sogar mit Einwohnern\.
+Doch ich will nicht jedes Einzelne weiterverfolgen:
+Nicht leicht wurde irgendein Ort unter den alteingesessenen Städten übergangen;
+was im Verfall lag,
+stellte er wieder her oder schmückte es durch hinzugefügte Bauten,
+die sichtbar fehlten\.
+Indem er seine Gaben für die fünfjährigen Wettkämpfe ausschüttete,
+bereicherte er diese allgemeine Klasse von Menschen mit seinen ausgegossenen Reichtümern\.
+Nahe den Quellen des Jordan gründete er sogar,
+aller religiösen Bedenken uneingedenk,
+einen Tempel aus weißem Marmor für Caesar,
+sodass er einem Menschen einen Tempel weihte und einen Brauch der Heiden nach Judäa einführte\.
+Der Ort heißt Panium\.
+Dort ragt ein Berg von gewaltiger Höhe mit hohem Gipfel weit in die Luft empor;
+an seiner Seite findet sich eine düstere Höhle,
+durch die ein bedrückender Abgrund eines stinkenden Schlundes einen rauen,
+schädlichen Dunst ausatmet\.
+Im Inneren trafen die Wasser zusammen und besaßen,
+ohne jede Bewegung,
+große Kraft,
+sodass sich die grenzenlose Tiefe nicht abschätzen ließ;
+außen aber,
+rings um den Fuß des Berges selbst,
+sprudeln Quellen hervor\.
 
-So schmückte er im fünfzehnten Jahr seiner Herrschaft, um seinem glücklichen Stand und seiner Gunst zu entsprechen, erhoben durch einen so großen Erfolg günstiger Umstände, in seinem Streben nach Güte und um sich den himmlischen Göttern für die ihm grenzenlos zufließenden Wohltaten dankbar zu erweisen, den Tempel; den ganzen Raum rings um den Tempel umgab er mit einer Mauer, verdoppelte die Fläche und schloss sie mit großem Bauaufwand und erlesener Schönheit ein\. Als Beweis dafür dienten die großen überdachten Hallen rings um das Heiligtum, die er von Grund auf errichtete\. Dabei ging es ihm nicht weniger um Schutz als um Verschönerung; deshalb befestigte er die im Norden gelegene Burg, die er zu Ehren des Antonius Antonia nannte und die den höher gelegenen Palästen in nichts nachstand\. Auch in der Burg des königlichen Hauses fügte er zwei weitläufige Wohnsitze von wunderbarer Schönheit hinzu, deren Anmut man nichts mehr hinzuzufügen meinte\. Der eine wurde Caesarium genannt, der andere Agrippium, damit in seinen Wohnstätten das dauernde Andenken an so große Freunde gefeiert werde\. Auch den Bau der Stadt Sebaste vollendete er nicht nur, sondern füllte sie sogar mit Einwohnern\. Doch ich will nicht jedes Einzelne weiterverfolgen: Nicht leicht wurde irgendein Ort unter den alteingesessenen Städten übergangen; was im Verfall lag, stellte er wieder her oder schmückte es durch hinzugefügte Bauten, die sichtbar fehlten\. Indem er seine Gaben für die fünfjährigen Wettkämpfe ausschüttete, bereicherte er diese allgemeine Klasse von Menschen mit seinen ausgegossenen Reichtümern\. Nahe den Quellen des Jordan gründete er sogar, aller religiösen Bedenken uneingedenk, einen Tempel aus weißem Marmor für Caesar, sodass er einem Menschen einen Tempel weihte und einen Brauch der Heiden nach Judäa einführte\. Der Ort heißt Panium\. Dort ragt ein Berg von gewaltiger Höhe mit hohem Gipfel weit in die Luft empor; an seiner Seite findet sich eine düstere Höhle, durch die ein bedrückender Abgrund eines stinkenden Schlundes einen rauen, schädlichen Dunst ausatmet\. Im Inneren trafen die Wasser zusammen und besaßen, ohne jede Bewegung, große Kraft, sodass sich die grenzenlose Tiefe nicht abschätzen ließ; außen aber, rings um den Fuß des Berges selbst, sprudeln Quellen hervor\.
-
-Daher haben viele gemeint, die Quelle des Jordan liege an diesem Ort; doch scheint uns, dass künftig noch ermittelt werden muss, was der Wahrheit entspricht\. In der Küstengegend gab es eine Stadt, die Turm des Strato genannt wurde\. Sie war durch häufige Kriege bereits erschöpft und durch ihr eigenes Alter bis zum Verfall verfallen, ragte aber durch die günstige und reizvolle Lage hervor\. Diese erneuerte er mit weißem Stein und Gebäuden nach Art des kaiserlichen Hofes, und darin zeigte er das Gepräge seiner Großherzigkeit und die Eleganz des Werkes\. Denn da sie in der Mitte zwischen den beiden Küstenstädten Dora und Iopen liegt, ist sie nach beiden Seiten von einer hafenlosen Küste eingeschlossen, sodass alle, wer sie auch seien, die von Ägypten nach Phönizien reisen wollen, auf dem Meer hin und her geworfen werden, weil dort das Meer häufig von den Winden aufgewühlt wird, besonders von den Stößen des Südwestwinds\. Schon bei dessen mäßigerem Wehen entsteht Aufruhr; und ebenso reizt das Meer, wenn es gegen vorspringende Felsen schlägt und vom gebrochenen Anprall zurückgeworfen wird, durch sein Nachgeben die wilde See noch mehr\. So setzte der König den Ausgaben keine Grenze, bezwang die Natur durch Großmut und legte einen Hafen an, größer als der Piräus; darin durchbrach er die Verheerung der Felsen und schuf sichere Anlegeplätze\. Nachdem er auch die Entfernung ausgemessen hatte, bis zu der der Hafen reichen sollte, versenkte er gewaltige Felsen im Meer; bei diesen betrug die Tiefe fünfzig Fuß, bei anderen sogar noch mehr\. Den Hafen selbst gliederte er durch große Türme, von denen er einen Drusium nannte, damit der Name des Drusus, der zu Caesars Vorfahren gehörte, in seine weithin sichtbaren Werke eingeflochten werde\. Auch legte er in häufigeren Abständen niedrigere Stufen an, über die Schiffe ohne schwere Mühe heraufgezogen werden konnten; außerdem verschönerte er die ganze Anmut dieses Hafens mit drei riesigen Statuen\. Ferner errichtete er an erhöhter Stelle einen Tempel für Caesar, und in die Mitte des Tempels stellte er eine große Statue mit dem Namen Augustus als Abbild des Mannes selbst; sie war nicht kleiner als das Abbild des olympischen Jupiter oder der Juno von Argos\. Man würde bei so großen Schwierigkeiten die Schönheit und die Stärke des Werkes kaum erkennen, und man könnte meinen, bei solcher Schönheit rage besonders der Schutz hervor, da das Werk gegen Meer und Alter unzerstörbar bleibt\. So kommen in einem einzigen Werk viele Vorteile zusammen: Der Provinz wird eine große Stadt hinzugefügt, den Seeleuten ein Hafen und Caesar Ehre; nach seinem Namen wurde sie zu dieser Zeit Caesarea genannt\.
+Daher haben viele gemeint,
+die Quelle des Jordan liege an diesem Ort;
+doch scheint uns,
+dass künftig noch ermittelt werden muss,
+was der Wahrheit entspricht\.
+In der Küstengegend gab es eine Stadt,
+die Turm des Strato genannt wurde\.
+Sie war durch häufige Kriege bereits erschöpft und durch ihr eigenes Alter bis zum Verfall verfallen,
+ragte aber durch die günstige und reizvolle Lage hervor\.
+Diese erneuerte er mit weißem Stein und Gebäuden nach Art des kaiserlichen Hofes,
+und darin zeigte er das Gepräge seiner Großherzigkeit und die Eleganz des Werkes\.
+Denn da sie in der Mitte zwischen den beiden Küstenstädten Dora und Iopen liegt,
+ist sie nach beiden Seiten von einer hafenlosen Küste eingeschlossen,
+sodass alle,
+wer sie auch seien,
+die von Ägypten nach Phönizien reisen wollen,
+auf dem Meer hin und her geworfen werden,
+weil dort das Meer häufig von den Winden aufgewühlt wird,
+besonders von den Stößen des Südwestwinds\.
+Schon bei dessen mäßigerem Wehen entsteht Aufruhr;
+und ebenso reizt das Meer,
+wenn es gegen vorspringende Felsen schlägt und vom gebrochenen Anprall zurückgeworfen wird,
+durch sein Nachgeben die wilde See noch mehr\.
+So setzte der König den Ausgaben keine Grenze,
+bezwang die Natur durch Großmut und legte einen Hafen an,
+größer als der Piräus;
+darin durchbrach er die Verheerung der Felsen und schuf sichere Anlegeplätze\.
+Nachdem er auch die Entfernung ausgemessen hatte,
+bis zu der der Hafen reichen sollte,
+versenkte er gewaltige Felsen im Meer;
+bei diesen betrug die Tiefe fünfzig Fuß,
+bei anderen sogar noch mehr\.
+Den Hafen selbst gliederte er durch große Türme,
+von denen er einen Drusium nannte,
+damit der Name des Drusus,
+der zu Caesars Vorfahren gehörte,
+in seine weithin sichtbaren Werke eingeflochten werde\.
+Auch legte er in häufigeren Abständen niedrigere Stufen an,
+über die Schiffe ohne schwere Mühe heraufgezogen werden konnten;
+außerdem verschönerte er die ganze Anmut dieses Hafens mit drei riesigen Statuen\.
+Ferner errichtete er an erhöhter Stelle einen Tempel für Caesar,
+und in die Mitte des Tempels stellte er eine große Statue mit dem Namen Augustus als Abbild des Mannes selbst;
+sie war nicht kleiner als das Abbild des olympischen Jupiter oder der Juno von Argos\.
+Man würde bei so großen Schwierigkeiten die Schönheit und die Stärke des Werkes kaum erkennen,
+und man könnte meinen,
+bei solcher Schönheit rage besonders der Schutz hervor,
+da das Werk gegen Meer und Alter unzerstörbar bleibt\.
+So kommen in einem einzigen Werk viele Vorteile zusammen:
+Der Provinz wird eine große Stadt hinzugefügt,
+den Seeleuten ein Hafen und Caesar Ehre;
+nach seinem Namen wurde sie zu dieser Zeit Caesarea genannt\.

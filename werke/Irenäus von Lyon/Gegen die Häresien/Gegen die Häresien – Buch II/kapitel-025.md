@@ -7,12 +7,112 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-ii#kapitel-47387856-6e89-48b2-0355-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e73ac01c961260c36b4a4f60a3159cf0427e1caeac38c9f3bf738c4adb184acd`
+Wenn nun jemand darauf erwidert:
+„Was also?
+Ist es bedeutungslos und zufällig,
+dass die Stellung der Namen,
+die Erwählung der Apostel,
+das Wirken des Herrn und die Ordnung der geschaffenen Dinge so sind,
+wie sie sind?“,
+dann antworten wir ihnen:
+Keineswegs\.
+Vielmehr ist alles offenkundig von Gott mit großer Weisheit und Sorgfalt gemacht,
+gefügt und für seinen besonderen Zweck bereitet worden;
+sein Wort hat sowohl die Dinge der alten Zeit als auch die der letzten Zeiten geformt\.
+Die Menschen dürfen solche Dinge nicht mit der Zahl Dreißig verknüpfen,
+sondern müssen sie mit dem,
+was wirklich besteht,
+oder mit der rechten Vernunft in Einklang bringen\.
+Auch sollen sie ihre Untersuchungen über Gott nicht anhand von Zahlen,
+Silben und Buchstaben betreiben\.
+Denn wegen ihrer vielfältigen und verschiedenartigen Systeme ist dies ein unsicheres Verfahren,
+und weil auch heute auf gleiche Weise jeder jede Art von Hypothese ersinnen kann;
+so können sie gerade aus diesen Theorien Beweise gegen die Wahrheit ableiten,
+weil diese sich in viele verschiedene Richtungen wenden lassen\.
+Im Gegenteil:
+Sie müssen die Zahlen selbst und die geformten Dinge der vorliegenden wahren Theorie anpassen\.
+Denn das System entspringt nicht aus den Zahlen,
+sondern die Zahlen aus einem System;
+auch hat Gott sein Sein nicht von den geschaffenen Dingen,
+sondern die geschaffenen Dinge haben ihr Sein von Gott\.
+Denn alles hat seinen Ursprung in dem einen und selben Gott\.
 
-Wenn nun jemand darauf erwidert: „Was also? Ist es bedeutungslos und zufällig, dass die Stellung der Namen, die Erwählung der Apostel, das Wirken des Herrn und die Ordnung der geschaffenen Dinge so sind, wie sie sind?“, dann antworten wir ihnen: Keineswegs\. Vielmehr ist alles offenkundig von Gott mit großer Weisheit und Sorgfalt gemacht, gefügt und für seinen besonderen Zweck bereitet worden; sein Wort hat sowohl die Dinge der alten Zeit als auch die der letzten Zeiten geformt\. Die Menschen dürfen solche Dinge nicht mit der Zahl Dreißig verknüpfen, sondern müssen sie mit dem, was wirklich besteht, oder mit der rechten Vernunft in Einklang bringen\. Auch sollen sie ihre Untersuchungen über Gott nicht anhand von Zahlen, Silben und Buchstaben betreiben\. Denn wegen ihrer vielfältigen und verschiedenartigen Systeme ist dies ein unsicheres Verfahren, und weil auch heute auf gleiche Weise jeder jede Art von Hypothese ersinnen kann; so können sie gerade aus diesen Theorien Beweise gegen die Wahrheit ableiten, weil diese sich in viele verschiedene Richtungen wenden lassen\. Im Gegenteil: Sie müssen die Zahlen selbst und die geformten Dinge der vorliegenden wahren Theorie anpassen\. Denn das System entspringt nicht aus den Zahlen, sondern die Zahlen aus einem System; auch hat Gott sein Sein nicht von den geschaffenen Dingen, sondern die geschaffenen Dinge haben ihr Sein von Gott\. Denn alles hat seinen Ursprung in dem einen und selben Gott\.
+Da aber die geschaffenen Dinge vielfältig und zahlreich sind,
+fügen sie sich zwar gut in die ganze Schöpfung ein und sind auf sie abgestimmt;
+für sich betrachtet jedoch stehen sie einander entgegen und klingen nicht zusammen\.
+So bringt auch der Klang der Leier,
+der aus vielen gegensätzlichen Tönen besteht,
+durch den Abstand,
+der jeden Ton von den anderen trennt,
+eine einzige ungebrochene Melodie hervor\.
+Wer die Wahrheit liebt,
+darf sich daher nicht durch den Abstand zwischen den einzelnen Tönen täuschen lassen;
+er soll auch nicht meinen,
+der eine Ton gehe auf den einen Künstler und Urheber zurück,
+der andere auf einen anderen,
+oder einer habe die hohen,
+ein anderer die tiefen und wieder ein anderer die mittleren Saiten gestimmt\.
+Vielmehr soll er daran festhalten,
+dass ein und derselbe das Ganze geformt hat,
+damit an dem ganzen Werk,
+diesem Erweis von Weisheit,
+Urteilsvermögen,
+Güte und Kunstfertigkeit sichtbar werden\.
+Auch die,
+die der Melodie zuhören,
+sollen den Künstler preisen und rühmen,
+bei einigen Tönen die Spannung bewundern,
+bei anderen auf die Weichheit achten,
+wieder andere zwischen diesen beiden Extremen heraushören und bei noch anderen die besondere Eigenart betrachten\.
+So sollen sie fragen,
+worauf jeder Ton zielt und worin der Grund für die Vielfalt der Töne liegt,
+und dabei niemals davon ablassen,
+unsere Regel anzuwenden:
+den einen Künstler nicht preiszugeben,
+den Glauben an den einen Gott,
+der alles geformt hat,
+nicht von sich zu werfen und unseren Schöpfer nicht zu lästern\.
 
-Da aber die geschaffenen Dinge vielfältig und zahlreich sind, fügen sie sich zwar gut in die ganze Schöpfung ein und sind auf sie abgestimmt; für sich betrachtet jedoch stehen sie einander entgegen und klingen nicht zusammen\. So bringt auch der Klang der Leier, der aus vielen gegensätzlichen Tönen besteht, durch den Abstand, der jeden Ton von den anderen trennt, eine einzige ungebrochene Melodie hervor\. Wer die Wahrheit liebt, darf sich daher nicht durch den Abstand zwischen den einzelnen Tönen täuschen lassen; er soll auch nicht meinen, der eine Ton gehe auf den einen Künstler und Urheber zurück, der andere auf einen anderen, oder einer habe die hohen, ein anderer die tiefen und wieder ein anderer die mittleren Saiten gestimmt\. Vielmehr soll er daran festhalten, dass ein und derselbe das Ganze geformt hat, damit an dem ganzen Werk, diesem Erweis von Weisheit, Urteilsvermögen, Güte und Kunstfertigkeit sichtbar werden\. Auch die, die der Melodie zuhören, sollen den Künstler preisen und rühmen, bei einigen Tönen die Spannung bewundern, bei anderen auf die Weichheit achten, wieder andere zwischen diesen beiden Extremen heraushören und bei noch anderen die besondere Eigenart betrachten\. So sollen sie fragen, worauf jeder Ton zielt und worin der Grund für die Vielfalt der Töne liegt, und dabei niemals davon ablassen, unsere Regel anzuwenden: den einen Künstler nicht preiszugeben, den Glauben an den einen Gott, der alles geformt hat, nicht von sich zu werfen und unseren Schöpfer nicht zu lästern\.
+Wenn jedoch jemand den Grund all der Dinge nicht entdeckt,
+die Gegenstand der Untersuchung werden,
+dann soll er bedenken:
+Der Mensch ist Gott unendlich unterlegen;
+er hat die Gnade nur zum Teil empfangen und ist seinem Schöpfer noch nicht gleich oder ähnlich;
+und ferner kann er nicht wie Gott alles erfahren oder begreifen\.
+Und in demselben Maß,
+wie der,
+der erst heute geformt wurde und den Anfang seiner Schöpfung empfangen hat,
+dem unterlegen ist,
+der ungeschaffen und immer derselbe ist,
+in diesem Maß ist er,
+was Wissen und die Fähigkeit betrifft,
+die Ursachen aller Dinge zu erforschen,
+dem unterlegen,
+der ihn gemacht hat\.
+Denn du,
+Mensch,
+bist kein ungeschaffenes Wesen und hast auch nicht immer zusammen mit Gott existiert wie sein eigenes Wort;
+sondern indem du jetzt durch seine überragende Güte den Anfang deiner Schöpfung empfängst,
+lernst du nach und nach vom Wort die Heilsordnungen Gottes kennen,
+der dich gemacht hat\.
 
-Wenn jedoch jemand den Grund all der Dinge nicht entdeckt, die Gegenstand der Untersuchung werden, dann soll er bedenken: Der Mensch ist Gott unendlich unterlegen; er hat die Gnade nur zum Teil empfangen und ist seinem Schöpfer noch nicht gleich oder ähnlich; und ferner kann er nicht wie Gott alles erfahren oder begreifen\. Und in demselben Maß, wie der, der erst heute geformt wurde und den Anfang seiner Schöpfung empfangen hat, dem unterlegen ist, der ungeschaffen und immer derselbe ist, in diesem Maß ist er, was Wissen und die Fähigkeit betrifft, die Ursachen aller Dinge zu erforschen, dem unterlegen, der ihn gemacht hat\. Denn du, Mensch, bist kein ungeschaffenes Wesen und hast auch nicht immer zusammen mit Gott existiert wie sein eigenes Wort; sondern indem du jetzt durch seine überragende Güte den Anfang deiner Schöpfung empfängst, lernst du nach und nach vom Wort die Heilsordnungen Gottes kennen, der dich gemacht hat\.
-
-Bewahre also die rechte Ordnung deiner Erkenntnis\. Suche nicht, weil du das wirklich Gute nicht kennst, dich über Gott selbst zu erheben; denn er kann nicht übertroffen werden\. Suche auch niemanden über dem Schöpfer; einen solchen wirst du nicht finden\. Denn dein Bildner lässt sich nicht in Grenzen einschließen\. Selbst wenn du dieses ganze Weltall ausmessen, seine ganze Schöpfung durchschreiten und sie in ihrer ganzen Tiefe, Höhe und Länge betrachten würdest, könntest du keinen anderen über dem Vater selbst begreifen\. Denn du wirst ihn nicht vollständig erfassen können; wenn du dich aber Gedankengängen hingibst, die deiner Natur widersprechen, wirst du dich als dumm erweisen\. Und wenn du auf diesem Weg beharrst, wirst du in völligen Wahnsinn fallen, während du dich für höher und größer hältst als deinen Schöpfer und dir einbildest, du könntest über seine Herrschaftsbereiche hinausdringen\.
+Bewahre also die rechte Ordnung deiner Erkenntnis\.
+Suche nicht,
+weil du das wirklich Gute nicht kennst,
+dich über Gott selbst zu erheben;
+denn er kann nicht übertroffen werden\.
+Suche auch niemanden über dem Schöpfer;
+einen solchen wirst du nicht finden\.
+Denn dein Bildner lässt sich nicht in Grenzen einschließen\.
+Selbst wenn du dieses ganze Weltall ausmessen,
+seine ganze Schöpfung durchschreiten und sie in ihrer ganzen Tiefe,
+Höhe und Länge betrachten würdest,
+könntest du keinen anderen über dem Vater selbst begreifen\.
+Denn du wirst ihn nicht vollständig erfassen können;
+wenn du dich aber Gedankengängen hingibst,
+die deiner Natur widersprechen,
+wirst du dich als dumm erweisen\.
+Und wenn du auf diesem Weg beharrst,
+wirst du in völligen Wahnsinn fallen,
+während du dich für höher und größer hältst als deinen Schöpfer und dir einbildest,
+du könntest über seine Herrschaftsbereiche hinausdringen\.

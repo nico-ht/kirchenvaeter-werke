@@ -7,9 +7,52 @@ Autor: Clemens von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-alexandria/welcher-reiche-wird-gerettet-werden#kapitel-589d94a9-24de-4a89-5459-08df013cfca0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3825d81c14b40de7fb7ceb75bfe454d95682b45abf68c38e467d8de929b15bd7`
-
-Wer also die Wahrheit und die Brüder liebt, soll den reichen Berufenen weder anmaßend und dreist entgegentreten noch sich ihnen aus eigener Gewinnsucht unterwerfen\. Zunächst gilt es vielmehr, ihnen durch vernünftige Unterweisung die leere Verzweiflung zu nehmen und ihnen durch die gebotene Auslegung der Worte des Herrn zu zeigen, dass ihnen das Erbe des Himmelreichs nicht gänzlich versagt ist, sofern sie den Geboten gehorchen\. Sobald sie dann erkannt haben, dass sie grundlos Furcht hegen und der Erlöser sie, wenn sie willig zu ihm kommen, freudig aufnimmt, muss man ihnen vor Augen führen und sie darin einweihen, wie und durch welche Taten und inneren Einstellungen sie am Erhofften Anteil erlangen können: Es ist für sie weder unerreichbar, noch fällt es ihnen umgekehrt ohne Weiteres zu\. Vielmehr soll jeder, der nach den Maßstäben der Welt reich ist, bei sich bedenken, dass es sich damit ebenso verhält wie bei den Athleten, um Kleines und Vergängliches mit Großem und Unvergänglichem zu vergleichen\. Wer von ihnen jede Hoffnung aufgegeben hat, siegen und Kränze erringen zu können, lässt sich gar nicht erst zum Wettkampf einschreiben\. Wer dagegen diese Hoffnung zwar gefasst hat, sich aber den Mühen, dem Training und der geeigneten Ernährung nicht unterzieht, bleibt ohne Kranz und verfehlt das Erhoffte\. Ebenso soll auch der, der diese irdische Hülle trägt, sich nicht von vornherein von den Wettkämpfen des Erlösers ausschließen, wenn er gläubig ist und die Größe der Menschenliebe Gottes erkennt\. Er soll aber auch nicht hoffen, ohne Training und Wettkampf, ohne Staub und Schweiß die Kränze der Unvergänglichkeit zu empfangen\. Vielmehr soll er sich dem Wort als seinem Trainer und Christus als seinem Kampfrichter anvertrauen\. Als vorgeschriebene Speise und vorgeschriebener Trank diene ihm der neue Bund des Herrn, als Übungen die Gebote und als sittliche Zier die guten inneren Einstellungen: Liebe, Glaube, Hoffnung, Erkenntnis der Wahrheit, Sanftmut, Erbarmen und Würde\. Wenn dann die letzte Posaune ertönt[^bible-39b084ea-862e-4838-8258-f485524ea9d2] und damit das Ende seines Laufs und den Aufbruch von hier ankündigt, soll er wie aus dem Stadion des Lebens mit gutem Gewissen als Sieger vor den Kampfrichter treten, als der Heimat droben würdig anerkannt, in die er mit Siegeskränzen und unter den Verkündigungsrufen der Engel heimkehrt\.
+Wer also die Wahrheit und die Brüder liebt,
+soll den reichen Berufenen weder anmaßend und dreist entgegentreten noch sich ihnen aus eigener Gewinnsucht unterwerfen\.
+Zunächst gilt es vielmehr,
+ihnen durch vernünftige Unterweisung die leere Verzweiflung zu nehmen und ihnen durch die gebotene Auslegung der Worte des Herrn zu zeigen,
+dass ihnen das Erbe des Himmelreichs nicht gänzlich versagt ist,
+sofern sie den Geboten gehorchen\.
+Sobald sie dann erkannt haben,
+dass sie grundlos Furcht hegen und der Erlöser sie,
+wenn sie willig zu ihm kommen,
+freudig aufnimmt,
+muss man ihnen vor Augen führen und sie darin einweihen,
+wie und durch welche Taten und inneren Einstellungen sie am Erhofften Anteil erlangen können:
+Es ist für sie weder unerreichbar,
+noch fällt es ihnen umgekehrt ohne Weiteres zu\.
+Vielmehr soll jeder,
+der nach den Maßstäben der Welt reich ist,
+bei sich bedenken,
+dass es sich damit ebenso verhält wie bei den Athleten,
+um Kleines und Vergängliches mit Großem und Unvergänglichem zu vergleichen\.
+Wer von ihnen jede Hoffnung aufgegeben hat,
+siegen und Kränze erringen zu können,
+lässt sich gar nicht erst zum Wettkampf einschreiben\.
+Wer dagegen diese Hoffnung zwar gefasst hat,
+sich aber den Mühen,
+dem Training und der geeigneten Ernährung nicht unterzieht,
+bleibt ohne Kranz und verfehlt das Erhoffte\.
+Ebenso soll auch der,
+der diese irdische Hülle trägt,
+sich nicht von vornherein von den Wettkämpfen des Erlösers ausschließen,
+wenn er gläubig ist und die Größe der Menschenliebe Gottes erkennt\.
+Er soll aber auch nicht hoffen,
+ohne Training und Wettkampf,
+ohne Staub und Schweiß die Kränze der Unvergänglichkeit zu empfangen\.
+Vielmehr soll er sich dem Wort als seinem Trainer und Christus als seinem Kampfrichter anvertrauen\.
+Als vorgeschriebene Speise und vorgeschriebener Trank diene ihm der neue Bund des Herrn,
+als Übungen die Gebote und als sittliche Zier die guten inneren Einstellungen:
+Liebe,
+Glaube,
+Hoffnung,
+Erkenntnis der Wahrheit,
+Sanftmut,
+Erbarmen und Würde\.
+Wenn dann die letzte Posaune ertönt[^bible-39b084ea-862e-4838-8258-f485524ea9d2] und damit das Ende seines Laufs und den Aufbruch von hier ankündigt,
+soll er wie aus dem Stadion des Lebens mit gutem Gewissen als Sieger vor den Kampfrichter treten,
+als der Heimat droben würdig anerkannt,
+in die er mit Siegeskränzen und unter den Verkündigungsrufen der Engel heimkehrt\.
 
 ## Bibelverweise
 

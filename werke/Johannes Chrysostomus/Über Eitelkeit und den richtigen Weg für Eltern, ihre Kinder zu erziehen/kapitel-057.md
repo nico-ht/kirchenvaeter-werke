@@ -7,6 +7,12 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-eitelkeit-und-den-richtigen-weg-fuer-eltern-ihre-kinder-zu-erziehen#kapitel-8a62c8b6-0d52-4c16-cfd3-08ddc86f66b7).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:4f9941591e71d2ee6bd4699155008ef413fe36a9b3bf5edadb51a48e310f4c91`
-
-Dass er nicht durch sein eigenes Erscheinungsbild darunter leidet, muss unser sorgfältiges Nachdenken erfordern\. Wir müssen den Hauptteil seines körperlichen Reizes entfernen, indem wir die Locken auf seinem Kopf rundherum abschneiden, um eine strenge Einfachheit zu erreichen\. Wenn der Junge sich beschwert, weil ihm dieser Reiz genommen wird, lasse ihn zunächst lernen, dass der größte Reiz die Einfachheit ist\.
+Dass er nicht durch sein eigenes Erscheinungsbild darunter leidet,
+muss unser sorgfältiges Nachdenken erfordern\.
+Wir müssen den Hauptteil seines körperlichen Reizes entfernen,
+indem wir die Locken auf seinem Kopf rundherum abschneiden,
+um eine strenge Einfachheit zu erreichen\.
+Wenn der Junge sich beschwert,
+weil ihm dieser Reiz genommen wird,
+lasse ihn zunächst lernen,
+dass der größte Reiz die Einfachheit ist\.

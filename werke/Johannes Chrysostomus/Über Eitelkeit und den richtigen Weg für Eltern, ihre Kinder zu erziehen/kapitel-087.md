@@ -7,6 +7,20 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-eitelkeit-und-den-richtigen-weg-fuer-eltern-ihre-kinder-zu-erziehen#kapitel-983db3a8-f9d1-46e2-b92a-08ddc88111a4).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:6937755266241ece1779f8ff2c00acd2c0db5c2a0b9d66ea4cdb9b09aae7bd5f`
-
-Durch diese Mittel wird er ein Mann von gutem Verstand und Anmut sein; denn nichts ist so produktiv für Torheit wie diese Leidenschaften\. Die Furcht vor Gott und die Fähigkeit, ein solches Urteil über die menschlichen Angelegenheiten zu fällen, wie es uns zusteht, sind ausreichend für Weisheit\. Der Gipfel der Weisheit besteht darin, sich nicht von kindischen Dingen erregen zu lassen\. So lasse ihn lernen, Reichtum, weltliches Ansehen, Macht, den Tod oder das gegenwärtige Leben auf Erden für nichts zu halten\. So wird er weise sein\. Wenn wir ihn mit einer solchen Ausbildung zur Hochzeitskammer führen, bedenke, welch großes Geschenk er der Braut sein wird\.
+Durch diese Mittel wird er ein Mann von gutem Verstand und Anmut sein;
+denn nichts ist so produktiv für Torheit wie diese Leidenschaften\.
+Die Furcht vor Gott und die Fähigkeit,
+ein solches Urteil über die menschlichen Angelegenheiten zu fällen,
+wie es uns zusteht,
+sind ausreichend für Weisheit\.
+Der Gipfel der Weisheit besteht darin,
+sich nicht von kindischen Dingen erregen zu lassen\.
+So lasse ihn lernen,
+Reichtum,
+weltliches Ansehen,
+Macht,
+den Tod oder das gegenwärtige Leben auf Erden für nichts zu halten\.
+So wird er weise sein\.
+Wenn wir ihn mit einer solchen Ausbildung zur Hochzeitskammer führen,
+bedenke,
+welch großes Geschenk er der Braut sein wird\.

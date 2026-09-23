@@ -7,6 +7,9 @@ Autor: Makarius der Ägypter
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/makarius-der-aegypter/ueber-die-bewahrung-des-herzens#kapitel-9e60ba11-813f-4cea-630f-08dd7599b139).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:035e412be46719ce2a8acf7046510b708bd265fa9b749852bc977d22952d5a88`
-
-Wie die äußeren Augen weit vorausschauen, Dornen und Abgründe sehen, so erkennt auch der scharfe, von der Vorsehung vorbereitete Verstand die Mächte und Fallstricke des Widersachers schnell und stärkt die Seele, deren Auge der Verstand ist, gegen sie\.
+Wie die äußeren Augen weit vorausschauen,
+Dornen und Abgründe sehen,
+so erkennt auch der scharfe,
+von der Vorsehung vorbereitete Verstand die Mächte und Fallstricke des Widersachers schnell und stärkt die Seele,
+deren Auge der Verstand ist,
+gegen sie\.

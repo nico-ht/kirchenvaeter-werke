@@ -7,25 +7,541 @@ Autor: Clemens von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-alexandria/der-erzieher-buch-1#kapitel-76f5d1ca-88cb-4ddf-5f95-08dd4d24197e).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:567d74b1d2bf31ac31938b6f8ea79523f1e28f8cb3d34e1efe788066d9aefb41`
+So setzt der Lehrer der Menschheit – unser göttlicher Logos – also jede Art von Stärke und jedes Werkzeug der Weisheit ein,
+um die Kleinen zu retten\!
+Er lehrt,
+weist zurecht,
+tadelt,
+korrigiert,
+droht,
+heilt,
+verheißt und verteilt Gaben,
+„und hält die irrationalen Triebe der Menschheit mit vielerlei Zügeln zurück\.“
+Kurz gesagt:
+Der Herr handelt uns gegenüber genau so,
+wie wir gegenüber unseren eigenen Kindern handeln\.
+Die Weisheit rät:
+„Hast du Kinder?
+Erziehe sie und beuge sie von ihrer Jugend an\.
+Hast du Töchter?
+Wache über ihre Körper und lächle sie nicht zu viel an\.“[^bible-632c2871-0a36-4101-8510-43589da2aae9]
+Dennoch lieben wir unsere Kinder – Söhne und Töchter – zutiefst,
+mehr als alles andere\!
+Jene,
+die aus Vergnügen Gesellschaft leisten,
+lieben nur das,
+was ihnen absolut keinen Schmerz bereitet\.
+Aber jene,
+die zum Nutzen korrigieren,
+mögen für eine Zeit lang hart erscheinen,
+doch auf lange Sicht helfen sie\.
+Der Herr zielte also nicht darauf ab,
+sofortiges Vergnügen zu bereiten,
+sondern auf zukünftige Freude\.
+Wir haben bereits gezeigt,
+wie er diese gütige und liebende Art des Lehrens anwendet,
+gestützt auf prophetisches Zeugnis\.
+„Korrektur“ ist also eine Art der Zurechtweisung,
+die lenkt und Verständnis einpflanzt\.
+Auf exakt diese Weise korrigiert uns der Lehrer – wie wenn das Evangelium sagt:
+„Wie oft wollte ich deine Kinder versammeln,
+wie eine Henne ihre Küken unter ihre Flügel sammelt,
+aber ihr wolltet nicht\.“[^bible-cede9e9f-9750-4795-aa38-33dcd6337c09]
+Wiederum warnt die Schrift und sagt:
+„Sie begingen Ehebruch mit Holz und Stein und brachten dem Baal Räucheropfer dar\.“[^bible-bc378966-6717-47e2-a918-7a41a1322d13]
+Der allergrößte Beweis seiner Güte ist,
+dass er,
+obwohl er die Schamlosigkeit des rebellischen Volkes ganz genau kennt,
+sie dennoch zur Umkehr ruft\!
+Durch Hesekiel sagt er:
+„Menschensohn,
+du lebst unter Skorpionen\.
+Sprich dennoch zu ihnen – vielleicht werden sie hören\.“[^bible-951e23ea-710e-4892-b727-d62f6a30ca61]
 
-So setzt der Lehrer der Menschheit – unser göttlicher Logos – also jede Art von Stärke und jedes Werkzeug der Weisheit ein, um die Kleinen zu retten\! Er lehrt, weist zurecht, tadelt, korrigiert, droht, heilt, verheißt und verteilt Gaben, „und hält die irrationalen Triebe der Menschheit mit vielerlei Zügeln zurück\.“ Kurz gesagt: Der Herr handelt uns gegenüber genau so, wie wir gegenüber unseren eigenen Kindern handeln\. Die Weisheit rät: „Hast du Kinder? Erziehe sie und beuge sie von ihrer Jugend an\. Hast du Töchter? Wache über ihre Körper und lächle sie nicht zu viel an\.“[^bible-632c2871-0a36-4101-8510-43589da2aae9] Dennoch lieben wir unsere Kinder – Söhne und Töchter – zutiefst, mehr als alles andere\! Jene, die aus Vergnügen Gesellschaft leisten, lieben nur das, was ihnen absolut keinen Schmerz bereitet\. Aber jene, die zum Nutzen korrigieren, mögen für eine Zeit lang hart erscheinen, doch auf lange Sicht helfen sie\. Der Herr zielte also nicht darauf ab, sofortiges Vergnügen zu bereiten, sondern auf zukünftige Freude\. Wir haben bereits gezeigt, wie er diese gütige und liebende Art des Lehrens anwendet, gestützt auf prophetisches Zeugnis\. „Korrektur“ ist also eine Art der Zurechtweisung, die lenkt und Verständnis einpflanzt\. Auf exakt diese Weise korrigiert uns der Lehrer – wie wenn das Evangelium sagt: „Wie oft wollte ich deine Kinder versammeln, wie eine Henne ihre Küken unter ihre Flügel sammelt, aber ihr wolltet nicht\.“[^bible-cede9e9f-9750-4795-aa38-33dcd6337c09] Wiederum warnt die Schrift und sagt: „Sie begingen Ehebruch mit Holz und Stein und brachten dem Baal Räucheropfer dar\.“[^bible-bc378966-6717-47e2-a918-7a41a1322d13] Der allergrößte Beweis seiner Güte ist, dass er, obwohl er die Schamlosigkeit des rebellischen Volkes ganz genau kennt, sie dennoch zur Umkehr ruft\! Durch Hesekiel sagt er: „Menschensohn, du lebst unter Skorpionen\. Sprich dennoch zu ihnen – vielleicht werden sie hören\.“[^bible-951e23ea-710e-4892-b727-d62f6a30ca61]
+Und zu Mose sagt er:
+„Geh hin und sprich zum Pharao,
+dass er das Volk ziehen lasse\.“[^bible-f4cbf153-192d-4a0a-bfe8-eff3652f765c]
+Aber er sagt auch:
+„Ich weiß,
+er wird sie nicht ziehen lassen\.“[^bible-2a90ddbb-11a3-4eb0-a194-eac17ef3b6df]
+Das zeigt sowohl sein göttliches Vorherwissen als auch seine Güte – er gibt dem freien Willen der Seele eine Gelegenheit zur Umkehr\!
+Er warnt auch durch Jesaja aus Sorge um das Volk und sagt:
+„Dieses Volk ehrt mich mit den Lippen,
+aber ihr Herz ist weit entfernt von mir\.“[^bible-66418a3f-3e95-4935-85fb-62146743bde2]
+Dies ist eine Zurechtweisung,
+die aufdeckt\.
+„Sie beten mich vergeblich an,
+indem sie von Menschen gemachte Regeln lehren\.“[^bible-ec838399-3467-41eb-a5ce-417396e6f32d]
+Hier offenbart die liebende Fürsorge die Sünde und zeigt sogleich den Weg der Rettung auf\.
+„Tadel“ ist eine Zurechtweisung gegen schändliche Taten,
+die den guten nahekommen\.
+Jeremia zeigt dies,
+wenn er schreibt:
+„Sie sind zu wilden Hengsten geworden;
+jeder wiehert nach der Frau seines Nächsten\.
+Sollte ich sie dafür nicht bestrafen?
+Sollte ich mich nicht an einem solchen Volk rächen?“[^bible-b1416951-8422-4f7c-b0ee-9d65a45e11fc]
+Und überall mischt er Furcht hinein,
+denn „die Furcht des Herrn ist der Anfang der Erkenntnis\.“[^bible-1163e76e-f28f-49e9-8208-38fb965c3c19]
+Wiederum durch Hosea:
+„Sollte ich sie nicht bestrafen?
+Sie mischen sich unter Prostituierte und bringen Opfer dar mit denen,
+die ihre Riten beendet haben\.
+Das Volk,
+das Einsicht hat,
+ließ sich mit der Hure ein\.“[^bible-b3d58a95-7990-4465-9fff-fa4ca150579f]
+Das macht ihre Sünde noch viel deutlicher,
+da es zeigt,
+dass sie willentlich sündigten\!
+Und Verständnis ist wie das Augenlicht für die Seele\.
+Genau deshalb bedeutet Israel – derjenige,
+der „Gott sieht“ – derjenige,
+der Gott versteht\.
+„Vorwurf“ ist eine Zurechtweisung,
+die sich an jene richtet,
+die unvorsichtig oder nachlässig sind\.
+Diese Art der Unterweisung wird durch Jesaja angewandt,
+wenn er sagt:
+„Hört,
+ihr Himmel,
+und lausche,
+du Erde,
+denn der Herr hat gesprochen:
+Ich habe Kinder aufgezogen und geehrt,
+aber sie haben mich verworfen\.
+Der Ochse kennt seinen Besitzer und der Esel die Krippe seines Herrn,
+aber Israel kennt mich nicht\.“[^bible-89d44b58-9e44-487d-b8db-709530489149]
+Wie schrecklich\!
+Dass jemand,
+der Gott kennt,
+seinen Herrn nicht erkennt – während der Ochse und der Esel,
+langsame und törichte Tiere,
+denjenigen erkennen,
+der sie füttert,
+und Israel sich als noch weitaus sinnloser erweist als sie\!
+Und durch Jeremia,
+nach viel Vorwurf,
+fügt der Herr hinzu:
+„Und sie haben mich verlassen,
+spricht der Herr\.“[^bible-da9953ed-1ace-41eb-92b7-a895eaa93452]
 
-Und zu Mose sagt er: „Geh hin und sprich zum Pharao, dass er das Volk ziehen lasse\.“[^bible-f4cbf153-192d-4a0a-bfe8-eff3652f765c] Aber er sagt auch: „Ich weiß, er wird sie nicht ziehen lassen\.“[^bible-2a90ddbb-11a3-4eb0-a194-eac17ef3b6df] Das zeigt sowohl sein göttliches Vorherwissen als auch seine Güte – er gibt dem freien Willen der Seele eine Gelegenheit zur Umkehr\! Er warnt auch durch Jesaja aus Sorge um das Volk und sagt: „Dieses Volk ehrt mich mit den Lippen, aber ihr Herz ist weit entfernt von mir\.“[^bible-66418a3f-3e95-4935-85fb-62146743bde2] Dies ist eine Zurechtweisung, die aufdeckt\. „Sie beten mich vergeblich an, indem sie von Menschen gemachte Regeln lehren\.“[^bible-ec838399-3467-41eb-a5ce-417396e6f32d] Hier offenbart die liebende Fürsorge die Sünde und zeigt sogleich den Weg der Rettung auf\. „Tadel“ ist eine Zurechtweisung gegen schändliche Taten, die den guten nahekommen\. Jeremia zeigt dies, wenn er schreibt: „Sie sind zu wilden Hengsten geworden; jeder wiehert nach der Frau seines Nächsten\. Sollte ich sie dafür nicht bestrafen? Sollte ich mich nicht an einem solchen Volk rächen?“[^bible-b1416951-8422-4f7c-b0ee-9d65a45e11fc] Und überall mischt er Furcht hinein, denn „die Furcht des Herrn ist der Anfang der Erkenntnis\.“[^bible-1163e76e-f28f-49e9-8208-38fb965c3c19] Wiederum durch Hosea: „Sollte ich sie nicht bestrafen? Sie mischen sich unter Prostituierte und bringen Opfer dar mit denen, die ihre Riten beendet haben\. Das Volk, das Einsicht hat, ließ sich mit der Hure ein\.“[^bible-b3d58a95-7990-4465-9fff-fa4ca150579f] Das macht ihre Sünde noch viel deutlicher, da es zeigt, dass sie willentlich sündigten\! Und Verständnis ist wie das Augenlicht für die Seele\. Genau deshalb bedeutet Israel – derjenige, der „Gott sieht“ – derjenige, der Gott versteht\. „Vorwurf“ ist eine Zurechtweisung, die sich an jene richtet, die unvorsichtig oder nachlässig sind\. Diese Art der Unterweisung wird durch Jesaja angewandt, wenn er sagt: „Hört, ihr Himmel, und lausche, du Erde, denn der Herr hat gesprochen: Ich habe Kinder aufgezogen und geehrt, aber sie haben mich verworfen\. Der Ochse kennt seinen Besitzer und der Esel die Krippe seines Herrn, aber Israel kennt mich nicht\.“[^bible-89d44b58-9e44-487d-b8db-709530489149] Wie schrecklich\! Dass jemand, der Gott kennt, seinen Herrn nicht erkennt – während der Ochse und der Esel, langsame und törichte Tiere, denjenigen erkennen, der sie füttert, und Israel sich als noch weitaus sinnloser erweist als sie\! Und durch Jeremia, nach viel Vorwurf, fügt der Herr hinzu: „Und sie haben mich verlassen, spricht der Herr\.“[^bible-da9953ed-1ace-41eb-92b7-a895eaa93452]
+„Schmähung“ ist eine überaus treffende Art der Zurechtweisung – hart und konfrontativ\!
+Der Lehrer wendet diese Heilmethode auch durch Jesaja an,
+wenn er sagt:
+„Wehe den abtrünnigen Kindern\!
+spricht der Herr\.
+Ihr macht Pläne ohne mich,
+und ihr schließt Bündnisse ohne meinen Geist\.“[^bible-ea713623-54e2-461d-ba9a-5bb70779eccd]
+Hier wendet er die stärkste Art von Strenge an und verbindet sie mit Furcht,
+um sie zum Schweigen zu bringen und zur Rettung umzukehren – genau wie Stoff beim Färben hart geschlagen wird,
+damit er die Farbe richtig aufnehmen kann\!
+„Bloßstellung“ ist,
+wenn die Sünde offen ans Licht gebracht wird\.
+Dies ist eines der absolut notwendigsten Werkzeuge der Lehre,
+da viele Menschen einen schwachen Glauben haben\.
+Durch Jesaja sagt er:
+„Ihr habt den Herrn verlassen und den Heiligen Israels erzürnt\.“[^bible-b020b9fc-29d2-4ffb-b7d8-0a6ff7bf5966]
+Und durch Jeremia:
+„Die Himmel sind entsetzt und die Erde erbebt gewaltig,
+denn dieses Volk hat zwei Übel begangen:
+Sie haben mich,
+die Quelle des lebendigen Wassers,
+verlassen und sich rissige Zisternen gegraben,
+die kein Wasser halten können\.“[^bible-0dbf7283-7936-49bc-94e5-cd997dc3215c]
+Wiederum sagt er:
+„Jerusalem hat schwer gesündigt – deshalb ist sie unbeständig geworden\.
+Alle,
+die sie ehrten,
+haben sie beschämt,
+weil sie ihre Schande gesehen haben\.“[^bible-d5388a3c-cf54-47fd-8f55-c46848088c1b]
+Diese Art der harten und treffenden Bloßstellung wird durch Salomo abgemildert,
+der uns tröstet und dabei dennoch korrigiert:
+„Mein Sohn,
+verachte nicht die Unterweisung des Herrn und werde nicht müde,
+wenn er dich zurechtweist\.
+Denn der Herr erzieht den,
+den er liebt,
+und schlägt jeden Sohn,
+den er annimmt\.“[^bible-3c5a3f63-fbda-4885-8f6e-e972294911dc]
+„Ein sündiger Mann meidet die Zurechtweisung“[^bible-269e1470-5657-4cea-ba22-40873a0e8428],
+heißt es\.
+Folglich fügt die Schrift hinzu:
+„Lass einen Gerechten mich korrigieren und mich schulen\.
+Aber das Öl eines Sünders soll mein Haupt nicht salben\.“[^bible-171fdc43-344f-4e3b-8d12-29a71ed94c42]
 
-„Schmähung“ ist eine überaus treffende Art der Zurechtweisung – hart und konfrontativ\! Der Lehrer wendet diese Heilmethode auch durch Jesaja an, wenn er sagt: „Wehe den abtrünnigen Kindern\! spricht der Herr\. Ihr macht Pläne ohne mich, und ihr schließt Bündnisse ohne meinen Geist\.“[^bible-ea713623-54e2-461d-ba9a-5bb70779eccd] Hier wendet er die stärkste Art von Strenge an und verbindet sie mit Furcht, um sie zum Schweigen zu bringen und zur Rettung umzukehren – genau wie Stoff beim Färben hart geschlagen wird, damit er die Farbe richtig aufnehmen kann\! „Bloßstellung“ ist, wenn die Sünde offen ans Licht gebracht wird\. Dies ist eines der absolut notwendigsten Werkzeuge der Lehre, da viele Menschen einen schwachen Glauben haben\. Durch Jesaja sagt er: „Ihr habt den Herrn verlassen und den Heiligen Israels erzürnt\.“[^bible-b020b9fc-29d2-4ffb-b7d8-0a6ff7bf5966] Und durch Jeremia: „Die Himmel sind entsetzt und die Erde erbebt gewaltig, denn dieses Volk hat zwei Übel begangen: Sie haben mich, die Quelle des lebendigen Wassers, verlassen und sich rissige Zisternen gegraben, die kein Wasser halten können\.“[^bible-0dbf7283-7936-49bc-94e5-cd997dc3215c] Wiederum sagt er: „Jerusalem hat schwer gesündigt – deshalb ist sie unbeständig geworden\. Alle, die sie ehrten, haben sie beschämt, weil sie ihre Schande gesehen haben\.“[^bible-d5388a3c-cf54-47fd-8f55-c46848088c1b] Diese Art der harten und treffenden Bloßstellung wird durch Salomo abgemildert, der uns tröstet und dabei dennoch korrigiert: „Mein Sohn, verachte nicht die Unterweisung des Herrn und werde nicht müde, wenn er dich zurechtweist\. Denn der Herr erzieht den, den er liebt, und schlägt jeden Sohn, den er annimmt\.“[^bible-3c5a3f63-fbda-4885-8f6e-e972294911dc] „Ein sündiger Mann meidet die Zurechtweisung“[^bible-269e1470-5657-4cea-ba22-40873a0e8428], heißt es\. Folglich fügt die Schrift hinzu: „Lass einen Gerechten mich korrigieren und mich schulen\. Aber das Öl eines Sünders soll mein Haupt nicht salben\.“[^bible-171fdc43-344f-4e3b-8d12-29a71ed94c42]
+„Führung“ ist eine Zurechtweisung,
+die Verständnis einpflanzt\.
+Der Lehrer weicht auch davor nicht zurück,
+sondern sagt durch Jeremia:
+„Wie lange soll ich rufen,
+und sie wollen nicht hören?
+Ihre Ohren sind unbeschnitten\.“[^bible-609900fc-99da-4d7f-a725-cb4089ba5c7c]
+Oh,
+was für eine gesegnete Geduld\!
+Wiederum sagt er durch denselben Propheten:
+„Alle Nationen sind unbeschnitten,
+und dieses Volk ist unbeschnitten am Herzen\.“[^bible-e2481464-9a60-46c8-9c6c-97125612a563]
+Und er sagt:
+„Sie sind ein rebellisches Volk,
+Kinder,
+die keinen Glauben haben\.“[^bible-110f0bb3-b3af-4c2f-a149-5af9908e14d5]
+„Überwachende Korrektur“ ist eine überaus starke Art der Zurechtweisung\.
+Der Herr wendet diese Methode im Evangelium an:
+„Jerusalem,
+Jerusalem,
+die du die Propheten tötest und die steinigst,
+die zu dir gesandt sind\.“[^bible-a364ec7f-7f6f-4bc6-a079-8dd2e0cf0e4a]
+Die Wiederholung des Namens macht die Zurechtweisung noch weitaus stärker\!
+Denn wie kann jemand,
+der Gott kennt,
+die Boten Gottes verfolgen?
+So sagt er:
+„Euer Haus wird euch verwüstet überlassen\.
+Denn ich sage euch:
+Ihr werdet mich nicht wiedersehen,
+bis ihr sagt:
+Gesegnet sei der,
+der da kommt im Namen des Herrn\.“[^bible-cd68c90e-ba61-458a-9970-d4ab47b50dd0]
+Wenn ihr die Güte nicht annehmen wollt,
+werdet ihr unweigerlich seine Macht kennenlernen\!
+„Beleidigung“ ist eine intensive Zurechtweisung\.
+Der Herr wendet dies in kleinen Mengen an,
+wie eine bittere Medizin,
+durch Jesaja:
+„Wehe der sündigen Nation,
+gesetzlosen Söhnen,
+einem Volk voller Sünden,
+einem bösen Samen\.“[^bible-741bbc44-cd8d-431c-9733-e7dbf5aaf3ff]
+Und im Evangelium durch Johannes sagt er:
+„Ihr Schlangen,
+ihr Otterngezücht\!“[^bible-046f2a9e-8c4d-4417-a0a8-9044e828181c]
+„Anklage“ ist eine Zurechtweisung derer,
+die Unrecht tun\.
+Der Lehrer wendet diese Form durch David an:
+„Ein Volk,
+das ich nicht kannte,
+diente mir und gehorchte auf den Klang meiner Stimme\.
+Fremde Söhne logen mich an und hinkten von ihren Pfaden\.“[^bible-29aa18c0-9884-47c8-9453-d39f3946f037]
+Und durch Jeremia:
+„Ich gab ihr einen Scheidebrief,
+und das treulose Juda fürchtete sich nicht\.“[^bible-30466ac4-7880-4794-b58c-761def7733e1]
+Wiederum:
+„Das Haus Israel hat mich verworfen,
+und das Haus Juda hat den Herrn belogen\.“[^bible-a78a26c9-e0fe-439a-b01e-6826c30a86e7]
 
-„Führung“ ist eine Zurechtweisung, die Verständnis einpflanzt\. Der Lehrer weicht auch davor nicht zurück, sondern sagt durch Jeremia: „Wie lange soll ich rufen, und sie wollen nicht hören? Ihre Ohren sind unbeschnitten\.“[^bible-609900fc-99da-4d7f-a725-cb4089ba5c7c] Oh, was für eine gesegnete Geduld\! Wiederum sagt er durch denselben Propheten: „Alle Nationen sind unbeschnitten, und dieses Volk ist unbeschnitten am Herzen\.“[^bible-e2481464-9a60-46c8-9c6c-97125612a563] Und er sagt: „Sie sind ein rebellisches Volk, Kinder, die keinen Glauben haben\.“[^bible-110f0bb3-b3af-4c2f-a149-5af9908e14d5] „Überwachende Korrektur“ ist eine überaus starke Art der Zurechtweisung\. Der Herr wendet diese Methode im Evangelium an: „Jerusalem, Jerusalem, die du die Propheten tötest und die steinigst, die zu dir gesandt sind\.“[^bible-a364ec7f-7f6f-4bc6-a079-8dd2e0cf0e4a] Die Wiederholung des Namens macht die Zurechtweisung noch weitaus stärker\! Denn wie kann jemand, der Gott kennt, die Boten Gottes verfolgen? So sagt er: „Euer Haus wird euch verwüstet überlassen\. Denn ich sage euch: Ihr werdet mich nicht wiedersehen, bis ihr sagt: Gesegnet sei der, der da kommt im Namen des Herrn\.“[^bible-cd68c90e-ba61-458a-9970-d4ab47b50dd0] Wenn ihr die Güte nicht annehmen wollt, werdet ihr unweigerlich seine Macht kennenlernen\! „Beleidigung“ ist eine intensive Zurechtweisung\. Der Herr wendet dies in kleinen Mengen an, wie eine bittere Medizin, durch Jesaja: „Wehe der sündigen Nation, gesetzlosen Söhnen, einem Volk voller Sünden, einem bösen Samen\.“[^bible-741bbc44-cd8d-431c-9733-e7dbf5aaf3ff] Und im Evangelium durch Johannes sagt er: „Ihr Schlangen, ihr Otterngezücht\!“[^bible-046f2a9e-8c4d-4417-a0a8-9044e828181c] „Anklage“ ist eine Zurechtweisung derer, die Unrecht tun\. Der Lehrer wendet diese Form durch David an: „Ein Volk, das ich nicht kannte, diente mir und gehorchte auf den Klang meiner Stimme\. Fremde Söhne logen mich an und hinkten von ihren Pfaden\.“[^bible-29aa18c0-9884-47c8-9453-d39f3946f037] Und durch Jeremia: „Ich gab ihr einen Scheidebrief, und das treulose Juda fürchtete sich nicht\.“[^bible-30466ac4-7880-4794-b58c-761def7733e1] Wiederum: „Das Haus Israel hat mich verworfen, und das Haus Juda hat den Herrn belogen\.“[^bible-a78a26c9-e0fe-439a-b01e-6826c30a86e7]
+„Klage“ ist eine verborgene Art der Zurechtweisung,
+die mit Weisheit als eine Form der Rettung gehandhabt wird,
+welche teilweise verschleiert ist\.
+Der Herr bedient sich dessen durch Jeremia:
+„Wie einsam sitzt die Stadt,
+die einst voller Menschen war\.
+Sie ist wie eine Witwe geworden\.
+Einst Fürstin der Provinzen,
+wurde sie zur Sklavin gemacht,
+weinend in der Nacht\.“[^bible-8e739d3f-0fb9-4efd-bcdc-d02b8586caa1]
+„Spöttische Bloßstellung“ ist eine Zurechtweisung,
+die öffentliche Schande bringt\.
+Der göttliche Lehrer wendet auch dies durch Jeremia an:
+„Du hast das Aussehen einer Prostituierten – du hast alle Scham verloren\.
+Hast du mich nicht einst ‚Vater‘ und ‚Herr deiner Jungfräulichkeit‘ genannt?“[^bible-e62b7599-b4d2-4e56-b788-5bbb97dfbcc1]
+Und wiederum:
+„Eine hübsche und bezaubernde Prostituierte,
+Meisterin der Zaubersprüche\.“[^bible-1f455777-fa2b-400e-8ae7-08cd0383bab3]
+Er benutzt den Namen der Prostitution,
+um das jungfräuliche Mädchen zu beschämen,
+ruft sie dann aber wieder zurück zu Reinheit und Würde\!
+„Verurteilung“ ist eine angemessene Zurechtweisung oder ein Tadel für Kinder,
+die über das Maß hinaus stolz werden\.
+Der Lehrer wandte dies bei Mose an,
+indem er sagte:
+„Kinder,
+die Tadel bringen,
+eine verdrehte und krumme Generation,
+ist das die Art,
+wie ihr dem Herrn vergeltet?
+Ein törichtes und unweises Volk\.
+Ist er nicht dein Vater,
+der dich gemacht hat?“[^bible-68847765-ca61-4a26-9462-a42f1c0d350d]
+Und durch Jesaja sagt er:
+„Deine Herrscher sind rebellisch,
+Kumpane von Dieben,
+sie lieben Bestechungsgelder,
+jagen nach Belohnungen,
+und sie verschaffen den Waisen kein Recht\.“[^bible-8cc79b88-3f1c-47bb-8165-5029a45f37a8]
+Ganz allgemein ist die Art und Weise,
+wie der Herr Furcht einsetzt,
+eine Technik,
+die zur Rettung führt,
+weil die Rettung von Menschen eine gute Sache ist\!
+Wie geschrieben steht:
+„Die Barmherzigkeit des Herrn ist über alles Fleisch – er weist zurecht,
+diszipliniert und lehrt wie ein Hirte seine Herde\.
+Er hat Erbarmen mit denen,
+die Disziplin annehmen,
+und mit denen,
+die hart arbeiten,
+um nahe bei ihm zu bleiben\.“[^bible-36cd4ecd-fbe3-48e9-badf-47d24517407c]
+Durch diese Art von Führung bewahrte er sechshunderttausend Mann zu Fuß,
+selbst als sie sich in ihrer Sturheit versammelten\!
+Er schlug sie,
+hatte Erbarmen mit ihnen,
+bestrafte sie,
+heilte sie – mit Mitgefühl und Disziplin\.
+„Denn so groß wie seine Barmherzigkeit ist,
+so ist auch seine Zurechtweisung\.“[^bible-f70701cf-6738-4a00-a293-d82586bda3d5]
+Es ist gut,
+nicht zu sündigen,
+aber es ist ebenso gut,
+nach dem Sündigen umzukehren – genau wie es am besten ist,
+immer gesund zu sein,
+aber die Genesung von einer Krankheit ist dennoch gut\!
+Deshalb sagt Salomo:
+„Schlage deinen Sohn mit einem Stab,
+und du wirst seine Seele vor dem Tod retten\.“[^bible-4bfc7075-7a4f-42d4-bfe2-2fed9e2f085f]
+Und wiederum:
+„Vermeide es nicht,
+ein Kind zu disziplinieren;
+richte es mit einem Stab gerade,
+und es wird nicht sterben\.“[^bible-7ceaeb2c-d67b-470c-9332-5863594f64e3]
+Zurechtweisung und Korrektur – genau wie ihre Namen nahelegen – sind wie Schläge für die Seele\.
+Sie bringen den Verstand wieder in Ordnung,
+halten ihn vom Tod fern und führen jene,
+die in die Sünde gezerrt werden,
+unmissverständlich zurück zur Selbstbeherrschung\!
 
-„Klage“ ist eine verborgene Art der Zurechtweisung, die mit Weisheit als eine Form der Rettung gehandhabt wird, welche teilweise verschleiert ist\. Der Herr bedient sich dessen durch Jeremia: „Wie einsam sitzt die Stadt, die einst voller Menschen war\. Sie ist wie eine Witwe geworden\. Einst Fürstin der Provinzen, wurde sie zur Sklavin gemacht, weinend in der Nacht\.“[^bible-8e739d3f-0fb9-4efd-bcdc-d02b8586caa1] „Spöttische Bloßstellung“ ist eine Zurechtweisung, die öffentliche Schande bringt\. Der göttliche Lehrer wendet auch dies durch Jeremia an: „Du hast das Aussehen einer Prostituierten – du hast alle Scham verloren\. Hast du mich nicht einst ‚Vater‘ und ‚Herr deiner Jungfräulichkeit‘ genannt?“[^bible-e62b7599-b4d2-4e56-b788-5bbb97dfbcc1] Und wiederum: „Eine hübsche und bezaubernde Prostituierte, Meisterin der Zaubersprüche\.“[^bible-1f455777-fa2b-400e-8ae7-08cd0383bab3] Er benutzt den Namen der Prostitution, um das jungfräuliche Mädchen zu beschämen, ruft sie dann aber wieder zurück zu Reinheit und Würde\! „Verurteilung“ ist eine angemessene Zurechtweisung oder ein Tadel für Kinder, die über das Maß hinaus stolz werden\. Der Lehrer wandte dies bei Mose an, indem er sagte: „Kinder, die Tadel bringen, eine verdrehte und krumme Generation, ist das die Art, wie ihr dem Herrn vergeltet? Ein törichtes und unweises Volk\. Ist er nicht dein Vater, der dich gemacht hat?“[^bible-68847765-ca61-4a26-9462-a42f1c0d350d] Und durch Jesaja sagt er: „Deine Herrscher sind rebellisch, Kumpane von Dieben, sie lieben Bestechungsgelder, jagen nach Belohnungen, und sie verschaffen den Waisen kein Recht\.“[^bible-8cc79b88-3f1c-47bb-8165-5029a45f37a8] Ganz allgemein ist die Art und Weise, wie der Herr Furcht einsetzt, eine Technik, die zur Rettung führt, weil die Rettung von Menschen eine gute Sache ist\! Wie geschrieben steht: „Die Barmherzigkeit des Herrn ist über alles Fleisch – er weist zurecht, diszipliniert und lehrt wie ein Hirte seine Herde\. Er hat Erbarmen mit denen, die Disziplin annehmen, und mit denen, die hart arbeiten, um nahe bei ihm zu bleiben\.“[^bible-36cd4ecd-fbe3-48e9-badf-47d24517407c] Durch diese Art von Führung bewahrte er sechshunderttausend Mann zu Fuß, selbst als sie sich in ihrer Sturheit versammelten\! Er schlug sie, hatte Erbarmen mit ihnen, bestrafte sie, heilte sie – mit Mitgefühl und Disziplin\. „Denn so groß wie seine Barmherzigkeit ist, so ist auch seine Zurechtweisung\.“[^bible-f70701cf-6738-4a00-a293-d82586bda3d5] Es ist gut, nicht zu sündigen, aber es ist ebenso gut, nach dem Sündigen umzukehren – genau wie es am besten ist, immer gesund zu sein, aber die Genesung von einer Krankheit ist dennoch gut\! Deshalb sagt Salomo: „Schlage deinen Sohn mit einem Stab, und du wirst seine Seele vor dem Tod retten\.“[^bible-4bfc7075-7a4f-42d4-bfe2-2fed9e2f085f] Und wiederum: „Vermeide es nicht, ein Kind zu disziplinieren; richte es mit einem Stab gerade, und es wird nicht sterben\.“[^bible-7ceaeb2c-d67b-470c-9332-5863594f64e3] Zurechtweisung und Korrektur – genau wie ihre Namen nahelegen – sind wie Schläge für die Seele\. Sie bringen den Verstand wieder in Ordnung, halten ihn vom Tod fern und führen jene, die in die Sünde gezerrt werden, unmissverständlich zurück zur Selbstbeherrschung\!
+Genau deshalb erkannte auch Platon,
+dass die Zurechtweisung die allergrößte Macht zur Besserung besitzt und die stärkste Form der Reinigung ist\!
+Er sagt,
+dass jemand,
+der zutiefst befleckt und schändlich ist,
+genau deshalb so wurde,
+weil er niemals korrigiert wurde\.
+Er glaubt,
+die wahrhaft glückliche Person sollte rein und edel sein,
+und dass eben die Zurechtweisung dies möglich macht\.
+„Denn die Herrscher“,
+so heißt es,
+„sind kein Schrecken für gute Taten\.“[^bible-f950b5bb-614a-4828-b8e5-765597561d4a]
+Wie also könnte Gott,
+der von Natur aus gut ist,
+für jene furchterregend sein,
+die nicht sündigen?
+„Wenn du aber tust,
+was böse ist,
+dann fürchte dich“[^bible-89c90eb7-3b2a-4acd-8534-2769b679ed78],
+sagt der Apostel\!
+Genau deshalb korrigierte der Apostel auch die Gemeinden überaus streng,
+handelte dabei wie der Herr und war sich sowohl seines eigenen Freimuts als auch ihrer Schwachheit völlig bewusst\.
+Zu den Galatern sagt er:
+„Bin ich also euer Feind geworden,
+weil ich euch die Wahrheit sage?“[^bible-07546323-4a98-44f5-99d4-ac1aee6567c8]
+Genau wie gesunde Menschen keinen Arzt brauchen,
+solange sie stark sind,
+kranke Menschen aber die medizinische Kunst benötigen,
+so brauchen auch wir,
+die wir in diesem Leben krank sind – krank an schändlichen Begierden,
+einem geradezu erbärmlichen Mangel an Selbstbeherrschung und anderen brennenden Leidenschaften –,
+unmissverständlich einen Retter\!
+Und der Retter wendet nicht nur sanfte Medizin an,
+sondern überaus harte Behandlungen\!
+Die bitteren Wurzeln der Furcht stoppen die Ausbreitung der Sünde\.
+Genau deshalb ist die Furcht – auch wenn sie bitter ist – dennoch rettend\!
+Es ergibt also vollkommen Sinn,
+dass die Kranken einen Heiler brauchen,
+die Verlorenen einen Führer,
+die Blinden jemanden,
+der sie ans Licht führt,
+die Durstigen die lebendige Quelle \(die,
+wenn man einmal davon gekostet hat,
+absolut niemanden jemals wieder dursten lässt\!\),
+die Toten das Leben,
+die Schafe einen Hirten,
+die Kinder einen Tutor – und in Wahrheit braucht die gesamte Menschheit Jesus\!
+Auf diese Weise enden wir nicht unbelehrbar und sündig und fallen in die völlige Verdammnis,
+sondern stattdessen können wir von der wertlosen Spreu getrennt und in die Vorratskammer des Vaters gesammelt werden\!
+„Die Worfschaufel ist in der Hand des Herrn“[^bible-15d89b99-f537-40d5-bbfc-4878c29fc2ec],
+heißt es,
+und sie trennt den Weizen von der Spreu – wobei die Spreu unweigerlich für das Feuer bestimmt ist\!
 
-Genau deshalb erkannte auch Platon, dass die Zurechtweisung die allergrößte Macht zur Besserung besitzt und die stärkste Form der Reinigung ist\! Er sagt, dass jemand, der zutiefst befleckt und schändlich ist, genau deshalb so wurde, weil er niemals korrigiert wurde\. Er glaubt, die wahrhaft glückliche Person sollte rein und edel sein, und dass eben die Zurechtweisung dies möglich macht\. „Denn die Herrscher“, so heißt es, „sind kein Schrecken für gute Taten\.“[^bible-f950b5bb-614a-4828-b8e5-765597561d4a] Wie also könnte Gott, der von Natur aus gut ist, für jene furchterregend sein, die nicht sündigen? „Wenn du aber tust, was böse ist, dann fürchte dich“[^bible-89c90eb7-3b2a-4acd-8534-2769b679ed78], sagt der Apostel\! Genau deshalb korrigierte der Apostel auch die Gemeinden überaus streng, handelte dabei wie der Herr und war sich sowohl seines eigenen Freimuts als auch ihrer Schwachheit völlig bewusst\. Zu den Galatern sagt er: „Bin ich also euer Feind geworden, weil ich euch die Wahrheit sage?“[^bible-07546323-4a98-44f5-99d4-ac1aee6567c8] Genau wie gesunde Menschen keinen Arzt brauchen, solange sie stark sind, kranke Menschen aber die medizinische Kunst benötigen, so brauchen auch wir, die wir in diesem Leben krank sind – krank an schändlichen Begierden, einem geradezu erbärmlichen Mangel an Selbstbeherrschung und anderen brennenden Leidenschaften –, unmissverständlich einen Retter\! Und der Retter wendet nicht nur sanfte Medizin an, sondern überaus harte Behandlungen\! Die bitteren Wurzeln der Furcht stoppen die Ausbreitung der Sünde\. Genau deshalb ist die Furcht – auch wenn sie bitter ist – dennoch rettend\! Es ergibt also vollkommen Sinn, dass die Kranken einen Heiler brauchen, die Verlorenen einen Führer, die Blinden jemanden, der sie ans Licht führt, die Durstigen die lebendige Quelle \(die, wenn man einmal davon gekostet hat, absolut niemanden jemals wieder dursten lässt\!\), die Toten das Leben, die Schafe einen Hirten, die Kinder einen Tutor – und in Wahrheit braucht die gesamte Menschheit Jesus\! Auf diese Weise enden wir nicht unbelehrbar und sündig und fallen in die völlige Verdammnis, sondern stattdessen können wir von der wertlosen Spreu getrennt und in die Vorratskammer des Vaters gesammelt werden\! „Die Worfschaufel ist in der Hand des Herrn“[^bible-15d89b99-f537-40d5-bbfc-4878c29fc2ec], heißt es, und sie trennt den Weizen von der Spreu – wobei die Spreu unweigerlich für das Feuer bestimmt ist\!
+Wenn du willst,
+kannst du die tiefe Weisheit des allheiligen Hirten und Tutors,
+des allmächtigen und väterlichen Logos,
+beobachten,
+wo er sich selbst als den Hirten der Schafe und den Tutor der Kinder bezeichnet\!
+Wie er durch Hesekiel zu den Ältesten sagt und ihnen ein rettendes Beispiel vernünftiger Fürsorge anbietet:
+„Ich werde das Verletzte verbinden,
+das Kranke heilen,
+das Verirrte zurückbringen und sie auf meinem heiligen Berg weiden\.“[^bible-fff0f8f8-8294-4b9e-b725-a25d844c6dfe]
+Das sind die Verheißungen des guten Hirten:
+„Weide uns,
+die Kleinen,
+wie Schafe\.“
+Ja,
+Herr,
+erfülle uns mit der Weide deiner Gerechtigkeit\!
+Ja,
+Tutor,
+weide uns auf deinem heiligen Berg,
+zur Kirche,
+die emporgehoben ist,
+über den Wolken,
+die den Himmel berührt\!
+„Und ich werde ihr Hirte sein“,
+sagt er,
+„und ich werde ihnen nahe sein“[^bible-06073c0c-e28f-4f7f-a463-1cb72a24fcd5],
+wie ein Gewand dicht auf ihrer Haut\!
+Er will mein Fleisch retten,
+indem er es in das Gewand der Unvergänglichkeit hüllt\.
+Er hat es für mich gewoben\!
+„Sie werden mich anrufen“,
+sagt er,
+„und ich werde sagen:
+‚Hier bin ich\.‘“[^bible-938d1381-93d9-4c02-870b-e3f05dd9ce5d]
+Du hast schneller geantwortet,
+als ich erwartet habe,
+Herr\!
+„Und wenn sie gehen,
+werden sie nicht straucheln“[^bible-9b5ce7e0-2399-4296-b30c-af4d5ca16346],
+sagt der Herr\.
+Wir werden unmöglich ins Verderben stürzen,
+wenn wir in die Unvergänglichkeit hinübergehen,
+weil er uns stützen wird\!
+Er selbst hat es gesagt – und er hat es gewollt\!
+Das ist genau die Art von Tutor,
+die wir haben:
+wahrhaftig gut\!
+„Ich bin nicht gekommen“,
+sagte er,
+„um bedient zu werden,
+sondern um zu dienen\.“[^bible-1002851d-de36-419d-838d-0859f014d6bd]
+Genau deshalb erscheint er im Evangelium als ermüdet – als derjenige,
+der um unsertwillen arbeitet –,
+und verspricht,
+„sein eigenes Leben als Lösegeld für viele zu geben\.“[^bible-17cb442a-9233-4991-bee7-93f980341c1b]
+Nur dieser Eine wird unmissverständlich als der gute Hirte bekannt\!
+Und er ist überaus großzügig,
+weil er das Allergrößte gibt – sein eigenes Leben – um unsertwillen\!
+Er ist voller Segen und Güte,
+denn obwohl er der Herr der Menschen sein könnte,
+entschied er sich absolut freiwillig dafür,
+ihr Bruder zu sein\.
+Er ist so überaus gut,
+dass er sich sogar entschied,
+für uns zu sterben\!
+Aber sogar die Gerechtigkeit schreit aus ihm heraus:
+„Wenn ihr aufrichtig zu mir kommt,
+werde ich aufrichtig zu euch sein\.
+Wenn ihr krumm geht,
+werde auch ich krumm sein“[^bible-3889b44c-c43a-41ca-abc1-92cfc43d88da],
+spricht der Herr der Heerscharen,
+womit er sich auf die Zurechtweisungen der Sünder als krumme Pfade bezieht\!
+Der gerade und natürliche Pfad,
+den das „Iota“ von Jesus symbolisiert,
+ist seine Güte – unerschüttert und unbewegt gegenüber jenen,
+die durch Gehorsam glauben\!
+„Weil ich rief und ihr nicht zugehört habt“,
+sagt der Herr,
+„und ihr meine Pläne verworfen und meinen Zurechtweisungen absolut keine Beachtung geschenkt habt\.“[^bible-a82ad508-ef76-44a4-87f7-2c2965ebf123]
+Diese Art der Zurechtweisung vom Herrn ist überaus nützlich\!
 
-Wenn du willst, kannst du die tiefe Weisheit des allheiligen Hirten und Tutors, des allmächtigen und väterlichen Logos, beobachten, wo er sich selbst als den Hirten der Schafe und den Tutor der Kinder bezeichnet\! Wie er durch Hesekiel zu den Ältesten sagt und ihnen ein rettendes Beispiel vernünftiger Fürsorge anbietet: „Ich werde das Verletzte verbinden, das Kranke heilen, das Verirrte zurückbringen und sie auf meinem heiligen Berg weiden\.“[^bible-fff0f8f8-8294-4b9e-b725-a25d844c6dfe] Das sind die Verheißungen des guten Hirten: „Weide uns, die Kleinen, wie Schafe\.“ Ja, Herr, erfülle uns mit der Weide deiner Gerechtigkeit\! Ja, Tutor, weide uns auf deinem heiligen Berg, zur Kirche, die emporgehoben ist, über den Wolken, die den Himmel berührt\! „Und ich werde ihr Hirte sein“, sagt er, „und ich werde ihnen nahe sein“[^bible-06073c0c-e28f-4f7f-a463-1cb72a24fcd5], wie ein Gewand dicht auf ihrer Haut\! Er will mein Fleisch retten, indem er es in das Gewand der Unvergänglichkeit hüllt\. Er hat es für mich gewoben\! „Sie werden mich anrufen“, sagt er, „und ich werde sagen: ‚Hier bin ich\.‘“[^bible-938d1381-93d9-4c02-870b-e3f05dd9ce5d] Du hast schneller geantwortet, als ich erwartet habe, Herr\! „Und wenn sie gehen, werden sie nicht straucheln“[^bible-9b5ce7e0-2399-4296-b30c-af4d5ca16346], sagt der Herr\. Wir werden unmöglich ins Verderben stürzen, wenn wir in die Unvergänglichkeit hinübergehen, weil er uns stützen wird\! Er selbst hat es gesagt – und er hat es gewollt\! Das ist genau die Art von Tutor, die wir haben: wahrhaftig gut\! „Ich bin nicht gekommen“, sagte er, „um bedient zu werden, sondern um zu dienen\.“[^bible-1002851d-de36-419d-838d-0859f014d6bd] Genau deshalb erscheint er im Evangelium als ermüdet – als derjenige, der um unsertwillen arbeitet –, und verspricht, „sein eigenes Leben als Lösegeld für viele zu geben\.“[^bible-17cb442a-9233-4991-bee7-93f980341c1b] Nur dieser Eine wird unmissverständlich als der gute Hirte bekannt\! Und er ist überaus großzügig, weil er das Allergrößte gibt – sein eigenes Leben – um unsertwillen\! Er ist voller Segen und Güte, denn obwohl er der Herr der Menschen sein könnte, entschied er sich absolut freiwillig dafür, ihr Bruder zu sein\. Er ist so überaus gut, dass er sich sogar entschied, für uns zu sterben\! Aber sogar die Gerechtigkeit schreit aus ihm heraus: „Wenn ihr aufrichtig zu mir kommt, werde ich aufrichtig zu euch sein\. Wenn ihr krumm geht, werde auch ich krumm sein“[^bible-3889b44c-c43a-41ca-abc1-92cfc43d88da], spricht der Herr der Heerscharen, womit er sich auf die Zurechtweisungen der Sünder als krumme Pfade bezieht\! Der gerade und natürliche Pfad, den das „Iota“ von Jesus symbolisiert, ist seine Güte – unerschüttert und unbewegt gegenüber jenen, die durch Gehorsam glauben\! „Weil ich rief und ihr nicht zugehört habt“, sagt der Herr, „und ihr meine Pläne verworfen und meinen Zurechtweisungen absolut keine Beachtung geschenkt habt\.“[^bible-a82ad508-ef76-44a4-87f7-2c2965ebf123] Diese Art der Zurechtweisung vom Herrn ist überaus nützlich\!
+Auch David spricht von diesen Dingen:
+„Eine krumme und bittere Generation,
+eine Generation,
+die ihr Herz nicht aufrichtig machte und deren Geist Gott nicht treu war\.
+Sie hielten Gottes Bund nicht und wollten nicht in seinem Gesetz wandeln\.“[^bible-f990ece5-b492-4b7f-96b4-4795080f018f]
+Dies sind die Ursachen der Bitterkeit,
+und ihretwegen kommt der Richter,
+um Gerechtigkeit über jene zu bringen,
+die sich nicht für das gute Leben entscheiden wollten\.
+Genau deshalb tritt er ihnen nun härter entgegen – vielleicht,
+um ihren Sturz in den Tod aufzuhalten\.
+Durch David erklärt er den Grund für seine Drohungen:
+„Sie glaubten nicht an seine Wunder\.
+Als er sie tötete,
+suchten sie ihn;
+sie kehrten um und suchten Gott früh\.
+Sie erinnerten sich daran,
+dass Gott ihr Helfer ist und dass der Höchste ihr Erlöser ist\.“[^bible-f4daae2e-2a21-40c5-9e81-5591319a02bd]
+Er wusste also,
+dass sie aus Furcht umkehren würden – aber sie hatten seine Güte verachtet\!
+Eine Güte,
+die immer nur freundlich handelt,
+wird oft übersehen,
+aber selbst diese Güte wird geheilt,
+wenn sie uns durch Furcht an die Gerechtigkeit erinnert\.
+Es gibt zwei Arten von Furcht\.
+Die eine Art geht mit Respekt einher – wie Bürger gegenüber guten Herrschern,
+oder wir gegenüber Gott,
+genau wie respektvolle Kinder auf ihre Väter blicken\.
+Wie es heißt:
+„Ein ungebändigtes Pferd wird wild,
+und ein verwöhntes Kind wird rücksichtslos\.“[^bible-00f7ddf1-77a3-43d4-b730-75622964c5d1]
+Die andere Art von Furcht geht mit Hass einher,
+so wie Sklaven gegenüber harten Meistern empfinden – oder so,
+wie die Hebräer Gott zu einem Meister machten und nicht zu einem Vater\!
+Aber ich denke,
+freiwillige Furcht,
+die absolut frei gewählt wird,
+ist weitaus besser als erzwungene Furcht aus Notwendigkeit\!
+„Denn er selbst“,
+heißt es,
+„ist barmherzig;
+er wird ihre Sünden heilen und sie nicht vernichten\.
+Er wird seine Barmherzigkeit mehren und nicht seinen ganzen Zorn entfesseln\.“[^bible-950a5c45-7118-41ec-9647-359c659473af]
+Seht ihr,
+wie der Tutor durch seine Zurechtweisungen Gerechtigkeit zeigt und durch sein Mitgefühl Gottes Güte?
 
-Auch David spricht von diesen Dingen: „Eine krumme und bittere Generation, eine Generation, die ihr Herz nicht aufrichtig machte und deren Geist Gott nicht treu war\. Sie hielten Gottes Bund nicht und wollten nicht in seinem Gesetz wandeln\.“[^bible-f990ece5-b492-4b7f-96b4-4795080f018f] Dies sind die Ursachen der Bitterkeit, und ihretwegen kommt der Richter, um Gerechtigkeit über jene zu bringen, die sich nicht für das gute Leben entscheiden wollten\. Genau deshalb tritt er ihnen nun härter entgegen – vielleicht, um ihren Sturz in den Tod aufzuhalten\. Durch David erklärt er den Grund für seine Drohungen: „Sie glaubten nicht an seine Wunder\. Als er sie tötete, suchten sie ihn; sie kehrten um und suchten Gott früh\. Sie erinnerten sich daran, dass Gott ihr Helfer ist und dass der Höchste ihr Erlöser ist\.“[^bible-f4daae2e-2a21-40c5-9e81-5591319a02bd] Er wusste also, dass sie aus Furcht umkehren würden – aber sie hatten seine Güte verachtet\! Eine Güte, die immer nur freundlich handelt, wird oft übersehen, aber selbst diese Güte wird geheilt, wenn sie uns durch Furcht an die Gerechtigkeit erinnert\. Es gibt zwei Arten von Furcht\. Die eine Art geht mit Respekt einher – wie Bürger gegenüber guten Herrschern, oder wir gegenüber Gott, genau wie respektvolle Kinder auf ihre Väter blicken\. Wie es heißt: „Ein ungebändigtes Pferd wird wild, und ein verwöhntes Kind wird rücksichtslos\.“[^bible-00f7ddf1-77a3-43d4-b730-75622964c5d1] Die andere Art von Furcht geht mit Hass einher, so wie Sklaven gegenüber harten Meistern empfinden – oder so, wie die Hebräer Gott zu einem Meister machten und nicht zu einem Vater\! Aber ich denke, freiwillige Furcht, die absolut frei gewählt wird, ist weitaus besser als erzwungene Furcht aus Notwendigkeit\! „Denn er selbst“, heißt es, „ist barmherzig; er wird ihre Sünden heilen und sie nicht vernichten\. Er wird seine Barmherzigkeit mehren und nicht seinen ganzen Zorn entfesseln\.“[^bible-950a5c45-7118-41ec-9647-359c659473af] Seht ihr, wie der Tutor durch seine Zurechtweisungen Gerechtigkeit zeigt und durch sein Mitgefühl Gottes Güte?
-
-Genau deshalb singt David – oder vielmehr der Geist, der durch ihn spricht – beides zugleich über Gott: „Gerechtigkeit und Gericht sind die Grundfeste deines Throns; Barmherzigkeit und Wahrheit gehen vor deinem Angesicht her\.“[^bible-758094df-d32a-419c-8448-597a907261ec] Er sagt, dass sowohl das Gericht als auch die Güte von ein und derselben Macht ausgehen\! Sie stehen beide unter seiner Autorität, und seine Gerechtigkeit trennt die Gegensätze\. Gott ist sowohl gerecht als auch gut – er ist wahrhaftig Gott, derjenige, der alles ist, und alles ist von ihm, weil er allein Gott ist\! Genau wie ein Spiegel nicht schlecht ist, weil er jemandem seine Hässlichkeit zeigt, oder ein Arzt nicht schlecht ist, weil er einem Patienten sagt, dass er Fieber hat \(er hat das Fieber ja nicht verursacht, sondern nur offenbart\!\), auf exakt dieselbe Weise ist jemand, der zurechtweist, nicht grausam zu einer Seele, die krank ist\! Er erschafft die Fehler nicht – er offenbart lediglich die Sünden, die bereits vorhanden sind, damit die Menschen sich davon abwenden, sie zu wiederholen\. Gott ist also in sich selbst gut – und er ist um unsertwillen gerecht, weil er gut ist\! Und seine Gerechtigkeit wird uns durch den Logos gezeigt, der von oben kam, von dort, wo der Vater ist\. Bevor er irgendetwas erschuf, existierte Gott bereits – und er war gut\! Genau deshalb entschied er sich, Schöpfer und Vater zu sein\. Die Liebe zwischen ihnen wurde zum Anfang der Gerechtigkeit – indem er seine Sonne sandte, um zu scheinen, und seinen Sohn, um bei uns zu sein\! Er war der Erste, der die Gerechtigkeit vom Himmel herab verkündete und sagte: „Niemand kennt den Sohn außer dem Vater, und niemand kennt den Vater außer dem Sohn\.“[^bible-e7332854-c999-45bb-a316-e7d2a810676d] Dieses gleichermaßen geteilte Wissen ist ein Zeichen der uralten Gerechtigkeit\. Dann kam diese Gerechtigkeit in Schrift und im Körper zu den Menschen herab – im Wort und im Gesetz – und drängte die Menschheit zur rettenden Umkehr, weil es gut war\! Aber wenn du nicht auf Gott hörst, dann gib dir selbst die Schuld dafür, dass du den Richter auf dich ziehst\!
+Genau deshalb singt David – oder vielmehr der Geist,
+der durch ihn spricht – beides zugleich über Gott:
+„Gerechtigkeit und Gericht sind die Grundfeste deines Throns;
+Barmherzigkeit und Wahrheit gehen vor deinem Angesicht her\.“[^bible-758094df-d32a-419c-8448-597a907261ec]
+Er sagt,
+dass sowohl das Gericht als auch die Güte von ein und derselben Macht ausgehen\!
+Sie stehen beide unter seiner Autorität,
+und seine Gerechtigkeit trennt die Gegensätze\.
+Gott ist sowohl gerecht als auch gut – er ist wahrhaftig Gott,
+derjenige,
+der alles ist,
+und alles ist von ihm,
+weil er allein Gott ist\!
+Genau wie ein Spiegel nicht schlecht ist,
+weil er jemandem seine Hässlichkeit zeigt,
+oder ein Arzt nicht schlecht ist,
+weil er einem Patienten sagt,
+dass er Fieber hat \(er hat das Fieber ja nicht verursacht,
+sondern nur offenbart\!\),
+auf exakt dieselbe Weise ist jemand,
+der zurechtweist,
+nicht grausam zu einer Seele,
+die krank ist\!
+Er erschafft die Fehler nicht – er offenbart lediglich die Sünden,
+die bereits vorhanden sind,
+damit die Menschen sich davon abwenden,
+sie zu wiederholen\.
+Gott ist also in sich selbst gut – und er ist um unsertwillen gerecht,
+weil er gut ist\!
+Und seine Gerechtigkeit wird uns durch den Logos gezeigt,
+der von oben kam,
+von dort,
+wo der Vater ist\.
+Bevor er irgendetwas erschuf,
+existierte Gott bereits – und er war gut\!
+Genau deshalb entschied er sich,
+Schöpfer und Vater zu sein\.
+Die Liebe zwischen ihnen wurde zum Anfang der Gerechtigkeit – indem er seine Sonne sandte,
+um zu scheinen,
+und seinen Sohn,
+um bei uns zu sein\!
+Er war der Erste,
+der die Gerechtigkeit vom Himmel herab verkündete und sagte:
+„Niemand kennt den Sohn außer dem Vater,
+und niemand kennt den Vater außer dem Sohn\.“[^bible-e7332854-c999-45bb-a316-e7d2a810676d]
+Dieses gleichermaßen geteilte Wissen ist ein Zeichen der uralten Gerechtigkeit\.
+Dann kam diese Gerechtigkeit in Schrift und im Körper zu den Menschen herab – im Wort und im Gesetz – und drängte die Menschheit zur rettenden Umkehr,
+weil es gut war\!
+Aber wenn du nicht auf Gott hörst,
+dann gib dir selbst die Schuld dafür,
+dass du den Richter auf dich ziehst\!
 
 ## Bibelverweise
 

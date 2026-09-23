@@ -7,10 +7,38 @@ Autor: Athanasius
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/der-brief-an-marcellinus#kapitel-61e6b43b-08f2-4b74-4e79-08dd85707658).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:2b9fc875e9e22edaac258a08126c80973d5e89c7929b636d4e07b4b19ba3fa22`
+Wenn du die Gnade des Erlösers siehst,
+die überall ausgegossen wurde,
+und die Menschheit,
+die gerettet wurde,
+und du den Herrn ansprechen möchtest,
+singe den achten Psalm\.
+Und wenn du erneut von der Weinernte singen und dem Herrn danken möchtest,
+hast du denselben Psalm 8 sowie den dreiundachtzigsten\.
+Doch zu Ehren des Sieges über den Feind und der Bewahrung der Schöpfung,
+ohne in dir selbst zu prahlen,
+sondern den Sohn Gottes zu erkennen,
+der dies vollbracht hat,
+rezitiere den neunten Psalm,
+der ihm gewidmet ist\.
 
-Wenn du die Gnade des Erlösers siehst, die überall ausgegossen wurde, und die Menschheit, die gerettet wurde, und du den Herrn ansprechen möchtest, singe den achten Psalm\. Und wenn du erneut von der Weinernte singen und dem Herrn danken möchtest, hast du denselben Psalm 8 sowie den dreiundachtzigsten\. Doch zu Ehren des Sieges über den Feind und der Bewahrung der Schöpfung, ohne in dir selbst zu prahlen, sondern den Sohn Gottes zu erkennen, der dies vollbracht hat, rezitiere den neunten Psalm, der ihm gewidmet ist\.
+Wann immer jemand versucht,
+dich übermäßig zu provozieren,
+halte deine Kühnheit im Herrn und singe den zehnten Psalm\.
+Und wenn du die Arroganz der Menge und das Überhandnehmen des Bösen siehst,
+sodass nichts mehr heilig ist,
+was die Menschen betrifft,
+fliehe zum Herrn um Zuflucht und sage den elften Psalm\.
+Wenn jedoch der Verrat deiner Feinde chronisch wird,
+werde nicht nachlässig,
+als würde Gott dich vergessen,
+sondern flehe den Herrn an,
+indem du den zwölften Psalm singst\.
 
-Wann immer jemand versucht, dich übermäßig zu provozieren, halte deine Kühnheit im Herrn und singe den zehnten Psalm\. Und wenn du die Arroganz der Menge und das Überhandnehmen des Bösen siehst, sodass nichts mehr heilig ist, was die Menschen betrifft, fliehe zum Herrn um Zuflucht und sage den elften Psalm\. Wenn jedoch der Verrat deiner Feinde chronisch wird, werde nicht nachlässig, als würde Gott dich vergessen, sondern flehe den Herrn an, indem du den zwölften Psalm singst\.
-
-Solltest du Menschen hören, die gegen die Vorsehung Gottes lästern, teile nicht ihre Gottlosigkeit, sondern sage die Psalme 13 und 52 und richte deine Bitte an Gott\. Und wenn du dann lernen möchtest, was für eine Person der Bürger des Himmelreichs ist, singe den vierzehnten Psalm\.
+Solltest du Menschen hören,
+die gegen die Vorsehung Gottes lästern,
+teile nicht ihre Gottlosigkeit,
+sondern sage die Psalme 13 und 52 und richte deine Bitte an Gott\.
+Und wenn du dann lernen möchtest,
+was für eine Person der Bürger des Himmelreichs ist,
+singe den vierzehnten Psalm\.

@@ -7,9 +7,18 @@ Autor: Isidor von Sevilla
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/isidor-von-sevilla/de-ecclesiastics-officiis-buch-1#kapitel-689d8116-5d70-4149-f4e2-08ded514b29a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:4a51b32265157191fab4ac7c2058abeac64a3f0a51bfc870d5f40f11e3eace04`
-
-Der alte Segen durch Mose kündigte an und setzte fest, dass dem Volk durch Priester ein Segen gegeben wird; dadurch wird geboten, das Volk unter dem Zeichen einer dreifachen Anrufung zu segnen\. Denn der Herr sagte zu Mose: „So sollt ihr mein Volk, die Israeliten, segnen: Ihr sollt zu ihnen sagen: Der Herr segne dich und behüte dich; der Herr lasse sein Angesicht über dir leuchten und sei dir gnädig; der Herr erhebe sein Angesicht über dich und gebe dir Frieden[^bible-f1895e97-4219-4af2-8bd5-218535526899]\.“
+Der alte Segen durch Mose kündigte an und setzte fest,
+dass dem Volk durch Priester ein Segen gegeben wird;
+dadurch wird geboten,
+das Volk unter dem Zeichen einer dreifachen Anrufung zu segnen\.
+Denn der Herr sagte zu Mose:
+„So sollt ihr mein Volk,
+die Israeliten,
+segnen:
+Ihr sollt zu ihnen sagen:
+Der Herr segne dich und behüte dich;
+der Herr lasse sein Angesicht über dir leuchten und sei dir gnädig;
+der Herr erhebe sein Angesicht über dich und gebe dir Frieden[^bible-f1895e97-4219-4af2-8bd5-218535526899]\.“
 
 ## Bibelverweise
 

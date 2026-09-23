@@ -7,6 +7,65 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-b50c6130-cc24-4f54-c1a0-08de6c821f66).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3e6631fdc6bfdb67d991ec5bbb811f515b9d53803d9af8888f11878135d430b5`
-
-Wenn euch also sowohl die Gebote seiner Propheten als auch die Gottes selbst beunruhigen, dann wäre es besser für euch, Gott zu gehorchen als euren dummen, blinden Lehrern, die jedem von euch sogar jetzt erlauben, vier oder fünf Ehefrauen zu haben\! Und wenn jemand von euch eine schöne Frau sieht und begehrt, sie zu haben, zitieren sie die Handlungen Jakobs, der Israel war, und der anderen Patriarchen, um zu beweisen, dass in solchen Praktiken nichts Böses liegt\. Wie erbärmlich und unwissend sie selbst in dieser Hinsicht sind\! Denn, wie ich bereits sagte, wurden in jeder dieser Handlungen bestimmte göttliche Pläne auf geheimnisvolle Weise erfüllt\! Ich werde erklären, welcher göttliche Plan und welche Prophezeiung in den Ehen Jakobs vollbracht wurden, damit ihr endlich erkennt, dass eure Lehrer bei dem Zweck, zu dem jedes Ding getan wurde, niemals das Göttlichere bedacht haben, sondern vielmehr das, was niedere und vergängliche Leidenschaften betraf\! Achtet deshalb auf meine Worte: Die Ehen Jakobs bildeten im Voraus ab, was Christus tun würde\! Es war für Jakob nicht gesetzmäßig, zwei Schwestern zur gleichen Zeit zu heiraten\. Also arbeitete er im Dienst Labans für eine seiner Töchter, und als er bezüglich der jüngeren getäuscht wurde, arbeitete er weitere sieben Jahre\! Nun repräsentierte Lea euer Volk und die Synagoge, während Rahel ein Abbild unserer Kirche war und Christus dient immer noch für sie und für seine Diener, die in beiden sind\. Denn während Noah seinen beiden Söhnen den Samen des dritten als Sklaven gab, ist Christus nun gekommen, um sowohl die freien Söhne als auch ihre Sklaven zu erlösen, und er gewährt allen, die seine Gebote einhalten, dieselben Segnungen\! Genau wie all jene, die Jakob von den freien Frauen und von den Sklavinnen geboren wurden, seine Söhne wurden und ihnen die gleiche Ehre zuteilwurde\! Und es wurde im Voraus gesagt, was jeder im Rang und in der Vorsehung sein würde\. Jakob diente Laban für die gefleckten und gesprenkelten Schafe, und Christus diente, sogar bis zur Sklaverei des Kreuzes, für Menschen unterschiedlicher Farben und Gesichtszüge aus jeder Nation und erlöste sie durch sein Blut und das Geheimnis des Kreuzes\! Wie die Augen Leas schwach waren, so sind auch die Augen eurer Seelen überaus schwach\! Wie Rahel die Götzen Labans stahl und sie bis zum heutigen Tag verbarg, so sind auch wir unserer angestammten und materiellen Götzen entledigt worden\! Jakob wurde immer von seinem Bruder gehasst, genau wie jetzt wir und unser Herr selbst von euch gehasst werden und im Allgemeinen von allen anderen Menschen, die von Natur aus alle Brüder sind\. Jakob trug den Beinamen Israel; und es wurde gezeigt, dass Israel auch Christus ist, der Jesus ist und so genannt wird\!
+Wenn euch also sowohl die Gebote seiner Propheten als auch die Gottes selbst beunruhigen,
+dann wäre es besser für euch,
+Gott zu gehorchen als euren dummen,
+blinden Lehrern,
+die jedem von euch sogar jetzt erlauben,
+vier oder fünf Ehefrauen zu haben\!
+Und wenn jemand von euch eine schöne Frau sieht und begehrt,
+sie zu haben,
+zitieren sie die Handlungen Jakobs,
+der Israel war,
+und der anderen Patriarchen,
+um zu beweisen,
+dass in solchen Praktiken nichts Böses liegt\.
+Wie erbärmlich und unwissend sie selbst in dieser Hinsicht sind\!
+Denn,
+wie ich bereits sagte,
+wurden in jeder dieser Handlungen bestimmte göttliche Pläne auf geheimnisvolle Weise erfüllt\!
+Ich werde erklären,
+welcher göttliche Plan und welche Prophezeiung in den Ehen Jakobs vollbracht wurden,
+damit ihr endlich erkennt,
+dass eure Lehrer bei dem Zweck,
+zu dem jedes Ding getan wurde,
+niemals das Göttlichere bedacht haben,
+sondern vielmehr das,
+was niedere und vergängliche Leidenschaften betraf\!
+Achtet deshalb auf meine Worte:
+Die Ehen Jakobs bildeten im Voraus ab,
+was Christus tun würde\!
+Es war für Jakob nicht gesetzmäßig,
+zwei Schwestern zur gleichen Zeit zu heiraten\.
+Also arbeitete er im Dienst Labans für eine seiner Töchter,
+und als er bezüglich der jüngeren getäuscht wurde,
+arbeitete er weitere sieben Jahre\!
+Nun repräsentierte Lea euer Volk und die Synagoge,
+während Rahel ein Abbild unserer Kirche war und Christus dient immer noch für sie und für seine Diener,
+die in beiden sind\.
+Denn während Noah seinen beiden Söhnen den Samen des dritten als Sklaven gab,
+ist Christus nun gekommen,
+um sowohl die freien Söhne als auch ihre Sklaven zu erlösen,
+und er gewährt allen,
+die seine Gebote einhalten,
+dieselben Segnungen\!
+Genau wie all jene,
+die Jakob von den freien Frauen und von den Sklavinnen geboren wurden,
+seine Söhne wurden und ihnen die gleiche Ehre zuteilwurde\!
+Und es wurde im Voraus gesagt,
+was jeder im Rang und in der Vorsehung sein würde\.
+Jakob diente Laban für die gefleckten und gesprenkelten Schafe,
+und Christus diente,
+sogar bis zur Sklaverei des Kreuzes,
+für Menschen unterschiedlicher Farben und Gesichtszüge aus jeder Nation und erlöste sie durch sein Blut und das Geheimnis des Kreuzes\!
+Wie die Augen Leas schwach waren,
+so sind auch die Augen eurer Seelen überaus schwach\!
+Wie Rahel die Götzen Labans stahl und sie bis zum heutigen Tag verbarg,
+so sind auch wir unserer angestammten und materiellen Götzen entledigt worden\!
+Jakob wurde immer von seinem Bruder gehasst,
+genau wie jetzt wir und unser Herr selbst von euch gehasst werden und im Allgemeinen von allen anderen Menschen,
+die von Natur aus alle Brüder sind\.
+Jakob trug den Beinamen Israel;
+und es wurde gezeigt,
+dass Israel auch Christus ist,
+der Jesus ist und so genannt wird\!

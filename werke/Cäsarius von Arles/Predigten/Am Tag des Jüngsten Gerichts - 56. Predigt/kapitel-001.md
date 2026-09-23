@@ -7,6 +7,48 @@ Autor: Cäsarius von Arles
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/caesarius-von-arles/am-tag-des-juengsten-gerichts-56-predigt#kapitel-a6d36dbf-6b1c-47fd-a592-08ddd8418d82).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:33cc5c1086d8f56ad9522b9883a3628a14cb2d8b75db579c44b46ccf762f97d0`
-
-Ich ermahne euch, wie ich es oft getan habe, meine geliebten Brüder, stets daran zu denken, dass der Tag unseres Todes und das schreckliche, furchtbare Gericht vor uns liegen\. Es gibt kein hilfreicheres Heilmittel für die Wunden aller Sünden, als dass jeder über die Stunde nachdenkt, in der er diese Welt verlassen wird\. Wie kann ein Mensch es wagen, schwere Sünde zu begehen, wenn er in jedem Moment daran denkt, dass er aus diesem Leben scheiden könnte? So sagt auch die Schrift: „Denke daran, Sohn, dass der Tod nicht langsam ist“, und „denke an deine letzten Dinge, und lass die Feindschaft enden\.“ Wenn ein Mensch sorgfältig darauf achtet, wie schwierig seine Prüfung vor dem Tribunal Christi sein wird, wo „jeder nach seinem Verhalten“ behandelt wird, werden seine eigenen Sünden und Mängel ihm kein Vergnügen mehr bereiten können\. Wenn alle Menschen vor diesem furchtbaren Richter versammelt sind, was wird dann „das Weinen und das Zähneknirschen“ eines bösen, gierigen Ehebrechers sein? Wenn die Menge der Gerechten zur Rechten des Königs zur Ehre gestellt wird, wird der Sünder sich selbst in die Tiefen der Hölle gestürzt sehen, ohne Hoffnung auf Mitleid oder Vergebung, und in der Dunkelheit von dem gesegneten Licht der Heiligen getrennt\. In die endlosen Tiefen des Abgrunds hinabsteigend, die ihn zwingt, in ihren Rachen einzutreten, wird er die ewige Strafe und den ewigen Tod erblicken, obwohl er selbst dazu bestimmt ist, niemals zu sterben\. Vergeblich wird er um Barmherzigkeit bitten bei den Armen, die er in diesem Leben verachtet hat\. Vergeblich wird er flehen, dass Lazarus mit dem Finger seine dürstenden Lippen berühren und ihn in seinem brennenden Fieber erfrischen möge\. Wenn er die Herrlichkeit der Armen sieht, wie sehr wird der elende Mensch sich wünschen, er hätte sich den Strengen der Armut unterworfen und die Prüfungen ertragen, die ihm im Leben widerfahren sind, damit er nicht diese ewigen Strafen verdienen müsste\!
+Ich ermahne euch,
+wie ich es oft getan habe,
+meine geliebten Brüder,
+stets daran zu denken,
+dass der Tag unseres Todes und das schreckliche,
+furchtbare Gericht vor uns liegen\.
+Es gibt kein hilfreicheres Heilmittel für die Wunden aller Sünden,
+als dass jeder über die Stunde nachdenkt,
+in der er diese Welt verlassen wird\.
+Wie kann ein Mensch es wagen,
+schwere Sünde zu begehen,
+wenn er in jedem Moment daran denkt,
+dass er aus diesem Leben scheiden könnte?
+So sagt auch die Schrift:
+„Denke daran,
+Sohn,
+dass der Tod nicht langsam ist“,
+und „denke an deine letzten Dinge,
+und lass die Feindschaft enden\.“
+Wenn ein Mensch sorgfältig darauf achtet,
+wie schwierig seine Prüfung vor dem Tribunal Christi sein wird,
+wo „jeder nach seinem Verhalten“ behandelt wird,
+werden seine eigenen Sünden und Mängel ihm kein Vergnügen mehr bereiten können\.
+Wenn alle Menschen vor diesem furchtbaren Richter versammelt sind,
+was wird dann „das Weinen und das Zähneknirschen“ eines bösen,
+gierigen Ehebrechers sein?
+Wenn die Menge der Gerechten zur Rechten des Königs zur Ehre gestellt wird,
+wird der Sünder sich selbst in die Tiefen der Hölle gestürzt sehen,
+ohne Hoffnung auf Mitleid oder Vergebung,
+und in der Dunkelheit von dem gesegneten Licht der Heiligen getrennt\.
+In die endlosen Tiefen des Abgrunds hinabsteigend,
+die ihn zwingt,
+in ihren Rachen einzutreten,
+wird er die ewige Strafe und den ewigen Tod erblicken,
+obwohl er selbst dazu bestimmt ist,
+niemals zu sterben\.
+Vergeblich wird er um Barmherzigkeit bitten bei den Armen,
+die er in diesem Leben verachtet hat\.
+Vergeblich wird er flehen,
+dass Lazarus mit dem Finger seine dürstenden Lippen berühren und ihn in seinem brennenden Fieber erfrischen möge\.
+Wenn er die Herrlichkeit der Armen sieht,
+wie sehr wird der elende Mensch sich wünschen,
+er hätte sich den Strengen der Armut unterworfen und die Prüfungen ertragen,
+die ihm im Leben widerfahren sind,
+damit er nicht diese ewigen Strafen verdienen müsste\!

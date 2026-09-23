@@ -7,6 +7,53 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-2#kapitel-56c315b0-0752-4a72-0a63-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:26e0be0896201e2aa60d67aae93ab274f2db309fe6ab9083eb049c7704f946cf`
-
-Da der Jude jedoch behauptet, die Geschichten vom angeblichen Abstieg der Heroen in den Hades und ihrer Rückkehr von dort seien Gaukeleien, und erklärt, die Heroen seien für eine gewisse Zeit verschwunden, hätten sich heimlich den Blicken aller Menschen entzogen und später vorgegeben, aus dem Hades zurückgekehrt zu sein, denn in diesem Sinne scheinen sich seine Worte auf den Odrysier Orpheus, den Thessalier Protesilaos, den Tainarier Herakles und auch Theseus zu beziehen, wollen wir zeigen, dass der Bericht von Jesu Auferweckung von den Toten keinesfalls mit diesen Geschichten verglichen werden kann\. Jeder der genannten Heroen hätte sich, wenn er gewollt hätte, heimlich den Blicken der Menschen entziehen und, wenn er dazu entschlossen gewesen wäre, zu denen zurückkehren können, die er verlassen hatte\. Jesus aber wurde vor den Augen aller Juden gekreuzigt, und sein Leib wurde im Beisein seines Volkes getötet\. Wie können sie da behaupten, er habe eine Täuschung vollführt, die jener der Heroen gleiche, von denen berichtet wird, sie seien in den Hades hinabgestiegen und von dort zurückgekehrt? Zur Verteidigung der öffentlichen Kreuzigung Jesu könnte man vielleicht, besonders im Zusammenhang mit jenen Geschichten von Heroen, die angeblich zum Abstieg in den Hades gezwungen wurden, Folgendes anführen: Angenommen, Jesus wäre im Verborgenen gestorben, sodass sein Tod nicht dem ganzen jüdischen Volk offenkundig gewesen wäre, und wäre danach tatsächlich von den Toten auferstanden, dann hätte derselbe Verdacht, der hinsichtlich der Heroen besteht, auch ihm gegolten\. Wahrscheinlich trug also neben anderen Gründen für die Kreuzigung Jesu auch dieser dazu bei, dass er für alle sichtbar am Kreuz starb: Niemand sollte behaupten können, er habe sich freiwillig den Blicken der Menschen entzogen und nur den Anschein erweckt zu sterben, ohne wirklich zu sterben, und habe nach seinem erneuten Erscheinen aus der Auferstehung von den Toten ein Gaukelspiel gemacht\. Einen klaren und unmissverständlichen Beweis für seine Auferstehung sehe ich jedoch im Wirken seiner Jünger: Sie widmeten sich der Verkündigung einer Lehre, die ihr Leben in Gefahr brachte\. Hätten sie Jesu Auferstehung von den Toten erfunden, hätten sie diese Lehre nicht mit solchem Mut verkündet\. Zugleich bereiteten sie nicht nur andere darauf vor, den Tod zu verachten, sondern zeigten selbst als Erste, dass sie seine Schrecken nicht fürchteten\.
+Da der Jude jedoch behauptet,
+die Geschichten vom angeblichen Abstieg der Heroen in den Hades und ihrer Rückkehr von dort seien Gaukeleien,
+und erklärt,
+die Heroen seien für eine gewisse Zeit verschwunden,
+hätten sich heimlich den Blicken aller Menschen entzogen und später vorgegeben,
+aus dem Hades zurückgekehrt zu sein,
+denn in diesem Sinne scheinen sich seine Worte auf den Odrysier Orpheus,
+den Thessalier Protesilaos,
+den Tainarier Herakles und auch Theseus zu beziehen,
+wollen wir zeigen,
+dass der Bericht von Jesu Auferweckung von den Toten keinesfalls mit diesen Geschichten verglichen werden kann\.
+Jeder der genannten Heroen hätte sich,
+wenn er gewollt hätte,
+heimlich den Blicken der Menschen entziehen und,
+wenn er dazu entschlossen gewesen wäre,
+zu denen zurückkehren können,
+die er verlassen hatte\.
+Jesus aber wurde vor den Augen aller Juden gekreuzigt,
+und sein Leib wurde im Beisein seines Volkes getötet\.
+Wie können sie da behaupten,
+er habe eine Täuschung vollführt,
+die jener der Heroen gleiche,
+von denen berichtet wird,
+sie seien in den Hades hinabgestiegen und von dort zurückgekehrt?
+Zur Verteidigung der öffentlichen Kreuzigung Jesu könnte man vielleicht,
+besonders im Zusammenhang mit jenen Geschichten von Heroen,
+die angeblich zum Abstieg in den Hades gezwungen wurden,
+Folgendes anführen:
+Angenommen,
+Jesus wäre im Verborgenen gestorben,
+sodass sein Tod nicht dem ganzen jüdischen Volk offenkundig gewesen wäre,
+und wäre danach tatsächlich von den Toten auferstanden,
+dann hätte derselbe Verdacht,
+der hinsichtlich der Heroen besteht,
+auch ihm gegolten\.
+Wahrscheinlich trug also neben anderen Gründen für die Kreuzigung Jesu auch dieser dazu bei,
+dass er für alle sichtbar am Kreuz starb:
+Niemand sollte behaupten können,
+er habe sich freiwillig den Blicken der Menschen entzogen und nur den Anschein erweckt zu sterben,
+ohne wirklich zu sterben,
+und habe nach seinem erneuten Erscheinen aus der Auferstehung von den Toten ein Gaukelspiel gemacht\.
+Einen klaren und unmissverständlichen Beweis für seine Auferstehung sehe ich jedoch im Wirken seiner Jünger:
+Sie widmeten sich der Verkündigung einer Lehre,
+die ihr Leben in Gefahr brachte\.
+Hätten sie Jesu Auferstehung von den Toten erfunden,
+hätten sie diese Lehre nicht mit solchem Mut verkündet\.
+Zugleich bereiteten sie nicht nur andere darauf vor,
+den Tod zu verachten,
+sondern zeigten selbst als Erste,
+dass sie seine Schrecken nicht fürchteten\.

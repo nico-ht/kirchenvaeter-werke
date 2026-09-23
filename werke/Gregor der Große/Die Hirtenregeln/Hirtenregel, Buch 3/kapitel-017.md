@@ -7,11 +7,180 @@ Autor: Gregor der Große
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/hirtenregel-buch-3#kapitel-6bfbffb2-d996-403a-477c-08dd47ac18f8).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:91267422cdf6c4d6e326d1e4b4db7ade57e4ee43b84f4713f8b7829be2555e32`
+Wie die Demütigen und die Hochmütigen zu ermahnen sind\.
+Anders sind die Demütigen zu ermahnen,
+anders die Hochmütigen\.
+Den Demütigen ist nahezubringen,
+wie wahr die Erhabenheit ist,
+an der sie in Hoffnung festhalten;
+den Hochmütigen dagegen,
+wie nichtig die zeitliche Herrlichkeit ist,
+die sie nicht festhalten können,
+obwohl sie sie umklammern\.
+Die Demütigen sollen hören,
+wie ewig ist,
+was sie erstreben,
+und wie vergänglich,
+was sie verachten;
+die Hochmütigen sollen hören,
+wie vergänglich ist,
+wonach sie trachten,
+und wie ewig,
+was sie verlieren\.
+Die Demütigen sollen aus dem Mund der Wahrheit,
+ihrer Lehrerin,
+hören:
+„Jeder,
+der sich selbst erniedrigt,
+wird erhöht werden\.[^bible-9b4c201e-08ed-4f5d-9f92-2b1293f44784]
+“ Die Hochmütigen sollen hören:
+„Jeder,
+der sich selbst erhöht,
+wird erniedrigt werden\.[^bible-9b4c201e-08ed-4f5d-9f92-2b1293f44784]
+“ Die Demütigen sollen hören:
+„Der Herrlichkeit geht Demut voraus\.[^bible-c1f6c819-1c96-453d-9577-87983b377872]
+“ Die Hochmütigen sollen hören:
+„Vor dem Sturz erhebt sich der Geist\.[^bible-accb228a-58d0-4d7b-b720-46b5d7542bed]
+“ Die Demütigen sollen hören:
+„Auf wen werde ich blicken,
+wenn nicht auf den Demütigen und Stillen,
+der vor meinen Worten zittert?[^bible-cdb793bc-61d7-4364-9f99-bdbf84ec7f58]
+“ Die Hochmütigen sollen hören:
+„Was brüsten sich Erde und Asche?[^bible-8c1ffff5-95de-4191-8e2a-4c170e775365]
+“ Die Demütigen sollen hören:
+„Gott blickt auf das Niedrige\.[^bible-1615f989-b39a-4ce6-959b-dcad51c62cdb]
+“ Die Hochmütigen sollen hören:
+„Das Hohe erkennt er von fern\.[^bible-1615f989-b39a-4ce6-959b-dcad51c62cdb]
+“ Die Demütigen sollen hören,
+dass „der Menschensohn nicht gekommen ist,
+um sich dienen zu lassen,
+sondern um zu dienen[^bible-1b1baa7b-cef0-4aff-96d8-2f9e49f23c35] “\.
+Die Hochmütigen sollen hören,
+dass „der Hochmut der Anfang jeder Sünde ist[^bible-f5b20a0c-61cf-4643-b55a-7489aac30783] “\.
+Die Demütigen sollen hören,
+dass unser Erlöser „sich selbst erniedrigte und gehorsam wurde bis zum Tod[^bible-7c4d92af-70d0-4b13-a3fe-adf06e54d6d5] “\.
+Die Hochmütigen sollen hören,
+was über ihr Oberhaupt geschrieben steht:
+„Er ist der König über alle Söhne des Hochmuts\.[^bible-88b3f371-8a2d-4d08-8668-933c71c60687]
+“ So wurde der Hochmut des Teufels zum Anlass unseres Verderbens,
+die Demut Gottes dagegen erwies sich als Mittel unserer Erlösung\.
+Unser Feind war als einer unter allem Geschaffenen erschaffen worden,
+wollte aber den Anschein erwecken,
+über allem zu stehen\.
+Unser Erlöser hingegen blieb groß über allem und ließ sich doch dazu herab,
+als einer unter allem Geschaffenen klein zu werden\.
+Den Demütigen soll daher gesagt werden,
+dass sie zur Ähnlichkeit mit Gott aufsteigen,
+indem sie sich erniedrigen;
+den Hochmütigen aber,
+dass sie,
+indem sie sich erheben,
+dem abtrünnigen Engel nacheifern und so zu Fall kommen\.
+Was ist also niedriger als der Hochmut,
+der sich über sich selbst hinausstreckt und sich gerade dadurch von der Höhe wahrer Erhabenheit entfernt?
+Und was ist erhabener als die Demut,
+die sich bis in die Tiefe hinabbeugt und sich dadurch mit ihrem Schöpfer verbindet,
+der über allem Höchsten bleibt?
+Doch muss man bei ihnen noch etwas anderes sorgfältig bedenken:
+Oft lassen sich die einen vom Anschein der Demut täuschen,
+während die anderen in der Unkenntnis ihres eigenen Hochmuts befangen sind\.
+Denn Menschen,
+die sich selbst für demütig halten,
+ist häufig eine unangebrachte Menschenfurcht beigemischt;
+Hochmütige dagegen begleitet oft ein freimütiges Eintreten mit dem Wort\.
+Wenn bestimmte Fehler getadelt werden müssen,
+schweigen die einen aus Furcht und meinen dennoch,
+aus Demut zu schweigen;
+die anderen sprechen aus hochmütiger Ungeduld und glauben dennoch,
+mit der Freimütigkeit zu reden,
+die dem rechten Wort zukommt\.
 
-Wie die Demütigen und die Hochmütigen zu ermahnen sind\. Anders sind die Demütigen zu ermahnen, anders die Hochmütigen\. Den Demütigen ist nahezubringen, wie wahr die Erhabenheit ist, an der sie in Hoffnung festhalten; den Hochmütigen dagegen, wie nichtig die zeitliche Herrlichkeit ist, die sie nicht festhalten können, obwohl sie sie umklammern\. Die Demütigen sollen hören, wie ewig ist, was sie erstreben, und wie vergänglich, was sie verachten; die Hochmütigen sollen hören, wie vergänglich ist, wonach sie trachten, und wie ewig, was sie verlieren\. Die Demütigen sollen aus dem Mund der Wahrheit, ihrer Lehrerin, hören: „Jeder, der sich selbst erniedrigt, wird erhöht werden\.[^bible-9b4c201e-08ed-4f5d-9f92-2b1293f44784] “ Die Hochmütigen sollen hören: „Jeder, der sich selbst erhöht, wird erniedrigt werden\.[^bible-9b4c201e-08ed-4f5d-9f92-2b1293f44784] “ Die Demütigen sollen hören: „Der Herrlichkeit geht Demut voraus\.[^bible-c1f6c819-1c96-453d-9577-87983b377872] “ Die Hochmütigen sollen hören: „Vor dem Sturz erhebt sich der Geist\.[^bible-accb228a-58d0-4d7b-b720-46b5d7542bed] “ Die Demütigen sollen hören: „Auf wen werde ich blicken, wenn nicht auf den Demütigen und Stillen, der vor meinen Worten zittert?[^bible-cdb793bc-61d7-4364-9f99-bdbf84ec7f58] “ Die Hochmütigen sollen hören: „Was brüsten sich Erde und Asche?[^bible-8c1ffff5-95de-4191-8e2a-4c170e775365] “ Die Demütigen sollen hören: „Gott blickt auf das Niedrige\.[^bible-1615f989-b39a-4ce6-959b-dcad51c62cdb] “ Die Hochmütigen sollen hören: „Das Hohe erkennt er von fern\.[^bible-1615f989-b39a-4ce6-959b-dcad51c62cdb] “ Die Demütigen sollen hören, dass „der Menschensohn nicht gekommen ist, um sich dienen zu lassen, sondern um zu dienen[^bible-1b1baa7b-cef0-4aff-96d8-2f9e49f23c35] “\. Die Hochmütigen sollen hören, dass „der Hochmut der Anfang jeder Sünde ist[^bible-f5b20a0c-61cf-4643-b55a-7489aac30783] “\. Die Demütigen sollen hören, dass unser Erlöser „sich selbst erniedrigte und gehorsam wurde bis zum Tod[^bible-7c4d92af-70d0-4b13-a3fe-adf06e54d6d5] “\. Die Hochmütigen sollen hören, was über ihr Oberhaupt geschrieben steht: „Er ist der König über alle Söhne des Hochmuts\.[^bible-88b3f371-8a2d-4d08-8668-933c71c60687] “ So wurde der Hochmut des Teufels zum Anlass unseres Verderbens, die Demut Gottes dagegen erwies sich als Mittel unserer Erlösung\. Unser Feind war als einer unter allem Geschaffenen erschaffen worden, wollte aber den Anschein erwecken, über allem zu stehen\. Unser Erlöser hingegen blieb groß über allem und ließ sich doch dazu herab, als einer unter allem Geschaffenen klein zu werden\. Den Demütigen soll daher gesagt werden, dass sie zur Ähnlichkeit mit Gott aufsteigen, indem sie sich erniedrigen; den Hochmütigen aber, dass sie, indem sie sich erheben, dem abtrünnigen Engel nacheifern und so zu Fall kommen\. Was ist also niedriger als der Hochmut, der sich über sich selbst hinausstreckt und sich gerade dadurch von der Höhe wahrer Erhabenheit entfernt? Und was ist erhabener als die Demut, die sich bis in die Tiefe hinabbeugt und sich dadurch mit ihrem Schöpfer verbindet, der über allem Höchsten bleibt? Doch muss man bei ihnen noch etwas anderes sorgfältig bedenken: Oft lassen sich die einen vom Anschein der Demut täuschen, während die anderen in der Unkenntnis ihres eigenen Hochmuts befangen sind\. Denn Menschen, die sich selbst für demütig halten, ist häufig eine unangebrachte Menschenfurcht beigemischt; Hochmütige dagegen begleitet oft ein freimütiges Eintreten mit dem Wort\. Wenn bestimmte Fehler getadelt werden müssen, schweigen die einen aus Furcht und meinen dennoch, aus Demut zu schweigen; die anderen sprechen aus hochmütiger Ungeduld und glauben dennoch, mit der Freimütigkeit zu reden, die dem rechten Wort zukommt\.
-
-Die einen hält unter dem Anschein der Demut ihre schuldhafte Furcht davon ab, Verkehrtes zurechtzuweisen; die anderen treibt unter dem Anschein der Freimütigkeit ihr zügelloser Hochmut dazu, Dinge zurechtzuweisen, die sie gar nicht oder doch nicht so scharf zurechtweisen dürften\. Deshalb sind die Hochmütigen zu ermahnen, nicht freier aufzutreten, als es angemessen ist, und die Demütigen, sich nicht stärker unterzuordnen, als es ihnen zuträglich ist\. Sonst machen die einen aus der Verteidigung der Gerechtigkeit eine Übung im Hochmut; die anderen aber bemühen sich, sich den Menschen über das nötige Maß hinaus zu unterwerfen, und werden dadurch gezwungen, sogar deren Fehler zu verehren\. Dabei ist zu bedenken, dass wir Hochmütige meist wirksamer zurechtweisen, wenn wir der Zurechtweisung linderndes Lob beimischen\. Man muss ihnen nämlich entweder andere gute Eigenschaften vor Augen führen, die sie tatsächlich besitzen, oder zumindest solche nennen, die sie besitzen könnten, wenn sie ihnen fehlen\. Erst dann soll man das Böse wegschneiden, das uns missfällt, nachdem das zuvor genannte Gute, das uns gefällt, ihr Herz bereit gemacht hat zuzuhören\. Denn auch ungezähmte Pferde berühren wir zunächst mit sanfter Hand, um sie später selbst mit der Peitsche umso vollständiger zu bezwingen\. Ebenso wird einem bitteren Arzneitrank die Süße des Honigs beigemischt, damit man nicht schon beim ersten Schluck die herbe Bitterkeit der Arznei spürt, die der Gesundheit nützen soll\. Während die Süße den Geschmack täuscht, führt die Bitterkeit den tödlichen Stoff aus dem Körper ab\. So ist bei Hochmütigen schon der Beginn der Zurechtweisung durch beigemischtes Lob zu mildern, damit sie, während sie das Lob annehmen, das sie lieben, auch die Zurechtweisungen aufnehmen, die sie hassen\. Oft können wir Hochmütige besser von dem überzeugen, was ihnen nützt, wenn wir sagen, ihr Fortschritt werde eher uns als ihnen zugutekommen, und wenn wir darum bitten, dass ihre Besserung mehr uns als ihnen selbst gewährt werde\. Denn Hochmut lässt sich leicht zum Guten bewegen, wenn seine Wendung zum Guten auch anderen zu nützen scheint\. So wollte Mose, der unter Gottes Leitung durch die Wüste zog, geführt von einer Wolkensäule, seinen Verwandten Hobab vom heidnischen Lebenswandel wegführen und der Herrschaft des allmächtigen Gottes unterwerfen\. Deshalb sagte er: „Wir brechen zu dem Ort auf, den der Herr uns geben wird\. Komm mit uns, damit wir dir Gutes tun; denn der Herr hat Israel Gutes verheißen\.[^bible-9c3ca39a-d04d-477b-a38b-7d54e4a5fda8] “ Als Hobab antwortete: „Ich werde nicht mit dir gehen, sondern in das Land zurückkehren, in dem ich geboren wurde[^bible-92d8bfd2-cf8f-4e14-9041-24991ba31eeb] “, fügte Mose sogleich hinzu: „Verlass uns nicht\! Du weißt nämlich, wo wir in der Wüste unser Lager aufschlagen müssen, und wirst unser Führer sein\.[^bible-edd1b76b-a976-4d93-bc17-c8b096adea6a] “ Mose litt keineswegs unter Unkenntnis des Weges: Die Erkenntnis Gottes hatte seinen Geist für die Kenntnis der Prophetie geöffnet; außen ging ihm die Säule voraus, und im Inneren unterwies ihn in allen Dingen das vertraute Gespräch, das er im beständigen Umgang mit Gott führte\. Doch dieser vorausschauende Mann sprach zu einem hochmütigen Hörer und bat ihn um Hilfe, damit er sie leisten könne\. Er suchte einen Führer für den Weg, um ihm selbst zum Führer ins Leben werden zu können\. So erreichte er, dass der hochmütige Hörer sich der Stimme, die ihn zum Besseren bewegen wollte, umso bereitwilliger hingab, je mehr er sich für unentbehrlich gehalten glaubte; und gerade weil er glaubte, seinem Mahner vorauszugehen, beugte er sich unter dessen mahnende Worte\.
+Die einen hält unter dem Anschein der Demut ihre schuldhafte Furcht davon ab,
+Verkehrtes zurechtzuweisen;
+die anderen treibt unter dem Anschein der Freimütigkeit ihr zügelloser Hochmut dazu,
+Dinge zurechtzuweisen,
+die sie gar nicht oder doch nicht so scharf zurechtweisen dürften\.
+Deshalb sind die Hochmütigen zu ermahnen,
+nicht freier aufzutreten,
+als es angemessen ist,
+und die Demütigen,
+sich nicht stärker unterzuordnen,
+als es ihnen zuträglich ist\.
+Sonst machen die einen aus der Verteidigung der Gerechtigkeit eine Übung im Hochmut;
+die anderen aber bemühen sich,
+sich den Menschen über das nötige Maß hinaus zu unterwerfen,
+und werden dadurch gezwungen,
+sogar deren Fehler zu verehren\.
+Dabei ist zu bedenken,
+dass wir Hochmütige meist wirksamer zurechtweisen,
+wenn wir der Zurechtweisung linderndes Lob beimischen\.
+Man muss ihnen nämlich entweder andere gute Eigenschaften vor Augen führen,
+die sie tatsächlich besitzen,
+oder zumindest solche nennen,
+die sie besitzen könnten,
+wenn sie ihnen fehlen\.
+Erst dann soll man das Böse wegschneiden,
+das uns missfällt,
+nachdem das zuvor genannte Gute,
+das uns gefällt,
+ihr Herz bereit gemacht hat zuzuhören\.
+Denn auch ungezähmte Pferde berühren wir zunächst mit sanfter Hand,
+um sie später selbst mit der Peitsche umso vollständiger zu bezwingen\.
+Ebenso wird einem bitteren Arzneitrank die Süße des Honigs beigemischt,
+damit man nicht schon beim ersten Schluck die herbe Bitterkeit der Arznei spürt,
+die der Gesundheit nützen soll\.
+Während die Süße den Geschmack täuscht,
+führt die Bitterkeit den tödlichen Stoff aus dem Körper ab\.
+So ist bei Hochmütigen schon der Beginn der Zurechtweisung durch beigemischtes Lob zu mildern,
+damit sie,
+während sie das Lob annehmen,
+das sie lieben,
+auch die Zurechtweisungen aufnehmen,
+die sie hassen\.
+Oft können wir Hochmütige besser von dem überzeugen,
+was ihnen nützt,
+wenn wir sagen,
+ihr Fortschritt werde eher uns als ihnen zugutekommen,
+und wenn wir darum bitten,
+dass ihre Besserung mehr uns als ihnen selbst gewährt werde\.
+Denn Hochmut lässt sich leicht zum Guten bewegen,
+wenn seine Wendung zum Guten auch anderen zu nützen scheint\.
+So wollte Mose,
+der unter Gottes Leitung durch die Wüste zog,
+geführt von einer Wolkensäule,
+seinen Verwandten Hobab vom heidnischen Lebenswandel wegführen und der Herrschaft des allmächtigen Gottes unterwerfen\.
+Deshalb sagte er:
+„Wir brechen zu dem Ort auf,
+den der Herr uns geben wird\.
+Komm mit uns,
+damit wir dir Gutes tun;
+denn der Herr hat Israel Gutes verheißen\.[^bible-9c3ca39a-d04d-477b-a38b-7d54e4a5fda8]
+“ Als Hobab antwortete:
+„Ich werde nicht mit dir gehen,
+sondern in das Land zurückkehren,
+in dem ich geboren wurde[^bible-92d8bfd2-cf8f-4e14-9041-24991ba31eeb] “,
+fügte Mose sogleich hinzu:
+„Verlass uns nicht\!
+Du weißt nämlich,
+wo wir in der Wüste unser Lager aufschlagen müssen,
+und wirst unser Führer sein\.[^bible-edd1b76b-a976-4d93-bc17-c8b096adea6a]
+“ Mose litt keineswegs unter Unkenntnis des Weges:
+Die Erkenntnis Gottes hatte seinen Geist für die Kenntnis der Prophetie geöffnet;
+außen ging ihm die Säule voraus,
+und im Inneren unterwies ihn in allen Dingen das vertraute Gespräch,
+das er im beständigen Umgang mit Gott führte\.
+Doch dieser vorausschauende Mann sprach zu einem hochmütigen Hörer und bat ihn um Hilfe,
+damit er sie leisten könne\.
+Er suchte einen Führer für den Weg,
+um ihm selbst zum Führer ins Leben werden zu können\.
+So erreichte er,
+dass der hochmütige Hörer sich der Stimme,
+die ihn zum Besseren bewegen wollte,
+umso bereitwilliger hingab,
+je mehr er sich für unentbehrlich gehalten glaubte;
+und gerade weil er glaubte,
+seinem Mahner vorauszugehen,
+beugte er sich unter dessen mahnende Worte\.
 
 ## Bibelverweise
 

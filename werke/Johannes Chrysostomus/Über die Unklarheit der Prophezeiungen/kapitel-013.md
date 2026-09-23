@@ -7,11 +7,163 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-die-unklarheit-der-prophezeiungen#kapitel-1dd47837-1476-4ed0-73c7-08df05e0ddd9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:327e171dc51e3722cac7c34d8872540d00cb00a04f99e2bcdee0f81af6a6b8db`
+Nachdem er also gesagt hatte:
+„Damit er das Herz des Vaters zum Sohn zurückführt[^bible-77a7641d-82aa-4f85-8cfe-fa9813164183]“,
+fügte er hinzu:
+„Damit ich nicht komme und die Erde völlig zerschlage[^bible-77a7641d-82aa-4f85-8cfe-fa9813164183]\.“
+Er schlägt jedoch die Sünder\.
+Siehst du,
+dass die Sünder Erde genannt werden?
+An einer anderen Stelle spricht der Prophet über Christus und sagt:
+„Er wird Gerechtigkeit um seine Hüften gegürtet und Wahrheit um seine Seiten gelegt haben[^bible-b2a0d2e4-418e-485c-9ce2-13a1c633baa4]\.“
+Damit ist nicht gemeint,
+Gott habe Seiten und Hüften,
+denn das Göttliche ist körperlos\.
+Vielmehr zeigt er uns damit,
+dass das Urteil des Richters unbestechlich ist und niemanden übersieht\.
+Dort wird es keine Verleumder mehr geben,
+keine,
+die anderen Unrecht zufügen,
+keine Bestechung durch Geld und keine Unkenntnis dessen,
+was recht ist\.
+Vor unseren Gerichten wird nämlich auch ein Unschuldiger bestraft,
+während ein Schuldiger entkommt,
+denn vielerorts ist das Recht verdorben\.
+Wenn aber der gerechte Richter kommt,
+der niemanden übersieht,
+„der Gerechtigkeit um seine Hüften gegürtet und Wahrheit um seine Seiten gelegt hat[^bible-b2a0d2e4-418e-485c-9ce2-13a1c633baa4]“,
+werden alle genau das erhalten,
+was ihnen nach dem Recht zusteht\.
+„Und er wird die Erde mit dem Wort seines Mundes schlagen[^bible-7da9cd29-3122-4653-be83-e6ee1336c2eb]\.“
+Damit du erkennst,
+dass er nicht von der Erde,
+sondern von den Sündern spricht,
+fügte er hinzu:
+„Und durch den Hauch seiner Lippen wird er die Gottlosen töten[^bible-7da9cd29-3122-4653-be83-e6ee1336c2eb]\.“
+Siehst du,
+dass er auch hier die Sünder Erde genannt hat?
+Wenn du also weißt,
+dass „die ganze Erde eine einzige Sprache hatte[^bible-16396ff2-c34e-41c5-84c9-cd9d6d685968]“,
+dann denke dabei wieder an die menschliche Natur\.
+Denn diese Bezeichnung erinnert uns an unsere eigene Niedrigkeit\.
+Es ist ja ein großes Gut,
+unsere Herkunft zu bedenken und zu wissen,
+woraus wir gemacht sind\.
+Diese Betrachtung unserer Natur allein lehrt uns Demut\.
+Sie kann alle Leidenschaften bezwingen und den Geist zur Ruhe bringen\.
+Deshalb mahnte jemand:
+„Achte auf dich selbst[^bible-88629342-f266-4d0d-aeab-5fffa0e247d1]\.“
+Bedenke deine Natur und wie du geschaffen bist;
+das genügt,
+um dich für immer zur Ruhe zu bringen\.
+Deshalb trug jener gerechte Abraham diesen Gedanken stets in sich und wurde niemals hochmütig\.
+Obwohl er mit Gott sprach,
+sich so großer Freiheit vor ihm erfreute und von ihm selbst seiner Tugend wegen ein gutes Zeugnis empfing,
+sagte er:
+„Ich aber bin Erde und Asche[^bible-1ceddfb2-c0e7-416f-943b-c7282198ac37]\.“
+Ein anderer wiederum will einen aufgeblasenen Menschen zur Besinnung bringen\.
+Er hält keine langen Reden,
+sondern erinnert ihn nur an seine Natur und weist ihn mit aller Schärfe zurecht:
+„Was wird Erde und Asche hochmütig[^bible-b23e3040-7650-4502-a63b-a19da517e118]?“
+Du redest mir von dem,
+was nach dem Tod sichtbar wird?
+Bring ihn zur Besinnung,
+solange er lebt\!
+Jetzt weiß er nicht,
+dass er Erde und Asche ist\.
+Er sieht die Schönheit seines Körpers,
+sieht seine Macht,
+die Dienste der Schmeichler und die Schmarotzer,
+die ihm folgen\.
+Er trägt kostbare Gewänder und hat sich mit dem ganzen Prunk seines hohen Amtes umgeben\.
+Dieser äußere Schein täuscht ihn und lässt ihn seine Natur vergessen\.
 
-Nachdem er also gesagt hatte: „Damit er das Herz des Vaters zum Sohn zurückführt[^bible-77a7641d-82aa-4f85-8cfe-fa9813164183]“, fügte er hinzu: „Damit ich nicht komme und die Erde völlig zerschlage[^bible-77a7641d-82aa-4f85-8cfe-fa9813164183]\.“ Er schlägt jedoch die Sünder\. Siehst du, dass die Sünder Erde genannt werden? An einer anderen Stelle spricht der Prophet über Christus und sagt: „Er wird Gerechtigkeit um seine Hüften gegürtet und Wahrheit um seine Seiten gelegt haben[^bible-b2a0d2e4-418e-485c-9ce2-13a1c633baa4]\.“ Damit ist nicht gemeint, Gott habe Seiten und Hüften, denn das Göttliche ist körperlos\. Vielmehr zeigt er uns damit, dass das Urteil des Richters unbestechlich ist und niemanden übersieht\. Dort wird es keine Verleumder mehr geben, keine, die anderen Unrecht zufügen, keine Bestechung durch Geld und keine Unkenntnis dessen, was recht ist\. Vor unseren Gerichten wird nämlich auch ein Unschuldiger bestraft, während ein Schuldiger entkommt, denn vielerorts ist das Recht verdorben\. Wenn aber der gerechte Richter kommt, der niemanden übersieht, „der Gerechtigkeit um seine Hüften gegürtet und Wahrheit um seine Seiten gelegt hat[^bible-b2a0d2e4-418e-485c-9ce2-13a1c633baa4]“, werden alle genau das erhalten, was ihnen nach dem Recht zusteht\. „Und er wird die Erde mit dem Wort seines Mundes schlagen[^bible-7da9cd29-3122-4653-be83-e6ee1336c2eb]\.“ Damit du erkennst, dass er nicht von der Erde, sondern von den Sündern spricht, fügte er hinzu: „Und durch den Hauch seiner Lippen wird er die Gottlosen töten[^bible-7da9cd29-3122-4653-be83-e6ee1336c2eb]\.“ Siehst du, dass er auch hier die Sünder Erde genannt hat? Wenn du also weißt, dass „die ganze Erde eine einzige Sprache hatte[^bible-16396ff2-c34e-41c5-84c9-cd9d6d685968]“, dann denke dabei wieder an die menschliche Natur\. Denn diese Bezeichnung erinnert uns an unsere eigene Niedrigkeit\. Es ist ja ein großes Gut, unsere Herkunft zu bedenken und zu wissen, woraus wir gemacht sind\. Diese Betrachtung unserer Natur allein lehrt uns Demut\. Sie kann alle Leidenschaften bezwingen und den Geist zur Ruhe bringen\. Deshalb mahnte jemand: „Achte auf dich selbst[^bible-88629342-f266-4d0d-aeab-5fffa0e247d1]\.“ Bedenke deine Natur und wie du geschaffen bist; das genügt, um dich für immer zur Ruhe zu bringen\. Deshalb trug jener gerechte Abraham diesen Gedanken stets in sich und wurde niemals hochmütig\. Obwohl er mit Gott sprach, sich so großer Freiheit vor ihm erfreute und von ihm selbst seiner Tugend wegen ein gutes Zeugnis empfing, sagte er: „Ich aber bin Erde und Asche[^bible-1ceddfb2-c0e7-416f-943b-c7282198ac37]\.“ Ein anderer wiederum will einen aufgeblasenen Menschen zur Besinnung bringen\. Er hält keine langen Reden, sondern erinnert ihn nur an seine Natur und weist ihn mit aller Schärfe zurecht: „Was wird Erde und Asche hochmütig[^bible-b23e3040-7650-4502-a63b-a19da517e118]?“ Du redest mir von dem, was nach dem Tod sichtbar wird? Bring ihn zur Besinnung, solange er lebt\! Jetzt weiß er nicht, dass er Erde und Asche ist\. Er sieht die Schönheit seines Körpers, sieht seine Macht, die Dienste der Schmeichler und die Schmarotzer, die ihm folgen\. Er trägt kostbare Gewänder und hat sich mit dem ganzen Prunk seines hohen Amtes umgeben\. Dieser äußere Schein täuscht ihn und lässt ihn seine Natur vergessen\.
-
-Wir wissen, dass wir Erde und Asche sind, zumindest wir, die wir besonnen sind\. Jener aber wartet nicht auf den Beweis, den das Ende erbringt; er geht auch nicht zu den Särgen und Grabstätten seiner Vorfahren, sondern richtet den Blick auf das Gegenwärtige und denkt nicht an das Künftige\. Lehre ihn daher schon jetzt, dass er Erde und Asche ist\. „Lass mich nur gewähren“, sagt er, „dann lehre ich ihn nicht dies, sondern etwas weit Niedrigeres, damit er, gerade wenn er sich großtut, seine eigene Niedrigkeit erkennt und noch zu Lebzeiten die Arznei empfängt\.“ Denn nachdem er gesagt hatte: „Was wird Erde und Asche hochmütig?“, fügte er hinzu: „Schon zu seinen Lebzeiten sind seine Eingeweide wertlos\.“ Was bedeutet: „Schon zu seinen Lebzeiten sind seine Eingeweide wertlos“? Vielleicht ist diese Aussage unklar\. Mit den Eingeweiden meint er die inneren Organe, meint er die Gedärme, den Bauch, der voll von Kot, großer Unreinheit und Gestank ist\. Damit klagt er nicht die Natur an, sondern führt zur Demut: „Schon zu seinen Lebzeiten sind sie wertlos\.[^bible-f64e7a8c-e9e0-4ef3-8ebe-30b9ddae2a60]“ Siehst du, wie niedrig und vergänglich unser Wesen ist? Warte nicht auf den Tag deines Todes, um deine Schwäche zu erkennen\. Untersuche den Menschen für mich, solange er noch lebt, dringe mit deinen Gedanken in sein Inneres vor, und du wirst seine ganze Nichtigkeit erkennen\. Doch verzage nicht\. Denn Gott hat uns nicht aus Hass so geschaffen, sondern weil er uns schont und uns reichlich Anlass zur Demut gibt\. Wenn nämlich ein Mensch, obwohl er Erde und Asche ist, zu sagen wagte: „Ich werde zum Himmel hinaufsteigen[^bible-9f351a44-d7f9-45bf-876a-aaf2227c7f67] “, wohin hätte er sich dann erst in Gedanken verstiegen, wenn ihn nicht der Zügel seiner Natur zurückgehalten hätte? Wenn du also einen aufgeblasenen Menschen siehst, der den Nacken reckt, die Augenbrauen hochzieht, sich in seinem Wagen tragen lässt, droht, Menschen ins Gefängnis wirft, dem Tod ausliefert und misshandelt, dann sag zu ihm: „Was wird Erde und Asche hochmütig? Schon zu seinen Lebzeiten sind seine Eingeweide wertlos\.[^bible-f64e7a8c-e9e0-4ef3-8ebe-30b9ddae2a60]“ Das lässt sich nicht nur von einem gewöhnlichen Menschen sagen, sondern auch von dem selbst, der auf dem Königsthron sitzt\. Sieh nicht auf den Purpurmantel, nicht auf das Diadem und nicht auf die goldenen Gewänder, sondern untersuche die menschliche Natur selbst, und du wirst erkennen, dass sie vor der Menge nichts voraus hat\. Oder besser noch: Wenn du willst, betrachte auch den Purpurmantel, das Diadem, die Gewänder und den ganzen äußeren Prunk, und du wirst erkennen, dass selbst all dem die Erde zugrunde liegt\. Denn alle Herrlichkeit des Menschen ist wie die Blüte des Grases[^bible-65ea08f0-69af-47c1-a449-0cbe35875841]\. So erweist sich all jener Schmuck sogar als geringer als die Erde\. Siehst du, wie der Gedanke an die menschliche Natur den aufgeblähten Hochmut dämpft und jede Vermessenheit niederreißt? Es genügt, darüber nachzudenken, wer wir sind und woraus wir bestehen, und jede Vermessenheit unserer Gedanken wird sich verflüchtigen\. Darum hat Gott uns aus zwei Bestandteilen gebildet: Wenn du dich voller Vermessenheit erhebst, soll dich die Niedrigkeit des Fleisches zur Besinnung bringen; wenn du aber etwas denkst, das der von Gott verliehenen Ehre unwürdig und unedel ist, soll dich der Adel der Seele zum Eifer für die himmlischen Mächte erheben\.
+Wir wissen,
+dass wir Erde und Asche sind,
+zumindest wir,
+die wir besonnen sind\.
+Jener aber wartet nicht auf den Beweis,
+den das Ende erbringt;
+er geht auch nicht zu den Särgen und Grabstätten seiner Vorfahren,
+sondern richtet den Blick auf das Gegenwärtige und denkt nicht an das Künftige\.
+Lehre ihn daher schon jetzt,
+dass er Erde und Asche ist\.
+„Lass mich nur gewähren“,
+sagt er,
+„dann lehre ich ihn nicht dies,
+sondern etwas weit Niedrigeres,
+damit er,
+gerade wenn er sich großtut,
+seine eigene Niedrigkeit erkennt und noch zu Lebzeiten die Arznei empfängt\.“
+Denn nachdem er gesagt hatte:
+„Was wird Erde und Asche hochmütig?“,
+fügte er hinzu:
+„Schon zu seinen Lebzeiten sind seine Eingeweide wertlos\.“
+Was bedeutet:
+„Schon zu seinen Lebzeiten sind seine Eingeweide wertlos“?
+Vielleicht ist diese Aussage unklar\.
+Mit den Eingeweiden meint er die inneren Organe,
+meint er die Gedärme,
+den Bauch,
+der voll von Kot,
+großer Unreinheit und Gestank ist\.
+Damit klagt er nicht die Natur an,
+sondern führt zur Demut:
+„Schon zu seinen Lebzeiten sind sie wertlos\.[^bible-f64e7a8c-e9e0-4ef3-8ebe-30b9ddae2a60]“ Siehst du,
+wie niedrig und vergänglich unser Wesen ist?
+Warte nicht auf den Tag deines Todes,
+um deine Schwäche zu erkennen\.
+Untersuche den Menschen für mich,
+solange er noch lebt,
+dringe mit deinen Gedanken in sein Inneres vor,
+und du wirst seine ganze Nichtigkeit erkennen\.
+Doch verzage nicht\.
+Denn Gott hat uns nicht aus Hass so geschaffen,
+sondern weil er uns schont und uns reichlich Anlass zur Demut gibt\.
+Wenn nämlich ein Mensch,
+obwohl er Erde und Asche ist,
+zu sagen wagte:
+„Ich werde zum Himmel hinaufsteigen[^bible-9f351a44-d7f9-45bf-876a-aaf2227c7f67] “,
+wohin hätte er sich dann erst in Gedanken verstiegen,
+wenn ihn nicht der Zügel seiner Natur zurückgehalten hätte?
+Wenn du also einen aufgeblasenen Menschen siehst,
+der den Nacken reckt,
+die Augenbrauen hochzieht,
+sich in seinem Wagen tragen lässt,
+droht,
+Menschen ins Gefängnis wirft,
+dem Tod ausliefert und misshandelt,
+dann sag zu ihm:
+„Was wird Erde und Asche hochmütig?
+Schon zu seinen Lebzeiten sind seine Eingeweide wertlos\.[^bible-f64e7a8c-e9e0-4ef3-8ebe-30b9ddae2a60]“ Das lässt sich nicht nur von einem gewöhnlichen Menschen sagen,
+sondern auch von dem selbst,
+der auf dem Königsthron sitzt\.
+Sieh nicht auf den Purpurmantel,
+nicht auf das Diadem und nicht auf die goldenen Gewänder,
+sondern untersuche die menschliche Natur selbst,
+und du wirst erkennen,
+dass sie vor der Menge nichts voraus hat\.
+Oder besser noch:
+Wenn du willst,
+betrachte auch den Purpurmantel,
+das Diadem,
+die Gewänder und den ganzen äußeren Prunk,
+und du wirst erkennen,
+dass selbst all dem die Erde zugrunde liegt\.
+Denn alle Herrlichkeit des Menschen ist wie die Blüte des Grases[^bible-65ea08f0-69af-47c1-a449-0cbe35875841]\.
+So erweist sich all jener Schmuck sogar als geringer als die Erde\.
+Siehst du,
+wie der Gedanke an die menschliche Natur den aufgeblähten Hochmut dämpft und jede Vermessenheit niederreißt?
+Es genügt,
+darüber nachzudenken,
+wer wir sind und woraus wir bestehen,
+und jede Vermessenheit unserer Gedanken wird sich verflüchtigen\.
+Darum hat Gott uns aus zwei Bestandteilen gebildet:
+Wenn du dich voller Vermessenheit erhebst,
+soll dich die Niedrigkeit des Fleisches zur Besinnung bringen;
+wenn du aber etwas denkst,
+das der von Gott verliehenen Ehre unwürdig und unedel ist,
+soll dich der Adel der Seele zum Eifer für die himmlischen Mächte erheben\.
 
 ## Bibelverweise
 

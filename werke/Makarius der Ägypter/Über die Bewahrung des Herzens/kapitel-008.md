@@ -7,8 +7,63 @@ Autor: Makarius der Ägypter
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/makarius-der-aegypter/ueber-die-bewahrung-des-herzens#kapitel-7df9d833-9d6b-4810-6311-08dd7599b139).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:afc15f4c31b9c2214836c011aff710b4dba70589a36661ec876de98d9790f4f7`
+Denn tatsächlich brachte der Patriarch Abraham die Erstlinge dem Priester Gottes,
+Melchisedek,
+dar;
+und so erhielt er von ihm einen Segen\.
+Doch was möchte der Geist damit noch ausdrücken?
+Er will ein höheres und tieferes Verständnis vermitteln,
+das den Gipfel und den innersten Kern,
+das Wesen und die Grundlage unserer gesamten Schöpfung anzeigt;
+das heißt,
+den Verstand selbst,
+das Gewissen selbst,
+die Gesinnung selbst,
+den Gedanken selbst,
+die Fähigkeit zu lieben selbst\.
+Diese Erstlinge unseres gesamten Seins sollten wir Gott vor allem anderen darbringen und gleichsam das heilige Opfer unserer Herzen,
+die Erstlinge und den Höhepunkt guter Gedanken,
+dem Gedenken und der Meditation über Gott widmen,
+während alle anderen Beschäftigungen beiseitegelegt werden,
+in einem Zustand geistiger Leere\.
+So können wir täglich Wachstum und Fortschritt empfangen,
+unterstützt durch göttliche Gnade;
+und die Last der gerechten Gebote wird uns leicht erscheinen,
+während wir sie rein und tadellos erfüllen,
+mit dem Herrn,
+der durch unseren Glauben an Ihn mit uns zusammenarbeitet\.
 
-Denn tatsächlich brachte der Patriarch Abraham die Erstlinge dem Priester Gottes, Melchisedek, dar; und so erhielt er von ihm einen Segen\. Doch was möchte der Geist damit noch ausdrücken? Er will ein höheres und tieferes Verständnis vermitteln, das den Gipfel und den innersten Kern, das Wesen und die Grundlage unserer gesamten Schöpfung anzeigt; das heißt, den Verstand selbst, das Gewissen selbst, die Gesinnung selbst, den Gedanken selbst, die Fähigkeit zu lieben selbst\. Diese Erstlinge unseres gesamten Seins sollten wir Gott vor allem anderen darbringen und gleichsam das heilige Opfer unserer Herzen, die Erstlinge und den Höhepunkt guter Gedanken, dem Gedenken und der Meditation über Gott widmen, während alle anderen Beschäftigungen beiseitegelegt werden, in einem Zustand geistiger Leere\. So können wir täglich Wachstum und Fortschritt empfangen, unterstützt durch göttliche Gnade; und die Last der gerechten Gebote wird uns leicht erscheinen, während wir sie rein und tadellos erfüllen, mit dem Herrn, der durch unseren Glauben an Ihn mit uns zusammenarbeitet\.
-
-Was die sichtbare Übung und das größte und wichtigste gute Bestreben betrifft, so weiß, Geliebte, dass die Tugenden einander anvertraut und miteinander verbunden werden müssen, jede von der anderen abhängig, wodurch eine heilige und geistliche Kette entsteht, in der das Gebet mit der Nächstenliebe verbunden ist, die Nächstenliebe mit der Freude, die Freude mit der Sanftmut, die Sanftmut mit der Demut, die Demut mit dem Dienst, der Dienst mit der Hoffnung, die Hoffnung mit dem Glauben, der Glaube mit dem Gehorsam, der Gehorsam mit der Einfachheit, und all diese sind miteinander verbunden und verflochten\. Ebenso verbinden sich auch die Laster miteinander, und aus einem entsteht das andere: zum Beispiel Hass aus Zorn, Zorn aus Stolz, Stolz aus eitler Ruhmsucht, eitle Ruhmsucht aus Unglauben, Unglaube aus Herzenskälte, Herzenskälte aus Nachlässigkeit, Nachlässigkeit aus Trägheit, Trägheit aus Verachtung, Verachtung aus Faulheit, Faulheit aus Feigheit, und so werden andere Teile der Gottlosigkeit zusammengezogen und angezogen\. In ähnlicher Weise hängen die Tugenden gegenseitig voneinander ab, und der Kopf aller Tugenden, der höchste Gipfel lobenswerter Werke, ist das beharrliche Gebet, aus dem wir täglich die anderen Tugenden von Gott durch fortwährendes Gebet empfangen können\.
+Was die sichtbare Übung und das größte und wichtigste gute Bestreben betrifft,
+so weiß,
+Geliebte,
+dass die Tugenden einander anvertraut und miteinander verbunden werden müssen,
+jede von der anderen abhängig,
+wodurch eine heilige und geistliche Kette entsteht,
+in der das Gebet mit der Nächstenliebe verbunden ist,
+die Nächstenliebe mit der Freude,
+die Freude mit der Sanftmut,
+die Sanftmut mit der Demut,
+die Demut mit dem Dienst,
+der Dienst mit der Hoffnung,
+die Hoffnung mit dem Glauben,
+der Glaube mit dem Gehorsam,
+der Gehorsam mit der Einfachheit,
+und all diese sind miteinander verbunden und verflochten\.
+Ebenso verbinden sich auch die Laster miteinander,
+und aus einem entsteht das andere:
+zum Beispiel Hass aus Zorn,
+Zorn aus Stolz,
+Stolz aus eitler Ruhmsucht,
+eitle Ruhmsucht aus Unglauben,
+Unglaube aus Herzenskälte,
+Herzenskälte aus Nachlässigkeit,
+Nachlässigkeit aus Trägheit,
+Trägheit aus Verachtung,
+Verachtung aus Faulheit,
+Faulheit aus Feigheit,
+und so werden andere Teile der Gottlosigkeit zusammengezogen und angezogen\.
+In ähnlicher Weise hängen die Tugenden gegenseitig voneinander ab,
+und der Kopf aller Tugenden,
+der höchste Gipfel lobenswerter Werke,
+ist das beharrliche Gebet,
+aus dem wir täglich die anderen Tugenden von Gott durch fortwährendes Gebet empfangen können\.

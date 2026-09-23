@@ -7,9 +7,152 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/54-homilie-ueber-matthaeus#kapitel-a82a8d46-da7d-41de-5b3b-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:00c34d30b3a75103b80502d9d6682b8f91a109a4d0252cdac4bd2cfcf4b84c05`
-
-Was ist denn überhaupt schwierig an dem, was gesagt wurde? Denn er sagte nicht: „Steig über den Berg, durchquere das Meer, grabe soundso viele Plethren Land um, bleib ohne Nahrung, leg ein Sackgewand an“, sondern: „Gib den Deinen Anteil, teile dein Brot, zerreiß die ungerecht aufgesetzten Schuldschriften\.“ Was ist leichter als das, sage mir? Wenn du es aber für schwierig hältst, dann sieh auch auf die Kampfpreise, und es wird dir leicht werden\. Wie nämlich Könige bei den Pferderennen vor den Wettkämpfern Kränze, Preise und Gewänder auslegen, so legt auch Christus die Kampfpreise mitten ins Stadion, als streckte er sie durch die vielen Hände der Worte des Propheten aus\. Die Könige aber, auch wenn sie tausendmal Könige sind, bleiben doch Menschen; sie besitzen Reichtum, der sich aufzehrt, und eine Ehrsucht, die sich verbraucht\. Darum bemühen sie sich, das Wenige als viel erscheinen zu lassen; deshalb vertrauen sie jedes einzelne Stück einem der Diener an und bringen es so in die Mitte\. Unser König dagegen tut das Gegenteil: Er trägt alles auf einmal zusammen; denn er ist überreich und tut nichts zur Schaustellung\. So stellt er es in die Mitte: Wenn man es ausbreitet, wird es unendlich sein und viele Hände brauchen, die es halten\. Und damit du das erkennst, betrachte jedes einzelne davon genau\. „Dann wird dein Licht früh hervorbrechen[^bible-b45d8994-0b35-4ca6-98f1-3b76a5d9d4f1]“, sagt er\. Scheint dir diese Gabe etwa nur eine einzige zu sein? Sie ist nicht nur eine; denn sie trägt vieles in sich: Preise, Kränze und andere Kampfpreise\. Wenn ihr wollt, wollen wir sie lösen und den ganzen Reichtum zeigen, soweit es uns möglich ist, ihn zu zeigen; nur werdet nicht müde\. Zuerst will ich wissen, worin dieses „hervorbrechen“ liegt\. Denn er sagte nicht: „Es wird erscheinen“, sondern: „Es wird hervorbrechen\.“ Damit zeigt er uns die Schnelligkeit und die Fülle, wie sehr er nach unserem Heil verlangt, wie sehr er gleichsam in Wehen liegt, um diese Güter hervorzubringen, wie sehr er drängt und dass nichts diese unaussprechliche, vorwärtsreißende Wucht hemmen wird\. Durch all das zeigt er ihre Fülle und das unendliche Übermaß\. Was aber heißt „früh“? Das heißt: nicht erst nachdem man in Versuchungen geraten ist, nicht erst nach dem Ansturm der Übel, sondern es kommt den Versuchungen zuvor\. Wie wir nämlich bei den Früchten das „früh“ nennen, was vor der Zeit erscheint, so hat er es auch hier gesagt, um wiederum die Schnelligkeit zu zeigen\. So sagte er auch oben: „Während du noch sprichst, werde ich sagen: Siehe, ich bin da\.[^bible-4ef3b335-63a9-472a-931e-65c810b97985]“ Von welchem Licht aber spricht er? Und was ist dieses Licht? Nicht dieses sinnlich wahrnehmbare, sondern ein anderes, weit besseres: Es zeigt uns den Himmel, die Engel, die Erzengel, die Cherubim, die Serafim, die Throne, die Herrschaften, die Mächte, die Gewalten, das ganze Heer, die königlichen Höfe, die Wohnungen\. Denn wenn du jenes Lichtes gewürdigt wirst, wirst du auch dies sehen und der Gehenna entkommen, dem giftigen Wurm, dem Zähneknirschen, den unlösbaren Fesseln, der Enge, der Bedrängnis, der lichtlosen Finsternis, dem Zerteiltwerden, dem Feuerstrom, dem Fluch und den Orten des Schmerzes\. Und du wirst dorthin gehen, wo „Schmerz und Trauer entflohen sind[^bible-0f239ed7-d450-462e-b16c-82419252a722]“; wo große Freude ist, Frieden, Liebe, Wonne und Jubel; wo ewiges Leben ist, unaussprechliche Herrlichkeit und unbeschreibliche Schönheit; wo ewige Wohnungen sind, die unaussprechliche Herrlichkeit des Königs und jene Güter, „die kein Auge gesehen und kein Ohr gehört hat und die in keines Menschen Herz hinaufgestiegen sind[^bible-96c4037e-604e-444c-a005-43fb70472c51]“; wo das geistliche Brautgemach ist, die Hochzeitskammern der Himmel, die Jungfrauen mit den hell leuchtenden Lampen und die, die das Hochzeitsgewand tragen; wo der Besitz des Herrn groß ist und die königlichen Schatzkammern sind\. Siehst du, wie groß die Kampfpreise sind, wie vieles er mit einem einzigen Wort gezeigt und wie er alles zusammengetragen hat? So werden wir auch, wenn wir jedes der folgenden Worte entfalten, ein großes Übermaß und ein unermessliches Meer finden\. Wollen wir also noch zögern, sage mir, und werden wir uns scheuen, den Bedürftigen barmherzig zu sein? Nein, ich bitte euch\. Selbst wenn wir alles wegwerfen müssten, selbst wenn wir ins Feuer geworfen werden müssten, selbst wenn wir es wagen müssten, dem Schwert entgegenzutreten, uns auf Messer zu stürzen oder was auch immer zu erleiden: Lasst uns alles leicht tragen, damit wir das Gewand des Himmelreichs und jene unaussprechliche Herrlichkeit erlangen\. Möge es uns allen zuteilwerden, sie zu erlangen, durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus, dem die Herrlichkeit und die Macht sei von Ewigkeit zu Ewigkeit\. Amen\.
+Was ist denn überhaupt schwierig an dem,
+was gesagt wurde?
+Denn er sagte nicht:
+„Steig über den Berg,
+durchquere das Meer,
+grabe soundso viele Plethren Land um,
+bleib ohne Nahrung,
+leg ein Sackgewand an“,
+sondern:
+„Gib den Deinen Anteil,
+teile dein Brot,
+zerreiß die ungerecht aufgesetzten Schuldschriften\.“
+Was ist leichter als das,
+sage mir?
+Wenn du es aber für schwierig hältst,
+dann sieh auch auf die Kampfpreise,
+und es wird dir leicht werden\.
+Wie nämlich Könige bei den Pferderennen vor den Wettkämpfern Kränze,
+Preise und Gewänder auslegen,
+so legt auch Christus die Kampfpreise mitten ins Stadion,
+als streckte er sie durch die vielen Hände der Worte des Propheten aus\.
+Die Könige aber,
+auch wenn sie tausendmal Könige sind,
+bleiben doch Menschen;
+sie besitzen Reichtum,
+der sich aufzehrt,
+und eine Ehrsucht,
+die sich verbraucht\.
+Darum bemühen sie sich,
+das Wenige als viel erscheinen zu lassen;
+deshalb vertrauen sie jedes einzelne Stück einem der Diener an und bringen es so in die Mitte\.
+Unser König dagegen tut das Gegenteil:
+Er trägt alles auf einmal zusammen;
+denn er ist überreich und tut nichts zur Schaustellung\.
+So stellt er es in die Mitte:
+Wenn man es ausbreitet,
+wird es unendlich sein und viele Hände brauchen,
+die es halten\.
+Und damit du das erkennst,
+betrachte jedes einzelne davon genau\.
+„Dann wird dein Licht früh hervorbrechen[^bible-b45d8994-0b35-4ca6-98f1-3b76a5d9d4f1]“,
+sagt er\.
+Scheint dir diese Gabe etwa nur eine einzige zu sein?
+Sie ist nicht nur eine;
+denn sie trägt vieles in sich:
+Preise,
+Kränze und andere Kampfpreise\.
+Wenn ihr wollt,
+wollen wir sie lösen und den ganzen Reichtum zeigen,
+soweit es uns möglich ist,
+ihn zu zeigen;
+nur werdet nicht müde\.
+Zuerst will ich wissen,
+worin dieses „hervorbrechen“ liegt\.
+Denn er sagte nicht:
+„Es wird erscheinen“,
+sondern:
+„Es wird hervorbrechen\.“
+Damit zeigt er uns die Schnelligkeit und die Fülle,
+wie sehr er nach unserem Heil verlangt,
+wie sehr er gleichsam in Wehen liegt,
+um diese Güter hervorzubringen,
+wie sehr er drängt und dass nichts diese unaussprechliche,
+vorwärtsreißende Wucht hemmen wird\.
+Durch all das zeigt er ihre Fülle und das unendliche Übermaß\.
+Was aber heißt „früh“?
+Das heißt:
+nicht erst nachdem man in Versuchungen geraten ist,
+nicht erst nach dem Ansturm der Übel,
+sondern es kommt den Versuchungen zuvor\.
+Wie wir nämlich bei den Früchten das „früh“ nennen,
+was vor der Zeit erscheint,
+so hat er es auch hier gesagt,
+um wiederum die Schnelligkeit zu zeigen\.
+So sagte er auch oben:
+„Während du noch sprichst,
+werde ich sagen:
+Siehe,
+ich bin da\.[^bible-4ef3b335-63a9-472a-931e-65c810b97985]“ Von welchem Licht aber spricht er?
+Und was ist dieses Licht?
+Nicht dieses sinnlich wahrnehmbare,
+sondern ein anderes,
+weit besseres:
+Es zeigt uns den Himmel,
+die Engel,
+die Erzengel,
+die Cherubim,
+die Serafim,
+die Throne,
+die Herrschaften,
+die Mächte,
+die Gewalten,
+das ganze Heer,
+die königlichen Höfe,
+die Wohnungen\.
+Denn wenn du jenes Lichtes gewürdigt wirst,
+wirst du auch dies sehen und der Gehenna entkommen,
+dem giftigen Wurm,
+dem Zähneknirschen,
+den unlösbaren Fesseln,
+der Enge,
+der Bedrängnis,
+der lichtlosen Finsternis,
+dem Zerteiltwerden,
+dem Feuerstrom,
+dem Fluch und den Orten des Schmerzes\.
+Und du wirst dorthin gehen,
+wo „Schmerz und Trauer entflohen sind[^bible-0f239ed7-d450-462e-b16c-82419252a722]“;
+wo große Freude ist,
+Frieden,
+Liebe,
+Wonne und Jubel;
+wo ewiges Leben ist,
+unaussprechliche Herrlichkeit und unbeschreibliche Schönheit;
+wo ewige Wohnungen sind,
+die unaussprechliche Herrlichkeit des Königs und jene Güter,
+„die kein Auge gesehen und kein Ohr gehört hat und die in keines Menschen Herz hinaufgestiegen sind[^bible-96c4037e-604e-444c-a005-43fb70472c51]“;
+wo das geistliche Brautgemach ist,
+die Hochzeitskammern der Himmel,
+die Jungfrauen mit den hell leuchtenden Lampen und die,
+die das Hochzeitsgewand tragen;
+wo der Besitz des Herrn groß ist und die königlichen Schatzkammern sind\.
+Siehst du,
+wie groß die Kampfpreise sind,
+wie vieles er mit einem einzigen Wort gezeigt und wie er alles zusammengetragen hat?
+So werden wir auch,
+wenn wir jedes der folgenden Worte entfalten,
+ein großes Übermaß und ein unermessliches Meer finden\.
+Wollen wir also noch zögern,
+sage mir,
+und werden wir uns scheuen,
+den Bedürftigen barmherzig zu sein?
+Nein,
+ich bitte euch\.
+Selbst wenn wir alles wegwerfen müssten,
+selbst wenn wir ins Feuer geworfen werden müssten,
+selbst wenn wir es wagen müssten,
+dem Schwert entgegenzutreten,
+uns auf Messer zu stürzen oder was auch immer zu erleiden:
+Lasst uns alles leicht tragen,
+damit wir das Gewand des Himmelreichs und jene unaussprechliche Herrlichkeit erlangen\.
+Möge es uns allen zuteilwerden,
+sie zu erlangen,
+durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus,
+dem die Herrlichkeit und die Macht sei von Ewigkeit zu Ewigkeit\.
+Amen\.
 
 ## Bibelverweise
 

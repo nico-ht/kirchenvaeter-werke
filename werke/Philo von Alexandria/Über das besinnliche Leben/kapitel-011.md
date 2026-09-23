@@ -7,8 +7,67 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-besinnliche-leben#kapitel-25f59875-76f7-4123-c0be-08dd0c1e2646).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f2e9952676da63e351890a7345e2b567fc1eb88ecd686a295ace18bf931d0d6c`
+Nach dem Mahl feiern sie das heilige Fest die ganze Nacht hindurch;
+und dieses nächtliche Fest wird auf folgende Weise begangen:
+Alle erheben sich gemeinsam,
+und mitten in der Feier werden zuerst zwei Chöre gebildet,
+der eine aus Männern,
+der andere aus Frauen\.
+Für jeden Chor wird ein Leiter und Vorsteher ausgewählt,
+der der ehrenwerteste und vorzüglichste seiner Gruppe ist\.
+Dann singen sie Hymnen,
+die zu Ehren Gottes in vielen Versmaßen und Melodien verfasst sind:
+bald singen alle zusammen,
+bald bewegen sie die Hände und tanzen in entsprechender Harmonie und stimmen unter Eingebung Dankgesänge an,
+dann wieder regelmäßige Oden,
+und führen alle erforderlichen Strophen und Gegenstrophen aus\.
+Wenn dann jeder Chor der Männer und jeder Chor der Frauen für sich getrennt gefeiert hat,
+wie Menschen bei bacchantischen Festgelagen,
+und dabei den reinen Wein der Liebe zu Gott trinkt,
+vereinigen sie sich,
+und die beiden werden zu einem einzigen Chor,
+als Nachahmung jenes einen Chores,
+der vor alters am Roten Meer entstand wegen der wunderbaren Werke,
+die dort sichtbar wurden\.
+Denn auf Gottes Gebot hin wurde das Meer den einen zum Grund der Rettung,
+den anderen aber zum Grund des völligen Verderbens:
+Es spaltete sich,
+wurde durch einen heftigen Rückstrom zurückgerissen und auf beiden Seiten wie zu einer festen Mauer aufgerichtet;
+der Raum in der Mitte weitete sich und wurde zu einem ebenen,
+trockenen Weg durchschnitten,
+auf dem das Volk zum gegenüberliegenden Land hinüberzog,
+während es weiter auf höheres Gelände geführt wurde\.
+Als dann das Meer zurückkehrte,
+wieder in sein früheres Bett lief und von beiden Seiten auf den eben noch trockenen Boden hereinströmte,
+wurden die nachsetzenden Feinde überwältigt und kamen um\.
+Als die Israeliten dieses große Wunder sahen und erlebten,
+ein Ereignis jenseits jeder Beschreibung,
+jeder Vorstellung und jeder Hoffnung,
+wurden Männer und Frauen zusammen unter göttlicher Eingebung zu einem einzigen Chor und sangen Gott,
+dem Retter,
+Dankhymnen,
+wobei der Prophet Mose die Männer und die Prophetin Mirjam die Frauen leitete\.
 
-Nach dem Mahl feiern sie das heilige Fest die ganze Nacht hindurch; und dieses nächtliche Fest wird auf folgende Weise begangen: Alle erheben sich gemeinsam, und mitten in der Feier werden zuerst zwei Chöre gebildet, der eine aus Männern, der andere aus Frauen\. Für jeden Chor wird ein Leiter und Vorsteher ausgewählt, der der ehrenwerteste und vorzüglichste seiner Gruppe ist\. Dann singen sie Hymnen, die zu Ehren Gottes in vielen Versmaßen und Melodien verfasst sind: bald singen alle zusammen, bald bewegen sie die Hände und tanzen in entsprechender Harmonie und stimmen unter Eingebung Dankgesänge an, dann wieder regelmäßige Oden, und führen alle erforderlichen Strophen und Gegenstrophen aus\. Wenn dann jeder Chor der Männer und jeder Chor der Frauen für sich getrennt gefeiert hat, wie Menschen bei bacchantischen Festgelagen, und dabei den reinen Wein der Liebe zu Gott trinkt, vereinigen sie sich, und die beiden werden zu einem einzigen Chor, als Nachahmung jenes einen Chores, der vor alters am Roten Meer entstand wegen der wunderbaren Werke, die dort sichtbar wurden\. Denn auf Gottes Gebot hin wurde das Meer den einen zum Grund der Rettung, den anderen aber zum Grund des völligen Verderbens: Es spaltete sich, wurde durch einen heftigen Rückstrom zurückgerissen und auf beiden Seiten wie zu einer festen Mauer aufgerichtet; der Raum in der Mitte weitete sich und wurde zu einem ebenen, trockenen Weg durchschnitten, auf dem das Volk zum gegenüberliegenden Land hinüberzog, während es weiter auf höheres Gelände geführt wurde\. Als dann das Meer zurückkehrte, wieder in sein früheres Bett lief und von beiden Seiten auf den eben noch trockenen Boden hereinströmte, wurden die nachsetzenden Feinde überwältigt und kamen um\. Als die Israeliten dieses große Wunder sahen und erlebten, ein Ereignis jenseits jeder Beschreibung, jeder Vorstellung und jeder Hoffnung, wurden Männer und Frauen zusammen unter göttlicher Eingebung zu einem einzigen Chor und sangen Gott, dem Retter, Dankhymnen, wobei der Prophet Mose die Männer und die Prophetin Mirjam die Frauen leitete\.
-
-Der Chor der männlichen und weiblichen Verehrer, der nach diesem Vorbild so weit wie möglich gebildet war, bringt ein höchst heiteres Konzert und eine wahrhaft musikalische Harmonie hervor, wenn sich die schrillen Stimmen der Frauen mit den tiefen Stimmen der Männer mischen\. Schön waren die Gedanken, schön die Worte und schön die Chorsänger; und das Ziel der Gedanken, der Worte und der Chorsänger war die Frömmigkeit\. So waren sie die ganze Nacht bis zum Morgen von dieser schönen Trunkenheit erfüllt, ohne dass ihnen der Kopf schwer wurde oder ihnen die Augen vor Schlaf zufielen, sondern an Augen und ganzem Körper wacher noch als bei ihrem Eintritt zum Fest; und als sie bis zum Morgen dort gestanden hatten und die Sonne aufgehen sahen, erhoben sie die Hände zum Himmel und erflehten Ruhe, Wahrheit und Schärfe des Verstandes\. Nach ihren Gebeten zog sich jeder in seine eigene Wohnung zurück, um wieder die gewohnte Philosophie zu üben, der sie sich stets gewidmet hatten\. Dies also habe ich über die sogenannten Therapeuten zu sagen: Sie haben sich der Betrachtung der Natur gewidmet und leben in ihr und in der Seele allein; sie sind Bürger des Himmels und der Welt und dem Vater und Schöpfer des Alls höchst wohlgefällig wegen ihrer Tugend, die ihnen seine Liebe als die ihnen angemessenste Belohnung erworben hat, eine Belohnung, die alle Gaben des Glücks weit übertrifft und sie zum Gipfel und zur Vollendung der Glückseligkeit führt\.
+Der Chor der männlichen und weiblichen Verehrer,
+der nach diesem Vorbild so weit wie möglich gebildet war,
+bringt ein höchst heiteres Konzert und eine wahrhaft musikalische Harmonie hervor,
+wenn sich die schrillen Stimmen der Frauen mit den tiefen Stimmen der Männer mischen\.
+Schön waren die Gedanken,
+schön die Worte und schön die Chorsänger;
+und das Ziel der Gedanken,
+der Worte und der Chorsänger war die Frömmigkeit\.
+So waren sie die ganze Nacht bis zum Morgen von dieser schönen Trunkenheit erfüllt,
+ohne dass ihnen der Kopf schwer wurde oder ihnen die Augen vor Schlaf zufielen,
+sondern an Augen und ganzem Körper wacher noch als bei ihrem Eintritt zum Fest;
+und als sie bis zum Morgen dort gestanden hatten und die Sonne aufgehen sahen,
+erhoben sie die Hände zum Himmel und erflehten Ruhe,
+Wahrheit und Schärfe des Verstandes\.
+Nach ihren Gebeten zog sich jeder in seine eigene Wohnung zurück,
+um wieder die gewohnte Philosophie zu üben,
+der sie sich stets gewidmet hatten\.
+Dies also habe ich über die sogenannten Therapeuten zu sagen:
+Sie haben sich der Betrachtung der Natur gewidmet und leben in ihr und in der Seele allein;
+sie sind Bürger des Himmels und der Welt und dem Vater und Schöpfer des Alls höchst wohlgefällig wegen ihrer Tugend,
+die ihnen seine Liebe als die ihnen angemessenste Belohnung erworben hat,
+eine Belohnung,
+die alle Gaben des Glücks weit übertrifft und sie zum Gipfel und zur Vollendung der Glückseligkeit führt\.

@@ -7,6 +7,74 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-1#kapitel-683b03ea-4e0a-4e87-c853-08dd5a4d0198).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f4abaf8acbf7f747441fa6acd8defe398e788bb0cff1eea7bd56a1e95738dc0e`
-
-Er nahm eine Frau namens Cypris zur Frau, die aus einer glänzenden Stellung unter den Frauen Arabiens stammte; von ihr bekam er vier männliche Kinder und ein Mädchen\. Die Söhne hießen der Reihe nach: der erste Phasaelus, der zweite Herodes, der dritte Josephus, der vierte Feroras; die Tochter hieß Salome\. Weil dieser Mann durch Geschenke und Freundschaft besonders darin hervorragte, die Gemeinschaft der Mächtigen zu gewinnen, erwarb er sich vor allen anderen die Gunst des Königs von Arabien, da er durch seine aus dem Gebiet Arabiens genommene Frau ein verwandtschaftliches Band vorweisen konnte\. Als er schließlich im Begriff stand, gegen Aristobolus in die Schlacht zu ziehen, schickte er seine Söhne zu dem genannten König von Arabien als Unterpfand gegenseitiger Zuneigung\. Dieser nahm sie als unverletzlich anvertrautes Gut in dieselbe Obhut, in der er seine eigenen Kinder zu Hause hielt, und gab sie später, als sie zurückgerufen wurden, ihrem Vater wieder\. Als aber Aristobolus im Krieg besiegt und in Ketten gehalten wurde, ließ Alexander, sein Sohn, gemäß den Friedensvereinbarungen, zu denen Cassius ihn verpflichtet hatte, als dieser zum Euphrat zurückkehren wollte, vom Kampf ab\. Die Grenzen Persiens wurden durch keinen von den Parthern unternommenen Einfall irgendwie beunruhigt, und der Anschein angenehmer Ruhe erleichterte in den Gegenden des Ostens die Sorgen der Menschen\. Da stürzte Caesar aus den transalpinen Gebieten Galliens nach Italien und trieb Pompeius und den Senat über das Ionische Meer hinaus\. Pompeius, aus Italien ausgeschlossen, suchte Enathias auf und befahl den römischen Truppenverbänden aus verschiedenen Orten, ihm dorthin zu folgen, weil er dort den Krieg vorbereitete\. Ganz darauf bedacht, ließ er Aristobolus gefesselt in Rom zurück\. Caesar, der sich zwischen der Stadt Rom und Pompeius befand, weil er Pompeius auf den bequemen Wegen von der Flaminia zur Appia folgte, um ihn entweder zu fangen oder sein Heer abzufangen, ließ Aristobolus von den Ketten befreien und sandte ihn mit einer Anzahl zugewiesener Streitkräfte nach Syrien, damit er Judäa auf seine Seite brächte und Pompeius im Rücken bedrohte\. Doch gleich zu Beginn seiner Unternehmungen, als er an den Ort kam, wurde er durch Gift beseitigt und ließ die Aufgabe unvollendet zurück\. Man schrieb seinen Tod den Anhängern des Pompeius zu\. So wurden Caesars Anordnungen zunichtegemacht und die ehrgeizigen Pläne des Aristobolus durch eine eigentümlich neue Wendung der Ereignisse aufgegeben: Der Verbannte wäre unter Feinden, als Gefangener in Ketten, sicherer gewesen als als Herr in einem Gemach unter seinen eigenen Bürgern, als König bei einem Gastmahl\. Als Pompeius dies erfuhr, befahl er, weil Aristobolus in dem wieder abfallenden Judäa versucht hatte, den Krieg für sich zu erneuern, auch dessen Sohn Alexander hinrichten zu lassen, der im Verdacht stand, der caesarischen Partei allzu sehr gewogen zu sein\. Er beauftragte Scipio damit\. Dieser entschied vom Richterstuhl aus über seine Schuld, damit der Anschein eines Prozesses erweckt würde; auch Ankläger wurden herbeigebracht, und gegen ihn, der den römischen Staat mit Waffen beunruhigt hatte, wurde das Urteil gefällt: Nach der Autorität des Gesetzes und nicht bloß durch Vollstreckung eines Befehls sollte er, wie feindliche Anführer, die des Aufstands überführt sind, mit dem Beil hingerichtet werden\.
+Er nahm eine Frau namens Cypris zur Frau,
+die aus einer glänzenden Stellung unter den Frauen Arabiens stammte;
+von ihr bekam er vier männliche Kinder und ein Mädchen\.
+Die Söhne hießen der Reihe nach:
+der erste Phasaelus,
+der zweite Herodes,
+der dritte Josephus,
+der vierte Feroras;
+die Tochter hieß Salome\.
+Weil dieser Mann durch Geschenke und Freundschaft besonders darin hervorragte,
+die Gemeinschaft der Mächtigen zu gewinnen,
+erwarb er sich vor allen anderen die Gunst des Königs von Arabien,
+da er durch seine aus dem Gebiet Arabiens genommene Frau ein verwandtschaftliches Band vorweisen konnte\.
+Als er schließlich im Begriff stand,
+gegen Aristobolus in die Schlacht zu ziehen,
+schickte er seine Söhne zu dem genannten König von Arabien als Unterpfand gegenseitiger Zuneigung\.
+Dieser nahm sie als unverletzlich anvertrautes Gut in dieselbe Obhut,
+in der er seine eigenen Kinder zu Hause hielt,
+und gab sie später,
+als sie zurückgerufen wurden,
+ihrem Vater wieder\.
+Als aber Aristobolus im Krieg besiegt und in Ketten gehalten wurde,
+ließ Alexander,
+sein Sohn,
+gemäß den Friedensvereinbarungen,
+zu denen Cassius ihn verpflichtet hatte,
+als dieser zum Euphrat zurückkehren wollte,
+vom Kampf ab\.
+Die Grenzen Persiens wurden durch keinen von den Parthern unternommenen Einfall irgendwie beunruhigt,
+und der Anschein angenehmer Ruhe erleichterte in den Gegenden des Ostens die Sorgen der Menschen\.
+Da stürzte Caesar aus den transalpinen Gebieten Galliens nach Italien und trieb Pompeius und den Senat über das Ionische Meer hinaus\.
+Pompeius,
+aus Italien ausgeschlossen,
+suchte Enathias auf und befahl den römischen Truppenverbänden aus verschiedenen Orten,
+ihm dorthin zu folgen,
+weil er dort den Krieg vorbereitete\.
+Ganz darauf bedacht,
+ließ er Aristobolus gefesselt in Rom zurück\.
+Caesar,
+der sich zwischen der Stadt Rom und Pompeius befand,
+weil er Pompeius auf den bequemen Wegen von der Flaminia zur Appia folgte,
+um ihn entweder zu fangen oder sein Heer abzufangen,
+ließ Aristobolus von den Ketten befreien und sandte ihn mit einer Anzahl zugewiesener Streitkräfte nach Syrien,
+damit er Judäa auf seine Seite brächte und Pompeius im Rücken bedrohte\.
+Doch gleich zu Beginn seiner Unternehmungen,
+als er an den Ort kam,
+wurde er durch Gift beseitigt und ließ die Aufgabe unvollendet zurück\.
+Man schrieb seinen Tod den Anhängern des Pompeius zu\.
+So wurden Caesars Anordnungen zunichtegemacht und die ehrgeizigen Pläne des Aristobolus durch eine eigentümlich neue Wendung der Ereignisse aufgegeben:
+Der Verbannte wäre unter Feinden,
+als Gefangener in Ketten,
+sicherer gewesen als als Herr in einem Gemach unter seinen eigenen Bürgern,
+als König bei einem Gastmahl\.
+Als Pompeius dies erfuhr,
+befahl er,
+weil Aristobolus in dem wieder abfallenden Judäa versucht hatte,
+den Krieg für sich zu erneuern,
+auch dessen Sohn Alexander hinrichten zu lassen,
+der im Verdacht stand,
+der caesarischen Partei allzu sehr gewogen zu sein\.
+Er beauftragte Scipio damit\.
+Dieser entschied vom Richterstuhl aus über seine Schuld,
+damit der Anschein eines Prozesses erweckt würde;
+auch Ankläger wurden herbeigebracht,
+und gegen ihn,
+der den römischen Staat mit Waffen beunruhigt hatte,
+wurde das Urteil gefällt:
+Nach der Autorität des Gesetzes und nicht bloß durch Vollstreckung eines Befehls sollte er,
+wie feindliche Anführer,
+die des Aufstands überführt sind,
+mit dem Beil hingerichtet werden\.

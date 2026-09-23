@@ -7,8 +7,7 @@ Autor: Apostolische Werke
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-werke/didache#kapitel-e8a6421a-f8b9-4388-13b9-08debfef1fda).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a3ceb8bb6450a4cda081409bcc4bb6283548ca6d9b056206963d37c4c5bc025a`
-
-Lehre der zwölf Apostel\. Lehre des Herrn durch die zwölf Apostel an die Völker\.[^fn-05c1ca39-5dc9-4e3a-d953-08deca192674]
+Lehre der zwölf Apostel\.
+Lehre des Herrn durch die zwölf Apostel an die Völker\.[^fn-05c1ca39-5dc9-4e3a-d953-08deca192674]
 
 [^fn-05c1ca39-5dc9-4e3a-d953-08deca192674]: „Lehre“ gibt den griechischen Titel Didachē wieder. Die Langform stellt die Schrift als Unterweisung des Herrn an die Völker dar, vermittelt durch die apostolische Lehre; „Völker“ meint hier die Heidenvölker und erinnert an den Missionsauftrag in Matthäus 28,19-20.

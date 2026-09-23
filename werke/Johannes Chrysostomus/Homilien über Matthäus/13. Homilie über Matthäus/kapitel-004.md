@@ -7,9 +7,166 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/13-homilie-ueber-matthaeus#kapitel-16201600-0789-435c-5a62-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7d9679e5fb81b5230493cfe979e5eff148ff96877ea0c01443cb15292a66844c`
-
-Und wie sagt Lukas, er habe jede Versuchung vollendet? Mir scheint: Indem er die Hauptstücke der Versuchungen nennt, hat er alle genannt, weil auch die übrigen in diesen enthalten sind\. Denn die unzähligen Übel, die uns festhalten, sind diese: dem Bauch zu dienen, etwas aus leerer Ruhmsucht zu tun und der Gier nach Geld verfallen zu sein\. Weil jener Schmutzige das erkannte, stellte er das Stärkste von allem an den Schluss: das Verlangen nach immer mehr\. Von oben her und von Anfang an drängte es ihn zwar, darauf zu kommen; doch er hob es bis zuletzt auf, weil es stärker ist als die übrigen\. Denn auch das ist ein Gesetz seines Ringens: Was am ehesten geeignet scheint, jemanden zu Fall zu bringen, das bringt er zuletzt vor\. So machte er es auch bei Ijob\. Darum beginnt er auch hier mit dem, was leichter und schwächer zu sein scheint, und geht dann zum Stärkeren über\. Wie muss man ihn nun überwinden? So, wie Christus es gelehrt hat: indem man zu Gott flieht; indem man sich im Hunger nicht erniedrigen lässt, sondern dem glaubt, der auch durch ein Wort ernähren kann; indem man bei den Gütern, die man empfängt, den Geber nicht versucht, sondern sich mit der Herrlichkeit von oben begnügt, menschlichen Ruhm für nichts achtet und überall verachtet, was über das Notwendige hinausgeht\. Denn nichts bringt einen so sehr unter die Gewalt des Teufels wie das Verlangen nach immer mehr und die Liebe zur Habgier\. Und das kann man auch an dem sehen, was heute geschieht\. Denn auch heute gibt es Menschen, die sagen: „All das werden wir dir geben, wenn du niederfällst und dich niederwirfst\.“ Der Natur nach sind sie Menschen, doch sie sind zu seinen Werkzeugen geworden\. Denn auch damals trat er nicht nur durch sich selbst an Christus heran, sondern auch durch andere\. Eben das machte auch Lukas deutlich, als er sagte, „er wich bis zu einer gelegenen Zeit von ihm\.[^bible-d596a226-5173-44b3-b531-10f74a37bad1]“ Damit zeigt er, dass er danach durch seine eigenen Werkzeuge an ihn herantrat\. „Und siehe, Engel traten herzu und dienten ihm\.[^bible-16e0341c-6d05-417f-9c30-c1379bfe8748]“ Denn solange die Angriffe geschahen, ließ Christus sie nicht erscheinen, damit die Beute nicht dadurch verscheucht würde\. Als er ihn aber in allem überführt und zur Flucht gezwungen hatte, da erscheinen sie, damit auch du lernst: Auch dich werden nach den Siegen über ihn Engel empfangen, dir Beifall spenden und dich überall geleiten\. So nahmen ja auch Engel Lazarus nach dem Feuerofen der Armut, des Hungers und aller Bedrängnis auf und trugen ihn fort\. Denn was ich schon vielfach gesagt habe, zeigt Christus jetzt: Er zeigt, wessen auch wir uns erfreuen sollen\. Da all dies also um deinetwillen geschehen ist, eifere ihm nach und ahme den Sieg nach\. Und wenn jemand von den Dienern jenes Dämons zu dir kommt, einer von denen, die seinen Sinn haben, dich schmäht und sagt: „Wenn du bewundernswert und groß bist, versetze den Berg“, dann gerate nicht in Unruhe und lass dich nicht aufscheuchen, sondern antworte sanft und sprich das aus, was du deinen Herrn hast sagen hören: „Du sollst den Herrn, deinen Gott, nicht versuchen\.[^bible-f399da9b-640e-4163-902a-108343332864]“ Und wenn jener dir Ruhm und Macht vor Augen stellt und eine grenzenlose Menge Geld und dir befiehlt, dich niederzuwerfen, dann steh wieder mannhaft fest\. Denn das hat der Teufel nicht nur gegen den gemeinsamen Herrn von uns allen getan, sondern Tag für Tag wendet er diese Anschläge auch gegen jeden seiner Knechte an: nicht nur auf Bergen und in Wüsten und nicht nur durch sich selbst, sondern auch in Städten, auf Märkten, vor Gerichten und durch Menschen, die uns nahestehen\. Was muss man also tun? Ihm überhaupt nicht glauben, die Ohren verschließen, ihn hassen, wenn er schmeichelt, und sich gerade dann umso stärker abwenden, wenn er Größeres verspricht\. Denn auch Eva stürzte er gerade dann, als er sie am meisten durch Hoffnungen erhob, und richtete die größten Übel an\. Er ist nämlich ein Feind, mit dem es keinen Vertrag gibt, und er hat gegen uns einen Krieg ohne Ansage aufgenommen\. Und wir bemühen uns nicht so sehr um unser eigenes Heil, wie er sich um unser Verderben bemüht\. Wenden wir uns also von ihm ab, nicht nur mit Worten, sondern auch mit Werken; nicht nur im Denken, sondern auch im Handeln\. Und tun wir nichts von dem, was ihm gefällt; denn so werden wir alles tun, was Gott gefällt\. Er verspricht ja vieles, nicht um zu geben, sondern um zu nehmen\. Er verspricht aus Raubgut heraus, um Königreich und Gerechtigkeit wegzunehmen\. Er legt Schätze auf die Erde wie Fallen und Fangnetze, um uns sowohl dieser Schätze als auch der Schätze im Himmel zu berauben\. Und er will, dass wir hier reich sind, damit wir dort nicht reich werden\. Wenn er uns aber nicht durch Reichtum aus dem dortigen Erbe hinauswerfen kann, kommt er auf einem anderen Weg, nämlich durch Armut; so machte er es bei Ijob\. Denn als er sah, dass der Reichtum Ijob keinen Schaden zugefügt hatte, knüpfte er durch die Armut seine Netze und hoffte, ihn von dorther zu überwinden\. Was könnte dümmer sein als das? Denn wer Reichtum besonnen tragen konnte, wird Armut erst recht tapfer tragen; und wer nach vorhandenem Geld nicht begehrt, wird auch nach verlorenem nicht suchen\. So war es ja auch bei jenem Seligen: Aus der Armut ging er noch glänzender hervor\. Das Geld konnte jener böse Dämon ihm zwar wegnehmen; die Liebe zu Gott aber konnte er nicht nur nicht wegnehmen, sondern er machte sie sogar stärker\. Und indem er ihn von allem entblößte, ließ er ihn an noch mehr Gütern reich werden\. Darum war er ratlos\. Denn je mehr Schläge er ihm zufügte, desto stärker sah er ihn werden\. Nachdem er darum alles unternommen und alles gründlich geprüft hatte, aber keinen Schritt weiterkam, lief er zu seiner alten Waffe: der Frau\. Er setzte die Maske der Fürsorge auf, malte dessen Unglück überaus mitleiderregend aus und gab vor, diesen verderblichen Rat nur einzubringen, damit er von seinen Leiden befreit würde\. Aber auch so siegte er nicht\. Denn jener bewundernswerte Mann erkannte den Köder und brachte mit großer Einsicht die Frau zum Schweigen, die aus ihm heraus sprach\.
+Und wie sagt Lukas,
+er habe jede Versuchung vollendet?
+Mir scheint:
+Indem er die Hauptstücke der Versuchungen nennt,
+hat er alle genannt,
+weil auch die übrigen in diesen enthalten sind\.
+Denn die unzähligen Übel,
+die uns festhalten,
+sind diese:
+dem Bauch zu dienen,
+etwas aus leerer Ruhmsucht zu tun und der Gier nach Geld verfallen zu sein\.
+Weil jener Schmutzige das erkannte,
+stellte er das Stärkste von allem an den Schluss:
+das Verlangen nach immer mehr\.
+Von oben her und von Anfang an drängte es ihn zwar,
+darauf zu kommen;
+doch er hob es bis zuletzt auf,
+weil es stärker ist als die übrigen\.
+Denn auch das ist ein Gesetz seines Ringens:
+Was am ehesten geeignet scheint,
+jemanden zu Fall zu bringen,
+das bringt er zuletzt vor\.
+So machte er es auch bei Ijob\.
+Darum beginnt er auch hier mit dem,
+was leichter und schwächer zu sein scheint,
+und geht dann zum Stärkeren über\.
+Wie muss man ihn nun überwinden?
+So,
+wie Christus es gelehrt hat:
+indem man zu Gott flieht;
+indem man sich im Hunger nicht erniedrigen lässt,
+sondern dem glaubt,
+der auch durch ein Wort ernähren kann;
+indem man bei den Gütern,
+die man empfängt,
+den Geber nicht versucht,
+sondern sich mit der Herrlichkeit von oben begnügt,
+menschlichen Ruhm für nichts achtet und überall verachtet,
+was über das Notwendige hinausgeht\.
+Denn nichts bringt einen so sehr unter die Gewalt des Teufels wie das Verlangen nach immer mehr und die Liebe zur Habgier\.
+Und das kann man auch an dem sehen,
+was heute geschieht\.
+Denn auch heute gibt es Menschen,
+die sagen:
+„All das werden wir dir geben,
+wenn du niederfällst und dich niederwirfst\.“
+Der Natur nach sind sie Menschen,
+doch sie sind zu seinen Werkzeugen geworden\.
+Denn auch damals trat er nicht nur durch sich selbst an Christus heran,
+sondern auch durch andere\.
+Eben das machte auch Lukas deutlich,
+als er sagte,
+„er wich bis zu einer gelegenen Zeit von ihm\.[^bible-d596a226-5173-44b3-b531-10f74a37bad1]“ Damit zeigt er,
+dass er danach durch seine eigenen Werkzeuge an ihn herantrat\.
+„Und siehe,
+Engel traten herzu und dienten ihm\.[^bible-16e0341c-6d05-417f-9c30-c1379bfe8748]“ Denn solange die Angriffe geschahen,
+ließ Christus sie nicht erscheinen,
+damit die Beute nicht dadurch verscheucht würde\.
+Als er ihn aber in allem überführt und zur Flucht gezwungen hatte,
+da erscheinen sie,
+damit auch du lernst:
+Auch dich werden nach den Siegen über ihn Engel empfangen,
+dir Beifall spenden und dich überall geleiten\.
+So nahmen ja auch Engel Lazarus nach dem Feuerofen der Armut,
+des Hungers und aller Bedrängnis auf und trugen ihn fort\.
+Denn was ich schon vielfach gesagt habe,
+zeigt Christus jetzt:
+Er zeigt,
+wessen auch wir uns erfreuen sollen\.
+Da all dies also um deinetwillen geschehen ist,
+eifere ihm nach und ahme den Sieg nach\.
+Und wenn jemand von den Dienern jenes Dämons zu dir kommt,
+einer von denen,
+die seinen Sinn haben,
+dich schmäht und sagt:
+„Wenn du bewundernswert und groß bist,
+versetze den Berg“,
+dann gerate nicht in Unruhe und lass dich nicht aufscheuchen,
+sondern antworte sanft und sprich das aus,
+was du deinen Herrn hast sagen hören:
+„Du sollst den Herrn,
+deinen Gott,
+nicht versuchen\.[^bible-f399da9b-640e-4163-902a-108343332864]“ Und wenn jener dir Ruhm und Macht vor Augen stellt und eine grenzenlose Menge Geld und dir befiehlt,
+dich niederzuwerfen,
+dann steh wieder mannhaft fest\.
+Denn das hat der Teufel nicht nur gegen den gemeinsamen Herrn von uns allen getan,
+sondern Tag für Tag wendet er diese Anschläge auch gegen jeden seiner Knechte an:
+nicht nur auf Bergen und in Wüsten und nicht nur durch sich selbst,
+sondern auch in Städten,
+auf Märkten,
+vor Gerichten und durch Menschen,
+die uns nahestehen\.
+Was muss man also tun?
+Ihm überhaupt nicht glauben,
+die Ohren verschließen,
+ihn hassen,
+wenn er schmeichelt,
+und sich gerade dann umso stärker abwenden,
+wenn er Größeres verspricht\.
+Denn auch Eva stürzte er gerade dann,
+als er sie am meisten durch Hoffnungen erhob,
+und richtete die größten Übel an\.
+Er ist nämlich ein Feind,
+mit dem es keinen Vertrag gibt,
+und er hat gegen uns einen Krieg ohne Ansage aufgenommen\.
+Und wir bemühen uns nicht so sehr um unser eigenes Heil,
+wie er sich um unser Verderben bemüht\.
+Wenden wir uns also von ihm ab,
+nicht nur mit Worten,
+sondern auch mit Werken;
+nicht nur im Denken,
+sondern auch im Handeln\.
+Und tun wir nichts von dem,
+was ihm gefällt;
+denn so werden wir alles tun,
+was Gott gefällt\.
+Er verspricht ja vieles,
+nicht um zu geben,
+sondern um zu nehmen\.
+Er verspricht aus Raubgut heraus,
+um Königreich und Gerechtigkeit wegzunehmen\.
+Er legt Schätze auf die Erde wie Fallen und Fangnetze,
+um uns sowohl dieser Schätze als auch der Schätze im Himmel zu berauben\.
+Und er will,
+dass wir hier reich sind,
+damit wir dort nicht reich werden\.
+Wenn er uns aber nicht durch Reichtum aus dem dortigen Erbe hinauswerfen kann,
+kommt er auf einem anderen Weg,
+nämlich durch Armut;
+so machte er es bei Ijob\.
+Denn als er sah,
+dass der Reichtum Ijob keinen Schaden zugefügt hatte,
+knüpfte er durch die Armut seine Netze und hoffte,
+ihn von dorther zu überwinden\.
+Was könnte dümmer sein als das?
+Denn wer Reichtum besonnen tragen konnte,
+wird Armut erst recht tapfer tragen;
+und wer nach vorhandenem Geld nicht begehrt,
+wird auch nach verlorenem nicht suchen\.
+So war es ja auch bei jenem Seligen:
+Aus der Armut ging er noch glänzender hervor\.
+Das Geld konnte jener böse Dämon ihm zwar wegnehmen;
+die Liebe zu Gott aber konnte er nicht nur nicht wegnehmen,
+sondern er machte sie sogar stärker\.
+Und indem er ihn von allem entblößte,
+ließ er ihn an noch mehr Gütern reich werden\.
+Darum war er ratlos\.
+Denn je mehr Schläge er ihm zufügte,
+desto stärker sah er ihn werden\.
+Nachdem er darum alles unternommen und alles gründlich geprüft hatte,
+aber keinen Schritt weiterkam,
+lief er zu seiner alten Waffe:
+der Frau\.
+Er setzte die Maske der Fürsorge auf,
+malte dessen Unglück überaus mitleiderregend aus und gab vor,
+diesen verderblichen Rat nur einzubringen,
+damit er von seinen Leiden befreit würde\.
+Aber auch so siegte er nicht\.
+Denn jener bewundernswerte Mann erkannte den Köder und brachte mit großer Einsicht die Frau zum Schweigen,
+die aus ihm heraus sprach\.
 
 ## Bibelverweise
 

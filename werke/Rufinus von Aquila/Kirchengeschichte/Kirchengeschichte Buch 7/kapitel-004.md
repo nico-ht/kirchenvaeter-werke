@@ -7,6 +7,7 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-7#kapitel-0ec554e7-785b-42bd-8253-08de214e7d1f).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:fa2ac388fc300fa93ed54ccddb9d3f395a88c9601cb986c1eec87028b4312053`
-
-An ihn richtete Dionysius sehr viele Schreiben zu vielen kirchlichen Streitfragen\. Darin sagt er unter anderem: „Alle Kirchen haben die Anmaßung des Novatus verworfen und sind untereinander im Frieden geblieben\.“ Dies sagt er:
+An ihn richtete Dionysius sehr viele Schreiben zu vielen kirchlichen Streitfragen\.
+Darin sagt er unter anderem:
+„Alle Kirchen haben die Anmaßung des Novatus verworfen und sind untereinander im Frieden geblieben\.“
+Dies sagt er:

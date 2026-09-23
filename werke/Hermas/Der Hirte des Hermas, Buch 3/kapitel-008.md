@@ -7,20 +7,580 @@ Autor: Hermas
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/hermas/der-hirte-des-hermas-buch-3#kapitel-ca68c4bb-b892-41b4-831d-08dd4ec30069).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:30057a9e0ecee04abcf07e6a646f8005dad59fcaf5a1b567ee8f3148aaf71be7`
+Er zeigte mir eine große Weide,
+die Ebenen und Berge überschattete\.
+Unter dem Schatten der Weide waren alle versammelt,
+die im Namen des Herrn berufen waren\.
+Neben der Weide stand ein Engel des Herrn,
+herrlich und sehr hochgewachsen\.
+Er hatte eine große Sichel und schnitt Zweige von der Weide ab und gab sie dem Volk,
+das von der Weide überschattet wurde\.
+Kleine Stäbe gab er ihnen,
+etwa eine Elle lang\.
+Nachdem alle die Stäbe erhalten hatten,
+legte der Engel die Sichel nieder;
+und jener Baum war unversehrt,
+so wie ich ihn auch zuvor gesehen hatte\.
+Ich aber wunderte mich bei mir selbst und sagte:
+„Wie ist dieser Baum unversehrt geblieben,
+nachdem so viele Zweige abgeschnitten worden sind?“
+„Wenn du alles gesehen hast“,
+sagte er,
+„wird dir erklärt werden,
+was es bedeutet\.“
+Der Engel,
+der dem Volk die Stäbe gegeben hatte,
+forderte sie wieder von ihnen zurück\.
+Und wie sie sie empfangen hatten,
+so wurden sie auch zu ihm gerufen;
+und jeder Einzelne von ihnen gab die Stäbe trocken und wie von Schädlingen angefressen zurück\.
+Der Engel befahl denen,
+die solche Stäbe abgegeben hatten,
+gesondert zu stehen\.
+Andere gaben trockene zurück,
+doch sie waren nicht von Schädlingen angefressen;
+auch sie standen gesondert\.
+Andere gaben halb vertrocknete zurück;
+auch sie standen gesondert\.
+Andere gaben ihre Stäbe halb vertrocknet und mit Rissen zurück;
+auch sie standen gesondert\.
+Andere gaben ihre Stäbe grün und mit Rissen zurück;
+auch sie standen gesondert\.
+Andere gaben Stäbe zurück,
+die zur Hälfte trocken und zur anderen Hälfte grün waren;
+auch sie standen gesondert\.
+Andere brachten ihre Stäbe,
+die zu zwei Dritteln grün,
+zu einem Drittel aber trocken waren;
+auch sie standen gesondert\.
+Andere gaben Stäbe zurück,
+die zu zwei Dritteln trocken,
+zu einem Drittel aber grün waren;
+auch sie standen gesondert\.
+Andere gaben ihre Stäbe beinahe ganz grün zurück;
+nur ein sehr kleines Stück ihrer Stäbe war trocken,
+nämlich die äußerste Spitze\.
+Sie hatten aber Risse;
+auch sie standen gesondert\.
+Bei anderen war nur ein sehr kleines Stück grün,
+der übrige Teil der Stäbe aber trocken;
+auch sie standen gesondert\.
+Andere kamen und brachten die Stäbe grün,
+wie sie sie vom Engel empfangen hatten\.
+Der größte Teil der Menge gab solche Stäbe zurück\.
+Darüber freute sich der Engel sehr;
+auch sie standen gesondert\.
+Andere gaben ihre Stäbe grün zurück,
+und sie hatten Schösslinge;
+auch sie standen gesondert\.
+Darüber freute sich der Engel sehr\.
+Andere gaben ihre Stäbe grün zurück,
+und sie hatten Schösslinge;
+ihre Schösslinge aber trugen gleichsam eine Art Frucht\.
+Sehr froh waren jene Menschen,
+deren Stäbe so befunden wurden\.
+Auch der Engel frohlockte darüber,
+und der Hirte war darüber sehr froh\.
 
-Er zeigte mir eine große Weide, die Ebenen und Berge überschattete\. Unter dem Schatten der Weide waren alle versammelt, die im Namen des Herrn berufen waren\. Neben der Weide stand ein Engel des Herrn, herrlich und sehr hochgewachsen\. Er hatte eine große Sichel und schnitt Zweige von der Weide ab und gab sie dem Volk, das von der Weide überschattet wurde\. Kleine Stäbe gab er ihnen, etwa eine Elle lang\. Nachdem alle die Stäbe erhalten hatten, legte der Engel die Sichel nieder; und jener Baum war unversehrt, so wie ich ihn auch zuvor gesehen hatte\. Ich aber wunderte mich bei mir selbst und sagte: „Wie ist dieser Baum unversehrt geblieben, nachdem so viele Zweige abgeschnitten worden sind?“ „Wenn du alles gesehen hast“, sagte er, „wird dir erklärt werden, was es bedeutet\.“ Der Engel, der dem Volk die Stäbe gegeben hatte, forderte sie wieder von ihnen zurück\. Und wie sie sie empfangen hatten, so wurden sie auch zu ihm gerufen; und jeder Einzelne von ihnen gab die Stäbe trocken und wie von Schädlingen angefressen zurück\. Der Engel befahl denen, die solche Stäbe abgegeben hatten, gesondert zu stehen\. Andere gaben trockene zurück, doch sie waren nicht von Schädlingen angefressen; auch sie standen gesondert\. Andere gaben halb vertrocknete zurück; auch sie standen gesondert\. Andere gaben ihre Stäbe halb vertrocknet und mit Rissen zurück; auch sie standen gesondert\. Andere gaben ihre Stäbe grün und mit Rissen zurück; auch sie standen gesondert\. Andere gaben Stäbe zurück, die zur Hälfte trocken und zur anderen Hälfte grün waren; auch sie standen gesondert\. Andere brachten ihre Stäbe, die zu zwei Dritteln grün, zu einem Drittel aber trocken waren; auch sie standen gesondert\. Andere gaben Stäbe zurück, die zu zwei Dritteln trocken, zu einem Drittel aber grün waren; auch sie standen gesondert\. Andere gaben ihre Stäbe beinahe ganz grün zurück; nur ein sehr kleines Stück ihrer Stäbe war trocken, nämlich die äußerste Spitze\. Sie hatten aber Risse; auch sie standen gesondert\. Bei anderen war nur ein sehr kleines Stück grün, der übrige Teil der Stäbe aber trocken; auch sie standen gesondert\. Andere kamen und brachten die Stäbe grün, wie sie sie vom Engel empfangen hatten\. Der größte Teil der Menge gab solche Stäbe zurück\. Darüber freute sich der Engel sehr; auch sie standen gesondert\. Andere gaben ihre Stäbe grün zurück, und sie hatten Schösslinge; auch sie standen gesondert\. Darüber freute sich der Engel sehr\. Andere gaben ihre Stäbe grün zurück, und sie hatten Schösslinge; ihre Schösslinge aber trugen gleichsam eine Art Frucht\. Sehr froh waren jene Menschen, deren Stäbe so befunden wurden\. Auch der Engel frohlockte darüber, und der Hirte war darüber sehr froh\.
+Der Engel des Herrn aber befahl,
+Kränze herbeizubringen\.
+Und es wurden Kränze gebracht,
+wie aus Palmzweigen gemacht,
+und er bekränzte die Männer,
+die die Stäbe zurückgegeben hatten,
+an denen Schösslinge und eine Art Frucht waren,
+und entließ sie in den Turm\.
+Auch die anderen sandte er in den Turm,
+die ihre grünen Stäbe zurückgegeben hatten,
+an denen Schösslinge waren,
+deren Schösslinge aber keine Frucht hatten;
+ihnen gab er Siegel\.
+Alle aber,
+die in den Turm gingen,
+trugen dasselbe Gewand,
+weiß wie Schnee\.
+Und die ihre Stäbe grün zurückgegeben hatten,
+wie sie sie empfangen hatten,
+entließ er,
+nachdem er ihnen Gewand und Siegel gegeben hatte\.
+Nachdem der Engel dies vollendet hatte,
+sagt er zum Hirten:
+„Ich gehe weg;
+du aber wirst diese in den Bereich der Mauern entlassen,
+je nachdem einer würdig ist,
+dort zu wohnen\.
+Betrachte ihre Stäbe sorgfältig und entlasse sie dann;
+betrachte sie sorgfältig\.
+Sieh zu,
+dass dir keiner entgeht“,
+sagt er,
+„wenn dir aber einer entgeht,
+werde ich sie am Altar prüfen\.“
+Nachdem er dies zum Hirten gesagt hatte,
+ging er fort\.
+Und nachdem der Engel fortgegangen war,
+sagt der Hirte zu mir:
+„Nehmen wir die Stäbe von allen und pflanzen wir sie ein,
+ob einige von ihnen leben können\.“
+Ich sage zu ihm:
+„Herr,
+wie können diese trockenen Stäbe leben?“
+Er antwortet mir und sagt:
+„Dieser Baum ist eine Weide,
+und seine Art hängt sehr am Leben\.
+Wenn die Stäbe also eingepflanzt werden und ein wenig Feuchtigkeit aufnehmen,
+werden viele von ihnen leben\.
+Dann wollen wir versuchen,
+Wasser über sie zu gießen\.
+Wenn einer von ihnen leben kann,
+werde ich mich mit ihnen freuen;
+wenn aber keiner lebt,
+werde ich wenigstens nicht als nachlässig befunden werden\.“
+Der Hirte befahl mir,
+sie zu rufen,
+wie jeder von ihnen aufgestellt worden war\.
+Sie kamen in Gruppen,
+Gruppe um Gruppe,
+und gaben dem Hirten die Stäbe zurück\.
+Der Hirte nahm die Stäbe und pflanzte sie nach Gruppen ein;
+nachdem er sie eingepflanzt hatte,
+goss er reichlich Wasser über sie,
+sodass man die Stäbe vor Wasser nicht mehr sehen konnte\.
+Nachdem er die Stäbe getränkt hatte,
+sagt er zu mir:
+„Lass uns gehen und nach wenigen Tagen zurückkommen und alle Stäbe ansehen\.
+Denn der,
+der diesen Baum geschaffen hat,
+will,
+dass alle leben,
+die Zweige von diesem Baum empfangen haben\.
+Auch ich hoffe,
+dass diese Stäbe,
+nachdem sie Feuchtigkeit aufgenommen und Wasser getrunken haben,
+zum größten Teil leben werden\.“
 
-Der Engel des Herrn aber befahl, Kränze herbeizubringen\. Und es wurden Kränze gebracht, wie aus Palmzweigen gemacht, und er bekränzte die Männer, die die Stäbe zurückgegeben hatten, an denen Schösslinge und eine Art Frucht waren, und entließ sie in den Turm\. Auch die anderen sandte er in den Turm, die ihre grünen Stäbe zurückgegeben hatten, an denen Schösslinge waren, deren Schösslinge aber keine Frucht hatten; ihnen gab er Siegel\. Alle aber, die in den Turm gingen, trugen dasselbe Gewand, weiß wie Schnee\. Und die ihre Stäbe grün zurückgegeben hatten, wie sie sie empfangen hatten, entließ er, nachdem er ihnen Gewand und Siegel gegeben hatte\. Nachdem der Engel dies vollendet hatte, sagt er zum Hirten: „Ich gehe weg; du aber wirst diese in den Bereich der Mauern entlassen, je nachdem einer würdig ist, dort zu wohnen\. Betrachte ihre Stäbe sorgfältig und entlasse sie dann; betrachte sie sorgfältig\. Sieh zu, dass dir keiner entgeht“, sagt er, „wenn dir aber einer entgeht, werde ich sie am Altar prüfen\.“ Nachdem er dies zum Hirten gesagt hatte, ging er fort\. Und nachdem der Engel fortgegangen war, sagt der Hirte zu mir: „Nehmen wir die Stäbe von allen und pflanzen wir sie ein, ob einige von ihnen leben können\.“ Ich sage zu ihm: „Herr, wie können diese trockenen Stäbe leben?“ Er antwortet mir und sagt: „Dieser Baum ist eine Weide, und seine Art hängt sehr am Leben\. Wenn die Stäbe also eingepflanzt werden und ein wenig Feuchtigkeit aufnehmen, werden viele von ihnen leben\. Dann wollen wir versuchen, Wasser über sie zu gießen\. Wenn einer von ihnen leben kann, werde ich mich mit ihnen freuen; wenn aber keiner lebt, werde ich wenigstens nicht als nachlässig befunden werden\.“ Der Hirte befahl mir, sie zu rufen, wie jeder von ihnen aufgestellt worden war\. Sie kamen in Gruppen, Gruppe um Gruppe, und gaben dem Hirten die Stäbe zurück\. Der Hirte nahm die Stäbe und pflanzte sie nach Gruppen ein; nachdem er sie eingepflanzt hatte, goss er reichlich Wasser über sie, sodass man die Stäbe vor Wasser nicht mehr sehen konnte\. Nachdem er die Stäbe getränkt hatte, sagt er zu mir: „Lass uns gehen und nach wenigen Tagen zurückkommen und alle Stäbe ansehen\. Denn der, der diesen Baum geschaffen hat, will, dass alle leben, die Zweige von diesem Baum empfangen haben\. Auch ich hoffe, dass diese Stäbe, nachdem sie Feuchtigkeit aufgenommen und Wasser getrunken haben, zum größten Teil leben werden\.“
+Ich sage zu ihm:
+„Herr,
+erkläre mir,
+was dieser Baum ist\.
+Denn ich bin ratlos über ihn:
+Obwohl so viele Zweige abgeschnitten wurden,
+ist der Baum gesund,
+und man sieht ihm nicht an,
+dass ihm etwas abgeschnitten worden wäre\.
+Darüber bin ich also ratlos\.“
+Er sagt:
+„Höre:
+Dieser große Baum,
+der Ebenen und Berge und die ganze Erde bedeckt,
+ist das Gesetz Gottes,
+das der ganzen Welt gegeben wurde\.
+Dieses Gesetz aber ist der Sohn Gottes,
+der bis an die Enden der Erde verkündet wurde\.
+Die Völker unter dem Schatten sind diejenigen,
+die die Verkündigung gehört und an ihn geglaubt haben\.
+Der große und herrliche Engel aber ist Michael;
+er hat die Vollmacht über dieses Volk und leitet es\.
+Denn er ist es,
+der ihnen das Gesetz in die Herzen der Glaubenden gibt\.
+Darum sieht er nach denen,
+denen er es gegeben hat,
+ob sie es auch bewahrt haben\.
+Du siehst die Stäbe eines jeden;
+denn die Stäbe sind das Gesetz\.
+Du siehst also viele unbrauchbar gewordene Stäbe\.
+An ihnen wirst du alle erkennen,
+die das Gesetz nicht bewahrt haben;
+und du wirst die Wohnstätte eines jeden sehen\.“
+Ich sage zu ihm:
+„Herr,
+warum hat er die einen in den Turm entlassen,
+die anderen aber dir überlassen?“
+Er sagt:
+„Alle,
+die das Gesetz übertreten haben,
+das sie von ihm empfangen haben,
+hat er mir zur Buße unterstellt\.
+Alle aber,
+die dem Gesetz schon wohlgefallen und es bewahrt haben,
+behält er unter seiner eigenen Vollmacht\.“
+Ich sage:
+„Wer sind nun,
+Herr,
+die Bekränzten,
+die in den Turm gehen?“
+Er sagt:
+„Alle,
+die gegen den Teufel gerungen und ihn besiegt haben,
+sind bekränzt\.
+Diejenigen,
+die ihre Stäbe grün und mit Trieben abgegeben haben,
+deren Triebe aber keine Frucht hatten,
+sind die,
+die um des Gesetzes willen bedrängt wurden,
+aber nicht gelitten und ihr Gesetz auch nicht verleugnet haben\.
+Die aber,
+die ihre Stäbe grün abgegeben haben,
+so wie sie sie empfangen hatten,
+sind ehrwürdige und gerechte Menschen;
+sie sind in sehr reinem Herzen gewandelt und haben die Gebote des Herrn bewahrt\.
+Das Übrige wirst du erfahren,
+wenn ich diese Stäbe betrachte,
+die eingepflanzt und getränkt worden sind\.“
 
-Ich sage zu ihm: „Herr, erkläre mir, was dieser Baum ist\. Denn ich bin ratlos über ihn: Obwohl so viele Zweige abgeschnitten wurden, ist der Baum gesund, und man sieht ihm nicht an, dass ihm etwas abgeschnitten worden wäre\. Darüber bin ich also ratlos\.“ Er sagt: „Höre: Dieser große Baum, der Ebenen und Berge und die ganze Erde bedeckt, ist das Gesetz Gottes, das der ganzen Welt gegeben wurde\. Dieses Gesetz aber ist der Sohn Gottes, der bis an die Enden der Erde verkündet wurde\. Die Völker unter dem Schatten sind diejenigen, die die Verkündigung gehört und an ihn geglaubt haben\. Der große und herrliche Engel aber ist Michael; er hat die Vollmacht über dieses Volk und leitet es\. Denn er ist es, der ihnen das Gesetz in die Herzen der Glaubenden gibt\. Darum sieht er nach denen, denen er es gegeben hat, ob sie es auch bewahrt haben\. Du siehst die Stäbe eines jeden; denn die Stäbe sind das Gesetz\. Du siehst also viele unbrauchbar gewordene Stäbe\. An ihnen wirst du alle erkennen, die das Gesetz nicht bewahrt haben; und du wirst die Wohnstätte eines jeden sehen\.“ Ich sage zu ihm: „Herr, warum hat er die einen in den Turm entlassen, die anderen aber dir überlassen?“ Er sagt: „Alle, die das Gesetz übertreten haben, das sie von ihm empfangen haben, hat er mir zur Buße unterstellt\. Alle aber, die dem Gesetz schon wohlgefallen und es bewahrt haben, behält er unter seiner eigenen Vollmacht\.“ Ich sage: „Wer sind nun, Herr, die Bekränzten, die in den Turm gehen?“ Er sagt: „Alle, die gegen den Teufel gerungen und ihn besiegt haben, sind bekränzt\. Diejenigen, die ihre Stäbe grün und mit Trieben abgegeben haben, deren Triebe aber keine Frucht hatten, sind die, die um des Gesetzes willen bedrängt wurden, aber nicht gelitten und ihr Gesetz auch nicht verleugnet haben\. Die aber, die ihre Stäbe grün abgegeben haben, so wie sie sie empfangen hatten, sind ehrwürdige und gerechte Menschen; sie sind in sehr reinem Herzen gewandelt und haben die Gebote des Herrn bewahrt\. Das Übrige wirst du erfahren, wenn ich diese Stäbe betrachte, die eingepflanzt und getränkt worden sind\.“
+Nach wenigen Tagen kamen wir an den Ort,
+und der Hirt setzte sich an die Stelle des Engels;
+ich trat zu ihm\.
+Er sagt zu mir:
+„Gürte dich mit einem leinenen Schurz und diene mir\.“
+Ich gürtete mich mit einem reinen leinenen Schurz aus Sacktuch\.
+Als er sah,
+dass ich gegürtet und bereit war,
+ihm zu dienen,
+sagt er:
+„Rufe die Männer,
+deren Stäbe eingepflanzt sind,
+der Reihe nach,
+wie jeder seinen Stab abgegeben hat\.“
+Da ging ich auf das Feld und rief alle;
+und alle stellten sich nach ihren Ordnungen auf\.
+Er sagt zu ihnen:
+„Jeder soll seinen eigenen Stab ausziehen und zu mir bringen\.“
+Zuerst gaben die ab,
+die die dürren und abgeschnittenen Stäbe hatten;
+und weil sie ebenso dürr und abgeschnitten vorgefunden wurden,
+befahl er ihnen,
+gesondert zu stehen\.
+Dann gaben die ab,
+die die dürren,
+aber nicht abgeschnittenen Stäbe hatten\.
+Einige von ihnen gaben ihre Stäbe grün ab,
+andere dürr und wie von der Motte zerfressen abgeschnitten\.
+Denen nun,
+die sie grün abgegeben hatten,
+befahl er,
+bei den Ersten zu stehen\.
+Dann gaben die ab,
+deren Stäbe halbdürr waren und Risse hatten\.
+Einige gaben sie grün ab,
+mit Trieben und mit Früchten an den Trieben,
+wie sie die hatten,
+die bekränzt in den Turm gegangen waren\.
+Andere gaben sie dürr und angefressen ab,
+andere dürr und nicht angefressen,
+wieder andere so,
+wie sie waren:
+halbdürr und mit Rissen\.
+Er befahl ihnen,
+jeder Einzelne solle gesondert stehen,
+die einen bei ihren eigenen Ordnungen,
+die anderen für sich\.
+Dann gaben die ab,
+deren Stäbe zwar grün waren,
+aber Risse hatten\.
+Diese alle gaben sie grün ab und stellten sich in ihre eigene Ordnung\.
+Der Hirt freute sich über sie,
+weil sie sich alle verändert und ihre Risse abgelegt hatten\.
+Auch die gaben ab,
+deren Stäbe zur Hälfte grün und zur Hälfte dürr waren\.
+Bei einigen wurden die Stäbe dürr und angefressen vorgefunden,
+bei anderen grün und mit Trieben\.
+Sie alle wurden entlassen,
+jeder in seine Ordnung\.
+Dann gaben die ab,
+deren Stäbe zu zwei Teilen grün waren,
+der dritte aber dürr\.
+Viele von ihnen gaben sie grün ab,
+viele halbdürr,
+andere dürr und angefressen\.
+Sie alle stellten sich in ihre eigene Ordnung\.
+Dann gaben die ab,
+deren Stäbe zu zwei Teilen dürr waren,
+der dritte aber grün\.
+Viele von ihnen gaben sie halbdürr ab,
+einige dürr und angefressen,
+andere halbdürr und mit Rissen,
+wenige aber grün\.
+Sie alle stellten sich in ihre eigene Ordnung\.
+Dann gaben die ab,
+deren Stäbe grün waren,
+aber ein ganz kleines dürres Stück und Risse hatten\.
+Von ihnen gaben einige sie grün ab,
+andere grün und mit Trieben\.
+Auch sie gingen in ihre Ordnung\.
+Dann gaben die ab,
+deren Stäbe nur ein ganz kleines Stück grün waren,
+die übrigen Teile aber dürr\.
+Ihre Stäbe wurden größtenteils grün vorgefunden,
+mit Trieben und Frucht an den Trieben;
+andere waren ganz grün\.
+Über diese Stäbe freute sich der Hirt sehr,
+weil sie so vorgefunden wurden\.
+Auch diese gingen,
+jeder in seine eigene Ordnung\.
 
-Nach wenigen Tagen kamen wir an den Ort, und der Hirt setzte sich an die Stelle des Engels; ich trat zu ihm\. Er sagt zu mir: „Gürte dich mit einem leinenen Schurz und diene mir\.“ Ich gürtete mich mit einem reinen leinenen Schurz aus Sacktuch\. Als er sah, dass ich gegürtet und bereit war, ihm zu dienen, sagt er: „Rufe die Männer, deren Stäbe eingepflanzt sind, der Reihe nach, wie jeder seinen Stab abgegeben hat\.“ Da ging ich auf das Feld und rief alle; und alle stellten sich nach ihren Ordnungen auf\. Er sagt zu ihnen: „Jeder soll seinen eigenen Stab ausziehen und zu mir bringen\.“ Zuerst gaben die ab, die die dürren und abgeschnittenen Stäbe hatten; und weil sie ebenso dürr und abgeschnitten vorgefunden wurden, befahl er ihnen, gesondert zu stehen\. Dann gaben die ab, die die dürren, aber nicht abgeschnittenen Stäbe hatten\. Einige von ihnen gaben ihre Stäbe grün ab, andere dürr und wie von der Motte zerfressen abgeschnitten\. Denen nun, die sie grün abgegeben hatten, befahl er, bei den Ersten zu stehen\. Dann gaben die ab, deren Stäbe halbdürr waren und Risse hatten\. Einige gaben sie grün ab, mit Trieben und mit Früchten an den Trieben, wie sie die hatten, die bekränzt in den Turm gegangen waren\. Andere gaben sie dürr und angefressen ab, andere dürr und nicht angefressen, wieder andere so, wie sie waren: halbdürr und mit Rissen\. Er befahl ihnen, jeder Einzelne solle gesondert stehen, die einen bei ihren eigenen Ordnungen, die anderen für sich\. Dann gaben die ab, deren Stäbe zwar grün waren, aber Risse hatten\. Diese alle gaben sie grün ab und stellten sich in ihre eigene Ordnung\. Der Hirt freute sich über sie, weil sie sich alle verändert und ihre Risse abgelegt hatten\. Auch die gaben ab, deren Stäbe zur Hälfte grün und zur Hälfte dürr waren\. Bei einigen wurden die Stäbe dürr und angefressen vorgefunden, bei anderen grün und mit Trieben\. Sie alle wurden entlassen, jeder in seine Ordnung\. Dann gaben die ab, deren Stäbe zu zwei Teilen grün waren, der dritte aber dürr\. Viele von ihnen gaben sie grün ab, viele halbdürr, andere dürr und angefressen\. Sie alle stellten sich in ihre eigene Ordnung\. Dann gaben die ab, deren Stäbe zu zwei Teilen dürr waren, der dritte aber grün\. Viele von ihnen gaben sie halbdürr ab, einige dürr und angefressen, andere halbdürr und mit Rissen, wenige aber grün\. Sie alle stellten sich in ihre eigene Ordnung\. Dann gaben die ab, deren Stäbe grün waren, aber ein ganz kleines dürres Stück und Risse hatten\. Von ihnen gaben einige sie grün ab, andere grün und mit Trieben\. Auch sie gingen in ihre Ordnung\. Dann gaben die ab, deren Stäbe nur ein ganz kleines Stück grün waren, die übrigen Teile aber dürr\. Ihre Stäbe wurden größtenteils grün vorgefunden, mit Trieben und Frucht an den Trieben; andere waren ganz grün\. Über diese Stäbe freute sich der Hirt sehr, weil sie so vorgefunden wurden\. Auch diese gingen, jeder in seine eigene Ordnung\.
+Nachdem der Hirt die Stäbe aller betrachtet hatte,
+sagt er zu mir:
+„Habe ich dir gesagt,
+dass sie umkehrten und gerettet wurden,
+was den Baum betrifft?
+Siehst du“,
+sagt er,
+„wie viele umgekehrt und gerettet worden sind?“
+„Ich sehe es,
+Herr“,
+sage ich\.
+„Du sollst sehen“,
+sagt er,
+„wie groß das Erbarmen des Herrn ist:
+Es ist groß und herrlich,
+und er hat denen Geist gegeben,
+die der Umkehr würdig sind\.“
+„Warum also,
+Herr“,
+sage ich,
+„sind nicht alle umgekehrt?“
+„Bei denen er sah“,
+sagt er,
+„dass ihr Herz rein werden und ihm von ganzem Herzen dienen würde,
+denen gab er die Umkehr\.
+Bei denen aber,
+deren Trug und Bosheit er sah,
+weil sie nur in Heuchelei umkehren würden,
+denen gab er keine Umkehr,
+damit sie seinen Namen nicht wieder entweihen\.“
+Ich sage zu ihm:
+„Herr,
+erkläre mir nun die,
+die ihre Stäbe abgegeben haben:
+wie jeder von ihnen ist und wo ihre Wohnung sein wird\.
+damit die,
+die gläubig geworden sind,
+die das Siegel empfangen haben,
+beschädigt wurden und wieder unversehrt empfangen wurden,
+hören,
+ihre eigenen Werke erkennen und umkehren,
+nachdem sie von dir ein Siegel empfangen haben;
+und sie werden den Herrn preisen,
+weil er sich ihrer erbarmt und dich gesandt hat,
+um ihre Geister zu erneuern\.“
+„Höre“,
+sagt er:
+„Diejenigen,
+deren Stäbe dürr und von Motten angefressen vorgefunden wurden,
+sind die Abtrünnigen und Verräter der Kirche\.
+Sie haben in ihren Sünden den Herrn gelästert und sich außerdem des Namens des Herrn geschämt,
+der über sie angerufen wurde\.
+Diese sind am Ende für Gott verloren gegangen\.
+Du siehst ja,
+dass kein Einziger von ihnen umgekehrt ist,
+obwohl sie die Worte gehört hatten,
+die du zu ihnen gesprochen hast,
+die ich dir aufgetragen hatte\.
+Von solchen ist das Leben gewichen\.
+Die aber,
+die die dürren,
+aber nicht angefaulten Stäbe abgaben,
+stehen ihnen nahe\.
+Denn sie waren Heuchler,
+brachten fremde Lehren ein und brachten die Knechte Gottes vom rechten Weg ab,
+besonders die,
+die gesündigt hatten,
+indem sie ihnen nicht erlaubten umzukehren\.
+Diese haben also Hoffnung auf Umkehr\.
+Du siehst ja,
+dass viele von ihnen bereits umgekehrt sind,
+seit ich ihnen meine Gebote verkündet habe;
+und noch weitere werden umkehren\.
+Alle aber,
+die nicht umkehren,
+haben ihr Leben verloren\.
+Alle von ihnen jedoch,
+die umgekehrt sind,
+wurden gut,
+und ihre Wohnung kam in die ersten Mauern;
+einige stiegen sogar in den Turm hinauf\.
+Du siehst also“,
+sagt er,
+„dass die Umkehr von den Sünden Leben bringt,
+nicht umzukehren aber Tod\.“
 
-Nachdem der Hirt die Stäbe aller betrachtet hatte, sagt er zu mir: „Habe ich dir gesagt, dass sie umkehrten und gerettet wurden, was den Baum betrifft? Siehst du“, sagt er, „wie viele umgekehrt und gerettet worden sind?“ „Ich sehe es, Herr“, sage ich\. „Du sollst sehen“, sagt er, „wie groß das Erbarmen des Herrn ist: Es ist groß und herrlich, und er hat denen Geist gegeben, die der Umkehr würdig sind\.“ „Warum also, Herr“, sage ich, „sind nicht alle umgekehrt?“ „Bei denen er sah“, sagt er, „dass ihr Herz rein werden und ihm von ganzem Herzen dienen würde, denen gab er die Umkehr\. Bei denen aber, deren Trug und Bosheit er sah, weil sie nur in Heuchelei umkehren würden, denen gab er keine Umkehr, damit sie seinen Namen nicht wieder entweihen\.“ Ich sage zu ihm: „Herr, erkläre mir nun die, die ihre Stäbe abgegeben haben: wie jeder von ihnen ist und wo ihre Wohnung sein wird\. damit die, die gläubig geworden sind, die das Siegel empfangen haben, beschädigt wurden und wieder unversehrt empfangen wurden, hören, ihre eigenen Werke erkennen und umkehren, nachdem sie von dir ein Siegel empfangen haben; und sie werden den Herrn preisen, weil er sich ihrer erbarmt und dich gesandt hat, um ihre Geister zu erneuern\.“ „Höre“, sagt er: „Diejenigen, deren Stäbe dürr und von Motten angefressen vorgefunden wurden, sind die Abtrünnigen und Verräter der Kirche\. Sie haben in ihren Sünden den Herrn gelästert und sich außerdem des Namens des Herrn geschämt, der über sie angerufen wurde\. Diese sind am Ende für Gott verloren gegangen\. Du siehst ja, dass kein Einziger von ihnen umgekehrt ist, obwohl sie die Worte gehört hatten, die du zu ihnen gesprochen hast, die ich dir aufgetragen hatte\. Von solchen ist das Leben gewichen\. Die aber, die die dürren, aber nicht angefaulten Stäbe abgaben, stehen ihnen nahe\. Denn sie waren Heuchler, brachten fremde Lehren ein und brachten die Knechte Gottes vom rechten Weg ab, besonders die, die gesündigt hatten, indem sie ihnen nicht erlaubten umzukehren\. Diese haben also Hoffnung auf Umkehr\. Du siehst ja, dass viele von ihnen bereits umgekehrt sind, seit ich ihnen meine Gebote verkündet habe; und noch weitere werden umkehren\. Alle aber, die nicht umkehren, haben ihr Leben verloren\. Alle von ihnen jedoch, die umgekehrt sind, wurden gut, und ihre Wohnung kam in die ersten Mauern; einige stiegen sogar in den Turm hinauf\. Du siehst also“, sagt er, „dass die Umkehr von den Sünden Leben bringt, nicht umzukehren aber Tod\.“
+Alle aber,
+die halb dürre Stäbe abgaben und Risse darin hatten,
+über sie höre nun\.
+Diejenigen,
+deren Stäbe halb dürr waren,
+sind wankelmütig;
+denn sie leben weder,
+noch sind sie tot\.
+Die aber halb dürre Stäbe hatten und Risse darin,
+sind wankelmütig und verleumderisch;
+nie haben sie Frieden in sich selbst,
+sondern spalten sich ständig\.
+Doch auch für sie“,
+sagt er,
+„ist Umkehr vorgesehen\.
+Du siehst ja“,
+sagt er,
+„dass einige von ihnen umgekehrt sind;
+und wer von ihnen noch umkehrt,
+wird seine Wohnung im Turm haben\.
+Wer aber von ihnen langsamer umgekehrt ist und dennoch an seinen Taten festhält,
+wird des Todes sterben\.
+Die aber ihre Stäbe grün abgaben,
+doch mit Rissen,
+waren stets treu und gut,
+hatten aber untereinander eine gewisse Eifersucht um den Vorrang und um eine Art Ruhm\.
+Doch sie alle sind töricht,
+weil sie untereinander um den Vorrang eifern\.
+Aber auch sie,
+als sie meine Gebote hörten,
+reinigten sich,
+da sie gut waren,
+und kehrten schnell um\.
+So kam ihre Wohnung in den Turm\.
+Wenn aber einer wieder zur Spaltung zurückkehrt,
+wird er aus dem Turm hinausgeworfen werden und sein Leben verlieren\.
+Das Leben gehört allen,
+die die Gebote des Herrn halten\.
+In den Geboten aber ist von Vorrang oder von der demütigen Gesinnung eines Menschen die Rede\.
+Bei solchen also ist das Leben des Herrn;
+bei den Spaltern aber und den Gesetzlosen ist der Tod\.
+Die aber Stäbe abgaben,
+die zur Hälfte grün und zur Hälfte dürr waren,
+das sind die,
+die in Geschäfte verstrickt sind und sich nicht an die Heiligen halten\.
+Darum lebt die eine Hälfte von ihnen,
+die andere Hälfte aber ist tot\.
+Viele nun haben meine Gebote gehört und sind umgekehrt\.
+Bei allen also,
+die umgekehrt sind,
+ist ihre Wohnung bis ans Ende hin entfernt\.
+Diese haben also keine Umkehr;
+denn wegen ihrer Geschäfte haben sie den Herrn gelästert und verleugnet\.
+So haben sie ihr Leben verloren wegen der Bosheit,
+die sie getan haben\.
+Viele aber von ihnen wurden wankelmütig\.
+Diese haben noch Umkehr,
+wenn sie schnell umkehren,
+und ihre Wohnung wird im Turm sein\.
+Wenn sie aber langsamer umkehren,
+werden sie in den Mauern wohnen\.
+Wenn sie aber nicht umkehren,
+haben auch sie ihr Leben verloren\.
+Die aber die Stäbe zu zwei Teilen grün,
+zum dritten aber dürr abgaben,
+sind die,
+die mit vielerlei Verleugnungen verleugnet haben\.
+Viele von ihnen kehrten nun um und entfernten sich endgültig von Gott;
+diese haben das Leben endgültig verloren\.
+Einige von ihnen aber wurden wankelmütig und spalteten sich\.
+Für sie gibt es also Umkehr,
+wenn sie schnell umkehren und nicht bei ihren Begierden bleiben\.
+Wenn sie aber bei ihren Taten bleiben,
+bereiten auch sie sich selbst den Tod\.
 
-Alle aber, die halb dürre Stäbe abgaben und Risse darin hatten, über sie höre nun\. Diejenigen, deren Stäbe halb dürr waren, sind wankelmütig; denn sie leben weder, noch sind sie tot\. Die aber halb dürre Stäbe hatten und Risse darin, sind wankelmütig und verleumderisch; nie haben sie Frieden in sich selbst, sondern spalten sich ständig\. Doch auch für sie“, sagt er, „ist Umkehr vorgesehen\. Du siehst ja“, sagt er, „dass einige von ihnen umgekehrt sind; und wer von ihnen noch umkehrt, wird seine Wohnung im Turm haben\. Wer aber von ihnen langsamer umgekehrt ist und dennoch an seinen Taten festhält, wird des Todes sterben\. Die aber ihre Stäbe grün abgaben, doch mit Rissen, waren stets treu und gut, hatten aber untereinander eine gewisse Eifersucht um den Vorrang und um eine Art Ruhm\. Doch sie alle sind töricht, weil sie untereinander um den Vorrang eifern\. Aber auch sie, als sie meine Gebote hörten, reinigten sich, da sie gut waren, und kehrten schnell um\. So kam ihre Wohnung in den Turm\. Wenn aber einer wieder zur Spaltung zurückkehrt, wird er aus dem Turm hinausgeworfen werden und sein Leben verlieren\. Das Leben gehört allen, die die Gebote des Herrn halten\. In den Geboten aber ist von Vorrang oder von der demütigen Gesinnung eines Menschen die Rede\. Bei solchen also ist das Leben des Herrn; bei den Spaltern aber und den Gesetzlosen ist der Tod\. Die aber Stäbe abgaben, die zur Hälfte grün und zur Hälfte dürr waren, das sind die, die in Geschäfte verstrickt sind und sich nicht an die Heiligen halten\. Darum lebt die eine Hälfte von ihnen, die andere Hälfte aber ist tot\. Viele nun haben meine Gebote gehört und sind umgekehrt\. Bei allen also, die umgekehrt sind, ist ihre Wohnung bis ans Ende hin entfernt\. Diese haben also keine Umkehr; denn wegen ihrer Geschäfte haben sie den Herrn gelästert und verleugnet\. So haben sie ihr Leben verloren wegen der Bosheit, die sie getan haben\. Viele aber von ihnen wurden wankelmütig\. Diese haben noch Umkehr, wenn sie schnell umkehren, und ihre Wohnung wird im Turm sein\. Wenn sie aber langsamer umkehren, werden sie in den Mauern wohnen\. Wenn sie aber nicht umkehren, haben auch sie ihr Leben verloren\. Die aber die Stäbe zu zwei Teilen grün, zum dritten aber dürr abgaben, sind die, die mit vielerlei Verleugnungen verleugnet haben\. Viele von ihnen kehrten nun um und entfernten sich endgültig von Gott; diese haben das Leben endgültig verloren\. Einige von ihnen aber wurden wankelmütig und spalteten sich\. Für sie gibt es also Umkehr, wenn sie schnell umkehren und nicht bei ihren Begierden bleiben\. Wenn sie aber bei ihren Taten bleiben, bereiten auch sie sich selbst den Tod\.
+Die aber ihre Stäbe zu zwei Teilen dürr,
+zum dritten aber grün abgegeben hatten,
+sind solche,
+die gläubig geworden waren,
+dann aber reich wurden und bei den Völkern zu Ansehen kamen\.
+Sie hüllten sich in großen Hochmut,
+wurden hochfahrend,
+verließen die Wahrheit und schlossen sich den Gerechten nicht an,
+sondern lebten mit den Völkern zusammen;
+und dieser Weg wurde ihnen lieber\.
+Von Gott aber fielen sie nicht ab,
+sondern blieben im Glauben,
+ohne die Werke des Glaubens zu tun\.
+Viele von ihnen kehrten nun um,
+und ihre Wohnstätte war im Turm\.
+Andere aber lebten bis zuletzt mit den Völkern zusammen,
+verdarben durch die eitlen Ruhmsüchte der Völker und wurden diesem Bereich zugerechnet\.
+Wieder andere von ihnen wurden wankelmütig,
+weil sie wegen der Taten,
+die sie getan hatten,
+nicht hofften,
+gerettet zu werden;
+andere wurden wankelmütig und machten Spaltungen unter sich\.
+Für diese also,
+die wegen ihrer Taten wankelmütig geworden sind,
+gibt es noch Umkehr,
+damit ihre Wohnstätte im Turm sei;
+den aber,
+die nicht umkehren,
+sondern bei ihren Begierden bleiben,
+ist der Tod nahe\.
+Die aber ihre Stäbe grün abgegeben hatten,
+deren äußerste Enden jedoch dürr waren und Risse hatten,
+diese waren immer gut,
+gläubig und angesehen bei Gott\.
+Sie sündigten nur ganz wenig durch kleine Begierden und dadurch,
+dass sie kleine Vorbehalte gegeneinander hatten\.
+Als sie aber meine Worte hörten,
+kehrte der größte Teil schnell um,
+und ihre Wohnstätte war im Turm\.
+Einige von ihnen wurden wankelmütig,
+einige aber machten,
+nachdem sie wankelmütig geworden waren,
+eine größere Spaltung\.
+Bei diesen also besteht Hoffnung auf Umkehr,
+weil sie immer gut gewesen sind;
+schwerlich aber wird einer von ihnen sterben\.
+Die aber ihre Stäbe dürr abgegeben hatten,
+die nur ganz wenig Grün hatten,
+sind diejenigen,
+die nur geglaubt,
+aber die Werke der Gesetzlosigkeit getan haben\.
+Von Gott sind sie jedoch nie abgefallen,
+und den Namen trugen sie gern;
+auch nahmen sie die Diener Gottes gern in ihre Häuser auf\.
+Als sie nun von dieser Umkehr hörten,
+kehrten sie ohne Zögern um und tun jede Tugend und Gerechtigkeit\.
+Einige von ihnen fürchten sich auch,
+weil sie die Taten kennen,
+die sie getan haben\.
+Von all diesen also wird die Wohnstätte im Turm sein\.
 
-Die aber ihre Stäbe zu zwei Teilen dürr, zum dritten aber grün abgegeben hatten, sind solche, die gläubig geworden waren, dann aber reich wurden und bei den Völkern zu Ansehen kamen\. Sie hüllten sich in großen Hochmut, wurden hochfahrend, verließen die Wahrheit und schlossen sich den Gerechten nicht an, sondern lebten mit den Völkern zusammen; und dieser Weg wurde ihnen lieber\. Von Gott aber fielen sie nicht ab, sondern blieben im Glauben, ohne die Werke des Glaubens zu tun\. Viele von ihnen kehrten nun um, und ihre Wohnstätte war im Turm\. Andere aber lebten bis zuletzt mit den Völkern zusammen, verdarben durch die eitlen Ruhmsüchte der Völker und wurden diesem Bereich zugerechnet\. Wieder andere von ihnen wurden wankelmütig, weil sie wegen der Taten, die sie getan hatten, nicht hofften, gerettet zu werden; andere wurden wankelmütig und machten Spaltungen unter sich\. Für diese also, die wegen ihrer Taten wankelmütig geworden sind, gibt es noch Umkehr, damit ihre Wohnstätte im Turm sei; den aber, die nicht umkehren, sondern bei ihren Begierden bleiben, ist der Tod nahe\. Die aber ihre Stäbe grün abgegeben hatten, deren äußerste Enden jedoch dürr waren und Risse hatten, diese waren immer gut, gläubig und angesehen bei Gott\. Sie sündigten nur ganz wenig durch kleine Begierden und dadurch, dass sie kleine Vorbehalte gegeneinander hatten\. Als sie aber meine Worte hörten, kehrte der größte Teil schnell um, und ihre Wohnstätte war im Turm\. Einige von ihnen wurden wankelmütig, einige aber machten, nachdem sie wankelmütig geworden waren, eine größere Spaltung\. Bei diesen also besteht Hoffnung auf Umkehr, weil sie immer gut gewesen sind; schwerlich aber wird einer von ihnen sterben\. Die aber ihre Stäbe dürr abgegeben hatten, die nur ganz wenig Grün hatten, sind diejenigen, die nur geglaubt, aber die Werke der Gesetzlosigkeit getan haben\. Von Gott sind sie jedoch nie abgefallen, und den Namen trugen sie gern; auch nahmen sie die Diener Gottes gern in ihre Häuser auf\. Als sie nun von dieser Umkehr hörten, kehrten sie ohne Zögern um und tun jede Tugend und Gerechtigkeit\. Einige von ihnen fürchten sich auch, weil sie die Taten kennen, die sie getan haben\. Von all diesen also wird die Wohnstätte im Turm sein\.
-
-Nachdem er die Deutungen aller Stäbe vollendet hatte, sagt er zu mir: „Geh und sage allen, sie sollen umkehren, damit sie für Gott leben\. Denn der Herr hat mich aus Erbarmen gesandt, allen die Umkehr zu geben, auch wenn einige wegen ihrer Werke nicht würdig sind\. Doch weil der Herr langmütig ist, will er, dass die Berufung, die durch seinen Sohn geschehen ist, gerettet wird\.“ Ich sage zu ihm: „Herr, ich hoffe, dass alle, wenn sie dies hören, umkehren werden\. Denn ich bin überzeugt: Jeder wird seine eigenen Werke erkennen, Gott fürchten und umkehren\.“ Er antwortete mir und sagt: „Alle, die von ganzem Herzen umkehren und sich von ihren Bosheiten, von ihren Sünden, reinigen, werden vom Herrn Heilung ihrer früheren Sünden empfangen, wenn sie an diesen Geboten nicht zweifeln; und sie werden für Gott leben\. Alle aber“, sagt er, „die ihren Sünden noch etwas hinzufügen und in den Begierden dieser Welt wandeln, werden sich selbst zum Tod verurteilen\. Du aber wandle in meinen Geboten, und du wirst für Gott leben; und alle, die in ihnen wandeln und rechtschaffen handeln, werden für Gott leben\.“ Nachdem er mir dies dargelegt und alles gesagt hatte, sagt er zu mir: „Das Übrige werde ich dir in wenigen Tagen zeigen\.“
+Nachdem er die Deutungen aller Stäbe vollendet hatte,
+sagt er zu mir:
+„Geh und sage allen,
+sie sollen umkehren,
+damit sie für Gott leben\.
+Denn der Herr hat mich aus Erbarmen gesandt,
+allen die Umkehr zu geben,
+auch wenn einige wegen ihrer Werke nicht würdig sind\.
+Doch weil der Herr langmütig ist,
+will er,
+dass die Berufung,
+die durch seinen Sohn geschehen ist,
+gerettet wird\.“
+Ich sage zu ihm:
+„Herr,
+ich hoffe,
+dass alle,
+wenn sie dies hören,
+umkehren werden\.
+Denn ich bin überzeugt:
+Jeder wird seine eigenen Werke erkennen,
+Gott fürchten und umkehren\.“
+Er antwortete mir und sagt:
+„Alle,
+die von ganzem Herzen umkehren und sich von ihren Bosheiten,
+von ihren Sünden,
+reinigen,
+werden vom Herrn Heilung ihrer früheren Sünden empfangen,
+wenn sie an diesen Geboten nicht zweifeln;
+und sie werden für Gott leben\.
+Alle aber“,
+sagt er,
+„die ihren Sünden noch etwas hinzufügen und in den Begierden dieser Welt wandeln,
+werden sich selbst zum Tod verurteilen\.
+Du aber wandle in meinen Geboten,
+und du wirst für Gott leben;
+und alle,
+die in ihnen wandeln und rechtschaffen handeln,
+werden für Gott leben\.“
+Nachdem er mir dies dargelegt und alles gesagt hatte,
+sagt er zu mir:
+„Das Übrige werde ich dir in wenigen Tagen zeigen\.“

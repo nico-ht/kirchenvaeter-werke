@@ -7,9 +7,11 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/auszuege-aus-genesis-fragmente#kapitel-dc04fa5c-9db7-4fea-ead5-08de02a1dc4b).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3b3495bc2bb95b2fadf878d04ef820dcb7443cc713af0fd3d6df9eaac466a87b`
-
-„Dieser war ein gewaltiger Jäger vor dem Herrn, Gott\.“[^bible-0c793b22-2f27-4e8d-8f35-54b19ea87aa9] Der Titel „Jäger“ steht jetzt nicht bei Gerechten; und achte darauf, vielleicht auch sonst niemals\.
+„Dieser war ein gewaltiger Jäger vor dem Herrn,
+Gott\.“[^bible-0c793b22-2f27-4e8d-8f35-54b19ea87aa9]
+Der Titel „Jäger“ steht jetzt nicht bei Gerechten;
+und achte darauf,
+vielleicht auch sonst niemals\.
 
 ## Bibelverweise
 

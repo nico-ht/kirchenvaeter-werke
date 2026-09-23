@@ -7,6 +7,27 @@ Autor: Ignatius von Antiochien
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ignatius-von-antiochien/brief-an-polykarp#kapitel-e4f777b1-e7c1-449d-7598-08dd570afe8a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:44d3c39747bb5636967eb1d6ae3022e2debe295d43f7132d93b0324547ae88bd`
-
-Lass dich nicht von denen verwirren, die vertrauenswürdig erscheinen, aber seltsame Lehren verbreiten\. Stehe fest, wie ein Amboss, der mit einem Hammer geschlagen wird\. Es ist das Zeichen eines großen Athleten, verletzt zu werden und dennoch zu siegen\. Aber besonders müssen wir, um Gottes willen, geduldig alles ertragen, damit auch er mit uns Geduld hat\. Sei eifriger, als du es bist\. Verstehe die Zeiten\. Warte erwartungsvoll auf den, der über der Zeit steht: den Ewigen, den Unsichtbaren, der um unseretwillen sichtbar wurde; den Unfassbaren, den Unleidenden, der um unseretwillen litt, der um unseretwillen in jeder Hinsicht aushielt\.
+Lass dich nicht von denen verwirren,
+die vertrauenswürdig erscheinen,
+aber seltsame Lehren verbreiten\.
+Stehe fest,
+wie ein Amboss,
+der mit einem Hammer geschlagen wird\.
+Es ist das Zeichen eines großen Athleten,
+verletzt zu werden und dennoch zu siegen\.
+Aber besonders müssen wir,
+um Gottes willen,
+geduldig alles ertragen,
+damit auch er mit uns Geduld hat\.
+Sei eifriger,
+als du es bist\.
+Verstehe die Zeiten\.
+Warte erwartungsvoll auf den,
+der über der Zeit steht:
+den Ewigen,
+den Unsichtbaren,
+der um unseretwillen sichtbar wurde;
+den Unfassbaren,
+den Unleidenden,
+der um unseretwillen litt,
+der um unseretwillen in jeder Hinsicht aushielt\.

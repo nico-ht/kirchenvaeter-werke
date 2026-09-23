@@ -7,6 +7,51 @@ Autor: Athanasius
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/diskurs-ueber-das-heil-einer-jungfrau#kapitel-e55cb361-4c41-4192-a072-08dd0631e784).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:2630be2f808aae87c6166f79b2fbd566c63c6ef5fcac6c11fe16555aa572c4d4`
-
-Fliehe ernsthaft der Eitelkeit und dem Hochmut\. Wenn ein Gedanke dir zuflüstert, dass du durch deinen Fortschritt in der Tugend groß und angesehen geworden bist, glaube ihm nicht; denn der Feind ist es, der dich behindert und der dir Eitelkeit einflüstert\. Ertrage nicht den Gedanken, der dich lobt\. Und wenn der Gedanke dir sagt: „Du solltest nicht so hart arbeiten, du hast die Kraft, gerettet zu werden“, höre nicht darauf\. Denn es ist der Feind, der dir Nachlässigkeit und Trägheit vorschlägt, um dich von deinem tugendhaften Lebensweg abzubringen\. Viele sind die Listigkeiten des Feindes gegen die Diener Gottes; er provoziert Menschen dazu mit Worten Lob auszusprechen, damit ihre Herzen sich selbst erhöhen\. Aber du, nimm das Lob der Menschen nicht an\. Und wenn jemand zu dir sagt: „Du bist gesegnet“, antworte ihm: „Wenn ich diesen Körper durch einen edlen Tod verlasse, dann werde ich gesegnet sein, aber jetzt glaube ich nicht, dass ich gesegnet bin\.“ Wir Menschen sind wechselhaft wie der Wind\. Oft legt dir der Feind nahe, dass du Verachtung für die Essenden hegst; schenke ihm kein Gehör, denn er ist ein Fremder\. Halte dich selbst für den geringsten von allen, damit du viele ins Himmelreich führen kannst, und du wirst in der Gegenwart Gottes erhöht werden\. Doch der Feind schlägt dir auch große Askese vor, um deinen Körper schwach und nutzlos zu machen\. Lass dein Fasten daher in einem angemessenen Maß geschehen\. Fastet während der gesamten Zeit, es sei denn, es besteht Notwendigkeit\. Aber um die neunte Stunde des Tages, während du in Hymnen und Gebeten verweilst, nimm dein Brot und Gemüse, das mit Öl zubereitet ist\. Alles ist rein, solange es nicht tierisch ist\.
+Fliehe ernsthaft der Eitelkeit und dem Hochmut\.
+Wenn ein Gedanke dir zuflüstert,
+dass du durch deinen Fortschritt in der Tugend groß und angesehen geworden bist,
+glaube ihm nicht;
+denn der Feind ist es,
+der dich behindert und der dir Eitelkeit einflüstert\.
+Ertrage nicht den Gedanken,
+der dich lobt\.
+Und wenn der Gedanke dir sagt:
+„Du solltest nicht so hart arbeiten,
+du hast die Kraft,
+gerettet zu werden“,
+höre nicht darauf\.
+Denn es ist der Feind,
+der dir Nachlässigkeit und Trägheit vorschlägt,
+um dich von deinem tugendhaften Lebensweg abzubringen\.
+Viele sind die Listigkeiten des Feindes gegen die Diener Gottes;
+er provoziert Menschen dazu mit Worten Lob auszusprechen,
+damit ihre Herzen sich selbst erhöhen\.
+Aber du,
+nimm das Lob der Menschen nicht an\.
+Und wenn jemand zu dir sagt:
+„Du bist gesegnet“,
+antworte ihm:
+„Wenn ich diesen Körper durch einen edlen Tod verlasse,
+dann werde ich gesegnet sein,
+aber jetzt glaube ich nicht,
+dass ich gesegnet bin\.“
+Wir Menschen sind wechselhaft wie der Wind\.
+Oft legt dir der Feind nahe,
+dass du Verachtung für die Essenden hegst;
+schenke ihm kein Gehör,
+denn er ist ein Fremder\.
+Halte dich selbst für den geringsten von allen,
+damit du viele ins Himmelreich führen kannst,
+und du wirst in der Gegenwart Gottes erhöht werden\.
+Doch der Feind schlägt dir auch große Askese vor,
+um deinen Körper schwach und nutzlos zu machen\.
+Lass dein Fasten daher in einem angemessenen Maß geschehen\.
+Fastet während der gesamten Zeit,
+es sei denn,
+es besteht Notwendigkeit\.
+Aber um die neunte Stunde des Tages,
+während du in Hymnen und Gebeten verweilst,
+nimm dein Brot und Gemüse,
+das mit Öl zubereitet ist\.
+Alles ist rein,
+solange es nicht tierisch ist\.

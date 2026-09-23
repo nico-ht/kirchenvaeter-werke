@@ -7,6 +7,17 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/12-taufunterweisung#kapitel-d6f9b9fc-6725-468f-a94d-08de0016b13a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:22976b2bf14c4eb5a062cad7a2fad154b999bd13f704c68f01df600d9c6927b8`
-
-Wie meinst du das? Du siehst einen Menschen und wertest es als Omen\. Siehst du nicht die Falle des Teufels und wie er dich einem Menschen gegenüber feindselig macht, der dir nie geschadet hat, und dich ohne jeden gerechten Grund zum Feind deines Bruders macht? Gott hat uns geboten, unsere Feinde zu lieben\. Du aber wendest dich von einem ab, der dir niemals wehgetan hat, ohne irgendeine Anklage gegen ihn\. Begreifst du nicht, wie lächerlich du bist? Siehst du nicht, wie schändlich – ja vielmehr wie gefährlich – dein Tun ist?
+Wie meinst du das?
+Du siehst einen Menschen und wertest es als Omen\.
+Siehst du nicht die Falle des Teufels und wie er dich einem Menschen gegenüber feindselig macht,
+der dir nie geschadet hat,
+und dich ohne jeden gerechten Grund zum Feind deines Bruders macht?
+Gott hat uns geboten,
+unsere Feinde zu lieben\.
+Du aber wendest dich von einem ab,
+der dir niemals wehgetan hat,
+ohne irgendeine Anklage gegen ihn\.
+Begreifst du nicht,
+wie lächerlich du bist?
+Siehst du nicht,
+wie schändlich – ja vielmehr wie gefährlich – dein Tun ist?

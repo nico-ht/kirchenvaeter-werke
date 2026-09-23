@@ -7,9 +7,93 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/1-apologie#kapitel-9881f09b-4aa0-4af4-4f7e-08dd0bd65d0d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7b2a424e63961c75043bdd8a064b34f3018a1a6c4f208c8651128c40171ef620`
-
-Hört, wie es über diejenigen vorausgesagt wurde, die Seine Lehre verkündeten und Sein Erscheinen bekannt machten\. Der oben genannte Prophet und König spricht durch den Geist der Prophezeiung: "Tag für Tag gibt er Rede, und Nacht für Nacht zeigt sie Wissen\. Es gibt keine Sprache und keinen Dialekt, wo ihre Stimme nicht gehört wird\. Ihre Stimme ist in die ganze Erde ausgegangen, und ihre Worte bis an die Enden der Welt\. In der Sonne hat Er sein Zelt aufgeschlagen, und er wird sich freuen wie ein Bräutigam, der aus seiner Kammer kommt, und wie ein Held, der seinen Lauf vollendet\."[^bible-66dba126-e995-41eb-b6c7-b86c43e05c76] Wir halten es für richtig und relevant, einige andere prophetische Äußerungen Davids zu erwähnen, aus denen ihr lernen könnt, wie der Geist der Prophezeiung die Menschen ermahnt, zu leben\. Er sagte auch die Verschwörung voraus, die gegen Christus von Herodes, dem König der Juden, und den Juden selbst sowie von Pilatus, der euer Statthalter unter ihnen war, mit seinen Soldaten, gebildet wurde\. Er sagte voraus, dass Er von Menschen aller Rassen geglaubt werden sollte, und wie Gott Ihn als seinen Sohn bezeichnet und erklärt hat, dass Er alle Seine Feinde unterwerfen wird\. Die Teufel bemühen sich, der Macht Gottes, des Vaters und Herrn über alles, und der Macht Christi selbst zu entkommen\. Gott ruft alle zur Umkehr auf, bevor der Tag des Gerichts kommt\. Diese Dinge wurden so ausgesprochen: "Gesegnet ist der Mann, der nicht im Rat der Gottlosen gegangen ist, noch auf dem Weg der Sünder steht, noch im Sitz der Spötter sitzt\. Sondern sein Wohlgefallen hat am Gesetz des Herrn, und in seinem Gesetz wird er Tag und Nacht nachsinnen\. Er wird sein wie ein Baum, der an Wasserbächen gepflanzt ist, der seine Frucht zu seiner Zeit gibt; und sein Blatt verwelkt nicht, und alles, was er tut, wird gedeihen\. Die Gottlosen sind nicht so, sondern wie die Spreu, die der Wind von der Erde verweht\. Darum werden die Gottlosen im Gericht nicht bestehen, noch die Sünder in der Versammlung der Gerechten\. Denn der Herr kennt den Weg der Gerechten; aber der Weg der Gottlosen wird verderben\. Warum toben die Heiden, und die Völker sinnen auf Nichtiges? Die Könige der Erde stellen sich auf, und die Herrscher beraten sich miteinander gegen den Herrn und gegen seinen Gesalbten und sagen: Lasst uns ihre Bande zerreißen und ihren Joch von uns werfen\. Der im Himmel wohnt, wird lachen; der Herr wird sie verhöhnen\. Dann wird Er zu ihnen in Seinem Zorn reden und sie in Seiner großen Unwilligkeit erschrecken\. Doch ich bin von Ihm zum König auf Zion, seinem heiligen Berg, eingesetzt worden und verkünde den Beschluss des Herrn\. Der Herr sprach zu mir: Du bist mein Sohn; heute habe ich dich gezeugt\. Fordere von mir, und ich werde dir die Heiden zum Erbe geben und die äußersten Teile der Erde zu deinem Besitz\. Du wirst sie mit einem eisernen Zepter hüten; wie die Gefäße eines Töpfers wirst du sie zerschmettern\. Seid nun weise, ihr Könige; lasst euch unterweisen, ihr Richter der Erde\. Dient dem Herrn mit Furcht und freut euch mit Zittern\. Nehmt die Zucht an, damit der Herr nicht zornig wird und ihr vom rechten Weg umkommt, wenn Sein Zorn plötzlich entflammt\. Gesegnet sind alle, die ihr Vertrauen auf Ihn setzen\."[^bible-a7c77e02-40a4-48fe-a47b-c88fcb860644]
+Hört,
+wie es über diejenigen vorausgesagt wurde,
+die Seine Lehre verkündeten und Sein Erscheinen bekannt machten\.
+Der oben genannte Prophet und König spricht durch den Geist der Prophezeiung:
+"Tag für Tag gibt er Rede,
+und Nacht für Nacht zeigt sie Wissen\.
+Es gibt keine Sprache und keinen Dialekt,
+wo ihre Stimme nicht gehört wird\.
+Ihre Stimme ist in die ganze Erde ausgegangen,
+und ihre Worte bis an die Enden der Welt\.
+In der Sonne hat Er sein Zelt aufgeschlagen,
+und er wird sich freuen wie ein Bräutigam,
+der aus seiner Kammer kommt,
+und wie ein Held,
+der seinen Lauf vollendet\."[^bible-66dba126-e995-41eb-b6c7-b86c43e05c76]
+Wir halten es für richtig und relevant,
+einige andere prophetische Äußerungen Davids zu erwähnen,
+aus denen ihr lernen könnt,
+wie der Geist der Prophezeiung die Menschen ermahnt,
+zu leben\.
+Er sagte auch die Verschwörung voraus,
+die gegen Christus von Herodes,
+dem König der Juden,
+und den Juden selbst sowie von Pilatus,
+der euer Statthalter unter ihnen war,
+mit seinen Soldaten,
+gebildet wurde\.
+Er sagte voraus,
+dass Er von Menschen aller Rassen geglaubt werden sollte,
+und wie Gott Ihn als seinen Sohn bezeichnet und erklärt hat,
+dass Er alle Seine Feinde unterwerfen wird\.
+Die Teufel bemühen sich,
+der Macht Gottes,
+des Vaters und Herrn über alles,
+und der Macht Christi selbst zu entkommen\.
+Gott ruft alle zur Umkehr auf,
+bevor der Tag des Gerichts kommt\.
+Diese Dinge wurden so ausgesprochen:
+"Gesegnet ist der Mann,
+der nicht im Rat der Gottlosen gegangen ist,
+noch auf dem Weg der Sünder steht,
+noch im Sitz der Spötter sitzt\.
+Sondern sein Wohlgefallen hat am Gesetz des Herrn,
+und in seinem Gesetz wird er Tag und Nacht nachsinnen\.
+Er wird sein wie ein Baum,
+der an Wasserbächen gepflanzt ist,
+der seine Frucht zu seiner Zeit gibt;
+und sein Blatt verwelkt nicht,
+und alles,
+was er tut,
+wird gedeihen\.
+Die Gottlosen sind nicht so,
+sondern wie die Spreu,
+die der Wind von der Erde verweht\.
+Darum werden die Gottlosen im Gericht nicht bestehen,
+noch die Sünder in der Versammlung der Gerechten\.
+Denn der Herr kennt den Weg der Gerechten;
+aber der Weg der Gottlosen wird verderben\.
+Warum toben die Heiden,
+und die Völker sinnen auf Nichtiges?
+Die Könige der Erde stellen sich auf,
+und die Herrscher beraten sich miteinander gegen den Herrn und gegen seinen Gesalbten und sagen:
+Lasst uns ihre Bande zerreißen und ihren Joch von uns werfen\.
+Der im Himmel wohnt,
+wird lachen;
+der Herr wird sie verhöhnen\.
+Dann wird Er zu ihnen in Seinem Zorn reden und sie in Seiner großen Unwilligkeit erschrecken\.
+Doch ich bin von Ihm zum König auf Zion,
+seinem heiligen Berg,
+eingesetzt worden und verkünde den Beschluss des Herrn\.
+Der Herr sprach zu mir:
+Du bist mein Sohn;
+heute habe ich dich gezeugt\.
+Fordere von mir,
+und ich werde dir die Heiden zum Erbe geben und die äußersten Teile der Erde zu deinem Besitz\.
+Du wirst sie mit einem eisernen Zepter hüten;
+wie die Gefäße eines Töpfers wirst du sie zerschmettern\.
+Seid nun weise,
+ihr Könige;
+lasst euch unterweisen,
+ihr Richter der Erde\.
+Dient dem Herrn mit Furcht und freut euch mit Zittern\.
+Nehmt die Zucht an,
+damit der Herr nicht zornig wird und ihr vom rechten Weg umkommt,
+wenn Sein Zorn plötzlich entflammt\.
+Gesegnet sind alle,
+die ihr Vertrauen auf Ihn setzen\."[^bible-a7c77e02-40a4-48fe-a47b-c88fcb860644]
 
 ## Bibelverweise
 

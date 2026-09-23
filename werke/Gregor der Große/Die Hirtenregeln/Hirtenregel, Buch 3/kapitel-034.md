@@ -7,13 +7,236 @@ Autor: Gregor der Große
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/hirtenregel-buch-3#kapitel-fc821dd1-0656-437a-478d-08dd47ac18f8).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3a21f5f6b9c536277dc11c7f55ab419e9d9894ed8524891fe8d8c0978aaa3504`
+Wie diejenigen zu ermahnen sind,
+die das Gute gar nicht erst beginnen,
+und diejenigen,
+die Begonnenes nicht vollenden\.
+Wer das Gute gar nicht erst beginnt,
+muss anders ermahnt werden als jemand,
+der Begonnenes nicht zu Ende führt\.
+Bei denen,
+die das Gute gar nicht erst beginnen,
+darf man nicht zuerst aufbauen,
+was sie zu ihrem Heil lieben sollen\.
+Vielmehr muss man zerstören,
+womit sie sich selbst ins Verderben treiben\.
+Denn sie folgen dem nicht,
+wovon sie nur hören,
+ohne es selbst erfahren zu haben,
+solange sie nicht zuvor erkennen,
+wie verderblich das ist,
+was sie aus eigener Erfahrung kennen\.
+Wer nicht einmal weiß,
+dass er gefallen ist,
+verlangt auch nicht danach,
+aufgerichtet zu werden;
+und wer den Schmerz seiner Wunde nicht spürt,
+sucht kein Heilmittel\.
+Zuerst muss ihnen also gezeigt werden,
+wie nichtig das ist,
+was sie lieben\.
+Erst dann kann man ihnen eindringlich vor Augen stellen,
+wie nützlich das ist,
+was sie außer Acht lassen\.
+Zuerst sollen sie erkennen,
+dass sie fliehen müssen,
+was sie lieben;
+danach werden sie ohne Mühe begreifen,
+dass sie lieben sollen,
+was sie fliehen\.
+Denn was sie noch nicht erfahren haben,
+nehmen sie leichter an,
+wenn sie erkennen,
+dass alles,
+was sie über das ihnen bereits Bekannte hören,
+wahr ist\.
+Erst dann lernen sie mit ganzem Verlangen,
+die wahren Güter zu suchen,
+wenn sie mit sicherem Urteil erkannt haben,
+dass sie sich vergeblich an falsche Güter geklammert hatten\.
+Sie sollen also hören,
+dass die gegenwärtigen Güter samt ihrem Genuss rasch vergehen,
+die Strafe um ihretwillen aber ohne Ende bleibt\.
+Denn schon jetzt wird ihnen wider Willen genommen,
+was sie erfreut;
+und dann bleibt ihnen wider Willen zur Strafe erhalten,
+was ihnen Schmerz bereitet\.
+Gerade das,
+woran sie sich zu ihrem Schaden erfreuen,
+soll ihnen also heilsame Furcht einflößen\.
+Wenn ihr erschütterter Geist die tiefen Schäden seines Sturzes erkennt und begreift,
+dass er an den Abgrund gelangt ist,
+soll er umkehren\.
+Aus Furcht vor dem,
+was er liebte,
+soll er lieben lernen,
+was er verachtete\.
+Deshalb wird Jeremia bei seiner Sendung zur Verkündigung gesagt:
+„Siehe,
+ich setze dich heute über Völker und Königreiche,
+damit du ausreißt und niederreißt,
+vernichtest und zerstörst,
+aufbaust und pflanzt\.[^bible-8a362fc3-593f-488d-986d-81f506a0c07f]“ Denn wenn er nicht zuerst das Verkehrte zerstörte,
+könnte er das Rechte nicht mit Nutzen aufbauen\.
+Wenn er aus den Herzen seiner Hörer nicht die Dornen nichtiger Liebe ausrisse,
+würde er dort zweifellos vergeblich die Worte der heiligen Verkündigung pflanzen\.
 
-Wie diejenigen zu ermahnen sind, die das Gute gar nicht erst beginnen, und diejenigen, die Begonnenes nicht vollenden\. Wer das Gute gar nicht erst beginnt, muss anders ermahnt werden als jemand, der Begonnenes nicht zu Ende führt\. Bei denen, die das Gute gar nicht erst beginnen, darf man nicht zuerst aufbauen, was sie zu ihrem Heil lieben sollen\. Vielmehr muss man zerstören, womit sie sich selbst ins Verderben treiben\. Denn sie folgen dem nicht, wovon sie nur hören, ohne es selbst erfahren zu haben, solange sie nicht zuvor erkennen, wie verderblich das ist, was sie aus eigener Erfahrung kennen\. Wer nicht einmal weiß, dass er gefallen ist, verlangt auch nicht danach, aufgerichtet zu werden; und wer den Schmerz seiner Wunde nicht spürt, sucht kein Heilmittel\. Zuerst muss ihnen also gezeigt werden, wie nichtig das ist, was sie lieben\. Erst dann kann man ihnen eindringlich vor Augen stellen, wie nützlich das ist, was sie außer Acht lassen\. Zuerst sollen sie erkennen, dass sie fliehen müssen, was sie lieben; danach werden sie ohne Mühe begreifen, dass sie lieben sollen, was sie fliehen\. Denn was sie noch nicht erfahren haben, nehmen sie leichter an, wenn sie erkennen, dass alles, was sie über das ihnen bereits Bekannte hören, wahr ist\. Erst dann lernen sie mit ganzem Verlangen, die wahren Güter zu suchen, wenn sie mit sicherem Urteil erkannt haben, dass sie sich vergeblich an falsche Güter geklammert hatten\. Sie sollen also hören, dass die gegenwärtigen Güter samt ihrem Genuss rasch vergehen, die Strafe um ihretwillen aber ohne Ende bleibt\. Denn schon jetzt wird ihnen wider Willen genommen, was sie erfreut; und dann bleibt ihnen wider Willen zur Strafe erhalten, was ihnen Schmerz bereitet\. Gerade das, woran sie sich zu ihrem Schaden erfreuen, soll ihnen also heilsame Furcht einflößen\. Wenn ihr erschütterter Geist die tiefen Schäden seines Sturzes erkennt und begreift, dass er an den Abgrund gelangt ist, soll er umkehren\. Aus Furcht vor dem, was er liebte, soll er lieben lernen, was er verachtete\. Deshalb wird Jeremia bei seiner Sendung zur Verkündigung gesagt: „Siehe, ich setze dich heute über Völker und Königreiche, damit du ausreißt und niederreißt, vernichtest und zerstörst, aufbaust und pflanzt\.[^bible-8a362fc3-593f-488d-986d-81f506a0c07f]“ Denn wenn er nicht zuerst das Verkehrte zerstörte, könnte er das Rechte nicht mit Nutzen aufbauen\. Wenn er aus den Herzen seiner Hörer nicht die Dornen nichtiger Liebe ausrisse, würde er dort zweifellos vergeblich die Worte der heiligen Verkündigung pflanzen\.
+Deshalb reißt Petrus zuerst nieder,
+um danach aufzubauen\.
+Er ermahnte die Juden nicht etwa dazu,
+was sie nun tun sollten,
+sondern hielt ihnen zunächst vor,
+was sie getan hatten:
+„Jesus von Nazaret,
+einen Mann,
+den Gott vor euch durch Machttaten,
+Wunder und Zeichen ausgewiesen hat,
+die Gott durch ihn in eurer Mitte vollbrachte,
+wie ihr selbst wisst,
+diesen Mann,
+der nach dem festgesetzten Ratschluss und der Vorsehung Gottes ausgeliefert worden war,
+habt ihr durch die Hand gesetzloser Menschen ans Kreuz geschlagen und getötet\.
+Ihn hat Gott auferweckt und von den Schmerzen der Unterwelt befreit\.[^bible-d9881269-c8e2-4e4b-a3fd-6eb272d206d3]
+“ Die Erkenntnis ihrer eigenen Grausamkeit sollte sie also niederreißen,
+damit sie umso begieriger nach dem Aufbau durch die heilige Verkündigung verlangten und ihr umso aufmerksamer zuhörten\.
+Deshalb antworten sie auch sogleich:
+„Was sollen wir also tun,
+Brüder?[^bible-6cc1e689-398d-4707-895c-f82ad2d30056]
+“ Darauf wird ihnen gesagt:
+„Tut Buße,
+und jeder von euch lasse sich taufen\.[^bible-57f9d697-bb0e-43d2-8759-00f65975456c]
+“ Diese Worte des Aufbaus hätten sie gewiss verachtet,
+wenn sie nicht zuvor zu ihrem Heil erkannt hätten,
+wie tief sie sich selbst ins Verderben gestürzt hatten\.
+Als Saulus vom Licht erleuchtet wurde,
+das vom Himmel auf ihn herabstrahlte,
+hörte er deshalb auch nicht gleich,
+was er recht tun sollte,
+sondern zunächst,
+was er verkehrt getan hatte\.
+Denn als er zu Boden gestürzt fragte:
+„Wer bist du,
+Herr?[^bible-4d1f93f3-9964-48f5-ba05-353b9235536c]
+“,
+erhielt er sofort die Antwort:
+„Ich bin Jesus von Nazaret,
+den du verfolgst\.[^bible-4d1f93f3-9964-48f5-ba05-353b9235536c]
+“ Als er sogleich hinzufügte:
+„Herr,
+was befiehlst du mir zu tun?[^bible-34c315d6-1c1c-479a-afc0-e22c5abc7061]
+“,
+wurde ihm unmittelbar gesagt:
+„Steh auf,
+geh in die Stadt;
+dort wird dir gesagt werden,
+was du tun sollst\.[^bible-d4a16f43-a315-4297-a4f8-d0d36e979043]
+“ Seht:
+Der Herr sprach vom Himmel herab und hielt seinem Verfolger dessen Taten vor,
+zeigte ihm aber nicht sofort,
+was er tun sollte\.
+Seht:
+Der Bau seines Hochmuts war bereits vollständig eingestürzt\.
+Nach seinem Sturz verlangte er demütig danach,
+aufgebaut zu werden;
+doch obwohl sein Hochmut zerstört war,
+wurden ihm die Worte des Aufbaus noch vorenthalten\.
+Der grausame Verfolger sollte nämlich lange niedergerissen am Boden liegen und später umso gefestigter zum Guten aufstehen,
+je gründlicher er zuvor aus seinem alten Irrtum herausgerissen und zu Fall gebracht worden war\.
+Wer also noch gar nicht begonnen hat,
+Gutes zu tun,
+muss zunächst durch die Hand der Zurechtweisung aus der Verhärtung seines verkehrten Lebens herausgerissen werden,
+um danach zu einem rechtschaffenen Handeln aufgerichtet zu werden\.
+Denn auch einen hohen Baum fällen wir im Wald,
+um ihn zum Dach eines Gebäudes emporzuheben\.
+Doch er wird nicht sofort verbaut,
+sondern muss zunächst seine schädliche Feuchtigkeit verlieren\.
+Je gründlicher die Feuchtigkeit unten aus ihm herausgetrocknet ist,
+desto fester kann er nach oben gehoben werden\.
+Wer dagegen das begonnene Gute nicht vollendet,
+muss dazu ermahnt werden,
+mit wachsamer Umsicht zu bedenken,
+dass er durch die ausbleibende Vollendung seiner Vorsätze sogar das bereits Begonnene wieder einreißt\.
+Denn wenn das,
+was getan werden soll,
+nicht mit beharrlichem Eifer wächst,
+nimmt selbst das ab,
+was zuvor gut getan worden war\.
+Die menschliche Seele gleicht in dieser Welt einem Schiff,
+das gegen die Strömung einen Fluss hinauffährt:
+Sie darf nirgends stehen bleiben,
+denn wenn sie nicht nach oben strebt,
+treibt sie wieder abwärts\.
+Wenn also die kräftige Hand des Handelnden das begonnene Gute nicht bis zur Vollendung emporhebt,
+kämpft schon die Trägheit im Handeln gegen das,
+was vollbracht worden ist\.
+Deshalb heißt es durch Salomo:
+„Wer bei seiner Arbeit nachlässig und träge ist,
+ist der Bruder dessen,
+der sein Werk zerstört\.[^bible-72cc1c8b-10bd-4ba7-9010-cf685ed92ad3]
+“ Wer nämlich das begonnene Gute nicht mit Entschlossenheit zu Ende führt,
+ahmt durch seine nachlässige Trägheit die Hand dessen nach,
+der es zerstört\.
+Deshalb wird der Kirche von Sardes durch den Engel gesagt:
+„Sei wachsam und stärke das Übrige,
+das im Begriff war zu sterben;
+denn ich finde deine Werke vor meinem Gott nicht vollkommen\.[^bible-d1128f14-5311-41ad-8a86-a64aa02cb769]
+“
 
-Deshalb reißt Petrus zuerst nieder, um danach aufzubauen\. Er ermahnte die Juden nicht etwa dazu, was sie nun tun sollten, sondern hielt ihnen zunächst vor, was sie getan hatten: „Jesus von Nazaret, einen Mann, den Gott vor euch durch Machttaten, Wunder und Zeichen ausgewiesen hat, die Gott durch ihn in eurer Mitte vollbrachte, wie ihr selbst wisst, diesen Mann, der nach dem festgesetzten Ratschluss und der Vorsehung Gottes ausgeliefert worden war, habt ihr durch die Hand gesetzloser Menschen ans Kreuz geschlagen und getötet\. Ihn hat Gott auferweckt und von den Schmerzen der Unterwelt befreit\.[^bible-d9881269-c8e2-4e4b-a3fd-6eb272d206d3] “ Die Erkenntnis ihrer eigenen Grausamkeit sollte sie also niederreißen, damit sie umso begieriger nach dem Aufbau durch die heilige Verkündigung verlangten und ihr umso aufmerksamer zuhörten\. Deshalb antworten sie auch sogleich: „Was sollen wir also tun, Brüder?[^bible-6cc1e689-398d-4707-895c-f82ad2d30056] “ Darauf wird ihnen gesagt: „Tut Buße, und jeder von euch lasse sich taufen\.[^bible-57f9d697-bb0e-43d2-8759-00f65975456c] “ Diese Worte des Aufbaus hätten sie gewiss verachtet, wenn sie nicht zuvor zu ihrem Heil erkannt hätten, wie tief sie sich selbst ins Verderben gestürzt hatten\. Als Saulus vom Licht erleuchtet wurde, das vom Himmel auf ihn herabstrahlte, hörte er deshalb auch nicht gleich, was er recht tun sollte, sondern zunächst, was er verkehrt getan hatte\. Denn als er zu Boden gestürzt fragte: „Wer bist du, Herr?[^bible-4d1f93f3-9964-48f5-ba05-353b9235536c] “, erhielt er sofort die Antwort: „Ich bin Jesus von Nazaret, den du verfolgst\.[^bible-4d1f93f3-9964-48f5-ba05-353b9235536c] “ Als er sogleich hinzufügte: „Herr, was befiehlst du mir zu tun?[^bible-34c315d6-1c1c-479a-afc0-e22c5abc7061] “, wurde ihm unmittelbar gesagt: „Steh auf, geh in die Stadt; dort wird dir gesagt werden, was du tun sollst\.[^bible-d4a16f43-a315-4297-a4f8-d0d36e979043] “ Seht: Der Herr sprach vom Himmel herab und hielt seinem Verfolger dessen Taten vor, zeigte ihm aber nicht sofort, was er tun sollte\. Seht: Der Bau seines Hochmuts war bereits vollständig eingestürzt\. Nach seinem Sturz verlangte er demütig danach, aufgebaut zu werden; doch obwohl sein Hochmut zerstört war, wurden ihm die Worte des Aufbaus noch vorenthalten\. Der grausame Verfolger sollte nämlich lange niedergerissen am Boden liegen und später umso gefestigter zum Guten aufstehen, je gründlicher er zuvor aus seinem alten Irrtum herausgerissen und zu Fall gebracht worden war\. Wer also noch gar nicht begonnen hat, Gutes zu tun, muss zunächst durch die Hand der Zurechtweisung aus der Verhärtung seines verkehrten Lebens herausgerissen werden, um danach zu einem rechtschaffenen Handeln aufgerichtet zu werden\. Denn auch einen hohen Baum fällen wir im Wald, um ihn zum Dach eines Gebäudes emporzuheben\. Doch er wird nicht sofort verbaut, sondern muss zunächst seine schädliche Feuchtigkeit verlieren\. Je gründlicher die Feuchtigkeit unten aus ihm herausgetrocknet ist, desto fester kann er nach oben gehoben werden\. Wer dagegen das begonnene Gute nicht vollendet, muss dazu ermahnt werden, mit wachsamer Umsicht zu bedenken, dass er durch die ausbleibende Vollendung seiner Vorsätze sogar das bereits Begonnene wieder einreißt\. Denn wenn das, was getan werden soll, nicht mit beharrlichem Eifer wächst, nimmt selbst das ab, was zuvor gut getan worden war\. Die menschliche Seele gleicht in dieser Welt einem Schiff, das gegen die Strömung einen Fluss hinauffährt: Sie darf nirgends stehen bleiben, denn wenn sie nicht nach oben strebt, treibt sie wieder abwärts\. Wenn also die kräftige Hand des Handelnden das begonnene Gute nicht bis zur Vollendung emporhebt, kämpft schon die Trägheit im Handeln gegen das, was vollbracht worden ist\. Deshalb heißt es durch Salomo: „Wer bei seiner Arbeit nachlässig und träge ist, ist der Bruder dessen, der sein Werk zerstört\.[^bible-72cc1c8b-10bd-4ba7-9010-cf685ed92ad3] “ Wer nämlich das begonnene Gute nicht mit Entschlossenheit zu Ende führt, ahmt durch seine nachlässige Trägheit die Hand dessen nach, der es zerstört\. Deshalb wird der Kirche von Sardes durch den Engel gesagt: „Sei wachsam und stärke das Übrige, das im Begriff war zu sterben; denn ich finde deine Werke vor meinem Gott nicht vollkommen\.[^bible-d1128f14-5311-41ad-8a86-a64aa02cb769] “
-
-Weil also seine Werke vor Gott nicht vollkommen waren, sagte er voraus, dass auch das Übrige, das bereits vollbracht war, sterben würde\. Denn wenn das, was in uns tot ist, nicht zum Leben entfacht wird, erlischt auch das, was noch gleichsam lebendig erhalten wird\. Sie müssen erkennen, dass es erträglicher gewesen wäre, den rechten Weg gar nicht erst einzuschlagen, als ihn einzuschlagen und dann wieder umzukehren\. Denn wenn sie nicht zurückblickten, würde keine Trägheit ihren anfänglichen Eifer lähmen\. Sie sollen also hören, was geschrieben steht: „Es wäre besser für sie gewesen, den Weg der Gerechtigkeit nicht zu erkennen, als ihn zu erkennen und dann wieder umzukehren\.[^bible-6c5431df-d868-44f0-b75a-3e1d7faa7783] “ Sie sollen hören, was geschrieben steht: „Wärst du doch kalt oder heiß\! Weil du aber lau bist und weder kalt noch heiß, werde ich dich aus meinem Mund erbrechen\.[^bible-4ec3fff9-50bf-4aaa-940f-c7664992d493] “ Heiß ist, wer gute Vorhaben nicht nur beginnt, sondern auch vollendet; kalt dagegen ist, wer gar nicht erst beginnt, was er vollenden müsste\. Und wie man von der Kälte durch das Laue zur Hitze gelangt, so kehrt man von der Hitze durch das Laue zur Kälte zurück\. Wer also die Kälte des Unglaubens hinter sich gelassen hat und lebt, aber nicht über das Laue hinauswächst und glühend wird, der gibt zweifellos die Hoffnung auf die Hitze auf und steuert auf die Kälte zu, solange er im schädlichen Zustand der Lauheit verharrt\. Doch während vor der Lauheit die Kälte noch Hoffnung lässt, führt nach der Kälte die Lauheit zur Verzweiflung\. Wer nämlich noch in Sünden lebt, verliert die Zuversicht auf seine Umkehr nicht\. Wer aber nach seiner Umkehr lau geworden ist, hat selbst die Hoffnung zunichtegemacht, die für ihn als Sünder noch bestand\. Jeder soll also entweder heiß oder kalt sein, damit er nicht als Lauer erbrochen wird: Solange er noch nicht umgekehrt ist, lässt sein Zustand noch auf seine Umkehr hoffen; ist er aber bereits umgekehrt, soll er in den Tugenden entbrennen\. Sonst wird er als Lauer erbrochen, weil er durch seine Trägheit von der Hitze, zu der er sich entschlossen hatte, in die schädliche Kälte zurückkehrt\.
+Weil also seine Werke vor Gott nicht vollkommen waren,
+sagte er voraus,
+dass auch das Übrige,
+das bereits vollbracht war,
+sterben würde\.
+Denn wenn das,
+was in uns tot ist,
+nicht zum Leben entfacht wird,
+erlischt auch das,
+was noch gleichsam lebendig erhalten wird\.
+Sie müssen erkennen,
+dass es erträglicher gewesen wäre,
+den rechten Weg gar nicht erst einzuschlagen,
+als ihn einzuschlagen und dann wieder umzukehren\.
+Denn wenn sie nicht zurückblickten,
+würde keine Trägheit ihren anfänglichen Eifer lähmen\.
+Sie sollen also hören,
+was geschrieben steht:
+„Es wäre besser für sie gewesen,
+den Weg der Gerechtigkeit nicht zu erkennen,
+als ihn zu erkennen und dann wieder umzukehren\.[^bible-6c5431df-d868-44f0-b75a-3e1d7faa7783]
+“ Sie sollen hören,
+was geschrieben steht:
+„Wärst du doch kalt oder heiß\!
+Weil du aber lau bist und weder kalt noch heiß,
+werde ich dich aus meinem Mund erbrechen\.[^bible-4ec3fff9-50bf-4aaa-940f-c7664992d493]
+“ Heiß ist,
+wer gute Vorhaben nicht nur beginnt,
+sondern auch vollendet;
+kalt dagegen ist,
+wer gar nicht erst beginnt,
+was er vollenden müsste\.
+Und wie man von der Kälte durch das Laue zur Hitze gelangt,
+so kehrt man von der Hitze durch das Laue zur Kälte zurück\.
+Wer also die Kälte des Unglaubens hinter sich gelassen hat und lebt,
+aber nicht über das Laue hinauswächst und glühend wird,
+der gibt zweifellos die Hoffnung auf die Hitze auf und steuert auf die Kälte zu,
+solange er im schädlichen Zustand der Lauheit verharrt\.
+Doch während vor der Lauheit die Kälte noch Hoffnung lässt,
+führt nach der Kälte die Lauheit zur Verzweiflung\.
+Wer nämlich noch in Sünden lebt,
+verliert die Zuversicht auf seine Umkehr nicht\.
+Wer aber nach seiner Umkehr lau geworden ist,
+hat selbst die Hoffnung zunichtegemacht,
+die für ihn als Sünder noch bestand\.
+Jeder soll also entweder heiß oder kalt sein,
+damit er nicht als Lauer erbrochen wird:
+Solange er noch nicht umgekehrt ist,
+lässt sein Zustand noch auf seine Umkehr hoffen;
+ist er aber bereits umgekehrt,
+soll er in den Tugenden entbrennen\.
+Sonst wird er als Lauer erbrochen,
+weil er durch seine Trägheit von der Hitze,
+zu der er sich entschlossen hatte,
+in die schädliche Kälte zurückkehrt\.
 
 ## Bibelverweise
 

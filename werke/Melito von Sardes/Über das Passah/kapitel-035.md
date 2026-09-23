@@ -7,6 +7,18 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-92ec5921-f879-4362-7691-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:17f9af869592f716997cea65aceb7f22f5699fe52e3887be126b0df5ffec0f1d`
-
-Nichts, Geliebte, wird ohne eine Analogie und ein Muster gesagt oder geschaffen; denn alles, was gesagt und geschaffen wird, hat seine Analogie\. Was gesagt wird, ist eine Analogie, was geschaffen wird, ein Prototyp, sodass alles, was gemacht wird, durch den Prototyp wahrgenommen werden kann und alles, was gesagt wird, durch die Veranschaulichung geklärt wird\.
+Nichts,
+Geliebte,
+wird ohne eine Analogie und ein Muster gesagt oder geschaffen;
+denn alles,
+was gesagt und geschaffen wird,
+hat seine Analogie\.
+Was gesagt wird,
+ist eine Analogie,
+was geschaffen wird,
+ein Prototyp,
+sodass alles,
+was gemacht wird,
+durch den Prototyp wahrgenommen werden kann und alles,
+was gesagt wird,
+durch die Veranschaulichung geklärt wird\.

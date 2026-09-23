@@ -7,9 +7,14 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/anmerkungen-zu-genesis-fragmente#kapitel-396f9b8e-c75c-4c2a-5f11-08de0134ee09).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:4143f8eb2da3a888c35c71371dfbd9fc4f9820be7a14dc6963cfbd18fe6cdf8a`
-
-„Männer sind wir, Viehhirten\. Ein Greuel für die Ägypter ist jeder Schafhirte,“[^bible-4728b232-b98e-4087-bdeb-80703fed2a50] aber nicht für die Hebräer\. Wenn er also als Hirte über uns eingesetzt ist, ist er den Ägyptern ein Greuel; wenn aber als Lohnarbeiter, dann ist er vielleicht sogar ein Freund der Ägypter\.
+„Männer sind wir,
+Viehhirten\.
+Ein Greuel für die Ägypter ist jeder Schafhirte,“[^bible-4728b232-b98e-4087-bdeb-80703fed2a50]
+aber nicht für die Hebräer\.
+Wenn er also als Hirte über uns eingesetzt ist,
+ist er den Ägyptern ein Greuel;
+wenn aber als Lohnarbeiter,
+dann ist er vielleicht sogar ein Freund der Ägypter\.
 
 ## Bibelverweise
 

@@ -7,15 +7,206 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-iv#kapitel-e9656fd4-56e0-4fe1-0387-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:fa2cf96c5fba39c822830b9c3d22af98c586383f6a083055d365c40b0e6d4a43`
+Dass der Herr die natürlichen Gebote des Gesetzes,
+durch die der Mensch gerechtfertigt wird und die auch jene befolgten,
+die vor der Gabe des Gesetzes durch Glauben gerechtfertigt wurden und Gott gefielen,
+nicht aufgehoben,
+sondern erweitert und erfüllt hat,
+zeigt sich an seinen Worten\.
+Denn er sagt:
+„Es ist zu den Alten gesagt worden:
+Du sollst nicht ehebrechen[^bible-25f5d099-1655-4dfd-8cb3-06a802bc8c4d]\.
+Ich aber sage euch:
+Jeder,
+der eine Frau ansieht,
+um sie zu begehren,
+hat in seinem Herzen schon Ehebruch mit ihr begangen[^bible-17cbd54e-be1e-418b-a658-066b616152e9]\.“
+Und wieder:
+„Es ist gesagt worden:
+Du sollst nicht töten[^bible-8127ee03-b31f-4f03-acc5-485496328ab8]\.
+Ich aber sage euch:
+Jeder,
+der seinem Bruder ohne Grund zürnt,
+wird dem Gericht verfallen sein[^bible-21023800-eeeb-4e6a-bb6c-b34042f77217]\.“
+Und:
+„Es ist gesagt worden:
+Du sollst nicht falsch schwören[^bible-42148dfb-0ae4-4b77-bced-d36fd8653730]\.
+Ich aber sage euch:
+Schwört überhaupt nicht[^bible-f4630b8f-60de-4e05-abf1-6a30db507f40];
+eure Rede sei vielmehr:
+Ja,
+ja,
+und:
+Nein,
+nein[^bible-82695219-c4cc-46a9-95e4-993ef1b0fe8d]\.“
+Und anderes derselben Art\.
+Denn all dies enthält und bedeutet keinen Gegensatz zu den früheren Geboten und keinen Umsturz,
+wie Marcions Anhänger mit Nachdruck behaupten;
+es zeigt vielmehr ihre Erfüllung und Erweiterung,
+wie er selbst erklärt:
+„Wenn eure Gerechtigkeit die der Schriftgelehrten und Pharisäer nicht übertrifft,
+werdet ihr nicht in das Himmelreich eingehen[^bible-08a7569e-f8c7-4068-b0d6-58da0d015ca6]\.“
+Was meinte nun dieses Übertreffen?
+Erstens müssen wir nicht nur an den Vater glauben,
+sondern auch an seinen nun offenbarten Sohn;
+denn er ist es,
+der den Menschen in Gemeinschaft und Einheit mit Gott führt\.
+Zweitens dürfen wir nicht nur reden,
+sondern müssen handeln;
+denn sie redeten,
+handelten aber nicht\.
+Und wir müssen nicht nur böse Taten meiden,
+sondern sogar das Verlangen nach ihnen\.
+Dies lehrte er uns nicht im Gegensatz zum Gesetz,
+sondern als Erfüllung des Gesetzes und indem er die vielgestaltige Gerechtigkeit des Gesetzes in uns einpflanzte\.
+Gegen das Gesetz wäre es gewesen,
+wenn er seinen Jüngern geboten hätte,
+etwas zu tun,
+was das Gesetz verboten hatte\.
+Was er aber gebot,
+nämlich nicht nur das vom Gesetz Verbotene zu meiden,
+sondern sogar das Verlangen danach,
+steht nicht im Gegensatz zum Gesetz,
+wie ich gesagt habe;
+es ist auch nicht das Wort eines Gesetzeszerstörers,
+sondern eines,
+der es erfüllt,
+erweitert und ihm größeren Raum gibt\.
 
-Dass der Herr die natürlichen Gebote des Gesetzes, durch die der Mensch gerechtfertigt wird und die auch jene befolgten, die vor der Gabe des Gesetzes durch Glauben gerechtfertigt wurden und Gott gefielen, nicht aufgehoben, sondern erweitert und erfüllt hat, zeigt sich an seinen Worten\. Denn er sagt: „Es ist zu den Alten gesagt worden: Du sollst nicht ehebrechen[^bible-25f5d099-1655-4dfd-8cb3-06a802bc8c4d]\. Ich aber sage euch: Jeder, der eine Frau ansieht, um sie zu begehren, hat in seinem Herzen schon Ehebruch mit ihr begangen[^bible-17cbd54e-be1e-418b-a658-066b616152e9]\.“ Und wieder: „Es ist gesagt worden: Du sollst nicht töten[^bible-8127ee03-b31f-4f03-acc5-485496328ab8]\. Ich aber sage euch: Jeder, der seinem Bruder ohne Grund zürnt, wird dem Gericht verfallen sein[^bible-21023800-eeeb-4e6a-bb6c-b34042f77217]\.“ Und: „Es ist gesagt worden: Du sollst nicht falsch schwören[^bible-42148dfb-0ae4-4b77-bced-d36fd8653730]\. Ich aber sage euch: Schwört überhaupt nicht[^bible-f4630b8f-60de-4e05-abf1-6a30db507f40]; eure Rede sei vielmehr: Ja, ja, und: Nein, nein[^bible-82695219-c4cc-46a9-95e4-993ef1b0fe8d]\.“ Und anderes derselben Art\. Denn all dies enthält und bedeutet keinen Gegensatz zu den früheren Geboten und keinen Umsturz, wie Marcions Anhänger mit Nachdruck behaupten; es zeigt vielmehr ihre Erfüllung und Erweiterung, wie er selbst erklärt: „Wenn eure Gerechtigkeit die der Schriftgelehrten und Pharisäer nicht übertrifft, werdet ihr nicht in das Himmelreich eingehen[^bible-08a7569e-f8c7-4068-b0d6-58da0d015ca6]\.“ Was meinte nun dieses Übertreffen? Erstens müssen wir nicht nur an den Vater glauben, sondern auch an seinen nun offenbarten Sohn; denn er ist es, der den Menschen in Gemeinschaft und Einheit mit Gott führt\. Zweitens dürfen wir nicht nur reden, sondern müssen handeln; denn sie redeten, handelten aber nicht\. Und wir müssen nicht nur böse Taten meiden, sondern sogar das Verlangen nach ihnen\. Dies lehrte er uns nicht im Gegensatz zum Gesetz, sondern als Erfüllung des Gesetzes und indem er die vielgestaltige Gerechtigkeit des Gesetzes in uns einpflanzte\. Gegen das Gesetz wäre es gewesen, wenn er seinen Jüngern geboten hätte, etwas zu tun, was das Gesetz verboten hatte\. Was er aber gebot, nämlich nicht nur das vom Gesetz Verbotene zu meiden, sondern sogar das Verlangen danach, steht nicht im Gegensatz zum Gesetz, wie ich gesagt habe; es ist auch nicht das Wort eines Gesetzeszerstörers, sondern eines, der es erfüllt, erweitert und ihm größeren Raum gibt\.
+Denn das Gesetz war für Menschen in Knechtschaft gegeben und unterwies die Seele durch äußere,
+körperliche Dinge;
+es zog sie gleichsam mit einem Band dahin,
+den Geboten des Gesetzes zu gehorchen,
+damit der Mensch lernte,
+Gott zu dienen\.
+Das Wort aber machte die Seele frei und lehrte,
+dass durch sie auch der Leib freiwillig gereinigt werden soll\.
+Nachdem dies vollbracht war,
+ergab sich folgerichtig,
+dass die Bande der Sklaverei entfernt werden sollten,
+an die der Mensch sich inzwischen gewöhnt hatte,
+und dass er Gott ohne Fesseln folgen sollte;
+außerdem sollten die Gesetze der Freiheit erweitert und die Unterordnung unter den König vermehrt werden,
+damit keiner,
+der sich bekehrt,
+dem unwürdig erscheint,
+der ihn frei gemacht hat,
+sondern damit Diener und Kinder dem Herrn des Hauses gleichermaßen die geschuldete Frömmigkeit und den geschuldeten Gehorsam erweisen\.
+Die Kinder aber haben größere Zuversicht als die Diener,
+weil das Wirken der Freiheit größer und herrlicher ist als der Gehorsam,
+der in der Sklaverei geleistet wird\.
 
-Denn das Gesetz war für Menschen in Knechtschaft gegeben und unterwies die Seele durch äußere, körperliche Dinge; es zog sie gleichsam mit einem Band dahin, den Geboten des Gesetzes zu gehorchen, damit der Mensch lernte, Gott zu dienen\. Das Wort aber machte die Seele frei und lehrte, dass durch sie auch der Leib freiwillig gereinigt werden soll\. Nachdem dies vollbracht war, ergab sich folgerichtig, dass die Bande der Sklaverei entfernt werden sollten, an die der Mensch sich inzwischen gewöhnt hatte, und dass er Gott ohne Fesseln folgen sollte; außerdem sollten die Gesetze der Freiheit erweitert und die Unterordnung unter den König vermehrt werden, damit keiner, der sich bekehrt, dem unwürdig erscheint, der ihn frei gemacht hat, sondern damit Diener und Kinder dem Herrn des Hauses gleichermaßen die geschuldete Frömmigkeit und den geschuldeten Gehorsam erweisen\. Die Kinder aber haben größere Zuversicht als die Diener, weil das Wirken der Freiheit größer und herrlicher ist als der Gehorsam, der in der Sklaverei geleistet wird\.
+Und aus diesem Grund verbot der Herr anstelle jenes Gebotes „Du sollst nicht die Ehe brechen[^bible-cab1669d-6d54-484a-ab0c-25c1d51f2dca]“ sogar die Begierde[^bible-e55c8d3e-18e7-4494-b84f-d904d77ba59f];
+und anstelle des Gebotes,
+das so lautet:
+„Du sollst nicht töten[^bible-2bf5507a-42dd-46d4-bd1b-0d2136bedaac]“,
+verbot er den Zorn[^bible-035660ca-df22-4deb-98aa-8dceec7e3110];
+und anstelle des Gesetzes,
+das die Abgabe des Zehnten vorschreibt,
+gebot er uns,
+unseren ganzen Besitz mit den Armen zu teilen;
+und nicht nur unsere Nächsten zu lieben,
+sondern sogar unsere Feinde;
+und nicht bloß freigebige Geber und Wohltäter zu sein,
+sondern denen,
+die uns unser Eigentum wegnehmen,
+auch noch freiwillig ein Geschenk zu machen\.
+Denn „wer dir den Mantel wegnimmt[^bible-e93443c5-1f3e-483c-91ae-b0be9a212f7e]“,
+sagt er,
+„dem gib auch dein Gewand[^bible-019a2c21-7d94-4546-bfb2-3e9ff292feb5];
+und von dem,
+der dir dein Eigentum wegnimmt,
+fordere es nicht zurück[^bible-e672e398-3cbf-4fd8-bb23-d13d504c9a12];
+und wie ihr wollt,
+dass die Menschen euch tun,
+so tut auch ihr ihnen[^bible-69373eae-4b0e-447f-8931-7692ef4b71d2]“;
+damit wir nicht klagen wie Menschen,
+die nicht betrogen werden wollen,
+sondern uns freuen wie solche,
+die freiwillig gegeben haben,
+und damit wir unserem Nächsten eher eine Wohltat erweisen,
+als der Notwendigkeit nachzugeben\.
+„Und wenn dich jemand zwingt,
+eine Meile mitzugehen,
+geh zwei mit ihm[^bible-452f3453-5078-48ee-9072-94e2fa327bec]“,
+sagt er;
+damit du ihm nicht wie ein Sklave folgst,
+sondern als freier Mensch vorangehst,
+dich in allem freundlich und nützlich gegenüber deinem Nächsten erweist,
+nicht auf seine bösen Absichten achtest,
+sondern deine guten Dienste leistest und dich dem Vater ähnlich machst,
+„der seine Sonne über Böse und Gute aufgehen lässt und Regen sendet über Gerechte und Ungerechte[^bible-0bad4eab-6853-45be-8395-ee063b090916]“\.
+All dies aber,
+wie ich schon bemerkt habe,
+stammt nicht von einem,
+der das Gesetz aufhebt,
+sondern von einem,
+der es unter uns erfüllt,
+ausdehnt und erweitert;
+so wie man sagen könnte:
+Das umfassendere Wirken der Freiheit zeigt,
+dass uns eine vollkommenere Unterordnung und Liebe zu unserem Befreier eingepflanzt worden ist\.
+Denn er hat uns nicht freigemacht,
+damit wir von ihm weggehen,
+denn niemand,
+der außerhalb der Reichweite der Wohltaten des Herrn steht,
+hat die Macht,
+sich selbst die Mittel zum Heil zu verschaffen,
+sondern damit wir ihn umso mehr lieben,
+je mehr wir seine Gnade empfangen\.
+Je mehr wir ihn aber geliebt haben,
+desto mehr Herrlichkeit werden wir von ihm empfangen,
+wenn wir beständig in der Gegenwart des Vaters sind\.
 
-Und aus diesem Grund verbot der Herr anstelle jenes Gebotes „Du sollst nicht die Ehe brechen[^bible-cab1669d-6d54-484a-ab0c-25c1d51f2dca]“ sogar die Begierde[^bible-e55c8d3e-18e7-4494-b84f-d904d77ba59f]; und anstelle des Gebotes, das so lautet: „Du sollst nicht töten[^bible-2bf5507a-42dd-46d4-bd1b-0d2136bedaac]“, verbot er den Zorn[^bible-035660ca-df22-4deb-98aa-8dceec7e3110]; und anstelle des Gesetzes, das die Abgabe des Zehnten vorschreibt, gebot er uns, unseren ganzen Besitz mit den Armen zu teilen; und nicht nur unsere Nächsten zu lieben, sondern sogar unsere Feinde; und nicht bloß freigebige Geber und Wohltäter zu sein, sondern denen, die uns unser Eigentum wegnehmen, auch noch freiwillig ein Geschenk zu machen\. Denn „wer dir den Mantel wegnimmt[^bible-e93443c5-1f3e-483c-91ae-b0be9a212f7e]“, sagt er, „dem gib auch dein Gewand[^bible-019a2c21-7d94-4546-bfb2-3e9ff292feb5]; und von dem, der dir dein Eigentum wegnimmt, fordere es nicht zurück[^bible-e672e398-3cbf-4fd8-bb23-d13d504c9a12]; und wie ihr wollt, dass die Menschen euch tun, so tut auch ihr ihnen[^bible-69373eae-4b0e-447f-8931-7692ef4b71d2]“; damit wir nicht klagen wie Menschen, die nicht betrogen werden wollen, sondern uns freuen wie solche, die freiwillig gegeben haben, und damit wir unserem Nächsten eher eine Wohltat erweisen, als der Notwendigkeit nachzugeben\. „Und wenn dich jemand zwingt, eine Meile mitzugehen, geh zwei mit ihm[^bible-452f3453-5078-48ee-9072-94e2fa327bec]“, sagt er; damit du ihm nicht wie ein Sklave folgst, sondern als freier Mensch vorangehst, dich in allem freundlich und nützlich gegenüber deinem Nächsten erweist, nicht auf seine bösen Absichten achtest, sondern deine guten Dienste leistest und dich dem Vater ähnlich machst, „der seine Sonne über Böse und Gute aufgehen lässt und Regen sendet über Gerechte und Ungerechte[^bible-0bad4eab-6853-45be-8395-ee063b090916]“\. All dies aber, wie ich schon bemerkt habe, stammt nicht von einem, der das Gesetz aufhebt, sondern von einem, der es unter uns erfüllt, ausdehnt und erweitert; so wie man sagen könnte: Das umfassendere Wirken der Freiheit zeigt, dass uns eine vollkommenere Unterordnung und Liebe zu unserem Befreier eingepflanzt worden ist\. Denn er hat uns nicht freigemacht, damit wir von ihm weggehen, denn niemand, der außerhalb der Reichweite der Wohltaten des Herrn steht, hat die Macht, sich selbst die Mittel zum Heil zu verschaffen, sondern damit wir ihn umso mehr lieben, je mehr wir seine Gnade empfangen\. Je mehr wir ihn aber geliebt haben, desto mehr Herrlichkeit werden wir von ihm empfangen, wenn wir beständig in der Gegenwart des Vaters sind\.
-
-Da also alle natürlichen Gebote uns und ihnen, den Juden, gemeinsam sind, hatten sie in ihnen zwar Anfang und Ursprung; in uns aber haben sie Wachstum und Vollendung empfangen\. Denn Gott zuzustimmen, seinem Wort zu folgen, ihn über alles zu lieben und den Nächsten wie sich selbst[^bible-88b51b9a-7784-4ff8-be81-a37fd385c545], denn der Mensch ist dem Menschen der Nächste, sich von jeder bösen Tat fernzuhalten und alles andere dergleichen, was beiden Bündnissen gemeinsam ist, macht den einen und selben Gott offenbar\. Dieser aber ist unser Herr, das Wort Gottes: Zuerst zog er gewiss Sklaven zu Gott; später aber befreite er die, die ihm unterworfen waren\. Das erklärt er selbst seinen Jüngern: „Ich nenne euch jetzt nicht mehr Knechte, denn der Knecht weiß nicht, was sein Herr tut; euch aber habe ich Freunde genannt, denn alles, was ich von meinem Vater gehört habe, habe ich euch bekannt gemacht\.[^bible-b24275f5-472f-4735-9f84-30138630b49b]“ Wenn er sagt: „Ich nenne euch jetzt nicht mehr Knechte[^bible-b24275f5-472f-4735-9f84-30138630b49b]“, zeigt er damit sehr deutlich, dass er es selbst war, der für die Menschen ursprünglich durch das Gesetz die Knechtschaft im Verhältnis zu Gott einsetzte und ihnen dann später die Freiheit schenkte\. Und wenn er sagt: „Denn der Knecht weiß nicht, was sein Herr tut[^bible-b24275f5-472f-4735-9f84-30138630b49b]“, weist er durch seine eigene Ankunft auf die Unwissenheit eines Volkes im Stand der Knechtschaft hin\. Wenn er aber seine Jünger „die Freunde Gottes“ nennt, erklärt er offen, dass er selbst das Wort Gottes ist, dem auch Abraham freiwillig und ohne Zwang, wegen der edlen Art seines Glaubens, folgte und so „der Freund Gottes[^bible-d99007dc-04df-494e-9790-0a3a59580fd8]“ wurde\. Doch das Wort Gottes nahm Abrahams Freundschaft nicht an, als bräuchte es sie; denn es war von Anfang an vollkommen, wie er sagt: „Ehe Abraham war, bin ich[^bible-1581ed0f-5960-45b5-a3f0-5fa900950e44]\.“ Vielmehr wollte er in seiner Güte Abraham selbst das ewige Leben schenken, denn die Freundschaft Gottes verleiht denen, die sie ergreifen, Unsterblichkeit\.
+Da also alle natürlichen Gebote uns und ihnen,
+den Juden,
+gemeinsam sind,
+hatten sie in ihnen zwar Anfang und Ursprung;
+in uns aber haben sie Wachstum und Vollendung empfangen\.
+Denn Gott zuzustimmen,
+seinem Wort zu folgen,
+ihn über alles zu lieben und den Nächsten wie sich selbst[^bible-88b51b9a-7784-4ff8-be81-a37fd385c545],
+denn der Mensch ist dem Menschen der Nächste,
+sich von jeder bösen Tat fernzuhalten und alles andere dergleichen,
+was beiden Bündnissen gemeinsam ist,
+macht den einen und selben Gott offenbar\.
+Dieser aber ist unser Herr,
+das Wort Gottes:
+Zuerst zog er gewiss Sklaven zu Gott;
+später aber befreite er die,
+die ihm unterworfen waren\.
+Das erklärt er selbst seinen Jüngern:
+„Ich nenne euch jetzt nicht mehr Knechte,
+denn der Knecht weiß nicht,
+was sein Herr tut;
+euch aber habe ich Freunde genannt,
+denn alles,
+was ich von meinem Vater gehört habe,
+habe ich euch bekannt gemacht\.[^bible-b24275f5-472f-4735-9f84-30138630b49b]“ Wenn er sagt:
+„Ich nenne euch jetzt nicht mehr Knechte[^bible-b24275f5-472f-4735-9f84-30138630b49b]“,
+zeigt er damit sehr deutlich,
+dass er es selbst war,
+der für die Menschen ursprünglich durch das Gesetz die Knechtschaft im Verhältnis zu Gott einsetzte und ihnen dann später die Freiheit schenkte\.
+Und wenn er sagt:
+„Denn der Knecht weiß nicht,
+was sein Herr tut[^bible-b24275f5-472f-4735-9f84-30138630b49b]“,
+weist er durch seine eigene Ankunft auf die Unwissenheit eines Volkes im Stand der Knechtschaft hin\.
+Wenn er aber seine Jünger „die Freunde Gottes“ nennt,
+erklärt er offen,
+dass er selbst das Wort Gottes ist,
+dem auch Abraham freiwillig und ohne Zwang,
+wegen der edlen Art seines Glaubens,
+folgte und so „der Freund Gottes[^bible-d99007dc-04df-494e-9790-0a3a59580fd8]“ wurde\.
+Doch das Wort Gottes nahm Abrahams Freundschaft nicht an,
+als bräuchte es sie;
+denn es war von Anfang an vollkommen,
+wie er sagt:
+„Ehe Abraham war,
+bin ich[^bible-1581ed0f-5960-45b5-a3f0-5fa900950e44]\.“
+Vielmehr wollte er in seiner Güte Abraham selbst das ewige Leben schenken,
+denn die Freundschaft Gottes verleiht denen,
+die sie ergreifen,
+Unsterblichkeit\.
 
 ## Bibelverweise
 

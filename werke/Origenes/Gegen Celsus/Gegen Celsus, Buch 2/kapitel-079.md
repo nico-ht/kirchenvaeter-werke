@@ -7,9 +7,69 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-2#kapitel-c38e2d3d-d0e8-4a13-0a79-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b7f3d78c5fa65cbfdc9e0ee901a2e7f84b3dea32efee2b4610f77c1df4fbd598`
-
-Der Jude zieht aus all diesen Argumenten über Jesus folgenden Schluss: „Er war also ein Mensch, und zwar so beschaffen, wie die Wahrheit selbst es beweist und die Vernunft ihn erkennen lässt\.“ Ich weiß jedoch nicht, ob ein Mensch, der den Mut hatte, seine Lehre über Gottesverehrung und Unterweisung in der ganzen Welt zu verbreiten, ohne göttliche Hilfe hätte erreichen können, was er wollte, und ob er sich gegen alle hätte durchsetzen können, die den Fortschritt seiner Lehre aufhalten wollten: Könige und Herrscher, den römischen Senat, die Statthalter überall und das einfache Volk\. Und wie hätte die Natur eines Menschen ohne eigene Vortrefflichkeit, eine so gewaltige Menge bekehren können? Es wäre nicht verwunderlich, wenn nur die Weisen auf diese Weise gewonnen worden wären\. Doch es sind gerade die unvernünftigsten Menschen und diejenigen, die ihren Leidenschaften ergeben sind und sich wegen ihrer Unvernunft umso schwerer ändern, um ein maßvolleres Leben zu führen\. Und doch hat Christus solche Wirkungen vollbracht und vollbringt sie noch immer, weil er die Kraft Gottes und die Weisheit des Vaters[^bible-277e469c-edce-44a9-a251-6a455f1ef630] ist, auch wenn weder die Juden noch die Griechen, die seinem Wort nicht glauben, dies zugeben wollen\. Darum werden wir nicht aufhören, nach den Geboten Jesu Christi an Gott zu glauben und diejenigen zu bekehren, die in Fragen der Religion blind sind, obwohl gerade die, die selbst wahrhaft blind sind, uns Blindheit vorwerfen\. Und diejenigen, ob Juden oder Griechen, die ihre Anhänger in die Irre führen, beschuldigen uns, Menschen zu verführen\. Wahrlich eine gute Verführung\! Denn so werden sie maßvoll statt zügellos oder machen wenigstens Fortschritte auf dem Weg zur Mäßigung; sie werden gerecht statt ungerecht oder streben wenigstens danach; sie werden verständig statt dumm oder sind zumindest auf dem Weg dorthin; und statt Feigheit, Niedertracht und Ängstlichkeit zeigen sie Tapferkeit und Mut, besonders in den Kämpfen, die sie um ihrer Gottesverehrung willen auf sich nehmen, der Verehrung Gottes, des Schöpfers aller Dinge\. Jesus Christus kam also, nachdem nicht nur ein Prophet, sondern alle ihn im Voraus angekündigt hatten\. Celsus verriet daher seine Unwissenheit, als er einen Juden behaupten ließ, nur ein einziger Prophet habe die Ankunft Christi vorausgesagt\. Der so eingeführte Jude des Celsus ist nun ungefähr an dieser Stelle mit seiner Rede zu Ende, nachdem er versichert hat, diese Dinge stimmten tatsächlich mit seinem eigenen Gesetz überein, und noch einige andere Dinge erwähnt hat, die keiner Erinnerung wert sind\. Deshalb beende auch ich hier das zweite Buch meiner Antwort auf seine Abhandlung\. Wenn Gott es aber erlaubt und die Kraft Christi in meiner Seele bleibt, werde ich mich im dritten Buch darum bemühen, mich mit den folgenden Aussagen des Celsus auseinanderzusetzen\.
+Der Jude zieht aus all diesen Argumenten über Jesus folgenden Schluss:
+„Er war also ein Mensch,
+und zwar so beschaffen,
+wie die Wahrheit selbst es beweist und die Vernunft ihn erkennen lässt\.“
+Ich weiß jedoch nicht,
+ob ein Mensch,
+der den Mut hatte,
+seine Lehre über Gottesverehrung und Unterweisung in der ganzen Welt zu verbreiten,
+ohne göttliche Hilfe hätte erreichen können,
+was er wollte,
+und ob er sich gegen alle hätte durchsetzen können,
+die den Fortschritt seiner Lehre aufhalten wollten:
+Könige und Herrscher,
+den römischen Senat,
+die Statthalter überall und das einfache Volk\.
+Und wie hätte die Natur eines Menschen ohne eigene Vortrefflichkeit,
+eine so gewaltige Menge bekehren können?
+Es wäre nicht verwunderlich,
+wenn nur die Weisen auf diese Weise gewonnen worden wären\.
+Doch es sind gerade die unvernünftigsten Menschen und diejenigen,
+die ihren Leidenschaften ergeben sind und sich wegen ihrer Unvernunft umso schwerer ändern,
+um ein maßvolleres Leben zu führen\.
+Und doch hat Christus solche Wirkungen vollbracht und vollbringt sie noch immer,
+weil er die Kraft Gottes und die Weisheit des Vaters[^bible-277e469c-edce-44a9-a251-6a455f1ef630] ist,
+auch wenn weder die Juden noch die Griechen,
+die seinem Wort nicht glauben,
+dies zugeben wollen\.
+Darum werden wir nicht aufhören,
+nach den Geboten Jesu Christi an Gott zu glauben und diejenigen zu bekehren,
+die in Fragen der Religion blind sind,
+obwohl gerade die,
+die selbst wahrhaft blind sind,
+uns Blindheit vorwerfen\.
+Und diejenigen,
+ob Juden oder Griechen,
+die ihre Anhänger in die Irre führen,
+beschuldigen uns,
+Menschen zu verführen\.
+Wahrlich eine gute Verführung\!
+Denn so werden sie maßvoll statt zügellos oder machen wenigstens Fortschritte auf dem Weg zur Mäßigung;
+sie werden gerecht statt ungerecht oder streben wenigstens danach;
+sie werden verständig statt dumm oder sind zumindest auf dem Weg dorthin;
+und statt Feigheit,
+Niedertracht und Ängstlichkeit zeigen sie Tapferkeit und Mut,
+besonders in den Kämpfen,
+die sie um ihrer Gottesverehrung willen auf sich nehmen,
+der Verehrung Gottes,
+des Schöpfers aller Dinge\.
+Jesus Christus kam also,
+nachdem nicht nur ein Prophet,
+sondern alle ihn im Voraus angekündigt hatten\.
+Celsus verriet daher seine Unwissenheit,
+als er einen Juden behaupten ließ,
+nur ein einziger Prophet habe die Ankunft Christi vorausgesagt\.
+Der so eingeführte Jude des Celsus ist nun ungefähr an dieser Stelle mit seiner Rede zu Ende,
+nachdem er versichert hat,
+diese Dinge stimmten tatsächlich mit seinem eigenen Gesetz überein,
+und noch einige andere Dinge erwähnt hat,
+die keiner Erinnerung wert sind\.
+Deshalb beende auch ich hier das zweite Buch meiner Antwort auf seine Abhandlung\.
+Wenn Gott es aber erlaubt und die Kraft Christi in meiner Seele bleibt,
+werde ich mich im dritten Buch darum bemühen,
+mich mit den folgenden Aussagen des Celsus auseinanderzusetzen\.
 
 ## Bibelverweise
 

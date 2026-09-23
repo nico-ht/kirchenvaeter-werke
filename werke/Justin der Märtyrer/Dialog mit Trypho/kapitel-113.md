@@ -7,11 +7,83 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-2db9fa51-7258-4865-effa-08de65b8739d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d93658abc01dfa13995a071c1175ca51fe215cf2850757e0d07a01b39b18f028`
+Hier ist ein Beispiel für das,
+wovon ich spreche\.
+Jesus,
+wie ich schon oft sagte,
+dessen Name Hosea war,
+wurde von Mose Jesus genannt,
+als er als Kundschafter mit Kaleb in das Land Kanaan gesandt wurde\.
+[^bible-efa8e71b-3d67-47e9-81c3-9434b8b31b80]Nun seid ihr aber überhaupt nicht neugierig zu wissen,
+warum er das tat,
+noch fragt ihr nach oder untersucht den Grund\.
+Daher habt ihr Christus niemals entdeckt,
+und wenn ihr lest,
+versteht ihr nicht;
+wenn ihr uns jetzt sagen hört,
+dass Jesus unser Christus ist,
+studiert ihr die Frage nicht,
+um zu entdecken,
+dass ihm dieser Name mit voller Absicht und nicht zufällig gegeben wurde\.
+Stattdessen führt ihr eine theologische Debatte über die Frage,
+warum dem ursprünglichen Namen Abrahams ein ‚a‘ hinzugefügt wurde,
+und ihr streitet ernsthaft darüber,
+warum dem Namen der Sara ein ‚r‘ angefügt wurde\.
+Aber warum fragt ihr niemals,
+wieso der Name des Hosea,
+des Sohnes des Nun,
+den sein Vater ihm gab,
+in Jesus geändert wurde?
+Besonders da nicht nur sein Name geändert wurde,
+sondern er auch – nachdem er Moses Nachfolger geworden war – als Einziger von all seinen Zeitgenossen,
+die aus Ägypten geflohen waren,
+den Rest des Volkes in das Heilige Land führte\.
+Und genau wie er,
+und nicht Mose,
+das Volk in das Heilige Land führte und es durch das Los unter jene verteilte,
+die hineinkamen,
+so wird auch Jesus der Christus das zerstreute Volk sammeln und jedem das gute Land austeilen,
+wenngleich nicht auf dieselbe Weise\.
+Denn jener Jesus gab ihnen ein Erbe nur für eine Zeit,
+da er nicht Christus unser Gott war,
+noch der Sohn Gottes;
+aber Jesus wird uns nach der heiligen Auferstehung ein Erbe für die Ewigkeit geben\.
 
-Hier ist ein Beispiel für das, wovon ich spreche\. Jesus, wie ich schon oft sagte, dessen Name Hosea war, wurde von Mose Jesus genannt, als er als Kundschafter mit Kaleb in das Land Kanaan gesandt wurde\. [^bible-efa8e71b-3d67-47e9-81c3-9434b8b31b80]Nun seid ihr aber überhaupt nicht neugierig zu wissen, warum er das tat, noch fragt ihr nach oder untersucht den Grund\. Daher habt ihr Christus niemals entdeckt, und wenn ihr lest, versteht ihr nicht; wenn ihr uns jetzt sagen hört, dass Jesus unser Christus ist, studiert ihr die Frage nicht, um zu entdecken, dass ihm dieser Name mit voller Absicht und nicht zufällig gegeben wurde\. Stattdessen führt ihr eine theologische Debatte über die Frage, warum dem ursprünglichen Namen Abrahams ein ‚a‘ hinzugefügt wurde, und ihr streitet ernsthaft darüber, warum dem Namen der Sara ein ‚r‘ angefügt wurde\. Aber warum fragt ihr niemals, wieso der Name des Hosea, des Sohnes des Nun, den sein Vater ihm gab, in Jesus geändert wurde? Besonders da nicht nur sein Name geändert wurde, sondern er auch – nachdem er Moses Nachfolger geworden war – als Einziger von all seinen Zeitgenossen, die aus Ägypten geflohen waren, den Rest des Volkes in das Heilige Land führte\. Und genau wie er, und nicht Mose, das Volk in das Heilige Land führte und es durch das Los unter jene verteilte, die hineinkamen, so wird auch Jesus der Christus das zerstreute Volk sammeln und jedem das gute Land austeilen, wenngleich nicht auf dieselbe Weise\. Denn jener Jesus gab ihnen ein Erbe nur für eine Zeit, da er nicht Christus unser Gott war, noch der Sohn Gottes; aber Jesus wird uns nach der heiligen Auferstehung ein Erbe für die Ewigkeit geben\.
-
-Jener Jesus ließ tatsächlich die Sonne stillstehen, weil er den Beinamen Jesus erhalten hatte und die Kraft von seinem Geist empfangen hatte\. Denn ich habe bewiesen, dass es Jesus war, der Mose, Abraham und kurzum allen Patriarchen erschien und mit ihnen sprach, indem er den Willen des Vaters tat\. Er wurde auch Mensch durch die Jungfrau Maria und lebt in Ewigkeit\. Nach seinem Kommen wird der Vater durch ihn Himmel und Erde erneuern\. Das ist der, der in Jerusalem leuchten soll als ein ewiges Licht\. Das ist der, welcher ‚König von Salem und Priester des Höchsten auf ewig nach der Ordnung Melchisedeks‘ [^bible-d6b0f731-9f35-40e4-b558-2fff0f6b39a2]ist\. Von Jesus wird berichtet, er habe das Volk ‚ein zweites Mal mit Steinmessern beschnitten‘[^bible-35110c5e-0f60-4a27-914a-1646c165bbcd]  – was ein Zeichen jener Beschneidung war, durch die Jesus Christus selbst uns von Götzen aus Stein und anderen Materialien abgeschnitten hat –, und er habe jene gesammelt, die überall aus der Unbeschnittenheit, das heißt aus dem weltlichen Irrtum, mit Steinmessern beschnitten wurden, nämlich mit den Worten unseres Herrn Jesus\. Denn ich habe bereits aufgezeigt, dass die Propheten ihn bildlich einen Stein und einen Fels nannten\. Unter den Steinmessern verstehen wir daher seine Worte, durch die so viele, die im Irrtum waren, aus ihrer Unbeschnittenheit mit der Beschneidung des Herzens beschnitten wurden\. Von jener Zeit an befahl Gott durch Jesus, dass jene, welche die Beschneidung hatten, die mit Abraham begann, erneut mit der Beschneidung des Herzens beschnitten werden sollten, denn er sagte, dass Jesus eine zweite Beschneidung mit Steinmessern an denen vollzog, die in das Heilige Land einzogen\.
+Jener Jesus ließ tatsächlich die Sonne stillstehen,
+weil er den Beinamen Jesus erhalten hatte und die Kraft von seinem Geist empfangen hatte\.
+Denn ich habe bewiesen,
+dass es Jesus war,
+der Mose,
+Abraham und kurzum allen Patriarchen erschien und mit ihnen sprach,
+indem er den Willen des Vaters tat\.
+Er wurde auch Mensch durch die Jungfrau Maria und lebt in Ewigkeit\.
+Nach seinem Kommen wird der Vater durch ihn Himmel und Erde erneuern\.
+Das ist der,
+der in Jerusalem leuchten soll als ein ewiges Licht\.
+Das ist der,
+welcher ‚König von Salem und Priester des Höchsten auf ewig nach der Ordnung Melchisedeks‘ [^bible-d6b0f731-9f35-40e4-b558-2fff0f6b39a2]ist\.
+Von Jesus wird berichtet,
+er habe das Volk ‚ein zweites Mal mit Steinmessern beschnitten‘[^bible-35110c5e-0f60-4a27-914a-1646c165bbcd]  – was ein Zeichen jener Beschneidung war,
+durch die Jesus Christus selbst uns von Götzen aus Stein und anderen Materialien abgeschnitten hat –,
+und er habe jene gesammelt,
+die überall aus der Unbeschnittenheit,
+das heißt aus dem weltlichen Irrtum,
+mit Steinmessern beschnitten wurden,
+nämlich mit den Worten unseres Herrn Jesus\.
+Denn ich habe bereits aufgezeigt,
+dass die Propheten ihn bildlich einen Stein und einen Fels nannten\.
+Unter den Steinmessern verstehen wir daher seine Worte,
+durch die so viele,
+die im Irrtum waren,
+aus ihrer Unbeschnittenheit mit der Beschneidung des Herzens beschnitten wurden\.
+Von jener Zeit an befahl Gott durch Jesus,
+dass jene,
+welche die Beschneidung hatten,
+die mit Abraham begann,
+erneut mit der Beschneidung des Herzens beschnitten werden sollten,
+denn er sagte,
+dass Jesus eine zweite Beschneidung mit Steinmessern an denen vollzog,
+die in das Heilige Land einzogen\.
 
 ## Bibelverweise
 

@@ -7,9 +7,23 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-1#kapitel-9a2c4f9e-e1fa-4578-cd79-08dd5e2b9946).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:bd70cce6fbd2dc5a71daeb70860ed481290237a43a781e2c8874adb1025907a3`
-
-Warum sagt Gott: „Es reut mich, dass ich sie gemacht habe[^bible-33589b79-fd54-43c5-9820-613efbffae48]“? Erstens berichtet Mose hier wiederum, was geschehen ist, als spräche er von einer berühmten menschlichen Handlung; eigentlich aber empfindet Gott keinen Zorn, sondern ist frei von allen solchen Erregungen des Geistes und über sie erhaben\. Deshalb will Mose hier durch eine übersteigerte Ausdrucksweise zeigen, dass die Ungerechtigkeiten des Menschen ein solches Maß erreicht hatten, dass sie sogar den zum Zorn reizten und herausforderten, der seiner Natur nach des Zornes unfähig war\. Zweitens mahnt er uns durch ein Bild, dass dumme Handlungen der Strafe verfallen, während diejenigen, die aus weisem und überlegtem Rat hervorgehen, lobenswert sind\.
+Warum sagt Gott:
+„Es reut mich,
+dass ich sie gemacht habe[^bible-33589b79-fd54-43c5-9820-613efbffae48]“?
+Erstens berichtet Mose hier wiederum,
+was geschehen ist,
+als spräche er von einer berühmten menschlichen Handlung;
+eigentlich aber empfindet Gott keinen Zorn,
+sondern ist frei von allen solchen Erregungen des Geistes und über sie erhaben\.
+Deshalb will Mose hier durch eine übersteigerte Ausdrucksweise zeigen,
+dass die Ungerechtigkeiten des Menschen ein solches Maß erreicht hatten,
+dass sie sogar den zum Zorn reizten und herausforderten,
+der seiner Natur nach des Zornes unfähig war\.
+Zweitens mahnt er uns durch ein Bild,
+dass dumme Handlungen der Strafe verfallen,
+während diejenigen,
+die aus weisem und überlegtem Rat hervorgehen,
+lobenswert sind\.
 
 ## Bibelverweise
 

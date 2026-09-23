@@ -7,8 +7,120 @@ Autor: Augustinus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/gegen-die-akademiker-buch-1#kapitel-06520a70-75cf-4aac-9776-08df051de4b6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c9f1ed088012909e8e29b5639f4a844ab3f6b0bb8f0be45a2be312d83a43505b`
+Als wir uns auf meine Aufforderung hin alle an einem geeigneten Ort zu diesem Zweck versammelt hatten,
+fragte ich:
+„Zweifelt ihr etwa daran,
+dass wir die Wahrheit erkennen müssen?“
+„Keineswegs“,
+sagte Trygetius;
+die übrigen gaben durch ihren Gesichtsausdruck zu erkennen,
+dass sie ihm zustimmten\.
+„Was aber,
+wenn wir auch glücklich sein können,
+ohne die Wahrheit erfasst zu haben?
+Haltet ihr es dann für notwendig,
+sie zu erfassen?“
+Da sagte Alypius:
+„Ich glaube,
+bei dieser Frage übernehme ich besser die Rolle des Richters\.
+Da meine Reise in die Stadt bereits feststeht,
+sollte man mir die Last ersparen,
+mich für eine der beiden Seiten einsetzen zu müssen\.
+Außerdem kann ich die Rolle des Richters leichter jemand anderem übertragen als die eines Verteidigers\.
+Erwartet daher von nun an nicht,
+dass ich für eine der beiden Seiten eintrete\.“
+Nachdem ihm dies von allen zugestanden worden war,
+wiederholte ich meine Frage\.
+Trygetius sagte:
+„Natürlich wollen wir glücklich sein\.
+Und wenn wir dieses Ziel ohne die Wahrheit erreichen können,
+brauchen wir auch nicht nach ihr zu suchen\.“
+„Wie steht es dann damit?“,
+fragte ich\.
+„Glaubt ihr,
+wir könnten glücklich sein,
+auch wenn wir die Wahrheit nicht gefunden haben?“
+Darauf sagte Licentius:
+„Das können wir,
+wenn wir nach der Wahrheit suchen\.“
+Als ich nun die anderen mit einem Wink um ihre Meinung bat,
+sagte Navigius:
+„Was Licentius gesagt hat,
+leuchtet mir ein\.
+Vielleicht besteht ein glückliches Leben ja gerade darin,
+auf der Suche nach der Wahrheit zu leben\.“
+„Dann bestimme“,
+sagte Trygetius,
+„was ein glückliches Leben ist,
+damit ich daraus schließen kann,
+was ich antworten sollte\.“
+Ich fragte:
+„Was könnte ein glückliches Leben deiner Ansicht nach anderes sein als ein Leben nach dem,
+was im Menschen das Beste ist?“
+„Ich werde meine Worte nicht unbedacht von mir geben“,
+sagte er\.
+„Denn was genau dieses Beste ist,
+musst du mir erst bestimmen\.“
+Ich antwortete:
+„Wer könnte daran zweifeln,
+dass das Beste im Menschen nichts anderes ist als jener Teil der Seele,
+dem alles Übrige im Menschen gehorchen soll,
+weil ihm die Herrschaft gebührt?
+Damit du nun keine weitere Bestimmung verlangst:
+Dieser Teil kann Geist oder Vernunft genannt werden\.
+Wenn du anderer Meinung bist,
+dann überlege selbst,
+wie du entweder das glückliche Leben oder das Beste im Menschen bestimmen würdest\.“
+„Ich stimme dir zu“,
+sagte er\.
 
-Als wir uns auf meine Aufforderung hin alle an einem geeigneten Ort zu diesem Zweck versammelt hatten, fragte ich: „Zweifelt ihr etwa daran, dass wir die Wahrheit erkennen müssen?“ „Keineswegs“, sagte Trygetius; die übrigen gaben durch ihren Gesichtsausdruck zu erkennen, dass sie ihm zustimmten\. „Was aber, wenn wir auch glücklich sein können, ohne die Wahrheit erfasst zu haben? Haltet ihr es dann für notwendig, sie zu erfassen?“ Da sagte Alypius: „Ich glaube, bei dieser Frage übernehme ich besser die Rolle des Richters\. Da meine Reise in die Stadt bereits feststeht, sollte man mir die Last ersparen, mich für eine der beiden Seiten einsetzen zu müssen\. Außerdem kann ich die Rolle des Richters leichter jemand anderem übertragen als die eines Verteidigers\. Erwartet daher von nun an nicht, dass ich für eine der beiden Seiten eintrete\.“ Nachdem ihm dies von allen zugestanden worden war, wiederholte ich meine Frage\. Trygetius sagte: „Natürlich wollen wir glücklich sein\. Und wenn wir dieses Ziel ohne die Wahrheit erreichen können, brauchen wir auch nicht nach ihr zu suchen\.“ „Wie steht es dann damit?“, fragte ich\. „Glaubt ihr, wir könnten glücklich sein, auch wenn wir die Wahrheit nicht gefunden haben?“ Darauf sagte Licentius: „Das können wir, wenn wir nach der Wahrheit suchen\.“ Als ich nun die anderen mit einem Wink um ihre Meinung bat, sagte Navigius: „Was Licentius gesagt hat, leuchtet mir ein\. Vielleicht besteht ein glückliches Leben ja gerade darin, auf der Suche nach der Wahrheit zu leben\.“ „Dann bestimme“, sagte Trygetius, „was ein glückliches Leben ist, damit ich daraus schließen kann, was ich antworten sollte\.“ Ich fragte: „Was könnte ein glückliches Leben deiner Ansicht nach anderes sein als ein Leben nach dem, was im Menschen das Beste ist?“ „Ich werde meine Worte nicht unbedacht von mir geben“, sagte er\. „Denn was genau dieses Beste ist, musst du mir erst bestimmen\.“ Ich antwortete: „Wer könnte daran zweifeln, dass das Beste im Menschen nichts anderes ist als jener Teil der Seele, dem alles Übrige im Menschen gehorchen soll, weil ihm die Herrschaft gebührt? Damit du nun keine weitere Bestimmung verlangst: Dieser Teil kann Geist oder Vernunft genannt werden\. Wenn du anderer Meinung bist, dann überlege selbst, wie du entweder das glückliche Leben oder das Beste im Menschen bestimmen würdest\.“ „Ich stimme dir zu“, sagte er\.
-
-„Nun denn“, sagte ich, „kehren wir zu unserer Ausgangsfrage zurück: Meinst du, man könne glücklich leben, ohne die Wahrheit gefunden zu haben, wenn man nur nach ihr sucht?“ „Ich wiederhole meine frühere Ansicht“, erwiderte er\. „Keineswegs\.“ „Und was meint ihr?“, fragte ich\. Da sagte Licentius: „Ich meine es durchaus\. Denn unsere Vorfahren, von denen uns überliefert ist, dass sie weise und glücklich waren, lebten allein dadurch gut und glücklich, dass sie nach der Wahrheit suchten\.“ „Ich danke euch“, sagte ich, „dass ihr gemeinsam mit Alypius mich zum Richter gemacht habt; denn ich gestehe, dass ich ihn schon zu beneiden begann\. Einer von euch meint also, das glückliche Leben könne allein durch die Suche nach der Wahrheit erlangt werden, der andere, es könne nur durch deren Auffindung zuteilwerden\. Navigius aber hat vorhin erkennen lassen, dass er auf deine Seite, Licentius, übertreten will\. Daher bin ich sehr gespannt, was für Verteidiger eurer Ansichten ihr sein könnt\. Es geht nämlich um eine große Sache, die sorgfältigste Erörterung verdient\.“ „Wenn es um eine große Sache geht“, sagte Licentius, „verlangt sie nach großen Männern\.“ „Suche nicht“, erwiderte ich, „zumal auf diesem Landgut, was sich überall auf der Welt nur schwer finden lässt\. Erkläre vielmehr, warum du diese Ansicht vertrittst, die du meines Erachtens nicht unbedacht vorgebracht hast, und aus welchem Grund sie dir richtig erscheint\. Denn selbst die größten Dinge pflegen, wenn kleine Menschen sie untersuchen, diese groß zu machen\.“
+„Nun denn“,
+sagte ich,
+„kehren wir zu unserer Ausgangsfrage zurück:
+Meinst du,
+man könne glücklich leben,
+ohne die Wahrheit gefunden zu haben,
+wenn man nur nach ihr sucht?“
+„Ich wiederhole meine frühere Ansicht“,
+erwiderte er\.
+„Keineswegs\.“
+„Und was meint ihr?“,
+fragte ich\.
+Da sagte Licentius:
+„Ich meine es durchaus\.
+Denn unsere Vorfahren,
+von denen uns überliefert ist,
+dass sie weise und glücklich waren,
+lebten allein dadurch gut und glücklich,
+dass sie nach der Wahrheit suchten\.“
+„Ich danke euch“,
+sagte ich,
+„dass ihr gemeinsam mit Alypius mich zum Richter gemacht habt;
+denn ich gestehe,
+dass ich ihn schon zu beneiden begann\.
+Einer von euch meint also,
+das glückliche Leben könne allein durch die Suche nach der Wahrheit erlangt werden,
+der andere,
+es könne nur durch deren Auffindung zuteilwerden\.
+Navigius aber hat vorhin erkennen lassen,
+dass er auf deine Seite,
+Licentius,
+übertreten will\.
+Daher bin ich sehr gespannt,
+was für Verteidiger eurer Ansichten ihr sein könnt\.
+Es geht nämlich um eine große Sache,
+die sorgfältigste Erörterung verdient\.“
+„Wenn es um eine große Sache geht“,
+sagte Licentius,
+„verlangt sie nach großen Männern\.“
+„Suche nicht“,
+erwiderte ich,
+„zumal auf diesem Landgut,
+was sich überall auf der Welt nur schwer finden lässt\.
+Erkläre vielmehr,
+warum du diese Ansicht vertrittst,
+die du meines Erachtens nicht unbedacht vorgebracht hast,
+und aus welchem Grund sie dir richtig erscheint\.
+Denn selbst die größten Dinge pflegen,
+wenn kleine Menschen sie untersuchen,
+diese groß zu machen\.“

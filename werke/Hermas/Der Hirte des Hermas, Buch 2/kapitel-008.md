@@ -7,9 +7,149 @@ Autor: Hermas
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/hermas/der-hirte-des-hermas-buch-2#kapitel-ba42a8f3-fa0f-4216-4bbb-08deb4372c12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b54e3a1464231d071cbc865a4d0962da75a662e34c039737f1829498124f2a2a`
-
-Achtes Gebot\. „Ich habe dir gesagt“, sagt er, „dass die Geschöpfe Gottes zweifach sind; denn auch die Enthaltsamkeit ist zweifach\. Von manchen Dingen muss man sich enthalten, von anderen aber nicht\.“ „Mache mir bekannt Herr“, sagte ich, „wovon man sich enthalten muss und wovon nicht\.“ „Höre“, sagt er, „vom Bösen enthalte dich und tu es nicht; vom Guten aber enthalte dich nicht, sondern tu es\. Denn wenn du dich des Guten so enthältst, dass du es nicht tust, begehst du eine große Sünde; wenn du dich aber des Bösen so enthältst, dass du es nicht tust, wirkst du große Gerechtigkeit\. Enthalte dich also aller Bosheit, indem du das Gute tust\.“ „Was für Bosheiten“, sagte ich, „Herr, sind es, von denen wir uns enthalten müssen?“ „Höre“, sagt er, „von Ehebruch und Unzucht, von gesetzloser Trunkenheit, von Ehebruch und Unzucht, von vielem Essen, von Hochmut und Überheblichkeit, von Lüge und übler Nachrede, von Heuchelei, Nachtragen von Bösem und jeder Lästerung\. Diese Werke sind im Leben der Menschen die schlimmsten von allen\. Von diesen Werken also muss sich der Knecht Gottes enthalten; denn wer sich davon nicht enthält, kann nicht für Gott leben\. Höre nun auch, was ihnen folgt\.“ „Herr, gibt es denn noch“, sagte ich, „böse Werke?“ „Ja, sehr viele“, sagt er, „gibt es, von denen sich der Knecht Gottes enthalten muss: Diebstahl, Lüge, Vorenthaltung, falsches Zeugnis, Habgier, böse Begierde, Betrug, eitle Ruhmsucht, Prahlerei und alles, was diesen Dingen ähnlich ist\. Scheint dir nicht, dass dies böse ist?“ „Sehr böse“, sagte ich, „für die Knechte Gottes\.“ „Wer Gott dient, muss sich von all dem enthalten\. Enthalte dich also; dies ist es, wovon du dich enthalten musst\. Was aber betrifft, wovon du dich nicht enthalten sollst“, sagt er, „das tu\.“ „Zeige mir auch“, sagte ich, „Herr, die Kraft der guten Dinge, damit ich in ihnen wandle und ihnen diene, damit ich, wenn ich sie tue, gerettet werden kann\.“ „Höre“, sagt er, „auch die Werke der guten Dinge, die du tun musst und von denen du dich nicht enthalten sollst: vor allem Glaube, Furcht des Herrn, Liebe, Eintracht, Worte der Gerechtigkeit, Wahrheit, Geduld\. Nichts ist im Leben der Menschen besser als diese\. Wenn einer sie bewahrt und sich nicht von ihnen fernhält, wird er selig in seinem Leben\. Dann höre, was ihnen folgt: Witwen dienen, Waisen und Bedürftige besuchen[^bible-12fbf598-b6e2-44e0-94cb-135dd8cb4046], die Knechte Gottes aus Nöten erlösen, gastfreundlich sein, denn in der Gastfreundschaft findet sich bisweilen Wohltun, niemandem widerstehen, still sein, geringer werden als alle Menschen, die Älteren ehren, Gerechtigkeit üben, Brüderlichkeit bewahren, Schmähung ertragen, langmütig sein, kein Nachtragen von Bösem haben, die an der Seele Müden ermutigen, die vom Glauben Anstoß genommen haben nicht verwerfen, sondern sie umkehren und zuversichtlich machen, die Sündigenden zurechtweisen, Schuldner und Bedürftige nicht bedrängen, und was diesen Dingen ähnlich ist\. Scheint dir“, sagt er, „dass dies gut ist?“ „Was denn“, sagte ich, „Herr, wäre besser als dies?“ „Wandle also“, sagt er, „in diesen Dingen und halte dich nicht von ihnen fern, und du wirst für Gott leben\. Bewahre also dieses Gebot: Wenn du das Gute tust und dich nicht davon fernhältst, wirst du für Gott leben, und alle, die so handeln, werden für Gott leben\. Und wiederum: Wenn du das Böse nicht tust und dich davon fernhältst, wirst du für Gott leben, und alle werden für Gott leben, die diese Gebote bewahren und in ihnen wandeln\.“
+Achtes Gebot\.
+„Ich habe dir gesagt“,
+sagt er,
+„dass die Geschöpfe Gottes zweifach sind;
+denn auch die Enthaltsamkeit ist zweifach\.
+Von manchen Dingen muss man sich enthalten,
+von anderen aber nicht\.“
+„Mache mir bekannt Herr“,
+sagte ich,
+„wovon man sich enthalten muss und wovon nicht\.“
+„Höre“,
+sagt er,
+„vom Bösen enthalte dich und tu es nicht;
+vom Guten aber enthalte dich nicht,
+sondern tu es\.
+Denn wenn du dich des Guten so enthältst,
+dass du es nicht tust,
+begehst du eine große Sünde;
+wenn du dich aber des Bösen so enthältst,
+dass du es nicht tust,
+wirkst du große Gerechtigkeit\.
+Enthalte dich also aller Bosheit,
+indem du das Gute tust\.“
+„Was für Bosheiten“,
+sagte ich,
+„Herr,
+sind es,
+von denen wir uns enthalten müssen?“
+„Höre“,
+sagt er,
+„von Ehebruch und Unzucht,
+von gesetzloser Trunkenheit,
+von Ehebruch und Unzucht,
+von vielem Essen,
+von Hochmut und Überheblichkeit,
+von Lüge und übler Nachrede,
+von Heuchelei,
+Nachtragen von Bösem und jeder Lästerung\.
+Diese Werke sind im Leben der Menschen die schlimmsten von allen\.
+Von diesen Werken also muss sich der Knecht Gottes enthalten;
+denn wer sich davon nicht enthält,
+kann nicht für Gott leben\.
+Höre nun auch,
+was ihnen folgt\.“
+„Herr,
+gibt es denn noch“,
+sagte ich,
+„böse Werke?“
+„Ja,
+sehr viele“,
+sagt er,
+„gibt es,
+von denen sich der Knecht Gottes enthalten muss:
+Diebstahl,
+Lüge,
+Vorenthaltung,
+falsches Zeugnis,
+Habgier,
+böse Begierde,
+Betrug,
+eitle Ruhmsucht,
+Prahlerei und alles,
+was diesen Dingen ähnlich ist\.
+Scheint dir nicht,
+dass dies böse ist?“
+„Sehr böse“,
+sagte ich,
+„für die Knechte Gottes\.“
+„Wer Gott dient,
+muss sich von all dem enthalten\.
+Enthalte dich also;
+dies ist es,
+wovon du dich enthalten musst\.
+Was aber betrifft,
+wovon du dich nicht enthalten sollst“,
+sagt er,
+„das tu\.“
+„Zeige mir auch“,
+sagte ich,
+„Herr,
+die Kraft der guten Dinge,
+damit ich in ihnen wandle und ihnen diene,
+damit ich,
+wenn ich sie tue,
+gerettet werden kann\.“
+„Höre“,
+sagt er,
+„auch die Werke der guten Dinge,
+die du tun musst und von denen du dich nicht enthalten sollst:
+vor allem Glaube,
+Furcht des Herrn,
+Liebe,
+Eintracht,
+Worte der Gerechtigkeit,
+Wahrheit,
+Geduld\.
+Nichts ist im Leben der Menschen besser als diese\.
+Wenn einer sie bewahrt und sich nicht von ihnen fernhält,
+wird er selig in seinem Leben\.
+Dann höre,
+was ihnen folgt:
+Witwen dienen,
+Waisen und Bedürftige besuchen[^bible-12fbf598-b6e2-44e0-94cb-135dd8cb4046],
+die Knechte Gottes aus Nöten erlösen,
+gastfreundlich sein,
+denn in der Gastfreundschaft findet sich bisweilen Wohltun,
+niemandem widerstehen,
+still sein,
+geringer werden als alle Menschen,
+die Älteren ehren,
+Gerechtigkeit üben,
+Brüderlichkeit bewahren,
+Schmähung ertragen,
+langmütig sein,
+kein Nachtragen von Bösem haben,
+die an der Seele Müden ermutigen,
+die vom Glauben Anstoß genommen haben nicht verwerfen,
+sondern sie umkehren und zuversichtlich machen,
+die Sündigenden zurechtweisen,
+Schuldner und Bedürftige nicht bedrängen,
+und was diesen Dingen ähnlich ist\.
+Scheint dir“,
+sagt er,
+„dass dies gut ist?“
+„Was denn“,
+sagte ich,
+„Herr,
+wäre besser als dies?“
+„Wandle also“,
+sagt er,
+„in diesen Dingen und halte dich nicht von ihnen fern,
+und du wirst für Gott leben\.
+Bewahre also dieses Gebot:
+Wenn du das Gute tust und dich nicht davon fernhältst,
+wirst du für Gott leben,
+und alle,
+die so handeln,
+werden für Gott leben\.
+Und wiederum:
+Wenn du das Böse nicht tust und dich davon fernhältst,
+wirst du für Gott leben,
+und alle werden für Gott leben,
+die diese Gebote bewahren und in ihnen wandeln\.“
 
 ## Bibelverweise
 

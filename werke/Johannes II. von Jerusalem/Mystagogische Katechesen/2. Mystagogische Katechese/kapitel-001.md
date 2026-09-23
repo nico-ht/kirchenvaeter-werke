@@ -7,6 +7,13 @@ Autor: Johannes II\. von Jerusalem
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/johannes-ii-von-jerusalem/2-mystagogische-katechese#kapitel-2bb44d63-9139-476b-070a-08def3162faa).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:04878b7ada5bab0ac039e250d58457563e74ed16069a24c24eec8fae77d33534`
-
-Nützlich für euch sind die täglichen mystagogischen Unterweisungen und die neueren Lehren, die Verkünderinnen neuerer Dinge sind, besonders aber für euch, die ihr aus dem Altsein in die Neuheit erneuert worden seid\. Darum werde ich euch notwendigerweise das vorlegen, was an die gestrige mystagogische Unterweisung anschließt, damit ihr lernt, wofür die Dinge, die von euch im inneren Raum vollzogen wurden, Symbole waren\.
+Nützlich für euch sind die täglichen mystagogischen Unterweisungen und die neueren Lehren,
+die Verkünderinnen neuerer Dinge sind,
+besonders aber für euch,
+die ihr aus dem Altsein in die Neuheit erneuert worden seid\.
+Darum werde ich euch notwendigerweise das vorlegen,
+was an die gestrige mystagogische Unterweisung anschließt,
+damit ihr lernt,
+wofür die Dinge,
+die von euch im inneren Raum vollzogen wurden,
+Symbole waren\.

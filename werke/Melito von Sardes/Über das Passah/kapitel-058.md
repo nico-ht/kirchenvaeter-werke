@@ -7,8 +7,6 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-f38e410d-359d-43b0-76a8-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ed88284057dc286ffcc312e37e6cf579e0be036f9257e985663bccc5f858d5e7`
-
 So wird das Mysterium des Herrn,
 das von alters her durch die Vision eines Bilds vorausgezeichnet wurde,
 heute erfüllt und hat Glauben gefunden,

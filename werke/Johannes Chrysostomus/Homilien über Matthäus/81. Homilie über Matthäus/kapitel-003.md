@@ -7,9 +7,174 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/81-homilie-ueber-matthaeus#kapitel-2b6d6a0c-493d-43fb-5bb2-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a41df9db423dddab83c51beb556264f3ac8130b3491095e6c0485a71093d734a`
-
-O diese Verblendung\! Wohin hat sie ihn geführt? So ist nämlich die Geldgier: Sie macht Menschen dumm und unverständig, frech und zu Hunden statt zu Menschen, ja schlimmer noch als Hunde, aus Hunden Dämonen\. Dieser Mann nahm den Teufel auf, obwohl der ihm nachstellte, und verriet Jesus, obwohl er ihm Gutes tat; durch seinen eigenen Willen war er schon zum Teufel geworden\. Denn zu solchen Menschen macht die unersättliche Begierde nach Geld: außer sich, wahnsinnig, ganz auf Gewinn aus, wie auch Judas es wurde\. Wie aber kommt es, dass Matthäus und die anderen sagen, der Teufel habe ihn in seine Gewalt gebracht, als er die Absprache über den Verrat traf, Johannes dagegen: „Nach dem Bissen fuhr der Satan in ihn\.[^bible-14211da6-3e73-4edd-ab00-45348a998d1e]“? Auch Johannes weiß das\. Denn schon vorher sagt er: „Als das Mahl stattfand und der Teufel es Judas schon ins Herz gelegt hatte, ihn zu verraten\.[^bible-9983f406-06c5-4576-8c91-e7fa0d60216f]“ Wie sagt er also: „Nach dem Bissen fuhr der Satan in ihn\.[^bible-14211da6-3e73-4edd-ab00-45348a998d1e]“? Weil er nicht auf einmal hineinfährt, nicht in einem einzigen Augenblick, sondern zuerst viele Versuche macht\. Genau das geschah auch hier\. Denn nachdem er ihn am Anfang geprüft und ihn behutsam angegriffen hatte, sah er, dass er für die Aufnahme geeignet war; da hauchte er sich schließlich ganz in ihn hinein und gewann vollständig die Oberhand über ihn\. Wie aber konnten sie, wenn sie das Passah aßen, es gesetzwidrig essen? Denn sie hätten es nicht zu Tisch liegend essen dürfen\. Was ist also zu sagen? Nach dem Essen lagen sie dann beim Mahl zu Tisch\. Ein anderer Evangelist aber sagt, dass er an jenem Abend nicht nur das Passah aß, sondern auch sagte: „Mit Sehnsucht habe ich danach verlangt, dieses Passah mit euch zu essen\.[^bible-f11cf626-9100-4ef6-bb7e-8d35bf6f4eae]“ Das heißt: in diesem Jahr\. Warum denn? Weil damals das Heil der Welt geschehen sollte, die Mysterien übergeben und die Leiden durch den Tod gelöst werden sollten; so sehr entsprach das Kreuz seinem Willen\. Doch nichts machte das wilde Tier weich, nichts beugte es, nichts beschämte es\. Er rief Wehe über ihn, indem er sagte: „Wehe jenem Menschen\.[^bible-ce7d8dbc-8fcb-4199-9e9c-c86535a02eac]“ Er versetzte ihn wieder in Furcht, indem er sagte: „Es wäre gut für ihn, wenn er nicht geboren wäre\.[^bible-ce7d8dbc-8fcb-4199-9e9c-c86535a02eac]“ Er beschämte ihn, indem er sagte: „Dem ich den Bissen eintauche und gebe\.[^bible-1943e0e1-5f88-4b64-af80-402a2876a2bf]“ Doch nichts davon hielt ihn zurück\. Vielmehr wurde er wie von einem Wahnsinn der Geldgier gepackt, oder besser: von einer noch schlimmeren Krankheit\. Denn dieser Wahnsinn ist schlimmer\. Was hätte denn ein Wahnsinniger dergleichen getan? Dieser stieß keinen Schaum aus dem Mund aus, sondern den Mord am Herrn\. Er verkrampfte nicht die Hände, sondern streckte sie aus zum Kauf des kostbaren Blutes\. Darum war sein Wahnsinn größer: Er raste, obwohl er bei gesundem Verstand war\. Aber stößt er denn keine unverständlichen Laute aus? Und was ist unverständlicher als diese Worte: „Was wollt ihr mir geben, und ich werde ihn euch ausliefern?[^bible-bb32dcf4-fb60-42b5-b926-cdc3d98e27e7]“ „Ich werde ihn ausliefern“: Der Teufel tönte durch jenen Mund\. Aber schlug er denn nicht mit den Füßen auf die Erde und zuckte? Wie viel besser wäre es gewesen, so zu zucken, als so aufrecht dazustehen\! Aber zerschnitt er sich denn nicht mit Steinen? Wie viel besser wäre das gewesen, als solche Dinge zu tun\! Wollt ihr, dass wir die Besessenen und die Geldgierigen vorführen und beide miteinander vergleichen? Doch niemand soll das als persönliche Beschimpfung ansehen\. Denn wir beschimpfen nicht die Natur, sondern tadeln die Sache\. Der Besessene trug nie Kleider, während er sich mit Steinen verwundete, und lief auf unwegsamen, rauen Pfaden umher, mit Gewalt von dem Dämon getrieben\. Scheint euch das nicht furchtbar? Was nun, wenn ich zeige, dass die Geldgierigen an ihrer eigenen Seele Schlimmeres tun als dies, so viel Schlimmeres, dass jenes im Vergleich dazu als Kinderspiel gelten muss? Werdet ihr dann von der Krankheit ablassen? Komm also, sehen wir, ob sie sich irgendwie erträglicher verhalten\. Keineswegs, sondern sogar schlimmer\. Denn sie sind schändlicher als unzählige Nackte\. Es ist nämlich viel besser, ohne Kleider nackt zu sein, als mit dem bekleidet umherzugehen, was aus Habsucht stammt, wie die Rasenden im Dienst des Dionysos\. Wie nämlich jene Masken und Kleider von Rasenden tragen, so auch diese\. Und wie der Wahnsinn die Besessenen entblößt, so schafft der Wahnsinn auch diese Bekleidung; und diese Bekleidung ist erbärmlicher als die Entblößung\. Das will ich von hier aus zu zeigen versuchen\. Wen unter den Wahnsinnigen selbst würden wir denn eher wahnsinnig nennen: den, der sich selbst zerschneidet, oder den, der zusammen mit sich selbst auch alle zerschneidet, die ihm begegnen? Offenkundig diesen\. Jene also entblößten sich selbst, diese aber alle, die ihnen begegnen\. Aber jene zerreißen die Kleider\. Und wie viel lieber hätte jeder der Geschädigten es hingenommen, dass ihm ein Kleid zerrissen wird, als dass er seiner ganzen Habe entkleidet wird? Aber sie versetzen keine Schläge ins Gesicht\. Gewiss tun auch das die Habgierigen; wenn auch nicht alle, so fügen sie doch alle dem Bauch durch Hunger und Armut noch schlimmere Schmerzen zu\. Aber sie beißen nicht mit den Zähnen\. Wenn sie doch mit Zähnen bissen und nicht mit den Geschossen der Habsucht, die schlimmer sind als Zähne\! Denn ihre Zähne sind Waffen und Geschosse\. Wer wird denn mehr leiden: der, der einmal gebissen und sogleich behandelt wurde, oder der, der fortwährend von den Zähnen der Armut zerfressen wird? Denn unfreiwillige Armut ist schlimmer als Ofen und wildes Tier\. Aber sie suchen nicht die Wüsten auf wie die Besessenen\. Wenn sie doch die Wüsten durchstreiften und nicht die Städte\! Dann hätten alle in den Städten Sicherheit genossen\. Nun aber sind sie auch darin unerträglicher als all jene: Sie tun in den Städten, was jene in den Wüsten tun, machen die Städte zu Wüsten und rauben allen alles, als wäre dort eine Wüste und niemand da, der sie hindert\. Aber sie werfen nicht mit Steinen auf die, die ihnen begegnen\. Und was besagt das? Vor Steinen kann man sich leicht schützen\. Doch wer von denen, die ihnen in die Hände fallen, könnte sich je leicht vor den Wunden schützen, die sie den elenden Armen mit Papier und Tinte schlagen, indem sie Schriftstücke aufsetzen, voll von unzähligen Schlägen?
+O diese Verblendung\!
+Wohin hat sie ihn geführt?
+So ist nämlich die Geldgier:
+Sie macht Menschen dumm und unverständig,
+frech und zu Hunden statt zu Menschen,
+ja schlimmer noch als Hunde,
+aus Hunden Dämonen\.
+Dieser Mann nahm den Teufel auf,
+obwohl der ihm nachstellte,
+und verriet Jesus,
+obwohl er ihm Gutes tat;
+durch seinen eigenen Willen war er schon zum Teufel geworden\.
+Denn zu solchen Menschen macht die unersättliche Begierde nach Geld:
+außer sich,
+wahnsinnig,
+ganz auf Gewinn aus,
+wie auch Judas es wurde\.
+Wie aber kommt es,
+dass Matthäus und die anderen sagen,
+der Teufel habe ihn in seine Gewalt gebracht,
+als er die Absprache über den Verrat traf,
+Johannes dagegen:
+„Nach dem Bissen fuhr der Satan in ihn\.[^bible-14211da6-3e73-4edd-ab00-45348a998d1e]“?
+Auch Johannes weiß das\.
+Denn schon vorher sagt er:
+„Als das Mahl stattfand und der Teufel es Judas schon ins Herz gelegt hatte,
+ihn zu verraten\.[^bible-9983f406-06c5-4576-8c91-e7fa0d60216f]“ Wie sagt er also:
+„Nach dem Bissen fuhr der Satan in ihn\.[^bible-14211da6-3e73-4edd-ab00-45348a998d1e]“?
+Weil er nicht auf einmal hineinfährt,
+nicht in einem einzigen Augenblick,
+sondern zuerst viele Versuche macht\.
+Genau das geschah auch hier\.
+Denn nachdem er ihn am Anfang geprüft und ihn behutsam angegriffen hatte,
+sah er,
+dass er für die Aufnahme geeignet war;
+da hauchte er sich schließlich ganz in ihn hinein und gewann vollständig die Oberhand über ihn\.
+Wie aber konnten sie,
+wenn sie das Passah aßen,
+es gesetzwidrig essen?
+Denn sie hätten es nicht zu Tisch liegend essen dürfen\.
+Was ist also zu sagen?
+Nach dem Essen lagen sie dann beim Mahl zu Tisch\.
+Ein anderer Evangelist aber sagt,
+dass er an jenem Abend nicht nur das Passah aß,
+sondern auch sagte:
+„Mit Sehnsucht habe ich danach verlangt,
+dieses Passah mit euch zu essen\.[^bible-f11cf626-9100-4ef6-bb7e-8d35bf6f4eae]“ Das heißt:
+in diesem Jahr\.
+Warum denn?
+Weil damals das Heil der Welt geschehen sollte,
+die Mysterien übergeben und die Leiden durch den Tod gelöst werden sollten;
+so sehr entsprach das Kreuz seinem Willen\.
+Doch nichts machte das wilde Tier weich,
+nichts beugte es,
+nichts beschämte es\.
+Er rief Wehe über ihn,
+indem er sagte:
+„Wehe jenem Menschen\.[^bible-ce7d8dbc-8fcb-4199-9e9c-c86535a02eac]“ Er versetzte ihn wieder in Furcht,
+indem er sagte:
+„Es wäre gut für ihn,
+wenn er nicht geboren wäre\.[^bible-ce7d8dbc-8fcb-4199-9e9c-c86535a02eac]“ Er beschämte ihn,
+indem er sagte:
+„Dem ich den Bissen eintauche und gebe\.[^bible-1943e0e1-5f88-4b64-af80-402a2876a2bf]“ Doch nichts davon hielt ihn zurück\.
+Vielmehr wurde er wie von einem Wahnsinn der Geldgier gepackt,
+oder besser:
+von einer noch schlimmeren Krankheit\.
+Denn dieser Wahnsinn ist schlimmer\.
+Was hätte denn ein Wahnsinniger dergleichen getan?
+Dieser stieß keinen Schaum aus dem Mund aus,
+sondern den Mord am Herrn\.
+Er verkrampfte nicht die Hände,
+sondern streckte sie aus zum Kauf des kostbaren Blutes\.
+Darum war sein Wahnsinn größer:
+Er raste,
+obwohl er bei gesundem Verstand war\.
+Aber stößt er denn keine unverständlichen Laute aus?
+Und was ist unverständlicher als diese Worte:
+„Was wollt ihr mir geben,
+und ich werde ihn euch ausliefern?[^bible-bb32dcf4-fb60-42b5-b926-cdc3d98e27e7]“ „Ich werde ihn ausliefern“:
+Der Teufel tönte durch jenen Mund\.
+Aber schlug er denn nicht mit den Füßen auf die Erde und zuckte?
+Wie viel besser wäre es gewesen,
+so zu zucken,
+als so aufrecht dazustehen\!
+Aber zerschnitt er sich denn nicht mit Steinen?
+Wie viel besser wäre das gewesen,
+als solche Dinge zu tun\!
+Wollt ihr,
+dass wir die Besessenen und die Geldgierigen vorführen und beide miteinander vergleichen?
+Doch niemand soll das als persönliche Beschimpfung ansehen\.
+Denn wir beschimpfen nicht die Natur,
+sondern tadeln die Sache\.
+Der Besessene trug nie Kleider,
+während er sich mit Steinen verwundete,
+und lief auf unwegsamen,
+rauen Pfaden umher,
+mit Gewalt von dem Dämon getrieben\.
+Scheint euch das nicht furchtbar?
+Was nun,
+wenn ich zeige,
+dass die Geldgierigen an ihrer eigenen Seele Schlimmeres tun als dies,
+so viel Schlimmeres,
+dass jenes im Vergleich dazu als Kinderspiel gelten muss?
+Werdet ihr dann von der Krankheit ablassen?
+Komm also,
+sehen wir,
+ob sie sich irgendwie erträglicher verhalten\.
+Keineswegs,
+sondern sogar schlimmer\.
+Denn sie sind schändlicher als unzählige Nackte\.
+Es ist nämlich viel besser,
+ohne Kleider nackt zu sein,
+als mit dem bekleidet umherzugehen,
+was aus Habsucht stammt,
+wie die Rasenden im Dienst des Dionysos\.
+Wie nämlich jene Masken und Kleider von Rasenden tragen,
+so auch diese\.
+Und wie der Wahnsinn die Besessenen entblößt,
+so schafft der Wahnsinn auch diese Bekleidung;
+und diese Bekleidung ist erbärmlicher als die Entblößung\.
+Das will ich von hier aus zu zeigen versuchen\.
+Wen unter den Wahnsinnigen selbst würden wir denn eher wahnsinnig nennen:
+den,
+der sich selbst zerschneidet,
+oder den,
+der zusammen mit sich selbst auch alle zerschneidet,
+die ihm begegnen?
+Offenkundig diesen\.
+Jene also entblößten sich selbst,
+diese aber alle,
+die ihnen begegnen\.
+Aber jene zerreißen die Kleider\.
+Und wie viel lieber hätte jeder der Geschädigten es hingenommen,
+dass ihm ein Kleid zerrissen wird,
+als dass er seiner ganzen Habe entkleidet wird?
+Aber sie versetzen keine Schläge ins Gesicht\.
+Gewiss tun auch das die Habgierigen;
+wenn auch nicht alle,
+so fügen sie doch alle dem Bauch durch Hunger und Armut noch schlimmere Schmerzen zu\.
+Aber sie beißen nicht mit den Zähnen\.
+Wenn sie doch mit Zähnen bissen und nicht mit den Geschossen der Habsucht,
+die schlimmer sind als Zähne\!
+Denn ihre Zähne sind Waffen und Geschosse\.
+Wer wird denn mehr leiden:
+der,
+der einmal gebissen und sogleich behandelt wurde,
+oder der,
+der fortwährend von den Zähnen der Armut zerfressen wird?
+Denn unfreiwillige Armut ist schlimmer als Ofen und wildes Tier\.
+Aber sie suchen nicht die Wüsten auf wie die Besessenen\.
+Wenn sie doch die Wüsten durchstreiften und nicht die Städte\!
+Dann hätten alle in den Städten Sicherheit genossen\.
+Nun aber sind sie auch darin unerträglicher als all jene:
+Sie tun in den Städten,
+was jene in den Wüsten tun,
+machen die Städte zu Wüsten und rauben allen alles,
+als wäre dort eine Wüste und niemand da,
+der sie hindert\.
+Aber sie werfen nicht mit Steinen auf die,
+die ihnen begegnen\.
+Und was besagt das?
+Vor Steinen kann man sich leicht schützen\.
+Doch wer von denen,
+die ihnen in die Hände fallen,
+könnte sich je leicht vor den Wunden schützen,
+die sie den elenden Armen mit Papier und Tinte schlagen,
+indem sie Schriftstücke aufsetzen,
+voll von unzähligen Schlägen?
 
 ## Bibelverweise
 

@@ -7,8 +7,91 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-4#kapitel-bcf55bb8-f4f1-459a-276e-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7f1818347d3ca650a346aa12833f0da01efa00fc58912867dd7c6655931e3ef5`
+So wurden sowohl diese Orte als auch alles bis nach Maecheruntis zurückgewonnen\.
+Vespasian aber wartete auf den Zeitpunkt der Schlacht,
+in der die Hauptstadt des ganzen Judäa angegriffen werden sollte\.
+Während er mitten darin mit den ihm anvertrauten Aufgaben beschäftigt war,
+erreichte ihn die Nachricht von einem Aufstand in den Gebieten Galliens:
+Einige mächtige Männer des römischen Militärdienstes seien von Nero abgefallen\.
+Als dies bekannt geworden war,
+wollte er die inneren Kriege und die Gefahr für die Belange des ganzen Römischen Reiches mindern\.
+Nachdem die Wirren der Kriege im Osten eingedämmt waren und ihn Nachrichten über weitere Ereignisse beunruhigten,
+brach er,
+um ganz Italien in Schranken zu halten oder zu sichern,
+sobald die Härte des Winters mit Beginn des Frühlings nachgelassen hatte,
+mit dem größeren Teil des Heeres von Caesarea auf\.
+Die Stadt,
+die nach Antipater benannt ist,
+nahm ihn auf\.
+Von dort zog er weiter,
+brannte Dörfer nieder,
+tötete die,
+die er als feindlich vorfand,
+und verwüstete besonders alles,
+worauf er in der Nachbarschaft der Idumäer stieß,
+weil ein unruhiges Menschengeschlecht eher Freund von Kriegen als von Frieden und Ruhe sein würde\.
+Auch zwei Dörfer Idumäas,
+Legarim und Caphartoris,
+nahm er ein und stürzte ihre Bewohner in ein großes Blutbad\.
+Nachdem mehr als zehntausend Menschen getötet worden waren,
+führte er tatsächlich tausend Gefangene weg und vertrieb die übrige Bevölkerung,
+um dort eine eigene Truppe zu stationieren,
+weil die Berggegenden dieses Gebiets durch Räuberunwesen beunruhigt wurden\.
+Er selbst rückte mit dem Heer abermals gegen Amathun vor,
+das seinen Namen von den heißen Wassern erhält,
+weil der Dampf der Wasser,
+wie man sagt,
+in der Sprache Syriens Amathus genannt wird\.
+Deshalb heißt es auf Griechisch Thermae,
+weil es innerhalb seiner Mauern heiße Quellen hat\.
+Darauf eilte er durch Samaria nahe bei Neapolis nach Jericho,
+wo Trajan ihm entgegenging;
+er hatte eine große Schar von denen,
+die jenseits des Jordan in Perea ansässig waren,
+vor sich hergetrieben und die Völker des Gebiets besiegt,
+die wieder unter römische Herrschaft gekommen waren\.
 
-So wurden sowohl diese Orte als auch alles bis nach Maecheruntis zurückgewonnen\. Vespasian aber wartete auf den Zeitpunkt der Schlacht, in der die Hauptstadt des ganzen Judäa angegriffen werden sollte\. Während er mitten darin mit den ihm anvertrauten Aufgaben beschäftigt war, erreichte ihn die Nachricht von einem Aufstand in den Gebieten Galliens: Einige mächtige Männer des römischen Militärdienstes seien von Nero abgefallen\. Als dies bekannt geworden war, wollte er die inneren Kriege und die Gefahr für die Belange des ganzen Römischen Reiches mindern\. Nachdem die Wirren der Kriege im Osten eingedämmt waren und ihn Nachrichten über weitere Ereignisse beunruhigten, brach er, um ganz Italien in Schranken zu halten oder zu sichern, sobald die Härte des Winters mit Beginn des Frühlings nachgelassen hatte, mit dem größeren Teil des Heeres von Caesarea auf\. Die Stadt, die nach Antipater benannt ist, nahm ihn auf\. Von dort zog er weiter, brannte Dörfer nieder, tötete die, die er als feindlich vorfand, und verwüstete besonders alles, worauf er in der Nachbarschaft der Idumäer stieß, weil ein unruhiges Menschengeschlecht eher Freund von Kriegen als von Frieden und Ruhe sein würde\. Auch zwei Dörfer Idumäas, Legarim und Caphartoris, nahm er ein und stürzte ihre Bewohner in ein großes Blutbad\. Nachdem mehr als zehntausend Menschen getötet worden waren, führte er tatsächlich tausend Gefangene weg und vertrieb die übrige Bevölkerung, um dort eine eigene Truppe zu stationieren, weil die Berggegenden dieses Gebiets durch Räuberunwesen beunruhigt wurden\. Er selbst rückte mit dem Heer abermals gegen Amathun vor, das seinen Namen von den heißen Wassern erhält, weil der Dampf der Wasser, wie man sagt, in der Sprache Syriens Amathus genannt wird\. Deshalb heißt es auf Griechisch Thermae, weil es innerhalb seiner Mauern heiße Quellen hat\. Darauf eilte er durch Samaria nahe bei Neapolis nach Jericho, wo Trajan ihm entgegenging; er hatte eine große Schar von denen, die jenseits des Jordan in Perea ansässig waren, vor sich hergetrieben und die Völker des Gebiets besiegt, die wieder unter römische Herrschaft gekommen waren\.
-
-Als sich also die Nachricht vom Heranrücken des römischen Heeres verbreitete, zogen sich die meisten aus der Stadt Jericho, weil sie die Stadt für unsicher hielten, in die Berge der Gegend von Jerusalem zurück\. Die ganze Menge der Zurückgebliebenen wurde vernichtet\. Denn es war nicht schwer, die Stadt rasch einzunehmen, da sie durch keine natürlichen Befestigungen geschützt und von ihren sich zerstreuenden Bewohnern verlassen und preisgegeben worden war\. Die Stadt lag in einer Ebene, über die ein breiter, kahler Berg hinausragte\. Er erstreckte sich nämlich nach Norden bis in das Gebiet der Stadt Scythopolis und galt vom Süden her als ausgedehnt bis zur Gegend von Sodomitana und zu den Grenzen des Asphaltius\. Im Übrigen war der Boden krank und unfruchtbar und darum von Bewohnern verlassen, weil er wegen seiner natürlichen Unfruchtbarkeit den Bauern keinen Nutzen brachte\. Diesem gegenüber liegt oberhalb des Jordan ein Berg, dessen Anfang bei Iuliade und den nördlichen Gegenden anhebt\. Er zieht sich nach Süden bis zum arabischen Sebarus, das an Petra grenzt; dort wird der Berg nach dem Brauch der Alten Ferreus genannt\. Zwischen diesen beiden Bergen liegt eine Ebene, die die Bewohner nach altem Brauch wegen ihrer Größe, da sie sich über einen weiten Raum erstreckt, Magnus nannten\. Ihre Länge beträgt zweihundertdreißig Stadien, ihre Breite einhundertzwanzig; ihr Anfang liegt beim Dorf Genuabaris, ihr Ende reicht bis zum Toten Meer\. Der Jordan durchschneidet sie mitten in der Ebene; er ist nicht nur unschädlich, sondern wegen der grünen Ufer auch dankbar aufgenommen, durch die Überschwemmung des Flusses und durch die anschließenden Seen Asphaltio und Tiberiadis aus einer einzigen Quelle, wobei jeder See eine eigene Beschaffenheit hat\. Denn das Wasser des einen ist im Geschmack salzig und im Gebrauch unergiebig, das der Tiberiadis süß und fruchtbar\. In den Sommertagen aber steigt über die ganze Ebene eine übermäßige Ausdünstung siedend auf; daher bringt die schlechte Luft, infolge des zunehmenden Übels übergroßer Trockenheit und des ausgedörrten Bodens, den Bewohnern beklagenswerte Krankheiten\. Denn alles ist trocken, außer den Rändern des Flusses\. Schließlich wird selbst die Frucht der Bäume in größerer Entfernung vom Fluss schlechter; reichlicher ist freilich der Ertrag und üppiger die Frucht der Palmen, die oberhalb der Ufer des Jordan hervorgebracht wird, der andere Ertrag dagegen ist weit kärglicher\.
+Als sich also die Nachricht vom Heranrücken des römischen Heeres verbreitete,
+zogen sich die meisten aus der Stadt Jericho,
+weil sie die Stadt für unsicher hielten,
+in die Berge der Gegend von Jerusalem zurück\.
+Die ganze Menge der Zurückgebliebenen wurde vernichtet\.
+Denn es war nicht schwer,
+die Stadt rasch einzunehmen,
+da sie durch keine natürlichen Befestigungen geschützt und von ihren sich zerstreuenden Bewohnern verlassen und preisgegeben worden war\.
+Die Stadt lag in einer Ebene,
+über die ein breiter,
+kahler Berg hinausragte\.
+Er erstreckte sich nämlich nach Norden bis in das Gebiet der Stadt Scythopolis und galt vom Süden her als ausgedehnt bis zur Gegend von Sodomitana und zu den Grenzen des Asphaltius\.
+Im Übrigen war der Boden krank und unfruchtbar und darum von Bewohnern verlassen,
+weil er wegen seiner natürlichen Unfruchtbarkeit den Bauern keinen Nutzen brachte\.
+Diesem gegenüber liegt oberhalb des Jordan ein Berg,
+dessen Anfang bei Iuliade und den nördlichen Gegenden anhebt\.
+Er zieht sich nach Süden bis zum arabischen Sebarus,
+das an Petra grenzt;
+dort wird der Berg nach dem Brauch der Alten Ferreus genannt\.
+Zwischen diesen beiden Bergen liegt eine Ebene,
+die die Bewohner nach altem Brauch wegen ihrer Größe,
+da sie sich über einen weiten Raum erstreckt,
+Magnus nannten\.
+Ihre Länge beträgt zweihundertdreißig Stadien,
+ihre Breite einhundertzwanzig;
+ihr Anfang liegt beim Dorf Genuabaris,
+ihr Ende reicht bis zum Toten Meer\.
+Der Jordan durchschneidet sie mitten in der Ebene;
+er ist nicht nur unschädlich,
+sondern wegen der grünen Ufer auch dankbar aufgenommen,
+durch die Überschwemmung des Flusses und durch die anschließenden Seen Asphaltio und Tiberiadis aus einer einzigen Quelle,
+wobei jeder See eine eigene Beschaffenheit hat\.
+Denn das Wasser des einen ist im Geschmack salzig und im Gebrauch unergiebig,
+das der Tiberiadis süß und fruchtbar\.
+In den Sommertagen aber steigt über die ganze Ebene eine übermäßige Ausdünstung siedend auf;
+daher bringt die schlechte Luft,
+infolge des zunehmenden Übels übergroßer Trockenheit und des ausgedörrten Bodens,
+den Bewohnern beklagenswerte Krankheiten\.
+Denn alles ist trocken,
+außer den Rändern des Flusses\.
+Schließlich wird selbst die Frucht der Bäume in größerer Entfernung vom Fluss schlechter;
+reichlicher ist freilich der Ertrag und üppiger die Frucht der Palmen,
+die oberhalb der Ufer des Jordan hervorgebracht wird,
+der andere Ertrag dagegen ist weit kärglicher\.

@@ -7,9 +7,45 @@ Autor: Mathetes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/mathetes/der-brief-des-mathetes-an-diognet#kapitel-bd64c926-a44e-4c81-cdf2-08dd2dcad1fa).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b1bde660e7cd8c876a52abd490f93f4211e92c79090b62e3d2ee348d72e0ecd9`
-
-Kurz gesagt: Was die Seele im Körper ist, das sind die Christen in der Welt\. Die Seele ist über alle Glieder des Körpers hin verstreut, und die Christen sind über die Städte der Welt verstreut\. Die Seele wohnt zwar im Körper, ist aber nicht aus dem Körper; und die Christen wohnen in der Welt, sind aber nicht aus der Welt[^bible-2b8a40a0-4b9f-471f-9e5a-fb0a2fc05f08]\. Unsichtbar wird die Seele in dem sichtbaren Körper bewacht; und auch von den Christen weiß man zwar, dass sie in der Welt sind, doch ihre Gottesfurcht bleibt unsichtbar\. Das Fleisch hasst die Seele und bekämpft sie, obwohl ihm kein Unrecht geschieht, weil es daran gehindert wird, die Lüste auszuleben; so hasst auch die Welt die Christen, obwohl ihr kein Unrecht geschieht, weil sie den Lüsten entgegentreten\. Die Seele liebt das Fleisch, das sie hasst, und seine Glieder; und die Christen lieben die, die sie hassen\. Die Seele ist zwar in den Körper eingeschlossen, hält aber selbst den Körper zusammen; und die Christen werden zwar wie in Gewahrsam in der Welt festgehalten, doch sie selbst halten die Welt zusammen\. Unsterblich wohnt die Seele in einem sterblichen Zelt; und die Christen leben als Fremdlinge im Vergänglichen und erwarten die Unvergänglichkeit in den Himmeln\. Wird die Seele mit Speisen und Getränken misshandelt, so wird sie besser; und die Christen nehmen, wenn sie Tag für Tag bestraft werden, nur noch mehr zu\. In eine so hohe Ordnung hat Gott sie gestellt, dass es ihnen nicht erlaubt ist, sich ihr zu entziehen\.
+Kurz gesagt:
+Was die Seele im Körper ist,
+das sind die Christen in der Welt\.
+Die Seele ist über alle Glieder des Körpers hin verstreut,
+und die Christen sind über die Städte der Welt verstreut\.
+Die Seele wohnt zwar im Körper,
+ist aber nicht aus dem Körper;
+und die Christen wohnen in der Welt,
+sind aber nicht aus der Welt[^bible-2b8a40a0-4b9f-471f-9e5a-fb0a2fc05f08]\.
+Unsichtbar wird die Seele in dem sichtbaren Körper bewacht;
+und auch von den Christen weiß man zwar,
+dass sie in der Welt sind,
+doch ihre Gottesfurcht bleibt unsichtbar\.
+Das Fleisch hasst die Seele und bekämpft sie,
+obwohl ihm kein Unrecht geschieht,
+weil es daran gehindert wird,
+die Lüste auszuleben;
+so hasst auch die Welt die Christen,
+obwohl ihr kein Unrecht geschieht,
+weil sie den Lüsten entgegentreten\.
+Die Seele liebt das Fleisch,
+das sie hasst,
+und seine Glieder;
+und die Christen lieben die,
+die sie hassen\.
+Die Seele ist zwar in den Körper eingeschlossen,
+hält aber selbst den Körper zusammen;
+und die Christen werden zwar wie in Gewahrsam in der Welt festgehalten,
+doch sie selbst halten die Welt zusammen\.
+Unsterblich wohnt die Seele in einem sterblichen Zelt;
+und die Christen leben als Fremdlinge im Vergänglichen und erwarten die Unvergänglichkeit in den Himmeln\.
+Wird die Seele mit Speisen und Getränken misshandelt,
+so wird sie besser;
+und die Christen nehmen,
+wenn sie Tag für Tag bestraft werden,
+nur noch mehr zu\.
+In eine so hohe Ordnung hat Gott sie gestellt,
+dass es ihnen nicht erlaubt ist,
+sich ihr zu entziehen\.
 
 ## Bibelverweise
 

@@ -7,9 +7,73 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-2#kapitel-2308069b-9e08-448a-9c50-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d96085e30df4cada5f866c0cf45aa028c1d8404a45db49adeea2d21c790f2232`
-
-Was bedeutet der Ausdruck: „Die Taube kehrte gegen Abend ein zweites Mal zu ihm zurück und hatte in ihrem Mund ein Blatt und einen dünnen Zweig vom Ölbaum[^bible-15fb460b-7452-4f6b-809b-d23b661ef79a]“? Alle diese Einzelzüge sind ausgewählte und bewährte Zeichen: die Rückkehr, die Rückkehr gegen Abend, das Tragen eines Ölbaumblattes und eines dünnen Zweiges von diesem Baum, ferner des Öls, und dass sie es in ihrem Mund trägt\. Doch jedes dieser Zeichen lässt sich mit einer Gewissheit über alle Gewissheit hinaus betrachten\. Denn diese Rückkehr unterscheidet sich von der früheren Rückkehr: Jene brachte die Ankündigung mit sich, dass die Natur ganz verdorben und widerspenstig war und durch die Flut völlig vernichtet wurde, das heißt durch große Unwissenheit und Frechheit\. Diese zweite Rückkehr aber bringt die Botschaft von einer Welt, die anfängt, Buße zu tun\. Doch zur Buße zu finden ist keine leichte Aufgabe, sondern ein schwieriges und mühevolles Werk\. Darum kam die Taube am Abend, nachdem sie den ganzen Tag, vom Morgen bis zum Abend, mit ihren Besuchen verbracht hatte: dem Wort nach zwar, indem sie Orte untersuchte, der Sache nach aber, indem sie durch beständige Besuche die verschiedenen Teile der Natur selbst erforschte und sie alle von Anfang bis Ende klar sah; denn der Abend ist das Zeichen des Endes\. Das dritte Zeichen wiederum ist, dass sie ein Blatt bringt\. Ein Blatt aber ist nur ein kleiner Teil eines Baumes, besteht jedoch nicht ohne Baum\. Dem entspricht in gewisser Weise der Anfang, Buße zu zeigen; denn am Anfang der Besserung zeigen sich nur geringe Anzeichen, die wir ein Blatt nennen können: durch sie scheint die Besserung Schutz zu empfangen, kann aber leicht abgeschüttelt werden\. So ist in diesem Fall die Hoffnung nicht groß, die ersehnte Verbesserung zu erreichen, die durch das Blatt keines anderen Baumes, sondern allein des Ölbaums bezeichnet wird; und Öl ist der Stoff des Lichts\. Denn die Schlechtigkeit ist, wie ich schon früher gesagt habe, tiefe Finsternis, die Tugend aber lichtvoller Glanz, und die Buße ist der Anfang des Lichts\. Doch sollst du noch nicht meinen, der Anfang der Buße sei nur an Zweigen sichtbar, die eben treiben und grün zu werden beginnen; vielmehr besteht er auch dann, wenn sie noch trocken sind und der samenhafte Grund trocken und ruhend ist\. Darum wird als fünftes Zeichen gezeigt, dass die Taube, wenn sie kommt, einen schlanken Zweig trägt\. Das sechste Zeichen aber ist, dass dieser schlanke Zweig in ihrem Mund war\. Denn die Zahl sechs ist die erste vollkommene Zahl, weil die Tugend in ihrem Mund, das heißt in ihrem Gespräch, die Samen der Weisheit und der Gerechtigkeit trägt, oder mit einem Wort: der Rechtschaffenheit der Seele\. Und sie trägt dies nicht nur, sondern gibt sogar den Dummen einen gewissen Anteil daran, indem sie für ihre Seelen Wasser schöpft und sie mit dem Verlangen nach Buße über ihre Sünden bewässert\.
+Was bedeutet der Ausdruck:
+„Die Taube kehrte gegen Abend ein zweites Mal zu ihm zurück und hatte in ihrem Mund ein Blatt und einen dünnen Zweig vom Ölbaum[^bible-15fb460b-7452-4f6b-809b-d23b661ef79a]“?
+Alle diese Einzelzüge sind ausgewählte und bewährte Zeichen:
+die Rückkehr,
+die Rückkehr gegen Abend,
+das Tragen eines Ölbaumblattes und eines dünnen Zweiges von diesem Baum,
+ferner des Öls,
+und dass sie es in ihrem Mund trägt\.
+Doch jedes dieser Zeichen lässt sich mit einer Gewissheit über alle Gewissheit hinaus betrachten\.
+Denn diese Rückkehr unterscheidet sich von der früheren Rückkehr:
+Jene brachte die Ankündigung mit sich,
+dass die Natur ganz verdorben und widerspenstig war und durch die Flut völlig vernichtet wurde,
+das heißt durch große Unwissenheit und Frechheit\.
+Diese zweite Rückkehr aber bringt die Botschaft von einer Welt,
+die anfängt,
+Buße zu tun\.
+Doch zur Buße zu finden ist keine leichte Aufgabe,
+sondern ein schwieriges und mühevolles Werk\.
+Darum kam die Taube am Abend,
+nachdem sie den ganzen Tag,
+vom Morgen bis zum Abend,
+mit ihren Besuchen verbracht hatte:
+dem Wort nach zwar,
+indem sie Orte untersuchte,
+der Sache nach aber,
+indem sie durch beständige Besuche die verschiedenen Teile der Natur selbst erforschte und sie alle von Anfang bis Ende klar sah;
+denn der Abend ist das Zeichen des Endes\.
+Das dritte Zeichen wiederum ist,
+dass sie ein Blatt bringt\.
+Ein Blatt aber ist nur ein kleiner Teil eines Baumes,
+besteht jedoch nicht ohne Baum\.
+Dem entspricht in gewisser Weise der Anfang,
+Buße zu zeigen;
+denn am Anfang der Besserung zeigen sich nur geringe Anzeichen,
+die wir ein Blatt nennen können:
+durch sie scheint die Besserung Schutz zu empfangen,
+kann aber leicht abgeschüttelt werden\.
+So ist in diesem Fall die Hoffnung nicht groß,
+die ersehnte Verbesserung zu erreichen,
+die durch das Blatt keines anderen Baumes,
+sondern allein des Ölbaums bezeichnet wird;
+und Öl ist der Stoff des Lichts\.
+Denn die Schlechtigkeit ist,
+wie ich schon früher gesagt habe,
+tiefe Finsternis,
+die Tugend aber lichtvoller Glanz,
+und die Buße ist der Anfang des Lichts\.
+Doch sollst du noch nicht meinen,
+der Anfang der Buße sei nur an Zweigen sichtbar,
+die eben treiben und grün zu werden beginnen;
+vielmehr besteht er auch dann,
+wenn sie noch trocken sind und der samenhafte Grund trocken und ruhend ist\.
+Darum wird als fünftes Zeichen gezeigt,
+dass die Taube,
+wenn sie kommt,
+einen schlanken Zweig trägt\.
+Das sechste Zeichen aber ist,
+dass dieser schlanke Zweig in ihrem Mund war\.
+Denn die Zahl sechs ist die erste vollkommene Zahl,
+weil die Tugend in ihrem Mund,
+das heißt in ihrem Gespräch,
+die Samen der Weisheit und der Gerechtigkeit trägt,
+oder mit einem Wort:
+der Rechtschaffenheit der Seele\.
+Und sie trägt dies nicht nur,
+sondern gibt sogar den Dummen einen gewissen Anteil daran,
+indem sie für ihre Seelen Wasser schöpft und sie mit dem Verlangen nach Buße über ihre Sünden bewässert\.
 
 ## Bibelverweise
 

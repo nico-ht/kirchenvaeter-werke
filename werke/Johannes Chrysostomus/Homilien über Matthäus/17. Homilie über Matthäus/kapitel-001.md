@@ -7,6 +7,124 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/17-homilie-ueber-matthaeus#kapitel-be50d472-037f-4ac2-5a73-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b488592b220d8d8f0b9eee7afa811fc28942276a734616d1764bb601940d10a1`
-
-Ihr habt gehört, dass zu den Alten gesagt wurde: „Du sollst nicht die Ehe brechen\.“ Ich aber sage euch: Jeder, der eine Frau ansieht, um sie zu begehren, hat in seinem Herzen schon mit ihr die Ehe gebrochen\. Nachdem er also das frühere Gebot zur Vollendung gebracht und bis zum äußersten Maß der Tugendlehre ausgedehnt hat, schreitet er nun auf seinem Weg und in geordneter Folge zum zweiten voran, auch hier dem Gesetz gehorsam\. Doch das ist nicht das zweite, sagt jemand, sondern das dritte\. Denn das erste ist nicht: „Du sollst nicht töten“, sondern: „Der Herr, dein Gott, ist ein einziger Herr\.“ Darum lohnt es sich auch zu fragen, weshalb er nicht damit begonnen hat\. Weshalb also? Weil er, hätte er dort begonnen, auch dieses Gebot hätte ausweiten und sich selbst mit einführen müssen\. Es war aber noch nicht die Zeit, über sich selbst Derartiges zu lehren\. Außerdem übte er einstweilen die sittliche Lehre ein; denn er wollte die Hörer zuerst von hier aus und durch die Wunder überzeugen, dass er der Sohn Gottes war\. Wenn er also sogleich, noch bevor er überhaupt etwas geäußert und getan hatte, gesagt hätte: „Ihr habt gehört, dass zu den Alten gesagt wurde: ‚Ich bin der Herr, dein Gott, und außer mir gibt es keinen anderen‘; ich aber sage euch: ‚Werft euch auch vor mir nieder wie vor ihm‘“, dann hätte er alle dazu gebracht, auf ihn wie auf einen Wahnsinnigen zu achten\. Denn wenn sie ihn sogar nach der Lehre und nach so vielen Zeichen, obwohl er dies noch nicht offen sagte, besessen nannten: Hätte er vor all dem versucht, Derartiges zu sagen, was hätten sie dann nicht gesagt? Was hätten sie dann nicht gedacht? Indem er aber die Lehre darüber für die passende Zeit aufbewahrte, machte er den Lehrsatz für die Menge leicht annehmbar\. Darum überging er ihn jetzt zwar; nachdem er ihn aber überall durch die Zeichen und durch die beste Lehre begründet hatte, enthüllte er ihn später auch mit Worten\. Jetzt jedoch öffnet er ihn durch das Vorweisen der Zeichen und durch die Art der Lehre selbst nach und nach und behutsam\. Denn dass er mit Vollmacht solche Dinge als Gesetz festsetzte und berichtigte, führte den aufmerksamen und verständigen Hörer nach und nach zur Einsicht in den Lehrsatz\. Denn sie staunten über ihn, heißt es, weil er nicht wie ihre Schriftgelehrten lehrte\. Er begann nämlich bei den allgemeinsten Leidenschaften in uns, ich meine Zorn und Begierde, denn gerade sie tyrannisieren uns am stärksten und sind natürlicher als die übrigen; und mit großer Autorität, so groß, wie sie einem Gesetzgeber zukam, berichtigte er sie und ordnete sie mit aller Genauigkeit\. Denn er sagte nicht nur, dass der Ehebrecher bestraft wird, sondern was er beim Mörder getan hatte, das tut er auch hier: Er bestraft auch den zügellosen Blick, damit du erkennst, worin das Mehr gegenüber den Schriftgelehrten liegt\. Darum sagt er: „Wer eine Frau ansieht, um sie zu begehren, hat mit ihr schon die Ehe gebrochen“, das heißt: wer es sich zur Beschäftigung macht, glänzende Körper neugierig zu mustern, schönen Anblicken nachzustellen, die Seele am Anschauen weiden zu lassen und die Augen an schönen Gesichtern festzuheften\. Denn er ist nicht gekommen, nur den Körper von bösen Taten zu befreien, sondern zuvor auch die Seele\. Denn weil wir im Herzen die Gnade des Geistes empfangen, reinigt er sie zuerst\. Und wie ist es möglich, sagt jemand, von Begierde frei zu werden? Vor allem gilt: Wenn wir nur wollen, ist es möglich, auch sie abzutöten und wirkungslos bleiben zu lassen\. Außerdem hebt er hier nicht einfach die Begierde überhaupt auf, sondern die Begierde, die aus dem Sehen entsteht\. Denn wer eifrig darauf aus ist, schöne Anblicke zu sehen, der heizt selbst den Ofen der Leidenschaft am stärksten an, macht die Seele zur Gefangenen und kommt schnell auch zur Tat\. Eben deshalb sagte er nicht: „Wer begehrt, um die Ehe zu brechen“, sondern: „Wer ansieht, um zu begehren\.“ Beim Zorn hat er eine bestimmte Einschränkung gesetzt, indem er sagte: „ohne Grund und vergeblich“; hier aber nicht so, sondern er hat die Begierde ganz und gar aufgehoben\. Und doch sind beide angeboren, und beide liegen nützlich in uns, Zorn und Begierde: der eine, damit wir die Bösen bestrafen und die Unordentlichen zurechtbringen; die andere, damit wir Kinder zeugen und unser Geschlecht durch solche Nachfolgen erhalten bleibt\.
+Ihr habt gehört,
+dass zu den Alten gesagt wurde:
+„Du sollst nicht die Ehe brechen\.“
+Ich aber sage euch:
+Jeder,
+der eine Frau ansieht,
+um sie zu begehren,
+hat in seinem Herzen schon mit ihr die Ehe gebrochen\.
+Nachdem er also das frühere Gebot zur Vollendung gebracht und bis zum äußersten Maß der Tugendlehre ausgedehnt hat,
+schreitet er nun auf seinem Weg und in geordneter Folge zum zweiten voran,
+auch hier dem Gesetz gehorsam\.
+Doch das ist nicht das zweite,
+sagt jemand,
+sondern das dritte\.
+Denn das erste ist nicht:
+„Du sollst nicht töten“,
+sondern:
+„Der Herr,
+dein Gott,
+ist ein einziger Herr\.“
+Darum lohnt es sich auch zu fragen,
+weshalb er nicht damit begonnen hat\.
+Weshalb also?
+Weil er,
+hätte er dort begonnen,
+auch dieses Gebot hätte ausweiten und sich selbst mit einführen müssen\.
+Es war aber noch nicht die Zeit,
+über sich selbst Derartiges zu lehren\.
+Außerdem übte er einstweilen die sittliche Lehre ein;
+denn er wollte die Hörer zuerst von hier aus und durch die Wunder überzeugen,
+dass er der Sohn Gottes war\.
+Wenn er also sogleich,
+noch bevor er überhaupt etwas geäußert und getan hatte,
+gesagt hätte:
+„Ihr habt gehört,
+dass zu den Alten gesagt wurde:
+‚Ich bin der Herr,
+dein Gott,
+und außer mir gibt es keinen anderen‘;
+ich aber sage euch:
+‚Werft euch auch vor mir nieder wie vor ihm‘“,
+dann hätte er alle dazu gebracht,
+auf ihn wie auf einen Wahnsinnigen zu achten\.
+Denn wenn sie ihn sogar nach der Lehre und nach so vielen Zeichen,
+obwohl er dies noch nicht offen sagte,
+besessen nannten:
+Hätte er vor all dem versucht,
+Derartiges zu sagen,
+was hätten sie dann nicht gesagt?
+Was hätten sie dann nicht gedacht?
+Indem er aber die Lehre darüber für die passende Zeit aufbewahrte,
+machte er den Lehrsatz für die Menge leicht annehmbar\.
+Darum überging er ihn jetzt zwar;
+nachdem er ihn aber überall durch die Zeichen und durch die beste Lehre begründet hatte,
+enthüllte er ihn später auch mit Worten\.
+Jetzt jedoch öffnet er ihn durch das Vorweisen der Zeichen und durch die Art der Lehre selbst nach und nach und behutsam\.
+Denn dass er mit Vollmacht solche Dinge als Gesetz festsetzte und berichtigte,
+führte den aufmerksamen und verständigen Hörer nach und nach zur Einsicht in den Lehrsatz\.
+Denn sie staunten über ihn,
+heißt es,
+weil er nicht wie ihre Schriftgelehrten lehrte\.
+Er begann nämlich bei den allgemeinsten Leidenschaften in uns,
+ich meine Zorn und Begierde,
+denn gerade sie tyrannisieren uns am stärksten und sind natürlicher als die übrigen;
+und mit großer Autorität,
+so groß,
+wie sie einem Gesetzgeber zukam,
+berichtigte er sie und ordnete sie mit aller Genauigkeit\.
+Denn er sagte nicht nur,
+dass der Ehebrecher bestraft wird,
+sondern was er beim Mörder getan hatte,
+das tut er auch hier:
+Er bestraft auch den zügellosen Blick,
+damit du erkennst,
+worin das Mehr gegenüber den Schriftgelehrten liegt\.
+Darum sagt er:
+„Wer eine Frau ansieht,
+um sie zu begehren,
+hat mit ihr schon die Ehe gebrochen“,
+das heißt:
+wer es sich zur Beschäftigung macht,
+glänzende Körper neugierig zu mustern,
+schönen Anblicken nachzustellen,
+die Seele am Anschauen weiden zu lassen und die Augen an schönen Gesichtern festzuheften\.
+Denn er ist nicht gekommen,
+nur den Körper von bösen Taten zu befreien,
+sondern zuvor auch die Seele\.
+Denn weil wir im Herzen die Gnade des Geistes empfangen,
+reinigt er sie zuerst\.
+Und wie ist es möglich,
+sagt jemand,
+von Begierde frei zu werden?
+Vor allem gilt:
+Wenn wir nur wollen,
+ist es möglich,
+auch sie abzutöten und wirkungslos bleiben zu lassen\.
+Außerdem hebt er hier nicht einfach die Begierde überhaupt auf,
+sondern die Begierde,
+die aus dem Sehen entsteht\.
+Denn wer eifrig darauf aus ist,
+schöne Anblicke zu sehen,
+der heizt selbst den Ofen der Leidenschaft am stärksten an,
+macht die Seele zur Gefangenen und kommt schnell auch zur Tat\.
+Eben deshalb sagte er nicht:
+„Wer begehrt,
+um die Ehe zu brechen“,
+sondern:
+„Wer ansieht,
+um zu begehren\.“
+Beim Zorn hat er eine bestimmte Einschränkung gesetzt,
+indem er sagte:
+„ohne Grund und vergeblich“;
+hier aber nicht so,
+sondern er hat die Begierde ganz und gar aufgehoben\.
+Und doch sind beide angeboren,
+und beide liegen nützlich in uns,
+Zorn und Begierde:
+der eine,
+damit wir die Bösen bestrafen und die Unordentlichen zurechtbringen;
+die andere,
+damit wir Kinder zeugen und unser Geschlecht durch solche Nachfolgen erhalten bleibt\.

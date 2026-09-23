@@ -7,9 +7,16 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/6-predigt-zu-exodus#kapitel-4eb729bf-e75e-44fa-3b7b-08de2d20f097).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5179db17fd5b778177a859d5a2a75db1f4915e62c38a99b99df463891017c501`
-
-„Du hast in deiner Gerechtigkeit dieses dein Volk geführt, das du befreit hast\. Du hast sie getröstet durch deine Stärke in deiner heiligen Ruhe\.“[^bible-959c5b49-0318-4d9d-84ab-a49183f915b0] Der Herr hat sein Volk „in Gerechtigkeit herausgeführt“, das er „durch das Bad der Wiedergeburt befreit hat\.“[^bible-b325ac86-8a17-4820-831e-dcd2823b8695] Er hat sie auch durch den Trost des Heiligen Geistes in „seiner Stärke und in seiner Ruhe“ getröstet\. Denn die Hoffnung auf künftigen Lohn verschafft denen Ruhe, die sich abmühen, so wie die Hoffnung auf den Siegeskranz den Schmerz der Wunden bei jenen lindert, die im Wettkampf stehen\!
+„Du hast in deiner Gerechtigkeit dieses dein Volk geführt,
+das du befreit hast\.
+Du hast sie getröstet durch deine Stärke in deiner heiligen Ruhe\.“[^bible-959c5b49-0318-4d9d-84ab-a49183f915b0]
+Der Herr hat sein Volk „in Gerechtigkeit herausgeführt“,
+das er „durch das Bad der Wiedergeburt befreit hat\.“[^bible-b325ac86-8a17-4820-831e-dcd2823b8695]
+Er hat sie auch durch den Trost des Heiligen Geistes in „seiner Stärke und in seiner Ruhe“ getröstet\.
+Denn die Hoffnung auf künftigen Lohn verschafft denen Ruhe,
+die sich abmühen,
+so wie die Hoffnung auf den Siegeskranz den Schmerz der Wunden bei jenen lindert,
+die im Wettkampf stehen\!
 
 ## Bibelverweise
 

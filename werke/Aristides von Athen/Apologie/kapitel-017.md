@@ -7,6 +7,60 @@ Autor: Aristides von Athen
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/aristides-von-athen/apologie#kapitel-1235e777-e0c7-401c-d556-08deb5c5d2c1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:bdcb56514c54f61d5f441caddf13283874ebf3ceba5da3da4f1926b5a7f786d3`
-
-So viel, König, habe ich gesagt\. Was das Übrige betrifft, so finden sich, wie oben gesagt, in ihren anderen Schriften Dinge, die schwer auszusprechen und schwer zu erzählen sind; sie werden nicht nur in Worten gesagt, sondern auch in Taten vollbracht\. Die Griechen nun, König, schreiben, da sie schändliche Praktiken im Umgang mit Männern, mit Mutter, Schwester und Tochter treiben, ihre ungeheure Unreinheit ihrerseits den Christen zu\. Die Christen aber sind gerecht und gut; die Wahrheit steht ihnen vor Augen, und ihr Geist ist langmütig\. Darum tragen und erdulden sie es, obwohl sie den Irrtum dieser Leute kennen und von ihnen verfolgt werden; meist haben sie sogar Mitleid mit ihnen, weil sie Menschen ohne Erkenntnis sind\. Von ihrer Seite beten sie, dass jene von ihrem Irrtum umkehren\. Und wenn es geschieht, dass einer von ihnen umgekehrt ist, schämt er sich vor den Christen der Werke, die er getan hat, und bekennt vor Gott: „Ich habe dies in Unwissenheit getan\.“ Dann reinigt er sein Herz, und seine Sünden werden ihm vergeben, weil er sie früher in Unwissenheit begangen hat, als er noch die wahre Erkenntnis der Christen lästerte und übel von ihr sprach\. Gewiss ist das Geschlecht der Christen seliger als alle Menschen, die auf Erden leben\. Von nun an sollen die Zungen derer schweigen, die Nichtiges reden und die Christen bedrängen; künftig sollen sie die Wahrheit sagen\. Denn für sie steht viel auf dem Spiel: Sie sollen den wahren Gott anbeten und nicht einen vernunftlosen Laut\. Wahrhaftig, was im Mund der Christen gesprochen wird, ist von Gott, und ihre Lehre ist das Tor des Lichts\. Darum sollen alle, die ohne Erkenntnis Gottes sind, zu ihr hinzutreten; dann werden sie unvergängliche Worte empfangen, die von aller Zeit her und aus Ewigkeit sind\. So werden sie vor dem furchtbaren Gericht erscheinen, das durch Jesus, den Messias, über das ganze Menschengeschlecht kommen soll\. Die Apologie des Philosophen Aristides ist zu Ende\.
+So viel,
+König,
+habe ich gesagt\.
+Was das Übrige betrifft,
+so finden sich,
+wie oben gesagt,
+in ihren anderen Schriften Dinge,
+die schwer auszusprechen und schwer zu erzählen sind;
+sie werden nicht nur in Worten gesagt,
+sondern auch in Taten vollbracht\.
+Die Griechen nun,
+König,
+schreiben,
+da sie schändliche Praktiken im Umgang mit Männern,
+mit Mutter,
+Schwester und Tochter treiben,
+ihre ungeheure Unreinheit ihrerseits den Christen zu\.
+Die Christen aber sind gerecht und gut;
+die Wahrheit steht ihnen vor Augen,
+und ihr Geist ist langmütig\.
+Darum tragen und erdulden sie es,
+obwohl sie den Irrtum dieser Leute kennen und von ihnen verfolgt werden;
+meist haben sie sogar Mitleid mit ihnen,
+weil sie Menschen ohne Erkenntnis sind\.
+Von ihrer Seite beten sie,
+dass jene von ihrem Irrtum umkehren\.
+Und wenn es geschieht,
+dass einer von ihnen umgekehrt ist,
+schämt er sich vor den Christen der Werke,
+die er getan hat,
+und bekennt vor Gott:
+„Ich habe dies in Unwissenheit getan\.“
+Dann reinigt er sein Herz,
+und seine Sünden werden ihm vergeben,
+weil er sie früher in Unwissenheit begangen hat,
+als er noch die wahre Erkenntnis der Christen lästerte und übel von ihr sprach\.
+Gewiss ist das Geschlecht der Christen seliger als alle Menschen,
+die auf Erden leben\.
+Von nun an sollen die Zungen derer schweigen,
+die Nichtiges reden und die Christen bedrängen;
+künftig sollen sie die Wahrheit sagen\.
+Denn für sie steht viel auf dem Spiel:
+Sie sollen den wahren Gott anbeten und nicht einen vernunftlosen Laut\.
+Wahrhaftig,
+was im Mund der Christen gesprochen wird,
+ist von Gott,
+und ihre Lehre ist das Tor des Lichts\.
+Darum sollen alle,
+die ohne Erkenntnis Gottes sind,
+zu ihr hinzutreten;
+dann werden sie unvergängliche Worte empfangen,
+die von aller Zeit her und aus Ewigkeit sind\.
+So werden sie vor dem furchtbaren Gericht erscheinen,
+das durch Jesus,
+den Messias,
+über das ganze Menschengeschlecht kommen soll\.
+Die Apologie des Philosophen Aristides ist zu Ende\.

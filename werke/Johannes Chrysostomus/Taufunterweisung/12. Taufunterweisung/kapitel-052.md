@@ -7,6 +7,14 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/12-taufunterweisung#kapitel-d5f7141b-bbc1-4f38-a94b-08de0016b13a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:309492288d79ea9f6592bc981a1154d3d8b7532e18bfb05e63fd93a4804b0fa6`
-
-Darum sprechen wir diese Worte: „Ich widersage dir, Satan“, im Wissen, dass wir am Tag des Gerichts dafür Rechenschaft ablegen müssen; lasst sie uns bewahren, damit wir dann das uns Anvertraute vollständig zurückzahlen\. Und zu den Prunken des Teufels gehören die Theater, die Rennbahnen, jede sündhafte Beachtung von Tagen, aus zufälligen Äußerungen herausgelesene Vorzeichen und Omen\.
+Darum sprechen wir diese Worte:
+„Ich widersage dir,
+Satan“,
+im Wissen,
+dass wir am Tag des Gerichts dafür Rechenschaft ablegen müssen;
+lasst sie uns bewahren,
+damit wir dann das uns Anvertraute vollständig zurückzahlen\.
+Und zu den Prunken des Teufels gehören die Theater,
+die Rennbahnen,
+jede sündhafte Beachtung von Tagen,
+aus zufälligen Äußerungen herausgelesene Vorzeichen und Omen\.

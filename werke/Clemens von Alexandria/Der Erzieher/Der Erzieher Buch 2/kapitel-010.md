@@ -7,21 +7,584 @@ Autor: Clemens von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-alexandria/der-erzieher-buch-2#kapitel-6457944c-6389-43b6-84a9-08debbfde132).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:405694fa15b930cc781f3ea16afb39dc271362894bad6e67ee4fa536804baba0`
+Die rechte Zeit für den geschlechtlichen Verkehr ist nur denen gewährt,
+die verheiratet sind\.
+Für Eheleute ist das Ziel,
+Kinder zu haben,
+letztlich aber gute,
+gesunde Nachkommen hervorzubringen;
+ebenso sät ein Bauer,
+um Nahrung zu gewinnen,
+und das letzte Ziel des Ackerbaus ist,
+die Ernte einzubringen\.
+Doch der Bauer,
+der auf einem lebendigen Acker pflanzt,
+steht weit über dem,
+der auf totem Boden sät:
+Der eine sucht Nahrung für eine Jahreszeit,
+dem anderen geht es um den Fortbestand aller Menschen\.
+Der eine arbeitet für sich selbst,
+der andere für Gott,
+denn er hat gesagt:
+„Seid fruchtbar[^bible-0daea9f0-5821-46fe-8335-44ed6e4d745c] “,
+und wir müssen gehorchen\.
+Auf diese Weise wird der Mensch zu einem Ebenbild Gottes[^bible-4e4cdb06-324d-42a9-b2bd-01ca66fe7c02],
+denn durch ihn wird ein weiterer Mensch ins Dasein gerufen\.
+Nicht jeder Boden eignet sich dazu,
+Samen aufzunehmen,
+und selbst wenn es so wäre,
+eignet sich nicht jeder Boden für denselben Bauern\.
+Samen soll man nicht auf Felsen werfen,
+und der Same,
+der den Anfang des Lebens bildet,
+darf weder geschändet noch verschwendet werden\.
+Der Same trägt die vernünftigen Prinzipien der Natur in sich\.
+Diese natürlichen Prinzipien durch einen widernatürlichen Gebrauch zu entehren,
+ist vollkommen gottlos\.
+Du kannst sehen,
+wie der weise Mose die fruchtlose Aussaat sinnbildlich verwarf,
+als er sagte:
+„Ihr sollt weder den Hasen noch die Hyäne essen\.[^bible-f7e61579-0728-4011-be31-b1503be98db0]
+“ Er wollte nicht,
+dass die Menschen das Verhalten dieser Tiere nachahmen oder an ihrer gleichermaßen ausgeprägten Schamlosigkeit Geschmack finden\.
+Diese Tiere sind im Geschlechtsverkehr äußerst zügellos\.
+Vom Hasen sagt man,
+er habe so viele Ausscheidungsöffnungen,
+wie er Jahre gelebt hat\.[^bible-9c9031de-f939-44b6-acaf-6af85742dd59]
+Das scheint auf eine Warnung vor Homosexualität hinzudeuten,
+für die der Hase hier als Sinnbild steht\.
+Von der Hyäne heißt es,
+sie wechsle jedes Jahr vom Männchen zum Weibchen und wieder zurück\.[^bible-99c41996-b01a-40b1-8342-9baed2125121]
+Auch das ist eine Warnung,
+nicht in Ehebruch zu verfallen oder das Verhalten der Hyäne nachzuahmen\.
+Ich stimme zu,
+dass Mose uns durch diese Gebote davor gewarnt hat,
+uns wie jene Tiere zu verhalten\.
+Doch die wörtliche Erklärung,
+ihre Natur verändere sich tatsächlich,
+lehne ich ab\.
+Die Natur lässt sich nicht zur Veränderung zwingen,
+und was geschaffen wurde,
+lässt sich nicht durch eine Empfindung zu etwas anderem umgestalten\.
+Empfindungen sind nicht Natur\.
+Sie entstellen die Natur,
+gestalten sie aber nicht neu\.
+Manche Vögel ändern zwar mit den Jahreszeiten ihre Farbe und ihre Stimme,
+etwa die Amsel,
+die gelb und laut wird,
+oder die Nachtigall,
+die zu bestimmten Zeiten ihre Farbe und ihren Gesang verändert\.
+Doch ihre Natur ändern sie nicht\.
+Aus Männchen werden keine Weibchen\.
+Die neuen Federn sind wie ein frisches Gewand und fallen später wieder aus,
+wie eine Blume im Winter verwelkt\.
+Auch ihre Stimme schwindet,
+wenn sich die Kehle verengt,
+den Atem behindert und den Laut erstickt\.
+Doch im Frühling,
+wenn der Druck nachlässt,
+strömt die Luft wieder frei,
+und ihre Stimme kehrt zurück:
+nicht mehr schwach,
+sondern kräftig und fließend\.
+Ihr Gesang wird zum Frühling der Vogelstimmen\.
+Darum sollten wir niemals glauben,
+dass die Hyäne ihre Natur verändert\.
 
-Die rechte Zeit für den geschlechtlichen Verkehr ist nur denen gewährt, die verheiratet sind\. Für Eheleute ist das Ziel, Kinder zu haben, letztlich aber gute, gesunde Nachkommen hervorzubringen; ebenso sät ein Bauer, um Nahrung zu gewinnen, und das letzte Ziel des Ackerbaus ist, die Ernte einzubringen\. Doch der Bauer, der auf einem lebendigen Acker pflanzt, steht weit über dem, der auf totem Boden sät: Der eine sucht Nahrung für eine Jahreszeit, dem anderen geht es um den Fortbestand aller Menschen\. Der eine arbeitet für sich selbst, der andere für Gott, denn er hat gesagt: „Seid fruchtbar[^bible-0daea9f0-5821-46fe-8335-44ed6e4d745c] “, und wir müssen gehorchen\. Auf diese Weise wird der Mensch zu einem Ebenbild Gottes[^bible-4e4cdb06-324d-42a9-b2bd-01ca66fe7c02], denn durch ihn wird ein weiterer Mensch ins Dasein gerufen\. Nicht jeder Boden eignet sich dazu, Samen aufzunehmen, und selbst wenn es so wäre, eignet sich nicht jeder Boden für denselben Bauern\. Samen soll man nicht auf Felsen werfen, und der Same, der den Anfang des Lebens bildet, darf weder geschändet noch verschwendet werden\. Der Same trägt die vernünftigen Prinzipien der Natur in sich\. Diese natürlichen Prinzipien durch einen widernatürlichen Gebrauch zu entehren, ist vollkommen gottlos\. Du kannst sehen, wie der weise Mose die fruchtlose Aussaat sinnbildlich verwarf, als er sagte: „Ihr sollt weder den Hasen noch die Hyäne essen\.[^bible-f7e61579-0728-4011-be31-b1503be98db0] “ Er wollte nicht, dass die Menschen das Verhalten dieser Tiere nachahmen oder an ihrer gleichermaßen ausgeprägten Schamlosigkeit Geschmack finden\. Diese Tiere sind im Geschlechtsverkehr äußerst zügellos\. Vom Hasen sagt man, er habe so viele Ausscheidungsöffnungen, wie er Jahre gelebt hat\.[^bible-9c9031de-f939-44b6-acaf-6af85742dd59] Das scheint auf eine Warnung vor Homosexualität hinzudeuten, für die der Hase hier als Sinnbild steht\. Von der Hyäne heißt es, sie wechsle jedes Jahr vom Männchen zum Weibchen und wieder zurück\.[^bible-99c41996-b01a-40b1-8342-9baed2125121] Auch das ist eine Warnung, nicht in Ehebruch zu verfallen oder das Verhalten der Hyäne nachzuahmen\. Ich stimme zu, dass Mose uns durch diese Gebote davor gewarnt hat, uns wie jene Tiere zu verhalten\. Doch die wörtliche Erklärung, ihre Natur verändere sich tatsächlich, lehne ich ab\. Die Natur lässt sich nicht zur Veränderung zwingen, und was geschaffen wurde, lässt sich nicht durch eine Empfindung zu etwas anderem umgestalten\. Empfindungen sind nicht Natur\. Sie entstellen die Natur, gestalten sie aber nicht neu\. Manche Vögel ändern zwar mit den Jahreszeiten ihre Farbe und ihre Stimme, etwa die Amsel, die gelb und laut wird, oder die Nachtigall, die zu bestimmten Zeiten ihre Farbe und ihren Gesang verändert\. Doch ihre Natur ändern sie nicht\. Aus Männchen werden keine Weibchen\. Die neuen Federn sind wie ein frisches Gewand und fallen später wieder aus, wie eine Blume im Winter verwelkt\. Auch ihre Stimme schwindet, wenn sich die Kehle verengt, den Atem behindert und den Laut erstickt\. Doch im Frühling, wenn der Druck nachlässt, strömt die Luft wieder frei, und ihre Stimme kehrt zurück: nicht mehr schwach, sondern kräftig und fließend\. Ihr Gesang wird zum Frühling der Vogelstimmen\. Darum sollten wir niemals glauben, dass die Hyäne ihre Natur verändert\.
+Die Hyäne hat nicht zugleich männliche und weibliche Geschlechtsteile,
+wie manche fälschlich glauben und dabei Mythen über Zwitter und ein drittes Geschlecht erfinden\.
+Sie täuschen sich vollkommen,
+weil sie nicht verstehen,
+wie geschickt die Natur alles eingerichtet hat\.
+Die Hyäne ist äußerst lüstern\.
+Unter ihrem Schwanz,
+vor der Ausscheidungsöffnung,
+hat sie einen fleischigen Fortsatz,
+der weiblichen Geschlechtsteilen ähnelt,
+aber keine wirkliche Funktion hat:
+Es gibt dort keinen Gang,
+der zu einer Gebärmutter führt oder der Fortpflanzung dient\.
+Es ist nur ein leerer Hohlraum,
+der die Lust aufnimmt,
+ohne etwas hervorzubringen,
+besonders dann,
+wenn die eigentlichen Fortpflanzungswege beansprucht oder versperrt sind\.
+Wegen ihrer übermäßigen sexuellen Betätigung haben sowohl männliche als auch weibliche Hyänen dieses Körperteil\.
+Die Männchen paaren sich sogar miteinander,
+weshalb man nur selten eine weibliche Hyäne findet\.
+Sie pflanzen sich nicht regelmäßig fort,
+weil sie sich ungehemmt dem widernatürlichen Verkehr hingeben\.
+Deshalb nennt Platon im Phaidros die Homosexualität eine Bestie\.
+Er sagt,
+dass Menschen,
+die sich den Lüsten hingeben,
+„auf die Trense beißen“ und sich wie Vierfüßer verhalten,
+indem sie versuchen,
+ihren Samen in Knaben einzupflanzen\.
+Wie der Apostel sagt:
+„Gott gab sie schändlichen Leidenschaften preis\.
+Ihre Frauen vertauschten den natürlichen Verkehr mit dem widernatürlichen;
+ebenso gaben ihre Männer den natürlichen Verkehr mit Frauen auf und entbrannten in Lust aufeinander\.
+Männer verübten mit anderen Männern Unzüchtiges und erfuhren an sich selbst die Strafe,
+die sie verdient hatten\.[^bible-0537d5f2-55c9-498b-9ae6-fd579501ac79]
+“ Selbst bei den lüsternsten Tieren lässt die Natur nicht zu,
+dass der Geschlechtsakt durch den Ausscheidungsgang vollzogen wird\.
+Der Urin gelangt in die Blase,
+die Nahrung in den Magen,
+die Tränen in die Augen,
+das Blut in die Adern,
+das Ohrenschmalz in die Ohren und der Schleim in die Nase\.
+Am Ende des Darms werden die Abfallstoffe ausgeschieden\.
+Nur bei den Hyänen hat die Natur dieses seltsame Körperteil hinzugefügt,
+das ein kurzes Stück weit hohl erscheint,
+dann aber verschlossen ist:
+Es ist nicht zur Fortpflanzung geschaffen\.
+Somit ist klar,
+dass wir den Geschlechtsverkehr zwischen Männern,
+die fruchtlose Samenaussaat,
+Handlungen im Schlafgemach zu später Nachtstunde und widernatürliche Vereinigungen von Männern und Frauen,
+die körperlich nicht zueinander passen,
+ablehnen müssen\.
+Die Natur selbst verbietet das durch den Bau unseres Körpers:
+Der männliche Körper ist nicht dazu geschaffen,
+Samen aufzunehmen,
+sondern ihn auf männliche Weise abzugeben\.
+Wenn Jeremia also sagt:
+„Mein Haus ist zu einer Hyänenhöhle geworden[^bible-bce17c8e-eece-4e4c-880a-e89ef965499d] “,
+verurteilt er den Götzendienst sinnbildlich durch das Bild eines Tieres,
+das sich von totem Fleisch ernährt\.
+Gottes Haus muss wahrhaft frei von Götzen sein;
+es muss das Haus des lebendigen Gottes[^bible-ad8157ec-5761-4b86-932f-1b2c1162ba82] sein\.
+Auch verbietet Mose,
+den Hasen zu essen[^bible-9912559c-817f-44ee-95b1-2e76650b60cb]\.
+Der Hase paart sich zu jeder Zeit\.
+Selbst wenn das Weibchen liegt,
+besteigt das Männchen es von hinten:
+Der Hase ist ein Tier,
+das sich von hinten paart\.
+Das Weibchen wird jeden Monat trächtig und kann erneut trächtig werden,
+während es bereits trächtig ist\.
+Es paart sich und bringt Junge zur Welt,
+und gleich nach der Geburt paart es sich wieder mit irgendeinem Männchen in seiner Nähe\.
+Es bleibt nicht bei einem Partner\.
+Es wird sogar trächtig,
+während es noch säugt,
+denn es hat eine geteilte Gebärmutter\.
+Selbst der leere Raum in seiner Gebärmutter weckt erneut das Verlangen nach Geschlechtsverkehr,
+als wollte jede leere Stelle gefüllt werden\.
+So wird der eine Teil der Gebärmutter trächtig,
+während der andere vor Begierde brennt\.
+Deshalb überschneiden sich bei ihnen die Trächtigkeiten\.
 
-Die Hyäne hat nicht zugleich männliche und weibliche Geschlechtsteile, wie manche fälschlich glauben und dabei Mythen über Zwitter und ein drittes Geschlecht erfinden\. Sie täuschen sich vollkommen, weil sie nicht verstehen, wie geschickt die Natur alles eingerichtet hat\. Die Hyäne ist äußerst lüstern\. Unter ihrem Schwanz, vor der Ausscheidungsöffnung, hat sie einen fleischigen Fortsatz, der weiblichen Geschlechtsteilen ähnelt, aber keine wirkliche Funktion hat: Es gibt dort keinen Gang, der zu einer Gebärmutter führt oder der Fortpflanzung dient\. Es ist nur ein leerer Hohlraum, der die Lust aufnimmt, ohne etwas hervorzubringen, besonders dann, wenn die eigentlichen Fortpflanzungswege beansprucht oder versperrt sind\. Wegen ihrer übermäßigen sexuellen Betätigung haben sowohl männliche als auch weibliche Hyänen dieses Körperteil\. Die Männchen paaren sich sogar miteinander, weshalb man nur selten eine weibliche Hyäne findet\. Sie pflanzen sich nicht regelmäßig fort, weil sie sich ungehemmt dem widernatürlichen Verkehr hingeben\. Deshalb nennt Platon im Phaidros die Homosexualität eine Bestie\. Er sagt, dass Menschen, die sich den Lüsten hingeben, „auf die Trense beißen“ und sich wie Vierfüßer verhalten, indem sie versuchen, ihren Samen in Knaben einzupflanzen\. Wie der Apostel sagt: „Gott gab sie schändlichen Leidenschaften preis\. Ihre Frauen vertauschten den natürlichen Verkehr mit dem widernatürlichen; ebenso gaben ihre Männer den natürlichen Verkehr mit Frauen auf und entbrannten in Lust aufeinander\. Männer verübten mit anderen Männern Unzüchtiges und erfuhren an sich selbst die Strafe, die sie verdient hatten\.[^bible-0537d5f2-55c9-498b-9ae6-fd579501ac79] “ Selbst bei den lüsternsten Tieren lässt die Natur nicht zu, dass der Geschlechtsakt durch den Ausscheidungsgang vollzogen wird\. Der Urin gelangt in die Blase, die Nahrung in den Magen, die Tränen in die Augen, das Blut in die Adern, das Ohrenschmalz in die Ohren und der Schleim in die Nase\. Am Ende des Darms werden die Abfallstoffe ausgeschieden\. Nur bei den Hyänen hat die Natur dieses seltsame Körperteil hinzugefügt, das ein kurzes Stück weit hohl erscheint, dann aber verschlossen ist: Es ist nicht zur Fortpflanzung geschaffen\. Somit ist klar, dass wir den Geschlechtsverkehr zwischen Männern, die fruchtlose Samenaussaat, Handlungen im Schlafgemach zu später Nachtstunde und widernatürliche Vereinigungen von Männern und Frauen, die körperlich nicht zueinander passen, ablehnen müssen\. Die Natur selbst verbietet das durch den Bau unseres Körpers: Der männliche Körper ist nicht dazu geschaffen, Samen aufzunehmen, sondern ihn auf männliche Weise abzugeben\. Wenn Jeremia also sagt: „Mein Haus ist zu einer Hyänenhöhle geworden[^bible-bce17c8e-eece-4e4c-880a-e89ef965499d] “, verurteilt er den Götzendienst sinnbildlich durch das Bild eines Tieres, das sich von totem Fleisch ernährt\. Gottes Haus muss wahrhaft frei von Götzen sein; es muss das Haus des lebendigen Gottes[^bible-ad8157ec-5761-4b86-932f-1b2c1162ba82] sein\. Auch verbietet Mose, den Hasen zu essen[^bible-9912559c-817f-44ee-95b1-2e76650b60cb]\. Der Hase paart sich zu jeder Zeit\. Selbst wenn das Weibchen liegt, besteigt das Männchen es von hinten: Der Hase ist ein Tier, das sich von hinten paart\. Das Weibchen wird jeden Monat trächtig und kann erneut trächtig werden, während es bereits trächtig ist\. Es paart sich und bringt Junge zur Welt, und gleich nach der Geburt paart es sich wieder mit irgendeinem Männchen in seiner Nähe\. Es bleibt nicht bei einem Partner\. Es wird sogar trächtig, während es noch säugt, denn es hat eine geteilte Gebärmutter\. Selbst der leere Raum in seiner Gebärmutter weckt erneut das Verlangen nach Geschlechtsverkehr, als wollte jede leere Stelle gefüllt werden\. So wird der eine Teil der Gebärmutter trächtig, während der andere vor Begierde brennt\. Deshalb überschneiden sich bei ihnen die Trächtigkeiten\.
+So werden wir vor heftigen Begierden gewarnt,
+vor wiederholtem Geschlechtsverkehr,
+dem Beischlaf mit Schwangeren,
+dem gegenseitigen Besteigen,
+dem Schänden von Kindern,
+dem Ehebruch und davor,
+ungezügeltem Verlangen nachzugeben\.
+All das sollte dieses Sinnbild verbieten\.
+Und Mose sprach nun offen,
+nicht in Sinnbildern,
+und sagte unmissverständlich:
+„Du sollst keine Unzucht treiben\.
+Du sollst nicht die Ehe brechen\.
+Du sollst keine Kinder schänden\.[^bible-c871384f-e790-4b90-b2b7-bab025085a68]
+“ Dieses Gesetz muss mit aller Kraft gewahrt werden\.
+Keine seiner Bestimmungen darf je übertreten oder aufgehoben werden\.
+Denn wenn eine Begierde böse wird,
+nennt man sie Hochmut\.
+Platon nannte das Pferd der Begierde hochmütig und schrieb:
+„Ihr seid mir zu Hengsten geworden,
+die nach Stuten verlangen\.[^bible-0a0bcd8e-5281-45af-b15f-0eb16abb5fb8]
+“ Welche Strafe diejenigen erwartet,
+die so handeln,
+erfahren sie von den Engeln,
+die nach Sodom kamen[^bible-fd3948c8-98e8-478b-9ffa-62b2bcac36b7]\.
+Die Männer,
+die versuchten,
+die Engel zu schänden,
+wurden durch Feuer vernichtet[^bible-d29e65f8-43b7-443d-ba0c-e4ef5a7b110b]:
+eine eindeutige Folge ihrer Begierde\.
+Dieses Feuer ist die Frucht ihres Verhaltens und ist als Warnung für uns aufgezeichnet[^bible-feb705d6-66ab-4c16-963b-9d3df10f9de2],
+damit wir nicht in dasselbe verfallen und uns davor hüten können,
+ihr Schicksal zu teilen\.
+Wir sollten unsere Kinder als Söhne und Töchter ansehen und die Frauen anderer Männer so betrachten,
+als wären sie unsere eigenen Töchter\.
+Wir müssen die Genüsse des Magens beherrschen und mehr noch die Begierden unterhalb des Magens,
+in den unteren Körperteilen\.
+Denn wenn die Vernunft,
+wie die Stoiker sagen,
+einem Weisen nicht einmal erlaubt,
+seinen Finger willkürlich zu bewegen,
+wie viel mehr muss dann jemand,
+der nach Weisheit strebt,
+sein Geschlechtsorgan beherrschen?
+Ich glaube,
+es wird deshalb „Schamteil“ genannt,
+weil wir diesen Körperteil mit mehr Schamgefühl gebrauchen müssen als jeden anderen\.
+Die Natur hat uns erlaubt,
+Nahrung zu genießen und in rechtmäßiger Ehe geschlechtlich zu verkehren,
+beides auf angemessene,
+nützliche und anständige Weise;
+auch hat sie uns erlaubt,
+uns in der Ehe Kinder zu wünschen\.
+Wer aber das Übermaß sucht,
+handelt gegen die Natur und schadet sich selbst durch unerlaubten Geschlechtsverkehr\.
+Daher ist es am besten,
+sich bei sexuellen Handlungen nie wie Tiere zu verhalten,
+besonders in der Jugend\.
+Deshalb sagte der Philosoph im Anschluss an Mose:
+„Säe nicht auf Felsen oder Steine“,
+damit dein Same nicht dorthin fällt,
+wo er nicht wachsen kann\.
+Mose gebot dies in der Schrift ausdrücklich:
+„Du sollst nicht bei einem Mann liegen wie bei einer Frau;
+es ist ein Gräuel\.[^bible-d6bd0e47-fca1-49bf-b077-7160281bec37]
+“ Und weiter:
+„Meide jeden weiblichen Acker,
+der nicht dein eigener ist\.“
+Platon bezog sich dabei auf die göttliche Schrift und verstand dies im Sinne des Gebots:
+„Du sollst deinen Samen nicht der Frau deines Nächsten geben und sie dadurch verunreinigen\.[^bible-92b76ea0-b2a7-4df5-8460-c736f9e8f3ef]
+“ „Der Same von Geliebten und uneheliche Nachkommenschaft sind unheilig\.[^bible-4bc6403f-7155-4174-ad0a-6c6599feb5e5]
+“ Pflanze nicht dort,
+wo du nichts wachsen sehen möchtest\.
+Berühre niemanden außer deiner rechtmäßigen Frau\.
+Sie allein ist die richtige Frau,
+mit der du um rechtmäßiger Kinder willen körperliche Lust genießen darfst\.
+Nur diese Kinder sind in Gottes Augen rechtmäßig\.
+Wenn ein Mann an der göttlichen Schöpferkraft teilhat,
+indem er seinen Samen gibt,
+darf er ihn nicht vergeuden,
+missbrauchen oder wie billigen Samen auf harten Boden werfen\.
+Schon Mose verbot den Männern,
+sich ihren eigenen Frauen zu nähern,
+wenn sie durch ihre Monatsblutung unrein waren[^bible-28e4e9bc-6e90-42cc-8bdb-95d60c4b887a]\.
+Es ist unvernünftig,
+das Fruchtbarste am Mann,
+aus dem ein Mensch wird,
+mit dem unreinen Ausfluss des Körpers zu beflecken\.
+Ebenso falsch ist es,
+den Samen des Lebens in den schmutzigen Strom der Unreinheit zu gießen,
+wo er die natürlichen Kanäle der Gebärmutter nicht nutzen kann\.
 
-So werden wir vor heftigen Begierden gewarnt, vor wiederholtem Geschlechtsverkehr, dem Beischlaf mit Schwangeren, dem gegenseitigen Besteigen, dem Schänden von Kindern, dem Ehebruch und davor, ungezügeltem Verlangen nachzugeben\. All das sollte dieses Sinnbild verbieten\. Und Mose sprach nun offen, nicht in Sinnbildern, und sagte unmissverständlich: „Du sollst keine Unzucht treiben\. Du sollst nicht die Ehe brechen\. Du sollst keine Kinder schänden\.[^bible-c871384f-e790-4b90-b2b7-bab025085a68] “ Dieses Gesetz muss mit aller Kraft gewahrt werden\. Keine seiner Bestimmungen darf je übertreten oder aufgehoben werden\. Denn wenn eine Begierde böse wird, nennt man sie Hochmut\. Platon nannte das Pferd der Begierde hochmütig und schrieb: „Ihr seid mir zu Hengsten geworden, die nach Stuten verlangen\.[^bible-0a0bcd8e-5281-45af-b15f-0eb16abb5fb8] “ Welche Strafe diejenigen erwartet, die so handeln, erfahren sie von den Engeln, die nach Sodom kamen[^bible-fd3948c8-98e8-478b-9ffa-62b2bcac36b7]\. Die Männer, die versuchten, die Engel zu schänden, wurden durch Feuer vernichtet[^bible-d29e65f8-43b7-443d-ba0c-e4ef5a7b110b]: eine eindeutige Folge ihrer Begierde\. Dieses Feuer ist die Frucht ihres Verhaltens und ist als Warnung für uns aufgezeichnet[^bible-feb705d6-66ab-4c16-963b-9d3df10f9de2], damit wir nicht in dasselbe verfallen und uns davor hüten können, ihr Schicksal zu teilen\. Wir sollten unsere Kinder als Söhne und Töchter ansehen und die Frauen anderer Männer so betrachten, als wären sie unsere eigenen Töchter\. Wir müssen die Genüsse des Magens beherrschen und mehr noch die Begierden unterhalb des Magens, in den unteren Körperteilen\. Denn wenn die Vernunft, wie die Stoiker sagen, einem Weisen nicht einmal erlaubt, seinen Finger willkürlich zu bewegen, wie viel mehr muss dann jemand, der nach Weisheit strebt, sein Geschlechtsorgan beherrschen? Ich glaube, es wird deshalb „Schamteil“ genannt, weil wir diesen Körperteil mit mehr Schamgefühl gebrauchen müssen als jeden anderen\. Die Natur hat uns erlaubt, Nahrung zu genießen und in rechtmäßiger Ehe geschlechtlich zu verkehren, beides auf angemessene, nützliche und anständige Weise; auch hat sie uns erlaubt, uns in der Ehe Kinder zu wünschen\. Wer aber das Übermaß sucht, handelt gegen die Natur und schadet sich selbst durch unerlaubten Geschlechtsverkehr\. Daher ist es am besten, sich bei sexuellen Handlungen nie wie Tiere zu verhalten, besonders in der Jugend\. Deshalb sagte der Philosoph im Anschluss an Mose: „Säe nicht auf Felsen oder Steine“, damit dein Same nicht dorthin fällt, wo er nicht wachsen kann\. Mose gebot dies in der Schrift ausdrücklich: „Du sollst nicht bei einem Mann liegen wie bei einer Frau; es ist ein Gräuel\.[^bible-d6bd0e47-fca1-49bf-b077-7160281bec37] “ Und weiter: „Meide jeden weiblichen Acker, der nicht dein eigener ist\.“ Platon bezog sich dabei auf die göttliche Schrift und verstand dies im Sinne des Gebots: „Du sollst deinen Samen nicht der Frau deines Nächsten geben und sie dadurch verunreinigen\.[^bible-92b76ea0-b2a7-4df5-8460-c736f9e8f3ef] “ „Der Same von Geliebten und uneheliche Nachkommenschaft sind unheilig\.[^bible-4bc6403f-7155-4174-ad0a-6c6599feb5e5] “ Pflanze nicht dort, wo du nichts wachsen sehen möchtest\. Berühre niemanden außer deiner rechtmäßigen Frau\. Sie allein ist die richtige Frau, mit der du um rechtmäßiger Kinder willen körperliche Lust genießen darfst\. Nur diese Kinder sind in Gottes Augen rechtmäßig\. Wenn ein Mann an der göttlichen Schöpferkraft teilhat, indem er seinen Samen gibt, darf er ihn nicht vergeuden, missbrauchen oder wie billigen Samen auf harten Boden werfen\. Schon Mose verbot den Männern, sich ihren eigenen Frauen zu nähern, wenn sie durch ihre Monatsblutung unrein waren[^bible-28e4e9bc-6e90-42cc-8bdb-95d60c4b887a]\. Es ist unvernünftig, das Fruchtbarste am Mann, aus dem ein Mensch wird, mit dem unreinen Ausfluss des Körpers zu beflecken\. Ebenso falsch ist es, den Samen des Lebens in den schmutzigen Strom der Unreinheit zu gießen, wo er die natürlichen Kanäle der Gebärmutter nicht nutzen kann\.
+Von niemandem im alten Israel wird berichtet,
+dass er mit seiner schwangeren Frau Geschlechtsverkehr hatte\.
+Das wäre leere Lust,
+und selbst innerhalb der Ehe ist es unerlaubt,
+ungerecht und unvernünftig\.
+Mose befahl den Männern ausdrücklich,
+sich von ihren schwangeren Frauen fernzuhalten,
+bis sie ihre Kinder zur Welt gebracht hatten\.
+Die Gebärmutter liegt unterhalb der Blase auf dem Darmabschnitt,
+der als „Bogen“ bezeichnet wird;
+ihr Hals erstreckt sich zwischen den Hüften bis in die Blase\.
+Die Öffnung dieses Halses nimmt den Samen auf und wird fest verschlossen,
+sobald die Gebärmutter gefüllt ist\.
+Erst nach der Geburt entleert sie sich und öffnet sich wieder,
+um Samen aufzunehmen\.
+Wir schämen uns nicht,
+über die Fortpflanzungsorgane zu sprechen,
+wenn es der Belehrung dient\.
+Schließlich hat sich auch Gott nicht geschämt,
+sie zu erschaffen\.
+Die Gebärmutter dürstet also nach Nachwuchs und nimmt den Samen auf,
+weist aber nach der Empfängnis das lustvolle Verlangen zurück und verschließt sich vollständig gegen weitere Leidenschaft\.
+Ihr früheres Verlangen,
+das durch die zärtliche Vereinigung geweckt wurde,
+richtet sich nun nach innen,
+wirkt auf die Geburt hin und arbeitet mit dem Schöpfer zusammen\.
+Wenn die Natur also bereits ihre Aufgabe erfüllt,
+dürfen wir sie nicht weiter stören oder uns dem Übermaß hingeben\.
+Das wäre Überheblichkeit,
+eine schändliche Überheblichkeit in vielen Gestalten,
+besonders wenn sie in sexuelle Zügellosigkeit umschlägt\.
+Die Lust,
+dieses gewöhnliche und niedrige Verlangen,
+richtet sich allein auf den Genuss und führt zu vielen Krankheiten:
+Gier,
+Trunksucht,
+Frauenjagd,
+Verschwendungssucht und jeder Form der Genusssucht,
+allesamt von der Begierde beherrscht\.
+Daraus erwachsen viele weitere schlimme Leidenschaften,
+die zu einem schamlosen Lebenswandel führen\.
+Die Schrift sagt:
+„Geißeln und Strafen liegen für die Rücken der Dummen bereit\.[^bible-1d971d89-4fce-48c6-bc18-0cee155a6863]
+“ Dabei nennt sie die Stärke und Hartnäckigkeit der Schamlosigkeit „die Schultern der Dummen[^bible-1d971d89-4fce-48c6-bc18-0cee155a6863] “\.
+So sagt sie auch:
+„Halte leere Hoffnungen und ungehörige Begierden von mir fern\.
+Lass mich niemals von der Gier des Bauches und vom sexuellen Verlangen gefangen nehmen\.[^bible-5afe4861-3cc9-4ad3-9622-540705ddd0fe]
+“ Deshalb müssen wir uns von der Bosheit dieser heimtückischen Feinde weit fernhalten\.
+Kein dummer Schmarotzer,
+kein lüsterner Mann,
+der mit seinem Geschlechtsleben prahlt,
+keine verschlagene Hure und niemand dergleichen betritt je unsere Stadt\.
+Solche Bestien der Lust sind hier nicht willkommen\.
+Unser ganzes Leben soll von lobenswerten Taten erfüllt sein\.
+Ob man heiraten oder gänzlich rein bleiben soll,
+wurde bereits in „Über Selbstbeherrschung“ erörtert\.
+Wenn aber schon die Frage,
+ob man heiraten soll,
+sorgfältige Überlegung verlangt,
+wie könnte es dann richtig sein,
+Geschlechtsverkehr wie Nahrung zu behandeln und sich ihm jederzeit hinzugeben,
+als wäre er notwendig?
+Du kannst aus Erfahrung sehen,
+dass er die Nerven überdehnt und zerreißt,
+wie Fäden,
+die unter zu großer Spannung reißen\.
+Er trübt die Sinne und mindert die Spannkraft des Körpers\.
+Das zeigt sich sowohl bei Tieren als auch bei Wettkämpfern:
+Wer sich enthält,
+besiegt seine Gegner;
+wer sich dem Genuss hingibt,
+wird geschwächt und verliert alle Kraft und Energie\.
+Ein Philosoph aus Abdera nannte den Geschlechtsverkehr sogar „einen kleinen Krampfanfall“,
+weil er ihn für eine unheilbare Krankheit hielt\.
+Und ist es nicht wahr,
+dass die Entladung umso heftiger ist,
+je länger man zuvor auf Geschlechtsverkehr verzichtet hat?
+„Der Mensch wird aus dem Menschen geboren und aus dem Menschen herausgezogen\.“
+Bedenke,
+wie groß der Verlust ist:
+Bei jedem Geschlechtsakt wird der ganze Mensch auseinandergerissen\.
 
-Von niemandem im alten Israel wird berichtet, dass er mit seiner schwangeren Frau Geschlechtsverkehr hatte\. Das wäre leere Lust, und selbst innerhalb der Ehe ist es unerlaubt, ungerecht und unvernünftig\. Mose befahl den Männern ausdrücklich, sich von ihren schwangeren Frauen fernzuhalten, bis sie ihre Kinder zur Welt gebracht hatten\. Die Gebärmutter liegt unterhalb der Blase auf dem Darmabschnitt, der als „Bogen“ bezeichnet wird; ihr Hals erstreckt sich zwischen den Hüften bis in die Blase\. Die Öffnung dieses Halses nimmt den Samen auf und wird fest verschlossen, sobald die Gebärmutter gefüllt ist\. Erst nach der Geburt entleert sie sich und öffnet sich wieder, um Samen aufzunehmen\. Wir schämen uns nicht, über die Fortpflanzungsorgane zu sprechen, wenn es der Belehrung dient\. Schließlich hat sich auch Gott nicht geschämt, sie zu erschaffen\. Die Gebärmutter dürstet also nach Nachwuchs und nimmt den Samen auf, weist aber nach der Empfängnis das lustvolle Verlangen zurück und verschließt sich vollständig gegen weitere Leidenschaft\. Ihr früheres Verlangen, das durch die zärtliche Vereinigung geweckt wurde, richtet sich nun nach innen, wirkt auf die Geburt hin und arbeitet mit dem Schöpfer zusammen\. Wenn die Natur also bereits ihre Aufgabe erfüllt, dürfen wir sie nicht weiter stören oder uns dem Übermaß hingeben\. Das wäre Überheblichkeit, eine schändliche Überheblichkeit in vielen Gestalten, besonders wenn sie in sexuelle Zügellosigkeit umschlägt\. Die Lust, dieses gewöhnliche und niedrige Verlangen, richtet sich allein auf den Genuss und führt zu vielen Krankheiten: Gier, Trunksucht, Frauenjagd, Verschwendungssucht und jeder Form der Genusssucht, allesamt von der Begierde beherrscht\. Daraus erwachsen viele weitere schlimme Leidenschaften, die zu einem schamlosen Lebenswandel führen\. Die Schrift sagt: „Geißeln und Strafen liegen für die Rücken der Dummen bereit\.[^bible-1d971d89-4fce-48c6-bc18-0cee155a6863] “ Dabei nennt sie die Stärke und Hartnäckigkeit der Schamlosigkeit „die Schultern der Dummen[^bible-1d971d89-4fce-48c6-bc18-0cee155a6863] “\. So sagt sie auch: „Halte leere Hoffnungen und ungehörige Begierden von mir fern\. Lass mich niemals von der Gier des Bauches und vom sexuellen Verlangen gefangen nehmen\.[^bible-5afe4861-3cc9-4ad3-9622-540705ddd0fe] “ Deshalb müssen wir uns von der Bosheit dieser heimtückischen Feinde weit fernhalten\. Kein dummer Schmarotzer, kein lüsterner Mann, der mit seinem Geschlechtsleben prahlt, keine verschlagene Hure und niemand dergleichen betritt je unsere Stadt\. Solche Bestien der Lust sind hier nicht willkommen\. Unser ganzes Leben soll von lobenswerten Taten erfüllt sein\. Ob man heiraten oder gänzlich rein bleiben soll, wurde bereits in „Über Selbstbeherrschung“ erörtert\. Wenn aber schon die Frage, ob man heiraten soll, sorgfältige Überlegung verlangt, wie könnte es dann richtig sein, Geschlechtsverkehr wie Nahrung zu behandeln und sich ihm jederzeit hinzugeben, als wäre er notwendig? Du kannst aus Erfahrung sehen, dass er die Nerven überdehnt und zerreißt, wie Fäden, die unter zu großer Spannung reißen\. Er trübt die Sinne und mindert die Spannkraft des Körpers\. Das zeigt sich sowohl bei Tieren als auch bei Wettkämpfern: Wer sich enthält, besiegt seine Gegner; wer sich dem Genuss hingibt, wird geschwächt und verliert alle Kraft und Energie\. Ein Philosoph aus Abdera nannte den Geschlechtsverkehr sogar „einen kleinen Krampfanfall“, weil er ihn für eine unheilbare Krankheit hielt\. Und ist es nicht wahr, dass die Entladung umso heftiger ist, je länger man zuvor auf Geschlechtsverkehr verzichtet hat? „Der Mensch wird aus dem Menschen geboren und aus dem Menschen herausgezogen\.“ Bedenke, wie groß der Verlust ist: Bei jedem Geschlechtsakt wird der ganze Mensch auseinandergerissen\.
+Die Schrift sagt:
+„Das ist nun Knochen von meinen Knochen und Fleisch von meinem Fleisch\.[^bible-91d09204-667f-472e-a76f-e9b7a5fbd310]
+“ Durch seinen Samen wird der Mann also im selben Maß entleert wie sein Körper,
+denn was er verliert,
+ist der Anfang neuen Lebens\.
+Selbst die Hitze und der Druck der Körperflüssigkeiten stören die Harmonie des Körpers\.
+Deshalb antwortete jener kluge Mann einem jungen Mann,
+der ihn nach dem Geschlechtsverkehr fragte:
+„Schweig,
+Mensch\!
+Ich bin ihm mit Freuden entkommen wie einem wahnsinnigen,
+wilden Herrn\.“
+Dennoch ist die Ehe erlaubt und geboten\.
+Der Herr sagte:
+„Seid fruchtbar und vermehrt euch\.[^bible-4b3f5b59-9f98-40b4-b48e-49579ce53dd5]
+“ Aber er sagte nicht:
+„Lebt in Lust“,
+und gab den Männern auch nicht die Erlaubnis,
+sich wie Tiere an die Lust zu verkaufen\.
+Hören wir die eindringliche Bitte des Lehrers Hesekiel,
+der uns zuruft:
+„Schafft eure Unzucht fort\![^bible-8c2ec85a-7a1c-4c50-ac65-bfebb767282b]
+“ Selbst Tiere haben eine angemessene Zeit für die Paarung\.
+Geschlechtsverkehr ohne die Absicht,
+Kinder zu zeugen,
+beleidigt die Natur\.
+Die Natur soll unsere Lehrerin sein\.
+Durch die Lebensalter der Kindheit und des Alters lehrt sie uns Selbstbeherrschung\.
+Denn sie erlaubt weder den ganz Jungen noch den ganz Alten zu heiraten,
+obwohl die Ehe nicht allen verwehrt ist\.
+Ehe bedeutet aber den Wunsch nach Kindern,
+nicht den ungeordneten und gesetzlosen Samenerguss\.
+Das Leben würde seinen natürlichen Lauf nehmen,
+wenn wir unser Begehren beherrschten und das durch göttliche Voraussicht entstandene Menschengeschlecht nicht durch böse Erfindungen zerstörten\.
+Denn diese Machenschaften verbergen sich hinter der Maske der Unzucht und setzen verderbliche Tränke ein,
+die Abtreibungen bewirken und sowohl den Embryo als auch unsere Menschenliebe zerstören\.
+Wer heiraten darf,
+braucht daher Anleitung,
+damit er die Mysterien der Natur nicht täglich wie Rituale vollzieht oder sich morgens nach dem Verlassen der Kirche oder des Marktplatzes wie ein Hahn aufführt,
+der Hennen besteigt\.
+Die Zeit ist für Gebet,
+Lesen und tägliche gute Werke bestimmt\.
+Am Abend,
+nach dem Essen und dem Dankgebet,
+ist es Zeit zu ruhen\.
+Die Natur erlaubt nicht jederzeit den Vollzug der Ehe,
+und das Verlangen wird mit der Zeit stärker\.
+Doch das bedeutet nicht,
+dass wir uns nachts im Dunkeln schamlos verhalten sollen\.
+Vielmehr soll das Schamgefühl die Seele wie ein Licht der Vernunft behüten\.
+Wir sollen nicht wie Penelope sein,
+die tagsüber schamhaft webte,
+nachts aber das Gewebe wieder auflöste\.
+Wenn wir uns in würdevollem Verhalten üben,
+wie viel mehr müssen wir dann unseren eigenen Frauen mit Würde begegnen,
+schändliche Handlungen ablehnen und unsere Reinheit gegenüber anderen dadurch glaubwürdig machen,
+dass wir sie zuerst zu Hause zeigen\.
+Denn niemand kann uns für schamhaft halten,
+wenn er in unserem Verhalten bei heftigen Lustempfindungen kein Schamgefühl erkennt\.
+Auch die Zuneigung,
+die rasch zum Geschlechtsverkehr drängt,
+verblasst und altert mit dem Körper,
+manchmal sogar,
+bevor der Körper altert,
+wenn die Lust schon verwelkt ist\.
+Wird die eheliche Selbstbeherrschung durch den Lustgenuss bei Huren beleidigt,
+schlägt Liebe oft in Hass um\.
+Die Leidenschaft verblasst,
+wenn die Urteilskraft zurückkehrt\.
+Das Herz der Liebenden gleicht einem Vogel:
+Es fliegt davon,
+und Reue löscht das Feuer der Anziehung\.
+Liebe wird oft zu Hass,
+wenn jemand erkennt,
+wie schlecht er sich verhalten hat\.
 
-Die Schrift sagt: „Das ist nun Knochen von meinen Knochen und Fleisch von meinem Fleisch\.[^bible-91d09204-667f-472e-a76f-e9b7a5fbd310] “ Durch seinen Samen wird der Mann also im selben Maß entleert wie sein Körper, denn was er verliert, ist der Anfang neuen Lebens\. Selbst die Hitze und der Druck der Körperflüssigkeiten stören die Harmonie des Körpers\. Deshalb antwortete jener kluge Mann einem jungen Mann, der ihn nach dem Geschlechtsverkehr fragte: „Schweig, Mensch\! Ich bin ihm mit Freuden entkommen wie einem wahnsinnigen, wilden Herrn\.“ Dennoch ist die Ehe erlaubt und geboten\. Der Herr sagte: „Seid fruchtbar und vermehrt euch\.[^bible-4b3f5b59-9f98-40b4-b48e-49579ce53dd5] “ Aber er sagte nicht: „Lebt in Lust“, und gab den Männern auch nicht die Erlaubnis, sich wie Tiere an die Lust zu verkaufen\. Hören wir die eindringliche Bitte des Lehrers Hesekiel, der uns zuruft: „Schafft eure Unzucht fort\![^bible-8c2ec85a-7a1c-4c50-ac65-bfebb767282b] “ Selbst Tiere haben eine angemessene Zeit für die Paarung\. Geschlechtsverkehr ohne die Absicht, Kinder zu zeugen, beleidigt die Natur\. Die Natur soll unsere Lehrerin sein\. Durch die Lebensalter der Kindheit und des Alters lehrt sie uns Selbstbeherrschung\. Denn sie erlaubt weder den ganz Jungen noch den ganz Alten zu heiraten, obwohl die Ehe nicht allen verwehrt ist\. Ehe bedeutet aber den Wunsch nach Kindern, nicht den ungeordneten und gesetzlosen Samenerguss\. Das Leben würde seinen natürlichen Lauf nehmen, wenn wir unser Begehren beherrschten und das durch göttliche Voraussicht entstandene Menschengeschlecht nicht durch böse Erfindungen zerstörten\. Denn diese Machenschaften verbergen sich hinter der Maske der Unzucht und setzen verderbliche Tränke ein, die Abtreibungen bewirken und sowohl den Embryo als auch unsere Menschenliebe zerstören\. Wer heiraten darf, braucht daher Anleitung, damit er die Mysterien der Natur nicht täglich wie Rituale vollzieht oder sich morgens nach dem Verlassen der Kirche oder des Marktplatzes wie ein Hahn aufführt, der Hennen besteigt\. Die Zeit ist für Gebet, Lesen und tägliche gute Werke bestimmt\. Am Abend, nach dem Essen und dem Dankgebet, ist es Zeit zu ruhen\. Die Natur erlaubt nicht jederzeit den Vollzug der Ehe, und das Verlangen wird mit der Zeit stärker\. Doch das bedeutet nicht, dass wir uns nachts im Dunkeln schamlos verhalten sollen\. Vielmehr soll das Schamgefühl die Seele wie ein Licht der Vernunft behüten\. Wir sollen nicht wie Penelope sein, die tagsüber schamhaft webte, nachts aber das Gewebe wieder auflöste\. Wenn wir uns in würdevollem Verhalten üben, wie viel mehr müssen wir dann unseren eigenen Frauen mit Würde begegnen, schändliche Handlungen ablehnen und unsere Reinheit gegenüber anderen dadurch glaubwürdig machen, dass wir sie zuerst zu Hause zeigen\. Denn niemand kann uns für schamhaft halten, wenn er in unserem Verhalten bei heftigen Lustempfindungen kein Schamgefühl erkennt\. Auch die Zuneigung, die rasch zum Geschlechtsverkehr drängt, verblasst und altert mit dem Körper, manchmal sogar, bevor der Körper altert, wenn die Lust schon verwelkt ist\. Wird die eheliche Selbstbeherrschung durch den Lustgenuss bei Huren beleidigt, schlägt Liebe oft in Hass um\. Die Leidenschaft verblasst, wenn die Urteilskraft zurückkehrt\. Das Herz der Liebenden gleicht einem Vogel: Es fliegt davon, und Reue löscht das Feuer der Anziehung\. Liebe wird oft zu Hass, wenn jemand erkennt, wie schlecht er sich verhalten hat\.
+Wir sollten obszöne Worte,
+schamlose Gesten,
+Küsse nach Art der Huren und ähnliche lustvolle Handlungen nicht einmal erwähnen\.
+Genau das gebietet der selige Apostel mit Nachdruck,
+wenn er sagt:
+„Sexuelle Unmoral aber und jede Unreinheit oder Habgier dürfen unter euch nicht einmal genannt werden,
+wie es Heiligen angemessen ist[^bible-5586d5bf-1e04-4ee5-a04e-51de79c87830] \.“
+Jemand hat einmal weise gesagt:
+„Geschlechtsverkehr hat noch niemandem wirklich genützt,
+außer vielleicht,
+wenn er ihm nicht geschadet hat\.“
+Selbst erlaubter Geschlechtsverkehr birgt Gefahren,
+wenn er nicht allein der Zeugung von Kindern dient\.
+Über unerlaubten Geschlechtsverkehr sagt die Schrift jedoch:
+„Eine käufliche Frau gilt so viel wie Spucke,
+eine verheiratete Frau aber ist für die,
+die sie berühren,
+ein Turm des Todes[^bible-45eb010d-1a50-4da9-b6fe-bc83fb7281e5]\.“
+Prostitution wird mit einem Schwein oder einem wilden Tier verglichen,
+und Ehebruch wird als eine Art Tod für den bezeichnet,
+der sich eine Hure hält\.
+Selbst eure eigenen Dichter beschämen Städte und Häuser,
+in denen sich Menschen schamlos verhalten\.
+Sie schreiben etwa:
+„Ehebruch unter euch und unerlaubter Verkehr der Männer,
+eine von einer Frau geborene Stadt,
+ungerecht und böse,
+in jeder Hinsicht unrein\.
+Andererseits lobt die Dichtung die Schamhaften:
+Sie begehren nicht das Bett eines anderen Mannes,
+noch treibt sie der schändliche und verhasste Missbrauch anderer Männer an,
+denn das ist widernatürlich\.“
+Die meisten Menschen nennen solche Sünden Vergnügungen\.
+Wer hingegen etwas vernünftiger ist,
+räumt zwar ein,
+dass es Sünden sind,
+wird aber dennoch von seinen Begierden beherrscht\.
+Die Dunkelheit wird zum Deckmantel ihrer Leidenschaften\.
+Ein Mann,
+der sich wie eine Hure verhält und damit gegen seine eigene Ehe handelt,
+begeht Ehebruch\.
+Er missachtet,
+was ihm der Wegweiser,
+die Schrift,
+laut zuruft:
+„Ein Mann steigt in sein Bett und sagt im Herzen[^bible-b367ed71-fadd-4f9d-b7af-a1129af0b533]:
+‚Wer sieht mich?
+Dunkelheit umgibt mich,
+die Wände verbergen mich,
+niemand sieht meine Sünden\.
+Warum sollte ich mich fürchten?
+Der Höchste wird sich nicht daran erinnern[^bible-b367ed71-fadd-4f9d-b7af-a1129af0b533]\.‘“
+Dieser Mann ist wahrhaft beklagenswert:
+Er fürchtet die Augen der Menschen,
+glaubt aber,
+sich vor Gott verbergen zu können[^bible-7ab6b454-0b25-46bf-a7fd-0b997930e3b3]\.
+Doch die Schrift sagt:
+„Die Augen des Herrn sind zehntausendmal heller als die Sonne\.
+Sie sehen jeden Weg,
+den Menschen gehen,
+und blicken in die verborgensten Winkel[^bible-7ab6b454-0b25-46bf-a7fd-0b997930e3b3] \.“
+Wieder warnt sie der Wegweiser,
+die Schrift,
+durch Jesaja:
+„Wehe denen,
+die im Verborgenen Pläne schmieden und sagen[^bible-ab8cbbf6-8767-427b-a760-559ebe153db1]:
+‚Wer sieht uns?[^bible-ab8cbbf6-8767-427b-a760-559ebe153db1]
+‘“ Ein Mensch kann sich vor dem sichtbaren Licht verbergen,
+nicht aber vor dem Licht der Erkenntnis\.
+Oder wie Heraklit sagte:
+„Wie kann jemand dem entgehen,
+was niemals untergeht?“
+Nutzen wir also die Dunkelheit nicht als Deckmantel,
+denn das Licht wohnt in uns\.
+„Und die Finsternis[^bible-1075f4af-26ae-4f23-9319-35412b80fa69] “,
+heißt es,
+„überwältigt es nicht[^bible-1075f4af-26ae-4f23-9319-35412b80fa69]\.“
+Selbst die Nacht leuchtet im Licht weiser Gedanken\.
+Die Schrift nennt die Gedanken guter Menschen sogar „immer wache Lampen[^bible-266efdc4-a115-4b05-b133-d14fb9076625]“\.
+Schon der Versuch,
+sein Tun zu verbergen,
+ist ein Eingeständnis,
+dass es falsch ist\.
+Und jeder,
+der sündigt,
+tut von diesem Augenblick an Unrecht,
+nicht nur anderen,
+wie beim Ehebruch,
+sondern vor allem sich selbst\.
+Er erweist sich als weniger ehrenhaft und als schändlicher\.
+Denn wer sündigt,
+wird durch eben diese Tat schlechter und steht tiefer als zuvor\.
+Gewiss lebt jemand,
+den schändliche Lust überwältigt,
+bereits in Unkeuschheit\.
+Deshalb ist jemand,
+der mit wechselnden Partnern schläft,
+für Gott gestorben und vom Wort,
+Christus,
+ebenso verlassen wie vom Geist\.
+Denn der Heilige hasst es seinem Wesen nach,
+befleckt zu werden\.
+Es ist immer angemessen,
+dass Reines nur Reines berührt\.
+Legen wir nicht mit unserer Kleidung auch unser Schamgefühl ab\.
 
-Wir sollten obszöne Worte, schamlose Gesten, Küsse nach Art der Huren und ähnliche lustvolle Handlungen nicht einmal erwähnen\. Genau das gebietet der selige Apostel mit Nachdruck, wenn er sagt: „Sexuelle Unmoral aber und jede Unreinheit oder Habgier dürfen unter euch nicht einmal genannt werden, wie es Heiligen angemessen ist[^bible-5586d5bf-1e04-4ee5-a04e-51de79c87830] \.“ Jemand hat einmal weise gesagt: „Geschlechtsverkehr hat noch niemandem wirklich genützt, außer vielleicht, wenn er ihm nicht geschadet hat\.“ Selbst erlaubter Geschlechtsverkehr birgt Gefahren, wenn er nicht allein der Zeugung von Kindern dient\. Über unerlaubten Geschlechtsverkehr sagt die Schrift jedoch: „Eine käufliche Frau gilt so viel wie Spucke, eine verheiratete Frau aber ist für die, die sie berühren, ein Turm des Todes[^bible-45eb010d-1a50-4da9-b6fe-bc83fb7281e5]\.“ Prostitution wird mit einem Schwein oder einem wilden Tier verglichen, und Ehebruch wird als eine Art Tod für den bezeichnet, der sich eine Hure hält\. Selbst eure eigenen Dichter beschämen Städte und Häuser, in denen sich Menschen schamlos verhalten\. Sie schreiben etwa: „Ehebruch unter euch und unerlaubter Verkehr der Männer, eine von einer Frau geborene Stadt, ungerecht und böse, in jeder Hinsicht unrein\. Andererseits lobt die Dichtung die Schamhaften: Sie begehren nicht das Bett eines anderen Mannes, noch treibt sie der schändliche und verhasste Missbrauch anderer Männer an, denn das ist widernatürlich\.“ Die meisten Menschen nennen solche Sünden Vergnügungen\. Wer hingegen etwas vernünftiger ist, räumt zwar ein, dass es Sünden sind, wird aber dennoch von seinen Begierden beherrscht\. Die Dunkelheit wird zum Deckmantel ihrer Leidenschaften\. Ein Mann, der sich wie eine Hure verhält und damit gegen seine eigene Ehe handelt, begeht Ehebruch\. Er missachtet, was ihm der Wegweiser, die Schrift, laut zuruft: „Ein Mann steigt in sein Bett und sagt im Herzen[^bible-b367ed71-fadd-4f9d-b7af-a1129af0b533]: ‚Wer sieht mich? Dunkelheit umgibt mich, die Wände verbergen mich, niemand sieht meine Sünden\. Warum sollte ich mich fürchten? Der Höchste wird sich nicht daran erinnern[^bible-b367ed71-fadd-4f9d-b7af-a1129af0b533]\.‘“ Dieser Mann ist wahrhaft beklagenswert: Er fürchtet die Augen der Menschen, glaubt aber, sich vor Gott verbergen zu können[^bible-7ab6b454-0b25-46bf-a7fd-0b997930e3b3]\. Doch die Schrift sagt: „Die Augen des Herrn sind zehntausendmal heller als die Sonne\. Sie sehen jeden Weg, den Menschen gehen, und blicken in die verborgensten Winkel[^bible-7ab6b454-0b25-46bf-a7fd-0b997930e3b3] \.“ Wieder warnt sie der Wegweiser, die Schrift, durch Jesaja: „Wehe denen, die im Verborgenen Pläne schmieden und sagen[^bible-ab8cbbf6-8767-427b-a760-559ebe153db1]: ‚Wer sieht uns?[^bible-ab8cbbf6-8767-427b-a760-559ebe153db1] ‘“ Ein Mensch kann sich vor dem sichtbaren Licht verbergen, nicht aber vor dem Licht der Erkenntnis\. Oder wie Heraklit sagte: „Wie kann jemand dem entgehen, was niemals untergeht?“ Nutzen wir also die Dunkelheit nicht als Deckmantel, denn das Licht wohnt in uns\. „Und die Finsternis[^bible-1075f4af-26ae-4f23-9319-35412b80fa69] “, heißt es, „überwältigt es nicht[^bible-1075f4af-26ae-4f23-9319-35412b80fa69]\.“ Selbst die Nacht leuchtet im Licht weiser Gedanken\. Die Schrift nennt die Gedanken guter Menschen sogar „immer wache Lampen[^bible-266efdc4-a115-4b05-b133-d14fb9076625]“\. Schon der Versuch, sein Tun zu verbergen, ist ein Eingeständnis, dass es falsch ist\. Und jeder, der sündigt, tut von diesem Augenblick an Unrecht, nicht nur anderen, wie beim Ehebruch, sondern vor allem sich selbst\. Er erweist sich als weniger ehrenhaft und als schändlicher\. Denn wer sündigt, wird durch eben diese Tat schlechter und steht tiefer als zuvor\. Gewiss lebt jemand, den schändliche Lust überwältigt, bereits in Unkeuschheit\. Deshalb ist jemand, der mit wechselnden Partnern schläft, für Gott gestorben und vom Wort, Christus, ebenso verlassen wie vom Geist\. Denn der Heilige hasst es seinem Wesen nach, befleckt zu werden\. Es ist immer angemessen, dass Reines nur Reines berührt\. Legen wir nicht mit unserer Kleidung auch unser Schamgefühl ab\.
-
-Ein gerechter Mensch sollte niemals seine Selbstbeherrschung ablegen\. Dieser vergängliche Körper wird Unsterblichkeit anziehen[^bible-83ad2d39-ae48-4569-b620-f76f9012db40], wenn unsere ungezügelten Begierden, die zur Lust drängen, durch Selbstbeherrschung erzogen werden und das Verlangen nach Verderbnis verlieren\. Dann wird ewige Keuschheit von dem Menschen Besitz ergreifen\. „In dieser Weltzeit[^bible-6c071ddc-0953-4034-b727-283c9d8e49cd] “, sagte Jesus, „heiraten die Menschen und werden verheiratet[^bible-6c071ddc-0953-4034-b727-283c9d8e49cd] “, doch wenn sie die Werke des Fleisches[^bible-65ecfe23-6c3f-4086-93ce-efee6395f822] ablegen und ihre reinen Körper mit Unvergänglichkeit bekleiden[^bible-83ad2d39-ae48-4569-b620-f76f9012db40], streben sie nach einem Leben wie dem der Engel[^bible-f84d5eb0-89a0-4eb0-92ee-f3e7d0190eb3]\. Deshalb nennt sogar Platon in seinem Philebos insgeheim diejenigen Atheisten, die das göttliche Wort, das in ihnen lebt, zerstören und verderben, indem sie sich ihren Leidenschaften hingeben\. Wer Gott geweiht ist, sollte also niemals so leben, als wäre er nur sterblich\. Wie Paulus sagt: „Wir sollten die Glieder Christi nicht zu Gliedern einer Hure machen[^bible-dc8e8aa0-97d2-495b-8726-555f00acfa73] “, und: „Wir sollten den Tempel Gottes nicht in einen Tempel schändlicher Leidenschaften verwandeln\.[^bible-f401cdac-509f-45d3-8e7e-fe0a3f72e0cc] “ Denkt an die vierundzwanzigtausend, die wegen ihrer sexuellen Sünden vernichtet wurden[^bible-f8f418e6-5484-40f9-92a7-6591450668bc]\. Ihre Strafe ist, wie ich schon sagte, ein „Beispiel[^bible-910e178d-96d4-4320-903d-18a400818d84] “, das uns lehren soll, nicht unseren Begierden zu folgen[^bible-910e178d-96d4-4320-903d-18a400818d84]\. Unsere Wegweiserin, die Schrift, warnt sehr deutlich: „Folge nicht deinen Begierden und gib deinem Verlangen nicht nach\.[^bible-9da3ef1f-a134-4535-aff1-14f222e7a6ad] “ „Denn Wein und Frauen werden verständige Männer in die Irre führen[^bible-2fee8781-89ef-42ca-ad17-7e6b9bd3b92f] “, heißt es dort, „und wer sich an Huren hängt, wird immer leichtsinniger\. Verwesung und Würmer werden ihn erben, und er wird zerschlagen werden, um als noch eindrücklicheres Beispiel zu dienen\.[^bible-2c3f2747-ffd3-4da3-8126-32a4e98daf7f] “ Und weiter, denn die Schrift wird nicht müde, uns zu helfen: „Wer seinen Blick fest auf die Lust richtet, wird sein Leben mit Schande krönen\.[^bible-e168a7d2-cc70-4d74-a2a2-413617055147] “ Es ist also nicht recht, sich von der Lust beherrschen zu lassen, von seinen Begierden besessen zu sein oder unvernünftigem Verlangen die Herrschaft zu überlassen\. Wir sollten uns nicht einmal beflecken wollen\. Nur der Ehemann darf wie ein Bauer den Samen ausbringen, und auch das nur zur rechten Zeit, wenn der Augenblick für die Aussaat geeignet ist\.
+Ein gerechter Mensch sollte niemals seine Selbstbeherrschung ablegen\.
+Dieser vergängliche Körper wird Unsterblichkeit anziehen[^bible-83ad2d39-ae48-4569-b620-f76f9012db40],
+wenn unsere ungezügelten Begierden,
+die zur Lust drängen,
+durch Selbstbeherrschung erzogen werden und das Verlangen nach Verderbnis verlieren\.
+Dann wird ewige Keuschheit von dem Menschen Besitz ergreifen\.
+„In dieser Weltzeit[^bible-6c071ddc-0953-4034-b727-283c9d8e49cd] “,
+sagte Jesus,
+„heiraten die Menschen und werden verheiratet[^bible-6c071ddc-0953-4034-b727-283c9d8e49cd] “,
+doch wenn sie die Werke des Fleisches[^bible-65ecfe23-6c3f-4086-93ce-efee6395f822] ablegen und ihre reinen Körper mit Unvergänglichkeit bekleiden[^bible-83ad2d39-ae48-4569-b620-f76f9012db40],
+streben sie nach einem Leben wie dem der Engel[^bible-f84d5eb0-89a0-4eb0-92ee-f3e7d0190eb3]\.
+Deshalb nennt sogar Platon in seinem Philebos insgeheim diejenigen Atheisten,
+die das göttliche Wort,
+das in ihnen lebt,
+zerstören und verderben,
+indem sie sich ihren Leidenschaften hingeben\.
+Wer Gott geweiht ist,
+sollte also niemals so leben,
+als wäre er nur sterblich\.
+Wie Paulus sagt:
+„Wir sollten die Glieder Christi nicht zu Gliedern einer Hure machen[^bible-dc8e8aa0-97d2-495b-8726-555f00acfa73] “,
+und:
+„Wir sollten den Tempel Gottes nicht in einen Tempel schändlicher Leidenschaften verwandeln\.[^bible-f401cdac-509f-45d3-8e7e-fe0a3f72e0cc]
+“ Denkt an die vierundzwanzigtausend,
+die wegen ihrer sexuellen Sünden vernichtet wurden[^bible-f8f418e6-5484-40f9-92a7-6591450668bc]\.
+Ihre Strafe ist,
+wie ich schon sagte,
+ein „Beispiel[^bible-910e178d-96d4-4320-903d-18a400818d84] “,
+das uns lehren soll,
+nicht unseren Begierden zu folgen[^bible-910e178d-96d4-4320-903d-18a400818d84]\.
+Unsere Wegweiserin,
+die Schrift,
+warnt sehr deutlich:
+„Folge nicht deinen Begierden und gib deinem Verlangen nicht nach\.[^bible-9da3ef1f-a134-4535-aff1-14f222e7a6ad]
+“ „Denn Wein und Frauen werden verständige Männer in die Irre führen[^bible-2fee8781-89ef-42ca-ad17-7e6b9bd3b92f] “,
+heißt es dort,
+„und wer sich an Huren hängt,
+wird immer leichtsinniger\.
+Verwesung und Würmer werden ihn erben,
+und er wird zerschlagen werden,
+um als noch eindrücklicheres Beispiel zu dienen\.[^bible-2c3f2747-ffd3-4da3-8126-32a4e98daf7f]
+“ Und weiter,
+denn die Schrift wird nicht müde,
+uns zu helfen:
+„Wer seinen Blick fest auf die Lust richtet,
+wird sein Leben mit Schande krönen\.[^bible-e168a7d2-cc70-4d74-a2a2-413617055147]
+“ Es ist also nicht recht,
+sich von der Lust beherrschen zu lassen,
+von seinen Begierden besessen zu sein oder unvernünftigem Verlangen die Herrschaft zu überlassen\.
+Wir sollten uns nicht einmal beflecken wollen\.
+Nur der Ehemann darf wie ein Bauer den Samen ausbringen,
+und auch das nur zur rechten Zeit,
+wenn der Augenblick für die Aussaat geeignet ist\.
 
 ## Bibelverweise
 

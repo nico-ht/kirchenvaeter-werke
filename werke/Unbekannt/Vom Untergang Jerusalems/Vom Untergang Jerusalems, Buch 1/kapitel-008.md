@@ -7,6 +7,52 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-1#kapitel-08becf8c-a459-46fe-c845-08dd5a4d0198).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:dd204c61c74b7d935ede9f6701de4afeae8b0a01df38fc4065c2c7d677d3e6af`
-
-Und so brach die Gewalt der Krankheit infolge der maßlosen Reue so heftig hervor, dass sich sein Inneres verkrampfte und er mit dem Erbrechen aus seinem Mund Blut ausstieß\. Ein Hofdiener, der nach Hofbrauch seinen Dienst versah, trug es hinaus und gelangte, ohne um die Sache zu wissen, weil es eher zufällig als mit Absicht geschah, an jenen Ort, an dem Antigonus getötet worden war\. Dort goss er auf die noch feuchten Flecken brüderlichen Blutes das Blut dessen aus, der ihn getötet hatte\. Plötzlich erhob sich dort ein Aufschrei und das Stöhnen derer, die zusahen, weil man sah, wie aus einer verborgenen tiefen Fügung des Herrn das Blut des frevelhaften Mörders über den Ermordeten ausgegossen wurde\. Durch den Lärm aufgeschreckt, fragte er nach der Ursache; als keine Antwort kam, erzwang er sie durch beharrliches Fragen und zornige Gebärden\. Nachdem er die Nachricht erhalten hatte, füllten sich seine Augen mit Tränen, und so groß war die Regung in ihm, dass er unter Stöhnen sagte: „Eine Vergeltung, die meinen Verdiensten entspricht, wird mir zugemessen\. Auch ich, der Urheber eines so frevelhaften Verbrechens, konnte dem Auge Gottes nicht entgehen\. Rasche Schande und Vergeltung stehen bevor, und nun trifft mich der Preis, der meinem Verwandtenmord entspricht\. Leb wohl, mein Körper\. Wie lange willst du noch eine Seele festhalten, die von meinem Bruder und meiner Mutter überführt ist? In welcher Gegend soll ich mein Blut für sie vergießen? Gegen mich sollen, wenn es noch irgendeine Rechtschaffenheit gibt, alle Hände die Speere schwingen\. Alle Söhne und Brüder sollen mich als Rächer der Pietät mit Schwertern durchbohren\. Das Opfer des Verwandtenmörders soll geschlachtet und seinem verletzten Verwandten dargebracht werden\. Sein schuldiges Fleisch soll auf einmal all sein Blut ausspeien\. Es soll nicht gesättigt werden durch die Qualen meines Fleisches oder durch den langsamen Verfall der bösen Geister, die es gewagt haben, mich in die abscheulichen Taten eines wilden Verbrechens zu stoßen\.“ Mit diesen Worten setzte er seiner Herrschaft und seinem Leben ein Ende, nachdem er die königliche Macht kaum ein Jahr ausgeübt hatte, weil er den Verwandtenmord nicht gemieden hatte\.
+Und so brach die Gewalt der Krankheit infolge der maßlosen Reue so heftig hervor,
+dass sich sein Inneres verkrampfte und er mit dem Erbrechen aus seinem Mund Blut ausstieß\.
+Ein Hofdiener,
+der nach Hofbrauch seinen Dienst versah,
+trug es hinaus und gelangte,
+ohne um die Sache zu wissen,
+weil es eher zufällig als mit Absicht geschah,
+an jenen Ort,
+an dem Antigonus getötet worden war\.
+Dort goss er auf die noch feuchten Flecken brüderlichen Blutes das Blut dessen aus,
+der ihn getötet hatte\.
+Plötzlich erhob sich dort ein Aufschrei und das Stöhnen derer,
+die zusahen,
+weil man sah,
+wie aus einer verborgenen tiefen Fügung des Herrn das Blut des frevelhaften Mörders über den Ermordeten ausgegossen wurde\.
+Durch den Lärm aufgeschreckt,
+fragte er nach der Ursache;
+als keine Antwort kam,
+erzwang er sie durch beharrliches Fragen und zornige Gebärden\.
+Nachdem er die Nachricht erhalten hatte,
+füllten sich seine Augen mit Tränen,
+und so groß war die Regung in ihm,
+dass er unter Stöhnen sagte:
+„Eine Vergeltung,
+die meinen Verdiensten entspricht,
+wird mir zugemessen\.
+Auch ich,
+der Urheber eines so frevelhaften Verbrechens,
+konnte dem Auge Gottes nicht entgehen\.
+Rasche Schande und Vergeltung stehen bevor,
+und nun trifft mich der Preis,
+der meinem Verwandtenmord entspricht\.
+Leb wohl,
+mein Körper\.
+Wie lange willst du noch eine Seele festhalten,
+die von meinem Bruder und meiner Mutter überführt ist?
+In welcher Gegend soll ich mein Blut für sie vergießen?
+Gegen mich sollen,
+wenn es noch irgendeine Rechtschaffenheit gibt,
+alle Hände die Speere schwingen\.
+Alle Söhne und Brüder sollen mich als Rächer der Pietät mit Schwertern durchbohren\.
+Das Opfer des Verwandtenmörders soll geschlachtet und seinem verletzten Verwandten dargebracht werden\.
+Sein schuldiges Fleisch soll auf einmal all sein Blut ausspeien\.
+Es soll nicht gesättigt werden durch die Qualen meines Fleisches oder durch den langsamen Verfall der bösen Geister,
+die es gewagt haben,
+mich in die abscheulichen Taten eines wilden Verbrechens zu stoßen\.“
+Mit diesen Worten setzte er seiner Herrschaft und seinem Leben ein Ende,
+nachdem er die königliche Macht kaum ein Jahr ausgeübt hatte,
+weil er den Verwandtenmord nicht gemieden hatte\.

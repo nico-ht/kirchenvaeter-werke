@@ -7,6 +7,55 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-1#kapitel-ba4a40f9-b2a0-46e0-09f7-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d85db8d9a0cdbe56004d7a41e5ad8112234ea97eace5ceb5022733ae8e439d26`
-
-Celsus meint, bei vielen Völkern finde sich eine allgemeine Verwandtschaft der Lehren, und zählt alle Völker auf, bei denen diese oder jene Anschauungen entstanden seien\. Doch aus einem mir unbekannten Grund setzt er die Juden herab und zählt sie nicht zu den anderen: weder als solche, die gemeinsam mit ihnen geforscht und dieselben Schlüsse gezogen haben, noch als solche, die in vielen Fragen ähnliche Ansichten vertreten haben\. Daher muss man ihn fragen, weshalb er den Berichten der Barbaren und Griechen über das Alter der Völker, von denen er spricht, Glauben schenkt, allein die Berichte dieses Volkes aber als falsch verwirft\. Denn wenn die jeweiligen Verfasser die in diesen Werken enthaltenen Ereignisse wahrheitsgemäß dargestellt haben, warum sollten wir dann allein den Propheten der Juden misstrauen? Und wenn Mose und die Propheten vieles in ihrer Geschichte aus dem Wunsch heraus aufgezeichnet haben, ihr eigenes Lehrsystem zu begünstigen, warum sollten wir dasselbe nicht auch von den Geschichtsschreibern anderer Länder sagen? Oder soll man den Ägyptern oder ihren Geschichtswerken glauben, wenn sie schlecht über die Juden sprechen, die Juden aber der Lüge bezichtigen, wenn sie dasselbe über die Ägypter sagen und erklären, sie hätten von ihnen schweres Unrecht erlitten und seien deshalb von Gott bestraft worden? Das gilt nicht nur für die Ägypter, sondern auch für andere\. Denn wir werden feststellen, dass zwischen den Assyrern und den Juden eine Verbindung bestand und dass dies in den alten Geschichtswerken der Assyrer festgehalten ist\. Ebenso haben auch die jüdischen Geschichtsschreiber, ich vermeide das Wort „Propheten“, damit es nicht so aussieht, als nähme ich das Urteil vorweg, berichtet, dass die Assyrer Feinde der Juden waren\. Seht also sogleich, wie willkürlich dieser Mann verfährt: Den Geschichtsberichten jener Völker glaubt er, weil er sie für gebildet hält, andere dagegen verwirft er als völlig unwissend\. Denn hört, was Celsus behauptet: „Es gibt“, sagt er, „einen maßgeblichen Bericht, der bis zum allerersten Anfang zurückreicht und über den unter allen Völkern, Städten und Menschen von höchster Bildung beständige Einigkeit herrscht\.“ Und doch will er die Juden nicht ebenso als gebildetes Volk bezeichnen wie die Ägypter, Assyrer, Inder, Perser, Odrysen, Samothraker und Eleusinier\.
+Celsus meint,
+bei vielen Völkern finde sich eine allgemeine Verwandtschaft der Lehren,
+und zählt alle Völker auf,
+bei denen diese oder jene Anschauungen entstanden seien\.
+Doch aus einem mir unbekannten Grund setzt er die Juden herab und zählt sie nicht zu den anderen:
+weder als solche,
+die gemeinsam mit ihnen geforscht und dieselben Schlüsse gezogen haben,
+noch als solche,
+die in vielen Fragen ähnliche Ansichten vertreten haben\.
+Daher muss man ihn fragen,
+weshalb er den Berichten der Barbaren und Griechen über das Alter der Völker,
+von denen er spricht,
+Glauben schenkt,
+allein die Berichte dieses Volkes aber als falsch verwirft\.
+Denn wenn die jeweiligen Verfasser die in diesen Werken enthaltenen Ereignisse wahrheitsgemäß dargestellt haben,
+warum sollten wir dann allein den Propheten der Juden misstrauen?
+Und wenn Mose und die Propheten vieles in ihrer Geschichte aus dem Wunsch heraus aufgezeichnet haben,
+ihr eigenes Lehrsystem zu begünstigen,
+warum sollten wir dasselbe nicht auch von den Geschichtsschreibern anderer Länder sagen?
+Oder soll man den Ägyptern oder ihren Geschichtswerken glauben,
+wenn sie schlecht über die Juden sprechen,
+die Juden aber der Lüge bezichtigen,
+wenn sie dasselbe über die Ägypter sagen und erklären,
+sie hätten von ihnen schweres Unrecht erlitten und seien deshalb von Gott bestraft worden?
+Das gilt nicht nur für die Ägypter,
+sondern auch für andere\.
+Denn wir werden feststellen,
+dass zwischen den Assyrern und den Juden eine Verbindung bestand und dass dies in den alten Geschichtswerken der Assyrer festgehalten ist\.
+Ebenso haben auch die jüdischen Geschichtsschreiber,
+ich vermeide das Wort „Propheten“,
+damit es nicht so aussieht,
+als nähme ich das Urteil vorweg,
+berichtet,
+dass die Assyrer Feinde der Juden waren\.
+Seht also sogleich,
+wie willkürlich dieser Mann verfährt:
+Den Geschichtsberichten jener Völker glaubt er,
+weil er sie für gebildet hält,
+andere dagegen verwirft er als völlig unwissend\.
+Denn hört,
+was Celsus behauptet:
+„Es gibt“,
+sagt er,
+„einen maßgeblichen Bericht,
+der bis zum allerersten Anfang zurückreicht und über den unter allen Völkern,
+Städten und Menschen von höchster Bildung beständige Einigkeit herrscht\.“
+Und doch will er die Juden nicht ebenso als gebildetes Volk bezeichnen wie die Ägypter,
+Assyrer,
+Inder,
+Perser,
+Odrysen,
+Samothraker und Eleusinier\.

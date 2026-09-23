@@ -7,6 +7,16 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/12-taufunterweisung#kapitel-3f570aa0-611d-4a2d-a950-08de0016b13a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:381488cc263b2e6858a4fe2be3ef0e6bd7b09ff967f1c9c238f9fbad66b056a8`
-
-Was würdest du von denen sagen, die Beschwörungen und Amulette benutzen und sich bronzene Münzen Alexanders von Makedonien um Kopf und Füße binden? Sag mir: Setzen wir darauf unsere Hoffnung? Nachdem unser Herr für uns am Kreuz gestorben ist, wollen wir unsere Hoffnung auf Heil an das Bildnis eines griechischen Königs knüpfen? Weißt du nicht, wie vieles das Kreuz zurechtgebracht hat? Hat es nicht den Tod zerstört, die Sünde ausgelöscht, die Macht des Teufels beendet? Genügt es nicht auch zum Wohl unseres Körpers? Hat es nicht die ganze Welt wiederhergestellt – und dennoch hast du kein Vertrauen zu ihm?
+Was würdest du von denen sagen,
+die Beschwörungen und Amulette benutzen und sich bronzene Münzen Alexanders von Makedonien um Kopf und Füße binden?
+Sag mir:
+Setzen wir darauf unsere Hoffnung?
+Nachdem unser Herr für uns am Kreuz gestorben ist,
+wollen wir unsere Hoffnung auf Heil an das Bildnis eines griechischen Königs knüpfen?
+Weißt du nicht,
+wie vieles das Kreuz zurechtgebracht hat?
+Hat es nicht den Tod zerstört,
+die Sünde ausgelöscht,
+die Macht des Teufels beendet?
+Genügt es nicht auch zum Wohl unseres Körpers?
+Hat es nicht die ganze Welt wiederhergestellt – und dennoch hast du kein Vertrauen zu ihm?

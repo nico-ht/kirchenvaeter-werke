@@ -7,6 +7,15 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-eitelkeit-und-den-richtigen-weg-fuer-eltern-ihre-kinder-zu-erziehen#kapitel-91a2fb0b-7ea7-4eab-b92b-08ddc88111a4).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b391779a56c2b3a1dde553648498b568cd2197f581743b543a6476ed47a78951`
-
-Lasst uns die Ehe ohne Flöten, Harfen oder Tänze feiern; denn ein Bräutigam wie unser ist solcher absurder Bräuche beschämt\. Nein, lasst uns Christus dorthin einladen, denn der Bräutigam ist Seiner würdig\. Lasst uns Seine Jünger einladen; alles soll für den Bräutigam von bester Art sein\. Und er selbst wird lernen, seine eigenen Söhne auf diese Weise zu erziehen, und sie wiederum ihre, und das Ergebnis wird ein goldenes Band sein\.
+Lasst uns die Ehe ohne Flöten,
+Harfen oder Tänze feiern;
+denn ein Bräutigam wie unser ist solcher absurder Bräuche beschämt\.
+Nein,
+lasst uns Christus dorthin einladen,
+denn der Bräutigam ist Seiner würdig\.
+Lasst uns Seine Jünger einladen;
+alles soll für den Bräutigam von bester Art sein\.
+Und er selbst wird lernen,
+seine eigenen Söhne auf diese Weise zu erziehen,
+und sie wiederum ihre,
+und das Ergebnis wird ein goldenes Band sein\.

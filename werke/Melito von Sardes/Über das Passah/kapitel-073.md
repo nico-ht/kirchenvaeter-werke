@@ -7,6 +7,15 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-8cc45a37-327a-4bc6-76b7-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:563b56f9759475c1212dbdebc8292e92fde5351d94a1e83c2ed7dab713bb19c9`
-
-Welche seltsame Ungerechtigkeit hast du begangen, o Israel? Du hast denjenigen entehrt, der dich geehrt hat, du hast denjenigen beschämt, der dich verherrlicht hat, du hast denjenigen verleugnet, der dich besessen hat, du hast denjenigen ignoriert, der dich bekannt gemacht hat, du hast denjenigen ermordet, der dir das Leben gegeben hat\.
+Welche seltsame Ungerechtigkeit hast du begangen,
+o Israel?
+Du hast denjenigen entehrt,
+der dich geehrt hat,
+du hast denjenigen beschämt,
+der dich verherrlicht hat,
+du hast denjenigen verleugnet,
+der dich besessen hat,
+du hast denjenigen ignoriert,
+der dich bekannt gemacht hat,
+du hast denjenigen ermordet,
+der dir das Leben gegeben hat\.

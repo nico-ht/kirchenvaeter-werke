@@ -7,11 +7,115 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-2#kapitel-b09432f5-0f69-47ab-9c57-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ad620cf3b44936378e9da1a8b024e54d4e8371469a73fd7140aacb242648d4fb`
+Warum war,
+als sie in die Arche eintraten,
+die Ordnung folgende:
+zuerst er selbst und seine Söhne,
+nach ihnen seine Frau und die Frauen seiner Söhne;
+als sie aber hinausgingen,
+wurde die Ordnung geändert?
+Denn der heilige Geschichtsschreiber sagt:
+„Noah ging hinaus und seine Frau,
+und nach ihnen seine Söhne und die Frauen seiner Söhne[^bible-1c4f15bc-903d-4afd-b33d-3420998ba272]\.“
+Durch den wörtlichen Bericht gibt der heilige Verfasser in der Reihenfolge ihres Eintritts einen dunklen Hinweis darauf,
+dass die Fortpflanzung durch Samen ausgesetzt war;
+durch die Ordnung ihres Hinausgehens aber deutet er die Fortdauer des Zeugungsvorgangs an\.
+Denn beim Eintreten werden die Söhne zusammen mit ihrem Vater genannt und die Schwiegertöchter mit ihrer Schwiegermutter;
+beim Hinausgehen aber sind die Frauen alle wieder ihren Männern zugeordnet:
+Der Vater wird von seiner Frau begleitet,
+und jeder seiner Söhne ebenfalls von seiner Frau\.
+So wollte er durch die Tat statt durch Worte alles zeigen,
+was seine Freunde tun sollen\.
+Außerdem hatte er den Männern,
+als sie in die Arche eintreten sollten,
+mit ausdrücklichen Worten und nicht durch irgendwelche unbestimmten Andeutungen geboten,
+sich dort des Umgangs mit Frauen zu enthalten;
+jetzt aber,
+da sie aus ihr hinausgehen sollten,
+gibt er ihnen durch die Ordnung,
+in der er ihr Hinausgehen festsetzt,
+deutlich zu erkennen,
+dass Nachkommenschaft gemäß der Natur gezeugt werden soll\.
+Auch gebrauchte er nicht nur Worte,
+um seine Weisung über den Zustand in der Arche zu verkünden,
+indem er sagte:
+„Nach einer Vernichtung aller Dinge auf Erden von solcher Art und solchem Ausmaß gebt euch nicht den Vergnügungen hin,
+denn das ist nicht angemessen\.
+Es genügt vielmehr,
+dass ihr euer Leben erhalten habt;
+während ihr aber tatsächlich in der Arche seid,
+mit euren Frauen das Ehebett zu besteigen,
+wäre ein Beweis dafür,
+dass ihr der Ausschweifung ergeben seid\.“
+Und in der Tat war es natürlich,
+dass sie als Verwandte derer,
+die vernichtet wurden,
+Mitleid mit dem zugrunde gehenden Menschengeschlecht empfanden,
+zumal sie selbst noch im Zweifel waren,
+ob nicht von irgendeiner Seite auch über sie ein Unglück hereinbrechen könnte\.
+Außerdem war es widersinnig,
+während die Lebenden zugrunde gingen,
+dass die in der Arche darauf bedacht waren,
+andere,
+die noch nicht existierten,
+zur Geburt zu bringen,
+erhitzt zu unvernünftiger Zeit und brennend vor unzeitiger Begierde\.
 
-Warum war, als sie in die Arche eintraten, die Ordnung folgende: zuerst er selbst und seine Söhne, nach ihnen seine Frau und die Frauen seiner Söhne; als sie aber hinausgingen, wurde die Ordnung geändert? Denn der heilige Geschichtsschreiber sagt: „Noah ging hinaus und seine Frau, und nach ihnen seine Söhne und die Frauen seiner Söhne[^bible-1c4f15bc-903d-4afd-b33d-3420998ba272]\.“ Durch den wörtlichen Bericht gibt der heilige Verfasser in der Reihenfolge ihres Eintritts einen dunklen Hinweis darauf, dass die Fortpflanzung durch Samen ausgesetzt war; durch die Ordnung ihres Hinausgehens aber deutet er die Fortdauer des Zeugungsvorgangs an\. Denn beim Eintreten werden die Söhne zusammen mit ihrem Vater genannt und die Schwiegertöchter mit ihrer Schwiegermutter; beim Hinausgehen aber sind die Frauen alle wieder ihren Männern zugeordnet: Der Vater wird von seiner Frau begleitet, und jeder seiner Söhne ebenfalls von seiner Frau\. So wollte er durch die Tat statt durch Worte alles zeigen, was seine Freunde tun sollen\. Außerdem hatte er den Männern, als sie in die Arche eintreten sollten, mit ausdrücklichen Worten und nicht durch irgendwelche unbestimmten Andeutungen geboten, sich dort des Umgangs mit Frauen zu enthalten; jetzt aber, da sie aus ihr hinausgehen sollten, gibt er ihnen durch die Ordnung, in der er ihr Hinausgehen festsetzt, deutlich zu erkennen, dass Nachkommenschaft gemäß der Natur gezeugt werden soll\. Auch gebrauchte er nicht nur Worte, um seine Weisung über den Zustand in der Arche zu verkünden, indem er sagte: „Nach einer Vernichtung aller Dinge auf Erden von solcher Art und solchem Ausmaß gebt euch nicht den Vergnügungen hin, denn das ist nicht angemessen\. Es genügt vielmehr, dass ihr euer Leben erhalten habt; während ihr aber tatsächlich in der Arche seid, mit euren Frauen das Ehebett zu besteigen, wäre ein Beweis dafür, dass ihr der Ausschweifung ergeben seid\.“ Und in der Tat war es natürlich, dass sie als Verwandte derer, die vernichtet wurden, Mitleid mit dem zugrunde gehenden Menschengeschlecht empfanden, zumal sie selbst noch im Zweifel waren, ob nicht von irgendeiner Seite auch über sie ein Unglück hereinbrechen könnte\. Außerdem war es widersinnig, während die Lebenden zugrunde gingen, dass die in der Arche darauf bedacht waren, andere, die noch nicht existierten, zur Geburt zu bringen, erhitzt zu unvernünftiger Zeit und brennend vor unzeitiger Begierde\.
-
-Als aber der Zorn Gottes nachließ, gebot er denen, die aus dem Unglück gerettet worden waren und nun wieder geordnet aus der Arche hinausgingen, sich der Zeugung einer nachfolgenden Generation zuzuwenden; denn er berichtet uns, dass die Männer nicht mit den Männern hinausgingen und die Frauen nicht mit den Frauen, sondern die Ehefrauen mit ihren Männern\. Zum inneren Sinn dieser Tatsache aber müssen wir Folgendes sagen: Wenn der Geist im Begriff ist, seine Sünden abzuwaschen und zu reinigen, dann ist es angemessen, dass Männliches mit Männlichem zusammenlebt, das heißt, dass der Verstand, der führende Teil des Menschen, wie ein Vater mit jedem einzelnen Gedanken verbunden ist, wie ein Vater mit seinen Söhnen, ohne jede Beimischung des weiblichen Geschlechts, das dem äußeren Sinn entspricht\. Denn es ist eine Zeit des Kampfes, in der die Ordnung der Schar deutlich getrennt und streng in Reih und Glied bewahrt werden muss, damit die Soldaten nicht in Verwirrung durcheinandergeraten und so, statt den Sieg über den Feind zu erringen, selbst besiegt werden\. Ist aber die Reinigung vollendet, ist die Seele von aller Unwissenheit ausgetrocknet und hat eine vollständige Befreiung von allem Verderblichen stattgefunden, dann gehört es sich für den Mann, seine zerstreuten Kräfte zusammenzuführen, nicht damit die männlichen Entschlüsse durch Weichlichkeit verweiblicht werden, sondern damit das weibliche Geschlecht, das heißt die äußeren Sinne, sich mit der Kraft des Männlichen bekleidet, zu männlichen Entschlüssen gelangt und von ihnen Samen zur Hervorbringung einer Generation empfängt\. So sollen sie von da an in allem Gesinnungen der Weisheit, der Ehre, der Gerechtigkeit, der Tapferkeit und, mit einem Wort, der Tugend hegen\. Darüber hinaus ist es auch vernünftig, zu beachten: Wenn einmal eine Verwirrung, einer Sintflut gleich, den Verstand überwältigt hat und die verschiedenen Sinne, verwickelt durch die Angelegenheiten dieser Welt, die sich wie so viele gegen sie errichtete Bollwerke erheben, miteinander zu streiten beginnen, dann ist es ganz unmöglich, dass jemand irgendetwas Gutes säen, empfangen oder hervorbringen kann\. Wenn aber alle feindlichen Angriffe mannigfaltiger Erregungen und Leidenschaften gehemmt und die unablässigen Einfälle gesetzloser Entschlüsse zurückgedrängt sind, dann bringt die Seele Tugend und hervorragende Werke hervor, wie der fruchtbarste Teil der Erde, sobald er getrocknet ist, Früchte hervorbringt\.
+Als aber der Zorn Gottes nachließ,
+gebot er denen,
+die aus dem Unglück gerettet worden waren und nun wieder geordnet aus der Arche hinausgingen,
+sich der Zeugung einer nachfolgenden Generation zuzuwenden;
+denn er berichtet uns,
+dass die Männer nicht mit den Männern hinausgingen und die Frauen nicht mit den Frauen,
+sondern die Ehefrauen mit ihren Männern\.
+Zum inneren Sinn dieser Tatsache aber müssen wir Folgendes sagen:
+Wenn der Geist im Begriff ist,
+seine Sünden abzuwaschen und zu reinigen,
+dann ist es angemessen,
+dass Männliches mit Männlichem zusammenlebt,
+das heißt,
+dass der Verstand,
+der führende Teil des Menschen,
+wie ein Vater mit jedem einzelnen Gedanken verbunden ist,
+wie ein Vater mit seinen Söhnen,
+ohne jede Beimischung des weiblichen Geschlechts,
+das dem äußeren Sinn entspricht\.
+Denn es ist eine Zeit des Kampfes,
+in der die Ordnung der Schar deutlich getrennt und streng in Reih und Glied bewahrt werden muss,
+damit die Soldaten nicht in Verwirrung durcheinandergeraten und so,
+statt den Sieg über den Feind zu erringen,
+selbst besiegt werden\.
+Ist aber die Reinigung vollendet,
+ist die Seele von aller Unwissenheit ausgetrocknet und hat eine vollständige Befreiung von allem Verderblichen stattgefunden,
+dann gehört es sich für den Mann,
+seine zerstreuten Kräfte zusammenzuführen,
+nicht damit die männlichen Entschlüsse durch Weichlichkeit verweiblicht werden,
+sondern damit das weibliche Geschlecht,
+das heißt die äußeren Sinne,
+sich mit der Kraft des Männlichen bekleidet,
+zu männlichen Entschlüssen gelangt und von ihnen Samen zur Hervorbringung einer Generation empfängt\.
+So sollen sie von da an in allem Gesinnungen der Weisheit,
+der Ehre,
+der Gerechtigkeit,
+der Tapferkeit und,
+mit einem Wort,
+der Tugend hegen\.
+Darüber hinaus ist es auch vernünftig,
+zu beachten:
+Wenn einmal eine Verwirrung,
+einer Sintflut gleich,
+den Verstand überwältigt hat und die verschiedenen Sinne,
+verwickelt durch die Angelegenheiten dieser Welt,
+die sich wie so viele gegen sie errichtete Bollwerke erheben,
+miteinander zu streiten beginnen,
+dann ist es ganz unmöglich,
+dass jemand irgendetwas Gutes säen,
+empfangen oder hervorbringen kann\.
+Wenn aber alle feindlichen Angriffe mannigfaltiger Erregungen und Leidenschaften gehemmt und die unablässigen Einfälle gesetzloser Entschlüsse zurückgedrängt sind,
+dann bringt die Seele Tugend und hervorragende Werke hervor,
+wie der fruchtbarste Teil der Erde,
+sobald er getrocknet ist,
+Früchte hervorbringt\.
 
 ## Bibelverweise
 

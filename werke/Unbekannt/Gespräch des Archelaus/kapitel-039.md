@@ -7,9 +7,64 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/gespraech-des-archelaus#kapitel-1765c7a0-b5c5-453c-0a9f-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b0c228d8a81dc4d8e20b03071370d79448255bfb21b31023b11c944684668449`
-
-Als die Anwesenden dies hörten, gaben sie Gott große Ehre und erwiesen ihm das Lob, das ihm gebührt\. Auch Archelaus erwiesen sie vielfache Ehrenbezeugungen\. Dann erhob sich Marcellus, legte seinen Mantel ab, schlang die Arme um Archelaus, küsste und umarmte ihn und hielt ihn fest\. Auch die Kinder, die sich zufällig dort versammelt hatten, machten den Anfang und gaben das Beispiel, indem sie Manes mit Würfen bedrängten und forttrieben\. Die übrige Menge folgte ihnen und bewegte sich erregt umher, in der Absicht, Manes zur Flucht zu zwingen\. Als Archelaus dies bemerkte, erhob er besorgt seine Stimme wie eine Trompete über den Lärm, um die Menge zurückzuhalten, und sprach zu ihnen: „Haltet ein, meine geliebten Brüder, damit wir am Tag des Gerichts nicht etwa mit Blutschuld beladen dastehen\. Denn über Menschen wie diesen steht geschrieben: ‚„Es muss auch Häresien unter euch geben, damit die Bewährten unter euch offenbar werden\.[^bible-0e710aab-d3c3-47ad-a9ba-6cea4d8d9f23] “‘“ Nach diesen Worten beruhigte sich die Menge wieder\. Da Marcellus jedoch wünschte, dass diese Erörterung bewahrt und auch schriftlich dargestellt werde, konnte ich mich seinem Wunsch nicht widersetzen\. Ich vertraute vielmehr auf das freundliche Verständnis der Leser und glaubte, sie würden mir verzeihen, wenn meine Darstellung etwas kunstlos oder derb klingen sollte\. Denn unser wichtigstes Anliegen war, allen, die diese Sache verstehen wollten, die Möglichkeit zu geben, zu erfahren, was sich bei dieser Gelegenheit ereignet hatte\. Es muss noch hinzugefügt werden, dass Manes dort nirgends mehr erschien, nachdem er einmal die Flucht ergriffen hatte\. Seinen Begleiter Turbo jedoch übergab Marcellus an Archelaus\. Archelaus weihte ihn zum Diakon, worauf er sich dem Gefolge des Marcellus anschloss\. Auf seiner Flucht kam Manes in ein Dorf namens Diodorus, das ziemlich weit von der Stadt entfernt lag\. Dort lebte auch ein Presbyter, der ebenfalls Diodorus hieß\. Er war von ruhigem und sanftem Wesen und genoss sowohl wegen seines Glaubens als auch wegen seines insgesamt vorbildlichen Charakters hohes Ansehen\. Als Manes eines Tages eine Menge Zuhörer um sich versammelt hatte, hielt er eine Ansprache an sie und trug den Anwesenden befremdliche Behauptungen vor, die der Überlieferung der Väter völlig fremd waren\. Dabei rechnete er mit keinerlei Widerspruch von einem der Anwesenden\. Diodorus erkannte jedoch, dass Manes mit seiner Bosheit eine gewisse Wirkung erzielte, und beschloss, Archelaus einen Brief mit folgendem Wortlaut zu schicken: „Diodorus grüßt Bischof Archelaus,
+Als die Anwesenden dies hörten,
+gaben sie Gott große Ehre und erwiesen ihm das Lob,
+das ihm gebührt\.
+Auch Archelaus erwiesen sie vielfache Ehrenbezeugungen\.
+Dann erhob sich Marcellus,
+legte seinen Mantel ab,
+schlang die Arme um Archelaus,
+küsste und umarmte ihn und hielt ihn fest\.
+Auch die Kinder,
+die sich zufällig dort versammelt hatten,
+machten den Anfang und gaben das Beispiel,
+indem sie Manes mit Würfen bedrängten und forttrieben\.
+Die übrige Menge folgte ihnen und bewegte sich erregt umher,
+in der Absicht,
+Manes zur Flucht zu zwingen\.
+Als Archelaus dies bemerkte,
+erhob er besorgt seine Stimme wie eine Trompete über den Lärm,
+um die Menge zurückzuhalten,
+und sprach zu ihnen:
+„Haltet ein,
+meine geliebten Brüder,
+damit wir am Tag des Gerichts nicht etwa mit Blutschuld beladen dastehen\.
+Denn über Menschen wie diesen steht geschrieben:
+‚„Es muss auch Häresien unter euch geben,
+damit die Bewährten unter euch offenbar werden\.[^bible-0e710aab-d3c3-47ad-a9ba-6cea4d8d9f23]
+“‘“ Nach diesen Worten beruhigte sich die Menge wieder\.
+Da Marcellus jedoch wünschte,
+dass diese Erörterung bewahrt und auch schriftlich dargestellt werde,
+konnte ich mich seinem Wunsch nicht widersetzen\.
+Ich vertraute vielmehr auf das freundliche Verständnis der Leser und glaubte,
+sie würden mir verzeihen,
+wenn meine Darstellung etwas kunstlos oder derb klingen sollte\.
+Denn unser wichtigstes Anliegen war,
+allen,
+die diese Sache verstehen wollten,
+die Möglichkeit zu geben,
+zu erfahren,
+was sich bei dieser Gelegenheit ereignet hatte\.
+Es muss noch hinzugefügt werden,
+dass Manes dort nirgends mehr erschien,
+nachdem er einmal die Flucht ergriffen hatte\.
+Seinen Begleiter Turbo jedoch übergab Marcellus an Archelaus\.
+Archelaus weihte ihn zum Diakon,
+worauf er sich dem Gefolge des Marcellus anschloss\.
+Auf seiner Flucht kam Manes in ein Dorf namens Diodorus,
+das ziemlich weit von der Stadt entfernt lag\.
+Dort lebte auch ein Presbyter,
+der ebenfalls Diodorus hieß\.
+Er war von ruhigem und sanftem Wesen und genoss sowohl wegen seines Glaubens als auch wegen seines insgesamt vorbildlichen Charakters hohes Ansehen\.
+Als Manes eines Tages eine Menge Zuhörer um sich versammelt hatte,
+hielt er eine Ansprache an sie und trug den Anwesenden befremdliche Behauptungen vor,
+die der Überlieferung der Väter völlig fremd waren\.
+Dabei rechnete er mit keinerlei Widerspruch von einem der Anwesenden\.
+Diodorus erkannte jedoch,
+dass Manes mit seiner Bosheit eine gewisse Wirkung erzielte,
+und beschloss,
+Archelaus einen Brief mit folgendem Wortlaut zu schicken:
+„Diodorus grüßt Bischof Archelaus,
 
 ## Bibelverweise
 

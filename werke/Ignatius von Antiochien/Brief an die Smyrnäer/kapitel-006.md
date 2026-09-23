@@ -7,8 +7,29 @@ Autor: Ignatius von Antiochien
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ignatius-von-antiochien/brief-an-die-smyrnaeer#kapitel-c6dee03e-2ddd-474c-0c6f-08ddc6fbf826).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d34e776da84e9a178fa69d2dbb510c77e5cbf0e74c47a504f1e595b380e3cec8`
+Lasst euch von niemandem irreführen\.
+Selbst die himmlischen Wesen und die Herrlichkeit der Engel sowie die Herrscher,
+sowohl sichtbare als auch unsichtbare,
+unterliegen dem Gericht,
+wenn sie nicht an das Blut Christi glauben\.
+Wer dies annehmen kann,
+der nehme es an\.
+Lasst niemanden durch eine hohe Stellung stolz werden,
+denn Glaube und Liebe sind alles;
+nichts ist ihnen vorzuziehen\.
 
-Lasst euch von niemandem irreführen\. Selbst die himmlischen Wesen und die Herrlichkeit der Engel sowie die Herrscher, sowohl sichtbare als auch unsichtbare, unterliegen dem Gericht, wenn sie nicht an das Blut Christi glauben\. Wer dies annehmen kann, der nehme es an\. Lasst niemanden durch eine hohe Stellung stolz werden, denn Glaube und Liebe sind alles; nichts ist ihnen vorzuziehen\.
-
-Beachtet nun gut diejenigen, die häretische Meinungen über die Gnade Jesu Christi vertreten, die zu uns gekommen ist; seht, wie sehr sie dem Sinn Gottes entgegenstehen\. Sie haben kein Interesse an Liebe, keines für die Witwe, keines für das Waisenkind, keines für die Unterdrückten, keines für den Gefangenen oder den Freigelassenen, keines für die Hungrigen oder Durstigen\. Sie enthalten sich der Eucharistie und des Gebets, weil sie sich weigern anzuerkennen, dass die Eucharistie das Fleisch unseres Erlösers Jesus Christus ist, das für unsere Sünden gelitten hat und das der Vater in seiner Güte auferweckt hat\.
+Beachtet nun gut diejenigen,
+die häretische Meinungen über die Gnade Jesu Christi vertreten,
+die zu uns gekommen ist;
+seht,
+wie sehr sie dem Sinn Gottes entgegenstehen\.
+Sie haben kein Interesse an Liebe,
+keines für die Witwe,
+keines für das Waisenkind,
+keines für die Unterdrückten,
+keines für den Gefangenen oder den Freigelassenen,
+keines für die Hungrigen oder Durstigen\.
+Sie enthalten sich der Eucharistie und des Gebets,
+weil sie sich weigern anzuerkennen,
+dass die Eucharistie das Fleisch unseres Erlösers Jesus Christus ist,
+das für unsere Sünden gelitten hat und das der Vater in seiner Güte auferweckt hat\.

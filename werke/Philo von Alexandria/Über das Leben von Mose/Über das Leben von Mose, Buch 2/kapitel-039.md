@@ -7,8 +7,110 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-2#kapitel-0bcfcb61-719e-480c-0879-08ded872ad01).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:fd2df0dfcf6799894e27d4280427371c42f0c801a64bfa8169e10b89ce71ca28`
+Außerdem heiligte der Prophet,
+der dem Schöpfer des Alls die gebührende Ehre erwies,
+den heiligen siebten Tag\.
+Mit schärferem Blick als sterbliche Menschen schaute er dessen überragende Schönheit:
+Sie war dem Himmel und der ganzen Welt schon tief eingeprägt und wurde von der Natur selbst wie ein Abbild in ihrem eigenen Schoß getragen\.
+Denn zunächst fand Mose diesen Tag ohne jede Mutter und ohne jede Teilhabe an weiblicher Zeugung vor:
+vom Vater allein geboren,
+ohne Fortpflanzung durch Samen und ohne Empfängnis seitens irgendeiner Mutter\.
+Dann aber sah er nicht nur dies,
+dass er sehr schön und ohne Mutter war,
+weder aus Verwesung geboren noch der Verwesung unterworfen;
+vielmehr entdeckte er drittens durch weitere Nachforschung,
+dass er der Geburtstag der Welt ist,
+den der Himmel als Fest begeht und den die Erde samt allem,
+was in ihr und auf ihr ist,
+als Fest begeht,
+indem sie sich an der allharmonischen Siebenzahl und am Sabbattag freuen und ergötzen\.
+Aus diesem Grund hielt der in allem große Mose es für recht,
+dass alle,
+die in seine heilige Staatsordnung aufgenommen waren,
+den Gesetzen der Natur folgen und zu einer feierlichen Versammlung zusammenkommen sollten:
+Sie sollten ihre Zeit in heiterer Freude und Entspannung verbringen,
+sich aller Arbeit enthalten,
+ebenso aller Künste,
+die auf die Herstellung von etwas abzielen,
+und aller Geschäfte,
+die mit der Suche nach dem Lebensunterhalt verbunden sind;
+sie sollten einen vollständigen Waffenstillstand halten,
+frei von jedem mühevollen und ermüdenden Denken und Sorgen,
+und ihre Muße nicht,
+wie manche spöttisch behaupten,
+Spielen oder Darbietungen von Schauspielern und Tänzern widmen\.
+Denn um solcher Dinge willen erleiden diejenigen,
+die den Theatervergnügungen wahnsinnig nachlaufen,
+Unglück und finden sogar ein elendes Ende;
+und um ihretwillen machen die herrschendsten und einflussreichsten der äußeren Sinne,
+Sehen und Hören,
+die Seele,
+die doch von himmlischer Natur sein sollte,
+zur Sklavin dieser Sinne\.
+Stattdessen geben sie ihre Zeit ganz dem Studium der Philosophie hin,
+nicht jener Art von Philosophie,
+die Wortfänger und Sophisten in ein System zu bringen suchen,
+indem sie Lehrsätze und Gedankengänge verkaufen wie irgendeine andere verkäufliche Ware auf dem Markt\.
+Menschen,
+die,
+o Erde und Sonne\!,
+die Philosophie gegen die Philosophie einsetzen und doch niemals vor Scham erröten;
 
-Außerdem heiligte der Prophet, der dem Schöpfer des Alls die gebührende Ehre erwies, den heiligen siebten Tag\. Mit schärferem Blick als sterbliche Menschen schaute er dessen überragende Schönheit: Sie war dem Himmel und der ganzen Welt schon tief eingeprägt und wurde von der Natur selbst wie ein Abbild in ihrem eigenen Schoß getragen\. Denn zunächst fand Mose diesen Tag ohne jede Mutter und ohne jede Teilhabe an weiblicher Zeugung vor: vom Vater allein geboren, ohne Fortpflanzung durch Samen und ohne Empfängnis seitens irgendeiner Mutter\. Dann aber sah er nicht nur dies, dass er sehr schön und ohne Mutter war, weder aus Verwesung geboren noch der Verwesung unterworfen; vielmehr entdeckte er drittens durch weitere Nachforschung, dass er der Geburtstag der Welt ist, den der Himmel als Fest begeht und den die Erde samt allem, was in ihr und auf ihr ist, als Fest begeht, indem sie sich an der allharmonischen Siebenzahl und am Sabbattag freuen und ergötzen\. Aus diesem Grund hielt der in allem große Mose es für recht, dass alle, die in seine heilige Staatsordnung aufgenommen waren, den Gesetzen der Natur folgen und zu einer feierlichen Versammlung zusammenkommen sollten: Sie sollten ihre Zeit in heiterer Freude und Entspannung verbringen, sich aller Arbeit enthalten, ebenso aller Künste, die auf die Herstellung von etwas abzielen, und aller Geschäfte, die mit der Suche nach dem Lebensunterhalt verbunden sind; sie sollten einen vollständigen Waffenstillstand halten, frei von jedem mühevollen und ermüdenden Denken und Sorgen, und ihre Muße nicht, wie manche spöttisch behaupten, Spielen oder Darbietungen von Schauspielern und Tänzern widmen\. Denn um solcher Dinge willen erleiden diejenigen, die den Theatervergnügungen wahnsinnig nachlaufen, Unglück und finden sogar ein elendes Ende; und um ihretwillen machen die herrschendsten und einflussreichsten der äußeren Sinne, Sehen und Hören, die Seele, die doch von himmlischer Natur sein sollte, zur Sklavin dieser Sinne\. Stattdessen geben sie ihre Zeit ganz dem Studium der Philosophie hin, nicht jener Art von Philosophie, die Wortfänger und Sophisten in ein System zu bringen suchen, indem sie Lehrsätze und Gedankengänge verkaufen wie irgendeine andere verkäufliche Ware auf dem Markt\. Menschen, die, o Erde und Sonne\!, die Philosophie gegen die Philosophie einsetzen und doch niemals vor Scham erröten;
-
-sondern sich jener verwandten Philosophie widmen, die sie aus diesen Bestandteilen zusammensetzen, nämlich aus Gesinnung, Worten und Handlungen, zu einer zusammengehörigen Lebensform gebündelt, um Glück zu erwerben und zu genießen\. Nun missachtete jemand diese Weisung, während ihm die heiligen Worte Gottes über den heiligen siebten Tag noch in den Ohren klangen, Worte, die Gott ohne Vermittlung des Propheten gesprochen hatte, und, was das Wunderbarste von allem ist, durch eine sichtbare Stimme, die die Augen der Anwesenden noch stärker traf als ihre Ohren\. Er ging mitten durch das Lager hinaus, um Holz aufzulesen, obwohl er sehr wohl wusste, dass das ganze Volk im Lager vollkommen ruhig war und nichts tat; und gerade während er das Unrecht beging, wurde er gesehen und ertappt, denn jede Verstellung war unmöglich\. Einige nämlich waren aus den Toren an einen stillen Ort hinausgegangen, um an einem abgeschiedenen und friedlichen Platz beten zu können; als sie den höchst unheiligen Anblick sahen, dass dieser Mann ein Bündel Holz trug, gerieten sie in heftigen Zorn und wollten ihn töten\. Doch als sie bei sich nachdachten, hielten sie die Gewalt ihres Zorns zurück, damit es nicht den Anschein habe, sie als Privatleute züchtigten jemanden statt der Amtsträger, und das noch dazu ohne Verurteilung; freilich war die Übertretung im Übrigen offenkundig und unbestreitbar\. Zugleich wollten sie nicht, dass eine Verunreinigung durch eine Hinrichtung, selbst wenn sie völlig gerecht vollzogen würde, den heiligen Tag beflecke\. Daher ergriffen sie ihn und führten ihn zum Amtsträger, bei dem die Priester als Beisitzer saßen; und die ganze Menge kam zusammen, um die Verhandlung zu hören\. Denn es war durchgehend Brauch, wie es auch an den übrigen Tagen wünschenswert war, besonders aber am siebten Tag, wie ich bereits erklärt habe, philosophische Fragen zu erörtern: Der Führer des Volkes begann mit der Auslegung und lehrte die Menge, was sie tun und sagen sollte; das Volk hörte zu, um in der Tugend voranzukommen und sowohl in seiner sittlichen Haltung als auch in seiner Lebensführung besser zu werden\. Diesem Brauch entsprechend führen die Juden bis heute am siebten Tag philosophische Erörterungen, indem sie ihre angestammte Philosophie behandeln und diesen Tag der Erkenntnis und Betrachtung der Gegenstände der Naturphilosophie widmen\. Denn was sind ihre Gebetshäuser in den verschiedenen Städten anderes als Schulen der Weisheit, der Tapferkeit, der Mäßigung, der Gerechtigkeit, der Frömmigkeit, der Heiligkeit und jeder Tugend, durch die menschliche und göttliche Dinge richtig beurteilt und in die rechte Ordnung gebracht werden?
+sondern sich jener verwandten Philosophie widmen,
+die sie aus diesen Bestandteilen zusammensetzen,
+nämlich aus Gesinnung,
+Worten und Handlungen,
+zu einer zusammengehörigen Lebensform gebündelt,
+um Glück zu erwerben und zu genießen\.
+Nun missachtete jemand diese Weisung,
+während ihm die heiligen Worte Gottes über den heiligen siebten Tag noch in den Ohren klangen,
+Worte,
+die Gott ohne Vermittlung des Propheten gesprochen hatte,
+und,
+was das Wunderbarste von allem ist,
+durch eine sichtbare Stimme,
+die die Augen der Anwesenden noch stärker traf als ihre Ohren\.
+Er ging mitten durch das Lager hinaus,
+um Holz aufzulesen,
+obwohl er sehr wohl wusste,
+dass das ganze Volk im Lager vollkommen ruhig war und nichts tat;
+und gerade während er das Unrecht beging,
+wurde er gesehen und ertappt,
+denn jede Verstellung war unmöglich\.
+Einige nämlich waren aus den Toren an einen stillen Ort hinausgegangen,
+um an einem abgeschiedenen und friedlichen Platz beten zu können;
+als sie den höchst unheiligen Anblick sahen,
+dass dieser Mann ein Bündel Holz trug,
+gerieten sie in heftigen Zorn und wollten ihn töten\.
+Doch als sie bei sich nachdachten,
+hielten sie die Gewalt ihres Zorns zurück,
+damit es nicht den Anschein habe,
+sie als Privatleute züchtigten jemanden statt der Amtsträger,
+und das noch dazu ohne Verurteilung;
+freilich war die Übertretung im Übrigen offenkundig und unbestreitbar\.
+Zugleich wollten sie nicht,
+dass eine Verunreinigung durch eine Hinrichtung,
+selbst wenn sie völlig gerecht vollzogen würde,
+den heiligen Tag beflecke\.
+Daher ergriffen sie ihn und führten ihn zum Amtsträger,
+bei dem die Priester als Beisitzer saßen;
+und die ganze Menge kam zusammen,
+um die Verhandlung zu hören\.
+Denn es war durchgehend Brauch,
+wie es auch an den übrigen Tagen wünschenswert war,
+besonders aber am siebten Tag,
+wie ich bereits erklärt habe,
+philosophische Fragen zu erörtern:
+Der Führer des Volkes begann mit der Auslegung und lehrte die Menge,
+was sie tun und sagen sollte;
+das Volk hörte zu,
+um in der Tugend voranzukommen und sowohl in seiner sittlichen Haltung als auch in seiner Lebensführung besser zu werden\.
+Diesem Brauch entsprechend führen die Juden bis heute am siebten Tag philosophische Erörterungen,
+indem sie ihre angestammte Philosophie behandeln und diesen Tag der Erkenntnis und Betrachtung der Gegenstände der Naturphilosophie widmen\.
+Denn was sind ihre Gebetshäuser in den verschiedenen Städten anderes als Schulen der Weisheit,
+der Tapferkeit,
+der Mäßigung,
+der Gerechtigkeit,
+der Frömmigkeit,
+der Heiligkeit und jeder Tugend,
+durch die menschliche und göttliche Dinge richtig beurteilt und in die rechte Ordnung gebracht werden?

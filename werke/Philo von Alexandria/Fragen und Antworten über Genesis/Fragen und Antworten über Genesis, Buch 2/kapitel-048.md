@@ -7,9 +7,31 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-2#kapitel-3ee04b06-7599-40d1-9c56-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0f12fffad86f54b5d34380bbd96535a2856baad88c65d4479c10b5f3c4f6e91c`
-
-Warum verließ Noah, nachdem die Erde getrocknet war, die Arche nicht, bevor er einen neuen Befehl von Gott erhalten hatte? Denn Gott sprach zu Noah: „Geh hinaus, du und deine Frau, deine Söhne und die Frauen deiner Söhne mit dir[^bible-d0e6db3f-8510-4f59-9d5b-636e73af9786], zusammen mit allen übrigen Lebewesen\.“ Gerechtigkeit ist gewöhnlich von Furcht erfüllt, wie umgekehrt Ungerechtigkeit voreilig und selbstsicher ist\. Der Beweis der Gottesfurcht aber besteht darin, dass man der eigenen Vernunft nicht mehr nachgibt und sich nicht stärker von ihr leiten lässt als von Gott\. Und vor allen anderen Menschen lag es gerade bei jenem Mann nahe, der gesehen hatte, wie die ganze Erde plötzlich zu einem unermesslichen Meer geworden war, zu befürchten, dass dasselbe Unglück wiederkehren könnte\. Außerdem bedachte er auch die entsprechende Folgerung: Wie er auf Gottes Befehl in die Arche eingetreten war, so war es angemessen, dass er sie auch auf Befehl desselben Wesens wieder verließ\. Denn niemand soll glauben, er könne jemals irgendetwas vollkommen tun, wenn Gott selbst ihn nicht durch seine vorausgehenden Gebote leitet\.
+Warum verließ Noah,
+nachdem die Erde getrocknet war,
+die Arche nicht,
+bevor er einen neuen Befehl von Gott erhalten hatte?
+Denn Gott sprach zu Noah:
+„Geh hinaus,
+du und deine Frau,
+deine Söhne und die Frauen deiner Söhne mit dir[^bible-d0e6db3f-8510-4f59-9d5b-636e73af9786],
+zusammen mit allen übrigen Lebewesen\.“
+Gerechtigkeit ist gewöhnlich von Furcht erfüllt,
+wie umgekehrt Ungerechtigkeit voreilig und selbstsicher ist\.
+Der Beweis der Gottesfurcht aber besteht darin,
+dass man der eigenen Vernunft nicht mehr nachgibt und sich nicht stärker von ihr leiten lässt als von Gott\.
+Und vor allen anderen Menschen lag es gerade bei jenem Mann nahe,
+der gesehen hatte,
+wie die ganze Erde plötzlich zu einem unermesslichen Meer geworden war,
+zu befürchten,
+dass dasselbe Unglück wiederkehren könnte\.
+Außerdem bedachte er auch die entsprechende Folgerung:
+Wie er auf Gottes Befehl in die Arche eingetreten war,
+so war es angemessen,
+dass er sie auch auf Befehl desselben Wesens wieder verließ\.
+Denn niemand soll glauben,
+er könne jemals irgendetwas vollkommen tun,
+wenn Gott selbst ihn nicht durch seine vorausgehenden Gebote leitet\.
 
 ## Bibelverweise
 

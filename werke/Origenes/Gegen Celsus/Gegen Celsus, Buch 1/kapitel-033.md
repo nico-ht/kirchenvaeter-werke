@@ -7,6 +7,39 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-1#kapitel-a77a1a2b-4ee5-49bf-0a08-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e82aab3d3b53c06f0a5545cc0e4874de340acec59dda42c55768eff12afc2695`
-
-Wenn nun eine bestimmte Seele aus geheimnisvollen Gründen weder verdient, in den Körper eines völlig vernunftlosen Wesens versetzt zu werden, noch in den eines rein vernünftigen, sondern mit einem missgebildeten Körper bekleidet wird, in dem die Vernunft ihre Aufgaben nicht erfüllen kann, weil etwa der Kopf im Verhältnis zu den übrigen Körperteilen zu klein und überhaupt viel zu kurz ist; wenn eine andere einen Körper erhält, in dem die Seele etwas vernünftiger ist als jene, und wieder eine andere einen, in dem sie noch vernünftiger ist, weil die Beschaffenheit des Körpers die Aufnahme der Vernunft mehr oder weniger behindert: Warum sollte es dann nicht auch eine Seele geben, die einen ganz außergewöhnlichen Körper erhält? Dieser hätte manche Eigenschaften mit den Körpern anderer Menschen gemeinsam, damit sie ihr Leben unter ihnen verbringen kann, wäre ihnen aber zugleich in einer Hinsicht überlegen, sodass die Seele von der Sünde unbefleckt bleiben kann\. Und wenn die Lehre der Physiognomiker etwas Wahres enthält, ob nun die des Zopyrus, des Loxus, des Polemon oder eines anderen, der über ein solches Thema geschrieben hat, und wenn sie auf irgendeine erstaunliche Weise zu wissen behaupten, dass alle Körper den Wesenszügen der Seelen entsprechen: Musste dann für jene Seele, die mit wunderbarer Kraft unter den Menschen leben und gewaltige Taten vollbringen sollte, wirklich ein Körper bestimmt sein, der, wie Celsus meint, aus einem Ehebruch zwischen Panthera und der Jungfrau hervorgegangen war? Aus einer solchen unheiligen Verbindung hätte doch eher irgendein Dummkopf hervorgehen müssen, der den Menschen Schaden zufügt, ein Lehrer der Zügellosigkeit, der Bosheit und anderer Übel, nicht aber der Selbstbeherrschung, der Gerechtigkeit und der übrigen Tugenden\!
+Wenn nun eine bestimmte Seele aus geheimnisvollen Gründen weder verdient,
+in den Körper eines völlig vernunftlosen Wesens versetzt zu werden,
+noch in den eines rein vernünftigen,
+sondern mit einem missgebildeten Körper bekleidet wird,
+in dem die Vernunft ihre Aufgaben nicht erfüllen kann,
+weil etwa der Kopf im Verhältnis zu den übrigen Körperteilen zu klein und überhaupt viel zu kurz ist;
+wenn eine andere einen Körper erhält,
+in dem die Seele etwas vernünftiger ist als jene,
+und wieder eine andere einen,
+in dem sie noch vernünftiger ist,
+weil die Beschaffenheit des Körpers die Aufnahme der Vernunft mehr oder weniger behindert:
+Warum sollte es dann nicht auch eine Seele geben,
+die einen ganz außergewöhnlichen Körper erhält?
+Dieser hätte manche Eigenschaften mit den Körpern anderer Menschen gemeinsam,
+damit sie ihr Leben unter ihnen verbringen kann,
+wäre ihnen aber zugleich in einer Hinsicht überlegen,
+sodass die Seele von der Sünde unbefleckt bleiben kann\.
+Und wenn die Lehre der Physiognomiker etwas Wahres enthält,
+ob nun die des Zopyrus,
+des Loxus,
+des Polemon oder eines anderen,
+der über ein solches Thema geschrieben hat,
+und wenn sie auf irgendeine erstaunliche Weise zu wissen behaupten,
+dass alle Körper den Wesenszügen der Seelen entsprechen:
+Musste dann für jene Seele,
+die mit wunderbarer Kraft unter den Menschen leben und gewaltige Taten vollbringen sollte,
+wirklich ein Körper bestimmt sein,
+der,
+wie Celsus meint,
+aus einem Ehebruch zwischen Panthera und der Jungfrau hervorgegangen war?
+Aus einer solchen unheiligen Verbindung hätte doch eher irgendein Dummkopf hervorgehen müssen,
+der den Menschen Schaden zufügt,
+ein Lehrer der Zügellosigkeit,
+der Bosheit und anderer Übel,
+nicht aber der Selbstbeherrschung,
+der Gerechtigkeit und der übrigen Tugenden\!

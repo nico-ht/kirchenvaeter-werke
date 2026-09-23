@@ -7,6 +7,39 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-1#kapitel-88859a61-d5ca-41e2-cd44-08dd5e2b9946).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:21b97c11cc34aa2ebf11e2ec287cef64c4af7de078f8243fb9812018b74d308b`
-
-Was bedeutet die Aussage, dass man den Klang Gottes hörte, der im Paradies umherging? War es der Klang seiner Stimme oder seiner Füße? Und kann man von Gott sagen, dass er spricht? Jene Götter im Himmel, die unseren äußeren Sinnen wahrnehmbar sind, bewegen sich im Kreis und schreiten auf einer kreisförmigen Bahn voran; die höchste Ursache aber ist fest und unbeweglich, wie die Alten entschieden haben\. Doch auch der wahre Gott gibt ein gewisses Zeichen, als wolle er einen Eindruck von Bewegung vermitteln\. Denn tatsächlich hören ihn die Propheten auch dann, wenn er keine Worte ausspricht, durch eine gewisse Kraft einer göttlicheren Stimme, die in ihren Ohren erklingt oder vielleicht sogar artikuliert geäußert wird\. Wie Gott also gehört wird, ohne einen Laut von sich zu geben, so vermittelt er auch die Vorstellung des Gehens, ohne zu gehen, ja, obwohl er völlig unbeweglich ist\. Siehst du aber nicht, dass sie, bevor sie von der Bosheit gekostet hatten, da sie fest und beständig, unbeweglich und ruhig und gleichförmig waren, entsprechend auch die Gottheit als unbeweglich angesehen haben müssen, wie sie es tatsächlich ist? Als sie aber einmal mit List versehen waren, begannen sie, indem sie von sich selbst aus urteilten, ihm seine Eigenschaften der Unbeweglichkeit und Unveränderlichkeit zu entziehen, und vermuteten, auch er sei Veränderung und Wandel unterworfen\.
+Was bedeutet die Aussage,
+dass man den Klang Gottes hörte,
+der im Paradies umherging?
+War es der Klang seiner Stimme oder seiner Füße?
+Und kann man von Gott sagen,
+dass er spricht?
+Jene Götter im Himmel,
+die unseren äußeren Sinnen wahrnehmbar sind,
+bewegen sich im Kreis und schreiten auf einer kreisförmigen Bahn voran;
+die höchste Ursache aber ist fest und unbeweglich,
+wie die Alten entschieden haben\.
+Doch auch der wahre Gott gibt ein gewisses Zeichen,
+als wolle er einen Eindruck von Bewegung vermitteln\.
+Denn tatsächlich hören ihn die Propheten auch dann,
+wenn er keine Worte ausspricht,
+durch eine gewisse Kraft einer göttlicheren Stimme,
+die in ihren Ohren erklingt oder vielleicht sogar artikuliert geäußert wird\.
+Wie Gott also gehört wird,
+ohne einen Laut von sich zu geben,
+so vermittelt er auch die Vorstellung des Gehens,
+ohne zu gehen,
+ja,
+obwohl er völlig unbeweglich ist\.
+Siehst du aber nicht,
+dass sie,
+bevor sie von der Bosheit gekostet hatten,
+da sie fest und beständig,
+unbeweglich und ruhig und gleichförmig waren,
+entsprechend auch die Gottheit als unbeweglich angesehen haben müssen,
+wie sie es tatsächlich ist?
+Als sie aber einmal mit List versehen waren,
+begannen sie,
+indem sie von sich selbst aus urteilten,
+ihm seine Eigenschaften der Unbeweglichkeit und Unveränderlichkeit zu entziehen,
+und vermuteten,
+auch er sei Veränderung und Wandel unterworfen\.

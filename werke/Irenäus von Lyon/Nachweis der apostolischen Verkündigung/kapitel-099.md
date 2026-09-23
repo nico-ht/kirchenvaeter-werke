@@ -7,9 +7,35 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-b869b2db-868e-406e-3270-08debf1e7015).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:29f5c793e6be9a3d9584c638e98ddca7aed7c3d9765427a9d020e3239e555c2e`
-
-Damit niemand sich Gott, den Vater, anders vorstellt als unseren Schöpfer, wie die Häretiker es tun; denn sie verachten den Gott, der ist, und machen zu Göttern, was nicht ist\. Sie bilden sich einen eigenen Vater über unserem Schöpfer und meinen, sie hätten für sich etwas Größeres gefunden als die Wahrheit\. Denn alle diese sind gottlos und Lästerer gegen ihren Schöpfer und gegen den Vater, wie wir in der Darlegung und Widerlegung der fälschlich so genannten Erkenntnis gezeigt haben\. Wieder andere verwerfen die Ankunft des Sohnes Gottes und die Heilsordnung seiner Menschwerdung, die die Apostel überliefert und die Propheten zuvor verkündet haben, nämlich als jene Zusammenfassung der Menschheit, wie wir euch kurz gezeigt haben; auch solche werden zu denen gerechnet, denen es am Glauben fehlt\. Wieder andere nehmen die Gaben des Heiligen Geistes nicht an und stoßen die prophetische Gnade von sich, durch deren Bewässerung der Mensch Frucht des Lebens für Gott trägt\. Von ihnen spricht Jesaja: Denn sie werden, sagt er, „wie eine Eiche sein, deren Blätter abgestreift sind, und wie ein Garten, der kein Wasser hat[^bible-25ff0555-1dc3-4a49-b595-448d1d9740cf]“\. Solche sind Gott in keiner Weise dienlich, da sie keine Frucht tragen können\.
+Damit niemand sich Gott,
+den Vater,
+anders vorstellt als unseren Schöpfer,
+wie die Häretiker es tun;
+denn sie verachten den Gott,
+der ist,
+und machen zu Göttern,
+was nicht ist\.
+Sie bilden sich einen eigenen Vater über unserem Schöpfer und meinen,
+sie hätten für sich etwas Größeres gefunden als die Wahrheit\.
+Denn alle diese sind gottlos und Lästerer gegen ihren Schöpfer und gegen den Vater,
+wie wir in der Darlegung und Widerlegung der fälschlich so genannten Erkenntnis gezeigt haben\.
+Wieder andere verwerfen die Ankunft des Sohnes Gottes und die Heilsordnung seiner Menschwerdung,
+die die Apostel überliefert und die Propheten zuvor verkündet haben,
+nämlich als jene Zusammenfassung der Menschheit,
+wie wir euch kurz gezeigt haben;
+auch solche werden zu denen gerechnet,
+denen es am Glauben fehlt\.
+Wieder andere nehmen die Gaben des Heiligen Geistes nicht an und stoßen die prophetische Gnade von sich,
+durch deren Bewässerung der Mensch Frucht des Lebens für Gott trägt\.
+Von ihnen spricht Jesaja:
+Denn sie werden,
+sagt er,
+„wie eine Eiche sein,
+deren Blätter abgestreift sind,
+und wie ein Garten,
+der kein Wasser hat[^bible-25ff0555-1dc3-4a49-b595-448d1d9740cf]“\.
+Solche sind Gott in keiner Weise dienlich,
+da sie keine Frucht tragen können\.
 
 ## Bibelverweise
 

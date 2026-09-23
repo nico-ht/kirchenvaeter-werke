@@ -7,6 +7,40 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-4#kapitel-c269f54e-3818-41c3-277d-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:18778b6f9d0baa564b9dc45e05bc3b2014999fa9b4ab604b2efa21799d638959`
-
-Durch die Nachricht von diesem Sieg ermutigt, wollte Sabinus sich beim Befehlshaber eine Empfehlung verschaffen, falls er dem heranrückenden Antonius zuvorkäme, sei es durch die Vernichtung oder durch die Vertreibung des Vitellius, wenn Vitellius Widerstand leistete und wenn Antonius, von dem man immer wieder hörte, er sei schon nahe, zu Hilfe käme\. Daher sammelte er Soldaten um sich, eine Schar aus jenen Reihen, die in Rom stationiert waren und für die Aufrechterhaltung der Ordnung sorgten\. In der Nacht besetzt er also das Kapitol\. Im Lauf des Tages strömen viele Vornehme zu ihm, unter ihnen auch Domitian, der Sohn von Vespasians Bruder, der fürchtete, die Rache der Vitellianer könnte sich gegen ihn als Neffen Vespasians wenden\. Zwischen beiden greift Vitellius die nähere Gefahr an, weniger beunruhigt von der weiter entfernten, denn nähere Gefahren schrecken mehr\. Im Zorn schickt er die Germanen gegen das Kapitol; sie waren, von der ungeheuren Körpergröße ihres Volkes her, äußerst gewalttätig und zugleich an Zahl überlegen und umzingelten die Kriegsschar des Sabinus\. Fast alle wurden getötet\. Domitian aber fand mit den meisten Vornehmen, während die Germanen gegen die Höhen des Kapitols andrängten und durch die günstige Lage sowie von Sabinus und seinen Gefährten zurückgedrängt wurden, eine Gelegenheit zur Flucht; durch Zufall wurde er, zum Schaden des Staates, selbst gerettet, um künftig ein Tyrann zu werden\. Vitellius lässt Sabinus unter Folter töten; alle Gaben, die dem Kapitol dargebracht worden waren, werden geplündert, und der Tempel wird verbrannt\.
+Durch die Nachricht von diesem Sieg ermutigt,
+wollte Sabinus sich beim Befehlshaber eine Empfehlung verschaffen,
+falls er dem heranrückenden Antonius zuvorkäme,
+sei es durch die Vernichtung oder durch die Vertreibung des Vitellius,
+wenn Vitellius Widerstand leistete und wenn Antonius,
+von dem man immer wieder hörte,
+er sei schon nahe,
+zu Hilfe käme\.
+Daher sammelte er Soldaten um sich,
+eine Schar aus jenen Reihen,
+die in Rom stationiert waren und für die Aufrechterhaltung der Ordnung sorgten\.
+In der Nacht besetzt er also das Kapitol\.
+Im Lauf des Tages strömen viele Vornehme zu ihm,
+unter ihnen auch Domitian,
+der Sohn von Vespasians Bruder,
+der fürchtete,
+die Rache der Vitellianer könnte sich gegen ihn als Neffen Vespasians wenden\.
+Zwischen beiden greift Vitellius die nähere Gefahr an,
+weniger beunruhigt von der weiter entfernten,
+denn nähere Gefahren schrecken mehr\.
+Im Zorn schickt er die Germanen gegen das Kapitol;
+sie waren,
+von der ungeheuren Körpergröße ihres Volkes her,
+äußerst gewalttätig und zugleich an Zahl überlegen und umzingelten die Kriegsschar des Sabinus\.
+Fast alle wurden getötet\.
+Domitian aber fand mit den meisten Vornehmen,
+während die Germanen gegen die Höhen des Kapitols andrängten und durch die günstige Lage sowie von Sabinus und seinen Gefährten zurückgedrängt wurden,
+eine Gelegenheit zur Flucht;
+durch Zufall wurde er,
+zum Schaden des Staates,
+selbst gerettet,
+um künftig ein Tyrann zu werden\.
+Vitellius lässt Sabinus unter Folter töten;
+alle Gaben,
+die dem Kapitol dargebracht worden waren,
+werden geplündert,
+und der Tempel wird verbrannt\.

@@ -7,9 +7,30 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-3#kapitel-0111db38-ae5d-4be0-9cae-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:1eba75effc41dc8fee777b4f24b554b07f2c265d327cd3e50756befa6557ce4b`
-
-Warum sagt er: „Und von ihr werde ich dir Kinder geben, und ich werde ihn segnen, und er soll über die Völker sein, und Könige der Völker sollen aus ihm hervorgehen[^bible-37360944-436a-456d-8806-3d7ec840663a]“? Es ist kaum nötig zu fragen, warum er von Kindern in der Mehrzahl gesprochen hat, obwohl er ihren einzigen und geliebten Sohn meinte; denn die Absicht der Worte Gottes richtet sich auf seine Nachkommenschaft, aus der Völker und Könige entstehen sollten\. Das ist der wörtliche Sinn der Worte\. Wenn wir aber auf ihren inneren Sinn sehen: Solange die Seele jene Tugend besitzt, die klein und sterblich und nur eine einzelne Teilgestalt ist, bleibt sie noch unfruchtbar\. Von dem Augenblick an aber, da sie Anteil an der göttlichen und unvergänglichen Tugend gewinnt, beginnt sie zu empfangen und mannigfaltige Völker hervorzubringen, nämlich all die übrigen heiligen und gottgeweihten Personen\. Denn jede der ewigen Tugenden ist einer unermesslichen Zahl freiwillig angenommener Gesetze unterstellt, die in sich eine Ähnlichkeit mit Völkern und Königreichen tragen; denn die Tugend und die Geschlechter der Tugend sind königliche Dinge, von der Natur im Voraus darüber belehrt, was sich an fürstlicher Macht freut und von einem sklavischen Zustand keine Kenntnis hat\.
+Warum sagt er:
+„Und von ihr werde ich dir Kinder geben,
+und ich werde ihn segnen,
+und er soll über die Völker sein,
+und Könige der Völker sollen aus ihm hervorgehen[^bible-37360944-436a-456d-8806-3d7ec840663a]“?
+Es ist kaum nötig zu fragen,
+warum er von Kindern in der Mehrzahl gesprochen hat,
+obwohl er ihren einzigen und geliebten Sohn meinte;
+denn die Absicht der Worte Gottes richtet sich auf seine Nachkommenschaft,
+aus der Völker und Könige entstehen sollten\.
+Das ist der wörtliche Sinn der Worte\.
+Wenn wir aber auf ihren inneren Sinn sehen:
+Solange die Seele jene Tugend besitzt,
+die klein und sterblich und nur eine einzelne Teilgestalt ist,
+bleibt sie noch unfruchtbar\.
+Von dem Augenblick an aber,
+da sie Anteil an der göttlichen und unvergänglichen Tugend gewinnt,
+beginnt sie zu empfangen und mannigfaltige Völker hervorzubringen,
+nämlich all die übrigen heiligen und gottgeweihten Personen\.
+Denn jede der ewigen Tugenden ist einer unermesslichen Zahl freiwillig angenommener Gesetze unterstellt,
+die in sich eine Ähnlichkeit mit Völkern und Königreichen tragen;
+denn die Tugend und die Geschlechter der Tugend sind königliche Dinge,
+von der Natur im Voraus darüber belehrt,
+was sich an fürstlicher Macht freut und von einem sklavischen Zustand keine Kenntnis hat\.
 
 ## Bibelverweise
 

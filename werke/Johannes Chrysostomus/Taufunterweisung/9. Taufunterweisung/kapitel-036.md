@@ -7,6 +7,13 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/9-taufunterweisung#kapitel-7b28cfe2-a4b2-4cd1-6e15-08ddee25968c).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:11ea89d5056d7308ff7ca7be8397ab252310e71b53e2b00ba923853f55e53623`
-
-Die Zunge neigt dazu, viele verschiedene Sünden zu begehen: Missbrauch, Gotteslästerung, obszöne Sprache, Verleumdung, Schwüre und Meineid\. Ich möchte eure Gedanken heute nicht überwältigen, indem ich alle Sünden der Zunge auf einmal aufzähle\. Daher lege ich vorerst nur ein Gebot nieder – dass ihr euch vor dem Schwören in Acht nehmt\.
+Die Zunge neigt dazu,
+viele verschiedene Sünden zu begehen:
+Missbrauch,
+Gotteslästerung,
+obszöne Sprache,
+Verleumdung,
+Schwüre und Meineid\.
+Ich möchte eure Gedanken heute nicht überwältigen,
+indem ich alle Sünden der Zunge auf einmal aufzähle\.
+Daher lege ich vorerst nur ein Gebot nieder – dass ihr euch vor dem Schwören in Acht nehmt\.

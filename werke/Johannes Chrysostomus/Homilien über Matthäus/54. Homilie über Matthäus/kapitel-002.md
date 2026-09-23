@@ -7,6 +7,145 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/54-homilie-ueber-matthaeus#kapitel-0a796d19-8528-4dff-5b37-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d1bb7af81ececbcc923ff6a8da66acf89fde51deb575fbfb6ea5a3ae98e04599`
-
-Auch Nathanael sagte: „Rabbi, du bist der Sohn Gottes, du bist der König Israels\.“ Und er wird nicht nur nicht seliggepriesen, sondern von ihm sogar zurechtgewiesen, weil er weit hinter der Wahrheit zurückgeblieben war\. Denn er fügte hinzu: „Weil ich dir sagte: ‚Ich sah dich unter dem Feigenbaum‘, glaubst du? Größeres als dies wirst du sehen\.“ Weshalb also wird Petrus seliggepriesen? Weil er ihn als den eigentlichen Sohn bekannt hat\. Darum sagte er bei jenen nichts dergleichen; bei Petrus aber zeigt er auch den, der es offenbart hat\. Denn damit es den vielen nicht so vorkomme, als seien seine Worte, weil er Christus leidenschaftlich liebte, Worte der Freundschaft und Schmeichelei und Ausdruck einer Gesinnung, die ihm gefallen wollte, stellt Christus den in die Mitte, der es der Seele des Petrus eingegeben hatte\. So sollst du erkennen: Petrus sprach, doch der Vater gab es ihm ein; und du sollst glauben, dass das Gesagte nicht mehr menschliche Meinung ist, sondern göttliche Lehre\. Und weshalb erklärt er es nicht selbst und sagt nicht: „Ich bin der Christus“, sondern bringt dies durch die Frage zustande, indem er sie dazu hinführt, es selbst zu bekennen? Weil dies damals für ihn sowohl angemessener als auch notwendig war und jene umso mehr zum Glauben an das Gesagte hinzog\. Siehst du, wie der Vater den Sohn offenbart? Wie der Sohn den Vater offenbart? Denn „niemand erkennt den Vater“, sagt er, „außer der Sohn und wem der Sohn ihn offenbaren will\.“ Also kann man den Sohn von keinem anderen kennenlernen als vom Vater; und den Vater von keinem anderen als vom Sohn\. So wird auch von hier aus deutlich, dass sie gleiche Ehre haben und wesensgleich sind\. Was sagt nun Christus? „Du bist Simon, der Sohn des Jona; du sollst Kephas genannt werden\.“ Denn weil du meinen Vater verkündet hast, sagt er, nenne auch ich den, der dich gezeugt hat\. Er sagt damit beinahe: Wie du das Kind des Jona bist, so bin auch ich das Kind meines Vaters\. Es wäre ja überflüssig gewesen zu sagen: „Du bist der Sohn des Jona\.“ Weil Petrus aber „Sohn Gottes“ gesagt hatte, fügte Christus dies hinzu, um zu zeigen: So ist er im eigentlichen Sinn Sohn Gottes, wie jener Sohn des Jona ist, von derselben Substanz wie der, der ihn gezeugt hat\. „Und ich sage dir: Du bist Petrus, und auf diesen Felsen werde ich meine Kirche bauen“, das heißt: auf den Glauben des Bekenntnisses\. Von hier aus zeigt er, dass nun schon viele zum Glauben kommen werden, stärkt Petrus in seiner Gesinnung und macht ihn zum Hirten\. „Und die Pforten des Hades werden die Kirche nicht überwältigen\.“ Wenn sie aber die Kirche nicht überwältigen werden, dann erst recht nicht mich\. Darum gerate nicht in Unruhe, wenn du bald hören wirst: „Ich werde ausgeliefert und gekreuzigt werden\.“ Dann nennt er noch eine weitere Ehre: „Und auch ich werde dir die Schlüssel zu den Himmeln geben\.“ Was bedeutet: „Und auch ich werde dir geben“? Wie der Vater dir gegeben hat, mich zu erkennen, so werde auch ich dir geben\. Und er sagte nicht: „Ich werde den Vater bitten“, obwohl der Beweis seiner Vollmacht groß und die Größe der Gabe unaussprechlich war, sondern: „Ich werde dir geben\.“ Was gibst du? Sag es mir\. „Die Schlüssel zu den Himmeln, damit alles, was du auf der Erde bindest, in den Himmeln gebunden sein wird, und alles, was du auf der Erde löst, in den Himmeln gelöst sein wird\.“ Wie sollte es also nicht in seiner Macht stehen, das Sitzen zur Rechten und zur Linken zu geben, wenn er sagt: „Ich werde dir geben“? Siehst du, wie auch er selbst Petrus zu einer hohen Auffassung von ihm emporführt, sich offenbart und durch diese beiden Verheißungen zeigt, dass er der Sohn Gottes ist? Denn was allein Gott eigen ist, Sünden zu lösen, die Kirche in einem solchen Ansturm von Wogen unüberwindlich zu machen und einen Menschen, einen Fischer, stärker als jeden Felsen zu erweisen, während die ganze Welt Krieg gegen ihn führt: Das verheißt er selbst zu geben\. So sprach auch der Vater zu Jeremia und sagte, er werde ihn „wie eine Säule aus Bronze und wie eine Mauer“ machen; doch jenen nur für ein Volk, diesen aber überall in der Welt\. Gern würde ich daher die fragen, die die Würde des Sohnes mindern wollen: Welche Gaben sind größer, die der Vater Petrus gab, oder die der Sohn gab? Denn der Vater schenkte Petrus die Offenbarung des Sohnes; der Sohn aber übergab ihm die Vollmacht, die Offenbarung des Vaters und seine eigene überall in der Welt auszusäen, und legte einem sterblichen Menschen die Gewalt über alles in den Himmeln in die Hand, indem er ihm die Schlüssel gab\. Er hat die Kirche überall in der Welt ausgebreitet und stärker erwiesen als den Himmel\. Denn „Himmel und Erde werden vergehen; meine Worte aber werden nicht vergehen\.“ Wie sollte also der geringer sein, der solches gegeben, der solches vollbracht hat? Und das sage ich nicht, um die Werke des Vaters und des Sohnes zu trennen; denn „alles ist durch ihn geworden, und ohne ihn ist auch nicht eines geworden“, sondern um die schamlose Zunge derer zum Schweigen zu bringen, die so etwas wagen\.
+Auch Nathanael sagte:
+„Rabbi,
+du bist der Sohn Gottes,
+du bist der König Israels\.“
+Und er wird nicht nur nicht seliggepriesen,
+sondern von ihm sogar zurechtgewiesen,
+weil er weit hinter der Wahrheit zurückgeblieben war\.
+Denn er fügte hinzu:
+„Weil ich dir sagte:
+‚Ich sah dich unter dem Feigenbaum‘,
+glaubst du?
+Größeres als dies wirst du sehen\.“
+Weshalb also wird Petrus seliggepriesen?
+Weil er ihn als den eigentlichen Sohn bekannt hat\.
+Darum sagte er bei jenen nichts dergleichen;
+bei Petrus aber zeigt er auch den,
+der es offenbart hat\.
+Denn damit es den vielen nicht so vorkomme,
+als seien seine Worte,
+weil er Christus leidenschaftlich liebte,
+Worte der Freundschaft und Schmeichelei und Ausdruck einer Gesinnung,
+die ihm gefallen wollte,
+stellt Christus den in die Mitte,
+der es der Seele des Petrus eingegeben hatte\.
+So sollst du erkennen:
+Petrus sprach,
+doch der Vater gab es ihm ein;
+und du sollst glauben,
+dass das Gesagte nicht mehr menschliche Meinung ist,
+sondern göttliche Lehre\.
+Und weshalb erklärt er es nicht selbst und sagt nicht:
+„Ich bin der Christus“,
+sondern bringt dies durch die Frage zustande,
+indem er sie dazu hinführt,
+es selbst zu bekennen?
+Weil dies damals für ihn sowohl angemessener als auch notwendig war und jene umso mehr zum Glauben an das Gesagte hinzog\.
+Siehst du,
+wie der Vater den Sohn offenbart?
+Wie der Sohn den Vater offenbart?
+Denn „niemand erkennt den Vater“,
+sagt er,
+„außer der Sohn und wem der Sohn ihn offenbaren will\.“
+Also kann man den Sohn von keinem anderen kennenlernen als vom Vater;
+und den Vater von keinem anderen als vom Sohn\.
+So wird auch von hier aus deutlich,
+dass sie gleiche Ehre haben und wesensgleich sind\.
+Was sagt nun Christus?
+„Du bist Simon,
+der Sohn des Jona;
+du sollst Kephas genannt werden\.“
+Denn weil du meinen Vater verkündet hast,
+sagt er,
+nenne auch ich den,
+der dich gezeugt hat\.
+Er sagt damit beinahe:
+Wie du das Kind des Jona bist,
+so bin auch ich das Kind meines Vaters\.
+Es wäre ja überflüssig gewesen zu sagen:
+„Du bist der Sohn des Jona\.“
+Weil Petrus aber „Sohn Gottes“ gesagt hatte,
+fügte Christus dies hinzu,
+um zu zeigen:
+So ist er im eigentlichen Sinn Sohn Gottes,
+wie jener Sohn des Jona ist,
+von derselben Substanz wie der,
+der ihn gezeugt hat\.
+„Und ich sage dir:
+Du bist Petrus,
+und auf diesen Felsen werde ich meine Kirche bauen“,
+das heißt:
+auf den Glauben des Bekenntnisses\.
+Von hier aus zeigt er,
+dass nun schon viele zum Glauben kommen werden,
+stärkt Petrus in seiner Gesinnung und macht ihn zum Hirten\.
+„Und die Pforten des Hades werden die Kirche nicht überwältigen\.“
+Wenn sie aber die Kirche nicht überwältigen werden,
+dann erst recht nicht mich\.
+Darum gerate nicht in Unruhe,
+wenn du bald hören wirst:
+„Ich werde ausgeliefert und gekreuzigt werden\.“
+Dann nennt er noch eine weitere Ehre:
+„Und auch ich werde dir die Schlüssel zu den Himmeln geben\.“
+Was bedeutet:
+„Und auch ich werde dir geben“?
+Wie der Vater dir gegeben hat,
+mich zu erkennen,
+so werde auch ich dir geben\.
+Und er sagte nicht:
+„Ich werde den Vater bitten“,
+obwohl der Beweis seiner Vollmacht groß und die Größe der Gabe unaussprechlich war,
+sondern:
+„Ich werde dir geben\.“
+Was gibst du?
+Sag es mir\.
+„Die Schlüssel zu den Himmeln,
+damit alles,
+was du auf der Erde bindest,
+in den Himmeln gebunden sein wird,
+und alles,
+was du auf der Erde löst,
+in den Himmeln gelöst sein wird\.“
+Wie sollte es also nicht in seiner Macht stehen,
+das Sitzen zur Rechten und zur Linken zu geben,
+wenn er sagt:
+„Ich werde dir geben“?
+Siehst du,
+wie auch er selbst Petrus zu einer hohen Auffassung von ihm emporführt,
+sich offenbart und durch diese beiden Verheißungen zeigt,
+dass er der Sohn Gottes ist?
+Denn was allein Gott eigen ist,
+Sünden zu lösen,
+die Kirche in einem solchen Ansturm von Wogen unüberwindlich zu machen und einen Menschen,
+einen Fischer,
+stärker als jeden Felsen zu erweisen,
+während die ganze Welt Krieg gegen ihn führt:
+Das verheißt er selbst zu geben\.
+So sprach auch der Vater zu Jeremia und sagte,
+er werde ihn „wie eine Säule aus Bronze und wie eine Mauer“ machen;
+doch jenen nur für ein Volk,
+diesen aber überall in der Welt\.
+Gern würde ich daher die fragen,
+die die Würde des Sohnes mindern wollen:
+Welche Gaben sind größer,
+die der Vater Petrus gab,
+oder die der Sohn gab?
+Denn der Vater schenkte Petrus die Offenbarung des Sohnes;
+der Sohn aber übergab ihm die Vollmacht,
+die Offenbarung des Vaters und seine eigene überall in der Welt auszusäen,
+und legte einem sterblichen Menschen die Gewalt über alles in den Himmeln in die Hand,
+indem er ihm die Schlüssel gab\.
+Er hat die Kirche überall in der Welt ausgebreitet und stärker erwiesen als den Himmel\.
+Denn „Himmel und Erde werden vergehen;
+meine Worte aber werden nicht vergehen\.“
+Wie sollte also der geringer sein,
+der solches gegeben,
+der solches vollbracht hat?
+Und das sage ich nicht,
+um die Werke des Vaters und des Sohnes zu trennen;
+denn „alles ist durch ihn geworden,
+und ohne ihn ist auch nicht eines geworden“,
+sondern um die schamlose Zunge derer zum Schweigen zu bringen,
+die so etwas wagen\.

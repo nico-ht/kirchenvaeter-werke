@@ -7,9 +7,129 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/23-homilie-ueber-matthaeus#kapitel-42e3d12a-109e-486b-5a98-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:34152adbbb7a86c79115fa15ed515fde0d391c7b51b35d4bef4c43b90d67da17`
-
-„Richtet nicht, damit ihr nicht gerichtet werdet\.[^bible-1b7c332b-ed61-4dde-906e-5fb189388d9d]“ Was also? Darf man die Sündigenden nicht anklagen? Auch Paulus sagt ja eben dies, oder vielmehr: auch dort Christus durch Paulus, wenn er spricht: „Warum richtest du deinen Bruder? Und du, warum verachtest du deinen Bruder?[^bible-24cacf8b-4f96-4c6c-a0c3-d50fa8f3fa38]“ Und: „Wer bist du, dass du den Knecht eines anderen richtest?[^bible-677263d8-5354-4355-a3ac-76aafc3bd7ae]“ Und wiederum: „Darum richtet nichts vor der Zeit, bis der Herr kommt\.[^bible-4f1eb0b2-3141-47c5-93ff-0c6d86ccb62a]“ Wie sagt er dann an anderer Stelle: „Überführe, weise zurecht, ermahne\.[^bible-0952e233-5667-410d-b66f-3012cf9a3e47]“ Und: „Die sündigen, überführe vor allen\.[^bible-8f9c3877-b071-473a-abf2-2ad7a5e8ea10]“ Und Christus zu Petrus: „Geh hin, überführe ihn zwischen dir und ihm allein; wenn er nicht hört, nimm auch einen anderen zu dir; wenn er aber auch so nicht nachgibt, dann melde es der Kirche\.[^bible-4eaa64a9-8a0c-4667-88a1-ff4664a0cfc6]“ Und er setzte so viele ein, die zurechtweisen sollten, und nicht nur zurechtweisen, sondern auch strafen\. Denn von dem, der auf nichts davon hört, befahl er, er solle wie ein Heide und ein Zöllner sein\. Wie aber gab er ihnen auch die Schlüssel? Wenn sie nämlich nicht richten sollen, werden sie in allem ohne Vollmacht sein und die Macht zu binden und zu lösen vergeblich empfangen haben\. Und überhaupt: Wenn sich dies durchsetzt, wird alles zugrunde gehen, was in den Kirchen, in den Städten und in den Häusern besteht\. Denn wenn der Herr den Knecht nicht richtet, die Herrin die Dienerin nicht, der Vater den Sohn nicht und der Freund den Freund nicht, dann wird das Böse wachsen\. Und was sage ich: der Freund den Freund? Wenn wir unsere Feinde nicht richten, werden wir die Feindschaft niemals beenden können, sondern alles wird drunter und drüber gehen\. Was also bedeutet das Gesagte? Lasst uns genau darauf achten, damit keiner die Heilmittel des Heils und die Gesetze des Friedens für Gesetze des Umsturzes und der Verwirrung hält\. Vor allem hat er ja auch durch das Folgende denen, die Verstand haben, die Vortrefflichkeit dieses Gesetzes gezeigt, indem er sagte: „Warum siehst du den Splitter im Auge deines Bruders, den Balken aber in deinem eigenen Auge bemerkst du nicht?[^bible-6e9a0359-2163-4143-a4b3-be612b4b0977]“ Wenn dies aber vielen von den Nachlässigeren noch unklarer zu sein scheint, will ich versuchen, es von Anfang an zu erklären\. Denn hier, so scheint mir, befiehlt er nicht einfach, alle Sünden nicht zu richten, und verbietet auch nicht einfach, so etwas zu tun, sondern er spricht zu denen, die von unzähligen Übeln voll sind und andere wegen beliebiger Kleinigkeiten angreifen\. Mir scheint, dass er hier auch auf die Juden anspielt, weil sie bittere Ankläger ihrer Nächsten waren wegen kleiner und nichtiger Dinge, während sie selbst die großen Sünden begingen, ohne es zu merken\. Das hielt er ihnen auch gegen Ende vor, als er sagte: „Ihr bindet schwere und schwer zu tragende Lasten, ihr selbst aber wollt sie nicht mit dem Finger bewegen\.[^bible-d5b1af80-75ec-40c4-a58d-c3a00c1b40a1]“ Und: „Ihr verzehntet die Minze und den Dill und habt das Schwerere des Gesetzes verlassen: das Gericht, das Erbarmen und den Glauben\.[^bible-e7f84157-23b9-47c2-b593-c4c6da7cb9ab]“ An diese also scheint er sich ebenfalls zu wenden, indem er sie im Voraus von dem zurückhält, worin sie die Jünger anklagen wollten\. Denn auch wenn jene nichts Derartiges gesündigt hatten, galt es diesen doch als Verfehlung: etwa den Sabbat nicht zu halten, mit ungewaschenen Händen zu essen, sich mit Zöllnern zu Tisch zu legen\. Das sagt er auch anderswo: „Ihr seiht die Mücke aus und verschluckt das Kamel\.[^bible-7ffd8fde-89ef-4540-9077-d7afdd67d49d]“ Freilich stellt er dafür auch ein allgemeines Gesetz auf\. Auch den Korinthern befahl Paulus nicht einfach, nicht zu richten, sondern nicht über sich hinaus zu richten, und nicht wegen einer nicht anerkannten Vermutung; er befahl nicht einfach, die Sündigenden nicht zurechtzubringen\. Und auch damals wies er nicht unterschiedslos alle zurecht, sondern er tadelte Jünger, die dies gegenüber Lehrern taten, und Menschen, die selbst für unzählige Übel verantwortlich waren und solche verleumdeten, denen nichts zur Last lag\. Eben dies deutete auch Christus hier an\. Und er deutete es nicht nur an, sondern stellte ihnen auch große Furcht vor Augen und eine unausweichliche Strafe\. Denn er sagt: „Mit dem Gericht, mit dem ihr richtet, werdet ihr gerichtet werden\.[^bible-e6c64eb0-68d4-4cfe-a520-c5116129f699]“ Nicht jenen verurteilst du, sagt er, sondern dich selbst; du machst dir den Richterstuhl furchtbar und die Rechenschaft streng\. Wie also bei der Vergebung der Sünden der Anfang bei uns liegt, so wird auch bei diesem Gericht das Maß der Verurteilung von uns festgesetzt\. Denn man darf nicht schmähen und nicht angreifen, sondern zurechtweisen; nicht schlechtmachen, sondern beraten; nicht in Raserei über jemanden herfallen, sondern mit Liebe zurechtbringen\. Denn nicht ihn, sondern dich selbst lieferst du der äußersten Strafe aus, wenn du ihn nicht schonst, sobald du über seine Verfehlungen urteilen musst\.
+„Richtet nicht,
+damit ihr nicht gerichtet werdet\.[^bible-1b7c332b-ed61-4dde-906e-5fb189388d9d]“ Was also?
+Darf man die Sündigenden nicht anklagen?
+Auch Paulus sagt ja eben dies,
+oder vielmehr:
+auch dort Christus durch Paulus,
+wenn er spricht:
+„Warum richtest du deinen Bruder?
+Und du,
+warum verachtest du deinen Bruder?[^bible-24cacf8b-4f96-4c6c-a0c3-d50fa8f3fa38]“ Und:
+„Wer bist du,
+dass du den Knecht eines anderen richtest?[^bible-677263d8-5354-4355-a3ac-76aafc3bd7ae]“ Und wiederum:
+„Darum richtet nichts vor der Zeit,
+bis der Herr kommt\.[^bible-4f1eb0b2-3141-47c5-93ff-0c6d86ccb62a]“ Wie sagt er dann an anderer Stelle:
+„Überführe,
+weise zurecht,
+ermahne\.[^bible-0952e233-5667-410d-b66f-3012cf9a3e47]“ Und:
+„Die sündigen,
+überführe vor allen\.[^bible-8f9c3877-b071-473a-abf2-2ad7a5e8ea10]“ Und Christus zu Petrus:
+„Geh hin,
+überführe ihn zwischen dir und ihm allein;
+wenn er nicht hört,
+nimm auch einen anderen zu dir;
+wenn er aber auch so nicht nachgibt,
+dann melde es der Kirche\.[^bible-4eaa64a9-8a0c-4667-88a1-ff4664a0cfc6]“ Und er setzte so viele ein,
+die zurechtweisen sollten,
+und nicht nur zurechtweisen,
+sondern auch strafen\.
+Denn von dem,
+der auf nichts davon hört,
+befahl er,
+er solle wie ein Heide und ein Zöllner sein\.
+Wie aber gab er ihnen auch die Schlüssel?
+Wenn sie nämlich nicht richten sollen,
+werden sie in allem ohne Vollmacht sein und die Macht zu binden und zu lösen vergeblich empfangen haben\.
+Und überhaupt:
+Wenn sich dies durchsetzt,
+wird alles zugrunde gehen,
+was in den Kirchen,
+in den Städten und in den Häusern besteht\.
+Denn wenn der Herr den Knecht nicht richtet,
+die Herrin die Dienerin nicht,
+der Vater den Sohn nicht und der Freund den Freund nicht,
+dann wird das Böse wachsen\.
+Und was sage ich:
+der Freund den Freund?
+Wenn wir unsere Feinde nicht richten,
+werden wir die Feindschaft niemals beenden können,
+sondern alles wird drunter und drüber gehen\.
+Was also bedeutet das Gesagte?
+Lasst uns genau darauf achten,
+damit keiner die Heilmittel des Heils und die Gesetze des Friedens für Gesetze des Umsturzes und der Verwirrung hält\.
+Vor allem hat er ja auch durch das Folgende denen,
+die Verstand haben,
+die Vortrefflichkeit dieses Gesetzes gezeigt,
+indem er sagte:
+„Warum siehst du den Splitter im Auge deines Bruders,
+den Balken aber in deinem eigenen Auge bemerkst du nicht?[^bible-6e9a0359-2163-4143-a4b3-be612b4b0977]“ Wenn dies aber vielen von den Nachlässigeren noch unklarer zu sein scheint,
+will ich versuchen,
+es von Anfang an zu erklären\.
+Denn hier,
+so scheint mir,
+befiehlt er nicht einfach,
+alle Sünden nicht zu richten,
+und verbietet auch nicht einfach,
+so etwas zu tun,
+sondern er spricht zu denen,
+die von unzähligen Übeln voll sind und andere wegen beliebiger Kleinigkeiten angreifen\.
+Mir scheint,
+dass er hier auch auf die Juden anspielt,
+weil sie bittere Ankläger ihrer Nächsten waren wegen kleiner und nichtiger Dinge,
+während sie selbst die großen Sünden begingen,
+ohne es zu merken\.
+Das hielt er ihnen auch gegen Ende vor,
+als er sagte:
+„Ihr bindet schwere und schwer zu tragende Lasten,
+ihr selbst aber wollt sie nicht mit dem Finger bewegen\.[^bible-d5b1af80-75ec-40c4-a58d-c3a00c1b40a1]“ Und:
+„Ihr verzehntet die Minze und den Dill und habt das Schwerere des Gesetzes verlassen:
+das Gericht,
+das Erbarmen und den Glauben\.[^bible-e7f84157-23b9-47c2-b593-c4c6da7cb9ab]“ An diese also scheint er sich ebenfalls zu wenden,
+indem er sie im Voraus von dem zurückhält,
+worin sie die Jünger anklagen wollten\.
+Denn auch wenn jene nichts Derartiges gesündigt hatten,
+galt es diesen doch als Verfehlung:
+etwa den Sabbat nicht zu halten,
+mit ungewaschenen Händen zu essen,
+sich mit Zöllnern zu Tisch zu legen\.
+Das sagt er auch anderswo:
+„Ihr seiht die Mücke aus und verschluckt das Kamel\.[^bible-7ffd8fde-89ef-4540-9077-d7afdd67d49d]“ Freilich stellt er dafür auch ein allgemeines Gesetz auf\.
+Auch den Korinthern befahl Paulus nicht einfach,
+nicht zu richten,
+sondern nicht über sich hinaus zu richten,
+und nicht wegen einer nicht anerkannten Vermutung;
+er befahl nicht einfach,
+die Sündigenden nicht zurechtzubringen\.
+Und auch damals wies er nicht unterschiedslos alle zurecht,
+sondern er tadelte Jünger,
+die dies gegenüber Lehrern taten,
+und Menschen,
+die selbst für unzählige Übel verantwortlich waren und solche verleumdeten,
+denen nichts zur Last lag\.
+Eben dies deutete auch Christus hier an\.
+Und er deutete es nicht nur an,
+sondern stellte ihnen auch große Furcht vor Augen und eine unausweichliche Strafe\.
+Denn er sagt:
+„Mit dem Gericht,
+mit dem ihr richtet,
+werdet ihr gerichtet werden\.[^bible-e6c64eb0-68d4-4cfe-a520-c5116129f699]“ Nicht jenen verurteilst du,
+sagt er,
+sondern dich selbst;
+du machst dir den Richterstuhl furchtbar und die Rechenschaft streng\.
+Wie also bei der Vergebung der Sünden der Anfang bei uns liegt,
+so wird auch bei diesem Gericht das Maß der Verurteilung von uns festgesetzt\.
+Denn man darf nicht schmähen und nicht angreifen,
+sondern zurechtweisen;
+nicht schlechtmachen,
+sondern beraten;
+nicht in Raserei über jemanden herfallen,
+sondern mit Liebe zurechtbringen\.
+Denn nicht ihn,
+sondern dich selbst lieferst du der äußersten Strafe aus,
+wenn du ihn nicht schonst,
+sobald du über seine Verfehlungen urteilen musst\.
 
 ## Bibelverweise
 

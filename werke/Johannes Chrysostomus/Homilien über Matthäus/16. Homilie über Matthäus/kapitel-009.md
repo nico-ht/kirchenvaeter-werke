@@ -7,9 +7,148 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/16-homilie-ueber-matthaeus#kapitel-88b55543-891b-430f-5a70-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5cb8217cdc56bea0efe973bc36b2a58e08a9f4f52280f94fe2042c4d09798238`
-
-Und er bleibt nicht nur bei dem stehen, was schon gesagt ist, sondern fügt noch anderes hinzu, Größeres als das Gesagte; daran zeigt er, wie wichtig ihm diese Liebe ist\. Denn nachdem er mit Gerichtshof, Gericht und Gehenna gedroht hatte, fügte er wiederum anderes hinzu, das zum Vorherigen passt, und sagte: „Wenn du deine Gabe zum Altar bringst und dich dort daran erinnerst, dass dein Bruder etwas gegen dich hat, dann lass deine Gabe dort vor dem Altar liegen; geh zuerst hin und versöhne dich mit deinem Bruder, und dann komm und bring deine Gabe dar\.[^bible-2a9c0d66-40b9-46bd-9ad1-32f5005ac1c6]“ Welche Güte\! Welche überströmende Menschenliebe\! Um der Liebe zum Nächsten willen setzt er die Ehre zurück, die ihm selbst gebührt\. Damit zeigt er: Auch das Frühere, womit er drohte, drohte er nicht aus irgendeiner Abneigung und nicht aus Verlangen nach Strafe, sondern aus großer, herzlicher Fürsorge\. Denn was könnte milder sein als diese Worte? „Mein Gottesdienst soll unterbrochen werden“, sagt er, „damit deine Liebe bleibt; denn auch das ist Opfer: die Versöhnung mit dem Bruder\.“ Darum sagte er nicht: „Nach dem Darbringen“ oder: „Bevor du darbringst“, sondern während die Gabe selbst daliegt und das Opfer bereits begonnen hat, schickt er ihn los, damit er sich mit seinem Bruder versöhnt\. Er soll weder die bereitliegenden Gaben wieder zusammennehmen noch vor ihrer Niederlegung gehen; vielmehr befiehlt er ihm, dorthin zu laufen, während die Gabe mitten daliegt\. Weshalb befiehlt er, das so zu tun, und warum? Zweierlei, so scheint mir, deutet er mit diesen Worten an und begründet es zugleich: Zum einen will er, wie gesagt, zeigen, dass er die Liebe hoch ehrt und sie für das größte Opfer hält und ohne sie auch jenes andere Opfer nicht annimmt; zum anderen legt er die unausweichliche Notwendigkeit der Versöhnung auf\. Denn wer den Befehl erhalten hat, nicht eher darzubringen, bis er versöhnt ist, wird, wenn nicht aus Liebe zum Nächsten, dann doch wenigstens deshalb, damit die Gabe nicht unvollendet daliegt, eilig zu dem Betrübten laufen und die Feindschaft auflösen\. Darum hat er alles mit größtmöglichem Nachdruck gesagt, um ihn zu schrecken und wachzurütteln\. Denn nachdem er gesagt hatte: „Lass deine Gabe liegen“, blieb er nicht dabei stehen, sondern fügte hinzu: „vor dem Altar“, und stürzt ihn auch durch den Ort wieder in Schauder, und: „geh hin“\. Und er sagte nicht einfach: „Geh hin“, sondern fügte hinzu: „zuerst“, und: „dann komm und bring deine Gabe dar\.“ Durch all das macht er deutlich, dass an diesem Tisch Menschen, die gegeneinander in Feindschaft stehen, nicht zugelassen werden\. Hören sollen es die Eingeweihten, alle, die mit Feindschaft hinzutreten; hören sollen es auch die Nicht\-Eingeweihten, denn auch sie geht dieses Wort in gewisser Weise an\. Denn auch sie bringen Gabe und Opfer dar, ich meine Gebet und Almosen\. Dass auch dies ein Opfer ist, höre, was der Prophet sagt: „Ein Opfer des Lobes wird mich verherrlichen\.[^bible-d2866819-9af2-473e-867b-a2da9367ed3b]“ Und wieder: „Opfere Gott ein Opfer des Lobes\.[^bible-d1c1803a-62f5-4082-a728-524aff53100c]“ Und: „Das Erheben meiner Hände sei ein Abendopfer\.[^bible-dc75450b-214c-428a-9923-0b042d981526]“ Wenn du also auch ein Gebet mit einer solchen Gesinnung darbringst, ist es besser, das Gebet zu lassen, zur Versöhnung mit dem Bruder zu gehen und dann das Gebet darzubringen\. Denn dazu ist alles geschehen; dazu ist auch Gott Mensch geworden und hat all jenes auf sich genommen, damit er uns zusammenführt\. Hier nun schickt er den, der Unrecht getan hat, zu dem, dem Unrecht geschehen ist; im Gebet aber führt er den, dem Unrecht geschehen ist, zu dem, der Unrecht getan hat, und versöhnt ihn\. Denn dort sagt er: „Vergebt den Menschen ihre Schulden\.[^bible-96ee1d7d-966c-4bb6-9121-fcf6a5a4ae40]“ Hier aber: „Wenn er etwas gegen dich hat, geh zu ihm hin\.[^bible-2a9c0d66-40b9-46bd-9ad1-32f5005ac1c6]“ Vielmehr scheint mir auch hier der Geschädigte ausgesandt zu werden; deshalb sagte er auch nicht: „Versöhne dich selbst mit deinem Bruder“, sondern: „Lass dich versöhnen\.“ Dem Anschein nach gilt das Gesagte zwar dem, der den anderen betrübt hat; im Ganzen aber gilt es dem, der betrübt wurde\. Denn wenn du dich mit jenem versöhnst, sagt er, wirst du durch deine Liebe zu ihm auch mich gnädig haben und mit großer Freimütigkeit das Opfer darbringen können\. Wenn du aber immer noch innerlich brennst, bedenke: Auch ich befehle gern, dass das Meine geringgeachtet wird, damit ihr Freunde werdet; und das soll dir Trost gegen deinen Zorn sein\. Und er sagte nicht: „Wenn dir großes Unrecht geschehen ist, dann lass dich versöhnen“, sondern: „Auch wenn er nur irgendetwas gegen dich hat\.“ Und er fügte nicht hinzu: „ob zu Recht oder zu Unrecht“, sondern schlicht: „Wenn er etwas gegen dich hat\.“ Denn selbst wenn es zu Recht ist, darf man auch dann die Feindschaft nicht verschärfen; denn auch Christus zürnte uns zu Recht, und doch hat er sich für uns zur Schlachtung dahingegeben und jene Verfehlungen nicht angerechnet\.
+Und er bleibt nicht nur bei dem stehen,
+was schon gesagt ist,
+sondern fügt noch anderes hinzu,
+Größeres als das Gesagte;
+daran zeigt er,
+wie wichtig ihm diese Liebe ist\.
+Denn nachdem er mit Gerichtshof,
+Gericht und Gehenna gedroht hatte,
+fügte er wiederum anderes hinzu,
+das zum Vorherigen passt,
+und sagte:
+„Wenn du deine Gabe zum Altar bringst und dich dort daran erinnerst,
+dass dein Bruder etwas gegen dich hat,
+dann lass deine Gabe dort vor dem Altar liegen;
+geh zuerst hin und versöhne dich mit deinem Bruder,
+und dann komm und bring deine Gabe dar\.[^bible-2a9c0d66-40b9-46bd-9ad1-32f5005ac1c6]“ Welche Güte\!
+Welche überströmende Menschenliebe\!
+Um der Liebe zum Nächsten willen setzt er die Ehre zurück,
+die ihm selbst gebührt\.
+Damit zeigt er:
+Auch das Frühere,
+womit er drohte,
+drohte er nicht aus irgendeiner Abneigung und nicht aus Verlangen nach Strafe,
+sondern aus großer,
+herzlicher Fürsorge\.
+Denn was könnte milder sein als diese Worte?
+„Mein Gottesdienst soll unterbrochen werden“,
+sagt er,
+„damit deine Liebe bleibt;
+denn auch das ist Opfer:
+die Versöhnung mit dem Bruder\.“
+Darum sagte er nicht:
+„Nach dem Darbringen“ oder:
+„Bevor du darbringst“,
+sondern während die Gabe selbst daliegt und das Opfer bereits begonnen hat,
+schickt er ihn los,
+damit er sich mit seinem Bruder versöhnt\.
+Er soll weder die bereitliegenden Gaben wieder zusammennehmen noch vor ihrer Niederlegung gehen;
+vielmehr befiehlt er ihm,
+dorthin zu laufen,
+während die Gabe mitten daliegt\.
+Weshalb befiehlt er,
+das so zu tun,
+und warum?
+Zweierlei,
+so scheint mir,
+deutet er mit diesen Worten an und begründet es zugleich:
+Zum einen will er,
+wie gesagt,
+zeigen,
+dass er die Liebe hoch ehrt und sie für das größte Opfer hält und ohne sie auch jenes andere Opfer nicht annimmt;
+zum anderen legt er die unausweichliche Notwendigkeit der Versöhnung auf\.
+Denn wer den Befehl erhalten hat,
+nicht eher darzubringen,
+bis er versöhnt ist,
+wird,
+wenn nicht aus Liebe zum Nächsten,
+dann doch wenigstens deshalb,
+damit die Gabe nicht unvollendet daliegt,
+eilig zu dem Betrübten laufen und die Feindschaft auflösen\.
+Darum hat er alles mit größtmöglichem Nachdruck gesagt,
+um ihn zu schrecken und wachzurütteln\.
+Denn nachdem er gesagt hatte:
+„Lass deine Gabe liegen“,
+blieb er nicht dabei stehen,
+sondern fügte hinzu:
+„vor dem Altar“,
+und stürzt ihn auch durch den Ort wieder in Schauder,
+und:
+„geh hin“\.
+Und er sagte nicht einfach:
+„Geh hin“,
+sondern fügte hinzu:
+„zuerst“,
+und:
+„dann komm und bring deine Gabe dar\.“
+Durch all das macht er deutlich,
+dass an diesem Tisch Menschen,
+die gegeneinander in Feindschaft stehen,
+nicht zugelassen werden\.
+Hören sollen es die Eingeweihten,
+alle,
+die mit Feindschaft hinzutreten;
+hören sollen es auch die Nicht\-Eingeweihten,
+denn auch sie geht dieses Wort in gewisser Weise an\.
+Denn auch sie bringen Gabe und Opfer dar,
+ich meine Gebet und Almosen\.
+Dass auch dies ein Opfer ist,
+höre,
+was der Prophet sagt:
+„Ein Opfer des Lobes wird mich verherrlichen\.[^bible-d2866819-9af2-473e-867b-a2da9367ed3b]“ Und wieder:
+„Opfere Gott ein Opfer des Lobes\.[^bible-d1c1803a-62f5-4082-a728-524aff53100c]“ Und:
+„Das Erheben meiner Hände sei ein Abendopfer\.[^bible-dc75450b-214c-428a-9923-0b042d981526]“ Wenn du also auch ein Gebet mit einer solchen Gesinnung darbringst,
+ist es besser,
+das Gebet zu lassen,
+zur Versöhnung mit dem Bruder zu gehen und dann das Gebet darzubringen\.
+Denn dazu ist alles geschehen;
+dazu ist auch Gott Mensch geworden und hat all jenes auf sich genommen,
+damit er uns zusammenführt\.
+Hier nun schickt er den,
+der Unrecht getan hat,
+zu dem,
+dem Unrecht geschehen ist;
+im Gebet aber führt er den,
+dem Unrecht geschehen ist,
+zu dem,
+der Unrecht getan hat,
+und versöhnt ihn\.
+Denn dort sagt er:
+„Vergebt den Menschen ihre Schulden\.[^bible-96ee1d7d-966c-4bb6-9121-fcf6a5a4ae40]“ Hier aber:
+„Wenn er etwas gegen dich hat,
+geh zu ihm hin\.[^bible-2a9c0d66-40b9-46bd-9ad1-32f5005ac1c6]“ Vielmehr scheint mir auch hier der Geschädigte ausgesandt zu werden;
+deshalb sagte er auch nicht:
+„Versöhne dich selbst mit deinem Bruder“,
+sondern:
+„Lass dich versöhnen\.“
+Dem Anschein nach gilt das Gesagte zwar dem,
+der den anderen betrübt hat;
+im Ganzen aber gilt es dem,
+der betrübt wurde\.
+Denn wenn du dich mit jenem versöhnst,
+sagt er,
+wirst du durch deine Liebe zu ihm auch mich gnädig haben und mit großer Freimütigkeit das Opfer darbringen können\.
+Wenn du aber immer noch innerlich brennst,
+bedenke:
+Auch ich befehle gern,
+dass das Meine geringgeachtet wird,
+damit ihr Freunde werdet;
+und das soll dir Trost gegen deinen Zorn sein\.
+Und er sagte nicht:
+„Wenn dir großes Unrecht geschehen ist,
+dann lass dich versöhnen“,
+sondern:
+„Auch wenn er nur irgendetwas gegen dich hat\.“
+Und er fügte nicht hinzu:
+„ob zu Recht oder zu Unrecht“,
+sondern schlicht:
+„Wenn er etwas gegen dich hat\.“
+Denn selbst wenn es zu Recht ist,
+darf man auch dann die Feindschaft nicht verschärfen;
+denn auch Christus zürnte uns zu Recht,
+und doch hat er sich für uns zur Schlachtung dahingegeben und jene Verfehlungen nicht angerechnet\.
 
 ## Bibelverweise
 

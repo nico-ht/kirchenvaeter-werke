@@ -7,18 +7,507 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-1#kapitel-f4f3e6db-5863-4819-c865-08dd5a4d0198).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:1caec19322f75e96b007961726dc31b41af4163f56c864eeb45b44c4985337a2`
+Die Mehrheit ging zufrieden auseinander,
+weil ihr die Eintracht der Brüder gefiel\.
+Doch die Zwietracht kehrte zu den Brüdern zurück,
+und zwar umso schwerer,
+je höher die Stellung derer war,
+die stärker beneidet wurden und denen größere Macht gegeben war,
+Schaden zuzufügen\.
+Die Söhne Mariammes kränkte es,
+dass der Sohn einer Frau aus dem Volk,
+die nichts von der Herkunft königlicher Macht wusste,
+ihnen gleichgestellt worden war\.
+Antipater dagegen verachtete die gesonderte Erwartung königlicher Macht für sich und seine Brüder und beneidete seine Brüder,
+für die vor den Ersten kaum noch etwas zurückbehalten war\.
+Doch er verhüllte und verschleierte sich,
+indem er statt Abneigung Zuneigung vorspielte;
+sie aber suchten nicht einmal in ihren eigenen Worten irgendeinen feindseligen Sinn,
+mit einer Zunge,
+die rasch war und verschwenderisch Geheimnisse preisgab\.
+Was immer sie gesagt hatten,
+lag sogleich vor Antipater;
+vieles sogar,
+was sie nicht gesagt hatten,
+wurde erdichtet\.
+Der Mittelsmann fügte vieles hinzu und vermehrte den Stoff noch\.
+Urheber alles dessen,
+wodurch die Brüder angegriffen wurden,
+war Antipater,
+dessen Leben nichts anderes war als ein Sammelplatz der Verschlagenheit,
+eine Bühne der Bosheit,
+das Planen von Verbrechen,
+der Dienst an Ärgernissen\.
+Er brachte Zuträger vor,
+bestach Zeugen,
+stellte sich als Verteidiger dar,
+als trüge er im Theater die Rolle eines Bruders umher,
+damit er die leichteren Anschuldigungen ausräumte,
+die schwereren aber zugab\.
+Dadurch täuschte er ihren Vater umso mehr und reizte ihn heftiger gegen seine Brüder auf\.
+Besonders häufte er mit listigem Hass den Vorwurf an,
+ein Vatermord werde vorbereitet,
+damit das Königreich ergriffen werde;
+gerade dies vermuten Könige aus Furcht vor Gefahr eher\.
+Damit dies dem König aber nicht weniger glaubhaft erschiene,
+falls niemand widerspräche,
+versuchte er zuerst selbst,
+es zu widerlegen;
+dann wollte er den Eindruck erwecken,
+durch die offenkundigen Beweise der Anschuldigungen gezwungen zu werden\.
+So sollte,
+nachdem die Sache von beiden Seiten vorgetragen war und als fehle nichts mehr zu einem Urteil,
+der Vater noch stärker erregt werden,
+wie gegen bereits überführte Söhne\.
+Denn nichts verlieh den Behauptungen mehr Glaubwürdigkeit,
+als dass Antipater für den Verteidiger seiner Brüder gehalten wurde\.
+Durch diese Arglist gewann er die Gunst der meisten und neigte das Herz seines Vaters zu sich\.
+Was den Brüdern täglich an väterlicher Zuneigung entzogen wurde,
+ging auf ihn über\.
 
-Die Mehrheit ging zufrieden auseinander, weil ihr die Eintracht der Brüder gefiel\. Doch die Zwietracht kehrte zu den Brüdern zurück, und zwar umso schwerer, je höher die Stellung derer war, die stärker beneidet wurden und denen größere Macht gegeben war, Schaden zuzufügen\. Die Söhne Mariammes kränkte es, dass der Sohn einer Frau aus dem Volk, die nichts von der Herkunft königlicher Macht wusste, ihnen gleichgestellt worden war\. Antipater dagegen verachtete die gesonderte Erwartung königlicher Macht für sich und seine Brüder und beneidete seine Brüder, für die vor den Ersten kaum noch etwas zurückbehalten war\. Doch er verhüllte und verschleierte sich, indem er statt Abneigung Zuneigung vorspielte; sie aber suchten nicht einmal in ihren eigenen Worten irgendeinen feindseligen Sinn, mit einer Zunge, die rasch war und verschwenderisch Geheimnisse preisgab\. Was immer sie gesagt hatten, lag sogleich vor Antipater; vieles sogar, was sie nicht gesagt hatten, wurde erdichtet\. Der Mittelsmann fügte vieles hinzu und vermehrte den Stoff noch\. Urheber alles dessen, wodurch die Brüder angegriffen wurden, war Antipater, dessen Leben nichts anderes war als ein Sammelplatz der Verschlagenheit, eine Bühne der Bosheit, das Planen von Verbrechen, der Dienst an Ärgernissen\. Er brachte Zuträger vor, bestach Zeugen, stellte sich als Verteidiger dar, als trüge er im Theater die Rolle eines Bruders umher, damit er die leichteren Anschuldigungen ausräumte, die schwereren aber zugab\. Dadurch täuschte er ihren Vater umso mehr und reizte ihn heftiger gegen seine Brüder auf\. Besonders häufte er mit listigem Hass den Vorwurf an, ein Vatermord werde vorbereitet, damit das Königreich ergriffen werde; gerade dies vermuten Könige aus Furcht vor Gefahr eher\. Damit dies dem König aber nicht weniger glaubhaft erschiene, falls niemand widerspräche, versuchte er zuerst selbst, es zu widerlegen; dann wollte er den Eindruck erwecken, durch die offenkundigen Beweise der Anschuldigungen gezwungen zu werden\. So sollte, nachdem die Sache von beiden Seiten vorgetragen war und als fehle nichts mehr zu einem Urteil, der Vater noch stärker erregt werden, wie gegen bereits überführte Söhne\. Denn nichts verlieh den Behauptungen mehr Glaubwürdigkeit, als dass Antipater für den Verteidiger seiner Brüder gehalten wurde\. Durch diese Arglist gewann er die Gunst der meisten und neigte das Herz seines Vaters zu sich\. Was den Brüdern täglich an väterlicher Zuneigung entzogen wurde, ging auf ihn über\.
+Er zog die Freunde und Verwandten des Königs von ihnen ab und entfremdete besonders Feroras,
+den Bruder des Königs,
+und Salome,
+die Schwester des Königs,
+den verschwenderischen Söhnen,
+sodass sie diese nicht nur nicht verteidigten,
+sondern sie sogar angriffen und hassten\.
+Glafyra,
+die Frau Alexanders,
+lieferte neuen Stoff für den Hass\.
+Nach Frauenart und überaus herrisch gegenüber den Anwesenden hatte sie begonnen,
+sich in überheblichem Stolz zu rühmen,
+weil sie durch den Ruhm ihrer Abstammung alle anderen übertraf\.
+So spielte sie sich auf,
+als wäre sie die Herrin aller am königlichen Hof,
+und pflegte zu prahlen,
+ihr Vater und ihr Großvater seien Könige gewesen;
+besonders Darius,
+der Sohn des Hydaspes,
+sei die höchste Ehre der Linie ihrer Mutter\.
+Zugleich kränkte sie Salome,
+die Schwester des Königs,
+oder Dosis,
+seine Frau,
+mit Schmähungen über ihre niedrige Herkunft\.
+Das wurde ihnen zum Anlass des Zorns und des Hasses gegen sie\.
+Ebenso reizte sie die übrigen Frauen,
+die dem König mehr wegen ihrer Schönheit als wegen des Adels ihrer Geburt verbunden waren\.
+Denn Herod freute sich sogar über die Gewohnheit der Juden mehr,
+als es bei Königen üblich ist,
+gleichsam über eine gewisse Freiheit des Irrtums;
+sie hielten die Sitten ihrer Vorfahren für eine Verhüllung ihrer eigenen Fehler\.
+Alexander ertrug daher den Hochmut seiner Frau nur widerwillig\.
+Auch Aristobolus machte seiner Frau mit denselben Worten Vorwürfe wie Glaphyra:
+Sie sei von niedrigem Stand und passe nicht zu königlichen Nachkommen,
+sie sei Glaphyra nicht ebenbürtig;
+es sei für ihn eine Schande,
+dass sein Bruder eine Frau aus königlichem Geschlecht gewonnen habe,
+während er sich durch die Verbindung mit einer gewöhnlichen Frau erniedrigt habe\.
+Rasend vor Zorn erschreckte sie mit ihren Vorwürfen ihre eigenen Verwandten\.
+Von diesen Beschimpfungen getroffen,
+trug die Frau des Aristobolus sie unter Tränen zu ihrer Mutter\.
+Salome aber meldete König Herod,
+was sie durch ihre Tochter erfahren hatte\.
+Er hielt es für besser,
+seine Söhne zu ermahnen,
+als sie zu vernichten;
+er rief sie zu sich,
+schreckte sie teils mit königlicher Strenge,
+teils ermahnte er sie mit väterlicher Zuneigung,
+ihren Bruder zu lieben und sich nicht wie Feinde von ihm zu trennen\.
+Für frühere Vergehen bot er Verzeihung an,
+für künftige drohte er Strafe\.
+Sie aber klagten,
+sie würden mit vielen bereits erledigten Anschuldigungen angegriffen,
+flehten ihn an und versprachen zugleich,
+sie würden durch ihr künftiges Handeln ihrer eigenen Verteidigung Glauben verschaffen;
+nur solle ihr Vater auf ihre Taten sehen und Gehörtes nicht vorschnell glauben\.
+Denn auch künftig würde es ihnen gewiss nicht an unehrlichen Anklägern fehlen,
+solange er als leichtgläubiger Hörer zur Verfügung stehe\.
+Durch diese und ähnliche Worte wurde der Vater milder gestimmt\.
+Zwar schoben sie die drohende Furcht für eine Zeit beiseite,
+doch häuften sie Kummer auf Kummer,
+weil sie sahen,
+dass sie von Feroras und Salome angegriffen wurden,
+von denen der eine ihr Onkel väterlicherseits,
+die andere die Schwester ihres Vaters war;
+gerade von denen,
+die ihnen Schutz hätten sein sollen,
+wurden sie hintergangen\.
 
-Er zog die Freunde und Verwandten des Königs von ihnen ab und entfremdete besonders Feroras, den Bruder des Königs, und Salome, die Schwester des Königs, den verschwenderischen Söhnen, sodass sie diese nicht nur nicht verteidigten, sondern sie sogar angriffen und hassten\. Glafyra, die Frau Alexanders, lieferte neuen Stoff für den Hass\. Nach Frauenart und überaus herrisch gegenüber den Anwesenden hatte sie begonnen, sich in überheblichem Stolz zu rühmen, weil sie durch den Ruhm ihrer Abstammung alle anderen übertraf\. So spielte sie sich auf, als wäre sie die Herrin aller am königlichen Hof, und pflegte zu prahlen, ihr Vater und ihr Großvater seien Könige gewesen; besonders Darius, der Sohn des Hydaspes, sei die höchste Ehre der Linie ihrer Mutter\. Zugleich kränkte sie Salome, die Schwester des Königs, oder Dosis, seine Frau, mit Schmähungen über ihre niedrige Herkunft\. Das wurde ihnen zum Anlass des Zorns und des Hasses gegen sie\. Ebenso reizte sie die übrigen Frauen, die dem König mehr wegen ihrer Schönheit als wegen des Adels ihrer Geburt verbunden waren\. Denn Herod freute sich sogar über die Gewohnheit der Juden mehr, als es bei Königen üblich ist, gleichsam über eine gewisse Freiheit des Irrtums; sie hielten die Sitten ihrer Vorfahren für eine Verhüllung ihrer eigenen Fehler\. Alexander ertrug daher den Hochmut seiner Frau nur widerwillig\. Auch Aristobolus machte seiner Frau mit denselben Worten Vorwürfe wie Glaphyra: Sie sei von niedrigem Stand und passe nicht zu königlichen Nachkommen, sie sei Glaphyra nicht ebenbürtig; es sei für ihn eine Schande, dass sein Bruder eine Frau aus königlichem Geschlecht gewonnen habe, während er sich durch die Verbindung mit einer gewöhnlichen Frau erniedrigt habe\. Rasend vor Zorn erschreckte sie mit ihren Vorwürfen ihre eigenen Verwandten\. Von diesen Beschimpfungen getroffen, trug die Frau des Aristobolus sie unter Tränen zu ihrer Mutter\. Salome aber meldete König Herod, was sie durch ihre Tochter erfahren hatte\. Er hielt es für besser, seine Söhne zu ermahnen, als sie zu vernichten; er rief sie zu sich, schreckte sie teils mit königlicher Strenge, teils ermahnte er sie mit väterlicher Zuneigung, ihren Bruder zu lieben und sich nicht wie Feinde von ihm zu trennen\. Für frühere Vergehen bot er Verzeihung an, für künftige drohte er Strafe\. Sie aber klagten, sie würden mit vielen bereits erledigten Anschuldigungen angegriffen, flehten ihn an und versprachen zugleich, sie würden durch ihr künftiges Handeln ihrer eigenen Verteidigung Glauben verschaffen; nur solle ihr Vater auf ihre Taten sehen und Gehörtes nicht vorschnell glauben\. Denn auch künftig würde es ihnen gewiss nicht an unehrlichen Anklägern fehlen, solange er als leichtgläubiger Hörer zur Verfügung stehe\. Durch diese und ähnliche Worte wurde der Vater milder gestimmt\. Zwar schoben sie die drohende Furcht für eine Zeit beiseite, doch häuften sie Kummer auf Kummer, weil sie sahen, dass sie von Feroras und Salome angegriffen wurden, von denen der eine ihr Onkel väterlicherseits, die andere die Schwester ihres Vaters war; gerade von denen, die ihnen Schutz hätten sein sollen, wurden sie hintergangen\.
+Dazu kam große Furcht,
+weil sie bei ihrem Bruder großen Einfluss hatten\.
+Denn abgesehen von der Krone teilte Herodes beinahe die ganze Herrschaft über das Reich mit seinem Bruder\.
+Beiden,
+besonders aber Feroras,
+hatte er außergewöhnlichen Reichtum zugewandt\.
+Ja,
+er hatte ihm außer jenem Gebiet,
+das jenseits des Euphrat lag und seine Einkünfte mehrte,
+eine jährliche Zahlung von hundert Talenten festgesetzt\.
+Auch war er auf Bitten des Herodes von Caesar zum Tetrarchen ernannt worden\.
+Überdies war er mit einer Verwandten der königlichen Gemahlin beschenkt worden,
+denn er hatte die Schwester der königlichen Gemahlin zur Ehefrau erhalten\.
+Nach deren Tod wurde ihm die älteste Tochter des Königs verlobt,
+und er gewann an Gunst als Schwiegersohn,
+nur dass er,
+von Liebe zu einer Sklavin gefangen,
+die Verbindung mit der königlichen Jungfrau zurückwies\.
+Über diese Kränkung erzürnt,
+gab Herodes seine Tochter jenem Mann,
+der später im Partherkrieg getötet wurde\.
+Feroras aber wurde vor ihm angeklagt,
+er habe seinem Bruder mit Gift nach dem Leben getrachtet\.
+Dieser Verdacht hatte ihn nicht einmal verschont,
+als seine Frau noch lebte\.
+Nachdem zuerst viele und zuletzt seine Freunde zur Befragung gezwungen worden waren,
+sprach Herodes ihn,
+da er von dem vorgeworfenen Verbrechen frei befunden wurde,
+bereitwillig frei und gewährte sogar Verzeihung für die Flucht,
+die nach dem getroffenen Plan erfolgen sollte:
+Wenn die Sklavin,
+die er liebte,
+ergriffen würde,
+sollte er zu den Parthern fliehen;
+durch die Geständnisse seiner Hausgenossen wurde er entlarvt\.
+Alexander hatte eine gewisse Atempause genossen,
+während Feroras angegriffen wurde und er selbst Salome angriff,
+weil sie Sylleus,
+dem Sohn des Obaedas,
+der Stellvertreter des Königs von Arabien war und Herodes sehr feindlich gesinnt war,
+die Ehe versprochen hatte\.
+Als aber die Anklage gegen beide nachließ,
+fiel der Sturm des Hauses über Alexander her und umgab ihn mit großer Gefahr\.
+Denn Antipater wütete mit der Wildheit einer Seuche und wie der Sturm des ganzen Hofes;
+auf jede Weise griff er seinen Bruder an,
+gestützt auf seine Verwandten,
+sodass sein Vater,
+in seiner nüchternen Besinnung erschüttert,
+mit lauter Stimme ausrief,
+Alexander stehe mit dem Schwert über ihm\.
+Eine Szene dieser Art war ans Licht gekommen:
+Alexander habe drei Eunuchen,
+von denen einer gewöhnlich die Becher des Königs betreute,
+ein anderer die Speise zum Mahl hereinbrachte und der dritte das königliche Lager bewachte und niemals wegging,
+wenn Herodes sich im Bett niedergelegt hatte,
+mit reichen Geschenken für seine Gunst und zur Teilnahme an schändlichen Taten gewonnen\.
+Als dies unter Folter erzwungen vorgebracht wurde,
+enthüllten die Eunuchen die Ausschweifung obszöner Begierde\.
+Denn da sie die versprochenen Liebestränke nicht verbergen konnten,
+berichteten sie,
+mit welchen Worten sie verlockt worden waren und um welchen Preis der Schande,
+sodass man glaubte,
+der Vatermord sei in entehrendes Verhalten gehüllt gewesen\.
 
-Dazu kam große Furcht, weil sie bei ihrem Bruder großen Einfluss hatten\. Denn abgesehen von der Krone teilte Herodes beinahe die ganze Herrschaft über das Reich mit seinem Bruder\. Beiden, besonders aber Feroras, hatte er außergewöhnlichen Reichtum zugewandt\. Ja, er hatte ihm außer jenem Gebiet, das jenseits des Euphrat lag und seine Einkünfte mehrte, eine jährliche Zahlung von hundert Talenten festgesetzt\. Auch war er auf Bitten des Herodes von Caesar zum Tetrarchen ernannt worden\. Überdies war er mit einer Verwandten der königlichen Gemahlin beschenkt worden, denn er hatte die Schwester der königlichen Gemahlin zur Ehefrau erhalten\. Nach deren Tod wurde ihm die älteste Tochter des Königs verlobt, und er gewann an Gunst als Schwiegersohn, nur dass er, von Liebe zu einer Sklavin gefangen, die Verbindung mit der königlichen Jungfrau zurückwies\. Über diese Kränkung erzürnt, gab Herodes seine Tochter jenem Mann, der später im Partherkrieg getötet wurde\. Feroras aber wurde vor ihm angeklagt, er habe seinem Bruder mit Gift nach dem Leben getrachtet\. Dieser Verdacht hatte ihn nicht einmal verschont, als seine Frau noch lebte\. Nachdem zuerst viele und zuletzt seine Freunde zur Befragung gezwungen worden waren, sprach Herodes ihn, da er von dem vorgeworfenen Verbrechen frei befunden wurde, bereitwillig frei und gewährte sogar Verzeihung für die Flucht, die nach dem getroffenen Plan erfolgen sollte: Wenn die Sklavin, die er liebte, ergriffen würde, sollte er zu den Parthern fliehen; durch die Geständnisse seiner Hausgenossen wurde er entlarvt\. Alexander hatte eine gewisse Atempause genossen, während Feroras angegriffen wurde und er selbst Salome angriff, weil sie Sylleus, dem Sohn des Obaedas, der Stellvertreter des Königs von Arabien war und Herodes sehr feindlich gesinnt war, die Ehe versprochen hatte\. Als aber die Anklage gegen beide nachließ, fiel der Sturm des Hauses über Alexander her und umgab ihn mit großer Gefahr\. Denn Antipater wütete mit der Wildheit einer Seuche und wie der Sturm des ganzen Hofes; auf jede Weise griff er seinen Bruder an, gestützt auf seine Verwandten, sodass sein Vater, in seiner nüchternen Besinnung erschüttert, mit lauter Stimme ausrief, Alexander stehe mit dem Schwert über ihm\. Eine Szene dieser Art war ans Licht gekommen: Alexander habe drei Eunuchen, von denen einer gewöhnlich die Becher des Königs betreute, ein anderer die Speise zum Mahl hereinbrachte und der dritte das königliche Lager bewachte und niemals wegging, wenn Herodes sich im Bett niedergelegt hatte, mit reichen Geschenken für seine Gunst und zur Teilnahme an schändlichen Taten gewonnen\. Als dies unter Folter erzwungen vorgebracht wurde, enthüllten die Eunuchen die Ausschweifung obszöner Begierde\. Denn da sie die versprochenen Liebestränke nicht verbergen konnten, berichteten sie, mit welchen Worten sie verlockt worden waren und um welchen Preis der Schande, sodass man glaubte, der Vatermord sei in entehrendes Verhalten gehüllt gewesen\.
+In ihm waren die Anmut der Jugend,
+der Reiz der Schönheit und die Kraft des reifen Alters,
+im Gegensatz zu Herodes,
+der schwach und bereits vom Alter niedergedrückt war und sein Haar färbte,
+damit es sein Alter nicht verriet\.
+Da Alexander wünschte,
+das Herrschaftsrecht solle auf ihn übergehen,
+mussten große Belohnungen versprochen werden;
+so sollten sie ihre Hoffnung auf einen jungen Mann setzen,
+nicht auf einen hinfälligen Greis,
+dem die Natur selbst schon das Ende beschleunigte\.
+Dies beunruhigte Herodes zwar schwer,
+doch für wichtiger als alles Übrige hielt er,
+dass durch die Aussage der Eunuchen aufgedeckt wurde,
+die Truppen,
+die Heerführer und die Zenturionen verschwörten sich gegen ihn\.
+Er geriet nämlich so in Erregung,
+dass er meinte,
+keine Art von Grausamkeit dürfe ausgelassen werden;
+niemandem dürfe er glauben,
+jeden müsse er für verdächtig halten\.
+Die Strafen waren schneller als die Untersuchung der Verbrechen,
+und der Tod der Schuldigen kam dem Urteil zuvor\.
+Überall wurden zur Bestrafung die ergriffen,
+auf die irgendein Verdacht fiel\.
+Falsche Anklagen mehrten sich;
+viele,
+die dem König gefallen wollten,
+brachten Meldungen gegen Schuldige vor,
+doch sogleich wurden auch jene,
+die andere angezeigt hatten,
+selbst denunziert und zusammen mit ihren Schuldigen zum Strafplatz geführt\.
+So wütete Herodes gegen alle:
+Wenn noch jemand übrig blieb,
+der verdächtig war,
+meinte der König,
+er sei nur dann sicher,
+wenn das Menschengeschlecht ausgerottet würde\.
+Er war unversöhnlich in seinen Beschuldigungen,
+misstraute seinen Freunden,
+trat den Vertrauten hochfahrend entgegen,
+war gegen Schuldige erbarmungslos und vor allem erschrocken,
+sodass er häufig seinen Aufenthaltsort wechselte und die Nächte schlaflos verbrachte\.
+Von all dem verbittert,
+ließ er plötzlich Alexander in Fesseln legen,
+mit Wachen umstellen und rief seine Freunde zu Untersuchungen zusammen\.
+Wer die Aussage verweigerte,
+starb unter der Folter;
+wer schwieg,
+wurde,
+weil er nichts zur Stützung der Verdächtigungen enthüllte,
+zu Tode gemartert\.
+Einige jedoch,
+von der Härte der Foltern und Strafen überwältigt,
+behaupteten,
+die jungen Männer hätten geplant,
+ihren Vater zu töten,
+während er auf der Jagd beschäftigt sei,
+und unverzüglich in die Stadt Rom aufzubrechen,
+um der Strafe durch Flucht zuvorzukommen\.
+Obwohl dies durch keinen Beweis gestützt wurde,
+fand der Vater darin dennoch Bestärkung für seine erbitterte Verfolgung,
+weil er berechtigte Gründe für die Fesseln seines Sohnes haben wollte\.
+Daher erkannte Alexander,
+dass die Ohren seines Vaters jeder Verteidigung seinerseits verschlossen waren und dass die Sache auf keine Weise so gewendet werden konnte,
+dass er ihn für unschuldig hielte,
+der von einer solchen Masse falscher Anklagen bedrängt wurde\.
+Er meinte deshalb,
+den ruchlosen Anklägern müsse man mit ähnlicher List begegnen:
+Er müsse die betrügerischen Urheber falscher Anschuldigungen mit Schlingen umgeben und die Schuldigen selbst in die Verleumdung hineinziehen,
+durch deren Verleumdungen er sich bedroht glaubte\.
+Daher schrieb er vier kleine Bücher,
+in denen er die Erfindung eines Verbrechens bekannte,
+durch das er die Sicherheit seines Vaters bedroht habe,
+und er deckte als Teilhaber an solchen Verrätereien viele von denen auf,
+von denen er selbst angegriffen worden war\.
 
-In ihm waren die Anmut der Jugend, der Reiz der Schönheit und die Kraft des reifen Alters, im Gegensatz zu Herodes, der schwach und bereits vom Alter niedergedrückt war und sein Haar färbte, damit es sein Alter nicht verriet\. Da Alexander wünschte, das Herrschaftsrecht solle auf ihn übergehen, mussten große Belohnungen versprochen werden; so sollten sie ihre Hoffnung auf einen jungen Mann setzen, nicht auf einen hinfälligen Greis, dem die Natur selbst schon das Ende beschleunigte\. Dies beunruhigte Herodes zwar schwer, doch für wichtiger als alles Übrige hielt er, dass durch die Aussage der Eunuchen aufgedeckt wurde, die Truppen, die Heerführer und die Zenturionen verschwörten sich gegen ihn\. Er geriet nämlich so in Erregung, dass er meinte, keine Art von Grausamkeit dürfe ausgelassen werden; niemandem dürfe er glauben, jeden müsse er für verdächtig halten\. Die Strafen waren schneller als die Untersuchung der Verbrechen, und der Tod der Schuldigen kam dem Urteil zuvor\. Überall wurden zur Bestrafung die ergriffen, auf die irgendein Verdacht fiel\. Falsche Anklagen mehrten sich; viele, die dem König gefallen wollten, brachten Meldungen gegen Schuldige vor, doch sogleich wurden auch jene, die andere angezeigt hatten, selbst denunziert und zusammen mit ihren Schuldigen zum Strafplatz geführt\. So wütete Herodes gegen alle: Wenn noch jemand übrig blieb, der verdächtig war, meinte der König, er sei nur dann sicher, wenn das Menschengeschlecht ausgerottet würde\. Er war unversöhnlich in seinen Beschuldigungen, misstraute seinen Freunden, trat den Vertrauten hochfahrend entgegen, war gegen Schuldige erbarmungslos und vor allem erschrocken, sodass er häufig seinen Aufenthaltsort wechselte und die Nächte schlaflos verbrachte\. Von all dem verbittert, ließ er plötzlich Alexander in Fesseln legen, mit Wachen umstellen und rief seine Freunde zu Untersuchungen zusammen\. Wer die Aussage verweigerte, starb unter der Folter; wer schwieg, wurde, weil er nichts zur Stützung der Verdächtigungen enthüllte, zu Tode gemartert\. Einige jedoch, von der Härte der Foltern und Strafen überwältigt, behaupteten, die jungen Männer hätten geplant, ihren Vater zu töten, während er auf der Jagd beschäftigt sei, und unverzüglich in die Stadt Rom aufzubrechen, um der Strafe durch Flucht zuvorzukommen\. Obwohl dies durch keinen Beweis gestützt wurde, fand der Vater darin dennoch Bestärkung für seine erbitterte Verfolgung, weil er berechtigte Gründe für die Fesseln seines Sohnes haben wollte\. Daher erkannte Alexander, dass die Ohren seines Vaters jeder Verteidigung seinerseits verschlossen waren und dass die Sache auf keine Weise so gewendet werden konnte, dass er ihn für unschuldig hielte, der von einer solchen Masse falscher Anklagen bedrängt wurde\. Er meinte deshalb, den ruchlosen Anklägern müsse man mit ähnlicher List begegnen: Er müsse die betrügerischen Urheber falscher Anschuldigungen mit Schlingen umgeben und die Schuldigen selbst in die Verleumdung hineinziehen, durch deren Verleumdungen er sich bedroht glaubte\. Daher schrieb er vier kleine Bücher, in denen er die Erfindung eines Verbrechens bekannte, durch das er die Sicherheit seines Vaters bedroht habe, und er deckte als Teilhaber an solchen Verrätereien viele von denen auf, von denen er selbst angegriffen worden war\.
+Und in eben diesen Schriftstücken schrieb er besonders über Feroras und Salome:
+Auch mitten in der Nacht sei in das Schlafgemach des jungen Mannes,
+in dem er wohnte,
+eingedrungen worden;
+sie habe ihn,
+obwohl er nicht wollte,
+verführt und ihm,
+der sich widersetzte,
+abgenötigt,
+Inzest zu begehen\.
+Die Schriftstücke sandte er dem König als Ankläger seiner schändlichen Taten;
+in die Anklage verwickelte er die Mächtigsten,
+die Gefährten und Freunde des Königs waren\.
+Archelaus kam rasch und zur rechten Zeit nach Judäa,
+um seinem Schwiegersohn und seiner Tochter jede Hilfe und Unterstützung zu bringen,
+die er konnte\.
+Da er aber voraussah,
+dass ihm vor dem feindseligen Vater die Möglichkeit einer echten Verteidigung versperrt war,
+unterdrückte er seine Erregung mit Geschick\.
+Denn sobald er den königlichen Hof betrat,
+begann er mit lauter Stimme,
+obwohl Herodes ihn schon hörte und sah,
+wie von Sinnen zu schreien:
+„Lebt dieser giftige Schwiegersohn von mir noch und beraubt dieses Licht?
+Ich frage,
+wo er ist,
+wo ich dieses vatermörderische Haupt finden kann,
+damit ich es mit meinen eigenen Händen zerreiße\.
+Durch Vatermord muss zugrunde gehen,
+wer Vatermord begehen wollte\.
+Was wird er mit einem Schwiegervater tun,
+der seinen Vater nicht verschont hat?
+Wer zeigt ihn mir?
+Ich werde den Schurken zuerst ausweiden,
+dann kann ich meine Tochter einem guten Bräutigam geben\.
+Obwohl sie von seiner Bosheit nichts wusste,
+bleibt sie doch von der Ansteckung nicht frei,
+da sie in der Gewalt eines Vatermörders steht\.
+Ich erkenne keine Tochter an,
+die die Listen ihres Mannes nicht erkennt,
+die sich ihrem Schwiegervater nicht als eine solche Schwiegertochter erwiesen hat,
+dass sie den unterworfenen Sohn zu seinem Vater zurückführte\.
+Ich gab sie nicht zur Ehe für den Dienst am Verbrechen,
+sondern zur Teilhabe an der Ehe,
+damit sie sich als Miterbin der Gunst zeige,
+nicht als Gehilfin der Schuld\.
+Ich wundere mich über dich,
+Herodes,
+dass Alexander noch lebt,
+dieser Anschläger gegen seinen Vater\.
+Ich dachte,
+er habe die gerechte Strafe schon bezahlt;
+sie aufzuschieben war nicht nötig\.
+Warum sollte denn der Geständige eines vatermörderischen Frevels gerettet werden?
+Vielleicht aber war auch dies göttliche Vorsehung,
+dass der,
+der in dir die Kindespflicht eines jeden verletzt hat,
+durch das Urteil der Eltern beider verurteilt wird\.
+Ich werde nicht leugnen,
+dass ich selbst Rächer bin,
+ich,
+der ich mich zum Verkünder genauer Vergeltung bereitgemacht habe;
+aber ich nehme meine Tochter nicht aus,
+die ich selbst dieser unglücklichen Ehe verlobte,
+indem ich dir als ihrem Bürgen folgte\.
+Doch ich habe sie nicht den Launen eines Mannes übergeben,
+sondern deiner Treue\.
+Sie soll den Grund nennen,
+warum sie ihren Bürgen missachtet hat:
+Sie liebte ihren Mann\.
+Über beide liegt nun das Urteil bei uns\.
+Wenn du ein entschlossener Rächer eines so großen Schmerzes bist,
+gürte dich;
+folge,
+Vater,
+deiner Pflicht\.
+Pflicht wünschen sich Väter nicht,
+doch sie darf nicht übergangen werden\.
+Wenn Kindesliebe dich milde macht,
+wenn die Natur dich beugt,
+dann lass uns die Plätze tauschen,
+damit wir Vollstrecker des gegenseitigen Dienstes sind,
+ich im Fall deines Sohnes und du im Fall meines Kindes\.“
+Mit einer Rede dieser Art stimmte er Herodes um,
+und aus der Raserei heraus besänftigte sich dessen Vorsatz nach und nach,
+sodass Herodes glaubte,
+Archelaus leide mit ihm und teile dasselbe Ziel,
+und ihm die kleinen Schriftstücke gab,
+die Alexander verfasst hatte\.
 
-Und in eben diesen Schriftstücken schrieb er besonders über Feroras und Salome: Auch mitten in der Nacht sei in das Schlafgemach des jungen Mannes, in dem er wohnte, eingedrungen worden; sie habe ihn, obwohl er nicht wollte, verführt und ihm, der sich widersetzte, abgenötigt, Inzest zu begehen\. Die Schriftstücke sandte er dem König als Ankläger seiner schändlichen Taten; in die Anklage verwickelte er die Mächtigsten, die Gefährten und Freunde des Königs waren\. Archelaus kam rasch und zur rechten Zeit nach Judäa, um seinem Schwiegersohn und seiner Tochter jede Hilfe und Unterstützung zu bringen, die er konnte\. Da er aber voraussah, dass ihm vor dem feindseligen Vater die Möglichkeit einer echten Verteidigung versperrt war, unterdrückte er seine Erregung mit Geschick\. Denn sobald er den königlichen Hof betrat, begann er mit lauter Stimme, obwohl Herodes ihn schon hörte und sah, wie von Sinnen zu schreien: „Lebt dieser giftige Schwiegersohn von mir noch und beraubt dieses Licht? Ich frage, wo er ist, wo ich dieses vatermörderische Haupt finden kann, damit ich es mit meinen eigenen Händen zerreiße\. Durch Vatermord muss zugrunde gehen, wer Vatermord begehen wollte\. Was wird er mit einem Schwiegervater tun, der seinen Vater nicht verschont hat? Wer zeigt ihn mir? Ich werde den Schurken zuerst ausweiden, dann kann ich meine Tochter einem guten Bräutigam geben\. Obwohl sie von seiner Bosheit nichts wusste, bleibt sie doch von der Ansteckung nicht frei, da sie in der Gewalt eines Vatermörders steht\. Ich erkenne keine Tochter an, die die Listen ihres Mannes nicht erkennt, die sich ihrem Schwiegervater nicht als eine solche Schwiegertochter erwiesen hat, dass sie den unterworfenen Sohn zu seinem Vater zurückführte\. Ich gab sie nicht zur Ehe für den Dienst am Verbrechen, sondern zur Teilhabe an der Ehe, damit sie sich als Miterbin der Gunst zeige, nicht als Gehilfin der Schuld\. Ich wundere mich über dich, Herodes, dass Alexander noch lebt, dieser Anschläger gegen seinen Vater\. Ich dachte, er habe die gerechte Strafe schon bezahlt; sie aufzuschieben war nicht nötig\. Warum sollte denn der Geständige eines vatermörderischen Frevels gerettet werden? Vielleicht aber war auch dies göttliche Vorsehung, dass der, der in dir die Kindespflicht eines jeden verletzt hat, durch das Urteil der Eltern beider verurteilt wird\. Ich werde nicht leugnen, dass ich selbst Rächer bin, ich, der ich mich zum Verkünder genauer Vergeltung bereitgemacht habe; aber ich nehme meine Tochter nicht aus, die ich selbst dieser unglücklichen Ehe verlobte, indem ich dir als ihrem Bürgen folgte\. Doch ich habe sie nicht den Launen eines Mannes übergeben, sondern deiner Treue\. Sie soll den Grund nennen, warum sie ihren Bürgen missachtet hat: Sie liebte ihren Mann\. Über beide liegt nun das Urteil bei uns\. Wenn du ein entschlossener Rächer eines so großen Schmerzes bist, gürte dich; folge, Vater, deiner Pflicht\. Pflicht wünschen sich Väter nicht, doch sie darf nicht übergangen werden\. Wenn Kindesliebe dich milde macht, wenn die Natur dich beugt, dann lass uns die Plätze tauschen, damit wir Vollstrecker des gegenseitigen Dienstes sind, ich im Fall deines Sohnes und du im Fall meines Kindes\.“ Mit einer Rede dieser Art stimmte er Herodes um, und aus der Raserei heraus besänftigte sich dessen Vorsatz nach und nach, sodass Herodes glaubte, Archelaus leide mit ihm und teile dasselbe Ziel, und ihm die kleinen Schriftstücke gab, die Alexander verfasst hatte\.
+Er aber achtete auf jeden Einzelnen;
+und als er merkte,
+dass sie mehr von Schmerz erfüllt waren als von Vertrauen getragen,
+minderte er mit tiefem Vorsatz nach und nach den Hass wegen des versuchten Vatermords und die Gründe der Anschuldigungen gegen sie,
+die sie dargelegt hatten,
+und begann,
+diesen Hass besonders auf Feroras zu lenken\.
+Als er also bemerkte,
+dass der König von seiner Meinung nicht abwich,
+sagte er:
+„Man muss bedenken,
+ob der junge Mann vielleicht mehr von den Ränken treuloser Menschen angegriffen wurde als du von dem jungen Mann\.
+Welchen Grund hätte er gehabt,
+nach deinem Leben zu trachten,
+er,
+dem du die Ehren der Königsherrschaft zugestanden,
+dem du das Recht zu herrschen und die Hoffnung auf die Nachfolge vorbehalten hattest?
+Warum sollte er suchen,
+was er schon hatte,
+oder wie hätte er sich gegenüber diesen großen Gaben undankbar zeigen sollen?
+Wie anders würde er sich nach deinem Tod verhalten,
+wenn dieser Tod nicht seine Gefahr herbeiführte,
+die er bei deinem Leben nicht fürchten konnte,
+bei deinem Tod aber gewiss von jenen fürchten müsste,
+von denen er sogar,
+solange er unter seinem Vater stand,
+die Vernichtung seiner Sicherheit befürchtete?
+Dieses Alter ist der Täuschung offen;
+es lässt sich leicht täuschen und von den Ränken der Betrüger umgarnen\.
+Selbst das Alter widersteht der Täuschung kaum;
+gewöhnlich wird sogar der Verstand der Alten von der List derer verstrickt,
+die sie umringen\.
+Wenn also gereifte Erfahrung oft getroffen wird,
+was ist daran verwunderlich,
+wenn ein unreifes Alter sich selbst nicht beistehen konnte,
+als es von Scharen von Hinterlistigen bedroht wurde?
+Diese also sind die Unruhestifter des königlichen Hauses,
+die Aufwiegler der Jugend,
+die Säer der Zwietracht;
+sie haben den jungen Mann zur Verzweiflung an seiner Sicherheit getrieben\.
+Er hat mehr der Verstimmung und der Rache nachgegeben,
+als dass er nach Vollendung gestrebt hätte;
+sogar zur Erregung hat er etwas beigetragen\.“
+Davon allmählich beeinflusst,
+hatte Herodes zwar begonnen,
+seinen Zorn gegen Alexander zu besänftigen,
+wurde aber in Wahrheit umso heftiger gegen Feroras erregt,
+weil dieser in jenen vier kleinen Büchern als Mitschuldiger aller Verbrechen und als Urheber des ganzen Plans dargestellt wurde\.
+Als Feroras sah,
+dass der König sein Herz Archelaus zugeneigt hatte und ihm mehr als den übrigen die Gunst seiner vertrauten Freundschaft erwies,
+wandte er sich bittend an ihn,
+er möge ihm die Gesinnung des Königs wieder günstig machen\.
+Jener aber zweifelte nicht daran,
+dass Feroras durch viele Ketten von Verbrechen gebunden war,
+durch die er überführt wurde,
+Ränke gegen den König vorbereitet und den jungen Mann bedrängt zu haben;
+er sagte,
+Feroras habe keine Aussicht auf Vergebung,
+wenn er nicht die List aufgebe,
+das gegen ihn Vorgebrachte zu leugnen,
+seinem liebenden Bruder alles bekenne und von ihm Milde für sich erbitte\.
+Er selbst werde nicht unterlassen,
+eine solche Sache auf jede Weise zu unterstützen,
+die ihm möglich sei\.
+Da wechselte Feroras seine Kleider,
+war von Tränen überströmt,
+klammerte sich in erbarmungswürdiger Gestalt an die Füße seines Bruders und flehte um Vergebung;
+er bekannte seine Bosheit,
+leugnete nichts,
+sondern erkannte alles an,
+dessen er beschuldigt wurde,
+und erklärte,
+der Wahnsinn sei für ihn der Grund eines so großen Fehltritts gewesen:
+Ein allzu heftiger Liebeswahn zu der Frau,
+die für ihn ausgewählt worden war,
+sei in ihm aufgewallt\.
 
-Er aber achtete auf jeden Einzelnen; und als er merkte, dass sie mehr von Schmerz erfüllt waren als von Vertrauen getragen, minderte er mit tiefem Vorsatz nach und nach den Hass wegen des versuchten Vatermords und die Gründe der Anschuldigungen gegen sie, die sie dargelegt hatten, und begann, diesen Hass besonders auf Feroras zu lenken\. Als er also bemerkte, dass der König von seiner Meinung nicht abwich, sagte er: „Man muss bedenken, ob der junge Mann vielleicht mehr von den Ränken treuloser Menschen angegriffen wurde als du von dem jungen Mann\. Welchen Grund hätte er gehabt, nach deinem Leben zu trachten, er, dem du die Ehren der Königsherrschaft zugestanden, dem du das Recht zu herrschen und die Hoffnung auf die Nachfolge vorbehalten hattest? Warum sollte er suchen, was er schon hatte, oder wie hätte er sich gegenüber diesen großen Gaben undankbar zeigen sollen? Wie anders würde er sich nach deinem Tod verhalten, wenn dieser Tod nicht seine Gefahr herbeiführte, die er bei deinem Leben nicht fürchten konnte, bei deinem Tod aber gewiss von jenen fürchten müsste, von denen er sogar, solange er unter seinem Vater stand, die Vernichtung seiner Sicherheit befürchtete? Dieses Alter ist der Täuschung offen; es lässt sich leicht täuschen und von den Ränken der Betrüger umgarnen\. Selbst das Alter widersteht der Täuschung kaum; gewöhnlich wird sogar der Verstand der Alten von der List derer verstrickt, die sie umringen\. Wenn also gereifte Erfahrung oft getroffen wird, was ist daran verwunderlich, wenn ein unreifes Alter sich selbst nicht beistehen konnte, als es von Scharen von Hinterlistigen bedroht wurde? Diese also sind die Unruhestifter des königlichen Hauses, die Aufwiegler der Jugend, die Säer der Zwietracht; sie haben den jungen Mann zur Verzweiflung an seiner Sicherheit getrieben\. Er hat mehr der Verstimmung und der Rache nachgegeben, als dass er nach Vollendung gestrebt hätte; sogar zur Erregung hat er etwas beigetragen\.“ Davon allmählich beeinflusst, hatte Herodes zwar begonnen, seinen Zorn gegen Alexander zu besänftigen, wurde aber in Wahrheit umso heftiger gegen Feroras erregt, weil dieser in jenen vier kleinen Büchern als Mitschuldiger aller Verbrechen und als Urheber des ganzen Plans dargestellt wurde\. Als Feroras sah, dass der König sein Herz Archelaus zugeneigt hatte und ihm mehr als den übrigen die Gunst seiner vertrauten Freundschaft erwies, wandte er sich bittend an ihn, er möge ihm die Gesinnung des Königs wieder günstig machen\. Jener aber zweifelte nicht daran, dass Feroras durch viele Ketten von Verbrechen gebunden war, durch die er überführt wurde, Ränke gegen den König vorbereitet und den jungen Mann bedrängt zu haben; er sagte, Feroras habe keine Aussicht auf Vergebung, wenn er nicht die List aufgebe, das gegen ihn Vorgebrachte zu leugnen, seinem liebenden Bruder alles bekenne und von ihm Milde für sich erbitte\. Er selbst werde nicht unterlassen, eine solche Sache auf jede Weise zu unterstützen, die ihm möglich sei\. Da wechselte Feroras seine Kleider, war von Tränen überströmt, klammerte sich in erbarmungswürdiger Gestalt an die Füße seines Bruders und flehte um Vergebung; er bekannte seine Bosheit, leugnete nichts, sondern erkannte alles an, dessen er beschuldigt wurde, und erklärte, der Wahnsinn sei für ihn der Grund eines so großen Fehltritts gewesen: Ein allzu heftiger Liebeswahn zu der Frau, die für ihn ausgewählt worden war, sei in ihm aufgewallt\.
-
-So wurde Feroras zum Ankläger seiner eigenen Verbrechen und ebenso auch zum Zeugen bestellt, gleichsam als Gegengabe für die vorbereitete Darlegung, die er zu seinem eigenen Nachteil vorbrachte\. Darauf trat Archelaus bei Herodes ein, er solle die Natur selbst bedenken, seinen Zorn mildern, seinem Bruder vergeben und das Gesetz der Natur über die Strafe stellen\. Es ist auch nicht verwunderlich, wenn in großen Königreichen, wie in wohlgenährten Körpern, oft irgendein Teil sich entzündet; den darf man nicht abschneiden, sondern muss ihn mit milderen Heilmitteln heilen\. Auch gegen ihn selbst seien von seinem eigenen Bruder weit schwerere Ränke vorbereitet worden; doch habe er seinem Verwandten die für das Vergehen geschuldete Strafe gemindert, weil er die Ursache des Übels nur umso mehr verschärfen würde, je stärker er die Strafe gegen den Undankbaren erhöbe\. Als er dies und anderes dergleichen miteinander verflocht, besänftigte er Herodes zwar so weit, dass dieser seinem Bruder verzieh; gegen seinen Schwiegersohn aber blieb er selbst unerbittlich\. Schließlich drohte er, er werde seine Tochter von ihm scheiden, und tobte mit einer so gewaltigen Erregung seines Zorns, dass Herodes selbst das an ihm begangene Verbrechen seines Sohnes für hinreichend gesühnt hielt, darum bat, Rächer seiner eigenen Kränkungen sein zu dürfen, und nun selbst beim Schwiegervater für seinen schuldigen Angeklagten eintrat; dadurch stellte er die Ehe von Neuem wieder her\. Archelaus blieb dabei, Herodes solle seine Schwiegertochter mit wem immer er wolle verbinden, nur nicht mit Alexander, um dessentwillen ihr sogar die Frau genommen werde; durch diese List drängte er Herodes nur umso mehr dazu, zu meinen, sein Sohn sei ihm wiedergegeben, wenn er dessen Gattin nicht freigebe\. Denn Alexander liebte seine Frau sehr, von der er Söhne empfangen hatte, die dem Großvater teuer und den Eltern geliebt waren\. Dies werde das Geschenk seines ihm wiedergegebenen Sohnes sein: Eine gute Frau werde die Verfehlungen ihres Mannes zu einem nicht geringen Teil zügeln oder durch ihre Wohltaten den Widerwillen gegen seine Vergehen ausgleichen\. Würde sie von ihm getrennt, gäbe es für ihren Mann kein Heilmittel mehr, das ihn daran hinderte, kopfüber in jede Schandtat zu stürzen\. Denn die Anmaßungen böser Taten pflegten milder zu werden, wenn sie durch häusliche Zuneigung zurückgerufen wurden\. Kaum ließ sich Archelaus zuletzt dazu bewegen, sich mit seinem Schwiegersohn zu versöhnen und auch den Vater mit demselben zu versöhnen\. Mit diesem Plan entriss er seinen Schwiegersohn dem Tod, damit dieser als Gegengabe seinen Freispruch erhalte, während Archelaus den Anschein erweckte, eher zu verurteilen als einzutreten; denn hätte er geglaubt, offen eintreten zu müssen, hätte er ohne Zweifel nichts erreicht\. Er fügte hinzu, Alexander müsse nach Rom gehen, um das zu entkräften, was sein Vater an ihm verdächtigt hatte; denn er selbst habe alles an Caesar geschrieben\. Auch dies war, wie ich meine, so geplant: Wenn Alexander sich auf diese Weise gereinigt hätte, würde er Caesar empfohlen und die von Antipater gegen die Brüder vorbereiteten Ränke würden bekannt gemacht\.
+So wurde Feroras zum Ankläger seiner eigenen Verbrechen und ebenso auch zum Zeugen bestellt,
+gleichsam als Gegengabe für die vorbereitete Darlegung,
+die er zu seinem eigenen Nachteil vorbrachte\.
+Darauf trat Archelaus bei Herodes ein,
+er solle die Natur selbst bedenken,
+seinen Zorn mildern,
+seinem Bruder vergeben und das Gesetz der Natur über die Strafe stellen\.
+Es ist auch nicht verwunderlich,
+wenn in großen Königreichen,
+wie in wohlgenährten Körpern,
+oft irgendein Teil sich entzündet;
+den darf man nicht abschneiden,
+sondern muss ihn mit milderen Heilmitteln heilen\.
+Auch gegen ihn selbst seien von seinem eigenen Bruder weit schwerere Ränke vorbereitet worden;
+doch habe er seinem Verwandten die für das Vergehen geschuldete Strafe gemindert,
+weil er die Ursache des Übels nur umso mehr verschärfen würde,
+je stärker er die Strafe gegen den Undankbaren erhöbe\.
+Als er dies und anderes dergleichen miteinander verflocht,
+besänftigte er Herodes zwar so weit,
+dass dieser seinem Bruder verzieh;
+gegen seinen Schwiegersohn aber blieb er selbst unerbittlich\.
+Schließlich drohte er,
+er werde seine Tochter von ihm scheiden,
+und tobte mit einer so gewaltigen Erregung seines Zorns,
+dass Herodes selbst das an ihm begangene Verbrechen seines Sohnes für hinreichend gesühnt hielt,
+darum bat,
+Rächer seiner eigenen Kränkungen sein zu dürfen,
+und nun selbst beim Schwiegervater für seinen schuldigen Angeklagten eintrat;
+dadurch stellte er die Ehe von Neuem wieder her\.
+Archelaus blieb dabei,
+Herodes solle seine Schwiegertochter mit wem immer er wolle verbinden,
+nur nicht mit Alexander,
+um dessentwillen ihr sogar die Frau genommen werde;
+durch diese List drängte er Herodes nur umso mehr dazu,
+zu meinen,
+sein Sohn sei ihm wiedergegeben,
+wenn er dessen Gattin nicht freigebe\.
+Denn Alexander liebte seine Frau sehr,
+von der er Söhne empfangen hatte,
+die dem Großvater teuer und den Eltern geliebt waren\.
+Dies werde das Geschenk seines ihm wiedergegebenen Sohnes sein:
+Eine gute Frau werde die Verfehlungen ihres Mannes zu einem nicht geringen Teil zügeln oder durch ihre Wohltaten den Widerwillen gegen seine Vergehen ausgleichen\.
+Würde sie von ihm getrennt,
+gäbe es für ihren Mann kein Heilmittel mehr,
+das ihn daran hinderte,
+kopfüber in jede Schandtat zu stürzen\.
+Denn die Anmaßungen böser Taten pflegten milder zu werden,
+wenn sie durch häusliche Zuneigung zurückgerufen wurden\.
+Kaum ließ sich Archelaus zuletzt dazu bewegen,
+sich mit seinem Schwiegersohn zu versöhnen und auch den Vater mit demselben zu versöhnen\.
+Mit diesem Plan entriss er seinen Schwiegersohn dem Tod,
+damit dieser als Gegengabe seinen Freispruch erhalte,
+während Archelaus den Anschein erweckte,
+eher zu verurteilen als einzutreten;
+denn hätte er geglaubt,
+offen eintreten zu müssen,
+hätte er ohne Zweifel nichts erreicht\.
+Er fügte hinzu,
+Alexander müsse nach Rom gehen,
+um das zu entkräften,
+was sein Vater an ihm verdächtigt hatte;
+denn er selbst habe alles an Caesar geschrieben\.
+Auch dies war,
+wie ich meine,
+so geplant:
+Wenn Alexander sich auf diese Weise gereinigt hätte,
+würde er Caesar empfohlen und die von Antipater gegen die Brüder vorbereiteten Ränke würden bekannt gemacht\.

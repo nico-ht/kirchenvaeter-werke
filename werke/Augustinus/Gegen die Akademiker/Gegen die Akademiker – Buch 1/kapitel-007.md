@@ -7,8 +7,108 @@ Autor: Augustinus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/gegen-die-akademiker-buch-1#kapitel-6303d34f-62bf-4282-977b-08df051de4b6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:6b32679ee9c692d7970b0fe6950b37b2ec5a0b01475e1a8e0feef58ef4533a79`
+Darauf erwiderte er:
+„Erstens nenne ich es nicht Wissen,
+wenn jemand,
+der es für sich beansprucht,
+sich bisweilen irrt\.
+Denn Wissen besteht nicht bloß darin,
+dass man Dinge erfasst hat,
+sondern dass man sie so erfasst hat,
+dass man sich darin niemals irren und durch keinerlei Widerstände ins Wanken geraten kann\.
+Daher sagen einige Philosophen völlig zu Recht,
+Wissen könne sich nur beim Weisen finden\.
+Denn was er verteidigt und befolgt,
+muss er nicht nur begriffen haben,
+sondern auch unerschütterlich festhalten\.
+Wir wissen aber,
+dass der Mann,
+den du erwähnt hast,
+oft vieles Falsche gesagt hat\.
+Das habe ich nicht nur aus den Berichten anderer erfahren,
+sondern bisweilen auch selbst wahrgenommen,
+als ich zugegen war\.
+Soll ich ihn also einen Wissenden nennen,
+obwohl er oft Falsches gesagt hat?
+Ich würde ihn doch nicht einmal so nennen,
+wenn er zögernd die Wahrheit gesagt hätte\.
+Haltet dafür,
+dass ich dies über Eingeweideschauer und Auguren gesagt habe,
+über alle,
+die die Sterne befragen,
+und über Traumdeuter\.
+Oder nennt mir,
+wenn ihr könnt,
+irgendeinen Menschen dieser Art,
+der,
+sooft er befragt worden ist,
+niemals an seinen Antworten gezweifelt und schließlich niemals falsch geantwortet hat\.
+Mit den Sehern hingegen brauche ich mich wohl nicht weiter zu befassen,
+denn sie sprechen mit einem fremden Geist\.“
 
-Darauf erwiderte er: „Erstens nenne ich es nicht Wissen, wenn jemand, der es für sich beansprucht, sich bisweilen irrt\. Denn Wissen besteht nicht bloß darin, dass man Dinge erfasst hat, sondern dass man sie so erfasst hat, dass man sich darin niemals irren und durch keinerlei Widerstände ins Wanken geraten kann\. Daher sagen einige Philosophen völlig zu Recht, Wissen könne sich nur beim Weisen finden\. Denn was er verteidigt und befolgt, muss er nicht nur begriffen haben, sondern auch unerschütterlich festhalten\. Wir wissen aber, dass der Mann, den du erwähnt hast, oft vieles Falsche gesagt hat\. Das habe ich nicht nur aus den Berichten anderer erfahren, sondern bisweilen auch selbst wahrgenommen, als ich zugegen war\. Soll ich ihn also einen Wissenden nennen, obwohl er oft Falsches gesagt hat? Ich würde ihn doch nicht einmal so nennen, wenn er zögernd die Wahrheit gesagt hätte\. Haltet dafür, dass ich dies über Eingeweideschauer und Auguren gesagt habe, über alle, die die Sterne befragen, und über Traumdeuter\. Oder nennt mir, wenn ihr könnt, irgendeinen Menschen dieser Art, der, sooft er befragt worden ist, niemals an seinen Antworten gezweifelt und schließlich niemals falsch geantwortet hat\. Mit den Sehern hingegen brauche ich mich wohl nicht weiter zu befassen, denn sie sprechen mit einem fremden Geist\.“
-
-Ich will einmal zugestehen, dass die menschlichen Dinge die Angelegenheiten der Menschen sind\. Glaubst du aber, irgendetwas sei wirklich unser, das der Zufall uns geben oder entreißen kann? Und wenn von der Kenntnis der menschlichen Dinge die Rede ist, meint man damit etwa das Wissen, wie viele und was für Landgüter wir besitzen, wie viel Gold und Silber wir haben oder welchen fremden Vers wir gerade im Sinn bewegen? Die Kenntnis der menschlichen Dinge ist vielmehr diejenige, die das Licht der Klugheit, die Würde der Selbstbeherrschung, die Stärke der Tapferkeit und die Heiligkeit der Gerechtigkeit kennt\. Denn dies ist es, was wir wahrhaft unser nennen dürfen, ohne irgendeinen Schicksalsschlag zu fürchten\. Hätte jener Albicerius das gelernt, dann hätte er, glaube mir, niemals so ausschweifend und schändlich gelebt\. Er nannte zwar den Vers, den der Mann, der ihn um Rat fragte, im Sinn bewegte; doch auch eine solche Leistung darf meines Erachtens nicht zu dem gerechnet werden, was wahrhaft unser ist\. Nicht dass ich bestreiten wollte, die edelsten Wissenschaften trügen in gewisser Weise dazu bei, dass wir unseres Geistes Herr werden; aber einen fremden Vers zu singen und vorzutragen ist selbst den völlig Ungebildeten vergönnt\. Wenn uns daher solche Dinge ins Gedächtnis kommen, ist es nicht verwunderlich, dass gewisse ganz niedrige Geschöpfe dieser Luft, die man Dämonen nennt, sie wahrnehmen können\. Ich räume ein, dass sie uns an Schärfe und Feinheit der Sinne übertreffen können, nicht aber an Vernunft; wie das auf eine höchst verborgene und unseren Sinnen völlig entzogene Weise geschieht, weiß ich nicht\. Wenn wir uns wundern, woher eine kleine Biene dank einer unerklärlichen Spürkraft, in der sie den Menschen übertrifft, zu hingestelltem Honig geflogen kommt, müssen wir sie deshalb weder über uns stellen noch auch nur mit uns vergleichen\. Ich wünschte daher, dieser Albicerius hätte einem Lernbegierigen auf dessen Frage hin lieber die Versmaße selbst erklärt oder, von einem Ratsuchenden dazu gedrängt, aus dem Stegreif eigene Verse über ein ihm vorgelegtes Thema gesungen\. Du erwähnst ja oft, dass derselbe Flaccianus dies gesagt habe: Mit großer geistiger Überlegenheit habe er diese Art der Weissagung verspottet und verachtet und sie irgendeinem ganz verkommenen Seelchen zugeschrieben, wie er es nannte; von diesem sei Albicerius gleichsam durch einen Geist gemahnt oder erfüllt worden und habe so gewöhnlich seine Antworten gegeben\. Denn dieser hochgebildete Mann fragte diejenigen, die solche Dinge bestaunten, ob Albicerius Grammatik, Musik oder Geometrie lehren könne\. Wer aber kannte ihn und hätte nicht eingestanden, dass er von alledem überhaupt nichts verstand? Deshalb ermahnte Flaccianus schließlich diejenigen, die solche Erscheinungen kennengelernt hatten, ihren eigenen Geist ohne jeden Zweifel über jene Weissagung zu stellen und sich darum zu bemühen, ihn durch diese Wissenschaften zu bilden und zu stützen\. So werde ihr Geist befähigt, jene luftartige Natur unsichtbarer Lebewesen zu überschreiten und über sie hinwegzufliegen\.
+Ich will einmal zugestehen,
+dass die menschlichen Dinge die Angelegenheiten der Menschen sind\.
+Glaubst du aber,
+irgendetwas sei wirklich unser,
+das der Zufall uns geben oder entreißen kann?
+Und wenn von der Kenntnis der menschlichen Dinge die Rede ist,
+meint man damit etwa das Wissen,
+wie viele und was für Landgüter wir besitzen,
+wie viel Gold und Silber wir haben oder welchen fremden Vers wir gerade im Sinn bewegen?
+Die Kenntnis der menschlichen Dinge ist vielmehr diejenige,
+die das Licht der Klugheit,
+die Würde der Selbstbeherrschung,
+die Stärke der Tapferkeit und die Heiligkeit der Gerechtigkeit kennt\.
+Denn dies ist es,
+was wir wahrhaft unser nennen dürfen,
+ohne irgendeinen Schicksalsschlag zu fürchten\.
+Hätte jener Albicerius das gelernt,
+dann hätte er,
+glaube mir,
+niemals so ausschweifend und schändlich gelebt\.
+Er nannte zwar den Vers,
+den der Mann,
+der ihn um Rat fragte,
+im Sinn bewegte;
+doch auch eine solche Leistung darf meines Erachtens nicht zu dem gerechnet werden,
+was wahrhaft unser ist\.
+Nicht dass ich bestreiten wollte,
+die edelsten Wissenschaften trügen in gewisser Weise dazu bei,
+dass wir unseres Geistes Herr werden;
+aber einen fremden Vers zu singen und vorzutragen ist selbst den völlig Ungebildeten vergönnt\.
+Wenn uns daher solche Dinge ins Gedächtnis kommen,
+ist es nicht verwunderlich,
+dass gewisse ganz niedrige Geschöpfe dieser Luft,
+die man Dämonen nennt,
+sie wahrnehmen können\.
+Ich räume ein,
+dass sie uns an Schärfe und Feinheit der Sinne übertreffen können,
+nicht aber an Vernunft;
+wie das auf eine höchst verborgene und unseren Sinnen völlig entzogene Weise geschieht,
+weiß ich nicht\.
+Wenn wir uns wundern,
+woher eine kleine Biene dank einer unerklärlichen Spürkraft,
+in der sie den Menschen übertrifft,
+zu hingestelltem Honig geflogen kommt,
+müssen wir sie deshalb weder über uns stellen noch auch nur mit uns vergleichen\.
+Ich wünschte daher,
+dieser Albicerius hätte einem Lernbegierigen auf dessen Frage hin lieber die Versmaße selbst erklärt oder,
+von einem Ratsuchenden dazu gedrängt,
+aus dem Stegreif eigene Verse über ein ihm vorgelegtes Thema gesungen\.
+Du erwähnst ja oft,
+dass derselbe Flaccianus dies gesagt habe:
+Mit großer geistiger Überlegenheit habe er diese Art der Weissagung verspottet und verachtet und sie irgendeinem ganz verkommenen Seelchen zugeschrieben,
+wie er es nannte;
+von diesem sei Albicerius gleichsam durch einen Geist gemahnt oder erfüllt worden und habe so gewöhnlich seine Antworten gegeben\.
+Denn dieser hochgebildete Mann fragte diejenigen,
+die solche Dinge bestaunten,
+ob Albicerius Grammatik,
+Musik oder Geometrie lehren könne\.
+Wer aber kannte ihn und hätte nicht eingestanden,
+dass er von alledem überhaupt nichts verstand?
+Deshalb ermahnte Flaccianus schließlich diejenigen,
+die solche Erscheinungen kennengelernt hatten,
+ihren eigenen Geist ohne jeden Zweifel über jene Weissagung zu stellen und sich darum zu bemühen,
+ihn durch diese Wissenschaften zu bilden und zu stützen\.
+So werde ihr Geist befähigt,
+jene luftartige Natur unsichtbarer Lebewesen zu überschreiten und über sie hinwegzufliegen\.

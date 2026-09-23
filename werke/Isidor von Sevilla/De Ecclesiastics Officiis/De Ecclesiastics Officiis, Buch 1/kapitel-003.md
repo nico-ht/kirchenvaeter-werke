@@ -7,9 +7,19 @@ Autor: Isidor von Sevilla
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/isidor-von-sevilla/de-ecclesiastics-officiis-buch-1#kapitel-0434b685-e4bd-4033-f4d4-08ded514b29a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:9de089fadac07e582a3478844e134d13d54f7dfa05daa156c616dbc659a17c41`
-
-Ebenso richtete Mose nach dem Durchzug durch das Rote Meer als Erster Chöre ein\. Er trennte die Reihen in Männer und Frauen und führte sie dann, während er selbst mit seiner Schwester voranging, in Chören an, damit sie Gott ein Siegeslied sangen\. Ein Chor aber wird nach Art einer Krone gebildet und hat daher seinen Namen\. So beschreibt es auch das Buch Ecclesiasticus: „Der Priester steht vor dem Altar[^bible-c60903f1-59fc-4573-abda-e8677a2ff946], und um ihn herum ist eine Krone von Brüdern[^bible-db38c76a-5644-4b96-b529-cb5ea41c4a6e]\.“ Eigentlich ist ein Chor eine Menge von Sängern\. Bei den Juden bestand er aus nicht weniger als zehn Sängern; bei uns aber umfasst er ohne Unterschied eine unbestimmte Zahl, von sehr wenigen bis zu sehr vielen\.
+Ebenso richtete Mose nach dem Durchzug durch das Rote Meer als Erster Chöre ein\.
+Er trennte die Reihen in Männer und Frauen und führte sie dann,
+während er selbst mit seiner Schwester voranging,
+in Chören an,
+damit sie Gott ein Siegeslied sangen\.
+Ein Chor aber wird nach Art einer Krone gebildet und hat daher seinen Namen\.
+So beschreibt es auch das Buch Ecclesiasticus:
+„Der Priester steht vor dem Altar[^bible-c60903f1-59fc-4573-abda-e8677a2ff946],
+und um ihn herum ist eine Krone von Brüdern[^bible-db38c76a-5644-4b96-b529-cb5ea41c4a6e]\.“
+Eigentlich ist ein Chor eine Menge von Sängern\.
+Bei den Juden bestand er aus nicht weniger als zehn Sängern;
+bei uns aber umfasst er ohne Unterschied eine unbestimmte Zahl,
+von sehr wenigen bis zu sehr vielen\.
 
 ## Bibelverweise
 

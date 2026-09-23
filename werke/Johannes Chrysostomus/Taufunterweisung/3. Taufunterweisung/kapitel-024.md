@@ -7,6 +7,15 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/3-taufunterweisung#kapitel-853b7ec0-51e4-4bcd-4e51-08ddd42c227b).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ed84209334c65c89af800f9672e86855df1fa75dedac4a939a554539b0870d95`
-
-Die Juden sahen Wunder\. Nun werdet ihr größere und viel strahlendere Wunder sehen als jene, die die Juden erlebten, als sie aus Ägypten zogen\. Ihr habt nicht den Pharao und seine Armeen ertrinken sehen, aber ihr habt das Ertrinken des Teufels und seiner Heerscharen gesehen\. Die Juden durchschritten das Meer; ihr habt das Meer des Todes durchschritten\. Sie wurden von den Ägyptern befreit; ihr seid von dem Dämon befreit\. Sie legten ihre Knechtschaft gegenüber den Barbaren ab; ihr habt die weitaus gefährlichere Knechtschaft der Sünde abgelegt\.
+Die Juden sahen Wunder\.
+Nun werdet ihr größere und viel strahlendere Wunder sehen als jene,
+die die Juden erlebten,
+als sie aus Ägypten zogen\.
+Ihr habt nicht den Pharao und seine Armeen ertrinken sehen,
+aber ihr habt das Ertrinken des Teufels und seiner Heerscharen gesehen\.
+Die Juden durchschritten das Meer;
+ihr habt das Meer des Todes durchschritten\.
+Sie wurden von den Ägyptern befreit;
+ihr seid von dem Dämon befreit\.
+Sie legten ihre Knechtschaft gegenüber den Barbaren ab;
+ihr habt die weitaus gefährlichere Knechtschaft der Sünde abgelegt\.

@@ -7,17 +7,98 @@ Autor: Zeno von Verona
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/zeno-von-verona/schrift-1-der-glaube#kapitel-5cc92a8b-e723-4bef-2d84-08dd468d63fa).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:1ac44e6b46c4decc3e4bbc05fbbad503f5cb5fdad0c57f075d21bd9ae5737976`
+Wenn das so ist,
+warum zerstörst du das Gesetz durch das Gesetz?
+Warum stürzt du den Glauben unter dem Vorwand des Glaubens?
+Warum versuchst du sogar,
+die Quelle der Gottheit mit philosophischen Beweisen zu auszuschöpfen?
+Wenn du dein Wissen über das Gesetz demonstrieren möchtest,
+sehr gut – erleuchte die unklaren Passagen in den Lesungen\!
+Zeige,
+dass das Gesetz sich nicht widerspricht\!
+Beweise,
+dass alles,
+was es verkündet,
+glaubwürdig ist\!
 
-Wenn das so ist, warum zerstörst du das Gesetz durch das Gesetz? Warum stürzt du den Glauben unter dem Vorwand des Glaubens? Warum versuchst du sogar, die Quelle der Gottheit mit philosophischen Beweisen zu auszuschöpfen? Wenn du dein Wissen über das Gesetz demonstrieren möchtest, sehr gut – erleuchte die unklaren Passagen in den Lesungen\! Zeige, dass das Gesetz sich nicht widerspricht\! Beweise, dass alles, was es verkündet, glaubwürdig ist\!
+Denn wenn du nur einen Teil davon anerkennst,
+aber einen anderen ablehnst,
+wie kannst du dann Glauben an ein Gesetz verlangen,
+das du selbst für unzuverlässig erklärst,
+indem du es nicht in seiner Gesamtheit glaubst?
+Wenn du jedoch den Glauben des Geistes dein Eigen nennst,
+dann zeige auch seine Kraft\!
+Befiehl den Bergen,
+sich zu bewegen\.
+Lass die Wildheit der Löwen nachlassen,
+und lass ihre Mäuler dich in Bewunderung streicheln\.
+Lass die aufschäumenden Wellen unter deinen Schritten bewegungslos wie Marmor werden und festen Grund bilden\.
+Lass durch die aufbrausenden Wellen des stürmischen Meeres ein Fisch deinen Glauben treu wie ein Gefäß tragen\.
+Halte den Lauf der Sonne und des Mondes mit den Zügeln deines Gebets zurück,
+von dem Gefängnis,
+das sie bei ihrem Untergang empfängt\.
+Lass das lodernde Feuer des feurigen Ofens in seiner Natur überwunden werden,
+und lass es durch dich und mit dir Kühle empfinden\.
 
-Denn wenn du nur einen Teil davon anerkennst, aber einen anderen ablehnst, wie kannst du dann Glauben an ein Gesetz verlangen, das du selbst für unzuverlässig erklärst, indem du es nicht in seiner Gesamtheit glaubst? Wenn du jedoch den Glauben des Geistes dein Eigen nennst, dann zeige auch seine Kraft\! Befiehl den Bergen, sich zu bewegen\. Lass die Wildheit der Löwen nachlassen, und lass ihre Mäuler dich in Bewunderung streicheln\. Lass die aufschäumenden Wellen unter deinen Schritten bewegungslos wie Marmor werden und festen Grund bilden\. Lass durch die aufbrausenden Wellen des stürmischen Meeres ein Fisch deinen Glauben treu wie ein Gefäß tragen\. Halte den Lauf der Sonne und des Mondes mit den Zügeln deines Gebets zurück, von dem Gefängnis, das sie bei ihrem Untergang empfängt\. Lass das lodernde Feuer des feurigen Ofens in seiner Natur überwunden werden, und lass es durch dich und mit dir Kühle empfinden\.
+Rufe die Seelen der Verstorbenen in die frühere Heimat des Lebens zurück und belebe sie mit deinem Atem\!
+Verbanne die Krankheit von den Leidenden,
+heile ihre Gebrechen\!
+Freue dich in Prüfungen und Leiden um des Namens des Herrn willen\!
+Wenn Schwierigkeiten kommen,
+zeige,
+dass du Glauben hast,
+auch wenn er nur so groß ist wie ein Senfkorn\!
+Aber wenn du stattdessen rücksichtslos nach weltlichem Ruhm unter dem Vorwand von Gesetz und Glauben strebst – wenn du es wagst,
+die ewige Geburt des Sohnes und des Heiligen Geistes von Gott einer Untersuchung zu unterziehen,
+die,
+gemäß der Gerechtigkeit und ihrer eigenen Natur,
+unvergleichlich und unbegreiflich ist – wenn du versuchst,
+sie mit Argumenten zu analysieren,
+zu messen und einzugrenzen,
+dann wage ich es,
+dir nichts zu sagen\.
 
-Rufe die Seelen der Verstorbenen in die frühere Heimat des Lebens zurück und belebe sie mit deinem Atem\! Verbanne die Krankheit von den Leidenden, heile ihre Gebrechen\! Freue dich in Prüfungen und Leiden um des Namens des Herrn willen\! Wenn Schwierigkeiten kommen, zeige, dass du Glauben hast, auch wenn er nur so groß ist wie ein Senfkorn\! Aber wenn du stattdessen rücksichtslos nach weltlichem Ruhm unter dem Vorwand von Gesetz und Glauben strebst – wenn du es wagst, die ewige Geburt des Sohnes und des Heiligen Geistes von Gott einer Untersuchung zu unterziehen, die, gemäß der Gerechtigkeit und ihrer eigenen Natur, unvergleichlich und unbegreiflich ist – wenn du versuchst, sie mit Argumenten zu analysieren, zu messen und einzugrenzen, dann wage ich es, dir nichts zu sagen\.
+Denn es wäre besser,
+unwissend zu erscheinen,
+als gottlos zu sein\.
+Doch ich habe etwas,
+das gegen dich spricht:
+Das Gesetz selbst,
+durch das du,
+vielleicht gelehrter als ich,
+versuchst,
+mich der Sünde zu beschuldigen,
+wendet sich mit Macht gegen dich,
+widerlegt und besiegt dich\.
+Denn Salomo sagt:
+„Suche nicht,
+was zu hoch für dich ist,
+und versuche nicht,
+das zu ergründen,
+was über deine Stärke hinausgeht\.
+Sei stets nur auf das bedacht,
+was Gott dir geboten hat,
+und dann wirst du nicht übermäßig neugierig auf viele seiner Werke sein\.
+Denn viele sind durch ihre eigene Vermessenheit in die Irre gegangen und von der Eitelkeit ihrer Gedanken gefangen worden\.“[^bible-556da3dc-c95d-4bff-84aa-904b83ca0f68]
 
-Denn es wäre besser, unwissend zu erscheinen, als gottlos zu sein\. Doch ich habe etwas, das gegen dich spricht: Das Gesetz selbst, durch das du, vielleicht gelehrter als ich, versuchst, mich der Sünde zu beschuldigen, wendet sich mit Macht gegen dich, widerlegt und besiegt dich\. Denn Salomo sagt: „Suche nicht, was zu hoch für dich ist, und versuche nicht, das zu ergründen, was über deine Stärke hinausgeht\. Sei stets nur auf das bedacht, was Gott dir geboten hat, und dann wirst du nicht übermäßig neugierig auf viele seiner Werke sein\. Denn viele sind durch ihre eigene Vermessenheit in die Irre gegangen und von der Eitelkeit ihrer Gedanken gefangen worden\.“[^bible-556da3dc-c95d-4bff-84aa-904b83ca0f68]
-
-Und ähnlich schreibt Paulus für den, der zu viel spekuliert: „Oh, die Tiefe der Reichtümer der Weisheit und des Wissens Gottes\! Wie unergründlich sind seine Urteile und wie unbegreiflich seine Wege\! Denn wer hat den Sinn des Herrn erkannt?“[^bible-2d90d149-d737-41df-a752-f26c681e44ff] Und dennoch möchtest du in sein Wesen eindringen? An einer anderen Stelle spricht er klar über diese Angelegenheit, als er Timotheus anweist: „Ich habe dich ermahnt, bestimmten Menschen zu gebieten, keine falschen Lehren zu verbreiten, noch sich Mythen und endlosen Genealogien zu widmen, die Streitigkeiten fördern statt das wahre Wissen Gottes, das im Glauben gegründet ist\. Denn das Ziel des Gebots ist die Liebe, die aus reinem Herzen, gutem Gewissen und aufrichtigen Glauben kommt\.“[^bible-43f629c2-e813-480d-8c67-fe377a856a2f]
+Und ähnlich schreibt Paulus für den,
+der zu viel spekuliert:
+„Oh,
+die Tiefe der Reichtümer der Weisheit und des Wissens Gottes\!
+Wie unergründlich sind seine Urteile und wie unbegreiflich seine Wege\!
+Denn wer hat den Sinn des Herrn erkannt?“[^bible-2d90d149-d737-41df-a752-f26c681e44ff]
+Und dennoch möchtest du in sein Wesen eindringen?
+An einer anderen Stelle spricht er klar über diese Angelegenheit,
+als er Timotheus anweist:
+„Ich habe dich ermahnt,
+bestimmten Menschen zu gebieten,
+keine falschen Lehren zu verbreiten,
+noch sich Mythen und endlosen Genealogien zu widmen,
+die Streitigkeiten fördern statt das wahre Wissen Gottes,
+das im Glauben gegründet ist\.
+Denn das Ziel des Gebots ist die Liebe,
+die aus reinem Herzen,
+gutem Gewissen und aufrichtigen Glauben kommt\.“[^bible-43f629c2-e813-480d-8c67-fe377a856a2f]
 
 ## Bibelverweise
 

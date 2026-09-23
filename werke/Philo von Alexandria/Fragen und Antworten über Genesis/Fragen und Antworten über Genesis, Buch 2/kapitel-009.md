@@ -7,6 +7,60 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-2#kapitel-0d19b924-164d-4778-9c2f-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:46ec330d2058ec5545ba33f635db13d113594eb1286e79589a4cd67d9875dcff`
-
-Warum sagt er: Alle Dinge, die auf der Erde existierten, sollen vernichtet werden; denn welche Sünde können die Tiere begehen? An erster Stelle: Wie, wenn ein Herrscher in der Schlacht fällt, auch die militärische Kraft des Reiches zerschlagen wird, so hat er es auch jetzt für angemessen gehalten, dass, wenn das ganze Menschengeschlecht, das einem Herrscher vergleichbar ist, vernichtet wird, er zugleich mit ihm auch die Arten der Tiere vernichtet\. Deshalb sterben auch bei Seuchen zuerst die Tiere, besonders die, die mit den Menschen aufgezogen werden und mit ihnen zusammenleben, wie Hunde und ähnliche Tiere, und danach sterben auch die Menschen\. An zweiter Stelle: Wie niemand die Natur tadelt, wenn beim Abschlagen des Hauptes auch die übrigen Teile des Körpers, so zahlreich und wichtig sie sind, mit ihm zugrunde gehen, so kann auch jetzt niemand an irgendetwas Anstoß nehmen, da der Mensch gleichsam Haupt und Oberster aller Tiere ist; und wenn er vernichtet wird, ist es keineswegs befremdlich, dass auch alle übrigen Tiere mit ihm vernichtet werden\. An dritter Stelle: Die Tiere sind ursprünglich nicht um ihrer selbst willen geschaffen worden, wie die Philosophen gesagt haben, sondern um der Menschheit zu dienen und zu ihrem Nutzen und Ruhm da zu sein\. Daher ist es sehr vernünftig, dass, wenn jene Wesen vernichtet werden, um derentwillen sie ihr Dasein hatten, auch sie des Lebens beraubt werden\. Das ist der Grund dieser Aussage im wörtlichen Sinn\. Hinsichtlich ihres verborgenen Sinnes aber können wir sagen: Wenn die Seele durch das Überströmen der Laster einer Flut ausgesetzt ist und von ihnen gewissermaßen erstickt wird, dann müssen notwendig auch jene Teile, die auf der Erde sind, ich meine die irdischen Teile des Körpers, zugleich mit ihr zugrunde gehen\. Denn ein Leben, das in Bosheit geführt wird, ist Tod: Die Augen gehen zugrunde, obwohl sie sehen, insofern sie verkehrt sehen; auch die Ohren gehen zugrunde, obwohl sie hören, insofern sie verkehrt hören; und der ganze Leib mitsamt den Sinnen geht zugrunde, insofern sie alle verkehrt gebraucht werden\.
+Warum sagt er:
+Alle Dinge,
+die auf der Erde existierten,
+sollen vernichtet werden;
+denn welche Sünde können die Tiere begehen?
+An erster Stelle:
+Wie,
+wenn ein Herrscher in der Schlacht fällt,
+auch die militärische Kraft des Reiches zerschlagen wird,
+so hat er es auch jetzt für angemessen gehalten,
+dass,
+wenn das ganze Menschengeschlecht,
+das einem Herrscher vergleichbar ist,
+vernichtet wird,
+er zugleich mit ihm auch die Arten der Tiere vernichtet\.
+Deshalb sterben auch bei Seuchen zuerst die Tiere,
+besonders die,
+die mit den Menschen aufgezogen werden und mit ihnen zusammenleben,
+wie Hunde und ähnliche Tiere,
+und danach sterben auch die Menschen\.
+An zweiter Stelle:
+Wie niemand die Natur tadelt,
+wenn beim Abschlagen des Hauptes auch die übrigen Teile des Körpers,
+so zahlreich und wichtig sie sind,
+mit ihm zugrunde gehen,
+so kann auch jetzt niemand an irgendetwas Anstoß nehmen,
+da der Mensch gleichsam Haupt und Oberster aller Tiere ist;
+und wenn er vernichtet wird,
+ist es keineswegs befremdlich,
+dass auch alle übrigen Tiere mit ihm vernichtet werden\.
+An dritter Stelle:
+Die Tiere sind ursprünglich nicht um ihrer selbst willen geschaffen worden,
+wie die Philosophen gesagt haben,
+sondern um der Menschheit zu dienen und zu ihrem Nutzen und Ruhm da zu sein\.
+Daher ist es sehr vernünftig,
+dass,
+wenn jene Wesen vernichtet werden,
+um derentwillen sie ihr Dasein hatten,
+auch sie des Lebens beraubt werden\.
+Das ist der Grund dieser Aussage im wörtlichen Sinn\.
+Hinsichtlich ihres verborgenen Sinnes aber können wir sagen:
+Wenn die Seele durch das Überströmen der Laster einer Flut ausgesetzt ist und von ihnen gewissermaßen erstickt wird,
+dann müssen notwendig auch jene Teile,
+die auf der Erde sind,
+ich meine die irdischen Teile des Körpers,
+zugleich mit ihr zugrunde gehen\.
+Denn ein Leben,
+das in Bosheit geführt wird,
+ist Tod:
+Die Augen gehen zugrunde,
+obwohl sie sehen,
+insofern sie verkehrt sehen;
+auch die Ohren gehen zugrunde,
+obwohl sie hören,
+insofern sie verkehrt hören;
+und der ganze Leib mitsamt den Sinnen geht zugrunde,
+insofern sie alle verkehrt gebraucht werden\.

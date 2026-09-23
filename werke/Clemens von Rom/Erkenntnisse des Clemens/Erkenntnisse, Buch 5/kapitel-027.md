@@ -7,6 +7,25 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-5#kapitel-cea4fbde-353d-4919-4bf3-08dd123715ec).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7bae49831d96c156773ead8c796b3ea4a51064e14a6e90168bf5f94e1e045cf2`
-
-Doch dies möchte ich, dass ihr auch wisst: Auf solche Seelen nimmt Gott nicht direkt Rache, sondern die gesamte Schöpfung erhebt sich und fügt den Gottlosen Strafen zu\. Und obwohl die Güte Gottes in dieser Welt sowohl den Frommen als auch den Gottlosen das Licht der Welt und die Dienste der Erde gewährt, so geschieht dies doch nicht ohne Trauer, wenn die Sonne ihr Licht den Gottlosen spendet und die anderen Elemente ihren Dienst verrichten\. Kurz gesagt, manchmal werden die Elemente sogar im Widerspruch zur Güte des Schöpfers durch die Verbrechen der Gottlosen erschöpft; und daher wird entweder die Frucht der Erde verdorben, oder die Zusammensetzung der Luft wird verdorben, oder die Hitze der Sonne über das Maß hinaus erhöht, oder es gibt übermäßigen Regen oder Kälte\. Daher brechen Pestilenz, Hungersnot und der Tod in verschiedenen Formen hervor, denn die Kreatur eilt, um Rache an den Gottlosen zu nehmen; doch die Güte Gottes hält sie zurück und zügelt ihren Zorn gegen die Gottlosen und zwingt sie, Seiner Barmherzigkeit gehorsam zu sein, anstatt sich von den Sünden und Verbrechen der Menschen entflammen zu lassen\. Denn die Geduld Gottes wartet auf die Umkehr der Menschen, solange sie in diesem Körper sind\.
+Doch dies möchte ich,
+dass ihr auch wisst:
+Auf solche Seelen nimmt Gott nicht direkt Rache,
+sondern die gesamte Schöpfung erhebt sich und fügt den Gottlosen Strafen zu\.
+Und obwohl die Güte Gottes in dieser Welt sowohl den Frommen als auch den Gottlosen das Licht der Welt und die Dienste der Erde gewährt,
+so geschieht dies doch nicht ohne Trauer,
+wenn die Sonne ihr Licht den Gottlosen spendet und die anderen Elemente ihren Dienst verrichten\.
+Kurz gesagt,
+manchmal werden die Elemente sogar im Widerspruch zur Güte des Schöpfers durch die Verbrechen der Gottlosen erschöpft;
+und daher wird entweder die Frucht der Erde verdorben,
+oder die Zusammensetzung der Luft wird verdorben,
+oder die Hitze der Sonne über das Maß hinaus erhöht,
+oder es gibt übermäßigen Regen oder Kälte\.
+Daher brechen Pestilenz,
+Hungersnot und der Tod in verschiedenen Formen hervor,
+denn die Kreatur eilt,
+um Rache an den Gottlosen zu nehmen;
+doch die Güte Gottes hält sie zurück und zügelt ihren Zorn gegen die Gottlosen und zwingt sie,
+Seiner Barmherzigkeit gehorsam zu sein,
+anstatt sich von den Sünden und Verbrechen der Menschen entflammen zu lassen\.
+Denn die Geduld Gottes wartet auf die Umkehr der Menschen,
+solange sie in diesem Körper sind\.

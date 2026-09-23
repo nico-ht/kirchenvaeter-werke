@@ -7,6 +7,48 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-e0678b82-c961-48d7-2f70-08de09a6435b).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:86963aa30cde82e16864722c9f04ff529afb098e3a7b4ba0fdb43f12f3246690`
-
-„Wenn diese Philosophen“, fragte ich, „die Wahrheit nicht kennen, welchem Lehrer oder welchem Weg soll man folgen?“ „Vor langer Zeit“, erwiderte er, „lange vor jenen sogenannten Philosophen, lebten selige Männer, gerecht und von Gott geliebt, die unter Eingebung des Heiligen Geistes sprachen und künftige Ereignisse voraussagten, die jetzt eintreten\. Diese Männer nennen wir die Propheten\. Sie allein kannten die Wahrheit und gaben sie den Menschen weiter, ohne sich vor ihnen zu beugen und ohne Furcht vor ihnen\. Ohne jedes Verlangen nach eigenem Ruhm gaben sie nur das wieder, was sie hörten und sahen, wenn sie von einem heiligen Geist bewegt wurden\. Ihre Schriften sind noch vorhanden, und wer sie im rechten Glauben liest, wird großen Gewinn haben an der Erkenntnis von Ursprung und Ende der Dinge und von allem, was ein Philosoph wissen sollte\. Damals führten sie für ihre Aussagen keinen Beweis, denn als verlässliche Zeugen der Wahrheit standen sie über jeder Beweisführung; aber die Ereignisse, die geschehen sind und jetzt geschehen, zwingen dich, ihren Worten zu glauben\. Glaubwürdig sind sie auch wegen der Wunder, die sie taten; denn sie erhoben Gott, den Vater und Schöpfer aller Dinge, und machten Christus, seinen Sohn, bekannt, den er gesandt hat\. Das haben die falschen Propheten, die von einem irrenden und unreinen Geist erfüllt sind, nie getan und tun es auch jetzt nicht; vielmehr unternehmen sie gewisse Wunder, um die Menschen zu verblüffen, und sie verherrlichen die Dämonen und die Geister des Irrtums\. Vor allem bitte Gott, dir die Tore des Lichts zu öffnen, denn niemand kann diese Wahrheiten wahrnehmen oder verstehen, wenn er nicht von Gott und seinem Christus erleuchtet worden ist\.“
+„Wenn diese Philosophen“,
+fragte ich,
+„die Wahrheit nicht kennen,
+welchem Lehrer oder welchem Weg soll man folgen?“
+„Vor langer Zeit“,
+erwiderte er,
+„lange vor jenen sogenannten Philosophen,
+lebten selige Männer,
+gerecht und von Gott geliebt,
+die unter Eingebung des Heiligen Geistes sprachen und künftige Ereignisse voraussagten,
+die jetzt eintreten\.
+Diese Männer nennen wir die Propheten\.
+Sie allein kannten die Wahrheit und gaben sie den Menschen weiter,
+ohne sich vor ihnen zu beugen und ohne Furcht vor ihnen\.
+Ohne jedes Verlangen nach eigenem Ruhm gaben sie nur das wieder,
+was sie hörten und sahen,
+wenn sie von einem heiligen Geist bewegt wurden\.
+Ihre Schriften sind noch vorhanden,
+und wer sie im rechten Glauben liest,
+wird großen Gewinn haben an der Erkenntnis von Ursprung und Ende der Dinge und von allem,
+was ein Philosoph wissen sollte\.
+Damals führten sie für ihre Aussagen keinen Beweis,
+denn als verlässliche Zeugen der Wahrheit standen sie über jeder Beweisführung;
+aber die Ereignisse,
+die geschehen sind und jetzt geschehen,
+zwingen dich,
+ihren Worten zu glauben\.
+Glaubwürdig sind sie auch wegen der Wunder,
+die sie taten;
+denn sie erhoben Gott,
+den Vater und Schöpfer aller Dinge,
+und machten Christus,
+seinen Sohn,
+bekannt,
+den er gesandt hat\.
+Das haben die falschen Propheten,
+die von einem irrenden und unreinen Geist erfüllt sind,
+nie getan und tun es auch jetzt nicht;
+vielmehr unternehmen sie gewisse Wunder,
+um die Menschen zu verblüffen,
+und sie verherrlichen die Dämonen und die Geister des Irrtums\.
+Vor allem bitte Gott,
+dir die Tore des Lichts zu öffnen,
+denn niemand kann diese Wahrheiten wahrnehmen oder verstehen,
+wenn er nicht von Gott und seinem Christus erleuchtet worden ist\.“

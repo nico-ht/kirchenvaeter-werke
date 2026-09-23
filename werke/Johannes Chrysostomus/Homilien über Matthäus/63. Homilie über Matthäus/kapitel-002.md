@@ -7,9 +7,167 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/63-homilie-ueber-matthaeus#kapitel-7b1aa727-e4fa-4390-5b61-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:12c10406a668b2b788082296def269ec31bd5f6b808ce6c236ca44317c9365c7`
-
-Siehst du, wie viele Kampfpreise, wie viele Kronen er für diesen Wettkampf aussetzt? Wenn jener ihn aber versucht hätte, hätte er ihm das nicht gesagt\. Nun aber spricht er so, dass er ihn an sich zieht, zeigt ihm, dass der Lohn groß ist, und überlässt alles seinem eigenen Willen; durch all dies verhüllt und mildert er, was an der Mahnung schwer zu sein scheint\. Darum zeigt er ihm auch zuerst den Kampfpreis, bevor er von Kampf und Mühe spricht, und sagt: „Wenn du vollkommen sein willst[^bible-89b7a8a1-fae9-4e60-8795-35e76d6f3f65]“; und erst dann sagt er: „Verkaufe, was du hast, und gib es den Armen[^bible-89b7a8a1-fae9-4e60-8795-35e76d6f3f65]“; und sogleich wieder die Belohnungen: „Du wirst einen Schatz in den Himmeln haben, und komm, folge mir[^bible-89b7a8a1-fae9-4e60-8795-35e76d6f3f65]\.“ Denn auch ihm zu folgen ist eine große Belohnung\. „Und du wirst einen Schatz in den Himmeln haben[^bible-89b7a8a1-fae9-4e60-8795-35e76d6f3f65]\.“ Weil es nämlich um Geld ging und er ihm riet, alles aufzugeben, zeigt er, dass er ihm nicht nimmt, was er hat, sondern zu dem, was er hat, noch hinzufügt, und ihm mehr gibt, als er ihm zu leisten geboten hat; nicht nur mehr, sondern so viel Größeres, wie der Himmel größer ist als die Erde, ja noch mehr\. Einen Schatz nannte er es, um die Fülle der Belohnung, ihre Dauer und ihre Unantastbarkeit anzudeuten, soweit man dies dem Hörer mit menschlichen Worten zu verstehen geben konnte\. Es genügt also nicht, das Geld zu verachten, sondern man muss auch die Armen ernähren und vor allem Christus folgen; das heißt: alles tun, was er gebietet, bereit sein, getötet zu werden, und auch zum täglichen Tod bereit\. „Wenn einer mir nachfolgen will, verleugne er sich selbst, nehme sein Kreuz auf sich und folge mir[^bible-2f807ee8-05be-4cff-8408-466ca8730171]\.“ Dieses Gebot ist also weit größer, als das Geld wegzuwerfen: sogar das eigene Blut zu vergießen\. Und nicht wenig hilft es dazu, vom Geld frei geworden zu sein\. Als aber der junge Mann das hörte, ging er betrübt weg\. Dann sagt der Evangelist, als wollte er zeigen, dass ihm nichts Unbegreifliches widerfahren war: „Denn er hatte viele Güter[^bible-f3ca2873-cfc0-4973-89d7-fc56a9a8d50b]\.“ Denn nicht in gleicher Weise werden die festgehalten, die wenig haben, und die, die von großem Besitz gleichsam überschwemmt sind; dann wird die Liebe dazu tyrannischer\. Das sage ich immer wieder und höre nicht auf damit: Der Zuwachs dessen, was hinzukommt, facht die Flamme stärker an und macht die Besitzenden ärmer, wenn er sie nur in noch stärkeres Verlangen versetzt und sie ihren Mangel noch mehr spüren lässt\. Sieh also auch hier, welche Macht die Leidenschaft gezeigt hat\. Denn den, der mit Freude und Bereitwilligkeit herangetreten war, hat sie, als Christus ihm gebot, das Geld wegzuwerfen, so überwältigt und niedergedrückt, dass sie ihm nicht einmal erlaubte, darauf zu antworten; vielmehr ging er schweigend weg, niedergeschlagen und finster geworden\. Was also sagt Christus? „Wie schwer werden die Reichen in das Reich der Himmel eingehen\![^bible-0d5908fe-f014-40dc-84e4-c99f839d9467]“ Nicht das Geld klagt er an, sondern die, die von ihm festgehalten werden\. Wenn aber schon ein Reicher schwer hineinkommt, wie viel mehr der Habgierige\. Denn wenn schon das Nicht\-Hergeben des Eigenen ein Hindernis für das Reich ist, dann bedenke, wie viel Feuer es aufhäuft, auch noch das Fremde zu nehmen\. Warum aber sagte er zu den Jüngern, dass ein Reicher schwer hineinkommen werde, obwohl sie arm waren und nichts besaßen? Er lehrte sie, sich der Armut nicht zu schämen, und rechtfertigte sich gewissermaßen vor ihnen dafür, dass er ihnen nicht erlaubt hatte, etwas zu besitzen\. Nachdem er aber gesagt hatte, es sei schwer, zeigt er im Weitergehen, dass es sogar unmöglich ist; und nicht einfach unmöglich, sondern in gesteigerter Weise unmöglich\. Das machte er durch das Beispiel vom Kamel und der Nadel deutlich\. „Leichter ist es, dass ein Kamel durch ein Nadelöhr geht, als dass ein Reicher in das Reich der Himmel eingeht[^bible-f74d88c7-5829-4115-b71c-3e3390056d51]“, sagt er\. Daraus zeigt sich: Kein geringer Lohn wartet auf die Reichen, die imstande sind, weise zu leben\. Darum sagte er auch, dies sei ein Werk Gottes, um zu zeigen, dass der, der das vollbringen will, viel Gnade braucht\. Als die Jünger also erschraken, sagte er: „Bei Menschen ist das unmöglich, bei Gott aber ist alles möglich[^bible-2482109d-b90e-49d4-93c7-b30983e1a62b]\.“ Und warum erschrecken die Jünger, obwohl sie arm sind, sogar sehr arm? Warum also geraten sie in Unruhe? Weil sie um das Heil der anderen Schmerz empfanden, große Liebe zu allen hatten und bereits das Herz von Lehrern angenommen hatten\. So zitterten und fürchteten sie wegen dieses Ausspruchs für die ganze Welt, dass sie viel Trost brauchten\. Darum blickte er sie zuerst an und sagte: „Was bei Menschen unmöglich ist, ist bei Gott möglich[^bible-76e462e1-7acf-46b5-a11a-62601b3604e3]\.“ Denn mit mildem und sanftem Blick tröstete er ihr erschüttertes Denken und löste ihre Angst, denn das machte der Evangelist deutlich, als er sagte, er habe sie angeblickt\. Dann erst richtete er sie auch durch die Worte auf: Er brachte die Macht Gottes ins Spiel und machte sie so zuversichtlich\. Wenn du aber auch die Weise erfahren willst und wie das Unmögliche möglich werden kann, dann höre\. Denn er sagte nicht deshalb: „Was bei Menschen unmöglich ist, ist bei Gott möglich[^bible-76e462e1-7acf-46b5-a11a-62601b3604e3]“, damit du dich zurücklehnst und davon Abstand nimmst, als wäre es unmöglich, sondern damit du die Größe der Leistung bedenkst, dich bereitwillig daranmachst, Gott bittest, dir bei diesen guten Kämpfen beizustehen, und so das Leben erlangst\.
+Siehst du,
+wie viele Kampfpreise,
+wie viele Kronen er für diesen Wettkampf aussetzt?
+Wenn jener ihn aber versucht hätte,
+hätte er ihm das nicht gesagt\.
+Nun aber spricht er so,
+dass er ihn an sich zieht,
+zeigt ihm,
+dass der Lohn groß ist,
+und überlässt alles seinem eigenen Willen;
+durch all dies verhüllt und mildert er,
+was an der Mahnung schwer zu sein scheint\.
+Darum zeigt er ihm auch zuerst den Kampfpreis,
+bevor er von Kampf und Mühe spricht,
+und sagt:
+„Wenn du vollkommen sein willst[^bible-89b7a8a1-fae9-4e60-8795-35e76d6f3f65]“;
+und erst dann sagt er:
+„Verkaufe,
+was du hast,
+und gib es den Armen[^bible-89b7a8a1-fae9-4e60-8795-35e76d6f3f65]“;
+und sogleich wieder die Belohnungen:
+„Du wirst einen Schatz in den Himmeln haben,
+und komm,
+folge mir[^bible-89b7a8a1-fae9-4e60-8795-35e76d6f3f65]\.“
+Denn auch ihm zu folgen ist eine große Belohnung\.
+„Und du wirst einen Schatz in den Himmeln haben[^bible-89b7a8a1-fae9-4e60-8795-35e76d6f3f65]\.“
+Weil es nämlich um Geld ging und er ihm riet,
+alles aufzugeben,
+zeigt er,
+dass er ihm nicht nimmt,
+was er hat,
+sondern zu dem,
+was er hat,
+noch hinzufügt,
+und ihm mehr gibt,
+als er ihm zu leisten geboten hat;
+nicht nur mehr,
+sondern so viel Größeres,
+wie der Himmel größer ist als die Erde,
+ja noch mehr\.
+Einen Schatz nannte er es,
+um die Fülle der Belohnung,
+ihre Dauer und ihre Unantastbarkeit anzudeuten,
+soweit man dies dem Hörer mit menschlichen Worten zu verstehen geben konnte\.
+Es genügt also nicht,
+das Geld zu verachten,
+sondern man muss auch die Armen ernähren und vor allem Christus folgen;
+das heißt:
+alles tun,
+was er gebietet,
+bereit sein,
+getötet zu werden,
+und auch zum täglichen Tod bereit\.
+„Wenn einer mir nachfolgen will,
+verleugne er sich selbst,
+nehme sein Kreuz auf sich und folge mir[^bible-2f807ee8-05be-4cff-8408-466ca8730171]\.“
+Dieses Gebot ist also weit größer,
+als das Geld wegzuwerfen:
+sogar das eigene Blut zu vergießen\.
+Und nicht wenig hilft es dazu,
+vom Geld frei geworden zu sein\.
+Als aber der junge Mann das hörte,
+ging er betrübt weg\.
+Dann sagt der Evangelist,
+als wollte er zeigen,
+dass ihm nichts Unbegreifliches widerfahren war:
+„Denn er hatte viele Güter[^bible-f3ca2873-cfc0-4973-89d7-fc56a9a8d50b]\.“
+Denn nicht in gleicher Weise werden die festgehalten,
+die wenig haben,
+und die,
+die von großem Besitz gleichsam überschwemmt sind;
+dann wird die Liebe dazu tyrannischer\.
+Das sage ich immer wieder und höre nicht auf damit:
+Der Zuwachs dessen,
+was hinzukommt,
+facht die Flamme stärker an und macht die Besitzenden ärmer,
+wenn er sie nur in noch stärkeres Verlangen versetzt und sie ihren Mangel noch mehr spüren lässt\.
+Sieh also auch hier,
+welche Macht die Leidenschaft gezeigt hat\.
+Denn den,
+der mit Freude und Bereitwilligkeit herangetreten war,
+hat sie,
+als Christus ihm gebot,
+das Geld wegzuwerfen,
+so überwältigt und niedergedrückt,
+dass sie ihm nicht einmal erlaubte,
+darauf zu antworten;
+vielmehr ging er schweigend weg,
+niedergeschlagen und finster geworden\.
+Was also sagt Christus?
+„Wie schwer werden die Reichen in das Reich der Himmel eingehen\![^bible-0d5908fe-f014-40dc-84e4-c99f839d9467]“ Nicht das Geld klagt er an,
+sondern die,
+die von ihm festgehalten werden\.
+Wenn aber schon ein Reicher schwer hineinkommt,
+wie viel mehr der Habgierige\.
+Denn wenn schon das Nicht\-Hergeben des Eigenen ein Hindernis für das Reich ist,
+dann bedenke,
+wie viel Feuer es aufhäuft,
+auch noch das Fremde zu nehmen\.
+Warum aber sagte er zu den Jüngern,
+dass ein Reicher schwer hineinkommen werde,
+obwohl sie arm waren und nichts besaßen?
+Er lehrte sie,
+sich der Armut nicht zu schämen,
+und rechtfertigte sich gewissermaßen vor ihnen dafür,
+dass er ihnen nicht erlaubt hatte,
+etwas zu besitzen\.
+Nachdem er aber gesagt hatte,
+es sei schwer,
+zeigt er im Weitergehen,
+dass es sogar unmöglich ist;
+und nicht einfach unmöglich,
+sondern in gesteigerter Weise unmöglich\.
+Das machte er durch das Beispiel vom Kamel und der Nadel deutlich\.
+„Leichter ist es,
+dass ein Kamel durch ein Nadelöhr geht,
+als dass ein Reicher in das Reich der Himmel eingeht[^bible-f74d88c7-5829-4115-b71c-3e3390056d51]“,
+sagt er\.
+Daraus zeigt sich:
+Kein geringer Lohn wartet auf die Reichen,
+die imstande sind,
+weise zu leben\.
+Darum sagte er auch,
+dies sei ein Werk Gottes,
+um zu zeigen,
+dass der,
+der das vollbringen will,
+viel Gnade braucht\.
+Als die Jünger also erschraken,
+sagte er:
+„Bei Menschen ist das unmöglich,
+bei Gott aber ist alles möglich[^bible-2482109d-b90e-49d4-93c7-b30983e1a62b]\.“
+Und warum erschrecken die Jünger,
+obwohl sie arm sind,
+sogar sehr arm?
+Warum also geraten sie in Unruhe?
+Weil sie um das Heil der anderen Schmerz empfanden,
+große Liebe zu allen hatten und bereits das Herz von Lehrern angenommen hatten\.
+So zitterten und fürchteten sie wegen dieses Ausspruchs für die ganze Welt,
+dass sie viel Trost brauchten\.
+Darum blickte er sie zuerst an und sagte:
+„Was bei Menschen unmöglich ist,
+ist bei Gott möglich[^bible-76e462e1-7acf-46b5-a11a-62601b3604e3]\.“
+Denn mit mildem und sanftem Blick tröstete er ihr erschüttertes Denken und löste ihre Angst,
+denn das machte der Evangelist deutlich,
+als er sagte,
+er habe sie angeblickt\.
+Dann erst richtete er sie auch durch die Worte auf:
+Er brachte die Macht Gottes ins Spiel und machte sie so zuversichtlich\.
+Wenn du aber auch die Weise erfahren willst und wie das Unmögliche möglich werden kann,
+dann höre\.
+Denn er sagte nicht deshalb:
+„Was bei Menschen unmöglich ist,
+ist bei Gott möglich[^bible-76e462e1-7acf-46b5-a11a-62601b3604e3]“,
+damit du dich zurücklehnst und davon Abstand nimmst,
+als wäre es unmöglich,
+sondern damit du die Größe der Leistung bedenkst,
+dich bereitwillig daranmachst,
+Gott bittest,
+dir bei diesen guten Kämpfen beizustehen,
+und so das Leben erlangst\.
 
 ## Bibelverweise
 

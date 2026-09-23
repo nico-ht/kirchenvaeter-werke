@@ -7,6 +7,42 @@ Autor: Tatian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tatian/ansprache-an-die-griechen#kapitel-095af931-52e5-4e07-3d8b-08ded167f699).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:04314f117ccd2bd5da3c2b9e71d71a4f36b04f8b3d2b3f74af8df42b7bbc9346`
-
-Ich habe Männer gesehen, niedergedrückt von körperlichen Übungen und die Bürde ihres Fleisches mit sich herumschleppend\. Vor ihnen lagen Preise und Siegeskränze, während die Kampfrichter sie anfeuerten, nicht zu Taten der Tugend, sondern zum Wettstreit in Gewalt und Zwietracht; und wer sich im Zuschlagen hervortat, wurde gekrönt\. Das sind noch die geringeren Übel\. Doch wer würde nicht davor zurückschrecken, von den größeren zu berichten? Manche geben sich aus Hang zur Ausschweifung dem Müßiggang hin und verkaufen sich, um getötet zu werden: Der Bedürftige verschachert sich selbst, der Reiche aber kauft andere, damit sie getötet werden\. Dafür nehmen die Zuschauer Platz, und die Boxer treten ohne jeden Grund zum Zweikampf an; niemand steigt in die Arena hinab, um ihnen beizustehen\. Macht ihr euch mit solchen Darbietungen etwa Ehre? Euer Oberhaupt stellt eine Legion blutbefleckter Mörder zusammen und verpflichtet sich, für ihren Unterhalt zu sorgen\. Diese Schurken schickt er hinaus, und ihr versammelt euch zu dem Schauspiel, um sowohl über die Bosheit des Veranstalters als auch über die der Männer zu urteilen, die zum Kampf antreten\. Wer das mörderische Schauspiel verpasst, ist darüber betrübt, weil er nicht dazu verdammt war, Zuschauer böser, gottloser und abscheulicher Taten zu sein\. Ihr schlachtet Tiere, um ihr Fleisch zu essen, und kauft Menschen, um der Seele ein kannibalisches Festmahl zu bereiten und sie durch gottlosestes Blutvergießen zu nähren\. Der Räuber mordet um der Beute willen, der Reiche aber kauft Gladiatoren, damit sie getötet werden\.
+Ich habe Männer gesehen,
+niedergedrückt von körperlichen Übungen und die Bürde ihres Fleisches mit sich herumschleppend\.
+Vor ihnen lagen Preise und Siegeskränze,
+während die Kampfrichter sie anfeuerten,
+nicht zu Taten der Tugend,
+sondern zum Wettstreit in Gewalt und Zwietracht;
+und wer sich im Zuschlagen hervortat,
+wurde gekrönt\.
+Das sind noch die geringeren Übel\.
+Doch wer würde nicht davor zurückschrecken,
+von den größeren zu berichten?
+Manche geben sich aus Hang zur Ausschweifung dem Müßiggang hin und verkaufen sich,
+um getötet zu werden:
+Der Bedürftige verschachert sich selbst,
+der Reiche aber kauft andere,
+damit sie getötet werden\.
+Dafür nehmen die Zuschauer Platz,
+und die Boxer treten ohne jeden Grund zum Zweikampf an;
+niemand steigt in die Arena hinab,
+um ihnen beizustehen\.
+Macht ihr euch mit solchen Darbietungen etwa Ehre?
+Euer Oberhaupt stellt eine Legion blutbefleckter Mörder zusammen und verpflichtet sich,
+für ihren Unterhalt zu sorgen\.
+Diese Schurken schickt er hinaus,
+und ihr versammelt euch zu dem Schauspiel,
+um sowohl über die Bosheit des Veranstalters als auch über die der Männer zu urteilen,
+die zum Kampf antreten\.
+Wer das mörderische Schauspiel verpasst,
+ist darüber betrübt,
+weil er nicht dazu verdammt war,
+Zuschauer böser,
+gottloser und abscheulicher Taten zu sein\.
+Ihr schlachtet Tiere,
+um ihr Fleisch zu essen,
+und kauft Menschen,
+um der Seele ein kannibalisches Festmahl zu bereiten und sie durch gottlosestes Blutvergießen zu nähren\.
+Der Räuber mordet um der Beute willen,
+der Reiche aber kauft Gladiatoren,
+damit sie getötet werden\.

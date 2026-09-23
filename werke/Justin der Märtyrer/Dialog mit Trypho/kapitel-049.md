@@ -7,13 +7,139 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-b87009d3-a8fc-4118-2b2c-08de1f7dfc7a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:acb4705430467c492204010b4cbd57b7b756571ad8c9a7ef2d2cd2e2efad3876`
+„Mir scheint“,
+sagte Trypho,
+„dass die,
+die behaupten,
+er sei menschlichen Ursprungs gewesen,
+zur Salbung erwählt worden und so zum Christus geworden,
+eine Lehre vortragen,
+die weit glaubwürdiger ist als deine\.
+Wir Juden erwarten alle,
+dass der Christus ein Mann menschlicher Herkunft sein wird,
+und dass Elija kommen wird,
+um ihn zu salben\.
+Wenn dieser Mann als der Christus erscheint,
+muss er als ein Mensch aus menschlichem Ursprung gelten;
+da aber Elija noch nicht gekommen ist,
+muss ich erklären,
+dass dieser Mann nicht der Christus ist\.“
+Ich fragte ihn:
+„Sagt nicht das Wort durch Sacharja:
+‚Siehe,
+ich sende euch Elija,
+ehe der Tag des Herrn kommt,
+groß und herrlich\.‘[^bible-7d2a7d95-e510-4dc2-a9cc-bd03a537f14b]“ „Gewiss“,
+antwortete er\.
+„Wenn dich also die Schrift nötigt einzugestehen,
+dass zwei Ankünfte des Christus vorhergesagt wurden – die eine,
+in der er im Leiden erscheint,
+ohne Ehre und ohne Schönheit,
+und die andere,
+in der er in Herrlichkeit wiederkommt,
+um alle Menschen zu richten,
+wie es durch die zuvor mehrfach angeführten Schriftstellen erwiesen ist –,
+müssen wir dann nicht schließen,
+dass das Wort Gottes vorausgesagt hat,
+Elija werde der Vorläufer jenes großen und herrlichen Tages sein,
+das heißt seiner zweiten Ankunft?“
+„Gewiss“,
+erwiderte er\.
 
-„Mir scheint“, sagte Trypho, „dass die, die behaupten, er sei menschlichen Ursprungs gewesen, zur Salbung erwählt worden und so zum Christus geworden, eine Lehre vortragen, die weit glaubwürdiger ist als deine\. Wir Juden erwarten alle, dass der Christus ein Mann menschlicher Herkunft sein wird, und dass Elija kommen wird, um ihn zu salben\. Wenn dieser Mann als der Christus erscheint, muss er als ein Mensch aus menschlichem Ursprung gelten; da aber Elija noch nicht gekommen ist, muss ich erklären, dass dieser Mann nicht der Christus ist\.“ Ich fragte ihn: „Sagt nicht das Wort durch Sacharja: ‚Siehe, ich sende euch Elija, ehe der Tag des Herrn kommt, groß und herrlich\.‘[^bible-7d2a7d95-e510-4dc2-a9cc-bd03a537f14b]“ „Gewiss“, antwortete er\. „Wenn dich also die Schrift nötigt einzugestehen, dass zwei Ankünfte des Christus vorhergesagt wurden – die eine, in der er im Leiden erscheint, ohne Ehre und ohne Schönheit, und die andere, in der er in Herrlichkeit wiederkommt, um alle Menschen zu richten, wie es durch die zuvor mehrfach angeführten Schriftstellen erwiesen ist –, müssen wir dann nicht schließen, dass das Wort Gottes vorausgesagt hat, Elija werde der Vorläufer jenes großen und herrlichen Tages sein, das heißt seiner zweiten Ankunft?“ „Gewiss“, erwiderte er\.
+Ich fuhr fort und sagte,
+„unser Herr selbst habe uns gelehrt,
+dass es so kommen werde,
+nämlich dass auch Elija komme;
+und wir wissen,
+dass dies eintreten wird,
+wenn unser Herr Jesus Christus im Begriff ist,
+in Herrlichkeit vom Himmel zu kommen – so wie der Geist Gottes,
+der in Elija war,
+in der Person des Johannes hervortrat,
+eines Propheten aus eurem Volk,
+nach dem unter euch kein weiterer Prophet erschienen ist,
+als Vorläufer seines ersten Kommens\.
+Denn Johannes rief,
+als er am Fluss Jordan saß:
+„Ich taufe euch mit Wasser zur Umkehr;
+der aber nach mir kommt,
+ist stärker als ich,
+und ich bin nicht würdig,
+ihm die Sandalen zu tragen\.
+Er wird euch mit dem Heiligen Geist und mit Feuer taufen\.
+Seine Worfschaufel ist in seiner Hand,
+und er wird seine Tenne gründlich reinigen und seinen Weizen in die Scheune sammeln;
+die Spreu aber wird er mit unlöschbarem Feuer verbrennen\.“[^bible-8dc7b425-8418-4b16-8f34-51a4ccd0f57c]
+Euer König Herodes sperrte diesen Propheten Johannes ins Gefängnis,
+und auf Herodes Geburtstagsfeier gefiel ihm der Tanz seiner Nichte so sehr,
+dass er versprach,
+ihr zu geben,
+was immer sie sich wünsche\.
+Auf Betreiben ihrer Mutter verlangte das junge Mädchen den Kopf des gefangenen Johannes\.
+Daraufhin befahl Herodes,
+den Kopf des Johannes auf einer Platte hereinzubringen\.
 
-Ich fuhr fort und sagte, „unser Herr selbst habe uns gelehrt, dass es so kommen werde, nämlich dass auch Elija komme; und wir wissen, dass dies eintreten wird, wenn unser Herr Jesus Christus im Begriff ist, in Herrlichkeit vom Himmel zu kommen – so wie der Geist Gottes, der in Elija war, in der Person des Johannes hervortrat, eines Propheten aus eurem Volk, nach dem unter euch kein weiterer Prophet erschienen ist, als Vorläufer seines ersten Kommens\. Denn Johannes rief, als er am Fluss Jordan saß: „Ich taufe euch mit Wasser zur Umkehr; der aber nach mir kommt, ist stärker als ich, und ich bin nicht würdig, ihm die Sandalen zu tragen\. Er wird euch mit dem Heiligen Geist und mit Feuer taufen\. Seine Worfschaufel ist in seiner Hand, und er wird seine Tenne gründlich reinigen und seinen Weizen in die Scheune sammeln; die Spreu aber wird er mit unlöschbarem Feuer verbrennen\.“[^bible-8dc7b425-8418-4b16-8f34-51a4ccd0f57c] Euer König Herodes sperrte diesen Propheten Johannes ins Gefängnis, und auf Herodes Geburtstagsfeier gefiel ihm der Tanz seiner Nichte so sehr, dass er versprach, ihr zu geben, was immer sie sich wünsche\. Auf Betreiben ihrer Mutter verlangte das junge Mädchen den Kopf des gefangenen Johannes\. Daraufhin befahl Herodes, den Kopf des Johannes auf einer Platte hereinzubringen\.
-
-Warum also hat unser Christus, der damals auf der Erde war, denen, die sagten, Elija müsse vor dem Erscheinen des Christus kommen, geantwortet: „Elija kommt zwar und wird alles wiederherstellen\. Ich aber sage euch: Elija ist schon gekommen, und sie haben ihn nicht erkannt, sondern mit ihm gemacht, was sie wollten\. Dann verstanden die Jünger, dass er zu ihnen von Johannes dem Täufer gesprochen hatte\.“[^bible-9aee5875-6e46-4d13-b69b-6c1003980b51] „Du scheinst mir“, erwiderte Trypho, „wieder paradox zu reden, wenn du behauptest, der prophetische Geist Gottes, der in Elija war, sei auch in Johannes gewesen\.“ „Musst du nicht zugeben“, antwortete ich, „dass dasselbe bei Jesus, dem Sohn Nun, geschehen ist, der nach Mose Führer eures Volkes wurde, als Mose den Befehl erhielt, ihm die Hände aufzulegen, während Gott selbst sagte: „Ich werde etwas von dem Geist, der auf dir ist, auf ihn übertragen“?[^bible-62d8fdcd-b7c5-4590-bb9d-1b4a524a17bf]“ „Das gebe ich zu“, sagte er\. „Also“, schloss ich, „wie Gott, während Mose noch auf der Erde war, von dem Geist nahm, der in ihm war, und ihn Jesus, der Sohn des Nun mitteilte, so konnte er auch den Geist von Elija auf Johannes übertragen – damit, so wie Christus bei seinem ersten Kommen ohne Herrlichkeit erschien, ebenso auch das erste Kommen dieses Geistes, der in Elija immer im gleichen Zustand der Reinheit blieb, als ohne Herrlichkeit wahrgenommen würde, wie das erste Kommen Christi\. Vom Herrn heißt es, er kämpfe mit verborgener Hand gegen Amalek, und du wirst nicht bestreiten, dass Amalek gefallen ist\. Wenn man aber behauptet, der Krieg gegen Amalek werde erst bei der herrlichen Ankunft Christi geführt, wie soll dann das Schriftwort erfüllt sein: „Gott kämpft mit verborgener Hand gegen Amalek“[^bible-d44ae8eb-5b80-4011-adf7-5f9f61a154ec]? Du siehst also, dass die verborgene Macht Gottes im gekreuzigten Christus war, vor dem selbst die Dämonen und, kurz gesagt, alle Mächte und Gewalten der Erde erzittern\.“
+Warum also hat unser Christus,
+der damals auf der Erde war,
+denen,
+die sagten,
+Elija müsse vor dem Erscheinen des Christus kommen,
+geantwortet:
+„Elija kommt zwar und wird alles wiederherstellen\.
+Ich aber sage euch:
+Elija ist schon gekommen,
+und sie haben ihn nicht erkannt,
+sondern mit ihm gemacht,
+was sie wollten\.
+Dann verstanden die Jünger,
+dass er zu ihnen von Johannes dem Täufer gesprochen hatte\.“[^bible-9aee5875-6e46-4d13-b69b-6c1003980b51]
+„Du scheinst mir“,
+erwiderte Trypho,
+„wieder paradox zu reden,
+wenn du behauptest,
+der prophetische Geist Gottes,
+der in Elija war,
+sei auch in Johannes gewesen\.“
+„Musst du nicht zugeben“,
+antwortete ich,
+„dass dasselbe bei Jesus,
+dem Sohn Nun,
+geschehen ist,
+der nach Mose Führer eures Volkes wurde,
+als Mose den Befehl erhielt,
+ihm die Hände aufzulegen,
+während Gott selbst sagte:
+„Ich werde etwas von dem Geist,
+der auf dir ist,
+auf ihn übertragen“?[^bible-62d8fdcd-b7c5-4590-bb9d-1b4a524a17bf]“ „Das gebe ich zu“,
+sagte er\.
+„Also“,
+schloss ich,
+„wie Gott,
+während Mose noch auf der Erde war,
+von dem Geist nahm,
+der in ihm war,
+und ihn Jesus,
+der Sohn des Nun mitteilte,
+so konnte er auch den Geist von Elija auf Johannes übertragen – damit,
+so wie Christus bei seinem ersten Kommen ohne Herrlichkeit erschien,
+ebenso auch das erste Kommen dieses Geistes,
+der in Elija immer im gleichen Zustand der Reinheit blieb,
+als ohne Herrlichkeit wahrgenommen würde,
+wie das erste Kommen Christi\.
+Vom Herrn heißt es,
+er kämpfe mit verborgener Hand gegen Amalek,
+und du wirst nicht bestreiten,
+dass Amalek gefallen ist\.
+Wenn man aber behauptet,
+der Krieg gegen Amalek werde erst bei der herrlichen Ankunft Christi geführt,
+wie soll dann das Schriftwort erfüllt sein:
+„Gott kämpft mit verborgener Hand gegen Amalek“[^bible-d44ae8eb-5b80-4011-adf7-5f9f61a154ec]?
+Du siehst also,
+dass die verborgene Macht Gottes im gekreuzigten Christus war,
+vor dem selbst die Dämonen und,
+kurz gesagt,
+alle Mächte und Gewalten der Erde erzittern\.“
 
 ## Bibelverweise
 

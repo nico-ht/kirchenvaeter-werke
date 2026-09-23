@@ -7,6 +7,64 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-2#kapitel-ccac7090-0c0d-451e-0875-08ded872ad01).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0c73111e47b1ad98a8041394ac17bc29a370e96128f40e401eb547ca286c74a9`
-
-XXXV\. Da ich nun dargelegt habe, dass zum vollkommenen Herrscher vier Dinge gehören müssen: königliche Macht, die gesetzgeberische Stellung, das Priestertum und das prophetische Amt, damit er kraft seiner Gesetzgebung gebietet, was zu tun recht ist, und verbietet, was nicht getan werden darf, damit er durch sein Priestertum nicht nur alle menschlichen, sondern auch alle göttlichen Dinge ordnet und damit er durch sein prophetisches Amt voraussagt, was von der Vernunft nicht erfasst werden kann, komme ich, nachdem ich die ersten drei ausführlich behandelt und gezeigt habe, dass Mose ein höchst ausgezeichneter König, Gesetzgeber und Hohepriester war, zuletzt dazu, zu zeigen, dass er auch der berühmteste der Propheten war\. Ich weiß freilich wohl, dass alles, was in den heiligen Büchern geschrieben steht, von ihm überlieferte Orakel sind; doch will ich darlegen, was ihn in besonderer Weise betrifft, nachdem ich zuvor dies eine erwähnt habe: Von den heiligen Orakeln werden einige so dargestellt, als seien sie in der Person Gottes durch seinen Ausleger, den göttlichen Propheten, überliefert; andere sind in die Form von Frage und Antwort gefasst; wieder andere werden von Mose in eigener Person vorgetragen, als von einem göttlich angeregten Gesetzgeber, der von göttlicher Eingebung erfüllt ist\. Die frühesten Orakel sind daher Offenbarungen der gesamten göttlichen Tugenden, besonders aber jenes barmherzigen und freigebigen Wesens, durch das er alle Menschen zur Tugend erzieht, vor allem aber das Geschlecht, das seinem Dienst geweiht ist und dem er den Weg öffnet, der zum Glück führt\. Die zweite Klasse enthält eine Art Mischung und Wechselverkehr: Der Prophet fragt nach Belehrung über die Dinge, bei denen er in Verlegenheit ist, und Gott antwortet ihm und unterweist ihn\. Die dritte Art wird dem Gesetzgeber zugeschrieben, weil Gott ihm Anteil an seiner vorausschauenden Kraft gegeben hat, durch die er imstande sein wird, die Zukunft vorherzusagen\. Die erste Art müssen wir daher für den Augenblick übergehen; denn sie ist zu groß, als dass irgendein Mensch sie angemessen preisen könnte, ja, selbst der Himmel und die Natur des Alls könnten sie kaum würdig rühmen; außerdem werden sie gleichsam durch den Mund eines Auslegers ausgesprochen\. Auslegung und Prophetie aber unterscheiden sich voneinander\. Was die zweite Art betrifft, so werde ich nun sogleich versuchen, die Wahrheit darzulegen und mit ihr auch die dritte Gattung zu verbinden, in der der inspirierte Charakter des Sprechenden sichtbar wird, aufgrund dessen er ganz besonders und angemessen als Prophet angesehen wird\.
+XXXV\.
+Da ich nun dargelegt habe,
+dass zum vollkommenen Herrscher vier Dinge gehören müssen:
+königliche Macht,
+die gesetzgeberische Stellung,
+das Priestertum und das prophetische Amt,
+damit er kraft seiner Gesetzgebung gebietet,
+was zu tun recht ist,
+und verbietet,
+was nicht getan werden darf,
+damit er durch sein Priestertum nicht nur alle menschlichen,
+sondern auch alle göttlichen Dinge ordnet und damit er durch sein prophetisches Amt voraussagt,
+was von der Vernunft nicht erfasst werden kann,
+komme ich,
+nachdem ich die ersten drei ausführlich behandelt und gezeigt habe,
+dass Mose ein höchst ausgezeichneter König,
+Gesetzgeber und Hohepriester war,
+zuletzt dazu,
+zu zeigen,
+dass er auch der berühmteste der Propheten war\.
+Ich weiß freilich wohl,
+dass alles,
+was in den heiligen Büchern geschrieben steht,
+von ihm überlieferte Orakel sind;
+doch will ich darlegen,
+was ihn in besonderer Weise betrifft,
+nachdem ich zuvor dies eine erwähnt habe:
+Von den heiligen Orakeln werden einige so dargestellt,
+als seien sie in der Person Gottes durch seinen Ausleger,
+den göttlichen Propheten,
+überliefert;
+andere sind in die Form von Frage und Antwort gefasst;
+wieder andere werden von Mose in eigener Person vorgetragen,
+als von einem göttlich angeregten Gesetzgeber,
+der von göttlicher Eingebung erfüllt ist\.
+Die frühesten Orakel sind daher Offenbarungen der gesamten göttlichen Tugenden,
+besonders aber jenes barmherzigen und freigebigen Wesens,
+durch das er alle Menschen zur Tugend erzieht,
+vor allem aber das Geschlecht,
+das seinem Dienst geweiht ist und dem er den Weg öffnet,
+der zum Glück führt\.
+Die zweite Klasse enthält eine Art Mischung und Wechselverkehr:
+Der Prophet fragt nach Belehrung über die Dinge,
+bei denen er in Verlegenheit ist,
+und Gott antwortet ihm und unterweist ihn\.
+Die dritte Art wird dem Gesetzgeber zugeschrieben,
+weil Gott ihm Anteil an seiner vorausschauenden Kraft gegeben hat,
+durch die er imstande sein wird,
+die Zukunft vorherzusagen\.
+Die erste Art müssen wir daher für den Augenblick übergehen;
+denn sie ist zu groß,
+als dass irgendein Mensch sie angemessen preisen könnte,
+ja,
+selbst der Himmel und die Natur des Alls könnten sie kaum würdig rühmen;
+außerdem werden sie gleichsam durch den Mund eines Auslegers ausgesprochen\.
+Auslegung und Prophetie aber unterscheiden sich voneinander\.
+Was die zweite Art betrifft,
+so werde ich nun sogleich versuchen,
+die Wahrheit darzulegen und mit ihr auch die dritte Gattung zu verbinden,
+in der der inspirierte Charakter des Sprechenden sichtbar wird,
+aufgrund dessen er ganz besonders und angemessen als Prophet angesehen wird\.

@@ -7,8 +7,99 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-1#kapitel-a3d09936-d3b1-46d1-c85f-08dd5a4d0198).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c9b1f6d185588d56f02d20ca4a7b66ed4757923c7385735103d8d057e2a2773a`
+Caesar antwortete darauf:
+„Sei gegrüßt“,
+sagte er,
+„und genieße nun deine Herrschaft umso mehr,
+denn wir missbilligen gute Gesinnung nicht,
+sondern freuen uns daran\.
+Denn du bist würdig,
+über viele zu herrschen,
+da du die Freundschaft so bewahrst,
+dass du den,
+der ins Unglück geraten ist,
+nicht zurückweist und dich nicht schämst,
+ihn als deinen Freund zu bekennen\.
+Du hast aber hinreichend bewiesen,
+dass man am Glücklicheren festhalten soll und im Glück wie im Unglück Treue bewahren kann\.
+Antonius hat dich besiegt;
+doch ich werde dich nicht als Besiegten ansehen,
+denn die Freundschaft hat dich den Siegern gleichgestellt\.
+Darum darfst du Bitten an uns richten,
+denn kein Ausgang des Krieges hat dich verändert,
+da du Antonius nicht verlassen hast,
+sondern Antonius zuvor dich verlassen hat,
+er,
+der sich Cleopatra mehr anvertraute als dir\.
+Die Dummheit jenes Mannes hat dich für uns gewonnen,
+denn er wählte für sich das Schlechteste,
+er verwarf die Treue\.
+Es ist kein Wunder,
+dass Antonius,
+nachdem er besiegt war,
+an Cleopatra hing,
+von der er schon als Sieger gefangen genommen worden war\.
+Warum solltest du dich wundern,
+wenn Cleopatra Antonius von dir abfallen ließ,
+da er sich doch von mir und von einer Ehefrau trennte und zum Feind des Reiches wurde?
+So wurdest du zusammen mit uns zurückgewiesen,
+und darum auch die Königreiche zusammen mit uns\.
+Das ist freilich nicht ohne Nutzen;
+denn während wir mit dem Bürgerkrieg beschäftigt sind,
+hast du das ungezähmte Volk von Arabia unterworfen,
+weil wir die Feinde der Juden als unsere Feinde ansehen\.
+Denn wer euch angreift,
+trägt gegen uns Waffen\.
+Darum hast du für uns gekämpft,
+als du für dich selbst siegtest,
+und so belohnen wir dich,
+indem dein Königreich als unsere Gabe bestätigt wird\.“
 
-Caesar antwortete darauf: „Sei gegrüßt“, sagte er, „und genieße nun deine Herrschaft umso mehr, denn wir missbilligen gute Gesinnung nicht, sondern freuen uns daran\. Denn du bist würdig, über viele zu herrschen, da du die Freundschaft so bewahrst, dass du den, der ins Unglück geraten ist, nicht zurückweist und dich nicht schämst, ihn als deinen Freund zu bekennen\. Du hast aber hinreichend bewiesen, dass man am Glücklicheren festhalten soll und im Glück wie im Unglück Treue bewahren kann\. Antonius hat dich besiegt; doch ich werde dich nicht als Besiegten ansehen, denn die Freundschaft hat dich den Siegern gleichgestellt\. Darum darfst du Bitten an uns richten, denn kein Ausgang des Krieges hat dich verändert, da du Antonius nicht verlassen hast, sondern Antonius zuvor dich verlassen hat, er, der sich Cleopatra mehr anvertraute als dir\. Die Dummheit jenes Mannes hat dich für uns gewonnen, denn er wählte für sich das Schlechteste, er verwarf die Treue\. Es ist kein Wunder, dass Antonius, nachdem er besiegt war, an Cleopatra hing, von der er schon als Sieger gefangen genommen worden war\. Warum solltest du dich wundern, wenn Cleopatra Antonius von dir abfallen ließ, da er sich doch von mir und von einer Ehefrau trennte und zum Feind des Reiches wurde? So wurdest du zusammen mit uns zurückgewiesen, und darum auch die Königreiche zusammen mit uns\. Das ist freilich nicht ohne Nutzen; denn während wir mit dem Bürgerkrieg beschäftigt sind, hast du das ungezähmte Volk von Arabia unterworfen, weil wir die Feinde der Juden als unsere Feinde ansehen\. Denn wer euch angreift, trägt gegen uns Waffen\. Darum hast du für uns gekämpft, als du für dich selbst siegtest, und so belohnen wir dich, indem dein Königreich als unsere Gabe bestätigt wird\.“
-
-Unterdessen wird deine Gunst keineswegs gemindert; wir sorgen künftig dafür, dass du Antonius nicht brauchst\. Vielmehr gehört es sich, dass wir diejenigen, die wir im Krieg besiegt haben, auch durch Wohlwollen gewinnen\.“ Als er dies gesagt hatte, setzte er ihm die Krone auf das Haupt und verband die Gabe mit sorgsamer Aufmerksamkeit\. Durch diese Wertschätzung Caesars ermutigt, wollte er dessen Missfallen gegen Alexan, einen der Freunde des Antonius, mildern, einen Mann, über den Caesar heftig erzürnt war\. Mit vielen Bitten trat er für ihn ein, doch der übergroße Zorn ließ keinen Raum für Verzeihung\. Herodes folgte dem Zug Caesars, der nach Ägypten aufbrach, und stellte alles bereit, was diesem oder dem Heer nützlich war\. So gewann er sich das höchste Wohlwollen und die größte Zuneigung des Feldherrn, besonders weil in den völlig trockenen Gegenden bis hin nach Pelusium durch königliche Vorsorge reichlich Wasser bereitgestellt wurde\. Durch diese Dienste flößte er allen große Liebe zu sich ein, sodass man meinte, er habe mehr verdient, als er empfangen hatte, und die Herrschaft über ein Königreich sei geringer, als die Freigebigkeit seiner Güte verdiene\. Daher gab Caesar, unter diesem Eindruck, nachdem die Angelegenheiten in Ägypten vollendet waren und Antonius und Cleopatra gestorben waren, Herodes nicht nur zurück, was ihm genommen worden war; vielmehr verlieh er ihm sogar über das hinaus, was Cleopatra geraubt hatte, Gadara, Ipponen und Samaria\. Zugleich schenkte er ihm auch die Küstenstädte Gaza, Anthedon, Joppe und den Turm des Strato; außerdem gewährte er ihm vierhundert Leibwächter aus Gallien, von denen umgeben Cleopatra zu reisen pflegte, und vieles andere zum Schutz des Königs\. Von all dem aber hielt der König für das Wichtigste, dass er vor allem geliebt wurde: von Caesar nur nach Agrippa, von Agrippa nur nach Caesar\.
+Unterdessen wird deine Gunst keineswegs gemindert;
+wir sorgen künftig dafür,
+dass du Antonius nicht brauchst\.
+Vielmehr gehört es sich,
+dass wir diejenigen,
+die wir im Krieg besiegt haben,
+auch durch Wohlwollen gewinnen\.“
+Als er dies gesagt hatte,
+setzte er ihm die Krone auf das Haupt und verband die Gabe mit sorgsamer Aufmerksamkeit\.
+Durch diese Wertschätzung Caesars ermutigt,
+wollte er dessen Missfallen gegen Alexan,
+einen der Freunde des Antonius,
+mildern,
+einen Mann,
+über den Caesar heftig erzürnt war\.
+Mit vielen Bitten trat er für ihn ein,
+doch der übergroße Zorn ließ keinen Raum für Verzeihung\.
+Herodes folgte dem Zug Caesars,
+der nach Ägypten aufbrach,
+und stellte alles bereit,
+was diesem oder dem Heer nützlich war\.
+So gewann er sich das höchste Wohlwollen und die größte Zuneigung des Feldherrn,
+besonders weil in den völlig trockenen Gegenden bis hin nach Pelusium durch königliche Vorsorge reichlich Wasser bereitgestellt wurde\.
+Durch diese Dienste flößte er allen große Liebe zu sich ein,
+sodass man meinte,
+er habe mehr verdient,
+als er empfangen hatte,
+und die Herrschaft über ein Königreich sei geringer,
+als die Freigebigkeit seiner Güte verdiene\.
+Daher gab Caesar,
+unter diesem Eindruck,
+nachdem die Angelegenheiten in Ägypten vollendet waren und Antonius und Cleopatra gestorben waren,
+Herodes nicht nur zurück,
+was ihm genommen worden war;
+vielmehr verlieh er ihm sogar über das hinaus,
+was Cleopatra geraubt hatte,
+Gadara,
+Ipponen und Samaria\.
+Zugleich schenkte er ihm auch die Küstenstädte Gaza,
+Anthedon,
+Joppe und den Turm des Strato;
+außerdem gewährte er ihm vierhundert Leibwächter aus Gallien,
+von denen umgeben Cleopatra zu reisen pflegte,
+und vieles andere zum Schutz des Königs\.
+Von all dem aber hielt der König für das Wichtigste,
+dass er vor allem geliebt wurde:
+von Caesar nur nach Agrippa,
+von Agrippa nur nach Caesar\.

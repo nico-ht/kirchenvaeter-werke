@@ -7,6 +7,14 @@ Autor: Patrick
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/patrick/brief-an-die-soldaten-von-coroticus#kapitel-25a645d4-1f89-4b28-5505-08de2c22a191).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:4aa4cd07ef0864fb161a48d4049c5a32be8f1842aa779b92fcc9955736bf4ab9`
-
-Darum weiß ich nicht, was mir den größten Schmerz bereitet: die, die erschlagen wurden, oder die, die gefangen wurden, oder die, welche der Teufel so tief in seine Falle gezogen hat\. Sie werden zusammen mit dem Teufel den ewigen Qualen der Gehenna ausgeliefert sein; denn wer Sünde tut, wird zu Recht ein Sklave und ein Sohn des Teufels genannt\.
+Darum weiß ich nicht,
+was mir den größten Schmerz bereitet:
+die,
+die erschlagen wurden,
+oder die,
+die gefangen wurden,
+oder die,
+welche der Teufel so tief in seine Falle gezogen hat\.
+Sie werden zusammen mit dem Teufel den ewigen Qualen der Gehenna ausgeliefert sein;
+denn wer Sünde tut,
+wird zu Recht ein Sklave und ein Sohn des Teufels genannt\.

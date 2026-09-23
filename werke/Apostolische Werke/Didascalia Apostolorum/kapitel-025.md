@@ -7,13 +7,152 @@ Autor: Apostolische Werke
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-werke/didascalia-apostolorum#kapitel-25d7c464-a825-4dc5-bf4a-08dec0ed9724).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:72cca291612ccaeb3dba4077c2f679771ee2c5f41e62a5a30a0b291bcb146203`
+Den Beschluss aber,
+den wir mit Rat und Überlegung über jene gefasst haben,
+die bereits in die Irre gegangen sind,
+haben wir so bekräftigt und festgesetzt\.
+Und wir werden nochmals zurückkehren und ein zweites Mal zu den Kirchen gehen,
+wie am Anfang der Verkündigung,
+und die Gläubigen stärken,
+damit sie die genannten Ärgernisse meiden und jene nicht aufnehmen,
+die trügerisch im Namen von Aposteln kommen,
+sondern sie an der Wandelbarkeit ihrer Worte und an der Ausführung ihrer Werke erkennen\.
+Denn diese sind es,
+von denen unser Herr sagte:
+„Es werden Menschen zu euch kommen in der Kleidung von Lämmern,
+innerlich aber sind sie reißende Wölfe;
+und an ihren Früchten werdet ihr sie erkennen[^bible-0cb79e4e-583f-466e-94ca-4518a6e51395]\.“
+Darum hütet euch vor ihnen\.
+Nun werden falsche Christusse und lügnerische Propheten auftreten und viele in die Irre führen;
+und wegen der vielfachen Gesetzlosigkeit wird die Liebe vieler erkalten\.
+Wer aber bis zum Ende ausharrt,
+der wird gerettet werden[^bible-b66a0d0f-194e-4813-b8cc-25bcfee12f36]\.
+Nun sollen jene,
+die nicht in die Irre gegangen sind,
+und auch jene,
+die ihre Verirrung bereuen,
+in der Kirche gelassen werden\.
+Was aber jene betrifft,
+die noch immer im Irrtum festgehalten werden und nicht bereuen,
+so haben wir beschlossen und angeordnet,
+dass sie aus der Kirche hinausgetan und von den Gläubigen getrennt und entfernt werden,
+weil sie zu Häretikern geworden sind;
+und dass den Gläubigen geboten werde,
+sie völlig zu meiden und mit ihnen weder im Gespräch noch im Gebet Gemeinschaft zu haben\.
+Denn diese sind Feinde und Räuber der Kirche;
+denn über diese hat unser Herr uns geboten und zu uns gesagt:
+„Hütet euch vor dem Sauerteig der Pharisäer und der Sadduzäer[^bible-6e67fce8-0c26-4538-b10e-b8da0abd6492]“;
+und:
+„In die Städte der Samariter sollt ihr nicht hineingehen[^bible-5d6456e5-34fa-4700-b6ad-1bfa99e18d5e]\.“
+Die Städte der Samariter aber sind die der Häresien,
+die auf verkehrtem Weg gehen;
+darüber sagte er in den Sprüchen:
+„Es gibt einen Weg,
+den die Menschen für recht halten;
+sein Ende aber führt in die Tiefe des Scheol[^bible-67a4599c-941a-45ac-9827-7dac5549a39d]\.“
+Diese sind es,
+über die unser Herr streng und bitter das Urteil sprach und sagte:
+„Es wird ihnen nicht vergeben werden,
+weder in dieser Welt noch in der kommenden Welt[^bible-9eda512d-8c04-4d48-b97a-7d71bfa2b291]\.“
+Denn was das Volk betrifft,
+das nicht an Christus glaubte und Hand an ihn legte:
+Gegen den Sohn des Menschen,
+an den sie Hand legten,
+lästern sie;
+und unser Herr sagte:
+„Es wird ihnen vergeben werden[^bible-9eda512d-8c04-4d48-b97a-7d71bfa2b291]\.“
+Und wiederum sagte unser Herr von ihnen:
+„Mein Vater,
+„sie wissen nicht,
+was sie getan haben[^bible-4855e044-b35f-498d-a9f0-2e605f10ffbb]“,
+noch was sie reden;
+wenn es möglich ist[^bible-41029352-1cd3-4e32-908c-f71b16df1293],
+vergib ihnen\.“
 
-Den Beschluss aber, den wir mit Rat und Überlegung über jene gefasst haben, die bereits in die Irre gegangen sind, haben wir so bekräftigt und festgesetzt\. Und wir werden nochmals zurückkehren und ein zweites Mal zu den Kirchen gehen, wie am Anfang der Verkündigung, und die Gläubigen stärken, damit sie die genannten Ärgernisse meiden und jene nicht aufnehmen, die trügerisch im Namen von Aposteln kommen, sondern sie an der Wandelbarkeit ihrer Worte und an der Ausführung ihrer Werke erkennen\. Denn diese sind es, von denen unser Herr sagte: „Es werden Menschen zu euch kommen in der Kleidung von Lämmern, innerlich aber sind sie reißende Wölfe; und an ihren Früchten werdet ihr sie erkennen[^bible-0cb79e4e-583f-466e-94ca-4518a6e51395]\.“ Darum hütet euch vor ihnen\. Nun werden falsche Christusse und lügnerische Propheten auftreten und viele in die Irre führen; und wegen der vielfachen Gesetzlosigkeit wird die Liebe vieler erkalten\. Wer aber bis zum Ende ausharrt, der wird gerettet werden[^bible-b66a0d0f-194e-4813-b8cc-25bcfee12f36]\. Nun sollen jene, die nicht in die Irre gegangen sind, und auch jene, die ihre Verirrung bereuen, in der Kirche gelassen werden\. Was aber jene betrifft, die noch immer im Irrtum festgehalten werden und nicht bereuen, so haben wir beschlossen und angeordnet, dass sie aus der Kirche hinausgetan und von den Gläubigen getrennt und entfernt werden, weil sie zu Häretikern geworden sind; und dass den Gläubigen geboten werde, sie völlig zu meiden und mit ihnen weder im Gespräch noch im Gebet Gemeinschaft zu haben\. Denn diese sind Feinde und Räuber der Kirche; denn über diese hat unser Herr uns geboten und zu uns gesagt: „Hütet euch vor dem Sauerteig der Pharisäer und der Sadduzäer[^bible-6e67fce8-0c26-4538-b10e-b8da0abd6492]“; und: „In die Städte der Samariter sollt ihr nicht hineingehen[^bible-5d6456e5-34fa-4700-b6ad-1bfa99e18d5e]\.“ Die Städte der Samariter aber sind die der Häresien, die auf verkehrtem Weg gehen; darüber sagte er in den Sprüchen: „Es gibt einen Weg, den die Menschen für recht halten; sein Ende aber führt in die Tiefe des Scheol[^bible-67a4599c-941a-45ac-9827-7dac5549a39d]\.“ Diese sind es, über die unser Herr streng und bitter das Urteil sprach und sagte: „Es wird ihnen nicht vergeben werden, weder in dieser Welt noch in der kommenden Welt[^bible-9eda512d-8c04-4d48-b97a-7d71bfa2b291]\.“ Denn was das Volk betrifft, das nicht an Christus glaubte und Hand an ihn legte: Gegen den Sohn des Menschen, an den sie Hand legten, lästern sie; und unser Herr sagte: „Es wird ihnen vergeben werden[^bible-9eda512d-8c04-4d48-b97a-7d71bfa2b291]\.“ Und wiederum sagte unser Herr von ihnen: „Mein Vater, „sie wissen nicht, was sie getan haben[^bible-4855e044-b35f-498d-a9f0-2e605f10ffbb]“, noch was sie reden; wenn es möglich ist[^bible-41029352-1cd3-4e32-908c-f71b16df1293], vergib ihnen\.“
+Und was wiederum die Heiden betrifft:
+Auch sie lästern gegen den Sohn des Menschen wegen des Kreuzes;
+und für sie wird Vergebung ergehen\.
+Denn denen,
+die aus dem Volk oder aus den Heiden zum Glauben gekommen sind,
+ist durch die Taufe Vergebung ihrer bösen Werke gewährt worden,
+wie der Herr Christus sagte:
+„Darum sage ich euch:
+Alle Sünden und Lästerungen werden den Menschen vergeben werden;
+die Lästerung gegen den Heiligen Geist aber wird nicht vergeben werden,
+weder in dieser Welt noch in der kommenden\.
+Und jedem,
+der ein Wort gegen den Sohn des Menschen sagt,
+wird es vergeben werden;
+jedem aber,
+der gegen den Heiligen Geist redet,
+wird es nicht vergeben werden,
+weder in dieser Welt noch in der kommenden[^bible-27e957cf-8e36-4da0-8227-158eefaf440f]\.“
+Die aber den Heiligen Geist lästern,
+die leichtfertig und in Heuchelei Gott,
+den Allmächtigen,
+lästern,
+jene Häretiker,
+die seine heiligen Schriften nicht annehmen oder sie übel annehmen,
+in Heuchelei und mit Lästerung,
+und die mit bösen Worten die katholische Kirche lästern,
+die das Gefäß des Heiligen Geistes ist:
+Sie sind es,
+die schon vor dem kommenden Gericht und bevor sie überhaupt eine Verteidigung vorbringen können,
+von Christus verurteilt sind\.
+Denn das,
+was er sagte:
+„Es wird ihnen nicht vergeben werden[^bible-5c5aa246-1392-4842-b2ca-027a1f245852]“,
+ist das strenge Verdammungsurteil,
+das über sie ergeht\.
+Und nachdem wir diese Dinge einmütig angeordnet,
+bekräftigt und festgelegt hatten,
+machten wir uns auf,
+jeder in seine frühere Provinz zu gehen und die Kirchen zu stärken\.
+Denn was vorhergesagt war,
+ist erfüllt worden,
+und die verborgenen Wölfe sind gekommen;
+die falschen Christusse und Lügenpropheten[^bible-9bc7911c-0a32-4505-9a22-a75411201054] sind erschienen\.
+Und dies ist klar und offenbar:
+Wenn die Zeiten näher rücken und die Ankunft bevorsteht,
+wird es noch viele mehr geben,
+schlimmere als diese;
+vor ihnen wird der Herr Gott euch retten\.
+Diejenigen nun,
+die den Irrtum ihres gottlosen Abfalls bereut haben,
+haben wir mit vieler Ermahnung und mit dem Wort der Lehre und Ermunterung geheilt,
+sie gesund gemacht und sie in den Kirchen bleiben lassen\.
+Die aber durch das verkehrte Wort des Irrtums tödlich getroffen sind und für die es keine Heilung gibt,
+haben wir hinausgetrieben,
+damit sie die heilige katholische Kirche,
+die reine Kirche Gottes,
+nicht verunreinigen;
+damit das Böse nicht wie Aussatz um sich greift und wie fauliger Brand zu allen weiterwandert,
+sondern damit die Kirche rein und ohne Flecken oder Makel[^bible-f23d051f-0e26-4309-bf58-e290760bf782] oder Narbe dem Herrn Gott gesund erhalten bleibt\.
+Und dies tun wir so an jedem Ort und in jeder Stadt und in der ganzen Welt;
+und wir haben unser Zeugnis gegeben und diese katholische Didascalia der katholischen Kirche gerecht und rechtmäßig hinterlassen,
+zum Gedächtnis und zur Stärkung der Gläubigen\.
 
-Und was wiederum die Heiden betrifft: Auch sie lästern gegen den Sohn des Menschen wegen des Kreuzes; und für sie wird Vergebung ergehen\. Denn denen, die aus dem Volk oder aus den Heiden zum Glauben gekommen sind, ist durch die Taufe Vergebung ihrer bösen Werke gewährt worden, wie der Herr Christus sagte: „Darum sage ich euch: Alle Sünden und Lästerungen werden den Menschen vergeben werden; die Lästerung gegen den Heiligen Geist aber wird nicht vergeben werden, weder in dieser Welt noch in der kommenden\. Und jedem, der ein Wort gegen den Sohn des Menschen sagt, wird es vergeben werden; jedem aber, der gegen den Heiligen Geist redet, wird es nicht vergeben werden, weder in dieser Welt noch in der kommenden[^bible-27e957cf-8e36-4da0-8227-158eefaf440f]\.“ Die aber den Heiligen Geist lästern, die leichtfertig und in Heuchelei Gott, den Allmächtigen, lästern, jene Häretiker, die seine heiligen Schriften nicht annehmen oder sie übel annehmen, in Heuchelei und mit Lästerung, und die mit bösen Worten die katholische Kirche lästern, die das Gefäß des Heiligen Geistes ist: Sie sind es, die schon vor dem kommenden Gericht und bevor sie überhaupt eine Verteidigung vorbringen können, von Christus verurteilt sind\. Denn das, was er sagte: „Es wird ihnen nicht vergeben werden[^bible-5c5aa246-1392-4842-b2ca-027a1f245852]“, ist das strenge Verdammungsurteil, das über sie ergeht\. Und nachdem wir diese Dinge einmütig angeordnet, bekräftigt und festgelegt hatten, machten wir uns auf, jeder in seine frühere Provinz zu gehen und die Kirchen zu stärken\. Denn was vorhergesagt war, ist erfüllt worden, und die verborgenen Wölfe sind gekommen; die falschen Christusse und Lügenpropheten[^bible-9bc7911c-0a32-4505-9a22-a75411201054] sind erschienen\. Und dies ist klar und offenbar: Wenn die Zeiten näher rücken und die Ankunft bevorsteht, wird es noch viele mehr geben, schlimmere als diese; vor ihnen wird der Herr Gott euch retten\. Diejenigen nun, die den Irrtum ihres gottlosen Abfalls bereut haben, haben wir mit vieler Ermahnung und mit dem Wort der Lehre und Ermunterung geheilt, sie gesund gemacht und sie in den Kirchen bleiben lassen\. Die aber durch das verkehrte Wort des Irrtums tödlich getroffen sind und für die es keine Heilung gibt, haben wir hinausgetrieben, damit sie die heilige katholische Kirche, die reine Kirche Gottes, nicht verunreinigen; damit das Böse nicht wie Aussatz um sich greift und wie fauliger Brand zu allen weiterwandert, sondern damit die Kirche rein und ohne Flecken oder Makel[^bible-f23d051f-0e26-4309-bf58-e290760bf782] oder Narbe dem Herrn Gott gesund erhalten bleibt\. Und dies tun wir so an jedem Ort und in jeder Stadt und in der ganzen Welt; und wir haben unser Zeugnis gegeben und diese katholische Didascalia der katholischen Kirche gerecht und rechtmäßig hinterlassen, zum Gedächtnis und zur Stärkung der Gläubigen\.
-
-Wenn die Zeiten nahe heranrücken und die Ankunft nahe ist, wird es noch viele mehr geben, schlimmer als diese; vor ihnen wird der Herr Gott euch erretten\. Diejenigen nun, die den Irrtum ihres gottlosen Abfalls bereut haben, haben wir mit vieler Ermahnung und mit dem Wort der Lehre und Ermunterung geheilt, gesund gemacht und ihnen gestattet, in den Kirchen zu bleiben\. Die aber durch das verkehrte Wort des Irrtums tödlich getroffen sind und für die es keine Heilung gibt, haben wir hinausgetrieben, damit sie die heilige katholische Kirche, die reine Kirche Gottes, nicht verunreinigen können; damit das Böse nicht wie Aussatz um sich greift und sich wie fauliger Brand auf alle ausbreitet, sondern damit die Kirche rein und ohne Flecken oder Makel[^bible-aa897871-afb7-4b63-964c-f456cf5d9f62], ohne Narbe, dem Herrn Gott gesund erhalten bleiben kann\. Und dies tun wir so an jedem Ort und in jeder Stadt und in der ganzen Welt; und wir haben unser Zeugnis gegeben und diese katholische Didascalia der katholischen Kirche in gerechter und rechter Weise hinterlassen, zum Gedächtnis und zur Stärkung der Gläubigen\.
+Wenn die Zeiten nahe heranrücken und die Ankunft nahe ist,
+wird es noch viele mehr geben,
+schlimmer als diese;
+vor ihnen wird der Herr Gott euch erretten\.
+Diejenigen nun,
+die den Irrtum ihres gottlosen Abfalls bereut haben,
+haben wir mit vieler Ermahnung und mit dem Wort der Lehre und Ermunterung geheilt,
+gesund gemacht und ihnen gestattet,
+in den Kirchen zu bleiben\.
+Die aber durch das verkehrte Wort des Irrtums tödlich getroffen sind und für die es keine Heilung gibt,
+haben wir hinausgetrieben,
+damit sie die heilige katholische Kirche,
+die reine Kirche Gottes,
+nicht verunreinigen können;
+damit das Böse nicht wie Aussatz um sich greift und sich wie fauliger Brand auf alle ausbreitet,
+sondern damit die Kirche rein und ohne Flecken oder Makel[^bible-aa897871-afb7-4b63-964c-f456cf5d9f62],
+ohne Narbe,
+dem Herrn Gott gesund erhalten bleiben kann\.
+Und dies tun wir so an jedem Ort und in jeder Stadt und in der ganzen Welt;
+und wir haben unser Zeugnis gegeben und diese katholische Didascalia der katholischen Kirche in gerechter und rechter Weise hinterlassen,
+zum Gedächtnis und zur Stärkung der Gläubigen\.
 
 ## Bibelverweise
 

@@ -7,9 +7,38 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-2#kapitel-8eae9b5a-29bd-4079-cd24-08ddea5063d8).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f3c0c612a9c7e9bb45d9619d01216eff27228c0777e3a4a83e7285e1b1f21229`
-
-„Zu jener Zeit“ – gemeint ist offenkundig die Zeit der Hungersnot unter Claudius – „streckte König Herodes seine Hände aus, um einige aus der Kirche zu schlagen, und er tötete Jakobus, den Bruder des Johannes, mit dem Schwert\.“[^bible-16e9101b-adcb-4af7-879d-f4e35a35ccf7] Clemens von Alexandria berichtet im siebten Buch seiner Darlegungen eine Geschichte über eben diesen Jakobus, die er aus der Überlieferung seiner Vorgänger empfangen hat und die festgehalten zu werden verdient: „Weil derjenige, der ihn“ – Jakobus – „dem Richter zur Märtyrerschaft ausgeliefert hatte, innerlich bewegt wurde zu bekennen, dass auch er ein Christ war, wurden beide gemeinsam zur Folter geführt\. Und als sie auf dem Weg waren, bat er Jakobus um Vergebung\. Der dachte einen Augenblick nach und sagte dann: „Friede sei mit dir“, und küsste ihn\. So wurden beide zusammen enthauptet\.“ Sodann, sagt er, wie die Heilige Schrift berichtet: Als Herodes sah, dass der Mord an Jakobus den Juden gefiel, ging er noch weiter und ließ Petrus ins Gefängnis werfen, zweifellos in der Absicht, auch ihn zu bestrafen\. Was er auch getan hätte, wenn nicht göttliche Hilfe eingetroffen wäre in der Gestalt eines Engels, der nachts zu ihm kam, ihn auf wundersame Weise von seinen Fesseln befreite und ihm befahl, frei zum Dienst der Verkündigung hinauszugehen\. So verhielt es sich also mit Petrus\.
+„Zu jener Zeit“ – gemeint ist offenkundig die Zeit der Hungersnot unter Claudius – „streckte König Herodes seine Hände aus,
+um einige aus der Kirche zu schlagen,
+und er tötete Jakobus,
+den Bruder des Johannes,
+mit dem Schwert\.“[^bible-16e9101b-adcb-4af7-879d-f4e35a35ccf7]
+Clemens von Alexandria berichtet im siebten Buch seiner Darlegungen eine Geschichte über eben diesen Jakobus,
+die er aus der Überlieferung seiner Vorgänger empfangen hat und die festgehalten zu werden verdient:
+„Weil derjenige,
+der ihn“ – Jakobus – „dem Richter zur Märtyrerschaft ausgeliefert hatte,
+innerlich bewegt wurde zu bekennen,
+dass auch er ein Christ war,
+wurden beide gemeinsam zur Folter geführt\.
+Und als sie auf dem Weg waren,
+bat er Jakobus um Vergebung\.
+Der dachte einen Augenblick nach und sagte dann:
+„Friede sei mit dir“,
+und küsste ihn\.
+So wurden beide zusammen enthauptet\.“
+Sodann,
+sagt er,
+wie die Heilige Schrift berichtet:
+Als Herodes sah,
+dass der Mord an Jakobus den Juden gefiel,
+ging er noch weiter und ließ Petrus ins Gefängnis werfen,
+zweifellos in der Absicht,
+auch ihn zu bestrafen\.
+Was er auch getan hätte,
+wenn nicht göttliche Hilfe eingetroffen wäre in der Gestalt eines Engels,
+der nachts zu ihm kam,
+ihn auf wundersame Weise von seinen Fesseln befreite und ihm befahl,
+frei zum Dienst der Verkündigung hinauszugehen\.
+So verhielt es sich also mit Petrus\.
 
 ## Bibelverweise
 

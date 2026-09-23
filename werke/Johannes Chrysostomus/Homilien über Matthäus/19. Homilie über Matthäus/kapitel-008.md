@@ -7,9 +7,261 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/19-homilie-ueber-matthaeus#kapitel-c95cfdb6-4089-4988-5a87-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:1160ecd2420090aa73e15f6231d5665faddf4bfb4347a3b62484ea62e28768d6`
-
-Denn man muss kein Meer überqueren, keinen langen Weg zurücklegen, keine Berggipfel überschreiten, kein Geld ausgeben und den Körper nicht erschöpfen\. Es genügt, nur zu wollen, und alle Sünden sind gelöst\. Wenn du aber nicht nur selbst nicht vergibst, sondern auch noch bei Gott gegen den anderen vorstellig wirst, welche Hoffnung auf Rettung bleibt dir dann noch? Gerade in dem Augenblick, in dem du ihn versöhnst und zu ihm betest, reizt du ihn zum Zorn: Du trägst die Gestalt eines Bittenden, stößt aber die Laute eines wilden Tieres aus und schleuderst jene Pfeile des Bösen gegen dich selbst\. Deshalb hat auch Paulus, als er vom Gebet sprach, nichts so sehr gefordert wie die Bewahrung dieses Gebots\. Denn er sagt: „Erhebt heilige Hände, ohne Zorn und Zweifel\.[^bible-fa169206-da46-4674-8984-94f6e1daafae]“ Wenn du nämlich dann, wenn du Erbarmen brauchst, nicht einmal dann den Zorn loslässt, sondern dich sogar mit aller Macht an ihn erinnerst, obwohl du weißt, dass du das Schwert gegen dich selbst stößt, wann wirst du dann menschenfreundlich werden können und das böse Gift dieser Bosheit ausspeien? Wenn du aber die Größe dieser Verkehrtheit noch nicht gesehen hast, dann stell dir vor, dass dies unter Menschen geschieht; dann wirst du das Übermaß der Frechheit sehen\. Wenn nämlich zu dir, obwohl du nur ein Mensch bist, jemand käme und darum bäte, Erbarmen zu finden, dann aber, während er am Boden liegt, einen Feind sähe, dich im Bitten stehen ließe und jenen schlüge: Würdest du da nicht noch mehr in Zorn geraten? Genau das, bedenke, geschieht auch vor Gott\. Denn auch du bittest Gott, lässt mitten im Bitten deine flehende Haltung fahren, schlägst deinen Feind mit Worten und verhöhnst die Gesetze Gottes\. Du rufst den Gesetzgeber an, der geboten hat, allen Zorn gegen die aufzugeben, die uns Gutes verletzt haben, und verlangst von ihm, er solle das Gegenteil seiner eigenen Gebote tun\. Reicht es dir als Grund zur Strafe nicht, dass du selbst Gottes Gesetz übertrittst? Bittest du auch noch ihn, dasselbe zu tun? Hat er etwa vergessen, was er geboten hat? Ist etwa ein Mensch der, der dies gesagt hat? Gott ist es, der alles weiß und will, dass seine Gesetze mit aller Genauigkeit bewahrt werden\. Und er ist so weit davon entfernt, das zu tun, was du verlangst, dass er auch dich, der du so etwas sagst, schon allein wegen des Sagens verabscheut und hasst und die äußerste Strafe fordert\. Wie kannst du also verlangen, von ihm das zu erhalten, wovon er dir selbst mit großem Ernst fernzubleiben gebietet? Doch es gibt manche, die bis zu einem solchen Unverstand gekommen sind, dass sie nicht nur gegen ihre Feinde beten, sondern auch deren Kindern fluchen und, wenn es möglich wäre, sogar von deren Fleisch kosten möchten, ja vielmehr: sie kosten davon\. Sag mir nämlich nicht, du hättest deine Zähne nicht in den Körper dessen geschlagen, der dich verletzt hat\. Du hast, soweit es an dir liegt, etwas viel Schlimmeres getan: Du verlangst, dass von oben Zorn über ihn gebracht wird, dass er einer unsterblichen Strafe ausgeliefert und samt seinem ganzen Haus zugrunde gerichtet wird\. Welche Bisse wären schlimmer als das? Welche Pfeile bitterer? Das hat Christus dich nicht gelehrt; so hat er dir nicht geboten, den Mund blutig zu machen\. Denn solche Zungen sind schlimmer als Münder, die vom Fleisch von Menschen blutbefleckt sind\. Wie willst du also den Bruder begrüßen? Wie willst du das Opfer berühren? Wie willst du vom Blut des Herrn kosten, wenn du so viel Gift in deinem Denken hast? Wenn du nämlich sagst: „Stürze ihn nieder, wirf sein Haus um, vernichte alles“, und ihm tausendfaches Verderben anwünschst, unterscheidest du dich in nichts von einem Mörder, ja vielmehr von einem menschenfressenden wilden Tier\. Hören wir also auf mit dieser Krankheit und diesem Wahnsinn, und zeigen wir denen, die uns verletzt haben, die Güte, die er geboten hat, damit wir unserem Vater im Himmel ähnlich werden\. Aufhören werden wir aber, wenn wir uns an unsere eigenen Sünden erinnern; wenn wir alles, worin wir gefehlt haben, genau prüfen: das Innere, das Äußere, das auf dem Markt, das in der Kirche\. Denn selbst wenn es sonst nichts gäbe, verdienen wir schon wegen unserer Nachlässigkeit hier die äußerste Strafe\. Denn während die Propheten psalmodieren, die Apostel Hymnen singen und Gott zu uns spricht, schweifen wir draußen umher und tragen den Lärm weltlicher Angelegenheiten hinein\. Nicht einmal so viel Ruhe gewähren wir den Gesetzen Gottes, wie die Zuschauer in den Theatern den Schreiben des Königs an Stille gewähren\. Dort nämlich, wenn diese Schreiben verlesen werden, stehen Konsuln, Präfekten, Rat und Volk alle aufrecht da und hören in Stille auf das, was gesagt wird\. Und wenn mitten in jener tiefen Stille plötzlich einer aufspringt und losschreit, dann muss er, weil er den König beleidigt hat, die äußerste Strafe erleiden\. Hier aber, wenn die Schreiben aus dem Himmel verlesen werden, entsteht von allen Seiten großer Lärm\. Dabei ist doch der, der die Schreiben gesandt hat, viel größer als dieser König, und der Schauplatz ist ehrwürdiger\. Denn er gehört nicht nur Menschen, sondern auch Engeln; und die Siegesbotschaften, die diese Schreiben verkünden, sind viel ehrfurchtgebietender als die auf der Erde\. Darum werden nicht nur Menschen, sondern auch Engel und Erzengel, die Völker der Himmel und alle auf der Erde aufgerufen, den Lobpreis anzustimmen\. Denn er sagt: „Preist den Herrn, alle seine Werke\.[^bible-41573a18-abc7-45f3-896c-992ce98c0f80]“ Denn nicht gering ist, was vollbracht wird, sondern es übersteigt jedes Wort, jeden Verstand und jedes menschliche Denken\. Und dies rufen die Propheten jeden Tag aus, jeder auf andere Weise, indem er dieses glänzende Siegeszeichen verkündet\. Der eine sagt: „Du bist in die Höhe hinaufgestiegen, hast Gefangenschaft gefangen geführt und Gaben unter den Menschen empfangen\.[^bible-0feb366e-f3e1-48f6-9fa6-e9d8751c762e]“ Und: „Der Herr ist stark und mächtig im Kampf\.[^bible-8fc432ab-333d-45d5-bf3f-e11d09d7d2f9]“ Ein anderer sagt: „Er wird die Beute der Starken verteilen\.[^bible-4ff0508d-d628-465a-ae21-52accea65250]“ Denn dazu ist er gekommen: „den Gefangenen Freilassung zu verkünden und den Blinden, dass sie wieder sehen\.[^bible-1525715f-5dcb-4013-8406-bd5d363a1ba6]“ Und als er gegen den Tod den Siegesruf erschallen ließ, sagte er: „Wo ist, Tod, dein Sieg? Wo ist, Hades, dein Stachel?[^bible-7af1e89e-b881-4199-8b62-e38efdf04968]“ Wieder ein anderer verkündete die tiefste Friedensbotschaft und sagte: „Sie werden ihre Schwerter zu Pflügen zerschlagen und ihre Spieße zu Sicheln\.[^bible-6c0b98b2-4f2a-4595-b991-cf70c100be23]“ Der eine ruft Jerusalem und sagt: „Freue dich sehr, Tochter Zion, denn siehe, dein König kommt zu dir, sanftmütig, auf einem Lasttier reitend und auf einem jungen Füllen\.[^bible-ec995674-67bb-4c33-b257-2dec83ed7f35]“ Der andere aber verkündet auch seine zweite Ankunft und sagt so: „Der Herr, den ihr sucht, wird kommen, und wer wird den Tag seines Eintritts ertragen?[^bible-fe220304-b4a5-402b-aeaf-362f86c655de]“ „Hüpft wie Kälber, die von Fesseln gelöst sind\.[^bible-8a3cc418-8ca2-46a7-ad7e-43f162aefb1f]“ Und wieder ein anderer sagte, von solchen Dingen erschüttert: „Das ist unser Gott; kein anderer wird neben ihm gerechnet werden\.[^bible-d9cf800d-fcfb-4197-81e1-5799da74cefb]“ Doch obwohl dies und noch viel mehr gesagt wird, obwohl wir erschauern müssten und nicht einmal meinen dürften, noch auf der Erde zu sein, machen wir Lärm wie mitten auf dem Markt, stiften Unruhe, reden über Dinge, die uns nichts angehen, und vergeuden die ganze Zeit der Versammlung\. Wenn wir nun im Kleinen wie im Großen, beim Hören wie beim Handeln, draußen wie drinnen in der Kirche so nachlässig sind und bei alledem auch noch gegen Feinde beten: Woher sollen wir dann Hoffnung auf Rettung haben, wenn wir zu so vielen Sünden noch eine andere schwere hinzufügen, die diesen allen das Gleichgewicht hält, nämlich dieses gesetzlose Gebet? Ist es da noch recht, sich zu wundern, wenn uns etwas Unerwartetes und Schmerzhaftes widerfährt, wo wir uns doch wundern müssten, wenn es nicht geschieht? Denn jenes folgt dem Lauf der Dinge; dies aber übersteigt jedes Wort und jede Erwartung\. Denn es übersteigt jedes Wort, dass Menschen, die zu Feinden Gottes geworden sind und ihn zum Zorn reizen, dennoch Sonne, Regen und alles andere genießen: Menschen, die an Grausamkeit wilde Tiere übertreffen, die gegeneinander aufstehen und ihre Zunge an den Bissen gegen den Nächsten blutig machen, nach dem geistlichen Tisch, nach so vielen Wohltaten und nach zehntausend Geboten\. Wenn wir dies bedenken, lasst uns das Gift ausspeien, die Feindschaften auflösen und Gebete sprechen, die uns angemessen sind\. Statt der tierischen Wildheit von Dämonen wollen wir die Milde der Engel annehmen\. Und was immer uns an Unrecht geschehen ist: Denken wir an unsere eigenen Vergehen und an den Lohn, der uns für dieses Gebot bereitliegt; machen wir den Zorn weich und legen wir die Wellen still, damit wir auch das gegenwärtige Leben ohne Unruhe durchschreiten und, wenn wir dorthin gegangen sind, einen Herrn antreffen, wie wir selbst gegenüber unseren Mitsklaven gewesen sind\. Wenn dies aber schwer und furchtbar ist, dann machen wir es leicht und begehrenswert und öffnen die glänzenden Türen der Freimütigkeit vor ihm\. Und was wir nicht vermocht haben dadurch zu erreichen, dass wir uns von Sünden fernhielten, das wollen wir dadurch erreichen, dass wir milde werden gegen die, die gegen uns gesündigt haben\. Denn das ist weder schwer noch drückend\. Wenn wir unseren Feinden Gutes tun, legen wir für uns selbst schon im Voraus viel Erbarmen bereit\. So werden uns alle schon in diesem Leben lieben; und vor allen anderen wird Gott uns lieben, krönen und uns aller künftigen Güter würdigen\. Möge es uns allen geschenkt werden, sie zu erlangen, durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus\. Ihm sei die Herrlichkeit und die Macht in alle Ewigkeit\. Amen\.
+Denn man muss kein Meer überqueren,
+keinen langen Weg zurücklegen,
+keine Berggipfel überschreiten,
+kein Geld ausgeben und den Körper nicht erschöpfen\.
+Es genügt,
+nur zu wollen,
+und alle Sünden sind gelöst\.
+Wenn du aber nicht nur selbst nicht vergibst,
+sondern auch noch bei Gott gegen den anderen vorstellig wirst,
+welche Hoffnung auf Rettung bleibt dir dann noch?
+Gerade in dem Augenblick,
+in dem du ihn versöhnst und zu ihm betest,
+reizt du ihn zum Zorn:
+Du trägst die Gestalt eines Bittenden,
+stößt aber die Laute eines wilden Tieres aus und schleuderst jene Pfeile des Bösen gegen dich selbst\.
+Deshalb hat auch Paulus,
+als er vom Gebet sprach,
+nichts so sehr gefordert wie die Bewahrung dieses Gebots\.
+Denn er sagt:
+„Erhebt heilige Hände,
+ohne Zorn und Zweifel\.[^bible-fa169206-da46-4674-8984-94f6e1daafae]“ Wenn du nämlich dann,
+wenn du Erbarmen brauchst,
+nicht einmal dann den Zorn loslässt,
+sondern dich sogar mit aller Macht an ihn erinnerst,
+obwohl du weißt,
+dass du das Schwert gegen dich selbst stößt,
+wann wirst du dann menschenfreundlich werden können und das böse Gift dieser Bosheit ausspeien?
+Wenn du aber die Größe dieser Verkehrtheit noch nicht gesehen hast,
+dann stell dir vor,
+dass dies unter Menschen geschieht;
+dann wirst du das Übermaß der Frechheit sehen\.
+Wenn nämlich zu dir,
+obwohl du nur ein Mensch bist,
+jemand käme und darum bäte,
+Erbarmen zu finden,
+dann aber,
+während er am Boden liegt,
+einen Feind sähe,
+dich im Bitten stehen ließe und jenen schlüge:
+Würdest du da nicht noch mehr in Zorn geraten?
+Genau das,
+bedenke,
+geschieht auch vor Gott\.
+Denn auch du bittest Gott,
+lässt mitten im Bitten deine flehende Haltung fahren,
+schlägst deinen Feind mit Worten und verhöhnst die Gesetze Gottes\.
+Du rufst den Gesetzgeber an,
+der geboten hat,
+allen Zorn gegen die aufzugeben,
+die uns Gutes verletzt haben,
+und verlangst von ihm,
+er solle das Gegenteil seiner eigenen Gebote tun\.
+Reicht es dir als Grund zur Strafe nicht,
+dass du selbst Gottes Gesetz übertrittst?
+Bittest du auch noch ihn,
+dasselbe zu tun?
+Hat er etwa vergessen,
+was er geboten hat?
+Ist etwa ein Mensch der,
+der dies gesagt hat?
+Gott ist es,
+der alles weiß und will,
+dass seine Gesetze mit aller Genauigkeit bewahrt werden\.
+Und er ist so weit davon entfernt,
+das zu tun,
+was du verlangst,
+dass er auch dich,
+der du so etwas sagst,
+schon allein wegen des Sagens verabscheut und hasst und die äußerste Strafe fordert\.
+Wie kannst du also verlangen,
+von ihm das zu erhalten,
+wovon er dir selbst mit großem Ernst fernzubleiben gebietet?
+Doch es gibt manche,
+die bis zu einem solchen Unverstand gekommen sind,
+dass sie nicht nur gegen ihre Feinde beten,
+sondern auch deren Kindern fluchen und,
+wenn es möglich wäre,
+sogar von deren Fleisch kosten möchten,
+ja vielmehr:
+sie kosten davon\.
+Sag mir nämlich nicht,
+du hättest deine Zähne nicht in den Körper dessen geschlagen,
+der dich verletzt hat\.
+Du hast,
+soweit es an dir liegt,
+etwas viel Schlimmeres getan:
+Du verlangst,
+dass von oben Zorn über ihn gebracht wird,
+dass er einer unsterblichen Strafe ausgeliefert und samt seinem ganzen Haus zugrunde gerichtet wird\.
+Welche Bisse wären schlimmer als das?
+Welche Pfeile bitterer?
+Das hat Christus dich nicht gelehrt;
+so hat er dir nicht geboten,
+den Mund blutig zu machen\.
+Denn solche Zungen sind schlimmer als Münder,
+die vom Fleisch von Menschen blutbefleckt sind\.
+Wie willst du also den Bruder begrüßen?
+Wie willst du das Opfer berühren?
+Wie willst du vom Blut des Herrn kosten,
+wenn du so viel Gift in deinem Denken hast?
+Wenn du nämlich sagst:
+„Stürze ihn nieder,
+wirf sein Haus um,
+vernichte alles“,
+und ihm tausendfaches Verderben anwünschst,
+unterscheidest du dich in nichts von einem Mörder,
+ja vielmehr von einem menschenfressenden wilden Tier\.
+Hören wir also auf mit dieser Krankheit und diesem Wahnsinn,
+und zeigen wir denen,
+die uns verletzt haben,
+die Güte,
+die er geboten hat,
+damit wir unserem Vater im Himmel ähnlich werden\.
+Aufhören werden wir aber,
+wenn wir uns an unsere eigenen Sünden erinnern;
+wenn wir alles,
+worin wir gefehlt haben,
+genau prüfen:
+das Innere,
+das Äußere,
+das auf dem Markt,
+das in der Kirche\.
+Denn selbst wenn es sonst nichts gäbe,
+verdienen wir schon wegen unserer Nachlässigkeit hier die äußerste Strafe\.
+Denn während die Propheten psalmodieren,
+die Apostel Hymnen singen und Gott zu uns spricht,
+schweifen wir draußen umher und tragen den Lärm weltlicher Angelegenheiten hinein\.
+Nicht einmal so viel Ruhe gewähren wir den Gesetzen Gottes,
+wie die Zuschauer in den Theatern den Schreiben des Königs an Stille gewähren\.
+Dort nämlich,
+wenn diese Schreiben verlesen werden,
+stehen Konsuln,
+Präfekten,
+Rat und Volk alle aufrecht da und hören in Stille auf das,
+was gesagt wird\.
+Und wenn mitten in jener tiefen Stille plötzlich einer aufspringt und losschreit,
+dann muss er,
+weil er den König beleidigt hat,
+die äußerste Strafe erleiden\.
+Hier aber,
+wenn die Schreiben aus dem Himmel verlesen werden,
+entsteht von allen Seiten großer Lärm\.
+Dabei ist doch der,
+der die Schreiben gesandt hat,
+viel größer als dieser König,
+und der Schauplatz ist ehrwürdiger\.
+Denn er gehört nicht nur Menschen,
+sondern auch Engeln;
+und die Siegesbotschaften,
+die diese Schreiben verkünden,
+sind viel ehrfurchtgebietender als die auf der Erde\.
+Darum werden nicht nur Menschen,
+sondern auch Engel und Erzengel,
+die Völker der Himmel und alle auf der Erde aufgerufen,
+den Lobpreis anzustimmen\.
+Denn er sagt:
+„Preist den Herrn,
+alle seine Werke\.[^bible-41573a18-abc7-45f3-896c-992ce98c0f80]“ Denn nicht gering ist,
+was vollbracht wird,
+sondern es übersteigt jedes Wort,
+jeden Verstand und jedes menschliche Denken\.
+Und dies rufen die Propheten jeden Tag aus,
+jeder auf andere Weise,
+indem er dieses glänzende Siegeszeichen verkündet\.
+Der eine sagt:
+„Du bist in die Höhe hinaufgestiegen,
+hast Gefangenschaft gefangen geführt und Gaben unter den Menschen empfangen\.[^bible-0feb366e-f3e1-48f6-9fa6-e9d8751c762e]“ Und:
+„Der Herr ist stark und mächtig im Kampf\.[^bible-8fc432ab-333d-45d5-bf3f-e11d09d7d2f9]“ Ein anderer sagt:
+„Er wird die Beute der Starken verteilen\.[^bible-4ff0508d-d628-465a-ae21-52accea65250]“ Denn dazu ist er gekommen:
+„den Gefangenen Freilassung zu verkünden und den Blinden,
+dass sie wieder sehen\.[^bible-1525715f-5dcb-4013-8406-bd5d363a1ba6]“ Und als er gegen den Tod den Siegesruf erschallen ließ,
+sagte er:
+„Wo ist,
+Tod,
+dein Sieg?
+Wo ist,
+Hades,
+dein Stachel?[^bible-7af1e89e-b881-4199-8b62-e38efdf04968]“ Wieder ein anderer verkündete die tiefste Friedensbotschaft und sagte:
+„Sie werden ihre Schwerter zu Pflügen zerschlagen und ihre Spieße zu Sicheln\.[^bible-6c0b98b2-4f2a-4595-b991-cf70c100be23]“ Der eine ruft Jerusalem und sagt:
+„Freue dich sehr,
+Tochter Zion,
+denn siehe,
+dein König kommt zu dir,
+sanftmütig,
+auf einem Lasttier reitend und auf einem jungen Füllen\.[^bible-ec995674-67bb-4c33-b257-2dec83ed7f35]“ Der andere aber verkündet auch seine zweite Ankunft und sagt so:
+„Der Herr,
+den ihr sucht,
+wird kommen,
+und wer wird den Tag seines Eintritts ertragen?[^bible-fe220304-b4a5-402b-aeaf-362f86c655de]“ „Hüpft wie Kälber,
+die von Fesseln gelöst sind\.[^bible-8a3cc418-8ca2-46a7-ad7e-43f162aefb1f]“ Und wieder ein anderer sagte,
+von solchen Dingen erschüttert:
+„Das ist unser Gott;
+kein anderer wird neben ihm gerechnet werden\.[^bible-d9cf800d-fcfb-4197-81e1-5799da74cefb]“ Doch obwohl dies und noch viel mehr gesagt wird,
+obwohl wir erschauern müssten und nicht einmal meinen dürften,
+noch auf der Erde zu sein,
+machen wir Lärm wie mitten auf dem Markt,
+stiften Unruhe,
+reden über Dinge,
+die uns nichts angehen,
+und vergeuden die ganze Zeit der Versammlung\.
+Wenn wir nun im Kleinen wie im Großen,
+beim Hören wie beim Handeln,
+draußen wie drinnen in der Kirche so nachlässig sind und bei alledem auch noch gegen Feinde beten:
+Woher sollen wir dann Hoffnung auf Rettung haben,
+wenn wir zu so vielen Sünden noch eine andere schwere hinzufügen,
+die diesen allen das Gleichgewicht hält,
+nämlich dieses gesetzlose Gebet?
+Ist es da noch recht,
+sich zu wundern,
+wenn uns etwas Unerwartetes und Schmerzhaftes widerfährt,
+wo wir uns doch wundern müssten,
+wenn es nicht geschieht?
+Denn jenes folgt dem Lauf der Dinge;
+dies aber übersteigt jedes Wort und jede Erwartung\.
+Denn es übersteigt jedes Wort,
+dass Menschen,
+die zu Feinden Gottes geworden sind und ihn zum Zorn reizen,
+dennoch Sonne,
+Regen und alles andere genießen:
+Menschen,
+die an Grausamkeit wilde Tiere übertreffen,
+die gegeneinander aufstehen und ihre Zunge an den Bissen gegen den Nächsten blutig machen,
+nach dem geistlichen Tisch,
+nach so vielen Wohltaten und nach zehntausend Geboten\.
+Wenn wir dies bedenken,
+lasst uns das Gift ausspeien,
+die Feindschaften auflösen und Gebete sprechen,
+die uns angemessen sind\.
+Statt der tierischen Wildheit von Dämonen wollen wir die Milde der Engel annehmen\.
+Und was immer uns an Unrecht geschehen ist:
+Denken wir an unsere eigenen Vergehen und an den Lohn,
+der uns für dieses Gebot bereitliegt;
+machen wir den Zorn weich und legen wir die Wellen still,
+damit wir auch das gegenwärtige Leben ohne Unruhe durchschreiten und,
+wenn wir dorthin gegangen sind,
+einen Herrn antreffen,
+wie wir selbst gegenüber unseren Mitsklaven gewesen sind\.
+Wenn dies aber schwer und furchtbar ist,
+dann machen wir es leicht und begehrenswert und öffnen die glänzenden Türen der Freimütigkeit vor ihm\.
+Und was wir nicht vermocht haben dadurch zu erreichen,
+dass wir uns von Sünden fernhielten,
+das wollen wir dadurch erreichen,
+dass wir milde werden gegen die,
+die gegen uns gesündigt haben\.
+Denn das ist weder schwer noch drückend\.
+Wenn wir unseren Feinden Gutes tun,
+legen wir für uns selbst schon im Voraus viel Erbarmen bereit\.
+So werden uns alle schon in diesem Leben lieben;
+und vor allen anderen wird Gott uns lieben,
+krönen und uns aller künftigen Güter würdigen\.
+Möge es uns allen geschenkt werden,
+sie zu erlangen,
+durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus\.
+Ihm sei die Herrlichkeit und die Macht in alle Ewigkeit\.
+Amen\.
 
 ## Bibelverweise
 

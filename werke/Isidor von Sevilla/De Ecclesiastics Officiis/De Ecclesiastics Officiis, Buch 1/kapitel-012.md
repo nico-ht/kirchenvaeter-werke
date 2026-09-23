@@ -7,13 +7,189 @@ Autor: Isidor von Sevilla
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/isidor-von-sevilla/de-ecclesiastics-officiis-buch-1#kapitel-b55afe63-6cd1-4482-f4dd-08ded514b29a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:4c49cd3b12961b295d90eeedc5cb7e2a94f3bd6ca85b7426ffd664ca209ed214`
+Dies sind die Verfasser des Alten Testaments nach der Überlieferung der Hebräer:
+Zuerst schrieb Mose den Pentateuch\.
+Joshua,
+der Sohn Nuns,
+bearbeitete sein Buch\.
+Samuel schrieb die Richter,
+Ruth und den ersten Teil Samuels\.
+David schrieb die Fortsetzung Samuels bis zum Ende\.
+Jeremia bearbeitete den ganzen Maleachi;
+denn zuvor war er über die Geschichten der einzelnen Könige verstreut\.
+Die Hebräer meinen,
+Mose habe das Buch Ijob geschrieben;
+andere meinen,
+einer der Propheten habe es getan\.
+Tatsächlich schrieben zehn Propheten den Psalter,
+nämlich Mose,
+David,
+Salomo,
+Asaf,
+Etan,
+Idithun,
+Heman und die Söhne Kores,
+das heißt Aser,
+Elkana und Abiasaf;
+es gibt solche,
+die sagen,
+auch Esdras,
+Haggai und Zacharias hätten daran mitgeschrieben\.
+Salomo schrieb die Sprüche,
+den Ecclesiastes und das Hohelied\.
+Jesaja schrieb sein Buch;
+Jeremia schrieb sein Buch samt seinen Klageliedern\.
+Weise Männer der Synagoge schrieben Ezechiel,
+die zwölf Propheten,
+Daniel sowie Paralipomenon und Ester\.
+Esdras schrieb sein Buch\.
+Als die Juden nach Jerusalem zurückgekehrt waren,
+stellte derselbe Esdras,
+der Schriftgelehrte,
+erfüllt vom göttlichen Geist,
+alle diese Bücher nach der Verbrennung des Gesetzes durch die Chaldäer wieder her\.
+Er verbesserte alle Bücher der Propheten,
+die von den Heiden verderbt worden waren,
+und ordnete das ganze Testament in zweiundzwanzig Bücher,
+sodass es im Gesetz ebenso viele Bücher gab wie Buchstaben\.
+Die erste Ausgabe nach Esdras übertrugen siebzig Übersetzer unter Ptolemäus,
+dem ägyptischen König,
+dem Nachfolger Alexanders,
+aus dem Hebräischen ins Griechische;
+er war sehr eifrig im Lesen und brachte die Bücher aller Völker zusammen\.
+Denn er sandte viele Geschenke an den Tempel und bat Eleazar,
+der Hohepriester war,
+darum,
+dass sechs Männer aus den zwölf Stämmen Israels geschickt würden,
+die alle Bücher übersetzen sollten\.
+Und damit er die Treue der Übersetzung feststellen konnte,
+gab er jedem der Ausgewählten ein eigenes Gemach,
+wies allen die Aufgabe zu und befahl,
+alle Schriften zu übersetzen\.
+Darauf wurden,
+während sie siebzig Tage lang mit diesem Auftrag beschäftigt waren,
+die Übersetzungen aller Schriften zur selben Zeit vollendet\.
+Sie hatten die Übersetzungen angefertigt,
+abgesondert an verschiedenen Orten,
+keiner von ihnen in der Nähe eines anderen\.
 
-Dies sind die Verfasser des Alten Testaments nach der Überlieferung der Hebräer: Zuerst schrieb Mose den Pentateuch\. Joshua, der Sohn Nuns, bearbeitete sein Buch\. Samuel schrieb die Richter, Ruth und den ersten Teil Samuels\. David schrieb die Fortsetzung Samuels bis zum Ende\. Jeremia bearbeitete den ganzen Maleachi; denn zuvor war er über die Geschichten der einzelnen Könige verstreut\. Die Hebräer meinen, Mose habe das Buch Ijob geschrieben; andere meinen, einer der Propheten habe es getan\. Tatsächlich schrieben zehn Propheten den Psalter, nämlich Mose, David, Salomo, Asaf, Etan, Idithun, Heman und die Söhne Kores, das heißt Aser, Elkana und Abiasaf; es gibt solche, die sagen, auch Esdras, Haggai und Zacharias hätten daran mitgeschrieben\. Salomo schrieb die Sprüche, den Ecclesiastes und das Hohelied\. Jesaja schrieb sein Buch; Jeremia schrieb sein Buch samt seinen Klageliedern\. Weise Männer der Synagoge schrieben Ezechiel, die zwölf Propheten, Daniel sowie Paralipomenon und Ester\. Esdras schrieb sein Buch\. Als die Juden nach Jerusalem zurückgekehrt waren, stellte derselbe Esdras, der Schriftgelehrte, erfüllt vom göttlichen Geist, alle diese Bücher nach der Verbrennung des Gesetzes durch die Chaldäer wieder her\. Er verbesserte alle Bücher der Propheten, die von den Heiden verderbt worden waren, und ordnete das ganze Testament in zweiundzwanzig Bücher, sodass es im Gesetz ebenso viele Bücher gab wie Buchstaben\. Die erste Ausgabe nach Esdras übertrugen siebzig Übersetzer unter Ptolemäus, dem ägyptischen König, dem Nachfolger Alexanders, aus dem Hebräischen ins Griechische; er war sehr eifrig im Lesen und brachte die Bücher aller Völker zusammen\. Denn er sandte viele Geschenke an den Tempel und bat Eleazar, der Hohepriester war, darum, dass sechs Männer aus den zwölf Stämmen Israels geschickt würden, die alle Bücher übersetzen sollten\. Und damit er die Treue der Übersetzung feststellen konnte, gab er jedem der Ausgewählten ein eigenes Gemach, wies allen die Aufgabe zu und befahl, alle Schriften zu übersetzen\. Darauf wurden, während sie siebzig Tage lang mit diesem Auftrag beschäftigt waren, die Übersetzungen aller Schriften zur selben Zeit vollendet\. Sie hatten die Übersetzungen angefertigt, abgesondert an verschiedenen Orten, keiner von ihnen in der Nähe eines anderen\.
+Er versammelte sie,
+und so zeigte sich,
+dass alle Bücher durch den Heiligen Geist übersetzt worden waren;
+denn man fand,
+dass sie nicht nur dem Sinn,
+sondern wirklich auch den Worten nach übereinstimmten\.
+Diese erste Übersetzung war wahr und göttlich\.
+Die Kirchen aller Völker begannen zuerst,
+über diese Bücher nachzusinnen;
+und indem sie sie aus dem Griechischen ins Lateinische übertrugen,
+überlieferten die ersten Verantwortlichen der Kirchen sie weiter\.
+Danach gab Aquila eine zweite Ausgabe heraus;
+Theodotion und Symmachus,
+beide jüdische Proselyten,
+gaben eine dritte und eine vierte heraus\.
+Es gab eine fünfte Ausgabe,
+und dann wurde eine sechste Ausgabe des Origenes gefunden und mit den anderen oben genannten Ausgaben verglichen\.
+Dies also sind allein diejenigen,
+die die Heiligen Schriften aus dem Hebräischen ins Griechische übersetzt haben\.
+Diese sind tatsächlich gezählt\.
+Von den Lateinern aber,
+die aus dem Griechischen in unsere Sprache übersetzt haben,
+ist,
+wie der heilige Augustinus berichtet,
+die Zahl unbegrenzt\.
+„Denn wenn jemandem“,
+sagt er,
+„in den ersten Zeiten des Glaubens ein griechischer Codex in die Hände kam und er meinte,
+ein wenig Kenntnis der eigenen und der anderen Sprache zu besitzen,
+wagte er sofort zu übersetzen“,
+und daher kam es,
+dass es unter den Lateinern so unzählige Übersetzer gegeben hat\.
+Nur der Presbyter Hieronymus jedoch übersetzte die Heiligen Schriften aus dem Hebräischen in die lateinische Sprache\.
+Seine Ausgabe wird allgemein von allen Kirchen bei jeder Gelegenheit verwendet,
+weil sie dem Sinn nach wahrer und in den Worten klarer ist\.
+Dass Salomo das Buch der Weisheit geschrieben hat,
+wird durch die Zeugnisse erwiesen,
+in denen es so heißt:
+„Du hast mich erwählt,
+König über dein Volk zu sein \.\.\.
+und du hast mir geboten,
+deinem heiligen Namen einen Tempel zu bauen und einen Altar in der Stadt deiner Wohnstätte[^bible-369431b8-6072-4c68-b9ee-494d6dfeb29f]\.“
+Die Hebräer nahmen,
+wie einer der Weisen berichtet,
+dieses Werk in die kanonischen Schriften auf\.
+Nachdem sie aber Christus getötet hatten,
+erfassten und erinnerten sie sich in eben diesem Buch an die ganz offenkundigen Zeugnisse über Christus,
+wo es heißt:
+„Die Gottlosen sagten untereinander[^bible-eea7915f-3ec1-4d8a-856f-233d0d46cca1]:
+Lasst uns den Gerechten ergreifen,
+weil er uns nicht nützlich ist und sich unseren Werken widersetzt[^bible-683d396c-fa2a-4f22-9956-e5a9e131495d]\.“
+Und:
+„Er bekennt,
+Erkenntnis Gottes zu haben,
+und nennt sich Sohn Gottes[^bible-5303c8fc-8d22-40ac-8735-f3d0d35671e9]\.“
+Und dann:
+„Denn wenn er wirklich Sohn Gottes ist,
+lasst uns ihn ergreifen,
+und der Herr wird ihn aus der Hand derer befreien,
+die ihm widerstehen[^bible-b13497fd-76b3-4217-ab1e-d7b163a13441]\.“
+Und weiter:
+„Damit wir seine Ehrfurcht erkennen und seine Geduld erproben,
+lasst uns ihn zu einem höchst schmachvollen Tod verurteilen[^bible-e8469aeb-5fd3-4cc5-a090-5718b83a5092]\.“
+Und damit jene aus unserer Zahl sie nicht durch ein so offenkundiges Sakrileg minderten,
+hielten sie eine Versammlung ab,
+entfernten das Buch aus den prophetischen Bänden und verboten ihrem eigenen Volk,
+es zu lesen\.
+Danach verfasste Joshua,
+der Sohn Sirachs aus Jerusalem,
+ein Nachkomme des Priesters Joshua,
+dessen Zacharias gedenkt,
+das Buch Ecclesiasticus\.
+Dieses Buch wird bei den Lateinern wegen der Ähnlichkeit der Sprache unter dem Titel Salomos geführt\.
+Außerdem ist keineswegs sicher,
+wer die Verfasser gewesen sein mögen,
+die die Bücher Judit,
+Tobit und Makkabäer geschrieben haben\.
 
-Er versammelte sie, und so zeigte sich, dass alle Bücher durch den Heiligen Geist übersetzt worden waren; denn man fand, dass sie nicht nur dem Sinn, sondern wirklich auch den Worten nach übereinstimmten\. Diese erste Übersetzung war wahr und göttlich\. Die Kirchen aller Völker begannen zuerst, über diese Bücher nachzusinnen; und indem sie sie aus dem Griechischen ins Lateinische übertrugen, überlieferten die ersten Verantwortlichen der Kirchen sie weiter\. Danach gab Aquila eine zweite Ausgabe heraus; Theodotion und Symmachus, beide jüdische Proselyten, gaben eine dritte und eine vierte heraus\. Es gab eine fünfte Ausgabe, und dann wurde eine sechste Ausgabe des Origenes gefunden und mit den anderen oben genannten Ausgaben verglichen\. Dies also sind allein diejenigen, die die Heiligen Schriften aus dem Hebräischen ins Griechische übersetzt haben\. Diese sind tatsächlich gezählt\. Von den Lateinern aber, die aus dem Griechischen in unsere Sprache übersetzt haben, ist, wie der heilige Augustinus berichtet, die Zahl unbegrenzt\. „Denn wenn jemandem“, sagt er, „in den ersten Zeiten des Glaubens ein griechischer Codex in die Hände kam und er meinte, ein wenig Kenntnis der eigenen und der anderen Sprache zu besitzen, wagte er sofort zu übersetzen“, und daher kam es, dass es unter den Lateinern so unzählige Übersetzer gegeben hat\. Nur der Presbyter Hieronymus jedoch übersetzte die Heiligen Schriften aus dem Hebräischen in die lateinische Sprache\. Seine Ausgabe wird allgemein von allen Kirchen bei jeder Gelegenheit verwendet, weil sie dem Sinn nach wahrer und in den Worten klarer ist\. Dass Salomo das Buch der Weisheit geschrieben hat, wird durch die Zeugnisse erwiesen, in denen es so heißt: „Du hast mich erwählt, König über dein Volk zu sein \.\.\. und du hast mir geboten, deinem heiligen Namen einen Tempel zu bauen und einen Altar in der Stadt deiner Wohnstätte[^bible-369431b8-6072-4c68-b9ee-494d6dfeb29f]\.“ Die Hebräer nahmen, wie einer der Weisen berichtet, dieses Werk in die kanonischen Schriften auf\. Nachdem sie aber Christus getötet hatten, erfassten und erinnerten sie sich in eben diesem Buch an die ganz offenkundigen Zeugnisse über Christus, wo es heißt: „Die Gottlosen sagten untereinander[^bible-eea7915f-3ec1-4d8a-856f-233d0d46cca1]: Lasst uns den Gerechten ergreifen, weil er uns nicht nützlich ist und sich unseren Werken widersetzt[^bible-683d396c-fa2a-4f22-9956-e5a9e131495d]\.“ Und: „Er bekennt, Erkenntnis Gottes zu haben, und nennt sich Sohn Gottes[^bible-5303c8fc-8d22-40ac-8735-f3d0d35671e9]\.“ Und dann: „Denn wenn er wirklich Sohn Gottes ist, lasst uns ihn ergreifen, und der Herr wird ihn aus der Hand derer befreien, die ihm widerstehen[^bible-b13497fd-76b3-4217-ab1e-d7b163a13441]\.“ Und weiter: „Damit wir seine Ehrfurcht erkennen und seine Geduld erproben, lasst uns ihn zu einem höchst schmachvollen Tod verurteilen[^bible-e8469aeb-5fd3-4cc5-a090-5718b83a5092]\.“ Und damit jene aus unserer Zahl sie nicht durch ein so offenkundiges Sakrileg minderten, hielten sie eine Versammlung ab, entfernten das Buch aus den prophetischen Bänden und verboten ihrem eigenen Volk, es zu lesen\. Danach verfasste Joshua, der Sohn Sirachs aus Jerusalem, ein Nachkomme des Priesters Joshua, dessen Zacharias gedenkt, das Buch Ecclesiasticus\. Dieses Buch wird bei den Lateinern wegen der Ähnlichkeit der Sprache unter dem Titel Salomos geführt\. Außerdem ist keineswegs sicher, wer die Verfasser gewesen sein mögen, die die Bücher Judit, Tobit und Makkabäer geschrieben haben\.
-
-Im Neuen Testament schrieben die vier Evangelisten jeweils eines der vier Bücher der Evangelien\. Von diesen soll nur das des Matthäus in hebräischer Sprache geschrieben worden sein, die übrigen auf Griechisch\. Der Apostel Paulus schrieb seine Briefe: neun davon an sieben Kirchen, die übrigen an seine Schüler Timotheus, Titus und Philemon\. Den meisten Lateinern ist wegen der abweichenden Sprache ungewiss, ob der Brief an die Hebräer von Paulus stammt\. Einige schreiben seine Verfasserschaft Barnabas zu, andere vermuten, er sei von Clemens geschrieben worden\. Petrus schrieb die beiden Briefe, die seinen Namen tragen und katholisch genannt werden\. Von diesen halten manche seinen zweiten wegen des Unterschieds in Stil und Wortschatz nicht für echt\. Jakobus schrieb seinen Brief, der ebenfalls von manchen als nicht von ihm stammend bestritten wird\. Vielmehr meint man, er sei von einem anderen unter seinem Namen geschrieben worden\. Johannes selbst gab die Briefe heraus, die unter seinem Namen stehen\. Von diesen wird nur der erste von manchen als seiner behauptet; die übrigen zwei des Johannes werden einem gewissen Presbyter zugeschrieben, der nach der Ansicht des Hieronymus durch ein zweites Grab in Ephesus bezeugt wird\. Judas gab seinen Brief heraus\. Lukas verfasste die Apostelgeschichte nach dem, was er gehört oder gesehen hatte\. Der Evangelist schrieb die Offenbarung des Johannes zu der Zeit, als er wegen der Verkündigung des Evangeliums gefesselt auf die Insel Patmos überstellt worden war\. Das sind die Verfasser der heiligen Bücher, die „von Gott eingegeben[^bible-4f728603-b59c-436d-99f3-e955e2bfc75a]“ sprechen und himmlische Weisungen „zur Lehre[^bible-4f728603-b59c-436d-99f3-e955e2bfc75a]“ darreichen\. Als Urheber dieser Schriften aber gilt der Heilige Geist\. Denn er selbst schrieb, der durch seine Propheten diktierte, was geschrieben werden sollte\. Und nun werde ich dir, nach dem Ursprung der Psalme und Hymnen und auch nach der Zahl der heiligen Bücher, die folgenden Punkte darlegen, um die du gebeten hast\.
+Im Neuen Testament schrieben die vier Evangelisten jeweils eines der vier Bücher der Evangelien\.
+Von diesen soll nur das des Matthäus in hebräischer Sprache geschrieben worden sein,
+die übrigen auf Griechisch\.
+Der Apostel Paulus schrieb seine Briefe:
+neun davon an sieben Kirchen,
+die übrigen an seine Schüler Timotheus,
+Titus und Philemon\.
+Den meisten Lateinern ist wegen der abweichenden Sprache ungewiss,
+ob der Brief an die Hebräer von Paulus stammt\.
+Einige schreiben seine Verfasserschaft Barnabas zu,
+andere vermuten,
+er sei von Clemens geschrieben worden\.
+Petrus schrieb die beiden Briefe,
+die seinen Namen tragen und katholisch genannt werden\.
+Von diesen halten manche seinen zweiten wegen des Unterschieds in Stil und Wortschatz nicht für echt\.
+Jakobus schrieb seinen Brief,
+der ebenfalls von manchen als nicht von ihm stammend bestritten wird\.
+Vielmehr meint man,
+er sei von einem anderen unter seinem Namen geschrieben worden\.
+Johannes selbst gab die Briefe heraus,
+die unter seinem Namen stehen\.
+Von diesen wird nur der erste von manchen als seiner behauptet;
+die übrigen zwei des Johannes werden einem gewissen Presbyter zugeschrieben,
+der nach der Ansicht des Hieronymus durch ein zweites Grab in Ephesus bezeugt wird\.
+Judas gab seinen Brief heraus\.
+Lukas verfasste die Apostelgeschichte nach dem,
+was er gehört oder gesehen hatte\.
+Der Evangelist schrieb die Offenbarung des Johannes zu der Zeit,
+als er wegen der Verkündigung des Evangeliums gefesselt auf die Insel Patmos überstellt worden war\.
+Das sind die Verfasser der heiligen Bücher,
+die „von Gott eingegeben[^bible-4f728603-b59c-436d-99f3-e955e2bfc75a]“ sprechen und himmlische Weisungen „zur Lehre[^bible-4f728603-b59c-436d-99f3-e955e2bfc75a]“ darreichen\.
+Als Urheber dieser Schriften aber gilt der Heilige Geist\.
+Denn er selbst schrieb,
+der durch seine Propheten diktierte,
+was geschrieben werden sollte\.
+Und nun werde ich dir,
+nach dem Ursprung der Psalme und Hymnen und auch nach der Zahl der heiligen Bücher,
+die folgenden Punkte darlegen,
+um die du gebeten hast\.
 
 ## Bibelverweise
 

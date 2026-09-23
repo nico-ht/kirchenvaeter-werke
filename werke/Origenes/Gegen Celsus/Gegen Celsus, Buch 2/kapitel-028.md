@@ -7,6 +7,38 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-2#kapitel-e4c06b38-111f-43dc-0a48-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3e4f6d9230723670f1575b108a717b4ae441b806e3795b589d970b64062efad3`
-
-Und da dieser Jude des Celsus den Christen vorwirft, sie zögen die Propheten heran, die die Ereignisse im Leben Christi vorausgesagt haben, müssen wir über das bereits zu diesem Gegenstand Gesagte hinaus noch Folgendes erwidern: Er hätte, wie er selbst sagt, einzelne Personen schonen, stattdessen die Prophezeiungen selbst auslegen und zunächst einräumen sollen, dass die christliche Auslegung einen gewissen Grad an Wahrscheinlichkeit besitzt\. Anschließend hätte er zeigen müssen, wie sich der Gebrauch widerlegen lässt, den die Christen von den Prophezeiungen machen\. Auf diese Weise würde er nicht den Eindruck erwecken, auf dürftiger Grundlage vorschnell einen so gewichtigen Standpunkt einzunehmen, zumal er behauptet: „Die Prophezeiungen stimmen mit zehntausend anderen Dingen glaubwürdiger überein als mit Jesus\.“ Gerade diesem gewichtigen Argument der Christen, dem stärksten, das sie anführen, hätte er sich sorgfältig stellen und für jede einzelne Prophezeiung nachweisen müssen, dass sie sich mit größerer Wahrscheinlichkeit auf andere Ereignisse beziehen lässt als auf Jesus\. Er hat jedoch nicht erkannt, dass dies nur dann ein plausibles Argument gegen die Christen wäre, wenn es ein Gegner der prophetischen Schriften vorbrächte\. Celsus aber legt hier einem Juden einen Einwand in den Mund, den ein Jude nicht erhoben hätte\. Denn ein Jude wird nicht einräumen, dass sich die Prophezeiungen mit größerer Wahrscheinlichkeit auf unzählige andere Dinge beziehen lassen als auf Jesus\. Vielmehr wird er darlegen, was seiner Ansicht nach jede einzelne Prophezeiung bedeutet, und dann versuchen, der christlichen Auslegung entgegenzutreten\. Überzeugende Gründe wird er dafür keineswegs anführen; er wird lediglich versuchen, solche Gründe beizubringen\.
+Und da dieser Jude des Celsus den Christen vorwirft,
+sie zögen die Propheten heran,
+die die Ereignisse im Leben Christi vorausgesagt haben,
+müssen wir über das bereits zu diesem Gegenstand Gesagte hinaus noch Folgendes erwidern:
+Er hätte,
+wie er selbst sagt,
+einzelne Personen schonen,
+stattdessen die Prophezeiungen selbst auslegen und zunächst einräumen sollen,
+dass die christliche Auslegung einen gewissen Grad an Wahrscheinlichkeit besitzt\.
+Anschließend hätte er zeigen müssen,
+wie sich der Gebrauch widerlegen lässt,
+den die Christen von den Prophezeiungen machen\.
+Auf diese Weise würde er nicht den Eindruck erwecken,
+auf dürftiger Grundlage vorschnell einen so gewichtigen Standpunkt einzunehmen,
+zumal er behauptet:
+„Die Prophezeiungen stimmen mit zehntausend anderen Dingen glaubwürdiger überein als mit Jesus\.“
+Gerade diesem gewichtigen Argument der Christen,
+dem stärksten,
+das sie anführen,
+hätte er sich sorgfältig stellen und für jede einzelne Prophezeiung nachweisen müssen,
+dass sie sich mit größerer Wahrscheinlichkeit auf andere Ereignisse beziehen lässt als auf Jesus\.
+Er hat jedoch nicht erkannt,
+dass dies nur dann ein plausibles Argument gegen die Christen wäre,
+wenn es ein Gegner der prophetischen Schriften vorbrächte\.
+Celsus aber legt hier einem Juden einen Einwand in den Mund,
+den ein Jude nicht erhoben hätte\.
+Denn ein Jude wird nicht einräumen,
+dass sich die Prophezeiungen mit größerer Wahrscheinlichkeit auf unzählige andere Dinge beziehen lassen als auf Jesus\.
+Vielmehr wird er darlegen,
+was seiner Ansicht nach jede einzelne Prophezeiung bedeutet,
+und dann versuchen,
+der christlichen Auslegung entgegenzutreten\.
+Überzeugende Gründe wird er dafür keineswegs anführen;
+er wird lediglich versuchen,
+solche Gründe beizubringen\.

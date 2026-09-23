@@ -7,21 +7,194 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-iii#kapitel-15edcbc0-57c6-4d22-0379-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a30cfc2517fb16dabcb366000df26483b8e95b0da584de9dbca3202f69daae30`
+Gott aber übt sehr wohl Vorsehung über alles aus;
+darum gibt er auch Rat\.
+Und wenn er Rat gibt,
+ist er bei denen gegenwärtig,
+die auf moralische Unterweisung achten\.
+Daraus folgt natürlich,
+dass die Wesen,
+über die gewacht wird und die gelenkt werden,
+ihren Lenker kennen müssen\.
+Sie sind nicht vernunftlos oder nichtig,
+sondern besitzen Einsicht,
+die aus der Vorsehung Gottes stammt\.
+Aus diesem Grund waren auch einige von den Heiden,
+die weniger den sinnlichen Verlockungen und der Wollust verfallen waren und sich vom Aberglauben gegenüber den Götzen nicht in solchem Maß fortreißen ließen,
+durch seine Vorsehung,
+wenn auch nur leicht,
+bewegt;
+dennoch gelangten sie zu der Überzeugung,
+dass sie den Schöpfer dieses Weltalls Vater nennen müssen,
+ihn,
+der über alles Vorsehung übt und die Angelegenheiten unserer Welt ordnet\.
 
-Gott aber übt sehr wohl Vorsehung über alles aus; darum gibt er auch Rat\. Und wenn er Rat gibt, ist er bei denen gegenwärtig, die auf moralische Unterweisung achten\. Daraus folgt natürlich, dass die Wesen, über die gewacht wird und die gelenkt werden, ihren Lenker kennen müssen\. Sie sind nicht vernunftlos oder nichtig, sondern besitzen Einsicht, die aus der Vorsehung Gottes stammt\. Aus diesem Grund waren auch einige von den Heiden, die weniger den sinnlichen Verlockungen und der Wollust verfallen waren und sich vom Aberglauben gegenüber den Götzen nicht in solchem Maß fortreißen ließen, durch seine Vorsehung, wenn auch nur leicht, bewegt; dennoch gelangten sie zu der Überzeugung, dass sie den Schöpfer dieses Weltalls Vater nennen müssen, ihn, der über alles Vorsehung übt und die Angelegenheiten unserer Welt ordnet\.
+Weiter:
+Um dem Vater die zurechtweisende und richtende Macht zu nehmen,
+weil sie diese für Gottes unwürdig hielten,
+und weil sie meinten,
+einen Gott entdeckt zu haben,
+der ohne Zorn und nur gut sei,
+haben sie behauptet,
+der eine Gott richte,
+ein anderer aber rette\.
+Dabei sprechen sie,
+ohne es zu merken,
+beiden Gottheiten Einsicht und Gerechtigkeit ab\.
+Denn wenn der richtende Gott nicht auch gut ist,
+indem er denen Gunst erweist,
+die sie verdienen,
+und denen Zurechtweisung zukommen lässt,
+die sie nötig haben,
+dann wird er weder als gerechter noch als weiser Richter erscheinen\.
+Der gute Gott dagegen wird,
+wenn er nur gut ist und nicht prüft,
+über wen er seine Güte sendet,
+nicht mehr im Bereich von Gerechtigkeit und Güte stehen;
+und seine Güte wird unvollkommen erscheinen,
+weil sie nicht alle rettet\.
+Denn das müsste sie tun,
+wenn sie nicht mit Gericht verbunden wäre\.
 
-Weiter: Um dem Vater die zurechtweisende und richtende Macht zu nehmen, weil sie diese für Gottes unwürdig hielten, und weil sie meinten, einen Gott entdeckt zu haben, der ohne Zorn und nur gut sei, haben sie behauptet, der eine Gott richte, ein anderer aber rette\. Dabei sprechen sie, ohne es zu merken, beiden Gottheiten Einsicht und Gerechtigkeit ab\. Denn wenn der richtende Gott nicht auch gut ist, indem er denen Gunst erweist, die sie verdienen, und denen Zurechtweisung zukommen lässt, die sie nötig haben, dann wird er weder als gerechter noch als weiser Richter erscheinen\. Der gute Gott dagegen wird, wenn er nur gut ist und nicht prüft, über wen er seine Güte sendet, nicht mehr im Bereich von Gerechtigkeit und Güte stehen; und seine Güte wird unvollkommen erscheinen, weil sie nicht alle rettet\. Denn das müsste sie tun, wenn sie nicht mit Gericht verbunden wäre\.
+Marcion selbst hebt also,
+indem er Gott in zwei teilt und behauptet,
+der eine sei gut,
+der andere richtend,
+tatsächlich auf beiden Seiten die Gottheit auf\.
+Denn der richtende Gott ist,
+wenn er nicht gut ist,
+nicht Gott,
+weil der,
+dem Güte fehlt,
+überhaupt kein Gott ist;
+und umgekehrt erleidet der gute Gott,
+wenn er keine richtende Macht besitzt,
+denselben Verlust wie jener,
+da ihm der Charakter der Gottheit genommen wird\.
+Und wie können sie den Vater aller weise nennen,
+wenn sie ihm keine Fähigkeit zu richten zusprechen?
+Denn wenn er weise ist,
+prüft er auch andere;
+die richtende Macht aber gehört dem,
+der prüft,
+und auf die Fähigkeit zu richten folgt die Gerechtigkeit,
+damit sie zu einem gerechten Schluss gelangt\.
+Die Gerechtigkeit ruft das Gericht hervor,
+und das Gericht geht,
+wenn es mit Gerechtigkeit vollzogen wird,
+in Weisheit über\.
+Darum wird der Vater alle menschliche und engelhafte Weisheit an Weisheit übertreffen,
+weil er Herr ist,
+Richter,
+der Gerechte und Herrscher über alles\.
+Denn er ist gut,
+barmherzig und geduldig und rettet,
+wen er retten soll;
+auch verlässt ihn die Güte nicht,
+wenn er Gerechtigkeit übt,
+noch wird seine Weisheit gemindert\.
+Denn er rettet die,
+die er retten soll,
+und richtet die,
+die des Gerichts würdig sind\.
+Ebenso zeigt er sich nicht erbarmungslos gerecht;
+denn seine Güte geht ohne Zweifel voraus und hat den Vorrang\.
 
-Marcion selbst hebt also, indem er Gott in zwei teilt und behauptet, der eine sei gut, der andere richtend, tatsächlich auf beiden Seiten die Gottheit auf\. Denn der richtende Gott ist, wenn er nicht gut ist, nicht Gott, weil der, dem Güte fehlt, überhaupt kein Gott ist; und umgekehrt erleidet der gute Gott, wenn er keine richtende Macht besitzt, denselben Verlust wie jener, da ihm der Charakter der Gottheit genommen wird\. Und wie können sie den Vater aller weise nennen, wenn sie ihm keine Fähigkeit zu richten zusprechen? Denn wenn er weise ist, prüft er auch andere; die richtende Macht aber gehört dem, der prüft, und auf die Fähigkeit zu richten folgt die Gerechtigkeit, damit sie zu einem gerechten Schluss gelangt\. Die Gerechtigkeit ruft das Gericht hervor, und das Gericht geht, wenn es mit Gerechtigkeit vollzogen wird, in Weisheit über\. Darum wird der Vater alle menschliche und engelhafte Weisheit an Weisheit übertreffen, weil er Herr ist, Richter, der Gerechte und Herrscher über alles\. Denn er ist gut, barmherzig und geduldig und rettet, wen er retten soll; auch verlässt ihn die Güte nicht, wenn er Gerechtigkeit übt, noch wird seine Weisheit gemindert\. Denn er rettet die, die er retten soll, und richtet die, die des Gerichts würdig sind\. Ebenso zeigt er sich nicht erbarmungslos gerecht; denn seine Güte geht ohne Zweifel voraus und hat den Vorrang\.
+Der Gott also,
+der in seiner Güte seine Sonne über allen aufgehen lässt und Regen über Gerechte und Ungerechte sendet[^bible-c2099242-60b7-4699-9179-f6d162d8f24b],
+wird diejenigen richten,
+die seine allen gleichermaßen gewährte Güte genossen haben,
+deren Leben aber der Würde seiner Freigebigkeit nicht entsprochen hat;
+vielmehr haben sie ihre Tage in Ausschweifung und Luxus verbracht,
+seiner Güte entgegengelebt und zudem sogar den gelästert,
+der ihnen so große Wohltaten erwiesen hat\.
 
-Der Gott also, der in seiner Güte seine Sonne über allen aufgehen lässt und Regen über Gerechte und Ungerechte sendet[^bible-c2099242-60b7-4699-9179-f6d162d8f24b], wird diejenigen richten, die seine allen gleichermaßen gewährte Güte genossen haben, deren Leben aber der Würde seiner Freigebigkeit nicht entsprochen hat; vielmehr haben sie ihre Tage in Ausschweifung und Luxus verbracht, seiner Güte entgegengelebt und zudem sogar den gelästert, der ihnen so große Wohltaten erwiesen hat\.
+Platon erweist sich als religiöser als diese Männer;
+denn er ließ gelten,
+dass derselbe Gott gerecht und gut ist,
+Macht über alles hat und selbst das Gericht vollzieht\.
+Er drückt sich so aus:
+„Und Gott tut,
+da er ja auch der alte Logos ist und Anfang,
+Ende und Mitte alles Seienden besitzt,
+alles recht,
+indem er die Dinge ihrer Natur gemäß umwaltet;
+die vergeltende Gerechtigkeit aber folgt ihm stets gegen die,
+die vom göttlichen Gesetz abweichen\.“
+Dann zeigt er wiederum,
+dass der Schöpfer und Bildner des Alls gut ist\.
+„Bei dem Guten“,
+sagt er,
+„entsteht niemals Neid in irgendeiner Hinsicht\.“
+Damit begründet er Gottes Güte als Anfang und Ursache der Erschaffung der Welt,
+nicht Unwissenheit,
+nicht einen irrenden Äon,
+nicht die Folge eines Mangels,
+nicht die weinende und klagende Mutter und auch keinen anderen Gott oder Vater\.
 
-Platon erweist sich als religiöser als diese Männer; denn er ließ gelten, dass derselbe Gott gerecht und gut ist, Macht über alles hat und selbst das Gericht vollzieht\. Er drückt sich so aus: „Und Gott tut, da er ja auch der alte Logos ist und Anfang, Ende und Mitte alles Seienden besitzt, alles recht, indem er die Dinge ihrer Natur gemäß umwaltet; die vergeltende Gerechtigkeit aber folgt ihm stets gegen die, die vom göttlichen Gesetz abweichen\.“ Dann zeigt er wiederum, dass der Schöpfer und Bildner des Alls gut ist\. „Bei dem Guten“, sagt er, „entsteht niemals Neid in irgendeiner Hinsicht\.“ Damit begründet er Gottes Güte als Anfang und Ursache der Erschaffung der Welt, nicht Unwissenheit, nicht einen irrenden Äon, nicht die Folge eines Mangels, nicht die weinende und klagende Mutter und auch keinen anderen Gott oder Vater\.
+Ihre Mutter mag sie mit gutem Grund beklagen,
+Menschen,
+die fähig sind,
+solche Dinge zu ersinnen und zu erfinden;
+denn mit Recht haben sie diese Lüge gegen sich selbst ausgesprochen:
+dass ihre Mutter jenseits des Pleromas sei,
+also jenseits der Erkenntnis Gottes,
+und dass ihre ganze Menge zu einer gestaltlosen,
+unreifen Fehlgeburt geworden sei\.
+Diese erfasst nichts von der Wahrheit;
+sie stürzt ins Leere und in die Finsternis\.
+Denn ihre Weisheit,
+Sophia,
+war leer und in Finsternis gehüllt,
+und Horos ließ sie nicht in das Pleroma eintreten;
+denn der Geist,
+Achamoth,
+nahm sie nicht an den Ort der Erquickung auf\.
+Denn ihr Vater hat,
+indem er Unwissenheit zeugte,
+in ihnen die Leiden des Todes gewirkt\.
+Wir stellen ihre Ansichten in diesen Punkten nicht falsch dar;
+vielmehr sie selbst bestätigen sie,
+sie selbst lehren sie,
+sie selbst rühmen sich ihrer\.
+Sie bilden sich über ihre Mutter etwas Erhabenes ein,
+die sie so darstellen,
+als sei sie ohne Vater gezeugt worden,
+das heißt ohne Gott:
+Weibliches aus Weiblichem,
+das heißt Verderben aus Irrtum\.
 
-Ihre Mutter mag sie mit gutem Grund beklagen, Menschen, die fähig sind, solche Dinge zu ersinnen und zu erfinden; denn mit Recht haben sie diese Lüge gegen sich selbst ausgesprochen: dass ihre Mutter jenseits des Pleromas sei, also jenseits der Erkenntnis Gottes, und dass ihre ganze Menge zu einer gestaltlosen, unreifen Fehlgeburt geworden sei\. Diese erfasst nichts von der Wahrheit; sie stürzt ins Leere und in die Finsternis\. Denn ihre Weisheit, Sophia, war leer und in Finsternis gehüllt, und Horos ließ sie nicht in das Pleroma eintreten; denn der Geist, Achamoth, nahm sie nicht an den Ort der Erquickung auf\. Denn ihr Vater hat, indem er Unwissenheit zeugte, in ihnen die Leiden des Todes gewirkt\. Wir stellen ihre Ansichten in diesen Punkten nicht falsch dar; vielmehr sie selbst bestätigen sie, sie selbst lehren sie, sie selbst rühmen sich ihrer\. Sie bilden sich über ihre Mutter etwas Erhabenes ein, die sie so darstellen, als sei sie ohne Vater gezeugt worden, das heißt ohne Gott: Weibliches aus Weiblichem, das heißt Verderben aus Irrtum\.
-
-Wir beten wahrhaftig darum, dass diese Männer nicht in der Grube bleiben, die sie sich selbst gegraben haben[^bible-1a307730-860b-4efe-9408-51e7f320b49a], sondern sich von einer solchen Mutter trennen, von Bythus fortgehen, Abstand vom Leeren nehmen und den Schatten aufgeben; dass sie sich zur Kirche Gottes bekehren, rechtmäßig gezeugt werden, Christus in ihnen Gestalt gewinnt[^bible-71edeacd-b790-4a0a-9beb-f032b8a30f3a] und sie den Bildner und Schöpfer dieses Alls erkennen, den einzig wahren Gott und Herrn aller\. Darum beten wir für sie, weil wir sie mehr lieben, als sie offenbar sich selbst lieben\. Denn unsere Liebe ist, gerade weil sie wahr ist, heilsam für sie, wenn sie sie nur annehmen wollen\. Sie lässt sich mit einem scharfen Heilmittel vergleichen, das aus einer Wunde das aufgetriebene und absterbende Fleisch herausschneidet; denn sie macht ihrem Stolz und Hochmut ein Ende\. Darum werden wir nicht müde werden, mit aller Kraft zu versuchen, ihnen die Hand auszustrecken\. Über das bereits Gesagte hinaus habe ich es dem folgenden Buch vorbehalten, die Worte des Herrn anzuführen, falls es mir gelingt, durch die ausdrückliche Unterweisung Christi einige von ihnen zu überzeugen und sie dahin zu bringen, einen solchen Irrtum aufzugeben und aufzuhören, ihren Schöpfer zu lästern, der sowohl der alleinige Gott als auch der Vater unseres Herrn Jesus Christus ist\. Amen\.
+Wir beten wahrhaftig darum,
+dass diese Männer nicht in der Grube bleiben,
+die sie sich selbst gegraben haben[^bible-1a307730-860b-4efe-9408-51e7f320b49a],
+sondern sich von einer solchen Mutter trennen,
+von Bythus fortgehen,
+Abstand vom Leeren nehmen und den Schatten aufgeben;
+dass sie sich zur Kirche Gottes bekehren,
+rechtmäßig gezeugt werden,
+Christus in ihnen Gestalt gewinnt[^bible-71edeacd-b790-4a0a-9beb-f032b8a30f3a] und sie den Bildner und Schöpfer dieses Alls erkennen,
+den einzig wahren Gott und Herrn aller\.
+Darum beten wir für sie,
+weil wir sie mehr lieben,
+als sie offenbar sich selbst lieben\.
+Denn unsere Liebe ist,
+gerade weil sie wahr ist,
+heilsam für sie,
+wenn sie sie nur annehmen wollen\.
+Sie lässt sich mit einem scharfen Heilmittel vergleichen,
+das aus einer Wunde das aufgetriebene und absterbende Fleisch herausschneidet;
+denn sie macht ihrem Stolz und Hochmut ein Ende\.
+Darum werden wir nicht müde werden,
+mit aller Kraft zu versuchen,
+ihnen die Hand auszustrecken\.
+Über das bereits Gesagte hinaus habe ich es dem folgenden Buch vorbehalten,
+die Worte des Herrn anzuführen,
+falls es mir gelingt,
+durch die ausdrückliche Unterweisung Christi einige von ihnen zu überzeugen und sie dahin zu bringen,
+einen solchen Irrtum aufzugeben und aufzuhören,
+ihren Schöpfer zu lästern,
+der sowohl der alleinige Gott als auch der Vater unseres Herrn Jesus Christus ist\.
+Amen\.
 
 ## Bibelverweise
 

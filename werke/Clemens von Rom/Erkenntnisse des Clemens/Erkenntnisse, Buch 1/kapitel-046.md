@@ -7,6 +7,26 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-1#kapitel-54fd37d9-e622-4006-9ff1-08de579aa9c5).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:805d67214b65cd28371ba698ce89fe7138513c4ee89779377642f128df679d67`
-
-Aber auch jetzt werde ich dir das alles in einer ganz kurzen Übersicht wieder ins Gedächtnis rufen\. Im gegenwärtigen Leben war Aaron der erste Hohepriester, gesalbt mit der Mischung des Chrisams, das als Abbild jener geistlichen Salbe gemacht wurde, von der wir oben sprachen; er war der Fürst des Volkes, und wie ein König nahm er vom Volk Erstlingsgaben und Kopfsteuer entgegen, und nachdem er das Los übernommen hatte, das Volk zu richten, urteilte er über Reines und Unreines\. Doch auch wenn irgendein anderer mit eben dieser Salbe gesalbt wurde, wurde er sofort selbst König oder Prophet oder Hohepriester, als hätte er daraus Kraft empfangen\! Wenn aber schon diese zeitliche Gnade, die von Menschen zusammengemischt wurde, so gewaltig war: Dann begreif doch endlich, was für eine Wucht jene Salbe hat, die von Gott aus dem Zweig des Lebens hervorgebracht wurde, wo doch schon das Menschengemachte so herausragende Würden unter den Menschen verleiht\! Denn was gibt es in der gegenwärtigen Weltzeit Glorreicheres als einen Propheten, Strahlenderes als einen Hohepriester, Erhabeneres als einen König?“
+Aber auch jetzt werde ich dir das alles in einer ganz kurzen Übersicht wieder ins Gedächtnis rufen\.
+Im gegenwärtigen Leben war Aaron der erste Hohepriester,
+gesalbt mit der Mischung des Chrisams,
+das als Abbild jener geistlichen Salbe gemacht wurde,
+von der wir oben sprachen;
+er war der Fürst des Volkes,
+und wie ein König nahm er vom Volk Erstlingsgaben und Kopfsteuer entgegen,
+und nachdem er das Los übernommen hatte,
+das Volk zu richten,
+urteilte er über Reines und Unreines\.
+Doch auch wenn irgendein anderer mit eben dieser Salbe gesalbt wurde,
+wurde er sofort selbst König oder Prophet oder Hohepriester,
+als hätte er daraus Kraft empfangen\!
+Wenn aber schon diese zeitliche Gnade,
+die von Menschen zusammengemischt wurde,
+so gewaltig war:
+Dann begreif doch endlich,
+was für eine Wucht jene Salbe hat,
+die von Gott aus dem Zweig des Lebens hervorgebracht wurde,
+wo doch schon das Menschengemachte so herausragende Würden unter den Menschen verleiht\!
+Denn was gibt es in der gegenwärtigen Weltzeit Glorreicheres als einen Propheten,
+Strahlenderes als einen Hohepriester,
+Erhabeneres als einen König?“

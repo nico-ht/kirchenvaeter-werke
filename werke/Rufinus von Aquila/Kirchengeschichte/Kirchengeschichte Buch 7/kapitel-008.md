@@ -7,6 +7,54 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-7#kapitel-29cdd354-986f-4e83-8257-08de214e7d1f).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:489d1bc5883483006ed97cc08611b2d5f809541e099d6b462f7698634f1d4a30`
-
-Im fünften Buch, geschrieben an Xystus, Bischof von Rom, erwähnt er im Rahmen seiner Kritik an der genannten Häresie folgenden Vorfall\. Seine Worte: „Ich brauche wirklich deinen Rat, Bruder, und bitte um dein Urteil zu einer Angelegenheit, die in unserer Kirche aufgetreten ist\. Denn ich fürchte, ich könnte mich hier irren\. Es war unter uns ein Bruder, dessen Treue seit langem bewährt war, schon bevor ich zum Bischof ordiniert wurde, ja noch bevor mein Vorgänger Heraclas ordiniert wurde\. Er war bei denen, die getauft wurden; als er hörte, was man sie fragte und wie sie antworteten, kam er unter Tränen zu mir, fiel mir zu Füßen und begann zu bekennen, dass er von Häretikern eine Taufe empfangen habe, anders als sie jetzt bei uns gespendet wird, und er halte das nicht für Taufe, weil jenes ganze Bekenntnis voller Lästerungen war\. Zugleich fügte er hinzu, er sei von diesem Irrtum so gestochen, dass er nicht einmal wage, seine Augen zu Gott zu erheben\. Er bat daher, durch die Taufe der Kirche gereinigt und gesäubert zu werden, damit er auch die Gnade des Heiligen Geistes erlange\. Das zu tun habe ich nicht gewagt; vielmehr sagte ich, die Gemeinschaft, die er so lange Zeit in der Kirche genossen habe, werde ihm genügen, da er, wenn er von uns die Gabe der Eucharistie empfängt, mit ‚Amen‘ antwortet und so durch die Kraft der Mysterien von Mal zu Mal gereinigt worden sei\. Daher ermahnte ich ihn, seinem Glauben und seinem inzwischen gereinigten Gewissen zu vertrauen und vor allem darauf, dass er bereits so lange mit uns Anteil an den Mysterien hat\. Doch er lässt nicht ab von seiner Trauer und seinen Tränen, und er wagt es nicht mehr, an den Tisch des Herrn heranzutreten, sodass er selbst, wenn wir ihn ermutigen und drängen, kaum noch wagt, dem Gebet beizuwohnen\.“ Dionysius schrieb dies und vieles andere zu solchen Streitfragen in seinen verschiedenen Büchern\.
+Im fünften Buch,
+geschrieben an Xystus,
+Bischof von Rom,
+erwähnt er im Rahmen seiner Kritik an der genannten Häresie folgenden Vorfall\.
+Seine Worte:
+„Ich brauche wirklich deinen Rat,
+Bruder,
+und bitte um dein Urteil zu einer Angelegenheit,
+die in unserer Kirche aufgetreten ist\.
+Denn ich fürchte,
+ich könnte mich hier irren\.
+Es war unter uns ein Bruder,
+dessen Treue seit langem bewährt war,
+schon bevor ich zum Bischof ordiniert wurde,
+ja noch bevor mein Vorgänger Heraclas ordiniert wurde\.
+Er war bei denen,
+die getauft wurden;
+als er hörte,
+was man sie fragte und wie sie antworteten,
+kam er unter Tränen zu mir,
+fiel mir zu Füßen und begann zu bekennen,
+dass er von Häretikern eine Taufe empfangen habe,
+anders als sie jetzt bei uns gespendet wird,
+und er halte das nicht für Taufe,
+weil jenes ganze Bekenntnis voller Lästerungen war\.
+Zugleich fügte er hinzu,
+er sei von diesem Irrtum so gestochen,
+dass er nicht einmal wage,
+seine Augen zu Gott zu erheben\.
+Er bat daher,
+durch die Taufe der Kirche gereinigt und gesäubert zu werden,
+damit er auch die Gnade des Heiligen Geistes erlange\.
+Das zu tun habe ich nicht gewagt;
+vielmehr sagte ich,
+die Gemeinschaft,
+die er so lange Zeit in der Kirche genossen habe,
+werde ihm genügen,
+da er,
+wenn er von uns die Gabe der Eucharistie empfängt,
+mit ‚Amen‘ antwortet und so durch die Kraft der Mysterien von Mal zu Mal gereinigt worden sei\.
+Daher ermahnte ich ihn,
+seinem Glauben und seinem inzwischen gereinigten Gewissen zu vertrauen und vor allem darauf,
+dass er bereits so lange mit uns Anteil an den Mysterien hat\.
+Doch er lässt nicht ab von seiner Trauer und seinen Tränen,
+und er wagt es nicht mehr,
+an den Tisch des Herrn heranzutreten,
+sodass er selbst,
+wenn wir ihn ermutigen und drängen,
+kaum noch wagt,
+dem Gebet beizuwohnen\.“
+Dionysius schrieb dies und vieles andere zu solchen Streitfragen in seinen verschiedenen Büchern\.

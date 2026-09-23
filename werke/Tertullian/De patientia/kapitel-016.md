@@ -7,6 +7,40 @@ Autor: Tertullian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/tertullian-de-patientia#kapitel-c2ea4d2f-9862-4dc8-fbcb-08df14d31bf7).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:cf20a08543b1d54a11a3160c112a9f1f513d7e6133ef44f76b34032e73e5386e`
-
-Das ist die Regel, das die Disziplin, das sind die Werke der himmlischen und wahren Geduld, also der christlichen Geduld\. Sie ist nicht falsch und schändlich wie die Geduld der Völker dieser Erde\. Denn um auch hierin mit dem Herrn zu wetteifern, hat der Teufel auch seine Schüler eine eigene, gewissermaßen völlig ebenbürtige Geduld gelehrt\. So groß beide sind, so groß ist freilich auch der Gegensatz zwischen Bösem und Gutem\. Ich meine jene Geduld, die Ehemänner um der Mitgift willen käuflich macht, sie lehrt, mit Kuppelei Geschäfte zu machen, und sie dadurch der Macht ihrer Frauen unterwirft; die mit geheuchelter Zuneigung alle Mühen erzwungener Gefälligkeit auf sich nimmt, um Kinderlose zu umgarnen; die die Sklaven des Bauches dazu bringt, sich von ihren Gönnern demütigen zu lassen und dabei ihre Freiheit ihrem Schlund zu unterwerfen\. Solche Übungen in Geduld kennen die Heiden\. Eifrig bemächtigen sie sich eines Namens, der so viel Gutes bezeichnet, um ihn auf schändliche Praktiken anzuwenden: Geduldig ertragen sie Nebenbuhler, Reiche und alle, die sie einladen; nur Gott gegenüber sind sie ungeduldig\. Doch mag ihre Geduld samt der ihres Anführers zusehen, wo sie bleibt: eine Geduld, auf die das unterirdische Feuer wartet\! Wir dagegen wollen die Geduld Gottes, die Geduld Christi lieben\. Zahlen wir ihm die Geduld zurück, mit der er für uns bezahlt hat\! Bringen wir ihm die Geduld des Geistes und die Geduld des Fleisches dar, da wir an die Auferstehung des Fleisches und des Geistes glauben\.
+Das ist die Regel,
+das die Disziplin,
+das sind die Werke der himmlischen und wahren Geduld,
+also der christlichen Geduld\.
+Sie ist nicht falsch und schändlich wie die Geduld der Völker dieser Erde\.
+Denn um auch hierin mit dem Herrn zu wetteifern,
+hat der Teufel auch seine Schüler eine eigene,
+gewissermaßen völlig ebenbürtige Geduld gelehrt\.
+So groß beide sind,
+so groß ist freilich auch der Gegensatz zwischen Bösem und Gutem\.
+Ich meine jene Geduld,
+die Ehemänner um der Mitgift willen käuflich macht,
+sie lehrt,
+mit Kuppelei Geschäfte zu machen,
+und sie dadurch der Macht ihrer Frauen unterwirft;
+die mit geheuchelter Zuneigung alle Mühen erzwungener Gefälligkeit auf sich nimmt,
+um Kinderlose zu umgarnen;
+die die Sklaven des Bauches dazu bringt,
+sich von ihren Gönnern demütigen zu lassen und dabei ihre Freiheit ihrem Schlund zu unterwerfen\.
+Solche Übungen in Geduld kennen die Heiden\.
+Eifrig bemächtigen sie sich eines Namens,
+der so viel Gutes bezeichnet,
+um ihn auf schändliche Praktiken anzuwenden:
+Geduldig ertragen sie Nebenbuhler,
+Reiche und alle,
+die sie einladen;
+nur Gott gegenüber sind sie ungeduldig\.
+Doch mag ihre Geduld samt der ihres Anführers zusehen,
+wo sie bleibt:
+eine Geduld,
+auf die das unterirdische Feuer wartet\!
+Wir dagegen wollen die Geduld Gottes,
+die Geduld Christi lieben\.
+Zahlen wir ihm die Geduld zurück,
+mit der er für uns bezahlt hat\!
+Bringen wir ihm die Geduld des Geistes und die Geduld des Fleisches dar,
+da wir an die Auferstehung des Fleisches und des Geistes glauben\.

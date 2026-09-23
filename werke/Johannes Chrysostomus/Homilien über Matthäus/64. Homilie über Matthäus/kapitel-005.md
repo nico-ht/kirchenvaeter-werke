@@ -7,9 +7,180 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/64-homilie-ueber-matthaeus#kapitel-ec7eb39f-b079-4867-5b68-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:dc933407a07cc7710135535c0f93314e2dd028f079d226ed2d747395c3e685aa`
-
-Verachten wir also nicht die Sorgfalt, die unser Leben verlangt\. Denn wenn schon ein einziger vernachlässigter Teil davon ein so großes Verderben bringt: Wie sollen wir der Strafe entkommen, wenn wir von allen Seiten dem verurteilenden Urteilsspruch verfallen sind? Welche Strafe werden wir dann nicht zahlen müssen? Und welche Hoffnung auf Rettung bleibt uns, sagt man, wenn jedes einzelne der aufgezählten Dinge uns mit der Gehenna bedroht? Auch ich sage das\. Doch wenn wir auf uns achten, können wir gerettet werden: wenn wir die Heilmittel der Wohltätigkeit bereiten und die Wunden heilen\. Denn Öl stärkt den Körper nicht so sehr, wie Menschenliebe die Seele stärkt, sie gegen alle unbezwingbar macht und für den Teufel unangreifbar\. Wo immer er nämlich zugreift, gleitet er von da an ab, weil dieses Öl nicht zulässt, dass sein Zugriff an unserem Rücken Halt findet\. Mit diesem Öl also wollen wir uns unablässig salben\. Denn es ist Grundlage der Gesundheit, Spender des Lichts und Anlass zur Freude\. Aber dieser und jener, sagt man, besitzt so und so viele Talente Gold und gibt nichts her\. Und was geht dich das an? Gerade so wirst du umso bewundernswerter erscheinen, wenn du aus Armut heraus freigebiger bist als er\. So bewunderte auch Paulus die Makedonier: nicht weil sie gaben, sondern weil sie gaben, obwohl sie arm waren\. Blick also nicht auf solche Leute, sondern auf den gemeinsamen Lehrer aller, der keinen Ort hatte, wo er sein Haupt hinlegen konnte\. Und warum, sagt man, tut dieser und jener das nicht? Richte nicht über einen anderen, sondern befreie dich selbst von der Anklage\. Denn die Strafe wird größer, wenn du anderen Vorwürfe machst und selbst nicht handelst; wenn du andere richtest und doch selbst wiederum demselben Urteil verfallen bist\. Denn wenn es nicht einmal denen erlaubt ist, andere zu richten, die recht handeln, um wie viel weniger denen, die straucheln\. Richten wir also nicht über andere und blicken wir nicht auf andere, die träge sind, sondern auf Jesus; bei ihm sollen wir unsere Vorbilder nehmen\. Habe etwa ich dir Gutes getan? Habe etwa ich dich erlöst, damit du auf mich blickst? Ein anderer ist es, der dir das geschenkt hat\. Warum lässt du den Herrn beiseite und schaust auf den Mitsklaven? Hast du ihn nicht sagen hören: „Lernt von mir, denn ich bin sanftmütig und von Herzen demütig[^bible-1b3005ba-95eb-4228-b2e1-6bf5e137ece6]“? Und wieder: „Wer unter euch der Erste sein will, soll aller Diener sein[^bible-32e43c86-7fbf-4b2b-9cf7-7f88fa15d4f6]“? Und wieder: „Wie der Sohn des Menschen nicht gekommen ist, um sich dienen zu lassen, sondern um zu dienen[^bible-47d976a6-d57a-4138-a564-097953adec93]“? Und danach sagt er wieder, um dich von ihnen wegzuziehen, damit du nicht an der Trägheit deiner Mitsklaven Anstoß nimmst und in Nachlässigkeit verharrst: „Ich habe euch mich selbst als Beispiel gegeben, damit auch ihr tut, wie ich getan habe[^bible-eb67f8e3-b6c8-4931-837b-02dbeaaa3d23]\.“ Aber unter den Menschen, mit denen du zusammen bist, gibt es für dich keinen Lehrer der Tugend und keinen, der dich dazu führen könnte? Dann ist der Lobpreis umso größer, die Anerkennung umso höher, weil du bewundernswert geworden bist, obwohl dir nicht einmal Lehrer zur Verfügung standen\. Denn das ist möglich, und zwar sehr leicht, wenn wir nur wollen\. Das zeigen die Ersten, die dies vollbracht haben: Noah, Abraham, Melchisedek, Hiob und alle Menschen jener Zeit\. Auf sie muss man jeden Tag schauen, nicht aber auf jene, denen ihr ohne Unterlass nacheifert und die ihr in euren Zusammenkünften ständig im Mund führt\. Denn ich höre überall nichts anderes von euch als immer diese Worte: Dieser und jener hat so und so viele Plethren Land erworben; dieser und jener ist reich, baut Häuser\. Was gaffst du nach außen, Mensch? Warum schaust du auf andere? Wenn du auf andere schauen willst, dann schau auf die, die recht handeln, die sich bewähren, die das Gesetz genau erfüllen, nicht auf die, die gestrauchelt sind und entehrt dastehen\. Denn wenn du auf diese schaust, wirst du dir daraus viele Übel einhandeln: Du gerätst in Trägheit, in Übermut, ins Verurteilen anderer\. Wenn du aber die zählst, die recht handeln, wirst du dich zur Demut führen, zum Eifer, zur Zerknirschung und zu unzähligen Gütern\. Hör, was dem Pharisäer widerfuhr, weil er die beiseiteließ, die recht handelten, und auf den schaute, der gefallen war\. Hör es und fürchte dich\. Sieh, wie bewundernswert David wurde, weil er auf seine Vorfahren blickte, die in der Tugend standen\. Denn er sagt: „Ein Fremdling bin ich und ein Beisasse, wie alle meine Väter[^bible-dfac55d0-6f47-490f-8ae7-190b05b3a8a3]\.“ Denn auch er und alle, die wie er waren, ließen die beiseite, die gesündigt hatten, und dachten an die, die sich bewährt hatten\. Das tu auch du\. Denn du sitzt nicht selbst als Richter über das, was andere verfehlt haben, und bist auch nicht Prüfer der Sünden anderer\. Über dich selbst zu richten ist dir aufgetragen, nicht über andere\. Denn wenn wir uns selbst richteten, sagt er, würden wir nicht gerichtet; wenn wir aber gerichtet werden, werden wir vom Herrn erzogen\. Du aber hast die Ordnung umgestürzt: Von dir selbst verlangst du weder für große noch für kleine Verfehlungen Rechenschaft, die Dinge anderer aber untersuchst du mit peinlicher Genauigkeit\. Doch tun wir das nicht länger\. Lassen wir diese Unordnung zurück und errichten wir in uns selbst ein Gericht über die Sünden, die in uns selbst geschehen, indem wir selbst Ankläger, Richter und Vollstrecker unserer Verfehlungen werden\. Wenn du aber auch die Dinge anderer untersuchen willst, dann befasse dich mit ihren guten Taten, nicht mit ihren Sünden\. So sollen wir durch die Erinnerung an unsere eigenen Verfehlungen und durch den Eifer für das, was andere recht vollbringen, und durch das Stehen vor jenem Gericht, dem niemand ausweicht, Tag für Tag gleichsam mit einem Stachel vom Gewissen gestochen, uns selbst zur Demut und zu größerem Eifer führen, damit wir die künftigen Güter erlangen, durch die Gnade und Menschenliebe unseres Herrn Jesus Christus, mit dem dem Vater zusammen mit dem Heiligen Geist Herrlichkeit, Macht und Ehre sei, jetzt und immerdar und in die Ewigkeiten der Ewigkeiten\. Amen\.
+Verachten wir also nicht die Sorgfalt,
+die unser Leben verlangt\.
+Denn wenn schon ein einziger vernachlässigter Teil davon ein so großes Verderben bringt:
+Wie sollen wir der Strafe entkommen,
+wenn wir von allen Seiten dem verurteilenden Urteilsspruch verfallen sind?
+Welche Strafe werden wir dann nicht zahlen müssen?
+Und welche Hoffnung auf Rettung bleibt uns,
+sagt man,
+wenn jedes einzelne der aufgezählten Dinge uns mit der Gehenna bedroht?
+Auch ich sage das\.
+Doch wenn wir auf uns achten,
+können wir gerettet werden:
+wenn wir die Heilmittel der Wohltätigkeit bereiten und die Wunden heilen\.
+Denn Öl stärkt den Körper nicht so sehr,
+wie Menschenliebe die Seele stärkt,
+sie gegen alle unbezwingbar macht und für den Teufel unangreifbar\.
+Wo immer er nämlich zugreift,
+gleitet er von da an ab,
+weil dieses Öl nicht zulässt,
+dass sein Zugriff an unserem Rücken Halt findet\.
+Mit diesem Öl also wollen wir uns unablässig salben\.
+Denn es ist Grundlage der Gesundheit,
+Spender des Lichts und Anlass zur Freude\.
+Aber dieser und jener,
+sagt man,
+besitzt so und so viele Talente Gold und gibt nichts her\.
+Und was geht dich das an?
+Gerade so wirst du umso bewundernswerter erscheinen,
+wenn du aus Armut heraus freigebiger bist als er\.
+So bewunderte auch Paulus die Makedonier:
+nicht weil sie gaben,
+sondern weil sie gaben,
+obwohl sie arm waren\.
+Blick also nicht auf solche Leute,
+sondern auf den gemeinsamen Lehrer aller,
+der keinen Ort hatte,
+wo er sein Haupt hinlegen konnte\.
+Und warum,
+sagt man,
+tut dieser und jener das nicht?
+Richte nicht über einen anderen,
+sondern befreie dich selbst von der Anklage\.
+Denn die Strafe wird größer,
+wenn du anderen Vorwürfe machst und selbst nicht handelst;
+wenn du andere richtest und doch selbst wiederum demselben Urteil verfallen bist\.
+Denn wenn es nicht einmal denen erlaubt ist,
+andere zu richten,
+die recht handeln,
+um wie viel weniger denen,
+die straucheln\.
+Richten wir also nicht über andere und blicken wir nicht auf andere,
+die träge sind,
+sondern auf Jesus;
+bei ihm sollen wir unsere Vorbilder nehmen\.
+Habe etwa ich dir Gutes getan?
+Habe etwa ich dich erlöst,
+damit du auf mich blickst?
+Ein anderer ist es,
+der dir das geschenkt hat\.
+Warum lässt du den Herrn beiseite und schaust auf den Mitsklaven?
+Hast du ihn nicht sagen hören:
+„Lernt von mir,
+denn ich bin sanftmütig und von Herzen demütig[^bible-1b3005ba-95eb-4228-b2e1-6bf5e137ece6]“?
+Und wieder:
+„Wer unter euch der Erste sein will,
+soll aller Diener sein[^bible-32e43c86-7fbf-4b2b-9cf7-7f88fa15d4f6]“?
+Und wieder:
+„Wie der Sohn des Menschen nicht gekommen ist,
+um sich dienen zu lassen,
+sondern um zu dienen[^bible-47d976a6-d57a-4138-a564-097953adec93]“?
+Und danach sagt er wieder,
+um dich von ihnen wegzuziehen,
+damit du nicht an der Trägheit deiner Mitsklaven Anstoß nimmst und in Nachlässigkeit verharrst:
+„Ich habe euch mich selbst als Beispiel gegeben,
+damit auch ihr tut,
+wie ich getan habe[^bible-eb67f8e3-b6c8-4931-837b-02dbeaaa3d23]\.“
+Aber unter den Menschen,
+mit denen du zusammen bist,
+gibt es für dich keinen Lehrer der Tugend und keinen,
+der dich dazu führen könnte?
+Dann ist der Lobpreis umso größer,
+die Anerkennung umso höher,
+weil du bewundernswert geworden bist,
+obwohl dir nicht einmal Lehrer zur Verfügung standen\.
+Denn das ist möglich,
+und zwar sehr leicht,
+wenn wir nur wollen\.
+Das zeigen die Ersten,
+die dies vollbracht haben:
+Noah,
+Abraham,
+Melchisedek,
+Hiob und alle Menschen jener Zeit\.
+Auf sie muss man jeden Tag schauen,
+nicht aber auf jene,
+denen ihr ohne Unterlass nacheifert und die ihr in euren Zusammenkünften ständig im Mund führt\.
+Denn ich höre überall nichts anderes von euch als immer diese Worte:
+Dieser und jener hat so und so viele Plethren Land erworben;
+dieser und jener ist reich,
+baut Häuser\.
+Was gaffst du nach außen,
+Mensch?
+Warum schaust du auf andere?
+Wenn du auf andere schauen willst,
+dann schau auf die,
+die recht handeln,
+die sich bewähren,
+die das Gesetz genau erfüllen,
+nicht auf die,
+die gestrauchelt sind und entehrt dastehen\.
+Denn wenn du auf diese schaust,
+wirst du dir daraus viele Übel einhandeln:
+Du gerätst in Trägheit,
+in Übermut,
+ins Verurteilen anderer\.
+Wenn du aber die zählst,
+die recht handeln,
+wirst du dich zur Demut führen,
+zum Eifer,
+zur Zerknirschung und zu unzähligen Gütern\.
+Hör,
+was dem Pharisäer widerfuhr,
+weil er die beiseiteließ,
+die recht handelten,
+und auf den schaute,
+der gefallen war\.
+Hör es und fürchte dich\.
+Sieh,
+wie bewundernswert David wurde,
+weil er auf seine Vorfahren blickte,
+die in der Tugend standen\.
+Denn er sagt:
+„Ein Fremdling bin ich und ein Beisasse,
+wie alle meine Väter[^bible-dfac55d0-6f47-490f-8ae7-190b05b3a8a3]\.“
+Denn auch er und alle,
+die wie er waren,
+ließen die beiseite,
+die gesündigt hatten,
+und dachten an die,
+die sich bewährt hatten\.
+Das tu auch du\.
+Denn du sitzt nicht selbst als Richter über das,
+was andere verfehlt haben,
+und bist auch nicht Prüfer der Sünden anderer\.
+Über dich selbst zu richten ist dir aufgetragen,
+nicht über andere\.
+Denn wenn wir uns selbst richteten,
+sagt er,
+würden wir nicht gerichtet;
+wenn wir aber gerichtet werden,
+werden wir vom Herrn erzogen\.
+Du aber hast die Ordnung umgestürzt:
+Von dir selbst verlangst du weder für große noch für kleine Verfehlungen Rechenschaft,
+die Dinge anderer aber untersuchst du mit peinlicher Genauigkeit\.
+Doch tun wir das nicht länger\.
+Lassen wir diese Unordnung zurück und errichten wir in uns selbst ein Gericht über die Sünden,
+die in uns selbst geschehen,
+indem wir selbst Ankläger,
+Richter und Vollstrecker unserer Verfehlungen werden\.
+Wenn du aber auch die Dinge anderer untersuchen willst,
+dann befasse dich mit ihren guten Taten,
+nicht mit ihren Sünden\.
+So sollen wir durch die Erinnerung an unsere eigenen Verfehlungen und durch den Eifer für das,
+was andere recht vollbringen,
+und durch das Stehen vor jenem Gericht,
+dem niemand ausweicht,
+Tag für Tag gleichsam mit einem Stachel vom Gewissen gestochen,
+uns selbst zur Demut und zu größerem Eifer führen,
+damit wir die künftigen Güter erlangen,
+durch die Gnade und Menschenliebe unseres Herrn Jesus Christus,
+mit dem dem Vater zusammen mit dem Heiligen Geist Herrlichkeit,
+Macht und Ehre sei,
+jetzt und immerdar und in die Ewigkeiten der Ewigkeiten\.
+Amen\.
 
 ## Bibelverweise
 

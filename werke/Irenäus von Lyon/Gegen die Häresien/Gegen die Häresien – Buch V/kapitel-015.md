@@ -7,15 +7,244 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-v#kapitel-e20bb1ef-1c12-45df-ce6b-08def5891738).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:866bae9d3bc5a70bdf269a143a8e153d27ad294e26a093d3d50270e61c07e015`
+Dass nun der,
+der am Anfang den Menschen geschaffen hat,
+ihm nach seiner Auflösung in die Erde eine zweite Geburt verheißen hat,
+erklärt Jesaja so:
+„Die Toten werden wieder auferstehen,
+und die in den Gräbern sind,
+werden sich erheben,
+und die in der Erde sind,
+werden sich freuen\.
+Denn der Tau,
+der von dir kommt,
+ist Heilung für sie\.[^bible-5228ba80-69a1-4440-8a60-e5b24c0b2085]“ Und wiederum:
+„Ich werde euch trösten,
+und ihr werdet in Jerusalem getröstet werden;
+und ihr werdet sehen,
+und euer Herz wird sich freuen,
+und eure Gebeine werden sprossen wie Gras;
+und die Hand des Herrn wird denen bekannt werden,
+die ihn anbeten\.[^bible-a4741c3e-6d2d-417f-8989-5c8ff7bb9192]“ Auch Hesekiel spricht so:
+„Und die Hand des Herrn kam über mich,
+und der Herr führte mich im Geist hinaus und setzte mich mitten in der Ebene nieder;
+und dieser Ort war voll von Gebeinen\.
+Und er ließ mich rings um sie herumgehen;
+und siehe,
+es lagen sehr viele auf der Fläche der Ebene,
+völlig ausgedörrt\.
+Und er sagte zu mir:
+Menschensohn,
+können diese Gebeine leben?
+Und ich sagte:
+Herr,
+du,
+der du sie gemacht hast,
+weißt es\.
+Und er sagte zu mir:
+Weissage über diese Gebeine und sprich zu ihnen:
+Ihr ausgedörrten Gebeine,
+hört das Wort des Herrn\.
+So spricht der Herr zu diesen Gebeinen:
+Siehe,
+ich lasse den Geist des Lebens über euch kommen,
+und ich werde Sehnen auf euch legen und wieder Fleisch auf euch wachsen lassen,
+und ich werde Haut über euch spannen und meinen Geist in euch legen,
+und ihr werdet leben;
+und ihr werdet erkennen,
+dass ich der Herr bin\.
+Und ich weissagte,
+wie der Herr mir geboten hatte\.
+Und es geschah,
+während ich weissagte:
+siehe,
+ein Erdbeben,
+und die Gebeine fügten sich zusammen,
+jedes zu seinem Gelenk\.
+Und ich sah hin,
+und siehe,
+Sehnen und Fleisch entstanden auf ihnen,
+und Haut zog sich ringsum über sie;
+aber es war kein Atem in ihnen\.
+Und er sagte zu mir:
+Weissage zum Atem,
+Menschensohn,
+und sprich zum Atem:
+So spricht der Herr:
+Komm von den vier Winden und hauche diese Toten an,
+damit sie leben\.
+Da weissagte ich,
+wie der Herr mir geboten hatte,
+und der Atem trat in sie ein;
+und sie lebten und stellten sich auf ihre Füße,
+eine überaus große Versammlung\.[^bible-86f8ae51-c0e2-45dc-a0a5-487896bc528c]“ Und wiederum sagt er:
+„So spricht der Herr:
+Siehe,
+ich werde eure Gräber öffnen und euch aus euren Gräbern herausführen und euch in das Land Israel bringen;
+und ihr werdet erkennen,
+dass ich der Herr bin,
+wenn ich eure Grabstätten öffne,
+um mein Volk wieder aus den Grabstätten herauszuführen\.
+Und ich werde meinen Geist in euch legen,
+und ihr werdet leben;
+und ich werde euch in euer Land setzen,
+und ihr werdet erkennen,
+dass ich der Herr bin\.
+Ich habe gesprochen,
+und ich werde es tun,
+spricht der Herr\.[^bible-81487f99-1fa0-418c-a351-b889f0639395]“ Da wir sofort erkennen,
+dass der Schöpfer an dieser Stelle so dargestellt wird,
+dass er unsere toten Leiber lebendig macht,
+ihnen Auferstehung verheißt und Wiederbelebung aus ihren Grabstätten und Gräbern,
+und ihnen auch Unsterblichkeit schenkt,
+denn er sagt:
+„Denn wie die Tage des Baumes des Lebens,
+so werden ihre Tage sein[^bible-899ac781-8e6b-4b51-9c19-2e8c2c63b47c]“,
+zeigt sich,
+dass er der einzige Gott ist,
+der dies vollbringt,
+und dass er selbst der gute Vater ist,
+der denen,
+die das Leben nicht aus sich selbst haben,
+gütig Leben schenkt\.
 
-Dass nun der, der am Anfang den Menschen geschaffen hat, ihm nach seiner Auflösung in die Erde eine zweite Geburt verheißen hat, erklärt Jesaja so: „Die Toten werden wieder auferstehen, und die in den Gräbern sind, werden sich erheben, und die in der Erde sind, werden sich freuen\. Denn der Tau, der von dir kommt, ist Heilung für sie\.[^bible-5228ba80-69a1-4440-8a60-e5b24c0b2085]“ Und wiederum: „Ich werde euch trösten, und ihr werdet in Jerusalem getröstet werden; und ihr werdet sehen, und euer Herz wird sich freuen, und eure Gebeine werden sprossen wie Gras; und die Hand des Herrn wird denen bekannt werden, die ihn anbeten\.[^bible-a4741c3e-6d2d-417f-8989-5c8ff7bb9192]“ Auch Hesekiel spricht so: „Und die Hand des Herrn kam über mich, und der Herr führte mich im Geist hinaus und setzte mich mitten in der Ebene nieder; und dieser Ort war voll von Gebeinen\. Und er ließ mich rings um sie herumgehen; und siehe, es lagen sehr viele auf der Fläche der Ebene, völlig ausgedörrt\. Und er sagte zu mir: Menschensohn, können diese Gebeine leben? Und ich sagte: Herr, du, der du sie gemacht hast, weißt es\. Und er sagte zu mir: Weissage über diese Gebeine und sprich zu ihnen: Ihr ausgedörrten Gebeine, hört das Wort des Herrn\. So spricht der Herr zu diesen Gebeinen: Siehe, ich lasse den Geist des Lebens über euch kommen, und ich werde Sehnen auf euch legen und wieder Fleisch auf euch wachsen lassen, und ich werde Haut über euch spannen und meinen Geist in euch legen, und ihr werdet leben; und ihr werdet erkennen, dass ich der Herr bin\. Und ich weissagte, wie der Herr mir geboten hatte\. Und es geschah, während ich weissagte: siehe, ein Erdbeben, und die Gebeine fügten sich zusammen, jedes zu seinem Gelenk\. Und ich sah hin, und siehe, Sehnen und Fleisch entstanden auf ihnen, und Haut zog sich ringsum über sie; aber es war kein Atem in ihnen\. Und er sagte zu mir: Weissage zum Atem, Menschensohn, und sprich zum Atem: So spricht der Herr: Komm von den vier Winden und hauche diese Toten an, damit sie leben\. Da weissagte ich, wie der Herr mir geboten hatte, und der Atem trat in sie ein; und sie lebten und stellten sich auf ihre Füße, eine überaus große Versammlung\.[^bible-86f8ae51-c0e2-45dc-a0a5-487896bc528c]“ Und wiederum sagt er: „So spricht der Herr: Siehe, ich werde eure Gräber öffnen und euch aus euren Gräbern herausführen und euch in das Land Israel bringen; und ihr werdet erkennen, dass ich der Herr bin, wenn ich eure Grabstätten öffne, um mein Volk wieder aus den Grabstätten herauszuführen\. Und ich werde meinen Geist in euch legen, und ihr werdet leben; und ich werde euch in euer Land setzen, und ihr werdet erkennen, dass ich der Herr bin\. Ich habe gesprochen, und ich werde es tun, spricht der Herr\.[^bible-81487f99-1fa0-418c-a351-b889f0639395]“ Da wir sofort erkennen, dass der Schöpfer an dieser Stelle so dargestellt wird, dass er unsere toten Leiber lebendig macht, ihnen Auferstehung verheißt und Wiederbelebung aus ihren Grabstätten und Gräbern, und ihnen auch Unsterblichkeit schenkt, denn er sagt: „Denn wie die Tage des Baumes des Lebens, so werden ihre Tage sein[^bible-899ac781-8e6b-4b51-9c19-2e8c2c63b47c]“, zeigt sich, dass er der einzige Gott ist, der dies vollbringt, und dass er selbst der gute Vater ist, der denen, die das Leben nicht aus sich selbst haben, gütig Leben schenkt\.
+Aus diesem Grund offenbarte der Herr seinen Jüngern sich selbst und den Vater ganz klar,
+damit sie ja keinen anderen Gott suchten als den,
+der den Menschen geformt und ihm den Lebenshauch gegeben hat,
+und damit die Menschen nicht in einen solchen Wahnsinn gerieten,
+dass sie über dem Schöpfer noch einen anderen Vater erdichteten\.
+So heilte er auch alle anderen,
+die wegen der Sünde in krankem Zustand waren,
+mit einem Wort\.
+Zu ihnen sagte er auch:
+„Sieh,
+du bist gesund geworden;
+sündige nicht mehr,
+damit dir nicht etwas Schlimmeres widerfährt[^bible-edd5f464-3a65-4395-b3e9-3d07fceff280]“;
+damit zeigte er,
+dass wegen der Sünde des Ungehorsams Krankheiten über die Menschen gekommen sind\.
+Dem Mann aber,
+der von Geburt an blind gewesen war,
+gab er das Augenlicht nicht durch ein Wort,
+sondern durch eine äußere Handlung\.
+Er tat dies nicht ohne Zweck und nicht,
+weil es sich zufällig so ergab,
+sondern um die Hand Gottes sichtbar zu machen,
+jene Hand,
+die am Anfang den Menschen geformt hatte\.
+Als seine Jünger ihn daher fragten,
+weshalb der Mann blind geboren worden sei,
+ob wegen seiner eigenen Schuld oder der seiner Eltern,
+antwortete er:
+„Weder dieser hat gesündigt noch seine Eltern,
+sondern die Werke Gottes sollen an ihm offenbar werden\.[^bible-69d2f5f6-b400-45ba-91c3-a5220f5b0552]“ Das Werk Gottes aber ist die Formung des Menschen\.
+Denn wie die Schrift sagt,
+schuf er den Menschen in einer Art Prozess:
+„Und der Herr nahm Lehm von der Erde und formte den Menschen\.[^bible-73564e5c-5ddf-48f6-b963-0351f0cec24d]“ Darum spuckte der Herr auch auf die Erde,
+machte Lehm und strich ihn auf die Augen\.
+Er zeigte damit die ursprüngliche Formung des Menschen,
+wie sie geschah,
+und machte denen,
+die es verstehen können,
+die Hand Gottes sichtbar,
+durch die der Mensch aus Staub geformt wurde\.
+Denn was der Werkmeister,
+das Wort,
+im Mutterleib ungeformt gelassen hatte,
+nämlich die Augen des Blinden,
+ergänzte er dann öffentlich,
+damit die Werke Gottes an ihm offenbar würden,
+damit wir nicht nach einer anderen Hand suchten,
+durch die der Mensch geformt wurde,
+und auch nicht nach einem anderen Vater\.
+Denn wir wissen:
+Diese Hand Gottes,
+die uns am Anfang geformt hat und uns im Mutterleib formt,
+hat in den letzten Zeiten uns,
+die wir verloren waren,
+gesucht,
+das Ihre zurückgewonnen,
+das verlorene Schaf auf ihre Schultern genommen und es mit Freude in die Hürde des Lebens zurückgebracht\.
 
-Aus diesem Grund offenbarte der Herr seinen Jüngern sich selbst und den Vater ganz klar, damit sie ja keinen anderen Gott suchten als den, der den Menschen geformt und ihm den Lebenshauch gegeben hat, und damit die Menschen nicht in einen solchen Wahnsinn gerieten, dass sie über dem Schöpfer noch einen anderen Vater erdichteten\. So heilte er auch alle anderen, die wegen der Sünde in krankem Zustand waren, mit einem Wort\. Zu ihnen sagte er auch: „Sieh, du bist gesund geworden; sündige nicht mehr, damit dir nicht etwas Schlimmeres widerfährt[^bible-edd5f464-3a65-4395-b3e9-3d07fceff280]“; damit zeigte er, dass wegen der Sünde des Ungehorsams Krankheiten über die Menschen gekommen sind\. Dem Mann aber, der von Geburt an blind gewesen war, gab er das Augenlicht nicht durch ein Wort, sondern durch eine äußere Handlung\. Er tat dies nicht ohne Zweck und nicht, weil es sich zufällig so ergab, sondern um die Hand Gottes sichtbar zu machen, jene Hand, die am Anfang den Menschen geformt hatte\. Als seine Jünger ihn daher fragten, weshalb der Mann blind geboren worden sei, ob wegen seiner eigenen Schuld oder der seiner Eltern, antwortete er: „Weder dieser hat gesündigt noch seine Eltern, sondern die Werke Gottes sollen an ihm offenbar werden\.[^bible-69d2f5f6-b400-45ba-91c3-a5220f5b0552]“ Das Werk Gottes aber ist die Formung des Menschen\. Denn wie die Schrift sagt, schuf er den Menschen in einer Art Prozess: „Und der Herr nahm Lehm von der Erde und formte den Menschen\.[^bible-73564e5c-5ddf-48f6-b963-0351f0cec24d]“ Darum spuckte der Herr auch auf die Erde, machte Lehm und strich ihn auf die Augen\. Er zeigte damit die ursprüngliche Formung des Menschen, wie sie geschah, und machte denen, die es verstehen können, die Hand Gottes sichtbar, durch die der Mensch aus Staub geformt wurde\. Denn was der Werkmeister, das Wort, im Mutterleib ungeformt gelassen hatte, nämlich die Augen des Blinden, ergänzte er dann öffentlich, damit die Werke Gottes an ihm offenbar würden, damit wir nicht nach einer anderen Hand suchten, durch die der Mensch geformt wurde, und auch nicht nach einem anderen Vater\. Denn wir wissen: Diese Hand Gottes, die uns am Anfang geformt hat und uns im Mutterleib formt, hat in den letzten Zeiten uns, die wir verloren waren, gesucht, das Ihre zurückgewonnen, das verlorene Schaf auf ihre Schultern genommen und es mit Freude in die Hürde des Lebens zurückgebracht\.
+Dass aber das Wort Gottes uns im Mutterleib formt,
+sagt er zu Jeremia:
+„Bevor ich dich im Mutterleib formte,
+kannte ich dich;
+und bevor du aus dem Schoß hervorgingst,
+heiligte ich dich und setzte dich zum Propheten unter den Völkern ein[^bible-52b8d150-1931-45b2-865e-317169d31015]\.“
+Auch Paulus sagt in derselben Weise:
+„Als es aber Gott gefiel,
+der mich vom Mutterleib an ausgesondert hatte,
+damit ich ihn unter den Völkern verkünde[^bible-86c7f6ea-75d3-4c8a-ab35-91db71a39918]\.“
+Wie wir also durch das Wort im Mutterleib geformt werden,
+so formte eben dieses Wort die Sehkraft in dem Mann,
+der von Geburt an blind gewesen war\.
+Damit zeigte er offen,
+wer es ist,
+der uns im Verborgenen formt,
+denn das Wort selbst war den Menschen sichtbar geworden\.
+Zugleich erklärte er die ursprüngliche Formung Adams,
+die Weise,
+in der er geschaffen wurde,
+und durch welche Hand er geformt wurde:
+Er machte am Teil das Ganze kenntlich\.
+Denn der Herr,
+der die Sehkraft formte,
+ist derselbe,
+der den ganzen Menschen gemacht hat und dabei den Willen des Vaters ausführt\.
+Und weil der Mensch in jener Formung nach Adam,
+nachdem er in Übertretung gefallen war,
+das Bad der Wiedergeburt brauchte,
+sagte der Herr zu dem,
+dem er das Augenlicht geschenkt hatte,
+nachdem er ihm die Augen mit Lehm bestrichen hatte:
+„Geh nach Siloam und wasche dich[^bible-186fc167-c87a-4f0b-a5e5-69729ea0b415]\.“
+So stellte er ihm beides wieder her:
+seine vollständige Festigung und jene Wiedergeburt,
+die durch das Bad geschieht\.
+Und deshalb kam er,
+als er sich gewaschen hatte,
+sehend zurück:
+damit er den erkenne,
+der ihn geformt hatte,
+und damit der Mensch lerne,
+den zu erkennen,
+der ihm das Leben geschenkt hat\.
 
-Dass aber das Wort Gottes uns im Mutterleib formt, sagt er zu Jeremia: „Bevor ich dich im Mutterleib formte, kannte ich dich; und bevor du aus dem Schoß hervorgingst, heiligte ich dich und setzte dich zum Propheten unter den Völkern ein[^bible-52b8d150-1931-45b2-865e-317169d31015]\.“ Auch Paulus sagt in derselben Weise: „Als es aber Gott gefiel, der mich vom Mutterleib an ausgesondert hatte, damit ich ihn unter den Völkern verkünde[^bible-86c7f6ea-75d3-4c8a-ab35-91db71a39918]\.“ Wie wir also durch das Wort im Mutterleib geformt werden, so formte eben dieses Wort die Sehkraft in dem Mann, der von Geburt an blind gewesen war\. Damit zeigte er offen, wer es ist, der uns im Verborgenen formt, denn das Wort selbst war den Menschen sichtbar geworden\. Zugleich erklärte er die ursprüngliche Formung Adams, die Weise, in der er geschaffen wurde, und durch welche Hand er geformt wurde: Er machte am Teil das Ganze kenntlich\. Denn der Herr, der die Sehkraft formte, ist derselbe, der den ganzen Menschen gemacht hat und dabei den Willen des Vaters ausführt\. Und weil der Mensch in jener Formung nach Adam, nachdem er in Übertretung gefallen war, das Bad der Wiedergeburt brauchte, sagte der Herr zu dem, dem er das Augenlicht geschenkt hatte, nachdem er ihm die Augen mit Lehm bestrichen hatte: „Geh nach Siloam und wasche dich[^bible-186fc167-c87a-4f0b-a5e5-69729ea0b415]\.“ So stellte er ihm beides wieder her: seine vollständige Festigung und jene Wiedergeburt, die durch das Bad geschieht\. Und deshalb kam er, als er sich gewaschen hatte, sehend zurück: damit er den erkenne, der ihn geformt hatte, und damit der Mensch lerne, den zu erkennen, der ihm das Leben geschenkt hat\.
-
-Darum verlieren alle Anhänger des Valentinus ihren Fall, wenn sie sagen, der Mensch sei nicht aus dieser Erde geformt worden, sondern aus einer flüssigen und zerflossenen Substanz\. Denn aus der Erde, aus der der Herr jenem Menschen Augen formte, wird deutlich, dass auch der Mensch am Anfang aus derselben Erde geformt wurde\. Es wäre nämlich widersinnig, wenn die Augen aus der einen Quelle gebildet worden wären, der übrige Leib aber aus einer anderen; ebenso wäre es unvereinbar, wenn der eine das Leib geformt hätte und ein anderer die Augen\. Er aber, eben derselbe, der am Anfang Adam formte und zu dem auch der Vater sprach: „Lasst uns den Menschen machen nach unserem Bild und unserer Ähnlichkeit[^bible-d49583ce-3db8-43ce-a430-515f08af23e1]“, offenbarte sich in diesen letzten Zeiten den Menschen und bildete dem, der von Geburt an blind gewesen war, Sehorgane in dem Leib, den er von Adam her hatte\. Darum sagt auch die Schrift, indem sie auf das hinweist, was geschehen sollte: Als Adam sich wegen seines Ungehorsams verborgen hatte, kam der Herr gegen Abend zu ihm, rief ihn hervor und sprach: „Wo bist du?[^bible-3c54b32e-0062-4548-9f86-4d13b089a008]“ Das bedeutet: In den letzten Zeiten kam eben dasselbe Wort Gottes, um den Menschen zu rufen, und erinnerte ihn an seine Taten; in ihnen hatte er gelebt und war dadurch vor dem Herrn verborgen gewesen\. Denn wie Gott damals gegen Abend zu Adam sprach und ihn suchte, so hat er in den letzten Zeiten mit derselben Stimme auch seine Nachkommenschaft gesucht und sie besucht\.
+Darum verlieren alle Anhänger des Valentinus ihren Fall,
+wenn sie sagen,
+der Mensch sei nicht aus dieser Erde geformt worden,
+sondern aus einer flüssigen und zerflossenen Substanz\.
+Denn aus der Erde,
+aus der der Herr jenem Menschen Augen formte,
+wird deutlich,
+dass auch der Mensch am Anfang aus derselben Erde geformt wurde\.
+Es wäre nämlich widersinnig,
+wenn die Augen aus der einen Quelle gebildet worden wären,
+der übrige Leib aber aus einer anderen;
+ebenso wäre es unvereinbar,
+wenn der eine das Leib geformt hätte und ein anderer die Augen\.
+Er aber,
+eben derselbe,
+der am Anfang Adam formte und zu dem auch der Vater sprach:
+„Lasst uns den Menschen machen nach unserem Bild und unserer Ähnlichkeit[^bible-d49583ce-3db8-43ce-a430-515f08af23e1]“,
+offenbarte sich in diesen letzten Zeiten den Menschen und bildete dem,
+der von Geburt an blind gewesen war,
+Sehorgane in dem Leib,
+den er von Adam her hatte\.
+Darum sagt auch die Schrift,
+indem sie auf das hinweist,
+was geschehen sollte:
+Als Adam sich wegen seines Ungehorsams verborgen hatte,
+kam der Herr gegen Abend zu ihm,
+rief ihn hervor und sprach:
+„Wo bist du?[^bible-3c54b32e-0062-4548-9f86-4d13b089a008]“ Das bedeutet:
+In den letzten Zeiten kam eben dasselbe Wort Gottes,
+um den Menschen zu rufen,
+und erinnerte ihn an seine Taten;
+in ihnen hatte er gelebt und war dadurch vor dem Herrn verborgen gewesen\.
+Denn wie Gott damals gegen Abend zu Adam sprach und ihn suchte,
+so hat er in den letzten Zeiten mit derselben Stimme auch seine Nachkommenschaft gesucht und sie besucht\.
 
 ## Bibelverweise
 

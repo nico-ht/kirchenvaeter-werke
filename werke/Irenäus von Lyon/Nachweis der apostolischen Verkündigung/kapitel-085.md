@@ -7,9 +7,25 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-b1557ec0-75ae-4999-3262-08debf1e7015).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:04b3acd0e3aea8ab48f6b3dca69b035b205b0c57fba20f1b353ec5cfb3954a66`
-
-Und da Er von den Toten auferweckt und zur Rechten des Vaters erhöht worden ist, erwartet Er die vom Vater bestimmte Zeit für das Gericht, wenn alle Feinde Ihm unterworfen werden sollen\. Die Feinde aber sind alle, die im Abfall befunden wurden: Engel und Erzengel und Mächte und Throne, die die Wahrheit verachteten\. Und der Prophet David selbst sagt so: „Der Herr sprach zu meinem Herrn: Setze dich zu meiner Rechten, bis ich deine Feinde zum Schemel deiner Füße mache[^bible-e0c8cfcc-af94-488c-9a9c-10fa2a47412c]\.“ Und dass Er dorthin auffuhr, von wo Er herabgekommen war, sagt David: „Vom Ende des Himmels geht er aus, und sein Ziel reicht bis zum Ende des Himmels[^bible-e929620a-86b1-4fa2-9cd3-92ea94b1978d]\.“ Dann weist er auf sein Gericht hin: „Und es gibt keinen, der sich vor seiner Glut verbergen wird[^bible-e929620a-86b1-4fa2-9cd3-92ea94b1978d]\.“
+Und da Er von den Toten auferweckt und zur Rechten des Vaters erhöht worden ist,
+erwartet Er die vom Vater bestimmte Zeit für das Gericht,
+wenn alle Feinde Ihm unterworfen werden sollen\.
+Die Feinde aber sind alle,
+die im Abfall befunden wurden:
+Engel und Erzengel und Mächte und Throne,
+die die Wahrheit verachteten\.
+Und der Prophet David selbst sagt so:
+„Der Herr sprach zu meinem Herrn:
+Setze dich zu meiner Rechten,
+bis ich deine Feinde zum Schemel deiner Füße mache[^bible-e0c8cfcc-af94-488c-9a9c-10fa2a47412c]\.“
+Und dass Er dorthin auffuhr,
+von wo Er herabgekommen war,
+sagt David:
+„Vom Ende des Himmels geht er aus,
+und sein Ziel reicht bis zum Ende des Himmels[^bible-e929620a-86b1-4fa2-9cd3-92ea94b1978d]\.“
+Dann weist er auf sein Gericht hin:
+„Und es gibt keinen,
+der sich vor seiner Glut verbergen wird[^bible-e929620a-86b1-4fa2-9cd3-92ea94b1978d]\.“
 
 ## Bibelverweise
 

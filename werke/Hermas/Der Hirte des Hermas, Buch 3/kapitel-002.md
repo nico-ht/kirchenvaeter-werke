@@ -7,9 +7,119 @@ Autor: Hermas
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/hermas/der-hirte-des-hermas-buch-3#kapitel-17f1427d-fc4b-45b5-8317-08dd4ec30069).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a60a0715b01aa794c42b523e6990532b3b485e29d14fcf42e1021189a4ef53c5`
-
-Während ich auf das Feld hinausging, betrachtete ich eine Ulme und einen Weinstock und überlegte, was es mit der Ulme und dem Weinstock auf sich habe\. Ich sagte: „Herr, ich denke darüber nach, weil sie so gut zueinanderpassen\.“ Er sagte: „Diese beiden Bäume stehen als Bild für die Sklaven Gottes\.“ Ich sagte: „Ich möchte das Bild dieser Bäume verstehen, von denen du sprichst\.“ Er sagte: „Siehst du die Ulme und den Weinstock?“ Ich sagte: „Ja, Herr\.“ Er sagte: „Dieser Weinstock trägt Frucht, die Ulme aber ist ein fruchtloses Holz\. Doch wenn dieser Weinstock nicht an der Ulme hinaufsteigt, kann er keine reiche Frucht bringen, wenn er am Boden liegt; und die Frucht, die er bringt, ist faul, wenn er nicht an der Ulme hängt\. Wenn der Weinstock aber an der Ulme hinaufgeworfen wird, bringt er Frucht: aus sich selbst und von der Ulme her\. Du siehst also, dass auch die Ulme viel Frucht gibt, nicht weniger als der Weinstock, vielmehr sogar mehr\.“ Ich sagte: „Wie denn, Herr, mehr?“ Er sagte: „Weil der Weinstock, wenn er an der Ulme hängt, viel und gute Frucht gibt; liegt er aber am Boden, bringt er wenig und faule Frucht\. Dieses Bild gilt also den Sklaven Gottes, dem Armen und dem Reichen\.“ Ich sagte: „Wie, Herr? Erkläre es mir\.“ Er sagte: „Höre\. Der Reiche hat Geld, aber im Blick auf den Herrn ist er arm, weil er von seinem Reichtum in Anspruch genommen wird\. Sein Gebet und sein Bekenntnis zum Herrn sind sehr gering; und was er hat, ist schwach, klein und hat keine besondere Kraft\. Wenn nun der Reiche den Armen stärkt und ihm gibt, was er braucht, dann glaubt er: Was er für den Armen tut, wird seinen Lohn bei Gott finden können\. Denn der Arme ist reich im Gebet und im Bekenntnis, und sein Gebet hat große Kraft bei Gott\. Darum gibt der Reiche dem Armen alles ohne Zögern\. Der Arme aber, der vom Reichen unterstützt wird, betet zu Gott und dankt ihm für den, der ihm gibt\. Und jener bemüht sich weiter eifrig um den Armen, damit dieser in seinem Leben ohne Mangel bleibt\. Denn er weiß, dass das Gebet des Armen beim Herrn willkommen und reich ist\. So vollbringen beide das Werk\. Der Arme wirkt durch das Gebet, in dem er reich ist und das er vom Herrn empfangen hat; dieses gibt er dem Herrn zurück, der ihn unterstützt\. Und ebenso stellt der Reiche den Reichtum, den er vom Herrn empfangen hat, dem Armen ohne Zögern zur Verfügung\. Das ist ein großes Werk und bei Gott willkommen, weil er verstanden hat, wozu sein Reichtum da ist, weil er aus den Gaben des Herrn für den Armen gehandelt und seinen Dienst richtig erfüllt hat\. Bei den Menschen scheint die Ulme keine Frucht zu tragen, und sie wissen und verstehen nicht: Wenn Trockenheit kommt, nährt die Ulme, weil sie Wasser hat, den Weinstock; und der Weinstock, der ununterbrochen Wasser hat, gibt doppelte Frucht zurück, auch zugunsten der Ulme\. So machen auch die Armen, wenn sie für die Reichen beim Herrn beten, deren Reichtum voll; und wiederum machen die Reichen, wenn sie den Armen geben, was sie brauchen, deren Gebete voll\. So werden beide Teilhaber am gerechten Werk\. Wer also dies tut, wird von Gott nicht verlassen werden, sondern in die Bücher der Lebenden eingeschrieben sein[^bible-0fa65fa1-b76f-41b7-8a77-207069075bab]\. Selig sind, die besitzen und verstehen, dass sie vom Herrn reich gemacht werden\. Denn wer das versteht, wird auch etwas Gutes tun können\.
+Während ich auf das Feld hinausging,
+betrachtete ich eine Ulme und einen Weinstock und überlegte,
+was es mit der Ulme und dem Weinstock auf sich habe\.
+Ich sagte:
+„Herr,
+ich denke darüber nach,
+weil sie so gut zueinanderpassen\.“
+Er sagte:
+„Diese beiden Bäume stehen als Bild für die Sklaven Gottes\.“
+Ich sagte:
+„Ich möchte das Bild dieser Bäume verstehen,
+von denen du sprichst\.“
+Er sagte:
+„Siehst du die Ulme und den Weinstock?“
+Ich sagte:
+„Ja,
+Herr\.“
+Er sagte:
+„Dieser Weinstock trägt Frucht,
+die Ulme aber ist ein fruchtloses Holz\.
+Doch wenn dieser Weinstock nicht an der Ulme hinaufsteigt,
+kann er keine reiche Frucht bringen,
+wenn er am Boden liegt;
+und die Frucht,
+die er bringt,
+ist faul,
+wenn er nicht an der Ulme hängt\.
+Wenn der Weinstock aber an der Ulme hinaufgeworfen wird,
+bringt er Frucht:
+aus sich selbst und von der Ulme her\.
+Du siehst also,
+dass auch die Ulme viel Frucht gibt,
+nicht weniger als der Weinstock,
+vielmehr sogar mehr\.“
+Ich sagte:
+„Wie denn,
+Herr,
+mehr?“
+Er sagte:
+„Weil der Weinstock,
+wenn er an der Ulme hängt,
+viel und gute Frucht gibt;
+liegt er aber am Boden,
+bringt er wenig und faule Frucht\.
+Dieses Bild gilt also den Sklaven Gottes,
+dem Armen und dem Reichen\.“
+Ich sagte:
+„Wie,
+Herr?
+Erkläre es mir\.“
+Er sagte:
+„Höre\.
+Der Reiche hat Geld,
+aber im Blick auf den Herrn ist er arm,
+weil er von seinem Reichtum in Anspruch genommen wird\.
+Sein Gebet und sein Bekenntnis zum Herrn sind sehr gering;
+und was er hat,
+ist schwach,
+klein und hat keine besondere Kraft\.
+Wenn nun der Reiche den Armen stärkt und ihm gibt,
+was er braucht,
+dann glaubt er:
+Was er für den Armen tut,
+wird seinen Lohn bei Gott finden können\.
+Denn der Arme ist reich im Gebet und im Bekenntnis,
+und sein Gebet hat große Kraft bei Gott\.
+Darum gibt der Reiche dem Armen alles ohne Zögern\.
+Der Arme aber,
+der vom Reichen unterstützt wird,
+betet zu Gott und dankt ihm für den,
+der ihm gibt\.
+Und jener bemüht sich weiter eifrig um den Armen,
+damit dieser in seinem Leben ohne Mangel bleibt\.
+Denn er weiß,
+dass das Gebet des Armen beim Herrn willkommen und reich ist\.
+So vollbringen beide das Werk\.
+Der Arme wirkt durch das Gebet,
+in dem er reich ist und das er vom Herrn empfangen hat;
+dieses gibt er dem Herrn zurück,
+der ihn unterstützt\.
+Und ebenso stellt der Reiche den Reichtum,
+den er vom Herrn empfangen hat,
+dem Armen ohne Zögern zur Verfügung\.
+Das ist ein großes Werk und bei Gott willkommen,
+weil er verstanden hat,
+wozu sein Reichtum da ist,
+weil er aus den Gaben des Herrn für den Armen gehandelt und seinen Dienst richtig erfüllt hat\.
+Bei den Menschen scheint die Ulme keine Frucht zu tragen,
+und sie wissen und verstehen nicht:
+Wenn Trockenheit kommt,
+nährt die Ulme,
+weil sie Wasser hat,
+den Weinstock;
+und der Weinstock,
+der ununterbrochen Wasser hat,
+gibt doppelte Frucht zurück,
+auch zugunsten der Ulme\.
+So machen auch die Armen,
+wenn sie für die Reichen beim Herrn beten,
+deren Reichtum voll;
+und wiederum machen die Reichen,
+wenn sie den Armen geben,
+was sie brauchen,
+deren Gebete voll\.
+So werden beide Teilhaber am gerechten Werk\.
+Wer also dies tut,
+wird von Gott nicht verlassen werden,
+sondern in die Bücher der Lebenden eingeschrieben sein[^bible-0fa65fa1-b76f-41b7-8a77-207069075bab]\.
+Selig sind,
+die besitzen und verstehen,
+dass sie vom Herrn reich gemacht werden\.
+Denn wer das versteht,
+wird auch etwas Gutes tun können\.
 
 ## Bibelverweise
 

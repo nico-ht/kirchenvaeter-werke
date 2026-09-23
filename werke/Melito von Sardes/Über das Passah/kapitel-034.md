@@ -7,6 +7,6 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-aef27e77-bd89-4492-7690-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:af3bf3c5763dc6fc18a70f73f29fe88f9582fc11cbe49ecd5913972fbbad3d7a`
-
-Was ist dieses seltsame Mysterium, dass Ägypten zur Zerstörung geschlagen wird und Israel zum Heil bewahrt wird? Höre auf die Bedeutung des Mysteriums\.
+Was ist dieses seltsame Mysterium,
+dass Ägypten zur Zerstörung geschlagen wird und Israel zum Heil bewahrt wird?
+Höre auf die Bedeutung des Mysteriums\.

@@ -7,14 +7,110 @@ Autor: Makarius der Ägypter
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/makarius-der-aegypter/ueber-die-bewahrung-des-herzens#kapitel-29114c76-25f3-497b-6317-08dd7599b139).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f722d83863583c33d6061cc04884d2ef07dc9c198e7d2684151123bd6fc44865`
+Wenn sich jedoch jemand selbst anspornt,
+um zu beten und dadurch eine Gnade von Gott zu erlangen,
+und in diesem Bemühen Demut,
+Nächstenliebe,
+Sanftmut und religiöse Tugenden hervorbringt,
+aber nicht mit gleichem Eifer strebt,
+um diese Tugenden zu erwerben und sich selbst anstrengt,
+dann wird er manchmal von der göttlichen Gnade begünstigt,
+während er bittet und betet;
+denn Gott ist gut und barmherzig und bereit,
+denen zu geben,
+die bitten\.
+Dennoch hat sich eine solche Person nicht vorbereitet und hat die Praxis dieser Tugenden nicht erreicht\.
+Er sucht Gnade,
+bleibt jedoch entweder hinter ihr zurück oder macht keinen Fortschritt,
+erhoben in seinem Stolz;
+denn wir folgen den Geboten des Herrn als Vorschlag und ergeben uns ganz\.
 
-Wenn sich jedoch jemand selbst anspornt, um zu beten und dadurch eine Gnade von Gott zu erlangen, und in diesem Bemühen Demut, Nächstenliebe, Sanftmut und religiöse Tugenden hervorbringt, aber nicht mit gleichem Eifer strebt, um diese Tugenden zu erwerben und sich selbst anstrengt, dann wird er manchmal von der göttlichen Gnade begünstigt, während er bittet und betet; denn Gott ist gut und barmherzig und bereit, denen zu geben, die bitten\. Dennoch hat sich eine solche Person nicht vorbereitet und hat die Praxis dieser Tugenden nicht erreicht\. Er sucht Gnade, bleibt jedoch entweder hinter ihr zurück oder macht keinen Fortschritt, erhoben in seinem Stolz; denn wir folgen den Geboten des Herrn als Vorschlag und ergeben uns ganz\.
+Der Herr,
+wenn Er der Ruhe des Geistes ist,
+ist Demut,
+Nächstenliebe,
+Sanftmut und die schnellen Tugenden,
+die der Herr vorschreibt\.
+Daher müssen diejenigen,
+die Gott in Wahrheit gefallen wollen,
+zuerst von Ihm die himmlische Gnade empfangen,
+wachsen und im Heiligen Geist vollendet werden\.
+Sie müssen sich zuerst anspornen,
+alle Pflichten der Tugend zu praktizieren,
+selbst mit einem widerwilligen Geist,
+wie es geschrieben steht:
+„Darum war ich auf alle Deine Gebote gerichtet\.“
+So wie jemand sich selbst anstrengt,
+um im Gebet auszuharren und darüber nachdenkt,
+bis er seine Pflicht richtig erfüllt,
+so muss er sich auch zu allen Pflichten der Tugend anregen,
+sich anspornen und zwingen,
+damit er durch Gewohnheit eine gute Gesinnung bildet\.
+Denn auf diese Weise wird er das,
+was er beharrlich vom Herrn erbitten,
+empfangen und sich über den vollen und sicheren Besitz dessen freuen,
+was er begehrt\.
 
-Der Herr, wenn Er der Ruhe des Geistes ist, ist Demut, Nächstenliebe, Sanftmut und die schnellen Tugenden, die der Herr vorschreibt\. Daher müssen diejenigen, die Gott in Wahrheit gefallen wollen, zuerst von Ihm die himmlische Gnade empfangen, wachsen und im Heiligen Geist vollendet werden\. Sie müssen sich zuerst anspornen, alle Pflichten der Tugend zu praktizieren, selbst mit einem widerwilligen Geist, wie es geschrieben steht: „Darum war ich auf alle Deine Gebote gerichtet\.“ So wie jemand sich selbst anstrengt, um im Gebet auszuharren und darüber nachdenkt, bis er seine Pflicht richtig erfüllt, so muss er sich auch zu allen Pflichten der Tugend anregen, sich anspornen und zwingen, damit er durch Gewohnheit eine gute Gesinnung bildet\. Denn auf diese Weise wird er das, was er beharrlich vom Herrn erbitten, empfangen und sich über den vollen und sicheren Besitz dessen freuen, was er begehrt\.
+In der Tat,
+während er in der Gnade des Geistes wächst und gedeiht,
+die er ernsthaft gesucht hat,
+wird er die Gnade des Geistes haben,
+die in seiner Demut und den anderen Tugenden ruht und ihn wahre Demut,
+wahre Nächstenliebe und wahre Sanftmut lehrt,
+Eigenschaften,
+die er als seine eigenen beanspruchen kann und die er ernsthaft gesucht hat\.
+Und so,
+während er im Fortschritt zunimmt und zum Gipfel der Vollkommenheit in Gott aufsteigt,
+wird er als würdig erachtet,
+das Erbe des Himmelreichs zu empfangen\.
 
-In der Tat, während er in der Gnade des Geistes wächst und gedeiht, die er ernsthaft gesucht hat, wird er die Gnade des Geistes haben, die in seiner Demut und den anderen Tugenden ruht und ihn wahre Demut, wahre Nächstenliebe und wahre Sanftmut lehrt, Eigenschaften, die er als seine eigenen beanspruchen kann und die er ernsthaft gesucht hat\. Und so, während er im Fortschritt zunimmt und zum Gipfel der Vollkommenheit in Gott aufsteigt, wird er als würdig erachtet, das Erbe des Himmelreichs zu empfangen\.
+Denn der Demütige fällt niemals;
+denn in was könnte der fallen,
+der unter allem steht?
+Große Erhöhung ist Demut;
+der höchste Gipfel der Ehre,
+hohe Würde,
+ist das Absenken der eigenen Person\.
+Lasst uns uns daher daran gewöhnen und uns sogar mit Nachdruck anspornen,
+demütig über uns selbst zu denken,
+selbst wenn unsere Herzen unwillig sind;
+und lasst uns mit Glauben,
+Hoffnung und Nächstenliebe beständig auf Gott hinarbeiten in langem Erwarten,
+dass Er Seinen Geist in unsere Herzen sendet,
+damit wir zum Vater im Geist beten und ihn anbeten können;
+und möge der Geist selbst in uns beten,
+damit derselbe Geist uns wahres Gebet,
+Demut,
+Sanftmut und Nächstenliebe lehrt:
+Eigenschaften,
+die wir jetzt,
+selbst mit angewandter Kraft,
+kaum praktizieren können,
+zusammen mit dem barmherzigen Mitgefühl,
+Freundlichkeit und all den guten Werken,
+die die grundlegenden Gebote des Herrn sind,
+ohne Mühe und Anstrengung;
+auf diese Weise weiß der göttliche Geist,
+wie Er uns mit Seinen Gaben erfüllen kann\.
 
-Denn der Demütige fällt niemals; denn in was könnte der fallen, der unter allem steht? Große Erhöhung ist Demut; der höchste Gipfel der Ehre, hohe Würde, ist das Absenken der eigenen Person\. Lasst uns uns daher daran gewöhnen und uns sogar mit Nachdruck anspornen, demütig über uns selbst zu denken, selbst wenn unsere Herzen unwillig sind; und lasst uns mit Glauben, Hoffnung und Nächstenliebe beständig auf Gott hinarbeiten in langem Erwarten, dass Er Seinen Geist in unsere Herzen sendet, damit wir zum Vater im Geist beten und ihn anbeten können; und möge der Geist selbst in uns beten, damit derselbe Geist uns wahres Gebet, Demut, Sanftmut und Nächstenliebe lehrt: Eigenschaften, die wir jetzt, selbst mit angewandter Kraft, kaum praktizieren können, zusammen mit dem barmherzigen Mitgefühl, Freundlichkeit und all den guten Werken, die die grundlegenden Gebote des Herrn sind, ohne Mühe und Anstrengung; auf diese Weise weiß der göttliche Geist, wie Er uns mit Seinen Gaben erfüllen kann\.
-
-Daher wird es geschehen, dass wir, nachdem wir die Gebote Gottes durch Seinen Geist erfüllt haben, dessen Wille allein von Christus am besten verstanden wird, der uns tatsächlich von der Unreinheit der Sünde reinigt, wie reine und tadellose Bräute Christus präsentieren\. Während wir in Gott ruhen und Christus in uns ruht, wird es so sein für immer und ewig\. Ehre sei Seinen Barmherzigkeiten, Seiner Freundlichkeit und Nächstenliebe, dass Er uns für würdig erachtet hat, die Menschheit zu solch einer Ehre zu berufen, uns zu Seinen eigenen Brüdern und Kindern des himmlischen Vaters zu machen und uns sowohl zu benennen, als auch würdig zu machen, so zu sein\. Ehre, sage ich, sei dem Vater, dem Sohn und dem Heiligen Geist, von Ewigkeit zu Ewigkeit\. Amen\.
+Daher wird es geschehen,
+dass wir,
+nachdem wir die Gebote Gottes durch Seinen Geist erfüllt haben,
+dessen Wille allein von Christus am besten verstanden wird,
+der uns tatsächlich von der Unreinheit der Sünde reinigt,
+wie reine und tadellose Bräute Christus präsentieren\.
+Während wir in Gott ruhen und Christus in uns ruht,
+wird es so sein für immer und ewig\.
+Ehre sei Seinen Barmherzigkeiten,
+Seiner Freundlichkeit und Nächstenliebe,
+dass Er uns für würdig erachtet hat,
+die Menschheit zu solch einer Ehre zu berufen,
+uns zu Seinen eigenen Brüdern und Kindern des himmlischen Vaters zu machen und uns sowohl zu benennen,
+als auch würdig zu machen,
+so zu sein\.
+Ehre,
+sage ich,
+sei dem Vater,
+dem Sohn und dem Heiligen Geist,
+von Ewigkeit zu Ewigkeit\.
+Amen\.

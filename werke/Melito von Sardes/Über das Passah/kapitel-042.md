@@ -7,6 +7,10 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-20982d31-66ed-4d2d-7698-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ce04879bf6c7ec36395817c36dfdbe7ab05134d198fe69997038c00b599538d7`
-
-Doch als die Kirche entstand und das Evangelium Wirklichkeit wurde, verlor das Bild, aufgebraucht, seine Bedeutung zugunsten der Wahrheit; und das Gesetz, erfüllt, gab seine Bedeutung zugunsten des Evangeliums auf\.
+Doch als die Kirche entstand und das Evangelium Wirklichkeit wurde,
+verlor das Bild,
+aufgebraucht,
+seine Bedeutung zugunsten der Wahrheit;
+und das Gesetz,
+erfüllt,
+gab seine Bedeutung zugunsten des Evangeliums auf\.

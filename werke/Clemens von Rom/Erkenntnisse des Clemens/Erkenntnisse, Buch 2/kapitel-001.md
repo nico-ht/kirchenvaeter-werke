@@ -7,6 +7,53 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-2#kapitel-d9394ccf-3a15-460b-80c2-08dd12f1415a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:20e2bdb8c26e0d75f6d9eaa1a47d18e18e556ac551a87b4b5e09a29b61088750`
-
-Als der Tag anbrach, der für die Diskussion mit Simon festgelegt worden war, stand Petrus beim ersten Hahnenkrähen auf und weckte auch uns, denn wir schliefen alle im selben Raum, dreizehn an der Zahl\. Neben Petrus war zuerst Zachäus, dann Sophonius, Josef und Michäus, Eliesdrus, Phineas, Lazarus und Elisäus\. Danach ich \(Clemens\) und Nikodemus; dann Niceta und Aquila, die früher Jünger von Simon gewesen waren und durch die Lehre von Zachäus zum Glauben an Christus bekehrt wurden\. Von den Frauen war niemand anwesend\. Da das Abendlicht noch da war, setzten wir uns alle hin; und Petrus, der sah, dass wir wach waren und ihm aufmerksam zuhörten, begrüßte uns und begann sofort zu sprechen: "Ich gestehe, Brüder, dass ich über die Kraft der menschlichen Natur staune, da sie auf jede Herausforderung gut reagieren kann\. Ich habe die Erfahrung gemacht, dass ich mitten in der Nacht von selbst aufwache und nicht wieder einschlafe\. Dies geschieht bei mir aus dem Grund, dass ich die Gewohnheit entwickelt habe, mich an die Worte meines Herrn zu erinnern, die ich von Ihm selbst gehört habe\. Aus Sehnsucht nach diesen Worten zwinge ich meinen Geist und meine Gedanken dazu, wach zu werden, um sie zu erinnern und sie in meinem Gedächtnis zu ordnen\. Deshalb, während ich das Verlangen habe, die Worte des Herrn mit Freude in meinem Herzen zu bewahren, hat sich bei mir die Gewohnheit des Aufwachens entwickelt, auch wenn ich nichts habe, worüber ich nachdenken möchte\. So wird, auf eine unerklärliche Weise, wenn irgendeine Gewohnheit etabliert ist, die alte Gewohnheit verändert \- vorausgesetzt, man übertreibt es nicht, sondern bleibt im Rahmen dessen, was die Natur zulässt\. Es ist nämlich nicht möglich, ganz ohne Schlaf auszukommen; sonst wäre die Nacht nicht zur Ruhe geschaffen worden\.“
+Als der Tag anbrach,
+der für die Diskussion mit Simon festgelegt worden war,
+stand Petrus beim ersten Hahnenkrähen auf und weckte auch uns,
+denn wir schliefen alle im selben Raum,
+dreizehn an der Zahl\.
+Neben Petrus war zuerst Zachäus,
+dann Sophonius,
+Josef und Michäus,
+Eliesdrus,
+Phineas,
+Lazarus und Elisäus\.
+Danach ich \(Clemens\) und Nikodemus;
+dann Niceta und Aquila,
+die früher Jünger von Simon gewesen waren und durch die Lehre von Zachäus zum Glauben an Christus bekehrt wurden\.
+Von den Frauen war niemand anwesend\.
+Da das Abendlicht noch da war,
+setzten wir uns alle hin;
+und Petrus,
+der sah,
+dass wir wach waren und ihm aufmerksam zuhörten,
+begrüßte uns und begann sofort zu sprechen:
+"Ich gestehe,
+Brüder,
+dass ich über die Kraft der menschlichen Natur staune,
+da sie auf jede Herausforderung gut reagieren kann\.
+Ich habe die Erfahrung gemacht,
+dass ich mitten in der Nacht von selbst aufwache und nicht wieder einschlafe\.
+Dies geschieht bei mir aus dem Grund,
+dass ich die Gewohnheit entwickelt habe,
+mich an die Worte meines Herrn zu erinnern,
+die ich von Ihm selbst gehört habe\.
+Aus Sehnsucht nach diesen Worten zwinge ich meinen Geist und meine Gedanken dazu,
+wach zu werden,
+um sie zu erinnern und sie in meinem Gedächtnis zu ordnen\.
+Deshalb,
+während ich das Verlangen habe,
+die Worte des Herrn mit Freude in meinem Herzen zu bewahren,
+hat sich bei mir die Gewohnheit des Aufwachens entwickelt,
+auch wenn ich nichts habe,
+worüber ich nachdenken möchte\.
+So wird,
+auf eine unerklärliche Weise,
+wenn irgendeine Gewohnheit etabliert ist,
+die alte Gewohnheit verändert \- vorausgesetzt,
+man übertreibt es nicht,
+sondern bleibt im Rahmen dessen,
+was die Natur zulässt\.
+Es ist nämlich nicht möglich,
+ganz ohne Schlaf auszukommen;
+sonst wäre die Nacht nicht zur Ruhe geschaffen worden\.“

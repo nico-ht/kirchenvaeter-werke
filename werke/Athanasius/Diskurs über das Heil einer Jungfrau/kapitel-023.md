@@ -7,6 +7,43 @@ Autor: Athanasius
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/diskurs-ueber-das-heil-einer-jungfrau#kapitel-9928c695-2fa6-4db8-a081-08dd0631e784).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:33cc62cb6ece03fcba2953c39a9d6411f5eb5864fe50c4b3319fbbe5bfe5fcb9`
-
-Seid still in der Kirche und lacht nicht, sondern achtet nur auf die Lesung\. Wenn der Gedanke in deinem Herzen aufkommt, etwas zu tun, handle nicht hastig, damit dich der Feind nicht täuscht\. Tut alles mit dem Rat eurer Ältesten\. Wenn ihr Psalme singt oder betet, lasst keine fremde Gedanken in euer Herz eindringen\. Ich bitte euch, Geliebte, achtet auf und befolgt diese Gebote, die in diesem Buch geschrieben stehen; und betrachtet das Geschriebene nicht nur mit euren äußeren Augen, sondern auch mit euren inneren Augen\. Achtet auf jedes einzelne Gebot und erfüllt es\. Denn wenn ihr diese Gebote haltet, werdet ihr als würdig erachtet, in die königliche Hochzeitskammer einzutreten\. Sprecht nicht in eurem Herzen: „Wie kann ich all dies erfüllen?“ Lasst eure Gedanken nicht von Feigheit ergreifen, sondern beachtet diese Gebote mit aller Eifrigkeit\. Denn die Gebote Gottes sind nicht schwer für die, die Gott fürchten\. Lasst zu jeder Zeit das Öl in eurer Lampe nicht fehlen, damit der Bräutigam nicht kommt und sie erloschen findet\. Denn ihr wisst nicht, wann er kommt, ob in der ersten Nachtwache oder am Morgen\. Seid bereit, damit ihr ihn treffen könnt, zusammen mit den Weisen, die Öl in ihrer Lampe haben, das heißt, eure guten Werke\. Denkt stets an euer Ende; haltet jeden Tag den Tod vor euren Augen\. Denkt daran, vor wem ihr stehen müsst\.
+Seid still in der Kirche und lacht nicht,
+sondern achtet nur auf die Lesung\.
+Wenn der Gedanke in deinem Herzen aufkommt,
+etwas zu tun,
+handle nicht hastig,
+damit dich der Feind nicht täuscht\.
+Tut alles mit dem Rat eurer Ältesten\.
+Wenn ihr Psalme singt oder betet,
+lasst keine fremde Gedanken in euer Herz eindringen\.
+Ich bitte euch,
+Geliebte,
+achtet auf und befolgt diese Gebote,
+die in diesem Buch geschrieben stehen;
+und betrachtet das Geschriebene nicht nur mit euren äußeren Augen,
+sondern auch mit euren inneren Augen\.
+Achtet auf jedes einzelne Gebot und erfüllt es\.
+Denn wenn ihr diese Gebote haltet,
+werdet ihr als würdig erachtet,
+in die königliche Hochzeitskammer einzutreten\.
+Sprecht nicht in eurem Herzen:
+„Wie kann ich all dies erfüllen?“
+Lasst eure Gedanken nicht von Feigheit ergreifen,
+sondern beachtet diese Gebote mit aller Eifrigkeit\.
+Denn die Gebote Gottes sind nicht schwer für die,
+die Gott fürchten\.
+Lasst zu jeder Zeit das Öl in eurer Lampe nicht fehlen,
+damit der Bräutigam nicht kommt und sie erloschen findet\.
+Denn ihr wisst nicht,
+wann er kommt,
+ob in der ersten Nachtwache oder am Morgen\.
+Seid bereit,
+damit ihr ihn treffen könnt,
+zusammen mit den Weisen,
+die Öl in ihrer Lampe haben,
+das heißt,
+eure guten Werke\.
+Denkt stets an euer Ende;
+haltet jeden Tag den Tod vor euren Augen\.
+Denkt daran,
+vor wem ihr stehen müsst\.

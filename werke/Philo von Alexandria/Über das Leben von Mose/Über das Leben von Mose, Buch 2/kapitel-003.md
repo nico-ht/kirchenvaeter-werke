@@ -7,6 +7,47 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-2#kapitel-79f9b828-b7d5-4c49-0855-08ded872ad01).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:1be97462697b15d81f48f8f31264c4011159c1fcd94b61e0536eea076b7f2966`
-
-Dass er selbst aber der bewundernswerteste aller Gesetzgeber ist, die je in irgendeinem Land gelebt haben, ob bei den Griechen oder bei den Barbaren, und dass seine Gesetze die bewundernswertesten aller Gesetze und wahrhaft göttlich sind, weil ihnen kein einzelner Punkt fehlt, den sie umfassen müssten, dafür gibt es den klarstmöglichen Beweis: Betrachtet man nämlich die Gesetze anderer Gesetzgeber mit der Vernunft, so wird man finden, dass sie durch unzählige Anlässe in Bewegung geraten, sei es wegen Kriegen, wegen Tyrannenherrschaften oder wegen anderer unerwarteter Ereignisse, die durch die verschiedenen Wandlungen und Neuerungen des Geschicks über Völker kommen\. Sehr oft hat auch die Üppigkeit, überreich an jeder Art von Überfluss und maßloser Verschwendung, Gesetze umgestürzt, weil die Menge grenzenloses Wohlergehen nicht zu ertragen vermag, sondern aus Übersättigung zur Anmaßung neigt; Anmaßung aber steht dem Gesetz entgegen\. Die Satzungen dieses Gesetzgebers dagegen sind fest, von Erschütterungen nicht ins Wanken gebracht, keiner Veränderung unterworfen, sondern gleichsam mit dem Siegel der Natur selbst geprägt; sie bleiben fest und dauerhaft von dem Tag an, an dem sie zuerst verkündet wurden, bis zum heutigen Tag, und man darf wohl hoffen, dass sie für alle künftige Zeit bestehen bleiben, als unsterblich, solange Sonne und Mond, der ganze Himmel und die ganze Welt Bestand haben\. Jedenfalls wurde, obwohl das Volk der Hebräer so viele Wandlungen erlebte, zum Glück wie zum entgegengesetzten Geschick hin, kein einziges, ja nicht einmal das geringste und unbedeutendste seiner Gebote geändert, da offenbar jeder ihren ehrwürdigen und gottähnlichen Charakter achtete; und was weder Hungersnot noch Seuche noch Krieg, weder ein Herrscher noch ein Tyrann, weder das Aufkommen irgendwelcher Leidenschaften oder böser Regungen gegen Seele oder Körper noch irgendein anderes Übel, ob von Gott verhängt oder von Menschen ausgegangen, je aufgelöst hat, das kann von uns gewiss unter keinem anderen Gesichtspunkt betrachtet werden als als Gegenstand höchster Bewunderung und als etwas, dessen Vortrefflichkeit jede Beschreibung übersteigt\.
+Dass er selbst aber der bewundernswerteste aller Gesetzgeber ist,
+die je in irgendeinem Land gelebt haben,
+ob bei den Griechen oder bei den Barbaren,
+und dass seine Gesetze die bewundernswertesten aller Gesetze und wahrhaft göttlich sind,
+weil ihnen kein einzelner Punkt fehlt,
+den sie umfassen müssten,
+dafür gibt es den klarstmöglichen Beweis:
+Betrachtet man nämlich die Gesetze anderer Gesetzgeber mit der Vernunft,
+so wird man finden,
+dass sie durch unzählige Anlässe in Bewegung geraten,
+sei es wegen Kriegen,
+wegen Tyrannenherrschaften oder wegen anderer unerwarteter Ereignisse,
+die durch die verschiedenen Wandlungen und Neuerungen des Geschicks über Völker kommen\.
+Sehr oft hat auch die Üppigkeit,
+überreich an jeder Art von Überfluss und maßloser Verschwendung,
+Gesetze umgestürzt,
+weil die Menge grenzenloses Wohlergehen nicht zu ertragen vermag,
+sondern aus Übersättigung zur Anmaßung neigt;
+Anmaßung aber steht dem Gesetz entgegen\.
+Die Satzungen dieses Gesetzgebers dagegen sind fest,
+von Erschütterungen nicht ins Wanken gebracht,
+keiner Veränderung unterworfen,
+sondern gleichsam mit dem Siegel der Natur selbst geprägt;
+sie bleiben fest und dauerhaft von dem Tag an,
+an dem sie zuerst verkündet wurden,
+bis zum heutigen Tag,
+und man darf wohl hoffen,
+dass sie für alle künftige Zeit bestehen bleiben,
+als unsterblich,
+solange Sonne und Mond,
+der ganze Himmel und die ganze Welt Bestand haben\.
+Jedenfalls wurde,
+obwohl das Volk der Hebräer so viele Wandlungen erlebte,
+zum Glück wie zum entgegengesetzten Geschick hin,
+kein einziges,
+ja nicht einmal das geringste und unbedeutendste seiner Gebote geändert,
+da offenbar jeder ihren ehrwürdigen und gottähnlichen Charakter achtete;
+und was weder Hungersnot noch Seuche noch Krieg,
+weder ein Herrscher noch ein Tyrann,
+weder das Aufkommen irgendwelcher Leidenschaften oder böser Regungen gegen Seele oder Körper noch irgendein anderes Übel,
+ob von Gott verhängt oder von Menschen ausgegangen,
+je aufgelöst hat,
+das kann von uns gewiss unter keinem anderen Gesichtspunkt betrachtet werden als als Gegenstand höchster Bewunderung und als etwas,
+dessen Vortrefflichkeit jede Beschreibung übersteigt\.

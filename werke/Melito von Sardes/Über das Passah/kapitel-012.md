@@ -7,9 +7,13 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-0df08085-6dae-4f96-767a-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:1bbe506cfc7fef4b2ffc6c73313b279e07614e2a974c590416552cd756c6cc09`
-
-„Siehe,“ sagt Er, „ihr sollt ein Lamm nehmen, ohne Makel oder Fehler, und es am Abend mit den Söhnen Israels schlachten\. Und ihr sollt es in der Nacht hastig essen\. Und kein Knochen davon sollt ihr brechen\.“[^bible-a4c8dd2a-d106-47dc-8668-94564b6e7b51]
+„Siehe,“
+sagt Er,
+„ihr sollt ein Lamm nehmen,
+ohne Makel oder Fehler,
+und es am Abend mit den Söhnen Israels schlachten\.
+Und ihr sollt es in der Nacht hastig essen\.
+Und kein Knochen davon sollt ihr brechen\.“[^bible-a4c8dd2a-d106-47dc-8668-94564b6e7b51]
 
 ## Bibelverweise
 

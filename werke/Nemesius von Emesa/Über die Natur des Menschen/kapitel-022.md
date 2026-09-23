@@ -7,8 +7,94 @@ Autor: Nemesius von Emesa
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/nemesius-von-emesa/ueber-die-natur-des-menschen#kapitel-54085f86-b5ee-4cfd-60f9-08ded609d8f2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c635977a0d5b65b1477f463cd0c0831281ef10d52b4b99ccc2842445c8961b09`
+Vom Ernährenden\.
+Die natürlichen Kräfte des Ernährenden sind vier:
+die anziehende,
+die festhaltende,
+die umwandelnde und die ausscheidende\.
+Denn jeder Teil des Lebewesens zieht von Natur aus die ihm eigene Nahrung an sich,
+hält sie,
+nachdem er sie angezogen hat,
+fest,
+verwandelt sie,
+nachdem er sie festgehalten hat,
+in sich selbst und stößt so das Überflüssige aus\.
+Dies sind die Kräfte,
+welche die Ernährung der Teile des Körpers ordnen;
+aus ihnen entsteht das Wachstum,
+sowohl in Länge als auch in Breite\.
+Das Überflüssige wird ausgeschieden auf dem Bauchweg,
+durch den Harn,
+durch Erbrechen,
+durch Schweiß,
+durch den Mund,
+durch die Nasenöffnungen,
+durch die Ohren,
+durch die Augen,
+durch die Ausatmung und durch die unsichtbaren Poren\.
+Die übrigen Ausscheidungen sind also offenkundig\.
+Durch die Ohren aber wird das sogenannte Ohrenschmalz ausgeschieden,
+der Schmutz der Ohren;
+durch die Augen Tränen und Augenschleim;
+durch die Ausatmung das Rußartige der Wärme des Herzens\.
+Unsichtbare Poren nennt man die Ausdünstung des ganzen Körpers,
+bei der aus der Tiefe und durch die Zusammenziehung der Arterien sehr viele Dämpfe durch die Durchlässigkeit der Haut hinausgelangen\.
+Die Werkzeuge des Ernährenden sind der Mund,
+der Schlund und der Bauch,
+die Leber,
+alle Venen,
+die Eingeweide,
+beide Gallen und die Nieren\.
+Denn der Mund bereitet dem Bauch zuerst die Nahrung vor,
+indem er sie mit den Zähnen und der Zunge fein zerteilt\.
+Auch die Zunge leistet nämlich beim Kauen einen sehr großen Dienst,
+indem sie die Nahrung sammelt und den Zähnen zuführt,
+wie Müllerinnen mit der Hand das Getreide den Mühlsteinen zuführen\.
+Denn in gewisser Weise ist auch die Zunge die Hand des Kauens\.
+So bearbeitet,
+wird die Nahrung durch den Schlund in den Bauch weitergeleitet;
+denn der Schlund ist nicht nur ein Sinnesorgan für den Mangel,
+sondern auch der Durchgang der Speisen\.
+Beim Schlucken bewegt er sich nämlich nach oben,
+zieht die Nahrung an sich und leitet sie in den Bauch weiter\.
 
-Vom Ernährenden\. Die natürlichen Kräfte des Ernährenden sind vier: die anziehende, die festhaltende, die umwandelnde und die ausscheidende\. Denn jeder Teil des Lebewesens zieht von Natur aus die ihm eigene Nahrung an sich, hält sie, nachdem er sie angezogen hat, fest, verwandelt sie, nachdem er sie festgehalten hat, in sich selbst und stößt so das Überflüssige aus\. Dies sind die Kräfte, welche die Ernährung der Teile des Körpers ordnen; aus ihnen entsteht das Wachstum, sowohl in Länge als auch in Breite\. Das Überflüssige wird ausgeschieden auf dem Bauchweg, durch den Harn, durch Erbrechen, durch Schweiß, durch den Mund, durch die Nasenöffnungen, durch die Ohren, durch die Augen, durch die Ausatmung und durch die unsichtbaren Poren\. Die übrigen Ausscheidungen sind also offenkundig\. Durch die Ohren aber wird das sogenannte Ohrenschmalz ausgeschieden, der Schmutz der Ohren; durch die Augen Tränen und Augenschleim; durch die Ausatmung das Rußartige der Wärme des Herzens\. Unsichtbare Poren nennt man die Ausdünstung des ganzen Körpers, bei der aus der Tiefe und durch die Zusammenziehung der Arterien sehr viele Dämpfe durch die Durchlässigkeit der Haut hinausgelangen\. Die Werkzeuge des Ernährenden sind der Mund, der Schlund und der Bauch, die Leber, alle Venen, die Eingeweide, beide Gallen und die Nieren\. Denn der Mund bereitet dem Bauch zuerst die Nahrung vor, indem er sie mit den Zähnen und der Zunge fein zerteilt\. Auch die Zunge leistet nämlich beim Kauen einen sehr großen Dienst, indem sie die Nahrung sammelt und den Zähnen zuführt, wie Müllerinnen mit der Hand das Getreide den Mühlsteinen zuführen\. Denn in gewisser Weise ist auch die Zunge die Hand des Kauens\. So bearbeitet, wird die Nahrung durch den Schlund in den Bauch weitergeleitet; denn der Schlund ist nicht nur ein Sinnesorgan für den Mangel, sondern auch der Durchgang der Speisen\. Beim Schlucken bewegt er sich nämlich nach oben, zieht die Nahrung an sich und leitet sie in den Bauch weiter\.
-
-Der Bauch aber nimmt die Nahrung auf und scheidet das Brauchbare und Nährende vom Steinartigen, Holzartigen und Unnährbaren\. Das Brauchbare verwandelt er in Säfte und sendet es durch die Venen, die es von ihm her anziehen und zur Leber hinleiten, zur Leber hinauf\. Diese Venen gleichen Wurzeln der Leber: Sie ziehen die Nahrung aus dem Bauch, wie die Wurzeln der Pflanzen sie aus der Erde ziehen\. Denn der Bauch gleicht der Erde, die den Pflanzen die Nahrung darbietet; den Wurzeln gleichen die Venen, die den Saft aus dem Magen und den Eingeweiden durch das Gekröse zu den Pforten und den eingebuchteten Teilen der Leber hinaufführen; dem Stamm gleicht die Leber selbst; den Zweigen und Ästen aber gleichen die Venen, die sich von der Hohlvene verzweigen, die aus den gewölbten Teilen der Leber hervorgeht\. Denn die Leber nimmt den Saft aus dem Bauch auf, verkocht ihn mit und gleicht ihn sich an\. Weil ihr Fleisch dem Blut sehr ähnlich ist, verwandelt sie den Saft folgerichtig in Blut\. Das Blut aber wird durch die Milz, die Gallenblase und die Nieren gereinigt: Die Milz zieht den bodensatzartigen Anteil an und macht ihn sich zur eigenen Nahrung; die Gallenblase zieht das Scharfe an, das aus der Nahrung in den Säften zurückgeblieben ist; die Nieren ziehen das Wässrige zusammen mit dem übrigen Scharfen an\. So ist das Blut schließlich rein und brauchbar geworden und wird durch die Venen, die in alle Teile des Körpers ausgesät sind, ihnen zur Nahrung ausgeteilt\. Und so zieht jeder einzelne Körperteil das Blut an, hält es fest und verwandelt es in seine eigene Natur; den Überschuss aber leitet er an die benachbarten Teile weiter, sobald dieser zu einer für sie geeigneten Nahrung geworden ist\. Auf diese Weise werden alle Teile aus dem Blut ernährt, wachsen und bestehen fort, wobei die Leber selbst es bereitstellt\. Man sagt, dieser Teil des nichtvernünftigen Bereichs gehorche der Vernunft nicht, weil er sein eigenes Werk nicht nach unserer Meinung und nicht nach freier Entscheidung, sondern von Natur aus vollbringt\.
+Der Bauch aber nimmt die Nahrung auf und scheidet das Brauchbare und Nährende vom Steinartigen,
+Holzartigen und Unnährbaren\.
+Das Brauchbare verwandelt er in Säfte und sendet es durch die Venen,
+die es von ihm her anziehen und zur Leber hinleiten,
+zur Leber hinauf\.
+Diese Venen gleichen Wurzeln der Leber:
+Sie ziehen die Nahrung aus dem Bauch,
+wie die Wurzeln der Pflanzen sie aus der Erde ziehen\.
+Denn der Bauch gleicht der Erde,
+die den Pflanzen die Nahrung darbietet;
+den Wurzeln gleichen die Venen,
+die den Saft aus dem Magen und den Eingeweiden durch das Gekröse zu den Pforten und den eingebuchteten Teilen der Leber hinaufführen;
+dem Stamm gleicht die Leber selbst;
+den Zweigen und Ästen aber gleichen die Venen,
+die sich von der Hohlvene verzweigen,
+die aus den gewölbten Teilen der Leber hervorgeht\.
+Denn die Leber nimmt den Saft aus dem Bauch auf,
+verkocht ihn mit und gleicht ihn sich an\.
+Weil ihr Fleisch dem Blut sehr ähnlich ist,
+verwandelt sie den Saft folgerichtig in Blut\.
+Das Blut aber wird durch die Milz,
+die Gallenblase und die Nieren gereinigt:
+Die Milz zieht den bodensatzartigen Anteil an und macht ihn sich zur eigenen Nahrung;
+die Gallenblase zieht das Scharfe an,
+das aus der Nahrung in den Säften zurückgeblieben ist;
+die Nieren ziehen das Wässrige zusammen mit dem übrigen Scharfen an\.
+So ist das Blut schließlich rein und brauchbar geworden und wird durch die Venen,
+die in alle Teile des Körpers ausgesät sind,
+ihnen zur Nahrung ausgeteilt\.
+Und so zieht jeder einzelne Körperteil das Blut an,
+hält es fest und verwandelt es in seine eigene Natur;
+den Überschuss aber leitet er an die benachbarten Teile weiter,
+sobald dieser zu einer für sie geeigneten Nahrung geworden ist\.
+Auf diese Weise werden alle Teile aus dem Blut ernährt,
+wachsen und bestehen fort,
+wobei die Leber selbst es bereitstellt\.
+Man sagt,
+dieser Teil des nichtvernünftigen Bereichs gehorche der Vernunft nicht,
+weil er sein eigenes Werk nicht nach unserer Meinung und nicht nach freier Entscheidung,
+sondern von Natur aus vollbringt\.

@@ -7,8 +7,148 @@ Autor: Tertullian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/apologie#kapitel-36ec51a8-5c62-49af-09e5-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:8349ed5562620fff04857fab70ed1fbb7f14afe4680998604b0e18d635e4aa7d`
+Wir sind,
+denke ich,
+sämtlichen Anklagen entgegengetreten,
+die nach dem Blut der Christen verlangen\.
+Wir haben unsere ganze Lebensordnung dargelegt und gezeigt,
+wie wir beweisen können,
+dass es sich so verhält:
+aus dem Glauben und dem Alter der göttlichen Schriften sowie aus dem Zeugnis der geistlichen Mächte\.
+Wer wird es wagen,
+uns hinsichtlich der Wahrheit zu widerlegen,
+und zwar nicht mit Wortkunst,
+sondern mit derselben Art der Beweisführung,
+auf die wir unseren Beweis gegründet haben?
+Doch während sich unsere Wahrheit jedem Einzelnen erschließt,
+hält der Unglaube unsere Sache vorerst nicht für ein göttliches Werk,
+weil ihm das Gute an dieser Gemeinschaft verhüllt ist;
+sie selbst ist ja mittlerweile aus Erfahrung und durch den Umgang mit ihr bekannt\.
+Vielmehr sieht er darin eine Art Philosophie\.
+„Dasselbe“,
+heißt es,
+„mahnen und lehren auch die Philosophen:
+Unschuld,
+Gerechtigkeit,
+Geduld,
+Mäßigung und Keuschheit\.“
+Warum werden wir dann,
+wenn man uns hinsichtlich unserer Lebensführung mit ihnen vergleicht,
+nicht ebenso auch ihnen gleichgestellt,
+was die Freiheit und Straflosigkeit dieser Lebensführung betrifft?
+Oder warum werden nicht auch sie als unseresgleichen zu Pflichten gezwungen,
+deren Missachtung uns in Gefahr bringt?
+Denn wer zwingt einen Philosophen,
+zu opfern,
+einen Eid zu schwören oder am hellen Tag nutzlose Lampen herauszustellen?
+Im Gegenteil:
+Sie greifen eure Götter öffentlich an und klagen eure abergläubischen Bräuche sogar in Schriften an,
+während ihr ihnen Beifall spendet\.
+Viele bellen auch gegen die Herrscher,
+und ihr duldet es\.
+Eher belohnt man sie mit Statuen und Gehältern,
+als dass man sie zu den wilden Tieren verurteilt\.
+Und das mit Recht,
+denn man nennt sie Philosophen,
+nicht Christen\.
+Vor diesem Namen der Philosophen fliehen die Dämonen nicht\.
+Warum auch?
+Die Philosophen rechnen ja die Dämonen zu den Göttern\.
+Von Sokrates stammt der Ausspruch:
+„Wenn das Dämonium es erlaubt\.“
+Obwohl er manches von der Wahrheit erkannte und die Götter leugnete,
+trug er dennoch gegen Ende seines Lebens auf,
+Äskulap einen Hahn zu opfern,
+ich glaube,
+zu Ehren von dessen Vater,
+weil Apollo Sokrates zum weisesten aller Menschen erklärt hatte\.
+O unbedachter Apollo\!
+Er bescheinigte jenem Mann Weisheit,
+der leugnete,
+dass es Götter gebe\.
+Je heftiger der Hass gegen die Wahrheit entbrennt,
+desto mehr Anstoß erregt,
+wer sie aus Glauben vertritt\.
+Wer sie hingegen verfälscht und nachahmt,
+gewinnt gerade dadurch die Gunst ihrer Verfolger\.
+Als Spötter und Verderber ahmen die Philosophen die Wahrheit als Feinde nach und verderben sie durch diese Nachahmung,
+denn sie trachten nach Ruhm\.
+Die Christen dagegen erstreben sie notwendig und vertreten sie unverfälscht,
+denn ihnen liegt ihr Heil am Herzen\.
+Somit sind wir ihnen weder im Wissen noch in der Lebensführung gleich,
+wie ihr meint\.
 
-Wir sind, denke ich, sämtlichen Anklagen entgegengetreten, die nach dem Blut der Christen verlangen\. Wir haben unsere ganze Lebensordnung dargelegt und gezeigt, wie wir beweisen können, dass es sich so verhält: aus dem Glauben und dem Alter der göttlichen Schriften sowie aus dem Zeugnis der geistlichen Mächte\. Wer wird es wagen, uns hinsichtlich der Wahrheit zu widerlegen, und zwar nicht mit Wortkunst, sondern mit derselben Art der Beweisführung, auf die wir unseren Beweis gegründet haben? Doch während sich unsere Wahrheit jedem Einzelnen erschließt, hält der Unglaube unsere Sache vorerst nicht für ein göttliches Werk, weil ihm das Gute an dieser Gemeinschaft verhüllt ist; sie selbst ist ja mittlerweile aus Erfahrung und durch den Umgang mit ihr bekannt\. Vielmehr sieht er darin eine Art Philosophie\. „Dasselbe“, heißt es, „mahnen und lehren auch die Philosophen: Unschuld, Gerechtigkeit, Geduld, Mäßigung und Keuschheit\.“ Warum werden wir dann, wenn man uns hinsichtlich unserer Lebensführung mit ihnen vergleicht, nicht ebenso auch ihnen gleichgestellt, was die Freiheit und Straflosigkeit dieser Lebensführung betrifft? Oder warum werden nicht auch sie als unseresgleichen zu Pflichten gezwungen, deren Missachtung uns in Gefahr bringt? Denn wer zwingt einen Philosophen, zu opfern, einen Eid zu schwören oder am hellen Tag nutzlose Lampen herauszustellen? Im Gegenteil: Sie greifen eure Götter öffentlich an und klagen eure abergläubischen Bräuche sogar in Schriften an, während ihr ihnen Beifall spendet\. Viele bellen auch gegen die Herrscher, und ihr duldet es\. Eher belohnt man sie mit Statuen und Gehältern, als dass man sie zu den wilden Tieren verurteilt\. Und das mit Recht, denn man nennt sie Philosophen, nicht Christen\. Vor diesem Namen der Philosophen fliehen die Dämonen nicht\. Warum auch? Die Philosophen rechnen ja die Dämonen zu den Göttern\. Von Sokrates stammt der Ausspruch: „Wenn das Dämonium es erlaubt\.“ Obwohl er manches von der Wahrheit erkannte und die Götter leugnete, trug er dennoch gegen Ende seines Lebens auf, Äskulap einen Hahn zu opfern, ich glaube, zu Ehren von dessen Vater, weil Apollo Sokrates zum weisesten aller Menschen erklärt hatte\. O unbedachter Apollo\! Er bescheinigte jenem Mann Weisheit, der leugnete, dass es Götter gebe\. Je heftiger der Hass gegen die Wahrheit entbrennt, desto mehr Anstoß erregt, wer sie aus Glauben vertritt\. Wer sie hingegen verfälscht und nachahmt, gewinnt gerade dadurch die Gunst ihrer Verfolger\. Als Spötter und Verderber ahmen die Philosophen die Wahrheit als Feinde nach und verderben sie durch diese Nachahmung, denn sie trachten nach Ruhm\. Die Christen dagegen erstreben sie notwendig und vertreten sie unverfälscht, denn ihnen liegt ihr Heil am Herzen\. Somit sind wir ihnen weder im Wissen noch in der Lebensführung gleich, wie ihr meint\.
-
-Denn welche sichere Auskunft gab Thales, jener Erste unter den Naturphilosophen, dem Krösus, als dieser ihn nach der Gottheit fragte? Immer wieder erbat er sich Bedenkzeit, ohne zu einem Ergebnis zu kommen\. Jeder christliche Handwerker dagegen findet Gott und zeigt ihn anderen; darüber hinaus weist er auch durch die Wirklichkeit alles nach, was man über Gott wissen will\. Und das, obwohl Plato behauptet, der Schöpfer des Alls sei schwer zu finden und, wenn man ihn gefunden habe, nur schwer allen zu verkünden\. Wenn wir nun in Sachen Keuschheit zum Vergleich gefordert werden, lese ich einen Teil des athenischen Urteils: Sokrates wurde als Verführer der Jugend verurteilt\. Der Christ missbraucht nicht einmal eine Frau\. Ich weiß auch von der Hure Phryne, die durch die Begierde des über ihr liegenden Diogenes in Hitze geriet; und ich höre, ein gewisser Speusipp aus Platos Schule sei beim Ehebruch ums Leben gekommen\. Der Christ wird allein für seine Frau zum Mann geboren\. Demokrit blendete sich selbst, weil er keine Frau ansehen konnte, ohne sie zu begehren, und litt, wenn er sie nicht besitzen konnte\. Durch diese Strafe gestand er seine Unbeherrschtheit ein\. Der Christ dagegen behält seine Augen und sieht die Frauen doch nicht; sein Inneres ist blind für die Begierde\. Soll ich die Rechtschaffenheit verteidigen? Seht: Mit schmutzigen Füßen zertritt Diogenes Platos prächtige Polster, doch nur aus einer anderen Art von Hochmut\. Der Christ erhebt sich nicht einmal über einen Armen\. Soll ich über Bescheidenheit streiten? Seht: Pythagoras strebte in Thurioi, Zenon in Priene nach der Tyrannenherrschaft; der Christ dagegen nicht einmal nach dem Amt eines Ädils\. Soll ich die Gelassenheit vergleichen? Lykurg wählte den Hungertod, weil die Spartaner seine Gesetze geändert hatten; der Christ dankt selbst dann, wenn er verurteilt wird\. Soll ich sie in der Treue vergleichen? Anaxagoras verweigerte seinen Gastgebern das ihm anvertraute Gut; ein Christ gilt sogar bei Außenstehenden als treu\. Soll ich bei der Aufrichtigkeit verweilen? Aristoteles vertrieb seinen Vertrauten Hermias auf schändliche Weise von dessen Platz; der Christ verletzt nicht einmal seinen Feind\. Derselbe Aristoteles schmeichelte Alexander, den er vielmehr hätte lenken sollen, ebenso schändlich, wie Plato sich Dionysios um des Bauches willen verkaufte\. Aristipp schwelgte in Purpur und verbarg dies hinter dem eindrucksvollen Anschein von Ernsthaftigkeit\. Ichthyas wurde getötet, als er einen Anschlag auf seine Stadt vorbereitete\. Kein Christ hat jemals versucht, so etwas zu tun, auch wenn die Seinen unter allen erdenklichen Grausamkeiten vernichtet wurden\. Nun wird jemand sagen, auch von den Unseren wichen einige von der Richtschnur unserer Lebensführung ab\. Doch dann gelten sie bei uns nicht länger als Christen\. Jene Philosophen dagegen behalten trotz solcher Taten den Namen und die Ehre der Weisheit\. Was also haben Philosoph und Christ gemeinsam, der Schüler Griechenlands und der Schüler des Himmels, der Händler des Ruhmes und der des Lebens, der Arbeiter mit Worten und der mit Taten, der die Dinge aufbaut und der sie zerstört, der Freund und der Feind des Irrtums, der die Wahrheit verfälscht und der sie unversehrt bewahrt und zum Ausdruck bringt, der sie bestiehlt und der sie behütet?
+Denn welche sichere Auskunft gab Thales,
+jener Erste unter den Naturphilosophen,
+dem Krösus,
+als dieser ihn nach der Gottheit fragte?
+Immer wieder erbat er sich Bedenkzeit,
+ohne zu einem Ergebnis zu kommen\.
+Jeder christliche Handwerker dagegen findet Gott und zeigt ihn anderen;
+darüber hinaus weist er auch durch die Wirklichkeit alles nach,
+was man über Gott wissen will\.
+Und das,
+obwohl Plato behauptet,
+der Schöpfer des Alls sei schwer zu finden und,
+wenn man ihn gefunden habe,
+nur schwer allen zu verkünden\.
+Wenn wir nun in Sachen Keuschheit zum Vergleich gefordert werden,
+lese ich einen Teil des athenischen Urteils:
+Sokrates wurde als Verführer der Jugend verurteilt\.
+Der Christ missbraucht nicht einmal eine Frau\.
+Ich weiß auch von der Hure Phryne,
+die durch die Begierde des über ihr liegenden Diogenes in Hitze geriet;
+und ich höre,
+ein gewisser Speusipp aus Platos Schule sei beim Ehebruch ums Leben gekommen\.
+Der Christ wird allein für seine Frau zum Mann geboren\.
+Demokrit blendete sich selbst,
+weil er keine Frau ansehen konnte,
+ohne sie zu begehren,
+und litt,
+wenn er sie nicht besitzen konnte\.
+Durch diese Strafe gestand er seine Unbeherrschtheit ein\.
+Der Christ dagegen behält seine Augen und sieht die Frauen doch nicht;
+sein Inneres ist blind für die Begierde\.
+Soll ich die Rechtschaffenheit verteidigen?
+Seht:
+Mit schmutzigen Füßen zertritt Diogenes Platos prächtige Polster,
+doch nur aus einer anderen Art von Hochmut\.
+Der Christ erhebt sich nicht einmal über einen Armen\.
+Soll ich über Bescheidenheit streiten?
+Seht:
+Pythagoras strebte in Thurioi,
+Zenon in Priene nach der Tyrannenherrschaft;
+der Christ dagegen nicht einmal nach dem Amt eines Ädils\.
+Soll ich die Gelassenheit vergleichen?
+Lykurg wählte den Hungertod,
+weil die Spartaner seine Gesetze geändert hatten;
+der Christ dankt selbst dann,
+wenn er verurteilt wird\.
+Soll ich sie in der Treue vergleichen?
+Anaxagoras verweigerte seinen Gastgebern das ihm anvertraute Gut;
+ein Christ gilt sogar bei Außenstehenden als treu\.
+Soll ich bei der Aufrichtigkeit verweilen?
+Aristoteles vertrieb seinen Vertrauten Hermias auf schändliche Weise von dessen Platz;
+der Christ verletzt nicht einmal seinen Feind\.
+Derselbe Aristoteles schmeichelte Alexander,
+den er vielmehr hätte lenken sollen,
+ebenso schändlich,
+wie Plato sich Dionysios um des Bauches willen verkaufte\.
+Aristipp schwelgte in Purpur und verbarg dies hinter dem eindrucksvollen Anschein von Ernsthaftigkeit\.
+Ichthyas wurde getötet,
+als er einen Anschlag auf seine Stadt vorbereitete\.
+Kein Christ hat jemals versucht,
+so etwas zu tun,
+auch wenn die Seinen unter allen erdenklichen Grausamkeiten vernichtet wurden\.
+Nun wird jemand sagen,
+auch von den Unseren wichen einige von der Richtschnur unserer Lebensführung ab\.
+Doch dann gelten sie bei uns nicht länger als Christen\.
+Jene Philosophen dagegen behalten trotz solcher Taten den Namen und die Ehre der Weisheit\.
+Was also haben Philosoph und Christ gemeinsam,
+der Schüler Griechenlands und der Schüler des Himmels,
+der Händler des Ruhmes und der des Lebens,
+der Arbeiter mit Worten und der mit Taten,
+der die Dinge aufbaut und der sie zerstört,
+der Freund und der Feind des Irrtums,
+der die Wahrheit verfälscht und der sie unversehrt bewahrt und zum Ausdruck bringt,
+der sie bestiehlt und der sie behütet?

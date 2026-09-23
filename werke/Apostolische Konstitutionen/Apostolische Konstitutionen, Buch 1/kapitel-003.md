@@ -7,15 +7,204 @@ Autor: Apostolische Konstitutionen
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-konstitutionen/apostolische-konstitutionen-buch-1#kapitel-b1924d92-f991-42ed-86b3-08dd08e25f52).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b92cedaf7845649e079e3f6ee2e33ca62793dee0e9adba4241d61cdbe442c691`
+Gebote an die Frauen\.
+Die Frau soll ihrem eigenen Ehemann gehorsam sein,
+denn „der Mann ist das Haupt der Frau\.“[^bible-de8075ef-db51-47d7-9fce-29602e266f11]
+Aber Christus ist das Haupt des Mannes,
+der in der Gerechtigkeit wandelt;
+und „das Haupt Christi ist Gott,“[^bible-377148e2-db97-445d-8747-7fb22992ae9e]
+sogar Sein Vater\.
+Daher,
+o Frau,
+fürchte deinen Ehemann nach dem Allmächtigen,
+unserem Gott und Vater,
+dem Herrn dieser Welt und der kommenden Welt,
+dem Schöpfer alles Lebendigen und jeder Macht;
+und nach Seinem geliebten Sohn,
+unserem Herrn Jesus Christus,
+durch den Gott Ehre gebührt\.
+Du sollst deinen Ehemann fürchten und ihn ehren,
+ihm allein gefallen und dich in den verschiedenen Angelegenheiten des Lebens ihm angenehm machen,
+damit dein Ehemann um deinetwillen gesegnet genannt werden kann,
+gemäß der Weisheit Salomos,
+die spricht:
+„Wer kann eine tugendhafte Frau finden?
+Denn eine solche ist kostbarer als kostbare Steine\.
+Das Herz ihres Mannes vertraut ihr sicher,
+sodass er keinen Mangel an Beute hat;
+denn sie tut ihrem Mann all die Tage ihres Lebens Gutes\.
+Sie kauft Wolle und Flachs und arbeitet mit ihren Händen an profitablen Dingen\.
+Sie ist wie die Schiffe der Kaufleute,
+sie bringt ihre Nahrung von weit her\.
+Sie steht auch auf,
+während es noch Nacht ist,
+und gibt ihrem Hausstand zu essen und ihren Mägden Nahrung\.
+Sie prüft ein Feld und kauft es;
+mit der Frucht ihrer Hände pflanzt sie einen Weinberg\.
+Sie umgürtet ihre Lenden mit Stärke und stärkt ihre Arme\.
+Sie schmeckt,
+dass es gut ist zu arbeiten;
+ihre Lampe erlischt die ganze Nacht nicht\.
+Sie streckt ihre Hände aus für nützliche Arbeiten und legt ihre Hände an die Spinnrad\.
+Sie öffnet ihre Hände für die Bedürftigen;
+ja,
+sie reicht ihre Hände den Armen\.
+Ihr Mann kümmert sich nicht um die Angelegenheiten seines Hauses;
+denn alle,
+die bei ihr sind,
+sind mit doppelten Kleidern bekleidet\.
+Sie macht Mäntel für ihren Mann,
+Gewänder aus Seide und Purpur\.
+Ihr Mann ist angesehen an den Toren,
+wenn er mit den Ältesten des Landes sitzt\.
+Sie macht feine Leinenstoffe und verkauft sie an die Phönizier und Gürtel an die Kanaaniter\.
+Sie ist mit Herrlichkeit und Schönheit bekleidet und freut sich in den letzten Tagen\.
+Sie öffnet ihren Mund mit Weisheit und Bedacht und bringt ihre Worte in Ordnung\.
+Die Wege ihres Haushalts sind streng;
+sie isst nicht das Brot der Untätigkeit\.
+Sie wird ihren Mund mit Weisheit und Vorsicht öffnen,
+und auf ihrer Zunge sind die Gesetze der Barmherzigkeit\.
+Ihre Kinder erheben sich und loben sie für ihren Reichtum,
+und ihr Mann stimmt in ihr Lob ein\.
+Viele Töchter haben Reichtum erlangt und wohlgehandelt,
+aber du übertriffst und überstrahlst sie alle\.
+Mögen Lügen und die eitlen Schönheiten einer Frau fern von dir sein\.
+Denn eine fromme Frau ist gesegnet\.
+Lass sie die Furcht des Herrn loben:
+Gib ihr von den Früchten ihrer Lippen,
+und lass ihren Mann an den Toren gelobt werden\.“[^bible-6785f218-75f6-4dd9-b4e7-cb5a24d9b100]
 
-Gebote an die Frauen\. Die Frau soll ihrem eigenen Ehemann gehorsam sein, denn „der Mann ist das Haupt der Frau\.“[^bible-de8075ef-db51-47d7-9fce-29602e266f11] Aber Christus ist das Haupt des Mannes, der in der Gerechtigkeit wandelt; und „das Haupt Christi ist Gott,“[^bible-377148e2-db97-445d-8747-7fb22992ae9e] sogar Sein Vater\. Daher, o Frau, fürchte deinen Ehemann nach dem Allmächtigen, unserem Gott und Vater, dem Herrn dieser Welt und der kommenden Welt, dem Schöpfer alles Lebendigen und jeder Macht; und nach Seinem geliebten Sohn, unserem Herrn Jesus Christus, durch den Gott Ehre gebührt\. Du sollst deinen Ehemann fürchten und ihn ehren, ihm allein gefallen und dich in den verschiedenen Angelegenheiten des Lebens ihm angenehm machen, damit dein Ehemann um deinetwillen gesegnet genannt werden kann, gemäß der Weisheit Salomos, die spricht: „Wer kann eine tugendhafte Frau finden? Denn eine solche ist kostbarer als kostbare Steine\. Das Herz ihres Mannes vertraut ihr sicher, sodass er keinen Mangel an Beute hat; denn sie tut ihrem Mann all die Tage ihres Lebens Gutes\. Sie kauft Wolle und Flachs und arbeitet mit ihren Händen an profitablen Dingen\. Sie ist wie die Schiffe der Kaufleute, sie bringt ihre Nahrung von weit her\. Sie steht auch auf, während es noch Nacht ist, und gibt ihrem Hausstand zu essen und ihren Mägden Nahrung\. Sie prüft ein Feld und kauft es; mit der Frucht ihrer Hände pflanzt sie einen Weinberg\. Sie umgürtet ihre Lenden mit Stärke und stärkt ihre Arme\. Sie schmeckt, dass es gut ist zu arbeiten; ihre Lampe erlischt die ganze Nacht nicht\. Sie streckt ihre Hände aus für nützliche Arbeiten und legt ihre Hände an die Spinnrad\. Sie öffnet ihre Hände für die Bedürftigen; ja, sie reicht ihre Hände den Armen\. Ihr Mann kümmert sich nicht um die Angelegenheiten seines Hauses; denn alle, die bei ihr sind, sind mit doppelten Kleidern bekleidet\. Sie macht Mäntel für ihren Mann, Gewänder aus Seide und Purpur\. Ihr Mann ist angesehen an den Toren, wenn er mit den Ältesten des Landes sitzt\. Sie macht feine Leinenstoffe und verkauft sie an die Phönizier und Gürtel an die Kanaaniter\. Sie ist mit Herrlichkeit und Schönheit bekleidet und freut sich in den letzten Tagen\. Sie öffnet ihren Mund mit Weisheit und Bedacht und bringt ihre Worte in Ordnung\. Die Wege ihres Haushalts sind streng; sie isst nicht das Brot der Untätigkeit\. Sie wird ihren Mund mit Weisheit und Vorsicht öffnen, und auf ihrer Zunge sind die Gesetze der Barmherzigkeit\. Ihre Kinder erheben sich und loben sie für ihren Reichtum, und ihr Mann stimmt in ihr Lob ein\. Viele Töchter haben Reichtum erlangt und wohlgehandelt, aber du übertriffst und überstrahlst sie alle\. Mögen Lügen und die eitlen Schönheiten einer Frau fern von dir sein\. Denn eine fromme Frau ist gesegnet\. Lass sie die Furcht des Herrn loben: Gib ihr von den Früchten ihrer Lippen, und lass ihren Mann an den Toren gelobt werden\.“[^bible-6785f218-75f6-4dd9-b4e7-cb5a24d9b100]
+Und erneut:
+„Eine tugendhafte Frau ist eine Krone für ihren Mann\.“[^bible-22e90b87-cbe3-46c5-ab93-6223ba920e1c]
+Und wieder:
+„Viele Frauen haben ein Haus erbaut\.“
+Du hast gelernt,
+welche großen Lobpreisungen eine kluge und liebevolle Frau vom Herrn Gott erhält\.
+Wenn du eine der Treuen sein und dem Herrn gefallen möchtest,
+o Frau,
+füge deiner Schönheit keine Schmuckstücke hinzu,
+um anderen Männern zu gefallen;
+trage auch keine feinen Stickereien,
+Gewände oder Schuhe,
+um diejenigen zu verführen,
+die sich von solchen Dingen angezogen fühlen\.
+Denn obwohl du diese gottlosen Dinge nicht mit der Absicht tust,
+selbst zu sündigen,
+sondern nur um der Zierde und Schönheit willen,
+wirst du dennoch nicht der zukünftigen Strafe entkommen,
+da du einen anderen dazu veranlasst hast,
+dich so sehr zu betrachten,
+dass er nach dir begehrt,
+und weil du nicht darauf geachtet hast,
+sowohl selbst die Sünde zu vermeiden als auch anderen keinen Anstoß zu geben\.
+Wenn du dich jedoch hingibst und das Verbrechen begehst,
+bist du sowohl für deine eigene Sünde schuldig als auch die Ursache für den Ruin der Seele des anderen\.
+Darüber hinaus,
+wenn du mit einem Mann Unzucht treibst und anfängst zu verzweifeln,
+wirst du dich wieder von deiner Pflicht abwenden,
+anderen folgen und gefühllos werden;
+wie es im göttlichen Wort heißt:
+„Wenn ein gottloser Mensch in die Tiefe des Bösen kommt,
+wird er zum Spötter,
+und dann kommen Schande und Tadel über ihn\.“
+Denn eine solche Frau,
+die danach verwundet wird,
+verführt ohne Einschränkung die Seelen der Toren\.
+Lasst uns daher lernen,
+wie das göttliche Wort über solche Frauen triumphiert,
+indem es sagt:
+„Ich hasste eine Frau,
+die eine Falle und ein Netz für das Herz der Männer ist,
+schlimmer als der Tod;
+ihre Hände sind Fesseln\.“[^bible-9b56fd33-8040-44d2-aa44-4e4c9156bfc5]
+Und in einem anderen Abschnitt:
+„Wie ein Goldschmuck in der Schnauze eines Schweins,
+so ist Schönheit bei einer gottlosen Frau\.“[^bible-d62b7fd0-09cc-4b41-a1bc-c1f63a3f976f]
+Und erneut:
+„Wie ein Wurm im Holz,
+so zerstört eine gottlose Frau ihren Mann\.“[^bible-382f17f3-6014-4223-894e-713b0fd8b408]
+Und wieder:
+„Es ist besser,
+in der Ecke des Daches zu wohnen,
+als mit einer streitbaren und zornigen Frau\.“[^bible-2a8110a5-ef4e-4b47-ab17-cb9a5953adc7]
+Ihr,
+die ihr christliche Frauen seid,
+ahmt solche nicht nach\.
+Aber ihr,
+die ihr treu zu eurem eigenen Mann sein wollt,
+achtet darauf,
+ihm allein zu gefallen\.
+Und wenn ihr auf der Straße seid,
+verdeckt euren Kopf;
+denn durch ein solches Bedecken vermeidet ihr,
+von müßigen Personen betrachtet zu werden\.
+Bemalt euer Gesicht nicht,
+das Gottes Werk ist;
+denn es gibt keinen Teil von dir,
+der Schmuck benötigt,
+da alles,
+was Gott gemacht hat,
+sehr gut ist\.
+Aber die wollüstige zusätzliche Verschönerung dessen,
+was bereits gut ist,
+ist eine Beleidigung für die Güte des Schöpfers\.
+Schaut beim Gehen nach unten,
+während ihr euch wie es sich für Frauen gehört,
+verhüllt\.
 
-Und erneut: „Eine tugendhafte Frau ist eine Krone für ihren Mann\.“[^bible-22e90b87-cbe3-46c5-ab93-6223ba920e1c] Und wieder: „Viele Frauen haben ein Haus erbaut\.“ Du hast gelernt, welche großen Lobpreisungen eine kluge und liebevolle Frau vom Herrn Gott erhält\. Wenn du eine der Treuen sein und dem Herrn gefallen möchtest, o Frau, füge deiner Schönheit keine Schmuckstücke hinzu, um anderen Männern zu gefallen; trage auch keine feinen Stickereien, Gewände oder Schuhe, um diejenigen zu verführen, die sich von solchen Dingen angezogen fühlen\. Denn obwohl du diese gottlosen Dinge nicht mit der Absicht tust, selbst zu sündigen, sondern nur um der Zierde und Schönheit willen, wirst du dennoch nicht der zukünftigen Strafe entkommen, da du einen anderen dazu veranlasst hast, dich so sehr zu betrachten, dass er nach dir begehrt, und weil du nicht darauf geachtet hast, sowohl selbst die Sünde zu vermeiden als auch anderen keinen Anstoß zu geben\. Wenn du dich jedoch hingibst und das Verbrechen begehst, bist du sowohl für deine eigene Sünde schuldig als auch die Ursache für den Ruin der Seele des anderen\. Darüber hinaus, wenn du mit einem Mann Unzucht treibst und anfängst zu verzweifeln, wirst du dich wieder von deiner Pflicht abwenden, anderen folgen und gefühllos werden; wie es im göttlichen Wort heißt: „Wenn ein gottloser Mensch in die Tiefe des Bösen kommt, wird er zum Spötter, und dann kommen Schande und Tadel über ihn\.“ Denn eine solche Frau, die danach verwundet wird, verführt ohne Einschränkung die Seelen der Toren\. Lasst uns daher lernen, wie das göttliche Wort über solche Frauen triumphiert, indem es sagt: „Ich hasste eine Frau, die eine Falle und ein Netz für das Herz der Männer ist, schlimmer als der Tod; ihre Hände sind Fesseln\.“[^bible-9b56fd33-8040-44d2-aa44-4e4c9156bfc5] Und in einem anderen Abschnitt: „Wie ein Goldschmuck in der Schnauze eines Schweins, so ist Schönheit bei einer gottlosen Frau\.“[^bible-d62b7fd0-09cc-4b41-a1bc-c1f63a3f976f] Und erneut: „Wie ein Wurm im Holz, so zerstört eine gottlose Frau ihren Mann\.“[^bible-382f17f3-6014-4223-894e-713b0fd8b408] Und wieder: „Es ist besser, in der Ecke des Daches zu wohnen, als mit einer streitbaren und zornigen Frau\.“[^bible-2a8110a5-ef4e-4b47-ab17-cb9a5953adc7] Ihr, die ihr christliche Frauen seid, ahmt solche nicht nach\. Aber ihr, die ihr treu zu eurem eigenen Mann sein wollt, achtet darauf, ihm allein zu gefallen\. Und wenn ihr auf der Straße seid, verdeckt euren Kopf; denn durch ein solches Bedecken vermeidet ihr, von müßigen Personen betrachtet zu werden\. Bemalt euer Gesicht nicht, das Gottes Werk ist; denn es gibt keinen Teil von dir, der Schmuck benötigt, da alles, was Gott gemacht hat, sehr gut ist\. Aber die wollüstige zusätzliche Verschönerung dessen, was bereits gut ist, ist eine Beleidigung für die Güte des Schöpfers\. Schaut beim Gehen nach unten, während ihr euch wie es sich für Frauen gehört, verhüllt\.
+Vermeide auch die unordentliche Praxis,
+am selben Ort mit Männern zu baden;
+denn viele sind die Netze des Bösen\.
+Und lass nicht zu,
+dass eine christliche Frau mit einem Hermaphrodit badet;
+denn wenn sie ihr Gesicht verhüllen und es mit Anstand vor fremden Männern verbergen soll,
+wie kann sie dann ertragen,
+nackt mit Männern in das Bad zu gehen?
+Wenn das Bad jedoch für Frauen bestimmt ist,
+soll sie ordentlich,
+bescheiden und maßvoll baden\.
+Sie soll jedoch nicht ohne Anlass,
+nicht zu oft,
+nicht zur Mittagszeit und,
+wenn möglich,
+nicht jeden Tag baden;
+die zehnte Stunde des Tages sollte die festgelegte Zeit für solch ein angemessenes Baden sein\.
+Es ist ratsam,
+dass du,
+als christliche Frau,
+stets eine Neugier vermeidest,
+die viele Augen anzieht\.
 
-Vermeide auch die unordentliche Praxis, am selben Ort mit Männern zu baden; denn viele sind die Netze des Bösen\. Und lass nicht zu, dass eine christliche Frau mit einem Hermaphrodit badet; denn wenn sie ihr Gesicht verhüllen und es mit Anstand vor fremden Männern verbergen soll, wie kann sie dann ertragen, nackt mit Männern in das Bad zu gehen? Wenn das Bad jedoch für Frauen bestimmt ist, soll sie ordentlich, bescheiden und maßvoll baden\. Sie soll jedoch nicht ohne Anlass, nicht zu oft, nicht zur Mittagszeit und, wenn möglich, nicht jeden Tag baden; die zehnte Stunde des Tages sollte die festgelegte Zeit für solch ein angemessenes Baden sein\. Es ist ratsam, dass du, als christliche Frau, stets eine Neugier vermeidest, die viele Augen anzieht\.
-
-Was den Streitgeist betrifft, so sei dir bewusst, ihn bei allen Menschen zu zügeln, insbesondere bei deinem Ehemann\. Denn wenn er ein Ungläubiger oder Heide ist, könnte er Anstoß nehmen oder Gott lästern, und du würdest an einem Unheil von Gott teilhaben\. Denn Er sagt: „Wehe dem, durch den mein Name unter den Heiden gelästert wird“[^bible-67b5ba45-c897-4e55-a15d-c04c8836aa61]; und falls dein Ehemann ein Christ ist, könnte er gezwungen sein, aus seinem Wissen über die Schrift zu sagen, was im Buch der Weisheit geschrieben steht: „Es ist besser, in der Wüste zu wohnen, als bei einer streitsüchtigen und zornigen Frau\.“[^bible-90eaa39b-294b-4eee-b166-2b93154033e8] Ihr Frauen, zeigt daher eure Frömmigkeit durch eure Bescheidenheit und Sanftmut gegenüber allen außerhalb der Kirche, seien es Frauen oder Männer, um deren Bekehrung und Verbesserung im Glauben zu fördern\. Und da wir euch gewarnt und euch kurz unterrichtet haben, die wir als unsere Schwestern, Töchter und Mitglieder schätzen, seid weise und haltet euer Leben lang einen tadellosen Lebenswandel ein\. Strebt danach, solche Arten des Wissens zu erlangen, durch die ihr das Reich unseres Herrn erreichen und Ihm gefallen könnt, und so für immer und ewig ruhen dürft\. Amen\.
+Was den Streitgeist betrifft,
+so sei dir bewusst,
+ihn bei allen Menschen zu zügeln,
+insbesondere bei deinem Ehemann\.
+Denn wenn er ein Ungläubiger oder Heide ist,
+könnte er Anstoß nehmen oder Gott lästern,
+und du würdest an einem Unheil von Gott teilhaben\.
+Denn Er sagt:
+„Wehe dem,
+durch den mein Name unter den Heiden gelästert wird“[^bible-67b5ba45-c897-4e55-a15d-c04c8836aa61];
+und falls dein Ehemann ein Christ ist,
+könnte er gezwungen sein,
+aus seinem Wissen über die Schrift zu sagen,
+was im Buch der Weisheit geschrieben steht:
+„Es ist besser,
+in der Wüste zu wohnen,
+als bei einer streitsüchtigen und zornigen Frau\.“[^bible-90eaa39b-294b-4eee-b166-2b93154033e8]
+Ihr Frauen,
+zeigt daher eure Frömmigkeit durch eure Bescheidenheit und Sanftmut gegenüber allen außerhalb der Kirche,
+seien es Frauen oder Männer,
+um deren Bekehrung und Verbesserung im Glauben zu fördern\.
+Und da wir euch gewarnt und euch kurz unterrichtet haben,
+die wir als unsere Schwestern,
+Töchter und Mitglieder schätzen,
+seid weise und haltet euer Leben lang einen tadellosen Lebenswandel ein\.
+Strebt danach,
+solche Arten des Wissens zu erlangen,
+durch die ihr das Reich unseres Herrn erreichen und Ihm gefallen könnt,
+und so für immer und ewig ruhen dürft\.
+Amen\.
 
 ## Bibelverweise
 

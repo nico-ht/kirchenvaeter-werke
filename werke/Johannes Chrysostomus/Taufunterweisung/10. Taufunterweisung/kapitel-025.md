@@ -7,6 +7,14 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/10-taufunterweisung#kapitel-defae60f-e623-4636-0f2a-08ddf11fefb2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7ee70414d4dcd32cc24894258445bff69679bec296e705ab9444d2157094fcf4`
-
-Was hätte er tun sollen? Ihr erinnert euch an das, was ich gesagt habe: Ob wir den Eid halten oder ihn brechen, wir werden so oder so bestraft\. Hätte er ihr das Haupt des Propheten geben sollen? Die Strafe war unerträglich\. Hätte er es nicht geben sollen? Dann wird man ihn des Meineids beschuldigen\. Seht ihr, wie auf beiden Seiten ein Abgrund klafft?
+Was hätte er tun sollen?
+Ihr erinnert euch an das,
+was ich gesagt habe:
+Ob wir den Eid halten oder ihn brechen,
+wir werden so oder so bestraft\.
+Hätte er ihr das Haupt des Propheten geben sollen?
+Die Strafe war unerträglich\.
+Hätte er es nicht geben sollen?
+Dann wird man ihn des Meineids beschuldigen\.
+Seht ihr,
+wie auf beiden Seiten ein Abgrund klafft?

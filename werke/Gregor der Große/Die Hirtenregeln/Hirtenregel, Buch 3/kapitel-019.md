@@ -7,13 +7,208 @@ Autor: Gregor der Große
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/hirtenregel-buch-3#kapitel-fe43870c-1e2f-4d86-477e-08dd47ac18f8).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:85fe2f4a6e429eb192089bd92b1a526cc9a8d04d594dba685d6823249145b0a2`
+Wie diejenigen zu ermahnen sind,
+die maßlos essen,
+und diejenigen,
+die weniger Nahrung zu sich nehmen\.
+Anders sind die Gefräßigen zu ermahnen und anders die Enthaltsamen\.
+Denn jene werden von Geschwätzigkeit,
+leichtfertigem Handeln und Ausschweifung begleitet,
+diese dagegen oft von Ungeduld,
+oft auch von Hochmut\.
+Würde maßlose Geschwätzigkeit die Gefräßigen nicht hinreißen,
+hätte jener Reiche,
+von dem es heißt,
+er habe täglich prächtig gespeist,
+nicht an seiner Zunge schwerer gebrannt\.
+Er sagte:
+„Vater Abraham,[^bible-64caf327-b489-4857-900a-e5331897d9d3]
+‚erbarme dich meiner und schick Lazarus,
+damit er seine Fingerspitze ins Wasser taucht und meine Zunge kühlt,
+denn ich leide Qualen in dieser Flamme\.[^bible-64caf327-b489-4857-900a-e5331897d9d3]
+‘“ Diese Worte zeigen deutlich,
+dass er beim täglichen Schmausen besonders häufig mit seiner Zunge gesündigt hatte:
+Obwohl er am ganzen Körper brannte,
+verlangte er vor allem nach Kühlung für seine Zunge\.
+Dass auf Gefräßigkeit sogleich leichtfertiges Handeln folgt,
+bezeugt wiederum die Heilige Schrift mit den Worten:
+„Das Volk setzte sich,
+um zu essen und zu trinken,
+und stand auf,
+um sich zu vergnügen\.[^bible-7b920eeb-02ce-495e-bc3a-bf3b8f51cc8e]
+“ Die Essgier treibt die Gefräßigen oft bis zur Ausschweifung\.
+Denn wenn sich der Bauch vor Sättigung dehnt,
+werden die Stacheln der Begierde geweckt\.
+Darum ergeht durch göttliche Stimme an den listigen Feind,
+der den Sinn des ersten Menschen für das Begehren der Frucht öffnete,
+diesen Sinn aber im Fallstrick der Sünde fesselte,
+das Wort:
+„Auf Brust und Bauch wirst du kriechen\.[^bible-d9bdb13a-0d3c-4e89-97c7-729b7803c2aa]
+“ Es ist,
+als würde ihm ausdrücklich gesagt:
+„Durch das Denken und durch Völlerei wirst du über die Herzen der Menschen herrschen\.“
+Dass auf Gefräßigkeit Ausschweifung folgt,
+bezeugt der Prophet,
+der,
+indem er Sichtbares berichtet,
+Verborgenes ankündigt:
+„Der Oberste der Köche zerstörte die Mauern Jerusalems\.[^bible-e4b29472-9889-4343-bada-99ef8f74895a]
+“ Der Oberste der Köche ist nämlich der Bauch\.
+Ihm widmen die Köche große Sorgfalt,
+damit er mit köstlichen Speisen gefüllt wird\.
+Die Mauern Jerusalems aber sind die Tugenden der Seele,
+die sich in der Sehnsucht nach dem himmlischen Frieden emporheben\.
+Der Oberste der Köche reißt also die Mauern Jerusalems nieder;
+denn wenn sich der Bauch vor Völlerei dehnt,
+werden die Tugenden der Seele durch Ausschweifung zerstört\.
+Würde dagegen die Ungeduld die Gemüter der Enthaltsamen nicht häufig aus ihrer tiefen Ruhe reißen,
+hätte Petrus nach den Worten:
+„Verbindet mit eurem Glauben die Tugend,
+mit der Tugend aber die Erkenntnis und mit der Erkenntnis die Enthaltsamkeit[^bible-e525e1ee-d5d3-4c13-92aa-ee4179f35c3b] “ nicht sogleich wachsam hinzugefügt:
+„Mit der Enthaltsamkeit aber verbindet die Geduld\.[^bible-0a5c67fe-962e-40b0-8892-c8fde2d9d2ad]
+“ Er sah nämlich voraus,
+dass es den Enthaltsamen an Geduld fehlen würde,
+und ermahnte sie deshalb,
+dafür zu sorgen,
+dass sie ihnen nicht fehle\.
 
-Wie diejenigen zu ermahnen sind, die maßlos essen, und diejenigen, die weniger Nahrung zu sich nehmen\. Anders sind die Gefräßigen zu ermahnen und anders die Enthaltsamen\. Denn jene werden von Geschwätzigkeit, leichtfertigem Handeln und Ausschweifung begleitet, diese dagegen oft von Ungeduld, oft auch von Hochmut\. Würde maßlose Geschwätzigkeit die Gefräßigen nicht hinreißen, hätte jener Reiche, von dem es heißt, er habe täglich prächtig gespeist, nicht an seiner Zunge schwerer gebrannt\. Er sagte: „Vater Abraham,[^bible-64caf327-b489-4857-900a-e5331897d9d3] ‚erbarme dich meiner und schick Lazarus, damit er seine Fingerspitze ins Wasser taucht und meine Zunge kühlt, denn ich leide Qualen in dieser Flamme\.[^bible-64caf327-b489-4857-900a-e5331897d9d3] ‘“ Diese Worte zeigen deutlich, dass er beim täglichen Schmausen besonders häufig mit seiner Zunge gesündigt hatte: Obwohl er am ganzen Körper brannte, verlangte er vor allem nach Kühlung für seine Zunge\. Dass auf Gefräßigkeit sogleich leichtfertiges Handeln folgt, bezeugt wiederum die Heilige Schrift mit den Worten: „Das Volk setzte sich, um zu essen und zu trinken, und stand auf, um sich zu vergnügen\.[^bible-7b920eeb-02ce-495e-bc3a-bf3b8f51cc8e] “ Die Essgier treibt die Gefräßigen oft bis zur Ausschweifung\. Denn wenn sich der Bauch vor Sättigung dehnt, werden die Stacheln der Begierde geweckt\. Darum ergeht durch göttliche Stimme an den listigen Feind, der den Sinn des ersten Menschen für das Begehren der Frucht öffnete, diesen Sinn aber im Fallstrick der Sünde fesselte, das Wort: „Auf Brust und Bauch wirst du kriechen\.[^bible-d9bdb13a-0d3c-4e89-97c7-729b7803c2aa] “ Es ist, als würde ihm ausdrücklich gesagt: „Durch das Denken und durch Völlerei wirst du über die Herzen der Menschen herrschen\.“ Dass auf Gefräßigkeit Ausschweifung folgt, bezeugt der Prophet, der, indem er Sichtbares berichtet, Verborgenes ankündigt: „Der Oberste der Köche zerstörte die Mauern Jerusalems\.[^bible-e4b29472-9889-4343-bada-99ef8f74895a] “ Der Oberste der Köche ist nämlich der Bauch\. Ihm widmen die Köche große Sorgfalt, damit er mit köstlichen Speisen gefüllt wird\. Die Mauern Jerusalems aber sind die Tugenden der Seele, die sich in der Sehnsucht nach dem himmlischen Frieden emporheben\. Der Oberste der Köche reißt also die Mauern Jerusalems nieder; denn wenn sich der Bauch vor Völlerei dehnt, werden die Tugenden der Seele durch Ausschweifung zerstört\. Würde dagegen die Ungeduld die Gemüter der Enthaltsamen nicht häufig aus ihrer tiefen Ruhe reißen, hätte Petrus nach den Worten: „Verbindet mit eurem Glauben die Tugend, mit der Tugend aber die Erkenntnis und mit der Erkenntnis die Enthaltsamkeit[^bible-e525e1ee-d5d3-4c13-92aa-ee4179f35c3b] “ nicht sogleich wachsam hinzugefügt: „Mit der Enthaltsamkeit aber verbindet die Geduld\.[^bible-0a5c67fe-962e-40b0-8892-c8fde2d9d2ad] “ Er sah nämlich voraus, dass es den Enthaltsamen an Geduld fehlen würde, und ermahnte sie deshalb, dafür zu sorgen, dass sie ihnen nicht fehle\.
+Wenn ferner nicht bisweilen die Schuld des Hochmuts die Gedanken der Enthaltsamen durchbohrte,
+hätte Paulus keineswegs gesagt:
+„Wer nicht isst,
+soll den,
+der isst,
+nicht verurteilen\.[^bible-f8f116c4-5b3a-4891-855b-91342820c553]
+“ Als er sich wiederum an andere wandte und die Vorschriften derer tadelte,
+die sich ihrer Enthaltsamkeit rühmten,
+fügte er hinzu:
+„Sie haben zwar den Anschein von Weisheit in selbst gewählter Frömmigkeit und Demut und darin,
+dass sie den Körper nicht schonen,
+doch der Sättigung des Fleisches gegenüber sind sie ohne jeden Wert\.[^bible-c6f4121f-ebbd-4514-933c-098b0bea666c]
+“ Dabei ist zu beachten,
+dass der hervorragende Verkündiger in seiner Erörterung die selbst gewählte Frömmigkeit mit dem Anschein von Demut verbindet\.
+Denn wenn das Fleisch durch Enthaltsamkeit mehr als nötig geschwächt wird,
+zeigt sich nach außen Demut;
+innerlich jedoch erhebt sich gerade über diese Demut schwerer Hochmut\.
+Und wenn der Geist nicht bisweilen durch die Tugend der Enthaltsamkeit aufgebläht würde,
+hätte der überhebliche Pharisäer sie keineswegs eifrig unter seine großen Verdienste gerechnet und gesagt:
+„Ich faste zweimal in der Woche\.[^bible-8849b6f1-eae4-4717-a592-cf2f5eb7d08f]
+“ Die der Völlerei Ergebenen müssen also ermahnt werden,
+sich nicht,
+während sie dem Genuss der Speisen frönen,
+mit dem Schwert der Ausschweifung zu durchbohren\.
+Sie sollen darauf achten,
+welch große Geschwätzigkeit und welch große Leichtfertigkeit des Geistes ihnen infolge des Essens auflauern,
+damit sie nicht,
+während sie ihrem Bauch willfährig dienen,
+grausam in den Schlingen der Laster gefesselt werden\.
+Denn je mehr beim maßlosen Genuss und beim Ausstrecken der Hand nach der Speise der Fall des ersten Stammvaters wiederholt wird,
+desto weiter entfernt man sich vom zweiten Stammvater\.
+Die Enthaltsamen dagegen müssen ermahnt werden,
+stets sorgfältig darauf zu achten,
+dass nicht,
+während sie das Laster der Völlerei meiden,
+aus ihrer vermeintlichen Tugend noch schlimmere Laster hervorgehen\.
+Während sie das Fleisch kasteien,
+dürfen sie nicht im Geist in Ungeduld ausbrechen;
+denn es ist keine Tugend mehr,
+dass das Fleisch bezwungen wird,
+wenn der Geist dem Zorn unterliegt\.
+Bisweilen hält sich der Geist der Enthaltsamen vom Zorn nieder,
+doch dann kommt gleichsam als Fremde die Ruhmsucht hinzu und verdirbt ihn\.
+So geht das Gut der Enthaltsamkeit verloren,
+weil der Geist sich vor den geistlichen Lastern nicht hütet\.
+Daher heißt es mit Recht durch den Propheten:
+„An euren Fasttagen tut ihr,
+was euch gefällt\.[^bible-d78ed417-65d8-4619-badb-6246a6081668]
+“ Und kurz darauf:
+„Ihr fastet für Rechtsstreit und Zank und schlagt mit den Fäusten\.[^bible-8c801f7d-c884-42cc-adc3-e34401599eca]
+“ Vergeblich wird also der Körper durch Enthaltsamkeit geschwächt,
+wenn der Geist seinen ungeordneten Regungen überlassen bleibt und von den Lastern zerrüttet wird\.
+Ferner müssen sie ermahnt werden,
+ihre Enthaltsamkeit stets ungeschmälert zu bewahren,
+sie vor dem verborgenen Richter jedoch niemals für eine außerordentliche Tugend zu halten,
+damit sich das Herz nicht zur Überheblichkeit erhebt,
+falls die Enthaltsamkeit für ein großes Verdienst gehalten wird\.
+Daher heißt es durch den Propheten:
+„Ist das etwa ein Fasten,
+das ich erwählt habe?[^bible-0b5fd908-d12e-44d4-9ba2-3bace7767593]
+“ Vielmehr:
+„Brich dem Hungrigen dein Brot und nimm die Armen und Heimatlosen in dein Haus auf\.[^bible-52be109f-d37f-453a-9806-d7e06876c65d]
+“ Dabei ist zu bedenken,
+wie gering die Tugend der Enthaltsamkeit geachtet wird,
+da sie nur durch andere Tugenden Anerkennung findet\.
+Daher sagt Joel:
+„Heiligt ein Fasten\.[^bible-47f5a519-bb65-4215-b93a-6c1a04d7723a]
+“ Ein Fasten zu heiligen bedeutet nämlich,
+durch weitere gute Werke zu zeigen,
+dass die Enthaltsamkeit des Fleisches Gottes würdig ist\.
+Die Enthaltsamen müssen ermahnt werden,
+sich bewusst zu machen,
+dass sie Gott nur dann wohlgefällige Enthaltsamkeit darbringen,
+wenn sie das,
+was sie sich an Nahrung versagen,
+den Bedürftigen geben\.
+Denn aufmerksam muss man auf den Tadel hören,
+den der Herr durch den Propheten ausspricht:
+„Als ihr im fünften und im siebten Monat während dieser siebzig Jahre gefastet und geklagt habt,
+habt ihr da wirklich für mich gefastet?
+Und wenn ihr gegessen und getrunken habt,
+habt ihr dann nicht für euch selbst gegessen und für euch selbst getrunken?[^bible-db416e15-bed4-4fda-9592-8eeb3beef1ef]
+“
 
-Wenn ferner nicht bisweilen die Schuld des Hochmuts die Gedanken der Enthaltsamen durchbohrte, hätte Paulus keineswegs gesagt: „Wer nicht isst, soll den, der isst, nicht verurteilen\.[^bible-f8f116c4-5b3a-4891-855b-91342820c553] “ Als er sich wiederum an andere wandte und die Vorschriften derer tadelte, die sich ihrer Enthaltsamkeit rühmten, fügte er hinzu: „Sie haben zwar den Anschein von Weisheit in selbst gewählter Frömmigkeit und Demut und darin, dass sie den Körper nicht schonen, doch der Sättigung des Fleisches gegenüber sind sie ohne jeden Wert\.[^bible-c6f4121f-ebbd-4514-933c-098b0bea666c] “ Dabei ist zu beachten, dass der hervorragende Verkündiger in seiner Erörterung die selbst gewählte Frömmigkeit mit dem Anschein von Demut verbindet\. Denn wenn das Fleisch durch Enthaltsamkeit mehr als nötig geschwächt wird, zeigt sich nach außen Demut; innerlich jedoch erhebt sich gerade über diese Demut schwerer Hochmut\. Und wenn der Geist nicht bisweilen durch die Tugend der Enthaltsamkeit aufgebläht würde, hätte der überhebliche Pharisäer sie keineswegs eifrig unter seine großen Verdienste gerechnet und gesagt: „Ich faste zweimal in der Woche\.[^bible-8849b6f1-eae4-4717-a592-cf2f5eb7d08f] “ Die der Völlerei Ergebenen müssen also ermahnt werden, sich nicht, während sie dem Genuss der Speisen frönen, mit dem Schwert der Ausschweifung zu durchbohren\. Sie sollen darauf achten, welch große Geschwätzigkeit und welch große Leichtfertigkeit des Geistes ihnen infolge des Essens auflauern, damit sie nicht, während sie ihrem Bauch willfährig dienen, grausam in den Schlingen der Laster gefesselt werden\. Denn je mehr beim maßlosen Genuss und beim Ausstrecken der Hand nach der Speise der Fall des ersten Stammvaters wiederholt wird, desto weiter entfernt man sich vom zweiten Stammvater\. Die Enthaltsamen dagegen müssen ermahnt werden, stets sorgfältig darauf zu achten, dass nicht, während sie das Laster der Völlerei meiden, aus ihrer vermeintlichen Tugend noch schlimmere Laster hervorgehen\. Während sie das Fleisch kasteien, dürfen sie nicht im Geist in Ungeduld ausbrechen; denn es ist keine Tugend mehr, dass das Fleisch bezwungen wird, wenn der Geist dem Zorn unterliegt\. Bisweilen hält sich der Geist der Enthaltsamen vom Zorn nieder, doch dann kommt gleichsam als Fremde die Ruhmsucht hinzu und verdirbt ihn\. So geht das Gut der Enthaltsamkeit verloren, weil der Geist sich vor den geistlichen Lastern nicht hütet\. Daher heißt es mit Recht durch den Propheten: „An euren Fasttagen tut ihr, was euch gefällt\.[^bible-d78ed417-65d8-4619-badb-6246a6081668] “ Und kurz darauf: „Ihr fastet für Rechtsstreit und Zank und schlagt mit den Fäusten\.[^bible-8c801f7d-c884-42cc-adc3-e34401599eca] “ Vergeblich wird also der Körper durch Enthaltsamkeit geschwächt, wenn der Geist seinen ungeordneten Regungen überlassen bleibt und von den Lastern zerrüttet wird\. Ferner müssen sie ermahnt werden, ihre Enthaltsamkeit stets ungeschmälert zu bewahren, sie vor dem verborgenen Richter jedoch niemals für eine außerordentliche Tugend zu halten, damit sich das Herz nicht zur Überheblichkeit erhebt, falls die Enthaltsamkeit für ein großes Verdienst gehalten wird\. Daher heißt es durch den Propheten: „Ist das etwa ein Fasten, das ich erwählt habe?[^bible-0b5fd908-d12e-44d4-9ba2-3bace7767593] “ Vielmehr: „Brich dem Hungrigen dein Brot und nimm die Armen und Heimatlosen in dein Haus auf\.[^bible-52be109f-d37f-453a-9806-d7e06876c65d] “ Dabei ist zu bedenken, wie gering die Tugend der Enthaltsamkeit geachtet wird, da sie nur durch andere Tugenden Anerkennung findet\. Daher sagt Joel: „Heiligt ein Fasten\.[^bible-47f5a519-bb65-4215-b93a-6c1a04d7723a] “ Ein Fasten zu heiligen bedeutet nämlich, durch weitere gute Werke zu zeigen, dass die Enthaltsamkeit des Fleisches Gottes würdig ist\. Die Enthaltsamen müssen ermahnt werden, sich bewusst zu machen, dass sie Gott nur dann wohlgefällige Enthaltsamkeit darbringen, wenn sie das, was sie sich an Nahrung versagen, den Bedürftigen geben\. Denn aufmerksam muss man auf den Tadel hören, den der Herr durch den Propheten ausspricht: „Als ihr im fünften und im siebten Monat während dieser siebzig Jahre gefastet und geklagt habt, habt ihr da wirklich für mich gefastet? Und wenn ihr gegessen und getrunken habt, habt ihr dann nicht für euch selbst gegessen und für euch selbst getrunken?[^bible-db416e15-bed4-4fda-9592-8eeb3beef1ef] “
-
-Denn jeder fastet nicht für Gott, sondern für sich selbst, wenn er das, was er seinem Bauch eine Zeit lang entzieht, nicht den Bedürftigen gibt, sondern aufbewahrt, um es später dem Bauch anzubieten\. Damit also weder jene die Begierde des Gaumens aus ihrer inneren Festigkeit reißt noch diese das geschwächte Fleisch durch Hochmut zu Fall bringt, sollen jene aus dem Mund der Wahrheit hören: „Gebt aber auf euch acht, damit eure Herzen nicht durch Rausch und Trunkenheit und die Sorgen dieser Welt beschwert werden[^bible-27dd8491-e8de-4df5-822b-04bb729ac3ce]\.“ Daran schließt sich eine heilsame Warnung an: „Und jener Tag plötzlich über euch hereinbricht[^bible-27dd8491-e8de-4df5-822b-04bb729ac3ce]\. Denn wie eine Schlinge wird er über alle kommen, die auf der ganzen Erde wohnen[^bible-aa300108-4b9b-4c26-a981-3df76e82f3a3]\.“ Diese sollen hören: „Nicht was in den Mund hineingeht, verunreinigt den Menschen, sondern was aus dem Mund herauskommt, verunreinigt den Menschen[^bible-708ccd37-a237-4ef9-b2e7-7d47a9afc07e]\.“ Jene sollen hören: „Die Speise ist für den Bauch und der Bauch für die Speisen; Gott aber wird diesen wie jene vernichten[^bible-8a204518-a2a8-4416-84c5-be7022f04e21]\.“ Und wiederum: „Nicht in Schwelgereien und Trinkgelagen[^bible-adf16a05-24e5-45fe-85ea-2f44a5262bcf]\.“ Und wiederum: „Speise verschafft uns keine Anerkennung bei Gott[^bible-364b503a-b6ce-4adf-92d0-e849103245a3]\.“ Diese sollen hören: „Für die Reinen ist alles rein; für die Verunreinigten und Ungläubigen aber ist nichts rein[^bible-5e53219a-584f-4bed-9a21-8c87bb47b1af]\.“ Jene sollen hören: „Ihr Gott ist der Bauch, und ihr Ruhm liegt in ihrer Schande[^bible-517de7a7-0cc8-4817-b723-5eb59ba97849]\.“ Diese sollen hören: „Einige werden vom Glauben abfallen[^bible-0a6df0a1-3b22-4793-b84a-e45bc243ffc0]\.“ Und wenig später: „Sie verbieten zu heiraten und verlangen, sich von Speisen zu enthalten, die Gott geschaffen hat, damit die Gläubigen und diejenigen, welche die Wahrheit erkannt haben, sie mit Danksagung zu sich nehmen[^bible-8db5bd9d-3c67-4829-bd65-65b1a5567bee]\.“ Jene sollen hören: „Es ist gut, kein Fleisch zu essen und keinen Wein zu trinken und nichts zu tun, woran dein Bruder Anstoß nimmt[^bible-9ce2d05b-2aed-4700-8313-aa2eb384c283]\.“ Diese sollen hören: „Nimm wegen deines Magens und deiner häufigen Beschwerden ein wenig Wein zu dir[^bible-ca53d470-733e-446e-86c6-e1f2a52246db]\.“ So sollen jene lernen, nicht ungeordnet nach Speisen für das Fleisch zu verlangen; und diese sollen es nicht wagen, Gottes Schöpfung zu verurteilen, nur weil sie selbst nicht nach ihr verlangen\.
+Denn jeder fastet nicht für Gott,
+sondern für sich selbst,
+wenn er das,
+was er seinem Bauch eine Zeit lang entzieht,
+nicht den Bedürftigen gibt,
+sondern aufbewahrt,
+um es später dem Bauch anzubieten\.
+Damit also weder jene die Begierde des Gaumens aus ihrer inneren Festigkeit reißt noch diese das geschwächte Fleisch durch Hochmut zu Fall bringt,
+sollen jene aus dem Mund der Wahrheit hören:
+„Gebt aber auf euch acht,
+damit eure Herzen nicht durch Rausch und Trunkenheit und die Sorgen dieser Welt beschwert werden[^bible-27dd8491-e8de-4df5-822b-04bb729ac3ce]\.“
+Daran schließt sich eine heilsame Warnung an:
+„Und jener Tag plötzlich über euch hereinbricht[^bible-27dd8491-e8de-4df5-822b-04bb729ac3ce]\.
+Denn wie eine Schlinge wird er über alle kommen,
+die auf der ganzen Erde wohnen[^bible-aa300108-4b9b-4c26-a981-3df76e82f3a3]\.“
+Diese sollen hören:
+„Nicht was in den Mund hineingeht,
+verunreinigt den Menschen,
+sondern was aus dem Mund herauskommt,
+verunreinigt den Menschen[^bible-708ccd37-a237-4ef9-b2e7-7d47a9afc07e]\.“
+Jene sollen hören:
+„Die Speise ist für den Bauch und der Bauch für die Speisen;
+Gott aber wird diesen wie jene vernichten[^bible-8a204518-a2a8-4416-84c5-be7022f04e21]\.“
+Und wiederum:
+„Nicht in Schwelgereien und Trinkgelagen[^bible-adf16a05-24e5-45fe-85ea-2f44a5262bcf]\.“
+Und wiederum:
+„Speise verschafft uns keine Anerkennung bei Gott[^bible-364b503a-b6ce-4adf-92d0-e849103245a3]\.“
+Diese sollen hören:
+„Für die Reinen ist alles rein;
+für die Verunreinigten und Ungläubigen aber ist nichts rein[^bible-5e53219a-584f-4bed-9a21-8c87bb47b1af]\.“
+Jene sollen hören:
+„Ihr Gott ist der Bauch,
+und ihr Ruhm liegt in ihrer Schande[^bible-517de7a7-0cc8-4817-b723-5eb59ba97849]\.“
+Diese sollen hören:
+„Einige werden vom Glauben abfallen[^bible-0a6df0a1-3b22-4793-b84a-e45bc243ffc0]\.“
+Und wenig später:
+„Sie verbieten zu heiraten und verlangen,
+sich von Speisen zu enthalten,
+die Gott geschaffen hat,
+damit die Gläubigen und diejenigen,
+welche die Wahrheit erkannt haben,
+sie mit Danksagung zu sich nehmen[^bible-8db5bd9d-3c67-4829-bd65-65b1a5567bee]\.“
+Jene sollen hören:
+„Es ist gut,
+kein Fleisch zu essen und keinen Wein zu trinken und nichts zu tun,
+woran dein Bruder Anstoß nimmt[^bible-9ce2d05b-2aed-4700-8313-aa2eb384c283]\.“
+Diese sollen hören:
+„Nimm wegen deines Magens und deiner häufigen Beschwerden ein wenig Wein zu dir[^bible-ca53d470-733e-446e-86c6-e1f2a52246db]\.“
+So sollen jene lernen,
+nicht ungeordnet nach Speisen für das Fleisch zu verlangen;
+und diese sollen es nicht wagen,
+Gottes Schöpfung zu verurteilen,
+nur weil sie selbst nicht nach ihr verlangen\.
 
 ## Bibelverweise
 

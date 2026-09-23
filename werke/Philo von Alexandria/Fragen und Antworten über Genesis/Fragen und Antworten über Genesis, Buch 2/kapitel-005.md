@@ -7,10 +7,243 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-2#kapitel-2b43a621-1862-4761-9c2b-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:40f7303d1d33e508c45653ef5d84f7a8bc9d87f52e4d79cd5c817c0cb05165f0`
+Warum gab Gott die Maße der Arche in folgender Weise an:
+Ihre Länge sollte dreihundert Ellen betragen,
+ihre Breite fünfzig Ellen und ihre Höhe dreißig Ellen;
+und oben sollte sie auf eine Elle zu einer Spitze erhoben werden,
+allmählich zulaufend wie ein Obelisk?
+Es war notwendig,
+dass ein so gewaltiges Werk nach wörtlichen Anweisungen gebaut wurde,
+damit so viele Tiere,
+darunter einige von gewaltiger Größe,
+darin aufgenommen werden konnten,
+da aus jeder Klasse einzelne Tiere samt der für sie nötigen Nahrung hineingeführt wurden\.
+Betrachtet man die Sache aber richtig im Blick auf ihre sinnbildliche Bedeutung,
+dann müssen wir zum Verständnis der Bildung unseres Körpers nicht die Zahl der Ellen heranziehen,
+sondern die bestimmten Prinzipien und Proportionen,
+die sich in ihnen zeigen\.
+Die in ihnen enthaltenen Proportionen aber sind sechsfache und doppelte;
+dazu kommen noch andere Verhältnisse\.
+Denn dreihundert ist sechsmal so viel wie fünfzig und zehnmal so viel wie dreißig;
+und wiederum ist fünfzig um zwei Drittel größer als dreißig\.
+Solcher Art sind nun auch die Proportionen des Körpers\.
+Denn wenn jemand die Sache untersuchen und in allen Einzelheiten sorgfältig erforschen wollte,
+würde er finden,
+dass der Mensch nach einem genauen Maßverhältnis gebildet ist,
+weder zu lang noch zu klein\.
+Und wenn man eine Schnur von seinem Kopf bis zu seinen Füßen herablässt,
+wird man finden,
+dass diese Entfernung eine Schnur erfordert,
+die sechsmal so lang ist wie die Breite seiner Brust und zehnmal so lang wie die Tiefe seiner Rippen,
+wobei deren Breite als zweiter Teil zur Tiefe hinzukommt\.
+Das ist die bestimmte,
+naturgemäß angenommene Proportion des menschlichen Körpers,
+der nach genauem Maß an den am vollkommensten gebildeten Menschen geformt ist,
+die weder durch Übermaß noch durch Mangel fehlerhaft sind\.
+Wiederum aber hat Gott mit großer Weisheit und Angemessenheit bestimmt,
+dass der Gipfel in einer Elle vollendet werde;
+denn der obere Teil der Arche ahmt die Einheit des Körpers nach,
+wobei der Kopf gleichsam die Burg des Königs ist und als Bewohner den Obersten von allen hat,
+den Verstand\.
+Die Teile unterhalb des Kopfes aber sind in gesonderte Abschnitte geteilt,
+zum Beispiel in die Hände und in besonderem Maße in die unteren Glieder,
+denn Schenkel,
+Beine und Füße sind alle voneinander unterschieden\.
+Wer also diese Dinge nach dem von mir aufgezeigten Prinzip verstehen will,
+wird die Analogie der Ellen,
+wie ich sie dargelegt habe,
+leicht begreifen\.
+Vor allem aber darf ihm nicht unbekannt sein,
+dass jede dieser verschiedenen Ellen\-Zahlen für sich ein bestimmtes notwendiges Verhältnis und Prinzip besitzt,
+beginnend mit der ersten,
+nämlich den Ellen in der Länge der Arche\.
 
-Warum gab Gott die Maße der Arche in folgender Weise an: Ihre Länge sollte dreihundert Ellen betragen, ihre Breite fünfzig Ellen und ihre Höhe dreißig Ellen; und oben sollte sie auf eine Elle zu einer Spitze erhoben werden, allmählich zulaufend wie ein Obelisk? Es war notwendig, dass ein so gewaltiges Werk nach wörtlichen Anweisungen gebaut wurde, damit so viele Tiere, darunter einige von gewaltiger Größe, darin aufgenommen werden konnten, da aus jeder Klasse einzelne Tiere samt der für sie nötigen Nahrung hineingeführt wurden\. Betrachtet man die Sache aber richtig im Blick auf ihre sinnbildliche Bedeutung, dann müssen wir zum Verständnis der Bildung unseres Körpers nicht die Zahl der Ellen heranziehen, sondern die bestimmten Prinzipien und Proportionen, die sich in ihnen zeigen\. Die in ihnen enthaltenen Proportionen aber sind sechsfache und doppelte; dazu kommen noch andere Verhältnisse\. Denn dreihundert ist sechsmal so viel wie fünfzig und zehnmal so viel wie dreißig; und wiederum ist fünfzig um zwei Drittel größer als dreißig\. Solcher Art sind nun auch die Proportionen des Körpers\. Denn wenn jemand die Sache untersuchen und in allen Einzelheiten sorgfältig erforschen wollte, würde er finden, dass der Mensch nach einem genauen Maßverhältnis gebildet ist, weder zu lang noch zu klein\. Und wenn man eine Schnur von seinem Kopf bis zu seinen Füßen herablässt, wird man finden, dass diese Entfernung eine Schnur erfordert, die sechsmal so lang ist wie die Breite seiner Brust und zehnmal so lang wie die Tiefe seiner Rippen, wobei deren Breite als zweiter Teil zur Tiefe hinzukommt\. Das ist die bestimmte, naturgemäß angenommene Proportion des menschlichen Körpers, der nach genauem Maß an den am vollkommensten gebildeten Menschen geformt ist, die weder durch Übermaß noch durch Mangel fehlerhaft sind\. Wiederum aber hat Gott mit großer Weisheit und Angemessenheit bestimmt, dass der Gipfel in einer Elle vollendet werde; denn der obere Teil der Arche ahmt die Einheit des Körpers nach, wobei der Kopf gleichsam die Burg des Königs ist und als Bewohner den Obersten von allen hat, den Verstand\. Die Teile unterhalb des Kopfes aber sind in gesonderte Abschnitte geteilt, zum Beispiel in die Hände und in besonderem Maße in die unteren Glieder, denn Schenkel, Beine und Füße sind alle voneinander unterschieden\. Wer also diese Dinge nach dem von mir aufgezeigten Prinzip verstehen will, wird die Analogie der Ellen, wie ich sie dargelegt habe, leicht begreifen\. Vor allem aber darf ihm nicht unbekannt sein, dass jede dieser verschiedenen Ellen\-Zahlen für sich ein bestimmtes notwendiges Verhältnis und Prinzip besitzt, beginnend mit der ersten, nämlich den Ellen in der Länge der Arche\.
+Der Länge nach besteht sie also aus dreihundert Einheiten,
+die nach der Vermehrung der Einheiten aus diesen vierundzwanzig Zahlen fortlaufend nebeneinandergesetzt sind:
+eins,
+zwei,
+drei,
+vier,
+fünf,
+sechs,
+sieben,
+acht,
+neun,
+zehn,
+elf,
+zwölf,
+dreizehn,
+vierzehn,
+fünfzehn,
+sechzehn,
+siebzehn,
+achtzehn,
+neunzehn,
+zwanzig,
+einundzwanzig,
+zweiundzwanzig,
+dreiundzwanzig,
+vierundzwanzig\.
+Die vierundzwanzigste Zahl aber ist mehr als alle anderen eine natürliche Zahl,
+da sie auf die Stunden von Tag und Nacht verteilt ist,
+ebenso auf die Schriftzeichen der Sprache und auf die buchstäbliche Rede;
+und sie ist auch aus drei Kuben zusammengesetzt,
+vollständig,
+voll und in Gleichheit zusammengefügt\.
+Denn die Drei zeigt beständig als ihr Eigenes die erste Gleichheit von allen,
+da sie einen Anfang,
+eine Mitte und ein Ende hat,
+die alle einander gleich sind;
+und die Acht ist der erste Kubus,
+weil auch sie ihre erste Gleichheit mit den übrigen kundgetan hat\.
+Ebenso besitzt die Zahl vierundzwanzig eine große Menge weiterer Vorzüge,
+da sie,
+wie schon gezeigt wurde,
+die Substanz der Zahl dreihundert ist;
+dies ist also ihr erster Vorzug\.
+Einen weiteren hat sie darin,
+dass sie aus zwölf viereckigen Figuren zusammengesetzt ist,
+die durch eine fortlaufende Einheit miteinander verbunden sind;
+außerdem aus zwei länglichen Figuren und zwölf doppelten Figuren,
+denn sie ist ja aus Zweiergruppen zusammengesetzt,
+die jeweils um zwei und zwei gesondert vermehrt werden\.
+Die Winkelzahlen also,
+die zusammen die zwölf viereckigen Figuren bilden,
+sind diese:
+eins,
+drei,
+fünf,
+sieben,
+neun,
+elf,
+dreizehn,
+fünfzehn,
+siebzehn,
+neunzehn,
+einundzwanzig und dreiundzwanzig\.
+Die viereckige Figur aber vereinigt die folgenden Zahlen:
+eins,
+vier,
+neun,
+sechzehn,
+fünfundzwanzig,
+sechsunddreißig,
+neunundvierzig,
+vierundsechzig,
+einundachtzig,
+hundert,
+hunderteinundzwanzig und hundertvierundzwanzig\.
+Die Winkelzahlen aber,
+welche die anderen länglichen Figuren zusammensetzen,
+sind diese:
+eins,
+vier,
+sechs,
+acht,
+zehn,
+zwölf,
+vierzehn,
+sechzehn,
+achtzehn,
+zwanzig,
+zweiundzwanzig,
+vierundzwanzig,
+insgesamt zwölf;
+und nach diesen kommen die zusammengesetzten Zahlen:
+zwei,
+sechs,
+zwölf,
+zwanzig,
+dreißig,
+zweiundvierzig,
+sechsundfünfzig,
+zweiundsiebzig,
+neunzig,
+hundertzehn,
+hundertzweiunddreißig und hundertsechsundfünfzig,
+ebenfalls zwölf\.
+Und wenn man die zwölf viereckigen Figuren zusammenzählt,
+findet man hundertvierundvierzig;
+fügt man die anderen zwölf länglichen Figuren hinzu,
+findet man hundertsechsundfünfzig;
+und aus der Verbindung beider erhält man die Zahl dreihundert sowie den Einklang einer vollen,
+vollständigen und vollkommenen Natur,
+die zur gleichen und unendlichen Harmonie aufsteigt\.
+Denn eine vollständige und vollkommene Natur ist nach der Natur des Dreiecks die Urheberin der Gleichheit;
+das Gleiche aber und das Unendliche sind nach der Zusammensetzung der anderen länglichen Figur die Faktoren der Ungleichheit\.
+Das All aber besteht aus einer Verbindung von Gleichheit und Ungleichheit;
+deshalb hat der Schöpfer selbst,
+auch mitten im Untergang aller irdischen Dinge,
+in der Arche gleichsam ein festes Muster der Beständigkeit niedergelegt\.
+Damit ist über die Zahl dreihundert genug gesagt\.
 
-Der Länge nach besteht sie also aus dreihundert Einheiten, die nach der Vermehrung der Einheiten aus diesen vierundzwanzig Zahlen fortlaufend nebeneinandergesetzt sind: eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, elf, zwölf, dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn, zwanzig, einundzwanzig, zweiundzwanzig, dreiundzwanzig, vierundzwanzig\. Die vierundzwanzigste Zahl aber ist mehr als alle anderen eine natürliche Zahl, da sie auf die Stunden von Tag und Nacht verteilt ist, ebenso auf die Schriftzeichen der Sprache und auf die buchstäbliche Rede; und sie ist auch aus drei Kuben zusammengesetzt, vollständig, voll und in Gleichheit zusammengefügt\. Denn die Drei zeigt beständig als ihr Eigenes die erste Gleichheit von allen, da sie einen Anfang, eine Mitte und ein Ende hat, die alle einander gleich sind; und die Acht ist der erste Kubus, weil auch sie ihre erste Gleichheit mit den übrigen kundgetan hat\. Ebenso besitzt die Zahl vierundzwanzig eine große Menge weiterer Vorzüge, da sie, wie schon gezeigt wurde, die Substanz der Zahl dreihundert ist; dies ist also ihr erster Vorzug\. Einen weiteren hat sie darin, dass sie aus zwölf viereckigen Figuren zusammengesetzt ist, die durch eine fortlaufende Einheit miteinander verbunden sind; außerdem aus zwei länglichen Figuren und zwölf doppelten Figuren, denn sie ist ja aus Zweiergruppen zusammengesetzt, die jeweils um zwei und zwei gesondert vermehrt werden\. Die Winkelzahlen also, die zusammen die zwölf viereckigen Figuren bilden, sind diese: eins, drei, fünf, sieben, neun, elf, dreizehn, fünfzehn, siebzehn, neunzehn, einundzwanzig und dreiundzwanzig\. Die viereckige Figur aber vereinigt die folgenden Zahlen: eins, vier, neun, sechzehn, fünfundzwanzig, sechsunddreißig, neunundvierzig, vierundsechzig, einundachtzig, hundert, hunderteinundzwanzig und hundertvierundzwanzig\. Die Winkelzahlen aber, welche die anderen länglichen Figuren zusammensetzen, sind diese: eins, vier, sechs, acht, zehn, zwölf, vierzehn, sechzehn, achtzehn, zwanzig, zweiundzwanzig, vierundzwanzig, insgesamt zwölf; und nach diesen kommen die zusammengesetzten Zahlen: zwei, sechs, zwölf, zwanzig, dreißig, zweiundvierzig, sechsundfünfzig, zweiundsiebzig, neunzig, hundertzehn, hundertzweiunddreißig und hundertsechsundfünfzig, ebenfalls zwölf\. Und wenn man die zwölf viereckigen Figuren zusammenzählt, findet man hundertvierundvierzig; fügt man die anderen zwölf länglichen Figuren hinzu, findet man hundertsechsundfünfzig; und aus der Verbindung beider erhält man die Zahl dreihundert sowie den Einklang einer vollen, vollständigen und vollkommenen Natur, die zur gleichen und unendlichen Harmonie aufsteigt\. Denn eine vollständige und vollkommene Natur ist nach der Natur des Dreiecks die Urheberin der Gleichheit; das Gleiche aber und das Unendliche sind nach der Zusammensetzung der anderen länglichen Figur die Faktoren der Ungleichheit\. Das All aber besteht aus einer Verbindung von Gleichheit und Ungleichheit; deshalb hat der Schöpfer selbst, auch mitten im Untergang aller irdischen Dinge, in der Arche gleichsam ein festes Muster der Beständigkeit niedergelegt\. Damit ist über die Zahl dreihundert genug gesagt\.
-
-Nun müssen wir dazu übergehen, von den fünfzig Ellen zu sprechen, und zwar nach folgendem Grundsatz: Zunächst ist diese Zahl aus dem rechten Winkel der viereckigen Figuren zusammengesetzt\. Denn ein rechter Winkel besteht aus drei, vier und fünf; deren Quadrate sind neun, sechzehn und fünfundzwanzig, und ihre Summe ergibt zusammen fünfzig\. Zweitens ist die vollkommene Zahl fünfzig aus diesen vier miteinander verbundenen Dreieckszahlen zusammengesetzt: eins, drei, sechs, zehn; und wiederum aus diesen vier ebenfalls miteinander vereinigten gleichen Quadratzahlen: eins, vier, neun, sechzehn\. Die Dreieckszahlen ergeben also, zusammengerechnet, zwanzig, die Quadratzahlen dreißig, und zwanzig und dreißig zusammen ergeben fünfzig\. Wenn aber Dreieck und Viereck zusammengefügt werden, bilden sie eine siebeneckige Figur; deshalb ist sie ihrer Kraft nach in der Zahl fünfzig enthalten, jener göttlichen und heiligen Zahl, auf die der Prophet achtete, als er das Jubelfest ausrief\. Das ganze Jubeljahr aber ist frei und bringt Befreiung\. Der dritte Lehrsatz lautet: Drei Dreieckszahlen, die mit der Einheit beginnen und in fortlaufender Reihe miteinander verbunden sind, und drei Kubikzahlen, die ebenfalls mit der Einheit beginnen und in entsprechender Weise miteinander verbunden sind, ergeben zusammen fünfzig\. Beispiele für die ersten sind eins, vier und neun; sie ergeben vierzehn\. Beispiele für die zweiten sind eins, acht und siebenundzwanzig; sie ergeben zusammen sechsunddreißig\. Die Summe beider zusammen ist fünfzig\. Ferner ist dreißig in besonderer Weise eine natürliche Zahl; denn wie die Zahl drei in der Reihe der Einheiten steht, so steht die Zahl dreißig in der Reihe der Zehner\. Sie bildet den Zyklus des Mondes, da sie die Gesamtheit der einzelnen Monate in vollständiger Ausprägung umfasst\. Zweitens ist sie aus vier Zahlen zusammengesetzt, die in der fortlaufenden Reihe dieser Quadratzahlen miteinander verbunden sind: eins, vier, neun und sechzehn; zusammen ergeben sie dreißig\. Daher nannte Heraklit diese Zahl nicht ohne Grundlage und hinreichenden Grund „Zeugung“, als er sagte: Ein Mensch kann dreißig Jahre nach seiner Geburt Großvater werden, insofern er im vierzehnten Jahr zur Mannbarkeit gelangt, in welchem Alter er fähig ist, Vater zu werden; am Ende des Jahres wird sein Nachkomme geboren, und wiederum nach weiteren fünfzehn Jahren zeugt dieser einen anderen Nachkommen, der ihm gleicht\. Aus diesen Bezeichnungen Großväter, Väter und Söhne, wie auch aus den Bezeichnungen Großmütter, Mütter und Töchter, entsteht eine Generation, die in ihrer Nachkommenschaft vollständig ist\.
+Nun müssen wir dazu übergehen,
+von den fünfzig Ellen zu sprechen,
+und zwar nach folgendem Grundsatz:
+Zunächst ist diese Zahl aus dem rechten Winkel der viereckigen Figuren zusammengesetzt\.
+Denn ein rechter Winkel besteht aus drei,
+vier und fünf;
+deren Quadrate sind neun,
+sechzehn und fünfundzwanzig,
+und ihre Summe ergibt zusammen fünfzig\.
+Zweitens ist die vollkommene Zahl fünfzig aus diesen vier miteinander verbundenen Dreieckszahlen zusammengesetzt:
+eins,
+drei,
+sechs,
+zehn;
+und wiederum aus diesen vier ebenfalls miteinander vereinigten gleichen Quadratzahlen:
+eins,
+vier,
+neun,
+sechzehn\.
+Die Dreieckszahlen ergeben also,
+zusammengerechnet,
+zwanzig,
+die Quadratzahlen dreißig,
+und zwanzig und dreißig zusammen ergeben fünfzig\.
+Wenn aber Dreieck und Viereck zusammengefügt werden,
+bilden sie eine siebeneckige Figur;
+deshalb ist sie ihrer Kraft nach in der Zahl fünfzig enthalten,
+jener göttlichen und heiligen Zahl,
+auf die der Prophet achtete,
+als er das Jubelfest ausrief\.
+Das ganze Jubeljahr aber ist frei und bringt Befreiung\.
+Der dritte Lehrsatz lautet:
+Drei Dreieckszahlen,
+die mit der Einheit beginnen und in fortlaufender Reihe miteinander verbunden sind,
+und drei Kubikzahlen,
+die ebenfalls mit der Einheit beginnen und in entsprechender Weise miteinander verbunden sind,
+ergeben zusammen fünfzig\.
+Beispiele für die ersten sind eins,
+vier und neun;
+sie ergeben vierzehn\.
+Beispiele für die zweiten sind eins,
+acht und siebenundzwanzig;
+sie ergeben zusammen sechsunddreißig\.
+Die Summe beider zusammen ist fünfzig\.
+Ferner ist dreißig in besonderer Weise eine natürliche Zahl;
+denn wie die Zahl drei in der Reihe der Einheiten steht,
+so steht die Zahl dreißig in der Reihe der Zehner\.
+Sie bildet den Zyklus des Mondes,
+da sie die Gesamtheit der einzelnen Monate in vollständiger Ausprägung umfasst\.
+Zweitens ist sie aus vier Zahlen zusammengesetzt,
+die in der fortlaufenden Reihe dieser Quadratzahlen miteinander verbunden sind:
+eins,
+vier,
+neun und sechzehn;
+zusammen ergeben sie dreißig\.
+Daher nannte Heraklit diese Zahl nicht ohne Grundlage und hinreichenden Grund „Zeugung“,
+als er sagte:
+Ein Mensch kann dreißig Jahre nach seiner Geburt Großvater werden,
+insofern er im vierzehnten Jahr zur Mannbarkeit gelangt,
+in welchem Alter er fähig ist,
+Vater zu werden;
+am Ende des Jahres wird sein Nachkomme geboren,
+und wiederum nach weiteren fünfzehn Jahren zeugt dieser einen anderen Nachkommen,
+der ihm gleicht\.
+Aus diesen Bezeichnungen Großväter,
+Väter und Söhne,
+wie auch aus den Bezeichnungen Großmütter,
+Mütter und Töchter,
+entsteht eine Generation,
+die in ihrer Nachkommenschaft vollständig ist\.

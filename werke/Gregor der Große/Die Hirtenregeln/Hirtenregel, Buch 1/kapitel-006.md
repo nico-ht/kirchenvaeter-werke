@@ -7,9 +7,123 @@ Autor: Gregor der Große
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/hirtenregel-buch-1#kapitel-e934f365-19d3-42a2-2d7c-08dd468d63fa).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:cc07de79ba5e8121bb099cffd83c70e84d109b0140ccad0ed2680b8b57a27bd9`
-
-Kapitel 5\. Von denen, die andere durch tugendhaftes Beispiel im höchsten Amt nützen können, aber davor fliehen, um ihre eigene Bequemlichkeit zu verfolgen\. Denn es gibt einige, die mit Tugenden hervorragend ausgestattet sind und zur Erziehung anderer durch große Gaben erhöht werden, die rein im Eifer für die Keuschheit, stark in der Kraft der Enthaltsamkeit, erfüllt mit den Festen der Lehre, demütig in der Langmut der Geduld, aufrecht in der Festigkeit der Autorität, zart in der Gnade der Nächstenliebe und streng in der Strenge der Gerechtigkeit sind\. Wahrlich, solche, die, wenn sie gerufen werden, sich weigern, Ämter der höchsten Herrschaft zu übernehmen, berauben sich in der Regel der Gaben, die sie nicht nur für sich selbst, sondern auch für andere empfangen haben; und während sie über ihren eigenen und nicht über den Gewinn anderer nachdenken, verlieren sie die Vorteile, die sie sich selbst zu bewahren wünschen\. Daher sagte die Wahrheit zu Seinen Jüngern: „Eine Stadt, die auf einem Berg liegt, kann nicht verborgen bleiben; noch zündet man ein Licht an und stellt es unter den Scheffel, sondern auf den Leuchter, damit es allen, die im Haus sind, Licht gibt\.“[^bible-4aa48583-7a0b-4a09-9149-eb737f9325c4] Daher fragt Er Petrus: „Simon, Sohn des Jonas, liebst du Mich?“[^bible-a1209ecc-f4ee-4547-8a9f-7f6f9cbff057] Und als dieser sofort antwortete, dass er Ihn liebt, wurde ihm gesagt: „Wenn du Mich liebst, weide Meine Schafe\.“[^bible-6c55f13a-f57a-4f66-983b-59571577a0ed] Wenn also die Sorge um das Weiden der Schafe der Beweis der Liebe ist, so wird jeder, der in Tugenden überfließt und dennoch sich weigert, die Herde Gottes zu weiden, der Unliebe zum Oberhirten überführt\. Daher sagt Paulus: „Wenn Christus für alle starb, dann starben alle\. Und wenn Er für alle starb, bleibt es, dass die, die leben, nicht mehr für sich selbst leben, sondern für den, der für sie starb und auferstand\.“[^bible-1980ac15-9a3f-4431-86bb-74eff9db33e7] Daher sagt Mose: „Wenn ein überlebender Bruder die Frau eines Bruders, der ohne Kinder gestorben ist, nehmen soll, um Kinder für den Namen seines Bruders zu zeugen; und wenn er sich weigert, sie zu nehmen, soll die Frau ihm ins Gesicht spucken, und sein Verwandter soll den Schuh von einem seiner Füße lösen und sein Haus das Haus desjenigen nennen, dessen Schuh gelöst ist\.“[^bible-266e82af-374a-46ca-8cde-608352df3dc9] Der verstorbene Bruder ist derjenige, der nach der Herrlichkeit der Auferstehung sagte: „Geht und sagt meinen Brüdern\.“ Denn er starb, als hätte er keine Kinder, da er die Zahl seiner Auserwählten noch nicht erfüllt hatte\. Dann wird angeordnet, dass der überlebende Bruder die ihm zugewiesene Frau haben soll, weil es sicherlich angemessen ist, dass die Sorge um die heilige Kirche dem auferlegt wird, der am besten in der Lage ist, sie gut zu regieren\. Wenn er jedoch unwilling ist, spuckt die Frau ihm ins Gesicht, denn wer sich nicht darum kümmert, anderen aus den Gaben, die er empfangen hat, Nutzen zu bringen, der wird von der heiligen Kirche auch dessen, was er Gutes hat, verurteilt und, als ob man ihm ins Gesicht spuckt, wird ihm der Schuh von einem Fuß genommen, da geschrieben steht: „Eure Füße mit der Bereitschaft des Evangeliums des Friedens beschuht\.“[^bible-356938cf-d77c-4c2a-b4f8-12442ff1777f] Wenn wir also die Sorge um unseren Nächsten ebenso wie um uns selbst auf uns haben, sind beide Füße durch einen Schuh geschützt\. Aber wer, während er über seinen eigenen Vorteil nachdenkt, den seiner Nächsten vernachlässigt, verliert mit Schande den Schuh eines Fußes\. Und so gibt es einige, wie wir gesagt haben, die mit großen Gaben bereichert sind, die, während sie nur für die Studien der Kontemplation eifern, sich davor scheuen, durch Predigt zum Nutzen ihrer Nächsten zu dienen; sie lieben einen geheimen Ort der Ruhe und sehnen sich nach einem Rückzugsort für Spekulation\. In Bezug auf dieses Verhalten sind sie, wenn man es streng beurteilt, zweifellos schuldig im Verhältnis zur Größe der Gaben, durch die sie öffentlich nützlich sein könnten\. Denn mit welcher Gesinnung zieht es jemand, der in der Lage wäre, seinen Nächsten zu nützen, vor, seine eigene Privatsphäre dem Vorteil anderer vorzuziehen, wenn der Einziggezeugte des höchsten Vaters selbst aus dem Schoß des Vaters in unsere Mitte trat, um vielen Nutzen zu bringen?
+Kapitel 5\. Von denen,
+die andere durch tugendhaftes Beispiel im höchsten Amt nützen können,
+aber davor fliehen,
+um ihre eigene Bequemlichkeit zu verfolgen\.
+Denn es gibt einige,
+die mit Tugenden hervorragend ausgestattet sind und zur Erziehung anderer durch große Gaben erhöht werden,
+die rein im Eifer für die Keuschheit,
+stark in der Kraft der Enthaltsamkeit,
+erfüllt mit den Festen der Lehre,
+demütig in der Langmut der Geduld,
+aufrecht in der Festigkeit der Autorität,
+zart in der Gnade der Nächstenliebe und streng in der Strenge der Gerechtigkeit sind\.
+Wahrlich,
+solche,
+die,
+wenn sie gerufen werden,
+sich weigern,
+Ämter der höchsten Herrschaft zu übernehmen,
+berauben sich in der Regel der Gaben,
+die sie nicht nur für sich selbst,
+sondern auch für andere empfangen haben;
+und während sie über ihren eigenen und nicht über den Gewinn anderer nachdenken,
+verlieren sie die Vorteile,
+die sie sich selbst zu bewahren wünschen\.
+Daher sagte die Wahrheit zu Seinen Jüngern:
+„Eine Stadt,
+die auf einem Berg liegt,
+kann nicht verborgen bleiben;
+noch zündet man ein Licht an und stellt es unter den Scheffel,
+sondern auf den Leuchter,
+damit es allen,
+die im Haus sind,
+Licht gibt\.“[^bible-4aa48583-7a0b-4a09-9149-eb737f9325c4]
+Daher fragt Er Petrus:
+„Simon,
+Sohn des Jonas,
+liebst du Mich?“[^bible-a1209ecc-f4ee-4547-8a9f-7f6f9cbff057]
+Und als dieser sofort antwortete,
+dass er Ihn liebt,
+wurde ihm gesagt:
+„Wenn du Mich liebst,
+weide Meine Schafe\.“[^bible-6c55f13a-f57a-4f66-983b-59571577a0ed]
+Wenn also die Sorge um das Weiden der Schafe der Beweis der Liebe ist,
+so wird jeder,
+der in Tugenden überfließt und dennoch sich weigert,
+die Herde Gottes zu weiden,
+der Unliebe zum Oberhirten überführt\.
+Daher sagt Paulus:
+„Wenn Christus für alle starb,
+dann starben alle\.
+Und wenn Er für alle starb,
+bleibt es,
+dass die,
+die leben,
+nicht mehr für sich selbst leben,
+sondern für den,
+der für sie starb und auferstand\.“[^bible-1980ac15-9a3f-4431-86bb-74eff9db33e7]
+Daher sagt Mose:
+„Wenn ein überlebender Bruder die Frau eines Bruders,
+der ohne Kinder gestorben ist,
+nehmen soll,
+um Kinder für den Namen seines Bruders zu zeugen;
+und wenn er sich weigert,
+sie zu nehmen,
+soll die Frau ihm ins Gesicht spucken,
+und sein Verwandter soll den Schuh von einem seiner Füße lösen und sein Haus das Haus desjenigen nennen,
+dessen Schuh gelöst ist\.“[^bible-266e82af-374a-46ca-8cde-608352df3dc9]
+Der verstorbene Bruder ist derjenige,
+der nach der Herrlichkeit der Auferstehung sagte:
+„Geht und sagt meinen Brüdern\.“
+Denn er starb,
+als hätte er keine Kinder,
+da er die Zahl seiner Auserwählten noch nicht erfüllt hatte\.
+Dann wird angeordnet,
+dass der überlebende Bruder die ihm zugewiesene Frau haben soll,
+weil es sicherlich angemessen ist,
+dass die Sorge um die heilige Kirche dem auferlegt wird,
+der am besten in der Lage ist,
+sie gut zu regieren\.
+Wenn er jedoch unwilling ist,
+spuckt die Frau ihm ins Gesicht,
+denn wer sich nicht darum kümmert,
+anderen aus den Gaben,
+die er empfangen hat,
+Nutzen zu bringen,
+der wird von der heiligen Kirche auch dessen,
+was er Gutes hat,
+verurteilt und,
+als ob man ihm ins Gesicht spuckt,
+wird ihm der Schuh von einem Fuß genommen,
+da geschrieben steht:
+„Eure Füße mit der Bereitschaft des Evangeliums des Friedens beschuht\.“[^bible-356938cf-d77c-4c2a-b4f8-12442ff1777f]
+Wenn wir also die Sorge um unseren Nächsten ebenso wie um uns selbst auf uns haben,
+sind beide Füße durch einen Schuh geschützt\.
+Aber wer,
+während er über seinen eigenen Vorteil nachdenkt,
+den seiner Nächsten vernachlässigt,
+verliert mit Schande den Schuh eines Fußes\.
+Und so gibt es einige,
+wie wir gesagt haben,
+die mit großen Gaben bereichert sind,
+die,
+während sie nur für die Studien der Kontemplation eifern,
+sich davor scheuen,
+durch Predigt zum Nutzen ihrer Nächsten zu dienen;
+sie lieben einen geheimen Ort der Ruhe und sehnen sich nach einem Rückzugsort für Spekulation\.
+In Bezug auf dieses Verhalten sind sie,
+wenn man es streng beurteilt,
+zweifellos schuldig im Verhältnis zur Größe der Gaben,
+durch die sie öffentlich nützlich sein könnten\.
+Denn mit welcher Gesinnung zieht es jemand,
+der in der Lage wäre,
+seinen Nächsten zu nützen,
+vor,
+seine eigene Privatsphäre dem Vorteil anderer vorzuziehen,
+wenn der Einziggezeugte des höchsten Vaters selbst aus dem Schoß des Vaters in unsere Mitte trat,
+um vielen Nutzen zu bringen?
 
 ## Bibelverweise
 

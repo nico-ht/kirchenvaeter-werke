@@ -7,8 +7,80 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-v#kapitel-767f5398-3075-4fa6-ce60-08def5891738).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:cc1816ff57b6c4535a3cf035b953174355ff3c0577cc581cf8e2e315177cd1d6`
+Diejenigen,
+die neben dem Schöpfer noch einen anderen Vater erdichten und ihn den guten Gott nennen,
+täuschen sich selbst\.
+Denn sie stellen ihn als schwach,
+wertlos und nachlässig hin,
+ja man müsste fast sagen:
+als bösartig und voller Neid,
+weil sie behaupten,
+unsere Leiber würden nicht von ihm lebendig gemacht\.
+Denn wenn sie von Dingen,
+von denen für alle offenbar ist,
+dass sie unsterblich bleiben,
+wie Geist und Seele und anderes dergleichen,
+sagen,
+sie würden vom Vater lebendig gemacht,
+vom anderen aber,
+nämlich dem Leib,
+der auf keine andere Weise lebendig gemacht wird als dadurch,
+dass Gott ihm Leben schenkt,
+sagen,
+er werde vom Leben verlassen,
+dann müssen sie entweder zugeben,
+dass ihr Vater damit als schwach und kraftlos erwiesen ist,
+oder als neidisch und bösartig\.
+Denn da der Schöpfer schon hier unsere sterblichen Leiber lebendig macht und ihnen durch die Propheten die Auferstehung verheißt,
+wie ich gezeigt habe:
+Wer erweist sich dann als mächtiger,
+stärker oder wirklich gut?
+Der Schöpfer,
+der den ganzen Menschen lebendig macht,
+oder ihr fälschlich so genannter Vater?
+Er gibt vor,
+der Lebendigmacher der Dinge zu sein,
+die von Natur aus unsterblich sind und denen das Leben ihrer eigenen Natur nach immer gegenwärtig ist\.
+Doch das,
+was seine Hilfe brauchte,
+um zu leben,
+macht er nicht gütig lebendig,
+sondern lässt es achtlos unter die Macht des Todes fallen\.
+Ist es also so,
+dass ihr Vater ihnen kein Leben schenkt,
+obwohl er die Macht dazu hat,
+oder besitzt er diese Macht nicht?
+Wenn es einerseits daran liegt,
+dass er es nicht kann,
+dann ist er nach dieser Annahme kein mächtiges Wesen und auch nicht vollkommener als der Schöpfer;
+denn der Schöpfer schenkt,
+wie wir erkennen müssen,
+das,
+was jener nicht zu geben vermag\.
+Wenn er es andererseits nicht schenkt,
+obwohl er die Macht dazu hat,
+dann erweist er sich nicht als guter,
+sondern als neidischer und bösartiger Vater\.
 
-Diejenigen, die neben dem Schöpfer noch einen anderen Vater erdichten und ihn den guten Gott nennen, täuschen sich selbst\. Denn sie stellen ihn als schwach, wertlos und nachlässig hin, ja man müsste fast sagen: als bösartig und voller Neid, weil sie behaupten, unsere Leiber würden nicht von ihm lebendig gemacht\. Denn wenn sie von Dingen, von denen für alle offenbar ist, dass sie unsterblich bleiben, wie Geist und Seele und anderes dergleichen, sagen, sie würden vom Vater lebendig gemacht, vom anderen aber, nämlich dem Leib, der auf keine andere Weise lebendig gemacht wird als dadurch, dass Gott ihm Leben schenkt, sagen, er werde vom Leben verlassen, dann müssen sie entweder zugeben, dass ihr Vater damit als schwach und kraftlos erwiesen ist, oder als neidisch und bösartig\. Denn da der Schöpfer schon hier unsere sterblichen Leiber lebendig macht und ihnen durch die Propheten die Auferstehung verheißt, wie ich gezeigt habe: Wer erweist sich dann als mächtiger, stärker oder wirklich gut? Der Schöpfer, der den ganzen Menschen lebendig macht, oder ihr fälschlich so genannter Vater? Er gibt vor, der Lebendigmacher der Dinge zu sein, die von Natur aus unsterblich sind und denen das Leben ihrer eigenen Natur nach immer gegenwärtig ist\. Doch das, was seine Hilfe brauchte, um zu leben, macht er nicht gütig lebendig, sondern lässt es achtlos unter die Macht des Todes fallen\. Ist es also so, dass ihr Vater ihnen kein Leben schenkt, obwohl er die Macht dazu hat, oder besitzt er diese Macht nicht? Wenn es einerseits daran liegt, dass er es nicht kann, dann ist er nach dieser Annahme kein mächtiges Wesen und auch nicht vollkommener als der Schöpfer; denn der Schöpfer schenkt, wie wir erkennen müssen, das, was jener nicht zu geben vermag\. Wenn er es andererseits nicht schenkt, obwohl er die Macht dazu hat, dann erweist er sich nicht als guter, sondern als neidischer und bösartiger Vater\.
-
-Wenn sie wiederum irgendeinen Grund anführen, weshalb ihr Vater den Körpern kein Leben mitteilt, dann muss dieser Grund notwendig größer erscheinen als der Vater, weil er ihn daran hindert, seine Güte auszuüben; und so wird seine Güte wegen eben jenes Grundes, den sie vorbringen, als schwach erwiesen\. Nun muss jeder erkennen, dass Körper Leben empfangen können\. Denn sie leben so weit, wie Gott will, dass sie leben; und da es sich so verhält, können die Häretiker nicht behaupten, diese Körper seien gänzlich unfähig, Leben zu empfangen\. Wenn also wegen einer Notwendigkeit oder irgendeines anderen Grundes jene Körper, die am Leben teilhaben können, nicht lebendig gemacht werden, dann ist ihr Vater Sklave der Notwendigkeit und dieses Grundes und deshalb kein freies Wesen, das seinen Willen in eigener Gewalt hat\.
+Wenn sie wiederum irgendeinen Grund anführen,
+weshalb ihr Vater den Körpern kein Leben mitteilt,
+dann muss dieser Grund notwendig größer erscheinen als der Vater,
+weil er ihn daran hindert,
+seine Güte auszuüben;
+und so wird seine Güte wegen eben jenes Grundes,
+den sie vorbringen,
+als schwach erwiesen\.
+Nun muss jeder erkennen,
+dass Körper Leben empfangen können\.
+Denn sie leben so weit,
+wie Gott will,
+dass sie leben;
+und da es sich so verhält,
+können die Häretiker nicht behaupten,
+diese Körper seien gänzlich unfähig,
+Leben zu empfangen\.
+Wenn also wegen einer Notwendigkeit oder irgendeines anderen Grundes jene Körper,
+die am Leben teilhaben können,
+nicht lebendig gemacht werden,
+dann ist ihr Vater Sklave der Notwendigkeit und dieses Grundes und deshalb kein freies Wesen,
+das seinen Willen in eigener Gewalt hat\.

@@ -7,6 +7,17 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-5b09e9b1-84fd-4048-767e-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a5f2fabbb75d267332bf7aaabd73d34ab7eb527277aa1fe5c4a26aea81bf755b`
-
-„Doch während die Schafe geschlachtet werden, und das Passah gegessen wird, und das Mysterium vollendet ist, und das Volk sich freut, und Israel versiegelt wird: da kam der Engel, um Ägypten zu schlagen, die Ungelehrten im Mysterium, die keinen Anteil am Passah hatten, die nicht durch das Blut versiegelt waren, die nicht vom Geist bewacht wurden, die Feindlichen, die Ungläubigen; in einer Nacht schlug er sie und machte sie kinderlos\.“
+„Doch während die Schafe geschlachtet werden,
+und das Passah gegessen wird,
+und das Mysterium vollendet ist,
+und das Volk sich freut,
+und Israel versiegelt wird:
+da kam der Engel,
+um Ägypten zu schlagen,
+die Ungelehrten im Mysterium,
+die keinen Anteil am Passah hatten,
+die nicht durch das Blut versiegelt waren,
+die nicht vom Geist bewacht wurden,
+die Feindlichen,
+die Ungläubigen;
+in einer Nacht schlug er sie und machte sie kinderlos\.“

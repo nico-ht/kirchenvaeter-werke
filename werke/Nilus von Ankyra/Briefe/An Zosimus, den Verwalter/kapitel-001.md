@@ -7,6 +7,20 @@ Autor: Nilus von Ankyra
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/nilus-von-ankyra/an-zosimus-den-verwalter#kapitel-a7f523fa-f934-430e-1640-08de7d60074f).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e81f84ea0690d1f8679e83450c2f8df3dc84bbab08d4a8ec097fad04055817b1`
-
-Der böse Mensch spricht sehr schnell gegen ein gerechtes Urteil, der Gerechte aber ist niemals schnell darin, den Ungerechten zu verurteilen\. Wer nicht zum Bösen neigt, neigt auch nicht zum Argwohn\. Der Ehebrecher denkt, jeder sei ein Ehebrecher, und der Dieb hält jeden anderen für einen Dieb\. Der weise, heilige und gottliebende Mann hält jeden anderen für fromm und gerecht\. Du aber, der du selbst viele Jahre lang verleumdet wurdest, denkst, jeder sei boshaft und ungerecht, und beschuldigst alle, schurkenhaft, hinterlistig und durch und durch böse zu sein\!
+Der böse Mensch spricht sehr schnell gegen ein gerechtes Urteil,
+der Gerechte aber ist niemals schnell darin,
+den Ungerechten zu verurteilen\.
+Wer nicht zum Bösen neigt,
+neigt auch nicht zum Argwohn\.
+Der Ehebrecher denkt,
+jeder sei ein Ehebrecher,
+und der Dieb hält jeden anderen für einen Dieb\.
+Der weise,
+heilige und gottliebende Mann hält jeden anderen für fromm und gerecht\.
+Du aber,
+der du selbst viele Jahre lang verleumdet wurdest,
+denkst,
+jeder sei boshaft und ungerecht,
+und beschuldigst alle,
+schurkenhaft,
+hinterlistig und durch und durch böse zu sein\!

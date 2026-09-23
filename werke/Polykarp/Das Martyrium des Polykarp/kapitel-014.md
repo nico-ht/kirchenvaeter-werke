@@ -7,6 +7,30 @@ Autor: Polykarp
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/polykarp/das-martyrium-des-polykarp#kapitel-a814c1b0-aca1-4ca4-1432-08ded5491050).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:4f9c8b1158fa0792cc3711bbae45cf42454f9284458f46490fad356780613827`
-
-Sie nagelten ihn also nicht an, sondern banden ihn fest\. Er legte die Hände auf den Rücken und wurde angebunden, wie ein stattlicher Widder aus einer großen Herde zur Opfergabe, als ein Gott wohlgefälliges Brandopfer bereitet\. Dann blickte er zum Himmel auf und sprach: „Herr, Gott, Allherrscher, Vater deines geliebten und gepriesenen Knechtes Jesus Christus, durch den wir die Erkenntnis von dir empfangen haben, Gott der Engel und Mächte und der ganzen Schöpfung und des ganzen Geschlechts der Gerechten, die vor deinem Angesicht leben: Ich preise dich, weil du mich dieses Tages und dieser Stunde würdig gemacht hast, Anteil zu empfangen an der Zahl der Märtyrer im Kelch deines Christus, zur Auferstehung des ewigen Lebens von Seele und Körper in der Unvergänglichkeit des Heiligen Geistes\. Unter ihnen möge ich heute vor deinem Angesicht angenommen werden als ein reiches und wohlgefälliges Opfer, wie du es zuvor bereitet, im Voraus offenbart und erfüllt hast, du untrüglicher und wahrhaftiger Gott\. Darum lobe ich dich auch für alles, ich preise dich, ich verherrliche dich durch den ewigen und himmlischen Hohepriester Jesus Christus, deinen geliebten Knecht; durch ihn sei dir mit ihm und dem Heiligen Geist Herrlichkeit jetzt und in die kommenden Zeitalter\. Amen\.“
+Sie nagelten ihn also nicht an,
+sondern banden ihn fest\.
+Er legte die Hände auf den Rücken und wurde angebunden,
+wie ein stattlicher Widder aus einer großen Herde zur Opfergabe,
+als ein Gott wohlgefälliges Brandopfer bereitet\.
+Dann blickte er zum Himmel auf und sprach:
+„Herr,
+Gott,
+Allherrscher,
+Vater deines geliebten und gepriesenen Knechtes Jesus Christus,
+durch den wir die Erkenntnis von dir empfangen haben,
+Gott der Engel und Mächte und der ganzen Schöpfung und des ganzen Geschlechts der Gerechten,
+die vor deinem Angesicht leben:
+Ich preise dich,
+weil du mich dieses Tages und dieser Stunde würdig gemacht hast,
+Anteil zu empfangen an der Zahl der Märtyrer im Kelch deines Christus,
+zur Auferstehung des ewigen Lebens von Seele und Körper in der Unvergänglichkeit des Heiligen Geistes\.
+Unter ihnen möge ich heute vor deinem Angesicht angenommen werden als ein reiches und wohlgefälliges Opfer,
+wie du es zuvor bereitet,
+im Voraus offenbart und erfüllt hast,
+du untrüglicher und wahrhaftiger Gott\.
+Darum lobe ich dich auch für alles,
+ich preise dich,
+ich verherrliche dich durch den ewigen und himmlischen Hohepriester Jesus Christus,
+deinen geliebten Knecht;
+durch ihn sei dir mit ihm und dem Heiligen Geist Herrlichkeit jetzt und in die kommenden Zeitalter\.
+Amen\.“

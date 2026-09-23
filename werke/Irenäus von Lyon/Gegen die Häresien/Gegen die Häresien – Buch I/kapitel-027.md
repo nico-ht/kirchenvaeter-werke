@@ -7,12 +7,107 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-i#kapitel-f7619472-015a-46c3-0337-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:bdeb2b01f65dd610dae231b94db75e709bddaefdded08db54ae59e0f436aab3e`
+Cerdo war einer,
+der sein System von den Anhängern Simons übernahm und zur Zeit des Hyginus nach Rom kam;
+Hyginus hatte in der bischöflichen Nachfolge von den Aposteln her den neunten Platz inne\.
+Er lehrte,
+der durch das Gesetz und die Propheten verkündete Gott sei nicht der Vater unseres Herrn Jesus Christus\.
+Denn jener sei bekannt gewesen,
+dieser aber unbekannt;
+der eine sei zudem gerecht,
+der andere aber gütig\.
 
-Cerdo war einer, der sein System von den Anhängern Simons übernahm und zur Zeit des Hyginus nach Rom kam; Hyginus hatte in der bischöflichen Nachfolge von den Aposteln her den neunten Platz inne\. Er lehrte, der durch das Gesetz und die Propheten verkündete Gott sei nicht der Vater unseres Herrn Jesus Christus\. Denn jener sei bekannt gewesen, dieser aber unbekannt; der eine sei zudem gerecht, der andere aber gütig\.
+Marcion von Pontus folgte ihm und baute seine Lehre weiter aus\.
+Dabei brachte er die kühnste Lästerung gegen den vor,
+der durch das Gesetz und die Propheten als Gott verkündigt wird:
+Er erklärte ihn zum Urheber von Übeln,
+sagte,
+er habe Freude am Krieg,
+sei in seinen Absichten schwach und stehe sogar im Widerspruch zu sich selbst\.
+Jesus aber,
+der von jenem Vater stamme,
+der über dem Gott steht,
+der die Welt gemacht hat,
+und der zur Zeit des Statthalters Pontius Pilatus,
+des Prokurators des Tiberius Cäsar,
+nach Judäa gekommen sei,
+sei denen in Judäa in Menschengestalt erschienen und habe die Propheten,
+das Gesetz und alle Werke jenes Gottes aufgehoben,
+der die Welt gemacht hat und den Marcion auch Kosmokrator nennt\.
+Außerdem verstümmelt er das Evangelium nach Lukas:
+Er entfernt alles,
+was über die Herkunft des Herrn geschrieben steht,
+und lässt einen großen Teil der Lehre des Herrn weg,
+in der überliefert ist,
+dass der Herr ganz klar bekennt,
+der Schöpfer dieses Alls sei sein Vater\.
+Ebenso brachte er seine Schüler dazu zu glauben,
+er selbst verdiene mehr Vertrauen als jene Apostel,
+die uns das Evangelium überliefert haben;
+dabei gab er ihnen nicht das Evangelium,
+sondern nur ein Bruchstück davon\.
+Genauso zerschnitt er auch die Briefe des Paulus:
+Er entfernte alles,
+was der Apostel über jenen Gott sagt,
+der die Welt gemacht hat,
+nämlich dass er der Vater unseres Herrn Jesus Christus ist,
+und ebenso jene Stellen aus den prophetischen Schriften,
+die der Apostel anführt,
+um uns zu lehren,
+dass sie das Kommen des Herrn im Voraus angekündigt haben\.
 
-Marcion von Pontus folgte ihm und baute seine Lehre weiter aus\. Dabei brachte er die kühnste Lästerung gegen den vor, der durch das Gesetz und die Propheten als Gott verkündigt wird: Er erklärte ihn zum Urheber von Übeln, sagte, er habe Freude am Krieg, sei in seinen Absichten schwach und stehe sogar im Widerspruch zu sich selbst\. Jesus aber, der von jenem Vater stamme, der über dem Gott steht, der die Welt gemacht hat, und der zur Zeit des Statthalters Pontius Pilatus, des Prokurators des Tiberius Cäsar, nach Judäa gekommen sei, sei denen in Judäa in Menschengestalt erschienen und habe die Propheten, das Gesetz und alle Werke jenes Gottes aufgehoben, der die Welt gemacht hat und den Marcion auch Kosmokrator nennt\. Außerdem verstümmelt er das Evangelium nach Lukas: Er entfernt alles, was über die Herkunft des Herrn geschrieben steht, und lässt einen großen Teil der Lehre des Herrn weg, in der überliefert ist, dass der Herr ganz klar bekennt, der Schöpfer dieses Alls sei sein Vater\. Ebenso brachte er seine Schüler dazu zu glauben, er selbst verdiene mehr Vertrauen als jene Apostel, die uns das Evangelium überliefert haben; dabei gab er ihnen nicht das Evangelium, sondern nur ein Bruchstück davon\. Genauso zerschnitt er auch die Briefe des Paulus: Er entfernte alles, was der Apostel über jenen Gott sagt, der die Welt gemacht hat, nämlich dass er der Vater unseres Herrn Jesus Christus ist, und ebenso jene Stellen aus den prophetischen Schriften, die der Apostel anführt, um uns zu lehren, dass sie das Kommen des Herrn im Voraus angekündigt haben\.
+Das Heil werden nur jene Seelen erlangen,
+die seine Lehre gelernt haben;
+der Körper dagegen kann keinen Anteil am Heil haben,
+weil er von der Erde genommen ist\.
+Zu seiner Lästerung gegen Gott selbst fügte er auch noch dies hinzu:
+Er sprach wahrhaftig wie mit dem Mund des Teufels und sagte alles in direktem Widerspruch zur Wahrheit,
+nämlich dass Kain und seinesgleichen,
+die Sodomiter,
+die Ägypter und andere wie sie,
+kurz:
+alle Völker,
+die in jeder Art von Gräuel wandelten,
+vom Herrn gerettet worden seien,
+als er in den Hades hinabstieg und sie zu ihm liefen,
+und dass sie ihn in ihr Reich aufgenommen hätten\.
+Die Schlange aber,
+die in Marcion war,
+erklärte,
+Abel,
+Henoch,
+Noah und die anderen gerechten Männer aus dem Geschlecht des Patriarchen Abraham,
+dazu alle Propheten und alle,
+die Gott gefielen,
+hätten keinen Anteil am Heil erhalten\.
+Denn weil diese Männer,
+wie er sagt,
+wussten,
+dass ihr Gott sie beständig versuchte,
+hätten sie auch jetzt vermutet,
+dass er sie versuche,
+und seien nicht zu Jesus gelaufen und hätten seiner Verkündigung nicht geglaubt;
+deshalb erklärte er,
+ihre Seelen seien im Hades geblieben\.
 
-Das Heil werden nur jene Seelen erlangen, die seine Lehre gelernt haben; der Körper dagegen kann keinen Anteil am Heil haben, weil er von der Erde genommen ist\. Zu seiner Lästerung gegen Gott selbst fügte er auch noch dies hinzu: Er sprach wahrhaftig wie mit dem Mund des Teufels und sagte alles in direktem Widerspruch zur Wahrheit, nämlich dass Kain und seinesgleichen, die Sodomiter, die Ägypter und andere wie sie, kurz: alle Völker, die in jeder Art von Gräuel wandelten, vom Herrn gerettet worden seien, als er in den Hades hinabstieg und sie zu ihm liefen, und dass sie ihn in ihr Reich aufgenommen hätten\. Die Schlange aber, die in Marcion war, erklärte, Abel, Henoch, Noah und die anderen gerechten Männer aus dem Geschlecht des Patriarchen Abraham, dazu alle Propheten und alle, die Gott gefielen, hätten keinen Anteil am Heil erhalten\. Denn weil diese Männer, wie er sagt, wussten, dass ihr Gott sie beständig versuchte, hätten sie auch jetzt vermutet, dass er sie versuche, und seien nicht zu Jesus gelaufen und hätten seiner Verkündigung nicht geglaubt; deshalb erklärte er, ihre Seelen seien im Hades geblieben\.
-
-Da dieser Mann als Einziger gewagt hat, die Schriften offen zu verstümmeln und mehr als alle anderen schamlos gegen Gott zu wettern, will ich ihn eigens widerlegen und ihn aus seinen eigenen Schriften überführen\. Mit Gottes Hilfe werde ich ihn durch jene Worte des Herrn und der Apostel zu Fall bringen, die für ihn verbindlich sind und die er selbst benutzt\. Jetzt jedoch habe ich ihn nur deshalb erwähnt, damit du erkennst: Alle, die auf irgendeine Weise die Wahrheit verderben und der Verkündigung der Kirche Schaden zufügen, sind Schüler und Nachfolger Simons, des Magiers aus Samaria\. Auch wenn sie den Namen ihres Meisters nicht bekennen, um andere umso leichter zu verführen, lehren sie doch seine Lehren\. Den Namen Christi Jesu stellen sie zwar wie einen Köder aus, führen aber auf verschiedene Weise die Gottlosigkeiten Simons ein; so richten sie viele zugrunde, indem sie ihre eigenen Lehren böswillig verbreiten, sich dabei eines guten Namens bedienen und durch dessen Süße und Schönheit das bittere und verderbliche Gift der Schlange, des großen Urhebers des Abfalls, an ihre Hörer weiterreichen\.
+Da dieser Mann als Einziger gewagt hat,
+die Schriften offen zu verstümmeln und mehr als alle anderen schamlos gegen Gott zu wettern,
+will ich ihn eigens widerlegen und ihn aus seinen eigenen Schriften überführen\.
+Mit Gottes Hilfe werde ich ihn durch jene Worte des Herrn und der Apostel zu Fall bringen,
+die für ihn verbindlich sind und die er selbst benutzt\.
+Jetzt jedoch habe ich ihn nur deshalb erwähnt,
+damit du erkennst:
+Alle,
+die auf irgendeine Weise die Wahrheit verderben und der Verkündigung der Kirche Schaden zufügen,
+sind Schüler und Nachfolger Simons,
+des Magiers aus Samaria\.
+Auch wenn sie den Namen ihres Meisters nicht bekennen,
+um andere umso leichter zu verführen,
+lehren sie doch seine Lehren\.
+Den Namen Christi Jesu stellen sie zwar wie einen Köder aus,
+führen aber auf verschiedene Weise die Gottlosigkeiten Simons ein;
+so richten sie viele zugrunde,
+indem sie ihre eigenen Lehren böswillig verbreiten,
+sich dabei eines guten Namens bedienen und durch dessen Süße und Schönheit das bittere und verderbliche Gift der Schlange,
+des großen Urhebers des Abfalls,
+an ihre Hörer weiterreichen\.

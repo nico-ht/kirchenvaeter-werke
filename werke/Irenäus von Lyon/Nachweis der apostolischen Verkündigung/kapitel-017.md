@@ -7,9 +7,36 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-14e0901e-83e7-4838-3220-08debf1e7015).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7c58055f6eefe63bc1aff660149f20f48f1fcdb75972bcf0474903040831485c`
-
-Und als sie aus dem Paradies hinausgesetzt waren, gerieten Adam und seine Frau Eva in viele Nöte ängstlicher Trauer; sie gingen in dieser Welt mit Kummer, Mühsal und Klage umher\. Denn unter den Strahlen dieser Sonne bebaute der Mensch die Erde, und sie brachte Dornen und Disteln hervor, die Strafe der Sünde\. Da erfüllte sich, was geschrieben stand: „Adam erkannte seine Frau, und sie empfing und gebar Kain; nach ihm gebar sie Abel[^bible-0e1300f1-f7cc-45ee-95c3-16fbf3336412]\.“ Nun war der abtrünnige Engel, der den Menschen zum Ungehorsam verleitet, ihn sündig gemacht und seine Vertreibung aus dem Paradies verursacht hatte, mit dem ersten Bösen nicht zufrieden, sondern wirkte ein zweites an den Brüdern: Denn indem er Kain mit seinem Geist erfüllte, machte er ihn zum Brudermörder\. So starb Abel, von seinem Bruder erschlagen; damit zeigte sich von da an, dass manche verfolgt, unterdrückt und getötet werden sollten, wobei die Ungerechten die Gerechten töten und verfolgen\. Darüber aber wurde Gott noch mehr zornig und verfluchte Kain; und es geschah, dass jeder aus diesem Geschlecht in den aufeinanderfolgenden Generationen dem Erzeuger gleich gemacht wurde\. Und Gott ließ Adam einen anderen Sohn erstehen, anstelle des erschlagenen Abel\.
+Und als sie aus dem Paradies hinausgesetzt waren,
+gerieten Adam und seine Frau Eva in viele Nöte ängstlicher Trauer;
+sie gingen in dieser Welt mit Kummer,
+Mühsal und Klage umher\.
+Denn unter den Strahlen dieser Sonne bebaute der Mensch die Erde,
+und sie brachte Dornen und Disteln hervor,
+die Strafe der Sünde\.
+Da erfüllte sich,
+was geschrieben stand:
+„Adam erkannte seine Frau,
+und sie empfing und gebar Kain;
+nach ihm gebar sie Abel[^bible-0e1300f1-f7cc-45ee-95c3-16fbf3336412]\.“
+Nun war der abtrünnige Engel,
+der den Menschen zum Ungehorsam verleitet,
+ihn sündig gemacht und seine Vertreibung aus dem Paradies verursacht hatte,
+mit dem ersten Bösen nicht zufrieden,
+sondern wirkte ein zweites an den Brüdern:
+Denn indem er Kain mit seinem Geist erfüllte,
+machte er ihn zum Brudermörder\.
+So starb Abel,
+von seinem Bruder erschlagen;
+damit zeigte sich von da an,
+dass manche verfolgt,
+unterdrückt und getötet werden sollten,
+wobei die Ungerechten die Gerechten töten und verfolgen\.
+Darüber aber wurde Gott noch mehr zornig und verfluchte Kain;
+und es geschah,
+dass jeder aus diesem Geschlecht in den aufeinanderfolgenden Generationen dem Erzeuger gleich gemacht wurde\.
+Und Gott ließ Adam einen anderen Sohn erstehen,
+anstelle des erschlagenen Abel\.
 
 ## Bibelverweise
 

@@ -7,6 +7,19 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-2#kapitel-58ee93e0-8136-4973-cd23-08ddea5063d8).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:9e059ee7677c5263a78f58b0e1d698046305e92006a135bc3b2f3625aee31f39`
-
-Als Gaius noch nicht einmal vier Jahre regiert hatte, folgte ihm als Kaiser Claudius nach; unter ihm ergriff eine schwere Hungersnot die ganze Welt\. Unsere Propheten hatten es jedoch längst zuvor angekündigt: Die Apostelgeschichte berichtet, dass ein Prophet namens Agabus verkündete, es werde unter Kaiser Claudius eine große Hungersnot geben\. Lukas, der dies von Agabus erzählt, fügt hinzu, dass jeder so viel gab, wie er vermochte, und zwar durch die Brüder Paulus und Barnabas, die in Antiochien waren, den in Jerusalem lebenden Heiligen\. Und er fährt fort,
+Als Gaius noch nicht einmal vier Jahre regiert hatte,
+folgte ihm als Kaiser Claudius nach;
+unter ihm ergriff eine schwere Hungersnot die ganze Welt\.
+Unsere Propheten hatten es jedoch längst zuvor angekündigt:
+Die Apostelgeschichte berichtet,
+dass ein Prophet namens Agabus verkündete,
+es werde unter Kaiser Claudius eine große Hungersnot geben\.
+Lukas,
+der dies von Agabus erzählt,
+fügt hinzu,
+dass jeder so viel gab,
+wie er vermochte,
+und zwar durch die Brüder Paulus und Barnabas,
+die in Antiochien waren,
+den in Jerusalem lebenden Heiligen\.
+Und er fährt fort,

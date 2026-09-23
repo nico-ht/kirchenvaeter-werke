@@ -7,6 +7,36 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-3#kapitel-a024376d-bb13-4730-9ca7-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e18ce718816a9a5eef0c25cad2889998eaad83744826e65443b1a4207e59d765`
-
-Warum ordnet er an, dass nur die männlichen Personen beschnitten werden? Denn erstens beschneiden die Ägypter nach den heimischen Bräuchen ihres Landes im vierzehnten Lebensjahr, wenn der Mann die Fähigkeit zur Fortpflanzung seiner Art zu besitzen beginnt und die Frau in das Alter der Geschlechtsreife kommt, sowohl Braut als auch Bräutigam\. Der göttliche Gesetzgeber aber bestimmt aus vielen Gründen, dass die Beschneidung allein beim Mann stattfindet\. Der erste Grund ist dieser: Das männliche Geschöpf empfindet geschlechtliche Lust und begehrt eheliche Verbindungen stärker als das weibliche; deshalb wird das Weibliche hier mit Recht ausgelassen, während er die übermäßige Ungestümheit des Mannes durch das Zeichen der Beschneidung zügelt\. Der zweite Grund aber ist: Der Stoff des Weiblichen wird dem Sohn aus dem Überschuss des hervorbrechenden Blutes geliefert, während der unmittelbare Bildner und die Ursache des Sohnes der Mann ist\. Weil also der Mann beim Vorgang der Zeugung den unentbehrlichsten Anteil liefert, dämpft Gott mit Recht seinen Stolz durch das Bild der Beschneidung; die stoffliche oder weibliche Ursache dagegen zeigt, weil sie untätig ist, nicht im selben Maß Ehrgeiz\. Und damit ist zu diesem Punkt genug gesagt\. Danach aber müssen wir auch dies beachten: Der Verstand in uns ist mit der Kraft des Sehens ausgestattet; darum ist es notwendig, seine überflüssigen Triebe abzuschneiden\. Diese überflüssigen Triebe sind leere Meinungen und alle Handlungen, die ihnen entsprechend vollzogen werden\. So soll der Verstand nach der Beschneidung nur noch das mit sich tragen, was notwendig und nützlich ist, und alles, was den Stolz wachsen lässt, soll abgeschnitten werden; dabei werden auch die Augen beschnitten, als sähen sie nicht\.
+Warum ordnet er an,
+dass nur die männlichen Personen beschnitten werden?
+Denn erstens beschneiden die Ägypter nach den heimischen Bräuchen ihres Landes im vierzehnten Lebensjahr,
+wenn der Mann die Fähigkeit zur Fortpflanzung seiner Art zu besitzen beginnt und die Frau in das Alter der Geschlechtsreife kommt,
+sowohl Braut als auch Bräutigam\.
+Der göttliche Gesetzgeber aber bestimmt aus vielen Gründen,
+dass die Beschneidung allein beim Mann stattfindet\.
+Der erste Grund ist dieser:
+Das männliche Geschöpf empfindet geschlechtliche Lust und begehrt eheliche Verbindungen stärker als das weibliche;
+deshalb wird das Weibliche hier mit Recht ausgelassen,
+während er die übermäßige Ungestümheit des Mannes durch das Zeichen der Beschneidung zügelt\.
+Der zweite Grund aber ist:
+Der Stoff des Weiblichen wird dem Sohn aus dem Überschuss des hervorbrechenden Blutes geliefert,
+während der unmittelbare Bildner und die Ursache des Sohnes der Mann ist\.
+Weil also der Mann beim Vorgang der Zeugung den unentbehrlichsten Anteil liefert,
+dämpft Gott mit Recht seinen Stolz durch das Bild der Beschneidung;
+die stoffliche oder weibliche Ursache dagegen zeigt,
+weil sie untätig ist,
+nicht im selben Maß Ehrgeiz\.
+Und damit ist zu diesem Punkt genug gesagt\.
+Danach aber müssen wir auch dies beachten:
+Der Verstand in uns ist mit der Kraft des Sehens ausgestattet;
+darum ist es notwendig,
+seine überflüssigen Triebe abzuschneiden\.
+Diese überflüssigen Triebe sind leere Meinungen und alle Handlungen,
+die ihnen entsprechend vollzogen werden\.
+So soll der Verstand nach der Beschneidung nur noch das mit sich tragen,
+was notwendig und nützlich ist,
+und alles,
+was den Stolz wachsen lässt,
+soll abgeschnitten werden;
+dabei werden auch die Augen beschnitten,
+als sähen sie nicht\.

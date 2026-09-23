@@ -7,6 +7,43 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-1#kapitel-c541c3e5-b142-4039-c851-08dd5a4d0198).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d3c02621f539b4cca31830102ecac3e0ac2745f3287006fd7dba08333c57f659`
-
-Vorausschauende Umsicht wird im Gegensatz zur Unruhe des Volkes geschätzt\. Die Flucht des Aristobolus aber und seine Rückkehr nach Judäa riefen große Unruhe hervor; viele strömten zu ihm zurück, die er durch die Gunst alter Freundschaft oder durch die jüngsten Ereignisse aufgewiegelt hatte, während jene, die das Niedrigste mit dem Höchsten vermischen wollten, aus der öffentlichen Zwietracht ein Heilmittel suchten und noch andere Hoffnungen gescheitert waren\. Nach seiner Rückkehr befestigte er daher die Plätze und begann, Alexandrium wiederherzustellen\. Als dies bekannt wurde, verhinderte Gabinius das begonnene Werk, indem er Sisinius, Antonius und Servilius mit einem Teil des Heeres entsandte\. Auch nachdem die Befestigungen aufgegeben waren, rüstete sich Aristobolus zum Krieg; und weil er ein Heer mit sich führte, das zahlreicher war, als es nützlich war, sonderte er die Menge der Unbewaffneten aus und sammelte nur achttausend Bewaffnete, zu denen auch Pitholaus hinzukam, der freiwillig mit tausend Männern aus Jerusalem gekommen war\. Darauf kam es zur Schlacht, denn die Römer saßen ihnen im Nacken\. Eine geraume Zeit wurde zwar heftig gekämpft, doch die römische Stärke behielt die Oberhand: fünftausend Juden wurden getötet; Aristobolus durchbrach mit tausend Männern die Schlachtlinie und zog sich in den Schutz der Festung Macheruntis zurück; zweitausend wurden anderswohin zerstreut\. Die Römer aber griffen die Festung an und wurden fast zwei Tage lang aufgehalten, denn in äußerster Bedrängnis kämpfte Aristobolus mit aller Kraft, konnte aber keineswegs länger standhalten\. Er wurde zusammen mit seinem Sohn Antigonus gefangen genommen, den er auf seiner Flucht aus dem Gefängnis mit sich fortgeführt hatte, und zu Gabinius geschickt; von diesem wurden sie nach Rom gesandt\. Gabinius stellte Aristobolus unter die Obhut des Senats, seine Söhne aber schickte er nach Bithynien, weil man berichtet, Gabinius habe der Frau des Aristobolus in Briefen die Zusage angedeutet, ihren Eifer zum Dank für die ihm übergebenen Festungen zu belohnen\.
+Vorausschauende Umsicht wird im Gegensatz zur Unruhe des Volkes geschätzt\.
+Die Flucht des Aristobolus aber und seine Rückkehr nach Judäa riefen große Unruhe hervor;
+viele strömten zu ihm zurück,
+die er durch die Gunst alter Freundschaft oder durch die jüngsten Ereignisse aufgewiegelt hatte,
+während jene,
+die das Niedrigste mit dem Höchsten vermischen wollten,
+aus der öffentlichen Zwietracht ein Heilmittel suchten und noch andere Hoffnungen gescheitert waren\.
+Nach seiner Rückkehr befestigte er daher die Plätze und begann,
+Alexandrium wiederherzustellen\.
+Als dies bekannt wurde,
+verhinderte Gabinius das begonnene Werk,
+indem er Sisinius,
+Antonius und Servilius mit einem Teil des Heeres entsandte\.
+Auch nachdem die Befestigungen aufgegeben waren,
+rüstete sich Aristobolus zum Krieg;
+und weil er ein Heer mit sich führte,
+das zahlreicher war,
+als es nützlich war,
+sonderte er die Menge der Unbewaffneten aus und sammelte nur achttausend Bewaffnete,
+zu denen auch Pitholaus hinzukam,
+der freiwillig mit tausend Männern aus Jerusalem gekommen war\.
+Darauf kam es zur Schlacht,
+denn die Römer saßen ihnen im Nacken\.
+Eine geraume Zeit wurde zwar heftig gekämpft,
+doch die römische Stärke behielt die Oberhand:
+fünftausend Juden wurden getötet;
+Aristobolus durchbrach mit tausend Männern die Schlachtlinie und zog sich in den Schutz der Festung Macheruntis zurück;
+zweitausend wurden anderswohin zerstreut\.
+Die Römer aber griffen die Festung an und wurden fast zwei Tage lang aufgehalten,
+denn in äußerster Bedrängnis kämpfte Aristobolus mit aller Kraft,
+konnte aber keineswegs länger standhalten\.
+Er wurde zusammen mit seinem Sohn Antigonus gefangen genommen,
+den er auf seiner Flucht aus dem Gefängnis mit sich fortgeführt hatte,
+und zu Gabinius geschickt;
+von diesem wurden sie nach Rom gesandt\.
+Gabinius stellte Aristobolus unter die Obhut des Senats,
+seine Söhne aber schickte er nach Bithynien,
+weil man berichtet,
+Gabinius habe der Frau des Aristobolus in Briefen die Zusage angedeutet,
+ihren Eifer zum Dank für die ihm übergebenen Festungen zu belohnen\.

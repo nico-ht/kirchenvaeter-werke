@@ -7,9 +7,85 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-2#kapitel-bf52d8fe-95ac-4f9b-0a6c-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0db79d400053d2075aa0335d5e2628481765154bcbf4be65c8840b5f95754730`
-
-Und warum sage ich „allen“? Denn selbst bei seinen eigenen Aposteln und Jüngern war er nicht ununterbrochen gegenwärtig und zeigte sich ihnen auch nicht ständig, weil sie seine Gottheit nicht ohne Unterbrechung aufnehmen konnten\. Seine Gottheit strahlte nämlich heller, nachdem er das Heilswerk vollendet hatte\. Dies konnte Petrus schauen, der den Beinamen Kephas trug und gleichsam der Erstling der Apostel war, und mit ihm die Zwölf, nachdem Matthias an die Stelle von Judas getreten war\. Danach erschien er mehr als fünfhundert Brüdern zugleich, dann Jakobus, anschließend allen übrigen außer den zwölf Aposteln, vielleicht auch den Siebzig, und zuletzt Paulus wie einem, der zur Unzeit geboren wurde[^bible-5086f236-1bf9-4dd0-9228-d23c2ed1170f] und wohl wusste, wie er sagen musste: „Mir, der ich geringer bin als der Geringste von allen Heiligen, wurde diese Gnade gegeben\.[^bible-93ed4fc7-3214-4340-95d3-c8eaab8c5ff4] “ Wahrscheinlich bedeutet „der Geringste von allen“ dasselbe wie „einer, der zur Unzeit geboren wurde“\. Denn ebenso wenig, wie man Jesus vernünftigerweise vorwerfen könnte, dass er bei seiner Verklärung nicht alle Apostel mit auf den hohen Berg nahm, sondern nur die drei bereits genannten, als er den Glanz offenbarte, der an seinen Gewändern sichtbar wurde, und Mose und Elija in Herrlichkeit mit ihm sprachen[^bible-39ba5637-598c-4543-aea3-499a1efa1ac9], kann man vernünftigerweise den Aussagen der Apostel widersprechen, nach denen Jesus nach seiner Auferstehung nicht allen erschien, sondern nur denen, von denen er wusste, dass sie Augen empfangen hatten, die seine Auferstehung sehen konnten\. Ich denke außerdem, dass folgende Aussage über ihn zur Verteidigung unseres Gegenstands beiträgt: „Denn dazu ist Christus gestorben und wieder auferstanden, damit er Herr über Tote und Lebende sei\.[^bible-6859e780-3134-4148-8c9d-5c4c93235683] “ Beachte: Diese Worte besagen, dass Jesus starb, um Herr über die Toten zu sein, und dass er wieder auferstand, um nicht nur Herr über die Toten, sondern auch über die Lebenden zu sein\. Unter den Toten, über die Christus Herr sein soll, versteht der Apostel zweifellos diejenigen, die im ersten Brief an die Korinther so bezeichnet werden: „Denn die Posaune wird erschallen, und die Toten werden unverweslich auferweckt werden\.[^bible-12872a1d-202c-49dd-bf9a-d7f5985e5d2a] “ Unter den Lebenden aber versteht er diejenigen, die verwandelt werden sollen und von den Toten, die auferweckt werden sollen, verschieden sind\. Über die Lebenden heißt es: „Und wir werden verwandelt werden\.[^bible-12872a1d-202c-49dd-bf9a-d7f5985e5d2a] “ Diese Worte folgen unmittelbar auf die Aussage: „Die Toten werden zuerst auferstehen\.[^bible-419fc634-2ac8-4ddb-abea-95a468382f47] “ Im ersten Brief an die Thessalonicher beschreibt er dieselbe Verwandlung mit anderen Worten und sagt, dass die Entschlafenen nicht dieselben sind wie die Lebenden: „Ich will nicht, dass ihr, Brüder, über die Entschlafenen unwissend seid, damit ihr nicht trauert wie die anderen, die keine Hoffnung haben\. Denn wenn wir glauben, dass Jesus gestorben und wieder auferstanden ist, so wird Gott auch die, die in Jesus entschlafen sind, mit ihm führen\. Denn dies sagen wir euch durch das Wort des Herrn: Wir, die wir leben und bis zur Ankunft des Herrn übrig bleiben, werden den Entschlafenen nicht zuvorkommen\.[^bible-be4d8fc5-6bfa-4c4d-aa64-6c07b5974279] “ Die Erklärung, die uns für diese Stelle angemessen erschien, haben wir in unseren Ausführungen zum ersten Brief an die Thessalonicher gegeben\.
+Und warum sage ich „allen“?
+Denn selbst bei seinen eigenen Aposteln und Jüngern war er nicht ununterbrochen gegenwärtig und zeigte sich ihnen auch nicht ständig,
+weil sie seine Gottheit nicht ohne Unterbrechung aufnehmen konnten\.
+Seine Gottheit strahlte nämlich heller,
+nachdem er das Heilswerk vollendet hatte\.
+Dies konnte Petrus schauen,
+der den Beinamen Kephas trug und gleichsam der Erstling der Apostel war,
+und mit ihm die Zwölf,
+nachdem Matthias an die Stelle von Judas getreten war\.
+Danach erschien er mehr als fünfhundert Brüdern zugleich,
+dann Jakobus,
+anschließend allen übrigen außer den zwölf Aposteln,
+vielleicht auch den Siebzig,
+und zuletzt Paulus wie einem,
+der zur Unzeit geboren wurde[^bible-5086f236-1bf9-4dd0-9228-d23c2ed1170f] und wohl wusste,
+wie er sagen musste:
+„Mir,
+der ich geringer bin als der Geringste von allen Heiligen,
+wurde diese Gnade gegeben\.[^bible-93ed4fc7-3214-4340-95d3-c8eaab8c5ff4]
+“ Wahrscheinlich bedeutet „der Geringste von allen“ dasselbe wie „einer,
+der zur Unzeit geboren wurde“\.
+Denn ebenso wenig,
+wie man Jesus vernünftigerweise vorwerfen könnte,
+dass er bei seiner Verklärung nicht alle Apostel mit auf den hohen Berg nahm,
+sondern nur die drei bereits genannten,
+als er den Glanz offenbarte,
+der an seinen Gewändern sichtbar wurde,
+und Mose und Elija in Herrlichkeit mit ihm sprachen[^bible-39ba5637-598c-4543-aea3-499a1efa1ac9],
+kann man vernünftigerweise den Aussagen der Apostel widersprechen,
+nach denen Jesus nach seiner Auferstehung nicht allen erschien,
+sondern nur denen,
+von denen er wusste,
+dass sie Augen empfangen hatten,
+die seine Auferstehung sehen konnten\.
+Ich denke außerdem,
+dass folgende Aussage über ihn zur Verteidigung unseres Gegenstands beiträgt:
+„Denn dazu ist Christus gestorben und wieder auferstanden,
+damit er Herr über Tote und Lebende sei\.[^bible-6859e780-3134-4148-8c9d-5c4c93235683]
+“ Beachte:
+Diese Worte besagen,
+dass Jesus starb,
+um Herr über die Toten zu sein,
+und dass er wieder auferstand,
+um nicht nur Herr über die Toten,
+sondern auch über die Lebenden zu sein\.
+Unter den Toten,
+über die Christus Herr sein soll,
+versteht der Apostel zweifellos diejenigen,
+die im ersten Brief an die Korinther so bezeichnet werden:
+„Denn die Posaune wird erschallen,
+und die Toten werden unverweslich auferweckt werden\.[^bible-12872a1d-202c-49dd-bf9a-d7f5985e5d2a]
+“ Unter den Lebenden aber versteht er diejenigen,
+die verwandelt werden sollen und von den Toten,
+die auferweckt werden sollen,
+verschieden sind\.
+Über die Lebenden heißt es:
+„Und wir werden verwandelt werden\.[^bible-12872a1d-202c-49dd-bf9a-d7f5985e5d2a]
+“ Diese Worte folgen unmittelbar auf die Aussage:
+„Die Toten werden zuerst auferstehen\.[^bible-419fc634-2ac8-4ddb-abea-95a468382f47]
+“ Im ersten Brief an die Thessalonicher beschreibt er dieselbe Verwandlung mit anderen Worten und sagt,
+dass die Entschlafenen nicht dieselben sind wie die Lebenden:
+„Ich will nicht,
+dass ihr,
+Brüder,
+über die Entschlafenen unwissend seid,
+damit ihr nicht trauert wie die anderen,
+die keine Hoffnung haben\.
+Denn wenn wir glauben,
+dass Jesus gestorben und wieder auferstanden ist,
+so wird Gott auch die,
+die in Jesus entschlafen sind,
+mit ihm führen\.
+Denn dies sagen wir euch durch das Wort des Herrn:
+Wir,
+die wir leben und bis zur Ankunft des Herrn übrig bleiben,
+werden den Entschlafenen nicht zuvorkommen\.[^bible-be4d8fc5-6bfa-4c4d-aa64-6c07b5974279]
+“ Die Erklärung,
+die uns für diese Stelle angemessen erschien,
+haben wir in unseren Ausführungen zum ersten Brief an die Thessalonicher gegeben\.
 
 ## Bibelverweise
 

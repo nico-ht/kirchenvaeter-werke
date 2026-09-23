@@ -7,9 +7,76 @@ Autor: Tertullian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/verschreibung-gegen-haeretiker#kapitel-8eba47e4-3d22-482e-600b-08dd1bada8d9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7a39a4c61efbee93aa4bb0a4e7dd59fb075a86a816be16e8a088739e5509cd7a`
-
-Dies sind „die Lehren“ der Menschen und „der Dämonen“, die für die juckenden Ohren des Geistes der Weisheit dieser Welt produziert werden\. Dies nannte der Herr „Torheit“ und „wählte die törichten Dinge der Welt“, um selbst die Philosophie zu verwirren\. Denn die Philosophie ist das Material der Weisheit dieser Welt, der unbesonnene Ausleger der Natur und der Heilsordnung Gottes\. Tatsächlich werden die Häresien selbst von der Philosophie angestiftet\. Aus dieser Quelle stammen die Äonen und ich weiß nicht, welche unendlichen Formen, sowie die Dreieinigkeit des Menschen im System des Valentinus, der von Platons Schule war\. Aus derselben Quelle kam Marcion mit seinem besseren Gott, der in aller Ruhe war; er stammte von den Stoikern\. Dann vertreten die Epikureer die Meinung, dass die Seele stirbt, während die Leugnung der Wiederherstellung des Körpers aus der Gesamtheit der Philosophen stammt\. Wenn Materie gleich Gott gemacht wird, dann haben wir die Lehre des Zenon; und wenn irgendeine Lehre über einen Gott des Feuers vorgebracht wird, dann tritt Heraklit auf\. Dasselbe Thema wird immer wieder von den Häretikern und Philosophen behandelt; dieselben Argumente sind beteiligt\. Woher kommt das Böse? Warum wird es erlaubt? Was ist der Ursprung des Menschen? Und auf welche Weise kommt er? Außerdem die Frage, die Valentinus sehr kürzlich aufgeworfen hat – Woher kommt Gott? Diese beantwortet er mit der Antwort: Aus Enthymesis und Ectroma\. Unglücklicher Aristoteles\! Der diesen Menschen die Dialektik erfand, die Kunst des Aufbaus und Abbaus; eine Kunst, die in ihren Thesen so ausweichend, in ihren Vermutungen so weit hergeholt, in ihren Argumenten so hart und so streitbar ist – die sich selbst sogar in Verlegenheit bringt, alles zurücknimmt und wirklich von nichts handelt\! Woher stammen die „Fabeln und endlosen Geschlechterverzeichnisse“[^bible-c53bd0b2-9f47-41c2-b190-fea675952270] und „unnütze Fragen“? Aus all diesen Dingen, wenn der Apostel uns zurückhalten möchte, nennt er ausdrücklich die Philosophie als das, wovor wir uns hüten sollen\. In seinem Schreiben an die Kolosser sagt er: „Seht zu, dass euch niemand durch Philosophie und leere Täuschung verführt, nach der Tradition der Menschen und entgegen der Weisheit des Heiligen Geistes\.“[^bible-366a54b0-4b95-4537-856f-673c837ed581] Er war in Athen und hatte in seinen Gesprächen mit den Philosophen die menschliche Weisheit kennengelernt, die vorgibt, die Wahrheit zu kennen, während sie sie nur verdirbt und selbst in ihre eigenen vielfältigen Häresien geteilt ist, durch die Vielfalt ihrer sich gegenseitig widersprechenden Sekten\. Was hat Athen tatsächlich mit Jerusalem zu tun? Welche Übereinstimmung gibt es zwischen der Akademie und der Kirche? Was zwischen Häretikern und Christen? Unsere Lehre kommt von „der Säulenhalle Salomos“, der selbst gelehrt hat, dass „der Herr in Einfachheit des Herzens gesucht werden soll\.“ Weg mit allen Versuchen, ein buntes Christentum aus stoischer, platonischer und dialektischer Zusammensetzung zu erzeugen\! Wir wollen keine neugierigen Streitgespräche, nachdem wir Christus Jesus empfangen haben, und keine Nachforschungen, nachdem wir das Evangelium genossen haben\! Mit unserem Glauben wünschen wir keinen weiteren Glauben\. Denn dies ist unser herausragender Glaube, dass es nichts gibt, was wir darüber hinaus glauben sollten\.
+Dies sind „die Lehren“ der Menschen und „der Dämonen“,
+die für die juckenden Ohren des Geistes der Weisheit dieser Welt produziert werden\.
+Dies nannte der Herr „Torheit“ und „wählte die törichten Dinge der Welt“,
+um selbst die Philosophie zu verwirren\.
+Denn die Philosophie ist das Material der Weisheit dieser Welt,
+der unbesonnene Ausleger der Natur und der Heilsordnung Gottes\.
+Tatsächlich werden die Häresien selbst von der Philosophie angestiftet\.
+Aus dieser Quelle stammen die Äonen und ich weiß nicht,
+welche unendlichen Formen,
+sowie die Dreieinigkeit des Menschen im System des Valentinus,
+der von Platons Schule war\.
+Aus derselben Quelle kam Marcion mit seinem besseren Gott,
+der in aller Ruhe war;
+er stammte von den Stoikern\.
+Dann vertreten die Epikureer die Meinung,
+dass die Seele stirbt,
+während die Leugnung der Wiederherstellung des Körpers aus der Gesamtheit der Philosophen stammt\.
+Wenn Materie gleich Gott gemacht wird,
+dann haben wir die Lehre des Zenon;
+und wenn irgendeine Lehre über einen Gott des Feuers vorgebracht wird,
+dann tritt Heraklit auf\.
+Dasselbe Thema wird immer wieder von den Häretikern und Philosophen behandelt;
+dieselben Argumente sind beteiligt\.
+Woher kommt das Böse?
+Warum wird es erlaubt?
+Was ist der Ursprung des Menschen?
+Und auf welche Weise kommt er?
+Außerdem die Frage,
+die Valentinus sehr kürzlich aufgeworfen hat – Woher kommt Gott?
+Diese beantwortet er mit der Antwort:
+Aus Enthymesis und Ectroma\.
+Unglücklicher Aristoteles\!
+Der diesen Menschen die Dialektik erfand,
+die Kunst des Aufbaus und Abbaus;
+eine Kunst,
+die in ihren Thesen so ausweichend,
+in ihren Vermutungen so weit hergeholt,
+in ihren Argumenten so hart und so streitbar ist – die sich selbst sogar in Verlegenheit bringt,
+alles zurücknimmt und wirklich von nichts handelt\!
+Woher stammen die „Fabeln und endlosen Geschlechterverzeichnisse“[^bible-c53bd0b2-9f47-41c2-b190-fea675952270] und „unnütze Fragen“?
+Aus all diesen Dingen,
+wenn der Apostel uns zurückhalten möchte,
+nennt er ausdrücklich die Philosophie als das,
+wovor wir uns hüten sollen\.
+In seinem Schreiben an die Kolosser sagt er:
+„Seht zu,
+dass euch niemand durch Philosophie und leere Täuschung verführt,
+nach der Tradition der Menschen und entgegen der Weisheit des Heiligen Geistes\.“[^bible-366a54b0-4b95-4537-856f-673c837ed581]
+Er war in Athen und hatte in seinen Gesprächen mit den Philosophen die menschliche Weisheit kennengelernt,
+die vorgibt,
+die Wahrheit zu kennen,
+während sie sie nur verdirbt und selbst in ihre eigenen vielfältigen Häresien geteilt ist,
+durch die Vielfalt ihrer sich gegenseitig widersprechenden Sekten\.
+Was hat Athen tatsächlich mit Jerusalem zu tun?
+Welche Übereinstimmung gibt es zwischen der Akademie und der Kirche?
+Was zwischen Häretikern und Christen?
+Unsere Lehre kommt von „der Säulenhalle Salomos“,
+der selbst gelehrt hat,
+dass „der Herr in Einfachheit des Herzens gesucht werden soll\.“
+Weg mit allen Versuchen,
+ein buntes Christentum aus stoischer,
+platonischer und dialektischer Zusammensetzung zu erzeugen\!
+Wir wollen keine neugierigen Streitgespräche,
+nachdem wir Christus Jesus empfangen haben,
+und keine Nachforschungen,
+nachdem wir das Evangelium genossen haben\!
+Mit unserem Glauben wünschen wir keinen weiteren Glauben\.
+Denn dies ist unser herausragender Glaube,
+dass es nichts gibt,
+was wir darüber hinaus glauben sollten\.
 
 ## Bibelverweise
 

@@ -7,6 +7,65 @@ Autor: Nemesius von Emesa
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/nemesius-von-emesa/ueber-die-natur-des-menschen#kapitel-23b27d1e-03b1-40ad-60f7-08ded609d8f2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:1e05636f64c953aa8c90b25bc97ddcb871a570f8e58cc02ae5e929f426ce0de3`
-
-Auch die Furcht wird in sechs Arten eingeteilt: in Zögern, Scheu, Scham, Bestürzung, Schrecken und Angst\. Zögern ist Furcht vor einer bevorstehenden Tätigkeit; Bestürzung ist Furcht aufgrund einer gewaltigen Vorstellung; Schrecken ist Furcht aufgrund einer ungewohnten Vorstellung; Angst ist Furcht vor dem Scheitern, das heißt vor dem Misslingen\. Denn weil wir fürchten, mit einer Handlung zu scheitern, geraten wir in Angst\. Scheu ist Furcht in Erwartung von Tadel; diese Leidenschaft ist die schönste\. Scham aber ist Furcht wegen einer schändlichen Tat, die man begangen hat\. Auch sie ist für die Rettung nicht hoffnungslos\. Darin unterscheidet sich Scheu von Scham: Wer sich schämt, verkriecht sich wegen dessen, was er getan hat; wer aber Scheu empfindet, fürchtet, in irgendeine Schande zu geraten\. Die Alten nennen jedoch oft auch die Scheu Scham und die Scham Scheu, indem sie die Bezeichnungen uneigentlich gebrauchen\. Furcht entsteht durch Erkalten, indem alles Warme zum Herzen hin, zum leitenden Teil, zusammenströmt, so wie auch das Volk, wenn es sich fürchtet, zu den Herrschenden flieht\. Das Organ der Trauer aber ist der Magenmund\. Denn er ist es, der bei Trauer den beißenden Schmerz empfindet, wie Galen im dritten Buch der Beweislehre ungefähr so sagt: Den Trauernden fließt nicht wenig gelbe Galle in den Magen hinab; diese verursacht ihnen den beißenden Schmerz, und sie hören nicht eher auf, traurig zu sein und sich gebissen zu fühlen, als bis sie die Galle erbrochen haben\. Denn dieser beißende Schmerz entsteht bei ihnen unterhalb des Knorpels in der Mitte der Brust, des sogenannten schwertförmigen Knorpels\. Das Herz aber liegt viel weiter oben; denn der Magen befindet sich unterhalb des Zwerchfells, das Herz oberhalb\. Gewöhnlich nennen die Alten auch den Magenmund Herz, wie Hippokrates und Thukydides in der Beschreibung der Pest, wenn er so sagt: Sobald es sich im Herzen festsetzte, kehrte es dieses um, und alle Absonderungen von Galle, so viele von den Ärzten benannt worden sind, traten auf\. Denn was umgewendet wird, ist der Magenmund, der zum Erbrechen gezwungen wird, nicht das innere Organ, das Herz\.
+Auch die Furcht wird in sechs Arten eingeteilt:
+in Zögern,
+Scheu,
+Scham,
+Bestürzung,
+Schrecken und Angst\.
+Zögern ist Furcht vor einer bevorstehenden Tätigkeit;
+Bestürzung ist Furcht aufgrund einer gewaltigen Vorstellung;
+Schrecken ist Furcht aufgrund einer ungewohnten Vorstellung;
+Angst ist Furcht vor dem Scheitern,
+das heißt vor dem Misslingen\.
+Denn weil wir fürchten,
+mit einer Handlung zu scheitern,
+geraten wir in Angst\.
+Scheu ist Furcht in Erwartung von Tadel;
+diese Leidenschaft ist die schönste\.
+Scham aber ist Furcht wegen einer schändlichen Tat,
+die man begangen hat\.
+Auch sie ist für die Rettung nicht hoffnungslos\.
+Darin unterscheidet sich Scheu von Scham:
+Wer sich schämt,
+verkriecht sich wegen dessen,
+was er getan hat;
+wer aber Scheu empfindet,
+fürchtet,
+in irgendeine Schande zu geraten\.
+Die Alten nennen jedoch oft auch die Scheu Scham und die Scham Scheu,
+indem sie die Bezeichnungen uneigentlich gebrauchen\.
+Furcht entsteht durch Erkalten,
+indem alles Warme zum Herzen hin,
+zum leitenden Teil,
+zusammenströmt,
+so wie auch das Volk,
+wenn es sich fürchtet,
+zu den Herrschenden flieht\.
+Das Organ der Trauer aber ist der Magenmund\.
+Denn er ist es,
+der bei Trauer den beißenden Schmerz empfindet,
+wie Galen im dritten Buch der Beweislehre ungefähr so sagt:
+Den Trauernden fließt nicht wenig gelbe Galle in den Magen hinab;
+diese verursacht ihnen den beißenden Schmerz,
+und sie hören nicht eher auf,
+traurig zu sein und sich gebissen zu fühlen,
+als bis sie die Galle erbrochen haben\.
+Denn dieser beißende Schmerz entsteht bei ihnen unterhalb des Knorpels in der Mitte der Brust,
+des sogenannten schwertförmigen Knorpels\.
+Das Herz aber liegt viel weiter oben;
+denn der Magen befindet sich unterhalb des Zwerchfells,
+das Herz oberhalb\.
+Gewöhnlich nennen die Alten auch den Magenmund Herz,
+wie Hippokrates und Thukydides in der Beschreibung der Pest,
+wenn er so sagt:
+Sobald es sich im Herzen festsetzte,
+kehrte es dieses um,
+und alle Absonderungen von Galle,
+so viele von den Ärzten benannt worden sind,
+traten auf\.
+Denn was umgewendet wird,
+ist der Magenmund,
+der zum Erbrechen gezwungen wird,
+nicht das innere Organ,
+das Herz\.

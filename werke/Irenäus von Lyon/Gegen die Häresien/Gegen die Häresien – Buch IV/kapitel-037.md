@@ -7,21 +7,333 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-iv#kapitel-5ee56da7-c588-4995-039f-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:77fc6906656616d30c6a08c631db7499094ae52db6568c2cb5650753be11f7ed`
+Dieses Wort unseres Herrn:
+„Wie oft wollte ich deine Kinder sammeln,
+und du wolltest nicht[^bible-b0734ee8-7645-4687-943f-dc96bab2acad]“,
+legte das alte Gesetz der menschlichen Freiheit dar\.
+Denn Gott hat den Menschen von Anfang an frei geschaffen und ihm eine eigene Macht gegeben,
+über die er verfügt wie über seine eigene Seele,
+damit er den Weisungen Gottes freiwillig gehorcht und nicht unter Gottes Zwang\.
+Denn bei Gott gibt es keinen Zwang;
+vielmehr ist bei ihm stets ein guter Wille uns gegenüber\.
+Darum gibt er allen guten Rat\.
+Und dem Menschen wie auch den Engeln hat er die Macht der Wahl gegeben,
+denn Engel sind vernünftige Wesen,
+damit die,
+die gehorcht haben,
+mit Recht das Gute besitzen:
+von Gott zwar geschenkt,
+aber von ihnen selbst bewahrt\.
+Die aber nicht gehorcht haben,
+werden mit Recht nicht im Besitz des Guten gefunden werden und die verdiente Strafe empfangen\.
+Denn Gott hat ihnen in Güte das Gute geschenkt;
+sie selbst aber haben es nicht sorgfältig bewahrt und auch nicht als etwas Kostbares geschätzt,
+sondern seine überragende Güte verachtet\.
+Weil sie also das Gute verworfen und gleichsam ausgespien haben,
+werden sie alle verdientermaßen dem gerechten Gericht Gottes verfallen\.
+Das bezeugt auch der Apostel Paulus in seinem Brief an die Römer,
+wenn er sagt:
+„Verachtest du aber den Reichtum seiner Güte und Geduld und Langmut,
+ohne zu erkennen,
+dass Gottes Güte dich zur Umkehr führt?
+Nach deiner Härte aber und deinem unbußfertigen Herzen häufst du dir Zorn auf für den Tag des Zorns und der Offenbarung des gerechten Gerichts Gottes[^bible-51ebd29b-c22a-4239-bc11-e781f88c1106]\.“
+„Ehre aber und Herrlichkeit[^bible-78cef64a-ca18-4b58-83df-ef7c7f2d9544]“,
+sagt er,
+„jedem,
+der das Gute tut[^bible-78cef64a-ca18-4b58-83df-ef7c7f2d9544]\.“
+Gott hat also das Gute gegeben,
+wie der Apostel uns in diesem Brief sagt;
+und die,
+die es tun,
+werden Herrlichkeit und Ehre empfangen,
+weil sie das Gute getan haben,
+obwohl es in ihrer Macht stand,
+es nicht zu tun\.
+Die aber,
+die es nicht tun,
+werden das gerechte Gericht Gottes empfangen,
+weil sie das Gute nicht getan haben,
+obwohl es in ihrer Macht stand,
+es zu tun\.
 
-Dieses Wort unseres Herrn: „Wie oft wollte ich deine Kinder sammeln, und du wolltest nicht[^bible-b0734ee8-7645-4687-943f-dc96bab2acad]“, legte das alte Gesetz der menschlichen Freiheit dar\. Denn Gott hat den Menschen von Anfang an frei geschaffen und ihm eine eigene Macht gegeben, über die er verfügt wie über seine eigene Seele, damit er den Weisungen Gottes freiwillig gehorcht und nicht unter Gottes Zwang\. Denn bei Gott gibt es keinen Zwang; vielmehr ist bei ihm stets ein guter Wille uns gegenüber\. Darum gibt er allen guten Rat\. Und dem Menschen wie auch den Engeln hat er die Macht der Wahl gegeben, denn Engel sind vernünftige Wesen, damit die, die gehorcht haben, mit Recht das Gute besitzen: von Gott zwar geschenkt, aber von ihnen selbst bewahrt\. Die aber nicht gehorcht haben, werden mit Recht nicht im Besitz des Guten gefunden werden und die verdiente Strafe empfangen\. Denn Gott hat ihnen in Güte das Gute geschenkt; sie selbst aber haben es nicht sorgfältig bewahrt und auch nicht als etwas Kostbares geschätzt, sondern seine überragende Güte verachtet\. Weil sie also das Gute verworfen und gleichsam ausgespien haben, werden sie alle verdientermaßen dem gerechten Gericht Gottes verfallen\. Das bezeugt auch der Apostel Paulus in seinem Brief an die Römer, wenn er sagt: „Verachtest du aber den Reichtum seiner Güte und Geduld und Langmut, ohne zu erkennen, dass Gottes Güte dich zur Umkehr führt? Nach deiner Härte aber und deinem unbußfertigen Herzen häufst du dir Zorn auf für den Tag des Zorns und der Offenbarung des gerechten Gerichts Gottes[^bible-51ebd29b-c22a-4239-bc11-e781f88c1106]\.“ „Ehre aber und Herrlichkeit[^bible-78cef64a-ca18-4b58-83df-ef7c7f2d9544]“, sagt er, „jedem, der das Gute tut[^bible-78cef64a-ca18-4b58-83df-ef7c7f2d9544]\.“ Gott hat also das Gute gegeben, wie der Apostel uns in diesem Brief sagt; und die, die es tun, werden Herrlichkeit und Ehre empfangen, weil sie das Gute getan haben, obwohl es in ihrer Macht stand, es nicht zu tun\. Die aber, die es nicht tun, werden das gerechte Gericht Gottes empfangen, weil sie das Gute nicht getan haben, obwohl es in ihrer Macht stand, es zu tun\.
+Wenn aber einige von Natur aus schlecht und andere gut geschaffen worden wären,
+dann verdienten die einen kein Lob dafür,
+dass sie gut sind;
+denn so wurden sie geschaffen\.
+Ebenso wären die anderen nicht zu tadeln;
+denn so wurden sie von Anfang an gemacht\.
+Da aber alle Menschen dieselbe Natur haben und sowohl fähig sind,
+das Gute festzuhalten und zu tun,
+als auch andererseits die Macht haben,
+es von sich zu werfen und nicht zu tun,
+empfangen die einen zu Recht Lob,
+sogar unter Menschen,
+die unter guten Gesetzen stehen,
+und erst recht von Gott,
+und erhalten das verdiente Zeugnis dafür,
+dass sie sich überhaupt für das Gute entschieden haben und darin ausharren\.
+Die anderen aber werden getadelt und empfangen eine gerechte Verurteilung,
+weil sie das Schöne und Gute verworfen haben\.
+Darum pflegten die Propheten die Menschen zum Guten zu ermahnen:
+gerecht zu handeln und Gerechtigkeit zu üben,
+wie ich ausführlich gezeigt habe,
+weil es in unserer Macht steht,
+dies zu tun,
+und weil wir durch allzu große Nachlässigkeit vergesslich werden und dadurch jenes guten Rates bedürfen könnten,
+den der gute Gott uns durch die Propheten zu erkennen gegeben hat\.
 
-Wenn aber einige von Natur aus schlecht und andere gut geschaffen worden wären, dann verdienten die einen kein Lob dafür, dass sie gut sind; denn so wurden sie geschaffen\. Ebenso wären die anderen nicht zu tadeln; denn so wurden sie von Anfang an gemacht\. Da aber alle Menschen dieselbe Natur haben und sowohl fähig sind, das Gute festzuhalten und zu tun, als auch andererseits die Macht haben, es von sich zu werfen und nicht zu tun, empfangen die einen zu Recht Lob, sogar unter Menschen, die unter guten Gesetzen stehen, und erst recht von Gott, und erhalten das verdiente Zeugnis dafür, dass sie sich überhaupt für das Gute entschieden haben und darin ausharren\. Die anderen aber werden getadelt und empfangen eine gerechte Verurteilung, weil sie das Schöne und Gute verworfen haben\. Darum pflegten die Propheten die Menschen zum Guten zu ermahnen: gerecht zu handeln und Gerechtigkeit zu üben, wie ich ausführlich gezeigt habe, weil es in unserer Macht steht, dies zu tun, und weil wir durch allzu große Nachlässigkeit vergesslich werden und dadurch jenes guten Rates bedürfen könnten, den der gute Gott uns durch die Propheten zu erkennen gegeben hat\.
+Darum sagte auch der Herr:
+„So soll euer Licht vor den Menschen leuchten,
+damit sie eure guten Werke sehen und euren Vater verherrlichen,
+der im Himmel ist[^bible-c8c480ed-1fc5-430a-a306-2b8c2c77a63d]\.“
+Und:
+„Gebt acht auf euch selbst,
+damit eure Herzen nicht etwa durch Völlerei,
+Trunkenheit und weltliche Sorgen beschwert werden[^bible-425da436-d708-4d47-8de1-e54ef86d5f95]\.“
+Und:
+„Eure Hüften sollen gegürtet sein und eure Lampen brennen,
+und ihr sollt Menschen gleichen,
+die auf ihren Herrn warten,
+wenn er von der Hochzeit zurückkehrt,
+damit sie ihm öffnen,
+sobald er kommt und anklopft\.
+Selig ist jener Knecht,
+den sein Herr,
+wenn er kommt,
+so handelnd findet[^bible-ab38ce09-7654-4767-89c9-fc6d2cf93b8b]\.“
+Und wieder:
+„Der Knecht,
+der den Willen seines Herrn kennt und ihn nicht tut,
+wird viele Schläge bekommen[^bible-5d4b61a8-173a-4c53-99d0-ea39620f0132]\.“
+Und:
+„Warum nennt ihr mich Herr,
+Herr,
+und tut nicht,
+was ich sage[^bible-cdc55b7e-a328-4c61-b9af-4e2057855cb5]?“
+Und wieder:
+„Wenn aber der Knecht in seinem Herzen sagt:
+Der Herr lässt auf sich warten,
+und anfängt,
+seine Mitknechte zu schlagen und zu essen,
+zu trinken und sich zu betrinken,
+dann wird sein Herr an einem Tag kommen,
+an dem er ihn nicht erwartet,
+und ihn entzweihauen und ihm seinen Anteil bei den Heuchlern zuweisen[^bible-08f07e61-34db-49d9-8537-6f46502c716b]\.“
+Alle diese Stellen zeigen den freien Willen des Menschen und zugleich den Rat,
+den Gott ihm gibt:
+Dadurch ermahnt er uns,
+uns ihm zu unterwerfen,
+und sucht uns vom Unglauben gegen ihn abzuwenden,
+ohne uns jedoch in irgendeiner Weise zu zwingen\.
 
-Darum sagte auch der Herr: „So soll euer Licht vor den Menschen leuchten, damit sie eure guten Werke sehen und euren Vater verherrlichen, der im Himmel ist[^bible-c8c480ed-1fc5-430a-a306-2b8c2c77a63d]\.“ Und: „Gebt acht auf euch selbst, damit eure Herzen nicht etwa durch Völlerei, Trunkenheit und weltliche Sorgen beschwert werden[^bible-425da436-d708-4d47-8de1-e54ef86d5f95]\.“ Und: „Eure Hüften sollen gegürtet sein und eure Lampen brennen, und ihr sollt Menschen gleichen, die auf ihren Herrn warten, wenn er von der Hochzeit zurückkehrt, damit sie ihm öffnen, sobald er kommt und anklopft\. Selig ist jener Knecht, den sein Herr, wenn er kommt, so handelnd findet[^bible-ab38ce09-7654-4767-89c9-fc6d2cf93b8b]\.“ Und wieder: „Der Knecht, der den Willen seines Herrn kennt und ihn nicht tut, wird viele Schläge bekommen[^bible-5d4b61a8-173a-4c53-99d0-ea39620f0132]\.“ Und: „Warum nennt ihr mich Herr, Herr, und tut nicht, was ich sage[^bible-cdc55b7e-a328-4c61-b9af-4e2057855cb5]?“ Und wieder: „Wenn aber der Knecht in seinem Herzen sagt: Der Herr lässt auf sich warten, und anfängt, seine Mitknechte zu schlagen und zu essen, zu trinken und sich zu betrinken, dann wird sein Herr an einem Tag kommen, an dem er ihn nicht erwartet, und ihn entzweihauen und ihm seinen Anteil bei den Heuchlern zuweisen[^bible-08f07e61-34db-49d9-8537-6f46502c716b]\.“ Alle diese Stellen zeigen den freien Willen des Menschen und zugleich den Rat, den Gott ihm gibt: Dadurch ermahnt er uns, uns ihm zu unterwerfen, und sucht uns vom Unglauben gegen ihn abzuwenden, ohne uns jedoch in irgendeiner Weise zu zwingen\.
+Wenn jemand dem Evangelium selbst nicht folgen will,
+steht es zweifellos in seiner Macht,
+es zurückzuweisen;
+doch es nützt ihm nicht\.
+Denn es steht in der Macht des Menschen,
+Gott ungehorsam zu sein und das Gute zu verlieren;
+aber ein solches Verhalten bringt nicht wenig Schaden und Unheil\.
+Deshalb sagt Paulus:
+„Alles ist mir erlaubt,
+aber nicht alles nützt[^bible-6705e005-7c4f-4dd3-ada2-349305f91b87]\.“
+Damit verweist er zum einen auf die Freiheit des Menschen,
+insofern „alles erlaubt ist[^bible-6705e005-7c4f-4dd3-ada2-349305f91b87]“,
+denn Gott übt keinen Zwang über ihn aus;
+mit dem Ausdruck „es nützt nicht“ aber zeigt er,
+dass wir „unsere Freiheit nicht als Deckmantel der Bosheit gebrauchen[^bible-faeef247-dadb-44c4-a2e7-d79c445c6387]“ sollen;
+denn das nützt nicht\.
+Und wieder sagt er:
+„Redet jeder die Wahrheit mit seinem Nächsten[^bible-91977ece-c7c7-4ee8-94e5-2829bd17fc0f]\.“
+Und:
+„Kein verdorbenes Wort soll aus eurem Mund hervorgehen[^bible-9f89012a-1d53-498d-9384-7f2b642673f3],
+auch keine Unanständigkeit,
+kein dummes Geschwätz und kein Spott,
+die sich nicht gehören,
+sondern vielmehr Danksagung[^bible-8a060881-09df-474f-b03f-44977ff27434]\.“
+Und:
+„Denn einst wart ihr Finsternis,
+jetzt aber seid ihr Licht im Herrn;
+wandelt anständig als Kinder des Lichts[^bible-ed439adb-db31-4601-88cc-cd4009c08fd5],
+nicht in Schwelgereien und Trunkenheit,
+nicht in Unzucht und Ausschweifung,
+nicht in Zorn und Eifersucht[^bible-3fd296d2-141f-4386-bff9-dadab51e2e07]\.
+Und solche waren einige von euch;
+doch ihr seid gewaschen,
+doch ihr seid geheiligt worden im Namen unseres Herrn[^bible-8a705696-e100-4659-b269-b39fde2f53d6]\.“
+Wenn es also nicht in unserer Macht stünde,
+dies zu tun oder nicht zu tun,
+welchen Grund hätte dann der Apostel,
+und noch viel mehr der Herr selbst,
+uns zu raten,
+das eine zu tun und das andere zu meiden?
+Weil aber der Mensch von Anfang an freien Willen besitzt,
+und auch Gott freien Willen besitzt,
+nach dessen Ebenbild der Mensch geschaffen wurde,
+wird ihm immer geraten,
+am Guten festzuhalten;
+und das geschieht durch Gehorsam gegen Gott\.
 
-Wenn jemand dem Evangelium selbst nicht folgen will, steht es zweifellos in seiner Macht, es zurückzuweisen; doch es nützt ihm nicht\. Denn es steht in der Macht des Menschen, Gott ungehorsam zu sein und das Gute zu verlieren; aber ein solches Verhalten bringt nicht wenig Schaden und Unheil\. Deshalb sagt Paulus: „Alles ist mir erlaubt, aber nicht alles nützt[^bible-6705e005-7c4f-4dd3-ada2-349305f91b87]\.“ Damit verweist er zum einen auf die Freiheit des Menschen, insofern „alles erlaubt ist[^bible-6705e005-7c4f-4dd3-ada2-349305f91b87]“, denn Gott übt keinen Zwang über ihn aus; mit dem Ausdruck „es nützt nicht“ aber zeigt er, dass wir „unsere Freiheit nicht als Deckmantel der Bosheit gebrauchen[^bible-faeef247-dadb-44c4-a2e7-d79c445c6387]“ sollen; denn das nützt nicht\. Und wieder sagt er: „Redet jeder die Wahrheit mit seinem Nächsten[^bible-91977ece-c7c7-4ee8-94e5-2829bd17fc0f]\.“ Und: „Kein verdorbenes Wort soll aus eurem Mund hervorgehen[^bible-9f89012a-1d53-498d-9384-7f2b642673f3], auch keine Unanständigkeit, kein dummes Geschwätz und kein Spott, die sich nicht gehören, sondern vielmehr Danksagung[^bible-8a060881-09df-474f-b03f-44977ff27434]\.“ Und: „Denn einst wart ihr Finsternis, jetzt aber seid ihr Licht im Herrn; wandelt anständig als Kinder des Lichts[^bible-ed439adb-db31-4601-88cc-cd4009c08fd5], nicht in Schwelgereien und Trunkenheit, nicht in Unzucht und Ausschweifung, nicht in Zorn und Eifersucht[^bible-3fd296d2-141f-4386-bff9-dadab51e2e07]\. Und solche waren einige von euch; doch ihr seid gewaschen, doch ihr seid geheiligt worden im Namen unseres Herrn[^bible-8a705696-e100-4659-b269-b39fde2f53d6]\.“ Wenn es also nicht in unserer Macht stünde, dies zu tun oder nicht zu tun, welchen Grund hätte dann der Apostel, und noch viel mehr der Herr selbst, uns zu raten, das eine zu tun und das andere zu meiden? Weil aber der Mensch von Anfang an freien Willen besitzt, und auch Gott freien Willen besitzt, nach dessen Ebenbild der Mensch geschaffen wurde, wird ihm immer geraten, am Guten festzuhalten; und das geschieht durch Gehorsam gegen Gott\.
+Und nicht nur bei den Werken,
+sondern auch beim Glauben hat Gott den Willen des Menschen frei und in seiner eigenen Verfügung bewahrt,
+indem er sagte:
+„Nach deinem Glauben geschehe dir[^bible-5e0a7048-41c6-4736-814d-8e4adf5b5d2b]“;
+damit zeigt er,
+dass es einen Glauben gibt,
+der dem Menschen in besonderer Weise gehört,
+weil er eine Überzeugung hat,
+die in besonderer Weise seine eigene ist\.
+Und wieder:
+„Alles ist möglich dem,
+der glaubt[^bible-0a036020-b1ff-4d21-9be5-ce43c3545ba7]“;
+und:
+„Geh hin;
+und wie du geglaubt hast,
+so geschehe dir[^bible-7aba619a-87c1-40ae-985a-921792bb55d0]\.“
+Alle solchen Aussagen zeigen nun,
+dass der Mensch,
+was den Glauben betrifft,
+in seiner eigenen Macht steht\.
+Und aus diesem Grund gilt:
+„Wer an ihn glaubt,
+hat ewiges Leben;
+wer aber dem Sohn nicht glaubt,
+hat kein ewiges Leben,
+sondern der Zorn Gottes wird auf ihm bleiben[^bible-ff9a85a2-bf5d-4313-b1bf-b22cded274b3]\.“
+Auf dieselbe Weise sagte daher der Herr zu Jerusalem,
+um zugleich seine eigene Güte zu zeigen und deutlich zu machen,
+dass der Mensch in seinem eigenen freien Willen und seiner eigenen Macht steht:
+„Wie oft habe ich deine Kinder versammeln wollen,
+wie eine Henne ihre Küken unter ihre Flügel nimmt,
+und ihr habt nicht gewollt\!
+Darum wird euer Haus euch verlassen,
+öde daliegen[^bible-7307feac-2796-4db8-859b-3102e32554da]\.“
 
-Und nicht nur bei den Werken, sondern auch beim Glauben hat Gott den Willen des Menschen frei und in seiner eigenen Verfügung bewahrt, indem er sagte: „Nach deinem Glauben geschehe dir[^bible-5e0a7048-41c6-4736-814d-8e4adf5b5d2b]“; damit zeigt er, dass es einen Glauben gibt, der dem Menschen in besonderer Weise gehört, weil er eine Überzeugung hat, die in besonderer Weise seine eigene ist\. Und wieder: „Alles ist möglich dem, der glaubt[^bible-0a036020-b1ff-4d21-9be5-ce43c3545ba7]“; und: „Geh hin; und wie du geglaubt hast, so geschehe dir[^bible-7aba619a-87c1-40ae-985a-921792bb55d0]\.“ Alle solchen Aussagen zeigen nun, dass der Mensch, was den Glauben betrifft, in seiner eigenen Macht steht\. Und aus diesem Grund gilt: „Wer an ihn glaubt, hat ewiges Leben; wer aber dem Sohn nicht glaubt, hat kein ewiges Leben, sondern der Zorn Gottes wird auf ihm bleiben[^bible-ff9a85a2-bf5d-4313-b1bf-b22cded274b3]\.“ Auf dieselbe Weise sagte daher der Herr zu Jerusalem, um zugleich seine eigene Güte zu zeigen und deutlich zu machen, dass der Mensch in seinem eigenen freien Willen und seiner eigenen Macht steht: „Wie oft habe ich deine Kinder versammeln wollen, wie eine Henne ihre Küken unter ihre Flügel nimmt, und ihr habt nicht gewollt\! Darum wird euer Haus euch verlassen, öde daliegen[^bible-7307feac-2796-4db8-859b-3102e32554da]\.“
+Diejenigen wiederum,
+die das Gegenteil dieser Folgerungen behaupten,
+stellen selbst den Herrn als machtlos dar,
+als wäre er,
+so meinen sie offenbar,
+nicht imstande,
+auszuführen,
+was er wollte;
+oder aber sie stellen ihn so dar,
+als habe er nicht gewusst,
+dass sie von Natur aus,
+wie diese Leute es ausdrücken,
+„materiell“ seien und seine Unsterblichkeit nicht aufnehmen könnten\.
+„Er hätte“,
+sagen sie,
+„keine Engel von solcher Natur erschaffen dürfen,
+dass sie zur Übertretung fähig waren,
+und auch keine Menschen,
+die sich ihm sogleich undankbar erwiesen;
+denn sie waren als vernunftbegabte Wesen geschaffen,
+ausgestattet mit der Fähigkeit zu prüfen und zu urteilen,
+und nicht als vernunftlose Dinge gebildet oder als Wesen von bloß tierischer Natur,
+die aus eigenem Willen nichts tun können,
+sondern durch Notwendigkeit und Zwang zum Guten hingezogen werden\.
+In solchen Wesen gäbe es nur ein Denken und nur eine Verhaltensweise;
+sie liefen mechanisch immer in derselben Spur,
+unbeweglich und ohne Urteil,
+und könnten nichts anderes sein als genau das,
+wozu sie geschaffen worden waren\.“
+Doch unter dieser Voraussetzung hätte das Gute für sie keinen dankenswerten Wert,
+die Gemeinschaft mit Gott wäre nicht kostbar,
+und das Gute wäre auch nicht sonderlich erstrebenswert;
+denn es fiele ihnen ohne eigene Anstrengung,
+sorgsame Bemühung oder Einübung zu,
+ja es wäre ihnen von selbst und ohne ihr Zutun eingepflanzt\.
+So käme es dazu,
+dass ihr Gutsein keine Bedeutung hätte,
+weil sie es von Natur aus wären und nicht aus Willen;
+sie besäßen das Gute von selbst,
+nicht durch Wahl\.
+Eben deshalb würden sie auch nicht verstehen,
+dass das Gute etwas Schönes ist,
+und hätten keine Freude daran\.
+Denn wie sollen diejenigen Freude am Guten haben,
+die es nicht kennen?
+Oder welches Lob gebührt denen,
+die es nicht angestrebt haben?
+Und welche Krone denen,
+die ihm nicht nachgejagt sind wie Sieger im Wettkampf?
 
-Diejenigen wiederum, die das Gegenteil dieser Folgerungen behaupten, stellen selbst den Herrn als machtlos dar, als wäre er, so meinen sie offenbar, nicht imstande, auszuführen, was er wollte; oder aber sie stellen ihn so dar, als habe er nicht gewusst, dass sie von Natur aus, wie diese Leute es ausdrücken, „materiell“ seien und seine Unsterblichkeit nicht aufnehmen könnten\. „Er hätte“, sagen sie, „keine Engel von solcher Natur erschaffen dürfen, dass sie zur Übertretung fähig waren, und auch keine Menschen, die sich ihm sogleich undankbar erwiesen; denn sie waren als vernunftbegabte Wesen geschaffen, ausgestattet mit der Fähigkeit zu prüfen und zu urteilen, und nicht als vernunftlose Dinge gebildet oder als Wesen von bloß tierischer Natur, die aus eigenem Willen nichts tun können, sondern durch Notwendigkeit und Zwang zum Guten hingezogen werden\. In solchen Wesen gäbe es nur ein Denken und nur eine Verhaltensweise; sie liefen mechanisch immer in derselben Spur, unbeweglich und ohne Urteil, und könnten nichts anderes sein als genau das, wozu sie geschaffen worden waren\.“ Doch unter dieser Voraussetzung hätte das Gute für sie keinen dankenswerten Wert, die Gemeinschaft mit Gott wäre nicht kostbar, und das Gute wäre auch nicht sonderlich erstrebenswert; denn es fiele ihnen ohne eigene Anstrengung, sorgsame Bemühung oder Einübung zu, ja es wäre ihnen von selbst und ohne ihr Zutun eingepflanzt\. So käme es dazu, dass ihr Gutsein keine Bedeutung hätte, weil sie es von Natur aus wären und nicht aus Willen; sie besäßen das Gute von selbst, nicht durch Wahl\. Eben deshalb würden sie auch nicht verstehen, dass das Gute etwas Schönes ist, und hätten keine Freude daran\. Denn wie sollen diejenigen Freude am Guten haben, die es nicht kennen? Oder welches Lob gebührt denen, die es nicht angestrebt haben? Und welche Krone denen, die ihm nicht nachgejagt sind wie Sieger im Wettkampf?
-
-Darum hat auch der Herr erklärt, das Himmelreich gehöre „den Gewaltigen“, und er sagt: „Die Gewaltigen reißen es an sich[^bible-adaa3931-2293-4436-bd56-05d024fa1b3d]“; das heißt: Es sind diejenigen, die mit Kraft und ernstem Ringen wachsam darauf aus sind, es im rechten Augenblick an sich zu reißen\. Darum sagt auch der Apostel Paulus zu den Korinthern: „Wisst ihr nicht, dass die, die in der Rennbahn laufen, zwar alle laufen, aber nur einer den Preis empfängt? Lauft so, dass ihr ihn erlangt\. Jeder aber, der am Wettkampf teilnimmt, ist in allem maßvoll\. Jene tun es, um einen vergänglichen Kranz zu empfangen, wir aber einen unvergänglichen\. Ich laufe also nicht ins Ungewisse; ich kämpfe nicht wie einer, der in die Luft schlägt; sondern ich schlage meinen Leib und mache ihn zum Knecht, damit ich nicht, nachdem ich anderen verkündigt habe, selbst verworfen werde\.[^bible-f90e3f05-515d-4468-b5aa-21c44ec8acce]“ Dieser tüchtige Ringer ruft uns also zum Kampf um die Unsterblichkeit auf, damit wir gekrönt werden und den Kranz für kostbar halten: den Kranz, den wir durch unseren Kampf gewinnen und der sich uns nicht von selbst umlegt\. Und je härter wir ringen, desto wertvoller ist er; und je wertvoller er ist, desto höher sollen wir ihn achten\. Denn was von selbst kommt, wird nicht so hoch geschätzt wie das, was man mit viel sorgsamer Mühe erreicht\. Da uns also diese Kraft verliehen worden ist, hat der Herr es gelehrt und der Apostel es uns geboten, Gott umso mehr zu lieben, damit wir diesen Preis durch unser eigenes Ringen erreichen\. Denn sonst wäre unser Gutes zweifellos gewissermaßen vernunftlos, weil es nicht aus Bewährung hervorgegangen wäre\. Auch die Fähigkeit zu sehen erschiene nicht so begehrenswert, wenn wir nicht wüssten, welch ein Verlust es ist, ohne Augenlicht zu sein; ebenso wird Gesundheit durch die Erfahrung von Krankheit umso schätzbarer, Licht durch den Gegensatz zur Finsternis und Leben durch den Gegensatz zum Tod\. Ganz ebenso ist das himmlische Reich denen ehrwürdig, die das irdische kennengelernt haben\. In dem Maß aber, in dem es ehrwürdiger ist, schätzen wir es höher; und wenn wir es höher geschätzt haben, werden wir umso herrlicher vor Gott sein\. Der Herr hat also all dies um unsertwillen ertragen, damit wir durch alles belehrt, künftig in jeder Hinsicht umsichtig sind und, vernünftig gelehrt, Gott zu lieben, in seiner vollkommenen Liebe bleiben\. Denn Gott hat gegenüber dem Abfall des Menschen Langmut gezeigt, während der Mensch durch ihn belehrt worden ist, wie auch der Prophet sagt: „Dein eigener Abfall wird dich heilen[^bible-e91c4e81-75a6-413d-bd84-8fc124c54842]\.“ So hat Gott alles im Voraus darauf ausgerichtet, den Menschen zur Vollendung zu führen, ihn aufzubauen und seine Heilsordnungen offenbar zu machen, damit die Güte sichtbar wird, die Gerechtigkeit vollendet wird, die Kirche nach dem Abbild seines Sohnes geformt wird und der Mensch schließlich zu einer künftigen Zeit zur Reife gelangt, durch solche Gaben reif geworden, Gott zu sehen und zu begreifen\.
+Darum hat auch der Herr erklärt,
+das Himmelreich gehöre „den Gewaltigen“,
+und er sagt:
+„Die Gewaltigen reißen es an sich[^bible-adaa3931-2293-4436-bd56-05d024fa1b3d]“;
+das heißt:
+Es sind diejenigen,
+die mit Kraft und ernstem Ringen wachsam darauf aus sind,
+es im rechten Augenblick an sich zu reißen\.
+Darum sagt auch der Apostel Paulus zu den Korinthern:
+„Wisst ihr nicht,
+dass die,
+die in der Rennbahn laufen,
+zwar alle laufen,
+aber nur einer den Preis empfängt?
+Lauft so,
+dass ihr ihn erlangt\.
+Jeder aber,
+der am Wettkampf teilnimmt,
+ist in allem maßvoll\.
+Jene tun es,
+um einen vergänglichen Kranz zu empfangen,
+wir aber einen unvergänglichen\.
+Ich laufe also nicht ins Ungewisse;
+ich kämpfe nicht wie einer,
+der in die Luft schlägt;
+sondern ich schlage meinen Leib und mache ihn zum Knecht,
+damit ich nicht,
+nachdem ich anderen verkündigt habe,
+selbst verworfen werde\.[^bible-f90e3f05-515d-4468-b5aa-21c44ec8acce]“ Dieser tüchtige Ringer ruft uns also zum Kampf um die Unsterblichkeit auf,
+damit wir gekrönt werden und den Kranz für kostbar halten:
+den Kranz,
+den wir durch unseren Kampf gewinnen und der sich uns nicht von selbst umlegt\.
+Und je härter wir ringen,
+desto wertvoller ist er;
+und je wertvoller er ist,
+desto höher sollen wir ihn achten\.
+Denn was von selbst kommt,
+wird nicht so hoch geschätzt wie das,
+was man mit viel sorgsamer Mühe erreicht\.
+Da uns also diese Kraft verliehen worden ist,
+hat der Herr es gelehrt und der Apostel es uns geboten,
+Gott umso mehr zu lieben,
+damit wir diesen Preis durch unser eigenes Ringen erreichen\.
+Denn sonst wäre unser Gutes zweifellos gewissermaßen vernunftlos,
+weil es nicht aus Bewährung hervorgegangen wäre\.
+Auch die Fähigkeit zu sehen erschiene nicht so begehrenswert,
+wenn wir nicht wüssten,
+welch ein Verlust es ist,
+ohne Augenlicht zu sein;
+ebenso wird Gesundheit durch die Erfahrung von Krankheit umso schätzbarer,
+Licht durch den Gegensatz zur Finsternis und Leben durch den Gegensatz zum Tod\.
+Ganz ebenso ist das himmlische Reich denen ehrwürdig,
+die das irdische kennengelernt haben\.
+In dem Maß aber,
+in dem es ehrwürdiger ist,
+schätzen wir es höher;
+und wenn wir es höher geschätzt haben,
+werden wir umso herrlicher vor Gott sein\.
+Der Herr hat also all dies um unsertwillen ertragen,
+damit wir durch alles belehrt,
+künftig in jeder Hinsicht umsichtig sind und,
+vernünftig gelehrt,
+Gott zu lieben,
+in seiner vollkommenen Liebe bleiben\.
+Denn Gott hat gegenüber dem Abfall des Menschen Langmut gezeigt,
+während der Mensch durch ihn belehrt worden ist,
+wie auch der Prophet sagt:
+„Dein eigener Abfall wird dich heilen[^bible-e91c4e81-75a6-413d-bd84-8fc124c54842]\.“
+So hat Gott alles im Voraus darauf ausgerichtet,
+den Menschen zur Vollendung zu führen,
+ihn aufzubauen und seine Heilsordnungen offenbar zu machen,
+damit die Güte sichtbar wird,
+die Gerechtigkeit vollendet wird,
+die Kirche nach dem Abbild seines Sohnes geformt wird und der Mensch schließlich zu einer künftigen Zeit zur Reife gelangt,
+durch solche Gaben reif geworden,
+Gott zu sehen und zu begreifen\.
 
 ## Bibelverweise
 

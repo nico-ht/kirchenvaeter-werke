@@ -7,9 +7,117 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/31-homilie-ueber-matthaeus#kapitel-54ffa4aa-d941-43f9-5ac8-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:1aa30ddd2ad9f52726444379201914404572720661fdfc94cca4dd73ca24245d`
-
-Warum also beschämst du den, der von uns gegangen ist? Warum bringst du die anderen dazu, den Tod zu fürchten und vor ihm zu zittern? Warum veranlasst du viele, Gott anzuklagen, als hätte er großes Unheil angerichtet? Oder vielmehr: Warum rufst du danach Arme herbei und bittest Priester, zu beten? „Damit der Verstorbene zur Ruhe gelangt“, sagst du, „damit er den Richter gnädig findet\.“ Darum also trauerst du und schreist laut? Dann kämpfst und streitest du ja gegen dich selbst: Während jener in Häfen eingegangen ist, bereitest du dir selbst einen Sturm\. „Und was soll ich tun?“, sagt einer\. „So ist nun einmal die Natur\.“ Nicht die Natur ist schuld, auch nicht der Ablauf der Sache; schuld sind wir, die wir alles durcheinanderbringen, die wir verweichlicht werden, den eigenen Adel verraten und die Ungläubigen noch schlechter machen\. Wie sollen wir denn mit einem anderen über die Unsterblichkeit sprechen? Wie sollen wir den Heiden überzeugen, wenn wir den Tod mehr fürchten und vor ihm mehr schaudern als er? Viele unter den Griechen haben sich, obwohl sie von der Unsterblichkeit nichts wussten, beim Tod ihrer Kinder bekränzen lassen und sind in weißen Gewändern erschienen, um den gegenwärtigen Ruhm zu ernten\. Du aber hörst nicht einmal um des Künftigen willen auf, dich weibisch zu benehmen und dich zu schlagen\. Aber du hast keine Erben, keinen Nachfolger für deinen Besitz? Was hättest du denn lieber gewollt: dass er Erbe deiner Güter wird oder Erbe der Himmel? Was hast du begehrt: dass er Vergängliches übernimmt, das er wenig später doch zurücklassen musste, oder das, was bleibt und unerschütterlich ist? Du hattest ihn nicht als Erben, aber statt deiner hatte Gott ihn\. Er wurde nicht Miterbe seiner eigenen Brüder, sondern Miterbe Christi\. „Und wem“, sagt einer, „hinterlassen wir die Kleider, wem die Häuser, wem die Sklaven und die Felder?“ Wieder ihm selbst, und das sicherer, als wenn er lebte; denn nichts hindert dich daran\. Wenn Barbaren den Verstorbenen deren Habe mitverbrennen, dann ist es umso mehr recht, dass du dem Verstorbenen das Seine mitschickst: nicht damit es zu Asche wird wie jenes, sondern damit du ihn mit größerer Herrlichkeit umkleidest\. Ist er als Sünder gegangen, dann damit diese Gabe seine Sünden tilgt; ist er aber gerecht, dann damit sie zu einem Zuwachs an Lohn und Vergeltung wird\. Du sehnst dich aber danach, ihn zu sehen? Dann führe dieselbe Lebensweise wie er, und bald wirst du jenen heiligen Anblick wiedererlangen\. Bedenke außerdem auch dies: Selbst wenn du nicht auf uns hörst, wirst du dich mit der Zeit ganz gewiss fügen\. Dann aber gibt es für dich keinen Lohn; denn der Trost kommt dann nur von der Menge der Tage\. Wenn du aber jetzt bereit bist, weise zu handeln, wirst du zwei der größten Gewinne haben: Du befreist dich selbst von den gegenwärtigen Übeln, und von Gott wirst du den Kranz umso glänzender empfangen\. Denn ein Unglück sanftmütig zu tragen ist weit größer als Almosen und vieles andere\. Bedenke: Auch der Sohn Gottes ist gestorben; er freilich für dich, du aber für dich selbst\. Und obwohl er sagte: „Wenn es möglich ist, gehe dieser Kelch an mir vorüber[^bible-27e000a6-f9f4-4520-9c3e-52ef25ca553e]“, und betrübt war und in Todesangst geriet, wich er dem Ende dennoch nicht aus, sondern ertrug es sogar unter großem Leid\. Denn er erduldete nicht einfach nur den Tod, sondern den schändlichsten; und vor dem Tod Geißelhiebe, vor den Geißelhieben Schmähungen, Spott und Beschimpfungen\. So lehrt er dich, alles edel zu tragen\. Und doch: Nachdem er gestorben war und den Leib abgelegt hatte, nahm er ihn wieder an sich, mit größerer Herrlichkeit, und gab dir auch dadurch gute Hoffnung\. Wenn das keine bloße Fabel ist, dann trauere nicht\. Wenn du meinst, dass es glaubwürdig ist, dann weine nicht\. Wenn du aber weinst, wie wirst du den Heiden überzeugen können, dass du glaubst?
+Warum also beschämst du den,
+der von uns gegangen ist?
+Warum bringst du die anderen dazu,
+den Tod zu fürchten und vor ihm zu zittern?
+Warum veranlasst du viele,
+Gott anzuklagen,
+als hätte er großes Unheil angerichtet?
+Oder vielmehr:
+Warum rufst du danach Arme herbei und bittest Priester,
+zu beten?
+„Damit der Verstorbene zur Ruhe gelangt“,
+sagst du,
+„damit er den Richter gnädig findet\.“
+Darum also trauerst du und schreist laut?
+Dann kämpfst und streitest du ja gegen dich selbst:
+Während jener in Häfen eingegangen ist,
+bereitest du dir selbst einen Sturm\.
+„Und was soll ich tun?“,
+sagt einer\.
+„So ist nun einmal die Natur\.“
+Nicht die Natur ist schuld,
+auch nicht der Ablauf der Sache;
+schuld sind wir,
+die wir alles durcheinanderbringen,
+die wir verweichlicht werden,
+den eigenen Adel verraten und die Ungläubigen noch schlechter machen\.
+Wie sollen wir denn mit einem anderen über die Unsterblichkeit sprechen?
+Wie sollen wir den Heiden überzeugen,
+wenn wir den Tod mehr fürchten und vor ihm mehr schaudern als er?
+Viele unter den Griechen haben sich,
+obwohl sie von der Unsterblichkeit nichts wussten,
+beim Tod ihrer Kinder bekränzen lassen und sind in weißen Gewändern erschienen,
+um den gegenwärtigen Ruhm zu ernten\.
+Du aber hörst nicht einmal um des Künftigen willen auf,
+dich weibisch zu benehmen und dich zu schlagen\.
+Aber du hast keine Erben,
+keinen Nachfolger für deinen Besitz?
+Was hättest du denn lieber gewollt:
+dass er Erbe deiner Güter wird oder Erbe der Himmel?
+Was hast du begehrt:
+dass er Vergängliches übernimmt,
+das er wenig später doch zurücklassen musste,
+oder das,
+was bleibt und unerschütterlich ist?
+Du hattest ihn nicht als Erben,
+aber statt deiner hatte Gott ihn\.
+Er wurde nicht Miterbe seiner eigenen Brüder,
+sondern Miterbe Christi\.
+„Und wem“,
+sagt einer,
+„hinterlassen wir die Kleider,
+wem die Häuser,
+wem die Sklaven und die Felder?“
+Wieder ihm selbst,
+und das sicherer,
+als wenn er lebte;
+denn nichts hindert dich daran\.
+Wenn Barbaren den Verstorbenen deren Habe mitverbrennen,
+dann ist es umso mehr recht,
+dass du dem Verstorbenen das Seine mitschickst:
+nicht damit es zu Asche wird wie jenes,
+sondern damit du ihn mit größerer Herrlichkeit umkleidest\.
+Ist er als Sünder gegangen,
+dann damit diese Gabe seine Sünden tilgt;
+ist er aber gerecht,
+dann damit sie zu einem Zuwachs an Lohn und Vergeltung wird\.
+Du sehnst dich aber danach,
+ihn zu sehen?
+Dann führe dieselbe Lebensweise wie er,
+und bald wirst du jenen heiligen Anblick wiedererlangen\.
+Bedenke außerdem auch dies:
+Selbst wenn du nicht auf uns hörst,
+wirst du dich mit der Zeit ganz gewiss fügen\.
+Dann aber gibt es für dich keinen Lohn;
+denn der Trost kommt dann nur von der Menge der Tage\.
+Wenn du aber jetzt bereit bist,
+weise zu handeln,
+wirst du zwei der größten Gewinne haben:
+Du befreist dich selbst von den gegenwärtigen Übeln,
+und von Gott wirst du den Kranz umso glänzender empfangen\.
+Denn ein Unglück sanftmütig zu tragen ist weit größer als Almosen und vieles andere\.
+Bedenke:
+Auch der Sohn Gottes ist gestorben;
+er freilich für dich,
+du aber für dich selbst\.
+Und obwohl er sagte:
+„Wenn es möglich ist,
+gehe dieser Kelch an mir vorüber[^bible-27e000a6-f9f4-4520-9c3e-52ef25ca553e]“,
+und betrübt war und in Todesangst geriet,
+wich er dem Ende dennoch nicht aus,
+sondern ertrug es sogar unter großem Leid\.
+Denn er erduldete nicht einfach nur den Tod,
+sondern den schändlichsten;
+und vor dem Tod Geißelhiebe,
+vor den Geißelhieben Schmähungen,
+Spott und Beschimpfungen\.
+So lehrt er dich,
+alles edel zu tragen\.
+Und doch:
+Nachdem er gestorben war und den Leib abgelegt hatte,
+nahm er ihn wieder an sich,
+mit größerer Herrlichkeit,
+und gab dir auch dadurch gute Hoffnung\.
+Wenn das keine bloße Fabel ist,
+dann trauere nicht\.
+Wenn du meinst,
+dass es glaubwürdig ist,
+dann weine nicht\.
+Wenn du aber weinst,
+wie wirst du den Heiden überzeugen können,
+dass du glaubst?
 
 ## Bibelverweise
 

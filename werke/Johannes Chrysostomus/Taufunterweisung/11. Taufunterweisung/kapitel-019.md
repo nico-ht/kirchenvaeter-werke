@@ -7,9 +7,28 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/11-taufunterweisung#kapitel-34c17180-c589-4514-910c-08ddf7b770e0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d793b02f8c1b8c55fda708b3070e8d47665efe35e739188d18118640d1a9b652`
-
-Worin bestehen diese Dinge? Morgen, am Freitag zur neunten Stunde, müsst ihr euch bestimmte Fragen stellen lassen und eure Gelöbnisse dem Herrn vorlegen\. Und dass ich euch diesen Tag und diese Stunde nenne, ist nicht ohne Absicht\. Daraus lässt sich eine mystische Lehre entnehmen\. Denn am Freitag zur neunten Stunde betrat der Dieb das Paradies; die Finsternis, die von der sechsten bis zur neunten Stunde andauerte, wich; und das Licht, das leiblich wie geistig wahrgenommen wird, wurde als Opfer für die ganze Welt dargebracht\. Denn in dieser Stunde sprach Christus: „Vater, in deine Hände befehle ich meinen Geist\.“[^bible-7136c741-669b-4186-9200-52a1fd70e40f] Da blickte die Sonne, die wir sehen, auf die Sonne der Gerechtigkeit, die vom Kreuz her strahlte, und zog ihre eigenen Strahlen zurück\.
+Worin bestehen diese Dinge?
+Morgen,
+am Freitag zur neunten Stunde,
+müsst ihr euch bestimmte Fragen stellen lassen und eure Gelöbnisse dem Herrn vorlegen\.
+Und dass ich euch diesen Tag und diese Stunde nenne,
+ist nicht ohne Absicht\.
+Daraus lässt sich eine mystische Lehre entnehmen\.
+Denn am Freitag zur neunten Stunde betrat der Dieb das Paradies;
+die Finsternis,
+die von der sechsten bis zur neunten Stunde andauerte,
+wich;
+und das Licht,
+das leiblich wie geistig wahrgenommen wird,
+wurde als Opfer für die ganze Welt dargebracht\.
+Denn in dieser Stunde sprach Christus:
+„Vater,
+in deine Hände befehle ich meinen Geist\.“[^bible-7136c741-669b-4186-9200-52a1fd70e40f]
+Da blickte die Sonne,
+die wir sehen,
+auf die Sonne der Gerechtigkeit,
+die vom Kreuz her strahlte,
+und zog ihre eigenen Strahlen zurück\.
 
 ## Bibelverweise
 

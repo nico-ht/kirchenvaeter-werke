@@ -7,11 +7,131 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-3#kapitel-e2a63fbf-cca5-406d-9c7d-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7f3f0ae436721b9a3936c4d8c1b9f034486c3c1b736b2f5c6cafa92ecc34270b`
+Was bedeutet die Aussage:
+„Er teilte sie in der Mitte und legte die Stücke einander gegenüber[^bible-60f298a3-5154-4c3a-9317-94ea24912d24]“?
+Auch der ganze Bau des Körpers,
+als des Fleisches,
+ist seiner gesamten Schöpfung nach in diesem Licht zu betrachten;
+denn die Teile sind wie Brüder,
+nicht insofern sie geteilt und einander gegenübergestellt sind,
+sondern insofern sie von Natur aufeinander hingeordnet sind,
+einander wechselseitig zugewandt sind und so ihrer natürlichen Zusammenarbeit dienen\.
+Der ursprüngliche Schöpfer,
+der ihnen Leben gab,
+vollzog diese Teilung um des Nutzens willen:
+Der eine Teil sollte dem anderen gegenüberstehen,
+und zugleich sollten beide einander in allen notwendigen Diensten wechselseitig suchen\.
+So hat er den Gesichtssinn ausdrücklich getrennt,
+indem er ihn gleichmäßig auf zwei Augen verteilte,
+die Nase zwischen sie setzte und dadurch jedes Auge dem anderen zuwandte;
+denn die Pupillen neigen sich,
+wenn man so sagen darf,
+beide in eine Richtung,
+um gemeinsam dasselbe zu sehen,
+und weichen kaum je über die Stellung hinaus,
+in die sie gesetzt sind,
+sondern blicken nur zueinander hin,
+besonders wenn ihnen etwas vor Augen tritt\.
+In ähnlicher Weise ist auch das Hörvermögen auf die beiden Ohren verteilt,
+die einander beide wechselseitig zugewandt sind und beide auf ein und dieselbe Tätigkeit ausgerichtet sind\.
+Und der Geruchssinn ist auf die beiden Nasenlöcher verteilt und den beiden Röhren der Nasenlöcher zugewandt;
+diese drehen sich nicht herum und neigen sich nicht den Wangen zu,
+sodass sie,
+in zwei verschiedene Richtungen gezogen,
+das eine nach rechts und das andere nach links blickten,
+sondern beide sind zusammengeführt und nach innen gewandt und erwarten mit gemeinsamer Tätigkeit alle Gerüche\.
+So sind auch die Hände nicht in einer einander entgegengesetzten Gestalt gemacht;
+vielmehr handeln sie,
+wie Brüder und wie teilbare Teile,
+die einander wechselseitig ansehen und von der Natur für die ihnen angemessene Tätigkeit und Verwendung bereitgestellt sind,
+eben so beim Empfangen,
+Geben und Arbeiten\.
+Auch die Füße sind nicht anders gebildet als die Hände;
+denn jedes Paar verhält sich so,
+dass beide einander nachgeben,
+und das Vorankommen geschieht durch die gemeinsame Bewegung beider,
+sodass durch einen allein nichts vollbracht werden kann\.
+Und nicht nur die Füße und Schienbeine,
+sondern auch die Beine und Kniescheiben,
+die Hüften und die Brustpartien,
+ja überhaupt jeder Teil auf der rechten oder linken Seite des Körpers zeigen,
+wenn sie in ähnlicher Weise geteilt sind,
+eine allgemeine Harmonie,
+Entsprechung und gleichsam Verbindung naturverwandter Teile an,
+nämlich aller jener verschiedenen Glieder,
+die nach ihren einzelnen Arten aufgezählt wurden\.
 
-Was bedeutet die Aussage: „Er teilte sie in der Mitte und legte die Stücke einander gegenüber[^bible-60f298a3-5154-4c3a-9317-94ea24912d24]“? Auch der ganze Bau des Körpers, als des Fleisches, ist seiner gesamten Schöpfung nach in diesem Licht zu betrachten; denn die Teile sind wie Brüder, nicht insofern sie geteilt und einander gegenübergestellt sind, sondern insofern sie von Natur aufeinander hingeordnet sind, einander wechselseitig zugewandt sind und so ihrer natürlichen Zusammenarbeit dienen\. Der ursprüngliche Schöpfer, der ihnen Leben gab, vollzog diese Teilung um des Nutzens willen: Der eine Teil sollte dem anderen gegenüberstehen, und zugleich sollten beide einander in allen notwendigen Diensten wechselseitig suchen\. So hat er den Gesichtssinn ausdrücklich getrennt, indem er ihn gleichmäßig auf zwei Augen verteilte, die Nase zwischen sie setzte und dadurch jedes Auge dem anderen zuwandte; denn die Pupillen neigen sich, wenn man so sagen darf, beide in eine Richtung, um gemeinsam dasselbe zu sehen, und weichen kaum je über die Stellung hinaus, in die sie gesetzt sind, sondern blicken nur zueinander hin, besonders wenn ihnen etwas vor Augen tritt\. In ähnlicher Weise ist auch das Hörvermögen auf die beiden Ohren verteilt, die einander beide wechselseitig zugewandt sind und beide auf ein und dieselbe Tätigkeit ausgerichtet sind\. Und der Geruchssinn ist auf die beiden Nasenlöcher verteilt und den beiden Röhren der Nasenlöcher zugewandt; diese drehen sich nicht herum und neigen sich nicht den Wangen zu, sodass sie, in zwei verschiedene Richtungen gezogen, das eine nach rechts und das andere nach links blickten, sondern beide sind zusammengeführt und nach innen gewandt und erwarten mit gemeinsamer Tätigkeit alle Gerüche\. So sind auch die Hände nicht in einer einander entgegengesetzten Gestalt gemacht; vielmehr handeln sie, wie Brüder und wie teilbare Teile, die einander wechselseitig ansehen und von der Natur für die ihnen angemessene Tätigkeit und Verwendung bereitgestellt sind, eben so beim Empfangen, Geben und Arbeiten\. Auch die Füße sind nicht anders gebildet als die Hände; denn jedes Paar verhält sich so, dass beide einander nachgeben, und das Vorankommen geschieht durch die gemeinsame Bewegung beider, sodass durch einen allein nichts vollbracht werden kann\. Und nicht nur die Füße und Schienbeine, sondern auch die Beine und Kniescheiben, die Hüften und die Brustpartien, ja überhaupt jeder Teil auf der rechten oder linken Seite des Körpers zeigen, wenn sie in ähnlicher Weise geteilt sind, eine allgemeine Harmonie, Entsprechung und gleichsam Verbindung naturverwandter Teile an, nämlich aller jener verschiedenen Glieder, die nach ihren einzelnen Arten aufgezählt wurden\.
-
-Und überhaupt: Wer alle zuvor genannten, so unterteilten Teile zusammen und in gleicher Weise im Hinblick auf ihr gemeinsames Wirken betrachtet, wird eine einzige Natur finden, die aus den beiden Teilen zusammengesetzt ist\. So sieht man an den Händen, die mit den Fingern vereint und miteinander verbunden sind, dass sie in dieser Verbindung eine Harmonie erkennen lassen; und an den Füßen, die im Wirken wieder zusammengeführt werden, sieht man, dass sie zur Einheit neigen; und die Ohren, die in ähnlicher Weise in der Gestalt eines Amphitheaters zusammengeordnet sind, zeigen, dass sie sich miteinander verbinden, indem sie gleichsam den Raum überbrücken, der sie trennt\. Deshalb nimmt unsere Natur auf diese Weise fortwährend eine Teilung der in uns vorhandenen Teile nach jeder einzelnen Art vor: Zuerst hat sie die verschiedenen Abschnitte getrennt und geordnet, indem sie sie gleichsam einander gegenüberstellte, so wie sie auch die Welt geordnet hat; zugleich hat sie sie im Blick auf die leichte Erfüllung ihrer jeweiligen Aufgaben angeordnet\. Und wiederum hat sie jedes dieser Glieder nach seiner Art zu einer einzigen Handlung und demselben Wirken verbunden, indem sie, allgemein betrachtet, alle zusammenfasst\. Nicht nur die Teile des Körpers kann man so vereint und paarweise sehen, in ihrer Vereinigung getrennt und wiederum in ihrer Trennung vereint; ebenso verhält es sich auch mit den Teilen der Seele\. Da ihre beiden höheren Abschnitte, nämlich der vernünftige und der unvernünftige, ihrerseits so viele einzelne Klassen bilden, haben auch die einzelnen Teile jedes Abschnitts ihre eigene angemessene Teilung\. So wird etwa der vernünftige Teil in die Absicht und in das ausgesprochene Wort geteilt; jener Teil aber, der den äußeren Sinnen entspricht, wird in die vier Sinne geteilt\. Denn der fünfte Sinn, der Tastsinn, ist den übrigen vier gemeinsam; von diesen sind zwei, mit denen wir sehen und hören, philosophische Sinne, sodass durch sie für uns die Fähigkeit erworben wird, gut zu leben\. Die anderen sind nicht philosophisch, nämlich Geruch und Geschmack, sondern dienstbar, da sie nur für das Leben geschaffen sind\. Denn der Geruchssinn enthält durch seine Betätigung vieles, was ihn weckt, und empfängt einen unablässigen Atem, der gleichsam die ständige Nahrung der Lebewesen ist\. Daher erhalten Geruch und Geschmack diesen sterblichen Körper, während Sehen und Hören der unsterblichen Seele Dienst leisten\. Diese Einteilungen unserer Glieder also, nach Körper und Seele, wurden vom Schöpfer gemacht und voneinander geschieden\. Doch müssen wir wissen, dass auch die Teile der Welt in zwei Einteilungen geordnet und einander gegenübergestellt sind: die Erde ist in bergige und flache Landstriche geteilt; das Wasser in süßes und salziges, wobei süß das ist, was von Quellen und Flüssen geliefert wird, salzig aber das, was aus dem Meer kommt; ebenso ist auch die Atmosphäre in Sommer und Winter, ferner in Frühling und Herbst geteilt\. Aus diesem Grund schrieb Heraklit seine Bücher über die Natur, nachdem er seine Lehre von den Gegensätzen unserem heiligen Geschichtsschreiber entlehnt und ihr eine unendliche Zahl mühsamer Beweisgänge hinzugefügt hatte\.
+Und überhaupt:
+Wer alle zuvor genannten,
+so unterteilten Teile zusammen und in gleicher Weise im Hinblick auf ihr gemeinsames Wirken betrachtet,
+wird eine einzige Natur finden,
+die aus den beiden Teilen zusammengesetzt ist\.
+So sieht man an den Händen,
+die mit den Fingern vereint und miteinander verbunden sind,
+dass sie in dieser Verbindung eine Harmonie erkennen lassen;
+und an den Füßen,
+die im Wirken wieder zusammengeführt werden,
+sieht man,
+dass sie zur Einheit neigen;
+und die Ohren,
+die in ähnlicher Weise in der Gestalt eines Amphitheaters zusammengeordnet sind,
+zeigen,
+dass sie sich miteinander verbinden,
+indem sie gleichsam den Raum überbrücken,
+der sie trennt\.
+Deshalb nimmt unsere Natur auf diese Weise fortwährend eine Teilung der in uns vorhandenen Teile nach jeder einzelnen Art vor:
+Zuerst hat sie die verschiedenen Abschnitte getrennt und geordnet,
+indem sie sie gleichsam einander gegenüberstellte,
+so wie sie auch die Welt geordnet hat;
+zugleich hat sie sie im Blick auf die leichte Erfüllung ihrer jeweiligen Aufgaben angeordnet\.
+Und wiederum hat sie jedes dieser Glieder nach seiner Art zu einer einzigen Handlung und demselben Wirken verbunden,
+indem sie,
+allgemein betrachtet,
+alle zusammenfasst\.
+Nicht nur die Teile des Körpers kann man so vereint und paarweise sehen,
+in ihrer Vereinigung getrennt und wiederum in ihrer Trennung vereint;
+ebenso verhält es sich auch mit den Teilen der Seele\.
+Da ihre beiden höheren Abschnitte,
+nämlich der vernünftige und der unvernünftige,
+ihrerseits so viele einzelne Klassen bilden,
+haben auch die einzelnen Teile jedes Abschnitts ihre eigene angemessene Teilung\.
+So wird etwa der vernünftige Teil in die Absicht und in das ausgesprochene Wort geteilt;
+jener Teil aber,
+der den äußeren Sinnen entspricht,
+wird in die vier Sinne geteilt\.
+Denn der fünfte Sinn,
+der Tastsinn,
+ist den übrigen vier gemeinsam;
+von diesen sind zwei,
+mit denen wir sehen und hören,
+philosophische Sinne,
+sodass durch sie für uns die Fähigkeit erworben wird,
+gut zu leben\.
+Die anderen sind nicht philosophisch,
+nämlich Geruch und Geschmack,
+sondern dienstbar,
+da sie nur für das Leben geschaffen sind\.
+Denn der Geruchssinn enthält durch seine Betätigung vieles,
+was ihn weckt,
+und empfängt einen unablässigen Atem,
+der gleichsam die ständige Nahrung der Lebewesen ist\.
+Daher erhalten Geruch und Geschmack diesen sterblichen Körper,
+während Sehen und Hören der unsterblichen Seele Dienst leisten\.
+Diese Einteilungen unserer Glieder also,
+nach Körper und Seele,
+wurden vom Schöpfer gemacht und voneinander geschieden\.
+Doch müssen wir wissen,
+dass auch die Teile der Welt in zwei Einteilungen geordnet und einander gegenübergestellt sind:
+die Erde ist in bergige und flache Landstriche geteilt;
+das Wasser in süßes und salziges,
+wobei süß das ist,
+was von Quellen und Flüssen geliefert wird,
+salzig aber das,
+was aus dem Meer kommt;
+ebenso ist auch die Atmosphäre in Sommer und Winter,
+ferner in Frühling und Herbst geteilt\.
+Aus diesem Grund schrieb Heraklit seine Bücher über die Natur,
+nachdem er seine Lehre von den Gegensätzen unserem heiligen Geschichtsschreiber entlehnt und ihr eine unendliche Zahl mühsamer Beweisgänge hinzugefügt hatte\.
 
 ## Bibelverweise
 

@@ -7,6 +7,55 @@ Autor: Tertullian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/apologie#kapitel-5053cf0d-954e-4981-09cc-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:156e181510eda80117336cdb7a9e16a374f64a98030dd1ce783d570a63c90a38`
-
-Für diesen Aufschub bieten wir nun noch mehr: die Erhabenheit der Schriften, falls wir sie nicht aufgrund ihres Alters als göttlich erweisen können, falls ihr Alter bezweifelt wird\. Doch dies braucht man weder erst später noch von anderswoher zu erfahren; vor Augen liegt, was darüber Aufschluss geben wird: die Welt, das Zeitalter und sein Ausgang\. Alles, was geschieht, wurde vorhergesagt; alles, was man sieht, war zuvor zu hören\. Dass die Erde Städte verschlingt, die Meere Inseln rauben, äußere wie innere Kriege das Land zerreißen, Reiche gegen Reiche stoßen, Hunger und Seuchen, allerlei örtliche Heimsuchungen und häufiges Sterben Verwüstung bringen, dass Niedrige zu Hohem, Hohe zu Niedrigem gewandelt werden, dass die Gerechtigkeit schwindet und die Ungerechtigkeit um sich greift, die Pflege aller guten Ordnungen erlahmt, dass selbst die Zeiten von ihren Aufgaben und die Elemente von ihren Diensten abweichen und durch Ungeheuer und Vorzeichen das Erscheinungsbild der Natur in Verwirrung gerät: All das ist in weiser Voraussicht niedergeschrieben worden\. Während wir diese Dinge erleiden, werden sie gelesen; während wir sie wiedererkennen, werden sie bestätigt\. Die Wahrheit der Weissagung ist, meine ich, ein hinreichendes Zeugnis ihrer Göttlichkeit\. Daher ist für uns auch der Glaube an die zukünftigen Dinge gesichert: Sie sind ja bereits erwiesen, weil sie zusammen mit dem vorausgesagt wurden, was sich täglich bestätigt\. Dieselben Stimmen ertönen, dieselben Schriften zeichnen auf, derselbe Geist treibt an; für die Weissagung, die Zukünftiges ankündigt, ist es ein und dieselbe Zeit\. Bei den Menschen wird sie allenfalls unterschieden, indem es sich erfüllt und damit aus Zukünftigem Gegenwärtiges, dann aus Gegenwärtigem Vergangenes wird\. Worin vergehen wir uns, bitte ich euch, wenn wir auch an das Zukünftige glauben, nachdem wir bereits gelernt haben, der Weissagung über zwei Stufen hinweg zu glauben?
+Für diesen Aufschub bieten wir nun noch mehr:
+die Erhabenheit der Schriften,
+falls wir sie nicht aufgrund ihres Alters als göttlich erweisen können,
+falls ihr Alter bezweifelt wird\.
+Doch dies braucht man weder erst später noch von anderswoher zu erfahren;
+vor Augen liegt,
+was darüber Aufschluss geben wird:
+die Welt,
+das Zeitalter und sein Ausgang\.
+Alles,
+was geschieht,
+wurde vorhergesagt;
+alles,
+was man sieht,
+war zuvor zu hören\.
+Dass die Erde Städte verschlingt,
+die Meere Inseln rauben,
+äußere wie innere Kriege das Land zerreißen,
+Reiche gegen Reiche stoßen,
+Hunger und Seuchen,
+allerlei örtliche Heimsuchungen und häufiges Sterben Verwüstung bringen,
+dass Niedrige zu Hohem,
+Hohe zu Niedrigem gewandelt werden,
+dass die Gerechtigkeit schwindet und die Ungerechtigkeit um sich greift,
+die Pflege aller guten Ordnungen erlahmt,
+dass selbst die Zeiten von ihren Aufgaben und die Elemente von ihren Diensten abweichen und durch Ungeheuer und Vorzeichen das Erscheinungsbild der Natur in Verwirrung gerät:
+All das ist in weiser Voraussicht niedergeschrieben worden\.
+Während wir diese Dinge erleiden,
+werden sie gelesen;
+während wir sie wiedererkennen,
+werden sie bestätigt\.
+Die Wahrheit der Weissagung ist,
+meine ich,
+ein hinreichendes Zeugnis ihrer Göttlichkeit\.
+Daher ist für uns auch der Glaube an die zukünftigen Dinge gesichert:
+Sie sind ja bereits erwiesen,
+weil sie zusammen mit dem vorausgesagt wurden,
+was sich täglich bestätigt\.
+Dieselben Stimmen ertönen,
+dieselben Schriften zeichnen auf,
+derselbe Geist treibt an;
+für die Weissagung,
+die Zukünftiges ankündigt,
+ist es ein und dieselbe Zeit\.
+Bei den Menschen wird sie allenfalls unterschieden,
+indem es sich erfüllt und damit aus Zukünftigem Gegenwärtiges,
+dann aus Gegenwärtigem Vergangenes wird\.
+Worin vergehen wir uns,
+bitte ich euch,
+wenn wir auch an das Zukünftige glauben,
+nachdem wir bereits gelernt haben,
+der Weissagung über zwei Stufen hinweg zu glauben?

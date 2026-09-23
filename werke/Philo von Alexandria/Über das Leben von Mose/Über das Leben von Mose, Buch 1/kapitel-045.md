@@ -7,6 +7,59 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-1#kapitel-3faf1394-0ef1-46a9-4891-08ded87107d6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:6988851c0191c05f2a5f2a2ff2665c7a978b6d40940c4a699bd086621642f27e`
-
-Darum zog er an den Städten dieser Völker vorüber\. Ein König aber aus dem Nachbarland, Kanaan mit Namen, erfuhr durch seine Kundschafter, dass das Heer der Hebräer, das auf ihn zuzog, nicht mehr weit entfernt sei\. In der Meinung, es befinde sich in Verwirrung und Unordnung und er könne es leicht besiegen, wenn er es sogleich angreife, rückte er mit der wohlbewaffneten und ausgerüsteten Jugend seines Volkes aus, marschierte in größter Eile und schlug die Vorhut des hebräischen Heeres in die Flucht, sobald er auf sie traf, da sie weder in Schlachtordnung standen noch zum Kampf bereit waren\. Nachdem er viele Gefangene gemacht hatte und durch den unerwarteten Erfolg übermütig geworden war, zog er weiter in der Erwartung, auch alle übrigen besiegen zu können\. Die Hebräer aber ließen sich durch die Niederlage ihrer Vorhut nicht entmutigen, sondern gewannen daraus vielmehr noch größeres Vertrauen als zuvor; zugleich drängte es sie, durch ihren Eifer zum Kampf den Verlust derer aus ihrer Mitte wettzumachen, die gefangen genommen worden waren\. So ermahnten sie einander, nicht zu ermatten und nicht nachzugeben\. Sie sagten: „Lasst uns aufbrechen; lasst uns sogleich in ihr Land eindringen\. Lasst uns durch Tatkraft und Zuversicht zeigen, dass wir keineswegs erschrocken oder niedergeschlagen sind\. Sehr oft wird das Ende nach dem Anfang beurteilt\. Lasst uns die Schlüssel des Landes an uns bringen und den Einwohnern Schrecken einjagen, indem wir aus den Städten Wohlstand gewinnen und ihnen dafür den Mangel an Notwendigem zufügen, den wir aus der Wüste mitbringen\.“ Mit solchen Worten ermahnten sie einander immer wieder und begannen zugleich, Gott die Städte des Königs samt allen Bürgern jeder einzelnen Stadt als Erstlingsgaben des Landes zu weihen\. Und er nahm ihre Gesinnung an, erfüllte die Hebräer mit Mut und bereitete das Heer der Feinde auf die Niederlage vor\. Dementsprechend besiegten die Hebräer sie mit gewaltiger Macht und erfüllten die Dankesverpflichtung, die sie eingegangen waren, indem sie sich nicht den geringsten Teil der Beute aneigneten\. Vielmehr weihten sie Gott die Städte mit allen Menschen und Schätzen, die darin waren, und nach dem, was so geschehen war, nannten sie das ganze Land eine Opfergabe an Gott\. Denn wie jeder fromme Mensch Gott die Erstlinge der Jahresfrüchte darbringt, die er aus seinem eigenen Besitz sammelt, so weihten auch die Hebräer das ganze Volk dieses mächtigen Landes, in das sie als Siedler gekommen waren, und jene große Beute, das Königreich, das sie so schnell unterworfen hatten, gewissermaßen als Erstlingsgabe ihrer Ansiedlung\. Denn sie hielten es mit der Frömmigkeit nicht für vereinbar, das Land unter sich zu verteilen oder die Städte in Besitz zu nehmen, bevor sie Gott die Erstlinge dieses Landes und dieser Städte dargebracht hatten\.
+Darum zog er an den Städten dieser Völker vorüber\.
+Ein König aber aus dem Nachbarland,
+Kanaan mit Namen,
+erfuhr durch seine Kundschafter,
+dass das Heer der Hebräer,
+das auf ihn zuzog,
+nicht mehr weit entfernt sei\.
+In der Meinung,
+es befinde sich in Verwirrung und Unordnung und er könne es leicht besiegen,
+wenn er es sogleich angreife,
+rückte er mit der wohlbewaffneten und ausgerüsteten Jugend seines Volkes aus,
+marschierte in größter Eile und schlug die Vorhut des hebräischen Heeres in die Flucht,
+sobald er auf sie traf,
+da sie weder in Schlachtordnung standen noch zum Kampf bereit waren\.
+Nachdem er viele Gefangene gemacht hatte und durch den unerwarteten Erfolg übermütig geworden war,
+zog er weiter in der Erwartung,
+auch alle übrigen besiegen zu können\.
+Die Hebräer aber ließen sich durch die Niederlage ihrer Vorhut nicht entmutigen,
+sondern gewannen daraus vielmehr noch größeres Vertrauen als zuvor;
+zugleich drängte es sie,
+durch ihren Eifer zum Kampf den Verlust derer aus ihrer Mitte wettzumachen,
+die gefangen genommen worden waren\.
+So ermahnten sie einander,
+nicht zu ermatten und nicht nachzugeben\.
+Sie sagten:
+„Lasst uns aufbrechen;
+lasst uns sogleich in ihr Land eindringen\.
+Lasst uns durch Tatkraft und Zuversicht zeigen,
+dass wir keineswegs erschrocken oder niedergeschlagen sind\.
+Sehr oft wird das Ende nach dem Anfang beurteilt\.
+Lasst uns die Schlüssel des Landes an uns bringen und den Einwohnern Schrecken einjagen,
+indem wir aus den Städten Wohlstand gewinnen und ihnen dafür den Mangel an Notwendigem zufügen,
+den wir aus der Wüste mitbringen\.“
+Mit solchen Worten ermahnten sie einander immer wieder und begannen zugleich,
+Gott die Städte des Königs samt allen Bürgern jeder einzelnen Stadt als Erstlingsgaben des Landes zu weihen\.
+Und er nahm ihre Gesinnung an,
+erfüllte die Hebräer mit Mut und bereitete das Heer der Feinde auf die Niederlage vor\.
+Dementsprechend besiegten die Hebräer sie mit gewaltiger Macht und erfüllten die Dankesverpflichtung,
+die sie eingegangen waren,
+indem sie sich nicht den geringsten Teil der Beute aneigneten\.
+Vielmehr weihten sie Gott die Städte mit allen Menschen und Schätzen,
+die darin waren,
+und nach dem,
+was so geschehen war,
+nannten sie das ganze Land eine Opfergabe an Gott\.
+Denn wie jeder fromme Mensch Gott die Erstlinge der Jahresfrüchte darbringt,
+die er aus seinem eigenen Besitz sammelt,
+so weihten auch die Hebräer das ganze Volk dieses mächtigen Landes,
+in das sie als Siedler gekommen waren,
+und jene große Beute,
+das Königreich,
+das sie so schnell unterworfen hatten,
+gewissermaßen als Erstlingsgabe ihrer Ansiedlung\.
+Denn sie hielten es mit der Frömmigkeit nicht für vereinbar,
+das Land unter sich zu verteilen oder die Städte in Besitz zu nehmen,
+bevor sie Gott die Erstlinge dieses Landes und dieser Städte dargebracht hatten\.

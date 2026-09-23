@@ -7,8 +7,140 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-3dde25a2-d696-4efb-2f6d-08de09a6435b).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3525a640e5df476168eab2d9d48fe09c2b495d052430de7db938ed05d6c2f337`
+Er fragte:
+„Hat unser Geist also eine so große Kraft?
+Oder nimmt er das,
+was ist,
+nicht durch die Sinne wahr?
+Oder wird der menschliche Geist Gott nur sehen können,
+wenn ihn der Heilige Geist unterstützt?“
+Ich entgegnete:
+„Platon sagt mit Recht,
+das Auge des Verstandes habe diese besondere Fähigkeit;
+es ist uns gegeben,
+damit wir mit ihm,
+wenn es rein ist,
+jenes Wesen schauen,
+das die Ursache von allem ist,
+was der Verstand erfasst,
+das weder Farbe noch Gestalt noch Größe hat noch irgendetwas,
+was das Auge sehen kann,
+das jenseits aller Wesenheit steht,
+unaussprechlich und unbeschreiblich ist,
+das allein schön und gut ist und das sogleich in jene Seelen eingeht,
+die gut gestimmt sind wegen ihrer Verwandtschaft mit ihm und ihres Verlangens,
+ihn zu schauen\.“
+„Welche Verwandtschaft also“,
+fragte er,
+„haben wir mit Gott?
+Ist die Seele ebenfalls göttlich und unsterblich und ein Teil des höchsten Geistes selbst?
+Und da dieser höchste Geist Gott sieht,
+sind wir ebenso imstande,
+die Gottheit in unserem Denken zu erfassen und so schon jetzt glücklich zu sein?“
+„Gewiss“,
+antwortete ich\.
+„Erkennen dann“,
+fragte er,
+„alle Seelen aller Tiere ihn?
+Oder ist die Seele des Menschen anders als die eines Pferdes oder eines Esels?“
+„Nein“,
+sagte ich,
+„die Seelen aller Geschöpfe sind gleich\.“
+„Werden also“,
+fuhr er fort,
+„Pferde und Esel Gott sehen,
+oder haben sie ihn je gesehen?“
+„Nein“,
+erwiderte ich,
+„denn nicht einmal die meisten Menschen sehen ihn;
+nur die,
+die in ihrem Leben redlich sind und durch ihre Gerechtigkeit und jede andere Tugend gereinigt wurden\.“
+„Dann würdest du sagen“,
+hielt er nach,
+„dass der Mensch Gott nicht wegen seiner Verwandtschaft mit ihm sieht und auch nicht,
+weil er Verstand besitzt,
+sondern weil er maßvoll und gerecht ist?“
+„Gewiss“,
+sagte ich,
+„und auch,
+weil er die Fähigkeit hat,
+an Gott zu denken\.“
+„Würdest du sagen“,
+fragte er,
+„dass Ziegen oder Schafe irgendjemandem Unrecht tun?“
+„Sie tun niemandem in irgendeiner Weise Unrecht“,
+erwiderte ich\.
 
-Er fragte: „Hat unser Geist also eine so große Kraft? Oder nimmt er das, was ist, nicht durch die Sinne wahr? Oder wird der menschliche Geist Gott nur sehen können, wenn ihn der Heilige Geist unterstützt?“ Ich entgegnete: „Platon sagt mit Recht, das Auge des Verstandes habe diese besondere Fähigkeit; es ist uns gegeben, damit wir mit ihm, wenn es rein ist, jenes Wesen schauen, das die Ursache von allem ist, was der Verstand erfasst, das weder Farbe noch Gestalt noch Größe hat noch irgendetwas, was das Auge sehen kann, das jenseits aller Wesenheit steht, unaussprechlich und unbeschreiblich ist, das allein schön und gut ist und das sogleich in jene Seelen eingeht, die gut gestimmt sind wegen ihrer Verwandtschaft mit ihm und ihres Verlangens, ihn zu schauen\.“ „Welche Verwandtschaft also“, fragte er, „haben wir mit Gott? Ist die Seele ebenfalls göttlich und unsterblich und ein Teil des höchsten Geistes selbst? Und da dieser höchste Geist Gott sieht, sind wir ebenso imstande, die Gottheit in unserem Denken zu erfassen und so schon jetzt glücklich zu sein?“ „Gewiss“, antwortete ich\. „Erkennen dann“, fragte er, „alle Seelen aller Tiere ihn? Oder ist die Seele des Menschen anders als die eines Pferdes oder eines Esels?“ „Nein“, sagte ich, „die Seelen aller Geschöpfe sind gleich\.“ „Werden also“, fuhr er fort, „Pferde und Esel Gott sehen, oder haben sie ihn je gesehen?“ „Nein“, erwiderte ich, „denn nicht einmal die meisten Menschen sehen ihn; nur die, die in ihrem Leben redlich sind und durch ihre Gerechtigkeit und jede andere Tugend gereinigt wurden\.“ „Dann würdest du sagen“, hielt er nach, „dass der Mensch Gott nicht wegen seiner Verwandtschaft mit ihm sieht und auch nicht, weil er Verstand besitzt, sondern weil er maßvoll und gerecht ist?“ „Gewiss“, sagte ich, „und auch, weil er die Fähigkeit hat, an Gott zu denken\.“ „Würdest du sagen“, fragte er, „dass Ziegen oder Schafe irgendjemandem Unrecht tun?“ „Sie tun niemandem in irgendeiner Weise Unrecht“, erwiderte ich\.
-
-„Nach deiner Logik also“, sagte er, „werden diese Tiere Gott sehen?“ „Nein, werden sie nicht“, antwortete ich, „weil die Gestalt ihrer Körper sie daran hindert\.“ „Hätten diese Tiere die Fähigkeit zu sprechen“, entgegnete er, „kannst du sicher sein, dass sie eher Grund hätten, über unsere Körper herzuziehen\. Aber lassen wir das und ich gestehe dir zu, dass es so ist, wie du sagst\. Sag mir: Sieht die Seele Gott, während sie im Körper ist, oder erst nachdem sie aus ihm erlöst ist?“ „Schon im menschlichen Körper“, erwiderte ich, „kann sie Gott mit Hilfe des Verstandes schauen; vor allem aber, wenn sie vom Körper gelöst ist und für sich selbst existiert, erfasst sie Gott, den sie immer liebte\.“ „Erinnert sie sich“, fragte er, „an diese Gottesanschauung, wenn sie wieder mit einem menschlichen Körper verbunden wird?“ „Ich glaube nicht“, antwortete ich\. „Welchen Vorteil hat dann“, fuhr er fort, „der, der Gott geschaut hat, vor dem, der ihn nicht geschaut hat, wenn er sich nicht einmal daran erinnert, dass er ihn gesehen hat?“ „Darauf kann ich keine Antwort geben“, gab ich zu\. „Und was“, fragte er, „wird die Strafe für diejenigen sein, die nicht als würdig erachtet werden, Gott zu sehen?“ „Als Strafe“, antwortete ich, „werden sie in die Körper gewisser wilder Tiere eingesperrt\.“ „Werden sie sich dessen bewusst sein, dass sie aus diesem Grund in solchen Körpern gefangen sind und dass sie irgendeine Sünde begangen haben?“ „Ich glaube nicht\.“ „Dann“, sagte er, „haben sie aus einer solchen Strafe in keiner Weise einen Nutzen; ja, ich würde sagen, sie erleiden überhaupt keine Strafe, wenn sie sich nicht bewusst sind, dass es eine Strafe ist\.“ „Da hast du recht“, stimmte ich zu\. „Darum sehen Seelen weder Gott noch wandern sie in andere Körper; denn sie wüssten, dass sie so bestraft werden, und würden sich danach nicht einmal die kleinste Sünde mehr zutrauen\. Ich gestehe aber zu, dass Seelen erkennen können, dass es einen Gott gibt, und dass Gerechtigkeit und Frömmigkeit bewundernswert sind\.“ „Du sagst die Wahrheit“, stimmte ich zu\.
+„Nach deiner Logik also“,
+sagte er,
+„werden diese Tiere Gott sehen?“
+„Nein,
+werden sie nicht“,
+antwortete ich,
+„weil die Gestalt ihrer Körper sie daran hindert\.“
+„Hätten diese Tiere die Fähigkeit zu sprechen“,
+entgegnete er,
+„kannst du sicher sein,
+dass sie eher Grund hätten,
+über unsere Körper herzuziehen\.
+Aber lassen wir das und ich gestehe dir zu,
+dass es so ist,
+wie du sagst\.
+Sag mir:
+Sieht die Seele Gott,
+während sie im Körper ist,
+oder erst nachdem sie aus ihm erlöst ist?“
+„Schon im menschlichen Körper“,
+erwiderte ich,
+„kann sie Gott mit Hilfe des Verstandes schauen;
+vor allem aber,
+wenn sie vom Körper gelöst ist und für sich selbst existiert,
+erfasst sie Gott,
+den sie immer liebte\.“
+„Erinnert sie sich“,
+fragte er,
+„an diese Gottesanschauung,
+wenn sie wieder mit einem menschlichen Körper verbunden wird?“
+„Ich glaube nicht“,
+antwortete ich\.
+„Welchen Vorteil hat dann“,
+fuhr er fort,
+„der,
+der Gott geschaut hat,
+vor dem,
+der ihn nicht geschaut hat,
+wenn er sich nicht einmal daran erinnert,
+dass er ihn gesehen hat?“
+„Darauf kann ich keine Antwort geben“,
+gab ich zu\.
+„Und was“,
+fragte er,
+„wird die Strafe für diejenigen sein,
+die nicht als würdig erachtet werden,
+Gott zu sehen?“
+„Als Strafe“,
+antwortete ich,
+„werden sie in die Körper gewisser wilder Tiere eingesperrt\.“
+„Werden sie sich dessen bewusst sein,
+dass sie aus diesem Grund in solchen Körpern gefangen sind und dass sie irgendeine Sünde begangen haben?“
+„Ich glaube nicht\.“
+„Dann“,
+sagte er,
+„haben sie aus einer solchen Strafe in keiner Weise einen Nutzen;
+ja,
+ich würde sagen,
+sie erleiden überhaupt keine Strafe,
+wenn sie sich nicht bewusst sind,
+dass es eine Strafe ist\.“
+„Da hast du recht“,
+stimmte ich zu\.
+„Darum sehen Seelen weder Gott noch wandern sie in andere Körper;
+denn sie wüssten,
+dass sie so bestraft werden,
+und würden sich danach nicht einmal die kleinste Sünde mehr zutrauen\.
+Ich gestehe aber zu,
+dass Seelen erkennen können,
+dass es einen Gott gibt,
+und dass Gerechtigkeit und Frömmigkeit bewundernswert sind\.“
+„Du sagst die Wahrheit“,
+stimmte ich zu\.

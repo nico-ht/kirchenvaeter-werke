@@ -7,29 +7,530 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/auszuege-aus-genesis-fragmente#kapitel-06f86f65-7e56-438c-eade-08de02a1dc4b).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:06c3af0cb089672b2d735cff13350a603e143bcb8da62224a2004eef2aecbf01`
+„Und es geschah am dritten Tag,
+es war der Geburtstag des Pharao,
+da machte er ein Gastmahl für all seine Diener\.“[^bible-cf87c4fe-d8a1-468a-80d5-cb53b2316d62]
+Schon vor uns hat jemand festgestellt,
+dass derjenige verachtenswert ist,
+der Geburtstage ehrt und den Tag seiner eigenen Geburt gutheißt\.
+Wir bestätigen diese Aussage und finden bei Herodes etwas Ähnliches:
+als die Tochter der Herodias tanzte und das Haupt des Johannes abgeschlagen wurde\.
+Und nirgends erscheint ein Gerechter,
+der seinen Geburtstag feiert\.
 
-„Und es geschah am dritten Tag, es war der Geburtstag des Pharao, da machte er ein Gastmahl für all seine Diener\.“[^bible-cf87c4fe-d8a1-468a-80d5-cb53b2316d62] Schon vor uns hat jemand festgestellt, dass derjenige verachtenswert ist, der Geburtstage ehrt und den Tag seiner eigenen Geburt gutheißt\. Wir bestätigen diese Aussage und finden bei Herodes etwas Ähnliches: als die Tochter der Herodias tanzte und das Haupt des Johannes abgeschlagen wurde\. Und nirgends erscheint ein Gerechter, der seinen Geburtstag feiert\.
+„Und es geschah nach zwei Jahren:
+Der Pharao sah einen Traum\.
+Ihm war,
+als stünde er auf dem Fluss\.“[^bible-3805f8de-5443-44e0-9928-45c673f1d1ab]
+Und so weiter\.
+Wer auf das Fließende und Ungewisse vertraut,
+meint,
+auf dem Fluss zu stehen – von dort steigt ja das vermeintliche Glück herauf,
+solange seine Rinder fett sind\.
+Doch am Ende wird dies alles von den schlechteren \(den mageren\) verschlungen\.
+Zum „er meinte“ vergleiche:
+„Ich meinte,
+ihr bindet Garben\.“
+Beim zweiten Traum:
+„Die Sonne,
+der Mond und die Sterne warfen sich vor mir nieder\.“
+Und wieder sagt der Obermundschenk:
+„In meinem Traum war ein Weinstock\.\.\.“;
+der Oberbäcker aber:
+„Ich meinte,
+drei Körbe mit Weizenmehl auf meinem Haupt zu tragen\.\.\.“\.
+Die erzählende Stimme der Schrift sagt:
+„Er meinte,
+auf dem Fluss zu stehen,
+nicht am Ufer des Flusses\.“
+Der Pharao hingegen sagt:
+„Ich meinte,
+am Ufer des Flusses zu stehen,
+nicht auf dem Fluss\.“
+Die ägyptischen,
+das heißt weltlichen Dinge beginnen mit Besserem – Sinnbild ist die Fülle – und enden in Bitterem – Sinnbild sind Fülle und Hunger\.
+Ähnliches lässt sich im Bericht vom Reichen beobachten\.
+Gleichsam hatte er seine sieben Jahre der Fülle:
+er erhielt seine Güter in seinem Leben,
+war „in Purpur und feines Leinen gekleidet und lebte Tag für Tag prächtig“[^bible-b1271e19-20d2-4a68-a340-d661fdec0cbe];
+doch es endet für ihn im Gegenteil,
+indem er nach dem Fortgang von hier das Böse empfängt\.
+So etwas siehst du auch bei denen,
+die die breite und weite Straße gehen – ihr Ende ist Verderben;
+denen aber der Anfang eng und bedrängt ist,
+deren Ende ist Leben\.
+Daher:
+„Wehe den Satten,
+denn sie werden hungern,
+und den Lachenden,
+denn sie werden weinen\.“[^bible-7e83c0ee-0da6-428d-9af7-b9f223645a1c]
+„Selig sind die Trauernden und Weinenden,
+denn sie werden getröstet werden\.“[^bible-1b7609cd-d16f-41da-a114-6aa04248a8f9]
 
-„Und es geschah nach zwei Jahren: Der Pharao sah einen Traum\. Ihm war, als stünde er auf dem Fluss\.“[^bible-3805f8de-5443-44e0-9928-45c673f1d1ab] Und so weiter\. Wer auf das Fließende und Ungewisse vertraut, meint, auf dem Fluss zu stehen – von dort steigt ja das vermeintliche Glück herauf, solange seine Rinder fett sind\. Doch am Ende wird dies alles von den schlechteren \(den mageren\) verschlungen\. Zum „er meinte“ vergleiche: „Ich meinte, ihr bindet Garben\.“ Beim zweiten Traum: „Die Sonne, der Mond und die Sterne warfen sich vor mir nieder\.“ Und wieder sagt der Obermundschenk: „In meinem Traum war ein Weinstock\.\.\.“; der Oberbäcker aber: „Ich meinte, drei Körbe mit Weizenmehl auf meinem Haupt zu tragen\.\.\.“\. Die erzählende Stimme der Schrift sagt: „Er meinte, auf dem Fluss zu stehen, nicht am Ufer des Flusses\.“ Der Pharao hingegen sagt: „Ich meinte, am Ufer des Flusses zu stehen, nicht auf dem Fluss\.“ Die ägyptischen, das heißt weltlichen Dinge beginnen mit Besserem – Sinnbild ist die Fülle – und enden in Bitterem – Sinnbild sind Fülle und Hunger\. Ähnliches lässt sich im Bericht vom Reichen beobachten\. Gleichsam hatte er seine sieben Jahre der Fülle: er erhielt seine Güter in seinem Leben, war „in Purpur und feines Leinen gekleidet und lebte Tag für Tag prächtig“[^bible-b1271e19-20d2-4a68-a340-d661fdec0cbe]; doch es endet für ihn im Gegenteil, indem er nach dem Fortgang von hier das Böse empfängt\. So etwas siehst du auch bei denen, die die breite und weite Straße gehen – ihr Ende ist Verderben; denen aber der Anfang eng und bedrängt ist, deren Ende ist Leben\. Daher: „Wehe den Satten, denn sie werden hungern, und den Lachenden, denn sie werden weinen\.“[^bible-7e83c0ee-0da6-428d-9af7-b9f223645a1c] „Selig sind die Trauernden und Weinenden, denn sie werden getröstet werden\.“[^bible-1b7609cd-d16f-41da-a114-6aa04248a8f9]
+Und siehe:
+„Aus dem Fluss stiegen sieben Kühe herauf,
+und was weiter folgt\.“[^bible-c384a337-6fb2-4885-8f4e-7140d0109b17]
+Pharaos Träume handelten von Kühen und von Ähren\.
+Denn durch das,
+womit die Erde bebaut wird,
+und durch das,
+was sie hervorbringt,
+wurden dem König Vorzeichen für Überfluss und für Mangel gegeben\.
+Pharao erwachte und träumte ein zweites Mal:
+„Und siehe:
+Sieben Ähren wuchsen an einem einzigen Halm,
+ausgewählt und schön\.“[^bible-5a451aa5-fb1b-4eff-9e63-72376c3012ef]
+Josef aber sah nicht Ähren,
+sondern Garben;
+der Ägypter \(Pharao\) sah nicht Garben,
+sondern Ähren\.
+Und wiederum:
+Der Obermundschenk deutet die drei Halme als drei Tage;
+der König deutet die sieben Ähren an einem einzigen Halm als die sieben Jahre in einer zusammenhängenden Zeitspanne\.
+So ergibt sich bei ein und demselben Wort „Halm“ eine unterschiedliche Auslegung\.
+Wenn daher jemand die Schrift anders erzählt,
+soll man nicht meinen,
+er zwinge sie\.
+Außerdem ist zu beachten:
+In der Zeit des Überflusses steigen sieben Ähren auf einem einzigen Halm auf;
+in der Zeit der Hungersnot sind es zwar sieben Ähren,
+aber nicht mehr auf einem Halm\.
+Ein anderer sagt:
+an einem Rohr\.
+„Und es geschah am Morgen:
+Da war sein Geist aufgewühlt;
+und er sandte aus und rief alle Ausleger Ägyptens und all ihre Weisen\.“[^bible-a04d8fed-45c9-4a9e-8e4e-ccb79f4da8a6]
+Wie hat er die Ausleger und die Weisen ganz Ägyptens zusammengerufen?
+Das ist sowohl am Wortlaut zu prüfen als auch die Frage,
+ob Pharao für die anagogische Deutung ägyptischer Ausleger bedurfte,
+als ob sie die Weiseren wären\.
+„Ganz Ägyptens“ verstehen wir als nachgestellt zu:
+„alle Ausleger Ägyptens und all ihre Weisen“\.
 
-Und siehe: „Aus dem Fluss stiegen sieben Kühe herauf, und was weiter folgt\.“[^bible-c384a337-6fb2-4885-8f4e-7140d0109b17] Pharaos Träume handelten von Kühen und von Ähren\. Denn durch das, womit die Erde bebaut wird, und durch das, was sie hervorbringt, wurden dem König Vorzeichen für Überfluss und für Mangel gegeben\. Pharao erwachte und träumte ein zweites Mal: „Und siehe: Sieben Ähren wuchsen an einem einzigen Halm, ausgewählt und schön\.“[^bible-5a451aa5-fb1b-4eff-9e63-72376c3012ef] Josef aber sah nicht Ähren, sondern Garben; der Ägypter \(Pharao\) sah nicht Garben, sondern Ähren\. Und wiederum: Der Obermundschenk deutet die drei Halme als drei Tage; der König deutet die sieben Ähren an einem einzigen Halm als die sieben Jahre in einer zusammenhängenden Zeitspanne\. So ergibt sich bei ein und demselben Wort „Halm“ eine unterschiedliche Auslegung\. Wenn daher jemand die Schrift anders erzählt, soll man nicht meinen, er zwinge sie\. Außerdem ist zu beachten: In der Zeit des Überflusses steigen sieben Ähren auf einem einzigen Halm auf; in der Zeit der Hungersnot sind es zwar sieben Ähren, aber nicht mehr auf einem Halm\. Ein anderer sagt: an einem Rohr\. „Und es geschah am Morgen: Da war sein Geist aufgewühlt; und er sandte aus und rief alle Ausleger Ägyptens und all ihre Weisen\.“[^bible-a04d8fed-45c9-4a9e-8e4e-ccb79f4da8a6] Wie hat er die Ausleger und die Weisen ganz Ägyptens zusammengerufen? Das ist sowohl am Wortlaut zu prüfen als auch die Frage, ob Pharao für die anagogische Deutung ägyptischer Ausleger bedurfte, als ob sie die Weiseren wären\. „Ganz Ägyptens“ verstehen wir als nachgestellt zu: „alle Ausleger Ägyptens und all ihre Weisen“\.
+Der Pharao erzählte ihnen seinen Traum,
+doch keiner legte ihn dem Pharao aus\.
+Ich meine nicht,
+dass sie völlig schwiegen;
+eher sagten sie alles Mögliche,
+nur nicht die eigentliche Deutung der Träume\.
+Jemand wird einwenden:
+Wie wusste der Pharao,
+ob die ägyptischen Deuter und Weisen mit ihren Auslegungen der Träume trafen oder nicht?
+Der Hebräer erwidert,
+der Pharao habe,
+als er den Traum sah,
+auch dessen Deutung gesehen;
+sie war ihm nur aus dem Gedächtnis entfallen\.
+So erinnerte er sich bei jedem,
+der sprach,
+nicht an das,
+von dem er wusste,
+dass er es gesehen hatte\.
+Darum staunte er über Josef und erhob ihn sofort so weit,
+dass er ihm ganz Ägypten,
+sein Getreide und das Heil der Ägypter anvertraute\.
+Denn sobald Josef die Träume darlegte,
+wurde jener daran erinnert,
+dass es genau das war,
+was ihm zuvor gezeigt worden war\.
+Josef antwortete dem Pharao:
+„Ohne Gott gibt es keine Antwort zum Heil des Pharao\.“
+Josef ist darin zu loben,
+dass er mit Gott beginnt\.
+Beachte außerdem,
+dass er zur Frau sagte:
+„Sollte ich diese böse Tat tun und gegen Gott sündigen?“
+Und auch zu den Eunuchen im Gefängnis:
+„Sind nicht die Deutungen bei Gott?“
+Und der Pharao sagte zu all seinen Dienern:
+„Werden wir je einen Mann finden wie diesen,
+der den Geist Gottes in sich hat?“
+Weil der Pharao darin etwas Übermenschliches erkannte,
+dass Josef die Lösung seines Traumes,
+die ihm aus dem Gedächtnis gefallen war,
+klar gemacht hatte,
+erklärte er,
+in Josef sei der Geist Gottes\.
+Vom selben Gedanken her wurde der Pharao genötigt,
+von einem einzigen Gott zu sprechen\.
+Das passt zu dem,
+was zuvor über die Lösung des Traumes vorweg festgestellt worden war\.
+Vor ihm her rief ein Herold\.
+Im Hebräischen steht „Abrech“,
+was eigentlich „sanfter Vater“ bedeutet\.
+Zu Recht nannte er Josef einen sanften Vater;
+denn obwohl er jung an Jahren war,
+hat er den Ägyptern wie ein Vater eine rettende Führung gezeigt\.
+Das Wort besagt aber nichts anderes als „kniet nieder“\.
+Denn der Ruf des Herolds ist eindeutig\.
 
-Der Pharao erzählte ihnen seinen Traum, doch keiner legte ihn dem Pharao aus\. Ich meine nicht, dass sie völlig schwiegen; eher sagten sie alles Mögliche, nur nicht die eigentliche Deutung der Träume\. Jemand wird einwenden: Wie wusste der Pharao, ob die ägyptischen Deuter und Weisen mit ihren Auslegungen der Träume trafen oder nicht? Der Hebräer erwidert, der Pharao habe, als er den Traum sah, auch dessen Deutung gesehen; sie war ihm nur aus dem Gedächtnis entfallen\. So erinnerte er sich bei jedem, der sprach, nicht an das, von dem er wusste, dass er es gesehen hatte\. Darum staunte er über Josef und erhob ihn sofort so weit, dass er ihm ganz Ägypten, sein Getreide und das Heil der Ägypter anvertraute\. Denn sobald Josef die Träume darlegte, wurde jener daran erinnert, dass es genau das war, was ihm zuvor gezeigt worden war\. Josef antwortete dem Pharao: „Ohne Gott gibt es keine Antwort zum Heil des Pharao\.“ Josef ist darin zu loben, dass er mit Gott beginnt\. Beachte außerdem, dass er zur Frau sagte: „Sollte ich diese böse Tat tun und gegen Gott sündigen?“ Und auch zu den Eunuchen im Gefängnis: „Sind nicht die Deutungen bei Gott?“ Und der Pharao sagte zu all seinen Dienern: „Werden wir je einen Mann finden wie diesen, der den Geist Gottes in sich hat?“ Weil der Pharao darin etwas Übermenschliches erkannte, dass Josef die Lösung seines Traumes, die ihm aus dem Gedächtnis gefallen war, klar gemacht hatte, erklärte er, in Josef sei der Geist Gottes\. Vom selben Gedanken her wurde der Pharao genötigt, von einem einzigen Gott zu sprechen\. Das passt zu dem, was zuvor über die Lösung des Traumes vorweg festgestellt worden war\. Vor ihm her rief ein Herold\. Im Hebräischen steht „Abrech“, was eigentlich „sanfter Vater“ bedeutet\. Zu Recht nannte er Josef einen sanften Vater; denn obwohl er jung an Jahren war, hat er den Ägyptern wie ein Vater eine rettende Führung gezeigt\. Das Wort besagt aber nichts anderes als „kniet nieder“\. Denn der Ruf des Herolds ist eindeutig\.
+Und der Pharao gab Josef den Namen Psontomphanēch\.
+Psontomphanēch bedeutet:
+„dem die Zukunft offenbart wurde“\.
+Aquila sagt Safamphanē und Symmachus:
+Saphthphanē,
+„Er hat Verborgenes enthüllt“\.
+Er gab ihm Asenat,
+die Tochter des Potifera,
+Priesters von Heliopolis,
+zur Frau\.
+Das „Potifar“ steckt im Namen des Vaters der Frau,
+die Josef heiratete\.
+Man könnte meinen,
+er sei ein anderer als der,
+der Josef gekauft hatte\.
+Die Hebräer sehen das aber nicht so;
+nach einer apokryphen Überlieferung sei es derselbe Mann gewesen,
+der sowohl sein Herr als auch sein Schwiegervater wurde\.
+Sie erzählen außerdem,
+Asenat habe beim Vater die Mutter verleumdet,
+sie habe Josef nachgestellt,
+obwohl sie das nicht getan hatte\.
+Er gab sie Josef zur Frau,
+weil er den Ägyptern eilig zeigen wollte,
+dass gegen sein Haus nichts dergleichen verschuldet worden war\.
+Josef nannte den Erstgeborenen Manasse,
+denn:
+„Gott hat mich alles vergessen lassen – all meine Mühen und alles meines Vaters\.“
+Dass Gott ihn all seiner Mühen vergessen ließ,
+ist eindeutig gut\.
+Ob aber Josef auch alles seines Vaters Jakob vergaß – und ob Gott dies so an ihm tat –,
+ist zu prüfen\.
+Gott bewirkt ja nicht,
+dass Josef die Worte Jakobs und seiner Söhne vergisst;
+es sei denn,
+es geht um seine Leiden\.
+Dann ist „Mühen“ gemeinsam zu verstehen,
+nämlich so:
+alle meine Mühen und alle Mühen meines Vaters\.
+Den zweiten nannte er Ephraim,
+denn:
+„Gott hat mich wachsen lassen im Land meiner Erniedrigung\.“
+Geistlich verstanden ist Ägypten das Land der Erniedrigung für den Gerechten\.
+So sagt der Apostel:
+„Der Körper unserer Erniedrigung\.“
+Und in den Psalmen:
+„Unser Leben wurde in den Staub erniedrigt\.“
+Und wieder:
+„Du hast uns gebeugt an einem Ort der Drangsal\.“[^bible-7d1a19e5-1e25-4118-a04c-ac43173462db]
 
-Und der Pharao gab Josef den Namen Psontomphanēch\. Psontomphanēch bedeutet: „dem die Zukunft offenbart wurde“\. Aquila sagt Safamphanē und Symmachus: Saphthphanē, „Er hat Verborgenes enthüllt“\. Er gab ihm Asenat, die Tochter des Potifera, Priesters von Heliopolis, zur Frau\. Das „Potifar“ steckt im Namen des Vaters der Frau, die Josef heiratete\. Man könnte meinen, er sei ein anderer als der, der Josef gekauft hatte\. Die Hebräer sehen das aber nicht so; nach einer apokryphen Überlieferung sei es derselbe Mann gewesen, der sowohl sein Herr als auch sein Schwiegervater wurde\. Sie erzählen außerdem, Asenat habe beim Vater die Mutter verleumdet, sie habe Josef nachgestellt, obwohl sie das nicht getan hatte\. Er gab sie Josef zur Frau, weil er den Ägyptern eilig zeigen wollte, dass gegen sein Haus nichts dergleichen verschuldet worden war\. Josef nannte den Erstgeborenen Manasse, denn: „Gott hat mich alles vergessen lassen – all meine Mühen und alles meines Vaters\.“ Dass Gott ihn all seiner Mühen vergessen ließ, ist eindeutig gut\. Ob aber Josef auch alles seines Vaters Jakob vergaß – und ob Gott dies so an ihm tat –, ist zu prüfen\. Gott bewirkt ja nicht, dass Josef die Worte Jakobs und seiner Söhne vergisst; es sei denn, es geht um seine Leiden\. Dann ist „Mühen“ gemeinsam zu verstehen, nämlich so: alle meine Mühen und alle Mühen meines Vaters\. Den zweiten nannte er Ephraim, denn: „Gott hat mich wachsen lassen im Land meiner Erniedrigung\.“ Geistlich verstanden ist Ägypten das Land der Erniedrigung für den Gerechten\. So sagt der Apostel: „Der Körper unserer Erniedrigung\.“ Und in den Psalmen: „Unser Leben wurde in den Staub erniedrigt\.“ Und wieder: „Du hast uns gebeugt an einem Ort der Drangsal\.“[^bible-7d1a19e5-1e25-4118-a04c-ac43173462db]
+Josef aber war der Herrscher Ägyptens\.
+Er verkaufte allen Leuten des Landes\.
+Als die Brüder Josefs kamen,
+warfen sie sich vor ihm mit dem Gesicht zur Erde nieder\.
+Weil die Söhne Jakobs nicht zu den Völkern des Landes gehörten,
+verkaufte er ihnen nicht,
+sondern gab das Silber doppelt zurück\.
+Es war nämlich angemessen,
+dass die Söhne Israels das Getreide unentgeltlich empfangen\.
+Anmutig ist die Wortwahl über dieselben:
+wenn sie kaufen,
+heißt es „Söhne Israels“;
+wenn sie sich vor Josef verneigen,
+„die Brüder Josefs“\.
+Nur Benjamin verneigt sich weder vor Esau noch vor Josef\.
+Darum entsteht der Tempel in seinem Anteil\.
+„Ja,
+wir stehen wegen unseres Bruders in Sünde;
+denn wir übergingen die Not seiner Seele,
+als er flehte\.“
+Er flehte – das ist still vorausgesetzt;
+denn es ist nicht aufgezeichnet,
+wie er flehte\.
+Ruben antwortete ihnen:
+„Habe ich euch nicht gesagt:
+Tut dem Knaben kein Unrecht?
+Aber ihr habt nicht auf mich gehört\.
+Und siehe,
+sein Blut wird eingefordert\.“
+Oben ist gesagt worden,
+dass Josef,
+als Ruben nicht zugegen war,
+an die Ismaeliter verkauft wurde;
+und dass Ruben,
+nachdem er verkauft war,
+zur Zisterne zurückkehrte,
+Josef dort nicht fand,
+seine Kleider zerriss,
+zu seinen Brüdern zurückkam und sagte:
+„Der Knabe ist nicht da;
+und wohin soll ich noch gehen?“
+Es scheint nicht,
+als hätte er von den Brüdern erfahren,
+dass Josef verkauft worden war\.
+Vielleicht also meinte er,
+er sei getötet worden;
+darum sagt er jetzt:
+„Siehe,
+sein Blut wird eingefordert\.“
+Juda sprach zu Israel,
+seinem Vater:
+„Sende den Knaben mit mir,
+und wir wollen aufbrechen,
+damit wir leben\.“
+Vielleicht prophezeit er,
+dass Benjamin bei dem Stamm Juda sein sollte\.
+„Ich will für ihn einstehen;
+fordere ihn aus meiner Hand\.
+Wenn ich ihn nicht zu dir bringe\.\.\.“
+Juda bedenkt kein mögliches Menschenrisiko für Benjamin,
+sondern verspricht – so meine ich – dem Vater prophetisch\.
 
-Josef aber war der Herrscher Ägyptens\. Er verkaufte allen Leuten des Landes\. Als die Brüder Josefs kamen, warfen sie sich vor ihm mit dem Gesicht zur Erde nieder\. Weil die Söhne Jakobs nicht zu den Völkern des Landes gehörten, verkaufte er ihnen nicht, sondern gab das Silber doppelt zurück\. Es war nämlich angemessen, dass die Söhne Israels das Getreide unentgeltlich empfangen\. Anmutig ist die Wortwahl über dieselben: wenn sie kaufen, heißt es „Söhne Israels“; wenn sie sich vor Josef verneigen, „die Brüder Josefs“\. Nur Benjamin verneigt sich weder vor Esau noch vor Josef\. Darum entsteht der Tempel in seinem Anteil\. „Ja, wir stehen wegen unseres Bruders in Sünde; denn wir übergingen die Not seiner Seele, als er flehte\.“ Er flehte – das ist still vorausgesetzt; denn es ist nicht aufgezeichnet, wie er flehte\. Ruben antwortete ihnen: „Habe ich euch nicht gesagt: Tut dem Knaben kein Unrecht? Aber ihr habt nicht auf mich gehört\. Und siehe, sein Blut wird eingefordert\.“ Oben ist gesagt worden, dass Josef, als Ruben nicht zugegen war, an die Ismaeliter verkauft wurde; und dass Ruben, nachdem er verkauft war, zur Zisterne zurückkehrte, Josef dort nicht fand, seine Kleider zerriss, zu seinen Brüdern zurückkam und sagte: „Der Knabe ist nicht da; und wohin soll ich noch gehen?“ Es scheint nicht, als hätte er von den Brüdern erfahren, dass Josef verkauft worden war\. Vielleicht also meinte er, er sei getötet worden; darum sagt er jetzt: „Siehe, sein Blut wird eingefordert\.“ Juda sprach zu Israel, seinem Vater: „Sende den Knaben mit mir, und wir wollen aufbrechen, damit wir leben\.“ Vielleicht prophezeit er, dass Benjamin bei dem Stamm Juda sein sollte\. „Ich will für ihn einstehen; fordere ihn aus meiner Hand\. Wenn ich ihn nicht zu dir bringe\.\.\.“ Juda bedenkt kein mögliches Menschenrisiko für Benjamin, sondern verspricht – so meine ich – dem Vater prophetisch\.
+„Nehmt von den Früchten des Landes in eure Gefäße und bringt dem Mann Geschenke:
+Harz und Honig,
+Weihrauch und Stakte,
+dazu Terebinthe und Nüsse\.“[^bible-9507c92d-df16-433c-a997-6ea79d3956d6]
+Aus den Früchten des Landes bringt man Josef Gaben,
+die Ägypten nicht besitzt:
+Harz,
+Honig,
+Weihrauch,
+Stakte,
+Terebinthe und Nüsse\.
+Und weiter oben heißt es:
+Auch die Kamele waren voll von Weihrauch,
+Harz und Stakte – nicht aber von Honig,
+Terebinthe und Nüssen\.
+Drei Arten bringen die Midianiter zusammen mit Josef nach Ägypten;
+zu diesen fügen die Söhne Jakobs drei weitere hinzu und bringen sie Josef\.
+Nur der Same Abrahams bringt sowohl die ersten als auch die zweiten\.
+Es war nämlich passend,
+dass das Geringere von den unehelichen Kindern Abrahams getragen wurde,
+das Mehr aber von den echten – weil Ägypten gerade dieser Dinge bedurfte\.
+„Wegen des Silbers,
+das anfangs in unseren Säcken zurückgelegt wurde,
+werden wir hineingeführt – um uns zu verleumden und gegen uns vorzugehen,
+um uns zu Sklaven zu nehmen und unsere Esel\.“
+Unwahrscheinlich ist,
+dass sie,
+da sie sich in solcher Lage wähnen,
+sich um die Esel sorgen – es sei denn,
+es ist allegorisch zu verstehen\.
+„Gott sei euch gnädig;
+fürchtet euch nicht\.“
+So scheint der Verwalter im Haus Josefs gesprochen zu haben,
+der durch Josef zur Gottesfurcht gewonnen wurde\.
+Benjamins Anteil wurde größer als der Anteil aller anderen – fünfmal im Vergleich zu ihren Anteilen\.
+Er wurde vergrößert entweder um Jerusalems willen oder als Vorbild des Apostels Paulus\.
+Und auch Jesus aus dem Stamm Ephraim verteilte den anderen Stämmen das Land\.
+„Denn Gott hat mich vor euch her gesandt,
+um euch einen Rest zu bewahren\.“
+Weil Gott Josef um des Lebens der vielen willen vor seinen Brüdern nach Ägypten gesandt hat,
+hat Gott – indem er ihn nach Ägypten sandte – den Neid und den Entschluss seiner Brüder mitbenutzt für die Fügung um Josef,
+die auf das Leben vieler zielte\.
+Es gibt also Zeiten,
+in denen Gott sich der Sünden anderer bedient,
+um Eigenes zum Heil anderer zu beschließen\.
 
-„Nehmt von den Früchten des Landes in eure Gefäße und bringt dem Mann Geschenke: Harz und Honig, Weihrauch und Stakte, dazu Terebinthe und Nüsse\.“[^bible-9507c92d-df16-433c-a997-6ea79d3956d6] Aus den Früchten des Landes bringt man Josef Gaben, die Ägypten nicht besitzt: Harz, Honig, Weihrauch, Stakte, Terebinthe und Nüsse\. Und weiter oben heißt es: Auch die Kamele waren voll von Weihrauch, Harz und Stakte – nicht aber von Honig, Terebinthe und Nüssen\. Drei Arten bringen die Midianiter zusammen mit Josef nach Ägypten; zu diesen fügen die Söhne Jakobs drei weitere hinzu und bringen sie Josef\. Nur der Same Abrahams bringt sowohl die ersten als auch die zweiten\. Es war nämlich passend, dass das Geringere von den unehelichen Kindern Abrahams getragen wurde, das Mehr aber von den echten – weil Ägypten gerade dieser Dinge bedurfte\. „Wegen des Silbers, das anfangs in unseren Säcken zurückgelegt wurde, werden wir hineingeführt – um uns zu verleumden und gegen uns vorzugehen, um uns zu Sklaven zu nehmen und unsere Esel\.“ Unwahrscheinlich ist, dass sie, da sie sich in solcher Lage wähnen, sich um die Esel sorgen – es sei denn, es ist allegorisch zu verstehen\. „Gott sei euch gnädig; fürchtet euch nicht\.“ So scheint der Verwalter im Haus Josefs gesprochen zu haben, der durch Josef zur Gottesfurcht gewonnen wurde\. Benjamins Anteil wurde größer als der Anteil aller anderen – fünfmal im Vergleich zu ihren Anteilen\. Er wurde vergrößert entweder um Jerusalems willen oder als Vorbild des Apostels Paulus\. Und auch Jesus aus dem Stamm Ephraim verteilte den anderen Stämmen das Land\. „Denn Gott hat mich vor euch her gesandt, um euch einen Rest zu bewahren\.“ Weil Gott Josef um des Lebens der vielen willen vor seinen Brüdern nach Ägypten gesandt hat, hat Gott – indem er ihn nach Ägypten sandte – den Neid und den Entschluss seiner Brüder mitbenutzt für die Fügung um Josef, die auf das Leben vieler zielte\. Es gibt also Zeiten, in denen Gott sich der Sünden anderer bedient, um Eigenes zum Heil anderer zu beschließen\.
+„Jetzt also habt nicht ihr mich hierher gesandt,
+sondern Gott;
+er hat mich dem Pharao wie einen Vater gemacht,
+zum Herrn seines ganzen Hauses und zum Herrscher über das ganze Land Ägypten\.“[^bible-9bbded60-49f6-4727-9b79-f8175c5ecb55]
+Wer Herr ist über die körperlichen Dinge und ihnen in keiner Weise nachgibt,
+könnte dies sagen:
+„Gott hat mich zum Herrn über das ganze Land Ägypten gemacht\.“
+[^bible-859a371f-82a4-4380-b6a7-f1d601dc4357]„Und euer Auge soll euren Hausrat nicht schonen\.
+Denn alles Gute Ägyptens wird euch gehören\.“
+Alles,
+was in dem,
+bildlich gesprochen,
+„Ägypten“ genannt wird,
+vorhanden ist,
+gehört nicht den Ägyptern,
+sondern Israel\.
+Darum plündern die Hebräer beim Auszug die Ägypter aus und nehmen goldene und silberne Gefäße und alles Gute,
+was es in Ägypten gab\.
+„Und ich werde dich hinaufführen bis ans Ziel\.“
+Eine Gott angemessene Verheißung:
+nicht nur hinaufführen,
+sondern den Hinaufgeführten auch ans Ziel bringen\.
+Zu denen,
+die aus der Pentateuch die spätere,
+jenseitige Lebensweise erfragen,
+sagen wir:
+Weil der,
+der sprach „Ich werde dich hinaufführen“,
+wahrhaftig ist,
+hat er ihn später in diesem Leben hinaufgeführt;
+und nach dem Hingang hat er ihn hinaufgeführt,
+als danach Josef seine Hände auf die Augen des Körpers Jakobs legte\.
+Gott hat hinaufgeführt,
+indem er Israel nach dem Ende dieses Lebens zu dem Ziel bei sich selbst emporführte\.
+Jakob stand auf vom Brunnen des Eides,
+und die Söhne Israels nahmen ihren Vater Jakob auf\.
+Der,
+der zum Brunnen des Eides kommt,
+ist Israel,
+der – so meine ich – Jakob mit allem,
+was ihm gehört,
+herbeiführt;
+derjeniger aber,
+der vom Brunnen des Eides aufsteht,
+ist Jakob\.
+Denn der Auferstehung bedurfte nicht Israel,
+sondern Jakob\.
+Danach nun haben den Vater,
+der der Aufnahme bedurfte,
+nicht „Jakobs Söhne“,
+sondern „Israels Söhne“ aufgenommen\.
+Der Pharao sandte Wagen,
+um nicht Israel,
+sondern Jakob zu tragen\.
+Er ging nach Ägypten hinein;
+Jakob stieg nicht hinab\.
+Denn zu Israel ist gesprochen:
+„Fürchte dich nicht,
+nach Ägypten hinabzusteigen\.“[^bible-5ab18b37-6f71-4f8c-853e-f1a812709f86]
 
-„Jetzt also habt nicht ihr mich hierher gesandt, sondern Gott; er hat mich dem Pharao wie einen Vater gemacht, zum Herrn seines ganzen Hauses und zum Herrscher über das ganze Land Ägypten\.“[^bible-9bbded60-49f6-4727-9b79-f8175c5ecb55] Wer Herr ist über die körperlichen Dinge und ihnen in keiner Weise nachgibt, könnte dies sagen: „Gott hat mich zum Herrn über das ganze Land Ägypten gemacht\.“ [^bible-859a371f-82a4-4380-b6a7-f1d601dc4357]„Und euer Auge soll euren Hausrat nicht schonen\. Denn alles Gute Ägyptens wird euch gehören\.“ Alles, was in dem, bildlich gesprochen, „Ägypten“ genannt wird, vorhanden ist, gehört nicht den Ägyptern, sondern Israel\. Darum plündern die Hebräer beim Auszug die Ägypter aus und nehmen goldene und silberne Gefäße und alles Gute, was es in Ägypten gab\. „Und ich werde dich hinaufführen bis ans Ziel\.“ Eine Gott angemessene Verheißung: nicht nur hinaufführen, sondern den Hinaufgeführten auch ans Ziel bringen\. Zu denen, die aus der Pentateuch die spätere, jenseitige Lebensweise erfragen, sagen wir: Weil der, der sprach „Ich werde dich hinaufführen“, wahrhaftig ist, hat er ihn später in diesem Leben hinaufgeführt; und nach dem Hingang hat er ihn hinaufgeführt, als danach Josef seine Hände auf die Augen des Körpers Jakobs legte\. Gott hat hinaufgeführt, indem er Israel nach dem Ende dieses Lebens zu dem Ziel bei sich selbst emporführte\. Jakob stand auf vom Brunnen des Eides, und die Söhne Israels nahmen ihren Vater Jakob auf\. Der, der zum Brunnen des Eides kommt, ist Israel, der – so meine ich – Jakob mit allem, was ihm gehört, herbeiführt; derjeniger aber, der vom Brunnen des Eides aufsteht, ist Jakob\. Denn der Auferstehung bedurfte nicht Israel, sondern Jakob\. Danach nun haben den Vater, der der Aufnahme bedurfte, nicht „Jakobs Söhne“, sondern „Israels Söhne“ aufgenommen\. Der Pharao sandte Wagen, um nicht Israel, sondern Jakob zu tragen\. Er ging nach Ägypten hinein; Jakob stieg nicht hinab\. Denn zu Israel ist gesprochen: „Fürchte dich nicht, nach Ägypten hinabzusteigen\.“[^bible-5ab18b37-6f71-4f8c-853e-f1a812709f86]
+„Jakob zog nach Ägypten hin ein,
+und all seine Nachkommen mit ihm\.“
+[^bible-abed740f-4d27-49ea-b97f-c44de37633bf]Jetzt ist von Jakobs „Nachkommenschaft“ die Rede;
+weiter oben hieß es „Söhne Israels“\.
+Wenn aber Jakob und all seine Nachkommen nach Ägypten hineingingen,
+Er und Onan jedoch nicht hineingingen,
+dann waren sie nicht Jakobs Nachkommen\.
+„Seine Töchter und die Töchter seiner Töchter\.“
+Offenkundig nahm er,
+da er seine Töchter bei sich hatte,
+auch die Schwiegersöhne mit\.
+Denn er konnte es nicht ertragen,
+die Töchter außerhalb seines Hauses fortzuschicken,
+damit sie nicht zur Götzenverehrung abglitten\.
+Wenn Jakob keine Töchter hat,
+wie steigen dann seine Töchter nach Ägypten hinab?
+Ist das nicht allegorisch zu verstehen?
+Im Anschluss sagt er,
+sie seien „von Lea“;
+und er nennt „dreiunddreißig Töchter“,
+wobei Dinah namentlich genannt wird\.
+„Dies sind die Namen der Söhne Israels,
+die nach Ägypten hineingegangen sind\.“
+„Söhne“ nicht „Jakobs“,
+und „hineingegangen“,
+nicht „hinabgestiegen“ nach Ägypten – das sind die Namen\.
+„Erstgeborener Jakobs:
+Ruben“ und so weiter\.
+Oben sagte er,
+es seien die Namen der Söhne Israels;
+jetzt nennt er Ruben den Erstgeborenen Jakobs\.
+Man beachte,
+dass er zusammen mit den in Kanaan geborenen Söhnen Jakobs auch die in Ägypten befindlichen Söhne Josefs mitzählt\.
+Das dient dem Wort,
+das später über die Erbteile gesagt wird:
+„Ephraim und Manasse gehören mir wie Ruben und Simeon\.“
+Und Israel sagte zu Josef:
+„Nun kann ich sterben,
+denn ich habe dein Gesicht gesehen;
+ja,
+du lebst noch\.“[^bible-d1fdf36f-9603-4102-a959-15e691cced35]
+Staunenswert ist,
+dass einer,
+der in Ägypten lebte,
+von den Ägyptern keinen Schaden genommen hat und im Leben nach Gott geblieben ist\.
+Darum sagte Jakob zu Josef:
+„Ja,
+du lebst noch\.“
+„Deine Knechte sind Schäfer von Jugend an bis jetzt\.\.\.“
+Und sie sagten zum Pharao:
+„Wir sind gekommen,
+um im Land als Fremdlinge zu wohnen\.“
+Sie sprechen freimütig vor dem Pharao,
+dass sie Schäfer sind\.
+Dann aber,
+damit der Pharao nicht beunruhigt werde,
+sagen sie:
+„Wir sind gekommen,
+um im Land als Fremdlinge zu wohnen\.“[^bible-e443012e-f4e6-4abc-98a2-483cf4177b9a]
 
-„Jakob zog nach Ägypten hin ein, und all seine Nachkommen mit ihm\.“ [^bible-abed740f-4d27-49ea-b97f-c44de37633bf]Jetzt ist von Jakobs „Nachkommenschaft“ die Rede; weiter oben hieß es „Söhne Israels“\. Wenn aber Jakob und all seine Nachkommen nach Ägypten hineingingen, Er und Onan jedoch nicht hineingingen, dann waren sie nicht Jakobs Nachkommen\. „Seine Töchter und die Töchter seiner Töchter\.“ Offenkundig nahm er, da er seine Töchter bei sich hatte, auch die Schwiegersöhne mit\. Denn er konnte es nicht ertragen, die Töchter außerhalb seines Hauses fortzuschicken, damit sie nicht zur Götzenverehrung abglitten\. Wenn Jakob keine Töchter hat, wie steigen dann seine Töchter nach Ägypten hinab? Ist das nicht allegorisch zu verstehen? Im Anschluss sagt er, sie seien „von Lea“; und er nennt „dreiunddreißig Töchter“, wobei Dinah namentlich genannt wird\. „Dies sind die Namen der Söhne Israels, die nach Ägypten hineingegangen sind\.“ „Söhne“ nicht „Jakobs“, und „hineingegangen“, nicht „hinabgestiegen“ nach Ägypten – das sind die Namen\. „Erstgeborener Jakobs: Ruben“ und so weiter\. Oben sagte er, es seien die Namen der Söhne Israels; jetzt nennt er Ruben den Erstgeborenen Jakobs\. Man beachte, dass er zusammen mit den in Kanaan geborenen Söhnen Jakobs auch die in Ägypten befindlichen Söhne Josefs mitzählt\. Das dient dem Wort, das später über die Erbteile gesagt wird: „Ephraim und Manasse gehören mir wie Ruben und Simeon\.“ Und Israel sagte zu Josef: „Nun kann ich sterben, denn ich habe dein Gesicht gesehen; ja, du lebst noch\.“[^bible-d1fdf36f-9603-4102-a959-15e691cced35] Staunenswert ist, dass einer, der in Ägypten lebte, von den Ägyptern keinen Schaden genommen hat und im Leben nach Gott geblieben ist\. Darum sagte Jakob zu Josef: „Ja, du lebst noch\.“ „Deine Knechte sind Schäfer von Jugend an bis jetzt\.\.\.“ Und sie sagten zum Pharao: „Wir sind gekommen, um im Land als Fremdlinge zu wohnen\.“ Sie sprechen freimütig vor dem Pharao, dass sie Schäfer sind\. Dann aber, damit der Pharao nicht beunruhigt werde, sagen sie: „Wir sind gekommen, um im Land als Fremdlinge zu wohnen\.“[^bible-e443012e-f4e6-4abc-98a2-483cf4177b9a]
+Und der Pharao sagte zu Josef:
+„Sie sollen im Land Gosen wohnen\.“[^bible-33893c37-7fbe-406b-8b08-f72063b51d99]
+Da in den Tetrapla – aus denen auch die Abschrift nach der Abfolge des Hebräischen und der anderen Ausgaben hergestellt wurde – sichtbar wird,
+dass bei den Siebzig an manchen Stellen die Reihenfolge vertauscht ist,
+sodass das Erste zuletzt und das Letzte zuerst steht,
+und da genau dies auch hier zu finden ist,
+haben wir der Ordnung halber die Folge angegeben\.
+Sie lautet so:
+Auf „Deine Knechte wollen im Land Gosen wohnen“[^bible-4d1a6d72-cd0e-4284-99a4-043455136975] folgt „Und der Pharao sagte zu Josef:
+Sie sollen im Land Gosen wohnen\.“[^bible-c01cd2d1-9917-476e-9287-8b5bf97e95a3]
+„Wenn du weißt,
+dass unter ihnen\.\.\.“
+– und was weiter folgt –,
+das heißt:
+„Wenn du weißt,
+dass unter ihnen Tüchtige sind,
+setze sie als Aufseher über mein Vieh\.“
+Die Tüchtigen Israels will der Pharao als Aufseher über das Vieh der Ägypter einsetzen\.
+Ist aber einer aus Israel tüchtig,
+dann fliehe er diesen Auftrag\.
+„Und Jakob segnete den Pharao und ging von ihm hinaus\.“[^bible-127aeba6-c402-4016-9f80-527b24d8e9fb]
+Hätte er einen Gerechten gesegnet,
+wäre er nicht von ihm weggegangen\.
+Man muss fragen,
+ob je einer,
+nachdem er einen Heiligen gesegnet hat,
+von ihm weggegangen ist\.
+Hier geht der Segnende hinaus;
+weiter oben aber geht Jakob,
+der eine Segnung empfangen hat,
+hinein\.
+„Und Josef brachte all das Silber in das Haus des Pharao\.“[^bible-cc60e809-eba8-4100-9262-7c852ca01102]
+Wo sonst hätte all das Silber Ägyptens und Kanaans hingehören,
+wenn nicht in das Haus des Pharao?
+„Da brachten sie ihr Vieh zu Josef;
+und Josef gab ihnen Brot im Tausch gegen die Pferde,
+und gegen die Schafe,
+und gegen die Rinder,
+und gegen die Esel\.“[^bible-d5067026-282e-4cdb-bc6f-70779d4148e7]
+Josef handelt hierin nicht hart,
+sondern damit sie sich nicht mühen,
+das Vieh zu füttern,
+und damit sie es später als Gunst vom Pharao zurückerhalten\.
+„Und es bleibt uns vor unserem Herrn nichts übrig als unser eigener Körper und unser Land\.“
+Denn von den Sündern heißt es:
+„Weil sie Fleisch sind\.“
+Darum sagen jetzt auch die Ägypter – als Fleisch – nicht,
+dass ihnen eine Seele geblieben sei,
+sondern nur ihr eigener Körper und ihr Land\.
+Das ist als die Rede all derer zu verstehen,
+die Gott fremd sind\.
 
-Und der Pharao sagte zu Josef: „Sie sollen im Land Gosen wohnen\.“[^bible-33893c37-7fbe-406b-8b08-f72063b51d99] Da in den Tetrapla – aus denen auch die Abschrift nach der Abfolge des Hebräischen und der anderen Ausgaben hergestellt wurde – sichtbar wird, dass bei den Siebzig an manchen Stellen die Reihenfolge vertauscht ist, sodass das Erste zuletzt und das Letzte zuerst steht, und da genau dies auch hier zu finden ist, haben wir der Ordnung halber die Folge angegeben\. Sie lautet so: Auf „Deine Knechte wollen im Land Gosen wohnen“[^bible-4d1a6d72-cd0e-4284-99a4-043455136975] folgt „Und der Pharao sagte zu Josef: Sie sollen im Land Gosen wohnen\.“[^bible-c01cd2d1-9917-476e-9287-8b5bf97e95a3] „Wenn du weißt, dass unter ihnen\.\.\.“ – und was weiter folgt –, das heißt: „Wenn du weißt, dass unter ihnen Tüchtige sind, setze sie als Aufseher über mein Vieh\.“ Die Tüchtigen Israels will der Pharao als Aufseher über das Vieh der Ägypter einsetzen\. Ist aber einer aus Israel tüchtig, dann fliehe er diesen Auftrag\. „Und Jakob segnete den Pharao und ging von ihm hinaus\.“[^bible-127aeba6-c402-4016-9f80-527b24d8e9fb] Hätte er einen Gerechten gesegnet, wäre er nicht von ihm weggegangen\. Man muss fragen, ob je einer, nachdem er einen Heiligen gesegnet hat, von ihm weggegangen ist\. Hier geht der Segnende hinaus; weiter oben aber geht Jakob, der eine Segnung empfangen hat, hinein\. „Und Josef brachte all das Silber in das Haus des Pharao\.“[^bible-cc60e809-eba8-4100-9262-7c852ca01102] Wo sonst hätte all das Silber Ägyptens und Kanaans hingehören, wenn nicht in das Haus des Pharao? „Da brachten sie ihr Vieh zu Josef; und Josef gab ihnen Brot im Tausch gegen die Pferde, und gegen die Schafe, und gegen die Rinder, und gegen die Esel\.“[^bible-d5067026-282e-4cdb-bc6f-70779d4148e7] Josef handelt hierin nicht hart, sondern damit sie sich nicht mühen, das Vieh zu füttern, und damit sie es später als Gunst vom Pharao zurückerhalten\. „Und es bleibt uns vor unserem Herrn nichts übrig als unser eigener Körper und unser Land\.“ Denn von den Sündern heißt es: „Weil sie Fleisch sind\.“ Darum sagen jetzt auch die Ägypter – als Fleisch – nicht, dass ihnen eine Seele geblieben sei, sondern nur ihr eigener Körper und ihr Land\. Das ist als die Rede all derer zu verstehen, die Gott fremd sind\.
-
-„Damit wir also nicht vor dir sterben und das Land verödet, kauf uns und unser Land\.“ Die Ägypter wollen vor dem Pharao leben, nicht vor Gott\. Die Ägypter wollen Eigentum des Pharao werden – so wie die Heiligen Eigentum Gottes sind\. Denn der Hunger hat über sie die Oberhand gewonnen, ausdrücklich über die Ägypter\. Von Israel würde nämlich nicht gesagt werden, der Hunger habe über sie gesiegt\. „Und Jakob fasste Mut und setzte sich auf das Lager\.“ Er stärkte und setzte sich, um gottbewegt zu sprechen\. Ich meine: Jakob war angefochten, Israel aber war gestärkt\. Er ist es, der die Söhne Josefs segnete und was weiter folgt; dabei wird über den Knaben nicht „Jakob“ gesagt\. „Und er sprach zu mir: Siehe, ich lasse dich wachsen und vermehre dich\.“ Entweder wächst der Gottlose nicht, oder er wächst nicht durch Gott\. Entsprechendes gilt für „ich vermehre dich“, denn Gott sagt dies als Segen\. „Ephraim und Manasse sollen mir gehören wie Ruben und Simeon\.“[^bible-bf38ecfd-8070-49f8-9e25-a74551698031] Wie Ruben und Ephraim, denn beide sind Erstgeborene; wie Manasse und Simeon, denn jeder ist bei seiner Mutter der Zweite\. „Die Nachkommen aber, die du nachher zeugst, sollen dem Namen ihrer Brüder zugerechnet werden; sie werden in deren Erbteilen genannt werden\.“ Die künftig weiteren Söhne, so sagt er, werden den namensgebenden Stämmen ihrer Brüder in der Erbverteilung zugeordnet\.
+„Damit wir also nicht vor dir sterben und das Land verödet,
+kauf uns und unser Land\.“
+Die Ägypter wollen vor dem Pharao leben,
+nicht vor Gott\.
+Die Ägypter wollen Eigentum des Pharao werden – so wie die Heiligen Eigentum Gottes sind\.
+Denn der Hunger hat über sie die Oberhand gewonnen,
+ausdrücklich über die Ägypter\.
+Von Israel würde nämlich nicht gesagt werden,
+der Hunger habe über sie gesiegt\.
+„Und Jakob fasste Mut und setzte sich auf das Lager\.“
+Er stärkte und setzte sich,
+um gottbewegt zu sprechen\.
+Ich meine:
+Jakob war angefochten,
+Israel aber war gestärkt\.
+Er ist es,
+der die Söhne Josefs segnete und was weiter folgt;
+dabei wird über den Knaben nicht „Jakob“ gesagt\.
+„Und er sprach zu mir:
+Siehe,
+ich lasse dich wachsen und vermehre dich\.“
+Entweder wächst der Gottlose nicht,
+oder er wächst nicht durch Gott\.
+Entsprechendes gilt für „ich vermehre dich“,
+denn Gott sagt dies als Segen\.
+„Ephraim und Manasse sollen mir gehören wie Ruben und Simeon\.“[^bible-bf38ecfd-8070-49f8-9e25-a74551698031]
+Wie Ruben und Ephraim,
+denn beide sind Erstgeborene;
+wie Manasse und Simeon,
+denn jeder ist bei seiner Mutter der Zweite\.
+„Die Nachkommen aber,
+die du nachher zeugst,
+sollen dem Namen ihrer Brüder zugerechnet werden;
+sie werden in deren Erbteilen genannt werden\.“
+Die künftig weiteren Söhne,
+so sagt er,
+werden den namensgebenden Stämmen ihrer Brüder in der Erbverteilung zugeordnet\.
 
 ## Bibelverweise
 

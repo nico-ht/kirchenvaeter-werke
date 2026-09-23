@@ -7,6 +7,51 @@ Autor: Tatian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tatian/ansprache-an-die-griechen#kapitel-a6356902-32aa-420a-3d88-08ded167f699).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3d655b4dc15ea173e36c6fd8704750de59182920609d52a512a4b7ff31623586`
-
-Selbst wenn ihr durch Arzneien geheilt werdet, diesen Punkt räume ich euch aus Nachsicht ein, müsst ihr doch vor Gott Zeugnis von der Heilung ablegen\. Denn noch immer zieht uns die Welt hinab, und aus Schwäche neige ich zur Materie\. Die Flügel der Seele waren nämlich der vollkommene Geist; doch nachdem sie ihn durch die Sünde abgestreift hat, flattert sie wie ein Jungvogel und sinkt zu Boden\. Seit sie die himmlische Gemeinschaft verlassen hat, verlangt sie gierig nach Gemeinschaft mit niedrigeren Dingen\. Die Dämonen wurden an einen anderen Ort vertrieben, die zuerst geschaffenen Menschen aus ihrer Stätte verstoßen: Jene wurden vom Himmel herabgestürzt, diese von der Erde vertrieben, jedoch nicht von dieser Erde hier, sondern aus einer Ordnung, die vorzüglicher war als die, die heute hier besteht\. Nun müssen wir, von Sehnsucht nach jenem ursprünglichen Zustand erfüllt, alles ablegen, was uns daran hindert\. Denn der Himmel ist nicht unendlich, o Mensch, sondern begrenzt und hat ein Ende; jenseits von ihm aber liegen die höheren Welten\. Dort gibt es keinen Wechsel der Jahreszeiten, wie er verschiedene Krankheiten hervorbringt; vielmehr erfreuen sie sich eines in jeder Hinsicht wohltemperierten Klimas, eines immerwährenden Tages und eines Lichtes, das für die Menschen hier unten unzugänglich ist\. Diejenigen, die ausführliche Beschreibungen der Erde verfasst haben, stellten ihre verschiedenen Gebiete dar, soweit dies einem Menschen möglich war\. Doch weil eigene Anschauung unmöglich war, konnten sie nichts über das Jenseitige sagen und setzten stattdessen die Gezeiten als Ursache an sowie den Umstand, dass das eine Meer voller Tang und das andere voller Schlamm sei und dass manche Gegenden von Hitze versengt, andere aber kalt und gefroren seien\. Was uns unbekannt war, haben wir hingegen durch die Lehre der Propheten erfahren\. Diese waren fest davon überzeugt, dass der himmlische Geist zusammen mit der Seele ein Gewand der Sterblichkeit annehmen werde, und sagten Dinge voraus, die anderen Seelen unbekannt waren\. Doch jeder, der nackt ist, kann dieses Gewand erlangen und zu dessen ursprünglicher Verwandtschaft zurückkehren\.
+Selbst wenn ihr durch Arzneien geheilt werdet,
+diesen Punkt räume ich euch aus Nachsicht ein,
+müsst ihr doch vor Gott Zeugnis von der Heilung ablegen\.
+Denn noch immer zieht uns die Welt hinab,
+und aus Schwäche neige ich zur Materie\.
+Die Flügel der Seele waren nämlich der vollkommene Geist;
+doch nachdem sie ihn durch die Sünde abgestreift hat,
+flattert sie wie ein Jungvogel und sinkt zu Boden\.
+Seit sie die himmlische Gemeinschaft verlassen hat,
+verlangt sie gierig nach Gemeinschaft mit niedrigeren Dingen\.
+Die Dämonen wurden an einen anderen Ort vertrieben,
+die zuerst geschaffenen Menschen aus ihrer Stätte verstoßen:
+Jene wurden vom Himmel herabgestürzt,
+diese von der Erde vertrieben,
+jedoch nicht von dieser Erde hier,
+sondern aus einer Ordnung,
+die vorzüglicher war als die,
+die heute hier besteht\.
+Nun müssen wir,
+von Sehnsucht nach jenem ursprünglichen Zustand erfüllt,
+alles ablegen,
+was uns daran hindert\.
+Denn der Himmel ist nicht unendlich,
+o Mensch,
+sondern begrenzt und hat ein Ende;
+jenseits von ihm aber liegen die höheren Welten\.
+Dort gibt es keinen Wechsel der Jahreszeiten,
+wie er verschiedene Krankheiten hervorbringt;
+vielmehr erfreuen sie sich eines in jeder Hinsicht wohltemperierten Klimas,
+eines immerwährenden Tages und eines Lichtes,
+das für die Menschen hier unten unzugänglich ist\.
+Diejenigen,
+die ausführliche Beschreibungen der Erde verfasst haben,
+stellten ihre verschiedenen Gebiete dar,
+soweit dies einem Menschen möglich war\.
+Doch weil eigene Anschauung unmöglich war,
+konnten sie nichts über das Jenseitige sagen und setzten stattdessen die Gezeiten als Ursache an sowie den Umstand,
+dass das eine Meer voller Tang und das andere voller Schlamm sei und dass manche Gegenden von Hitze versengt,
+andere aber kalt und gefroren seien\.
+Was uns unbekannt war,
+haben wir hingegen durch die Lehre der Propheten erfahren\.
+Diese waren fest davon überzeugt,
+dass der himmlische Geist zusammen mit der Seele ein Gewand der Sterblichkeit annehmen werde,
+und sagten Dinge voraus,
+die anderen Seelen unbekannt waren\.
+Doch jeder,
+der nackt ist,
+kann dieses Gewand erlangen und zu dessen ursprünglicher Verwandtschaft zurückkehren\.

@@ -7,6 +7,73 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-5#kapitel-82401dd5-0d62-4ae9-27a5-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:72b482e9a5e29a8c608ec71160d7f4c776547264892ddb80e8297ffcd007c4b4`
-
-Als man aber in der Stadt sah, dass der Feind innerhalb der Mauern stand, über die höchsten Bauwerke hinausragte und über alle Mauern hinüberragte, fürchtete man, die Gefahr werde wie eine Wunde im Körper nach innen weiterfressen\. Deshalb rissen sie den nördlichen Säulengang an der Stelle nieder, die an Antonia grenzte, damit der Feind nicht durch ihn zu den höheren Bereichen des Tempels hinaufsteigen oder von oben die tiefer Stehenden bedrängen konnte\. Jeder kappte die nächstgelegenen Teile, damit das Feuer, dem Tempel benachbart und in wütenden Bränden, nicht sogar den Tempel selbst vernichtete, sondern, von den Bränden abgeschnitten, ausbrannte\. Was sie vom Feind befürchteten, begannen sie zuerst selbst\. Auch den Säulengang Salomos richteten sie zur List her: Die Innenräume der Dächer füllten sie mit Teer und Pech, verborgen im Inneren des Gewölbes des höchsten Daches\. Dann gaben sie vor, ihn verteidigen zu wollen, reizten den Feind zum Angriff und brachten so die Römer gegen sich auf\. Diese legten Leitern an und suchten die Höhen des Säulengangs zu gewinnen; die Juden zogen sich allmählich von der Stelle zurück, zu der viele Römer hinaufstiegen\. Jene drangen begierig ein, während die Besonneneren, die eine List vermuteten, Vorsicht walten ließen; die Menge aber, ganz auf den Sieg aus, stürmte voran\. Als man sah, dass die List aufflammte, saßen viele wie in einem Netz gefangen\. Das Feuer drang in das Innere des Gewölbes hinauf und breitete sich, von Teer und Pech und den übrigen Nährstoffen der Flamme zur vollen Stärke gebracht, über den ganzen Säulengang aus\. Die Flammen umschlossen die siegreichen Römer, sodass keine Möglichkeit zum Widerstand blieb und auch keine Flucht mehr möglich war\. Sie fanden nicht, was sie tun sollten\. Titus sah mit Zorn auf seine Männer in Gefahr, weil sie ohne Befehl hinaufgestiegen waren, zugleich aber mit Mitleid, weil sie als Sieger zugrunde gingen\. Viele stürzten sich hinab; doch wenn sie dem Feuer entkommen waren, starben sie mit zerschmettertem Körper und gebrochenen Gliedern\. Noch unglücklicher war es, wenn sie verstümmelt überlebten\. Caesar wollte ihnen zu Hilfe kommen, konnte es aber nicht\. Die Nächststehenden ermutigte er dennoch und rief, es werde Hilfe für seine Männer geben\. Diese Worte, diesen Schmerz Caesars nahmen sie als letzten Trost\. Das war die Wegzehrung des Abschieds für die, die sterben sollten: Als wären sie durch dieses Grab erhoben und getröstet, eilten sie dem Tod entgegen, weil sie im innersten Herzen Caesars eingeschlossen waren und ihr Leben nicht untergehen würde; ihr Ruhm lebte fort, sie starben für Caesar und hinterließen ihr Siegeserbe\. So wurden die einen von den Flammen umschlossen, andere wichen ihnen aus; und nicht weit entfernt standen die Feinde, die jene schlugen, die vor den Flammen flohen\.
+Als man aber in der Stadt sah,
+dass der Feind innerhalb der Mauern stand,
+über die höchsten Bauwerke hinausragte und über alle Mauern hinüberragte,
+fürchtete man,
+die Gefahr werde wie eine Wunde im Körper nach innen weiterfressen\.
+Deshalb rissen sie den nördlichen Säulengang an der Stelle nieder,
+die an Antonia grenzte,
+damit der Feind nicht durch ihn zu den höheren Bereichen des Tempels hinaufsteigen oder von oben die tiefer Stehenden bedrängen konnte\.
+Jeder kappte die nächstgelegenen Teile,
+damit das Feuer,
+dem Tempel benachbart und in wütenden Bränden,
+nicht sogar den Tempel selbst vernichtete,
+sondern,
+von den Bränden abgeschnitten,
+ausbrannte\.
+Was sie vom Feind befürchteten,
+begannen sie zuerst selbst\.
+Auch den Säulengang Salomos richteten sie zur List her:
+Die Innenräume der Dächer füllten sie mit Teer und Pech,
+verborgen im Inneren des Gewölbes des höchsten Daches\.
+Dann gaben sie vor,
+ihn verteidigen zu wollen,
+reizten den Feind zum Angriff und brachten so die Römer gegen sich auf\.
+Diese legten Leitern an und suchten die Höhen des Säulengangs zu gewinnen;
+die Juden zogen sich allmählich von der Stelle zurück,
+zu der viele Römer hinaufstiegen\.
+Jene drangen begierig ein,
+während die Besonneneren,
+die eine List vermuteten,
+Vorsicht walten ließen;
+die Menge aber,
+ganz auf den Sieg aus,
+stürmte voran\.
+Als man sah,
+dass die List aufflammte,
+saßen viele wie in einem Netz gefangen\.
+Das Feuer drang in das Innere des Gewölbes hinauf und breitete sich,
+von Teer und Pech und den übrigen Nährstoffen der Flamme zur vollen Stärke gebracht,
+über den ganzen Säulengang aus\.
+Die Flammen umschlossen die siegreichen Römer,
+sodass keine Möglichkeit zum Widerstand blieb und auch keine Flucht mehr möglich war\.
+Sie fanden nicht,
+was sie tun sollten\.
+Titus sah mit Zorn auf seine Männer in Gefahr,
+weil sie ohne Befehl hinaufgestiegen waren,
+zugleich aber mit Mitleid,
+weil sie als Sieger zugrunde gingen\.
+Viele stürzten sich hinab;
+doch wenn sie dem Feuer entkommen waren,
+starben sie mit zerschmettertem Körper und gebrochenen Gliedern\.
+Noch unglücklicher war es,
+wenn sie verstümmelt überlebten\.
+Caesar wollte ihnen zu Hilfe kommen,
+konnte es aber nicht\.
+Die Nächststehenden ermutigte er dennoch und rief,
+es werde Hilfe für seine Männer geben\.
+Diese Worte,
+diesen Schmerz Caesars nahmen sie als letzten Trost\.
+Das war die Wegzehrung des Abschieds für die,
+die sterben sollten:
+Als wären sie durch dieses Grab erhoben und getröstet,
+eilten sie dem Tod entgegen,
+weil sie im innersten Herzen Caesars eingeschlossen waren und ihr Leben nicht untergehen würde;
+ihr Ruhm lebte fort,
+sie starben für Caesar und hinterließen ihr Siegeserbe\.
+So wurden die einen von den Flammen umschlossen,
+andere wichen ihnen aus;
+und nicht weit entfernt standen die Feinde,
+die jene schlugen,
+die vor den Flammen flohen\.

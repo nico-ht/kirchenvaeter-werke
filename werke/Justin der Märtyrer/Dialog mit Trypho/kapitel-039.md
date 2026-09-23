@@ -7,13 +7,112 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-1b770ef7-55af-4529-f4dd-08de17fbcf6c).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:4498f2843b2b0a6d75b8e0d78c3141b4ef225317f2480613018675076c288998`
+„Es ist wirklich kein Wunder“,
+fuhr ich fort,
+„dass ihr Juden uns Christen hasst,
+die den Sinn dieser Wahrheiten erfasst haben,
+und dass ihr uns wegen eurer starren Voreingenommenheit zur Rede stellt\.
+Elija hat ja,
+als er vor Gott für euch eintrat,
+so gesprochen:
+„Herr,
+sie haben deine Propheten getötet und deine Altäre niedergerissen;
+ich allein bin übrig geblieben,
+und sie trachten mir nach dem Leben\.“[^bible-60b8d3b6-384f-4c5c-91de-34ab32e69721]
+Und Gott antwortete:
+„Ich habe noch siebentausend Männer,
+deren Knie sich nicht vor Baal gebeugt haben\.“[^bible-c1c9a8d6-8e38-4943-9fc1-9f9872ded5ca]
+Darum hat Gott,
+so wie er um jener Siebentausend willen seinen Zorn nicht offenbarte,
+auch jetzt noch kein Gericht über euch vollzogen;
+denn er weiß,
+dass jeden Tag einige von euch eure Irrwege verlassen und im Namen Christi Jünger werden,
+und dass eben dieser Name Christi euch erleuchtet,
+alle Gnaden und Gaben entsprechend euren Verdiensten zu empfangen\.
+Der eine empfängt den Geist der Weisheit,
+ein anderer den des Rates,
+ein anderer den der Stärke,
+ein anderer den der Heilung,
+ein anderer Erkenntnis der Zukunft,
+ein anderer den der Lehre,
+ein anderer den der Furcht Gottes\.“
+Trypho warf ein:
+„Merkst du nicht,
+dass du von Sinnen bist,
+so etwas zu sagen?“
 
-„Es ist wirklich kein Wunder“, fuhr ich fort, „dass ihr Juden uns Christen hasst, die den Sinn dieser Wahrheiten erfasst haben, und dass ihr uns wegen eurer starren Voreingenommenheit zur Rede stellt\. Elija hat ja, als er vor Gott für euch eintrat, so gesprochen: „Herr, sie haben deine Propheten getötet und deine Altäre niedergerissen; ich allein bin übrig geblieben, und sie trachten mir nach dem Leben\.“[^bible-60b8d3b6-384f-4c5c-91de-34ab32e69721] Und Gott antwortete: „Ich habe noch siebentausend Männer, deren Knie sich nicht vor Baal gebeugt haben\.“[^bible-c1c9a8d6-8e38-4943-9fc1-9f9872ded5ca] Darum hat Gott, so wie er um jener Siebentausend willen seinen Zorn nicht offenbarte, auch jetzt noch kein Gericht über euch vollzogen; denn er weiß, dass jeden Tag einige von euch eure Irrwege verlassen und im Namen Christi Jünger werden, und dass eben dieser Name Christi euch erleuchtet, alle Gnaden und Gaben entsprechend euren Verdiensten zu empfangen\. Der eine empfängt den Geist der Weisheit, ein anderer den des Rates, ein anderer den der Stärke, ein anderer den der Heilung, ein anderer Erkenntnis der Zukunft, ein anderer den der Lehre, ein anderer den der Furcht Gottes\.“ Trypho warf ein: „Merkst du nicht, dass du von Sinnen bist, so etwas zu sagen?“
+„Hör mir zu,
+du,
+und ich werde dir beweisen,
+dass ich nicht den Verstand verloren habe,
+wenn ich diese besonderen Gaben erwähne\.
+Denn es ist vorhergesagt worden,
+dass Christus nach seiner Himmelfahrt uns aus der Gefangenschaft des Irrtums befreien und uns mit Gaben ausstatten würde\.
+Hier sind die Worte der Weissagung:
+„Er ist hinaufgestiegen in die Höhe;
+er hat die Gefangenschaft gefangen geführt;
+er hat den Menschen Gaben gegeben\.“[^bible-e7809054-bda8-4615-b8db-9892377dbc44]
+So können wir,
+nachdem wir von Christus,
+der in den Himmel hinaufgestiegen ist,
+Gaben empfangen haben,
+aus den Weissagungen zeigen,
+dass ihr,
+die ihr „weise in euren eigenen Augen und klug in eurem eigenen Blick,“[^bible-832ca9e8-52d4-4ba4-ae08-22a3e36c90f4]
+in Wirklichkeit dumm seid;
+denn ihr ehrt Gott und seinen Christus nur mit den Lippen\.[^bible-edf9c0e5-42a6-4a03-9c07-b6b183faca53]
+Wir hingegen,
+die in seiner ganzen Wahrheit gut unterwiesen sind,
+ehren sie mit unserem Tun,
+mit unserem Wissen und mit unseren Herzen,
+bis in den Tod\.
+Der Grund,
+warum ihr zögert anzuerkennen,
+dass Jesus der Christus ist — was durch die Schriften,
+durch die Ereignisse,
+die ihr selbst miterlebt habt,
+und durch die Wunder,
+die in seinem Namen geschehen sind,
+bewiesen ist —,
+ist vielleicht,
+dass ihr der harten Verfolgung durch die Machthaber entgehen wollt,
+die,
+von der Schlange beeinflusst \(diesem bösen und hinterlistigen Geist\),
+nicht aufhören werden,
+die zu verfolgen und abzuschlachten,
+die den Namen Christi bekennen,
+bis er wiederkommt,
+um sie alle zu vernichten und die Belohnungen nach Verdienst zu verteilen\.“
 
-„Hör mir zu, du, und ich werde dir beweisen, dass ich nicht den Verstand verloren habe, wenn ich diese besonderen Gaben erwähne\. Denn es ist vorhergesagt worden, dass Christus nach seiner Himmelfahrt uns aus der Gefangenschaft des Irrtums befreien und uns mit Gaben ausstatten würde\. Hier sind die Worte der Weissagung: „Er ist hinaufgestiegen in die Höhe; er hat die Gefangenschaft gefangen geführt; er hat den Menschen Gaben gegeben\.“[^bible-e7809054-bda8-4615-b8db-9892377dbc44] So können wir, nachdem wir von Christus, der in den Himmel hinaufgestiegen ist, Gaben empfangen haben, aus den Weissagungen zeigen, dass ihr, die ihr „weise in euren eigenen Augen und klug in eurem eigenen Blick,“[^bible-832ca9e8-52d4-4ba4-ae08-22a3e36c90f4] in Wirklichkeit dumm seid; denn ihr ehrt Gott und seinen Christus nur mit den Lippen\.[^bible-edf9c0e5-42a6-4a03-9c07-b6b183faca53] Wir hingegen, die in seiner ganzen Wahrheit gut unterwiesen sind, ehren sie mit unserem Tun, mit unserem Wissen und mit unseren Herzen, bis in den Tod\. Der Grund, warum ihr zögert anzuerkennen, dass Jesus der Christus ist — was durch die Schriften, durch die Ereignisse, die ihr selbst miterlebt habt, und durch die Wunder, die in seinem Namen geschehen sind, bewiesen ist —, ist vielleicht, dass ihr der harten Verfolgung durch die Machthaber entgehen wollt, die, von der Schlange beeinflusst \(diesem bösen und hinterlistigen Geist\), nicht aufhören werden, die zu verfolgen und abzuschlachten, die den Namen Christi bekennen, bis er wiederkommt, um sie alle zu vernichten und die Belohnungen nach Verdienst zu verteilen\.“
-
-„Beweise uns“, unterbrach Trypho, „dass dieser Mann, von dem du behauptest, er sei gekreuzigt worden und in den Himmel aufgefahren, der Christus Gottes ist\. Durch deine Schriftzitate ist zwar zur Genüge erwiesen, dass in den Schriften vorhergesagt wurde, der Christus werde leiden und in Herrlichkeit wiederkommen, um das ewige Reich über alle Völker zu übernehmen, und dass ihm jedes Reich unterworfen werde\. Was wir aber bewiesen haben wollen, ist, dass Jesus der in den Schriften genannte Messias ist\.“ „Meine Herren“, erwiderte ich, „jeder, der Ohren hat, merkt, dass ich genau das bereits bewiesen habe; und es lässt sich auch aus den Tatsachen zeigen, die ihr selbst zugegeben habt\. Damit ihr jedoch nicht meint, ich könne keine weiteren Beweise dafür bringen, dass Jesus der Messias ist, erneuere ich mein Versprechen, an passender Stelle zusätzliche Argumente vorzulegen\. Für den Augenblick aber möchte ich das Thema fortführen, über das wir gerade gesprochen haben\.
+„Beweise uns“,
+unterbrach Trypho,
+„dass dieser Mann,
+von dem du behauptest,
+er sei gekreuzigt worden und in den Himmel aufgefahren,
+der Christus Gottes ist\.
+Durch deine Schriftzitate ist zwar zur Genüge erwiesen,
+dass in den Schriften vorhergesagt wurde,
+der Christus werde leiden und in Herrlichkeit wiederkommen,
+um das ewige Reich über alle Völker zu übernehmen,
+und dass ihm jedes Reich unterworfen werde\.
+Was wir aber bewiesen haben wollen,
+ist,
+dass Jesus der in den Schriften genannte Messias ist\.“
+„Meine Herren“,
+erwiderte ich,
+„jeder,
+der Ohren hat,
+merkt,
+dass ich genau das bereits bewiesen habe;
+und es lässt sich auch aus den Tatsachen zeigen,
+die ihr selbst zugegeben habt\.
+Damit ihr jedoch nicht meint,
+ich könne keine weiteren Beweise dafür bringen,
+dass Jesus der Messias ist,
+erneuere ich mein Versprechen,
+an passender Stelle zusätzliche Argumente vorzulegen\.
+Für den Augenblick aber möchte ich das Thema fortführen,
+über das wir gerade gesprochen haben\.
 
 ## Bibelverweise
 

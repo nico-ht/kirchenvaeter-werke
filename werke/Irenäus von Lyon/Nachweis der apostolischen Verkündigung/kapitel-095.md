@@ -7,9 +7,45 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-4691b4b6-dd93-477e-326c-08debf1e7015).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:84a7db5f76d375935e67d10b7ca08065d4f2617dbefbbca10746d2735f20fc47`
-
-Ferner sagt Mose im Deuteronomium, dass „die Heiden das Haupt sein sollten und das ungläubige Volk der Schwanz[^bible-2853cc02-4fc4-4c83-8b82-b7b8e4e9eecb]“\. Und wiederum sagt er: „Ihr habt mich zur Eifersucht gereizt mit denen, die keine Götter sind, und mich erzürnt mit euren Götzen; und ich werde euch zur Eifersucht reizen mit dem, was kein Volk ist, und mit einem dummen Volk werde ich euch erzürnen[^bible-68d18ee4-c962-47e9-93ed-9c3b76950b72]\.“ Denn sie verließen den Gott, der ist, und beteten die Götter an, die nicht sind, und dienten ihnen; und sie töteten die Propheten Gottes und weissagten für Baal, der der Götze der Kanaaniter war\. Und den Sohn Gottes, der ist, verachteten und verurteilten sie; sie wählten aber Barabbas, den Räuber[^bible-248cde55-3b4c-43bd-9ba9-00212b9ac05c], der wegen Mordes ergriffen worden war; und den ewigen König verleugneten sie, und sie erkannten den zeitlichen Caesar als ihren König an[^bible-e850ece5-f27c-45a9-9154-4263cb2cbadd]\. So gefiel es Gott, ihr Erbe den dummen Heiden zu schenken, ja denen, die nicht zum Gemeinwesen Gottes gehörten und nicht wussten, was Gott ist\. Da uns nun durch diese Berufung das Leben gegeben worden ist und Gott in uns den Glauben Abrahams für sich wieder zusammengefasst hat, dürfen wir nicht mehr zurückkehren, ich meine: zur ersten Gesetzgebung\. Denn wir haben den Herrn des Gesetzes empfangen, den Sohn Gottes; und durch den Glauben an ihn lernen wir, Gott mit ganzem Herzen zu lieben[^bible-199787f8-e40b-4202-b6aa-3c2dc885240c] und unseren Nächsten wie uns selbst[^bible-6c8ba171-3898-45f4-951e-9a26202c998b]\. Die Liebe zu Gott aber ist fern von jeder Sünde, und die Liebe zum Nächsten tut dem Nächsten nichts Böses[^bible-11a7d353-f3eb-47e9-a98f-8defb211e4c2]\.
+Ferner sagt Mose im Deuteronomium,
+dass „die Heiden das Haupt sein sollten und das ungläubige Volk der Schwanz[^bible-2853cc02-4fc4-4c83-8b82-b7b8e4e9eecb]“\.
+Und wiederum sagt er:
+„Ihr habt mich zur Eifersucht gereizt mit denen,
+die keine Götter sind,
+und mich erzürnt mit euren Götzen;
+und ich werde euch zur Eifersucht reizen mit dem,
+was kein Volk ist,
+und mit einem dummen Volk werde ich euch erzürnen[^bible-68d18ee4-c962-47e9-93ed-9c3b76950b72]\.“
+Denn sie verließen den Gott,
+der ist,
+und beteten die Götter an,
+die nicht sind,
+und dienten ihnen;
+und sie töteten die Propheten Gottes und weissagten für Baal,
+der der Götze der Kanaaniter war\.
+Und den Sohn Gottes,
+der ist,
+verachteten und verurteilten sie;
+sie wählten aber Barabbas,
+den Räuber[^bible-248cde55-3b4c-43bd-9ba9-00212b9ac05c],
+der wegen Mordes ergriffen worden war;
+und den ewigen König verleugneten sie,
+und sie erkannten den zeitlichen Caesar als ihren König an[^bible-e850ece5-f27c-45a9-9154-4263cb2cbadd]\.
+So gefiel es Gott,
+ihr Erbe den dummen Heiden zu schenken,
+ja denen,
+die nicht zum Gemeinwesen Gottes gehörten und nicht wussten,
+was Gott ist\.
+Da uns nun durch diese Berufung das Leben gegeben worden ist und Gott in uns den Glauben Abrahams für sich wieder zusammengefasst hat,
+dürfen wir nicht mehr zurückkehren,
+ich meine:
+zur ersten Gesetzgebung\.
+Denn wir haben den Herrn des Gesetzes empfangen,
+den Sohn Gottes;
+und durch den Glauben an ihn lernen wir,
+Gott mit ganzem Herzen zu lieben[^bible-199787f8-e40b-4202-b6aa-3c2dc885240c] und unseren Nächsten wie uns selbst[^bible-6c8ba171-3898-45f4-951e-9a26202c998b]\.
+Die Liebe zu Gott aber ist fern von jeder Sünde,
+und die Liebe zum Nächsten tut dem Nächsten nichts Böses[^bible-11a7d353-f3eb-47e9-a98f-8defb211e4c2]\.
 
 ## Bibelverweise
 

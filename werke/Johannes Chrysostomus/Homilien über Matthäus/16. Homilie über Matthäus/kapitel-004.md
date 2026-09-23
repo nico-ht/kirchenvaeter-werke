@@ -7,9 +7,144 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/16-homilie-ueber-matthaeus#kapitel-5f914c9f-4b0f-496b-5a6b-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:544aed6f6b936a67b57abe745e81c93ce4abdad780b96511b4073dde6a33dc81`
-
-Warum also nannte er diese Gebote die geringsten, obwohl sie doch so groß und erhaben sind? Weil er selbst im Begriff stand, die Gesetzgebung einzuführen\. Denn wie er sich selbst erniedrigte und an vielen Stellen maßvoll von sich selbst spricht, so spricht er auch von seiner eigenen Gesetzgebung und lehrt uns gerade dadurch, überall Maß zu halten\. Außerdem schien ja ein gewisser Verdacht einer Neuerung zu bestehen; darum bedient er sich vorerst einer zurückhaltenden Sprache\. Wenn du aber hörst: „der Geringste im Himmelreich“, dann vermute darunter nichts anderes als Gehenna und Strafe\. Denn er nennt „Reich“ nicht nur die Seligkeit der Teilhabe, sondern auch die Zeit der Auferstehung und jene furchtbare Ankunft\. Denn wie sollte es vernünftig sein, dass einer, der seinen Bruder dumm nennt und ein einziges Gebot übertritt, in die Gehenna fällt, während einer, der ganze Gebote aufhebt und andere dazu verleitet, im Reich ist? Das sagt er also nicht, sondern: In jener Zeit wird er der Geringste sein, verworfen, der Letzte; und der Letzte wird dann gewiss in die Gehenna fallen\. Denn da er Gott ist, wusste er im Voraus um die Trägheit der vielen und darum, dass manche das Gesagte für bloße Übertreibung halten, die Gesetze wegvernünfteln und sagen würden: „Wenn also jemand einen anderen dumm nennt, wird er bestraft? Wenn also jemand nur hinsieht, wird er zum Ehebrecher?“ Darum hebt er diese Gleichgültigkeit im Voraus auf und setzt für beide eine sehr schwere Drohung: für die, die übertreten, und für die, die andere dazu verleiten\. Da wir also die Drohung kennen, wollen wir weder selbst übertreten noch diejenigen entmutigen, die dies bewahren wollen\. „Wer sie aber tut und lehrt“, sagt er, „wird groß genannt werden\.“ Denn wir dürfen nicht nur uns selbst nützlich sein, sondern auch anderen\. Denn der Lohn ist nicht gleich für den, der sich selbst recht ordnet, und für den, der neben sich selbst auch einen anderen mitgewinnt\. Denn wie Lehren ohne Tun den Lehrenden richtet, denn er sagt: „Du also, der du einen anderen lehrst, lehrst dich selbst nicht?[^bible-26382afb-92e8-471e-91a5-8d68486d714d]“, so mindert Tun den Lohn, wenn man andere nicht anleitet\. Darum müssen wir in beidem vollkommen sein: zuerst uns selbst recht ordnen und dann auch zur Sorge für die anderen übergehen\. Denn deshalb stellte auch er selbst das Tun vor die Lehre und zeigte damit: Gerade so wird einer am besten lehren können, anders aber überhaupt nicht\. Denn er wird hören: „Arzt, heile dich selbst\.[^bible-72ec1df8-3ec8-4f46-a138-a014d671c2df]“ Denn wer sich selbst nicht zu lehren vermag und doch versucht, andere zurechtzubringen, wird viele haben, die ihn verspotten; vielmehr wird ein solcher nicht einmal lehren können, weil seine Taten gegen ihn sprechen\. Wenn er aber nach beiden Seiten hin vollständig ausgerüstet ist, wird er im Himmelreich groß genannt werden\. „Denn ich sage euch: Wenn eure Gerechtigkeit nicht größer ist als die der Schriftgelehrten und Pharisäer, werdet ihr nicht in das Himmelreich hineinkommen\.[^bible-73d9d135-4794-490e-94c8-bf37b6f8a203]“ Hier nennt er die ganze Tugend Gerechtigkeit, wie er auch über Ijob sagte: „Und es war ein untadeliger, gerechter Mensch\.[^bible-55af9ac6-9228-406e-bd24-52eeed32dee9]“ In diesem Sinn nannte auch Paulus den Menschen gerecht, für den, wie er sagte, kein Gesetz gegeben ist\. Denn er sagt: „Für einen Gerechten ist kein Gesetz gegeben\.[^bible-c756b493-9db5-40a8-bb25-1f7d2b662b96]“ Und auch an vielen anderen Stellen könnte man finden, dass dieser Name für die Tugend insgesamt gebraucht wird\. Du aber achte mit mir auf das Wachstum der Gnade: Er will, dass die neu hinzugekommenen Jünger besser sind als die Lehrer der Alten Ordnung\. Denn mit Schriftgelehrten und Pharisäern meinte er hier nicht einfach die Gesetzlosen, sondern die, die das Rechte taten\. Denn hätten sie das Rechte nicht getan, hätte er nicht gesagt, dass sie Gerechtigkeit besitzen, und hätte nicht das, was es gar nicht gibt, mit dem verglichen, was wirklich vorhanden ist\. Sieh auch hier, wie er die Alte Ordnung bestätigt, indem er sie mit jener, der Neuen, vergleicht\. Gerade das zeigt, dass sie von derselben Art und verwandt ist; denn Mehr und Weniger gehören derselben Gattung an\. Er verleumdet also die Alte Ordnung nicht, sondern will, dass sie gesteigert wird\. Wäre sie schlecht gewesen, hätte er nicht nach einem Mehr verlangt und sie auch nicht zurechtgebracht, sondern sie verworfen\. Und wie, sagt man, wenn sie so beschaffen ist, führt sie dann nicht in das Reich hinein? Jetzt führt sie die nicht hinein, die nach der Ankunft Christi leben, weil sie ja größere Kraft empfangen haben und einen größeren Kampf zu kämpfen schuldig sind; die aber von ihr selbst genährt wurden, führt sie alle hinein\. Denn er sagt: „Viele werden von Osten und Westen kommen und sich im Schoß Abrahams und Isaaks und Jakobs niederlassen\.[^bible-da0b36b6-93d1-4334-94f4-fa1a3352b6a8]“ Auch Lazarus erscheint, wie er die großen Kampfpreise genießt und in jenem Schoß wohnt\. Und alle, die in der Alten Ordnung überragend leuchteten, leuchteten alle durch sie\. Auch Christus hätte, wenn sie schlecht und fremd gewesen wäre, sie nicht bei seinem Kommen ganz erfüllt\. Denn wenn er dies nur tat, um die Juden für sich zu gewinnen, und nicht, um zu zeigen, dass diese mit der Neuen verwandt ist und zu ihr passt: Warum erfüllte er dann nicht auch die Gesetze und Bräuche der Griechen, um die Griechen für sich zu gewinnen?
+Warum also nannte er diese Gebote die geringsten,
+obwohl sie doch so groß und erhaben sind?
+Weil er selbst im Begriff stand,
+die Gesetzgebung einzuführen\.
+Denn wie er sich selbst erniedrigte und an vielen Stellen maßvoll von sich selbst spricht,
+so spricht er auch von seiner eigenen Gesetzgebung und lehrt uns gerade dadurch,
+überall Maß zu halten\.
+Außerdem schien ja ein gewisser Verdacht einer Neuerung zu bestehen;
+darum bedient er sich vorerst einer zurückhaltenden Sprache\.
+Wenn du aber hörst:
+„der Geringste im Himmelreich“,
+dann vermute darunter nichts anderes als Gehenna und Strafe\.
+Denn er nennt „Reich“ nicht nur die Seligkeit der Teilhabe,
+sondern auch die Zeit der Auferstehung und jene furchtbare Ankunft\.
+Denn wie sollte es vernünftig sein,
+dass einer,
+der seinen Bruder dumm nennt und ein einziges Gebot übertritt,
+in die Gehenna fällt,
+während einer,
+der ganze Gebote aufhebt und andere dazu verleitet,
+im Reich ist?
+Das sagt er also nicht,
+sondern:
+In jener Zeit wird er der Geringste sein,
+verworfen,
+der Letzte;
+und der Letzte wird dann gewiss in die Gehenna fallen\.
+Denn da er Gott ist,
+wusste er im Voraus um die Trägheit der vielen und darum,
+dass manche das Gesagte für bloße Übertreibung halten,
+die Gesetze wegvernünfteln und sagen würden:
+„Wenn also jemand einen anderen dumm nennt,
+wird er bestraft?
+Wenn also jemand nur hinsieht,
+wird er zum Ehebrecher?“
+Darum hebt er diese Gleichgültigkeit im Voraus auf und setzt für beide eine sehr schwere Drohung:
+für die,
+die übertreten,
+und für die,
+die andere dazu verleiten\.
+Da wir also die Drohung kennen,
+wollen wir weder selbst übertreten noch diejenigen entmutigen,
+die dies bewahren wollen\.
+„Wer sie aber tut und lehrt“,
+sagt er,
+„wird groß genannt werden\.“
+Denn wir dürfen nicht nur uns selbst nützlich sein,
+sondern auch anderen\.
+Denn der Lohn ist nicht gleich für den,
+der sich selbst recht ordnet,
+und für den,
+der neben sich selbst auch einen anderen mitgewinnt\.
+Denn wie Lehren ohne Tun den Lehrenden richtet,
+denn er sagt:
+„Du also,
+der du einen anderen lehrst,
+lehrst dich selbst nicht?[^bible-26382afb-92e8-471e-91a5-8d68486d714d]“,
+so mindert Tun den Lohn,
+wenn man andere nicht anleitet\.
+Darum müssen wir in beidem vollkommen sein:
+zuerst uns selbst recht ordnen und dann auch zur Sorge für die anderen übergehen\.
+Denn deshalb stellte auch er selbst das Tun vor die Lehre und zeigte damit:
+Gerade so wird einer am besten lehren können,
+anders aber überhaupt nicht\.
+Denn er wird hören:
+„Arzt,
+heile dich selbst\.[^bible-72ec1df8-3ec8-4f46-a138-a014d671c2df]“ Denn wer sich selbst nicht zu lehren vermag und doch versucht,
+andere zurechtzubringen,
+wird viele haben,
+die ihn verspotten;
+vielmehr wird ein solcher nicht einmal lehren können,
+weil seine Taten gegen ihn sprechen\.
+Wenn er aber nach beiden Seiten hin vollständig ausgerüstet ist,
+wird er im Himmelreich groß genannt werden\.
+„Denn ich sage euch:
+Wenn eure Gerechtigkeit nicht größer ist als die der Schriftgelehrten und Pharisäer,
+werdet ihr nicht in das Himmelreich hineinkommen\.[^bible-73d9d135-4794-490e-94c8-bf37b6f8a203]“ Hier nennt er die ganze Tugend Gerechtigkeit,
+wie er auch über Ijob sagte:
+„Und es war ein untadeliger,
+gerechter Mensch\.[^bible-55af9ac6-9228-406e-bd24-52eeed32dee9]“ In diesem Sinn nannte auch Paulus den Menschen gerecht,
+für den,
+wie er sagte,
+kein Gesetz gegeben ist\.
+Denn er sagt:
+„Für einen Gerechten ist kein Gesetz gegeben\.[^bible-c756b493-9db5-40a8-bb25-1f7d2b662b96]“ Und auch an vielen anderen Stellen könnte man finden,
+dass dieser Name für die Tugend insgesamt gebraucht wird\.
+Du aber achte mit mir auf das Wachstum der Gnade:
+Er will,
+dass die neu hinzugekommenen Jünger besser sind als die Lehrer der Alten Ordnung\.
+Denn mit Schriftgelehrten und Pharisäern meinte er hier nicht einfach die Gesetzlosen,
+sondern die,
+die das Rechte taten\.
+Denn hätten sie das Rechte nicht getan,
+hätte er nicht gesagt,
+dass sie Gerechtigkeit besitzen,
+und hätte nicht das,
+was es gar nicht gibt,
+mit dem verglichen,
+was wirklich vorhanden ist\.
+Sieh auch hier,
+wie er die Alte Ordnung bestätigt,
+indem er sie mit jener,
+der Neuen,
+vergleicht\.
+Gerade das zeigt,
+dass sie von derselben Art und verwandt ist;
+denn Mehr und Weniger gehören derselben Gattung an\.
+Er verleumdet also die Alte Ordnung nicht,
+sondern will,
+dass sie gesteigert wird\.
+Wäre sie schlecht gewesen,
+hätte er nicht nach einem Mehr verlangt und sie auch nicht zurechtgebracht,
+sondern sie verworfen\.
+Und wie,
+sagt man,
+wenn sie so beschaffen ist,
+führt sie dann nicht in das Reich hinein?
+Jetzt führt sie die nicht hinein,
+die nach der Ankunft Christi leben,
+weil sie ja größere Kraft empfangen haben und einen größeren Kampf zu kämpfen schuldig sind;
+die aber von ihr selbst genährt wurden,
+führt sie alle hinein\.
+Denn er sagt:
+„Viele werden von Osten und Westen kommen und sich im Schoß Abrahams und Isaaks und Jakobs niederlassen\.[^bible-da0b36b6-93d1-4334-94f4-fa1a3352b6a8]“ Auch Lazarus erscheint,
+wie er die großen Kampfpreise genießt und in jenem Schoß wohnt\.
+Und alle,
+die in der Alten Ordnung überragend leuchteten,
+leuchteten alle durch sie\.
+Auch Christus hätte,
+wenn sie schlecht und fremd gewesen wäre,
+sie nicht bei seinem Kommen ganz erfüllt\.
+Denn wenn er dies nur tat,
+um die Juden für sich zu gewinnen,
+und nicht,
+um zu zeigen,
+dass diese mit der Neuen verwandt ist und zu ihr passt:
+Warum erfüllte er dann nicht auch die Gesetze und Bräuche der Griechen,
+um die Griechen für sich zu gewinnen?
 
 ## Bibelverweise
 

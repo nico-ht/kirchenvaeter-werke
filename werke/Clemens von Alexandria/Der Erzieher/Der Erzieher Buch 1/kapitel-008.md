@@ -7,23 +7,520 @@ Autor: Clemens von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-alexandria/der-erzieher-buch-1#kapitel-a614dac2-742f-42d9-5f94-08dd4d24197e).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:db1a1ca3ce89dca4ffe54be6016955363a9c1ee7ad58f737c596bbf0040f0f73`
+Einige Leute wachsen mit der Behauptung auf,
+der Herr sei nicht gut,
+wegen seines Stabes,
+seiner Drohungen und der Furcht\!
+Aber sie haben offensichtlich nicht auf die Schrift gehört,
+die da sagt:
+„Wer den Herrn fürchtet,
+kehrt um in seinem Herzen\.“[^bible-a8d209e3-8f45-4f22-8cbc-bb7cbdbb7fb9]
+Und sie vergessen den allergrößten Beweis seiner Liebe zu den Menschen:
+dass er um unsertwillen ein Mensch geworden ist\!
+Genau deshalb betet der Prophet noch viel persönlicher zu ihm und sagt:
+„Erinnere dich daran,
+dass wir Staub sind\.“[^bible-530339f7-f973-4643-a475-b84513d108be]
+Das bedeutet:
+Hab Mitleid mit uns,
+denn du selbst hast die Schwachheit des Fleisches erfahren\!
+Der Herr ist also der beste und untadeligste Lehrer,
+weil er durch seine gewaltige Liebe zur Menschheit von Natur aus mit jedem einzelnen Menschen mitfühlt\.
+„Denn es gibt nichts,
+was der Herr hasst“[^bible-901b60a9-cf7e-4b70-9793-7cdb595c8f11],
+denn er würde doch unmöglich etwas hassen und dennoch wollen,
+dass es existiert – noch würde er wollen,
+dass etwas nicht existiert,
+und dennoch der Grund für seine Existenz sein\!
+Wenn das Wort also etwas hasst,
+bedeutet das zwangsläufig,
+dass es nicht will,
+dass es existiert\.
+Aber es gibt absolut nichts,
+dem Gott nicht die Macht zur Existenz gibt – folglich hasst Gott nichts,
+und das Wort hasst ebenso wenig\!
+Denn die beiden sind eins – Gott –,
+weil geschrieben steht:
+„Im Anfang war das Wort,
+und das Wort war bei Gott,
+und das Wort war Gott\.“
+[^bible-f32d6439-27f7-43e9-83b6-d539c0e6e816]Und wenn er nichts von dem hasst,
+was er erschaffen hat,
+dann folgt daraus zwingend,
+dass er es liebt\!
+Er wird menschliche Wesen aus gutem Grund ganz besonders und mehr als alles andere lieben,
+da der Mensch das Schönste all seiner Geschöpfe ist und eine Kreatur,
+die Gott von Natur aus liebt\.
+Gott liebt also die Menschheit,
+und das Wort liebt die Menschheit ebenso\.
+Nun will derjenige,
+der etwas liebt,
+ihm auch helfen\.
+Und jemandem zu helfen ist immer besser als nicht zu helfen,
+und nichts ist besser als das Gute – also muss das Gute helfen\!
+Und es ist unbestritten,
+dass Gott gut ist – folglich hilft Gott\.
+Und die Güte tut,
+weil sie gut ist,
+absolut nichts anderes als helfen\.
+Also hilft Gott allem\!
+Und wenn er den Menschen hilft,
+sorgt er sich zweifellos auch um sie;
+und wenn er sich sorgt,
+dann kümmert er sich auch um sie\.
 
-Einige Leute wachsen mit der Behauptung auf, der Herr sei nicht gut, wegen seines Stabes, seiner Drohungen und der Furcht\! Aber sie haben offensichtlich nicht auf die Schrift gehört, die da sagt: „Wer den Herrn fürchtet, kehrt um in seinem Herzen\.“[^bible-a8d209e3-8f45-4f22-8cbc-bb7cbdbb7fb9] Und sie vergessen den allergrößten Beweis seiner Liebe zu den Menschen: dass er um unsertwillen ein Mensch geworden ist\! Genau deshalb betet der Prophet noch viel persönlicher zu ihm und sagt: „Erinnere dich daran, dass wir Staub sind\.“[^bible-530339f7-f973-4643-a475-b84513d108be] Das bedeutet: Hab Mitleid mit uns, denn du selbst hast die Schwachheit des Fleisches erfahren\! Der Herr ist also der beste und untadeligste Lehrer, weil er durch seine gewaltige Liebe zur Menschheit von Natur aus mit jedem einzelnen Menschen mitfühlt\. „Denn es gibt nichts, was der Herr hasst“[^bible-901b60a9-cf7e-4b70-9793-7cdb595c8f11], denn er würde doch unmöglich etwas hassen und dennoch wollen, dass es existiert – noch würde er wollen, dass etwas nicht existiert, und dennoch der Grund für seine Existenz sein\! Wenn das Wort also etwas hasst, bedeutet das zwangsläufig, dass es nicht will, dass es existiert\. Aber es gibt absolut nichts, dem Gott nicht die Macht zur Existenz gibt – folglich hasst Gott nichts, und das Wort hasst ebenso wenig\! Denn die beiden sind eins – Gott –, weil geschrieben steht: „Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott\.“ [^bible-f32d6439-27f7-43e9-83b6-d539c0e6e816]Und wenn er nichts von dem hasst, was er erschaffen hat, dann folgt daraus zwingend, dass er es liebt\! Er wird menschliche Wesen aus gutem Grund ganz besonders und mehr als alles andere lieben, da der Mensch das Schönste all seiner Geschöpfe ist und eine Kreatur, die Gott von Natur aus liebt\. Gott liebt also die Menschheit, und das Wort liebt die Menschheit ebenso\. Nun will derjenige, der etwas liebt, ihm auch helfen\. Und jemandem zu helfen ist immer besser als nicht zu helfen, und nichts ist besser als das Gute – also muss das Gute helfen\! Und es ist unbestritten, dass Gott gut ist – folglich hilft Gott\. Und die Güte tut, weil sie gut ist, absolut nichts anderes als helfen\. Also hilft Gott allem\! Und wenn er den Menschen hilft, sorgt er sich zweifellos auch um sie; und wenn er sich sorgt, dann kümmert er sich auch um sie\.
+Mit Fürsorge zu helfen ist besser,
+als ohne Fürsorge zu helfen,
+und nichts ist besser als Gott\!
+Und mit Fürsorge zu helfen bedeutet,
+Interesse zu zeigen und über denjenigen zu wachen,
+dem geholfen wird – Gott sorgt sich also sehr wohl und kümmert sich um die Menschheit\.
+Das wird durch seine Taten bewiesen – er lehrt die Menschen durch das Wort,
+das der wahre Partner von Gottes Liebe zur Menschheit ist\.
+Und gut zu sein liegt nicht nur daran,
+dass es Tugend besitzt,
+so wie wir die Gerechtigkeit gut nennen – nicht,
+weil sie Tugend besitzt,
+sondern weil sie selbst eine Tugend ist\!
+Gerechtigkeit ist nicht deshalb gut,
+weil sie Güte besitzt,
+sondern weil sie an sich gut und um ihrer selbst willen begehrenswert ist\.
+Und etwas wird auch auf andere Weise gut genannt:
+weil es nützlich ist – nicht,
+weil es gefällt,
+sondern weil es hilft\!
+All diese Dinge treffen auch auf die Gerechtigkeit zu – sie ist als Tugend gut,
+an sich gut,
+und gut nicht,
+weil sie gefällt,
+sondern weil sie hilft\.
+Sie richtet nicht zum Spaß,
+sondern gibt jedem das,
+was er verdient\.
+Und das Nützliche folgt stets dem Guten\.
+Auf jede erdenkliche Weise,
+wie die Güte geprüft wird,
+hat die Gerechtigkeit also gleichermaßen Anteil daran\.
+Und Dinge,
+die derselben Sache gleich sind,
+sind einander gleich – also ist Gerechtigkeit gut\!
+Aber einige fragen:
+„Wenn der Herr freundlich und gut ist,
+wie kann er dann zornig werden und Menschen bestrafen?“
+Wir müssen das kurz erklären:
+Diese Art,
+mit Menschen umzugehen,
+ist nützlich,
+um Kinder auf die richtige Weise aufzuziehen – es ist ein absolut notwendiges Werkzeug bei ihrer Führung\.
+Viele schlechte Neigungen werden durch Strafe,
+strenge Regeln und sogar durch die Lehre mittels beängstigender oder schwer anzusehender Bilder geheilt\.
+Die Zurechtweisung ist wie das Messer eines Chirurgen,
+das die Krankheiten der Seele wegschneidet\!
+Leidenschaften ziehen uns von der Wahrheit weg und müssen mit der Vernunft herausgeschnitten werden\.
+Harte Worte sind wie Medizin,
+die verhärtete Laster aufbricht und den Schmutz des Lebens reinigt – ganz besonders die Lüste – und den Stolz glättet,
+um den Menschen zurück zu Gesundheit und Wahrheit zu formen\.
+Warnung und Korrektur sind also wie eine Behandlung für die kranke Seele:
+Sie zeigen auf,
+was zu meiden und was anzunehmen ist\.
+All das dient der Rettung und der ewigen Gesundheit\.
+Selbst militärische Generäle verhängen Geldstrafen,
+Schläge,
+Ketten,
+Schande und manchmal den Tod – nicht aus Grausamkeit,
+sondern für das höhere Wohl,
+um ihre Soldaten zu lehren und zu korrigieren\!
+Auf genau dieselbe Weise korrigiert unser großer Befehlshaber – das Wort,
+das alles führt – diejenigen,
+die gegen sein Gesetz rebellieren,
+befreit sie aus Sklaverei,
+Verwirrung und der Gefangenschaft durch den Feind und hilft,
+ihre Seelen zu heilen,
+um sie in friedliche Übereinstimmung mit dem heiligen Leben der Gemeinschaft zu bringen\.
 
-Mit Fürsorge zu helfen ist besser, als ohne Fürsorge zu helfen, und nichts ist besser als Gott\! Und mit Fürsorge zu helfen bedeutet, Interesse zu zeigen und über denjenigen zu wachen, dem geholfen wird – Gott sorgt sich also sehr wohl und kümmert sich um die Menschheit\. Das wird durch seine Taten bewiesen – er lehrt die Menschen durch das Wort, das der wahre Partner von Gottes Liebe zur Menschheit ist\. Und gut zu sein liegt nicht nur daran, dass es Tugend besitzt, so wie wir die Gerechtigkeit gut nennen – nicht, weil sie Tugend besitzt, sondern weil sie selbst eine Tugend ist\! Gerechtigkeit ist nicht deshalb gut, weil sie Güte besitzt, sondern weil sie an sich gut und um ihrer selbst willen begehrenswert ist\. Und etwas wird auch auf andere Weise gut genannt: weil es nützlich ist – nicht, weil es gefällt, sondern weil es hilft\! All diese Dinge treffen auch auf die Gerechtigkeit zu – sie ist als Tugend gut, an sich gut, und gut nicht, weil sie gefällt, sondern weil sie hilft\. Sie richtet nicht zum Spaß, sondern gibt jedem das, was er verdient\. Und das Nützliche folgt stets dem Guten\. Auf jede erdenkliche Weise, wie die Güte geprüft wird, hat die Gerechtigkeit also gleichermaßen Anteil daran\. Und Dinge, die derselben Sache gleich sind, sind einander gleich – also ist Gerechtigkeit gut\! Aber einige fragen: „Wenn der Herr freundlich und gut ist, wie kann er dann zornig werden und Menschen bestrafen?“ Wir müssen das kurz erklären: Diese Art, mit Menschen umzugehen, ist nützlich, um Kinder auf die richtige Weise aufzuziehen – es ist ein absolut notwendiges Werkzeug bei ihrer Führung\. Viele schlechte Neigungen werden durch Strafe, strenge Regeln und sogar durch die Lehre mittels beängstigender oder schwer anzusehender Bilder geheilt\. Die Zurechtweisung ist wie das Messer eines Chirurgen, das die Krankheiten der Seele wegschneidet\! Leidenschaften ziehen uns von der Wahrheit weg und müssen mit der Vernunft herausgeschnitten werden\. Harte Worte sind wie Medizin, die verhärtete Laster aufbricht und den Schmutz des Lebens reinigt – ganz besonders die Lüste – und den Stolz glättet, um den Menschen zurück zu Gesundheit und Wahrheit zu formen\. Warnung und Korrektur sind also wie eine Behandlung für die kranke Seele: Sie zeigen auf, was zu meiden und was anzunehmen ist\. All das dient der Rettung und der ewigen Gesundheit\. Selbst militärische Generäle verhängen Geldstrafen, Schläge, Ketten, Schande und manchmal den Tod – nicht aus Grausamkeit, sondern für das höhere Wohl, um ihre Soldaten zu lehren und zu korrigieren\! Auf genau dieselbe Weise korrigiert unser großer Befehlshaber – das Wort, das alles führt – diejenigen, die gegen sein Gesetz rebellieren, befreit sie aus Sklaverei, Verwirrung und der Gefangenschaft durch den Feind und hilft, ihre Seelen zu heilen, um sie in friedliche Übereinstimmung mit dem heiligen Leben der Gemeinschaft zu bringen\.
+Genau wie die überzeugende Rede Ermutigung und Trost nutzt,
+so bedient sich auch das Lob der Zurechtweisung und sogar der Beleidigungen – nicht aus Hass,
+sondern als kunstvolles Werkzeug zur Korrektur\.
+Denn sowohl Freunde als auch Feinde üben Kritik,
+aber der Feind tut es spottend,
+während der Freund es aus Liebe tut\.
+Wenn der Herr also die Menschen tadelt,
+geschieht das absolut nicht aus Hass\.
+Obwohl er sie völlig zu Recht vernichten könnte,
+entschied er sich stattdessen,
+für uns zu leiden\!
+Wie ein guter Lehrer setzt er den Tadel geschickt als eine Art Peitsche ein,
+weckt unseren abgestumpften Verstand mit harten Worten auf und versucht dann erneut,
+eben diese Menschen zu ermutigen\.
+Denn jene,
+die sich durch Lob nicht bewegen lassen,
+werden oft durch Tadel aufgerüttelt\.
+Und jene,
+die der Tadel nicht aufweckt und die wie tot sind,
+schockiert er mit harschen Worten hinein in die Wahrheit\!
+„Peitschen und Disziplin bringen Weisheit“[^bible-a5819ef3-2cd6-47b5-ad30-da456475e16a],
+heißt es,
+und:
+„Er klebt zerbrochene Stücke zusammen und belehrt die Dummen“[^bible-33a94a71-a97e-40c1-9889-d762e55d7d8b],
+wodurch er das Verständnis schärft und den Hoffnungslosen Einsicht verleiht\.
 
-Genau wie die überzeugende Rede Ermutigung und Trost nutzt, so bedient sich auch das Lob der Zurechtweisung und sogar der Beleidigungen – nicht aus Hass, sondern als kunstvolles Werkzeug zur Korrektur\. Denn sowohl Freunde als auch Feinde üben Kritik, aber der Feind tut es spottend, während der Freund es aus Liebe tut\. Wenn der Herr also die Menschen tadelt, geschieht das absolut nicht aus Hass\. Obwohl er sie völlig zu Recht vernichten könnte, entschied er sich stattdessen, für uns zu leiden\! Wie ein guter Lehrer setzt er den Tadel geschickt als eine Art Peitsche ein, weckt unseren abgestumpften Verstand mit harten Worten auf und versucht dann erneut, eben diese Menschen zu ermutigen\. Denn jene, die sich durch Lob nicht bewegen lassen, werden oft durch Tadel aufgerüttelt\. Und jene, die der Tadel nicht aufweckt und die wie tot sind, schockiert er mit harschen Worten hinein in die Wahrheit\! „Peitschen und Disziplin bringen Weisheit“[^bible-a5819ef3-2cd6-47b5-ad30-da456475e16a], heißt es, und: „Er klebt zerbrochene Stücke zusammen und belehrt die Dummen“[^bible-33a94a71-a97e-40c1-9889-d762e55d7d8b], wodurch er das Verständnis schärft und den Hoffnungslosen Einsicht verleiht\.
+So sagt er:
+„Wach auf,
+der du tief schläfst“[^bible-e2ce2f27-0dfb-4c0f-a46d-0df6c1a3cfa1] – und tiefer Schlaf ist dem Tod am nächsten\.
+Und der Herr erklärt sich selbst unmissverständlich,
+indem er Symbole verwendet,
+um seine vielerlei Arten der Heilung zu beschreiben\.
+Er sagt:
+„Ich bin der wahre Weinstock,
+und mein Vater ist der Weingärtner\.“
+Dann fügt er hinzu:
+„Jede Rebe an mir,
+die keine Frucht bringt,
+schneidet er ab;
+und jede Rebe,
+die Frucht bringt,
+reinigt er,
+damit sie mehr Frucht bringt\.“[^bible-cac3531a-b2da-4e05-bd00-9baf4fd9eb86]
+Ein Weinstock,
+der niemals beschnitten wird,
+verwildert – und genau das tut auch ein Mensch\!
+Das Wort schneidet wie eine Klinge wilde und arrogante Wucherungen weg,
+damit die Person Frucht bringen kann und nicht nur Begierden nachjagt\.
+Seine Zurechtweisungen zielen darauf ab,
+Menschen zu retten,
+da das Wort seinen Ton wie ein Musiker den Bedürfnissen jedes Einzelnen anpasst – manchmal anziehend,
+manchmal lockernd\.
+Deshalb sagte Mose:
+„Seid mutig – Gott ist gekommen,
+um euch zu prüfen,
+damit seine Furcht bei euch bleibt und euch davor bewahrt zu sündigen\.“
+[^bible-a5f5fb5b-ff19-4c2f-abe0-6083e773fba5]Und selbst Platon sagte weise:
+„Jeder,
+der bestraft wird,
+erfährt tatsächlich etwas Gutes,
+weil die Strafe hilft,
+die Seele besser zu machen\.“
+Und wenn,
+wie Platon sagt,
+diejenigen,
+die durch Gerechtigkeit korrigiert werden,
+etwas Gutes empfangen,
+dann muss die Gerechtigkeit selbst gut sein\!
+Die Furcht selbst hilft und wurde zu unserem Guten erschaffen,
+denn „die Seele,
+die den Herrn fürchtet,
+wird leben und wird ihre Hoffnung auf den setzen,
+der sie rettet\.“[^bible-b385b2a2-9eb9-45ec-b6f6-863f9ccc4328]
+Das Wort,
+das das Urteil spricht,
+ist der Richter,
+von dem Jesaja spricht,
+wenn er sagt:
+„Der Herr hat ihn für unsere Sünden hingegeben“[^bible-1d0044e9-8324-4f3f-ada5-60a951a611e0],
+was bedeutet,
+dass er derjenige ist,
+der die Sünden der Menschen korrigiert und lenkt\.
+Genau deshalb kann er allein Verfehlungen vergeben – er wurde vom Vater aller als unser Lehrer eingesetzt,
+und er allein kann den Unterschied zwischen Gehorsam und Ungehorsam aufzeigen\!
+Derjenige,
+der droht,
+will nicht tatsächlich Schaden anrichten oder das ausführen,
+wovor er warnt\.
+Aber indem er Furcht erregt,
+hält er die Menschen davon ab,
+in die Sünde zu stürzen,
+und zeigt seine Liebe,
+indem er unmissverständlich erklärt,
+was geschehen wird,
+wenn sie in der Sünde verharren – nicht wie eine Schlange,
+die sofort zubeißt\!
 
-So sagt er: „Wach auf, der du tief schläfst“[^bible-e2ce2f27-0dfb-4c0f-a46d-0df6c1a3cfa1] – und tiefer Schlaf ist dem Tod am nächsten\. Und der Herr erklärt sich selbst unmissverständlich, indem er Symbole verwendet, um seine vielerlei Arten der Heilung zu beschreiben\. Er sagt: „Ich bin der wahre Weinstock, und mein Vater ist der Weingärtner\.“ Dann fügt er hinzu: „Jede Rebe an mir, die keine Frucht bringt, schneidet er ab; und jede Rebe, die Frucht bringt, reinigt er, damit sie mehr Frucht bringt\.“[^bible-cac3531a-b2da-4e05-bd00-9baf4fd9eb86] Ein Weinstock, der niemals beschnitten wird, verwildert – und genau das tut auch ein Mensch\! Das Wort schneidet wie eine Klinge wilde und arrogante Wucherungen weg, damit die Person Frucht bringen kann und nicht nur Begierden nachjagt\. Seine Zurechtweisungen zielen darauf ab, Menschen zu retten, da das Wort seinen Ton wie ein Musiker den Bedürfnissen jedes Einzelnen anpasst – manchmal anziehend, manchmal lockernd\. Deshalb sagte Mose: „Seid mutig – Gott ist gekommen, um euch zu prüfen, damit seine Furcht bei euch bleibt und euch davor bewahrt zu sündigen\.“ [^bible-a5f5fb5b-ff19-4c2f-abe0-6083e773fba5]Und selbst Platon sagte weise: „Jeder, der bestraft wird, erfährt tatsächlich etwas Gutes, weil die Strafe hilft, die Seele besser zu machen\.“ Und wenn, wie Platon sagt, diejenigen, die durch Gerechtigkeit korrigiert werden, etwas Gutes empfangen, dann muss die Gerechtigkeit selbst gut sein\! Die Furcht selbst hilft und wurde zu unserem Guten erschaffen, denn „die Seele, die den Herrn fürchtet, wird leben und wird ihre Hoffnung auf den setzen, der sie rettet\.“[^bible-b385b2a2-9eb9-45ec-b6f6-863f9ccc4328] Das Wort, das das Urteil spricht, ist der Richter, von dem Jesaja spricht, wenn er sagt: „Der Herr hat ihn für unsere Sünden hingegeben“[^bible-1d0044e9-8324-4f3f-ada5-60a951a611e0], was bedeutet, dass er derjenige ist, der die Sünden der Menschen korrigiert und lenkt\. Genau deshalb kann er allein Verfehlungen vergeben – er wurde vom Vater aller als unser Lehrer eingesetzt, und er allein kann den Unterschied zwischen Gehorsam und Ungehorsam aufzeigen\! Derjenige, der droht, will nicht tatsächlich Schaden anrichten oder das ausführen, wovor er warnt\. Aber indem er Furcht erregt, hält er die Menschen davon ab, in die Sünde zu stürzen, und zeigt seine Liebe, indem er unmissverständlich erklärt, was geschehen wird, wenn sie in der Sünde verharren – nicht wie eine Schlange, die sofort zubeißt\!
+Gott ist also gut\.
+Und der Herr gebraucht oft viele Male Worte,
+bevor er handelt\.
+„Meine Pfeile werden sie vernichten“,
+sagt er,
+„sie werden dahinschwinden durch Hunger und Vogelangriffe;
+unheilbarer Schmerz wird über sie kommen;
+ich werde Bestien mit scharfen Zähnen gegen sie senden,
+und wilde Tiere werden sie durch das Land schleifen\.
+Draußen wird das Schwert sie kinderlos machen;
+drinnen wird der Schrecken ihre Vorratskammern füllen\.“[^bible-4d98a66b-8868-4bc4-b213-a2386e95c276]
+Gott wird also nicht auf die Weise zornig,
+wie einige Leute denken – er warnt zumeist und berät die Menschheit stets und zeigt ihr auf,
+was zu tun ist\.
+Diese Methode ist gut – sie flößt Furcht ein,
+damit wir nicht sündigen\!
+„Die Furcht vor dem Herrn vertreibt die Sünden“,
+sagt die Schrift,
+„und ohne Furcht wird niemand gerechtfertigt werden\.“[^bible-986efd9b-2932-446d-9095-edc805f7aa2d]
+Gott straft nicht aus Wut,
+sondern weil die Gerechtigkeit um unsertwillen nicht ignoriert werden darf\.
+Jeder von uns wählt seine Strafe selbst,
+indem er willentlich sündigt\.
+„Derjenige,
+der wählt,
+ist die Ursache – Gott trifft keine Schuld\.“
+„Wenn unsere Sünde Gottes Gerechtigkeit erweist,
+was sollen wir dann sagen?
+Ist Gott ungerecht,
+wenn er Zorn bringt?
+Gewiss nicht\!“
+[^bible-36895f37-96af-4a17-bddd-fff5be35fb15]Er sagt:
+„Ich werde mein Schwert schärfen,
+und meine Hand wird die Gerechtigkeit ergreifen – ich werde meinen Feinden vergelten und diejenigen bestrafen,
+die mich hassen\.
+Meine Pfeile werden trunken sein von Blut,
+und mein Schwert wird Fleisch fressen von den Verwundeten\.“[^bible-4646aaf5-8f88-4f23-9466-ca5376949fbe]
+Dies zeigt ganz unmissverständlich,
+dass jene,
+die nicht gegen die Wahrheit kämpfen oder das Wort hassen,
+ihre eigene Rettung nicht hassen würden,
+und sie würden den Konsequenzen ihrer Feindseligkeit entgehen\.
+„Die Furcht des Herrn“,
+sagt die Weisheit,
+„ist eine Krone der Weisheit\.“[^bible-cc1a3b03-8b07-42ac-b8b3-1e26092e23b1]
+Und das Wort macht seine Lehre durch den Propheten Amos deutlich,
+wenn er sagt:
+„Ich habe euch zerstört,
+wie Gott Sodom und Gomorra zerstörte\.
+Ihr wart wie ein aus dem Feuer gezogenes Holz – und dennoch seid ihr nicht zu mir umgekehrt,
+spricht der Herr\.“[^bible-d905d89f-b727-450f-9aad-7f32b62b954a]
+Seht,
+wie Gott aufgrund seiner Liebe die Umkehr will – und selbst in all seinen Warnungen zeigt er leise seine Güte\.
+Er sagt:
+„Ich werde mein Gesicht von ihnen abwenden und zeigen,
+was mit ihnen geschehen wird\.“[^bible-97a68782-f046-4f6a-8a8b-df7ce36202c1]
+Wo Gottes Gesicht leuchtet,
+da ist Frieden und Freude;
+wo es abgewandt wird,
+schleicht sich das Böse ein\.
+Gott will nicht auf das Böse schauen,
+weil er gut ist\.
+Aber wenn er sich entscheidet,
+es aufgrund des menschlichen Unglaubens nicht zu sehen,
+ergreift das Böse Besitz von den Menschen\.
 
-Gott ist also gut\. Und der Herr gebraucht oft viele Male Worte, bevor er handelt\. „Meine Pfeile werden sie vernichten“, sagt er, „sie werden dahinschwinden durch Hunger und Vogelangriffe; unheilbarer Schmerz wird über sie kommen; ich werde Bestien mit scharfen Zähnen gegen sie senden, und wilde Tiere werden sie durch das Land schleifen\. Draußen wird das Schwert sie kinderlos machen; drinnen wird der Schrecken ihre Vorratskammern füllen\.“[^bible-4d98a66b-8868-4bc4-b213-a2386e95c276] Gott wird also nicht auf die Weise zornig, wie einige Leute denken – er warnt zumeist und berät die Menschheit stets und zeigt ihr auf, was zu tun ist\. Diese Methode ist gut – sie flößt Furcht ein, damit wir nicht sündigen\! „Die Furcht vor dem Herrn vertreibt die Sünden“, sagt die Schrift, „und ohne Furcht wird niemand gerechtfertigt werden\.“[^bible-986efd9b-2932-446d-9095-edc805f7aa2d] Gott straft nicht aus Wut, sondern weil die Gerechtigkeit um unsertwillen nicht ignoriert werden darf\. Jeder von uns wählt seine Strafe selbst, indem er willentlich sündigt\. „Derjenige, der wählt, ist die Ursache – Gott trifft keine Schuld\.“ „Wenn unsere Sünde Gottes Gerechtigkeit erweist, was sollen wir dann sagen? Ist Gott ungerecht, wenn er Zorn bringt? Gewiss nicht\!“ [^bible-36895f37-96af-4a17-bddd-fff5be35fb15]Er sagt: „Ich werde mein Schwert schärfen, und meine Hand wird die Gerechtigkeit ergreifen – ich werde meinen Feinden vergelten und diejenigen bestrafen, die mich hassen\. Meine Pfeile werden trunken sein von Blut, und mein Schwert wird Fleisch fressen von den Verwundeten\.“[^bible-4646aaf5-8f88-4f23-9466-ca5376949fbe] Dies zeigt ganz unmissverständlich, dass jene, die nicht gegen die Wahrheit kämpfen oder das Wort hassen, ihre eigene Rettung nicht hassen würden, und sie würden den Konsequenzen ihrer Feindseligkeit entgehen\. „Die Furcht des Herrn“, sagt die Weisheit, „ist eine Krone der Weisheit\.“[^bible-cc1a3b03-8b07-42ac-b8b3-1e26092e23b1] Und das Wort macht seine Lehre durch den Propheten Amos deutlich, wenn er sagt: „Ich habe euch zerstört, wie Gott Sodom und Gomorra zerstörte\. Ihr wart wie ein aus dem Feuer gezogenes Holz – und dennoch seid ihr nicht zu mir umgekehrt, spricht der Herr\.“[^bible-d905d89f-b727-450f-9aad-7f32b62b954a] Seht, wie Gott aufgrund seiner Liebe die Umkehr will – und selbst in all seinen Warnungen zeigt er leise seine Güte\. Er sagt: „Ich werde mein Gesicht von ihnen abwenden und zeigen, was mit ihnen geschehen wird\.“[^bible-97a68782-f046-4f6a-8a8b-df7ce36202c1] Wo Gottes Gesicht leuchtet, da ist Frieden und Freude; wo es abgewandt wird, schleicht sich das Böse ein\. Gott will nicht auf das Böse schauen, weil er gut ist\. Aber wenn er sich entscheidet, es aufgrund des menschlichen Unglaubens nicht zu sehen, ergreift das Böse Besitz von den Menschen\.
+Paulus sagt:
+„Sieh die Güte und die Strenge Gottes:
+Strenge gegen jene,
+die gefallen sind,
+Güte aber gegen dich – vorausgesetzt,
+du bleibst in dieser Güte“[^bible-8ee25fbe-5344-45ae-98f6-bdc2b0d08a1c] – was den Glauben an Christus meint\.
+Und mit Gottes Güte einher geht der Hass auf das Böse\.
+Ich stimme also zu,
+dass Gott die Ungläubigen sehr wohl bestraft,
+weil die Strafe zu ihrem Besten und zu ihrer Korrektur dient\!
+Sie ist dazu gedacht,
+jene zurückzubringen,
+die sich widersetzen – nicht,
+um sie zu vernichten\.
+Strafe ist eine Vergeltung des begangenen Bösen zum Nutzen des Bestraften\.
+Aber wie könnte er strafen wollen,
+wenn er uns doch lehrt,
+selbst für jene zu beten,
+die uns verletzen?
+Dass Gott aber gut ist,
+dem stimmt jeder zu,
+selbst wenn auch widerwillig\.
+Dass ebendieser Gott auch gerecht ist,
+bedarf nicht vieler weiterer Worte,
+wenn wir einfach auf die Stimme des Evangeliums des Herrn hören\.
+Er sagt an einer Stelle:
+„Damit sie alle eins seien,
+wie du,
+Vater,
+in mir bist und ich in dir,
+dass auch sie in uns eins seien,
+damit die Welt glaube,
+dass du mich gesandt hast\.
+Und ich habe ihnen die Herrlichkeit gegeben,
+die du mir gegeben hast,
+damit sie eins seien,
+wie wir eins sind – ich in ihnen und du in mir –,
+damit sie vollkommen eins seien\.“[^bible-4441e885-ee13-4e1c-8231-ce0b15694756]
+Nun ist Gott eins,
+und sogar jenseits der Einheit,
+und übertrifft selbst die Vorstellung,
+ein einzelnes Ding zu sein\!
+Genau deshalb zeigt das Wort „du“,
+das eine gezielte Betonung in sich trägt,
+denjenigen,
+der wahrhaftig existiert – Gott –,
+der war,
+der ist und der sein wird\.
+Diese drei Zeiten sind allesamt im Namen „Der da ist“[^bible-865c86a9-11c2-49e4-a077-55692c04dad9] eingefangen\.
+Und dass derselbe Gott,
+der allein existiert,
+auch gerecht ist,
+bestätigt der Herr im Evangelium,
+wenn er sagt:
+„Vater,
+ich will,
+dass die,
+die du mir gegeben hast,
+auch bei mir seien,
+wo ich bin,
+damit sie meine Herrlichkeit sehen,
+die du mir gegeben hast,
+weil du mich schon vor Grundlegung der Welt geliebt hast\.
+Gerechter Vater,
+die Welt hat dich nicht erkannt,
+ich aber habe dich erkannt,
+und diese haben erkannt,
+dass du mich gesandt hast\.
+Ich habe ihnen deinen Namen bekannt gemacht und werde ihn weiter bekannt machen\.“[^bible-92d8dd8d-46e9-4dec-a9bb-b5d96973ee0f]
 
-Paulus sagt: „Sieh die Güte und die Strenge Gottes: Strenge gegen jene, die gefallen sind, Güte aber gegen dich – vorausgesetzt, du bleibst in dieser Güte“[^bible-8ee25fbe-5344-45ae-98f6-bdc2b0d08a1c] – was den Glauben an Christus meint\. Und mit Gottes Güte einher geht der Hass auf das Böse\. Ich stimme also zu, dass Gott die Ungläubigen sehr wohl bestraft, weil die Strafe zu ihrem Besten und zu ihrer Korrektur dient\! Sie ist dazu gedacht, jene zurückzubringen, die sich widersetzen – nicht, um sie zu vernichten\. Strafe ist eine Vergeltung des begangenen Bösen zum Nutzen des Bestraften\. Aber wie könnte er strafen wollen, wenn er uns doch lehrt, selbst für jene zu beten, die uns verletzen? Dass Gott aber gut ist, dem stimmt jeder zu, selbst wenn auch widerwillig\. Dass ebendieser Gott auch gerecht ist, bedarf nicht vieler weiterer Worte, wenn wir einfach auf die Stimme des Evangeliums des Herrn hören\. Er sagt an einer Stelle: „Damit sie alle eins seien, wie du, Vater, in mir bist und ich in dir, dass auch sie in uns eins seien, damit die Welt glaube, dass du mich gesandt hast\. Und ich habe ihnen die Herrlichkeit gegeben, die du mir gegeben hast, damit sie eins seien, wie wir eins sind – ich in ihnen und du in mir –, damit sie vollkommen eins seien\.“[^bible-4441e885-ee13-4e1c-8231-ce0b15694756] Nun ist Gott eins, und sogar jenseits der Einheit, und übertrifft selbst die Vorstellung, ein einzelnes Ding zu sein\! Genau deshalb zeigt das Wort „du“, das eine gezielte Betonung in sich trägt, denjenigen, der wahrhaftig existiert – Gott –, der war, der ist und der sein wird\. Diese drei Zeiten sind allesamt im Namen „Der da ist“[^bible-865c86a9-11c2-49e4-a077-55692c04dad9] eingefangen\. Und dass derselbe Gott, der allein existiert, auch gerecht ist, bestätigt der Herr im Evangelium, wenn er sagt: „Vater, ich will, dass die, die du mir gegeben hast, auch bei mir seien, wo ich bin, damit sie meine Herrlichkeit sehen, die du mir gegeben hast, weil du mich schon vor Grundlegung der Welt geliebt hast\. Gerechter Vater, die Welt hat dich nicht erkannt, ich aber habe dich erkannt, und diese haben erkannt, dass du mich gesandt hast\. Ich habe ihnen deinen Namen bekannt gemacht und werde ihn weiter bekannt machen\.“[^bible-92d8dd8d-46e9-4dec-a9bb-b5d96973ee0f]
+Dies ist derjenige,
+der,
+wie die Schrift sagt,
+„die Sünden der Väter an den Kindern derer heimsucht,
+die ihn hassen,
+aber denen Barmherzigkeit erweist,
+die ihn lieben\.“[^bible-86863200-f996-49bb-8c80-0ca8637eb5ff]
+Derjenige,
+der die Menschen zur Rechten und zur Linken scheidet,
+wird als ein Vater verstanden – er ist gut,
+und er allein wird wahrhaftig gut genannt\!
+Aber als der Sohn,
+dessen Wort im Vater ist,
+wird er gerecht genannt aufgrund der Liebe,
+die zwischen ihnen geteilt wird,
+welche Macht und Gerechtigkeit vollkommen im Gleichgewicht hält\.
+„Er wird jeden nach seinen Werken richten“[^bible-59d84e42-8bd6-45c0-9373-de8532141cac],
+heißt es\.
+Gott zeigte uns Jesus als das Bild der Waage der Gerechtigkeit – einen guten und gerechten Richter –,
+damit wir durch ihn verstehen könnten,
+wie Gott ist,
+als ob von einer Waage mit gleichmäßigem Gewicht\!
+Genau deshalb sagt die Weisheit unmissverständlich:
+„Barmherzigkeit und Zorn sind bei ihm\.“[^bible-571f0460-cfcb-4233-8062-f68693189594]
+Denn der Herr ist der Einzige,
+der über beides Herr ist\.
+Er ist „der Herrscher über die Vergebung,
+der Zorn ausgießt“,
+und „so groß wie seine Barmherzigkeit,
+so ist auch seine Zurechtweisung\.“[^bible-a449475e-2c40-4003-8788-ba3672eb3baa]
+Denn sowohl Barmherzigkeit als auch Zurechtweisung zielen darauf ab,
+jene zu retten,
+die korrigiert werden\.
+Ja,
+in der Tat – Gott ist gut,
+„der Gott und Vater unseres Herrn Jesus“[^bible-eb9f40bc-0396-4ef4-9900-705679c2db08],
+und dasselbe Wort stimmt ebenfalls zu,
+wenn er sagt:
+„Er ist gütig zu den Undankbaren und Bösen“[^bible-1fe206b8-5330-4385-b913-ad5078b77aa1],
+und wiederum:
+„Seid barmherzig,
+wie auch euer Vater barmherzig ist\.“[^bible-7cb43ce2-82f9-4eee-a2c9-6d839a838fd3]
+Und wiederum,
+wenn er unmissverständlich sagt:
+„Niemand ist gut außer meinem Vater im Himmel“[^bible-21f189eb-4366-42fd-a98c-4b97537de42d],
+und weiter:
+„Mein Vater lässt seine Sonne über allen aufgehen\.“[^bible-56c08188-3c47-4386-ab5b-a65a840e1d48]
+Hier sollten wir besonders aufmerken:
+Er bekennt,
+dass sein eigener Vater – der Gute – der Schöpfer ist,
+und dass der Schöpfer gerecht ist,
+kann unmöglich geleugnet werden\!
+Und er sagt:
+„Mein Vater lässt es regnen über Gerechte und Ungerechte\.“[^bible-7075cba8-e0db-4a00-be04-cae24400cc9a]
+Weil er Regen sendet,
+ist er der Schöpfer von Wasser und Wolken\.
+Weil er ihn auf alle Menschen sendet,
+gleicht er die Dinge gerecht und ebenmäßig aus\.
+Und weil er gut ist,
+sendet er ihn gleichermaßen über die Gerechten und die Ungerechten\.
+So schlussfolgern wir also ganz klar,
+dass es ein und denselben Gott gibt,
+wie wenn die Schrift sagt:
+„Wenn ich die Himmel sehe,
+das Werk deiner Finger“[^bible-e380fb85-c6e3-48d7-a869-b8de27de3c14],
+und:
+„Derjenige,
+der die Himmel gemacht hat,
+wohnt in den Himmeln“[^bible-7e7a9653-a622-4b7c-9a00-efc858092b1b],
+und:
+„Der Himmel ist dein Thron“[^bible-622ab151-5105-498b-8e73-583825c4f1b5],
+wie der Heilige Geist sang\.
+Und der Herr sagt im Gebet:
+„Unser Vater,
+der du bist im Himmel\.“[^bible-e98ab15d-7c60-40ba-b979-77dcbebbf625]
+Die Himmel sind von demjenigen gemacht,
+der die Welt erschaffen hat\.
+Es ist also unbestreitbar,
+dass der Herr der Sohn des Schöpfers ist\!
+Wenn von allen bekannt wird,
+dass der Schöpfer gerecht ist,
+und der Herr sein Sohn ist,
+dann ist der Herr der Sohn des Gerechten\.
 
-Dies ist derjenige, der, wie die Schrift sagt, „die Sünden der Väter an den Kindern derer heimsucht, die ihn hassen, aber denen Barmherzigkeit erweist, die ihn lieben\.“[^bible-86863200-f996-49bb-8c80-0ca8637eb5ff] Derjenige, der die Menschen zur Rechten und zur Linken scheidet, wird als ein Vater verstanden – er ist gut, und er allein wird wahrhaftig gut genannt\! Aber als der Sohn, dessen Wort im Vater ist, wird er gerecht genannt aufgrund der Liebe, die zwischen ihnen geteilt wird, welche Macht und Gerechtigkeit vollkommen im Gleichgewicht hält\. „Er wird jeden nach seinen Werken richten“[^bible-59d84e42-8bd6-45c0-9373-de8532141cac], heißt es\. Gott zeigte uns Jesus als das Bild der Waage der Gerechtigkeit – einen guten und gerechten Richter –, damit wir durch ihn verstehen könnten, wie Gott ist, als ob von einer Waage mit gleichmäßigem Gewicht\! Genau deshalb sagt die Weisheit unmissverständlich: „Barmherzigkeit und Zorn sind bei ihm\.“[^bible-571f0460-cfcb-4233-8062-f68693189594]  Denn der Herr ist der Einzige, der über beides Herr ist\. Er ist „der Herrscher über die Vergebung, der Zorn ausgießt“, und „so groß wie seine Barmherzigkeit, so ist auch seine Zurechtweisung\.“[^bible-a449475e-2c40-4003-8788-ba3672eb3baa] Denn sowohl Barmherzigkeit als auch Zurechtweisung zielen darauf ab, jene zu retten, die korrigiert werden\. Ja, in der Tat – Gott ist gut, „der Gott und Vater unseres Herrn Jesus“[^bible-eb9f40bc-0396-4ef4-9900-705679c2db08], und dasselbe Wort stimmt ebenfalls zu, wenn er sagt: „Er ist gütig zu den Undankbaren und Bösen“[^bible-1fe206b8-5330-4385-b913-ad5078b77aa1], und wiederum: „Seid barmherzig, wie auch euer Vater barmherzig ist\.“[^bible-7cb43ce2-82f9-4eee-a2c9-6d839a838fd3] Und wiederum, wenn er unmissverständlich sagt: „Niemand ist gut außer meinem Vater im Himmel“[^bible-21f189eb-4366-42fd-a98c-4b97537de42d], und weiter: „Mein Vater lässt seine Sonne über allen aufgehen\.“[^bible-56c08188-3c47-4386-ab5b-a65a840e1d48] Hier sollten wir besonders aufmerken: Er bekennt, dass sein eigener Vater – der Gute – der Schöpfer ist, und dass der Schöpfer gerecht ist, kann unmöglich geleugnet werden\! Und er sagt: „Mein Vater lässt es regnen über Gerechte und Ungerechte\.“[^bible-7075cba8-e0db-4a00-be04-cae24400cc9a] Weil er Regen sendet, ist er der Schöpfer von Wasser und Wolken\. Weil er ihn auf alle Menschen sendet, gleicht er die Dinge gerecht und ebenmäßig aus\. Und weil er gut ist, sendet er ihn gleichermaßen über die Gerechten und die Ungerechten\. So schlussfolgern wir also ganz klar, dass es ein und denselben Gott gibt, wie wenn die Schrift sagt: „Wenn ich die Himmel sehe, das Werk deiner Finger“[^bible-e380fb85-c6e3-48d7-a869-b8de27de3c14], und: „Derjenige, der die Himmel gemacht hat, wohnt in den Himmeln“[^bible-7e7a9653-a622-4b7c-9a00-efc858092b1b], und: „Der Himmel ist dein Thron“[^bible-622ab151-5105-498b-8e73-583825c4f1b5], wie der Heilige Geist sang\. Und der Herr sagt im Gebet: „Unser Vater, der du bist im Himmel\.“[^bible-e98ab15d-7c60-40ba-b979-77dcbebbf625] Die Himmel sind von demjenigen gemacht, der die Welt erschaffen hat\. Es ist also unbestreitbar, dass der Herr der Sohn des Schöpfers ist\! Wenn von allen bekannt wird, dass der Schöpfer gerecht ist, und der Herr sein Sohn ist, dann ist der Herr der Sohn des Gerechten\.
-
-Genau deshalb sagt Paulus: „Nun aber ist ohne das Gesetz die Gerechtigkeit Gottes geoffenbart worden“[^bible-5854c799-8b71-4b2b-aba4-61555e50a1a5], und wiederum, damit ihr besser versteht, dass Gott gerecht ist: „Die Gerechtigkeit Gottes kommt durch den Glauben an Jesus Christus für alle, die glauben, denn da ist kein Unterschied\.“[^bible-da848c0a-e811-4789-82cb-8ae6df24633e] Und indem er diese Wahrheit wenig später bestätigt, fügt er hinzu: „In der Geduld Gottes, um zu zeigen, dass er selbst gerecht ist und derjenige, der denjenigen rechtfertigt, der den Glauben an Jesus hat\.“[^bible-02e93b86-ecf3-4663-b114-786643666cb6] Und da er weiß, dass gerecht zu sein dasselbe ist wie gut zu sein, scheint er irgendwo zu sagen: „So ist also das Gesetz heilig, und das Gebot ist heilig und gerecht und gut“[^bible-029e8c69-8bbe-473c-9f25-4bd2c3b68da5], womit er all diese Namen – heilig, gerecht und gut – unter ein und dieselbe göttliche Macht stellt\! Und niemand ist gut außer dem Vater\. Der Vater ist also ein und derselbe wie sein Sohn, was sich auf vielerlei Weise durch seine Mächte zeigt\. Und genau das bedeutet es, wenn es heißt: „Niemand kannte den Vater“[^bible-b14674f7-7f25-49ef-afa5-82f335ff74f1] – was bedeutet, dass der Vater alles ist, bis der Sohn kam\. Die Wahrheit macht also völlig unmissverständlich klar, dass es einen Gott von allem gibt – gut, gerecht, der Schöpfer, mit dem Sohn im Vater, dem die Herrlichkeit sei von Ewigkeit zu Ewigkeit\! Amen\. Aber es ist absolut nicht unangebracht, auf väterliche Weise mit dem rettenden Wort zurechtzuweisen\. Selbst das ist eine Medizin der göttlichen Liebe, aus der ein Gefühl von Bescheidenheit und Scham entspringt, das uns von der Sünde zurückhält\! Denn wenn wir korrigieren oder tadeln müssen, sollte dies genau zur richtigen Zeit geschehen, um die Seele zu verwunden – nicht tödlich, sondern auf eine Weise, die heilt und das ewige Leben um den Preis eines kleinen Schmerzes gewinnt\. Groß ist seine Weisheit darin, wie er uns schult, und seine Art, die Dinge zu lenken, ist voller Vielfalt und zielt allein darauf ab, uns zu retten\! Der Lehrer lobt das Gute, ruft diejenigen, die zu etwas Besserem eingeladen sind, und hält jene auf, die in das Böse stürzen wollen\. Er ermutigt sie, sich zu einem besseren Leben zu wandeln\. Der eine Weg wird nicht ohne den anderen gelassen: Sowohl Ermutigung als auch Warnung legen Zeugnis ab\. Seine Korrektur wird nicht von Leidenschaft oder Zorn getrieben, sondern von Liebe – wenn wir seine Warnungen überhaupt „Zorn“ nennen können\! Sein Zorn entspringt tiefer Fürsorge, da Gott um der Menschheit willen in menschliche Gefühle herabsteigt\. Genau deshalb ist das Wort Gottes sogar ein Mensch geworden – für uns\!
+Genau deshalb sagt Paulus:
+„Nun aber ist ohne das Gesetz die Gerechtigkeit Gottes geoffenbart worden“[^bible-5854c799-8b71-4b2b-aba4-61555e50a1a5],
+und wiederum,
+damit ihr besser versteht,
+dass Gott gerecht ist:
+„Die Gerechtigkeit Gottes kommt durch den Glauben an Jesus Christus für alle,
+die glauben,
+denn da ist kein Unterschied\.“[^bible-da848c0a-e811-4789-82cb-8ae6df24633e]
+Und indem er diese Wahrheit wenig später bestätigt,
+fügt er hinzu:
+„In der Geduld Gottes,
+um zu zeigen,
+dass er selbst gerecht ist und derjenige,
+der denjenigen rechtfertigt,
+der den Glauben an Jesus hat\.“[^bible-02e93b86-ecf3-4663-b114-786643666cb6]
+Und da er weiß,
+dass gerecht zu sein dasselbe ist wie gut zu sein,
+scheint er irgendwo zu sagen:
+„So ist also das Gesetz heilig,
+und das Gebot ist heilig und gerecht und gut“[^bible-029e8c69-8bbe-473c-9f25-4bd2c3b68da5],
+womit er all diese Namen – heilig,
+gerecht und gut – unter ein und dieselbe göttliche Macht stellt\!
+Und niemand ist gut außer dem Vater\.
+Der Vater ist also ein und derselbe wie sein Sohn,
+was sich auf vielerlei Weise durch seine Mächte zeigt\.
+Und genau das bedeutet es,
+wenn es heißt:
+„Niemand kannte den Vater“[^bible-b14674f7-7f25-49ef-afa5-82f335ff74f1] – was bedeutet,
+dass der Vater alles ist,
+bis der Sohn kam\.
+Die Wahrheit macht also völlig unmissverständlich klar,
+dass es einen Gott von allem gibt – gut,
+gerecht,
+der Schöpfer,
+mit dem Sohn im Vater,
+dem die Herrlichkeit sei von Ewigkeit zu Ewigkeit\!
+Amen\.
+Aber es ist absolut nicht unangebracht,
+auf väterliche Weise mit dem rettenden Wort zurechtzuweisen\.
+Selbst das ist eine Medizin der göttlichen Liebe,
+aus der ein Gefühl von Bescheidenheit und Scham entspringt,
+das uns von der Sünde zurückhält\!
+Denn wenn wir korrigieren oder tadeln müssen,
+sollte dies genau zur richtigen Zeit geschehen,
+um die Seele zu verwunden – nicht tödlich,
+sondern auf eine Weise,
+die heilt und das ewige Leben um den Preis eines kleinen Schmerzes gewinnt\.
+Groß ist seine Weisheit darin,
+wie er uns schult,
+und seine Art,
+die Dinge zu lenken,
+ist voller Vielfalt und zielt allein darauf ab,
+uns zu retten\!
+Der Lehrer lobt das Gute,
+ruft diejenigen,
+die zu etwas Besserem eingeladen sind,
+und hält jene auf,
+die in das Böse stürzen wollen\.
+Er ermutigt sie,
+sich zu einem besseren Leben zu wandeln\.
+Der eine Weg wird nicht ohne den anderen gelassen:
+Sowohl Ermutigung als auch Warnung legen Zeugnis ab\.
+Seine Korrektur wird nicht von Leidenschaft oder Zorn getrieben,
+sondern von Liebe – wenn wir seine Warnungen überhaupt „Zorn“ nennen können\!
+Sein Zorn entspringt tiefer Fürsorge,
+da Gott um der Menschheit willen in menschliche Gefühle herabsteigt\.
+Genau deshalb ist das Wort Gottes sogar ein Mensch geworden – für uns\!
 
 ## Bibelverweise
 

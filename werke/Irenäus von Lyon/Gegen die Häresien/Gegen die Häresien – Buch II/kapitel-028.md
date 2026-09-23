@@ -7,25 +7,463 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-ii#kapitel-a9b1f70e-a369-48b3-0358-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:07136d127027ddce366de038eb8d9eae3dbb27b4b1ffe9cc727180d4a777acf0`
+Da wir also die Wahrheit selbst als Maßstab haben und das Zeugnis über Gott klar vor Augen steht,
+dürfen wir die feste und wahre Erkenntnis Gottes nicht wegwerfen,
+indem wir zahlreichen und verschiedenartigen Antworten auf Fragen nachlaufen\.
+Viel angemessener ist es vielmehr,
+wenn wir unsere Untersuchungen auf diese Weise ausrichten:
+Wir sollen uns in der Erforschung des Geheimnisses und der Heilsordnung des lebendigen Gottes üben und in der Liebe zu dem wachsen,
+der so Großes für uns getan hat und noch immer tut;
+niemals aber sollen wir von dem Glauben abfallen,
+durch den mit größter Klarheit verkündet wird:
+Dieses Wesen allein ist wahrhaft Gott und Vater\.
+Er hat diese Welt gebildet,
+den Menschen geformt,
+seinem eigenen Geschöpf die Fähigkeit zum Wachsen gegeben und ihn von den geringeren Dingen hinaufgerufen zu den größeren,
+die in seiner eigenen Gegenwart sind,
+so wie er ein Kind,
+das im Mutterleib empfangen wurde,
+ans Licht der Sonne bringt und den Weizen,
+nachdem er ihm am Halm volle Kraft gegeben hat,
+in der Scheune birgt\.
+Es ist ein und derselbe Schöpfer,
+der den Mutterleib geformt und die Sonne geschaffen hat;
+und es ist ein und derselbe Herr,
+der den Getreidehalm aufwachsen ließ,
+den Weizen wachsen ließ und mehrte und die Scheune bereitete\.
 
-Da wir also die Wahrheit selbst als Maßstab haben und das Zeugnis über Gott klar vor Augen steht, dürfen wir die feste und wahre Erkenntnis Gottes nicht wegwerfen, indem wir zahlreichen und verschiedenartigen Antworten auf Fragen nachlaufen\. Viel angemessener ist es vielmehr, wenn wir unsere Untersuchungen auf diese Weise ausrichten: Wir sollen uns in der Erforschung des Geheimnisses und der Heilsordnung des lebendigen Gottes üben und in der Liebe zu dem wachsen, der so Großes für uns getan hat und noch immer tut; niemals aber sollen wir von dem Glauben abfallen, durch den mit größter Klarheit verkündet wird: Dieses Wesen allein ist wahrhaft Gott und Vater\. Er hat diese Welt gebildet, den Menschen geformt, seinem eigenen Geschöpf die Fähigkeit zum Wachsen gegeben und ihn von den geringeren Dingen hinaufgerufen zu den größeren, die in seiner eigenen Gegenwart sind, so wie er ein Kind, das im Mutterleib empfangen wurde, ans Licht der Sonne bringt und den Weizen, nachdem er ihm am Halm volle Kraft gegeben hat, in der Scheune birgt\. Es ist ein und derselbe Schöpfer, der den Mutterleib geformt und die Sonne geschaffen hat; und es ist ein und derselbe Herr, der den Getreidehalm aufwachsen ließ, den Weizen wachsen ließ und mehrte und die Scheune bereitete\.
+Wenn wir jedoch nicht für alles in der Schrift,
+was untersucht wird,
+Erklärungen finden können,
+dann sollen wir deshalb keinen anderen Gott suchen als den,
+der wirklich ist\.
+Denn das wäre die allergrößte Gottlosigkeit\.
+Solche Dinge sollen wir Gott überlassen,
+der uns geschaffen hat,
+in der rechten Gewissheit,
+dass die Schriften wirklich vollkommen sind,
+da sie vom Wort Gottes und von seinem Geist gesprochen wurden;
+wir aber stehen unter dem Wort Gottes und seinem Geist und sind später ins Dasein gekommen als sie\.
+Eben deshalb fehlt uns die Erkenntnis der göttlichen Geheimnisse\.
+Und es ist kein Grund zur Verwunderung,
+wenn es sich bei uns so verhält im Blick auf geistliche und himmlische Dinge und auf solche,
+die uns durch Offenbarung bekannt gemacht werden müssen\.
+Denn viele sogar von den Dingen,
+die unmittelbar vor unseren Füßen liegen,
+ich meine die Dinge dieser Welt,
+die wir anfassen und sehen und mit denen wir in nächster Berührung stehen,
+übersteigen unser Wissen,
+sodass wir auch sie Gott überlassen müssen\.
+Denn es ist angemessen,
+dass er alle an Erkenntnis überragt\.
+Wie steht es denn zum Beispiel,
+wenn wir versuchen,
+die Ursache für das Steigen des Nil zu erklären?
+Wir können darüber vieles sagen,
+manches einleuchtend,
+manches weniger;
+doch was daran wahr,
+sicher und unwiderlegbar ist,
+gehört allein Gott\.
+Ebenso entzieht sich uns der Aufenthaltsort der Vögel,
+ich meine derer,
+die im Frühling zu uns kommen,
+beim Herannahen des Herbstes aber wieder fortfliegen,
+obwohl auch dies eine Sache dieser Welt ist\.
+Welche Erklärung können wir wiederum für Flut und Ebbe des Meeres geben,
+obwohl doch jeder zugibt,
+dass es dafür eine bestimmte Ursache geben muss?
+Oder was können wir über die Natur der Dinge sagen,
+die jenseits davon liegen?
+Was können wir ferner sagen über die Bildung von Regen,
+Blitz,
+Donner,
+Wolkenansammlungen,
+Dämpfen,
+das Hervorbrechen der Winde und dergleichen;
+oder was können wir über die Vorratskammern von Schnee,
+Hagel und ähnlichen Dingen mitteilen?
+Was wissen wir über die Bedingungen,
+die für die Entstehung von Wolken nötig sind,
+oder darüber,
+was die Dämpfe am Himmel ihrem Wesen nach wirklich sind?
+Was über den Grund,
+weshalb der Mond zunimmt und abnimmt,
+oder über die Ursache der unterschiedlichen Beschaffenheit der verschiedenen Wasser,
+Metalle,
+Steine und ähnlicher Dinge?
+Über all diese Punkte können wir zwar vieles sagen,
+wenn wir ihre Ursachen erforschen;
+doch die Wahrheit über sie kann allein Gott verbindlich kundtun,
+der sie gemacht hat\.
 
-Wenn wir jedoch nicht für alles in der Schrift, was untersucht wird, Erklärungen finden können, dann sollen wir deshalb keinen anderen Gott suchen als den, der wirklich ist\. Denn das wäre die allergrößte Gottlosigkeit\. Solche Dinge sollen wir Gott überlassen, der uns geschaffen hat, in der rechten Gewissheit, dass die Schriften wirklich vollkommen sind, da sie vom Wort Gottes und von seinem Geist gesprochen wurden; wir aber stehen unter dem Wort Gottes und seinem Geist und sind später ins Dasein gekommen als sie\. Eben deshalb fehlt uns die Erkenntnis der göttlichen Geheimnisse\. Und es ist kein Grund zur Verwunderung, wenn es sich bei uns so verhält im Blick auf geistliche und himmlische Dinge und auf solche, die uns durch Offenbarung bekannt gemacht werden müssen\. Denn viele sogar von den Dingen, die unmittelbar vor unseren Füßen liegen, ich meine die Dinge dieser Welt, die wir anfassen und sehen und mit denen wir in nächster Berührung stehen, übersteigen unser Wissen, sodass wir auch sie Gott überlassen müssen\. Denn es ist angemessen, dass er alle an Erkenntnis überragt\. Wie steht es denn zum Beispiel, wenn wir versuchen, die Ursache für das Steigen des Nil zu erklären? Wir können darüber vieles sagen, manches einleuchtend, manches weniger; doch was daran wahr, sicher und unwiderlegbar ist, gehört allein Gott\. Ebenso entzieht sich uns der Aufenthaltsort der Vögel, ich meine derer, die im Frühling zu uns kommen, beim Herannahen des Herbstes aber wieder fortfliegen, obwohl auch dies eine Sache dieser Welt ist\. Welche Erklärung können wir wiederum für Flut und Ebbe des Meeres geben, obwohl doch jeder zugibt, dass es dafür eine bestimmte Ursache geben muss? Oder was können wir über die Natur der Dinge sagen, die jenseits davon liegen? Was können wir ferner sagen über die Bildung von Regen, Blitz, Donner, Wolkenansammlungen, Dämpfen, das Hervorbrechen der Winde und dergleichen; oder was können wir über die Vorratskammern von Schnee, Hagel und ähnlichen Dingen mitteilen? Was wissen wir über die Bedingungen, die für die Entstehung von Wolken nötig sind, oder darüber, was die Dämpfe am Himmel ihrem Wesen nach wirklich sind? Was über den Grund, weshalb der Mond zunimmt und abnimmt, oder über die Ursache der unterschiedlichen Beschaffenheit der verschiedenen Wasser, Metalle, Steine und ähnlicher Dinge? Über all diese Punkte können wir zwar vieles sagen, wenn wir ihre Ursachen erforschen; doch die Wahrheit über sie kann allein Gott verbindlich kundtun, der sie gemacht hat\.
+Wenn es also schon in Bezug auf die Schöpfung manches gibt,
+dessen Erkenntnis allein Gott zukommt,
+anderes aber in den Bereich unseres eigenen Wissens fällt,
+welchen Grund zur Klage gibt es dann,
+wenn wir bei den Dingen,
+die wir in den Schriften untersuchen,
+die ganz und gar geistlich sind,
+durch die Gnade Gottes einiges erklären können,
+anderes aber in Gottes Händen lassen müssen,
+und zwar nicht nur in der gegenwärtigen Welt,
+sondern auch in der kommenden,
+sodass Gott für immer lehrt und der Mensch für immer lernt,
+was Gott ihn lehrt?
+Der Apostel hat dazu gesagt,
+dass,
+wenn anderes vergangen ist,
+diese drei bleiben werden:
+„Glaube,
+Hoffnung und Liebe[^bible-e69519a1-86d3-4b51-9c98-e755e7fa5d75]\.“
+Denn der Glaube,
+der auf unseren Meister ausgerichtet ist,
+bleibt unveränderlich bestehen;
+er macht uns gewiss,
+dass es nur einen wahren Gott gibt und dass wir ihn für immer wirklich lieben sollen,
+weil er allein unser Vater ist\.
+Zugleich hoffen wir,
+immer mehr und mehr von Gott zu empfangen und von ihm zu lernen,
+weil er gut ist und grenzenlose Reichtümer besitzt,
+ein Reich ohne Ende und eine Lehre,
+die niemals ausgeschöpft werden kann\.
+Wenn wir also nach der Regel,
+die ich dargelegt habe,
+manche Fragen in Gottes Händen lassen,
+werden wir zugleich unseren Glauben unversehrt bewahren und ohne Gefahr bleiben;
+und die ganze Schrift,
+die uns von Gott gegeben ist,
+wird sich uns als vollkommen stimmig erweisen\.
+Die Gleichnisse werden mit den Stellen übereinstimmen,
+die ganz klar sind;
+und die Aussagen,
+deren Sinn offen zutage liegt,
+werden dazu dienen,
+die Gleichnisse zu erklären\.
+Und durch die vielen verschiedenartigen Worte der Schrift wird in uns eine einzige,
+wohlklingende Melodie zu hören sein,
+die in Hymnen den Gott preist,
+der alles geschaffen hat\.
+Wenn zum Beispiel jemand fragt:
+„Was tat Gott,
+bevor er die Welt machte?“,
+antworten wir:
+Die Antwort auf eine solche Frage liegt bei Gott selbst\.
+Denn dass diese Welt von Gott vollkommen gebildet wurde und in der Zeit einen Anfang empfing,
+lehren uns die Schriften;
+aber keine Schrift offenbart uns,
+womit Gott vor diesem Ereignis beschäftigt war\.
+Die Antwort auf diese Frage bleibt also bei Gott,
+und es ist nicht recht,
+wenn wir darauf aus sind,
+dumme,
+leichtfertige und gotteslästerliche Mutmaßungen vorzubringen,
+sodass jemand,
+indem er meint,
+er habe den Ursprung der Materie entdeckt,
+in Wahrheit Gott selbst beiseitesetzen würde,
+der alles gemacht hat\.
 
-Wenn es also schon in Bezug auf die Schöpfung manches gibt, dessen Erkenntnis allein Gott zukommt, anderes aber in den Bereich unseres eigenen Wissens fällt, welchen Grund zur Klage gibt es dann, wenn wir bei den Dingen, die wir in den Schriften untersuchen, die ganz und gar geistlich sind, durch die Gnade Gottes einiges erklären können, anderes aber in Gottes Händen lassen müssen, und zwar nicht nur in der gegenwärtigen Welt, sondern auch in der kommenden, sodass Gott für immer lehrt und der Mensch für immer lernt, was Gott ihn lehrt? Der Apostel hat dazu gesagt, dass, wenn anderes vergangen ist, diese drei bleiben werden: „Glaube, Hoffnung und Liebe[^bible-e69519a1-86d3-4b51-9c98-e755e7fa5d75]\.“ Denn der Glaube, der auf unseren Meister ausgerichtet ist, bleibt unveränderlich bestehen; er macht uns gewiss, dass es nur einen wahren Gott gibt und dass wir ihn für immer wirklich lieben sollen, weil er allein unser Vater ist\. Zugleich hoffen wir, immer mehr und mehr von Gott zu empfangen und von ihm zu lernen, weil er gut ist und grenzenlose Reichtümer besitzt, ein Reich ohne Ende und eine Lehre, die niemals ausgeschöpft werden kann\. Wenn wir also nach der Regel, die ich dargelegt habe, manche Fragen in Gottes Händen lassen, werden wir zugleich unseren Glauben unversehrt bewahren und ohne Gefahr bleiben; und die ganze Schrift, die uns von Gott gegeben ist, wird sich uns als vollkommen stimmig erweisen\. Die Gleichnisse werden mit den Stellen übereinstimmen, die ganz klar sind; und die Aussagen, deren Sinn offen zutage liegt, werden dazu dienen, die Gleichnisse zu erklären\. Und durch die vielen verschiedenartigen Worte der Schrift wird in uns eine einzige, wohlklingende Melodie zu hören sein, die in Hymnen den Gott preist, der alles geschaffen hat\. Wenn zum Beispiel jemand fragt: „Was tat Gott, bevor er die Welt machte?“, antworten wir: Die Antwort auf eine solche Frage liegt bei Gott selbst\. Denn dass diese Welt von Gott vollkommen gebildet wurde und in der Zeit einen Anfang empfing, lehren uns die Schriften; aber keine Schrift offenbart uns, womit Gott vor diesem Ereignis beschäftigt war\. Die Antwort auf diese Frage bleibt also bei Gott, und es ist nicht recht, wenn wir darauf aus sind, dumme, leichtfertige und gotteslästerliche Mutmaßungen vorzubringen, sodass jemand, indem er meint, er habe den Ursprung der Materie entdeckt, in Wahrheit Gott selbst beiseitesetzen würde, der alles gemacht hat\.
+Denn bedenkt doch,
+ihr alle,
+die ihr solche Ansichten erfindet:
+Da der Vater selbst allein Gott genannt wird,
+der wirkliches Sein hat,
+während ihr ihn den Demiurgen nennt;
+da überdies die Schriften ihn allein als Gott anerkennen;
+und da wiederum der Herr ihn allein als seinen eigenen Vater bekennt und keinen anderen kennt,
+wie ich aus seinen eigenen Worten zeigen werde — wenn ihr eben dieses Wesen die Frucht eines Mangels und den Spross der Unwissenheit nennt,
+wenn ihr von ihm sagt,
+er kenne das nicht,
+was über ihm ist,
+und all die anderen Behauptungen über ihn aufstellt —,
+dann bedenkt,
+welche furchtbare Gotteslästerung ihr gegen den begeht,
+der wahrhaft Gott ist\.
+Ihr scheint ernst und redlich genug zu versichern,
+dass ihr an Gott glaubt;
+weil ihr aber ganz und gar unfähig seid,
+irgendeinen anderen Gott aufzuweisen,
+erklärt ihr eben den,
+an den ihr zu glauben bekennt,
+zur Frucht eines Mangels und zum Spross der Unwissenheit\.
+Diese Blindheit und dieses dumme Gerede kommen daher,
+dass ihr Gott nichts vorbehaltet,
+sondern Geburt und Hervorbringung sowohl Gottes selbst als auch seiner Ennoia,
+seines Logos,
+des Lebens und des Christus verkünden wollt;
+und eure Vorstellung davon gewinnt ihr aus nichts anderem als aus bloßer menschlicher Erfahrung\.
+Ihr versteht nicht,
+was ich schon früher gesagt habe:
+Beim Menschen,
+der ein zusammengesetztes Wesen ist,
+kann man in dieser Weise vom Geist des Menschen und vom Gedanken des Menschen sprechen und sagen,
+dass der Gedanke,
+die ennoia,
+aus dem Geist,
+dem sensus,
+hervorgeht,
+dass wiederum die Absicht,
+die enthymesis,
+aus dem Gedanken entsteht und dass das Wort,
+der logos,
+aus der Absicht kommt\.
+Aber welcher logos?
+Denn bei den Griechen gibt es den einen logos,
+der das denkende Prinzip ist,
+und einen anderen,
+der das Werkzeug ist,
+durch das der Gedanke ausgesprochen wird\.
+Auch kann man sagen,
+dass ein Mensch zuweilen ruht und schweigt,
+zu anderen Zeiten aber spricht und tätig ist\.
+Da Gott aber ganz Geist,
+ganz Logos\-Vernunft,
+ganz tätiger Geist und ganz Licht ist und immer als ein und derselbe besteht — wie es für uns heilsam ist,
+von Gott zu denken,
+und wie wir es über ihn aus den Schriften lernen —,
+können ihm solche Regungen und Teilungen des Wirkens nicht angemessen zugeschrieben werden\.
+Denn unsere Zunge ist fleischlich und reicht nicht aus,
+der Schnelligkeit des menschlichen Geistes zu dienen,
+weil dieser geistiger Natur ist\.
+Deshalb wird unser Wort in uns zurückgehalten und nicht sofort so ausgesprochen,
+wie es im Geist gedanklich gefasst wurde,
+sondern in aufeinanderfolgenden Anläufen hervorgebracht,
+so wie die Zunge ihm dienen kann\.
 
-Denn bedenkt doch, ihr alle, die ihr solche Ansichten erfindet: Da der Vater selbst allein Gott genannt wird, der wirkliches Sein hat, während ihr ihn den Demiurgen nennt; da überdies die Schriften ihn allein als Gott anerkennen; und da wiederum der Herr ihn allein als seinen eigenen Vater bekennt und keinen anderen kennt, wie ich aus seinen eigenen Worten zeigen werde — wenn ihr eben dieses Wesen die Frucht eines Mangels und den Spross der Unwissenheit nennt, wenn ihr von ihm sagt, er kenne das nicht, was über ihm ist, und all die anderen Behauptungen über ihn aufstellt —, dann bedenkt, welche furchtbare Gotteslästerung ihr gegen den begeht, der wahrhaft Gott ist\. Ihr scheint ernst und redlich genug zu versichern, dass ihr an Gott glaubt; weil ihr aber ganz und gar unfähig seid, irgendeinen anderen Gott aufzuweisen, erklärt ihr eben den, an den ihr zu glauben bekennt, zur Frucht eines Mangels und zum Spross der Unwissenheit\. Diese Blindheit und dieses dumme Gerede kommen daher, dass ihr Gott nichts vorbehaltet, sondern Geburt und Hervorbringung sowohl Gottes selbst als auch seiner Ennoia, seines Logos, des Lebens und des Christus verkünden wollt; und eure Vorstellung davon gewinnt ihr aus nichts anderem als aus bloßer menschlicher Erfahrung\. Ihr versteht nicht, was ich schon früher gesagt habe: Beim Menschen, der ein zusammengesetztes Wesen ist, kann man in dieser Weise vom Geist des Menschen und vom Gedanken des Menschen sprechen und sagen, dass der Gedanke, die ennoia, aus dem Geist, dem sensus, hervorgeht, dass wiederum die Absicht, die enthymesis, aus dem Gedanken entsteht und dass das Wort, der logos, aus der Absicht kommt\. Aber welcher logos? Denn bei den Griechen gibt es den einen logos, der das denkende Prinzip ist, und einen anderen, der das Werkzeug ist, durch das der Gedanke ausgesprochen wird\. Auch kann man sagen, dass ein Mensch zuweilen ruht und schweigt, zu anderen Zeiten aber spricht und tätig ist\. Da Gott aber ganz Geist, ganz Logos\-Vernunft, ganz tätiger Geist und ganz Licht ist und immer als ein und derselbe besteht — wie es für uns heilsam ist, von Gott zu denken, und wie wir es über ihn aus den Schriften lernen —, können ihm solche Regungen und Teilungen des Wirkens nicht angemessen zugeschrieben werden\. Denn unsere Zunge ist fleischlich und reicht nicht aus, der Schnelligkeit des menschlichen Geistes zu dienen, weil dieser geistiger Natur ist\. Deshalb wird unser Wort in uns zurückgehalten und nicht sofort so ausgesprochen, wie es im Geist gedanklich gefasst wurde, sondern in aufeinanderfolgenden Anläufen hervorgebracht, so wie die Zunge ihm dienen kann\.
+Gott aber ist ganz Geist und ganz Logos;
+darum spricht er genau das,
+was er denkt,
+und denkt genau das,
+was er spricht\.
+Denn sein Denken ist Logos,
+und der Logos ist Geist;
+und der Geist,
+der alles umfasst,
+ist der Vater selbst\.
+Wer also vom Geist Gottes spricht und ihm einen eigenen besonderen Ursprung zuschreibt,
+erklärt Gott zu einem zusammengesetzten Wesen,
+als wäre Gott das eine und der ursprüngliche Geist etwas anderes\.
+Ebenso steht es mit dem Logos:
+Wenn jemand dem Logos die dritte Stelle in der Hervorbringung vom Vater zuschreibt,
+zeigt er damit,
+dass er dessen Größe nicht kennt;
+so ist der Logos weit von Gott getrennt\.
+Über ihn sagt der Prophet:
+„Wer wird seine Geburt beschreiben?[^bible-59b8f433-1535-4f18-8d88-60d3980644ab]“ Ihr aber maßt euch an,
+seine Geburt aus dem Vater darzustellen,
+und übertragt die Hervorbringung des menschlichen Wortes,
+die durch die Zunge geschieht,
+auf das Wort Gottes\.
+So stellt ihr euch mit Recht selbst bloß:
+Ihr kennt weder Menschliches noch Göttliches\.
 
-Gott aber ist ganz Geist und ganz Logos; darum spricht er genau das, was er denkt, und denkt genau das, was er spricht\. Denn sein Denken ist Logos, und der Logos ist Geist; und der Geist, der alles umfasst, ist der Vater selbst\. Wer also vom Geist Gottes spricht und ihm einen eigenen besonderen Ursprung zuschreibt, erklärt Gott zu einem zusammengesetzten Wesen, als wäre Gott das eine und der ursprüngliche Geist etwas anderes\. Ebenso steht es mit dem Logos: Wenn jemand dem Logos die dritte Stelle in der Hervorbringung vom Vater zuschreibt, zeigt er damit, dass er dessen Größe nicht kennt; so ist der Logos weit von Gott getrennt\. Über ihn sagt der Prophet: „Wer wird seine Geburt beschreiben?[^bible-59b8f433-1535-4f18-8d88-60d3980644ab]“ Ihr aber maßt euch an, seine Geburt aus dem Vater darzustellen, und übertragt die Hervorbringung des menschlichen Wortes, die durch die Zunge geschieht, auf das Wort Gottes\. So stellt ihr euch mit Recht selbst bloß: Ihr kennt weder Menschliches noch Göttliches\.
+Ihr aber,
+über jedes Maß aufgeblasen von eurer eigenen Weisheit,
+behauptet vermessen,
+ihr kenntet die unaussprechlichen Geheimnisse Gottes;
+während sogar der Herr,
+der Sohn Gottes selbst,
+zugestanden hat,
+dass allein der Vater den Tag und die Stunde des Gerichts kennt,
+indem er klar erklärte:
+„Von jenem Tag aber und jener Stunde weiß niemand,
+auch nicht der Sohn,
+sondern nur der Vater[^bible-351b7708-5648-4436-bdfe-e4ade1104524]\.“
+Wenn also der Sohn sich nicht schämte,
+das Wissen um jenen Tag allein dem Vater zuzuschreiben,
+sondern in dieser Sache die Wahrheit sagte,
+dann sollen auch wir uns nicht schämen,
+die größeren Fragen,
+die sich uns stellen können,
+Gott vorzubehalten\.
+Denn kein Mensch steht über seinem Meister[^bible-1734595b-8a15-4f78-8099-3e4bbff9878a]\.
+Wenn uns also jemand fragt:
+„Wie wurde denn der Sohn vom Vater hervorgebracht?“,
+antworten wir ihm:
+Diese Hervorbringung oder Geburt oder Berufung oder Offenbarung,
+oder mit welchem Namen man seine Geburt auch beschreiben mag,
+versteht kein Mensch;
+denn sie ist tatsächlich ganz und gar unbeschreiblich\.
+Weder Valentinus noch Marcion noch Saturninus noch Basilides,
+weder Engel noch Erzengel,
+weder Fürstentümer noch Mächte besitzen dieses Wissen,
+sondern nur der Vater,
+der gezeugt hat,
+und der Sohn,
+der gezeugt wurde\.
+Da also seine Geburt unaussprechlich ist,
+können jene,
+die sich bemühen,
+Geburten und Hervorbringungen darzustellen,
+nicht bei Verstand sein;
+denn sie nehmen sich vor,
+Dinge zu beschreiben,
+die unbeschreiblich sind\.
+Dass ein Wort auf Geheiß von Denken und Geist ausgesprochen wird,
+versteht freilich jeder Mensch\.
+Die also die Theorie der Ausströmungen ersonnen haben,
+haben nichts Großes entdeckt und kein verborgenes Geheimnis offenbart,
+wenn sie einfach das,
+was alle verstehen,
+auf den einziggeborenen Logos Gottes übertragen\.
+Und während sie ihn unaussprechlich und unnennbar nennen,
+stellen sie dennoch die Hervorbringung und Bildung seiner ersten Geburt dar,
+als wären sie selbst bei seiner Geburt dabei gewesen;
+so machen sie ihn dem Menschenwort gleich,
+das durch Ausströmungen gebildet wird\.
 
-Ihr aber, über jedes Maß aufgeblasen von eurer eigenen Weisheit, behauptet vermessen, ihr kenntet die unaussprechlichen Geheimnisse Gottes; während sogar der Herr, der Sohn Gottes selbst, zugestanden hat, dass allein der Vater den Tag und die Stunde des Gerichts kennt, indem er klar erklärte: „Von jenem Tag aber und jener Stunde weiß niemand, auch nicht der Sohn, sondern nur der Vater[^bible-351b7708-5648-4436-bdfe-e4ade1104524]\.“ Wenn also der Sohn sich nicht schämte, das Wissen um jenen Tag allein dem Vater zuzuschreiben, sondern in dieser Sache die Wahrheit sagte, dann sollen auch wir uns nicht schämen, die größeren Fragen, die sich uns stellen können, Gott vorzubehalten\. Denn kein Mensch steht über seinem Meister[^bible-1734595b-8a15-4f78-8099-3e4bbff9878a]\. Wenn uns also jemand fragt: „Wie wurde denn der Sohn vom Vater hervorgebracht?“, antworten wir ihm: Diese Hervorbringung oder Geburt oder Berufung oder Offenbarung, oder mit welchem Namen man seine Geburt auch beschreiben mag, versteht kein Mensch; denn sie ist tatsächlich ganz und gar unbeschreiblich\. Weder Valentinus noch Marcion noch Saturninus noch Basilides, weder Engel noch Erzengel, weder Fürstentümer noch Mächte besitzen dieses Wissen, sondern nur der Vater, der gezeugt hat, und der Sohn, der gezeugt wurde\. Da also seine Geburt unaussprechlich ist, können jene, die sich bemühen, Geburten und Hervorbringungen darzustellen, nicht bei Verstand sein; denn sie nehmen sich vor, Dinge zu beschreiben, die unbeschreiblich sind\. Dass ein Wort auf Geheiß von Denken und Geist ausgesprochen wird, versteht freilich jeder Mensch\. Die also die Theorie der Ausströmungen ersonnen haben, haben nichts Großes entdeckt und kein verborgenes Geheimnis offenbart, wenn sie einfach das, was alle verstehen, auf den einziggeborenen Logos Gottes übertragen\. Und während sie ihn unaussprechlich und unnennbar nennen, stellen sie dennoch die Hervorbringung und Bildung seiner ersten Geburt dar, als wären sie selbst bei seiner Geburt dabei gewesen; so machen sie ihn dem Menschenwort gleich, das durch Ausströmungen gebildet wird\.
+Doch wir irren nicht,
+wenn wir dasselbe auch von der Substanz der Materie sagen:
+Gott hat sie hervorgebracht\.
+Denn aus den Schriften haben wir gelernt,
+dass Gott über alles die höchste Herrschaft innehat\.
+Woher aber oder auf welche Weise er sie hervorgebracht hat,
+das hat die Schrift nirgends erklärt;
+und es steht uns nicht zu,
+darüber Mutmaßungen anzustellen,
+sodass wir nach unseren eigenen Meinungen endlose Vermutungen über Gott bilden\.
+Vielmehr sollen wir solches Wissen Gott selbst überlassen\.
+Ebenso müssen wir auch die Ursache Gott und seinem Logos überlassen,
+warum,
+obwohl alles von Gott geschaffen wurde,
+gewisse seiner Geschöpfe sündigten und aus dem Zustand der Unterordnung unter Gott abfielen,
+während andere,
+ja die große Mehrheit,
+in williger Unterwerfung unter den,
+der sie gebildet hat,
+ausharrten und noch immer ausharren;
+ebenso auch,
+welcher Art die sind,
+die sündigten,
+und welcher Art die sind,
+die ausharren\.
+Ihm allein hat er gesagt:
+„Sitz zu meiner Rechten,
+bis ich deine Feinde zum Schemel deiner Füße mache[^bible-f641c0be-3d0e-4f07-92ca-55f18672c8f6]\.“
+Wir aber wohnen noch auf der Erde und haben uns noch nicht auf seinen Thron gesetzt\.
+Denn obwohl der Geist des Erlösers,
+der in ihm ist,
+„alles erforscht,
+auch die Tiefen Gottes[^bible-b2f25301-68e6-4c07-ad94-0a02a9db588e]“,
+gibt es doch,
+was uns betrifft,
+„Verschiedenheiten der Gaben,
+Unterschiede der Dienste und Verschiedenheiten der Wirkungen[^bible-85520fca-b824-4835-93f1-2020996d4df0]“;
+und wir erkennen,
+solange wir auf der Erde sind,
+wie auch Paulus erklärt,
+„zum Teil und weissagen zum Teil[^bible-cc9a212e-7fdc-43d0-a4cb-e7b17e548137]“\.
+Da wir also nur zum Teil erkennen,
+sollen wir alle Arten schwieriger Fragen dem überlassen,
+der uns nur in einem gewissen Maß Gnade schenkt\.
+Dass ewiges Feuer für Sünder bereitet ist,
+hat sowohl der Herr deutlich erklärt als auch der übrige Teil der Schriften dargelegt\.
+Und dass Gott im Voraus wusste,
+dass dies geschehen würde,
+zeigen die Schriften ebenso,
+da er von Anfang an ewiges Feuer für die bereitete,
+die später seine Gebote übertreten würden\.
+Die Ursache aber für die Natur solcher Übertreter hat uns weder irgendeine Schrift mitgeteilt,
+noch hat ein Apostel sie uns gesagt,
+noch hat der Herr sie uns gelehrt\.
+Darum steht es uns zu,
+das Wissen um diese Sache Gott zu überlassen,
+so wie der Herr es mit dem Tag und der Stunde des Gerichts tut;
+und wir dürfen uns nicht in eine solche Gefahr stürzen,
+dass wir nichts in Gottes Händen lassen wollen,
+obwohl wir nur ein Maß an Gnade von ihm in dieser Welt empfangen haben\.
+Wenn wir aber Punkte untersuchen,
+die über uns liegen und bei denen wir zu keiner befriedigenden Einsicht gelangen können,
+ist es widersinnig,
+ein solches Übermaß an Anmaßung zu zeigen,
+dass wir Gott und Dinge,
+die noch nicht entdeckt sind,
+offenlegen wollten,
+als hätten wir durch das leere Gerede von Ausströmungen Gott selbst,
+den Schöpfer aller Dinge,
+schon ausfindig gemacht,
+und zu behaupten,
+er habe seine Substanz aus Abfall und Unwissenheit abgeleitet,
+um so eine gottlose Annahme gegen Gott zu errichten\.
 
-Doch wir irren nicht, wenn wir dasselbe auch von der Substanz der Materie sagen: Gott hat sie hervorgebracht\. Denn aus den Schriften haben wir gelernt, dass Gott über alles die höchste Herrschaft innehat\. Woher aber oder auf welche Weise er sie hervorgebracht hat, das hat die Schrift nirgends erklärt; und es steht uns nicht zu, darüber Mutmaßungen anzustellen, sodass wir nach unseren eigenen Meinungen endlose Vermutungen über Gott bilden\. Vielmehr sollen wir solches Wissen Gott selbst überlassen\. Ebenso müssen wir auch die Ursache Gott und seinem Logos überlassen, warum, obwohl alles von Gott geschaffen wurde, gewisse seiner Geschöpfe sündigten und aus dem Zustand der Unterordnung unter Gott abfielen, während andere, ja die große Mehrheit, in williger Unterwerfung unter den, der sie gebildet hat, ausharrten und noch immer ausharren; ebenso auch, welcher Art die sind, die sündigten, und welcher Art die sind, die ausharren\. Ihm allein hat er gesagt: „Sitz zu meiner Rechten, bis ich deine Feinde zum Schemel deiner Füße mache[^bible-f641c0be-3d0e-4f07-92ca-55f18672c8f6]\.“ Wir aber wohnen noch auf der Erde und haben uns noch nicht auf seinen Thron gesetzt\. Denn obwohl der Geist des Erlösers, der in ihm ist, „alles erforscht, auch die Tiefen Gottes[^bible-b2f25301-68e6-4c07-ad94-0a02a9db588e]“, gibt es doch, was uns betrifft, „Verschiedenheiten der Gaben, Unterschiede der Dienste und Verschiedenheiten der Wirkungen[^bible-85520fca-b824-4835-93f1-2020996d4df0]“; und wir erkennen, solange wir auf der Erde sind, wie auch Paulus erklärt, „zum Teil und weissagen zum Teil[^bible-cc9a212e-7fdc-43d0-a4cb-e7b17e548137]“\. Da wir also nur zum Teil erkennen, sollen wir alle Arten schwieriger Fragen dem überlassen, der uns nur in einem gewissen Maß Gnade schenkt\. Dass ewiges Feuer für Sünder bereitet ist, hat sowohl der Herr deutlich erklärt als auch der übrige Teil der Schriften dargelegt\. Und dass Gott im Voraus wusste, dass dies geschehen würde, zeigen die Schriften ebenso, da er von Anfang an ewiges Feuer für die bereitete, die später seine Gebote übertreten würden\. Die Ursache aber für die Natur solcher Übertreter hat uns weder irgendeine Schrift mitgeteilt, noch hat ein Apostel sie uns gesagt, noch hat der Herr sie uns gelehrt\. Darum steht es uns zu, das Wissen um diese Sache Gott zu überlassen, so wie der Herr es mit dem Tag und der Stunde des Gerichts tut; und wir dürfen uns nicht in eine solche Gefahr stürzen, dass wir nichts in Gottes Händen lassen wollen, obwohl wir nur ein Maß an Gnade von ihm in dieser Welt empfangen haben\. Wenn wir aber Punkte untersuchen, die über uns liegen und bei denen wir zu keiner befriedigenden Einsicht gelangen können, ist es widersinnig, ein solches Übermaß an Anmaßung zu zeigen, dass wir Gott und Dinge, die noch nicht entdeckt sind, offenlegen wollten, als hätten wir durch das leere Gerede von Ausströmungen Gott selbst, den Schöpfer aller Dinge, schon ausfindig gemacht, und zu behaupten, er habe seine Substanz aus Abfall und Unwissenheit abgeleitet, um so eine gottlose Annahme gegen Gott zu errichten\.
+Außerdem besitzen sie keinen Beweis für ihr System,
+das sie erst vor Kurzem erfunden haben\.
+Bald stützen sie es auf bestimmte Zahlen,
+bald auf Silben,
+bald wiederum auf Namen;
+bisweilen versuchen sie auch,
+mit Buchstaben,
+die in anderen Buchstaben enthalten sind,
+mit falsch gedeuteten Gleichnissen oder mit gewissen grundlosen Mutmaßungen jene märchenhafte Darstellung zu befestigen,
+die sie sich ausgedacht haben\.
+Denn wenn jemand fragt,
+aus welchem Grund der Vater,
+der in allem Gemeinschaft mit dem Sohn hat,
+nach der Aussage des Herrn allein die Stunde und den Tag des Gerichts kennt,
+wird er gegenwärtig keinen passenderen,
+angemesseneren oder sichereren Grund finden als diesen:
+Da der Herr ja der einzige wahre Meister ist,
+sollen wir durch ihn lernen,
+dass der Vater über allem steht\.
+Denn er sagt:
+„Der Vater ist größer als ich\.[^bible-401fecfd-699b-4e21-9ee4-8268dc5cd601]“ Deshalb hat unser Herr erklärt,
+dass der Vater im Blick auf das Wissen überlegen ist\.
+So sollen auch wir,
+solange wir mit der Ordnung der Dinge in dieser Welt verbunden sind,
+das vollkommene Wissen und solche Fragen,
+wie sie erwähnt wurden,
+Gott überlassen;
+und wir sollen nicht etwa,
+während wir die erhabene Natur des Vaters zu erforschen suchen,
+in die Gefahr geraten,
+die Frage aufzuwerfen,
+ob es über Gott noch einen anderen Gott gibt\.
 
-Außerdem besitzen sie keinen Beweis für ihr System, das sie erst vor Kurzem erfunden haben\. Bald stützen sie es auf bestimmte Zahlen, bald auf Silben, bald wiederum auf Namen; bisweilen versuchen sie auch, mit Buchstaben, die in anderen Buchstaben enthalten sind, mit falsch gedeuteten Gleichnissen oder mit gewissen grundlosen Mutmaßungen jene märchenhafte Darstellung zu befestigen, die sie sich ausgedacht haben\. Denn wenn jemand fragt, aus welchem Grund der Vater, der in allem Gemeinschaft mit dem Sohn hat, nach der Aussage des Herrn allein die Stunde und den Tag des Gerichts kennt, wird er gegenwärtig keinen passenderen, angemesseneren oder sichereren Grund finden als diesen: Da der Herr ja der einzige wahre Meister ist, sollen wir durch ihn lernen, dass der Vater über allem steht\. Denn er sagt: „Der Vater ist größer als ich\.[^bible-401fecfd-699b-4e21-9ee4-8268dc5cd601]“ Deshalb hat unser Herr erklärt, dass der Vater im Blick auf das Wissen überlegen ist\. So sollen auch wir, solange wir mit der Ordnung der Dinge in dieser Welt verbunden sind, das vollkommene Wissen und solche Fragen, wie sie erwähnt wurden, Gott überlassen; und wir sollen nicht etwa, während wir die erhabene Natur des Vaters zu erforschen suchen, in die Gefahr geraten, die Frage aufzuwerfen, ob es über Gott noch einen anderen Gott gibt\.
-
-Wenn aber irgendein streitsüchtiger Mensch dem widerspricht, was ich gesagt habe, und auch dem, was der Apostel bekräftigt: „Wir erkennen stückweise und weissagen stückweise[^bible-573265ee-7eb4-4137-85c1-f8652e02d58a]“, und wenn er sich einbildet, er habe nicht nur eine teilweise, sondern eine umfassende Erkenntnis über alles erworben, was ist, weil er etwa Valentinus, Ptolemäus, Basilides oder sonst einer von denen ist, die behaupten, sie hätten die Tiefen Gottes erforscht, dann soll er sich nicht in eitler Ruhmsucht herausputzen und damit prahlen, er habe über das Unsichtbare oder über das, was sich unserer Einhaltung entzieht, größere Erkenntnis als andere gewonnen\. Vielmehr soll er sorgfältig nachforschen, vom Vater Auskunft erlangen und uns die Gründe für die Dinge in dieser Welt nennen, die wir nicht kennen: zum Beispiel die Zahl der Haare auf seinem eigenen Kopf, die Sperlinge, die Tag für Tag gefangen werden, und solche anderen Punkte, die uns vorher nicht bekannt sind\. Dann können wir ihm auch in wichtigeren Fragen Glauben schenken\. Wenn aber die Vollkommenen noch nicht einmal die Dinge verstehen, die in ihren Händen, zu ihren Füßen, vor ihren Augen und auf der Erde liegen, und besonders nicht die Regel, die für die Haare ihres Hauptes gilt: Wie sollen wir ihnen dann glauben, wenn es um geistliche, überhimmlische und jene Dinge geht, von denen sie mit leerem Selbstvertrauen behaupten, sie lägen über Gott? So viel habe ich also über Zahlen, Namen und Silben gesagt, über Fragen zu Dingen, die unser Begreifen übersteigen, und über ihre falschen Auslegungen der Gleichnisse; du selbst kannst diese Punkte weiter ausführen\.
+Wenn aber irgendein streitsüchtiger Mensch dem widerspricht,
+was ich gesagt habe,
+und auch dem,
+was der Apostel bekräftigt:
+„Wir erkennen stückweise und weissagen stückweise[^bible-573265ee-7eb4-4137-85c1-f8652e02d58a]“,
+und wenn er sich einbildet,
+er habe nicht nur eine teilweise,
+sondern eine umfassende Erkenntnis über alles erworben,
+was ist,
+weil er etwa Valentinus,
+Ptolemäus,
+Basilides oder sonst einer von denen ist,
+die behaupten,
+sie hätten die Tiefen Gottes erforscht,
+dann soll er sich nicht in eitler Ruhmsucht herausputzen und damit prahlen,
+er habe über das Unsichtbare oder über das,
+was sich unserer Einhaltung entzieht,
+größere Erkenntnis als andere gewonnen\.
+Vielmehr soll er sorgfältig nachforschen,
+vom Vater Auskunft erlangen und uns die Gründe für die Dinge in dieser Welt nennen,
+die wir nicht kennen:
+zum Beispiel die Zahl der Haare auf seinem eigenen Kopf,
+die Sperlinge,
+die Tag für Tag gefangen werden,
+und solche anderen Punkte,
+die uns vorher nicht bekannt sind\.
+Dann können wir ihm auch in wichtigeren Fragen Glauben schenken\.
+Wenn aber die Vollkommenen noch nicht einmal die Dinge verstehen,
+die in ihren Händen,
+zu ihren Füßen,
+vor ihren Augen und auf der Erde liegen,
+und besonders nicht die Regel,
+die für die Haare ihres Hauptes gilt:
+Wie sollen wir ihnen dann glauben,
+wenn es um geistliche,
+überhimmlische und jene Dinge geht,
+von denen sie mit leerem Selbstvertrauen behaupten,
+sie lägen über Gott?
+So viel habe ich also über Zahlen,
+Namen und Silben gesagt,
+über Fragen zu Dingen,
+die unser Begreifen übersteigen,
+und über ihre falschen Auslegungen der Gleichnisse;
+du selbst kannst diese Punkte weiter ausführen\.
 
 ## Bibelverweise
 

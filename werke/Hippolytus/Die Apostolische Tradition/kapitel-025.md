@@ -7,6 +7,58 @@ Autor: Hippolytus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/hippolytus/die-apostolische-tradition#kapitel-7254a921-4623-4d08-86cc-08dd08e25f52).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:1267b410c2814ef7d126018c62487d8af8076f2ebf954034661bf71f04ea56d0`
-
-Wenn der Abend gekommen ist und der Bischof anwesend ist, soll der Diakon eine Lampe hereinbringen\. Der Bischof soll inmitten aller anwesenden Gläubigen stehen und Dank sagen\. Zuerst aber soll er alle grüßen und sagen: „Der Herr sei mit euch\.“ Und das ganze Volk soll antworten: „Und mit deinem Geist\.“ Dann soll der Bischof sagen: „Lasst uns dem Herrn danken\.“ Und das Volk soll antworten: „Es ist recht und gerecht\. Ihm gebühren Größe, Erhöhung und Herrlichkeit\.“ Er soll aber nicht sagen: „Erhebt eure Herzen“, denn das wird bei der Darbringung gesagt\. Und er soll so beten und sagen: „Wir danken dir, Gott, durch deinen Sohn Jesus Christus, unseren Herrn, denn du hast uns erleuchtet, indem du uns das unvergängliche Licht offenbart hast\. Da wir nun die Länge eines Tages vollendet haben und am Anfang der Nacht angekommen sind, da wir mit dem Licht des Tages gesättigt worden sind, das du zu unserer Sättigung geschaffen hast, und da uns jetzt durch deine Gnade das Licht für den Abend nicht fehlt, heiligen wir dich und verherrlichen dich durch deinen einzigen Sohn, unseren Herrn Jesus Christus\. Durch ihn sei dir mit ihm Herrlichkeit, Macht und Ehre mit dem Heiligen Geist, jetzt und allezeit und von Ewigkeit zu Ewigkeit\. Amen\.“ Dann sollen alle sagen: „Amen\.“ Nach dem Mahl sollen sie aufstehen und beten, und die Kinder sollen zusammen mit den Jungfrauen Lieder singen\. Danach soll der Diakon, der den gemischten Kelch der Darbringung hält, einen Psalm aus denen sprechen, in denen Alleluia geschrieben steht\. Wenn es dann der Presbyter anordnet, sollen weitere aus denselben Psalmen folgen\. Danach soll der Bischof den Kelch darbringen und einen jener Psalmen sprechen, die zum Kelch passen und alle Alleluia enthalten sollen\. Wenn die Psalmen vorgetragen werden, sollen alle sagen: „Alleluia“, was bedeutet: „Wir preisen den, der Gott ist\. Herrlichkeit und Lob dem, der die ganze Welt allein durch ein Wort geschaffen hat\!“ Wenn der Psalm beendet ist, soll er den Kelch segnen und allen Gläubigen von den Brotstücken geben\.
+Wenn der Abend gekommen ist und der Bischof anwesend ist,
+soll der Diakon eine Lampe hereinbringen\.
+Der Bischof soll inmitten aller anwesenden Gläubigen stehen und Dank sagen\.
+Zuerst aber soll er alle grüßen und sagen:
+„Der Herr sei mit euch\.“
+Und das ganze Volk soll antworten:
+„Und mit deinem Geist\.“
+Dann soll der Bischof sagen:
+„Lasst uns dem Herrn danken\.“
+Und das Volk soll antworten:
+„Es ist recht und gerecht\.
+Ihm gebühren Größe,
+Erhöhung und Herrlichkeit\.“
+Er soll aber nicht sagen:
+„Erhebt eure Herzen“,
+denn das wird bei der Darbringung gesagt\.
+Und er soll so beten und sagen:
+„Wir danken dir,
+Gott,
+durch deinen Sohn Jesus Christus,
+unseren Herrn,
+denn du hast uns erleuchtet,
+indem du uns das unvergängliche Licht offenbart hast\.
+Da wir nun die Länge eines Tages vollendet haben und am Anfang der Nacht angekommen sind,
+da wir mit dem Licht des Tages gesättigt worden sind,
+das du zu unserer Sättigung geschaffen hast,
+und da uns jetzt durch deine Gnade das Licht für den Abend nicht fehlt,
+heiligen wir dich und verherrlichen dich durch deinen einzigen Sohn,
+unseren Herrn Jesus Christus\.
+Durch ihn sei dir mit ihm Herrlichkeit,
+Macht und Ehre mit dem Heiligen Geist,
+jetzt und allezeit und von Ewigkeit zu Ewigkeit\.
+Amen\.“
+Dann sollen alle sagen:
+„Amen\.“
+Nach dem Mahl sollen sie aufstehen und beten,
+und die Kinder sollen zusammen mit den Jungfrauen Lieder singen\.
+Danach soll der Diakon,
+der den gemischten Kelch der Darbringung hält,
+einen Psalm aus denen sprechen,
+in denen Alleluia geschrieben steht\.
+Wenn es dann der Presbyter anordnet,
+sollen weitere aus denselben Psalmen folgen\.
+Danach soll der Bischof den Kelch darbringen und einen jener Psalmen sprechen,
+die zum Kelch passen und alle Alleluia enthalten sollen\.
+Wenn die Psalmen vorgetragen werden,
+sollen alle sagen:
+„Alleluia“,
+was bedeutet:
+„Wir preisen den,
+der Gott ist\.
+Herrlichkeit und Lob dem,
+der die ganze Welt allein durch ein Wort geschaffen hat\!“
+Wenn der Psalm beendet ist,
+soll er den Kelch segnen und allen Gläubigen von den Brotstücken geben\.

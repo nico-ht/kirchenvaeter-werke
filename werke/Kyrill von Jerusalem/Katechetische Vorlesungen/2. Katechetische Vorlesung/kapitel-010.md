@@ -7,9 +7,60 @@ Autor: Kyrill von Jerusalem
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/kyrill-von-jerusalem/2-katechetische-vorlesung#kapitel-ca7cf972-8d17-42da-dce2-08dd30bdeab5).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:eb709418becd0a98d73d49955a9c7e54d732acc6f1a700dc20d2e299ab2a7881`
-
-Nein, selbst wenn ein ganzes Volk sündigt, übersteigt dies nicht die Güte Gottes\. Das Volk machte ein Kalb, doch Gott hörte nicht auf, Seine Güte zu zeigen\. Die Menschen verleugneten Gott, aber Gott verleugnete sich nicht selbst\. Diese seien eure Götter, o Israel, sagten sie: und doch wurde, wie gewohnt, der Gott Israels ihr Retter\. Und nicht nur das Volk sündigte, sondern auch Aaron, der Hohepriester\. Denn Mose sagt: „Und der Zorn des Herrn entbrannte gegen Aaron; und ich betete für ihn,[^bible-9785ed56-ff85-436a-94f7-97fde73af621] sagt er, und Gott vergab ihm\.“ Was also, bewirkte das Gebet des Mose für einen sündigen Hohepriester bei Gott, und wird nicht Jesus, Sein Eingeborener, bei Gott wirken, wenn Er für uns betet? Und wenn Er Aaron wegen seiner Verfehlung nicht daran hinderte, das Hohepriestertum zu übernehmen, wird Er dich, der du aus den Heiden gekommen bist, daran hindern, in die Rettung einzutreten? Nur, o Mensch, buße auch du in gleicher Weise, und die Gnade ist dir nicht verwehrt\. Gestalte deinen Lebenswandel von nun an tadellos; denn Gott ist wahrhaftig gütig zu den Menschen, und kein Zeitraum kann Seine Güte angemessen verkünden; nein, selbst wenn alle Zungen der Menschen sich vereinen, werden sie nicht in der Lage sein, auch nur einen nennenswerten Teil Seiner Güte zu verkünden\. Denn wir berichten von einem Teil dessen, was über Seine Güte zu den Menschen geschrieben steht, aber wie viel Er den Engeln vergab, wissen wir nicht; denn auch ihnen vergibt Er, da nur Einer ohne Sünde ist, nämlich Jesus, der unsere Sünden reinigt\. Und von ihnen haben wir genug gesagt\.
+Nein,
+selbst wenn ein ganzes Volk sündigt,
+übersteigt dies nicht die Güte Gottes\.
+Das Volk machte ein Kalb,
+doch Gott hörte nicht auf,
+Seine Güte zu zeigen\.
+Die Menschen verleugneten Gott,
+aber Gott verleugnete sich nicht selbst\.
+Diese seien eure Götter,
+o Israel,
+sagten sie:
+und doch wurde,
+wie gewohnt,
+der Gott Israels ihr Retter\.
+Und nicht nur das Volk sündigte,
+sondern auch Aaron,
+der Hohepriester\.
+Denn Mose sagt:
+„Und der Zorn des Herrn entbrannte gegen Aaron;
+und ich betete für ihn,[^bible-9785ed56-ff85-436a-94f7-97fde73af621]
+sagt er,
+und Gott vergab ihm\.“
+Was also,
+bewirkte das Gebet des Mose für einen sündigen Hohepriester bei Gott,
+und wird nicht Jesus,
+Sein Eingeborener,
+bei Gott wirken,
+wenn Er für uns betet?
+Und wenn Er Aaron wegen seiner Verfehlung nicht daran hinderte,
+das Hohepriestertum zu übernehmen,
+wird Er dich,
+der du aus den Heiden gekommen bist,
+daran hindern,
+in die Rettung einzutreten?
+Nur,
+o Mensch,
+buße auch du in gleicher Weise,
+und die Gnade ist dir nicht verwehrt\.
+Gestalte deinen Lebenswandel von nun an tadellos;
+denn Gott ist wahrhaftig gütig zu den Menschen,
+und kein Zeitraum kann Seine Güte angemessen verkünden;
+nein,
+selbst wenn alle Zungen der Menschen sich vereinen,
+werden sie nicht in der Lage sein,
+auch nur einen nennenswerten Teil Seiner Güte zu verkünden\.
+Denn wir berichten von einem Teil dessen,
+was über Seine Güte zu den Menschen geschrieben steht,
+aber wie viel Er den Engeln vergab,
+wissen wir nicht;
+denn auch ihnen vergibt Er,
+da nur Einer ohne Sünde ist,
+nämlich Jesus,
+der unsere Sünden reinigt\.
+Und von ihnen haben wir genug gesagt\.
 
 ## Bibelverweise
 

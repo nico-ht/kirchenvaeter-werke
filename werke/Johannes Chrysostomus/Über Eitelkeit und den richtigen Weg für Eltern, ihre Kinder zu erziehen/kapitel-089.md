@@ -7,6 +7,13 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-eitelkeit-und-den-richtigen-weg-fuer-eltern-ihre-kinder-zu-erziehen#kapitel-76630cf8-0d3e-46ec-b92c-08ddc88111a4).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:cdb4bf1157af2762440edbf5a2a1ae5fbf605ec07e57a6455ab882ebbeb61df7`
-
-Lasst uns ihn lehren, sich um politische Angelegenheiten zu kümmern, die in seinem Rahmen liegen und frei von Sünde sind\. Wenn er als Soldat dient, soll er lernen, niederträchtigen Gewinn zu meiden; und ebenso, wenn er die Sache derer verteidigt, die Unrecht erlitten haben, oder in jeder anderen Situation\.
+Lasst uns ihn lehren,
+sich um politische Angelegenheiten zu kümmern,
+die in seinem Rahmen liegen und frei von Sünde sind\.
+Wenn er als Soldat dient,
+soll er lernen,
+niederträchtigen Gewinn zu meiden;
+und ebenso,
+wenn er die Sache derer verteidigt,
+die Unrecht erlitten haben,
+oder in jeder anderen Situation\.

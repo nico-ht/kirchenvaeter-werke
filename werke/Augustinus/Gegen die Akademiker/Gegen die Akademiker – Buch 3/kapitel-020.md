@@ -7,8 +7,113 @@ Autor: Augustinus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/gegen-die-akademiker-buch-3#kapitel-e257a034-77b9-4203-301a-08df04fdfae5).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c23f4492ef831a8f8a51ea1a299187630c043e792e9ea5bb852ca490348fa9c7`
+Über die Akademiker habe ich mir einstweilen,
+so gut ich konnte,
+diese plausible Überzeugung gebildet\.
+Ist sie falsch,
+so berührt mich das nicht;
+mir genügt,
+nicht länger zu meinen,
+die Wahrheit könne vom Menschen nicht gefunden werden\.
+Wer jedoch glaubt,
+die Akademiker hätten dies tatsächlich vertreten,
+der höre Cicero selbst\.
+Er sagt nämlich,
+es sei bei ihnen üblich gewesen,
+ihre eigene Auffassung geheim zu halten und sie nur demjenigen zu eröffnen,
+der bis ins hohe Alter mit ihnen zusammengelebt habe\.
+Worin diese Auffassung besteht,
+mag Gott wissen;
+ich glaube jedenfalls,
+dass es die Platons war\.
+Doch damit ihr in Kürze meinen ganzen Vorsatz erfahrt:
+Wie es auch um die menschliche Weisheit bestellt sein mag,
+ich erkenne,
+dass ich sie noch nicht erlangt habe\.
+Da ich aber erst in meinem dreiunddreißigsten Lebensjahr stehe,
+meine ich,
+ich dürfe nicht daran verzweifeln,
+sie irgendwann zu erlangen\.
+Obwohl ich alles Übrige bereits verachtet habe,
+was die Sterblichen für Güter halten,
+habe ich mir vorgenommen,
+mich der Erforschung dieser Weisheit ganz zu verschreiben\.
+Weil mich die Argumente der Akademiker von diesem Unternehmen immer wieder ernstlich abschreckten,
+bin ich nun,
+wie ich meine,
+durch diese Erörterung hinreichend gegen sie gewappnet\.
+Niemand bezweifelt aber,
+dass uns ein doppeltes Gewicht zum Lernen antreibt:
+das der Autorität und das der Vernunft\.
+Für mich steht fest,
+niemals von der Autorität Christi abzuweichen,
+denn ich finde keine gewichtigere\.
+Was jedoch mit äußerst gründlicher Vernunft zu erforschen ist,
+ist die Frage,
+was wahr ist;
+denn inzwischen bin ich so gestimmt,
+dass ich voller Ungeduld danach verlange,
+dies nicht nur glaubend,
+sondern auch verstehend zu erfassen\.
+Einstweilen vertraue ich darauf,
+bei den Platonikern etwas zu finden,
+das unseren heiligen Schriften nicht widerspricht\.
 
-Über die Akademiker habe ich mir einstweilen, so gut ich konnte, diese plausible Überzeugung gebildet\. Ist sie falsch, so berührt mich das nicht; mir genügt, nicht länger zu meinen, die Wahrheit könne vom Menschen nicht gefunden werden\. Wer jedoch glaubt, die Akademiker hätten dies tatsächlich vertreten, der höre Cicero selbst\. Er sagt nämlich, es sei bei ihnen üblich gewesen, ihre eigene Auffassung geheim zu halten und sie nur demjenigen zu eröffnen, der bis ins hohe Alter mit ihnen zusammengelebt habe\. Worin diese Auffassung besteht, mag Gott wissen; ich glaube jedenfalls, dass es die Platons war\. Doch damit ihr in Kürze meinen ganzen Vorsatz erfahrt: Wie es auch um die menschliche Weisheit bestellt sein mag, ich erkenne, dass ich sie noch nicht erlangt habe\. Da ich aber erst in meinem dreiunddreißigsten Lebensjahr stehe, meine ich, ich dürfe nicht daran verzweifeln, sie irgendwann zu erlangen\. Obwohl ich alles Übrige bereits verachtet habe, was die Sterblichen für Güter halten, habe ich mir vorgenommen, mich der Erforschung dieser Weisheit ganz zu verschreiben\. Weil mich die Argumente der Akademiker von diesem Unternehmen immer wieder ernstlich abschreckten, bin ich nun, wie ich meine, durch diese Erörterung hinreichend gegen sie gewappnet\. Niemand bezweifelt aber, dass uns ein doppeltes Gewicht zum Lernen antreibt: das der Autorität und das der Vernunft\. Für mich steht fest, niemals von der Autorität Christi abzuweichen, denn ich finde keine gewichtigere\. Was jedoch mit äußerst gründlicher Vernunft zu erforschen ist, ist die Frage, was wahr ist; denn inzwischen bin ich so gestimmt, dass ich voller Ungeduld danach verlange, dies nicht nur glaubend, sondern auch verstehend zu erfassen\. Einstweilen vertraue ich darauf, bei den Platonikern etwas zu finden, das unseren heiligen Schriften nicht widerspricht\.
-
-Als sie sahen, dass ich meine Ausführungen beendet hatte, war es bereits Nacht, und beim Licht einer herbeigebrachten Lampe war sogar noch einiges niedergeschrieben worden\. Dennoch warteten die jungen Männer mit größter Spannung darauf, ob Alypius versprechen würde, an einem anderen Tag zu antworten\. Da sagte er: „Ich bin bereit zu versichern, dass mir noch nie etwas so ganz nach Wunsch widerfahren ist wie dies: dass ich aus der heutigen Erörterung als Besiegter hervorgehe\. Und ich meine, dass diese Freude nicht mir allein gehören darf\. Darum werde ich sie mit euch teilen, meinen Mitstreitern oder vielmehr unseren Richtern\. Denn vielleicht hätten selbst die Akademiker gewünscht, auf diese Weise von ihren Nachfolgern besiegt zu werden\. Was könnte uns erfreulicher erscheinen oder geboten werden als die Anmut dieser Rede, was wohlüberlegter als das Gewicht ihrer Gedanken, was bereitwilliger als ihr Wohlwollen, was sachkundiger als ihre Gelehrsamkeit? Ich vermag meine Bewunderung wahrhaftig nicht angemessen auszudrücken: So geistreich wurde das Raue, so beherzt das für hoffnungslos Gehaltene, so maßvoll das Widerlegte und so klar das Dunkle behandelt\. Darum, meine Gefährten, richtet nun die Erwartung, mit der ihr mich zu einer Antwort herausgefordert habt, gemeinsam mit mir und mit sichererer Hoffnung auf das Lernen\. Wir haben einen Führer, der uns, da Gott bereits den Weg weist, bis in die Geheimnisse der Wahrheit führen kann\.“ Darauf zeigten sie mit ihren Mienen, dass sie sich in ihrem geradezu kindlichen Eifer gleichsam um etwas gebracht fühlten, weil Alypius anscheinend nicht antworten werde\. Da sagte ich lächelnd: „Missgönnt ihr mir mein Lob? Doch da ich nun auf Alypius’ Standhaftigkeit vertraue und seinetwegen nichts mehr fürchte, werde ich euch gegen den Mann rüsten, der eure hochgespannte Erwartung enttäuscht hat, damit auch ihr mir dankt\. Lest die Schriften der Akademiker\. Und wenn ihr dort Cicero als den Sieger über dieses alberne Gerede gefunden habt, was könnte leichter sein?, dann sollt ihr Alypius zwingen, unsere Erörterung gegen jene unbesiegbaren Argumente zu verteidigen\. Diesen harten Lohn, Alypius, erstatte ich dir für das unberechtigte Lob, das du mir gespendet hast\.“ Darauf lachten sie, und so setzten wir diesem gewaltigen Streit ein Ende\. Ob es ein ganz festes war, weiß ich nicht; doch wir setzten es gesitteter und schneller, als ich gehofft hatte\.
+Als sie sahen,
+dass ich meine Ausführungen beendet hatte,
+war es bereits Nacht,
+und beim Licht einer herbeigebrachten Lampe war sogar noch einiges niedergeschrieben worden\.
+Dennoch warteten die jungen Männer mit größter Spannung darauf,
+ob Alypius versprechen würde,
+an einem anderen Tag zu antworten\.
+Da sagte er:
+„Ich bin bereit zu versichern,
+dass mir noch nie etwas so ganz nach Wunsch widerfahren ist wie dies:
+dass ich aus der heutigen Erörterung als Besiegter hervorgehe\.
+Und ich meine,
+dass diese Freude nicht mir allein gehören darf\.
+Darum werde ich sie mit euch teilen,
+meinen Mitstreitern oder vielmehr unseren Richtern\.
+Denn vielleicht hätten selbst die Akademiker gewünscht,
+auf diese Weise von ihren Nachfolgern besiegt zu werden\.
+Was könnte uns erfreulicher erscheinen oder geboten werden als die Anmut dieser Rede,
+was wohlüberlegter als das Gewicht ihrer Gedanken,
+was bereitwilliger als ihr Wohlwollen,
+was sachkundiger als ihre Gelehrsamkeit?
+Ich vermag meine Bewunderung wahrhaftig nicht angemessen auszudrücken:
+So geistreich wurde das Raue,
+so beherzt das für hoffnungslos Gehaltene,
+so maßvoll das Widerlegte und so klar das Dunkle behandelt\.
+Darum,
+meine Gefährten,
+richtet nun die Erwartung,
+mit der ihr mich zu einer Antwort herausgefordert habt,
+gemeinsam mit mir und mit sichererer Hoffnung auf das Lernen\.
+Wir haben einen Führer,
+der uns,
+da Gott bereits den Weg weist,
+bis in die Geheimnisse der Wahrheit führen kann\.“
+Darauf zeigten sie mit ihren Mienen,
+dass sie sich in ihrem geradezu kindlichen Eifer gleichsam um etwas gebracht fühlten,
+weil Alypius anscheinend nicht antworten werde\.
+Da sagte ich lächelnd:
+„Missgönnt ihr mir mein Lob?
+Doch da ich nun auf Alypius’ Standhaftigkeit vertraue und seinetwegen nichts mehr fürchte,
+werde ich euch gegen den Mann rüsten,
+der eure hochgespannte Erwartung enttäuscht hat,
+damit auch ihr mir dankt\.
+Lest die Schriften der Akademiker\.
+Und wenn ihr dort Cicero als den Sieger über dieses alberne Gerede gefunden habt,
+was könnte leichter sein?,
+dann sollt ihr Alypius zwingen,
+unsere Erörterung gegen jene unbesiegbaren Argumente zu verteidigen\.
+Diesen harten Lohn,
+Alypius,
+erstatte ich dir für das unberechtigte Lob,
+das du mir gespendet hast\.“
+Darauf lachten sie,
+und so setzten wir diesem gewaltigen Streit ein Ende\.
+Ob es ein ganz festes war,
+weiß ich nicht;
+doch wir setzten es gesitteter und schneller,
+als ich gehofft hatte\.

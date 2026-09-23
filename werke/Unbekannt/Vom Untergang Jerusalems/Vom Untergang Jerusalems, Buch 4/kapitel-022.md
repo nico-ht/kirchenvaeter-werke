@@ -7,6 +7,63 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-4#kapitel-d383109a-3df4-4383-2774-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:faacaa9dc39318ad8cfb9fc9b834300941e0ae766c1268ff066f2c47e0558fcb`
-
-Judäa aber hatte keine Ruhe; es führte in seinem Inneren einen schwereren Krieg als gegen äußere Feinde\. Denn da die Partei des Johannis unerträglich geworden war, trat noch Simon hinzu: an Verderbtheit seines Lebenswandels zwar geringer, doch wegen seiner körperlichen Ansehnlichkeit umso mehr zu jedem Verbrechen bereit und im Räuberwesen geübt, gewohnt an Ausübung und Erprobung frevelhafter Taten\. Er war ein gerasanischer Bürger, ein kräftiger junger Mann, den Ananus, der Führer der Priester, wegen erdichteter Berichte über Ausschweifung niedergeworfen und gezwungen hatte, aus dem Ort, in dem er wohnte, vertrieben in andere Gegenden fortzugehen\. Er aber, für den unter friedlichen und sanften Menschen kein Platz war, begab sich in die Gemeinschaft von Räubern\. Auch von ihnen wurde er anfangs misstrauisch betrachtet, sie fürchteten, er könnte sie aus Parteinahme täuschen; später jedoch machte er sich durch die Angleichung seiner Sitten leicht bei ihnen beliebt\. Mit ihnen plünderte er die Orte, die nahe bei Befestigungen lagen, weil sie es nicht wagten, weiter entfernte Gegenden aufzusuchen; vielmehr lauerten sie, wie in Gruben verborgen, den Vorübergehenden auf und gingen nicht weiter hinaus, als wären sie mit Raub im eigenen Umkreis zufrieden\. Simon, zügellos im Sinn, konnte das nicht lange ertragen\. In kurzer Zeit suchte er sich eine große Schar zusammen, indem er Sklaven Freiheit, Freien Beute, Verarmten Entschädigung und den vielen, die sich sammelten, die Erlaubnis zum Plündern versprach\. Er wagte es, Befestigungen anzugreifen und Stadtvölker zu überwältigen, und wurde allen zum Schrecken\. In einem Dorf, das den Namen Aiacis trug, bereitete er sich eine Zuflucht und errichtete Mauern\. Schon rückte er, von zwanzigtausend Bewaffneten umgeben, vor, da fürchteten die Bewohner Jerusalems plötzlich sein tägliches Vorrücken; sie meinten, diese Macht werde sich gegen sie richten, wenn man sie noch länger zur Reife kommen lasse, und beschlossen, sie müsse niedergeschlagen werden\. In einem plötzlichen Ausfall griffen bewaffnete Männer Simon an\. Doch auch er war nicht unvorsichtig und unvorbereitet einem Hinterhalt preisgegeben, sondern fing die Anstürmenden ab, schlug die meisten in die Flucht und zwang andere, die in der Schlacht zersprengt worden waren, zum Rückzug in die Stadt\.
+Judäa aber hatte keine Ruhe;
+es führte in seinem Inneren einen schwereren Krieg als gegen äußere Feinde\.
+Denn da die Partei des Johannis unerträglich geworden war,
+trat noch Simon hinzu:
+an Verderbtheit seines Lebenswandels zwar geringer,
+doch wegen seiner körperlichen Ansehnlichkeit umso mehr zu jedem Verbrechen bereit und im Räuberwesen geübt,
+gewohnt an Ausübung und Erprobung frevelhafter Taten\.
+Er war ein gerasanischer Bürger,
+ein kräftiger junger Mann,
+den Ananus,
+der Führer der Priester,
+wegen erdichteter Berichte über Ausschweifung niedergeworfen und gezwungen hatte,
+aus dem Ort,
+in dem er wohnte,
+vertrieben in andere Gegenden fortzugehen\.
+Er aber,
+für den unter friedlichen und sanften Menschen kein Platz war,
+begab sich in die Gemeinschaft von Räubern\.
+Auch von ihnen wurde er anfangs misstrauisch betrachtet,
+sie fürchteten,
+er könnte sie aus Parteinahme täuschen;
+später jedoch machte er sich durch die Angleichung seiner Sitten leicht bei ihnen beliebt\.
+Mit ihnen plünderte er die Orte,
+die nahe bei Befestigungen lagen,
+weil sie es nicht wagten,
+weiter entfernte Gegenden aufzusuchen;
+vielmehr lauerten sie,
+wie in Gruben verborgen,
+den Vorübergehenden auf und gingen nicht weiter hinaus,
+als wären sie mit Raub im eigenen Umkreis zufrieden\.
+Simon,
+zügellos im Sinn,
+konnte das nicht lange ertragen\.
+In kurzer Zeit suchte er sich eine große Schar zusammen,
+indem er Sklaven Freiheit,
+Freien Beute,
+Verarmten Entschädigung und den vielen,
+die sich sammelten,
+die Erlaubnis zum Plündern versprach\.
+Er wagte es,
+Befestigungen anzugreifen und Stadtvölker zu überwältigen,
+und wurde allen zum Schrecken\.
+In einem Dorf,
+das den Namen Aiacis trug,
+bereitete er sich eine Zuflucht und errichtete Mauern\.
+Schon rückte er,
+von zwanzigtausend Bewaffneten umgeben,
+vor,
+da fürchteten die Bewohner Jerusalems plötzlich sein tägliches Vorrücken;
+sie meinten,
+diese Macht werde sich gegen sie richten,
+wenn man sie noch länger zur Reife kommen lasse,
+und beschlossen,
+sie müsse niedergeschlagen werden\.
+In einem plötzlichen Ausfall griffen bewaffnete Männer Simon an\.
+Doch auch er war nicht unvorsichtig und unvorbereitet einem Hinterhalt preisgegeben,
+sondern fing die Anstürmenden ab,
+schlug die meisten in die Flucht und zwang andere,
+die in der Schlacht zersprengt worden waren,
+zum Rückzug in die Stadt\.

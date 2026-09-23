@@ -7,9 +7,136 @@ Autor: Lucifer von Calaris
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/lucifer-von-calaris/niemand-darf-in-abwesenheit-gerichtet-oder-verurteilt-werden-buch-1#kapitel-958b280a-0a53-4e60-68b7-08ded9b64703).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:9ddbd20a4bd63f156ce8cff587374ddde262659bdefc00833931b362f052f3b2`
-
-Da du also den Antichristen an Christi Stelle angenommen hast, weil jener tatsächlich „gewesen sein wird, als er nicht war“, mit welcher Stirn trittst du noch den Christen entgegen, wenn nicht mit jener, wie auch Ehebrecherinnen sie gegenüber Keuschen zu haben pflegen? Du hast gewagt zu versuchen, über das Volk Gottes herrschen zu wollen, die Kirche Gottes deinem Reich unterwerfen zu wollen, sie, die allein seine göttliche Majestät fürchtet, deiner nichtigen Gewalt\. Und dies hast du freilich getan, weil du nicht weißt, dass über euch Tyrannen geschrieben steht: „Darum irrten zuchtlose Seelen; denn während die Ungerechten überzeugt waren, sie könnten über das Volk der Heiligen herrschen, wurden sie, mit Ketten der Finsternis gebunden und von langer Nacht gefesselt, unter Dächern eingeschlossen, zu Flüchtlingen[^bible-9199d951-ef5c-4a9b-b0b6-49c9fc3a93db]“\. Erkennst du nun, dass du zu jenen Verfolgern des Volkes Gottes gehörst, von denen du gelesen hast, dass alle mit einer einzigen Kette der Finsternis gefesselt sind[^bible-e415e2d6-eef6-4863-867d-fef29575fca6], und wiederum: Jene waren es gewiss wert, das Licht zu entbehren und das Gefängnis der Finsternis zu erleiden, die deine Söhne eingeschlossen hielten, durch die das unvergängliche Licht des Gesetzes dem Leben aller zu geben begann[^bible-254273d5-4738-4f45-90d9-51c3e006078d]\. Oder wirst du leugnen, dass du Gottes Vorsteher in Kerkern festhältst? Und warum hältst du sie fest? Doch wohl, damit wir dem Volk Gottes die Wahrheit nicht verkünden\. Warum hältst du uns im Gefängnis zurück? Warum schickst du uns in die Verbannung, wenn nicht deshalb, weil du fürchtest, wir könnten durch die Offenbarung der heiligen Schriften kundmachen, dass ihr Arianer reißende Wölfe, tollwütige Hunde und die Antichristen unserer Zeit seid? Denn die heiligen Schriften beweisen aus euren Taten, dass ihr nicht Gottes Knechte seid, sondern ganz und gar Söhne des Teufels\. Wenn du nämlich nicht einer von jenen bist, von denen die heiligen Schriften laut verkünden, dass sie so sein werden, warum wolltest du, als du im 131\. Psalm geschrieben fandest: Erhebe dich, Herr, zu deiner Ruhe, du und die Lade deiner Heiligung; deine Priester sollen mit Gerechtigkeit bekleidet werden[^bible-726e05a6-1466-489b-ad29-5b2c89618a75], dass wir einen Abwesenden verurteilen? Doch gewiss zu dem Zweck, dass wir die Gerechtigkeit verlieren sollten, mit der uns der Herr bekleidet hatte\. Denn wenn er sagt: „Deine Priester sollen mit Gerechtigkeit bekleidet werden[^bible-ecee3ad7-df1f-40a1-8834-d7b1f4abf9eb]“, und du uns drängtest, Unrecht zu tun, was anderes wären wir gewesen, wenn wir getan hätten, was deiner Bosheit gefallen hatte, als deine Mitschuldigen, als Quellen aller Ungerechtigkeit, nämlich solche, die das Amt der Gerechtigkeit ablegten und, um dir zu gefallen, Ungerechtigkeit auf sich nehmen wollten? Du verfolgst das Haus Gottes, Constantius, ohne zu wissen, dass du Gott selbst in seinem Haus verfolgst; denn das Haus Gottes ist die Kirche, in der der Herr wohnt, wie in demselben Psalm geschrieben steht: „Der Herr hat Zion erwählt, er hat sie sich zur Wohnung auserwählt\. Dies ist meine Ruhe auf immer und ewig; hier werde ich wohnen, denn ich habe sie auserwählt[^bible-c241758b-b52e-49e8-a696-e873a534f41c]“\. Da es sich also so verhält, sieh, dass du dich selbst bestrafst, wenn du einen von den Unseren bestrafst, dass du dein eigenes Heil verfolgst, wenn du gegen Gott kämpfst, nicht uns, über die du Gott sagen hörst, dass er in ihnen zu ruhen sich würdigt\. Du also, der du die Tempel des Herrn zu verletzen versuchst: Wenn du dich nicht bekehrst, wirst du in derselben Weise zugrunde gehen wie jene, von denen David im 135\. Psalm sagt: Der Ägypten schlug samt ihren Erstgeborenen, denn auf ewig währt seine Barmherzigkeit; und Israel aus ihrer Mitte herausführte, denn auf ewig währt seine Barmherzigkeit; mit starker Hand und erhobenem Arm, denn auf ewig währt seine Barmherzigkeit; der das Rote Meer in Teile teilte, denn auf ewig währt seine Barmherzigkeit; und Israel mitten hindurchführte, denn auf ewig währt seine Barmherzigkeit; und Pharao und sein Heer ins Rote Meer schleuderte[^bible-af3525ab-3736-428b-aea1-8fe5dc313133]\. Weshalb finde ich, dass dies geschrieben ist, wenn nicht, damit ich glauben soll: Wenn du versuchst, mich niederzudrücken, dann könnte mein Gott, falls du dich nicht bekehrst, dich ebenso vernichten wie Pharao, und er würde mich ebenso aus deinen Händen entreißen, wie er auch jene aus der Gewalt Pharaos entrissen hat? Darum sagt er nämlich bei jeder einzelnen Machttat: „Denn auf ewig währt seine Barmherzigkeit[^bible-af3525ab-3736-428b-aea1-8fe5dc313133]“, um mir zu eröffnen, dass die Barmherzigkeit des Herrn bei mir, der ich allein ihm diene, immer beständig bleibt, bei dir aber nicht sein kann, weil du offenkundig sein Feind bist, wie es auch Pharao war\.
+Da du also den Antichristen an Christi Stelle angenommen hast,
+weil jener tatsächlich „gewesen sein wird,
+als er nicht war“,
+mit welcher Stirn trittst du noch den Christen entgegen,
+wenn nicht mit jener,
+wie auch Ehebrecherinnen sie gegenüber Keuschen zu haben pflegen?
+Du hast gewagt zu versuchen,
+über das Volk Gottes herrschen zu wollen,
+die Kirche Gottes deinem Reich unterwerfen zu wollen,
+sie,
+die allein seine göttliche Majestät fürchtet,
+deiner nichtigen Gewalt\.
+Und dies hast du freilich getan,
+weil du nicht weißt,
+dass über euch Tyrannen geschrieben steht:
+„Darum irrten zuchtlose Seelen;
+denn während die Ungerechten überzeugt waren,
+sie könnten über das Volk der Heiligen herrschen,
+wurden sie,
+mit Ketten der Finsternis gebunden und von langer Nacht gefesselt,
+unter Dächern eingeschlossen,
+zu Flüchtlingen[^bible-9199d951-ef5c-4a9b-b0b6-49c9fc3a93db]“\.
+Erkennst du nun,
+dass du zu jenen Verfolgern des Volkes Gottes gehörst,
+von denen du gelesen hast,
+dass alle mit einer einzigen Kette der Finsternis gefesselt sind[^bible-e415e2d6-eef6-4863-867d-fef29575fca6],
+und wiederum:
+Jene waren es gewiss wert,
+das Licht zu entbehren und das Gefängnis der Finsternis zu erleiden,
+die deine Söhne eingeschlossen hielten,
+durch die das unvergängliche Licht des Gesetzes dem Leben aller zu geben begann[^bible-254273d5-4738-4f45-90d9-51c3e006078d]\.
+Oder wirst du leugnen,
+dass du Gottes Vorsteher in Kerkern festhältst?
+Und warum hältst du sie fest?
+Doch wohl,
+damit wir dem Volk Gottes die Wahrheit nicht verkünden\.
+Warum hältst du uns im Gefängnis zurück?
+Warum schickst du uns in die Verbannung,
+wenn nicht deshalb,
+weil du fürchtest,
+wir könnten durch die Offenbarung der heiligen Schriften kundmachen,
+dass ihr Arianer reißende Wölfe,
+tollwütige Hunde und die Antichristen unserer Zeit seid?
+Denn die heiligen Schriften beweisen aus euren Taten,
+dass ihr nicht Gottes Knechte seid,
+sondern ganz und gar Söhne des Teufels\.
+Wenn du nämlich nicht einer von jenen bist,
+von denen die heiligen Schriften laut verkünden,
+dass sie so sein werden,
+warum wolltest du,
+als du im 131\. Psalm geschrieben fandest:
+Erhebe dich,
+Herr,
+zu deiner Ruhe,
+du und die Lade deiner Heiligung;
+deine Priester sollen mit Gerechtigkeit bekleidet werden[^bible-726e05a6-1466-489b-ad29-5b2c89618a75],
+dass wir einen Abwesenden verurteilen?
+Doch gewiss zu dem Zweck,
+dass wir die Gerechtigkeit verlieren sollten,
+mit der uns der Herr bekleidet hatte\.
+Denn wenn er sagt:
+„Deine Priester sollen mit Gerechtigkeit bekleidet werden[^bible-ecee3ad7-df1f-40a1-8834-d7b1f4abf9eb]“,
+und du uns drängtest,
+Unrecht zu tun,
+was anderes wären wir gewesen,
+wenn wir getan hätten,
+was deiner Bosheit gefallen hatte,
+als deine Mitschuldigen,
+als Quellen aller Ungerechtigkeit,
+nämlich solche,
+die das Amt der Gerechtigkeit ablegten und,
+um dir zu gefallen,
+Ungerechtigkeit auf sich nehmen wollten?
+Du verfolgst das Haus Gottes,
+Constantius,
+ohne zu wissen,
+dass du Gott selbst in seinem Haus verfolgst;
+denn das Haus Gottes ist die Kirche,
+in der der Herr wohnt,
+wie in demselben Psalm geschrieben steht:
+„Der Herr hat Zion erwählt,
+er hat sie sich zur Wohnung auserwählt\.
+Dies ist meine Ruhe auf immer und ewig;
+hier werde ich wohnen,
+denn ich habe sie auserwählt[^bible-c241758b-b52e-49e8-a696-e873a534f41c]“\.
+Da es sich also so verhält,
+sieh,
+dass du dich selbst bestrafst,
+wenn du einen von den Unseren bestrafst,
+dass du dein eigenes Heil verfolgst,
+wenn du gegen Gott kämpfst,
+nicht uns,
+über die du Gott sagen hörst,
+dass er in ihnen zu ruhen sich würdigt\.
+Du also,
+der du die Tempel des Herrn zu verletzen versuchst:
+Wenn du dich nicht bekehrst,
+wirst du in derselben Weise zugrunde gehen wie jene,
+von denen David im 135\. Psalm sagt:
+Der Ägypten schlug samt ihren Erstgeborenen,
+denn auf ewig währt seine Barmherzigkeit;
+und Israel aus ihrer Mitte herausführte,
+denn auf ewig währt seine Barmherzigkeit;
+mit starker Hand und erhobenem Arm,
+denn auf ewig währt seine Barmherzigkeit;
+der das Rote Meer in Teile teilte,
+denn auf ewig währt seine Barmherzigkeit;
+und Israel mitten hindurchführte,
+denn auf ewig währt seine Barmherzigkeit;
+und Pharao und sein Heer ins Rote Meer schleuderte[^bible-af3525ab-3736-428b-aea1-8fe5dc313133]\.
+Weshalb finde ich,
+dass dies geschrieben ist,
+wenn nicht,
+damit ich glauben soll:
+Wenn du versuchst,
+mich niederzudrücken,
+dann könnte mein Gott,
+falls du dich nicht bekehrst,
+dich ebenso vernichten wie Pharao,
+und er würde mich ebenso aus deinen Händen entreißen,
+wie er auch jene aus der Gewalt Pharaos entrissen hat?
+Darum sagt er nämlich bei jeder einzelnen Machttat:
+„Denn auf ewig währt seine Barmherzigkeit[^bible-af3525ab-3736-428b-aea1-8fe5dc313133]“,
+um mir zu eröffnen,
+dass die Barmherzigkeit des Herrn bei mir,
+der ich allein ihm diene,
+immer beständig bleibt,
+bei dir aber nicht sein kann,
+weil du offenkundig sein Feind bist,
+wie es auch Pharao war\.
 
 ## Bibelverweise
 

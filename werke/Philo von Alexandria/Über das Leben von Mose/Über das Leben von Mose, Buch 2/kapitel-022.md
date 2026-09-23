@@ -7,6 +7,52 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-2#kapitel-ceced584-1ee8-4017-0868-08ded872ad01).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:cc83192f55e52f2500ce04b67e05d5a5f57297fa5ee3431adc7df8dc4585f282`
-
-Der Tisch, auf den Brot und Salz gelegt werden, wurde an der Nordseite aufgestellt, weil gerade der Norden die meisten Winde hervorbringt, und auch deshalb, weil alle Nahrung aus Himmel und Erde kommt: der eine gibt Regen, die andere bringt durch die Bewässerung mit Wasser alle Samen zur Vollendung\. Denn die Sinnbilder von Himmel und Erde stehen nebeneinander, wie die heilige Schrift zeigt: Der Leuchter ist das Sinnbild des Himmels, und der wahrhaft so genannte Räucheraltar, auf dem alle Räucheropfer dargebracht werden, ist das Zeichen der irdischen Dinge\. Es wurde aber üblich, den Altar unter freiem Himmel Opferaltar zu nennen, weil er die Opfer bewahrte und in Obhut nahm; bildlich deutet er die verzehrende Kraft dieser Dinge an, nicht die Lämmer und die verschiedenen Teile der Opfertiere, die dargebracht wurden und ihrer Natur nach dazu bestimmt waren, vom Feuer vernichtet zu werden, sondern die Gesinnung dessen, der sie darbrachte\. Denn wenn der Mann, der die Opfergaben darbrachte, dumm und unwissend war, waren die Opfer keine Opfer, die Opfertiere nicht heilig und nicht geweiht, die Gebete unheilvoll und der Gefahr ausgesetzt, durch völlige Vernichtung erhört zu werden; denn selbst wenn sie angenommen zu werden scheinen, bewirken sie keine Vergebung der Sünden, sondern rufen sie nur in Erinnerung\. Wenn aber der Mann, der das Opfer darbringt, freimütig und gerecht ist, dann bleibt das Opfer fest bestehen, auch wenn das Fleisch des Opfertiers verzehrt wird, oder vielmehr, möchte ich sagen, selbst wenn überhaupt kein Opfertier dargebracht wird\. Denn was kann ein wirkliches und wahres Opfer sein, wenn nicht die Frömmigkeit einer Seele, die Gott liebt? Ihre Dankbarkeit ist mit Unsterblichkeit gesegnet und wird, ohne schriftlich aufgezeichnet zu sein, auf einer Säule im Geist Gottes eingraviert; so wird sie ebenso ewig wie Sonne, Mond und das ganze Weltall\.
+Der Tisch,
+auf den Brot und Salz gelegt werden,
+wurde an der Nordseite aufgestellt,
+weil gerade der Norden die meisten Winde hervorbringt,
+und auch deshalb,
+weil alle Nahrung aus Himmel und Erde kommt:
+der eine gibt Regen,
+die andere bringt durch die Bewässerung mit Wasser alle Samen zur Vollendung\.
+Denn die Sinnbilder von Himmel und Erde stehen nebeneinander,
+wie die heilige Schrift zeigt:
+Der Leuchter ist das Sinnbild des Himmels,
+und der wahrhaft so genannte Räucheraltar,
+auf dem alle Räucheropfer dargebracht werden,
+ist das Zeichen der irdischen Dinge\.
+Es wurde aber üblich,
+den Altar unter freiem Himmel Opferaltar zu nennen,
+weil er die Opfer bewahrte und in Obhut nahm;
+bildlich deutet er die verzehrende Kraft dieser Dinge an,
+nicht die Lämmer und die verschiedenen Teile der Opfertiere,
+die dargebracht wurden und ihrer Natur nach dazu bestimmt waren,
+vom Feuer vernichtet zu werden,
+sondern die Gesinnung dessen,
+der sie darbrachte\.
+Denn wenn der Mann,
+der die Opfergaben darbrachte,
+dumm und unwissend war,
+waren die Opfer keine Opfer,
+die Opfertiere nicht heilig und nicht geweiht,
+die Gebete unheilvoll und der Gefahr ausgesetzt,
+durch völlige Vernichtung erhört zu werden;
+denn selbst wenn sie angenommen zu werden scheinen,
+bewirken sie keine Vergebung der Sünden,
+sondern rufen sie nur in Erinnerung\.
+Wenn aber der Mann,
+der das Opfer darbringt,
+freimütig und gerecht ist,
+dann bleibt das Opfer fest bestehen,
+auch wenn das Fleisch des Opfertiers verzehrt wird,
+oder vielmehr,
+möchte ich sagen,
+selbst wenn überhaupt kein Opfertier dargebracht wird\.
+Denn was kann ein wirkliches und wahres Opfer sein,
+wenn nicht die Frömmigkeit einer Seele,
+die Gott liebt?
+Ihre Dankbarkeit ist mit Unsterblichkeit gesegnet und wird,
+ohne schriftlich aufgezeichnet zu sein,
+auf einer Säule im Geist Gottes eingraviert;
+so wird sie ebenso ewig wie Sonne,
+Mond und das ganze Weltall\.

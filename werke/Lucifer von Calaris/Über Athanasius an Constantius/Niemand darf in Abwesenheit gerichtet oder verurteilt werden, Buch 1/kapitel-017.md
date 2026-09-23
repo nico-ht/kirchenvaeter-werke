@@ -7,6 +7,139 @@ Autor: Lucifer von Calaris
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/lucifer-von-calaris/niemand-darf-in-abwesenheit-gerichtet-oder-verurteilt-werden-buch-1#kapitel-a82ed2d5-407e-4cac-68a6-08ded9b64703).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ac8795d57a2903e7c06285bd7ce469833a48b1319f3ccd68b27f1c14c3b9b7b9`
-
-Doch um fortzufahren mit dem, was ich über die Taten Elijas und Achabs zu sagen begonnen hatte: Und Elija sagte: „Nicht ich richte Israel zugrunde, sondern du und das Haus deines Vaters, indem ihr den Herrn, unseren Gott, verlasst und dem Baal nachlauft\. Und nun sende hin und versammle ganz Israel zu mir auf den Berg Karmel, dazu die vierhundertfünfzig Propheten der Verwirrung und die vierhundert Propheten der Haine, die am Tisch Isebels essen und trinken\.“ Da sandte König Achab zu ganz Israel und versammelte alle Propheten auf den Berg Karmel\. Und Elija trat zu allen und sagte ihnen: „Wie lange hinkt ihr noch in eurem Sinn? Wenn der Herr Gott ist, dann geht ihm nach; wenn aber Baal es ist, dann geht ihm nach\.“ Und das Volk antwortete ihm kein Wort\. Und Elija sagte zum Volk: „Ich allein bin übriggeblieben, ein einziger von den Propheten des Herrn; die Propheten dieses Baal aber sind vierhundertfünfzig Männer und die Propheten der Haine vierhundert\. Man gebe uns also zwei Rinder; sie sollen sich eines auswählen, es zerstücken, auf das Holz legen und kein Feuer darunterlegen\. Ich aber werde das andere Rind zurichten und kein Feuer darunterlegen\. Dann ruft ihr den Namen eurer Götter an, und ich werde den Namen meines Gottes anrufen; und welcher Gott uns im Feuer erhört, der ist Gott\.“ Da antwortete das ganze Volk und sagte: „Gut ist das Wort, das Elija gesprochen hat\.“ Und Elija sagte zu den Propheten der Verwirrung: „Wählt euch ein Kalb aus und richtet ihr es zuerst zu, denn ihr seid viele; ruft den Namen eurer Götter an, aber legt kein Feuer darunter\.“ Da nahmen sie das Kalb und richteten es zu, riefen vom Morgen bis zum Abend den Namen Baals an und sagten: „Erhöre uns, Baal, erhöre uns\!“ Doch bei ihnen war keine Stimme und kein Hören\. Da setzte Elija der Thisbiter hinzu: „Ruft gemeinsam mit lauter Stimme; vielleicht ist er ja beschäftigt oder schläft, dann wird er aufwachen\.“ Und sie riefen ihn mit lauter Stimme an und schnitten sich nach ihrer Gewohnheit mit Schwertern und Messern, bis Blut an ihnen herabfloss, und sie weissagten, bis der Mittag vorüberging\. Als nun die Zeit gekommen war, dass das Opfer hinaufgebracht werden sollte, sprach Elija der Thisbiter zu den Propheten: „Tretet jetzt zurück; ich werde die Brandopfer darbringen\.“ Da traten sie zurück und gingen weg\. Und Elija sagte zum Volk: „Tretet zu mir heran\.“ Da trat das ganze Volk zu ihm heran\. Und Elija nahm zwölf Steine nach der Zahl der Stämme Israels, wie der Herr zu ihm gesprochen hatte: „Israel soll dein Name sein\.“ Er baute die Steine auf und stellte den Altar des Herrn wieder her, der zerstört worden war, und machte rings um den Altar einen Graben, der zwei Maß Samen fasste; er schichtete die Scheite auf den Altar, den er gemacht hatte, zerstückte das Brandopfer, legte es auf die Scheite und richtete es auf dem Altar her\. Dann sagte er: „Holt mir vier Krüge Wasser und gießt es über das Brandopfer und über die Scheite\.“ Und er sagte: „Bringt es noch einmal\.“ Und sie brachten es noch einmal\. Und er sagte: „Wiederholt es ein drittes Mal\.“ Und sie wiederholten es ein drittes Mal; das Wasser lief rings um das Heiligtum, und den Graben füllten sie mit Wasser\. Da rief Elija zum Himmel und sagte: „Herr, Gott Abrahams und Isaaks und Israels, erhöre mich, Herr, erhöre mich heute im Feuer, damit dieses ganze Volk erkennt, dass du der Herr, der Gott Israels, bist und ich dein Diener bin; um deinetwillen habe ich diese Werke getan, und du hast das Herz dieses Volkes zurückgewandt\.“ Da fiel Feuer vom Herrn aus dem Himmel herab und verzehrte die Brandopfer, die Scheite und das Wasser, das auf dem Altar war; auch die Steine und die Erde leckte das Feuer auf\. Da fiel das ganze Volk auf sein Angesicht und sagte: „Wahrhaftig, der Herr, Gott, er ist Gott\.“ Und Elija sagte zum Volk: „Ergreift die Propheten Baals; keiner von ihnen soll gerettet werden\.“ Da ergriffen sie sie; Elija führte sie zum Bach Kison hinab und tötete sie dort\. Und er sagte zu Achab: „Iss und trink, denn da ist das Rauschen der Schritte des Regens\.“ Da stieg Achab hinauf, um zu essen und zu trinken\. Elija aber stieg auf den Karmel, beugte sich zur Erde und legte sein Gesicht zwischen seine Knie\. Und er sagte zu seinem Diener: „Steig hinauf und schau zum Weg des Meeres\.“ Der Diener schaute hin und sagte: „Da ist nichts\.“ „Wende dich siebenmal\.“ Und beim siebten Mal geschah es: Siehe, eine kleine Wolke, wie die Spur eines Menschen, zog Wasser aus dem Meer herauf\. Da sagte Elija zu ihm: „Steig hinauf und sag zu Achab: Spann deinen Wagen an und fahr hinab, damit dich der Regen nicht einholt\.“ Und es geschah hier und dort: Der Himmel verfinsterte sich von Wolken und Winden, und es kam ein großer Regen\. Achab weinte und zog nach Israel; die Hand des Herrn aber war über Elija\.
+Doch um fortzufahren mit dem,
+was ich über die Taten Elijas und Achabs zu sagen begonnen hatte:
+Und Elija sagte:
+„Nicht ich richte Israel zugrunde,
+sondern du und das Haus deines Vaters,
+indem ihr den Herrn,
+unseren Gott,
+verlasst und dem Baal nachlauft\.
+Und nun sende hin und versammle ganz Israel zu mir auf den Berg Karmel,
+dazu die vierhundertfünfzig Propheten der Verwirrung und die vierhundert Propheten der Haine,
+die am Tisch Isebels essen und trinken\.“
+Da sandte König Achab zu ganz Israel und versammelte alle Propheten auf den Berg Karmel\.
+Und Elija trat zu allen und sagte ihnen:
+„Wie lange hinkt ihr noch in eurem Sinn?
+Wenn der Herr Gott ist,
+dann geht ihm nach;
+wenn aber Baal es ist,
+dann geht ihm nach\.“
+Und das Volk antwortete ihm kein Wort\.
+Und Elija sagte zum Volk:
+„Ich allein bin übriggeblieben,
+ein einziger von den Propheten des Herrn;
+die Propheten dieses Baal aber sind vierhundertfünfzig Männer und die Propheten der Haine vierhundert\.
+Man gebe uns also zwei Rinder;
+sie sollen sich eines auswählen,
+es zerstücken,
+auf das Holz legen und kein Feuer darunterlegen\.
+Ich aber werde das andere Rind zurichten und kein Feuer darunterlegen\.
+Dann ruft ihr den Namen eurer Götter an,
+und ich werde den Namen meines Gottes anrufen;
+und welcher Gott uns im Feuer erhört,
+der ist Gott\.“
+Da antwortete das ganze Volk und sagte:
+„Gut ist das Wort,
+das Elija gesprochen hat\.“
+Und Elija sagte zu den Propheten der Verwirrung:
+„Wählt euch ein Kalb aus und richtet ihr es zuerst zu,
+denn ihr seid viele;
+ruft den Namen eurer Götter an,
+aber legt kein Feuer darunter\.“
+Da nahmen sie das Kalb und richteten es zu,
+riefen vom Morgen bis zum Abend den Namen Baals an und sagten:
+„Erhöre uns,
+Baal,
+erhöre uns\!“
+Doch bei ihnen war keine Stimme und kein Hören\.
+Da setzte Elija der Thisbiter hinzu:
+„Ruft gemeinsam mit lauter Stimme;
+vielleicht ist er ja beschäftigt oder schläft,
+dann wird er aufwachen\.“
+Und sie riefen ihn mit lauter Stimme an und schnitten sich nach ihrer Gewohnheit mit Schwertern und Messern,
+bis Blut an ihnen herabfloss,
+und sie weissagten,
+bis der Mittag vorüberging\.
+Als nun die Zeit gekommen war,
+dass das Opfer hinaufgebracht werden sollte,
+sprach Elija der Thisbiter zu den Propheten:
+„Tretet jetzt zurück;
+ich werde die Brandopfer darbringen\.“
+Da traten sie zurück und gingen weg\.
+Und Elija sagte zum Volk:
+„Tretet zu mir heran\.“
+Da trat das ganze Volk zu ihm heran\.
+Und Elija nahm zwölf Steine nach der Zahl der Stämme Israels,
+wie der Herr zu ihm gesprochen hatte:
+„Israel soll dein Name sein\.“
+Er baute die Steine auf und stellte den Altar des Herrn wieder her,
+der zerstört worden war,
+und machte rings um den Altar einen Graben,
+der zwei Maß Samen fasste;
+er schichtete die Scheite auf den Altar,
+den er gemacht hatte,
+zerstückte das Brandopfer,
+legte es auf die Scheite und richtete es auf dem Altar her\.
+Dann sagte er:
+„Holt mir vier Krüge Wasser und gießt es über das Brandopfer und über die Scheite\.“
+Und er sagte:
+„Bringt es noch einmal\.“
+Und sie brachten es noch einmal\.
+Und er sagte:
+„Wiederholt es ein drittes Mal\.“
+Und sie wiederholten es ein drittes Mal;
+das Wasser lief rings um das Heiligtum,
+und den Graben füllten sie mit Wasser\.
+Da rief Elija zum Himmel und sagte:
+„Herr,
+Gott Abrahams und Isaaks und Israels,
+erhöre mich,
+Herr,
+erhöre mich heute im Feuer,
+damit dieses ganze Volk erkennt,
+dass du der Herr,
+der Gott Israels,
+bist und ich dein Diener bin;
+um deinetwillen habe ich diese Werke getan,
+und du hast das Herz dieses Volkes zurückgewandt\.“
+Da fiel Feuer vom Herrn aus dem Himmel herab und verzehrte die Brandopfer,
+die Scheite und das Wasser,
+das auf dem Altar war;
+auch die Steine und die Erde leckte das Feuer auf\.
+Da fiel das ganze Volk auf sein Angesicht und sagte:
+„Wahrhaftig,
+der Herr,
+Gott,
+er ist Gott\.“
+Und Elija sagte zum Volk:
+„Ergreift die Propheten Baals;
+keiner von ihnen soll gerettet werden\.“
+Da ergriffen sie sie;
+Elija führte sie zum Bach Kison hinab und tötete sie dort\.
+Und er sagte zu Achab:
+„Iss und trink,
+denn da ist das Rauschen der Schritte des Regens\.“
+Da stieg Achab hinauf,
+um zu essen und zu trinken\.
+Elija aber stieg auf den Karmel,
+beugte sich zur Erde und legte sein Gesicht zwischen seine Knie\.
+Und er sagte zu seinem Diener:
+„Steig hinauf und schau zum Weg des Meeres\.“
+Der Diener schaute hin und sagte:
+„Da ist nichts\.“
+„Wende dich siebenmal\.“
+Und beim siebten Mal geschah es:
+Siehe,
+eine kleine Wolke,
+wie die Spur eines Menschen,
+zog Wasser aus dem Meer herauf\.
+Da sagte Elija zu ihm:
+„Steig hinauf und sag zu Achab:
+Spann deinen Wagen an und fahr hinab,
+damit dich der Regen nicht einholt\.“
+Und es geschah hier und dort:
+Der Himmel verfinsterte sich von Wolken und Winden,
+und es kam ein großer Regen\.
+Achab weinte und zog nach Israel;
+die Hand des Herrn aber war über Elija\.

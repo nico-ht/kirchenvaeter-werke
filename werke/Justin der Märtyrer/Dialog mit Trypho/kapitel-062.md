@@ -7,11 +7,92 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-d7677868-7595-48bf-ff27-08de24907839).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:2f7fec9ce08a99faccaaef5de147a8c1fe4ff8a3645357d3528103bf0f33af62`
+Meine Herren“,
+fuhr ich fort,
+„das Wort Gottes hat durch Mose genau dasselbe gesagt,
+als es uns offenbarte,
+dass Gott bei der Erschaffung des Menschen in eben demselben Sinn von ihm sprach,
+den Mose angedeutet hat\.
+Hier steht der Text:
+‚Lasst uns Menschen machen nach unserem Bild und nach unserer Ähnlichkeit;
+und sie sollen herrschen über die Fische des Meeres und die Vögel des Himmels und über das Vieh und die ganze Erde und über alles Gewürm,
+das sich auf der Erde regt\.
+Und Gott schuf den Menschen;
+nach dem Bild Gottes schuf er ihn,
+männlich und weiblich schuf er sie\.
+Und Gott segnete sie und sprach zu ihnen:
+Wachst und vermehrt euch und füllt die Erde und herrscht über sie\.‘[^bible-17e61e0a-04c2-4772-a0d5-a2bd319c3441]
+Damit ihr den Sinn dieser Worte nicht verdreht,
+indem ihr nachsprecht,
+was eure Lehrer sagen – entweder,
+Gott habe zu sich selbst gesagt:
+‚Lasst uns machen‘,
+so wie wir,
+wenn wir im Begriff sind,
+etwas zu tun,
+zu uns selbst sagen:
+‚Lasst uns machen‘;
+oder Gott habe ‚Lasst uns machen‘ zu den Elementen gesagt,
+das heißt zur Erde oder zu anderen ähnlichen Stoffen,
+aus denen wir meinen,
+dass der Mensch zusammengesetzt sei –,
+will ich euch noch einmal Mose anführen,
+um zweifelsfrei zu zeigen,
+dass er mit einem geredet hat,
+der mit Vernunft begabt und der Zahl nach von ihm unterschieden ist\.
+So stehen die Worte:
+‚Und Gott sprach:
+Siehe,
+Adam ist geworden wie einer von Uns,
+zu erkennen Gutes und Böses\.‘
+[^bible-2343bbdc-6973-4f3a-9eae-cb1261bef04f]Die Worte ‚wie einer von Uns‘ zeigen doch klar,
+dass mehrere Personen beieinander waren,
+mindestens zwei\.
+Ich halte jene Lehre nicht für wahr,
+die von dem vertreten wird,
+was ihr eine häretische Sekte eurer Religion nennt;
+und die Vertreter dieser Häresie können weder beweisen,
+dass er diese Worte zu Engeln gesprochen hat,
+noch dass der menschliche Körper das Ergebnis der Arbeit von Engeln ist\.
 
-Meine Herren“, fuhr ich fort, „das Wort Gottes hat durch Mose genau dasselbe gesagt, als es uns offenbarte, dass Gott bei der Erschaffung des Menschen in eben demselben Sinn von ihm sprach, den Mose angedeutet hat\. Hier steht der Text: ‚Lasst uns Menschen machen nach unserem Bild und nach unserer Ähnlichkeit; und sie sollen herrschen über die Fische des Meeres und die Vögel des Himmels und über das Vieh und die ganze Erde und über alles Gewürm, das sich auf der Erde regt\. Und Gott schuf den Menschen; nach dem Bild Gottes schuf er ihn, männlich und weiblich schuf er sie\. Und Gott segnete sie und sprach zu ihnen: Wachst und vermehrt euch und füllt die Erde und herrscht über sie\.‘[^bible-17e61e0a-04c2-4772-a0d5-a2bd319c3441] Damit ihr den Sinn dieser Worte nicht verdreht, indem ihr nachsprecht, was eure Lehrer sagen – entweder, Gott habe zu sich selbst gesagt: ‚Lasst uns machen‘, so wie wir, wenn wir im Begriff sind, etwas zu tun, zu uns selbst sagen: ‚Lasst uns machen‘; oder Gott habe ‚Lasst uns machen‘ zu den Elementen gesagt, das heißt zur Erde oder zu anderen ähnlichen Stoffen, aus denen wir meinen, dass der Mensch zusammengesetzt sei –, will ich euch noch einmal Mose anführen, um zweifelsfrei zu zeigen, dass er mit einem geredet hat, der mit Vernunft begabt und der Zahl nach von ihm unterschieden ist\. So stehen die Worte: ‚Und Gott sprach: Siehe, Adam ist geworden wie einer von Uns, zu erkennen Gutes und Böses\.‘ [^bible-2343bbdc-6973-4f3a-9eae-cb1261bef04f]Die Worte ‚wie einer von Uns‘ zeigen doch klar, dass mehrere Personen beieinander waren, mindestens zwei\. Ich halte jene Lehre nicht für wahr, die von dem vertreten wird, was ihr eine häretische Sekte eurer Religion nennt; und die Vertreter dieser Häresie können weder beweisen, dass er diese Worte zu Engeln gesprochen hat, noch dass der menschliche Körper das Ergebnis der Arbeit von Engeln ist\.
-
-Dieser Sohn aber, der wirklich vom Vater gezeugt ist, war beim Vater, und der Vater sprach mit ihm vor aller Schöpfung, wie das Wort durch Salomo uns klar gezeigt hat, indem es sagt, dass dieser Sohn, den Salomo Weisheit nennt, sowohl als Anfang vor allen seinen Werken als auch als sein eigener Spross gezeugt worden ist\. Dieselbe Wahrheit hat Gott in der Offenbarung an Jesus, den Sohn Nun, bezeugt\. Damit ihr völlig überzeugt werdet, hört auf diese Worte aus dem Buch Jesus: „Und es geschah, als Jesus bei Jericho war, da erhob er seine Augen und sah, und siehe, ein Mann stand ihm gegenüber\. Und Jesus ging zu ihm hin und sagte: Bist du einer von uns oder von unseren Gegnern? Er aber antwortete: Ich bin der Oberbefehlshaber des Heeres des Herrn, jetzt bin ich gekommen\. Da fiel Jesus auf sein Angesicht zur Erde, betete an und sagte zu ihm: Herr, was befiehlst du deinem Knecht? Und der Oberbefehlshaber des Herrn sagte zu Jesus: Zieh deine Schuhe aus von deinen Füßen; denn der Ort, auf dem du stehst, ist heilig\. Jericho aber war verschlossen und stark befestigt, und niemand ging aus ihm heraus und niemand ging in es hinein\. Und der Herr sprach zu Jesus: Siehe, ich habe Jericho in deine Hand gegeben und seinen König und all seine tapferen Krieger\.“[^bible-dba2c7aa-a68b-411e-922e-44a065d9689b]“
+Dieser Sohn aber,
+der wirklich vom Vater gezeugt ist,
+war beim Vater,
+und der Vater sprach mit ihm vor aller Schöpfung,
+wie das Wort durch Salomo uns klar gezeigt hat,
+indem es sagt,
+dass dieser Sohn,
+den Salomo Weisheit nennt,
+sowohl als Anfang vor allen seinen Werken als auch als sein eigener Spross gezeugt worden ist\.
+Dieselbe Wahrheit hat Gott in der Offenbarung an Jesus,
+den Sohn Nun,
+bezeugt\.
+Damit ihr völlig überzeugt werdet,
+hört auf diese Worte aus dem Buch Jesus:
+„Und es geschah,
+als Jesus bei Jericho war,
+da erhob er seine Augen und sah,
+und siehe,
+ein Mann stand ihm gegenüber\.
+Und Jesus ging zu ihm hin und sagte:
+Bist du einer von uns oder von unseren Gegnern?
+Er aber antwortete:
+Ich bin der Oberbefehlshaber des Heeres des Herrn,
+jetzt bin ich gekommen\.
+Da fiel Jesus auf sein Angesicht zur Erde,
+betete an und sagte zu ihm:
+Herr,
+was befiehlst du deinem Knecht?
+Und der Oberbefehlshaber des Herrn sagte zu Jesus:
+Zieh deine Schuhe aus von deinen Füßen;
+denn der Ort,
+auf dem du stehst,
+ist heilig\.
+Jericho aber war verschlossen und stark befestigt,
+und niemand ging aus ihm heraus und niemand ging in es hinein\.
+Und der Herr sprach zu Jesus:
+Siehe,
+ich habe Jericho in deine Hand gegeben und seinen König und all seine tapferen Krieger\.“[^bible-dba2c7aa-a68b-411e-922e-44a065d9689b]“
 
 ## Bibelverweise
 

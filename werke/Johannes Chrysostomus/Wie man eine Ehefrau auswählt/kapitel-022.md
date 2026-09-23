@@ -7,6 +7,50 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/wie-man-eine-ehefrau-auswaehlt#kapitel-aa296e10-5cf0-4d64-043f-08dd7d8414a1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:9ab45498b3521a73803b669281a03f6f0dab8160e468c1e5f934163fa131d53e`
-
-Lasst uns nun betrachten, wie er, nachdem er die Braut gewonnen hatte, die Hochzeitsfeier arrangierte\. Hat er eine Menge von Zimbeln, Pfeifen, Trommeln, Flöten, Sängern, Tänzern und all diese Arten von Pomp mitgebracht? Keines von alledem, sondern er nahm nur Rebekka und machte sich auf den Weg\. Um sie zu begleiten, hatte er den gleichen Engel bei sich, den sein Herr Gott gebeten hatte, ihn auf seiner Reise von seinem Haus zu begleiten\. Die Braut wurde also ohne das Hören von Flöten, Leiern oder anderen Instrumenten vermählt, sondern trug unzählige Segnungen Gottes auf ihrem Haupt, eine Krone, die glorreicher war als jedes Diadem\. Sie wurde nicht in einem goldenen Gewand, sondern in Keuschheit, Frömmigkeit, Großzügigkeit und allen anderen Tugenden vermählt\. Sie saß nicht in einer geschlossenen Kutsche oder einem anderen prunkvollen Gefährt, sondern auf ihrem Kamel\. Die Mädchen der Antike hatten neben der Tugend in ihren Seelen auch eine große Kraft in ihren Körpern\. Ihre Mütter zogen sie nicht so auf, wie es heute üblich ist, indem sie sie mit häufigen Bädern, parfümierten Salben, Kosmetika, weichen Kleidern und vielen anderen Einflüssen verderben, die sie schwächer machen, als sie sein sollten\. Diese Mütter gaben ihren Töchtern alle Arten von robustem Training\. Deshalb hatte die Schönheit ihrer Körper eine echte Frische, da sie natürlich und nicht künstlich oder absichtlich kultiviert war\. Aus diesem Grund genossen sie eine reine Gesundheit\. Sie hatten außergewöhnliche Schönheit, da keine Schwäche ihre Körper plagte und alle Trägheit von ihnen verbannt war\. Mühe, Entbehrung und das Erledigen aller eigenen Arbeiten vertrieben alle Oberflächlichkeit und sicherten ihre kräftige Gesundheit\. Aus diesem Grund waren sie für ihre Ehemänner begehrenswerter und liebenswerter, denn sie machten nicht nur ihre Körper, sondern auch ihre Seelen besser und tugendhafter\.
+Lasst uns nun betrachten,
+wie er,
+nachdem er die Braut gewonnen hatte,
+die Hochzeitsfeier arrangierte\.
+Hat er eine Menge von Zimbeln,
+Pfeifen,
+Trommeln,
+Flöten,
+Sängern,
+Tänzern und all diese Arten von Pomp mitgebracht?
+Keines von alledem,
+sondern er nahm nur Rebekka und machte sich auf den Weg\.
+Um sie zu begleiten,
+hatte er den gleichen Engel bei sich,
+den sein Herr Gott gebeten hatte,
+ihn auf seiner Reise von seinem Haus zu begleiten\.
+Die Braut wurde also ohne das Hören von Flöten,
+Leiern oder anderen Instrumenten vermählt,
+sondern trug unzählige Segnungen Gottes auf ihrem Haupt,
+eine Krone,
+die glorreicher war als jedes Diadem\.
+Sie wurde nicht in einem goldenen Gewand,
+sondern in Keuschheit,
+Frömmigkeit,
+Großzügigkeit und allen anderen Tugenden vermählt\.
+Sie saß nicht in einer geschlossenen Kutsche oder einem anderen prunkvollen Gefährt,
+sondern auf ihrem Kamel\.
+Die Mädchen der Antike hatten neben der Tugend in ihren Seelen auch eine große Kraft in ihren Körpern\.
+Ihre Mütter zogen sie nicht so auf,
+wie es heute üblich ist,
+indem sie sie mit häufigen Bädern,
+parfümierten Salben,
+Kosmetika,
+weichen Kleidern und vielen anderen Einflüssen verderben,
+die sie schwächer machen,
+als sie sein sollten\.
+Diese Mütter gaben ihren Töchtern alle Arten von robustem Training\.
+Deshalb hatte die Schönheit ihrer Körper eine echte Frische,
+da sie natürlich und nicht künstlich oder absichtlich kultiviert war\.
+Aus diesem Grund genossen sie eine reine Gesundheit\.
+Sie hatten außergewöhnliche Schönheit,
+da keine Schwäche ihre Körper plagte und alle Trägheit von ihnen verbannt war\.
+Mühe,
+Entbehrung und das Erledigen aller eigenen Arbeiten vertrieben alle Oberflächlichkeit und sicherten ihre kräftige Gesundheit\.
+Aus diesem Grund waren sie für ihre Ehemänner begehrenswerter und liebenswerter,
+denn sie machten nicht nur ihre Körper,
+sondern auch ihre Seelen besser und tugendhafter\.

@@ -7,19 +7,161 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/3-predigt-zu-genesis#kapitel-d4c68c83-fdff-4801-8892-08dd13db0f9d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:8f16ed94b4f92668b5c1fa66743e7232b19bbc3daed786ba5ed439987a4e7427`
+Gott gibt Abraham viele Antworten,
+doch nicht alle werden an denselben Mann gerichtet\.
+Einige sind an Abram gerichtet und andere an Abraham,
+das heißt,
+einige werden nach der Namensänderung und andere,
+während er noch unter dem Namen bekannt war,
+der ihm bei seiner Geburt gegeben wurde,
+ausgesprochen\.
+Zunächst wird tatsächlich,
+bevor der Name geändert wird,
+das Orakel an Abram von Gott übermittelt,
+das sagt:
+„Gehe aus deinem Land und von deiner Verwandtschaft und aus dem Haus deines Vaters“ und der Rest\.
+Doch in diesem Befehl wird nichts über den Bund Gottes gesagt,
+nichts über die Beschneidung\.
+Denn es war nicht möglich,
+während er noch Abram war und den Namen seiner physischen Geburt trug,
+den Bund Gottes und das Zeichen der Beschneidung zu empfangen\.
+Aber als er „aus seinem Land und seiner Verwandtschaft hinausging“,
+wurden ihm zu diesem Zeitpunkt Antworten von heiligerer Art übermittelt\.
+Zuerst sagt Gott zu ihm:
+„Du sollst nicht mehr Abram genannt werden,
+sondern Abraham soll dein Name sein\.“
+Dann empfing er sofort sowohl den Bund Gottes als auch die Beschneidung als Zeichen des Glaubens,
+das er nicht annehmen konnte,
+solange er noch im Haus seines Vaters und in der Beziehung des Fleisches war und während er noch Abram genannt wurde\.
+Aber weder er noch seine Frau werden als Presbyter bezeichnet,
+solange er im Haus seines Vaters lebte und mit Fleisch und Blut zusammen war;
+erst nachdem er von dort fortgegangen war,
+verdiente er es,
+sowohl Abraham als auch Presbyter genannt zu werden\.
+„Denn sie waren“,
+sagt der Text,
+„beide Presbyter“,
+das heißt,
+alt,
+Abraham natürlich und seine bewundernswerte Frau,
+„und in ihren Tagen fortgeschritten\.“
+Wie viele lebten vor ihnen länger,
+neunhundert Jahre und mehr,
+einige lebten nicht viel weniger bis zur Flut,
+und keiner von ihnen wird als Presbyter bezeichnet\.
+Denn in Abraham wird nicht das Alter seines Körpers,
+sondern die Reife seines Herzens mit diesem Begriff angesprochen\.
 
-Gott gibt Abraham viele Antworten, doch nicht alle werden an denselben Mann gerichtet\. Einige sind an Abram gerichtet und andere an Abraham, das heißt, einige werden nach der Namensänderung und andere, während er noch unter dem Namen bekannt war, der ihm bei seiner Geburt gegeben wurde, ausgesprochen\. Zunächst wird tatsächlich, bevor der Name geändert wird, das Orakel an Abram von Gott übermittelt, das sagt: „Gehe aus deinem Land und von deiner Verwandtschaft und aus dem Haus deines Vaters“ und der Rest\. Doch in diesem Befehl wird nichts über den Bund Gottes gesagt, nichts über die Beschneidung\. Denn es war nicht möglich, während er noch Abram war und den Namen seiner physischen Geburt trug, den Bund Gottes und das Zeichen der Beschneidung zu empfangen\. Aber als er „aus seinem Land und seiner Verwandtschaft hinausging“, wurden ihm zu diesem Zeitpunkt Antworten von heiligerer Art übermittelt\. Zuerst sagt Gott zu ihm: „Du sollst nicht mehr Abram genannt werden, sondern Abraham soll dein Name sein\.“ Dann empfing er sofort sowohl den Bund Gottes als auch die Beschneidung als Zeichen des Glaubens, das er nicht annehmen konnte, solange er noch im Haus seines Vaters und in der Beziehung des Fleisches war und während er noch Abram genannt wurde\. Aber weder er noch seine Frau werden als Presbyter bezeichnet, solange er im Haus seines Vaters lebte und mit Fleisch und Blut zusammen war; erst nachdem er von dort fortgegangen war, verdiente er es, sowohl Abraham als auch Presbyter genannt zu werden\. „Denn sie waren“, sagt der Text, „beide Presbyter“, das heißt, alt, Abraham natürlich und seine bewundernswerte Frau, „und in ihren Tagen fortgeschritten\.“ Wie viele lebten vor ihnen länger, neunhundert Jahre und mehr, einige lebten nicht viel weniger bis zur Flut, und keiner von ihnen wird als Presbyter bezeichnet\. Denn in Abraham wird nicht das Alter seines Körpers, sondern die Reife seines Herzens mit diesem Begriff angesprochen\.
-
-Der Herr sagt auch zu Mose: „Wähle dir Presbyter aus, von denen du selbst weißt, dass sie Presbyter sind\.“ Lassen wir uns die Worte des Herrn sehr genau ansehen\. Was bedeutet diese Ergänzung, die sagt: „Von denen du selbst weißt, dass sie Presbyter sind“? War es nicht für alle offensichtlich, dass er ein Presbyter war, das heißt, alt, der das Alter in seinem Körper trug? Warum wird dann diese besondere Prüfung nur Mose, einem so großen Propheten, auferlegt, dass diese gewählt werden sollen, nicht von denen, die andere Menschen kannten, nicht von denen, die die unwissende Menge erkannte, sondern von dem Propheten, der voller Gottes ist? Denn in Bezug auf sie geht es nicht um ein Urteil über ihren Körper oder ihr Alter, sondern um ihren Geist\.
+Der Herr sagt auch zu Mose:
+„Wähle dir Presbyter aus,
+von denen du selbst weißt,
+dass sie Presbyter sind\.“
+Lassen wir uns die Worte des Herrn sehr genau ansehen\.
+Was bedeutet diese Ergänzung,
+die sagt:
+„Von denen du selbst weißt,
+dass sie Presbyter sind“?
+War es nicht für alle offensichtlich,
+dass er ein Presbyter war,
+das heißt,
+alt,
+der das Alter in seinem Körper trug?
+Warum wird dann diese besondere Prüfung nur Mose,
+einem so großen Propheten,
+auferlegt,
+dass diese gewählt werden sollen,
+nicht von denen,
+die andere Menschen kannten,
+nicht von denen,
+die die unwissende Menge erkannte,
+sondern von dem Propheten,
+der voller Gottes ist?
+Denn in Bezug auf sie geht es nicht um ein Urteil über ihren Körper oder ihr Alter,
+sondern um ihren Geist\.
 
 So waren also diese gesegneten Presbyter Abraham und Sara\.
 
-Zunächst wurden ihre natürlichen Namen, die sie bei ihrer Geburt im Fleisch erhielten, geändert\. „Denn als Abraham neunundneunzig Jahre alt war, erschien Gott ihm und sagte: ‚Ich bin Gott\. Sei wohlgefällig vor mir und sei untadelig, und ich will einen Bund zwischen mir und dir schließen\.‘ Und Abraham fiel auf sein Angesicht und betete Gott an, und Gott sprach zu ihm und sagte: ‚Ich bin; siehe, mein Bund ist mit dir, und du sollst der Vater einer Menge von Nationen sein, und alle Nationen sollen in dir gesegnet sein, und dein Name soll nicht mehr Abram genannt werden, sondern dein Name soll Abraham sein\.‘“[^bible-16ed86cf-93c9-48ad-a08b-cc34d7a8a1b3] Und als er ihm diesen Namen gegeben hatte, fügte er sofort hinzu: „Und ich will meinen Bund zwischen mir und dir und deinem Samen nach dir schließen\. Und dies ist der Bund, den du zwischen mir und dir und deinem Samen nach dir bewahren sollst\.“ [^bible-38c943fa-3b54-448b-8905-b0fe965aee8e]Und nach diesen Worten fügt er hinzu: „Und alle eure Männlichen sollen beschnitten werden, und du sollst das Fleisch deiner Vorhaut beschneiden\.“[^bible-5683030b-847f-4c3c-8d18-3b7a5dd5929c]
+Zunächst wurden ihre natürlichen Namen,
+die sie bei ihrer Geburt im Fleisch erhielten,
+geändert\.
+„Denn als Abraham neunundneunzig Jahre alt war,
+erschien Gott ihm und sagte:
+‚Ich bin Gott\.
+Sei wohlgefällig vor mir und sei untadelig,
+und ich will einen Bund zwischen mir und dir schließen\.‘
+Und Abraham fiel auf sein Angesicht und betete Gott an,
+und Gott sprach zu ihm und sagte:
+‚Ich bin;
+siehe,
+mein Bund ist mit dir,
+und du sollst der Vater einer Menge von Nationen sein,
+und alle Nationen sollen in dir gesegnet sein,
+und dein Name soll nicht mehr Abram genannt werden,
+sondern dein Name soll Abraham sein\.‘“[^bible-16ed86cf-93c9-48ad-a08b-cc34d7a8a1b3]
+Und als er ihm diesen Namen gegeben hatte,
+fügte er sofort hinzu:
+„Und ich will meinen Bund zwischen mir und dir und deinem Samen nach dir schließen\.
+Und dies ist der Bund,
+den du zwischen mir und dir und deinem Samen nach dir bewahren sollst\.“
+[^bible-38c943fa-3b54-448b-8905-b0fe965aee8e]Und nach diesen Worten fügt er hinzu:
+„Und alle eure Männlichen sollen beschnitten werden,
+und du sollst das Fleisch deiner Vorhaut beschneiden\.“[^bible-5683030b-847f-4c3c-8d18-3b7a5dd5929c]
 
-Denn in Abraham wird nicht das hohe Alter seines Körpers angesprochen, sondern die Reife seines Herzens, die durch diesen Begriff zum Ausdruck kommt\. Aber der Herr sagt auch zu Mose: „Wähle dir Presbyter, von denen du selbst weißt, dass sie Presbyter sind\.“ Lasst uns das Wort des Herrn sehr sorgfältig betrachten\. Was könnte diese Ergänzung bedeuten, die sagt: „Von denen du selbst weißt, dass sie Presbyter sind“? War es nicht für alle offensichtlich, dass er ein Presbyter war, das heißt alt, der das Alter in seinem Körper trug? Warum wird dann diese besondere Prüfung nur Mose, einem so großen Propheten, befohlen, dass diejenigen gewählt werden sollen, nicht die, die andere Menschen kannten, nicht die, die die unwissende Menge erkannte, sondern die, die der von Gott erfüllte Prophet wählen sollte? Denn in Bezug auf sie geht es nicht um ein Urteil über ihren Körper oder ihr Alter, sondern über ihren Verstand\. So waren also diese gesegneten Presbyter Abraham und Sara\.
+Denn in Abraham wird nicht das hohe Alter seines Körpers angesprochen,
+sondern die Reife seines Herzens,
+die durch diesen Begriff zum Ausdruck kommt\.
+Aber der Herr sagt auch zu Mose:
+„Wähle dir Presbyter,
+von denen du selbst weißt,
+dass sie Presbyter sind\.“
+Lasst uns das Wort des Herrn sehr sorgfältig betrachten\.
+Was könnte diese Ergänzung bedeuten,
+die sagt:
+„Von denen du selbst weißt,
+dass sie Presbyter sind“?
+War es nicht für alle offensichtlich,
+dass er ein Presbyter war,
+das heißt alt,
+der das Alter in seinem Körper trug?
+Warum wird dann diese besondere Prüfung nur Mose,
+einem so großen Propheten,
+befohlen,
+dass diejenigen gewählt werden sollen,
+nicht die,
+die andere Menschen kannten,
+nicht die,
+die die unwissende Menge erkannte,
+sondern die,
+die der von Gott erfüllte Prophet wählen sollte?
+Denn in Bezug auf sie geht es nicht um ein Urteil über ihren Körper oder ihr Alter,
+sondern über ihren Verstand\.
+So waren also diese gesegneten Presbyter Abraham und Sara\.
 
-Und zunächst wurden ihre natürlichen Namen, die sie bei ihrer Geburt im Fleisch erhielten, geändert\. „Denn als Abraham neunundneunzig Jahre alt war, erschien ihm Gott und sagte: 'Ich bin Gott\. Sei mir wohlgefällig und sei untadelig, und ich werde einen Bund zwischen mir und dir schließen\.' Und Abraham fiel auf sein Angesicht und betete Gott an, und Gott sprach zu ihm und sagte: 'Ich bin; siehe, mein Bund mit dir, und du sollst der Vater vieler Völker werden, und alle Völker sollen in dir gesegnet sein, und dein Name soll nicht mehr Abram genannt werden, sondern dein Name soll Abraham sein\.'“[^bible-d4b38530-61a2-43f0-bb3a-30c69df20cee] Und als er ihm diesen Namen gegeben hatte, fügte er sofort hinzu: „Und ich werde meinen Bund zwischen mir und dir und deinem Samen nach dir schließen\. Und dies ist der Bund, den du zwischen mir und dir und deinem Samen nach dir bewahren sollst\.“[^bible-54b8d7a4-fb0f-40d1-97f3-0ba0a27fa401] Und nach diesen Worten fügt er hinzu: „Und alle deine Männlichen sollen beschnitten werden, und du sollst das Fleisch deiner Vorhaut beschneiden\.“[^bible-284b2ed1-df4e-4e2b-a6cc-74f6d674f6e3]
+Und zunächst wurden ihre natürlichen Namen,
+die sie bei ihrer Geburt im Fleisch erhielten,
+geändert\.
+„Denn als Abraham neunundneunzig Jahre alt war,
+erschien ihm Gott und sagte:
+'Ich bin Gott\.
+Sei mir wohlgefällig und sei untadelig,
+und ich werde einen Bund zwischen mir und dir schließen\.'
+Und Abraham fiel auf sein Angesicht und betete Gott an,
+und Gott sprach zu ihm und sagte:
+'Ich bin;
+siehe,
+mein Bund mit dir,
+und du sollst der Vater vieler Völker werden,
+und alle Völker sollen in dir gesegnet sein,
+und dein Name soll nicht mehr Abram genannt werden,
+sondern dein Name soll Abraham sein\.'“[^bible-d4b38530-61a2-43f0-bb3a-30c69df20cee]
+Und als er ihm diesen Namen gegeben hatte,
+fügte er sofort hinzu:
+„Und ich werde meinen Bund zwischen mir und dir und deinem Samen nach dir schließen\.
+Und dies ist der Bund,
+den du zwischen mir und dir und deinem Samen nach dir bewahren sollst\.“[^bible-54b8d7a4-fb0f-40d1-97f3-0ba0a27fa401]
+Und nach diesen Worten fügt er hinzu:
+„Und alle deine Männlichen sollen beschnitten werden,
+und du sollst das Fleisch deiner Vorhaut beschneiden\.“[^bible-284b2ed1-df4e-4e2b-a6cc-74f6d674f6e3]
 
 ## Bibelverweise
 

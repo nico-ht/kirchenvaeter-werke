@@ -7,6 +7,19 @@ Autor: Polykarp
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/polykarp/das-martyrium-des-polykarp#kapitel-bfb63af7-2d9e-4b90-2a51-08dea9358194).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:83d76f21a4081f5ad965660be7674a39db19fb9854be61d02bd1694b45965c1e`
-
-Einer aber, mit Namen Quintus, ein Phryger, der erst kürzlich aus Phrygien gekommen war, bekam Angst, als er die wilden Tiere sah\. Er war es, der sich selbst und einige andere dazu gedrängt hatte, freiwillig vorzutreten\. Ihn brachte der Prokonsul durch langes Zureden dazu, zu schwören und zu opfern\. Darum, Brüder, loben wir die nicht, die sich selbst ausliefern; denn so lehrt es das Evangelium nicht\.
+Einer aber,
+mit Namen Quintus,
+ein Phryger,
+der erst kürzlich aus Phrygien gekommen war,
+bekam Angst,
+als er die wilden Tiere sah\.
+Er war es,
+der sich selbst und einige andere dazu gedrängt hatte,
+freiwillig vorzutreten\.
+Ihn brachte der Prokonsul durch langes Zureden dazu,
+zu schwören und zu opfern\.
+Darum,
+Brüder,
+loben wir die nicht,
+die sich selbst ausliefern;
+denn so lehrt es das Evangelium nicht\.

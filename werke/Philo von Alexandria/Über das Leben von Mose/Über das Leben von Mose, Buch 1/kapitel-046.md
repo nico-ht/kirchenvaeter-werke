@@ -7,6 +7,42 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-1#kapitel-35bb3a3b-136f-4609-4892-08ded87107d6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:1e1bf1e6755723dbcf497d039f4c5c884b14e762b110edee4208ba6d22cc11ed`
-
-XLVI\. \(255\) Kurze Zeit später fanden sie eine reichlich fließende Wasserquelle, die die ganze Menge mit Trinkwasser versorgte\. Die Quelle lag in einem Brunnen an der Grenze des Landes; und als sie das Wasser schöpften und tranken, als wäre es nicht Wasser, sondern reiner Wein, wurden sie in ihrer Seele erquickt\. Die unter dem Volk, die Gott liebten, stellten aus Heiterkeit und Freude Reigen und Rundtänze um den Brunnen auf und sangen Gott ein neues Lied, ihm, dem Besitzer und Geber ihres Erbes und dem eigentlichen Führer ihrer Kolonie\. Denn gleich im ersten Augenblick, da sie aus der Richtung her kamen, in der sie so lange gewohnt hatten, und in das bewohnte Land eintraten, das ihnen zum Besitz bestimmt war, hatten sie reichlich zu trinken gefunden; darum hielten sie es für recht, diese Quelle nicht ohne die gebührende Ehrung zu übergehen\. Dieser Brunnen war nämlich ursprünglich nicht von den Händen einzelner Privatleute gegraben worden, sondern von Königen, die, wie die Erzählung ging, miteinander gewetteifert hatten, nicht nur das Wasser zu entdecken, sondern ebenso den Brunnen auszuheben, damit man an seiner Großartigkeit erkennen könne, dass er ein königliches Werk sei, und damit von Anfang an die Macht und der Großmut seiner Erbauer sichtbar werden könnten\. \(257\) Mose aber freute sich über die unerwarteten Wohltaten, die sich ihm von Zeit zu Zeit darboten, und zog weiter\. Dabei teilte er die jungen Männer seines Volkes in Vorhut und Nachhut und stellte die Alten, die Frauen und die Kinder in die Mitte, damit sie von denen geschützt würden, die so an beiden Enden standen, falls sie vorn oder hinten auf irgendeine feindliche Macht treffen müssten\.
+XLVI\.
+\(255\) Kurze Zeit später fanden sie eine reichlich fließende Wasserquelle,
+die die ganze Menge mit Trinkwasser versorgte\.
+Die Quelle lag in einem Brunnen an der Grenze des Landes;
+und als sie das Wasser schöpften und tranken,
+als wäre es nicht Wasser,
+sondern reiner Wein,
+wurden sie in ihrer Seele erquickt\.
+Die unter dem Volk,
+die Gott liebten,
+stellten aus Heiterkeit und Freude Reigen und Rundtänze um den Brunnen auf und sangen Gott ein neues Lied,
+ihm,
+dem Besitzer und Geber ihres Erbes und dem eigentlichen Führer ihrer Kolonie\.
+Denn gleich im ersten Augenblick,
+da sie aus der Richtung her kamen,
+in der sie so lange gewohnt hatten,
+und in das bewohnte Land eintraten,
+das ihnen zum Besitz bestimmt war,
+hatten sie reichlich zu trinken gefunden;
+darum hielten sie es für recht,
+diese Quelle nicht ohne die gebührende Ehrung zu übergehen\.
+Dieser Brunnen war nämlich ursprünglich nicht von den Händen einzelner Privatleute gegraben worden,
+sondern von Königen,
+die,
+wie die Erzählung ging,
+miteinander gewetteifert hatten,
+nicht nur das Wasser zu entdecken,
+sondern ebenso den Brunnen auszuheben,
+damit man an seiner Großartigkeit erkennen könne,
+dass er ein königliches Werk sei,
+und damit von Anfang an die Macht und der Großmut seiner Erbauer sichtbar werden könnten\.
+\(257\) Mose aber freute sich über die unerwarteten Wohltaten,
+die sich ihm von Zeit zu Zeit darboten,
+und zog weiter\.
+Dabei teilte er die jungen Männer seines Volkes in Vorhut und Nachhut und stellte die Alten,
+die Frauen und die Kinder in die Mitte,
+damit sie von denen geschützt würden,
+die so an beiden Enden standen,
+falls sie vorn oder hinten auf irgendeine feindliche Macht treffen müssten\.

@@ -7,6 +7,25 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/das-protoevangelium-von-jakobus#kapitel-aa613047-eaf3-4eb4-878b-08ded9483f72).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:499535645305f3bb5fcedcef7960a3d0cdd02f66a78affafd726bbb2bf4471b7`
-
-Als Herodes erkannte, dass er von den Magiern getäuscht worden war, geriet er in Zorn und sandte Mörder aus mit dem Auftrag: „Tötet die Kinder von zwei Jahren und darunter\.“ Als Maria hörte, dass die Kinder getötet wurden, fürchtete sie sich, nahm das Kind, wickelte es in Windeln und legte es in einen Ochsenstall\. Und als Elisabeth hörte, dass man nach Johannes suchte, nahm sie ihn und ging hinauf ins Bergland; dort suchte sie immerfort nach einem Ort, an dem sie ihn verbergen konnte\. Aber es gab keinen Ort, an dem sie ihn verbergen konnte\. Da seufzte Elisabeth mit lauter Stimme und sprach: „Berg Gottes, nimm Mutter und Kind auf\.“ Und sogleich spaltete sich der Berg und nahm sie auf\. Ein Licht leuchtete um sie her, denn ein Engel des Herrn war bei ihnen und wachte über sie\.
+Als Herodes erkannte,
+dass er von den Magiern getäuscht worden war,
+geriet er in Zorn und sandte Mörder aus mit dem Auftrag:
+„Tötet die Kinder von zwei Jahren und darunter\.“
+Als Maria hörte,
+dass die Kinder getötet wurden,
+fürchtete sie sich,
+nahm das Kind,
+wickelte es in Windeln und legte es in einen Ochsenstall\.
+Und als Elisabeth hörte,
+dass man nach Johannes suchte,
+nahm sie ihn und ging hinauf ins Bergland;
+dort suchte sie immerfort nach einem Ort,
+an dem sie ihn verbergen konnte\.
+Aber es gab keinen Ort,
+an dem sie ihn verbergen konnte\.
+Da seufzte Elisabeth mit lauter Stimme und sprach:
+„Berg Gottes,
+nimm Mutter und Kind auf\.“
+Und sogleich spaltete sich der Berg und nahm sie auf\.
+Ein Licht leuchtete um sie her,
+denn ein Engel des Herrn war bei ihnen und wachte über sie\.

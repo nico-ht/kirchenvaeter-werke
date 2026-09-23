@@ -7,6 +7,39 @@ Autor: Minucius Felix
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/minucius-felix/octavius#kapitel-20911777-0bc4-4cfd-372a-08df04f3eaa6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:6943871241b201ab3e9143d2fb383c0aa157358a50ca20053634b2369f0abdc2`
-
-Während wir alle das Schauspiel genossen, schenkte Caecilius ihm keine Beachtung und lachte auch nicht über den Wettkampf\. Schweigend, unruhig und abseits stehend verriet er durch seine Miene, dass ihn etwas bedrückte, doch ich wusste nicht, was\. Ich fragte ihn: „Was ist los? Warum erkenne ich nichts von deiner gewohnten Lebhaftigkeit, Caecilius? Und warum suche ich vergeblich nach jener Fröhlichkeit, die selbst bei ernsten Dingen aus deinen Augen spricht?“ Er antwortete: „Schon seit einiger Zeit ärgert und beunruhigt mich die Rede unseres Freundes Octavius\. Darin griff er dich an und warf dir Nachlässigkeit vor, um unter dem Deckmantel dieser Anklage umso schärfer meine Unwissenheit zu verurteilen\. Darum werde ich die Sache weiterführen: Jetzt geht es einzig und allein um Octavius und mich\. Wenn er bereit ist, mit einem Mann meiner Überzeugung zu diskutieren, wird er sofort erkennen, dass es leichter ist, unter seinen Gefährten ein Gespräch zu führen, als sich nach Art der Philosophen auf einen Nahkampf einzulassen\. Setzen wir uns auf jene Felsbarrieren, die dort zum Schutz der Bäder errichtet sind und weit ins Meer hinausragen\. Dort können wir uns von unserem Weg ausruhen und zugleich aufmerksamer miteinander diskutieren\.“ Auf sein Wort hin setzten wir uns\. Sie nahmen mich von beiden Seiten in ihre Mitte, sodass wir zu dritt beieinandersaßen\. Das geschah weder aus Rücksicht auf eine Regel noch wegen Rang oder Ehre, denn Freundschaft findet stets Gleiche vor oder macht sie dazu\. Vielmehr sollte ich als Schiedsrichter beiden nahe sein, aufmerksam zuhören und zwischen ihnen sitzend die beiden voneinander trennen können\. Dann begann Caecilius:
+Während wir alle das Schauspiel genossen,
+schenkte Caecilius ihm keine Beachtung und lachte auch nicht über den Wettkampf\.
+Schweigend,
+unruhig und abseits stehend verriet er durch seine Miene,
+dass ihn etwas bedrückte,
+doch ich wusste nicht,
+was\.
+Ich fragte ihn:
+„Was ist los?
+Warum erkenne ich nichts von deiner gewohnten Lebhaftigkeit,
+Caecilius?
+Und warum suche ich vergeblich nach jener Fröhlichkeit,
+die selbst bei ernsten Dingen aus deinen Augen spricht?“
+Er antwortete:
+„Schon seit einiger Zeit ärgert und beunruhigt mich die Rede unseres Freundes Octavius\.
+Darin griff er dich an und warf dir Nachlässigkeit vor,
+um unter dem Deckmantel dieser Anklage umso schärfer meine Unwissenheit zu verurteilen\.
+Darum werde ich die Sache weiterführen:
+Jetzt geht es einzig und allein um Octavius und mich\.
+Wenn er bereit ist,
+mit einem Mann meiner Überzeugung zu diskutieren,
+wird er sofort erkennen,
+dass es leichter ist,
+unter seinen Gefährten ein Gespräch zu führen,
+als sich nach Art der Philosophen auf einen Nahkampf einzulassen\.
+Setzen wir uns auf jene Felsbarrieren,
+die dort zum Schutz der Bäder errichtet sind und weit ins Meer hinausragen\.
+Dort können wir uns von unserem Weg ausruhen und zugleich aufmerksamer miteinander diskutieren\.“
+Auf sein Wort hin setzten wir uns\.
+Sie nahmen mich von beiden Seiten in ihre Mitte,
+sodass wir zu dritt beieinandersaßen\.
+Das geschah weder aus Rücksicht auf eine Regel noch wegen Rang oder Ehre,
+denn Freundschaft findet stets Gleiche vor oder macht sie dazu\.
+Vielmehr sollte ich als Schiedsrichter beiden nahe sein,
+aufmerksam zuhören und zwischen ihnen sitzend die beiden voneinander trennen können\.
+Dann begann Caecilius:

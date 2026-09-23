@@ -7,6 +7,133 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/49-homilie-ueber-matthaeus#kapitel-6f1d6672-bf5e-412f-5b21-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d1336a11796ee26c1b6bb7578fc3167f5a2167a5b72cfe7423bf3a85ac8f3232`
-
-Und ihr lacht, wenn ihr das hört; mir aber kommen die Tränen über ihren Wahn und über ihren Eifer für solche Dinge\. Denn lieber würden sie ihren Körper mit Schlamm beschmutzen als jene Lederstücke\. So werden sie in der einen Hinsicht kleinlich, in einer anderen wieder geldgierig\. Wer sich nämlich daran gewöhnt hat, wegen solcher Dinge verrückt zu sein und sich um sie zu mühen, braucht auch bei den Kleidern und bei allem anderen großen Aufwand und hohe Einkünfte\. Hat er einen ehrgeizigen Vater, wird er nur noch mehr gefangen, indem er diese unsinnige Begierde noch steigert; hat er aber einen kleinlichen, wird er gezwungen, sich auf andere Weise schändlich zu verhalten, um Geld für solche Ausgaben zusammenzubringen\. Daher haben viele junge Männer ihre Jugendblüte verkauft, sind zu Schmarotzern der Wohlhabenden geworden und haben andere sklavische Dienste auf sich genommen; als Gegenpreis dafür erkauften sie sich die Erfüllung solcher Begierden\. Dass ein solcher Mensch also geldgierig und kleinlich sein wird, in den notwendigen Dingen träger als alle anderen und gezwungen, viel zu sündigen, ist daraus klar\. Dass er aber auch hart und ruhmsüchtig ist, wird ebenfalls niemand bestreiten: hart, wenn er einen Armen sieht und vor lauter Verlangen nach Schmuck so tut, als hätte er ihn nicht einmal gesehen, sondern diese Dinge mit Gold schmückt, jenen aber dem Hunger preisgegeben zugrunde gehen lässt; ruhmsüchtig, wenn er sich schon in Kleinigkeiten darauf abrichten lässt, den Ruhm bei den Zuschauern zu jagen\. Denn ich glaube nicht, dass ein Feldherr auf seine Heere und Siegeszeichen so stolz ist wie die ausschweifenden jungen Männer auf den Schmuck ihrer Schuhe, auf die schleppenden Gewänder, auf den Haarschnitt\. Und doch sind all diese Dinge Werke anderer Handwerker\. Wenn sie nun schon bei dem, was fremd ist, nicht aufhören, sich zu rühmen: wann werden sie dann bei dem aufhören, was ihnen selbst gehört? Soll ich noch anderes sagen, Schlimmeres als dies, oder genügt euch auch das? Dann muss die Rede hier also enden\. Denn auch das habe ich nur wegen der Streitsüchtigen gesagt, die behaupten, die Sache sei nicht unsinnig\. Und ich weiß zwar, dass viele junge Männer nicht einmal auf das Gesagte achten werden, weil sie einmal von dieser Leidenschaft berauscht sind; doch deshalb durfte ich nicht schweigen\. Denn Väter, die Einsicht haben und noch gesund denken, werden sie auch gegen ihren Willen zu der gebührenden Anständigkeit führen können\. Sag also nicht: Das hier macht nichts und jenes dort macht auch nichts\. Denn gerade das, gerade das hat alles zugrunde gerichtet\. Man hätte sie nämlich auch von hier aus erziehen und sie schon durch das, was klein zu sein scheint, ehrbar machen müssen, großmütig, stärker als äußeres Gehabe\. So werden wir sie auch in den großen Dingen bewährt finden\. Denn was ist geringer als das Lernen der Buchstaben? Und doch werden daraus Redner, Gelehrte und Philosophen; und wenn sie diese nicht kennen, werden sie auch jene Dinge niemals wissen\. Das aber ist von uns nicht nur zu jungen Männern gesagt, sondern auch zu Frauen und Mädchen\. Denn auch sie sind solchen Vorwürfen ausgesetzt, und noch viel mehr, je angemessener Anstand für eine Jungfrau ist\. Was also zu jenen gesagt wurde, sollt auch ihr als an euch gesagt betrachten, damit wir nicht wieder dasselbe von vorn aufnehmen\. Denn es ist nun Zeit, die Rede mit einem Gebet zu schließen\. Betet also alle mit uns, dass besonders die jungen Männer der Kirche imstande sind, anständig zu leben und in ein Alter zu kommen, das ihnen gebührt\. Denn für diejenigen, die nicht so leben, ist es nicht einmal gut, ins Alter zu kommen\. Für die aber, die schon in der Jugend alt geworden sind, bete ich, dass sie auch zu tiefstem Greisenalter gelangen, Väter bewährter Kinder werden, sich als ihre Erzeuger freuen und vor allem Gott, der sie geschaffen hat, und dass jede Krankheit von ihnen vertrieben werde, nicht nur die an den Schuhen und nicht nur die an den Kleidern, sondern auch jede andere\. Denn wie ein Land, das brachliegt, so ist auch eine Jugend, die vernachlässigt wird: Von überall her bringt sie viele Dornen hervor\. Legen wir also das Feuer des Geistes an, verbrennen wir diese bösen Begierden, brechen wir die Felder neu um, machen wir sie bereit, den Samen aufzunehmen, und zeigen wir, dass die jungen Menschen bei uns besonnener sind als die Alten anderswo\. Denn das ist das Bewundernswerte: wenn Besonnenheit in der Jugend leuchtet\. Wer nämlich im Alter besonnen ist, dürfte keinen großen Lohn haben, da er durch sein Alter eine sichere Absicherung besitzt\. Das Außerordentliche aber ist, mitten in den Wellen Ruhe zu genießen, im Ofen nicht verbrannt zu werden und in der Jugend nicht zügellos zu leben\. Dies also wollen wir bedenken und jenem seligen Josef nacheifern, der durch all dies hindurch geleuchtet hat, damit auch wir dieselben Kränze erlangen wie er\. Möge es uns allen zuteilwerden, sie zu erlangen durch die Gnade und Menschenliebe unseres Herrn Jesus Christus, mit dem dem Vater die Herrlichkeit sei, zusammen mit dem Heiligen Geist, jetzt und immerdar und in alle Ewigkeit\. Amen\.
+Und ihr lacht,
+wenn ihr das hört;
+mir aber kommen die Tränen über ihren Wahn und über ihren Eifer für solche Dinge\.
+Denn lieber würden sie ihren Körper mit Schlamm beschmutzen als jene Lederstücke\.
+So werden sie in der einen Hinsicht kleinlich,
+in einer anderen wieder geldgierig\.
+Wer sich nämlich daran gewöhnt hat,
+wegen solcher Dinge verrückt zu sein und sich um sie zu mühen,
+braucht auch bei den Kleidern und bei allem anderen großen Aufwand und hohe Einkünfte\.
+Hat er einen ehrgeizigen Vater,
+wird er nur noch mehr gefangen,
+indem er diese unsinnige Begierde noch steigert;
+hat er aber einen kleinlichen,
+wird er gezwungen,
+sich auf andere Weise schändlich zu verhalten,
+um Geld für solche Ausgaben zusammenzubringen\.
+Daher haben viele junge Männer ihre Jugendblüte verkauft,
+sind zu Schmarotzern der Wohlhabenden geworden und haben andere sklavische Dienste auf sich genommen;
+als Gegenpreis dafür erkauften sie sich die Erfüllung solcher Begierden\.
+Dass ein solcher Mensch also geldgierig und kleinlich sein wird,
+in den notwendigen Dingen träger als alle anderen und gezwungen,
+viel zu sündigen,
+ist daraus klar\.
+Dass er aber auch hart und ruhmsüchtig ist,
+wird ebenfalls niemand bestreiten:
+hart,
+wenn er einen Armen sieht und vor lauter Verlangen nach Schmuck so tut,
+als hätte er ihn nicht einmal gesehen,
+sondern diese Dinge mit Gold schmückt,
+jenen aber dem Hunger preisgegeben zugrunde gehen lässt;
+ruhmsüchtig,
+wenn er sich schon in Kleinigkeiten darauf abrichten lässt,
+den Ruhm bei den Zuschauern zu jagen\.
+Denn ich glaube nicht,
+dass ein Feldherr auf seine Heere und Siegeszeichen so stolz ist wie die ausschweifenden jungen Männer auf den Schmuck ihrer Schuhe,
+auf die schleppenden Gewänder,
+auf den Haarschnitt\.
+Und doch sind all diese Dinge Werke anderer Handwerker\.
+Wenn sie nun schon bei dem,
+was fremd ist,
+nicht aufhören,
+sich zu rühmen:
+wann werden sie dann bei dem aufhören,
+was ihnen selbst gehört?
+Soll ich noch anderes sagen,
+Schlimmeres als dies,
+oder genügt euch auch das?
+Dann muss die Rede hier also enden\.
+Denn auch das habe ich nur wegen der Streitsüchtigen gesagt,
+die behaupten,
+die Sache sei nicht unsinnig\.
+Und ich weiß zwar,
+dass viele junge Männer nicht einmal auf das Gesagte achten werden,
+weil sie einmal von dieser Leidenschaft berauscht sind;
+doch deshalb durfte ich nicht schweigen\.
+Denn Väter,
+die Einsicht haben und noch gesund denken,
+werden sie auch gegen ihren Willen zu der gebührenden Anständigkeit führen können\.
+Sag also nicht:
+Das hier macht nichts und jenes dort macht auch nichts\.
+Denn gerade das,
+gerade das hat alles zugrunde gerichtet\.
+Man hätte sie nämlich auch von hier aus erziehen und sie schon durch das,
+was klein zu sein scheint,
+ehrbar machen müssen,
+großmütig,
+stärker als äußeres Gehabe\.
+So werden wir sie auch in den großen Dingen bewährt finden\.
+Denn was ist geringer als das Lernen der Buchstaben?
+Und doch werden daraus Redner,
+Gelehrte und Philosophen;
+und wenn sie diese nicht kennen,
+werden sie auch jene Dinge niemals wissen\.
+Das aber ist von uns nicht nur zu jungen Männern gesagt,
+sondern auch zu Frauen und Mädchen\.
+Denn auch sie sind solchen Vorwürfen ausgesetzt,
+und noch viel mehr,
+je angemessener Anstand für eine Jungfrau ist\.
+Was also zu jenen gesagt wurde,
+sollt auch ihr als an euch gesagt betrachten,
+damit wir nicht wieder dasselbe von vorn aufnehmen\.
+Denn es ist nun Zeit,
+die Rede mit einem Gebet zu schließen\.
+Betet also alle mit uns,
+dass besonders die jungen Männer der Kirche imstande sind,
+anständig zu leben und in ein Alter zu kommen,
+das ihnen gebührt\.
+Denn für diejenigen,
+die nicht so leben,
+ist es nicht einmal gut,
+ins Alter zu kommen\.
+Für die aber,
+die schon in der Jugend alt geworden sind,
+bete ich,
+dass sie auch zu tiefstem Greisenalter gelangen,
+Väter bewährter Kinder werden,
+sich als ihre Erzeuger freuen und vor allem Gott,
+der sie geschaffen hat,
+und dass jede Krankheit von ihnen vertrieben werde,
+nicht nur die an den Schuhen und nicht nur die an den Kleidern,
+sondern auch jede andere\.
+Denn wie ein Land,
+das brachliegt,
+so ist auch eine Jugend,
+die vernachlässigt wird:
+Von überall her bringt sie viele Dornen hervor\.
+Legen wir also das Feuer des Geistes an,
+verbrennen wir diese bösen Begierden,
+brechen wir die Felder neu um,
+machen wir sie bereit,
+den Samen aufzunehmen,
+und zeigen wir,
+dass die jungen Menschen bei uns besonnener sind als die Alten anderswo\.
+Denn das ist das Bewundernswerte:
+wenn Besonnenheit in der Jugend leuchtet\.
+Wer nämlich im Alter besonnen ist,
+dürfte keinen großen Lohn haben,
+da er durch sein Alter eine sichere Absicherung besitzt\.
+Das Außerordentliche aber ist,
+mitten in den Wellen Ruhe zu genießen,
+im Ofen nicht verbrannt zu werden und in der Jugend nicht zügellos zu leben\.
+Dies also wollen wir bedenken und jenem seligen Josef nacheifern,
+der durch all dies hindurch geleuchtet hat,
+damit auch wir dieselben Kränze erlangen wie er\.
+Möge es uns allen zuteilwerden,
+sie zu erlangen durch die Gnade und Menschenliebe unseres Herrn Jesus Christus,
+mit dem dem Vater die Herrlichkeit sei,
+zusammen mit dem Heiligen Geist,
+jetzt und immerdar und in alle Ewigkeit\.
+Amen\.

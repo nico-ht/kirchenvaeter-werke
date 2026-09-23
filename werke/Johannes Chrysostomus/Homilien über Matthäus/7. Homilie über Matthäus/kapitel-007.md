@@ -7,9 +7,122 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/7-homilie-ueber-matthaeus#kapitel-33afcfcd-fe92-4310-5a3f-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:04768a91df68c5b710f6c503a986e6636d2cc8a0122736635e5627b6fa3dda7a`
-
-Denn wenn „wer eine Frau ansieht, um sie zu begehren, schon die Ehe gebrochen hat[^bible-89dc722b-2578-4891-b820-121cfa67beca]“, wie wird dann einer, der genötigt wird, sie nackt anzusehen, nicht zehntausendmal zum Gefangenen? Nicht so hat die Flut zur Zeit Noahs das Menschengeschlecht vernichtet, wie diese schwimmenden Frauen dort alle mit großer Schande ertränken\. Jener Regen brachte zwar den Tod des Leibes, doch schnitt er die Bosheit der Seele ab; dieser aber tut das Gegenteil: Während die Leiber bleiben, richtet er die Seele zugrunde\. Ihr aber: Wenn von Vorrang die Rede ist, beansprucht ihr, vor der ganzen bewohnten Welt den Vorsitz zu haben, weil unsere Stadt sich als erste mit dem Namen der Christen geschmückt hat; im Kampf um Anstand und Selbstbeherrschung aber schämt ihr euch nicht, sogar hinter den ländlicheren Städten zurückzubleiben? „Ja“, sagt einer, „und was befiehlst du uns zu tun? Sollen wir in die Berge gehen und Mönche werden?“ Genau deshalb seufze ich: weil ihr meint, Anstand und Selbstbeherrschung passten nur zu ihnen\. Dabei hat Christus die Gesetze für alle gemeinsam aufgestellt\. Denn wenn er sagt: „Wenn jemand eine Frau ansieht, um sie zu begehren[^bible-89dc722b-2578-4891-b820-121cfa67beca]“, dann sagt er das nicht dem Mönch, sondern auch dem Mann, der eine Frau hat; denn jener Berg war damals mit lauter solchen Menschen gefüllt\. Denk also an jenes Theater und hasse dieses teuflische, und verurteile nicht die Schwere meiner Worte\. Denn ich verbiete nicht zu heiraten und ich hindere auch nicht daran, Freude zu haben; aber ich will, dass dies mit Selbstbeherrschung geschieht, nicht mit Schande, Anklage und zahllosen Beschuldigungen\. Ich erlasse kein Gesetz, dass ihr in die Berge und in die Wüsten gehen sollt, sondern dass einer gut, milde und beherrscht sein soll, während er mitten in der Stadt wohnt\. Denn alle Gesetze haben wir mit den Mönchen gemeinsam, bis auf die Ehe; ja, vielmehr befiehlt Paulus uns, auch darin ihnen in allem gleich zu werden, wenn er sagt: „Denn die Gestalt dieser Welt vergeht, damit auch die, die Frauen haben, seien, als hätten sie keine\.[^bible-f6ac16a1-20c7-4483-8f52-01ca3c2dbe96]“ Also befehle ich nicht, die Gipfel der Berge aufzusuchen\. Zwar würde ich es mir wünschen, weil die Städte nachahmen, was in Sodom geschieht; doch ich erzwinge das nicht\. Bleib mit Haus, Kindern und Frau; aber schmähe und misshandle deine Frau nicht, stelle deine Kinder nicht bloß und bringe nicht den Schaden aus den Theatern in dein Haus\. Hörst du nicht, wie Paulus sagt: „Der Mann hat nicht Macht über seinen eigenen Leib, sondern die Frau[^bible-89dff285-cb3d-4782-891a-71225a218552]“, und wie er beiden gemeinsame Gesetze setzt? Du aber: Wenn deine Frau ständig in die Kirche geht, wirst du zu einem strengen Ankläger; wenn du selbst aber ganze Tage in den Theatern verbringst, hältst du dich nicht für anklagenswert\. Bei der Selbstbeherrschung deiner Frau bist du so genau, dass du übertreibst und maßlos wirst und nicht einmal die notwendigen Ausgänge zugestehst; für dich selbst aber meinst du, alles sei erlaubt\. Doch Paulus erlaubt es dir nicht, er, der auch der Frau dieselbe Macht gibt\. Denn er sagt: „Der Mann soll der Frau die geschuldete Ehre erweisen\.[^bible-344c10ac-c862-4ab2-aa0a-392138bd56bc]“ Was ist das also für eine Ehre, wenn du sie in entscheidenden Belangen schmähst und misshandelst und ihren Leib den Huren überlässt? Denn dein Leib gehört ihr\. Was für eine Ehre ist das, wenn du Lärm und Krieg ins Haus bringst? Wenn du auf dem Markt Dinge tust, die du, wenn du sie zu Hause erzählst, der zuhörenden Frau zur Schande machst, die anwesende Tochter beschämst und vor ihnen beiden dich selbst? Denn über solche Dinge muss man entweder schweigen oder so schändlich reden, dass man dafür mit Recht sogar die Haussklaven auspeitschen würde\. Welche Verteidigung wirst du also haben, sag mir, wenn du mit großem Eifer ansiehst, was nicht einmal auszusprechen schön ist, und höher schätzt als alles, was nicht einmal zu erzählen erträglich ist? Für jetzt also werde ich, um nicht allzu schwer zu fallen, die Rede hier beenden\. Wenn ihr aber bei demselben bleibt, werde ich das Eisen schärfer machen und den Schnitt tiefer führen\. Und ich werde nicht aufhören, bis ich das Theater des Teufels zerstreut und die Versammlung der Kirche rein gemacht habe\. Denn so werden wir von der gegenwärtigen Schande frei werden und das künftige Leben erlangen, durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus\. Ihm sei die Herrlichkeit und die Macht in alle Ewigkeit\. Amen\.
+Denn wenn „wer eine Frau ansieht,
+um sie zu begehren,
+schon die Ehe gebrochen hat[^bible-89dc722b-2578-4891-b820-121cfa67beca]“,
+wie wird dann einer,
+der genötigt wird,
+sie nackt anzusehen,
+nicht zehntausendmal zum Gefangenen?
+Nicht so hat die Flut zur Zeit Noahs das Menschengeschlecht vernichtet,
+wie diese schwimmenden Frauen dort alle mit großer Schande ertränken\.
+Jener Regen brachte zwar den Tod des Leibes,
+doch schnitt er die Bosheit der Seele ab;
+dieser aber tut das Gegenteil:
+Während die Leiber bleiben,
+richtet er die Seele zugrunde\.
+Ihr aber:
+Wenn von Vorrang die Rede ist,
+beansprucht ihr,
+vor der ganzen bewohnten Welt den Vorsitz zu haben,
+weil unsere Stadt sich als erste mit dem Namen der Christen geschmückt hat;
+im Kampf um Anstand und Selbstbeherrschung aber schämt ihr euch nicht,
+sogar hinter den ländlicheren Städten zurückzubleiben?
+„Ja“,
+sagt einer,
+„und was befiehlst du uns zu tun?
+Sollen wir in die Berge gehen und Mönche werden?“
+Genau deshalb seufze ich:
+weil ihr meint,
+Anstand und Selbstbeherrschung passten nur zu ihnen\.
+Dabei hat Christus die Gesetze für alle gemeinsam aufgestellt\.
+Denn wenn er sagt:
+„Wenn jemand eine Frau ansieht,
+um sie zu begehren[^bible-89dc722b-2578-4891-b820-121cfa67beca]“,
+dann sagt er das nicht dem Mönch,
+sondern auch dem Mann,
+der eine Frau hat;
+denn jener Berg war damals mit lauter solchen Menschen gefüllt\.
+Denk also an jenes Theater und hasse dieses teuflische,
+und verurteile nicht die Schwere meiner Worte\.
+Denn ich verbiete nicht zu heiraten und ich hindere auch nicht daran,
+Freude zu haben;
+aber ich will,
+dass dies mit Selbstbeherrschung geschieht,
+nicht mit Schande,
+Anklage und zahllosen Beschuldigungen\.
+Ich erlasse kein Gesetz,
+dass ihr in die Berge und in die Wüsten gehen sollt,
+sondern dass einer gut,
+milde und beherrscht sein soll,
+während er mitten in der Stadt wohnt\.
+Denn alle Gesetze haben wir mit den Mönchen gemeinsam,
+bis auf die Ehe;
+ja,
+vielmehr befiehlt Paulus uns,
+auch darin ihnen in allem gleich zu werden,
+wenn er sagt:
+„Denn die Gestalt dieser Welt vergeht,
+damit auch die,
+die Frauen haben,
+seien,
+als hätten sie keine\.[^bible-f6ac16a1-20c7-4483-8f52-01ca3c2dbe96]“ Also befehle ich nicht,
+die Gipfel der Berge aufzusuchen\.
+Zwar würde ich es mir wünschen,
+weil die Städte nachahmen,
+was in Sodom geschieht;
+doch ich erzwinge das nicht\.
+Bleib mit Haus,
+Kindern und Frau;
+aber schmähe und misshandle deine Frau nicht,
+stelle deine Kinder nicht bloß und bringe nicht den Schaden aus den Theatern in dein Haus\.
+Hörst du nicht,
+wie Paulus sagt:
+„Der Mann hat nicht Macht über seinen eigenen Leib,
+sondern die Frau[^bible-89dff285-cb3d-4782-891a-71225a218552]“,
+und wie er beiden gemeinsame Gesetze setzt?
+Du aber:
+Wenn deine Frau ständig in die Kirche geht,
+wirst du zu einem strengen Ankläger;
+wenn du selbst aber ganze Tage in den Theatern verbringst,
+hältst du dich nicht für anklagenswert\.
+Bei der Selbstbeherrschung deiner Frau bist du so genau,
+dass du übertreibst und maßlos wirst und nicht einmal die notwendigen Ausgänge zugestehst;
+für dich selbst aber meinst du,
+alles sei erlaubt\.
+Doch Paulus erlaubt es dir nicht,
+er,
+der auch der Frau dieselbe Macht gibt\.
+Denn er sagt:
+„Der Mann soll der Frau die geschuldete Ehre erweisen\.[^bible-344c10ac-c862-4ab2-aa0a-392138bd56bc]“ Was ist das also für eine Ehre,
+wenn du sie in entscheidenden Belangen schmähst und misshandelst und ihren Leib den Huren überlässt?
+Denn dein Leib gehört ihr\.
+Was für eine Ehre ist das,
+wenn du Lärm und Krieg ins Haus bringst?
+Wenn du auf dem Markt Dinge tust,
+die du,
+wenn du sie zu Hause erzählst,
+der zuhörenden Frau zur Schande machst,
+die anwesende Tochter beschämst und vor ihnen beiden dich selbst?
+Denn über solche Dinge muss man entweder schweigen oder so schändlich reden,
+dass man dafür mit Recht sogar die Haussklaven auspeitschen würde\.
+Welche Verteidigung wirst du also haben,
+sag mir,
+wenn du mit großem Eifer ansiehst,
+was nicht einmal auszusprechen schön ist,
+und höher schätzt als alles,
+was nicht einmal zu erzählen erträglich ist?
+Für jetzt also werde ich,
+um nicht allzu schwer zu fallen,
+die Rede hier beenden\.
+Wenn ihr aber bei demselben bleibt,
+werde ich das Eisen schärfer machen und den Schnitt tiefer führen\.
+Und ich werde nicht aufhören,
+bis ich das Theater des Teufels zerstreut und die Versammlung der Kirche rein gemacht habe\.
+Denn so werden wir von der gegenwärtigen Schande frei werden und das künftige Leben erlangen,
+durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus\.
+Ihm sei die Herrlichkeit und die Macht in alle Ewigkeit\.
+Amen\.
 
 ## Bibelverweise
 

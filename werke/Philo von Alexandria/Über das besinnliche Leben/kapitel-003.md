@@ -7,10 +7,118 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-besinnliche-leben#kapitel-4d3835b8-af72-40f4-c0b6-08dd0c1e2646).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:2a511f4d929acfeb815fc0bab8b976397da9f8ed0fabe7b91f90c14dc8584068`
+Diese Art von Menschen findet man an vielen Orten;
+denn es war angemessen,
+dass sowohl Griechenland als auch das Land der Barbaren an allem vollkommen Guten Anteil haben sollten\.
+Die größte Zahl solcher Menschen gibt es in Ägypten,
+in jedem einzelnen Bezirk,
+den sogenannten Nomen,
+besonders aber in der Umgebung von Alexandria\.
+Von überall her pilgern die Besten unter diesen Therapeuten an einen besonders geeigneten Ort,
+als wäre er ihre Heimat:
+Er liegt jenseits des Mareotischen Sees auf einer ziemlich ebenen Fläche,
+die etwas über das übrige Gelände erhöht ist,
+und eignet sich für ihr Vorhaben sowohl wegen seiner Sicherheit als auch wegen der guten Lufttemperatur\.
+Denn die in den Feldern errichteten Häuser und die Dörfer,
+die ihn ringsum umgeben,
+verleihen ihm Sicherheit;
+und die ausgezeichnete Lufttemperatur entsteht aus den beständigen Lüften,
+die von dem See her kommen,
+der ins Meer mündet,
+und zugleich vom Meer selbst in der Nähe:
+Die vom Meer her wehenden Lüfte sind leicht,
+die von dem See,
+der ins Meer mündet,
+kommenden schwer;
+ihre Mischung bringt eine äußerst gesunde Atmosphäre hervor\.
+Die Häuser dieser so versammelten Männer sind jedoch sehr schlicht und bieten nur Schutz vor den beiden wichtigsten Gefahren:
+der Hitze der Sonne und der Kälte der freien Luft\.
+Sie wohnen auch nicht dicht beieinander wie die Menschen in Städten;
+denn unmittelbare Nachbarschaft mit anderen wäre für Menschen,
+die die Einsamkeit lieben und beschlossen haben,
+sich ihr zu widmen,
+beschwerlich und unangenehm\.
+Andererseits wohnen sie auch nicht sehr weit voneinander entfernt,
+wegen der Gemeinschaft,
+die sie pflegen wollen,
+und weil es wünschenswert ist,
+einander helfen zu können,
+falls sie von Räubern überfallen werden\.
 
-Diese Art von Menschen findet man an vielen Orten; denn es war angemessen, dass sowohl Griechenland als auch das Land der Barbaren an allem vollkommen Guten Anteil haben sollten\. Die größte Zahl solcher Menschen gibt es in Ägypten, in jedem einzelnen Bezirk, den sogenannten Nomen, besonders aber in der Umgebung von Alexandria\. Von überall her pilgern die Besten unter diesen Therapeuten an einen besonders geeigneten Ort, als wäre er ihre Heimat: Er liegt jenseits des Mareotischen Sees auf einer ziemlich ebenen Fläche, die etwas über das übrige Gelände erhöht ist, und eignet sich für ihr Vorhaben sowohl wegen seiner Sicherheit als auch wegen der guten Lufttemperatur\. Denn die in den Feldern errichteten Häuser und die Dörfer, die ihn ringsum umgeben, verleihen ihm Sicherheit; und die ausgezeichnete Lufttemperatur entsteht aus den beständigen Lüften, die von dem See her kommen, der ins Meer mündet, und zugleich vom Meer selbst in der Nähe: Die vom Meer her wehenden Lüfte sind leicht, die von dem See, der ins Meer mündet, kommenden schwer; ihre Mischung bringt eine äußerst gesunde Atmosphäre hervor\. Die Häuser dieser so versammelten Männer sind jedoch sehr schlicht und bieten nur Schutz vor den beiden wichtigsten Gefahren: der Hitze der Sonne und der Kälte der freien Luft\. Sie wohnen auch nicht dicht beieinander wie die Menschen in Städten; denn unmittelbare Nachbarschaft mit anderen wäre für Menschen, die die Einsamkeit lieben und beschlossen haben, sich ihr zu widmen, beschwerlich und unangenehm\. Andererseits wohnen sie auch nicht sehr weit voneinander entfernt, wegen der Gemeinschaft, die sie pflegen wollen, und weil es wünschenswert ist, einander helfen zu können, falls sie von Räubern überfallen werden\.
+In jedem Haus gibt es einen heiligen Raum,
+der heiliger Ort genannt wird,
+und eine Klause,
+in die sie sich allein zurückziehen und alle Mysterien eines heiligen Lebens vollziehen\.
+Dorthin bringen sie nichts hinein,
+weder Speise noch Trank noch sonst etwas,
+was zur Versorgung der Bedürfnisse des Körpers unentbehrlich ist;
+vielmehr studieren sie an diesem Ort die Gesetze und die heiligen Orakel Gottes,
+die von den heiligen Propheten verkündet wurden,
+dazu Hymnen,
+Psalme und allerlei anderes,
+wodurch Erkenntnis und Frömmigkeit wachsen und zur Vollendung geführt werden\.
+Darum bewahren sie stets ein unvergängliches Gedenken an Gott,
+sodass ihnen nicht einmal in ihren Träumen je ein anderer Gegenstand vor Augen tritt als die Schönheit der göttlichen Tugenden und der göttlichen Kräfte\.
+Deshalb sprechen viele im Schlaf und geben die berühmten Lehren der heiligen Philosophie kund und öffentlich weiter\.
+Sie pflegen zweimal täglich zu beten,
+morgens und abends:
+Beim Aufgang der Sonne bitten sie Gott,
+das Glück des kommenden Tages möge wahres Glück sein,
+sodass ihr Geist mit himmlischem Licht erfüllt wird;
+beim Untergang der Sonne beten sie,
+ihre Seele möge,
+ganz erleichtert und befreit von der Last der äußeren Sinne und von den ihnen entsprechenden Gegenständen,
+die Wahrheit in ihrem eigenen Versammlungs\- und Ratsraum aufspüren können\.
+Die Zeit zwischen Morgen und Abend ist bei ihnen ganz der Betrachtung und Einübung der Tugend gewidmet;
+denn sie nehmen die heiligen Schriften zur Hand und philosophieren über sie,
+indem sie die Allegorien ihrer angestammten Philosophie untersuchen,
+weil sie die wörtlichen Ausdrücke für Sinnbilder einer geheimen Naturbedeutung halten,
+die in diesen bildlichen Wendungen vermittelt werden soll\.
+Sie besitzen auch Schriften alter Männer,
+die als Gründer der einen oder anderen Richtung viele Denkmäler der allegorischen Schreib\- und Deutungsweise hinterlassen haben;
+diese nehmen sie sich gleichsam zum Vorbild und ahmen die allgemeine Gestalt ihrer Richtung nach\.
+So befassen sie sich nicht allein mit Betrachtung,
+sondern dichten ebenso Psalme und Hymnen an Gott in jeder erdenklichen Art von Metrum und Melodie,
+die sie zwangsläufig in würdigeren Rhythmus bringen\.
+Während der sechs Tage zieht sich daher jeder Einzelne für sich in die Einsamkeit zurück und philosophiert allein an einem der Orte,
+die Klausen genannt werden;
+niemals überschreitet er die Schwelle des äußeren Hofes,
+ja er schaut nicht einmal hinaus\.
+Am siebten Tag aber kommen alle zusammen wie zu einer heiligen Versammlung und setzen sich in der Reihenfolge ihres Alters mit allem gebührenden Ernst nieder;
+die Hände halten sie in ihren Gewändern,
+die rechte zwischen Brust und Kleid,
+die linke seitlich herab,
+dicht an der Flanke,
+dann tritt der Älteste unter ihnen,
+der in ihren Lehren die tiefste Bildung besitzt,
+hervor und spricht mit festem Blick und fester Stimme,
+mit großer Schärfe des Denkens und großer Besonnenheit\.
 
-In jedem Haus gibt es einen heiligen Raum, der heiliger Ort genannt wird, und eine Klause, in die sie sich allein zurückziehen und alle Mysterien eines heiligen Lebens vollziehen\. Dorthin bringen sie nichts hinein, weder Speise noch Trank noch sonst etwas, was zur Versorgung der Bedürfnisse des Körpers unentbehrlich ist; vielmehr studieren sie an diesem Ort die Gesetze und die heiligen Orakel Gottes, die von den heiligen Propheten verkündet wurden, dazu Hymnen, Psalme und allerlei anderes, wodurch Erkenntnis und Frömmigkeit wachsen und zur Vollendung geführt werden\. Darum bewahren sie stets ein unvergängliches Gedenken an Gott, sodass ihnen nicht einmal in ihren Träumen je ein anderer Gegenstand vor Augen tritt als die Schönheit der göttlichen Tugenden und der göttlichen Kräfte\. Deshalb sprechen viele im Schlaf und geben die berühmten Lehren der heiligen Philosophie kund und öffentlich weiter\. Sie pflegen zweimal täglich zu beten, morgens und abends: Beim Aufgang der Sonne bitten sie Gott, das Glück des kommenden Tages möge wahres Glück sein, sodass ihr Geist mit himmlischem Licht erfüllt wird; beim Untergang der Sonne beten sie, ihre Seele möge, ganz erleichtert und befreit von der Last der äußeren Sinne und von den ihnen entsprechenden Gegenständen, die Wahrheit in ihrem eigenen Versammlungs\- und Ratsraum aufspüren können\. Die Zeit zwischen Morgen und Abend ist bei ihnen ganz der Betrachtung und Einübung der Tugend gewidmet; denn sie nehmen die heiligen Schriften zur Hand und philosophieren über sie, indem sie die Allegorien ihrer angestammten Philosophie untersuchen, weil sie die wörtlichen Ausdrücke für Sinnbilder einer geheimen Naturbedeutung halten, die in diesen bildlichen Wendungen vermittelt werden soll\. Sie besitzen auch Schriften alter Männer, die als Gründer der einen oder anderen Richtung viele Denkmäler der allegorischen Schreib\- und Deutungsweise hinterlassen haben; diese nehmen sie sich gleichsam zum Vorbild und ahmen die allgemeine Gestalt ihrer Richtung nach\. So befassen sie sich nicht allein mit Betrachtung, sondern dichten ebenso Psalme und Hymnen an Gott in jeder erdenklichen Art von Metrum und Melodie, die sie zwangsläufig in würdigeren Rhythmus bringen\. Während der sechs Tage zieht sich daher jeder Einzelne für sich in die Einsamkeit zurück und philosophiert allein an einem der Orte, die Klausen genannt werden; niemals überschreitet er die Schwelle des äußeren Hofes, ja er schaut nicht einmal hinaus\. Am siebten Tag aber kommen alle zusammen wie zu einer heiligen Versammlung und setzen sich in der Reihenfolge ihres Alters mit allem gebührenden Ernst nieder; die Hände halten sie in ihren Gewändern, die rechte zwischen Brust und Kleid, die linke seitlich herab, dicht an der Flanke, dann tritt der Älteste unter ihnen, der in ihren Lehren die tiefste Bildung besitzt, hervor und spricht mit festem Blick und fester Stimme, mit großer Schärfe des Denkens und großer Besonnenheit\.
-
-Dabei stellt er nicht seine Redekunst zur Schau wie die Redner früherer Zeiten oder die Sophisten der Gegenwart, sondern erforscht mit großer Sorgfalt und erklärt mit genauer Präzision den eigentlichen Sinn der Gesetze\. Dieser bleibt nicht an den Spitzen ihrer Ohren hängen, sondern dringt durch das Hören in die Seele ein und bleibt dort dauerhaft\. Alle übrigen hören schweigend den Lobpreisungen zu, die er dem Gesetz widmet, und zeigen ihre Zustimmung nur durch Nicken des Kopfes oder durch den gespannten Ausdruck der Augen\. Der gemeinsame heilige Ort, an dem sie alle am siebten Tag zusammenkommen, ist ein zweigeteilter Raum: Er ist teils in den Bereich der Männer, teils in eine Kammer für die Frauen getrennt; denn auch Frauen gehören dort nach der üblichen Ordnung zur Zuhörerschaft, mit derselben bewundernden Gesinnung wie die Männer, und sie haben sich derselben Richtung mit gleicher Überlegung und Entschiedenheit angeschlossen\. Die Wand zwischen den Räumen erhebt sich vom Boden aus drei oder vier Ellen hoch wie eine Brustwehr; der obere Teil aber steigt ohne jede Öffnung bis zum Dach empor\. Das geschieht aus zwei Gründen: erstens, damit die Zurückhaltung gewahrt bleibt, die dem weiblichen Geschlecht so angemessen ist, und zweitens, damit die Frauen, weil sie in Hörweite sitzen, leicht verstehen können, was gesagt wird, da dann nichts da ist, was die Stimme des Sprechenden irgendwie aufhalten könnte\.
+Dabei stellt er nicht seine Redekunst zur Schau wie die Redner früherer Zeiten oder die Sophisten der Gegenwart,
+sondern erforscht mit großer Sorgfalt und erklärt mit genauer Präzision den eigentlichen Sinn der Gesetze\.
+Dieser bleibt nicht an den Spitzen ihrer Ohren hängen,
+sondern dringt durch das Hören in die Seele ein und bleibt dort dauerhaft\.
+Alle übrigen hören schweigend den Lobpreisungen zu,
+die er dem Gesetz widmet,
+und zeigen ihre Zustimmung nur durch Nicken des Kopfes oder durch den gespannten Ausdruck der Augen\.
+Der gemeinsame heilige Ort,
+an dem sie alle am siebten Tag zusammenkommen,
+ist ein zweigeteilter Raum:
+Er ist teils in den Bereich der Männer,
+teils in eine Kammer für die Frauen getrennt;
+denn auch Frauen gehören dort nach der üblichen Ordnung zur Zuhörerschaft,
+mit derselben bewundernden Gesinnung wie die Männer,
+und sie haben sich derselben Richtung mit gleicher Überlegung und Entschiedenheit angeschlossen\.
+Die Wand zwischen den Räumen erhebt sich vom Boden aus drei oder vier Ellen hoch wie eine Brustwehr;
+der obere Teil aber steigt ohne jede Öffnung bis zum Dach empor\.
+Das geschieht aus zwei Gründen:
+erstens,
+damit die Zurückhaltung gewahrt bleibt,
+die dem weiblichen Geschlecht so angemessen ist,
+und zweitens,
+damit die Frauen,
+weil sie in Hörweite sitzen,
+leicht verstehen können,
+was gesagt wird,
+da dann nichts da ist,
+was die Stimme des Sprechenden irgendwie aufhalten könnte\.

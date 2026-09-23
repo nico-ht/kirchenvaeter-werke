@@ -7,6 +7,15 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/12-taufunterweisung#kapitel-4bc51dc6-1bac-4d03-a938-08de0016b13a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:6221bf7e8bea5b6db8f2b40be565ab79c02ba83419e073c312e86a50c9ccc8df`
-
-Dieselbe Analogie gilt nicht nur für die Kriege dieser Welt, sondern auch für die Spiele\. Diejenigen, die in die Arena geführt werden sollen, steigen nicht in den Wettkampf hinab, bevor der Herold sie in Empfang nimmt, sie vor aller Augen herumführt, seine Stimme erhebt und ruft: „Klagt jemand diesen Mann an?“ Und doch ist dies kein Wettkampf der Seele, sondern ein Ringen der Körper\. Warum also verlangt ihr von den Kämpfern den Nachweis freier Geburt?
+Dieselbe Analogie gilt nicht nur für die Kriege dieser Welt,
+sondern auch für die Spiele\.
+Diejenigen,
+die in die Arena geführt werden sollen,
+steigen nicht in den Wettkampf hinab,
+bevor der Herold sie in Empfang nimmt,
+sie vor aller Augen herumführt,
+seine Stimme erhebt und ruft:
+„Klagt jemand diesen Mann an?“
+Und doch ist dies kein Wettkampf der Seele,
+sondern ein Ringen der Körper\.
+Warum also verlangt ihr von den Kämpfern den Nachweis freier Geburt?

@@ -7,9 +7,329 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/13-homilie-ueber-matthaeus#kapitel-a9dae6f5-a62f-4b49-5a63-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d6f92f09f65581cfa42951cde494d1622d6e5d02e8d9c6d2508fcc425407d034`
-
-Genau das müssen auch wir tun: Wenn er in einen Bruder schlüpft, in einen echten Freund, in die Frau oder in irgendeinen von denen, die uns am nächsten stehen, und durch ihn etwas sagt, was sich nicht gehört, dürfen wir den Rat nicht wegen der Person annehmen, die das sagt; vielmehr müssen wir wegen des verderblichen Rates den zurückweisen, der das sagt\. Denn auch jetzt tut er vieles von dieser Art und schiebt die Maske des Mitgefühls vor: Er scheint wohlgesinnt zu sein, flößt aber Worte ein, die verderblich und schlimmer sind als Gifte\. Denn zu schmeicheln, um zu schaden, ist seine Art; zurechtzuweisen, damit es nützt, ist Gottes Art\. Lassen wir uns also nicht täuschen und suchen wir nicht um jeden Preis ein bequemes Leben\. Denn es heißt: „Wen der Herr liebt, den erzieht er\.[^bible-e54fda7a-a12d-4413-9afb-ffeaabf61565]“ Wenn wir also Wohlergehen genießen, während wir in Bosheit leben, dann sollen wir erst recht Schmerz empfinden\. Denn fürchten muss man sich immer, wenn man sündigt, besonders aber dann, wenn man nichts Schreckliches erleidet\. Wenn Gott nämlich die Strafen Stück für Stück einfordert, macht er uns die Begleichung dafür leicht; wenn er aber bei jeder einzelnen Verfehlung Langmut übt, dann bewahrt er uns, wenn wir in solchen Dingen verharren, für eine große Strafe auf\. Denn wenn Bedrängnis schon für die notwendig ist, die recht handeln, dann viel mehr für die, die sündigen\. Sieh nur: Wie viel Langmut genoss der Pharao, und später zahlte er zuletzt für alles Strafe; wie vieles hatte Nebukadnezzar verfehlt, und gegen Ende büßte er alles auf einmal\. Auch der Reiche wurde gerade deshalb besonders elend, weil er hier nichts Schreckliches erlitt: Nachdem er im gegenwärtigen Leben geschwelgt hatte, ging er dorthin, um für all das Strafe zu zahlen, wo für sein Übel kein Trost zu finden war\. Dennoch gibt es manche, die so kalt und dumm sind, dass sie immer nur das Hiesige suchen und jene lächerlichen Worte sagen: „Ich will vorläufig alles Gegenwärtige genießen, und dann werde ich über das Ungewisse nachdenken; ich will meinem Bauch zu Gefallen leben, den Lüsten dienen und mir das gegenwärtige Leben zunutze machen\. Gib mir das Heute, und nimm du das Morgen\.“ Welch ein Übermaß an Dummheit\! Und worin unterscheiden sich die, die so sprechen, von Böcken und Schweinen? Wenn der Prophet diejenigen, die nach der Frau des Nächsten wiehern, nicht einmal als Menschen gelten lassen will, wer wird uns dann anklagen, wenn wir diese für Böcke und Schweine und für dümmer als Esel halten, da sie das, was klarer ist als das Sichtbare, für ungewiss halten? Wenn du keinem anderen glaubst, dann tritt vor die von Dämonen Gepeitschten, vor jene, die eingeübt sind, alles zu sagen und zu tun, was uns schadet\. Denn dem wirst du doch nicht widersprechen: Sie tun nicht etwa nicht alles, um unsere Nachlässigkeit zu vermehren, die Furcht vor der Gehenna zu schwächen und die Gerichte dort unglaubwürdig zu machen\. Und dennoch verkünden gerade die, die das wollen, oft schreiend und heulend die Qualen dort\. Woher sagen sie also dies und äußern Dinge, die ihrem eigenen Willen widersprechen? Aus keinem anderen Grund als dem, dass eine stärkere Not sie zwingt\. Denn freiwillig würden sie niemals bekennen, weder dass sie unter Toten, unter verstorbenen Menschen, gequält werden noch dass sie überhaupt etwas Schreckliches erleiden\. Warum sage ich das? Weil Dämonen die Gehenna bekennen, gerade sie, die wollen, dass man der Gehenna nicht glaubt; du aber, der du so große Ehre genießt und Anteil an unaussprechlichen Mysterien bekommen hast, ahmst nicht einmal sie nach, sondern bist noch undankbarer geworden als sie\. Und einer sagt: „Wer ist aus der Unterwelt gekommen und hat das berichtet?“ Ist denn jemand vom Himmel gekommen und hat gesagt, dass Gott der Schöpfer des Alls ist? Und woher ist offenbar, dass wir eine Seele haben? Wenn du nämlich nur dem Sichtbaren glauben willst, wirst du auch über Gott, über Engel, über Geist und über Seele zweifeln, und so werden dir alle Lehren der Wahrheit verlorengehen\. Und doch: Wenn du dem Offenkundigen glauben willst, musst du eher dem Unsichtbaren glauben als dem Sichtbaren\. Auch wenn das Gesagte befremdlich klingt, ist es dennoch wahr und bei Menschen mit Verstand völlig anerkannt\. Die Augen täuschen sich nämlich oft, nicht nur bei den unsichtbaren Dingen, denn die kennen sie nicht einmal, sondern auch bei dem, was sie zu sehen meinen, wenn Entfernung, Luft, eine anderswohin gewendete Aufmerksamkeit, Zorn, Sorge und unzählige andere Dinge ihre Genauigkeit behindern\. Das Urteil der Seele aber wird, wenn es das Licht der göttlichen Schriften aufnimmt, ein genauerer und untrüglicher Maßstab für das Seiende sein\. Täuschen wir uns also nicht vergeblich selbst, und häufen wir uns nicht neben der Nachlässigkeit im Leben, die aus solchen Lehren entsteht, auch noch wegen dieser Lehren selbst ein schwereres Feuer auf\. Wenn es nämlich kein Gericht gibt und wir keine Rechenschaft für unsere Taten ablegen müssen, dann werden wir auch keine Ehren für unsere Mühen empfangen\. Bedenke, wohin eure Lästerung führt, wenn ihr sagt, der gerechte, menschenfreundliche und milde Gott übersehe so viele Mühen und Schweißtropfen\. Wie sollte das vernünftig sein? Wenn du es aus nichts anderem erkennst, dann schließe es wenigstens aus dem, was in deinem eigenen Haus geschieht, und dann wirst du den Widersinn sehen\. Denn selbst wenn du tausendmal grausam und unmenschlich bist, wilder als die wilden Tiere selbst, würdest du doch, wenn du am Ende fortgehst, nicht wollen, dass dein treu gewordener Diener ohne Ehre zurückbleibt\. Du vergiltst ihm vielmehr mit Freiheit und mit einem Geschenk an Geld\. Und weil du, wenn du dann fortgehst, selbst nichts Gutes mehr für ihn tun kannst, legst du denen, die dein Vermögen erben sollen, seinetwegen eindringlich ans Herz, bittest, flehst und tust alles, damit er nicht ohne Lohn bleibt\. Du also, der Böse, wirst gegenüber deinem Diener so gütig und menschenfreundlich; die unendliche Güte aber, Gott, die unaussprechliche Menschenfreundlichkeit, eine so große Güte, sollte seine eigenen Diener, Petrus und Paulus, Jakobus und Johannes und die um sie, die Tag für Tag um seinetwillen hungerten, gefesselt, gegeißelt, ins Meer gestürzt, den wilden Tieren ausgeliefert wurden, starben und so vieles erlitten, dass man es nicht einmal aufzählen kann, ohne Kranz lassen? Der Kampfrichter ruft den Olympiasieger aus und bekränzt ihn; der Herr vergilt dem Diener, der König dem Soldaten, und überhaupt jeder vergilt dem, der ihm gedient hat, mit den Gütern, die er geben kann\. Gott allein aber sollte ihnen nach so vielen Schweißtropfen und Mühen kein kleines und kein großes Gut geben? Sollten jene Gerechten und Frommen, die jede Tugend durchlaufen haben, an demselben Ort liegen wie Ehebrecher, Vatermörder, Mörder und Grabräuber? Und wie könnte das vernünftig sein? Wenn es nach dem Fortgang von hier nichts gibt, sondern unsere Dinge nur bis zum Gegenwärtigen reichen, dann stehen jene mit diesen auf derselben Stufe, ja nicht einmal auf derselben Stufe\. Denn selbst wenn sie nachher, wie du sagst, auf derselben Stufe stehen, haben die einen hier die ganze Zeit in Bequemlichkeit gelebt, die anderen aber in Strafe\. Welcher Tyrann, welcher grausame und erbarmungslose Mensch hätte je so über seine eigenen Diener und Untergebenen beschlossen? Siehst du das Übermaß des Widersinns und wohin diese Rede am Ende führt? Wenn du also, wenn schon aus keinem anderen Grund, wenigstens durch solche Überlegungen belehrt werden willst, dann befreie dich von diesem bösen Verdacht, fliehe die Bosheit und nimm die Mühen für die Tugend auf dich\. Dann wirst du klar erkennen, dass unsere Dinge nicht beim gegenwärtigen Leben haltmachen\. Und wenn dich jemand fragt: „Wer ist von dort gekommen und hat berichtet, was dort ist?“, dann sag zu ihm: „Von den Menschen keiner\. Denn dem hätte man oft nicht geglaubt, weil er geprahlt und die Sache aufgebauscht hätte\. Der Herr der Engel aber hat all das genau berichtet\.“ Wozu brauchen wir also einen Menschen, wenn der, der uns Rechenschaft abfordern wird, Tag für Tag ruft, dass er sowohl die Gehenna bereitet als auch das Reich bereitgestellt hat, und uns dafür klare Beweise gibt? Wenn er nämlich nicht richten wollte, würde er auch hier keine Strafe einfordern\. Denn auch dies: Wie sollte es vernünftig sein, dass von den Bösen die einen bestraft werden, die anderen aber nicht? Wenn Gott nämlich kein Anseher der Person ist, wie er es ja auch nicht ist, warum forderte er dann von dem einen Strafe, ließ den anderen aber ungestraft davonkommen? Das ist ja wiederum noch schwieriger als das Vorige\. Wenn ihr aber bereit seid, mit verständigem Sinn auf das Gesagte zu hören, werden wir auch diese Schwierigkeit lösen\. Was ist also die Lösung? Er fordert weder von allen hier Strafe, damit du die Auferstehung nicht aufgibst und am Gericht nicht verzweifelst, als müssten alle hier Rechenschaft geben; noch lässt er alle ungestraft davonkommen, damit du nicht wiederum meinst, alles sei ohne Vorsehung\. Vielmehr straft er und straft nicht: Durch die, die er straft, zeigt er, dass er auch dort von denen, die hier nicht bestraft wurden, Rechenschaft fordern wird; durch die, die er nicht straft, bereitet er dich darauf vor zu glauben, dass es nach dem Fortgang von hier noch ein furchtbares Gericht gibt\. Wenn er sich aber überhaupt nicht um die zuvor genannten Dinge kümmerte, hätte er hier weder einige bestraft noch anderen Gutes erwiesen\. Nun aber siehst du, wie er deinetwegen den Himmel ausspannt, die Sonne entzündet, die Erde gründet, das Meer ausgießt, die Luft ausbreitet, dem Mond seine Bahnen zuweist, den Jahreszeiten feste Gesetze setzt und auch alles Übrige auf seinen Wink hin die eigene Bahn genau vollenden lässt\. Denn auch unsere Natur und die der vernunftlosen Wesen, der kriechenden, gehenden, fliegenden und schwimmenden, derer in Seen, Quellen, Flüssen, Bergen, Schluchten, Häusern, in der Luft und auf den Feldern, auch Pflanzen, Samen und Bäume, die wilden und die zahmen, die fruchttragenden und die unfruchtbaren, und überhaupt alles, was von jener unermüdlichen Hand bewegt wird, sorgt für unser Leben und leistet uns daraus Dienst, nicht nur für den Bedarf, sondern auch in reicher Fülle\. Wenn du also eine so große Wohlordnung siehst, obwohl wir nicht einmal den geringsten Teil genannt haben, wagst du dann zu sagen, der, der so Großes und Gewaltiges für dich geschaffen hat, werde dich in den entscheidenden Dingen übersehen und dich nach dem Tod bei Eseln und Schweinen liegen lassen? Er hat dich mit einem so großen Geschenk geehrt, mit der Frömmigkeit, durch die er dich sogar den Engeln gleichgemacht hat, und sollte dich nach den unzähligen Mühen und Schweißtropfen übersehen? Und wie könnte das vernünftig sein? Denn das würden, auch wenn wir schwiegen, die Steine schreien: So klar und deutlich ist es, heller noch als der Sonnenstrahl selbst\. Wenn wir dies alles bedenken und unsere Seele davon überzeugen, dass wir nach dem Fortgang von hier auch vor einem furchtbaren Richterstuhl stehen, für alle unsere Taten Rechenschaft geben, Verantwortung tragen und Strafe erdulden werden, wenn wir in den Verfehlungen verharren, dass wir aber Kränze und unaussprechliche Güter genießen werden, wenn wir nur ein wenig auf uns achten wollen, dann bringen wir auch die, die hierin widersprechen, zum Schweigen und wählen selbst den Weg der Tugend, damit wir mit der gebührenden Zuversicht zu jenem Gericht gehen und die Güter erlangen, die uns verheißen sind, durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus\. Ihm sei die Herrlichkeit und die Macht, jetzt und allezeit und in die Ewigkeiten der Ewigkeiten\. Amen\.
+Genau das müssen auch wir tun:
+Wenn er in einen Bruder schlüpft,
+in einen echten Freund,
+in die Frau oder in irgendeinen von denen,
+die uns am nächsten stehen,
+und durch ihn etwas sagt,
+was sich nicht gehört,
+dürfen wir den Rat nicht wegen der Person annehmen,
+die das sagt;
+vielmehr müssen wir wegen des verderblichen Rates den zurückweisen,
+der das sagt\.
+Denn auch jetzt tut er vieles von dieser Art und schiebt die Maske des Mitgefühls vor:
+Er scheint wohlgesinnt zu sein,
+flößt aber Worte ein,
+die verderblich und schlimmer sind als Gifte\.
+Denn zu schmeicheln,
+um zu schaden,
+ist seine Art;
+zurechtzuweisen,
+damit es nützt,
+ist Gottes Art\.
+Lassen wir uns also nicht täuschen und suchen wir nicht um jeden Preis ein bequemes Leben\.
+Denn es heißt:
+„Wen der Herr liebt,
+den erzieht er\.[^bible-e54fda7a-a12d-4413-9afb-ffeaabf61565]“ Wenn wir also Wohlergehen genießen,
+während wir in Bosheit leben,
+dann sollen wir erst recht Schmerz empfinden\.
+Denn fürchten muss man sich immer,
+wenn man sündigt,
+besonders aber dann,
+wenn man nichts Schreckliches erleidet\.
+Wenn Gott nämlich die Strafen Stück für Stück einfordert,
+macht er uns die Begleichung dafür leicht;
+wenn er aber bei jeder einzelnen Verfehlung Langmut übt,
+dann bewahrt er uns,
+wenn wir in solchen Dingen verharren,
+für eine große Strafe auf\.
+Denn wenn Bedrängnis schon für die notwendig ist,
+die recht handeln,
+dann viel mehr für die,
+die sündigen\.
+Sieh nur:
+Wie viel Langmut genoss der Pharao,
+und später zahlte er zuletzt für alles Strafe;
+wie vieles hatte Nebukadnezzar verfehlt,
+und gegen Ende büßte er alles auf einmal\.
+Auch der Reiche wurde gerade deshalb besonders elend,
+weil er hier nichts Schreckliches erlitt:
+Nachdem er im gegenwärtigen Leben geschwelgt hatte,
+ging er dorthin,
+um für all das Strafe zu zahlen,
+wo für sein Übel kein Trost zu finden war\.
+Dennoch gibt es manche,
+die so kalt und dumm sind,
+dass sie immer nur das Hiesige suchen und jene lächerlichen Worte sagen:
+„Ich will vorläufig alles Gegenwärtige genießen,
+und dann werde ich über das Ungewisse nachdenken;
+ich will meinem Bauch zu Gefallen leben,
+den Lüsten dienen und mir das gegenwärtige Leben zunutze machen\.
+Gib mir das Heute,
+und nimm du das Morgen\.“
+Welch ein Übermaß an Dummheit\!
+Und worin unterscheiden sich die,
+die so sprechen,
+von Böcken und Schweinen?
+Wenn der Prophet diejenigen,
+die nach der Frau des Nächsten wiehern,
+nicht einmal als Menschen gelten lassen will,
+wer wird uns dann anklagen,
+wenn wir diese für Böcke und Schweine und für dümmer als Esel halten,
+da sie das,
+was klarer ist als das Sichtbare,
+für ungewiss halten?
+Wenn du keinem anderen glaubst,
+dann tritt vor die von Dämonen Gepeitschten,
+vor jene,
+die eingeübt sind,
+alles zu sagen und zu tun,
+was uns schadet\.
+Denn dem wirst du doch nicht widersprechen:
+Sie tun nicht etwa nicht alles,
+um unsere Nachlässigkeit zu vermehren,
+die Furcht vor der Gehenna zu schwächen und die Gerichte dort unglaubwürdig zu machen\.
+Und dennoch verkünden gerade die,
+die das wollen,
+oft schreiend und heulend die Qualen dort\.
+Woher sagen sie also dies und äußern Dinge,
+die ihrem eigenen Willen widersprechen?
+Aus keinem anderen Grund als dem,
+dass eine stärkere Not sie zwingt\.
+Denn freiwillig würden sie niemals bekennen,
+weder dass sie unter Toten,
+unter verstorbenen Menschen,
+gequält werden noch dass sie überhaupt etwas Schreckliches erleiden\.
+Warum sage ich das?
+Weil Dämonen die Gehenna bekennen,
+gerade sie,
+die wollen,
+dass man der Gehenna nicht glaubt;
+du aber,
+der du so große Ehre genießt und Anteil an unaussprechlichen Mysterien bekommen hast,
+ahmst nicht einmal sie nach,
+sondern bist noch undankbarer geworden als sie\.
+Und einer sagt:
+„Wer ist aus der Unterwelt gekommen und hat das berichtet?“
+Ist denn jemand vom Himmel gekommen und hat gesagt,
+dass Gott der Schöpfer des Alls ist?
+Und woher ist offenbar,
+dass wir eine Seele haben?
+Wenn du nämlich nur dem Sichtbaren glauben willst,
+wirst du auch über Gott,
+über Engel,
+über Geist und über Seele zweifeln,
+und so werden dir alle Lehren der Wahrheit verlorengehen\.
+Und doch:
+Wenn du dem Offenkundigen glauben willst,
+musst du eher dem Unsichtbaren glauben als dem Sichtbaren\.
+Auch wenn das Gesagte befremdlich klingt,
+ist es dennoch wahr und bei Menschen mit Verstand völlig anerkannt\.
+Die Augen täuschen sich nämlich oft,
+nicht nur bei den unsichtbaren Dingen,
+denn die kennen sie nicht einmal,
+sondern auch bei dem,
+was sie zu sehen meinen,
+wenn Entfernung,
+Luft,
+eine anderswohin gewendete Aufmerksamkeit,
+Zorn,
+Sorge und unzählige andere Dinge ihre Genauigkeit behindern\.
+Das Urteil der Seele aber wird,
+wenn es das Licht der göttlichen Schriften aufnimmt,
+ein genauerer und untrüglicher Maßstab für das Seiende sein\.
+Täuschen wir uns also nicht vergeblich selbst,
+und häufen wir uns nicht neben der Nachlässigkeit im Leben,
+die aus solchen Lehren entsteht,
+auch noch wegen dieser Lehren selbst ein schwereres Feuer auf\.
+Wenn es nämlich kein Gericht gibt und wir keine Rechenschaft für unsere Taten ablegen müssen,
+dann werden wir auch keine Ehren für unsere Mühen empfangen\.
+Bedenke,
+wohin eure Lästerung führt,
+wenn ihr sagt,
+der gerechte,
+menschenfreundliche und milde Gott übersehe so viele Mühen und Schweißtropfen\.
+Wie sollte das vernünftig sein?
+Wenn du es aus nichts anderem erkennst,
+dann schließe es wenigstens aus dem,
+was in deinem eigenen Haus geschieht,
+und dann wirst du den Widersinn sehen\.
+Denn selbst wenn du tausendmal grausam und unmenschlich bist,
+wilder als die wilden Tiere selbst,
+würdest du doch,
+wenn du am Ende fortgehst,
+nicht wollen,
+dass dein treu gewordener Diener ohne Ehre zurückbleibt\.
+Du vergiltst ihm vielmehr mit Freiheit und mit einem Geschenk an Geld\.
+Und weil du,
+wenn du dann fortgehst,
+selbst nichts Gutes mehr für ihn tun kannst,
+legst du denen,
+die dein Vermögen erben sollen,
+seinetwegen eindringlich ans Herz,
+bittest,
+flehst und tust alles,
+damit er nicht ohne Lohn bleibt\.
+Du also,
+der Böse,
+wirst gegenüber deinem Diener so gütig und menschenfreundlich;
+die unendliche Güte aber,
+Gott,
+die unaussprechliche Menschenfreundlichkeit,
+eine so große Güte,
+sollte seine eigenen Diener,
+Petrus und Paulus,
+Jakobus und Johannes und die um sie,
+die Tag für Tag um seinetwillen hungerten,
+gefesselt,
+gegeißelt,
+ins Meer gestürzt,
+den wilden Tieren ausgeliefert wurden,
+starben und so vieles erlitten,
+dass man es nicht einmal aufzählen kann,
+ohne Kranz lassen?
+Der Kampfrichter ruft den Olympiasieger aus und bekränzt ihn;
+der Herr vergilt dem Diener,
+der König dem Soldaten,
+und überhaupt jeder vergilt dem,
+der ihm gedient hat,
+mit den Gütern,
+die er geben kann\.
+Gott allein aber sollte ihnen nach so vielen Schweißtropfen und Mühen kein kleines und kein großes Gut geben?
+Sollten jene Gerechten und Frommen,
+die jede Tugend durchlaufen haben,
+an demselben Ort liegen wie Ehebrecher,
+Vatermörder,
+Mörder und Grabräuber?
+Und wie könnte das vernünftig sein?
+Wenn es nach dem Fortgang von hier nichts gibt,
+sondern unsere Dinge nur bis zum Gegenwärtigen reichen,
+dann stehen jene mit diesen auf derselben Stufe,
+ja nicht einmal auf derselben Stufe\.
+Denn selbst wenn sie nachher,
+wie du sagst,
+auf derselben Stufe stehen,
+haben die einen hier die ganze Zeit in Bequemlichkeit gelebt,
+die anderen aber in Strafe\.
+Welcher Tyrann,
+welcher grausame und erbarmungslose Mensch hätte je so über seine eigenen Diener und Untergebenen beschlossen?
+Siehst du das Übermaß des Widersinns und wohin diese Rede am Ende führt?
+Wenn du also,
+wenn schon aus keinem anderen Grund,
+wenigstens durch solche Überlegungen belehrt werden willst,
+dann befreie dich von diesem bösen Verdacht,
+fliehe die Bosheit und nimm die Mühen für die Tugend auf dich\.
+Dann wirst du klar erkennen,
+dass unsere Dinge nicht beim gegenwärtigen Leben haltmachen\.
+Und wenn dich jemand fragt:
+„Wer ist von dort gekommen und hat berichtet,
+was dort ist?“,
+dann sag zu ihm:
+„Von den Menschen keiner\.
+Denn dem hätte man oft nicht geglaubt,
+weil er geprahlt und die Sache aufgebauscht hätte\.
+Der Herr der Engel aber hat all das genau berichtet\.“
+Wozu brauchen wir also einen Menschen,
+wenn der,
+der uns Rechenschaft abfordern wird,
+Tag für Tag ruft,
+dass er sowohl die Gehenna bereitet als auch das Reich bereitgestellt hat,
+und uns dafür klare Beweise gibt?
+Wenn er nämlich nicht richten wollte,
+würde er auch hier keine Strafe einfordern\.
+Denn auch dies:
+Wie sollte es vernünftig sein,
+dass von den Bösen die einen bestraft werden,
+die anderen aber nicht?
+Wenn Gott nämlich kein Anseher der Person ist,
+wie er es ja auch nicht ist,
+warum forderte er dann von dem einen Strafe,
+ließ den anderen aber ungestraft davonkommen?
+Das ist ja wiederum noch schwieriger als das Vorige\.
+Wenn ihr aber bereit seid,
+mit verständigem Sinn auf das Gesagte zu hören,
+werden wir auch diese Schwierigkeit lösen\.
+Was ist also die Lösung?
+Er fordert weder von allen hier Strafe,
+damit du die Auferstehung nicht aufgibst und am Gericht nicht verzweifelst,
+als müssten alle hier Rechenschaft geben;
+noch lässt er alle ungestraft davonkommen,
+damit du nicht wiederum meinst,
+alles sei ohne Vorsehung\.
+Vielmehr straft er und straft nicht:
+Durch die,
+die er straft,
+zeigt er,
+dass er auch dort von denen,
+die hier nicht bestraft wurden,
+Rechenschaft fordern wird;
+durch die,
+die er nicht straft,
+bereitet er dich darauf vor zu glauben,
+dass es nach dem Fortgang von hier noch ein furchtbares Gericht gibt\.
+Wenn er sich aber überhaupt nicht um die zuvor genannten Dinge kümmerte,
+hätte er hier weder einige bestraft noch anderen Gutes erwiesen\.
+Nun aber siehst du,
+wie er deinetwegen den Himmel ausspannt,
+die Sonne entzündet,
+die Erde gründet,
+das Meer ausgießt,
+die Luft ausbreitet,
+dem Mond seine Bahnen zuweist,
+den Jahreszeiten feste Gesetze setzt und auch alles Übrige auf seinen Wink hin die eigene Bahn genau vollenden lässt\.
+Denn auch unsere Natur und die der vernunftlosen Wesen,
+der kriechenden,
+gehenden,
+fliegenden und schwimmenden,
+derer in Seen,
+Quellen,
+Flüssen,
+Bergen,
+Schluchten,
+Häusern,
+in der Luft und auf den Feldern,
+auch Pflanzen,
+Samen und Bäume,
+die wilden und die zahmen,
+die fruchttragenden und die unfruchtbaren,
+und überhaupt alles,
+was von jener unermüdlichen Hand bewegt wird,
+sorgt für unser Leben und leistet uns daraus Dienst,
+nicht nur für den Bedarf,
+sondern auch in reicher Fülle\.
+Wenn du also eine so große Wohlordnung siehst,
+obwohl wir nicht einmal den geringsten Teil genannt haben,
+wagst du dann zu sagen,
+der,
+der so Großes und Gewaltiges für dich geschaffen hat,
+werde dich in den entscheidenden Dingen übersehen und dich nach dem Tod bei Eseln und Schweinen liegen lassen?
+Er hat dich mit einem so großen Geschenk geehrt,
+mit der Frömmigkeit,
+durch die er dich sogar den Engeln gleichgemacht hat,
+und sollte dich nach den unzähligen Mühen und Schweißtropfen übersehen?
+Und wie könnte das vernünftig sein?
+Denn das würden,
+auch wenn wir schwiegen,
+die Steine schreien:
+So klar und deutlich ist es,
+heller noch als der Sonnenstrahl selbst\.
+Wenn wir dies alles bedenken und unsere Seele davon überzeugen,
+dass wir nach dem Fortgang von hier auch vor einem furchtbaren Richterstuhl stehen,
+für alle unsere Taten Rechenschaft geben,
+Verantwortung tragen und Strafe erdulden werden,
+wenn wir in den Verfehlungen verharren,
+dass wir aber Kränze und unaussprechliche Güter genießen werden,
+wenn wir nur ein wenig auf uns achten wollen,
+dann bringen wir auch die,
+die hierin widersprechen,
+zum Schweigen und wählen selbst den Weg der Tugend,
+damit wir mit der gebührenden Zuversicht zu jenem Gericht gehen und die Güter erlangen,
+die uns verheißen sind,
+durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus\.
+Ihm sei die Herrlichkeit und die Macht,
+jetzt und allezeit und in die Ewigkeiten der Ewigkeiten\.
+Amen\.
 
 ## Bibelverweise
 

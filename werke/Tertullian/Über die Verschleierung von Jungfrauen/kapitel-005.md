@@ -7,9 +7,134 @@ Autor: Tertullian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-die-verschleierung-von-jungfrauen#kapitel-b978eb41-5109-46a0-ba0f-08dddb5510b9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:81633c65b6769450dc6ffbda9737b21a1f5db712861c87c09465b57354961c00`
-
-„Frau“ ist die Bezeichnung für das Geschlecht, nicht nur für Verheiratete\. Da sie das Wort „Frau“ aber so verwenden, als gelte es nur für eine, die sich mit einem Mann vereinigt hat, muss ich beweisen, dass das Wort seiner eigentlichen Bedeutung nach das Geschlecht selbst bezeichnet, nicht den Ehestand, und dass es zu Recht auch Jungfrauen einschließt\. Als Gott jenen zweiten Menschen als Hilfe für den Mann schuf, erhielt dieser sogleich den Namen „Frau[^bible-1356a118-bb66-4dd8-af6e-c6524be5b138] “: noch gesegnet, noch des Paradieses würdig, noch Jungfrau\. „Sie wird Frau genannt werden[^bible-fb9162d2-effb-48f9-b3f7-329c11838957] “, heißt es\. Du siehst also: Die Bezeichnung „Frau“ gilt nicht nur auch für Jungfrauen; ganz am Anfang gehörte sie allein der Jungfrau, als die erste Jungfrau sie trug\. Manche versuchen mit großem Scharfsinn, dies zu einer Weissagung umzudeuten\. Die Worte „Sie wird Frau genannt werden[^bible-fb9162d2-effb-48f9-b3f7-329c11838957] “ sollen bedeuten, dass sie diesen Namen erst tragen würde, nachdem sie ihre Jungfräulichkeit aufgegeben hätte\. Denn der Text fügt hinzu: „Deshalb wird ein Mann seinen Vater und seine Mutter verlassen und sich mit seiner Frau verbinden, und die beiden werden ein Fleisch werden\.[^bible-de22ee20-be40-4881-ae09-06b56b88daa4] “ Sie sollen erst einmal zeigen, worin dieser vermeintliche tiefere Sinn liegt\. Wenn sie erst künftig „Frau“ heißen sollte, welchen Namen hatte sie dann in der Zwischenzeit? Sie konnte doch für ihren gegenwärtigen Zustand nicht ohne Namen bleiben\. Und welchen Sinn hätte es denn, dass jemand, der künftig einen bestimmten Namen tragen sollte, in der Gegenwart überhaupt keinen Namen hatte? Adam gab allen Tieren Namen[^bible-ff8ef9e0-d4b4-4688-a203-4bed4f1889b6], nicht nach dem, was sie eines Tages sein würden, sondern nach dem, was sie damals waren, entsprechend der Natur, die sie von Anfang an besaßen\. Wie wurde sie also damals genannt? Tatsächlich heißt sie überall, wo die Schrift sie nennt, „Frau“, schon vor der Ehe, und niemals „Jungfrau“, obwohl sie eine war\. Das war ihre einzige Bezeichnung, und sie war nicht prophetisch gemeint\. Denn wenn die Schrift uns sagt, dass „die beiden nackt waren, Adam und seine Frau[^bible-3d971330-caa5-4846-b6e9-73da06e49327] “, dann meint sie mit „Frau“ keine Vorhersage ihrer Zukunft als Ehefrau\. Vielmehr war sie auch unverheiratet seine Frau, aus seiner eigenen Substanz genommen[^bible-b8402336-049a-45fa-a23d-8dfc8f4bcbf9]: „Dies ist Gebein von meinem Gebein und Fleisch von meinem Fleisch; sie wird Frau genannt werden\.[^bible-fb9162d2-effb-48f9-b3f7-329c11838957] “ Von hier aus hat das natürliche Bewusstsein selbst, geleitet vom göttlichen Hauch in seinem Inneren, den menschlichen Sprachgebrauch geprägt: Wir nennen unsere Frauen „Ehefrauen“, obwohl diese Bezeichnung nicht ganz zutreffend ist\. So geschah es auch mit vielen anderen Ausdrücken aus der Schrift, wie ich an anderer Stelle zeigen könnte\. Selbst die Griechen, die „Frau“ in engerem Sinn für „Ehefrau“ gebrauchen, haben dennoch eigene Wörter für die Ehefrau; ich möchte diesen Sprachgebrauch aber lieber auf die Schrift zurückführen\. Denn wenn zwei durch die Ehe ein Fleisch werden[^bible-de22ee20-be40-4881-ae09-06b56b88daa4], wird sie ihrem Ursprung entsprechend seine „Frau“ genannt, weil sie aus seiner Substanz ist, obwohl sie nun als Ehefrau gilt\. „Frau“ ist also von Natur aus nicht die Bezeichnung für die Ehefrau; vielmehr bezeichnet „Ehefrau“ den Stand einer Person, die bereits Frau genannt wird\. Daher kann sie „Frau“ heißen, ohne Ehefrau zu sein, aber nicht Ehefrau, ohne Frau zu sein\. Nachdem das neu geschaffene weibliche Wesen den Namen „Frau“ erhalten hatte und dessen Bedeutung erklärt worden war[^bible-fb9162d2-effb-48f9-b3f7-329c11838957], wendet sich die Schrift dem prophetischen Sinn zu: „Deshalb wird ein Mann Vater und Mutter verlassen\.[^bible-de22ee20-be40-4881-ae09-06b56b88daa4] “ Die Bezeichnung ist also ebenso von der Weissagung wie von der Person Evas getrennt; denn die Aussage galt nicht Eva selbst, sondern jenen künftigen Frauen, die in der Bezeichnung des weiblichen Geschlechts eingeschlossen waren\. Andernfalls hätte es von Adam geheißen, er werde um Evas willen Vater und Mutter verlassen[^bible-de22ee20-be40-4881-ae09-06b56b88daa4], obwohl er weder Vater noch Mutter hatte\. Es betraf also weder Eva noch Adam, sondern sagte prophetisch voraus, dass Ehemänner um ihrer Frauen willen ihre Eltern verlassen würden[^bible-de22ee20-be40-4881-ae09-06b56b88daa4]\. Das konnte auf Eva und Adam nicht zutreffen\. Wenn es sich so verhält, ist klar, dass sie nicht im Hinblick auf die Zukunft „Frau“ genannt wurde, da diese Zukunft sie gar nicht betraf\. Bestätigt wird das dadurch, dass der Grund für die Bezeichnung ausdrücklich genannt wird: „Sie wird Frau genannt werden, weil sie vom Mann genommen wurde\.[^bible-fb9162d2-effb-48f9-b3f7-329c11838957] “ Und das, während er selbst noch jungfräulich war\. Über die Bezeichnung des Mannes werde ich jedoch an der entsprechenden Stelle sprechen\. Niemand soll also „Frau“ prophetisch deuten, da dieser Bezeichnung ein ganz anderer Sinn zugrunde liegt, zumal klar zu erkennen ist, wo sie tatsächlich mit Blick auf die Zukunft einen Namen erhält: dort nämlich, wo sie „Eva“ genannt wird[^bible-c8c36c78-d518-4e99-bd13-4828a0f67c30], mit einem persönlichen Namen, den sie nach der natürlichen Bezeichnung erhält\. Denn wenn Eva „die Mutter aller Lebenden[^bible-c8c36c78-d518-4e99-bd13-4828a0f67c30] “ ist, dann liegt hier tatsächlich ein Name vor, der auf die Zukunft blickt: Hier wird sie als Ehefrau angekündigt, nicht als Jungfrau\. Das wird der Name einer Frau sein, die heiraten wird, denn aus einer verheirateten Frau wird eine Mutter\. Somit zeigt sich auch hier, dass sie damals nicht wegen ihres künftigen Standes „Frau“ genannt wurde, da sie den Namen für ihren künftigen Zustand erst später erhalten sollte\. Damit ist dieser Einwand hinreichend beantwortet\.
+„Frau“ ist die Bezeichnung für das Geschlecht,
+nicht nur für Verheiratete\.
+Da sie das Wort „Frau“ aber so verwenden,
+als gelte es nur für eine,
+die sich mit einem Mann vereinigt hat,
+muss ich beweisen,
+dass das Wort seiner eigentlichen Bedeutung nach das Geschlecht selbst bezeichnet,
+nicht den Ehestand,
+und dass es zu Recht auch Jungfrauen einschließt\.
+Als Gott jenen zweiten Menschen als Hilfe für den Mann schuf,
+erhielt dieser sogleich den Namen „Frau[^bible-1356a118-bb66-4dd8-af6e-c6524be5b138] “:
+noch gesegnet,
+noch des Paradieses würdig,
+noch Jungfrau\.
+„Sie wird Frau genannt werden[^bible-fb9162d2-effb-48f9-b3f7-329c11838957] “,
+heißt es\.
+Du siehst also:
+Die Bezeichnung „Frau“ gilt nicht nur auch für Jungfrauen;
+ganz am Anfang gehörte sie allein der Jungfrau,
+als die erste Jungfrau sie trug\.
+Manche versuchen mit großem Scharfsinn,
+dies zu einer Weissagung umzudeuten\.
+Die Worte „Sie wird Frau genannt werden[^bible-fb9162d2-effb-48f9-b3f7-329c11838957] “ sollen bedeuten,
+dass sie diesen Namen erst tragen würde,
+nachdem sie ihre Jungfräulichkeit aufgegeben hätte\.
+Denn der Text fügt hinzu:
+„Deshalb wird ein Mann seinen Vater und seine Mutter verlassen und sich mit seiner Frau verbinden,
+und die beiden werden ein Fleisch werden\.[^bible-de22ee20-be40-4881-ae09-06b56b88daa4]
+“ Sie sollen erst einmal zeigen,
+worin dieser vermeintliche tiefere Sinn liegt\.
+Wenn sie erst künftig „Frau“ heißen sollte,
+welchen Namen hatte sie dann in der Zwischenzeit?
+Sie konnte doch für ihren gegenwärtigen Zustand nicht ohne Namen bleiben\.
+Und welchen Sinn hätte es denn,
+dass jemand,
+der künftig einen bestimmten Namen tragen sollte,
+in der Gegenwart überhaupt keinen Namen hatte?
+Adam gab allen Tieren Namen[^bible-ff8ef9e0-d4b4-4688-a203-4bed4f1889b6],
+nicht nach dem,
+was sie eines Tages sein würden,
+sondern nach dem,
+was sie damals waren,
+entsprechend der Natur,
+die sie von Anfang an besaßen\.
+Wie wurde sie also damals genannt?
+Tatsächlich heißt sie überall,
+wo die Schrift sie nennt,
+„Frau“,
+schon vor der Ehe,
+und niemals „Jungfrau“,
+obwohl sie eine war\.
+Das war ihre einzige Bezeichnung,
+und sie war nicht prophetisch gemeint\.
+Denn wenn die Schrift uns sagt,
+dass „die beiden nackt waren,
+Adam und seine Frau[^bible-3d971330-caa5-4846-b6e9-73da06e49327] “,
+dann meint sie mit „Frau“ keine Vorhersage ihrer Zukunft als Ehefrau\.
+Vielmehr war sie auch unverheiratet seine Frau,
+aus seiner eigenen Substanz genommen[^bible-b8402336-049a-45fa-a23d-8dfc8f4bcbf9]:
+„Dies ist Gebein von meinem Gebein und Fleisch von meinem Fleisch;
+sie wird Frau genannt werden\.[^bible-fb9162d2-effb-48f9-b3f7-329c11838957]
+“ Von hier aus hat das natürliche Bewusstsein selbst,
+geleitet vom göttlichen Hauch in seinem Inneren,
+den menschlichen Sprachgebrauch geprägt:
+Wir nennen unsere Frauen „Ehefrauen“,
+obwohl diese Bezeichnung nicht ganz zutreffend ist\.
+So geschah es auch mit vielen anderen Ausdrücken aus der Schrift,
+wie ich an anderer Stelle zeigen könnte\.
+Selbst die Griechen,
+die „Frau“ in engerem Sinn für „Ehefrau“ gebrauchen,
+haben dennoch eigene Wörter für die Ehefrau;
+ich möchte diesen Sprachgebrauch aber lieber auf die Schrift zurückführen\.
+Denn wenn zwei durch die Ehe ein Fleisch werden[^bible-de22ee20-be40-4881-ae09-06b56b88daa4],
+wird sie ihrem Ursprung entsprechend seine „Frau“ genannt,
+weil sie aus seiner Substanz ist,
+obwohl sie nun als Ehefrau gilt\.
+„Frau“ ist also von Natur aus nicht die Bezeichnung für die Ehefrau;
+vielmehr bezeichnet „Ehefrau“ den Stand einer Person,
+die bereits Frau genannt wird\.
+Daher kann sie „Frau“ heißen,
+ohne Ehefrau zu sein,
+aber nicht Ehefrau,
+ohne Frau zu sein\.
+Nachdem das neu geschaffene weibliche Wesen den Namen „Frau“ erhalten hatte und dessen Bedeutung erklärt worden war[^bible-fb9162d2-effb-48f9-b3f7-329c11838957],
+wendet sich die Schrift dem prophetischen Sinn zu:
+„Deshalb wird ein Mann Vater und Mutter verlassen\.[^bible-de22ee20-be40-4881-ae09-06b56b88daa4]
+“ Die Bezeichnung ist also ebenso von der Weissagung wie von der Person Evas getrennt;
+denn die Aussage galt nicht Eva selbst,
+sondern jenen künftigen Frauen,
+die in der Bezeichnung des weiblichen Geschlechts eingeschlossen waren\.
+Andernfalls hätte es von Adam geheißen,
+er werde um Evas willen Vater und Mutter verlassen[^bible-de22ee20-be40-4881-ae09-06b56b88daa4],
+obwohl er weder Vater noch Mutter hatte\.
+Es betraf also weder Eva noch Adam,
+sondern sagte prophetisch voraus,
+dass Ehemänner um ihrer Frauen willen ihre Eltern verlassen würden[^bible-de22ee20-be40-4881-ae09-06b56b88daa4]\.
+Das konnte auf Eva und Adam nicht zutreffen\.
+Wenn es sich so verhält,
+ist klar,
+dass sie nicht im Hinblick auf die Zukunft „Frau“ genannt wurde,
+da diese Zukunft sie gar nicht betraf\.
+Bestätigt wird das dadurch,
+dass der Grund für die Bezeichnung ausdrücklich genannt wird:
+„Sie wird Frau genannt werden,
+weil sie vom Mann genommen wurde\.[^bible-fb9162d2-effb-48f9-b3f7-329c11838957]
+“ Und das,
+während er selbst noch jungfräulich war\.
+Über die Bezeichnung des Mannes werde ich jedoch an der entsprechenden Stelle sprechen\.
+Niemand soll also „Frau“ prophetisch deuten,
+da dieser Bezeichnung ein ganz anderer Sinn zugrunde liegt,
+zumal klar zu erkennen ist,
+wo sie tatsächlich mit Blick auf die Zukunft einen Namen erhält:
+dort nämlich,
+wo sie „Eva“ genannt wird[^bible-c8c36c78-d518-4e99-bd13-4828a0f67c30],
+mit einem persönlichen Namen,
+den sie nach der natürlichen Bezeichnung erhält\.
+Denn wenn Eva „die Mutter aller Lebenden[^bible-c8c36c78-d518-4e99-bd13-4828a0f67c30] “ ist,
+dann liegt hier tatsächlich ein Name vor,
+der auf die Zukunft blickt:
+Hier wird sie als Ehefrau angekündigt,
+nicht als Jungfrau\.
+Das wird der Name einer Frau sein,
+die heiraten wird,
+denn aus einer verheirateten Frau wird eine Mutter\.
+Somit zeigt sich auch hier,
+dass sie damals nicht wegen ihres künftigen Standes „Frau“ genannt wurde,
+da sie den Namen für ihren künftigen Zustand erst später erhalten sollte\.
+Damit ist dieser Einwand hinreichend beantwortet\.
 
 ## Bibelverweise
 

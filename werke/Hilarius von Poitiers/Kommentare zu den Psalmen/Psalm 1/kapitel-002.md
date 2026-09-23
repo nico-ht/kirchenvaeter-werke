@@ -7,11 +7,35 @@ Autor: Hilarius von Poitiers
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/hilarius-von-poitiers/psalm-1#kapitel-471c10c9-20f6-42ab-6361-08dd760a486f).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:aabe5ae85f49b31312ca8b41a35b9df8ca32f58584cafb7a9f2104e338237569`
+Und während er dies sagt,
+müssen wir uns fragen,
+von welchem Menschen er spricht\.
+Er sagt:
+„Glückselig der Mann,
+der nicht im Rat der Gottlosen gegangen ist,
+noch auf dem Weg der Sünder steht und nicht im Sitz der Pestilenzialen sitzt\.
+Aber sein Wille ist im Gesetz des Herrn,
+und in seinem Gesetz wird er Tag und Nacht nachsinnen\.
+Und er wird sein wie ein Baum,
+gepflanzt an den Wasserläufen,
+der seine Frucht gibt zur rechten Zeit\.
+Sein Blatt wird nicht verwelken,
+und alles,
+was er tut,
+gelingt ihm\.“[^bible-0bc29fd3-b174-427d-80e8-20021b915ae5]
 
-Und während er dies sagt, müssen wir uns fragen, von welchem Menschen er spricht\. Er sagt: „Glückselig der Mann, der nicht im Rat der Gottlosen gegangen ist, noch auf dem Weg der Sünder steht und nicht im Sitz der Pestilenzialen sitzt\. Aber sein Wille ist im Gesetz des Herrn, und in seinem Gesetz wird er Tag und Nacht nachsinnen\. Und er wird sein wie ein Baum, gepflanzt an den Wasserläufen, der seine Frucht gibt zur rechten Zeit\. Sein Blatt wird nicht verwelken, und alles, was er tut, gelingt ihm\.“[^bible-0bc29fd3-b174-427d-80e8-20021b915ae5]
-
-Ich habe aus persönlichen Gesprächen oder aus ihren Briefen und Schriften erfahren, dass die Meinung vieler über diesen Psalm ist, dass wir ihn als eine Beschreibung unseres Herrn Jesus Christus verstehen sollten und dass es sein Glück ist, das in den folgenden Versen gepriesen wird\. Doch diese Auslegung ist sowohl in der Methode als auch in der Argumentation falsch, obwohl sie zweifellos von einer frommen Denkweise inspiriert ist, da der gesamte Psalter auf Ihn bezogen werden muss\. Die Zeit und der Ort in Seinem Leben, auf die sich dieser Abschnitt bezieht, müssen durch die gesunde Methode des Wissens, geleitet von der Vernunft, ermittelt werden\.
+Ich habe aus persönlichen Gesprächen oder aus ihren Briefen und Schriften erfahren,
+dass die Meinung vieler über diesen Psalm ist,
+dass wir ihn als eine Beschreibung unseres Herrn Jesus Christus verstehen sollten und dass es sein Glück ist,
+das in den folgenden Versen gepriesen wird\.
+Doch diese Auslegung ist sowohl in der Methode als auch in der Argumentation falsch,
+obwohl sie zweifellos von einer frommen Denkweise inspiriert ist,
+da der gesamte Psalter auf Ihn bezogen werden muss\.
+Die Zeit und der Ort in Seinem Leben,
+auf die sich dieser Abschnitt bezieht,
+müssen durch die gesunde Methode des Wissens,
+geleitet von der Vernunft,
+ermittelt werden\.
 
 ## Bibelverweise
 

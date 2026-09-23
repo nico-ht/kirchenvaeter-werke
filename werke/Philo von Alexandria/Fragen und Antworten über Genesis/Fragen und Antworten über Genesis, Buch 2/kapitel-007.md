@@ -7,8 +7,88 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-2#kapitel-49565d38-8653-4099-9c2d-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:6cdace94f05f83d3868ce65e071b43374de6041e57cc8d2ea6922a719bbc6356`
+Warum hat er gesagt,
+der untere Teil der Arche solle mit zwei und mit drei Stockwerken gebaut werden?
+Hier hat er auf bewundernswerte Weise die Aufnahmeräume für die Nahrung bezeichnet,
+indem er sie die inneren Teile des Hauses nennt\.
+Denn Nahrung ist verderblich,
+und was verderblich ist,
+gehört zum inneren Teil,
+weil es nach unten getragen wird:
+Zwar steigen einige kleine Teile der Speise und des Getränks,
+die wir zu uns nehmen,
+nach oben,
+der größere Teil aber wird ausgeschieden und als Kot hinausgeworfen\.
+Die Gedärme sind in zwei und drei Stockwerken angelegt worden,
+aufgrund der Fürsorge des Schöpfers,
+damit seine Geschöpfe reichlich versorgt werden\.
+Denn wenn er die Aufnahmeräume der Nahrung und ihren Durchgang so geschaffen hätte,
+dass zwischen Eingeweiden und Gesäß eine unmittelbare Verbindung bestünde,
+hätten sich manche unangenehmen Umstände ergeben müssen:
+erstens häufiger Mangel,
+Entbehrung und Hunger,
+dazu plötzliche Entleerungen infolge verschiedener unzeitiger Vorfälle;
+zweitens ein gewaltiger Hunger\.
+Denn wenn die Aufnahmeräume geleert sind,
+müssen Hunger und Durst unvermeidlich sogleich eintreten,
+wie uneingeschränkte Herrinnen in der Beschwerde der Schwangerschaft\.
+Dann folgt auch,
+dass die angenehme Lust an der Nahrung in Gefräßigkeit und in einen unphilosophischen Zustand verkehrt wird;
+denn nichts ist so überaus lästig wie ein leerer Bauch\.
+Und drittens steht der Tod schon vor der Tür\.
+Denn diejenigen müssen rasch vom Tod ereilt werden,
+die im selben Augenblick,
+in dem sie mit dem Essen fertig sind,
+wieder hungrig werden,
+und sobald sie getrunken haben,
+wieder durstig sind,
+und die,
+noch bevor sie ganz gesättigt sind,
+wieder entleert und vom Hunger bedrängt werden\.
+Wegen der langen Windungen und Krümmungen der Gedärme aber werden wir von allen Hungergefühlen,
+von aller Gefräßigkeit und davon befreit,
+vorzeitig vom Tod ereilt zu werden\.
 
-Warum hat er gesagt, der untere Teil der Arche solle mit zwei und mit drei Stockwerken gebaut werden? Hier hat er auf bewundernswerte Weise die Aufnahmeräume für die Nahrung bezeichnet, indem er sie die inneren Teile des Hauses nennt\. Denn Nahrung ist verderblich, und was verderblich ist, gehört zum inneren Teil, weil es nach unten getragen wird: Zwar steigen einige kleine Teile der Speise und des Getränks, die wir zu uns nehmen, nach oben, der größere Teil aber wird ausgeschieden und als Kot hinausgeworfen\. Die Gedärme sind in zwei und drei Stockwerken angelegt worden, aufgrund der Fürsorge des Schöpfers, damit seine Geschöpfe reichlich versorgt werden\. Denn wenn er die Aufnahmeräume der Nahrung und ihren Durchgang so geschaffen hätte, dass zwischen Eingeweiden und Gesäß eine unmittelbare Verbindung bestünde, hätten sich manche unangenehmen Umstände ergeben müssen: erstens häufiger Mangel, Entbehrung und Hunger, dazu plötzliche Entleerungen infolge verschiedener unzeitiger Vorfälle; zweitens ein gewaltiger Hunger\. Denn wenn die Aufnahmeräume geleert sind, müssen Hunger und Durst unvermeidlich sogleich eintreten, wie uneingeschränkte Herrinnen in der Beschwerde der Schwangerschaft\. Dann folgt auch, dass die angenehme Lust an der Nahrung in Gefräßigkeit und in einen unphilosophischen Zustand verkehrt wird; denn nichts ist so überaus lästig wie ein leerer Bauch\. Und drittens steht der Tod schon vor der Tür\. Denn diejenigen müssen rasch vom Tod ereilt werden, die im selben Augenblick, in dem sie mit dem Essen fertig sind, wieder hungrig werden, und sobald sie getrunken haben, wieder durstig sind, und die, noch bevor sie ganz gesättigt sind, wieder entleert und vom Hunger bedrängt werden\. Wegen der langen Windungen und Krümmungen der Gedärme aber werden wir von allen Hungergefühlen, von aller Gefräßigkeit und davon befreit, vorzeitig vom Tod ereilt zu werden\.
-
-Denn während die aufgenommene Nahrung in uns bleibt, nicht nur so lange, wie der zu durchlaufende Weg es erfordert, sondern so lange, wie es für uns erforderlich ist, vollzieht sich an ihr eine Veränderung\. Durch den Druck nämlich, dem sie ausgesetzt ist, wird die Nährkraft der Nahrung zunächst im Bauch herausgelöst; dann wird sie in der Leber gerüstet und ausgezogen\. Danach wird der jeweils vorherrschende Geschmack nach oben zu den einzelnen Teilen ausgesandt: bei Knaben, um zu ihrem Wachstum beizutragen, bei ausgewachsenen Männern, um ihre Kraft zu vermehren\. Schließlich sammelt die Natur die übrigbleibenden Teile zu Kot und Ausscheidung und stößt sie aus\. Darum ist notwendig viel Zeit erforderlich, um so viele und so bedeutende Vorgänge zu ordnen, wobei die Natur ihre Verrichtungen durch Beharrlichkeit ohne Mühe vollbringt\. Außerdem scheint mir die Arche selbst sehr passend mit dem menschlichen Körper verglichen zu werden\. Denn wie die Natur überaus fruchtbar an Lebewesen ist, so hat sie gerade deshalb für die durch die Flut verderbten und vernichteten Geschöpfe ein entgegengesetztes Aufnahmegefäß bereitet, der Erde ähnlich\. Denn alles, was auf der Erde lebte und von ihr getragen wurde, trug nun die Arche in allgemeinerer Weise in sich; und darum bestimmte Gott, dass sie, da sie auf den Wassern getragen wurde, gleichsam wie die Erde sein sollte: Mutter und Amme, und dass sie die Väter des späteren Geschlechts zeigen sollte, als wäre sie mit ihm schwanger, und dazu Sonne und Mond, die übrige Menge der Sterne und das ganze Heer des Himmels\. Denn indem die Menschen an dem kunstvoll Geschaffenen einen Vergleich und eine Entsprechung zum menschlichen Körper erblickten, sollten sie auf diese Weise deutlicher belehrt werden; denn darin lag die Ursache der vielfältigen Streitigkeiten unter den Menschen\. Nichts nämlich hat so sehr dazu beigetragen, den Menschen in knechtischem Zustand zu halten, wie die wesentlichen Säfte des Körpers und die Mängel, die aus ihnen entstehen, ganz besonders aber die schlechten Lüste und Begierden\.
+Denn während die aufgenommene Nahrung in uns bleibt,
+nicht nur so lange,
+wie der zu durchlaufende Weg es erfordert,
+sondern so lange,
+wie es für uns erforderlich ist,
+vollzieht sich an ihr eine Veränderung\.
+Durch den Druck nämlich,
+dem sie ausgesetzt ist,
+wird die Nährkraft der Nahrung zunächst im Bauch herausgelöst;
+dann wird sie in der Leber gerüstet und ausgezogen\.
+Danach wird der jeweils vorherrschende Geschmack nach oben zu den einzelnen Teilen ausgesandt:
+bei Knaben,
+um zu ihrem Wachstum beizutragen,
+bei ausgewachsenen Männern,
+um ihre Kraft zu vermehren\.
+Schließlich sammelt die Natur die übrigbleibenden Teile zu Kot und Ausscheidung und stößt sie aus\.
+Darum ist notwendig viel Zeit erforderlich,
+um so viele und so bedeutende Vorgänge zu ordnen,
+wobei die Natur ihre Verrichtungen durch Beharrlichkeit ohne Mühe vollbringt\.
+Außerdem scheint mir die Arche selbst sehr passend mit dem menschlichen Körper verglichen zu werden\.
+Denn wie die Natur überaus fruchtbar an Lebewesen ist,
+so hat sie gerade deshalb für die durch die Flut verderbten und vernichteten Geschöpfe ein entgegengesetztes Aufnahmegefäß bereitet,
+der Erde ähnlich\.
+Denn alles,
+was auf der Erde lebte und von ihr getragen wurde,
+trug nun die Arche in allgemeinerer Weise in sich;
+und darum bestimmte Gott,
+dass sie,
+da sie auf den Wassern getragen wurde,
+gleichsam wie die Erde sein sollte:
+Mutter und Amme,
+und dass sie die Väter des späteren Geschlechts zeigen sollte,
+als wäre sie mit ihm schwanger,
+und dazu Sonne und Mond,
+die übrige Menge der Sterne und das ganze Heer des Himmels\.
+Denn indem die Menschen an dem kunstvoll Geschaffenen einen Vergleich und eine Entsprechung zum menschlichen Körper erblickten,
+sollten sie auf diese Weise deutlicher belehrt werden;
+denn darin lag die Ursache der vielfältigen Streitigkeiten unter den Menschen\.
+Nichts nämlich hat so sehr dazu beigetragen,
+den Menschen in knechtischem Zustand zu halten,
+wie die wesentlichen Säfte des Körpers und die Mängel,
+die aus ihnen entstehen,
+ganz besonders aber die schlechten Lüste und Begierden\.

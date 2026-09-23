@@ -7,6 +7,75 @@ Autor: Tertullian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/tertullian-de-patientia#kapitel-77e73b0b-a73e-49d0-fbbc-08df14d31bf7).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d84df86121f125f6ab9b85f5c6f7f7a8d36e6dd2257cebb7e6255e36019bc405`
-
-Ich bekenne offen vor Gott, dem Herrn: Es war vermessen genug, wenn nicht gar unverschämt von mir, dass ich gewagt habe, eine Abhandlung über die Geduld zu verfassen\. Denn ich bin völlig ungeeignet, sie zu üben, da ich ein Mensch bin, der nichts Gutes an sich hat\. Wer sich daranmacht, etwas darzulegen und zu empfehlen, sollte doch zuerst selbst darin vorbildlich handeln und seine beharrlichen Ermahnungen auf die Autorität des eigenen Lebenswandels stützen, damit seine Worte nicht angesichts seiner unzulänglichen Taten erröten müssen\. Würde dieses Erröten doch Abhilfe schaffen\! Würde uns doch die Scham darüber, dass wir nicht vorleben, was wir anderen nahelegen wollen, dazu erziehen, es vorzuleben\! Nur übersteigt die Größe mancher Güter, ebenso wie die mancher Übel, unsere Kräfte, sodass allein die Gnade göttlicher Eingebung uns befähigt, sie zu erlangen und zu verwirklichen\. Denn das höchste Gute liegt vor allem bei Gott; und niemand anders als der, der es besitzt, teilt es aus, jedem so, wie er es für recht hält\. So wird es gewissermaßen ein Trost sein, über das zu sprechen, dessen Genuss einem selbst nicht vergönnt ist\. Es ist wie bei Kranken: Weil ihnen die Gesundheit fehlt, können sie nicht aufhören, von ihren Wohltaten zu sprechen\. So muss auch ich in meinem tiefen Elend, ständig vom Fieber der Ungeduld geplagt, nach jener Gesundheit seufzen, die in der Geduld liegt und die mir fehlt; ich muss sie herbeirufen und beharrlich um sie flehen\. Dabei rufe ich mir die Wahrheit ins Gedächtnis und durchdenke sie im Blick auf meine eigene Schwäche: Niemand gelangt leicht zu einem gesunden Glauben und zu einer gefestigten Lebensführung nach der Lehre des Herrn, wenn ihm nicht die Geduld zur Seite sitzt\. So sehr steht die Geduld über den Dingen Gottes, dass niemand ein Gebot befolgen oder ein dem Herrn wohlgefälliges Werk vollbringen kann, wenn er ihr fernsteht\. Selbst diejenigen, die ohne sie leben, ehren ihren Wert, indem sie sie die höchste Tugend nennen\. Die Philosophen, die ja als Tiere von beträchtlicher Weisheit gelten, weisen ihr einen so hohen Rang zu, dass sie trotz aller Streitigkeiten wegen der verschiedenen Einfälle ihrer Schulen und ihrer widerstreitenden Ansichten doch einzig in der Wertschätzung der Geduld übereinstimmen und bei diesem einen ihrer Bestrebungen miteinander Frieden geschlossen haben\. Für sie verschwören sie sich; für sie schließen sie Bündnisse; ihr jagen sie einmütig nach, wenn sie sich den Anschein der Tugend geben; an der Geduld stellen sie ihre ganze Weisheit zur Schau\. Welch großes Zeugnis für sie, dass sie sogar die eitlen Schulen der Welt dazu bewegt, sie zu loben und zu verherrlichen\! Oder ist es eher eine Kränkung, dass etwas Göttliches zum Spielball der weltlichen Wissenschaften wird? Doch darum sollen sich jene kümmern, die sich bald ihrer Weisheit schämen werden, wenn diese zusammen mit der Welt, in der sie lebt, vernichtet und entehrt wird\.
+Ich bekenne offen vor Gott,
+dem Herrn:
+Es war vermessen genug,
+wenn nicht gar unverschämt von mir,
+dass ich gewagt habe,
+eine Abhandlung über die Geduld zu verfassen\.
+Denn ich bin völlig ungeeignet,
+sie zu üben,
+da ich ein Mensch bin,
+der nichts Gutes an sich hat\.
+Wer sich daranmacht,
+etwas darzulegen und zu empfehlen,
+sollte doch zuerst selbst darin vorbildlich handeln und seine beharrlichen Ermahnungen auf die Autorität des eigenen Lebenswandels stützen,
+damit seine Worte nicht angesichts seiner unzulänglichen Taten erröten müssen\.
+Würde dieses Erröten doch Abhilfe schaffen\!
+Würde uns doch die Scham darüber,
+dass wir nicht vorleben,
+was wir anderen nahelegen wollen,
+dazu erziehen,
+es vorzuleben\!
+Nur übersteigt die Größe mancher Güter,
+ebenso wie die mancher Übel,
+unsere Kräfte,
+sodass allein die Gnade göttlicher Eingebung uns befähigt,
+sie zu erlangen und zu verwirklichen\.
+Denn das höchste Gute liegt vor allem bei Gott;
+und niemand anders als der,
+der es besitzt,
+teilt es aus,
+jedem so,
+wie er es für recht hält\.
+So wird es gewissermaßen ein Trost sein,
+über das zu sprechen,
+dessen Genuss einem selbst nicht vergönnt ist\.
+Es ist wie bei Kranken:
+Weil ihnen die Gesundheit fehlt,
+können sie nicht aufhören,
+von ihren Wohltaten zu sprechen\.
+So muss auch ich in meinem tiefen Elend,
+ständig vom Fieber der Ungeduld geplagt,
+nach jener Gesundheit seufzen,
+die in der Geduld liegt und die mir fehlt;
+ich muss sie herbeirufen und beharrlich um sie flehen\.
+Dabei rufe ich mir die Wahrheit ins Gedächtnis und durchdenke sie im Blick auf meine eigene Schwäche:
+Niemand gelangt leicht zu einem gesunden Glauben und zu einer gefestigten Lebensführung nach der Lehre des Herrn,
+wenn ihm nicht die Geduld zur Seite sitzt\.
+So sehr steht die Geduld über den Dingen Gottes,
+dass niemand ein Gebot befolgen oder ein dem Herrn wohlgefälliges Werk vollbringen kann,
+wenn er ihr fernsteht\.
+Selbst diejenigen,
+die ohne sie leben,
+ehren ihren Wert,
+indem sie sie die höchste Tugend nennen\.
+Die Philosophen,
+die ja als Tiere von beträchtlicher Weisheit gelten,
+weisen ihr einen so hohen Rang zu,
+dass sie trotz aller Streitigkeiten wegen der verschiedenen Einfälle ihrer Schulen und ihrer widerstreitenden Ansichten doch einzig in der Wertschätzung der Geduld übereinstimmen und bei diesem einen ihrer Bestrebungen miteinander Frieden geschlossen haben\.
+Für sie verschwören sie sich;
+für sie schließen sie Bündnisse;
+ihr jagen sie einmütig nach,
+wenn sie sich den Anschein der Tugend geben;
+an der Geduld stellen sie ihre ganze Weisheit zur Schau\.
+Welch großes Zeugnis für sie,
+dass sie sogar die eitlen Schulen der Welt dazu bewegt,
+sie zu loben und zu verherrlichen\!
+Oder ist es eher eine Kränkung,
+dass etwas Göttliches zum Spielball der weltlichen Wissenschaften wird?
+Doch darum sollen sich jene kümmern,
+die sich bald ihrer Weisheit schämen werden,
+wenn diese zusammen mit der Welt,
+in der sie lebt,
+vernichtet und entehrt wird\.

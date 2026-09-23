@@ -7,9 +7,11 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-bbe9ccb9-654a-4938-76d3-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3bf41f6bcf0e6e579de4fce15e359000e7bc0aa8492a2057ccc7a13fe8f58b1c`
-
-„Wer rechtet mit mir? Lass ihn vor mich hintreten\.[^bible-0598843d-4395-4472-8050-af80c60de05f]“ „Ich befreie den Verurteilten\. Ich gab dem Toten das Leben\. Ich richte den Begrabenen auf\. Wer will mir widersprechen?“
+„Wer rechtet mit mir?
+Lass ihn vor mich hintreten\.[^bible-0598843d-4395-4472-8050-af80c60de05f]“ „Ich befreie den Verurteilten\.
+Ich gab dem Toten das Leben\.
+Ich richte den Begrabenen auf\.
+Wer will mir widersprechen?“
 
 ## Bibelverweise
 

@@ -7,9 +7,159 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/86-homilie-ueber-matthaeus#kapitel-17f10f31-7a17-43c0-5bc6-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:84168838cabd590a5e81a79495022b5f3d157e2174aa1cdf9087ea2e2e025381`
-
-Aus kleinen Dingen führt jener böse Dämon also auf diese Weise die großen ein; aus den großen aber das Verzweifeln, weil er darin eine andere Methode gefunden hat, die der ersten nicht nachsteht\. Denn nicht so sehr das Sündigen richtet zugrunde wie das Verzweifeln\. Wer nämlich gefehlt hat, kommt, wenn er nüchtern bleibt, schnell zur Umkehr und bringt das Geschehene wieder in Ordnung\. Wer aber aufgibt und nicht umkehrt, fällt eben deshalb aus dieser Heilung heraus, weil er die Heilmittel der Umkehr nicht anwendet\. Er hat auch eine dritte, gefährliche Falle: wenn er etwa der Sünde den Anschein der Frömmigkeit umlegt\. Und wo, sagt einer, hat der Teufel so viel Macht gehabt, dass er bis dahin täuschen konnte? Hör zu und hüte dich vor seinen Gedanken\. Christus hat durch Paulus geboten, dass eine Frau sich nicht von ihrem Mann trennen soll und dass sie einander nichts vorenthalten sollen, außer im gegenseitigen Einverständnis\. Einige Frauen aber haben sich, angeblich aus Liebe zur Enthaltsamkeit, von ihren eigenen Männern getrennt, als täten sie etwas Frommes, und haben sie zum Ehebruch getrieben\. Bedenke also, wie groß dieses Übel ist: dass Frauen, nachdem sie so viel Mühe auf sich genommen haben, angeklagt werden, als hätten sie schwerstes Unrecht getan, die äußerste Strafe zahlen müssen und ihre Ehegefährten in den Abgrund des Verderbens stoßen\. Andere wiederum enthielten sich nach dem Gesetz des Fastens bestimmter Speisen und gingen nach und nach so weit, sie zu verabscheuen; auch das bringt die schwerste Strafe mit sich\. Das geschieht, wenn manche ihre eigenen Vorannahmen gegen das festhalten, was nach den Schriften gilt\. Auch die Leute bei den Korinthern meinten, es sei ein Zeichen von Vollkommenheit, unterschiedslos von allem zu kosten, auch von dem Verbotenen\. Doch das war nicht Vollkommenheit, sondern äußerste Gesetzlosigkeit\. Darum weist Paulus sie auch scharf zurecht und sagte, sie seien der äußersten Strafe verfallen\. Andere wiederum halten es für Frömmigkeit, das Haar lang wachsen zu lassen\. Aber auch das gehört zu den verbotenen Dingen und trägt große Schande in sich\. Wieder andere verfolgen ein maßloses Trauern über die Sünden als etwas Gewinnbringendes\. Doch auch das stammt aus teuflischer List, wie Judas gezeigt hat; denn deshalb erhängte er sich\. Darum fürchtete Paulus auch um den, der Unzucht getrieben hatte, er könne etwas Derartiges erleiden, und mahnte die Korinther, ihn schnell herauszureißen: „damit ein solcher nicht von der übergroßen Trauer verschlungen wird[^bible-8e5aed54-b465-4652-8b3a-93488f618473]\.“ Dann zeigt er, dass so etwas zu jener Falle gehört, und sagt: „damit wir nicht vom Satan übervorteilt werden; denn seine Gedanken sind uns nicht unbekannt[^bible-aa6ccc3c-f243-4fb6-be2b-ba743ade2624]“, weil er mit großer Hinterlist angreift, sagt er\. Denn wenn er offen und unverhüllt kämpfen würde, wäre der Sieg leicht und mühelos\. Mehr noch: Auch jetzt wird er leicht sein, wenn wir nüchtern bleiben\. Denn gegen jeden dieser Wege hat Gott uns gewappnet\. Höre nämlich, was er mahnend sagt, um uns zu überzeugen, nicht einmal diese kleinen Dinge zu verachten: „Wer zu seinem Bruder sagt: Du Narr, wird der Hölle verfallen sein[^bible-c79f175f-bb21-4dd4-aaba-5fdfb16d441c]“; und: „Wer mit zuchtlosen Augen hinsieht, ist schon ein vollendeter Ehebrecher[^bible-78ffcd39-a1df-40be-8847-c4e764f19bfb]\.“ Und die Lachenden nennt er elend; überall nimmt er die Anfänge und Samen der Übel hinweg und sagt, man müsse für ein müßiges Wort Rechenschaft geben\. Darum heilte auch Ijob schon die Gedanken seiner Kinder\. Damit wir aber nicht verzweifeln, sagt er: „Fällt denn, wer fällt, nicht wieder auf? Oder kehrt, wer sich abwendet, nicht wieder um?[^bible-632e2b13-0aab-4e7b-8f6d-ac258c9333c5]“ Und wiederum: „Ich will ganz gewiss nicht den Tod des Sünders, sondern dass er umkehrt und lebt[^bible-0af42aad-09e1-46a4-88da-3a39ceffacfc]“; und: „Heute, wenn ihr seine Stimme hört[^bible-aebd372d-377a-45fc-ac64-3501e20d67f5]\.“ Und viele andere solche Worte und Beispiele stehen in der Schrift\. Damit man aber nicht unter dem Anschein von Frömmigkeit zugrunde geht, höre Paulus sagen: „damit ein solcher nicht von der übergroßen Trauer verschlungen wird[^bible-8e5aed54-b465-4652-8b3a-93488f618473]\.“ Da wir dies also wissen, lasst uns gegen alle Wege, die die Nachlässigen ablenken, das Verständnis aus den Schriften als Schutzwall errichten\. Und sag nicht: Was ist denn schon dabei, wenn ich eine schöne Frau neugierig ansehe? Denn wenn du im Herzen den Ehebruch vollziehst, wirst du bald auch den im Fleisch wagen\. Sag nicht: Was ist denn schon dabei, wenn ich an diesem Armen vorübergehe? Denn wenn du an diesem vorübergehst, dann auch an einem anderen; und wenn an jenem, dann auch an wieder einem anderen\. Sag auch nicht: Was denn, wenn ich begehre, was meinem Nächsten gehört? Denn gerade das, gerade das brachte Ahab ins Verderben, obwohl er den Preis zahlte; aber er nahm es von einem, der nicht wollte\. Denn man darf nicht kaufen, indem man jemanden zwingt, sondern indem man ihn überzeugt\. Wenn aber der, der den angemessenen Preis zahlte, so bestraft wurde, weil er von einem nahm, der nicht wollte: Welcher Strafe wird dann der nicht würdig sein, der nicht einmal das tut, sondern von einem, der nicht will, raubt, und das, obwohl er in der Gnade lebt? Damit wir also nicht bestraft werden, wollen wir uns von jeder Gewalt und jedem Raub rein bewahren, uns mit den Sünden auch vor ihren Anfängen hüten und mit großem Eifer die Tugend pflegen\. Denn so werden wir auch die ewigen Güter genießen, durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus\. Ihm sei die Ehre in alle Ewigkeit\. Amen\.
+Aus kleinen Dingen führt jener böse Dämon also auf diese Weise die großen ein;
+aus den großen aber das Verzweifeln,
+weil er darin eine andere Methode gefunden hat,
+die der ersten nicht nachsteht\.
+Denn nicht so sehr das Sündigen richtet zugrunde wie das Verzweifeln\.
+Wer nämlich gefehlt hat,
+kommt,
+wenn er nüchtern bleibt,
+schnell zur Umkehr und bringt das Geschehene wieder in Ordnung\.
+Wer aber aufgibt und nicht umkehrt,
+fällt eben deshalb aus dieser Heilung heraus,
+weil er die Heilmittel der Umkehr nicht anwendet\.
+Er hat auch eine dritte,
+gefährliche Falle:
+wenn er etwa der Sünde den Anschein der Frömmigkeit umlegt\.
+Und wo,
+sagt einer,
+hat der Teufel so viel Macht gehabt,
+dass er bis dahin täuschen konnte?
+Hör zu und hüte dich vor seinen Gedanken\.
+Christus hat durch Paulus geboten,
+dass eine Frau sich nicht von ihrem Mann trennen soll und dass sie einander nichts vorenthalten sollen,
+außer im gegenseitigen Einverständnis\.
+Einige Frauen aber haben sich,
+angeblich aus Liebe zur Enthaltsamkeit,
+von ihren eigenen Männern getrennt,
+als täten sie etwas Frommes,
+und haben sie zum Ehebruch getrieben\.
+Bedenke also,
+wie groß dieses Übel ist:
+dass Frauen,
+nachdem sie so viel Mühe auf sich genommen haben,
+angeklagt werden,
+als hätten sie schwerstes Unrecht getan,
+die äußerste Strafe zahlen müssen und ihre Ehegefährten in den Abgrund des Verderbens stoßen\.
+Andere wiederum enthielten sich nach dem Gesetz des Fastens bestimmter Speisen und gingen nach und nach so weit,
+sie zu verabscheuen;
+auch das bringt die schwerste Strafe mit sich\.
+Das geschieht,
+wenn manche ihre eigenen Vorannahmen gegen das festhalten,
+was nach den Schriften gilt\.
+Auch die Leute bei den Korinthern meinten,
+es sei ein Zeichen von Vollkommenheit,
+unterschiedslos von allem zu kosten,
+auch von dem Verbotenen\.
+Doch das war nicht Vollkommenheit,
+sondern äußerste Gesetzlosigkeit\.
+Darum weist Paulus sie auch scharf zurecht und sagte,
+sie seien der äußersten Strafe verfallen\.
+Andere wiederum halten es für Frömmigkeit,
+das Haar lang wachsen zu lassen\.
+Aber auch das gehört zu den verbotenen Dingen und trägt große Schande in sich\.
+Wieder andere verfolgen ein maßloses Trauern über die Sünden als etwas Gewinnbringendes\.
+Doch auch das stammt aus teuflischer List,
+wie Judas gezeigt hat;
+denn deshalb erhängte er sich\.
+Darum fürchtete Paulus auch um den,
+der Unzucht getrieben hatte,
+er könne etwas Derartiges erleiden,
+und mahnte die Korinther,
+ihn schnell herauszureißen:
+„damit ein solcher nicht von der übergroßen Trauer verschlungen wird[^bible-8e5aed54-b465-4652-8b3a-93488f618473]\.“
+Dann zeigt er,
+dass so etwas zu jener Falle gehört,
+und sagt:
+„damit wir nicht vom Satan übervorteilt werden;
+denn seine Gedanken sind uns nicht unbekannt[^bible-aa6ccc3c-f243-4fb6-be2b-ba743ade2624]“,
+weil er mit großer Hinterlist angreift,
+sagt er\.
+Denn wenn er offen und unverhüllt kämpfen würde,
+wäre der Sieg leicht und mühelos\.
+Mehr noch:
+Auch jetzt wird er leicht sein,
+wenn wir nüchtern bleiben\.
+Denn gegen jeden dieser Wege hat Gott uns gewappnet\.
+Höre nämlich,
+was er mahnend sagt,
+um uns zu überzeugen,
+nicht einmal diese kleinen Dinge zu verachten:
+„Wer zu seinem Bruder sagt:
+Du Narr,
+wird der Hölle verfallen sein[^bible-c79f175f-bb21-4dd4-aaba-5fdfb16d441c]“;
+und:
+„Wer mit zuchtlosen Augen hinsieht,
+ist schon ein vollendeter Ehebrecher[^bible-78ffcd39-a1df-40be-8847-c4e764f19bfb]\.“
+Und die Lachenden nennt er elend;
+überall nimmt er die Anfänge und Samen der Übel hinweg und sagt,
+man müsse für ein müßiges Wort Rechenschaft geben\.
+Darum heilte auch Ijob schon die Gedanken seiner Kinder\.
+Damit wir aber nicht verzweifeln,
+sagt er:
+„Fällt denn,
+wer fällt,
+nicht wieder auf?
+Oder kehrt,
+wer sich abwendet,
+nicht wieder um?[^bible-632e2b13-0aab-4e7b-8f6d-ac258c9333c5]“ Und wiederum:
+„Ich will ganz gewiss nicht den Tod des Sünders,
+sondern dass er umkehrt und lebt[^bible-0af42aad-09e1-46a4-88da-3a39ceffacfc]“;
+und:
+„Heute,
+wenn ihr seine Stimme hört[^bible-aebd372d-377a-45fc-ac64-3501e20d67f5]\.“
+Und viele andere solche Worte und Beispiele stehen in der Schrift\.
+Damit man aber nicht unter dem Anschein von Frömmigkeit zugrunde geht,
+höre Paulus sagen:
+„damit ein solcher nicht von der übergroßen Trauer verschlungen wird[^bible-8e5aed54-b465-4652-8b3a-93488f618473]\.“
+Da wir dies also wissen,
+lasst uns gegen alle Wege,
+die die Nachlässigen ablenken,
+das Verständnis aus den Schriften als Schutzwall errichten\.
+Und sag nicht:
+Was ist denn schon dabei,
+wenn ich eine schöne Frau neugierig ansehe?
+Denn wenn du im Herzen den Ehebruch vollziehst,
+wirst du bald auch den im Fleisch wagen\.
+Sag nicht:
+Was ist denn schon dabei,
+wenn ich an diesem Armen vorübergehe?
+Denn wenn du an diesem vorübergehst,
+dann auch an einem anderen;
+und wenn an jenem,
+dann auch an wieder einem anderen\.
+Sag auch nicht:
+Was denn,
+wenn ich begehre,
+was meinem Nächsten gehört?
+Denn gerade das,
+gerade das brachte Ahab ins Verderben,
+obwohl er den Preis zahlte;
+aber er nahm es von einem,
+der nicht wollte\.
+Denn man darf nicht kaufen,
+indem man jemanden zwingt,
+sondern indem man ihn überzeugt\.
+Wenn aber der,
+der den angemessenen Preis zahlte,
+so bestraft wurde,
+weil er von einem nahm,
+der nicht wollte:
+Welcher Strafe wird dann der nicht würdig sein,
+der nicht einmal das tut,
+sondern von einem,
+der nicht will,
+raubt,
+und das,
+obwohl er in der Gnade lebt?
+Damit wir also nicht bestraft werden,
+wollen wir uns von jeder Gewalt und jedem Raub rein bewahren,
+uns mit den Sünden auch vor ihren Anfängen hüten und mit großem Eifer die Tugend pflegen\.
+Denn so werden wir auch die ewigen Güter genießen,
+durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus\.
+Ihm sei die Ehre in alle Ewigkeit\.
+Amen\.
 
 ## Bibelverweise
 

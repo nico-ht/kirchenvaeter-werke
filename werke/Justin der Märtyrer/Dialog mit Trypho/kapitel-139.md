@@ -7,9 +7,69 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-6baa2ed8-86c2-430a-c1a5-08de6c821f66).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:81447522ca3ba69381a01f22adbb15323c0a31b65dc1b8ad6779692720b9b445`
-
-Ihr seid euch aber eines weiteren Geheimnisses nicht bewusst, das durch die Dinge vorhergesagt wurde, die in den Tagen Noahs vollbracht wurden\. Es ist folgendes: In den Segnungen, mit denen Noah seine beiden Söhne segnet, verflucht er auch den Sohn seines Sohnes\! Denn der prophetische Geist würde jenen Sohn nicht verfluchen, da er bereits von Gott gesegnet worden war, zusammen mit den anderen Söhnen Noahs\. Aber da die Strafe für die Sünde auf die gesamte Nachkommenschaft des Sohnes übertragen werden sollte, der über die Nacktheit seines Vaters lachte, ließ er den Fluch mit dem Sohn des Sohnes beginnen\! Nun wurde durch Noahs Worte vorhergesagt, dass die Nachkommen Sems die Besitztümer und Wohnstätten Kanaans besitzen würden, und dass diese Besitztümer wiederum von den Nachkommen Sems an die Nachkommen Jafets übergehen würden\! Diese würden die Nachkommen Sems ausrauben, genau wie sie die Nachkommen Kanaans ausgeraubt hatten\. Hört zu, während ich erkläre, wie sich diese Prophezeiung erfüllt hat\. Ihr in der Tat, die ihr Nachkommen Sems seid, seid in Übereinstimmung mit Gottes Willen in das Land des Sohnes Kanaans eingedrungen und habt es in Besitz genommen\! Es ist ebenso klar, dass die Nachkommen Jafets im Gegenzug durch Gottes Gericht euer Land von euch weggenommen haben und es jetzt besitzen\. So wurde es in der Schrift vorhergesagt: 'Und als Noah von seinem Wein erwachte und erfuhr, was sein jüngerer Sohn ihm angetan hatte, sagte er: Verflucht sei Kanaan, der Sklave; ein Sklave soll er seinen Brüdern sein\. Und er sagte: Gepriesen sei der Herr, der Gott Sems, und Kanaan soll sein Sklave sein\. Möge der Herr Jafet Raum machen, und möge er in den Häusern Sems wohnen, und Kanaan soll sein Sklave sein\.'[^bible-86ea3e25-16ec-4987-b595-feaf69e723b5] So also, wie zwei Völker gesegnet wurden, nämlich die Nachkommen Sems und Jafets, und erklärt wurde, dass die Nachkommen Sems zuerst die Häuser Kanaans besitzen würden, die später von den Nachkommen Jafets beschlagnahmt werden würden, und wie das eine Volk, die Kanaaniter, in die Sklaverei der anderen beiden gezwungen wurde, so ist Christus in seiner Macht vom allmächtigen Vater gekommen\! Und er ruft alle Menschen zur Freundschaft, zum Segen, zur Buße und zum Gemeinschaftsleben, welches in demselben Land aller Heiligen stattfinden soll, von dem er zugesagt hat, dass es dort einen zugeteilten Anteil für alle Gläubigen geben wird, wie zuvor gezeigt wurde\. Deshalb erkennen Menschen aus jedem Land, ob Sklaven oder freie Männer, die an Christus glauben und die Wahrheiten seiner Worte und jener der Propheten anerkennen, voll und ganz, dass sie eines Tages mit ihm in jenem Land vereint sein werden, um unvergängliche Segnungen für alle Ewigkeit zu erben\!“
+Ihr seid euch aber eines weiteren Geheimnisses nicht bewusst,
+das durch die Dinge vorhergesagt wurde,
+die in den Tagen Noahs vollbracht wurden\.
+Es ist folgendes:
+In den Segnungen,
+mit denen Noah seine beiden Söhne segnet,
+verflucht er auch den Sohn seines Sohnes\!
+Denn der prophetische Geist würde jenen Sohn nicht verfluchen,
+da er bereits von Gott gesegnet worden war,
+zusammen mit den anderen Söhnen Noahs\.
+Aber da die Strafe für die Sünde auf die gesamte Nachkommenschaft des Sohnes übertragen werden sollte,
+der über die Nacktheit seines Vaters lachte,
+ließ er den Fluch mit dem Sohn des Sohnes beginnen\!
+Nun wurde durch Noahs Worte vorhergesagt,
+dass die Nachkommen Sems die Besitztümer und Wohnstätten Kanaans besitzen würden,
+und dass diese Besitztümer wiederum von den Nachkommen Sems an die Nachkommen Jafets übergehen würden\!
+Diese würden die Nachkommen Sems ausrauben,
+genau wie sie die Nachkommen Kanaans ausgeraubt hatten\.
+Hört zu,
+während ich erkläre,
+wie sich diese Prophezeiung erfüllt hat\.
+Ihr in der Tat,
+die ihr Nachkommen Sems seid,
+seid in Übereinstimmung mit Gottes Willen in das Land des Sohnes Kanaans eingedrungen und habt es in Besitz genommen\!
+Es ist ebenso klar,
+dass die Nachkommen Jafets im Gegenzug durch Gottes Gericht euer Land von euch weggenommen haben und es jetzt besitzen\.
+So wurde es in der Schrift vorhergesagt:
+'Und als Noah von seinem Wein erwachte und erfuhr,
+was sein jüngerer Sohn ihm angetan hatte,
+sagte er:
+Verflucht sei Kanaan,
+der Sklave;
+ein Sklave soll er seinen Brüdern sein\.
+Und er sagte:
+Gepriesen sei der Herr,
+der Gott Sems,
+und Kanaan soll sein Sklave sein\.
+Möge der Herr Jafet Raum machen,
+und möge er in den Häusern Sems wohnen,
+und Kanaan soll sein Sklave sein\.'[^bible-86ea3e25-16ec-4987-b595-feaf69e723b5]
+So also,
+wie zwei Völker gesegnet wurden,
+nämlich die Nachkommen Sems und Jafets,
+und erklärt wurde,
+dass die Nachkommen Sems zuerst die Häuser Kanaans besitzen würden,
+die später von den Nachkommen Jafets beschlagnahmt werden würden,
+und wie das eine Volk,
+die Kanaaniter,
+in die Sklaverei der anderen beiden gezwungen wurde,
+so ist Christus in seiner Macht vom allmächtigen Vater gekommen\!
+Und er ruft alle Menschen zur Freundschaft,
+zum Segen,
+zur Buße und zum Gemeinschaftsleben,
+welches in demselben Land aller Heiligen stattfinden soll,
+von dem er zugesagt hat,
+dass es dort einen zugeteilten Anteil für alle Gläubigen geben wird,
+wie zuvor gezeigt wurde\.
+Deshalb erkennen Menschen aus jedem Land,
+ob Sklaven oder freie Männer,
+die an Christus glauben und die Wahrheiten seiner Worte und jener der Propheten anerkennen,
+voll und ganz,
+dass sie eines Tages mit ihm in jenem Land vereint sein werden,
+um unvergängliche Segnungen für alle Ewigkeit zu erben\!“
 
 ## Bibelverweise
 

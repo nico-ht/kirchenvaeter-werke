@@ -7,8 +7,84 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/gespraech-des-archelaus#kapitel-8292574f-1985-4a6c-0aac-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:13b525775b372036a93afcf7552a77621542369dd47218132eff0f977e93c1aa`
+Doch niemand hat diese Lehren je so schamlos verbreitet wie Skythianus\.
+Denn er führte die Vorstellung von einem Streit zwischen den beiden Ungezeugten ein sowie all die anderen Hirngespinste,
+die sich aus einer solchen Auffassung ergeben\.
+Skythianus selbst stammte aus dem Volk der Sarazenen und nahm eine Gefangene aus der oberen Thebais zur Frau\.
+Sie überredete ihn,
+lieber in Ägypten als in den Wüsten zu leben\.
+Wäre er doch niemals in dieser Provinz aufgenommen worden\!
+Denn während seines Aufenthalts dort bot sich ihm die Gelegenheit,
+die Weisheit der Ägypter kennenzulernen\.
+Um die Wahrheit zu sagen:
+Er war ein Mann von außerordentlicher Begabung und verfügte über beträchtliche Mittel,
+wie auch diejenigen,
+die ihn kannten,
+in Berichten bezeugt haben,
+die uns überliefert worden sind\.
+Außerdem hatte er einen Schüler namens Terebinthus,
+der für ihn vier Bücher schrieb\.
+Dem ersten dieser Bücher gab er den Titel »Die Geheimnisse«,
+dem zweiten »Die Hauptstücke«,
+dem dritten »Das Evangelium« und dem letzten »Der Schatz«\.
+Er besaß also diese vier Bücher und hatte diesen einen Schüler namens Terebinthus\.
+Nachdem die beiden beschlossen hatten,
+längere Zeit allein für sich zu leben,
+erwog Skythianus eine Reise nach Judäa,
+um dort alle aufzusuchen,
+die im Ruf standen,
+Lehrer zu sein\.
+Doch kurz darauf ereignete es sich,
+dass er plötzlich aus dem Leben schied,
+ohne noch etwas ausführen zu können\.
+Sein Schüler,
+der bei ihm gelebt hatte,
+musste fliehen und machte sich auf den Weg nach Babylonien\.
+Diese Provinz wird gegenwärtig von den Persern beherrscht und liegt von unserer Gegend eine Reise von etwa sechs Tagen und Nächten entfernt\.
+Dort angekommen,
+gelang es Terebinthus,
+eine erstaunliche Geschichte über sich in Umlauf zu bringen:
+Er behauptete,
+von der ganzen Weisheit der Ägypter erfüllt zu sein und nun in Wahrheit nicht mehr Terebinthus,
+sondern ein anderer Buddas zu heißen;
+diese Bezeichnung sei ihm beigelegt worden\.
 
-Doch niemand hat diese Lehren je so schamlos verbreitet wie Skythianus\. Denn er führte die Vorstellung von einem Streit zwischen den beiden Ungezeugten ein sowie all die anderen Hirngespinste, die sich aus einer solchen Auffassung ergeben\. Skythianus selbst stammte aus dem Volk der Sarazenen und nahm eine Gefangene aus der oberen Thebais zur Frau\. Sie überredete ihn, lieber in Ägypten als in den Wüsten zu leben\. Wäre er doch niemals in dieser Provinz aufgenommen worden\! Denn während seines Aufenthalts dort bot sich ihm die Gelegenheit, die Weisheit der Ägypter kennenzulernen\. Um die Wahrheit zu sagen: Er war ein Mann von außerordentlicher Begabung und verfügte über beträchtliche Mittel, wie auch diejenigen, die ihn kannten, in Berichten bezeugt haben, die uns überliefert worden sind\. Außerdem hatte er einen Schüler namens Terebinthus, der für ihn vier Bücher schrieb\. Dem ersten dieser Bücher gab er den Titel »Die Geheimnisse«, dem zweiten »Die Hauptstücke«, dem dritten »Das Evangelium« und dem letzten »Der Schatz«\. Er besaß also diese vier Bücher und hatte diesen einen Schüler namens Terebinthus\. Nachdem die beiden beschlossen hatten, längere Zeit allein für sich zu leben, erwog Skythianus eine Reise nach Judäa, um dort alle aufzusuchen, die im Ruf standen, Lehrer zu sein\. Doch kurz darauf ereignete es sich, dass er plötzlich aus dem Leben schied, ohne noch etwas ausführen zu können\. Sein Schüler, der bei ihm gelebt hatte, musste fliehen und machte sich auf den Weg nach Babylonien\. Diese Provinz wird gegenwärtig von den Persern beherrscht und liegt von unserer Gegend eine Reise von etwa sechs Tagen und Nächten entfernt\. Dort angekommen, gelang es Terebinthus, eine erstaunliche Geschichte über sich in Umlauf zu bringen: Er behauptete, von der ganzen Weisheit der Ägypter erfüllt zu sein und nun in Wahrheit nicht mehr Terebinthus, sondern ein anderer Buddas zu heißen; diese Bezeichnung sei ihm beigelegt worden\.
-
-Weiter behauptete er, der Sohn einer Jungfrau zu sein und von einem Engel auf den Bergen erzogen worden zu sein\. Ein Prophet namens Parcus und Labdacus, der Sohn des Mithras, bezichtigten ihn jedoch der Lüge; Tag für Tag lieferten sie sich darüber unablässig heftige und anspruchsvolle Wortgefechte\. Doch warum sollte ich ausführlich davon sprechen? Obwohl er oft zurechtgewiesen wurde, fuhr er fort, ihnen Erklärungen über die Zeit vor der Entstehung der Welt, über die Sphäre und die beiden Himmelslichter zu geben, ferner darüber, wohin und auf welche Weise die Seelen fortgehen und wie sie wieder in die Körper zurückkehren\. Dazu stellte er noch viele weitere Behauptungen dieser Art auf, ja sogar noch schlimmere: So habe etwa unter den Elementen ein Krieg gegen Gott begonnen, damit der Prophet selbst Glauben fände\. Weil er wegen solcher Behauptungen jedoch hart bedrängt wurde, zog er sich mit seinen vier Büchern zu einer Witwe zurück\. Denn an jenem Ort hatte er keinen einzigen Schüler für sich gewinnen können, abgesehen von einer alten Frau, die seine Vertraute wurde\. Einige Zeit später stieg er eines Morgens in aller Frühe auf das Dach eines Hauses und begann dort, bestimmte Namen anzurufen, die nach Turbos Auskunft nur den sieben Auserwählten bekannt sind\. Er stieg also auf das Dach, um eine religiöse Zeremonie oder eine eigene geheime Kunst auszuüben\. Dabei ging er allein hinauf, damit ihn niemand entdeckte; denn er war überzeugt, dass ihn die wahren Herrscher des Landes bestrafen würden, wenn man ihn dabei ertappte, wie er mit dem Glauben des Volkes sein falsches Spiel trieb oder ihn missachtete\. Während er dies erwog, bestimmte Gott in seiner vollkommenen Gerechtigkeit, dass ein Geist ihn unter die Erde stoßen sollte\. Sogleich wurde er vom Dach des Hauses hinabgestürzt; sein lebloser Körper fiel zu Boden\. Die erwähnte alte Frau hob ihn aus Mitleid auf und bestattete ihn an der üblichen Begräbnisstätte\.
+Weiter behauptete er,
+der Sohn einer Jungfrau zu sein und von einem Engel auf den Bergen erzogen worden zu sein\.
+Ein Prophet namens Parcus und Labdacus,
+der Sohn des Mithras,
+bezichtigten ihn jedoch der Lüge;
+Tag für Tag lieferten sie sich darüber unablässig heftige und anspruchsvolle Wortgefechte\.
+Doch warum sollte ich ausführlich davon sprechen?
+Obwohl er oft zurechtgewiesen wurde,
+fuhr er fort,
+ihnen Erklärungen über die Zeit vor der Entstehung der Welt,
+über die Sphäre und die beiden Himmelslichter zu geben,
+ferner darüber,
+wohin und auf welche Weise die Seelen fortgehen und wie sie wieder in die Körper zurückkehren\.
+Dazu stellte er noch viele weitere Behauptungen dieser Art auf,
+ja sogar noch schlimmere:
+So habe etwa unter den Elementen ein Krieg gegen Gott begonnen,
+damit der Prophet selbst Glauben fände\.
+Weil er wegen solcher Behauptungen jedoch hart bedrängt wurde,
+zog er sich mit seinen vier Büchern zu einer Witwe zurück\.
+Denn an jenem Ort hatte er keinen einzigen Schüler für sich gewinnen können,
+abgesehen von einer alten Frau,
+die seine Vertraute wurde\.
+Einige Zeit später stieg er eines Morgens in aller Frühe auf das Dach eines Hauses und begann dort,
+bestimmte Namen anzurufen,
+die nach Turbos Auskunft nur den sieben Auserwählten bekannt sind\.
+Er stieg also auf das Dach,
+um eine religiöse Zeremonie oder eine eigene geheime Kunst auszuüben\.
+Dabei ging er allein hinauf,
+damit ihn niemand entdeckte;
+denn er war überzeugt,
+dass ihn die wahren Herrscher des Landes bestrafen würden,
+wenn man ihn dabei ertappte,
+wie er mit dem Glauben des Volkes sein falsches Spiel trieb oder ihn missachtete\.
+Während er dies erwog,
+bestimmte Gott in seiner vollkommenen Gerechtigkeit,
+dass ein Geist ihn unter die Erde stoßen sollte\.
+Sogleich wurde er vom Dach des Hauses hinabgestürzt;
+sein lebloser Körper fiel zu Boden\.
+Die erwähnte alte Frau hob ihn aus Mitleid auf und bestattete ihn an der üblichen Begräbnisstätte\.

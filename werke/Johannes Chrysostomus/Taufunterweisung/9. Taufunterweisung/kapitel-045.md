@@ -7,6 +7,15 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/9-taufunterweisung#kapitel-47fb474b-3cec-4ae7-6e1e-08ddee25968c).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c61a1f7ba94a0cadcb105b02f13fd2932b72bc4e05e989e7086a443e1d35f944`
-
-Und die Gewohnheit des Schwörens ist kein kleiner Abgrund des Verderbens – nicht nur, wenn Eide in belanglosen Dingen geleistet werden, sondern ebenso in gewichtigen\. Ob wir Gemüse kaufen und uns um zwei Obolen streiten oder in unserem Zorn unsere Diener bedrohen – immer rufen wir Gott als unseren Zeugen an\. Für solche Kleinigkeiten hättest du es nicht gewagt, auf dem Marktplatz einen freien Mann, selbst einen ohne großes Ansehen, als Zeugen herbeizurufen\. Hättest du es versucht, würdest du die Strafe für diese Beleidigung bezahlen\. Doch wenn es um Verkaufsware und Geld und lauter Nebensächlichkeiten geht, zerrst du den König des Himmels und den Herrn der Engel als Zeugen herbei\.
+Und die Gewohnheit des Schwörens ist kein kleiner Abgrund des Verderbens – nicht nur,
+wenn Eide in belanglosen Dingen geleistet werden,
+sondern ebenso in gewichtigen\.
+Ob wir Gemüse kaufen und uns um zwei Obolen streiten oder in unserem Zorn unsere Diener bedrohen – immer rufen wir Gott als unseren Zeugen an\.
+Für solche Kleinigkeiten hättest du es nicht gewagt,
+auf dem Marktplatz einen freien Mann,
+selbst einen ohne großes Ansehen,
+als Zeugen herbeizurufen\.
+Hättest du es versucht,
+würdest du die Strafe für diese Beleidigung bezahlen\.
+Doch wenn es um Verkaufsware und Geld und lauter Nebensächlichkeiten geht,
+zerrst du den König des Himmels und den Herrn der Engel als Zeugen herbei\.

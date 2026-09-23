@@ -7,9 +7,179 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/43-homilie-ueber-matthaeus#kapitel-998ea6fb-e419-42b2-5b06-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0f5cc5c0165be865b9b3d43fb96773fd6e5ca6b9cf3459df241c5eac4f5945ce`
-
-Wo sind nun die, die Zeichen verlangen? Sie sollen hören, dass es eines wohlgesinnten Herzens bedarf; ist dieses nicht da, nützen Zeichen gar nichts\. Sieh nur: Die Niniviten glaubten ohne Zeichen; diese aber wurden nach so vielen Wundern noch schlimmer, machten sich selbst zur Wohnstätte unzähliger Dämonen und zogen zahllose Unheile auf sich, und das ganz zu Recht\. Denn wenn jemand einmal von den Übeln befreit worden ist und sich dadurch nicht zurechtbringen lässt, wird er viel Härteres erleiden als das Frühere\. Darum sagte er, dass der unreine Geist keine Ruhe findet, um zu zeigen, dass die Nachstellung der Dämonen einen solchen Menschen unweigerlich und notwendig ergreifen wird\. Denn durch zweierlei hätte er sich schon zurechtbringen lassen müssen: dadurch, dass er zuvor gelitten hatte, und dadurch, dass er befreit worden war\. Vielmehr kommt noch ein Drittes hinzu: die Drohung, Schlimmeres erleiden zu müssen\. Trotzdem wurden sie durch nichts davon besser\. Dies dürfte nicht nur zu ihnen gesagt sein, sondern auch zu uns, wenn wir erleuchtet und von den früheren Übeln befreit worden sind und uns doch wieder an dieselbe Bosheit halten; denn die Strafe für die Sünden danach wird von nun an härter sein\. Darum sagte Christus auch zu dem Gelähmten: „Sieh, du bist gesund geworden; sündige nicht mehr, damit dir nicht etwas Schlimmeres geschieht\.[^bible-48077b0c-b53a-4c61-9858-5fbf346d5298]“ Und das sagte er zu einem Menschen, der achtunddreißig Jahre in seiner Krankheit gewesen war\. Und was, sagt einer, hätte er Schlimmeres erleiden sollen als dies? Viel Schlimmeres und Härteres\. Denn es möge ja nicht geschehen, dass wir so viel ertragen müssen, wie wir erleiden können\. Gott fehlt es nämlich nicht an Strafen\. Denn wie sein Erbarmen groß ist, so ist auch sein Zorn\.[^bible-74226e07-ea50-4f57-9c3d-ad3c26e8903e]Das wirft er auch Jerusalem durch Hesekiel vor: „Denn ich sah dich, sagt er, in Blut liegen, und ich wusch dich und salbte dich, und du bekamst einen Namen durch deine Schönheit; und du triebest Hurerei, sagt er, mit deinen Nachbarn[^bible-a0403d19-6b6c-4ffb-954e-ae710b52e5c2]\.“ Darum droht er dir auch Härteres an, wenn du sündigst\. Von hier aus bedenke aber nicht nur die Strafe, sondern auch die unendliche Langmut Gottes\. Wie oft haben wir dieselben Übel wieder angerührt, und noch immer ist er langmütig\! Doch wir wollen nicht sicher sein, sondern uns fürchten\. Denn auch der Pharao hätte, wenn er sich durch die erste Plage hätte erziehen lassen, nicht die späteren erfahren und wäre danach nicht samt seinem Heer im Meer versenkt worden\. Das sage ich, weil ich weiß, dass viele auch jetzt wie der Pharao sagen: „Ich kenne Gott nicht[^bible-bf000a5c-62fc-476f-a0a9-78c5bedb43bf]“, und die ihnen Unterstellten an Lehm und Ziegelarbeit festnageln\. Wie viele ertragen es nicht einmal, die den Unterstellten auferlegte Mühsal zu lockern, obwohl Gott befiehlt, den Druck nachzulassen\! Aber jetzt gibt es kein Rotes Meer mehr zu durchqueren\. Vielmehr gibt es ein Meer aus Feuer, ein Meer nicht von dieser Art und nicht von diesem Maß, sondern viel größer und wilder, dessen Wellen aus Feuer bestehen, aus einem fremdartigen und furchtbaren Feuer\. Dort ist ein großer Abgrund der härtesten Flamme\. Denn überall kann man Feuer herumlaufen sehen, einem wilden Tier gleich\. Wenn schon hier dieses sinnlich wahrnehmbare, stoffliche Feuer, als wäre es wie ein Tier aus dem Ofen hervorgesprungen, die draußen Sitzenden anfiel, was wird jenes Feuer dann nicht mit denen tun, die hineingefallen sind? Höre, was die Propheten über jenen Tag sagen: „Ein Tag des Herrn, unheilbar, voll Grimm und Zorn\.[^bible-9a19d52f-e2b3-4583-bb15-f46a8f17f8ed]“ Denn es wird niemand da sein, der beisteht, niemand, der herausreißt; nirgends wird das milde und ruhige Angesicht Christi sein\. Sondern wie die, die in den Bergwerken arbeiten, bestimmten harten Menschen übergeben werden und keinen ihrer Angehörigen sehen, sondern nur ihre Aufseher, so wird es dann auch sein\. Vielmehr nicht so, sondern noch viel härter\. Denn hier ist es möglich, hinzugehen, den König zu bitten und den Verurteilten loszubekommen; dort aber nicht mehr\. Es wird nicht erlaubt\. Sie bleiben vielmehr in der Glut, wie in einer Pfanne gebraten, und haben einen so großen Schmerz, dass man ihn nicht einmal aussprechen kann\. Denn wenn kein Wort die stechenden Qualen derer beschreiben kann, die hier verbrannt werden, dann noch viel weniger die Qualen derer, die dort dies erleiden\. Denn hier geschieht alles in einem kurzen Augenblick; dort aber brennt das Brennende und wird doch nicht verzehrt\. Was werden wir also dort tun? Denn ich sage das auch zu mir selbst\. Und wenn du, sagt einer, der Lehrer, das von dir selbst sagst, geht mich das künftig nichts mehr an\. Was ist es denn Besonderes, wenn ich bestraft werde? Nein, ich bitte euch: Niemand suche diesen Trost; denn das ist keine Erleichterung\. Sag mir doch: War der Teufel nicht eine körperlose Macht? War er nicht besser als die Menschen? Und trotzdem fiel er\. Gibt es also jemanden, der daraus Trost ziehen wird, mit ihm bestraft zu werden? Keineswegs\. Und was ist mit allen in Ägypten? Sahen sie nicht auch die Amtsträger bestraft und jedes Haus in Trauer? Haben sie daraus etwa aufgeatmet und Trost gefunden? Gewiss nicht\. Das zeigt sich an dem, was sie danach taten: Wie von einer Flamme gepeitscht erhoben sie sich gemeinsam mit dem König und zwangen ihn, das Volk der Hebräer hinauszuwerfen\. Denn sehr kalt ist diese Rede: zu meinen, es bringe Trost, mit allen bestraft zu werden, und zu sagen: Alle ja auch, und ich ebenso\. Wozu muss man da noch von der Gehenna sprechen? Denk mir an die, die an Gicht leiden: Wenn sie von stechendem Schmerz gespannt und gequält werden, dann kommt ihnen, selbst wenn du ihnen zahllose Menschen zeigst, die Härteres leiden, das nicht einmal in den Sinn\. Denn die Steigerung des Schmerzes lässt dem Denken keine Muße, andere zu bedenken und Trost zu finden\. Nähren wir uns also nicht von diesen kalten Hoffnungen\. Trost aus den Übeln des Nächsten zu empfangen, gibt es nur bei Leiden, die ein Maß haben\. Wenn aber die Qual überhandnimmt, wenn innen alles voll Aufruhr ist und die Seele sich selbst nicht mehr kennt, woher soll sie dann Trost gewinnen?
+Wo sind nun die,
+die Zeichen verlangen?
+Sie sollen hören,
+dass es eines wohlgesinnten Herzens bedarf;
+ist dieses nicht da,
+nützen Zeichen gar nichts\.
+Sieh nur:
+Die Niniviten glaubten ohne Zeichen;
+diese aber wurden nach so vielen Wundern noch schlimmer,
+machten sich selbst zur Wohnstätte unzähliger Dämonen und zogen zahllose Unheile auf sich,
+und das ganz zu Recht\.
+Denn wenn jemand einmal von den Übeln befreit worden ist und sich dadurch nicht zurechtbringen lässt,
+wird er viel Härteres erleiden als das Frühere\.
+Darum sagte er,
+dass der unreine Geist keine Ruhe findet,
+um zu zeigen,
+dass die Nachstellung der Dämonen einen solchen Menschen unweigerlich und notwendig ergreifen wird\.
+Denn durch zweierlei hätte er sich schon zurechtbringen lassen müssen:
+dadurch,
+dass er zuvor gelitten hatte,
+und dadurch,
+dass er befreit worden war\.
+Vielmehr kommt noch ein Drittes hinzu:
+die Drohung,
+Schlimmeres erleiden zu müssen\.
+Trotzdem wurden sie durch nichts davon besser\.
+Dies dürfte nicht nur zu ihnen gesagt sein,
+sondern auch zu uns,
+wenn wir erleuchtet und von den früheren Übeln befreit worden sind und uns doch wieder an dieselbe Bosheit halten;
+denn die Strafe für die Sünden danach wird von nun an härter sein\.
+Darum sagte Christus auch zu dem Gelähmten:
+„Sieh,
+du bist gesund geworden;
+sündige nicht mehr,
+damit dir nicht etwas Schlimmeres geschieht\.[^bible-48077b0c-b53a-4c61-9858-5fbf346d5298]“ Und das sagte er zu einem Menschen,
+der achtunddreißig Jahre in seiner Krankheit gewesen war\.
+Und was,
+sagt einer,
+hätte er Schlimmeres erleiden sollen als dies?
+Viel Schlimmeres und Härteres\.
+Denn es möge ja nicht geschehen,
+dass wir so viel ertragen müssen,
+wie wir erleiden können\.
+Gott fehlt es nämlich nicht an Strafen\.
+Denn wie sein Erbarmen groß ist,
+so ist auch sein Zorn\.[^bible-74226e07-ea50-4f57-9c3d-ad3c26e8903e]Das wirft er auch Jerusalem durch Hesekiel vor:
+„Denn ich sah dich,
+sagt er,
+in Blut liegen,
+und ich wusch dich und salbte dich,
+und du bekamst einen Namen durch deine Schönheit;
+und du triebest Hurerei,
+sagt er,
+mit deinen Nachbarn[^bible-a0403d19-6b6c-4ffb-954e-ae710b52e5c2]\.“
+Darum droht er dir auch Härteres an,
+wenn du sündigst\.
+Von hier aus bedenke aber nicht nur die Strafe,
+sondern auch die unendliche Langmut Gottes\.
+Wie oft haben wir dieselben Übel wieder angerührt,
+und noch immer ist er langmütig\!
+Doch wir wollen nicht sicher sein,
+sondern uns fürchten\.
+Denn auch der Pharao hätte,
+wenn er sich durch die erste Plage hätte erziehen lassen,
+nicht die späteren erfahren und wäre danach nicht samt seinem Heer im Meer versenkt worden\.
+Das sage ich,
+weil ich weiß,
+dass viele auch jetzt wie der Pharao sagen:
+„Ich kenne Gott nicht[^bible-bf000a5c-62fc-476f-a0a9-78c5bedb43bf]“,
+und die ihnen Unterstellten an Lehm und Ziegelarbeit festnageln\.
+Wie viele ertragen es nicht einmal,
+die den Unterstellten auferlegte Mühsal zu lockern,
+obwohl Gott befiehlt,
+den Druck nachzulassen\!
+Aber jetzt gibt es kein Rotes Meer mehr zu durchqueren\.
+Vielmehr gibt es ein Meer aus Feuer,
+ein Meer nicht von dieser Art und nicht von diesem Maß,
+sondern viel größer und wilder,
+dessen Wellen aus Feuer bestehen,
+aus einem fremdartigen und furchtbaren Feuer\.
+Dort ist ein großer Abgrund der härtesten Flamme\.
+Denn überall kann man Feuer herumlaufen sehen,
+einem wilden Tier gleich\.
+Wenn schon hier dieses sinnlich wahrnehmbare,
+stoffliche Feuer,
+als wäre es wie ein Tier aus dem Ofen hervorgesprungen,
+die draußen Sitzenden anfiel,
+was wird jenes Feuer dann nicht mit denen tun,
+die hineingefallen sind?
+Höre,
+was die Propheten über jenen Tag sagen:
+„Ein Tag des Herrn,
+unheilbar,
+voll Grimm und Zorn\.[^bible-9a19d52f-e2b3-4583-bb15-f46a8f17f8ed]“ Denn es wird niemand da sein,
+der beisteht,
+niemand,
+der herausreißt;
+nirgends wird das milde und ruhige Angesicht Christi sein\.
+Sondern wie die,
+die in den Bergwerken arbeiten,
+bestimmten harten Menschen übergeben werden und keinen ihrer Angehörigen sehen,
+sondern nur ihre Aufseher,
+so wird es dann auch sein\.
+Vielmehr nicht so,
+sondern noch viel härter\.
+Denn hier ist es möglich,
+hinzugehen,
+den König zu bitten und den Verurteilten loszubekommen;
+dort aber nicht mehr\.
+Es wird nicht erlaubt\.
+Sie bleiben vielmehr in der Glut,
+wie in einer Pfanne gebraten,
+und haben einen so großen Schmerz,
+dass man ihn nicht einmal aussprechen kann\.
+Denn wenn kein Wort die stechenden Qualen derer beschreiben kann,
+die hier verbrannt werden,
+dann noch viel weniger die Qualen derer,
+die dort dies erleiden\.
+Denn hier geschieht alles in einem kurzen Augenblick;
+dort aber brennt das Brennende und wird doch nicht verzehrt\.
+Was werden wir also dort tun?
+Denn ich sage das auch zu mir selbst\.
+Und wenn du,
+sagt einer,
+der Lehrer,
+das von dir selbst sagst,
+geht mich das künftig nichts mehr an\.
+Was ist es denn Besonderes,
+wenn ich bestraft werde?
+Nein,
+ich bitte euch:
+Niemand suche diesen Trost;
+denn das ist keine Erleichterung\.
+Sag mir doch:
+War der Teufel nicht eine körperlose Macht?
+War er nicht besser als die Menschen?
+Und trotzdem fiel er\.
+Gibt es also jemanden,
+der daraus Trost ziehen wird,
+mit ihm bestraft zu werden?
+Keineswegs\.
+Und was ist mit allen in Ägypten?
+Sahen sie nicht auch die Amtsträger bestraft und jedes Haus in Trauer?
+Haben sie daraus etwa aufgeatmet und Trost gefunden?
+Gewiss nicht\.
+Das zeigt sich an dem,
+was sie danach taten:
+Wie von einer Flamme gepeitscht erhoben sie sich gemeinsam mit dem König und zwangen ihn,
+das Volk der Hebräer hinauszuwerfen\.
+Denn sehr kalt ist diese Rede:
+zu meinen,
+es bringe Trost,
+mit allen bestraft zu werden,
+und zu sagen:
+Alle ja auch,
+und ich ebenso\.
+Wozu muss man da noch von der Gehenna sprechen?
+Denk mir an die,
+die an Gicht leiden:
+Wenn sie von stechendem Schmerz gespannt und gequält werden,
+dann kommt ihnen,
+selbst wenn du ihnen zahllose Menschen zeigst,
+die Härteres leiden,
+das nicht einmal in den Sinn\.
+Denn die Steigerung des Schmerzes lässt dem Denken keine Muße,
+andere zu bedenken und Trost zu finden\.
+Nähren wir uns also nicht von diesen kalten Hoffnungen\.
+Trost aus den Übeln des Nächsten zu empfangen,
+gibt es nur bei Leiden,
+die ein Maß haben\.
+Wenn aber die Qual überhandnimmt,
+wenn innen alles voll Aufruhr ist und die Seele sich selbst nicht mehr kennt,
+woher soll sie dann Trost gewinnen?
 
 ## Bibelverweise
 

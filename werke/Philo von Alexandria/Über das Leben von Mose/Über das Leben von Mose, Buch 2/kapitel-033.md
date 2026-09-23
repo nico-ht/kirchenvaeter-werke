@@ -7,8 +7,77 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-2#kapitel-94f107ee-7292-48f8-0873-08ded872ad01).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:901f2cbb8f950f361067d12bad877e46be4c70bff9ca99b9487580db2bc5ed2c`
+XXXIII\.
+Da es aber unter den geweihten Priestern nicht nur eine einzige Ordnung gibt,
+sondern einigen von ihnen der Dienst an allen Gebeten,
+Opfern und den übrigen hochheiligen Zeremonien anvertraut ist,
+wobei ihnen der Zutritt zum innersten und heiligsten Heiligtum erlaubt wird,
+während es anderen nicht gestattet ist,
+irgendetwas davon zu tun,
+sondern ihnen die Aufgabe zukommt,
+den Tempel und alles,
+was darin ist,
+bei Tag und Nacht zu betreuen und zu bewachen,
+die manche Tempelwächter nennen,
+entstand ein Aufruhr um den Vorrang an Ehre\.
+Dieser wurde für viele Menschen auf vielfache Weise zur Ursache unzähliger Übel und brach nun darin aus,
+dass die Tempelwächter die Priester angriffen und versuchten,
+sie der ihnen zustehenden Ehre zu berauben;
+dabei meinten sie,
+ihr Ziel leicht erreichen zu können,
+weil sie um ein Vielfaches zahlreicher waren als die anderen\.
+Um aber nicht den Anschein zu erwecken,
+aus eigenem Kopf Neuerungen zu planen,
+überredeten sie auch den ältesten der zwölf Stämme,
+ihre Ansichten anzunehmen;
+diesem zuletzt genannten Stamm folgten viele von den wankelmütigeren Leuten aus dem Volk,
+weil sie meinten,
+ihm stehe der Vorrang und der hauptsächliche Anteil an der Befehlsgewalt über das ganze Heer zu\.
+Mose erkannte nun,
+dass eine große Verschwörung gegen ihn im Gang war;
+denn er hatte seinen Bruder nach dem Willen Gottes,
+der ihm offenbart worden war,
+zum Hohepriester eingesetzt\.
+Nun wurden falsche Anschuldigungen gegen ihn erhoben,
+als hätte er die Orakel Gottes verfälscht und dies getan und die Einsetzung aus verwandtschaftlicher Zuneigung und Wohlwollen gegenüber seinem Bruder vorgenommen\.
 
-XXXIII\. Da es aber unter den geweihten Priestern nicht nur eine einzige Ordnung gibt, sondern einigen von ihnen der Dienst an allen Gebeten, Opfern und den übrigen hochheiligen Zeremonien anvertraut ist, wobei ihnen der Zutritt zum innersten und heiligsten Heiligtum erlaubt wird, während es anderen nicht gestattet ist, irgendetwas davon zu tun, sondern ihnen die Aufgabe zukommt, den Tempel und alles, was darin ist, bei Tag und Nacht zu betreuen und zu bewachen, die manche Tempelwächter nennen, entstand ein Aufruhr um den Vorrang an Ehre\. Dieser wurde für viele Menschen auf vielfache Weise zur Ursache unzähliger Übel und brach nun darin aus, dass die Tempelwächter die Priester angriffen und versuchten, sie der ihnen zustehenden Ehre zu berauben; dabei meinten sie, ihr Ziel leicht erreichen zu können, weil sie um ein Vielfaches zahlreicher waren als die anderen\. Um aber nicht den Anschein zu erwecken, aus eigenem Kopf Neuerungen zu planen, überredeten sie auch den ältesten der zwölf Stämme, ihre Ansichten anzunehmen; diesem zuletzt genannten Stamm folgten viele von den wankelmütigeren Leuten aus dem Volk, weil sie meinten, ihm stehe der Vorrang und der hauptsächliche Anteil an der Befehlsgewalt über das ganze Heer zu\. Mose erkannte nun, dass eine große Verschwörung gegen ihn im Gang war; denn er hatte seinen Bruder nach dem Willen Gottes, der ihm offenbart worden war, zum Hohepriester eingesetzt\. Nun wurden falsche Anschuldigungen gegen ihn erhoben, als hätte er die Orakel Gottes verfälscht und dies getan und die Einsetzung aus verwandtschaftlicher Zuneigung und Wohlwollen gegenüber seinem Bruder vorgenommen\.
-
-Darüber war er mit gutem Grund tief betrübt: Nicht nur wurde ihm durch solche Anschuldigungen Misstrauen entgegengebracht, obwohl er seine eigene Redlichkeit auf ganz echte Weise erwiesen hatte; vielmehr schmerzte ihn auch, dass gerade jene Handlungen verleumdet wurden, deren Ziel die Ehre Gottes war und die schon von sich aus verdient hätten, dass selbst ein Mann, der sich sonst unaufrichtig gezeigt hätte, in diesem Fall als wahrhaftig handelnd angesehen würde; denn die Wahrheit ist die unveränderliche Begleiterin Gottes\. Doch hielt er es nicht für angemessen, die Einsetzung seines Bruders mit Worten zu erklären, weil er wusste, wie schwer es ist, Menschen umzustimmen, die schon zuvor von gegenteiligen Meinungen beherrscht sind\. Stattdessen flehte er Gott an, dem Volk einen sichtbaren Beweis zu geben, dass er bei der Einsetzung in das Priestertum in keiner Hinsicht unredlich gehandelt hatte\. Deshalb befahl er, zwölf Stäbe zu nehmen, der Zahl der Stämme des Volkes entsprechend; ferner befahl er, auf elf der Stäbe die Namen der übrigen Stammväter der Stämme zu schreiben, auf den verbleibenden aber den Namen seines Bruders, des Hohepriesters, und sie dann alle in den Tempel bis in das innerste Heiligtum zu tragen\. Der Amtsträger, der tat, was ihm befohlen worden war, wartete gespannt auf den Ausgang\. Am nächsten Tag ging er auf einen Befehl Gottes hin in den Tempel, während das ganze Volk ringsum stand, und brachte die Stäbe heraus\. Die übrigen unterschieden sich in nichts von dem Zustand, in dem sie hineingelegt worden waren; der aber, auf dem der Name seines Bruders stand, hatte eine wundersame Veränderung erfahren: Wie eine edle Pflanze trieb er plötzlich überall Sprossen und bog sich unter der Fülle seines Fruchtertrags\.
+Darüber war er mit gutem Grund tief betrübt:
+Nicht nur wurde ihm durch solche Anschuldigungen Misstrauen entgegengebracht,
+obwohl er seine eigene Redlichkeit auf ganz echte Weise erwiesen hatte;
+vielmehr schmerzte ihn auch,
+dass gerade jene Handlungen verleumdet wurden,
+deren Ziel die Ehre Gottes war und die schon von sich aus verdient hätten,
+dass selbst ein Mann,
+der sich sonst unaufrichtig gezeigt hätte,
+in diesem Fall als wahrhaftig handelnd angesehen würde;
+denn die Wahrheit ist die unveränderliche Begleiterin Gottes\.
+Doch hielt er es nicht für angemessen,
+die Einsetzung seines Bruders mit Worten zu erklären,
+weil er wusste,
+wie schwer es ist,
+Menschen umzustimmen,
+die schon zuvor von gegenteiligen Meinungen beherrscht sind\.
+Stattdessen flehte er Gott an,
+dem Volk einen sichtbaren Beweis zu geben,
+dass er bei der Einsetzung in das Priestertum in keiner Hinsicht unredlich gehandelt hatte\.
+Deshalb befahl er,
+zwölf Stäbe zu nehmen,
+der Zahl der Stämme des Volkes entsprechend;
+ferner befahl er,
+auf elf der Stäbe die Namen der übrigen Stammväter der Stämme zu schreiben,
+auf den verbleibenden aber den Namen seines Bruders,
+des Hohepriesters,
+und sie dann alle in den Tempel bis in das innerste Heiligtum zu tragen\.
+Der Amtsträger,
+der tat,
+was ihm befohlen worden war,
+wartete gespannt auf den Ausgang\.
+Am nächsten Tag ging er auf einen Befehl Gottes hin in den Tempel,
+während das ganze Volk ringsum stand,
+und brachte die Stäbe heraus\.
+Die übrigen unterschieden sich in nichts von dem Zustand,
+in dem sie hineingelegt worden waren;
+der aber,
+auf dem der Name seines Bruders stand,
+hatte eine wundersame Veränderung erfahren:
+Wie eine edle Pflanze trieb er plötzlich überall Sprossen und bog sich unter der Fülle seines Fruchtertrags\.

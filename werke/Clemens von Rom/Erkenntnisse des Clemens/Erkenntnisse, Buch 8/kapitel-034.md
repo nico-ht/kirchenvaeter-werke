@@ -7,6 +7,70 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-8#kapitel-af839bef-59b3-4c43-283b-08dd2a929b9c).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b239b8f0f10dd56e9dfcf96f5d7c110bc44941156dd8f577b32aec8810eb4033`
-
-Aber du wirst sagen: Wann wurde die Welt gemacht? Und warum so spät? Dies hättest du einwenden können, auch wenn sie früher gemacht worden wäre\. Denn du könntest sagen: Warum nicht auch davor? Und so könntest du, zurückgehend durch unermessliche Epochen, weiterhin fragen: Und warum nicht früher? Doch wir diskutieren jetzt nicht darüber, warum sie nicht früher gemacht wurde, sondern ob sie überhaupt gemacht wurde\. Denn wenn es offensichtlich ist, dass sie gemacht wurde, dann ist es notwendigerweise das Werk eines mächtigen und höchsten Kunsthandwerkers; und wenn dies offensichtlich ist, muss es dem Ermessen und Urteil des weisen Kunsthandwerkers überlassen bleiben, wann es Ihm gefällt, sie zu schaffen; es sei denn, du denkst, dass all diese Weisheit, die das immense Gefüge der Welt konstruiert hat und den einzelnen Objekten ihre Formen und Arten gegeben hat, ihnen eine Beschaffenheit zugewiesen hat, die nicht nur der Schönheit entspricht, sondern auch äußerst praktisch und notwendig für ihre zukünftigen Zwecke ist – es sei denn, ich sage, du denkst, dass dies allein Ihm entgangen ist, dass Er einen geeigneten Zeitpunkt für ein so großartiges Werk der Schöpfung wählen sollte\. Er hat zweifellos einen bestimmten Grund und offensichtliche Ursachen, warum, wann und wie Er die Welt gemacht hat; aber es wäre nicht angemessen, dass diese denjenigen offenbart werden, die zögern, nach den Dingen zu fragen und sie zu verstehen, die vor ihren Augen liegen und von Seiner Vorsehung zeugen\. Denn die Dinge, die geheim gehalten werden und in den Sinnen der Weisheit verborgen sind, wie in einem königlichen Schatz, werden nur denen offenbart, die von Ihm gelernt haben, mit denen diese Dinge versiegelt und aufbewahrt sind\. Es ist also Gott, der alle Dinge gemacht hat, und Er selbst wurde von niemandem gemacht\. Aber diejenigen, die von der Natur anstelle von Gott sprechen und erklären, dass alle Dinge von der Natur gemacht wurden, erkennen nicht den Fehler des Namens, den sie verwenden\. Denn wenn sie denken, dass die Natur irrational ist, ist es äußerst töricht anzunehmen, dass ein rationales Wesen von einem irrationalen Schöpfer hervorgehen kann\. Wenn es jedoch die Vernunft – das heißt, der Logos – ist, durch die offenbar wird, dass alle Dinge gemacht wurden, dann ändern sie den Namen ohne Zweck, wenn sie Aussagen über die Vernunft des Schöpfers machen\. Wenn du etwas zu diesen Dingen zu sagen hast, mein Vater, sprich weiter\.“
+Aber du wirst sagen:
+Wann wurde die Welt gemacht?
+Und warum so spät?
+Dies hättest du einwenden können,
+auch wenn sie früher gemacht worden wäre\.
+Denn du könntest sagen:
+Warum nicht auch davor?
+Und so könntest du,
+zurückgehend durch unermessliche Epochen,
+weiterhin fragen:
+Und warum nicht früher?
+Doch wir diskutieren jetzt nicht darüber,
+warum sie nicht früher gemacht wurde,
+sondern ob sie überhaupt gemacht wurde\.
+Denn wenn es offensichtlich ist,
+dass sie gemacht wurde,
+dann ist es notwendigerweise das Werk eines mächtigen und höchsten Kunsthandwerkers;
+und wenn dies offensichtlich ist,
+muss es dem Ermessen und Urteil des weisen Kunsthandwerkers überlassen bleiben,
+wann es Ihm gefällt,
+sie zu schaffen;
+es sei denn,
+du denkst,
+dass all diese Weisheit,
+die das immense Gefüge der Welt konstruiert hat und den einzelnen Objekten ihre Formen und Arten gegeben hat,
+ihnen eine Beschaffenheit zugewiesen hat,
+die nicht nur der Schönheit entspricht,
+sondern auch äußerst praktisch und notwendig für ihre zukünftigen Zwecke ist – es sei denn,
+ich sage,
+du denkst,
+dass dies allein Ihm entgangen ist,
+dass Er einen geeigneten Zeitpunkt für ein so großartiges Werk der Schöpfung wählen sollte\.
+Er hat zweifellos einen bestimmten Grund und offensichtliche Ursachen,
+warum,
+wann und wie Er die Welt gemacht hat;
+aber es wäre nicht angemessen,
+dass diese denjenigen offenbart werden,
+die zögern,
+nach den Dingen zu fragen und sie zu verstehen,
+die vor ihren Augen liegen und von Seiner Vorsehung zeugen\.
+Denn die Dinge,
+die geheim gehalten werden und in den Sinnen der Weisheit verborgen sind,
+wie in einem königlichen Schatz,
+werden nur denen offenbart,
+die von Ihm gelernt haben,
+mit denen diese Dinge versiegelt und aufbewahrt sind\.
+Es ist also Gott,
+der alle Dinge gemacht hat,
+und Er selbst wurde von niemandem gemacht\.
+Aber diejenigen,
+die von der Natur anstelle von Gott sprechen und erklären,
+dass alle Dinge von der Natur gemacht wurden,
+erkennen nicht den Fehler des Namens,
+den sie verwenden\.
+Denn wenn sie denken,
+dass die Natur irrational ist,
+ist es äußerst töricht anzunehmen,
+dass ein rationales Wesen von einem irrationalen Schöpfer hervorgehen kann\.
+Wenn es jedoch die Vernunft – das heißt,
+der Logos – ist,
+durch die offenbar wird,
+dass alle Dinge gemacht wurden,
+dann ändern sie den Namen ohne Zweck,
+wenn sie Aussagen über die Vernunft des Schöpfers machen\.
+Wenn du etwas zu diesen Dingen zu sagen hast,
+mein Vater,
+sprich weiter\.“

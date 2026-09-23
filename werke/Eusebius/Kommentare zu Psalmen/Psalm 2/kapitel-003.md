@@ -7,6 +7,11 @@ Autor: Eusebius
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/eusebius/psalm-2#kapitel-def363da-f694-401b-915b-08dd7a8241c1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:996d8d6cdcf03549be26f3c559cdced13c8241dcac89607f8099d34b9337cd01`
-
-Was würden die Juden dazu sagen, da sie nicht wollen, dass diese Dinge in Bezug zu Christus verstanden werden? Mögen sie sagen, wer jene andere Person ist, gegen die sich die Nationen auflehnten, über die die Menschen vergebliche Dinge sinnen, die Könige sich aufstellten und die Herrscher versammelt wurden\.
+Was würden die Juden dazu sagen,
+da sie nicht wollen,
+dass diese Dinge in Bezug zu Christus verstanden werden?
+Mögen sie sagen,
+wer jene andere Person ist,
+gegen die sich die Nationen auflehnten,
+über die die Menschen vergebliche Dinge sinnen,
+die Könige sich aufstellten und die Herrscher versammelt wurden\.

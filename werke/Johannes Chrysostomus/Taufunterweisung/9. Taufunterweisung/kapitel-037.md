@@ -7,6 +7,18 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/9-taufunterweisung#kapitel-c297f3ac-ec07-48bf-6e16-08ddee25968c).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f050d266a461124bb1c800ff6d8b32c759a804d241f4edcef5d6efc41ebc7bdc`
-
-Ich sage euch jetzt und erkläre euch, dass ich nicht über ein anderes Thema sprechen werde, es sei denn, ihr meidet nicht nur den Meineid, sondern auch die Schwüre, die ihr für gerechtfertigt haltet\. Lehrer geben ihren Schülern die nächste Lektion nicht, bevor sie nicht sehen, dass die vorherige fest im Verstand der Schüler verankert ist\. Es wäre also töricht von mir, andere Lektionen anzusprechen, während ihr noch nicht in der Lage seid, die zuvor gegebenen wiederzugeben\. Das wäre, als würde man Wasser in einen undichten Krug schöpfen\.
+Ich sage euch jetzt und erkläre euch,
+dass ich nicht über ein anderes Thema sprechen werde,
+es sei denn,
+ihr meidet nicht nur den Meineid,
+sondern auch die Schwüre,
+die ihr für gerechtfertigt haltet\.
+Lehrer geben ihren Schülern die nächste Lektion nicht,
+bevor sie nicht sehen,
+dass die vorherige fest im Verstand der Schüler verankert ist\.
+Es wäre also töricht von mir,
+andere Lektionen anzusprechen,
+während ihr noch nicht in der Lage seid,
+die zuvor gegebenen wiederzugeben\.
+Das wäre,
+als würde man Wasser in einen undichten Krug schöpfen\.

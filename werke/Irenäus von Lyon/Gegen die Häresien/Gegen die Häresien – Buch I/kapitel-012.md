@@ -7,15 +7,138 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-i#kapitel-2e44c807-6714-46f8-0328-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0d3d32b9dbb0b74c39c413cc5aade85e9bf701a9f141e48c0dbff4ac9957a5dc`
+Die Anhänger des Ptolemäus dagegen sagen,
+er,
+Bythus,
+habe zwei Gefährtinnen;
+sie nennen sie auch Diatheseis,
+also Zustände oder Regungen,
+nämlich Ennoea und Thelesis\.
+Denn,
+so behaupten sie,
+er habe zuerst den Gedanken gefasst,
+etwas hervorzubringen,
+und es dann auch gewollt\.
+Deshalb seien wiederum diese beiden Regungen oder Kräfte,
+Ennoea und Thelesis,
+gleichsam miteinander in Verkehr getreten,
+und so sei gemäß einer Verbindung die Hervorbringung von Monogenes und Aletheia erfolgt\.
+Diese beiden seien als Typen und Abbilder der beiden Regungen des Vaters hervorgegangen,
+als sichtbare Darstellungen der unsichtbaren:
+Nous,
+das heißt Monogenes,
+als Abbild der Thelesis,
+und Aletheia als Abbild der Ennoea\.
+Demnach sei das aus Thelesis entstandene Abbild männlich gewesen,
+das aus Ennoea aber weiblich\.
+So sei Thelesis,
+der Wille,
+gleichsam zu einer Fähigkeit der Ennoea,
+des Gedankens,
+geworden\.
+Denn Ennoea habe beständig nach Frucht verlangt;
+aus sich selbst aber habe sie nicht hervorbringen können,
+was sie ersehnte\.
+Als aber die Kraft der Thelesis,
+also die Fähigkeit des Willens,
+über sie kam,
+da brachte sie das hervor,
+worüber sie gebrütet hatte\.
 
-Die Anhänger des Ptolemäus dagegen sagen, er, Bythus, habe zwei Gefährtinnen; sie nennen sie auch Diatheseis, also Zustände oder Regungen, nämlich Ennoea und Thelesis\. Denn, so behaupten sie, er habe zuerst den Gedanken gefasst, etwas hervorzubringen, und es dann auch gewollt\. Deshalb seien wiederum diese beiden Regungen oder Kräfte, Ennoea und Thelesis, gleichsam miteinander in Verkehr getreten, und so sei gemäß einer Verbindung die Hervorbringung von Monogenes und Aletheia erfolgt\. Diese beiden seien als Typen und Abbilder der beiden Regungen des Vaters hervorgegangen, als sichtbare Darstellungen der unsichtbaren: Nous, das heißt Monogenes, als Abbild der Thelesis, und Aletheia als Abbild der Ennoea\. Demnach sei das aus Thelesis entstandene Abbild männlich gewesen, das aus Ennoea aber weiblich\. So sei Thelesis, der Wille, gleichsam zu einer Fähigkeit der Ennoea, des Gedankens, geworden\. Denn Ennoea habe beständig nach Frucht verlangt; aus sich selbst aber habe sie nicht hervorbringen können, was sie ersehnte\. Als aber die Kraft der Thelesis, also die Fähigkeit des Willens, über sie kam, da brachte sie das hervor, worüber sie gebrütet hatte\.
+Diese eingebildeten Wesen,
+ähnlich dem Jupiter Homers,
+der dargestellt wird,
+wie er eine angstvolle,
+schlaflose Nacht damit verbringt,
+Pläne zu schmieden,
+um Achilles zu ehren und viele Griechen zugrunde zu richten,
+werden dir,
+mein lieber Freund,
+gewiss nicht weiser erscheinen als der,
+der der Gott des Alls ist\.
+Sobald er denkt,
+vollbringt er auch,
+was er gewollt hat;
+und sobald er will,
+denkt er auch das,
+was er gewollt hat:
+Er denkt,
+wenn er will,
+und will,
+wenn er denkt,
+denn er ist ganz Gedanke,
+ganz Wille,
+ganz Geist,
+ganz Licht,
+ganz Auge,
+ganz Ohr,
+die eine,
+ganze Quelle aller Güter\.
 
-Diese eingebildeten Wesen, ähnlich dem Jupiter Homers, der dargestellt wird, wie er eine angstvolle, schlaflose Nacht damit verbringt, Pläne zu schmieden, um Achilles zu ehren und viele Griechen zugrunde zu richten, werden dir, mein lieber Freund, gewiss nicht weiser erscheinen als der, der der Gott des Alls ist\. Sobald er denkt, vollbringt er auch, was er gewollt hat; und sobald er will, denkt er auch das, was er gewollt hat: Er denkt, wenn er will, und will, wenn er denkt, denn er ist ganz Gedanke, ganz Wille, ganz Geist, ganz Licht, ganz Auge, ganz Ohr, die eine, ganze Quelle aller Güter\.
+Diejenigen von ihnen jedoch,
+die als geschickter gelten als die eben Genannten,
+behaupten,
+die erste Ogdoade sei nicht stufenweise hervorgebracht worden,
+sodass ein Äon von einem anderen ausgesandt wurde;
+vielmehr seien alle Äonen zugleich durch den Propator und seine Ennoia ins Dasein gebracht worden\.
+Er,
+Colorbasus,
+behauptet dies so zuversichtlich,
+als hätte er bei ihrer Geburt geholfen\.
+Entsprechend vertreten er und seine Anhänger,
+Anthropos und Ecclesia seien nicht,
+wie andere meinen,
+aus Logos und Zoe hervorgegangen;
+im Gegenteil:
+Logos und Zoe seien aus Anthropos und Ecclesia hervorgegangen\.
+Sie drücken dies aber noch in anderer Form aus:
+Als der Propator den Gedanken fasste,
+etwas hervorzubringen,
+erhielt er den Namen Vater\.
+Weil aber das,
+was er hervorbrachte,
+wahr war,
+wurde es Aletheia genannt\.
+Als er sich dann offenbaren wollte,
+wurde dies Anthropos genannt\.
+Schließlich wurden,
+als er die zuvor Gedachten hervorbrachte,
+diese Ecclesia genannt\.
+Anthropos bildete durch sein Sprechen den Logos:
+Dieser ist der erstgeborene Sohn\.
+Zoe aber folgte auf den Logos;
+und so wurde die erste Ogdoade vollendet\.
 
-Diejenigen von ihnen jedoch, die als geschickter gelten als die eben Genannten, behaupten, die erste Ogdoade sei nicht stufenweise hervorgebracht worden, sodass ein Äon von einem anderen ausgesandt wurde; vielmehr seien alle Äonen zugleich durch den Propator und seine Ennoia ins Dasein gebracht worden\. Er, Colorbasus, behauptet dies so zuversichtlich, als hätte er bei ihrer Geburt geholfen\. Entsprechend vertreten er und seine Anhänger, Anthropos und Ecclesia seien nicht, wie andere meinen, aus Logos und Zoe hervorgegangen; im Gegenteil: Logos und Zoe seien aus Anthropos und Ecclesia hervorgegangen\. Sie drücken dies aber noch in anderer Form aus: Als der Propator den Gedanken fasste, etwas hervorzubringen, erhielt er den Namen Vater\. Weil aber das, was er hervorbrachte, wahr war, wurde es Aletheia genannt\. Als er sich dann offenbaren wollte, wurde dies Anthropos genannt\. Schließlich wurden, als er die zuvor Gedachten hervorbrachte, diese Ecclesia genannt\. Anthropos bildete durch sein Sprechen den Logos: Dieser ist der erstgeborene Sohn\. Zoe aber folgte auf den Logos; und so wurde die erste Ogdoade vollendet\.
-
-Auch untereinander streiten sie viel über den Erlöser\. Einige behaupten nämlich, er sei aus allen gebildet worden; deshalb sei er auch Eudocetos genannt worden, weil das ganze Pleroma durch ihn daran Wohlgefallen hatte, den Vater zu verherrlichen\. Andere dagegen erklären, er sei allein aus jenen zehn Äonen hervorgebracht worden, die aus Logos und Zoe hervorgesprungen seien; deshalb sei er Logos und Zoe genannt worden und habe so die Namen der Ahnen bewahrt\. Wieder andere behaupten, er habe sein Sein von jenen zwölf Äonen erhalten, die Nachkommen von Anthropos und Ecclesia waren; deshalb bekenne er sich selbst als Sohn des Menschen[^bible-ee115fdb-0579-48c3-ad51-c6f88f6c18b4], weil er ein Nachkomme von Anthropos sei\. Noch andere erklären, er sei durch Christus und den Heiligen Geist hervorgebracht worden, die zur Sicherung des Pleroma hervorgebracht worden seien; deshalb sei er Christus genannt worden und habe so die Bezeichnung des Vaters bewahrt, durch den er hervorgebracht wurde\. Und es gibt unter ihnen noch weitere, die erklären, der Propator des Alls, Proarche und Proanennoetos, werde Anthropos genannt; und dies sei das große und schwer zugängliche Geheimnis: dass die Macht, die über allen anderen steht und alle in ihrer Umarmung umfasst, Anthropos genannt werde\. Daher nennt sich der Erlöser selbst Sohn des Menschen[^bible-ee115fdb-0579-48c3-ad51-c6f88f6c18b4]\.
+Auch untereinander streiten sie viel über den Erlöser\.
+Einige behaupten nämlich,
+er sei aus allen gebildet worden;
+deshalb sei er auch Eudocetos genannt worden,
+weil das ganze Pleroma durch ihn daran Wohlgefallen hatte,
+den Vater zu verherrlichen\.
+Andere dagegen erklären,
+er sei allein aus jenen zehn Äonen hervorgebracht worden,
+die aus Logos und Zoe hervorgesprungen seien;
+deshalb sei er Logos und Zoe genannt worden und habe so die Namen der Ahnen bewahrt\.
+Wieder andere behaupten,
+er habe sein Sein von jenen zwölf Äonen erhalten,
+die Nachkommen von Anthropos und Ecclesia waren;
+deshalb bekenne er sich selbst als Sohn des Menschen[^bible-ee115fdb-0579-48c3-ad51-c6f88f6c18b4],
+weil er ein Nachkomme von Anthropos sei\.
+Noch andere erklären,
+er sei durch Christus und den Heiligen Geist hervorgebracht worden,
+die zur Sicherung des Pleroma hervorgebracht worden seien;
+deshalb sei er Christus genannt worden und habe so die Bezeichnung des Vaters bewahrt,
+durch den er hervorgebracht wurde\.
+Und es gibt unter ihnen noch weitere,
+die erklären,
+der Propator des Alls,
+Proarche und Proanennoetos,
+werde Anthropos genannt;
+und dies sei das große und schwer zugängliche Geheimnis:
+dass die Macht,
+die über allen anderen steht und alle in ihrer Umarmung umfasst,
+Anthropos genannt werde\.
+Daher nennt sich der Erlöser selbst Sohn des Menschen[^bible-ee115fdb-0579-48c3-ad51-c6f88f6c18b4]\.
 
 ## Bibelverweise
 

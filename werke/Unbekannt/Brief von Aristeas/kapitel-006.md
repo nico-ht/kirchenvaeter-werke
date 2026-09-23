@@ -7,17 +7,291 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/brief-von-aristeas#kapitel-7705f7cd-6b1c-45c0-59d3-08df01f4bb9d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:30d801851bced00f735e48d1c884f534dc259b91f6bd6c7da805800d43811e74`
+Erläuterungen zu den Gebräuchen des Volkes,
+die zeigen,
+was mit dem Wort „unrein“ gemeint ist\.
+Wesen und Ursprung des „Gottesglaubens“\.
+Die Verse 48–44 geben eine anschauliche Beschreibung der Göttlichkeit der Physiologie\.
+Es lohnt sich,
+kurz wiederzugeben,
+was er auf unsere Fragen antwortete\.
+Denn ich nehme an,
+dass die meisten Menschen Näheres über einige Vorschriften des Gesetzes erfahren möchten,
+besonders über diejenigen,
+die Speisen,
+Getränke und die als unrein geltenden Tiere betreffen\.
+Da es doch nur eine Art der Schöpfung gibt,
+fragten wir ihn,
+warum manche Tiere als unrein zum Verzehr gelten,
+andere aber sogar für die Berührung unrein sind;
+denn obwohl das Gesetz in den meisten Dingen gewissenhaft verfährt,
+ist es in solchen Fragen besonders gewissenhaft\.
+Darauf antwortete er:
+„Ihr seht“,
+sagte er,
+„welchen Einfluss unsere Lebensweise und unser Umgang auf uns haben\.
+Durch den Umgang mit schlechten Menschen nehmen die Menschen deren Verdorbenheit an und verbringen ihr ganzes Leben im Elend;
+leben sie dagegen mit weisen und klugen Menschen,
+finden sie einen Weg,
+der Unwissenheit zu entkommen und ihr Leben zu bessern\.
+Unser Gesetzgeber stellte zunächst die Grundsätze der Gottesfurcht und der Gerechtigkeit auf und lehrte sie Punkt für Punkt,
+nicht nur durch Verbote,
+sondern auch durch Beispiele\.
+So zeigte er die schädlichen Folgen der Sünde und die Strafen,
+die Gott den Schuldigen auferlegt\.
+Denn als Erstes wies er nach,
+dass es nur einen Gott gibt und dass seine Macht im ganzen Universum sichtbar wird,
+da jeder Ort von seiner Herrschaft erfüllt ist und nichts von dem,
+was Menschen auf Erden im Verborgenen tun,
+seiner Kenntnis entgeht\.
+Alles,
+was ein Mensch tut,
+und alles,
+was künftig geschehen wird,
+liegt offen vor ihm\.
+Indem der Gesetzgeber diese Wahrheiten sorgfältig entfaltete und deutlich machte,
+zeigte er,
+dass ein Mensch selbst dann nicht unentdeckt bliebe,
+wenn er nur daran dächte,
+Böses zu tun,
+geschweige denn,
+es tatsächlich auszuführen\.
+Denn er machte klar,
+dass Gottes Macht das ganze Gesetz durchdringt\.
+Von diesem Ausgangspunkt aus zeigte er weiter,
+dass alle Menschen außer uns an viele Götter glauben,
+obwohl sie selbst weit mächtiger sind als die Wesen,
+die sie vergeblich anbeten\.
+Wenn sie nämlich Standbilder aus Stein und Holz angefertigt haben,
+nennen sie diese Abbilder derer,
+die etwas für das Leben Nützliches erfunden haben,
+und beten sie an,
+obwohl eindeutig erwiesen ist,
+dass die Standbilder nichts empfinden können\.
+Denn es wäre völlig dumm anzunehmen,
+jemand sei aufgrund seiner Erfindungen zu einem Gott geworden\.“
 
-Erläuterungen zu den Gebräuchen des Volkes, die zeigen, was mit dem Wort „unrein“ gemeint ist\. Wesen und Ursprung des „Gottesglaubens“\. Die Verse 48–44 geben eine anschauliche Beschreibung der Göttlichkeit der Physiologie\. Es lohnt sich, kurz wiederzugeben, was er auf unsere Fragen antwortete\. Denn ich nehme an, dass die meisten Menschen Näheres über einige Vorschriften des Gesetzes erfahren möchten, besonders über diejenigen, die Speisen, Getränke und die als unrein geltenden Tiere betreffen\. Da es doch nur eine Art der Schöpfung gibt, fragten wir ihn, warum manche Tiere als unrein zum Verzehr gelten, andere aber sogar für die Berührung unrein sind; denn obwohl das Gesetz in den meisten Dingen gewissenhaft verfährt, ist es in solchen Fragen besonders gewissenhaft\. Darauf antwortete er: „Ihr seht“, sagte er, „welchen Einfluss unsere Lebensweise und unser Umgang auf uns haben\. Durch den Umgang mit schlechten Menschen nehmen die Menschen deren Verdorbenheit an und verbringen ihr ganzes Leben im Elend; leben sie dagegen mit weisen und klugen Menschen, finden sie einen Weg, der Unwissenheit zu entkommen und ihr Leben zu bessern\. Unser Gesetzgeber stellte zunächst die Grundsätze der Gottesfurcht und der Gerechtigkeit auf und lehrte sie Punkt für Punkt, nicht nur durch Verbote, sondern auch durch Beispiele\. So zeigte er die schädlichen Folgen der Sünde und die Strafen, die Gott den Schuldigen auferlegt\. Denn als Erstes wies er nach, dass es nur einen Gott gibt und dass seine Macht im ganzen Universum sichtbar wird, da jeder Ort von seiner Herrschaft erfüllt ist und nichts von dem, was Menschen auf Erden im Verborgenen tun, seiner Kenntnis entgeht\. Alles, was ein Mensch tut, und alles, was künftig geschehen wird, liegt offen vor ihm\. Indem der Gesetzgeber diese Wahrheiten sorgfältig entfaltete und deutlich machte, zeigte er, dass ein Mensch selbst dann nicht unentdeckt bliebe, wenn er nur daran dächte, Böses zu tun, geschweige denn, es tatsächlich auszuführen\. Denn er machte klar, dass Gottes Macht das ganze Gesetz durchdringt\. Von diesem Ausgangspunkt aus zeigte er weiter, dass alle Menschen außer uns an viele Götter glauben, obwohl sie selbst weit mächtiger sind als die Wesen, die sie vergeblich anbeten\. Wenn sie nämlich Standbilder aus Stein und Holz angefertigt haben, nennen sie diese Abbilder derer, die etwas für das Leben Nützliches erfunden haben, und beten sie an, obwohl eindeutig erwiesen ist, dass die Standbilder nichts empfinden können\. Denn es wäre völlig dumm anzunehmen, jemand sei aufgrund seiner Erfindungen zu einem Gott geworden\.“
+Denn die Erfinder nahmen lediglich Dinge,
+die bereits geschaffen waren,
+und zeigten,
+indem sie diese miteinander verbanden,
+dass sie sich auf neue Weise verwenden ließen\.
+Den Stoff selbst schufen sie nicht\.
+Deshalb ist es nichtig und dumm,
+wenn Menschen ihresgleichen zu Göttern machen\.
+Auch in unserer Zeit gibt es viele,
+die weit erfinderischer und gelehrter sind als jene Menschen früherer Zeiten,
+die zu Göttern erhoben wurden;
+dennoch kämen diese Zeitgenossen niemals dazu,
+sie anzubeten\.
+Die Schöpfer und Urheber solcher Mythen halten sich für die weisesten unter den Griechen\.
+Warum sollen wir noch von anderen verblendeten Menschen sprechen,
+von den Ägyptern und ihresgleichen,
+die auf wilde Tiere,
+die meisten Arten von Kriechtieren und auf Vieh vertrauen,
+diese Tiere anbeten und ihnen sowohl zu ihren Lebzeiten als auch nach ihrem Tod Opfer darbringen?
+Unser Gesetzgeber aber war ein weiser Mann,
+den Gott in besonderer Weise mit der Fähigkeit begabt hatte,
+alles zu verstehen\.
+Er nahm jede einzelne Einzelheit umfassend in den Blick und umgab uns mit uneinnehmbaren Bollwerken und eisernen Mauern,
+damit wir uns mit keinem der anderen Völker vermischen,
+sondern an Leib und Seele rein,
+frei von allen nichtigen Vorstellungen bleiben und den einen allmächtigen Gott über der ganzen Schöpfung anbeten\.
+Deshalb nennen uns die führenden ägyptischen Priester,
+die vieles sorgfältig untersucht haben und mit unseren Angelegenheiten vertraut sind,
+„Menschen Gottes“\.
+Diese Bezeichnung kommt nicht den übrigen Menschen zu,
+sondern nur denen,
+die den wahren Gott anbeten\.
+Die anderen sind nicht Menschen Gottes,
+sondern Menschen der Speisen,
+Getränke und Kleidung;
+ihre ganze Gesinnung treibt sie dazu,
+in diesen Dingen Trost zu suchen\.
+Bei unserem Volk hingegen gilt die ganze Aufmerksamkeit während des gesamten Lebens der Herrschaft Gottes\.
+Damit wir nicht durch irgendeinen Gräuel verdorben und unser Leben nicht durch schlechten Umgang vom rechten Weg abgebracht werden,
+umgab er uns auf allen Seiten mit Reinheitsvorschriften\.
+Sie betreffen gleichermaßen,
+was wir essen,
+trinken,
+berühren,
+hören und sehen\.
+Zwar sind alle Dinge,
+allgemein gesprochen,
+ihrer natürlichen Beschaffenheit nach gleich,
+weil sie alle von ein und derselben Macht gelenkt werden\.
+Doch in jedem einzelnen Fall liegt ein tiefer Grund dafür vor,
+dass wir auf den Gebrauch bestimmter Dinge verzichten und andere gemeinsam gebrauchen\.
+Zur Veranschaulichung will ich ein oder zwei Punkte kurz durchgehen und dir erklären\.
+Du musst dich vor der entwürdigenden Vorstellung hüten,
+Mose habe seine Gesetze aus Rücksicht auf Mäuse,
+Wiesel und dergleichen mit so außerordentlicher Sorgfalt ausgearbeitet\.
+Alle diese Vorschriften wurden um der Gerechtigkeit willen erlassen,
+um das Streben nach Tugend und die Vervollkommnung des Charakters zu fördern\.
+Denn alle Vögel,
+die wir nutzen,
+sind zahm und zeichnen sich durch ihre Reinheit aus;
+sie ernähren sich von verschiedenen Arten von Getreide und Hülsenfrüchten\.
+Zu dieser Klasse von Vögeln gehören etwa Tauben,
+Turteltauben,
+Heuschrecken,
+Rebhühner,
+Gänse und alle anderen Vögel dieser Art\.
 
-Denn die Erfinder nahmen lediglich Dinge, die bereits geschaffen waren, und zeigten, indem sie diese miteinander verbanden, dass sie sich auf neue Weise verwenden ließen\. Den Stoff selbst schufen sie nicht\. Deshalb ist es nichtig und dumm, wenn Menschen ihresgleichen zu Göttern machen\. Auch in unserer Zeit gibt es viele, die weit erfinderischer und gelehrter sind als jene Menschen früherer Zeiten, die zu Göttern erhoben wurden; dennoch kämen diese Zeitgenossen niemals dazu, sie anzubeten\. Die Schöpfer und Urheber solcher Mythen halten sich für die weisesten unter den Griechen\. Warum sollen wir noch von anderen verblendeten Menschen sprechen, von den Ägyptern und ihresgleichen, die auf wilde Tiere, die meisten Arten von Kriechtieren und auf Vieh vertrauen, diese Tiere anbeten und ihnen sowohl zu ihren Lebzeiten als auch nach ihrem Tod Opfer darbringen? Unser Gesetzgeber aber war ein weiser Mann, den Gott in besonderer Weise mit der Fähigkeit begabt hatte, alles zu verstehen\. Er nahm jede einzelne Einzelheit umfassend in den Blick und umgab uns mit uneinnehmbaren Bollwerken und eisernen Mauern, damit wir uns mit keinem der anderen Völker vermischen, sondern an Leib und Seele rein, frei von allen nichtigen Vorstellungen bleiben und den einen allmächtigen Gott über der ganzen Schöpfung anbeten\. Deshalb nennen uns die führenden ägyptischen Priester, die vieles sorgfältig untersucht haben und mit unseren Angelegenheiten vertraut sind, „Menschen Gottes“\. Diese Bezeichnung kommt nicht den übrigen Menschen zu, sondern nur denen, die den wahren Gott anbeten\. Die anderen sind nicht Menschen Gottes, sondern Menschen der Speisen, Getränke und Kleidung; ihre ganze Gesinnung treibt sie dazu, in diesen Dingen Trost zu suchen\. Bei unserem Volk hingegen gilt die ganze Aufmerksamkeit während des gesamten Lebens der Herrschaft Gottes\. Damit wir nicht durch irgendeinen Gräuel verdorben und unser Leben nicht durch schlechten Umgang vom rechten Weg abgebracht werden, umgab er uns auf allen Seiten mit Reinheitsvorschriften\. Sie betreffen gleichermaßen, was wir essen, trinken, berühren, hören und sehen\. Zwar sind alle Dinge, allgemein gesprochen, ihrer natürlichen Beschaffenheit nach gleich, weil sie alle von ein und derselben Macht gelenkt werden\. Doch in jedem einzelnen Fall liegt ein tiefer Grund dafür vor, dass wir auf den Gebrauch bestimmter Dinge verzichten und andere gemeinsam gebrauchen\. Zur Veranschaulichung will ich ein oder zwei Punkte kurz durchgehen und dir erklären\. Du musst dich vor der entwürdigenden Vorstellung hüten, Mose habe seine Gesetze aus Rücksicht auf Mäuse, Wiesel und dergleichen mit so außerordentlicher Sorgfalt ausgearbeitet\. Alle diese Vorschriften wurden um der Gerechtigkeit willen erlassen, um das Streben nach Tugend und die Vervollkommnung des Charakters zu fördern\. Denn alle Vögel, die wir nutzen, sind zahm und zeichnen sich durch ihre Reinheit aus; sie ernähren sich von verschiedenen Arten von Getreide und Hülsenfrüchten\. Zu dieser Klasse von Vögeln gehören etwa Tauben, Turteltauben, Heuschrecken, Rebhühner, Gänse und alle anderen Vögel dieser Art\.
+Die Vögel dagegen,
+die euch verboten sind,
+werdet ihr als wild und fleischfressend erkennen:
+Mit ihrer Stärke unterdrücken sie die anderen und verschaffen sich grausam Nahrung,
+indem sie die oben genannten zahmen Vögel reißen\.
+Doch nicht nur das:
+Sie erbeuten auch Lämmer und Zicklein und schädigen sogar Menschen,
+ob tot oder lebendig\.
+Indem der Gesetzgeber sie unrein nannte,
+gab er durch sie ein Zeichen,
+dass diejenigen,
+für die das Gesetz erlassen wurde,
+in ihrem Herzen Gerechtigkeit üben müssen\.
+Sie dürfen niemanden im Vertrauen auf ihre eigene Stärke unterdrücken oder ihm irgendetwas rauben,
+sondern sollen ihr Leben nach der Gerechtigkeit ausrichten\.
+So fressen auch die bereits erwähnten zahmen Vögel die verschiedenen Hülsenfrüchte,
+die auf der Erde wachsen,
+und unterdrücken ihre Artgenossen nicht bis zu deren Vernichtung\.
+Unser Gesetzgeber lehrte uns also,
+dass den Weisen durch solche Mittel Zeichen gegeben werden:
+Sie müssen gerecht sein,
+dürfen nichts mit Gewalt durchsetzen und niemanden im Vertrauen auf ihre eigene Stärke unterdrücken\.
+Wenn es schon wegen ihrer besonderen Lebensweise als ungehörig gilt,
+auch nur solche unreinen Tiere zu berühren,
+wie sie eben genannt wurden,
+müssen wir dann nicht jede erdenkliche Vorsicht walten lassen,
+damit unser eigener Charakter nicht in gleichem Maße verdorben wird?
+Alle Vorschriften darüber,
+was im Fall dieser Vögel und der anderen Tiere erlaubt ist,
+hat er daher zu dem Zweck erlassen,
+uns eine Lektion in Moral zu erteilen\.
+Die Spaltung des Hufs und die Teilung der Klauen sollen uns nämlich lehren,
+jede unserer Handlungen im Hinblick auf die Ausübung der Tugend prüfend zu beurteilen\.
+Denn die Kraft und Tätigkeit unseres ganzen Körpers hängen von unseren Schultern und Gliedmaßen ab\.
+Deshalb zwingt er uns zu der Einsicht,
+dass wir alle unsere Handlungen mit Unterscheidungsvermögen und nach dem Maßstab der Gerechtigkeit vollziehen müssen,
+umso mehr,
+als wir deutlich von der übrigen Menschheit abgesondert wurden\.
+Denn die meisten anderen Menschen beflecken sich durch wahllosen Geschlechtsverkehr und begehen damit großes Unrecht;
+ganze Länder und Städte rühmen sich solcher Laster\.
+Sie verkehren nicht nur mit Männern,
+sondern beflecken auch ihre eigenen Mütter und sogar ihre Töchter\.
+Wir dagegen sind von solchen Sünden ferngehalten worden\.
+Die Menschen,
+die auf die erwähnte Weise abgesondert wurden,
+kennzeichnet der Gesetzgeber zudem als mit der Gabe der Erinnerung ausgestattet\.
+Denn alle Tiere,
+„die gespaltene Hufe haben und wiederkäuen[^bible-bbed7196-6cda-4e81-bb91-387d7f56e031] “,
+stellen für die Eingeweihten das Sinnbild der Erinnerung dar\.
+Das Wiederkäuen ist nämlich nichts anderes als die Erinnerung an Leben und Dasein\.
+Da das Leben gewöhnlich durch Nahrung erhalten wird,
+ermahnt er uns auch in der Schrift mit diesen Worten:
+„Du sollst dich gewiss an den Herrn erinnern,
+der in dir jene großen und wunderbaren Dinge vollbracht hat\.[^bible-6b5b7f0a-5a8d-4ed5-ae1f-d593743e6d7e]
+“
 
-Die Vögel dagegen, die euch verboten sind, werdet ihr als wild und fleischfressend erkennen: Mit ihrer Stärke unterdrücken sie die anderen und verschaffen sich grausam Nahrung, indem sie die oben genannten zahmen Vögel reißen\. Doch nicht nur das: Sie erbeuten auch Lämmer und Zicklein und schädigen sogar Menschen, ob tot oder lebendig\. Indem der Gesetzgeber sie unrein nannte, gab er durch sie ein Zeichen, dass diejenigen, für die das Gesetz erlassen wurde, in ihrem Herzen Gerechtigkeit üben müssen\. Sie dürfen niemanden im Vertrauen auf ihre eigene Stärke unterdrücken oder ihm irgendetwas rauben, sondern sollen ihr Leben nach der Gerechtigkeit ausrichten\. So fressen auch die bereits erwähnten zahmen Vögel die verschiedenen Hülsenfrüchte, die auf der Erde wachsen, und unterdrücken ihre Artgenossen nicht bis zu deren Vernichtung\. Unser Gesetzgeber lehrte uns also, dass den Weisen durch solche Mittel Zeichen gegeben werden: Sie müssen gerecht sein, dürfen nichts mit Gewalt durchsetzen und niemanden im Vertrauen auf ihre eigene Stärke unterdrücken\. Wenn es schon wegen ihrer besonderen Lebensweise als ungehörig gilt, auch nur solche unreinen Tiere zu berühren, wie sie eben genannt wurden, müssen wir dann nicht jede erdenkliche Vorsicht walten lassen, damit unser eigener Charakter nicht in gleichem Maße verdorben wird? Alle Vorschriften darüber, was im Fall dieser Vögel und der anderen Tiere erlaubt ist, hat er daher zu dem Zweck erlassen, uns eine Lektion in Moral zu erteilen\. Die Spaltung des Hufs und die Teilung der Klauen sollen uns nämlich lehren, jede unserer Handlungen im Hinblick auf die Ausübung der Tugend prüfend zu beurteilen\. Denn die Kraft und Tätigkeit unseres ganzen Körpers hängen von unseren Schultern und Gliedmaßen ab\. Deshalb zwingt er uns zu der Einsicht, dass wir alle unsere Handlungen mit Unterscheidungsvermögen und nach dem Maßstab der Gerechtigkeit vollziehen müssen, umso mehr, als wir deutlich von der übrigen Menschheit abgesondert wurden\. Denn die meisten anderen Menschen beflecken sich durch wahllosen Geschlechtsverkehr und begehen damit großes Unrecht; ganze Länder und Städte rühmen sich solcher Laster\. Sie verkehren nicht nur mit Männern, sondern beflecken auch ihre eigenen Mütter und sogar ihre Töchter\. Wir dagegen sind von solchen Sünden ferngehalten worden\. Die Menschen, die auf die erwähnte Weise abgesondert wurden, kennzeichnet der Gesetzgeber zudem als mit der Gabe der Erinnerung ausgestattet\. Denn alle Tiere, „die gespaltene Hufe haben und wiederkäuen[^bible-bbed7196-6cda-4e81-bb91-387d7f56e031] “, stellen für die Eingeweihten das Sinnbild der Erinnerung dar\. Das Wiederkäuen ist nämlich nichts anderes als die Erinnerung an Leben und Dasein\. Da das Leben gewöhnlich durch Nahrung erhalten wird, ermahnt er uns auch in der Schrift mit diesen Worten: „Du sollst dich gewiss an den Herrn erinnern, der in dir jene großen und wunderbaren Dinge vollbracht hat\.[^bible-6b5b7f0a-5a8d-4ed5-ae1f-d593743e6d7e] “
+Richtig betrachtet,
+erweisen sich diese Dinge offenkundig als groß und herrlich:
+Der Bau des Körpers,
+die Ordnung der Nahrung und die Gliederung jedes einzelnen Körperteils,
+ferner die Anordnung der Sinne,
+die Tätigkeit und unsichtbare Bewegung des Geistes,
+die Schnelligkeit seiner einzelnen Handlungen und seine Entdeckung der Künste zeugen von unerschöpflichem Einfallsreichtum\.
+Deshalb ermahnt er uns,
+daran zu denken,
+dass die genannten Teile durch göttliche Macht auf vollendete Weise zusammengehalten werden\.
+Denn er hat jede Zeit und jeden Ort bestimmt,
+damit wir stets an Gott denken,
+der über uns herrscht und uns bewahrt\.
+Bei Speisen und Getränken gebietet er uns,
+zuerst einen Teil als Opfer darzubringen und dann sogleich unsere Mahlzeit zu genießen\.
+Auch an unseren Kleidern hat er uns ein Zeichen zur Erinnerung gegeben;
+ebenso hat er uns geboten,
+die göttlichen Aussprüche zum Gedenken an Gott an unseren Toren und Türen anzubringen\.
+Ausdrücklich ordnet er an,
+das Zeichen auch an unseren Händen zu befestigen[^bible-a1ecbc14-25bf-4c7b-915d-f5d920587728]\.
+Damit zeigt er deutlich,
+dass wir jede Tat in Gerechtigkeit vollbringen sollen,
+eingedenk unserer eigenen Erschaffung und vor allem der Furcht Gottes\.
+Auch gebietet er den Menschen,
+beim Schlafengehen und beim Aufstehen über die Werke Gottes nachzudenken,
+und zwar nicht nur mit Worten[^bible-af9e38b7-d8cc-4360-9fa3-bd6ab3251046]\.
+Sie sollen vielmehr aufmerksam beobachten,
+welche Veränderung und Wirkung beim Einschlafen an ihnen eintritt,
+und ebenso ihr Erwachen betrachten,
+um zu erkennen,
+wie göttlich und unbegreiflich der Übergang von einem dieser Zustände zum anderen ist\.
+Damit habe ich euch nun nach unserer Auslegung der „gespaltenen Hufe und des Wiederkäuens[^bible-2cf34501-1c2f-4079-afde-78c059aedb7c]“ gezeigt,
+wie treffend dieses Sinnbild für Unterscheidungsvermögen und Erinnerung ist\.
+Denn unsere Gesetze wurden weder willkürlich noch nach dem ersten flüchtigen Gedanken verfasst,
+der einem in den Sinn kam,
+sondern im Blick auf die Wahrheit und als Hinweis auf die rechte Vernunft\.
+Durch seine Vorschriften über Speisen,
+Getränke und bestimmte Fälle der Berührung gebietet er uns,
+weder gedankenlos etwas zu tun oder anzuhören noch die Vernunft zu missbrauchen und dadurch Unrecht zu begehen\.
+Derselbe Grundsatz lässt sich auch bei den wilden Tieren erkennen\.
+Denn das Wesen des Wiesels,
+der Mäuse und ähnlicher ausdrücklich genannter Tiere[^bible-07a20307-652d-4102-b0df-9a4b3441f036] ist zerstörerisch\.
+Mäuse verunreinigen und beschädigen alles,
+nicht nur um sich davon zu ernähren,
+sondern so sehr,
+dass alles,
+was ihnen in den Weg kommt und von ihnen beschädigt wird,
+für den Menschen völlig unbrauchbar wird\.
+Auch die Wiesel haben eine besondere Eigenart:
+Über das bereits Gesagte hinaus haben sie eine verunreinigende Eigenart\.
+Sie empfangen durch die Ohren und gebären durch den Mund\.
+Deshalb wird eine vergleichbare Verhaltensweise auch bei Menschen für unrein erklärt\.
 
-Richtig betrachtet, erweisen sich diese Dinge offenkundig als groß und herrlich: Der Bau des Körpers, die Ordnung der Nahrung und die Gliederung jedes einzelnen Körperteils, ferner die Anordnung der Sinne, die Tätigkeit und unsichtbare Bewegung des Geistes, die Schnelligkeit seiner einzelnen Handlungen und seine Entdeckung der Künste zeugen von unerschöpflichem Einfallsreichtum\. Deshalb ermahnt er uns, daran zu denken, dass die genannten Teile durch göttliche Macht auf vollendete Weise zusammengehalten werden\. Denn er hat jede Zeit und jeden Ort bestimmt, damit wir stets an Gott denken, der über uns herrscht und uns bewahrt\. Bei Speisen und Getränken gebietet er uns, zuerst einen Teil als Opfer darzubringen und dann sogleich unsere Mahlzeit zu genießen\. Auch an unseren Kleidern hat er uns ein Zeichen zur Erinnerung gegeben; ebenso hat er uns geboten, die göttlichen Aussprüche zum Gedenken an Gott an unseren Toren und Türen anzubringen\. Ausdrücklich ordnet er an, das Zeichen auch an unseren Händen zu befestigen[^bible-a1ecbc14-25bf-4c7b-915d-f5d920587728]\. Damit zeigt er deutlich, dass wir jede Tat in Gerechtigkeit vollbringen sollen, eingedenk unserer eigenen Erschaffung und vor allem der Furcht Gottes\. Auch gebietet er den Menschen, beim Schlafengehen und beim Aufstehen über die Werke Gottes nachzudenken, und zwar nicht nur mit Worten[^bible-af9e38b7-d8cc-4360-9fa3-bd6ab3251046]\. Sie sollen vielmehr aufmerksam beobachten, welche Veränderung und Wirkung beim Einschlafen an ihnen eintritt, und ebenso ihr Erwachen betrachten, um zu erkennen, wie göttlich und unbegreiflich der Übergang von einem dieser Zustände zum anderen ist\. Damit habe ich euch nun nach unserer Auslegung der „gespaltenen Hufe und des Wiederkäuens[^bible-2cf34501-1c2f-4079-afde-78c059aedb7c]“ gezeigt, wie treffend dieses Sinnbild für Unterscheidungsvermögen und Erinnerung ist\. Denn unsere Gesetze wurden weder willkürlich noch nach dem ersten flüchtigen Gedanken verfasst, der einem in den Sinn kam, sondern im Blick auf die Wahrheit und als Hinweis auf die rechte Vernunft\. Durch seine Vorschriften über Speisen, Getränke und bestimmte Fälle der Berührung gebietet er uns, weder gedankenlos etwas zu tun oder anzuhören noch die Vernunft zu missbrauchen und dadurch Unrecht zu begehen\. Derselbe Grundsatz lässt sich auch bei den wilden Tieren erkennen\. Denn das Wesen des Wiesels, der Mäuse und ähnlicher ausdrücklich genannter Tiere[^bible-07a20307-652d-4102-b0df-9a4b3441f036] ist zerstörerisch\. Mäuse verunreinigen und beschädigen alles, nicht nur um sich davon zu ernähren, sondern so sehr, dass alles, was ihnen in den Weg kommt und von ihnen beschädigt wird, für den Menschen völlig unbrauchbar wird\. Auch die Wiesel haben eine besondere Eigenart: Über das bereits Gesagte hinaus haben sie eine verunreinigende Eigenart\. Sie empfangen durch die Ohren und gebären durch den Mund\. Deshalb wird eine vergleichbare Verhaltensweise auch bei Menschen für unrein erklärt\.
-
-Denn indem sie alles, was sie mit den Ohren aufnehmen, in Worte fassen, ziehen sie andere ins Böse hinein und bewirken eine nicht geringe Verunreinigung; sie selbst sind durch den Schmutz der Gottlosigkeit völlig befleckt\. Und euer König tut, wie wir hören, ganz recht daran, solche Menschen zu vernichten\.“ Darauf sagte ich: „Du meinst wohl die Denunzianten; denn er lässt sie ständig foltern und qualvoll hinrichten\.“ „Ja“, erwiderte er, „diese Menschen meine ich\. Denn Menschen auszuspähen, um sie ins Verderben zu stürzen, ist frevelhaft\. Unser Gesetz verbietet uns, irgendjemandem durch Wort oder Tat Schaden zuzufügen\. Meine kurze Darstellung dieser Dinge müsste dich davon überzeugt haben, dass alle unsere Vorschriften auf Gerechtigkeit ausgerichtet sind und dass in der Schrift nichts gedankenlos oder ohne triftigen Grund festgelegt wurde\. Vielmehr sollen wir dadurch befähigt werden, unser ganzes Leben lang in allem, was wir tun, allen Menschen gegenüber Gerechtigkeit zu üben und dabei des allmächtigen Gottes eingedenk zu sein\. So zielt die ganze Ordnung hinsichtlich der Speisen und unreinen Dinge, der Kriechtiere und wilden Tiere auf Gerechtigkeit und auf gerechte Beziehungen der Menschen untereinander\.“ Mir schien, dass er alle Punkte gut verteidigt hatte\. Auch hinsichtlich der Kälber, Widder und Ziegen, die geopfert werden, sagte er, man müsse sie aus den Rinder\- und Kleinviehherden nehmen, zahme Tiere opfern und nichts Wildes darbringen, damit die Opfernden den vom Gesetzgeber ausgedrückten symbolischen Sinn verstünden und nicht unter den Einfluss eines überheblichen Selbstbewusstseins gerieten\. Denn wer ein Opfer darbringt, bringt auch seine eigene Seele in all ihren Regungen dar\. Ich halte diese Einzelheiten aus unserem Gespräch für erzählenswert\. Die Heiligkeit und der dem Gesetz innewohnende Sinn haben mich bewogen, sie dir, Philokrates, klar zu erklären, weil du selbst so eifrig nach Wissen strebst\.
+Denn indem sie alles,
+was sie mit den Ohren aufnehmen,
+in Worte fassen,
+ziehen sie andere ins Böse hinein und bewirken eine nicht geringe Verunreinigung;
+sie selbst sind durch den Schmutz der Gottlosigkeit völlig befleckt\.
+Und euer König tut,
+wie wir hören,
+ganz recht daran,
+solche Menschen zu vernichten\.“
+Darauf sagte ich:
+„Du meinst wohl die Denunzianten;
+denn er lässt sie ständig foltern und qualvoll hinrichten\.“
+„Ja“,
+erwiderte er,
+„diese Menschen meine ich\.
+Denn Menschen auszuspähen,
+um sie ins Verderben zu stürzen,
+ist frevelhaft\.
+Unser Gesetz verbietet uns,
+irgendjemandem durch Wort oder Tat Schaden zuzufügen\.
+Meine kurze Darstellung dieser Dinge müsste dich davon überzeugt haben,
+dass alle unsere Vorschriften auf Gerechtigkeit ausgerichtet sind und dass in der Schrift nichts gedankenlos oder ohne triftigen Grund festgelegt wurde\.
+Vielmehr sollen wir dadurch befähigt werden,
+unser ganzes Leben lang in allem,
+was wir tun,
+allen Menschen gegenüber Gerechtigkeit zu üben und dabei des allmächtigen Gottes eingedenk zu sein\.
+So zielt die ganze Ordnung hinsichtlich der Speisen und unreinen Dinge,
+der Kriechtiere und wilden Tiere auf Gerechtigkeit und auf gerechte Beziehungen der Menschen untereinander\.“
+Mir schien,
+dass er alle Punkte gut verteidigt hatte\.
+Auch hinsichtlich der Kälber,
+Widder und Ziegen,
+die geopfert werden,
+sagte er,
+man müsse sie aus den Rinder\- und Kleinviehherden nehmen,
+zahme Tiere opfern und nichts Wildes darbringen,
+damit die Opfernden den vom Gesetzgeber ausgedrückten symbolischen Sinn verstünden und nicht unter den Einfluss eines überheblichen Selbstbewusstseins gerieten\.
+Denn wer ein Opfer darbringt,
+bringt auch seine eigene Seele in all ihren Regungen dar\.
+Ich halte diese Einzelheiten aus unserem Gespräch für erzählenswert\.
+Die Heiligkeit und der dem Gesetz innewohnende Sinn haben mich bewogen,
+sie dir,
+Philokrates,
+klar zu erklären,
+weil du selbst so eifrig nach Wissen strebst\.
 
 ## Bibelverweise
 

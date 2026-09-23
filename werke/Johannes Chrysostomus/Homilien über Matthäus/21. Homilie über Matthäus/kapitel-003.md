@@ -7,9 +7,112 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/21-homilie-ueber-matthaeus#kapitel-8a461978-1dc8-44dd-5a90-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7ea742261cc93a601f1a75e74d42566b21cbbd65123d12e758e3ce0ea470b187`
-
-Was sollen wir also darauf antworten? Auch wenn es jenen von Natur aus zukommt, kann es doch auch bei uns durch freie Entscheidung entstehen\. Denn er sagte nicht: Seht darauf, dass die Vögel fliegen, denn das wäre dem Menschen unmöglich; sondern: dass sie ohne Sorge ernährt werden\. Und das können auch wir, wenn wir wollen, leicht zustande bringen\. Das haben die gezeigt, die es durch ihre Taten vollbracht haben\. Darum muss man die Einsicht des Gesetzgebers ganz besonders bewundern: Er hätte das Beispiel aus Menschen nehmen können und Elija, Mose, Johannes und andere dieser Art nennen können, die sich nicht sorgten\. Doch um die Einwender zu treffen, erinnerte er an die Vögel als vernunftlose Tiere\. Hätte er nämlich jene Gerechten genannt, hätten diese sagen können: So weit wie sie sind wir noch nicht gekommen\. Nun aber schwieg er von ihnen und führte die Vögel des Himmels an; damit schnitt er ihnen jede Ausrede ab und ahmte auch hier ein altes Gesetz nach\. Denn auch der Alte Bund verweist auf die Biene, auf die Ameise, auf die Turteltaube und auf die Schwalbe\. Und auch das ist kein geringer Beweis von Ehre: Was jene von Natur aus besitzen, das können wir durch freie Entscheidung verwirklichen\. Wenn er also für die, die um unsertwillen da sind, so große Vorsorge trägt, dann erst recht für uns; wenn für die Sklaven, dann erst recht für den Herrn\. Deshalb sagte er: „Seht auf die Vögel[^bible-e91114ac-be9f-466a-9faf-9e4e4aa5e4fc]\.“ Und er sagte nicht: Sie treiben keinen Kleinhandel und machen keine Geschäfte, denn das gehörte zu den Dingen, die streng verpönt waren\. Sondern was? „Sie säen nicht und ernten nicht[^bible-e91114ac-be9f-466a-9faf-9e4e4aa5e4fc]\.“ Was also? Soll man nicht säen?, sagt jemand\. Er sagte nicht, man solle nicht säen, sondern man solle sich nicht sorgen; auch nicht, man müsse nicht arbeiten, sondern man dürfe nicht kleinmütig sein und sich durch Sorgen aufreiben\. Denn er gebot auch, sich zu ernähren, aber nicht, sich dabei zu sorgen\. Diesen Gedanken legt auch David schon lange vorher als Grundlage, wenn er geheimnisvoll sagt: „Du öffnest deine Hand und erfüllst alles Lebendige mit Wohlgefallen[^bible-dd87602d-129b-4d39-8ffd-718998598c13]“; und wiederum: „der dem Vieh seine Nahrung gibt und den jungen Raben, die ihn anrufen[^bible-cb284860-28c4-42ec-802c-2af554e50873]\.“ Wer also hat sich nicht gesorgt?, sagt jemand\. Hast du nicht gehört, wie viele Gerechte ich angeführt habe? Siehst du nicht mit ihnen Jakob, wie er das Haus seines Vaters verlässt, nackt und ohne alles? Hörst du ihn nicht beten und sagen: „Wenn der Herr mir Brot zu essen und ein Gewand zum Anziehen gibt[^bible-5727e434-b331-4156-8806-407fc7c3ad98]“? Das war nicht die Haltung eines Menschen, der sich sorgt, sondern eines Menschen, der alles von Gott erbittet\. Das haben auch die Apostel vollbracht, als sie alles wegwarfen und sich nicht sorgten; ebenso die fünftausend und die dreitausend\. Wenn du es aber, obwohl du so viele Worte hörst, nicht erträgst, dich von diesen schweren Fesseln zu lösen, dann sieh ein, wie nutzlos die Sache ist, und mach der Sorge ein Ende\. Denn „wer von euch kann, indem er sich sorgt, seiner Lebensgröße eine einzige Elle hinzufügen?[^bible-ec09b08c-71ea-44d4-84eb-9c557e9cb836]“, sagt er\. Siehst du, wie er vom Sichtbaren her auch das Unsichtbare offenkundig machte? Denn wie du deinem Körper durch Sorgen nicht einmal ein Weniges hinzufügen kannst, sagt er, so kannst du auch keine Nahrung zusammentragen, selbst wenn du es meinst\. Daran wird deutlich: Nicht unser Eifer, sondern Gottes Vorsorge bringt alles zustande, auch dort, wo wir tätig zu sein scheinen\. Wenn er uns im Stich lässt, werden weder Fürsorge noch Sorge noch Mühe noch sonst irgendetwas dergleichen je zu sehen sein; alles wird verschwinden\.
+Was sollen wir also darauf antworten?
+Auch wenn es jenen von Natur aus zukommt,
+kann es doch auch bei uns durch freie Entscheidung entstehen\.
+Denn er sagte nicht:
+Seht darauf,
+dass die Vögel fliegen,
+denn das wäre dem Menschen unmöglich;
+sondern:
+dass sie ohne Sorge ernährt werden\.
+Und das können auch wir,
+wenn wir wollen,
+leicht zustande bringen\.
+Das haben die gezeigt,
+die es durch ihre Taten vollbracht haben\.
+Darum muss man die Einsicht des Gesetzgebers ganz besonders bewundern:
+Er hätte das Beispiel aus Menschen nehmen können und Elija,
+Mose,
+Johannes und andere dieser Art nennen können,
+die sich nicht sorgten\.
+Doch um die Einwender zu treffen,
+erinnerte er an die Vögel als vernunftlose Tiere\.
+Hätte er nämlich jene Gerechten genannt,
+hätten diese sagen können:
+So weit wie sie sind wir noch nicht gekommen\.
+Nun aber schwieg er von ihnen und führte die Vögel des Himmels an;
+damit schnitt er ihnen jede Ausrede ab und ahmte auch hier ein altes Gesetz nach\.
+Denn auch der Alte Bund verweist auf die Biene,
+auf die Ameise,
+auf die Turteltaube und auf die Schwalbe\.
+Und auch das ist kein geringer Beweis von Ehre:
+Was jene von Natur aus besitzen,
+das können wir durch freie Entscheidung verwirklichen\.
+Wenn er also für die,
+die um unsertwillen da sind,
+so große Vorsorge trägt,
+dann erst recht für uns;
+wenn für die Sklaven,
+dann erst recht für den Herrn\.
+Deshalb sagte er:
+„Seht auf die Vögel[^bible-e91114ac-be9f-466a-9faf-9e4e4aa5e4fc]\.“
+Und er sagte nicht:
+Sie treiben keinen Kleinhandel und machen keine Geschäfte,
+denn das gehörte zu den Dingen,
+die streng verpönt waren\.
+Sondern was?
+„Sie säen nicht und ernten nicht[^bible-e91114ac-be9f-466a-9faf-9e4e4aa5e4fc]\.“
+Was also?
+Soll man nicht säen?,
+sagt jemand\.
+Er sagte nicht,
+man solle nicht säen,
+sondern man solle sich nicht sorgen;
+auch nicht,
+man müsse nicht arbeiten,
+sondern man dürfe nicht kleinmütig sein und sich durch Sorgen aufreiben\.
+Denn er gebot auch,
+sich zu ernähren,
+aber nicht,
+sich dabei zu sorgen\.
+Diesen Gedanken legt auch David schon lange vorher als Grundlage,
+wenn er geheimnisvoll sagt:
+„Du öffnest deine Hand und erfüllst alles Lebendige mit Wohlgefallen[^bible-dd87602d-129b-4d39-8ffd-718998598c13]“;
+und wiederum:
+„der dem Vieh seine Nahrung gibt und den jungen Raben,
+die ihn anrufen[^bible-cb284860-28c4-42ec-802c-2af554e50873]\.“
+Wer also hat sich nicht gesorgt?,
+sagt jemand\.
+Hast du nicht gehört,
+wie viele Gerechte ich angeführt habe?
+Siehst du nicht mit ihnen Jakob,
+wie er das Haus seines Vaters verlässt,
+nackt und ohne alles?
+Hörst du ihn nicht beten und sagen:
+„Wenn der Herr mir Brot zu essen und ein Gewand zum Anziehen gibt[^bible-5727e434-b331-4156-8806-407fc7c3ad98]“?
+Das war nicht die Haltung eines Menschen,
+der sich sorgt,
+sondern eines Menschen,
+der alles von Gott erbittet\.
+Das haben auch die Apostel vollbracht,
+als sie alles wegwarfen und sich nicht sorgten;
+ebenso die fünftausend und die dreitausend\.
+Wenn du es aber,
+obwohl du so viele Worte hörst,
+nicht erträgst,
+dich von diesen schweren Fesseln zu lösen,
+dann sieh ein,
+wie nutzlos die Sache ist,
+und mach der Sorge ein Ende\.
+Denn „wer von euch kann,
+indem er sich sorgt,
+seiner Lebensgröße eine einzige Elle hinzufügen?[^bible-ec09b08c-71ea-44d4-84eb-9c557e9cb836]“,
+sagt er\.
+Siehst du,
+wie er vom Sichtbaren her auch das Unsichtbare offenkundig machte?
+Denn wie du deinem Körper durch Sorgen nicht einmal ein Weniges hinzufügen kannst,
+sagt er,
+so kannst du auch keine Nahrung zusammentragen,
+selbst wenn du es meinst\.
+Daran wird deutlich:
+Nicht unser Eifer,
+sondern Gottes Vorsorge bringt alles zustande,
+auch dort,
+wo wir tätig zu sein scheinen\.
+Wenn er uns im Stich lässt,
+werden weder Fürsorge noch Sorge noch Mühe noch sonst irgendetwas dergleichen je zu sehen sein;
+alles wird verschwinden\.
 
 ## Bibelverweise
 

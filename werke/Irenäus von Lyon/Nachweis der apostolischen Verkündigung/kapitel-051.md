@@ -7,6 +7,23 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-4dc8a325-5770-4463-3241-08debf1e7015).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7012216aa3c27d2c7a00e0014df54e8ab71c3c3146af98a68454bcbdcfe18e80`
-
-Hier zeigt sich zunächst, dass der Sohn Gottes schon vorher bestand: Der Vater sprach mit ihm und offenbarte ihn den Menschen, bevor er geboren wurde\. Sodann zeigt sich, dass er notwendig als Mensch unter Menschen geboren werden musste; dass derselbe Gott ihn im Mutterleib bildet, das heißt, dass er aus dem Geist Gottes geboren werden sollte; und dass er Herr aller Menschen ist und Retter derer, die an ihn glauben, sowohl Juden als auch andere\. Denn das Volk der Juden heißt in der hebräischen Sprache Israel, nach Jakob, ihrem Vater, der als Erster Israel genannt wurde; als Völker bezeichnet er aber die ganze Menschheit\. Dass der Sohn des Vaters sich selbst Knecht nennt, geschieht wegen seiner Unterordnung unter den Vater; denn auch unter den Menschen ist jeder Sohn der Knecht seines Vaters\.
+Hier zeigt sich zunächst,
+dass der Sohn Gottes schon vorher bestand:
+Der Vater sprach mit ihm und offenbarte ihn den Menschen,
+bevor er geboren wurde\.
+Sodann zeigt sich,
+dass er notwendig als Mensch unter Menschen geboren werden musste;
+dass derselbe Gott ihn im Mutterleib bildet,
+das heißt,
+dass er aus dem Geist Gottes geboren werden sollte;
+und dass er Herr aller Menschen ist und Retter derer,
+die an ihn glauben,
+sowohl Juden als auch andere\.
+Denn das Volk der Juden heißt in der hebräischen Sprache Israel,
+nach Jakob,
+ihrem Vater,
+der als Erster Israel genannt wurde;
+als Völker bezeichnet er aber die ganze Menschheit\.
+Dass der Sohn des Vaters sich selbst Knecht nennt,
+geschieht wegen seiner Unterordnung unter den Vater;
+denn auch unter den Menschen ist jeder Sohn der Knecht seines Vaters\.

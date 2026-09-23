@@ -7,6 +7,152 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/71-homilie-ueber-matthaeus#kapitel-e70b8fb1-f0a3-43f7-9e60-08deee892375).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5cdc984ac719d872c66d11528ee8b9a91ab637196a8057c22877f5942942a52c`
-
-Gegen wen sollen wir also zuerst Stellung beziehen und unsere Schlachtreihe aufstellen? Denn gegen alle genügt nicht ein und dieselbe Rede\. Wollt ihr also, dass wir bei denen beginnen, die sich mit ihrer Barmherzigkeit leer rühmen? Mir scheint es richtig; denn ich liebe diese Praxis sehr, und es schmerzt mich, wenn ich sehe, wie sie verdorben wird und wie die Ruhmsucht ihr nachstellt, als wäre sie einer königlichen Tochter eine kupplerische Amme\. Sie nährt sie zwar, doch zu Schande und Schaden: Sie verkuppelt sie, befiehlt ihr, den Vater zu verachten, und schmückt sie, damit sie Männern gefällt, die oft schmutzig und verächtlich sind\. Und sie legt ihr einen Schmuck an, wie ihn die draußen haben wollen: schändlich und ehrlos, nicht so, wie ihn der Vater will\. Komm also, richten wir unsere Worte an diese Leute; und nehmen wir an, es werde reichlich Barmherzigkeit geübt, um sie der Menge öffentlich vorzuführen\. Also führt die Ruhmsucht sie zuerst aus dem Gemach des Vaters hinaus\. Und während der Vater befiehlt, sie solle nicht einmal der linken Hand sichtbar werden, zeigt jene sie den Sklaven, den zufällig Vorbeikommenden und denen, die sie nicht einmal kennen\. Siehst du die Hure und Kupplerin, die sie in Begierde nach verkehrten Menschen stürzt, damit sie sich so zurechtmachen lässt, wie jene es befehlen? Willst du sehen, wie sie eine solche Seele nicht nur zur Hure macht, sondern auch wahnsinnig? Dann betrachte ihre Gesinnung genau: Wenn sie den Himmel preisgibt und hinter entlaufenen Sklaven und Hausknechten herläuft, durch Straßen und enge Gassen die verfolgt, die sie hassen, die Schändlichen und Hässlichen, die sie nicht einmal ansehen wollen, die sie hassen, eben weil sie in Leidenschaft für sie brennt: Was könnte wahnsinniger sein als das? Denn niemanden hasst die Menge so sehr wie die, die nach Ruhm von ihr betteln\. Sie flechten ja tausend Anklagen gegen sie zusammen, und es geschieht dasselbe, als würde jemand eine Jungfrau, die Tochter eines Königs, vom königlichen Thron herunterholen und ihr befehlen, sich Gladiatoren preiszugeben, Männern, die sie verachten\. Je mehr du also solchen Menschen nachläufst, desto mehr wenden sie sich von dir ab; Gott aber zieht dich umso mehr an sich, lobt dich und gibt dir reichen Lohn, wenn du den Ruhm von ihm suchst\. Willst du ihren Schaden auch noch von einer anderen Seite her erkennen, dann überlege, wenn du zur Selbstdarstellung und aus Geltungssucht gibst, wie viel Schmerz danach über dich kommt und wie unaufhörlich die Niedergeschlagenheit ist, wenn Christus dir in den Ohren klingt und sagt: „Du hast deinen ganzen Lohn verloren\.“ Denn überall ist Ruhmsucht ein Übel, am meisten aber, wenn sie aus Menschenfreundlichkeit entsteht; denn es ist äußerste Roheit, fremdes Unglück zur Schau zu stellen und die Armen damit beinahe zu verhöhnen\. Wenn es schon Verhöhnen ist, von den eigenen Wohltaten zu sprechen, was meinst du dann, was es ist, diese auch noch vor viele andere hinauszutragen? Wie werden wir also diesem schlimmen Übel entkommen? Wenn wir lernen, barmherzig zu sein; wenn wir sehen, wessen Ruhm wir suchen\. Sag mir doch: Wer ist der Meister der Barmherzigkeit? Offenkundig Gott, der uns diese Praxis gezeigt hat, der sie mehr als alle kennt und sie in unendlichem Maß handhabt\. Was nun? Wenn du Ringer werden lernst, auf wen schaust du, oder wem zeigst du dich in der Ringschule? Dem Gemüseverkäufer und dem Fischhändler, oder dem Ringmeister? Und doch sind jene viele, dieser aber nur einer\. Was also, wenn jener dich bewundert und andere dich auslachen? Wirst nicht auch du zusammen mit ihm über sie lachen? Und was, wenn du boxen lernst? Wirst du nicht ebenso auf den schauen, der diese Kunst zu lehren weiß? Wenn du aber Redekunst betreibst, wirst du nicht das Lob des Redners annehmen und die anderen gering achten? Wie ist es also nicht widersinnig, bei den anderen Künsten nur auf den Lehrer zu schauen, hier aber das Gegenteil zu tun? Und doch ist der Schaden nicht gleich\. Denn dort, wenn du so ringst, wie es der Menge richtig scheint, und nicht so, wie es dem Lehrer richtig scheint, liegt der Schaden im Ringkampf; hier aber im ewigen Leben\. Bist du Gott darin ähnlich geworden, dass du barmherzig bist? Dann werde ihm auch darin ähnlich, dass du dich nicht zur Schau stellst\. Denn auch er sagte, wenn er heilte, sie sollten es niemandem sagen\. Aber du willst bei den Menschen barmherzig genannt werden? Und was ist der Gewinn? Gewinn gibt es keinen, der Schaden aber ist unermesslich\. Denn eben die, die du zu Zeugen rufst, werden zu Räubern der Schätze im Himmel\. Vielmehr nicht sie, sondern wir selbst, die wir unser Eigenes plündern und verstreuen, was droben liegt\. O welch neues Unglück, welch seltsame Leidenschaft\! Wo keine Motte vernichtet und kein Dieb einbricht, dort verstreut die Ruhmsucht\. Sie ist die Motte jener Schätze; sie ist der Dieb des Reichtums im Himmel; sie zieht den unangreifbaren Besitz heimlich fort\. Sie beschädigt und verdirbt alles\. Denn als der Teufel sah, dass jener Ort weder Räubern noch Wurm noch den anderen Anschlägen zugänglich ist, zieht er durch die Ruhmsucht den Reichtum heimlich fort\.
+Gegen wen sollen wir also zuerst Stellung beziehen und unsere Schlachtreihe aufstellen?
+Denn gegen alle genügt nicht ein und dieselbe Rede\.
+Wollt ihr also,
+dass wir bei denen beginnen,
+die sich mit ihrer Barmherzigkeit leer rühmen?
+Mir scheint es richtig;
+denn ich liebe diese Praxis sehr,
+und es schmerzt mich,
+wenn ich sehe,
+wie sie verdorben wird und wie die Ruhmsucht ihr nachstellt,
+als wäre sie einer königlichen Tochter eine kupplerische Amme\.
+Sie nährt sie zwar,
+doch zu Schande und Schaden:
+Sie verkuppelt sie,
+befiehlt ihr,
+den Vater zu verachten,
+und schmückt sie,
+damit sie Männern gefällt,
+die oft schmutzig und verächtlich sind\.
+Und sie legt ihr einen Schmuck an,
+wie ihn die draußen haben wollen:
+schändlich und ehrlos,
+nicht so,
+wie ihn der Vater will\.
+Komm also,
+richten wir unsere Worte an diese Leute;
+und nehmen wir an,
+es werde reichlich Barmherzigkeit geübt,
+um sie der Menge öffentlich vorzuführen\.
+Also führt die Ruhmsucht sie zuerst aus dem Gemach des Vaters hinaus\.
+Und während der Vater befiehlt,
+sie solle nicht einmal der linken Hand sichtbar werden,
+zeigt jene sie den Sklaven,
+den zufällig Vorbeikommenden und denen,
+die sie nicht einmal kennen\.
+Siehst du die Hure und Kupplerin,
+die sie in Begierde nach verkehrten Menschen stürzt,
+damit sie sich so zurechtmachen lässt,
+wie jene es befehlen?
+Willst du sehen,
+wie sie eine solche Seele nicht nur zur Hure macht,
+sondern auch wahnsinnig?
+Dann betrachte ihre Gesinnung genau:
+Wenn sie den Himmel preisgibt und hinter entlaufenen Sklaven und Hausknechten herläuft,
+durch Straßen und enge Gassen die verfolgt,
+die sie hassen,
+die Schändlichen und Hässlichen,
+die sie nicht einmal ansehen wollen,
+die sie hassen,
+eben weil sie in Leidenschaft für sie brennt:
+Was könnte wahnsinniger sein als das?
+Denn niemanden hasst die Menge so sehr wie die,
+die nach Ruhm von ihr betteln\.
+Sie flechten ja tausend Anklagen gegen sie zusammen,
+und es geschieht dasselbe,
+als würde jemand eine Jungfrau,
+die Tochter eines Königs,
+vom königlichen Thron herunterholen und ihr befehlen,
+sich Gladiatoren preiszugeben,
+Männern,
+die sie verachten\.
+Je mehr du also solchen Menschen nachläufst,
+desto mehr wenden sie sich von dir ab;
+Gott aber zieht dich umso mehr an sich,
+lobt dich und gibt dir reichen Lohn,
+wenn du den Ruhm von ihm suchst\.
+Willst du ihren Schaden auch noch von einer anderen Seite her erkennen,
+dann überlege,
+wenn du zur Selbstdarstellung und aus Geltungssucht gibst,
+wie viel Schmerz danach über dich kommt und wie unaufhörlich die Niedergeschlagenheit ist,
+wenn Christus dir in den Ohren klingt und sagt:
+„Du hast deinen ganzen Lohn verloren\.“
+Denn überall ist Ruhmsucht ein Übel,
+am meisten aber,
+wenn sie aus Menschenfreundlichkeit entsteht;
+denn es ist äußerste Roheit,
+fremdes Unglück zur Schau zu stellen und die Armen damit beinahe zu verhöhnen\.
+Wenn es schon Verhöhnen ist,
+von den eigenen Wohltaten zu sprechen,
+was meinst du dann,
+was es ist,
+diese auch noch vor viele andere hinauszutragen?
+Wie werden wir also diesem schlimmen Übel entkommen?
+Wenn wir lernen,
+barmherzig zu sein;
+wenn wir sehen,
+wessen Ruhm wir suchen\.
+Sag mir doch:
+Wer ist der Meister der Barmherzigkeit?
+Offenkundig Gott,
+der uns diese Praxis gezeigt hat,
+der sie mehr als alle kennt und sie in unendlichem Maß handhabt\.
+Was nun?
+Wenn du Ringer werden lernst,
+auf wen schaust du,
+oder wem zeigst du dich in der Ringschule?
+Dem Gemüseverkäufer und dem Fischhändler,
+oder dem Ringmeister?
+Und doch sind jene viele,
+dieser aber nur einer\.
+Was also,
+wenn jener dich bewundert und andere dich auslachen?
+Wirst nicht auch du zusammen mit ihm über sie lachen?
+Und was,
+wenn du boxen lernst?
+Wirst du nicht ebenso auf den schauen,
+der diese Kunst zu lehren weiß?
+Wenn du aber Redekunst betreibst,
+wirst du nicht das Lob des Redners annehmen und die anderen gering achten?
+Wie ist es also nicht widersinnig,
+bei den anderen Künsten nur auf den Lehrer zu schauen,
+hier aber das Gegenteil zu tun?
+Und doch ist der Schaden nicht gleich\.
+Denn dort,
+wenn du so ringst,
+wie es der Menge richtig scheint,
+und nicht so,
+wie es dem Lehrer richtig scheint,
+liegt der Schaden im Ringkampf;
+hier aber im ewigen Leben\.
+Bist du Gott darin ähnlich geworden,
+dass du barmherzig bist?
+Dann werde ihm auch darin ähnlich,
+dass du dich nicht zur Schau stellst\.
+Denn auch er sagte,
+wenn er heilte,
+sie sollten es niemandem sagen\.
+Aber du willst bei den Menschen barmherzig genannt werden?
+Und was ist der Gewinn?
+Gewinn gibt es keinen,
+der Schaden aber ist unermesslich\.
+Denn eben die,
+die du zu Zeugen rufst,
+werden zu Räubern der Schätze im Himmel\.
+Vielmehr nicht sie,
+sondern wir selbst,
+die wir unser Eigenes plündern und verstreuen,
+was droben liegt\.
+O welch neues Unglück,
+welch seltsame Leidenschaft\!
+Wo keine Motte vernichtet und kein Dieb einbricht,
+dort verstreut die Ruhmsucht\.
+Sie ist die Motte jener Schätze;
+sie ist der Dieb des Reichtums im Himmel;
+sie zieht den unangreifbaren Besitz heimlich fort\.
+Sie beschädigt und verdirbt alles\.
+Denn als der Teufel sah,
+dass jener Ort weder Räubern noch Wurm noch den anderen Anschlägen zugänglich ist,
+zieht er durch die Ruhmsucht den Reichtum heimlich fort\.

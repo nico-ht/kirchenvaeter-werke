@@ -7,9 +7,173 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/36-homilie-ueber-matthaeus#kapitel-d51258cb-844a-42f4-5ae6-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:9d2f5ba7c61b9429729560b01126fd6df7e64070bdf8abaa319dc8ddbf5e6de4`
-
-Führen wir also solche altweiberhaften Lehrsätze und jüdischen Mythen nicht länger ein\. Höre doch, was Paulus darüber sagt: „Alle nämlich, die ohne Gesetz gesündigt haben, werden auch ohne Gesetz verloren gehen[^bible-d98c872a-f069-4ee3-a904-e64c60a8ca18]“, wobei er von denen in der Zeit vor dem Gesetz spricht; „und alle, die im Gesetz gesündigt haben, werden durch das Gesetz gerichtet werden[^bible-d98c872a-f069-4ee3-a904-e64c60a8ca18]“, wobei er von allen nach Mose spricht; und: „Denn Gottes Zorn wird vom Himmel her offenbar über alle Gottlosigkeit und Ungerechtigkeit der Menschen[^bible-d371653f-6062-4e53-8312-4a542549697b]“; und: „Grimm und Zorn, Bedrängnis und Enge über jede Menschenseele, die das Böse tut, zuerst über den Juden und auch über den Griechen[^bible-5e8784c4-119f-4c77-aca2-a0f19b5219c6]\.“ Und doch haben die Griechen hier unzählige Übel erlitten; das bezeugen sowohl die Geschichtswerke der Außenstehenden als auch unsere Schriften\. Denn wer könnte die Tragödien der Babylonier erzählen oder die der Ägypter? Dass aber auch diejenigen, die Christus vor seiner leiblichen Ankunft nicht kannten, sich jedoch vom Götzendienst abwandten, Gott allein anbeteten und eine hervorragende Lebensführung erwiesen, alle Güter genießen werden, höre, was er sagt: „Herrlichkeit aber und Ehre und Frieden jedem, der das Gute wirkt, zuerst dem Juden und auch dem Griechen[^bible-8639d8b8-a1c4-4ced-90a8-dbb6481af02b]\.“ Siehst du, dass es für diese viele Belohnungen für Gutes gibt, für die aber, die das Gegenteil getan haben, wiederum Strafen und Ahndungen? Wo sind also die, die der Gehenna keinen Glauben schenken? Denn wenn die vor der Ankunft Christi, die nicht einmal den Namen Gehenna und auch nichts von Auferstehung gehört hatten, hier bestraft wurden und auch dort Strafe zahlen werden, wie viel mehr wir, die wir mit so vielen Worten der Philosophie genährt worden sind? Und wie ist es vernünftig, sagt man, dass diejenigen, die nichts von der Gehenna gehört haben, in die Gehenna fallen? Denn sie werden sagen: „Wenn du mit der Gehenna gedroht hättest, hätten wir uns eher gefürchtet und uns besonnen\.“ Ganz gewiss, nicht wahr? So wie wir jetzt leben: Wir hören jeden Tag die Worte über die Gehenna und achten überhaupt nicht darauf\. Abgesehen davon kann man auch dies sagen: Wer sich durch die Strafen, die ihm unmittelbar vor Augen stehen, nicht zurückhalten lässt, wird sich noch viel weniger durch jene zurückhalten lassen\. Denn die Unvernünftigeren und gröber Gesinnten bringt eher das zur Besinnung, was greifbar vor ihnen liegt und sofort geschehen wird, als das, was erst nach langen Zeiten eintreten wird\. „Aber über uns“, sagt man, „hängt eine größere Furcht, und gerade darin sind jene benachteiligt\.“ Keineswegs\. Denn erstens stehen uns und jenen nicht dieselben Kampfaufgaben bevor, sondern uns viel größere\. Wer aber größere Mühen auf sich genommen hat, musste auch größere Hilfe erhalten\. Und keine geringe Hilfe ist es, dass die Furcht gesteigert wurde\. Wenn wir ihnen darin voraus sind, dass wir das Künftige kennen, so sind auch jene uns darin voraus, dass ihnen die Strafen sofort und mit großer Härte auferlegt wurden\. Aber die Vielen sagen auch dazu noch etwas anderes\. „Wo bleibt denn“, sagt man, „Gottes Gerechtigkeit, wenn einer hier sündigt und hier wie dort bestraft wird?“ Wollt ihr nun, dass ich euch an eure eigenen Worte erinnere, damit ihr uns keine weiteren Schwierigkeiten bereitet, sondern die Lösung aus eurem eigenen Hause mitbringt? Ich habe viele von unseren Leuten gehört, die, wenn sie einmal erfuhren, dass ein Mörder vor Gericht hingerichtet worden war, unwillig wurden und diese Worte sagten: „Dieser unreine und verfluchte Mensch hat dreißig Morde gewagt, oder noch viel mehr, und selbst nur einen einzigen Tod erlitten\. Wo bleibt da die Gerechtigkeit?“ Also gesteht ihr selbst ein, dass ein einziger Tod zur Strafe nicht ausreicht\. Wie kommt ihr dann jetzt zum gegenteiligen Urteil? Weil ihr nicht über andere richtet, sondern über euch selbst\. So sehr wird die Eigenliebe zum Hindernis, das Gerechte im Ganzen zu sehen\. Darum prüfen wir, wenn wir über andere urteilen, alles genau; wenn wir aber über uns selbst richten, sind wir verfinstert\. Wenn wir diese Dinge auch bei uns selbst so prüfen würden wie bei den anderen, würden wir ein unbestechliches Urteil fällen\. Denn auch wir haben Sünden, die nicht zwei oder drei, sondern unzählige Tode verdienen\. Und um alles andere beiseitezulassen: Erinnern wir uns, wie viele von uns unwürdig an den Geheimnissen teilnehmen; solche aber sind schuldig am Leib und am Blut Christi[^bible-ef333643-5e6b-4188-9ce4-874ae4647cca]\. Wenn du also vom Mörder sprichst, dann rechne auch dich selbst dazu\. Denn jener hat einen Menschen getötet; du aber trägst Schuld am Opfertod des Herrn\. Und jener tat es, ohne an den Geheimnissen teilzuhaben; wir aber tun es, während wir den heiligen Tisch genießen\. Was ist mit denen, die ihre Brüder beißen und auffressen und viel Gift verspritzen? Was ist mit dem, der den Armen die Nahrung wegnimmt? Denn wenn schon der, der nichts abgibt, so ist, um wie viel mehr der, der fremdes Gut nimmt\. Um wie viele Räuber sind die Habgierigen schlimmer? Um wie viele Mörder die Gewalttäter? Um wie viele Grabschänder? Wie viele sind nach dem Ausplündern auch noch gierig nach Blut? „Fort damit, das soll nicht geschehen“, sagt man\. Jetzt sagst du: „Das soll nicht geschehen\.“ Wenn du einen Feind hast, dann sag: „Das soll nicht geschehen“, und erinnere dich an das Gesagte; zeige ein Leben, das von großer Sorgfalt erfüllt ist, damit uns nicht auch das Schicksal Sodoms erwartet, damit wir nicht erleiden, was Gomorra erlitt, damit wir nicht die Übel von Tyrus und Sidon ertragen müssen\. Mehr noch: damit wir uns nicht an Christus vergehen; denn das ist schwerer als alles\. Denn auch wenn vielen die Gehenna furchtbar zu sein scheint, werde ich doch nicht aufhören, beständig zu rufen, dass dies schwerer und furchtbarer ist als jede Gehenna; und ich bitte euch, ebenso gesinnt zu sein\. Denn so werden wir auch der Gehenna entkommen und die Herrlichkeit von Christus her genießen\. Mögen wir alle sie erlangen durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus; ihm sei die Herrlichkeit und die Macht in alle Ewigkeit\. Amen\.
+Führen wir also solche altweiberhaften Lehrsätze und jüdischen Mythen nicht länger ein\.
+Höre doch,
+was Paulus darüber sagt:
+„Alle nämlich,
+die ohne Gesetz gesündigt haben,
+werden auch ohne Gesetz verloren gehen[^bible-d98c872a-f069-4ee3-a904-e64c60a8ca18]“,
+wobei er von denen in der Zeit vor dem Gesetz spricht;
+„und alle,
+die im Gesetz gesündigt haben,
+werden durch das Gesetz gerichtet werden[^bible-d98c872a-f069-4ee3-a904-e64c60a8ca18]“,
+wobei er von allen nach Mose spricht;
+und:
+„Denn Gottes Zorn wird vom Himmel her offenbar über alle Gottlosigkeit und Ungerechtigkeit der Menschen[^bible-d371653f-6062-4e53-8312-4a542549697b]“;
+und:
+„Grimm und Zorn,
+Bedrängnis und Enge über jede Menschenseele,
+die das Böse tut,
+zuerst über den Juden und auch über den Griechen[^bible-5e8784c4-119f-4c77-aca2-a0f19b5219c6]\.“
+Und doch haben die Griechen hier unzählige Übel erlitten;
+das bezeugen sowohl die Geschichtswerke der Außenstehenden als auch unsere Schriften\.
+Denn wer könnte die Tragödien der Babylonier erzählen oder die der Ägypter?
+Dass aber auch diejenigen,
+die Christus vor seiner leiblichen Ankunft nicht kannten,
+sich jedoch vom Götzendienst abwandten,
+Gott allein anbeteten und eine hervorragende Lebensführung erwiesen,
+alle Güter genießen werden,
+höre,
+was er sagt:
+„Herrlichkeit aber und Ehre und Frieden jedem,
+der das Gute wirkt,
+zuerst dem Juden und auch dem Griechen[^bible-8639d8b8-a1c4-4ced-90a8-dbb6481af02b]\.“
+Siehst du,
+dass es für diese viele Belohnungen für Gutes gibt,
+für die aber,
+die das Gegenteil getan haben,
+wiederum Strafen und Ahndungen?
+Wo sind also die,
+die der Gehenna keinen Glauben schenken?
+Denn wenn die vor der Ankunft Christi,
+die nicht einmal den Namen Gehenna und auch nichts von Auferstehung gehört hatten,
+hier bestraft wurden und auch dort Strafe zahlen werden,
+wie viel mehr wir,
+die wir mit so vielen Worten der Philosophie genährt worden sind?
+Und wie ist es vernünftig,
+sagt man,
+dass diejenigen,
+die nichts von der Gehenna gehört haben,
+in die Gehenna fallen?
+Denn sie werden sagen:
+„Wenn du mit der Gehenna gedroht hättest,
+hätten wir uns eher gefürchtet und uns besonnen\.“
+Ganz gewiss,
+nicht wahr?
+So wie wir jetzt leben:
+Wir hören jeden Tag die Worte über die Gehenna und achten überhaupt nicht darauf\.
+Abgesehen davon kann man auch dies sagen:
+Wer sich durch die Strafen,
+die ihm unmittelbar vor Augen stehen,
+nicht zurückhalten lässt,
+wird sich noch viel weniger durch jene zurückhalten lassen\.
+Denn die Unvernünftigeren und gröber Gesinnten bringt eher das zur Besinnung,
+was greifbar vor ihnen liegt und sofort geschehen wird,
+als das,
+was erst nach langen Zeiten eintreten wird\.
+„Aber über uns“,
+sagt man,
+„hängt eine größere Furcht,
+und gerade darin sind jene benachteiligt\.“
+Keineswegs\.
+Denn erstens stehen uns und jenen nicht dieselben Kampfaufgaben bevor,
+sondern uns viel größere\.
+Wer aber größere Mühen auf sich genommen hat,
+musste auch größere Hilfe erhalten\.
+Und keine geringe Hilfe ist es,
+dass die Furcht gesteigert wurde\.
+Wenn wir ihnen darin voraus sind,
+dass wir das Künftige kennen,
+so sind auch jene uns darin voraus,
+dass ihnen die Strafen sofort und mit großer Härte auferlegt wurden\.
+Aber die Vielen sagen auch dazu noch etwas anderes\.
+„Wo bleibt denn“,
+sagt man,
+„Gottes Gerechtigkeit,
+wenn einer hier sündigt und hier wie dort bestraft wird?“
+Wollt ihr nun,
+dass ich euch an eure eigenen Worte erinnere,
+damit ihr uns keine weiteren Schwierigkeiten bereitet,
+sondern die Lösung aus eurem eigenen Hause mitbringt?
+Ich habe viele von unseren Leuten gehört,
+die,
+wenn sie einmal erfuhren,
+dass ein Mörder vor Gericht hingerichtet worden war,
+unwillig wurden und diese Worte sagten:
+„Dieser unreine und verfluchte Mensch hat dreißig Morde gewagt,
+oder noch viel mehr,
+und selbst nur einen einzigen Tod erlitten\.
+Wo bleibt da die Gerechtigkeit?“
+Also gesteht ihr selbst ein,
+dass ein einziger Tod zur Strafe nicht ausreicht\.
+Wie kommt ihr dann jetzt zum gegenteiligen Urteil?
+Weil ihr nicht über andere richtet,
+sondern über euch selbst\.
+So sehr wird die Eigenliebe zum Hindernis,
+das Gerechte im Ganzen zu sehen\.
+Darum prüfen wir,
+wenn wir über andere urteilen,
+alles genau;
+wenn wir aber über uns selbst richten,
+sind wir verfinstert\.
+Wenn wir diese Dinge auch bei uns selbst so prüfen würden wie bei den anderen,
+würden wir ein unbestechliches Urteil fällen\.
+Denn auch wir haben Sünden,
+die nicht zwei oder drei,
+sondern unzählige Tode verdienen\.
+Und um alles andere beiseitezulassen:
+Erinnern wir uns,
+wie viele von uns unwürdig an den Geheimnissen teilnehmen;
+solche aber sind schuldig am Leib und am Blut Christi[^bible-ef333643-5e6b-4188-9ce4-874ae4647cca]\.
+Wenn du also vom Mörder sprichst,
+dann rechne auch dich selbst dazu\.
+Denn jener hat einen Menschen getötet;
+du aber trägst Schuld am Opfertod des Herrn\.
+Und jener tat es,
+ohne an den Geheimnissen teilzuhaben;
+wir aber tun es,
+während wir den heiligen Tisch genießen\.
+Was ist mit denen,
+die ihre Brüder beißen und auffressen und viel Gift verspritzen?
+Was ist mit dem,
+der den Armen die Nahrung wegnimmt?
+Denn wenn schon der,
+der nichts abgibt,
+so ist,
+um wie viel mehr der,
+der fremdes Gut nimmt\.
+Um wie viele Räuber sind die Habgierigen schlimmer?
+Um wie viele Mörder die Gewalttäter?
+Um wie viele Grabschänder?
+Wie viele sind nach dem Ausplündern auch noch gierig nach Blut?
+„Fort damit,
+das soll nicht geschehen“,
+sagt man\.
+Jetzt sagst du:
+„Das soll nicht geschehen\.“
+Wenn du einen Feind hast,
+dann sag:
+„Das soll nicht geschehen“,
+und erinnere dich an das Gesagte;
+zeige ein Leben,
+das von großer Sorgfalt erfüllt ist,
+damit uns nicht auch das Schicksal Sodoms erwartet,
+damit wir nicht erleiden,
+was Gomorra erlitt,
+damit wir nicht die Übel von Tyrus und Sidon ertragen müssen\.
+Mehr noch:
+damit wir uns nicht an Christus vergehen;
+denn das ist schwerer als alles\.
+Denn auch wenn vielen die Gehenna furchtbar zu sein scheint,
+werde ich doch nicht aufhören,
+beständig zu rufen,
+dass dies schwerer und furchtbarer ist als jede Gehenna;
+und ich bitte euch,
+ebenso gesinnt zu sein\.
+Denn so werden wir auch der Gehenna entkommen und die Herrlichkeit von Christus her genießen\.
+Mögen wir alle sie erlangen durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus;
+ihm sei die Herrlichkeit und die Macht in alle Ewigkeit\.
+Amen\.
 
 ## Bibelverweise
 

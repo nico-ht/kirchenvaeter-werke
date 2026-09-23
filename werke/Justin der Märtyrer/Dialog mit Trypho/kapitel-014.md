@@ -7,13 +7,98 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-9b2e2429-fea8-434a-6828-08de0b689c61).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:790d0c6ac486d87a132532a4ca07327cebfb2c4d0a08e492073ffe00e3418683`
+So ist es,
+dass wir durch die Taufe der Umkehr und die Erkenntnis Gottes gläubig geworden sind,
+die wegen der Sünden des Volkes Gottes eingesetzt wurde,
+wie Jesaja bezeugt,
+und wir erkennen,
+dass eben jene Taufe,
+die er angekündigt hat und die allein die Bußfertigen reinigt,
+das Wasser des Lebens ist\.
+„Die Brunnen,
+die ihr euch gegraben habt,
+sind zerbrochen und nutzlos\.“[^bible-dc66e3eb-e7a5-4888-9fa6-0cc2c9ccf033]
+Denn was taugt eine Taufe,
+die nur den Körper,
+das Fleisch reinigt?
+Wascht eure Seelen von Zorn,
+Habsucht,
+Eifersucht und Hass;
+dann wird der ganze Körper rein sein\.
+Das ist der Sinn des Ungesäuerten,
+nämlich dass ihr nicht die alten Taten des schlechten Sauerteigs tut\.
+Ihr hingegen versteht alles fleischlich und haltet euch für fromm,
+wenn ihr solche Handlungen vollzieht,
+selbst wenn eure Seelen von Betrug und jeder anderen Sünde erfüllt sind\.
+Daher hat Gott euch,
+nachdem ihr sieben Tage ungesäuertes Brot gegessen habt,
+befohlen,
+euch neuen Sauerteig anzusetzen,
+das heißt andere Werke zu tun und nicht eure alten sündigen zu wiederholen\.
+Um euch zu beweisen,
+dass genau dies der neue Gesetzgeber euch gebietet,
+zitiere ich nochmals die oben angeführten Stellen zusammen mit anderen,
+die ich ausgelassen habe\.
+Dies sagt Jesaja:
 
-So ist es, dass wir durch die Taufe der Umkehr und die Erkenntnis Gottes gläubig geworden sind, die wegen der Sünden des Volkes Gottes eingesetzt wurde, wie Jesaja bezeugt, und wir erkennen, dass eben jene Taufe, die er angekündigt hat und die allein die Bußfertigen reinigt, das Wasser des Lebens ist\. „Die Brunnen, die ihr euch gegraben habt, sind zerbrochen und nutzlos\.“[^bible-dc66e3eb-e7a5-4888-9fa6-0cc2c9ccf033] Denn was taugt eine Taufe, die nur den Körper, das Fleisch reinigt? Wascht eure Seelen von Zorn, Habsucht, Eifersucht und Hass; dann wird der ganze Körper rein sein\. Das ist der Sinn des Ungesäuerten, nämlich dass ihr nicht die alten Taten des schlechten Sauerteigs tut\. Ihr hingegen versteht alles fleischlich und haltet euch für fromm, wenn ihr solche Handlungen vollzieht, selbst wenn eure Seelen von Betrug und jeder anderen Sünde erfüllt sind\. Daher hat Gott euch, nachdem ihr sieben Tage ungesäuertes Brot gegessen habt, befohlen, euch neuen Sauerteig anzusetzen, das heißt andere Werke zu tun und nicht eure alten sündigen zu wiederholen\. Um euch zu beweisen, dass genau dies der neue Gesetzgeber euch gebietet, zitiere ich nochmals die oben angeführten Stellen zusammen mit anderen, die ich ausgelassen habe\. Dies sagt Jesaja:
+„Hört auf mich,
+und eure Seele wird leben;
+und ich werde mit euch einen ewigen Bund schließen,
+die sicheren Gnaden Davids\.
+Siehe,
+ich habe ihn zum Zeugen für die Völker gegeben,
+zum Führer und Gebieter der Nationen\.
+Nationen,
+die dich nicht kennen,
+werden dich anrufen,
+und ein Volk,
+das dich nicht kennt,
+wird zu dir laufen,
+um deines Gottes willen,
+des Heiligen Israels;
+denn er hat dich verherrlicht\.
+Sucht Gott,
+und wenn ihr ihn findet,
+ruft ihn an,
+solange er nahe ist\.
+Der Gottlose soll seine Wege verlassen,
+und der ungerechte Mann seine Gedanken;
+und er kehre zum Herrn zurück,
+und er wird Erbarmen haben,
+denn eure Sünden wird er reichlich vergeben\.
+Denn meine Gedanken sind nicht eure Gedanken,
+und eure Wege sind nicht meine Wege;
+sondern wie der Himmel von der Erde entfernt ist,
+so ist mein Weg weit entfernt von eurem Weg,
+und eure Gedanken von meinen Gedanken\.
+Denn wie der Schnee oder der Regen vom Himmel fällt und nicht zurückkehrt,
+bevor er die Erde bewässert und sie sprossen und knospen lässt und dem Sämann Samen gibt und dem Esser Brot,
+so wird mein Wort sein,
+das aus meinem Mund hervorgeht;
+es wird nicht zurückkehren,
+bevor es alles vollbracht hat,
+was ich wollte,
+und ich werde all meine Weisungen gelingen lassen\.“[^bible-55c35326-946f-4da4-9461-d92e52cffe5e]
 
-„Hört auf mich, und eure Seele wird leben; und ich werde mit euch einen ewigen Bund schließen, die sicheren Gnaden Davids\. Siehe, ich habe ihn zum Zeugen für die Völker gegeben, zum Führer und Gebieter der Nationen\. Nationen, die dich nicht kennen, werden dich anrufen, und ein Volk, das dich nicht kennt, wird zu dir laufen, um deines Gottes willen, des Heiligen Israels; denn er hat dich verherrlicht\. Sucht Gott, und wenn ihr ihn findet, ruft ihn an, solange er nahe ist\. Der Gottlose soll seine Wege verlassen, und der ungerechte Mann seine Gedanken; und er kehre zum Herrn zurück, und er wird Erbarmen haben, denn eure Sünden wird er reichlich vergeben\. Denn meine Gedanken sind nicht eure Gedanken, und eure Wege sind nicht meine Wege; sondern wie der Himmel von der Erde entfernt ist, so ist mein Weg weit entfernt von eurem Weg, und eure Gedanken von meinen Gedanken\. Denn wie der Schnee oder der Regen vom Himmel fällt und nicht zurückkehrt, bevor er die Erde bewässert und sie sprossen und knospen lässt und dem Sämann Samen gibt und dem Esser Brot, so wird mein Wort sein, das aus meinem Mund hervorgeht; es wird nicht zurückkehren, bevor es alles vollbracht hat, was ich wollte, und ich werde all meine Weisungen gelingen lassen\.“[^bible-55c35326-946f-4da4-9461-d92e52cffe5e]
-
-„Denn ihr werdet mit Freude hinausgehen und mit Freude unterwiesen werden; die Berge und die Hügel werden vor Freude über euch springen, und alle Bäume des Feldes werden euch mit ihren Zweigen Beifall klatschen\. Statt der Dornstaude wird die Zypresse wachsen, und statt der Nessel wird die Myrte hervorwachsen; und der Herr wird ein Name sein und ein ewiges Zeichen, und er wird nicht vergehen\.“ [^bible-3a298718-05eb-44f1-ad92-871981a6742e]„Trypho“, rief ich, „einige dieser und ähnlicher Stellen der Propheten beziehen sich auf das erste Kommen Christi, in dem er in Schmach, Vergessenheit und Sterblichkeit geschildert wird; andere hingegen spielen auf sein zweites Kommen an, wenn er in Herrlichkeit aus den Wolken erscheinen wird; und euer Volk wird den sehen und erkennen, den es gekreuzigt hat, wie Hosea, einer der zwölf Propheten, und Daniel vorausgesagt haben\.
+„Denn ihr werdet mit Freude hinausgehen und mit Freude unterwiesen werden;
+die Berge und die Hügel werden vor Freude über euch springen,
+und alle Bäume des Feldes werden euch mit ihren Zweigen Beifall klatschen\.
+Statt der Dornstaude wird die Zypresse wachsen,
+und statt der Nessel wird die Myrte hervorwachsen;
+und der Herr wird ein Name sein und ein ewiges Zeichen,
+und er wird nicht vergehen\.“
+[^bible-3a298718-05eb-44f1-ad92-871981a6742e]„Trypho“,
+rief ich,
+„einige dieser und ähnlicher Stellen der Propheten beziehen sich auf das erste Kommen Christi,
+in dem er in Schmach,
+Vergessenheit und Sterblichkeit geschildert wird;
+andere hingegen spielen auf sein zweites Kommen an,
+wenn er in Herrlichkeit aus den Wolken erscheinen wird;
+und euer Volk wird den sehen und erkennen,
+den es gekreuzigt hat,
+wie Hosea,
+einer der zwölf Propheten,
+und Daniel vorausgesagt haben\.
 
 ## Bibelverweise
 

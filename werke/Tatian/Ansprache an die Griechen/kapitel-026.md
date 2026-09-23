@@ -7,6 +7,77 @@ Autor: Tatian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tatian/ansprache-an-die-griechen#kapitel-66848518-72c9-4ca0-3d8e-08ded167f699).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:745069c183d1c46d3cbbeebf9e9db45331536a7510b0b28c863e8ec82545955e`
-
-Hört auf, mit Aussprüchen zu prahlen, die ihr von anderen übernommen habt, und euch wie die Dohle mit fremden Federn zu schmücken\. Würde jede Stadt ihren Beitrag zu eurer Sprache zurücknehmen, verlören eure Trugschlüsse ihre Kraft\. Ihr fragt, was Gott ist, wisst aber nicht, was in euch selbst vorgeht; mit offenem Mund starrt ihr zum Himmel und stürzt dabei in Abgründe\. Die Lektüre eurer Bücher gleicht dem Gang durch ein Labyrinth, und ihre Leser gleichen dem Fass der Danaiden\. Warum teilt ihr die Zeit und sagt, ein Teil sei vergangen, ein anderer gegenwärtig und ein weiterer zukünftig? Denn wie kann das Zukünftige zur Vergangenheit werden, solange das Gegenwärtige besteht? Wenn ein Schiff dahinfährt, bilden sich die Menschen an Bord in ihrer Unwissenheit ein, die Berge bewegten sich\. Ebenso erkennt ihr nicht, dass ihr es seid, die vorüberziehen, während die Zeit in der Gegenwart verharrt, solange der Schöpfer will, dass sie besteht\. Warum werde ich dafür zur Rechenschaft gezogen, dass ich meine Auffassungen äußere, und warum seid ihr so eifrig darauf bedacht, sie alle zu Fall zu bringen? Seid ihr nicht auf dieselbe Weise geboren wie wir und derselben Weltordnung unterstellt? Warum behauptet ihr, allein die Weisheit zu besitzen? Ihr habt doch keine andere Sonne, keinen anderen Aufgang der Sterne, keine vornehmere Herkunft und keinen Tod, der dem anderer Menschen vorzuziehen wäre\. Von den Grammatikern nahm dieses leere Gerede seinen Anfang\. Ihr aber, die ihr die Weisheit in Teile zerlegt, seid von der Weisheit abgeschnitten, die der Wahrheit entspricht, und weist die Namen der einzelnen Teile bestimmten Menschen zu\. Gott kennt ihr nicht, und in euren erbitterten Auseinandersetzungen richtet ihr einander zugrunde\. Darum seid ihr allesamt nichts wert\. Ihr maßt euch das alleinige Recht an, das Wort zu führen, doch euer Gespräch gleicht dem eines Blinden mit einem Tauben\. Warum nehmt ihr das Werkzeug eines Baumeisters zur Hand, ohne zu wissen, wie man baut? Warum befasst ihr euch mit Worten, während ihr euch von Taten fernhaltet, vom Lob aufgeblasen, vom Unglück aber niedergeschlagen? Euer Verhalten widerspricht der Vernunft: In der Öffentlichkeit tretet ihr mit großem Pomp auf, eure Lehren aber versteckt ihr in Winkeln\. Seit wir erkannt haben, was für Menschen ihr seid, haben wir euch verlassen; wir kümmern uns nicht länger um eure Lehrmeinungen, sondern folgen dem Wort Gottes\. O Mensch, warum hetzt du die Buchstaben des Alphabets gegeneinander auf? Warum lässt du ihre Laute wie in einem Faustkampf aufeinanderprallen und sprichst dabei in deinem gezierten Attisch, obwohl du dich beim Sprechen stärker nach der Natur richten solltest? Wenn du dir die attische Mundart aneignest, obwohl du kein Athener bist, warum sprichst du dann nicht wie die Dorer? Warum erscheint dir die eine rauer, die andere aber angenehmer für das Gespräch?
+Hört auf,
+mit Aussprüchen zu prahlen,
+die ihr von anderen übernommen habt,
+und euch wie die Dohle mit fremden Federn zu schmücken\.
+Würde jede Stadt ihren Beitrag zu eurer Sprache zurücknehmen,
+verlören eure Trugschlüsse ihre Kraft\.
+Ihr fragt,
+was Gott ist,
+wisst aber nicht,
+was in euch selbst vorgeht;
+mit offenem Mund starrt ihr zum Himmel und stürzt dabei in Abgründe\.
+Die Lektüre eurer Bücher gleicht dem Gang durch ein Labyrinth,
+und ihre Leser gleichen dem Fass der Danaiden\.
+Warum teilt ihr die Zeit und sagt,
+ein Teil sei vergangen,
+ein anderer gegenwärtig und ein weiterer zukünftig?
+Denn wie kann das Zukünftige zur Vergangenheit werden,
+solange das Gegenwärtige besteht?
+Wenn ein Schiff dahinfährt,
+bilden sich die Menschen an Bord in ihrer Unwissenheit ein,
+die Berge bewegten sich\.
+Ebenso erkennt ihr nicht,
+dass ihr es seid,
+die vorüberziehen,
+während die Zeit in der Gegenwart verharrt,
+solange der Schöpfer will,
+dass sie besteht\.
+Warum werde ich dafür zur Rechenschaft gezogen,
+dass ich meine Auffassungen äußere,
+und warum seid ihr so eifrig darauf bedacht,
+sie alle zu Fall zu bringen?
+Seid ihr nicht auf dieselbe Weise geboren wie wir und derselben Weltordnung unterstellt?
+Warum behauptet ihr,
+allein die Weisheit zu besitzen?
+Ihr habt doch keine andere Sonne,
+keinen anderen Aufgang der Sterne,
+keine vornehmere Herkunft und keinen Tod,
+der dem anderer Menschen vorzuziehen wäre\.
+Von den Grammatikern nahm dieses leere Gerede seinen Anfang\.
+Ihr aber,
+die ihr die Weisheit in Teile zerlegt,
+seid von der Weisheit abgeschnitten,
+die der Wahrheit entspricht,
+und weist die Namen der einzelnen Teile bestimmten Menschen zu\.
+Gott kennt ihr nicht,
+und in euren erbitterten Auseinandersetzungen richtet ihr einander zugrunde\.
+Darum seid ihr allesamt nichts wert\.
+Ihr maßt euch das alleinige Recht an,
+das Wort zu führen,
+doch euer Gespräch gleicht dem eines Blinden mit einem Tauben\.
+Warum nehmt ihr das Werkzeug eines Baumeisters zur Hand,
+ohne zu wissen,
+wie man baut?
+Warum befasst ihr euch mit Worten,
+während ihr euch von Taten fernhaltet,
+vom Lob aufgeblasen,
+vom Unglück aber niedergeschlagen?
+Euer Verhalten widerspricht der Vernunft:
+In der Öffentlichkeit tretet ihr mit großem Pomp auf,
+eure Lehren aber versteckt ihr in Winkeln\.
+Seit wir erkannt haben,
+was für Menschen ihr seid,
+haben wir euch verlassen;
+wir kümmern uns nicht länger um eure Lehrmeinungen,
+sondern folgen dem Wort Gottes\.
+O Mensch,
+warum hetzt du die Buchstaben des Alphabets gegeneinander auf?
+Warum lässt du ihre Laute wie in einem Faustkampf aufeinanderprallen und sprichst dabei in deinem gezierten Attisch,
+obwohl du dich beim Sprechen stärker nach der Natur richten solltest?
+Wenn du dir die attische Mundart aneignest,
+obwohl du kein Athener bist,
+warum sprichst du dann nicht wie die Dorer?
+Warum erscheint dir die eine rauer,
+die andere aber angenehmer für das Gespräch?

@@ -7,9 +7,134 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/31-homilie-ueber-matthaeus#kapitel-7953a349-5527-4059-5ac9-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:63c0e834967f7d43c2bb452148934008cb00060dc632baa9a54b3d3d74afa31f`
-
-Aber selbst so erscheint dir das Geschehene noch unerträglich? Gerade deshalb ist es nicht recht, ihn zu betrauern; denn er ist vielen solchen Nöten entronnen\. Beneide ihn also nicht, und missgönne es ihm nicht\. Denn wenn du dir wegen seines frühen Todes den Tod wünschst, ihn aber zugleich betrauerst, weil er nicht weitergelebt hat, um noch vieles dergleichen zu erdulden, dann ist das eher Sache eines Neidischen, der es ihm nicht gönnt\. Denk also nicht daran, dass er nicht mehr ins Haus zurückkehren wird, sondern daran, dass auch du wenig später zu ihm gehen wirst\. Rechne nicht damit, dass er nicht mehr hierher zurückkommt, sondern damit, dass nicht einmal diese sichtbaren Dinge so bleiben, wie sie sind; auch sie werden verwandelt\. Denn auch Himmel, Erde, Meer und alles werden neu gefügt, und dann wirst du dein Kind mit größerer Herrlichkeit wiedererhalten\. Wenn er als Sünder fortging, dann hat das Böse aufgehört; denn Gott hätte ihn nicht vor der Umkehr hinweggerafft, wenn er gewusst hätte, dass er sich ändern würde\. Wenn er aber als Gerechter sein Leben beschloss, besitzt er das Gute in Sicherheit\. Daraus ist klar: Deine Tränen kommen nicht aus Liebe, sondern aus unvernünftiger Leidenschaft\. Denn wenn du den Fortgegangenen geliebt hättest, müsstest du dich freuen und froh sein, dass er den gegenwärtigen Wogen entkommen ist\. Was ist denn der Gewinn? Sag mir: Was ist daran fremd und neu? Sehen wir nicht Tag für Tag dasselbe wiederkehren? Tag und Nacht, Nacht und Tag; Winter und Sommer, Sommer und Winter, und weiter nichts\. Das bleibt immer dasselbe; die Übel aber sind fremd und immer wieder neuer\. Wolltest du also, dass er dies Tag für Tag durchstehen müsste, hier bleibt, krank ist, trauert, sich fürchtet und zittert, manche der schweren Dinge erduldet und vor anderen Angst hat, die er vielleicht nie erdulden muss? Auch das könntest du ja nicht sagen: dass er, wenn er dieses lange Meer weiter befahren hätte, von Mutlosigkeit, Sorgen und allem dergleichen hätte frei bleiben können\. Bedenke dazu auch dies: Du hast keinen Unsterblichen geboren; und wenn er nicht jetzt gestorben wäre, hätte er das wenig später erdulden müssen\. Aber du bist seiner nicht satt geworden? Doch du wirst ihn dort ganz gewiss genießen\. Aber du verlangst danach, ihn auch hier zu sehen? Und was hindert dich daran? Denn auch hier ist es möglich, wenn du nüchtern bist; die Hoffnung auf das Kommende ist deutlicher als jedes Sehen\. Wäre er in einem Königspalast gewesen, hättest du nie danach verlangt, ihn zu sehen, wenn du gehört hättest, dass es ihm gut geht\. Nun aber siehst du, dass er zu viel Besserem fortgezogen ist, und wegen einer kurzen Zeit verlierst du den Mut, obwohl du statt seiner den hast, der bei dir wohnt\. Aber du hast keinen Mann? Doch du hast Trost: den Vater der Waisen und Richter der Witwen\. Höre auch Paulus, wie er diese Witwenschaft glücklich preist und sagt: „Die aber wirklich Witwe und allein gelassen ist, hat auf den Herrn gehofft\.[^bible-2495a08e-2578-4882-aead-a39d39a97458]“ Denn eine solche wird umso angesehener erscheinen, weil sie umso größere Geduld zeigt\. Trauere also nicht über das, wofür du gekrönt wirst, über das, wofür du Lohn verlangen darfst\. Denn du hast das anvertraute Gut zurückgegeben, wenn du das, was dir anvertraut war, vor Gott gestellt hast\. Sorge dich fortan nicht mehr, nachdem du dein Eigentum in einem Schatz niedergelegt hast, den niemand rauben kann\. Wenn du auch noch erkennst, was das gegenwärtige Leben ist und was das künftige Leben, und dass dieses hier Spinnwebe und Schatten ist, dort aber alles unbeweglich und unsterblich, wirst du keine weiteren Worte mehr brauchen\. Denn jetzt ist das Kind jeder Veränderung entnommen; wäre es aber hier geblieben, wäre es vielleicht gut geblieben, vielleicht aber auch nicht so\. Oder siehst du nicht, wie viele ihre eigenen Kinder verstoßen? Wie viele gezwungen sind, andere zu Hause zu behalten, die schlimmer sind als die Verstoßenen? Wenn wir all das bedenken, wollen wir besonnen werden\. Denn so werden wir auch dem Verstorbenen einen Gefallen tun, von vielen Menschen Lob empfangen, von Gott den großen Lohn der Geduld erhalten und die ewigen Güter erlangen\. Möge es uns allen zuteilwerden, sie zu erlangen, durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus; ihm sei die Herrlichkeit und die Macht in alle Ewigkeit\. Amen\.
+Aber selbst so erscheint dir das Geschehene noch unerträglich?
+Gerade deshalb ist es nicht recht,
+ihn zu betrauern;
+denn er ist vielen solchen Nöten entronnen\.
+Beneide ihn also nicht,
+und missgönne es ihm nicht\.
+Denn wenn du dir wegen seines frühen Todes den Tod wünschst,
+ihn aber zugleich betrauerst,
+weil er nicht weitergelebt hat,
+um noch vieles dergleichen zu erdulden,
+dann ist das eher Sache eines Neidischen,
+der es ihm nicht gönnt\.
+Denk also nicht daran,
+dass er nicht mehr ins Haus zurückkehren wird,
+sondern daran,
+dass auch du wenig später zu ihm gehen wirst\.
+Rechne nicht damit,
+dass er nicht mehr hierher zurückkommt,
+sondern damit,
+dass nicht einmal diese sichtbaren Dinge so bleiben,
+wie sie sind;
+auch sie werden verwandelt\.
+Denn auch Himmel,
+Erde,
+Meer und alles werden neu gefügt,
+und dann wirst du dein Kind mit größerer Herrlichkeit wiedererhalten\.
+Wenn er als Sünder fortging,
+dann hat das Böse aufgehört;
+denn Gott hätte ihn nicht vor der Umkehr hinweggerafft,
+wenn er gewusst hätte,
+dass er sich ändern würde\.
+Wenn er aber als Gerechter sein Leben beschloss,
+besitzt er das Gute in Sicherheit\.
+Daraus ist klar:
+Deine Tränen kommen nicht aus Liebe,
+sondern aus unvernünftiger Leidenschaft\.
+Denn wenn du den Fortgegangenen geliebt hättest,
+müsstest du dich freuen und froh sein,
+dass er den gegenwärtigen Wogen entkommen ist\.
+Was ist denn der Gewinn?
+Sag mir:
+Was ist daran fremd und neu?
+Sehen wir nicht Tag für Tag dasselbe wiederkehren?
+Tag und Nacht,
+Nacht und Tag;
+Winter und Sommer,
+Sommer und Winter,
+und weiter nichts\.
+Das bleibt immer dasselbe;
+die Übel aber sind fremd und immer wieder neuer\.
+Wolltest du also,
+dass er dies Tag für Tag durchstehen müsste,
+hier bleibt,
+krank ist,
+trauert,
+sich fürchtet und zittert,
+manche der schweren Dinge erduldet und vor anderen Angst hat,
+die er vielleicht nie erdulden muss?
+Auch das könntest du ja nicht sagen:
+dass er,
+wenn er dieses lange Meer weiter befahren hätte,
+von Mutlosigkeit,
+Sorgen und allem dergleichen hätte frei bleiben können\.
+Bedenke dazu auch dies:
+Du hast keinen Unsterblichen geboren;
+und wenn er nicht jetzt gestorben wäre,
+hätte er das wenig später erdulden müssen\.
+Aber du bist seiner nicht satt geworden?
+Doch du wirst ihn dort ganz gewiss genießen\.
+Aber du verlangst danach,
+ihn auch hier zu sehen?
+Und was hindert dich daran?
+Denn auch hier ist es möglich,
+wenn du nüchtern bist;
+die Hoffnung auf das Kommende ist deutlicher als jedes Sehen\.
+Wäre er in einem Königspalast gewesen,
+hättest du nie danach verlangt,
+ihn zu sehen,
+wenn du gehört hättest,
+dass es ihm gut geht\.
+Nun aber siehst du,
+dass er zu viel Besserem fortgezogen ist,
+und wegen einer kurzen Zeit verlierst du den Mut,
+obwohl du statt seiner den hast,
+der bei dir wohnt\.
+Aber du hast keinen Mann?
+Doch du hast Trost:
+den Vater der Waisen und Richter der Witwen\.
+Höre auch Paulus,
+wie er diese Witwenschaft glücklich preist und sagt:
+„Die aber wirklich Witwe und allein gelassen ist,
+hat auf den Herrn gehofft\.[^bible-2495a08e-2578-4882-aead-a39d39a97458]“ Denn eine solche wird umso angesehener erscheinen,
+weil sie umso größere Geduld zeigt\.
+Trauere also nicht über das,
+wofür du gekrönt wirst,
+über das,
+wofür du Lohn verlangen darfst\.
+Denn du hast das anvertraute Gut zurückgegeben,
+wenn du das,
+was dir anvertraut war,
+vor Gott gestellt hast\.
+Sorge dich fortan nicht mehr,
+nachdem du dein Eigentum in einem Schatz niedergelegt hast,
+den niemand rauben kann\.
+Wenn du auch noch erkennst,
+was das gegenwärtige Leben ist und was das künftige Leben,
+und dass dieses hier Spinnwebe und Schatten ist,
+dort aber alles unbeweglich und unsterblich,
+wirst du keine weiteren Worte mehr brauchen\.
+Denn jetzt ist das Kind jeder Veränderung entnommen;
+wäre es aber hier geblieben,
+wäre es vielleicht gut geblieben,
+vielleicht aber auch nicht so\.
+Oder siehst du nicht,
+wie viele ihre eigenen Kinder verstoßen?
+Wie viele gezwungen sind,
+andere zu Hause zu behalten,
+die schlimmer sind als die Verstoßenen?
+Wenn wir all das bedenken,
+wollen wir besonnen werden\.
+Denn so werden wir auch dem Verstorbenen einen Gefallen tun,
+von vielen Menschen Lob empfangen,
+von Gott den großen Lohn der Geduld erhalten und die ewigen Güter erlangen\.
+Möge es uns allen zuteilwerden,
+sie zu erlangen,
+durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus;
+ihm sei die Herrlichkeit und die Macht in alle Ewigkeit\.
+Amen\.
 
 ## Bibelverweise
 

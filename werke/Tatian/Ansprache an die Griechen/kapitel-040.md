@@ -7,6 +7,28 @@ Autor: Tatian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tatian/ansprache-an-die-griechen#kapitel-9fdb0ed6-c76d-40c6-3d9c-08ded167f699).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:09b05fcd3278d9aef5411fab5929e9338a2fcbfd34dab6c5afd97ee80f3b9f89`
-
-Aus dem Gesagten geht also hervor, dass Mose älter war als die Helden, Kriege und Dämonen der Vorzeit\. Daher sollten wir eher ihm glauben, der ihnen allen zeitlich vorausging, als den Griechen, die seine Lehren, ohne es zu wissen, wie aus einer Quelle schöpften\. Denn viele ihrer Sophisten ließen sich von ihrer Neugier treiben und versuchten, alles zu verfälschen, was sie von Mose und von denen gelernt hatten, die ähnlich wie er philosophierten: zum einen, um den Eindruck zu erwecken, sie hätten etwas Eigenes vorzuweisen, zum anderen, um das, was sie nicht verstanden, mit einem gewissen rhetorischen Kunstgriff zu verhüllen und so die Wahrheit zu entstellen, als wäre sie eine Fabel\. Was aber die Gelehrten unter den Griechen über unsere Staatsordnung und die Geschichte unserer Gesetze gesagt haben, wie viele Männer darüber geschrieben haben und welcher Art sie waren, wird in der Abhandlung gegen diejenigen gezeigt werden, die über göttliche Dinge gesprochen haben\.
+Aus dem Gesagten geht also hervor,
+dass Mose älter war als die Helden,
+Kriege und Dämonen der Vorzeit\.
+Daher sollten wir eher ihm glauben,
+der ihnen allen zeitlich vorausging,
+als den Griechen,
+die seine Lehren,
+ohne es zu wissen,
+wie aus einer Quelle schöpften\.
+Denn viele ihrer Sophisten ließen sich von ihrer Neugier treiben und versuchten,
+alles zu verfälschen,
+was sie von Mose und von denen gelernt hatten,
+die ähnlich wie er philosophierten:
+zum einen,
+um den Eindruck zu erwecken,
+sie hätten etwas Eigenes vorzuweisen,
+zum anderen,
+um das,
+was sie nicht verstanden,
+mit einem gewissen rhetorischen Kunstgriff zu verhüllen und so die Wahrheit zu entstellen,
+als wäre sie eine Fabel\.
+Was aber die Gelehrten unter den Griechen über unsere Staatsordnung und die Geschichte unserer Gesetze gesagt haben,
+wie viele Männer darüber geschrieben haben und welcher Art sie waren,
+wird in der Abhandlung gegen diejenigen gezeigt werden,
+die über göttliche Dinge gesprochen haben\.

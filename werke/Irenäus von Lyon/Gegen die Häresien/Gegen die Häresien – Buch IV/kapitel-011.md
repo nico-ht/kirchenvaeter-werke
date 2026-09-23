@@ -7,15 +7,163 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-iv#kapitel-a75b0c82-e4c3-48c9-0385-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ed12e39d066f9cf2782a5033e9f24fa9e80b7d3dd4bd284027357b3ac4b6dafc`
+Dass nicht nur die Propheten und viele Gerechte durch den Heiligen Geist sein künftiges Kommen voraussahen und darum beteten,
+jene Zeit zu erreichen,
+in der sie ihren Herrn von Angesicht zu Angesicht sehen und seine Worte hören würden,
+hat der Herr selbst deutlich gemacht,
+als er zu seinen Jüngern sagte:
+„Viele Propheten und Gerechte haben begehrt zu sehen,
+was ihr seht,
+und haben es nicht gesehen,
+und zu hören,
+was ihr hört,
+und haben es nicht gehört\.[^bible-e05b7259-ab2c-4049-a9aa-e596b3c0757b]“Auf welche Weise also begehrten sie beides,
+zu hören und zu sehen,
+wenn sie nicht im Voraus von seinem künftigen Kommen wussten?
+Wie aber hätten sie es im Voraus wissen können,
+wenn sie dieses Vorauswissen nicht zuvor von ihm selbst empfangen hätten?
+Und wie bezeugen die Schriften ihn,
+wenn nicht allen Glaubenden von jeher alles durch ein und denselben Gott,
+durch das Wort,
+offenbart und gezeigt worden ist:
+indem er bald mit seinem Geschöpf Zwiesprache hält,
+bald sein Gesetz vorlegt;
+bald wieder zurechtweist,
+bald ermahnt;
+dann seinen Knecht freisetzt und ihn als Sohn annimmt und ihm zur rechten Zeit ein unvergängliches Erbe schenkt,
+um den Menschen zur Vollendung zu führen?
+Denn er formte ihn für Wachstum und Mehrung,
+wie die Schrift sagt:
+„Wachst und mehrt euch\.[^bible-0a13f2c3-7ac0-44fc-a933-b325636c41ec]“
 
-Dass nicht nur die Propheten und viele Gerechte durch den Heiligen Geist sein künftiges Kommen voraussahen und darum beteten, jene Zeit zu erreichen, in der sie ihren Herrn von Angesicht zu Angesicht sehen und seine Worte hören würden, hat der Herr selbst deutlich gemacht, als er zu seinen Jüngern sagte: „Viele Propheten und Gerechte haben begehrt zu sehen, was ihr seht, und haben es nicht gesehen, und zu hören, was ihr hört, und haben es nicht gehört\.[^bible-e05b7259-ab2c-4049-a9aa-e596b3c0757b]“Auf welche Weise also begehrten sie beides, zu hören und zu sehen, wenn sie nicht im Voraus von seinem künftigen Kommen wussten? Wie aber hätten sie es im Voraus wissen können, wenn sie dieses Vorauswissen nicht zuvor von ihm selbst empfangen hätten? Und wie bezeugen die Schriften ihn, wenn nicht allen Glaubenden von jeher alles durch ein und denselben Gott, durch das Wort, offenbart und gezeigt worden ist: indem er bald mit seinem Geschöpf Zwiesprache hält, bald sein Gesetz vorlegt; bald wieder zurechtweist, bald ermahnt; dann seinen Knecht freisetzt und ihn als Sohn annimmt und ihm zur rechten Zeit ein unvergängliches Erbe schenkt, um den Menschen zur Vollendung zu führen? Denn er formte ihn für Wachstum und Mehrung, wie die Schrift sagt: „Wachst und mehrt euch\.[^bible-0a13f2c3-7ac0-44fc-a933-b325636c41ec]“
+Und darin unterscheidet sich Gott vom Menschen:
+Gott macht,
+der Mensch aber wird gemacht\.
+Wahrhaftig,
+der,
+der macht,
+ist immer derselbe;
+was aber gemacht wird,
+muss Anfang,
+Mitte,
+Hinzufügung und Wachstum empfangen\.
+Gott schafft wirklich kunstvoll;
+der Mensch hingegen wird kunstvoll geschaffen\.
+Auch ist Gott wahrhaftig in allem vollkommen,
+sich selbst gleich und ähnlich,
+denn er ist ganz Licht,
+ganz Vernunft,
+ganz Substanz und die Quelle alles Guten\.
+Der Mensch aber empfängt Fortschritt und Wachstum auf Gott hin\.
+Denn wie Gott immer derselbe ist,
+so wird auch der Mensch,
+wenn er in Gott gefunden wird,
+immer weiter auf Gott zugehen\.
+Denn weder hört Gott je auf,
+dem Menschen Gutes zu schenken und ihn reich zu machen,
+noch hört der Mensch je auf,
+die Gaben zu empfangen und von Gott reich gemacht zu werden\.
+Denn das Gefäß seiner Güte und das Werkzeug seiner Verherrlichung ist der Mensch,
+der dem dankbar ist,
+der ihn gemacht hat;
+und wiederum ist das Gefäß seines gerechten Gerichts der undankbare Mensch,
+der seinen Schöpfer verachtet und sich seinem Wort nicht unterwirft\.
+Er hat verheißen,
+dass er denen sehr viel geben wird,
+die immer Frucht bringen,
+und noch mehr denen,
+die das Geld des Herrn besitzen\.
+„Recht so,
+du guter und treuer Knecht:
+Weil du im Kleinen treu gewesen bist,
+werde ich dich über vieles setzen;
+geh ein in die Freude deines Herrn\.[^bible-231f03f6-ffbb-40aa-90f6-82c60e0ffb96]“ So verheißt der Herr selbst sehr viel\.
 
-Und darin unterscheidet sich Gott vom Menschen: Gott macht, der Mensch aber wird gemacht\. Wahrhaftig, der, der macht, ist immer derselbe; was aber gemacht wird, muss Anfang, Mitte, Hinzufügung und Wachstum empfangen\. Gott schafft wirklich kunstvoll; der Mensch hingegen wird kunstvoll geschaffen\. Auch ist Gott wahrhaftig in allem vollkommen, sich selbst gleich und ähnlich, denn er ist ganz Licht, ganz Vernunft, ganz Substanz und die Quelle alles Guten\. Der Mensch aber empfängt Fortschritt und Wachstum auf Gott hin\. Denn wie Gott immer derselbe ist, so wird auch der Mensch, wenn er in Gott gefunden wird, immer weiter auf Gott zugehen\. Denn weder hört Gott je auf, dem Menschen Gutes zu schenken und ihn reich zu machen, noch hört der Mensch je auf, die Gaben zu empfangen und von Gott reich gemacht zu werden\. Denn das Gefäß seiner Güte und das Werkzeug seiner Verherrlichung ist der Mensch, der dem dankbar ist, der ihn gemacht hat; und wiederum ist das Gefäß seines gerechten Gerichts der undankbare Mensch, der seinen Schöpfer verachtet und sich seinem Wort nicht unterwirft\. Er hat verheißen, dass er denen sehr viel geben wird, die immer Frucht bringen, und noch mehr denen, die das Geld des Herrn besitzen\. „Recht so, du guter und treuer Knecht: Weil du im Kleinen treu gewesen bist, werde ich dich über vieles setzen; geh ein in die Freude deines Herrn\.[^bible-231f03f6-ffbb-40aa-90f6-82c60e0ffb96]“ So verheißt der Herr selbst sehr viel\.
+Da er also verheißen hat,
+denen,
+die jetzt Frucht bringen,
+sehr viel zu geben,
+nach dem Geschenk seiner Gnade,
+nicht aber nach der Wandelbarkeit der „Erkenntnis“,
+denn der Herr bleibt derselbe,
+und derselbe Vater wird offenbart,
+darum hat der eine und selbe Herr durch seine Ankunft denen der späteren Zeit ein größeres Geschenk der Gnade gewährt als denen unter der Ordnung des Alten Testaments\.
+Denn jene hörten durch seine Diener,
+dass der König kommen werde,
+und sie freuten sich in gewissem Maß,
+weil sie auf sein Kommen hofften\.
+Die aber,
+die ihn wirklich gegenwärtig gesehen,
+Freiheit erlangt und Anteil an seinen Gaben erhalten haben,
+besitzen ein größeres Maß an Gnade und eine höhere Freude,
+weil sie sich über die Ankunft des Königs freuen,
+wie auch David sagt:
+„Meine Seele wird sich im Herrn freuen;
+sie wird froh sein über sein Heil[^bible-5b9c69e4-e91b-44ae-9495-44be52b0b8fc]\.“
+Und deshalb erkannten bei seinem Einzug in Jerusalem alle,
+die auf dem Weg waren,
+David,
+ihren König,
+in seiner Seelennot;
+sie breiteten ihre Kleider für ihn aus,
+schmückten den Weg mit grünen Zweigen und riefen mit großer Freude und Fröhlichkeit:
+„Hosanna dem Sohn Davids;
+gesegnet ist,
+der kommt im Namen des Herrn:
+Hosanna in der Höhe[^bible-ac7b69ba-415c-41db-b797-fcb5f2039183]\.“
+Den neidischen,
+bösen Verwaltern aber,
+die ihre Untergebenen überlisteten und über Menschen herrschten,
+die nicht viel Einsicht hatten,
+und deshalb nicht wollten,
+dass der König komme,
+und zu ihm sagten:
+„Hörst du,
+was diese sagen?[^bible-f10c27d1-4437-41e7-be59-28cae9ae724e]“,
+antwortete der Herr:
+„Habt ihr niemals gelesen:
+Aus dem Mund von Kindern und Säuglingen hast du Lob vollendet[^bible-f10c27d1-4437-41e7-be59-28cae9ae724e]?“
+Damit zeigte er,
+dass sich in seiner eigenen Person erfüllte,
+was David über den Sohn Gottes erklärt hatte;
+und er machte deutlich,
+dass sie den Sinn der Schrift und die Ordnung Gottes tatsächlich nicht kannten\.
+Zugleich erklärte er,
+dass er selbst es ist,
+der von den Propheten als Christus angekündigt wurde,
+dessen Name auf der ganzen Erde gepriesen wird und der aus dem Mund von Kindern und Säuglingen seinem Vater Lob vollendet[^bible-1ac3fc02-6bdd-476e-84b9-2b9a86918cda];
+darum ist auch seine Herrlichkeit über die Himmel erhoben[^bible-2646ef4a-c077-4ad1-b0c3-24127e8d1770]\.
 
-Da er also verheißen hat, denen, die jetzt Frucht bringen, sehr viel zu geben, nach dem Geschenk seiner Gnade, nicht aber nach der Wandelbarkeit der „Erkenntnis“, denn der Herr bleibt derselbe, und derselbe Vater wird offenbart, darum hat der eine und selbe Herr durch seine Ankunft denen der späteren Zeit ein größeres Geschenk der Gnade gewährt als denen unter der Ordnung des Alten Testaments\. Denn jene hörten durch seine Diener, dass der König kommen werde, und sie freuten sich in gewissem Maß, weil sie auf sein Kommen hofften\. Die aber, die ihn wirklich gegenwärtig gesehen, Freiheit erlangt und Anteil an seinen Gaben erhalten haben, besitzen ein größeres Maß an Gnade und eine höhere Freude, weil sie sich über die Ankunft des Königs freuen, wie auch David sagt: „Meine Seele wird sich im Herrn freuen; sie wird froh sein über sein Heil[^bible-5b9c69e4-e91b-44ae-9495-44be52b0b8fc]\.“ Und deshalb erkannten bei seinem Einzug in Jerusalem alle, die auf dem Weg waren, David, ihren König, in seiner Seelennot; sie breiteten ihre Kleider für ihn aus, schmückten den Weg mit grünen Zweigen und riefen mit großer Freude und Fröhlichkeit: „Hosanna dem Sohn Davids; gesegnet ist, der kommt im Namen des Herrn: Hosanna in der Höhe[^bible-ac7b69ba-415c-41db-b797-fcb5f2039183]\.“ Den neidischen, bösen Verwaltern aber, die ihre Untergebenen überlisteten und über Menschen herrschten, die nicht viel Einsicht hatten, und deshalb nicht wollten, dass der König komme, und zu ihm sagten: „Hörst du, was diese sagen?[^bible-f10c27d1-4437-41e7-be59-28cae9ae724e]“, antwortete der Herr: „Habt ihr niemals gelesen: Aus dem Mund von Kindern und Säuglingen hast du Lob vollendet[^bible-f10c27d1-4437-41e7-be59-28cae9ae724e]?“ Damit zeigte er, dass sich in seiner eigenen Person erfüllte, was David über den Sohn Gottes erklärt hatte; und er machte deutlich, dass sie den Sinn der Schrift und die Ordnung Gottes tatsächlich nicht kannten\. Zugleich erklärte er, dass er selbst es ist, der von den Propheten als Christus angekündigt wurde, dessen Name auf der ganzen Erde gepriesen wird und der aus dem Mund von Kindern und Säuglingen seinem Vater Lob vollendet[^bible-1ac3fc02-6bdd-476e-84b9-2b9a86918cda]; darum ist auch seine Herrlichkeit über die Himmel erhoben[^bible-2646ef4a-c077-4ad1-b0c3-24127e8d1770]\.
-
-Wenn also derselbe gegenwärtig ist, der von den Propheten angekündigt wurde, unser Herr Jesus Christus, und wenn seine Ankunft denen, die ihn aufgenommen haben, ein reicheres Maß an Gnade und größere Gaben gebracht hat, dann ist klar: Auch der Vater ist derselbe, der von den Propheten verkündigt wurde, und der Sohn hat bei seinem Kommen nicht die Erkenntnis eines anderen Vaters verbreitet, sondern die Erkenntnis desselben, der von Anfang an gepredigt wurde\. Von ihm hat er auch die Freiheit herabgebracht für die, die ihm rechtmäßig, mit bereitwilligem Sinn und mit ganzem Herzen dienen\. Den Spöttern aber und denen, die Gott nicht untertan sind, sondern um des Lobes der Menschen willen äußeren Reinigungen folgen, obwohl diese Vorschriften als Vorausbild künftiger Dinge gegeben waren, indem das Gesetz gewissermaßen manches im Schatten vorausbildete und Ewiges durch Zeitliches, Himmlisches durch Irdisches vorzeichnete, und denen, die vorgeben, mehr zu halten, als vorgeschrieben ist, als zögen sie ihren eigenen Eifer Gott selbst vor, während sie innerlich voll Heuchelei, Habgier und aller Bosheit sind, hat er ewiges Verderben bestimmt, indem er sie vom Leben abschneidet\.
+Wenn also derselbe gegenwärtig ist,
+der von den Propheten angekündigt wurde,
+unser Herr Jesus Christus,
+und wenn seine Ankunft denen,
+die ihn aufgenommen haben,
+ein reicheres Maß an Gnade und größere Gaben gebracht hat,
+dann ist klar:
+Auch der Vater ist derselbe,
+der von den Propheten verkündigt wurde,
+und der Sohn hat bei seinem Kommen nicht die Erkenntnis eines anderen Vaters verbreitet,
+sondern die Erkenntnis desselben,
+der von Anfang an gepredigt wurde\.
+Von ihm hat er auch die Freiheit herabgebracht für die,
+die ihm rechtmäßig,
+mit bereitwilligem Sinn und mit ganzem Herzen dienen\.
+Den Spöttern aber und denen,
+die Gott nicht untertan sind,
+sondern um des Lobes der Menschen willen äußeren Reinigungen folgen,
+obwohl diese Vorschriften als Vorausbild künftiger Dinge gegeben waren,
+indem das Gesetz gewissermaßen manches im Schatten vorausbildete und Ewiges durch Zeitliches,
+Himmlisches durch Irdisches vorzeichnete,
+und denen,
+die vorgeben,
+mehr zu halten,
+als vorgeschrieben ist,
+als zögen sie ihren eigenen Eifer Gott selbst vor,
+während sie innerlich voll Heuchelei,
+Habgier und aller Bosheit sind,
+hat er ewiges Verderben bestimmt,
+indem er sie vom Leben abschneidet\.
 
 ## Bibelverweise
 

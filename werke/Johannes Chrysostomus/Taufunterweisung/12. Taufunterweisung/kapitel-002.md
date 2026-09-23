@@ -7,6 +7,15 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/12-taufunterweisung#kapitel-e8ba5d84-b9a6-471c-a919-08de0016b13a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:744a78698c244b768832a4a516c05167008d82ccc9dcbf1d298cb19d3d4f9982`
-
-Wundert euch nicht, wenn ich schon nach zehn Tagen komme, um die Früchte der Saat einzufordern, die ich ausgesät habe\. Denn es ist möglich, an einem einzigen Tag sowohl den Samen zu säen als auch die Ernte einzubringen, weil wir zum Kampf gerufen sind – nicht gestützt auf unsere eigene Kraft, sondern auf die Kraft, die uns dank der Hilfe Gottes zukommt\. Alle, die meine Worte aufgenommen und in die Tat umgesetzt haben, sollen weiter vorwärtsstreben\.
+Wundert euch nicht,
+wenn ich schon nach zehn Tagen komme,
+um die Früchte der Saat einzufordern,
+die ich ausgesät habe\.
+Denn es ist möglich,
+an einem einzigen Tag sowohl den Samen zu säen als auch die Ernte einzubringen,
+weil wir zum Kampf gerufen sind – nicht gestützt auf unsere eigene Kraft,
+sondern auf die Kraft,
+die uns dank der Hilfe Gottes zukommt\.
+Alle,
+die meine Worte aufgenommen und in die Tat umgesetzt haben,
+sollen weiter vorwärtsstreben\.

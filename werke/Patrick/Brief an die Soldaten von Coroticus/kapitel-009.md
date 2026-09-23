@@ -7,9 +7,22 @@ Autor: Patrick
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/patrick/brief-an-die-soldaten-von-coroticus#kapitel-2d226719-8618-40c7-550a-08de2c22a191).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:cc3f3f8de2be1cc1e20aa2ffebd9e126617310a4c7197aa2e0611d2f935f01f3`
-
-Es würde lange dauern, alles einzeln zu erörtern oder aufzuzählen und aus dem ganzen Gesetz zusammenzutragen, was über eine solche Habgier gesagt ist\. Habgier ist ein tödliches Verbrechen\. „Begehre nicht, was deinem Nächsten gehört; du sollst nicht töten\.“[^bible-f706ccdd-8974-40ed-b593-e0b5692875cb] Der Mörder kann keinen Anteil an Christus haben\. Denn: „Wer seinen Bruder hasst, ist ein Mörder; und wer seinen Bruder nicht liebt, bleibt im Tod,“ [^bible-3209bcdf-0046-45e0-8121-8b11cd7225ac]wie viel schuldiger ist dann der, der seine Hände mit dem Blut der Kinder Gottes befleckt hat, die Gott erst vor kurzer Zeit an den fernsten Enden der Erde durch das Wirken eines so Unbedeutenden wie mir für sich gewonnen hat\!
+Es würde lange dauern,
+alles einzeln zu erörtern oder aufzuzählen und aus dem ganzen Gesetz zusammenzutragen,
+was über eine solche Habgier gesagt ist\.
+Habgier ist ein tödliches Verbrechen\.
+„Begehre nicht,
+was deinem Nächsten gehört;
+du sollst nicht töten\.“[^bible-f706ccdd-8974-40ed-b593-e0b5692875cb]
+Der Mörder kann keinen Anteil an Christus haben\.
+Denn:
+„Wer seinen Bruder hasst,
+ist ein Mörder;
+und wer seinen Bruder nicht liebt,
+bleibt im Tod,“
+[^bible-3209bcdf-0046-45e0-8121-8b11cd7225ac]wie viel schuldiger ist dann der,
+der seine Hände mit dem Blut der Kinder Gottes befleckt hat,
+die Gott erst vor kurzer Zeit an den fernsten Enden der Erde durch das Wirken eines so Unbedeutenden wie mir für sich gewonnen hat\!
 
 ## Bibelverweise
 

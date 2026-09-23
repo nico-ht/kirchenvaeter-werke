@@ -7,9 +7,91 @@ Autor: Athanasius
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/das-leben-des-heiligen-antonius#kapitel-47c35517-c234-4b26-7493-08dd3ee82ebf).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:4c3f9a05f69a21a9c532caf20cc93cbc956e91ca6d1b6aaa1bb61f5acaceda84`
-
-Nach einigen Tagen ging er wieder in den Berg\. Von da an suchten viele bei ihm Zuflucht, und andere, die litten, wagten es, zu ihm zu kommen\. Allen Mönchen, die zu ihm kamen, gab er fortwährend diese Anweisung: „Glaubt an den Herrn und liebt Ihn; haltet euch fern von schmutzigen Gedanken und fleischlichen Vergnügungen, und wie es in den Sprüchen geschrieben steht, lasst euch nicht täuschen „durch die Fülle des Bauches\.“ Betet unablässig; meidet Eitelkeit; singt Psalme vor dem Schlafengehen und beim Erwachen; haltet die Gebote der Schrift in eurem Herzen; denkt an die Werke der Heiligen, damit eure Seelen, die an die Gebote erinnert werden, in Einklang mit dem Eifer der Heiligen gebracht werden\. Besonders riet er ihnen, fortwährend über das Wort des Apostels nachzudenken: „Lass die Sonne nicht über deinem Zorn untergehen\.“[^bible-f3c562aa-c6ae-4a97-9941-68d75e850d99] Er betrachtete dies als eine allgemeine Mahnung für alle Gebote und dass nicht nur über den Zorn, sondern über keine andere Sünde von uns sollte die Sonne untergehen\. Denn es ist gut und notwendig, dass uns weder die Sonne am Tag für ein Übel noch der Mond in der Nacht für eine Sünde oder sogar für einen bösen Gedanken verurteilt\. Damit dieser Zustand in uns bewahrt bleibt, ist es gut, den Apostel zu hören und seine Worte zu befolgen, denn er sagt: „Prüft euch selbst und stellt euch auf die Probe\.“[^bible-4d38da11-1656-4834-bfd5-1950bbb51652] Daher soll jeder täglich die Bilanz seiner Taten sowohl am Tag als auch in der Nacht ziehen; und wenn er gesündigt hat, soll er damit aufhören; wenn er jedoch nicht gesündigt hat, soll er nicht überheblich sein\. Vielmehr soll er in dem Guten verweilen, ohne nachlässig zu sein, seine Nachbarn nicht zu verurteilen und sich nicht selbst zu rechtfertigen, „bis der Herr kommt, der die verborgenen Dinge erforscht,“[^bible-2c0d8c37-2fa3-4a3b-a80d-bd12feb62899] wie der selige Apostel Paulus sagt\. Denn oft tun wir unbewusst Dinge, die wir nicht wissen; aber der Herr sieht alle Dinge\. Daher, indem wir das Urteil Ihm überlassen, lasst uns einander Mitgefühl zeigen\. „Lasst uns die Lasten des anderen tragen,“[^bible-479a16b9-91f2-471e-b8fd-047998dc059f] aber lasst uns unsere eigenen prüfen und eilen, das zu vervollständigen, was uns fehlt\. Und als Schutz gegen die Sünde soll Folgendes beachtet werden: Jeder soll seine Taten und die Regungen seiner Seele notieren und aufschreiben, als ob wir sie einander mitteilen wollten\. Und seid euch sicher, dass wir, wenn wir uns schämen würden, sie bekannt zu machen, von der Sünde absehen und keine niederträchtigen Gedanken in unserem Geist hegen werden\. Denn wer möchte beim Sündigen gesehen werden? Oder wer wird nicht eher nach der Begehung einer Sünde lügen, um unbemerkt zu bleiben? So wie wir, während wir einander betrachten, keine fleischliche Sünde begehen würden, so werden wir, wenn wir unsere Gedanken aufzeichnen, als ob wir sie einander mitteilen wollten, uns leichter von niederträchtigen Gedanken fernhalten, aus Scham, dass sie bekannt werden könnten\. Daher soll das, was geschrieben steht, für uns anstelle der Augen unserer Mit\-Einsiedler sein, damit wir, so beschämt wie beim Schreiben, als wären wir ertappt worden, niemals an das Unanständige denken\. Indem wir uns so formen, werden wir in der Lage sein, den Körper zu beherrschen, dem Herrn zu gefallen und die Machenschaften des Feindes zu zertreten\.“
+Nach einigen Tagen ging er wieder in den Berg\.
+Von da an suchten viele bei ihm Zuflucht,
+und andere,
+die litten,
+wagten es,
+zu ihm zu kommen\.
+Allen Mönchen,
+die zu ihm kamen,
+gab er fortwährend diese Anweisung:
+„Glaubt an den Herrn und liebt Ihn;
+haltet euch fern von schmutzigen Gedanken und fleischlichen Vergnügungen,
+und wie es in den Sprüchen geschrieben steht,
+lasst euch nicht täuschen „durch die Fülle des Bauches\.“
+Betet unablässig;
+meidet Eitelkeit;
+singt Psalme vor dem Schlafengehen und beim Erwachen;
+haltet die Gebote der Schrift in eurem Herzen;
+denkt an die Werke der Heiligen,
+damit eure Seelen,
+die an die Gebote erinnert werden,
+in Einklang mit dem Eifer der Heiligen gebracht werden\.
+Besonders riet er ihnen,
+fortwährend über das Wort des Apostels nachzudenken:
+„Lass die Sonne nicht über deinem Zorn untergehen\.“[^bible-f3c562aa-c6ae-4a97-9941-68d75e850d99]
+Er betrachtete dies als eine allgemeine Mahnung für alle Gebote und dass nicht nur über den Zorn,
+sondern über keine andere Sünde von uns sollte die Sonne untergehen\.
+Denn es ist gut und notwendig,
+dass uns weder die Sonne am Tag für ein Übel noch der Mond in der Nacht für eine Sünde oder sogar für einen bösen Gedanken verurteilt\.
+Damit dieser Zustand in uns bewahrt bleibt,
+ist es gut,
+den Apostel zu hören und seine Worte zu befolgen,
+denn er sagt:
+„Prüft euch selbst und stellt euch auf die Probe\.“[^bible-4d38da11-1656-4834-bfd5-1950bbb51652]
+Daher soll jeder täglich die Bilanz seiner Taten sowohl am Tag als auch in der Nacht ziehen;
+und wenn er gesündigt hat,
+soll er damit aufhören;
+wenn er jedoch nicht gesündigt hat,
+soll er nicht überheblich sein\.
+Vielmehr soll er in dem Guten verweilen,
+ohne nachlässig zu sein,
+seine Nachbarn nicht zu verurteilen und sich nicht selbst zu rechtfertigen,
+„bis der Herr kommt,
+der die verborgenen Dinge erforscht,“[^bible-2c0d8c37-2fa3-4a3b-a80d-bd12feb62899]
+wie der selige Apostel Paulus sagt\.
+Denn oft tun wir unbewusst Dinge,
+die wir nicht wissen;
+aber der Herr sieht alle Dinge\.
+Daher,
+indem wir das Urteil Ihm überlassen,
+lasst uns einander Mitgefühl zeigen\.
+„Lasst uns die Lasten des anderen tragen,“[^bible-479a16b9-91f2-471e-b8fd-047998dc059f]
+aber lasst uns unsere eigenen prüfen und eilen,
+das zu vervollständigen,
+was uns fehlt\.
+Und als Schutz gegen die Sünde soll Folgendes beachtet werden:
+Jeder soll seine Taten und die Regungen seiner Seele notieren und aufschreiben,
+als ob wir sie einander mitteilen wollten\.
+Und seid euch sicher,
+dass wir,
+wenn wir uns schämen würden,
+sie bekannt zu machen,
+von der Sünde absehen und keine niederträchtigen Gedanken in unserem Geist hegen werden\.
+Denn wer möchte beim Sündigen gesehen werden?
+Oder wer wird nicht eher nach der Begehung einer Sünde lügen,
+um unbemerkt zu bleiben?
+So wie wir,
+während wir einander betrachten,
+keine fleischliche Sünde begehen würden,
+so werden wir,
+wenn wir unsere Gedanken aufzeichnen,
+als ob wir sie einander mitteilen wollten,
+uns leichter von niederträchtigen Gedanken fernhalten,
+aus Scham,
+dass sie bekannt werden könnten\.
+Daher soll das,
+was geschrieben steht,
+für uns anstelle der Augen unserer Mit\-Einsiedler sein,
+damit wir,
+so beschämt wie beim Schreiben,
+als wären wir ertappt worden,
+niemals an das Unanständige denken\.
+Indem wir uns so formen,
+werden wir in der Lage sein,
+den Körper zu beherrschen,
+dem Herrn zu gefallen und die Machenschaften des Feindes zu zertreten\.“
 
 ## Bibelverweise
 

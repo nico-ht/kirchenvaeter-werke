@@ -7,9 +7,58 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/wie-man-eine-ehefrau-auswaehlt#kapitel-a73f7cb3-1ba8-4c7b-043a-08dd7d8414a1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:02d361efc481e640a9042b13039cf0735d9bb58805775d50dccb1d91f0e49a19`
-
-Es ist keine bloße Wiederholung, wenn Rebekka zweimal als Jungfrau bezeichnet wird\. Wenn Mose sagt: „Sie war eine Jungfrau,“ fügt er hinzu: „die von keinem Mann gekannt hatte\.“ Viele Jungfrauen bewahren ihre Körper unversehrt, füllen jedoch ihre Seelen mit allerlei Unzucht\. Sie schmücken sich, ziehen unzählige Bewunderer an und erregen die Blicke der jungen Männer, indem sie ihnen Fallen und Hinterhalte stellen\. Mose zeigt, dass Rebekka nicht so ein Mädchen war, sondern sowohl im Körper als auch in der Seele eine Jungfrau: „Sie war eine Jungfrau, die von keinem Mann gekannt hatte\.“ Tatsächlich gab es viele Gründe, warum sie den Männern bekannt geworden sein könnte: Erstens die Schönheit ihres Körpers und zweitens die Art der Arbeit, die sie verrichtete\. Hätte sie die ganze Zeit in ihren Kammern gesessen, wie es die Mädchen heutzutage tun, und wäre nie auf den Marktplatz gegangen oder hätte das Haus ihres Vaters verlassen, gäbe es nicht so viel Grund, sie für ihre Unbekanntheit zu loben\. Aber sie ging auf den Marktplatz, weil sie täglich, einmal oder mehrmals, Wasser holen musste, und dennoch war sie keinem Mann bekannt\. So kannst du verstehen, warum sie besondere Anerkennung verdient\. Ein Mädchen, das selten den Marktplatz aufsucht, das eher schlicht und unattraktiv ist und von vielen Dienern begleitet wird, hat dennoch oft ihre Moral durch solche Ausflüge verloren\. Dieses Mädchen jedoch verließ jeden Tag allein das Haus ihres Vaters, und nicht nur um zum Marktplatz zu gehen, sondern auch zum Brunnen, um Wasser zu schöpfen, wo sie vielen Menschen aller Art begegnen musste\. Wie könnten wir sie nicht bewundern, da ihre Moral durch ihre ständigen Besorgungen, ihr schönes Gesicht oder die Menschenmengen, denen sie begegnete, überhaupt nicht korrumpiert wurde? Stattdessen hielt sie ihren Körper und ihre Seele rein und bewahrte ihre Keuschheit besser als jene, die in den Frauenräumen zu Hause sitzen\. Sie war das Mädchen, das Paulus suchte, dasjenige, das „heilig im Körper und im Geist“[^bible-8a6c5947-bb9d-4b3e-857b-c8500ae3b2ab] ist\.
+Es ist keine bloße Wiederholung,
+wenn Rebekka zweimal als Jungfrau bezeichnet wird\.
+Wenn Mose sagt:
+„Sie war eine Jungfrau,“
+fügt er hinzu:
+„die von keinem Mann gekannt hatte\.“
+Viele Jungfrauen bewahren ihre Körper unversehrt,
+füllen jedoch ihre Seelen mit allerlei Unzucht\.
+Sie schmücken sich,
+ziehen unzählige Bewunderer an und erregen die Blicke der jungen Männer,
+indem sie ihnen Fallen und Hinterhalte stellen\.
+Mose zeigt,
+dass Rebekka nicht so ein Mädchen war,
+sondern sowohl im Körper als auch in der Seele eine Jungfrau:
+„Sie war eine Jungfrau,
+die von keinem Mann gekannt hatte\.“
+Tatsächlich gab es viele Gründe,
+warum sie den Männern bekannt geworden sein könnte:
+Erstens die Schönheit ihres Körpers und zweitens die Art der Arbeit,
+die sie verrichtete\.
+Hätte sie die ganze Zeit in ihren Kammern gesessen,
+wie es die Mädchen heutzutage tun,
+und wäre nie auf den Marktplatz gegangen oder hätte das Haus ihres Vaters verlassen,
+gäbe es nicht so viel Grund,
+sie für ihre Unbekanntheit zu loben\.
+Aber sie ging auf den Marktplatz,
+weil sie täglich,
+einmal oder mehrmals,
+Wasser holen musste,
+und dennoch war sie keinem Mann bekannt\.
+So kannst du verstehen,
+warum sie besondere Anerkennung verdient\.
+Ein Mädchen,
+das selten den Marktplatz aufsucht,
+das eher schlicht und unattraktiv ist und von vielen Dienern begleitet wird,
+hat dennoch oft ihre Moral durch solche Ausflüge verloren\.
+Dieses Mädchen jedoch verließ jeden Tag allein das Haus ihres Vaters,
+und nicht nur um zum Marktplatz zu gehen,
+sondern auch zum Brunnen,
+um Wasser zu schöpfen,
+wo sie vielen Menschen aller Art begegnen musste\.
+Wie könnten wir sie nicht bewundern,
+da ihre Moral durch ihre ständigen Besorgungen,
+ihr schönes Gesicht oder die Menschenmengen,
+denen sie begegnete,
+überhaupt nicht korrumpiert wurde?
+Stattdessen hielt sie ihren Körper und ihre Seele rein und bewahrte ihre Keuschheit besser als jene,
+die in den Frauenräumen zu Hause sitzen\.
+Sie war das Mädchen,
+das Paulus suchte,
+dasjenige,
+das „heilig im Körper und im Geist“[^bible-8a6c5947-bb9d-4b3e-857b-c8500ae3b2ab] ist\.
 
 ## Bibelverweise
 

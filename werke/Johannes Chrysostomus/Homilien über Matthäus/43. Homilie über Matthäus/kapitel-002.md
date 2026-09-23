@@ -7,9 +7,146 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/43-homilie-ueber-matthaeus#kapitel-a33de52d-d91c-4783-5b04-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7a23654e9a87da9bb530d1728095e0cf90a0ae9494eab9b8324f39bc4b217244`
-
-Sieh aber, wie genau er es selbst noch in der Andeutung setzt\. Denn er sagte nicht: „In der Erde“, sondern: „Im Herzen der Erde“, damit er auch das Grab bezeichnet und niemand den Verdacht eines bloßen Scheins fasst\. Auch die drei Tage ließ er deshalb zu, damit geglaubt wird, dass er wirklich gestorben ist\. Denn dies wird nicht allein durch das Kreuz und durch den Anblick aller bestätigt, sondern auch durch die Dauer der Tage\. Für die Auferstehung sollte zwar die ganze Zeit danach Zeugnis ablegen; das Kreuz aber hätte, wenn es damals nicht viele Zeichen gehabt hätte, die für es Zeugnis ablegten, selbst keinen Glauben gefunden\. Und wäre dies nicht geglaubt worden, so hätte auch die Auferstehung keinen Glauben gefunden\. Deshalb nennt er es auch ein Zeichen\. Denn wenn er nicht gekreuzigt worden wäre, wäre das Zeichen nicht gegeben worden\. Deshalb bringt er auch das Vorausbild zur Sprache, damit die Wahrheit geglaubt wird\. Sag mir doch: War Jona im Bauch des Seeungeheuers ein Trugbild? Das könntest du nicht behaupten\. Also war auch Christus in der Mitte der Erde kein Trugbild\. Denn unmöglich kann das Vorausbild Wirklichkeit sein, die Wahrheit aber Trugbild\. Deshalb verkünden wir überall seinen Tod: in den Mysterien, in der Taufe und in allem Übrigen\. Deshalb ruft auch Paulus mit heller Stimme: „Mir aber sei es fern, mich zu rühmen, außer im Kreuz unseres Herrn Jesus Christus\.[^bible-a20744b7-f6ab-41cc-b076-bb145c709d29]“ Daraus ist klar: Kinder des Teufels sind die, die an Marcions Lehren krank sind und gerade das auslöschen, wofür Christus unzählige Dinge getan hat, damit es nicht ausgelöscht wird, und wofür der Teufel unzählige Mühen aufgewandt hat, damit es ausgelöscht wird, ich meine das Kreuz und das Leiden\. Deshalb sagte er auch anderswo: „Brecht diesen Tempel ab, und in drei Tagen werde ich ihn aufrichten\.[^bible-1df5dd22-9707-49d3-9eed-b8ae99e83fcf]“ Und: „Es werden Tage kommen, wenn der Bräutigam von ihnen weggenommen wird\.[^bible-51e21e7b-bb18-4315-a68e-74e60940f457]“ Und hier: „Ihr wird kein Zeichen gegeben werden außer dem Zeichen des Propheten Jona\.[^bible-90db2b79-741c-4b33-bf72-3cacccbbda0d]“ Damit macht er deutlich, dass er für sie leiden wird, und auch, dass sie nichts gewinnen werden; denn eben dies machte er danach deutlich\. Dennoch starb er, obwohl er auch dies wusste\. So groß war seine Fürsorge\. Damit du nämlich nicht meinst, auch das Weitere werde bei den Juden so sein wie bei den Niniviten, sie würden sich bekehren, und wie er bei jenen die erschütterte Stadt zum Stillstand brachte und die Barbaren zur Umkehr führte, so würden auch diese nach der Auferstehung umkehren, höre, wie er das ganze Gegenteil deutlich macht\. Denn dass sie daraus keinen Nutzen zu ihrer eigenen Wohltat ziehen, sondern auch Unheilbares erleiden werden, auch das machte er anschließend durch das Beispiel mit dem Dämon deutlich\. Zunächst aber rechtfertigt er, was sie später erleiden werden, und zeigt, dass sie es mit Recht erleiden\. Ihre Unglücksfälle und ihre Verödung stellt er zwar mit jenem Beispiel vor Augen; zunächst aber zeigt er, dass sie all dies mit Recht ertragen werden\. So tat er es auch im Alten Bund\. Denn als er Sodom zerstören wollte, rechtfertigte er sich zuvor vor Abraham, indem er die Verödung und den Mangel an Tugend zeigte: Nicht einmal zehn Männer fanden sich in so vielen Städten, die entschlossen waren, besonnen zu leben\. Auch Lot zeigte er ebenso ihre Feindseligkeit gegen Fremde und ihre maßlosen Begierden; dann erst brachte er das Feuer über sie\. Und bei der Flut tat er dasselbe, indem er sich durch die Taten vor Noah rechtfertigte\. Ebenso bei Hesekiel, als er ihn, während er in Babylon lebte, die schlimmen Dinge in Jerusalem sehen ließ\. Und wieder bei Jeremia, als er sagte: „Bete nicht“, sagte er zur Rechtfertigung: „Siehst du denn nicht, was diese tun?“ Überall tut er genau dies, auch hier\. Was sagt er denn? „Die Männer von Ninive werden auftreten und dieses Geschlecht verurteilen; denn sie taten Buße auf die Predigt des Jona hin; und siehe, hier ist mehr als Jona\.[^bible-2ec5d6fc-1da4-4591-8fce-03a9a17df59d]“ Denn jener war Knecht, ich aber bin Herr; jener kam aus dem Seeungeheuer heraus, ich aber bin aus dem Tod auferstanden; jener verkündete den Untergang, ich aber kam und brachte die frohe Botschaft vom Reich\. Jene glaubten ohne Zeichen, ich aber habe viele Zeichen vorgewiesen\. Jene hörten nichts weiter als jene Worte, ich aber habe jede Art von Weisheit in Bewegung gesetzt\. Jener trat als Diener auf, ich aber kam selbst als der Herr und der Herr aller, nicht drohend, nicht Rechenschaft fordernd, sondern Vergebung bringend\. Jene waren Barbaren; diese aber hatten Umgang mit unzähligen Propheten\. Über jenen hatte niemand vorhergesagt, über mich aber alle, und die Taten stimmten mit den Worten überein\. Jener floh, als er gehen sollte, damit er nicht ausgelacht würde; ich aber kam, obwohl ich wusste, dass ich gekreuzigt und ausgelacht werden würde\. Jener ertrug es nicht einmal, für die, die gerettet werden sollten, beschimpft zu werden; ich aber ertrug sogar den Tod, und zwar den schändlichsten Tod, und danach sende ich wieder andere\. Jener war ein Fremder, ein Außenstehender, ein Unbekannter; ich aber bin dem Fleisch nach verwandt und stamme von denselben Vorfahren ab\. Und noch vieles andere könnte man zusammentragen, wenn man das Überlegene suchen wollte\.
+Sieh aber,
+wie genau er es selbst noch in der Andeutung setzt\.
+Denn er sagte nicht:
+„In der Erde“,
+sondern:
+„Im Herzen der Erde“,
+damit er auch das Grab bezeichnet und niemand den Verdacht eines bloßen Scheins fasst\.
+Auch die drei Tage ließ er deshalb zu,
+damit geglaubt wird,
+dass er wirklich gestorben ist\.
+Denn dies wird nicht allein durch das Kreuz und durch den Anblick aller bestätigt,
+sondern auch durch die Dauer der Tage\.
+Für die Auferstehung sollte zwar die ganze Zeit danach Zeugnis ablegen;
+das Kreuz aber hätte,
+wenn es damals nicht viele Zeichen gehabt hätte,
+die für es Zeugnis ablegten,
+selbst keinen Glauben gefunden\.
+Und wäre dies nicht geglaubt worden,
+so hätte auch die Auferstehung keinen Glauben gefunden\.
+Deshalb nennt er es auch ein Zeichen\.
+Denn wenn er nicht gekreuzigt worden wäre,
+wäre das Zeichen nicht gegeben worden\.
+Deshalb bringt er auch das Vorausbild zur Sprache,
+damit die Wahrheit geglaubt wird\.
+Sag mir doch:
+War Jona im Bauch des Seeungeheuers ein Trugbild?
+Das könntest du nicht behaupten\.
+Also war auch Christus in der Mitte der Erde kein Trugbild\.
+Denn unmöglich kann das Vorausbild Wirklichkeit sein,
+die Wahrheit aber Trugbild\.
+Deshalb verkünden wir überall seinen Tod:
+in den Mysterien,
+in der Taufe und in allem Übrigen\.
+Deshalb ruft auch Paulus mit heller Stimme:
+„Mir aber sei es fern,
+mich zu rühmen,
+außer im Kreuz unseres Herrn Jesus Christus\.[^bible-a20744b7-f6ab-41cc-b076-bb145c709d29]“ Daraus ist klar:
+Kinder des Teufels sind die,
+die an Marcions Lehren krank sind und gerade das auslöschen,
+wofür Christus unzählige Dinge getan hat,
+damit es nicht ausgelöscht wird,
+und wofür der Teufel unzählige Mühen aufgewandt hat,
+damit es ausgelöscht wird,
+ich meine das Kreuz und das Leiden\.
+Deshalb sagte er auch anderswo:
+„Brecht diesen Tempel ab,
+und in drei Tagen werde ich ihn aufrichten\.[^bible-1df5dd22-9707-49d3-9eed-b8ae99e83fcf]“ Und:
+„Es werden Tage kommen,
+wenn der Bräutigam von ihnen weggenommen wird\.[^bible-51e21e7b-bb18-4315-a68e-74e60940f457]“ Und hier:
+„Ihr wird kein Zeichen gegeben werden außer dem Zeichen des Propheten Jona\.[^bible-90db2b79-741c-4b33-bf72-3cacccbbda0d]“ Damit macht er deutlich,
+dass er für sie leiden wird,
+und auch,
+dass sie nichts gewinnen werden;
+denn eben dies machte er danach deutlich\.
+Dennoch starb er,
+obwohl er auch dies wusste\.
+So groß war seine Fürsorge\.
+Damit du nämlich nicht meinst,
+auch das Weitere werde bei den Juden so sein wie bei den Niniviten,
+sie würden sich bekehren,
+und wie er bei jenen die erschütterte Stadt zum Stillstand brachte und die Barbaren zur Umkehr führte,
+so würden auch diese nach der Auferstehung umkehren,
+höre,
+wie er das ganze Gegenteil deutlich macht\.
+Denn dass sie daraus keinen Nutzen zu ihrer eigenen Wohltat ziehen,
+sondern auch Unheilbares erleiden werden,
+auch das machte er anschließend durch das Beispiel mit dem Dämon deutlich\.
+Zunächst aber rechtfertigt er,
+was sie später erleiden werden,
+und zeigt,
+dass sie es mit Recht erleiden\.
+Ihre Unglücksfälle und ihre Verödung stellt er zwar mit jenem Beispiel vor Augen;
+zunächst aber zeigt er,
+dass sie all dies mit Recht ertragen werden\.
+So tat er es auch im Alten Bund\.
+Denn als er Sodom zerstören wollte,
+rechtfertigte er sich zuvor vor Abraham,
+indem er die Verödung und den Mangel an Tugend zeigte:
+Nicht einmal zehn Männer fanden sich in so vielen Städten,
+die entschlossen waren,
+besonnen zu leben\.
+Auch Lot zeigte er ebenso ihre Feindseligkeit gegen Fremde und ihre maßlosen Begierden;
+dann erst brachte er das Feuer über sie\.
+Und bei der Flut tat er dasselbe,
+indem er sich durch die Taten vor Noah rechtfertigte\.
+Ebenso bei Hesekiel,
+als er ihn,
+während er in Babylon lebte,
+die schlimmen Dinge in Jerusalem sehen ließ\.
+Und wieder bei Jeremia,
+als er sagte:
+„Bete nicht“,
+sagte er zur Rechtfertigung:
+„Siehst du denn nicht,
+was diese tun?“
+Überall tut er genau dies,
+auch hier\.
+Was sagt er denn?
+„Die Männer von Ninive werden auftreten und dieses Geschlecht verurteilen;
+denn sie taten Buße auf die Predigt des Jona hin;
+und siehe,
+hier ist mehr als Jona\.[^bible-2ec5d6fc-1da4-4591-8fce-03a9a17df59d]“ Denn jener war Knecht,
+ich aber bin Herr;
+jener kam aus dem Seeungeheuer heraus,
+ich aber bin aus dem Tod auferstanden;
+jener verkündete den Untergang,
+ich aber kam und brachte die frohe Botschaft vom Reich\.
+Jene glaubten ohne Zeichen,
+ich aber habe viele Zeichen vorgewiesen\.
+Jene hörten nichts weiter als jene Worte,
+ich aber habe jede Art von Weisheit in Bewegung gesetzt\.
+Jener trat als Diener auf,
+ich aber kam selbst als der Herr und der Herr aller,
+nicht drohend,
+nicht Rechenschaft fordernd,
+sondern Vergebung bringend\.
+Jene waren Barbaren;
+diese aber hatten Umgang mit unzähligen Propheten\.
+Über jenen hatte niemand vorhergesagt,
+über mich aber alle,
+und die Taten stimmten mit den Worten überein\.
+Jener floh,
+als er gehen sollte,
+damit er nicht ausgelacht würde;
+ich aber kam,
+obwohl ich wusste,
+dass ich gekreuzigt und ausgelacht werden würde\.
+Jener ertrug es nicht einmal,
+für die,
+die gerettet werden sollten,
+beschimpft zu werden;
+ich aber ertrug sogar den Tod,
+und zwar den schändlichsten Tod,
+und danach sende ich wieder andere\.
+Jener war ein Fremder,
+ein Außenstehender,
+ein Unbekannter;
+ich aber bin dem Fleisch nach verwandt und stamme von denselben Vorfahren ab\.
+Und noch vieles andere könnte man zusammentragen,
+wenn man das Überlegene suchen wollte\.
 
 ## Bibelverweise
 

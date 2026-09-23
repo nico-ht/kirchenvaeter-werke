@@ -7,6 +7,10 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-bd2a5582-820d-4482-7670-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a1f3a8cb0e33c44a0396ec8533ac8c63f5a14d93acfe82347d8f81d0858e653e`
-
-Darum, geliebte Brüder, versteht, wie das Mysterium des Passah sowohl neu als auch alt, ewig und vorübergehend, vergänglich und unvergänglich, sterblich und unsterblich ist\.
+Darum,
+geliebte Brüder,
+versteht,
+wie das Mysterium des Passah sowohl neu als auch alt,
+ewig und vorübergehend,
+vergänglich und unvergänglich,
+sterblich und unsterblich ist\.

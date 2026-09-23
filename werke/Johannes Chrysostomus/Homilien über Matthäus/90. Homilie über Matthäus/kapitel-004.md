@@ -7,9 +7,189 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/90-homilie-ueber-matthaeus#kapitel-51b90a9e-121b-4eea-5bd6-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:9659c9f8dab165b29d171aa75c1f9cc75f95f6f7360efa0eea35b79ec3851aca`
-
-Ich weiß wohl, dass viele lachen, wenn dies gesagt wird\. Aber wir lassen uns nicht beirren; vielmehr bitten wir auch euch, es zu ertragen, und bald werdet ihr uns zustimmen\. Denn mir scheint die Armut einem sittsamen, schönen und anmutigen Mädchen zu gleichen; die Geldgier dagegen einer tiergestaltigen Frau, einer Skylla und einer Hydra und anderen solchen Ungeheuern, wie sie von den Dichtern der Mythen erdacht werden\. Führe mir also nicht die vor, die die Armut anklagen, sondern die, die durch sie geleuchtet haben\. Mit ihr wurde Elija ernährt und in jene selige Entrückung hinweggerissen; mit ihr leuchtete Elischa; mit ihr Johannes, mit ihr alle Apostel\. Mit jener anderen, der Geldgier, aber wurden Ahab, Isebel, Gehasi, Judas, Nero und Kajaphas verurteilt\. Doch wenn es euch recht ist, wollen wir nicht nur die betrachten, die in Armut geleuchtet haben, sondern auch die Schönheit dieses Mädchens selbst ansehen\. Denn ihr Auge ist rein und klar, ohne jede Trübung; nicht wie das der Geldgier, das bald voll Zorn ist, bald von Lust erfüllt, bald durch Maßlosigkeit verwirrt\. Das Auge der Armut aber ist nicht so, sondern sanft, ruhig, blickt alle freundlich an, ist mild und gütig, hasst niemanden und wendet sich von niemandem ab\. Denn wo Geld ist, dort liegt der Anlass zu Feindschaft und zu unzähligen Kriegen\. Ihr Mund wiederum ist voll Beschimpfungen, voll Überheblichkeit, voll großem Prahlen, voll Fluch und Trug; der Armut aber sind Mund und Zunge gesund, erfüllt von unablässigem Dank, von Lobpreis, von gütigen, liebevollen, heilenden Worten, von Lob und Preis\. Wenn du auch das Verhältnis ihrer Glieder sehen willst: Sie ist von edlem Wuchs und weit höher gewachsen als der Wohlstand\. Wenn viele vor ihr fliehen, wundere dich nicht; denn vor der übrigen Tugend fliehen die Dummen ebenso\. Aber, sagt man, der Arme wird vom Reichen beschimpft\. Da nennst du mir wieder ein Lob der Armut\. Denn wer ist selig, sag mir: der, der beschimpft, oder der, der beschimpft wird? Offenkundig der, der beschimpft wird\. Also befiehlt jene, die Geldgier, zu beschimpfen; diese aber, die Armut, mahnt, es zu ertragen\. Aber der Arme hungert, sagt man\. Auch Paulus hungerte und war in Hunger\. Aber er hat keine Ruhe\. Auch der Sohn des Menschen hatte nicht, wo er das Haupt hinlegen konnte\. Siehst du, wohin die Lobreden auf die Armut führen, wohin sie dich stellen, zu welchen Männern sie dich hinaufheben und wie sie dich zum Nachahmer des Herrn machen? Wenn es gut wäre, Gold zu besitzen, hätte Christus, der seinen Jüngern jene unaussprechlichen Güter gab, ihnen auch dies gegeben\. Nun aber gab er es ihnen nicht nur nicht, sondern verbot ihnen sogar, es zu besitzen\. Darum taucht auch Petrus nicht nur in die Armut ein, sondern rühmt sich ihrer und sagt: „Silber und Gold besitze ich nicht; was ich aber habe, das gebe ich dir\.[^bible-ae51b47e-d3d9-4490-9bed-1bcfc4ad404d]“ Wer von euch hätte nicht gewünscht, diese Stimme erschallen zu lassen? Gewiss alle, könnte vielleicht jemand sagen\. Also wirf das Silber weg, wirf das Gold weg\. Und wenn ich es wegwerfe, sagt man, werde ich dann die Kraft des Petrus empfangen? Was machte Petrus denn selig, sag mir? Etwa, dass er den Gelähmten aufrichtete? Keineswegs\. Sondern dass er dies nicht besaß, das hat ihm den Himmel verschafft\. Denn viele von denen, die solche Werke vollbrachten, sind in die Gehenna gefallen; die aber jenes taten, erlangten das Reich\. Und das lerne auch von Petrus selbst\. Denn zweierlei hatte er gesagt: „Silber und Gold besitze ich nicht[^bible-ae51b47e-d3d9-4490-9bed-1bcfc4ad404d]“, und: „Im Namen Jesu Christi, steh auf und geh umher\.[^bible-ae51b47e-d3d9-4490-9bed-1bcfc4ad404d]“ Was machte ihn also herrlich und selig: dass er den Gelähmten aufrichtete, oder dass er das Geld wegwarf? Und dies lass dich vom Kampfrichter selbst lehren\. Was sagt er denn zu dem Reichen, der das ewige Leben sucht? Er sagte nicht: „Richte Gelähmte auf“, sondern: „Verkaufe deinen Besitz und gib ihn den Armen, und komm, folge mir; und du wirst einen Schatz in den Himmeln haben\.[^bible-6a266a35-9a2a-47a9-bf09-dcd6b094401a]“ Auch Petrus sagte wiederum nicht: „Siehe, in deinem Namen treiben wir Dämonen aus“, obwohl er sie austrieb, sondern: „Siehe, wir haben alles verlassen und sind dir gefolgt; was wird uns zuteilwerden?[^bible-59f89fba-c767-46b8-aba7-76fbdba0d052]“ Und Christus antwortete ihm wiederum nicht: „Wenn jemand einen Gelähmten aufrichtet“, sondern: „Wer Häuser und Äcker verlassen hat, wird in dieser Welt Hundertfaches empfangen und ewiges Leben erben\.[^bible-0af458f6-b270-4ad1-9452-fbf4f62ce0a8]“ Darum lasst auch uns ihm nacheifern, damit wir nicht beschämt werden, sondern mit Freimut vor den Richterstuhl Christi treten, damit wir ihn dazu bewegen, mit uns zu sein, wie er auch mit den Jüngern war\. Denn er wird auch mit uns sein, wie er mit jenen war, wenn wir sie nachahmen wollen und Eiferer ihres Lebens und Wandels werden\. Denn dafür krönt Gott und ruft öffentlich aus; er verlangt von dir nicht, einen Toten aufzuerwecken oder einen Gelähmten zu heilen\. Denn nicht dies macht dich Petrus gleich, sondern dass du das wegwirfst, was du hast; denn das ist die Großtat des Apostels\. Aber du kannst es nicht wegwerfen? Gewiss, es ist möglich\. Doch ich zwinge dich nicht, wenn du nicht willst, und ich übe keinen Druck aus; nur darum bitte ich: wende wenigstens teilweise etwas für die Bedürftigen auf und strebe nach nichts, was über das Notwendige hinausgeht\. Denn so werden wir auch hier ein ungestörtes und sicheres Leben führen und das ewige Leben genießen\. Möge es uns allen zuteilwerden, dieses Leben zu erlangen, durch die Gnade und Menschenliebe unseres Herrn Jesus Christus\. Ihm sei die Herrlichkeit und die Macht zugleich mit dem Vater und dem Heiligen Geist, jetzt und immer und in alle Ewigkeit\. Amen\.
+Ich weiß wohl,
+dass viele lachen,
+wenn dies gesagt wird\.
+Aber wir lassen uns nicht beirren;
+vielmehr bitten wir auch euch,
+es zu ertragen,
+und bald werdet ihr uns zustimmen\.
+Denn mir scheint die Armut einem sittsamen,
+schönen und anmutigen Mädchen zu gleichen;
+die Geldgier dagegen einer tiergestaltigen Frau,
+einer Skylla und einer Hydra und anderen solchen Ungeheuern,
+wie sie von den Dichtern der Mythen erdacht werden\.
+Führe mir also nicht die vor,
+die die Armut anklagen,
+sondern die,
+die durch sie geleuchtet haben\.
+Mit ihr wurde Elija ernährt und in jene selige Entrückung hinweggerissen;
+mit ihr leuchtete Elischa;
+mit ihr Johannes,
+mit ihr alle Apostel\.
+Mit jener anderen,
+der Geldgier,
+aber wurden Ahab,
+Isebel,
+Gehasi,
+Judas,
+Nero und Kajaphas verurteilt\.
+Doch wenn es euch recht ist,
+wollen wir nicht nur die betrachten,
+die in Armut geleuchtet haben,
+sondern auch die Schönheit dieses Mädchens selbst ansehen\.
+Denn ihr Auge ist rein und klar,
+ohne jede Trübung;
+nicht wie das der Geldgier,
+das bald voll Zorn ist,
+bald von Lust erfüllt,
+bald durch Maßlosigkeit verwirrt\.
+Das Auge der Armut aber ist nicht so,
+sondern sanft,
+ruhig,
+blickt alle freundlich an,
+ist mild und gütig,
+hasst niemanden und wendet sich von niemandem ab\.
+Denn wo Geld ist,
+dort liegt der Anlass zu Feindschaft und zu unzähligen Kriegen\.
+Ihr Mund wiederum ist voll Beschimpfungen,
+voll Überheblichkeit,
+voll großem Prahlen,
+voll Fluch und Trug;
+der Armut aber sind Mund und Zunge gesund,
+erfüllt von unablässigem Dank,
+von Lobpreis,
+von gütigen,
+liebevollen,
+heilenden Worten,
+von Lob und Preis\.
+Wenn du auch das Verhältnis ihrer Glieder sehen willst:
+Sie ist von edlem Wuchs und weit höher gewachsen als der Wohlstand\.
+Wenn viele vor ihr fliehen,
+wundere dich nicht;
+denn vor der übrigen Tugend fliehen die Dummen ebenso\.
+Aber,
+sagt man,
+der Arme wird vom Reichen beschimpft\.
+Da nennst du mir wieder ein Lob der Armut\.
+Denn wer ist selig,
+sag mir:
+der,
+der beschimpft,
+oder der,
+der beschimpft wird?
+Offenkundig der,
+der beschimpft wird\.
+Also befiehlt jene,
+die Geldgier,
+zu beschimpfen;
+diese aber,
+die Armut,
+mahnt,
+es zu ertragen\.
+Aber der Arme hungert,
+sagt man\.
+Auch Paulus hungerte und war in Hunger\.
+Aber er hat keine Ruhe\.
+Auch der Sohn des Menschen hatte nicht,
+wo er das Haupt hinlegen konnte\.
+Siehst du,
+wohin die Lobreden auf die Armut führen,
+wohin sie dich stellen,
+zu welchen Männern sie dich hinaufheben und wie sie dich zum Nachahmer des Herrn machen?
+Wenn es gut wäre,
+Gold zu besitzen,
+hätte Christus,
+der seinen Jüngern jene unaussprechlichen Güter gab,
+ihnen auch dies gegeben\.
+Nun aber gab er es ihnen nicht nur nicht,
+sondern verbot ihnen sogar,
+es zu besitzen\.
+Darum taucht auch Petrus nicht nur in die Armut ein,
+sondern rühmt sich ihrer und sagt:
+„Silber und Gold besitze ich nicht;
+was ich aber habe,
+das gebe ich dir\.[^bible-ae51b47e-d3d9-4490-9bed-1bcfc4ad404d]“ Wer von euch hätte nicht gewünscht,
+diese Stimme erschallen zu lassen?
+Gewiss alle,
+könnte vielleicht jemand sagen\.
+Also wirf das Silber weg,
+wirf das Gold weg\.
+Und wenn ich es wegwerfe,
+sagt man,
+werde ich dann die Kraft des Petrus empfangen?
+Was machte Petrus denn selig,
+sag mir?
+Etwa,
+dass er den Gelähmten aufrichtete?
+Keineswegs\.
+Sondern dass er dies nicht besaß,
+das hat ihm den Himmel verschafft\.
+Denn viele von denen,
+die solche Werke vollbrachten,
+sind in die Gehenna gefallen;
+die aber jenes taten,
+erlangten das Reich\.
+Und das lerne auch von Petrus selbst\.
+Denn zweierlei hatte er gesagt:
+„Silber und Gold besitze ich nicht[^bible-ae51b47e-d3d9-4490-9bed-1bcfc4ad404d]“,
+und:
+„Im Namen Jesu Christi,
+steh auf und geh umher\.[^bible-ae51b47e-d3d9-4490-9bed-1bcfc4ad404d]“ Was machte ihn also herrlich und selig:
+dass er den Gelähmten aufrichtete,
+oder dass er das Geld wegwarf?
+Und dies lass dich vom Kampfrichter selbst lehren\.
+Was sagt er denn zu dem Reichen,
+der das ewige Leben sucht?
+Er sagte nicht:
+„Richte Gelähmte auf“,
+sondern:
+„Verkaufe deinen Besitz und gib ihn den Armen,
+und komm,
+folge mir;
+und du wirst einen Schatz in den Himmeln haben\.[^bible-6a266a35-9a2a-47a9-bf09-dcd6b094401a]“ Auch Petrus sagte wiederum nicht:
+„Siehe,
+in deinem Namen treiben wir Dämonen aus“,
+obwohl er sie austrieb,
+sondern:
+„Siehe,
+wir haben alles verlassen und sind dir gefolgt;
+was wird uns zuteilwerden?[^bible-59f89fba-c767-46b8-aba7-76fbdba0d052]“ Und Christus antwortete ihm wiederum nicht:
+„Wenn jemand einen Gelähmten aufrichtet“,
+sondern:
+„Wer Häuser und Äcker verlassen hat,
+wird in dieser Welt Hundertfaches empfangen und ewiges Leben erben\.[^bible-0af458f6-b270-4ad1-9452-fbf4f62ce0a8]“ Darum lasst auch uns ihm nacheifern,
+damit wir nicht beschämt werden,
+sondern mit Freimut vor den Richterstuhl Christi treten,
+damit wir ihn dazu bewegen,
+mit uns zu sein,
+wie er auch mit den Jüngern war\.
+Denn er wird auch mit uns sein,
+wie er mit jenen war,
+wenn wir sie nachahmen wollen und Eiferer ihres Lebens und Wandels werden\.
+Denn dafür krönt Gott und ruft öffentlich aus;
+er verlangt von dir nicht,
+einen Toten aufzuerwecken oder einen Gelähmten zu heilen\.
+Denn nicht dies macht dich Petrus gleich,
+sondern dass du das wegwirfst,
+was du hast;
+denn das ist die Großtat des Apostels\.
+Aber du kannst es nicht wegwerfen?
+Gewiss,
+es ist möglich\.
+Doch ich zwinge dich nicht,
+wenn du nicht willst,
+und ich übe keinen Druck aus;
+nur darum bitte ich:
+wende wenigstens teilweise etwas für die Bedürftigen auf und strebe nach nichts,
+was über das Notwendige hinausgeht\.
+Denn so werden wir auch hier ein ungestörtes und sicheres Leben führen und das ewige Leben genießen\.
+Möge es uns allen zuteilwerden,
+dieses Leben zu erlangen,
+durch die Gnade und Menschenliebe unseres Herrn Jesus Christus\.
+Ihm sei die Herrlichkeit und die Macht zugleich mit dem Vater und dem Heiligen Geist,
+jetzt und immer und in alle Ewigkeit\.
+Amen\.
 
 ## Bibelverweise
 

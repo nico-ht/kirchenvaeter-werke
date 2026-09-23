@@ -7,6 +7,13 @@ Autor: Gregor von Nyssa
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nyssa/ueber-das-leben-des-mose-buch-1#kapitel-c2351d66-8139-4cf6-828d-08ded879412e).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:eaf2cbf36468f23306d9276cd64505ee5100c0ce197e2f657f50f208fd19aaa4`
-
-Als sie aber durch die Wüste weiterzogen, fehlte ihnen wieder das Wasser, und zugleich schwand auch die Erinnerung an Gottes Macht\. Denn durch das vorausgegangene Wunder am Felsen fassten sie nicht Vertrauen, dass ihnen auch jetzt das Nötige nicht fehlen werde; vielmehr wichen sie von den besseren Hoffnungen ab und gingen zu Schmähungen gegen Gott selbst und gegen Mose über, sodass sogar Mose den Anschein erweckte, unter dem Unglauben des Volkes mit nachzugeben\. Gleichwohl aber wirkte er ihnen wieder Wunderbares, indem er jenen steil aufragenden Felsen in die Natur von Wasser verwandelte\.
+Als sie aber durch die Wüste weiterzogen,
+fehlte ihnen wieder das Wasser,
+und zugleich schwand auch die Erinnerung an Gottes Macht\.
+Denn durch das vorausgegangene Wunder am Felsen fassten sie nicht Vertrauen,
+dass ihnen auch jetzt das Nötige nicht fehlen werde;
+vielmehr wichen sie von den besseren Hoffnungen ab und gingen zu Schmähungen gegen Gott selbst und gegen Mose über,
+sodass sogar Mose den Anschein erweckte,
+unter dem Unglauben des Volkes mit nachzugeben\.
+Gleichwohl aber wirkte er ihnen wieder Wunderbares,
+indem er jenen steil aufragenden Felsen in die Natur von Wasser verwandelte\.

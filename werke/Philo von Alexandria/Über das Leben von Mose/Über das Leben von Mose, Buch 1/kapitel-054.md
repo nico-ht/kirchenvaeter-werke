@@ -7,6 +7,55 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-1#kapitel-906767d6-bf17-4b85-489a-08ded87107d6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:fcde213668a3f1ffbb8e2f3523c3f25bfc7be05ba14a47ff095b5c6eda36f9d3`
-
-Lasst uns also seine feinen Empfehlungen prüfen und sehen, wie listig sie auf die ganz sichere Niederlage derer angelegt waren, die bis dahin immer hatten siegen können\. Da er wusste, dass die Hebräer nur dadurch bezwungen werden konnten, dass man sie zur Übertretung des Gesetzes führte, versuchte er, sie durch Ausschweifung und Maßlosigkeit, dieses gewaltige Übel, zu dem noch größeren Verbrechen der Gottlosigkeit zu verführen, indem er ihnen die Lust als Köder vorlegte\. Denn er sagte: „O König, die Frauen des Landes übertreffen alle anderen Frauen an Schönheit, und durch nichts wird ein Mann leichter bezwungen als durch die Schönheit einer Frau\. Wenn du daher den schönsten unter ihnen befiehlst, ihnen ihre Gunst zu gewähren und sich ihnen preiszugeben, werden sie die Jugend deiner Feinde anlocken und überwältigen\. Du musst sie aber warnen, ihre Schönheit den Männern, die nach ihnen verlangen, nicht allzu bereitwillig und zu schnell zu überlassen; denn Widerstand und spröde Zurückhaltung werden die Leidenschaften anstacheln, sie noch mehr erregen und ein heftigeres Verlangen entzünden\. So werden sie, von ihren Begierden völlig bezwungen, bereit sein, alles zu tun und zu erleiden\. Und jede junge Frau, die so für das Spiel vorbereitet ist, soll Widerstand leisten und zu einem Liebhaber, der so beeinflusst ist, lasziv sagen: ‚Es ist nicht recht, dass du meine Gemeinschaft genießt, bevor du nicht zuerst die Gebräuche deiner Heimat aufgegeben, dich geändert und gelernt hast, dieselben Bräuche zu ehren wie ich\. Und ich muss einen deutlichen Beweis deiner wirklichen Veränderung haben; den kann ich nur dadurch bekommen, dass du einwilligst, dich mir bei denselben Opfern und Trankopfern anzuschließen, die ich gebrauche und die wir dann gemeinsam vor denselben Abbildern und Statuen und anderen errichteten Zeichen zu Ehren meiner Götter darbringen können\.‘ Und der Liebhaber wird, gleichsam gefangen im Netz ihrer vielfachen und vielgestaltigen Schlingen, unfähig sein, ihrer Schönheit und ihrem verlockenden Gespräch zu widerstehen; in seinem Urteil wird er ganz überwältigt werden und, wie ein elender Mensch, allen Befehlen gehorchen, die sie ihm auferlegt, und als Sklave der Leidenschaft eingetragen werden\.“
+Lasst uns also seine feinen Empfehlungen prüfen und sehen,
+wie listig sie auf die ganz sichere Niederlage derer angelegt waren,
+die bis dahin immer hatten siegen können\.
+Da er wusste,
+dass die Hebräer nur dadurch bezwungen werden konnten,
+dass man sie zur Übertretung des Gesetzes führte,
+versuchte er,
+sie durch Ausschweifung und Maßlosigkeit,
+dieses gewaltige Übel,
+zu dem noch größeren Verbrechen der Gottlosigkeit zu verführen,
+indem er ihnen die Lust als Köder vorlegte\.
+Denn er sagte:
+„O König,
+die Frauen des Landes übertreffen alle anderen Frauen an Schönheit,
+und durch nichts wird ein Mann leichter bezwungen als durch die Schönheit einer Frau\.
+Wenn du daher den schönsten unter ihnen befiehlst,
+ihnen ihre Gunst zu gewähren und sich ihnen preiszugeben,
+werden sie die Jugend deiner Feinde anlocken und überwältigen\.
+Du musst sie aber warnen,
+ihre Schönheit den Männern,
+die nach ihnen verlangen,
+nicht allzu bereitwillig und zu schnell zu überlassen;
+denn Widerstand und spröde Zurückhaltung werden die Leidenschaften anstacheln,
+sie noch mehr erregen und ein heftigeres Verlangen entzünden\.
+So werden sie,
+von ihren Begierden völlig bezwungen,
+bereit sein,
+alles zu tun und zu erleiden\.
+Und jede junge Frau,
+die so für das Spiel vorbereitet ist,
+soll Widerstand leisten und zu einem Liebhaber,
+der so beeinflusst ist,
+lasziv sagen:
+‚Es ist nicht recht,
+dass du meine Gemeinschaft genießt,
+bevor du nicht zuerst die Gebräuche deiner Heimat aufgegeben,
+dich geändert und gelernt hast,
+dieselben Bräuche zu ehren wie ich\.
+Und ich muss einen deutlichen Beweis deiner wirklichen Veränderung haben;
+den kann ich nur dadurch bekommen,
+dass du einwilligst,
+dich mir bei denselben Opfern und Trankopfern anzuschließen,
+die ich gebrauche und die wir dann gemeinsam vor denselben Abbildern und Statuen und anderen errichteten Zeichen zu Ehren meiner Götter darbringen können\.‘
+Und der Liebhaber wird,
+gleichsam gefangen im Netz ihrer vielfachen und vielgestaltigen Schlingen,
+unfähig sein,
+ihrer Schönheit und ihrem verlockenden Gespräch zu widerstehen;
+in seinem Urteil wird er ganz überwältigt werden und,
+wie ein elender Mensch,
+allen Befehlen gehorchen,
+die sie ihm auferlegt,
+und als Sklave der Leidenschaft eingetragen werden\.“

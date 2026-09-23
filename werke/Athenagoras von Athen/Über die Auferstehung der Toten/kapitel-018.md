@@ -7,11 +7,99 @@ Autor: Athenagoras von Athen
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athenagoras/ueber-die-auferstehung-der-toten#kapitel-5911cbd5-961a-4320-a8fe-08df134d0b15).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a8cd30d2d5aec94608c002d1dda88ad7973872b412840cf3a34f325d4f62c16f`
+Die Argumente,
+die wir zuvor zur Prüfung vorgelegt haben und die die Auferstehung bekräftigen,
+sind alle miteinander verwandt,
+da sie aus demselben Ursprung hervorgegangen sind\.
+Ihr Ursprung ist nämlich die Erschaffung der ersten Menschen\.
+Die einen aber gewinnen ihre Beweiskraft unmittelbar aus dem ersten Ursprung,
+aus dem sie hervorgegangen sind;
+die anderen knüpfen an die Natur und das Leben der Menschen an und gewinnen ihre Glaubwürdigkeit aus Gottes Vorsehung für uns\.
+Denn der Grund,
+weshalb und wozu die Menschen entstanden sind,
+ist mit der Natur der Menschen verbunden und erhält seine Beweiskraft aus der Schöpfung;
+das Argument aus der Gerechtigkeit dagegen,
+wonach Gott die Menschen richtet,
+die gut oder schlecht gelebt haben,
+erhält seine Beweiskraft aus dem Ziel ihres Lebens\.
+Denn diese letzteren Argumente entspringen zwar jenem Ursprung,
+stützen sich aber stärker auf die Vorsehung\.
+Nachdem wir nun die ersteren Argumente so gut wie möglich begründet haben,
+wäre es angebracht,
+die vorliegende These auch anhand der letzteren zu beweisen\.
+Ich meine damit die Ehre oder Strafe,
+die jedem Menschen nach einem gerechten Urteil gebührt,
+sowie das Ziel des menschlichen Lebens\.
+Von diesen sollten wir das Argument voranstellen,
+das seiner Natur nach den Vorrang hat,
+und zuerst das Argument vom Gericht untersuchen\.
+Um für einen angemessenen Ausgangspunkt und eine sachgerechte Reihenfolge zu sorgen,
+sei lediglich Folgendes vorausgeschickt:
+Wer Gott als Schöpfer dieses Alls anerkennt,
+muss die Bewahrung alles Geschaffenen und die Vorsehung dafür seiner Weisheit und Gerechtigkeit zuschreiben,
+wenn er an seinen eigenen Grundsätzen festhalten will\.
+Wer so darüber denkt,
+darf nichts auf der Erde oder im Himmel für unbeaufsichtigt oder ohne Fürsorge halten,
+sondern muss erkennen,
+dass die Fürsorge des Schöpfers sich gleichermaßen auf alles Unsichtbare und Sichtbare,
+auf Kleines und Großes erstreckt\.
+Alles Geschaffene braucht nämlich die Fürsorge seines Schöpfers,
+jedes auf seine eigene Weise,
+entsprechend seiner Natur und seiner Bestimmung\.
+Denn ich halte es für unnötigen Ehrgeiz,
+jetzt eine Einteilung nach Gattungen vorzunehmen oder aufzählen zu wollen,
+was der jeweiligen Natur angemessen ist\.
 
-Die Argumente, die wir zuvor zur Prüfung vorgelegt haben und die die Auferstehung bekräftigen, sind alle miteinander verwandt, da sie aus demselben Ursprung hervorgegangen sind\. Ihr Ursprung ist nämlich die Erschaffung der ersten Menschen\. Die einen aber gewinnen ihre Beweiskraft unmittelbar aus dem ersten Ursprung, aus dem sie hervorgegangen sind; die anderen knüpfen an die Natur und das Leben der Menschen an und gewinnen ihre Glaubwürdigkeit aus Gottes Vorsehung für uns\. Denn der Grund, weshalb und wozu die Menschen entstanden sind, ist mit der Natur der Menschen verbunden und erhält seine Beweiskraft aus der Schöpfung; das Argument aus der Gerechtigkeit dagegen, wonach Gott die Menschen richtet, die gut oder schlecht gelebt haben, erhält seine Beweiskraft aus dem Ziel ihres Lebens\. Denn diese letzteren Argumente entspringen zwar jenem Ursprung, stützen sich aber stärker auf die Vorsehung\. Nachdem wir nun die ersteren Argumente so gut wie möglich begründet haben, wäre es angebracht, die vorliegende These auch anhand der letzteren zu beweisen\. Ich meine damit die Ehre oder Strafe, die jedem Menschen nach einem gerechten Urteil gebührt, sowie das Ziel des menschlichen Lebens\. Von diesen sollten wir das Argument voranstellen, das seiner Natur nach den Vorrang hat, und zuerst das Argument vom Gericht untersuchen\. Um für einen angemessenen Ausgangspunkt und eine sachgerechte Reihenfolge zu sorgen, sei lediglich Folgendes vorausgeschickt: Wer Gott als Schöpfer dieses Alls anerkennt, muss die Bewahrung alles Geschaffenen und die Vorsehung dafür seiner Weisheit und Gerechtigkeit zuschreiben, wenn er an seinen eigenen Grundsätzen festhalten will\. Wer so darüber denkt, darf nichts auf der Erde oder im Himmel für unbeaufsichtigt oder ohne Fürsorge halten, sondern muss erkennen, dass die Fürsorge des Schöpfers sich gleichermaßen auf alles Unsichtbare und Sichtbare, auf Kleines und Großes erstreckt\. Alles Geschaffene braucht nämlich die Fürsorge seines Schöpfers, jedes auf seine eigene Weise, entsprechend seiner Natur und seiner Bestimmung\. Denn ich halte es für unnötigen Ehrgeiz, jetzt eine Einteilung nach Gattungen vorzunehmen oder aufzählen zu wollen, was der jeweiligen Natur angemessen ist\.
-
-Der Mensch aber, von dem jetzt die Rede sein soll, braucht als bedürftiges Wesen Nahrung, als sterbliches Wesen Fortpflanzung und als vernunftbegabtes Wesen Rechtsprechung\. Wenn nun all dies zur Natur des Menschen gehört, wenn er also Nahrung braucht, um zu leben, Fortpflanzung, damit seine Gattung fortbesteht, und Rechtsprechung, damit Ernährung und Fortpflanzung dem Gesetz entsprechen, dann muss gewiss auch die Rechtsprechung die Einheit beider betreffen, da Ernährung und Fortpflanzung diese Einheit betreffen\. Mit der Einheit beider meine ich den Menschen, der aus Seele und Körper besteht\. Dieser Mensch muss also für alle seine Taten zur Verantwortung gezogen werden und dafür Ehre oder Strafe empfangen\. Wenn aber ein gerechtes Gericht sein Urteil über die Einheit beider aufgrund ihrer Taten fällt, darf weder die Seele allein den Lohn für das empfangen, was sie gemeinsam mit dem Körper getan hat, noch der Körper allein\. Denn die Seele hat für sich allein keinen Anteil an den Verfehlungen, die bei körperlichen Genüssen oder bei der Ernährung und Pflege vorkommen\. Der Körper wiederum kann für sich allein Gesetz und Recht nicht beurteilen\. Vielmehr unterliegt der aus beiden bestehende Mensch für jede einzelne seiner Taten dem Gericht\. Die vernünftige Überlegung zeigt jedoch, dass dies weder in diesem Leben geschieht noch nach dem Tod\. Denn im gegenwärtigen Leben wird nicht jedem zuteil, was er verdient: Viele, die gottlos sind und sich jeder Art von Gesetzlosigkeit und Bosheit hingeben, bleiben bis zu ihrem Ende von Leid verschont\. Umgekehrt leben diejenigen, die sich in ihrem Leben in jeder Tugend bewährt haben, unter Schmerzen, Schikanen, Verleumdungen, Misshandlungen und Leiden aller Art\. Nach dem Tod aber besteht die Einheit beider nicht mehr\. Denn die Seele trennt sich vom Körper, und der Körper selbst zerfällt wieder in die Bestandteile, aus denen er zusammengesetzt wurde\. Dabei bewahrt er nichts mehr von seiner früheren Beschaffenheit oder Gestalt, geschweige denn die Erinnerung an seine Taten\. Damit ist jedem klar, was daraus folgt: Nach den Worten des Apostels muss[^bible-cab95b29-6922-4746-b875-400d7dd8322b] dieser vergängliche[^bible-cab95b29-6922-4746-b875-400d7dd8322b] und[^bible-cab95b29-6922-4746-b875-400d7dd8322b] dem Zerfall ausgesetzte Körper[^bible-cab95b29-6922-4746-b875-400d7dd8322b] Unvergänglichkeit[^bible-cab95b29-6922-4746-b875-400d7dd8322b] anziehen[^bible-cab95b29-6922-4746-b875-400d7dd8322b]\. Dabei werden die Verstorbenen durch die Auferstehung lebendig gemacht und die getrennten oder gar völlig aufgelösten Teile wieder vereint, damit jeder[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2] den gerechten Lohn[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2] für das[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2] empfängt[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2], was er durch den Körper[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2] getan hat[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2], sei es[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2] Gutes[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2] oder[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2] Böses[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2]\.
+Der Mensch aber,
+von dem jetzt die Rede sein soll,
+braucht als bedürftiges Wesen Nahrung,
+als sterbliches Wesen Fortpflanzung und als vernunftbegabtes Wesen Rechtsprechung\.
+Wenn nun all dies zur Natur des Menschen gehört,
+wenn er also Nahrung braucht,
+um zu leben,
+Fortpflanzung,
+damit seine Gattung fortbesteht,
+und Rechtsprechung,
+damit Ernährung und Fortpflanzung dem Gesetz entsprechen,
+dann muss gewiss auch die Rechtsprechung die Einheit beider betreffen,
+da Ernährung und Fortpflanzung diese Einheit betreffen\.
+Mit der Einheit beider meine ich den Menschen,
+der aus Seele und Körper besteht\.
+Dieser Mensch muss also für alle seine Taten zur Verantwortung gezogen werden und dafür Ehre oder Strafe empfangen\.
+Wenn aber ein gerechtes Gericht sein Urteil über die Einheit beider aufgrund ihrer Taten fällt,
+darf weder die Seele allein den Lohn für das empfangen,
+was sie gemeinsam mit dem Körper getan hat,
+noch der Körper allein\.
+Denn die Seele hat für sich allein keinen Anteil an den Verfehlungen,
+die bei körperlichen Genüssen oder bei der Ernährung und Pflege vorkommen\.
+Der Körper wiederum kann für sich allein Gesetz und Recht nicht beurteilen\.
+Vielmehr unterliegt der aus beiden bestehende Mensch für jede einzelne seiner Taten dem Gericht\.
+Die vernünftige Überlegung zeigt jedoch,
+dass dies weder in diesem Leben geschieht noch nach dem Tod\.
+Denn im gegenwärtigen Leben wird nicht jedem zuteil,
+was er verdient:
+Viele,
+die gottlos sind und sich jeder Art von Gesetzlosigkeit und Bosheit hingeben,
+bleiben bis zu ihrem Ende von Leid verschont\.
+Umgekehrt leben diejenigen,
+die sich in ihrem Leben in jeder Tugend bewährt haben,
+unter Schmerzen,
+Schikanen,
+Verleumdungen,
+Misshandlungen und Leiden aller Art\.
+Nach dem Tod aber besteht die Einheit beider nicht mehr\.
+Denn die Seele trennt sich vom Körper,
+und der Körper selbst zerfällt wieder in die Bestandteile,
+aus denen er zusammengesetzt wurde\.
+Dabei bewahrt er nichts mehr von seiner früheren Beschaffenheit oder Gestalt,
+geschweige denn die Erinnerung an seine Taten\.
+Damit ist jedem klar,
+was daraus folgt:
+Nach den Worten des Apostels muss[^bible-cab95b29-6922-4746-b875-400d7dd8322b] dieser vergängliche[^bible-cab95b29-6922-4746-b875-400d7dd8322b] und[^bible-cab95b29-6922-4746-b875-400d7dd8322b] dem Zerfall ausgesetzte Körper[^bible-cab95b29-6922-4746-b875-400d7dd8322b] Unvergänglichkeit[^bible-cab95b29-6922-4746-b875-400d7dd8322b] anziehen[^bible-cab95b29-6922-4746-b875-400d7dd8322b]\.
+Dabei werden die Verstorbenen durch die Auferstehung lebendig gemacht und die getrennten oder gar völlig aufgelösten Teile wieder vereint,
+damit jeder[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2] den gerechten Lohn[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2] für das[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2] empfängt[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2],
+was er durch den Körper[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2] getan hat[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2],
+sei es[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2] Gutes[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2] oder[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2] Böses[^bible-85c8a1be-d5ba-4167-a3f4-d6e86f1d13c2]\.
 
 ## Bibelverweise
 

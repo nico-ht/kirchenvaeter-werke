@@ -7,8 +7,75 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/wie-man-eine-ehefrau-auswaehlt#kapitel-6d7556bc-2931-435e-0441-08dd7d8414a1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e56136d053c750979a340e9e85482bc96c9d58410a308798c04f236839772060`
+Ich habe diese Geschichte nicht nur erzählt,
+damit ihr sie hört,
+nicht nur,
+damit ihr sie lobt,
+sondern auch,
+damit ihr sie nachahmt\.
+Ihr Väter,
+ahmt die Weitsicht Abrahams nach,
+die Sorgfalt,
+mit der er eine unberührte Frau für Isaak suchte\.
+Er suchte nicht nach Geld,
+nicht nach hohem Geburtsstand,
+nicht nach körperlicher Schönheit oder irgendetwas anderem,
+sondern nur nach der Edelsinnigkeit der Seele\.
+Ihr Mütter,
+erzieht eure Töchter so,
+wie Rebekka erzogen wurde\.
+Ihr Bräutigame,
+die ihr im Begriff seid,
+Mädchen wie Rebekka zu heiraten,
+feiert eure Hochzeiten mit ebenso viel Anstand,
+wie es Isaak tat\.
+Verbannt das Tanzen,
+das Lachen,
+schändliche Reden,
+die Musik von Pfeifen und Flöten und all das Teuflische\.
+Stattdessen müsst ihr Gott anflehen,
+über alles,
+was getan wird,
+zu wachen\.
+Wenn wir unsere Familien auf diese Weise führen,
+wird es niemals Scheidung,
+Verdacht auf Ehebruch,
+Anlass zur Eifersucht,
+Kämpfe oder Streit geben\.
+Vielmehr werden wir große Ruhe und große Harmonie genießen\.
+Wenn wir diese haben,
+werden die anderen Tugenden zweifellos folgen\.
 
-Ich habe diese Geschichte nicht nur erzählt, damit ihr sie hört, nicht nur, damit ihr sie lobt, sondern auch, damit ihr sie nachahmt\. Ihr Väter, ahmt die Weitsicht Abrahams nach, die Sorgfalt, mit der er eine unberührte Frau für Isaak suchte\. Er suchte nicht nach Geld, nicht nach hohem Geburtsstand, nicht nach körperlicher Schönheit oder irgendetwas anderem, sondern nur nach der Edelsinnigkeit der Seele\. Ihr Mütter, erzieht eure Töchter so, wie Rebekka erzogen wurde\. Ihr Bräutigame, die ihr im Begriff seid, Mädchen wie Rebekka zu heiraten, feiert eure Hochzeiten mit ebenso viel Anstand, wie es Isaak tat\. Verbannt das Tanzen, das Lachen, schändliche Reden, die Musik von Pfeifen und Flöten und all das Teuflische\. Stattdessen müsst ihr Gott anflehen, über alles, was getan wird, zu wachen\. Wenn wir unsere Familien auf diese Weise führen, wird es niemals Scheidung, Verdacht auf Ehebruch, Anlass zur Eifersucht, Kämpfe oder Streit geben\. Vielmehr werden wir große Ruhe und große Harmonie genießen\. Wenn wir diese haben, werden die anderen Tugenden zweifellos folgen\.
-
-So wie, wenn eine Frau mit ihrem Mann im Streit liegt, nichts im Haushalt gesund sein wird, selbst wenn alle anderen Angelegenheiten im Fluss sind; so wird, wenn die Frau in Harmonie und Frieden mit ihrem Mann ist, nichts unangenehm sein, selbst wenn unzählige Stürme jeden Tag aufziehen\. Wenn Ehen auf diese Weise begonnen werden, werden wir in der Lage sein, unsere Kinder mit Leichtigkeit zur Tugend zu erziehen\. Wenn die Mutter so anständig und keusch und mit jeder Tugend ausgestattet ist, wird sie zweifellos in der Lage sein, ihren Mann anzuziehen und ihn dazu zu bringen, sie zu lieben\. Wenn sie ihn gewonnen hat, wird sie ihn bereitwillig dazu bringen, ihr bei der Erziehung der Kinder zu helfen, und so wird sie die Vorsehung Gottes in diese Fürsorge einbeziehen\. Wenn Er an dieser guten Führung des Haushalts teilhat, wenn Er die Seelen der Kinder erzieht, wird nichts unangenehm sein\. Die Angelegenheiten des Haushalts werden gut laufen, wenn seine Herrscher so wohlgesinnt sind\. Auf diese Weise wird jeder Mann zusammen mit seinem Haushalt \(ich meine seine Frau, Kinder und Diener\) in der Lage sein, den Lauf dieses Lebens ohne Furcht zu vollenden und in das Himmelreich einzutreten: das mögen wir alle erreichen, durch die Gnade und Liebe unseres Herrn Jesus Christus, dem mit dem Vater Ehre und Macht gebührt, zusammen mit dem heiligen und lebendigen Geist, jetzt und immerdar und in alle Ewigkeit\. Amen\.
+So wie,
+wenn eine Frau mit ihrem Mann im Streit liegt,
+nichts im Haushalt gesund sein wird,
+selbst wenn alle anderen Angelegenheiten im Fluss sind;
+so wird,
+wenn die Frau in Harmonie und Frieden mit ihrem Mann ist,
+nichts unangenehm sein,
+selbst wenn unzählige Stürme jeden Tag aufziehen\.
+Wenn Ehen auf diese Weise begonnen werden,
+werden wir in der Lage sein,
+unsere Kinder mit Leichtigkeit zur Tugend zu erziehen\.
+Wenn die Mutter so anständig und keusch und mit jeder Tugend ausgestattet ist,
+wird sie zweifellos in der Lage sein,
+ihren Mann anzuziehen und ihn dazu zu bringen,
+sie zu lieben\.
+Wenn sie ihn gewonnen hat,
+wird sie ihn bereitwillig dazu bringen,
+ihr bei der Erziehung der Kinder zu helfen,
+und so wird sie die Vorsehung Gottes in diese Fürsorge einbeziehen\.
+Wenn Er an dieser guten Führung des Haushalts teilhat,
+wenn Er die Seelen der Kinder erzieht,
+wird nichts unangenehm sein\.
+Die Angelegenheiten des Haushalts werden gut laufen,
+wenn seine Herrscher so wohlgesinnt sind\.
+Auf diese Weise wird jeder Mann zusammen mit seinem Haushalt \(ich meine seine Frau,
+Kinder und Diener\) in der Lage sein,
+den Lauf dieses Lebens ohne Furcht zu vollenden und in das Himmelreich einzutreten:
+das mögen wir alle erreichen,
+durch die Gnade und Liebe unseres Herrn Jesus Christus,
+dem mit dem Vater Ehre und Macht gebührt,
+zusammen mit dem heiligen und lebendigen Geist,
+jetzt und immerdar und in alle Ewigkeit\.
+Amen\.

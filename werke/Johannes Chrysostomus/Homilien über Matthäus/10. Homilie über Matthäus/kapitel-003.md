@@ -7,9 +7,116 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/10-homilie-ueber-matthaeus#kapitel-42161dd4-17d4-4fa1-5a4d-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f7cec00df7f3fc080342d037f76170963a74ae5f44ed6d06f9d0d2e45c9f0ec5`
-
-Bedenke also, welch gewaltiger Eindruck es sein musste, einen Menschen zu sehen, der nach dreißig Jahren aus der Wüste herabkam, Sohn eines Hohepriesters war, niemals irgendetwas Menschliches nötig gehabt hatte, von allen Seiten ehrwürdig erschien und Jesaja an seiner Seite hatte\. Denn auch er war gegenwärtig, verkündete ihn und sagte: „Dies ist der, von dem ich sagte, er werde kommen, rufen und in der Wüste mit heller Stimme alles verkünden\.“ Denn so groß war der Eifer der Propheten in diesen Dingen, dass sie nicht nur ihren eigenen Herrn, sondern auch den, der ihm dienen sollte, lange Zeit vorher verkündeten\. Und sie sprachen nicht nur von ihm selbst, sondern auch von dem Ort, an dem er sich aufhalten sollte, von der Art der Verkündigung, die er bei seinem Auftreten lehren sollte, und von dem guten Erfolg, der daraus entstehen würde\. Sieh also, wie der Prophet und der Täufer auf genau dieselben Gedanken kommen, auch wenn sie nicht dieselben Worte gebrauchen\. Denn der Prophet sagt, es werde einer auftreten und sagen: „Bereitet den Weg des Herrn, macht seine Pfade gerade\.[^bible-4d3ecc08-0a9a-41a1-8f1b-293b15704721]“ Er selbst aber sagte bei seinem Auftreten: „Bringt Früchte hervor, die der Umkehr würdig sind\.[^bible-a8318768-ccc9-4380-9df1-e19c52e60ce7]“ Das ist gleichbedeutend mit: „Bereitet den Weg des Herrn\.[^bible-4d3ecc08-0a9a-41a1-8f1b-293b15704721]“ Siehst du, dass sowohl durch das, was der Prophet sagte, als auch durch das, was er selbst verkündete, nur dieses eine deutlich wird: Er trat auf, um den Weg vorauszubereiten und alles bereit zu machen, nicht um die Gabe zu schenken, nämlich die Vergebung, sondern um die Seelen derer vorzubereiten, die den Gott des Alls empfangen sollten? Lukas aber sagt noch etwas mehr\. Denn er begnügte sich nicht damit, den Anfang anzuführen, sondern setzt die ganze Weissagung hinzu: „Jede Schlucht wird aufgefüllt werden, und jeder Berg und Hügel wird erniedrigt werden; das Krumme wird gerade werden und das Raue zu ebenen Wegen; und alles Fleisch wird das Heil Gottes sehen\.[^bible-4bb7eac9-cab0-4951-9139-2d723b605b0c]“ Hast du gesehen, wie der Prophet vorausgreifend alles sagte: das Zusammenströmen des Volkes, die Wendung der Dinge zum Besseren, die Leichtigkeit der Verkündigung und den Grund für alles, was geschah, auch wenn er es bildhafter ausgedrückt hat? Denn was da gesagt wurde, war eine Weissagung\. Wenn er nämlich sagt: „Jede Schlucht wird aufgefüllt werden, und jeder Berg und Hügel wird erniedrigt werden, und das Raue wird zu ebenen Wegen werden[^bible-023b1bfa-7e75-441c-bee9-702189ced8a4]“, dann zeigt er damit sowohl die Niedrigen, die erhöht werden, als auch die Vermessenen, die erniedrigt werden, und die Schwierigkeit des Gesetzes, die in die Leichtigkeit des Glaubens verwandelt wird\. Nicht mehr Schweiß und Mühen, sagt er, sondern Gnade und Vergebung der Sünden, die den Weg zum Heil sehr leicht macht\. Dann nennt er den Grund dafür und sagt: „Alles Fleisch wird das Heil Gottes sehen[^bible-8b9d8090-4511-48f0-8e05-30a46f4c5ba8]“: nicht mehr nur Juden und Proselyten, sondern auch die ganze Erde und das Meer und die ganze Menschennatur\. Denn mit dem Krummen deutete er das ganze verdorbene Leben an: Zöllner, Huren, Räuber und Zauberer; sie waren früher verkehrt, gingen später aber den geraden Weg\. Genau das sagte auch er selbst: „Zöllner und Huren gehen euch voraus in das Reich Gottes, weil sie geglaubt haben\.[^bible-a0232886-2fee-4b1c-a088-2ab3e63c2a88]“ Mit anderen Worten machte der Prophet dasselbe noch einmal deutlich, wenn er sagt: „Dann werden Wölfe und Lämmer zusammen weiden\.[^bible-1a9cfc5b-d5d9-46af-878a-8e3c93007302]“ Denn wie er hier durch Hügel und Schluchten sagte, dass die ungleichmäßige Haltung der Menschen in eine einzige Ebenheit der Weisheit geführt werde, so stellte er dort durch die Wesensarten der unvernünftigen Tiere die verschiedenen Lebensweisen der Menschen dar und sagte wiederum, sie würden zu einer einzigen Einmütigkeit der Gottesfurcht zusammengefügt\. Und auch dort nennt er wieder den Grund\. Dieser ist: „Denn es wird der da sein, der aufsteht, um über die Völker zu herrschen; auf ihn werden die Völker hoffen\.[^bible-574b54b7-b8eb-42b8-9c38-2062ec845c20]“ Genau das sagte er auch hier: „Alles Fleisch wird das Heil Gottes sehen\.[^bible-8b9d8090-4511-48f0-8e05-30a46f4c5ba8]“ Überall macht er deutlich, dass die Kraft und die Erkenntnis dieser Evangelien bis an die Enden des Erdkreises ausströmen wird und das Menschengeschlecht aus tierischer Lebensweise und harter Gesinnung in große Sanftheit und Milde verwandelt\. Johannes selbst aber hatte sein Gewand aus Kamelhaaren und einen Ledergürtel um seine Hüften\. Siehst du, wie die Propheten das eine vorausgesagt, das andere aber den Evangelisten überlassen haben? Deshalb führt Matthäus die Weissagungen an und fügt auch hinzu, was von ihm selbst stammt; denn er hielt es nicht für nebensächlich, von der Kleidung des Gerechten zu sprechen\.
+Bedenke also,
+welch gewaltiger Eindruck es sein musste,
+einen Menschen zu sehen,
+der nach dreißig Jahren aus der Wüste herabkam,
+Sohn eines Hohepriesters war,
+niemals irgendetwas Menschliches nötig gehabt hatte,
+von allen Seiten ehrwürdig erschien und Jesaja an seiner Seite hatte\.
+Denn auch er war gegenwärtig,
+verkündete ihn und sagte:
+„Dies ist der,
+von dem ich sagte,
+er werde kommen,
+rufen und in der Wüste mit heller Stimme alles verkünden\.“
+Denn so groß war der Eifer der Propheten in diesen Dingen,
+dass sie nicht nur ihren eigenen Herrn,
+sondern auch den,
+der ihm dienen sollte,
+lange Zeit vorher verkündeten\.
+Und sie sprachen nicht nur von ihm selbst,
+sondern auch von dem Ort,
+an dem er sich aufhalten sollte,
+von der Art der Verkündigung,
+die er bei seinem Auftreten lehren sollte,
+und von dem guten Erfolg,
+der daraus entstehen würde\.
+Sieh also,
+wie der Prophet und der Täufer auf genau dieselben Gedanken kommen,
+auch wenn sie nicht dieselben Worte gebrauchen\.
+Denn der Prophet sagt,
+es werde einer auftreten und sagen:
+„Bereitet den Weg des Herrn,
+macht seine Pfade gerade\.[^bible-4d3ecc08-0a9a-41a1-8f1b-293b15704721]“ Er selbst aber sagte bei seinem Auftreten:
+„Bringt Früchte hervor,
+die der Umkehr würdig sind\.[^bible-a8318768-ccc9-4380-9df1-e19c52e60ce7]“ Das ist gleichbedeutend mit:
+„Bereitet den Weg des Herrn\.[^bible-4d3ecc08-0a9a-41a1-8f1b-293b15704721]“ Siehst du,
+dass sowohl durch das,
+was der Prophet sagte,
+als auch durch das,
+was er selbst verkündete,
+nur dieses eine deutlich wird:
+Er trat auf,
+um den Weg vorauszubereiten und alles bereit zu machen,
+nicht um die Gabe zu schenken,
+nämlich die Vergebung,
+sondern um die Seelen derer vorzubereiten,
+die den Gott des Alls empfangen sollten?
+Lukas aber sagt noch etwas mehr\.
+Denn er begnügte sich nicht damit,
+den Anfang anzuführen,
+sondern setzt die ganze Weissagung hinzu:
+„Jede Schlucht wird aufgefüllt werden,
+und jeder Berg und Hügel wird erniedrigt werden;
+das Krumme wird gerade werden und das Raue zu ebenen Wegen;
+und alles Fleisch wird das Heil Gottes sehen\.[^bible-4bb7eac9-cab0-4951-9139-2d723b605b0c]“ Hast du gesehen,
+wie der Prophet vorausgreifend alles sagte:
+das Zusammenströmen des Volkes,
+die Wendung der Dinge zum Besseren,
+die Leichtigkeit der Verkündigung und den Grund für alles,
+was geschah,
+auch wenn er es bildhafter ausgedrückt hat?
+Denn was da gesagt wurde,
+war eine Weissagung\.
+Wenn er nämlich sagt:
+„Jede Schlucht wird aufgefüllt werden,
+und jeder Berg und Hügel wird erniedrigt werden,
+und das Raue wird zu ebenen Wegen werden[^bible-023b1bfa-7e75-441c-bee9-702189ced8a4]“,
+dann zeigt er damit sowohl die Niedrigen,
+die erhöht werden,
+als auch die Vermessenen,
+die erniedrigt werden,
+und die Schwierigkeit des Gesetzes,
+die in die Leichtigkeit des Glaubens verwandelt wird\.
+Nicht mehr Schweiß und Mühen,
+sagt er,
+sondern Gnade und Vergebung der Sünden,
+die den Weg zum Heil sehr leicht macht\.
+Dann nennt er den Grund dafür und sagt:
+„Alles Fleisch wird das Heil Gottes sehen[^bible-8b9d8090-4511-48f0-8e05-30a46f4c5ba8]“:
+nicht mehr nur Juden und Proselyten,
+sondern auch die ganze Erde und das Meer und die ganze Menschennatur\.
+Denn mit dem Krummen deutete er das ganze verdorbene Leben an:
+Zöllner,
+Huren,
+Räuber und Zauberer;
+sie waren früher verkehrt,
+gingen später aber den geraden Weg\.
+Genau das sagte auch er selbst:
+„Zöllner und Huren gehen euch voraus in das Reich Gottes,
+weil sie geglaubt haben\.[^bible-a0232886-2fee-4b1c-a088-2ab3e63c2a88]“ Mit anderen Worten machte der Prophet dasselbe noch einmal deutlich,
+wenn er sagt:
+„Dann werden Wölfe und Lämmer zusammen weiden\.[^bible-1a9cfc5b-d5d9-46af-878a-8e3c93007302]“ Denn wie er hier durch Hügel und Schluchten sagte,
+dass die ungleichmäßige Haltung der Menschen in eine einzige Ebenheit der Weisheit geführt werde,
+so stellte er dort durch die Wesensarten der unvernünftigen Tiere die verschiedenen Lebensweisen der Menschen dar und sagte wiederum,
+sie würden zu einer einzigen Einmütigkeit der Gottesfurcht zusammengefügt\.
+Und auch dort nennt er wieder den Grund\.
+Dieser ist:
+„Denn es wird der da sein,
+der aufsteht,
+um über die Völker zu herrschen;
+auf ihn werden die Völker hoffen\.[^bible-574b54b7-b8eb-42b8-9c38-2062ec845c20]“ Genau das sagte er auch hier:
+„Alles Fleisch wird das Heil Gottes sehen\.[^bible-8b9d8090-4511-48f0-8e05-30a46f4c5ba8]“ Überall macht er deutlich,
+dass die Kraft und die Erkenntnis dieser Evangelien bis an die Enden des Erdkreises ausströmen wird und das Menschengeschlecht aus tierischer Lebensweise und harter Gesinnung in große Sanftheit und Milde verwandelt\.
+Johannes selbst aber hatte sein Gewand aus Kamelhaaren und einen Ledergürtel um seine Hüften\.
+Siehst du,
+wie die Propheten das eine vorausgesagt,
+das andere aber den Evangelisten überlassen haben?
+Deshalb führt Matthäus die Weissagungen an und fügt auch hinzu,
+was von ihm selbst stammt;
+denn er hielt es nicht für nebensächlich,
+von der Kleidung des Gerechten zu sprechen\.
 
 ## Bibelverweise
 

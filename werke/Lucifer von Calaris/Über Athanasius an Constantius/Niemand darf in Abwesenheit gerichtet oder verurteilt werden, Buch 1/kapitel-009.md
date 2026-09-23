@@ -7,9 +7,154 @@ Autor: Lucifer von Calaris
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/lucifer-von-calaris/niemand-darf-in-abwesenheit-gerichtet-oder-verurteilt-werden-buch-1#kapitel-de6171d6-c957-4642-689e-08ded9b64703).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:75401addb1625837a0842e7fef777c43e3c8406f50c3584e967e96ffd60560aa`
-
-Du hast uns zusammengerufen, um den Priester Gottes abzuschlachten, um den zu beseitigen, durch den Gott festgesetzt hatte, dass du seine Gebote hören solltest\. Und Mose schrieb die Worte dieses Gesetzes in das Buch und gab es den Priestern und Leviten, die die Lade des Testaments des Herrn tragen, und den Presbytern Israels[^bible-2be99518-ba45-4971-99fb-8ab6a303510f]\. Und Mose gebot ihnen an jenem Tag und sprach: Nach sieben Jahren, zur Zeit des Erlassjahres, am Fest der Laubhütten, wenn ganz Israel zusammenkommt, um vor dem Herrn, deinem Gott, an dem Ort zu erscheinen, den er erwählen wird, sollt ihr dieses Gesetz vor Israel vor ihren Ohren lesen\. Ihr sollt Männer und Frauen und Kinder und den Proselyten, der in euren Städten ist, in die Kirche zusammenrufen, damit sie hören und lernen, den Herrn, euren Gott, zu fürchten, und darauf hören, alle Worte dieses Gesetzes zu tun\. Auch ihre Kinder, die es nicht wissen, sollen es hören und lernen, den Herrn, euren Gott, zu fürchten, alle Tage, die sie auf der Erde leben[^bible-42d76d95-9eba-444f-a879-8b5c39fd56a0]\. Du verfolgst den, durch den der Herr dir zu hören geboten hat; während er noch unter den Menschen handelt, sendest du deinen Mithäretiker Georgius als Nachfolger, obwohl es dir, selbst wenn Athanasius schon aus dem Leib befreit gewesen wäre, nicht erlaubt gewesen wäre, jemanden zu senden\. Vielmehr lag und liegt es in Gottes Hand, wen er für würdig hält, seinem Volk durch seine Knechte, das heißt durch katholische Bischöfe, als Vorsteher einzusetzen\. Denn die Kraft des Heiligen Geistes zur Leitung des Volkes Gottes konnte nur dann erfüllt werden, wenn es der war, den Gott erwählt hatte und dem durch katholische Bischöfe die Hand aufgelegt worden war, wie wir finden, dass nach dem Tod des Mose sein Nachfolger Jesus, der Sohn Naves, mit dem Heiligen Geist erfüllt wurde\. Die heilige Schrift spricht und sagt: Und Jesus, der Sohn Naves, wurde mit dem Geist der Einsicht erfüllt; denn Mose hatte ihm die Hand aufgelegt\. Und die Söhne Israels hörten auf ihn und taten, wie der Herr Mose geboten hatte[^bible-d51a22c0-fe15-40b6-8042-2b2228978eda]\. Siehst du, dass du der Anordnung Gottes entgegengetreten bist, indem du gegen Gottes Willen gehandelt hast, und dass du dich mit der Schneide deines eigenen Schwertes geschlachtet hast? Denn es durfte doch niemand ordiniert werden, wenn Athanasius nicht gestorben war, und nach dem Tod des Athanasius hätte ein Katholik durch katholische Bischöfe ordiniert werden müssen\. Die heilige Schrift spricht davon, dass Gott zu Jesus, dem Sohn Naves, sagte: Mose, mein Knecht, ist gestorben\. Nun also steh auf, überschreite den Jordan, du und dieses ganze Volk, in das Land, das ich ihnen geben werde\. Jeden Ort, den ihr mit der Spur eurer Füße betreten werdet, werde ich euch geben, wie ich es Mose gesagt hatte\. Die Wüste und das Gebiet vor dem Libanon bis zum großen Strom, dem Euphrat, und bis zum großen Meer, bis zum Sonnenuntergang, werden die Grenzen eures Gebietes sein\. Kein Mensch wird vor dir standhalten an allen Tagen deines Lebens; und wie ich mit Mose war, so werde ich mit dir sein, und ich werde dich nicht verlassen und dich nicht verachten[^bible-524e0e89-304d-4580-ae41-58597f150b99]\. Kann Gott etwa mit seinem Feind Georgius sein? Kann er dem gnädig sein, den er nicht ordiniert, den er nicht erwählt hat? Georgius ist so, wie Arrius war und wie Valens und Ursacius sind, oder auch Adoxius, zu dem du mich bei den Germanensiern bestimmt hast; denn aus Dornen können nur Dornen hervorgehen\. Dass dies so ist, wirst du aus den Akten eben dieses Georgius und aus der Lektüre der Eingaben der Alexandriner entnehmen können; und obwohl dir jener frevelhafte Lästerer gefällt, denn sonst wäre er dir nicht der liebste, wenn er nicht frevelhaft wäre, habe ich dies dennoch vorgebracht, damit du dein hervorragendes Werk erkennen kannst\. Da du also erkennst, dass Gott nicht mit Georgius ist, sondern wahrnimmst, dass er mit Athanasius ist, den er seinem Volk als Vorsteher eingesetzt hat, wirst du endlich erkennen können, dass du versucht hast, Gottes Anordnung zu zerstören, und dass du Gott in Athanasius verfolgt hast\. Du hörst ja, wie Gott zum Nachfolger des Mose sagt: Wie ich mit Mose war, so werde ich mit dir sein, und ich werde dich nicht verlassen und dich nicht verachten[^bible-a3d2a3cd-54db-4a5f-b271-9b55d920fc82]\. Siehe, an einer anderen Stelle: Sei stark und handle mannhaft, um zu bewahren und zu tun, wie Mose, mein Knecht, dir geboten hat\. Und du sollst davon weder nach rechts noch nach links abweichen, damit du in allem, was du tust, Einsicht gewinnst\. Und das Buch dieses Gesetzes soll nicht von deinem Mund weichen, und du sollst darin nachsinnen Tag und Nacht, damit du bewahrst und alles tust, was darin geschrieben steht\. Dann werde ich deine Wege gerade machen, und dann wirst du Einsicht haben\. Siehe, ich habe dir geboten: Sei stark und handle mannhaft; du brauchst nicht zu erschrecken und dich nicht zu fürchten, denn der Herr, dein Gott, ist mit dir an jedem Ort[^bible-6cb36e01-86c0-4750-be01-ba435d634d04]\.
+Du hast uns zusammengerufen,
+um den Priester Gottes abzuschlachten,
+um den zu beseitigen,
+durch den Gott festgesetzt hatte,
+dass du seine Gebote hören solltest\.
+Und Mose schrieb die Worte dieses Gesetzes in das Buch und gab es den Priestern und Leviten,
+die die Lade des Testaments des Herrn tragen,
+und den Presbytern Israels[^bible-2be99518-ba45-4971-99fb-8ab6a303510f]\.
+Und Mose gebot ihnen an jenem Tag und sprach:
+Nach sieben Jahren,
+zur Zeit des Erlassjahres,
+am Fest der Laubhütten,
+wenn ganz Israel zusammenkommt,
+um vor dem Herrn,
+deinem Gott,
+an dem Ort zu erscheinen,
+den er erwählen wird,
+sollt ihr dieses Gesetz vor Israel vor ihren Ohren lesen\.
+Ihr sollt Männer und Frauen und Kinder und den Proselyten,
+der in euren Städten ist,
+in die Kirche zusammenrufen,
+damit sie hören und lernen,
+den Herrn,
+euren Gott,
+zu fürchten,
+und darauf hören,
+alle Worte dieses Gesetzes zu tun\.
+Auch ihre Kinder,
+die es nicht wissen,
+sollen es hören und lernen,
+den Herrn,
+euren Gott,
+zu fürchten,
+alle Tage,
+die sie auf der Erde leben[^bible-42d76d95-9eba-444f-a879-8b5c39fd56a0]\.
+Du verfolgst den,
+durch den der Herr dir zu hören geboten hat;
+während er noch unter den Menschen handelt,
+sendest du deinen Mithäretiker Georgius als Nachfolger,
+obwohl es dir,
+selbst wenn Athanasius schon aus dem Leib befreit gewesen wäre,
+nicht erlaubt gewesen wäre,
+jemanden zu senden\.
+Vielmehr lag und liegt es in Gottes Hand,
+wen er für würdig hält,
+seinem Volk durch seine Knechte,
+das heißt durch katholische Bischöfe,
+als Vorsteher einzusetzen\.
+Denn die Kraft des Heiligen Geistes zur Leitung des Volkes Gottes konnte nur dann erfüllt werden,
+wenn es der war,
+den Gott erwählt hatte und dem durch katholische Bischöfe die Hand aufgelegt worden war,
+wie wir finden,
+dass nach dem Tod des Mose sein Nachfolger Jesus,
+der Sohn Naves,
+mit dem Heiligen Geist erfüllt wurde\.
+Die heilige Schrift spricht und sagt:
+Und Jesus,
+der Sohn Naves,
+wurde mit dem Geist der Einsicht erfüllt;
+denn Mose hatte ihm die Hand aufgelegt\.
+Und die Söhne Israels hörten auf ihn und taten,
+wie der Herr Mose geboten hatte[^bible-d51a22c0-fe15-40b6-8042-2b2228978eda]\.
+Siehst du,
+dass du der Anordnung Gottes entgegengetreten bist,
+indem du gegen Gottes Willen gehandelt hast,
+und dass du dich mit der Schneide deines eigenen Schwertes geschlachtet hast?
+Denn es durfte doch niemand ordiniert werden,
+wenn Athanasius nicht gestorben war,
+und nach dem Tod des Athanasius hätte ein Katholik durch katholische Bischöfe ordiniert werden müssen\.
+Die heilige Schrift spricht davon,
+dass Gott zu Jesus,
+dem Sohn Naves,
+sagte:
+Mose,
+mein Knecht,
+ist gestorben\.
+Nun also steh auf,
+überschreite den Jordan,
+du und dieses ganze Volk,
+in das Land,
+das ich ihnen geben werde\.
+Jeden Ort,
+den ihr mit der Spur eurer Füße betreten werdet,
+werde ich euch geben,
+wie ich es Mose gesagt hatte\.
+Die Wüste und das Gebiet vor dem Libanon bis zum großen Strom,
+dem Euphrat,
+und bis zum großen Meer,
+bis zum Sonnenuntergang,
+werden die Grenzen eures Gebietes sein\.
+Kein Mensch wird vor dir standhalten an allen Tagen deines Lebens;
+und wie ich mit Mose war,
+so werde ich mit dir sein,
+und ich werde dich nicht verlassen und dich nicht verachten[^bible-524e0e89-304d-4580-ae41-58597f150b99]\.
+Kann Gott etwa mit seinem Feind Georgius sein?
+Kann er dem gnädig sein,
+den er nicht ordiniert,
+den er nicht erwählt hat?
+Georgius ist so,
+wie Arrius war und wie Valens und Ursacius sind,
+oder auch Adoxius,
+zu dem du mich bei den Germanensiern bestimmt hast;
+denn aus Dornen können nur Dornen hervorgehen\.
+Dass dies so ist,
+wirst du aus den Akten eben dieses Georgius und aus der Lektüre der Eingaben der Alexandriner entnehmen können;
+und obwohl dir jener frevelhafte Lästerer gefällt,
+denn sonst wäre er dir nicht der liebste,
+wenn er nicht frevelhaft wäre,
+habe ich dies dennoch vorgebracht,
+damit du dein hervorragendes Werk erkennen kannst\.
+Da du also erkennst,
+dass Gott nicht mit Georgius ist,
+sondern wahrnimmst,
+dass er mit Athanasius ist,
+den er seinem Volk als Vorsteher eingesetzt hat,
+wirst du endlich erkennen können,
+dass du versucht hast,
+Gottes Anordnung zu zerstören,
+und dass du Gott in Athanasius verfolgt hast\.
+Du hörst ja,
+wie Gott zum Nachfolger des Mose sagt:
+Wie ich mit Mose war,
+so werde ich mit dir sein,
+und ich werde dich nicht verlassen und dich nicht verachten[^bible-a3d2a3cd-54db-4a5f-b271-9b55d920fc82]\.
+Siehe,
+an einer anderen Stelle:
+Sei stark und handle mannhaft,
+um zu bewahren und zu tun,
+wie Mose,
+mein Knecht,
+dir geboten hat\.
+Und du sollst davon weder nach rechts noch nach links abweichen,
+damit du in allem,
+was du tust,
+Einsicht gewinnst\.
+Und das Buch dieses Gesetzes soll nicht von deinem Mund weichen,
+und du sollst darin nachsinnen Tag und Nacht,
+damit du bewahrst und alles tust,
+was darin geschrieben steht\.
+Dann werde ich deine Wege gerade machen,
+und dann wirst du Einsicht haben\.
+Siehe,
+ich habe dir geboten:
+Sei stark und handle mannhaft;
+du brauchst nicht zu erschrecken und dich nicht zu fürchten,
+denn der Herr,
+dein Gott,
+ist mit dir an jedem Ort[^bible-6cb36e01-86c0-4750-be01-ba435d634d04]\.
 
 ## Bibelverweise
 

@@ -7,9 +7,168 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/5-homilie-ueber-matthaeus#kapitel-7ebf0122-ce3b-48b7-5a30-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c4ec3480f348033b2fa6f07829067e188e026859ef55b356d3242b5137a93afc`
-
-Und das sage ich nicht, damit wir die Heiligen nicht anflehen, sondern damit wir nicht träge werden und unsere eigenen Angelegenheiten nicht anderen allein überlassen, während wir selbst daliegen und schlafen\. Denn als er sagte: „Macht euch Freunde[^bible-fc2c12e0-c05b-49f1-bf71-e15645f4edf7]“, blieb er nicht dabei stehen, sondern fügte hinzu: „aus dem ungerechten Mammon[^bible-fc2c12e0-c05b-49f1-bf71-e15645f4edf7]“, damit die gute Tat wieder deine eigene wird\. Denn hier deutete er auf nichts anderes als auf das Almosen\. Und gerade das ist staunenswert: Er verfährt mit uns nicht einmal streng, wenn wir von der Ungerechtigkeit Abstand nehmen\. Denn was er sagt, ist dies: Hast du es schlecht erworben? Verwende es gut\. Hast du ungerecht gesammelt? Streue es gerecht aus\. Und doch: Was für eine Tugend ist es, aus solchem Besitz zu geben? Dennoch steigt Gott in seiner Menschenfreundlichkeit sogar bis dahin herab; und wenn wir so handeln, verheißt er uns viele Güter\. Wir aber sind zu solcher Gefühllosigkeit gelangt, dass wir nicht einmal aus dem Ungerechten geben\. Vielmehr rauben wir Unzähliges zusammen, und wenn wir einen winzigen Teil hinlegen, meinen wir, alles erfüllt zu haben\. Hast du Paulus nicht sagen hören: „Wer sparsam sät, wird auch sparsam ernten[^bible-c18b50f0-633c-4c1e-be0e-fa16dcd5ed63]“? Weshalb also sparst du? Ist die Sache denn eine Ausgabe? Ist sie ein Kostenaufwand? Sie ist Ertrag und gewinnbringendes Geschäft\. Wo Geschäft ist, da ist auch Zuwachs; wo Saat ist, da ist auch Ernte\. Wenn du fettes und tiefes Land bebauen solltest, das viele Samen aufnehmen kann, würdest du auch alles Vorhandene einsetzen und dir von anderen etwas leihen, weil du Sparsamkeit in solchen Dingen für Verlust hieltest\. Doch wenn du den Himmel bebauen sollst, der keiner Unbeständigkeit der Witterung unterliegt, sondern das Eingesetzte ganz sicher mit größerem Zuwachs zurückgeben wird, zögerst du und weichst zurück\. Du bedenkst nicht, dass man verlieren kann, wenn man spart, und gewinnen, wenn man nicht spart\. Streue also aus, damit du nicht verlierst; halte nicht fest, damit du festhältst; wirf hinaus, damit du bewahrst; verwende, damit du gewinnst\. Und wenn man es bewahren muss, dann bewahre du es nicht selbst; denn du wirst es gewiss verlieren\. Vertraue es vielmehr Gott an; denn von dort raubt niemand etwas\. Treibe du keine Geschäfte; denn du verstehst dich nicht darauf, Gewinn zu machen\. Leihe vielmehr dem, der dir mehr Zins gibt als das Kapital\. Leihe dort, wo kein Neid ist, wo keine Anklage, kein Anschlag, keine Furcht ist\. Leihe dem, der nichts braucht und um deinetwillen Bedarf hat; dem, der alle ernährt und hungert, damit du nicht Hunger leidest; dem, der arm ist, damit du reich wirst\. Leihe dort, wo man nicht den Tod, sondern Leben statt Tod ernten kann\. Diese Zinsen führen nämlich zum Reich, jene aber zur Gehenna; die einen stammen aus Geldgier, die anderen aus philosophischer Lebenshaltung; die einen aus Rohheit, die anderen aus Menschenfreundlichkeit\. Welche Verteidigung werden wir also haben, wenn es uns möglich ist, mehr zu empfangen, und zwar sicher, zur rechten Zeit, in großer Freiheit, ohne Schmähungen, ohne Furcht und ohne Gefahren, wir aber das fahren lassen und stattdessen jenen schändlichen, wertlosen, unsicheren und zerfallenden Gewinn nachjagen, der uns den Ofen in reichem Maß bereitet? Denn nichts, nichts ist schändlicher als die Zinsen hier, nichts roher\. Ein solcher treibt Geschäfte mit den Unglücken anderer, macht die Not eines anderen zu seiner Einnahme und verlangt Lohn für Menschenfreundlichkeit, als fürchte er, barmherzig zu erscheinen\. Unter dem Vorwand der Menschenfreundlichkeit gräbt er den Abgrund tiefer; indem er hilft, zerreibt er die Armut; indem er die Hand ausstreckt, stößt er hinab\. Er nimmt den anderen zwar auf wie in einen Hafen, umgibt ihn aber mit Schiffbruch wie an einem Felsen, einem Riff und einer Klippe\. „Aber was verlangst du?“, sagt er\. „Soll ich das gesammelte Geld, das auch mir nützlich ist, einem anderen zur Arbeit geben und keinen Lohn verlangen?“ Fort damit\! Das sage ich nicht; vielmehr will ich sehr wohl, dass du Lohn empfängst, nur keinen wertlosen und kleinen, sondern einen weit größeren\. Denn statt Gold will ich, dass du den Himmel als Zins empfängst\. Warum schließt du dich also selbst in Armut ein, indem du dich an der Erde dahinschleppst und Kleines statt Großem verlangst? Denn so handelt einer, der nicht weiß, wie man reich wird\. Wenn Gott dir nämlich für wenig Geld die Güter im Himmel verheißt und du sagst: Gib mir nicht den Himmel, sondern statt des Himmels vergängliches Gold, dann will ein solcher in Armut bleiben\. Wer dagegen nach Reichtum und Wohlstand verlangt, wird das Bleibende dem Vergänglichen vorziehen, das Unerschöpfliche dem, was verbraucht wird, das Viele dem Wenigen, das Unversehrte dem Verfallenden; denn so wird ihm auch jenes folgen\. Wer nämlich die Erde vor dem Himmel sucht, wird gewiss auch sie verlieren; wer aber den Himmel der Erde vorzieht, wird beides in überreichem Maß empfangen\. Damit das auch bei uns geschieht, wollen wir alles Irdische verachten und die künftigen Güter wählen\. Denn so werden wir sowohl diese als auch jene erlangen, durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus, dem die Herrlichkeit und die Macht sei in alle Ewigkeit\. Amen\.
+Und das sage ich nicht,
+damit wir die Heiligen nicht anflehen,
+sondern damit wir nicht träge werden und unsere eigenen Angelegenheiten nicht anderen allein überlassen,
+während wir selbst daliegen und schlafen\.
+Denn als er sagte:
+„Macht euch Freunde[^bible-fc2c12e0-c05b-49f1-bf71-e15645f4edf7]“,
+blieb er nicht dabei stehen,
+sondern fügte hinzu:
+„aus dem ungerechten Mammon[^bible-fc2c12e0-c05b-49f1-bf71-e15645f4edf7]“,
+damit die gute Tat wieder deine eigene wird\.
+Denn hier deutete er auf nichts anderes als auf das Almosen\.
+Und gerade das ist staunenswert:
+Er verfährt mit uns nicht einmal streng,
+wenn wir von der Ungerechtigkeit Abstand nehmen\.
+Denn was er sagt,
+ist dies:
+Hast du es schlecht erworben?
+Verwende es gut\.
+Hast du ungerecht gesammelt?
+Streue es gerecht aus\.
+Und doch:
+Was für eine Tugend ist es,
+aus solchem Besitz zu geben?
+Dennoch steigt Gott in seiner Menschenfreundlichkeit sogar bis dahin herab;
+und wenn wir so handeln,
+verheißt er uns viele Güter\.
+Wir aber sind zu solcher Gefühllosigkeit gelangt,
+dass wir nicht einmal aus dem Ungerechten geben\.
+Vielmehr rauben wir Unzähliges zusammen,
+und wenn wir einen winzigen Teil hinlegen,
+meinen wir,
+alles erfüllt zu haben\.
+Hast du Paulus nicht sagen hören:
+„Wer sparsam sät,
+wird auch sparsam ernten[^bible-c18b50f0-633c-4c1e-be0e-fa16dcd5ed63]“?
+Weshalb also sparst du?
+Ist die Sache denn eine Ausgabe?
+Ist sie ein Kostenaufwand?
+Sie ist Ertrag und gewinnbringendes Geschäft\.
+Wo Geschäft ist,
+da ist auch Zuwachs;
+wo Saat ist,
+da ist auch Ernte\.
+Wenn du fettes und tiefes Land bebauen solltest,
+das viele Samen aufnehmen kann,
+würdest du auch alles Vorhandene einsetzen und dir von anderen etwas leihen,
+weil du Sparsamkeit in solchen Dingen für Verlust hieltest\.
+Doch wenn du den Himmel bebauen sollst,
+der keiner Unbeständigkeit der Witterung unterliegt,
+sondern das Eingesetzte ganz sicher mit größerem Zuwachs zurückgeben wird,
+zögerst du und weichst zurück\.
+Du bedenkst nicht,
+dass man verlieren kann,
+wenn man spart,
+und gewinnen,
+wenn man nicht spart\.
+Streue also aus,
+damit du nicht verlierst;
+halte nicht fest,
+damit du festhältst;
+wirf hinaus,
+damit du bewahrst;
+verwende,
+damit du gewinnst\.
+Und wenn man es bewahren muss,
+dann bewahre du es nicht selbst;
+denn du wirst es gewiss verlieren\.
+Vertraue es vielmehr Gott an;
+denn von dort raubt niemand etwas\.
+Treibe du keine Geschäfte;
+denn du verstehst dich nicht darauf,
+Gewinn zu machen\.
+Leihe vielmehr dem,
+der dir mehr Zins gibt als das Kapital\.
+Leihe dort,
+wo kein Neid ist,
+wo keine Anklage,
+kein Anschlag,
+keine Furcht ist\.
+Leihe dem,
+der nichts braucht und um deinetwillen Bedarf hat;
+dem,
+der alle ernährt und hungert,
+damit du nicht Hunger leidest;
+dem,
+der arm ist,
+damit du reich wirst\.
+Leihe dort,
+wo man nicht den Tod,
+sondern Leben statt Tod ernten kann\.
+Diese Zinsen führen nämlich zum Reich,
+jene aber zur Gehenna;
+die einen stammen aus Geldgier,
+die anderen aus philosophischer Lebenshaltung;
+die einen aus Rohheit,
+die anderen aus Menschenfreundlichkeit\.
+Welche Verteidigung werden wir also haben,
+wenn es uns möglich ist,
+mehr zu empfangen,
+und zwar sicher,
+zur rechten Zeit,
+in großer Freiheit,
+ohne Schmähungen,
+ohne Furcht und ohne Gefahren,
+wir aber das fahren lassen und stattdessen jenen schändlichen,
+wertlosen,
+unsicheren und zerfallenden Gewinn nachjagen,
+der uns den Ofen in reichem Maß bereitet?
+Denn nichts,
+nichts ist schändlicher als die Zinsen hier,
+nichts roher\.
+Ein solcher treibt Geschäfte mit den Unglücken anderer,
+macht die Not eines anderen zu seiner Einnahme und verlangt Lohn für Menschenfreundlichkeit,
+als fürchte er,
+barmherzig zu erscheinen\.
+Unter dem Vorwand der Menschenfreundlichkeit gräbt er den Abgrund tiefer;
+indem er hilft,
+zerreibt er die Armut;
+indem er die Hand ausstreckt,
+stößt er hinab\.
+Er nimmt den anderen zwar auf wie in einen Hafen,
+umgibt ihn aber mit Schiffbruch wie an einem Felsen,
+einem Riff und einer Klippe\.
+„Aber was verlangst du?“,
+sagt er\.
+„Soll ich das gesammelte Geld,
+das auch mir nützlich ist,
+einem anderen zur Arbeit geben und keinen Lohn verlangen?“
+Fort damit\!
+Das sage ich nicht;
+vielmehr will ich sehr wohl,
+dass du Lohn empfängst,
+nur keinen wertlosen und kleinen,
+sondern einen weit größeren\.
+Denn statt Gold will ich,
+dass du den Himmel als Zins empfängst\.
+Warum schließt du dich also selbst in Armut ein,
+indem du dich an der Erde dahinschleppst und Kleines statt Großem verlangst?
+Denn so handelt einer,
+der nicht weiß,
+wie man reich wird\.
+Wenn Gott dir nämlich für wenig Geld die Güter im Himmel verheißt und du sagst:
+Gib mir nicht den Himmel,
+sondern statt des Himmels vergängliches Gold,
+dann will ein solcher in Armut bleiben\.
+Wer dagegen nach Reichtum und Wohlstand verlangt,
+wird das Bleibende dem Vergänglichen vorziehen,
+das Unerschöpfliche dem,
+was verbraucht wird,
+das Viele dem Wenigen,
+das Unversehrte dem Verfallenden;
+denn so wird ihm auch jenes folgen\.
+Wer nämlich die Erde vor dem Himmel sucht,
+wird gewiss auch sie verlieren;
+wer aber den Himmel der Erde vorzieht,
+wird beides in überreichem Maß empfangen\.
+Damit das auch bei uns geschieht,
+wollen wir alles Irdische verachten und die künftigen Güter wählen\.
+Denn so werden wir sowohl diese als auch jene erlangen,
+durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus,
+dem die Herrlichkeit und die Macht sei in alle Ewigkeit\.
+Amen\.
 
 ## Bibelverweise
 

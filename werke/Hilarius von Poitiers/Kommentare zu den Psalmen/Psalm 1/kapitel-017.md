@@ -7,13 +7,45 @@ Autor: Hilarius von Poitiers
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/hilarius-von-poitiers/psalm-1#kapitel-628f5670-156e-409e-6370-08dd760a486f).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:6aaf44e2bca0cb26b71127cf33d88c60aaccdaf9835538e9c05689c1b6253ff7`
+Nun,
+dass die Blätter des Baumes,
+von dem wir sprechen,
+nicht wertlos sind,
+sondern eine Quelle der Gesundheit für die Nationen darstellen,
+bezeugt der heilige Johannes in der Apokalypse,
+wo er sagt:
+„Und er zeigte mir einen Strom von Wasser des Lebens,
+klar wie Kristall,
+der aus dem Thron Gottes und des Lammes floss;
+in der Mitte der Straße und auf beiden Seiten des Flusses der Baum des Lebens,
+der zwölf Arten von Früchten trug und jeden Monat seine Frucht gab;
+und die Blätter des Baumes sind zur Heilung der Nationen\.“[^bible-093af1e2-d990-40ef-8579-aac2f4f94b25]
 
-Nun, dass die Blätter des Baumes, von dem wir sprechen, nicht wertlos sind, sondern eine Quelle der Gesundheit für die Nationen darstellen, bezeugt der heilige Johannes in der Apokalypse, wo er sagt: „Und er zeigte mir einen Strom von Wasser des Lebens, klar wie Kristall, der aus dem Thron Gottes und des Lammes floss; in der Mitte der Straße und auf beiden Seiten des Flusses der Baum des Lebens, der zwölf Arten von Früchten trug und jeden Monat seine Frucht gab; und die Blätter des Baumes sind zur Heilung der Nationen\.“[^bible-093af1e2-d990-40ef-8579-aac2f4f94b25]
+Körperliche Manifestationen offenbaren so die Geheimnisse des Himmels,
+dass,
+obwohl Materie für sich allein nicht die volle geistliche Bedeutung vermitteln kann,
+es doch eine Verstümmelung wäre,
+sie nur in ihrem materiellen Aspekt zu betrachten\.
+Wir hätten erwarten können,
+dass es Bäume,
+nicht nur einen Baum,
+auf beiden Seiten des dem Heiligen gezeigten Flusses gibt\.
+Aber weil der Baum des Lebens im Sakrament der Taufe in jedem Fall einer ist und denjenigen,
+die von allen Seiten zu ihm kommen,
+die Früchte der apostolischen Botschaft gibt,
+steht auf beiden Seiten des Flusses ein Baum des Lebens\.
 
-Körperliche Manifestationen offenbaren so die Geheimnisse des Himmels, dass, obwohl Materie für sich allein nicht die volle geistliche Bedeutung vermitteln kann, es doch eine Verstümmelung wäre, sie nur in ihrem materiellen Aspekt zu betrachten\. Wir hätten erwarten können, dass es Bäume, nicht nur einen Baum, auf beiden Seiten des dem Heiligen gezeigten Flusses gibt\. Aber weil der Baum des Lebens im Sakrament der Taufe in jedem Fall einer ist und denjenigen, die von allen Seiten zu ihm kommen, die Früchte der apostolischen Botschaft gibt, steht auf beiden Seiten des Flusses ein Baum des Lebens\.
-
-Es gibt ein Lamm, das mitten auf dem Thron Gottes gesehen wird, und einen Fluss, und einen Baum des Lebens: drei Gestalten, in denen die Mysterien der Inkarnation, der Taufe und der Passion zusammengefasst sind, deren Blätter, das sind die Worte des Evangeliums, den Nationen Heil bringen durch die Lehre einer Botschaft, die nicht zu Boden fallen kann\.
+Es gibt ein Lamm,
+das mitten auf dem Thron Gottes gesehen wird,
+und einen Fluss,
+und einen Baum des Lebens:
+drei Gestalten,
+in denen die Mysterien der Inkarnation,
+der Taufe und der Passion zusammengefasst sind,
+deren Blätter,
+das sind die Worte des Evangeliums,
+den Nationen Heil bringen durch die Lehre einer Botschaft,
+die nicht zu Boden fallen kann\.
 
 ## Bibelverweise
 

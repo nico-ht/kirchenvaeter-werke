@@ -7,6 +7,44 @@ Autor: Nemesius von Emesa
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/nemesius-von-emesa/ueber-die-natur-des-menschen#kapitel-ebe11617-e239-4495-60fa-08ded609d8f2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:81df4994856911aa7e2d4eaaaf0fb61b8fe8925bb266cf4c7cd1336af9dc30be`
-
-Die Pulsschlagbewegung wird auch Lebenskraft genannt\. Sie hat ihren Ursprung im Herzen, besonders in dessen linker Kammer, die die pneumatische heißt, und verteilt durch die Arterien die angeborene und lebensspendende Wärme an jeden Teil des Körpers, so wie die Leber durch die Venen die Nahrung verteilt\. Wird also das Herz widernatürlich erhitzt, so erhitzt sich sogleich auch das ganze Lebewesen widernatürlich; kühlt es ab, so kühlt auch dieses ab\. Denn das Lebenspneuma wird von ihm aus durch die Arterien in den ganzen Körper ausgesät\. Meist verzweigen sich diese drei, Vene, Arterie und Nerv, miteinander aus den drei leitenden Ursprüngen des Lebewesens: Aus dem Gehirn, das Ursprung von Bewegung und Wahrnehmung ist, kommt der Nerv; aus der Leber, die Ursprung des Blutes und der ernährenden Kraft ist, kommt die Vene, das Gefäß des Blutes; aus dem Herzen, das Ursprung des Lebensvermögens ist, kommt die Arterie, das Gefäß des Pneumas\. Weil sie beieinander sind, ziehen sie voneinander Nutzen\. Denn die Vene liefert dem Nerv und der Arterie Nahrung; die Arterie aber gibt der Vene natürliche Wärme und Lebenspneuma weiter\. Daher lässt sich weder eine Arterie ohne feines Blut noch eine Vene ohne dunstförmiges Pneuma finden\. Die Arterie dehnt sich heftig aus und zieht sich wieder zusammen, nach einer bestimmten Harmonie und Ordnung, wobei sie den Anfang ihrer Bewegung vom Herzen her hat\. Wenn sie sich ausdehnt, zieht sie mit Gewalt aus den benachbarten Venen das feine Blut an; indem dieses ausdünstet, wird es zur Nahrung für das Lebenspneuma\. Wenn sie sich zusammenzieht, entleert sie den rußartigen Stoff in ihr durch den ganzen Körper und durch die unsichtbaren Poren, so wie das Herz durch Mund und Nase beim Ausatmen das Rauchige hinausstößt\.
+Die Pulsschlagbewegung wird auch Lebenskraft genannt\.
+Sie hat ihren Ursprung im Herzen,
+besonders in dessen linker Kammer,
+die die pneumatische heißt,
+und verteilt durch die Arterien die angeborene und lebensspendende Wärme an jeden Teil des Körpers,
+so wie die Leber durch die Venen die Nahrung verteilt\.
+Wird also das Herz widernatürlich erhitzt,
+so erhitzt sich sogleich auch das ganze Lebewesen widernatürlich;
+kühlt es ab,
+so kühlt auch dieses ab\.
+Denn das Lebenspneuma wird von ihm aus durch die Arterien in den ganzen Körper ausgesät\.
+Meist verzweigen sich diese drei,
+Vene,
+Arterie und Nerv,
+miteinander aus den drei leitenden Ursprüngen des Lebewesens:
+Aus dem Gehirn,
+das Ursprung von Bewegung und Wahrnehmung ist,
+kommt der Nerv;
+aus der Leber,
+die Ursprung des Blutes und der ernährenden Kraft ist,
+kommt die Vene,
+das Gefäß des Blutes;
+aus dem Herzen,
+das Ursprung des Lebensvermögens ist,
+kommt die Arterie,
+das Gefäß des Pneumas\.
+Weil sie beieinander sind,
+ziehen sie voneinander Nutzen\.
+Denn die Vene liefert dem Nerv und der Arterie Nahrung;
+die Arterie aber gibt der Vene natürliche Wärme und Lebenspneuma weiter\.
+Daher lässt sich weder eine Arterie ohne feines Blut noch eine Vene ohne dunstförmiges Pneuma finden\.
+Die Arterie dehnt sich heftig aus und zieht sich wieder zusammen,
+nach einer bestimmten Harmonie und Ordnung,
+wobei sie den Anfang ihrer Bewegung vom Herzen her hat\.
+Wenn sie sich ausdehnt,
+zieht sie mit Gewalt aus den benachbarten Venen das feine Blut an;
+indem dieses ausdünstet,
+wird es zur Nahrung für das Lebenspneuma\.
+Wenn sie sich zusammenzieht,
+entleert sie den rußartigen Stoff in ihr durch den ganzen Körper und durch die unsichtbaren Poren,
+so wie das Herz durch Mund und Nase beim Ausatmen das Rauchige hinausstößt\.

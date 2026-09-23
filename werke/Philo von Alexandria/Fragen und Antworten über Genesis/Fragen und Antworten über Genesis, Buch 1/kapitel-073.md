@@ -7,9 +7,18 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-1#kapitel-52a76b77-91b7-4eae-cd63-08dd5e2b9946).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:81132d7caa07b8173f6ff4d1cece5a70782ff9001c3252651e55a5fcb7683dab`
-
-Was bedeutet es, wenn Kain sagt: „Meine Strafe ist zu groß, als dass du mich entlassen könntest[^bible-d4a35ea8-db12-4265-9823-aae5bfdfed28]“? Wahrhaftig, es gibt kein größeres Elend, als von Gott verlassen und verachtet zu werden; denn die Herrschaftslosigkeit der Dummen ist grausam und kaum zu ertragen\. Doch vom großen König verachtet zu werden und als verworfener Mensch, hinabgestoßen aus der Herrschaft der höchsten Macht, zu Boden zu fallen, ist ein unaussprechliches Leid\.
+Was bedeutet es,
+wenn Kain sagt:
+„Meine Strafe ist zu groß,
+als dass du mich entlassen könntest[^bible-d4a35ea8-db12-4265-9823-aae5bfdfed28]“?
+Wahrhaftig,
+es gibt kein größeres Elend,
+als von Gott verlassen und verachtet zu werden;
+denn die Herrschaftslosigkeit der Dummen ist grausam und kaum zu ertragen\.
+Doch vom großen König verachtet zu werden und als verworfener Mensch,
+hinabgestoßen aus der Herrschaft der höchsten Macht,
+zu Boden zu fallen,
+ist ein unaussprechliches Leid\.
 
 ## Bibelverweise
 

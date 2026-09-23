@@ -7,6 +7,39 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-1#kapitel-7be9fe71-538a-41b6-c854-08dd5a4d0198).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e89a8dbc37a35289540b96754eac3203702eb3a6a7545ff2c74d22bdaad4078f`
-
-Als Ptolomaeus vom Tod der beiden erfuhr, er, der die Brüder des Aristobolus und dessen Frau Alexandria an sich genommen hatte, sandte er seinen Sohn Philippion in die Stadt Ascalona, um die Genannten zu holen\. Dieser kam dorthin, nahm Antigonus und seine Schwestern mit, um sie zu seinem Vater zu geleiten; doch durch Brauch und Gewohnheit der Liebe schlich sich ein kleiner Funke in den jungen Mann ein, gewiss verzeihlich, wenn Herrscher zu verzeihen wissen, und er nahm die zweite der Schwestern für sich selbst in den Bund der Ehe\. Sein Vater Ptolomaeus duldete dies nicht: Als vortrefflicher Zensor der Sitten tötete er seinen Sohn und verband seine eigene Schwiegertochter mit sich; er verurteilte die ungefragte Verbindung seines Sohnes, nur um sich selbst mit Vatermord und Blutschande zu beflecken\. Nachdem Pompeius getötet worden war, der, als er vor Caesars Waffen floh, einem ägyptischen Eunuchen sein Haupt zum Abschlagen darbot, kam es zum Umsturz der Verhältnisse\. Er bot sein Haupt jedoch mit jener Geduld dar, mit der er so oft den Sieg über große Völker geschmückt hatte; da er in diesem Schicksal die Lage eines besiegten Verbannten und den Spott der Schwankungen menschlichen Glücks sah, bot er dem Schwert seinen Nacken dar, um von dem, dem er ein Königreich gegeben hatte, den Tod als Gunst zu empfangen\. Nach seinem Tod trat ein Wandel ein: Viele aus dem Kreis der Vertrauten des Pompeius suchten Caesars Freundschaft, besonders Antipater, der in unglaublicher Weise die Freundschaft aller besaß, auf die er es abgesehen hatte\. Denn für alle gab es eine Fülle des Notwendigen, besonders an Kriegsgerät; dadurch werden aus Feinden und Gegnern immer wieder die liebsten Freunde\.
+Als Ptolomaeus vom Tod der beiden erfuhr,
+er,
+der die Brüder des Aristobolus und dessen Frau Alexandria an sich genommen hatte,
+sandte er seinen Sohn Philippion in die Stadt Ascalona,
+um die Genannten zu holen\.
+Dieser kam dorthin,
+nahm Antigonus und seine Schwestern mit,
+um sie zu seinem Vater zu geleiten;
+doch durch Brauch und Gewohnheit der Liebe schlich sich ein kleiner Funke in den jungen Mann ein,
+gewiss verzeihlich,
+wenn Herrscher zu verzeihen wissen,
+und er nahm die zweite der Schwestern für sich selbst in den Bund der Ehe\.
+Sein Vater Ptolomaeus duldete dies nicht:
+Als vortrefflicher Zensor der Sitten tötete er seinen Sohn und verband seine eigene Schwiegertochter mit sich;
+er verurteilte die ungefragte Verbindung seines Sohnes,
+nur um sich selbst mit Vatermord und Blutschande zu beflecken\.
+Nachdem Pompeius getötet worden war,
+der,
+als er vor Caesars Waffen floh,
+einem ägyptischen Eunuchen sein Haupt zum Abschlagen darbot,
+kam es zum Umsturz der Verhältnisse\.
+Er bot sein Haupt jedoch mit jener Geduld dar,
+mit der er so oft den Sieg über große Völker geschmückt hatte;
+da er in diesem Schicksal die Lage eines besiegten Verbannten und den Spott der Schwankungen menschlichen Glücks sah,
+bot er dem Schwert seinen Nacken dar,
+um von dem,
+dem er ein Königreich gegeben hatte,
+den Tod als Gunst zu empfangen\.
+Nach seinem Tod trat ein Wandel ein:
+Viele aus dem Kreis der Vertrauten des Pompeius suchten Caesars Freundschaft,
+besonders Antipater,
+der in unglaublicher Weise die Freundschaft aller besaß,
+auf die er es abgesehen hatte\.
+Denn für alle gab es eine Fülle des Notwendigen,
+besonders an Kriegsgerät;
+dadurch werden aus Feinden und Gegnern immer wieder die liebsten Freunde\.

@@ -7,9 +7,188 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/86-homilie-ueber-matthaeus#kapitel-648c9df7-708b-4e06-5bc3-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ed5eb5b9bb75fbdb83887516f6b9f5c1b3fffe58f725a1716dd3cf37aa8e98f9`
-
-Sie blieben in solchen Dingen unvollkommen, obwohl ihnen ein stärker leiblicher Dienst anvertraut war\. Wir aber, die wir zu den unzugänglichen Räumen der Himmel selbst gerufen sind und in das wahre Heilige der Heiligen eintreten, nehmen die Sorgen von Kaufleuten und Trödlern auf uns\. Daher kommen die große Vernachlässigung der Schriften, die Trägheit im Gebet und die Nachlässigkeit in allem Übrigen\. Denn es ist unmöglich, sich mit dem gebührenden Eifer auf beides zugleich zu teilen\. Darum bitte und flehe ich, dass uns von allen Seiten viele Quellen aufbrechen und euer Eifer uns Tenne und Kelter werde\. So werden auch die Armen leichter ernährt werden, Gott wird verherrlicht werden, ihr werdet in der Menschenfreundlichkeit noch weiter vorankommen und die ewigen Güter genießen\. Möge es uns allen zuteilwerden, sie zu erlangen, durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus; ihm sei die Herrlichkeit in alle Ewigkeit\. Amen\. Homilie sechsundachtzig\. Jesus aber stand vor dem Statthalter, und der Statthalter fragte ihn: „Bist du der König der Juden?“ Jesus sagte: „Du sagst es\.“ Und als er von den Hohepriestern und Presbytern angeklagt wurde, antwortete er nichts\. Siehst du, was zuerst untersucht wird? Das, was sie fortwährend am meisten hin und her verdrehten\. Denn als sie sahen, dass Pilatus die Fragen des Gesetzes nicht beachtete, lenkten sie die Anklage auf Vergehen gegen die öffentliche Ordnung\. So machten sie es auch bei den Aposteln: Immer brachten sie dies vor und sagten, sie zögen umher und verkündeten einen gewissen König Jesus, als sprächen sie von einem bloßen Menschen, und legten ihnen den Verdacht der Gewaltherrschaft zur Last\. Daraus wird klar, dass auch das Zerreißen des Untergewandes und das Entsetztsein nur Vorwand war\. Sie brachten alles durcheinander und verdrehten alles, um ihn in den Tod zu treiben\. Eben dies fragte damals auch Pilatus\. Was also sagt Christus? „Du hast es gesagt\.“ Er bekannte, König zu sein, aber ein himmlischer König\. Das sagte er auch an anderer Stelle deutlicher, als er Pilatus antwortete: „Mein Reich ist nicht von dieser Welt\.[^bible-d348d9a8-ce7a-4f5e-97a3-7cee0f301426]“ So sollten weder jene noch dieser eine Entschuldigung haben, wenn sie solche Anklagen erhoben\. Und er führt einen unwiderlegbaren Grund an, indem er sagt: „Wenn ich von dieser Welt wäre, hätten meine Diener gekämpft, damit ich nicht ausgeliefert würde\.[^bible-d348d9a8-ce7a-4f5e-97a3-7cee0f301426]“ Gerade deshalb, um diesen Verdacht abzuwehren, zahlte er auch die Steuer und befahl anderen, sie zu zahlen; und als sie ihn zum König machen wollten, floh er\. „Warum also“, sagt jemand, „brachte er dies damals nicht vor, als man ihn der Gewaltherrschaft beschuldigte?“ Weil sie aus den Tatsachen unzählige Beweise für seine Macht, seine Sanftmut und seine Milde hatten, sich aber freiwillig blind stellten und böswillig handelten; und das Gericht war verdorben\. Deshalb antwortet er auf nichts, sondern schweigt\. Nur kurz antwortet er, damit aus dem dauernden Schweigen nicht der Eindruck von Trotz entsteht: als der Hohepriester ihn beschwor und als der Statthalter fragte\. Auf ihre Anklagen aber sagt er nichts mehr; denn er würde sie ja nicht überzeugen\. So hatte auch der Prophet dies schon von Anfang an deutlich gemacht, als er sagte: „In seiner Erniedrigung wurde sein Gericht weggenommen\.[^bible-ebb1ae9f-b8ac-4926-b7d7-302f149812af]“ Darüber staunte der Statthalter\. Denn es war wirklich staunenswert zu sehen, wie einer so große Milde zeigte und schwieg, obwohl er unzählige Dinge hätte sagen können\. Denn auch sie klagten ihn nicht an, weil sie in ihrem Gewissen von irgendeiner bösen Tat bei ihm wussten, sondern allein aus Missgunst und Neid\. Nachdem sie falsche Zeugen aufgestellt hatten, warum setzten sie ihm weiter zu, obwohl sie nichts vorzubringen hatten? Warum wurden sie nicht erschüttert, als sie Judas verendet sahen und Pilatus, wie er sich die Hände abwusch? Denn auch noch in eben jener Stunde tat er vieles, damit sie wieder zur Besinnung kämen; aber durch nichts davon wurden sie besser\. Was also sagt Pilatus? „Hörst du nicht, wie viel diese gegen dich bezeugen?“ Er wollte nämlich, dass er sich verteidige und freikomme; deshalb sagte er dies\. Als er aber nichts antwortete, sucht er nach einem anderen Ausweg\. Welchen? Es war bei ihnen Brauch, einen der Verurteilten freizulassen; auf diesem Weg versuchte er, ihn zu retten\. Wenn ihr ihn nicht als Unschuldigen freilassen wollt, sagt er, dann schenkt ihn doch wenigstens als Verurteilten dem Fest\. Siehst du, wie die Ordnung umgekehrt wird? Denn die Bitte für die Verurteilten musste nach der Gewohnheit vom Volk kommen, die Gewährung aber vom Herrscher\. Jetzt aber ist das Gegenteil geschehen: Der Herrscher bittet das Volk\. Und nicht einmal so werden sie milder, sondern sie werden noch wilder und mordsüchtiger, berauscht von der Leidenschaft des Neides\. Denn sie hatten nichts, womit sie ihn anklagen konnten, und das, obwohl er schwieg\. Auch so wurden sie durch die Fülle der Rechtfertigungsgründe überführt; und indem er schwieg, besiegte er die, die unzählige Dinge sagten und tobten\. Als er aber auf dem Richterstuhl saß, ließ ihm seine Frau sagen: „Habe nichts zu schaffen mit diesem Gerechten; denn ich habe heute im Traum viel seinetwegen gelitten\.“ Sieh, was da wieder geschieht, etwas, das geeignet war, sie alle zurückzurufen\. Denn neben dem Beweis aus den Tatsachen war auch der Traum nichts Geringes\. Und weshalb sieht ihn nicht Pilatus selbst? Entweder weil sie es eher wert war, oder weil ihm, wenn er ihn gesehen hätte, nicht ebenso geglaubt worden wäre, oder weil er ihn vielleicht gar nicht ausgesprochen hätte\. Deshalb wird es so gefügt, dass die Frau ihn sieht, damit es allen offenkundig wird\. Und sie sieht nicht nur einfach etwas, sondern leidet auch viel, damit der Mann auch aus Mitgefühl mit seiner Frau zögernder werde, wenn es um den Mord geht\. Auch der Zeitpunkt trug nicht wenig bei; denn sie sah ihn gerade in dieser Nacht\. „Aber es war für ihn doch nicht sicher“, sagt jemand, „ihn freizulassen, weil sie sagten, er habe sich selbst zum König gemacht\.“ Dann hätte er Beweise und Widerlegungen suchen müssen und alles, was Kennzeichen einer Gewaltherrschaft ist: etwa ob er Heere ausgehoben, Geld gesammelt, Waffen schmieden lassen oder etwas dergleichen versucht hatte\. Er aber lässt sich schlicht mitreißen\. Darum spricht auch Christus ihn nicht von den Anklagen frei, sondern sagt: „Größere Sünde hat, wer mich dir ausliefert\.[^bible-0367bd02-fda6-4f82-b4a1-16beacbe71ac]“ Also war das Nachgeben Schwäche, ebenso wie dies: ihn auspeitschen zu lassen und dann auszuliefern\. Pilatus also war feige und schwach; die Hohepriester aber waren böse und böswillig\. Denn als er einen Ausweg fand, nämlich das Festgesetz, das gebot, einen Verurteilten freizulassen, was ersinnen sie dagegen? Sie überredeten, heißt es, die Menge, Barabbas zu verlangen\.
+Sie blieben in solchen Dingen unvollkommen,
+obwohl ihnen ein stärker leiblicher Dienst anvertraut war\.
+Wir aber,
+die wir zu den unzugänglichen Räumen der Himmel selbst gerufen sind und in das wahre Heilige der Heiligen eintreten,
+nehmen die Sorgen von Kaufleuten und Trödlern auf uns\.
+Daher kommen die große Vernachlässigung der Schriften,
+die Trägheit im Gebet und die Nachlässigkeit in allem Übrigen\.
+Denn es ist unmöglich,
+sich mit dem gebührenden Eifer auf beides zugleich zu teilen\.
+Darum bitte und flehe ich,
+dass uns von allen Seiten viele Quellen aufbrechen und euer Eifer uns Tenne und Kelter werde\.
+So werden auch die Armen leichter ernährt werden,
+Gott wird verherrlicht werden,
+ihr werdet in der Menschenfreundlichkeit noch weiter vorankommen und die ewigen Güter genießen\.
+Möge es uns allen zuteilwerden,
+sie zu erlangen,
+durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus;
+ihm sei die Herrlichkeit in alle Ewigkeit\.
+Amen\.
+Homilie sechsundachtzig\.
+Jesus aber stand vor dem Statthalter,
+und der Statthalter fragte ihn:
+„Bist du der König der Juden?“
+Jesus sagte:
+„Du sagst es\.“
+Und als er von den Hohepriestern und Presbytern angeklagt wurde,
+antwortete er nichts\.
+Siehst du,
+was zuerst untersucht wird?
+Das,
+was sie fortwährend am meisten hin und her verdrehten\.
+Denn als sie sahen,
+dass Pilatus die Fragen des Gesetzes nicht beachtete,
+lenkten sie die Anklage auf Vergehen gegen die öffentliche Ordnung\.
+So machten sie es auch bei den Aposteln:
+Immer brachten sie dies vor und sagten,
+sie zögen umher und verkündeten einen gewissen König Jesus,
+als sprächen sie von einem bloßen Menschen,
+und legten ihnen den Verdacht der Gewaltherrschaft zur Last\.
+Daraus wird klar,
+dass auch das Zerreißen des Untergewandes und das Entsetztsein nur Vorwand war\.
+Sie brachten alles durcheinander und verdrehten alles,
+um ihn in den Tod zu treiben\.
+Eben dies fragte damals auch Pilatus\.
+Was also sagt Christus?
+„Du hast es gesagt\.“
+Er bekannte,
+König zu sein,
+aber ein himmlischer König\.
+Das sagte er auch an anderer Stelle deutlicher,
+als er Pilatus antwortete:
+„Mein Reich ist nicht von dieser Welt\.[^bible-d348d9a8-ce7a-4f5e-97a3-7cee0f301426]“ So sollten weder jene noch dieser eine Entschuldigung haben,
+wenn sie solche Anklagen erhoben\.
+Und er führt einen unwiderlegbaren Grund an,
+indem er sagt:
+„Wenn ich von dieser Welt wäre,
+hätten meine Diener gekämpft,
+damit ich nicht ausgeliefert würde\.[^bible-d348d9a8-ce7a-4f5e-97a3-7cee0f301426]“ Gerade deshalb,
+um diesen Verdacht abzuwehren,
+zahlte er auch die Steuer und befahl anderen,
+sie zu zahlen;
+und als sie ihn zum König machen wollten,
+floh er\.
+„Warum also“,
+sagt jemand,
+„brachte er dies damals nicht vor,
+als man ihn der Gewaltherrschaft beschuldigte?“
+Weil sie aus den Tatsachen unzählige Beweise für seine Macht,
+seine Sanftmut und seine Milde hatten,
+sich aber freiwillig blind stellten und böswillig handelten;
+und das Gericht war verdorben\.
+Deshalb antwortet er auf nichts,
+sondern schweigt\.
+Nur kurz antwortet er,
+damit aus dem dauernden Schweigen nicht der Eindruck von Trotz entsteht:
+als der Hohepriester ihn beschwor und als der Statthalter fragte\.
+Auf ihre Anklagen aber sagt er nichts mehr;
+denn er würde sie ja nicht überzeugen\.
+So hatte auch der Prophet dies schon von Anfang an deutlich gemacht,
+als er sagte:
+„In seiner Erniedrigung wurde sein Gericht weggenommen\.[^bible-ebb1ae9f-b8ac-4926-b7d7-302f149812af]“ Darüber staunte der Statthalter\.
+Denn es war wirklich staunenswert zu sehen,
+wie einer so große Milde zeigte und schwieg,
+obwohl er unzählige Dinge hätte sagen können\.
+Denn auch sie klagten ihn nicht an,
+weil sie in ihrem Gewissen von irgendeiner bösen Tat bei ihm wussten,
+sondern allein aus Missgunst und Neid\.
+Nachdem sie falsche Zeugen aufgestellt hatten,
+warum setzten sie ihm weiter zu,
+obwohl sie nichts vorzubringen hatten?
+Warum wurden sie nicht erschüttert,
+als sie Judas verendet sahen und Pilatus,
+wie er sich die Hände abwusch?
+Denn auch noch in eben jener Stunde tat er vieles,
+damit sie wieder zur Besinnung kämen;
+aber durch nichts davon wurden sie besser\.
+Was also sagt Pilatus?
+„Hörst du nicht,
+wie viel diese gegen dich bezeugen?“
+Er wollte nämlich,
+dass er sich verteidige und freikomme;
+deshalb sagte er dies\.
+Als er aber nichts antwortete,
+sucht er nach einem anderen Ausweg\.
+Welchen?
+Es war bei ihnen Brauch,
+einen der Verurteilten freizulassen;
+auf diesem Weg versuchte er,
+ihn zu retten\.
+Wenn ihr ihn nicht als Unschuldigen freilassen wollt,
+sagt er,
+dann schenkt ihn doch wenigstens als Verurteilten dem Fest\.
+Siehst du,
+wie die Ordnung umgekehrt wird?
+Denn die Bitte für die Verurteilten musste nach der Gewohnheit vom Volk kommen,
+die Gewährung aber vom Herrscher\.
+Jetzt aber ist das Gegenteil geschehen:
+Der Herrscher bittet das Volk\.
+Und nicht einmal so werden sie milder,
+sondern sie werden noch wilder und mordsüchtiger,
+berauscht von der Leidenschaft des Neides\.
+Denn sie hatten nichts,
+womit sie ihn anklagen konnten,
+und das,
+obwohl er schwieg\.
+Auch so wurden sie durch die Fülle der Rechtfertigungsgründe überführt;
+und indem er schwieg,
+besiegte er die,
+die unzählige Dinge sagten und tobten\.
+Als er aber auf dem Richterstuhl saß,
+ließ ihm seine Frau sagen:
+„Habe nichts zu schaffen mit diesem Gerechten;
+denn ich habe heute im Traum viel seinetwegen gelitten\.“
+Sieh,
+was da wieder geschieht,
+etwas,
+das geeignet war,
+sie alle zurückzurufen\.
+Denn neben dem Beweis aus den Tatsachen war auch der Traum nichts Geringes\.
+Und weshalb sieht ihn nicht Pilatus selbst?
+Entweder weil sie es eher wert war,
+oder weil ihm,
+wenn er ihn gesehen hätte,
+nicht ebenso geglaubt worden wäre,
+oder weil er ihn vielleicht gar nicht ausgesprochen hätte\.
+Deshalb wird es so gefügt,
+dass die Frau ihn sieht,
+damit es allen offenkundig wird\.
+Und sie sieht nicht nur einfach etwas,
+sondern leidet auch viel,
+damit der Mann auch aus Mitgefühl mit seiner Frau zögernder werde,
+wenn es um den Mord geht\.
+Auch der Zeitpunkt trug nicht wenig bei;
+denn sie sah ihn gerade in dieser Nacht\.
+„Aber es war für ihn doch nicht sicher“,
+sagt jemand,
+„ihn freizulassen,
+weil sie sagten,
+er habe sich selbst zum König gemacht\.“
+Dann hätte er Beweise und Widerlegungen suchen müssen und alles,
+was Kennzeichen einer Gewaltherrschaft ist:
+etwa ob er Heere ausgehoben,
+Geld gesammelt,
+Waffen schmieden lassen oder etwas dergleichen versucht hatte\.
+Er aber lässt sich schlicht mitreißen\.
+Darum spricht auch Christus ihn nicht von den Anklagen frei,
+sondern sagt:
+„Größere Sünde hat,
+wer mich dir ausliefert\.[^bible-0367bd02-fda6-4f82-b4a1-16beacbe71ac]“ Also war das Nachgeben Schwäche,
+ebenso wie dies:
+ihn auspeitschen zu lassen und dann auszuliefern\.
+Pilatus also war feige und schwach;
+die Hohepriester aber waren böse und böswillig\.
+Denn als er einen Ausweg fand,
+nämlich das Festgesetz,
+das gebot,
+einen Verurteilten freizulassen,
+was ersinnen sie dagegen?
+Sie überredeten,
+heißt es,
+die Menge,
+Barabbas zu verlangen\.
 
 ## Bibelverweise
 

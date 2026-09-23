@@ -7,6 +7,25 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-8#kapitel-a79d3a59-2bcb-437d-284a-08dd2a929b9c).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f86716da39a39fc7bc04ffe1c8b4857a7aa8c958431010b77c4422982a1d0172`
-
-„Wenn“, sagte der alte Mann, „sogar die Gerechten wegen der Ungerechtigkeiten anderer gequält werden, dann hätte Gott, da Er dies voraussehen konnte, den Menschen gebieten müssen, solche Dinge zu unterlassen, durch die es notwendig wäre, dass die Gerechten mit den Ungerechten leiden; oder wenn sie es dennoch taten, hätte Er irgendeine Korrektur oder Reinigung für die Welt anordnen müssen\.“ „Gott“, entgegnete Aquila, „hat dies befohlen und durch die Propheten Gebote gegeben, wie die Menschen leben sollen; aber selbst diese Gebote haben sie verachtet: Ja, wenn jemand wünschte, sie zu befolgen, haben sie ihn mit verschiedenen Verletzungen gequält, bis sie ihn von seiner beabsichtigten Einhaltung abbrachten, ihn in die Menge des Unglaubens führten und ihn wie sich selbst machten\.
+„Wenn“,
+sagte der alte Mann,
+„sogar die Gerechten wegen der Ungerechtigkeiten anderer gequält werden,
+dann hätte Gott,
+da Er dies voraussehen konnte,
+den Menschen gebieten müssen,
+solche Dinge zu unterlassen,
+durch die es notwendig wäre,
+dass die Gerechten mit den Ungerechten leiden;
+oder wenn sie es dennoch taten,
+hätte Er irgendeine Korrektur oder Reinigung für die Welt anordnen müssen\.“
+„Gott“,
+entgegnete Aquila,
+„hat dies befohlen und durch die Propheten Gebote gegeben,
+wie die Menschen leben sollen;
+aber selbst diese Gebote haben sie verachtet:
+Ja,
+wenn jemand wünschte,
+sie zu befolgen,
+haben sie ihn mit verschiedenen Verletzungen gequält,
+bis sie ihn von seiner beabsichtigten Einhaltung abbrachten,
+ihn in die Menge des Unglaubens führten und ihn wie sich selbst machten\.

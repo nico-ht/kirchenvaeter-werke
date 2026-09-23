@@ -7,6 +7,66 @@ Autor: Athenagoras von Athen
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athenagoras/ueber-die-auferstehung-der-toten#kapitel-1862e53a-6f91-4fc6-a8fa-08df134d0b15).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e1f0d8d1fa261077877091aca58fbf3b11ab42c68b3b3dee402308fad17eef89`
-
-Der Beweis für die wahren Lehren oder für alles, was sonst irgendwie zur Prüfung vorgelegt wird, verleiht dem Gesagten untrügliche Gewissheit\. Seinen Ausgangspunkt hat er nicht irgendwo außerhalb der Sache und auch nicht in dem, was manche meinen oder als Lehrsatz festgelegt haben, sondern in der allen gemeinsamen und natürlichen Einsicht oder in der Folgerichtigkeit, mit der sich das Zweite aus dem Ersten ergibt\. Entweder geht es nämlich um die grundlegenden Lehren; dann braucht es nur eine Erinnerung, die die natürliche Einsicht wieder weckt\. Oder es geht um das, was sich der Natur der Sache nach aus den Grundlagen ergibt, und um die natürliche Abfolge; dann kommt es auf die Ordnung dieser Dinge an\. Dabei muss man zeigen, was sich tatsächlich aus den Grundlagen oder den zuvor aufgestellten Sätzen ergibt, damit man weder die Wahrheit oder die auf ihr beruhende Sicherheit vernachlässigt noch das von Natur aus Geordnete und voneinander Abgegrenzte durcheinanderbringt oder den natürlichen Zusammenhang zerreißt\. Deshalb halte ich es für richtig, dass diejenigen, die sich ernsthaft mit der vorliegenden Frage befassen und vernünftig beurteilen wollen, ob es eine Auferstehung der menschlichen Körper gibt oder nicht, zunächst sorgfältig prüfen, welche Beweiskraft die dafür angeführten Gründe haben und welcher Platz jedem einzelnen zukommt: Was davon steht an erster, was an zweiter oder dritter Stelle, und was kommt danach zuletzt? Haben sie dies geordnet, müssen sie an die erste Stelle den Grund für die Erschaffung der Menschen setzen, das heißt die Absicht des Schöpfers, nach der er den Menschen geschaffen hat\. Daran müssen sie folgerichtig die Natur der geschaffenen Menschen anschließen, nicht weil sie dem Rang nach an zweiter Stelle steht, sondern weil sich beides nicht zugleich beurteilen lässt, auch wenn beides aufs Engste miteinander verbunden ist und für die vorliegende Frage die gleiche Beweiskraft besitzt\. Durch diese Gründe, die grundlegend sind und ihren Ursprung in der Schöpfung haben, wird die Auferstehung klar erwiesen\. Nicht weniger kann man aber auch durch die Überlegungen zur Vorsehung Gewissheit über sie gewinnen\. Ich meine damit die Ehre oder Strafe, die jedem Menschen nach gerechtem Urteil gebührt, und das Ziel des menschlichen Lebens\. Denn viele, die die Lehre von der Auferstehung behandelt haben, stützten ihre gesamte Begründung allein auf den dritten Grund, weil sie meinten, die Auferstehung geschehe um des Gerichts willen\. Dass dies falsch ist, zeigt sich aber ganz deutlich daran, dass zwar alle Menschen, die sterben, auferstehen, aber nicht alle Auferstandenen gerichtet werden\. Denn wenn allein die Gerechtigkeit des Gerichts der Grund für die Auferstehung wäre, dürften doch diejenigen, die weder gesündigt noch Gutes getan haben, auch nicht auferstehen, das heißt die ganz kleinen Kinder\. Da sie aber selbst anerkennen, dass alle auferstehen, sowohl die übrigen Menschen als auch gerade diejenigen, die im frühesten Kindesalter gestorben sind, geschieht die Auferstehung nicht in erster Linie um des Gerichts willen, sondern aufgrund der Absicht des Schöpfers und der Natur der Geschaffenen\.
+Der Beweis für die wahren Lehren oder für alles,
+was sonst irgendwie zur Prüfung vorgelegt wird,
+verleiht dem Gesagten untrügliche Gewissheit\.
+Seinen Ausgangspunkt hat er nicht irgendwo außerhalb der Sache und auch nicht in dem,
+was manche meinen oder als Lehrsatz festgelegt haben,
+sondern in der allen gemeinsamen und natürlichen Einsicht oder in der Folgerichtigkeit,
+mit der sich das Zweite aus dem Ersten ergibt\.
+Entweder geht es nämlich um die grundlegenden Lehren;
+dann braucht es nur eine Erinnerung,
+die die natürliche Einsicht wieder weckt\.
+Oder es geht um das,
+was sich der Natur der Sache nach aus den Grundlagen ergibt,
+und um die natürliche Abfolge;
+dann kommt es auf die Ordnung dieser Dinge an\.
+Dabei muss man zeigen,
+was sich tatsächlich aus den Grundlagen oder den zuvor aufgestellten Sätzen ergibt,
+damit man weder die Wahrheit oder die auf ihr beruhende Sicherheit vernachlässigt noch das von Natur aus Geordnete und voneinander Abgegrenzte durcheinanderbringt oder den natürlichen Zusammenhang zerreißt\.
+Deshalb halte ich es für richtig,
+dass diejenigen,
+die sich ernsthaft mit der vorliegenden Frage befassen und vernünftig beurteilen wollen,
+ob es eine Auferstehung der menschlichen Körper gibt oder nicht,
+zunächst sorgfältig prüfen,
+welche Beweiskraft die dafür angeführten Gründe haben und welcher Platz jedem einzelnen zukommt:
+Was davon steht an erster,
+was an zweiter oder dritter Stelle,
+und was kommt danach zuletzt?
+Haben sie dies geordnet,
+müssen sie an die erste Stelle den Grund für die Erschaffung der Menschen setzen,
+das heißt die Absicht des Schöpfers,
+nach der er den Menschen geschaffen hat\.
+Daran müssen sie folgerichtig die Natur der geschaffenen Menschen anschließen,
+nicht weil sie dem Rang nach an zweiter Stelle steht,
+sondern weil sich beides nicht zugleich beurteilen lässt,
+auch wenn beides aufs Engste miteinander verbunden ist und für die vorliegende Frage die gleiche Beweiskraft besitzt\.
+Durch diese Gründe,
+die grundlegend sind und ihren Ursprung in der Schöpfung haben,
+wird die Auferstehung klar erwiesen\.
+Nicht weniger kann man aber auch durch die Überlegungen zur Vorsehung Gewissheit über sie gewinnen\.
+Ich meine damit die Ehre oder Strafe,
+die jedem Menschen nach gerechtem Urteil gebührt,
+und das Ziel des menschlichen Lebens\.
+Denn viele,
+die die Lehre von der Auferstehung behandelt haben,
+stützten ihre gesamte Begründung allein auf den dritten Grund,
+weil sie meinten,
+die Auferstehung geschehe um des Gerichts willen\.
+Dass dies falsch ist,
+zeigt sich aber ganz deutlich daran,
+dass zwar alle Menschen,
+die sterben,
+auferstehen,
+aber nicht alle Auferstandenen gerichtet werden\.
+Denn wenn allein die Gerechtigkeit des Gerichts der Grund für die Auferstehung wäre,
+dürften doch diejenigen,
+die weder gesündigt noch Gutes getan haben,
+auch nicht auferstehen,
+das heißt die ganz kleinen Kinder\.
+Da sie aber selbst anerkennen,
+dass alle auferstehen,
+sowohl die übrigen Menschen als auch gerade diejenigen,
+die im frühesten Kindesalter gestorben sind,
+geschieht die Auferstehung nicht in erster Linie um des Gerichts willen,
+sondern aufgrund der Absicht des Schöpfers und der Natur der Geschaffenen\.

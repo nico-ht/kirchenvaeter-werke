@@ -7,6 +7,42 @@ Autor: Cyprian von Karthago
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/cyprian/ueber-die-einheit-der-kirche#kapitel-aadac323-3ab3-41f9-036c-08dd2e857637).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3d2e5157c6e3f2bf4da0def152bd0a5226e2c69d1dd40c1083c3a0dc93851b7c`
-
-Und diese Einheit müssen wir festhalten und verteidigen, besonders wir Bischöfe, die wir in der Kirche den Vorsitz führen, damit wir auch das Bischofsamt selbst als eins und ungeteilt erweisen können\. Niemand soll die Brüder durch eine Täuschung in die Irre führen; niemand soll die Wahrheit des Glaubens durch treulosen Betrug verfälschen\. Das Episkopat \(Bischofsamt\) ist eins, und jeder Einzelne hat in gleicherweise so Anteil daran, dass jeder das Ganze besitzt\. Ebenso ist auch die Kirche eins, die sich durch das Wachstum ihrer Fruchtbarkeit in eine weite und breite Menge ausbreitet\. Wie es viele Strahlen der Sonne gibt, aber nur ein Licht; und viele Äste eines Baumes, aber nur eine Kraft, die in der festen Wurzel gründet; und wie aus einer Quelle viele Ströme fließen – obwohl sich die Vielzahl in einer überfließenden Fülle verteilt, bleibt die Einheit doch in der Quelle bewahrt\. Trenne einen Sonnenstrahl von seinem Lichtkörper, und die Einheit lässt keine Teilung des Lichts zu; brich einen Ast vom Baum – abgebrochen kann er nicht weiter sprießen; schneide einen Fluss von seiner Quelle ab, und das Abgeschnittene trocknet aus\. So ist es auch mit der Kirche: vom Licht des Herrn überstrahlt, verbreitet sie ihre Strahlen über die ganze Welt, und doch ist es ein und dasselbe Licht, das überall ausgestrahlt wird, und die Einheit des Leibes bleibt ungeteilt\. Ihre fruchtbare Fülle breitet ihre Zweige über die ganze Erde aus\. Sie dehnt ihre Ströme großzügig aus, die reichlich fließen, doch ihr Haupt ist eins, ihre Quelle ist eins; und sie ist eine Mutter, reich an den Früchten ihrer Fruchtbarkeit: aus ihrem Schoß werden wir geboren, durch ihre Milch werden wir genährt, durch ihren Geist werden wir belebt\.
+Und diese Einheit müssen wir festhalten und verteidigen,
+besonders wir Bischöfe,
+die wir in der Kirche den Vorsitz führen,
+damit wir auch das Bischofsamt selbst als eins und ungeteilt erweisen können\.
+Niemand soll die Brüder durch eine Täuschung in die Irre führen;
+niemand soll die Wahrheit des Glaubens durch treulosen Betrug verfälschen\.
+Das Episkopat \(Bischofsamt\) ist eins,
+und jeder Einzelne hat in gleicherweise so Anteil daran,
+dass jeder das Ganze besitzt\.
+Ebenso ist auch die Kirche eins,
+die sich durch das Wachstum ihrer Fruchtbarkeit in eine weite und breite Menge ausbreitet\.
+Wie es viele Strahlen der Sonne gibt,
+aber nur ein Licht;
+und viele Äste eines Baumes,
+aber nur eine Kraft,
+die in der festen Wurzel gründet;
+und wie aus einer Quelle viele Ströme fließen – obwohl sich die Vielzahl in einer überfließenden Fülle verteilt,
+bleibt die Einheit doch in der Quelle bewahrt\.
+Trenne einen Sonnenstrahl von seinem Lichtkörper,
+und die Einheit lässt keine Teilung des Lichts zu;
+brich einen Ast vom Baum – abgebrochen kann er nicht weiter sprießen;
+schneide einen Fluss von seiner Quelle ab,
+und das Abgeschnittene trocknet aus\.
+So ist es auch mit der Kirche:
+vom Licht des Herrn überstrahlt,
+verbreitet sie ihre Strahlen über die ganze Welt,
+und doch ist es ein und dasselbe Licht,
+das überall ausgestrahlt wird,
+und die Einheit des Leibes bleibt ungeteilt\.
+Ihre fruchtbare Fülle breitet ihre Zweige über die ganze Erde aus\.
+Sie dehnt ihre Ströme großzügig aus,
+die reichlich fließen,
+doch ihr Haupt ist eins,
+ihre Quelle ist eins;
+und sie ist eine Mutter,
+reich an den Früchten ihrer Fruchtbarkeit:
+aus ihrem Schoß werden wir geboren,
+durch ihre Milch werden wir genährt,
+durch ihren Geist werden wir belebt\.

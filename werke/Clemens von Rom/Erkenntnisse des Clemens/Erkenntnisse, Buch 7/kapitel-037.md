@@ -7,9 +7,71 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-7#kapitel-cc7abf0c-8ebd-43d2-204b-08dd2595307e).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:de319b765689be50526e974b634c5b421aecc6701fed6b6c45e67de787e37589`
-
-Dann sagte Petrus: „Lass nicht den Gottlosen gegen uns siegen, indem er die Liebe einer Mutter ausnutzt\. Lasst uns, und ich mit euch, heute zusammen mit ihr fasten, und morgen soll sie getauft werden\. Es ist nicht recht, dass die Gebote der Wahrheit zugunsten einer Person oder Freundschaft gelockert und geschwächt werden\. Lasst uns also nicht davor zurückschrecken, mit ihr zu leiden, denn es ist eine Sünde, ein Gebot zu übertreten\. Lasst uns unsere körperlichen Sinne, die außerhalb von uns sind, dazu bringen, sich den inneren Sinnen zu unterwerfen; und lasst nicht die inneren Sinne, die die Dinge Gottes schätzen, den äußeren Sinnen folgen, die die Dinge des Fleisches schätzen\. Denn zu diesem Zweck hat auch der Herr geboten und gesagt: „Wer eine Frau ansieht, um sie zu begehren, hat bereits in seinem Herzen Ehebruch mit ihr begangen\.“[^bible-e7f0b11c-16ec-4b3b-8b8e-a4132ebbe94a] Und dazu fügte Er hinzu: „Wenn dein rechtes Auge dich ärgert, reiß es aus und wirf es von dir; denn es ist besser für dich, dass eines deiner Glieder verderbe, als dass dein ganzer Leib in die Hölle geworfen wird\.“[^bible-455ca416-bda7-4b38-8431-3a1501e54b86] Er sagt nicht, dass es dich beleidigt hat, sodass du dann die Ursache der Sünde wegwerfen solltest, nachdem du gesündigt hast; sondern wenn es dich ärgert, das heißt, bevor du sündigst, solltest du die Ursache der Sünde, die dich reizt und provoziert, abschneiden\. Aber lasst niemand von euch, Brüder, denken, dass der Herr das Abtrennen der Glieder geboten hat\. Sein Sinn ist, dass das Verlangen abgeschnitten werden soll, nicht die Glieder, und die Ursachen, die zur Sünde verleiten, damit unser Gedanke, getragen auf dem Wagen des Sehens, zur Liebe Gottes drängen kann, unterstützt von den körperlichen Sinnen\. Lasst nicht die Augen des Fleisches, wie zügellose Pferde, die Zügel los, um außerhalb des Weges der Gebote zu laufen, sondern lasst die körperliche Sicht dem Urteil des Geistes unterworfen sein und lasst nicht zu, dass unsere Augen, die Gott dazu bestimmt hat, Seine Werke zu betrachten und zu bezeugen, zu Verführern böser Begierden werden\. Daher lasst die körperlichen Sinne sowie der innere Gedanke dem Gesetz Gottes unterworfen sein und lasst sie Seinem Willen dienen, dessen Werk sie selbst anerkennen\.“
+Dann sagte Petrus:
+„Lass nicht den Gottlosen gegen uns siegen,
+indem er die Liebe einer Mutter ausnutzt\.
+Lasst uns,
+und ich mit euch,
+heute zusammen mit ihr fasten,
+und morgen soll sie getauft werden\.
+Es ist nicht recht,
+dass die Gebote der Wahrheit zugunsten einer Person oder Freundschaft gelockert und geschwächt werden\.
+Lasst uns also nicht davor zurückschrecken,
+mit ihr zu leiden,
+denn es ist eine Sünde,
+ein Gebot zu übertreten\.
+Lasst uns unsere körperlichen Sinne,
+die außerhalb von uns sind,
+dazu bringen,
+sich den inneren Sinnen zu unterwerfen;
+und lasst nicht die inneren Sinne,
+die die Dinge Gottes schätzen,
+den äußeren Sinnen folgen,
+die die Dinge des Fleisches schätzen\.
+Denn zu diesem Zweck hat auch der Herr geboten und gesagt:
+„Wer eine Frau ansieht,
+um sie zu begehren,
+hat bereits in seinem Herzen Ehebruch mit ihr begangen\.“[^bible-e7f0b11c-16ec-4b3b-8b8e-a4132ebbe94a]
+Und dazu fügte Er hinzu:
+„Wenn dein rechtes Auge dich ärgert,
+reiß es aus und wirf es von dir;
+denn es ist besser für dich,
+dass eines deiner Glieder verderbe,
+als dass dein ganzer Leib in die Hölle geworfen wird\.“[^bible-455ca416-bda7-4b38-8431-3a1501e54b86]
+Er sagt nicht,
+dass es dich beleidigt hat,
+sodass du dann die Ursache der Sünde wegwerfen solltest,
+nachdem du gesündigt hast;
+sondern wenn es dich ärgert,
+das heißt,
+bevor du sündigst,
+solltest du die Ursache der Sünde,
+die dich reizt und provoziert,
+abschneiden\.
+Aber lasst niemand von euch,
+Brüder,
+denken,
+dass der Herr das Abtrennen der Glieder geboten hat\.
+Sein Sinn ist,
+dass das Verlangen abgeschnitten werden soll,
+nicht die Glieder,
+und die Ursachen,
+die zur Sünde verleiten,
+damit unser Gedanke,
+getragen auf dem Wagen des Sehens,
+zur Liebe Gottes drängen kann,
+unterstützt von den körperlichen Sinnen\.
+Lasst nicht die Augen des Fleisches,
+wie zügellose Pferde,
+die Zügel los,
+um außerhalb des Weges der Gebote zu laufen,
+sondern lasst die körperliche Sicht dem Urteil des Geistes unterworfen sein und lasst nicht zu,
+dass unsere Augen,
+die Gott dazu bestimmt hat,
+Seine Werke zu betrachten und zu bezeugen,
+zu Verführern böser Begierden werden\.
+Daher lasst die körperlichen Sinne sowie der innere Gedanke dem Gesetz Gottes unterworfen sein und lasst sie Seinem Willen dienen,
+dessen Werk sie selbst anerkennen\.“
 
 ## Bibelverweise
 

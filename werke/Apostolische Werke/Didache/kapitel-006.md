@@ -7,9 +7,19 @@ Autor: Apostolische Werke
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-werke/didache#kapitel-36b063d9-8144-4b98-83aa-08dd99777989).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:dad61a7aec5d989c13eea4d73bf937730ed95e35c57bbda7b877715bd6bbcdc9`
-
-Achte darauf, dass dich niemand von diesem Weg der Lehre abbringt; denn er lehrt dich dann fern von Gott\. Wenn du nämlich das ganze Joch des Herrn tragen[^bible-52e05f55-0f68-491e-a1bf-0acefeb13660] kannst, wirst du vollkommen sein; wenn du es aber nicht kannst, dann tu, was du kannst\.[^fn-462e355e-2cca-4cc1-1414-08deca2e86c5] Was die Speise betrifft, nimm auf dich, was du kannst; vor dem Götzenopferfleisch[^fn-5bda3d16-67ba-4bde-1415-08deca2e86c5] aber hüte dich sehr, denn es ist kultischer Dienst für tote Götter\.
+Achte darauf,
+dass dich niemand von diesem Weg der Lehre abbringt;
+denn er lehrt dich dann fern von Gott\.
+Wenn du nämlich das ganze Joch des Herrn tragen[^bible-52e05f55-0f68-491e-a1bf-0acefeb13660] kannst,
+wirst du vollkommen sein;
+wenn du es aber nicht kannst,
+dann tu,
+was du kannst\.[^fn-462e355e-2cca-4cc1-1414-08deca2e86c5]
+Was die Speise betrifft,
+nimm auf dich,
+was du kannst;
+vor dem Götzenopferfleisch[^fn-5bda3d16-67ba-4bde-1415-08deca2e86c5] aber hüte dich sehr,
+denn es ist kultischer Dienst für tote Götter\.
 
 [^fn-462e355e-2cca-4cc1-1414-08deca2e86c5]: Diese Stelle steht hier nicht für eine Erlaubnis, Christi Gebote nur teilweise zu halten. Der Zusammenhang führt sofort zu Speise und Enthaltung: Wer mehr tragen kann, soll mehr tragen; wer es nicht kann, soll tun, was er kann. Die Grenze ist aber nicht verhandelbar: Abfall von der Lehre, falsche Lehrer und Teilnahme am Götzendienst bleiben ausgeschlossen.
 

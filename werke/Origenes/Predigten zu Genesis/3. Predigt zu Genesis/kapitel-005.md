@@ -7,33 +7,246 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/3-predigt-zu-genesis#kapitel-aaa63586-6fad-4d67-6f8d-08dd152b6df6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e356da1682412f7de1ee27887401e3f6baa783788104dcc20c9ff3d534f313cb`
+Doch ich werde offenbar von meinen eigenen Beweisen gefangen\.
+Denn der Jude zwingt mich sofort mit diesem Zeugnis des Propheten und sagt:
+„Siehe,
+der Prophet bezeichnet sowohl eine Beschneidung des Fleisches als auch des Herzens;
+es bleibt kein Platz für Allegorie,
+wo beide Arten der Beschneidung gefordert werden\.“
 
-Doch ich werde offenbar von meinen eigenen Beweisen gefangen\. Denn der Jude zwingt mich sofort mit diesem Zeugnis des Propheten und sagt: „Siehe, der Prophet bezeichnet sowohl eine Beschneidung des Fleisches als auch des Herzens; es bleibt kein Platz für Allegorie, wo beide Arten der Beschneidung gefordert werden\.“
+Wenn ihr mir mit euren Gebeten helft,
+dass „das Wort des lebendigen Gottes“ es für angemessen hält,
+„uns beim Öffnen unseres Mundes“ beizustehen,
+werden wir mit ihm als unserem Führer durch diesen engen Weg der Untersuchung zur Weite der Wahrheit gelangen\.
+Denn wir müssen nicht nur die Juden im Fleisch bezüglich der Beschneidung des Fleisches widerlegen,
+sondern auch einige von denen,
+die den Namen Christi angenommen zu haben scheinen und dennoch denken,
+dass die Beschneidung des Fleisches empfangen werden müsse,
+wie die Ebioniten und andere,
+die mit ihnen in ähnlicher geistiger Armut irren\.
+Lasst uns daher die Zeugnisse des Alten Testaments verwenden,
+in denen sie sich frei bewegen\.
 
-Wenn ihr mir mit euren Gebeten helft, dass „das Wort des lebendigen Gottes“ es für angemessen hält, „uns beim Öffnen unseres Mundes“ beizustehen, werden wir mit ihm als unserem Führer durch diesen engen Weg der Untersuchung zur Weite der Wahrheit gelangen\. Denn wir müssen nicht nur die Juden im Fleisch bezüglich der Beschneidung des Fleisches widerlegen, sondern auch einige von denen, die den Namen Christi angenommen zu haben scheinen und dennoch denken, dass die Beschneidung des Fleisches empfangen werden müsse, wie die Ebioniten und andere, die mit ihnen in ähnlicher geistiger Armut irren\. Lasst uns daher die Zeugnisse des Alten Testaments verwenden, in denen sie sich frei bewegen\.
+Es steht im Propheten Jeremia geschrieben:
+„Siehe,
+dieses Volk ist unbeschnitten in ihren Ohren\.“[^bible-5f064c52-6e3f-43cf-b960-18390dbed749]
+Hört,
+Israel,
+die Stimme des Propheten\.
+Ein großer Vorwurf wird gegen euch erhoben\.
+Ein großes Fehlverhalten wird euch vorgeworfen:
+Ihr seid unbeschnitten in euren Ohren\.
+Und warum habt ihr,
+als ihr dies gehört habt,
+nicht die Klinge an eure Ohren angelegt und sie durchtrennt?
+Denn ihr werdet von Gott getadelt und verurteilt,
+weil ihr unbeschnittene Ohren habt\.
+Ich erlaube euch nicht,
+euch auf unsere Allegorien zu berufen,
+die Paulus lehrte\.
+Warum seid ihr nachlässig in der Beschneidung?
+Schneidet die Ohren ab;
+schneidet die Glieder ab,
+die Gott für die Sinne und zur Zierde des menschlichen Daseins geschaffen hat,
+denn so versteht ihr die göttlichen Worte\.
 
-Es steht im Propheten Jeremia geschrieben: „Siehe, dieses Volk ist unbeschnitten in ihren Ohren\.“[^bible-5f064c52-6e3f-43cf-b960-18390dbed749] Hört, Israel, die Stimme des Propheten\. Ein großer Vorwurf wird gegen euch erhoben\. Ein großes Fehlverhalten wird euch vorgeworfen: Ihr seid unbeschnitten in euren Ohren\. Und warum habt ihr, als ihr dies gehört habt, nicht die Klinge an eure Ohren angelegt und sie durchtrennt? Denn ihr werdet von Gott getadelt und verurteilt, weil ihr unbeschnittene Ohren habt\. Ich erlaube euch nicht, euch auf unsere Allegorien zu berufen, die Paulus lehrte\. Warum seid ihr nachlässig in der Beschneidung? Schneidet die Ohren ab; schneidet die Glieder ab, die Gott für die Sinne und zur Zierde des menschlichen Daseins geschaffen hat, denn so versteht ihr die göttlichen Worte\.
+Aber ich werde euch auch noch einen weiteren Passus vorlegen,
+den ihr nicht widerlegen könnt\.
+Im Exodus,
+wo wir in den Kodizes der Kirche geschrieben haben,
+antwortet Mose dem Herrn und sagt:
+„Sende,
+Herr,
+einen anderen,
+den du senden willst\.
+Denn ich bin schwach in der Stimme und langsam in der Zunge,“[^bible-df7c0c52-4311-40bb-ba75-b30371a3fc2b]
+habt ihr in den hebräischen Kopien:
+„Aber ich bin unbeschnitten in den Lippen\.“[^bible-b771ce9d-4f5e-4d92-83dd-9bb1c5234aa6]
+Siehe,
+ihr habt eine Beschneidung der Lippen gemäß euren Kopien,
+die ihr für genauer haltet\.
+Wenn also Mose laut euch sagt,
+dass er unwürdig ist,
+weil er nicht in seinen Lippen beschnitten ist,
+zeigt er damit sicherlich an,
+dass derjenige,
+der in seinen Lippen beschnitten ist,
+würdiger und heiliger wäre\.
+Daher wendet auch die Sense an euren Lippen an und schneidet die Bedeckung eures Mundes ab,
+da euch ein solches Verständnis in den göttlichen Schriften gefällt\.
 
-Aber ich werde euch auch noch einen weiteren Passus vorlegen, den ihr nicht widerlegen könnt\. Im Exodus, wo wir in den Kodizes der Kirche geschrieben haben, antwortet Mose dem Herrn und sagt: „Sende, Herr, einen anderen, den du senden willst\. Denn ich bin schwach in der Stimme und langsam in der Zunge,“[^bible-df7c0c52-4311-40bb-ba75-b30371a3fc2b] habt ihr in den hebräischen Kopien: „Aber ich bin unbeschnitten in den Lippen\.“[^bible-b771ce9d-4f5e-4d92-83dd-9bb1c5234aa6] Siehe, ihr habt eine Beschneidung der Lippen gemäß euren Kopien, die ihr für genauer haltet\. Wenn also Mose laut euch sagt, dass er unwürdig ist, weil er nicht in seinen Lippen beschnitten ist, zeigt er damit sicherlich an, dass derjenige, der in seinen Lippen beschnitten ist, würdiger und heiliger wäre\. Daher wendet auch die Sense an euren Lippen an und schneidet die Bedeckung eures Mundes ab, da euch ein solches Verständnis in den göttlichen Schriften gefällt\.
+Wenn ihr jedoch die Beschneidung der Lippen auf die Allegorie bezieht und nicht weniger sagt,
+dass die Beschneidung der Ohren allegorisch und bildlich ist,
+warum fragt ihr dann nicht auch nach der Allegorie in der Beschneidung der Vorhaut?
 
-Wenn ihr jedoch die Beschneidung der Lippen auf die Allegorie bezieht und nicht weniger sagt, dass die Beschneidung der Ohren allegorisch und bildlich ist, warum fragt ihr dann nicht auch nach der Allegorie in der Beschneidung der Vorhaut?
+Lasst uns aber die ablegen,
+die,
+wie Idole,
+„Ohren haben und nicht hören und Augen haben und nicht sehen\.“
+Aber ihr,
+„o Volk Gottes,
+und ein Volk,
+das für den Erwerb auserwählt wurde,
+um die Tugenden des Herrn zu verkünden,“[^bible-0400fb18-1677-4261-9bbe-81ce7878e337]
+nehmt die Beschneidung an,
+die des Wortes Gottes würdig ist,
+in euren Ohren und Lippen und in eurem Herzen und in der Vorhaut eures Fleisches und in all euren Gliedern zusammen\.
+Denn lasst eure Ohren gemäß dem Wort Gottes beschnitten werden,
+damit sie die Stimme des Verleumders nicht empfangen,
+damit sie die Worte des Verleumders und Blasphemers nicht hören,
+damit sie nicht für falsche Anschuldigungen,
+für Lügen,
+für Irritationen offen sind\.
+Lasst sie verschlossen und geschlossen sein,
+„damit sie das Urteil des Blutes nicht hören“ oder für lasterhafte Lieder und Klänge des Theaters offen stehen\.
+Lasst sie nichts Obszönes empfangen,
+sondern lasst sie sich von jeder verderblichen Szene abwenden\.
 
-Lasst uns aber die ablegen, die, wie Idole, „Ohren haben und nicht hören und Augen haben und nicht sehen\.“ Aber ihr, „o Volk Gottes, und ein Volk, das für den Erwerb auserwählt wurde, um die Tugenden des Herrn zu verkünden,“[^bible-0400fb18-1677-4261-9bbe-81ce7878e337] nehmt die Beschneidung an, die des Wortes Gottes würdig ist, in euren Ohren und Lippen und in eurem Herzen und in der Vorhaut eures Fleisches und in all euren Gliedern zusammen\. Denn lasst eure Ohren gemäß dem Wort Gottes beschnitten werden, damit sie die Stimme des Verleumders nicht empfangen, damit sie die Worte des Verleumders und Blasphemers nicht hören, damit sie nicht für falsche Anschuldigungen, für Lügen, für Irritationen offen sind\. Lasst sie verschlossen und geschlossen sein, „damit sie das Urteil des Blutes nicht hören“ oder für lasterhafte Lieder und Klänge des Theaters offen stehen\. Lasst sie nichts Obszönes empfangen, sondern lasst sie sich von jeder verderblichen Szene abwenden\.
+Das ist die Beschneidung,
+mit der die Kirche Christi die Ohren ihrer Kleinen beschnitten hat\.
+Ich glaube,
+das sind die Ohren,
+die der Herr in seinen Hörern suchte,
+als er sagte:
+„Wer Ohren hat zu hören,
+der höre\.“[^bible-1308df51-737e-49da-b063-e5f2e7d75c9d]
+Denn niemand mit unbeschnittenen und unreinen Ohren kann die reinen Worte der Weisheit und Wahrheit hören\.
 
-Das ist die Beschneidung, mit der die Kirche Christi die Ohren ihrer Kleinen beschnitten hat\. Ich glaube, das sind die Ohren, die der Herr in seinen Hörern suchte, als er sagte: „Wer Ohren hat zu hören, der höre\.“[^bible-1308df51-737e-49da-b063-e5f2e7d75c9d] Denn niemand mit unbeschnittenen und unreinen Ohren kann die reinen Worte der Weisheit und Wahrheit hören\.
+Kommen wir auch,
+wenn ihr wollt,
+zur Beschneidung der Lippen\.
+Ich denke,
+dass derjenige,
+der „unbeschnitten in den Lippen“ ist,
+noch nicht von törichten Reden,
+von Schimpfwörtern,
+die gute Menschen herabsetzen,
+die Nachbarn verleumden,
+die Streitigkeiten anstiften,
+falsche Anschuldigungen fördern,
+Brüder gegeneinander aufhetzen,
+indem sie falsche Aussagen machen,
+die leeren,
+ungeschickten,
+profanen,
+schamlosen,
+schmutzigen,
+verletzenden,
+ausschweifenden,
+blasphemischen und andere Worte ausstoßen,
+die eines Christen unwürdig sind,
+abgelassen hat\.
+Aber wenn jemand seinen Mund von all diesen Dingen zurückhält und „seine Worte mit Bedacht ordnet,“
+wenn er die Wortfülle zügelt,
+seine Zunge regiert,
+sein Wort in gebührenden Grenzen hält,
+dann wird dieser Mensch zu Recht als in den Lippen beschnitten angesehen\.
+Aber auch diejenigen,
+die „Unrecht hoch sprechen und ihre Zunge gegen den Himmel ausstrecken,“
+wie es die Häretiker tun,
+sind unbeschnitten und unrein in ihren Lippen zu nennen\.
+Aber derjenige ist beschnitten und rein,
+der immer das Wort Gottes spricht und gesunde Lehre vorbringt,
+die mit evangelischen und apostolischen Normen gestärkt ist\.
+So wird also auch die Beschneidung der Lippen in der Kirche Gottes gegeben\.
 
-Kommen wir auch, wenn ihr wollt, zur Beschneidung der Lippen\. Ich denke, dass derjenige, der „unbeschnitten in den Lippen“ ist, noch nicht von törichten Reden, von Schimpfwörtern, die gute Menschen herabsetzen, die Nachbarn verleumden, die Streitigkeiten anstiften, falsche Anschuldigungen fördern, Brüder gegeneinander aufhetzen, indem sie falsche Aussagen machen, die leeren, ungeschickten, profanen, schamlosen, schmutzigen, verletzenden, ausschweifenden, blasphemischen und andere Worte ausstoßen, die eines Christen unwürdig sind, abgelassen hat\. Aber wenn jemand seinen Mund von all diesen Dingen zurückhält und „seine Worte mit Bedacht ordnet,“ wenn er die Wortfülle zügelt, seine Zunge regiert, sein Wort in gebührenden Grenzen hält, dann wird dieser Mensch zu Recht als in den Lippen beschnitten angesehen\. Aber auch diejenigen, die „Unrecht hoch sprechen und ihre Zunge gegen den Himmel ausstrecken,“ wie es die Häretiker tun, sind unbeschnitten und unrein in ihren Lippen zu nennen\. Aber derjenige ist beschnitten und rein, der immer das Wort Gottes spricht und gesunde Lehre vorbringt, die mit evangelischen und apostolischen Normen gestärkt ist\. So wird also auch die Beschneidung der Lippen in der Kirche Gottes gegeben\.
+In dem Buch Exodus,
+wo wir in den Kodizes der Kirche geschrieben finden,
+dass Mose auf den Herrn antwortet und sagt:
+„Gib,
+Herr,
+einen anderen,
+den du senden wirst\.
+Denn ich bin schwach in der Stimme und langsam im Reden“,[^bible-ddd4195e-f931-4a15-a9a5-506c098ab747]
+steht in den hebräischen Abschriften:
+„Aber ich bin unbeschnitten an den Lippen\.“
+Siehe,
+du hast eine Beschneidung der Lippen gemäß deinen Abschriften,
+die du für genauer hältst\.
+Wenn Mose also nach deiner Auffassung sagt,
+dass er unwürdig ist,
+weil er nicht an seinen Lippen beschnitten ist,
+deutet er damit sicherlich an,
+dass derjenige,
+der an seinen Lippen beschnitten ist,
+würdiger und heiliger wäre\.
+Daher wende auch die Heckenschere an deinen Lippen an und schneide die Bedeckung deines Mundes ab,
+da dir ein solches Verständnis in den göttlichen Schriften gefällt\.
 
-In dem Buch Exodus, wo wir in den Kodizes der Kirche geschrieben finden, dass Mose auf den Herrn antwortet und sagt: „Gib, Herr, einen anderen, den du senden wirst\. Denn ich bin schwach in der Stimme und langsam im Reden“,[^bible-ddd4195e-f931-4a15-a9a5-506c098ab747] steht in den hebräischen Abschriften: „Aber ich bin unbeschnitten an den Lippen\.“ Siehe, du hast eine Beschneidung der Lippen gemäß deinen Abschriften, die du für genauer hältst\. Wenn Mose also nach deiner Auffassung sagt, dass er unwürdig ist, weil er nicht an seinen Lippen beschnitten ist, deutet er damit sicherlich an, dass derjenige, der an seinen Lippen beschnitten ist, würdiger und heiliger wäre\. Daher wende auch die Heckenschere an deinen Lippen an und schneide die Bedeckung deines Mundes ab, da dir ein solches Verständnis in den göttlichen Schriften gefällt\.
+Aber wenn du die Beschneidung der Lippen auf die Allegorie beziehst und nicht weniger sagst,
+dass die Beschneidung der Ohren allegorisch und bildlich ist,
+warum erkundigst du dich dann nicht auch nach der Allegorie in der Beschneidung der Vorhaut?
+Lass uns aber diejenigen beiseite lassen,
+die,
+wie Götzen,
+„Ohren haben und nicht hören und Augen haben und nicht sehen\.“[^bible-39e1d3c2-4deb-41f5-b791-19aceab713b9]
+Aber ihr,
+„o Volk Gottes,
+und ein Volk,
+das zum Erwerb auserwählt ist,
+um die Tugenden des Herrn zu verkünden,“[^bible-15b712d9-da09-439a-bcd2-4323b4f73811]
+nehmt die Beschneidung an,
+die des Wortes Gottes würdig ist,
+in euren Ohren,
+in euren Lippen,
+in eurem Herzen,
+in der Vorhaut eures Fleisches und in all euren Gliedern zusammen\.
+Denn lasst eure Ohren gemäß dem Wort Gottes beschnitten werden,
+damit sie die Stimme des Verleumders nicht empfangen,
+damit sie die Worte des Verleumders und Gotteslästerers nicht hören,
+damit sie nicht offen sind für falsche Anschuldigungen,
+für Lügen,
+für Irritationen\.
 
-Aber wenn du die Beschneidung der Lippen auf die Allegorie beziehst und nicht weniger sagst, dass die Beschneidung der Ohren allegorisch und bildlich ist, warum erkundigst du dich dann nicht auch nach der Allegorie in der Beschneidung der Vorhaut? Lass uns aber diejenigen beiseite lassen, die, wie Götzen, „Ohren haben und nicht hören und Augen haben und nicht sehen\.“[^bible-39e1d3c2-4deb-41f5-b791-19aceab713b9] Aber ihr, „o Volk Gottes, und ein Volk, das zum Erwerb auserwählt ist, um die Tugenden des Herrn zu verkünden,“[^bible-15b712d9-da09-439a-bcd2-4323b4f73811] nehmt die Beschneidung an, die des Wortes Gottes würdig ist, in euren Ohren, in euren Lippen, in eurem Herzen, in der Vorhaut eures Fleisches und in all euren Gliedern zusammen\. Denn lasst eure Ohren gemäß dem Wort Gottes beschnitten werden, damit sie die Stimme des Verleumders nicht empfangen, damit sie die Worte des Verleumders und Gotteslästerers nicht hören, damit sie nicht offen sind für falsche Anschuldigungen, für Lügen, für Irritationen\.
+Lasst sie verschlossen und geschlossen sein,
+„damit sie das Urteil des Blutes nicht hören“ oder offen stehen für unzüchtige Lieder und die Klänge des Theaters\.
+Lasst sie nichts Obszönes empfangen,
+sondern lasst sie sich von jeder verderblichen Szene abwenden\.
+Dies ist die Beschneidung,
+mit der die Kirche Christi die Ohren ihrer Säuglinge beschneidet\.
+Ich glaube,
+dass es diese Ohren sind,
+die der Herr in seinen Hörern suchte,
+als er sagte:
+„Wer Ohren hat zu hören,
+der höre\.“[^bible-429f563f-7c18-4247-b7df-6d3471d9f44b]
+Denn niemand mit unbeschnittenen und unreinen Ohren kann die reinen Worte der Weisheit und Wahrheit hören\.
 
-Lasst sie verschlossen und geschlossen sein, „damit sie das Urteil des Blutes nicht hören“ oder offen stehen für unzüchtige Lieder und die Klänge des Theaters\. Lasst sie nichts Obszönes empfangen, sondern lasst sie sich von jeder verderblichen Szene abwenden\. Dies ist die Beschneidung, mit der die Kirche Christi die Ohren ihrer Säuglinge beschneidet\. Ich glaube, dass es diese Ohren sind, die der Herr in seinen Hörern suchte, als er sagte: „Wer Ohren hat zu hören, der höre\.“[^bible-429f563f-7c18-4247-b7df-6d3471d9f44b] Denn niemand mit unbeschnittenen und unreinen Ohren kann die reinen Worte der Weisheit und Wahrheit hören\.
+Kommen wir auch,
+wenn du möchtest,
+zur Beschneidung der Lippen\.
+Ich denke,
+dass derjenige „unbeschnitten an den Lippen“[^bible-f4fb9709-5299-46e2-b75f-dbf1db3a6927] ist,
+der noch nicht von törichten Reden,
+von Schimpfwörtern,
+von der Herabsetzung guter Menschen,
+von der Verleumdung seiner Nachbarn,
+von der Anstiftung zu Streitigkeiten,
+von der Förderung falscher Anschuldigungen,
+von der Gegeneinanderstellung von Brüdern durch falsche Aussagen,
+von leeren Worten,
+ungeschickten Worten,
+entweihenden Worten,
+schamlosen Worten,
+schmutzigen Worten,
+verletzenden Worten,
+zügellosen Worten,
+gotteslästerlichen Worten und anderen Worten,
+die eines Christen unwürdig sind,
+abgelassen hat\.
 
-Kommen wir auch, wenn du möchtest, zur Beschneidung der Lippen\. Ich denke, dass derjenige „unbeschnitten an den Lippen“[^bible-f4fb9709-5299-46e2-b75f-dbf1db3a6927] ist, der noch nicht von törichten Reden, von Schimpfwörtern, von der Herabsetzung guter Menschen, von der Verleumdung seiner Nachbarn, von der Anstiftung zu Streitigkeiten, von der Förderung falscher Anschuldigungen, von der Gegeneinanderstellung von Brüdern durch falsche Aussagen, von leeren Worten, ungeschickten Worten, entweihenden Worten, schamlosen Worten, schmutzigen Worten, verletzenden Worten, zügellosen Worten, gotteslästerlichen Worten und anderen Worten, die eines Christen unwürdig sind, abgelassen hat\.
-
-Wenn jedoch jemand seinen Mund von all diesen Dingen zurückhält und „seine Worte mit Urteil ordnet“, wenn er die Wortfülle zügelt, seine Zunge regiert und sein Wort in gebührenden Grenzen hält, so wird dieser Mensch zu Recht als an den Lippen beschnitten bezeichnet\. Aber auch diejenigen, „die Ungerechtigkeit hoch sprechen und ihre Zunge gegen den Himmel ausstrecken“, wie es die Häretiker tun, sind unbeschnitten und unrein an ihren Lippen zu nennen\. Doch derjenige ist beschnitten und rein, der stets das Wort Gottes spricht und gesunde Lehre vorbringt, die mit evangelischen und apostolischen Normen gestärkt ist\. Auf diese Weise wird also auch die Beschneidung der Lippen in der Kirche Gottes vollzogen\.
+Wenn jedoch jemand seinen Mund von all diesen Dingen zurückhält und „seine Worte mit Urteil ordnet“,
+wenn er die Wortfülle zügelt,
+seine Zunge regiert und sein Wort in gebührenden Grenzen hält,
+so wird dieser Mensch zu Recht als an den Lippen beschnitten bezeichnet\.
+Aber auch diejenigen,
+„die Ungerechtigkeit hoch sprechen und ihre Zunge gegen den Himmel ausstrecken“,
+wie es die Häretiker tun,
+sind unbeschnitten und unrein an ihren Lippen zu nennen\.
+Doch derjenige ist beschnitten und rein,
+der stets das Wort Gottes spricht und gesunde Lehre vorbringt,
+die mit evangelischen und apostolischen Normen gestärkt ist\.
+Auf diese Weise wird also auch die Beschneidung der Lippen in der Kirche Gottes vollzogen\.
 
 ## Bibelverweise
 

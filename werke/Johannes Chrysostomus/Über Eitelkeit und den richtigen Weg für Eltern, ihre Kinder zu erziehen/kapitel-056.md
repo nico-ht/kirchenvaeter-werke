@@ -7,6 +7,12 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-eitelkeit-und-den-richtigen-weg-fuer-eltern-ihre-kinder-zu-erziehen#kapitel-e064a2bc-b00b-4dc5-cfd2-08ddc86f66b7).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a039a6dcfc1d85382aa961e6d2ff12dc52da48999bff831c58668e8adc37a230`
-
-Hier sind strenge Gesetze erforderlich, das erste lautet: Sende deinen Sohn niemals ins Theater, damit er nicht durch seine Ohren und Augen völlige Verderbnis erleidet\. Und wenn er in den öffentlichen Plätzen unterwegs ist, muss sein Begleiter besonders wachsam sein, während er durch die Gassen geht, und den Jungen davor warnen, damit er niemals dieser Verderbnis ausgesetzt wird\.
+Hier sind strenge Gesetze erforderlich,
+das erste lautet:
+Sende deinen Sohn niemals ins Theater,
+damit er nicht durch seine Ohren und Augen völlige Verderbnis erleidet\.
+Und wenn er in den öffentlichen Plätzen unterwegs ist,
+muss sein Begleiter besonders wachsam sein,
+während er durch die Gassen geht,
+und den Jungen davor warnen,
+damit er niemals dieser Verderbnis ausgesetzt wird\.

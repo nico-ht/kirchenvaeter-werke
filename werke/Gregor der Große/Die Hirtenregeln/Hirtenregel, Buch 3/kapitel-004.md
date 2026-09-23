@@ -7,13 +7,197 @@ Autor: Gregor der Große
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/hirtenregel-buch-3#kapitel-80d351dc-57d2-4e26-476f-08dd47ac18f8).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ad86159a0f0b3f8c9663318d89822627a744a434fb142d40cdcb5e0318b0a482`
+Wie Untergebene und Vorgesetzte zu ermahnen sind\.
+Anders sind die Untergebenen zu ermahnen,
+anders die Vorgesetzten:
+Jene darf die Unterordnung nicht erdrücken,
+diese darf ihre höhere Stellung nicht überheblich machen\.
+Jene sollen nicht hinter dem zurückbleiben,
+was ihnen befohlen wird;
+diese sollen nicht mehr zur Ausführung anordnen,
+als gerecht ist\.
+Jene sollen sich demütig unterordnen,
+diese mit Maß vorstehen\.
+Denn auch in einem bildlichen Sinn wird zu jenen gesagt:
+„Ihr Kinder,
+gehorcht euren Eltern im Herrn\.[^bible-385112d0-1654-4527-8ba0-e097ba310ff0]
+“ Diesen aber wird geboten:
+„Und ihr Väter,
+reizt eure Kinder nicht zum Zorn\.[^bible-2248cf1a-068c-49e9-8563-521ba24fcd14]
+“ Jene sollen lernen,
+wie sie ihr Inneres vor den Augen des verborgenen Richters ordnen;
+diese,
+wie sie auch den ihnen Anvertrauten nach außen ein Beispiel guten Lebens geben\.
+Denn die Vorgesetzten müssen wissen:
+Wenn sie jemals Verkehrtes tun,
+verdienen sie so viele Tode,
+wie sie ihren Untergebenen Beispiele weitergeben,
+die sie ins Verderben führen\.
+Darum müssen sie sich umso sorgsamer vor Schuld hüten,
+weil sie durch ihre verkehrten Taten nicht allein sterben,
+sondern auch schuldig werden am Tod der Seelen anderer,
+die sie durch ihre schlechten Beispiele zugrunde gerichtet haben\.
+Daher sind jene zu ermahnen,
+damit sie nicht strenger bestraft werden,
+falls sie nicht wenigstens hinsichtlich ihrer selbst als schuldlos befunden werden können;
+diese aber,
+damit sie nicht wegen der Verfehlungen ihrer Untergebenen zur Rechenschaft gezogen werden,
+selbst wenn sie sich hinsichtlich ihrer selbst bereits sicher wissen\.
+Jene sollen umso sorgsamer auf ihr eigenes Leben achten,
+je weniger die Sorge für andere sie bindet\.
+Diese dagegen sollen sich so um die Angelegenheiten anderer kümmern,
+dass sie darüber ihre eigenen nicht vernachlässigen,
+und zugleich mit solchem Eifer über sich selbst wachen,
+dass sie bei der Obhut über die ihnen Anvertrauten keineswegs nachlässig werden\.
+Denn zu einem,
+der nur für sich selbst zu sorgen hat,
+wird gesagt:
+„Geh zur Ameise,
+du Fauler,
+betrachte ihre Wege und lerne Weisheit\.[^bible-236558d2-c30f-441b-9a21-47dadc6e1a8c]
+“ Ein Vorgesetzter aber wird mit furchtbarem Ernst gewarnt:
+„Mein Sohn,
+wenn du für deinen Freund gebürgt hast,
+hast du deine Hand einem Fremden verpfändet\.
+Du hast dich mit den Worten deines Mundes verstrickt und bist durch deine eigenen Worte gefangen\.[^bible-95ab2947-b753-4ab4-9777-9deb8b07b6df]
+“ Für einen Freund zu bürgen bedeutet nämlich,
+die Verantwortung für die Seele eines anderen zu übernehmen und sie damit dem Risiko der eigenen Lebensführung auszusetzen\.
+Seine Hand wird einem Fremden verpfändet,
+weil sein Geist an die Sorge für jemanden gebunden wird,
+für den er zuvor keine Verantwortung trug\.
+Mit den Worten seines Mundes hat er sich verstrickt und ist durch seine eigenen Worte gefangen,
+denn wenn er denen,
+die ihm anvertraut sind,
+Gutes sagen muss,
+muss er das Gesagte zuvor selbst einhalten\.
 
-Wie Untergebene und Vorgesetzte zu ermahnen sind\. Anders sind die Untergebenen zu ermahnen, anders die Vorgesetzten: Jene darf die Unterordnung nicht erdrücken, diese darf ihre höhere Stellung nicht überheblich machen\. Jene sollen nicht hinter dem zurückbleiben, was ihnen befohlen wird; diese sollen nicht mehr zur Ausführung anordnen, als gerecht ist\. Jene sollen sich demütig unterordnen, diese mit Maß vorstehen\. Denn auch in einem bildlichen Sinn wird zu jenen gesagt: „Ihr Kinder, gehorcht euren Eltern im Herrn\.[^bible-385112d0-1654-4527-8ba0-e097ba310ff0] “ Diesen aber wird geboten: „Und ihr Väter, reizt eure Kinder nicht zum Zorn\.[^bible-2248cf1a-068c-49e9-8563-521ba24fcd14] “ Jene sollen lernen, wie sie ihr Inneres vor den Augen des verborgenen Richters ordnen; diese, wie sie auch den ihnen Anvertrauten nach außen ein Beispiel guten Lebens geben\. Denn die Vorgesetzten müssen wissen: Wenn sie jemals Verkehrtes tun, verdienen sie so viele Tode, wie sie ihren Untergebenen Beispiele weitergeben, die sie ins Verderben führen\. Darum müssen sie sich umso sorgsamer vor Schuld hüten, weil sie durch ihre verkehrten Taten nicht allein sterben, sondern auch schuldig werden am Tod der Seelen anderer, die sie durch ihre schlechten Beispiele zugrunde gerichtet haben\. Daher sind jene zu ermahnen, damit sie nicht strenger bestraft werden, falls sie nicht wenigstens hinsichtlich ihrer selbst als schuldlos befunden werden können; diese aber, damit sie nicht wegen der Verfehlungen ihrer Untergebenen zur Rechenschaft gezogen werden, selbst wenn sie sich hinsichtlich ihrer selbst bereits sicher wissen\. Jene sollen umso sorgsamer auf ihr eigenes Leben achten, je weniger die Sorge für andere sie bindet\. Diese dagegen sollen sich so um die Angelegenheiten anderer kümmern, dass sie darüber ihre eigenen nicht vernachlässigen, und zugleich mit solchem Eifer über sich selbst wachen, dass sie bei der Obhut über die ihnen Anvertrauten keineswegs nachlässig werden\. Denn zu einem, der nur für sich selbst zu sorgen hat, wird gesagt: „Geh zur Ameise, du Fauler, betrachte ihre Wege und lerne Weisheit\.[^bible-236558d2-c30f-441b-9a21-47dadc6e1a8c] “ Ein Vorgesetzter aber wird mit furchtbarem Ernst gewarnt: „Mein Sohn, wenn du für deinen Freund gebürgt hast, hast du deine Hand einem Fremden verpfändet\. Du hast dich mit den Worten deines Mundes verstrickt und bist durch deine eigenen Worte gefangen\.[^bible-95ab2947-b753-4ab4-9777-9deb8b07b6df] “ Für einen Freund zu bürgen bedeutet nämlich, die Verantwortung für die Seele eines anderen zu übernehmen und sie damit dem Risiko der eigenen Lebensführung auszusetzen\. Seine Hand wird einem Fremden verpfändet, weil sein Geist an die Sorge für jemanden gebunden wird, für den er zuvor keine Verantwortung trug\. Mit den Worten seines Mundes hat er sich verstrickt und ist durch seine eigenen Worte gefangen, denn wenn er denen, die ihm anvertraut sind, Gutes sagen muss, muss er das Gesagte zuvor selbst einhalten\.
+Er verstrickt sich also mit den Worten seines Mundes,
+denn die Vernunft bindet ihn daran,
+in seinem Leben nicht von dem abzuweichen,
+wozu er andere ermahnt\.
+Deshalb muss er vor dem strengen Richter durch seine Taten all das erfüllen,
+was er nachweislich anderen mit Worten geboten hat\.
+Treffend schließt sich sogleich die Mahnung an:
+„Tu also,
+was ich dir sage,
+mein Sohn,
+und befreie dich selbst,
+denn du bist in die Hände deines Nächsten geraten\.
+Lauf umher,
+beeile dich,
+wecke deinen Freund\.
+Gewähre deinen Augen keinen Schlaf,
+und deine Lider sollen nicht schlummern\.[^bible-b6d3b996-ff31-42ce-aa61-57c78966d756]
+“ Wer anderen als Vorbild für ihr Leben vorangestellt ist,
+wird nämlich nicht nur dazu ermahnt,
+selbst wach zu bleiben,
+sondern auch seinen Freund zu wecken\.
+Es genügt nicht,
+durch eine gute Lebensführung wach zu sein,
+wenn er nicht auch den Menschen,
+für den er verantwortlich ist,
+aus der Erstarrung der Sünde reißt\.
+Treffend heißt es:
+„Gewähre deinen Augen keinen Schlaf,
+und deine Lider sollen nicht schlummern\.[^bible-d995d29f-a9a3-4c78-a4be-f82e0f29a913]
+“ Den Augen Schlaf zu gewähren bedeutet,
+die Aufmerksamkeit erlahmen zu lassen und die Sorge für die Untergebenen völlig zu vernachlässigen\.
+Die Lider aber schlummern,
+wenn wir aus Trägheit so tun,
+als bemerkten wir nicht,
+was wir an unseren Untergebenen als tadelnswert erkennen\.
+Vollständig zu schlafen bedeutet nämlich,
+weder zu wissen,
+was die uns Anvertrauten tun,
+noch es zu korrigieren\.
+Nicht zu schlafen,
+sondern nur zu schlummern bedeutet dagegen,
+zwar zu erkennen,
+was getadelt werden muss,
+es aber aus innerem Überdruss nicht mit der gebotenen Zurechtweisung zu bessern\.
+Durch das Schlummern fällt das Auge schließlich in tiefsten Schlaf\.
+Denn wenn ein Vorgesetzter das erkannte Böse nicht abstellt,
+führt ihn seine Nachlässigkeit bisweilen so weit,
+dass er schließlich nicht einmal mehr erkennt,
+worin seine Untergebenen sich verfehlen\.
+Die Vorgesetzten müssen also dazu ermahnt werden,
+aus gewissenhafter Umsicht innerlich und ringsum wachsame Augen zu haben und danach zu streben,
+den himmlischen Lebewesen zu gleichen\.
+Denn die gezeigten himmlischen Lebewesen werden als ringsum und innen voller Augen beschrieben\.[^bible-a80d95cb-1d02-4f2b-8a95-d3abfe7a75cb]
+Es ist nur angemessen,
+dass alle Vorgesetzten innen und ringsum Augen haben:
+Sie sollen danach streben,
+in ihrem Inneren dem Richter zu gefallen,
+und zugleich nach außen ein vorbildliches Leben führen und erkennen,
+was sie an anderen korrigieren müssen\.
+Die Untergebenen müssen dazu ermahnt werden,
+das Leben ihrer Vorgesetzten nicht vorschnell zu beurteilen,
+wenn sie vielleicht sehen,
+dass diese etwas Tadelnswertes tun\.
+Sonst könnten sie gerade dadurch,
+dass sie das Böse mit Recht verurteilen,
+vom Hochmut in noch tiefere Abgründe gerissen werden\.
+Sie müssen davor gewarnt werden,
+beim Anblick der Fehler ihrer Vorgesetzten ihnen gegenüber dreister zu werden\.
+Was an ihnen wirklich verkehrt ist,
+sollen sie zwar für sich beurteilen;
+von Gottesfurcht gebunden,
+dürfen sie sich aber nicht weigern,
+unter ihnen das Joch der Ehrfurcht zu tragen\.
+Das lässt sich besser zeigen,
+wenn wir uns die Tat Davids vor Augen führen\.
+Als sein Verfolger Saul eine Höhle betrat,
+um seinen Darm zu entleeren,
+befand sich dort David mit seinen Männern,
+der Sauls Verfolgung und Bosheit schon so lange ertragen hatte\.
+Seine Männer drängten ihn,
+Saul zu erschlagen\.
+Doch David hielt sie mit seiner Antwort zurück,
+weil er seine Hand nicht gegen den Gesalbten des Herrn erheben dürfe\.
+Dennoch stand er heimlich auf und schnitt einen Zipfel von Sauls Mantel ab\.[^bible-aa3adcbb-6c88-4c2f-9058-24b99d7309fa]
+Wen anders stellt Saul dar als schlechte Vorgesetzte,
+wen David als gute Untergebene?
+Dass Saul seinen Darm entleert,
+bedeutet also:
+Schlechte Vorgesetzte lassen die im Herzen empfangene Bosheit bis zu übel riechenden Taten vordringen und offenbaren ihre schädlichen Gedanken,
+indem sie sie in äußere Taten umsetzen\.
 
-Er verstrickt sich also mit den Worten seines Mundes, denn die Vernunft bindet ihn daran, in seinem Leben nicht von dem abzuweichen, wozu er andere ermahnt\. Deshalb muss er vor dem strengen Richter durch seine Taten all das erfüllen, was er nachweislich anderen mit Worten geboten hat\. Treffend schließt sich sogleich die Mahnung an: „Tu also, was ich dir sage, mein Sohn, und befreie dich selbst, denn du bist in die Hände deines Nächsten geraten\. Lauf umher, beeile dich, wecke deinen Freund\. Gewähre deinen Augen keinen Schlaf, und deine Lider sollen nicht schlummern\.[^bible-b6d3b996-ff31-42ce-aa61-57c78966d756] “ Wer anderen als Vorbild für ihr Leben vorangestellt ist, wird nämlich nicht nur dazu ermahnt, selbst wach zu bleiben, sondern auch seinen Freund zu wecken\. Es genügt nicht, durch eine gute Lebensführung wach zu sein, wenn er nicht auch den Menschen, für den er verantwortlich ist, aus der Erstarrung der Sünde reißt\. Treffend heißt es: „Gewähre deinen Augen keinen Schlaf, und deine Lider sollen nicht schlummern\.[^bible-d995d29f-a9a3-4c78-a4be-f82e0f29a913] “ Den Augen Schlaf zu gewähren bedeutet, die Aufmerksamkeit erlahmen zu lassen und die Sorge für die Untergebenen völlig zu vernachlässigen\. Die Lider aber schlummern, wenn wir aus Trägheit so tun, als bemerkten wir nicht, was wir an unseren Untergebenen als tadelnswert erkennen\. Vollständig zu schlafen bedeutet nämlich, weder zu wissen, was die uns Anvertrauten tun, noch es zu korrigieren\. Nicht zu schlafen, sondern nur zu schlummern bedeutet dagegen, zwar zu erkennen, was getadelt werden muss, es aber aus innerem Überdruss nicht mit der gebotenen Zurechtweisung zu bessern\. Durch das Schlummern fällt das Auge schließlich in tiefsten Schlaf\. Denn wenn ein Vorgesetzter das erkannte Böse nicht abstellt, führt ihn seine Nachlässigkeit bisweilen so weit, dass er schließlich nicht einmal mehr erkennt, worin seine Untergebenen sich verfehlen\. Die Vorgesetzten müssen also dazu ermahnt werden, aus gewissenhafter Umsicht innerlich und ringsum wachsame Augen zu haben und danach zu streben, den himmlischen Lebewesen zu gleichen\. Denn die gezeigten himmlischen Lebewesen werden als ringsum und innen voller Augen beschrieben\.[^bible-a80d95cb-1d02-4f2b-8a95-d3abfe7a75cb] Es ist nur angemessen, dass alle Vorgesetzten innen und ringsum Augen haben: Sie sollen danach streben, in ihrem Inneren dem Richter zu gefallen, und zugleich nach außen ein vorbildliches Leben führen und erkennen, was sie an anderen korrigieren müssen\. Die Untergebenen müssen dazu ermahnt werden, das Leben ihrer Vorgesetzten nicht vorschnell zu beurteilen, wenn sie vielleicht sehen, dass diese etwas Tadelnswertes tun\. Sonst könnten sie gerade dadurch, dass sie das Böse mit Recht verurteilen, vom Hochmut in noch tiefere Abgründe gerissen werden\. Sie müssen davor gewarnt werden, beim Anblick der Fehler ihrer Vorgesetzten ihnen gegenüber dreister zu werden\. Was an ihnen wirklich verkehrt ist, sollen sie zwar für sich beurteilen; von Gottesfurcht gebunden, dürfen sie sich aber nicht weigern, unter ihnen das Joch der Ehrfurcht zu tragen\. Das lässt sich besser zeigen, wenn wir uns die Tat Davids vor Augen führen\. Als sein Verfolger Saul eine Höhle betrat, um seinen Darm zu entleeren, befand sich dort David mit seinen Männern, der Sauls Verfolgung und Bosheit schon so lange ertragen hatte\. Seine Männer drängten ihn, Saul zu erschlagen\. Doch David hielt sie mit seiner Antwort zurück, weil er seine Hand nicht gegen den Gesalbten des Herrn erheben dürfe\. Dennoch stand er heimlich auf und schnitt einen Zipfel von Sauls Mantel ab\.[^bible-aa3adcbb-6c88-4c2f-9058-24b99d7309fa] Wen anders stellt Saul dar als schlechte Vorgesetzte, wen David als gute Untergebene? Dass Saul seinen Darm entleert, bedeutet also: Schlechte Vorgesetzte lassen die im Herzen empfangene Bosheit bis zu übel riechenden Taten vordringen und offenbaren ihre schädlichen Gedanken, indem sie sie in äußere Taten umsetzen\.
-
-Doch David scheute sich, Saul zu schlagen\. Denn fromme Untergebene halten sich von jeder Seuche übler Nachrede fern und schlagen mit keinem Schwert der Zunge auf das Leben ihrer Vorgesetzten ein, selbst wenn sie deren Unvollkommenheit tadeln\. Können sie sich bisweilen aus Schwäche kaum zurückhalten und sprechen sie, wenngleich demütig, über einige geringfügige und äußerliche Verfehlungen ihrer Vorgesetzten, so schneiden sie gleichsam lautlos einen Zipfel vom Mantel ab\. Denn wenn sie die Würde ihres Vorgesetzten auch nur ohne Schaden anzurichten und im Verborgenen herabsetzen, beflecken sie gleichsam das Gewand des Königs, der über sie gesetzt ist\. Doch dann kehren sie zu sich selbst zurück und machen sich selbst wegen des allerkleinsten Risses, den ihr Wort verursacht hat, die heftigsten Vorwürfe\. Deshalb steht dort mit Recht geschrieben: „Danach schlug David das Herz, weil er einen Zipfel von Sauls Mantel abgeschnitten hatte\.[^bible-5390782f-2bb4-4e1b-b6a8-e81b8527082f] “ Die Taten der Vorgesetzten dürfen nicht mit dem Schwert des Mundes angegriffen werden, selbst wenn man sie mit Recht für tadelnswert hält\. Gleitet die Zunge dennoch einmal auch nur im Geringsten gegen sie aus, muss das Herz durch schmerzliche Reue niedergedrückt werden\. So kehrt der Betreffende zu sich selbst zurück und erschrickt, nachdem er sich gegen die ihm vorgesetzte Autorität vergangen hat, vor dem Urteil, das sie über ihn fällt, da sie ihm von Gott vorgesetzt worden ist\. Denn wenn wir uns gegen unsere Vorgesetzten vergehen, widersetzen wir uns der Einsetzung durch den, der sie über uns gestellt hat\. Deshalb sagte auch Mose, als er erkannte, dass das Volk gegen ihn und Aaron murrte: „Was sind denn wir? Euer Murren richtet sich nicht gegen uns, sondern gegen den Herrn\.[^bible-fdf4e275-ab42-4323-b870-daf152134849] “
+Doch David scheute sich,
+Saul zu schlagen\.
+Denn fromme Untergebene halten sich von jeder Seuche übler Nachrede fern und schlagen mit keinem Schwert der Zunge auf das Leben ihrer Vorgesetzten ein,
+selbst wenn sie deren Unvollkommenheit tadeln\.
+Können sie sich bisweilen aus Schwäche kaum zurückhalten und sprechen sie,
+wenngleich demütig,
+über einige geringfügige und äußerliche Verfehlungen ihrer Vorgesetzten,
+so schneiden sie gleichsam lautlos einen Zipfel vom Mantel ab\.
+Denn wenn sie die Würde ihres Vorgesetzten auch nur ohne Schaden anzurichten und im Verborgenen herabsetzen,
+beflecken sie gleichsam das Gewand des Königs,
+der über sie gesetzt ist\.
+Doch dann kehren sie zu sich selbst zurück und machen sich selbst wegen des allerkleinsten Risses,
+den ihr Wort verursacht hat,
+die heftigsten Vorwürfe\.
+Deshalb steht dort mit Recht geschrieben:
+„Danach schlug David das Herz,
+weil er einen Zipfel von Sauls Mantel abgeschnitten hatte\.[^bible-5390782f-2bb4-4e1b-b6a8-e81b8527082f]
+“ Die Taten der Vorgesetzten dürfen nicht mit dem Schwert des Mundes angegriffen werden,
+selbst wenn man sie mit Recht für tadelnswert hält\.
+Gleitet die Zunge dennoch einmal auch nur im Geringsten gegen sie aus,
+muss das Herz durch schmerzliche Reue niedergedrückt werden\.
+So kehrt der Betreffende zu sich selbst zurück und erschrickt,
+nachdem er sich gegen die ihm vorgesetzte Autorität vergangen hat,
+vor dem Urteil,
+das sie über ihn fällt,
+da sie ihm von Gott vorgesetzt worden ist\.
+Denn wenn wir uns gegen unsere Vorgesetzten vergehen,
+widersetzen wir uns der Einsetzung durch den,
+der sie über uns gestellt hat\.
+Deshalb sagte auch Mose,
+als er erkannte,
+dass das Volk gegen ihn und Aaron murrte:
+„Was sind denn wir?
+Euer Murren richtet sich nicht gegen uns,
+sondern gegen den Herrn\.[^bible-fdf4e275-ab42-4323-b870-daf152134849]
+“
 
 ## Bibelverweise
 

@@ -7,6 +7,68 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-3#kapitel-8afe6c7d-a15f-4fdc-2748-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c8e671c2086dfb53b0d13ee357e2f82685e94cb355d8a41299f474992e424c06`
-
-Tatsächlich aber sammelten Niger aus Peräa, Sylas der Babylonier und Johannes der Essäer alle kräftigen jungen Männer, die es in Judäa gab, und griffen Ascalon an, eine große Stadt, die zwar durch starke Mauern geschützt war, der es aber an Hilfe und Beistand fehlte; von Jerusalem war sie durch 720 Stadien und durch heftige Feindschaft getrennt\. Daher stürmten die Juden, weil sie eine ihnen feindliche Stadt vernichten wollten, mit den zusammengezogenen Truppen gegen sie an\. Antonius befehligte die Stadt mit einer geringeren Zahl römischer Soldaten, als er für ausreichend hielt, um den Juden standzuhalten\. Da er aber ein Mann scharfen Urteils und zugleich ein erfahrener Soldat war, ließ er sie, zerstreut und mehr auf ihre Zahl als auf ihre Tapferkeit vertrauend, bis zur Stadt herankommen; dann führte er seine Reiterei hinaus, griff die vordersten an, bedrängte die Nachrückenden, sprengte die dicht Gedrängten auseinander, schlug die ungeordneten Haufen in die Flucht und verfolgte die, die sich über die ganze Ebene zerstreuten\. Die einen werden, zur Umkehr gezwungen und jeder Fluchtmöglichkeit beraubt, gegen die Mauern getrieben; andere suchen verschiedene Wege, werden aber von den Reitern umstellt und niedergehauen\. Viele stürzen übereinander und treiben einander in ihrem ungestümen Andrang auseinander\. So wurden sie bis zum Abend niedergemacht und verloren aus ihren Truppen zehntausend Mann, auch ihre Anführer Johannes und Sylas kamen um\. Von den Römern dagegen wurden in dieser Schlacht nur wenige verwundet\. Die Verwegenheit der Juden aber wurde dadurch nicht gezügelt, sondern noch angefacht\. Denn der Schmerz weckte ihren Wagemut, und die Schmach rief den Eifer hervor, sich zu rächen\. Sie bewaffneten sich daher mit noch weit größerer Wut; die Wunden der Verletzten waren noch nicht verheilt, und mit mehr Männern als beim ersten Mal gesammelt stürmten sie zum Angriff vor\. Doch Antonius fing sie in vorbereiteten Hinterhalten ab, schnitt sie, noch bevor sie in den Nahkampf kamen, von allen Seiten mit Reiterei ein und befahl, die Eingeschlossenen niederzumachen\. Wieder wurden achttausend getötet, der Rest in die Flucht geschlagen\. Niger selbst entkam und begab sich in eine Befestigung\. Dort stand ein Turm, ringsum von festem Fels umschlossen; weil die Römer ihn nicht zerstören konnten, umgaben sie ihn mit angelegten Feuern\. Als diese entzündet waren, ging Niger vom Turm in eine Höhle hinüber und verbarg sich vor dem Feind; so entkam er dem Feuer, während die Römer unbekümmert blieben, weil sie meinten, er müsse in der Feuersbrunst umgekommen sein\. Nach dem dritten Tag aber, als seine eigenen Truppen seinen Leichnam zur Bestattung suchten, wurde er lebend und wohlbehalten wiedergefunden\. So wurde er, aus den Händen des Feindes gerettet, den Juden unter großer Freude gezeigt\.
+Tatsächlich aber sammelten Niger aus Peräa,
+Sylas der Babylonier und Johannes der Essäer alle kräftigen jungen Männer,
+die es in Judäa gab,
+und griffen Ascalon an,
+eine große Stadt,
+die zwar durch starke Mauern geschützt war,
+der es aber an Hilfe und Beistand fehlte;
+von Jerusalem war sie durch 720 Stadien und durch heftige Feindschaft getrennt\.
+Daher stürmten die Juden,
+weil sie eine ihnen feindliche Stadt vernichten wollten,
+mit den zusammengezogenen Truppen gegen sie an\.
+Antonius befehligte die Stadt mit einer geringeren Zahl römischer Soldaten,
+als er für ausreichend hielt,
+um den Juden standzuhalten\.
+Da er aber ein Mann scharfen Urteils und zugleich ein erfahrener Soldat war,
+ließ er sie,
+zerstreut und mehr auf ihre Zahl als auf ihre Tapferkeit vertrauend,
+bis zur Stadt herankommen;
+dann führte er seine Reiterei hinaus,
+griff die vordersten an,
+bedrängte die Nachrückenden,
+sprengte die dicht Gedrängten auseinander,
+schlug die ungeordneten Haufen in die Flucht und verfolgte die,
+die sich über die ganze Ebene zerstreuten\.
+Die einen werden,
+zur Umkehr gezwungen und jeder Fluchtmöglichkeit beraubt,
+gegen die Mauern getrieben;
+andere suchen verschiedene Wege,
+werden aber von den Reitern umstellt und niedergehauen\.
+Viele stürzen übereinander und treiben einander in ihrem ungestümen Andrang auseinander\.
+So wurden sie bis zum Abend niedergemacht und verloren aus ihren Truppen zehntausend Mann,
+auch ihre Anführer Johannes und Sylas kamen um\.
+Von den Römern dagegen wurden in dieser Schlacht nur wenige verwundet\.
+Die Verwegenheit der Juden aber wurde dadurch nicht gezügelt,
+sondern noch angefacht\.
+Denn der Schmerz weckte ihren Wagemut,
+und die Schmach rief den Eifer hervor,
+sich zu rächen\.
+Sie bewaffneten sich daher mit noch weit größerer Wut;
+die Wunden der Verletzten waren noch nicht verheilt,
+und mit mehr Männern als beim ersten Mal gesammelt stürmten sie zum Angriff vor\.
+Doch Antonius fing sie in vorbereiteten Hinterhalten ab,
+schnitt sie,
+noch bevor sie in den Nahkampf kamen,
+von allen Seiten mit Reiterei ein und befahl,
+die Eingeschlossenen niederzumachen\.
+Wieder wurden achttausend getötet,
+der Rest in die Flucht geschlagen\.
+Niger selbst entkam und begab sich in eine Befestigung\.
+Dort stand ein Turm,
+ringsum von festem Fels umschlossen;
+weil die Römer ihn nicht zerstören konnten,
+umgaben sie ihn mit angelegten Feuern\.
+Als diese entzündet waren,
+ging Niger vom Turm in eine Höhle hinüber und verbarg sich vor dem Feind;
+so entkam er dem Feuer,
+während die Römer unbekümmert blieben,
+weil sie meinten,
+er müsse in der Feuersbrunst umgekommen sein\.
+Nach dem dritten Tag aber,
+als seine eigenen Truppen seinen Leichnam zur Bestattung suchten,
+wurde er lebend und wohlbehalten wiedergefunden\.
+So wurde er,
+aus den Händen des Feindes gerettet,
+den Juden unter großer Freude gezeigt\.

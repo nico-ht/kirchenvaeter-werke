@@ -7,11 +7,122 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/1-predigt-zu-genesis#kapitel-1af53dfe-7c1d-4681-efd2-08dd0b203560).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:360fc65b7f02502fce402f71ec22a245010e9fead799fc47c4a20e42a9b77c62`
+"Am Anfang schuf Gott Himmel und Erde"[^bible-df4fd815-85c3-4334-a97d-3cd5a38174a5] Was ist der Anfang aller Dinge,
+wenn nicht unser Herr und Erlöser aller,
+Jesus Christus,
+"der Erstgeborene aller Geschöpfe"[^bible-0b815543-137b-4168-8fb9-9f4c413aeaba]?
+In diesem Anfang,
+das heißt in seinem Wort,
+"schuf Gott Himmel und Erde",
+wie der Evangelist Johannes auch zu Beginn seines Evangeliums sagt:
+"Im Anfang war das Wort,
+und das Wort war bei Gott,
+und das Wort war Gott\.
+Dasselbe war im Anfang bei Gott\.
+Alle Dinge sind durch ihn gemacht,
+und ohne ihn ist nichts gemacht worden\."[^bible-fd612c3d-2800-41c6-9b80-208395c9e7f1]
+Die Schrift spricht hier nicht von einem zeitlichen Anfang,
+sondern sie sagt,
+dass der Himmel und die Erde und alle Dinge,
+die gemacht wurden,
+"im Anfang" gemacht wurden,
+das heißt im Erlöser\.
+"Und die Erde war unsichtbar und unordentlich,
+und Finsternis war über der Tiefe,
+und der Geist Gottes schwebte über den Wassern\."[^bible-3bf36ae2-5579-4970-8fe6-fc3293e6b430]
+"Die Erde war unsichtbar und unordentlich",
+bevor Gott sprach:
+"Es werde Licht,"[^bible-c8ecfa81-786f-45e5-9375-61feeeef8a13]
+und bevor er das Licht von der Finsternis schied,
+wie die Ordnung des Berichts zeigt\.
+Aber da er in den folgenden Worten den Himmel ins Dasein ruft und diesen Himmel nennt,
+wird an dieser Stelle der Grund für den Unterschied zwischen Himmel und Firmament erklärt,
+sowie auch,
+warum das Firmament Himmel genannt wurde\.
+Doch jetzt sagt der Text:
+"Finsternis war über der Tiefe\."[^bible-67347c58-640b-4e73-8398-70eee2e5b228]
+Was ist "die Tiefe"?
+Natürlich der Ort,
+wo "der Teufel und seine Engel" sein werden\.
+Dies wird auch im Evangelium sehr deutlich bezeichnet,
+wenn es von dem Erlöser heißt:
+"Und die Dämonen,
+die er austreiben wollte,
+baten ihn,
+dass er sie nicht in die Tiefe schicken solle\."[^bible-398da6de-16eb-4cd7-a0b9-8d8966bc8a27]
+Aus diesem Grund löste Gott die Finsternis auf,
+wie die Schrift sagt:
+"Und Gott sprach:
+'Es werde Licht,'
+und es wurde Licht\.
+Und Gott sah,
+dass das Licht gut war;
+und Gott schied zwischen dem Licht und der Finsternis\.
+Und Gott nannte das Licht Tag und die Finsternis Nacht\.
+Und es wurde Abend und es wurde Morgen,
+ein Tag\."[^bible-e3daacf2-b85f-4bef-bf75-a6af9fcde263]
+Nach dem Buchstaben nennt Gott sowohl das Licht Tag als auch die Finsternis Nacht\.
+Aber lasst uns gemäß der geistlichen Bedeutung sehen,
+warum es so ist,
+dass,
+als Gott in diesem Anfang,
+den wir oben besprochen haben,
+"Himmel und Erde machte" und sprach:
+"Es werde Licht" und "schied zwischen dem Licht und der Finsternis und nannte das Licht Tag und die Finsternis Nacht",
+und der Text sagte,
+dass "es Abend wurde und es Morgen wurde,"
+es wurde nicht gesagt:
+"der erste Tag",
+sondern "ein Tag"\.
+Das liegt daran,
+dass es vor der Schöpfung der Welt noch keine Zeit gab\.
+Aber die Zeit beginnt mit den folgenden Tagen zu existieren\.
+Denn der zweite Tag,
+der dritte und der vierte und alle weiteren beginnen,
+die Zeit zu kennzeichnen\.
 
-"Am Anfang schuf Gott Himmel und Erde"[^bible-df4fd815-85c3-4334-a97d-3cd5a38174a5] Was ist der Anfang aller Dinge, wenn nicht unser Herr und Erlöser aller, Jesus Christus, "der Erstgeborene aller Geschöpfe"[^bible-0b815543-137b-4168-8fb9-9f4c413aeaba]? In diesem Anfang, das heißt in seinem Wort, "schuf Gott Himmel und Erde", wie der Evangelist Johannes auch zu Beginn seines Evangeliums sagt: "Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott\. Dasselbe war im Anfang bei Gott\. Alle Dinge sind durch ihn gemacht, und ohne ihn ist nichts gemacht worden\."[^bible-fd612c3d-2800-41c6-9b80-208395c9e7f1] Die Schrift spricht hier nicht von einem zeitlichen Anfang, sondern sie sagt, dass der Himmel und die Erde und alle Dinge, die gemacht wurden, "im Anfang" gemacht wurden, das heißt im Erlöser\. "Und die Erde war unsichtbar und unordentlich, und Finsternis war über der Tiefe, und der Geist Gottes schwebte über den Wassern\."[^bible-3bf36ae2-5579-4970-8fe6-fc3293e6b430] "Die Erde war unsichtbar und unordentlich", bevor Gott sprach: "Es werde Licht,"[^bible-c8ecfa81-786f-45e5-9375-61feeeef8a13] und bevor er das Licht von der Finsternis schied, wie die Ordnung des Berichts zeigt\. Aber da er in den folgenden Worten den Himmel ins Dasein ruft und diesen Himmel nennt, wird an dieser Stelle der Grund für den Unterschied zwischen Himmel und Firmament erklärt, sowie auch, warum das Firmament Himmel genannt wurde\. Doch jetzt sagt der Text: "Finsternis war über der Tiefe\."[^bible-67347c58-640b-4e73-8398-70eee2e5b228] Was ist "die Tiefe"? Natürlich der Ort, wo "der Teufel und seine Engel" sein werden\. Dies wird auch im Evangelium sehr deutlich bezeichnet, wenn es von dem Erlöser heißt: "Und die Dämonen, die er austreiben wollte, baten ihn, dass er sie nicht in die Tiefe schicken solle\."[^bible-398da6de-16eb-4cd7-a0b9-8d8966bc8a27] Aus diesem Grund löste Gott die Finsternis auf, wie die Schrift sagt: "Und Gott sprach: 'Es werde Licht,' und es wurde Licht\. Und Gott sah, dass das Licht gut war; und Gott schied zwischen dem Licht und der Finsternis\. Und Gott nannte das Licht Tag und die Finsternis Nacht\. Und es wurde Abend und es wurde Morgen, ein Tag\."[^bible-e3daacf2-b85f-4bef-bf75-a6af9fcde263] Nach dem Buchstaben nennt Gott sowohl das Licht Tag als auch die Finsternis Nacht\. Aber lasst uns gemäß der geistlichen Bedeutung sehen, warum es so ist, dass, als Gott in diesem Anfang, den wir oben besprochen haben, "Himmel und Erde machte" und sprach: "Es werde Licht" und "schied zwischen dem Licht und der Finsternis und nannte das Licht Tag und die Finsternis Nacht", und der Text sagte, dass "es Abend wurde und es Morgen wurde," es wurde nicht gesagt: "der erste Tag", sondern "ein Tag"\. Das liegt daran, dass es vor der Schöpfung der Welt noch keine Zeit gab\. Aber die Zeit beginnt mit den folgenden Tagen zu existieren\. Denn der zweite Tag, der dritte und der vierte und alle weiteren beginnen, die Zeit zu kennzeichnen\.
-
-Doch nun sagt der Text: „Finsternis war über der Tiefe\.“ [^bible-f32fbca4-df41-4443-9d32-7d3311acf1fb]Was ist „die Tiefe“? Natürlich der Ort, wo „der Teufel und seine Engel“ sein werden\. Dies wird auch im Evangelium ganz klar bezeichnet, wenn von dem Erlöser gesagt wird: „Und die Dämonen, die er austrieb, baten ihn, dass er sie nicht in die Tiefe schickt\.“[^bible-75456628-eea7-4407-98ee-e55a584d6316] Aus diesem Grund löste Gott die Finsternis auf, wie die Schrift sagt: „Und Gott sprach: 'Es werde Licht,' und es wurde Licht\. Und Gott sah, dass das Licht gut war; und Gott schied das Licht von der Finsternis\. Und Gott nannte das Licht Tag und die Finsternis Nacht\. Und es wurde Abend und es wurde Morgen, ein Tag\.“[^bible-4ea8e4cd-5af9-40a8-bf15-031a21b9b74a] Laut dem Buchstaben nennt Gott sowohl das Licht Tag als auch die Finsternis Nacht\. Aber lasst uns die geistliche Bedeutung aufspüren, warum es so ist, dass, als Gott in jenem Anfang, den wir oben besprochen haben, „Himmel und Erde machte“ und sprach: „Es werde Licht“ [^bible-02ec2ba5-762b-44a3-b366-60e6e415e32f]und „schied zwischen Licht und Finsternis und nannte das Licht Tag und die Finsternis Nacht“[^bible-aa2ed8c9-792c-421b-8c7a-4cf2fd9a317f], der Text sagte, dass es Abend wurde und Morgen wurde, es wurde nicht, „der erste Tag“ gesagt, sondern „ein Tag“\. Das liegt daran, dass es vor der Schöpfung der Welt noch keine Zeit gab\. Die Zeit beginnt erst mit den darauffolgenden Tagen zu existieren\. Denn der zweite Tag, der dritte, der vierte und alle weiteren beginnen, die Zeit zu kennzeichnen\.
+Doch nun sagt der Text:
+„Finsternis war über der Tiefe\.“
+[^bible-f32fbca4-df41-4443-9d32-7d3311acf1fb]Was ist „die Tiefe“?
+Natürlich der Ort,
+wo „der Teufel und seine Engel“ sein werden\.
+Dies wird auch im Evangelium ganz klar bezeichnet,
+wenn von dem Erlöser gesagt wird:
+„Und die Dämonen,
+die er austrieb,
+baten ihn,
+dass er sie nicht in die Tiefe schickt\.“[^bible-75456628-eea7-4407-98ee-e55a584d6316]
+Aus diesem Grund löste Gott die Finsternis auf,
+wie die Schrift sagt:
+„Und Gott sprach:
+'Es werde Licht,'
+und es wurde Licht\.
+Und Gott sah,
+dass das Licht gut war;
+und Gott schied das Licht von der Finsternis\.
+Und Gott nannte das Licht Tag und die Finsternis Nacht\.
+Und es wurde Abend und es wurde Morgen,
+ein Tag\.“[^bible-4ea8e4cd-5af9-40a8-bf15-031a21b9b74a]
+Laut dem Buchstaben nennt Gott sowohl das Licht Tag als auch die Finsternis Nacht\.
+Aber lasst uns die geistliche Bedeutung aufspüren,
+warum es so ist,
+dass,
+als Gott in jenem Anfang,
+den wir oben besprochen haben,
+„Himmel und Erde machte“ und sprach:
+„Es werde Licht“ [^bible-02ec2ba5-762b-44a3-b366-60e6e415e32f]und „schied zwischen Licht und Finsternis und nannte das Licht Tag und die Finsternis Nacht“[^bible-aa2ed8c9-792c-421b-8c7a-4cf2fd9a317f],
+der Text sagte,
+dass es Abend wurde und Morgen wurde,
+es wurde nicht,
+„der erste Tag“ gesagt,
+sondern „ein Tag“\.
+Das liegt daran,
+dass es vor der Schöpfung der Welt noch keine Zeit gab\.
+Die Zeit beginnt erst mit den darauffolgenden Tagen zu existieren\.
+Denn der zweite Tag,
+der dritte,
+der vierte und alle weiteren beginnen,
+die Zeit zu kennzeichnen\.
 
 ## Bibelverweise
 

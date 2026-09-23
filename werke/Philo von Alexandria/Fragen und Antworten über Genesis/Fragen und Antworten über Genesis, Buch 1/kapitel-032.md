@@ -7,6 +7,37 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-1#kapitel-c8364add-245c-4773-cd3a-08dd5e2b9946).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a2c1729227ad5bd3e3dc72a4469b0e82148fc21b8490c4dd4978219c0c7c35eb`
-
-Sprach die Schlange mit menschlicher Stimme? Erstens kann es sein, dass am Anfang der Welt auch die übrigen Tiere außer dem Menschen der Fähigkeit zu artikulierter Rede nicht völlig beraubt waren, sondern dass der Mensch ihnen nur durch größere Gewandtheit und Klarheit in Rede und Sprache überlegen war\. Zweitens: Wenn etwas ganz Wunderbares geschehen muss, verändert Gott die betreffenden Naturen, durch die er zu wirken beabsichtigt\. Drittens: Unsere Seele ist ganz von vielen Irrtümern erfüllt und für alle Worte taub geworden, außer in einer oder zwei Sprachen, an die sie gewöhnt ist; die Seelen der zuerst Geschaffenen aber waren geschärft, jede Stimme jeder Art vollständig zu verstehen, damit sie frei vom Bösen und ganz unbefleckt blieben\. Denn wir sind nicht mit Sinnen von solcher Vollkommenheit ausgestattet; die Sinne, die wir empfangen haben, sind in gewissem Maß verdorben, ebenso wie auch der Bau unserer Körper klein ist\. Die zuerst erschaffenen Menschen aber empfingen Körper von ungeheurem Ausmaß, die bis zu riesenhafter Höhe reichten; daher mussten sie notwendig auch genauere Sinne empfangen haben und, was noch vorzüglicher ist, eine Fähigkeit, die Dinge auf philosophische Weise zu prüfen und zu hören\. Denn einige meinen, und vielleicht nicht ohne Grund, sie seien mit solchen Augen ausgestattet gewesen, dass sie sogar jene Naturen, Wesenheiten und Wirkweisen schauen konnten, die im Himmel bestehen, und ebenso mit Ohren, durch die sie jede Art von Stimme und Sprache begreifen konnten\.
+Sprach die Schlange mit menschlicher Stimme?
+Erstens kann es sein,
+dass am Anfang der Welt auch die übrigen Tiere außer dem Menschen der Fähigkeit zu artikulierter Rede nicht völlig beraubt waren,
+sondern dass der Mensch ihnen nur durch größere Gewandtheit und Klarheit in Rede und Sprache überlegen war\.
+Zweitens:
+Wenn etwas ganz Wunderbares geschehen muss,
+verändert Gott die betreffenden Naturen,
+durch die er zu wirken beabsichtigt\.
+Drittens:
+Unsere Seele ist ganz von vielen Irrtümern erfüllt und für alle Worte taub geworden,
+außer in einer oder zwei Sprachen,
+an die sie gewöhnt ist;
+die Seelen der zuerst Geschaffenen aber waren geschärft,
+jede Stimme jeder Art vollständig zu verstehen,
+damit sie frei vom Bösen und ganz unbefleckt blieben\.
+Denn wir sind nicht mit Sinnen von solcher Vollkommenheit ausgestattet;
+die Sinne,
+die wir empfangen haben,
+sind in gewissem Maß verdorben,
+ebenso wie auch der Bau unserer Körper klein ist\.
+Die zuerst erschaffenen Menschen aber empfingen Körper von ungeheurem Ausmaß,
+die bis zu riesenhafter Höhe reichten;
+daher mussten sie notwendig auch genauere Sinne empfangen haben und,
+was noch vorzüglicher ist,
+eine Fähigkeit,
+die Dinge auf philosophische Weise zu prüfen und zu hören\.
+Denn einige meinen,
+und vielleicht nicht ohne Grund,
+sie seien mit solchen Augen ausgestattet gewesen,
+dass sie sogar jene Naturen,
+Wesenheiten und Wirkweisen schauen konnten,
+die im Himmel bestehen,
+und ebenso mit Ohren,
+durch die sie jede Art von Stimme und Sprache begreifen konnten\.

@@ -7,11 +7,15 @@ Autor: Theodoret von Kyrrhos
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/theodoret-von-kyrrhos/psalm-2#kapitel-88c44f42-99de-461b-d4da-08dd82975194).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5f1aae26f83749349f7c005b9a657bfe82e7a5b35fddf25b6beefd6c172d86b7`
+„Und nun,
+o Könige,
+versteht;
+lasst euch unterweisen,
+ihr alle,
+die ihr die Erde richtet\.“[^bible-f46cd2f4-05d7-49f7-a038-f7b93c062515]
 
-„Und nun, o Könige, versteht; lasst euch unterweisen, ihr alle, die ihr die Erde richtet\.“[^bible-f46cd2f4-05d7-49f7-a038-f7b93c062515]
-
-Denn Er ist der König von uns allen, der zuvor nur über die Juden zu herrschen schien\.
+Denn Er ist der König von uns allen,
+der zuvor nur über die Juden zu herrschen schien\.
 
 ## Bibelverweise
 

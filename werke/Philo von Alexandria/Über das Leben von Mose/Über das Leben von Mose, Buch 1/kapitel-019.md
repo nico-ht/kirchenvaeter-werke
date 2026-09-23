@@ -7,6 +7,74 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-1#kapitel-5d09033a-53d2-4464-4877-08ded87107d6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:04e0a50ed1fa3409d6a390a936ed75442edc72f7bd3e4c2ebe3403df76a6f9c4`
-
-Als sie sich von dieser Strafe ein wenig erholt hatten, kehrten sie, wie Wettkämpfer bei den Spielen, die nach einem Ringkampf neue Kräfte gesammelt haben, um mit frischem Nachdruck weiterzukämpfen, wieder zu ihrer ursprünglichen Bosheit zurück und vergaßen die Übel, die sie schon erfahren hatten\. Nachdem Gott die Strafen beendet hatte, die aus dem Wasser hervorgehen sollten, ließ er andere Plagen aus der Erde aufkommen und bediente sich weiterhin desselben Dieners der Strafe\. Dieser schlug nun im Gehorsam gegen den empfangenen Befehl mit seinem Stab auf die Erde, und überall ergoss sich eine Fülle von Läusen; sie breiteten sich wie eine Wolke aus und bedeckten ganz Ägypten\. Dieses kleine Tier ist, obwohl es sehr winzig ist, außerordentlich lästig: Es entstellt nicht nur das Aussehen, indem es hässlichen und schädlichen Juckreiz hervorruft, sondern dringt auch bis ins Innerste vor, durch Nase und Ohren\. Und es fliegt in die Augen und verletzt die Pupillen, wenn man nicht größte Vorsicht walten lässt; doch welche Vorsicht hätte man gegen eine so weit ausgreifende Plage treffen können, zumal Gott selbst die Strafe verhängte? Vielleicht fragt hier jemand, warum Gott das Land mit so unbedeutenden und allgemein verachteten Tieren strafte und Bären, Löwen, Leoparden und die übrigen Arten wilder Tiere, die menschliches Fleisch verschlingen, überging; und wenn er diese nicht sandte, hätte er doch wenigstens ägyptische Nattern schicken können, deren Bisse von Natur aus die Kraft haben, augenblicklich den Tod zu bewirken\. Wenn ein solcher Mensch es aber wirklich nicht weiß, soll er zuerst lernen, dass Gott die Ägypter eher mahnen als vernichten wollte\. Denn wenn er im Sinn gehabt hätte, sie ein für alle Mal gänzlich zu vernichten, hätte er sich nicht der Tiere gleichsam als seiner Mithelfer beim Werk der Vernichtung bedient, sondern vielmehr vom Himmel gesandter Heimsuchungen wie Hunger und Pest\. Zweitens soll er auch eine Lehre annehmen, die man notwendig lernen muss und die für jede Lebenslage und jedes Lebensalter gilt\. Welche Lehre ist das? Diese: Wenn Menschen Krieg führen, suchen sie die mächtigsten Kräfte aus, um sie für ihr Bündnis zu gewinnen, solche, die den Mangel an eigener Macht ausgleichen sollen\. Gott aber, der über allen Mächten steht und der mächtigste von allen ist, braucht keinen Helfer; wenn er jemals Werkzeuge für die Strafen gebrauchen will, die er verhängen möchte, wählt er nicht die mächtigsten oder größten Dinge zu seinen Dienern, denn auf ihre Leistungsfähigkeit achtet er nur wenig, sondern er gebraucht unbedeutende und kleine Mittel, die er zu unwiderstehlichen und unbesiegbaren Kräften macht, und durch sie züchtigt er die, die Unrecht tun, wie er es auch hier tut\. Denn was kann unbedeutender sein als eine Laus? Und doch war sie so mächtig, dass ganz Ägypten unter ihrer Schar erlag und gezwungen war auszurufen: „Dies ist der Zorn Gottes\.“ Denn die ganze Erde zusammen, von einem Ende bis zum anderen, könnte der Hand Gottes nicht widerstehen, nein, nicht einmal das ganze All\.
+Als sie sich von dieser Strafe ein wenig erholt hatten,
+kehrten sie,
+wie Wettkämpfer bei den Spielen,
+die nach einem Ringkampf neue Kräfte gesammelt haben,
+um mit frischem Nachdruck weiterzukämpfen,
+wieder zu ihrer ursprünglichen Bosheit zurück und vergaßen die Übel,
+die sie schon erfahren hatten\.
+Nachdem Gott die Strafen beendet hatte,
+die aus dem Wasser hervorgehen sollten,
+ließ er andere Plagen aus der Erde aufkommen und bediente sich weiterhin desselben Dieners der Strafe\.
+Dieser schlug nun im Gehorsam gegen den empfangenen Befehl mit seinem Stab auf die Erde,
+und überall ergoss sich eine Fülle von Läusen;
+sie breiteten sich wie eine Wolke aus und bedeckten ganz Ägypten\.
+Dieses kleine Tier ist,
+obwohl es sehr winzig ist,
+außerordentlich lästig:
+Es entstellt nicht nur das Aussehen,
+indem es hässlichen und schädlichen Juckreiz hervorruft,
+sondern dringt auch bis ins Innerste vor,
+durch Nase und Ohren\.
+Und es fliegt in die Augen und verletzt die Pupillen,
+wenn man nicht größte Vorsicht walten lässt;
+doch welche Vorsicht hätte man gegen eine so weit ausgreifende Plage treffen können,
+zumal Gott selbst die Strafe verhängte?
+Vielleicht fragt hier jemand,
+warum Gott das Land mit so unbedeutenden und allgemein verachteten Tieren strafte und Bären,
+Löwen,
+Leoparden und die übrigen Arten wilder Tiere,
+die menschliches Fleisch verschlingen,
+überging;
+und wenn er diese nicht sandte,
+hätte er doch wenigstens ägyptische Nattern schicken können,
+deren Bisse von Natur aus die Kraft haben,
+augenblicklich den Tod zu bewirken\.
+Wenn ein solcher Mensch es aber wirklich nicht weiß,
+soll er zuerst lernen,
+dass Gott die Ägypter eher mahnen als vernichten wollte\.
+Denn wenn er im Sinn gehabt hätte,
+sie ein für alle Mal gänzlich zu vernichten,
+hätte er sich nicht der Tiere gleichsam als seiner Mithelfer beim Werk der Vernichtung bedient,
+sondern vielmehr vom Himmel gesandter Heimsuchungen wie Hunger und Pest\.
+Zweitens soll er auch eine Lehre annehmen,
+die man notwendig lernen muss und die für jede Lebenslage und jedes Lebensalter gilt\.
+Welche Lehre ist das?
+Diese:
+Wenn Menschen Krieg führen,
+suchen sie die mächtigsten Kräfte aus,
+um sie für ihr Bündnis zu gewinnen,
+solche,
+die den Mangel an eigener Macht ausgleichen sollen\.
+Gott aber,
+der über allen Mächten steht und der mächtigste von allen ist,
+braucht keinen Helfer;
+wenn er jemals Werkzeuge für die Strafen gebrauchen will,
+die er verhängen möchte,
+wählt er nicht die mächtigsten oder größten Dinge zu seinen Dienern,
+denn auf ihre Leistungsfähigkeit achtet er nur wenig,
+sondern er gebraucht unbedeutende und kleine Mittel,
+die er zu unwiderstehlichen und unbesiegbaren Kräften macht,
+und durch sie züchtigt er die,
+die Unrecht tun,
+wie er es auch hier tut\.
+Denn was kann unbedeutender sein als eine Laus?
+Und doch war sie so mächtig,
+dass ganz Ägypten unter ihrer Schar erlag und gezwungen war auszurufen:
+„Dies ist der Zorn Gottes\.“
+Denn die ganze Erde zusammen,
+von einem Ende bis zum anderen,
+könnte der Hand Gottes nicht widerstehen,
+nein,
+nicht einmal das ganze All\.

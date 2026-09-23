@@ -7,11 +7,186 @@ Autor: Clemens von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-alexandria/welcher-reiche-wird-gerettet-werden#kapitel-d79da67b-045b-4bef-5480-08df013cfca0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:970d212d2785e2b37a79267c5ff61757b5ce5760d40518d7e124be48d9d02137`
+Damit du nach einer solchen wahrhaftigen Umkehr neuen Mut fasst und erkennst,
+dass dir eine wohlbegründete Hoffnung auf Rettung bleibt,
+höre eine Geschichte,
+die keine erfundene Geschichte,
+sondern eine wahre Begebenheit ist\.
+Sie handelt vom Apostel Johannes und ist überliefert und im Gedächtnis bewahrt worden\.
+Nach dem Tod des Tyrannen verließ Johannes die Insel Patmos und begab sich nach Ephesus\.
+Auf Bitten hin besuchte er auch die benachbarten Gebiete der Völker,
+um hier Bischöfe einzusetzen,
+dort ganze Kirchen zu ordnen und anderswo einen der vom Geist bezeichneten Männer in den Klerus zu berufen\.
+So kam er auch in eine der nahe gelegenen Städte,
+deren Namen manche nennen\.
+Nachdem er die Brüder auch in den übrigen Belangen gestärkt hatte,
+blickte er zuletzt den dort eingesetzten Bischof an\.
+Da bemerkte er einen jungen Mann von kräftiger Gestalt,
+ansprechendem Äußeren und feurigem Geist und sagte:
+„Diesen vertraue ich dir mit allem Ernst an,
+vor der Kirche und vor Christus als Zeugen\.“
+Der Bischof nahm ihn an und versprach alles;
+Johannes wiederholte dieselbe Mahnung und beschwor ihn noch einmal\.
+Dann reiste Johannes nach Ephesus ab\.
+Der Presbyter aber nahm den ihm anvertrauten jungen Mann in sein Haus auf,
+ernährte ihn,
+hielt ihn bei sich,
+umsorgte ihn und erleuchtete ihn schließlich durch die Taufe\.
+Danach ließ er in seiner umfassenden Fürsorge und Aufsicht nach,
+da er ihm das Siegel des Herrn als vollkommenen Schutz gegeben hatte\.
+Der junge Mann jedoch hatte vor der Zeit Freiheit erhalten\.
+Da gesellten sich einige Gleichaltrige zu ihm,
+die müßig,
+verwahrlost und im Bösen erfahren waren\.
+Zuerst verführten sie ihn durch üppige Gelage,
+dann nahmen sie ihn mit,
+wenn sie nachts auszogen,
+um Kleider zu rauben,
+und schließlich verlangten sie von ihm,
+sich an noch schlimmeren Taten zu beteiligen\.
+Allmählich gewöhnte er sich daran\.
+Aufgrund seiner starken Natur kam er wie ein ungezügeltes,
+starkes Pferd vom rechten Weg ab,
+verbiss sich ins Gebiss und stürmte umso heftiger auf die Abgründe zu\.
+Schließlich gab er jede Hoffnung auf die Rettung durch Gott auf und sann fortan auf nichts Geringes mehr\.
+Da er nun einmal verloren war,
+hielt er es für angemessen,
+nach einer großen Untat dasselbe zu erleiden wie die anderen\.
+Er nahm eben diese Gefährten mit sich,
+bildete eine Räuberbande und war bald ihr Anführer,
+der gewalttätigste,
+blutrünstigste und grausamste von allen\.
+Einige Zeit verging\.
+Als eine Angelegenheit es erforderlich machte,
+rief man Johannes zurück\.
+Nachdem er alles geregelt hatte,
+weswegen er gekommen war,
+sagte er:
+„Nun,
+Bischof,
+gib uns das anvertraute Gut zurück,
+das Christus und ich dir vor der Kirche,
+der du vorstehst,
+als Zeugin übergeben haben\.“
+Der Bischof war zunächst bestürzt\.
+Er meinte,
+man beschuldige ihn wegen Geldes,
+das er nicht erhalten hatte,
+und konnte weder wegen dessen,
+was er nicht erhalten hatte,
+Glauben schenken noch Johannes nicht glauben\.
+Als Johannes jedoch sagte:
+„Ich fordere den jungen Mann zurück und die Seele des Bruders“,
+seufzte der alte Mann tief,
+vergoss einige Tränen und sagte:
+„Er ist tot\.“
 
-Damit du nach einer solchen wahrhaftigen Umkehr neuen Mut fasst und erkennst, dass dir eine wohlbegründete Hoffnung auf Rettung bleibt, höre eine Geschichte, die keine erfundene Geschichte, sondern eine wahre Begebenheit ist\. Sie handelt vom Apostel Johannes und ist überliefert und im Gedächtnis bewahrt worden\. Nach dem Tod des Tyrannen verließ Johannes die Insel Patmos und begab sich nach Ephesus\. Auf Bitten hin besuchte er auch die benachbarten Gebiete der Völker, um hier Bischöfe einzusetzen, dort ganze Kirchen zu ordnen und anderswo einen der vom Geist bezeichneten Männer in den Klerus zu berufen\. So kam er auch in eine der nahe gelegenen Städte, deren Namen manche nennen\. Nachdem er die Brüder auch in den übrigen Belangen gestärkt hatte, blickte er zuletzt den dort eingesetzten Bischof an\. Da bemerkte er einen jungen Mann von kräftiger Gestalt, ansprechendem Äußeren und feurigem Geist und sagte: „Diesen vertraue ich dir mit allem Ernst an, vor der Kirche und vor Christus als Zeugen\.“ Der Bischof nahm ihn an und versprach alles; Johannes wiederholte dieselbe Mahnung und beschwor ihn noch einmal\. Dann reiste Johannes nach Ephesus ab\. Der Presbyter aber nahm den ihm anvertrauten jungen Mann in sein Haus auf, ernährte ihn, hielt ihn bei sich, umsorgte ihn und erleuchtete ihn schließlich durch die Taufe\. Danach ließ er in seiner umfassenden Fürsorge und Aufsicht nach, da er ihm das Siegel des Herrn als vollkommenen Schutz gegeben hatte\. Der junge Mann jedoch hatte vor der Zeit Freiheit erhalten\. Da gesellten sich einige Gleichaltrige zu ihm, die müßig, verwahrlost und im Bösen erfahren waren\. Zuerst verführten sie ihn durch üppige Gelage, dann nahmen sie ihn mit, wenn sie nachts auszogen, um Kleider zu rauben, und schließlich verlangten sie von ihm, sich an noch schlimmeren Taten zu beteiligen\. Allmählich gewöhnte er sich daran\. Aufgrund seiner starken Natur kam er wie ein ungezügeltes, starkes Pferd vom rechten Weg ab, verbiss sich ins Gebiss und stürmte umso heftiger auf die Abgründe zu\. Schließlich gab er jede Hoffnung auf die Rettung durch Gott auf und sann fortan auf nichts Geringes mehr\. Da er nun einmal verloren war, hielt er es für angemessen, nach einer großen Untat dasselbe zu erleiden wie die anderen\. Er nahm eben diese Gefährten mit sich, bildete eine Räuberbande und war bald ihr Anführer, der gewalttätigste, blutrünstigste und grausamste von allen\. Einige Zeit verging\. Als eine Angelegenheit es erforderlich machte, rief man Johannes zurück\. Nachdem er alles geregelt hatte, weswegen er gekommen war, sagte er: „Nun, Bischof, gib uns das anvertraute Gut zurück, das Christus und ich dir vor der Kirche, der du vorstehst, als Zeugin übergeben haben\.“ Der Bischof war zunächst bestürzt\. Er meinte, man beschuldige ihn wegen Geldes, das er nicht erhalten hatte, und konnte weder wegen dessen, was er nicht erhalten hatte, Glauben schenken noch Johannes nicht glauben\. Als Johannes jedoch sagte: „Ich fordere den jungen Mann zurück und die Seele des Bruders“, seufzte der alte Mann tief, vergoss einige Tränen und sagte: „Er ist tot\.“
-
-„Wie ist er gestorben und welchen Tod?“ „Für Gott ist er tot“, sagte der Bischof\. „Er ist böse und verworfen geworden, kurz: ein Räuber\. Jetzt hat er statt der Kirche mit einer gleichgesinnten Schar das Gebirge besetzt\.“ Da zerriss der Apostel sein Gewand, schlug sich mit lautem Wehklagen an den Kopf und sagte: „Einen vortrefflichen Hüter habe ich da über die Seele des Bruders gesetzt\! Aber nun soll sofort ein Pferd für mich bereitstehen, und jemand soll mir den Weg zeigen\.“ So, wie er war, ritt er unmittelbar von der Kirche los\. Als er in das Gebiet kam, wurde er von den vorgeschobenen Wachen der Räuber aufgegriffen\. Er floh nicht und bat auch nicht um Schonung, sondern rief: „Deshalb bin ich gekommen\. Bringt mich zu eurem Anführer\!“ Der wartete zunächst in voller Bewaffnung\. Als er aber Johannes näher kommen sah und erkannte, wandte er sich aus Scham zur Flucht\. Johannes verfolgte ihn mit aller Kraft, vergaß sein Alter und rief laut: „Warum fliehst du vor mir, mein Kind, vor deinem eigenen Vater, der unbewaffnet und alt ist? Hab Erbarmen mit mir, mein Kind, und fürchte dich nicht\! Du hast noch Hoffnung auf Leben\. Ich werde für dich vor Christus Rechenschaft ablegen\. Wenn es sein muss, werde ich freiwillig deinen Tod auf mich nehmen, wie der Herr den Tod für uns auf sich genommen hat\. Für dich werde ich mein Leben hingeben[^bible-5db84958-ae1d-4dbb-96fc-93f678f38d6b]\. Bleib stehen und glaube\! Christus hat mich gesandt\.“ Als der junge Mann das hörte, blieb er zunächst mit gesenktem Blick stehen\. Dann warf er seine Waffen fort, begann zu zittern und weinte bitterlich\. Als der alte Mann zu ihm kam, umarmte er ihn\. Mit seinem Wehklagen entschuldigte er sich, so gut er konnte, und ließ sich ein zweites Mal in seinen Tränen taufen; nur seine rechte Hand verbarg er\. Johannes verbürgte sich für ihn und versicherte ihm unter Eid, dass für ihn beim Erlöser Vergebung erlangt worden sei\. Er flehte inständig, fiel auf die Knie und bedeckte seine rechte Hand mit Küssen, da sie durch die Umkehr gereinigt war\. Dann führte er ihn in die Kirche zurück\. Mit eindringlichen Gebeten flehte er für ihn, begleitete ihn in unablässigem Fasten durch seinen Kampf und wirkte mit vielfältigen, eindringlichen Worten auf sein Herz ein\. Wie man berichtet, ging er erst fort, nachdem er ihn wieder fest in die Kirche eingegliedert hatte\. So gab er ein großes Beispiel wahrer Umkehr, ein deutliches Zeichen der Wiedergeburt, ein Siegesmal sichtbarer Auferstehung\. Voll strahlender Freude werden sie jubeln, Loblieder singen und die Himmel öffnen\. Vor allen aber kommt ihnen der Erlöser selbst entgegen, um sie willkommen zu heißen\. Er reicht ihnen ein Licht ohne Schatten und ohne Ende und führt sie in den Schoß des Vaters, in das ewige Leben[^bible-106385dd-258c-4db4-98a4-5159f4b110b7], in das Himmelreich\. Daran soll man glauben: den Jüngern Gottes und Gott, der sich dafür verbürgt, den Prophezeiungen, den Evangelien und den Worten der Apostel\. Wer mit ihnen lebt, auf sie hört und ihre Weisungen befolgt, wird bei seinem Scheiden selbst sehen, wohin diese Lehren führen und wie sie sich bewahrheiten\. Denn wer hier den Engel der Umkehr annimmt[^bible-2d8a6753-1948-4211-801f-d8bad7d54d3e], wird es nicht bereuen, wenn er den Körper verlässt\. Er wird auch nicht beschämt dastehen, wenn er den Erlöser mit seiner Herrlichkeit und seinem Heer kommen sieht[^bible-72afd9aa-1fdc-4155-84c7-7ecfd0985296]\. Das Feuer muss er nicht fürchten\. Wenn aber jemand lieber weiterhin immer wieder sündigt, um seinen Begierden nachzugehen, und den Genuss hier dem ewigen Leben vorzieht, wenn er sich abwendet, obwohl der Erlöser ihm Vergebung schenkt, dann soll er weder Gott noch den Reichtum noch seinen Fall verantwortlich machen, sondern seine eigene Seele, die sich freiwillig zugrunde richtet\. Wer jedoch auf seine Rettung bedacht ist, sie ersehnt und unverschämt und mit aller Kraft darum bittet, dem wird der gute Vater im Himmel[^bible-734f14ef-693b-4d46-a20a-099caeb3559f] die wahre Reinigung und das unwandelbare Leben gewähren\. Ihm sei durch den Diener Jesus Christus, den Herrn der Lebenden und der Toten[^bible-d7f39b65-ea27-4634-a57d-225dbab8e37c], und durch den Heiligen Geist Herrlichkeit, Ehre, Macht und ewige Majestät, jetzt und von Generation zu Generation und in alle Ewigkeit\. Amen\.
+„Wie ist er gestorben und welchen Tod?“
+„Für Gott ist er tot“,
+sagte der Bischof\.
+„Er ist böse und verworfen geworden,
+kurz:
+ein Räuber\.
+Jetzt hat er statt der Kirche mit einer gleichgesinnten Schar das Gebirge besetzt\.“
+Da zerriss der Apostel sein Gewand,
+schlug sich mit lautem Wehklagen an den Kopf und sagte:
+„Einen vortrefflichen Hüter habe ich da über die Seele des Bruders gesetzt\!
+Aber nun soll sofort ein Pferd für mich bereitstehen,
+und jemand soll mir den Weg zeigen\.“
+So,
+wie er war,
+ritt er unmittelbar von der Kirche los\.
+Als er in das Gebiet kam,
+wurde er von den vorgeschobenen Wachen der Räuber aufgegriffen\.
+Er floh nicht und bat auch nicht um Schonung,
+sondern rief:
+„Deshalb bin ich gekommen\.
+Bringt mich zu eurem Anführer\!“
+Der wartete zunächst in voller Bewaffnung\.
+Als er aber Johannes näher kommen sah und erkannte,
+wandte er sich aus Scham zur Flucht\.
+Johannes verfolgte ihn mit aller Kraft,
+vergaß sein Alter und rief laut:
+„Warum fliehst du vor mir,
+mein Kind,
+vor deinem eigenen Vater,
+der unbewaffnet und alt ist?
+Hab Erbarmen mit mir,
+mein Kind,
+und fürchte dich nicht\!
+Du hast noch Hoffnung auf Leben\.
+Ich werde für dich vor Christus Rechenschaft ablegen\.
+Wenn es sein muss,
+werde ich freiwillig deinen Tod auf mich nehmen,
+wie der Herr den Tod für uns auf sich genommen hat\.
+Für dich werde ich mein Leben hingeben[^bible-5db84958-ae1d-4dbb-96fc-93f678f38d6b]\.
+Bleib stehen und glaube\!
+Christus hat mich gesandt\.“
+Als der junge Mann das hörte,
+blieb er zunächst mit gesenktem Blick stehen\.
+Dann warf er seine Waffen fort,
+begann zu zittern und weinte bitterlich\.
+Als der alte Mann zu ihm kam,
+umarmte er ihn\.
+Mit seinem Wehklagen entschuldigte er sich,
+so gut er konnte,
+und ließ sich ein zweites Mal in seinen Tränen taufen;
+nur seine rechte Hand verbarg er\.
+Johannes verbürgte sich für ihn und versicherte ihm unter Eid,
+dass für ihn beim Erlöser Vergebung erlangt worden sei\.
+Er flehte inständig,
+fiel auf die Knie und bedeckte seine rechte Hand mit Küssen,
+da sie durch die Umkehr gereinigt war\.
+Dann führte er ihn in die Kirche zurück\.
+Mit eindringlichen Gebeten flehte er für ihn,
+begleitete ihn in unablässigem Fasten durch seinen Kampf und wirkte mit vielfältigen,
+eindringlichen Worten auf sein Herz ein\.
+Wie man berichtet,
+ging er erst fort,
+nachdem er ihn wieder fest in die Kirche eingegliedert hatte\.
+So gab er ein großes Beispiel wahrer Umkehr,
+ein deutliches Zeichen der Wiedergeburt,
+ein Siegesmal sichtbarer Auferstehung\.
+Voll strahlender Freude werden sie jubeln,
+Loblieder singen und die Himmel öffnen\.
+Vor allen aber kommt ihnen der Erlöser selbst entgegen,
+um sie willkommen zu heißen\.
+Er reicht ihnen ein Licht ohne Schatten und ohne Ende und führt sie in den Schoß des Vaters,
+in das ewige Leben[^bible-106385dd-258c-4db4-98a4-5159f4b110b7],
+in das Himmelreich\.
+Daran soll man glauben:
+den Jüngern Gottes und Gott,
+der sich dafür verbürgt,
+den Prophezeiungen,
+den Evangelien und den Worten der Apostel\.
+Wer mit ihnen lebt,
+auf sie hört und ihre Weisungen befolgt,
+wird bei seinem Scheiden selbst sehen,
+wohin diese Lehren führen und wie sie sich bewahrheiten\.
+Denn wer hier den Engel der Umkehr annimmt[^bible-2d8a6753-1948-4211-801f-d8bad7d54d3e],
+wird es nicht bereuen,
+wenn er den Körper verlässt\.
+Er wird auch nicht beschämt dastehen,
+wenn er den Erlöser mit seiner Herrlichkeit und seinem Heer kommen sieht[^bible-72afd9aa-1fdc-4155-84c7-7ecfd0985296]\.
+Das Feuer muss er nicht fürchten\.
+Wenn aber jemand lieber weiterhin immer wieder sündigt,
+um seinen Begierden nachzugehen,
+und den Genuss hier dem ewigen Leben vorzieht,
+wenn er sich abwendet,
+obwohl der Erlöser ihm Vergebung schenkt,
+dann soll er weder Gott noch den Reichtum noch seinen Fall verantwortlich machen,
+sondern seine eigene Seele,
+die sich freiwillig zugrunde richtet\.
+Wer jedoch auf seine Rettung bedacht ist,
+sie ersehnt und unverschämt und mit aller Kraft darum bittet,
+dem wird der gute Vater im Himmel[^bible-734f14ef-693b-4d46-a20a-099caeb3559f] die wahre Reinigung und das unwandelbare Leben gewähren\.
+Ihm sei durch den Diener Jesus Christus,
+den Herrn der Lebenden und der Toten[^bible-d7f39b65-ea27-4634-a57d-225dbab8e37c],
+und durch den Heiligen Geist Herrlichkeit,
+Ehre,
+Macht und ewige Majestät,
+jetzt und von Generation zu Generation und in alle Ewigkeit\.
+Amen\.
 
 ## Bibelverweise
 

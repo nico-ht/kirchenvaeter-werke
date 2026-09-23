@@ -7,9 +7,155 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/36-homilie-ueber-matthaeus#kapitel-1f0060cc-4f38-4218-5ae3-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:919d2eb6baa5bd6c6001916d698fcc896730addf4462a8ada8e43079a8a42a1f`
-
-Und es geschah: Als Jesus seine Anweisungen an die zwölf Jünger beendet hatte, ging er von dort weg, um in ihren Städten zu lehren und zu verkünden\. Denn nachdem er sie ausgesandt hatte, zog er sich nun selbst zurück und gab ihnen Raum und Zeit, das zu tun, was er ihnen aufgetragen hatte\. Denn solange er selbst anwesend war und heilte, hätte niemand zu ihnen kommen wollen\. Als aber Johannes im Gefängnis von den Werken Jesu hörte, sandte er zwei seiner Jünger und fragte ihn durch sie: „Bist du der Kommende, oder sollen wir einen anderen erwarten?“ Lukas aber sagt, dass sie selbst Johannes auch die Zeichen meldeten und er sie dann sandte\. Doch darin liegt keine Schwierigkeit, sondern nur ein Anlass, genauer hinzusehen; denn auch dies zeigt ihre Eifersucht auf ihn\. Was danach folgt, gehört dagegen sehr stark zu den umstrittenen Fragen\. Was ist das? Dass er sagen lässt: „Bist du der Kommende, oder sollen wir einen anderen erwarten?“ Denn der, der ihn schon vor den Zeichen kannte, der es vom Geist gelernt, vom Vater gehört und ihn vor allen verkündet hatte, schickt jetzt Boten, um von ihm zu erfahren, ob er es sei oder nicht? Und doch: Wenn du nicht sicher weißt, dass er es ist, wie kannst du dich selbst für glaubwürdig halten, wenn du über Unbekanntes urteilst? Wer nämlich für andere Zeugnis ablegen soll, muss zuerst selbst glaubwürdig sein\. Hast nicht du gesagt: „Ich bin nicht würdig, ihm den Riemen seines Schuhs zu lösen[^bible-44e783bc-0a37-4875-89c8-3f766e199031]“? Hast nicht du gesagt: „Ich kannte ihn nicht; aber der mich gesandt hat, mit Wasser zu taufen, der sagte zu mir: Auf wen du den Geist herabkommen und auf ihm bleiben siehst, der ist es, der mit Heiligem Geist tauft[^bible-2af7185b-41c0-4916-a9b6-e943c0de33a4]“? Hast du den Geist nicht in Gestalt einer Taube gesehen? Hast du die Stimme nicht gehört? Hast du ihn nicht zurückhalten wollen und gesagt: „Ich habe nötig, von dir getauft zu werden[^bible-6e18d0b3-109e-46b7-afe3-8c8f0a989a4a]“? Hast du nicht auch zu deinen Jüngern gesagt: „Er muss wachsen, ich aber muss abnehmen[^bible-0f9a0104-47d5-4016-bdfd-e2804223af29]“? Hast du nicht das ganze Volk gelehrt, dass er sie mit Heiligem Geist und Feuer taufen werde und dass er „das Lamm Gottes ist, das die Sünde der Welt hinwegnimmt[^bible-b803fa3b-34ab-4019-bd39-a22904c2ec57]“? Hast du nicht dies alles vor den Zeichen und Wundern verkündet? Wie kommt es also, dass du jetzt, da er allen offenbar geworden ist, sein Ruf sich überall verbreitet hat, Tote auferweckt, Dämonen ausgetrieben worden sind und so viele Zeichen gezeigt wurden, Boten schickst, um von ihm zu lernen? Was ist denn geschehen? Waren alle jene Worte Täuschung, Schauspiel und Märchen? Wer, der Verstand hat, würde so etwas sagen? Ich sage nicht: Johannes, der schon im Mutterleib hüpfte, der ihn vor den Geburtswehen verkündete, der Bürger der Wüste, der eine engelgleiche Lebensweise gezeigt hat\. Nein, selbst wenn er einer aus der Menge gewesen wäre, und zwar einer der ganz Verkommenen, hätte er nach so vielen Zeugnissen, den eigenen und denen anderer, nicht gezweifelt\. Daraus ist klar: Nicht weil er selbst zweifelte, sandte er sie, und nicht aus Unwissenheit fragte er\. Auch jenes könnte niemand behaupten, dass er zwar sicher wusste, wer er war, aber durch das Gefängnis ängstlicher geworden sei\. Denn er erwartete nicht, von dort freizukommen; und selbst wenn er es erwartet hätte, hätte einer, der dem Tod entgegentrat, die Frömmigkeit nicht verraten\. Denn wenn er nicht darauf vorbereitet gewesen wäre, hätte er vor einem ganzen Volk, das geübt war, Prophetenblut zu vergießen, niemals solche Tapferkeit gezeigt\. Er hätte jenen grausamen Tyrannen nicht mit solcher Freimütigkeit mitten in der Stadt und auf dem Markt zurechtgewiesen, als tadle er vor allen Zuhörern ein ganz kleines Kind\. Und selbst wenn er ängstlicher geworden wäre: Wie hätte er sich vor seinen eigenen Jüngern nicht geschämt, denen gegenüber er ihm so vieles bezeugt hatte, sondern ausgerechnet durch sie fragen lassen, statt durch andere? Dabei wusste er doch genau, dass auch sie eifersüchtig auf ihn waren und nach einem Vorwand suchten\. Wie hätte er sich nicht vor dem jüdischen Volk geschämt, vor dem er so vieles verkündet hatte? Und welchen Vorteil hätte ihm das für seine Befreiung aus den Fesseln gebracht? Denn er war ja nicht wegen Christus ins Gefängnis geworfen worden und auch nicht, weil er dessen Macht verkündet hatte, sondern wegen seiner Anklage gegen die gesetzwidrige Ehe\. Welches dumme Kind, welcher wahnsinnige Mensch hätte sich nicht einen solchen Ruf aufgeladen? Was also wird hier gezeigt? Dass es nicht zu Johannes gehört, an diesen Dingen zu zweifeln, ja nicht einmal zu irgendeinem Beliebigen, auch nicht zu einem sehr dummen und verwirrten Menschen, ist aus dem Gesagten klar\. Nun aber muss die Lösung vorgetragen werden\. Weshalb also sandte er und ließ durch sie fragen? Die Jünger des Johannes sträubten sich gegen Jesus und hielten sich von ihm fern; das ist wohl jedem klar\. Sie standen ihm immer eifersüchtig gegenüber\. Das zeigt sich aus dem, was sie zu ihrem Lehrer sagten: „Der bei dir war jenseits des Jordan, für den du Zeugnis abgelegt hast, siehe, der tauft, und alle kommen zu ihm[^bible-be4db68b-5628-4146-8b8b-872ea21c2fd5]\.“ Und wiederum: „Es entstand eine Streitfrage zwischen den Jüngern des Johannes und Juden über die Reinigung[^bible-1e56566b-f3af-415d-b580-4c5a89b0a0ce]\.“ Und als sie wieder zu ihm kamen, sagten sie: „Warum fasten wir und die Pharisäer viel, deine Jünger aber fasten nicht?[^bible-1529fb4e-e0df-4b65-9407-6f4abb42c80d]“
+Und es geschah:
+Als Jesus seine Anweisungen an die zwölf Jünger beendet hatte,
+ging er von dort weg,
+um in ihren Städten zu lehren und zu verkünden\.
+Denn nachdem er sie ausgesandt hatte,
+zog er sich nun selbst zurück und gab ihnen Raum und Zeit,
+das zu tun,
+was er ihnen aufgetragen hatte\.
+Denn solange er selbst anwesend war und heilte,
+hätte niemand zu ihnen kommen wollen\.
+Als aber Johannes im Gefängnis von den Werken Jesu hörte,
+sandte er zwei seiner Jünger und fragte ihn durch sie:
+„Bist du der Kommende,
+oder sollen wir einen anderen erwarten?“
+Lukas aber sagt,
+dass sie selbst Johannes auch die Zeichen meldeten und er sie dann sandte\.
+Doch darin liegt keine Schwierigkeit,
+sondern nur ein Anlass,
+genauer hinzusehen;
+denn auch dies zeigt ihre Eifersucht auf ihn\.
+Was danach folgt,
+gehört dagegen sehr stark zu den umstrittenen Fragen\.
+Was ist das?
+Dass er sagen lässt:
+„Bist du der Kommende,
+oder sollen wir einen anderen erwarten?“
+Denn der,
+der ihn schon vor den Zeichen kannte,
+der es vom Geist gelernt,
+vom Vater gehört und ihn vor allen verkündet hatte,
+schickt jetzt Boten,
+um von ihm zu erfahren,
+ob er es sei oder nicht?
+Und doch:
+Wenn du nicht sicher weißt,
+dass er es ist,
+wie kannst du dich selbst für glaubwürdig halten,
+wenn du über Unbekanntes urteilst?
+Wer nämlich für andere Zeugnis ablegen soll,
+muss zuerst selbst glaubwürdig sein\.
+Hast nicht du gesagt:
+„Ich bin nicht würdig,
+ihm den Riemen seines Schuhs zu lösen[^bible-44e783bc-0a37-4875-89c8-3f766e199031]“?
+Hast nicht du gesagt:
+„Ich kannte ihn nicht;
+aber der mich gesandt hat,
+mit Wasser zu taufen,
+der sagte zu mir:
+Auf wen du den Geist herabkommen und auf ihm bleiben siehst,
+der ist es,
+der mit Heiligem Geist tauft[^bible-2af7185b-41c0-4916-a9b6-e943c0de33a4]“?
+Hast du den Geist nicht in Gestalt einer Taube gesehen?
+Hast du die Stimme nicht gehört?
+Hast du ihn nicht zurückhalten wollen und gesagt:
+„Ich habe nötig,
+von dir getauft zu werden[^bible-6e18d0b3-109e-46b7-afe3-8c8f0a989a4a]“?
+Hast du nicht auch zu deinen Jüngern gesagt:
+„Er muss wachsen,
+ich aber muss abnehmen[^bible-0f9a0104-47d5-4016-bdfd-e2804223af29]“?
+Hast du nicht das ganze Volk gelehrt,
+dass er sie mit Heiligem Geist und Feuer taufen werde und dass er „das Lamm Gottes ist,
+das die Sünde der Welt hinwegnimmt[^bible-b803fa3b-34ab-4019-bd39-a22904c2ec57]“?
+Hast du nicht dies alles vor den Zeichen und Wundern verkündet?
+Wie kommt es also,
+dass du jetzt,
+da er allen offenbar geworden ist,
+sein Ruf sich überall verbreitet hat,
+Tote auferweckt,
+Dämonen ausgetrieben worden sind und so viele Zeichen gezeigt wurden,
+Boten schickst,
+um von ihm zu lernen?
+Was ist denn geschehen?
+Waren alle jene Worte Täuschung,
+Schauspiel und Märchen?
+Wer,
+der Verstand hat,
+würde so etwas sagen?
+Ich sage nicht:
+Johannes,
+der schon im Mutterleib hüpfte,
+der ihn vor den Geburtswehen verkündete,
+der Bürger der Wüste,
+der eine engelgleiche Lebensweise gezeigt hat\.
+Nein,
+selbst wenn er einer aus der Menge gewesen wäre,
+und zwar einer der ganz Verkommenen,
+hätte er nach so vielen Zeugnissen,
+den eigenen und denen anderer,
+nicht gezweifelt\.
+Daraus ist klar:
+Nicht weil er selbst zweifelte,
+sandte er sie,
+und nicht aus Unwissenheit fragte er\.
+Auch jenes könnte niemand behaupten,
+dass er zwar sicher wusste,
+wer er war,
+aber durch das Gefängnis ängstlicher geworden sei\.
+Denn er erwartete nicht,
+von dort freizukommen;
+und selbst wenn er es erwartet hätte,
+hätte einer,
+der dem Tod entgegentrat,
+die Frömmigkeit nicht verraten\.
+Denn wenn er nicht darauf vorbereitet gewesen wäre,
+hätte er vor einem ganzen Volk,
+das geübt war,
+Prophetenblut zu vergießen,
+niemals solche Tapferkeit gezeigt\.
+Er hätte jenen grausamen Tyrannen nicht mit solcher Freimütigkeit mitten in der Stadt und auf dem Markt zurechtgewiesen,
+als tadle er vor allen Zuhörern ein ganz kleines Kind\.
+Und selbst wenn er ängstlicher geworden wäre:
+Wie hätte er sich vor seinen eigenen Jüngern nicht geschämt,
+denen gegenüber er ihm so vieles bezeugt hatte,
+sondern ausgerechnet durch sie fragen lassen,
+statt durch andere?
+Dabei wusste er doch genau,
+dass auch sie eifersüchtig auf ihn waren und nach einem Vorwand suchten\.
+Wie hätte er sich nicht vor dem jüdischen Volk geschämt,
+vor dem er so vieles verkündet hatte?
+Und welchen Vorteil hätte ihm das für seine Befreiung aus den Fesseln gebracht?
+Denn er war ja nicht wegen Christus ins Gefängnis geworfen worden und auch nicht,
+weil er dessen Macht verkündet hatte,
+sondern wegen seiner Anklage gegen die gesetzwidrige Ehe\.
+Welches dumme Kind,
+welcher wahnsinnige Mensch hätte sich nicht einen solchen Ruf aufgeladen?
+Was also wird hier gezeigt?
+Dass es nicht zu Johannes gehört,
+an diesen Dingen zu zweifeln,
+ja nicht einmal zu irgendeinem Beliebigen,
+auch nicht zu einem sehr dummen und verwirrten Menschen,
+ist aus dem Gesagten klar\.
+Nun aber muss die Lösung vorgetragen werden\.
+Weshalb also sandte er und ließ durch sie fragen?
+Die Jünger des Johannes sträubten sich gegen Jesus und hielten sich von ihm fern;
+das ist wohl jedem klar\.
+Sie standen ihm immer eifersüchtig gegenüber\.
+Das zeigt sich aus dem,
+was sie zu ihrem Lehrer sagten:
+„Der bei dir war jenseits des Jordan,
+für den du Zeugnis abgelegt hast,
+siehe,
+der tauft,
+und alle kommen zu ihm[^bible-be4db68b-5628-4146-8b8b-872ea21c2fd5]\.“
+Und wiederum:
+„Es entstand eine Streitfrage zwischen den Jüngern des Johannes und Juden über die Reinigung[^bible-1e56566b-f3af-415d-b580-4c5a89b0a0ce]\.“
+Und als sie wieder zu ihm kamen,
+sagten sie:
+„Warum fasten wir und die Pharisäer viel,
+deine Jünger aber fasten nicht?[^bible-1529fb4e-e0df-4b65-9407-6f4abb42c80d]“
 
 ## Bibelverweise
 

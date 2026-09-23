@@ -7,8 +7,93 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-2#kapitel-088627f6-7eaa-4467-cb7f-08deb34643e3).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:012ccf476b25b305e63ae5209a789171d3c38d318576b4d087325a08c99fbe32`
+Celsus bewies immerhin eine geringe Kenntnis der Schrift,
+als er Jesus sagen ließ:
+„Ein gewisser Satan ist es,
+der solche Dinge ins Werk setzt\.“
+Allerdings setzt er bereits voraus,
+was erst zu beweisen wäre,
+wenn er behauptet:
+„Jesus bestritt nicht,
+dass diese Werke nichts Göttliches an sich haben,
+sondern von bösen Menschen ausgehen\.“
+Denn damit setzt er Dinge gleich,
+die ihrem Wesen nach verschieden sind\.
+Ein Wolf gehört nicht zur selben Art wie ein Hund,
+auch wenn ihm Körpergestalt und Stimme bis zu einem gewissen Grad ähneln;
+ebenso wenig ist eine gewöhnliche Waldtaube dasselbe wie eine Taube\.
+Genauso besteht keine Ähnlichkeit zwischen dem,
+was durch Gottes Macht geschieht,
+und dem,
+was Zauberei bewirkt\.
+Gegen Celsus’ Verleumdungen ließe sich außerdem fragen:
+Soll man das für Wunder halten,
+was böse Dämonen durch Zauberei vollbringen,
+nicht aber das,
+was eine heilige und göttliche Natur vollbringt?
+Muss das menschliche Leben das Schlechtere ertragen,
+ohne jemals das Bessere zu empfangen?
+Mir scheint,
+wir müssen folgenden allgemeinen Grundsatz aufstellen:
+Wo immer etwas Böses sich dem Guten wesensgleich machen will,
+muss dem Bösen unbedingt etwas Gutes entgegenstehen\.
+Ebenso muss es als Gegenpol zu dem,
+was durch Zauberei hervorgebracht wird,
+im menschlichen Leben notwendig auch Dinge geben,
+die aus göttlicher Macht hervorgehen\.
+Daraus folgt:
+Entweder müssen wir beide Wirklichkeitsannahmen gänzlich aufheben und behaupten,
+dass weder das Böse noch das Gute existiert;
+oder wir nehmen das eine,
+insbesondere das Böse,
+als wirklich an und erkennen dann auch die Wirklichkeit des Guten an\.
 
-Celsus bewies immerhin eine geringe Kenntnis der Schrift, als er Jesus sagen ließ: „Ein gewisser Satan ist es, der solche Dinge ins Werk setzt\.“ Allerdings setzt er bereits voraus, was erst zu beweisen wäre, wenn er behauptet: „Jesus bestritt nicht, dass diese Werke nichts Göttliches an sich haben, sondern von bösen Menschen ausgehen\.“ Denn damit setzt er Dinge gleich, die ihrem Wesen nach verschieden sind\. Ein Wolf gehört nicht zur selben Art wie ein Hund, auch wenn ihm Körpergestalt und Stimme bis zu einem gewissen Grad ähneln; ebenso wenig ist eine gewöhnliche Waldtaube dasselbe wie eine Taube\. Genauso besteht keine Ähnlichkeit zwischen dem, was durch Gottes Macht geschieht, und dem, was Zauberei bewirkt\. Gegen Celsus’ Verleumdungen ließe sich außerdem fragen: Soll man das für Wunder halten, was böse Dämonen durch Zauberei vollbringen, nicht aber das, was eine heilige und göttliche Natur vollbringt? Muss das menschliche Leben das Schlechtere ertragen, ohne jemals das Bessere zu empfangen? Mir scheint, wir müssen folgenden allgemeinen Grundsatz aufstellen: Wo immer etwas Böses sich dem Guten wesensgleich machen will, muss dem Bösen unbedingt etwas Gutes entgegenstehen\. Ebenso muss es als Gegenpol zu dem, was durch Zauberei hervorgebracht wird, im menschlichen Leben notwendig auch Dinge geben, die aus göttlicher Macht hervorgehen\. Daraus folgt: Entweder müssen wir beide Wirklichkeitsannahmen gänzlich aufheben und behaupten, dass weder das Böse noch das Gute existiert; oder wir nehmen das eine, insbesondere das Böse, als wirklich an und erkennen dann auch die Wirklichkeit des Guten an\.
-
-Wenn nun jemand behauptete, es gebe Werke, die durch Zauberei vollbracht werden, zugleich aber nicht einräumte, dass es auch Werke gibt, die aus göttlicher Macht hervorgehen, dann gliche er meines Erachtens einem Menschen, der zwar Trugschlüsse und einleuchtend wirkende Argumente gelten lässt, die den Anschein erwecken, die Wahrheit zu begründen, obwohl sie sie in Wirklichkeit untergraben, zugleich aber bestreitet, dass die Wahrheit irgendwo unter den Menschen eine Heimat habe oder dass es eine von der Sophistik unterschiedene Dialektik gebe\.Wenn wir aber einmal einräumen, dass es mit der Existenz von Magie und Zauberei, die ihre Macht von bösen Dämonen beziehen, welche durch kunstvolle Beschwörungen gebannt und so der Gewalt der Zauberer unterworfen werden, vereinbar ist, dass sich unter den Menschen auch Werke finden müssen, die aus göttlicher Macht hervorgehen, warum sollten wir dann diejenigen, die solche Werke zu vollbringen behaupten, nicht danach prüfen, wie sie leben, wie sie sich verhalten und was ihre Wunder bewirken, nämlich ob sie den Menschen schaden oder ihr Verhalten bessern? Welcher Diener böser Dämonen könnte zum Beispiel solche Dinge vollbringen? Mit welchen Beschwörungen und magischen Künsten könnte er es tun? Und wer ist es auf der anderen Seite, der seine Seele und seinen Geist und, wie ich meine, auch seinen Körper rein und heilig hält, einen göttlichen Geist empfängt und solche Werke vollbringt, um den Menschen Gutes zu tun und sie zum Glauben an den wahren Gott zu führen? Wenn wir also untersuchen müssen, ohne uns von den Wundern selbst hinreißen zu lassen, wer sie mithilfe einer guten und wer mithilfe einer bösen Macht vollbringt, damit wir weder unterschiedslos alle verleumden noch alle als göttlich bewundern und anerkennen, wird dann nicht aus dem, was zur Zeit von Mose und Jesus geschah, offenkundig, dass diese Männer das, was sie den Berichten zufolge vollbrachten, durch göttliche Macht wirkten, da infolge ihrer Wunder ganze Völker festen Bestand gewannen? Denn weder Bosheit noch Zauberei hätte ein ganzes Volk dazu bringen können, sich nicht nur über Götzen und von Menschen errichtete Abbilder, sondern auch über alles Geschaffene zu erheben und zum ungeschaffenen Ursprung, dem Gott des Alls, aufzusteigen\.
+Wenn nun jemand behauptete,
+es gebe Werke,
+die durch Zauberei vollbracht werden,
+zugleich aber nicht einräumte,
+dass es auch Werke gibt,
+die aus göttlicher Macht hervorgehen,
+dann gliche er meines Erachtens einem Menschen,
+der zwar Trugschlüsse und einleuchtend wirkende Argumente gelten lässt,
+die den Anschein erwecken,
+die Wahrheit zu begründen,
+obwohl sie sie in Wirklichkeit untergraben,
+zugleich aber bestreitet,
+dass die Wahrheit irgendwo unter den Menschen eine Heimat habe oder dass es eine von der Sophistik unterschiedene Dialektik gebe\.Wenn wir aber einmal einräumen,
+dass es mit der Existenz von Magie und Zauberei,
+die ihre Macht von bösen Dämonen beziehen,
+welche durch kunstvolle Beschwörungen gebannt und so der Gewalt der Zauberer unterworfen werden,
+vereinbar ist,
+dass sich unter den Menschen auch Werke finden müssen,
+die aus göttlicher Macht hervorgehen,
+warum sollten wir dann diejenigen,
+die solche Werke zu vollbringen behaupten,
+nicht danach prüfen,
+wie sie leben,
+wie sie sich verhalten und was ihre Wunder bewirken,
+nämlich ob sie den Menschen schaden oder ihr Verhalten bessern?
+Welcher Diener böser Dämonen könnte zum Beispiel solche Dinge vollbringen?
+Mit welchen Beschwörungen und magischen Künsten könnte er es tun?
+Und wer ist es auf der anderen Seite,
+der seine Seele und seinen Geist und,
+wie ich meine,
+auch seinen Körper rein und heilig hält,
+einen göttlichen Geist empfängt und solche Werke vollbringt,
+um den Menschen Gutes zu tun und sie zum Glauben an den wahren Gott zu führen?
+Wenn wir also untersuchen müssen,
+ohne uns von den Wundern selbst hinreißen zu lassen,
+wer sie mithilfe einer guten und wer mithilfe einer bösen Macht vollbringt,
+damit wir weder unterschiedslos alle verleumden noch alle als göttlich bewundern und anerkennen,
+wird dann nicht aus dem,
+was zur Zeit von Mose und Jesus geschah,
+offenkundig,
+dass diese Männer das,
+was sie den Berichten zufolge vollbrachten,
+durch göttliche Macht wirkten,
+da infolge ihrer Wunder ganze Völker festen Bestand gewannen?
+Denn weder Bosheit noch Zauberei hätte ein ganzes Volk dazu bringen können,
+sich nicht nur über Götzen und von Menschen errichtete Abbilder,
+sondern auch über alles Geschaffene zu erheben und zum ungeschaffenen Ursprung,
+dem Gott des Alls,
+aufzusteigen\.

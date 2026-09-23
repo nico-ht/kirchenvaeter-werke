@@ -7,9 +7,203 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/18-homilie-ueber-matthaeus#kapitel-4874fc0d-a968-44bc-5a7f-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:65fc8bf5ec5db2a89b334e22db35ed12189d177711f205e862b1a1b660ef1e7c`
-
-Dann, nach all dem und nach dem vielgestaltigen Kranz dieser Gebote, fügt er hinzu: „Betet für die, die euch misshandeln\.[^bible-c6cebfb4-d1a1-458f-8472-f06ab40205c4]“ So führt er euch hinauf bis zum höchsten Gipfel der Weisheit\. Denn wie es größer ist, beim Geschlagenwerden sanftmütig zu bleiben, als nur sanftmütig zu sein, und mit dem Untergewand auch den Mantel herzugeben, als nur barmherzig zu sein; wie es größer ist, auch erlittenes Unrecht zu tragen, als nur gerecht zu sein, und, wenn man geschlagen und zum Dienst gezwungen wird, dennoch mitzugehen, als nur Frieden zu stiften: So steht es auch über dem bloßen Verfolgtwerden, als Verfolgter zu segnen\. Siehst du, wie er sie Schritt für Schritt bis zu den Gewölben des Himmels hinaufführt? Was also hätten wir verdient, die wir geboten bekommen, Eifer für Gott zu haben, und vielleicht nicht einmal den Zöllnern gleichkommen? Denn wenn es Sache von Zöllnern, Sündern und Heiden ist, die zu lieben, die uns lieben, welche Strafe werden wir dann nicht erleiden, wenn wir nicht einmal das tun? Denn wir tun es nicht, weil wir Brüdern, die in Ansehen stehen, neidisch sind; wir, denen geboten ist, die Schriftgelehrten zu übertreffen, stehen sogar tiefer als die Heiden\. Wie also sollen wir das Reich sehen, sag mir? Wie sollen wir jene heiligen Vorhöfe betreten, wenn wir nicht einmal besser werden als die Zöllner? Denn darauf spielte er an, als er sagte: „Tun nicht auch die Zöllner dasselbe?[^bible-d00a76ef-aca4-44fd-8e2c-b086a90a03b7]“ Gerade das kann man an seiner Lehre besonders bewundern: Überall setzt er die Siegespreise der Kämpfe in großer Fülle vor Augen, etwa Gott zu schauen, das Reich der Himmel zu erben, Söhne Gottes zu werden, Gott ähnlich zu werden, Erbarmen zu finden, getröstet zu werden und den großen Lohn zu empfangen\. Wenn er aber irgendwo Schmerzhaftes erwähnen musste, tut er es zurückhaltend\. Den Namen der Gehenna hat er in so vielen Worten nur einmal genannt; auch sonst richtet er den Hörer mit Wendungen zurecht, die zurückgenommen sind und eher beschämen als drohen\. So sagt er: „Tun nicht auch die Zöllner dasselbe?[^bible-d00a76ef-aca4-44fd-8e2c-b086a90a03b7]“, und: „Wenn das Salz seinen Geschmack verliert[^bible-a2791d3a-baec-4aa0-8e95-fa775055aa2b]“, und: „Er wird der Geringste heißen im Reich der Himmel\.[^bible-3adf4255-352b-4e06-afdc-24c84d40f23c]“ An manchen Stellen setzt er auch die Sünden selbst an die Stelle der Strafe und überlässt es dem Hörer, die Last der Strafe daran zu erkennen, etwa wenn er sagt: „Er hat in seinem Herzen mit ihr Ehebruch begangen[^bible-d45a8d13-121c-49d9-b5ac-8224ecd3576f]“, und: „Wer seine Frau entlässt, macht, dass sie Ehebruch begeht[^bible-1e096579-ce06-4d1b-9465-666131528e68]“, und: „Was darüber hinausgeht, ist vom Bösen\.[^bible-9b2f2d9e-f1db-4d93-967a-4f4881c9eb02]“ Denn wer Verstand hat, dem genügt schon die Größe der Sünde selbst, auch ohne den Namen der Strafe, um zur Besinnung zu kommen\. Darum stellt er auch hier die Heiden und die Zöllner in die Mitte und beschämt den Jünger durch die Art der Person\. Das tat auch Paulus, wenn er sagte: „Betrübt euch nicht wie die Übrigen, die keine Hoffnung haben[^bible-45cf8199-f117-454e-96f0-df09ebcd5977]“, und: „wie die Heiden, die Gott nicht kennen\.[^bible-7dd5fae4-f4fa-4eb0-9128-bfaa1ab9a07b]“ Und um zu zeigen, dass er nichts Übermäßiges verlangt, sondern nur ein wenig mehr als das Gewohnte, sagt er: „Tun nicht auch die Heiden dasselbe?[^bible-b86eeb46-c229-4b83-aea7-ca1691a8a1bf]“ Doch trotzdem lässt er die Rede hier nicht stehen, sondern schließt sie mit den Siegespreisen und den guten Hoffnungen, wenn er sagt: „Seid also vollkommen, wie euer himmlischer Vater vollkommen ist\.[^bible-b6d2b16b-1061-4bd6-b38b-3973e54c2f16]“ Und den Namen des Himmels streut er überall reichlich ein, um auch vom Ort her ihre Gesinnung aufzurichten\. Denn bisher waren sie noch irgendwie schwächer und gröber gesinnt\. Wenn wir nun alles bedenken, was gesagt worden ist, wollen wir auch den Feinden große Liebe erweisen und jene lächerliche Gewohnheit ablegen, an der viele von den Unvernünftigeren festhalten: Sie warten darauf, dass die, denen sie begegnen, sie zuerst grüßen; sie eifern nicht nach dem, was großen Segen bringt, sondern jagen dem nach, was lächerlich ist\. Warum also grüßt du ihn nicht zuerst? „Weil er darauf wartet“, sagt einer\. Dann hättest du gerade deswegen vorangehen müssen, damit du den Kranz bekommst\. „Nein“, sagt er, „weil er genau darauf aus ist\.“ Was könnte schlimmer sein als diese Unvernunft? Weil er also, sagt er, darauf aus ist, mir zum Vermittler eines Lohnes zu werden, will ich diese Gelegenheit nicht ergreifen\. Wenn er dich zuerst grüßt, hast du nichts davon, auch wenn du den Gruß erwiderst; wenn du aber zuerst mit dem Gruß vorangehst, hast du aus seinem Dünkel Gewinn gezogen und aus seiner Verblendung reiche Frucht geerntet\. Wie ist es also nicht äußerste Dummheit, einen solchen Gewinn aus bloßen Worten ernten zu können und ihn preiszugeben und, während du genau dieses Verhalten an ihm verurteilst, selbst in dasselbe zu verfallen? Wenn du ihm gerade deshalb einen Vorwurf machst, weil er darauf wartet, zuerst von einem anderen gegrüßt zu werden, warum eiferst du dem nach, was du anklagst, und warum bemühst du dich, das, was du böse genannt hast, als wäre es gut, nachzuahmen? Siehst du, dass es nichts Unverständigeres gibt als einen Menschen, der mit Bosheit lebt? Darum bitte ich euch: Fliehen wir diese böse und lächerliche Gewohnheit\. Denn diese Krankheit hat unzählige Freundschaften umgestürzt und viele Feindschaften hervorgebracht\. Eben deshalb wollen wir ihnen zuvorkommen\. Denn wir, denen geboten ist, von Feinden geschlagen, zum Dienst gezwungen und entblößt zu werden und es zu ertragen: Welche Verzeihung hätten wir verdient, wenn wir bei einem bloßen Gruß solchen Streitgeist zeigen? „Wir werden ja verachtet und mit Geringschätzung behandelt“, sagt einer, „wenn wir ihm das gewähren\.“ Und damit ein Mensch dich nicht verachtet, stößt du Gott vor den Kopf? Damit dein rasender Mitsklave dich nicht verachtet, verachtest du den Herrn, der dir so viel Gutes getan hat? Denn wenn es schon verkehrt ist, dass ein dir Ebenbürtiger dich verachtet, wie viel mehr, dass du Gott verachtest, der dich geschaffen hat\. Bedenke daneben auch dies: Wenn er dich verachtet, dann wird er dir zum Vermittler eines noch größeren Lohnes\. Denn um Gottes willen erträgst du das, weil du auf seine Gesetze gehört hast\. Welche Ehre wäre dem nicht angemessen? Wie viele Diademe? Mir möge es lieber geschehen, um Gottes willen beschimpft und verachtet zu werden, als von allen Königen geehrt zu werden\. Denn nichts, nichts ist dieser Herrlichkeit gleich\. Nach ihr also wollen wir so streben, wie er selbst es geboten hat; von den menschlichen Dingen wollen wir nichts halten, sondern in allem eine strenge Weisheit des Lebens zeigen und so unser eigenes Leben ordnen\. Denn schon von hier aus werden wir die Güter der Himmel und die dortigen Kränze ernten: wie Engel, die unter Menschen gehen, wie die Mächte der Engel, die auf der Erde umherziehen, frei von jeder Begierde und von jeder Unruhe\. Und mit all dem werden wir auch die unaussprechlichen Güter empfangen\. Möge es uns allen zuteilwerden, sie zu erlangen, durch die Gnade und Menschenliebe unseres Herrn Jesus Christus\. Ihm gehören die Herrlichkeit, die Macht und die Anbetung, zusammen mit dem anfanglosen Vater und dem heiligen und guten Geist, jetzt und immer und in alle Ewigkeit\. Amen\.
+Dann,
+nach all dem und nach dem vielgestaltigen Kranz dieser Gebote,
+fügt er hinzu:
+„Betet für die,
+die euch misshandeln\.[^bible-c6cebfb4-d1a1-458f-8472-f06ab40205c4]“ So führt er euch hinauf bis zum höchsten Gipfel der Weisheit\.
+Denn wie es größer ist,
+beim Geschlagenwerden sanftmütig zu bleiben,
+als nur sanftmütig zu sein,
+und mit dem Untergewand auch den Mantel herzugeben,
+als nur barmherzig zu sein;
+wie es größer ist,
+auch erlittenes Unrecht zu tragen,
+als nur gerecht zu sein,
+und,
+wenn man geschlagen und zum Dienst gezwungen wird,
+dennoch mitzugehen,
+als nur Frieden zu stiften:
+So steht es auch über dem bloßen Verfolgtwerden,
+als Verfolgter zu segnen\.
+Siehst du,
+wie er sie Schritt für Schritt bis zu den Gewölben des Himmels hinaufführt?
+Was also hätten wir verdient,
+die wir geboten bekommen,
+Eifer für Gott zu haben,
+und vielleicht nicht einmal den Zöllnern gleichkommen?
+Denn wenn es Sache von Zöllnern,
+Sündern und Heiden ist,
+die zu lieben,
+die uns lieben,
+welche Strafe werden wir dann nicht erleiden,
+wenn wir nicht einmal das tun?
+Denn wir tun es nicht,
+weil wir Brüdern,
+die in Ansehen stehen,
+neidisch sind;
+wir,
+denen geboten ist,
+die Schriftgelehrten zu übertreffen,
+stehen sogar tiefer als die Heiden\.
+Wie also sollen wir das Reich sehen,
+sag mir?
+Wie sollen wir jene heiligen Vorhöfe betreten,
+wenn wir nicht einmal besser werden als die Zöllner?
+Denn darauf spielte er an,
+als er sagte:
+„Tun nicht auch die Zöllner dasselbe?[^bible-d00a76ef-aca4-44fd-8e2c-b086a90a03b7]“ Gerade das kann man an seiner Lehre besonders bewundern:
+Überall setzt er die Siegespreise der Kämpfe in großer Fülle vor Augen,
+etwa Gott zu schauen,
+das Reich der Himmel zu erben,
+Söhne Gottes zu werden,
+Gott ähnlich zu werden,
+Erbarmen zu finden,
+getröstet zu werden und den großen Lohn zu empfangen\.
+Wenn er aber irgendwo Schmerzhaftes erwähnen musste,
+tut er es zurückhaltend\.
+Den Namen der Gehenna hat er in so vielen Worten nur einmal genannt;
+auch sonst richtet er den Hörer mit Wendungen zurecht,
+die zurückgenommen sind und eher beschämen als drohen\.
+So sagt er:
+„Tun nicht auch die Zöllner dasselbe?[^bible-d00a76ef-aca4-44fd-8e2c-b086a90a03b7]“,
+und:
+„Wenn das Salz seinen Geschmack verliert[^bible-a2791d3a-baec-4aa0-8e95-fa775055aa2b]“,
+und:
+„Er wird der Geringste heißen im Reich der Himmel\.[^bible-3adf4255-352b-4e06-afdc-24c84d40f23c]“ An manchen Stellen setzt er auch die Sünden selbst an die Stelle der Strafe und überlässt es dem Hörer,
+die Last der Strafe daran zu erkennen,
+etwa wenn er sagt:
+„Er hat in seinem Herzen mit ihr Ehebruch begangen[^bible-d45a8d13-121c-49d9-b5ac-8224ecd3576f]“,
+und:
+„Wer seine Frau entlässt,
+macht,
+dass sie Ehebruch begeht[^bible-1e096579-ce06-4d1b-9465-666131528e68]“,
+und:
+„Was darüber hinausgeht,
+ist vom Bösen\.[^bible-9b2f2d9e-f1db-4d93-967a-4f4881c9eb02]“ Denn wer Verstand hat,
+dem genügt schon die Größe der Sünde selbst,
+auch ohne den Namen der Strafe,
+um zur Besinnung zu kommen\.
+Darum stellt er auch hier die Heiden und die Zöllner in die Mitte und beschämt den Jünger durch die Art der Person\.
+Das tat auch Paulus,
+wenn er sagte:
+„Betrübt euch nicht wie die Übrigen,
+die keine Hoffnung haben[^bible-45cf8199-f117-454e-96f0-df09ebcd5977]“,
+und:
+„wie die Heiden,
+die Gott nicht kennen\.[^bible-7dd5fae4-f4fa-4eb0-9128-bfaa1ab9a07b]“ Und um zu zeigen,
+dass er nichts Übermäßiges verlangt,
+sondern nur ein wenig mehr als das Gewohnte,
+sagt er:
+„Tun nicht auch die Heiden dasselbe?[^bible-b86eeb46-c229-4b83-aea7-ca1691a8a1bf]“ Doch trotzdem lässt er die Rede hier nicht stehen,
+sondern schließt sie mit den Siegespreisen und den guten Hoffnungen,
+wenn er sagt:
+„Seid also vollkommen,
+wie euer himmlischer Vater vollkommen ist\.[^bible-b6d2b16b-1061-4bd6-b38b-3973e54c2f16]“ Und den Namen des Himmels streut er überall reichlich ein,
+um auch vom Ort her ihre Gesinnung aufzurichten\.
+Denn bisher waren sie noch irgendwie schwächer und gröber gesinnt\.
+Wenn wir nun alles bedenken,
+was gesagt worden ist,
+wollen wir auch den Feinden große Liebe erweisen und jene lächerliche Gewohnheit ablegen,
+an der viele von den Unvernünftigeren festhalten:
+Sie warten darauf,
+dass die,
+denen sie begegnen,
+sie zuerst grüßen;
+sie eifern nicht nach dem,
+was großen Segen bringt,
+sondern jagen dem nach,
+was lächerlich ist\.
+Warum also grüßt du ihn nicht zuerst?
+„Weil er darauf wartet“,
+sagt einer\.
+Dann hättest du gerade deswegen vorangehen müssen,
+damit du den Kranz bekommst\.
+„Nein“,
+sagt er,
+„weil er genau darauf aus ist\.“
+Was könnte schlimmer sein als diese Unvernunft?
+Weil er also,
+sagt er,
+darauf aus ist,
+mir zum Vermittler eines Lohnes zu werden,
+will ich diese Gelegenheit nicht ergreifen\.
+Wenn er dich zuerst grüßt,
+hast du nichts davon,
+auch wenn du den Gruß erwiderst;
+wenn du aber zuerst mit dem Gruß vorangehst,
+hast du aus seinem Dünkel Gewinn gezogen und aus seiner Verblendung reiche Frucht geerntet\.
+Wie ist es also nicht äußerste Dummheit,
+einen solchen Gewinn aus bloßen Worten ernten zu können und ihn preiszugeben und,
+während du genau dieses Verhalten an ihm verurteilst,
+selbst in dasselbe zu verfallen?
+Wenn du ihm gerade deshalb einen Vorwurf machst,
+weil er darauf wartet,
+zuerst von einem anderen gegrüßt zu werden,
+warum eiferst du dem nach,
+was du anklagst,
+und warum bemühst du dich,
+das,
+was du böse genannt hast,
+als wäre es gut,
+nachzuahmen?
+Siehst du,
+dass es nichts Unverständigeres gibt als einen Menschen,
+der mit Bosheit lebt?
+Darum bitte ich euch:
+Fliehen wir diese böse und lächerliche Gewohnheit\.
+Denn diese Krankheit hat unzählige Freundschaften umgestürzt und viele Feindschaften hervorgebracht\.
+Eben deshalb wollen wir ihnen zuvorkommen\.
+Denn wir,
+denen geboten ist,
+von Feinden geschlagen,
+zum Dienst gezwungen und entblößt zu werden und es zu ertragen:
+Welche Verzeihung hätten wir verdient,
+wenn wir bei einem bloßen Gruß solchen Streitgeist zeigen?
+„Wir werden ja verachtet und mit Geringschätzung behandelt“,
+sagt einer,
+„wenn wir ihm das gewähren\.“
+Und damit ein Mensch dich nicht verachtet,
+stößt du Gott vor den Kopf?
+Damit dein rasender Mitsklave dich nicht verachtet,
+verachtest du den Herrn,
+der dir so viel Gutes getan hat?
+Denn wenn es schon verkehrt ist,
+dass ein dir Ebenbürtiger dich verachtet,
+wie viel mehr,
+dass du Gott verachtest,
+der dich geschaffen hat\.
+Bedenke daneben auch dies:
+Wenn er dich verachtet,
+dann wird er dir zum Vermittler eines noch größeren Lohnes\.
+Denn um Gottes willen erträgst du das,
+weil du auf seine Gesetze gehört hast\.
+Welche Ehre wäre dem nicht angemessen?
+Wie viele Diademe?
+Mir möge es lieber geschehen,
+um Gottes willen beschimpft und verachtet zu werden,
+als von allen Königen geehrt zu werden\.
+Denn nichts,
+nichts ist dieser Herrlichkeit gleich\.
+Nach ihr also wollen wir so streben,
+wie er selbst es geboten hat;
+von den menschlichen Dingen wollen wir nichts halten,
+sondern in allem eine strenge Weisheit des Lebens zeigen und so unser eigenes Leben ordnen\.
+Denn schon von hier aus werden wir die Güter der Himmel und die dortigen Kränze ernten:
+wie Engel,
+die unter Menschen gehen,
+wie die Mächte der Engel,
+die auf der Erde umherziehen,
+frei von jeder Begierde und von jeder Unruhe\.
+Und mit all dem werden wir auch die unaussprechlichen Güter empfangen\.
+Möge es uns allen zuteilwerden,
+sie zu erlangen,
+durch die Gnade und Menschenliebe unseres Herrn Jesus Christus\.
+Ihm gehören die Herrlichkeit,
+die Macht und die Anbetung,
+zusammen mit dem anfanglosen Vater und dem heiligen und guten Geist,
+jetzt und immer und in alle Ewigkeit\.
+Amen\.
 
 ## Bibelverweise
 

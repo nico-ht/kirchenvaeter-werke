@@ -7,9 +7,117 @@ Autor: Gregor der Große
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/hirtenregel-buch-3#kapitel-46e0fc21-42ce-489f-476c-08dd47ac18f8).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:9f66be81db02d3243761015570bc04fbc500d7322786f303a70e941f96c1279b`
-
-Wie vielfältig die Kunst der Verkündigung sein muss\. Männer sind anders zu ermahnen als Frauen; junge Menschen anders als alte; Arme anders als Reiche; Fröhliche anders als Traurige; Untergebene anders als Vorgesetzte; Sklaven anders als Herren; die Weisen dieser Welt anders als die Unverständigen; Schamlose anders als Schamhafte; Dreiste anders als Kleinmütige; Ungeduldige anders als Geduldige; Wohlwollende anders als Neidische; Aufrichtige anders als Unreine; Gesunde anders als Kranke; diejenigen, die Züchtigungen fürchten und deshalb ein untadeliges Leben führen, anders als diejenigen, die in ihrer Ungerechtigkeit so verhärtet sind, dass nicht einmal Züchtigungen sie bessern; übermäßig Schweigsame anders als Vielredner; Träge anders als Voreilige; Sanftmütige anders als Zornige; Demütige anders als Hochmütige; Hartnäckige anders als Unbeständige; der Völlerei Ergebene anders als Enthaltsame; diejenigen, die barmherzig von ihrem Eigentum geben, anders als diejenigen, die fremdes Gut an sich zu reißen suchen; diejenigen, die weder fremdes Gut rauben noch ihr eigenes verschenken, anders als diejenigen, die ihren Besitz weggeben und dennoch nicht aufhören, fremdes Gut zu rauben; Zerstrittene anders als Friedfertige; diejenigen, die Zwietracht säen, anders als Friedensstifter; diejenigen, die die Worte des heiligen Gesetzes nicht richtig verstehen, anders als diejenigen, die sie zwar richtig verstehen, aber nicht in Demut davon sprechen; diejenigen, die würdig verkündigen könnten, sich aber aus übergroßer Demut davor fürchten, anders als diejenigen, die wegen ihrer Unvollkommenheit oder ihres Alters am Verkündigen gehindert sind und die ihre Übereilung dennoch dazu treibt; diejenigen, die in dem Erfolg haben, wonach sie für dieses Leben streben, anders als diejenigen, die zwar nach den Dingen dieser Welt verlangen, aber von der Mühsal widriger Umstände erschöpft werden; durch die Ehe Gebundene anders als diejenigen, die von den Banden der Ehe frei sind; diejenigen, die Vereinigung des Fleisches erfahren haben, anders als diejenigen, die sie nicht kennen; diejenigen, die ihre sündigen Taten beklagen, anders als diejenigen, die ihre sündigen Gedanken beklagen; diejenigen, die ihre Vergehen beweinen, sie aber dennoch nicht aufgeben, anders als diejenigen, die sie aufgeben, aber nicht beweinen; diejenigen, die ihre unerlaubten Taten sogar loben, anders als diejenigen, die das Böse verurteilen, es aber dennoch nicht meiden; diejenigen, die von plötzlicher Begierde überwältigt werden, anders als diejenigen, die sich mit Vorbedacht an die Sünde binden; diejenigen, die zwar nur geringe unerlaubte Dinge tun, dies aber häufig, anders als diejenigen, die sich davor bewahren, kleine Verfehlungen zu begehen, bisweilen jedoch in schwerere versinken; diejenigen, die das Gute gar nicht erst beginnen, anders als diejenigen, die das Begonnene keineswegs vollenden; diejenigen, die im Verborgenen Böses und öffentlich Gutes tun, anders als diejenigen, die ihre guten Taten verbergen, aber durch gewisse Handlungen öffentlich eine schlechte Meinung von sich aufkommen lassen\. Doch welchen Nutzen hat es, all dies in einer geschlossenen Aufzählung durchzugehen, wenn wir nicht auch für jeden einzelnen Fall so knapp wie möglich darlegen, auf welche Weise zu ermahnen ist? Männer sind also anders zu ermahnen als Frauen, denn jenen ist Schwereres aufzuerlegen, diesen dagegen Leichteres, damit das Schwere jene übt, das Leichte aber diese durch Milde gewinnt\. Junge Menschen sind anders zu ermahnen als alte, denn jene führt meist die Strenge der Ermahnung zum Fortschritt, diese hingegen bringt eine freundliche Bitte zu besseren Taten\. Denn es steht geschrieben: „Fahre einen älteren Mann nicht hart an, sondern bitte ihn wie einen Vater\.[^bible-ca88e173-847a-45cb-8fc6-55e5d7a4eedb] “
+Wie vielfältig die Kunst der Verkündigung sein muss\.
+Männer sind anders zu ermahnen als Frauen;
+junge Menschen anders als alte;
+Arme anders als Reiche;
+Fröhliche anders als Traurige;
+Untergebene anders als Vorgesetzte;
+Sklaven anders als Herren;
+die Weisen dieser Welt anders als die Unverständigen;
+Schamlose anders als Schamhafte;
+Dreiste anders als Kleinmütige;
+Ungeduldige anders als Geduldige;
+Wohlwollende anders als Neidische;
+Aufrichtige anders als Unreine;
+Gesunde anders als Kranke;
+diejenigen,
+die Züchtigungen fürchten und deshalb ein untadeliges Leben führen,
+anders als diejenigen,
+die in ihrer Ungerechtigkeit so verhärtet sind,
+dass nicht einmal Züchtigungen sie bessern;
+übermäßig Schweigsame anders als Vielredner;
+Träge anders als Voreilige;
+Sanftmütige anders als Zornige;
+Demütige anders als Hochmütige;
+Hartnäckige anders als Unbeständige;
+der Völlerei Ergebene anders als Enthaltsame;
+diejenigen,
+die barmherzig von ihrem Eigentum geben,
+anders als diejenigen,
+die fremdes Gut an sich zu reißen suchen;
+diejenigen,
+die weder fremdes Gut rauben noch ihr eigenes verschenken,
+anders als diejenigen,
+die ihren Besitz weggeben und dennoch nicht aufhören,
+fremdes Gut zu rauben;
+Zerstrittene anders als Friedfertige;
+diejenigen,
+die Zwietracht säen,
+anders als Friedensstifter;
+diejenigen,
+die die Worte des heiligen Gesetzes nicht richtig verstehen,
+anders als diejenigen,
+die sie zwar richtig verstehen,
+aber nicht in Demut davon sprechen;
+diejenigen,
+die würdig verkündigen könnten,
+sich aber aus übergroßer Demut davor fürchten,
+anders als diejenigen,
+die wegen ihrer Unvollkommenheit oder ihres Alters am Verkündigen gehindert sind und die ihre Übereilung dennoch dazu treibt;
+diejenigen,
+die in dem Erfolg haben,
+wonach sie für dieses Leben streben,
+anders als diejenigen,
+die zwar nach den Dingen dieser Welt verlangen,
+aber von der Mühsal widriger Umstände erschöpft werden;
+durch die Ehe Gebundene anders als diejenigen,
+die von den Banden der Ehe frei sind;
+diejenigen,
+die Vereinigung des Fleisches erfahren haben,
+anders als diejenigen,
+die sie nicht kennen;
+diejenigen,
+die ihre sündigen Taten beklagen,
+anders als diejenigen,
+die ihre sündigen Gedanken beklagen;
+diejenigen,
+die ihre Vergehen beweinen,
+sie aber dennoch nicht aufgeben,
+anders als diejenigen,
+die sie aufgeben,
+aber nicht beweinen;
+diejenigen,
+die ihre unerlaubten Taten sogar loben,
+anders als diejenigen,
+die das Böse verurteilen,
+es aber dennoch nicht meiden;
+diejenigen,
+die von plötzlicher Begierde überwältigt werden,
+anders als diejenigen,
+die sich mit Vorbedacht an die Sünde binden;
+diejenigen,
+die zwar nur geringe unerlaubte Dinge tun,
+dies aber häufig,
+anders als diejenigen,
+die sich davor bewahren,
+kleine Verfehlungen zu begehen,
+bisweilen jedoch in schwerere versinken;
+diejenigen,
+die das Gute gar nicht erst beginnen,
+anders als diejenigen,
+die das Begonnene keineswegs vollenden;
+diejenigen,
+die im Verborgenen Böses und öffentlich Gutes tun,
+anders als diejenigen,
+die ihre guten Taten verbergen,
+aber durch gewisse Handlungen öffentlich eine schlechte Meinung von sich aufkommen lassen\.
+Doch welchen Nutzen hat es,
+all dies in einer geschlossenen Aufzählung durchzugehen,
+wenn wir nicht auch für jeden einzelnen Fall so knapp wie möglich darlegen,
+auf welche Weise zu ermahnen ist?
+Männer sind also anders zu ermahnen als Frauen,
+denn jenen ist Schwereres aufzuerlegen,
+diesen dagegen Leichteres,
+damit das Schwere jene übt,
+das Leichte aber diese durch Milde gewinnt\.
+Junge Menschen sind anders zu ermahnen als alte,
+denn jene führt meist die Strenge der Ermahnung zum Fortschritt,
+diese hingegen bringt eine freundliche Bitte zu besseren Taten\.
+Denn es steht geschrieben:
+„Fahre einen älteren Mann nicht hart an,
+sondern bitte ihn wie einen Vater\.[^bible-ca88e173-847a-45cb-8fc6-55e5d7a4eedb]
+“
 
 ## Bibelverweise
 

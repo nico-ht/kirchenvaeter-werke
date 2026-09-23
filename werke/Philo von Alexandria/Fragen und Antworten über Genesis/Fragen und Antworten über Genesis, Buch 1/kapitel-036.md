@@ -7,9 +7,41 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-1#kapitel-0b7264aa-59d6-4069-cd3e-08dd5e2b9946).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a5c315d99942a0271720b429f56cfab2fc07fa0966a1ec011c9298b9cb801f26`
-
-Was bedeutet der Ausdruck: „Ihr werdet wie Götter sein und Gut und Böse erkennen“[^bible-e87da928-1fe9-4dfd-a5cc-081992dc0c75]“? Woher nahm die Schlange das Wort „Götter“ im Plural, da es doch nur einen wahren Gott gibt und die Schlange ihn hier zum ersten Mal nennt? Vielleicht rührt dies daher, dass in ihr eine gewisse vorausahnende Weisheit lag, durch die sie nun die Vorstellung von der Vielzahl der Götter ankündigte, die künftig unter den Menschen Verbreitung gewinnen sollte\. Und vielleicht berichtet die Geschichte dies gerade deshalb zutreffend bei seinem ersten Auftreten: nicht von irgendeinem vernünftigen Wesen wurde es vorgebracht, auch nicht von einem Geschöpf höherer Ordnung, sondern es hatte seinen Ursprung beim giftigsten und niedrigsten aller Tiere und Schlangen, zumal andere ähnliche Geschöpfe unter der Erde verborgen liegen und ihre Schlupfwinkel in Höhlen und Spalten der Erde haben\. Außerdem ist es das untrennbare Zeichen eines mit Vernunft begabten Wesens, Gott seinem Wesen nach als den Einen anzusehen; das Kennzeichen eines Tieres aber ist es, sich viele Götter vorzustellen, und zwar auch solche, die ohne Vernunft sind und von denen man kaum mit Recht sagen kann, dass sie überhaupt irgendein Sein haben\. Zudem geht der Teufel mit großer Kunst vor, indem er durch den Mund der Schlange spricht\. Denn in der Gottheit gibt es nicht nur die Erkenntnis von Gut und Böse, sondern auch die Billigung des Guten und die Verwerfung des Bösen; von diesen beiden Regungen aber spricht er nicht, obwohl sie nützlich waren, sondern er legte nur die bloße Erkenntnis der beiden Gegensätze nahe, nämlich des Guten und des Bösen\. Zweitens wird der Ausdruck „wie Götter“ im Plural an dieser Stelle nicht unbedacht gebraucht, sondern um die Vorstellung zu erwecken, es gebe sowohl einen schlechten als auch einen guten Gott\. Und diese haben eine zweifache Beschaffenheit\. Darum passt es zur Vorstellung einzelner Götter, eine Erkenntnis gegensätzlicher Dinge zu besitzen; die höchste Ursache aber steht über allen anderen\.“
+Was bedeutet der Ausdruck:
+„Ihr werdet wie Götter sein und Gut und Böse erkennen“[^bible-e87da928-1fe9-4dfd-a5cc-081992dc0c75]“?
+Woher nahm die Schlange das Wort „Götter“ im Plural,
+da es doch nur einen wahren Gott gibt und die Schlange ihn hier zum ersten Mal nennt?
+Vielleicht rührt dies daher,
+dass in ihr eine gewisse vorausahnende Weisheit lag,
+durch die sie nun die Vorstellung von der Vielzahl der Götter ankündigte,
+die künftig unter den Menschen Verbreitung gewinnen sollte\.
+Und vielleicht berichtet die Geschichte dies gerade deshalb zutreffend bei seinem ersten Auftreten:
+nicht von irgendeinem vernünftigen Wesen wurde es vorgebracht,
+auch nicht von einem Geschöpf höherer Ordnung,
+sondern es hatte seinen Ursprung beim giftigsten und niedrigsten aller Tiere und Schlangen,
+zumal andere ähnliche Geschöpfe unter der Erde verborgen liegen und ihre Schlupfwinkel in Höhlen und Spalten der Erde haben\.
+Außerdem ist es das untrennbare Zeichen eines mit Vernunft begabten Wesens,
+Gott seinem Wesen nach als den Einen anzusehen;
+das Kennzeichen eines Tieres aber ist es,
+sich viele Götter vorzustellen,
+und zwar auch solche,
+die ohne Vernunft sind und von denen man kaum mit Recht sagen kann,
+dass sie überhaupt irgendein Sein haben\.
+Zudem geht der Teufel mit großer Kunst vor,
+indem er durch den Mund der Schlange spricht\.
+Denn in der Gottheit gibt es nicht nur die Erkenntnis von Gut und Böse,
+sondern auch die Billigung des Guten und die Verwerfung des Bösen;
+von diesen beiden Regungen aber spricht er nicht,
+obwohl sie nützlich waren,
+sondern er legte nur die bloße Erkenntnis der beiden Gegensätze nahe,
+nämlich des Guten und des Bösen\.
+Zweitens wird der Ausdruck „wie Götter“ im Plural an dieser Stelle nicht unbedacht gebraucht,
+sondern um die Vorstellung zu erwecken,
+es gebe sowohl einen schlechten als auch einen guten Gott\.
+Und diese haben eine zweifache Beschaffenheit\.
+Darum passt es zur Vorstellung einzelner Götter,
+eine Erkenntnis gegensätzlicher Dinge zu besitzen;
+die höchste Ursache aber steht über allen anderen\.“
 
 ## Bibelverweise
 

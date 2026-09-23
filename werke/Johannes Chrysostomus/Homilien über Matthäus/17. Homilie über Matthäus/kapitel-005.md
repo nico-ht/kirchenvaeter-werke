@@ -7,6 +7,154 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/17-homilie-ueber-matthaeus#kapitel-72f8ce4f-3ee9-4cd2-5a77-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:25c77a737857197545c270be5e18056e8be435bdeec5a1a0cd548a1e1ee6a464`
-
-Dann führt er sie noch weiter davon weg, bei Gott zu schwören, und sagt: „Weder beim Himmel, denn er ist Gottes Thron, noch bei der Erde, denn sie ist der Schemel seiner Füße, noch bei Jerusalem, denn es ist die Stadt des großen Königs\.“ Noch immer spricht er mit den Worten der Propheten und zeigt, dass er den Alten nicht widerspricht\. Denn sie hatten die Gewohnheit, bei diesen Dingen zu schwören, und dass diese Gewohnheit bestand, zeigt er am Ende des Evangeliums\. Achte aber darauf, wodurch er die Elemente erhöht: nicht durch ihre eigene Natur, sondern durch Gottes Beziehung zu ihnen, von der in herablassender Weise gesprochen ist\. Weil nämlich die Tyrannei des Götzendienstes groß war, sollte nicht der Eindruck entstehen, die Elemente seien um ihrer selbst willen ehrwürdig\. Darum nannte er den Grund, von dem wir gesprochen haben, und der führte wiederum zur Ehre Gottes\. Denn er sagte nicht: „Weil der Himmel schön und groß ist“, und auch nicht: „Weil die Erde nützlich ist“, sondern: „Weil der eine Gottes Thron ist, die andere sein Schemel\.“ Von allen Seiten drängte er sie so zum Herrn hin\. „Auch nicht bei deinem Haupt“, sagt er, „denn du kannst nicht ein einziges Haar weiß oder schwarz machen\.“ Wieder hat er hier nicht den Menschen bewundert und ihn deshalb davon weggeführt, bei seinem Haupt zu schwören, sonst wäre auch der Mensch selbst angebetet worden; vielmehr führt er die Ehre auf Gott zurück und zeigt, dass du nicht einmal Herr über dich selbst bist, also auch nicht über die Eide bei deinem Haupt\. Denn wenn schon niemand sein eigenes Kind einem anderen überlassen würde, um wie viel weniger wird Gott dir sein eigenes Werk preisgeben\. Denn auch wenn das Haupt dein Haupt ist, gehört es doch einem anderen; und so weit bist du davon entfernt, Herr darüber zu sein, dass du nicht einmal das Geringste daran bewirken kannst\. Er sagte nämlich nicht: „Du kannst kein Haar hervorbringen“, sondern: „Du kannst nicht einmal seine Beschaffenheit ändern\.“ Was nun, sagt jemand, wenn einer einen Eid verlangt und Zwang ausübt? Die Furcht vor Gott soll stärker sein als der Zwang\. Denn wenn du solche Ausreden vorbringen willst, wirst du nichts von dem halten, was geboten ist\. Auch bei der Frau wirst du sagen: Was nun, wenn sie streitsüchtig ist und verschwenderisch? Und beim rechten Auge: Was nun, wenn ich es liebe und von Leidenschaft brenne? Und beim zügellosen Blick: Was nun, wenn ich nicht imstande bin, nicht hinzusehen? Und beim Zorn gegen den Bruder: Was nun, wenn ich unbeherrscht bin und meine Zunge nicht im Zaum halten kann? Und so wirst du am Ende alles, was gesagt ist, einfach zertreten\. Dabei wagst du es bei menschlichen Gesetzen nirgends, so etwas vorzubringen oder zu sagen: Was nun, wenn dies oder das? Vielmehr nimmst du das Geschriebene an, ob freiwillig oder unfreiwillig\. Außerdem wirst du niemals einem solchen Zwang ausgesetzt sein\. Denn wer die früheren Seligpreisungen gehört und sich so geformt hat, wie Christus es geboten hat, der wird von niemandem je unter einen solchen Zwang gebracht werden; er ist bei allen ehrwürdig und ernst\. „Euer Ja sei Ja und euer Nein Nein; was darüber hinausgeht, ist vom Bösen\.“ Was also ist das, was über Ja und Nein hinausgeht? Der Eid, nicht der Meineid\. Denn beim Meineid ist es anerkannt, und niemand muss erst lernen, dass er vom Bösen ist; er ist auch nicht ein Zusatz, sondern das Gegenteil\. Zusatz aber ist das Mehr, das überflüssig hinzukommt, und das ist der Eid\. Was nun, sagt jemand, war er vom Bösen? Und wenn er vom Bösen war, wie konnte er Gesetz sein? Dasselbe wirst du auch von der Frau sagen: Wie gilt jetzt als Ehebruch, was früher erlaubt war? Was lässt sich darauf antworten? Dass die damaligen Worte der Schwäche derer galten, die die Gesetze empfingen\. Denn auch durch Opferdunst behandelt zu werden, ist Gottes höchst unwürdig, wie auch Stammeln eines Philosophen unwürdig ist\. Darum gilt so etwas jetzt als Ehebruch und das Schwören als vom Bösen, nachdem die Forderungen der Tugend gewachsen sind\. Wenn diese Gesetze aber von Anfang an vom Teufel gewesen wären, hätten sie nicht so viel zustande gebracht\. Denn wenn nicht jene zuerst vorausgegangen wären, wären die jetzigen Gebote nicht so leicht angenommen worden\. Verlange also ihre Tugend nicht jetzt von ihnen, wo ihr Nutzen vergangen ist, sondern damals, als die Zeit nach ihnen rief; oder vielmehr, wenn du willst, auch jetzt\. Denn auch jetzt zeigt sich ihre Tugend, und zwar gerade durch das am meisten, weshalb wir sie tadeln\. Dass sie jetzt so erscheinen, ist ihr größtes Lob\. Denn hätten sie uns nicht gut ernährt und fähig gemacht, die größeren Dinge aufzunehmen, würden sie nicht als das erscheinen, was sie jetzt sind\. Wie also die Brust, wenn sie ihre ganze Aufgabe erfüllt hat und das Kind an die vollkommenere Tafel weitergibt, fortan nutzlos erscheint, und die Eltern, die sie früher für das Kind für notwendig hielten, sie mit tausend Spottworten schlechtmachen; viele aber machen sie nicht nur mit Worten schlecht, sondern bestreichen sie auch mit bitteren Mitteln, damit, wenn die Worte nicht stark genug sind, die unzeitige Neigung des Kindes zu ihr zu beseitigen, die Dinge selbst das Verlangen auslöschen\.
+Dann führt er sie noch weiter davon weg,
+bei Gott zu schwören,
+und sagt:
+„Weder beim Himmel,
+denn er ist Gottes Thron,
+noch bei der Erde,
+denn sie ist der Schemel seiner Füße,
+noch bei Jerusalem,
+denn es ist die Stadt des großen Königs\.“
+Noch immer spricht er mit den Worten der Propheten und zeigt,
+dass er den Alten nicht widerspricht\.
+Denn sie hatten die Gewohnheit,
+bei diesen Dingen zu schwören,
+und dass diese Gewohnheit bestand,
+zeigt er am Ende des Evangeliums\.
+Achte aber darauf,
+wodurch er die Elemente erhöht:
+nicht durch ihre eigene Natur,
+sondern durch Gottes Beziehung zu ihnen,
+von der in herablassender Weise gesprochen ist\.
+Weil nämlich die Tyrannei des Götzendienstes groß war,
+sollte nicht der Eindruck entstehen,
+die Elemente seien um ihrer selbst willen ehrwürdig\.
+Darum nannte er den Grund,
+von dem wir gesprochen haben,
+und der führte wiederum zur Ehre Gottes\.
+Denn er sagte nicht:
+„Weil der Himmel schön und groß ist“,
+und auch nicht:
+„Weil die Erde nützlich ist“,
+sondern:
+„Weil der eine Gottes Thron ist,
+die andere sein Schemel\.“
+Von allen Seiten drängte er sie so zum Herrn hin\.
+„Auch nicht bei deinem Haupt“,
+sagt er,
+„denn du kannst nicht ein einziges Haar weiß oder schwarz machen\.“
+Wieder hat er hier nicht den Menschen bewundert und ihn deshalb davon weggeführt,
+bei seinem Haupt zu schwören,
+sonst wäre auch der Mensch selbst angebetet worden;
+vielmehr führt er die Ehre auf Gott zurück und zeigt,
+dass du nicht einmal Herr über dich selbst bist,
+also auch nicht über die Eide bei deinem Haupt\.
+Denn wenn schon niemand sein eigenes Kind einem anderen überlassen würde,
+um wie viel weniger wird Gott dir sein eigenes Werk preisgeben\.
+Denn auch wenn das Haupt dein Haupt ist,
+gehört es doch einem anderen;
+und so weit bist du davon entfernt,
+Herr darüber zu sein,
+dass du nicht einmal das Geringste daran bewirken kannst\.
+Er sagte nämlich nicht:
+„Du kannst kein Haar hervorbringen“,
+sondern:
+„Du kannst nicht einmal seine Beschaffenheit ändern\.“
+Was nun,
+sagt jemand,
+wenn einer einen Eid verlangt und Zwang ausübt?
+Die Furcht vor Gott soll stärker sein als der Zwang\.
+Denn wenn du solche Ausreden vorbringen willst,
+wirst du nichts von dem halten,
+was geboten ist\.
+Auch bei der Frau wirst du sagen:
+Was nun,
+wenn sie streitsüchtig ist und verschwenderisch?
+Und beim rechten Auge:
+Was nun,
+wenn ich es liebe und von Leidenschaft brenne?
+Und beim zügellosen Blick:
+Was nun,
+wenn ich nicht imstande bin,
+nicht hinzusehen?
+Und beim Zorn gegen den Bruder:
+Was nun,
+wenn ich unbeherrscht bin und meine Zunge nicht im Zaum halten kann?
+Und so wirst du am Ende alles,
+was gesagt ist,
+einfach zertreten\.
+Dabei wagst du es bei menschlichen Gesetzen nirgends,
+so etwas vorzubringen oder zu sagen:
+Was nun,
+wenn dies oder das?
+Vielmehr nimmst du das Geschriebene an,
+ob freiwillig oder unfreiwillig\.
+Außerdem wirst du niemals einem solchen Zwang ausgesetzt sein\.
+Denn wer die früheren Seligpreisungen gehört und sich so geformt hat,
+wie Christus es geboten hat,
+der wird von niemandem je unter einen solchen Zwang gebracht werden;
+er ist bei allen ehrwürdig und ernst\.
+„Euer Ja sei Ja und euer Nein Nein;
+was darüber hinausgeht,
+ist vom Bösen\.“
+Was also ist das,
+was über Ja und Nein hinausgeht?
+Der Eid,
+nicht der Meineid\.
+Denn beim Meineid ist es anerkannt,
+und niemand muss erst lernen,
+dass er vom Bösen ist;
+er ist auch nicht ein Zusatz,
+sondern das Gegenteil\.
+Zusatz aber ist das Mehr,
+das überflüssig hinzukommt,
+und das ist der Eid\.
+Was nun,
+sagt jemand,
+war er vom Bösen?
+Und wenn er vom Bösen war,
+wie konnte er Gesetz sein?
+Dasselbe wirst du auch von der Frau sagen:
+Wie gilt jetzt als Ehebruch,
+was früher erlaubt war?
+Was lässt sich darauf antworten?
+Dass die damaligen Worte der Schwäche derer galten,
+die die Gesetze empfingen\.
+Denn auch durch Opferdunst behandelt zu werden,
+ist Gottes höchst unwürdig,
+wie auch Stammeln eines Philosophen unwürdig ist\.
+Darum gilt so etwas jetzt als Ehebruch und das Schwören als vom Bösen,
+nachdem die Forderungen der Tugend gewachsen sind\.
+Wenn diese Gesetze aber von Anfang an vom Teufel gewesen wären,
+hätten sie nicht so viel zustande gebracht\.
+Denn wenn nicht jene zuerst vorausgegangen wären,
+wären die jetzigen Gebote nicht so leicht angenommen worden\.
+Verlange also ihre Tugend nicht jetzt von ihnen,
+wo ihr Nutzen vergangen ist,
+sondern damals,
+als die Zeit nach ihnen rief;
+oder vielmehr,
+wenn du willst,
+auch jetzt\.
+Denn auch jetzt zeigt sich ihre Tugend,
+und zwar gerade durch das am meisten,
+weshalb wir sie tadeln\.
+Dass sie jetzt so erscheinen,
+ist ihr größtes Lob\.
+Denn hätten sie uns nicht gut ernährt und fähig gemacht,
+die größeren Dinge aufzunehmen,
+würden sie nicht als das erscheinen,
+was sie jetzt sind\.
+Wie also die Brust,
+wenn sie ihre ganze Aufgabe erfüllt hat und das Kind an die vollkommenere Tafel weitergibt,
+fortan nutzlos erscheint,
+und die Eltern,
+die sie früher für das Kind für notwendig hielten,
+sie mit tausend Spottworten schlechtmachen;
+viele aber machen sie nicht nur mit Worten schlecht,
+sondern bestreichen sie auch mit bitteren Mitteln,
+damit,
+wenn die Worte nicht stark genug sind,
+die unzeitige Neigung des Kindes zu ihr zu beseitigen,
+die Dinge selbst das Verlangen auslöschen\.

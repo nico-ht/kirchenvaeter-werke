@@ -7,11 +7,85 @@ Autor: Tertullian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-die-busse#kapitel-2a4bda53-305c-41fb-bd3a-08ddab28b2fe).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b1637645aba93fd9abbe0502499c82232a3acba12c316cdc0d28c099bdaeb47a`
+Wenn du daran zweifelst,
+öffne und lies,
+was der Geist den Gemeinden sagt\.
+Er wirft den Ephesern vor,
+ihre Liebe aufgegeben zu haben;
+er tadelt die Thyatirer wegen Unzucht und dem Essen von Götzenopferfleisch;
+er beschuldigt die Sardier,
+unvollständige Werke zu haben;
+er verurteilt die Pergamener,
+weil sie verderbliche Dinge lehren;
+er weist die Laodizäer zurecht,
+weil sie auf Reichtum vertrauen – und dennoch ruft er sie alle zur Buße,
+ja sogar mit Drohungen\.
+Aber er würde die Unbußfertigen nicht bedrohen,
+wenn er nicht bereit wäre,
+den Bußfertigen zu vergeben\.
+Es wäre ungewiss,
+wenn er nicht auch an anderer Stelle diese Ausgießung seiner Barmherzigkeit gezeigt hätte\.
+Sagt er nicht:
+„Sollte nicht der,
+der gefallen ist,
+wieder aufstehen,
+und der,
+der sich abgewandt hat,
+umkehren?“
+Er ist es in der Tat – er ist es,
+der Barmherzigkeit dem Opfer vorzieht\.
+Der Himmel freut sich,
+und die Engel,
+die dort sind,
+über die Buße eines Menschen\.
+Fasse Mut,
+Sünder\!
+Du siehst,
+an welchem Ort deine Rückkehr Freude bereitet\.
+Was bedeuten dann die Gleichnisse des Herrn für uns?
+Die Frau,
+die eine Drachme verloren hat,
+sucht sie,
+findet sie und lädt ihre Freundinnen ein,
+sich mit ihr zu freuen – ist dies nicht das Beispiel eines wiederhergestellten Sünders?
+Und das einzelne Schaf des Hirten geht verloren,
+doch die Herde insgesamt war ihm nicht teurer als dieses eine:
+Dieses eine wird gesucht,
+dieses eine wird über alles ersehnt,
+und schließlich wird es gefunden und auf den Schultern des Hirten zurückgetragen – denn es war müde geworden vom Umherirren\.
 
-Wenn du daran zweifelst, öffne und lies, was der Geist den Gemeinden sagt\. Er wirft den Ephesern vor, ihre Liebe aufgegeben zu haben; er tadelt die Thyatirer wegen Unzucht und dem Essen von Götzenopferfleisch; er beschuldigt die Sardier, unvollständige Werke zu haben; er verurteilt die Pergamener, weil sie verderbliche Dinge lehren; er weist die Laodizäer zurecht, weil sie auf Reichtum vertrauen – und dennoch ruft er sie alle zur Buße, ja sogar mit Drohungen\. Aber er würde die Unbußfertigen nicht bedrohen, wenn er nicht bereit wäre, den Bußfertigen zu vergeben\. Es wäre ungewiss, wenn er nicht auch an anderer Stelle diese Ausgießung seiner Barmherzigkeit gezeigt hätte\. Sagt er nicht: „Sollte nicht der, der gefallen ist, wieder aufstehen, und der, der sich abgewandt hat, umkehren?“ Er ist es in der Tat – er ist es, der Barmherzigkeit dem Opfer vorzieht\. Der Himmel freut sich, und die Engel, die dort sind, über die Buße eines Menschen\. Fasse Mut, Sünder\! Du siehst, an welchem Ort deine Rückkehr Freude bereitet\. Was bedeuten dann die Gleichnisse des Herrn für uns? Die Frau, die eine Drachme verloren hat, sucht sie, findet sie und lädt ihre Freundinnen ein, sich mit ihr zu freuen – ist dies nicht das Beispiel eines wiederhergestellten Sünders? Und das einzelne Schaf des Hirten geht verloren, doch die Herde insgesamt war ihm nicht teurer als dieses eine: Dieses eine wird gesucht, dieses eine wird über alles ersehnt, und schließlich wird es gefunden und auf den Schultern des Hirten zurückgetragen – denn es war müde geworden vom Umherirren\.
-
-Ich möchte nicht unerwähnt lassen, dass der sanftmütige Vater, der seinen verlorenen Sohn zurückruft, ihn nach seiner Armut mit Freude empfängt, dass beste Kalb schlachtet und seine Freude mit einem Festmahl feiert\. Warum nicht? Denn er hatte einen Sohn gefunden, den er verloren geglaubt hatte; er fühlte ihn jetzt teurer, weil er ihn zurückgewonnen hatte\. Und wer ist für uns dieser Vater? Offensichtlich Gott: Niemand ist so sehr Vater, niemand so barmherzig\. Er wird dich daher als seinen Sohn empfangen – selbst wenn du das, was du von Ihm erhalten hast, verschwendet hast, selbst wenn du nackt zurückkehrst – weil du zurückgekehrt bist; und er wird sich mehr über deine Rückkehr freuen als über die Standhaftigkeit eines anderen\. Doch nur, wenn du von Herzen Buße tust, wenn du deinen Hunger mit der Fülle der Tagelöhner deines Vaters vergleichst, wenn du die Schweine – unreine Tiere – hinter dir lässt und zu dem Vater zurückkehrst, auch wenn du ihn beleidigt hast und sagst: „Vater, ich habe gesündigt; ich bin nicht mehr wert, dein Sohn genannt zu werden\.“[^bible-b4804bdb-c18f-4379-9b1a-cd07c0d76bc8] Die Beichte der Sünden hebt so viel, wie das Verbergen die Last vergrößert\. Denn die Beichte ist der Rat der Genugtuung; das Verbergen ist die Trotzreaktion des Stolzes\.
+Ich möchte nicht unerwähnt lassen,
+dass der sanftmütige Vater,
+der seinen verlorenen Sohn zurückruft,
+ihn nach seiner Armut mit Freude empfängt,
+dass beste Kalb schlachtet und seine Freude mit einem Festmahl feiert\.
+Warum nicht?
+Denn er hatte einen Sohn gefunden,
+den er verloren geglaubt hatte;
+er fühlte ihn jetzt teurer,
+weil er ihn zurückgewonnen hatte\.
+Und wer ist für uns dieser Vater?
+Offensichtlich Gott:
+Niemand ist so sehr Vater,
+niemand so barmherzig\.
+Er wird dich daher als seinen Sohn empfangen – selbst wenn du das,
+was du von Ihm erhalten hast,
+verschwendet hast,
+selbst wenn du nackt zurückkehrst – weil du zurückgekehrt bist;
+und er wird sich mehr über deine Rückkehr freuen als über die Standhaftigkeit eines anderen\.
+Doch nur,
+wenn du von Herzen Buße tust,
+wenn du deinen Hunger mit der Fülle der Tagelöhner deines Vaters vergleichst,
+wenn du die Schweine – unreine Tiere – hinter dir lässt und zu dem Vater zurückkehrst,
+auch wenn du ihn beleidigt hast und sagst:
+„Vater,
+ich habe gesündigt;
+ich bin nicht mehr wert,
+dein Sohn genannt zu werden\.“[^bible-b4804bdb-c18f-4379-9b1a-cd07c0d76bc8]
+Die Beichte der Sünden hebt so viel,
+wie das Verbergen die Last vergrößert\.
+Denn die Beichte ist der Rat der Genugtuung;
+das Verbergen ist die Trotzreaktion des Stolzes\.
 
 ## Bibelverweise
 

@@ -7,6 +7,51 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-4#kapitel-bc9fe368-9260-447d-2761-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c5ed6acdc776e1ab10b97edf1f40bcd9d806dd0539addaea8039343d8c39af37`
-
-Mit diesen Worten entfachte er den Mut der Soldaten\. Diese besserten die Mauer aus, doch der größte Teil entzog sich durch die Breschen der Belagerung\. Denn schon machte sich Mangel an Nahrung bemerkbar, und man meinte, die zerstörten Mauern würden den Belagerungsmaschinen bald nachgeben\. Außerdem gab es innerhalb der Stadt nur einen einzigen Brunnen, und der lag ganz nahe bei den Mauern\. Das versetzte sie in große Furcht, und viele entzogen sich in großer Zahl\. Die aber wirklich der Meinung waren, der Kampf müsse fortgesetzt werden, kämpften hartnäckig\. Inzwischen untergruben die Römer den höchsten Turm und brachten ihn mit gewaltiger Kraft zum Einsturz\. Durch dieses Unglück geriet die Stadt in größte Bestürzung; alle waren erschüttert und fürchteten den Untergang der ganzen Stadt\. Darauf starb Chares, körperlich krank, unter furchtbaren Lauten und vom Schrecken atemlos den Tod, den die Angst herbeiführte\. Die Römer jedoch, nachdem sie die Stadt aufgebrochen hatten, enthielten sich des Eindringens, bis Titus zurückkehrte, durch den Schmerz über die Gefahr seines Vaters aufgestachelt mit wenigen in die Stadt stürmte und unter den Juden ein großes Blutbad anrichtete\. Die aber, die sich auf den höheren Anhöhen befanden, hinderten die Römer am Zugang, indem sie Felsblöcke hinabrollten; sie schleuderten Wurfspieße mit Gewalt und schossen Pfeile ab\. Die von den Juden vorgestoßenen Felsblöcke rollten leicht hinab, die Geschosse drangen durch, die Pfeile fielen herab, nicht ohne Gefahr für die, die sie trafen\. Die von den Römern gegen die höheren Berglagen geschleuderten Geschosse blieben wirkungslos; der Versuch war vergeblich und für sie selbst gefährlich, als plötzlich ein Sturmwind aufkam, die Pfeile der Juden zurückbog und ihre Wurfspieße abwehrte; ja, er trieb jene Geschosse gegen den Feind, die das römische Heer schleuderte\. So wurden sie durch die Schranken ihrer eigenen Elemente und durch die Erschütterungen der Winde bedrängt, und bei der abschließenden Plünderung der eroberten Stadt kamen alle um, die dort aufgefunden wurden\. Wir erfuhren aber, dass viertausend von den Römern getötet wurden, fünftausend an einem Abgrund umkamen und keiner Altersgruppe Gnade gewährt wurde\.
+Mit diesen Worten entfachte er den Mut der Soldaten\.
+Diese besserten die Mauer aus,
+doch der größte Teil entzog sich durch die Breschen der Belagerung\.
+Denn schon machte sich Mangel an Nahrung bemerkbar,
+und man meinte,
+die zerstörten Mauern würden den Belagerungsmaschinen bald nachgeben\.
+Außerdem gab es innerhalb der Stadt nur einen einzigen Brunnen,
+und der lag ganz nahe bei den Mauern\.
+Das versetzte sie in große Furcht,
+und viele entzogen sich in großer Zahl\.
+Die aber wirklich der Meinung waren,
+der Kampf müsse fortgesetzt werden,
+kämpften hartnäckig\.
+Inzwischen untergruben die Römer den höchsten Turm und brachten ihn mit gewaltiger Kraft zum Einsturz\.
+Durch dieses Unglück geriet die Stadt in größte Bestürzung;
+alle waren erschüttert und fürchteten den Untergang der ganzen Stadt\.
+Darauf starb Chares,
+körperlich krank,
+unter furchtbaren Lauten und vom Schrecken atemlos den Tod,
+den die Angst herbeiführte\.
+Die Römer jedoch,
+nachdem sie die Stadt aufgebrochen hatten,
+enthielten sich des Eindringens,
+bis Titus zurückkehrte,
+durch den Schmerz über die Gefahr seines Vaters aufgestachelt mit wenigen in die Stadt stürmte und unter den Juden ein großes Blutbad anrichtete\.
+Die aber,
+die sich auf den höheren Anhöhen befanden,
+hinderten die Römer am Zugang,
+indem sie Felsblöcke hinabrollten;
+sie schleuderten Wurfspieße mit Gewalt und schossen Pfeile ab\.
+Die von den Juden vorgestoßenen Felsblöcke rollten leicht hinab,
+die Geschosse drangen durch,
+die Pfeile fielen herab,
+nicht ohne Gefahr für die,
+die sie trafen\.
+Die von den Römern gegen die höheren Berglagen geschleuderten Geschosse blieben wirkungslos;
+der Versuch war vergeblich und für sie selbst gefährlich,
+als plötzlich ein Sturmwind aufkam,
+die Pfeile der Juden zurückbog und ihre Wurfspieße abwehrte;
+ja,
+er trieb jene Geschosse gegen den Feind,
+die das römische Heer schleuderte\.
+So wurden sie durch die Schranken ihrer eigenen Elemente und durch die Erschütterungen der Winde bedrängt,
+und bei der abschließenden Plünderung der eroberten Stadt kamen alle um,
+die dort aufgefunden wurden\.
+Wir erfuhren aber,
+dass viertausend von den Römern getötet wurden,
+fünftausend an einem Abgrund umkamen und keiner Altersgruppe Gnade gewährt wurde\.

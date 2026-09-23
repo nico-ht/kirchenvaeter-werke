@@ -7,6 +7,124 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/14-homilie-ueber-matthaeus#kapitel-e28dc8a0-f8c1-4d58-5a66-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b39566943575c1e2ba92e9e8964fe719c650346350815507defe0fff973c62cf`
-
-Denn überall, wo etwas Fremdes und Unerwartetes geschieht und eine neue Lebensordnung eingeführt wird, pflegt Gott Zeichen zu tun und denen, die im Begriff stehen, die Gesetze anzunehmen, Unterpfänder seiner Macht zu geben\. So schuf er, als er den Menschen machen wollte, zuerst die ganze Welt und gab ihm dann jenes Gesetz im Paradies\. Und als er Noah ein Gesetz geben wollte, zeigte er wieder große Wunder: Durch sie ordnete er die ganze Schöpfung von Grund auf neu, ließ jenes furchtbare Meer ein ganzes Jahr lang herrschen und rettete in einem solchen Sturm jenen Gerechten\. Auch zur Zeit Abrahams gab er viele Zeichen: den Sieg im Krieg, die Plage gegen den Pharao und die Befreiung aus Gefahren\. Und als er den Juden ein Gesetz geben wollte, zeigte er jene wunderbaren und großen Zeichen und gab dann das Gesetz\. So bestätigt er auch hier, da er eine erhabene Lebensordnung einführen und ihnen Dinge sagen will, die sie noch nie gehört hatten, seine Worte durch die Vorführung der Wunder\. Denn weil das verkündete Reich nicht sichtbar war, macht er aus dem Sichtbaren das Unsichtbare offenbar\. Und beachte die Schlichtheit des Evangelisten: Er erzählt uns nicht von jedem einzelnen Geheilten, sondern geht mit wenigen Worten über eine Fülle von Zeichen hinweg\. Denn sie brachten ihm, sagt er, alle, denen es schlecht ging, die von verschiedenen Krankheiten und Qualen geplagt wurden, Besessene, Mondsüchtige und Gelähmte, und er heilte sie\. Doch die Frage ist: Warum verlangte er von keinem von ihnen Glauben? Denn er sagte auch nicht, was er später offenbar sagt: „Glaubt ihr, dass ich das tun kann?“ Er hatte nämlich den Beweis seiner Macht noch nicht gegeben\. Außerdem zeigte schon ihr Kommen und Herbringen einen nicht geringen Glauben\. Denn sie brachten sie von weither; sie hätten sie nicht gebracht, wenn sie nicht Großes über ihn überzeugt gewesen wären\. Folgen wir also auch ihm; denn auch wir haben viele Krankheiten der Seele, und diese will er vor allem heilen\. Denn gerade deshalb heilt er auch jene anderen Leiden, damit er diese aus unserer Seele vertreibt\. Treten wir also zu ihm und bitten wir um nichts Irdisches, sondern um Vergebung der Sünden; denn auch jetzt gibt er sie, wenn wir uns darum mühen\. Damals verbreitete sich sein Ruf bis nach Syrien; jetzt aber über die ganze bewohnte Welt\. Jene liefen zusammen, als sie hörten, dass er Besessene heilte; du aber, der du eine viel größere und stärkere Erfahrung seiner Macht gemacht hast, stehst du nicht auf und läufst? Jene verließen Heimat, Freunde und Verwandte; du aber bringst es nicht einmal über dich, dein Haus zu verlassen, um zu ihm zu kommen und viel Größeres zu erlangen? Vielmehr verlangen wir nicht einmal das von dir\. Lass nur eine böse Gewohnheit, und du kannst, während du zu Hause bei den Deinen bleibst, leicht gerettet werden\. Jetzt aber, wenn wir ein körperliches Leiden haben, tun und betreiben wir alles, um von dem frei zu werden, was uns quält; wenn es unserer Seele schlecht geht, zögern wir und weichen aus\. Deshalb werden wir auch jene Leiden nicht los: weil uns das Notwendige zur Nebensache wird und die Nebensache zum Notwendigen, und weil wir die Quelle der Übel liegen lassen und die Bäche reinigen wollen\. Dass nämlich die Bosheit der Seele die Ursache der körperlichen Übel ist, haben der Mann, der achtunddreißig Jahre gelähmt war, und der, der durch das Dach hinabgelassen wurde, gezeigt, und vor ihnen schon Kain\. Und man könnte das auch aus vielen anderen Stellen erkennen\. Beseitigen wir also die Quelle der Übel, dann werden alle Ströme der Krankheiten zum Stillstand kommen\. Denn nicht nur Gelähmtsein ist Krankheit, sondern auch Sündigen, und das noch mehr als jenes, so viel wertvoller die Seele ist als der Körper\. Treten wir also auch jetzt zu ihm und bitten wir ihn, unsere gelähmte Seele zu straffen; lassen wir alles Irdische beiseite und kümmern wir uns allein um das Geistliche\. Wenn du dich aber auch daran hältst, dann kümmere dich erst danach um das Irdische\. Verachte es nicht, dass du beim Sündigen keinen Schmerz empfindest; vielmehr seufze gerade deshalb umso mehr, weil du den Schmerz der Verfehlungen nicht spürst\. Denn das geschieht nicht, weil die Sünde nicht beißt, sondern weil die Seele, die sich verfehlt, unempfindlich ist\. Denk also an die, die ihre eigenen Sünden spüren: wie sie bitterer aufschreien als Menschen, die geschnitten und gebrannt werden, wie viel sie tun, wie viel sie ertragen, wie viel sie trauern und klagen, um von dem bösen Gewissen frei zu werden\. Das hätten sie nicht getan, wenn ihre Seele nicht heftig schmerzte\.
+Denn überall,
+wo etwas Fremdes und Unerwartetes geschieht und eine neue Lebensordnung eingeführt wird,
+pflegt Gott Zeichen zu tun und denen,
+die im Begriff stehen,
+die Gesetze anzunehmen,
+Unterpfänder seiner Macht zu geben\.
+So schuf er,
+als er den Menschen machen wollte,
+zuerst die ganze Welt und gab ihm dann jenes Gesetz im Paradies\.
+Und als er Noah ein Gesetz geben wollte,
+zeigte er wieder große Wunder:
+Durch sie ordnete er die ganze Schöpfung von Grund auf neu,
+ließ jenes furchtbare Meer ein ganzes Jahr lang herrschen und rettete in einem solchen Sturm jenen Gerechten\.
+Auch zur Zeit Abrahams gab er viele Zeichen:
+den Sieg im Krieg,
+die Plage gegen den Pharao und die Befreiung aus Gefahren\.
+Und als er den Juden ein Gesetz geben wollte,
+zeigte er jene wunderbaren und großen Zeichen und gab dann das Gesetz\.
+So bestätigt er auch hier,
+da er eine erhabene Lebensordnung einführen und ihnen Dinge sagen will,
+die sie noch nie gehört hatten,
+seine Worte durch die Vorführung der Wunder\.
+Denn weil das verkündete Reich nicht sichtbar war,
+macht er aus dem Sichtbaren das Unsichtbare offenbar\.
+Und beachte die Schlichtheit des Evangelisten:
+Er erzählt uns nicht von jedem einzelnen Geheilten,
+sondern geht mit wenigen Worten über eine Fülle von Zeichen hinweg\.
+Denn sie brachten ihm,
+sagt er,
+alle,
+denen es schlecht ging,
+die von verschiedenen Krankheiten und Qualen geplagt wurden,
+Besessene,
+Mondsüchtige und Gelähmte,
+und er heilte sie\.
+Doch die Frage ist:
+Warum verlangte er von keinem von ihnen Glauben?
+Denn er sagte auch nicht,
+was er später offenbar sagt:
+„Glaubt ihr,
+dass ich das tun kann?“
+Er hatte nämlich den Beweis seiner Macht noch nicht gegeben\.
+Außerdem zeigte schon ihr Kommen und Herbringen einen nicht geringen Glauben\.
+Denn sie brachten sie von weither;
+sie hätten sie nicht gebracht,
+wenn sie nicht Großes über ihn überzeugt gewesen wären\.
+Folgen wir also auch ihm;
+denn auch wir haben viele Krankheiten der Seele,
+und diese will er vor allem heilen\.
+Denn gerade deshalb heilt er auch jene anderen Leiden,
+damit er diese aus unserer Seele vertreibt\.
+Treten wir also zu ihm und bitten wir um nichts Irdisches,
+sondern um Vergebung der Sünden;
+denn auch jetzt gibt er sie,
+wenn wir uns darum mühen\.
+Damals verbreitete sich sein Ruf bis nach Syrien;
+jetzt aber über die ganze bewohnte Welt\.
+Jene liefen zusammen,
+als sie hörten,
+dass er Besessene heilte;
+du aber,
+der du eine viel größere und stärkere Erfahrung seiner Macht gemacht hast,
+stehst du nicht auf und läufst?
+Jene verließen Heimat,
+Freunde und Verwandte;
+du aber bringst es nicht einmal über dich,
+dein Haus zu verlassen,
+um zu ihm zu kommen und viel Größeres zu erlangen?
+Vielmehr verlangen wir nicht einmal das von dir\.
+Lass nur eine böse Gewohnheit,
+und du kannst,
+während du zu Hause bei den Deinen bleibst,
+leicht gerettet werden\.
+Jetzt aber,
+wenn wir ein körperliches Leiden haben,
+tun und betreiben wir alles,
+um von dem frei zu werden,
+was uns quält;
+wenn es unserer Seele schlecht geht,
+zögern wir und weichen aus\.
+Deshalb werden wir auch jene Leiden nicht los:
+weil uns das Notwendige zur Nebensache wird und die Nebensache zum Notwendigen,
+und weil wir die Quelle der Übel liegen lassen und die Bäche reinigen wollen\.
+Dass nämlich die Bosheit der Seele die Ursache der körperlichen Übel ist,
+haben der Mann,
+der achtunddreißig Jahre gelähmt war,
+und der,
+der durch das Dach hinabgelassen wurde,
+gezeigt,
+und vor ihnen schon Kain\.
+Und man könnte das auch aus vielen anderen Stellen erkennen\.
+Beseitigen wir also die Quelle der Übel,
+dann werden alle Ströme der Krankheiten zum Stillstand kommen\.
+Denn nicht nur Gelähmtsein ist Krankheit,
+sondern auch Sündigen,
+und das noch mehr als jenes,
+so viel wertvoller die Seele ist als der Körper\.
+Treten wir also auch jetzt zu ihm und bitten wir ihn,
+unsere gelähmte Seele zu straffen;
+lassen wir alles Irdische beiseite und kümmern wir uns allein um das Geistliche\.
+Wenn du dich aber auch daran hältst,
+dann kümmere dich erst danach um das Irdische\.
+Verachte es nicht,
+dass du beim Sündigen keinen Schmerz empfindest;
+vielmehr seufze gerade deshalb umso mehr,
+weil du den Schmerz der Verfehlungen nicht spürst\.
+Denn das geschieht nicht,
+weil die Sünde nicht beißt,
+sondern weil die Seele,
+die sich verfehlt,
+unempfindlich ist\.
+Denk also an die,
+die ihre eigenen Sünden spüren:
+wie sie bitterer aufschreien als Menschen,
+die geschnitten und gebrannt werden,
+wie viel sie tun,
+wie viel sie ertragen,
+wie viel sie trauern und klagen,
+um von dem bösen Gewissen frei zu werden\.
+Das hätten sie nicht getan,
+wenn ihre Seele nicht heftig schmerzte\.

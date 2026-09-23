@@ -7,6 +7,56 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/1-apologie#kapitel-92f5f965-64c4-4d9e-4f99-08dd0bd65d0d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e131ba0498ec69a87f820647583c7e5fc94b5145e7cd43041a8f7b100ba55707`
-
-Und wir erinnern uns danach ständig gegenseitig an diese Dinge\. Die Wohlhabenden unter uns helfen den Bedürftigen, und wir halten immer zusammen\. Für alles, womit wir versorgt werden, segnen wir den Schöpfer von allem durch Seinen Sohn Jesus Christus und durch den Heiligen Geist\. Am Tag, der Sonntag genannt wird, versammeln sich alle, die in Städten oder auf dem Land leben, an einem Ort\. Die Erinnerungen der Apostel oder die Schriften der Propheten werden gelesen, solange die Zeit es erlaubt\. Wenn der Leser aufhört, erteilt der Präsident mündlich Anweisungen und ermutigt zur Nachahmung dieser guten Dinge\. Dann stehen wir alle gemeinsam auf und beten\. Wie bereits gesagt, wenn unser Gebet beendet ist, werden Brot, Wein und Wasser gebracht\. Der Vorsteher bietet in ähnlicher Weise Gebete und Danksagungen an, je nach seiner Fähigkeit, und das Volk stimmt zu, indem es Amen sagt\. Dann erfolgt eine Verteilung an jeden und eine Teilnahme an dem, wofür Dank gesagt wurde\. Den Abwesenden wird ein Anteil durch die Diakone gesendet\. Die Wohlhabenden, die bereit sind, geben, was jeder für angemessen hält\. Was gesammelt wird, wird beim Vorsteher deponiert, der sich um die Waisen und Witwen kümmert und um diejenigen, die durch Krankheit oder aus anderen Gründen in Not sind, sowie um die Gefangenen und die Fremden, die unter uns wohnen\. Kurz gesagt, er sorgt für alle, die in Not sind\. Der Sonntag ist der Tag, an dem wir unsere gemeinsame Versammlung abhalten, weil es der erste Tag ist, an dem Gott, nachdem Er die Dunkelheit und Materie verändert hatte, die Welt erschuf\. An demselben Tag ist Jesus Christus, unser Erlöser, von den Toten auferstanden\. Denn Er wurde am Tag vor dem Saturn \(Samstag\) gekreuzigt und am Tag nach dem Saturn, der der Tag der Sonne ist, erschien Er Seinen Aposteln und Jüngern und lehrte sie diese Dinge, die wir auch euch zur Überlegung vorgelegt haben\.
+Und wir erinnern uns danach ständig gegenseitig an diese Dinge\.
+Die Wohlhabenden unter uns helfen den Bedürftigen,
+und wir halten immer zusammen\.
+Für alles,
+womit wir versorgt werden,
+segnen wir den Schöpfer von allem durch Seinen Sohn Jesus Christus und durch den Heiligen Geist\.
+Am Tag,
+der Sonntag genannt wird,
+versammeln sich alle,
+die in Städten oder auf dem Land leben,
+an einem Ort\.
+Die Erinnerungen der Apostel oder die Schriften der Propheten werden gelesen,
+solange die Zeit es erlaubt\.
+Wenn der Leser aufhört,
+erteilt der Präsident mündlich Anweisungen und ermutigt zur Nachahmung dieser guten Dinge\.
+Dann stehen wir alle gemeinsam auf und beten\.
+Wie bereits gesagt,
+wenn unser Gebet beendet ist,
+werden Brot,
+Wein und Wasser gebracht\.
+Der Vorsteher bietet in ähnlicher Weise Gebete und Danksagungen an,
+je nach seiner Fähigkeit,
+und das Volk stimmt zu,
+indem es Amen sagt\.
+Dann erfolgt eine Verteilung an jeden und eine Teilnahme an dem,
+wofür Dank gesagt wurde\.
+Den Abwesenden wird ein Anteil durch die Diakone gesendet\.
+Die Wohlhabenden,
+die bereit sind,
+geben,
+was jeder für angemessen hält\.
+Was gesammelt wird,
+wird beim Vorsteher deponiert,
+der sich um die Waisen und Witwen kümmert und um diejenigen,
+die durch Krankheit oder aus anderen Gründen in Not sind,
+sowie um die Gefangenen und die Fremden,
+die unter uns wohnen\.
+Kurz gesagt,
+er sorgt für alle,
+die in Not sind\.
+Der Sonntag ist der Tag,
+an dem wir unsere gemeinsame Versammlung abhalten,
+weil es der erste Tag ist,
+an dem Gott,
+nachdem Er die Dunkelheit und Materie verändert hatte,
+die Welt erschuf\.
+An demselben Tag ist Jesus Christus,
+unser Erlöser,
+von den Toten auferstanden\.
+Denn Er wurde am Tag vor dem Saturn \(Samstag\) gekreuzigt und am Tag nach dem Saturn,
+der der Tag der Sonne ist,
+erschien Er Seinen Aposteln und Jüngern und lehrte sie diese Dinge,
+die wir auch euch zur Überlegung vorgelegt haben\.

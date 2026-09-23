@@ -7,6 +7,59 @@ Autor: Hermas
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/hermas/der-hirte-des-hermas-buch-3#kapitel-8f07dab7-f58f-4f5d-8319-08dd4ec30069).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:100bb9795b97d2d33ca62b45c2ee84f3593b52c6886600ea08da37090e22e801`
-
-Ein anderes Gleichnis\. Wieder zeigte er mir viele Bäume, die einen trieben aus, die anderen waren verdorrt\. Und er sagte zu mir: ‚Siehst du diese Bäume?‘ Ich sagte: ‚Ich sehe, Herr: die einen treiben aus, die anderen sind verdorrt\.‘ Er sagte: ‚Diese austreibenden Bäume sind die Gerechten, die in der kommenden Welt wohnen werden\. Denn die kommende Welt ist für die Gerechten Sommer, für die Sünder aber Winter\. Wenn nun das Erbarmen des Herrn aufleuchtet, dann werden die Gerechten offenbar werden\. Denn wie im Sommer die Früchte jedes einzelnen Baumes sichtbar werden und man erkennt, von welcher Art sie sind, so werden auch alle als gedeihend und fruchtbar erkannt werden, die in jener Welt stehen\. Die Heiden aber und die Sünder, die du als die verdorrten Bäume gesehen hast, werden in jener Welt als das befunden werden, was sie sind: verdorrt und ohne Frucht\. Sie werden wie Holz verbrannt werden, und es wird offenbar werden, dass ihr Tun in ihrem Leben böse gewesen ist\. Denn die Sünder werden verbrannt werden, weil sie gesündigt und nicht umgekehrt sind; die Heiden aber werden verbrannt werden, weil sie den nicht erkannt haben, der sie geschaffen hat\. Du also bring Frucht, damit in jenem Sommer deine Frucht erkannt wird\. Halte dich aber von vielen Geschäften fern, und du wirst keine Sünde begehen\. Denn wer vieles betreibt, sündigt auch viel, weil er von seinen Geschäften in Anspruch genommen ist und seinem eigenen Herrn überhaupt nicht dient\. Wie kann nun ein solcher‘, sagte er, „etwas vom Herrn erbitten und empfangen, wenn er dem Herrn nicht dient? Jene werden nichts empfangen\. Wenn aber jemand nur eine einzige Tätigkeit ausübt, kann er auch dem Herrn dienen; denn sein Sinn wird nicht vom Herrn abgezogen, sondern er wird ihm dienen und seinen Sinn rein bewahren\. Wenn du also dies tust, kannst du Frucht bringen für die kommende Welt; und jeder, der dies tut, wird Frucht bringen\.
+Ein anderes Gleichnis\.
+Wieder zeigte er mir viele Bäume,
+die einen trieben aus,
+die anderen waren verdorrt\.
+Und er sagte zu mir:
+‚Siehst du diese Bäume?‘
+Ich sagte:
+‚Ich sehe,
+Herr:
+die einen treiben aus,
+die anderen sind verdorrt\.‘
+Er sagte:
+‚Diese austreibenden Bäume sind die Gerechten,
+die in der kommenden Welt wohnen werden\.
+Denn die kommende Welt ist für die Gerechten Sommer,
+für die Sünder aber Winter\.
+Wenn nun das Erbarmen des Herrn aufleuchtet,
+dann werden die Gerechten offenbar werden\.
+Denn wie im Sommer die Früchte jedes einzelnen Baumes sichtbar werden und man erkennt,
+von welcher Art sie sind,
+so werden auch alle als gedeihend und fruchtbar erkannt werden,
+die in jener Welt stehen\.
+Die Heiden aber und die Sünder,
+die du als die verdorrten Bäume gesehen hast,
+werden in jener Welt als das befunden werden,
+was sie sind:
+verdorrt und ohne Frucht\.
+Sie werden wie Holz verbrannt werden,
+und es wird offenbar werden,
+dass ihr Tun in ihrem Leben böse gewesen ist\.
+Denn die Sünder werden verbrannt werden,
+weil sie gesündigt und nicht umgekehrt sind;
+die Heiden aber werden verbrannt werden,
+weil sie den nicht erkannt haben,
+der sie geschaffen hat\.
+Du also bring Frucht,
+damit in jenem Sommer deine Frucht erkannt wird\.
+Halte dich aber von vielen Geschäften fern,
+und du wirst keine Sünde begehen\.
+Denn wer vieles betreibt,
+sündigt auch viel,
+weil er von seinen Geschäften in Anspruch genommen ist und seinem eigenen Herrn überhaupt nicht dient\.
+Wie kann nun ein solcher‘,
+sagte er,
+„etwas vom Herrn erbitten und empfangen,
+wenn er dem Herrn nicht dient?
+Jene werden nichts empfangen\.
+Wenn aber jemand nur eine einzige Tätigkeit ausübt,
+kann er auch dem Herrn dienen;
+denn sein Sinn wird nicht vom Herrn abgezogen,
+sondern er wird ihm dienen und seinen Sinn rein bewahren\.
+Wenn du also dies tust,
+kannst du Frucht bringen für die kommende Welt;
+und jeder,
+der dies tut,
+wird Frucht bringen\.

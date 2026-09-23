@@ -7,11 +7,67 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-1#kapitel-aea5db2b-8009-48e6-6e0b-08ded162702c).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:957bb8b6ed550f7f2f63610ddfdfb851cd92b9842b91c86a27101765b9e7eb57`
+Nachdem ich mit meiner Feder den vier Büchern der Könige gefolgt bin,
+welche die heiligen Schriften bis zur Gefangenschaft der Juden,
+zur Zerstörung der Mauer und zu den Triumphen Babylons umfassen,
+habe ich dies in geschichtlicher Form geordnet\.
+Auch die prophetische Rede fasst in wenigen Worten zusammen,
+was die Makkabäer getan haben;
+das Übrige bis zur Verbrennung des Tempels und zur Beute des Titus Caesar behandelt Josefus,
+der hervorragende Erzähler,
+mit seiner geschichtlichen Feder,
+wäre er doch der Religion und der Wahrheit ebenso aufmerksam gewesen wie dem Aufspüren der Ereignisse und der Würde der Reden\.
+In seinen eigenen Worten zeigte er sich sogar als Teilhaber am Verrat der Juden,
+den er an ihrer Strafe offenbar machte;
+ihre Waffen verließ er,
+doch von ihrem Frevel ließ er nicht ab:
+Ihre Nöte beklagte er unter Tränen,
+aber die Ursache dieser Not verstand er nicht\.
 
-Nachdem ich mit meiner Feder den vier Büchern der Könige gefolgt bin, welche die heiligen Schriften bis zur Gefangenschaft der Juden, zur Zerstörung der Mauer und zu den Triumphen Babylons umfassen, habe ich dies in geschichtlicher Form geordnet\. Auch die prophetische Rede fasst in wenigen Worten zusammen, was die Makkabäer getan haben; das Übrige bis zur Verbrennung des Tempels und zur Beute des Titus Caesar behandelt Josefus, der hervorragende Erzähler, mit seiner geschichtlichen Feder, wäre er doch der Religion und der Wahrheit ebenso aufmerksam gewesen wie dem Aufspüren der Ereignisse und der Würde der Reden\. In seinen eigenen Worten zeigte er sich sogar als Teilhaber am Verrat der Juden, den er an ihrer Strafe offenbar machte; ihre Waffen verließ er, doch von ihrem Frevel ließ er nicht ab: Ihre Nöte beklagte er unter Tränen, aber die Ursache dieser Not verstand er nicht\.
-
-Daher lag uns daran, uns nicht auf die Hilfe von Kunstgriffen zu stützen, sondern auf den Vorsatz des Glaubens, und in der Geschichte der Juden ein wenig über die Kette der heiligen Schrift hinauszugehen, damit wir, gleichsam als suchten wir unter Dornen eine Rose, unter den wilden Verbrechen der Gottlosen, die mit einem der Gottlosigkeit würdigen Preis vergolten wurden, etwas von der Ehrfurcht vor dem heiligen Gesetz oder vom Wunder der göttlichen Fügung freilegen können\. Dies war für schlechte Erben zwar entweder ein Vorwand in widrigen Umständen oder ein Grund zum Ruhm in günstigen; zugleich aber macht es, weil es ein Beweis der Bosheit im eigenen Haus ist, allen klar, dass sie selbst die Urheber ihres eigenen Untergangs waren: zuerst, weil sie die Römer, die etwas anderes wollten, gegen sich aufbrachten und sie zur Prüfung ihres Königtums hinzogen, für das es besser gewesen wäre, unbeachtet zu bleiben; dann, weil sie Freundschaft erbaten, obwohl sie die Treue nicht halten würden; weil sie, an Stärke ungleich, den Frieden brachen; und schließlich, weil sie den Krieg heraufbeschworen\. Ihre ganze Hoffnung lag in ihren Mauern, nicht in ihrer Stärke, denn in eine Belagerung eingeschlossen zu sein ist für alle elend; selbst wenn sie gut ausgeht, vermehrt sie gewöhnlich die Gefahren häufiger, als dass sie sie vermindert\. Und damit niemand meint, wir hätten ein glaubensleeres und unnötiges Werk unternommen, wollen wir bedenken, dass der ganze Stamm der Hebräer so von seinen Führern geleitet wurde, wie es klar zutage liegt: Entweder blieben aus den Lenden des Judas die Nachfolger seiner Linie nirgends aus, oder sie nahmen tatsächlich Anstoß an der Kette der Führer; doch sie setzte sich in dem fort, in dem alles gegründet blieb und der selbst die Hoffnung der Völker[^bible-3485aeb7-8b34-40c5-848c-90853b935676] war\. Von hier also nehmen wir unseren Anfang\.
+Daher lag uns daran,
+uns nicht auf die Hilfe von Kunstgriffen zu stützen,
+sondern auf den Vorsatz des Glaubens,
+und in der Geschichte der Juden ein wenig über die Kette der heiligen Schrift hinauszugehen,
+damit wir,
+gleichsam als suchten wir unter Dornen eine Rose,
+unter den wilden Verbrechen der Gottlosen,
+die mit einem der Gottlosigkeit würdigen Preis vergolten wurden,
+etwas von der Ehrfurcht vor dem heiligen Gesetz oder vom Wunder der göttlichen Fügung freilegen können\.
+Dies war für schlechte Erben zwar entweder ein Vorwand in widrigen Umständen oder ein Grund zum Ruhm in günstigen;
+zugleich aber macht es,
+weil es ein Beweis der Bosheit im eigenen Haus ist,
+allen klar,
+dass sie selbst die Urheber ihres eigenen Untergangs waren:
+zuerst,
+weil sie die Römer,
+die etwas anderes wollten,
+gegen sich aufbrachten und sie zur Prüfung ihres Königtums hinzogen,
+für das es besser gewesen wäre,
+unbeachtet zu bleiben;
+dann,
+weil sie Freundschaft erbaten,
+obwohl sie die Treue nicht halten würden;
+weil sie,
+an Stärke ungleich,
+den Frieden brachen;
+und schließlich,
+weil sie den Krieg heraufbeschworen\.
+Ihre ganze Hoffnung lag in ihren Mauern,
+nicht in ihrer Stärke,
+denn in eine Belagerung eingeschlossen zu sein ist für alle elend;
+selbst wenn sie gut ausgeht,
+vermehrt sie gewöhnlich die Gefahren häufiger,
+als dass sie sie vermindert\.
+Und damit niemand meint,
+wir hätten ein glaubensleeres und unnötiges Werk unternommen,
+wollen wir bedenken,
+dass der ganze Stamm der Hebräer so von seinen Führern geleitet wurde,
+wie es klar zutage liegt:
+Entweder blieben aus den Lenden des Judas die Nachfolger seiner Linie nirgends aus,
+oder sie nahmen tatsächlich Anstoß an der Kette der Führer;
+doch sie setzte sich in dem fort,
+in dem alles gegründet blieb und der selbst die Hoffnung der Völker[^bible-3485aeb7-8b34-40c5-848c-90853b935676] war\.
+Von hier also nehmen wir unseren Anfang\.
 
 ## Bibelverweise
 

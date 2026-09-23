@@ -7,6 +7,30 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-1#kapitel-77333627-f5a4-47ec-f1b6-08de3ca443c2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e135eca999cd5f74e97aa8a8b83f9ef57fcab5ba9a5b5a94df3c220646dcc6e4`
-
-Als also alles vollendet war, was im Himmel, auf der Erde und in den Wassern ist, und sich auch das Menschengeschlecht vermehrt hatte, da ließen sich in der achten Generation gerechte Männer, die das Leben von Engeln geführt hatten, von der Schönheit der Frauen verführen und glitten ab in wahllosen und verbotenen Geschlechtsverkehr\! Von da an handelten sie völlig wahllos und gegen jede Ordnung, sodass sie den Zustand der menschlichen Angelegenheiten und die göttlich übergebene Lebensordnung total verkehrten – ja, sie zwangen alle Menschen, sei es durch Überredung oder Gewalt, gegen ihren Schöpfergott zu sündigen\! Daraufhin wurden in der neunten Generation die Giganten geboren, jene, die man aus der Vorzeit kennt – keine ‚Drachenfüßer‘, wie die Fabeln der Griechen behaupten, sondern Wesen, die mit gewaltigen Körpern hervorgebracht wurden und deren Knochen von unermesslicher Größe mancherorts bis heute als Beweis gezeigt werden\. Doch gegen sie brachte die gerechte Vorsehung Gottes die Sintflut über die Welt, damit der Erdkreis von ihrer Seuche reingewaschen und jeder Ort durch die Vernichtung der Gottlosen in ein Meer verwandelt werden würde\! Nur ein einziger Gerechter wurde damals gefunden, namens Noah\. Er wurde in der Arche mit seinen drei Söhnen und deren Frauen gerettet, und nachdem die Wassermassen abgelaufen waren, wurde er zusammen mit den Tieren, die er bei sich eingeschlossen hatte, und den Samen zum neuen Bewohner der Welt gemacht\.
+Als also alles vollendet war,
+was im Himmel,
+auf der Erde und in den Wassern ist,
+und sich auch das Menschengeschlecht vermehrt hatte,
+da ließen sich in der achten Generation gerechte Männer,
+die das Leben von Engeln geführt hatten,
+von der Schönheit der Frauen verführen und glitten ab in wahllosen und verbotenen Geschlechtsverkehr\!
+Von da an handelten sie völlig wahllos und gegen jede Ordnung,
+sodass sie den Zustand der menschlichen Angelegenheiten und die göttlich übergebene Lebensordnung total verkehrten – ja,
+sie zwangen alle Menschen,
+sei es durch Überredung oder Gewalt,
+gegen ihren Schöpfergott zu sündigen\!
+Daraufhin wurden in der neunten Generation die Giganten geboren,
+jene,
+die man aus der Vorzeit kennt – keine ‚Drachenfüßer‘,
+wie die Fabeln der Griechen behaupten,
+sondern Wesen,
+die mit gewaltigen Körpern hervorgebracht wurden und deren Knochen von unermesslicher Größe mancherorts bis heute als Beweis gezeigt werden\.
+Doch gegen sie brachte die gerechte Vorsehung Gottes die Sintflut über die Welt,
+damit der Erdkreis von ihrer Seuche reingewaschen und jeder Ort durch die Vernichtung der Gottlosen in ein Meer verwandelt werden würde\!
+Nur ein einziger Gerechter wurde damals gefunden,
+namens Noah\.
+Er wurde in der Arche mit seinen drei Söhnen und deren Frauen gerettet,
+und nachdem die Wassermassen abgelaufen waren,
+wurde er zusammen mit den Tieren,
+die er bei sich eingeschlossen hatte,
+und den Samen zum neuen Bewohner der Welt gemacht\.

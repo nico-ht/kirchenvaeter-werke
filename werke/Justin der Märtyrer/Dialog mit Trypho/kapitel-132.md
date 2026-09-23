@@ -7,6 +7,55 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-be1750fe-229f-46a1-c19e-08de6c821f66).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e8f460b313c7c616ee5aa0aa350e85fac7922ee52ec92b8243370d96f8828898`
-
-Und trotz alledem habt ihr immer noch das goldene Kalb gegossen, und ihr wart besessen damit, mit den Töchtern von Fremden Unzucht zu treiben und Götzen anzubeten\! Und ihr habt dieselben Dinge getan, selbst nachdem euch das Land mit einer solch wundersamen Zurschaustellung von Macht übergeben worden war, dass ihr Zeuge wurdet, wie die Sonne auf den Befehl dessen hin, der den Beinamen Jesus trug, am Himmel stillstand und 36 Stunden lang nicht unterging\! Und ihr habt all die anderen wundersamen Ereignisse gesehen, die jedes zu seiner Zeit zu euren Gunsten stattfanden\! Eines davon muss ich, wie ich glaube, jetzt erwähnen, weil es euch helfen wird, ein besseres Verständnis von Jesus zu erlangen\! Ihn bekennen wir als Christus, den Sohn Gottes, der gekreuzigt wurde und von den Toten auferstanden ist, in den Himmel aufgefahren ist und kommen wird, um jeden Menschen zu richten, der jemals gelebt hat, sogar zurück bis zu Adam selbst\! Ihr wisst dann sicherlich, sagte ich, dass, als die Stiftshütte des Zeugnisses von den Feinden verschleppt wurde, die die Region von Aschdod bewohnten, und eine schrecklich unheilbare Plage unter ihnen ausgebrochen war, sie beschlossen, die Stiftshütte auf einen Karren zu stellen, an diesen spannten sie Kühe, die erst kürzlich Kälber geboren hatten, um festzustellen, ob sie wegen der Stiftshütte von Gottes Macht geplagt worden waren und ob es Gottes Wille war, dass sie an den Ort zurückgebracht würde, von dem sie sie weggenommen hatten\. Bei der Ausführung dieses Plans zogen die Kühe ohne jegliche menschliche Führung nicht an den Ort, von dem die Stiftshütte weggenommen worden war, sondern zum Feld eines Mannes namens Jesus\! Genau derselbe Name wie derjenige, dessen Name, wie oben gesagt, zu Jesus geändert wurde und der euer Volk in das verheißene Land führte und es durch das Los unter ihnen aufteilte\! Als die Kühe auf dieses Feld kamen, blieben sie stehen\! So wurde euch gezeigt, dass sie von dem mächtigen Namen geführt wurden, genauso wie die Überlebenden unter eurem Volk, die aus Ägypten flohen, von dem in das verheißene Land geführt wurden, dessen Name von Hosea zu Jesus geändert wurde\!
+Und trotz alledem habt ihr immer noch das goldene Kalb gegossen,
+und ihr wart besessen damit,
+mit den Töchtern von Fremden Unzucht zu treiben und Götzen anzubeten\!
+Und ihr habt dieselben Dinge getan,
+selbst nachdem euch das Land mit einer solch wundersamen Zurschaustellung von Macht übergeben worden war,
+dass ihr Zeuge wurdet,
+wie die Sonne auf den Befehl dessen hin,
+der den Beinamen Jesus trug,
+am Himmel stillstand und 36 Stunden lang nicht unterging\!
+Und ihr habt all die anderen wundersamen Ereignisse gesehen,
+die jedes zu seiner Zeit zu euren Gunsten stattfanden\!
+Eines davon muss ich,
+wie ich glaube,
+jetzt erwähnen,
+weil es euch helfen wird,
+ein besseres Verständnis von Jesus zu erlangen\!
+Ihn bekennen wir als Christus,
+den Sohn Gottes,
+der gekreuzigt wurde und von den Toten auferstanden ist,
+in den Himmel aufgefahren ist und kommen wird,
+um jeden Menschen zu richten,
+der jemals gelebt hat,
+sogar zurück bis zu Adam selbst\!
+Ihr wisst dann sicherlich,
+sagte ich,
+dass,
+als die Stiftshütte des Zeugnisses von den Feinden verschleppt wurde,
+die die Region von Aschdod bewohnten,
+und eine schrecklich unheilbare Plage unter ihnen ausgebrochen war,
+sie beschlossen,
+die Stiftshütte auf einen Karren zu stellen,
+an diesen spannten sie Kühe,
+die erst kürzlich Kälber geboren hatten,
+um festzustellen,
+ob sie wegen der Stiftshütte von Gottes Macht geplagt worden waren und ob es Gottes Wille war,
+dass sie an den Ort zurückgebracht würde,
+von dem sie sie weggenommen hatten\.
+Bei der Ausführung dieses Plans zogen die Kühe ohne jegliche menschliche Führung nicht an den Ort,
+von dem die Stiftshütte weggenommen worden war,
+sondern zum Feld eines Mannes namens Jesus\!
+Genau derselbe Name wie derjenige,
+dessen Name,
+wie oben gesagt,
+zu Jesus geändert wurde und der euer Volk in das verheißene Land führte und es durch das Los unter ihnen aufteilte\!
+Als die Kühe auf dieses Feld kamen,
+blieben sie stehen\!
+So wurde euch gezeigt,
+dass sie von dem mächtigen Namen geführt wurden,
+genauso wie die Überlebenden unter eurem Volk,
+die aus Ägypten flohen,
+von dem in das verheißene Land geführt wurden,
+dessen Name von Hosea zu Jesus geändert wurde\!

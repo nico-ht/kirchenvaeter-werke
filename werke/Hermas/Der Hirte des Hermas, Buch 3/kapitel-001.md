@@ -7,6 +7,88 @@ Autor: Hermas
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/hermas/der-hirte-des-hermas-buch-3#kapitel-9863a4f9-c796-4427-d35c-08dd13c1b491).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f6e28b8871c4c4d77e5cca3e9a01ec4afe264989f858f58cefd510e8e54dac41`
-
-Er sagt zu mir: „Ihr wisst, sagt er, dass ihr, die Sklaven Gottes, in der Fremde wohnt; denn eure Stadt liegt fern von dieser Stadt\. Wenn ihr nun, sagt er, eure Stadt kennt, in der ihr wohnen werdet, warum schafft ihr euch hier Äcker an, kostspielige Anlagen, Bauten und unnütze Häuser? Wer solche Dinge für diese Stadt bereitmacht, kann nicht wieder in seine eigene Stadt zurückkehren\. Du dummer, zwiespältiger und elender Mensch, begreifst du nicht, dass dies alles fremdes Eigentum ist und unter der Gewalt eines anderen steht? Denn der Herr dieser Stadt wird sagen: ‚Ich will nicht, dass du in meiner Stadt wohnst; geh vielmehr aus dieser Stadt hinaus, weil du meine Gesetze nicht befolgst\.‘ Wenn du nun Äcker, Wohnungen und viele andere Besitztümer hast und von ihm hinausgeworfen wirst, was wirst du mit deinem Acker, deinem Haus und allem Übrigen tun, was du dir angeschafft hast? Denn der Herr dieses Landes sagt dir mit Recht: ‚Was willst du tun, da du in deiner eigenen Stadt ein Gesetz hast? Wirst du wegen deiner Äcker und deines übrigen Besitzes dein Gesetz völlig verleugnen und nach dem Gesetz dieser Stadt leben?‘ Sieh zu, dass es dir nicht zum Schaden wird, dein Gesetz zu verleugnen\. Denn wenn du in deine Stadt zurückkehren willst, wirst du nicht aufgenommen werden, weil du das Gesetz deiner Stadt verleugnet hast, und du wirst aus ihr ausgeschlossen werden\. Sieh also zu: Als einer, der in der Fremde wohnt, bereite dir nichts weiter vor als nur das, was dir als ausreichendes Auskommen genügt\. Und sei bereit, wenn der Gebieter dieser Stadt dich hinauswerfen will, weil du dich seinem Gesetz widersetzt hast, aus seiner Stadt hinauszugehen, in deine Stadt aufzubrechen und dein eigenes Gesetz zu befolgen, unversehrt und voller Freude\. Seht also zu, ihr, die ihr dem Herrn dient und ihn im Herzen habt: Tut die Werke Gottes, denkt an seine Gebote und an die Verheißungen, die er gegeben hat, und glaubt ihm, dass er sie erfüllen wird, wenn seine Gebote bewahrt werden\. Statt Äckern also erwerbt Seelen, besucht Waisen und übergeht sie nicht\. Euren Reichtum und alle eure kostspieligen Mittel verwendet für solche Äcker und Häuser, die ihr von Gott empfangen habt\. Denn dazu hat der Gebieter euch reich gemacht, damit ihr ihm diese Dienste leistet\. Es ist viel besser, solche Äcker, Güter und Häuser zu kaufen; ihr werdet sie in eurer Stadt finden, wenn ihr dort ankommt\. Dieser Aufwand ist gut und heilig: Er bringt keinen Kummer und keine Angst, sondern Freude\. Die Verschwendung der Völker aber praktiziert nicht; denn sie bringt euch, den Sklaven Gottes, keinen Nutzen\. Praktiziert vielmehr euren eigenen Aufwand, rührt nicht an fremdes Gut und begehrt es nicht\. Denn es ist böse, fremdes Gut zu begehren\. Tu dein eigenes Werk, und du wirst gerettet werden\.“
+Er sagt zu mir:
+„Ihr wisst,
+sagt er,
+dass ihr,
+die Sklaven Gottes,
+in der Fremde wohnt;
+denn eure Stadt liegt fern von dieser Stadt\.
+Wenn ihr nun,
+sagt er,
+eure Stadt kennt,
+in der ihr wohnen werdet,
+warum schafft ihr euch hier Äcker an,
+kostspielige Anlagen,
+Bauten und unnütze Häuser?
+Wer solche Dinge für diese Stadt bereitmacht,
+kann nicht wieder in seine eigene Stadt zurückkehren\.
+Du dummer,
+zwiespältiger und elender Mensch,
+begreifst du nicht,
+dass dies alles fremdes Eigentum ist und unter der Gewalt eines anderen steht?
+Denn der Herr dieser Stadt wird sagen:
+‚Ich will nicht,
+dass du in meiner Stadt wohnst;
+geh vielmehr aus dieser Stadt hinaus,
+weil du meine Gesetze nicht befolgst\.‘
+Wenn du nun Äcker,
+Wohnungen und viele andere Besitztümer hast und von ihm hinausgeworfen wirst,
+was wirst du mit deinem Acker,
+deinem Haus und allem Übrigen tun,
+was du dir angeschafft hast?
+Denn der Herr dieses Landes sagt dir mit Recht:
+‚Was willst du tun,
+da du in deiner eigenen Stadt ein Gesetz hast?
+Wirst du wegen deiner Äcker und deines übrigen Besitzes dein Gesetz völlig verleugnen und nach dem Gesetz dieser Stadt leben?‘
+Sieh zu,
+dass es dir nicht zum Schaden wird,
+dein Gesetz zu verleugnen\.
+Denn wenn du in deine Stadt zurückkehren willst,
+wirst du nicht aufgenommen werden,
+weil du das Gesetz deiner Stadt verleugnet hast,
+und du wirst aus ihr ausgeschlossen werden\.
+Sieh also zu:
+Als einer,
+der in der Fremde wohnt,
+bereite dir nichts weiter vor als nur das,
+was dir als ausreichendes Auskommen genügt\.
+Und sei bereit,
+wenn der Gebieter dieser Stadt dich hinauswerfen will,
+weil du dich seinem Gesetz widersetzt hast,
+aus seiner Stadt hinauszugehen,
+in deine Stadt aufzubrechen und dein eigenes Gesetz zu befolgen,
+unversehrt und voller Freude\.
+Seht also zu,
+ihr,
+die ihr dem Herrn dient und ihn im Herzen habt:
+Tut die Werke Gottes,
+denkt an seine Gebote und an die Verheißungen,
+die er gegeben hat,
+und glaubt ihm,
+dass er sie erfüllen wird,
+wenn seine Gebote bewahrt werden\.
+Statt Äckern also erwerbt Seelen,
+besucht Waisen und übergeht sie nicht\.
+Euren Reichtum und alle eure kostspieligen Mittel verwendet für solche Äcker und Häuser,
+die ihr von Gott empfangen habt\.
+Denn dazu hat der Gebieter euch reich gemacht,
+damit ihr ihm diese Dienste leistet\.
+Es ist viel besser,
+solche Äcker,
+Güter und Häuser zu kaufen;
+ihr werdet sie in eurer Stadt finden,
+wenn ihr dort ankommt\.
+Dieser Aufwand ist gut und heilig:
+Er bringt keinen Kummer und keine Angst,
+sondern Freude\.
+Die Verschwendung der Völker aber praktiziert nicht;
+denn sie bringt euch,
+den Sklaven Gottes,
+keinen Nutzen\.
+Praktiziert vielmehr euren eigenen Aufwand,
+rührt nicht an fremdes Gut und begehrt es nicht\.
+Denn es ist böse,
+fremdes Gut zu begehren\.
+Tu dein eigenes Werk,
+und du wirst gerettet werden\.“

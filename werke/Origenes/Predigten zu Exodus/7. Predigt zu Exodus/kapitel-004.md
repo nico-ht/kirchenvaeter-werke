@@ -7,13 +7,139 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/7-predigt-zu-exodus#kapitel-3e8ad005-17d1-4392-3b86-08de2d20f097).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5f8c4bdd344fbcf10ef9f83d934be3af73c38dea59f5a04a5b61b40200e6c255`
+Nach diesen Dingen steht geschrieben:
+„Im zweiten Monat,
+nachdem sie aus Ägypten aufgebrochen waren,
+am fünfzehnten Tag des Monats,
+murrte das Volk gegen Mose und sagte:
+‚Wären wir doch im Land Ägypten gestorben,
+als wir über den Fleischtöpfen saßen und Brot aßen bis zur Sättigung,
+da du uns in diese Wüste geführt hast,
+um die ganze Versammlung durch Hunger zu töten\!‘“[^bible-fa571df8-91b3-4254-ac0b-6d85c1bab1b7]
+Sicherlich wird die Sünde des Volkes,
+dass sie murrten und undankbar für die göttlichen Wohltaten waren,
+als sie das himmlische Manna empfingen,
+zur Zurechtweisung der Leser aufgezeigt\.
+Aber warum ist auch der Tag aufgezeichnet,
+an dem „das Volk murrte“?
+Der Text sagt:
+„Im zweiten Monat am fünfzehnten Tag des Monats\.“
+Das wurde gewiss nicht ohne Grund geschrieben\!
+Ruft euch ins Gedächtnis,
+was über die Gesetze des Passah gesagt wurde,
+und ihr werdet dort entdecken,
+dass dies die Zeit ist,
+die festgesetzt wurde,
+um das zweite Passah für jene zu feiern,
+die „unrein an der Seele“ waren oder mit fremden Geschäften beschäftigt\.
+Diejenigen also,
+die nicht „unrein an der Seele“ waren oder nicht „auf einer weiten Reise“,
+feierten das Passah „am vierzehnten Tag des ersten Monats\.“[^bible-009a713b-e1eb-4960-8d6b-5b368aede8dd]
+Jene aber,
+die „auf einer weiten Reise waren und unrein“[^bible-baac48a1-a495-4749-9ee4-eb07d70445bd],
+feiern zu dieser Zeit ein zweites Passah,
+zu welcher Zeit auch das Manna vom Himmel herabstieg\.
+Das Manna stieg nicht an dem Tag herab,
+an dem das erste Passah stattfand,
+sondern zu dieser Zeit,
+an der das zweite Passah stattfand\.
+Lasst uns nun also sehen,
+welche Ordnung des Geheimnisses diese Worte beinhalten\.
+Das erste Passah gehört dem ersten Volk;
+das zweite Passah ist unseres\!
+Denn wir waren „unrein an der Seele“,
+die wir „Holz und Stein anzubeten pflegten“[^bible-831d376f-c38d-4758-9ad4-0685cae2d89f] und „als wir Gott nicht kannten,
+jenen Dingen dienten,
+die von Natur aus keine Götter waren\.“[^bible-691955be-2adb-4a9c-ab78-c288bed681bf]
 
-Nach diesen Dingen steht geschrieben: „Im zweiten Monat, nachdem sie aus Ägypten aufgebrochen waren, am fünfzehnten Tag des Monats, murrte das Volk gegen Mose und sagte: ‚Wären wir doch im Land Ägypten gestorben, als wir über den Fleischtöpfen saßen und Brot aßen bis zur Sättigung, da du uns in diese Wüste geführt hast, um die ganze Versammlung durch Hunger zu töten\!‘“[^bible-fa571df8-91b3-4254-ac0b-6d85c1bab1b7] Sicherlich wird die Sünde des Volkes, dass sie murrten und undankbar für die göttlichen Wohltaten waren, als sie das himmlische Manna empfingen, zur Zurechtweisung der Leser aufgezeigt\. Aber warum ist auch der Tag aufgezeichnet, an dem „das Volk murrte“? Der Text sagt: „Im zweiten Monat am fünfzehnten Tag des Monats\.“ Das wurde gewiss nicht ohne Grund geschrieben\! Ruft euch ins Gedächtnis, was über die Gesetze des Passah gesagt wurde, und ihr werdet dort entdecken, dass dies die Zeit ist, die festgesetzt wurde, um das zweite Passah für jene zu feiern, die „unrein an der Seele“ waren oder mit fremden Geschäften beschäftigt\. Diejenigen also, die nicht „unrein an der Seele“ waren oder nicht „auf einer weiten Reise“, feierten das Passah „am vierzehnten Tag des ersten Monats\.“[^bible-009a713b-e1eb-4960-8d6b-5b368aede8dd] Jene aber, die „auf einer weiten Reise waren und unrein“[^bible-baac48a1-a495-4749-9ee4-eb07d70445bd], feiern zu dieser Zeit ein zweites Passah, zu welcher Zeit auch das Manna vom Himmel herabstieg\. Das Manna stieg nicht an dem Tag herab, an dem das erste Passah stattfand, sondern zu dieser Zeit, an der das zweite Passah stattfand\. Lasst uns nun also sehen, welche Ordnung des Geheimnisses diese Worte beinhalten\. Das erste Passah gehört dem ersten Volk; das zweite Passah ist unseres\! Denn wir waren „unrein an der Seele“, die wir „Holz und Stein anzubeten pflegten“[^bible-831d376f-c38d-4758-9ad4-0685cae2d89f] und „als wir Gott nicht kannten, jenen Dingen dienten, die von Natur aus keine Götter waren\.“[^bible-691955be-2adb-4a9c-ab78-c288bed681bf]
+Wir waren auch jene,
+die „auf einer weiten Reise waren“[^bible-c4afe4a5-b889-4a19-bd37-042a4e12fc64],
+von denen der Apostel sagt,
+dass wir „Fremde und Ausländer gegenüber den Bündnissen Gottes waren,
+ohne Hoffnung und ohne Gott in dieser Welt\.“
+[^bible-b76eabcc-16e9-4575-8e5a-a326aaad39ae]Dennoch wurde das Manna vom Himmel nicht an jenem Tag gegeben,
+an dem das erste Passah gefeiert wurde,
+sondern an dem Tag,
+an dem das zweite gefeiert wurde\.
+Denn „das Brot,
+das vom Himmel herabkam“[^bible-4c598d03-14af-4c2d-86e0-e2f8f6623cfd],
+kam nicht zu denen,
+die die erste Feier begingen,
+sondern zu uns,
+die wir die zweite empfingen\.
+„Denn unser Passah,
+Christus,
+ist geopfert worden“[^bible-5d371806-9f2d-4b5f-9d9a-fd1c868f6b40],
+der zu uns herabstieg als das wahre „Brot vom Himmel\.“[^bible-735bf044-0081-48cf-8252-6c104d42073f]
+Aber lasst uns dennoch sehen,
+was an diesem Tag geschehen ist\.
+„Am fünfzehnten Tag des zweiten Monats“,
+sagt der Text,
+„murrte das Volk und sagte,
+dass es besser für uns gewesen wäre,
+in Ägypten zu sterben,
+als wir über den Fleischtöpfen saßen\.“[^bible-2e469dc4-b367-4a4c-9d21-24a01ac7cfa5]
+O undankbares Volk\!
+Sie,
+die die Ägypter vernichtet sahen,
+begehren Ägypten\!
+Sie,
+die das Fleisch der Ägypter den Fischen des Meeres und den Vögeln des Himmels gegeben sahen,
+suchen wieder das Fleisch Ägyptens\!
+Sie erheben daher ein Murren gegen Mose,
+nein vielmehr gegen Gott\.
+Aber dies wird ein erstes Mal verziehen,
+und ein zweites Mal,
+und vielleicht ein drittes\.
+Aber wenn sie beharren und nicht ablassen,
+hört,
+was als Nächstes für das Volk folgt,
+das murrt\.
+Der Apostel enthüllte in seinen Schriften,
+was auch im Buch Numeri berichtet wird:
+„Und ihr sollt nicht murren,
+wie einige von jenen murrten und durch die Schlangen umkamen\.“[^bible-9bb78dbc-53eb-4dff-b073-056e89ba224e]
+Der giftige Biss der Schlangen vernichtete das murrende Volk in der Wüste\.
+Lasst uns,
+die wir diese Worte hören,
+uns hüten – ich meine uns,
+für die diese Dinge geschrieben wurden\.
+„Denn sie geschahen zur Zurechtweisung für jene;
+sie sind aber geschrieben für uns,
+zu denen das Ende der Zeitalter gekommen ist\.“[^bible-595dc251-de20-4f84-be05-115f6cf1f0d8]
 
-Wir waren auch jene, die „auf einer weiten Reise waren“[^bible-c4afe4a5-b889-4a19-bd37-042a4e12fc64], von denen der Apostel sagt, dass wir „Fremde und Ausländer gegenüber den Bündnissen Gottes waren, ohne Hoffnung und ohne Gott in dieser Welt\.“ [^bible-b76eabcc-16e9-4575-8e5a-a326aaad39ae]Dennoch wurde das Manna vom Himmel nicht an jenem Tag gegeben, an dem das erste Passah gefeiert wurde, sondern an dem Tag, an dem das zweite gefeiert wurde\. Denn „das Brot, das vom Himmel herabkam“[^bible-4c598d03-14af-4c2d-86e0-e2f8f6623cfd], kam nicht zu denen, die die erste Feier begingen, sondern zu uns, die wir die zweite empfingen\. „Denn unser Passah, Christus, ist geopfert worden“[^bible-5d371806-9f2d-4b5f-9d9a-fd1c868f6b40], der zu uns herabstieg als das wahre „Brot vom Himmel\.“[^bible-735bf044-0081-48cf-8252-6c104d42073f] Aber lasst uns dennoch sehen, was an diesem Tag geschehen ist\. „Am fünfzehnten Tag des zweiten Monats“, sagt der Text, „murrte das Volk und sagte, dass es besser für uns gewesen wäre, in Ägypten zu sterben, als wir über den Fleischtöpfen saßen\.“[^bible-2e469dc4-b367-4a4c-9d21-24a01ac7cfa5] O undankbares Volk\! Sie, die die Ägypter vernichtet sahen, begehren Ägypten\! Sie, die das Fleisch der Ägypter den Fischen des Meeres und den Vögeln des Himmels gegeben sahen, suchen wieder das Fleisch Ägyptens\! Sie erheben daher ein Murren gegen Mose, nein vielmehr gegen Gott\. Aber dies wird ein erstes Mal verziehen, und ein zweites Mal, und vielleicht ein drittes\. Aber wenn sie beharren und nicht ablassen, hört, was als Nächstes für das Volk folgt, das murrt\. Der Apostel enthüllte in seinen Schriften, was auch im Buch Numeri berichtet wird: „Und ihr sollt nicht murren, wie einige von jenen murrten und durch die Schlangen umkamen\.“[^bible-9bb78dbc-53eb-4dff-b073-056e89ba224e] Der giftige Biss der Schlangen vernichtete das murrende Volk in der Wüste\. Lasst uns, die wir diese Worte hören, uns hüten – ich meine uns, für die diese Dinge geschrieben wurden\. „Denn sie geschahen zur Zurechtweisung für jene; sie sind aber geschrieben für uns, zu denen das Ende der Zeitalter gekommen ist\.“[^bible-595dc251-de20-4f84-be05-115f6cf1f0d8]
-
-Wenn wir nicht ablassen vom Murren, wenn wir nicht aufhören mit unseren Beschwerden, die wir so häufig gegen Gott vorbringen, dann lasst uns achtgeben, damit wir uns nicht eine ähnliche Art von Vergehen zuziehen\! Denn wir erheben ein Murren gegen Gott, wenn wir uns über die Härte des Himmels beklagen, über die Unfruchtbarkeit der Erträge, über den Mangel an Regen, über den Wohlstand der einen und das Fehlen von Wohlstand bei den anderen\. Diese Dinge werden in ihren Anfängen vergeben, aber sie werden schwer bestraft bei jenen, die nicht ablassen\. Denn Schlangen werden gegen sie ausgesandt\! Das heißt, sie werden unreinen Geistern und giftigen Dämonen ausgeliefert\. Diese vernichten sie mit geheimen und verborgenen Bissen und töten durch Gedanken, die innerlich sind und in den innersten Teilen des Herzens eingeschlossen\. Aber ich beschwöre euch: Mögen die Beispiele der Zurechtweisung, die uns vor Augen gestellt wurden, nützlich sein\! Mögen ihre Bestrafungen unsere Zurechtweisung sein\! Denn Gott sagt: „Ich habe das Murren der Söhne Israels gehört\.“[^bible-61687b0b-db42-42c3-953c-dfaa6f2127e3] Seht ihr, dass unser Murren Gottes Aufmerksamkeit nicht entgeht? Er hört alle Dinge\! Und die Tatsache, dass er nicht sofort bestraft, bedeutet, dass er die Reue unserer Umkehr erwartet\.
+Wenn wir nicht ablassen vom Murren,
+wenn wir nicht aufhören mit unseren Beschwerden,
+die wir so häufig gegen Gott vorbringen,
+dann lasst uns achtgeben,
+damit wir uns nicht eine ähnliche Art von Vergehen zuziehen\!
+Denn wir erheben ein Murren gegen Gott,
+wenn wir uns über die Härte des Himmels beklagen,
+über die Unfruchtbarkeit der Erträge,
+über den Mangel an Regen,
+über den Wohlstand der einen und das Fehlen von Wohlstand bei den anderen\.
+Diese Dinge werden in ihren Anfängen vergeben,
+aber sie werden schwer bestraft bei jenen,
+die nicht ablassen\.
+Denn Schlangen werden gegen sie ausgesandt\!
+Das heißt,
+sie werden unreinen Geistern und giftigen Dämonen ausgeliefert\.
+Diese vernichten sie mit geheimen und verborgenen Bissen und töten durch Gedanken,
+die innerlich sind und in den innersten Teilen des Herzens eingeschlossen\.
+Aber ich beschwöre euch:
+Mögen die Beispiele der Zurechtweisung,
+die uns vor Augen gestellt wurden,
+nützlich sein\!
+Mögen ihre Bestrafungen unsere Zurechtweisung sein\!
+Denn Gott sagt:
+„Ich habe das Murren der Söhne Israels gehört\.“[^bible-61687b0b-db42-42c3-953c-dfaa6f2127e3]
+Seht ihr,
+dass unser Murren Gottes Aufmerksamkeit nicht entgeht?
+Er hört alle Dinge\!
+Und die Tatsache,
+dass er nicht sofort bestraft,
+bedeutet,
+dass er die Reue unserer Umkehr erwartet\.
 
 ## Bibelverweise
 

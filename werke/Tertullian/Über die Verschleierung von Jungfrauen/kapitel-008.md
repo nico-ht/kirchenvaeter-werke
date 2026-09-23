@@ -7,9 +7,90 @@ Autor: Tertullian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-die-verschleierung-von-jungfrauen#kapitel-a87d3f12-de0a-43f0-ba12-08dddb5510b9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:2e36643848673c5e4957ddce6de4354d2084c223ae2b59fc446354d6cdf6b987`
-
-„Jede Frau[^bible-732ed18d-51c6-4fe9-ac1b-6d89f67a4f9d] “ schließt die Jungfrau ebenso ein wie „jeder Mann[^bible-7ddb1fc8-20a2-4a69-85ae-8ebdb9cc886f] “ den Jungen\. Alle diese Gründe zusammen führen beim Mann zum gegenteiligen Ergebnis: Er darf sein Haupt nicht verhüllen[^bible-33298e2c-252f-48b4-9513-ab89bb1af9e3], weil ihm das Verlangen nach langem Haar nicht von Natur aus gegeben ist[^bible-c59b7d53-8996-4b5c-bfb9-07a9757cdb25]; weil es für ihn keine Schande ist, „das Haar abrasiert oder geschoren zu bekommen[^bible-377bd0af-1b63-40db-9f66-bdf23e5809df] “; weil die Engel nicht seinetwegen gefallen sind; weil er Gottes Bild und Herrlichkeit ist[^bible-33298e2c-252f-48b4-9513-ab89bb1af9e3]; weil Christus sein Haupt ist[^bible-f4f0c025-4315-403e-9c80-27af8be8bed7]\. Wenn der Apostel also von Mann und Frau spricht und davon, weshalb die Frau sich verhüllen muss und der Mann sich nicht verhüllen darf[^bible-b3ba2ce0-f7af-4f80-a5a6-f879f6174e32], dann ist klar, warum er die Jungfrau nicht ausdrücklich erwähnt: Er schließt sie in die Bezeichnung „Frau“ ein\. Aus demselben Grund hat er auch den Jungen nicht genannt, sondern ihn unter die Bezeichnung „Mann“ gefasst\. So umfasst er mit diesen beiden Wörtern, Frau und Mann, beide Geschlechter in ihrer Gesamtheit\. Auch Adam wird in der Genesis schon als „Mann“ bezeichnet, bevor er je eine Frau berührt hatte: „Sie soll Frau heißen, weil sie aus ihrem Mann genommen wurde\.[^bible-e46c60a2-2530-4bfd-955b-404cb7e1ec9b] “ Adam war also schon vor dem ehelichen Verkehr ein „Mann“, ebenso wie Eva eine „Frau“ war\. Auf beiden Seiten hat der Apostel das jeweilige Geschlecht vollständig erfasst, knapp, klar und mit einer umfassenden Bestimmung: „Jede Frau\.[^bible-732ed18d-51c6-4fe9-ac1b-6d89f67a4f9d] “ Und „jede“ umfasst jede Art, jeden Rang, jeden Stand, jede Würde, jedes Alter\. Denn „jede“ meint das Ganze; es ist vollständig, nichts fehlt\. Auch die Jungfrau gehört zu den Frauen\. Ebenso sagt er im Hinblick darauf, dass der Mann sich nicht verhüllen darf: „Jeder Mann\.[^bible-7ddb1fc8-20a2-4a69-85ae-8ebdb9cc886f] “ Es gelten entgegengesetzte Vorschriften: hier Verhüllen, dort Enthüllen\. Wenn also bei „jedem Mann[^bible-7ddb1fc8-20a2-4a69-85ae-8ebdb9cc886f] “ die Bezeichnung auch den einschließt, der noch kein Mann ist, nämlich den bartlosen Jungen, dann gilt auch für ihn die Vorschrift, das Haupt unbedeckt zu lassen\. Denn von Natur aus kommt ihm dieselbe Bezeichnung zu, auch wenn er unter den Männern ein jungfräuliches Leben führt\. Warum sollte dann nicht ebenso feststehen, dass die Jungfrau unter die Bezeichnung „Frau“ fällt und damit derselben Vorschrift unterliegt, sich zu verhüllen? Wenn die Jungfrau keine „Frau“ ist, dann ist auch der bartlose Junge kein „Mann“\. Wenn die Jungfrau nicht verhüllt wird, weil sie keine Frau ist, dann soll der bartlose Junge verhüllt werden, weil er kein Mann ist\. Die Jungfräulichkeit soll auf beiden Seiten dieselbe Ausnahme begründen\. Wie Jungfrauen nicht gezwungen werden, sich zu verhüllen, so sollen auch Jungen nicht gezwungen werden, ihr Haupt zu entblößen\. Warum erkennen wir auf der einen Seite die Bestimmung des Apostels bei „jedem Mann[^bible-7ddb1fc8-20a2-4a69-85ae-8ebdb9cc886f] “ als uneingeschränkt gültig an und wenden nicht ein, dass er den Jungen nicht genannt hat, während wir auf der anderen Seite bei seiner ebenso uneingeschränkten Bestimmung „jede Frau[^bible-732ed18d-51c6-4fe9-ac1b-6d89f67a4f9d] “ die Regel preisgeben? „Wenn jemand streitsüchtig ist[^bible-41ed5ae9-7c6b-42c2-84fc-79af918a851a] “, sagt er, „so haben wir keinen solchen Brauch, auch die Kirchen Gottes nicht\.[^bible-41ed5ae9-7c6b-42c2-84fc-79af918a851a] “ Er zeigt damit, dass es gerade über diese Frage einen Streit gegeben hatte, den er mit der denkbar knappsten Entscheidung beendete: Er nannte die Jungfrau nicht eigens, um zu zeigen, dass über sie ebenso wenig Zweifel bestehen darf, wie wenn er sie ausdrücklich mitgenannt hätte\. Genau so verstanden ihn die Korinther, sowohl hinsichtlich dieser Verschleierung als auch hinsichtlich der ausdrücklichen Bezeichnung „jede Frau[^bible-732ed18d-51c6-4fe9-ac1b-6d89f67a4f9d] “\. Denn bis heute verschleiern die Korinther ihre Jungfrauen und zeigen damit, dass sie noch immer an eben der Lehre festhalten, die sie von den Aposteln selbst empfangen haben\.
+„Jede Frau[^bible-732ed18d-51c6-4fe9-ac1b-6d89f67a4f9d] “ schließt die Jungfrau ebenso ein wie „jeder Mann[^bible-7ddb1fc8-20a2-4a69-85ae-8ebdb9cc886f] “ den Jungen\.
+Alle diese Gründe zusammen führen beim Mann zum gegenteiligen Ergebnis:
+Er darf sein Haupt nicht verhüllen[^bible-33298e2c-252f-48b4-9513-ab89bb1af9e3],
+weil ihm das Verlangen nach langem Haar nicht von Natur aus gegeben ist[^bible-c59b7d53-8996-4b5c-bfb9-07a9757cdb25];
+weil es für ihn keine Schande ist,
+„das Haar abrasiert oder geschoren zu bekommen[^bible-377bd0af-1b63-40db-9f66-bdf23e5809df] “;
+weil die Engel nicht seinetwegen gefallen sind;
+weil er Gottes Bild und Herrlichkeit ist[^bible-33298e2c-252f-48b4-9513-ab89bb1af9e3];
+weil Christus sein Haupt ist[^bible-f4f0c025-4315-403e-9c80-27af8be8bed7]\.
+Wenn der Apostel also von Mann und Frau spricht und davon,
+weshalb die Frau sich verhüllen muss und der Mann sich nicht verhüllen darf[^bible-b3ba2ce0-f7af-4f80-a5a6-f879f6174e32],
+dann ist klar,
+warum er die Jungfrau nicht ausdrücklich erwähnt:
+Er schließt sie in die Bezeichnung „Frau“ ein\.
+Aus demselben Grund hat er auch den Jungen nicht genannt,
+sondern ihn unter die Bezeichnung „Mann“ gefasst\.
+So umfasst er mit diesen beiden Wörtern,
+Frau und Mann,
+beide Geschlechter in ihrer Gesamtheit\.
+Auch Adam wird in der Genesis schon als „Mann“ bezeichnet,
+bevor er je eine Frau berührt hatte:
+„Sie soll Frau heißen,
+weil sie aus ihrem Mann genommen wurde\.[^bible-e46c60a2-2530-4bfd-955b-404cb7e1ec9b]
+“ Adam war also schon vor dem ehelichen Verkehr ein „Mann“,
+ebenso wie Eva eine „Frau“ war\.
+Auf beiden Seiten hat der Apostel das jeweilige Geschlecht vollständig erfasst,
+knapp,
+klar und mit einer umfassenden Bestimmung:
+„Jede Frau\.[^bible-732ed18d-51c6-4fe9-ac1b-6d89f67a4f9d]
+“ Und „jede“ umfasst jede Art,
+jeden Rang,
+jeden Stand,
+jede Würde,
+jedes Alter\.
+Denn „jede“ meint das Ganze;
+es ist vollständig,
+nichts fehlt\.
+Auch die Jungfrau gehört zu den Frauen\.
+Ebenso sagt er im Hinblick darauf,
+dass der Mann sich nicht verhüllen darf:
+„Jeder Mann\.[^bible-7ddb1fc8-20a2-4a69-85ae-8ebdb9cc886f]
+“ Es gelten entgegengesetzte Vorschriften:
+hier Verhüllen,
+dort Enthüllen\.
+Wenn also bei „jedem Mann[^bible-7ddb1fc8-20a2-4a69-85ae-8ebdb9cc886f] “ die Bezeichnung auch den einschließt,
+der noch kein Mann ist,
+nämlich den bartlosen Jungen,
+dann gilt auch für ihn die Vorschrift,
+das Haupt unbedeckt zu lassen\.
+Denn von Natur aus kommt ihm dieselbe Bezeichnung zu,
+auch wenn er unter den Männern ein jungfräuliches Leben führt\.
+Warum sollte dann nicht ebenso feststehen,
+dass die Jungfrau unter die Bezeichnung „Frau“ fällt und damit derselben Vorschrift unterliegt,
+sich zu verhüllen?
+Wenn die Jungfrau keine „Frau“ ist,
+dann ist auch der bartlose Junge kein „Mann“\.
+Wenn die Jungfrau nicht verhüllt wird,
+weil sie keine Frau ist,
+dann soll der bartlose Junge verhüllt werden,
+weil er kein Mann ist\.
+Die Jungfräulichkeit soll auf beiden Seiten dieselbe Ausnahme begründen\.
+Wie Jungfrauen nicht gezwungen werden,
+sich zu verhüllen,
+so sollen auch Jungen nicht gezwungen werden,
+ihr Haupt zu entblößen\.
+Warum erkennen wir auf der einen Seite die Bestimmung des Apostels bei „jedem Mann[^bible-7ddb1fc8-20a2-4a69-85ae-8ebdb9cc886f] “ als uneingeschränkt gültig an und wenden nicht ein,
+dass er den Jungen nicht genannt hat,
+während wir auf der anderen Seite bei seiner ebenso uneingeschränkten Bestimmung „jede Frau[^bible-732ed18d-51c6-4fe9-ac1b-6d89f67a4f9d] “ die Regel preisgeben?
+„Wenn jemand streitsüchtig ist[^bible-41ed5ae9-7c6b-42c2-84fc-79af918a851a] “,
+sagt er,
+„so haben wir keinen solchen Brauch,
+auch die Kirchen Gottes nicht\.[^bible-41ed5ae9-7c6b-42c2-84fc-79af918a851a]
+“ Er zeigt damit,
+dass es gerade über diese Frage einen Streit gegeben hatte,
+den er mit der denkbar knappsten Entscheidung beendete:
+Er nannte die Jungfrau nicht eigens,
+um zu zeigen,
+dass über sie ebenso wenig Zweifel bestehen darf,
+wie wenn er sie ausdrücklich mitgenannt hätte\.
+Genau so verstanden ihn die Korinther,
+sowohl hinsichtlich dieser Verschleierung als auch hinsichtlich der ausdrücklichen Bezeichnung „jede Frau[^bible-732ed18d-51c6-4fe9-ac1b-6d89f67a4f9d] “\.
+Denn bis heute verschleiern die Korinther ihre Jungfrauen und zeigen damit,
+dass sie noch immer an eben der Lehre festhalten,
+die sie von den Aposteln selbst empfangen haben\.
 
 ## Bibelverweise
 

@@ -7,13 +7,157 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/11-predigt-zu-exodus#kapitel-56ffce69-13d5-4204-574a-08de5b572cf0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7ead0a26785a97ed0c1801cc688272425a656d4e73781b5955231d4fe384a83e`
+Doch wie ich es sehe:
+Jitro kam nicht vergebens zu Mose,
+noch aß er vergebens Brot mit den Ältesten des Volkes „in der Gegenwart des Herrn“[^bible-cd312405-7430-4028-b7c8-0726761fb872]\.
+Denn er gibt Mose einen Rat,
+der lobenswert genug und nützlich ist:
+Er soll Führer des Volkes auswählen und einsetzen,
+„Männer,
+die Gott verehren,
+Männer,
+die mächtig sind und die den Hochmut hassen\.“[^bible-f76ba569-b971-4ed5-b9d8-e7775e72dedc]
+Denn die Führer des Volkes müssen solche Männer sein,
+die nicht nur selbst nicht hochmütig sind,
+sondern den Hochmut hassen\!
+Das heißt:
+Sie sind nicht nur selbst ohne Laster,
+sondern sie hassen auch die Laster in anderen\.
+Ich meine nicht,
+dass sie die Menschen hassen sollen,
+sondern die Laster\!
+„Und du sollst sie einsetzen“,
+sagt der Text,
+„als Tribunen und Zenturionen und Vorsteher von Fünfzig und von Zehn,
+und sie sollen das Volk zu jeder Stunde richten\.
+Aber die schwerwiegenderen Angelegenheiten sollen sie dir vorlegen\.“[^bible-9635ae55-40b1-4911-8725-ea2a3d894941]
+Die Führer des Volkes und die Presbyter des Volkes sollen hören,
+dass sie das Volk zu jeder Stunde richten müssen\!
+Dass sie immer und ohne Unterbrechung zu Gericht sitzen müssen,
+um Streitigkeiten zu schlichten,
+um die Uneinigen zu versöhnen,
+um die Zwieträchtigen zur Gnade zurückzurufen\!
+Jeder soll seine Pflicht aus den Heiligen Schriften lernen\.
+Mose,
+so sagt der Text,
+soll sich mit den Dingen Gottes beschäftigen und dem Volk das Wort Gottes erklären\.
+Aber die anderen Führer,
+die sie „Tribunen“ nennen – sie werden Tribunen genannt aufgrund der Tatsache,
+dass sie einem Stamm vorstehen – diese anderen also,
+„Tribunen“ oder „Zenturionen“ oder „Vorsteher von Fünfzig“,
+sollen den geringeren Gerichtsverfahren vorstehen,
+die jeden Einzelnen betreffen,
+indem sie Streitigkeiten schlichten\.
 
-Doch wie ich es sehe: Jitro kam nicht vergebens zu Mose, noch aß er vergebens Brot mit den Ältesten des Volkes „in der Gegenwart des Herrn“[^bible-cd312405-7430-4028-b7c8-0726761fb872]\. Denn er gibt Mose einen Rat, der lobenswert genug und nützlich ist: Er soll Führer des Volkes auswählen und einsetzen, „Männer, die Gott verehren, Männer, die mächtig sind und die den Hochmut hassen\.“[^bible-f76ba569-b971-4ed5-b9d8-e7775e72dedc] Denn die Führer des Volkes müssen solche Männer sein, die nicht nur selbst nicht hochmütig sind, sondern den Hochmut hassen\! Das heißt: Sie sind nicht nur selbst ohne Laster, sondern sie hassen auch die Laster in anderen\. Ich meine nicht, dass sie die Menschen hassen sollen, sondern die Laster\! „Und du sollst sie einsetzen“, sagt der Text, „als Tribunen und Zenturionen und Vorsteher von Fünfzig und von Zehn, und sie sollen das Volk zu jeder Stunde richten\. Aber die schwerwiegenderen Angelegenheiten sollen sie dir vorlegen\.“[^bible-9635ae55-40b1-4911-8725-ea2a3d894941] Die Führer des Volkes und die Presbyter des Volkes sollen hören, dass sie das Volk zu jeder Stunde richten müssen\! Dass sie immer und ohne Unterbrechung zu Gericht sitzen müssen, um Streitigkeiten zu schlichten, um die Uneinigen zu versöhnen, um die Zwieträchtigen zur Gnade zurückzurufen\! Jeder soll seine Pflicht aus den Heiligen Schriften lernen\. Mose, so sagt der Text, soll sich mit den Dingen Gottes beschäftigen und dem Volk das Wort Gottes erklären\. Aber die anderen Führer, die sie „Tribunen“ nennen – sie werden Tribunen genannt aufgrund der Tatsache, dass sie einem Stamm vorstehen – diese anderen also, „Tribunen“ oder „Zenturionen“ oder „Vorsteher von Fünfzig“, sollen den geringeren Gerichtsverfahren vorstehen, die jeden Einzelnen betreffen, indem sie Streitigkeiten schlichten\.
+Ich denke jedoch,
+dass diese Anordnung der Kirche nicht nur für das gegenwärtige Zeitalter gegeben wurde,
+sondern auch im zukünftigen Zeitalter bewahrt werden muss\!
+Denn hört,
+was der Herr im Evangelium sagt:
+„Wenn der Menschensohn auf dem Thron seiner Herrlichkeit sitzen wird,
+werdet auch ihr auf zwölf Thronen sitzen und die zwölf Stämme Israels richten\.“[^bible-52cdcf3b-df11-4db2-b1c8-3319758c1693]
+Siehst du also,
+dass nicht nur der Herr richtet,
+dem der Vater „alles Gericht übergab“[^bible-d5d2ba56-58fa-44de-90d8-cd910b192cf3],
+sondern dass er für sich auch andere Führer einsetzt,
+die das Volk in geringeren Dingen richten?
+„Aber die schwerwiegenderen Angelegenheiten legen sie ihm vor\.“[^bible-38472edc-b39d-4ae1-b039-ec59d3ac2c43]
+Der Herr sagte daher auch über einen gewissen Mann:
+„Er wird dem Hohen Rat verfallen sein“,
+aber über einen anderen:
+„Er wird dem Gericht verfallen sein“,
+und über wieder einen anderen:
+„Er wird dem Höllenfeuer verfallen sein\.“[^bible-b28e92b4-22ba-477f-b3f2-d685ab282865]
+Aber uns wird auch gesagt,
+dass wir Rechenschaft ablegen werden für ein „untätiges Wort“[^bible-67870830-4f1d-4d7e-b370-3cb1c4ca4b95]\.
+Und er sagte nicht,
+dass wir Gott Rechenschaft ablegen werden,
+wie er es beim Meineid sagt:
+„Du sollst aber deine Eide dem Herrn erfüllen\.“
+[^bible-d3c29aeb-3027-4bd5-9e77-5dfb573543e8]Sieh aber auch eine andere Art des Gerichts:
+„Die Königin des Südens wird im Gericht aufstehen mit den Männern dieser Generation und sie verurteilen\.“[^bible-6726f1be-f5c9-4e7d-869f-62c5e789f7ec]
+„Wer Ohren hat zu hören,
+der höre\!“[^bible-a9460dd1-cb23-4085-a465-0e57b9020a64]
+Denn all diese Dinge sind ein Vorbild und „Schatten“ der himmlischen Dinge und ein „Abbild“ „der kommenden Dinge“[^bible-165afd2e-e0c0-41c4-a274-6556bf3224c2]\.
+Aber so wie wir lesen,
+was geschrieben steht:
+„Das Auge wird nicht satt vom Sehen,
+noch das Ohr vom Hören,“[^bible-b413ac1f-a35b-4388-995f-7fd3032c7a43]
+so können auch wir nicht satt werden durch bloßes Schauen und Betrachten\.
+An wie vielen Stellen erbauen uns die geschriebenen Worte,
+auf wie viele Arten unterweisen sie uns\!
+Denn wenn ich sehe,
+dass Mose,
+der Prophet voller Gott,
+zu dem Gott „von Angesicht zu Angesicht“[^bible-da7b9c5f-4216-4a88-87e0-5e8d6dc9a8b6] sprach,
+Rat von Jitro annahm,
+dem Priester von Midian,
+erstarrt mein Geist vor Bewunderung\!
+Denn die Schrift sagt:
+„Und Mose hörte auf die Stimme seines Schwiegervaters und tat alles,
+was er zu ihm sagte\.“[^bible-1d2b002b-d601-46ca-9fbe-3c591112c070]
+Er sagte nicht:
+„Gott spricht zu mir,
+und was ich tun soll,
+wird mir durch ein Wort vom Himmel übermittelt\!“
+Und:
+„Wie soll ich Rat von einem Menschen annehmen – und dazu noch von einem Heiden,
+einem Fremden für das Volk Gottes?“
 
-Ich denke jedoch, dass diese Anordnung der Kirche nicht nur für das gegenwärtige Zeitalter gegeben wurde, sondern auch im zukünftigen Zeitalter bewahrt werden muss\! Denn hört, was der Herr im Evangelium sagt: „Wenn der Menschensohn auf dem Thron seiner Herrlichkeit sitzen wird, werdet auch ihr auf zwölf Thronen sitzen und die zwölf Stämme Israels richten\.“[^bible-52cdcf3b-df11-4db2-b1c8-3319758c1693] Siehst du also, dass nicht nur der Herr richtet, dem der Vater „alles Gericht übergab“[^bible-d5d2ba56-58fa-44de-90d8-cd910b192cf3], sondern dass er für sich auch andere Führer einsetzt, die das Volk in geringeren Dingen richten? „Aber die schwerwiegenderen Angelegenheiten legen sie ihm vor\.“[^bible-38472edc-b39d-4ae1-b039-ec59d3ac2c43] Der Herr sagte daher auch über einen gewissen Mann: „Er wird dem Hohen Rat verfallen sein“, aber über einen anderen: „Er wird dem Gericht verfallen sein“, und über wieder einen anderen: „Er wird dem Höllenfeuer verfallen sein\.“[^bible-b28e92b4-22ba-477f-b3f2-d685ab282865] Aber uns wird auch gesagt, dass wir Rechenschaft ablegen werden für ein „untätiges Wort“[^bible-67870830-4f1d-4d7e-b370-3cb1c4ca4b95]\. Und er sagte nicht, dass wir Gott Rechenschaft ablegen werden, wie er es beim Meineid sagt: „Du sollst aber deine Eide dem Herrn erfüllen\.“ [^bible-d3c29aeb-3027-4bd5-9e77-5dfb573543e8]Sieh aber auch eine andere Art des Gerichts: „Die Königin des Südens wird im Gericht aufstehen mit den Männern dieser Generation und sie verurteilen\.“[^bible-6726f1be-f5c9-4e7d-869f-62c5e789f7ec] „Wer Ohren hat zu hören, der höre\!“[^bible-a9460dd1-cb23-4085-a465-0e57b9020a64] Denn all diese Dinge sind ein Vorbild und „Schatten“ der himmlischen Dinge und ein „Abbild“ „der kommenden Dinge“[^bible-165afd2e-e0c0-41c4-a274-6556bf3224c2]\. Aber so wie wir lesen, was geschrieben steht: „Das Auge wird nicht satt vom Sehen, noch das Ohr vom Hören,“[^bible-b413ac1f-a35b-4388-995f-7fd3032c7a43] so können auch wir nicht satt werden durch bloßes Schauen und Betrachten\. An wie vielen Stellen erbauen uns die geschriebenen Worte, auf wie viele Arten unterweisen sie uns\! Denn wenn ich sehe, dass Mose, der Prophet voller Gott, zu dem Gott „von Angesicht zu Angesicht“[^bible-da7b9c5f-4216-4a88-87e0-5e8d6dc9a8b6] sprach, Rat von Jitro annahm, dem Priester von Midian, erstarrt mein Geist vor Bewunderung\! Denn die Schrift sagt: „Und Mose hörte auf die Stimme seines Schwiegervaters und tat alles, was er zu ihm sagte\.“[^bible-1d2b002b-d601-46ca-9fbe-3c591112c070] Er sagte nicht: „Gott spricht zu mir, und was ich tun soll, wird mir durch ein Wort vom Himmel übermittelt\!“ Und: „Wie soll ich Rat von einem Menschen annehmen – und dazu noch von einem Heiden, einem Fremden für das Volk Gottes?“
-
-Aber er hört zu und tut alles, was er sagt\. Er hört nicht auf den, der spricht, sondern auf das, was er sagt\! Daher sollten auch wir, wenn wir vielleicht hier und da etwas entdecken, das von den Heiden weise gesagt wurde, das Gesagte nicht sofort verachten, nur weil wir den Urheber verachten\. Es ist auch nicht angemessen, nur weil wir ein von Gott gegebenes Gesetz besitzen, dass wir uns vor Stolz aufblähen und die Worte der Klugen verachten\. Stattdessen sollten wir, wie der Apostel sagt, „alles prüfen und das Gute festhalten\.“[^bible-452fb0dd-8a11-4077-89e7-429b300a2296] Aber wer von denen, die heute dem Volk vorstehen – ich rede nicht davon, dass er bereits Offenbarungen von Gott empfangen hat, sondern davon, dass er irgendein Verdienst an Erkenntnis des Gesetzes besitzt – hält es für angemessen, Rat auch nur von einem niedrigeren Priester anzunehmen? Geschweige denn von einem Laien oder einem Heiden\! Aber Mose, der „sanftmütiger als alle Menschen“[^bible-5db3dcbf-ab1b-4abb-86dc-032398318f6d] war, nahm den Rat eines niedrigeren Mannes an\. Er tat dies, um den Führern des Volkes ein Vorbild der Demut zu geben und zugleich ein Abbild des zukünftigen Mysteriums darzustellen\. Denn er wusste, dass in einer zukünftigen Zeit die Heiden guten Rat mit Mose einbringen würden – dass sie ein gutes und geistliches Verständnis zum Gesetz Gottes bringen würden\! Und er wusste, dass das Gesetz sie hören und alles so tun würde, wie sie es sagen\. „Denn das Gesetz kann nicht wirksam sein“, wie die Juden behaupten, weil „das Gesetz schwach ist im Fleisch“[^bible-0aa532e5-57e4-4558-9c9f-ed1f327352ab] – das heißt im Buchstaben\! Es kann dem Buchstaben nach nichts vollbringen, „denn das Gesetz brachte nichts zur Vollendung\.“[^bible-f94cf090-1a81-4fd5-8949-e8c4cfc99c74] Gemäß diesem Rat jedoch, den wir dem Gesetz anbieten, können alle Dinge geistlich geschehen\. Opfer, die jetzt nicht auf fleischliche Weise dargebracht werden können, können geistlich dargebracht werden\. Und das Gesetz des Aussatzes, das nicht dem Buchstaben nach eingehalten werden kann, kann geistlich eingehalten werden\! So also vollbringt das Gesetz, so wie wir es verstehen, wie wir es wahrnehmen und Rat geben, alle Dinge\. Aber dem Buchstaben nach vollbringt es nicht alle Dinge, sondern nur sehr wenige\!
+Aber er hört zu und tut alles,
+was er sagt\.
+Er hört nicht auf den,
+der spricht,
+sondern auf das,
+was er sagt\!
+Daher sollten auch wir,
+wenn wir vielleicht hier und da etwas entdecken,
+das von den Heiden weise gesagt wurde,
+das Gesagte nicht sofort verachten,
+nur weil wir den Urheber verachten\.
+Es ist auch nicht angemessen,
+nur weil wir ein von Gott gegebenes Gesetz besitzen,
+dass wir uns vor Stolz aufblähen und die Worte der Klugen verachten\.
+Stattdessen sollten wir,
+wie der Apostel sagt,
+„alles prüfen und das Gute festhalten\.“[^bible-452fb0dd-8a11-4077-89e7-429b300a2296]
+Aber wer von denen,
+die heute dem Volk vorstehen – ich rede nicht davon,
+dass er bereits Offenbarungen von Gott empfangen hat,
+sondern davon,
+dass er irgendein Verdienst an Erkenntnis des Gesetzes besitzt – hält es für angemessen,
+Rat auch nur von einem niedrigeren Priester anzunehmen?
+Geschweige denn von einem Laien oder einem Heiden\!
+Aber Mose,
+der „sanftmütiger als alle Menschen“[^bible-5db3dcbf-ab1b-4abb-86dc-032398318f6d] war,
+nahm den Rat eines niedrigeren Mannes an\.
+Er tat dies,
+um den Führern des Volkes ein Vorbild der Demut zu geben und zugleich ein Abbild des zukünftigen Mysteriums darzustellen\.
+Denn er wusste,
+dass in einer zukünftigen Zeit die Heiden guten Rat mit Mose einbringen würden – dass sie ein gutes und geistliches Verständnis zum Gesetz Gottes bringen würden\!
+Und er wusste,
+dass das Gesetz sie hören und alles so tun würde,
+wie sie es sagen\.
+„Denn das Gesetz kann nicht wirksam sein“,
+wie die Juden behaupten,
+weil „das Gesetz schwach ist im Fleisch“[^bible-0aa532e5-57e4-4558-9c9f-ed1f327352ab] – das heißt im Buchstaben\!
+Es kann dem Buchstaben nach nichts vollbringen,
+„denn das Gesetz brachte nichts zur Vollendung\.“[^bible-f94cf090-1a81-4fd5-8949-e8c4cfc99c74]
+Gemäß diesem Rat jedoch,
+den wir dem Gesetz anbieten,
+können alle Dinge geistlich geschehen\.
+Opfer,
+die jetzt nicht auf fleischliche Weise dargebracht werden können,
+können geistlich dargebracht werden\.
+Und das Gesetz des Aussatzes,
+das nicht dem Buchstaben nach eingehalten werden kann,
+kann geistlich eingehalten werden\!
+So also vollbringt das Gesetz,
+so wie wir es verstehen,
+wie wir es wahrnehmen und Rat geben,
+alle Dinge\.
+Aber dem Buchstaben nach vollbringt es nicht alle Dinge,
+sondern nur sehr wenige\!
 
 ## Bibelverweise
 

@@ -7,9 +7,9 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/psalm-1#kapitel-8de6a9ac-9e4a-4c75-2fcb-08dd75e46160).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b8b16cfd87fa1a0045b485cfc55e82287d0d902a10ef54923bb40db11423d370`
-
-„Darum werden die Gottlosen nicht bestehen, oder auch aufstehen, im Gericht\.“[^bible-dadc87f9-abfe-4721-be4f-050570c5dc43]
+„Darum werden die Gottlosen nicht bestehen,
+oder auch aufstehen,
+im Gericht\.“[^bible-dadc87f9-abfe-4721-be4f-050570c5dc43]
 
 ## Bibelverweise
 

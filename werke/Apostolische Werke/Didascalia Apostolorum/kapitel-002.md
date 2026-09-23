@@ -7,17 +7,294 @@ Autor: Apostolische Werke
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-werke/didascalia-apostolorum#kapitel-a0d2e28c-3cc0-441a-9c31-08deb5f22d1d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0551f70a70dd76eb7808d94062609f2476ca102606e6bafce93fac348301bc09`
+Ertragt einander[^bible-ac2e6dde-62dc-410f-a5db-57726e7f4ea0],
+ihr Knechte und Söhne Gottes\.
+Ein Mann soll seine Frau weder verachten noch geringschätzen und sich auch nicht gegen sie erheben;
+vielmehr soll er barmherzig sein,
+und seine Hand soll offen sein zum Geben\.
+Er soll allein seiner Frau gefallen und sie in Ehren halten;
+und er soll danach trachten,
+von ihr allein geliebt zu werden und von keiner anderen\.
+Schmücke dich nicht,
+damit eine fremde Frau dich sieht und dich begehrt\.
+Wenn du aber tatsächlich von ihr gedrängt wirst und mit ihr sündigst,
+dann wird gewiss von Gott her der Tod im Feuer über dich kommen,
+jenes Feuer,
+das ewig bleibt,
+ein schweres und bitteres Feuer;
+und du wirst es erkennen und begreifen,
+wenn du schwer gequält wirst\.
+Wenn du diese Unreinheit aber nicht tust,
+sondern sie von dir weist und ihr absagst,
+dann hast du nur darin gesündigt,
+dass du durch deinen Schmuck die Frau dazu gebracht hast,
+von Verlangen nach dir ergriffen zu werden;
+denn du hast sie,
+der dies deinetwegen widerfuhr,
+durch ihr Verlangen zum Ehebruch gebracht\.
+Doch stehst du nicht in gleicher Weise unter der Sünde,
+weil du sie nicht begehrt hast;
+vielmehr wird dir vom Herrn Barmherzigkeit widerfahren,
+weil du dich ihr nicht ausgeliefert und ihr nicht zugestimmt hast,
+als sie zu dir sandte,
+und dich nicht einmal in Gedanken jener Frau zugewandt hast,
+die von Verlangen nach dir ergriffen war\.
+Sie aber begegnete dir plötzlich,
+wurde in ihrem Denken getroffen und sandte zu dir;
+du aber hast ihr als gottesfürchtiger Mann abgesagt,
+bist ihr ausgewichen und hast nicht mit ihr gesündigt\.
+Sie jedoch wurde in ihrem Herzen getroffen,
+weil du jung,
+schön und ansehnlich bist,
+dich geschmückt und sie dazu gebracht hast,
+dich zu begehren;
+und du wirst für schuldig befunden an der Sünde der Frau,
+der dies wegen deines Schmuckes widerfuhr\.
+Bitte aber den Herrn Gott,
+dass dir diese Sünde deswegen nicht angerechnet werde\.
+Und wenn du Gott gefallen willst und nicht den Menschen,
+und auf das ewige Leben und die ewige Ruhe blickst und hoffst,
+dann schmücke nicht deine natürliche Schönheit,
+die dir von Gott gegeben ist,
+sondern mache sie durch demütige Vernachlässigung vor den Menschen gering\.
+Ebenso sollst du auch das Haar deines Hauptes nicht wachsen lassen,
+sondern schere es ab;
+du sollst es nicht kämmen und schmücken und es nicht salben,
+damit du nicht solche Frauen über dich bringst,
+die durch Begierde fangen oder gefangen werden\.
+Auch sollst du keine feinen Kleider anlegen und an deinen Füßen keine Schuhe tragen,
+die nach der Begierde der Dummheit gestaltet sind;
+auch sollst du keine kunstvoll gearbeiteten goldenen Ringe an deine Finger stecken;
+denn all dies sind die Listen der Hurerei,
+und alles,
+was du gegen die Natur tust\.
+Denn dir,
+einem gläubigen Mann Gottes,
+ist es nicht erlaubt,
+das Haar deines Hauptes wachsen zu lassen,
+es zu kämmen und zu glätten,
+denn das ist Ausschweifung der Begierde;
+auch sollst du es nicht ordnen und schmücken oder so zurechtmachen,
+dass es schön sei\.
+Und du sollst die Haare deines Bartes nicht zerstören[^bible-e31841c8-13e5-4f7d-ab9e-0614182f4eab] und die natürliche Gestalt deines Gesichtes nicht verändern und anders machen,
+als Gott sie geschaffen hat,
+weil du den Menschen gefallen willst\.
+Wenn du aber dies tust,
+wird deine Seele des Lebens beraubt werden,
+und du wirst vor dem Herrn Gott verworfen werden\.
+Hüte dich also als ein Mann,
+der Gott gefallen will,
+dergleichen zu tun,
+und meide alles,
+was der Herr hasst\.
 
-Ertragt einander[^bible-ac2e6dde-62dc-410f-a5db-57726e7f4ea0], ihr Knechte und Söhne Gottes\. Ein Mann soll seine Frau weder verachten noch geringschätzen und sich auch nicht gegen sie erheben; vielmehr soll er barmherzig sein, und seine Hand soll offen sein zum Geben\. Er soll allein seiner Frau gefallen und sie in Ehren halten; und er soll danach trachten, von ihr allein geliebt zu werden und von keiner anderen\. Schmücke dich nicht, damit eine fremde Frau dich sieht und dich begehrt\. Wenn du aber tatsächlich von ihr gedrängt wirst und mit ihr sündigst, dann wird gewiss von Gott her der Tod im Feuer über dich kommen, jenes Feuer, das ewig bleibt, ein schweres und bitteres Feuer; und du wirst es erkennen und begreifen, wenn du schwer gequält wirst\. Wenn du diese Unreinheit aber nicht tust, sondern sie von dir weist und ihr absagst, dann hast du nur darin gesündigt, dass du durch deinen Schmuck die Frau dazu gebracht hast, von Verlangen nach dir ergriffen zu werden; denn du hast sie, der dies deinetwegen widerfuhr, durch ihr Verlangen zum Ehebruch gebracht\. Doch stehst du nicht in gleicher Weise unter der Sünde, weil du sie nicht begehrt hast; vielmehr wird dir vom Herrn Barmherzigkeit widerfahren, weil du dich ihr nicht ausgeliefert und ihr nicht zugestimmt hast, als sie zu dir sandte, und dich nicht einmal in Gedanken jener Frau zugewandt hast, die von Verlangen nach dir ergriffen war\. Sie aber begegnete dir plötzlich, wurde in ihrem Denken getroffen und sandte zu dir; du aber hast ihr als gottesfürchtiger Mann abgesagt, bist ihr ausgewichen und hast nicht mit ihr gesündigt\. Sie jedoch wurde in ihrem Herzen getroffen, weil du jung, schön und ansehnlich bist, dich geschmückt und sie dazu gebracht hast, dich zu begehren; und du wirst für schuldig befunden an der Sünde der Frau, der dies wegen deines Schmuckes widerfuhr\. Bitte aber den Herrn Gott, dass dir diese Sünde deswegen nicht angerechnet werde\. Und wenn du Gott gefallen willst und nicht den Menschen, und auf das ewige Leben und die ewige Ruhe blickst und hoffst, dann schmücke nicht deine natürliche Schönheit, die dir von Gott gegeben ist, sondern mache sie durch demütige Vernachlässigung vor den Menschen gering\. Ebenso sollst du auch das Haar deines Hauptes nicht wachsen lassen, sondern schere es ab; du sollst es nicht kämmen und schmücken und es nicht salben, damit du nicht solche Frauen über dich bringst, die durch Begierde fangen oder gefangen werden\. Auch sollst du keine feinen Kleider anlegen und an deinen Füßen keine Schuhe tragen, die nach der Begierde der Dummheit gestaltet sind; auch sollst du keine kunstvoll gearbeiteten goldenen Ringe an deine Finger stecken; denn all dies sind die Listen der Hurerei, und alles, was du gegen die Natur tust\. Denn dir, einem gläubigen Mann Gottes, ist es nicht erlaubt, das Haar deines Hauptes wachsen zu lassen, es zu kämmen und zu glätten, denn das ist Ausschweifung der Begierde; auch sollst du es nicht ordnen und schmücken oder so zurechtmachen, dass es schön sei\. Und du sollst die Haare deines Bartes nicht zerstören[^bible-e31841c8-13e5-4f7d-ab9e-0614182f4eab] und die natürliche Gestalt deines Gesichtes nicht verändern und anders machen, als Gott sie geschaffen hat, weil du den Menschen gefallen willst\. Wenn du aber dies tust, wird deine Seele des Lebens beraubt werden, und du wirst vor dem Herrn Gott verworfen werden\. Hüte dich also als ein Mann, der Gott gefallen will, dergleichen zu tun, und meide alles, was der Herr hasst\.
+Und du sollst nicht umherirren,
+nicht untätig auf den Straßen umhergehen und dir das eitle Schauspiel derer ansehen,
+die sich schlecht aufführen;
+sondern sei stets mit deinem Handwerk und deiner Arbeit beschäftigt,
+sei bereit,
+das zu tun,
+was Gott gefällt,
+und sinne beständig über die Worte des Herrn nach\.
+Wenn du aber reich bist und kein Handwerk brauchst,
+von dem du leben müsstest,
+sollst du nicht umherirren und ziellos umhergehen;
+sondern halte dich beständig zu den Gläubigen und zu denen,
+die mit dir eines Sinnes sind,
+und bedenke und lerne mit ihnen die lebendigen Worte\.
+Wenn nicht,
+dann sitz zu Hause und lies das Gesetz,
+das Buch der Könige und die Propheten,
+und das Evangelium als deren Erfüllung\.
 
-Und du sollst nicht umherirren, nicht untätig auf den Straßen umhergehen und dir das eitle Schauspiel derer ansehen, die sich schlecht aufführen; sondern sei stets mit deinem Handwerk und deiner Arbeit beschäftigt, sei bereit, das zu tun, was Gott gefällt, und sinne beständig über die Worte des Herrn nach\. Wenn du aber reich bist und kein Handwerk brauchst, von dem du leben müsstest, sollst du nicht umherirren und ziellos umhergehen; sondern halte dich beständig zu den Gläubigen und zu denen, die mit dir eines Sinnes sind, und bedenke und lerne mit ihnen die lebendigen Worte\. Wenn nicht, dann sitz zu Hause und lies das Gesetz, das Buch der Könige und die Propheten, und das Evangelium als deren Erfüllung\.
+Meide aber alle Bücher der Heiden\.
+Denn was hast du mit fremden Sprüchen oder Gesetzen oder lügenhaften Prophezeiungen zu schaffen,
+die auch die Jungen vom Glauben abbringen?
+Denn was fehlt dir am Wort Gottes,
+dass du dich auf diese Fabeln der Heiden stürzen müsstest?
+Wenn du geschichtliche Erzählungen lesen willst,
+hast du das Buch der Könige;
+wenn du aber weise Männer und Philosophen suchst,
+hast du die Propheten,
+in denen du mehr Weisheit und Einsicht finden wirst als bei den weisen Männern und Philosophen;
+denn sie sind die Worte des einen Gottes,
+des allein Weisen\.
+Und wenn du Lieder wünschst,
+hast du die Psalme Davids;
+wenn du aber vom Anfang der Welt lesen willst,
+hast du die Genesis des großen Mose;
+und wenn du Gesetze und Gebote suchst,
+hast du das herrliche Gesetz des Herrn,
+Gottes\.
+Meide daher alle fremden Schriften,
+die dazu im Gegensatz stehen,
+ganz und gar\.
+Wenn du jedoch das Gesetz liest,
+hüte dich vor der Zweiten Gesetzgebung,
+sodass du sie nur liest;
+die Gebote und Warnungen aber,
+die darin stehen,
+meide sehr,
+damit du dich nicht selbst in die Irre führst und dich mit den unlösbaren Fesseln schwerer Lasten bindest\.
+Wenn du also aus diesem Grund die Zweite Gesetzgebung liest,
+bedenke allein dies:
+dass du Gott erkennst und verherrlichst,
+der uns von all diesen Fesseln befreit hat\.
+Und halte dir dies vor Augen,
+damit du unterscheidest und erkennst,
+was im Gesetz das Gesetz ist und was die Fesseln sind,
+die in der Zweiten Gesetzgebung stehen und nach dem Gesetz denen gegeben wurden,
+die im Gesetz und in der Zweiten Gesetzgebung so viele Sünden in der Wüste begingen\.
+Denn das erste Gesetz ist das,
+was der Herr,
+Gott,
+sprach,
+bevor das Volk das Kalb gemacht und den Götzen gedient hatte;
+es besteht aus den Zehn Worten und den Rechtsbestimmungen\.
+Nachdem sie aber den Götzen gedient hatten,
+legte er ihnen gerechterweise die Fesseln auf,
+wie sie es verdienten\.
+Du aber lege sie dir deshalb nicht auf;
+denn unser Retter kam aus keinem anderen Grund,
+als das Gesetz zu erfüllen und uns von den Fesseln der Zweiten Gesetzgebung zu lösen\.
+Denn er löste von jenen Fesseln und rief so die,
+die an ihn glauben,
+indem er sagte:
+„Kommt zu mir,
+alle,
+die ihr euch müht und mit schweren Lasten beladen seid,
+und ich werde euch Ruhe geben[^bible-4a98916a-c0a8-4ff1-8705-6209167caaa2]\.“
+Lies du daher ohne das Gewicht dieser Lasten das einfache Gesetz,
+das mit dem Evangelium übereinstimmt;
+dazu auch das Evangelium selbst und die Propheten,
+ebenso das Buch der Könige,
+damit du erkennst:
+So viele Könige gerecht waren,
+wurden vom Herrn,
+Gott,
+in dieser Welt gefördert und blieben in Gottes Verheißung des ewigen Lebens;
+die Könige aber,
+die sich von Gott abwandten und den Götzen dienten,
+gingen gerechterweise durch ein rasches Gericht elend zugrunde,
+wurden des Reiches Gottes beraubt und werden statt der Ruhe bestraft\.
+Wenn du also diese Dinge liest,
+wirst du umso mehr im Glauben wachsen und dich bessern\.
+Und danach steh auf,
+geh hinaus zum Marktplatz und bade in einem Bad für Männer,
+aber nicht in einem für Frauen,
+damit du nicht,
+wenn du dich entkleidet und die Nacktheit deines bloßen Leibes gezeigt hast,
+entweder selbst verstrickt wirst oder eine andere drängst,
+sodass sie zu Fall kommt und durch dich verstrickt wird\.
+Hüte dich daher vor diesen Dingen,
+und du wirst vor Gott leben\.
 
-Meide aber alle Bücher der Heiden\. Denn was hast du mit fremden Sprüchen oder Gesetzen oder lügenhaften Prophezeiungen zu schaffen, die auch die Jungen vom Glauben abbringen? Denn was fehlt dir am Wort Gottes, dass du dich auf diese Fabeln der Heiden stürzen müsstest? Wenn du geschichtliche Erzählungen lesen willst, hast du das Buch der Könige; wenn du aber weise Männer und Philosophen suchst, hast du die Propheten, in denen du mehr Weisheit und Einsicht finden wirst als bei den weisen Männern und Philosophen; denn sie sind die Worte des einen Gottes, des allein Weisen\. Und wenn du Lieder wünschst, hast du die Psalme Davids; wenn du aber vom Anfang der Welt lesen willst, hast du die Genesis des großen Mose; und wenn du Gesetze und Gebote suchst, hast du das herrliche Gesetz des Herrn, Gottes\. Meide daher alle fremden Schriften, die dazu im Gegensatz stehen, ganz und gar\. Wenn du jedoch das Gesetz liest, hüte dich vor der Zweiten Gesetzgebung, sodass du sie nur liest; die Gebote und Warnungen aber, die darin stehen, meide sehr, damit du dich nicht selbst in die Irre führst und dich mit den unlösbaren Fesseln schwerer Lasten bindest\. Wenn du also aus diesem Grund die Zweite Gesetzgebung liest, bedenke allein dies: dass du Gott erkennst und verherrlichst, der uns von all diesen Fesseln befreit hat\. Und halte dir dies vor Augen, damit du unterscheidest und erkennst, was im Gesetz das Gesetz ist und was die Fesseln sind, die in der Zweiten Gesetzgebung stehen und nach dem Gesetz denen gegeben wurden, die im Gesetz und in der Zweiten Gesetzgebung so viele Sünden in der Wüste begingen\. Denn das erste Gesetz ist das, was der Herr, Gott, sprach, bevor das Volk das Kalb gemacht und den Götzen gedient hatte; es besteht aus den Zehn Worten und den Rechtsbestimmungen\. Nachdem sie aber den Götzen gedient hatten, legte er ihnen gerechterweise die Fesseln auf, wie sie es verdienten\. Du aber lege sie dir deshalb nicht auf; denn unser Retter kam aus keinem anderen Grund, als das Gesetz zu erfüllen und uns von den Fesseln der Zweiten Gesetzgebung zu lösen\. Denn er löste von jenen Fesseln und rief so die, die an ihn glauben, indem er sagte: „Kommt zu mir, alle, die ihr euch müht und mit schweren Lasten beladen seid, und ich werde euch Ruhe geben[^bible-4a98916a-c0a8-4ff1-8705-6209167caaa2]\.“ Lies du daher ohne das Gewicht dieser Lasten das einfache Gesetz, das mit dem Evangelium übereinstimmt; dazu auch das Evangelium selbst und die Propheten, ebenso das Buch der Könige, damit du erkennst: So viele Könige gerecht waren, wurden vom Herrn, Gott, in dieser Welt gefördert und blieben in Gottes Verheißung des ewigen Lebens; die Könige aber, die sich von Gott abwandten und den Götzen dienten, gingen gerechterweise durch ein rasches Gericht elend zugrunde, wurden des Reiches Gottes beraubt und werden statt der Ruhe bestraft\. Wenn du also diese Dinge liest, wirst du umso mehr im Glauben wachsen und dich bessern\. Und danach steh auf, geh hinaus zum Marktplatz und bade in einem Bad für Männer, aber nicht in einem für Frauen, damit du nicht, wenn du dich entkleidet und die Nacktheit deines bloßen Leibes gezeigt hast, entweder selbst verstrickt wirst oder eine andere drängst, sodass sie zu Fall kommt und durch dich verstrickt wird\. Hüte dich daher vor diesen Dingen, und du wirst vor Gott leben\.
+Lerne also,
+was das heilige Wort in der Weisheit sagt:
+„Mein Sohn,
+bewahre meine Worte,
+und meine Gebote verbirg in dir\.
+Mein Sohn,
+ehre den Herrn,
+und du wirst gestärkt werden;
+außer ihm sollst du keinen anderen fürchten\.
+Bewahre meine Gebote und lebe,
+und hüte meine Gesetze wie deinen Augapfel\.
+Binde sie an deine Finger und schreibe sie auf die Tafeln deines Herzens\.
+Und sprich zur Weisheit:
+‚Du bist meine Schwester‘,
+und mache deiner Seele die Einsicht vertraut,
+damit sie,
+die Weisheit,
+dich bewahre vor einer fremden und ehebrecherischen Frau,
+deren Worte schmeichlerisch sind\.
+Denn vom Fenster ihres Hauses und von der Vorhalle blickte sie hinaus auf die Straßen;
+und wen immer sie unter den jungen Leuten sah,
+der einfältig war und keine Einsicht hatte,
+der auf der Straße nahe den Ecken der Wege ihres Hauses vorüberging und in der Finsternis redete,
+am Abend und im Dunkel der stillen Nacht:
+Da ging die Frau hinaus und begegnete ihm,
+im Gewand einer Hure,
+das das Herz junger Leute erregt\.
+Sie ist zügellos,
+frech und ausschweifend;
+ihre Füße können in ihrem Haus nicht ruhig bleiben\.
+Bald streift sie draußen umher,
+bald lauert sie auf den Straßen und an den Ecken\.
+Und sie ergriff ihn,
+küsste ihn,
+machte ihr Gesicht schamlos und sagte zu ihm:
+‚Opfer habe ich,
+nämlich Friedensopfer;
+heute erfülle ich meine Gelübde\.
+Darum bin ich herausgekommen,
+dir entgegen;
+denn ich hielt Ausschau nach dir,
+und ich habe dich gefunden\.
+Ich habe mein Lager mit einer Decke bereitet und es mit Teppichen aus Ägypten belegt\.
+Ich habe Safran auf mein Lager gestreut und Zimt in mein Haus\.
+Komm,
+lass uns bis zum Morgen an der Liebe Freude haben,
+und lass uns einander mit Begierde umfangen\.
+Denn mein Mann ist nicht zu Hause;
+er ist auf eine weite Reise gegangen und hat einen Beutel Geld mitgenommen;
+erst nach vielen Tagen wird er in sein Haus kommen\.‘
+Und sie betörte ihn mit ihren vielen Worten,
+und mit der Schmeichelei ihrer Lippen zog sie ihn zu sich\.
+Und er ging ihr nach wie ein Einfältiger,
+wie ein Rind,
+das zur Schlachtung geht,
+wie ein Hund an die Fessel und wie ein Hirsch,
+den ein Pfeil getroffen hat;
+er eilt wie ein Vogel zur Schlinge,
+und er wusste nicht,
+dass er zum Tod seiner Seele ging\.
+Nun also,
+höre mich,
+mein Sohn,
+und achte auf die Worte meines Mundes\.
+Dein Herz neige sich nicht zu ihren Wegen;
+nähere dich nicht der Tür ihres Hauses,
+und verirre dich nicht auf ihrem Pfad\.
+Denn viele Erschlagene hat sie zu Fall gebracht,
+und die von ihr Erschlagenen sind ohne Zahl\.
+Die Wege ihres Hauses sind die Wege des Scheol;
+sie führen hinab in die Kammern des Todes[^bible-e6b24ebb-4fa8-4730-8656-80c696bea395]\.“
+„Mein Sohn,
+höre auf meine Weisheit,
+und neige deinen Sinn meiner Einsicht zu,
+damit mein Rat dich bewahre und das Wissen meiner Lippen,
+das ich dir gebiete\.
+Denn die Lippen einer ehebrecherischen Frau träufeln Honig,
+und mit ihren Schmeicheleien versüßt sie deinen Gaumen;
+doch deren Ausgang ist bitterer als Wermut und schärfer als ein zweischneidiges Schwert\.
+Denn die Füße einer törichten Frau führen die,
+die ihr anhangen,
+hinab in die Kammern des Scheol;
+denn für ihre Schritte gibt es keinen Bestand und kein Wandeln im Land des Lebens[^bible-3e8a5eec-2870-487c-9955-b5d351a3154d]\.“
 
-Lerne also, was das heilige Wort in der Weisheit sagt: „Mein Sohn, bewahre meine Worte, und meine Gebote verbirg in dir\. Mein Sohn, ehre den Herrn, und du wirst gestärkt werden; außer ihm sollst du keinen anderen fürchten\. Bewahre meine Gebote und lebe, und hüte meine Gesetze wie deinen Augapfel\. Binde sie an deine Finger und schreibe sie auf die Tafeln deines Herzens\. Und sprich zur Weisheit: ‚Du bist meine Schwester‘, und mache deiner Seele die Einsicht vertraut, damit sie, die Weisheit, dich bewahre vor einer fremden und ehebrecherischen Frau, deren Worte schmeichlerisch sind\. Denn vom Fenster ihres Hauses und von der Vorhalle blickte sie hinaus auf die Straßen; und wen immer sie unter den jungen Leuten sah, der einfältig war und keine Einsicht hatte, der auf der Straße nahe den Ecken der Wege ihres Hauses vorüberging und in der Finsternis redete, am Abend und im Dunkel der stillen Nacht: Da ging die Frau hinaus und begegnete ihm, im Gewand einer Hure, das das Herz junger Leute erregt\. Sie ist zügellos, frech und ausschweifend; ihre Füße können in ihrem Haus nicht ruhig bleiben\. Bald streift sie draußen umher, bald lauert sie auf den Straßen und an den Ecken\. Und sie ergriff ihn, küsste ihn, machte ihr Gesicht schamlos und sagte zu ihm: ‚Opfer habe ich, nämlich Friedensopfer; heute erfülle ich meine Gelübde\. Darum bin ich herausgekommen, dir entgegen; denn ich hielt Ausschau nach dir, und ich habe dich gefunden\. Ich habe mein Lager mit einer Decke bereitet und es mit Teppichen aus Ägypten belegt\. Ich habe Safran auf mein Lager gestreut und Zimt in mein Haus\. Komm, lass uns bis zum Morgen an der Liebe Freude haben, und lass uns einander mit Begierde umfangen\. Denn mein Mann ist nicht zu Hause; er ist auf eine weite Reise gegangen und hat einen Beutel Geld mitgenommen; erst nach vielen Tagen wird er in sein Haus kommen\.‘ Und sie betörte ihn mit ihren vielen Worten, und mit der Schmeichelei ihrer Lippen zog sie ihn zu sich\. Und er ging ihr nach wie ein Einfältiger, wie ein Rind, das zur Schlachtung geht, wie ein Hund an die Fessel und wie ein Hirsch, den ein Pfeil getroffen hat; er eilt wie ein Vogel zur Schlinge, und er wusste nicht, dass er zum Tod seiner Seele ging\. Nun also, höre mich, mein Sohn, und achte auf die Worte meines Mundes\. Dein Herz neige sich nicht zu ihren Wegen; nähere dich nicht der Tür ihres Hauses, und verirre dich nicht auf ihrem Pfad\. Denn viele Erschlagene hat sie zu Fall gebracht, und die von ihr Erschlagenen sind ohne Zahl\. Die Wege ihres Hauses sind die Wege des Scheol; sie führen hinab in die Kammern des Todes[^bible-e6b24ebb-4fa8-4730-8656-80c696bea395]\.“ „Mein Sohn, höre auf meine Weisheit, und neige deinen Sinn meiner Einsicht zu, damit mein Rat dich bewahre und das Wissen meiner Lippen, das ich dir gebiete\. Denn die Lippen einer ehebrecherischen Frau träufeln Honig, und mit ihren Schmeicheleien versüßt sie deinen Gaumen; doch deren Ausgang ist bitterer als Wermut und schärfer als ein zweischneidiges Schwert\. Denn die Füße einer törichten Frau führen die, die ihr anhangen, hinab in die Kammern des Scheol; denn für ihre Schritte gibt es keinen Bestand und kein Wandeln im Land des Lebens[^bible-3e8a5eec-2870-487c-9955-b5d351a3154d]\.“
-
-Denn ihre Pfade führen in die Irre, und man kennt sie nicht\. Nun also, mein Sohn, höre auf mich, und weiche nicht ab von den Worten meines Mundes\. Halte deinen Weg fern von ihr und nähere dich nicht der Tür ihres Hauses, damit du dein Leben nicht anderen gibst und deine Jahre denen, die kein Erbarmen haben; damit Fremde sich nicht an deiner Kraft sättigen und dein Ertrag nicht in die Häuser anderer kommt; und damit dich im Alter keine Reue erfasst, wenn das Fleisch deines Leibes verzehrt ist, und du sagst: „Warum habe ich nur Zucht gehasst und mein Herz die Zurechtweisung verworfen? Warum habe ich nicht auf die Stimme meiner Lehrer gehört und denen, die mich mahnten, mein Ohr nicht geneigt? Ich bin beinahe in alles Böse geraten\.[^bible-b07cbd12-e58a-4d65-a37a-cabc82102854]“ Und damit wir die Mahnung unserer Lehre nicht mit vielen Worten in die Länge ziehen: Falls wir etwas ausgelassen haben, wählt ihr als Weise selbst aus den heiligen Schriften und aus dem Evangelium Gottes das Gute, damit ihr gefestigt werdet, alles Böse von euch ablegt und verwerft und im ewigen Leben bei Gott untadelig erfunden werdet\.
+Denn ihre Pfade führen in die Irre,
+und man kennt sie nicht\.
+Nun also,
+mein Sohn,
+höre auf mich,
+und weiche nicht ab von den Worten meines Mundes\.
+Halte deinen Weg fern von ihr und nähere dich nicht der Tür ihres Hauses,
+damit du dein Leben nicht anderen gibst und deine Jahre denen,
+die kein Erbarmen haben;
+damit Fremde sich nicht an deiner Kraft sättigen und dein Ertrag nicht in die Häuser anderer kommt;
+und damit dich im Alter keine Reue erfasst,
+wenn das Fleisch deines Leibes verzehrt ist,
+und du sagst:
+„Warum habe ich nur Zucht gehasst und mein Herz die Zurechtweisung verworfen?
+Warum habe ich nicht auf die Stimme meiner Lehrer gehört und denen,
+die mich mahnten,
+mein Ohr nicht geneigt?
+Ich bin beinahe in alles Böse geraten\.[^bible-b07cbd12-e58a-4d65-a37a-cabc82102854]“ Und damit wir die Mahnung unserer Lehre nicht mit vielen Worten in die Länge ziehen:
+Falls wir etwas ausgelassen haben,
+wählt ihr als Weise selbst aus den heiligen Schriften und aus dem Evangelium Gottes das Gute,
+damit ihr gefestigt werdet,
+alles Böse von euch ablegt und verwerft und im ewigen Leben bei Gott untadelig erfunden werdet\.
 
 ## Bibelverweise
 

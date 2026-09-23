@@ -7,8 +7,159 @@ Autor: Nemesius von Emesa
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/nemesius-von-emesa/ueber-die-natur-des-menschen#kapitel-1a737cac-1bc8-49df-6103-08ded609d8f2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:bc253d6ca5b1200a0b9e7fa2a5c6e2dc65a46f190734942c23e5c836aa34f981`
+Was also ist die Entscheidung?
+Ist sie etwa das Freiwillige,
+weil alles,
+was aufgrund einer Entscheidung geschieht,
+auch freiwillig ist?
+Doch die Umkehrung gilt nicht,
+wie sie gelten würde,
+wenn Freiwilliges und Entscheidung dasselbe wären\.
+Tatsächlich finden wir das Freiwillige weiter gefasst\.
+Denn jede Entscheidung ist freiwillig;
+aber nicht alles Freiwillige geschieht durch Entscheidung\.
+Auch Kinder und vernunftlose Wesen handeln zwar freiwillig,
+doch nicht mit Entscheidung\.
+Und was wir aus Zorn tun,
+ohne vorher überlegt zu haben,
+das tun wir zwar freiwillig,
+aber nicht aufgrund einer Entscheidung\.
+Ebenso kommt plötzlich ein Freund zu uns;
+wir freuen uns zwar freiwillig darüber,
+aber nicht,
+weil wir es zuvor entschieden hätten\.
+Und wer unverhofft einen Schatz findet,
+stößt zwar freiwillig auf einen Glücksfund,
+aber nicht,
+weil er sich dafür entschieden hätte\.
+Aus allem ergibt sich also,
+dass das Freiwillige nicht dasselbe ist wie die Entscheidung\.
+Ist die Entscheidung also ein Begehren?
+Auch das nicht\.
+Denn das Begehren gliedert sich in drei Arten:
+Begierde,
+Zorn und Wollen\.
+Dass die Entscheidung weder Zorn noch Begierde ist,
+zeigt sich daran,
+dass die Menschen mit den vernunftlosen Wesen nicht an der Entscheidung teilhaben,
+wohl aber an Begierde und Zorn\.
+Wenn wir nämlich in diesen Dingen mit ihnen gemeinsam haben,
+uns aber in der Entscheidung unterscheiden,
+ist klar,
+dass die Entscheidung das eine ist,
+Zorn und Begierde aber etwas anderes\.
+Das zeigt auch der Unbeherrschte:
+Er wird zwar von der Begierde beherrscht und handelt ihr entsprechend,
+doch nicht zugleich aufgrund einer Entscheidung;
+denn bei ihm tritt die Entscheidung der Begierde entgegen\.
+Wären sie dasselbe,
+würden sie nicht miteinander streiten\.
+Auch der Sich\-Beherrschende,
+der aufgrund einer Entscheidung handelt,
+handelt nicht nach der Begierde\.
+Dass die Entscheidung auch nicht Wollen ist,
+wird daraus klar:
+Nicht bei allem,
+wozu das Sich\-Entscheiden passt,
+passt auch das Wollen\.
+Wir sagen nämlich,
+jemand wolle gesund sein;
+dass er sich entscheide,
+gesund zu sein,
+würde niemand sagen\.
+Auch sagt man,
+jemand wolle reich sein;
+nicht aber,
+er entscheide sich,
+reich zu sein\.
+Ferner bezieht sich das Wollen auch auf Unmögliches,
+das Sich\-Entscheiden aber nur auf das,
+was in unserer Macht steht\.
+So sagen wir etwa:
+„Ich will unsterblich werden\.“
+Wir sagen aber nicht:
+„Ich entscheide mich,
+unsterblich zu werden\.“
 
-Was also ist die Entscheidung? Ist sie etwa das Freiwillige, weil alles, was aufgrund einer Entscheidung geschieht, auch freiwillig ist? Doch die Umkehrung gilt nicht, wie sie gelten würde, wenn Freiwilliges und Entscheidung dasselbe wären\. Tatsächlich finden wir das Freiwillige weiter gefasst\. Denn jede Entscheidung ist freiwillig; aber nicht alles Freiwillige geschieht durch Entscheidung\. Auch Kinder und vernunftlose Wesen handeln zwar freiwillig, doch nicht mit Entscheidung\. Und was wir aus Zorn tun, ohne vorher überlegt zu haben, das tun wir zwar freiwillig, aber nicht aufgrund einer Entscheidung\. Ebenso kommt plötzlich ein Freund zu uns; wir freuen uns zwar freiwillig darüber, aber nicht, weil wir es zuvor entschieden hätten\. Und wer unverhofft einen Schatz findet, stößt zwar freiwillig auf einen Glücksfund, aber nicht, weil er sich dafür entschieden hätte\. Aus allem ergibt sich also, dass das Freiwillige nicht dasselbe ist wie die Entscheidung\. Ist die Entscheidung also ein Begehren? Auch das nicht\. Denn das Begehren gliedert sich in drei Arten: Begierde, Zorn und Wollen\. Dass die Entscheidung weder Zorn noch Begierde ist, zeigt sich daran, dass die Menschen mit den vernunftlosen Wesen nicht an der Entscheidung teilhaben, wohl aber an Begierde und Zorn\. Wenn wir nämlich in diesen Dingen mit ihnen gemeinsam haben, uns aber in der Entscheidung unterscheiden, ist klar, dass die Entscheidung das eine ist, Zorn und Begierde aber etwas anderes\. Das zeigt auch der Unbeherrschte: Er wird zwar von der Begierde beherrscht und handelt ihr entsprechend, doch nicht zugleich aufgrund einer Entscheidung; denn bei ihm tritt die Entscheidung der Begierde entgegen\. Wären sie dasselbe, würden sie nicht miteinander streiten\. Auch der Sich\-Beherrschende, der aufgrund einer Entscheidung handelt, handelt nicht nach der Begierde\. Dass die Entscheidung auch nicht Wollen ist, wird daraus klar: Nicht bei allem, wozu das Sich\-Entscheiden passt, passt auch das Wollen\. Wir sagen nämlich, jemand wolle gesund sein; dass er sich entscheide, gesund zu sein, würde niemand sagen\. Auch sagt man, jemand wolle reich sein; nicht aber, er entscheide sich, reich zu sein\. Ferner bezieht sich das Wollen auch auf Unmögliches, das Sich\-Entscheiden aber nur auf das, was in unserer Macht steht\. So sagen wir etwa: „Ich will unsterblich werden\.“ Wir sagen aber nicht: „Ich entscheide mich, unsterblich zu werden\.“
-
-Denn das Wollen richtet sich auf das Ziel, die Entscheidung aber auf das, was auf das Ziel hinführt, nach demselben Verhältnis, in dem das Gewollte zu dem steht, worüber beraten wird\. Gewollt ist nämlich das Ziel; Gegenstand der Beratung ist dagegen das, was auf das Ziel hinführt\. Ferner entscheiden wir uns nur für das, von dem wir meinen, es könne durch uns zustande kommen; wir wollen aber auch Dinge, die nicht durch uns geschehen können, etwa dass ein Feldherr siegt\. Dass die Entscheidung weder Zorn noch Begierde noch Wollen ist, ist hinreichend bewiesen; dass sie auch keine Meinung ist, wird sowohl durch dieselben Beweise als auch durch andere deutlich\. Denn die Meinung betrifft nicht nur das, was von uns abhängt, sondern auch das Ewige\. Ferner nennen wir eine Meinung wahr oder falsch; eine Entscheidung aber nennen wir nicht wahr oder falsch\. Und die Meinung betrifft das Allgemeine, die Entscheidung dagegen das Einzelne; denn die Entscheidung bezieht sich auf das, was zu tun ist, und dies ist jeweils einzeln\. Aber auch Beratung ist die Entscheidung nicht, etwa ein Überlegen\. Beratung ist nämlich eine Untersuchung über das, was von einem selbst getan werden kann\. Wählbar aber ist, was in der Beratung vorgezogen worden ist\. Daher ist klar: Die Beratung betrifft das, was noch untersucht wird; die Entscheidung aber das, was bereits vorgezogen worden ist\. Was die Entscheidung also nicht ist, ist gesagt; was sie aber ist, wollen wir nun sagen\. Sie ist etwas Zusammengesetztes aus Überlegung, Urteil und Streben: weder Streben für sich allein noch Urteil noch Überlegung allein, sondern etwas, das aus diesen zusammengesetzt ist\. Denn wie wir sagen, das Lebewesen bestehe aus Seele und Körper, das Lebewesen selbst sei aber weder Körper für sich allein noch Seele allein, sondern beides zusammen, so gilt es auch für die Entscheidung\. Dass sie also eine Art Überlegung und Beratung mit Beurteilung ist, auch wenn sie nicht die Überlegung selbst ist, wird schon aus der Wortbildung deutlich: Wählbar im Sinn der Entscheidung ist nämlich, was als eines vor einem anderen zu wählen ist\. Niemand zieht aber etwas vor, ohne beraten zu haben, und niemand wählt, ohne geurteilt zu haben\. Da wir uns jedoch nicht bemühen, alles, was uns gut erscheint, auch ins Werk zu setzen, wird das in der Beratung Vorgezogene erst dann zur Entscheidung und zum Wählbaren, wenn das Streben hinzukommt\. Notwendig betrifft also die Entscheidung dasselbe wie auch die Beratung\. Aus alledem ergibt sich, dass die Entscheidung ein beratendes Streben nach dem ist, was von uns abhängt, oder eine strebende Beratung über das, was von uns abhängt; denn indem wir uns entscheiden, streben wir nach dem, was in der Beratung vorgezogen worden ist\. Da wir aber gesagt haben, dass die Entscheidung dasselbe betrifft wie die Beratung, wollen wir nun erläutern, womit sich die Beratung befasst und worüber wir beraten\.
+Denn das Wollen richtet sich auf das Ziel,
+die Entscheidung aber auf das,
+was auf das Ziel hinführt,
+nach demselben Verhältnis,
+in dem das Gewollte zu dem steht,
+worüber beraten wird\.
+Gewollt ist nämlich das Ziel;
+Gegenstand der Beratung ist dagegen das,
+was auf das Ziel hinführt\.
+Ferner entscheiden wir uns nur für das,
+von dem wir meinen,
+es könne durch uns zustande kommen;
+wir wollen aber auch Dinge,
+die nicht durch uns geschehen können,
+etwa dass ein Feldherr siegt\.
+Dass die Entscheidung weder Zorn noch Begierde noch Wollen ist,
+ist hinreichend bewiesen;
+dass sie auch keine Meinung ist,
+wird sowohl durch dieselben Beweise als auch durch andere deutlich\.
+Denn die Meinung betrifft nicht nur das,
+was von uns abhängt,
+sondern auch das Ewige\.
+Ferner nennen wir eine Meinung wahr oder falsch;
+eine Entscheidung aber nennen wir nicht wahr oder falsch\.
+Und die Meinung betrifft das Allgemeine,
+die Entscheidung dagegen das Einzelne;
+denn die Entscheidung bezieht sich auf das,
+was zu tun ist,
+und dies ist jeweils einzeln\.
+Aber auch Beratung ist die Entscheidung nicht,
+etwa ein Überlegen\.
+Beratung ist nämlich eine Untersuchung über das,
+was von einem selbst getan werden kann\.
+Wählbar aber ist,
+was in der Beratung vorgezogen worden ist\.
+Daher ist klar:
+Die Beratung betrifft das,
+was noch untersucht wird;
+die Entscheidung aber das,
+was bereits vorgezogen worden ist\.
+Was die Entscheidung also nicht ist,
+ist gesagt;
+was sie aber ist,
+wollen wir nun sagen\.
+Sie ist etwas Zusammengesetztes aus Überlegung,
+Urteil und Streben:
+weder Streben für sich allein noch Urteil noch Überlegung allein,
+sondern etwas,
+das aus diesen zusammengesetzt ist\.
+Denn wie wir sagen,
+das Lebewesen bestehe aus Seele und Körper,
+das Lebewesen selbst sei aber weder Körper für sich allein noch Seele allein,
+sondern beides zusammen,
+so gilt es auch für die Entscheidung\.
+Dass sie also eine Art Überlegung und Beratung mit Beurteilung ist,
+auch wenn sie nicht die Überlegung selbst ist,
+wird schon aus der Wortbildung deutlich:
+Wählbar im Sinn der Entscheidung ist nämlich,
+was als eines vor einem anderen zu wählen ist\.
+Niemand zieht aber etwas vor,
+ohne beraten zu haben,
+und niemand wählt,
+ohne geurteilt zu haben\.
+Da wir uns jedoch nicht bemühen,
+alles,
+was uns gut erscheint,
+auch ins Werk zu setzen,
+wird das in der Beratung Vorgezogene erst dann zur Entscheidung und zum Wählbaren,
+wenn das Streben hinzukommt\.
+Notwendig betrifft also die Entscheidung dasselbe wie auch die Beratung\.
+Aus alledem ergibt sich,
+dass die Entscheidung ein beratendes Streben nach dem ist,
+was von uns abhängt,
+oder eine strebende Beratung über das,
+was von uns abhängt;
+denn indem wir uns entscheiden,
+streben wir nach dem,
+was in der Beratung vorgezogen worden ist\.
+Da wir aber gesagt haben,
+dass die Entscheidung dasselbe betrifft wie die Beratung,
+wollen wir nun erläutern,
+womit sich die Beratung befasst und worüber wir beraten\.

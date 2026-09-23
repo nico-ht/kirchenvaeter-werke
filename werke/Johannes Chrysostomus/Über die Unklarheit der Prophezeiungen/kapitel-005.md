@@ -7,11 +7,164 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-die-unklarheit-der-prophezeiungen#kapitel-89b33856-0c82-4afd-73bf-08df05e0ddd9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:6a21eb55489acb29479334a2ada5befd8c07a30a26883f7096ce5e8996d71545`
+Denkt an unser Versprechen\.
+Gerade deshalb erinnere ich euch immer wieder daran,
+damit ihr,
+wenn ich schließlich die Folgerung ziehe,
+nicht vergesst,
+was wir uns zu Beginn dieses Abschnitts vorgenommen haben\.
+Was war das?
+Wenn die Juden gewusst hätten,
+dass sie das Unheil treffen würde,
+das über sie gekommen ist,
+und damit meine ich ihre gegenwärtige Not,
+hätten sie die Bücher selbst zerfetzt und nicht einmal die heiligen Schriften verschont\.
+Kehren wir nun zur Erzählung zurück\.
+Als Jeremia dies hörte,
+rief er seinen Schüler Baruch,
+den Sohn Nerijas,
+und sagte zu ihm:
+„Schreibe in ein Buch alles Unheil,
+das über sie kommen wird\.[^bible-717d4f54-ac9c-4b34-a505-4197239dbd20]“ Was ist geschehen?
+Du selbst hast von Gott den Auftrag erhalten und schickst deinen Schüler?
+Hast du etwa den Mut verloren?
+Bist du in Sorge?
+Fürchtest du dich?
+Wenn du dich fürchtest,
+wie soll dein Schüler es dann wagen?
+Doch nichts von alledem trifft zu,
+denn der Grund wird gleich genannt\.
+Nachdem er gesagt hatte:
+„Schreibe es auf und lies es vor“,
+fügte er hinzu:
+„Ich werde nämlich im Gefängnis festgehalten\.[^bible-f7e34fd8-8500-48fb-8c93-ab68d4ce1dee]“ Was für eine Seelengröße\!
+Er saß im Gefängnis und ließ dennoch nicht von der Prophetie ab\.
+Achten wir auf den Mut dieses Gerechten und auf die Weisheit seiner Haltung\.
+Er sagte nicht zu sich selbst:
+„So viel Unheil ist mir wegen dieses Freimuts widerfahren\.
+Unzählige Worte habe ich aufgewandt,
+ohne etwas zu erreichen oder irgendeinen Gewinn daraus zu ziehen,
+außer dass ich gefesselt wurde\.
+Gott hat mich noch immer nicht aus den Fesseln befreit,
+und nun schickt er mich erneut zu diesen wilden Tieren?“
+All das sagte und dachte er nicht etwa\.
+Er hatte nur eines im Blick:
+Der Befehl des Herrn musste ausgeführt werden\.
+Weil er selbst dazu nicht imstande war,
+sorgte er dafür,
+dass sein Schüler es tat\.
+„Lies es ihnen vor“,
+sagte er,
+„und verkünde ihnen all das Unheil\.
+Ich werde nämlich im Gefängnis festgehalten\.[^bible-97cf97b7-6261-495c-b671-ba02a5b913ae]“ So sprach Jeremia,
+und Baruch schrieb es in ein Buch\.[^bible-7b532a16-04e2-4658-a242-5c3e49aa0412]
+Als dies geschah,
+war eine Zeit des Fastens\.[^bible-3d81cc0f-f5a2-4f9f-909e-79776ee047a6]
+Ein Fest stand bevor und rief alle in die Hauptstadt\.
+Sie mussten sich gemeinsam versammeln,
+denn es sollte eine Zusammenkunft wegen dringender Angelegenheiten stattfinden\.
+Baruch trat vor die führenden Männer und las ihnen alle diese Worte vor\.[^bible-02564a9f-9f2a-4a04-8f76-188e4393d957]
+Er nannte auch den Grund:
+„Vielleicht findet euer Erbarmungsgesuch vor dem Herrn Gehör\.[^bible-09e1ea11-809c-4ebe-8f43-0657130f182e]“ Sie sollten nicht meinen,
+er spreche als Ankläger,
+sondern erkennen,
+dass er gekommen war,
+um sie zu heilen,
+und so milder gestimmt werden\.
+Was taten sie nun?
+Sie hätten danken,
+loben und staunen müssen\.
+Doch nichts davon taten sie\.
+Stattdessen gingen sie fort,
+berichteten dem König,
+was in dem Buch geschrieben stand,
+und verwahrten das Buch im Haus Elischamas\.[^bible-1bbd678f-2727-4b10-8211-84e872459dd1]
 
-Denkt an unser Versprechen\. Gerade deshalb erinnere ich euch immer wieder daran, damit ihr, wenn ich schließlich die Folgerung ziehe, nicht vergesst, was wir uns zu Beginn dieses Abschnitts vorgenommen haben\. Was war das? Wenn die Juden gewusst hätten, dass sie das Unheil treffen würde, das über sie gekommen ist, und damit meine ich ihre gegenwärtige Not, hätten sie die Bücher selbst zerfetzt und nicht einmal die heiligen Schriften verschont\. Kehren wir nun zur Erzählung zurück\. Als Jeremia dies hörte, rief er seinen Schüler Baruch, den Sohn Nerijas, und sagte zu ihm: „Schreibe in ein Buch alles Unheil, das über sie kommen wird\.[^bible-717d4f54-ac9c-4b34-a505-4197239dbd20]“ Was ist geschehen? Du selbst hast von Gott den Auftrag erhalten und schickst deinen Schüler? Hast du etwa den Mut verloren? Bist du in Sorge? Fürchtest du dich? Wenn du dich fürchtest, wie soll dein Schüler es dann wagen? Doch nichts von alledem trifft zu, denn der Grund wird gleich genannt\. Nachdem er gesagt hatte: „Schreibe es auf und lies es vor“, fügte er hinzu: „Ich werde nämlich im Gefängnis festgehalten\.[^bible-f7e34fd8-8500-48fb-8c93-ab68d4ce1dee]“ Was für eine Seelengröße\! Er saß im Gefängnis und ließ dennoch nicht von der Prophetie ab\. Achten wir auf den Mut dieses Gerechten und auf die Weisheit seiner Haltung\. Er sagte nicht zu sich selbst: „So viel Unheil ist mir wegen dieses Freimuts widerfahren\. Unzählige Worte habe ich aufgewandt, ohne etwas zu erreichen oder irgendeinen Gewinn daraus zu ziehen, außer dass ich gefesselt wurde\. Gott hat mich noch immer nicht aus den Fesseln befreit, und nun schickt er mich erneut zu diesen wilden Tieren?“ All das sagte und dachte er nicht etwa\. Er hatte nur eines im Blick: Der Befehl des Herrn musste ausgeführt werden\. Weil er selbst dazu nicht imstande war, sorgte er dafür, dass sein Schüler es tat\. „Lies es ihnen vor“, sagte er, „und verkünde ihnen all das Unheil\. Ich werde nämlich im Gefängnis festgehalten\.[^bible-97cf97b7-6261-495c-b671-ba02a5b913ae]“ So sprach Jeremia, und Baruch schrieb es in ein Buch\.[^bible-7b532a16-04e2-4658-a242-5c3e49aa0412] Als dies geschah, war eine Zeit des Fastens\.[^bible-3d81cc0f-f5a2-4f9f-909e-79776ee047a6] Ein Fest stand bevor und rief alle in die Hauptstadt\. Sie mussten sich gemeinsam versammeln, denn es sollte eine Zusammenkunft wegen dringender Angelegenheiten stattfinden\. Baruch trat vor die führenden Männer und las ihnen alle diese Worte vor\.[^bible-02564a9f-9f2a-4a04-8f76-188e4393d957] Er nannte auch den Grund: „Vielleicht findet euer Erbarmungsgesuch vor dem Herrn Gehör\.[^bible-09e1ea11-809c-4ebe-8f43-0657130f182e]“ Sie sollten nicht meinen, er spreche als Ankläger, sondern erkennen, dass er gekommen war, um sie zu heilen, und so milder gestimmt werden\. Was taten sie nun? Sie hätten danken, loben und staunen müssen\. Doch nichts davon taten sie\. Stattdessen gingen sie fort, berichteten dem König, was in dem Buch geschrieben stand, und verwahrten das Buch im Haus Elischamas\.[^bible-1bbd678f-2727-4b10-8211-84e872459dd1]
-
-Der König, so heißt es, sandte Jehudi, einen der Männer, die bei ihm standen, und befahl, das Buch zu holen\.[^bible-924c3b70-84de-4a4a-a40d-3d02ac9b2cfb] Er saß im Winterhaus; es war nämlich der neunte Monat, also November\.[^bible-5a024a01-983a-4d3b-876c-9fd6428b026f] Die Schrift bezeichnet ihn als neunten Monat, weil sie vom Xanthikos an zählt\. Auch das muss man genau wissen\. Würde sie nämlich vom Dios an zählen, wäre damals nicht Winter gewesen\. Warum also wird auch dies erwähnt? Was folgt, wird es dir deutlich zeigen\. Vor dem König stand eine Feuerschale, ein Kohlenfeuer, wie es heißt, denn es war kalt\.[^bible-5a024a01-983a-4d3b-876c-9fd6428b026f] Seht ihr, wie die göttliche Schrift nichts auslässt? Vor ihm stand also ein Kohlenfeuer, und ringsum standen die Satrapen\.[^bible-5a024a01-983a-4d3b-876c-9fd6428b026f] Das Buch wurde gebracht, erfüllt von unzähligen guten Dingen, denn die Ankündigung des Unheils sollte das Unheil abwenden, und man las daraus vor\. Ich bitte euch, denkt an das Versprechen\. Nachdem der Vorleser drei Seiten gelesen hatte, nahm der König das Messer, schnitt die drei gelesenen Seiten ab und warf sie in die Feuerschale\. Das tat er, bis das ganze Buch aufgebraucht war\.[^bible-814b4826-4917-40c0-ba2d-a2461aa75b42] Seht ihr, wie sie nicht einmal die Bücher schonen? Wie sie selbst vor den göttlichen Schriftzeichen nicht haltmachen? Weil das Buch von der Gefangenschaft Jerusalems handelte, zerschnitt er es; und weil er den Propheten nicht fand, ließ er seinen Zorn an der Schrift aus\. Wenn er schon gegen Lebloses derart wütete, was hätte er dann erst dem lebenden Menschen angetan, wenn er ihn gefunden hätte? Es war wie bei den grimmigen wilden Tieren: Wenn sie diejenigen packen, die mit ihnen kämpfen, diese ihnen aber entkommen und dabei die Felle, die sie tragen, in ihrem Maul zurücklassen, zerbeißen die Tiere fortan die Felle und besänftigen so ihren Zorn\. Genauso handelte auch der König\. Er fand den Mann nicht, der das Buch hatte, und zerschnitt deshalb das Buch selbst\. Er zerschnitt es nicht nur, sondern warf es auch in die Feuerschale[^bible-814b4826-4917-40c0-ba2d-a2461aa75b42], damit nicht einmal ein Rest jener Schriftzeichen übrig bliebe\. Doch noch kennt ihr nicht seinen ganzen Wahnsinn\. Ihr werdet ihn deutlich erkennen, wenn ihr der Erzählung aufmerksam folgt\. Denn es heißt nicht, das ganze Buch sei erst vorgelesen und dann verbrannt worden, sondern: „Als der Vorleser drei oder vier Seiten gelesen hatte, schnitt er es auseinander\.[^bible-814b4826-4917-40c0-ba2d-a2461aa75b42]“ Der König wartete nicht einmal das Ende der Lesung ab, sondern geriet schon bei den ersten Worten sofort außer sich\. Deshalb war es für die jüdischen Propheten gefährlich, alles kommende Unheil offen auszusprechen\. Wenn er es schon nicht ertragen konnte, von einer vorübergehenden Gefangenschaft zu hören, wie hätte er es dann ertragen, von einer dauerhaften zu erfahren? Doch selbst dabei blieb der König nicht stehen\. Vielmehr ließ er, wie es heißt, überall nach dem Propheten suchen; aber er fand ihn nicht, denn Gott hatte ihn verborgen\.[^bible-acdef257-f1d6-4ead-a55a-92badb4bfa0a] Damals verbarg Gott diesen einen an einem bestimmten Ort; die anderen Propheten aber schützte er, indem er das von ihnen Gesagte unklar bleiben ließ\.
+Der König,
+so heißt es,
+sandte Jehudi,
+einen der Männer,
+die bei ihm standen,
+und befahl,
+das Buch zu holen\.[^bible-924c3b70-84de-4a4a-a40d-3d02ac9b2cfb]
+Er saß im Winterhaus;
+es war nämlich der neunte Monat,
+also November\.[^bible-5a024a01-983a-4d3b-876c-9fd6428b026f]
+Die Schrift bezeichnet ihn als neunten Monat,
+weil sie vom Xanthikos an zählt\.
+Auch das muss man genau wissen\.
+Würde sie nämlich vom Dios an zählen,
+wäre damals nicht Winter gewesen\.
+Warum also wird auch dies erwähnt?
+Was folgt,
+wird es dir deutlich zeigen\.
+Vor dem König stand eine Feuerschale,
+ein Kohlenfeuer,
+wie es heißt,
+denn es war kalt\.[^bible-5a024a01-983a-4d3b-876c-9fd6428b026f]
+Seht ihr,
+wie die göttliche Schrift nichts auslässt?
+Vor ihm stand also ein Kohlenfeuer,
+und ringsum standen die Satrapen\.[^bible-5a024a01-983a-4d3b-876c-9fd6428b026f]
+Das Buch wurde gebracht,
+erfüllt von unzähligen guten Dingen,
+denn die Ankündigung des Unheils sollte das Unheil abwenden,
+und man las daraus vor\.
+Ich bitte euch,
+denkt an das Versprechen\.
+Nachdem der Vorleser drei Seiten gelesen hatte,
+nahm der König das Messer,
+schnitt die drei gelesenen Seiten ab und warf sie in die Feuerschale\.
+Das tat er,
+bis das ganze Buch aufgebraucht war\.[^bible-814b4826-4917-40c0-ba2d-a2461aa75b42]
+Seht ihr,
+wie sie nicht einmal die Bücher schonen?
+Wie sie selbst vor den göttlichen Schriftzeichen nicht haltmachen?
+Weil das Buch von der Gefangenschaft Jerusalems handelte,
+zerschnitt er es;
+und weil er den Propheten nicht fand,
+ließ er seinen Zorn an der Schrift aus\.
+Wenn er schon gegen Lebloses derart wütete,
+was hätte er dann erst dem lebenden Menschen angetan,
+wenn er ihn gefunden hätte?
+Es war wie bei den grimmigen wilden Tieren:
+Wenn sie diejenigen packen,
+die mit ihnen kämpfen,
+diese ihnen aber entkommen und dabei die Felle,
+die sie tragen,
+in ihrem Maul zurücklassen,
+zerbeißen die Tiere fortan die Felle und besänftigen so ihren Zorn\.
+Genauso handelte auch der König\.
+Er fand den Mann nicht,
+der das Buch hatte,
+und zerschnitt deshalb das Buch selbst\.
+Er zerschnitt es nicht nur,
+sondern warf es auch in die Feuerschale[^bible-814b4826-4917-40c0-ba2d-a2461aa75b42],
+damit nicht einmal ein Rest jener Schriftzeichen übrig bliebe\.
+Doch noch kennt ihr nicht seinen ganzen Wahnsinn\.
+Ihr werdet ihn deutlich erkennen,
+wenn ihr der Erzählung aufmerksam folgt\.
+Denn es heißt nicht,
+das ganze Buch sei erst vorgelesen und dann verbrannt worden,
+sondern:
+„Als der Vorleser drei oder vier Seiten gelesen hatte,
+schnitt er es auseinander\.[^bible-814b4826-4917-40c0-ba2d-a2461aa75b42]“ Der König wartete nicht einmal das Ende der Lesung ab,
+sondern geriet schon bei den ersten Worten sofort außer sich\.
+Deshalb war es für die jüdischen Propheten gefährlich,
+alles kommende Unheil offen auszusprechen\.
+Wenn er es schon nicht ertragen konnte,
+von einer vorübergehenden Gefangenschaft zu hören,
+wie hätte er es dann ertragen,
+von einer dauerhaften zu erfahren?
+Doch selbst dabei blieb der König nicht stehen\.
+Vielmehr ließ er,
+wie es heißt,
+überall nach dem Propheten suchen;
+aber er fand ihn nicht,
+denn Gott hatte ihn verborgen\.[^bible-acdef257-f1d6-4ead-a55a-92badb4bfa0a]
+Damals verbarg Gott diesen einen an einem bestimmten Ort;
+die anderen Propheten aber schützte er,
+indem er das von ihnen Gesagte unklar bleiben ließ\.
 
 ## Bibelverweise
 

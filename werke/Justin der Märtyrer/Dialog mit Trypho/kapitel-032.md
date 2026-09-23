@@ -7,11 +7,105 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-88d565d1-e607-4ddd-f0bd-08de139a3c1c).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d4763408fb0fcfb9748026a4f7cf8cdeaeca42792a549f754a855d45cb995d89`
+Als ich geendet hatte,
+widersprach Trypho:
+„Herr,
+deine Schriftzitate zeigen,
+dass wir auf den herrlichen und großen Messias hoffen müssen,
+der als Menschensohn vom Alten der Tage das ewige Königtum empfängt\.
+Doch der,
+den du Christus nennst,
+war ohne Herrlichkeit und Ehre,
+so sehr,
+dass er den letzten Fluch des Gesetzes Gottes auf sich zog,
+nämlich er wurde gekreuzigt\.“
+Ich erwiderte sofort:
+„Meine Herren,
+wenn ich nicht aus den oben angeführten Schriftstellen dargelegt hätte,
+dass das Erscheinungsbild des Christus ohne Herrlichkeit sein sollte,
+„seine Generation unaussprechlich,“[^bible-1c7620ed-9aec-42d9-8683-e2193a1514d7]
+dass „um seines Todes willen die Reichen den Tod erleiden,“,[^bible-9ab26b79-da1f-4e25-b121-73914ed3c288]
+dass „wir durch sein Leiden geheilt werden,“
+[^bible-015049be-357a-41b8-bc9f-9c2292c7bdc3]dass „wie ein Schaf zur Schlachtung geführt,“[^bible-b376ade8-6c73-4711-83ba-8ac522515ae1]
+werden sollte,
+und wenn ich nicht deutlich gemacht hätte,
+dass es zwei Ankünfte des Christus geben muss,
+die erste,
+in der er von euch durchbohrt wurde,
+die zweite,
+in der ihr aufblicken und ihn als den erkennen werdet,
+„den ihr durchbohrt habt,
+und dann werden eure Stämme klagen,
+Stamm für Stamm,
+die Frauen für sich und die Männer für sich,“
+[^bible-0e93c754-3514-4c34-ab4e-9b2e837bf157]dann wären meine Worte zweideutig und dunkel gewesen\.
+Jetzt werde ich alle meine Beweise aus all den Worten herleiten,
+die ich aus euren heiligen und prophetischen Schriften vorlege,
+in der Hoffnung,
+dass sich unter euch jemand findet,
+der zu jenem Samen gehört,
+der durch die Gnade des Herrn der Heerscharen zum ewigen Heil aufbewahrt ist\.
+Um euch die Sache weiter zu klären,
+werde ich weitere Stellen aus dem seligen David anführen,
+aus denen ihr sehen könnt,
+dass der Christus vom heiligen prophetischen Geist auch Herr genannt wird,
+und dass Gott,
+der Vater aller,
+ihn von der Erde emporgehoben und zu seiner Rechten gesetzt hat,
+„bis er seine Feinde zum Schemel seiner Füße legt,“[^bible-c6328145-11b9-4565-8a0f-0384310035f1]
+was in der Tat geschehen ist,
+als unser Herr Jesus Christus nach seiner Auferstehung von den Toten in den Himmel aufgestiegen ist\.“
 
-Als ich geendet hatte, widersprach Trypho: „Herr, deine Schriftzitate zeigen, dass wir auf den herrlichen und großen Messias hoffen müssen, der als Menschensohn vom Alten der Tage das ewige Königtum empfängt\. Doch der, den du Christus nennst, war ohne Herrlichkeit und Ehre, so sehr, dass er den letzten Fluch des Gesetzes Gottes auf sich zog, nämlich er wurde gekreuzigt\.“ Ich erwiderte sofort: „Meine Herren, wenn ich nicht aus den oben angeführten Schriftstellen dargelegt hätte, dass das Erscheinungsbild des Christus ohne Herrlichkeit sein sollte, „seine Generation unaussprechlich,“[^bible-1c7620ed-9aec-42d9-8683-e2193a1514d7] dass „um seines Todes willen die Reichen den Tod erleiden,“,[^bible-9ab26b79-da1f-4e25-b121-73914ed3c288] dass „wir durch sein Leiden geheilt werden,“ [^bible-015049be-357a-41b8-bc9f-9c2292c7bdc3]dass „wie ein Schaf zur Schlachtung geführt,“[^bible-b376ade8-6c73-4711-83ba-8ac522515ae1] werden sollte, und wenn ich nicht deutlich gemacht hätte, dass es zwei Ankünfte des Christus geben muss, die erste, in der er von euch durchbohrt wurde, die zweite, in der ihr aufblicken und ihn als den erkennen werdet, „den ihr durchbohrt habt, und dann werden eure Stämme klagen, Stamm für Stamm, die Frauen für sich und die Männer für sich,“ [^bible-0e93c754-3514-4c34-ab4e-9b2e837bf157]dann wären meine Worte zweideutig und dunkel gewesen\. Jetzt werde ich alle meine Beweise aus all den Worten herleiten, die ich aus euren heiligen und prophetischen Schriften vorlege, in der Hoffnung, dass sich unter euch jemand findet, der zu jenem Samen gehört, der durch die Gnade des Herrn der Heerscharen zum ewigen Heil aufbewahrt ist\. Um euch die Sache weiter zu klären, werde ich weitere Stellen aus dem seligen David anführen, aus denen ihr sehen könnt, dass der Christus vom heiligen prophetischen Geist auch Herr genannt wird, und dass Gott, der Vater aller, ihn von der Erde emporgehoben und zu seiner Rechten gesetzt hat, „bis er seine Feinde zum Schemel seiner Füße legt,“[^bible-c6328145-11b9-4565-8a0f-0384310035f1] was in der Tat geschehen ist, als unser Herr Jesus Christus nach seiner Auferstehung von den Toten in den Himmel aufgestiegen ist\.“
-
-So erfüllten sich die Zeiten, und der, von dem Daniel vorausgesagt hat, „er werde für eine Zeit, Zeiten und eine halbe Zeit,“[^bible-dd536609-dac5-454c-960d-cda75bef1297] herrschen, steht jetzt vor der Tür und ist bereit, freche und lästerliche Worte gegen den Höchsten auszustoßen\. Weil ihr nicht wisst, wie lange er herrschen wird, vertretet ihr eine andere Meinung; ihr verkennt nämlich das Wort „Zeit“ als bedeute es hundert Jahre\. Wenn das so wäre, müsste der Mensch der Sünde mindestens dreihundertfünfzig Jahre herrschen, da ihr den Ausdruck „Zeiten“ beim heiligen Daniel nur als zweimal ansetzt\. Ich habe weit ausgeholt, einzig um euch von der Wahrheit dessen zu überzeugen, was Gott gegen euch gesagt hat, nämlich: „Ihr seid dumme Kinder,“ [^bible-5dc8239e-dabc-4ef2-9d94-d513bc41e386]und: „Darum siehe, ich schreite fort, dieses Volk wegzunehmen, und ich werde sie entfernen, und ich werde die Weisheit ihrer Weisen wegnehmen und den Verstand ihrer Klugen verbergen\.“[^bible-0a0adfd6-4ce2-4293-aacb-c2d96fd9a365] Wenn ihr das wisst, warum hört ihr nicht auf, euch selbst und die um euch zu täuschen? Warum lernt ihr nicht von uns, die wir durch die Gnade Christi zur Weisheit unterwiesen worden sind? Nun hört die Worte Davids: „Der Herr sprach zu meinem Herrn: Setze dich zu meiner Rechten, bis ich deine Feinde zum Schemel deiner Füße lege\. Der Herr sendet aus Zion das Zepter deiner Macht; herrsche mitten unter deinen Feinden\. Dein ist die Herrschaft am Tag deiner Stärke, im Glanz deiner Heiligen; aus dem Schoß, vor dem Morgenstern, habe ich dich gezeugt\. Der Herr hat geschworen, und es reut ihn nicht: Du bist Priester in Ewigkeit nach der Ordnung Melchisedeks\. Der Herr zu deiner Rechten hat Könige zerschmettert am Tag seines Zorns\. Er richtet unter den Nationen\. Er wird Ruinen füllen\. Er wird trinken aus dem Bach am Wegesrand; darum wird er sein Haupt erheben\.“[^bible-ee8a289c-1f75-47f2-9456-58b06166e588]
+So erfüllten sich die Zeiten,
+und der,
+von dem Daniel vorausgesagt hat,
+„er werde für eine Zeit,
+Zeiten und eine halbe Zeit,“[^bible-dd536609-dac5-454c-960d-cda75bef1297]
+herrschen,
+steht jetzt vor der Tür und ist bereit,
+freche und lästerliche Worte gegen den Höchsten auszustoßen\.
+Weil ihr nicht wisst,
+wie lange er herrschen wird,
+vertretet ihr eine andere Meinung;
+ihr verkennt nämlich das Wort „Zeit“ als bedeute es hundert Jahre\.
+Wenn das so wäre,
+müsste der Mensch der Sünde mindestens dreihundertfünfzig Jahre herrschen,
+da ihr den Ausdruck „Zeiten“ beim heiligen Daniel nur als zweimal ansetzt\.
+Ich habe weit ausgeholt,
+einzig um euch von der Wahrheit dessen zu überzeugen,
+was Gott gegen euch gesagt hat,
+nämlich:
+„Ihr seid dumme Kinder,“
+[^bible-5dc8239e-dabc-4ef2-9d94-d513bc41e386]und:
+„Darum siehe,
+ich schreite fort,
+dieses Volk wegzunehmen,
+und ich werde sie entfernen,
+und ich werde die Weisheit ihrer Weisen wegnehmen und den Verstand ihrer Klugen verbergen\.“[^bible-0a0adfd6-4ce2-4293-aacb-c2d96fd9a365]
+Wenn ihr das wisst,
+warum hört ihr nicht auf,
+euch selbst und die um euch zu täuschen?
+Warum lernt ihr nicht von uns,
+die wir durch die Gnade Christi zur Weisheit unterwiesen worden sind?
+Nun hört die Worte Davids:
+„Der Herr sprach zu meinem Herrn:
+Setze dich zu meiner Rechten,
+bis ich deine Feinde zum Schemel deiner Füße lege\.
+Der Herr sendet aus Zion das Zepter deiner Macht;
+herrsche mitten unter deinen Feinden\.
+Dein ist die Herrschaft am Tag deiner Stärke,
+im Glanz deiner Heiligen;
+aus dem Schoß,
+vor dem Morgenstern,
+habe ich dich gezeugt\.
+Der Herr hat geschworen,
+und es reut ihn nicht:
+Du bist Priester in Ewigkeit nach der Ordnung Melchisedeks\.
+Der Herr zu deiner Rechten hat Könige zerschmettert am Tag seines Zorns\.
+Er richtet unter den Nationen\.
+Er wird Ruinen füllen\.
+Er wird trinken aus dem Bach am Wegesrand;
+darum wird er sein Haupt erheben\.“[^bible-ee8a289c-1f75-47f2-9456-58b06166e588]
 
 ## Bibelverweise
 

@@ -7,17 +7,332 @@ Autor: Isidor von Sevilla
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/isidor-von-sevilla/de-ecclesiastics-officiis-buch-2#kapitel-d10ec8bd-491e-4cac-1427-08ded5491050).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:98e119c37c8a2120235bff009fed066a211c898e753a9793ec5dbcc1d9cc6451`
+Das Naturgesetz für Verheiratete gehört zur Welt\.
+Denn Gott schuf Adam und gab ihm Eva als Helferin mit der späteren Absicht der Fortpflanzung,
+indem er sprach:
+„Seid fruchtbar und mehrt euch und füllt die Erde[^bible-189361b4-120c-427c-bb01-8f35df2927a0]“\.
+Die Frau aber war,
+nachdem sie geschaffen worden war,
+zunächst eher Trost als Ehefrau,
+bis Gott jene wegen ihres Ungehorsams aus dem Paradies vertrieb,
+die er zum Gehorsam ins Paradies geführt hatte\.
+Nach seinem Weggang aus der seligen Wohnstätte erkannte der Vertriebene seine Frau,
+wie das Buch Genesis lehrt:
+„Der Mensch erkannte nun Eva,
+seine Frau,
+und sie empfing und gebar einen Sohn[^bible-c727e7d8-d949-4419-b74a-3826c4bfda14]“\.
+So schritt das Ehepaar zu der ihm zugewiesenen Arbeit;
+und indem es „Dornen und Disteln[^bible-13555ceb-b547-45d4-aa84-1c6cf9716385]“ ertrug,
+machte es sich daran,
+den Auftrag zu erfüllen,
+den Gott zuerst gegeben hatte\.
+Mühsal folgte beim Zeugen\.
+Darum war zuvor über das Gebären ein solcher Spruch ergangen:
+„Unter Schmerzen wirst du Kinder gebären[^bible-83bf5f3b-da92-4f57-8b4d-0f45adbc2c1f]“,
+damit wir verstehen,
+dass jene Geschöpfe,
+die sich auf solche Weise abgewandt hatten,
+in Unglück und Schmerz geraten waren\.
+Daher sagte der Apostel voraus:
+„Die heiraten,
+werden Bedrängnis im Fleisch haben[^bible-14d323a5-0489-4614-a3bf-abcff5162327]“\.
+Dennoch sind die Lager der Verheirateten nicht ehrlos,
+und das Ehebett ist nicht unbefleckt,
+wenn es ohne Frucht bleibt\.
+Denn es gibt Nachkommen von Heiligen,
+und was an der Jungfräulichkeit gepriesen wird,
+ist Frucht der Ehe;
+darum nennen wir die Ehe weder sündhaft,
+noch stellen wir sie dem jungfräulichen Gut der Enthaltsamkeit oder auch dem der Witwe gleich\.
+So sind Ehen an sich gut\.
+Schlecht werden sie durch das,
+was um sie herum geschieht\.
+Denn schlecht sind sie durch das,
+wovon der Apostel spricht:
+„Der Verheiratete sorgt sich um die Dinge der Welt,
+wie er seiner Frau gefallen kann[^bible-45472816-be12-4685-a5bf-0327211b7c44]“,
+und wiederum:
+„Wegen der Fälle von Unzucht soll jeder Mann seine eigene Frau haben[^bible-10d24586-cd40-4d06-aeaa-503c4b9c40c5]“\.
+Diese erste Verbindung jedoch,
+die auf göttliche Weise zustande kam,
+dient als Vorbild dafür,
+dass nicht ein Mann und viele Frauen,
+sondern ein Mann und eine Frau verheiratet sein sollen\.
+Denn als Gott den Menschen gebildet und vorausgesehen hatte,
+dass ihm eine Gefährtin nötig war,
+nahm er eine aus seiner Rippe und formte für ihn eine Frau\.
+So heiligten Adam und seine Frau Eva,
+indem sie untereinander in einer einzigen ehelichen Verbindung standen,
+durch die Autorität ihres Ursprungs und den ersten Willen Gottes das Vorbild für die Menschen\.
 
-Das Naturgesetz für Verheiratete gehört zur Welt\. Denn Gott schuf Adam und gab ihm Eva als Helferin mit der späteren Absicht der Fortpflanzung, indem er sprach: „Seid fruchtbar und mehrt euch und füllt die Erde[^bible-189361b4-120c-427c-bb01-8f35df2927a0]“\. Die Frau aber war, nachdem sie geschaffen worden war, zunächst eher Trost als Ehefrau, bis Gott jene wegen ihres Ungehorsams aus dem Paradies vertrieb, die er zum Gehorsam ins Paradies geführt hatte\. Nach seinem Weggang aus der seligen Wohnstätte erkannte der Vertriebene seine Frau, wie das Buch Genesis lehrt: „Der Mensch erkannte nun Eva, seine Frau, und sie empfing und gebar einen Sohn[^bible-c727e7d8-d949-4419-b74a-3826c4bfda14]“\. So schritt das Ehepaar zu der ihm zugewiesenen Arbeit; und indem es „Dornen und Disteln[^bible-13555ceb-b547-45d4-aa84-1c6cf9716385]“ ertrug, machte es sich daran, den Auftrag zu erfüllen, den Gott zuerst gegeben hatte\. Mühsal folgte beim Zeugen\. Darum war zuvor über das Gebären ein solcher Spruch ergangen: „Unter Schmerzen wirst du Kinder gebären[^bible-83bf5f3b-da92-4f57-8b4d-0f45adbc2c1f]“, damit wir verstehen, dass jene Geschöpfe, die sich auf solche Weise abgewandt hatten, in Unglück und Schmerz geraten waren\. Daher sagte der Apostel voraus: „Die heiraten, werden Bedrängnis im Fleisch haben[^bible-14d323a5-0489-4614-a3bf-abcff5162327]“\. Dennoch sind die Lager der Verheirateten nicht ehrlos, und das Ehebett ist nicht unbefleckt, wenn es ohne Frucht bleibt\. Denn es gibt Nachkommen von Heiligen, und was an der Jungfräulichkeit gepriesen wird, ist Frucht der Ehe; darum nennen wir die Ehe weder sündhaft, noch stellen wir sie dem jungfräulichen Gut der Enthaltsamkeit oder auch dem der Witwe gleich\. So sind Ehen an sich gut\. Schlecht werden sie durch das, was um sie herum geschieht\. Denn schlecht sind sie durch das, wovon der Apostel spricht: „Der Verheiratete sorgt sich um die Dinge der Welt, wie er seiner Frau gefallen kann[^bible-45472816-be12-4685-a5bf-0327211b7c44]“, und wiederum: „Wegen der Fälle von Unzucht soll jeder Mann seine eigene Frau haben[^bible-10d24586-cd40-4d06-aeaa-503c4b9c40c5]“\. Diese erste Verbindung jedoch, die auf göttliche Weise zustande kam, dient als Vorbild dafür, dass nicht ein Mann und viele Frauen, sondern ein Mann und eine Frau verheiratet sein sollen\. Denn als Gott den Menschen gebildet und vorausgesehen hatte, dass ihm eine Gefährtin nötig war, nahm er eine aus seiner Rippe und formte für ihn eine Frau\. So heiligten Adam und seine Frau Eva, indem sie untereinander in einer einzigen ehelichen Verbindung standen, durch die Autorität ihres Ursprungs und den ersten Willen Gottes das Vorbild für die Menschen\.
+So gilt entsprechend den geistlichen Ehen:
+Wie der eine Christus und die eine Kirche,
+so soll es auch nur einen Mann und eine Frau geben,
+sowohl nach dem Vorbild des Menschengeschlechts als auch nach dem Sakrament Christi\.
+Dass einer mehrere Ehepartner hatte,
+begann jedoch bei einem sündigen Menschen:
+Als erster nahm Lamech zwei Frauen und machte drei zu einem Fleisch\.
+Du entgegnest aber,
+auch die Patriarchen hätten zugleich mehrere Frauen gehabt;
+deshalb sei es auch uns erlaubt,
+mehrere zu nehmen\.
+Das ließe sich mit Grund zugestehen,
+wenn jene Vorausbilder eines künftigen Sakraments fortbestehen,
+durch die viele Ehepartner bezeichnet werden\.
+Der Apostel aber ordnet zweite Ehen wegen der Unenthaltsamkeit an:
+„Denn es ist besser[^bible-2c682181-8631-43c4-beac-d3b3a6a184cb]“,
+dass ein Mann wiederum „heiratet[^bible-2c682181-8631-43c4-beac-d3b3a6a184cb]“,
+als aus ausgeweiteter Begierde mit sehr vielen Unzucht zu treiben\.
+Heute stammt jedoch die Erlaubnis zu heiraten häufiger nicht aus der Religion,
+sondern aus der Sünde\.
+Dass Verheiratete bei diesem Zusammenkommen von einem Priester gesegnet werden,
+erklärt sich daraus,
+dass dies von Gott im ersten Zustand der Menschen getan wurde\.
+Denn so steht geschrieben:
+„Gott schuf den Menschen nach seinem Bild,
+nach dem Bild Gottes schuf er sie;
+männlich und weiblich schuf er sie\.
+Gott segnete sie,
+und Gott sagte zu ihnen:
+‚Seid fruchtbar und vermehrt euch[^bible-4024ab08-2b01-4d91-89de-d95cdd0d0f8c]“\.
+Darum geschieht jetzt in der Kirche nach diesem Gleichnis,
+was damals im Paradies geschah\.
+Es ist Brauch,
+dass Frauen,
+die nur einen Mann haben,
+von Jungfrauen herangezogen werden,
+die rechtmäßig heiraten\.
+Das geschieht selbstverständlich wegen der Einehe und,
+selbst wenn es wegen eines Vorzeichens geschieht,
+ist es doch ein gutes Vorzeichen\.
+Diese Frauen werden,
+wenn sie heiraten,
+verhüllt,
+damit sie stets wissen,
+dass sie ihren Männern untertan und demütig sein sollen\.
+Diese Verhüllung nennt man in der Volkssprache „Unglück“,
+das heißt „des Mars“,
+weil das Zeichen ehelicher Würde und Macht beim Mann liegt;
+denn „der Mann ist das Haupt seiner Frau[^bible-0be9ed6e-2f4f-4dd2-9303-9f5db3d40e5d]“\.
+Dieser Brauch ist erlaubt,
+und folglich werden sie bei der Eheschließung verhüllt,
+damit sie die Schamhaftigkeit der Frau kennen,
+weil daraus nun folgt,
+dass sie von da an schamhaft ist\.
+So war es bei Rebekka:
+Als sie zu ihrem Bräutigam geführt wurde und ihn sah,
+wartete sie weder auf Gruß noch auf Kuss,
+sondern verhüllte,
+sogleich an das Kommende denkend,
+ihr Haupt mit einem Schleier\.
+Daher kommt auch die Überlieferung der Frauen,
+sie sollten ihre Häupter verhüllen;
+denn es heißt:
+verhüllen und bedecken\.
+So werden auch Wolken danach benannt,
+dass sie den Himmel bedecken\.
+Nach dem Segen durch den Diakon werden die Brautleute mit einer Schnur aneinandergebunden,
+damit sie die Verbindung ehelicher Einheit nicht auflösen\.
+Diese Bindung ist aus Weiß und Purpur gemischt\.
+Das Weiß steht für die Reinheit des Lebens;
+der Purpur wird für die Nachkommenschaft des Blutes verwendet,
+damit durch dieses Zeichen angezeigt wird,
+dass das Gesetz der Enthaltsamkeit von beiden bis zu dem Zeitpunkt bewahrt wird,
+der nahegelegt wird,
+und dass danach auch die geschuldete Pflicht nicht verweigert wird\.
 
-So gilt entsprechend den geistlichen Ehen: Wie der eine Christus und die eine Kirche, so soll es auch nur einen Mann und eine Frau geben, sowohl nach dem Vorbild des Menschengeschlechts als auch nach dem Sakrament Christi\. Dass einer mehrere Ehepartner hatte, begann jedoch bei einem sündigen Menschen: Als erster nahm Lamech zwei Frauen und machte drei zu einem Fleisch\. Du entgegnest aber, auch die Patriarchen hätten zugleich mehrere Frauen gehabt; deshalb sei es auch uns erlaubt, mehrere zu nehmen\. Das ließe sich mit Grund zugestehen, wenn jene Vorausbilder eines künftigen Sakraments fortbestehen, durch die viele Ehepartner bezeichnet werden\. Der Apostel aber ordnet zweite Ehen wegen der Unenthaltsamkeit an: „Denn es ist besser[^bible-2c682181-8631-43c4-beac-d3b3a6a184cb]“, dass ein Mann wiederum „heiratet[^bible-2c682181-8631-43c4-beac-d3b3a6a184cb]“, als aus ausgeweiteter Begierde mit sehr vielen Unzucht zu treiben\. Heute stammt jedoch die Erlaubnis zu heiraten häufiger nicht aus der Religion, sondern aus der Sünde\. Dass Verheiratete bei diesem Zusammenkommen von einem Priester gesegnet werden, erklärt sich daraus, dass dies von Gott im ersten Zustand der Menschen getan wurde\. Denn so steht geschrieben: „Gott schuf den Menschen nach seinem Bild, nach dem Bild Gottes schuf er sie; männlich und weiblich schuf er sie\. Gott segnete sie, und Gott sagte zu ihnen: ‚Seid fruchtbar und vermehrt euch[^bible-4024ab08-2b01-4d91-89de-d95cdd0d0f8c]“\. Darum geschieht jetzt in der Kirche nach diesem Gleichnis, was damals im Paradies geschah\. Es ist Brauch, dass Frauen, die nur einen Mann haben, von Jungfrauen herangezogen werden, die rechtmäßig heiraten\. Das geschieht selbstverständlich wegen der Einehe und, selbst wenn es wegen eines Vorzeichens geschieht, ist es doch ein gutes Vorzeichen\. Diese Frauen werden, wenn sie heiraten, verhüllt, damit sie stets wissen, dass sie ihren Männern untertan und demütig sein sollen\. Diese Verhüllung nennt man in der Volkssprache „Unglück“, das heißt „des Mars“, weil das Zeichen ehelicher Würde und Macht beim Mann liegt; denn „der Mann ist das Haupt seiner Frau[^bible-0be9ed6e-2f4f-4dd2-9303-9f5db3d40e5d]“\. Dieser Brauch ist erlaubt, und folglich werden sie bei der Eheschließung verhüllt, damit sie die Schamhaftigkeit der Frau kennen, weil daraus nun folgt, dass sie von da an schamhaft ist\. So war es bei Rebekka: Als sie zu ihrem Bräutigam geführt wurde und ihn sah, wartete sie weder auf Gruß noch auf Kuss, sondern verhüllte, sogleich an das Kommende denkend, ihr Haupt mit einem Schleier\. Daher kommt auch die Überlieferung der Frauen, sie sollten ihre Häupter verhüllen; denn es heißt: verhüllen und bedecken\. So werden auch Wolken danach benannt, dass sie den Himmel bedecken\. Nach dem Segen durch den Diakon werden die Brautleute mit einer Schnur aneinandergebunden, damit sie die Verbindung ehelicher Einheit nicht auflösen\. Diese Bindung ist aus Weiß und Purpur gemischt\. Das Weiß steht für die Reinheit des Lebens; der Purpur wird für die Nachkommenschaft des Blutes verwendet, damit durch dieses Zeichen angezeigt wird, dass das Gesetz der Enthaltsamkeit von beiden bis zu dem Zeitpunkt bewahrt wird, der nahegelegt wird, und dass danach auch die geschuldete Pflicht nicht verweigert wird\.
+Der Apostel sagt dies den Verheirateten:
+Sie sollen sich „eine Zeitlang enthalten,
+um sich dem Gebet zu widmen[^bible-d547523f-4957-4a04-b980-7731fa5c4516]“,
+das deutet das Weiß der Schnur an;
+doch fügt er hinzu:
+„Dann kommt wieder zusammen[^bible-d547523f-4957-4a04-b980-7731fa5c4516]“,
+das zeigt die purpurne Farbe\.
+Aus diesem Grund wird zuerst vom Mann seiner Frau ein Ring gegeben;
+dies geschieht gewiss entweder als Zeichen gegenseitiger Treue oder,
+noch besser,
+damit ihre Herzen durch dieses Pfand verbunden werden\.
+Darum wird der Ring an den vierten Finger gesteckt,
+damit durch die Ader in ihm etwas vom Blut,
+während es strömt,
+bis zum Herzen gelangt\.
+Früher aber wurde von dem einen nichts Weiteres gegeben,
+damit nicht die Vielzahl der Zeichen die eine Liebe zerteile\.
+Im Haus Israel jedoch war es unerlaubt,
+ein Mädchen einem Mann zu geben,
+wenn nicht die Reife durch Blut sichtbar geworden war\.
+Bei der Wahl von Ehemännern achteten die Alten auf diese vier Dinge:
+Tugend,
+Herkunft,
+Anmut und Gewohnheit des Gebets;
+bei Frauen auf drei Dinge:
+ob sie freigebig,
+wohlerzogen und schön war\.
+Heute aber gefallen bei Frauen weder Herkunft noch Sitten,
+sondern vielmehr Reichtümer\.
+Auch wird die Frau nicht gefragt,
+ob sie keusch ist,
+sondern vielmehr,
+wie wohlgestaltet sie ist;
+das nährt die Begierde der Begehrlichkeit und zieht die tiefen Seufzer aller auf sich\.
+Denn eine schöne Frau ist,
+wie irgendein Weiser sagte,
+schnell geliebt,
+und wer von vielen geliebt wird,
+lässt sich nur schwer hüten\.
+Es gibt jedoch Eheverbindungen,
+die in der Vereinigung nicht Lust,
+sondern Nachkommenschaft verlangen\.
+Denn diese Verbindungen werden nicht geschlossen,
+damit sie den Lüsten des Fleisches dienen,
+sondern allein,
+um die Frucht der Fortpflanzung zu suchen\.
+Denn wie schon ihre Mitgiftvereinbarungen anzeigen,
+wird die Frau „um der Zeugung von Kindern willen“ genommen\.
+Wenn daher jemand lustvoller lebt,
+als es die Notwendigkeit der Kinderzeugung verlangt,
+ist es sogleich Sünde\.
+Daher müssen diejenigen durch tägliche Almosen und Gebete Fürbitte leisten,
+die durch häufigen Gebrauch infolge von Unenthaltsamkeit die Reinheit ihres ehelichen Bettes beflecken\.
+Die Güter der Ehe sind drei:
+Nachkommenschaft,
+Treue und Sakrament\.
+In Bezug auf die Treue wird darauf geachtet,
+dass nicht entgegen dem ehelichen Band der Ehepartner mit einer anderen Frau oder einem anderen Mann zusammenliegt;
+in Bezug auf die Nachkommenschaft,
+dass das Kind liebevoll angenommen und rein genährt wird;
+in Bezug auf das Sakrament,
+dass das Band nicht gelöst wird,
+noch dass einer um der Nachkommenschaft willen mit einem anderen verheiratet wird\.
+Darum heißt es,
+zwischen Verheirateten bestehe ein Sakrament,
+weil,
+wie die Kirche nicht von Christus getrennt werden kann,
+so auch die Frau nicht vom Mann getrennt werden kann\.
+Was also bei Christus und der Kirche der Fall ist,
+ist dadurch auch bei den Einzelnen,
+die Männer und Frauen sind,
+ein untrennbares Sakrament der Verbindung\.
+Daher sagt der Apostel:
+„Den Verheirateten gebiete nicht ich,
+sondern der Herr,
+dass die Frau sich nicht von ihrem Mann trennen soll[^bible-0454b0b5-8da9-41fd-951c-20c347fbfc28]“\.
 
-Der Apostel sagt dies den Verheirateten: Sie sollen sich „eine Zeitlang enthalten, um sich dem Gebet zu widmen[^bible-d547523f-4957-4a04-b980-7731fa5c4516]“, das deutet das Weiß der Schnur an; doch fügt er hinzu: „Dann kommt wieder zusammen[^bible-d547523f-4957-4a04-b980-7731fa5c4516]“, das zeigt die purpurne Farbe\. Aus diesem Grund wird zuerst vom Mann seiner Frau ein Ring gegeben; dies geschieht gewiss entweder als Zeichen gegenseitiger Treue oder, noch besser, damit ihre Herzen durch dieses Pfand verbunden werden\. Darum wird der Ring an den vierten Finger gesteckt, damit durch die Ader in ihm etwas vom Blut, während es strömt, bis zum Herzen gelangt\. Früher aber wurde von dem einen nichts Weiteres gegeben, damit nicht die Vielzahl der Zeichen die eine Liebe zerteile\. Im Haus Israel jedoch war es unerlaubt, ein Mädchen einem Mann zu geben, wenn nicht die Reife durch Blut sichtbar geworden war\. Bei der Wahl von Ehemännern achteten die Alten auf diese vier Dinge: Tugend, Herkunft, Anmut und Gewohnheit des Gebets; bei Frauen auf drei Dinge: ob sie freigebig, wohlerzogen und schön war\. Heute aber gefallen bei Frauen weder Herkunft noch Sitten, sondern vielmehr Reichtümer\. Auch wird die Frau nicht gefragt, ob sie keusch ist, sondern vielmehr, wie wohlgestaltet sie ist; das nährt die Begierde der Begehrlichkeit und zieht die tiefen Seufzer aller auf sich\. Denn eine schöne Frau ist, wie irgendein Weiser sagte, schnell geliebt, und wer von vielen geliebt wird, lässt sich nur schwer hüten\. Es gibt jedoch Eheverbindungen, die in der Vereinigung nicht Lust, sondern Nachkommenschaft verlangen\. Denn diese Verbindungen werden nicht geschlossen, damit sie den Lüsten des Fleisches dienen, sondern allein, um die Frucht der Fortpflanzung zu suchen\. Denn wie schon ihre Mitgiftvereinbarungen anzeigen, wird die Frau „um der Zeugung von Kindern willen“ genommen\. Wenn daher jemand lustvoller lebt, als es die Notwendigkeit der Kinderzeugung verlangt, ist es sogleich Sünde\. Daher müssen diejenigen durch tägliche Almosen und Gebete Fürbitte leisten, die durch häufigen Gebrauch infolge von Unenthaltsamkeit die Reinheit ihres ehelichen Bettes beflecken\. Die Güter der Ehe sind drei: Nachkommenschaft, Treue und Sakrament\. In Bezug auf die Treue wird darauf geachtet, dass nicht entgegen dem ehelichen Band der Ehepartner mit einer anderen Frau oder einem anderen Mann zusammenliegt; in Bezug auf die Nachkommenschaft, dass das Kind liebevoll angenommen und rein genährt wird; in Bezug auf das Sakrament, dass das Band nicht gelöst wird, noch dass einer um der Nachkommenschaft willen mit einem anderen verheiratet wird\. Darum heißt es, zwischen Verheirateten bestehe ein Sakrament, weil, wie die Kirche nicht von Christus getrennt werden kann, so auch die Frau nicht vom Mann getrennt werden kann\. Was also bei Christus und der Kirche der Fall ist, ist dadurch auch bei den Einzelnen, die Männer und Frauen sind, ein untrennbares Sakrament der Verbindung\. Daher sagt der Apostel: „Den Verheirateten gebiete nicht ich, sondern der Herr, dass die Frau sich nicht von ihrem Mann trennen soll[^bible-0454b0b5-8da9-41fd-951c-20c347fbfc28]“\.
+Es ist verboten,
+eine Frau aus irgendeinem Grund zu entlassen,
+damit sie nicht nach der Sitte der Juden,
+die der Herr verbot,
+mit anderen verheiratet wird,
+als er sagte:
+„Wer seine Frau entlässt,
+außer wegen Unzucht,
+und eine andere heiratet,
+begeht Ehebruch[^bible-878b57b3-9686-4e7c-86e1-1e88e54248a5]“\.
+Nur das ist Ehebruch,
+wie Hieronymus sagt,
+was die Zuneigung zur Ehefrau überwindet\.
+Denn wenn sie das eine Fleisch in zwei geteilt und sich durch Unzucht getrennt hat,
+darf sie vom Mann nicht festgehalten werden,
+damit sie nicht auch den Mann unter einen Fluch bringt,
+wie die Schrift sagt:
+„Wer aber eine Ehebrecherin behält,
+ist dumm und gottlos[^bible-7f4cc54a-c1a0-4fa2-b5b6-dc1755c0613f]“\.
+Wo immer Unzucht und der Verdacht auf Unzucht vorliegen,
+wird die Frau frei entlassen\.
+Was also?
+Wenn sie unfruchtbar ist,
+wenn sie entstellt ist,
+wenn sie in elendem Alter steht,
+wenn sie stinkt,
+wenn sie trunken ist,
+wenn sie reizbar ist,
+wenn sie von schlechter Moral ist,
+wenn sie ausschweifend ist,
+wenn sie dumm ist,
+wenn sie gefräßig ist,
+wenn sie umherschweift,
+wenn sie streitsüchtig und schmähsüchtig ist,
+muss sie behalten werden,
+auch wenn es an Schleiern nicht fehlt,
+und jede andere dieser Art,
+die angenommen worden ist,
+muss behalten werden\.
+Denn als du frei warst,
+hast du dich freiwillig der Sklaverei unterworfen\.
+Wer aber eine Frau hat,
+kann,
+wie Lactantius sagt,
+weder eine Sklavin noch eine Freie haben,
+wenn er die Treue der Ehe bewahren will\.
+Denn nach der Logik des öffentlichen Rechts ist nicht allein die Frau eine Ehebrecherin,
+die,
+obwohl sie einen Mann hat,
+von einem anderen befleckt wird,
+während der Mann,
+wenn er eine andere Frau hat,
+vom Verbrechen des Ehebruchs frei gilt;
+vielmehr hat das göttliche Gesetz die zwei zu einem Leib der Ehe verbunden[^bible-b15dc197-e0d3-48f2-bbb3-2060d9ee6b78],
+sodass jeder,
+der die Einheit des Leibes in verschiedene Teile zerbricht,
+ein Ehebrecher ist\.
+Darum ist die Treue von beiden zu bewahren\.
+Die Frau soll nämlich durch das Beispiel der Enthaltsamkeit des Mannes unterwiesen werden,
+damit sie sich keusch führt\.
+Denn es ist schlimm,
+wenn du tust,
+was du nicht zugestehen kannst;
+denn der Mann ist das Haupt der Frau[^bible-8ae0b63f-d7ee-4acf-b89a-b708ad1bb55d]\.
+Wenn aber die Frau besser lebt als der Mann,
+hängt das Haus von oben herab\.
+Darum soll der Mann seine Frau in allem Guten übertreffen,
+denn er ist das Haupt,
+damit sie den Mann nachahmt und ihm wahrhaft folgt,
+wie der Leib seinem Haupt folgt,
+so wie die Kirche Christus folgt\.
+Der Apostel mahnt,
+dass auch die Verheirateten um des Gebets willen enthaltsam sind und „nach Übereinkunft[^bible-c5f96f66-a0d2-45ff-8003-e9e28a92838f]“ Zeiten der Heiligung einhalten und sich ohne fleischliches Hindernis „dem Gebet widmen[^bible-c5f96f66-a0d2-45ff-8003-e9e28a92838f]“\.
+Denn auch im Alten Testament enthielten sich alle Männer der Frauen,
+bevor sie geheiligt wurden,
+und so verdienten sie,
+Gott zu begegnen,
+der auf den Berg herabkam\.
+Wiederum mahnt derselbe Apostel:
+„Ihr Frauen,
+ordnet euch euren Männern unter[^bible-bd8031bb-5d6d-4995-a2a8-f367c83f95b4]“\.
+Denn viele,
+die sich wegen Reichtum und Adel über ihre einfacheren Männer erheben,
+erinnern sich nicht an die Lehre Gottes,
+durch die sie ihnen unterworfen sind\.
+Denn der Herr sagte zur Frau:
+„Nach deinem Mann wird dein Verlangen sein,
+und er wird über dich herrschen[^bible-c2914a5c-eebc-4129-a444-65f73bedeba6]“\.
+Darum ist den Geboten der Heiligen Schrift zu gehorchen,
+und dem Mann ist mit freiem Dienst und voller Zuneigung zu dienen\.
 
-Es ist verboten, eine Frau aus irgendeinem Grund zu entlassen, damit sie nicht nach der Sitte der Juden, die der Herr verbot, mit anderen verheiratet wird, als er sagte: „Wer seine Frau entlässt, außer wegen Unzucht, und eine andere heiratet, begeht Ehebruch[^bible-878b57b3-9686-4e7c-86e1-1e88e54248a5]“\. Nur das ist Ehebruch, wie Hieronymus sagt, was die Zuneigung zur Ehefrau überwindet\. Denn wenn sie das eine Fleisch in zwei geteilt und sich durch Unzucht getrennt hat, darf sie vom Mann nicht festgehalten werden, damit sie nicht auch den Mann unter einen Fluch bringt, wie die Schrift sagt: „Wer aber eine Ehebrecherin behält, ist dumm und gottlos[^bible-7f4cc54a-c1a0-4fa2-b5b6-dc1755c0613f]“\. Wo immer Unzucht und der Verdacht auf Unzucht vorliegen, wird die Frau frei entlassen\. Was also? Wenn sie unfruchtbar ist, wenn sie entstellt ist, wenn sie in elendem Alter steht, wenn sie stinkt, wenn sie trunken ist, wenn sie reizbar ist, wenn sie von schlechter Moral ist, wenn sie ausschweifend ist, wenn sie dumm ist, wenn sie gefräßig ist, wenn sie umherschweift, wenn sie streitsüchtig und schmähsüchtig ist, muss sie behalten werden, auch wenn es an Schleiern nicht fehlt, und jede andere dieser Art, die angenommen worden ist, muss behalten werden\. Denn als du frei warst, hast du dich freiwillig der Sklaverei unterworfen\. Wer aber eine Frau hat, kann, wie Lactantius sagt, weder eine Sklavin noch eine Freie haben, wenn er die Treue der Ehe bewahren will\. Denn nach der Logik des öffentlichen Rechts ist nicht allein die Frau eine Ehebrecherin, die, obwohl sie einen Mann hat, von einem anderen befleckt wird, während der Mann, wenn er eine andere Frau hat, vom Verbrechen des Ehebruchs frei gilt; vielmehr hat das göttliche Gesetz die zwei zu einem Leib der Ehe verbunden[^bible-b15dc197-e0d3-48f2-bbb3-2060d9ee6b78], sodass jeder, der die Einheit des Leibes in verschiedene Teile zerbricht, ein Ehebrecher ist\. Darum ist die Treue von beiden zu bewahren\. Die Frau soll nämlich durch das Beispiel der Enthaltsamkeit des Mannes unterwiesen werden, damit sie sich keusch führt\. Denn es ist schlimm, wenn du tust, was du nicht zugestehen kannst; denn der Mann ist das Haupt der Frau[^bible-8ae0b63f-d7ee-4acf-b89a-b708ad1bb55d]\. Wenn aber die Frau besser lebt als der Mann, hängt das Haus von oben herab\. Darum soll der Mann seine Frau in allem Guten übertreffen, denn er ist das Haupt, damit sie den Mann nachahmt und ihm wahrhaft folgt, wie der Leib seinem Haupt folgt, so wie die Kirche Christus folgt\. Der Apostel mahnt, dass auch die Verheirateten um des Gebets willen enthaltsam sind und „nach Übereinkunft[^bible-c5f96f66-a0d2-45ff-8003-e9e28a92838f]“ Zeiten der Heiligung einhalten und sich ohne fleischliches Hindernis „dem Gebet widmen[^bible-c5f96f66-a0d2-45ff-8003-e9e28a92838f]“\. Denn auch im Alten Testament enthielten sich alle Männer der Frauen, bevor sie geheiligt wurden, und so verdienten sie, Gott zu begegnen, der auf den Berg herabkam\. Wiederum mahnt derselbe Apostel: „Ihr Frauen, ordnet euch euren Männern unter[^bible-bd8031bb-5d6d-4995-a2a8-f367c83f95b4]“\. Denn viele, die sich wegen Reichtum und Adel über ihre einfacheren Männer erheben, erinnern sich nicht an die Lehre Gottes, durch die sie ihnen unterworfen sind\. Denn der Herr sagte zur Frau: „Nach deinem Mann wird dein Verlangen sein, und er wird über dich herrschen[^bible-c2914a5c-eebc-4129-a444-65f73bedeba6]“\. Darum ist den Geboten der Heiligen Schrift zu gehorchen, und dem Mann ist mit freiem Dienst und voller Zuneigung zu dienen\.
-
-Denn der Mann wurde nicht um der Frau willen geschaffen, sondern die Frau um des Mannes willen[^bible-8853095a-2ae9-43c7-99e3-5ba9bc002832]; und da das Haupt der Frau ihr Mann ist[^bible-17408281-c195-493e-97dc-dc717a379259], Christus aber das Haupt jedes Mannes ist[^bible-17408281-c195-493e-97dc-dc717a379259], begeht jede Frau, die ihrem Mann, das heißt ihrem Haupt, nicht unterworfen ist, eine Verfehlung derselben Art wie ihr Mann, wenn er Christus, seinem Haupt, nicht unterworfen ist\. Das Wort des Herrn wird gelästert, sowohl wenn die erste Lehre Gottes missachtet und für nichts geachtet wird, als auch wenn das Evangelium Christi entehrt wird, wenn die Frau, die Christin ist und dem Gesetz Gottes untersteht, gegen das Gesetz der Natur und des Glaubens über dem Mann stehen will\. Sogar heidnische Frauen dienen ihren Männern nach dem gemeinsamen Gesetz der Natur\. Darum wird dem Gesetz der Natur und Gottes gedient, wenn die Frau dem Mann unterworfen ist\. Im Gegenteil aber: Wenn sie über ihren Mann herrschen will, wird sowohl die Ordnung der Natur umgestürzt als auch jenes Haus elend und verkehrt genannt\.
+Denn der Mann wurde nicht um der Frau willen geschaffen,
+sondern die Frau um des Mannes willen[^bible-8853095a-2ae9-43c7-99e3-5ba9bc002832];
+und da das Haupt der Frau ihr Mann ist[^bible-17408281-c195-493e-97dc-dc717a379259],
+Christus aber das Haupt jedes Mannes ist[^bible-17408281-c195-493e-97dc-dc717a379259],
+begeht jede Frau,
+die ihrem Mann,
+das heißt ihrem Haupt,
+nicht unterworfen ist,
+eine Verfehlung derselben Art wie ihr Mann,
+wenn er Christus,
+seinem Haupt,
+nicht unterworfen ist\.
+Das Wort des Herrn wird gelästert,
+sowohl wenn die erste Lehre Gottes missachtet und für nichts geachtet wird,
+als auch wenn das Evangelium Christi entehrt wird,
+wenn die Frau,
+die Christin ist und dem Gesetz Gottes untersteht,
+gegen das Gesetz der Natur und des Glaubens über dem Mann stehen will\.
+Sogar heidnische Frauen dienen ihren Männern nach dem gemeinsamen Gesetz der Natur\.
+Darum wird dem Gesetz der Natur und Gottes gedient,
+wenn die Frau dem Mann unterworfen ist\.
+Im Gegenteil aber:
+Wenn sie über ihren Mann herrschen will,
+wird sowohl die Ordnung der Natur umgestürzt als auch jenes Haus elend und verkehrt genannt\.
 
 ## Bibelverweise
 

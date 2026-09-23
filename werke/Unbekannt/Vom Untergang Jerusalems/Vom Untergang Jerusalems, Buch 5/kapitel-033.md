@@ -7,6 +7,38 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-5#kapitel-ef57fc9b-6266-4c6d-27a0-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e516e30f980d470fd0f19d07e2c2878c7808df24eb80b9b562f183f0c3200b36`
-
-Durch dieses Verlangen Caesars und die wiederholte Ansprache änderte sich die Meinung einiger; sie konnten sich in Sicherheit bringen, um zu den Römern zu gelangen\. Die Übrigen hielt die Furcht vor der Gefahr zurück, die von den Räubern ausging, und vielleicht lag auch eine gewisse Neigung der Herzen vor, dass so viele nicht vor der bevorstehenden Vernichtung gerettet würden\. Diejenigen, die zu ihm flohen, nahm Caesar, weil unter ihnen sowohl Männer aus der Priesterschaft mit ihren Söhnen als auch andere Männer aus vornehmen Familien waren, wohlwollend auf\. Er versprach ihnen sichere Rettung und den Erhalt ihres Besitzes und wies sie in die Stadt, die Gofna heißt, damit aus dem fremden Ritus und dem Unterschied ihrer Gottesdienstform kein Anstoß entstünde\. Ob durch jene, die in der Stadt ihren Standort hatten und Widerstand leisteten, oder weil ein solcher Verdacht aufgekommen war, oder weil jemand durch eine List bewirkt hatte, dass nicht viele entkämen, es wurde als Anzeichen für ihren Tod ausgelegt, dass sie getötet und beiseitegeschafft würden\. Als Titus dies erfuhr, befahl er, sie zurückzurufen und zusammen mit Iosephus näher an die Mauern heranzutreten, damit sie von ihrem Volk erkannt würden\. Unter Tränen und großem Klagen weinten sie nicht um sich selbst, sondern über die Vernichtung ihres Vaterlandes und des Tempels\. Sie flehten die Bürger an, der Zusage Caesars zu folgen und den Tempel vor dem vorbereiteten Brand zu retten; ihnen sei nichts gegen das Gesetz befohlen worden, an ihrer Freiheit sei nichts gemindert worden\. Sie sollten nachgeben, und sie würden die Milde der Römer erfahren, deren unüberwindliche Tapferkeit sie auf die Probe gestellt hatten\.
+Durch dieses Verlangen Caesars und die wiederholte Ansprache änderte sich die Meinung einiger;
+sie konnten sich in Sicherheit bringen,
+um zu den Römern zu gelangen\.
+Die Übrigen hielt die Furcht vor der Gefahr zurück,
+die von den Räubern ausging,
+und vielleicht lag auch eine gewisse Neigung der Herzen vor,
+dass so viele nicht vor der bevorstehenden Vernichtung gerettet würden\.
+Diejenigen,
+die zu ihm flohen,
+nahm Caesar,
+weil unter ihnen sowohl Männer aus der Priesterschaft mit ihren Söhnen als auch andere Männer aus vornehmen Familien waren,
+wohlwollend auf\.
+Er versprach ihnen sichere Rettung und den Erhalt ihres Besitzes und wies sie in die Stadt,
+die Gofna heißt,
+damit aus dem fremden Ritus und dem Unterschied ihrer Gottesdienstform kein Anstoß entstünde\.
+Ob durch jene,
+die in der Stadt ihren Standort hatten und Widerstand leisteten,
+oder weil ein solcher Verdacht aufgekommen war,
+oder weil jemand durch eine List bewirkt hatte,
+dass nicht viele entkämen,
+es wurde als Anzeichen für ihren Tod ausgelegt,
+dass sie getötet und beiseitegeschafft würden\.
+Als Titus dies erfuhr,
+befahl er,
+sie zurückzurufen und zusammen mit Iosephus näher an die Mauern heranzutreten,
+damit sie von ihrem Volk erkannt würden\.
+Unter Tränen und großem Klagen weinten sie nicht um sich selbst,
+sondern über die Vernichtung ihres Vaterlandes und des Tempels\.
+Sie flehten die Bürger an,
+der Zusage Caesars zu folgen und den Tempel vor dem vorbereiteten Brand zu retten;
+ihnen sei nichts gegen das Gesetz befohlen worden,
+an ihrer Freiheit sei nichts gemindert worden\.
+Sie sollten nachgeben,
+und sie würden die Milde der Römer erfahren,
+deren unüberwindliche Tapferkeit sie auf die Probe gestellt hatten\.

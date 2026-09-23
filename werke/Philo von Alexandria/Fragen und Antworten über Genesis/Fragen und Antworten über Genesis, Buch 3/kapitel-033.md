@@ -7,9 +7,45 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-3#kapitel-04a703c3-f771-4ca2-9c99-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0728370d81a054bc6007130e09122a4a1b3de4e51a821f1928896adb1eae4aab`
-
-Was bedeutet die Aussage: „Er wird ein wilder Mensch sein; seine Hand wird gegen jeden sein und die Hand eines jeden gegen ihn, und er wird allen seinen Brüdern gegenüber wohnen[^bible-711ef65d-392b-4c61-bf71-1d521f2f5e7a]“? Wenn wir auf den Wortlaut der Aussage sehen, hatte Ismael zu diesem Zeitpunkt noch keine Brüder, denn er war das erste Kind seiner Eltern\. Doch der heilige Schriftsteller bildet hier eine bestimmte Natur ab, die zu verborgen ist, um gründlich erforscht zu werden; denn er hat das Bild seines künftigen Charakters entworfen\. Ein solches Bild stellt offenbar den Sophisten dar, dessen Mutter Gelehrsamkeit oder Weisheit ist\. Der Sophist selbst aber ist ein Mensch wilder Meinungen; denn der Weise ist als zivilisierter Mensch für das Leben in Städten, für städtische Bildung oder für staatsmännische und politische Gemeinschaft geeignet, wer aber wild und ein Mensch wilder Meinungen ist, ist sogleich auch streitsüchtig\. Deshalb fügt der heilige Schriftsteller hinzu und sagt: „Seine Hand wird gegen jeden sein und die Hand eines jeden gegen ihn[^bible-711ef65d-392b-4c61-bf71-1d521f2f5e7a]“; denn der Überfluss an Wissenschaft und der Gebrauch von Gelehrsamkeit vermögen allen Menschen zu widersprechen\. So sind jene Männer der Gegenwart, die Akademiker und Suchende genannt werden: Folgerichtig setzen sie den Festlegungen ihres Willens und Entschlusses keine Grenzen und ziehen unter den verschiedenen Meinungen, die sie prüfen, weder diese noch jene vor; als Philosophen lassen sie diejenigen gelten, die die Meinungen jeder Schule angreifen, und ebenso diejenigen, die man gewöhnlich Gegner des Willens nennt, als nenne man sie Thelemachen oder Thelemamachen, weil sie zuerst Streitigkeiten erheben und sich als Vorkämpfer ihrer eigenen nationalen Schule erklären, ohne sich von ihren Gegnern überzeugen oder zum Schweigen bringen zu lassen\. Sie alle aber sind Verwandte und gleichsam Brüder aus demselben Mutterleib, da sie Nachkommen einer Mutter sind, nämlich der Philosophie\. Deshalb sagt er: „Und er wird allen seinen Brüdern gegenüber wohnen[^bible-711ef65d-392b-4c61-bf71-1d521f2f5e7a]“; denn in der Tat stehen der Akademiker und der Suchende den Schulen genau gegenüber und tadeln an jeder von ihnen die feste Begrenzung des Entschlusses\.
+Was bedeutet die Aussage:
+„Er wird ein wilder Mensch sein;
+seine Hand wird gegen jeden sein und die Hand eines jeden gegen ihn,
+und er wird allen seinen Brüdern gegenüber wohnen[^bible-711ef65d-392b-4c61-bf71-1d521f2f5e7a]“?
+Wenn wir auf den Wortlaut der Aussage sehen,
+hatte Ismael zu diesem Zeitpunkt noch keine Brüder,
+denn er war das erste Kind seiner Eltern\.
+Doch der heilige Schriftsteller bildet hier eine bestimmte Natur ab,
+die zu verborgen ist,
+um gründlich erforscht zu werden;
+denn er hat das Bild seines künftigen Charakters entworfen\.
+Ein solches Bild stellt offenbar den Sophisten dar,
+dessen Mutter Gelehrsamkeit oder Weisheit ist\.
+Der Sophist selbst aber ist ein Mensch wilder Meinungen;
+denn der Weise ist als zivilisierter Mensch für das Leben in Städten,
+für städtische Bildung oder für staatsmännische und politische Gemeinschaft geeignet,
+wer aber wild und ein Mensch wilder Meinungen ist,
+ist sogleich auch streitsüchtig\.
+Deshalb fügt der heilige Schriftsteller hinzu und sagt:
+„Seine Hand wird gegen jeden sein und die Hand eines jeden gegen ihn[^bible-711ef65d-392b-4c61-bf71-1d521f2f5e7a]“;
+denn der Überfluss an Wissenschaft und der Gebrauch von Gelehrsamkeit vermögen allen Menschen zu widersprechen\.
+So sind jene Männer der Gegenwart,
+die Akademiker und Suchende genannt werden:
+Folgerichtig setzen sie den Festlegungen ihres Willens und Entschlusses keine Grenzen und ziehen unter den verschiedenen Meinungen,
+die sie prüfen,
+weder diese noch jene vor;
+als Philosophen lassen sie diejenigen gelten,
+die die Meinungen jeder Schule angreifen,
+und ebenso diejenigen,
+die man gewöhnlich Gegner des Willens nennt,
+als nenne man sie Thelemachen oder Thelemamachen,
+weil sie zuerst Streitigkeiten erheben und sich als Vorkämpfer ihrer eigenen nationalen Schule erklären,
+ohne sich von ihren Gegnern überzeugen oder zum Schweigen bringen zu lassen\.
+Sie alle aber sind Verwandte und gleichsam Brüder aus demselben Mutterleib,
+da sie Nachkommen einer Mutter sind,
+nämlich der Philosophie\.
+Deshalb sagt er:
+„Und er wird allen seinen Brüdern gegenüber wohnen[^bible-711ef65d-392b-4c61-bf71-1d521f2f5e7a]“;
+denn in der Tat stehen der Akademiker und der Suchende den Schulen genau gegenüber und tadeln an jeder von ihnen die feste Begrenzung des Entschlusses\.
 
 ## Bibelverweise
 

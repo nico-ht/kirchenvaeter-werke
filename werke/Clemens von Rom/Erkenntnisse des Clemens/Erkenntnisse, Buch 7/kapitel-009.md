@@ -7,8 +7,23 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-7#kapitel-1a506b8e-b023-455f-202f-08dd2595307e).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b30b04047e58fa5e889a64404eafbc9298f365fff095ae86367fff198a122279`
+Dann setzte mein Vater,
+der seine Söhne zärtlich liebte,
+sie mit ihrer Mutter auf ein Schiff und sandte sie nach Athen,
+um dort ausgebildet zu werden,
+mit Sklaven und Dienstmädchen sowie einem ausreichenden Geldbetrag\.
+Mich behielt er nur,
+um ihm Trost zu spenden,
+und ich war dankbar,
+dass die Vision mir nicht auch befohlen hatte,
+mit meiner Mutter zu gehen\.
 
-Dann setzte mein Vater, der seine Söhne zärtlich liebte, sie mit ihrer Mutter auf ein Schiff und sandte sie nach Athen, um dort ausgebildet zu werden, mit Sklaven und Dienstmädchen sowie einem ausreichenden Geldbetrag\. Mich behielt er nur, um ihm Trost zu spenden, und ich war dankbar, dass die Vision mir nicht auch befohlen hatte, mit meiner Mutter zu gehen\.
-
-Am Ende eines Jahres sandte mein Vater Männer nach Athen mit Geld für sie, um auch zu erfahren, wie es ihnen ging; doch die Gesandten kehrten nie zurück\. Im dritten Jahr sandte mein betrübter Vater erneut andere Männer mit Geld, die im vierten Jahr zurückkamen und berichteten, dass sie weder meine Mutter noch meine Brüder gesehen hatten, dass sie Athen nie erreicht hatten und dass keine Spur von denjenigen gefunden worden war, die mit ihnen gewesen waren\.
+Am Ende eines Jahres sandte mein Vater Männer nach Athen mit Geld für sie,
+um auch zu erfahren,
+wie es ihnen ging;
+doch die Gesandten kehrten nie zurück\.
+Im dritten Jahr sandte mein betrübter Vater erneut andere Männer mit Geld,
+die im vierten Jahr zurückkamen und berichteten,
+dass sie weder meine Mutter noch meine Brüder gesehen hatten,
+dass sie Athen nie erreicht hatten und dass keine Spur von denjenigen gefunden worden war,
+die mit ihnen gewesen waren\.

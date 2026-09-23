@@ -7,9 +7,163 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/69-homilie-ueber-matthaeus#kapitel-ba44be23-4c27-4c21-5b7f-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b40d3643eeeeb0bfdde50f75ce6b612c96d439ac0250b1994f6f367c1cabb5c1`
-
-Du aber sieh auch daran seine großzügige Zuwendung\. „Alle, die ihr findet“, sagt er, „ladet zur Hochzeit ein\.“ Vorher nämlich, wie ich sagte, sprachen sie sowohl zu Juden als auch zu Griechen, hielten sich aber länger in Judäa auf\. Weil jene jedoch dabei blieben, ihnen nachzustellen, höre, wie Paulus dieses Gleichnis auslegt und so spricht: „Euch musste das Wort Gottes zuerst gesagt werden\. Da ihr euch aber selbst für unwürdig erklärt habt, siehe, wenden wir uns zu den Völkern\.[^bible-658d317c-d9b2-4d39-b4c2-c842a6fbcc3a]“ Darum sagt auch er selbst: „Die Hochzeit ist bereit, aber die Geladenen waren nicht würdig\.[^bible-71dac558-11ed-4102-98f9-7001169f379a]“ Er wusste das freilich schon vorher; doch damit er ihnen keinen Vorwand für irgendein schamloses Widersprechen lässt, kam und sandte er, obwohl er es wusste, zuerst zu ihnen\. So bringt er sie zum Schweigen und lehrt uns, alles zu tun, was an uns liegt, auch wenn niemand daraus irgendeinen Gewinn ziehen wird\. Weil sie also nicht würdig waren, sagt er: „Geht auf die Kreuzungen der Wege, und alle, die ihr findet, ladet ein\.[^bible-74fbc21e-a351-42d0-b5b9-966a5c90526b]“ Also auch die zufällig Angetroffenen und die Verworfenen\. Denn weil er immer wieder gesagt hatte: „Huren und Zöllner werden das Himmelreich erben[^bible-307c5f44-f198-4d03-af73-af9832d82bf9]“, und: „Die Ersten werden Letzte sein und die Letzten Erste[^bible-e258d918-ca3e-4add-be4f-4eefd4604e2c]“, zeigt er, dass dies mit Recht geschieht\. Gerade das biss die Juden am meisten und quälte sie noch härter als die Zerstörung: zu sehen, dass Menschen aus den Völkern in das aufgenommen wurden, was ihnen gehörte, ja in noch viel Größeres als das Ihre\. Dann aber, damit auch diese sich nicht allein auf den Glauben verlassen, spricht er mit ihnen über das Gericht wegen der bösen Taten: mit denen, die noch nicht glauben, darüber, dass sie zum Glauben kommen sollen; mit denen aber, die glauben, darüber, dass sie auf ihren Lebenswandel achten sollen\. Denn das Kleid ist Leben und Tat\. Und doch war die Berufung Gnade\. Warum also wird so genau Rechenschaft verlangt? Weil Berufung und Reinigung Gnade waren; dass aber einer, nachdem er berufen und mit reinen Kleidern bekleidet worden ist, in diesem Zustand bleibt und ihn bewahrt, Sache des Eifers der Berufenen ist\. Die Berufung geschah nicht aufgrund der Würdigkeit, sondern aufgrund der Gnade\. Darum hätte man die Gnade erwidern und nach der Ehre nicht so viel Bosheit zeigen müssen\. „Aber ich habe“, sagt einer, „nicht so viel empfangen wie die Juden\.“ Doch, du hast sogar viel größere Güter empfangen\. Denn was ihnen die ganze Zeit hindurch bereitet wurde, das hast du auf einmal erhalten, obwohl du nicht würdig warst\. Darum sagt auch Paulus: „Die Völker aber sollen Gott wegen seines Erbarmens verherrlichen\.[^bible-fc8c3d0e-1dcf-4b41-9928-bf6a523d1cdf]“ Denn was jenen geschuldet war, das hast du empfangen\. Darum liegt auch eine schwere Strafe auf denen, die nachlässig geworden sind\. Denn wie jene ihn dadurch beleidigten, dass sie nicht kamen, so auch du dadurch, dass du dich so zu Tisch legst mit einem verdorbenen Leben\. Denn mit schmutzigen Kleidern hineingehen heißt: mit unreinem Leben von hier scheiden\. Darum wurde er auch zum Schweigen gebracht\. Siehst du, wie er, obwohl die Sache so offenkundig ist, nicht straft, bevor der Sünder selbst das Urteil gesprochen hat? Denn weil er nichts erwidern konnte, verurteilte er sich selbst, und so wird er zu den unaussprechlichen Strafen abgeführt\. Wenn du aber von Finsternis hörst, meine nicht, er werde nur damit bestraft, dass er an einen lichtlosen Ort geschickt wird, sondern dorthin, wo auch das Weinen und das Zähneknirschen ist\. Damit zeigt er die unerträglichen Schmerzen an\. Hört, ihr alle, die ihr die Mysterien genossen habt und zur Hochzeit gekommen seid, eure Seele aber mit schmutzigen Taten bekleidet\. Hört, woher ihr gerufen wurdet: von der Kreuzung\. Was wart ihr? Lahm und verkrüppelt an der Seele, und das ist viel schlimmer als ein Schaden am Körper\. Habt Ehrfurcht vor der Menschenfreundlichkeit dessen, der euch gerufen hat, und niemand soll mit schmutzigen Kleidern bleiben; vielmehr soll jeder von uns das Gewand seiner Seele sorgfältig prüfen\. Hört, Frauen; hört, Männer\. Wir brauchen nicht diese goldbestickten Kleider, die uns außen schmücken, sondern jene, die das Innere schmücken\. Solange wir diese äußeren Kleider haben, ist es schwer, jene anzulegen\. Man kann nicht zugleich Seele und Körper schmücken\. Man kann nicht zugleich dem Mammon dienen und Christus gehorchen, wie es sein muss\. Legen wir also diese harte Tyrannei ab\. Denn wenn jemand sein Haus schmückte und goldene Vorhänge aufhängte, dich aber nackt in Lumpen dasitzen ließe, würdest du das nicht gelassen hinnehmen\. Doch siehe, genau das tust du dir jetzt selbst an: Die Wohnung deiner Seele, ich meine den Körper, schmückst du mit unzähligen Vorhängen, sie selbst aber lässt du in Lumpen dasitzen\. Weißt du nicht, dass der König der Stadt erst recht geschmückt werden muss? Darum sind für die Stadt Vorhänge aus Leinen bereitet, für den König aber Purpurgewand und Diadem\. So lege auch du dem Körper ein viel schlichteres Gewand um, den Verstand aber kleide in Purpur, setz ihm eine Krone auf und lass ihn auf einem hohen, glänzenden Wagen sitzen\. Jetzt nämlich tust du das Gegenteil: Die Stadt schmückst du auf vielerlei Weise, den königlichen Verstand aber lässt du gefesselt hinter den unvernünftigen Leidenschaften hergeschleift werden\. Bedenkst du nicht, dass du zu einer Hochzeit gerufen bist, und zwar zu Gottes Hochzeit? Überlegst du nicht, wie die gerufene Seele in diese Brautgemächer eintreten muss: mit goldenen Fransen bekleidet, reich geschmückt?
+Du aber sieh auch daran seine großzügige Zuwendung\.
+„Alle,
+die ihr findet“,
+sagt er,
+„ladet zur Hochzeit ein\.“
+Vorher nämlich,
+wie ich sagte,
+sprachen sie sowohl zu Juden als auch zu Griechen,
+hielten sich aber länger in Judäa auf\.
+Weil jene jedoch dabei blieben,
+ihnen nachzustellen,
+höre,
+wie Paulus dieses Gleichnis auslegt und so spricht:
+„Euch musste das Wort Gottes zuerst gesagt werden\.
+Da ihr euch aber selbst für unwürdig erklärt habt,
+siehe,
+wenden wir uns zu den Völkern\.[^bible-658d317c-d9b2-4d39-b4c2-c842a6fbcc3a]“ Darum sagt auch er selbst:
+„Die Hochzeit ist bereit,
+aber die Geladenen waren nicht würdig\.[^bible-71dac558-11ed-4102-98f9-7001169f379a]“ Er wusste das freilich schon vorher;
+doch damit er ihnen keinen Vorwand für irgendein schamloses Widersprechen lässt,
+kam und sandte er,
+obwohl er es wusste,
+zuerst zu ihnen\.
+So bringt er sie zum Schweigen und lehrt uns,
+alles zu tun,
+was an uns liegt,
+auch wenn niemand daraus irgendeinen Gewinn ziehen wird\.
+Weil sie also nicht würdig waren,
+sagt er:
+„Geht auf die Kreuzungen der Wege,
+und alle,
+die ihr findet,
+ladet ein\.[^bible-74fbc21e-a351-42d0-b5b9-966a5c90526b]“ Also auch die zufällig Angetroffenen und die Verworfenen\.
+Denn weil er immer wieder gesagt hatte:
+„Huren und Zöllner werden das Himmelreich erben[^bible-307c5f44-f198-4d03-af73-af9832d82bf9]“,
+und:
+„Die Ersten werden Letzte sein und die Letzten Erste[^bible-e258d918-ca3e-4add-be4f-4eefd4604e2c]“,
+zeigt er,
+dass dies mit Recht geschieht\.
+Gerade das biss die Juden am meisten und quälte sie noch härter als die Zerstörung:
+zu sehen,
+dass Menschen aus den Völkern in das aufgenommen wurden,
+was ihnen gehörte,
+ja in noch viel Größeres als das Ihre\.
+Dann aber,
+damit auch diese sich nicht allein auf den Glauben verlassen,
+spricht er mit ihnen über das Gericht wegen der bösen Taten:
+mit denen,
+die noch nicht glauben,
+darüber,
+dass sie zum Glauben kommen sollen;
+mit denen aber,
+die glauben,
+darüber,
+dass sie auf ihren Lebenswandel achten sollen\.
+Denn das Kleid ist Leben und Tat\.
+Und doch war die Berufung Gnade\.
+Warum also wird so genau Rechenschaft verlangt?
+Weil Berufung und Reinigung Gnade waren;
+dass aber einer,
+nachdem er berufen und mit reinen Kleidern bekleidet worden ist,
+in diesem Zustand bleibt und ihn bewahrt,
+Sache des Eifers der Berufenen ist\.
+Die Berufung geschah nicht aufgrund der Würdigkeit,
+sondern aufgrund der Gnade\.
+Darum hätte man die Gnade erwidern und nach der Ehre nicht so viel Bosheit zeigen müssen\.
+„Aber ich habe“,
+sagt einer,
+„nicht so viel empfangen wie die Juden\.“
+Doch,
+du hast sogar viel größere Güter empfangen\.
+Denn was ihnen die ganze Zeit hindurch bereitet wurde,
+das hast du auf einmal erhalten,
+obwohl du nicht würdig warst\.
+Darum sagt auch Paulus:
+„Die Völker aber sollen Gott wegen seines Erbarmens verherrlichen\.[^bible-fc8c3d0e-1dcf-4b41-9928-bf6a523d1cdf]“ Denn was jenen geschuldet war,
+das hast du empfangen\.
+Darum liegt auch eine schwere Strafe auf denen,
+die nachlässig geworden sind\.
+Denn wie jene ihn dadurch beleidigten,
+dass sie nicht kamen,
+so auch du dadurch,
+dass du dich so zu Tisch legst mit einem verdorbenen Leben\.
+Denn mit schmutzigen Kleidern hineingehen heißt:
+mit unreinem Leben von hier scheiden\.
+Darum wurde er auch zum Schweigen gebracht\.
+Siehst du,
+wie er,
+obwohl die Sache so offenkundig ist,
+nicht straft,
+bevor der Sünder selbst das Urteil gesprochen hat?
+Denn weil er nichts erwidern konnte,
+verurteilte er sich selbst,
+und so wird er zu den unaussprechlichen Strafen abgeführt\.
+Wenn du aber von Finsternis hörst,
+meine nicht,
+er werde nur damit bestraft,
+dass er an einen lichtlosen Ort geschickt wird,
+sondern dorthin,
+wo auch das Weinen und das Zähneknirschen ist\.
+Damit zeigt er die unerträglichen Schmerzen an\.
+Hört,
+ihr alle,
+die ihr die Mysterien genossen habt und zur Hochzeit gekommen seid,
+eure Seele aber mit schmutzigen Taten bekleidet\.
+Hört,
+woher ihr gerufen wurdet:
+von der Kreuzung\.
+Was wart ihr?
+Lahm und verkrüppelt an der Seele,
+und das ist viel schlimmer als ein Schaden am Körper\.
+Habt Ehrfurcht vor der Menschenfreundlichkeit dessen,
+der euch gerufen hat,
+und niemand soll mit schmutzigen Kleidern bleiben;
+vielmehr soll jeder von uns das Gewand seiner Seele sorgfältig prüfen\.
+Hört,
+Frauen;
+hört,
+Männer\.
+Wir brauchen nicht diese goldbestickten Kleider,
+die uns außen schmücken,
+sondern jene,
+die das Innere schmücken\.
+Solange wir diese äußeren Kleider haben,
+ist es schwer,
+jene anzulegen\.
+Man kann nicht zugleich Seele und Körper schmücken\.
+Man kann nicht zugleich dem Mammon dienen und Christus gehorchen,
+wie es sein muss\.
+Legen wir also diese harte Tyrannei ab\.
+Denn wenn jemand sein Haus schmückte und goldene Vorhänge aufhängte,
+dich aber nackt in Lumpen dasitzen ließe,
+würdest du das nicht gelassen hinnehmen\.
+Doch siehe,
+genau das tust du dir jetzt selbst an:
+Die Wohnung deiner Seele,
+ich meine den Körper,
+schmückst du mit unzähligen Vorhängen,
+sie selbst aber lässt du in Lumpen dasitzen\.
+Weißt du nicht,
+dass der König der Stadt erst recht geschmückt werden muss?
+Darum sind für die Stadt Vorhänge aus Leinen bereitet,
+für den König aber Purpurgewand und Diadem\.
+So lege auch du dem Körper ein viel schlichteres Gewand um,
+den Verstand aber kleide in Purpur,
+setz ihm eine Krone auf und lass ihn auf einem hohen,
+glänzenden Wagen sitzen\.
+Jetzt nämlich tust du das Gegenteil:
+Die Stadt schmückst du auf vielerlei Weise,
+den königlichen Verstand aber lässt du gefesselt hinter den unvernünftigen Leidenschaften hergeschleift werden\.
+Bedenkst du nicht,
+dass du zu einer Hochzeit gerufen bist,
+und zwar zu Gottes Hochzeit?
+Überlegst du nicht,
+wie die gerufene Seele in diese Brautgemächer eintreten muss:
+mit goldenen Fransen bekleidet,
+reich geschmückt?
 
 ## Bibelverweise
 

@@ -7,9 +7,189 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/59-homilie-ueber-matthaeus#kapitel-3251468d-9e0d-4f44-5b4e-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c6733cf60002ea6bd552010ffe4e3f15e30c4b02e7a277ddb854ac4b8809a168`
-
-Woher kommen dann so viele Gute, wenn das Böse eine so große Macht hat? Wie können die Gezeugten stärker sein als das Ungezeugte? „Aber Gott hebt es auf“, sagt er\. Wann? Und wie wird er aufheben, was ihm an Ehre, Kraft und, wenn man so sagen darf, an Alter gleichsteht? Welch Bosheit des Teufels\! Was für ein Übel hat er erfunden\! Mit welcher Lästerung hat er die Menschen überredet, Gott zu umgeben\! Unter welchem Vorwand der Frömmigkeit hat er eine andere schmähliche Lehre ersonnen\! Denn weil sie zeigen wollten, dass das Böse nicht von Gott stammt, haben sie eine andere böse Lehre eingeführt und behauptet, es sei ungezeugt\. „Woher kommt dann das Böse?“, sagt er\. Aus dem Wollen und Nichtwollen\. „Und woher kommt das Wollen und Nichtwollen selbst?“ Von uns selbst\. Du aber machst mit deiner Frage dasselbe, wie wenn du mich fragtest: „Woher kommt das Sehen und Nichtsehen?“ und ich antwortete: „Vom Schließen und Nichtschließen der Augen“; und du dann wieder fragtest: „Und woher kommt das Schließen und Nichtschließen der Augen selbst?“, und, nachdem du gehört hast: „Von uns selbst und vom Wollen“, wieder eine andere Ursache suchtest\. Denn das Böse ist nichts anderes, als Gott nicht zu gehorchen\. „Woher also“, sagt er, „hat der Mensch das gefunden?“ War es denn eine Leistung, das zu finden? Sag mir das\! Denn auch ich behaupte ja nicht, dass dies schwer sei\. Sondern: Woher wollte er nicht gehorchen? Aus Nachlässigkeit\. Denn obwohl er Herr über beides war, neigte er sich mehr zu diesem hin\. Wenn du aber noch immer ratlos bist und dir schwindelt, wenn du das hörst, will ich dir eine Frage stellen, die keineswegs schwierig oder verwickelt ist, sondern schlicht und klar\. Bist du jemals böse gewesen, und bist du jemals auch gut gewesen? Was ich meine, ist dies: Hast du je eine Leidenschaft bezwungen und bist dann wieder von einer Leidenschaft überwältigt worden? Bist du der Trunkenheit verfallen und hast die Trunkenheit bezwungen? Bist du einmal zornig geworden und ein anderes Mal nicht? Hast du einen Armen übersehen und ein anderes Mal nicht übersehen? Hast du einmal Unzucht getrieben und danach wieder besonnen gelebt? Woher kommt also das alles? Sag mir: woher? Auch wenn du es selbst nicht sagst, werde ich es sagen: Das eine hast du getan, weil du dich bemüht und dich angespannt hast; danach aber hast du dich gehen lassen und bist nachlässig geworden\. Mit den Verzweifelten, die ganz und gar im Bösen sind, ohne Empfinden leben und rasen und nicht einmal hören wollen, was sie bessern könnte, werde ich nicht über Weisheit im Leben sprechen\. Zu denen aber, die bald in diesem, bald in jenem Zustand waren, will ich gern sprechen: Hast du einmal an dich gerissen, was dir nicht zustand, und danach, von Mitleid zerbrochen, sogar von deinem Eigenen dem Bedürftigen mitgeteilt? Woher kommt also diese Veränderung? Ist es nicht offenkundig: aus Einsicht und Entscheidung? Es ist offenkundig, und es gibt niemanden, der das nicht sagen würde\. Darum bitte ich euch: Bemüht euch und haltet an der Tugend fest; dann werdet ihr keine dieser Fragen brauchen\. Denn das Böse ist nur ein Name, wenn wir wollen\. Suche also nicht, woher das Böse kommt, und verzweifle nicht an der Frage, sondern flieh das Böse, sobald du erkannt hast, dass es allein aus Nachlässigkeit kommt\. Und wenn jemand sagt, dies komme nicht von uns, dann sag zu ihm, sobald du siehst, wie er einem Diener zürnt, sich über seine Frau erregt, einem Kind Vorwürfe macht und die verurteilt, die Unrecht tun: „Wie konntest du dann sagen, das Böse komme nicht von uns? Wenn es nämlich nicht von uns kommt, weshalb machst du dann Vorwürfe?“ Sag weiter: „Schimpfst und beleidigst du aus dir selbst? Wenn nicht aus dir selbst, dann soll dir niemand zürnen; wenn aber aus dir selbst, dann kommt auch das Böse aus dir und aus deiner Nachlässigkeit\.“ Was nun? Glaubst du, dass es gute Menschen gibt? Wenn nämlich niemand gut ist, woher hast du dann diesen Namen? Woher kommen die Lobreden? Wenn es aber gute Menschen gibt, ist offenkundig, dass sie auch die Bösen zurechtweisen werden\. Wenn aber niemand freiwillig böse ist und auch nicht aus sich selbst, dann werden die Guten sich als ungerecht erweisen, wenn sie die Bösen zurechtweisen, und dadurch werden auch sie selbst wieder böse sein\. Denn was könnte schlimmer sein, als einen Schuldlosen Anklagen auszusetzen? Wenn uns aber die Guten bleiben, gerade indem sie zurechtweisen, und dies in höchstem Maß ein Zeichen ihrer Güte ist, dann ist selbst den sehr Dummen auch von hier aus klar: Niemand ist jemals aus Notwendigkeit böse\. Wenn du aber nach all dem noch fragst, woher das Böse kommt, würde ich sagen: aus Nachlässigkeit, aus Faulheit, aus dem Umgang mit Bösen, aus der Verachtung der Tugend\. Daher kommt sowohl das Böse als auch die Frage mancher Leute, woher das Böse kommt\. Denn keiner von denen, die recht handeln und sich entscheiden, anständig und besonnen zu leben, geht solchen Dingen nach\. Sondern diejenigen, die Böses wagen und sich durch solche Reden irgendeinen dummen Trost ausdenken wollen, flechten Spinnweben\. Wir aber wollen diese nicht nur mit Worten zerreißen, sondern auch mit Taten\. Denn auch dies geschieht nicht aus Notwendigkeit\. Wenn es nämlich aus Notwendigkeit käme, hätte er nicht gesagt: „Wehe dem Menschen, durch den der Anstoß kommt\![^bible-203e94a2-3ce9-45e8-99c7-ff3185ad0b24]“ Denn er beklagt nur jene, die aus eigener Entscheidung böse sind\. Wenn er aber sagt: „durch den“, wundere dich nicht\. Denn er sagt das nicht, als ob ein anderer durch ihn dies herbeiführte, sondern weil er selbst das Ganze bereitet\. Die Schrift kennt nämlich die Wendung „durch den“, wo sie „von dem“ meint; so etwa, wenn sie sagt: „Ich habe einen Menschen erworben durch Gott\.[^bible-8e23b750-ebd5-4530-bd63-5a390bf0819d]“ Damit nennt sie nicht die zweite Ursache, sondern die erste\. Und wiederum: „Kommt ihre Deutung nicht durch Gott?[^bible-9d53723d-1188-452f-bc54-6bceb4cfe0d8]“, und: „Treu ist Gott, durch den ihr in die Gemeinschaft seines Sohnes berufen wurdet\.[^bible-e63159e6-54ed-4ee0-bddb-ed0be01bd257]“
+Woher kommen dann so viele Gute,
+wenn das Böse eine so große Macht hat?
+Wie können die Gezeugten stärker sein als das Ungezeugte?
+„Aber Gott hebt es auf“,
+sagt er\.
+Wann?
+Und wie wird er aufheben,
+was ihm an Ehre,
+Kraft und,
+wenn man so sagen darf,
+an Alter gleichsteht?
+Welch Bosheit des Teufels\!
+Was für ein Übel hat er erfunden\!
+Mit welcher Lästerung hat er die Menschen überredet,
+Gott zu umgeben\!
+Unter welchem Vorwand der Frömmigkeit hat er eine andere schmähliche Lehre ersonnen\!
+Denn weil sie zeigen wollten,
+dass das Böse nicht von Gott stammt,
+haben sie eine andere böse Lehre eingeführt und behauptet,
+es sei ungezeugt\.
+„Woher kommt dann das Böse?“,
+sagt er\.
+Aus dem Wollen und Nichtwollen\.
+„Und woher kommt das Wollen und Nichtwollen selbst?“
+Von uns selbst\.
+Du aber machst mit deiner Frage dasselbe,
+wie wenn du mich fragtest:
+„Woher kommt das Sehen und Nichtsehen?“
+und ich antwortete:
+„Vom Schließen und Nichtschließen der Augen“;
+und du dann wieder fragtest:
+„Und woher kommt das Schließen und Nichtschließen der Augen selbst?“,
+und,
+nachdem du gehört hast:
+„Von uns selbst und vom Wollen“,
+wieder eine andere Ursache suchtest\.
+Denn das Böse ist nichts anderes,
+als Gott nicht zu gehorchen\.
+„Woher also“,
+sagt er,
+„hat der Mensch das gefunden?“
+War es denn eine Leistung,
+das zu finden?
+Sag mir das\!
+Denn auch ich behaupte ja nicht,
+dass dies schwer sei\.
+Sondern:
+Woher wollte er nicht gehorchen?
+Aus Nachlässigkeit\.
+Denn obwohl er Herr über beides war,
+neigte er sich mehr zu diesem hin\.
+Wenn du aber noch immer ratlos bist und dir schwindelt,
+wenn du das hörst,
+will ich dir eine Frage stellen,
+die keineswegs schwierig oder verwickelt ist,
+sondern schlicht und klar\.
+Bist du jemals böse gewesen,
+und bist du jemals auch gut gewesen?
+Was ich meine,
+ist dies:
+Hast du je eine Leidenschaft bezwungen und bist dann wieder von einer Leidenschaft überwältigt worden?
+Bist du der Trunkenheit verfallen und hast die Trunkenheit bezwungen?
+Bist du einmal zornig geworden und ein anderes Mal nicht?
+Hast du einen Armen übersehen und ein anderes Mal nicht übersehen?
+Hast du einmal Unzucht getrieben und danach wieder besonnen gelebt?
+Woher kommt also das alles?
+Sag mir:
+woher?
+Auch wenn du es selbst nicht sagst,
+werde ich es sagen:
+Das eine hast du getan,
+weil du dich bemüht und dich angespannt hast;
+danach aber hast du dich gehen lassen und bist nachlässig geworden\.
+Mit den Verzweifelten,
+die ganz und gar im Bösen sind,
+ohne Empfinden leben und rasen und nicht einmal hören wollen,
+was sie bessern könnte,
+werde ich nicht über Weisheit im Leben sprechen\.
+Zu denen aber,
+die bald in diesem,
+bald in jenem Zustand waren,
+will ich gern sprechen:
+Hast du einmal an dich gerissen,
+was dir nicht zustand,
+und danach,
+von Mitleid zerbrochen,
+sogar von deinem Eigenen dem Bedürftigen mitgeteilt?
+Woher kommt also diese Veränderung?
+Ist es nicht offenkundig:
+aus Einsicht und Entscheidung?
+Es ist offenkundig,
+und es gibt niemanden,
+der das nicht sagen würde\.
+Darum bitte ich euch:
+Bemüht euch und haltet an der Tugend fest;
+dann werdet ihr keine dieser Fragen brauchen\.
+Denn das Böse ist nur ein Name,
+wenn wir wollen\.
+Suche also nicht,
+woher das Böse kommt,
+und verzweifle nicht an der Frage,
+sondern flieh das Böse,
+sobald du erkannt hast,
+dass es allein aus Nachlässigkeit kommt\.
+Und wenn jemand sagt,
+dies komme nicht von uns,
+dann sag zu ihm,
+sobald du siehst,
+wie er einem Diener zürnt,
+sich über seine Frau erregt,
+einem Kind Vorwürfe macht und die verurteilt,
+die Unrecht tun:
+„Wie konntest du dann sagen,
+das Böse komme nicht von uns?
+Wenn es nämlich nicht von uns kommt,
+weshalb machst du dann Vorwürfe?“
+Sag weiter:
+„Schimpfst und beleidigst du aus dir selbst?
+Wenn nicht aus dir selbst,
+dann soll dir niemand zürnen;
+wenn aber aus dir selbst,
+dann kommt auch das Böse aus dir und aus deiner Nachlässigkeit\.“
+Was nun?
+Glaubst du,
+dass es gute Menschen gibt?
+Wenn nämlich niemand gut ist,
+woher hast du dann diesen Namen?
+Woher kommen die Lobreden?
+Wenn es aber gute Menschen gibt,
+ist offenkundig,
+dass sie auch die Bösen zurechtweisen werden\.
+Wenn aber niemand freiwillig böse ist und auch nicht aus sich selbst,
+dann werden die Guten sich als ungerecht erweisen,
+wenn sie die Bösen zurechtweisen,
+und dadurch werden auch sie selbst wieder böse sein\.
+Denn was könnte schlimmer sein,
+als einen Schuldlosen Anklagen auszusetzen?
+Wenn uns aber die Guten bleiben,
+gerade indem sie zurechtweisen,
+und dies in höchstem Maß ein Zeichen ihrer Güte ist,
+dann ist selbst den sehr Dummen auch von hier aus klar:
+Niemand ist jemals aus Notwendigkeit böse\.
+Wenn du aber nach all dem noch fragst,
+woher das Böse kommt,
+würde ich sagen:
+aus Nachlässigkeit,
+aus Faulheit,
+aus dem Umgang mit Bösen,
+aus der Verachtung der Tugend\.
+Daher kommt sowohl das Böse als auch die Frage mancher Leute,
+woher das Böse kommt\.
+Denn keiner von denen,
+die recht handeln und sich entscheiden,
+anständig und besonnen zu leben,
+geht solchen Dingen nach\.
+Sondern diejenigen,
+die Böses wagen und sich durch solche Reden irgendeinen dummen Trost ausdenken wollen,
+flechten Spinnweben\.
+Wir aber wollen diese nicht nur mit Worten zerreißen,
+sondern auch mit Taten\.
+Denn auch dies geschieht nicht aus Notwendigkeit\.
+Wenn es nämlich aus Notwendigkeit käme,
+hätte er nicht gesagt:
+„Wehe dem Menschen,
+durch den der Anstoß kommt\![^bible-203e94a2-3ce9-45e8-99c7-ff3185ad0b24]“ Denn er beklagt nur jene,
+die aus eigener Entscheidung böse sind\.
+Wenn er aber sagt:
+„durch den“,
+wundere dich nicht\.
+Denn er sagt das nicht,
+als ob ein anderer durch ihn dies herbeiführte,
+sondern weil er selbst das Ganze bereitet\.
+Die Schrift kennt nämlich die Wendung „durch den“,
+wo sie „von dem“ meint;
+so etwa,
+wenn sie sagt:
+„Ich habe einen Menschen erworben durch Gott\.[^bible-8e23b750-ebd5-4530-bd63-5a390bf0819d]“ Damit nennt sie nicht die zweite Ursache,
+sondern die erste\.
+Und wiederum:
+„Kommt ihre Deutung nicht durch Gott?[^bible-9d53723d-1188-452f-bc54-6bceb4cfe0d8]“,
+und:
+„Treu ist Gott,
+durch den ihr in die Gemeinschaft seines Sohnes berufen wurdet\.[^bible-e63159e6-54ed-4ee0-bddb-ed0be01bd257]“
 
 ## Bibelverweise
 

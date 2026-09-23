@@ -7,6 +7,47 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-8763b0e8-2957-4af7-eff5-08de65b8739d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7cf599ff25240c5484597c0734c9b247351b3bebfe3fb92a2dbd10791849189d`
-
-Nun wart ihr alle aus eurem Volk mit diesen Tatsachen im Leben des Jona bestens vertraut, und obwohl Christus euch verkündete, dass er euch das Zeichen des Jona geben würde, und er euch anflehte, wenigstens nach seiner Auferstehung von den Toten von euren Sünden umzukehren und vor Gott zu jammern wie die Niniviten, damit eure Nation und Stadt nicht eingenommen und zerstört werden würde, wie es geschehen ist, habt ihr nicht nur die Buße verweigert, nachdem ihr erfahren hattet, dass er von den Toten auferstanden war, sondern, wie ich sagte, ihr habt bestimmte Männer per Abstimmung ausgewählt und sie in die ganze zivilisierte Welt gesandt und verkündet, dass eine ‚gottlose und gesetzlose Sekte‘ von einem Verführer gegründet wurde, einem gewissen Jesus von Galiläa, den wir ans Kreuz genagelt haben, dessen Leichnam aber, nachdem er vom Kreuz genommen wurde, nachts von seinen Jüngern aus dem Grab gestohlen wurde, die nun versuchen, die Menschen zu täuschen, indem sie bekräftigen, dass er von den Toten auferstanden und in den Himmel aufgefahren ist\. Und ihr klagt ihn an, jene ehrfurchtslosen, aufrührerischen und bösen Dinge gelehrt zu haben, derer ihr überall all jene beschuldigt, die zu ihm aufblicken und ihn als ihren Christus, ihren Lehrer und den Sohn Gottes anerkennen\. Und zusätzlich dazu: Selbst jetzt, nachdem eure Stadt eingenommen und euer ganzes Land verwüstet wurde, weigert ihr euch nicht nur umzukehren, sondern ihr verflucht ihn und alle seine Anhänger trotzig\. Aber was uns Christen betrifft: Wir hassen euch nicht, noch jene, die den bösen Gerüchten geglaubt haben, die ihr gegen uns verbreitet habt; im Gegenteil, wir beten, dass ihr selbst jetzt noch eure Wege ändern und Barmherzigkeit bei Gott finden mögt, dem Vater des Alls, der überaus gütig und mitfühlend ist\.
+Nun wart ihr alle aus eurem Volk mit diesen Tatsachen im Leben des Jona bestens vertraut,
+und obwohl Christus euch verkündete,
+dass er euch das Zeichen des Jona geben würde,
+und er euch anflehte,
+wenigstens nach seiner Auferstehung von den Toten von euren Sünden umzukehren und vor Gott zu jammern wie die Niniviten,
+damit eure Nation und Stadt nicht eingenommen und zerstört werden würde,
+wie es geschehen ist,
+habt ihr nicht nur die Buße verweigert,
+nachdem ihr erfahren hattet,
+dass er von den Toten auferstanden war,
+sondern,
+wie ich sagte,
+ihr habt bestimmte Männer per Abstimmung ausgewählt und sie in die ganze zivilisierte Welt gesandt und verkündet,
+dass eine ‚gottlose und gesetzlose Sekte‘ von einem Verführer gegründet wurde,
+einem gewissen Jesus von Galiläa,
+den wir ans Kreuz genagelt haben,
+dessen Leichnam aber,
+nachdem er vom Kreuz genommen wurde,
+nachts von seinen Jüngern aus dem Grab gestohlen wurde,
+die nun versuchen,
+die Menschen zu täuschen,
+indem sie bekräftigen,
+dass er von den Toten auferstanden und in den Himmel aufgefahren ist\.
+Und ihr klagt ihn an,
+jene ehrfurchtslosen,
+aufrührerischen und bösen Dinge gelehrt zu haben,
+derer ihr überall all jene beschuldigt,
+die zu ihm aufblicken und ihn als ihren Christus,
+ihren Lehrer und den Sohn Gottes anerkennen\.
+Und zusätzlich dazu:
+Selbst jetzt,
+nachdem eure Stadt eingenommen und euer ganzes Land verwüstet wurde,
+weigert ihr euch nicht nur umzukehren,
+sondern ihr verflucht ihn und alle seine Anhänger trotzig\.
+Aber was uns Christen betrifft:
+Wir hassen euch nicht,
+noch jene,
+die den bösen Gerüchten geglaubt haben,
+die ihr gegen uns verbreitet habt;
+im Gegenteil,
+wir beten,
+dass ihr selbst jetzt noch eure Wege ändern und Barmherzigkeit bei Gott finden mögt,
+dem Vater des Alls,
+der überaus gütig und mitfühlend ist\.

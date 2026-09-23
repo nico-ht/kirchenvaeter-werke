@@ -7,8 +7,100 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-1#kapitel-47827759-57fc-4944-4880-08ded87107d6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7364665ea8a0553ec23c561bb06a83d85209263be439afb50fd6957f8e15f81d`
+Da er also jedes Verlangen nach Gewinn und nach jenen Reichtümern,
+die bei den Menschen in höchstem Ansehen stehen,
+vollständig abgelegt hatte,
+ehrte Gott ihn und gab ihm stattdessen den größten und vollkommensten Reichtum:
+den Reichtum der ganzen Erde,
+des ganzen Meeres,
+aller Flüsse,
+aller übrigen Elemente und jeder nur möglichen Verbindung\.
+Denn weil Gott ihn für würdig hielt,
+an dem Anteil teilzuhaben,
+den er sich selbst vorbehalten hatte,
+gab er ihm die ganze Welt als Besitz,
+wie er einem Erben angemessen ist\.
+Darum gehorchte ihm jedes Element wie seinem Herrn,
+änderte die Kraft,
+die es von Natur aus besaß,
+und fügte sich seinen Befehlen\.
+Und vielleicht war daran nichts Verwunderliches;
+denn wenn nach dem Sprichwort gilt:
+„Der gesamte Besitz von Freunden ist gemeinsam“,
+und wenn der Prophet mit Recht Freund Gottes genannt wurde,
+dann folgt daraus,
+dass er naturgemäß an Gott selbst und an allem,
+was Gott besitzt,
+Anteil hatte,
+soweit er dessen bedurfte\.
+Denn Gott besitzt alles und hat an nichts Mangel;
+der gute Mensch aber hat nichts,
+was eigentlich sein Eigen wäre,
+nicht einmal sich selbst,
+sondern ihm wird Anteil an den Schätzen Gottes gewährt,
+soweit er daran teilhaben kann\.
+Und das ist ganz natürlich;
+denn er ist Bürger der Welt\.
+Deshalb heißt es von ihm nicht,
+er sei als Bürger irgendeiner bestimmten Stadt der bewohnten Erde eingetragen,
+da ihm als Erbe passenderweise nicht ein Teil eines Landbezirks,
+sondern die ganze Welt zukommt\.
+Was soll ich noch sagen?
+Hat er nicht auch eine noch größere Gemeinschaft mit dem Vater und Schöpfer des Alls genossen,
+indem man ihn für unwürdig hielt,
+mit demselben Namen benannt zu werden?
+Denn auch er wurde Gott und König des ganzen Volkes genannt,
+und von ihm heißt es,
+er sei in die Finsternis eingetreten,
+wo Gott war;
 
-Da er also jedes Verlangen nach Gewinn und nach jenen Reichtümern, die bei den Menschen in höchstem Ansehen stehen, vollständig abgelegt hatte, ehrte Gott ihn und gab ihm stattdessen den größten und vollkommensten Reichtum: den Reichtum der ganzen Erde, des ganzen Meeres, aller Flüsse, aller übrigen Elemente und jeder nur möglichen Verbindung\. Denn weil Gott ihn für würdig hielt, an dem Anteil teilzuhaben, den er sich selbst vorbehalten hatte, gab er ihm die ganze Welt als Besitz, wie er einem Erben angemessen ist\. Darum gehorchte ihm jedes Element wie seinem Herrn, änderte die Kraft, die es von Natur aus besaß, und fügte sich seinen Befehlen\. Und vielleicht war daran nichts Verwunderliches; denn wenn nach dem Sprichwort gilt: „Der gesamte Besitz von Freunden ist gemeinsam“, und wenn der Prophet mit Recht Freund Gottes genannt wurde, dann folgt daraus, dass er naturgemäß an Gott selbst und an allem, was Gott besitzt, Anteil hatte, soweit er dessen bedurfte\. Denn Gott besitzt alles und hat an nichts Mangel; der gute Mensch aber hat nichts, was eigentlich sein Eigen wäre, nicht einmal sich selbst, sondern ihm wird Anteil an den Schätzen Gottes gewährt, soweit er daran teilhaben kann\. Und das ist ganz natürlich; denn er ist Bürger der Welt\. Deshalb heißt es von ihm nicht, er sei als Bürger irgendeiner bestimmten Stadt der bewohnten Erde eingetragen, da ihm als Erbe passenderweise nicht ein Teil eines Landbezirks, sondern die ganze Welt zukommt\. Was soll ich noch sagen? Hat er nicht auch eine noch größere Gemeinschaft mit dem Vater und Schöpfer des Alls genossen, indem man ihn für unwürdig hielt, mit demselben Namen benannt zu werden? Denn auch er wurde Gott und König des ganzen Volkes genannt, und von ihm heißt es, er sei in die Finsternis eingetreten, wo Gott war;
-
-das heißt: in die unsichtbare, gestaltlose und unkörperliche Welt, in die Wesenheit, die das Urbild alles Seienden ist, wo er Dinge schaute, die der sterblichen Natur unsichtbar sind\. Denn indem er sich selbst und sein eigenes Leben in die Mitte stellte wie ein vorzüglich gearbeitetes Bild, machte er sich zu einem überaus schönen und gottähnlichen Werk, zum Vorbild für alle, die geneigt waren, ihn nachzuahmen\. Glücklich aber sind die, die imstande waren, eine getreue Kopie dieser Vortrefflichkeit in ihre eigene Seele aufzunehmen, oder sich sogar eifrig darum bemüht haben; denn vor allem der Geist soll die vollkommene Gestalt der Tugend annehmen, und wenn das nicht möglich ist, so soll er doch wenigstens ein unerschütterliches und unveränderliches Verlangen empfinden, diese Gestalt zu erwerben\. Denn tatsächlich gibt es niemanden, der nicht wüsste, dass Menschen in niedriger Stellung Nachahmer von Männern hohen Ansehens sind, und dass sie das, worauf diese sichtbar vor allem ihr Verlangen richten, auch selbst zum Ziel ihrer eigenen Neigungen und Bemühungen machen\. Wenn daher das Oberhaupt eines Volkes beginnt, sich der Üppigkeit hinzugeben und zu einem verweichlichten, entnervenden Leben abzuweichen, dann treiben alle seine Untergebenen, oder doch fast alle, ihr Verlangen nach Befriedigung der Begierden des Bauches und der Teile unterhalb des Bauches über jedes vernünftige Maß hinaus; ausgenommen mögen einige sein, die durch die natürliche Güte ihrer Veranlagung eine Seele besitzen, die von Verrat weit entfernt, vielmehr barmherzig und gütig ist\. Wenn dagegen das Oberhaupt eines Volkes eine strengere und würdigere Lebensweise annimmt, dann ändern sich sogar diejenigen seiner Untergebenen, die zu großer Zügellosigkeit neigen, und werden maßvoll, weil sie aus Furcht oder aus Scham eilig zu erkennen geben wollen, dass sie denselben Bestrebungen und Neigungen ergeben sind wie er\. Tatsächlich werden die niederen Schichten niemals die Sitten und Gewohnheiten ihrer Höhergestellten verwerfen, nicht einmal Wahnsinnige tun das\. Vielleicht aber war Mose, da er auch dazu bestimmt war, Gesetzgeber seines Volkes zu werden, schon lange zuvor durch die Vorsehung Gottes selbst ein lebendiges und vernünftiges Gesetz; denn diese Vorsehung bestimmte ihn zum Gesetzgeber, als er von seiner Bestimmung noch nichts wusste\.
+das heißt:
+in die unsichtbare,
+gestaltlose und unkörperliche Welt,
+in die Wesenheit,
+die das Urbild alles Seienden ist,
+wo er Dinge schaute,
+die der sterblichen Natur unsichtbar sind\.
+Denn indem er sich selbst und sein eigenes Leben in die Mitte stellte wie ein vorzüglich gearbeitetes Bild,
+machte er sich zu einem überaus schönen und gottähnlichen Werk,
+zum Vorbild für alle,
+die geneigt waren,
+ihn nachzuahmen\.
+Glücklich aber sind die,
+die imstande waren,
+eine getreue Kopie dieser Vortrefflichkeit in ihre eigene Seele aufzunehmen,
+oder sich sogar eifrig darum bemüht haben;
+denn vor allem der Geist soll die vollkommene Gestalt der Tugend annehmen,
+und wenn das nicht möglich ist,
+so soll er doch wenigstens ein unerschütterliches und unveränderliches Verlangen empfinden,
+diese Gestalt zu erwerben\.
+Denn tatsächlich gibt es niemanden,
+der nicht wüsste,
+dass Menschen in niedriger Stellung Nachahmer von Männern hohen Ansehens sind,
+und dass sie das,
+worauf diese sichtbar vor allem ihr Verlangen richten,
+auch selbst zum Ziel ihrer eigenen Neigungen und Bemühungen machen\.
+Wenn daher das Oberhaupt eines Volkes beginnt,
+sich der Üppigkeit hinzugeben und zu einem verweichlichten,
+entnervenden Leben abzuweichen,
+dann treiben alle seine Untergebenen,
+oder doch fast alle,
+ihr Verlangen nach Befriedigung der Begierden des Bauches und der Teile unterhalb des Bauches über jedes vernünftige Maß hinaus;
+ausgenommen mögen einige sein,
+die durch die natürliche Güte ihrer Veranlagung eine Seele besitzen,
+die von Verrat weit entfernt,
+vielmehr barmherzig und gütig ist\.
+Wenn dagegen das Oberhaupt eines Volkes eine strengere und würdigere Lebensweise annimmt,
+dann ändern sich sogar diejenigen seiner Untergebenen,
+die zu großer Zügellosigkeit neigen,
+und werden maßvoll,
+weil sie aus Furcht oder aus Scham eilig zu erkennen geben wollen,
+dass sie denselben Bestrebungen und Neigungen ergeben sind wie er\.
+Tatsächlich werden die niederen Schichten niemals die Sitten und Gewohnheiten ihrer Höhergestellten verwerfen,
+nicht einmal Wahnsinnige tun das\.
+Vielleicht aber war Mose,
+da er auch dazu bestimmt war,
+Gesetzgeber seines Volkes zu werden,
+schon lange zuvor durch die Vorsehung Gottes selbst ein lebendiges und vernünftiges Gesetz;
+denn diese Vorsehung bestimmte ihn zum Gesetzgeber,
+als er von seiner Bestimmung noch nichts wusste\.

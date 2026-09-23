@@ -7,9 +7,178 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/56-homilie-ueber-matthaeus#kapitel-68d196e3-8cdf-4423-5b3c-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:4d817cb72ab7ebe36c2c25f647a7789bf9c090b8f79812f098555a5e81bc4df3`
-
-„Amen, amen, ich sage euch: Einige von denen, die hier stehen, werden den Tod nicht schmecken, bis sie den Menschensohn kommen sehen in seinem Reich\.[^bible-2dfa7131-ff46-48f2-8f90-b777a91682a9]“ Denn weil er viel über Gefahren gesprochen hatte und über den Tod, über sein eigenes Leiden und das Hinschlachten der Jünger, und weil er jene harten Forderungen gestellt hatte; und weil das eine schon im gegenwärtigen Leben lag und unmittelbar bevorstand, die Güter aber in Hoffnung und Erwartung standen: dass diejenigen, die ihre Seele verlieren, sie retten, dass er in der Herrlichkeit seines Vaters kommen wird, dass er die Siegespreise austeilt, darum wollte er auch ihren Augen volle Gewissheit geben und zeigen, was jene Herrlichkeit ist, mit der er kommen wird, soweit es ihnen möglich war, sie zu begreifen\. Schon im gegenwärtigen Leben zeigt und offenbart er sie ihnen, damit sie künftig weder über den eigenen Tod noch über den Tod des Herrn Schmerz empfinden, besonders Petrus, der darunter litt\. Und sieh, was er tut\. Nachdem er über Gehenna und Reich gesprochen hatte, denn mit den Worten: „Wer seine Seele findet, wird sie verlieren; und wer sie um meinetwillen verliert, wird sie finden[^bible-a841224e-df48-46d0-bb26-6c8cf3e9deb2]“, und mit den Worten: „Er wird jedem vergelten nach seinem Tun[^bible-46aaf27e-9458-4d8f-8327-ea6ec803b418]“, hatte er beides deutlich gemacht\. Nachdem er also über beides gesprochen hat, zeigt er das Reich dem Auge, die Gehenna aber nicht mehr\. Warum wohl? Weil auch dies notwendig gewesen wäre, wenn sie von gröberer Art gewesen wären\. Da sie aber bewährt waren und ein gutes Urteil hatten, führt er sie durch das Bessere\. Nicht nur deshalb aber zeigt er dies, sondern auch, weil dies ihm selbst angemessener war\. Freilich übergeht er auch jenen Teil nicht; vielmehr gibt es Augenblicke, in denen er ihnen beinahe auch die Dinge der Gehenna vor Augen stellt: wenn er etwa das Bild des Lazarus einführt, den erwähnt, der die hundert Denare einforderte, oder den, der schmutzige Kleider trug, und noch viele andere\. „Und nach sechs Tagen nimmt er Petrus, Jakobus und Johannes mit\. Ein anderer aber sagt: nach acht Tagen[^bible-a4f2e1e3-53e4-4982-bb15-3e6eb6a9b206]“, und widerspricht dem nicht, sondern stimmt sogar sehr genau damit überein\. Der eine hat nämlich auch den Tag mitgezählt, an dem er dies aussprach, und jenen, an dem er sie hinaufführte; der andere nur die Tage dazwischen\. Achte nun darauf, wie philosophisch Matthäus denkt: Er verbirgt nicht die, die ihm selbst vorgezogen wurden\. Dasselbe tut auch Johannes an vielen Stellen: Er schreibt die ausgezeichneten Lobesworte über Petrus mit großer Wahrhaftigkeit auf\. Denn frei von Neid und leerer Ruhmsucht war überall der Chor dieser Heiligen\. Nachdem er also die Führenden mitgenommen hatte, „führt er sie auf einen hohen Berg, für sich allein; und er wurde vor ihnen verwandelt, und sein Gesicht leuchtete wie die Sonne, seine Kleider aber wurden weiß wie das Licht\. Und es erschienen ihnen Mose und Elija, die mit ihm sprachen\.[^bible-a4f2e1e3-53e4-4982-bb15-3e6eb6a9b206]“ Warum nimmt er nur diese mit? Weil diese die anderen überragten\. Petrus zeigte seinen Vorrang dadurch, dass er ihn überaus liebte; Johannes dadurch, dass er überaus geliebt wurde; und Jakobus durch die Antwort, die er zusammen mit seinem Bruder gab, als er sagte: „Wir können den Kelch trinken[^bible-71c5773b-55b7-40c8-9f5a-ce0957d5fb96]“, nicht nur durch diese Antwort, sondern auch durch seine Taten, durch die übrigen ebenso wie dadurch, dass er erfüllte, was er gesagt hatte\. Denn so leidenschaftlich und schwer erträglich war er den Juden, dass sogar Herodes meinte, er mache den Juden das größte Geschenk, wenn er ihn beseitigte\. Warum aber führt er sie nicht sofort hinauf? Damit die übrigen Jünger nichts allzu Menschliches empfinden\. Deshalb nennt er auch die Namen derer nicht, die hinaufsteigen sollten\. Denn die übrigen hätten sehr danach verlangt, mitzugehen, weil sie ein Abbild jener Herrlichkeit sehen sollten, und sie hätten Schmerz empfunden, als wären sie übergangen worden\. Zwar zeigte er dies in stärker körperlicher Weise, aber dennoch weckte die Sache große Sehnsucht\. Warum sagt er es also auch vorher? Damit sie durch das, was er vorhergesagt hatte, aufnahmefähiger für die Schau werden und, durch die Zahl der Tage mit noch stärkerem Verlangen erfüllt, dann mit wachem und aufmerksamem Sinn erscheinen\. Weshalb aber bringt er auch Mose und Elija in die Mitte? Dafür könnte man viele Gründe nennen\. Der erste ist dieser: Weil die Volksmengen sagten, die einen, er sei Elija, die anderen, Jeremia, wieder andere, einer der alten Propheten, führt er die führenden Gestalten herbei, damit sie auch daran den Abstand zwischen den Dienern und dem Herrn sehen und erkennen, dass Petrus zu Recht gelobt wurde, als er ihn als Sohn Gottes bekannte\. Danach lässt sich noch ein weiterer Grund nennen\. Denn weil sie ihm ständig vorwarfen, das Gesetz zu übertreten, und ihn für einen Lästerer hielten, als eigne er sich eine Herrlichkeit an, die ihm nicht zukomme, nämlich die des Vaters, und sagten: „Dieser ist nicht von Gott, weil er den Sabbat nicht hält[^bible-787121ae-081d-4bc7-ad53-8a96d44c9fe9]“, und wieder: „Wegen eines guten Werkes steinigen wir dich nicht, sondern wegen Gotteslästerung, und weil du, der du ein Mensch bist, dich selbst zu Gott machst[^bible-1f6eed2c-7e9a-4bdf-b9ce-00f211e13eae]“, darum führt er die in die Mitte, die in beiden Dingen geglänzt haben, damit gezeigt wird: Beide Anklagen stammen aus Neid; an beiden ist er ohne Schuld\. Was geschieht, ist weder Übertretung des Gesetzes, noch ist es Anmaßung einer ihm nicht zukommenden Herrlichkeit, wenn er sich dem Vater gleich nennt\. Denn Mose gab das Gesetz, und die Juden konnten sich denken: Er hätte nicht zugesehen, wie es, wie sie meinten, mit Füßen getreten wurde; auch hätte er den, der es übertrat und dem Gesetzgeber feindlich gegenüberstand, nicht geehrt\. Auch Elija eiferte für die Herrlichkeit Gottes; wenn Christus also Gott entgegengesetzt gewesen wäre, wenn er sich selbst Gott genannt und sich dem Vater gleich gemacht hätte, ohne zu sein, was er sagte, und ohne dies zu Recht zu tun, dann wäre auch Elija nicht dabeigestanden und hätte ihm nicht gehorcht\.
+„Amen,
+amen,
+ich sage euch:
+Einige von denen,
+die hier stehen,
+werden den Tod nicht schmecken,
+bis sie den Menschensohn kommen sehen in seinem Reich\.[^bible-2dfa7131-ff46-48f2-8f90-b777a91682a9]“ Denn weil er viel über Gefahren gesprochen hatte und über den Tod,
+über sein eigenes Leiden und das Hinschlachten der Jünger,
+und weil er jene harten Forderungen gestellt hatte;
+und weil das eine schon im gegenwärtigen Leben lag und unmittelbar bevorstand,
+die Güter aber in Hoffnung und Erwartung standen:
+dass diejenigen,
+die ihre Seele verlieren,
+sie retten,
+dass er in der Herrlichkeit seines Vaters kommen wird,
+dass er die Siegespreise austeilt,
+darum wollte er auch ihren Augen volle Gewissheit geben und zeigen,
+was jene Herrlichkeit ist,
+mit der er kommen wird,
+soweit es ihnen möglich war,
+sie zu begreifen\.
+Schon im gegenwärtigen Leben zeigt und offenbart er sie ihnen,
+damit sie künftig weder über den eigenen Tod noch über den Tod des Herrn Schmerz empfinden,
+besonders Petrus,
+der darunter litt\.
+Und sieh,
+was er tut\.
+Nachdem er über Gehenna und Reich gesprochen hatte,
+denn mit den Worten:
+„Wer seine Seele findet,
+wird sie verlieren;
+und wer sie um meinetwillen verliert,
+wird sie finden[^bible-a841224e-df48-46d0-bb26-6c8cf3e9deb2]“,
+und mit den Worten:
+„Er wird jedem vergelten nach seinem Tun[^bible-46aaf27e-9458-4d8f-8327-ea6ec803b418]“,
+hatte er beides deutlich gemacht\.
+Nachdem er also über beides gesprochen hat,
+zeigt er das Reich dem Auge,
+die Gehenna aber nicht mehr\.
+Warum wohl?
+Weil auch dies notwendig gewesen wäre,
+wenn sie von gröberer Art gewesen wären\.
+Da sie aber bewährt waren und ein gutes Urteil hatten,
+führt er sie durch das Bessere\.
+Nicht nur deshalb aber zeigt er dies,
+sondern auch,
+weil dies ihm selbst angemessener war\.
+Freilich übergeht er auch jenen Teil nicht;
+vielmehr gibt es Augenblicke,
+in denen er ihnen beinahe auch die Dinge der Gehenna vor Augen stellt:
+wenn er etwa das Bild des Lazarus einführt,
+den erwähnt,
+der die hundert Denare einforderte,
+oder den,
+der schmutzige Kleider trug,
+und noch viele andere\.
+„Und nach sechs Tagen nimmt er Petrus,
+Jakobus und Johannes mit\.
+Ein anderer aber sagt:
+nach acht Tagen[^bible-a4f2e1e3-53e4-4982-bb15-3e6eb6a9b206]“,
+und widerspricht dem nicht,
+sondern stimmt sogar sehr genau damit überein\.
+Der eine hat nämlich auch den Tag mitgezählt,
+an dem er dies aussprach,
+und jenen,
+an dem er sie hinaufführte;
+der andere nur die Tage dazwischen\.
+Achte nun darauf,
+wie philosophisch Matthäus denkt:
+Er verbirgt nicht die,
+die ihm selbst vorgezogen wurden\.
+Dasselbe tut auch Johannes an vielen Stellen:
+Er schreibt die ausgezeichneten Lobesworte über Petrus mit großer Wahrhaftigkeit auf\.
+Denn frei von Neid und leerer Ruhmsucht war überall der Chor dieser Heiligen\.
+Nachdem er also die Führenden mitgenommen hatte,
+„führt er sie auf einen hohen Berg,
+für sich allein;
+und er wurde vor ihnen verwandelt,
+und sein Gesicht leuchtete wie die Sonne,
+seine Kleider aber wurden weiß wie das Licht\.
+Und es erschienen ihnen Mose und Elija,
+die mit ihm sprachen\.[^bible-a4f2e1e3-53e4-4982-bb15-3e6eb6a9b206]“ Warum nimmt er nur diese mit?
+Weil diese die anderen überragten\.
+Petrus zeigte seinen Vorrang dadurch,
+dass er ihn überaus liebte;
+Johannes dadurch,
+dass er überaus geliebt wurde;
+und Jakobus durch die Antwort,
+die er zusammen mit seinem Bruder gab,
+als er sagte:
+„Wir können den Kelch trinken[^bible-71c5773b-55b7-40c8-9f5a-ce0957d5fb96]“,
+nicht nur durch diese Antwort,
+sondern auch durch seine Taten,
+durch die übrigen ebenso wie dadurch,
+dass er erfüllte,
+was er gesagt hatte\.
+Denn so leidenschaftlich und schwer erträglich war er den Juden,
+dass sogar Herodes meinte,
+er mache den Juden das größte Geschenk,
+wenn er ihn beseitigte\.
+Warum aber führt er sie nicht sofort hinauf?
+Damit die übrigen Jünger nichts allzu Menschliches empfinden\.
+Deshalb nennt er auch die Namen derer nicht,
+die hinaufsteigen sollten\.
+Denn die übrigen hätten sehr danach verlangt,
+mitzugehen,
+weil sie ein Abbild jener Herrlichkeit sehen sollten,
+und sie hätten Schmerz empfunden,
+als wären sie übergangen worden\.
+Zwar zeigte er dies in stärker körperlicher Weise,
+aber dennoch weckte die Sache große Sehnsucht\.
+Warum sagt er es also auch vorher?
+Damit sie durch das,
+was er vorhergesagt hatte,
+aufnahmefähiger für die Schau werden und,
+durch die Zahl der Tage mit noch stärkerem Verlangen erfüllt,
+dann mit wachem und aufmerksamem Sinn erscheinen\.
+Weshalb aber bringt er auch Mose und Elija in die Mitte?
+Dafür könnte man viele Gründe nennen\.
+Der erste ist dieser:
+Weil die Volksmengen sagten,
+die einen,
+er sei Elija,
+die anderen,
+Jeremia,
+wieder andere,
+einer der alten Propheten,
+führt er die führenden Gestalten herbei,
+damit sie auch daran den Abstand zwischen den Dienern und dem Herrn sehen und erkennen,
+dass Petrus zu Recht gelobt wurde,
+als er ihn als Sohn Gottes bekannte\.
+Danach lässt sich noch ein weiterer Grund nennen\.
+Denn weil sie ihm ständig vorwarfen,
+das Gesetz zu übertreten,
+und ihn für einen Lästerer hielten,
+als eigne er sich eine Herrlichkeit an,
+die ihm nicht zukomme,
+nämlich die des Vaters,
+und sagten:
+„Dieser ist nicht von Gott,
+weil er den Sabbat nicht hält[^bible-787121ae-081d-4bc7-ad53-8a96d44c9fe9]“,
+und wieder:
+„Wegen eines guten Werkes steinigen wir dich nicht,
+sondern wegen Gotteslästerung,
+und weil du,
+der du ein Mensch bist,
+dich selbst zu Gott machst[^bible-1f6eed2c-7e9a-4bdf-b9ce-00f211e13eae]“,
+darum führt er die in die Mitte,
+die in beiden Dingen geglänzt haben,
+damit gezeigt wird:
+Beide Anklagen stammen aus Neid;
+an beiden ist er ohne Schuld\.
+Was geschieht,
+ist weder Übertretung des Gesetzes,
+noch ist es Anmaßung einer ihm nicht zukommenden Herrlichkeit,
+wenn er sich dem Vater gleich nennt\.
+Denn Mose gab das Gesetz,
+und die Juden konnten sich denken:
+Er hätte nicht zugesehen,
+wie es,
+wie sie meinten,
+mit Füßen getreten wurde;
+auch hätte er den,
+der es übertrat und dem Gesetzgeber feindlich gegenüberstand,
+nicht geehrt\.
+Auch Elija eiferte für die Herrlichkeit Gottes;
+wenn Christus also Gott entgegengesetzt gewesen wäre,
+wenn er sich selbst Gott genannt und sich dem Vater gleich gemacht hätte,
+ohne zu sein,
+was er sagte,
+und ohne dies zu Recht zu tun,
+dann wäre auch Elija nicht dabeigestanden und hätte ihm nicht gehorcht\.
 
 ## Bibelverweise
 

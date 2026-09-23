@@ -7,6 +7,10 @@ Autor: Johannes II\. von Jerusalem
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/johannes-ii-von-jerusalem/4-mystagogische-katechese#kapitel-f74a13e8-ff9c-48fa-071c-08def3162faa).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b7d2144394e154046bafc705098274408564f1752ab9282051c402b8d95f8371`
-
-Einmal sprach Christus im Gespräch mit den Juden: „Wenn ihr mein Fleisch nicht esst und mein Blut nicht trinkt, habt ihr kein Leben in euch\.“ Sie aber hatten das Gesagte nicht geistlich verstanden; sie nahmen Anstoß, gingen zurück und meinten, der Retter wolle sie zum Fleischessen antreiben\.
+Einmal sprach Christus im Gespräch mit den Juden:
+„Wenn ihr mein Fleisch nicht esst und mein Blut nicht trinkt,
+habt ihr kein Leben in euch\.“
+Sie aber hatten das Gesagte nicht geistlich verstanden;
+sie nahmen Anstoß,
+gingen zurück und meinten,
+der Retter wolle sie zum Fleischessen antreiben\.

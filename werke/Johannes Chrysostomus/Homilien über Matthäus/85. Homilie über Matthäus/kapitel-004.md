@@ -7,9 +7,123 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/85-homilie-ueber-matthaeus#kapitel-05225f4b-a552-4462-5bc2-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7d4c2eb2dcd8c02dcc308306739d49f923e4c3638b2b2a6692234bbd9f8c5e28`
-
-Jetzt aber hat eure Väter Furcht ergriffen, weil ihr so rasend auf das Weltliche aus seid und weil ihr sammelt, aber nicht ausstreut: Die Scharen der Witwen, Waisen und Jungfrauen sollten nicht vor Hunger zugrunde gehen\. Darum waren sie gezwungen, diese Dinge einzurichten\. Denn sie wollten sich nicht selbst in eine solche Ungehörigkeit stürzen, sondern wünschten, dass eure Bereitschaft ihr Einkommen wäre, dass sie von dort die Früchte ernteten und sich selbst allein den Gebeten widmeten\. Nun aber habt ihr sie gezwungen, die Häuser derer nachzuahmen, die öffentliche Geschäfte betreiben\. Daher ist alles auf den Kopf gestellt\. Denn wenn ihr und wir in dieselben Dinge verstrickt sind, wer soll dann Gott versöhnen? Deshalb können wir den Mund nicht öffnen, weil die Kirche in keiner besseren Lage ist als die Menschen der Welt\. Habt ihr nicht gehört, dass die Apostel es nicht einmal für angemessen hielten, die Gelder zu verteilen, die ohne Mühe zusammenkamen? Jetzt aber haben unsere Bischöfe durch ihre Sorge um diese Dinge Verwalter, Hausverwalter und Kleinhändler übertroffen\. Obwohl sie sich um eure Seelen sorgen und an sie denken müssten, mühen sie sich Tag für Tag um das, worum sich Einnehmer, Steuereintreiber, Rechnungsführer und Kassenverwalter sorgen\. Das sage ich nicht einfach, weil ich klage, sondern damit eine Besserung und Veränderung geschieht, damit wir Erbarmen finden, die wir in einer schweren Knechtschaft dienen müssen, und damit ihr zum Einkommen und Schatz der Kirche werdet\. Wenn ihr aber nicht wollt, seht, dann stehen die Armen vor euren Augen\. So viele wir versorgen können, die werden wir unablässig ernähren; die aber, bei denen wir es nicht können, überlassen wir euch, damit ihr an jenem furchtbaren Tag nicht jene Worte hören müsst, die zu den Unbarmherzigen und Hartherzigen gesprochen werden: „Ihr habt mich hungrig gesehen und nicht ernährt\.[^bible-33e8289a-9575-482b-8c88-bcd0875f64b4]“ Denn diese Unmenschlichkeit macht uns zusammen mit euch lächerlich: Wir lassen die Gebete, die Lehre und die übrige Heiligkeit beiseite und verbringen die ganze Zeit im Kampf, die einen mit Weinhändlern, andere mit Getreidehändlern, wieder andere mit denen, die sonstige Waren verkaufen\. Daraus entstehen Kämpfe und Streitigkeiten, tägliche Beschimpfungen, Vorwürfe und Spott, und jedem der Priester hängen Namen an, die eher zu weltlichen Häusern passen\. Stattdessen müssten wir andere Aufgaben eintauschen und von dorther benannt werden, von dem her, was auch die Apostel vorschrieben: von der Ernährung der Armen, vom Schutz derer, denen Unrecht geschieht, von der Sorge für die Fremden, von der Hilfe für die Bedrängten, von der Fürsorge für die Waisen, vom Beistand für die Witwen, von der Aufsicht über die Jungfrauen\. Diese Verwaltungen müssten wir verteilen, statt uns um Landgüter und Häuser zu kümmern\. Denn das sind die Kostbarkeiten der Kirche; das sind die Schätze, die zu ihr passen\. Sie verschaffen auch uns große Erleichterung und euch Nutzen, ja vielmehr auch euch Erleichterung zusammen mit dem Nutzen\. Denn durch Gottes Gnade glaube ich, dass die Zahl derer, die sich hier versammeln, auf zehn Myriaden kommt\. Und wenn jeder einem der Armen nur ein Brot gäbe, wären alle im Überfluss\. Wenn jeder nur einen Obol gäbe, wäre niemand arm, und wir müssten nicht so viele Vorwürfe und so viel Spott wegen der Sorge um Besitz ertragen\. Denn auch das Wort: „Verkaufe, was du hast, und gib es den Armen, und komm, folge mir nach\.[^bible-6c9ce102-8fff-4e31-a379-e879e48d5c8a]“, könnte zur rechten Zeit auch den Vorstehern der Kirche im Blick auf den Besitz der Kirche gesagt werden\. Denn anders kann man nicht so nachfolgen, wie es sein soll, wenn man nicht von jeder gröberen und weltlicheren Sorge frei ist\. Jetzt aber sitzen die Priester Gottes bei Weinlese und Ernte, bei Verkauf und Kauf von Einkünften\. Diejenigen, die dem Schatten dienten, waren von all dem völlig befreit, obwohl ihnen ein körperlicherer Dienst anvertraut war\. Wir aber, die wir zu den innersten Räumen des Himmels selbst gerufen sind und in das wahre Heilige der Heiligen eintreten, übernehmen die Sorgen von Kaufleuten und Wiederverkäufern\. Daher kommt die große Vernachlässigung der Schriften, die Trägheit im Gebet und die Gleichgültigkeit gegenüber allem Übrigen\. Denn es ist nicht möglich, sich mit der gebotenen Sorgfalt in beides zugleich zu teilen\. Darum bitte und flehe ich: Lasst uns von überallher viele Quellen aufbrechen, und eure Bereitschaft soll uns Tenne und Kelter werden\. So werden die Armen leichter ernährt, Gott wird verherrlicht, ihr werdet in der Menschenliebe weiter wachsen und die ewigen Güter genießen\. Mögen wir alle sie erlangen durch die Gnade und Menschenliebe unseres Herrn Jesus Christus; ihm sei die Herrlichkeit in alle Ewigkeit\. Amen\.
+Jetzt aber hat eure Väter Furcht ergriffen,
+weil ihr so rasend auf das Weltliche aus seid und weil ihr sammelt,
+aber nicht ausstreut:
+Die Scharen der Witwen,
+Waisen und Jungfrauen sollten nicht vor Hunger zugrunde gehen\.
+Darum waren sie gezwungen,
+diese Dinge einzurichten\.
+Denn sie wollten sich nicht selbst in eine solche Ungehörigkeit stürzen,
+sondern wünschten,
+dass eure Bereitschaft ihr Einkommen wäre,
+dass sie von dort die Früchte ernteten und sich selbst allein den Gebeten widmeten\.
+Nun aber habt ihr sie gezwungen,
+die Häuser derer nachzuahmen,
+die öffentliche Geschäfte betreiben\.
+Daher ist alles auf den Kopf gestellt\.
+Denn wenn ihr und wir in dieselben Dinge verstrickt sind,
+wer soll dann Gott versöhnen?
+Deshalb können wir den Mund nicht öffnen,
+weil die Kirche in keiner besseren Lage ist als die Menschen der Welt\.
+Habt ihr nicht gehört,
+dass die Apostel es nicht einmal für angemessen hielten,
+die Gelder zu verteilen,
+die ohne Mühe zusammenkamen?
+Jetzt aber haben unsere Bischöfe durch ihre Sorge um diese Dinge Verwalter,
+Hausverwalter und Kleinhändler übertroffen\.
+Obwohl sie sich um eure Seelen sorgen und an sie denken müssten,
+mühen sie sich Tag für Tag um das,
+worum sich Einnehmer,
+Steuereintreiber,
+Rechnungsführer und Kassenverwalter sorgen\.
+Das sage ich nicht einfach,
+weil ich klage,
+sondern damit eine Besserung und Veränderung geschieht,
+damit wir Erbarmen finden,
+die wir in einer schweren Knechtschaft dienen müssen,
+und damit ihr zum Einkommen und Schatz der Kirche werdet\.
+Wenn ihr aber nicht wollt,
+seht,
+dann stehen die Armen vor euren Augen\.
+So viele wir versorgen können,
+die werden wir unablässig ernähren;
+die aber,
+bei denen wir es nicht können,
+überlassen wir euch,
+damit ihr an jenem furchtbaren Tag nicht jene Worte hören müsst,
+die zu den Unbarmherzigen und Hartherzigen gesprochen werden:
+„Ihr habt mich hungrig gesehen und nicht ernährt\.[^bible-33e8289a-9575-482b-8c88-bcd0875f64b4]“ Denn diese Unmenschlichkeit macht uns zusammen mit euch lächerlich:
+Wir lassen die Gebete,
+die Lehre und die übrige Heiligkeit beiseite und verbringen die ganze Zeit im Kampf,
+die einen mit Weinhändlern,
+andere mit Getreidehändlern,
+wieder andere mit denen,
+die sonstige Waren verkaufen\.
+Daraus entstehen Kämpfe und Streitigkeiten,
+tägliche Beschimpfungen,
+Vorwürfe und Spott,
+und jedem der Priester hängen Namen an,
+die eher zu weltlichen Häusern passen\.
+Stattdessen müssten wir andere Aufgaben eintauschen und von dorther benannt werden,
+von dem her,
+was auch die Apostel vorschrieben:
+von der Ernährung der Armen,
+vom Schutz derer,
+denen Unrecht geschieht,
+von der Sorge für die Fremden,
+von der Hilfe für die Bedrängten,
+von der Fürsorge für die Waisen,
+vom Beistand für die Witwen,
+von der Aufsicht über die Jungfrauen\.
+Diese Verwaltungen müssten wir verteilen,
+statt uns um Landgüter und Häuser zu kümmern\.
+Denn das sind die Kostbarkeiten der Kirche;
+das sind die Schätze,
+die zu ihr passen\.
+Sie verschaffen auch uns große Erleichterung und euch Nutzen,
+ja vielmehr auch euch Erleichterung zusammen mit dem Nutzen\.
+Denn durch Gottes Gnade glaube ich,
+dass die Zahl derer,
+die sich hier versammeln,
+auf zehn Myriaden kommt\.
+Und wenn jeder einem der Armen nur ein Brot gäbe,
+wären alle im Überfluss\.
+Wenn jeder nur einen Obol gäbe,
+wäre niemand arm,
+und wir müssten nicht so viele Vorwürfe und so viel Spott wegen der Sorge um Besitz ertragen\.
+Denn auch das Wort:
+„Verkaufe,
+was du hast,
+und gib es den Armen,
+und komm,
+folge mir nach\.[^bible-6c9ce102-8fff-4e31-a379-e879e48d5c8a]“,
+könnte zur rechten Zeit auch den Vorstehern der Kirche im Blick auf den Besitz der Kirche gesagt werden\.
+Denn anders kann man nicht so nachfolgen,
+wie es sein soll,
+wenn man nicht von jeder gröberen und weltlicheren Sorge frei ist\.
+Jetzt aber sitzen die Priester Gottes bei Weinlese und Ernte,
+bei Verkauf und Kauf von Einkünften\.
+Diejenigen,
+die dem Schatten dienten,
+waren von all dem völlig befreit,
+obwohl ihnen ein körperlicherer Dienst anvertraut war\.
+Wir aber,
+die wir zu den innersten Räumen des Himmels selbst gerufen sind und in das wahre Heilige der Heiligen eintreten,
+übernehmen die Sorgen von Kaufleuten und Wiederverkäufern\.
+Daher kommt die große Vernachlässigung der Schriften,
+die Trägheit im Gebet und die Gleichgültigkeit gegenüber allem Übrigen\.
+Denn es ist nicht möglich,
+sich mit der gebotenen Sorgfalt in beides zugleich zu teilen\.
+Darum bitte und flehe ich:
+Lasst uns von überallher viele Quellen aufbrechen,
+und eure Bereitschaft soll uns Tenne und Kelter werden\.
+So werden die Armen leichter ernährt,
+Gott wird verherrlicht,
+ihr werdet in der Menschenliebe weiter wachsen und die ewigen Güter genießen\.
+Mögen wir alle sie erlangen durch die Gnade und Menschenliebe unseres Herrn Jesus Christus;
+ihm sei die Herrlichkeit in alle Ewigkeit\.
+Amen\.
 
 ## Bibelverweise
 

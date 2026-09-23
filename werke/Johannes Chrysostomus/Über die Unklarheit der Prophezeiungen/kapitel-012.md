@@ -7,11 +7,151 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-die-unklarheit-der-prophezeiungen#kapitel-e84a7abe-d04d-459b-73c6-08df05e0ddd9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c284e24d75eafaa4e777e5a553213173633bda926ec9ee0a7630a72a896829cf`
+Willst du erfahren,
+wie mächtig das Gebet ist,
+das in der Kirche gesprochen wird?
+Einst lag Petrus im Gefängnis und war mit vielen Ketten gefesselt\.
+Die Kirche aber betete inständig für ihn,
+und sogleich wurde er aus dem Gefängnis befreit\.[^bible-7906544f-de3c-4247-946b-8c851a56ab09]
+Was könnte also mächtiger sein als dieses Gebet,
+das den Säulen und Türmen der Kirche geholfen hat?
+Paulus und Petrus sind nämlich Türme und Säulen der Kirche:
+Dem einen löste es die Fesseln,
+dem anderen öffnete es den Mund\.
+Damit wir seine Macht doppelt erweisen,
+nicht nur an den damaligen Ereignissen,
+sondern auch an dem,
+was Tag für Tag geschieht,
+wollen wir euch an eben das Gebet erinnern,
+das die Gemeinde spricht\.
+Würde man nämlich einen von euch auffordern,
+allein um das Heil des Bischofs zu beten,
+würde sich jeder weigern,
+weil diese Last seine Kräfte übersteigt\.
+Doch wenn ihr alle gemeinsam hört,
+wie der Diakon euch auffordert:
+„Lasst uns für den Bischof beten,
+für sein hohes Alter und um Beistand,
+damit er das Wort der Wahrheit recht verkündet,
+ferner für die Menschen hier und für die Menschen überall“,
+dann weigert ihr euch nicht,
+dieser Aufforderung zu folgen,
+sondern bringt das Gebet mit großem Eifer vor Gott,
+weil ihr um die Macht eurer Versammlung wisst\.
+Die Eingeweihten verstehen,
+was ich sage\.
+Beim Gebet der Katechumenen ist dies noch nicht gestattet,
+weil sie diese Zuversicht noch nicht erlangt haben\.
+Euch aber fordert derjenige,
+der diesen Gebeten dient,
+auf,
+für die ganze Welt,
+für die Kirche,
+die sich bis an die Enden der Erde erstreckt,
+und für alle Bischöfe zu beten,
+die sie leiten\.
+Und ihr folgt ihm bereitwillig und bezeugt durch euer Tun,
+wie mächtig das Gebet ist,
+das die Gemeinde in der Kirche einmütig vor Gott bringt\.
+Doch kehren wir zu unserem Thema zurück:
+Einst gab es nur eine Sprache\.
+Woher wissen wir nun,
+dass es nur eine Sprache gab?
+Es heißt:
+„Die ganze Erde hatte eine einzige Sprache\.[^bible-ac91a352-99c8-48c2-9148-6561056f86dd]
+“ Diese Aussage ist unklar\.
+Hat die Erde etwa eine Sprache?
+Keineswegs\.
+Was also meint die Schrift,
+und von wem spricht sie?
+Sie spricht nicht von dieser empfindungslosen,
+unbeweglichen Erde,
+sondern bezeichnet so das ganze Menschengeschlecht\.
+Damit erinnert sie die Menschen an ihre eigene Natur und führt ihnen ihre Mutter vor Augen,
+aus der sie hervorgegangen sind\.
+Denn dieses Lebewesen,
+ich meine den Menschen,
+ist zweifach:
+Es besteht aus zwei Substanzen,
+einer sinnlich wahrnehmbaren und einer geistigen,
+nämlich aus Seele und Körper,
+und ist sowohl mit dem Himmel als auch mit der Erde verwandt\.
 
-Willst du erfahren, wie mächtig das Gebet ist, das in der Kirche gesprochen wird? Einst lag Petrus im Gefängnis und war mit vielen Ketten gefesselt\. Die Kirche aber betete inständig für ihn, und sogleich wurde er aus dem Gefängnis befreit\.[^bible-7906544f-de3c-4247-946b-8c851a56ab09] Was könnte also mächtiger sein als dieses Gebet, das den Säulen und Türmen der Kirche geholfen hat? Paulus und Petrus sind nämlich Türme und Säulen der Kirche: Dem einen löste es die Fesseln, dem anderen öffnete es den Mund\. Damit wir seine Macht doppelt erweisen, nicht nur an den damaligen Ereignissen, sondern auch an dem, was Tag für Tag geschieht, wollen wir euch an eben das Gebet erinnern, das die Gemeinde spricht\. Würde man nämlich einen von euch auffordern, allein um das Heil des Bischofs zu beten, würde sich jeder weigern, weil diese Last seine Kräfte übersteigt\. Doch wenn ihr alle gemeinsam hört, wie der Diakon euch auffordert: „Lasst uns für den Bischof beten, für sein hohes Alter und um Beistand, damit er das Wort der Wahrheit recht verkündet, ferner für die Menschen hier und für die Menschen überall“, dann weigert ihr euch nicht, dieser Aufforderung zu folgen, sondern bringt das Gebet mit großem Eifer vor Gott, weil ihr um die Macht eurer Versammlung wisst\. Die Eingeweihten verstehen, was ich sage\. Beim Gebet der Katechumenen ist dies noch nicht gestattet, weil sie diese Zuversicht noch nicht erlangt haben\. Euch aber fordert derjenige, der diesen Gebeten dient, auf, für die ganze Welt, für die Kirche, die sich bis an die Enden der Erde erstreckt, und für alle Bischöfe zu beten, die sie leiten\. Und ihr folgt ihm bereitwillig und bezeugt durch euer Tun, wie mächtig das Gebet ist, das die Gemeinde in der Kirche einmütig vor Gott bringt\. Doch kehren wir zu unserem Thema zurück: Einst gab es nur eine Sprache\. Woher wissen wir nun, dass es nur eine Sprache gab? Es heißt: „Die ganze Erde hatte eine einzige Sprache\.[^bible-ac91a352-99c8-48c2-9148-6561056f86dd] “ Diese Aussage ist unklar\. Hat die Erde etwa eine Sprache? Keineswegs\. Was also meint die Schrift, und von wem spricht sie? Sie spricht nicht von dieser empfindungslosen, unbeweglichen Erde, sondern bezeichnet so das ganze Menschengeschlecht\. Damit erinnert sie die Menschen an ihre eigene Natur und führt ihnen ihre Mutter vor Augen, aus der sie hervorgegangen sind\. Denn dieses Lebewesen, ich meine den Menschen, ist zweifach: Es besteht aus zwei Substanzen, einer sinnlich wahrnehmbaren und einer geistigen, nämlich aus Seele und Körper, und ist sowohl mit dem Himmel als auch mit der Erde verwandt\.
-
-Durch seine geistige Substanz hat der Mensch Gemeinschaft mit den Mächten in der Höhe; durch seine sinnlich wahrnehmbare Substanz ist er mit den Dingen der Erde verbunden\. So bildet er ein festes Bindeglied zwischen beiden Bereichen der Schöpfung\. Wenn er nun tut, was Gott gefällt, wird er geistlich genannt\. Dann wird er nicht einmal nach seiner Seele benannt, sondern erhält einen anderen, höheren Ehrentitel, der vom Wirken des Geistes kommt\. Denn die Seele allein genügt uns nicht zu guten Taten, wenn wir nicht jene Hilfe empfangen\. Ihr sollt erkennen, dass die Seele allein uns nicht zu guten Taten befähigt\. Doch was sage ich: zu guten Taten? Nicht einmal das Gesagte können wir ohne diese Hilfe verstehen\. Denn die Schrift sagt: „Der seelische Mensch nimmt nicht an, was vom Geist kommt\.[^bible-9d8ab6f0-b110-45e6-8043-7561552be13f]“ Wie sie denjenigen fleischlich nennt, der dem Fleisch dient, so nennt sie denjenigen seelisch, der alles dem menschlichen Denken überlässt und das Wirken des Geistes nicht annimmt\. Doch zurück zu dem, was ich sagte: Wenn wir das Gute tun, werden wir geistlich genannt\. Wenn wir aber sündigen, zu Fall kommen und etwas tun, das unserer edlen Herkunft unwürdig ist, benennt uns die Schrift nach unserer niedrigen Natur und nennt uns Erde\. Da sie nun auch hier einige von denen anklagen will, die den Turm bauten, sich in ihrer Vermessenheit erhoben und sich höher einschätzten, als es ihrem Rang entsprach, nennt sie sie nach ihrer niedrigen Substanz: „Die ganze Erde hatte eine einzige Sprache\.[^bible-4f457edb-df0a-491a-9d58-16bf83c237b8]“ Damit ihr erkennt, dass sie uns so nennt, wenn wir sündigen, seht auf Adam: Nach seiner Sünde nannte sie auch ihn so und sagte: „Erde bist du, und zur Erde wirst du zurückkehren\.“ Dabei war er nicht nur Erde, sondern besaß auch eine unsterbliche Seele\. Warum also nannte sie ihn Erde? Weil er gesündigt hatte\. Als Gott ihn erschuf, nannte er ihn jedenfalls nicht so\. Was sagte er stattdessen? „Lasst uns einen Menschen nach unserem Bild und unserer Ähnlichkeit machen; sie sollen über die Fische des Meeres und die wilden Tiere der Erde herrschen\.[^bible-cbda318b-11a5-42d3-af3e-bd58bd4e5c18] Furcht und Schrecken vor ihnen sollen über die ganze Erde kommen\.[^bible-4677bd8a-4130-4ad0-8d6c-f94b02eb3208]“ Siehst du, welchen Vorrang die menschliche Natur besitzt, welche Ehre und welches Lob? Doch das galt vor der Sünde\. Nach der Sünde dagegen heißt es nur noch: „Erde bist du, und zur Erde wirst du zurückkehren\.“ Höre auch, wie Maleachi darauf hinweist, oder vielmehr Gott durch den Propheten: „Siehe, ich sende euch Elija, den Tischbiter\.[^bible-46269a7c-f3d1-47a0-8325-207787d49367]“ Warum sendet er ihn? „Damit er das Herz des Vaters zum Sohn zurückführt\.[^bible-877e1055-c30f-4e54-8720-9a5ffe874646]“ Denn jenes furchtbare und schreckliche Gericht wird bald kommen\. Der Richter soll nicht einige ohne Möglichkeit zur Rechtfertigung zur Rechenschaft ziehen und verurteilen\. Darum soll Elija zuvor kommen und verkünden, dass die Ankunft nahe vor der Tür steht, und so die Menschen zur Besinnung bringen\. Denn was vor langer Zeit gesagt wurde, gerät gewöhnlich in Vergessenheit\. Deshalb kommt jener Prophet und frischt unsere Erinnerung auf\. Nun müssen wir aber beweisen, dass die Sünder Erde genannt werden\.
+Durch seine geistige Substanz hat der Mensch Gemeinschaft mit den Mächten in der Höhe;
+durch seine sinnlich wahrnehmbare Substanz ist er mit den Dingen der Erde verbunden\.
+So bildet er ein festes Bindeglied zwischen beiden Bereichen der Schöpfung\.
+Wenn er nun tut,
+was Gott gefällt,
+wird er geistlich genannt\.
+Dann wird er nicht einmal nach seiner Seele benannt,
+sondern erhält einen anderen,
+höheren Ehrentitel,
+der vom Wirken des Geistes kommt\.
+Denn die Seele allein genügt uns nicht zu guten Taten,
+wenn wir nicht jene Hilfe empfangen\.
+Ihr sollt erkennen,
+dass die Seele allein uns nicht zu guten Taten befähigt\.
+Doch was sage ich:
+zu guten Taten?
+Nicht einmal das Gesagte können wir ohne diese Hilfe verstehen\.
+Denn die Schrift sagt:
+„Der seelische Mensch nimmt nicht an,
+was vom Geist kommt\.[^bible-9d8ab6f0-b110-45e6-8043-7561552be13f]“ Wie sie denjenigen fleischlich nennt,
+der dem Fleisch dient,
+so nennt sie denjenigen seelisch,
+der alles dem menschlichen Denken überlässt und das Wirken des Geistes nicht annimmt\.
+Doch zurück zu dem,
+was ich sagte:
+Wenn wir das Gute tun,
+werden wir geistlich genannt\.
+Wenn wir aber sündigen,
+zu Fall kommen und etwas tun,
+das unserer edlen Herkunft unwürdig ist,
+benennt uns die Schrift nach unserer niedrigen Natur und nennt uns Erde\.
+Da sie nun auch hier einige von denen anklagen will,
+die den Turm bauten,
+sich in ihrer Vermessenheit erhoben und sich höher einschätzten,
+als es ihrem Rang entsprach,
+nennt sie sie nach ihrer niedrigen Substanz:
+„Die ganze Erde hatte eine einzige Sprache\.[^bible-4f457edb-df0a-491a-9d58-16bf83c237b8]“ Damit ihr erkennt,
+dass sie uns so nennt,
+wenn wir sündigen,
+seht auf Adam:
+Nach seiner Sünde nannte sie auch ihn so und sagte:
+„Erde bist du,
+und zur Erde wirst du zurückkehren\.“
+Dabei war er nicht nur Erde,
+sondern besaß auch eine unsterbliche Seele\.
+Warum also nannte sie ihn Erde?
+Weil er gesündigt hatte\.
+Als Gott ihn erschuf,
+nannte er ihn jedenfalls nicht so\.
+Was sagte er stattdessen?
+„Lasst uns einen Menschen nach unserem Bild und unserer Ähnlichkeit machen;
+sie sollen über die Fische des Meeres und die wilden Tiere der Erde herrschen\.[^bible-cbda318b-11a5-42d3-af3e-bd58bd4e5c18]
+Furcht und Schrecken vor ihnen sollen über die ganze Erde kommen\.[^bible-4677bd8a-4130-4ad0-8d6c-f94b02eb3208]“ Siehst du,
+welchen Vorrang die menschliche Natur besitzt,
+welche Ehre und welches Lob?
+Doch das galt vor der Sünde\.
+Nach der Sünde dagegen heißt es nur noch:
+„Erde bist du,
+und zur Erde wirst du zurückkehren\.“
+Höre auch,
+wie Maleachi darauf hinweist,
+oder vielmehr Gott durch den Propheten:
+„Siehe,
+ich sende euch Elija,
+den Tischbiter\.[^bible-46269a7c-f3d1-47a0-8325-207787d49367]“ Warum sendet er ihn?
+„Damit er das Herz des Vaters zum Sohn zurückführt\.[^bible-877e1055-c30f-4e54-8720-9a5ffe874646]“ Denn jenes furchtbare und schreckliche Gericht wird bald kommen\.
+Der Richter soll nicht einige ohne Möglichkeit zur Rechtfertigung zur Rechenschaft ziehen und verurteilen\.
+Darum soll Elija zuvor kommen und verkünden,
+dass die Ankunft nahe vor der Tür steht,
+und so die Menschen zur Besinnung bringen\.
+Denn was vor langer Zeit gesagt wurde,
+gerät gewöhnlich in Vergessenheit\.
+Deshalb kommt jener Prophet und frischt unsere Erinnerung auf\.
+Nun müssen wir aber beweisen,
+dass die Sünder Erde genannt werden\.
 
 ## Bibelverweise
 

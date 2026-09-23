@@ -7,10 +7,195 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-3#kapitel-bfa0b7b5-2513-4df4-2747-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0dd8ca2dccc9dc2e3ede302c06f6efe42af476001638d40496c6557ce9500811`
+Doch kehren wir zum Vorhaben zurück\.
+Durch die ernste Nachricht beunruhigt,
+dass die Dinge in Judäa nicht günstig standen,
+setzte Nero Vespasian,
+einen im Krieg erfahrenen Mann,
+über alle militärischen Angelegenheiten,
+die in Syrien waren\.
+Eilig,
+denn es blieb keine Zeit zum Zögern,
+sandte er seinen Sohn Titus nach Alexandria,
+damit dieser von dort einen Teil der dort stehenden Soldaten heranführe;
+er selbst überschritt die Meerenge des Hellespont und eilte nach Syrien\.
+Inzwischen wählten die Juden,
+durch den günstigen Verlauf der Dinge ermutigt,
+Heerführer für den Krieg\.
+Sie teilten die Orte zu,
+für die jeder zuständig sein sollte,
+und bestimmten,
+welche Aufgaben jeder,
+welche Truppen und welche Funktion,
+auszuführen hatte\.
+Josef,
+den Sohn Gorions,
+und Ananus,
+den Obersten der Priester,
+setzten sie über die Angelegenheiten der Stadt Jerusalem,
+besonders über die Wiederherstellung der Mauern\.
+Eleazarus,
+der Sohn Simons,
+verlangte leidenschaftlich danach,
+dass ihm ein Teil der Staatsämter übertragen werde\.
+Obwohl er die ganze Beute,
+die sie dem römischen Heer abgenommen hatten,
+besonders reich und stattlich,
+in seiner Gewalt zusammengebracht hatte,
+angehäuft durch die Habsucht und maßlosen Räubereien des Cestius,
+entschieden sie dennoch,
+da sie ihn eher darauf bedacht sahen,
+sich eigene Macht zu verschaffen,
+als dem allgemeinen Nutzen angemessen zu dienen,
+dass er zurückgewiesen werden sollte\.
+Allmählich aber erreichte er es durch einzelne Umwerbung,
+durch Geschenke und durch Bestechung,
+dass die Substanz aller Dinge seiner Kontrolle unterstellt wurde\.
+Auch ein gewisser Jesus aus den Priestern und Eleazarus,
+der Sohn eines Priesters,
+erhielten,
+mit militärischen Angelegenheiten betraut,
+die Aufgabe,
+Idumäa zu bewachen,
+wobei jedoch in den wichtigsten Fragen stets Nigerus,
+dem vornehmsten Mann von ganz Idumäa,
+der Vorrang vorbehalten blieb\.
+Hiericho wurde Josef,
+dem Sohn Simons,
+zugeteilt;
+Manassus wurde Peräa anvertraut,
+eine jenseits des Euphrat gelegene Gegend,
+die von daher ihren Namen erhielt,
+weil der Euphrat von denen überquert wird,
+die in jene Gegend reisen\.
+Johannes Essäus,
+ebenso ein anderer Johannes,
+der Sohn des Anania,
+und weitere wurden verschiedenen Gegenden zugewiesen,
+die sie mit ihrer Sorge schützen sollten\.
+So sollte jeder die ihm anvertrauten Pflichten nicht vernachlässigen,
+Mauern bauen und eine kampffähige Schar sammeln\.
 
-Doch kehren wir zum Vorhaben zurück\. Durch die ernste Nachricht beunruhigt, dass die Dinge in Judäa nicht günstig standen, setzte Nero Vespasian, einen im Krieg erfahrenen Mann, über alle militärischen Angelegenheiten, die in Syrien waren\. Eilig, denn es blieb keine Zeit zum Zögern, sandte er seinen Sohn Titus nach Alexandria, damit dieser von dort einen Teil der dort stehenden Soldaten heranführe; er selbst überschritt die Meerenge des Hellespont und eilte nach Syrien\. Inzwischen wählten die Juden, durch den günstigen Verlauf der Dinge ermutigt, Heerführer für den Krieg\. Sie teilten die Orte zu, für die jeder zuständig sein sollte, und bestimmten, welche Aufgaben jeder, welche Truppen und welche Funktion, auszuführen hatte\. Josef, den Sohn Gorions, und Ananus, den Obersten der Priester, setzten sie über die Angelegenheiten der Stadt Jerusalem, besonders über die Wiederherstellung der Mauern\. Eleazarus, der Sohn Simons, verlangte leidenschaftlich danach, dass ihm ein Teil der Staatsämter übertragen werde\. Obwohl er die ganze Beute, die sie dem römischen Heer abgenommen hatten, besonders reich und stattlich, in seiner Gewalt zusammengebracht hatte, angehäuft durch die Habsucht und maßlosen Räubereien des Cestius, entschieden sie dennoch, da sie ihn eher darauf bedacht sahen, sich eigene Macht zu verschaffen, als dem allgemeinen Nutzen angemessen zu dienen, dass er zurückgewiesen werden sollte\. Allmählich aber erreichte er es durch einzelne Umwerbung, durch Geschenke und durch Bestechung, dass die Substanz aller Dinge seiner Kontrolle unterstellt wurde\. Auch ein gewisser Jesus aus den Priestern und Eleazarus, der Sohn eines Priesters, erhielten, mit militärischen Angelegenheiten betraut, die Aufgabe, Idumäa zu bewachen, wobei jedoch in den wichtigsten Fragen stets Nigerus, dem vornehmsten Mann von ganz Idumäa, der Vorrang vorbehalten blieb\. Hiericho wurde Josef, dem Sohn Simons, zugeteilt; Manassus wurde Peräa anvertraut, eine jenseits des Euphrat gelegene Gegend, die von daher ihren Namen erhielt, weil der Euphrat von denen überquert wird, die in jene Gegend reisen\. Johannes Essäus, ebenso ein anderer Johannes, der Sohn des Anania, und weitere wurden verschiedenen Gegenden zugewiesen, die sie mit ihrer Sorge schützen sollten\. So sollte jeder die ihm anvertrauten Pflichten nicht vernachlässigen, Mauern bauen und eine kampffähige Schar sammeln\.
+Von ihnen aus stieg Josef nach Galiläa hinab und sorgte rasch dafür,
+die Zitadellen zu befestigen,
+Verteidigungsanlagen zu errichten,
+die stärksten und kampfbereitesten Männer der Gegend an sich zu binden,
+das Räuberwesen einzudämmen,
+täglich im Lager anwesend zu sein,
+die Soldaten nach Art der römischen Truppen zu üben,
+die Reihen einzuteilen,
+Zenturionen zu bestimmen und vor allem solche in Verantwortung zu setzen,
+durch die von allen am leichtesten Disziplin eingefordert werden konnte,
+damit niemand unbemerkt blieb,
+der seine persönliche Pflicht verließ\.
+Er führte sogar ein,
+dass sie die Signale der Trompeten zum Sammeln und zum Rückzug kennen sollten,
+dass sie der geordneten Aufstellung der Reihen folgen,
+die Schlachtlinie gerade ausrichten,
+ihre Schilde wie eine Mauer zusammenschließen sollten,
+falls etwa eine große Streitmacht des Feindes angreifen würde;
+dass sie sich gegen die Anstürmenden verteidigen,
+den Bedrängten zu Hilfe eilen,
+mit den Erschöpften Mitleid haben und die Gefahren anderer auf sich nehmen sollten\.
+Er lehrte sie nicht nur die Kriegskunst nach Art des römischen Heeres,
+sondern schärfte ihnen schon vor dem Krieg ein,
+was den Kämpfenden darüber hinaus hilft:
+Ein Soldat soll Nahrung und Waffen für sich selbst tragen,
+sich durch Wall und Graben schützen und dem Feind durch die Anlage befestigter Lager zuvorkommen;
+er soll Befehlen gehorchen,
+sich daran gewöhnen,
+Diebstahl und Raub zu meiden,
+und seinen Gewinn schon dann für angemessen halten,
+wenn er den Bauern auf dem Land keinerlei Kosten auferlegt\.
+Denn worin unterscheidet er sich vom Feind,
+der selbst auf feindliche Weise an sich reißt,
+was er findet,
+außer dass es schwerer wiegt,
+die eigenen Leute statt Fremde anzugreifen und die Verbündeten statt die Feinde auszuplündern?
+Ein gutes Gewissen vermag im Krieg viel,
+weil der mehr von göttlicher Hilfe erwartet,
+der weiß,
+dass er mit keinem Verbrechen verbunden ist\.
+Doch durch diese Maßnahmen zog er sich bei den Schlechten schneller Missgunst zu,
+als er bei den Guten Dankbarkeit fand\.
+Denn als er etwa sechzigtausend Fußsoldaten gesammelt hatte,
+dazu nur sehr wenige Reiter,
+etwa viertausend Söldner und außerdem sechshundert ausgewählte Leibwächter,
+nahm er den Juden so viel weg,
+dass vor dem Krieg von den eigenen Leuten größere Gefahr drohte als im Krieg selbst von den Römern\.
+Ich übergehe,
+was an Aufruhr erregt wurde,
+weil man vermutete,
+dass sie die durch Räuberei geraubten Dinge denen zurückgaben,
+die sie verloren hatten,
+besonders Agrippa und Beronica,
+denen sie mit Recht zurückgegeben wurden,
+damit sie den König nicht noch feindseliger machten\.
+Er aber sagte,
+um die Wut des Volkes zu mildern,
+das Geld werde eher für den Bau von Mauern zurückgelegt als zur Entschädigung der Herrscher;
+und alles,
+was Ptolomaeus weggenommen hatte,
+der das königliche Gold,
+die Gewänder und die übrigen Gegenstände fortgeschafft hatte,
+das,
+so urteilten sie,
+hätten die Taricheaten zu ersetzen,
+denn bei ihnen war dies geschehen,
+sei es dass sie meinten,
+es müsse für die Wiederherstellung ihrer Mauern aufbewahrt werden,
+sei es dass es für die Plünderung der Räuber ausgegeben werden sollte\.
+Jedenfalls schien es unpassend,
+dass er Strafe erleiden sollte,
+weil er Besseres geplant hatte\.
 
-Von ihnen aus stieg Josef nach Galiläa hinab und sorgte rasch dafür, die Zitadellen zu befestigen, Verteidigungsanlagen zu errichten, die stärksten und kampfbereitesten Männer der Gegend an sich zu binden, das Räuberwesen einzudämmen, täglich im Lager anwesend zu sein, die Soldaten nach Art der römischen Truppen zu üben, die Reihen einzuteilen, Zenturionen zu bestimmen und vor allem solche in Verantwortung zu setzen, durch die von allen am leichtesten Disziplin eingefordert werden konnte, damit niemand unbemerkt blieb, der seine persönliche Pflicht verließ\. Er führte sogar ein, dass sie die Signale der Trompeten zum Sammeln und zum Rückzug kennen sollten, dass sie der geordneten Aufstellung der Reihen folgen, die Schlachtlinie gerade ausrichten, ihre Schilde wie eine Mauer zusammenschließen sollten, falls etwa eine große Streitmacht des Feindes angreifen würde; dass sie sich gegen die Anstürmenden verteidigen, den Bedrängten zu Hilfe eilen, mit den Erschöpften Mitleid haben und die Gefahren anderer auf sich nehmen sollten\. Er lehrte sie nicht nur die Kriegskunst nach Art des römischen Heeres, sondern schärfte ihnen schon vor dem Krieg ein, was den Kämpfenden darüber hinaus hilft: Ein Soldat soll Nahrung und Waffen für sich selbst tragen, sich durch Wall und Graben schützen und dem Feind durch die Anlage befestigter Lager zuvorkommen; er soll Befehlen gehorchen, sich daran gewöhnen, Diebstahl und Raub zu meiden, und seinen Gewinn schon dann für angemessen halten, wenn er den Bauern auf dem Land keinerlei Kosten auferlegt\. Denn worin unterscheidet er sich vom Feind, der selbst auf feindliche Weise an sich reißt, was er findet, außer dass es schwerer wiegt, die eigenen Leute statt Fremde anzugreifen und die Verbündeten statt die Feinde auszuplündern? Ein gutes Gewissen vermag im Krieg viel, weil der mehr von göttlicher Hilfe erwartet, der weiß, dass er mit keinem Verbrechen verbunden ist\. Doch durch diese Maßnahmen zog er sich bei den Schlechten schneller Missgunst zu, als er bei den Guten Dankbarkeit fand\. Denn als er etwa sechzigtausend Fußsoldaten gesammelt hatte, dazu nur sehr wenige Reiter, etwa viertausend Söldner und außerdem sechshundert ausgewählte Leibwächter, nahm er den Juden so viel weg, dass vor dem Krieg von den eigenen Leuten größere Gefahr drohte als im Krieg selbst von den Römern\. Ich übergehe, was an Aufruhr erregt wurde, weil man vermutete, dass sie die durch Räuberei geraubten Dinge denen zurückgaben, die sie verloren hatten, besonders Agrippa und Beronica, denen sie mit Recht zurückgegeben wurden, damit sie den König nicht noch feindseliger machten\. Er aber sagte, um die Wut des Volkes zu mildern, das Geld werde eher für den Bau von Mauern zurückgelegt als zur Entschädigung der Herrscher; und alles, was Ptolomaeus weggenommen hatte, der das königliche Gold, die Gewänder und die übrigen Gegenstände fortgeschafft hatte, das, so urteilten sie, hätten die Taricheaten zu ersetzen, denn bei ihnen war dies geschehen, sei es dass sie meinten, es müsse für die Wiederherstellung ihrer Mauern aufbewahrt werden, sei es dass es für die Plünderung der Räuber ausgegeben werden sollte\. Jedenfalls schien es unpassend, dass er Strafe erleiden sollte, weil er Besseres geplant hatte\.
-
-Nachdem er die Lage so gewendet hatte, entging er zugleich Missgunst und Gefahr\. Als Tiberias erneut die Gunst König Agrippas und die Verbindung mit ihm verlangt hatte, eilte Josephus aus der berühmten Stadt der Taricheaten hinaus und schloss die Tore, damit kein Bote in die Stadt Tiberias gelangen und melden konnte, dass Josephus militärische Unterstützung fehlte\. Er sammelte jedoch die Fischerboote vom See, soweit er sie rechtzeitig ausfindig machen konnte, und fuhr rudernd nach Tiberias\. Als er aber an jene Stelle kam, wo die Boote in der Stadt unübersehbar aufgestellt waren, konnte man doch nicht erkennen, ob sie ohne Kämpfer waren\. Daher befahl er, sie über die ganze Fläche des Sees zu verteilen, damit ihre Zahl größer erscheine und keines eher als leer denn als mit Kämpfern gefüllt gelten könne\. Davon erschreckt, weil sie sich einer so großen Menge gegenüber für machtlos hielten, warfen sie die Waffen nieder; die Tore wurden geöffnet, und sie strömten flehend zu Josephus hinaus, der wie der Führer eines Heeres näher herangekommen war\. Man fragte, welcher Wahnsinn sie schließlich dazu gebracht habe, die Spaltung in ihren Sinn aufzunehmen, und auf welche Autoritäten hin sie im Begriff gewesen seien, sich ihren Gegnern auszuliefern\. Zugleich befahl er den Statthaltern, die zu ihm Herbeieilenden nach Tarichea hinauszuführen, und mit ihnen beinahe sechshundert Mitglieder des Gerichts; viele aus dem Volk legte er in Ketten\. Auch Clituin, den Anführer, der wegen seiner Verbrechen angeklagt war, ließ er mit dem Abhauen der Hände bestrafen\. Als dieser bat, ihm wenigstens eine Hand zu lassen, befahl Josephus, er solle sich selbst diejenige abhauen, die er wolle\. Da ergriff jener mit der rechten Hand ein Schwert und hieb sich die linke Hand ab\. So wurde Tiberias zurückgewonnen; auch Sephoris aber, das versucht hatte, sich zu lösen, wurde dennoch durch Josephus’ Beharrlichkeit unter den Städten festgehalten, die Bundesgenossen der Juden waren\. Er zog es vor, die Seinen durch friedliche Maßnahmen zu schützen, statt die Feinde anzugreifen\.
+Nachdem er die Lage so gewendet hatte,
+entging er zugleich Missgunst und Gefahr\.
+Als Tiberias erneut die Gunst König Agrippas und die Verbindung mit ihm verlangt hatte,
+eilte Josephus aus der berühmten Stadt der Taricheaten hinaus und schloss die Tore,
+damit kein Bote in die Stadt Tiberias gelangen und melden konnte,
+dass Josephus militärische Unterstützung fehlte\.
+Er sammelte jedoch die Fischerboote vom See,
+soweit er sie rechtzeitig ausfindig machen konnte,
+und fuhr rudernd nach Tiberias\.
+Als er aber an jene Stelle kam,
+wo die Boote in der Stadt unübersehbar aufgestellt waren,
+konnte man doch nicht erkennen,
+ob sie ohne Kämpfer waren\.
+Daher befahl er,
+sie über die ganze Fläche des Sees zu verteilen,
+damit ihre Zahl größer erscheine und keines eher als leer denn als mit Kämpfern gefüllt gelten könne\.
+Davon erschreckt,
+weil sie sich einer so großen Menge gegenüber für machtlos hielten,
+warfen sie die Waffen nieder;
+die Tore wurden geöffnet,
+und sie strömten flehend zu Josephus hinaus,
+der wie der Führer eines Heeres näher herangekommen war\.
+Man fragte,
+welcher Wahnsinn sie schließlich dazu gebracht habe,
+die Spaltung in ihren Sinn aufzunehmen,
+und auf welche Autoritäten hin sie im Begriff gewesen seien,
+sich ihren Gegnern auszuliefern\.
+Zugleich befahl er den Statthaltern,
+die zu ihm Herbeieilenden nach Tarichea hinauszuführen,
+und mit ihnen beinahe sechshundert Mitglieder des Gerichts;
+viele aus dem Volk legte er in Ketten\.
+Auch Clituin,
+den Anführer,
+der wegen seiner Verbrechen angeklagt war,
+ließ er mit dem Abhauen der Hände bestrafen\.
+Als dieser bat,
+ihm wenigstens eine Hand zu lassen,
+befahl Josephus,
+er solle sich selbst diejenige abhauen,
+die er wolle\.
+Da ergriff jener mit der rechten Hand ein Schwert und hieb sich die linke Hand ab\.
+So wurde Tiberias zurückgewonnen;
+auch Sephoris aber,
+das versucht hatte,
+sich zu lösen,
+wurde dennoch durch Josephus’ Beharrlichkeit unter den Städten festgehalten,
+die Bundesgenossen der Juden waren\.
+Er zog es vor,
+die Seinen durch friedliche Maßnahmen zu schützen,
+statt die Feinde anzugreifen\.

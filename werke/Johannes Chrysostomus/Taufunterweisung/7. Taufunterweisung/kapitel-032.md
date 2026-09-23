@@ -7,6 +7,15 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/7-taufunterweisung#kapitel-a941c37c-fb88-49eb-ce79-08dde1605df7).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b7ce98edd6e48214f99e3f1409cc2ca43435801443e96ef78a19f8e6b703f480`
-
-Wenn ihr bereit seid, lasst uns eine weitere Kombination von Tugenden hinzufügen, die zum Schutz der Unvergänglichkeit dieses Gewandes beitragen kann – ich meine die Tugenden der Mäßigung und der Heiligkeit\. Strebt nach Frieden, sagt der Apostel, und nach der Heiligkeit, ohne die niemand Gott sehen wird\. Lasst uns also darauf achten, diese Heiligkeit zu verfolgen, indem wir unsere Gedanken jede Stunde, die vergeht, durchleuchten und unsere Seelen vor jeglichem Makel oder Flecken böser Gedanken bewahren\.
+Wenn ihr bereit seid,
+lasst uns eine weitere Kombination von Tugenden hinzufügen,
+die zum Schutz der Unvergänglichkeit dieses Gewandes beitragen kann – ich meine die Tugenden der Mäßigung und der Heiligkeit\.
+Strebt nach Frieden,
+sagt der Apostel,
+und nach der Heiligkeit,
+ohne die niemand Gott sehen wird\.
+Lasst uns also darauf achten,
+diese Heiligkeit zu verfolgen,
+indem wir unsere Gedanken jede Stunde,
+die vergeht,
+durchleuchten und unsere Seelen vor jeglichem Makel oder Flecken böser Gedanken bewahren\.

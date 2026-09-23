@@ -7,11 +7,114 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-2#kapitel-4237b4df-7d69-4fcd-0877-08ded872ad01).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:744a5c41fc8217e4b55a54caaaa69a938da3aff0d05ce54070377f0568f2436d`
+Demnach geriet dieser Mann gemischter Herkunft mit einem aus dem geweihten und gut unterwiesenen Haus Israel in Streit;
+vom Zorn fortgerissen,
+unfähig,
+sich zu beherrschen,
+und zugleich ein Bewunderer und Anhänger der Gottlosigkeit der Ägypter,
+dehnte er seine Gottlosigkeit von der Erde bis zum Himmel aus,
+indem er den Himmel mit seiner verfluchten,
+befleckten und verunreinigten Seele,
+mit seiner bösen Zunge und mit der ganzen Kraft seiner Stimme im Übermaß seiner Gottlosigkeit verfluchte,
+obwohl der Himmel doch gesegnet und gepriesen werden müsste,
+freilich nicht von allen Menschen,
+sondern nur von den Tugendhaftesten und Frommsten,
+die vollkommene Reinigung empfangen haben\.
+Deshalb wunderte sich Mose über seinen Wahnsinn und über das Maß seiner Vermessenheit;
+und obwohl er von edlem Eifer und Unwillen erfüllt war und den Mann mit eigener Hand töten wollte,
+fürchtete er dennoch,
+ihm damit eine zu leichte Strafe aufzuerlegen,
+denn er war überzeugt,
+kein Mensch könne für eine so ungeheure Gottlosigkeit eine angemessene Strafe ersinnen\.
+Und da notwendig folgte,
+dass ein Mensch,
+der Gott nicht verehrt,
+auch seinen Vater,
+seine Mutter,
+sein Vaterland oder seine Wohltäter nicht ehren kann,
+wagte dieser Mann nicht nur,
+ihnen keine Ehrfurcht zu erweisen,
+sondern auch,
+Übles von ihnen zu sagen\.
+Welche Ausschweifung der Bosheit blieb ihm da noch fremd?
+Und doch ist üble Nachrede,
+verglichen mit Verfluchung,
+von beiden das leichtere Übel\.
+Wenn aber maßlose Rede und eine ungezügelte Zunge der gesetzlosen Dummheit dienen,
+dann muss unweigerlich und immer irgendein ungerechtes Handeln folgen\.
+O Mensch\!
+Verflucht denn jemand Gott?
+Welchen anderen Gott kann er anrufen,
+damit er seinen Fluch bestätigt und bekräftigt?
+Ist es nicht offenkundig,
+dass er Gott anrufen muss,
+damit er seinen Verwünschungen gegen sich selbst Geltung verschafft?
+Fort mit solchen gottlosen und frevelhaften Gedanken\!
+Gut wäre es,
+jene elende Seele zu reinigen,
+die durch die Stimme geschmäht worden ist und die Ohren zu Dienern gemacht hat,
+während sie die äußeren Sinne blind hält\.
+Und wurde nicht entweder die Zunge des Mannes gelöst,
+der eine solche Gottlosigkeit aussprach,
+oder wurden die Ohren dessen verschlossen,
+der dazu bestimmt war,
+solche Dinge zu hören?
 
-Demnach geriet dieser Mann gemischter Herkunft mit einem aus dem geweihten und gut unterwiesenen Haus Israel in Streit; vom Zorn fortgerissen, unfähig, sich zu beherrschen, und zugleich ein Bewunderer und Anhänger der Gottlosigkeit der Ägypter, dehnte er seine Gottlosigkeit von der Erde bis zum Himmel aus, indem er den Himmel mit seiner verfluchten, befleckten und verunreinigten Seele, mit seiner bösen Zunge und mit der ganzen Kraft seiner Stimme im Übermaß seiner Gottlosigkeit verfluchte, obwohl der Himmel doch gesegnet und gepriesen werden müsste, freilich nicht von allen Menschen, sondern nur von den Tugendhaftesten und Frommsten, die vollkommene Reinigung empfangen haben\. Deshalb wunderte sich Mose über seinen Wahnsinn und über das Maß seiner Vermessenheit; und obwohl er von edlem Eifer und Unwillen erfüllt war und den Mann mit eigener Hand töten wollte, fürchtete er dennoch, ihm damit eine zu leichte Strafe aufzuerlegen, denn er war überzeugt, kein Mensch könne für eine so ungeheure Gottlosigkeit eine angemessene Strafe ersinnen\. Und da notwendig folgte, dass ein Mensch, der Gott nicht verehrt, auch seinen Vater, seine Mutter, sein Vaterland oder seine Wohltäter nicht ehren kann, wagte dieser Mann nicht nur, ihnen keine Ehrfurcht zu erweisen, sondern auch, Übles von ihnen zu sagen\. Welche Ausschweifung der Bosheit blieb ihm da noch fremd? Und doch ist üble Nachrede, verglichen mit Verfluchung, von beiden das leichtere Übel\. Wenn aber maßlose Rede und eine ungezügelte Zunge der gesetzlosen Dummheit dienen, dann muss unweigerlich und immer irgendein ungerechtes Handeln folgen\. O Mensch\! Verflucht denn jemand Gott? Welchen anderen Gott kann er anrufen, damit er seinen Fluch bestätigt und bekräftigt? Ist es nicht offenkundig, dass er Gott anrufen muss, damit er seinen Verwünschungen gegen sich selbst Geltung verschafft? Fort mit solchen gottlosen und frevelhaften Gedanken\! Gut wäre es, jene elende Seele zu reinigen, die durch die Stimme geschmäht worden ist und die Ohren zu Dienern gemacht hat, während sie die äußeren Sinne blind hält\. Und wurde nicht entweder die Zunge des Mannes gelöst, der eine solche Gottlosigkeit aussprach, oder wurden die Ohren dessen verschlossen, der dazu bestimmt war, solche Dinge zu hören?
-
-es sei denn freilich, dies geschah aufgrund einer providentiellen Ordnung der Gerechtigkeit, die meint, dass weder ein außergewöhnliches Gut noch ein ungeheures Übel im Dunkel bleiben darf, sondern dass beides offenbar werden soll, damit Tugend oder Laster möglichst vollständig sichtbar wird und sie das eine der Annahme, das andere der Strafe für würdig befinden kann\. Deshalb befahl Mose, den Mann ins Gefängnis zu werfen und in Ketten zu legen; dann richtete er Gebete um Versöhnung an Gott und bat ihn, Erbarmen zu haben mit den Nöten der äußeren Sinne, durch die wir sowohl sehen, was zu sehen sich nicht gehört, als auch hören, was zu hören nicht erlaubt ist, und zu zeigen, was der Urheber einer so befremdlichen und beispiellosen Lästerung und Gottlosigkeit erleiden müsse\. Und Gott befahl, ihn zu steinigen, weil er, wie ich meine, die Strafe der Steinigung für einen Mann mit steinernem und verhärtetem Herzen als passend und angemessen ansah und zugleich wollte, dass alle seine Landsleute Anteil an der Vollstreckung der Strafe an ihm hätten; denn er wusste, dass sie sehr empört waren und ihn mit Eifer töten wollten\. Die einzige Strafe aber, an der so viele Myriaden von Menschen überhaupt gemeinsam mitwirken konnten, war die durch das Werfen von Steinen vollzogene\. Nach der Bestrafung dieses gottlosen Mörders aber wurde ein neues Gebot erlassen, das zuvor niemals für würdig gehalten worden war, schriftlich niedergelegt zu werden; doch unerwartete Neuerungen führen dazu, dass neue Gesetze zur Eindämmung ihrer Übel erdacht werden\. Jedenfalls wurde sogleich folgendes Gesetz eingeführt: „Wer Gott flucht, macht sich einer Sünde schuldig, und wer den Namen des Herrn nennt, soll sterben[^bible-c07caa05-1637-488d-b011-f9b369e58367]\.“ Sehr gut, o allweiser Mann\! Du allein hast aus dem Becher unverfälschter Weisheit getrunken\. Du hast erkannt, dass es schlimmer ist, Gott zu nennen, als ihn auch nur zu verfluchen; denn niemals hättest du einen Menschen, der die schwerste aller Gottlosigkeiten begangen hatte, leicht behandelt und denen, die die geringsten Verfehlungen begingen, die schwerste mögliche Strafe auferlegt\. Vielmehr hast du den Tod, die allergrößte denkbare Strafe, als Strafmaß für den festgesetzt, der den Anschein hatte, das schwerste Verbrechen begangen zu haben\.
+es sei denn freilich,
+dies geschah aufgrund einer providentiellen Ordnung der Gerechtigkeit,
+die meint,
+dass weder ein außergewöhnliches Gut noch ein ungeheures Übel im Dunkel bleiben darf,
+sondern dass beides offenbar werden soll,
+damit Tugend oder Laster möglichst vollständig sichtbar wird und sie das eine der Annahme,
+das andere der Strafe für würdig befinden kann\.
+Deshalb befahl Mose,
+den Mann ins Gefängnis zu werfen und in Ketten zu legen;
+dann richtete er Gebete um Versöhnung an Gott und bat ihn,
+Erbarmen zu haben mit den Nöten der äußeren Sinne,
+durch die wir sowohl sehen,
+was zu sehen sich nicht gehört,
+als auch hören,
+was zu hören nicht erlaubt ist,
+und zu zeigen,
+was der Urheber einer so befremdlichen und beispiellosen Lästerung und Gottlosigkeit erleiden müsse\.
+Und Gott befahl,
+ihn zu steinigen,
+weil er,
+wie ich meine,
+die Strafe der Steinigung für einen Mann mit steinernem und verhärtetem Herzen als passend und angemessen ansah und zugleich wollte,
+dass alle seine Landsleute Anteil an der Vollstreckung der Strafe an ihm hätten;
+denn er wusste,
+dass sie sehr empört waren und ihn mit Eifer töten wollten\.
+Die einzige Strafe aber,
+an der so viele Myriaden von Menschen überhaupt gemeinsam mitwirken konnten,
+war die durch das Werfen von Steinen vollzogene\.
+Nach der Bestrafung dieses gottlosen Mörders aber wurde ein neues Gebot erlassen,
+das zuvor niemals für würdig gehalten worden war,
+schriftlich niedergelegt zu werden;
+doch unerwartete Neuerungen führen dazu,
+dass neue Gesetze zur Eindämmung ihrer Übel erdacht werden\.
+Jedenfalls wurde sogleich folgendes Gesetz eingeführt:
+„Wer Gott flucht,
+macht sich einer Sünde schuldig,
+und wer den Namen des Herrn nennt,
+soll sterben[^bible-c07caa05-1637-488d-b011-f9b369e58367]\.“
+Sehr gut,
+o allweiser Mann\!
+Du allein hast aus dem Becher unverfälschter Weisheit getrunken\.
+Du hast erkannt,
+dass es schlimmer ist,
+Gott zu nennen,
+als ihn auch nur zu verfluchen;
+denn niemals hättest du einen Menschen,
+der die schwerste aller Gottlosigkeiten begangen hatte,
+leicht behandelt und denen,
+die die geringsten Verfehlungen begingen,
+die schwerste mögliche Strafe auferlegt\.
+Vielmehr hast du den Tod,
+die allergrößte denkbare Strafe,
+als Strafmaß für den festgesetzt,
+der den Anschein hatte,
+das schwerste Verbrechen begangen zu haben\.
 
 ## Bibelverweise
 

@@ -7,6 +7,100 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/4-homilie-ueber-matthaeus#kapitel-9a435b61-f4b5-4545-5a28-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e6a8633fbadfaa598d03cfc8b24cd5db2ce67fcce9fb275ab2f97262c1b0043a`
-
-Welche Verteidigung bleibt dir also, welchen anständigen Vorwand kannst du noch vorbringen, wenn du einen Löwen zum Menschen machst, dich selbst aber achtlos vom Menschen zum Löwen werden lässt? Wenn du ihm schenkst, was über seine Natur hinausgeht, dir selbst aber nicht einmal bewahrst, was deiner Natur entspricht? Wenn du mit allem Eifer wilde Tiere zu unserem Adel emporführen willst, dich selbst aber vom Thron der Königsherrschaft hinabstürzt und in ihren Wahnsinn hineinstößt? Wenn du willst, sieh auch den Zorn als wildes Tier an\. Und so viel Mühe andere auf Löwen verwenden, so viel Eifer zeige du an dir selbst, und mach diese Denkbewegung zahm und sanft\. Denn auch sie hat gefährliche Zähne und Krallen, und wenn du sie nicht zähmst, wird sie alles zugrunde richten\. Nicht einmal ein Löwe oder eine Viper kann die Eingeweide so zerreißen wie der Zorn, der dies unaufhörlich mit eisernen Krallen tut\. Er verwüstet ja nicht nur den Körper, sondern verdirbt auch die Gesundheit der Seele selbst: Er frisst, zerreißt und zerfasert ihre ganze Kraft und macht sie zu allem untauglich\. Denn wenn einer Würmer in seinen Eingeweiden nährt, wird er nicht einmal atmen können, weil alles in ihm aufgezehrt wird\. Wie sollten dann wir, die wir eine so große Schlange in uns haben, die alles Innere zerfrisst, ich meine den Zorn, etwas Edles hervorbringen können? Wie werden wir also von diesem Verderben frei? Wenn wir einen Trank trinken, der die Würmer und Schlangen in uns abtöten kann\. Und welcher Trank, fragt man, hätte solche Kraft? Das kostbare Blut Christi, wenn es mit Zuversicht empfangen wird; denn es kann jede Krankheit auslöschen\. Dazu kommt das genaue Hören auf die göttlichen Schriften und die Barmherzigkeit, die sich mit dem Hören verbindet\. Durch all dies können die Leidenschaften, die unsere Seele verwüsten, abgetötet werden\. Und erst dann werden wir leben; denn jetzt sind wir nicht besser daran als Tote\. Solange jene leben, können auch wir nicht leben, sondern wir müssen zugrunde gehen\. Und wenn wir ihnen nicht zuvorkommen und sie hier töten, werden sie uns dort ganz gewiss töten; vielmehr werden sie uns schon vor jenem Tod auch hier die äußerste Strafe abverlangen\. Denn jede dieser Leidenschaften ist roh, tyrannisch und unersättlich und hört nie auf, uns Tag für Tag zu fressen\. Ihre Zähne sind Löwenzähne, ja noch viel gefährlicher\. Denn der Löwe wird satt und lässt zugleich von dem Körper ab, der ihm in die Hände gefallen ist\. Diese Leidenschaften aber werden weder satt noch lassen sie ab, bis sie den Menschen, der ihnen verfallen ist, nahe beim Teufel hingestellt haben\. So groß ist ihre Macht, dass sie von denen, die ihnen verfallen sind, denselben Dienst verlangen, den Paulus Christus erwies, als er um seinetwillen Hölle und Königreich verachtete\. Denn ob einer der Begierde nach Körpern, nach Geld oder nach Ruhm verfällt: Von da an lacht er über die Hölle und verachtet das Königreich, nur um ihren Willen zu tun\. Darum wollen wir Paulus nicht misstrauen, wenn er sagt, dass er Christus so geliebt hat\. Denn wenn sich Menschen finden, die den Leidenschaften so dienen, wie könnte jenes dann noch unglaubwürdig erscheinen? Gerade darum ist ja unsere Sehnsucht nach Christus schwächer, weil unsere ganze Kraft in diese Begierde aufgezehrt wird: Wir rauben, wir beuten aus und dienen leerem Ruhm\. Was könnte geringer sein als der? Denn selbst wenn du zehntausendmal im Blickfeld aller stehst, wirst du den Ehrlosen um nichts überlegen sein, sondern gerade deshalb noch ehrloser\. Denn wenn gerade die, die dich rühmen und glänzend erscheinen lassen wollen, dich deshalb auslachen, weil du nach dem Ruhm verlangst, der von ihnen kommt, wie sollte sich dann nicht alles, worauf dieser Eifer zielt, für dich ins Gegenteil verkehren?
+Welche Verteidigung bleibt dir also,
+welchen anständigen Vorwand kannst du noch vorbringen,
+wenn du einen Löwen zum Menschen machst,
+dich selbst aber achtlos vom Menschen zum Löwen werden lässt?
+Wenn du ihm schenkst,
+was über seine Natur hinausgeht,
+dir selbst aber nicht einmal bewahrst,
+was deiner Natur entspricht?
+Wenn du mit allem Eifer wilde Tiere zu unserem Adel emporführen willst,
+dich selbst aber vom Thron der Königsherrschaft hinabstürzt und in ihren Wahnsinn hineinstößt?
+Wenn du willst,
+sieh auch den Zorn als wildes Tier an\.
+Und so viel Mühe andere auf Löwen verwenden,
+so viel Eifer zeige du an dir selbst,
+und mach diese Denkbewegung zahm und sanft\.
+Denn auch sie hat gefährliche Zähne und Krallen,
+und wenn du sie nicht zähmst,
+wird sie alles zugrunde richten\.
+Nicht einmal ein Löwe oder eine Viper kann die Eingeweide so zerreißen wie der Zorn,
+der dies unaufhörlich mit eisernen Krallen tut\.
+Er verwüstet ja nicht nur den Körper,
+sondern verdirbt auch die Gesundheit der Seele selbst:
+Er frisst,
+zerreißt und zerfasert ihre ganze Kraft und macht sie zu allem untauglich\.
+Denn wenn einer Würmer in seinen Eingeweiden nährt,
+wird er nicht einmal atmen können,
+weil alles in ihm aufgezehrt wird\.
+Wie sollten dann wir,
+die wir eine so große Schlange in uns haben,
+die alles Innere zerfrisst,
+ich meine den Zorn,
+etwas Edles hervorbringen können?
+Wie werden wir also von diesem Verderben frei?
+Wenn wir einen Trank trinken,
+der die Würmer und Schlangen in uns abtöten kann\.
+Und welcher Trank,
+fragt man,
+hätte solche Kraft?
+Das kostbare Blut Christi,
+wenn es mit Zuversicht empfangen wird;
+denn es kann jede Krankheit auslöschen\.
+Dazu kommt das genaue Hören auf die göttlichen Schriften und die Barmherzigkeit,
+die sich mit dem Hören verbindet\.
+Durch all dies können die Leidenschaften,
+die unsere Seele verwüsten,
+abgetötet werden\.
+Und erst dann werden wir leben;
+denn jetzt sind wir nicht besser daran als Tote\.
+Solange jene leben,
+können auch wir nicht leben,
+sondern wir müssen zugrunde gehen\.
+Und wenn wir ihnen nicht zuvorkommen und sie hier töten,
+werden sie uns dort ganz gewiss töten;
+vielmehr werden sie uns schon vor jenem Tod auch hier die äußerste Strafe abverlangen\.
+Denn jede dieser Leidenschaften ist roh,
+tyrannisch und unersättlich und hört nie auf,
+uns Tag für Tag zu fressen\.
+Ihre Zähne sind Löwenzähne,
+ja noch viel gefährlicher\.
+Denn der Löwe wird satt und lässt zugleich von dem Körper ab,
+der ihm in die Hände gefallen ist\.
+Diese Leidenschaften aber werden weder satt noch lassen sie ab,
+bis sie den Menschen,
+der ihnen verfallen ist,
+nahe beim Teufel hingestellt haben\.
+So groß ist ihre Macht,
+dass sie von denen,
+die ihnen verfallen sind,
+denselben Dienst verlangen,
+den Paulus Christus erwies,
+als er um seinetwillen Hölle und Königreich verachtete\.
+Denn ob einer der Begierde nach Körpern,
+nach Geld oder nach Ruhm verfällt:
+Von da an lacht er über die Hölle und verachtet das Königreich,
+nur um ihren Willen zu tun\.
+Darum wollen wir Paulus nicht misstrauen,
+wenn er sagt,
+dass er Christus so geliebt hat\.
+Denn wenn sich Menschen finden,
+die den Leidenschaften so dienen,
+wie könnte jenes dann noch unglaubwürdig erscheinen?
+Gerade darum ist ja unsere Sehnsucht nach Christus schwächer,
+weil unsere ganze Kraft in diese Begierde aufgezehrt wird:
+Wir rauben,
+wir beuten aus und dienen leerem Ruhm\.
+Was könnte geringer sein als der?
+Denn selbst wenn du zehntausendmal im Blickfeld aller stehst,
+wirst du den Ehrlosen um nichts überlegen sein,
+sondern gerade deshalb noch ehrloser\.
+Denn wenn gerade die,
+die dich rühmen und glänzend erscheinen lassen wollen,
+dich deshalb auslachen,
+weil du nach dem Ruhm verlangst,
+der von ihnen kommt,
+wie sollte sich dann nicht alles,
+worauf dieser Eifer zielt,
+für dich ins Gegenteil verkehren?

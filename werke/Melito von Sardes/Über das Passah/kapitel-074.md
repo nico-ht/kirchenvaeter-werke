@@ -7,9 +7,19 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-6bf23887-d72c-456c-76b8-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:39e8bd76c3966d60c078aac594dd90d7344a9617fdba641ea78b38126f0ee96d`
-
-O Israel, was hast du getan? Steht nicht für dich geschrieben: „Du sollst kein unschuldiges Blut vergießen“[^bible-e2917b3d-2058-4fd7-8fa1-4054bbc320ae], damit du nicht den Tod der Gottlosen stirbst? „Ich“, sagte Israel\. „Ich tötete den Herrn\.“ Warum? „Weil er sterben musste\.“ Du hast dich geirrt, o Israel, so über die Schlachtung des Herrn zu denken\.
+O Israel,
+was hast du getan?
+Steht nicht für dich geschrieben:
+„Du sollst kein unschuldiges Blut vergießen“[^bible-e2917b3d-2058-4fd7-8fa1-4054bbc320ae],
+damit du nicht den Tod der Gottlosen stirbst?
+„Ich“,
+sagte Israel\.
+„Ich tötete den Herrn\.“
+Warum?
+„Weil er sterben musste\.“
+Du hast dich geirrt,
+o Israel,
+so über die Schlachtung des Herrn zu denken\.
 
 ## Bibelverweise
 

@@ -7,9 +7,164 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/64-homilie-ueber-matthaeus#kapitel-4844b25a-b64c-43c2-5b67-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:659848c0e4ef618bbc124c654baabab8ca96d15a5417ab416ccb593260a7ed7f`
-
-Von allen Seiten ist uns also klar: Das Gleichnis ist zu denen gesprochen, die von frühester Jugend an dabei sind, und zu denen, die erst im Alter und langsamer zur Tugend gegriffen haben\. Zu jenen, damit sie nicht verzweifeln und den Arbeitern um die elfte Stunde nichts vorwerfen; zu diesen, damit sie lernen, dass man auch in kurzer Zeit alles wiedergewinnen kann\. Denn da er von Entschlossenheit sprach, davon, Geld wegzuwerfen und den ganzen Besitz geringzuachten, und da dies viel Spannkraft und jugendliche Bereitschaft verlangte, entzündet er in ihnen eine Flamme der Liebe, macht ihren Willen stark und zeigt so, dass auch die, die später gekommen sind, den Lohn des ganzen Tages empfangen können\. Doch so sagt er es nicht, damit er sie nicht wieder in Verzweiflung treibt\. Er zeigt vielmehr, dass alles an seiner Menschenfreundlichkeit liegt und dass sie deshalb nicht ausgeschlossen werden, sondern auch sie an den unaussprechlichen Gütern teilhaben werden\. Und genau das will er durch dieses Gleichnis vor allem begründen\. Wenn er aber hinzufügt: „So werden die Letzten Erste sein und die Ersten Letzte; denn viele sind berufen, wenige aber erwählt\.[^bible-da1092a3-dbea-4221-a060-62e46cd9eca5]“, dann wundere dich nicht\. Denn er sagt dies nicht, als hätte er es aus dem Gleichnis gefolgert, sondern meint: Wie das eine geschehen ist, so wird auch jenes geschehen\. Hier wurden nämlich die Ersten nicht Letzte, sondern alle hatten wider Hoffnung und wider Erwartung Anteil an demselben\. Wie aber dies wider Hoffnung und wider Erwartung ausging und die später Gekommenen den Früheren gleich wurden, so wird auch noch etwas Größeres und noch Erstaunlicheres geschehen: dass die Letzten sogar vor den Ersten stehen werden und die Ersten nach ihnen\. Also ist jenes etwas anderes und dieses etwas anderes\. Mir scheint, dass er damit auf die Juden anspielt und auch auf jene unter den Gläubigen, die von Anfang an leuchteten, später aber die Tugend vernachlässigten und zurückgefallen sind; ebenso umgekehrt auf jene, die sich aus der Bosheit wieder erhoben und viele hinter sich ließen\. Denn wir sehen solche Umschwünge sowohl im Glauben als auch im Leben geschehen\. Darum bitte ich: Lasst uns großen Eifer aufbringen, im rechten Glauben festzustehen und ein hervorragendes Leben zu zeigen\. Denn wenn wir zum Glauben nicht auch ein Leben hinzufügen, das des Glaubens würdig ist, werden wir die äußerste Strafe erleiden\. Das zeigte der selige Paulus schon an den Zeiten von früher, als er sagte: „Alle aßen dieselbe geistliche Speise, und alle tranken denselben geistlichen Trank[^bible-a90c9069-0103-415e-b6ea-e3860e019f1a]“, und dann hinzufügte, dass sie nicht gerettet wurden: „Denn sie wurden in der Wüste niedergestreckt\.[^bible-adc538a5-cc1d-4322-aeed-6fb24aae8c26]“ Das zeigte Christus auch in den Evangelien, als er einige auftreten ließ, die Dämonen ausgetrieben und geweissagt hatten und doch zur Strafe abgeführt wurden\. Auch alle seine Gleichnisse, etwa das von den Jungfrauen, das vom Netz, das von den Dornen und das vom Baum, der keine Frucht bringt, verlangen die Tugend, die aus den Werken kommt\. Über Glaubenssätze spricht er nämlich selten; denn diese Sache verlangt keine Mühe\. Über das Leben aber spricht er oft, ja vielmehr überall\. Denn der Kampf darum dauert unablässig; darum gibt es auch Mühe\. Und was sage ich von der ganzen Lebensführung? Schon wenn ein Teil von ihr vernachlässigt wird, bringt das große Übel mit sich\. So wirft vernachlässigte Barmherzigkeit diejenigen, die darin zurückgeblieben sind, in die Gehenna, obwohl sie nicht die ganze Tugend ist, sondern nur ein Teil von ihr\. Dennoch wurden auch die Jungfrauen bestraft, weil sie diese nicht hatten; auch der Reiche litt deshalb brennende Qual; und die, die den Hungrigen nicht gespeist haben, werden von daher mit dem Teufel verurteilt\. Wiederum ist es nur ein sehr kleiner Teil von ihr, nicht zu schmähen; dennoch stößt auch dies diejenigen hinaus, die es nicht vollbracht haben\. Denn wer zu seinem Bruder sagt: Du Tor\!, wird der Gehenna des Feuers verfallen sein[^bible-fbf76c46-7e74-4bc9-878f-65478f578948]\. Auch die Keuschheit ist wiederum nur ein Teil; dennoch wird ohne sie niemand den Herrn sehen\. Denn er sagt: „Jagt dem Frieden nach und der Heiligung, ohne die niemand den Herrn sehen wird\.[^bible-d5ce7910-8a43-48b5-b69b-aa6064c9ab8d]“ Und ebenso ist auch die Demut nur ein Teil der Tugend; dennoch ist jemand, auch wenn er anderes Gute vollbringt, aber in ihr nicht ans Ziel kommt, unrein vor Gott\. Das ist klar am Pharisäer: Obwohl er sich mit zahllosen guten Werken schmückte, verlor er von daher alles\. Ich aber habe darüber hinaus noch etwas Größeres zu sagen\. Denn nicht nur wenn einer dieser Teile vernachlässigt wird, verschließt er uns den Himmel; auch wenn er getan wird, aber nicht mit der gebotenen Sorgfalt und im Übermaß, bewirkt er wieder dasselbe\. Denn er sagt: „Wenn eure Gerechtigkeit nicht über die der Schriftgelehrten und Pharisäer hinausgeht, werdet ihr nicht in das Himmelreich eingehen\.[^bible-00811fd3-69e5-48c6-89ee-08efe46b8f60]“ Auch wenn du also Barmherzigkeit übst, aber nicht mehr als jene, wirst du nicht hineingehen\. Und wie viel Barmherzigkeit leisteten jene?, fragst du\. Genau das will ich jetzt sagen, damit die, die nichts geben, aufstehen und geben, und die, die geben, sich nichts darauf einbilden, sondern noch etwas dazutun\. Was also gaben jene? Von ihrem ganzen Besitz den Zehnten, und nochmals einen anderen Zehnten, und danach einen dritten\. So leisteten sie beinahe den dritten Teil ihres Vermögens; denn drei Zehnten zusammen ergeben dies\. Und dazu kamen noch die Erstlingsgaben, die Erstgeborenen und vieles andere: etwa die Gaben für Sünden, die für Reinigungen, die an den Festen, die im Jobeljahr, die beim Erlass der Schulden, bei der Freilassung der Knechte und bei den Darlehen, die von Zinsen befreit waren\. Wenn aber der, der den dritten Teil seines Besitzes gab, ja vielmehr die Hälfte, denn wenn man jenes dazurechnet, ist es die Hälfte, wenn also der, der die Hälfte gibt, nichts Großes tut: Was wird dann der verdienen, der nicht einmal den zehnten Teil leistet? Mit Recht sagte er: „Wenige sind es, die gerettet werden\.[^bible-4911f7df-a13e-403c-bb8b-859c700ab683]“
+Von allen Seiten ist uns also klar:
+Das Gleichnis ist zu denen gesprochen,
+die von frühester Jugend an dabei sind,
+und zu denen,
+die erst im Alter und langsamer zur Tugend gegriffen haben\.
+Zu jenen,
+damit sie nicht verzweifeln und den Arbeitern um die elfte Stunde nichts vorwerfen;
+zu diesen,
+damit sie lernen,
+dass man auch in kurzer Zeit alles wiedergewinnen kann\.
+Denn da er von Entschlossenheit sprach,
+davon,
+Geld wegzuwerfen und den ganzen Besitz geringzuachten,
+und da dies viel Spannkraft und jugendliche Bereitschaft verlangte,
+entzündet er in ihnen eine Flamme der Liebe,
+macht ihren Willen stark und zeigt so,
+dass auch die,
+die später gekommen sind,
+den Lohn des ganzen Tages empfangen können\.
+Doch so sagt er es nicht,
+damit er sie nicht wieder in Verzweiflung treibt\.
+Er zeigt vielmehr,
+dass alles an seiner Menschenfreundlichkeit liegt und dass sie deshalb nicht ausgeschlossen werden,
+sondern auch sie an den unaussprechlichen Gütern teilhaben werden\.
+Und genau das will er durch dieses Gleichnis vor allem begründen\.
+Wenn er aber hinzufügt:
+„So werden die Letzten Erste sein und die Ersten Letzte;
+denn viele sind berufen,
+wenige aber erwählt\.[^bible-da1092a3-dbea-4221-a060-62e46cd9eca5]“,
+dann wundere dich nicht\.
+Denn er sagt dies nicht,
+als hätte er es aus dem Gleichnis gefolgert,
+sondern meint:
+Wie das eine geschehen ist,
+so wird auch jenes geschehen\.
+Hier wurden nämlich die Ersten nicht Letzte,
+sondern alle hatten wider Hoffnung und wider Erwartung Anteil an demselben\.
+Wie aber dies wider Hoffnung und wider Erwartung ausging und die später Gekommenen den Früheren gleich wurden,
+so wird auch noch etwas Größeres und noch Erstaunlicheres geschehen:
+dass die Letzten sogar vor den Ersten stehen werden und die Ersten nach ihnen\.
+Also ist jenes etwas anderes und dieses etwas anderes\.
+Mir scheint,
+dass er damit auf die Juden anspielt und auch auf jene unter den Gläubigen,
+die von Anfang an leuchteten,
+später aber die Tugend vernachlässigten und zurückgefallen sind;
+ebenso umgekehrt auf jene,
+die sich aus der Bosheit wieder erhoben und viele hinter sich ließen\.
+Denn wir sehen solche Umschwünge sowohl im Glauben als auch im Leben geschehen\.
+Darum bitte ich:
+Lasst uns großen Eifer aufbringen,
+im rechten Glauben festzustehen und ein hervorragendes Leben zu zeigen\.
+Denn wenn wir zum Glauben nicht auch ein Leben hinzufügen,
+das des Glaubens würdig ist,
+werden wir die äußerste Strafe erleiden\.
+Das zeigte der selige Paulus schon an den Zeiten von früher,
+als er sagte:
+„Alle aßen dieselbe geistliche Speise,
+und alle tranken denselben geistlichen Trank[^bible-a90c9069-0103-415e-b6ea-e3860e019f1a]“,
+und dann hinzufügte,
+dass sie nicht gerettet wurden:
+„Denn sie wurden in der Wüste niedergestreckt\.[^bible-adc538a5-cc1d-4322-aeed-6fb24aae8c26]“ Das zeigte Christus auch in den Evangelien,
+als er einige auftreten ließ,
+die Dämonen ausgetrieben und geweissagt hatten und doch zur Strafe abgeführt wurden\.
+Auch alle seine Gleichnisse,
+etwa das von den Jungfrauen,
+das vom Netz,
+das von den Dornen und das vom Baum,
+der keine Frucht bringt,
+verlangen die Tugend,
+die aus den Werken kommt\.
+Über Glaubenssätze spricht er nämlich selten;
+denn diese Sache verlangt keine Mühe\.
+Über das Leben aber spricht er oft,
+ja vielmehr überall\.
+Denn der Kampf darum dauert unablässig;
+darum gibt es auch Mühe\.
+Und was sage ich von der ganzen Lebensführung?
+Schon wenn ein Teil von ihr vernachlässigt wird,
+bringt das große Übel mit sich\.
+So wirft vernachlässigte Barmherzigkeit diejenigen,
+die darin zurückgeblieben sind,
+in die Gehenna,
+obwohl sie nicht die ganze Tugend ist,
+sondern nur ein Teil von ihr\.
+Dennoch wurden auch die Jungfrauen bestraft,
+weil sie diese nicht hatten;
+auch der Reiche litt deshalb brennende Qual;
+und die,
+die den Hungrigen nicht gespeist haben,
+werden von daher mit dem Teufel verurteilt\.
+Wiederum ist es nur ein sehr kleiner Teil von ihr,
+nicht zu schmähen;
+dennoch stößt auch dies diejenigen hinaus,
+die es nicht vollbracht haben\.
+Denn wer zu seinem Bruder sagt:
+Du Tor\!,
+wird der Gehenna des Feuers verfallen sein[^bible-fbf76c46-7e74-4bc9-878f-65478f578948]\.
+Auch die Keuschheit ist wiederum nur ein Teil;
+dennoch wird ohne sie niemand den Herrn sehen\.
+Denn er sagt:
+„Jagt dem Frieden nach und der Heiligung,
+ohne die niemand den Herrn sehen wird\.[^bible-d5ce7910-8a43-48b5-b69b-aa6064c9ab8d]“ Und ebenso ist auch die Demut nur ein Teil der Tugend;
+dennoch ist jemand,
+auch wenn er anderes Gute vollbringt,
+aber in ihr nicht ans Ziel kommt,
+unrein vor Gott\.
+Das ist klar am Pharisäer:
+Obwohl er sich mit zahllosen guten Werken schmückte,
+verlor er von daher alles\.
+Ich aber habe darüber hinaus noch etwas Größeres zu sagen\.
+Denn nicht nur wenn einer dieser Teile vernachlässigt wird,
+verschließt er uns den Himmel;
+auch wenn er getan wird,
+aber nicht mit der gebotenen Sorgfalt und im Übermaß,
+bewirkt er wieder dasselbe\.
+Denn er sagt:
+„Wenn eure Gerechtigkeit nicht über die der Schriftgelehrten und Pharisäer hinausgeht,
+werdet ihr nicht in das Himmelreich eingehen\.[^bible-00811fd3-69e5-48c6-89ee-08efe46b8f60]“ Auch wenn du also Barmherzigkeit übst,
+aber nicht mehr als jene,
+wirst du nicht hineingehen\.
+Und wie viel Barmherzigkeit leisteten jene?,
+fragst du\.
+Genau das will ich jetzt sagen,
+damit die,
+die nichts geben,
+aufstehen und geben,
+und die,
+die geben,
+sich nichts darauf einbilden,
+sondern noch etwas dazutun\.
+Was also gaben jene?
+Von ihrem ganzen Besitz den Zehnten,
+und nochmals einen anderen Zehnten,
+und danach einen dritten\.
+So leisteten sie beinahe den dritten Teil ihres Vermögens;
+denn drei Zehnten zusammen ergeben dies\.
+Und dazu kamen noch die Erstlingsgaben,
+die Erstgeborenen und vieles andere:
+etwa die Gaben für Sünden,
+die für Reinigungen,
+die an den Festen,
+die im Jobeljahr,
+die beim Erlass der Schulden,
+bei der Freilassung der Knechte und bei den Darlehen,
+die von Zinsen befreit waren\.
+Wenn aber der,
+der den dritten Teil seines Besitzes gab,
+ja vielmehr die Hälfte,
+denn wenn man jenes dazurechnet,
+ist es die Hälfte,
+wenn also der,
+der die Hälfte gibt,
+nichts Großes tut:
+Was wird dann der verdienen,
+der nicht einmal den zehnten Teil leistet?
+Mit Recht sagte er:
+„Wenige sind es,
+die gerettet werden\.[^bible-4911f7df-a13e-403c-bb8b-859c700ab683]“
 
 ## Bibelverweise
 

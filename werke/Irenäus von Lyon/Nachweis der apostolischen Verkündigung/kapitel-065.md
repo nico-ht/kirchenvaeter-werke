@@ -7,9 +7,19 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-7f71a8ca-c5d8-4d71-324f-08debf1e7015).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:629255650c6ed38511d6d08c14f5cbfd43b46d90b5618bfffd24c234ef9586a5`
-
-Auch die Art seines Einzugs nach Jerusalem, in die Hauptstadt Judäas, wo auch sein königlicher Sitz und der Tempel Gottes waren, erklärt der Prophet Jesaja: „Sagt zur Tochter Zion: Siehe, ein König kommt zu dir, sanftmütig und sitzend auf einem Esel, auf einem Füllen, dem Jungen einer Eselin[^bible-4c0cd490-d3f1-479c-8afb-e485c50bdefc]\.“ Denn auf dem Füllen einer Eselin sitzend zog er so in Jerusalem ein, während die Volksmengen ihre Gewänder für ihn ausbreiteten und niederlegten\. Und mit der Tochter Zion meint er Jerusalem\.
+Auch die Art seines Einzugs nach Jerusalem,
+in die Hauptstadt Judäas,
+wo auch sein königlicher Sitz und der Tempel Gottes waren,
+erklärt der Prophet Jesaja:
+„Sagt zur Tochter Zion:
+Siehe,
+ein König kommt zu dir,
+sanftmütig und sitzend auf einem Esel,
+auf einem Füllen,
+dem Jungen einer Eselin[^bible-4c0cd490-d3f1-479c-8afb-e485c50bdefc]\.“
+Denn auf dem Füllen einer Eselin sitzend zog er so in Jerusalem ein,
+während die Volksmengen ihre Gewänder für ihn ausbreiteten und niederlegten\.
+Und mit der Tochter Zion meint er Jerusalem\.
 
 ## Bibelverweise
 

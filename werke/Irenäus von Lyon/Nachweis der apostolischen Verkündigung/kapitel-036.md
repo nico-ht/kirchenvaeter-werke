@@ -7,9 +7,23 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-6765ab06-57e7-4a86-3232-08debf1e7015).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:849fb13e46eb2ce0a8c209abd13570359791494b3ebf2080000f20e15f74a339`
-
-Und er erfüllte die Verheißung an David; denn Gott hatte ihm verheißen, dass er aus der Frucht seines Leibes[^bible-8cbfbce3-53a0-45ba-a510-77e12296998b] einen ewigen König erwecken werde, dessen Reich kein Ende haben sollte[^bible-432e1aff-938c-419e-8a36-5a29a26de452]\. Und dieser König ist Christus, der Sohn Gottes, der zum Sohn des Menschen wurde; das heißt: der zur Frucht jener Jungfrau wurde, die von David abstammte\. Deshalb lautete die Verheißung: „Aus der Frucht deines Leibes[^bible-8cbfbce3-53a0-45ba-a510-77e12296998b]“, damit er die besondere Einzigartigkeit dessen deutlich mache, der die Frucht des jungfräulichen Leibes war, der von David stammte, nämlich dessen, der König über das Haus Davids war und dessen Reich kein Ende haben wird[^bible-432e1aff-938c-419e-8a36-5a29a26de452]\.
+Und er erfüllte die Verheißung an David;
+denn Gott hatte ihm verheißen,
+dass er aus der Frucht seines Leibes[^bible-8cbfbce3-53a0-45ba-a510-77e12296998b] einen ewigen König erwecken werde,
+dessen Reich kein Ende haben sollte[^bible-432e1aff-938c-419e-8a36-5a29a26de452]\.
+Und dieser König ist Christus,
+der Sohn Gottes,
+der zum Sohn des Menschen wurde;
+das heißt:
+der zur Frucht jener Jungfrau wurde,
+die von David abstammte\.
+Deshalb lautete die Verheißung:
+„Aus der Frucht deines Leibes[^bible-8cbfbce3-53a0-45ba-a510-77e12296998b]“,
+damit er die besondere Einzigartigkeit dessen deutlich mache,
+der die Frucht des jungfräulichen Leibes war,
+der von David stammte,
+nämlich dessen,
+der König über das Haus Davids war und dessen Reich kein Ende haben wird[^bible-432e1aff-938c-419e-8a36-5a29a26de452]\.
 
 ## Bibelverweise
 

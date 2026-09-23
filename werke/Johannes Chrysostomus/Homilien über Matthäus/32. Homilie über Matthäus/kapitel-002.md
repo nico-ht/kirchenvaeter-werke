@@ -7,9 +7,145 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/32-homilie-ueber-matthaeus#kapitel-0926041f-55bd-456b-5acb-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:05f3951b70d70158fbcd74bbbaaf40977ea9b7d1da9387d8ed77c5bc58443114`
-
-Die Pharisäer aber taten genau das Gegenteil\. Denn sie verleumden nicht nur das Geschehene, sondern schämen sich auch nicht, Dinge zu sagen, die ihnen selbst widersprechen\. So ist die Bosheit\. Was sagen sie denn? „Durch den Herrscher der Dämonen treibt er die Dämonen aus\.“ Was könnte unvernünftiger sein als das? Vor allem ist es, wie er auch später sagt, unmöglich, dass ein Dämon einen Dämon austreibt; denn jener ist gewohnt, das Seine zusammenzuhalten, nicht es zu zerstören\. Er aber trieb nicht nur Dämonen aus, sondern reinigte auch Aussätzige, erweckte Tote, zügelte das Meer, sprach von Sünden los, verkündete das Reich und führte Menschen zum Vater\. Das würde ein Dämon niemals wählen und niemals vollbringen können\. Denn die Dämonen führen zu Götzen, führen von Gott weg und überreden dazu, dem künftigen Leben nicht zu glauben\. Ein Dämon tut, wenn er beschimpft wird, nichts Gutes, zumal er sogar dann, wenn er nicht beschimpft wird, denen schadet, die ihm dienen und ihn ehren\. Er aber tut das Gegenteil\. Denn nach diesen Schmähungen und Beschimpfungen „zog er umher durch alle Städte und Dörfer, lehrte in ihren Synagogen, verkündete das Evangelium des Reiches und heilte jede Krankheit und jedes Gebrechen[^bible-63f9e049-f673-4cb2-a0c1-97dfcb268298]“\. Und er bestrafte sie nicht nur nicht für ihre Unempfindlichkeit, sondern wies sie nicht einmal einfach zurecht\. Damit zeigte er zugleich seine Sanftmut und widerlegte gerade dadurch die Verleumdung; zugleich wollte er durch die folgenden Zeichen noch mehr Beweis geben und erst dann die Widerlegung durch Worte folgen lassen\. Er zog also umher in Städten, in Landstrichen und in ihren Synagogen und lehrte uns, Verleumdern so zu begegnen: nicht mit weiteren Verleumdungen, sondern mit größeren Wohltaten\. Denn wenn du deinen Mitdienern nicht um der Menschen willen, sondern um Gottes willen Gutes tust, dann hör nicht auf, Gutes zu tun, was immer sie auch tun, damit der Lohn größer wird\. Wer aber nach einer Verleumdung von der Wohltat ablässt, zeigt damit, dass er eine solche Tugend um des Lobes willen ergreift, das von ihnen kommt, nicht um Gottes willen\. Deshalb lehrte Christus uns, dass er allein aus Güte so handelte: Er wartete nicht nur nicht darauf, dass die Kranken zu ihm kamen, sondern eilte selbst zu ihnen und brachte ihnen die zwei größten Güter: das eine, das Evangelium des Reiches; das andere, die Heilung aller Krankheiten\. Und er übersah keine Stadt, ging an keinem Dorf vorbei, sondern zog durch jeden Ort\. Und auch dabei bleibt er nicht stehen, sondern zeigt noch eine weitere Fürsorge\. Denn „als er die Volksmengen sah, hatte er Mitleid mit ihnen, weil sie erschöpft und niedergeworfen waren wie Schafe, die keinen Hirten haben[^bible-549e3545-777a-486d-8e0a-a34c4cf98d0a]“\. „Da sagt er zu seinen Jüngern: ‚Die Ernte ist groß, die Arbeiter aber sind wenige\. Bittet also den Herrn der Ernte, dass er Arbeiter in seine Ernte hinausschickt\.‘[^bible-b7947177-8c4e-4def-ab3d-0996c190fe83]“ Sieh wieder, wie frei er von leerem Ruhm ist\. Damit er nicht alle zu sich selbst hinzieht, sendet er die Jünger aus\. Aber nicht nur deshalb, sondern auch, um sie zu schulen: Sie sollten gleichsam in Palästina wie in einer Übungsstätte trainieren und dann für die Kämpfe auf der ganzen bewohnten Erde antreten\. Eben deshalb setzt er, soweit es ihre Kraft betraf, die Übungen schwerer an als die Kämpfe, damit sie die späteren Kämpfe leichter anpacken konnten\. Er führte sie schon wie zarte Jungvögel zum Fliegen\. Vorerst macht er sie zu Ärzten der Körper; die vorrangige Heilung der Seele hebt er für später auf\. Und beachte, wie er die Sache als leicht und notwendig zeigt\. Was sagt er denn? „Die Ernte ist groß, die Arbeiter aber sind wenige\.[^bible-a77b3e8a-79d4-41cf-8fc2-87359a1378ae]“ Denn er sagt: „Nicht zur Aussaat sende ich euch, sondern zur Ernte\.“ Das sagte er auch bei Johannes: „Andere haben sich gemüht, und ihr seid in ihre Mühe eingetreten\.[^bible-433859fa-5f6f-4c9a-b782-ca6ea89b0e10]“ Das sagte er, um zugleich ihren Hochmut zu dämpfen, sie zuversichtlich zu machen und zu zeigen, dass die größere Mühe schon vorausgegangen war\. Sieh aber auch hier, dass er aus Menschenliebe beginnt, nicht aus Erwartung irgendeiner Gegenleistung\. Denn „er hatte Mitleid, weil sie erschöpft und niedergeworfen waren wie Schafe, die keinen Hirten haben[^bible-549e3545-777a-486d-8e0a-a34c4cf98d0a]“\. Das ist die Anklage gegen die Führer der Juden: Obwohl sie Hirten waren, zeigten sie das Wesen von Wölfen\. Denn sie brachten die Menge nicht nur nicht in Ordnung, sondern zerstörten auch ihren Fortschritt\. Als jene staunten und sagten: „So etwas hat man in Israel noch nie gesehen[^bible-ff8e2863-ea1b-4fb6-bb98-9a44f898f833]“, sagten diese das Gegenteil: „Durch den Herrscher der Dämonen treibt er die Dämonen aus\.[^bible-edaa3d46-95ac-4af2-8aca-dcd437011875]“ Aber welche Arbeiter meint er hier? Die zwölf Jünger\. Was also? Hat er ihnen, nachdem er gesagt hatte: „Die Arbeiter aber sind wenige[^bible-a77b3e8a-79d4-41cf-8fc2-87359a1378ae]“, noch weitere hinzugefügt? Keineswegs, sondern er sandte sie selbst\. Weshalb sagte er dann: „Bittet den Herrn der Ernte, dass er Arbeiter in seine Ernte hinausschickt[^bible-232db670-54c8-43af-8952-b362096ac470]“, und fügte ihnen niemanden hinzu? Weil er sie, obwohl sie nur zwölf waren, von da an zu vielen machte: nicht indem er die Zahl vermehrte, sondern indem er ihnen Kraft schenkte\.
+Die Pharisäer aber taten genau das Gegenteil\.
+Denn sie verleumden nicht nur das Geschehene,
+sondern schämen sich auch nicht,
+Dinge zu sagen,
+die ihnen selbst widersprechen\.
+So ist die Bosheit\.
+Was sagen sie denn?
+„Durch den Herrscher der Dämonen treibt er die Dämonen aus\.“
+Was könnte unvernünftiger sein als das?
+Vor allem ist es,
+wie er auch später sagt,
+unmöglich,
+dass ein Dämon einen Dämon austreibt;
+denn jener ist gewohnt,
+das Seine zusammenzuhalten,
+nicht es zu zerstören\.
+Er aber trieb nicht nur Dämonen aus,
+sondern reinigte auch Aussätzige,
+erweckte Tote,
+zügelte das Meer,
+sprach von Sünden los,
+verkündete das Reich und führte Menschen zum Vater\.
+Das würde ein Dämon niemals wählen und niemals vollbringen können\.
+Denn die Dämonen führen zu Götzen,
+führen von Gott weg und überreden dazu,
+dem künftigen Leben nicht zu glauben\.
+Ein Dämon tut,
+wenn er beschimpft wird,
+nichts Gutes,
+zumal er sogar dann,
+wenn er nicht beschimpft wird,
+denen schadet,
+die ihm dienen und ihn ehren\.
+Er aber tut das Gegenteil\.
+Denn nach diesen Schmähungen und Beschimpfungen „zog er umher durch alle Städte und Dörfer,
+lehrte in ihren Synagogen,
+verkündete das Evangelium des Reiches und heilte jede Krankheit und jedes Gebrechen[^bible-63f9e049-f673-4cb2-a0c1-97dfcb268298]“\.
+Und er bestrafte sie nicht nur nicht für ihre Unempfindlichkeit,
+sondern wies sie nicht einmal einfach zurecht\.
+Damit zeigte er zugleich seine Sanftmut und widerlegte gerade dadurch die Verleumdung;
+zugleich wollte er durch die folgenden Zeichen noch mehr Beweis geben und erst dann die Widerlegung durch Worte folgen lassen\.
+Er zog also umher in Städten,
+in Landstrichen und in ihren Synagogen und lehrte uns,
+Verleumdern so zu begegnen:
+nicht mit weiteren Verleumdungen,
+sondern mit größeren Wohltaten\.
+Denn wenn du deinen Mitdienern nicht um der Menschen willen,
+sondern um Gottes willen Gutes tust,
+dann hör nicht auf,
+Gutes zu tun,
+was immer sie auch tun,
+damit der Lohn größer wird\.
+Wer aber nach einer Verleumdung von der Wohltat ablässt,
+zeigt damit,
+dass er eine solche Tugend um des Lobes willen ergreift,
+das von ihnen kommt,
+nicht um Gottes willen\.
+Deshalb lehrte Christus uns,
+dass er allein aus Güte so handelte:
+Er wartete nicht nur nicht darauf,
+dass die Kranken zu ihm kamen,
+sondern eilte selbst zu ihnen und brachte ihnen die zwei größten Güter:
+das eine,
+das Evangelium des Reiches;
+das andere,
+die Heilung aller Krankheiten\.
+Und er übersah keine Stadt,
+ging an keinem Dorf vorbei,
+sondern zog durch jeden Ort\.
+Und auch dabei bleibt er nicht stehen,
+sondern zeigt noch eine weitere Fürsorge\.
+Denn „als er die Volksmengen sah,
+hatte er Mitleid mit ihnen,
+weil sie erschöpft und niedergeworfen waren wie Schafe,
+die keinen Hirten haben[^bible-549e3545-777a-486d-8e0a-a34c4cf98d0a]“\.
+„Da sagt er zu seinen Jüngern:
+‚Die Ernte ist groß,
+die Arbeiter aber sind wenige\.
+Bittet also den Herrn der Ernte,
+dass er Arbeiter in seine Ernte hinausschickt\.‘[^bible-b7947177-8c4e-4def-ab3d-0996c190fe83]“ Sieh wieder,
+wie frei er von leerem Ruhm ist\.
+Damit er nicht alle zu sich selbst hinzieht,
+sendet er die Jünger aus\.
+Aber nicht nur deshalb,
+sondern auch,
+um sie zu schulen:
+Sie sollten gleichsam in Palästina wie in einer Übungsstätte trainieren und dann für die Kämpfe auf der ganzen bewohnten Erde antreten\.
+Eben deshalb setzt er,
+soweit es ihre Kraft betraf,
+die Übungen schwerer an als die Kämpfe,
+damit sie die späteren Kämpfe leichter anpacken konnten\.
+Er führte sie schon wie zarte Jungvögel zum Fliegen\.
+Vorerst macht er sie zu Ärzten der Körper;
+die vorrangige Heilung der Seele hebt er für später auf\.
+Und beachte,
+wie er die Sache als leicht und notwendig zeigt\.
+Was sagt er denn?
+„Die Ernte ist groß,
+die Arbeiter aber sind wenige\.[^bible-a77b3e8a-79d4-41cf-8fc2-87359a1378ae]“ Denn er sagt:
+„Nicht zur Aussaat sende ich euch,
+sondern zur Ernte\.“
+Das sagte er auch bei Johannes:
+„Andere haben sich gemüht,
+und ihr seid in ihre Mühe eingetreten\.[^bible-433859fa-5f6f-4c9a-b782-ca6ea89b0e10]“ Das sagte er,
+um zugleich ihren Hochmut zu dämpfen,
+sie zuversichtlich zu machen und zu zeigen,
+dass die größere Mühe schon vorausgegangen war\.
+Sieh aber auch hier,
+dass er aus Menschenliebe beginnt,
+nicht aus Erwartung irgendeiner Gegenleistung\.
+Denn „er hatte Mitleid,
+weil sie erschöpft und niedergeworfen waren wie Schafe,
+die keinen Hirten haben[^bible-549e3545-777a-486d-8e0a-a34c4cf98d0a]“\.
+Das ist die Anklage gegen die Führer der Juden:
+Obwohl sie Hirten waren,
+zeigten sie das Wesen von Wölfen\.
+Denn sie brachten die Menge nicht nur nicht in Ordnung,
+sondern zerstörten auch ihren Fortschritt\.
+Als jene staunten und sagten:
+„So etwas hat man in Israel noch nie gesehen[^bible-ff8e2863-ea1b-4fb6-bb98-9a44f898f833]“,
+sagten diese das Gegenteil:
+„Durch den Herrscher der Dämonen treibt er die Dämonen aus\.[^bible-edaa3d46-95ac-4af2-8aca-dcd437011875]“ Aber welche Arbeiter meint er hier?
+Die zwölf Jünger\.
+Was also?
+Hat er ihnen,
+nachdem er gesagt hatte:
+„Die Arbeiter aber sind wenige[^bible-a77b3e8a-79d4-41cf-8fc2-87359a1378ae]“,
+noch weitere hinzugefügt?
+Keineswegs,
+sondern er sandte sie selbst\.
+Weshalb sagte er dann:
+„Bittet den Herrn der Ernte,
+dass er Arbeiter in seine Ernte hinausschickt[^bible-232db670-54c8-43af-8952-b362096ac470]“,
+und fügte ihnen niemanden hinzu?
+Weil er sie,
+obwohl sie nur zwölf waren,
+von da an zu vielen machte:
+nicht indem er die Zahl vermehrte,
+sondern indem er ihnen Kraft schenkte\.
 
 ## Bibelverweise
 

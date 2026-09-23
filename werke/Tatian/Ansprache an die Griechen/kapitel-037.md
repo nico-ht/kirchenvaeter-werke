@@ -7,6 +7,19 @@ Autor: Tatian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tatian/ansprache-an-die-griechen#kapitel-cfeb8130-6624-401c-3d99-08ded167f699).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f1ca01a7fd66f33e16d3212c6fff036173a475e324dd77aa3b9877ef68cc4e0f`
-
-Nach den Chaldäern lautet das Zeugnis der Phönizier folgendermaßen\. Unter ihnen gab es drei Männer: Theodotus, Hypsikrates und Mochus\. Chaitus übersetzte ihre Bücher ins Griechische und verfasste außerdem mit großer Genauigkeit Lebensbeschreibungen der Philosophen\. Aus den Geschichtswerken der genannten Autoren geht hervor, dass die Entführung Europas unter einem der Könige geschah; darin wird auch von der Ankunft des Menelaos in Phönizien und von den Angelegenheiten des Chiramus berichtet, der dem König der Juden, Salomo, seine Tochter zur Frau gab und Holz von Bäumen aller Art für den Bau des Tempels lieferte\. Menander von Pergamon verfasste ein Geschichtswerk über denselben Stoff\. Nun fällt die Zeit des Chiramus ungefähr mit dem Trojanischen Krieg zusammen; Salomo aber, ein Zeitgenosse des Chiramus, lebte viel später als Mose\.
+Nach den Chaldäern lautet das Zeugnis der Phönizier folgendermaßen\.
+Unter ihnen gab es drei Männer:
+Theodotus,
+Hypsikrates und Mochus\.
+Chaitus übersetzte ihre Bücher ins Griechische und verfasste außerdem mit großer Genauigkeit Lebensbeschreibungen der Philosophen\.
+Aus den Geschichtswerken der genannten Autoren geht hervor,
+dass die Entführung Europas unter einem der Könige geschah;
+darin wird auch von der Ankunft des Menelaos in Phönizien und von den Angelegenheiten des Chiramus berichtet,
+der dem König der Juden,
+Salomo,
+seine Tochter zur Frau gab und Holz von Bäumen aller Art für den Bau des Tempels lieferte\.
+Menander von Pergamon verfasste ein Geschichtswerk über denselben Stoff\.
+Nun fällt die Zeit des Chiramus ungefähr mit dem Trojanischen Krieg zusammen;
+Salomo aber,
+ein Zeitgenosse des Chiramus,
+lebte viel später als Mose\.

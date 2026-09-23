@@ -7,9 +7,37 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/1-clemensbrief#kapitel-91686af7-d39b-43e9-9f04-08debc028ed4).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3bd8cc5b7175af1eec04fa5a725f7cdf79242dd823b0327e0694e4d1e3b3ca47`
-
-Was sollen wir also tun, Brüder? Sollen wir vom Tun des Guten ablassen und die Liebe aufgeben? Das lasse der Gebieter keinesfalls an uns geschehen\. Vielmehr lasst uns mit allem Ernst und mit Bereitwilligkeit eilen, jedes gute Werk zu vollbringen\. Denn der Schöpfer und Gebieter über alles freut sich selbst an seinen Werken\. Durch seine übergroße Einsicht hat er sie geordnet\. Die Erde schied er von dem Wasser, das sie umgab, und gründete sie auf das feste Fundament seines eigenen Willens\. Die Lebewesen, die auf ihr umhergehen, ließ er durch seine eigene Anordnung entstehen\. Das Meer und die Lebewesen darin bereitete er zuvor und schloss sie durch seine eigene Macht ein\. Über allem aber formte er mit heiligen und makellosen Händen den Menschen, das nach dem Verstand ausgezeichnetste und größte Wesen, als Abdruck seines eigenen Bildes\. Denn so sagt Gott: „Lasst uns den Menschen machen nach unserem Bild und nach unserer Ähnlichkeit\. Und Gott machte den Menschen; männlich und weiblich machte er sie\.[^bible-1c3c1b0e-01f4-4590-b7ca-311eafb0561d]“ Als er nun dies alles vollendet hatte, lobte er es, segnete es und sagte: „Wachst und mehrt euch\.[^bible-127d7ec4-4a3f-4a72-984a-3bcce676ff08]“ Sehen wir also: Alle Gerechten wurden durch gute Werke geschmückt, und auch der Herr selbst freute sich, nachdem er sich mit guten Werken geschmückt hatte\. Da wir nun dieses Vorbild haben, lasst uns ohne Zögern seinem Willen nahen\. Mit unserer ganzen Kraft wollen wir das Werk der Gerechtigkeit tun\.
+Was sollen wir also tun,
+Brüder?
+Sollen wir vom Tun des Guten ablassen und die Liebe aufgeben?
+Das lasse der Gebieter keinesfalls an uns geschehen\.
+Vielmehr lasst uns mit allem Ernst und mit Bereitwilligkeit eilen,
+jedes gute Werk zu vollbringen\.
+Denn der Schöpfer und Gebieter über alles freut sich selbst an seinen Werken\.
+Durch seine übergroße Einsicht hat er sie geordnet\.
+Die Erde schied er von dem Wasser,
+das sie umgab,
+und gründete sie auf das feste Fundament seines eigenen Willens\.
+Die Lebewesen,
+die auf ihr umhergehen,
+ließ er durch seine eigene Anordnung entstehen\.
+Das Meer und die Lebewesen darin bereitete er zuvor und schloss sie durch seine eigene Macht ein\.
+Über allem aber formte er mit heiligen und makellosen Händen den Menschen,
+das nach dem Verstand ausgezeichnetste und größte Wesen,
+als Abdruck seines eigenen Bildes\.
+Denn so sagt Gott:
+„Lasst uns den Menschen machen nach unserem Bild und nach unserer Ähnlichkeit\.
+Und Gott machte den Menschen;
+männlich und weiblich machte er sie\.[^bible-1c3c1b0e-01f4-4590-b7ca-311eafb0561d]“ Als er nun dies alles vollendet hatte,
+lobte er es,
+segnete es und sagte:
+„Wachst und mehrt euch\.[^bible-127d7ec4-4a3f-4a72-984a-3bcce676ff08]“ Sehen wir also:
+Alle Gerechten wurden durch gute Werke geschmückt,
+und auch der Herr selbst freute sich,
+nachdem er sich mit guten Werken geschmückt hatte\.
+Da wir nun dieses Vorbild haben,
+lasst uns ohne Zögern seinem Willen nahen\.
+Mit unserer ganzen Kraft wollen wir das Werk der Gerechtigkeit tun\.
 
 ## Bibelverweise
 

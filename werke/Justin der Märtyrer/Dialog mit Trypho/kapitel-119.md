@@ -7,9 +7,87 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-338e46ea-8992-4ab8-f000-08de65b8739d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b701df2afb4a40fc9c4d739af1cf7ff62790af05448c96ea73e31360ad960af9`
-
-„Meint ihr etwa, meine Herren“, fuhr ich fort, „dass wir diese Dinge in den Schriften hätten begreifen können ohne eine besondere Gnade von dem, der sie gewollt hat, damit die Worte erfüllt würden, die von Mose gesprochen wurden? Hier sind sie: ‚Sie reizten mich mit fremden Göttern; sie erregten meinen Zorn mit ihren Gräueltaten\. Sie opferten Teufeln, die sie nicht kannten; neuen Göttern, die vor Kurzem kamen, die ihre Väter nicht kannten\. Du hast den Gott verlassen, der dich gezeugt hat, und hast den Gott vergessen, der dich genährt hat\. Und der Herr sah es und wurde eifersüchtig und wurde zum Zorn gereizt wegen des Ärgers seiner Söhne und Töchter, und er sprach: Ich will mein Gesicht von ihnen abwenden, und ich will zeigen, was ihr letztes Ende sein wird; denn sie sind eine verkehrte Generation und untreue Kinder\. Sie haben mich zur Eifersucht gereizt mit dem, was kein Gott ist, und haben mich erzürnt mit ihren Götzen; und ich will sie zur Eifersucht reizen mit dem, was kein Volk ist, und will sie ärgern mit einem dummen Volk\. Denn ein Feuer ist entzündet in meinem Zorn und soll brennen bis zur untersten Hölle\. Es soll die Erde mit ihrem Ertrag verschlingen und die Fundamente der Berge verbrennen\. Ich will Übel über sie häufen\.‘[^bible-26d6e17b-0eb4-4067-8a5b-4b025fe27bbe] Und nachdem jener Gerechte zu Tode gebracht wurde, blühten wir als ein anderes Volk auf und schossen empor wie neuer und gedeihender Weizen, wie die Propheten ausriefen: ‚Und viele Nationen werden zu dem Herrn fliehen an jenem Tag, und sie werden für ihn ein Volk sein; und sie werden inmitten der ganzen Erde wohnen\.‘[^bible-012d2a9f-ddbf-4b15-b2ab-05cc2737c41e] Aber wir Christen sind nicht nur ein Volk, sondern ein heiliges Volk, wie wir bereits gezeigt haben: ‚Und man wird es ein heiliges Volk nennen, erlöst vom Herrn\.‘[^bible-17ecf801-0d33-4604-b493-fe1cc47cbd91] Deshalb sind wir nicht nur kein verachtenswertes Volk, noch ein Stamm von Barbaren, noch einfach irgendeine Nation wie die Karer oder die Phrygier, sondern Gott erwählte uns sogar und erschien denen, die ihn nicht suchten\. Siehe, er sagte: ‚Ich bin Gott für eine Nation, die meinen Namen nicht angerufen hat\.‘[^bible-cb851d70-2c2e-4c15-bc0e-bd8848177bf3] Denn das ist wirklich die Nation, die Abraham vor langer Zeit von Gott versprochen wurde, als er ihm sagte, dass er ihn zum Vater vieler Nationen machen würde, wobei er nicht im Besonderen sagte, dass er Vater der Araber oder der Ägypter oder der Idumäer sein würde, da Ismael der Vater einer mächtigen Nation wurde und ebenso Esau; und es gibt jetzt eine große Schar von Ammonitern\. Noah war der Vater Abrahams und tatsächlich aller Menschen\. Und andere Nationen hatten andere Vorfahren\. Welche größere Gunst erwies Christus dann Abraham? Diese: dass er ihn gleichermaßen mit seiner Stimme rief und ihm befahl, das Land zu verlassen, in dem er wohnte\. Und mit derselben Stimme hat er auch uns alle gerufen, und wir haben unsere frühere Lebensweise aufgegeben, in der wir üblicherweise Übel praktizierten, die allen anderen Bewohnern der Welt gemein sind\. Und wir werden das Heilige Land zusammen mit Abraham erben und unser Erbe für alle Ewigkeit empfangen, weil wir durch unseren ähnlichen Glauben Kinder Abrahams geworden sind\. Denn genau wie er der Stimme Gottes glaubte und dadurch gerechtfertigt wurde, so haben auch wir gleichermaßen der Stimme Gottes geglaubt \(die erneut zu uns gesprochen wurde durch die Propheten und die Apostel Christi\) und haben allen weltlichen Dingen entsagt, sogar bis zum Tod\. So versprach Gott Abraham eine religiöse und gerechte Nation von gleichem Glauben und eine Freude für den Vater; aber das seid nicht ihr, in denen kein Glaube ist\.
+„Meint ihr etwa,
+meine Herren“,
+fuhr ich fort,
+„dass wir diese Dinge in den Schriften hätten begreifen können ohne eine besondere Gnade von dem,
+der sie gewollt hat,
+damit die Worte erfüllt würden,
+die von Mose gesprochen wurden?
+Hier sind sie:
+‚Sie reizten mich mit fremden Göttern;
+sie erregten meinen Zorn mit ihren Gräueltaten\.
+Sie opferten Teufeln,
+die sie nicht kannten;
+neuen Göttern,
+die vor Kurzem kamen,
+die ihre Väter nicht kannten\.
+Du hast den Gott verlassen,
+der dich gezeugt hat,
+und hast den Gott vergessen,
+der dich genährt hat\.
+Und der Herr sah es und wurde eifersüchtig und wurde zum Zorn gereizt wegen des Ärgers seiner Söhne und Töchter,
+und er sprach:
+Ich will mein Gesicht von ihnen abwenden,
+und ich will zeigen,
+was ihr letztes Ende sein wird;
+denn sie sind eine verkehrte Generation und untreue Kinder\.
+Sie haben mich zur Eifersucht gereizt mit dem,
+was kein Gott ist,
+und haben mich erzürnt mit ihren Götzen;
+und ich will sie zur Eifersucht reizen mit dem,
+was kein Volk ist,
+und will sie ärgern mit einem dummen Volk\.
+Denn ein Feuer ist entzündet in meinem Zorn und soll brennen bis zur untersten Hölle\.
+Es soll die Erde mit ihrem Ertrag verschlingen und die Fundamente der Berge verbrennen\.
+Ich will Übel über sie häufen\.‘[^bible-26d6e17b-0eb4-4067-8a5b-4b025fe27bbe]
+Und nachdem jener Gerechte zu Tode gebracht wurde,
+blühten wir als ein anderes Volk auf und schossen empor wie neuer und gedeihender Weizen,
+wie die Propheten ausriefen:
+‚Und viele Nationen werden zu dem Herrn fliehen an jenem Tag,
+und sie werden für ihn ein Volk sein;
+und sie werden inmitten der ganzen Erde wohnen\.‘[^bible-012d2a9f-ddbf-4b15-b2ab-05cc2737c41e]
+Aber wir Christen sind nicht nur ein Volk,
+sondern ein heiliges Volk,
+wie wir bereits gezeigt haben:
+‚Und man wird es ein heiliges Volk nennen,
+erlöst vom Herrn\.‘[^bible-17ecf801-0d33-4604-b493-fe1cc47cbd91]
+Deshalb sind wir nicht nur kein verachtenswertes Volk,
+noch ein Stamm von Barbaren,
+noch einfach irgendeine Nation wie die Karer oder die Phrygier,
+sondern Gott erwählte uns sogar und erschien denen,
+die ihn nicht suchten\.
+Siehe,
+er sagte:
+‚Ich bin Gott für eine Nation,
+die meinen Namen nicht angerufen hat\.‘[^bible-cb851d70-2c2e-4c15-bc0e-bd8848177bf3]
+Denn das ist wirklich die Nation,
+die Abraham vor langer Zeit von Gott versprochen wurde,
+als er ihm sagte,
+dass er ihn zum Vater vieler Nationen machen würde,
+wobei er nicht im Besonderen sagte,
+dass er Vater der Araber oder der Ägypter oder der Idumäer sein würde,
+da Ismael der Vater einer mächtigen Nation wurde und ebenso Esau;
+und es gibt jetzt eine große Schar von Ammonitern\.
+Noah war der Vater Abrahams und tatsächlich aller Menschen\.
+Und andere Nationen hatten andere Vorfahren\.
+Welche größere Gunst erwies Christus dann Abraham?
+Diese:
+dass er ihn gleichermaßen mit seiner Stimme rief und ihm befahl,
+das Land zu verlassen,
+in dem er wohnte\.
+Und mit derselben Stimme hat er auch uns alle gerufen,
+und wir haben unsere frühere Lebensweise aufgegeben,
+in der wir üblicherweise Übel praktizierten,
+die allen anderen Bewohnern der Welt gemein sind\.
+Und wir werden das Heilige Land zusammen mit Abraham erben und unser Erbe für alle Ewigkeit empfangen,
+weil wir durch unseren ähnlichen Glauben Kinder Abrahams geworden sind\.
+Denn genau wie er der Stimme Gottes glaubte und dadurch gerechtfertigt wurde,
+so haben auch wir gleichermaßen der Stimme Gottes geglaubt \(die erneut zu uns gesprochen wurde durch die Propheten und die Apostel Christi\) und haben allen weltlichen Dingen entsagt,
+sogar bis zum Tod\.
+So versprach Gott Abraham eine religiöse und gerechte Nation von gleichem Glauben und eine Freude für den Vater;
+aber das seid nicht ihr,
+in denen kein Glaube ist\.
 
 ## Bibelverweise
 

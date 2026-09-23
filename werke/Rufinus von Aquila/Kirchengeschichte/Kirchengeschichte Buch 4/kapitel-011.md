@@ -7,8 +7,106 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-4#kapitel-280e2a08-63cc-4665-8a29-08de0a72e412).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:4f0972b405316f59427f5da90c3e73a64fd2e24a3be85280cb34d6653005c37e`
+„Valentinus kam unter Hyginus nach Rom,
+blühte aber in der Zeit des Pius auf und hielt sich bis zu Anicetus\.
+Was Cerdo betrifft,
+der vor Marcion war,
+so kam auch er unter Hyginus,
+der der neunte Bischof in Rom seit dem Apostel war\.
+Zuweilen gestand er seinen Irrtum ein und suchte als scheinbar Reumütiger um Vergebung;
+zu anderen Zeiten lehrte er die Gottlosigkeit wieder,
+heimlich,
+mitunter aber auch offen\.
+Darüber wurde er überführt und aus der Versammlung der Brüder ausgeschlossen\.“
+So sagt Irenäus im dritten Buch Gegen die Häresien\.
+Im ersten Buch sagt er außerdem über Cerdo:
+„Cerdo nutzte die von den Anhängern Simons gebotene Gelegenheit für seine Gottlosigkeit,
+kam unter Hyginus nach Rom und lehrte dort,
+dass der durch Gesetz und Propheten verkündigte Gott nicht der Vater unseres Herrn Jesus Christus sei,
+denn jener sei bekannt,
+dieser unbekannt,
+jener gerecht,
+dieser gut\.
+Marcion aus Pontus,
+der sein Nachfolger wurde,
+steigerte den Wahnsinn seines Lehrers,
+indem er in seinen Lästerungen alle Scham beiseiteschob\.“
+Ebenderselbe Irenäus widerlegt zudem sehr schlagend den weiten und tiefen Irrtum des Valentinus über die Materie und anderes,
+zieht ihn wie eine in verborgenen Höhlen lauernde Schlange hervor und entlarvt ihn\.
+Er fügt dem noch einiges über einen Marcus hinzu,
+der,
+wie er sagt,
+in der Zauberkunst hervorragend geschult war\.
+Über dessen gottlose Aberglauben,
+über seine Geheimnisse,
+die eher frevelhaft als heilig waren,
+und über seinen mystischen Jammer schreibt er wie folgt:
+„Einige von ihnen richten eine Brautkammer her und vollziehen ein böses Initiationsritual:
+Sie weihen den,
+der hineingeführt wird,
+gleichsam mit geheimen Gesängen und mit Worten,
+die eher verflucht als heilig sind\.
+Sie behaupten:
+Es ist eine geistliche Hochzeit,
+nach dem Abbild der Vereinigungen,
+die droben stattfinden\.
+Sie führen sie zudem zum Wasser und taufen sie,
+indem sie über ihnen die Worte sprechen:
+Im Namen des unbekannten Vaters aller und,
+in Wahrheit,
+der Mutter aller und in dem,
+der in Jesus herabkam\.
+Andere wiederum stoßen über den,
+den sie einweihen,
+hebräische Namen in schreckenerregendem Ton aus,
+um die Zuhörenden zu erschrecken\.“
 
-„Valentinus kam unter Hyginus nach Rom, blühte aber in der Zeit des Pius auf und hielt sich bis zu Anicetus\. Was Cerdo betrifft, der vor Marcion war, so kam auch er unter Hyginus, der der neunte Bischof in Rom seit dem Apostel war\. Zuweilen gestand er seinen Irrtum ein und suchte als scheinbar Reumütiger um Vergebung; zu anderen Zeiten lehrte er die Gottlosigkeit wieder, heimlich, mitunter aber auch offen\. Darüber wurde er überführt und aus der Versammlung der Brüder ausgeschlossen\.“ So sagt Irenäus im dritten Buch Gegen die Häresien\. Im ersten Buch sagt er außerdem über Cerdo: „Cerdo nutzte die von den Anhängern Simons gebotene Gelegenheit für seine Gottlosigkeit, kam unter Hyginus nach Rom und lehrte dort, dass der durch Gesetz und Propheten verkündigte Gott nicht der Vater unseres Herrn Jesus Christus sei, denn jener sei bekannt, dieser unbekannt, jener gerecht, dieser gut\. Marcion aus Pontus, der sein Nachfolger wurde, steigerte den Wahnsinn seines Lehrers, indem er in seinen Lästerungen alle Scham beiseiteschob\.“ Ebenderselbe Irenäus widerlegt zudem sehr schlagend den weiten und tiefen Irrtum des Valentinus über die Materie und anderes, zieht ihn wie eine in verborgenen Höhlen lauernde Schlange hervor und entlarvt ihn\. Er fügt dem noch einiges über einen Marcus hinzu, der, wie er sagt, in der Zauberkunst hervorragend geschult war\. Über dessen gottlose Aberglauben, über seine Geheimnisse, die eher frevelhaft als heilig waren, und über seinen mystischen Jammer schreibt er wie folgt: „Einige von ihnen richten eine Brautkammer her und vollziehen ein böses Initiationsritual: Sie weihen den, der hineingeführt wird, gleichsam mit geheimen Gesängen und mit Worten, die eher verflucht als heilig sind\. Sie behaupten: Es ist eine geistliche Hochzeit, nach dem Abbild der Vereinigungen, die droben stattfinden\. Sie führen sie zudem zum Wasser und taufen sie, indem sie über ihnen die Worte sprechen: Im Namen des unbekannten Vaters aller und, in Wahrheit, der Mutter aller und in dem, der in Jesus herabkam\. Andere wiederum stoßen über den, den sie einweihen, hebräische Namen in schreckenerregendem Ton aus, um die Zuhörenden zu erschrecken\.“
-
-So schreibt Irenäus über die Anhänger des Marcus\. Als Hyginus jedoch im vierten Jahr seines Bischofsamtes starb, übernahm Pius das Bischofsamt der römischen Kirche; in Alexandria tat Markus dasselbe, als Eumenes im dreizehnten Jahr seines Bischofsamtes starb\. Markus übergab nach zehn Jahren im Amt die Leitung der Kirche an Celadion, als er starb\. Pius wiederum übergab, nachdem er in Rom fünfzehn Jahre im Amt gewesen war, den Bischofssitz an Anicetus\. In seine Zeit fällt auch, was Hegesippus berichtet: Er sei selbst nach Rom gekommen und dort geblieben bis zur Zeit des Bischofsamtes des Eleutherus, der Anicetus ablöste\. Justin trat in dieser Zeit im Philosophenmantel hervor, predigte das Wort Gottes und verteidigte die Gründe unseres Glaubens sowohl mit seinen Büchern als auch in mündlichen Auseinandersetzungen\. Als er gegen Marcion schrieb, vermerkt er, dieser lebe zur Zeit seiner Abfassung noch\. Dann sagt er: „Marcion aus Pontus, der jetzt noch lebt, lehrt die Menschen zu glauben, es gebe einen anderen Gott, der größer ist als der Schöpfergott\. Das hämmert er den Menschen ein und hat, mit Dämonen als seinen Gehilfen, viele dazu gebracht, zu lästern und zu leugnen, dass der Gott, der der Schöpfer von allem ist, derselbe sei wie der Vater Christi; vielmehr sei es ein anderer, der größer ist als er\. Dennoch werden alle seine Anhänger Christen genannt, so wie man selbstverständlich auch alle Philosophen mit demselben Wort benennt, obwohl ihre Sekten verschieden sind\.“ Kurz darauf fügt er hinzu: „Wir haben außerdem ein gegen alle Sekten verfasstes Buch, das wir Ihnen geben werden, wenn Sie es einsehen wollen\.“ Derselbe Justin verfasste auch ein hervorragendes Werk gegen die Heiden sowie weitere Bücher zugunsten unseres Glaubens, die er an den Kaiser Antoninus mit dem Beinamen Pius richtete; er schrieb auch an den Senat, denn er lebte meist in Rom\. In einem dieser Bücher schließlich schreibt er, um zu zeigen, wer er war und woher er stammte, auch über sich selbst wie folgt:
+So schreibt Irenäus über die Anhänger des Marcus\.
+Als Hyginus jedoch im vierten Jahr seines Bischofsamtes starb,
+übernahm Pius das Bischofsamt der römischen Kirche;
+in Alexandria tat Markus dasselbe,
+als Eumenes im dreizehnten Jahr seines Bischofsamtes starb\.
+Markus übergab nach zehn Jahren im Amt die Leitung der Kirche an Celadion,
+als er starb\.
+Pius wiederum übergab,
+nachdem er in Rom fünfzehn Jahre im Amt gewesen war,
+den Bischofssitz an Anicetus\.
+In seine Zeit fällt auch,
+was Hegesippus berichtet:
+Er sei selbst nach Rom gekommen und dort geblieben bis zur Zeit des Bischofsamtes des Eleutherus,
+der Anicetus ablöste\.
+Justin trat in dieser Zeit im Philosophenmantel hervor,
+predigte das Wort Gottes und verteidigte die Gründe unseres Glaubens sowohl mit seinen Büchern als auch in mündlichen Auseinandersetzungen\.
+Als er gegen Marcion schrieb,
+vermerkt er,
+dieser lebe zur Zeit seiner Abfassung noch\.
+Dann sagt er:
+„Marcion aus Pontus,
+der jetzt noch lebt,
+lehrt die Menschen zu glauben,
+es gebe einen anderen Gott,
+der größer ist als der Schöpfergott\.
+Das hämmert er den Menschen ein und hat,
+mit Dämonen als seinen Gehilfen,
+viele dazu gebracht,
+zu lästern und zu leugnen,
+dass der Gott,
+der der Schöpfer von allem ist,
+derselbe sei wie der Vater Christi;
+vielmehr sei es ein anderer,
+der größer ist als er\.
+Dennoch werden alle seine Anhänger Christen genannt,
+so wie man selbstverständlich auch alle Philosophen mit demselben Wort benennt,
+obwohl ihre Sekten verschieden sind\.“
+Kurz darauf fügt er hinzu:
+„Wir haben außerdem ein gegen alle Sekten verfasstes Buch,
+das wir Ihnen geben werden,
+wenn Sie es einsehen wollen\.“
+Derselbe Justin verfasste auch ein hervorragendes Werk gegen die Heiden sowie weitere Bücher zugunsten unseres Glaubens,
+die er an den Kaiser Antoninus mit dem Beinamen Pius richtete;
+er schrieb auch an den Senat,
+denn er lebte meist in Rom\.
+In einem dieser Bücher schließlich schreibt er,
+um zu zeigen,
+wer er war und woher er stammte,
+auch über sich selbst wie folgt:

@@ -7,9 +7,78 @@ Autor: Athanasius
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/das-leben-des-heiligen-antonius#kapitel-111c9955-7b7b-48d6-ba98-08dd392b6e8c).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a47624ab82dfe30d75dae85d6419c6783c43401dce3df33d12db9eb81189a765`
-
-Und sie erscheinen oft, wie der Herr den Teufel Hiob offenbarte, indem er sprach: „Seine Augen sind wie der Morgenstern\. Aus seinem Mund gehen brennende Lampen hervor, und Feuerherde werden ausgesandt\. Der Rauch eines Ofens, der mit Kohlenfeuer brennt, geht aus seinen Nasenlöchern\. Sein Atem sind Kohlen, und aus seinem Mund kommt Flamme\.“[^bible-eb1bae91-d960-42ef-89ec-1d7ca15f30f7] Wenn der Fürst der Dämonen auf diese Weise erscheint, spricht der Listige, wie ich zuvor sagte, mit großen Worten und verbreitet Furcht, wie der Herr ihn Hiob überführte, denn „er zählt Eisen wie Stroh und Messing wie faules Holz, ja, er zählt das Meer wie einen Salbtopf und die Tiefe des Abgrunds wie einen Gefangenen, und den Abgrund wie einen überdachten Gang\.“ Und durch den Propheten: „Der Feind sprach: Ich will verfolgen und einholen\.“ Und wieder durch einen anderen: „Ich werde die ganze Welt in meiner Hand wie ein Nest ergreifen und sie aufheben wie Eier, die verlassen wurden\.“ So sind in einem Wort ihre Prahlereien und Bekundungen, um die Frommen zu täuschen\. Doch selbst dann sollten wir, die Gläubigen, weder seine Erscheinung fürchten noch seinen Worten Beachtung schenken\. Denn er ist ein Lügner und spricht niemals ein Wort der Wahrheit\. Und obwohl er so viele und so große Worte in seiner Kühnheit spricht, wurde er ohne Zweifel wie ein Drache mit einem Haken vom Erlöser gezogen, wie ein Lasttier erhielt er das Halfter um seine Nasenlöcher, und wie ein Flüchtiger wurden seine Nasenlöcher mit einem Ring gebunden, und seine Lippen mit einem Armreif durchbohrt\. Er wurde vom Herrn wie ein Spatz gebunden, damit wir ihn verspotten\. Und mit ihm sind die Dämonen, seine Gefährten, wie Schlangen und Skorpione, die von uns Christen unter die Füße getreten werden sollen\. Der Beweis dafür ist, dass wir jetzt gegen ihn leben\. Denn der, der drohte, das Meer zu trocknen und die Welt zu ergreifen, siehe, kann jetzt weder unsere Zucht aufhalten, noch mich daran hindern, gegen ihn zu sprechen\. Lasst uns also seinen Worten keine Beachtung schenken, denn er ist ein Lügner; und lasst uns seine Visionen nicht fürchten, da sie selbst täuschend sind\. Denn das, was in ihnen erscheint, ist kein wahres Licht, sondern vielmehr die Vorzeichen und Abbildungen des Feuers, das für die Dämonen vorbereitet ist, die versuchen, die Menschen mit jenen Flammen zu erschrecken, in denen sie selbst verbrannt werden\. Zweifellos erscheinen sie; aber im Moment verschwinden sie wieder, ohne die Gläubigen zu verletzen, und bringen mit sich das Abbild jenes Feuers, das sie selbst empfangen werden\. Daher ist es unangemessen, dass wir sie wegen dieser Dinge fürchten; denn durch die Gnade Christi sind all ihre Praktiken vergeblich\.
+Und sie erscheinen oft,
+wie der Herr den Teufel Hiob offenbarte,
+indem er sprach:
+„Seine Augen sind wie der Morgenstern\.
+Aus seinem Mund gehen brennende Lampen hervor,
+und Feuerherde werden ausgesandt\.
+Der Rauch eines Ofens,
+der mit Kohlenfeuer brennt,
+geht aus seinen Nasenlöchern\.
+Sein Atem sind Kohlen,
+und aus seinem Mund kommt Flamme\.“[^bible-eb1bae91-d960-42ef-89ec-1d7ca15f30f7]
+Wenn der Fürst der Dämonen auf diese Weise erscheint,
+spricht der Listige,
+wie ich zuvor sagte,
+mit großen Worten und verbreitet Furcht,
+wie der Herr ihn Hiob überführte,
+denn „er zählt Eisen wie Stroh und Messing wie faules Holz,
+ja,
+er zählt das Meer wie einen Salbtopf und die Tiefe des Abgrunds wie einen Gefangenen,
+und den Abgrund wie einen überdachten Gang\.“
+Und durch den Propheten:
+„Der Feind sprach:
+Ich will verfolgen und einholen\.“
+Und wieder durch einen anderen:
+„Ich werde die ganze Welt in meiner Hand wie ein Nest ergreifen und sie aufheben wie Eier,
+die verlassen wurden\.“
+So sind in einem Wort ihre Prahlereien und Bekundungen,
+um die Frommen zu täuschen\.
+Doch selbst dann sollten wir,
+die Gläubigen,
+weder seine Erscheinung fürchten noch seinen Worten Beachtung schenken\.
+Denn er ist ein Lügner und spricht niemals ein Wort der Wahrheit\.
+Und obwohl er so viele und so große Worte in seiner Kühnheit spricht,
+wurde er ohne Zweifel wie ein Drache mit einem Haken vom Erlöser gezogen,
+wie ein Lasttier erhielt er das Halfter um seine Nasenlöcher,
+und wie ein Flüchtiger wurden seine Nasenlöcher mit einem Ring gebunden,
+und seine Lippen mit einem Armreif durchbohrt\.
+Er wurde vom Herrn wie ein Spatz gebunden,
+damit wir ihn verspotten\.
+Und mit ihm sind die Dämonen,
+seine Gefährten,
+wie Schlangen und Skorpione,
+die von uns Christen unter die Füße getreten werden sollen\.
+Der Beweis dafür ist,
+dass wir jetzt gegen ihn leben\.
+Denn der,
+der drohte,
+das Meer zu trocknen und die Welt zu ergreifen,
+siehe,
+kann jetzt weder unsere Zucht aufhalten,
+noch mich daran hindern,
+gegen ihn zu sprechen\.
+Lasst uns also seinen Worten keine Beachtung schenken,
+denn er ist ein Lügner;
+und lasst uns seine Visionen nicht fürchten,
+da sie selbst täuschend sind\.
+Denn das,
+was in ihnen erscheint,
+ist kein wahres Licht,
+sondern vielmehr die Vorzeichen und Abbildungen des Feuers,
+das für die Dämonen vorbereitet ist,
+die versuchen,
+die Menschen mit jenen Flammen zu erschrecken,
+in denen sie selbst verbrannt werden\.
+Zweifellos erscheinen sie;
+aber im Moment verschwinden sie wieder,
+ohne die Gläubigen zu verletzen,
+und bringen mit sich das Abbild jenes Feuers,
+das sie selbst empfangen werden\.
+Daher ist es unangemessen,
+dass wir sie wegen dieser Dinge fürchten;
+denn durch die Gnade Christi sind all ihre Praktiken vergeblich\.
 
 ## Bibelverweise
 

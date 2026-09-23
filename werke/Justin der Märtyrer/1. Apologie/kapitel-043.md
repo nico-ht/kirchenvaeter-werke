@@ -7,6 +7,61 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/1-apologie#kapitel-638992c0-8e87-42ef-4f81-08dd0bd65d0d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:9ba0454bb48e6826c8c09b746b5a77a479d5d30ff86c7b4baf6b94ac77a6d4a3`
-
-Damit jedoch nicht einige aus unseren Aussagen schließen, wir würden sagen, dass alles, was geschieht, aus einer fatalen Notwendigkeit geschieht, weil es als im Voraus bekannt vorhergesagt wird, wollen wir auch dies erklären\. Wir haben von den Propheten gelernt und halten es für wahr, dass Strafen, Züchtigungen und gute Belohnungen entsprechend dem Verdienst der Taten eines jeden Menschen vergeben werden\. Denn wenn dem nicht so wäre und alles durch Schicksal geschieht, dann wäre auch nichts in unserer eigenen Macht\. Wenn es beispielsweise festgelegt wäre, dass dieser Mensch gut und jener böse ist, dann wäre der erste nicht verdienstvoll und der zweite nicht zu tadeln\. Außerdem, wenn die Menschheit nicht die Fähigkeit hätte, das Böse zu meiden und das Gute durch freien Willen zu wählen, wären sie nicht für ihre Taten verantwortlich, egal welcher Art sie sind\. Dass es jedoch durch freien Willen geschieht, dass sie sowohl aufrecht gehen als auch stolpern, zeigen wir so\. Wir sehen denselben Menschen, der zwischen gegensätzlichen Dingen wechselt\. Wenn es jedoch festgelegt wäre, dass er entweder gut oder böse sein sollte, könnte er niemals fähig sein, beide Gegensätze zu verkörpern oder so viele Wechsel zu vollziehen\. Auch könnten nicht einige gut und andere böse sein, da wir damit das Schicksal zur Ursache des Bösen machen und es als gegen sich selbst handelnd darstellen würden\. Oder das, was bereits gesagt wurde, würde wahr erscheinen, dass weder Tugend noch Laster etwas sind, sondern dass Dinge nur nach Meinung als gut oder böse angesehen werden; was, wie das wahre Wort zeigt, die größte Gottlosigkeit und Bosheit ist\. Doch dies behaupten wir als unvermeidliches Schicksal: Diejenigen, die das Gute wählen, erhalten würdige Belohnungen, und die, die das Gegenteil wählen, erhalten ihre verdienten Strafen\. Denn Gott schuf den Menschen nicht wie andere Dinge, wie Bäume und Vierbeiner, die nicht aus freiem Willen handeln können\. Denn er wäre weder würdig von Belohnung oder Lob, wenn er nicht selbst das Gute wählen würde, sondern zu diesem Zweck geschaffen wäre\. Auch wäre er, wenn er böse wäre, nicht würdig der Strafe, da er nicht von sich aus böse wäre, sondern nicht anders sein könnte, als er gemacht wurde\.
+Damit jedoch nicht einige aus unseren Aussagen schließen,
+wir würden sagen,
+dass alles,
+was geschieht,
+aus einer fatalen Notwendigkeit geschieht,
+weil es als im Voraus bekannt vorhergesagt wird,
+wollen wir auch dies erklären\.
+Wir haben von den Propheten gelernt und halten es für wahr,
+dass Strafen,
+Züchtigungen und gute Belohnungen entsprechend dem Verdienst der Taten eines jeden Menschen vergeben werden\.
+Denn wenn dem nicht so wäre und alles durch Schicksal geschieht,
+dann wäre auch nichts in unserer eigenen Macht\.
+Wenn es beispielsweise festgelegt wäre,
+dass dieser Mensch gut und jener böse ist,
+dann wäre der erste nicht verdienstvoll und der zweite nicht zu tadeln\.
+Außerdem,
+wenn die Menschheit nicht die Fähigkeit hätte,
+das Böse zu meiden und das Gute durch freien Willen zu wählen,
+wären sie nicht für ihre Taten verantwortlich,
+egal welcher Art sie sind\.
+Dass es jedoch durch freien Willen geschieht,
+dass sie sowohl aufrecht gehen als auch stolpern,
+zeigen wir so\.
+Wir sehen denselben Menschen,
+der zwischen gegensätzlichen Dingen wechselt\.
+Wenn es jedoch festgelegt wäre,
+dass er entweder gut oder böse sein sollte,
+könnte er niemals fähig sein,
+beide Gegensätze zu verkörpern oder so viele Wechsel zu vollziehen\.
+Auch könnten nicht einige gut und andere böse sein,
+da wir damit das Schicksal zur Ursache des Bösen machen und es als gegen sich selbst handelnd darstellen würden\.
+Oder das,
+was bereits gesagt wurde,
+würde wahr erscheinen,
+dass weder Tugend noch Laster etwas sind,
+sondern dass Dinge nur nach Meinung als gut oder böse angesehen werden;
+was,
+wie das wahre Wort zeigt,
+die größte Gottlosigkeit und Bosheit ist\.
+Doch dies behaupten wir als unvermeidliches Schicksal:
+Diejenigen,
+die das Gute wählen,
+erhalten würdige Belohnungen,
+und die,
+die das Gegenteil wählen,
+erhalten ihre verdienten Strafen\.
+Denn Gott schuf den Menschen nicht wie andere Dinge,
+wie Bäume und Vierbeiner,
+die nicht aus freiem Willen handeln können\.
+Denn er wäre weder würdig von Belohnung oder Lob,
+wenn er nicht selbst das Gute wählen würde,
+sondern zu diesem Zweck geschaffen wäre\.
+Auch wäre er,
+wenn er böse wäre,
+nicht würdig der Strafe,
+da er nicht von sich aus böse wäre,
+sondern nicht anders sein könnte,
+als er gemacht wurde\.

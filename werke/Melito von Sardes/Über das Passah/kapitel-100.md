@@ -7,6 +7,7 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-d6376ae6-85cf-4902-76d2-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:9a949c5ea3cacd7ee516e1bd77ad16fab6a71232e785eb7b0ef07d1ea561f14e`
-
-Der Herr kleidete sich mit der Menschheit und mit Leiden für den Leidenden\. Er wurde gebunden für den Gefesselten, gerichtet für den Verurteilten und begraben für den Begrabenen\. Er erhob sich von den Toten und rief laut aus:
+Der Herr kleidete sich mit der Menschheit und mit Leiden für den Leidenden\.
+Er wurde gebunden für den Gefesselten,
+gerichtet für den Verurteilten und begraben für den Begrabenen\.
+Er erhob sich von den Toten und rief laut aus:

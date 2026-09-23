@@ -7,6 +7,38 @@ Autor: Tatian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tatian/ansprache-an-die-griechen#kapitel-6441027b-48af-40d0-3d76-08ded167f699).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f3e44e10c28e6946c22ba008f037ea611d9a0d18004c51a3849acafe89974761`
-
-Was habt ihr durch euer Streben nach Philosophie denn Edles hervorgebracht? Wer von euren berühmtesten Männern war frei von eitlem Prahlen? Diogenes stellte mit seinem Fass seine Unabhängigkeit groß zur Schau, zog sich aber durch das Essen eines rohen Oktopus ein Darmleiden zu und verlor so durch seine Gefräßigkeit das Leben\. Aristipp ging in einem Purpurgewand umher und führte im Einklang mit den Ansichten, zu denen er sich bekannte, ein ausschweifendes Leben\. Den Philosophen Plato verkaufte Dionysius wegen seiner Neigung zur Völlerei\. Aristoteles wiederum setzte der Vorsehung auf absurde Weise Grenzen und ließ das Glück in den Dingen bestehen, die Vergnügen bereiten\. Ganz gegen seine Pflicht als Lehrer schmeichelte er Alexander und vergaß dabei, dass dieser noch ein junger Mann war\. Alexander zeigte, wie gut er die Lehren seines Meisters gelernt hatte: Weil sein Freund sich nicht vor ihm niederwerfen wollte, ließ er ihn einsperren und wie einen Bären oder Leoparden umherführen\. Ja, er befolgte die Vorschriften seines Lehrers genau: Beim Festmahl bewies er seine Männlichkeit und seinen Mut, indem er seinen engsten und liebsten Freund mit dem Speer durchbohrte\. Danach tat er, als trauere er, weinte und hungerte sich aus, damit seine Freunde ihn nicht hassten\. Ich könnte auch über diejenigen lachen, die noch heute an Aristoteles’ Lehren festhalten\. Sie behaupten, alles unterhalb des Mondes stehe nicht unter der Fürsorge der Vorsehung\. Da sie selbst der Erde näher sind als der Mond und unterhalb seiner Umlaufbahn leben, kümmern sie sich also um das, was der Fürsorge entbehrt\. Und wer weder Schönheit noch Reichtum noch körperliche Kraft noch vornehme Herkunft besitzt, ist Aristoteles zufolge nicht glücklich\. Solche Leute mögen philosophieren, ich nicht\!
+Was habt ihr durch euer Streben nach Philosophie denn Edles hervorgebracht?
+Wer von euren berühmtesten Männern war frei von eitlem Prahlen?
+Diogenes stellte mit seinem Fass seine Unabhängigkeit groß zur Schau,
+zog sich aber durch das Essen eines rohen Oktopus ein Darmleiden zu und verlor so durch seine Gefräßigkeit das Leben\.
+Aristipp ging in einem Purpurgewand umher und führte im Einklang mit den Ansichten,
+zu denen er sich bekannte,
+ein ausschweifendes Leben\.
+Den Philosophen Plato verkaufte Dionysius wegen seiner Neigung zur Völlerei\.
+Aristoteles wiederum setzte der Vorsehung auf absurde Weise Grenzen und ließ das Glück in den Dingen bestehen,
+die Vergnügen bereiten\.
+Ganz gegen seine Pflicht als Lehrer schmeichelte er Alexander und vergaß dabei,
+dass dieser noch ein junger Mann war\.
+Alexander zeigte,
+wie gut er die Lehren seines Meisters gelernt hatte:
+Weil sein Freund sich nicht vor ihm niederwerfen wollte,
+ließ er ihn einsperren und wie einen Bären oder Leoparden umherführen\.
+Ja,
+er befolgte die Vorschriften seines Lehrers genau:
+Beim Festmahl bewies er seine Männlichkeit und seinen Mut,
+indem er seinen engsten und liebsten Freund mit dem Speer durchbohrte\.
+Danach tat er,
+als trauere er,
+weinte und hungerte sich aus,
+damit seine Freunde ihn nicht hassten\.
+Ich könnte auch über diejenigen lachen,
+die noch heute an Aristoteles’ Lehren festhalten\.
+Sie behaupten,
+alles unterhalb des Mondes stehe nicht unter der Fürsorge der Vorsehung\.
+Da sie selbst der Erde näher sind als der Mond und unterhalb seiner Umlaufbahn leben,
+kümmern sie sich also um das,
+was der Fürsorge entbehrt\.
+Und wer weder Schönheit noch Reichtum noch körperliche Kraft noch vornehme Herkunft besitzt,
+ist Aristoteles zufolge nicht glücklich\.
+Solche Leute mögen philosophieren,
+ich nicht\!

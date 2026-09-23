@@ -7,11 +7,116 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-01bc86e3-53c5-4c2a-c198-08de6c821f66).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:fecd85a9d0306ce8fb9f6de304a05227c38faf6c96675169943035b618b60f4e`
+„Aber,
+Trypho“,
+fuhr ich fort,
+„wenn du gewusst hättest,
+wer er ist,
+der einerseits 'Engel des großen Rates' genannt wird,
+und 'Mann' von Hesekiel,
+und 'Menschensohn' von Daniel,
+und ein 'Kind' von Jesaja,
+und 'Christus' und 'Gott',
+der nach David angebetet werden soll,
+und 'Christus' und 'Stein' von vielen Propheten,
+und 'Weisheit' von Salomo und Josef und Judas,
+und ein 'Stern' von Mose,
+und 'Morgenröte' von Sacharja,
+und der 'Leidende' und 'Jakob' und 'Israel' wiederum von Jesaja,
+und ein 'Stab' und 'Blume' und 'Eckstein' und 'Sohn Gottes',
+dann hättest du ihn nicht gelästert,
+der gekommen ist und die menschliche Natur angenommen und gelitten hat und in den Himmel aufgefahren ist\!
+Und er wird wiederkehren,
+und dann werden eure zwölf Stämme weinen\!
+Tatsächlich,
+wenn du die von den Propheten gesprochenen Worte verstanden hättest,
+würdest du nicht leugnen,
+dass er Gott ist,
+der Sohn des einen,
+ungezeugten,
+unaussprechlichen Gottes\!
+Denn im Buch Exodus sagte Mose:
+'Und der Herr sprach zu Mose und sagte:
+Ich bin der Herr,
+und ich bin Abraham,
+Isaak und Jakob erschienen,
+da ich ihr Gott bin,
+und meinen Namen habe ich ihnen nicht bekannt gemacht,
+und ich habe meinen Bund mit ihnen geschlossen\.'[^bible-91295ec9-1e9b-4dab-8f17-ac4942a00e7e]
+Und wiederum,
+wenn er sagt:
+'Ein Mann rang mit Jakob\.'[^bible-875467e0-7368-4d9d-a244-9868dd014f0e]
+behauptet er,
+dass der Mann Gott war,
+denn er erklärt,
+dass Jakob sagte:
+'Ich habe Gott von Angesicht zu Angesicht gesehen,
+und mein Leben ist gerettet worden\.'[^bible-12078de6-c5dd-4ed2-bcfe-4c71bf466193]
+Und auch Mose bezeugt,
+dass Jakob den Ort,
+an dem Gott ihm erschien,
+mit ihm rang und ihn segnete,
+das 'Angesicht Gottes' nannte\!
+Mose erklärt auch,
+dass Gott Abraham bei der Eiche von Mamre erschien,
+als er zur Mittagszeit am Eingang seines Zeltes saß\.
+Dann fährt er fort:
+'Und als er seine Augen erhob,
+da erschienen ihm drei Männer,
+die in seiner Nähe standen;
+und sobald er sie sah,
+rannte er ihnen entgegen\.'[^bible-dabcaa3e-a820-4bed-81c8-b3dd7b811551]
+Und kurz darauf verspricht einer der drei Abraham einen Sohn:
+'Warum hat Sara gelacht und gesagt:
+Soll ich,
+die ich eine alte Frau bin,
+tatsächlich ein Kind gebären?
+Ist denn bei Gott irgendetwas unmöglich?
+Zur festgesetzten Zeit werde ich zurückkehren,
+und Sara wird einen Sohn haben\.'[^bible-63fb1955-677e-4c2e-8ae3-8c51d7bd94e7]
+Und sie verließen Abraham\.
 
-„Aber, Trypho“, fuhr ich fort, „wenn du gewusst hättest, wer er ist, der einerseits 'Engel des großen Rates' genannt wird, und 'Mann' von Hesekiel, und 'Menschensohn' von Daniel, und ein 'Kind' von Jesaja, und 'Christus' und 'Gott', der nach David angebetet werden soll, und 'Christus' und 'Stein' von vielen Propheten, und 'Weisheit' von Salomo und Josef und Judas, und ein 'Stern' von Mose, und 'Morgenröte' von Sacharja, und der 'Leidende' und 'Jakob' und 'Israel' wiederum von Jesaja, und ein 'Stab' und 'Blume' und 'Eckstein' und 'Sohn Gottes', dann hättest du ihn nicht gelästert, der gekommen ist und die menschliche Natur angenommen und gelitten hat und in den Himmel aufgefahren ist\! Und er wird wiederkehren, und dann werden eure zwölf Stämme weinen\! Tatsächlich, wenn du die von den Propheten gesprochenen Worte verstanden hättest, würdest du nicht leugnen, dass er Gott ist, der Sohn des einen, ungezeugten, unaussprechlichen Gottes\! Denn im Buch Exodus sagte Mose: 'Und der Herr sprach zu Mose und sagte: Ich bin der Herr, und ich bin Abraham, Isaak und Jakob erschienen, da ich ihr Gott bin, und meinen Namen habe ich ihnen nicht bekannt gemacht, und ich habe meinen Bund mit ihnen geschlossen\.'[^bible-91295ec9-1e9b-4dab-8f17-ac4942a00e7e] Und wiederum, wenn er sagt: 'Ein Mann rang mit Jakob\.'[^bible-875467e0-7368-4d9d-a244-9868dd014f0e] behauptet er, dass der Mann Gott war, denn er erklärt, dass Jakob sagte: 'Ich habe Gott von Angesicht zu Angesicht gesehen, und mein Leben ist gerettet worden\.'[^bible-12078de6-c5dd-4ed2-bcfe-4c71bf466193] Und auch Mose bezeugt, dass Jakob den Ort, an dem Gott ihm erschien, mit ihm rang und ihn segnete, das 'Angesicht Gottes' nannte\! Mose erklärt auch, dass Gott Abraham bei der Eiche von Mamre erschien, als er zur Mittagszeit am Eingang seines Zeltes saß\. Dann fährt er fort: 'Und als er seine Augen erhob, da erschienen ihm drei Männer, die in seiner Nähe standen; und sobald er sie sah, rannte er ihnen entgegen\.'[^bible-dabcaa3e-a820-4bed-81c8-b3dd7b811551] Und kurz darauf verspricht einer der drei Abraham einen Sohn: 'Warum hat Sara gelacht und gesagt: Soll ich, die ich eine alte Frau bin, tatsächlich ein Kind gebären? Ist denn bei Gott irgendetwas unmöglich? Zur festgesetzten Zeit werde ich zurückkehren, und Sara wird einen Sohn haben\.'[^bible-63fb1955-677e-4c2e-8ae3-8c51d7bd94e7] Und sie verließen Abraham\.
-
-Und so spricht er wiederum bezüglich dieser Männer: 'Und die Männer erhoben sich von dort und richteten ihre Augen auf Sodom\.'[^bible-5d4b6d17-3432-41b7-86eb-3665c76669ff] Dann sprach der, der war und der ist, zu Abraham diese Worte: 'Ich werde vor Abraham nicht verbergen, was ich im Begriff bin zu tun\.'[^bible-f0f8bd6f-420c-4ce5-90ce-6f3587319ea7]“ Dann wiederholte ich die Worte des Mose, die folgten und die ich zuvor erklärt hatte\. „Aus diesen Passagen“, fuhr ich fort, „ist schlüssig bewiesen worden, dass derjenige, der Abraham, Isaak, Jakob und den anderen Patriarchen erschien, vom Vater und Herrn eingesetzt wurde, seinem Willen dient und Gott genannt wird\!“ Dann fügte ich hinzu, was ich in meinen vorherigen Bemerkungen nicht gesagt hatte: „Ebenso, als das Volk Fleisch zu essen verlangte und Mose keinen Glauben an denjenigen hatte, der dort ein Engel genannt wird, als dieser versprach, dass Gott ihnen all das Fleisch geben würde, das sie essen könnten; da wird gezeigt, dass er selbst, der Gott ist und der vom Vater gesandte Engel, all dies gesagt und getan hat\! Denn so sagt die Schrift: 'Und der Herr sprach zu Mose: Sollte die Hand des Herrn zu kurz sein? Du wirst sogleich erfahren, ob mein Wort an dir in Erfüllung gehen wird oder nicht\.'[^bible-f50a031d-ddb4-4a56-8dc1-ea256083cf2d] An anderer Stelle sagt er: 'Der Herr hat auch zu mir gesagt: Du sollst diesen Jordan nicht überqueren; der Herr, dein Gott, der vor dir hergeht, wird die Nationen vernichten\.'[^bible-0fe72467-392e-4d86-83c6-351b56e7cb98]“
+Und so spricht er wiederum bezüglich dieser Männer:
+'Und die Männer erhoben sich von dort und richteten ihre Augen auf Sodom\.'[^bible-5d4b6d17-3432-41b7-86eb-3665c76669ff]
+Dann sprach der,
+der war und der ist,
+zu Abraham diese Worte:
+'Ich werde vor Abraham nicht verbergen,
+was ich im Begriff bin zu tun\.'[^bible-f0f8bd6f-420c-4ce5-90ce-6f3587319ea7]“ Dann wiederholte ich die Worte des Mose,
+die folgten und die ich zuvor erklärt hatte\.
+„Aus diesen Passagen“,
+fuhr ich fort,
+„ist schlüssig bewiesen worden,
+dass derjenige,
+der Abraham,
+Isaak,
+Jakob und den anderen Patriarchen erschien,
+vom Vater und Herrn eingesetzt wurde,
+seinem Willen dient und Gott genannt wird\!“
+Dann fügte ich hinzu,
+was ich in meinen vorherigen Bemerkungen nicht gesagt hatte:
+„Ebenso,
+als das Volk Fleisch zu essen verlangte und Mose keinen Glauben an denjenigen hatte,
+der dort ein Engel genannt wird,
+als dieser versprach,
+dass Gott ihnen all das Fleisch geben würde,
+das sie essen könnten;
+da wird gezeigt,
+dass er selbst,
+der Gott ist und der vom Vater gesandte Engel,
+all dies gesagt und getan hat\!
+Denn so sagt die Schrift:
+'Und der Herr sprach zu Mose:
+Sollte die Hand des Herrn zu kurz sein?
+Du wirst sogleich erfahren,
+ob mein Wort an dir in Erfüllung gehen wird oder nicht\.'[^bible-f50a031d-ddb4-4a56-8dc1-ea256083cf2d]
+An anderer Stelle sagt er:
+'Der Herr hat auch zu mir gesagt:
+Du sollst diesen Jordan nicht überqueren;
+der Herr,
+dein Gott,
+der vor dir hergeht,
+wird die Nationen vernichten\.'[^bible-0fe72467-392e-4d86-83c6-351b56e7cb98]“
 
 ## Bibelverweise
 

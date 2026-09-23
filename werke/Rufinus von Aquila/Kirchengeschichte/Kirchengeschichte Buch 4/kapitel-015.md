@@ -7,24 +7,423 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-4#kapitel-e3d23aa9-6a4b-493c-8a2d-08de0a72e412).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e8407a31365069449742d14d275dc699244dcb284fd68245a18cd6b0e1abb131`
+Zu dieser Zeit gab Polykarp sein Leben als Märtyrer hin,
+während die Provinz Asien von den härtesten Verfolgungen erschüttert wurde\.
+Ich halte es für klar notwendig,
+dies zu berichten,
+zumal ein im Namen der Kirche von Smyrna an die Kirchen im Pontus verfasster Brief erhalten ist,
+der den seligen Ausgang seines Martyriums schildert\.
+Er lautet:
+„Die Kirche Gottes in Smyrna an die Kirche Gottes in Philomelion und an alle heiligen katholischen Kirchen überall:
+Barmherzigkeit und Frieden und die Liebe Gottes des Vaters und unseres Herrn Jesus Christus vermehren sich\.
+Wir schreiben euch,
+Brüder,
+über die Märtyrer und über den seligen Polykarp,
+dessen Martyrium das Ende der Verfolgungen besiegelt hat\.“
+Und kurz darauf,
+als sie auch die Kämpfe beschreiben,
+die die anderen Märtyrer bestanden,
+schreiben sie:
+„Um die Zuschauer einzuschüchtern,
+zerfleischten sie die Märtyrer mit Geißeln bis in die Eingeweide,
+sodass die verborgenen Teile des Körpers,
+die die Natur in die Verborgenheit gelegt hat,
+bloßlagen,
+und bisweilen streuten sie Seemuscheln,
+die sie conchylia nennen,
+und scharfe Scherben unter die Rücken der Märtyrer;
+an ihnen ließen sie jede nur denkbare Folter und jede Art von Strafe aus und lieferten sie schließlich den wilden Tieren zum Fraß aus\.
 
-Zu dieser Zeit gab Polykarp sein Leben als Märtyrer hin, während die Provinz Asien von den härtesten Verfolgungen erschüttert wurde\. Ich halte es für klar notwendig, dies zu berichten, zumal ein im Namen der Kirche von Smyrna an die Kirchen im Pontus verfasster Brief erhalten ist, der den seligen Ausgang seines Martyriums schildert\. Er lautet: „Die Kirche Gottes in Smyrna an die Kirche Gottes in Philomelion und an alle heiligen katholischen Kirchen überall: Barmherzigkeit und Frieden und die Liebe Gottes des Vaters und unseres Herrn Jesus Christus vermehren sich\. Wir schreiben euch, Brüder, über die Märtyrer und über den seligen Polykarp, dessen Martyrium das Ende der Verfolgungen besiegelt hat\.“ Und kurz darauf, als sie auch die Kämpfe beschreiben, die die anderen Märtyrer bestanden, schreiben sie: „Um die Zuschauer einzuschüchtern, zerfleischten sie die Märtyrer mit Geißeln bis in die Eingeweide, sodass die verborgenen Teile des Körpers, die die Natur in die Verborgenheit gelegt hat, bloßlagen, und bisweilen streuten sie Seemuscheln, die sie conchylia nennen, und scharfe Scherben unter die Rücken der Märtyrer; an ihnen ließen sie jede nur denkbare Folter und jede Art von Strafe aus und lieferten sie schließlich den wilden Tieren zum Fraß aus\.
+Hervorgetan haben soll sich unter ihnen ein Mann von ungeheurem Mut namens Germanicus,
+der durch Gottes Gnade die Angst vor körperlichem Schaden zurückwies\.
+Denn als der Prokonsul versuchte,
+ihn durch Zureden zu beeinflussen und ihm nahelegte,
+er solle sich in der Blüte seiner Jugend selbst schonen,
+zögerte er,
+so heißt es,
+nicht im Geringsten,
+sondern reizte das für ihn bereitgestellte Tier,
+als tadelte er seine Strafe wegen ihrer Verzögerung,
+und suchte aus eigenem Entschluss den schnellen Abschied von diesem bösen Leben\.
+Als nun die Menge der Zuschauer über seinen so wunderbaren Tod staunte und begann,
+die Tugend des ganzen christlichen Volkes zu rühmen,
+das den Tod verachtet,
+da schrien alle laut:
+‚Weg mit den Gottlosen\!
+Holt Polykarp\!‘
+Aus ihren Rufen erhob sich ein großer Aufruhr;
+da nahm ein Phrygier namens Quintus,
+der erst kurz zuvor aus seiner Heimat gekommen war,
+es auf sich,
+die Tiere und die übrigen Qualen herauszufordern;
+das tat er zunächst,
+doch dann wankte sein Mut,
+und am Ende kostete ihn sein Zögern sein Heil\.
+Daran zeigt sich,
+dass nicht seine Frömmigkeit,
+sondern seine Unbesonnenheit und Dreistigkeit ihn in das Martyrium getrieben hatten;
+denn er hatte sich selbst dem Gericht aufgedrängt\.
+Durch sein Scheitern ist er allen ein Beispiel,
+in solchen Dingen mit Vorsicht und Umsicht vorzugehen;
+denn gekrönt werden Glaube und Bescheidenheit,
+nicht Unbesonnenheit\.
+So lautet also der Bericht über das,
+was ihnen widerfuhr\.
 
-Hervorgetan haben soll sich unter ihnen ein Mann von ungeheurem Mut namens Germanicus, der durch Gottes Gnade die Angst vor körperlichem Schaden zurückwies\. Denn als der Prokonsul versuchte, ihn durch Zureden zu beeinflussen und ihm nahelegte, er solle sich in der Blüte seiner Jugend selbst schonen, zögerte er, so heißt es, nicht im Geringsten, sondern reizte das für ihn bereitgestellte Tier, als tadelte er seine Strafe wegen ihrer Verzögerung, und suchte aus eigenem Entschluss den schnellen Abschied von diesem bösen Leben\. Als nun die Menge der Zuschauer über seinen so wunderbaren Tod staunte und begann, die Tugend des ganzen christlichen Volkes zu rühmen, das den Tod verachtet, da schrien alle laut: ‚Weg mit den Gottlosen\! Holt Polykarp\!‘ Aus ihren Rufen erhob sich ein großer Aufruhr; da nahm ein Phrygier namens Quintus, der erst kurz zuvor aus seiner Heimat gekommen war, es auf sich, die Tiere und die übrigen Qualen herauszufordern; das tat er zunächst, doch dann wankte sein Mut, und am Ende kostete ihn sein Zögern sein Heil\. Daran zeigt sich, dass nicht seine Frömmigkeit, sondern seine Unbesonnenheit und Dreistigkeit ihn in das Martyrium getrieben hatten; denn er hatte sich selbst dem Gericht aufgedrängt\. Durch sein Scheitern ist er allen ein Beispiel, in solchen Dingen mit Vorsicht und Umsicht vorzugehen; denn gekrönt werden Glaube und Bescheidenheit, nicht Unbesonnenheit\. So lautet also der Bericht über das, was ihnen widerfuhr\.
+Dieser wunderbare Mann Polykarp aber,
+als er zum ersten Mal hörte,
+dass die Menge durch Geschrei gegen ihn aufgestachelt wurde,
+war in keiner Weise bewegt,
+sondern blieb furchtlos;
+denn er war in seinem Auftreten ruhig und in seinem Blick gelassen\.
+Er hatte vor,
+ohne Angst in derselben Stadt zu bleiben,
+gab aber den Bitten seiner Freunde nach und zog sich auf einen Gutshof nahe der Stadt zurück,
+wo er sich mit einigen wenigen Tag und Nacht dem Gebet hingab;
+er flehte Gott an,
+den Kirchen überall Frieden zu schenken;
+das war seine beständige Gewohnheit sein Leben lang\.
+Als er drei Tage vor seiner Festnahme im Gebet war,
+sah er nachts eine Vision:
+Das Kissen unter seinem Haupt wurde vom Feuer verzehrt\.
+Als er nach der Vision erwachte,
+legte er den Anwesenden seinen Traum aus und sagte,
+es sei gewiss,
+dass ihm um Christi willen der Tod durch Feuer bestimmt sei\.
+Als die Suchtruppe nun nahe herankam,
+nötigte ihn daher die Liebe der Brüder noch einmal,
+an einen anderen Ort zu ziehen\.
+Nicht lange darauf drangen die Suchenden dort ein und ergriffen zwei Jungen;
+einer von ihnen verriet unter Schlägen,
+wo Polykarp war\.
+Sie trafen bei ihm ein,
+als der Tag sich schon neigte\.
+Als sie eintraten,
+fanden sie ihn ruhend in einem Obergemach;
+von dort hätte er sich leicht in ein anderes Haus begeben können;
+doch er lehnte ab und sagte:
+„Der Wille des Herrn geschehe\.“
+Mehr noch:
+Als er erfuhr,
+dass die,
+die ihn festnehmen sollten,
+da seien,
+ging er ihnen entgegen und begann,
+sie mit überaus heiterem und friedvollem Gesicht und mit außerordentlich gewinnender Rede anzusprechen,
+sodass sie staunten und sich fragten,
+warum man mit solcher Dringlichkeit den Befehl gegeben hatte,
+einen Mann von solcher Würde und Achtbarkeit,
+von so hohem Alter und Auszeichnung des Lebens,
+aufzuspüren und festzunehmen\.
 
-Dieser wunderbare Mann Polykarp aber, als er zum ersten Mal hörte, dass die Menge durch Geschrei gegen ihn aufgestachelt wurde, war in keiner Weise bewegt, sondern blieb furchtlos; denn er war in seinem Auftreten ruhig und in seinem Blick gelassen\. Er hatte vor, ohne Angst in derselben Stadt zu bleiben, gab aber den Bitten seiner Freunde nach und zog sich auf einen Gutshof nahe der Stadt zurück, wo er sich mit einigen wenigen Tag und Nacht dem Gebet hingab; er flehte Gott an, den Kirchen überall Frieden zu schenken; das war seine beständige Gewohnheit sein Leben lang\. Als er drei Tage vor seiner Festnahme im Gebet war, sah er nachts eine Vision: Das Kissen unter seinem Haupt wurde vom Feuer verzehrt\. Als er nach der Vision erwachte, legte er den Anwesenden seinen Traum aus und sagte, es sei gewiss, dass ihm um Christi willen der Tod durch Feuer bestimmt sei\. Als die Suchtruppe nun nahe herankam, nötigte ihn daher die Liebe der Brüder noch einmal, an einen anderen Ort zu ziehen\. Nicht lange darauf drangen die Suchenden dort ein und ergriffen zwei Jungen; einer von ihnen verriet unter Schlägen, wo Polykarp war\. Sie trafen bei ihm ein, als der Tag sich schon neigte\. Als sie eintraten, fanden sie ihn ruhend in einem Obergemach; von dort hätte er sich leicht in ein anderes Haus begeben können; doch er lehnte ab und sagte: „Der Wille des Herrn geschehe\.“ Mehr noch: Als er erfuhr, dass die, die ihn festnehmen sollten, da seien, ging er ihnen entgegen und begann, sie mit überaus heiterem und friedvollem Gesicht und mit außerordentlich gewinnender Rede anzusprechen, sodass sie staunten und sich fragten, warum man mit solcher Dringlichkeit den Befehl gegeben hatte, einen Mann von solcher Würde und Achtbarkeit, von so hohem Alter und Auszeichnung des Lebens, aufzuspüren und festzunehmen\.
+Er jedoch ließ ohne jedes Zögern einen Tisch für seine Gegner decken,
+als wären sie Gäste,
+und setzte ihnen ein üppiges Mahl vor,
+nachdem sie ihm eine Stunde zum Gebet gewährt hatten\.
+Er betete dann so von Gottes Gnade erfüllt,
+dass alle Anwesenden staunten;
+ja,
+sogar die,
+die gekommen waren,
+ihn festzunehmen,
+bedauerten,
+dass man ihnen befohlen hatte,
+einen so rechtschaffenen,
+Gott würdigen Mann,
+der schon durch sein hohes Alter ehrwürdig war,
+zur Hinrichtung wegzuführen\.“
+Weiter unten fährt dieselbe Schrift wörtlich fort:
+„Nachdem er sein Gebet beendet und all derer gedacht hatte,
+wem immer er begegnet war,
+der Großen und der Kleinen,
+der Vornehmen und der Einfachen,
+und der ganzen katholischen Kirche auf Erden,
+war die Stunde gekommen,
+und er ging hinaus,
+und auf einem Esel sitzend wurde er in die Stadt geführt;
+es war der Tag des großen Sabbats\.
+Auf dem Weg trafen ihn der Polizeihauptmann Herodes und sein Vater Niketas;
+sie nahmen ihn in ihren Wagen und drangen ernstlich mit den Worten auf ihn ein:
+‚Was ist dabei,
+zu sagen,
+der Kaiser sei Herr,
+zu opfern und danach in Frieden zu leben?‘
+Zunächst hörte er schweigend zu;
+als sie aber nicht nachließen,
+sagte er zu ihnen:
+‚Es ist nicht nötig,
+weiterzureden\.
+Ich werde nicht tun,
+was ihr sagt\.‘
+Als sie merkten,
+dass sie nichts ausrichteten,
+wurden sie zornig und stießen ihn unter harten Worten aus dem Wagen,
+sodass er kopfüber stürzte und sich den Fuß verletzte\.
+Doch als wäre ihm kein Schaden geschehen,
+ging er unverzagt und bereitwillig zum Stadion,
+wohin er geführt werden sollte\.
 
-Er jedoch ließ ohne jedes Zögern einen Tisch für seine Gegner decken, als wären sie Gäste, und setzte ihnen ein üppiges Mahl vor, nachdem sie ihm eine Stunde zum Gebet gewährt hatten\. Er betete dann so von Gottes Gnade erfüllt, dass alle Anwesenden staunten; ja, sogar die, die gekommen waren, ihn festzunehmen, bedauerten, dass man ihnen befohlen hatte, einen so rechtschaffenen, Gott würdigen Mann, der schon durch sein hohes Alter ehrwürdig war, zur Hinrichtung wegzuführen\.“ Weiter unten fährt dieselbe Schrift wörtlich fort: „Nachdem er sein Gebet beendet und all derer gedacht hatte, wem immer er begegnet war, der Großen und der Kleinen, der Vornehmen und der Einfachen, und der ganzen katholischen Kirche auf Erden, war die Stunde gekommen, und er ging hinaus, und auf einem Esel sitzend wurde er in die Stadt geführt; es war der Tag des großen Sabbats\. Auf dem Weg trafen ihn der Polizeihauptmann Herodes und sein Vater Niketas; sie nahmen ihn in ihren Wagen und drangen ernstlich mit den Worten auf ihn ein: ‚Was ist dabei, zu sagen, der Kaiser sei Herr, zu opfern und danach in Frieden zu leben?‘ Zunächst hörte er schweigend zu; als sie aber nicht nachließen, sagte er zu ihnen: ‚Es ist nicht nötig, weiterzureden\. Ich werde nicht tun, was ihr sagt\.‘ Als sie merkten, dass sie nichts ausrichteten, wurden sie zornig und stießen ihn unter harten Worten aus dem Wagen, sodass er kopfüber stürzte und sich den Fuß verletzte\. Doch als wäre ihm kein Schaden geschehen, ging er unverzagt und bereitwillig zum Stadion, wohin er geführt werden sollte\.
+Als er das Stadion betrat,
+erhob sich ein gewaltiger Aufschrei,
+und eine Stimme aus dem Himmel sprach:
+‚Fass Mut,
+Polykarp,
+sei stark\.‘
+Niemand konnte sehen,
+woher die Stimme kam,
+doch viele hörten den Klang\.
+Währenddessen geriet das Volk außer sich,
+als Polykarp hereingeführt wurde\.
+Als ihn der Prokonsul aus der Ferne fragte,
+ob er Polykarp sei,
+sagte er,
+dass er es sei\.
+‚Erweise deinen Jahren Ehre‘,
+sagte er,
+‚und schone dein hohes Alter:
+schwöre bei der Fortuna des Kaisers,
+bereue,
+was war,
+und rufe mit den anderen:
+„Weg mit den Gottlosen\!‘
+Polykarp blickte finster auf die im Stadion Sitzenden,
+hob die rechte Hand zum Himmel und sprach mit einem Seufzer:
+‚Weg mit den Gottlosen\!‘
+Der Prokonsul aber drängte weiter:
+‚Schwöre bei der Fortuna des Kaisers,
+und schmähe Christus,
+dann lasse ich dich frei\.‘
+Polykarp erwiderte:
+‚Seit sechsundachtzig Jahren diene ich ihm,
+und er hat mir kein Unrecht getan;
+wie könnte ich meinen König lästern,
+der mir das Heil geschenkt hat?‘
+Und als man ihn noch eindringlicher drängte,
+bei der Fortuna des Kaisers zu schwören,
+sagte er:
+‚Wenn du dich damit brüsten willst,
+ich hätte bei der Fortuna des Kaisers geschworen,
+und dich so stellst,
+als wüsstest du nicht,
+wer ich bin,
+dann höre es offen von mir:
+Ich bin Christ\.
+Und wenn du über die christliche Religion Auskunft haben willst,
+dann setze einen Tag fest und höre zu\.‘
+Der Prokonsul sagte:
+‚Überzeuge das Volk\.‘
+Polykarp sagte:
+‚Dir will ich antworten;
+denn wir sind gelehrt,
+den von Gott eingesetzten Machthabern und Gewalten Ehre zu erweisen,
+und zwar jene Ehre,
+die der Religion nicht widerspricht;
+doch einem Volk,
+das den Verstand verloren hat,
+schulde ich keine Rechenschaft\.‘
 
-Als er das Stadion betrat, erhob sich ein gewaltiger Aufschrei, und eine Stimme aus dem Himmel sprach: ‚Fass Mut, Polykarp, sei stark\.‘ Niemand konnte sehen, woher die Stimme kam, doch viele hörten den Klang\. Währenddessen geriet das Volk außer sich, als Polykarp hereingeführt wurde\. Als ihn der Prokonsul aus der Ferne fragte, ob er Polykarp sei, sagte er, dass er es sei\. ‚Erweise deinen Jahren Ehre‘, sagte er, ‚und schone dein hohes Alter: schwöre bei der Fortuna des Kaisers, bereue, was war, und rufe mit den anderen: „Weg mit den Gottlosen\!‘ Polykarp blickte finster auf die im Stadion Sitzenden, hob die rechte Hand zum Himmel und sprach mit einem Seufzer: ‚Weg mit den Gottlosen\!‘ Der Prokonsul aber drängte weiter: ‚Schwöre bei der Fortuna des Kaisers, und schmähe Christus, dann lasse ich dich frei\.‘ Polykarp erwiderte: ‚Seit sechsundachtzig Jahren diene ich ihm, und er hat mir kein Unrecht getan; wie könnte ich meinen König lästern, der mir das Heil geschenkt hat?‘ Und als man ihn noch eindringlicher drängte, bei der Fortuna des Kaisers zu schwören, sagte er: ‚Wenn du dich damit brüsten willst, ich hätte bei der Fortuna des Kaisers geschworen, und dich so stellst, als wüsstest du nicht, wer ich bin, dann höre es offen von mir: Ich bin Christ\. Und wenn du über die christliche Religion Auskunft haben willst, dann setze einen Tag fest und höre zu\.‘ Der Prokonsul sagte: ‚Überzeuge das Volk\.‘ Polykarp sagte: ‚Dir will ich antworten; denn wir sind gelehrt, den von Gott eingesetzten Machthabern und Gewalten Ehre zu erweisen, und zwar jene Ehre, die der Religion nicht widerspricht; doch einem Volk, das den Verstand verloren hat, schulde ich keine Rechenschaft\.‘
+Der Prokonsul sagte:
+„Ich habe Tiere bereit;
+wenn du nicht sofort umkehrst,
+hetze ich sie auf dich\.“
+Er antwortete:
+„Nur her damit;
+unser Entschluss ist unwiderruflich,
+und wir können nicht durch Reue vom Guten zum Bösen wechseln\.
+Besser wäre,
+die im Bösen verharren,
+kehrten zum Guten um\.“
+Darauf sagte der Prokonsul:
+„Dann lasse ich dich vom Feuer verzehren,
+wenn dir die Tiere verächtlich sind und du deinen Entschluss nicht bereust\.“
+Er sagte:
+„Du drohst mir mit jenem Feuer,
+das einen Augenblick brennt und bald darauf erlischt,
+weil du nichts weißt vom ewigen Feuer des kommenden Gerichts,
+das für die Gottlosen als unendliche Strafe bereitet ist\.
+Warum zögerst du?
+Bring herbei,
+was du willst\.“
+Während er dies und vieles Ähnliche sagte,
+war Polykarp von Zuversicht und Freude erfüllt,
+sodass der Prokonsul über die Freude in seinem Gesicht und die Kühnheit seiner Antworten sehr erstaunte\.
+Daher schickte er einen Herold zum Volk und befahl,
+so laut wie möglich auszurufen,
+Polykarp habe dreimal bekannt,
+ein Christ zu sein\.
+Als man das hörte,
+schrien alle,
+sowohl die Heiden als auch die in Smyrna wohnenden Juden,
+in völliger Raserei:
+„Das ist der Lehrer ganz Asiens und der Vater der Christen,
+zugleich ein Zerstörer unserer Götter\!
+Er ist es,
+der so viele lehrt,
+weder zu opfern noch die Götter anzubeten\!“
+Danach schrien sie Philipp,
+den Spieleleiter,
+an,
+er solle einen Löwen auf Polykarp loslassen\.
+Er antwortete,
+das dürfe er nicht,
+weil seine Vorstellung bereits beendet sei\.
+Da schrien alle gemeinsam,
+Polykarp solle lebendig verbrannt werden,
+denn die Vision vom brennenden Kissen,
+die er gesehen hatte,
+musste sich erfüllen\.
+Das geschah schneller,
+als man sagen kann:
+Das Volk selbst trug Holz aus den Bädern und von öffentlichen Plätzen zusammen,
+dazu Reisig,
+und besonders die Juden wirkten in ihrer gewohnten Raserei noch eifriger mit;
+so wurde der Scheiterhaufen mit größter Eile errichtet\.
 
-Der Prokonsul sagte: „Ich habe Tiere bereit; wenn du nicht sofort umkehrst, hetze ich sie auf dich\.“ Er antwortete: „Nur her damit; unser Entschluss ist unwiderruflich, und wir können nicht durch Reue vom Guten zum Bösen wechseln\. Besser wäre, die im Bösen verharren, kehrten zum Guten um\.“ Darauf sagte der Prokonsul: „Dann lasse ich dich vom Feuer verzehren, wenn dir die Tiere verächtlich sind und du deinen Entschluss nicht bereust\.“ Er sagte: „Du drohst mir mit jenem Feuer, das einen Augenblick brennt und bald darauf erlischt, weil du nichts weißt vom ewigen Feuer des kommenden Gerichts, das für die Gottlosen als unendliche Strafe bereitet ist\. Warum zögerst du? Bring herbei, was du willst\.“ Während er dies und vieles Ähnliche sagte, war Polykarp von Zuversicht und Freude erfüllt, sodass der Prokonsul über die Freude in seinem Gesicht und die Kühnheit seiner Antworten sehr erstaunte\. Daher schickte er einen Herold zum Volk und befahl, so laut wie möglich auszurufen, Polykarp habe dreimal bekannt, ein Christ zu sein\. Als man das hörte, schrien alle, sowohl die Heiden als auch die in Smyrna wohnenden Juden, in völliger Raserei: „Das ist der Lehrer ganz Asiens und der Vater der Christen, zugleich ein Zerstörer unserer Götter\! Er ist es, der so viele lehrt, weder zu opfern noch die Götter anzubeten\!“ Danach schrien sie Philipp, den Spieleleiter, an, er solle einen Löwen auf Polykarp loslassen\. Er antwortete, das dürfe er nicht, weil seine Vorstellung bereits beendet sei\. Da schrien alle gemeinsam, Polykarp solle lebendig verbrannt werden, denn die Vision vom brennenden Kissen, die er gesehen hatte, musste sich erfüllen\. Das geschah schneller, als man sagen kann: Das Volk selbst trug Holz aus den Bädern und von öffentlichen Plätzen zusammen, dazu Reisig, und besonders die Juden wirkten in ihrer gewohnten Raserei noch eifriger mit; so wurde der Scheiterhaufen mit größter Eile errichtet\.
+Da legte der alte Mann seine Kleider ab und löste seinen Gürtel;
+auch seine Schuhe wollte er ausziehen,
+die zuvor nur von bestimmten gottesfürchtigen Leuten ausgezogen worden waren,
+die aus Glauben und Hingabe darum wetteiferten\.
+So groß war die Verehrung,
+die ihm sein ganzes Leben lang von allen entgegengebracht wurde\.
+Als daher alles für das Feuer bereit war und man ihn auf den Scheiterhaufen gestellt hatte und ihn sogar mit Nägeln daran befestigen wollte,
+sagte er:
+‚Lasst es;
+denn der mir die Kraft gegeben hat,
+den Schmerz des Feuers zu ertragen,
+wird auch dafür sorgen,
+dass ich die Flammen unbeugsam aushalte,
+ohne mit Nägeln festgemacht zu werden\.‘
+Da ließen sie die Nägel beiseite und nahmen Fesseln\.
+Mit hinter dem Rücken gebundenen Händen,
+wie ein auserlesener Widder aus einer großen Herde,
+wurde er dem allmächtigen Gott als wohlgefälliges Ganzopfer dargebracht,
+während er mitten in seiner Qual dieses Gebet ausgoss:
+‚Gott,
+Vater deines geliebten und gesegneten Sohnes Jesus Christus,
+durch den wir dich erkannt haben,
+Gott der Engel und Mächte und der ganzen Schöpfung und des ganzen Geschlechts der Gerechten,
+die alle vor deinem Angesicht leben,
+ich preise dich,
+dass du mich gewürdigt hast,
+mich zu diesem Tag und zu dieser Stunde zu führen,
+damit ich Anteil habe an den Märtyrern und am Kelch deines Christus zur Auferstehung zum ewigen Leben meiner Seele und meines Geistes durch die Unvergänglichkeit des Heiligen Geistes\.
+Möge ich heute vor deinem Angesicht unter ihnen aufgenommen werden als ein reiches und dir wohlgefälliges Opfer;
+wie du es bereitet und im Voraus bestimmt hast,
+so hast du es getan\.
+Du bist Gott,
+der wahr ist und ohne Trug,
+und darum preise ich dich in allem und segne dich und verherrliche dich durch den ewigen Gott und Hohepriester Jesus Christus,
+deinen geliebten Sohn;
+durch den und mit dem dir die Herrlichkeit sei im Heiligen Geist,
+jetzt und in den kommenden Zeitaltern\.
+Amen\.‘
 
-Da legte der alte Mann seine Kleider ab und löste seinen Gürtel; auch seine Schuhe wollte er ausziehen, die zuvor nur von bestimmten gottesfürchtigen Leuten ausgezogen worden waren, die aus Glauben und Hingabe darum wetteiferten\. So groß war die Verehrung, die ihm sein ganzes Leben lang von allen entgegengebracht wurde\. Als daher alles für das Feuer bereit war und man ihn auf den Scheiterhaufen gestellt hatte und ihn sogar mit Nägeln daran befestigen wollte, sagte er: ‚Lasst es; denn der mir die Kraft gegeben hat, den Schmerz des Feuers zu ertragen, wird auch dafür sorgen, dass ich die Flammen unbeugsam aushalte, ohne mit Nägeln festgemacht zu werden\.‘ Da ließen sie die Nägel beiseite und nahmen Fesseln\. Mit hinter dem Rücken gebundenen Händen, wie ein auserlesener Widder aus einer großen Herde, wurde er dem allmächtigen Gott als wohlgefälliges Ganzopfer dargebracht, während er mitten in seiner Qual dieses Gebet ausgoss: ‚Gott, Vater deines geliebten und gesegneten Sohnes Jesus Christus, durch den wir dich erkannt haben, Gott der Engel und Mächte und der ganzen Schöpfung und des ganzen Geschlechts der Gerechten, die alle vor deinem Angesicht leben, ich preise dich, dass du mich gewürdigt hast, mich zu diesem Tag und zu dieser Stunde zu führen, damit ich Anteil habe an den Märtyrern und am Kelch deines Christus zur Auferstehung zum ewigen Leben meiner Seele und meines Geistes durch die Unvergänglichkeit des Heiligen Geistes\. Möge ich heute vor deinem Angesicht unter ihnen aufgenommen werden als ein reiches und dir wohlgefälliges Opfer; wie du es bereitet und im Voraus bestimmt hast, so hast du es getan\. Du bist Gott, der wahr ist und ohne Trug, und darum preise ich dich in allem und segne dich und verherrliche dich durch den ewigen Gott und Hohepriester Jesus Christus, deinen geliebten Sohn; durch den und mit dem dir die Herrlichkeit sei im Heiligen Geist, jetzt und in den kommenden Zeitaltern\. Amen\.‘
+Als er das ‚Amen‘ gesprochen und sein Gebet beendet hatte,
+zündeten die Männer,
+die dem ewigen Feuer verfallen sind,
+das Feuer an;
+und als eine große Flamme aufloderte,
+sahen wir alle,
+denen Gott es gewährte,
+ein Wunder\.
+Viele von uns hat der Herr bewahrt,
+damit wir anderen berichten,
+was wir gesehen haben\.
+Das Feuer stand über dem Körper des Märtyrers und wölbte sich wie ein Gewölbe,
+wie die vom Wind geblähten Segel eines Schiffes;
+sein Körper in der Mitte war nicht wie brennendes Fleisch,
+sondern wie Gold oder Silber,
+das im Ofen glüht\.
+Dabei stieg uns ein Duft in die Nase wie von Weihrauch oder vom kostbarsten wohlriechenden Salböl\.
+Schließlich,
+als die Diener der Niedertracht sahen,
+dass der Körper vom Feuer nicht verzehrt werden konnte,
+befahlen sie dem Scharfrichter hinaufzugehen und den Körper,
+der das Feuer besiegt hatte,
+mit dem Schwert zu durchbohren\.
+Als er es tat,
+strömte so viel Blut hervor,
+dass es den Scheiterhaufen löschte\.
+Das Volk aber war von dem Wunder so ergriffen,
+dass es im Staunen auseinanderging über die so außergewöhnliche Gunst Gottes,
+die er seinen Erwählten erwiesen hatte\.
+Das also ist der bewundernswerte apostolische Lehrer,
+für unsere Zeit erwählt,
+und der prophetische Priester der Kirche von Smyrna;
+jedes Wort,
+das er sprach,
+hat sich erfüllt und wird sich auch künftig erfüllen\.
+Der aber,
+der alles Gute beneidet,
+der Feind aller Gerechten,
+als er sah,
+dass er um des Ruhms seines Martyriums und der Tugenden seines herausragenden Lebens willen gekrönt worden war und dass er durch seinen Tod die Belohnungen der Unsterblichkeit erlangt hatte,
+setzte alles daran zu verhindern,
+dass jemand seine Gebeine denen von uns,
+die es wünschten,
+zur Bestattung überließ\.
 
-Als er das ‚Amen‘ gesprochen und sein Gebet beendet hatte, zündeten die Männer, die dem ewigen Feuer verfallen sind, das Feuer an; und als eine große Flamme aufloderte, sahen wir alle, denen Gott es gewährte, ein Wunder\. Viele von uns hat der Herr bewahrt, damit wir anderen berichten, was wir gesehen haben\. Das Feuer stand über dem Körper des Märtyrers und wölbte sich wie ein Gewölbe, wie die vom Wind geblähten Segel eines Schiffes; sein Körper in der Mitte war nicht wie brennendes Fleisch, sondern wie Gold oder Silber, das im Ofen glüht\. Dabei stieg uns ein Duft in die Nase wie von Weihrauch oder vom kostbarsten wohlriechenden Salböl\. Schließlich, als die Diener der Niedertracht sahen, dass der Körper vom Feuer nicht verzehrt werden konnte, befahlen sie dem Scharfrichter hinaufzugehen und den Körper, der das Feuer besiegt hatte, mit dem Schwert zu durchbohren\. Als er es tat, strömte so viel Blut hervor, dass es den Scheiterhaufen löschte\. Das Volk aber war von dem Wunder so ergriffen, dass es im Staunen auseinanderging über die so außergewöhnliche Gunst Gottes, die er seinen Erwählten erwiesen hatte\. Das also ist der bewundernswerte apostolische Lehrer, für unsere Zeit erwählt, und der prophetische Priester der Kirche von Smyrna; jedes Wort, das er sprach, hat sich erfüllt und wird sich auch künftig erfüllen\. Der aber, der alles Gute beneidet, der Feind aller Gerechten, als er sah, dass er um des Ruhms seines Martyriums und der Tugenden seines herausragenden Lebens willen gekrönt worden war und dass er durch seinen Tod die Belohnungen der Unsterblichkeit erlangt hatte, setzte alles daran zu verhindern, dass jemand seine Gebeine denen von uns, die es wünschten, zur Bestattung überließ\.
+Nicetas,
+der Vater des Herodes und der Bruder des Dalca,
+wurde daher angestachelt,
+bei den Behörden vorzusprechen und zu erbitten,
+den Leib nicht zur Bestattung freizugeben,
+‚damit‘,
+sagte er,
+‚die Christen nicht den Gekreuzigten verlassen und anfangen,
+diesen Mann anzubeten\.‘
+Besonders die Juden trieben das voran;
+sie hielten die Unseren scharf im Blick,
+damit sie ihn nicht aus dem noch brennenden Feuer entreißen\.
+Die erbärmlichen Narren merkten nicht,
+dass wir Christus niemals verlassen könnten,
+der den Tod auf sich nahm,
+um die ganze Welt zu retten,
+und dass wir auch niemand anderen anbeten könnten;
+wir wissen ja,
+dass er der wahre Gott ist und dass er allein anzubeten ist\.
+Die Märtyrer hingegen lieben und verehren wir als Jünger des Herrn,
+weil sie dem Meister und Herrn die Treue ungeteilt bewahrt haben,
+und wir hoffen,
+mit ihnen gemeinsam Anteil zu haben an Glauben und Ausdauer in der Liebe\.
+Als nun der Hauptmann sah,
+wie verbissen die Juden stritten,
+ließ er den Leib herbeibringen und vollständig verbrennen,
+und so sammelten wir die verkohlten Gebeine,
+die durch das Feuer teurer geworden waren als die kostbarsten Edelsteine und feiner als jedes Gold,
+und gaben ihnen,
+wie es sich gehörte,
+das gewohnte Begräbnis\.
+Dort halten wir noch immer,
+so wie der Herr es ermöglicht,
+die üblichen Festversammlungen,
+besonders am Tag seines Leidens;
+und wir begehen dabei auch das Gedächtnis derer,
+die zuvor gelitten haben,
+damit die Nachfolgenden durch diese hervorragenden Beispiele im Geist ermutigt werden und den Weg ihrer Vorgänger antreten\.
+So lautet der Bericht über den seligen Polykarp,
+mit dem zusammen auch weitere zwölf aus Philadelphia in Smyrna das Martyrium erlangten\.
 
-Nicetas, der Vater des Herodes und der Bruder des Dalca, wurde daher angestachelt, bei den Behörden vorzusprechen und zu erbitten, den Leib nicht zur Bestattung freizugeben, ‚damit‘, sagte er, ‚die Christen nicht den Gekreuzigten verlassen und anfangen, diesen Mann anzubeten\.‘ Besonders die Juden trieben das voran; sie hielten die Unseren scharf im Blick, damit sie ihn nicht aus dem noch brennenden Feuer entreißen\. Die erbärmlichen Narren merkten nicht, dass wir Christus niemals verlassen könnten, der den Tod auf sich nahm, um die ganze Welt zu retten, und dass wir auch niemand anderen anbeten könnten; wir wissen ja, dass er der wahre Gott ist und dass er allein anzubeten ist\. Die Märtyrer hingegen lieben und verehren wir als Jünger des Herrn, weil sie dem Meister und Herrn die Treue ungeteilt bewahrt haben, und wir hoffen, mit ihnen gemeinsam Anteil zu haben an Glauben und Ausdauer in der Liebe\. Als nun der Hauptmann sah, wie verbissen die Juden stritten, ließ er den Leib herbeibringen und vollständig verbrennen, und so sammelten wir die verkohlten Gebeine, die durch das Feuer teurer geworden waren als die kostbarsten Edelsteine und feiner als jedes Gold, und gaben ihnen, wie es sich gehörte, das gewohnte Begräbnis\. Dort halten wir noch immer, so wie der Herr es ermöglicht, die üblichen Festversammlungen, besonders am Tag seines Leidens; und wir begehen dabei auch das Gedächtnis derer, die zuvor gelitten haben, damit die Nachfolgenden durch diese hervorragenden Beispiele im Geist ermutigt werden und den Weg ihrer Vorgänger antreten\. So lautet der Bericht über den seligen Polykarp, mit dem zusammen auch weitere zwölf aus Philadelphia in Smyrna das Martyrium erlangten\.
-
-Im selben Schreiben ist auch der Bericht über sehr viele andere Märtyrer jener Zeit eingeflochten\. Unter ihnen, so heißt es, war ein Metrodoros, ein Presbyter aus der Sekte des Marcion, der nach Polykarp dem Feuer übergeben wurde\. Zu den Märtyrern jener Zeit wird dort als der berühmteste ein gewisser Pionios gezählt\. Wer Näheres über ihn wissen will, findet es in unserer Schrift über die Märtyrer der alten Zeit: den Mut seiner Antworten in jedem Verhör, seine Ansprachen an das Volk zugunsten unseres Glaubens, wie furchtlos er stets vor den Richtern auftrat, ja sogar in den Gerichtssälen lehrte und argumentierte, wie er durch seine Ermahnungen die während der Verfolgung Wankenden aufrichtete und wie er im Gefängnis die Herzen der Brüder stärkte, die zu ihm kamen, um das Martyrium zu bestehen; welche Qualen er selbst im Martyrium erduldete und wie er an den Scheiterhaufen, auf den man ihn setzte, angenagelt wurde und so sein Leben selig vollendete\. Im Anschluss folgen die Berichte weiterer Märtyrer auch in Pergamon, der Stadt in Asien: von Karpos und Papirios und von der vortrefflichen Frau Agathonike und von vielen anderen Frauen, die für ihre seligen Bekenntnisse mit dem Martyrium gekrönt wurden\.“
+Im selben Schreiben ist auch der Bericht über sehr viele andere Märtyrer jener Zeit eingeflochten\.
+Unter ihnen,
+so heißt es,
+war ein Metrodoros,
+ein Presbyter aus der Sekte des Marcion,
+der nach Polykarp dem Feuer übergeben wurde\.
+Zu den Märtyrern jener Zeit wird dort als der berühmteste ein gewisser Pionios gezählt\.
+Wer Näheres über ihn wissen will,
+findet es in unserer Schrift über die Märtyrer der alten Zeit:
+den Mut seiner Antworten in jedem Verhör,
+seine Ansprachen an das Volk zugunsten unseres Glaubens,
+wie furchtlos er stets vor den Richtern auftrat,
+ja sogar in den Gerichtssälen lehrte und argumentierte,
+wie er durch seine Ermahnungen die während der Verfolgung Wankenden aufrichtete und wie er im Gefängnis die Herzen der Brüder stärkte,
+die zu ihm kamen,
+um das Martyrium zu bestehen;
+welche Qualen er selbst im Martyrium erduldete und wie er an den Scheiterhaufen,
+auf den man ihn setzte,
+angenagelt wurde und so sein Leben selig vollendete\.
+Im Anschluss folgen die Berichte weiterer Märtyrer auch in Pergamon,
+der Stadt in Asien:
+von Karpos und Papirios und von der vortrefflichen Frau Agathonike und von vielen anderen Frauen,
+die für ihre seligen Bekenntnisse mit dem Martyrium gekrönt wurden\.“

@@ -7,9 +7,154 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/67-homilie-ueber-matthaeus#kapitel-8e0379ca-295b-44ef-5b75-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5e5558155aaa06abeb2917e06582db78d28cd5a4991d2f9e325f5365bfbc1b95`
-
-Er deutet hier also nichts von alledem an; vielmehr ist es, wie ich sagte: Er zeigt seine strafende Macht\. Und das zeigt er mit den Worten: „Denn es war noch nicht die Zeit\.“ Damit macht er deutlich, dass er vor allem zu diesem Zweck gekommen war, nicht wegen des Hungers, sondern wegen der Jünger, die sich sehr wunderten, obwohl schon viele größere Zeichen geschehen waren\. Doch wie ich sagte: Das war etwas Ungewöhnliches; denn jetzt zeigte er zum ersten Mal seine strafende Macht\. Darum wirkte er das Wunder auch nicht an irgendeiner anderen Pflanze, sondern an der feuchtesten von allen, damit auch von daher das Wunder umso größer erscheine\. Und damit du erkennst, dass dies um ihretwillen geschah, um sie zur Zuversicht zu stärken, höre, was er im Folgenden sagt\. Was sagt er? „Auch ihr werdet Größeres tun, wenn ihr glauben und im Gebet Zuversicht haben wollt\.“ Siehst du, dass alles um ihretwillen geschah, damit sie vor Anschlägen keine Angst haben und nicht zittern? Darum sagt er dies auch ein zweites Mal und bindet sie fest an Gebet und Glauben\. Denn nicht nur dies werdet ihr tun, sagt er, sondern ihr werdet auch Berge versetzen und noch vieles andere tun, zuversichtlich im Glauben und im Gebet\. Die anmaßenden und aufgeblasenen Juden aber wollten seine Lehre unterbrechen, traten hinzu und fragten: „In welcher Vollmacht tust du das?“ Weil sie nämlich an den Zeichen nichts auszusetzen fanden, bringen sie gegen ihn die Zurechtweisung derer vor, die im Tempel Handel trieben\. Eben dies scheinen sie auch bei Johannes zu fragen, wenn auch nicht mit denselben Worten, so doch mit derselben Absicht\. Denn auch dort sagen sie: „Welches Zeichen zeigst du uns, dass du dies tust?[^bible-f264630e-9f22-4ea8-9635-4181453540ea]“ Dort aber antwortet er ihnen: „Brecht diesen Tempel ab, und ich werde ihn in drei Tagen aufrichten\.[^bible-6e6307b2-b56f-4e89-b090-1ac8dd169d74]“ Hier dagegen bringt er sie in Verlegenheit\. Daraus ist klar: Damals war es Anfang und Vorspiel der Wunder, hier aber der Abschluss\. Was sie sagen, bedeutet dies: Hast du den Lehrsitz empfangen? Bist du zum Priester geweiht worden, dass du eine solche Vollmacht gezeigt hast? Und doch hatte er nichts getan, was Anmaßung an sich hatte, sondern für die Ordnung des Tempels gesorgt\. Aber obwohl sie nichts zu sagen haben, greifen sie ihn damit an\. Als er sie hinaustrieb, wagten sie wegen der Wunder nichts zu sagen; als sie ihn aber sahen, da fahren sie ihn an\. Was tut nun er? Er antwortet ihnen nicht geradeheraus und zeigt damit: Wenn sie seine Vollmacht hätten sehen wollen, hätten sie es gekonnt\. Stattdessen stellt er ihnen eine Gegenfrage: „Woher war die Taufe des Johannes? Vom Himmel oder von Menschen?[^bible-dbf63cf1-62e0-4fe1-8dcd-93bb8affedd6]“ Und welcher Zusammenhang liegt darin? Ein sehr großer\. Denn wenn sie gesagt hätten: „Vom Himmel“, hätte er ihnen gesagt: „Warum habt ihr ihm dann nicht geglaubt?[^bible-dbf63cf1-62e0-4fe1-8dcd-93bb8affedd6]“ Hätten sie nämlich Johannes geglaubt, hätten sie das nicht gefragt\. Denn über ihn hatte jener gesagt: „Ich bin nicht würdig, den Riemen seiner Sandale zu lösen\.[^bible-4d9b2325-5f0d-4f0b-8829-c3359dabbc6e]“ Und: „Siehe, das Lamm Gottes, das die Sünde der Welt trägt\.[^bible-1b6c1258-a451-45b5-9d72-89f880f0b2eb]“ Und: „Dieser ist der Sohn Gottes\.[^bible-a7039c62-bd41-44bd-8f8d-504af706ff64]“ Und: „Der von oben kommt, ist über allen\.[^bible-7f583c28-5138-4745-aba7-4da021c36d6c]“ Und: „Die Worfschaufel ist in seiner Hand, und er wird seine Tenne gründlich reinigen\.[^bible-500bfc6f-1cda-48db-a963-608e96a27744]“ Wenn sie also jenem geglaubt hätten, hätte sie nichts daran gehindert zu wissen, in welcher Vollmacht er dies tut\. Als sie dann in böser Absicht sagten: „Wir wissen es nicht[^bible-eea7ee6a-abd2-4154-9e30-dccfa9e0dd62]“, sagte er nicht: „Auch ich weiß es nicht\.“ Sondern was? „Auch ich sage es euch nicht\.[^bible-eea7ee6a-abd2-4154-9e30-dccfa9e0dd62]“ Hätten sie es nicht gewusst, hätte man sie belehren müssen; da sie aber böswillig handelten, antwortet er ihnen zu Recht nichts\. Und warum sagten sie nicht, die Taufe sei „von Menschen“? „Sie fürchteten die Volksmengen[^bible-315d03d6-59f8-4143-aa63-e213a871cfb5]“, heißt es\. Siehst du das verdrehte Herz? Überall verachten sie Gott und tun alles nur der Menschen wegen\. Denn auch Johannes fürchteten sie um ihretwillen, nicht aus Ehrfurcht vor Johannes, sondern der Menschen wegen; und auch an Christus wollten sie der Menschen wegen nicht glauben\. Daraus erwuchs ihnen alles Böse\. Dann sagt er: „Was meint ihr? Ein Mensch hatte zwei Söhne und sagte zum ersten: Geh, arbeite heute im Weinberg\. Der aber antwortete: Ich will nicht\. Später aber reute es ihn, und er ging\. Und er trat zu dem zweiten und sagte ebenso\. Der aber antwortete: Ich, Herr\! Und er ging nicht\. Wer von den beiden hat nun den Willen des Vaters getan? Sie sagen: Der erste\.[^bible-558a001b-6225-464b-9985-5b6b7ac058c1]“ Wieder überführt er sie durch Gleichnisse: Er deutet ihre Undankbarkeit an und zugleich den Gehorsam der schwer Verurteilten und Verachteten\. Denn diese beiden Kinder bezeichnen eben das, was auch bei den Heiden und bei den Juden geschehen ist\. Jene hatten nicht versprochen zu hören und waren auch keine Hörer des Gesetzes geworden, zeigten aber durch ihre Werke Gehorsam\. Diese aber sagten: „Alles, was Gott sagt, werden wir tun und hören[^bible-b87a7560-13de-4e19-bb0a-4539bc1269ad]“, und verweigerten durch ihre Werke den Gehorsam\. Damit sie also nicht meinen, das Gesetz nütze ihnen, zeigt er, dass gerade dieses sie verurteilt\. Dasselbe sagt auch Paulus: „Nicht die Hörer des Gesetzes sind gerecht bei Gott, sondern die Täter des Gesetzes werden gerechtfertigt werden\.[^bible-9072a8a5-d7d0-4be0-b9c8-925342ec43f9]“ Darum lässt er, um sie auch von sich selbst verurteilen zu lassen, das Urteil von ihnen selbst aussprechen\. Dasselbe tut er auch im folgenden Gleichnis vom Weinberg\.
+Er deutet hier also nichts von alledem an;
+vielmehr ist es,
+wie ich sagte:
+Er zeigt seine strafende Macht\.
+Und das zeigt er mit den Worten:
+„Denn es war noch nicht die Zeit\.“
+Damit macht er deutlich,
+dass er vor allem zu diesem Zweck gekommen war,
+nicht wegen des Hungers,
+sondern wegen der Jünger,
+die sich sehr wunderten,
+obwohl schon viele größere Zeichen geschehen waren\.
+Doch wie ich sagte:
+Das war etwas Ungewöhnliches;
+denn jetzt zeigte er zum ersten Mal seine strafende Macht\.
+Darum wirkte er das Wunder auch nicht an irgendeiner anderen Pflanze,
+sondern an der feuchtesten von allen,
+damit auch von daher das Wunder umso größer erscheine\.
+Und damit du erkennst,
+dass dies um ihretwillen geschah,
+um sie zur Zuversicht zu stärken,
+höre,
+was er im Folgenden sagt\.
+Was sagt er?
+„Auch ihr werdet Größeres tun,
+wenn ihr glauben und im Gebet Zuversicht haben wollt\.“
+Siehst du,
+dass alles um ihretwillen geschah,
+damit sie vor Anschlägen keine Angst haben und nicht zittern?
+Darum sagt er dies auch ein zweites Mal und bindet sie fest an Gebet und Glauben\.
+Denn nicht nur dies werdet ihr tun,
+sagt er,
+sondern ihr werdet auch Berge versetzen und noch vieles andere tun,
+zuversichtlich im Glauben und im Gebet\.
+Die anmaßenden und aufgeblasenen Juden aber wollten seine Lehre unterbrechen,
+traten hinzu und fragten:
+„In welcher Vollmacht tust du das?“
+Weil sie nämlich an den Zeichen nichts auszusetzen fanden,
+bringen sie gegen ihn die Zurechtweisung derer vor,
+die im Tempel Handel trieben\.
+Eben dies scheinen sie auch bei Johannes zu fragen,
+wenn auch nicht mit denselben Worten,
+so doch mit derselben Absicht\.
+Denn auch dort sagen sie:
+„Welches Zeichen zeigst du uns,
+dass du dies tust?[^bible-f264630e-9f22-4ea8-9635-4181453540ea]“ Dort aber antwortet er ihnen:
+„Brecht diesen Tempel ab,
+und ich werde ihn in drei Tagen aufrichten\.[^bible-6e6307b2-b56f-4e89-b090-1ac8dd169d74]“ Hier dagegen bringt er sie in Verlegenheit\.
+Daraus ist klar:
+Damals war es Anfang und Vorspiel der Wunder,
+hier aber der Abschluss\.
+Was sie sagen,
+bedeutet dies:
+Hast du den Lehrsitz empfangen?
+Bist du zum Priester geweiht worden,
+dass du eine solche Vollmacht gezeigt hast?
+Und doch hatte er nichts getan,
+was Anmaßung an sich hatte,
+sondern für die Ordnung des Tempels gesorgt\.
+Aber obwohl sie nichts zu sagen haben,
+greifen sie ihn damit an\.
+Als er sie hinaustrieb,
+wagten sie wegen der Wunder nichts zu sagen;
+als sie ihn aber sahen,
+da fahren sie ihn an\.
+Was tut nun er?
+Er antwortet ihnen nicht geradeheraus und zeigt damit:
+Wenn sie seine Vollmacht hätten sehen wollen,
+hätten sie es gekonnt\.
+Stattdessen stellt er ihnen eine Gegenfrage:
+„Woher war die Taufe des Johannes?
+Vom Himmel oder von Menschen?[^bible-dbf63cf1-62e0-4fe1-8dcd-93bb8affedd6]“ Und welcher Zusammenhang liegt darin?
+Ein sehr großer\.
+Denn wenn sie gesagt hätten:
+„Vom Himmel“,
+hätte er ihnen gesagt:
+„Warum habt ihr ihm dann nicht geglaubt?[^bible-dbf63cf1-62e0-4fe1-8dcd-93bb8affedd6]“ Hätten sie nämlich Johannes geglaubt,
+hätten sie das nicht gefragt\.
+Denn über ihn hatte jener gesagt:
+„Ich bin nicht würdig,
+den Riemen seiner Sandale zu lösen\.[^bible-4d9b2325-5f0d-4f0b-8829-c3359dabbc6e]“ Und:
+„Siehe,
+das Lamm Gottes,
+das die Sünde der Welt trägt\.[^bible-1b6c1258-a451-45b5-9d72-89f880f0b2eb]“ Und:
+„Dieser ist der Sohn Gottes\.[^bible-a7039c62-bd41-44bd-8f8d-504af706ff64]“ Und:
+„Der von oben kommt,
+ist über allen\.[^bible-7f583c28-5138-4745-aba7-4da021c36d6c]“ Und:
+„Die Worfschaufel ist in seiner Hand,
+und er wird seine Tenne gründlich reinigen\.[^bible-500bfc6f-1cda-48db-a963-608e96a27744]“ Wenn sie also jenem geglaubt hätten,
+hätte sie nichts daran gehindert zu wissen,
+in welcher Vollmacht er dies tut\.
+Als sie dann in böser Absicht sagten:
+„Wir wissen es nicht[^bible-eea7ee6a-abd2-4154-9e30-dccfa9e0dd62]“,
+sagte er nicht:
+„Auch ich weiß es nicht\.“
+Sondern was?
+„Auch ich sage es euch nicht\.[^bible-eea7ee6a-abd2-4154-9e30-dccfa9e0dd62]“ Hätten sie es nicht gewusst,
+hätte man sie belehren müssen;
+da sie aber böswillig handelten,
+antwortet er ihnen zu Recht nichts\.
+Und warum sagten sie nicht,
+die Taufe sei „von Menschen“?
+„Sie fürchteten die Volksmengen[^bible-315d03d6-59f8-4143-aa63-e213a871cfb5]“,
+heißt es\.
+Siehst du das verdrehte Herz?
+Überall verachten sie Gott und tun alles nur der Menschen wegen\.
+Denn auch Johannes fürchteten sie um ihretwillen,
+nicht aus Ehrfurcht vor Johannes,
+sondern der Menschen wegen;
+und auch an Christus wollten sie der Menschen wegen nicht glauben\.
+Daraus erwuchs ihnen alles Böse\.
+Dann sagt er:
+„Was meint ihr?
+Ein Mensch hatte zwei Söhne und sagte zum ersten:
+Geh,
+arbeite heute im Weinberg\.
+Der aber antwortete:
+Ich will nicht\.
+Später aber reute es ihn,
+und er ging\.
+Und er trat zu dem zweiten und sagte ebenso\.
+Der aber antwortete:
+Ich,
+Herr\!
+Und er ging nicht\.
+Wer von den beiden hat nun den Willen des Vaters getan?
+Sie sagen:
+Der erste\.[^bible-558a001b-6225-464b-9985-5b6b7ac058c1]“ Wieder überführt er sie durch Gleichnisse:
+Er deutet ihre Undankbarkeit an und zugleich den Gehorsam der schwer Verurteilten und Verachteten\.
+Denn diese beiden Kinder bezeichnen eben das,
+was auch bei den Heiden und bei den Juden geschehen ist\.
+Jene hatten nicht versprochen zu hören und waren auch keine Hörer des Gesetzes geworden,
+zeigten aber durch ihre Werke Gehorsam\.
+Diese aber sagten:
+„Alles,
+was Gott sagt,
+werden wir tun und hören[^bible-b87a7560-13de-4e19-bb0a-4539bc1269ad]“,
+und verweigerten durch ihre Werke den Gehorsam\.
+Damit sie also nicht meinen,
+das Gesetz nütze ihnen,
+zeigt er,
+dass gerade dieses sie verurteilt\.
+Dasselbe sagt auch Paulus:
+„Nicht die Hörer des Gesetzes sind gerecht bei Gott,
+sondern die Täter des Gesetzes werden gerechtfertigt werden\.[^bible-9072a8a5-d7d0-4be0-b9c8-925342ec43f9]“ Darum lässt er,
+um sie auch von sich selbst verurteilen zu lassen,
+das Urteil von ihnen selbst aussprechen\.
+Dasselbe tut er auch im folgenden Gleichnis vom Weinberg\.
 
 ## Bibelverweise
 

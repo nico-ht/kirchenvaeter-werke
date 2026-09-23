@@ -7,6 +7,64 @@ Autor: Minucius Felix
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/minucius-felix/octavius#kapitel-7bdaf29a-d86e-451f-3730-08df04f3eaa6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:bdb56fc9e7129bb44d4066e82709d3f64d3f426670f7d64df9aa483845939cea`
-
-Vieles übergehe ich absichtlich, denn schon das Erwähnte ist mehr als genug\. Dass all dies oder zumindest der größte Teil davon wahr ist, zeigt schon das Dunkel, in das sie ihre abscheuliche Religion hüllen\. Denn warum bemühen sie sich so sehr, alles zu verbergen und zu verschleiern, was sie anbeten? Ehrenhaftes sucht stets die Öffentlichkeit, Verbrechen dagegen werden geheim gehalten\. Warum haben sie keine Altäre, keine Tempel, keine öffentlich anerkannten Abbilder? 1 Warum sprechen sie niemals offen und versammeln sich niemals frei? Doch wohl nur, weil das, was sie anbeten und verbergen, entweder Strafe verdient oder Grund zur Scham bietet\. Und woher kommt dieser eine Gott, wer ist er, wo ist er, dieser einsame, verlassene Gott, den kein freies Volk, kein Königreich und nicht einmal der römische Aberglaube kennt? Das abgeschiedene und elende Volk der Juden verehrt einen einzigen Gott, einen Gott ganz für sich allein\. Doch es verehrt ihn offen, mit Tempeln, Altären, Opfern und Zeremonien\. Dabei besitzt er so wenig Kraft und Macht, dass er mitsamt seinem eigenen Volk den römischen Gottheiten als Sklave dient\. Und die Christen erst\! Was für Wunder, was für Ungeheuerlichkeiten erdichten sie\! Ihr Gott, den sie weder zeigen noch sehen können, so behaupten sie, erforsche gewissenhaft den Charakter und die Taten aller, ja selbst ihre Worte und geheimen Gedanken\. Er laufe überall umher und sei überall gegenwärtig\. Damit machen sie ihn zu einem lästigen, ruhelosen, ja schamlos neugierigen Wesen: Er sei bei allem zugegen, was geschieht, und streife überall ein und aus, obwohl er, wenn er sich mit dem Ganzen beschäftigt, nicht auf das Einzelne achten kann und umgekehrt dem Ganzen nicht genügen kann, solange er mit dem Einzelnen beschäftigt ist\. Und weil sie der ganzen Welt, ja dem Universum selbst samt allen Sternen, einen Feuerbrand androhen, trachten sie da etwa nach seiner Vernichtung? Als könnte die ewige, durch die göttlichen Naturgesetze begründete Ordnung erschüttert, der Bund aller Elemente aufgelöst, das Himmelsgebäude zum Einsturz gebracht und jenes Gefüge umgestürzt werden, in dem es enthalten und zusammengebunden ist 2\. 3
+Vieles übergehe ich absichtlich,
+denn schon das Erwähnte ist mehr als genug\.
+Dass all dies oder zumindest der größte Teil davon wahr ist,
+zeigt schon das Dunkel,
+in das sie ihre abscheuliche Religion hüllen\.
+Denn warum bemühen sie sich so sehr,
+alles zu verbergen und zu verschleiern,
+was sie anbeten?
+Ehrenhaftes sucht stets die Öffentlichkeit,
+Verbrechen dagegen werden geheim gehalten\.
+Warum haben sie keine Altäre,
+keine Tempel,
+keine öffentlich anerkannten Abbilder?
+1 Warum sprechen sie niemals offen und versammeln sich niemals frei?
+Doch wohl nur,
+weil das,
+was sie anbeten und verbergen,
+entweder Strafe verdient oder Grund zur Scham bietet\.
+Und woher kommt dieser eine Gott,
+wer ist er,
+wo ist er,
+dieser einsame,
+verlassene Gott,
+den kein freies Volk,
+kein Königreich und nicht einmal der römische Aberglaube kennt?
+Das abgeschiedene und elende Volk der Juden verehrt einen einzigen Gott,
+einen Gott ganz für sich allein\.
+Doch es verehrt ihn offen,
+mit Tempeln,
+Altären,
+Opfern und Zeremonien\.
+Dabei besitzt er so wenig Kraft und Macht,
+dass er mitsamt seinem eigenen Volk den römischen Gottheiten als Sklave dient\.
+Und die Christen erst\!
+Was für Wunder,
+was für Ungeheuerlichkeiten erdichten sie\!
+Ihr Gott,
+den sie weder zeigen noch sehen können,
+so behaupten sie,
+erforsche gewissenhaft den Charakter und die Taten aller,
+ja selbst ihre Worte und geheimen Gedanken\.
+Er laufe überall umher und sei überall gegenwärtig\.
+Damit machen sie ihn zu einem lästigen,
+ruhelosen,
+ja schamlos neugierigen Wesen:
+Er sei bei allem zugegen,
+was geschieht,
+und streife überall ein und aus,
+obwohl er,
+wenn er sich mit dem Ganzen beschäftigt,
+nicht auf das Einzelne achten kann und umgekehrt dem Ganzen nicht genügen kann,
+solange er mit dem Einzelnen beschäftigt ist\.
+Und weil sie der ganzen Welt,
+ja dem Universum selbst samt allen Sternen,
+einen Feuerbrand androhen,
+trachten sie da etwa nach seiner Vernichtung?
+Als könnte die ewige,
+durch die göttlichen Naturgesetze begründete Ordnung erschüttert,
+der Bund aller Elemente aufgelöst,
+das Himmelsgebäude zum Einsturz gebracht und jenes Gefüge umgestürzt werden,
+in dem es enthalten und zusammengebunden ist 2\. 3

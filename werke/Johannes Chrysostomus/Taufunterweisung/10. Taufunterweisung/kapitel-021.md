@@ -7,6 +7,23 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/10-taufunterweisung#kapitel-f1b08a3e-db98-4cdf-0f26-08ddf11fefb2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:80db99275752125626c5485cc1681d1a10b9c96a48770232fd2f678274830d7c`
-
-Und damit ihr erkennt, dass es so ist und dass sich mancher — nicht nur, wenn er seinen Eid gebrochen hat, sondern sogar, wenn er ihn hält — oft strafbar gemacht hat, will ich euch die folgende Geschichte erzählen\. Herodes richtete einst ein Geburtstagsmahl aus und beging den Jahrestag seiner Geburt\. Um diesen Tag glänzend zu machen, ließ er die Tochter der Königin zum Tanz auftreten\. Ihm war jedoch nicht bewusst, dass er damit den Tag nicht schmückte, sondern ihn entwürdigte\. An diesem Tag hätte er Gott in seiner liebenden Güte danken sollen, weil er ihn aus dem Nichts erschaffen hat, weil er ihm eine Seele gegeben hat, weil er ihn in dieses heilige Welttheater hineingestellt hat, weil er ihn zum Zuschauer dieser schönsten und wunderbarsten Schöpfung gemacht hat\. Er hätte den Tag mit Hymnen und Dank dem Herrn gegenüber ehren sollen, doch er ehrte ihn mit Unehre\. Denn was ist schändlicher als das Tanzen?
+Und damit ihr erkennt,
+dass es so ist und dass sich mancher — nicht nur,
+wenn er seinen Eid gebrochen hat,
+sondern sogar,
+wenn er ihn hält — oft strafbar gemacht hat,
+will ich euch die folgende Geschichte erzählen\.
+Herodes richtete einst ein Geburtstagsmahl aus und beging den Jahrestag seiner Geburt\.
+Um diesen Tag glänzend zu machen,
+ließ er die Tochter der Königin zum Tanz auftreten\.
+Ihm war jedoch nicht bewusst,
+dass er damit den Tag nicht schmückte,
+sondern ihn entwürdigte\.
+An diesem Tag hätte er Gott in seiner liebenden Güte danken sollen,
+weil er ihn aus dem Nichts erschaffen hat,
+weil er ihm eine Seele gegeben hat,
+weil er ihn in dieses heilige Welttheater hineingestellt hat,
+weil er ihn zum Zuschauer dieser schönsten und wunderbarsten Schöpfung gemacht hat\.
+Er hätte den Tag mit Hymnen und Dank dem Herrn gegenüber ehren sollen,
+doch er ehrte ihn mit Unehre\.
+Denn was ist schändlicher als das Tanzen?

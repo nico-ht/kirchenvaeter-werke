@@ -7,9 +7,151 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/21-homilie-ueber-matthaeus#kapitel-5943b451-efe7-4fdd-5a8e-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3080167883936ef10acf35a4bd795563a85f5bb2241085f9a91f066c2a23d034`
-
-Niemand kann zwei Herren dienen; denn entweder wird er den einen hassen und den anderen lieben, oder er wird sich an den einen halten und den anderen verachten\.[^bible-363deea1-75fd-42fa-af4e-bab8b3a93d8e]Siehst du, wie er uns Schritt für Schritt von dem löst, was wir besitzen, wie er auf vielfache Weise die Rede von der Besitzlosigkeit einführt und die Tyrannei der Geldgier niederwirft? Denn er begnügte sich nicht mit dem Vorangegangenen, obwohl es viel und groß war, sondern fügt noch anderes hinzu, mehr und Furchtbareres\. Was wäre denn furchtbarer als das jetzt Gesagte, wenn wir um des Geldes willen aus dem Dienst Christi herausfallen sollten? Und was wäre begehrenswerter, wenn wir durch Verachtung des Geldes ihm gegenüber ungeteilte Zuneigung und Liebe haben sollten? Denn was ich immer sage, das werde ich auch jetzt sagen: Er treibt den Hörer auf beiderlei Weise zum Gehorsam gegen das Gesagte, durch das Nützliche ebenso wie durch das Schädliche, wie ein vortrefflicher Arzt, der sowohl die Krankheit zeigt, die aus Unachtsamkeit entsteht, als auch die Gesundheit, die aus Gehorsam kommt\. Sieh also, was für einen Gewinn er auch hier wieder zeigt und wie er den Nutzen daraus erweist, dass man von den Gegensätzen frei wird\. Denn nicht nur darin schadet euch der Reichtum, sagt er, dass er Räuber gegen euch bewaffnet, auch nicht nur darin, dass er den Verstand mit aller Gewalt verfinstert, sondern auch darin, dass er euch aus dem Dienst Gottes herausstößt, euch zu Gefangenen leblosen Geldes macht und euch von beiden Seiten schadet: Er macht euch zu Sklaven dessen, worüber ihr herrschen solltet, und stößt euch aus dem Dienst Gottes heraus, dem ihr vor allem dienen müsst\. Wie er nämlich dort einen doppelten Schaden zeigte: dass man hier sammelt, wo die Motte vernichtet, und dort nicht sammelt, wo die Aufbewahrung unangreifbar ist, so zeigt er auch hier einen doppelten Verlust: dadurch, dass der Reichtum euch von Gott wegzieht, und dadurch, dass er euch dem Mammon unterwirft\. Doch stellt er das nicht sofort so hin, sondern begründet es zuerst aus allgemeinen Überlegungen und sagt so: „Niemand kann zwei Herren dienen\.[^bible-363deea1-75fd-42fa-af4e-bab8b3a93d8e]“ Mit „zwei“ meint er hier solche, die Gegensätzliches befehlen\. Denn wenn das nicht der Fall wäre, wären sie auch nicht zwei\. Denn auch „die Menge der Gläubigen hatte ein Herz und eine Seele[^bible-4c20b2f9-cdf4-46ca-abe2-de349dfcf0bb]“; obwohl sie auf viele Körper verteilt waren, machte die Einmütigkeit die vielen dennoch zu einem\. Dann verschärft er es und sagt: Er wird nicht nur nicht dienen, sondern auch hassen und sich abwenden\. „Denn entweder wird er den einen hassen und den anderen lieben, oder er wird sich an den einen halten und den anderen verachten\.[^bible-363deea1-75fd-42fa-af4e-bab8b3a93d8e]“ Zwar scheint damit zum zweiten Mal dasselbe gesagt zu sein; doch hat er es nicht einfach so zusammengefügt, sondern um zu zeigen, dass der Wechsel zum Besseren leicht ist\. Damit du nämlich nicht sagst: „Einmal bin ich versklavt worden, ich bin vom Geld tyrannisiert worden“, zeigt er, dass man die Seite wechseln kann: wie man von dort hierher gekommen ist, so kann man auch von hier dorthin gehen\. Nachdem er also unbestimmt gesprochen hatte, um den Hörer dazu zu bringen, ein unbestechlicher Richter über das Gesagte zu werden und sein Urteil aus der Natur der Dinge selbst zu fällen, legt er erst, als er ihn zustimmen sieht, die eigene Anwendung offen\. Er fügte also hinzu: „Ihr könnt nicht Gott dienen und dem Mammon\.[^bible-363deea1-75fd-42fa-af4e-bab8b3a93d8e]“ Erschauern wir, wenn wir bedenken, was wir Christus zu sagen veranlasst haben: dass er das Gold neben Gott stellte\. Wenn aber schon das furchtbar ist, dann ist es noch viel furchtbarer, dies durch unsere Taten Wirklichkeit werden zu lassen und die Tyrannei des Goldes der Furcht Gottes vorzuziehen\. Was also? War das bei den Alten nicht möglich? Keineswegs\. Wie also, sagt man, hatte Abraham Erfolg, wie Ijob? Nenne mir nicht die Reichen, sondern die, die dienen\. Denn auch Ijob war reich; aber er diente nicht dem Mammon, sondern besaß ihn und beherrschte ihn, und er war Herr, nicht Sklave\. Wie ein Verwalter fremden Geldes besaß er alles, was er hatte: Er raubte nicht nur nicht das Eigentum anderer, sondern gab auch das eigene den Bedürftigen hin\. Und das Größere ist: Er freute sich nicht einmal, wenn es vorhanden war\. Das machte er auch deutlich, als er sagte: „Wenn ich mich auch freute, weil mir großer Reichtum zuteilwurde[^bible-15f20433-8ff0-432a-bd4f-3e724eddeab8]“; deshalb litt er auch nicht, als er den Reichtum verlor\. Heute aber sind die Reichen nicht so; sie sind schlimmer daran als jeder Sklave und zahlen wie einem harten Tyrannen Abgaben\. Denn die Liebe zum Geld hat ihren Verstand wie eine Burg besetzt und schickt ihnen von dort jeden Tag Befehle, die von jeder Gesetzlosigkeit voll sind; und keiner widersetzt sich\. Treibe also keine überflüssigen Spitzfindigkeiten\. Denn Gott hat ein für alle Mal entschieden und gesagt, dass dieser Dienst und jener Dienst nicht zusammen möglich sind\. Sage du also nicht, es sei möglich\. Denn wenn der eine befiehlt zu rauben, der andere aber, sich von allem Besitz zu lösen; der eine, Unzucht zu treiben, der andere aber, besonnen zu leben; der eine, sich zu betrinken und üppig zu leben, der andere aber, den Bauch zu zügeln; der eine, am Gegenwärtigen festgenagelt zu sein, der andere aber, auf Besitz herabzusehen; der eine, Marmor, Mauern und Decken zu bewundern, der andere aber, dies geringzuachten und das tugendhafte Leben zu ehren: Wie kann das zusammengehen?
+Niemand kann zwei Herren dienen;
+denn entweder wird er den einen hassen und den anderen lieben,
+oder er wird sich an den einen halten und den anderen verachten\.[^bible-363deea1-75fd-42fa-af4e-bab8b3a93d8e]Siehst du,
+wie er uns Schritt für Schritt von dem löst,
+was wir besitzen,
+wie er auf vielfache Weise die Rede von der Besitzlosigkeit einführt und die Tyrannei der Geldgier niederwirft?
+Denn er begnügte sich nicht mit dem Vorangegangenen,
+obwohl es viel und groß war,
+sondern fügt noch anderes hinzu,
+mehr und Furchtbareres\.
+Was wäre denn furchtbarer als das jetzt Gesagte,
+wenn wir um des Geldes willen aus dem Dienst Christi herausfallen sollten?
+Und was wäre begehrenswerter,
+wenn wir durch Verachtung des Geldes ihm gegenüber ungeteilte Zuneigung und Liebe haben sollten?
+Denn was ich immer sage,
+das werde ich auch jetzt sagen:
+Er treibt den Hörer auf beiderlei Weise zum Gehorsam gegen das Gesagte,
+durch das Nützliche ebenso wie durch das Schädliche,
+wie ein vortrefflicher Arzt,
+der sowohl die Krankheit zeigt,
+die aus Unachtsamkeit entsteht,
+als auch die Gesundheit,
+die aus Gehorsam kommt\.
+Sieh also,
+was für einen Gewinn er auch hier wieder zeigt und wie er den Nutzen daraus erweist,
+dass man von den Gegensätzen frei wird\.
+Denn nicht nur darin schadet euch der Reichtum,
+sagt er,
+dass er Räuber gegen euch bewaffnet,
+auch nicht nur darin,
+dass er den Verstand mit aller Gewalt verfinstert,
+sondern auch darin,
+dass er euch aus dem Dienst Gottes herausstößt,
+euch zu Gefangenen leblosen Geldes macht und euch von beiden Seiten schadet:
+Er macht euch zu Sklaven dessen,
+worüber ihr herrschen solltet,
+und stößt euch aus dem Dienst Gottes heraus,
+dem ihr vor allem dienen müsst\.
+Wie er nämlich dort einen doppelten Schaden zeigte:
+dass man hier sammelt,
+wo die Motte vernichtet,
+und dort nicht sammelt,
+wo die Aufbewahrung unangreifbar ist,
+so zeigt er auch hier einen doppelten Verlust:
+dadurch,
+dass der Reichtum euch von Gott wegzieht,
+und dadurch,
+dass er euch dem Mammon unterwirft\.
+Doch stellt er das nicht sofort so hin,
+sondern begründet es zuerst aus allgemeinen Überlegungen und sagt so:
+„Niemand kann zwei Herren dienen\.[^bible-363deea1-75fd-42fa-af4e-bab8b3a93d8e]“ Mit „zwei“ meint er hier solche,
+die Gegensätzliches befehlen\.
+Denn wenn das nicht der Fall wäre,
+wären sie auch nicht zwei\.
+Denn auch „die Menge der Gläubigen hatte ein Herz und eine Seele[^bible-4c20b2f9-cdf4-46ca-abe2-de349dfcf0bb]“;
+obwohl sie auf viele Körper verteilt waren,
+machte die Einmütigkeit die vielen dennoch zu einem\.
+Dann verschärft er es und sagt:
+Er wird nicht nur nicht dienen,
+sondern auch hassen und sich abwenden\.
+„Denn entweder wird er den einen hassen und den anderen lieben,
+oder er wird sich an den einen halten und den anderen verachten\.[^bible-363deea1-75fd-42fa-af4e-bab8b3a93d8e]“ Zwar scheint damit zum zweiten Mal dasselbe gesagt zu sein;
+doch hat er es nicht einfach so zusammengefügt,
+sondern um zu zeigen,
+dass der Wechsel zum Besseren leicht ist\.
+Damit du nämlich nicht sagst:
+„Einmal bin ich versklavt worden,
+ich bin vom Geld tyrannisiert worden“,
+zeigt er,
+dass man die Seite wechseln kann:
+wie man von dort hierher gekommen ist,
+so kann man auch von hier dorthin gehen\.
+Nachdem er also unbestimmt gesprochen hatte,
+um den Hörer dazu zu bringen,
+ein unbestechlicher Richter über das Gesagte zu werden und sein Urteil aus der Natur der Dinge selbst zu fällen,
+legt er erst,
+als er ihn zustimmen sieht,
+die eigene Anwendung offen\.
+Er fügte also hinzu:
+„Ihr könnt nicht Gott dienen und dem Mammon\.[^bible-363deea1-75fd-42fa-af4e-bab8b3a93d8e]“ Erschauern wir,
+wenn wir bedenken,
+was wir Christus zu sagen veranlasst haben:
+dass er das Gold neben Gott stellte\.
+Wenn aber schon das furchtbar ist,
+dann ist es noch viel furchtbarer,
+dies durch unsere Taten Wirklichkeit werden zu lassen und die Tyrannei des Goldes der Furcht Gottes vorzuziehen\.
+Was also?
+War das bei den Alten nicht möglich?
+Keineswegs\.
+Wie also,
+sagt man,
+hatte Abraham Erfolg,
+wie Ijob?
+Nenne mir nicht die Reichen,
+sondern die,
+die dienen\.
+Denn auch Ijob war reich;
+aber er diente nicht dem Mammon,
+sondern besaß ihn und beherrschte ihn,
+und er war Herr,
+nicht Sklave\.
+Wie ein Verwalter fremden Geldes besaß er alles,
+was er hatte:
+Er raubte nicht nur nicht das Eigentum anderer,
+sondern gab auch das eigene den Bedürftigen hin\.
+Und das Größere ist:
+Er freute sich nicht einmal,
+wenn es vorhanden war\.
+Das machte er auch deutlich,
+als er sagte:
+„Wenn ich mich auch freute,
+weil mir großer Reichtum zuteilwurde[^bible-15f20433-8ff0-432a-bd4f-3e724eddeab8]“;
+deshalb litt er auch nicht,
+als er den Reichtum verlor\.
+Heute aber sind die Reichen nicht so;
+sie sind schlimmer daran als jeder Sklave und zahlen wie einem harten Tyrannen Abgaben\.
+Denn die Liebe zum Geld hat ihren Verstand wie eine Burg besetzt und schickt ihnen von dort jeden Tag Befehle,
+die von jeder Gesetzlosigkeit voll sind;
+und keiner widersetzt sich\.
+Treibe also keine überflüssigen Spitzfindigkeiten\.
+Denn Gott hat ein für alle Mal entschieden und gesagt,
+dass dieser Dienst und jener Dienst nicht zusammen möglich sind\.
+Sage du also nicht,
+es sei möglich\.
+Denn wenn der eine befiehlt zu rauben,
+der andere aber,
+sich von allem Besitz zu lösen;
+der eine,
+Unzucht zu treiben,
+der andere aber,
+besonnen zu leben;
+der eine,
+sich zu betrinken und üppig zu leben,
+der andere aber,
+den Bauch zu zügeln;
+der eine,
+am Gegenwärtigen festgenagelt zu sein,
+der andere aber,
+auf Besitz herabzusehen;
+der eine,
+Marmor,
+Mauern und Decken zu bewundern,
+der andere aber,
+dies geringzuachten und das tugendhafte Leben zu ehren:
+Wie kann das zusammengehen?
 
 ## Bibelverweise
 

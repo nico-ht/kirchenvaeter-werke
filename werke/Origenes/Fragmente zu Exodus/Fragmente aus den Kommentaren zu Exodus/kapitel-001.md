@@ -7,21 +7,524 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/fragmente-aus-den-kommentaren-zu-exodus#kapitel-afc05399-1d1c-499f-57d3-08de5b572cf0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:2b20be3a3fd2fd5595ee9dfc028abcfa97bb264dbd5c3872ec869d5f252f141e`
+„Aber der Herr verhärtete das Herz des Pharao,
+und er wollte sie nicht aussenden\.“[^bible-ad117d31-449d-4814-9075-b6de77a1a506]
+Dieser Satz steht oft im Exodus:
+„Der Herr verhärtete das Herz des Pharao“ und „Ich werde das Herz des Pharao verhärten“[^bible-831350de-4dce-4e38-b837-04b609e677df]\.
+Das bringt fast jeden,
+der darauf stößt,
+völlig aus der Fassung – Ungläubige genauso wie die,
+die behaupten zu glauben\!
+Für die Ungläubigen ist das nämlich,
+neben vielem anderen,
+ein Grund für ihren Unglauben\.
+Sie sagen:
+"Hier werden Dinge über Gott behauptet,
+die Gottes unwürdig sind\.
+Es ist doch Gottes unwürdig,
+irgendein Herz zu verhärten\!
+Und noch dazu eine Verhärtung zu bewirken,
+damit man sich dem Willen dessen widersetzt,
+der verhärtet\.
+Sie fragen:
+Wie soll das nicht absurd sein?
+Gott wirkt auf jemanden ein,
+damit derjenige seinem eigenen Willen ungehorsam ist?
+Es ist doch offensichtlich:
+Diese Worte erwecken den Anschein,
+als wolle er gar nicht,
+dass der Pharao gehorcht und seine Befehle ausführt\."
+Aber auch bei denen,
+die als gläubig gelten,
+ist ein gewaltiger Streit ausgebrochen,
+und zwar genau wegen diesem Satz:
+„Der Herr verhärtete das Herz des Pharao\.“[^bible-30a5974a-bb3d-47f6-8b8a-58614c48497c]
+Die einen sind überzeugt,
+dass es keinen anderen Gott gibt als den Schöpfer\.
+Aber sie denken,
+Gott handelt wie beim Würfeln:
+Wen er will,
+dem ist er gnädig,
+und wen er will,
+den verhärtet er – einfach so,
+per Losentscheid\!
+Ohne dass es im Menschen selbst einen Grund gäbe,
+warum der eine Erbarmen findet und der andere von ihm verhärtet wird\.
+Andere stellen sich geschickter an als diese Leute\.
+Sie sagen:
+"In der Schrift sind viele Gedanken verborgen,
+die wir noch nicht verstehen\."
+Deswegen werfen sie aber nicht gleich den gesunden Glauben über Bord\!
+Sie sagen einfach:
+"Auch der wahre Sinn dieser Schriftstelle gehört zu den verborgenen Dingen\."
+Wieder andere faseln von einem zweiten Gott neben dem Schöpfer\.
+Sie wollen,
+dass der Schöpfer zwar gerecht ist,
+aber nicht gut\.
+Damit zeigen sie sich als absolute Stümper und zugleich als Gottlose\!
+Sie lassen sich dazu hinreißen,
+Gerechtigkeit von Güte zu trennen\.
+Sie bilden sich tatsächlich ein,
+es könne Gerechtigkeit geben ohne Güte oder Güte ohne Gerechtigkeit\.
+Aber selbst mit diesem Gerede widersprechen sie ihrer eigenen Annahme über einen „gerechten“ Gott,
+wenn sie zugeben,
+dass er das Herz des Pharao verhärtet und ihn dazu bringt,
+ihm ungehorsam zu sein\.
+Denn wenn derjenige gerecht ist,
+der jedem das gibt,
+was er verdient,
+und der jedem das zuteilt,
+was ihm zusteht – je nachdem,
+ob er sich aus eigener Ursache zum Besseren oder Schlechteren gewendet hat –,
+wie kann der dann gerecht sein?
+Er wäre ja selbst die Ursache für die schlimmere Sünde des Pharao\!
+Und nicht nur einfach Ursache:
+Nach ihrer eigenen Auslegung hätte er aktiv daran mitgewirkt,
+dass dieser Mensch zum ungerechtesten aller Menschen wurde\.
 
-„Aber der Herr verhärtete das Herz des Pharao, und er wollte sie nicht aussenden\.“[^bible-ad117d31-449d-4814-9075-b6de77a1a506] Dieser Satz steht oft im Exodus: „Der Herr verhärtete das Herz des Pharao“ und „Ich werde das Herz des Pharao verhärten“[^bible-831350de-4dce-4e38-b837-04b609e677df]\. Das bringt fast jeden, der darauf stößt, völlig aus der Fassung – Ungläubige genauso wie die, die behaupten zu glauben\! Für die Ungläubigen ist das nämlich, neben vielem anderen, ein Grund für ihren Unglauben\. Sie sagen: "Hier werden Dinge über Gott behauptet, die Gottes unwürdig sind\. Es ist doch Gottes unwürdig, irgendein Herz zu verhärten\! Und noch dazu eine Verhärtung zu bewirken, damit man sich dem Willen dessen widersetzt, der verhärtet\. Sie fragen: Wie soll das nicht absurd sein? Gott wirkt auf jemanden ein, damit derjenige seinem eigenen Willen ungehorsam ist? Es ist doch offensichtlich: Diese Worte erwecken den Anschein, als wolle er gar nicht, dass der Pharao gehorcht und seine Befehle ausführt\." Aber auch bei denen, die als gläubig gelten, ist ein gewaltiger Streit ausgebrochen, und zwar genau wegen diesem Satz: „Der Herr verhärtete das Herz des Pharao\.“[^bible-30a5974a-bb3d-47f6-8b8a-58614c48497c] Die einen sind überzeugt, dass es keinen anderen Gott gibt als den Schöpfer\. Aber sie denken, Gott handelt wie beim Würfeln: Wen er will, dem ist er gnädig, und wen er will, den verhärtet er – einfach so, per Losentscheid\! Ohne dass es im Menschen selbst einen Grund gäbe, warum der eine Erbarmen findet und der andere von ihm verhärtet wird\. Andere stellen sich geschickter an als diese Leute\. Sie sagen: "In der Schrift sind viele Gedanken verborgen, die wir noch nicht verstehen\." Deswegen werfen sie aber nicht gleich den gesunden Glauben über Bord\! Sie sagen einfach: "Auch der wahre Sinn dieser Schriftstelle gehört zu den verborgenen Dingen\." Wieder andere faseln von einem zweiten Gott neben dem Schöpfer\. Sie wollen, dass der Schöpfer zwar gerecht ist, aber nicht gut\. Damit zeigen sie sich als absolute Stümper und zugleich als Gottlose\! Sie lassen sich dazu hinreißen, Gerechtigkeit von Güte zu trennen\. Sie bilden sich tatsächlich ein, es könne Gerechtigkeit geben ohne Güte oder Güte ohne Gerechtigkeit\. Aber selbst mit diesem Gerede widersprechen sie ihrer eigenen Annahme über einen „gerechten“ Gott, wenn sie zugeben, dass er das Herz des Pharao verhärtet und ihn dazu bringt, ihm ungehorsam zu sein\. Denn wenn derjenige gerecht ist, der jedem das gibt, was er verdient, und der jedem das zuteilt, was ihm zusteht – je nachdem, ob er sich aus eigener Ursache zum Besseren oder Schlechteren gewendet hat –, wie kann der dann gerecht sein? Er wäre ja selbst die Ursache für die schlimmere Sünde des Pharao\! Und nicht nur einfach Ursache: Nach ihrer eigenen Auslegung hätte er aktiv daran mitgewirkt, dass dieser Mensch zum ungerechtesten aller Menschen wurde\.
+Sie bringen rein gar nichts vor,
+das einer bewussten Entscheidung eines gerechten Gottes würdig wäre,
+wenn es um die Verhärtung des Herzens des Pharao geht\.
+Ich habe keine Ahnung,
+wie sie einen gerechten Gott präsentieren wollen – selbst wenn sie es noch so sehr wollen,
+wie ihr sagt –,
+der das Herz des Pharao verhärtet\.
+Deswegen müssen wir sie an genau dieser Stelle in die Mangel nehmen\!
+Sie sollen entweder darlegen,
+wie bitteschön ein Gerechter verhärtet,
+oder sie sollen den Mut aufbringen zu sagen:
+"Weil er verhärtet,
+ist der Schöpfer böse\."
+Oder aber,
+wenn ihnen die Beweise fehlen,
+dass der Gerechte jemanden verhärten kann,
+und sie sich gleichzeitig nicht trauen,
+eine so gewaltige Gottlosigkeit auszustoßen und den Schöpfer als böse zu bezeichnen,
+dann sollen sie gefälligst auf einen anderen Weg ausweichen\!
+Einen Weg,
+der erklärt,
+was „Der Herr verhärtete das Herz des Pharao“[^bible-06b6d9e5-83fd-49e5-a3e8-73ac2ed99375] wirklich bedeutet\.
+Sie müssen aufhören,
+an der buchstäblichen Bedeutung der Worte zu kleben,
+und damit aufhören,
+ihre eigenen Vorstellungen über einen gerechten Gott zu vernichten\.
+Und als allerletztes:
+Selbst wenn sie zugeben müssen,
+dass sie ratlos sind,
+was das Wort hier eigentlich sagen will – dieses ganze Gerede,
+das Gott hier in diesem Problembereich angreift,
+soll zerfetzt und verworfen werden\!
+Aber kommen wir zum Thema „Natur“\.
+Es gibt ja Leute,
+die annehmen,
+dass manche Menschen aufgrund ihrer Bauart von vornherein für den Untergang geschaffen sind\.
+Und genau die schleppen diese Stelle an und behaupten,
+das,
+was sie lehren,
+würde durch den Satz bewiesen:
+„\.\.\.dass das Herz des Pharao vom Herrn verhärtet wurde\.“
+[^bible-c0656cc1-62bb-4be7-8f82-7de23c528b91]Lasst uns diese Leute doch mal Folgendes fragen:
+Wer für den Untergang geschaffen ist,
+der könnte doch niemals etwas Besseres tun,
+oder?
+Seine eigene,
+ihm innewohnende Natur würde doch gegen alles Gute arbeiten\!
+Was für einen Nutzen hat es dann,
+den Pharao – der ja angeblich ein „Sohn des Untergangs“ ist,
+wie ihr schwätzt – von Gott verhärten zu lassen,
+damit er das Volk nicht ziehen lässt?
+Denn wenn er nicht verhärtet worden wäre,
+hätte er sie ja ziehen lassen,
+oder etwa nicht?
+Darauf sollen sie antworten\!
+Was hätte der Pharao getan,
+wenn er nicht verhärtet worden wäre?
+Wenn er sie nämlich ohne Verhärtung freigelassen hätte,
+dann wäre er keine „verlorene Natur“ gewesen,
+die zugrunde geht\.
+Wenn er sie aber auch ohne Verhärtung nicht freigelassen hätte,
+dann war das Verhärten seines Herzens völlig überflüssig\!
+Er hätte sie ja so oder so nicht freigelassen,
+auch unverhärtet\.
+Und was genau bewirkt Gott eigentlich,
+wenn er auf dessen Führungszentrum einwirkt und ihn verhärtet?
+Und wie kann er ihn dann anklagen und sagen:
+„Weil du mir ungehorsam bist,
+siehe,
+ich werde deine Erstgeburt töten\.“[^bible-8123da2d-50be-48eb-b270-9de0fcad5ef0]
+„Denn alle Ägypter werden erkennen,
+dass ich der Herr bin\.“[^bible-5366058d-0c72-4e12-978b-adde27be9158]
+Als ob diese schlimmen Dinge,
+die man für Übel hält,
+nur deswegen über sie gebracht werden,
+damit sie Gott erkennen\!
 
-Sie bringen rein gar nichts vor, das einer bewussten Entscheidung eines gerechten Gottes würdig wäre, wenn es um die Verhärtung des Herzens des Pharao geht\. Ich habe keine Ahnung, wie sie einen gerechten Gott präsentieren wollen – selbst wenn sie es noch so sehr wollen, wie ihr sagt –, der das Herz des Pharao verhärtet\. Deswegen müssen wir sie an genau dieser Stelle in die Mangel nehmen\! Sie sollen entweder darlegen, wie bitteschön ein Gerechter verhärtet, oder sie sollen den Mut aufbringen zu sagen: "Weil er verhärtet, ist der Schöpfer böse\." Oder aber, wenn ihnen die Beweise fehlen, dass der Gerechte jemanden verhärten kann, und sie sich gleichzeitig nicht trauen, eine so gewaltige Gottlosigkeit auszustoßen und den Schöpfer als böse zu bezeichnen, dann sollen sie gefälligst auf einen anderen Weg ausweichen\! Einen Weg, der erklärt, was „Der Herr verhärtete das Herz des Pharao“[^bible-06b6d9e5-83fd-49e5-a3e8-73ac2ed99375] wirklich bedeutet\. Sie müssen aufhören, an der buchstäblichen Bedeutung der Worte zu kleben, und damit aufhören, ihre eigenen Vorstellungen über einen gerechten Gott zu vernichten\. Und als allerletztes: Selbst wenn sie zugeben müssen, dass sie ratlos sind, was das Wort hier eigentlich sagen will – dieses ganze Gerede, das Gott hier in diesem Problembereich angreift, soll zerfetzt und verworfen werden\! Aber kommen wir zum Thema „Natur“\. Es gibt ja Leute, die annehmen, dass manche Menschen aufgrund ihrer Bauart von vornherein für den Untergang geschaffen sind\. Und genau die schleppen diese Stelle an und behaupten, das, was sie lehren, würde durch den Satz bewiesen: „\.\.\.dass das Herz des Pharao vom Herrn verhärtet wurde\.“ [^bible-c0656cc1-62bb-4be7-8f82-7de23c528b91]Lasst uns diese Leute doch mal Folgendes fragen: Wer für den Untergang geschaffen ist, der könnte doch niemals etwas Besseres tun, oder? Seine eigene, ihm innewohnende Natur würde doch gegen alles Gute arbeiten\! Was für einen Nutzen hat es dann, den Pharao – der ja angeblich ein „Sohn des Untergangs“ ist, wie ihr schwätzt – von Gott verhärten zu lassen, damit er das Volk nicht ziehen lässt? Denn wenn er nicht verhärtet worden wäre, hätte er sie ja ziehen lassen, oder etwa nicht? Darauf sollen sie antworten\! Was hätte der Pharao getan, wenn er nicht verhärtet worden wäre? Wenn er sie nämlich ohne Verhärtung freigelassen hätte, dann wäre er keine „verlorene Natur“ gewesen, die zugrunde geht\. Wenn er sie aber auch ohne Verhärtung nicht freigelassen hätte, dann war das Verhärten seines Herzens völlig überflüssig\! Er hätte sie ja so oder so nicht freigelassen, auch unverhärtet\. Und was genau bewirkt Gott eigentlich, wenn er auf dessen Führungszentrum einwirkt und ihn verhärtet? Und wie kann er ihn dann anklagen und sagen: „Weil du mir ungehorsam bist, siehe, ich werde deine Erstgeburt töten\.“[^bible-8123da2d-50be-48eb-b270-9de0fcad5ef0] „Denn alle Ägypter werden erkennen, dass ich der Herr bin\.“[^bible-5366058d-0c72-4e12-978b-adde27be9158] Als ob diese schlimmen Dinge, die man für Übel hält, nur deswegen über sie gebracht werden, damit sie Gott erkennen\!
+In den Makkabäer\-Büchern steht etwas Ähnliches:
+„Ich ermahne nun die Leser dieses Buches,
+sich durch diese Schicksalsschläge nicht entmutigen zu lassen,
+sondern die Strafen nicht als Untergang,
+sondern als Erziehung unseres Geschlechts zu betrachten\.
+Denn dass die Gottlosen nicht lange Zeit gewähren gelassen,
+sondern sofort mit Strafen belegt werden,
+ist ein Zeichen großer Wohltat\.
+Denn nicht wie bei den anderen Völkern wartet der Herrscher geduldig ab,
+bis sie das Maß der Sünden voll gemacht haben,
+um sie erst später zu bestrafen;
+so hat er beschlossen,
+es bei uns nicht zu tun,
+damit er sich nicht an uns rächen muss,
+wenn unsere Sünden zum Ende gekommen sind\.
+Er erzieht uns durch das Unglück,
+aber er verlässt sein Volk nicht\.“[^bible-59233392-c01c-4a8d-9e82-c048ff6109f2]
+Wenn es also ein Zeichen großer Wohltat ist,
+für Sünden mit Strafen belegt zu werden,
+dann schau genau hin:
+Wenn auch der Pharao getadelt wird,
+nachdem sein Herz verhärtet wurde,
+und zusammen mit seinem Volk gezüchtigt wird – ob er dann nicht vielleicht doch nicht umsonst getadelt wurde und nicht zu seinem eigenen Schaden\!
+David handelt gewissermaßen als Nachahmer Gottes,
+der genau weiß,
+was die jeweilige Zeit erfordert\.
+Er gibt Salomo Befehle bezüglich Joab,
+ihn zu bestrafen für das,
+was er an Abner,
+dem Sohn Ners,
+verbrochen hat,
+und ihn für seine Fehltritte zu töten\.
+Und dann fügt er hinzu:
+„Und du wirst sein graues Haar in Frieden in den Hades hinabführen\.“[^bible-2834c6a6-f2d5-4718-8114-249e07024741]
+Es ist offensichtlich – so hat es uns auch der Hebräer berichtet –,
+dass er durch die Bestrafung im Frieden entschlafen wird\.
+Ihm ist keine Strafe und Qual mehr geschuldet,
+weil er sie hier schon empfangen hat und durch den Tod hier davon befreit wurde\.
+Genauso nehmen wir jede Drohung an – sei es aus den heiligen Schriften oder aus dem Wirken Gottes in seiner Größe und der Ordnung der Schöpfung\.
+Wir nehmen Gott an,
+der das Sichtbare und das Unsichtbare geschaffen hat,
+das Zeitliche und das Ewige\.
+Wir bekennen,
+dass er ein und derselbe ist,
+in allem übereinstimmend mit dem Vater unseres Herrn und Retters:
+gut,
+gerecht und weise\!
+Wir kämpfen darum,
+die Schriften genau auf dieses Ziel hinzuführen:
+zu zeigen,
+dass alles von einem guten,
+weisen und gerechten Gott kommt\.
+Wer Verstand hat,
+wird keinesfalls auch nur zufällig auf den Gedanken kommen,
+davon abzufallen\.
+Wir flehen zu Gott,
+dem Retter,
+dass es uns gelingt,
+das Gesagte mit seiner Güte,
+Gerechtigkeit und Weisheit in Einklang zu bringen oder eben nicht\.
+Genau das denken wir auch über den Satz:
+„Der Herr,
+Gott,
+verhärtete das Herz des Pharao\.“[^bible-a63c0198-9421-4938-badd-319c4f111dc5]
+Das Wort Gottes ist ein Arzt für die Seele\!
+Er nutzt Heilmethoden,
+die extrem vielfältig sind,
+die genau auf die Kranken zugeschnitten sind und exakt zum richtigen Zeitpunkt kommen\.
+Manche dieser Heilungswege verursachen bei denen,
+die zur Genesung geführt werden,
+mehr Schmerzen und Qualen,
+andere weniger\.
+Auch die Heilmittel werden mal offensichtlich verabreicht,
+mal ganz verdeckt\.
+Mal wirken sie schneller,
+mal langsamer – manchmal erst,
+nachdem man sich mit der Sünde vollgesogen hat,
+oder manchmal schon,
+wenn man sie sozusagen gerade erst berührt hat\.
 
-In den Makkabäer\-Büchern steht etwas Ähnliches: „Ich ermahne nun die Leser dieses Buches, sich durch diese Schicksalsschläge nicht entmutigen zu lassen, sondern die Strafen nicht als Untergang, sondern als Erziehung unseres Geschlechts zu betrachten\. Denn dass die Gottlosen nicht lange Zeit gewähren gelassen, sondern sofort mit Strafen belegt werden, ist ein Zeichen großer Wohltat\. Denn nicht wie bei den anderen Völkern wartet der Herrscher geduldig ab, bis sie das Maß der Sünden voll gemacht haben, um sie erst später zu bestrafen; so hat er beschlossen, es bei uns nicht zu tun, damit er sich nicht an uns rächen muss, wenn unsere Sünden zum Ende gekommen sind\. Er erzieht uns durch das Unglück, aber er verlässt sein Volk nicht\.“[^bible-59233392-c01c-4a8d-9e82-c048ff6109f2] Wenn es also ein Zeichen großer Wohltat ist, für Sünden mit Strafen belegt zu werden, dann schau genau hin: Wenn auch der Pharao getadelt wird, nachdem sein Herz verhärtet wurde, und zusammen mit seinem Volk gezüchtigt wird – ob er dann nicht vielleicht doch nicht umsonst getadelt wurde und nicht zu seinem eigenen Schaden\! David handelt gewissermaßen als Nachahmer Gottes, der genau weiß, was die jeweilige Zeit erfordert\. Er gibt Salomo Befehle bezüglich Joab, ihn zu bestrafen für das, was er an Abner, dem Sohn Ners, verbrochen hat, und ihn für seine Fehltritte zu töten\. Und dann fügt er hinzu: „Und du wirst sein graues Haar in Frieden in den Hades hinabführen\.“[^bible-2834c6a6-f2d5-4718-8114-249e07024741] Es ist offensichtlich – so hat es uns auch der Hebräer berichtet –, dass er durch die Bestrafung im Frieden entschlafen wird\. Ihm ist keine Strafe und Qual mehr geschuldet, weil er sie hier schon empfangen hat und durch den Tod hier davon befreit wurde\. Genauso nehmen wir jede Drohung an – sei es aus den heiligen Schriften oder aus dem Wirken Gottes in seiner Größe und der Ordnung der Schöpfung\. Wir nehmen Gott an, der das Sichtbare und das Unsichtbare geschaffen hat, das Zeitliche und das Ewige\. Wir bekennen, dass er ein und derselbe ist, in allem übereinstimmend mit dem Vater unseres Herrn und Retters: gut, gerecht und weise\! Wir kämpfen darum, die Schriften genau auf dieses Ziel hinzuführen: zu zeigen, dass alles von einem guten, weisen und gerechten Gott kommt\. Wer Verstand hat, wird keinesfalls auch nur zufällig auf den Gedanken kommen, davon abzufallen\. Wir flehen zu Gott, dem Retter, dass es uns gelingt, das Gesagte mit seiner Güte, Gerechtigkeit und Weisheit in Einklang zu bringen oder eben nicht\. Genau das denken wir auch über den Satz: „Der Herr, Gott, verhärtete das Herz des Pharao\.“[^bible-a63c0198-9421-4938-badd-319c4f111dc5] Das Wort Gottes ist ein Arzt für die Seele\! Er nutzt Heilmethoden, die extrem vielfältig sind, die genau auf die Kranken zugeschnitten sind und exakt zum richtigen Zeitpunkt kommen\. Manche dieser Heilungswege verursachen bei denen, die zur Genesung geführt werden, mehr Schmerzen und Qualen, andere weniger\. Auch die Heilmittel werden mal offensichtlich verabreicht, mal ganz verdeckt\. Mal wirken sie schneller, mal langsamer – manchmal erst, nachdem man sich mit der Sünde vollgesogen hat, oder manchmal schon, wenn man sie sozusagen gerade erst berührt hat\.
+Die gesamte von Gott eingegebene Schrift ist voll von Zeugnissen für jeden einzelnen Fall\!
+Da sind Heilmittel aufgezeichnet,
+die dem Volk verabreicht wurden – mal wirken sie düsterer,
+mal weniger hart –,
+aber immer geschahen sie zu seiner Umkehr und Besserung:
+Kriege,
+mal größere,
+mal kleinere;
+Hungersnöte,
+die mal länger,
+mal kürzer dauerten\.
+Aber manchmal geschieht es auf eine Weise,
+die völlig absurd erscheint,
+wie in dem Satz:
+„Ich werde eure Töchter nicht heimsuchen,
+wenn sie huren,
+und auch nicht eure Schwiegertöchter,
+wenn sie ehebrechen\.“[^bible-8d0eeb1a-05e2-47d1-b5e7-ccbe9aa53378]
+Vielleicht lässt er nämlich die Seelen,
+die sich den körperlichen Dingen und den vermeintlichen Genüssen völlig hingeben,
+eine Zeit lang in Ruhe\!
+Er überlässt sie sich selbst,
+bis sie sich an dem,
+was sie so gierig begehren,
+vollgefressen haben und sich davon abwenden – ja,
+bis sie es gleichsam wieder erbrechen wollen\!
+Denn wenn sie nicht schnell genug von diesen Dingen loskommen,
+weil sie sich noch tiefer damit vollgesogen haben und dadurch so sehr gequält wurden,
+würden sie beim nächsten Mal nur wieder in dieselben Fehler fallen,
+weil sie die Übel zu schnell losgeworden sind\.
+Aber Gott ist ein Meister seines Fachs\!
+Er kennt die Verfassung eines jeden Einzelnen und weiß,
+was ihm zusteht\.
+Nur er allein besitzt das Wissen,
+wie man die Heilmittel anwendet,
+was zu tun ist und wann der richtige Zeitpunkt für jeden ist\.
+Schaut euch körperliche Leiden an:
+Wenn das Übel tief in den Körper hineingefressen ist,
+dann zieht der Arzt den Eiter mit bestimmten Medikamenten an die Oberfläche und zerrt ihn heraus\.
+Er verursacht heftige Entzündungen,
+Schwellungen und Schmerzen,
+die schlimmer sind als das,
+was der Patient hatte,
+bevor er sich behandeln ließ\.
+Genau so macht man es üblicherweise bei Leuten,
+die von tollwütigen Hunden gebissen wurden oder an ähnlichen Dingen leiden\.
 
-Die gesamte von Gott eingegebene Schrift ist voll von Zeugnissen für jeden einzelnen Fall\! Da sind Heilmittel aufgezeichnet, die dem Volk verabreicht wurden – mal wirken sie düsterer, mal weniger hart –, aber immer geschahen sie zu seiner Umkehr und Besserung: Kriege, mal größere, mal kleinere; Hungersnöte, die mal länger, mal kürzer dauerten\. Aber manchmal geschieht es auf eine Weise, die völlig absurd erscheint, wie in dem Satz: „Ich werde eure Töchter nicht heimsuchen, wenn sie huren, und auch nicht eure Schwiegertöchter, wenn sie ehebrechen\.“[^bible-8d0eeb1a-05e2-47d1-b5e7-ccbe9aa53378] Vielleicht lässt er nämlich die Seelen, die sich den körperlichen Dingen und den vermeintlichen Genüssen völlig hingeben, eine Zeit lang in Ruhe\! Er überlässt sie sich selbst, bis sie sich an dem, was sie so gierig begehren, vollgefressen haben und sich davon abwenden – ja, bis sie es gleichsam wieder erbrechen wollen\! Denn wenn sie nicht schnell genug von diesen Dingen loskommen, weil sie sich noch tiefer damit vollgesogen haben und dadurch so sehr gequält wurden, würden sie beim nächsten Mal nur wieder in dieselben Fehler fallen, weil sie die Übel zu schnell losgeworden sind\. Aber Gott ist ein Meister seines Fachs\! Er kennt die Verfassung eines jeden Einzelnen und weiß, was ihm zusteht\. Nur er allein besitzt das Wissen, wie man die Heilmittel anwendet, was zu tun ist und wann der richtige Zeitpunkt für jeden ist\. Schaut euch körperliche Leiden an: Wenn das Übel tief in den Körper hineingefressen ist, dann zieht der Arzt den Eiter mit bestimmten Medikamenten an die Oberfläche und zerrt ihn heraus\. Er verursacht heftige Entzündungen, Schwellungen und Schmerzen, die schlimmer sind als das, was der Patient hatte, bevor er sich behandeln ließ\. Genau so macht man es üblicherweise bei Leuten, die von tollwütigen Hunden gebissen wurden oder an ähnlichen Dingen leiden\.
+Und genau so,
+glaube ich,
+behandelt Gott die verborgene Bosheit,
+die tief in die Seele gewandert ist\!
+Wenn ein Arzt über einen Patienten sagt:
+„Ich werde rund um diesen Bereich Entzündungen hervorrufen und werde diese Körperteile zum Anschwellen zwingen,
+damit ein heftiges Geschwür entsteht“,
+dann wird der Zuhörer,
+der etwas von Medizin versteht,
+ihn nicht anklagen\.
+Im Gegenteil,
+er wird den Arzt loben,
+der solche Maßnahmen gleichsam androht\!
+Aber irgendein Ahnungsloser wird sagen,
+der Arzt tue etwas,
+das seinem Beruf widerspricht – er solle heilen,
+aber stattdessen verursache er Entzündungen und Geschwüre\.
+Genau so,
+denke ich,
+hat auch Gott den Satz gesprochen:
+„Ich werde das Herz des Pharao verhärten\.“[^bible-9151b41e-db28-45e5-8121-1b028708602b]
+Wenn man das liest und begreift,
+dass es Worte Gottes sind,
+dann wahrt man die Würde des Sprechers und akzeptiert es\.
+Wer sucht,
+der findet auch hier Möglichkeiten,
+die Güte Gottes zu beweisen\!
+Offensichtlich geschah es zur Rettung des Volkes,
+das durch viele Wunder im Glauben gestärkt wurde\.
+Zweitens geschah es wegen der Ägypter,
+von denen viele,
+überwältigt von den Ereignissen,
+den Hebräern folgen sollten;
+denn:
+„Und viel Mischvolk“,
+heißt es,
+„zog auch mit ihnen hinauf\.“[^bible-5773994c-7ca5-40ed-bdfb-a146f8383c7e]
+Aber es gibt noch einen geheimeren und vielleicht tieferen Grund:
+Es geschah zum Nutzen für den Pharao selbst\!
+Er sollte das Gift nicht länger verbergen und die Krankheit nicht in sich behalten,
+sondern er sollte sie herausziehen und offenlegen\.
+Vielleicht sollte er durch sein Handeln völlig entkräftet werden,
+damit er,
+nachdem er allen Auswurf seiner innewohnenden Bosheit ausgespien hat,
+den Baum,
+der die Übel trägt,
+später kraftlos vorfindet\.
+Vielleicht sollte dieser Baum am Ende austrocknen,
+genau dann,
+wenn er im Meer versenkt wird\!
+Und zwar nicht,
+wie man vielleicht denken könnte,
+um vollständig vernichtet zu werden,
+sondern damit er,
+nachdem er die Sünden abgeworfen hat,
+erleichtert wird und vielleicht nach so einem gewaltigen Krieg der Seele in Frieden in den Hades hinabsteigen kann\.
+Ich weiß,
+es ist wahrscheinlich,
+dass die Leser sich nur schwer damit abfinden können\.
+Sie werden das Gesagte für gewaltsam halten – dass die Verhärtung seines Herzens tatsächlich zum Vorteil des Pharao gewesen sein soll und dass alles,
+was aufgezeichnet ist,
+bis hin zu seinem Untergang im Meer,
+zu seinem Besten geschah\.
+Aber schaut genau hin,
+ob wir nicht genau damit den Widerstand brechen und Überzeugung für das Gesagte schaffen können\!
 
-Und genau so, glaube ich, behandelt Gott die verborgene Bosheit, die tief in die Seele gewandert ist\! Wenn ein Arzt über einen Patienten sagt: „Ich werde rund um diesen Bereich Entzündungen hervorrufen und werde diese Körperteile zum Anschwellen zwingen, damit ein heftiges Geschwür entsteht“, dann wird der Zuhörer, der etwas von Medizin versteht, ihn nicht anklagen\. Im Gegenteil, er wird den Arzt loben, der solche Maßnahmen gleichsam androht\! Aber irgendein Ahnungsloser wird sagen, der Arzt tue etwas, das seinem Beruf widerspricht – er solle heilen, aber stattdessen verursache er Entzündungen und Geschwüre\. Genau so, denke ich, hat auch Gott den Satz gesprochen: „Ich werde das Herz des Pharao verhärten\.“[^bible-9151b41e-db28-45e5-8121-1b028708602b] Wenn man das liest und begreift, dass es Worte Gottes sind, dann wahrt man die Würde des Sprechers und akzeptiert es\. Wer sucht, der findet auch hier Möglichkeiten, die Güte Gottes zu beweisen\! Offensichtlich geschah es zur Rettung des Volkes, das durch viele Wunder im Glauben gestärkt wurde\. Zweitens geschah es wegen der Ägypter, von denen viele, überwältigt von den Ereignissen, den Hebräern folgen sollten; denn: „Und viel Mischvolk“, heißt es, „zog auch mit ihnen hinauf\.“[^bible-5773994c-7ca5-40ed-bdfb-a146f8383c7e] Aber es gibt noch einen geheimeren und vielleicht tieferen Grund: Es geschah zum Nutzen für den Pharao selbst\! Er sollte das Gift nicht länger verbergen und die Krankheit nicht in sich behalten, sondern er sollte sie herausziehen und offenlegen\. Vielleicht sollte er durch sein Handeln völlig entkräftet werden, damit er, nachdem er allen Auswurf seiner innewohnenden Bosheit ausgespien hat, den Baum, der die Übel trägt, später kraftlos vorfindet\. Vielleicht sollte dieser Baum am Ende austrocknen, genau dann, wenn er im Meer versenkt wird\! Und zwar nicht, wie man vielleicht denken könnte, um vollständig vernichtet zu werden, sondern damit er, nachdem er die Sünden abgeworfen hat, erleichtert wird und vielleicht nach so einem gewaltigen Krieg der Seele in Frieden in den Hades hinabsteigen kann\. Ich weiß, es ist wahrscheinlich, dass die Leser sich nur schwer damit abfinden können\. Sie werden das Gesagte für gewaltsam halten – dass die Verhärtung seines Herzens tatsächlich zum Vorteil des Pharao gewesen sein soll und dass alles, was aufgezeichnet ist, bis hin zu seinem Untergang im Meer, zu seinem Besten geschah\. Aber schaut genau hin, ob wir nicht genau damit den Widerstand brechen und Überzeugung für das Gesagte schaffen können\!
+„Viele Geißelhiebe“,
+sagt David,
+„treffen den Sünder\.“[^bible-4a6ca287-09e1-4496-bd9a-f23397fb0d64]
+Sein Sohn aber lehrt uns,
+dass Gott jeden Sohn auspeitscht,
+den er aufnimmt\.
+Und weiter weissagt David selbst über Christus und die Gläubigen:
+„Wenn seine Söhne mein Gesetz verlassen und nicht nach meinen Rechtsurteilen wandeln,
+wenn sie meine Satzungen entweihen und meine Gebote nicht halten,
+dann werde ich ihre Gesetzlosigkeiten mit der Rute heimsuchen und ihre Ungerechtigkeiten mit Geißelhieben\.
+Aber mein Erbarmen werde ich nicht von ihnen wegschleudern\.“[^bible-38f0a4e4-c6b0-459e-8d46-68abc700e2e4]
+Also ist es eine Gnade Gottes,
+wenn das Gesetzlose mit der Rute und der Sünder mit Geißelhieben heimgesucht wird\!
+Und solange der Sünder nicht ausgepeitscht wird,
+untersteht er noch gar nicht der Erziehung und Zurechtweisung\.
+Deshalb droht Gott ja auch,
+wenn die Sünden der Bewohner Judäas riesig werden:
+„Ich werde eure Töchter nicht mehr heimsuchen,
+wenn sie huren,
+und auch nicht eure Schwiegertöchter,
+wenn sie ehebrechen\.“[^bible-4c7407bb-dee6-48c9-87c4-bd970767b33c]
+Und woanders sagt er:
+„Weil ich dich gereinigt habe und du nicht rein wurdest,
+werde ich nicht mehr wütend auf dich sein und auch nicht mehr eifersüchtig auf dich sein\.“[^bible-6576d68e-05db-4b8d-9385-83e53ef0f1aa]
+Das bedeutet im Klartext:
+Auf die Sünder,
+auf die er nicht wütend ist,
+ist er – ich sags mal so – aus lauter Zorn nicht wütend\!
+Man muss bei den prophetischen Drohungen gegen die Menge mal genau darauf achten,
+dass da oft steht:
+„Sie werden erkennen,
+dass ich der Herr bin\.“[^bible-89bcc124-819e-4863-82fa-e22ec4af7a02]
+Und er droht damit nicht nur den Israeliten,
+sondern auch den Ägyptern,
+den Assyrern und anderen Feinden des Volkes\.
+Diese Drohung,
+die am Ende vieler vermeintlicher Strafen steht,
+ist auch im Exodus aufgeschrieben\.
+Verhärtet denn der,
+der verhärtet,
+etwas,
+das schon hart ist?
+Es ist doch offensichtlich:
+Was hart ist,
+wird nicht verhärtet\.
+Nein,
+die Härte entsteht erst,
+wenn Weichheit in Härte umschlägt\!
+Weichheit des Herzens ist in der Schrift übrigens etwas Lobenswertes,
+wie wir oft beobachtet haben\.
+Sollen sie doch sagen,
+ob der Pharao eigentlich gut war und dann böse wurde\!
+Und wenn Gott den Pharao beschuldigt:
+Tut er das umsonst oder nicht umsonst?
+Wenn er es umsonst tut,
+wie ist er dann noch weise und gerecht?
+Wenn er es aber nicht umsonst tut,
+dann war der Pharao selbst die Ursache für seine Sünden und seinen Ungehorsam\.
+Und wenn er selbst die Ursache war,
+dann hatte er keine Natur,
+die von vornherein verloren war\!
+Man muss aber auch das hier glauben,
+weil der Apostel diese Worte aufgreift und sagt:
+„Also erbarmt er sich,
+wessen er will,
+und wen er will,
+verhärtet er\.
+Du wirst mir nun sagen:
+Was tadelt er dann noch?
+Wer hat denn seinem Willen widerstanden?“[^bible-3c1af6d3-8978-4a0c-8c58-c143395eb84c]
+Wer ist denn der,
+der verhärtet und sich erbarmt?
+Es ist doch laut dem Apostel nicht so,
+dass der eine verhärtet und ein anderer sich erbarmt,
+sondern es ist ein und derselbe\!
+Entweder gehören also die,
+die in Gott Erbarmen finden,
+zu dem,
+der das Herz des Pharao verhärtet – und dann basteln sich diese Leute völlig umsonst einen anderen,
+angeblich „guten“ Gott zusammen\.
+Denn nach ihrer eigenen Logik wäre ein Gott,
+der nicht nur barmherzig ist,
+sondern auch verhärtet,
+nicht mehr gut,
+wie sie es sich einbilden\.
 
-„Viele Geißelhiebe“, sagt David, „treffen den Sünder\.“[^bible-4a6ca287-09e1-4496-bd9a-f23397fb0d64] Sein Sohn aber lehrt uns, dass Gott jeden Sohn auspeitscht, den er aufnimmt\. Und weiter weissagt David selbst über Christus und die Gläubigen: „Wenn seine Söhne mein Gesetz verlassen und nicht nach meinen Rechtsurteilen wandeln, wenn sie meine Satzungen entweihen und meine Gebote nicht halten, dann werde ich ihre Gesetzlosigkeiten mit der Rute heimsuchen und ihre Ungerechtigkeiten mit Geißelhieben\. Aber mein Erbarmen werde ich nicht von ihnen wegschleudern\.“[^bible-38f0a4e4-c6b0-459e-8d46-68abc700e2e4] Also ist es eine Gnade Gottes, wenn das Gesetzlose mit der Rute und der Sünder mit Geißelhieben heimgesucht wird\! Und solange der Sünder nicht ausgepeitscht wird, untersteht er noch gar nicht der Erziehung und Zurechtweisung\. Deshalb droht Gott ja auch, wenn die Sünden der Bewohner Judäas riesig werden: „Ich werde eure Töchter nicht mehr heimsuchen, wenn sie huren, und auch nicht eure Schwiegertöchter, wenn sie ehebrechen\.“[^bible-4c7407bb-dee6-48c9-87c4-bd970767b33c] Und woanders sagt er: „Weil ich dich gereinigt habe und du nicht rein wurdest, werde ich nicht mehr wütend auf dich sein und auch nicht mehr eifersüchtig auf dich sein\.“[^bible-6576d68e-05db-4b8d-9385-83e53ef0f1aa] Das bedeutet im Klartext: Auf die Sünder, auf die er nicht wütend ist, ist er – ich sags mal so – aus lauter Zorn nicht wütend\! Man muss bei den prophetischen Drohungen gegen die Menge mal genau darauf achten, dass da oft steht: „Sie werden erkennen, dass ich der Herr bin\.“[^bible-89bcc124-819e-4863-82fa-e22ec4af7a02] Und er droht damit nicht nur den Israeliten, sondern auch den Ägyptern, den Assyrern und anderen Feinden des Volkes\. Diese Drohung, die am Ende vieler vermeintlicher Strafen steht, ist auch im Exodus aufgeschrieben\. Verhärtet denn der, der verhärtet, etwas, das schon hart ist? Es ist doch offensichtlich: Was hart ist, wird nicht verhärtet\. Nein, die Härte entsteht erst, wenn Weichheit in Härte umschlägt\! Weichheit des Herzens ist in der Schrift übrigens etwas Lobenswertes, wie wir oft beobachtet haben\. Sollen sie doch sagen, ob der Pharao eigentlich gut war und dann böse wurde\! Und wenn Gott den Pharao beschuldigt: Tut er das umsonst oder nicht umsonst? Wenn er es umsonst tut, wie ist er dann noch weise und gerecht? Wenn er es aber nicht umsonst tut, dann war der Pharao selbst die Ursache für seine Sünden und seinen Ungehorsam\. Und wenn er selbst die Ursache war, dann hatte er keine Natur, die von vornherein verloren war\! Man muss aber auch das hier glauben, weil der Apostel diese Worte aufgreift und sagt: „Also erbarmt er sich, wessen er will, und wen er will, verhärtet er\. Du wirst mir nun sagen: Was tadelt er dann noch? Wer hat denn seinem Willen widerstanden?“[^bible-3c1af6d3-8978-4a0c-8c58-c143395eb84c] Wer ist denn der, der verhärtet und sich erbarmt? Es ist doch laut dem Apostel nicht so, dass der eine verhärtet und ein anderer sich erbarmt, sondern es ist ein und derselbe\! Entweder gehören also die, die in Gott Erbarmen finden, zu dem, der das Herz des Pharao verhärtet – und dann basteln sich diese Leute völlig umsonst einen anderen, angeblich „guten“ Gott zusammen\. Denn nach ihrer eigenen Logik wäre ein Gott, der nicht nur barmherzig ist, sondern auch verhärtet, nicht mehr gut, wie sie es sich einbilden\.
-
-Wir haben das alles extra so ausführlich untersucht, und zwar gezielt gegen die Leute, die sich leichtfertig einbilden, sie hätten es kapiert, und dabei auf der Einfalt unserer Leute herumtrampeln\! Wir stellen uns dagegen und zeigen: Der Text hilft ihnen gar nicht – weder bei dem, was sie über Gott denken, noch bei ihren Dogmen über die Natur; zumindest nicht so, wie sie sich das einbilden, wenn man die Sache vernünftig prüft\. Wir sind dagegen aus vielen Gründen überzeugt: Schmerz und Strafe, die von Gott kommen, richten sich niemals gegen die, die leiden, sondern sind immer für sie da\. Selbst die härtesten Begriffe, die man Gott zuschreibt – Wut und Zorn –, heißen eigentlich Zurechtweisung und Erziehung\. Das steht so im Wort: „Herr, weise mich nicht zurecht in deiner Wut und erziehe mich nicht in deinem Zorn\.“[^bible-dcc1340f-c55e-4589-9deb-6a09c83253a6] Der Beter bittet darum, diese Art der Zurechtweisung durch Gottes Wut und diese Art der Erziehung durch seinen Zorn nicht zu benötigen\. Das heißt im Umkehrschluss: Manche werden durchaus durch Gottes Wut zurechtgewiesen und durch seinen Zorn erzogen\. Damit wir das besser annehmen können, müssen wir ähnliche Stellen aus dem Neuen Testament heranziehen\. Der Retter sagt: „Ich bin gekommen, um Feuer auf die Erde zu werfen, und wie froh wäre ich, wenn es schon brennte\!“[^bible-cb3a5e0e-a47c-4d99-bde1-9ed2150fbb4c] Wäre das Feuer, das er auf die Erde werfen wollte, nicht rettend für die Menschen, hätte der Sohn des guten Gottes das wohl kaum gesagt\! Auch Petrus, der Ananias und Sapphira mit seinem Wort tötete – weil sie gesündigt und nicht Menschen, sondern den Herrn belogen hatten –, tat das nicht nur zur Erbauung derer, die das sahen und durch das Ereignis ehrfürchtiger im Glauben an Christus werden sollten\. Nein, er kümmerte sich auch um die Sterbenden selbst\! Er wollte, dass sie durch den plötzlichen Tod gereinigt werden und den Körper unerwartet verlassen\. Sie hatten ja immerhin noch einen Rest von Rechtfertigung, da sie wenigstens die Hälfte ihres Besitzes für die Bedürftigen gegeben hatten\. Und Paulus? Er macht den Magier, der beim Prokonsul Sergius Paulus war, durch sein Wort blind\. Durch Schmerzen bekehrt er ihn zur wahren Gottesverehrung\! Er sagt zu ihm: „O du voll aller List und aller Bosheit, du Sohn des Teufels, du Feind aller Gerechtigkeit\! Willst du nicht aufhören, die geraden Wege des Herrn zu verdrehen? Und nun wirst du blind sein und die Sonne eine Zeit lang nicht sehen\.“[^bible-7531c26d-761b-4826-a679-bff4495b5c5f] Welche Zeit meint er? Doch wohl die, in der er – zurechtgewiesen und durch seine Sünden gequält – Buße tun und würdig werden sollte, die Sonne wieder auf beide Arten zu sehen: körperlich und seelisch\! Damit die göttliche Kraft bei der Wiederherstellung seines Augenlichts verkündet wird; und seelisch, wenn er gläubig wird und Nutzen aus der Gottesfurcht zieht\. Auch Demas und Hermogenes, die er dem Satan übergab, damit sie erzogen werden, nicht mehr zu lästern, haben Ähnliches erlebt wie die Vorherigen\. Und der Mann in Korinth, der die Frau seines Vaters hatte: Auch er wird dem Satan übergeben zum Untergang des Fleisches, damit der Geist am Tag des Herrn gerettet wird\.[^bible-aec873d8-bcb2-4de3-843e-4a64b48c7e53] Es ist also überhaupt kein Wunder, wenn auch die Geschichte mit dem Pharao – seine Verhärtung und dass er am Ende mit solchen Strafen überzogen wurde – von der Güte Gottes gesteuert wird\! Das ist das, was uns im Moment zu dem Satz eingefallen ist: „Der Herr verhärtete das Herz des Pharao\.“[^bible-c20c7d49-34f4-4a89-9c56-8e462a09bf10] Wenn aber jemand unter Wahrung der Ehrfurcht vor Gott eine bessere Erklärung findet – eine, die absolut nichts mit Gottlosigkeit zu tun hat und durch Zeugnisse aus den göttlichen Schriften belegt ist –, dann soll man lieber die nehmen\.
+Wir haben das alles extra so ausführlich untersucht,
+und zwar gezielt gegen die Leute,
+die sich leichtfertig einbilden,
+sie hätten es kapiert,
+und dabei auf der Einfalt unserer Leute herumtrampeln\!
+Wir stellen uns dagegen und zeigen:
+Der Text hilft ihnen gar nicht – weder bei dem,
+was sie über Gott denken,
+noch bei ihren Dogmen über die Natur;
+zumindest nicht so,
+wie sie sich das einbilden,
+wenn man die Sache vernünftig prüft\.
+Wir sind dagegen aus vielen Gründen überzeugt:
+Schmerz und Strafe,
+die von Gott kommen,
+richten sich niemals gegen die,
+die leiden,
+sondern sind immer für sie da\.
+Selbst die härtesten Begriffe,
+die man Gott zuschreibt – Wut und Zorn –,
+heißen eigentlich Zurechtweisung und Erziehung\.
+Das steht so im Wort:
+„Herr,
+weise mich nicht zurecht in deiner Wut und erziehe mich nicht in deinem Zorn\.“[^bible-dcc1340f-c55e-4589-9deb-6a09c83253a6]
+Der Beter bittet darum,
+diese Art der Zurechtweisung durch Gottes Wut und diese Art der Erziehung durch seinen Zorn nicht zu benötigen\.
+Das heißt im Umkehrschluss:
+Manche werden durchaus durch Gottes Wut zurechtgewiesen und durch seinen Zorn erzogen\.
+Damit wir das besser annehmen können,
+müssen wir ähnliche Stellen aus dem Neuen Testament heranziehen\.
+Der Retter sagt:
+„Ich bin gekommen,
+um Feuer auf die Erde zu werfen,
+und wie froh wäre ich,
+wenn es schon brennte\!“[^bible-cb3a5e0e-a47c-4d99-bde1-9ed2150fbb4c]
+Wäre das Feuer,
+das er auf die Erde werfen wollte,
+nicht rettend für die Menschen,
+hätte der Sohn des guten Gottes das wohl kaum gesagt\!
+Auch Petrus,
+der Ananias und Sapphira mit seinem Wort tötete – weil sie gesündigt und nicht Menschen,
+sondern den Herrn belogen hatten –,
+tat das nicht nur zur Erbauung derer,
+die das sahen und durch das Ereignis ehrfürchtiger im Glauben an Christus werden sollten\.
+Nein,
+er kümmerte sich auch um die Sterbenden selbst\!
+Er wollte,
+dass sie durch den plötzlichen Tod gereinigt werden und den Körper unerwartet verlassen\.
+Sie hatten ja immerhin noch einen Rest von Rechtfertigung,
+da sie wenigstens die Hälfte ihres Besitzes für die Bedürftigen gegeben hatten\.
+Und Paulus?
+Er macht den Magier,
+der beim Prokonsul Sergius Paulus war,
+durch sein Wort blind\.
+Durch Schmerzen bekehrt er ihn zur wahren Gottesverehrung\!
+Er sagt zu ihm:
+„O du voll aller List und aller Bosheit,
+du Sohn des Teufels,
+du Feind aller Gerechtigkeit\!
+Willst du nicht aufhören,
+die geraden Wege des Herrn zu verdrehen?
+Und nun wirst du blind sein und die Sonne eine Zeit lang nicht sehen\.“[^bible-7531c26d-761b-4826-a679-bff4495b5c5f]
+Welche Zeit meint er?
+Doch wohl die,
+in der er – zurechtgewiesen und durch seine Sünden gequält – Buße tun und würdig werden sollte,
+die Sonne wieder auf beide Arten zu sehen:
+körperlich und seelisch\!
+Damit die göttliche Kraft bei der Wiederherstellung seines Augenlichts verkündet wird;
+und seelisch,
+wenn er gläubig wird und Nutzen aus der Gottesfurcht zieht\.
+Auch Demas und Hermogenes,
+die er dem Satan übergab,
+damit sie erzogen werden,
+nicht mehr zu lästern,
+haben Ähnliches erlebt wie die Vorherigen\.
+Und der Mann in Korinth,
+der die Frau seines Vaters hatte:
+Auch er wird dem Satan übergeben zum Untergang des Fleisches,
+damit der Geist am Tag des Herrn gerettet wird\.[^bible-aec873d8-bcb2-4de3-843e-4a64b48c7e53]
+Es ist also überhaupt kein Wunder,
+wenn auch die Geschichte mit dem Pharao – seine Verhärtung und dass er am Ende mit solchen Strafen überzogen wurde – von der Güte Gottes gesteuert wird\!
+Das ist das,
+was uns im Moment zu dem Satz eingefallen ist:
+„Der Herr verhärtete das Herz des Pharao\.“[^bible-c20c7d49-34f4-4a89-9c56-8e462a09bf10]
+Wenn aber jemand unter Wahrung der Ehrfurcht vor Gott eine bessere Erklärung findet – eine,
+die absolut nichts mit Gottlosigkeit zu tun hat und durch Zeugnisse aus den göttlichen Schriften belegt ist –,
+dann soll man lieber die nehmen\.
 
 ## Bibelverweise
 

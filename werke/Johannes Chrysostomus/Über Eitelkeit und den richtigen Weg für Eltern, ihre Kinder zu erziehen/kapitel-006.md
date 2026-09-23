@@ -7,6 +7,16 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-eitelkeit-und-den-richtigen-weg-fuer-eltern-ihre-kinder-zu-erziehen#kapitel-acc69126-7667-46a8-0764-08ddc7bd2f7e).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b02562279adb73b14624c6988c1840589cb30c86f442e225af30bec2555a7e1e`
-
-So oft er die Rechnungen in seinem Haushalt prüft und über die extravaganten Ausgaben nachdenkt, klagt er\. Während er sich an den Wünschen seines Herzens erfreut, wird er von einer Art Rausch der Eitelkeit ergriffen und würde sich selbst ebenfalls ausgeben, ohne auch nur den geringsten Begriff von seinen Verlusten zu fassen\. Doch wenn er nach Hause kommt – in das Haus dieses bösen Geistes – und sieht, dass seine Stunde des Ruhms vergangen ist, da die Versammlung sich aufgelöst hat und er auf das Theater blickt und es leer vorfindet, ohne dass ein Mensch ein Wort äußert, und erkennt, dass seine Verluste nichts Einbildendes sind, sondern bereits in barer Münze entstanden sind, dann erkennt er die Asche\.
+So oft er die Rechnungen in seinem Haushalt prüft und über die extravaganten Ausgaben nachdenkt,
+klagt er\.
+Während er sich an den Wünschen seines Herzens erfreut,
+wird er von einer Art Rausch der Eitelkeit ergriffen und würde sich selbst ebenfalls ausgeben,
+ohne auch nur den geringsten Begriff von seinen Verlusten zu fassen\.
+Doch wenn er nach Hause kommt – in das Haus dieses bösen Geistes – und sieht,
+dass seine Stunde des Ruhms vergangen ist,
+da die Versammlung sich aufgelöst hat und er auf das Theater blickt und es leer vorfindet,
+ohne dass ein Mensch ein Wort äußert,
+und erkennt,
+dass seine Verluste nichts Einbildendes sind,
+sondern bereits in barer Münze entstanden sind,
+dann erkennt er die Asche\.

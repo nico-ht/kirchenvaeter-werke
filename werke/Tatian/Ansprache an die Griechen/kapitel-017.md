@@ -7,6 +7,77 @@ Autor: Tatian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tatian/ansprache-an-die-griechen#kapitel-85a06dce-7c2c-4d6f-3d85-08ded167f699).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:78eddd9b0c20de5d068196518242153ee2970039311826a4df0d7897e43b5bb4`
-
-Was können wir über die Sympathien und Antipathien des Demokrit anderes sagen als dies: Nach dem bekannten Sprichwort spricht der Mann aus Abdera eben abderalogisch? Derjenige, dem die Stadt ihren Namen verdankte und der, wie es heißt, ein Freund des Herakles war, wurde von den Pferden des Diomedes gefressen\. Ebenso wird derjenige, der sich des Magiers Ostanes rühmte, am Tag der Vollendung dem ewigen Feuer als Nahrung übergeben werden\. Und wenn ihr nicht aufhört zu lachen, werdet ihr dieselbe Strafe erleiden wie die Zauberer\. Darum, ihr Griechen, hört auf mich, der ich euch gleichsam von einer Höhe aus zurufe, und schiebt nicht spöttisch eure eigene Unvernunft dem Verkünder der Wahrheit zu\. Ein krankhaftes Leiden wird nicht durch ein Gegenleiden beseitigt, und ein Wahnsinniger wird nicht dadurch geheilt, dass man ihm kleine Lederamulette umhängt\. Es gibt Heimsuchungen durch Dämonen\. Der Kranke, derjenige, der behauptet, er sei verliebt, der Hassende und derjenige, der sich rächen will, nehmen sie als Helfer in Anspruch\. So gehen die Dämonen dabei vor: Die Gestalten der Buchstaben und die daraus gebildeten Zeilen können nicht aus sich selbst anzeigen, was gemeint ist\. Vielmehr haben die Menschen sie als Zeichen ihrer Gedanken geschaffen und erkennen an ihrer jeweiligen Verbindung, was die festgelegte Reihenfolge der Buchstaben ausdrücken soll\. Ebenso können die verschiedenen Arten von Wurzeln und die wechselseitige Anordnung von Sehnen und Knochen aus sich selbst nichts bewirken\. Sie sind lediglich die Grundstoffe, mit denen die Bosheit der Dämonen arbeitet; denn diese haben festgelegt, wozu jeder von ihnen dienen soll\. Wenn sie sehen, dass Menschen sich bereitwillig durch solche Dinge von ihnen Dienste leisten lassen, nehmen sie diese Menschen in Dienst und machen sie zu ihren Sklaven\. Doch was kann ehrenhaft daran sein, Ehebruch zu fördern? Was kann edel daran sein, Menschen dazu anzustacheln, einander zu hassen? Und wie kann es angemessen sein, die Hilfe für Wahnsinnige der Materie zuzuschreiben statt Gott? Mit ihrer Kunst bringen die Dämonen die Menschen nämlich davon ab, Gott fromm anzuerkennen, und verleiten sie dazu, ihr Vertrauen auf Kräuter und Wurzeln zu setzen\. Hätte Gott aber diese Dinge geschaffen, damit sie genau das bewirken, was die Menschen wünschen, wäre er ein Urheber des Bösen\. Er selbst hat jedoch alles hervorgebracht, was gute Eigenschaften besitzt\. Erst die Zügellosigkeit der Dämonen hat die Erzeugnisse der Natur für böse Zwecke missbraucht\. Dass die Erzeugnisse der Natur als böse erscheinen, liegt an den Dämonen und nicht an dem vollkommenen Gott\. Wie könnte es auch sein, dass ich zu Lebzeiten keineswegs böse war, meine Überreste nun aber, da ich tot bin und nichts mehr vermag, eine sinnlich wahrnehmbare Wirkung hervorbringen sollten, obwohl sie weder Bewegung noch irgendeine Wahrnehmung besitzen? Und wie sollte jemand, der einen höchst elenden Tod gestorben ist, einem anderen bei seiner Rache helfen können? Wäre das möglich, könnte er sich erst recht gegen seinen eigenen Feind verteidigen\. Wenn er anderen helfen kann, könnte er sich umso mehr selbst rächen\.
+Was können wir über die Sympathien und Antipathien des Demokrit anderes sagen als dies:
+Nach dem bekannten Sprichwort spricht der Mann aus Abdera eben abderalogisch?
+Derjenige,
+dem die Stadt ihren Namen verdankte und der,
+wie es heißt,
+ein Freund des Herakles war,
+wurde von den Pferden des Diomedes gefressen\.
+Ebenso wird derjenige,
+der sich des Magiers Ostanes rühmte,
+am Tag der Vollendung dem ewigen Feuer als Nahrung übergeben werden\.
+Und wenn ihr nicht aufhört zu lachen,
+werdet ihr dieselbe Strafe erleiden wie die Zauberer\.
+Darum,
+ihr Griechen,
+hört auf mich,
+der ich euch gleichsam von einer Höhe aus zurufe,
+und schiebt nicht spöttisch eure eigene Unvernunft dem Verkünder der Wahrheit zu\.
+Ein krankhaftes Leiden wird nicht durch ein Gegenleiden beseitigt,
+und ein Wahnsinniger wird nicht dadurch geheilt,
+dass man ihm kleine Lederamulette umhängt\.
+Es gibt Heimsuchungen durch Dämonen\.
+Der Kranke,
+derjenige,
+der behauptet,
+er sei verliebt,
+der Hassende und derjenige,
+der sich rächen will,
+nehmen sie als Helfer in Anspruch\.
+So gehen die Dämonen dabei vor:
+Die Gestalten der Buchstaben und die daraus gebildeten Zeilen können nicht aus sich selbst anzeigen,
+was gemeint ist\.
+Vielmehr haben die Menschen sie als Zeichen ihrer Gedanken geschaffen und erkennen an ihrer jeweiligen Verbindung,
+was die festgelegte Reihenfolge der Buchstaben ausdrücken soll\.
+Ebenso können die verschiedenen Arten von Wurzeln und die wechselseitige Anordnung von Sehnen und Knochen aus sich selbst nichts bewirken\.
+Sie sind lediglich die Grundstoffe,
+mit denen die Bosheit der Dämonen arbeitet;
+denn diese haben festgelegt,
+wozu jeder von ihnen dienen soll\.
+Wenn sie sehen,
+dass Menschen sich bereitwillig durch solche Dinge von ihnen Dienste leisten lassen,
+nehmen sie diese Menschen in Dienst und machen sie zu ihren Sklaven\.
+Doch was kann ehrenhaft daran sein,
+Ehebruch zu fördern?
+Was kann edel daran sein,
+Menschen dazu anzustacheln,
+einander zu hassen?
+Und wie kann es angemessen sein,
+die Hilfe für Wahnsinnige der Materie zuzuschreiben statt Gott?
+Mit ihrer Kunst bringen die Dämonen die Menschen nämlich davon ab,
+Gott fromm anzuerkennen,
+und verleiten sie dazu,
+ihr Vertrauen auf Kräuter und Wurzeln zu setzen\.
+Hätte Gott aber diese Dinge geschaffen,
+damit sie genau das bewirken,
+was die Menschen wünschen,
+wäre er ein Urheber des Bösen\.
+Er selbst hat jedoch alles hervorgebracht,
+was gute Eigenschaften besitzt\.
+Erst die Zügellosigkeit der Dämonen hat die Erzeugnisse der Natur für böse Zwecke missbraucht\.
+Dass die Erzeugnisse der Natur als böse erscheinen,
+liegt an den Dämonen und nicht an dem vollkommenen Gott\.
+Wie könnte es auch sein,
+dass ich zu Lebzeiten keineswegs böse war,
+meine Überreste nun aber,
+da ich tot bin und nichts mehr vermag,
+eine sinnlich wahrnehmbare Wirkung hervorbringen sollten,
+obwohl sie weder Bewegung noch irgendeine Wahrnehmung besitzen?
+Und wie sollte jemand,
+der einen höchst elenden Tod gestorben ist,
+einem anderen bei seiner Rache helfen können?
+Wäre das möglich,
+könnte er sich erst recht gegen seinen eigenen Feind verteidigen\.
+Wenn er anderen helfen kann,
+könnte er sich umso mehr selbst rächen\.

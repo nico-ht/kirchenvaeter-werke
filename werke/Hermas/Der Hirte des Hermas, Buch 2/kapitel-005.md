@@ -7,8 +7,135 @@ Autor: Hermas
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/hermas/der-hirte-des-hermas-buch-2#kapitel-7d478e88-e39e-4c2b-c2ab-08ddd27a67e8).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:54ddc37a3141606109b9a0ac13084153965b681dc3049ec17c376bd1a1f02d26`
+Fünftes Gebot\.
+„Werde langmütig“,
+sagt er,
+„und verständig,
+dann wirst du über alle bösen Werke herrschen und jede Gerechtigkeit vollbringen\.
+Denn wenn du langmütig bist,
+wird der Heilige Geist,
+der in dir wohnt,
+rein sein,
+von keinem anderen bösen Geist überschattet;
+er wird in weitem Raum wohnen,
+frohlocken und sich mit dem Gefäß freuen,
+in dem er wohnt,
+und Gott in großer Heiterkeit dienen,
+weil er in sich selbst Wohlergehen hat\.
+Wenn aber eine Regung von Bitterkeit hinzutritt,
+wird der Heilige Geist,
+der zart ist,
+sogleich bedrängt,
+weil er keinen reinen Ort hat,
+und sucht von diesem Ort zu weichen\.
+Denn er wird vom bösen Geist erstickt,
+weil er keinen Raum hat,
+dem Herrn so zu dienen,
+wie er will,
+da er von der Bitterkeit befleckt wird\.
+Denn in der Langmut wohnt der Herr,
+in der Bitterkeit aber der Teufel\.
+Wenn also beide Geister an ein und demselben Ort wohnen,
+ist das für jenen Menschen,
+in dem sie wohnen,
+schädlich und böse\.
+Denn wenn du ein ganz kleines Stück Wermut nimmst und in einen Krug Honig gibst,
+wird dann nicht der ganze Honig verdorben?
+Eine solche Menge Honig geht durch das winzige Stück Wermut zugrunde,
+verliert die Süße des Honigs und hat bei seinem Besitzer nicht mehr dieselbe Anmut,
+weil er bitter geworden ist und seine Brauchbarkeit verloren hat\.
+Wenn aber kein Wermut in den Honig getan wird,
+bleibt der Honig süß und wird seinem Besitzer nützlich\.
+Du siehst also:
+Die Langmut ist süßer als Honig,
+sie ist dem Herrn nützlich,
+und er wohnt in ihr\.
+Die Bitterkeit aber ist bitter und unnütz\.
+Wenn nun die Bitterkeit mit der Langmut vermischt wird,
+wird die Langmut befleckt,
+und ihre Fürbitte ist Gott nicht mehr nützlich\.“
+„Ich möchte,
+Herr“,
+sagte ich,
+„die Wirkung der Bitterkeit kennenlernen,
+damit ich mich vor ihr hüte\.“
+„Gewiss“,
+sagt er,
+„wenn du und dein Haus euch nicht vor ihr hüten,
+hast du deine ganze Hoffnung verloren\.
+Hüte dich aber vor ihr;
+denn ich bin mit dir\.
+Und alle werden sich von ihr fernhalten,
+die von ganzem Herzen umkehren\.
+Denn ich werde mit ihnen sein und sie bewahren;
+sie alle sind nämlich durch den ehrwürdigsten Engel gerechtfertigt worden\.“
 
-Fünftes Gebot\. „Werde langmütig“, sagt er, „und verständig, dann wirst du über alle bösen Werke herrschen und jede Gerechtigkeit vollbringen\. Denn wenn du langmütig bist, wird der Heilige Geist, der in dir wohnt, rein sein, von keinem anderen bösen Geist überschattet; er wird in weitem Raum wohnen, frohlocken und sich mit dem Gefäß freuen, in dem er wohnt, und Gott in großer Heiterkeit dienen, weil er in sich selbst Wohlergehen hat\. Wenn aber eine Regung von Bitterkeit hinzutritt, wird der Heilige Geist, der zart ist, sogleich bedrängt, weil er keinen reinen Ort hat, und sucht von diesem Ort zu weichen\. Denn er wird vom bösen Geist erstickt, weil er keinen Raum hat, dem Herrn so zu dienen, wie er will, da er von der Bitterkeit befleckt wird\. Denn in der Langmut wohnt der Herr, in der Bitterkeit aber der Teufel\. Wenn also beide Geister an ein und demselben Ort wohnen, ist das für jenen Menschen, in dem sie wohnen, schädlich und böse\. Denn wenn du ein ganz kleines Stück Wermut nimmst und in einen Krug Honig gibst, wird dann nicht der ganze Honig verdorben? Eine solche Menge Honig geht durch das winzige Stück Wermut zugrunde, verliert die Süße des Honigs und hat bei seinem Besitzer nicht mehr dieselbe Anmut, weil er bitter geworden ist und seine Brauchbarkeit verloren hat\. Wenn aber kein Wermut in den Honig getan wird, bleibt der Honig süß und wird seinem Besitzer nützlich\. Du siehst also: Die Langmut ist süßer als Honig, sie ist dem Herrn nützlich, und er wohnt in ihr\. Die Bitterkeit aber ist bitter und unnütz\. Wenn nun die Bitterkeit mit der Langmut vermischt wird, wird die Langmut befleckt, und ihre Fürbitte ist Gott nicht mehr nützlich\.“ „Ich möchte, Herr“, sagte ich, „die Wirkung der Bitterkeit kennenlernen, damit ich mich vor ihr hüte\.“ „Gewiss“, sagt er, „wenn du und dein Haus euch nicht vor ihr hüten, hast du deine ganze Hoffnung verloren\. Hüte dich aber vor ihr; denn ich bin mit dir\. Und alle werden sich von ihr fernhalten, die von ganzem Herzen umkehren\. Denn ich werde mit ihnen sein und sie bewahren; sie alle sind nämlich durch den ehrwürdigsten Engel gerechtfertigt worden\.“
-
-„Höre nun“, sagt er, „wie böse die Wirkung der Bitterkeit ist, wie sie meine Knechte durch ihre eigene Wirkung zugrunde richtet und wie sie die in die Irre führt, die im Glauben leer und zwiespältig sind\. Gegen die aber, die im Glauben voll sind, kann sie nichts ausrichten, weil meine Kraft mit ihnen ist\. In die Irre führt sie vielmehr die Leeren und Zwiespältigen\. Wenn sie solche Menschen gefestigt sieht, wirft sie sich in das Herz jenes Menschen hinein, und aus dem Nichts gerät der Mann oder die Frau in Bitterkeit: wegen alltäglicher Dinge, wegen Speisen, wegen irgendeiner Kleinlichkeit, wegen eines Freundes, wegen Geben oder Nehmen oder wegen ähnlicher dummer Dinge\. Denn dies alles ist dumm, leer, unverständig und unnütz für die Knechte Gottes\. Die Langmut aber ist groß und stark, hat Kraft und Festigkeit und gedeiht in weiter Fülle; sie ist heiter, froh, sorglos, verherrlicht den Herrn zu jeder Zeit, hat nichts Bitteres in sich und bleibt immer sanft und ruhig\. Diese Langmut also wohnt bei denen, die den Glauben ganz besitzen\. Die Bitterkeit dagegen ist vor allem dumm, leichtfertig und unverständig\. Aus der Unvernunft entsteht dann Bitterkeit, aus der Bitterkeit Erregung, aus der Erregung Zorn, aus dem Zorn Groll\. Und dieser Groll, aus so vielen Übeln zusammengesetzt, wird zu einer großen und unheilbaren Sünde, denn wenn diese Geister in einem einzigen Gefäß wohnen, in dem auch der Heilige Geist wohnt, dann hat jenes Gefäß keinen Raum mehr, sondern läuft über\. Der zarte Geist nun, der nicht gewohnt ist, mit einem bösen Geist oder mit Härte zusammenzuwohnen, weicht von einem solchen Menschen und sucht bei Sanftmut und Ruhe zu wohnen\. Wenn er dann von jenem Menschen, in dem er wohnte, gewichen ist, wird dieser Mensch leer vom gerechten Geist; und von da an, erfüllt von den bösen Geistern, ist er in allem, was er tut, unstet, wird von den bösen Geistern hierhin und dorthin gezerrt und wird ganz blind gegenüber dem guten Sinn\. So geschieht es also allen Bitteren\. Halte dich daher fern von Bitterkeit und Verbitterung, dann wirst du zusammen mit der Würde gefunden werden, die der Herr liebt\. Sieh also zu, dass du dieses Gebot niemals missachtest\. Denn wenn du über dieses Gebot Herr wirst, wirst du auch die übrigen Gebote halten können, die ich dir noch geben werde\. Werde stark in ihnen und kräftige dich, und alle sollen sich kräftigen, die in ihnen wandeln wollen\.“
+„Höre nun“,
+sagt er,
+„wie böse die Wirkung der Bitterkeit ist,
+wie sie meine Knechte durch ihre eigene Wirkung zugrunde richtet und wie sie die in die Irre führt,
+die im Glauben leer und zwiespältig sind\.
+Gegen die aber,
+die im Glauben voll sind,
+kann sie nichts ausrichten,
+weil meine Kraft mit ihnen ist\.
+In die Irre führt sie vielmehr die Leeren und Zwiespältigen\.
+Wenn sie solche Menschen gefestigt sieht,
+wirft sie sich in das Herz jenes Menschen hinein,
+und aus dem Nichts gerät der Mann oder die Frau in Bitterkeit:
+wegen alltäglicher Dinge,
+wegen Speisen,
+wegen irgendeiner Kleinlichkeit,
+wegen eines Freundes,
+wegen Geben oder Nehmen oder wegen ähnlicher dummer Dinge\.
+Denn dies alles ist dumm,
+leer,
+unverständig und unnütz für die Knechte Gottes\.
+Die Langmut aber ist groß und stark,
+hat Kraft und Festigkeit und gedeiht in weiter Fülle;
+sie ist heiter,
+froh,
+sorglos,
+verherrlicht den Herrn zu jeder Zeit,
+hat nichts Bitteres in sich und bleibt immer sanft und ruhig\.
+Diese Langmut also wohnt bei denen,
+die den Glauben ganz besitzen\.
+Die Bitterkeit dagegen ist vor allem dumm,
+leichtfertig und unverständig\.
+Aus der Unvernunft entsteht dann Bitterkeit,
+aus der Bitterkeit Erregung,
+aus der Erregung Zorn,
+aus dem Zorn Groll\.
+Und dieser Groll,
+aus so vielen Übeln zusammengesetzt,
+wird zu einer großen und unheilbaren Sünde,
+denn wenn diese Geister in einem einzigen Gefäß wohnen,
+in dem auch der Heilige Geist wohnt,
+dann hat jenes Gefäß keinen Raum mehr,
+sondern läuft über\.
+Der zarte Geist nun,
+der nicht gewohnt ist,
+mit einem bösen Geist oder mit Härte zusammenzuwohnen,
+weicht von einem solchen Menschen und sucht bei Sanftmut und Ruhe zu wohnen\.
+Wenn er dann von jenem Menschen,
+in dem er wohnte,
+gewichen ist,
+wird dieser Mensch leer vom gerechten Geist;
+und von da an,
+erfüllt von den bösen Geistern,
+ist er in allem,
+was er tut,
+unstet,
+wird von den bösen Geistern hierhin und dorthin gezerrt und wird ganz blind gegenüber dem guten Sinn\.
+So geschieht es also allen Bitteren\.
+Halte dich daher fern von Bitterkeit und Verbitterung,
+dann wirst du zusammen mit der Würde gefunden werden,
+die der Herr liebt\.
+Sieh also zu,
+dass du dieses Gebot niemals missachtest\.
+Denn wenn du über dieses Gebot Herr wirst,
+wirst du auch die übrigen Gebote halten können,
+die ich dir noch geben werde\.
+Werde stark in ihnen und kräftige dich,
+und alle sollen sich kräftigen,
+die in ihnen wandeln wollen\.“

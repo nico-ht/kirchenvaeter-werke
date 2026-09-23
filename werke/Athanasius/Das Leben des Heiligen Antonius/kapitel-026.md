@@ -7,6 +7,30 @@ Autor: Athanasius
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/das-leben-des-heiligen-antonius#kapitel-b7acdbf9-a9f0-4b99-ba99-08dd392b6e8c).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e2ebbaa43be8adacd0fdab08ea8e5056ff1ae56067af37f94113e03f2f34082d`
-
-Wiederum sind sie treulos und bereit, sich in alle Formen zu verwandeln und alle Erscheinungen anzunehmen\. Sehr oft imitieren sie auch, ohne zu erscheinen, die Musik von Harfe und Stimme und erinnern an die Worte der Schrift\. Manchmal wiederholen sie während des Lesens sofort viele Male, wie ein Echo, was gelesen wird\. Sie wecken uns aus unserem Schlaf zu Gebeten; und das ständig, sodass sie uns kaum schlafen lassen\. Zu einem anderen Zeitpunkt nehmen sie das Aussehen von Mönchen an und heucheln die Rede frommer Männer, um durch ihre Ähnlichkeit zu täuschen und so ihre Opfer dorthin zu ziehen, wo sie wollen\. Doch man darf ihnen keine Beachtung schenken, selbst wenn sie zum Gebet anregen, selbst wenn sie uns raten, überhaupt nicht zu essen, selbst wenn sie uns scheinbar anklagen und beschämen für die Dinge, die sie einst erlaubt haben\. Denn sie tun dies nicht um der Frömmigkeit oder der Wahrheit willen, sondern um die Unschuldigen zur Verzweiflung zu bringen; um zu sagen, die Zucht sei nutzlos, und um die Menschen zu verabscheuen, das einsame Leben als Mühe und Last zu empfinden und diejenigen zu hindern, die trotz ihrer Einflüsse darin wandeln\.
+Wiederum sind sie treulos und bereit,
+sich in alle Formen zu verwandeln und alle Erscheinungen anzunehmen\.
+Sehr oft imitieren sie auch,
+ohne zu erscheinen,
+die Musik von Harfe und Stimme und erinnern an die Worte der Schrift\.
+Manchmal wiederholen sie während des Lesens sofort viele Male,
+wie ein Echo,
+was gelesen wird\.
+Sie wecken uns aus unserem Schlaf zu Gebeten;
+und das ständig,
+sodass sie uns kaum schlafen lassen\.
+Zu einem anderen Zeitpunkt nehmen sie das Aussehen von Mönchen an und heucheln die Rede frommer Männer,
+um durch ihre Ähnlichkeit zu täuschen und so ihre Opfer dorthin zu ziehen,
+wo sie wollen\.
+Doch man darf ihnen keine Beachtung schenken,
+selbst wenn sie zum Gebet anregen,
+selbst wenn sie uns raten,
+überhaupt nicht zu essen,
+selbst wenn sie uns scheinbar anklagen und beschämen für die Dinge,
+die sie einst erlaubt haben\.
+Denn sie tun dies nicht um der Frömmigkeit oder der Wahrheit willen,
+sondern um die Unschuldigen zur Verzweiflung zu bringen;
+um zu sagen,
+die Zucht sei nutzlos,
+und um die Menschen zu verabscheuen,
+das einsame Leben als Mühe und Last zu empfinden und diejenigen zu hindern,
+die trotz ihrer Einflüsse darin wandeln\.

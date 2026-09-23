@@ -7,9 +7,157 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/21-homilie-ueber-matthaeus#kapitel-fcea0129-9eda-4641-5a8f-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5aef76ee48e3c79489f6fa5bd80e059fdd79d057c78662f204996a9f1b08240b`
-
-Den Mammon aber nannte er hier Herrn, nicht seiner eigenen Natur wegen, sondern wegen des Elends derer, die sich vor ihm beugen\. So nennt er auch den Bauch Gott, nicht wegen der Würde dieser Herrin, sondern wegen der Erbärmlichkeit derer, die ihr dienen; das ist schlimmer als jede Strafe und reicht schon vor der Strafe aus, den zu strafen, der dieser Dienstbarkeit verfallen ist\. Denn welche Verurteilten wären erbärmlicher als Menschen, die Gott zum Herrn haben und aus jenem milden Königreich zu einer harten Tyrannei überlaufen, und das, obwohl aus dieser Mammonherrschaft schon hier so großer Schaden erwächst? Denn von ihr kommen unsäglicher Verlust, Prozesse, Beschimpfungen, Kämpfe, Mühen und eine Verkrüppelung der Seele; und das Schwerste von allem ist, dass man aus den höchsten Gütern herausfällt, nämlich aus dem Dienst Gottes\. Nachdem er also durch all dies gezeigt hat, welchen Nutzen es hat, Geld zu verachten: für die Bewahrung des Geldes selbst, für die Freude der Seele, für den Erwerb des tugendhaften Lebens und für die Sicherheit der Frömmigkeit, begründet er nun, dass auch diese Mahnung möglich ist\. Denn gerade das gehört zu der besten Gesetzgebung: nicht nur anzuordnen, was nützlich ist, sondern es auch möglich zu machen\. Darum fügt er hinzu und sagt: „Sorgt euch nicht um euer Leben, was ihr essen sollt\.[^bible-1431c746-41ce-424e-ba66-4d91b0450b8a]“ Damit sie nämlich nicht sagen: „Was denn? Wenn wir alles wegwerfen, wie werden wir leben können?“, wendet er sich nun gerade im rechten Augenblick gegen diesen Einwand\. Denn hätte er gleich am Anfang gesagt: „Sorgt euch nicht“, dann hätte das Wort hart gewirkt; nachdem er aber den Verderb gezeigt hat, der aus der Geldgier entsteht, macht er die Mahnung nun leicht annehmbar\. Darum sagte er auch jetzt nicht einfach: „Sorgt euch nicht“, sondern fügte den Grund hinzu und gab dann diesen Befehl\. Denn nachdem er gesagt hatte: „Ihr könnt nicht Gott dienen und dem Mammon\.[^bible-1c427c93-e0b3-4121-9efa-0e10ad754e7b]“, fügte er hinzu: „Darum sage ich euch: Sorgt euch nicht\.[^bible-1431c746-41ce-424e-ba66-4d91b0450b8a]“ Was heißt „darum“? Wegen des unsäglichen Schadens\. Denn der Schaden trifft euch nicht nur am Geld, sondern der Schlag trifft euch in dem, was euch am meisten angeht, und macht euer Heil zunichte\. Denn diese Bindung stößt euch von Gott weg, der euch geschaffen hat, für euch sorgt und euch liebt\. „Darum sage ich euch: Sorgt euch nicht\.[^bible-1431c746-41ce-424e-ba66-4d91b0450b8a]“ Nachdem er nämlich den Schaden als unsäglich gezeigt hat, verschärft er nun den Befehl\. Denn er befiehlt nicht nur, den Besitz wegzuwerfen, sondern nicht einmal um die notwendige Nahrung besorgt zu sein, wenn er sagt: „Sorgt euch nicht um euer Leben, was ihr essen sollt\.[^bible-1431c746-41ce-424e-ba66-4d91b0450b8a]“ Nicht weil die Seele Nahrung braucht, denn sie ist unkörperlich, sondern er sprach nach dem gewöhnlichen Sprachgebrauch\. Denn auch wenn sie keine Nahrung braucht, könnte sie doch nicht anders im Leib bleiben, als wenn dieser ernährt wird\. Und nachdem er dies gesagt hat, stellt er es nicht einfach so hin, sondern ruft auch hier Überlegungen wach: die einen aus dem, was uns schon gegeben ist, die anderen aus anderen Beispielen\. Aus dem, was schon gegeben ist, spricht er so: „Ist nicht das Leben mehr als die Nahrung und der Leib mehr als die Kleidung?[^bible-1431c746-41ce-424e-ba66-4d91b0450b8a]“ Wer also das Größere gegeben hat, wie sollte er das Geringere nicht geben? Wer das Fleisch gebildet hat, das ernährt wird, wie sollte er die Nahrung nicht bereitstellen? Darum sagte er auch nicht einfach: „Sorgt euch nicht, was ihr essen und was ihr anziehen sollt“, sondern: „um den Leib“ und „um das Leben“, weil er aus ihnen selbst seine Beweise führen wollte, indem er das Argument durch Vergleich vorantrieb\. Die Seele aber hat er ein für alle Mal gegeben, und sie bleibt, wie sie ist; den Leib dagegen lässt er Tag für Tag wachsen\. Um beides also zu zeigen, die Unsterblichkeit der Seele und die Vergänglichkeit des Leibes, fügte er hinzu und sagte: „Wer von euch kann seiner Lebenslänge eine einzige Elle hinzufügen?[^bible-599de478-5bc2-434e-ab15-8aa8bdd3246c]“ Und nachdem er von der Seele schwieg, weil sie kein Wachstum empfängt, sprach er nur über den Leib; von diesem aus machte er auch jenes deutlich: Nicht die Nahrung lässt ihn wachsen, sondern Gottes Fürsorge\. Dasselbe machte auch Paulus mit anderen Worten deutlich, als er sagte: „Also ist weder der etwas, der pflanzt, noch der, der begießt, sondern Gott, der wachsen lässt\.[^bible-215bf7c8-251e-42e5-8012-258ccc02256b]“ Aus dem, was schon gegeben ist, hat er also so ermahnt; aus anderen Beispielen aber, indem er sagt: „Seht auf die Vögel des Himmels\.[^bible-d39592ad-1f29-4fc4-b91c-b7cf20fa6fb1]“ Damit nämlich niemand sagt, wir hätten Nutzen davon, wenn wir uns sorgen, hält er sie sowohl vom Größeren her als auch vom Geringeren her davon ab: vom Größeren her, der Seele und dem Leib; vom Geringeren her, den Vögeln\. Denn wenn er für die weit Geringeren so große Sorge trägt, wie sollte er euch nicht geben?, sagt er\. Zu diesen also spricht er so, denn es war bis dahin eine einfache Volksmenge; zum Teufel aber nicht so, sondern wie? „Nicht vom Brot allein wird der Mensch leben, sondern von jedem Wort, das durch den Mund Gottes hervorgeht\.[^bible-993c2c6a-56a2-4c84-9cb2-d2e4125d652d]“ Hier aber erinnert er an die Vögel, und das in höchst beschämender Weise; gerade das hat in einer Mahnrede die größte Kraft\. Doch einige von den Gottlosen sind in so große Torheit geraten, dass sie sogar das Beispiel angriffen\. Sie sagen nämlich: Wer den freien Willen anspornen will, durfte nicht von natürlichen Vorzügen her dazu anleiten; denn jenen kommt dies von Natur aus zu, sagen sie\.
+Den Mammon aber nannte er hier Herrn,
+nicht seiner eigenen Natur wegen,
+sondern wegen des Elends derer,
+die sich vor ihm beugen\.
+So nennt er auch den Bauch Gott,
+nicht wegen der Würde dieser Herrin,
+sondern wegen der Erbärmlichkeit derer,
+die ihr dienen;
+das ist schlimmer als jede Strafe und reicht schon vor der Strafe aus,
+den zu strafen,
+der dieser Dienstbarkeit verfallen ist\.
+Denn welche Verurteilten wären erbärmlicher als Menschen,
+die Gott zum Herrn haben und aus jenem milden Königreich zu einer harten Tyrannei überlaufen,
+und das,
+obwohl aus dieser Mammonherrschaft schon hier so großer Schaden erwächst?
+Denn von ihr kommen unsäglicher Verlust,
+Prozesse,
+Beschimpfungen,
+Kämpfe,
+Mühen und eine Verkrüppelung der Seele;
+und das Schwerste von allem ist,
+dass man aus den höchsten Gütern herausfällt,
+nämlich aus dem Dienst Gottes\.
+Nachdem er also durch all dies gezeigt hat,
+welchen Nutzen es hat,
+Geld zu verachten:
+für die Bewahrung des Geldes selbst,
+für die Freude der Seele,
+für den Erwerb des tugendhaften Lebens und für die Sicherheit der Frömmigkeit,
+begründet er nun,
+dass auch diese Mahnung möglich ist\.
+Denn gerade das gehört zu der besten Gesetzgebung:
+nicht nur anzuordnen,
+was nützlich ist,
+sondern es auch möglich zu machen\.
+Darum fügt er hinzu und sagt:
+„Sorgt euch nicht um euer Leben,
+was ihr essen sollt\.[^bible-1431c746-41ce-424e-ba66-4d91b0450b8a]“ Damit sie nämlich nicht sagen:
+„Was denn?
+Wenn wir alles wegwerfen,
+wie werden wir leben können?“,
+wendet er sich nun gerade im rechten Augenblick gegen diesen Einwand\.
+Denn hätte er gleich am Anfang gesagt:
+„Sorgt euch nicht“,
+dann hätte das Wort hart gewirkt;
+nachdem er aber den Verderb gezeigt hat,
+der aus der Geldgier entsteht,
+macht er die Mahnung nun leicht annehmbar\.
+Darum sagte er auch jetzt nicht einfach:
+„Sorgt euch nicht“,
+sondern fügte den Grund hinzu und gab dann diesen Befehl\.
+Denn nachdem er gesagt hatte:
+„Ihr könnt nicht Gott dienen und dem Mammon\.[^bible-1c427c93-e0b3-4121-9efa-0e10ad754e7b]“,
+fügte er hinzu:
+„Darum sage ich euch:
+Sorgt euch nicht\.[^bible-1431c746-41ce-424e-ba66-4d91b0450b8a]“ Was heißt „darum“?
+Wegen des unsäglichen Schadens\.
+Denn der Schaden trifft euch nicht nur am Geld,
+sondern der Schlag trifft euch in dem,
+was euch am meisten angeht,
+und macht euer Heil zunichte\.
+Denn diese Bindung stößt euch von Gott weg,
+der euch geschaffen hat,
+für euch sorgt und euch liebt\.
+„Darum sage ich euch:
+Sorgt euch nicht\.[^bible-1431c746-41ce-424e-ba66-4d91b0450b8a]“ Nachdem er nämlich den Schaden als unsäglich gezeigt hat,
+verschärft er nun den Befehl\.
+Denn er befiehlt nicht nur,
+den Besitz wegzuwerfen,
+sondern nicht einmal um die notwendige Nahrung besorgt zu sein,
+wenn er sagt:
+„Sorgt euch nicht um euer Leben,
+was ihr essen sollt\.[^bible-1431c746-41ce-424e-ba66-4d91b0450b8a]“ Nicht weil die Seele Nahrung braucht,
+denn sie ist unkörperlich,
+sondern er sprach nach dem gewöhnlichen Sprachgebrauch\.
+Denn auch wenn sie keine Nahrung braucht,
+könnte sie doch nicht anders im Leib bleiben,
+als wenn dieser ernährt wird\.
+Und nachdem er dies gesagt hat,
+stellt er es nicht einfach so hin,
+sondern ruft auch hier Überlegungen wach:
+die einen aus dem,
+was uns schon gegeben ist,
+die anderen aus anderen Beispielen\.
+Aus dem,
+was schon gegeben ist,
+spricht er so:
+„Ist nicht das Leben mehr als die Nahrung und der Leib mehr als die Kleidung?[^bible-1431c746-41ce-424e-ba66-4d91b0450b8a]“ Wer also das Größere gegeben hat,
+wie sollte er das Geringere nicht geben?
+Wer das Fleisch gebildet hat,
+das ernährt wird,
+wie sollte er die Nahrung nicht bereitstellen?
+Darum sagte er auch nicht einfach:
+„Sorgt euch nicht,
+was ihr essen und was ihr anziehen sollt“,
+sondern:
+„um den Leib“ und „um das Leben“,
+weil er aus ihnen selbst seine Beweise führen wollte,
+indem er das Argument durch Vergleich vorantrieb\.
+Die Seele aber hat er ein für alle Mal gegeben,
+und sie bleibt,
+wie sie ist;
+den Leib dagegen lässt er Tag für Tag wachsen\.
+Um beides also zu zeigen,
+die Unsterblichkeit der Seele und die Vergänglichkeit des Leibes,
+fügte er hinzu und sagte:
+„Wer von euch kann seiner Lebenslänge eine einzige Elle hinzufügen?[^bible-599de478-5bc2-434e-ab15-8aa8bdd3246c]“ Und nachdem er von der Seele schwieg,
+weil sie kein Wachstum empfängt,
+sprach er nur über den Leib;
+von diesem aus machte er auch jenes deutlich:
+Nicht die Nahrung lässt ihn wachsen,
+sondern Gottes Fürsorge\.
+Dasselbe machte auch Paulus mit anderen Worten deutlich,
+als er sagte:
+„Also ist weder der etwas,
+der pflanzt,
+noch der,
+der begießt,
+sondern Gott,
+der wachsen lässt\.[^bible-215bf7c8-251e-42e5-8012-258ccc02256b]“ Aus dem,
+was schon gegeben ist,
+hat er also so ermahnt;
+aus anderen Beispielen aber,
+indem er sagt:
+„Seht auf die Vögel des Himmels\.[^bible-d39592ad-1f29-4fc4-b91c-b7cf20fa6fb1]“ Damit nämlich niemand sagt,
+wir hätten Nutzen davon,
+wenn wir uns sorgen,
+hält er sie sowohl vom Größeren her als auch vom Geringeren her davon ab:
+vom Größeren her,
+der Seele und dem Leib;
+vom Geringeren her,
+den Vögeln\.
+Denn wenn er für die weit Geringeren so große Sorge trägt,
+wie sollte er euch nicht geben?,
+sagt er\.
+Zu diesen also spricht er so,
+denn es war bis dahin eine einfache Volksmenge;
+zum Teufel aber nicht so,
+sondern wie?
+„Nicht vom Brot allein wird der Mensch leben,
+sondern von jedem Wort,
+das durch den Mund Gottes hervorgeht\.[^bible-993c2c6a-56a2-4c84-9cb2-d2e4125d652d]“ Hier aber erinnert er an die Vögel,
+und das in höchst beschämender Weise;
+gerade das hat in einer Mahnrede die größte Kraft\.
+Doch einige von den Gottlosen sind in so große Torheit geraten,
+dass sie sogar das Beispiel angriffen\.
+Sie sagen nämlich:
+Wer den freien Willen anspornen will,
+durfte nicht von natürlichen Vorzügen her dazu anleiten;
+denn jenen kommt dies von Natur aus zu,
+sagen sie\.
 
 ## Bibelverweise
 

@@ -7,9 +7,55 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-1#kapitel-5291b627-db85-46d6-cd29-08dd5e2b9946).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ad78d9d49f8179b5aa78191dc3a05bef76798cd92b3909f0a9e432e78b47f77b`
-
-Warum spricht Gott, als er dem Menschen gebot, von jedem Baum im Paradies zu essen, in der Einzahl und sagt: „Du sollst essen[^bible-69d023c2-f485-4adb-9d62-bb7c08fe2426]“, während er, als er gebietet, sich des Baumes zu enthalten, der ihm die Erkenntnis von Gut und Böse geben würde, in der Mehrzahl spricht und sagt: „Ihr sollt nicht davon essen; denn an dem Tag, an dem ihr davon esst, werdet ihr gewiss sterben[^bible-1497e530-e25b-451c-b985-5c8367889a01]“? Erstens gebraucht er diese Ausdrucksweise, weil das eine Gute aus vielem hervorging\. Auch dies ist bei diesen Grundsätzen nicht unwichtig: Wer etwas Nützliches getan hat, ist einer, und wer zu etwas Nützlichem gelangt, ist ebenfalls einer\. Wenn ich aber „einer“ sage, meine ich nicht das, was der Zahl nach vor der Zweiheit steht, sondern jene eine schöpferische Tugend, durch die viele Wesen zu Recht zusammenwachsen und durch ihre Eintracht die Einzigkeit nachahmen: wie eine Herde, eine Viehherde, eine Schar, ein Chor, ein Heer, ein Volk, ein Stamm, eine Familie, ein Staat\. Denn all dies bildet, obwohl es aus vielen Gliedern besteht, eine einzige Gemeinschaft, da es durch Zuneigung wie durch einen Kuss verbunden ist\. Was dagegen nicht verbunden ist und wegen seiner Zweiheit und Vielheit keinen Grundsatz der Einheit besitzt, zerfällt in verschiedene Teilungen; denn die Zweiheit ist der Anfang der Zwietracht\. Zwei Menschen aber, die nach derselben Philosophie so leben, als wären sie einer, üben eine unvermischte und glänzende Tugend, frei von jedem Makel der Bosheit\. Wo aber Gut und Böse miteinander vermischt sind, enthält die Verbindung den Anfang des Todes\.
+Warum spricht Gott,
+als er dem Menschen gebot,
+von jedem Baum im Paradies zu essen,
+in der Einzahl und sagt:
+„Du sollst essen[^bible-69d023c2-f485-4adb-9d62-bb7c08fe2426]“,
+während er,
+als er gebietet,
+sich des Baumes zu enthalten,
+der ihm die Erkenntnis von Gut und Böse geben würde,
+in der Mehrzahl spricht und sagt:
+„Ihr sollt nicht davon essen;
+denn an dem Tag,
+an dem ihr davon esst,
+werdet ihr gewiss sterben[^bible-1497e530-e25b-451c-b985-5c8367889a01]“?
+Erstens gebraucht er diese Ausdrucksweise,
+weil das eine Gute aus vielem hervorging\.
+Auch dies ist bei diesen Grundsätzen nicht unwichtig:
+Wer etwas Nützliches getan hat,
+ist einer,
+und wer zu etwas Nützlichem gelangt,
+ist ebenfalls einer\.
+Wenn ich aber „einer“ sage,
+meine ich nicht das,
+was der Zahl nach vor der Zweiheit steht,
+sondern jene eine schöpferische Tugend,
+durch die viele Wesen zu Recht zusammenwachsen und durch ihre Eintracht die Einzigkeit nachahmen:
+wie eine Herde,
+eine Viehherde,
+eine Schar,
+ein Chor,
+ein Heer,
+ein Volk,
+ein Stamm,
+eine Familie,
+ein Staat\.
+Denn all dies bildet,
+obwohl es aus vielen Gliedern besteht,
+eine einzige Gemeinschaft,
+da es durch Zuneigung wie durch einen Kuss verbunden ist\.
+Was dagegen nicht verbunden ist und wegen seiner Zweiheit und Vielheit keinen Grundsatz der Einheit besitzt,
+zerfällt in verschiedene Teilungen;
+denn die Zweiheit ist der Anfang der Zwietracht\.
+Zwei Menschen aber,
+die nach derselben Philosophie so leben,
+als wären sie einer,
+üben eine unvermischte und glänzende Tugend,
+frei von jedem Makel der Bosheit\.
+Wo aber Gut und Böse miteinander vermischt sind,
+enthält die Verbindung den Anfang des Todes\.
 
 ## Bibelverweise
 

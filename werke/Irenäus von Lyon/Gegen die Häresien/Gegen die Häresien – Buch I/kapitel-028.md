@@ -7,8 +7,60 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-i#kapitel-bde1701d-61aa-4209-0338-08def58bbd12).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:8157b1e4c7923868a47d04396caf1edb14d7883100c02b1cb618abeda07a7c4d`
+Aus den Häretikern,
+die wir beschrieben haben,
+sind bereits viele Ableger zahlreicher Häresien hervorgegangen\.
+Das kommt daher,
+dass viele von ihnen,
+ja man kann sagen:
+alle,
+selbst Lehrer sein und sich von der jeweiligen Häresie lösen wollen,
+in die sie verstrickt waren\.
+Aus einem völlig anderen Lehrsystem bilden sie ein eigenes Lehrgefüge,
+daraus wiederum andere,
+und bestehen dann darauf,
+etwas Neues zu lehren\.
+Dabei erklären sie sich selbst zu Erfindern jeder beliebigen Ansicht,
+die sie ins Leben rufen konnten\.
+Um ein Beispiel zu geben:
+Aus Saturninus und Marcion gingen die sogenannten Enkratiten hervor\.
+Sie predigten gegen die Ehe und setzten damit Gottes ursprüngliche Schöpfung beiseite;
+zugleich beschuldigten sie indirekt den,
+der Mann und Frau zur Fortpflanzung des Menschengeschlechts geschaffen hat\.
+Einige von denen,
+die zu ihnen gerechnet werden,
+haben auch den Verzicht auf Speisen tierischen Ursprungs eingeführt und erweisen sich dadurch als undankbar gegen Gott,
+der alles geschaffen hat\.
+Auch leugnen sie die Rettung dessen,
+der zuerst geschaffen wurde\.
+Diese Meinung ist bei ihnen jedoch erst vor Kurzem erfunden worden\.
+Ein Mann namens Tatian führte als Erster diese Gotteslästerung ein\.
+Er war ein Hörer Justins,
+und solange er bei ihm blieb,
+äußerte er solche Ansichten nicht\.
+Nach dessen Martyrium aber trennte er sich von der Kirche\.
+Vom Gedanken,
+Lehrer zu sein,
+in Erregung und Hochmut getrieben,
+als stünde er über den anderen,
+stellte er seine eigene besondere Art von Lehre zusammen\.
+Er erfand ein System bestimmter unsichtbarer Äonen,
+ähnlich wie die Anhänger des Valentinus;
+zugleich erklärte er wie Marcion und Saturninus,
+die Ehe sei nichts anderes als Verderbnis und Hurerei\.
+Dass er aber Adams Rettung leugnete,
+war eine Ansicht,
+die ganz von ihm selbst stammte\.
 
-Aus den Häretikern, die wir beschrieben haben, sind bereits viele Ableger zahlreicher Häresien hervorgegangen\. Das kommt daher, dass viele von ihnen, ja man kann sagen: alle, selbst Lehrer sein und sich von der jeweiligen Häresie lösen wollen, in die sie verstrickt waren\. Aus einem völlig anderen Lehrsystem bilden sie ein eigenes Lehrgefüge, daraus wiederum andere, und bestehen dann darauf, etwas Neues zu lehren\. Dabei erklären sie sich selbst zu Erfindern jeder beliebigen Ansicht, die sie ins Leben rufen konnten\. Um ein Beispiel zu geben: Aus Saturninus und Marcion gingen die sogenannten Enkratiten hervor\. Sie predigten gegen die Ehe und setzten damit Gottes ursprüngliche Schöpfung beiseite; zugleich beschuldigten sie indirekt den, der Mann und Frau zur Fortpflanzung des Menschengeschlechts geschaffen hat\. Einige von denen, die zu ihnen gerechnet werden, haben auch den Verzicht auf Speisen tierischen Ursprungs eingeführt und erweisen sich dadurch als undankbar gegen Gott, der alles geschaffen hat\. Auch leugnen sie die Rettung dessen, der zuerst geschaffen wurde\. Diese Meinung ist bei ihnen jedoch erst vor Kurzem erfunden worden\. Ein Mann namens Tatian führte als Erster diese Gotteslästerung ein\. Er war ein Hörer Justins, und solange er bei ihm blieb, äußerte er solche Ansichten nicht\. Nach dessen Martyrium aber trennte er sich von der Kirche\. Vom Gedanken, Lehrer zu sein, in Erregung und Hochmut getrieben, als stünde er über den anderen, stellte er seine eigene besondere Art von Lehre zusammen\. Er erfand ein System bestimmter unsichtbarer Äonen, ähnlich wie die Anhänger des Valentinus; zugleich erklärte er wie Marcion und Saturninus, die Ehe sei nichts anderes als Verderbnis und Hurerei\. Dass er aber Adams Rettung leugnete, war eine Ansicht, die ganz von ihm selbst stammte\.
-
-Andere wiederum, die auf Basilides und Carpocrates folgen, haben zügellosen Geschlechtsverkehr und eine Mehrzahl von Frauen eingeführt\. Auch ist es ihnen gleichgültig, Fleisch zu essen, das Götzen geopfert wurde; sie behaupten, Gott nehme solche Dinge nicht besonders wichtig\. Doch wozu fortfahren? Es wäre aussichtslos, alle zu nennen, die auf die eine oder andere Weise von der Wahrheit abgefallen sind\.
+Andere wiederum,
+die auf Basilides und Carpocrates folgen,
+haben zügellosen Geschlechtsverkehr und eine Mehrzahl von Frauen eingeführt\.
+Auch ist es ihnen gleichgültig,
+Fleisch zu essen,
+das Götzen geopfert wurde;
+sie behaupten,
+Gott nehme solche Dinge nicht besonders wichtig\.
+Doch wozu fortfahren?
+Es wäre aussichtslos,
+alle zu nennen,
+die auf die eine oder andere Weise von der Wahrheit abgefallen sind\.

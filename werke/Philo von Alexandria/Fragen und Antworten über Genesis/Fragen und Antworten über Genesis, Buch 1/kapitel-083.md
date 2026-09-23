@@ -7,6 +7,91 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-1#kapitel-8d3a23ae-b24c-480a-cd6d-08dd5e2b9946).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:63738474c34c1fd31b4062159535843b85893ce42595a2523828870210b10f24`
-
-Warum wird von Henoch, der die Buße pflegte, gesagt, er habe vor seiner Buße hundertfünfundsechzig Jahre gelebt, nach seiner Buße aber zweihundert? Diese Zahl von hundertfünfundsechzig setzt sich aus der einfachen Addition von zehn Zahlen zusammen, von der Eins bis zur Zehn: eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn; ihre Summe ist fünfundfünfzig\. Und wiederum entsteht aus ihr durch Hinzufügung von zehn Zahlen, die unter Auslassung der Eins in Zweierschritten aufsteigen, nämlich zwei, vier, sechs, acht, zehn, zwölf, vierzehn, sechzehn, achtzehn, zwanzig, die zusammen hundertzehn ergeben\. Die Verbindung dieser Zahlen mit den zuerst genannten ergibt hundertfünfundsechzig\. Bei dieser Addition erreichen die geraden Zahlen das Doppelte der ungeraden; denn die Frau ist heftiger als der Mann, in jener verkehrten Weise, in der der schlechte Mensch über den tugendhaften herrscht, die äußere Wahrnehmung über den Geist, der Körper über die äußere Wahrnehmung und die Materie über ihre Ursache\. Die Zahl zweihundert aber, in der die Buße geübt wurde, setzt sich aus zweimal hundert zusammen\. Die erste Hundert deutet auf die Reinigung von Ungerechtigkeit hin, die andere aber bezeichnet die Fülle vollkommener Tugend\. Denn in Wahrheit muss, bevor irgendetwas anderes geschieht, zuerst an einem kranken Körper jeder erkrankte Teil abgeschnitten werden; danach sind ihm Heilmittel anzuwenden\. Das ist nämlich der erste Schritt, das andere der zweite\. Außerdem besteht die Zahl zweihundert aus Vieren; denn sie entsteht gleichsam aus Samen, aus vier Dreieckszahlen, aus vier Quadratzahlen, aus vier Fünfeckszahlen, aus vier Sechseckszahlen und aus vier Siebeneckszahlen, und, wie man sagen kann, setzt sie ihren Schritt auf die Zahl sieben\. Die vier Dreieckszahlen sind diese: eins, drei, sechs, zehn; sie ergeben zwanzig\. Die vier Quadratzahlen sind eins, vier, neun, sechzehn; sie ergeben dreißig\. Aus den vier Fünfeckszahlen, eins, fünf, zwölf, zweiundzwanzig, entsteht die Zahl vierzig\. Ferner ergeben die vier Sechseckszahlen, eins, sechs, fünfzehn, achtundzwanzig, fünfzig; und die vier Siebeneckszahlen, eins, sieben, achtzehn, vierunddreißig, ergeben sechzig\. Alle diese Zahlen zusammengenommen ergeben zweihundert\.
+Warum wird von Henoch,
+der die Buße pflegte,
+gesagt,
+er habe vor seiner Buße hundertfünfundsechzig Jahre gelebt,
+nach seiner Buße aber zweihundert?
+Diese Zahl von hundertfünfundsechzig setzt sich aus der einfachen Addition von zehn Zahlen zusammen,
+von der Eins bis zur Zehn:
+eins,
+zwei,
+drei,
+vier,
+fünf,
+sechs,
+sieben,
+acht,
+neun,
+zehn;
+ihre Summe ist fünfundfünfzig\.
+Und wiederum entsteht aus ihr durch Hinzufügung von zehn Zahlen,
+die unter Auslassung der Eins in Zweierschritten aufsteigen,
+nämlich zwei,
+vier,
+sechs,
+acht,
+zehn,
+zwölf,
+vierzehn,
+sechzehn,
+achtzehn,
+zwanzig,
+die zusammen hundertzehn ergeben\.
+Die Verbindung dieser Zahlen mit den zuerst genannten ergibt hundertfünfundsechzig\.
+Bei dieser Addition erreichen die geraden Zahlen das Doppelte der ungeraden;
+denn die Frau ist heftiger als der Mann,
+in jener verkehrten Weise,
+in der der schlechte Mensch über den tugendhaften herrscht,
+die äußere Wahrnehmung über den Geist,
+der Körper über die äußere Wahrnehmung und die Materie über ihre Ursache\.
+Die Zahl zweihundert aber,
+in der die Buße geübt wurde,
+setzt sich aus zweimal hundert zusammen\.
+Die erste Hundert deutet auf die Reinigung von Ungerechtigkeit hin,
+die andere aber bezeichnet die Fülle vollkommener Tugend\.
+Denn in Wahrheit muss,
+bevor irgendetwas anderes geschieht,
+zuerst an einem kranken Körper jeder erkrankte Teil abgeschnitten werden;
+danach sind ihm Heilmittel anzuwenden\.
+Das ist nämlich der erste Schritt,
+das andere der zweite\.
+Außerdem besteht die Zahl zweihundert aus Vieren;
+denn sie entsteht gleichsam aus Samen,
+aus vier Dreieckszahlen,
+aus vier Quadratzahlen,
+aus vier Fünfeckszahlen,
+aus vier Sechseckszahlen und aus vier Siebeneckszahlen,
+und,
+wie man sagen kann,
+setzt sie ihren Schritt auf die Zahl sieben\.
+Die vier Dreieckszahlen sind diese:
+eins,
+drei,
+sechs,
+zehn;
+sie ergeben zwanzig\.
+Die vier Quadratzahlen sind eins,
+vier,
+neun,
+sechzehn;
+sie ergeben dreißig\.
+Aus den vier Fünfeckszahlen,
+eins,
+fünf,
+zwölf,
+zweiundzwanzig,
+entsteht die Zahl vierzig\.
+Ferner ergeben die vier Sechseckszahlen,
+eins,
+sechs,
+fünfzehn,
+achtundzwanzig,
+fünfzig;
+und die vier Siebeneckszahlen,
+eins,
+sieben,
+achtzehn,
+vierunddreißig,
+ergeben sechzig\.
+Alle diese Zahlen zusammengenommen ergeben zweihundert\.

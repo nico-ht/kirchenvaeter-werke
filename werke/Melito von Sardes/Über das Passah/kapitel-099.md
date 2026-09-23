@@ -7,14 +7,16 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-01c07ae3-6a8b-462f-76d1-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:eb6e38f01eadddd6018fd06245fa4ece72c1ba1b4f1c30f0fd92ef3b9d16e78b`
-
-Darum, Israel,
+Darum,
+Israel,
 du hast nicht gezittert vor der Gegenwart des Herrn;
-so hast du gezittert, umkämpft von Feinden\.
-Du hast den Herrn nicht gefürchtet, Du hast den Herrn nicht beklagt,
+so hast du gezittert,
+umkämpft von Feinden\.
+Du hast den Herrn nicht gefürchtet,
+Du hast den Herrn nicht beklagt,
 so hast du deinen Erstgeborenen beklagt\.
-Als der Herr aufgehängt wurde, hast du deine Kleider nicht zerrissen,
+Als der Herr aufgehängt wurde,
+hast du deine Kleider nicht zerrissen,
 so hast du sie über die Gefallenen zerrissen\.
 Du hast den Herrn verleugnet,
 und so bist du nicht von ihm anerkannt\.

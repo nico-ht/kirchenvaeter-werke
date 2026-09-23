@@ -7,6 +7,6 @@ Autor: Hippolytus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/hippolytus/die-apostolische-tradition#kapitel-87b7dd89-4695-4207-86c0-08dd08e25f52).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:6a6cefed86b068f1be975f4e422c5f7cac26c568bd13cbd3a691712043406405`
-
-Dem Subdiakon werden nicht die Hände aufgelegt\. Er wird namentlich ausgewählt, um dem Diakon zu helfen\.
+Dem Subdiakon werden nicht die Hände aufgelegt\.
+Er wird namentlich ausgewählt,
+um dem Diakon zu helfen\.

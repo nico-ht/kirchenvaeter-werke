@@ -7,9 +7,136 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/4-homilie-ueber-matthaeus#kapitel-17ab9440-e214-4c5e-5a21-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:d1d204228845decc2e286062e7d8e6a40262065650d37a0962be883d59241662`
-
-Denn es ist Gottes Art, so zu handeln: Wenn das Böse zunimmt und er sieht, dass die Seinen misshandelt werden, während ihre Gegner von der Tyrannei, die sie gegen sie ausüben, schwer berauscht sind, dann zeigt er seine eigene Macht\. So hat er es auch in Persien an den Juden getan\. Dass er also nicht schlicht und nicht zufällig handelte, als er die Vorfahren Christi in drei Teile gliederte, ist aus dem Gesagten klar\. Achte aber auch darauf, wo er beginnt und wo er endet: von Abraham bis David, von David bis zur Wegführung nach Babylon, von dieser bis zu Christus selbst\. Denn schon am Anfang hat er die beiden unmittelbar nacheinander genannt, David und Abraham, und auch in der Zusammenfassung hat er beide in gleicher Weise erwähnt\. Denn, wie ich schon gesagt habe, ihnen galten die Verheißungen\. Warum aber erwähnt er die Wegführung nach Babylon und nicht auch den Zug hinab nach Ägypten? Weil sie vor der ägyptischen Geschichte keine Furcht mehr hatten, vor der babylonischen aber noch zitterten; weil die eine alt war, die andere aber jung und eben erst geschehen; und weil sie dorthin nicht wegen Sünden hinabgeführt wurden, hier aber wegen Gesetzesübertretungen weggeführt wurden\. Wenn nun jemand auch versuchen wollte, die Bedeutungen ihrer Namen zu übersetzen, würde er auch von daher eine reiche geistliche Schau finden, die Großes zum Neuen Testament beiträgt, etwa bei Abraham, bei Jakob, bei Salomo, bei Serubbabel; denn diese Namen wurden ihnen nicht ohne Grund beigelegt\. Doch damit wir nicht den Eindruck erwecken, durch allzu große Länge lästig zu fallen, lassen wir dies beiseite und gehen zu dem über, was dringlicher ist\. Nachdem er also alle Vorfahren genannt und bei Josef geendet hatte, blieb er nicht dabei stehen, sondern fügte hinzu: Josef, den Mann Marias\. Damit zeigt er, dass er ihn um ihretwillen in die Geschlechtsfolge aufgenommen hat\. Damit du nun, wenn du „Mann Marias“ hörst, nicht meinst, er sei nach dem allgemeinen Gesetz der Natur geboren worden, achte darauf, wie er dies durch die Fortsetzung richtigstellt\. Du hast, sagt er, „Mann“ gehört, du hast „Mutter“ gehört, du hast gehört, dass dem Kind ein Name gegeben wurde\. So höre nun auch die Art der Geburt: „Die Geburt Jesu Christi aber war so\.[^bible-c2cf75df-0ae4-4086-9758-234082be4480]“ Was für eine Geburt meinst du? Sag es mir\! Dabei hast du doch schon die Vorfahren genannt\. Ja, aber ich will auch die Art der Geburt nennen\. Siehst du, wie er den Hörer aufgerichtet hat? Denn weil er etwas Neuartigeres sagen will, kündigt er an, auch die Art und Weise zu nennen\. Und achte auf die ausgezeichnete Folgerichtigkeit des Gesagten\. Denn er ging nicht sofort zur Geburt über, sondern erinnert uns zuerst daran, der wievielte er seit Abraham war, der wievielte seit David und seit der Wegführung nach Babylon; dadurch bringt er den genauen Hörer dazu, die Zeiten zu prüfen, und zeigt, dass dies jener Christus ist, der durch die Propheten verkündet wurde\. Denn wenn du die Generationen zählst und aus der Zeit erkennst, dass dies der angekündigte Christus ist, wirst du auch das Wunder, das bei der Geburt geschah, leicht annehmen\. Weil er nämlich etwas Großes aussprechen wollte, dass er aus einer Jungfrau geboren wurde, verhüllt er, noch bevor er die Zeit zählt, die Sache zunächst, indem er „Mann Marias“ sagt; ja, er fasst sogar die Erzählung von der Geburt selbst kurz\. Dann zählt er auch die Jahre und erinnert den Hörer daran, dass dies jener ist, von dem der Patriarch Jakob sagte, er werde kommen, wenn die jüdischen Herrscher künftig fehlen, und von dem der Prophet Daniel im Voraus verkündete, er werde nach jenen vielen Wochen kommen\. Und wenn jemand die Jahre, die der Engel Daniel in der Zahl der Wochen genannt hat, von der Erbauung der Stadt an zählt und bis zu seiner Geburt hinabgeht, wird er sehen, dass sie mit jenen übereinstimmen\. Wie also wurde er geboren? Sag es\! „Als seine Mutter Maria verlobt war\.[^bible-c2cf75df-0ae4-4086-9758-234082be4480]“ Er sagte nicht: „Jungfrau“, sondern schlicht: „Mutter“, damit die Aussage leichter angenommen werde\. Deshalb bereitet er den Hörer zuerst darauf vor, etwas Gewöhnliches zu erwarten, und hält ihn damit fest\. Dann erst erschüttert er ihn durch die Fortsetzung mit der unerhörten Sache, indem er sagt: „Bevor sie zusammenkamen, fand es sich, dass sie vom Heiligen Geist schwanger war\.[^bible-c2cf75df-0ae4-4086-9758-234082be4480]“ Er sagte nicht: „Bevor sie in das Haus des Bräutigams geführt wurde“, denn sie war ja drinnen\. Es war nämlich bei den Alten meist Brauch, die Verlobten im Haus zu haben, wie man das auch heute noch geschehen sehen kann\. Auch die Schwiegersöhne Lots waren drinnen bei ihm\. Drinnen war also auch sie bei Josef\.
+Denn es ist Gottes Art,
+so zu handeln:
+Wenn das Böse zunimmt und er sieht,
+dass die Seinen misshandelt werden,
+während ihre Gegner von der Tyrannei,
+die sie gegen sie ausüben,
+schwer berauscht sind,
+dann zeigt er seine eigene Macht\.
+So hat er es auch in Persien an den Juden getan\.
+Dass er also nicht schlicht und nicht zufällig handelte,
+als er die Vorfahren Christi in drei Teile gliederte,
+ist aus dem Gesagten klar\.
+Achte aber auch darauf,
+wo er beginnt und wo er endet:
+von Abraham bis David,
+von David bis zur Wegführung nach Babylon,
+von dieser bis zu Christus selbst\.
+Denn schon am Anfang hat er die beiden unmittelbar nacheinander genannt,
+David und Abraham,
+und auch in der Zusammenfassung hat er beide in gleicher Weise erwähnt\.
+Denn,
+wie ich schon gesagt habe,
+ihnen galten die Verheißungen\.
+Warum aber erwähnt er die Wegführung nach Babylon und nicht auch den Zug hinab nach Ägypten?
+Weil sie vor der ägyptischen Geschichte keine Furcht mehr hatten,
+vor der babylonischen aber noch zitterten;
+weil die eine alt war,
+die andere aber jung und eben erst geschehen;
+und weil sie dorthin nicht wegen Sünden hinabgeführt wurden,
+hier aber wegen Gesetzesübertretungen weggeführt wurden\.
+Wenn nun jemand auch versuchen wollte,
+die Bedeutungen ihrer Namen zu übersetzen,
+würde er auch von daher eine reiche geistliche Schau finden,
+die Großes zum Neuen Testament beiträgt,
+etwa bei Abraham,
+bei Jakob,
+bei Salomo,
+bei Serubbabel;
+denn diese Namen wurden ihnen nicht ohne Grund beigelegt\.
+Doch damit wir nicht den Eindruck erwecken,
+durch allzu große Länge lästig zu fallen,
+lassen wir dies beiseite und gehen zu dem über,
+was dringlicher ist\.
+Nachdem er also alle Vorfahren genannt und bei Josef geendet hatte,
+blieb er nicht dabei stehen,
+sondern fügte hinzu:
+Josef,
+den Mann Marias\.
+Damit zeigt er,
+dass er ihn um ihretwillen in die Geschlechtsfolge aufgenommen hat\.
+Damit du nun,
+wenn du „Mann Marias“ hörst,
+nicht meinst,
+er sei nach dem allgemeinen Gesetz der Natur geboren worden,
+achte darauf,
+wie er dies durch die Fortsetzung richtigstellt\.
+Du hast,
+sagt er,
+„Mann“ gehört,
+du hast „Mutter“ gehört,
+du hast gehört,
+dass dem Kind ein Name gegeben wurde\.
+So höre nun auch die Art der Geburt:
+„Die Geburt Jesu Christi aber war so\.[^bible-c2cf75df-0ae4-4086-9758-234082be4480]“ Was für eine Geburt meinst du?
+Sag es mir\!
+Dabei hast du doch schon die Vorfahren genannt\.
+Ja,
+aber ich will auch die Art der Geburt nennen\.
+Siehst du,
+wie er den Hörer aufgerichtet hat?
+Denn weil er etwas Neuartigeres sagen will,
+kündigt er an,
+auch die Art und Weise zu nennen\.
+Und achte auf die ausgezeichnete Folgerichtigkeit des Gesagten\.
+Denn er ging nicht sofort zur Geburt über,
+sondern erinnert uns zuerst daran,
+der wievielte er seit Abraham war,
+der wievielte seit David und seit der Wegführung nach Babylon;
+dadurch bringt er den genauen Hörer dazu,
+die Zeiten zu prüfen,
+und zeigt,
+dass dies jener Christus ist,
+der durch die Propheten verkündet wurde\.
+Denn wenn du die Generationen zählst und aus der Zeit erkennst,
+dass dies der angekündigte Christus ist,
+wirst du auch das Wunder,
+das bei der Geburt geschah,
+leicht annehmen\.
+Weil er nämlich etwas Großes aussprechen wollte,
+dass er aus einer Jungfrau geboren wurde,
+verhüllt er,
+noch bevor er die Zeit zählt,
+die Sache zunächst,
+indem er „Mann Marias“ sagt;
+ja,
+er fasst sogar die Erzählung von der Geburt selbst kurz\.
+Dann zählt er auch die Jahre und erinnert den Hörer daran,
+dass dies jener ist,
+von dem der Patriarch Jakob sagte,
+er werde kommen,
+wenn die jüdischen Herrscher künftig fehlen,
+und von dem der Prophet Daniel im Voraus verkündete,
+er werde nach jenen vielen Wochen kommen\.
+Und wenn jemand die Jahre,
+die der Engel Daniel in der Zahl der Wochen genannt hat,
+von der Erbauung der Stadt an zählt und bis zu seiner Geburt hinabgeht,
+wird er sehen,
+dass sie mit jenen übereinstimmen\.
+Wie also wurde er geboren?
+Sag es\!
+„Als seine Mutter Maria verlobt war\.[^bible-c2cf75df-0ae4-4086-9758-234082be4480]“ Er sagte nicht:
+„Jungfrau“,
+sondern schlicht:
+„Mutter“,
+damit die Aussage leichter angenommen werde\.
+Deshalb bereitet er den Hörer zuerst darauf vor,
+etwas Gewöhnliches zu erwarten,
+und hält ihn damit fest\.
+Dann erst erschüttert er ihn durch die Fortsetzung mit der unerhörten Sache,
+indem er sagt:
+„Bevor sie zusammenkamen,
+fand es sich,
+dass sie vom Heiligen Geist schwanger war\.[^bible-c2cf75df-0ae4-4086-9758-234082be4480]“ Er sagte nicht:
+„Bevor sie in das Haus des Bräutigams geführt wurde“,
+denn sie war ja drinnen\.
+Es war nämlich bei den Alten meist Brauch,
+die Verlobten im Haus zu haben,
+wie man das auch heute noch geschehen sehen kann\.
+Auch die Schwiegersöhne Lots waren drinnen bei ihm\.
+Drinnen war also auch sie bei Josef\.
 
 ## Bibelverweise
 

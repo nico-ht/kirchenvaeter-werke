@@ -7,11 +7,86 @@ Autor: Basilius der Große
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/basilius-der-grosse/brief-22-wie-ein-christ-leben-muss#kapitel-15162877-a5c2-426b-163a-08de7d60074f).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:e95a456e6c99c9a1fab2d4b88d0fbe788a1c5a2e7eb48e122224009876477536`
+Der Christ darf nicht den guten Stand eines anderen beneiden oder sich an den Fehlern eines anderen weiden,
+sondern er muss in der Liebe Christi trauern und innerlich regelrecht zerbrechen über die Verfehlungen eines Bruders – und zugleich über dessen Erfolge jubeln\!
+Er darf denen,
+die sündigen,
+niemals gleichgültig gegenüberstehen oder passiv bleiben\!
+Und wer korrigiert,
+muss dies mit tiefer Anteilnahme,
+in der Furcht Gottes und mit dem eisernen Ziel tun,
+den Sündigenden wiederherzustellen\.
+Der Christ,
+der korrigiert oder zurechtgewiesen wird,
+muss dies begierig annehmen,
+denn er weiß genau,
+dass sein eigener Nutzen in der Korrektur liegt\!
+Wenn jemand eine Anklage vorbringt,
+darf man nicht in dessen Gegenwart oder vor anderen gegen den Ankläger streiten\.
+Erscheint jemandem die Anklage jedoch unvernünftig,
+muss er unter vier Augen mit dem Ankläger sprechen,
+entweder um Aufklärung zu geben oder um sie zu empfangen\.
+Jeder Einzelne muss,
+soweit es in seiner Macht steht,
+unbedingt versuchen,
+denjenigen zu heilen,
+der einen Grund zur Klage gegen ihn hat\!
+Der Christ darf keinen Groll gegen eine Person hegen,
+die gesündigt hat und umgekehrt ist,
+sondern er muss aus vollem Herzen vergeben\.
+Wer behauptet,
+eine Sünde zu bereuen,
+darf nicht nur tiefe Reue für seine Tat empfinden,
+sondern muss zwingend auch Früchte bringen,
+die der Buße würdig sind\!
+Wer nach der Disziplinierung für seine früheren Sünden und der Gewährung von Vergebung erneut sündigt,
+macht das Zornesgericht gegen sich selbst noch weitaus schlimmer als zuvor\!
+Wer nach einer ersten und zweiten Ermahnung hartnäckig in seinem Fehler verharrt,
+muss der Autoritätsperson vorgeführt werden – für den Fall,
+dass er sich schämt,
+nachdem er von vielen zurechtgewiesen wurde\.
+Wenn er aber selbst dann nicht korrigiert wird,
+muss er als Stolperstein vom Rest rigoros abgeschnitten werden\.
+Er muss dann „wie ein Heide und Zöllner betrachtet werden\.“[^bible-5289cc89-5096-4495-b096-cc91d9232edf]
+Und das geschieht zur Sicherheit derer,
+die ernsthaft Gehorsam üben,
+genau nach dem Wort:
+„Wenn die Gottlosen fallen,
+geraten die Gerechten in Furcht\.“
+Man muss um ihn trauern,
+genau wie um ein Glied,
+das vom Körper abgeschnitten wurde\!
 
-Der Christ darf nicht den guten Stand eines anderen beneiden oder sich an den Fehlern eines anderen weiden, sondern er muss in der Liebe Christi trauern und innerlich regelrecht zerbrechen über die Verfehlungen eines Bruders – und zugleich über dessen Erfolge jubeln\! Er darf denen, die sündigen, niemals gleichgültig gegenüberstehen oder passiv bleiben\! Und wer korrigiert, muss dies mit tiefer Anteilnahme, in der Furcht Gottes und mit dem eisernen Ziel tun, den Sündigenden wiederherzustellen\. Der Christ, der korrigiert oder zurechtgewiesen wird, muss dies begierig annehmen, denn er weiß genau, dass sein eigener Nutzen in der Korrektur liegt\! Wenn jemand eine Anklage vorbringt, darf man nicht in dessen Gegenwart oder vor anderen gegen den Ankläger streiten\. Erscheint jemandem die Anklage jedoch unvernünftig, muss er unter vier Augen mit dem Ankläger sprechen, entweder um Aufklärung zu geben oder um sie zu empfangen\. Jeder Einzelne muss, soweit es in seiner Macht steht, unbedingt versuchen, denjenigen zu heilen, der einen Grund zur Klage gegen ihn hat\! Der Christ darf keinen Groll gegen eine Person hegen, die gesündigt hat und umgekehrt ist, sondern er muss aus vollem Herzen vergeben\. Wer behauptet, eine Sünde zu bereuen, darf nicht nur tiefe Reue für seine Tat empfinden, sondern muss zwingend auch Früchte bringen, die der Buße würdig sind\! Wer nach der Disziplinierung für seine früheren Sünden und der Gewährung von Vergebung erneut sündigt, macht das Zornesgericht gegen sich selbst noch weitaus schlimmer als zuvor\! Wer nach einer ersten und zweiten Ermahnung hartnäckig in seinem Fehler verharrt, muss der Autoritätsperson vorgeführt werden – für den Fall, dass er sich schämt, nachdem er von vielen zurechtgewiesen wurde\. Wenn er aber selbst dann nicht korrigiert wird, muss er als Stolperstein vom Rest rigoros abgeschnitten werden\. Er muss dann „wie ein Heide und Zöllner betrachtet werden\.“[^bible-5289cc89-5096-4495-b096-cc91d9232edf] Und das geschieht zur Sicherheit derer, die ernsthaft Gehorsam üben, genau nach dem Wort: „Wenn die Gottlosen fallen, geraten die Gerechten in Furcht\.“ Man muss um ihn trauern, genau wie um ein Glied, das vom Körper abgeschnitten wurde\!
-
-Der Christ darf die Sonne nicht untergehen lassen, solange ein Bruder noch provoziert und zornig ist, damit nicht die Nacht zwischen die beiden tritt und am Tag des Gerichts eine Anklage hinterlässt, die absolut nicht mehr aus der Welt geschafft werden kann\! Der Christ darf nicht auf eine besondere Zeit warten, um sich selbst zu korrigieren, denn es gibt überhaupt keine Gewissheit über das Morgen – wie viele haben schon große Pläne geschmiedet und den nächsten Tag gar nicht mehr erlebt\! Der Christ darf sich nicht durch das Füllen des Bauches täuschen lassen, wodurch nachts nur quälende Träume entstehen\. Der Christ darf sich nicht zu exzessiver Arbeit verleiten lassen oder die Grenzen der Genügsamkeit überschreiten, ganz nach dem klaren Wort des Apostels: „Wenn wir aber Nahrung und Kleidung haben, wollen wir uns daran genügen lassen,“[^bible-76aafa23-e647-4c8b-bfad-df4ec42f1253] denn ein Überfluss über das Notwendige hinaus trägt das unverkennbare Zeichen der Habgier, und Habgier „ist Götzendienst\.“[^bible-4ed60039-e3c6-44b8-a965-90bc536e537c] Der Christ darf kein Geldliebhaber sein und keine nutzlosen Dinge anhäufen, die man gar nicht horten sollte\! Wer zu Gott kommt, muss die Armut in allen Dingen annehmen und unverrückbar fest in der Furcht Gottes verankert sein, gemäß den Worten: „Durchbohre mein Fleisch mit deiner Furcht, denn ich fürchte mich vor deinen Gerichten\.“[^bible-235a4bcc-5581-468b-88d0-5817e1703071] Möge der Herr gewähren, dass ihr, nachdem ihr das Gesagte mit voller Überzeugung aufgenommen habt, Früchte hervorbringt, die des Geistes absolut würdig sind, zur Herrlichkeit Gottes, durch das Wohlgefallen Gottes und das Zusammenwirken unseres Herrn Jesus Christus\. Amen\.
+Der Christ darf die Sonne nicht untergehen lassen,
+solange ein Bruder noch provoziert und zornig ist,
+damit nicht die Nacht zwischen die beiden tritt und am Tag des Gerichts eine Anklage hinterlässt,
+die absolut nicht mehr aus der Welt geschafft werden kann\!
+Der Christ darf nicht auf eine besondere Zeit warten,
+um sich selbst zu korrigieren,
+denn es gibt überhaupt keine Gewissheit über das Morgen – wie viele haben schon große Pläne geschmiedet und den nächsten Tag gar nicht mehr erlebt\!
+Der Christ darf sich nicht durch das Füllen des Bauches täuschen lassen,
+wodurch nachts nur quälende Träume entstehen\.
+Der Christ darf sich nicht zu exzessiver Arbeit verleiten lassen oder die Grenzen der Genügsamkeit überschreiten,
+ganz nach dem klaren Wort des Apostels:
+„Wenn wir aber Nahrung und Kleidung haben,
+wollen wir uns daran genügen lassen,“[^bible-76aafa23-e647-4c8b-bfad-df4ec42f1253]
+denn ein Überfluss über das Notwendige hinaus trägt das unverkennbare Zeichen der Habgier,
+und Habgier „ist Götzendienst\.“[^bible-4ed60039-e3c6-44b8-a965-90bc536e537c]
+Der Christ darf kein Geldliebhaber sein und keine nutzlosen Dinge anhäufen,
+die man gar nicht horten sollte\!
+Wer zu Gott kommt,
+muss die Armut in allen Dingen annehmen und unverrückbar fest in der Furcht Gottes verankert sein,
+gemäß den Worten:
+„Durchbohre mein Fleisch mit deiner Furcht,
+denn ich fürchte mich vor deinen Gerichten\.“[^bible-235a4bcc-5581-468b-88d0-5817e1703071]
+Möge der Herr gewähren,
+dass ihr,
+nachdem ihr das Gesagte mit voller Überzeugung aufgenommen habt,
+Früchte hervorbringt,
+die des Geistes absolut würdig sind,
+zur Herrlichkeit Gottes,
+durch das Wohlgefallen Gottes und das Zusammenwirken unseres Herrn Jesus Christus\.
+Amen\.
 
 ## Bibelverweise
 

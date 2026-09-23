@@ -7,6 +7,84 @@ Autor: Tertullian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/apologie#kapitel-4860f427-a6c9-44c7-09ca-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:aaf9de0787c1f4328dcfa417a52c46b4b85179aaafe8c7ecb021d0b8ed9e7e61`
-
-Damit wir ihn selbst, seine Ordnungen und seinen Willen vollständiger und nachdrücklicher erfassen könnten, fügte er ein schriftliches Zeugnis hinzu\. Wer über Gott forschen will, kann ihn durch diese Forschung finden, nach dem Finden an ihn glauben und nach dem Glauben ihm dienen\. Denn von Anfang an sandte er durch alle Zeiten Männer aus, die wegen ihrer Gerechtigkeit und Unschuld würdig waren, Gott zu erkennen und ihn bekannt zu machen\. Vom göttlichen Geist erfüllt, sollten sie verkünden, dass es nur einen Gott gibt, der alles geschaffen und den Menschen aus Erde geformt hat\. Er ist der wahre Prometheus, der die Welt durch festgesetzte Zeitordnungen und Abläufe geordnet hat\. Sie sollten ferner verkünden, durch welche Zeichen seiner richtenden Majestät er sich seither erwiesen hat, durch Regengüsse und Feuer; welche Gebote er festgelegt hat, um sich die Menschen zu verpflichten; welche Strafen er für diejenigen bestimmt hat, die sie nicht kennen und missachten, und welchen Lohn für diejenigen, die sie befolgen\. Denn am Ende dieser Weltzeit wird er richten: seine Diener wird er mit ewigem Leben belohnen, die Gottlosen aber einem ebenso ewigen und unaufhörlichen Feuer übergeben\. Dazu wird er alle seit Anbeginn Verstorbenen auferwecken, wiederherstellen und vor Gericht stellen, damit jeder nach seinem Verdienst den entsprechenden Lohn oder die entsprechende Strafe empfängt\. Auch wir haben darüber einst gelacht\. Wir kommen aus euren Reihen: Christen werden gemacht, nicht geboren\. Die Verkündiger, von denen wir gesprochen haben, werden wegen ihres Auftrags, die Zukunft vorauszusagen, Propheten genannt\. Ihre Worte und ebenso die Machttaten, mit denen sie die Glaubwürdigkeit ihrer göttlichen Sendung erwiesen, sind in den Schätzen der Schriften bewahrt und keineswegs verborgen\. Der gelehrteste der Ptolemäer, dem man den Beinamen Philadelphus gab, war auch ein äußerst kenntnisreicher Erforscher aller Schriften\. In seinem Eifer für Bibliotheken wollte er es, wie ich meine, mit Pisistratus aufnehmen\. Neben anderen Werken, deren Alter oder besondere Seltenheit ihnen Ansehen verschaffte, ließ er sich auf Anraten des Demetrius von Phaleron auch von den Juden Bücher geben\. Demetrius galt damals als der beste unter den Sprachgelehrten, und der König hatte ihm die Leitung der Bibliothek übertragen\. Die Juden besaßen diese Schriften allein, denn sie waren in ihrer eigenen Sprache und Schrift verfasst\. Aus ihrer Mitte waren die Propheten hervorgegangen, und zu ihnen hatten sie stets gesprochen, nämlich zum eigenen Volk Gottes, das durch die Gnade seiner Väter dazu geworden war\. Sie hießen früher Hebräer und heißen heute Juden; daher sind auch ihre Schrift und ihre Sprache hebräisch\. Damit der Inhalt nicht unverständlich blieb, wurde dem Ptolemäus auch dies von den Juden zugestanden: Sie stellten ihm zweiundsiebzig Übersetzer zur Verfügung\. Selbst der Philosoph Menedemus, ein Verteidiger der Vorsehung, brachte ihnen Achtung entgegen, weil ihre Auffassung mit seiner eigenen übereinstimmte\. Auch Aristaios hat euch dies bestätigt\. So hinterließ Ptolemäus diese Schriften, nachdem ihr Sinn ins Griechische übertragen worden war\. Noch heute werden sie im Serapeum in seiner Bibliothek zusammen mit den hebräischen Originalen gezeigt\. Auch die Juden lesen sie öffentlich vor\. Diese Freiheit verdanken sie einer Abgabe; jeden Sabbat hat jedermann Zutritt\. Wer zuhört, wird Gott finden; wer sich auch darum bemüht, den Sinn zu verstehen, wird sich gezwungen sehen, zu glauben\.
+Damit wir ihn selbst,
+seine Ordnungen und seinen Willen vollständiger und nachdrücklicher erfassen könnten,
+fügte er ein schriftliches Zeugnis hinzu\.
+Wer über Gott forschen will,
+kann ihn durch diese Forschung finden,
+nach dem Finden an ihn glauben und nach dem Glauben ihm dienen\.
+Denn von Anfang an sandte er durch alle Zeiten Männer aus,
+die wegen ihrer Gerechtigkeit und Unschuld würdig waren,
+Gott zu erkennen und ihn bekannt zu machen\.
+Vom göttlichen Geist erfüllt,
+sollten sie verkünden,
+dass es nur einen Gott gibt,
+der alles geschaffen und den Menschen aus Erde geformt hat\.
+Er ist der wahre Prometheus,
+der die Welt durch festgesetzte Zeitordnungen und Abläufe geordnet hat\.
+Sie sollten ferner verkünden,
+durch welche Zeichen seiner richtenden Majestät er sich seither erwiesen hat,
+durch Regengüsse und Feuer;
+welche Gebote er festgelegt hat,
+um sich die Menschen zu verpflichten;
+welche Strafen er für diejenigen bestimmt hat,
+die sie nicht kennen und missachten,
+und welchen Lohn für diejenigen,
+die sie befolgen\.
+Denn am Ende dieser Weltzeit wird er richten:
+seine Diener wird er mit ewigem Leben belohnen,
+die Gottlosen aber einem ebenso ewigen und unaufhörlichen Feuer übergeben\.
+Dazu wird er alle seit Anbeginn Verstorbenen auferwecken,
+wiederherstellen und vor Gericht stellen,
+damit jeder nach seinem Verdienst den entsprechenden Lohn oder die entsprechende Strafe empfängt\.
+Auch wir haben darüber einst gelacht\.
+Wir kommen aus euren Reihen:
+Christen werden gemacht,
+nicht geboren\.
+Die Verkündiger,
+von denen wir gesprochen haben,
+werden wegen ihres Auftrags,
+die Zukunft vorauszusagen,
+Propheten genannt\.
+Ihre Worte und ebenso die Machttaten,
+mit denen sie die Glaubwürdigkeit ihrer göttlichen Sendung erwiesen,
+sind in den Schätzen der Schriften bewahrt und keineswegs verborgen\.
+Der gelehrteste der Ptolemäer,
+dem man den Beinamen Philadelphus gab,
+war auch ein äußerst kenntnisreicher Erforscher aller Schriften\.
+In seinem Eifer für Bibliotheken wollte er es,
+wie ich meine,
+mit Pisistratus aufnehmen\.
+Neben anderen Werken,
+deren Alter oder besondere Seltenheit ihnen Ansehen verschaffte,
+ließ er sich auf Anraten des Demetrius von Phaleron auch von den Juden Bücher geben\.
+Demetrius galt damals als der beste unter den Sprachgelehrten,
+und der König hatte ihm die Leitung der Bibliothek übertragen\.
+Die Juden besaßen diese Schriften allein,
+denn sie waren in ihrer eigenen Sprache und Schrift verfasst\.
+Aus ihrer Mitte waren die Propheten hervorgegangen,
+und zu ihnen hatten sie stets gesprochen,
+nämlich zum eigenen Volk Gottes,
+das durch die Gnade seiner Väter dazu geworden war\.
+Sie hießen früher Hebräer und heißen heute Juden;
+daher sind auch ihre Schrift und ihre Sprache hebräisch\.
+Damit der Inhalt nicht unverständlich blieb,
+wurde dem Ptolemäus auch dies von den Juden zugestanden:
+Sie stellten ihm zweiundsiebzig Übersetzer zur Verfügung\.
+Selbst der Philosoph Menedemus,
+ein Verteidiger der Vorsehung,
+brachte ihnen Achtung entgegen,
+weil ihre Auffassung mit seiner eigenen übereinstimmte\.
+Auch Aristaios hat euch dies bestätigt\.
+So hinterließ Ptolemäus diese Schriften,
+nachdem ihr Sinn ins Griechische übertragen worden war\.
+Noch heute werden sie im Serapeum in seiner Bibliothek zusammen mit den hebräischen Originalen gezeigt\.
+Auch die Juden lesen sie öffentlich vor\.
+Diese Freiheit verdanken sie einer Abgabe;
+jeden Sabbat hat jedermann Zutritt\.
+Wer zuhört,
+wird Gott finden;
+wer sich auch darum bemüht,
+den Sinn zu verstehen,
+wird sich gezwungen sehen,
+zu glauben\.

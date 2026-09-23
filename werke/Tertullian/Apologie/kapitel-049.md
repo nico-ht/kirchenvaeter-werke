@@ -7,6 +7,69 @@ Autor: Tertullian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/apologie#kapitel-622329f0-f783-4277-09e8-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:240623c9f1234dd1876edbbf5a001632376ad6542a90f64bb2976ae717281e32`
-
-Was allein bei uns bloße Mutmaßungen heißt, gilt bei Philosophen und Dichtern als höchste Wissenschaft und als Zeichen hervorragenden Geistes\. Sie sind klug, wir sind dumm; sie verdienen Achtung, wir Spott, ja mehr noch: Strafe\. Mag nun falsch sein, was sie vertreten, und darum zu Recht als Mutmaßung gelten, so sind diese Vorstellungen dennoch notwendig; mögen sie dumm sein, so sind sie dennoch nützlich, da diejenigen, die ihnen glauben, aus Furcht vor ewiger Strafe und in der Hoffnung auf ewige Erquickung gezwungen werden, bessere Menschen zu werden\. Daher ist es nicht zuträglich, das als falsch zu bezeichnen oder für dumm zu halten, was für wahr zu halten zuträglich ist\. Was nützt, darf unter gar keinem Vorwand verurteilt werden\. Bei euch liegt also genau darin die Mutmaßung, dass ihr Nützliches verurteilt\. Darum können diese Vorstellungen auch nicht dumm sein\. Gewiss, selbst wenn sie falsch und dumm wären, schadeten sie doch niemandem\. Sie gleichen ja vielem anderen, wofür ihr keine Strafen verhängt: nichtigen und erdichteten Dingen, die weder angeklagt noch bestraft werden, weil sie unschädlich sind\. Wenn über dergleichen überhaupt ein Urteil gefällt werden muss, dann darf man es nur verlachen, nicht mit Schwertern, Feuer, Kreuzen und wilden Tieren verfolgen\. Über diese grausame Ungerechtigkeit jubelt und höhnt nicht nur diese blinde Masse; auch einige von euch rühmen sich ihrer, weil sie durch die Ungerechtigkeit die Gunst des Volkes gewinnen, als hinge nicht alles, was ihr gegen uns vermögt, von unserer Entscheidung ab\. Gewiss, wenn ich will, bin ich Christ\. Du wirst mich also nur dann verurteilen, wenn ich verurteilt werden will\. Denn deine Macht über mich kannst du nicht ausüben, wenn ich es nicht will; somit hängt das, was du vermagst, von meinem Willen ab, nicht in deiner Macht\. Darum freut sich auch das Volk vergeblich über unsere Misshandlung\. Denn die Freude, die es für sich beansprucht, gehört uns, die wir lieber verurteilt werden, als von Gott abzufallen\. Unsere Hasser hingegen müssten traurig sein, nicht jubeln, weil wir erreicht haben, was wir gewählt haben\.
+Was allein bei uns bloße Mutmaßungen heißt,
+gilt bei Philosophen und Dichtern als höchste Wissenschaft und als Zeichen hervorragenden Geistes\.
+Sie sind klug,
+wir sind dumm;
+sie verdienen Achtung,
+wir Spott,
+ja mehr noch:
+Strafe\.
+Mag nun falsch sein,
+was sie vertreten,
+und darum zu Recht als Mutmaßung gelten,
+so sind diese Vorstellungen dennoch notwendig;
+mögen sie dumm sein,
+so sind sie dennoch nützlich,
+da diejenigen,
+die ihnen glauben,
+aus Furcht vor ewiger Strafe und in der Hoffnung auf ewige Erquickung gezwungen werden,
+bessere Menschen zu werden\.
+Daher ist es nicht zuträglich,
+das als falsch zu bezeichnen oder für dumm zu halten,
+was für wahr zu halten zuträglich ist\.
+Was nützt,
+darf unter gar keinem Vorwand verurteilt werden\.
+Bei euch liegt also genau darin die Mutmaßung,
+dass ihr Nützliches verurteilt\.
+Darum können diese Vorstellungen auch nicht dumm sein\.
+Gewiss,
+selbst wenn sie falsch und dumm wären,
+schadeten sie doch niemandem\.
+Sie gleichen ja vielem anderen,
+wofür ihr keine Strafen verhängt:
+nichtigen und erdichteten Dingen,
+die weder angeklagt noch bestraft werden,
+weil sie unschädlich sind\.
+Wenn über dergleichen überhaupt ein Urteil gefällt werden muss,
+dann darf man es nur verlachen,
+nicht mit Schwertern,
+Feuer,
+Kreuzen und wilden Tieren verfolgen\.
+Über diese grausame Ungerechtigkeit jubelt und höhnt nicht nur diese blinde Masse;
+auch einige von euch rühmen sich ihrer,
+weil sie durch die Ungerechtigkeit die Gunst des Volkes gewinnen,
+als hinge nicht alles,
+was ihr gegen uns vermögt,
+von unserer Entscheidung ab\.
+Gewiss,
+wenn ich will,
+bin ich Christ\.
+Du wirst mich also nur dann verurteilen,
+wenn ich verurteilt werden will\.
+Denn deine Macht über mich kannst du nicht ausüben,
+wenn ich es nicht will;
+somit hängt das,
+was du vermagst,
+von meinem Willen ab,
+nicht in deiner Macht\.
+Darum freut sich auch das Volk vergeblich über unsere Misshandlung\.
+Denn die Freude,
+die es für sich beansprucht,
+gehört uns,
+die wir lieber verurteilt werden,
+als von Gott abzufallen\.
+Unsere Hasser hingegen müssten traurig sein,
+nicht jubeln,
+weil wir erreicht haben,
+was wir gewählt haben\.

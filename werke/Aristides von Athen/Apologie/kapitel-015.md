@@ -7,9 +7,97 @@ Autor: Aristides von Athen
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/aristides-von-athen/apologie#kapitel-ed6d183a-1841-4c91-d554-08deb5c5d2c1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5a7504502330da61270aa3cf9e9a16b701a0856aad36fa9744e1f4d4256f369d`
-
-Die Christen aber, o König, sind umhergezogen und haben gesucht und die Wahrheit gefunden\. Und wie wir aus ihren Schriften erfahren haben, sind sie der Wahrheit und der echten Erkenntnis nähergekommen als die übrigen Völker\. Denn sie kennen Gott und vertrauen auf ihn, den Schöpfer des Himmels und der Erde[^bible-27800acd-a5fc-4b9b-bd3d-c7786ec9ccbc], in dem und aus dem alles ist[^bible-51ddbf1f-b3e4-4933-89a4-a36b951407ba] [^bible-51ddbf1f-b3e4-4933-89a4-a36b951407ba]und dem kein anderer Gott als Gefährte zur Seite steht\. Von ihm haben sie Gebote empfangen, die sie ihrem Geist eingeprägt haben und in der Hoffnung und Erwartung der kommenden Welt halten\. Darum begehen sie keinen Ehebruch[^bible-c4bf1426-4628-4d4e-8a42-ac4024a9d925] [^bible-c4bf1426-4628-4d4e-8a42-ac4024a9d925]und keine Unzucht, legen kein falsches Zeugnis ab[^bible-ef04e979-8473-4f5d-b0fc-33cc08dea018], unterschlagen nicht, was ihnen als Pfand anvertraut ist, und begehren nicht, was ihnen nicht gehört[^bible-c2b54704-4763-4b3d-a9f8-d3ff0c9c94e1]\. Sie ehren Vater und Mutter[^bible-79a6248c-b238-40d2-9446-5453b51ed6e4] [^bible-79a6248c-b238-40d2-9446-5453b51ed6e4]und erweisen denen Güte, die ihnen nahestehen; und wann immer sie als Richter auftreten, urteilen sie recht\. Sie beten keine Götzen an, die nach dem Abbild eines Menschen gemacht sind\. Und alles, was sie nicht wollen, dass andere ihnen tun, tun sie auch anderen nicht[^bible-69c9483f-1d78-45ce-b0e6-aa576f8e5391]\. Von Speisen, die Götzen geweiht sind, essen sie nicht, denn sie sind rein\. Ihre Unterdrücker besänftigen sie und machen sie zu ihren Freunden; sie tun ihren Feinden Gutes[^bible-6eb417bc-a9ae-45bd-8a1e-9069c87cf862]\. Ihre Frauen, o König, sind rein wie Jungfrauen, und ihre Töchter sind züchtig; ihre Männer halten sich fern von jeder unerlaubten Verbindung und von aller Unreinheit, in der Hoffnung auf den künftigen Lohn in der anderen Welt\. Weiter: Wenn einige von ihnen Sklaven und Sklavinnen oder Kinder haben, bewegen sie diese aus Liebe zu ihnen dazu, Christen zu werden; und wenn sie es geworden sind, nennen sie sie ohne Unterschied Brüder\. Sie beten keine fremden Götter an und gehen ihren Weg in aller Bescheidenheit und Freude\. Lüge findet sich unter ihnen nicht; sie lieben einander, und von den Witwen wenden sie ihre Achtung nicht ab; die Waise befreien sie aus der Hand dessen, der sie hart behandelt\. Wer hat, gibt dem, der nicht hat, ohne sich zu rühmen\. Wenn sie einen Fremden sehen, nehmen sie ihn in ihre Häuser auf und freuen sich über ihn wie über einen wirklichen Bruder; denn sie nennen sie nicht Brüder dem Fleisch nach, sondern Brüder dem Geist nach und in Gott\. Und wann immer einer ihrer Armen aus der Welt scheidet, kümmert sich jeder von ihnen nach seinen Kräften um ihn und sorgt sorgfältig für seine Bestattung\. Wenn sie hören, dass einer aus ihrer Zahl um des Namens ihres Messias willen gefangen oder bedrängt ist, dienen sie alle mit Sorge seiner Not; und wenn es möglich ist, ihn freizukaufen, befreien sie ihn\. Wenn unter ihnen jemand arm und bedürftig ist und sie keine Speise übrig haben, fasten sie zwei oder drei Tage, um dem Bedürftigen das zu geben, was ihm an Nahrung fehlt\. Die Gebote ihres Messias halten sie mit großer Sorgfalt; sie leben gerecht und besonnen, wie der Herr, ihr Gott, es ihnen geboten hat\. Jeden Morgen und zu jeder Stunde danken und loben sie Gott für seine Wohltaten an ihnen; und für ihre Speise und ihren Trank bringen sie ihm Dank dar\. Wenn ein Gerechter unter ihnen aus der Welt scheidet, freuen sie sich und sagen Gott Dank; und sie geleiten seinen Leib, als bräche er von einem Ort zu einem anderen, nahe gelegenen Ort auf\. Wenn einem von ihnen ein Kind geboren wird, danken sie Gott; und wenn es dazu kommt, dass es im Kindesalter stirbt, danken sie Gott umso mehr über eines, das ohne Sünden durch die Welt gegangen ist\.Wenn sie aber sehen, dass einer von ihnen in seiner Gottlosigkeit oder in seinen Sünden stirbt, trauern sie bitter um ihn und klagen wie um einen, der seinem Urteil entgegengeht\.
+Die Christen aber,
+o König,
+sind umhergezogen und haben gesucht und die Wahrheit gefunden\.
+Und wie wir aus ihren Schriften erfahren haben,
+sind sie der Wahrheit und der echten Erkenntnis nähergekommen als die übrigen Völker\.
+Denn sie kennen Gott und vertrauen auf ihn,
+den Schöpfer des Himmels und der Erde[^bible-27800acd-a5fc-4b9b-bd3d-c7786ec9ccbc],
+in dem und aus dem alles ist[^bible-51ddbf1f-b3e4-4933-89a4-a36b951407ba] [^bible-51ddbf1f-b3e4-4933-89a4-a36b951407ba]und dem kein anderer Gott als Gefährte zur Seite steht\.
+Von ihm haben sie Gebote empfangen,
+die sie ihrem Geist eingeprägt haben und in der Hoffnung und Erwartung der kommenden Welt halten\.
+Darum begehen sie keinen Ehebruch[^bible-c4bf1426-4628-4d4e-8a42-ac4024a9d925] [^bible-c4bf1426-4628-4d4e-8a42-ac4024a9d925]und keine Unzucht,
+legen kein falsches Zeugnis ab[^bible-ef04e979-8473-4f5d-b0fc-33cc08dea018],
+unterschlagen nicht,
+was ihnen als Pfand anvertraut ist,
+und begehren nicht,
+was ihnen nicht gehört[^bible-c2b54704-4763-4b3d-a9f8-d3ff0c9c94e1]\.
+Sie ehren Vater und Mutter[^bible-79a6248c-b238-40d2-9446-5453b51ed6e4] [^bible-79a6248c-b238-40d2-9446-5453b51ed6e4]und erweisen denen Güte,
+die ihnen nahestehen;
+und wann immer sie als Richter auftreten,
+urteilen sie recht\.
+Sie beten keine Götzen an,
+die nach dem Abbild eines Menschen gemacht sind\.
+Und alles,
+was sie nicht wollen,
+dass andere ihnen tun,
+tun sie auch anderen nicht[^bible-69c9483f-1d78-45ce-b0e6-aa576f8e5391]\.
+Von Speisen,
+die Götzen geweiht sind,
+essen sie nicht,
+denn sie sind rein\.
+Ihre Unterdrücker besänftigen sie und machen sie zu ihren Freunden;
+sie tun ihren Feinden Gutes[^bible-6eb417bc-a9ae-45bd-8a1e-9069c87cf862]\.
+Ihre Frauen,
+o König,
+sind rein wie Jungfrauen,
+und ihre Töchter sind züchtig;
+ihre Männer halten sich fern von jeder unerlaubten Verbindung und von aller Unreinheit,
+in der Hoffnung auf den künftigen Lohn in der anderen Welt\.
+Weiter:
+Wenn einige von ihnen Sklaven und Sklavinnen oder Kinder haben,
+bewegen sie diese aus Liebe zu ihnen dazu,
+Christen zu werden;
+und wenn sie es geworden sind,
+nennen sie sie ohne Unterschied Brüder\.
+Sie beten keine fremden Götter an und gehen ihren Weg in aller Bescheidenheit und Freude\.
+Lüge findet sich unter ihnen nicht;
+sie lieben einander,
+und von den Witwen wenden sie ihre Achtung nicht ab;
+die Waise befreien sie aus der Hand dessen,
+der sie hart behandelt\.
+Wer hat,
+gibt dem,
+der nicht hat,
+ohne sich zu rühmen\.
+Wenn sie einen Fremden sehen,
+nehmen sie ihn in ihre Häuser auf und freuen sich über ihn wie über einen wirklichen Bruder;
+denn sie nennen sie nicht Brüder dem Fleisch nach,
+sondern Brüder dem Geist nach und in Gott\.
+Und wann immer einer ihrer Armen aus der Welt scheidet,
+kümmert sich jeder von ihnen nach seinen Kräften um ihn und sorgt sorgfältig für seine Bestattung\.
+Wenn sie hören,
+dass einer aus ihrer Zahl um des Namens ihres Messias willen gefangen oder bedrängt ist,
+dienen sie alle mit Sorge seiner Not;
+und wenn es möglich ist,
+ihn freizukaufen,
+befreien sie ihn\.
+Wenn unter ihnen jemand arm und bedürftig ist und sie keine Speise übrig haben,
+fasten sie zwei oder drei Tage,
+um dem Bedürftigen das zu geben,
+was ihm an Nahrung fehlt\.
+Die Gebote ihres Messias halten sie mit großer Sorgfalt;
+sie leben gerecht und besonnen,
+wie der Herr,
+ihr Gott,
+es ihnen geboten hat\.
+Jeden Morgen und zu jeder Stunde danken und loben sie Gott für seine Wohltaten an ihnen;
+und für ihre Speise und ihren Trank bringen sie ihm Dank dar\.
+Wenn ein Gerechter unter ihnen aus der Welt scheidet,
+freuen sie sich und sagen Gott Dank;
+und sie geleiten seinen Leib,
+als bräche er von einem Ort zu einem anderen,
+nahe gelegenen Ort auf\.
+Wenn einem von ihnen ein Kind geboren wird,
+danken sie Gott;
+und wenn es dazu kommt,
+dass es im Kindesalter stirbt,
+danken sie Gott umso mehr über eines,
+das ohne Sünden durch die Welt gegangen ist\.Wenn sie aber sehen,
+dass einer von ihnen in seiner Gottlosigkeit oder in seinen Sünden stirbt,
+trauern sie bitter um ihn und klagen wie um einen,
+der seinem Urteil entgegengeht\.
 
 ## Bibelverweise
 

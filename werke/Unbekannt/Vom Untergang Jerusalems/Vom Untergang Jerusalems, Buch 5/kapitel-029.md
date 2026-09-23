@@ -7,6 +7,63 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-5#kapitel-ca9ee037-cafc-4b07-279c-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:2adeca510b1119ac2b46eba14a7c0e3c26d694560f010a6897400c0c8113d1f1`
-
-Der Tod des Sabinus aber wurde für die übrigen nicht zum Grund der Furcht, sondern zum Ansporn\. Denn zwanzig Männer der römischen Truppen, die den Nachtdienst versahen, wollten die Wirkung dieser Tat ausgleichen, weil sie vom Eifer des Sabinus übertroffen worden waren\. Sie fassten einen großen und bemerkenswerten Plan: Der Standartenträger der fünften Legion sollte herbeigerufen werden, dazu zwei Männer aus der Reiterei, die sie für besonders tatkräftig hielten, und ein Trompeter; dann wollten sie in der fünften Stunde der Nacht schweigend über die Haufen der Mauertrümmer bis nach oben hinaufsteigen, die Wachen töten und die Mauer der Antonia besetzen\. Als dies geschehen war, brach der Schall der Trompete furchtbarer als gewöhnlich hervor, sodass die Juden, von ihren Mühen erschöpft und plötzlich aus dem Schlaf gerissen, in Verwirrung gerieten, weil sie glaubten, überall sei alles vom Feind erfüllt\. So begannen sie zu fliehen, noch ehe der wahre Sachverhalt bekannt war\. Denn die gefährliche Lage und das Dunkel einer finsteren Nacht ließen nicht erkennen, wie viele es waren\. Als Caesar den Trompetenschall hörte, befahl er dem Heer, zu den Waffen zu greifen; er selbst stieg mit ausgewählten Soldaten als Erster auf die Mauer, seinen Männern zur Hilfe, dem Feind zum Hindernis\. Der Tag brach an, und schon stand Caesar gut sichtbar auf der Mauer und ermutigte seine Leute\. Einige wurden an den Händen auf die Mauer hinaufgezogen, andere gelangten durch den Stollen, den Iohannes zur Untergrabung des Walls der Römer gegraben hatte, in die Stadt\. Ihr Verrat schlug den Verrätern zum Verderben aus\. Von allen Seiten abgeschnitten, zogen sie sich in den Tempel zurück\. Auch dort wurden die Römer, die sich mit Gewalt Eingang verschaffen wollten, durch die engen Stellen aufgehalten und von den Waffen zurückgedrängt\. Am Eingang kam es zu einer großen Schlacht, doch wurde nicht mit Wurfgeschossen und Pfeilen gekämpft, sondern Mann gegen Mann mit Schwertern, Hände gegen Wunden, Schwert gegen Schwert, Schlag gegen Schlag\. Wer zuschlug, wurde im Blut der Zerhauenen gebadet, sodass er selbst eher für den Getroffenen gehalten wurde\. Im Tempel selbst herrschte kriegerische Raserei\. Die Böden schwammen in Blut\. Das Stöhnen der Sterbenden und das Geschrei der Siegenden hallten ohne Ordnung und Maß\. Die Hoffnung, den Kampf zu Ende zu bringen, hatte die Römer entflammt; der endgültige Untergang ihres Vaterlandes nahm den Juden die Furcht vor dem Tod\. Jene nährten ihre Tapferkeit aus dem Lohn des Ruhmes, diese gaben aus Verzweiflung an Rettung alles hin und hielten nichts zurück\.
+Der Tod des Sabinus aber wurde für die übrigen nicht zum Grund der Furcht,
+sondern zum Ansporn\.
+Denn zwanzig Männer der römischen Truppen,
+die den Nachtdienst versahen,
+wollten die Wirkung dieser Tat ausgleichen,
+weil sie vom Eifer des Sabinus übertroffen worden waren\.
+Sie fassten einen großen und bemerkenswerten Plan:
+Der Standartenträger der fünften Legion sollte herbeigerufen werden,
+dazu zwei Männer aus der Reiterei,
+die sie für besonders tatkräftig hielten,
+und ein Trompeter;
+dann wollten sie in der fünften Stunde der Nacht schweigend über die Haufen der Mauertrümmer bis nach oben hinaufsteigen,
+die Wachen töten und die Mauer der Antonia besetzen\.
+Als dies geschehen war,
+brach der Schall der Trompete furchtbarer als gewöhnlich hervor,
+sodass die Juden,
+von ihren Mühen erschöpft und plötzlich aus dem Schlaf gerissen,
+in Verwirrung gerieten,
+weil sie glaubten,
+überall sei alles vom Feind erfüllt\.
+So begannen sie zu fliehen,
+noch ehe der wahre Sachverhalt bekannt war\.
+Denn die gefährliche Lage und das Dunkel einer finsteren Nacht ließen nicht erkennen,
+wie viele es waren\.
+Als Caesar den Trompetenschall hörte,
+befahl er dem Heer,
+zu den Waffen zu greifen;
+er selbst stieg mit ausgewählten Soldaten als Erster auf die Mauer,
+seinen Männern zur Hilfe,
+dem Feind zum Hindernis\.
+Der Tag brach an,
+und schon stand Caesar gut sichtbar auf der Mauer und ermutigte seine Leute\.
+Einige wurden an den Händen auf die Mauer hinaufgezogen,
+andere gelangten durch den Stollen,
+den Iohannes zur Untergrabung des Walls der Römer gegraben hatte,
+in die Stadt\.
+Ihr Verrat schlug den Verrätern zum Verderben aus\.
+Von allen Seiten abgeschnitten,
+zogen sie sich in den Tempel zurück\.
+Auch dort wurden die Römer,
+die sich mit Gewalt Eingang verschaffen wollten,
+durch die engen Stellen aufgehalten und von den Waffen zurückgedrängt\.
+Am Eingang kam es zu einer großen Schlacht,
+doch wurde nicht mit Wurfgeschossen und Pfeilen gekämpft,
+sondern Mann gegen Mann mit Schwertern,
+Hände gegen Wunden,
+Schwert gegen Schwert,
+Schlag gegen Schlag\.
+Wer zuschlug,
+wurde im Blut der Zerhauenen gebadet,
+sodass er selbst eher für den Getroffenen gehalten wurde\.
+Im Tempel selbst herrschte kriegerische Raserei\.
+Die Böden schwammen in Blut\.
+Das Stöhnen der Sterbenden und das Geschrei der Siegenden hallten ohne Ordnung und Maß\.
+Die Hoffnung,
+den Kampf zu Ende zu bringen,
+hatte die Römer entflammt;
+der endgültige Untergang ihres Vaterlandes nahm den Juden die Furcht vor dem Tod\.
+Jene nährten ihre Tapferkeit aus dem Lohn des Ruhmes,
+diese gaben aus Verzweiflung an Rettung alles hin und hielten nichts zurück\.

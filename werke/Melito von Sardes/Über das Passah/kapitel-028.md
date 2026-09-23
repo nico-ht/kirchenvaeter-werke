@@ -7,6 +7,5 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-59e8dea8-debd-45c6-768a-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f10c1962defe4bf23ae8b4a38c2fe8320987737f11bd9d5451a4ebc1cf3713ae`
-
-Über dem menschlichen Verlust ertönte Geschrei und Trauer um die toten Erstgeborenen, und ganz Ägypten war von unbestatteten Leichnamen erfüllt\.
+Über dem menschlichen Verlust ertönte Geschrei und Trauer um die toten Erstgeborenen,
+und ganz Ägypten war von unbestatteten Leichnamen erfüllt\.

@@ -7,6 +7,20 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/12-taufunterweisung#kapitel-89985ec3-57d7-4070-a943-08de0016b13a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a282c5b73d0d51b0d6cdca2f78eccc0f0f67536370e937d09bfe4643e89da8dc`
-
-Wenn du meinst, dass die Tugend ein großer Schmuck deiner Schönheit ist, sag mir: Welchen Nutzen werden dir an jenem Tag Perlen bringen? Doch wozu von jenem Tag reden, wenn sich all dies auch mit Gründen aus dem gegenwärtigen Leben belegen lässt? Wenn nämlich die, denen man eine Beleidigung des Kaisers vorwirft und die um ihr Leben bangen, vor Gericht geschleift werden, dann legen ihre Mütter und Frauen Halsketten, Gold und Perlen, allen Schmuck und goldbestickte Gewänder ab; sie ziehen ein einfaches, preiswertes Gewand an, streuen Asche auf sich, wälzen sich im Staub vor den Türen des Gerichtssaals und versuchen so, die Richter zu rühren\.
+Wenn du meinst,
+dass die Tugend ein großer Schmuck deiner Schönheit ist,
+sag mir:
+Welchen Nutzen werden dir an jenem Tag Perlen bringen?
+Doch wozu von jenem Tag reden,
+wenn sich all dies auch mit Gründen aus dem gegenwärtigen Leben belegen lässt?
+Wenn nämlich die,
+denen man eine Beleidigung des Kaisers vorwirft und die um ihr Leben bangen,
+vor Gericht geschleift werden,
+dann legen ihre Mütter und Frauen Halsketten,
+Gold und Perlen,
+allen Schmuck und goldbestickte Gewänder ab;
+sie ziehen ein einfaches,
+preiswertes Gewand an,
+streuen Asche auf sich,
+wälzen sich im Staub vor den Türen des Gerichtssaals und versuchen so,
+die Richter zu rühren\.

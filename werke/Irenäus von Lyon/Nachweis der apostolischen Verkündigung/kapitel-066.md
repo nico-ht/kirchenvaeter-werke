@@ -7,6 +7,19 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-cbbbfbb4-26a2-4fd6-3250-08debf1e7015).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c4c11ef30eac94718ad905bd68094756306b67b811416674599ab99f16b50886`
-
-So erklärten die Propheten also, dass der Sohn Gottes geboren werden sollte, wie er geboren werden sollte und wo er geboren werden sollte, und dass Christus der eine ewige König ist\. Und wiederum sagten sie über ihn voraus, wie er, aus dem Menschengeschlecht hervorgegangen, die heilen sollte, die er heilte, die Toten auferwecken sollte, die er auferweckte, und wie er gehasst und verachtet werden, Leiden erdulden, getötet und gekreuzigt werden sollte, so wie er auch gehasst, verachtet und getötet wurde\.
+So erklärten die Propheten also,
+dass der Sohn Gottes geboren werden sollte,
+wie er geboren werden sollte und wo er geboren werden sollte,
+und dass Christus der eine ewige König ist\.
+Und wiederum sagten sie über ihn voraus,
+wie er,
+aus dem Menschengeschlecht hervorgegangen,
+die heilen sollte,
+die er heilte,
+die Toten auferwecken sollte,
+die er auferweckte,
+und wie er gehasst und verachtet werden,
+Leiden erdulden,
+getötet und gekreuzigt werden sollte,
+so wie er auch gehasst,
+verachtet und getötet wurde\.

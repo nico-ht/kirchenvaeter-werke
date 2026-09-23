@@ -7,9 +7,132 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/5-homilie-ueber-matthaeus#kapitel-879e42f7-e844-40ef-5a2d-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f6b6d4bcc34dbe9d4021f327e44065cb48f42b870238b2b8f064738ae40f5002`
-
-Was liegt uns also heute vor? „Dies alles aber ist geschehen, damit erfüllt wurde, was vom Herrn durch den Propheten gesagt worden war\.[^bible-08a8e0e7-9cc5-4d58-b28d-e64293f15cae]“ Der Würde des Wunders entsprechend, soweit es ihm möglich war, rief er aus: „Dies alles aber ist geschehen\.[^bible-08a8e0e7-9cc5-4d58-b28d-e64293f15cae]“ Denn als er das Meer und den Abgrund der Menschenliebe Gottes sah, als er sah, wie das niemals Erhoffte Wirklichkeit wurde, wie die Gesetze der Natur gelöst wurden, wie Versöhnung geschah, wie der über allen Stehende zum Niedrigsten von allen herabstieg, wie die trennenden Mauern niedergerissen, die Hindernisse beseitigt und noch viel Größeres als dies geschah, da stellte er das Wunder in einem einzigen Wort vor Augen: „Dies alles aber ist geschehen, damit erfüllt wurde, was vom Herrn gesagt worden war\.[^bible-08a8e0e7-9cc5-4d58-b28d-e64293f15cae]“ Denke nämlich nicht, sagt er, dies sei erst jetzt beschlossen worden; längst war es im Voraus abgebildet\. Genau das bemühte sich auch Paulus überall zu zeigen\. Und nun verweist er Josef auf Jesaja: Wenn er nach dem Erwachen die Worte des Engels vergessen sollte, weil sie erst eben gesprochen worden waren, dann sollte er sich an die prophetischen Worte erinnern, mit denen er ständig umgegangen war, und so auch das behalten, was der Engel ihm gesagt hatte\. Der Frau aber sagte er nichts davon, weil sie ein junges Mädchen war und in diesen Dingen keine Erfahrung hatte\. Mit dem Mann dagegen, der gerecht war und die Propheten studierte, führt er von dort her das Gespräch\. Vorher sagt er: „Maria, deine Frau“; hier aber, nachdem er den Propheten in die Mitte herangezogen hat, vertraut er ihm auch den Namen der Jungfräulichkeit an\. Denn Josef wäre nicht so unerschüttert geblieben, wenn er das Wort „Jungfrau“ nur von ihm gehört hätte und nicht zuvor auch von Jesaja\. Er sollte ja nichts Fremdes hören, sondern das Gewohnte, das er seit langer Zeit beim Propheten betrachtet hatte\. Darum führt der Engel Jesaja in die Mitte, um das Gesagte leicht annehmbar zu machen\. Und auch dabei bleibt er nicht stehen, sondern hängt das Wort an Gott selbst: Er sagt nämlich nicht, es sei sein eigenes Wort, sondern das Wort des Gottes des Alls\. Deshalb sagte er nicht: damit erfüllt würde, was durch Jesaja gesagt wurde, sondern: „was vom Herrn gesagt worden war\.[^bible-08a8e0e7-9cc5-4d58-b28d-e64293f15cae]“ Der Mund war der Mund Jesajas; der Spruch aber kam von oben\. Was sagt nun dieser Spruch? „Siehe, die Jungfrau wird im Schoß empfangen und einen Sohn gebären, und man wird seinen Namen Emmanuel nennen\.[^bible-dba3c1d2-c71b-47b3-953b-acd0bc3fc409]“ Wie kommt es dann, sagt man, dass sein Name nicht Emmanuel genannt wurde, sondern Jesus Christus? Weil er nicht sagte: „Du wirst nennen“, sondern: „Man wird nennen“, das heißt: die Volksmengen und der Ausgang der Dinge\. Denn hier setzt er das, was geschieht, als Namen; und es ist die Art der Schrift, Ereignisse anstelle von Namen zu setzen\. Das Wort „Man wird ihn Emmanuel nennen“ besagt also nichts anderes als dies: Sie werden Gott bei den Menschen sehen\. Denn er war zwar immer mit den Menschen; aber niemals so sichtbar\. Wenn die Juden aber unverschämt bleiben, werden wir sie fragen: Wann wurde das Kind „Raube schnell, plündere rasch“ genannt? Doch sie könnten es nicht sagen\. Wie also konnte der Prophet sagen: „Nenne seinen Namen: Raube schnell, plündere rasch[^bible-b790dde4-35b6-4c0e-ac50-e5a46cbceecf]“? Weil bei seiner Geburt Raub von Beute und Verteilung geschah; darum setzt er das Ereignis, das bei ihm eintrat, als seinen Namen\. Auch die Stadt, sagt er, „wird Stadt der Gerechtigkeit genannt werden, treue Mutterstadt Zion[^bible-83f52d2d-7d31-479b-b318-c30a7127f366]“; und nirgends finden wir, dass die Stadt „Gerechtigkeit“ genannt wurde, sondern sie blieb bei dem Namen Jerusalem\. Weil dies aber eintrat, als sie zum Besseren verwandelt wurde, sagte er, sie werde so genannt\. Denn wenn ein Ereignis eintritt, das den, der es vollbringt oder auch daran Anteil hat, deutlicher kenntlich macht als eine Benennung, dann nennt er die Wahrheit des Ereignisses dessen Namen\. Wenn sie aber, hier zum Schweigen gebracht, noch nach einem anderen Punkt suchen, nämlich nach dem Wort über die Jungfräulichkeit, und uns andere Übersetzer entgegenhalten mit der Behauptung: Sie sagten nicht „Jungfrau“, sondern „junge Frau“, dann werden wir zuerst dies sagen: Die Siebzig besitzen mit Recht größere Glaubwürdigkeit als alle anderen\. Denn jene übersetzten nach der Ankunft Christi, blieben Juden und stehen daher mit Recht unter Verdacht, aus Feindschaft gesprochen und die Prophetien absichtlich verdunkelt zu haben\. Die Siebzig dagegen, die hundert oder noch mehr Jahre vor der Ankunft Christi an dieses Werk gingen und so zahlreich waren, sind von jedem solchen Verdacht frei; wegen der Zeit, wegen ihrer großen Zahl und wegen ihrer Übereinstimmung verdienen sie vielmehr Glauben\.
+Was liegt uns also heute vor?
+„Dies alles aber ist geschehen,
+damit erfüllt wurde,
+was vom Herrn durch den Propheten gesagt worden war\.[^bible-08a8e0e7-9cc5-4d58-b28d-e64293f15cae]“ Der Würde des Wunders entsprechend,
+soweit es ihm möglich war,
+rief er aus:
+„Dies alles aber ist geschehen\.[^bible-08a8e0e7-9cc5-4d58-b28d-e64293f15cae]“ Denn als er das Meer und den Abgrund der Menschenliebe Gottes sah,
+als er sah,
+wie das niemals Erhoffte Wirklichkeit wurde,
+wie die Gesetze der Natur gelöst wurden,
+wie Versöhnung geschah,
+wie der über allen Stehende zum Niedrigsten von allen herabstieg,
+wie die trennenden Mauern niedergerissen,
+die Hindernisse beseitigt und noch viel Größeres als dies geschah,
+da stellte er das Wunder in einem einzigen Wort vor Augen:
+„Dies alles aber ist geschehen,
+damit erfüllt wurde,
+was vom Herrn gesagt worden war\.[^bible-08a8e0e7-9cc5-4d58-b28d-e64293f15cae]“ Denke nämlich nicht,
+sagt er,
+dies sei erst jetzt beschlossen worden;
+längst war es im Voraus abgebildet\.
+Genau das bemühte sich auch Paulus überall zu zeigen\.
+Und nun verweist er Josef auf Jesaja:
+Wenn er nach dem Erwachen die Worte des Engels vergessen sollte,
+weil sie erst eben gesprochen worden waren,
+dann sollte er sich an die prophetischen Worte erinnern,
+mit denen er ständig umgegangen war,
+und so auch das behalten,
+was der Engel ihm gesagt hatte\.
+Der Frau aber sagte er nichts davon,
+weil sie ein junges Mädchen war und in diesen Dingen keine Erfahrung hatte\.
+Mit dem Mann dagegen,
+der gerecht war und die Propheten studierte,
+führt er von dort her das Gespräch\.
+Vorher sagt er:
+„Maria,
+deine Frau“;
+hier aber,
+nachdem er den Propheten in die Mitte herangezogen hat,
+vertraut er ihm auch den Namen der Jungfräulichkeit an\.
+Denn Josef wäre nicht so unerschüttert geblieben,
+wenn er das Wort „Jungfrau“ nur von ihm gehört hätte und nicht zuvor auch von Jesaja\.
+Er sollte ja nichts Fremdes hören,
+sondern das Gewohnte,
+das er seit langer Zeit beim Propheten betrachtet hatte\.
+Darum führt der Engel Jesaja in die Mitte,
+um das Gesagte leicht annehmbar zu machen\.
+Und auch dabei bleibt er nicht stehen,
+sondern hängt das Wort an Gott selbst:
+Er sagt nämlich nicht,
+es sei sein eigenes Wort,
+sondern das Wort des Gottes des Alls\.
+Deshalb sagte er nicht:
+damit erfüllt würde,
+was durch Jesaja gesagt wurde,
+sondern:
+„was vom Herrn gesagt worden war\.[^bible-08a8e0e7-9cc5-4d58-b28d-e64293f15cae]“ Der Mund war der Mund Jesajas;
+der Spruch aber kam von oben\.
+Was sagt nun dieser Spruch?
+„Siehe,
+die Jungfrau wird im Schoß empfangen und einen Sohn gebären,
+und man wird seinen Namen Emmanuel nennen\.[^bible-dba3c1d2-c71b-47b3-953b-acd0bc3fc409]“ Wie kommt es dann,
+sagt man,
+dass sein Name nicht Emmanuel genannt wurde,
+sondern Jesus Christus?
+Weil er nicht sagte:
+„Du wirst nennen“,
+sondern:
+„Man wird nennen“,
+das heißt:
+die Volksmengen und der Ausgang der Dinge\.
+Denn hier setzt er das,
+was geschieht,
+als Namen;
+und es ist die Art der Schrift,
+Ereignisse anstelle von Namen zu setzen\.
+Das Wort „Man wird ihn Emmanuel nennen“ besagt also nichts anderes als dies:
+Sie werden Gott bei den Menschen sehen\.
+Denn er war zwar immer mit den Menschen;
+aber niemals so sichtbar\.
+Wenn die Juden aber unverschämt bleiben,
+werden wir sie fragen:
+Wann wurde das Kind „Raube schnell,
+plündere rasch“ genannt?
+Doch sie könnten es nicht sagen\.
+Wie also konnte der Prophet sagen:
+„Nenne seinen Namen:
+Raube schnell,
+plündere rasch[^bible-b790dde4-35b6-4c0e-ac50-e5a46cbceecf]“?
+Weil bei seiner Geburt Raub von Beute und Verteilung geschah;
+darum setzt er das Ereignis,
+das bei ihm eintrat,
+als seinen Namen\.
+Auch die Stadt,
+sagt er,
+„wird Stadt der Gerechtigkeit genannt werden,
+treue Mutterstadt Zion[^bible-83f52d2d-7d31-479b-b318-c30a7127f366]“;
+und nirgends finden wir,
+dass die Stadt „Gerechtigkeit“ genannt wurde,
+sondern sie blieb bei dem Namen Jerusalem\.
+Weil dies aber eintrat,
+als sie zum Besseren verwandelt wurde,
+sagte er,
+sie werde so genannt\.
+Denn wenn ein Ereignis eintritt,
+das den,
+der es vollbringt oder auch daran Anteil hat,
+deutlicher kenntlich macht als eine Benennung,
+dann nennt er die Wahrheit des Ereignisses dessen Namen\.
+Wenn sie aber,
+hier zum Schweigen gebracht,
+noch nach einem anderen Punkt suchen,
+nämlich nach dem Wort über die Jungfräulichkeit,
+und uns andere Übersetzer entgegenhalten mit der Behauptung:
+Sie sagten nicht „Jungfrau“,
+sondern „junge Frau“,
+dann werden wir zuerst dies sagen:
+Die Siebzig besitzen mit Recht größere Glaubwürdigkeit als alle anderen\.
+Denn jene übersetzten nach der Ankunft Christi,
+blieben Juden und stehen daher mit Recht unter Verdacht,
+aus Feindschaft gesprochen und die Prophetien absichtlich verdunkelt zu haben\.
+Die Siebzig dagegen,
+die hundert oder noch mehr Jahre vor der Ankunft Christi an dieses Werk gingen und so zahlreich waren,
+sind von jedem solchen Verdacht frei;
+wegen der Zeit,
+wegen ihrer großen Zahl und wegen ihrer Übereinstimmung verdienen sie vielmehr Glauben\.
 
 ## Bibelverweise
 

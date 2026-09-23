@@ -7,6 +7,18 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-2#kapitel-d798af1f-1c2b-4fab-9c6c-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:4ad11b8abe5bb6d8a647ad54b2b7a7a2b5f5254801d76a507207b6f79698f180`
-
-Warum hat der heilige Schriftsteller nicht einfach gesagt: „Ham sah seine Nacktheit“, sondern: „Ham, der Vater Kanaans, sah die Nacktheit seines Vaters“? Indem er die Tatsache so darstellt, tadelt er zugleich den Sohn im Vater und den Vater im Sohn, weil beide gemeinsam die Tat der Dummheit, der Ungerechtigkeit, der Gottlosigkeit und jeder anderen Art von Bosheit vollbrachten\. Das ist der wörtliche Sinn der Aussage; was aber den inneren Sinn betrifft, so müssen wir ihn auf dieselbe Weise betrachten, wie wir diese Gegenstände bisher behandelt haben\.
+Warum hat der heilige Schriftsteller nicht einfach gesagt:
+„Ham sah seine Nacktheit“,
+sondern:
+„Ham,
+der Vater Kanaans,
+sah die Nacktheit seines Vaters“?
+Indem er die Tatsache so darstellt,
+tadelt er zugleich den Sohn im Vater und den Vater im Sohn,
+weil beide gemeinsam die Tat der Dummheit,
+der Ungerechtigkeit,
+der Gottlosigkeit und jeder anderen Art von Bosheit vollbrachten\.
+Das ist der wörtliche Sinn der Aussage;
+was aber den inneren Sinn betrifft,
+so müssen wir ihn auf dieselbe Weise betrachten,
+wie wir diese Gegenstände bisher behandelt haben\.

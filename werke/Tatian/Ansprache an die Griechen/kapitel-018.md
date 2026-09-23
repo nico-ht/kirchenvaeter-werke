@@ -7,6 +7,53 @@ Autor: Tatian
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tatian/ansprache-an-die-griechen#kapitel-01827e43-14b3-424c-3d86-08ded167f699).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:8ff28f2761994655f28d742826187fe0f08ace57bb025b6fff8d43b581ac9e62`
-
-Doch auch die Medizin und alles, was zu ihr gehört, ist eine Erfindung derselben Art\. Wenn jemand durch einen Stoff geheilt wird, weil er darauf vertraut, wird er umso eher Heilung finden, wenn er sich an die Macht Gottes wendet\. Wie schädliche Mittel aus Stoffen zusammengesetzt sind, so sind auch Heilmittel von gleicher Art\. Lehnen wir jedoch die minderwertigen Stoffe ab, versuchen manche dennoch oft zu heilen, indem sie eines dieser schlechten Dinge mit etwas anderem verbinden und so das Schlechte einsetzen, um das Gute zu erreichen\. Doch wie jemand, der mit einem Räuber zu Tisch sitzt, an dessen Strafe teilhat, auch wenn er selbst kein Räuber ist, weil er mit ihm vertrauten Umgang pflegt, so wird auch derjenige von Gott, dem Richter, bestraft werden, der zwar selbst nicht schlecht ist, sich aber mit den Schlechten einlässt und um eines vermeintlichen Gutes willen mit ihnen Umgang hat\. Warum will derjenige, der auf das System der Materie vertraut, nicht auf Gott vertrauen? Warum wendest du dich nicht an den mächtigeren Herrn, sondern versuchst lieber, dich selbst zu heilen, wie der Hund mit Gras, der Hirsch mit einer Viper, das Schwein mit Flusskrebsen oder der Löwe mit Affen? Warum machst du die Dinge der Natur zu Göttern? Und warum nennt man dich einen Wohltäter, wenn du deinen Nächsten heilst? Beuge dich der Macht des Logos\! Die Dämonen heilen nicht, sondern machen die Menschen durch ihre Kunst zu Gefangenen\. Und der bewundernswerte Justin hat sie zu Recht als Räuber angeprangert\. Manche entführen Menschen und geben sie dann gegen Lösegeld ihren Freunden zurück\. Ebenso dringen jene, die als Götter gelten, in die Körper bestimmter Menschen ein und lassen sie durch Träume ihre Gegenwart spüren\. Dann befehlen sie ihnen, öffentlich hervorzutreten\. Vor aller Augen genießen jene als Götter geltenden Wesen die Dinge dieser Welt bis zur Sättigung, entweichen aus den Kranken, vernichten die Krankheit, die sie selbst verursacht haben, und versetzen die Betroffenen wieder in ihren früheren Zustand\.
+Doch auch die Medizin und alles,
+was zu ihr gehört,
+ist eine Erfindung derselben Art\.
+Wenn jemand durch einen Stoff geheilt wird,
+weil er darauf vertraut,
+wird er umso eher Heilung finden,
+wenn er sich an die Macht Gottes wendet\.
+Wie schädliche Mittel aus Stoffen zusammengesetzt sind,
+so sind auch Heilmittel von gleicher Art\.
+Lehnen wir jedoch die minderwertigen Stoffe ab,
+versuchen manche dennoch oft zu heilen,
+indem sie eines dieser schlechten Dinge mit etwas anderem verbinden und so das Schlechte einsetzen,
+um das Gute zu erreichen\.
+Doch wie jemand,
+der mit einem Räuber zu Tisch sitzt,
+an dessen Strafe teilhat,
+auch wenn er selbst kein Räuber ist,
+weil er mit ihm vertrauten Umgang pflegt,
+so wird auch derjenige von Gott,
+dem Richter,
+bestraft werden,
+der zwar selbst nicht schlecht ist,
+sich aber mit den Schlechten einlässt und um eines vermeintlichen Gutes willen mit ihnen Umgang hat\.
+Warum will derjenige,
+der auf das System der Materie vertraut,
+nicht auf Gott vertrauen?
+Warum wendest du dich nicht an den mächtigeren Herrn,
+sondern versuchst lieber,
+dich selbst zu heilen,
+wie der Hund mit Gras,
+der Hirsch mit einer Viper,
+das Schwein mit Flusskrebsen oder der Löwe mit Affen?
+Warum machst du die Dinge der Natur zu Göttern?
+Und warum nennt man dich einen Wohltäter,
+wenn du deinen Nächsten heilst?
+Beuge dich der Macht des Logos\!
+Die Dämonen heilen nicht,
+sondern machen die Menschen durch ihre Kunst zu Gefangenen\.
+Und der bewundernswerte Justin hat sie zu Recht als Räuber angeprangert\.
+Manche entführen Menschen und geben sie dann gegen Lösegeld ihren Freunden zurück\.
+Ebenso dringen jene,
+die als Götter gelten,
+in die Körper bestimmter Menschen ein und lassen sie durch Träume ihre Gegenwart spüren\.
+Dann befehlen sie ihnen,
+öffentlich hervorzutreten\.
+Vor aller Augen genießen jene als Götter geltenden Wesen die Dinge dieser Welt bis zur Sättigung,
+entweichen aus den Kranken,
+vernichten die Krankheit,
+die sie selbst verursacht haben,
+und versetzen die Betroffenen wieder in ihren früheren Zustand\.

@@ -7,6 +7,91 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/8-homilie-ueber-matthaeus#kapitel-626268e5-2044-4398-5a43-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ec31f80b254c0b763db1a030b286adab0bfd709aa6c0f8ef1817a26c733940f5`
-
-Sieh also, wie auch der Evangelist eben dies andeutet, wenn er sagt: „Damit es erfüllt werde\.“ Damit zeigt er, dass es nicht erfüllt worden wäre, wenn dieser nicht gekommen wäre\. Und das macht auch die Jungfrau nicht irgendwie, sondern strahlend und berühmt\. Denn was das ganze Volk als seinen Ruhm besaß, das konnte nun auch sie selbst besitzen\. Sie waren ja stolz darauf, aus Ägypten heraufgezogen zu sein, und rühmten sich dessen\. Eben darauf spielte auch der Prophet an, als er sagte: „Habe ich nicht die Fremdvölker aus Kappadokien heraufgeführt und die Assyrer aus der Grube?“ Auch dieses Vorrecht macht er zum Vorrecht der Jungfrau\. Mehr noch: Sowohl das Volk als auch der Patriarch erfüllten, indem sie dorthin hinabzogen und von dort wieder heraufzogen, das Vorausbild dieses Heraufzugs\. Denn auch jene zogen hinab, weil sie dem Tod durch die Hungersnot entkamen; dieser aber entkam dem Tod durch einen Anschlag\. Doch jene wurden, nachdem sie hinabgezogen waren, damals von der Hungersnot befreit; dieser aber heiligte durch sein Hinabziehen das ganze Land durch seine Anwesenheit\. Sieh also, wie mitten im Niedrigen auch das Göttliche offenbar wird\. Denn als der Engel sagte: „Flieh nach Ägypten“, versprach er ihnen nicht, mit ihnen zu reisen, weder beim Hinabziehen noch beim Heraufziehen\. Damit deutete er an, dass sie einen großen Reisegefährten hatten: das geborene Kind\. Sobald es erschien, veränderte es alles auf einmal und bereitete sogar die Feinde dazu, in vielem dieser Heilsordnung zu dienen\. Denn auch Magier und Barbaren verlassen den Aberglauben ihrer Väter und kommen, um sich niederzuwerfen; auch Augustus dient durch den Erlass der Einschreibung der Geburt in Betlehem; Ägypten rettet ihn, indem es ihn als Flüchtling und Verfolgten aufnimmt, und erhält so einen Anlass zu einer gewissen Vertrautheit mit ihm, damit es sich, wenn es ihn künftig von den Aposteln verkündigt hört, auch dessen rühmen kann, ihn als erstes aufgenommen zu haben\. Freilich war dieses Vorrecht allein Palästina eigen; doch Ägypten wurde eifriger als jenes\. Und wenn du heute in die Wüste Ägyptens kommst, wirst du sehen, dass diese Wüste besser geworden ist als jedes Paradies: unzählige Chöre von Engeln in menschlicher Gestalt, Scharen von Märtyrern und Versammlungen von Jungfrauen\. Du wirst sehen, dass die ganze Tyrannei des Teufels gebrochen ist und das Reich Christi hell aufstrahlt\. Und dieses Land, die Mutter von Dichtern, Weisen und Magiern, das jede Art von Zauberkunst erfunden und an die anderen weitergegeben hat, wirst du nun sehen, wie es sich der Fischer rühmt, all jene aber verachtet, überall den Zöllner und den Zeltmacher umherträgt und das Kreuz vor sich herträgt\. Und diese Güter finden sich nicht nur in den Städten, sondern in den Wüsten noch mehr als in den Städten\. Denn überall in jenem Land kann man das Heerlager Christi sehen, die königliche Herde und die Lebensordnung der oberen Mächte\. Und man kann sehen, dass dies nicht nur bei Männern Kraft hat, sondern auch in der weiblichen Natur\. Denn auch jene philosophieren nicht weniger als Männer, nicht indem sie Schild nehmen und aufs Pferd steigen, wie es die ehrwürdigen Gesetzgeber und Philosophen der Griechen gebieten, sondern indem sie einen ganz anderen, weit schwereren Kampf auf sich nehmen\. Denn ihnen und den Männern ist der Krieg gegen den Teufel und die Mächte gemeinsam; und nirgends wird die Zartheit der Natur bei solchen Zusammenstößen zum Hindernis\. Denn diese Ringkämpfe werden nicht nach der Natur der Körper entschieden, sondern nach der Entscheidung der Seele\. Darum haben oft auch Frauen stärker gekämpft als Männer und glänzendere Siegeszeichen errichtet\. Nicht so strahlend ist der Himmel mit seinem bunten Chor der Sterne wie die Wüste Ägyptens, die uns von allen Seiten die Zelte der Mönche zeigt\.
+Sieh also,
+wie auch der Evangelist eben dies andeutet,
+wenn er sagt:
+„Damit es erfüllt werde\.“
+Damit zeigt er,
+dass es nicht erfüllt worden wäre,
+wenn dieser nicht gekommen wäre\.
+Und das macht auch die Jungfrau nicht irgendwie,
+sondern strahlend und berühmt\.
+Denn was das ganze Volk als seinen Ruhm besaß,
+das konnte nun auch sie selbst besitzen\.
+Sie waren ja stolz darauf,
+aus Ägypten heraufgezogen zu sein,
+und rühmten sich dessen\.
+Eben darauf spielte auch der Prophet an,
+als er sagte:
+„Habe ich nicht die Fremdvölker aus Kappadokien heraufgeführt und die Assyrer aus der Grube?“
+Auch dieses Vorrecht macht er zum Vorrecht der Jungfrau\.
+Mehr noch:
+Sowohl das Volk als auch der Patriarch erfüllten,
+indem sie dorthin hinabzogen und von dort wieder heraufzogen,
+das Vorausbild dieses Heraufzugs\.
+Denn auch jene zogen hinab,
+weil sie dem Tod durch die Hungersnot entkamen;
+dieser aber entkam dem Tod durch einen Anschlag\.
+Doch jene wurden,
+nachdem sie hinabgezogen waren,
+damals von der Hungersnot befreit;
+dieser aber heiligte durch sein Hinabziehen das ganze Land durch seine Anwesenheit\.
+Sieh also,
+wie mitten im Niedrigen auch das Göttliche offenbar wird\.
+Denn als der Engel sagte:
+„Flieh nach Ägypten“,
+versprach er ihnen nicht,
+mit ihnen zu reisen,
+weder beim Hinabziehen noch beim Heraufziehen\.
+Damit deutete er an,
+dass sie einen großen Reisegefährten hatten:
+das geborene Kind\.
+Sobald es erschien,
+veränderte es alles auf einmal und bereitete sogar die Feinde dazu,
+in vielem dieser Heilsordnung zu dienen\.
+Denn auch Magier und Barbaren verlassen den Aberglauben ihrer Väter und kommen,
+um sich niederzuwerfen;
+auch Augustus dient durch den Erlass der Einschreibung der Geburt in Betlehem;
+Ägypten rettet ihn,
+indem es ihn als Flüchtling und Verfolgten aufnimmt,
+und erhält so einen Anlass zu einer gewissen Vertrautheit mit ihm,
+damit es sich,
+wenn es ihn künftig von den Aposteln verkündigt hört,
+auch dessen rühmen kann,
+ihn als erstes aufgenommen zu haben\.
+Freilich war dieses Vorrecht allein Palästina eigen;
+doch Ägypten wurde eifriger als jenes\.
+Und wenn du heute in die Wüste Ägyptens kommst,
+wirst du sehen,
+dass diese Wüste besser geworden ist als jedes Paradies:
+unzählige Chöre von Engeln in menschlicher Gestalt,
+Scharen von Märtyrern und Versammlungen von Jungfrauen\.
+Du wirst sehen,
+dass die ganze Tyrannei des Teufels gebrochen ist und das Reich Christi hell aufstrahlt\.
+Und dieses Land,
+die Mutter von Dichtern,
+Weisen und Magiern,
+das jede Art von Zauberkunst erfunden und an die anderen weitergegeben hat,
+wirst du nun sehen,
+wie es sich der Fischer rühmt,
+all jene aber verachtet,
+überall den Zöllner und den Zeltmacher umherträgt und das Kreuz vor sich herträgt\.
+Und diese Güter finden sich nicht nur in den Städten,
+sondern in den Wüsten noch mehr als in den Städten\.
+Denn überall in jenem Land kann man das Heerlager Christi sehen,
+die königliche Herde und die Lebensordnung der oberen Mächte\.
+Und man kann sehen,
+dass dies nicht nur bei Männern Kraft hat,
+sondern auch in der weiblichen Natur\.
+Denn auch jene philosophieren nicht weniger als Männer,
+nicht indem sie Schild nehmen und aufs Pferd steigen,
+wie es die ehrwürdigen Gesetzgeber und Philosophen der Griechen gebieten,
+sondern indem sie einen ganz anderen,
+weit schwereren Kampf auf sich nehmen\.
+Denn ihnen und den Männern ist der Krieg gegen den Teufel und die Mächte gemeinsam;
+und nirgends wird die Zartheit der Natur bei solchen Zusammenstößen zum Hindernis\.
+Denn diese Ringkämpfe werden nicht nach der Natur der Körper entschieden,
+sondern nach der Entscheidung der Seele\.
+Darum haben oft auch Frauen stärker gekämpft als Männer und glänzendere Siegeszeichen errichtet\.
+Nicht so strahlend ist der Himmel mit seinem bunten Chor der Sterne wie die Wüste Ägyptens,
+die uns von allen Seiten die Zelte der Mönche zeigt\.

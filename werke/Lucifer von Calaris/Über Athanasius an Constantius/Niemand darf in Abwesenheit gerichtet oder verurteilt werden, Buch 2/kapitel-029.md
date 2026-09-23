@@ -7,9 +7,97 @@ Autor: Lucifer von Calaris
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/lucifer-von-calaris/niemand-darf-in-abwesenheit-gerichtet-oder-verurteilt-werden-buch-2#kapitel-2eae60cc-e331-4ef2-68de-08ded9b64703).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:344134c88f2cd3924cd4bfb01fc0b26d759709f0d1c6583a6305a287c8120dc7`
-
-Ich will, dass du sagst, höchst umsichtiger Kaiser, worin wir Mitnachahmer des Apostels werden sollen; lehre es, Abtrünniger: War der Apostel ein Mörder, ein Lästerer, ein Zerstörer des evangelischen Glaubens, ein Gottesfrevler? Denn all dies bekennt er von sich selbst, es getan zu haben, bevor er an den einzigen Sohn Gottes glaubte\. Du aber, der du heute das tust, was jener vor der Erkenntnis des einzigen Sohnes Gottes tat, aus welchem Grund hast du es gewagt, uns, den Priestern des Herrn, zu befehlen, einen Unschuldigen zu verurteilen, deine Häresie anzunehmen und den apostolischen Glauben zu verwerfen? Aus welchem Grund hast du angeordnet, dass dies geschehe, was gegen das Vorbild des Apostels vorgebracht ist, wenn nicht deshalb, weil du zu den Feinden des Kreuzes Christi gehörst, zu denen, die schon damals durch den Mund des heiligen Apostels bezeichnet worden waren? Sollten wir etwa auf dich und die Deinen hören, deren Ende, wie der Apostel sagt, Verderben ist, oder auf jene deine Trabanten, die das überlieferte Vorbild der Lehre und die Regel des Glaubens verlassen und sich um schändlichen Gewinnes willen durch die Apostel dir ausgeliefert haben, auf jene, die die Fülle deiner Tafel mehr geschätzt haben als das, was der Herr den Seinen verheißt, die lieber deine Tischgenossen sein wollten als die der Patriarchen, Propheten, Apostel oder Märtyrer, zu denen mit vollem Recht gesagt wird: „Euer Gott ist der Bauch[^bible-aaf6082d-b47d-445d-b6c5-d5762d6b2161]“? „Prüft alles[^bible-e9eaa83d-2c5b-44db-8fa6-42b28767ce85]“, sagt der Apostel, „das Gute behaltet, von jeder Gestalt des Bösen haltet euch fern[^bible-e9eaa83d-2c5b-44db-8fa6-42b28767ce85]“; und weil wir euer verfluchtes Werk, das der Arianer, gesehen und gemieden haben, leiden wir unter Hass\. Doch wie schön und wie erfreulich ist es, von dir gehasst, von Gott aber geliebt zu werden\. Du hast uns aus der uns anvertrauten Sache zurückgestoßen, in der Meinung, du könntest zerstören, was Gott erbaut hat\. „Jedem einzelnen von uns aber[^bible-7c45a64f-944c-42ca-a880-42354ac8c4cf]“, sagt er, indem er an die Epheser schreibt, „ist die Gnade gegeben nach dem Maß der Würdigung Christi[^bible-7c45a64f-944c-42ca-a880-42354ac8c4cf]“\. Darum sagt er: Hinaufgestiegen in die Höhe, führte er die Gefangenschaft gefangen, gab den Menschen Gaben[^bible-fc027547-d096-4af0-8759-c01c14ad99bc]\. „Dass er aber hinaufgestiegen ist, was heißt das anderes, als dass er auch hinabgestiegen ist in die unteren Teile der Erde?[^bible-ea83baae-7f58-4645-afaf-5e1857dcacf8]“Und der hinabgestiegen ist, ist derselbe, der auch hinaufgestiegen ist über alle Himmel, damit er alles erfüllte[^bible-d52419d0-d404-4972-938e-74187b316384]\. Und er selbst gab die einen als Apostel, die anderen aber als Propheten, wieder andere als Evangelisten, andere aber als Hirten und Lehrer, zur Vollendung der Heiligen für das Werk des Dienstes, zur Erbauung des Leibes Christi, bis wir alle hingelangen zur Einheit des Glaubens und der Erkenntnis Gottes, zum vollkommenen Mann, zum Maß des Alters der Fülle Christi, damit wir nicht mehr Unmündige sind, die schwanken und von jedem Wind der Lehre umhergetrieben werden durch die Bosheit der Menschen, durch List auf ein Heilmittel des Irrtums hin\. Indem wir aber die Wahrheit in Liebe tun, sollen wir in allem hinwachsen zu ihm, der das Haupt ist, Christus; von ihm her wirkt der ganze Leib, zusammengefügt und verbunden durch jedes Gelenk der Unterstützung, nach dem Maß eines jeden einzelnen Teils das Wachstum des Leibes zu seiner eigenen Erbauung in Liebe[^bible-45f65f10-47c8-450e-b146-3dd2297bb7c2]\.
+Ich will,
+dass du sagst,
+höchst umsichtiger Kaiser,
+worin wir Mitnachahmer des Apostels werden sollen;
+lehre es,
+Abtrünniger:
+War der Apostel ein Mörder,
+ein Lästerer,
+ein Zerstörer des evangelischen Glaubens,
+ein Gottesfrevler?
+Denn all dies bekennt er von sich selbst,
+es getan zu haben,
+bevor er an den einzigen Sohn Gottes glaubte\.
+Du aber,
+der du heute das tust,
+was jener vor der Erkenntnis des einzigen Sohnes Gottes tat,
+aus welchem Grund hast du es gewagt,
+uns,
+den Priestern des Herrn,
+zu befehlen,
+einen Unschuldigen zu verurteilen,
+deine Häresie anzunehmen und den apostolischen Glauben zu verwerfen?
+Aus welchem Grund hast du angeordnet,
+dass dies geschehe,
+was gegen das Vorbild des Apostels vorgebracht ist,
+wenn nicht deshalb,
+weil du zu den Feinden des Kreuzes Christi gehörst,
+zu denen,
+die schon damals durch den Mund des heiligen Apostels bezeichnet worden waren?
+Sollten wir etwa auf dich und die Deinen hören,
+deren Ende,
+wie der Apostel sagt,
+Verderben ist,
+oder auf jene deine Trabanten,
+die das überlieferte Vorbild der Lehre und die Regel des Glaubens verlassen und sich um schändlichen Gewinnes willen durch die Apostel dir ausgeliefert haben,
+auf jene,
+die die Fülle deiner Tafel mehr geschätzt haben als das,
+was der Herr den Seinen verheißt,
+die lieber deine Tischgenossen sein wollten als die der Patriarchen,
+Propheten,
+Apostel oder Märtyrer,
+zu denen mit vollem Recht gesagt wird:
+„Euer Gott ist der Bauch[^bible-aaf6082d-b47d-445d-b6c5-d5762d6b2161]“?
+„Prüft alles[^bible-e9eaa83d-2c5b-44db-8fa6-42b28767ce85]“,
+sagt der Apostel,
+„das Gute behaltet,
+von jeder Gestalt des Bösen haltet euch fern[^bible-e9eaa83d-2c5b-44db-8fa6-42b28767ce85]“;
+und weil wir euer verfluchtes Werk,
+das der Arianer,
+gesehen und gemieden haben,
+leiden wir unter Hass\.
+Doch wie schön und wie erfreulich ist es,
+von dir gehasst,
+von Gott aber geliebt zu werden\.
+Du hast uns aus der uns anvertrauten Sache zurückgestoßen,
+in der Meinung,
+du könntest zerstören,
+was Gott erbaut hat\.
+„Jedem einzelnen von uns aber[^bible-7c45a64f-944c-42ca-a880-42354ac8c4cf]“,
+sagt er,
+indem er an die Epheser schreibt,
+„ist die Gnade gegeben nach dem Maß der Würdigung Christi[^bible-7c45a64f-944c-42ca-a880-42354ac8c4cf]“\.
+Darum sagt er:
+Hinaufgestiegen in die Höhe,
+führte er die Gefangenschaft gefangen,
+gab den Menschen Gaben[^bible-fc027547-d096-4af0-8759-c01c14ad99bc]\.
+„Dass er aber hinaufgestiegen ist,
+was heißt das anderes,
+als dass er auch hinabgestiegen ist in die unteren Teile der Erde?[^bible-ea83baae-7f58-4645-afaf-5e1857dcacf8]“Und der hinabgestiegen ist,
+ist derselbe,
+der auch hinaufgestiegen ist über alle Himmel,
+damit er alles erfüllte[^bible-d52419d0-d404-4972-938e-74187b316384]\.
+Und er selbst gab die einen als Apostel,
+die anderen aber als Propheten,
+wieder andere als Evangelisten,
+andere aber als Hirten und Lehrer,
+zur Vollendung der Heiligen für das Werk des Dienstes,
+zur Erbauung des Leibes Christi,
+bis wir alle hingelangen zur Einheit des Glaubens und der Erkenntnis Gottes,
+zum vollkommenen Mann,
+zum Maß des Alters der Fülle Christi,
+damit wir nicht mehr Unmündige sind,
+die schwanken und von jedem Wind der Lehre umhergetrieben werden durch die Bosheit der Menschen,
+durch List auf ein Heilmittel des Irrtums hin\.
+Indem wir aber die Wahrheit in Liebe tun,
+sollen wir in allem hinwachsen zu ihm,
+der das Haupt ist,
+Christus;
+von ihm her wirkt der ganze Leib,
+zusammengefügt und verbunden durch jedes Gelenk der Unterstützung,
+nach dem Maß eines jeden einzelnen Teils das Wachstum des Leibes zu seiner eigenen Erbauung in Liebe[^bible-45f65f10-47c8-450e-b146-3dd2297bb7c2]\.
 
 ## Bibelverweise
 

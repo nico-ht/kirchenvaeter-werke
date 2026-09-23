@@ -7,6 +7,6 @@ Autor: Papias von Hierapolis
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/papias-von-hierapolis/fragmente#kapitel-efb9b5e0-fdec-4096-4d54-08debcd5df76).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:3d3008739188d70583c832694046912e986c2592ec28ca072dcc76d78aec374d`
-
-Fragment 13\. Es wird aber auch eine andere Geschichte über eine Frau dargelegt, die vor dem Herrn wegen vieler Sünden angeklagt wurde; diese enthält das Evangelium nach den Hebräern\.
+Fragment 13\. Es wird aber auch eine andere Geschichte über eine Frau dargelegt,
+die vor dem Herrn wegen vieler Sünden angeklagt wurde;
+diese enthält das Evangelium nach den Hebräern\.

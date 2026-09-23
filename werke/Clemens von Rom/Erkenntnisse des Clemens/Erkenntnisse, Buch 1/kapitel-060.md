@@ -7,6 +7,46 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-1#kapitel-c4d9e5ed-b643-41b9-9fff-08de579aa9c5).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7ea5d246e598fc48e5e5cfe90a2839ea1179f302ea432912e799612622fdcaa4`
-
-Und siehe da, einer von den Jüngern des Johannes behauptete steif und fest, dass Johannes der Christus gewesen sei und nicht Jesus; „so sehr“, sagte er, „dass sogar Jesus selbst verkündet hat, Johannes sei größer als alle Menschen und Propheten\.“ „Wenn er also“, fuhr er fort, „größer ist als alle, dann muss er zweifellos auch für größer als Mose und Jesus selbst gehalten werden\! Und wenn er der Größte von allen ist, dann ist er der Christus\!“ Darauf antwortete Simon der Kanaanäer und stellte klar, dass Johannes zwar größer war als alle Propheten und alle, die Söhne von Frauen sind, aber keineswegs größer als der Sohn des Menschen\. „Und deshalb ist Jesus tatsächlich der Christus, Johannes aber nur ein Prophet; und der Unterschied zwischen ihm und Jesus ist so groß wie zwischen dem Vorläufer und dem, dem vorausgelaufen wird, und wie zwischen dem, der das Gesetz gibt, und dem, der das Gesetz einhält\.“ Nachdem auch der Kanaanäer dies und Ähnliches ausgeführt hatte, schwieg er\. Nach ihm fing Barnabas an – der auch Matthias heißt und der anstelle von Judas als Apostel nachgerückt ist –, das Volk zu ermahnen, Jesus nicht zu hassen und ihn nicht zu lästern\. „Denn es ist viel korrekter“, sagte er, „ihn zu lieben als zu hassen, selbst für den, der nichts weiß oder an Jesus zweifelt\. Denn auf die Liebe hat Gott eine Belohnung gesetzt, auf den Hass eine Strafe\! Denn allein schon die Tatsache“, sagte er, „dass er einen jüdischen Körper angenommen hat und unter Juden geboren wurde: Wie hat euch das nicht allen einen Anreiz zur Liebe für ihn eingejagt?“ Als er dies und Ähnliches als Rede vorgetragen hatte, beendete er das Sprechen\.
+Und siehe da,
+einer von den Jüngern des Johannes behauptete steif und fest,
+dass Johannes der Christus gewesen sei und nicht Jesus;
+„so sehr“,
+sagte er,
+„dass sogar Jesus selbst verkündet hat,
+Johannes sei größer als alle Menschen und Propheten\.“
+„Wenn er also“,
+fuhr er fort,
+„größer ist als alle,
+dann muss er zweifellos auch für größer als Mose und Jesus selbst gehalten werden\!
+Und wenn er der Größte von allen ist,
+dann ist er der Christus\!“
+Darauf antwortete Simon der Kanaanäer und stellte klar,
+dass Johannes zwar größer war als alle Propheten und alle,
+die Söhne von Frauen sind,
+aber keineswegs größer als der Sohn des Menschen\.
+„Und deshalb ist Jesus tatsächlich der Christus,
+Johannes aber nur ein Prophet;
+und der Unterschied zwischen ihm und Jesus ist so groß wie zwischen dem Vorläufer und dem,
+dem vorausgelaufen wird,
+und wie zwischen dem,
+der das Gesetz gibt,
+und dem,
+der das Gesetz einhält\.“
+Nachdem auch der Kanaanäer dies und Ähnliches ausgeführt hatte,
+schwieg er\.
+Nach ihm fing Barnabas an – der auch Matthias heißt und der anstelle von Judas als Apostel nachgerückt ist –,
+das Volk zu ermahnen,
+Jesus nicht zu hassen und ihn nicht zu lästern\.
+„Denn es ist viel korrekter“,
+sagte er,
+„ihn zu lieben als zu hassen,
+selbst für den,
+der nichts weiß oder an Jesus zweifelt\.
+Denn auf die Liebe hat Gott eine Belohnung gesetzt,
+auf den Hass eine Strafe\!
+Denn allein schon die Tatsache“,
+sagte er,
+„dass er einen jüdischen Körper angenommen hat und unter Juden geboren wurde:
+Wie hat euch das nicht allen einen Anreiz zur Liebe für ihn eingejagt?“
+Als er dies und Ähnliches als Rede vorgetragen hatte,
+beendete er das Sprechen\.

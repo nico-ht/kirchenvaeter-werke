@@ -7,9 +7,78 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-2#kapitel-62bb867b-2427-45cf-0a71-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:91075f357a587ecb3458afdd44f53a26e06a19dc1996ce8e457a92777ceac9a6`
-
-Wie aber kann dieser Jude des Celsus behaupten, Jesus habe sich verborgen? Über ihn sagt er nämlich: „Welcher Mensch, der als Bote gesandt ist, verbirgt sich je, wenn er seine Botschaft bekannt machen soll?“ Jesus jedoch verbarg sich nicht, sondern sagte zu denen, die ihn festnehmen wollten: „Tag für Tag lehrte ich öffentlich im Tempel, und ihr habt mich nicht ergriffen\.[^bible-77977e74-b18d-4af9-9d70-20aced117ac3] “ Da wir diesen Vorwurf des Celsus, der nun erneut vorgebracht wird, bereits einmal beantwortet haben, begnügen wir uns mit dem, was wir früher gesagt haben\. Ebenso haben wir auf den vorangegangenen Seiten diesen Einwand beantwortet: „Solange er im Leib war und niemand an ihn glaubte, predigte er allen unablässig; doch als er nach seiner Auferstehung einen starken Glauben an sich hätte wecken können, zeigte er sich heimlich nur einer Frau und seinen engsten Gefährten\.“ Es stimmt jedoch nicht, dass er sich nur einer Frau zeigte\. Im Evangelium nach Matthäus heißt es nämlich: „Nach dem Ende des Sabbats, als es auf den ersten Tag der Woche hin zu dämmern begann, kam Maria Magdalena mit der anderen Maria, um das Grab zu sehen\. Und siehe, es hatte ein großes Erdbeben gegeben; denn der Engel des Herrn war vom Himmel herabgestiegen, herangetreten und hatte den Stein weggewälzt\.[^bible-da36d637-d2b7-4a4c-ab50-7a2f605a31e3] “ Kurz darauf fügt Matthäus hinzu: „Und siehe, Jesus begegnete ihnen[^bible-aca7a25e-42a5-4c0d-b550-8ba54c12bf5f] “, womit er eindeutig die zuvor genannten Marias meint, „und sagte: ‚Seid gegrüßt\!‘ Da traten sie zu ihm, umfassten seine Füße und warfen sich vor ihm nieder\.[^bible-aca7a25e-42a5-4c0d-b550-8ba54c12bf5f] “ Auch den Vorwurf, „während seiner Bestrafung sei er von allen gesehen worden, nach seiner Auferstehung aber nur von einem Menschen“, haben wir bereits beantwortet, als wir die Tatsache verteidigten, dass „er nicht von allen gesehen wurde“\. Nun könnten wir sagen, dass seine rein menschlichen Eigenschaften für alle Menschen sichtbar waren, die ihrer Natur nach göttlichen dagegen nicht von allen aufgenommen werden konnten\. Dabei spreche ich von den Eigenschaften nicht in ihrer Beziehung zueinander, sondern als voneinander verschieden\. Beachte aber den offenkundigen Widerspruch, in den Celsus hier gerät\. Kurz zuvor hatte er gesagt, Jesus sei heimlich einer Frau und seinen engsten Gefährten erschienen, und unmittelbar darauf fügt er hinzu: „Während seiner Bestrafung wurde er von allen Menschen gesehen, nach seiner Auferstehung aber von einem; dabei hätte das Gegenteil geschehen müssen\.“ Hören wir nun, was er mit „hätte geschehen müssen“ meint\. Von allen Menschen während seiner Bestrafung gesehen zu werden, nach seiner Auferstehung aber nur von einem Einzelnen, das sind Gegensätze\. Soweit seine Worte überhaupt einen Sinn ergeben, will er also, dass etwas zugleich Unmögliches und Absurdes geschieht: Während seiner Bestrafung wäre Jesus nur von einem Einzelnen gesehen worden, nach seiner Auferstehung dagegen von allen Menschen\! Wie sonst willst du seine Worte erklären: „Das Gegenteil hätte geschehen müssen“?
+Wie aber kann dieser Jude des Celsus behaupten,
+Jesus habe sich verborgen?
+Über ihn sagt er nämlich:
+„Welcher Mensch,
+der als Bote gesandt ist,
+verbirgt sich je,
+wenn er seine Botschaft bekannt machen soll?“
+Jesus jedoch verbarg sich nicht,
+sondern sagte zu denen,
+die ihn festnehmen wollten:
+„Tag für Tag lehrte ich öffentlich im Tempel,
+und ihr habt mich nicht ergriffen\.[^bible-77977e74-b18d-4af9-9d70-20aced117ac3]
+“ Da wir diesen Vorwurf des Celsus,
+der nun erneut vorgebracht wird,
+bereits einmal beantwortet haben,
+begnügen wir uns mit dem,
+was wir früher gesagt haben\.
+Ebenso haben wir auf den vorangegangenen Seiten diesen Einwand beantwortet:
+„Solange er im Leib war und niemand an ihn glaubte,
+predigte er allen unablässig;
+doch als er nach seiner Auferstehung einen starken Glauben an sich hätte wecken können,
+zeigte er sich heimlich nur einer Frau und seinen engsten Gefährten\.“
+Es stimmt jedoch nicht,
+dass er sich nur einer Frau zeigte\.
+Im Evangelium nach Matthäus heißt es nämlich:
+„Nach dem Ende des Sabbats,
+als es auf den ersten Tag der Woche hin zu dämmern begann,
+kam Maria Magdalena mit der anderen Maria,
+um das Grab zu sehen\.
+Und siehe,
+es hatte ein großes Erdbeben gegeben;
+denn der Engel des Herrn war vom Himmel herabgestiegen,
+herangetreten und hatte den Stein weggewälzt\.[^bible-da36d637-d2b7-4a4c-ab50-7a2f605a31e3]
+“ Kurz darauf fügt Matthäus hinzu:
+„Und siehe,
+Jesus begegnete ihnen[^bible-aca7a25e-42a5-4c0d-b550-8ba54c12bf5f] “,
+womit er eindeutig die zuvor genannten Marias meint,
+„und sagte:
+‚Seid gegrüßt\!‘
+Da traten sie zu ihm,
+umfassten seine Füße und warfen sich vor ihm nieder\.[^bible-aca7a25e-42a5-4c0d-b550-8ba54c12bf5f]
+“ Auch den Vorwurf,
+„während seiner Bestrafung sei er von allen gesehen worden,
+nach seiner Auferstehung aber nur von einem Menschen“,
+haben wir bereits beantwortet,
+als wir die Tatsache verteidigten,
+dass „er nicht von allen gesehen wurde“\.
+Nun könnten wir sagen,
+dass seine rein menschlichen Eigenschaften für alle Menschen sichtbar waren,
+die ihrer Natur nach göttlichen dagegen nicht von allen aufgenommen werden konnten\.
+Dabei spreche ich von den Eigenschaften nicht in ihrer Beziehung zueinander,
+sondern als voneinander verschieden\.
+Beachte aber den offenkundigen Widerspruch,
+in den Celsus hier gerät\.
+Kurz zuvor hatte er gesagt,
+Jesus sei heimlich einer Frau und seinen engsten Gefährten erschienen,
+und unmittelbar darauf fügt er hinzu:
+„Während seiner Bestrafung wurde er von allen Menschen gesehen,
+nach seiner Auferstehung aber von einem;
+dabei hätte das Gegenteil geschehen müssen\.“
+Hören wir nun,
+was er mit „hätte geschehen müssen“ meint\.
+Von allen Menschen während seiner Bestrafung gesehen zu werden,
+nach seiner Auferstehung aber nur von einem Einzelnen,
+das sind Gegensätze\.
+Soweit seine Worte überhaupt einen Sinn ergeben,
+will er also,
+dass etwas zugleich Unmögliches und Absurdes geschieht:
+Während seiner Bestrafung wäre Jesus nur von einem Einzelnen gesehen worden,
+nach seiner Auferstehung dagegen von allen Menschen\!
+Wie sonst willst du seine Worte erklären:
+„Das Gegenteil hätte geschehen müssen“?
 
 ## Bibelverweise
 

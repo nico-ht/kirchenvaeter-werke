@@ -7,6 +7,57 @@ Autor: Justin der Märtyrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/1-apologie#kapitel-87b4b0b3-bac6-439a-8eac-08dd07e8078e).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:23a88605d78f435812d5adfd675fb7e75db640467d19b0d35b9d2226d34d2423`
-
-Wir warnen euch, auf der Hut zu sein, damit euch die Dämonen, die wir angeklagt haben, nicht täuschen und euch von dem Lesen und Verstehen dessen ablenken, was wir sagen\. Sie streben danach, euch zu ihren Sklaven und Dienern zu machen\. Manchmal erscheinen sie in Träumen, manchmal durch magische Täuschungen, und sie unterwerfen alle, die sich nicht energisch um ihre eigene Rettung bemühen\. So stehen auch wir, seit wir durch das Wort überzeugt wurden, von ihnen \(das heißt den Dämonen\) entfernt und folgen dem einzigen ungezeugten Gott durch seinen Sohn\. Wir, die wir früher an Unzucht Freude hatten, umarmen jetzt die Keuschheit allein\. Wir, die wir früher magische Künste praktizierten, widmen uns dem guten und ungezeugten Gott\. Wir, die wir den Erwerb von Reichtum und Besitz über alles schätzten, bringen jetzt das, was wir haben, in einen gemeinsamen Besitz und teilen mit jedem, der in Not ist\. Wir, die wir einander gehasst und zerstört haben und wegen unserer unterschiedlichen Sitten nicht mit Menschen anderer Stämme leben wollten, leben nun, seit dem Kommen Christi, vertraut mit ihnen, beten für unsere Feinde und bemühen uns, diejenigen, die uns ungerecht hassen, zu überzeugen, gemäß den guten Lehren Christi zu leben, damit sie mit uns an der gleichen freudigen Hoffnung auf eine Belohnung von Gott, dem Herrscher über alles, teilhaben können\. Damit es jedoch nicht so scheint, dass wir sophistisch argumentieren, halten wir es für richtig, bevor wir euch die versprochene Erklärung geben, einige Gebote zu zitieren, die Christus selbst gegeben hat\. Und es sei euch, als mächtigen Herrschern, empfohlen, zu prüfen, ob wir diese Dinge wahrhaftig gelehrt wurden und auch selbst lehren\. Kurze und prägnante Äußerungen fielen von Ihm, denn Er war kein Sophist, sondern Sein Wort war die Kraft Gottes\.
+Wir warnen euch,
+auf der Hut zu sein,
+damit euch die Dämonen,
+die wir angeklagt haben,
+nicht täuschen und euch von dem Lesen und Verstehen dessen ablenken,
+was wir sagen\.
+Sie streben danach,
+euch zu ihren Sklaven und Dienern zu machen\.
+Manchmal erscheinen sie in Träumen,
+manchmal durch magische Täuschungen,
+und sie unterwerfen alle,
+die sich nicht energisch um ihre eigene Rettung bemühen\.
+So stehen auch wir,
+seit wir durch das Wort überzeugt wurden,
+von ihnen \(das heißt den Dämonen\) entfernt und folgen dem einzigen ungezeugten Gott durch seinen Sohn\.
+Wir,
+die wir früher an Unzucht Freude hatten,
+umarmen jetzt die Keuschheit allein\.
+Wir,
+die wir früher magische Künste praktizierten,
+widmen uns dem guten und ungezeugten Gott\.
+Wir,
+die wir den Erwerb von Reichtum und Besitz über alles schätzten,
+bringen jetzt das,
+was wir haben,
+in einen gemeinsamen Besitz und teilen mit jedem,
+der in Not ist\.
+Wir,
+die wir einander gehasst und zerstört haben und wegen unserer unterschiedlichen Sitten nicht mit Menschen anderer Stämme leben wollten,
+leben nun,
+seit dem Kommen Christi,
+vertraut mit ihnen,
+beten für unsere Feinde und bemühen uns,
+diejenigen,
+die uns ungerecht hassen,
+zu überzeugen,
+gemäß den guten Lehren Christi zu leben,
+damit sie mit uns an der gleichen freudigen Hoffnung auf eine Belohnung von Gott,
+dem Herrscher über alles,
+teilhaben können\.
+Damit es jedoch nicht so scheint,
+dass wir sophistisch argumentieren,
+halten wir es für richtig,
+bevor wir euch die versprochene Erklärung geben,
+einige Gebote zu zitieren,
+die Christus selbst gegeben hat\.
+Und es sei euch,
+als mächtigen Herrschern,
+empfohlen,
+zu prüfen,
+ob wir diese Dinge wahrhaftig gelehrt wurden und auch selbst lehren\.
+Kurze und prägnante Äußerungen fielen von Ihm,
+denn Er war kein Sophist,
+sondern Sein Wort war die Kraft Gottes\.

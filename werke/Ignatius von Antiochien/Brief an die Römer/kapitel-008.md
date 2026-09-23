@@ -7,6 +7,23 @@ Autor: Ignatius von Antiochien
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ignatius-von-antiochien/brief-an-die-roemer#kapitel-1ee0af25-15bb-4e0a-60fa-08ddc5c2d52d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b34e993913d44a03f42e2d7bb5237d74c9f19c84d8275e11064cce2477d9000b`
-
-Ich möchte nicht länger nach menschlichen Maßstäben leben\. Und so wird es sein, wenn ihr es wünscht\. Wünscht es euch, damit auch ihr begehrt werden mögt\! Mit diesen kurzen Zeilen bitte ich euch\. Glaubt mir\! Und Jesus Christus, der unfehlbare Mund, durch den der Vater wahrhaftig gesprochen hat, wird euch klar machen, dass ich wahrhaftig spreche\. Betet für mich, dass ich das Ziel erreiche\. Ich schreibe euch nicht aus menschlicher Perspektive, sondern gemäß dem Verstand Gottes\. Wenn ich leide, werdet ihr es gewollt haben; wenn ich abgelehnt werde, werdet ihr mich gehasst haben\.
+Ich möchte nicht länger nach menschlichen Maßstäben leben\.
+Und so wird es sein,
+wenn ihr es wünscht\.
+Wünscht es euch,
+damit auch ihr begehrt werden mögt\!
+Mit diesen kurzen Zeilen bitte ich euch\.
+Glaubt mir\!
+Und Jesus Christus,
+der unfehlbare Mund,
+durch den der Vater wahrhaftig gesprochen hat,
+wird euch klar machen,
+dass ich wahrhaftig spreche\.
+Betet für mich,
+dass ich das Ziel erreiche\.
+Ich schreibe euch nicht aus menschlicher Perspektive,
+sondern gemäß dem Verstand Gottes\.
+Wenn ich leide,
+werdet ihr es gewollt haben;
+wenn ich abgelehnt werde,
+werdet ihr mich gehasst haben\.

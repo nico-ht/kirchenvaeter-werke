@@ -7,9 +7,101 @@ Autor: Gregor der Große
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/hirtenregel-buch-1#kapitel-118a5d34-9571-457c-2d7b-08dd468d63fa).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:14f61b704b6245bd8a48317435d2bb82f29a45ef843e09b77bb438cb3f489a7c`
-
-Kapitel 4\. Dass in der Regel die Beschäftigung mit der Leitung die Festigkeit des Geistes zerstreut\. Oft lenkt die Sorge um die Leitung, wenn sie übernommen wird, das Herz in verschiedene Richtungen; und man findet sich ungleich, mit bestimmten Dingen umzugehen, während der verwirrte Geist unter vielen geteilt ist\. Daher warnt ein gewisser weiser Mann weise und sagt: „Mein Sohn, mische dich nicht mit vielen Angelegenheiten\.“[^bible-dbc9bf5b-42fb-4f77-b441-8f2065f61367] Denn das heißt, der Geist ist keineswegs auf den Plan eines einzelnen Werkes konzentriert, während er unter verschiedenen Dingen geteilt ist\. Und wenn er durch ungewohnte Sorgen nach außen gezogen wird, wird er der Festigkeit der inneren Furcht beraubt: Er wird ängstlich in der Ordnung der äußeren Dinge und, sich selbst unbekannt, weiß er, wie man an viele Dinge denkt, während er sich selbst nicht kennt\. Denn wenn er sich mehr als nötig mit äußeren Dingen beschäftigt, ist es, als ob er auf einer Reise so beschäftigt wäre, dass er vergisst, wohin er geht; sodass er, entfremdet von der Selbstprüfung, nicht einmal die Verluste in Betracht zieht, die er erleidet, oder weiß, wie groß sie sind\. Denn auch Hezekiah glaubte nicht, dass er sündigte, als er den Fremden, die zu ihm kamen, seine Vorratskammern mit Gewürzen zeigte; sondern er fiel unter den Zorn des Richters, zur Verdammnis seiner zukünftigen Nachkommen, aus dem, was er für rechtmäßig hielt\. Oft, wenn die Mittel reichlich vorhanden sind und viele Dinge getan werden können, um die Untergebenen zu bewundern, erhebt sich der Geist im Gedanken und provoziert sich selbst vollends den Zorn des Richters, obwohl er nicht in offenen Taten der Gottlosigkeit ausbricht\. Denn der Richter ist im Inneren; das, was beurteilt wird, ist im Inneren\. Wenn wir also im Herzen übertreten, bleibt das, was wir in uns selbst tun, den Menschen verborgen; doch in den Augen des Richters sündigen wir\. Denn auch der König von Babylon stand nicht erst dann schuldig der Überheblichkeit, als er Worte der Überheblichkeit aussprach, da er sogar zuvor, als er seine Überheblichkeit nicht ausgesprochen hatte, das Urteil der Verdammnis aus dem Mund des Propheten hörte\. Denn er hatte bereits die Schuld des Stolzes, dessen er schuldig gewesen war, abgewischt, als er allen Nationen unter ihm den allmächtigen Gott verkündete, gegen den er sich vergangen hatte\. Aber nachdem er durch den Erfolg seiner Herrschaft erhöht worden war und sich freute, Großes getan zu haben, stellte er sich zuerst in Gedanken über alle und sagte dann, noch eitel: „Ist das nicht das große Babylon, das ich für das Haus des Königreichs erbaut habe, in der Kraft meiner Macht und zur Ehre meiner Majestät?“[^bible-ee5065c6-0974-472b-b741-7de0e747c14c] Diese Äußerung von ihm fiel, wie wir sehen, offen unter die Vergeltung des Zorns, den seine verborgene Überheblichkeit entzündet hatte\. Denn der strenge Richter sieht zuerst unsichtbar, was er danach öffentlich tadelt, indem er es schlägt\. Daher verwandelte er ihn sogar in ein irrationales Tier, trennte ihn von der menschlichen Gesellschaft, veränderte seinen Geist und verband ihn mit den Tieren des Feldes, damit der, der sich über die Menschen groß geschätzt hatte, in offensichtlich strenger und gerechter Beurteilung sogar sein Dasein als Mensch verlieren sollte\. Wenn wir diese Dinge anführen, kritisieren wir nicht die Herrschaft, sondern bewahren die Schwäche des Herzens davor, sie zu begehren, damit niemand, der unvollkommen ist, es wagt, nach der höchsten Herrschaft zu greifen, oder diejenigen, die auf festem Boden stolpern, am Abgrund Fuß fassen\.
+Kapitel 4\. Dass in der Regel die Beschäftigung mit der Leitung die Festigkeit des Geistes zerstreut\.
+Oft lenkt die Sorge um die Leitung,
+wenn sie übernommen wird,
+das Herz in verschiedene Richtungen;
+und man findet sich ungleich,
+mit bestimmten Dingen umzugehen,
+während der verwirrte Geist unter vielen geteilt ist\.
+Daher warnt ein gewisser weiser Mann weise und sagt:
+„Mein Sohn,
+mische dich nicht mit vielen Angelegenheiten\.“[^bible-dbc9bf5b-42fb-4f77-b441-8f2065f61367]
+Denn das heißt,
+der Geist ist keineswegs auf den Plan eines einzelnen Werkes konzentriert,
+während er unter verschiedenen Dingen geteilt ist\.
+Und wenn er durch ungewohnte Sorgen nach außen gezogen wird,
+wird er der Festigkeit der inneren Furcht beraubt:
+Er wird ängstlich in der Ordnung der äußeren Dinge und,
+sich selbst unbekannt,
+weiß er,
+wie man an viele Dinge denkt,
+während er sich selbst nicht kennt\.
+Denn wenn er sich mehr als nötig mit äußeren Dingen beschäftigt,
+ist es,
+als ob er auf einer Reise so beschäftigt wäre,
+dass er vergisst,
+wohin er geht;
+sodass er,
+entfremdet von der Selbstprüfung,
+nicht einmal die Verluste in Betracht zieht,
+die er erleidet,
+oder weiß,
+wie groß sie sind\.
+Denn auch Hezekiah glaubte nicht,
+dass er sündigte,
+als er den Fremden,
+die zu ihm kamen,
+seine Vorratskammern mit Gewürzen zeigte;
+sondern er fiel unter den Zorn des Richters,
+zur Verdammnis seiner zukünftigen Nachkommen,
+aus dem,
+was er für rechtmäßig hielt\.
+Oft,
+wenn die Mittel reichlich vorhanden sind und viele Dinge getan werden können,
+um die Untergebenen zu bewundern,
+erhebt sich der Geist im Gedanken und provoziert sich selbst vollends den Zorn des Richters,
+obwohl er nicht in offenen Taten der Gottlosigkeit ausbricht\.
+Denn der Richter ist im Inneren;
+das,
+was beurteilt wird,
+ist im Inneren\.
+Wenn wir also im Herzen übertreten,
+bleibt das,
+was wir in uns selbst tun,
+den Menschen verborgen;
+doch in den Augen des Richters sündigen wir\.
+Denn auch der König von Babylon stand nicht erst dann schuldig der Überheblichkeit,
+als er Worte der Überheblichkeit aussprach,
+da er sogar zuvor,
+als er seine Überheblichkeit nicht ausgesprochen hatte,
+das Urteil der Verdammnis aus dem Mund des Propheten hörte\.
+Denn er hatte bereits die Schuld des Stolzes,
+dessen er schuldig gewesen war,
+abgewischt,
+als er allen Nationen unter ihm den allmächtigen Gott verkündete,
+gegen den er sich vergangen hatte\.
+Aber nachdem er durch den Erfolg seiner Herrschaft erhöht worden war und sich freute,
+Großes getan zu haben,
+stellte er sich zuerst in Gedanken über alle und sagte dann,
+noch eitel:
+„Ist das nicht das große Babylon,
+das ich für das Haus des Königreichs erbaut habe,
+in der Kraft meiner Macht und zur Ehre meiner Majestät?“[^bible-ee5065c6-0974-472b-b741-7de0e747c14c]
+Diese Äußerung von ihm fiel,
+wie wir sehen,
+offen unter die Vergeltung des Zorns,
+den seine verborgene Überheblichkeit entzündet hatte\.
+Denn der strenge Richter sieht zuerst unsichtbar,
+was er danach öffentlich tadelt,
+indem er es schlägt\.
+Daher verwandelte er ihn sogar in ein irrationales Tier,
+trennte ihn von der menschlichen Gesellschaft,
+veränderte seinen Geist und verband ihn mit den Tieren des Feldes,
+damit der,
+der sich über die Menschen groß geschätzt hatte,
+in offensichtlich strenger und gerechter Beurteilung sogar sein Dasein als Mensch verlieren sollte\.
+Wenn wir diese Dinge anführen,
+kritisieren wir nicht die Herrschaft,
+sondern bewahren die Schwäche des Herzens davor,
+sie zu begehren,
+damit niemand,
+der unvollkommen ist,
+es wagt,
+nach der höchsten Herrschaft zu greifen,
+oder diejenigen,
+die auf festem Boden stolpern,
+am Abgrund Fuß fassen\.
 
 ## Bibelverweise
 

@@ -7,6 +7,11 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-eitelkeit-und-den-richtigen-weg-fuer-eltern-ihre-kinder-zu-erziehen#kapitel-3a76e16a-4a9b-4eaf-b91d-08ddc88111a4).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7c7c83aad50811aaca5bfd6839339bc6f2f5830fc7d29483a44a1c4c1c449609`
-
-Ich spreche nicht von Kleinigkeiten, wir diskutieren über die Regierung der Welt\. Erziehe den Jungen auch dazu, wenn er einen jüngeren Bruder hat, ihm den Vortritt zu lassen oder, falls nicht, seinem Diener; denn auch dies erfordert eine philosophische Gesinnung\.
+Ich spreche nicht von Kleinigkeiten,
+wir diskutieren über die Regierung der Welt\.
+Erziehe den Jungen auch dazu,
+wenn er einen jüngeren Bruder hat,
+ihm den Vortritt zu lassen oder,
+falls nicht,
+seinem Diener;
+denn auch dies erfordert eine philosophische Gesinnung\.

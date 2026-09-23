@@ -7,9 +7,72 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-1#kapitel-141795b2-52a0-45ce-0a27-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:eaa0bcb1d720a51cf80f00db297e980a7eebadf22de6bed42715af5575f1d445`
-
-Wollten wir aber denen, die sich bekehrt haben, ihr früheres Leben vorwerfen, dann hätten wir Grund, auch Phaidon anzuklagen, selbst nachdem er Philosoph geworden war; denn wie berichtet wird, führte Sokrates ihn aus einem Haus von schlechtem Ruf fort und der Philosophie zu\. Ja, auch das zügellose Leben Polemons, des Nachfolgers des Xenokrates, würde man der Philosophie zum Vorwurf machen\. Doch gerade in solchen Fällen sollten wir es als rühmlich ansehen, dass die vernünftige Einsicht durch die Überzeugungskraft dieser Männer Menschen von der Ausübung jener Laster abbringen konnte, in deren Ausübung diese Menschen zuvor verstrickt gewesen waren\. Nun gab es unter den Griechen nur einen Phaidon, vielleicht noch einen zweiten, und einen Polemon, die sich nach einem zügellosen und äußerst schlechten Leben der Philosophie zuwandten\. Bei Jesus dagegen gab es nicht nur zu jener Zeit die zwölf Jünger, sondern zu allen Zeiten noch viele mehr\. Zu einer Gemeinschaft maßvoll lebender Menschen geworden, sprechen sie von ihrem früheren Leben so: „Denn auch wir waren einst dumm und ungehorsam, gingen in die Irre, dienten mancherlei Begierden und Vergnügungen, lebten in Bosheit und Neid, waren verhasst und hassten einander\. Als aber die Güte und Menschenliebe Gottes, unseres Retters, erschien, wurden wir durch das Bad der Wiedergeburt und die Erneuerung des Heiligen Geistes gerettet, den Gott reichlich über uns ausgegossen hat\.[^bible-6433f79f-c1af-491e-952b-0dfa2aa71a7d] “ So wurden wir zu dem, was wir sind\. Denn der Prophet lehrte im Buch der Psalme: „Gott sandte sein Wort und heilte sie und befreite sie aus ihrem Verderben\.[^bible-a41918fb-102d-4789-aa7f-619c83402a3d] “ Zu dem bereits Gesagten möchte ich noch Folgendes hinzufügen: Chrysipp versucht in seiner Schrift Über die Heilung der Leidenschaften, die Leidenschaften der menschlichen Seele zu zügeln\. Ohne den Anspruch zu erheben, darüber zu entscheiden, welche Auffassungen wahr sind, sagt er, man müsse diejenigen, die unter die Herrschaft der Leidenschaften geraten sind, nach den Grundsätzen der jeweiligen philosophischen Schule heilen\. Dann fährt er fort: „Wenn die Lust ein Ziel ist, müssen die Leidenschaften durch sie geheilt werden\. Und wenn es drei Arten höchster Güter gibt, müssen nach dieser Lehre auch diejenigen, die von den Leidenschaften beherrscht werden, auf dieselbe Weise davon befreit werden\.“ Die Gegner des Christentums dagegen sehen nicht, bei wie vielen Menschen das Evangelium die Leidenschaften gezügelt, die Flut der Bosheit aufgehalten und wilde Sitten gemildert hat\. Darum sollten gerade diejenigen, die sich ständig ihres Eifers für das Gemeinwohl rühmen, dieser Lehre öffentlich ihren Dank aussprechen, da sie die Menschen auf einem neuen Weg dazu gebracht hat, viele Laster aufzugeben\. Zumindest sollten sie ihr bezeugen, dass sie, selbst wenn sie nicht die Wahrheit wäre, der Menschheit jedenfalls Nutzen gebracht hat\.
+Wollten wir aber denen,
+die sich bekehrt haben,
+ihr früheres Leben vorwerfen,
+dann hätten wir Grund,
+auch Phaidon anzuklagen,
+selbst nachdem er Philosoph geworden war;
+denn wie berichtet wird,
+führte Sokrates ihn aus einem Haus von schlechtem Ruf fort und der Philosophie zu\.
+Ja,
+auch das zügellose Leben Polemons,
+des Nachfolgers des Xenokrates,
+würde man der Philosophie zum Vorwurf machen\.
+Doch gerade in solchen Fällen sollten wir es als rühmlich ansehen,
+dass die vernünftige Einsicht durch die Überzeugungskraft dieser Männer Menschen von der Ausübung jener Laster abbringen konnte,
+in deren Ausübung diese Menschen zuvor verstrickt gewesen waren\.
+Nun gab es unter den Griechen nur einen Phaidon,
+vielleicht noch einen zweiten,
+und einen Polemon,
+die sich nach einem zügellosen und äußerst schlechten Leben der Philosophie zuwandten\.
+Bei Jesus dagegen gab es nicht nur zu jener Zeit die zwölf Jünger,
+sondern zu allen Zeiten noch viele mehr\.
+Zu einer Gemeinschaft maßvoll lebender Menschen geworden,
+sprechen sie von ihrem früheren Leben so:
+„Denn auch wir waren einst dumm und ungehorsam,
+gingen in die Irre,
+dienten mancherlei Begierden und Vergnügungen,
+lebten in Bosheit und Neid,
+waren verhasst und hassten einander\.
+Als aber die Güte und Menschenliebe Gottes,
+unseres Retters,
+erschien,
+wurden wir durch das Bad der Wiedergeburt und die Erneuerung des Heiligen Geistes gerettet,
+den Gott reichlich über uns ausgegossen hat\.[^bible-6433f79f-c1af-491e-952b-0dfa2aa71a7d]
+“ So wurden wir zu dem,
+was wir sind\.
+Denn der Prophet lehrte im Buch der Psalme:
+„Gott sandte sein Wort und heilte sie und befreite sie aus ihrem Verderben\.[^bible-a41918fb-102d-4789-aa7f-619c83402a3d]
+“ Zu dem bereits Gesagten möchte ich noch Folgendes hinzufügen:
+Chrysipp versucht in seiner Schrift Über die Heilung der Leidenschaften,
+die Leidenschaften der menschlichen Seele zu zügeln\.
+Ohne den Anspruch zu erheben,
+darüber zu entscheiden,
+welche Auffassungen wahr sind,
+sagt er,
+man müsse diejenigen,
+die unter die Herrschaft der Leidenschaften geraten sind,
+nach den Grundsätzen der jeweiligen philosophischen Schule heilen\.
+Dann fährt er fort:
+„Wenn die Lust ein Ziel ist,
+müssen die Leidenschaften durch sie geheilt werden\.
+Und wenn es drei Arten höchster Güter gibt,
+müssen nach dieser Lehre auch diejenigen,
+die von den Leidenschaften beherrscht werden,
+auf dieselbe Weise davon befreit werden\.“
+Die Gegner des Christentums dagegen sehen nicht,
+bei wie vielen Menschen das Evangelium die Leidenschaften gezügelt,
+die Flut der Bosheit aufgehalten und wilde Sitten gemildert hat\.
+Darum sollten gerade diejenigen,
+die sich ständig ihres Eifers für das Gemeinwohl rühmen,
+dieser Lehre öffentlich ihren Dank aussprechen,
+da sie die Menschen auf einem neuen Weg dazu gebracht hat,
+viele Laster aufzugeben\.
+Zumindest sollten sie ihr bezeugen,
+dass sie,
+selbst wenn sie nicht die Wahrheit wäre,
+der Menschheit jedenfalls Nutzen gebracht hat\.
 
 ## Bibelverweise
 

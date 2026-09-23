@@ -7,6 +7,19 @@ Autor: Rufinus von Aquila
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-6#kapitel-5b93891f-fcb4-4dda-2b08-08de1f7dfc7a).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:bdb1514454750ebd27abdf89529806f340c6f7325d055a4c38ae724ae89c0c5e`
-
-Man muss sich also klarmachen, dass einer dieser Übersetzer, Symmachus, ein Ebionit war, ein Angehöriger jener Häresie, die behauptet, Christus sei aus Josef und Maria als bloßer Mensch geboren, und das Gesetz sei nach jüdischer Weise einzuhalten, wie wir schon früher erwähnt haben\. Symmachus verfasste außerdem einige Traktate, in denen er versucht, die Geltung seiner Häresie aus dem Evangelium nach Matthäus zu belegen\. Origenes schreibt, er habe diese Stücke zusammen mit der Übersetzung des Symmachus im Besitz einer gewissen Juliana vorgefunden; sie erklärte, sie habe diese Bücher von Symmachus selbst empfangen\.
+Man muss sich also klarmachen,
+dass einer dieser Übersetzer,
+Symmachus,
+ein Ebionit war,
+ein Angehöriger jener Häresie,
+die behauptet,
+Christus sei aus Josef und Maria als bloßer Mensch geboren,
+und das Gesetz sei nach jüdischer Weise einzuhalten,
+wie wir schon früher erwähnt haben\.
+Symmachus verfasste außerdem einige Traktate,
+in denen er versucht,
+die Geltung seiner Häresie aus dem Evangelium nach Matthäus zu belegen\.
+Origenes schreibt,
+er habe diese Stücke zusammen mit der Übersetzung des Symmachus im Besitz einer gewissen Juliana vorgefunden;
+sie erklärte,
+sie habe diese Bücher von Symmachus selbst empfangen\.

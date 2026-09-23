@@ -7,13 +7,253 @@ Autor: Ephräm der Syrer
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ephraem-der-syrer/15-hymnen-zum-fest-der-epiphanie#kapitel-7444fa9f-8b9e-44bb-d655-08df143d42f6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:adacc09a90b2accde4425dd5540c1667286ba424a3a49e67675bd70f4e9c7b41`
+Selig seid ihr,
+deren Leiber zum Leuchten gebracht wurden\!
+Gott beugte sich in seinem Erbarmen nieder und kam herab,
+um seine Barmherzigkeit mit dem Wasser zu vermischen und das Wesen seiner Majestät mit den elenden Leibern der Menschen zu vermengen\.
+Durch das Wasser schuf er sich eine Gelegenheit,
+herabzukommen und in uns zu wohnen,
+so wie damals,
+als er aus Erbarmen herabkam und im Mutterschoß wohnte\.
+O das Erbarmen Gottes,
+der jede Gelegenheit sucht,
+in uns zu wohnen\!
+Zur Höhle am Horeb beugte er sich nieder und kam herab;
+auf Mose ließ er seine Majestät ruhen\.
+Sterblichen schenkte er seinen herrlichen Glanz\.[^bible-cf6974fb-d631-4d8b-a00d-bf223957e46f]
+Darin lag ein Bild der Taufe:
+Er,
+der herabkam und darin wohnte,
+mildert im Wasser die Macht seiner Majestät,
+damit er in den Schwachen wohnen kann\.
+Auf Mose ruhte der Hauch,
+auf euch aber die Vollendung durch Christus\.
+Diese Macht konnte damals niemand ertragen,
+weder Mose,
+das Haupt der Befreier,
+noch Elija,
+das Haupt der Eiferer\.
+Auch die Serafim verhüllen ihr Gesicht[^bible-dcaaba0f-1650-4e34-b47d-2a9ed0ed2f17],
+denn es ist die Macht,
+die alles bezwingt\.
+Sein Erbarmen mischte im Wasser und durch das Öl Milde bei,
+damit die Menschen in ihrer Schwäche vor ihm bestehen können,
+wenn Wasser und Öl sie bedecken\.
+Wiederum versteckten und verbargen die gefangenen Priester das Feuer des Heiligtums in einem Brunnen[^bible-8657a79a-e21e-4444-a8e7-97370814e508]:
+ein Geheimnisbild jenes verherrlichten Feuers,
+das der Hohepriester in die Taufe mischt\.
+Die Priester schöpften von dem Schlamm und besprengten damit den Altar;
+denn sein Feuer,
+das Feuer jenes Brunnens,
+hatte sich mit dem Schlamm vermischt[^bible-3eee9f9e-f6fc-4d77-8a30-b152905aad98]:
+ein Geheimnisbild unserer Leiber,
+die im Wasser mit dem Feuer des Heiligen Geistes vermischt wurden\.
+Die berühmten Drei in Babylon wurden im Feuerofen getauft und kamen wieder heraus;
+sie gingen hinein und badeten in der Flammenflut,
+und lodernde Wogen schlugen auf sie ein\.[^bible-84d3a270-15e1-4226-a7d1-4e65399b56e6]
+Dort wurden sie mit dem Tau besprengt,
+der vom Himmel fiel\.[^bible-bade8205-4db0-4921-9e6e-974e95d33ff4]
+Dort löste er ihnen die Fesseln des irdischen Königs\.[^bible-efe161f9-2f60-4a7d-a748-def1f1cf8b10]
+Seht,
+die berühmten Drei gingen hinein und fanden einen Vierten im Ofen\.[^bible-efe161f9-2f60-4a7d-a748-def1f1cf8b10]
+Jenes sichtbare Feuer,
+das äußerlich triumphierte,
+wies auf das Feuer des Heiligen Geistes hin,
+das,
+seht,
+mit dem Wasser vermischt und darin verborgen ist\.
+In der Flamme,
+in jener Glut des Ofens,
+zeigt sich ein Bild der Taufe\.
+Kommt,
+tretet ein und lasst euch taufen,
+meine Brüder,
+denn seht,
+die Taufe löst die Fesseln;
+denn in ihr wohnt im Verborgenen der Mittler Gottes,
+der im Ofen der Vierte war\.[^bible-efe161f9-2f60-4a7d-a748-def1f1cf8b10]
+Wiederum sprach unser Herr zwei Worte,
+die einstimmig zusammenklingen\.
+Er sagte:
+„Ich bin gekommen,
+um Feuer zu senden\.[^bible-2b8611ba-31c6-44fc-a624-be47296c185f]
+“ Und weiter:
+„Ich muss mit einer Taufe getauft werden\.[^bible-d57506f7-6fd2-4eda-b516-3a8dcc447c52]
+“ Durch das Feuer der Taufe wird jenes Feuer gelöscht,
+das der Böse entzündet hatte\.
+Und das Wasser der Taufe hat jene Wasser des Streites überwunden,
+mit denen er Josef auf die Probe gestellt hatte[^bible-d9e0e0a1-5c95-4643-978f-e12f4eee74a9],
+der siegte und gekrönt wurde\.
+Seht\!
 
-Selig seid ihr, deren Leiber zum Leuchten gebracht wurden\! Gott beugte sich in seinem Erbarmen nieder und kam herab, um seine Barmherzigkeit mit dem Wasser zu vermischen und das Wesen seiner Majestät mit den elenden Leibern der Menschen zu vermengen\. Durch das Wasser schuf er sich eine Gelegenheit, herabzukommen und in uns zu wohnen, so wie damals, als er aus Erbarmen herabkam und im Mutterschoß wohnte\. O das Erbarmen Gottes, der jede Gelegenheit sucht, in uns zu wohnen\! Zur Höhle am Horeb beugte er sich nieder und kam herab; auf Mose ließ er seine Majestät ruhen\. Sterblichen schenkte er seinen herrlichen Glanz\.[^bible-cf6974fb-d631-4d8b-a00d-bf223957e46f] Darin lag ein Bild der Taufe: Er, der herabkam und darin wohnte, mildert im Wasser die Macht seiner Majestät, damit er in den Schwachen wohnen kann\. Auf Mose ruhte der Hauch, auf euch aber die Vollendung durch Christus\. Diese Macht konnte damals niemand ertragen, weder Mose, das Haupt der Befreier, noch Elija, das Haupt der Eiferer\. Auch die Serafim verhüllen ihr Gesicht[^bible-dcaaba0f-1650-4e34-b47d-2a9ed0ed2f17], denn es ist die Macht, die alles bezwingt\. Sein Erbarmen mischte im Wasser und durch das Öl Milde bei, damit die Menschen in ihrer Schwäche vor ihm bestehen können, wenn Wasser und Öl sie bedecken\. Wiederum versteckten und verbargen die gefangenen Priester das Feuer des Heiligtums in einem Brunnen[^bible-8657a79a-e21e-4444-a8e7-97370814e508]: ein Geheimnisbild jenes verherrlichten Feuers, das der Hohepriester in die Taufe mischt\. Die Priester schöpften von dem Schlamm und besprengten damit den Altar; denn sein Feuer, das Feuer jenes Brunnens, hatte sich mit dem Schlamm vermischt[^bible-3eee9f9e-f6fc-4d77-8a30-b152905aad98]: ein Geheimnisbild unserer Leiber, die im Wasser mit dem Feuer des Heiligen Geistes vermischt wurden\. Die berühmten Drei in Babylon wurden im Feuerofen getauft und kamen wieder heraus; sie gingen hinein und badeten in der Flammenflut, und lodernde Wogen schlugen auf sie ein\.[^bible-84d3a270-15e1-4226-a7d1-4e65399b56e6] Dort wurden sie mit dem Tau besprengt, der vom Himmel fiel\.[^bible-bade8205-4db0-4921-9e6e-974e95d33ff4] Dort löste er ihnen die Fesseln des irdischen Königs\.[^bible-efe161f9-2f60-4a7d-a748-def1f1cf8b10] Seht, die berühmten Drei gingen hinein und fanden einen Vierten im Ofen\.[^bible-efe161f9-2f60-4a7d-a748-def1f1cf8b10] Jenes sichtbare Feuer, das äußerlich triumphierte, wies auf das Feuer des Heiligen Geistes hin, das, seht, mit dem Wasser vermischt und darin verborgen ist\. In der Flamme, in jener Glut des Ofens, zeigt sich ein Bild der Taufe\. Kommt, tretet ein und lasst euch taufen, meine Brüder, denn seht, die Taufe löst die Fesseln; denn in ihr wohnt im Verborgenen der Mittler Gottes, der im Ofen der Vierte war\.[^bible-efe161f9-2f60-4a7d-a748-def1f1cf8b10] Wiederum sprach unser Herr zwei Worte, die einstimmig zusammenklingen\. Er sagte: „Ich bin gekommen, um Feuer zu senden\.[^bible-2b8611ba-31c6-44fc-a624-be47296c185f] “ Und weiter: „Ich muss mit einer Taufe getauft werden\.[^bible-d57506f7-6fd2-4eda-b516-3a8dcc447c52] “ Durch das Feuer der Taufe wird jenes Feuer gelöscht, das der Böse entzündet hatte\. Und das Wasser der Taufe hat jene Wasser des Streites überwunden, mit denen er Josef auf die Probe gestellt hatte[^bible-d9e0e0a1-5c95-4643-978f-e12f4eee74a9], der siegte und gekrönt wurde\. Seht\!
+Das reine Feuer unseres Erlösers,
+das er in seinem Erbarmen unter den Menschen entzündet hat[^bible-75f40e5f-8f85-4d1b-95e1-6d24e9f283ca]\!
+Durch sein Feuer löschte er jenes Feuer,
+das in den Befleckten und Sündigen entfacht worden war\.
+Dies ist das Feuer,
+in dem Dornen und Unkraut verbrennen[^bible-e350717c-5c39-4847-97ef-7954427eef03]\.
+Glücklich aber sind eure Körper,
+die im Feuer getauft wurden[^bible-fbec705b-5468-4055-b68c-21717fc240b9]\!
+Es hat euer Gestrüpp verzehrt,
+und durch dieses Feuer ist eure Saat zum Himmel emporgesprossen\!
+Jeremia hat er im Mutterleib geheiligt[^bible-1b0f03c0-ae22-43d5-884c-11e33339c3f6] und gelehrt\.
+Wenn aber schon der niedrige Schoß der Ehe dadurch geheiligt wurde,
+dass er ihn empfing und gebar,
+wie viel mehr wird dann die Taufe heiligen,
+was in ihr geschieht:
+die Empfängnis und Geburt reiner,
+geistlicher Menschen\!
+Denn dort,
+im Mutterleib,
+werden alle Menschen empfangen;
+hier aber,
+aus dem Wasser,
+werden diejenigen geboren,
+die als geistliche Menschen dieser Geburt würdig sind\.
+Denn obwohl Jeremia im Mutterleib geheiligt worden war[^bible-1b0f03c0-ae22-43d5-884c-11e33339c3f6],
+nahmen sie Nägel und warfen ihn in die Grube[^bible-c565b2f0-4cc7-4fe8-a263-e082e567901d]\.
+Heilig war der Prophet trotz seiner Befleckung,
+denn rein war sein Herz,
+obwohl er im Schlamm lag[^bible-c565b2f0-4cc7-4fe8-a263-e082e567901d]\.
+Fürchtet euch,
+meine Brüder,
+denn seht:
+Heute werden eure verborgene Befleckung und der Gräuel eurer Sünden abgewaschen\.
+Kehrt nicht zur Unreinheit zurück,
+denn es gibt nur eine Reinigung eurer Körper\!
+Der Vermessene,
+der sich taufen lässt und dann wieder sündigt,
+gleicht der Schlange,
+die ihre Haut abstreift und wieder anzieht,
+die sich erneuert und verjüngt und dann umkehrt und ihre alte Haut wieder anzieht\.
+Denn die Schlange legt ihre Natur nicht ab\.
+Legt den Versucher ab,
+den Verderber der Seelen,
+den alten Menschen[^bible-ae7b6324-9618-481f-9048-a2e4b507df75];
+lasst ihn das Neue,
+das ihr angezogen habt[^bible-e0aa3b8d-788d-4973-afb5-b38cc7ad045a],
+nicht alt machen\!
+Elisa warf das Holz ins Wasser und ließ das Schwere schwimmen und das Leichte sinken[^bible-41ddb15c-d61f-4567-b14e-96463d7e9480]:
+Im Wasser nahm jedes die Natur des anderen an\.
+Dort geschah etwas Neues,
+das nicht der Natur entsprach\.
+Wie viel leichter ist es dann,
+Herr,
+für deine Gnade,
+die schwere Übertretung im Wasser versinken zu lassen,
+die leichte Seele aber herauszuziehen und in die Höhe zu heben\!
+Jesus,
+der Sohn Nuns,
+belegte die Mauern Jerichos mit einem Fluch und verurteilte seine Quellen zum Untergang[^bible-a21c8279-5760-4a6a-820a-60a922c4ab2b]\.
+Die Quellen,
+die Jesus zum Untergang verflucht hatte[^bible-a21c8279-5760-4a6a-820a-60a922c4ab2b],
+wurden im Geheimnis Jesu wieder gesegnet\.
+Salz wurde hineingeworfen,
+und sie wurden geheilt und süß[^bible-535087df-2462-4177-b73b-5956e454e7f8]:
+ein geheimnisvolles Zeichen dieses Salzes,
+des süßen Salzes,
+das von Maria kam und dem Wasser beigemischt wurde,
+wodurch das Übel unserer Plagen geheilt wurde\.
+Seht,
+stille Wasser liegen vor euch,
+heilig,
+ruhig und wohltuend\.
+Denn es sind nicht die Wasser des Streites,
+die Josef ins Gefängnis brachten[^bible-a2965130-c936-4f5a-86ba-3694719a65fc],
+und auch nicht jene Wasser des Streites,
+an denen das Volk in der Wüste stritt und widersprach[^bible-cd6409de-b873-4e38-a327-eebd90e12bbe]\.
+Hier sind Wasser,
+durch die Versöhnung mit dem Himmel geschieht\.
+Hagar sah die Wasserquelle und gab daraus ihrem ungestümen Sohn zu trinken[^bible-8b61cdd4-4cc6-4b2f-8c5c-e889e248010b],
+ihm,
+der wie ein Wildesel in der Wüste wurde[^bible-8d42c9b4-4178-4ab0-97e4-edea9298ae40]\.
+An die Stelle jener Wasserquelle tritt die Taufe\.
+In ihr werden die Söhne Hagars getauft und werden sanft und friedlich\.
+Wer hat je solche Widder gesehen,
+die,
+seht,
+ins Joch gespannt mit zahmen Rindern arbeiten und deren Saat hundertfache Ernte bringt[^bible-850484f3-268b-4114-89d5-8895b2e9df12]?
 
-Das reine Feuer unseres Erlösers, das er in seinem Erbarmen unter den Menschen entzündet hat[^bible-75f40e5f-8f85-4d1b-95e1-6d24e9f283ca]\! Durch sein Feuer löschte er jenes Feuer, das in den Befleckten und Sündigen entfacht worden war\. Dies ist das Feuer, in dem Dornen und Unkraut verbrennen[^bible-e350717c-5c39-4847-97ef-7954427eef03]\. Glücklich aber sind eure Körper, die im Feuer getauft wurden[^bible-fbec705b-5468-4055-b68c-21717fc240b9]\! Es hat euer Gestrüpp verzehrt, und durch dieses Feuer ist eure Saat zum Himmel emporgesprossen\! Jeremia hat er im Mutterleib geheiligt[^bible-1b0f03c0-ae22-43d5-884c-11e33339c3f6] und gelehrt\. Wenn aber schon der niedrige Schoß der Ehe dadurch geheiligt wurde, dass er ihn empfing und gebar, wie viel mehr wird dann die Taufe heiligen, was in ihr geschieht: die Empfängnis und Geburt reiner, geistlicher Menschen\! Denn dort, im Mutterleib, werden alle Menschen empfangen; hier aber, aus dem Wasser, werden diejenigen geboren, die als geistliche Menschen dieser Geburt würdig sind\. Denn obwohl Jeremia im Mutterleib geheiligt worden war[^bible-1b0f03c0-ae22-43d5-884c-11e33339c3f6], nahmen sie Nägel und warfen ihn in die Grube[^bible-c565b2f0-4cc7-4fe8-a263-e082e567901d]\. Heilig war der Prophet trotz seiner Befleckung, denn rein war sein Herz, obwohl er im Schlamm lag[^bible-c565b2f0-4cc7-4fe8-a263-e082e567901d]\. Fürchtet euch, meine Brüder, denn seht: Heute werden eure verborgene Befleckung und der Gräuel eurer Sünden abgewaschen\. Kehrt nicht zur Unreinheit zurück, denn es gibt nur eine Reinigung eurer Körper\! Der Vermessene, der sich taufen lässt und dann wieder sündigt, gleicht der Schlange, die ihre Haut abstreift und wieder anzieht, die sich erneuert und verjüngt und dann umkehrt und ihre alte Haut wieder anzieht\. Denn die Schlange legt ihre Natur nicht ab\. Legt den Versucher ab, den Verderber der Seelen, den alten Menschen[^bible-ae7b6324-9618-481f-9048-a2e4b507df75]; lasst ihn das Neue, das ihr angezogen habt[^bible-e0aa3b8d-788d-4973-afb5-b38cc7ad045a], nicht alt machen\! Elisa warf das Holz ins Wasser und ließ das Schwere schwimmen und das Leichte sinken[^bible-41ddb15c-d61f-4567-b14e-96463d7e9480]: Im Wasser nahm jedes die Natur des anderen an\. Dort geschah etwas Neues, das nicht der Natur entsprach\. Wie viel leichter ist es dann, Herr, für deine Gnade, die schwere Übertretung im Wasser versinken zu lassen, die leichte Seele aber herauszuziehen und in die Höhe zu heben\! Jesus, der Sohn Nuns, belegte die Mauern Jerichos mit einem Fluch und verurteilte seine Quellen zum Untergang[^bible-a21c8279-5760-4a6a-820a-60a922c4ab2b]\. Die Quellen, die Jesus zum Untergang verflucht hatte[^bible-a21c8279-5760-4a6a-820a-60a922c4ab2b], wurden im Geheimnis Jesu wieder gesegnet\. Salz wurde hineingeworfen, und sie wurden geheilt und süß[^bible-535087df-2462-4177-b73b-5956e454e7f8]: ein geheimnisvolles Zeichen dieses Salzes, des süßen Salzes, das von Maria kam und dem Wasser beigemischt wurde, wodurch das Übel unserer Plagen geheilt wurde\. Seht, stille Wasser liegen vor euch, heilig, ruhig und wohltuend\. Denn es sind nicht die Wasser des Streites, die Josef ins Gefängnis brachten[^bible-a2965130-c936-4f5a-86ba-3694719a65fc], und auch nicht jene Wasser des Streites, an denen das Volk in der Wüste stritt und widersprach[^bible-cd6409de-b873-4e38-a327-eebd90e12bbe]\. Hier sind Wasser, durch die Versöhnung mit dem Himmel geschieht\. Hagar sah die Wasserquelle und gab daraus ihrem ungestümen Sohn zu trinken[^bible-8b61cdd4-4cc6-4b2f-8c5c-e889e248010b], ihm, der wie ein Wildesel in der Wüste wurde[^bible-8d42c9b4-4178-4ab0-97e4-edea9298ae40]\. An die Stelle jener Wasserquelle tritt die Taufe\. In ihr werden die Söhne Hagars getauft und werden sanft und friedlich\. Wer hat je solche Widder gesehen, die, seht, ins Joch gespannt mit zahmen Rindern arbeiten und deren Saat hundertfache Ernte bringt[^bible-850484f3-268b-4114-89d5-8895b2e9df12]?
-
-Am Anfang schwebte der Geist brütend über den Wassern[^bible-ec4ef64c-0d00-422e-97e3-4aa67f6cb808]; sie empfingen und brachten Schlangen, Fische und Vögel hervor[^bible-0fb740d4-42bf-4c48-b51f-2b1c2befdd3d]\. Der Heilige Geist hat in der Taufe gebrütet und im Geheimnis Adler hervorgebracht, Jungfrauen und Prälaten; im Geheimnis hat er Fische hervorgebracht, Eheloslebende und Fürbitter\. Und im geheimnisvollen Bild der Schlangen sind, seht, die Listigen arglos wie Tauben geworden[^bible-b6de418a-06c3-4242-8d54-97b58977c3bf]\! Seht, das Schwert unseres Herrn[^bible-d0df44fd-1a94-4ac3-bb92-316f40e85638] in den Wassern, das Söhne und Väter trennt[^bible-9fea2bf5-68a7-420c-ad2a-54ee978943c6]\! Denn es ist das lebendige Schwert, das, seht, die Lebenden von den Sterbenden trennt\. Seht, sie werden getauft und werden zu Jungfrauen und Heiligen, sie, die hinabgestiegen sind, getauft wurden und den Einziggeborenen angezogen haben[^bible-44de94f9-f237-4848-9312-d27d19381832]\. Seht, viele sind mutig zu ihm gekommen\! Denn wer getauft ist und ihn angezogen hat[^bible-44de94f9-f237-4848-9312-d27d19381832], den Einziggeborenen, den Herrn der vielen, der nimmt dadurch den Platz vieler ein; denn Christus ist ihm zu einem großen Schatz geworden\. Denn in der Wüste wurde er zu einer Tafel voll guter Speisen[^bible-4a37630f-1060-4714-b083-dc9225d49fa9], und beim Hochzeitsmahl wurde er zu einer Quelle erlesener Weine[^bible-75abf986-b542-447d-b6ce-d3a90a33d91b]\. Das ist er allen in allem geworden, durch Hilfe, Heilungen und Verheißungen\. Elisa war den Wächtern gleich in seinen herrlichen und heiligen Taten\. Das Lager der Wächter umgab ihn[^bible-9c394c50-c70e-4170-af8c-59613df2fe5e]; so soll auch die Taufe für euch ein Lager von Beschützern sein\. Denn durch sie wohnt im Herzen die Hoffnung derer, die unten sind, und der Herr derer, die oben sind\. Heiligt ihm eure Leiber, denn wo er wohnt, kommt das Verderben nicht nahe\. Dies sind nicht mehr die Wasser jenes Meeres, das mit seinen Wogen das Volk bewahrte und mit seinen Wogen die Völker niederwarf[^bible-a3209bb2-7511-4d9e-b2a8-20fab2c22770]\. Die Wasser der Taufe wirken umgekehrt: In ihnen haben, seht, die Völker Leben; in ihnen geht, seht, das Volk zugrunde\. Denn alle, die nicht in den Wassern getauft sind, die allen Leben geben, sind tot, auch wenn man es nicht sieht\. Dies sind nicht mehr die Wasser jenes Meeres, die stürmisch gegen Jona aufwallten und den Sohn Amittais in die Tiefe stürzten[^bible-d7822cc4-0582-4bae-939e-24f0bb2c9d72]\. Obwohl er floh, wurde er im Gefängnis gefesselt[^bible-d261c0f2-5b00-4e28-b975-2da580324bf6]\. Gott warf ihn hinein und fesselte ihn in einem Kerker im Kerker; denn er fesselte ihn im Meer, und er fesselte ihn im Fisch[^bible-1baefeb6-c971-472e-98f4-e4b4f53757a4]\. Die Gnade bürgte für ihn; sie öffnete das Gefängnis und führte den Prediger heraus[^bible-e6a97250-f6a7-40af-a7fc-c966e1a69941]\. Die Propheten haben den Höchsten ein Feuer genannt, „ein verzehrendes Feuer[^bible-6d6761d4-76e7-4091-aea8-4606c1ff52cc] “, und gefragt: „Wer kann bei ihm wohnen?[^bible-823832bf-79af-4dde-a8e0-966ae9435c99] “ Das Volk konnte nicht in diesem Feuer wohnen; seine Macht zerschmetterte die Völker, und sie gerieten in Verwirrung\. In diesem Feuer seid ihr mit dem Salböl gesalbt worden; im Wasser habt ihr ihn angezogen[^bible-44de94f9-f237-4848-9312-d27d19381832]; im Brot habt ihr ihn gegessen; im Wein habt ihr ihn getrunken; in der Stimme habt ihr ihn gehört; und mit dem Auge des Geistes habt ihr ihn gesehen\!
+Am Anfang schwebte der Geist brütend über den Wassern[^bible-ec4ef64c-0d00-422e-97e3-4aa67f6cb808];
+sie empfingen und brachten Schlangen,
+Fische und Vögel hervor[^bible-0fb740d4-42bf-4c48-b51f-2b1c2befdd3d]\.
+Der Heilige Geist hat in der Taufe gebrütet und im Geheimnis Adler hervorgebracht,
+Jungfrauen und Prälaten;
+im Geheimnis hat er Fische hervorgebracht,
+Eheloslebende und Fürbitter\.
+Und im geheimnisvollen Bild der Schlangen sind,
+seht,
+die Listigen arglos wie Tauben geworden[^bible-b6de418a-06c3-4242-8d54-97b58977c3bf]\!
+Seht,
+das Schwert unseres Herrn[^bible-d0df44fd-1a94-4ac3-bb92-316f40e85638] in den Wassern,
+das Söhne und Väter trennt[^bible-9fea2bf5-68a7-420c-ad2a-54ee978943c6]\!
+Denn es ist das lebendige Schwert,
+das,
+seht,
+die Lebenden von den Sterbenden trennt\.
+Seht,
+sie werden getauft und werden zu Jungfrauen und Heiligen,
+sie,
+die hinabgestiegen sind,
+getauft wurden und den Einziggeborenen angezogen haben[^bible-44de94f9-f237-4848-9312-d27d19381832]\.
+Seht,
+viele sind mutig zu ihm gekommen\!
+Denn wer getauft ist und ihn angezogen hat[^bible-44de94f9-f237-4848-9312-d27d19381832],
+den Einziggeborenen,
+den Herrn der vielen,
+der nimmt dadurch den Platz vieler ein;
+denn Christus ist ihm zu einem großen Schatz geworden\.
+Denn in der Wüste wurde er zu einer Tafel voll guter Speisen[^bible-4a37630f-1060-4714-b083-dc9225d49fa9],
+und beim Hochzeitsmahl wurde er zu einer Quelle erlesener Weine[^bible-75abf986-b542-447d-b6ce-d3a90a33d91b]\.
+Das ist er allen in allem geworden,
+durch Hilfe,
+Heilungen und Verheißungen\.
+Elisa war den Wächtern gleich in seinen herrlichen und heiligen Taten\.
+Das Lager der Wächter umgab ihn[^bible-9c394c50-c70e-4170-af8c-59613df2fe5e];
+so soll auch die Taufe für euch ein Lager von Beschützern sein\.
+Denn durch sie wohnt im Herzen die Hoffnung derer,
+die unten sind,
+und der Herr derer,
+die oben sind\.
+Heiligt ihm eure Leiber,
+denn wo er wohnt,
+kommt das Verderben nicht nahe\.
+Dies sind nicht mehr die Wasser jenes Meeres,
+das mit seinen Wogen das Volk bewahrte und mit seinen Wogen die Völker niederwarf[^bible-a3209bb2-7511-4d9e-b2a8-20fab2c22770]\.
+Die Wasser der Taufe wirken umgekehrt:
+In ihnen haben,
+seht,
+die Völker Leben;
+in ihnen geht,
+seht,
+das Volk zugrunde\.
+Denn alle,
+die nicht in den Wassern getauft sind,
+die allen Leben geben,
+sind tot,
+auch wenn man es nicht sieht\.
+Dies sind nicht mehr die Wasser jenes Meeres,
+die stürmisch gegen Jona aufwallten und den Sohn Amittais in die Tiefe stürzten[^bible-d7822cc4-0582-4bae-939e-24f0bb2c9d72]\.
+Obwohl er floh,
+wurde er im Gefängnis gefesselt[^bible-d261c0f2-5b00-4e28-b975-2da580324bf6]\.
+Gott warf ihn hinein und fesselte ihn in einem Kerker im Kerker;
+denn er fesselte ihn im Meer,
+und er fesselte ihn im Fisch[^bible-1baefeb6-c971-472e-98f4-e4b4f53757a4]\.
+Die Gnade bürgte für ihn;
+sie öffnete das Gefängnis und führte den Prediger heraus[^bible-e6a97250-f6a7-40af-a7fc-c966e1a69941]\.
+Die Propheten haben den Höchsten ein Feuer genannt,
+„ein verzehrendes Feuer[^bible-6d6761d4-76e7-4091-aea8-4606c1ff52cc] “,
+und gefragt:
+„Wer kann bei ihm wohnen?[^bible-823832bf-79af-4dde-a8e0-966ae9435c99]
+“ Das Volk konnte nicht in diesem Feuer wohnen;
+seine Macht zerschmetterte die Völker,
+und sie gerieten in Verwirrung\.
+In diesem Feuer seid ihr mit dem Salböl gesalbt worden;
+im Wasser habt ihr ihn angezogen[^bible-44de94f9-f237-4848-9312-d27d19381832];
+im Brot habt ihr ihn gegessen;
+im Wein habt ihr ihn getrunken;
+in der Stimme habt ihr ihn gehört;
+und mit dem Auge des Geistes habt ihr ihn gesehen\!
 
 ## Bibelverweise
 

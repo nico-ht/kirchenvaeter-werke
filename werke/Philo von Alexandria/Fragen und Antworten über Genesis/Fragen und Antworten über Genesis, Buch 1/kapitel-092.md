@@ -7,6 +7,34 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-1#kapitel-a04e7d18-86d9-4e71-cd76-08dd5e2b9946).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:f374bcbb643705500deee0d89f685814c516b8546ecdad239ea86c96b1ab7f5e`
-
-Nach welchem Grundsatz wurden die Riesen von Engeln und Frauen geboren? Die Dichter nennen jene Männer, die aus der Erde geboren wurden, Riesen, das heißt Söhne der Erde\. Mose verwendet diese Bezeichnung hier jedoch uneigentlich, und er gebraucht sie auch sonst sehr oft nur, um die gewaltige Körpergröße hervorragender Männer zu bezeichnen, wie die des Hajk oder des Herkules\. Er berichtet aber, dass diese Riesen aus einer gemeinsamen Zeugung zweier Naturen hervorgingen, nämlich aus Engeln und sterblichen Frauen\. Denn die Substanz der Engel ist geistlich; doch kommt es von Zeit zu Zeit vor, dass sie bei eintretenden Notlagen das Aussehen von Menschen nachahmen und sich verwandeln, um menschliche Gestalt anzunehmen, wie sie es auch bei dieser Gelegenheit taten, als sie Verbindungen mit Frauen eingingen, um Riesen hervorzubringen\. Wenn aber die Kinder als Nachahmer der Bosheit ihrer Mütter hervorgehen und von der Tugend ihrer Väter abweichen, dann sollen sie gemäß der Willensentscheidung eines verdorbenen Geschlechts und wegen ihrer hochmütigen Verachtung der höchsten Gottheit abfallen und so als schuldig an freiwilliger und vorsätzlicher Bosheit verurteilt werden\. Manchmal bezeichnet Mose die Engel als Söhne Gottes, insofern sie nicht von einem Sterblichen hervorgebracht wurden, sondern unkörperlich sind, da sie Geister ohne jeden Körper sind; oder vielmehr nennt jener Mahner und Lehrer der Tugend, nämlich Mose, die Männer, die sehr ausgezeichnet und mit großer Tugend begabt sind, Söhne Gottes, die bösen und verdorbenen Männer aber nennt er Körper oder Fleisch\.
+Nach welchem Grundsatz wurden die Riesen von Engeln und Frauen geboren?
+Die Dichter nennen jene Männer,
+die aus der Erde geboren wurden,
+Riesen,
+das heißt Söhne der Erde\.
+Mose verwendet diese Bezeichnung hier jedoch uneigentlich,
+und er gebraucht sie auch sonst sehr oft nur,
+um die gewaltige Körpergröße hervorragender Männer zu bezeichnen,
+wie die des Hajk oder des Herkules\.
+Er berichtet aber,
+dass diese Riesen aus einer gemeinsamen Zeugung zweier Naturen hervorgingen,
+nämlich aus Engeln und sterblichen Frauen\.
+Denn die Substanz der Engel ist geistlich;
+doch kommt es von Zeit zu Zeit vor,
+dass sie bei eintretenden Notlagen das Aussehen von Menschen nachahmen und sich verwandeln,
+um menschliche Gestalt anzunehmen,
+wie sie es auch bei dieser Gelegenheit taten,
+als sie Verbindungen mit Frauen eingingen,
+um Riesen hervorzubringen\.
+Wenn aber die Kinder als Nachahmer der Bosheit ihrer Mütter hervorgehen und von der Tugend ihrer Väter abweichen,
+dann sollen sie gemäß der Willensentscheidung eines verdorbenen Geschlechts und wegen ihrer hochmütigen Verachtung der höchsten Gottheit abfallen und so als schuldig an freiwilliger und vorsätzlicher Bosheit verurteilt werden\.
+Manchmal bezeichnet Mose die Engel als Söhne Gottes,
+insofern sie nicht von einem Sterblichen hervorgebracht wurden,
+sondern unkörperlich sind,
+da sie Geister ohne jeden Körper sind;
+oder vielmehr nennt jener Mahner und Lehrer der Tugend,
+nämlich Mose,
+die Männer,
+die sehr ausgezeichnet und mit großer Tugend begabt sind,
+Söhne Gottes,
+die bösen und verdorbenen Männer aber nennt er Körper oder Fleisch\.

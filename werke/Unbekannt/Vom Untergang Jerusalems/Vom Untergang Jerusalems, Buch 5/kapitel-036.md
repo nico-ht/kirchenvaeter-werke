@@ -7,6 +7,52 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-5#kapitel-8d32b635-47ae-4493-27a3-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:1bc6c20641203996d0123fca660f6daa63fdc8ece3dcf5ac5cf63c5723e4cc3d`
-
-Während sie diese Kämpfe sieben Tage lang untereinander führten, wurde alles bis auf die Grundmauern niedergerissen, was Herodes durch eine Festung verstärkt hatte, die den Namen Antonia trug\. Dadurch wurde die Straße zum Tempel verbreitert, sodass nicht nur die Soldaten Gelegenheit hatten, hineinzustürmen, sondern der Platz auch offen war, um Befestigungen anzulegen und so viele Rampen aufzuschütten, wie nötig waren; von dort aus wurden sogar die Dachflächen des Tempels beschossen\. Während sich die Römer damit sorgfältig aufhielten, wurden die Juden von unerträglichem Hunger bedrängt und begannen, den Lasttieren der Römer aufzulauern\. Hatte jemand ein Kriegspferd zum Weiden losgebunden oder einem Lastmaultier die Last abgenommen, so raubten sie es als Beute; das brachte ihnen nicht nur Nahrung auf Kosten der Römer ein, sondern war auch eine Schande für das Heer\. Caesar beseitigte die Schande dieser Nachlässigkeit gleich zu Beginn, indem er als Strafe den Tod anordnete\. Doch das hemmte die listige Hartnäckigkeit nicht\. Denn von dieser Art Beute und von der für Hungernde nötigen Nahrung abgeschnitten, griffen sie zu Gräsern als Hilfe\. Nachdem die Mauer zerstört war, die Titus um den freien Raum außerhalb der Stadt geführt hatte, meinten sie, während sie umherirrten und nach Baumwurzeln und Futter suchten, Ausfälle seien nun ungehinderter möglich\. Denn der Mauerring hatte sie wie ein Gefängnis eingeschlossen, und nun gab es nichts mehr, womit sie den Hunger hätten lindern können\. So schleichen sie sich in einem plötzlichen Ausfall heran und stürzen sich auf die, die vor dem Ölberg aufgestellt waren\. Auch diese versagten nicht in der ihnen zugewiesenen Aufgabe, und der Ruf der Trompete ruft die anderen aus den übrigen Lagern und aus den Befestigungen der Türme zur Teilnahme am Kampf\. Zu Beginn entbrennt ein heftiger Kampf: Die Hinteren treibt das Ehrgefühl, die Vorderen der Hunger, nach grausamer Notwendigkeit und Ordnung\. Doch die Juden werden von den sich sammelnden Römern zurückgedrängt und zu den Mauern ihrer Stadt zurückgeworfen\. Da spornt einer aus einer Schwadron Reiter sein Pferd an, Pedanius war sein Name, streckt den rechten Arm aus, beugt sich ein wenig hinab und packt einen der fliehenden Juden, den er als Gefangenen zu Caesar trägt\. Und der Eroberer dieser herrlichen Beute wirft ihn, wie ein Adler ein Kaninchen oder ein Habicht eine Ente, lebend Caesar zu Füßen\. Titus war darüber außerordentlich erfreut und entließ ihn mit Lob und Ehren\.
+Während sie diese Kämpfe sieben Tage lang untereinander führten,
+wurde alles bis auf die Grundmauern niedergerissen,
+was Herodes durch eine Festung verstärkt hatte,
+die den Namen Antonia trug\.
+Dadurch wurde die Straße zum Tempel verbreitert,
+sodass nicht nur die Soldaten Gelegenheit hatten,
+hineinzustürmen,
+sondern der Platz auch offen war,
+um Befestigungen anzulegen und so viele Rampen aufzuschütten,
+wie nötig waren;
+von dort aus wurden sogar die Dachflächen des Tempels beschossen\.
+Während sich die Römer damit sorgfältig aufhielten,
+wurden die Juden von unerträglichem Hunger bedrängt und begannen,
+den Lasttieren der Römer aufzulauern\.
+Hatte jemand ein Kriegspferd zum Weiden losgebunden oder einem Lastmaultier die Last abgenommen,
+so raubten sie es als Beute;
+das brachte ihnen nicht nur Nahrung auf Kosten der Römer ein,
+sondern war auch eine Schande für das Heer\.
+Caesar beseitigte die Schande dieser Nachlässigkeit gleich zu Beginn,
+indem er als Strafe den Tod anordnete\.
+Doch das hemmte die listige Hartnäckigkeit nicht\.
+Denn von dieser Art Beute und von der für Hungernde nötigen Nahrung abgeschnitten,
+griffen sie zu Gräsern als Hilfe\.
+Nachdem die Mauer zerstört war,
+die Titus um den freien Raum außerhalb der Stadt geführt hatte,
+meinten sie,
+während sie umherirrten und nach Baumwurzeln und Futter suchten,
+Ausfälle seien nun ungehinderter möglich\.
+Denn der Mauerring hatte sie wie ein Gefängnis eingeschlossen,
+und nun gab es nichts mehr,
+womit sie den Hunger hätten lindern können\.
+So schleichen sie sich in einem plötzlichen Ausfall heran und stürzen sich auf die,
+die vor dem Ölberg aufgestellt waren\.
+Auch diese versagten nicht in der ihnen zugewiesenen Aufgabe,
+und der Ruf der Trompete ruft die anderen aus den übrigen Lagern und aus den Befestigungen der Türme zur Teilnahme am Kampf\.
+Zu Beginn entbrennt ein heftiger Kampf:
+Die Hinteren treibt das Ehrgefühl,
+die Vorderen der Hunger,
+nach grausamer Notwendigkeit und Ordnung\.
+Doch die Juden werden von den sich sammelnden Römern zurückgedrängt und zu den Mauern ihrer Stadt zurückgeworfen\.
+Da spornt einer aus einer Schwadron Reiter sein Pferd an,
+Pedanius war sein Name,
+streckt den rechten Arm aus,
+beugt sich ein wenig hinab und packt einen der fliehenden Juden,
+den er als Gefangenen zu Caesar trägt\.
+Und der Eroberer dieser herrlichen Beute wirft ihn,
+wie ein Adler ein Kaninchen oder ein Habicht eine Ente,
+lebend Caesar zu Füßen\.
+Titus war darüber außerordentlich erfreut und entließ ihn mit Lob und Ehren\.

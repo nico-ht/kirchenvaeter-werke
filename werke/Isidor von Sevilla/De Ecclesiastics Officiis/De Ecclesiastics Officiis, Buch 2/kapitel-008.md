@@ -7,11 +7,117 @@ Autor: Isidor von Sevilla
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/isidor-von-sevilla/de-ecclesiastics-officiis-buch-2#kapitel-223ebcc7-54ab-4ad9-141d-08ded5491050).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c928ad76940e7955166dd4ad58df7e48ae83e2d345ec7c0e95678d0fdec16ab3`
+Der Stand der Diakone nahm seinen Ursprung aus dem Stamm Levi\.
+Der Herr gebot Mose,
+dass nach der Weihe des Priesters Aaron und seiner Söhne sodann der Stamm Levi zum Dienst des göttlichen Kultes geweiht,
+dem Herrn anstelle all ihrer Erstgeborenen geheiligt und dazu bestimmt werden sollte,
+für Israel vor Aaron und seinen Söhnen in der Wohnung Gottes zu dienen\.
+Sie sollten im Tempel Tag und Nacht Dienst tun,
+die Lade,
+die Stiftshütte und all ihre Geräte tragen,
+Schutzwerke um die Stiftshütte errichten und beim Aufbruch der Stiftshütte diese abbauen und später wieder aufrichten\.
+Es wurde geboten,
+dass der Levit in der Stiftshütte ‚von fünfundzwanzig Jahren an und darüber‘[^bible-c23ed602-8c07-462d-a7df-62c0df97759f] dienen solle\.
+Auch die heiligen Väter haben diese Ordnung im Neuen Testament festgelegt\.
+Im Evangelium jedoch findet sich das Erste über sie in der Apostelgeschichte:
+„Die Zwölf riefen die ganze Schar der Jünger zusammen und sagten:
+‚Es ist nicht recht,
+dass wir das Wort Gottes vernachlässigen,
+um bei den Tischen zu dienen\.
+Darum,
+Brüder,
+wählt aus eurer Mitte sieben Männer von gutem Ruf,
+voll Geist und Weisheit,
+die wir für diese Aufgabe einsetzen können;
+wir aber wollen beim Gebet und beim Dienst des Wortes bleiben\.‘
+Das Wort gefiel der ganzen Schar,
+und sie wählten Stephanus,
+einen Mann voll Glauben und Heiligem Geist,
+dazu Philippus,
+Prochorus,
+Nikanor,
+Timon,
+Parmenas und Nikolaus,
+einen Proselyten aus Antiochien\.
+Diese Männer ließ man vor die Apostel treten;
+die beteten und legten ihnen die Hände auf\.
+Und das Wort Gottes breitete sich weiter aus;
+die Zahl der Jünger wuchs stark[^bible-620887c6-ad56-47b4-980b-35081c6ae0b3]\.“
+Eben deshalb verordneten die Apostel oder die Nachfolger der Apostel,
+dass es in allen Kirchen sieben Diakone geben solle,
+die in einem erhabeneren Rang als die übrigen wie Säulen des Altars um den Altar Christi stehen\.
+Und dies ist nicht ohne einen verborgenen Sinn der Zahl sieben\.
+Diese Diakone sind jene sieben Engel,
+von denen wir in der Apokalypse lesen,
+dass sie mit Posaunen singen;
+sie sind die sieben goldenen Leuchter;
+sie sind die Stimmen der Donner\.
 
-Der Stand der Diakone nahm seinen Ursprung aus dem Stamm Levi\. Der Herr gebot Mose, dass nach der Weihe des Priesters Aaron und seiner Söhne sodann der Stamm Levi zum Dienst des göttlichen Kultes geweiht, dem Herrn anstelle all ihrer Erstgeborenen geheiligt und dazu bestimmt werden sollte, für Israel vor Aaron und seinen Söhnen in der Wohnung Gottes zu dienen\. Sie sollten im Tempel Tag und Nacht Dienst tun, die Lade, die Stiftshütte und all ihre Geräte tragen, Schutzwerke um die Stiftshütte errichten und beim Aufbruch der Stiftshütte diese abbauen und später wieder aufrichten\. Es wurde geboten, dass der Levit in der Stiftshütte ‚von fünfundzwanzig Jahren an und darüber‘[^bible-c23ed602-8c07-462d-a7df-62c0df97759f] dienen solle\. Auch die heiligen Väter haben diese Ordnung im Neuen Testament festgelegt\. Im Evangelium jedoch findet sich das Erste über sie in der Apostelgeschichte: „Die Zwölf riefen die ganze Schar der Jünger zusammen und sagten: ‚Es ist nicht recht, dass wir das Wort Gottes vernachlässigen, um bei den Tischen zu dienen\. Darum, Brüder, wählt aus eurer Mitte sieben Männer von gutem Ruf, voll Geist und Weisheit, die wir für diese Aufgabe einsetzen können; wir aber wollen beim Gebet und beim Dienst des Wortes bleiben\.‘ Das Wort gefiel der ganzen Schar, und sie wählten Stephanus, einen Mann voll Glauben und Heiligem Geist, dazu Philippus, Prochorus, Nikanor, Timon, Parmenas und Nikolaus, einen Proselyten aus Antiochien\. Diese Männer ließ man vor die Apostel treten; die beteten und legten ihnen die Hände auf\. Und das Wort Gottes breitete sich weiter aus; die Zahl der Jünger wuchs stark[^bible-620887c6-ad56-47b4-980b-35081c6ae0b3]\.“ Eben deshalb verordneten die Apostel oder die Nachfolger der Apostel, dass es in allen Kirchen sieben Diakone geben solle, die in einem erhabeneren Rang als die übrigen wie Säulen des Altars um den Altar Christi stehen\. Und dies ist nicht ohne einen verborgenen Sinn der Zahl sieben\. Diese Diakone sind jene sieben Engel, von denen wir in der Apokalypse lesen, dass sie mit Posaunen singen; sie sind die sieben goldenen Leuchter; sie sind die Stimmen der Donner\.
-
-Denn mit klarer Stimme, nach Art von Herolden, mahnen die Diakone alle: beim Beten, beim Niederknien, beim Psalmensingen und beim Hören der Lesungen\. Und damit wir Ohren haben, den Herrn zu preisen, verkündigen auch die Diakone das Evangelium\. Ohne diese Diakone hat ein Priester zwar den Namen, aber nicht das Amt\. Denn wie beim Priester die Weihe zum Sakrament gehört, so gehört beim Diener die Austeilung zum Sakrament\. Dem Priester ist das Beten aufgetragen, dem Diakon das Psalmensingen\. Der Priester heiligt die Gaben; der Diakon teilt das Geheiligte aus\. Auch ist es den Priestern wegen der Anmaßung nicht erlaubt, den Kelch vom Tisch des Herrn zu nehmen, wenn er ihnen nicht vom Diakon gereicht worden ist\. Leviten legen die Opfergaben auf den Altar; Leviten bereiten den Tisch des Herrn; Leviten bedecken die Lade des Bundes\. Denn nicht alle sehen die hohen Dinge der Mysterien, die von den Leviten verhüllt werden, damit nicht die sehen, die nicht sehen dürfen, und nicht die danach greifen, die nicht dienen können\. Darum stehen die Diakone in Alben gekleidet am Altar, damit sie das himmlische Leben haben und unbefleckt und glänzend weiß zu den Heerscharen hinzutreten, rein am Körper und unverdorben in der Schamhaftigkeit\. Denn es ist angemessen, dass der Herr solche Diener hat, die von keiner Ansteckung des Fleisches verdorben sind, sondern durch die Vortrefflichkeit der Keuschheit umso herrlicher leuchten\. Dass solche Diakone geweiht werden sollen, schrieb der Apostel Paulus sehr deutlich an Timotheus\. Denn nachdem er über die Auswahl der Priester Weisung gegeben hatte, griff er dies fortwährend auf und sagte, dass „die Diakone ebenso“ untadelig sein müssen, das heißt ohne Makel, wie die Bischöfe; „keusch“, das heißt, sie müssen sich der sexuellen Begierde enthalten; „nicht doppelzüngig“, damit sie die nicht in Unruhe bringen, die Frieden haben; „nicht vielem Wein ergeben“, weil dort, wo Trunkenheit ist, sexuelle Begierde und Leidenschaften herrschen; „nicht geldgierig“, damit sie nicht durch weltlichen Gewinn vom Mysterium des Himmels weggezogen werden\. Es ist schändlich, mehr an das Streben nach Gewinn zu denken als an das, was vor Augen liegt\. Darüber erklärte er: „Auch sie sollen zuerst geprüft werden; dann, wenn sie sich als untadelig erweisen, sollen sie als Diakone dienen“\. So müssen auch diese wie die Bischöfe vor der Weihe geprüft werden, ob sie würdig sind zu dienen\.
+Denn mit klarer Stimme,
+nach Art von Herolden,
+mahnen die Diakone alle:
+beim Beten,
+beim Niederknien,
+beim Psalmensingen und beim Hören der Lesungen\.
+Und damit wir Ohren haben,
+den Herrn zu preisen,
+verkündigen auch die Diakone das Evangelium\.
+Ohne diese Diakone hat ein Priester zwar den Namen,
+aber nicht das Amt\.
+Denn wie beim Priester die Weihe zum Sakrament gehört,
+so gehört beim Diener die Austeilung zum Sakrament\.
+Dem Priester ist das Beten aufgetragen,
+dem Diakon das Psalmensingen\.
+Der Priester heiligt die Gaben;
+der Diakon teilt das Geheiligte aus\.
+Auch ist es den Priestern wegen der Anmaßung nicht erlaubt,
+den Kelch vom Tisch des Herrn zu nehmen,
+wenn er ihnen nicht vom Diakon gereicht worden ist\.
+Leviten legen die Opfergaben auf den Altar;
+Leviten bereiten den Tisch des Herrn;
+Leviten bedecken die Lade des Bundes\.
+Denn nicht alle sehen die hohen Dinge der Mysterien,
+die von den Leviten verhüllt werden,
+damit nicht die sehen,
+die nicht sehen dürfen,
+und nicht die danach greifen,
+die nicht dienen können\.
+Darum stehen die Diakone in Alben gekleidet am Altar,
+damit sie das himmlische Leben haben und unbefleckt und glänzend weiß zu den Heerscharen hinzutreten,
+rein am Körper und unverdorben in der Schamhaftigkeit\.
+Denn es ist angemessen,
+dass der Herr solche Diener hat,
+die von keiner Ansteckung des Fleisches verdorben sind,
+sondern durch die Vortrefflichkeit der Keuschheit umso herrlicher leuchten\.
+Dass solche Diakone geweiht werden sollen,
+schrieb der Apostel Paulus sehr deutlich an Timotheus\.
+Denn nachdem er über die Auswahl der Priester Weisung gegeben hatte,
+griff er dies fortwährend auf und sagte,
+dass „die Diakone ebenso“ untadelig sein müssen,
+das heißt ohne Makel,
+wie die Bischöfe;
+„keusch“,
+das heißt,
+sie müssen sich der sexuellen Begierde enthalten;
+„nicht doppelzüngig“,
+damit sie die nicht in Unruhe bringen,
+die Frieden haben;
+„nicht vielem Wein ergeben“,
+weil dort,
+wo Trunkenheit ist,
+sexuelle Begierde und Leidenschaften herrschen;
+„nicht geldgierig“,
+damit sie nicht durch weltlichen Gewinn vom Mysterium des Himmels weggezogen werden\.
+Es ist schändlich,
+mehr an das Streben nach Gewinn zu denken als an das,
+was vor Augen liegt\.
+Darüber erklärte er:
+„Auch sie sollen zuerst geprüft werden;
+dann,
+wenn sie sich als untadelig erweisen,
+sollen sie als Diakone dienen“\.
+So müssen auch diese wie die Bischöfe vor der Weihe geprüft werden,
+ob sie würdig sind zu dienen\.
 
 ## Bibelverweise
 

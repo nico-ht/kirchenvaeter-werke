@@ -7,9 +7,106 @@ Autor: Lucifer von Calaris
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/lucifer-von-calaris/niemand-darf-in-abwesenheit-gerichtet-oder-verurteilt-werden-buch-1#kapitel-bfef76ba-2295-44d7-68ab-08ded9b64703).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b4bd66dcc6c0e664f2d6e0db957cb6ee406532ce882334fe6641931728e042d4`
-
-Setze einstweilen, Constantius, der König Joschafat wäre heute im Leib gegenwärtig, und ihr beide würdet zu uns sprechen: Er sagte dies: „Seht zu, was ihr tut; denn nicht für Menschen richtet ihr, sondern für den Herrn, und er ist bei euch in der Sache\. Und nun sei die Furcht des Herrn auf euch, damit ihr sie bewahrt und danach handelt; denn bei dem Herrn, unserem Gott, gibt es weder Unrecht noch Ansehen der Person[^bible-59823bc1-e35d-49d3-8cd0-bbc0dbc003d3]“; du dagegen würdest sagen, ein Ungehörter müsse verurteilt werden, und zwar gerade einer, von dem selbst du weißt, dass er unschuldig ist\. Wem hätten wir, die Vorsteher Gottes, gehorchen können, wir, die er seinem Volk zuvor durch den Mund Jeremias verheißen hatte, als er sprach: „Ich werde euch Hirten nach meinem Herzen geben, und sie werden euch weiden mit Einsicht[^bible-020c6ac9-b568-453c-a5d5-32970963a5a2]“? Wem, sage ich, sollten wir gehorchen, dir oder Joschafat, dem Gott geweihten Mann, der uns dazu anhielt, das zu tun, wovon wir wussten, dass Gott es befohlen hatte? Wenn du also erkennst, dass er befohlen hat, die Gebote des Herrn zu erfüllen, du aber nicht nur als Zerstörer der Gebote Gottes, sondern sogar als Abtrünniger von ihm aufgetreten bist, bleibt nur, dass du siehst, wer von euch ein Mensch Gottes war und wer den Willen seiner Güte getan hat\. Von jenem lesen wir, dass so geschrieben steht: „Und der Herr war mit Joschafat, weil er auf den früheren Wegen seines Vaters ging und nicht die Götzenbilder suchte, sondern den Herrn, den Gott seines Vaters; und er wandelte in seinen Geboten und nicht nach den Werken Israels\. Und der Herr befestigte sein Königtum, und ganz Juda gab Joschafat Gaben, und er besaß Reichtum und große Herrlichkeit\. Und sein Herz erhob sich auf den Wegen des Herrn, und außerdem entfernte er die Höhen und Haine aus Juda\. Im dritten Jahr seiner Herrschaft aber sandte er seine Fürsten und die Söhne der Tapferkeit aus[^bible-bb059544-a419-4360-aa6c-6ff23b36e505]“, und weiter unten: „Und mit ihnen Elimasat und Joram, die Priester; und sie lehrten Juda, und bei ihnen war das Buch des Gesetzes des Herrn, und sie zogen durch die Städte Judas und lehrten das Volk\. Und Schrecken des Herrn kam über die Reiche der Erde rings um Juda, und sie führten keinen Krieg gegen Joschafat\. Auch von den Fremdvölkern brachte man Joschafat Gaben, Silber und Geschenke; und die Araber brachten ihm Widder, siebentausendsiebenhundert Schafe\. Und Joschafat schritt voran und wurde groß bis in die Höhe[^bible-3cdeadc2-0b79-4351-ab0a-c3042d8c1cd6]\.“ Was tust du dergleichen? Gewiss hast du durch dein ganzes Reich ausgesandt, dass wir alle die Gebote Gottes verachten und dein Gebot annehmen sollten, das versuchte, das Gebot des Herrn anzugreifen\. Joschafat sandte die tapferen Fürsten seines Reiches, er sandte seine Ratgeber, er sandte Leviten und Priester des Herrn und beschwor sie, damit alle in seinem Reich Verehrer des Herrn seien, damit alle einmütig sich allein Gott als Diener erwiesen; er sandte auch das Buch des heiligen Gesetzes, das durch den ruhmreichen Mose überliefert worden war, damit sie nichts anderes täten als das, was Gott zu tun befohlen hatte\. Du hingegen wirst nicht nur dabei ertappt, dass du das Gesetz des Herrn bekämpft hast, das gebietet, den Unschuldigen und Gerechten nicht zu töten, sondern auch, dass du Gott selbst verlassen hast, da du ja nicht am apostolischen Glauben festhältst, sondern an der Treulosigkeit des Arius\. Jener führte das Volk, das von den Götzen in die Irre gegangen war, zu Gott zurück; du aber hast versucht, das Gott geweihte Volk abtrünnig zu machen, was du selbst bist: ein Sakrilegischer\.
+Setze einstweilen,
+Constantius,
+der König Joschafat wäre heute im Leib gegenwärtig,
+und ihr beide würdet zu uns sprechen:
+Er sagte dies:
+„Seht zu,
+was ihr tut;
+denn nicht für Menschen richtet ihr,
+sondern für den Herrn,
+und er ist bei euch in der Sache\.
+Und nun sei die Furcht des Herrn auf euch,
+damit ihr sie bewahrt und danach handelt;
+denn bei dem Herrn,
+unserem Gott,
+gibt es weder Unrecht noch Ansehen der Person[^bible-59823bc1-e35d-49d3-8cd0-bbc0dbc003d3]“;
+du dagegen würdest sagen,
+ein Ungehörter müsse verurteilt werden,
+und zwar gerade einer,
+von dem selbst du weißt,
+dass er unschuldig ist\.
+Wem hätten wir,
+die Vorsteher Gottes,
+gehorchen können,
+wir,
+die er seinem Volk zuvor durch den Mund Jeremias verheißen hatte,
+als er sprach:
+„Ich werde euch Hirten nach meinem Herzen geben,
+und sie werden euch weiden mit Einsicht[^bible-020c6ac9-b568-453c-a5d5-32970963a5a2]“?
+Wem,
+sage ich,
+sollten wir gehorchen,
+dir oder Joschafat,
+dem Gott geweihten Mann,
+der uns dazu anhielt,
+das zu tun,
+wovon wir wussten,
+dass Gott es befohlen hatte?
+Wenn du also erkennst,
+dass er befohlen hat,
+die Gebote des Herrn zu erfüllen,
+du aber nicht nur als Zerstörer der Gebote Gottes,
+sondern sogar als Abtrünniger von ihm aufgetreten bist,
+bleibt nur,
+dass du siehst,
+wer von euch ein Mensch Gottes war und wer den Willen seiner Güte getan hat\.
+Von jenem lesen wir,
+dass so geschrieben steht:
+„Und der Herr war mit Joschafat,
+weil er auf den früheren Wegen seines Vaters ging und nicht die Götzenbilder suchte,
+sondern den Herrn,
+den Gott seines Vaters;
+und er wandelte in seinen Geboten und nicht nach den Werken Israels\.
+Und der Herr befestigte sein Königtum,
+und ganz Juda gab Joschafat Gaben,
+und er besaß Reichtum und große Herrlichkeit\.
+Und sein Herz erhob sich auf den Wegen des Herrn,
+und außerdem entfernte er die Höhen und Haine aus Juda\.
+Im dritten Jahr seiner Herrschaft aber sandte er seine Fürsten und die Söhne der Tapferkeit aus[^bible-bb059544-a419-4360-aa6c-6ff23b36e505]“,
+und weiter unten:
+„Und mit ihnen Elimasat und Joram,
+die Priester;
+und sie lehrten Juda,
+und bei ihnen war das Buch des Gesetzes des Herrn,
+und sie zogen durch die Städte Judas und lehrten das Volk\.
+Und Schrecken des Herrn kam über die Reiche der Erde rings um Juda,
+und sie führten keinen Krieg gegen Joschafat\.
+Auch von den Fremdvölkern brachte man Joschafat Gaben,
+Silber und Geschenke;
+und die Araber brachten ihm Widder,
+siebentausendsiebenhundert Schafe\.
+Und Joschafat schritt voran und wurde groß bis in die Höhe[^bible-3cdeadc2-0b79-4351-ab0a-c3042d8c1cd6]\.“
+Was tust du dergleichen?
+Gewiss hast du durch dein ganzes Reich ausgesandt,
+dass wir alle die Gebote Gottes verachten und dein Gebot annehmen sollten,
+das versuchte,
+das Gebot des Herrn anzugreifen\.
+Joschafat sandte die tapferen Fürsten seines Reiches,
+er sandte seine Ratgeber,
+er sandte Leviten und Priester des Herrn und beschwor sie,
+damit alle in seinem Reich Verehrer des Herrn seien,
+damit alle einmütig sich allein Gott als Diener erwiesen;
+er sandte auch das Buch des heiligen Gesetzes,
+das durch den ruhmreichen Mose überliefert worden war,
+damit sie nichts anderes täten als das,
+was Gott zu tun befohlen hatte\.
+Du hingegen wirst nicht nur dabei ertappt,
+dass du das Gesetz des Herrn bekämpft hast,
+das gebietet,
+den Unschuldigen und Gerechten nicht zu töten,
+sondern auch,
+dass du Gott selbst verlassen hast,
+da du ja nicht am apostolischen Glauben festhältst,
+sondern an der Treulosigkeit des Arius\.
+Jener führte das Volk,
+das von den Götzen in die Irre gegangen war,
+zu Gott zurück;
+du aber hast versucht,
+das Gott geweihte Volk abtrünnig zu machen,
+was du selbst bist:
+ein Sakrilegischer\.
 
 ## Bibelverweise
 

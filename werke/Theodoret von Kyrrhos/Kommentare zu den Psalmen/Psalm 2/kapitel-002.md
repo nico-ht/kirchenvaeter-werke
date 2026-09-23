@@ -7,15 +7,26 @@ Autor: Theodoret von Kyrrhos
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/theodoret-von-kyrrhos/psalm-2#kapitel-bc95945a-dd1d-48e0-d4d3-08dd82975194).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0b158118be5c45acbbfff19c810f971f859cd945d41f459d0165ab8fc9485fdf`
+„Warum tobten die Heiden,
+und warum sannen die Völker über Nichtiges?
+Die Könige der Erde traten hervor,
+und die Fürsten versammelten einmütig,
+gegen den Herrn und gegen seinen Christus\.“[^bible-ab92dac5-d1f1-4e76-b061-3a3c21abfc10]
 
-„Warum tobten die Heiden, und warum sannen die Völker über Nichtiges? Die Könige der Erde traten hervor, und die Fürsten versammelten einmütig, gegen den Herrn und gegen seinen Christus\.“[^bible-ab92dac5-d1f1-4e76-b061-3a3c21abfc10]
+Er sagt nicht „Nationen“,
+damit du nicht denkst,
+dass alle eingeschlossen sind,
+sondern spricht von „Heiden“,
+um den Sinn auf einen bestimmten Fall zu lenken\.
 
-Er sagt nicht „Nationen“, damit du nicht denkst, dass alle eingeschlossen sind, sondern spricht von „Heiden“, um den Sinn auf einen bestimmten Fall zu lenken\.
+Denn weil die Juden Jesus überlieferten,
+als er gefangen genommen wurde,
+sagt er diese Dinge zu Recht\.
 
-Denn weil die Juden Jesus überlieferten, als er gefangen genommen wurde, sagt er diese Dinge zu Recht\.
-
-Was für einen großen Grund, fragt er, oder was war von ihm getan worden, dass die Völker erregt waren und ihn in die Hände der Heiden überlieferten?
+Was für einen großen Grund,
+fragt er,
+oder was war von ihm getan worden,
+dass die Völker erregt waren und ihn in die Hände der Heiden überlieferten?
 
 „Sie tobten“ wird anstelle von „sie waren stolz“ gesagt\.
 

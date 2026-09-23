@@ -7,6 +7,12 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/3-taufunterweisung#kapitel-d920be3d-8aed-40c1-4e4c-08ddd42c227b).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:79383b3f9fb0c9240924d12a10464c3e2529ed75fe729c8c94f39a2b3d75393f`
-
-Hast du gesehen, wie Christus Seine Braut mit sich vereint? Hast du gesehen, womit Er uns alle nährt? Es ist durch dieselbe Nahrung, durch die wir geformt und genährt werden\. So wie eine Frau ihren Nachwuchs mit eigenem Blut und Milch nährt, so nährt auch Christus kontinuierlich mit Seinem eigenen Blut die, die Er gezeugt hat\.
+Hast du gesehen,
+wie Christus Seine Braut mit sich vereint?
+Hast du gesehen,
+womit Er uns alle nährt?
+Es ist durch dieselbe Nahrung,
+durch die wir geformt und genährt werden\.
+So wie eine Frau ihren Nachwuchs mit eigenem Blut und Milch nährt,
+so nährt auch Christus kontinuierlich mit Seinem eigenen Blut die,
+die Er gezeugt hat\.

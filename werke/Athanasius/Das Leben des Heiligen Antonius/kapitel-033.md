@@ -7,6 +7,32 @@ Autor: Athanasius
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/das-leben-des-heiligen-antonius#kapitel-90382a4f-d92d-496d-baa0-08dd392b6e8c).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b37038dbbc2632ee5befc922a2159d0e9054e2f567a46e0d156c12e8a7490356`
-
-So machen sie auch in Bezug auf das Wasser des Flusses manchmal törichte Aussagen\. Denn nachdem sie gesehen haben, dass es in den Regionen Äthiopiens viel geregnet hat, und wissend, dass sie die Ursache für die Flut des Flusses sind, bevor das Wasser Ägypten erreicht hat, laufen sie voraus und kündigen es an\. Dies könnten die Menschen ebenfalls berichten, wenn sie die gleiche Laufkraft wie die Dämonen hätten\. Und wie der Spion Davids, der in eine hohe Stellung ging, den Mann, der sich näherte, besser sah als der, der unten blieb, und der Vorläufer selbst, bevor die anderen ankamen, nicht das ankündigte, was noch nicht geschehen war, sondern das, was bereits auf dem Weg war und sich erfüllte, so ziehen auch diese es vor, zu arbeiten und anderen einfach das zu erklären, was geschieht, nur um sie zu täuschen\. Wenn jedoch die Vorsehung in der Zwischenzeit etwas anderes für die Wasser oder die Wanderer plant – denn die Vorsehung kann dies tun – werden die Dämonen getäuscht, und diejenigen, die auf sie gehört haben, betrogen\.
+So machen sie auch in Bezug auf das Wasser des Flusses manchmal törichte Aussagen\.
+Denn nachdem sie gesehen haben,
+dass es in den Regionen Äthiopiens viel geregnet hat,
+und wissend,
+dass sie die Ursache für die Flut des Flusses sind,
+bevor das Wasser Ägypten erreicht hat,
+laufen sie voraus und kündigen es an\.
+Dies könnten die Menschen ebenfalls berichten,
+wenn sie die gleiche Laufkraft wie die Dämonen hätten\.
+Und wie der Spion Davids,
+der in eine hohe Stellung ging,
+den Mann,
+der sich näherte,
+besser sah als der,
+der unten blieb,
+und der Vorläufer selbst,
+bevor die anderen ankamen,
+nicht das ankündigte,
+was noch nicht geschehen war,
+sondern das,
+was bereits auf dem Weg war und sich erfüllte,
+so ziehen auch diese es vor,
+zu arbeiten und anderen einfach das zu erklären,
+was geschieht,
+nur um sie zu täuschen\.
+Wenn jedoch die Vorsehung in der Zwischenzeit etwas anderes für die Wasser oder die Wanderer plant – denn die Vorsehung kann dies tun – werden die Dämonen getäuscht,
+und diejenigen,
+die auf sie gehört haben,
+betrogen\.

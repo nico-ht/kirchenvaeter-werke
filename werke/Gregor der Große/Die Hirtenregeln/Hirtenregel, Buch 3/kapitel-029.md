@@ -7,13 +7,205 @@ Autor: Gregor der Große
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/hirtenregel-buch-3#kapitel-e96724fb-7a5a-4e4e-4788-08dd47ac18f8).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a9d9e8f7d18c871de1116ba6fab88aed1349ff002ab0c35668a670d1fc9298a1`
+Wie diejenigen zu ermahnen sind,
+die über Tatsünden trauern,
+und diejenigen,
+die nur über Gedankensünden trauern\.
+Anders sind diejenigen zu ermahnen,
+die Tatsünden beklagen,
+und anders diejenigen,
+die Gedankensünden beklagen\.
+Wer seine Tatsünden beklagt,
+ist zu ermahnen,
+das vollbrachte Böse durch vollkommene Klage abzuwaschen,
+damit ihn die Schuld der begangenen Tat nicht noch fester bindet und die Tränen der Genugtuung ihn nicht zu wenig davon lösen\.
+Denn es steht geschrieben:
+„Du gabst uns Tränen in abgemessenem Maß zu trinken\.[^bible-c16906e5-7b75-4486-b3a4-2e91bd0c3e49]
+“ So soll die Seele eines jeden in ihrer Buße so viele Tränen der Zerknirschung trinken,
+wie sehr sie,
+ihrer Erinnerung nach,
+durch ihre Sünden fern von Gott verdorrt war\.
+Sie sind zu ermahnen,
+sich ihre Verfehlungen unablässig vor Augen zu führen und durch ihren Lebenswandel zu bewirken,
+dass der strenge Richter diese Verfehlungen nicht ansehen muss\.
+Deshalb bat David:
+„Wende deine Augen von meinen Sünden ab[^bible-07912920-653d-4a9d-86fd-c6fa1597f492] “,
+nachdem er kurz zuvor gesagt hatte:
+„Meine Verfehlung steht mir immer vor Augen\.[^bible-0fe42b1c-657d-4616-afae-6be6eb620423]
+“ Als wollte er sagen:
+„Ich bitte dich,
+meine Sünde nicht anzusehen,
+weil ich selbst nicht aufhöre,
+sie anzusehen\.“
+Daher sagt der Herr auch durch den Propheten:
+„An deine Sünden werde ich nicht denken;
+du aber denke an sie\.[^bible-e48b6415-c031-42ec-ba17-38a885a76974]
+“ Sie sind zu ermahnen,
+jede einzelne Verfehlung zu bedenken\.
+Während sie die Befleckung durch jeden einzelnen Irrweg beweinen,
+sollen sie sich zugleich ganz und gar mit Tränen reinigen\.
+Deshalb heißt es treffend durch Jeremia,
+als die einzelnen Sünden Judas erwogen wurden:
+„Mein Auge ließ die Wasser sich teilen und fließen\.[^bible-12312f09-49ce-4d5f-ac71-b29a72c073ac]
+“ Wir lassen nämlich die Wasser geteilt aus unseren Augen fließen,
+wenn wir auf die einzelnen Sünden gesonderte Tränen verteilen\.
+Denn die Seele empfindet nicht zu ein und derselben Zeit über alle Sünden den gleichen Schmerz\.
+Vielmehr wird sie bald von der Erinnerung an diese,
+bald an jene Schuld heftiger getroffen;
+indem sie so durch jede einzelne Schuld erschüttert wird,
+wird sie zugleich von allen Sünden gereinigt\.
+Sie sind zu ermahnen,
+auf die Barmherzigkeit zu vertrauen,
+um die sie bitten,
+damit sie nicht an der Wucht maßloser Betrübnis zugrunde gehen\.
+Denn der Herr würde den Sündern nicht in seiner Güte ihre Sünden vor Augen stellen,
+damit sie sie beweinen,
+wenn er selbst sie streng dafür strafen wollte\.
+Es steht also fest,
+dass er diejenigen seinem Gericht entziehen wollte,
+denen er mit seinem Erbarmen zuvorkam und die er so zu Richtern über sich selbst machte\.
+Daher steht geschrieben:
+„Lasst uns im Bekenntnis vor das Angesicht des Herrn treten\.[^bible-056a3fe7-29a9-4ee4-a8cb-1fd03f0b1111]
+“
 
-Wie diejenigen zu ermahnen sind, die über Tatsünden trauern, und diejenigen, die nur über Gedankensünden trauern\. Anders sind diejenigen zu ermahnen, die Tatsünden beklagen, und anders diejenigen, die Gedankensünden beklagen\. Wer seine Tatsünden beklagt, ist zu ermahnen, das vollbrachte Böse durch vollkommene Klage abzuwaschen, damit ihn die Schuld der begangenen Tat nicht noch fester bindet und die Tränen der Genugtuung ihn nicht zu wenig davon lösen\. Denn es steht geschrieben: „Du gabst uns Tränen in abgemessenem Maß zu trinken\.[^bible-c16906e5-7b75-4486-b3a4-2e91bd0c3e49] “ So soll die Seele eines jeden in ihrer Buße so viele Tränen der Zerknirschung trinken, wie sehr sie, ihrer Erinnerung nach, durch ihre Sünden fern von Gott verdorrt war\. Sie sind zu ermahnen, sich ihre Verfehlungen unablässig vor Augen zu führen und durch ihren Lebenswandel zu bewirken, dass der strenge Richter diese Verfehlungen nicht ansehen muss\. Deshalb bat David: „Wende deine Augen von meinen Sünden ab[^bible-07912920-653d-4a9d-86fd-c6fa1597f492] “, nachdem er kurz zuvor gesagt hatte: „Meine Verfehlung steht mir immer vor Augen\.[^bible-0fe42b1c-657d-4616-afae-6be6eb620423] “ Als wollte er sagen: „Ich bitte dich, meine Sünde nicht anzusehen, weil ich selbst nicht aufhöre, sie anzusehen\.“ Daher sagt der Herr auch durch den Propheten: „An deine Sünden werde ich nicht denken; du aber denke an sie\.[^bible-e48b6415-c031-42ec-ba17-38a885a76974] “ Sie sind zu ermahnen, jede einzelne Verfehlung zu bedenken\. Während sie die Befleckung durch jeden einzelnen Irrweg beweinen, sollen sie sich zugleich ganz und gar mit Tränen reinigen\. Deshalb heißt es treffend durch Jeremia, als die einzelnen Sünden Judas erwogen wurden: „Mein Auge ließ die Wasser sich teilen und fließen\.[^bible-12312f09-49ce-4d5f-ac71-b29a72c073ac] “ Wir lassen nämlich die Wasser geteilt aus unseren Augen fließen, wenn wir auf die einzelnen Sünden gesonderte Tränen verteilen\. Denn die Seele empfindet nicht zu ein und derselben Zeit über alle Sünden den gleichen Schmerz\. Vielmehr wird sie bald von der Erinnerung an diese, bald an jene Schuld heftiger getroffen; indem sie so durch jede einzelne Schuld erschüttert wird, wird sie zugleich von allen Sünden gereinigt\. Sie sind zu ermahnen, auf die Barmherzigkeit zu vertrauen, um die sie bitten, damit sie nicht an der Wucht maßloser Betrübnis zugrunde gehen\. Denn der Herr würde den Sündern nicht in seiner Güte ihre Sünden vor Augen stellen, damit sie sie beweinen, wenn er selbst sie streng dafür strafen wollte\. Es steht also fest, dass er diejenigen seinem Gericht entziehen wollte, denen er mit seinem Erbarmen zuvorkam und die er so zu Richtern über sich selbst machte\. Daher steht geschrieben: „Lasst uns im Bekenntnis vor das Angesicht des Herrn treten\.[^bible-056a3fe7-29a9-4ee4-a8cb-1fd03f0b1111] “
+Daher sagt Paulus:
+„Wenn wir uns selbst richteten,
+würden wir nicht gerichtet\.[^bible-ac81edd6-1cf0-4cfb-8547-9a4bd23fb727]
+“ Weiter sind sie zu ermahnen,
+fest auf ihre Hoffnung zu vertrauen,
+ohne jedoch in unbedachter Sicherheit zu erstarren\.
+Denn wenn der listige Feind sieht,
+dass die Seele,
+die er durch die Sünde zu Fall gebracht hat,
+über ihren Sturz betrübt ist,
+verführt er sie oft mit den Schmeicheleien verderblicher Sicherheit\.
+Dies wird im Bericht über Dina bildhaft dargestellt\.
+Denn es steht geschrieben:
+„Dina ging hinaus,
+um die Frauen jenes Landes zu sehen\.
+Als Sichem,
+der Sohn des Hiwiters Hamor,
+des Fürsten jenes Landes,
+sie sah,
+gewann er sie lieb,
+raubte sie und schlief mit ihr,
+wobei er die Jungfrau mit Gewalt bezwang\.
+Seine Seele verband sich mit ihr,
+und er besänftigte ihre Traurigkeit mit Schmeicheleien\.[^bible-8e521b3b-1cc3-40a8-a924-00ac459f032e]
+“ Dina geht hinaus,
+um die Frauen eines fremden Landes zu sehen,
+wenn jede Seele ihre eigenen Aufgaben vernachlässigt,
+sich um die Handlungen anderer kümmert und außerhalb ihrer gewohnten Lebensweise und der ihr eigenen Ordnung umherirrt\.
+Sichem,
+der Fürst des Landes,
+bezwingt sie,
+weil der Teufel die Seele verdirbt,
+sobald er sie in der Sorge um äußere Dinge antrifft\.
+„Seine Seele verband sich mit ihr[^bible-7ca64691-a254-462b-ae76-5bd994011046] “,
+weil er sieht,
+dass sie durch die Sünde mit ihm vereint ist\.
+Wenn die Seele nach ihrer Schuld wieder zur Besinnung kommt,
+erkennt sie sich als schuldig und versucht,
+das Begangene zu beweinen\.
+Doch der Verführer führt ihr nichtige Hoffnungen und falsche Sicherheiten vor Augen,
+um der Trauer ihren Nutzen zu rauben\.
+Deshalb heißt es dort zu Recht weiter:
+„Er besänftigte ihre Traurigkeit mit Schmeicheleien\.[^bible-7ca64691-a254-462b-ae76-5bd994011046]
+“ Bald hält er ihr die schwereren Taten anderer vor,
+bald behauptet er,
+das Begangene sei nichts,
+bald spricht er vom barmherzigen Gott,
+bald verspricht er ihr,
+später bleibe noch Zeit zur Buße\.
+Mit all dem führt er die getäuschte Seele,
+um sie von ihrem entschlossenen Streben nach Buße abzuhalten,
+damit sie einst nichts Gutes empfängt,
+weil sie jetzt kein Übel betrübt,
+und einst umso tiefer unter Strafen begraben wird,
+weil sie sich jetzt sogar an ihren Sünden freut\.
+Dagegen sind diejenigen,
+die Sünden der Gedanken beweinen,
+zu ermahnen,
+im Verborgenen ihres Inneren sorgfältig zu prüfen,
+ob sie nur durch Lust oder auch durch Zustimmung gesündigt haben\.
+Denn oft wird das Herz versucht und empfindet aufgrund der Bosheit des Fleisches Lust,
+widersteht dieser Bosheit jedoch mit der Vernunft\.
+So ist es im Verborgenen der Gedanken zugleich betrübt über das,
+was ihm gefällt,
+und findet Gefallen an dem,
+was es betrübt\.
+Manchmal aber wird die Seele so sehr vom Abgrund der Versuchung verschlungen,
+dass sie überhaupt keinen Widerstand leistet,
+sondern sich bewusst auf das einlässt,
+wozu die Lust sie drängt\.
+Bietet sich ihr äußerlich die Möglichkeit,
+setzt sie ihre inneren Wünsche sogleich in die Tat um\.
+Fällt dies unter die gerechte Ahndung des strengen Richters,
+so handelt es sich nicht mehr um eine Sünde der Gedanken,
+sondern der Tat\.
+Denn auch wenn die Verzögerung der äußeren Umstände die Ausführung der Sünde aufgeschoben hat,
+hat der Wille sie im Inneren bereits durch seine Zustimmung vollzogen\.
+Am ersten Menschen haben wir gelernt,
+dass wir die Bosheit jeder Sünde auf dreierlei Weise vollbringen:
+durch Einflüsterung,
+Lust und Zustimmung\.
+Das Erste geschieht durch den Feind,
+das Zweite durch das Fleisch,
+das Dritte durch den Geist\.
+Denn der Versucher flüstert das Böse ein,
+das Fleisch gibt sich der Lust hin,
+und schließlich stimmt der Geist zu,
+nachdem ihn die Lust besiegt hat\.
+So flüsterte auch die Schlange das Böse ein,
+Eva gab sich gleichsam als Fleisch der Lust hin,
+und Adam stimmte,
+gleichsam als Geist,
+von Einflüsterung und Lust überwältigt,
+zu[^bible-1368bab8-846a-4edd-9a66-c3cf476b7464]\.
+Durch die Einflüsterung also begegnen wir der Sünde,
+durch die Lust werden wir besiegt,
+und durch die Zustimmung werden wir auch gebunden\.
 
-Daher sagt Paulus: „Wenn wir uns selbst richteten, würden wir nicht gerichtet\.[^bible-ac81edd6-1cf0-4cfb-8547-9a4bd23fb727] “ Weiter sind sie zu ermahnen, fest auf ihre Hoffnung zu vertrauen, ohne jedoch in unbedachter Sicherheit zu erstarren\. Denn wenn der listige Feind sieht, dass die Seele, die er durch die Sünde zu Fall gebracht hat, über ihren Sturz betrübt ist, verführt er sie oft mit den Schmeicheleien verderblicher Sicherheit\. Dies wird im Bericht über Dina bildhaft dargestellt\. Denn es steht geschrieben: „Dina ging hinaus, um die Frauen jenes Landes zu sehen\. Als Sichem, der Sohn des Hiwiters Hamor, des Fürsten jenes Landes, sie sah, gewann er sie lieb, raubte sie und schlief mit ihr, wobei er die Jungfrau mit Gewalt bezwang\. Seine Seele verband sich mit ihr, und er besänftigte ihre Traurigkeit mit Schmeicheleien\.[^bible-8e521b3b-1cc3-40a8-a924-00ac459f032e] “ Dina geht hinaus, um die Frauen eines fremden Landes zu sehen, wenn jede Seele ihre eigenen Aufgaben vernachlässigt, sich um die Handlungen anderer kümmert und außerhalb ihrer gewohnten Lebensweise und der ihr eigenen Ordnung umherirrt\. Sichem, der Fürst des Landes, bezwingt sie, weil der Teufel die Seele verdirbt, sobald er sie in der Sorge um äußere Dinge antrifft\. „Seine Seele verband sich mit ihr[^bible-7ca64691-a254-462b-ae76-5bd994011046] “, weil er sieht, dass sie durch die Sünde mit ihm vereint ist\. Wenn die Seele nach ihrer Schuld wieder zur Besinnung kommt, erkennt sie sich als schuldig und versucht, das Begangene zu beweinen\. Doch der Verführer führt ihr nichtige Hoffnungen und falsche Sicherheiten vor Augen, um der Trauer ihren Nutzen zu rauben\. Deshalb heißt es dort zu Recht weiter: „Er besänftigte ihre Traurigkeit mit Schmeicheleien\.[^bible-7ca64691-a254-462b-ae76-5bd994011046] “ Bald hält er ihr die schwereren Taten anderer vor, bald behauptet er, das Begangene sei nichts, bald spricht er vom barmherzigen Gott, bald verspricht er ihr, später bleibe noch Zeit zur Buße\. Mit all dem führt er die getäuschte Seele, um sie von ihrem entschlossenen Streben nach Buße abzuhalten, damit sie einst nichts Gutes empfängt, weil sie jetzt kein Übel betrübt, und einst umso tiefer unter Strafen begraben wird, weil sie sich jetzt sogar an ihren Sünden freut\. Dagegen sind diejenigen, die Sünden der Gedanken beweinen, zu ermahnen, im Verborgenen ihres Inneren sorgfältig zu prüfen, ob sie nur durch Lust oder auch durch Zustimmung gesündigt haben\. Denn oft wird das Herz versucht und empfindet aufgrund der Bosheit des Fleisches Lust, widersteht dieser Bosheit jedoch mit der Vernunft\. So ist es im Verborgenen der Gedanken zugleich betrübt über das, was ihm gefällt, und findet Gefallen an dem, was es betrübt\. Manchmal aber wird die Seele so sehr vom Abgrund der Versuchung verschlungen, dass sie überhaupt keinen Widerstand leistet, sondern sich bewusst auf das einlässt, wozu die Lust sie drängt\. Bietet sich ihr äußerlich die Möglichkeit, setzt sie ihre inneren Wünsche sogleich in die Tat um\. Fällt dies unter die gerechte Ahndung des strengen Richters, so handelt es sich nicht mehr um eine Sünde der Gedanken, sondern der Tat\. Denn auch wenn die Verzögerung der äußeren Umstände die Ausführung der Sünde aufgeschoben hat, hat der Wille sie im Inneren bereits durch seine Zustimmung vollzogen\. Am ersten Menschen haben wir gelernt, dass wir die Bosheit jeder Sünde auf dreierlei Weise vollbringen: durch Einflüsterung, Lust und Zustimmung\. Das Erste geschieht durch den Feind, das Zweite durch das Fleisch, das Dritte durch den Geist\. Denn der Versucher flüstert das Böse ein, das Fleisch gibt sich der Lust hin, und schließlich stimmt der Geist zu, nachdem ihn die Lust besiegt hat\. So flüsterte auch die Schlange das Böse ein, Eva gab sich gleichsam als Fleisch der Lust hin, und Adam stimmte, gleichsam als Geist, von Einflüsterung und Lust überwältigt, zu[^bible-1368bab8-846a-4edd-9a66-c3cf476b7464]\. Durch die Einflüsterung also begegnen wir der Sünde, durch die Lust werden wir besiegt, und durch die Zustimmung werden wir auch gebunden\.
-
-Wer die Bosheit seiner Gedanken beklagt, muss also ermahnt werden, sorgfältig zu bedenken, wie tief er in Sünde gefallen ist\. Entsprechend dem Maß des Sturzes, den er in seinem Inneren verspürt, soll sich auch das Maß seiner Klage erheben; denn wenn ihn seine bösen Gedanken zu wenig quälen, könnten sie ihn schließlich zur bösen Tat führen\. Doch dabei muss man ihm so Furcht einflößen, dass er dennoch keineswegs den Mut verliert\. Denn oft wäscht der barmherzige Gott die Sünden des Herzens umso schneller ab, je weniger er zulässt, dass sie in Taten hervortreten; und die Bosheit, die auf das Denken beschränkt blieb, löst sich deshalb schneller, weil sie durch die Ausführung der Tat nicht fester gebunden ist\. Darum heißt es zu Recht durch den Psalmisten: „Ich sprach: ‚Ich werde dem Herrn meine Verfehlungen gegen mich selbst bekennen‘, und du hast mir die Gottlosigkeit meines Herzens vergeben\.[^bible-b15fdb4d-1ea3-4858-a00e-9e812e38880d] “ Indem er von der Gottlosigkeit des Herzens sprach, zeigte er, dass er die Verfehlungen seiner Gedanken bekennen wollte\. Und indem er sagte: „Ich sprach: ‚Ich werde bekennen‘[^bible-b15fdb4d-1ea3-4858-a00e-9e812e38880d] “, und sogleich hinzufügte: „Und du hast vergeben[^bible-b15fdb4d-1ea3-4858-a00e-9e812e38880d] “, zeigte er, wie leicht hierfür Vergebung gewährt wird\. Noch während er erst versprach, um Vergebung zu bitten, erhielt er bereits, worum er zu bitten versprach: Weil die Schuld nicht bis zur Tat gelangt war, sollte auch die Reue nicht bis zur quälenden Pein reichen; vielmehr sollte die innere Betrübnis den Geist reinigen, den ja nur das im Denken begangene Unrecht befleckt hatte\.
+Wer die Bosheit seiner Gedanken beklagt,
+muss also ermahnt werden,
+sorgfältig zu bedenken,
+wie tief er in Sünde gefallen ist\.
+Entsprechend dem Maß des Sturzes,
+den er in seinem Inneren verspürt,
+soll sich auch das Maß seiner Klage erheben;
+denn wenn ihn seine bösen Gedanken zu wenig quälen,
+könnten sie ihn schließlich zur bösen Tat führen\.
+Doch dabei muss man ihm so Furcht einflößen,
+dass er dennoch keineswegs den Mut verliert\.
+Denn oft wäscht der barmherzige Gott die Sünden des Herzens umso schneller ab,
+je weniger er zulässt,
+dass sie in Taten hervortreten;
+und die Bosheit,
+die auf das Denken beschränkt blieb,
+löst sich deshalb schneller,
+weil sie durch die Ausführung der Tat nicht fester gebunden ist\.
+Darum heißt es zu Recht durch den Psalmisten:
+„Ich sprach:
+‚Ich werde dem Herrn meine Verfehlungen gegen mich selbst bekennen‘,
+und du hast mir die Gottlosigkeit meines Herzens vergeben\.[^bible-b15fdb4d-1ea3-4858-a00e-9e812e38880d]
+“ Indem er von der Gottlosigkeit des Herzens sprach,
+zeigte er,
+dass er die Verfehlungen seiner Gedanken bekennen wollte\.
+Und indem er sagte:
+„Ich sprach:
+‚Ich werde bekennen‘[^bible-b15fdb4d-1ea3-4858-a00e-9e812e38880d] “,
+und sogleich hinzufügte:
+„Und du hast vergeben[^bible-b15fdb4d-1ea3-4858-a00e-9e812e38880d] “,
+zeigte er,
+wie leicht hierfür Vergebung gewährt wird\.
+Noch während er erst versprach,
+um Vergebung zu bitten,
+erhielt er bereits,
+worum er zu bitten versprach:
+Weil die Schuld nicht bis zur Tat gelangt war,
+sollte auch die Reue nicht bis zur quälenden Pein reichen;
+vielmehr sollte die innere Betrübnis den Geist reinigen,
+den ja nur das im Denken begangene Unrecht befleckt hatte\.
 
 ## Bibelverweise
 

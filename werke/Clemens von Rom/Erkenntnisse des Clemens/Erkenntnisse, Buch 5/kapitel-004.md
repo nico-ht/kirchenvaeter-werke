@@ -7,6 +7,40 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-5#kapitel-600c3650-9e32-4461-4bdc-08dd123715ec).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0e56358cc89a69cf852db05493bc9f1c364f59cb4ec9ce82c0878c67b7ee7d66`
-
-Aus all diesen Dingen ergibt sich daher, dass alles Übel aus Unwissenheit entspringt; und die Unwissenheit selbst, die Mutter aller Übel, entspringt aus Nachlässigkeit und Faulheit und wird durch Vernachlässigung genährt, vermehrt und in den Sinnen der Menschen verwurzelt\. Wenn jemand lehrt, dass sie vertrieben werden soll, wird sie nur mit Mühe und wiederwillig ausgerissen, wie aus einem alten und vererbten Wohnsitz\. Daher müssen wir uns ein wenig bemühen, um die Annahmen der Unwissenheit zu erforschen und sie durch Wissen abzuschneiden, insbesondere bei denen, die mit falschen Meinungen eingenommen sind, durch die die Unwissenheit in ihnen umso tiefer verwurzelt ist, da sie den Anschein einer bestimmten Art von Wissen hat\. Denn nichts ist schlimmer, als dass jemand glaubt, er wisse, was er nicht weiß, und aufrechterhält, dass das, was falsch ist, wahr sei\. Dies ist, als ob ein Betrunkener sich für nüchtern hielte und in allen Belangen wie ein Betrunkener handelte, während er doch denkt, er sei nüchtern und wünscht, von anderen so genannt zu werden\. So sind auch jene, die nicht wissen, was wahr ist, und dennoch einen Anschein von Wissen haben, und viele böse Dinge tun, als wären sie gut, und zur Zerstörung eilen, als wäre es die Rettung\.
+Aus all diesen Dingen ergibt sich daher,
+dass alles Übel aus Unwissenheit entspringt;
+und die Unwissenheit selbst,
+die Mutter aller Übel,
+entspringt aus Nachlässigkeit und Faulheit und wird durch Vernachlässigung genährt,
+vermehrt und in den Sinnen der Menschen verwurzelt\.
+Wenn jemand lehrt,
+dass sie vertrieben werden soll,
+wird sie nur mit Mühe und wiederwillig ausgerissen,
+wie aus einem alten und vererbten Wohnsitz\.
+Daher müssen wir uns ein wenig bemühen,
+um die Annahmen der Unwissenheit zu erforschen und sie durch Wissen abzuschneiden,
+insbesondere bei denen,
+die mit falschen Meinungen eingenommen sind,
+durch die die Unwissenheit in ihnen umso tiefer verwurzelt ist,
+da sie den Anschein einer bestimmten Art von Wissen hat\.
+Denn nichts ist schlimmer,
+als dass jemand glaubt,
+er wisse,
+was er nicht weiß,
+und aufrechterhält,
+dass das,
+was falsch ist,
+wahr sei\.
+Dies ist,
+als ob ein Betrunkener sich für nüchtern hielte und in allen Belangen wie ein Betrunkener handelte,
+während er doch denkt,
+er sei nüchtern und wünscht,
+von anderen so genannt zu werden\.
+So sind auch jene,
+die nicht wissen,
+was wahr ist,
+und dennoch einen Anschein von Wissen haben,
+und viele böse Dinge tun,
+als wären sie gut,
+und zur Zerstörung eilen,
+als wäre es die Rettung\.

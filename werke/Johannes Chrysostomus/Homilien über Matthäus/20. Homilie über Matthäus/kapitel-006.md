@@ -7,6 +7,73 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/20-homilie-ueber-matthaeus#kapitel-1c05fff0-6e32-4efe-5a8d-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:2b24ab70e3036f31f6db888ccc3d2c1af05d77428558789931f3e9402399f50e`
-
-Denn vieles richtest du auch im gegenwärtigen Leben ein, wovon du selbst keinen Nutzen haben wirst\. Und wenn dich jemand deshalb zur Rede stellt, meinst du, eine hinreichende Tröstung für deine überflüssigen Mühen gefunden zu haben, indem du deine Kinder und deren Kinder vorschiebst\. Denn wenn du im äußersten Alter prächtige Häuser baust, aus denen du oft schon vor ihrer Vollendung fortgehen wirst, wenn du Bäume pflanzt, die erst nach vielen Jahren Frucht tragen werden, wenn du Besitzungen und Landanteile kaufst, über die du erst nach langer Zeit die Herrschaft erlangen wirst, und dich um viele andere solche Dinge abmühst, deren Genuss du nicht ernten wirst: Tust du das etwa für dich selbst oder für die, die nach dir kommen? Wie ist es dann nicht äußerste Dummheit, hier wegen des zeitlichen Aufschubs gar nicht beunruhigt zu sein, obwohl du durch diesen Aufschub den ganzen Lohn deiner Mühen verlieren wirst, dort aber wegen des Aufschubs wie gelähmt zu werden, obwohl er dir größeren Gewinn bringt und die Güter nicht an andere weitergibt, sondern dir selbst die Gaben zuträgt? Abgesehen davon ist auch der Aufschub nicht lang\. Denn die Dinge stehen vor der Tür, und wir wissen nicht, ob nicht vielleicht noch in unserer Generation alles, was uns betrifft, an sein Ende kommt und jener furchtbare Tag erscheint, der uns den schrecklichen und unbestechlichen Richterstuhl zeigt\. Denn die meisten Zeichen sind erfüllt, das Evangelium ist inzwischen überall auf dem Erdkreis verkündet, die Ereignisse der Kriege, der Erdbeben und der Hungersnöte sind eingetroffen, und der Zwischenraum ist nicht mehr groß\. Aber du siehst keine Zeichen? Gerade das ist das größte Zeichen\. Denn auch die Menschen zur Zeit Noahs sahen keine Vorzeichen jenes völligen Verderbens, sondern wurden, während sie spielten, aßen, heirateten und all das Gewohnte taten, so von jenem furchtbaren Gericht überrascht\. Ebenso wurden auch die Menschen in Sodom, während sie in Üppigkeit lebten und nichts von dem ahnten, was geschehen sollte, von den damals herabgeschleuderten Blitzen verbrannt\. Wenn wir das alles bedenken, wollen wir uns also der Vorbereitung auf die Abreise von hier zuwenden\. Denn selbst wenn der gemeinsame Tag der Vollendung niemals heranträte, steht das Ende eines jeden vor der Tür, ob einer alt ist oder jung\. Und wenn wir von hier weggegangen sind, können wir weder Öl kaufen noch, wenn wir darum bitten, Vergebung erlangen, selbst wenn Abraham flehte, oder Noah, oder Hiob, oder Daniel\. Solange wir also Zeit haben, wollen wir uns im Voraus einen großen Vorrat an Freimut anlegen, reichlich Öl sammeln und alles in den Himmel hinüberschaffen, damit wir zur passenden Zeit, gerade dann, wenn wir es am meisten brauchen, alles genießen können, durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus\. Ihm sei die Herrlichkeit und die Macht, jetzt und immerdar und in alle Ewigkeit\. Amen\.
+Denn vieles richtest du auch im gegenwärtigen Leben ein,
+wovon du selbst keinen Nutzen haben wirst\.
+Und wenn dich jemand deshalb zur Rede stellt,
+meinst du,
+eine hinreichende Tröstung für deine überflüssigen Mühen gefunden zu haben,
+indem du deine Kinder und deren Kinder vorschiebst\.
+Denn wenn du im äußersten Alter prächtige Häuser baust,
+aus denen du oft schon vor ihrer Vollendung fortgehen wirst,
+wenn du Bäume pflanzt,
+die erst nach vielen Jahren Frucht tragen werden,
+wenn du Besitzungen und Landanteile kaufst,
+über die du erst nach langer Zeit die Herrschaft erlangen wirst,
+und dich um viele andere solche Dinge abmühst,
+deren Genuss du nicht ernten wirst:
+Tust du das etwa für dich selbst oder für die,
+die nach dir kommen?
+Wie ist es dann nicht äußerste Dummheit,
+hier wegen des zeitlichen Aufschubs gar nicht beunruhigt zu sein,
+obwohl du durch diesen Aufschub den ganzen Lohn deiner Mühen verlieren wirst,
+dort aber wegen des Aufschubs wie gelähmt zu werden,
+obwohl er dir größeren Gewinn bringt und die Güter nicht an andere weitergibt,
+sondern dir selbst die Gaben zuträgt?
+Abgesehen davon ist auch der Aufschub nicht lang\.
+Denn die Dinge stehen vor der Tür,
+und wir wissen nicht,
+ob nicht vielleicht noch in unserer Generation alles,
+was uns betrifft,
+an sein Ende kommt und jener furchtbare Tag erscheint,
+der uns den schrecklichen und unbestechlichen Richterstuhl zeigt\.
+Denn die meisten Zeichen sind erfüllt,
+das Evangelium ist inzwischen überall auf dem Erdkreis verkündet,
+die Ereignisse der Kriege,
+der Erdbeben und der Hungersnöte sind eingetroffen,
+und der Zwischenraum ist nicht mehr groß\.
+Aber du siehst keine Zeichen?
+Gerade das ist das größte Zeichen\.
+Denn auch die Menschen zur Zeit Noahs sahen keine Vorzeichen jenes völligen Verderbens,
+sondern wurden,
+während sie spielten,
+aßen,
+heirateten und all das Gewohnte taten,
+so von jenem furchtbaren Gericht überrascht\.
+Ebenso wurden auch die Menschen in Sodom,
+während sie in Üppigkeit lebten und nichts von dem ahnten,
+was geschehen sollte,
+von den damals herabgeschleuderten Blitzen verbrannt\.
+Wenn wir das alles bedenken,
+wollen wir uns also der Vorbereitung auf die Abreise von hier zuwenden\.
+Denn selbst wenn der gemeinsame Tag der Vollendung niemals heranträte,
+steht das Ende eines jeden vor der Tür,
+ob einer alt ist oder jung\.
+Und wenn wir von hier weggegangen sind,
+können wir weder Öl kaufen noch,
+wenn wir darum bitten,
+Vergebung erlangen,
+selbst wenn Abraham flehte,
+oder Noah,
+oder Hiob,
+oder Daniel\.
+Solange wir also Zeit haben,
+wollen wir uns im Voraus einen großen Vorrat an Freimut anlegen,
+reichlich Öl sammeln und alles in den Himmel hinüberschaffen,
+damit wir zur passenden Zeit,
+gerade dann,
+wenn wir es am meisten brauchen,
+alles genießen können,
+durch die Gnade und Menschenfreundlichkeit unseres Herrn Jesus Christus\.
+Ihm sei die Herrlichkeit und die Macht,
+jetzt und immerdar und in alle Ewigkeit\.
+Amen\.

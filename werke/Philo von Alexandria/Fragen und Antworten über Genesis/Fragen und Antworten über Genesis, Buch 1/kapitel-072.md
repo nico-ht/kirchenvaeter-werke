@@ -7,9 +7,17 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-1#kapitel-98a2af20-36fc-407d-cd62-08dd5e2b9946).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:5aca3e691a60daa983bd30cd44456be831a7452a0448333cc414e885b4972f25`
-
-Was bedeutet der Fluch: „Du sollst auf der Erde seufzen und zittern[^bible-99d98f97-9e00-40bc-9269-41f1bf483a2d]“? Auch dies ist ein allgemeiner Grundsatz; denn bei allen Übeln gibt es manches, das man unmittelbar wahrnimmt, und manches, das man erst später empfindet\. Was in der Zukunft liegt, verursacht Furcht, was aber sofort empfunden wird, bringt Schmerz\.
+Was bedeutet der Fluch:
+„Du sollst auf der Erde seufzen und zittern[^bible-99d98f97-9e00-40bc-9269-41f1bf483a2d]“?
+Auch dies ist ein allgemeiner Grundsatz;
+denn bei allen Übeln gibt es manches,
+das man unmittelbar wahrnimmt,
+und manches,
+das man erst später empfindet\.
+Was in der Zukunft liegt,
+verursacht Furcht,
+was aber sofort empfunden wird,
+bringt Schmerz\.
 
 ## Bibelverweise
 

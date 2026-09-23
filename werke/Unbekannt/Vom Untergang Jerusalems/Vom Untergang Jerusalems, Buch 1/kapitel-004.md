@@ -7,6 +7,11 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-1#kapitel-3e69a832-6529-44c4-c841-08dd5a4d0198).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ad3394fab9b2eb730f89339b035938b13a29eba3a5b32a6e0bb6fe22fd470eff`
-
-Zuerst erfanden sie Dinge, denen Aristobolus keinen Glauben schenkte; aus Zuneigung milderte er die Herabsetzung und schrieb die Schärfe der Anklage der Eifersucht zu\. Deshalb mischten sie Falsches mit Wahrem, damit sie ihn, der sich widersetzte, durch das täuschten, was sie zum Schein der Wahrheit hinzugefügt hatten\.
+Zuerst erfanden sie Dinge,
+denen Aristobolus keinen Glauben schenkte;
+aus Zuneigung milderte er die Herabsetzung und schrieb die Schärfe der Anklage der Eifersucht zu\.
+Deshalb mischten sie Falsches mit Wahrem,
+damit sie ihn,
+der sich widersetzte,
+durch das täuschten,
+was sie zum Schein der Wahrheit hinzugefügt hatten\.

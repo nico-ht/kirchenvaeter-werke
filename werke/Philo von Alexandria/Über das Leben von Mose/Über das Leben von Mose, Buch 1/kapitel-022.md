@@ -7,6 +7,43 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-1#kapitel-e6ef4b96-29ea-475d-487a-08ded87107d6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:b41ca827dd4ea541072eb85e30a074a213c4b25d48aa28e2f1e59dcaca90a6d0`
-
-Solcher Art, so heißt es, waren die Strafen, die durch Mose allein bewirkt wurden: nämlich die Plage von Hagel und Gewittern, die Heuschreckenplage und die Plage der Finsternis, die jede nur denkbare Art von Licht ausschloss\. Danach brachten er selbst und sein Bruder gemeinsam eine weitere Plage herbei, von der ich nun berichten will\. Auf Gottes Befehl nahmen beide Asche aus dem Brennofen in ihre Hände, und Mose seinerseits streute sie in die Luft\. Da erhob sich plötzlich Staub und erzeugte auf der ganzen Haut, bei Menschen wie beim Vieh, eine schreckliche, äußerst schmerzhafte und unheilbare Geschwürbildung; sogleich schwollen ihre Körper von den Pusteln an, überall bedeckt mit Blasen voller Eiter, von denen man hätte meinen können, sie brennten darunter und stünden kurz davor aufzubrechen\. Die Menschen aber wurden, wie es natürlich war, durch das Geschwür und die Entzündung von Schmerz und übermäßiger Qual niedergehalten und litten in ihren Seelen noch mehr als an ihren Körpern, völlig erschöpft vor Angst\. Denn von Kopf bis Fuß war eine einzige große, ununterbrochene Wunde zu sehen, da die Geschwüre, die jeweils einen Teil eines einzelnen Gliedes bedeckten, sich ausbreiteten und zu einem gewaltigen Geschwür ineinanderliefen, bis die Krankheit auf die Fürbitte des Gesetzgebers hin, die er für die Leidenden darbrachte, wieder erträglicher wurde\. Daher gaben die beiden Brüder den Ägyptern in diesem Fall einmütig diese Warnung, und das mit gutem Grund: Der Bruder des Mose wirkte durch den aufsteigenden Staub, da ihm die Aufsicht über das anvertraut war, was aus der Erde hervorgeht; Mose aber wirkte durch die Luft, die so zum Leid der Bewohner verändert wurde, denn seine Dienste waren den Leiden zugeordnet, die durch Luft und Himmel verursacht werden sollten\.
+Solcher Art,
+so heißt es,
+waren die Strafen,
+die durch Mose allein bewirkt wurden:
+nämlich die Plage von Hagel und Gewittern,
+die Heuschreckenplage und die Plage der Finsternis,
+die jede nur denkbare Art von Licht ausschloss\.
+Danach brachten er selbst und sein Bruder gemeinsam eine weitere Plage herbei,
+von der ich nun berichten will\.
+Auf Gottes Befehl nahmen beide Asche aus dem Brennofen in ihre Hände,
+und Mose seinerseits streute sie in die Luft\.
+Da erhob sich plötzlich Staub und erzeugte auf der ganzen Haut,
+bei Menschen wie beim Vieh,
+eine schreckliche,
+äußerst schmerzhafte und unheilbare Geschwürbildung;
+sogleich schwollen ihre Körper von den Pusteln an,
+überall bedeckt mit Blasen voller Eiter,
+von denen man hätte meinen können,
+sie brennten darunter und stünden kurz davor aufzubrechen\.
+Die Menschen aber wurden,
+wie es natürlich war,
+durch das Geschwür und die Entzündung von Schmerz und übermäßiger Qual niedergehalten und litten in ihren Seelen noch mehr als an ihren Körpern,
+völlig erschöpft vor Angst\.
+Denn von Kopf bis Fuß war eine einzige große,
+ununterbrochene Wunde zu sehen,
+da die Geschwüre,
+die jeweils einen Teil eines einzelnen Gliedes bedeckten,
+sich ausbreiteten und zu einem gewaltigen Geschwür ineinanderliefen,
+bis die Krankheit auf die Fürbitte des Gesetzgebers hin,
+die er für die Leidenden darbrachte,
+wieder erträglicher wurde\.
+Daher gaben die beiden Brüder den Ägyptern in diesem Fall einmütig diese Warnung,
+und das mit gutem Grund:
+Der Bruder des Mose wirkte durch den aufsteigenden Staub,
+da ihm die Aufsicht über das anvertraut war,
+was aus der Erde hervorgeht;
+Mose aber wirkte durch die Luft,
+die so zum Leid der Bewohner verändert wurde,
+denn seine Dienste waren den Leiden zugeordnet,
+die durch Luft und Himmel verursacht werden sollten\.

@@ -7,9 +7,154 @@ Autor: Johannes Chrysostomus
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/20-homilie-ueber-matthaeus#kapitel-498325e9-5b6b-49eb-5a8a-08deee7a7bee).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:ab2f8b2d842b5cced1356e87210573f1bfa852e18da64c03af1ad65d68393078`
-
-Zunächst aber bringt er das vor, was sie am stärksten antreiben konnte: dass ihnen der Schatz unverbraucht bleibt\. So zieht er sie von beiden Seiten an sich\. Denn er sagte nicht nur: „Wenn du Almosen gibst, wird er nur bewahrt“, sondern drohte auch mit dem Gegenteil: „Wenn du nicht gibst, geht er verloren\.“ Und sieh seine unaussprechliche Einsicht\. Er sagte nämlich nicht: „Du hinterlässt ihn auch anderen“; denn auch das ist den Menschen angenehm\. Dennoch schreckt er sie von einer anderen Seite her, indem er zeigt, dass ihnen nicht einmal dieses Hinterlassen gelingt\. Denn selbst wenn Menschen kein Unrecht tun, gibt es doch solche, die ganz gewiss Unrecht tun: Motte und Fraß\. Denn auch wenn dieses Verderben sehr leicht zu überwinden scheint, ist es doch unbezwingbar und unaufhaltsam; was immer du dir ausdenkst, du wirst diesen Schaden nicht aufhalten können\. Was also? Zerstört die Motte das Gold? Wenn nicht die Motte, dann doch die Diebe\. Was also? Sind alle beraubt worden? Wenn nicht alle, dann doch die meisten\. Eben deshalb fügt er auch eine weitere Überlegung hinzu, die ich vorweg schon genannt habe, und sagt: „Wo der Schatz des Menschen ist, dort ist auch sein Herz\.[^bible-b4de11b5-70b8-4914-ab48-a53512168416]“ Denn selbst wenn nichts von alledem geschieht, sagt er, wirst du keinen geringen Schaden erleiden: Du wirst an das Irdische festgenagelt sein, aus einem Freien zum Sklaven werden, aus dem Himmlischen herausfallen und an nichts Hohes mehr denken können, sondern nur noch an Geld, Zinsen, Darlehen, Gewinne und unfreie Krämergeschäfte\. Was könnte elender sein als das? Denn ein solcher Mensch wird schlechter dastehen als jeder Sklave: Er zieht sich eine überaus harte Tyrannei zu und verrät das Wichtigste von allem, den Adel des Menschen und seine Freiheit\. Was auch immer jemand mit dir bespricht: Wenn dein Denken ans Geld festgenagelt ist, wirst du nichts von dem hören können, was dich angeht\. Sondern wie ein Hund, der an ein Grab gebunden ist, wirst du durch die Tyrannei des Geldes härter gefesselt als durch jede Kette, bellst jeden an, der sich nähert, und hast unablässig nur diese eine Aufgabe: für andere zu bewachen, was daliegt\. Was könnte elender sein als das? Weil dies aber höher war, als das Denken der Hörer reichte, und weil weder sein Schaden den meisten leicht zu erkennen noch der Gewinn offenkundig war, sondern ein philosophischerer Sinn nötig war, um beides zusammen zu erfassen, setzte er es zwar nach jene klaren Dinge, als er sagte: „Wo der Schatz des Menschen ist, dort ist auch sein Herz\.[^bible-b4de11b5-70b8-4914-ab48-a53512168416]“ Doch macht er es wieder deutlicher, indem er die Rede vom Geistigen zum Sinnlich\-Wahrnehmbaren führt und sagt: „Die Leuchte des Körpers ist das Auge\.[^bible-81096b4f-4411-465d-9044-11f79ddde1cf]“ Was er sagt, bedeutet dies: „Vergrabe kein Gold in der Erde und überhaupt nichts dergleichen\. Denn du sammelst es für Motte, Fraß und Diebe\. Und selbst wenn du diesen Schäden entgehst, wirst du doch nicht entgehen, dass dein Herz versklavt und an alles Irdische festgenagelt wird\. Denn wo der Schatz ist, dort ist auch dein Herz\.[^bible-b4de11b5-70b8-4914-ab48-a53512168416]“ Wenn du ihn also im Himmel hinterlegst, erntest du nicht nur dies, dass du die dafür verheißenen Belohnungen empfängst, sondern du erhältst schon von hier aus deinen Lohn: Du wirst dorthin versetzt, richtest deine Gedanken auf das, was dort ist, und sorgst dich um das, was dort ist\. Denn wo du den Schatz niedergelegt hast, dorthin versetzt du offensichtlich auch dein Denken\. Wenn du dies aber auf der Erde tust, wird dir das Gegenteil widerfahren\. Wenn dir das Gesagte unklar ist, höre auf das Folgende: „Die Leuchte des Körpers ist das Auge\. Wenn nun dein Auge einfach ist, wird dein ganzer Körper hell sein; wenn aber dein Auge böse ist, wird dein ganzer Körper dunkel sein\. Wenn aber das Licht in dir Finsternis ist, wie groß ist dann die Finsternis\.[^bible-893c56c0-8b53-4677-94cb-9af5fbc4846e]“ Er führt die Rede zu dem, was sinnlicher fassbar ist\. Weil er nämlich den Geist erwähnt hatte, wie er versklavt und gefangen genommen wird, dies aber für viele nicht leicht zu erkennen war, verlegt er die Unterweisung auf das Äußere, das vor Augen liegt, damit sie von diesem her auch jenes begreifen\. „Wenn du nämlich nicht weißt“, sagt er, „was der Schaden des Geistes ist, dann lerne es an den körperlichen Dingen\. Denn was das Auge für den Körper ist, das ist der Geist für die Seele\.“ Wie du also nicht wählen würdest, Gold zu tragen und seidene Gewänder anzuhaben, während deine Augen geschädigt sind, sondern die Gesundheit der Augen für begehrenswerter hältst als jeden solchen Überfluss, denn wenn du sie verlierst und zerstörst, nützt dir das übrige Leben nichts; denn wie, wenn die Augen blind geworden sind, ein großer Teil der Tätigkeit der übrigen Glieder dahinschwindet, weil ihnen das Licht erloschen ist, so wird auch dein Leben, wenn das Denken verdorben ist, mit unzähligen Übeln erfüllt werden\. Wie wir also beim Körper darauf achten, ein gesundes Auge zu haben, so müssen wir bei der Seele auf den Geist achten\. Wenn wir aber diesen blenden, der doch auch den anderen das Licht geben soll, wodurch werden wir dann noch klar sehen? Denn wie einer, der die Quelle beseitigt, auch den Fluss austrocknet, so hat einer, der den Geist vernichtet, sein ganzes Handeln in diesem Leben getrübt\. Deshalb sagt er: „Wenn das Licht in dir Finsternis ist, wie groß ist dann die Finsternis?[^bible-be9a754d-7dfc-4713-9bec-20e4a14e6c83]“ Denn wenn der Steuermann versinkt, die Leuchte erlischt und der Anführer gefangen genommen wird: Welche Hoffnung bleibt dann noch den Untergebenen?
+Zunächst aber bringt er das vor,
+was sie am stärksten antreiben konnte:
+dass ihnen der Schatz unverbraucht bleibt\.
+So zieht er sie von beiden Seiten an sich\.
+Denn er sagte nicht nur:
+„Wenn du Almosen gibst,
+wird er nur bewahrt“,
+sondern drohte auch mit dem Gegenteil:
+„Wenn du nicht gibst,
+geht er verloren\.“
+Und sieh seine unaussprechliche Einsicht\.
+Er sagte nämlich nicht:
+„Du hinterlässt ihn auch anderen“;
+denn auch das ist den Menschen angenehm\.
+Dennoch schreckt er sie von einer anderen Seite her,
+indem er zeigt,
+dass ihnen nicht einmal dieses Hinterlassen gelingt\.
+Denn selbst wenn Menschen kein Unrecht tun,
+gibt es doch solche,
+die ganz gewiss Unrecht tun:
+Motte und Fraß\.
+Denn auch wenn dieses Verderben sehr leicht zu überwinden scheint,
+ist es doch unbezwingbar und unaufhaltsam;
+was immer du dir ausdenkst,
+du wirst diesen Schaden nicht aufhalten können\.
+Was also?
+Zerstört die Motte das Gold?
+Wenn nicht die Motte,
+dann doch die Diebe\.
+Was also?
+Sind alle beraubt worden?
+Wenn nicht alle,
+dann doch die meisten\.
+Eben deshalb fügt er auch eine weitere Überlegung hinzu,
+die ich vorweg schon genannt habe,
+und sagt:
+„Wo der Schatz des Menschen ist,
+dort ist auch sein Herz\.[^bible-b4de11b5-70b8-4914-ab48-a53512168416]“ Denn selbst wenn nichts von alledem geschieht,
+sagt er,
+wirst du keinen geringen Schaden erleiden:
+Du wirst an das Irdische festgenagelt sein,
+aus einem Freien zum Sklaven werden,
+aus dem Himmlischen herausfallen und an nichts Hohes mehr denken können,
+sondern nur noch an Geld,
+Zinsen,
+Darlehen,
+Gewinne und unfreie Krämergeschäfte\.
+Was könnte elender sein als das?
+Denn ein solcher Mensch wird schlechter dastehen als jeder Sklave:
+Er zieht sich eine überaus harte Tyrannei zu und verrät das Wichtigste von allem,
+den Adel des Menschen und seine Freiheit\.
+Was auch immer jemand mit dir bespricht:
+Wenn dein Denken ans Geld festgenagelt ist,
+wirst du nichts von dem hören können,
+was dich angeht\.
+Sondern wie ein Hund,
+der an ein Grab gebunden ist,
+wirst du durch die Tyrannei des Geldes härter gefesselt als durch jede Kette,
+bellst jeden an,
+der sich nähert,
+und hast unablässig nur diese eine Aufgabe:
+für andere zu bewachen,
+was daliegt\.
+Was könnte elender sein als das?
+Weil dies aber höher war,
+als das Denken der Hörer reichte,
+und weil weder sein Schaden den meisten leicht zu erkennen noch der Gewinn offenkundig war,
+sondern ein philosophischerer Sinn nötig war,
+um beides zusammen zu erfassen,
+setzte er es zwar nach jene klaren Dinge,
+als er sagte:
+„Wo der Schatz des Menschen ist,
+dort ist auch sein Herz\.[^bible-b4de11b5-70b8-4914-ab48-a53512168416]“ Doch macht er es wieder deutlicher,
+indem er die Rede vom Geistigen zum Sinnlich\-Wahrnehmbaren führt und sagt:
+„Die Leuchte des Körpers ist das Auge\.[^bible-81096b4f-4411-465d-9044-11f79ddde1cf]“ Was er sagt,
+bedeutet dies:
+„Vergrabe kein Gold in der Erde und überhaupt nichts dergleichen\.
+Denn du sammelst es für Motte,
+Fraß und Diebe\.
+Und selbst wenn du diesen Schäden entgehst,
+wirst du doch nicht entgehen,
+dass dein Herz versklavt und an alles Irdische festgenagelt wird\.
+Denn wo der Schatz ist,
+dort ist auch dein Herz\.[^bible-b4de11b5-70b8-4914-ab48-a53512168416]“ Wenn du ihn also im Himmel hinterlegst,
+erntest du nicht nur dies,
+dass du die dafür verheißenen Belohnungen empfängst,
+sondern du erhältst schon von hier aus deinen Lohn:
+Du wirst dorthin versetzt,
+richtest deine Gedanken auf das,
+was dort ist,
+und sorgst dich um das,
+was dort ist\.
+Denn wo du den Schatz niedergelegt hast,
+dorthin versetzt du offensichtlich auch dein Denken\.
+Wenn du dies aber auf der Erde tust,
+wird dir das Gegenteil widerfahren\.
+Wenn dir das Gesagte unklar ist,
+höre auf das Folgende:
+„Die Leuchte des Körpers ist das Auge\.
+Wenn nun dein Auge einfach ist,
+wird dein ganzer Körper hell sein;
+wenn aber dein Auge böse ist,
+wird dein ganzer Körper dunkel sein\.
+Wenn aber das Licht in dir Finsternis ist,
+wie groß ist dann die Finsternis\.[^bible-893c56c0-8b53-4677-94cb-9af5fbc4846e]“ Er führt die Rede zu dem,
+was sinnlicher fassbar ist\.
+Weil er nämlich den Geist erwähnt hatte,
+wie er versklavt und gefangen genommen wird,
+dies aber für viele nicht leicht zu erkennen war,
+verlegt er die Unterweisung auf das Äußere,
+das vor Augen liegt,
+damit sie von diesem her auch jenes begreifen\.
+„Wenn du nämlich nicht weißt“,
+sagt er,
+„was der Schaden des Geistes ist,
+dann lerne es an den körperlichen Dingen\.
+Denn was das Auge für den Körper ist,
+das ist der Geist für die Seele\.“
+Wie du also nicht wählen würdest,
+Gold zu tragen und seidene Gewänder anzuhaben,
+während deine Augen geschädigt sind,
+sondern die Gesundheit der Augen für begehrenswerter hältst als jeden solchen Überfluss,
+denn wenn du sie verlierst und zerstörst,
+nützt dir das übrige Leben nichts;
+denn wie,
+wenn die Augen blind geworden sind,
+ein großer Teil der Tätigkeit der übrigen Glieder dahinschwindet,
+weil ihnen das Licht erloschen ist,
+so wird auch dein Leben,
+wenn das Denken verdorben ist,
+mit unzähligen Übeln erfüllt werden\.
+Wie wir also beim Körper darauf achten,
+ein gesundes Auge zu haben,
+so müssen wir bei der Seele auf den Geist achten\.
+Wenn wir aber diesen blenden,
+der doch auch den anderen das Licht geben soll,
+wodurch werden wir dann noch klar sehen?
+Denn wie einer,
+der die Quelle beseitigt,
+auch den Fluss austrocknet,
+so hat einer,
+der den Geist vernichtet,
+sein ganzes Handeln in diesem Leben getrübt\.
+Deshalb sagt er:
+„Wenn das Licht in dir Finsternis ist,
+wie groß ist dann die Finsternis?[^bible-be9a754d-7dfc-4713-9bec-20e4a14e6c83]“ Denn wenn der Steuermann versinkt,
+die Leuchte erlischt und der Anführer gefangen genommen wird:
+Welche Hoffnung bleibt dann noch den Untergebenen?
 
 ## Bibelverweise
 

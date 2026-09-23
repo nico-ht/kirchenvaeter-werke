@@ -7,9 +7,24 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-ac370ec6-94f8-4028-3236-08debf1e7015).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:071d4ee3d71e242bc671608a8625fb75bff7d8ce87f0f157487acf2a33517853`
-
-So hat also das Wort Gottes in allem den Vorrang; denn er ist wahrer Mensch und wunderbarer Ratgeber und starker Gott[^bible-e64b7509-a2cd-4578-89af-086e9acb44f8]; er ruft die Menschen von Neuem zur Gemeinschaft mit Gott, damit wir durch die Gemeinschaft mit ihm an der Unvergänglichkeit teilhaben\. Er also, der durch das Gesetz vermittels Mose und durch die Propheten des höchsten und allmächtigen Gottes als Sohn des Vaters aller verkündet wurde; er, von dem alle Dinge sind[^bible-f4230437-206d-470a-8c38-699ec2c0832f], er, der mit Mose sprach: Er kam nach Judäa, von Gott durch den Heiligen Geist gezeugt und von der Jungfrau Maria geboren, eben von ihr, die aus dem Samen Davids und Abrahams[^bible-162c885d-affa-4a3a-85a3-5ac0f64a6705] war, Jesus, der Gesalbte Gottes, und zeigte sich als der Eine, der von den Propheten im Voraus verkündet worden war\.
+So hat also das Wort Gottes in allem den Vorrang;
+denn er ist wahrer Mensch und wunderbarer Ratgeber und starker Gott[^bible-e64b7509-a2cd-4578-89af-086e9acb44f8];
+er ruft die Menschen von Neuem zur Gemeinschaft mit Gott,
+damit wir durch die Gemeinschaft mit ihm an der Unvergänglichkeit teilhaben\.
+Er also,
+der durch das Gesetz vermittels Mose und durch die Propheten des höchsten und allmächtigen Gottes als Sohn des Vaters aller verkündet wurde;
+er,
+von dem alle Dinge sind[^bible-f4230437-206d-470a-8c38-699ec2c0832f],
+er,
+der mit Mose sprach:
+Er kam nach Judäa,
+von Gott durch den Heiligen Geist gezeugt und von der Jungfrau Maria geboren,
+eben von ihr,
+die aus dem Samen Davids und Abrahams[^bible-162c885d-affa-4a3a-85a3-5ac0f64a6705] war,
+Jesus,
+der Gesalbte Gottes,
+und zeigte sich als der Eine,
+der von den Propheten im Voraus verkündet worden war\.
 
 ## Bibelverweise
 

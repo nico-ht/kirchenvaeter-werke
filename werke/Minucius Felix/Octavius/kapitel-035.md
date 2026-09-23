@@ -7,6 +7,47 @@ Autor: Minucius Felix
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/minucius-felix/octavius#kapitel-fc6745e5-d538-4ff8-3748-08df04f3eaa6).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:c84a40dff7cc6013faed71e6af15440b77334c5a9fe8017a1015376c88c1bb89`
-
-Und doch werden die Menschen in den Büchern und Gedichten der gelehrtesten Dichter vor jenem Feuerstrom und vor der Glut gewarnt, die sich in vielfachen Windungen aus dem stygischen Sumpf ergießt\. Diese Dinge sind zu ewigen Qualen bereitet; die Dichter erfuhren davon durch die Dämonen und die Orakel ihrer Propheten und haben sie uns überliefert\. Deshalb schwört bei ihnen sogar König Jupiter selbst ehrfürchtig bei den versengenden Ufern und dem schwarzen Abgrund; denn im Vorauswissen um die Strafe, die ihm samt seinen Anbetern bestimmt ist, schaudert er davor\. Diese Qualen kennen weder Maß noch Ende\. Dort brennt ein Feuer, das die Glieder gezielt versehrt und wiederherstellt, von ihnen zehrt und sie zugleich nährt\. Wie das Feuer der Blitze die Körper trifft, ohne sie zu vernichten; wie die Feuer des Ätna und des Vesuvs und die Feuer überall brennender Landstriche glühen, ohne sich zu verzehren: So wird auch das strafende Feuer nicht vom Verfall der Brennenden gespeist, sondern durch das fortwährende Aufzehren ihrer Körper, ohne sie je zu erschöpfen genährt\. Dass diejenigen, die Gott nicht kennen, als Gottlose und Ungerechte verdientermaßen gequält werden, bezweifelt nur ein Frevler; denn es ist nicht weniger böse, den Vater aller und den Herrn aller nicht zu kennen, als sich an ihm zu versündigen\. Obwohl schon die Unkenntnis Gottes zur Bestrafung genügt, wie die Erkenntnis Gottes zur Vergebung verhilft, werden wir Christen uns doch als weit besser erweisen als ihr, wenn man uns mit euch vergleicht, auch wenn unsere Lebensordnung in mancher Hinsicht unterlegen ist\. Ihr verbietet Ehebruch und begeht ihn dennoch; wir Männer sind allein für unsere eigenen Frauen geboren\. Ihr bestraft Verbrechen, wenn sie begangen werden; bei uns ist schon der Gedanke an ein Verbrechen Sünde\. Ihr fürchtet diejenigen, die von euren Taten wissen; wir fürchten sogar unser eigenes Gewissen allein, ohne das wir nicht leben können\. Schließlich quellen die Gefängnisse von Menschen aus euren Reihen über; dort findet sich jedoch kein Christ, es sei denn, er ist wegen seiner Religion angeklagt oder ein Abtrünniger\.
+Und doch werden die Menschen in den Büchern und Gedichten der gelehrtesten Dichter vor jenem Feuerstrom und vor der Glut gewarnt,
+die sich in vielfachen Windungen aus dem stygischen Sumpf ergießt\.
+Diese Dinge sind zu ewigen Qualen bereitet;
+die Dichter erfuhren davon durch die Dämonen und die Orakel ihrer Propheten und haben sie uns überliefert\.
+Deshalb schwört bei ihnen sogar König Jupiter selbst ehrfürchtig bei den versengenden Ufern und dem schwarzen Abgrund;
+denn im Vorauswissen um die Strafe,
+die ihm samt seinen Anbetern bestimmt ist,
+schaudert er davor\.
+Diese Qualen kennen weder Maß noch Ende\.
+Dort brennt ein Feuer,
+das die Glieder gezielt versehrt und wiederherstellt,
+von ihnen zehrt und sie zugleich nährt\.
+Wie das Feuer der Blitze die Körper trifft,
+ohne sie zu vernichten;
+wie die Feuer des Ätna und des Vesuvs und die Feuer überall brennender Landstriche glühen,
+ohne sich zu verzehren:
+So wird auch das strafende Feuer nicht vom Verfall der Brennenden gespeist,
+sondern durch das fortwährende Aufzehren ihrer Körper,
+ohne sie je zu erschöpfen genährt\.
+Dass diejenigen,
+die Gott nicht kennen,
+als Gottlose und Ungerechte verdientermaßen gequält werden,
+bezweifelt nur ein Frevler;
+denn es ist nicht weniger böse,
+den Vater aller und den Herrn aller nicht zu kennen,
+als sich an ihm zu versündigen\.
+Obwohl schon die Unkenntnis Gottes zur Bestrafung genügt,
+wie die Erkenntnis Gottes zur Vergebung verhilft,
+werden wir Christen uns doch als weit besser erweisen als ihr,
+wenn man uns mit euch vergleicht,
+auch wenn unsere Lebensordnung in mancher Hinsicht unterlegen ist\.
+Ihr verbietet Ehebruch und begeht ihn dennoch;
+wir Männer sind allein für unsere eigenen Frauen geboren\.
+Ihr bestraft Verbrechen,
+wenn sie begangen werden;
+bei uns ist schon der Gedanke an ein Verbrechen Sünde\.
+Ihr fürchtet diejenigen,
+die von euren Taten wissen;
+wir fürchten sogar unser eigenes Gewissen allein,
+ohne das wir nicht leben können\.
+Schließlich quellen die Gefängnisse von Menschen aus euren Reihen über;
+dort findet sich jedoch kein Christ,
+es sei denn,
+er ist wegen seiner Religion angeklagt oder ein Abtrünniger\.

@@ -7,6 +7,46 @@ Autor: Athenagoras von Athen
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athenagoras/ueber-die-auferstehung-der-toten#kapitel-c16897c2-daf2-43a5-a905-08df134d0b15).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:023a91888080de81f9817f2bb172c8a27d42b22225a9e77f1e64c9b6da9e4e86`
-
-Aber auch die Glückseligkeit einer vom Körper getrennten Seele ist nicht das Ziel\. Denn wir untersuchten nicht das Leben oder das Ziel eines der beiden Bestandteile, aus denen der Mensch besteht, sondern des aus beiden zusammengesetzten Ganzen\. Denn so beschaffen ist jeder Mensch, dem dieses Leben zuteilgeworden ist, und für sein Leben muss es ein ihm eigenes Ziel geben\. Wenn aber das Ziel dem Ganzen aus beiden gilt und sich dieses weder erreichen lässt, solange die Menschen noch dieses Leben führen, noch wenn die Seele vom Körper getrennt ist \(im ersten Fall aus den schon oft genannten Gründen, im zweiten, weil der so beschaffene Mensch nicht mehr als Ganzes besteht, wenn der Körper zerfallen oder sogar gänzlich zerstreut ist, auch wenn die Seele für sich fortbesteht\), so muss sich zwangsläufig das Ziel der Menschen zeigen, wenn das Ganze aus beiden und damit dasselbe Lebewesen erneut zusammengesetzt wird\. Da dies notwendig daraus folgt, müssen in jedem Fall die toten oder sogar gänzlich zerfallenen Körper auferstehen und dieselben Menschen wieder als Ganzes entstehen\. Denn das Gesetz der Natur setzt das Ziel nicht allgemein und nicht für beliebige Menschen, sondern für genau diejenigen, die zuvor ihr Leben geführt haben\. Dieselben Menschen können aber unmöglich wieder als Ganzes entstehen, wenn nicht dieselben Körper denselben Seelen zurückgegeben werden\. Dass dieselbe Seele von demselben Körper wiedererlangt wird, ist aber auf andere Weise unmöglich und nur durch die Auferstehung möglich\. Denn wenn diese geschieht, folgt auch das Ziel, das der Natur der Menschen entspricht\. Man würde sich nicht irren, wenn man als Ziel eines vernunftgeleiteten Lebens und vernünftiger Urteilskraft Folgendes bezeichnete: ohne Ablenkung auf ewig verbunden zu bleiben mit dem, worauf die natürliche Vernunft vor allem und ursprünglich abgestimmt ist, und sich unablässig an der Betrachtung dessen, der diese Vernunft gegeben hat, und seiner Beschlüsse zu erfreuen\. Das gilt, auch wenn die meisten Menschen zu leidenschaftlich und zu heftig an den Dingen dieser Welt hängen und dieses Ziel fortwährend verfehlen\. Denn die große Zahl derer, die das ihnen zugedachte Ziel verfehlen, hebt die gemeinsame Bestimmung nicht auf\. Denn die Beurteilung dieser Fälle und die Ehre oder Strafe, die jedem für sein gutes oder schlechtes Leben zugemessen wird, sind gesondert zu betrachten\.
+Aber auch die Glückseligkeit einer vom Körper getrennten Seele ist nicht das Ziel\.
+Denn wir untersuchten nicht das Leben oder das Ziel eines der beiden Bestandteile,
+aus denen der Mensch besteht,
+sondern des aus beiden zusammengesetzten Ganzen\.
+Denn so beschaffen ist jeder Mensch,
+dem dieses Leben zuteilgeworden ist,
+und für sein Leben muss es ein ihm eigenes Ziel geben\.
+Wenn aber das Ziel dem Ganzen aus beiden gilt und sich dieses weder erreichen lässt,
+solange die Menschen noch dieses Leben führen,
+noch wenn die Seele vom Körper getrennt ist \(im ersten Fall aus den schon oft genannten Gründen,
+im zweiten,
+weil der so beschaffene Mensch nicht mehr als Ganzes besteht,
+wenn der Körper zerfallen oder sogar gänzlich zerstreut ist,
+auch wenn die Seele für sich fortbesteht\),
+so muss sich zwangsläufig das Ziel der Menschen zeigen,
+wenn das Ganze aus beiden und damit dasselbe Lebewesen erneut zusammengesetzt wird\.
+Da dies notwendig daraus folgt,
+müssen in jedem Fall die toten oder sogar gänzlich zerfallenen Körper auferstehen und dieselben Menschen wieder als Ganzes entstehen\.
+Denn das Gesetz der Natur setzt das Ziel nicht allgemein und nicht für beliebige Menschen,
+sondern für genau diejenigen,
+die zuvor ihr Leben geführt haben\.
+Dieselben Menschen können aber unmöglich wieder als Ganzes entstehen,
+wenn nicht dieselben Körper denselben Seelen zurückgegeben werden\.
+Dass dieselbe Seele von demselben Körper wiedererlangt wird,
+ist aber auf andere Weise unmöglich und nur durch die Auferstehung möglich\.
+Denn wenn diese geschieht,
+folgt auch das Ziel,
+das der Natur der Menschen entspricht\.
+Man würde sich nicht irren,
+wenn man als Ziel eines vernunftgeleiteten Lebens und vernünftiger Urteilskraft Folgendes bezeichnete:
+ohne Ablenkung auf ewig verbunden zu bleiben mit dem,
+worauf die natürliche Vernunft vor allem und ursprünglich abgestimmt ist,
+und sich unablässig an der Betrachtung dessen,
+der diese Vernunft gegeben hat,
+und seiner Beschlüsse zu erfreuen\.
+Das gilt,
+auch wenn die meisten Menschen zu leidenschaftlich und zu heftig an den Dingen dieser Welt hängen und dieses Ziel fortwährend verfehlen\.
+Denn die große Zahl derer,
+die das ihnen zugedachte Ziel verfehlen,
+hebt die gemeinsame Bestimmung nicht auf\.
+Denn die Beurteilung dieser Fälle und die Ehre oder Strafe,
+die jedem für sein gutes oder schlechtes Leben zugemessen wird,
+sind gesondert zu betrachten\.

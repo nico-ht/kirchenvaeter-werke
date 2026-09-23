@@ -7,9 +7,151 @@ Autor: Lucifer von Calaris
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/lucifer-von-calaris/niemand-darf-in-abwesenheit-gerichtet-oder-verurteilt-werden-buch-1#kapitel-307e26fc-dac8-4b24-68b3-08ded9b64703).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:97cdb308a2e5ef715c43778b97cfbe7ce3d1c7a44faace9436b6f0718ebb0c20`
-
-Auch in deiner ausgezeichneten Tat bist du wiederum zu Recht mit dem Hund zu vergleichen, der zu seinem Erbrochenen zurückgekehrt ist: Denn du hattest angenommen, dass es wahr sei, Adoxius von den Germanicensiern sei nicht katholisch, und hattest gegen ihn Briefe an die Antiochener gegeben; später aber begannst du eben diesen Adoxius als Lehrer der Wahrheit zu verteidigen und seine Häresie als katholischen Glauben zu beanspruchen\. Warum, Constantius, bist du so wankelmütig? Weshalb beugst du dich in der Sache des Glaubens wie ein Rohr, das von den Winden hin und her getrieben wird? Was Wunder, wenn du so leicht dazu bereit warst, auch alle Priester Gottes zur Verurteilung des Athanasius einzuladen, da du ja nicht einmal in der Ordnung der Religion zögerst, durch deine Verwegenheit so Großes zu unternehmen? Du bist entbrannt, das Blut eines Unschuldigen zu vergießen, frömmster König, als hättest du nicht daran gedacht, dass geschrieben steht: „Wenn ein König die Armen in Wahrheit richtet, wird sein Thron zum Zeugnis bestehen[^bible-cf9e3091-e5d7-4c74-aa2c-070dbe20d83b]\.“ Du aber meintest, darin seist du der Größte, wenn du gegen die göttlichen Schriften angingest, wenn du alles tätest, was sie verbieten\. Du hasst Athanasius, weil er Christ ist; weil er nicht, wie du sagst, ein Schüler des Arius sein wollte, verfolgst du ihn mit äußerstem Hass\. Doch dass du dich gegen ihn einmal so verhalten würdest, hatte der Heilige Geist längst durch den Mund Salomos gezeigt, als er sagte: „Ein gerechter Mann ist dem Ungerechten ein Gräuel[^bible-4868e681-0047-436f-ad88-87b5f15c177c]\.“ Verweile, Constantius, nicht länger bei diesen Übeln; missbrauche Gottes Geduld nicht, sondern halte fest, was im siebenundsiebzigsten Psalm geschrieben steht: „Da erwachte der Herr wie ein Schlafender, wie ein Starker, vom Wein berauscht, und schlug alle seine Feinde auf den Rücken; ewige Schmach gab er ihnen[^bible-ea3d3e9e-54fd-4211-ae3b-7b6f83693a89]\.“ Im einundachtzigsten Psalm sagt der Heilige Geist: „Wie lange richtet ihr Unrecht und nehmt die Gesichter der Sünder an? Richtet die Waise und den Bedürftigen, rechtfertigt den Geringen und Armen\. Entreißt den Armen und Bedürftigen, befreit ihn aus der Hand des Sünders[^bible-a87f7be6-e6d6-43d5-9bf4-ce051e553652]\.“ Du aber sagst: „Tötet mich zugleich mit dem, der Gott geweiht ist“, und willst, dass wir dich zu denen zählen, von denen gesagt wird: „Sie haben nicht erkannt und nicht verstanden; in Finsternis gehen sie umher[^bible-bcf22b09-a7e4-47ef-9d3a-5c481f63c056]\.“ Gott gebietet, dass wir kein ungerechtes Urteil fällen, dass wir aus Furcht vor deinem Gesicht, dem eines Sünders, nicht zulassen, dass du den bestrafst, den du ungerecht verfolgst\. Gott hat geboten, dass der Geringe von uns gerechtfertigt, der Arme und Bedürftige aus deiner Hand, der Hand eines Henkers, entrissen und befreit werde\. Und du sagst: „Verurteilt den, den Gott aus meiner Hand, der Hand des Sünders, herausreißen wollte\.“ Kein Wunder; denn du konntest ja nicht gegen deine verabscheuungswürdigen Anordnungen handeln\. Der Heilige Geist sagt im sechsundneunzigsten Psalm: „Die ihr den Herrn liebt, hasst das Böse[^bible-a5b77d31-6f32-4af3-bfd8-026942b4d73a]“, und deine Befehle zeigen, dass du sagst: „Liebt, was böse ist\.“ Wenn es nämlich vor Gott als böse gilt, einen Unschuldigen zu verurteilen, gegen einen Abwesenden, und zwar gegen einen gerechten Mann, ein Urteil zu sprechen, was anderes zwingst du uns dann zu tun als das, was Gott hasst? Wenn wir also täten, was Gott hasst, gehörten wir gewiss nicht zu denen, an die gesagt wird: „Die ihr den Herrn liebt, hasst das Böse[^bible-a5b77d31-6f32-4af3-bfd8-026942b4d73a]\.“ Du hasst das Böse deshalb nicht, weil du den Herrn nicht liebst; wir aber wollen deshalb nicht tun, was Gott hasst, weil wir ihn lieben\. Du tust dies, weil du nicht Diener dessen bist, dessen Furcht und Liebe uns dazu drängen, das Böse zu hassen\. Denn du wirst in der Kirche des Herrn nicht als Verfolger seiner Kirche befunden, sodass du meinen könntest, der Prophet habe im Psalm zu euch gesagt: „Die ihr den Herrn liebt, hasst das Böse[^bible-a5b77d31-6f32-4af3-bfd8-026942b4d73a]“, zumal er auch im hundertsten sagt: „Inmitten meines Hauses wohnt nicht, wer Hochmut übt; wer Unrecht spricht, bestand nicht vor meinen Augen[^bible-3143fa65-27b1-462e-a1fd-57d71c27e8da]\.“ Es wird also nicht zu euch gesagt, die ihr draußen steht, sondern zu uns: „Die ihr den Herrn liebt, hasst das Böse[^bible-a5b77d31-6f32-4af3-bfd8-026942b4d73a]\.“ Wir hassen schließlich das Böse, das ihr deshalb liebt, weil ihr nicht in der Kirche Gottes seid\. Wie könntest du denn behaupten, in der Kirche Gottes zu sein, du Mensch, der du nicht nur die Kirche verfolgst, sondern auch den verleugnest, der die Kirche gegründet hat? Oder bist du nicht hochmütig, und wirst du im Haus des Herrn wohnen können, solange du in dieser Überheblichkeit verharrst? Wer nämlich könnte mit Recht hochmütig genannt werden, wenn du als demütig gelten könntest, der du sagst: „Verurteilt gegen die göttlichen Gebote den Unschuldigen, tretet die Gebote Gottes mit Füßen, haltet die meinen\!“
+Auch in deiner ausgezeichneten Tat bist du wiederum zu Recht mit dem Hund zu vergleichen,
+der zu seinem Erbrochenen zurückgekehrt ist:
+Denn du hattest angenommen,
+dass es wahr sei,
+Adoxius von den Germanicensiern sei nicht katholisch,
+und hattest gegen ihn Briefe an die Antiochener gegeben;
+später aber begannst du eben diesen Adoxius als Lehrer der Wahrheit zu verteidigen und seine Häresie als katholischen Glauben zu beanspruchen\.
+Warum,
+Constantius,
+bist du so wankelmütig?
+Weshalb beugst du dich in der Sache des Glaubens wie ein Rohr,
+das von den Winden hin und her getrieben wird?
+Was Wunder,
+wenn du so leicht dazu bereit warst,
+auch alle Priester Gottes zur Verurteilung des Athanasius einzuladen,
+da du ja nicht einmal in der Ordnung der Religion zögerst,
+durch deine Verwegenheit so Großes zu unternehmen?
+Du bist entbrannt,
+das Blut eines Unschuldigen zu vergießen,
+frömmster König,
+als hättest du nicht daran gedacht,
+dass geschrieben steht:
+„Wenn ein König die Armen in Wahrheit richtet,
+wird sein Thron zum Zeugnis bestehen[^bible-cf9e3091-e5d7-4c74-aa2c-070dbe20d83b]\.“
+Du aber meintest,
+darin seist du der Größte,
+wenn du gegen die göttlichen Schriften angingest,
+wenn du alles tätest,
+was sie verbieten\.
+Du hasst Athanasius,
+weil er Christ ist;
+weil er nicht,
+wie du sagst,
+ein Schüler des Arius sein wollte,
+verfolgst du ihn mit äußerstem Hass\.
+Doch dass du dich gegen ihn einmal so verhalten würdest,
+hatte der Heilige Geist längst durch den Mund Salomos gezeigt,
+als er sagte:
+„Ein gerechter Mann ist dem Ungerechten ein Gräuel[^bible-4868e681-0047-436f-ad88-87b5f15c177c]\.“
+Verweile,
+Constantius,
+nicht länger bei diesen Übeln;
+missbrauche Gottes Geduld nicht,
+sondern halte fest,
+was im siebenundsiebzigsten Psalm geschrieben steht:
+„Da erwachte der Herr wie ein Schlafender,
+wie ein Starker,
+vom Wein berauscht,
+und schlug alle seine Feinde auf den Rücken;
+ewige Schmach gab er ihnen[^bible-ea3d3e9e-54fd-4211-ae3b-7b6f83693a89]\.“
+Im einundachtzigsten Psalm sagt der Heilige Geist:
+„Wie lange richtet ihr Unrecht und nehmt die Gesichter der Sünder an?
+Richtet die Waise und den Bedürftigen,
+rechtfertigt den Geringen und Armen\.
+Entreißt den Armen und Bedürftigen,
+befreit ihn aus der Hand des Sünders[^bible-a87f7be6-e6d6-43d5-9bf4-ce051e553652]\.“
+Du aber sagst:
+„Tötet mich zugleich mit dem,
+der Gott geweiht ist“,
+und willst,
+dass wir dich zu denen zählen,
+von denen gesagt wird:
+„Sie haben nicht erkannt und nicht verstanden;
+in Finsternis gehen sie umher[^bible-bcf22b09-a7e4-47ef-9d3a-5c481f63c056]\.“
+Gott gebietet,
+dass wir kein ungerechtes Urteil fällen,
+dass wir aus Furcht vor deinem Gesicht,
+dem eines Sünders,
+nicht zulassen,
+dass du den bestrafst,
+den du ungerecht verfolgst\.
+Gott hat geboten,
+dass der Geringe von uns gerechtfertigt,
+der Arme und Bedürftige aus deiner Hand,
+der Hand eines Henkers,
+entrissen und befreit werde\.
+Und du sagst:
+„Verurteilt den,
+den Gott aus meiner Hand,
+der Hand des Sünders,
+herausreißen wollte\.“
+Kein Wunder;
+denn du konntest ja nicht gegen deine verabscheuungswürdigen Anordnungen handeln\.
+Der Heilige Geist sagt im sechsundneunzigsten Psalm:
+„Die ihr den Herrn liebt,
+hasst das Böse[^bible-a5b77d31-6f32-4af3-bfd8-026942b4d73a]“,
+und deine Befehle zeigen,
+dass du sagst:
+„Liebt,
+was böse ist\.“
+Wenn es nämlich vor Gott als böse gilt,
+einen Unschuldigen zu verurteilen,
+gegen einen Abwesenden,
+und zwar gegen einen gerechten Mann,
+ein Urteil zu sprechen,
+was anderes zwingst du uns dann zu tun als das,
+was Gott hasst?
+Wenn wir also täten,
+was Gott hasst,
+gehörten wir gewiss nicht zu denen,
+an die gesagt wird:
+„Die ihr den Herrn liebt,
+hasst das Böse[^bible-a5b77d31-6f32-4af3-bfd8-026942b4d73a]\.“
+Du hasst das Böse deshalb nicht,
+weil du den Herrn nicht liebst;
+wir aber wollen deshalb nicht tun,
+was Gott hasst,
+weil wir ihn lieben\.
+Du tust dies,
+weil du nicht Diener dessen bist,
+dessen Furcht und Liebe uns dazu drängen,
+das Böse zu hassen\.
+Denn du wirst in der Kirche des Herrn nicht als Verfolger seiner Kirche befunden,
+sodass du meinen könntest,
+der Prophet habe im Psalm zu euch gesagt:
+„Die ihr den Herrn liebt,
+hasst das Böse[^bible-a5b77d31-6f32-4af3-bfd8-026942b4d73a]“,
+zumal er auch im hundertsten sagt:
+„Inmitten meines Hauses wohnt nicht,
+wer Hochmut übt;
+wer Unrecht spricht,
+bestand nicht vor meinen Augen[^bible-3143fa65-27b1-462e-a1fd-57d71c27e8da]\.“
+Es wird also nicht zu euch gesagt,
+die ihr draußen steht,
+sondern zu uns:
+„Die ihr den Herrn liebt,
+hasst das Böse[^bible-a5b77d31-6f32-4af3-bfd8-026942b4d73a]\.“
+Wir hassen schließlich das Böse,
+das ihr deshalb liebt,
+weil ihr nicht in der Kirche Gottes seid\.
+Wie könntest du denn behaupten,
+in der Kirche Gottes zu sein,
+du Mensch,
+der du nicht nur die Kirche verfolgst,
+sondern auch den verleugnest,
+der die Kirche gegründet hat?
+Oder bist du nicht hochmütig,
+und wirst du im Haus des Herrn wohnen können,
+solange du in dieser Überheblichkeit verharrst?
+Wer nämlich könnte mit Recht hochmütig genannt werden,
+wenn du als demütig gelten könntest,
+der du sagst:
+„Verurteilt gegen die göttlichen Gebote den Unschuldigen,
+tretet die Gebote Gottes mit Füßen,
+haltet die meinen\!“
 
 ## Bibelverweise
 

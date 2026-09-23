@@ -7,9 +7,147 @@ Autor: Lucifer von Calaris
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/lucifer-von-calaris/niemand-darf-in-abwesenheit-gerichtet-oder-verurteilt-werden-buch-2#kapitel-5fda8f8a-bc63-4bc6-68d5-08ded9b64703).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:a83abde8a873ee87196721778b45b2dc0327987948262dfe360d07b36a8817fe`
-
-Weil du mit aller Macht einer von ihnen sein willst und auch uns dazu überreden wolltest, Gefährten deiner Verbrechen zu werden\. Denn deine Pläne unterscheiden sich nicht von den verbrecherischen Plänen jener, von denen feststeht, dass sie die Propheten getötet haben, die schließlich an den einzigen Sohn Gottes frevlerisch Hand gelegt haben, zumal du auch die Leiden jener seligen Gesandten zu den Winzern zunichtemachst, indem du behauptest, sie seien um dessentwillen getötet worden, der, so sagst du, ‚gewesen sei, als er nicht gewesen sei‘, während die heiligen Schriften laut bezeugen, dass der einzige Sohn Gottes immer geherrscht hat und mit dem Vater herrschend ist\. Die Schriften des Herrn zeigen, dass der Vater und sein einziger Sohn die eine Gottheit besitzen; und du sagst, der, für den die ruhmreichen Propheten getötet wurden, sei aus dem Nichts geschaffen\. Wenn nämlich das wahr ist, was du sagst, steht fest, dass die seligen Propheten um eines Geschöpfes willen getötet wurden\. Und wo bleibt dann jenes Wort, dass der Herr in gewaltigem Zorn über die zürnt, die dem Geschöpf dienen statt dem Schöpfer[^bible-e5f08eed-c5a6-4ed4-bcfd-caeaff26132e]? Wenn die seligen Propheten für ein Geschöpf getötet wurden, wie hält Gott sie dann für seine Liebsten? Wie kommt es, dass die Juden, weil sie ihren Worten nicht geglaubt haben, heute Feinde Gottes sind? Woher sind die Juden Feinde Gottes? Weshalb befinden sie sich außerhalb des Weinbergs des Herrn, wenn nicht deshalb, weil sie sich als Mörder der Propheten erwiesen hatten; wenn nicht deshalb, weil die Propheten den ewigen Gott, den Sohn des ewigen Gottes, verkündet hatten und jene Mitlästerer von dir ihrer Prophetie nicht nur nicht glaubten, sondern sie auch töteten? Was, meinst du denn, haben die Juden in den Propheten verfolgt, wenn nicht den einzigen Sohn Gottes, wie auch in den Aposteln und Märtyrern? Erkenne wenigstens an dir selbst, dass wahr ist, was ich sage, da ja auch du in Athanasius wie auch in uns den wahren Sohn Gottes verfolgst\. Da dies so ist, hattest du beschlossen, dass wir uns den Mördern der Propheten, den Vergießern des Blutes der Gerechten, deinen Mitfrevlern, also den Juden, anschließen müssten, weil du nämlich ihr Nachahmer bist\. Denn aus keinem anderen Grund hast du gesagt: „Verurteilt Athanasius“, und hast befohlen, wir sollten auch den Glauben des Arius annehmen, als damit wir sowohl in der Vergießung des Blutes der Gerechten als auch in der Leugnung des einzigen Sohnes Gottes den Juden gleich würden, an denen du schon in allem Anteil hast\. Denn wenn jene die Propheten töteten, die von der Ankunft des einzigen Sohnes Gottes sprachen, so tötest auch du die, die so glauben, wie die Propheten geglaubt haben\. Doch wie lange noch soll ich darüber mit einem Ungläubigen sprechen, da ich mir vorgenommen habe, dir zu zeigen, dass du einer von denen bist, zu denen der Herr sagt: „Darum sage ich euch: Das Reich Gottes wird von euch genommen und einem Volk gegeben werden, das seine Frucht bringt[^bible-170e4963-f9cc-43f8-bb5e-03b73efde867]“? Denn du gehörst nicht zu diesem Volk, von dem sich zeigt, dass es Früchte der Gerechtigkeit bringt, sodass du nicht als einer von denen bezeichnet werden müsstest, von denen du hörst, dass sie wegen des Mordes an den Gerechten und wegen ihres Unglaubens aus dem Reich Gottes ausgestoßen wurden\. Bedenke, dass du durch solches Tun unter jenen bist, deren Bosheiten der Herr aufdeckt, wenn er sagt: „Das Himmelreich ist einem König gleich, der seinem Sohn die Hochzeit ausrichtete und seine Knechte zu den zur Hochzeit Geladenen sandte[^bible-6c7056af-7d48-4164-b5bf-f982beeed111]“, und weiter unten: „Und sie wollten nicht kommen\. Wieder sandte er zu ihnen Knechte und sagte: Sagt den Geladenen: Siehe, mein Mahl habe ich bereitet; meine Stiere und das Mastvieh sind geschlachtet, und alles ist bereit; kommt zur Hochzeit\. Sie aber achteten nicht darauf und gingen weg, der eine auf seinen Acker, der andere zu seinem Geschäft; die Übrigen aber ergriffen seine Knechte, misshandelten sie und töteten sie\. Als jener König das hörte, wurde er zornig, sandte sein Heer, brachte jene Mörder um und verbrannte ihre Städte\. Dann sagte er zu seinen Knechten: Die Hochzeit ist zwar bereit, aber die Geladenen waren nicht würdig\. Geht also an die Ausgänge der Wege, und wen immer ihr findet, ladet zur Hochzeit\. Und die Knechte gingen hinaus auf die Wege und versammelten alle, die sie fanden, Böse und Gute, und die Hochzeit füllte sich mit Gästen, die zu Tisch lagen\. Der König aber trat ein, um die Gäste zu sehen, und sah dort einen Menschen, der kein Hochzeitsgewand trug, und sagte zu ihm: Freund, wie bist du hier hereingekommen, ohne ein Hochzeitsgewand zu haben? Er aber verstummte\. Da sagte der König zu den Dienern: Bindet ihm Füße und Hände und werft ihn hinaus in die äußerste Finsternis; dort wird Weinen und Zähneknirschen sein[^bible-acd756b9-29fd-477a-a9bd-216dc0e13127]\.“ Weil du also ohne Hochzeitsgewand bist, Constantius, wirst du, wenn du nicht umkehrst, für immer so sein wie jener, zu dem gesagt wird: „Freund, wie bist du hier hereingekommen, ohne ein Hochzeitsgewand zu haben?[^bible-9050fe5e-ae95-430a-a366-7758a2b1770e]“ So wirst du in die äußerste Finsternis kommen\.
+Weil du mit aller Macht einer von ihnen sein willst und auch uns dazu überreden wolltest,
+Gefährten deiner Verbrechen zu werden\.
+Denn deine Pläne unterscheiden sich nicht von den verbrecherischen Plänen jener,
+von denen feststeht,
+dass sie die Propheten getötet haben,
+die schließlich an den einzigen Sohn Gottes frevlerisch Hand gelegt haben,
+zumal du auch die Leiden jener seligen Gesandten zu den Winzern zunichtemachst,
+indem du behauptest,
+sie seien um dessentwillen getötet worden,
+der,
+so sagst du,
+‚gewesen sei,
+als er nicht gewesen sei‘,
+während die heiligen Schriften laut bezeugen,
+dass der einzige Sohn Gottes immer geherrscht hat und mit dem Vater herrschend ist\.
+Die Schriften des Herrn zeigen,
+dass der Vater und sein einziger Sohn die eine Gottheit besitzen;
+und du sagst,
+der,
+für den die ruhmreichen Propheten getötet wurden,
+sei aus dem Nichts geschaffen\.
+Wenn nämlich das wahr ist,
+was du sagst,
+steht fest,
+dass die seligen Propheten um eines Geschöpfes willen getötet wurden\.
+Und wo bleibt dann jenes Wort,
+dass der Herr in gewaltigem Zorn über die zürnt,
+die dem Geschöpf dienen statt dem Schöpfer[^bible-e5f08eed-c5a6-4ed4-bcfd-caeaff26132e]?
+Wenn die seligen Propheten für ein Geschöpf getötet wurden,
+wie hält Gott sie dann für seine Liebsten?
+Wie kommt es,
+dass die Juden,
+weil sie ihren Worten nicht geglaubt haben,
+heute Feinde Gottes sind?
+Woher sind die Juden Feinde Gottes?
+Weshalb befinden sie sich außerhalb des Weinbergs des Herrn,
+wenn nicht deshalb,
+weil sie sich als Mörder der Propheten erwiesen hatten;
+wenn nicht deshalb,
+weil die Propheten den ewigen Gott,
+den Sohn des ewigen Gottes,
+verkündet hatten und jene Mitlästerer von dir ihrer Prophetie nicht nur nicht glaubten,
+sondern sie auch töteten?
+Was,
+meinst du denn,
+haben die Juden in den Propheten verfolgt,
+wenn nicht den einzigen Sohn Gottes,
+wie auch in den Aposteln und Märtyrern?
+Erkenne wenigstens an dir selbst,
+dass wahr ist,
+was ich sage,
+da ja auch du in Athanasius wie auch in uns den wahren Sohn Gottes verfolgst\.
+Da dies so ist,
+hattest du beschlossen,
+dass wir uns den Mördern der Propheten,
+den Vergießern des Blutes der Gerechten,
+deinen Mitfrevlern,
+also den Juden,
+anschließen müssten,
+weil du nämlich ihr Nachahmer bist\.
+Denn aus keinem anderen Grund hast du gesagt:
+„Verurteilt Athanasius“,
+und hast befohlen,
+wir sollten auch den Glauben des Arius annehmen,
+als damit wir sowohl in der Vergießung des Blutes der Gerechten als auch in der Leugnung des einzigen Sohnes Gottes den Juden gleich würden,
+an denen du schon in allem Anteil hast\.
+Denn wenn jene die Propheten töteten,
+die von der Ankunft des einzigen Sohnes Gottes sprachen,
+so tötest auch du die,
+die so glauben,
+wie die Propheten geglaubt haben\.
+Doch wie lange noch soll ich darüber mit einem Ungläubigen sprechen,
+da ich mir vorgenommen habe,
+dir zu zeigen,
+dass du einer von denen bist,
+zu denen der Herr sagt:
+„Darum sage ich euch:
+Das Reich Gottes wird von euch genommen und einem Volk gegeben werden,
+das seine Frucht bringt[^bible-170e4963-f9cc-43f8-bb5e-03b73efde867]“?
+Denn du gehörst nicht zu diesem Volk,
+von dem sich zeigt,
+dass es Früchte der Gerechtigkeit bringt,
+sodass du nicht als einer von denen bezeichnet werden müsstest,
+von denen du hörst,
+dass sie wegen des Mordes an den Gerechten und wegen ihres Unglaubens aus dem Reich Gottes ausgestoßen wurden\.
+Bedenke,
+dass du durch solches Tun unter jenen bist,
+deren Bosheiten der Herr aufdeckt,
+wenn er sagt:
+„Das Himmelreich ist einem König gleich,
+der seinem Sohn die Hochzeit ausrichtete und seine Knechte zu den zur Hochzeit Geladenen sandte[^bible-6c7056af-7d48-4164-b5bf-f982beeed111]“,
+und weiter unten:
+„Und sie wollten nicht kommen\.
+Wieder sandte er zu ihnen Knechte und sagte:
+Sagt den Geladenen:
+Siehe,
+mein Mahl habe ich bereitet;
+meine Stiere und das Mastvieh sind geschlachtet,
+und alles ist bereit;
+kommt zur Hochzeit\.
+Sie aber achteten nicht darauf und gingen weg,
+der eine auf seinen Acker,
+der andere zu seinem Geschäft;
+die Übrigen aber ergriffen seine Knechte,
+misshandelten sie und töteten sie\.
+Als jener König das hörte,
+wurde er zornig,
+sandte sein Heer,
+brachte jene Mörder um und verbrannte ihre Städte\.
+Dann sagte er zu seinen Knechten:
+Die Hochzeit ist zwar bereit,
+aber die Geladenen waren nicht würdig\.
+Geht also an die Ausgänge der Wege,
+und wen immer ihr findet,
+ladet zur Hochzeit\.
+Und die Knechte gingen hinaus auf die Wege und versammelten alle,
+die sie fanden,
+Böse und Gute,
+und die Hochzeit füllte sich mit Gästen,
+die zu Tisch lagen\.
+Der König aber trat ein,
+um die Gäste zu sehen,
+und sah dort einen Menschen,
+der kein Hochzeitsgewand trug,
+und sagte zu ihm:
+Freund,
+wie bist du hier hereingekommen,
+ohne ein Hochzeitsgewand zu haben?
+Er aber verstummte\.
+Da sagte der König zu den Dienern:
+Bindet ihm Füße und Hände und werft ihn hinaus in die äußerste Finsternis;
+dort wird Weinen und Zähneknirschen sein[^bible-acd756b9-29fd-477a-a9bd-216dc0e13127]\.“
+Weil du also ohne Hochzeitsgewand bist,
+Constantius,
+wirst du,
+wenn du nicht umkehrst,
+für immer so sein wie jener,
+zu dem gesagt wird:
+„Freund,
+wie bist du hier hereingekommen,
+ohne ein Hochzeitsgewand zu haben?[^bible-9050fe5e-ae95-430a-a366-7758a2b1770e]“ So wirst du in die äußerste Finsternis kommen\.
 
 ## Bibelverweise
 

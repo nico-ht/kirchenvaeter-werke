@@ -7,6 +7,17 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-3#kapitel-eee95e8c-b0e4-439c-9c9b-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:7ba5627412d28fb664d661ef36a3ebe6d1662524cf0188c19a80679f62ab87fc`
-
-Was bedeutet: „Deshalb nannte sie jenen Brunnen den Brunnen dessen, den ich von Angesicht zu Angesicht gesehen habe“? Der Brunnen hat sowohl eine Quelle als auch Tiefe\. Die Bildung der Schüler der allgemeinen Wissenschaft liegt aber weder ganz an der Oberfläche noch entbehrt sie erster Grundsätze; denn sie hat die zurechtweisende Unterweisung zu ihrer Quelle\. Daher sagt sie völlig zu Recht, der Engel sei vor dem Brunnen wie Gott erschienen, da die Gelehrsamkeit der allgemeinen Ausbildung, die den zweiten Rang einnimmt, sich der ersten Autorität zu erfreuen meint, obwohl sie in Wirklichkeit von jener ersten Weisheit getrennt ist, die zu schauen den Weisen erlaubt ist, nicht aber den Sophisten\.
+Was bedeutet:
+„Deshalb nannte sie jenen Brunnen den Brunnen dessen,
+den ich von Angesicht zu Angesicht gesehen habe“?
+Der Brunnen hat sowohl eine Quelle als auch Tiefe\.
+Die Bildung der Schüler der allgemeinen Wissenschaft liegt aber weder ganz an der Oberfläche noch entbehrt sie erster Grundsätze;
+denn sie hat die zurechtweisende Unterweisung zu ihrer Quelle\.
+Daher sagt sie völlig zu Recht,
+der Engel sei vor dem Brunnen wie Gott erschienen,
+da die Gelehrsamkeit der allgemeinen Ausbildung,
+die den zweiten Rang einnimmt,
+sich der ersten Autorität zu erfreuen meint,
+obwohl sie in Wirklichkeit von jener ersten Weisheit getrennt ist,
+die zu schauen den Weisen erlaubt ist,
+nicht aber den Sophisten\.

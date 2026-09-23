@@ -7,6 +7,51 @@ Autor: Clemens von Rom
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-2#kapitel-4578e00d-e904-4487-54d0-08dd130c175e).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:0e78e6329726cde2e00f112ae7001e9d2097eb79b3144cd2a422b84e89f98695`
-
-Was für ein Verhalten wäre es, wenn wir den Gott verlassen sollten, in dessen Welt wir leben und alles Notwendige für das Leben genießen und einem folgen würden, der uns nichts Gutes bringt und von dem wir nicht einmal wissen, ob er existiert? Tatsächlich existiert er nicht\. Denn ob du ihn Licht nennst, heller als das Licht das wir sehen, leihst du dir diesen Namen doch vom Schöpfer der Welt aus oder ob du sagst, seine Substanz sei über allem \- auch diese Vorstellung nimmst du von Ihm und vergrößerst sie mit deinen Worten\. Ob du Verstand, Güte, Leben oder etwas anderes erwähnst, all diese Begriffe übernimmst du von Ihm\. Da du also nichts Neues über diese Macht, von der du sprichst, vorzuweisen hast \- weder in Bezug auf das Verstehen noch in Bezug auf die Benennung \-, wie kannst du dann einen neuen Gott einführen, für den du nicht einmal einen neuen Namen finden kannst? Denn nicht nur der Schöpfer der Welt wird Macht genannt, sondern auch die Diener Seiner Herrlichkeit und das gesamte himmlische Heer\. Denkst du nicht, dass es besser wäre, unserem Schöpfergott zu folgen, wie einem Vater, der uns erzieht und uns nach Seinem Wissen ausstattet? Aber wenn, wie du sagst, es einen Gott gibt, der gütiger ist als alle, ist es klar, dass er nicht zornig auf uns sein wird\. Wenn er aber zornig ist, ist er böse\. Denn wenn unser Gott zornig ist und straft, ist Er nicht böse, sondern gerecht, weil Er Seine eigenen Söhne korrigiert und bessert\. Aber wenn jemand, der keine Verbindung zu uns hat, uns straft, wie könnte er dann gut sein? Wenn er uns Strafen auferlegt, weil wir uns nicht von leeren Einbildungen haben verleiten lassen, unseren eigenen Vater zu verlassen und ihm zu folgen, wie kannst du behaupten, dass er so gut ist, wenn er nicht einmal als gerecht angesehen werden kann?“
+Was für ein Verhalten wäre es,
+wenn wir den Gott verlassen sollten,
+in dessen Welt wir leben und alles Notwendige für das Leben genießen und einem folgen würden,
+der uns nichts Gutes bringt und von dem wir nicht einmal wissen,
+ob er existiert?
+Tatsächlich existiert er nicht\.
+Denn ob du ihn Licht nennst,
+heller als das Licht das wir sehen,
+leihst du dir diesen Namen doch vom Schöpfer der Welt aus oder ob du sagst,
+seine Substanz sei über allem \- auch diese Vorstellung nimmst du von Ihm und vergrößerst sie mit deinen Worten\.
+Ob du Verstand,
+Güte,
+Leben oder etwas anderes erwähnst,
+all diese Begriffe übernimmst du von Ihm\.
+Da du also nichts Neues über diese Macht,
+von der du sprichst,
+vorzuweisen hast \- weder in Bezug auf das Verstehen noch in Bezug auf die Benennung \-,
+wie kannst du dann einen neuen Gott einführen,
+für den du nicht einmal einen neuen Namen finden kannst?
+Denn nicht nur der Schöpfer der Welt wird Macht genannt,
+sondern auch die Diener Seiner Herrlichkeit und das gesamte himmlische Heer\.
+Denkst du nicht,
+dass es besser wäre,
+unserem Schöpfergott zu folgen,
+wie einem Vater,
+der uns erzieht und uns nach Seinem Wissen ausstattet?
+Aber wenn,
+wie du sagst,
+es einen Gott gibt,
+der gütiger ist als alle,
+ist es klar,
+dass er nicht zornig auf uns sein wird\.
+Wenn er aber zornig ist,
+ist er böse\.
+Denn wenn unser Gott zornig ist und straft,
+ist Er nicht böse,
+sondern gerecht,
+weil Er Seine eigenen Söhne korrigiert und bessert\.
+Aber wenn jemand,
+der keine Verbindung zu uns hat,
+uns straft,
+wie könnte er dann gut sein?
+Wenn er uns Strafen auferlegt,
+weil wir uns nicht von leeren Einbildungen haben verleiten lassen,
+unseren eigenen Vater zu verlassen und ihm zu folgen,
+wie kannst du behaupten,
+dass er so gut ist,
+wenn er nicht einmal als gerecht angesehen werden kann?“

@@ -7,9 +7,83 @@ Autor: Origenes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-2#kapitel-73c50c12-f326-4948-0a6b-08df02ec59a9).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:dd69a15665ea3c7f6a23ab3a41ebc50285c604feb8d7f54624ab8df9b475c873`
-
-Obwohl Jesus nur ein Einzelner war, zeigte er sich doch je nach Blickwinkel in mehr als einer Gestalt; und nicht alle, die ihn sahen, sahen ihn auf dieselbe Weise\. Dass er je nach Blickwinkel mehr als eines war, wird an diesen Aussagen deutlich: „Ich bin der Weg und die Wahrheit und das Leben\.[^bible-6d327613-ccf8-45ef-90c2-1f1181594b70] “ Ferner: „Ich bin das Brot\.[^bible-54ccd751-254e-4748-80a7-52e13b796010] “ Und: „Ich bin die Tür\.[^bible-1643160b-9445-4629-ac4e-dc8098bec76c] “ Dazu kommen unzählige weitere\. Dass er sich auch nicht allen, die ihn sahen, in derselben Gestalt zeigte, sondern so, wie sie ihn jeweils aufnehmen konnten, wird jedem deutlich, der darauf achtet, weshalb er vor seiner Verklärung auf dem hohen Berg nicht alle seine Apostel an diesem Anblick teilhaben ließ, sondern nur Petrus, Jakobus und Johannes\. Denn nur sie waren damals imstande, seine Herrlichkeit zu schauen, die verherrlichte Erscheinung von Mose und Elija zu sehen, ihrem Gespräch zuzuhören und die Stimme aus der himmlischen Wolke zu vernehmen\. Ich denke auch an die Zeit, bevor er den Berg hinaufstieg, auf dem seine Jünger allein zu ihm kamen und er sie die Seligpreisungen lehrte: Als er sich noch irgendwo unten am Berg befand und es Abend wurde, heilte er die Menschen, die zu ihm gebracht wurden, und befreite sie von jeder Krankheit und jedem Leiden\. Den Kranken und allen, die seine heilende Hilfe brauchten, erschien er wohl nicht als derselbe wie denen, die stark genug waren, mit ihm den Berg hinaufzusteigen\. Dasselbe galt uneingeschränkt, als er seinen eigenen Jüngern im vertrauten Kreis die Gleichnisse erklärte, die er draußen den Menschenmengen ohne Erklärung vorgetragen hatte\. Den Zuhörern, denen er sie erklärte, waren gleichsam höhere Hörorgane gegeben als denen, die sie ohne Erklärung hörten\. So verhielt es sich auch mit den Augen ihrer Seele und, wie ich meine, ebenso mit den Augen ihres Körpers\. Dass sein Aussehen nicht immer dasselbe war, zeigt auch folgende Aussage: Als Judas ihn verraten wollte, sagte er zu den Menschen, die mit ihm aufbrachen und Jesus nicht kannten: „Der, den ich küssen werde, der ist es\.[^bible-9a55f034-2566-4c4d-972a-a5fb504ead4d] “ Ich denke, der Erlöser selbst deutet dasselbe mit den Worten an: „Tag für Tag war ich bei euch und lehrte im Tempel, und ihr habt mich nicht ergriffen\.[^bible-fec5d7f6-c57a-466f-a6bc-4e0f9031b297] “ Weil wir von Jesus also so erhabene Vorstellungen haben, nicht nur von der Gottheit in ihm, die dem Blick der Menge verborgen war, sondern auch von der Verwandlung seines Körpers, die sich vollzog, wann und wem er es wollte, sagen wir: Bevor Jesus „die Herrschaften und Mächte abgelegt hatte[^bible-934af428-5c92-4a82-85aa-c9652c519ba1] “ und solange er noch nicht der Sünde gestorben war, konnten ihn alle Menschen sehen\. Nachdem er aber „die Herrschaften und Mächte abgelegt hatte[^bible-934af428-5c92-4a82-85aa-c9652c519ba1] “ und nichts mehr an sich hatte, was die Menge sehen konnte, waren nicht mehr alle, die ihn zuvor gesehen hatten, imstande, ihn zu schauen\. Daher schonte er sie und zeigte sich nach seiner Auferstehung von den Toten nicht allen\.
+Obwohl Jesus nur ein Einzelner war,
+zeigte er sich doch je nach Blickwinkel in mehr als einer Gestalt;
+und nicht alle,
+die ihn sahen,
+sahen ihn auf dieselbe Weise\.
+Dass er je nach Blickwinkel mehr als eines war,
+wird an diesen Aussagen deutlich:
+„Ich bin der Weg und die Wahrheit und das Leben\.[^bible-6d327613-ccf8-45ef-90c2-1f1181594b70]
+“ Ferner:
+„Ich bin das Brot\.[^bible-54ccd751-254e-4748-80a7-52e13b796010]
+“ Und:
+„Ich bin die Tür\.[^bible-1643160b-9445-4629-ac4e-dc8098bec76c]
+“ Dazu kommen unzählige weitere\.
+Dass er sich auch nicht allen,
+die ihn sahen,
+in derselben Gestalt zeigte,
+sondern so,
+wie sie ihn jeweils aufnehmen konnten,
+wird jedem deutlich,
+der darauf achtet,
+weshalb er vor seiner Verklärung auf dem hohen Berg nicht alle seine Apostel an diesem Anblick teilhaben ließ,
+sondern nur Petrus,
+Jakobus und Johannes\.
+Denn nur sie waren damals imstande,
+seine Herrlichkeit zu schauen,
+die verherrlichte Erscheinung von Mose und Elija zu sehen,
+ihrem Gespräch zuzuhören und die Stimme aus der himmlischen Wolke zu vernehmen\.
+Ich denke auch an die Zeit,
+bevor er den Berg hinaufstieg,
+auf dem seine Jünger allein zu ihm kamen und er sie die Seligpreisungen lehrte:
+Als er sich noch irgendwo unten am Berg befand und es Abend wurde,
+heilte er die Menschen,
+die zu ihm gebracht wurden,
+und befreite sie von jeder Krankheit und jedem Leiden\.
+Den Kranken und allen,
+die seine heilende Hilfe brauchten,
+erschien er wohl nicht als derselbe wie denen,
+die stark genug waren,
+mit ihm den Berg hinaufzusteigen\.
+Dasselbe galt uneingeschränkt,
+als er seinen eigenen Jüngern im vertrauten Kreis die Gleichnisse erklärte,
+die er draußen den Menschenmengen ohne Erklärung vorgetragen hatte\.
+Den Zuhörern,
+denen er sie erklärte,
+waren gleichsam höhere Hörorgane gegeben als denen,
+die sie ohne Erklärung hörten\.
+So verhielt es sich auch mit den Augen ihrer Seele und,
+wie ich meine,
+ebenso mit den Augen ihres Körpers\.
+Dass sein Aussehen nicht immer dasselbe war,
+zeigt auch folgende Aussage:
+Als Judas ihn verraten wollte,
+sagte er zu den Menschen,
+die mit ihm aufbrachen und Jesus nicht kannten:
+„Der,
+den ich küssen werde,
+der ist es\.[^bible-9a55f034-2566-4c4d-972a-a5fb504ead4d]
+“ Ich denke,
+der Erlöser selbst deutet dasselbe mit den Worten an:
+„Tag für Tag war ich bei euch und lehrte im Tempel,
+und ihr habt mich nicht ergriffen\.[^bible-fec5d7f6-c57a-466f-a6bc-4e0f9031b297]
+“ Weil wir von Jesus also so erhabene Vorstellungen haben,
+nicht nur von der Gottheit in ihm,
+die dem Blick der Menge verborgen war,
+sondern auch von der Verwandlung seines Körpers,
+die sich vollzog,
+wann und wem er es wollte,
+sagen wir:
+Bevor Jesus „die Herrschaften und Mächte abgelegt hatte[^bible-934af428-5c92-4a82-85aa-c9652c519ba1] “ und solange er noch nicht der Sünde gestorben war,
+konnten ihn alle Menschen sehen\.
+Nachdem er aber „die Herrschaften und Mächte abgelegt hatte[^bible-934af428-5c92-4a82-85aa-c9652c519ba1] “ und nichts mehr an sich hatte,
+was die Menge sehen konnte,
+waren nicht mehr alle,
+die ihn zuvor gesehen hatten,
+imstande,
+ihn zu schauen\.
+Daher schonte er sie und zeigte sich nach seiner Auferstehung von den Toten nicht allen\.
 
 ## Bibelverweise
 

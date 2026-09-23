@@ -7,12 +7,260 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-5#kapitel-40a23488-db6d-4781-2791-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:52cdafb0f568e3b4163b50d8e508de6fb91dac5306849a8f46e250ba60511c22`
+Nun hatte auch der Hunger zu wüten begonnen,
+und der Streit ging in Raserei und Wahnsinn weiter\.
+Getreide war nicht zu finden,
+Brot stand der Allgemeinheit nicht zur Verfügung\.
+Wenn es irgendwo entdeckt wurde,
+wurde jenes Haus sogleich geplündert\.
+Der Hausherr oder der Verwahrer des Getreides wurde getötet,
+weil er es verborgen hatte\.
+Fand man dagegen keine Früchte,
+wurden,
+als seien sie nur sorgfältiger versteckt worden,
+Foltern angewandt\.
+Viele wählten die Erleichterung des Todes,
+weil sie entweder der Hunger quälte oder die Wildheit sie folterte\.
+Schließlich weigerten sich die Grausamsten sogar zu töten,
+weil sie ihnen die Wohltat des Todes missgönnten;
+denn für diese war schon der Hunger der härtere Henker:
+Nachdem ihre Eingeweide aufgezehrt waren,
+überzog die beklagenswerte Magerkeit ihre entblößten Knochen mit dünner Haut\.
+Halb tot atmeten sie nur noch durch den bloßen Lebenshauch und schleppten ihre kranken Körper dahin\.
+Wenn sie irgendwo Reste von Gemüse sahen,
+die zufällig herabgefallen oder vertrocknet weggeworfen waren,
+sogen sie,
+schwach am geschwächten Körper,
+mit dem Mund auf,
+was am Boden lag\.
+Oder wenn irgendwo zwischen den Mauern Gras wachsen zu sehen war,
+rissen es die Elenden aus und stillten ihren Hunger mit seinen Säften\.
+Die Reicheren kauften ein Maß Weizen um ihr ganzes Vermögen,
+denn warum sollten sie bewahren,
+was ihnen nichts nützen würde?
+Die aber so arm waren,
+dass niemand auch nur Gerste bei ihnen verkaufen oder kaufen sah,
+wurden auch dafür mit jeder Bosheit hart bestraft\.
+Auch wartete man nicht wirklich auf das Brotbacken,
+damit nicht vorher der Tod komme oder der Aufschub einen Verräter herbeirufe\.
+Heimlich verschlangen die,
+die etwas hatten,
+ungekochten Weizen,
+oder auch nur einen kärglichen Vorrat an Getreide\.
+Kein Tisch,
+kein Stuhl,
+kein Licht,
+damit niemand dazwischentrete und es unvermutet an sich reiße\.
+Gab es irgendein Geräusch,
+wurde die Nahrung versteckt\.
+Einsamkeit erregte Verdacht,
+häufig waren Morde an Verwandten,
+traurige Kämpfe zwischen Angehörigen\.
+Denn tatsächlich schließt Hunger jede Zuneigung aus,
+besonders aber Scham\.
+Für Menschen,
+die Nahrung brauchen,
+kostet Ehrgefühl das Leben und schadet dem Überleben\.
+Wenn ein Mann,
+der eine Frau,
+Söhne und Töchter hatte,
+etwas zu essen besaß,
+gab er es kaum zu\.
+Ebenso war es bei den Frauen\.
+Wenn jemand milder empfand,
+wurde ihm,
+sobald er Speise hingestellt hatte,
+diese aus den Händen gerissen\.
+Die Nahrung war elend,
+die Nahrung war tränenwert\.
+Söhne rissen sie den Eltern weg,
+Eltern den Söhnen und selbst aus den Kiefern,
+denen die Speise gerade gereicht wurde\.
+Vielen diente das Erbrochene anderer als Nahrung\.
 
-Nun hatte auch der Hunger zu wüten begonnen, und der Streit ging in Raserei und Wahnsinn weiter\. Getreide war nicht zu finden, Brot stand der Allgemeinheit nicht zur Verfügung\. Wenn es irgendwo entdeckt wurde, wurde jenes Haus sogleich geplündert\. Der Hausherr oder der Verwahrer des Getreides wurde getötet, weil er es verborgen hatte\. Fand man dagegen keine Früchte, wurden, als seien sie nur sorgfältiger versteckt worden, Foltern angewandt\. Viele wählten die Erleichterung des Todes, weil sie entweder der Hunger quälte oder die Wildheit sie folterte\. Schließlich weigerten sich die Grausamsten sogar zu töten, weil sie ihnen die Wohltat des Todes missgönnten; denn für diese war schon der Hunger der härtere Henker: Nachdem ihre Eingeweide aufgezehrt waren, überzog die beklagenswerte Magerkeit ihre entblößten Knochen mit dünner Haut\. Halb tot atmeten sie nur noch durch den bloßen Lebenshauch und schleppten ihre kranken Körper dahin\. Wenn sie irgendwo Reste von Gemüse sahen, die zufällig herabgefallen oder vertrocknet weggeworfen waren, sogen sie, schwach am geschwächten Körper, mit dem Mund auf, was am Boden lag\. Oder wenn irgendwo zwischen den Mauern Gras wachsen zu sehen war, rissen es die Elenden aus und stillten ihren Hunger mit seinen Säften\. Die Reicheren kauften ein Maß Weizen um ihr ganzes Vermögen, denn warum sollten sie bewahren, was ihnen nichts nützen würde? Die aber so arm waren, dass niemand auch nur Gerste bei ihnen verkaufen oder kaufen sah, wurden auch dafür mit jeder Bosheit hart bestraft\. Auch wartete man nicht wirklich auf das Brotbacken, damit nicht vorher der Tod komme oder der Aufschub einen Verräter herbeirufe\. Heimlich verschlangen die, die etwas hatten, ungekochten Weizen, oder auch nur einen kärglichen Vorrat an Getreide\. Kein Tisch, kein Stuhl, kein Licht, damit niemand dazwischentrete und es unvermutet an sich reiße\. Gab es irgendein Geräusch, wurde die Nahrung versteckt\. Einsamkeit erregte Verdacht, häufig waren Morde an Verwandten, traurige Kämpfe zwischen Angehörigen\. Denn tatsächlich schließt Hunger jede Zuneigung aus, besonders aber Scham\. Für Menschen, die Nahrung brauchen, kostet Ehrgefühl das Leben und schadet dem Überleben\. Wenn ein Mann, der eine Frau, Söhne und Töchter hatte, etwas zu essen besaß, gab er es kaum zu\. Ebenso war es bei den Frauen\. Wenn jemand milder empfand, wurde ihm, sobald er Speise hingestellt hatte, diese aus den Händen gerissen\. Die Nahrung war elend, die Nahrung war tränenwert\. Söhne rissen sie den Eltern weg, Eltern den Söhnen und selbst aus den Kiefern, denen die Speise gerade gereicht wurde\. Vielen diente das Erbrochene anderer als Nahrung\.
+Es gab keine Scheu mehr,
+vertrockneten Unrat aufzunehmen,
+und keine Scham,
+den eigenen Angehörigen die letzten Lebenstropfen zu entreißen\.
+Das war ein Anblick so erbärmlichen Elends,
+dass er kaum zu ertragen war\.
+Darum geschah es hinter verschlossenen Türen,
+damit niemand käme,
+der Nahrung aus dem Mund eines Fremden suchte und wie ein Hund mit der Zunge das Erbrochene anderer aufleckte\.
+Nicht einmal das blieb ungestraft;
+denn wo immer Türen verriegelt waren,
+vermutete man versteckte Nahrung\.
+Die Leute der Aufstände stürmten herbei,
+sie fielen über die verschlossenen Orte her,
+sie verhängten unerträgliche Strafen einer neuartigen Grausamkeit\.
+Nicht einmal die Schamteile des Körpers waren ausgenommen\.
+Auch an ihnen wurde die Strafe vollzogen,
+weil dort die Qual stärker empfunden wird\.
+Viele,
+die die Mörder schon eindringen sahen,
+packten die bereitgelegte Speise,
+damit sie selbst nicht um die letzte Zuteilung betrogen würden und ihren bevorstehenden Tod rächten\.
+Und worin die Grausamkeit als besonders schmerzlich erschien:
+Diejenigen,
+die den Hungernden die Speise entrissen,
+hungerten selbst nicht\.
+Durch Raub häuften sie sich die Vorräte anderer an und nährten sich von den versteckten Vorräten Fremder,
+während die,
+die sie gesammelt hatten,
+vor Hunger und Fasten dahinschwanden\.
+Wenn eine Frau,
+von mütterlichem Empfinden bewegt,
+sich über das Weinen ihres Kindes erbarmte und ihm den Saft der Speise in den Mund gießen wollte,
+bezahlte sie die Strafe für ihre zärtliche Fürsorge;
+und mit dem Kind,
+das an ihrem Hals hing oder an ihrer Brust klammerte,
+wurde sie zugleich durchbohrt\.
+Ferner gingen viele,
+die den Tod für eine Wohltat hielten,
+aus der Stadt hinaus,
+als wollten sie Kräuter suchen oder sich von Wurzeln nähren oder Baumrinde sammeln,
+falls an ihnen noch etwas Grünes zum Trost einer Speise dienen konnte;
+die Römer entdeckten sie und töteten sie\.
+Oder wer dem Feind entgangen war,
+starb bereits an der Schwelle der Tore,
+vom Hunger ausgezehrt und mit kraftlosem Mund,
+weil ihn sogar schon die Fähigkeit zu essen verlassen hatte\.
+Auch eine todbringende Schar hielt die Zurückkehrenden ab;
+sie riss den armen Menschen mit äußerster Härte aus dem Gewand,
+was sie unter großer Gefahr gesucht hatten\.
+Abscheulich war,
+dass sie ihnen nicht einmal einen Teil als wenigstens den Lohn ihrer Gefahr ließ\.
+So starben sie durch den schlimmeren Angriff der eigenen Leute mehr als durch den des Feindes\.
+Was sogar der Feind zugestanden hatte,
+nahm ein Mitbürger weg;
+doch auch das Ergreifen solcher Speise nützte nichts\.
+Denn nicht viel später schüttelten sich die körperlich Kräftigen,
+während ihr Bauch anschwoll,
+vor Schmerz im Innersten der Eingeweide,
+oder sie starben,
+in den Eingeweiden gelöst und aller Kraft beraubt,
+sodass sie den Wunsch bereuten,
+der zunächst ein Trost gewesen war,
+später aber zur Qual wurde\.
+Zu grünen Eidechsen und anderen Beutestücken aus der Schlangenart,
+die sie gekocht hatten,
+kam dann noch die Seuche hinzu\.
+Denn wenn sie die Körper von Pferden fanden und fortschleppten,
+führten sie untereinander erbitterte Kämpfe\.
+Nicht einmal vor dem dicht zusammengedrängten Feind erhielt das Verderben eine Atempause\.
 
-Es gab keine Scheu mehr, vertrockneten Unrat aufzunehmen, und keine Scham, den eigenen Angehörigen die letzten Lebenstropfen zu entreißen\. Das war ein Anblick so erbärmlichen Elends, dass er kaum zu ertragen war\. Darum geschah es hinter verschlossenen Türen, damit niemand käme, der Nahrung aus dem Mund eines Fremden suchte und wie ein Hund mit der Zunge das Erbrochene anderer aufleckte\. Nicht einmal das blieb ungestraft; denn wo immer Türen verriegelt waren, vermutete man versteckte Nahrung\. Die Leute der Aufstände stürmten herbei, sie fielen über die verschlossenen Orte her, sie verhängten unerträgliche Strafen einer neuartigen Grausamkeit\. Nicht einmal die Schamteile des Körpers waren ausgenommen\. Auch an ihnen wurde die Strafe vollzogen, weil dort die Qual stärker empfunden wird\. Viele, die die Mörder schon eindringen sahen, packten die bereitgelegte Speise, damit sie selbst nicht um die letzte Zuteilung betrogen würden und ihren bevorstehenden Tod rächten\. Und worin die Grausamkeit als besonders schmerzlich erschien: Diejenigen, die den Hungernden die Speise entrissen, hungerten selbst nicht\. Durch Raub häuften sie sich die Vorräte anderer an und nährten sich von den versteckten Vorräten Fremder, während die, die sie gesammelt hatten, vor Hunger und Fasten dahinschwanden\. Wenn eine Frau, von mütterlichem Empfinden bewegt, sich über das Weinen ihres Kindes erbarmte und ihm den Saft der Speise in den Mund gießen wollte, bezahlte sie die Strafe für ihre zärtliche Fürsorge; und mit dem Kind, das an ihrem Hals hing oder an ihrer Brust klammerte, wurde sie zugleich durchbohrt\. Ferner gingen viele, die den Tod für eine Wohltat hielten, aus der Stadt hinaus, als wollten sie Kräuter suchen oder sich von Wurzeln nähren oder Baumrinde sammeln, falls an ihnen noch etwas Grünes zum Trost einer Speise dienen konnte; die Römer entdeckten sie und töteten sie\. Oder wer dem Feind entgangen war, starb bereits an der Schwelle der Tore, vom Hunger ausgezehrt und mit kraftlosem Mund, weil ihn sogar schon die Fähigkeit zu essen verlassen hatte\. Auch eine todbringende Schar hielt die Zurückkehrenden ab; sie riss den armen Menschen mit äußerster Härte aus dem Gewand, was sie unter großer Gefahr gesucht hatten\. Abscheulich war, dass sie ihnen nicht einmal einen Teil als wenigstens den Lohn ihrer Gefahr ließ\. So starben sie durch den schlimmeren Angriff der eigenen Leute mehr als durch den des Feindes\. Was sogar der Feind zugestanden hatte, nahm ein Mitbürger weg; doch auch das Ergreifen solcher Speise nützte nichts\. Denn nicht viel später schüttelten sich die körperlich Kräftigen, während ihr Bauch anschwoll, vor Schmerz im Innersten der Eingeweide, oder sie starben, in den Eingeweiden gelöst und aller Kraft beraubt, sodass sie den Wunsch bereuten, der zunächst ein Trost gewesen war, später aber zur Qual wurde\. Zu grünen Eidechsen und anderen Beutestücken aus der Schlangenart, die sie gekocht hatten, kam dann noch die Seuche hinzu\. Denn wenn sie die Körper von Pferden fanden und fortschleppten, führten sie untereinander erbitterte Kämpfe\. Nicht einmal vor dem dicht zusammengedrängten Feind erhielt das Verderben eine Atempause\.
+Denn als die Menge,
+die mit ihren Söhnen und Frauen aus der Stadt hinausging,
+sich in jenen Teil zurückgezogen hatte,
+der sich bis zum Fuß der steilen Klippen hinabsenkte,
+hielten die Römer Wache:
+entweder um vor allem die Jüngeren als gefangene Sklaven wegzuführen oder um die Kräftigeren zu töten,
+damit vielleicht keiner es wagen konnte,
+sich unter die Kämpfenden einzuschleichen\.
+So sollte jeder abgefangen werden,
+der auf der Suche nach Nahrung,
+während er auf den Feldern nach Wurzeln grub,
+zu weit hinausgeriet\.
+Doch obwohl der Feind ringsum ausgebreitet war,
+konnten sie sich nicht zurückhalten:
+Der Hunger gab ihnen Kühnheit,
+und die Liebe der Eltern konnte es nicht ertragen,
+dass kleine Kinder durch Auszehrung erschöpft wurden und ihre vom Hunger offenen Münder vergeblich ausstreckten,
+Kinder,
+die sie in die Gefahr mitgenommen hatten,
+damit sie nicht an ihrer Stelle von den Anstiftern des Aufstands als Geiseln ihrer Flucht getötet würden\.
+Der Hunger trieb jene hinaus,
+denen es als Wohltat erschien,
+lieber durch das Schwert zu sterben als,
+im Vergleich dazu,
+durch Verhungern\.
+Demgegenüber mehrten die Römer,
+weil sie sie für todesverachtend hielten,
+die Arten der Folter:
+Zuerst schlugen sie sie,
+dann hefteten sie jeden,
+den sie gefasst hatten,
+an das Joch des Kreuzes,
+damit durch den Anblick der Gekreuzigten die Verwegenheit der übrigen vom Übermut der Angriffe zurückgerufen würde\.
+Und so sah Titus das erbarmungswürdige Leiden als Härte so großer Unglücksfälle\.
+Unzählige wurden gefangen,
+fast fünfhundert am Tag gekreuzigt,
+und sie bedeckten die Ebenen vor der Stadt mit einer Reihe erbarmungswürdiger Züge,
+damit man sie von den Mauern aus sehen konnte\.
+Die Römer hatten Mitleid mit ihnen,
+die Juden ließen sich nicht bewegen;
+der Feind erbarmte sich ihrer,
+ihre Verbündeten wurden nicht milder;
+Mitleid fand sich leichter bei ihren Gegnern als bei ihren Gefährten\.
+Dennoch wurden viele vom Zorn erregt,
+sodass sie mitten in so großen Übeln noch niedriger wurden\.
+Man konnte Menschen sehen,
+die auf verschiedene Weise aufgehängt waren,
+mit verschiedenartigen Strafen;
+die Formen der Foltern waren bei einer so unzählbaren Menge so zahlreich,
+dass schon der Platz für die gegabelten Galgen fehlte und die Galgen für die Körper\.
+Simon wütete drinnen,
+Johannes wütete;
+jeder lauerte dem anderen durch seine Leute auf\.
+Wenn jemand zu fliehen versuchte,
+wurde er über den Boden geschleift und in Stücke gerissen\.
+Die Nächsten derer,
+die weggegangen waren,
+wurden gefoltert,
+und die Körper vieler wurden an ein Kreuz geheftet und ihren Angehörigen gezeigt,
+die sich weggeschlichen hatten\.
+Von einer anderen Seite her bedeckten sie sogar die Mauer mit einer Ernte von Galgen,
+als triumphierten sie über Feinde,
+wenn sie jemanden gefasst hatten,
+der von den eigenen Leuten zu den Römern fliehen wollte,
+damit die Angst vor der Flucht hinüber die Zurückbleibenden überfalle\.
+Kein Ort war frei von Härte:
+draußen war Gefangenschaft,
+drinnen Hunger,
+an beiden Orten Furcht\.
+Waffen wurden freilich weniger gefürchtet als Foltern,
+und es war milder,
+im Aufstand zu sterben als durch Mord von der Hand des Feindes\.
+Doch Caesar hörte trotzdem nicht auf,
+die Führer der Faktionen in der Hoffnung auf Übergabe einzuladen\.
 
-Denn als die Menge, die mit ihren Söhnen und Frauen aus der Stadt hinausging, sich in jenen Teil zurückgezogen hatte, der sich bis zum Fuß der steilen Klippen hinabsenkte, hielten die Römer Wache: entweder um vor allem die Jüngeren als gefangene Sklaven wegzuführen oder um die Kräftigeren zu töten, damit vielleicht keiner es wagen konnte, sich unter die Kämpfenden einzuschleichen\. So sollte jeder abgefangen werden, der auf der Suche nach Nahrung, während er auf den Feldern nach Wurzeln grub, zu weit hinausgeriet\. Doch obwohl der Feind ringsum ausgebreitet war, konnten sie sich nicht zurückhalten: Der Hunger gab ihnen Kühnheit, und die Liebe der Eltern konnte es nicht ertragen, dass kleine Kinder durch Auszehrung erschöpft wurden und ihre vom Hunger offenen Münder vergeblich ausstreckten, Kinder, die sie in die Gefahr mitgenommen hatten, damit sie nicht an ihrer Stelle von den Anstiftern des Aufstands als Geiseln ihrer Flucht getötet würden\. Der Hunger trieb jene hinaus, denen es als Wohltat erschien, lieber durch das Schwert zu sterben als, im Vergleich dazu, durch Verhungern\. Demgegenüber mehrten die Römer, weil sie sie für todesverachtend hielten, die Arten der Folter: Zuerst schlugen sie sie, dann hefteten sie jeden, den sie gefasst hatten, an das Joch des Kreuzes, damit durch den Anblick der Gekreuzigten die Verwegenheit der übrigen vom Übermut der Angriffe zurückgerufen würde\. Und so sah Titus das erbarmungswürdige Leiden als Härte so großer Unglücksfälle\. Unzählige wurden gefangen, fast fünfhundert am Tag gekreuzigt, und sie bedeckten die Ebenen vor der Stadt mit einer Reihe erbarmungswürdiger Züge, damit man sie von den Mauern aus sehen konnte\. Die Römer hatten Mitleid mit ihnen, die Juden ließen sich nicht bewegen; der Feind erbarmte sich ihrer, ihre Verbündeten wurden nicht milder; Mitleid fand sich leichter bei ihren Gegnern als bei ihren Gefährten\. Dennoch wurden viele vom Zorn erregt, sodass sie mitten in so großen Übeln noch niedriger wurden\. Man konnte Menschen sehen, die auf verschiedene Weise aufgehängt waren, mit verschiedenartigen Strafen; die Formen der Foltern waren bei einer so unzählbaren Menge so zahlreich, dass schon der Platz für die gegabelten Galgen fehlte und die Galgen für die Körper\. Simon wütete drinnen, Johannes wütete; jeder lauerte dem anderen durch seine Leute auf\. Wenn jemand zu fliehen versuchte, wurde er über den Boden geschleift und in Stücke gerissen\. Die Nächsten derer, die weggegangen waren, wurden gefoltert, und die Körper vieler wurden an ein Kreuz geheftet und ihren Angehörigen gezeigt, die sich weggeschlichen hatten\. Von einer anderen Seite her bedeckten sie sogar die Mauer mit einer Ernte von Galgen, als triumphierten sie über Feinde, wenn sie jemanden gefasst hatten, der von den eigenen Leuten zu den Römern fliehen wollte, damit die Angst vor der Flucht hinüber die Zurückbleibenden überfalle\. Kein Ort war frei von Härte: draußen war Gefangenschaft, drinnen Hunger, an beiden Orten Furcht\. Waffen wurden freilich weniger gefürchtet als Foltern, und es war milder, im Aufstand zu sterben als durch Mord von der Hand des Feindes\. Doch Caesar hörte trotzdem nicht auf, die Führer der Faktionen in der Hoffnung auf Übergabe einzuladen\.
-
-So ließ er etwa verkünden, sobald die Wälle errichtet seien, werde die Wirkung des Werkes nicht mehr fern sein; der Untergang der Stadt stehe bevor\. Sie sollten darum für sich selbst Vorsorge treffen, damit sie Sicherheit gewännen und der Tempel vor dem Brand gerettet werde\. Damit sie dies umso leichter glaubten, wurden viele der Juden vorgeführt und ihnen die Hände abgehauen, damit man nicht meinte, sie seien freiwillig zu den Römern übergelaufen, und damit sie ihnen als Treulosen kein Vertrauen schenkten oder sie selbst töteten\. Doch tatsächlich schleuderten sie zur Warnung unablässig bedrückende Schmähungen zurück\. Caesars Milde erschien ihnen unheilvoller als seine Strenge, denn die eine nahm ihnen die Freiheit, die andere das Leben\. Lieber wollten sie ihre Kinder sterben sehen, als sie als Sklaven leben lassen\. Ihre eigenen Seelen weihten sie dem Tempel\. Unsterblichkeit, so meinten sie, würde ihnen gehören, wenn sie, mit dem Tempel verbrannt, an den Altären und Gräbern der Väter stürben\. Titus erreichte nichts, rettete wenig und gab vieles preis\. Vor dem Tempel, sagten sie, werde das Paradies ihnen folgen, und dorthin müssten die versetzt werden, die für den Tempel kämpften; nur sollten sie mit eigenen Augen die römischen Triumphe nicht sehen und ihre gefangenen Nacken nicht unter das Joch beugen\. Ihre kleinen Kinder sollten geweiht, nicht getötet werden, denn ihre Eltern seien Verteidiger der himmlischen Sakramente\. Dadurch erschreckt, befahl Titus, wenigstens diejenigen zu retten, die gegen ihren Willen festgehalten wurden, und ließ die Kriegsmaschinen vorrücken\.
+So ließ er etwa verkünden,
+sobald die Wälle errichtet seien,
+werde die Wirkung des Werkes nicht mehr fern sein;
+der Untergang der Stadt stehe bevor\.
+Sie sollten darum für sich selbst Vorsorge treffen,
+damit sie Sicherheit gewännen und der Tempel vor dem Brand gerettet werde\.
+Damit sie dies umso leichter glaubten,
+wurden viele der Juden vorgeführt und ihnen die Hände abgehauen,
+damit man nicht meinte,
+sie seien freiwillig zu den Römern übergelaufen,
+und damit sie ihnen als Treulosen kein Vertrauen schenkten oder sie selbst töteten\.
+Doch tatsächlich schleuderten sie zur Warnung unablässig bedrückende Schmähungen zurück\.
+Caesars Milde erschien ihnen unheilvoller als seine Strenge,
+denn die eine nahm ihnen die Freiheit,
+die andere das Leben\.
+Lieber wollten sie ihre Kinder sterben sehen,
+als sie als Sklaven leben lassen\.
+Ihre eigenen Seelen weihten sie dem Tempel\.
+Unsterblichkeit,
+so meinten sie,
+würde ihnen gehören,
+wenn sie,
+mit dem Tempel verbrannt,
+an den Altären und Gräbern der Väter stürben\.
+Titus erreichte nichts,
+rettete wenig und gab vieles preis\.
+Vor dem Tempel,
+sagten sie,
+werde das Paradies ihnen folgen,
+und dorthin müssten die versetzt werden,
+die für den Tempel kämpften;
+nur sollten sie mit eigenen Augen die römischen Triumphe nicht sehen und ihre gefangenen Nacken nicht unter das Joch beugen\.
+Ihre kleinen Kinder sollten geweiht,
+nicht getötet werden,
+denn ihre Eltern seien Verteidiger der himmlischen Sakramente\.
+Dadurch erschreckt,
+befahl Titus,
+wenigstens diejenigen zu retten,
+die gegen ihren Willen festgehalten wurden,
+und ließ die Kriegsmaschinen vorrücken\.

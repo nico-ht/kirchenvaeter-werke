@@ -7,6 +7,53 @@ Autor: Unbekannt
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-5#kapitel-1e61b7a8-b990-438b-27b2-08ded49076ad).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:75332aefa5acef49d71ccc4a76219da7261443fffa17b9a153ff21ff8b6542a4`
-
-So floh Tiridates, dem es genügte, entkommen zu sein\. Sein Königreich aber ließ er der Plünderung preisgegeben zurück\. Denn gleichsam wie nach einem erlittenen Unrecht, weil er es gewagt hatte, ihnen entgegenzutreten, verwüsteten sie Armenien noch heftiger als das Reich der Meder\. So zogen sie mit der Beute aus jedem reichen Königreich in ihr eigenes Land zurück\. Als Titus von ihrem Einfall erfuhr, reiste er nach Antiochien, jedoch langsam, wie es einem zukam, der einen Triumph feierte; dabei verbarg er den Grund und entfaltete in jeder Stadt den Siegespomp\. In der Arena wurden Juden getötet; wohin er auch kam, wurden sie von wilden Tieren zerrissen und empfingen den gebührenden Lohn der Rebellion\. Auch das heidnische Volk von Antiochien erhob aus altem Hass Klage gegen sie, weil die Könige der Perser den Synagogen von Antiochien jene Gaben überwiesen hatten, die sie nach dem Recht des Sieges von der Stadt Jerusalem beansprucht hatten, und darüber hinaus auch anderes aus ihrem eigenen Besitz geschenkt hatten\. So weckte der aufgehäufte Reichtum leicht Neid\. Denn, um jetzt zu übergehen, was rivalisierende Priester gegen die Makkabäer betrieben und dass, wie wir früher erwähnt haben, der Wunsch nach einem großen Blutbad unter den Bürgern bestand: Später trat Antiochus auf, nicht aus dem einfachen Volk, sondern aus Gewohnheit zum Verbrechen verdorben; nachdem behauptet worden war, die Juden hätten sich verschworen, die Stadt Antiochien durch Feuer zu zerstören, zwang er seinen eigenen Vater, der zu den Ersten unter den Juden gehörte, und viele andere, die durch diesen Angriff der heidnischen Menge beschuldigt wurden, in den Tod\. Und nicht gesättigt von diesem Mord und dem Blutbad an vielen, gab er keine Ruhe; sondern als er später ebenfalls einen Vorwand fand, weil danach zufällig durch einen Brand ein überdachter Säulengang derselben Stadt, ein öffentlicher Platz und ein großer Teil der Gebäude verbrannten, begann er erneut, unter dem Trug der schon erwähnten Verschwörung die Juden zu beschuldigen und sie anzugreifen\. Und er hätte beinahe alle niedergemacht, wenn ihn nicht die Furcht zurückgehalten hätte, dem ankommenden Titus könne die Nachricht nicht verborgen bleiben und der Caesar werde durch die rechtswidrig unternommene Bestrafung so vieler zum Zorn gereizt\. Das war für die Juden die Rettung\.
+So floh Tiridates,
+dem es genügte,
+entkommen zu sein\.
+Sein Königreich aber ließ er der Plünderung preisgegeben zurück\.
+Denn gleichsam wie nach einem erlittenen Unrecht,
+weil er es gewagt hatte,
+ihnen entgegenzutreten,
+verwüsteten sie Armenien noch heftiger als das Reich der Meder\.
+So zogen sie mit der Beute aus jedem reichen Königreich in ihr eigenes Land zurück\.
+Als Titus von ihrem Einfall erfuhr,
+reiste er nach Antiochien,
+jedoch langsam,
+wie es einem zukam,
+der einen Triumph feierte;
+dabei verbarg er den Grund und entfaltete in jeder Stadt den Siegespomp\.
+In der Arena wurden Juden getötet;
+wohin er auch kam,
+wurden sie von wilden Tieren zerrissen und empfingen den gebührenden Lohn der Rebellion\.
+Auch das heidnische Volk von Antiochien erhob aus altem Hass Klage gegen sie,
+weil die Könige der Perser den Synagogen von Antiochien jene Gaben überwiesen hatten,
+die sie nach dem Recht des Sieges von der Stadt Jerusalem beansprucht hatten,
+und darüber hinaus auch anderes aus ihrem eigenen Besitz geschenkt hatten\.
+So weckte der aufgehäufte Reichtum leicht Neid\.
+Denn,
+um jetzt zu übergehen,
+was rivalisierende Priester gegen die Makkabäer betrieben und dass,
+wie wir früher erwähnt haben,
+der Wunsch nach einem großen Blutbad unter den Bürgern bestand:
+Später trat Antiochus auf,
+nicht aus dem einfachen Volk,
+sondern aus Gewohnheit zum Verbrechen verdorben;
+nachdem behauptet worden war,
+die Juden hätten sich verschworen,
+die Stadt Antiochien durch Feuer zu zerstören,
+zwang er seinen eigenen Vater,
+der zu den Ersten unter den Juden gehörte,
+und viele andere,
+die durch diesen Angriff der heidnischen Menge beschuldigt wurden,
+in den Tod\.
+Und nicht gesättigt von diesem Mord und dem Blutbad an vielen,
+gab er keine Ruhe;
+sondern als er später ebenfalls einen Vorwand fand,
+weil danach zufällig durch einen Brand ein überdachter Säulengang derselben Stadt,
+ein öffentlicher Platz und ein großer Teil der Gebäude verbrannten,
+begann er erneut,
+unter dem Trug der schon erwähnten Verschwörung die Juden zu beschuldigen und sie anzugreifen\.
+Und er hätte beinahe alle niedergemacht,
+wenn ihn nicht die Furcht zurückgehalten hätte,
+dem ankommenden Titus könne die Nachricht nicht verborgen bleiben und der Caesar werde durch die rechtswidrig unternommene Bestrafung so vieler zum Zorn gereizt\.
+Das war für die Juden die Rettung\.

@@ -7,6 +7,8 @@ Autor: Melito von Sardes
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/melito-von-sardes/ueber-das-passah#kapitel-43d3f92a-d077-4708-76a6-08dd666fd4f1).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Revision: `sha256:96dfd80d127f17e43405625e9d801b783c89015f2cd679a8cc2c56f86bd4ba0c`
-
-Die Menschheit wurde vom Tod ausgeteilt, denn ein fremdes Unheil und Gefangenschaft umzingelten den Menschen; er wurde als Gefangener unter den Schatten des Todes weggeschleift, und das Abbild des Vaters wurde verwüstet zurückgelassen\. Aus diesem Grund wird im Körper des Herrn das Geheimnis des Passah vollendet\.
+Die Menschheit wurde vom Tod ausgeteilt,
+denn ein fremdes Unheil und Gefangenschaft umzingelten den Menschen;
+er wurde als Gefangener unter den Schatten des Todes weggeschleift,
+und das Abbild des Vaters wurde verwüstet zurückgelassen\.
+Aus diesem Grund wird im Körper des Herrn das Geheimnis des Passah vollendet\.
