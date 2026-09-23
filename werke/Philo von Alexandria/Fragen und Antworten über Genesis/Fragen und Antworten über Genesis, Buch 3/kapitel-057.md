@@ -1,0 +1,10 @@
+# Fragen und Antworten über Genesis, Buch 3 – Kapitel 57
+
+Autor: Philo von Alexandria
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-3#kapitel-03f004a9-b70a-4122-9cb1-08ded7f950d2).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Warum sagte Abraham zu Gott: „O möge doch dieser mein Sohn Ismael vor dir leben“? Zuerst, so sagt er, verzweifle ich nicht, o Herr, an einer besseren Nachkommenschaft, sondern ich glaube deiner Verheißung; dennoch wäre es für mich ein ausreichender Segen, wenn dieser Sohn lebte, der einstweilen ein lebendiger Sohn ist und sichtbar vor Augen steht, auch wenn er es nicht nach rechtmäßigem Blut ist, sondern nur von einer Nebenfrau geboren wurde\. Zweitens ist jener Segen, um den er jetzt bittet, ein zusätzlicher; denn er fleht für seine Söhne nicht um Leben allein, sondern um ein besonderes Leben in Gott\. Und wir müssen annehmen, dass es nichts Vollkommeneres gibt als die Freude in der Gegenwart Gottes bei heilsamer Gesundheit des Geistes, die der Unsterblichkeit gleichkommt\. Drittens deutet er durch eine Vermutung an, dass das göttliche Gesetz, wenn man es hört, nicht schon als ausreichend gelten darf, wenn es nur gehört wird, sondern auch tiefer in den inneren Menschen eindringen und seinen führenden Teil formen muss; denn jenes Leben ist würdig, von der Gottheit angeschaut zu werden, das nach seinem Wort geformt ist\.

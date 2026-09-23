@@ -1,0 +1,16 @@
+# Gegen Celsus, Buch 1 – Kapitel 40
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-1#kapitel-c7f24362-bbdb-4e99-0a0f-08df02ec59a9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nach diesen Behauptungen greift er aus dem Matthäusevangelium und vielleicht auch aus den anderen Evangelien den Bericht auf, dass bei der Taufe unseres Erlösers durch Johannes eine Taube auf ihn herabkam[^bible-b6b58ba5-9286-4855-b88e-4ba09a700a4b]\. Er will die Aussage unglaubwürdig machen und behauptet, die Erzählung sei erfunden\. Nachdem er die Geschichte von der Geburt unseres Herrn aus einer Jungfrau[^bible-fd580f54-7772-44c4-921a-55127b29ca67], wie er meint, vollständig widerlegt hat, behandelt er die darauf folgenden Berichte nicht der Reihe nach\. Denn Leidenschaft und Hass kennen keine Ordnung; zornige und rachsüchtige Menschen verleumden diejenigen, die sie hassen, so, wie die jeweilige Regung über sie kommt, weil ihre Leidenschaft sie daran hindert, ihre Anschuldigungen sorgfältig und planvoll zu ordnen\. Hätte er eine angemessene Reihenfolge eingehalten, so hätte er das Evangelium zur Hand genommen und, um es anzugreifen, zunächst Einwände gegen die erste Erzählung erhoben, wäre dann zur zweiten und danach zu den übrigen übergegangen\. Stattdessen greift dieser Celsus, der vorgibt, unsere gesamte Geschichte zu kennen, nach der Jungfrauengeburt[^bible-fd580f54-7772-44c4-921a-55127b29ca67] den Bericht über die Erscheinung des Heiligen Geistes in Gestalt einer Taube bei der Taufe[^bible-b6b58ba5-9286-4855-b88e-4ba09a700a4b] an\. Danach versucht er, die Voraussage unglaubwürdig zu machen, unser Herr werde in die Welt kommen\. Als Nächstes springt er zu dem, was unmittelbar auf die Erzählung von der Geburt Jesu folgt: zum Bericht über den Stern und über die Weisen, die aus dem Osten kamen, um sich vor dem Kind niederzuwerfen[^bible-13e04dd0-82b9-4bf6-95f7-88e24e6feb0f]\. Wenn du dir die Mühe machst, wirst du selbst im ganzen Buch des Celsus viele wirre Aussagen finden\. So kann Celsus auch anhand dieses Berichts von denen, die eine geordnete Darstellungsweise zu erkennen und zu fordern wissen, großer Voreiligkeit und Prahlerei überführt werden, weil er seinem Werk den Titel Eine wahre Abhandlung gegeben hat, etwas, das ein gelehrter Philosoph niemals tut\. Denn Platon sagt, es zeuge nicht von einem verständigen Menschen, über Dinge, die in gewissem Maße unsicher sind, entschiedene Behauptungen aufzustellen\. Selbst der berühmte Chrysippus, der häufig die Gründe nennt, von denen er sich bestimmen lässt, verweist uns auf andere, die wir als fähigere Sprecher erkennen werden als ihn selbst\. Dieser Mann jedoch, der weiser ist als die bereits Genannten und als alle anderen Griechen, hat, entsprechend seiner eigenen Behauptung, alles zu kennen, seinem Buch die Worte Eine wahre Abhandlung vorangestellt\!
+
+## Bibelverweise
+
+[^bible-13e04dd0-82b9-4bf6-95f7-88e24e6feb0f]: Mt 2,1–Mt 2,2
+[^bible-b6b58ba5-9286-4855-b88e-4ba09a700a4b]: Mt 3,16
+[^bible-fd580f54-7772-44c4-921a-55127b29ca67]: Mt 1,23

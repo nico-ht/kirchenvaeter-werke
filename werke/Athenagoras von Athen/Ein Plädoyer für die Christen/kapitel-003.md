@@ -1,0 +1,10 @@
+# Ein Plädoyer für die Christen – Kapitel 3
+
+Autor: Athenagoras von Athen
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athenagoras/ein-plaedoyer-fuer-die-christen#kapitel-e1c3e30f-c949-427d-c9b2-08dd3412a7f6).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Drei Verbrechen wirft man uns vor: Gottlosigkeit, Thyestesmahle und ödipale Verbindungen\. Wenn diese Vorwürfe wahr sind, dann verschont keinen Stand, ahndet die Verbrechen und rottet uns samt Frauen und Kindern mit der Wurzel aus, falls tatsächlich irgendein Mensch wie ein Tier lebt\. Dabei rühren selbst Tiere ihre Artgenossen nicht an\. Auch paaren sie sich nach dem Gesetz der Natur nur zu einer bestimmten Zeit, um Nachwuchs zu zeugen, nicht aus hemmungsloser Begierde; und sie erkennen diejenigen, von denen sie Gutes erfahren\. Wenn also jemand noch wilder ist als die Tiere, welche Strafe könnte er für derart ungeheure Taten erleiden, die als angemessen gelten dürfte? Wenn dies aber erfundene Geschichten und leere Verleumdungen sind, weil die Tugend der Schlechtigkeit von Natur aus entgegensteht und die Gegensätze einander nach göttlichem Gesetz bekämpfen, und wenn ihr selbst bezeugt, dass wir nichts davon tun, indem ihr anordnet, dergleichen nicht einzugestehen, dann bleibt euch nur noch, unser Leben und unsere Lehren zu prüfen, ebenso unseren Eifer und Gehorsam gegenüber euch, eurem Haus und eurer Herrschaft\. Gewährt uns dann endlich nicht mehr als denen, die uns verfolgen\. Denn wir werden sie besiegen, indem wir ohne Zögern selbst unser Leben für die Wahrheit hingeben\.

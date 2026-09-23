@@ -6,8 +6,8 @@ Johannes Chrysostomus
 
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/76-homilie-ueber-matthaeus) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-- [Kapitel 1](kapitel-001.html)
-- [Kapitel 2](kapitel-002.html)
-- [Kapitel 3](kapitel-003.html)
-- [Kapitel 4](kapitel-004.html)
-- [Kapitel 5](kapitel-005.html)
+- [Kapitel 1](kapitel-001.md)
+- [Kapitel 2](kapitel-002.md)
+- [Kapitel 3](kapitel-003.md)
+- [Kapitel 4](kapitel-004.md)
+- [Kapitel 5](kapitel-005.md)

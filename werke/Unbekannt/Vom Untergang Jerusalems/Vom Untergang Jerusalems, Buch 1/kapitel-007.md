@@ -1,0 +1,10 @@
+# Vom Untergang Jerusalems, Buch 1 – Kapitel 7
+
+Autor: Unbekannt
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-1#kapitel-cdbd0fe0-8b7a-45d5-c844-08dd5a4d0198).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Als er, wie wir es überliefert bekommen haben, Antigonus vorübergehen sah, der seinen Bruder besuchen wollte, sagte er zu denen, die zur Zahl seiner Schüler gehörten: „Vater, jetzt ist es gut für mich zu sterben, da für mich die Wahrheit gestorben ist\. Antigonus lebt, obwohl es unabwendbar ist, dass er heute getötet wird; der Ort aber, der für seinen Tod bestimmt ist, ist der Turm des Strato, sechshundert Stadien von hier entfernt\. Schon ist es die vierte Stunde des Tages\. Deshalb macht die Zeit den Glauben an den vorherbestimmten Tod unmöglich\.“ Als er dies sagte, begann er angestrengt bei sich zu überlegen, worin sich seine Auffassung geirrt hatte\. Nicht viel später aber wird die Nachricht überbracht, Antigonus sei in dem unterirdischen Gang beim Turm des Strato getötet worden, einem Ort, den man mit demselben Wort zu benennen pflegt wie jenen in der Küstengegend von Caesarea\. Nachdem dieses Verbrechen vollbracht war, bedachte Aristobolus bei sich, welches Verbrechen er zugelassen hatte, und verfiel in Krankheit\. Vor seinen Augen stand der Mord, in seinem Geist herrschte Verwirrung, und kein Augenblick blieb ihm zur Verstellung\. Der Schmerz saß tief in seinem Herzen, Hass verwandelte sich in Leiden, weil er gegen das Gesetz der Brüderlichkeit einen Unschuldigen getötet hatte; die Barbarei einer so großen Bosheit gärte in seinem Geist, seinen Augen wurde kein Schlaf gewährt und seinem Geist keine Ruhe\. Die Wunde kroch mit blindem Schmerz weiter, Ängste wühlten sein krankes Inneres auf, Sorgen verletzten seine schwachen Glieder, und aus tiefster Brust brachen häufige Seufzer mit wiederholtem Stöhnen hervor\.

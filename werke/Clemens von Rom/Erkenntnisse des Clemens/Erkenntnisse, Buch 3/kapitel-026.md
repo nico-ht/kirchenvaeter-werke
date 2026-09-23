@@ -1,0 +1,10 @@
+# Erkenntnisse, Buch 3 – Kapitel 26
+
+Autor: Clemens von Rom
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-3#kapitel-e62b8176-e8a5-4813-974b-08dd0a5c7235).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Daraufhin sagte Petrus: "Wenn jemand in geordneter und regelmäßiger Weise hört, kann er erkennen, was wahr ist\. Doch wer sich weigert, sich den Regeln eines reformierten Lebens und einer reinen Lebensführung zu unterwerfen, die tatsächlich das richtige Ergebnis des Wissens um die Wahrheit sind, wird nicht zugeben, dass er weiß, was er weiß\. Denn genau das sehen wir bei manchen, die, nachdem sie die Berufe aufgegeben haben, die sie in ihrer Jugend gelernt haben, sich anderen Tätigkeiten zuwenden\. Um ihre eigene Trägheit zu entschuldigen, beginnen sie, den erlernten Beruf als unprofitabel zu kritisieren\." Dann fragte Simon: "Sollten alle, die hören, glauben, dass alles, was sie hören, wahr ist?" Petrus antwortete: "Wer eine geordnete Darlegung der Wahrheit hört, kann diese in keiner Weise bestreiten, sondern erkennt, dass das Gesagte wahr ist, vorausgesetzt, er unterwirft sich auch bereitwillig den Lebensregeln\. Aber diejenigen, die beim Hören nicht bereit sind, sich guten Werken zuzuwenden, werden durch das Verlangen, Böses zu tun, daran gehindert, den Dingen zuzustimmen, die sie für richtig halten\. Daher ist es offensichtlich, dass es in der Macht der Hörenden liegt, zu wählen, welche der beiden Möglichkeiten sie bevorzugen\. Wenn jedoch alle, die hören, gehorchen würden, wäre das eher eine Notwendigkeit der Natur, die alle in eine Richtung führen würde\. Denn so wie niemand überzeugt werden kann, kürzer oder größer zu werden, weil die Kraft der Natur dies nicht zulässt, so wäre es auch, wenn entweder alle durch ein Wort zur Wahrheit bekehrt würden oder niemand bekehrt würde\. In diesem Fall wäre es die Kraft der Natur, die alle im einen Fall und im anderen Fall niemanden zur Bekehrung zwingt\."

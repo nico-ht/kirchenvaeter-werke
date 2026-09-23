@@ -1,0 +1,12 @@
+# Erkenntnisse, Buch 10 – Kapitel 20
+
+Autor: Clemens von Rom
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-10#kapitel-fb35b2b8-8265-4b0a-7534-08dd36600a1f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch genug von den Fabeln der alten Weiber und der Genealogie der Heiden; es wäre endlos, wollte ich alle Generationen derjenigen darlegen, die sie Götter nennen, und ihre gottlosen Taten\. Als Beispiel, die übrigen auslassend, will ich nur die bösen Taten dessen schildern, den sie für den Größten und Hauptgott halten, und den sie Jupiter nennen\. Sie sagen, dass er den Himmel besitzt, da er den anderen überlegen ist; und als er heranwuchs, heiratete er seine eigene Schwester, die sie Juno nennen, wodurch er sich wahrhaftig wie ein Tier verhält\. Juno gebar Vulkan; aber, wie sie erzählen, war Jupiter nicht sein Vater\. Dennoch wurde sie durch Jupiter Mutter von Medea; und nachdem Jupiter eine Antwort erhalten hatte, dass einer, der von ihr geboren werden sollte, mächtiger als er selbst sein und ihn aus seinem Königreich vertreiben würde, nahm er sie und verschlang sie\.
+
+Wiederum brachte Jupiter Minerva aus seinem Kopf hervor und Bacchus aus seinem Oberschenkel\. Nachdem er sich dann in Thetis verliebt hatte, soll Prometheus ihn informiert haben, dass, wenn er mit ihr schlafen würde, der von ihr Geborene mächtiger als sein Vater sein würde; aus Angst davor gab er sie einem Peleus zur Frau\. Später hatte er Verkehr mit Persephone, die seine eigene Tochter von Ceres war, und mit ihr zeugte er Dionysius, der von den Titanen in Stücke gerissen wurde\. Doch als er sich erinnerte, dass vielleicht sein eigener Vater Saturn einen weiteren Sohn zeugen könnte, der mächtiger als er selbst sein und ihn aus dem Königreich vertreiben könnte, zog er mit seinen Brüdern, den Titanen, in den Krieg gegen seinen Vater; und nachdem er sie besiegt hatte, warf er schließlich seinen Vater ins Gefängnis, schnitt ihm die Genitalien ab und warf sie ins Meer\. Doch das Blut, das aus der Wunde floss, vermischte sich mit den Wellen und wurde durch das ständige Aufwirbeln zu Schaum, aus dem sie entstand, die sie Aphrodite nennen, und die wir Venus nennen\. Aus dem Verkehr mit ihr, die somit seine eigene Schwester war, zeugte dieser gleiche Jupiter Cypris, die, so sagen sie, die Mutter von Amor war\.

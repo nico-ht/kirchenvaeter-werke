@@ -1,0 +1,10 @@
+# Fragen und Antworten über Genesis, Buch 1 – Kapitel 14
+
+Autor: Philo von Alexandria
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-1#kapitel-9fd0d92e-e5a6-429c-cd28-08dd5e2b9946).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Warum Gott den Menschen mit einem doppelten Zweck ins Paradies setzte: damit er es sowohl bebaue als auch bewahre, obwohl das Paradies in Wirklichkeit keiner Bearbeitung bedurfte, weil es in allem vollkommen war, da es von Gott gepflanzt worden war; noch bedurfte es wiederum eines Wächters, denn wer hätte es verwüsten sollen? Dies sind die beiden Ziele, die der Landbau erreichen und beachten muss: die Bebauung des Landes und die sichere Bewahrung dessen, was darin ist; andernfalls wird es entweder durch Nachlässigkeit oder durch Verwüstung verdorben\. Doch obwohl das Paradies solcher Mühen nicht bedurfte, war es dennoch angemessen, dass derjenige, dem seine Ordnung und Pflege anvertraut wurde, nämlich der erste Mensch, für alle künftigen Arbeiter gleichsam Vorbild und Gesetz dessen sein sollte, was von ihnen zu tun ist\. Außerdem war es passend, dass das Paradies, obwohl es ganz mit allem erfüllt war, dem, der es bearbeitete, dennoch Anlass zur Sorge und Gelegenheit zur Entfaltung seines Fleißes ließ, etwa indem er ringsum grub, es pflegte, den Boden lockerte, Gräben zog und es mit Wasser bewässerte\. Auch musste man auf seine Sicherheit achten, obwohl niemand da war, der es hätte verwüsten können, wegen der wilden Tiere, vor allem aber im Hinblick auf Luft und Wasser: etwa wenn Trockenheit herrschte, es reichlich mit Wasser zu bewässern, und bei feuchterem Wetter das Übermaß an Feuchtigkeit einzudämmen, indem man den Lauf der Bäche in andere Richtungen lenkte\.

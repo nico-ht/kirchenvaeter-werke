@@ -1,0 +1,10 @@
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 21
+
+Autor: Unbekannt
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-4#kapitel-9bfd7864-af92-4834-2773-08ded49076ad).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Die Nachricht vom Tod Neros war nach Art der menschlichen Natur eingetroffen: Ihr genügt es, wenn sie die ersehnte Nachricht erhalten hat, nicht weiter nach dem Rest zu fragen, sondern sofort das Unvollständige, das ihr gefallen hat, in die Öffentlichkeit hinauszutragen\. Nicht viel später jedoch wurde bekannt, dass Galba an der Spitze des Römischen Reiches stand\. Daher wollte Vespasian die Meinung des neuen Herrschers über den Krieg der Juden einholen und sandte seinen Sohn Titus und den König Agrippa\. Titus kehrte aus Achaia zurück, nachdem bekannt geworden war, dass Galba im siebten Monat und am siebten Tag nach der Übernahme der Macht abgesetzt worden war und mitten in der Stadt, nämlich auf dem römischen Forum, Strafe für das Berüchtigte im Herzen der Stadt bezahlt hatte, und dass Otho die günstigen Umstände und die kaiserliche Nachfolge an sich gerissen hatte\. Agrippa eilte nach Rom, um sich beim neuen Herrscher Gunst zu verschaffen\. Titus aber hielt die Rücksicht auf die Pflicht gegenüber seinem Vater für wichtiger als die auf die kaiserliche Macht; denn wenn er ohne den Rat seines Vaters weiterzöge, so meinte er, würde das auch dem Herrscher selbst nicht gefallen\. Gewiss gab der Tod ihm zur rechten Zeit den Hinweis, mit der Nachricht zu seinem Vater zurückzukehren, der im Ungewissen war, wohin die Ereignisse liefen\. Denn schließlich setzte Vespasian, besorgt um das gesamte Römische Reich und um die Lage seines Vaterlandes, den Krieg aus und hielt seinen Angriff zurück; was in Judäa geschah, galt ihm als nachrangig gegenüber der Sorge um die ganze Lage und der pflichtgemäßen Fürsorge für sein Vaterland\.

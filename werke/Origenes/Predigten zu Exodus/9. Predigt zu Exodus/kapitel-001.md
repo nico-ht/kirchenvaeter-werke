@@ -1,0 +1,20 @@
+# 9\. Predigt zu Exodus – Kapitel 1
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/9-predigt-zu-exodus#kapitel-903fba62-ce74-4fc7-9ce2-08de4557fc68).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn jemand den Aufbruch der Hebräer aus Ägypten oder den Durchzug durch das Rote Meer und diese ganze Reise durch die Wüste sowie jede einzelne Lagerstatt richtig durchdringt; wenn er fähig ist, diese Dinge so zu verstehen, dass er auch das Gesetz Gottes empfängt, das „nicht mit Tinte, sondern mit dem Geist des lebendigen Gottes geschrieben ist\.“[^bible-db9dbe9d-9dcf-4a02-9a43-41abc3bae9fd] Wenn sich also jemand, sage ich, genau in dieser Reihenfolge mit diesen Dingen befasst und jeden einzelnen Punkt geistlich erfüllt, um das Wachstum an Tugenden zu erlangen, das in jedem angezeigt wird, dann kann dieser Mann folglich auch zur Betrachtung und zum Verständnis der Stiftshütte durchdringen\! Die göttlichen Schriften reden an vielen Orten über diese Stiftshütte\. Sie scheinen auf gewisse Dinge hinzuweisen, die das menschliche Gehör kaum zu fassen vermag\. Doch gerade der Apostel Paulus liefert uns gewisse Hinweise auf eine weit überlegenere Erkenntnis zum Verständnis der Stiftshütte, aber aus irgendeinem unbekannten Grund – vielleicht weil er die Schwäche seiner Zuhörer bedenkt – verschließt er gewissermaßen genau jene Dinge, die er gerade öffnet\. Denn er sagt, wenn er an die Hebräer schreibt: „Denn es wurde eine erste Stiftshütte errichtet, in der sich der Leuchter und die Schaubrote befanden\. Diese wurde das Allerheiligste genannt\. Nach dem zweiten Vorhang jedoch kommt die Stiftshütte, die Heiliges genannt wird und den goldenen Räucheraltar sowie die Bundeslade enthält, in der die zwei Tafeln und das Manna und Aarons Stab, der geblüht hatte, waren\.“[^bible-59a9545c-4066-48b0-ba50-46d26449b0d0]
+
+Aber er fügt diesen Worten hinzu: „Worüber jetzt nicht im Einzelnen zu reden ist\.“[^bible-f5b43e3e-cb5b-4be1-93c3-a3b29bca3792] Manche beziehen die Worte „Worüber jetzt nicht zu reden ist“ auf jene Zeit, in der er den Brief an die Hebräer schrieb\. Anderen aber scheint es, dass er damit feststellt, das ganze gegenwärtige Leben reiche wegen der Größe der Mysterien nicht aus, um diese Dinge zu erklären\. Doch der Apostel lässt uns nicht völlig niedergeschlagen zurück\! Wie es seine Gewohnheit ist, öffnet er weniges von vielem, damit es den Gleichgültigen verschlossen bleibe, aber von denen, die suchen, entdeckt und denen, die anklopfen, geöffnet werde\. Er wiederholt sich daher über die Stiftshütte und sagt: „Denn Jesus ist nicht in ein mit Händen gemachtes Heiligtum eingegangen, ein Gegenbild des wahren, sondern in den Himmel selbst, um jetzt vor dem Angesicht Gottes zu erscheinen durch den Vorhang, das heißt sein Fleisch\.“[^bible-dfc0ab4b-3e1c-45ac-9e25-f22dcdab0d41] Wer nun also den Vorhang im Inneren der Stiftshütte als das Fleisch Christi gedeutet hat, das Heiligtum selbst als den Himmel oder die Himmel, den Hohepriester als den Herrn Christus, und sagt, dass er „einmal in das Heiligtum eingegangen ist, nachdem er eine ewige Erlösung gefunden hat,“[^bible-126380b5-5df0-4409-8666-1b6727a2d6ae] wer aus diesen wenigen Worten den Sinn des Paulus zu verstehen weiß, der kann erkennen, welch gewaltiges Meer an Erkenntnis er uns erschlossen hat\! Diejenigen aber, die den Buchstaben des Gesetzes des Mose allzu sehr lieben, aber vor dessen Geist fliehen, halten den Apostel Paulus für verdächtig, wenn er Auslegungen dieser Art vorbringt\.
+
+## Bibelverweise
+
+[^bible-126380b5-5df0-4409-8666-1b6727a2d6ae]: Hebr 9,12
+[^bible-59a9545c-4066-48b0-ba50-46d26449b0d0]: Hebr 9,2–Hebr 9,4
+[^bible-db9dbe9d-9dcf-4a02-9a43-41abc3bae9fd]: 2Kor 3,3
+[^bible-dfc0ab4b-3e1c-45ac-9e25-f22dcdab0d41]: Hebr 9,24; Hebr 10,20
+[^bible-f5b43e3e-cb5b-4be1-93c3-a3b29bca3792]: Hebr 9,5

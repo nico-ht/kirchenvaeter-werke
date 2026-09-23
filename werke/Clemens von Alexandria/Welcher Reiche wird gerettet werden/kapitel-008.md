@@ -1,0 +1,17 @@
+# Welcher Reiche wird gerettet werden? – Kapitel 8
+
+Autor: Clemens von Alexandria
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-alexandria/welcher-reiche-wird-gerettet-werden#kapitel-5bbbd80a-7617-4ea8-545e-08df013cfca0).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wer das wahre Leben erlangen will, soll also zuerst ihn erkennen, „den niemand erkennt außer dem Sohn und dem, dem der Sohn ihn offenbart[^bible-9c81b29f-6ce3-4066-9932-db17f1e06b0a] “\. Nach ihm soll er erkennen, wie groß der Retter und wie neu die Gnade ist\. Denn nach dem Apostel gilt: „Das Gesetz wurde durch Mose gegeben, die Gnade und die Wahrheit aber durch Jesus Christus[^bible-15ec1914-a9ba-4e32-883c-72ee3b0751cd]\.“ Was durch einen treuen Sklaven gegeben wird, ist nicht dasselbe wie das, was der echte Sohn schenkt\. Wenn nämlich das Gesetz des Mose genügt hätte, ewiges Leben zu geben, wäre der Retter selbst vergeblich gekommen und hätte vergeblich für uns gelitten, während er von seiner Geburt bis zum Kreuz das ganze menschliche Leben durchlief\. Dann hätte auch jener Mann, der „von Jugend an[^bible-eb990134-5641-4334-8cee-5be69d4fba66] “ alle gesetzlichen Gebote erfüllt hatte, einen anderen vergeblich auf Knien um Unsterblichkeit gebeten\. Denn er hatte das Gesetz nicht nur erfüllt, sondern schon im frühesten Alter damit begonnen\. Was wäre auch groß oder besonders eindrucksvoll daran, wenn ein hohes Alter frei von den Verfehlungen bleibt, die jugendliche Begierden, aufwallender Zorn oder Geldgier hervorbringen? Wer aber im Überschwang der Jugend und in der Glut dieses Lebensalters eine reife Gesinnung bewahrt, die älter ist als seine Jahre, der ist ein bewundernswerter und herausragender Kämpfer, dessen Einsicht schon ergraut ist\. Und doch ist dieser Mann fest davon überzeugt: Zur Gerechtigkeit fehlt ihm nichts, aber das Leben fehlt ihm ganz und gar\. Darum bittet er den Einzigen darum, der es geben kann\. Dem Gesetz gegenüber tritt er mit Zuversicht auf, doch den Sohn Gottes fleht er an\. „Von Glauben zu Glauben[^bible-38fab8b5-0783-481f-94d5-7ce94512d868] “ geht er über: Im Gesetz treibt er unsicher und liegt gefährlich vor Anker; deshalb wechselt er zum Retter als seinem neuen Ankerplatz\.
+
+## Bibelverweise
+
+[^bible-15ec1914-a9ba-4e32-883c-72ee3b0751cd]: Joh 1,17
+[^bible-38fab8b5-0783-481f-94d5-7ce94512d868]: Röm 1,17
+[^bible-9c81b29f-6ce3-4066-9932-db17f1e06b0a]: Mt 11,27
+[^bible-eb990134-5641-4334-8cee-5be69d4fba66]: Mt 19,20; Mk 10,20; Lk 18,21

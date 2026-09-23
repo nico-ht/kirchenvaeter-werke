@@ -1,0 +1,10 @@
+# Erkenntnisse, Buch 1 – Kapitel 12
+
+Autor: Clemens von Rom
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-1#kapitel-955c9eac-1d68-4809-f1a5-08de3ca443c2).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ich hielt mich nur wenige Tage auf und trieb einen Teil der Schulden ein – das meiste ließ ich in meiner Eile einfach sausen, um mich bloß nicht von meinem Vorhaben abbringen zu lassen\! Ich segelte sofort weiter nach Judäa und landete nach fünfzehn Tagen in Cäsarea Stratonis, der größten Stadt Palästinas\. Als ich von Bord ging und eine Herberge suchte, erfuhr ich durch das Gerede der Leute, dass ein gewisser Petrus morgen einen harten Kampf der Worte und Streitfragen austragen würde\! Petrus, der bewährteste Jünger jenes Mannes, der in Judäa erschienen war und viele Zeichen und göttliche Wunder unter den Menschen gewirkt hatte\. Sein Gegner: ein gewisser Simon, ein Samaritaner aus dem Dorf Githon\. Als ich das hörte, bat ich sofort darum, mir seine Herberge zu zeigen\. Ich fand sie, stellte mich vor die Tür und drängte dem Pförtner auf, wer ich sei und woher ich käme\. Und siehe da: Barnabas kam heraus\! Sobald er mich sah, rannte er mir in die Arme, weinte vor Freude, packte mich an der Hand und führte mich zu Petrus hinein\. Als er ihn mir von weitem zeigte, sagte er: „Das ist Petrus\! Von ihm habe ich dir gesagt, er sei der Größte in der Weisheit Gottes, und von dir habe ich ihm wiederum ohne Unterlass erzählt\. Geh also hinein, als wärst du ihm schon bestens bekannt\. Denn alles Gute, das in dir steckt, hat er wahrheitsgemäß erfahren und deine fromme Absicht genau erkannt; deshalb brennt er auch darauf, dich zu sehen\. Darum übergebe ich dich ihm heute mit meinen eigenen Händen als großes Geschenk\.“ Und während er mich vorstellte, sagte er: „Das ist Clemens, Petrus\.“

@@ -6,5 +6,5 @@ Cyprian von Karthago
 
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/cyprian/brief-60-schauspieler-abgelehnt) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-- [Kapitel 1](kapitel-001.html)
-- [Kapitel 2](kapitel-002.html)
+- [Kapitel 1](kapitel-001.md)
+- [Kapitel 2](kapitel-002.md)

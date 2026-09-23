@@ -1,0 +1,14 @@
+# Gegen Celsus, Buch 1 – Kapitel 70
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-1#kapitel-76011b8c-a7ad-4a1a-0a2d-08df02ec59a9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ferner behauptet er: „Der Körper eines Gottes ernährt sich nicht von solcher Speise wie der Körper Jesu\.“ Denn aus den Berichten der Evangelien kann er nachweisen, dass Jesus aß, und zwar Speise einer bestimmten Art\. Nun, dem sei so\. Er mag behaupten, Jesus habe mit seinen Jüngern das Passah gegessen: Er sagte nicht nur: „Sehnlich habe ich danach verlangt, dieses Passah mit euch zu essen[^bible-07dfd0b1-bb78-4b06-8d23-200457b2929e] “, sondern aß es auch tatsächlich\. Ebenso mag er sagen, Jesus habe am Jakobsbrunnen Durst verspürt und aus dem Brunnen getrunken\. Inwiefern sprechen diese Tatsachen gegen das, was wir über die Beschaffenheit seines Körpers gesagt haben? Auch kann es keinen Zweifel daran geben, dass er nach seiner Auferstehung ein Stück Fisch aß\. Denn nach unserer Auffassung nahm er als einer, der von einer Frau geboren wurde, einen wirklichen Körper an\. „Aber“, wendet Celsus ein, „der Körper eines Gottes bedient sich keiner Stimme wie der Stimme Jesu und auch keiner solchen Weise, andere zu überzeugen, wie Jesus sie gebrauchte\.“ Das sind wahrhaftig belanglose und völlig verachtenswerte Einwände\. Denn wir werden ihm antworten: Derjenige, der bei den Griechen als Gott gilt, nämlich der pythische und der didymäische Apollo, spricht mit einer solchen Stimme durch seine pythische Priesterin in Delphi und durch seine Prophetin in Milet\. Und doch werfen die Griechen weder dem pythischen noch dem didymäischen Apollo vor, kein Gott zu sein; ebenso wenig wird dies irgendeiner anderen griechischen Gottheit vorgeworfen, deren Kult an einen bestimmten Ort gebunden ist\. Gewiss wäre es weit besser, wenn ein Gott eine Stimme gebrauchte, die mit Macht geäußert wird und dadurch in den Gedanken der Hörer eine unbeschreibliche Art von Überzeugung hervorruft\.
+
+## Bibelverweise
+
+[^bible-07dfd0b1-bb78-4b06-8d23-200457b2929e]: Lk 22,15

@@ -1,0 +1,10 @@
+# Erkenntnisse, Buch 1 – Kapitel 59
+
+Autor: Clemens von Rom
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-1#kapitel-33925e84-4a33-4cfa-9ffe-08de579aa9c5).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ein gewisser Pharisäer aber, der das hörte, unterstellte Philippus, er würde Mose mit Jesus gleichstellen\. Bartholomäus antwortete ihm und stellte unerschütterlich klar: „Wir sagen nicht, dass Jesus Mose nur gleich ist, sondern dass er größer ist\! Denn Mose war zwar ein Prophet – was auch Jesus war –, aber was Jesus war, war Mose nicht: nämlich Christus\! Und deshalb ist der zweifellos größer, der sowohl Prophet als auch Christus ist, als der, der nur Prophet ist\.“ Nachdem er dies und vieles Ähnliche ausgeführt hatte, schwieg er\. Nach ihm hielt Jakobus, der Sohn des Alphäus, eine Rede an das Volk, in der er aufzeigte: Man muss nicht deshalb an Jesus glauben, weil die Propheten über ihn vorhergesagt haben, sondern man muss den Propheten vielmehr deshalb glauben – dass sie wahre Propheten sind –, weil Christus ihnen das Zeugnis ausstellt\! Denn die Gegenwart und die Ankunft Christi weist jene als wahre Propheten aus\. Er sagte nämlich: „Nicht von den Geringeren wird dem Größeren das Zeugnis des Glaubens gegeben, sondern vom Größeren den Geringeren\!“ Nachdem er dies und vieles Ähnliche ausgeführt hatte, schwieg auch Jakobus\. Nach ihm fing Lebbäus an, das Volk heftig anzuklagen, weil sie Jesus nicht glaubten, der ihnen so viel genützt hatte, indem er lehrte, was Gottes ist, die Betrübten tröstete, die Kranken heilte und die Armen aufrichtete, sie ihm aber für all diese guten Taten Hass und Tod zurückgaben\! Als er dies und vieles Ähnliche vor dem Volk bezeugt hatte, schwieg er\.

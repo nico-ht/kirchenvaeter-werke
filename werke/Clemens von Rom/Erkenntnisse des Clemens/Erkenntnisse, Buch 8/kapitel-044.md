@@ -1,0 +1,10 @@
+# Erkenntnisse, Buch 8 – Kapitel 44
+
+Autor: Clemens von Rom
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-8#kapitel-61feef94-8c99-4201-2845-08dd2a929b9c).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Der alte Mann sagte: „Ich möchte von dir hören, warum diese nutzlosen Dinge durch den Willen des höchsten Geistes gemacht werden\.“ „Wenn“, erwiderte er, „es dir vollkommen klar ist, dass in ihnen das Werk des Geistes und der Vernunft liegt, dann wirst du nicht zögern zu sagen, warum sie gemacht wurden, und zu erklären, dass sie rechtmäßig geschaffen sind\.“ Darauf antwortete der alte Mann: „Ich bin nicht in der Lage, mein Sohn, zu sagen, dass jene Dinge, die kunstvoll erscheinen, durch den Geist gemacht sind, aufgrund der anderen Dinge, die wir als ungerecht und unordentlich in der Welt sehen\.“ „Wenn“, sagte Aquila, „diese Dinge, die unordentlich sind, dich nicht erlauben zu sagen, dass sie durch die Vorsehung Gottes geschehen, warum zwingen dich dann nicht die Dinge, die ordentlich geschehen, zu sagen, dass sie von Gott gemacht sind und dass die irrationalen Wesen kein rationales Werk hervorbringen können? Denn es ist gewiss, und wir leugnen es nicht, dass in dieser Welt einige Dinge ordentlich und andere unordentlich geschehen\. Glaubt also, dass die Dinge, die rational geschehen, durch die Vorsehung gemacht sind; aber die, die irrational und ungeordnet geschehen, dass sie natürlich und zufällig eintreten\. Aber ich wundere mich, dass die Menschen nicht wahrnehmen, dass dort, wo es Sinn gibt, Dinge ordentlich und unordentlich geschehen können, während dort, wo es keinen Sinn gibt, weder das eine noch das andere geschehen kann; denn die Vernunft schafft Ordnung, und der Verlauf der Ordnung bringt notwendigerweise etwas Unordentliches hervor, wenn etwas Gegenteiliges die Ordnung stört\.“ Dann sagte der alte Mann: „Genau das möchte ich, dass du mir zeigst\.“

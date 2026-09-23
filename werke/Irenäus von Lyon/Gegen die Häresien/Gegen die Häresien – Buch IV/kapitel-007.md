@@ -1,0 +1,30 @@
+# Gegen die Häresien – Buch IV – Kapitel 7
+
+Autor: Irenäus von Lyon
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-iv#kapitel-c6761368-0c50-4311-0381-08def58bbd12).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Darum erkannte auch Abraham den Vater durch das Wort, das Himmel und Erde gemacht hat[^bible-c32c9711-1523-4ba9-987d-6b3837b513b8], und bekannte ihn als Gott\. Und als er durch eine ihm gegebene Ankündigung erfuhr, dass der Sohn Gottes als Mensch unter Menschen sein würde und dass durch seine Ankunft seine Nachkommenschaft wie die Sterne des Himmels[^bible-e94aa942-e6ff-4b47-90b9-3f1be30ea3b1] sein sollte, verlangte er danach, diesen Tag zu sehen, damit auch er selbst Christus umfassen könnte; und als er ihn durch den Geist der Prophetie sah, freute er sich\. Darum führte auch Simeon, einer seiner Nachkommen, die Freude des Patriarchen ganz zur Erfüllung und sagte: „Herr, nun lässt du deinen Knecht in Frieden scheiden\. Denn meine Augen haben dein Heil gesehen, das du vor dem Angesicht aller Völker bereitet hast: ein Licht zur Offenbarung für die Heiden und zur Herrlichkeit deines Volkes Israel[^bible-44ce3ce0-7156-42fc-b94a-05470148b7f0]\.“ Und ebenso verkündeten die Engel den Hirten, die nachts Wache hielten, eine Botschaft großer Freude[^bible-86196b89-7183-4b18-9ab7-3bae822c9a0d]\. Außerdem sagte Maria: „Meine Seele macht den Herrn groß, und mein Geist freut sich über Gott, meinen Retter[^bible-4c081000-fae4-4d3d-b5f2-81888e36ed09]\.“ So kam die Freude Abrahams auf die herab, die von ihm abstammten, nämlich auf die, die wachten, Christus sahen und an ihn glaubten; zugleich aber ging eine entsprechende Freude von den Kindern zurück zu Abraham, der ja selbst danach verlangt hatte, den Tag der Ankunft Christi zu sehen\. Zu Recht also bezeugte unser Herr von ihm und sagte: „Euer Vater Abraham freute sich, dass er meinen Tag sehen sollte; und er sah ihn und war froh[^bible-11b79eb0-63ea-4b2a-9e1d-bc3182507282]\.“
+
+Denn er sagte dies nicht allein um Abrahams willen, sondern auch, um zu zeigen: Alle, die Gott von Anfang an erkannt und die Ankunft Christi vorausgesagt haben, haben die Offenbarung vom Sohn selbst empfangen\. Eben dieser wurde in den letzten Zeiten sichtbar und leidensfähig, sprach mit dem Menschengeschlecht, um Abraham aus Steinen Kinder zu erwecken, die Verheißung zu erfüllen, die Gott ihm gegeben hatte, und seine Nachkommenschaft wie die Sterne des Himmels zu machen, wie Johannes der Täufer sagt: „Denn Gott kann aus diesen Steinen dem Abraham Kinder erwecken[^bible-cab31688-23c7-4aba-b24b-726b598da89c]\.“ Genau das tat Jesus, indem er uns von der Religion der Steine wegzog, uns aus harten und fruchtlosen Gedanken herausführte und in uns einen Glauben begründete, der dem Abrahams gleicht\. Das bezeugt auch Paulus, wenn er sagt, dass wir wegen der Gleichheit unseres Glaubens Kinder Abrahams sind und Erben der Verheißung\.
+
+Er ist also ein und derselbe Gott, der Abraham berief und ihm die Verheißung gab\. Er ist aber der Schöpfer, der auch durch Christus Lichter in der Welt bereitet: die, die aus den Völkern zum Glauben kommen\. Und er sagt: „Ihr seid das Licht der Welt[^bible-8cd75329-df46-4884-8948-b5dbbcc0716a]“; das heißt: wie die Sterne des Himmels\. Darum habe ich zu Recht gezeigt, dass ihn niemand erkennt außer durch den Sohn und wem immer der Sohn ihn offenbart\. Der Sohn aber offenbart den Vater allen, von denen er will, dass sie ihn erkennen; und weder ohne das Wohlwollen des Vaters noch ohne das Wirken des Sohnes kann irgendein Mensch Gott erkennen\. Darum sagte der Herr zu seinen Jüngern: „Ich bin der Weg, die Wahrheit und das Leben; und niemand kommt zum Vater außer durch mich\. Wenn ihr mich erkannt hättet, hättet ihr auch meinen Vater erkannt; und von jetzt an habt ihr ihn erkannt und ihn gesehen\.[^bible-3a8768b8-feee-4a41-9248-f94102dee0d0]“ Aus diesen Worten ist klar, dass er durch den Sohn erkannt wird, das heißt durch das Wort\.
+
+Darum haben sich die Juden von Gott entfernt: Sie nahmen sein Wort nicht auf, sondern bildeten sich ein, sie könnten den Vater für sich allein erkennen, ohne das Wort, das heißt ohne den Sohn\. Dabei kennen sie jenen Gott nicht, der in menschlicher Gestalt zu Abraham sprach und wiederum zu Mose sagte: „Ich habe das Elend meines Volkes in Ägypten sehr wohl gesehen, und ich bin herabgekommen, um sie zu befreien[^bible-159c4d66-a846-46af-bfab-29e77a4895cf]\.“ Denn der Sohn, der das Wort Gottes ist, hat dies von Anfang an im Voraus geordnet\. Der Vater brauchte keine Engel, um die Schöpfung ins Sein zu rufen und den Menschen zu bilden, für den die Schöpfung gemacht wurde; ebenso wenig brauchte er irgendein Werkzeug, um die geschaffenen Dinge zu formen oder das zu ordnen, was den Menschen betrifft\. Zugleich aber hat er eine unermessliche und unaussprechliche Zahl von Dienern\. Denn sein Spross und sein Ebenbild dienen ihm in jeder Hinsicht: der Sohn und der Heilige Geist, das Wort und die Weisheit, denen alle Engel dienen und unterworfen sind\. Vergeblich handeln daher diejenigen, die wegen jenes Wortes: „Niemand erkennt den Vater außer dem Sohn[^bible-569c2663-9e64-4327-a008-ae66574120d9]“, einen anderen, unbekannten Vater einführen\.
+
+## Bibelverweise
+
+[^bible-11b79eb0-63ea-4b2a-9e1d-bc3182507282]: Joh 8,56
+[^bible-159c4d66-a846-46af-bfab-29e77a4895cf]: Ex 3,7–Ex 3,8
+[^bible-3a8768b8-feee-4a41-9248-f94102dee0d0]: Joh 14,6–Joh 14,7
+[^bible-44ce3ce0-7156-42fc-b94a-05470148b7f0]: Lk 2,29–Lk 2,32
+[^bible-4c081000-fae4-4d3d-b5f2-81888e36ed09]: Lk 1,46–Lk 1,47
+[^bible-569c2663-9e64-4327-a008-ae66574120d9]: Mt 11,27
+[^bible-86196b89-7183-4b18-9ab7-3bae822c9a0d]: Lk 2,10
+[^bible-8cd75329-df46-4884-8948-b5dbbcc0716a]: Mt 5,14
+[^bible-c32c9711-1523-4ba9-987d-6b3837b513b8]: Gen 1,1
+[^bible-cab31688-23c7-4aba-b24b-726b598da89c]: Mt 3,9
+[^bible-e94aa942-e6ff-4b47-90b9-3f1be30ea3b1]: Gen 15,5

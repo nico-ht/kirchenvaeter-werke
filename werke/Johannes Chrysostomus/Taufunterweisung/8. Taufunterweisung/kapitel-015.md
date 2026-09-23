@@ -1,0 +1,10 @@
+# 8\. Taufunterweisung – Kapitel 15
+
+Autor: Johannes Chrysostomus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/8-taufunterweisung#kapitel-5d6c4c73-8dbf-42f1-ce89-08dde1605df7).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Selbst wenn zehntausend Hindernisse im Weg stehen, können die Verheißungen Gottes nicht scheitern\. So wie Er selbst unveränderlich und unverrückbar ist und kontinuierlich und immer bleibt, so sind auch Seine Verheißungen unfehlbar und ändern sich niemals, es sei denn, wir hindern sie irgendwie daran, in Erfüllung zu gehen\. Doch im menschlichen Bereich ist das Gegenteil der Fall\. So wie die Natur des Menschen vergänglich und dem Tod unterworfen ist, so sind auch die Gaben, die vom Menschen kommen, vergänglich und verwelken\. Und das ist auch richtig so, denn alle von uns, die wir Menschen sind, sind vergänglich, und die Natur der menschlichen Gaben spiegelt die Natur der Menschen wider\. In Bezug auf die Verheißungen Gottes können wir jedoch nichts Derartiges vermuten\. Seine Verheißungen, und nur Seine, bestehen und bleiben standhaft, fest und unerschütterlich\.

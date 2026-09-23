@@ -1,0 +1,10 @@
+# De Ecclesiastics Officiis, Buch 1 – Kapitel 39
+
+Autor: Isidor von Sevilla
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/isidor-von-sevilla/de-ecclesiastics-officiis-buch-1#kapitel-360fa2bf-93e5-4527-f4f8-08ded514b29a).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Die Kirche setzte das Fasten am ersten Januar wegen des Irrtums des Heidentums ein\. Janus war jener Herrscher der Heiden, nach dessen Namen der Monat Januar benannt wurde\. Unwissende Menschen verehrten ihn, als wäre er ein Gott, überlieferten ihn der Nachwelt mit religiöser Ehrfurcht und heiligten diesen Tag durch Bühnenspiele und Ausschweifungen\. In dieser Zeit aber nehmen elende Menschen und, was schlimmer ist, sogar Gläubige fremdartige Gestalten an und verwandeln sich in das Aussehen wilder Tiere\. Andere, durch weibisches Auftreten verändert, stellen ihre männlichen Züge als die einer Frau dar\. Manche werden an diesem Tag sogar durch einen schwärmerischen Brauch entweiht, indem sie Augurien beachten\. Bei allem, was sie tun, machen sie großen Lärm, springen umher und klatschen beim Tanzen in die Hände\. Durch all dies wird die Bosheit noch schändlicher: Gruppen verbinden sich untereinander und zwischen beiden Geschlechtern; des Geistes beraubt und vom Wein außer sich, vermischt sich der ganze Aufruhr\. Deshalb sahen die heiligen Väter, dass an diesem Tag der größte Teil des Menschengeschlechts in diese Sakrilegien und körperlichen Vergnügungen verstrickt war, und ordneten in der ganzen Welt, in allen Kirchen, ein öffentliches Fasten an\. Dadurch sollten die Menschen erkennen, dass sie so verkehrt handelten, dass es notwendig war, in allen Kirchen für ihre Sünden zu fasten\.

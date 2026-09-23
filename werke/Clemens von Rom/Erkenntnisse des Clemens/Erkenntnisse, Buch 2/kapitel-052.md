@@ -1,0 +1,10 @@
+# Erkenntnisse, Buch 2 – Kapitel 52
+
+Autor: Clemens von Rom
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-2#kapitel-6f9a360f-12c1-472f-54cc-08dd130c175e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Dann sagte Petrus: „Ich wundere mich, wie du mehr aus dem Gesetz lernen konntest, als das Gesetz selbst wusste oder zu lehren vermochte; und wie du behaupten kannst, Beweise aus dem Gesetz für jene Dinge vorzulegen, die du gerne behauptest, während du erklärst, dass weder das Gesetz noch derjenige, der das Gesetz gab – nämlich der Schöpfer der Welt – von den Dingen weiß, von denen du sprichst\! Aber auch darüber wundere ich mich: Wie kommt es, dass du, der allein diese Dinge weiß, jetzt hier mit uns allen in den engen Grenzen dieses kleinen Hofes stehst?" Da sah Simon, wie Petrus und das Volk lachten, und sagte: „Lachst du, Petrus, während so große und erhabene Dinge besprochen werden?“ Daraufhin sagte Petrus: „Sei nicht erzürnt Simon, denn wir tun nichts weiter, als unser Versprechen zu halten: Wir verschließen weder unsere Ohren, wie du gesagt hast, noch flohen wir sofort, als du anfingst, deine unaussprechlichen Dinge zu verkünden; wir haben uns nicht einmal vom Fleck gerührt\. Denn tatsächlich bringst du nicht einmal Dinge vor, die in irgendeiner Weise der Wahrheit ähneln, sodass sie uns vielleicht ein wenig erschrecken könnten\. Aber enthülle uns wenigstens die Bedeutung deiner Behauptung, wie du aus dem Gesetz von einem Gott erfahren hast, den das Gesetz selbst nicht kennt und den der Geber des Gesetzes nicht kennt\." Daraufhin sagte Simon: „Wenn ihr mit dem Lachen fertig seid, werde ich es durch klare Aussagen beweisen\.“ Petrus erwiderte: „Gewiss werde ich aufhören, damit ich von dir lernen kann, wie du aus dem Gesetz etwas gelernt hast, das weder das Gesetz noch der Gott des Gesetzes selbst kennt\."

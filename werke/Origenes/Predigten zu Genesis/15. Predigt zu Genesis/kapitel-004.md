@@ -1,0 +1,28 @@
+# 15\. Predigt zu Genesis – Kapitel 4
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/15-predigt-zu-genesis#kapitel-54c015a9-4237-4af7-05ff-08de01f6e095).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Weil wir aber gesagt haben, dass Jakob der ist, der „seinen Geist neu entfachte“, Israel jedoch der ist, der sagt: „Es ist eine große Sache für mich, wenn mein Sohn Josef noch lebt“[^bible-54c383f8-f92b-4735-ac96-8edcdd5d71a7], kannst auch du, der du diese Worte hörst, den Unterschied dieses Namens erkennen, wenn du bei jener Stelle beginnst, wo geschrieben steht: „Er sprach zu ihm: Dein Name soll nicht mehr Jakob heißen, sondern Israel, denn du hast bei Gott gesiegt und bist bei den Menschen mächtig geworden“[^bible-57d60ff0-e44d-4c33-b63a-af6ed84765b0], und dann die ganze Schrift durchgehst\. Zum Beispiel: Wo die Schrift sagt: „Sage mir deinen Namen“, da heißt der, der den Namen nicht kennt, nicht Israel, sondern Jakob\. Wo aber die Schrift sagt: „Sie essen nicht die Sehne, die im Bereich der Hüfte gelähmt wurde“[^bible-1f393fc3-ddc0-4842-8d75-6f642acdb6b5] des Patriarchen, da heißen sie nicht Söhne Jakobs, sondern Söhne Israels\. Der aber „aufschaute und sah, dass Esau kam und mit ihm vierhundert Mann“[^bible-fc97a772-f72a-4303-b7ef-78729dcd76f0], und der den Unzüchtigen und Gottlosen, der „sein Erstgeburtsrecht“ für eine einzige Mahlzeit „verkaufte“, „siebenmal ehrte“, der heißt nicht Israel, sondern Jakob\. Und auch wenn er ihm Geschenke anbietet und sagt: „Wenn ich Gunst vor dir gefunden habe, so nimm diese Geschenke aus meiner Hand an; denn ich habe dein Angesicht gesehen, wie man das Angesicht Gottes sieht“[^bible-e266a459-982e-4a8f-93b7-ff87d6cc7980], das war nicht Israel, sondern Jakob\. Und als er hörte, dass seine Tochter Dina entehrt worden war, „und Jakob schwieg, bis seine Söhne kamen“[^bible-f769d17a-e0b2-430b-ba91-a59c656623c2], da heißt er nicht Israel\. Aber auch du wirst, wie gesagt, Ähnliches entdecken, wenn du aufmerksam bist\.
+
+Im vorliegenden Text sagt daher nicht Jakob, sondern Israel: „Es ist eine große Sache für mich, wenn mein Sohn Josef noch lebt\.“ Ebenso, als er zum Brunnen des Eides kommt und „dem Gott seines Vaters Isaak ein Opfer darbringt“[^bible-c3d18475-250e-4fd8-b373-c5efd5359de1], heißt er nicht Jakob, sondern Israel\. Fragst du aber, warum Gott, der in einer nächtlichen Vision zu ihm spricht, nicht „Israel, Israel“, sondern „Jakob, Jakob“[^bible-742f87bf-b8c6-4c50-9bbf-57b79996e196] sagt, so vielleicht deshalb, weil es Nacht war und er es zunächst nur verdiente, die Stimme Gottes durch eine Vision zu hören und noch nicht offen\. Und als er nach Ägypten hinabzieht, heißt er nicht Israel, sondern Jakob „und seine Söhne mit ihm“\. Und als er „vor dem Pharao“ steht, um ihn zu segnen, wird er nicht Israel genannt, sondern Jakob; denn der Pharao konnte den Segen Israels nicht empfangen\. Und Jakob, nicht Israel, ist es, der zum Pharao sagt, „dass die Tage seines Lebens wenige und böse sind“[^bible-fb336b72-fe9b-4b42-9cec-b8c8a0092677]\. Das, gewiss, würde Israel niemals sagen\. Nach diesen Dingen aber heißt es nicht von Jakob, sondern von Israel: „Er rief seinen Sohn Josef und sagt zu ihm: ‚Wenn ich Gunst in deinen Augen gefunden habe, lege deine Hand unter meine Hüfte, und du wirst mir diese Güte und Treue erweisen\.‘“[^bible-eda70f76-7234-4a0e-a1c3-e32f5be02d2b] Und der, der „auf der Spitze von Josefs Stab anbetete“, war nicht Jakob, sondern Israel\. Danach wird er auch Israel genannt, als er die Söhne Josefs segnet\. Und als er seine Söhne zusammenruft, sagt er: „Sammelt euch, damit ich euch sage, was euch in den letzten Tagen treffen wird\. Sammelt euch, ihr Söhne Jakobs, und hört auf Israel, euren Vater\.“[^bible-5f4975a6-1668-467a-be2b-f058fd87bd96]
+
+Aber vielleicht fragst du, warum die, die sich versammeln, „Söhne Jakobs“ genannt werden, während es „Israel“ ist, der sie segnet\. Erwäge, ob damit nicht angedeutet wird, dass sie noch nicht so weit vorangekommen waren, dass man sie den Verdiensten Israels gleichstellen konnte\. Darum heißen sie als Geringere „Söhne Jakobs“; er aber wird „Israel“ genannt: der bereits Vollendete, der um die zukünftigen Dinge weiß, spendet den Segen\. Offenkundig scheint die Aussage, die „Einbalsamierer“ Ägyptens hätten „nicht Jakob, sondern Israel“ einbalsamiert, ein großes Problem zu sein\. Ich meine jedoch: Gerade daran, dass die Heiligen mit den Gottlosen gestorben und einbalsamiert worden sind, lässt sich der Irrtum derer aufdecken, von denen gesagt wird, sie hätten Israel einbalsamiert; denn ihnen war jedes Verständnis des Guten und jede Schärfe himmlischer Einsicht verhasst\. Dies haben wir über den Unterschied zwischen Jakob und Israel dargelegt, soweit wir es jetzt zu fassen vermochten\.
+
+## Bibelverweise
+
+[^bible-1f393fc3-ddc0-4842-8d75-6f642acdb6b5]: Gen 32,33
+[^bible-54c383f8-f92b-4735-ac96-8edcdd5d71a7]: Gen 45,27
+[^bible-57d60ff0-e44d-4c33-b63a-af6ed84765b0]: Gen 32,28
+[^bible-5f4975a6-1668-467a-be2b-f058fd87bd96]: Gen 49,1–Gen 49,2
+[^bible-742f87bf-b8c6-4c50-9bbf-57b79996e196]: Gen 46,2
+[^bible-c3d18475-250e-4fd8-b373-c5efd5359de1]: Gen 46,1
+[^bible-e266a459-982e-4a8f-93b7-ff87d6cc7980]: Gen 33,10
+[^bible-eda70f76-7234-4a0e-a1c3-e32f5be02d2b]: Gen 47,29
+[^bible-f769d17a-e0b2-430b-ba91-a59c656623c2]: Gen 34,5
+[^bible-fb336b72-fe9b-4b42-9cec-b8c8a0092677]: Gen 47,9
+[^bible-fc97a772-f72a-4303-b7ef-78729dcd76f0]: Gen 33,1

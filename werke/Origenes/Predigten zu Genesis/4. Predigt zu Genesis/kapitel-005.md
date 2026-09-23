@@ -1,0 +1,24 @@
+# 4\. Predigt zu Genesis – Kapitel 5
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/4-predigt-zu-genesis#kapitel-7d0d28a9-7ed6-41aa-ba27-08dddb5510b9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Was folgte also nach dem reichhaltigen und ausgezeichneten Mahl, das Abraham dem Herrn und seinen Engeln unter dem Baum der Vision darbrachte? Die Gäste verabschieden sich\. „Und Abraham begleitete sie,“ sagt der Text, „und ging mit ihnen\.“ Und der Herr sagte: „Ich werde Abraham, meinem Diener, nicht verbergen, was ich vorhabe\. Abraham wird zu einer großen und mächtigen Nation werden, und alle Nationen der Erde werden durch ihn gesegnet werden\. Denn ich wusste, dass er seinen Söhnen gebieten wird, und sie werden die Wege des Herrn halten, damit sie Gerechtigkeit und Recht tun, damit der Herr Abraham erfüllt, was er ihm bekannt gemacht hat\.“[^bible-1b5728a4-dc59-4d12-bc6d-ef68830dc0b1] Und er sagte: „Der Schrei von Sodom und Gomorrha ist groß, und ihre Sünden sind sehr schwer\. Ich bin herabgestiegen, um zu sehen, ob ihre Ungerechtigkeiten vollendet sind, wie ihr Schrei, der zu mir gekommen ist, anzeigt; aber wenn nicht, damit ich es weiß\.“[^bible-f0830413-db8d-4b1e-adc4-121b3ba4b95d] Dies sind die Worte der göttlichen Schrift\. Lasst uns daher nun sehen, was in ihnen angemessen zu verstehen ist\.
+
+„Ich bin herabgestiegen,“ sagt der Text, „um zu sehen\.“ Wenn Antworten an Abraham gegeben werden, wird nicht gesagt, dass Gott herabsteigt, sondern dass er vor ihm steht, wie wir oben erklärt haben: „Drei Männer,“ sagt der Text, „standen vor ihm\.“ Aber jetzt, da es um Sünder geht, wird gesagt, dass Gott herabsteigt\. Hüte dich, dass du nicht an räumliches Auf\- und Absteigen denkst\.
+
+Denn dies findet sich häufig in der heiligen Literatur, wie im Propheten Micha: „Siehe,“ sagt die Schrift, „der Herr ist von seiner heiligen Stätte weggegangen und herabgekommen und wird die hohen Orte der Erde betreten\.“ Daher wird gesagt, dass Gott herabsteigt, wenn er sich herablässt, um sich um die menschliche Schwachheit zu kümmern\. Dies sollte besonders von unserem Herrn und Erlöser erkannt werden, der „es nicht für Raub hielt, Gott gleich zu sein, sondern sich selbst entäußerte, indem er die Gestalt eines Dieners annahm\.“[^bible-dd20bb11-0f08-4660-b4dd-b4941b9c3ecd] Daher ist er herabgestiegen\. Denn „niemand ist in den Himmel hinaufgestiegen, außer dem, der vom Himmel herabgestiegen ist, dem Sohn des Menschen, der im Himmel ist\.“[^bible-96d5eb24-8558-4710-b089-1d58093d54b0] Der Herr ist also nicht nur herabgestiegen, um sich um uns zu kümmern, sondern auch, um das, was uns gehört, zu tragen\. „Denn er nahm die Gestalt eines Dieners an,“[^bible-17e56e14-c10d-4cc5-84c8-192a4872f680] und obwohl er in seiner Natur unsichtbar ist, da er dem Vater gleich ist, nahm er dennoch ein sichtbares Erscheinungsbild an und „wurde in der Gestalt eines Menschen gefunden\.“[^bible-bb0d51c9-7453-439a-8a42-ca7f355b560d] Aber auch wenn er herabsteigt, ist er bei einigen unten, während er mit anderen aufsteigt und oben ist\. Denn er geht mit den auserwählten Aposteln „auf einen hohen Berg und wird dort vor ihnen verklärt\.“[^bible-c2b7cb17-8dc9-4fc4-a2db-738f2afe919f] Daher ist er oben bei denen, die er über die Mysterien des Reiches des Himmels lehrt\. Aber er ist unten bei den Menschenmengen und den Pharisäern, deren Sünden er tadelt, und er ist dort bei ihnen, wo das Gras wächst\. Er konnte jedoch nicht unten verklärt werden, sondern stieg mit denen, die ihm folgen konnten, hinauf, und dort wurde er verklärt\.
+
+## Bibelverweise
+
+[^bible-17e56e14-c10d-4cc5-84c8-192a4872f680]: Phil 2,7
+[^bible-1b5728a4-dc59-4d12-bc6d-ef68830dc0b1]: Gen 18,17–Gen 18,19
+[^bible-96d5eb24-8558-4710-b089-1d58093d54b0]: Joh 3,13
+[^bible-bb0d51c9-7453-439a-8a42-ca7f355b560d]: Phil 2,7
+[^bible-c2b7cb17-8dc9-4fc4-a2db-738f2afe919f]: Mk 9,2
+[^bible-dd20bb11-0f08-4660-b4dd-b4941b9c3ecd]: Phil 2,6–Phil 2,7
+[^bible-f0830413-db8d-4b1e-adc4-121b3ba4b95d]: Gen 18,20–Gen 18,21

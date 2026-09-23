@@ -1,0 +1,10 @@
+# Brief an die Soldaten von Coroticus – Kapitel 7
+
+Autor: Patrick
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/patrick/brief-an-die-soldaten-von-coroticus#kapitel-140fc6ad-e4ff-4cef-5508-08de2c22a191).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Darum fordere ich vor allem, dass alle Heiligen und Demütigen im Herzen sich nicht bei solchen Leuten einschmeicheln, ja nicht einmal Speise und Trank mit ihnen teilen und auch ihre Almosen nicht annehmen, bis sie vor Gott Genugtuung leisten in schwerer Buße und unter Vergießen von Tränen und bis sie die Knechte Gottes und die getauften Dienerinnen Christi freilassen, für die Christus gestorben und gekreuzigt worden ist\.

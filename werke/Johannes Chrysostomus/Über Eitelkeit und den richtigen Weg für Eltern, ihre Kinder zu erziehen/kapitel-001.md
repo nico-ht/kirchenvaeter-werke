@@ -1,0 +1,12 @@
+# Über Eitelkeit und den richtigen Weg für Eltern, ihre Kinder zu erziehen – Kapitel 1
+
+Autor: Johannes Chrysostomus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-eitelkeit-und-den-richtigen-weg-fuer-eltern-ihre-kinder-zu-erziehen#kapitel-431c655b-297a-49b9-075f-08ddc7bd2f7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Hat irgendjemand das getan, was ich verlangt habe? Hat er zu Gott für uns und für den ganzen Leib der Kirche gebetet, um das Feuer zu löschen, das aus der Eitelkeit geboren wurde und das den gesamten Leib der Kirche ins Verderben stürzt und den einen Leib in viele separate Glieder zerreißt und die Liebe stört? Wie ein wildes Tier, das sich auf einen gesunden, zarten und wehrlosen Körper stürzt, hat die Eitelkeit ihre schrecklichen Zähne in ihr Opfer geschlagen, Gift injiziert und es mit einem widerwärtigen Gestank erfüllt\. Sie hat einige Glieder abgetrennt und weggeworfen, andere in Stücke gerissen und wieder andere zerkaut\. Ja, wenn es möglich wäre, die Eitelkeit und die Kirche mit unseren Augen zu betrachten, würde man einen erbärmlichen Anblick erblicken, der in seiner Wildheit die Spektakel im Zirkus bei weitem übertrifft – der Leib der Kirche liegt nieder und die Eitelkeit steht darüber, starrt unablässig umher, hält die Angreifer zurück, gibt niemals nach und weicht nicht zurück\.
+
+Wer von uns wird dieses wilde Tier vertreiben? Es ist die Aufgabe dessen, der den Wettkampf angesetzt hat, wenn wir ihn anflehen, seine Engel zu senden, die, als würden sie ihren kühnen und schamlosen Mund mit Stricken zügeln, sie so wegführen\. Der, der den Wettkampf angesetzt hat, wird dies tun, sobald wir aufhören, uns nach ihr zu sehnen, wenn sie fortgeführt worden ist\. Wenn er dem furchtbaren Tier befiehlt, sich von uns zurückzuziehen und es entlässt, wir jedoch, nachdem wir sicher entkommen sind und sie in ihren eigenen Bau vertrieben wurde, uns mit unseren unzähligen Wunden erheben und das Tier erneut suchen, es angreifen und umstoßen, um es mitzunehmen, dann wird er uns nicht länger Mitleid schenken noch uns schonen\. „Wer“, sagt einer, „hat Mitleid mit dem Zauberer, der gestochen wird, oder mit jemandem, der sich einem raubenden Tier nähert?“

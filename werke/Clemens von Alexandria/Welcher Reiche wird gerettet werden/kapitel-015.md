@@ -1,0 +1,10 @@
+# Welcher Reiche wird gerettet werden? – Kapitel 15
+
+Autor: Clemens von Alexandria
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-alexandria/welcher-reiche-wird-gerettet-werden#kapitel-94f8b819-ee21-4758-5465-08df013cfca0).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ich möchte noch Folgendes hinzufügen: Manches ist in der Seele, anderes liegt außerhalb von ihr\. Gebraucht die Seele die äußeren Dinge gut, erscheinen auch sie gut; gebraucht sie sie aber schlecht, erscheinen sie schlecht\. Wenn nun derjenige gebietet, sich von seinem Besitz zu trennen, verlangt er dann zuerst, dass man das aufgibt, nach dessen Beseitigung die Leidenschaften dennoch fortbestehen? Oder verlangt er nicht vielmehr, dass man vielmehr jene Leidenschaften beseitigt, nach deren Beseitigung auch der Besitz brauchbar wird? Wer also seinen weltlichen Überfluss von sich wirft, kann immer noch reich an Leidenschaften sein, auch wenn ihm die äußeren Güter nicht mehr zur Verfügung stehen\. Denn seine innere Haltung entfaltet ihre Wirkung: Sie schnürt das Denken ein, bedrängt es und entzündet es durch die Begierden, die mit ihr aufgewachsen sind\. Es nützt ihm also nichts, an Gütern arm zu sein, wenn er reich an Leidenschaften ist\. Denn er hat nicht das weggeworfen, was weggeworfen werden muss, sondern das, was an sich weder gut noch böse ist\. Er hat sich der hilfreichen Mittel beraubt, den angeborenen Nährstoff der Bosheit aber durch den Mangel an äußeren Gütern erst recht angefacht\. Man muss sich also von dem trennen, was man besitzt und was schädlich ist, nicht aber von Dingen, die auch anderen nützen können, wenn man sie richtig zu gebrauchen weiß\. Was mit Einsicht, Selbstbeherrschung und Gottesfurcht verwaltet wird, bringt Nutzen; was Schaden stiftet, muss man von sich weisen\. Die äußeren Dinge aber schaden nicht\.

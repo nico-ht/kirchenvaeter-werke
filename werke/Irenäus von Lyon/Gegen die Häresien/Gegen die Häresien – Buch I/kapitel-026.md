@@ -1,0 +1,18 @@
+# Gegen die Häresien – Buch I – Kapitel 26
+
+Autor: Irenäus von Lyon
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/gegen-die-haeresien-buch-i#kapitel-1f7581b1-1c7a-4741-0336-08def58bbd12).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Cerinthus wiederum, ein Mann, der in der Weisheit der Ägypter ausgebildet war, lehrte, die Welt sei nicht von dem vorrangigen Gott geschaffen worden, sondern von einer bestimmten Macht, die von ihm weit entfernt und von jener Herrschaft, die über dem All steht, getrennt sei und den, der über allem ist, nicht kenne\. Jesus stellte er so dar, dass er nicht von einer Jungfrau geboren sei, sondern nach dem gewöhnlichen Lauf menschlicher Zeugung der Sohn Josefs und Marias gewesen sei, dabei jedoch gerechter, besonnener und weiser als andere Menschen\. Ferner sei nach seiner Taufe Christus in Gestalt einer Taube vom höchsten Herrscher auf ihn herabgestiegen; darauf habe er den unbekannten Vater verkündet und Wunder gewirkt\. Zuletzt aber sei Christus von Jesus gewichen; dann habe Jesus gelitten und sei auferstanden, während Christus vom Leiden unberührt geblieben sei, da er ein geistiges Wesen war\.
+
+Die sogenannten Ebioniten stimmen darin überein, dass die Welt von Gott geschaffen wurde; doch ihre Ansichten über den Herrn ähneln denen des Cerinthus und des Carpocrates\. Sie verwenden allein das Evangelium nach Matthäus und verwerfen den Apostel Paulus, weil sie behaupten, er sei vom Gesetz abgefallen\. Die prophetischen Schriften bemühen sie sich auf eine recht eigentümliche Weise auszulegen: Sie üben die Beschneidung, halten beharrlich an der Einhaltung jener Bräuche fest, die das Gesetz vorschreibt, und führen ihr Leben so jüdisch, dass sie sogar Jerusalem anbeten, als wäre es das Haus Gottes\.
+
+Die Nikolaiten sind die Anhänger jenes Nikolaus, der zu den sieben Ersten gehörte, die von den Aposteln zum Diakonat bestellt wurden\. Sie führen ein Leben zügelloser Ausschweifung\. Das Wesen dieser Männer wird in der Apokalypse des Johannes sehr klar gezeigt, wo sie als solche erscheinen, die lehren, es sei gleichgültig, Ehebruch zu begehen und Götzenopfer zu essen\. Darum hat auch das Wort von ihnen so gesprochen: „Doch dies hast du: Du hasst die Werke der Nikolaiten, die auch ich hasse[^bible-accb35f5-e073-46e0-94f6-c77fb207f994]\.“
+
+## Bibelverweise
+
+[^bible-accb35f5-e073-46e0-94f6-c77fb207f994]: Offb 2,6

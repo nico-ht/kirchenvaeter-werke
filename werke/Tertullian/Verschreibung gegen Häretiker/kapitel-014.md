@@ -1,0 +1,20 @@
+# Verschreibung gegen Häretiker – Kapitel 14
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/verschreibung-gegen-haeretiker#kapitel-b6c17e53-b930-4566-a969-08dd1c831870).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Solange jedoch die Form in ihrer richtigen Ordnung besteht, könnt ihr so viel suchen und diskutieren, wie ihr möchtet, und eure Neugierde in allem ausleben, was euch zweifelhaft oder unklar erscheint\. Ihr habt zweifellos einen gelehrten Bruder zur Hand, der mit der Gnade des Wissens begabt ist, jemanden aus der erfahrenen Klasse, einen engen Bekannten, der ebenso neugierig ist wie ihr\. Doch wird er, auch wenn er ein Suchender ist, letztlich erkennen, dass es besser für euch ist, in Unkenntnis zu bleiben, damit ihr nicht erfahrt, was ihr nicht wissen sollt, weil ihr das Wissen über das erlangt habt, was ihr wissen sollt\. „Dein Glaube hat dich gerettet“ [^bible-e632dd53-d267-4449-af8c-de275cf42415]nicht dein Geschick in der Schrift\. Der Glaube ist in der Regel festgelegt; er hat ein Gesetz und in dessen Einhaltung liegt die Rettung\. Geschicklichkeit hingegen besteht in neugieriger Kunst, deren Ruhm einfach in der Bereitschaft liegt, die aus Geschicklichkeit kommt\. Lasst solche neugierige Kunst dem Glauben Platz machen; lasst solchen Ruhm der Rettung weichen\. Jedenfalls sollen sie entweder ihre Lautstärke aufgeben oder still sein\. Nichts im Widerspruch zur Regel des Glaubens zu wissen, bedeutet, alles zu wissen\.
+
+Angenommen, die Häretiker wären keine Feinde der Wahrheit, sodass wir nicht gewarnt werden müssten, sie zu meiden, was für ein Handeln wäre es, mit Menschen übereinzustimmen, die selbst bekennen, dass sie noch suchen? Denn wenn sie noch suchen, haben sie noch nichts gefunden, was Gewissheit hat; und daher verraten sie, während sie weiterhin suchen, ihre eigenen Skepsis\. Ihr, die ihr nach ihrer Art sucht und auf diejenigen schaut, die selbst immer auf der Suche sind, ein Zweifler unter Zweiflern, ein Schwankender unter Schwankenden, müsst unweigerlich „blind von den Blinden in die Grube geführt[^bible-4d2b5d17-eac0-46a1-a767-c673469b25fc]“ werden\. „Lass sie; sie sind blinde Führer der Blinden“[^bible-f03e0c1b-8437-4adb-a740-687ea689d684]\. Wenn sie uns jedoch zum Zwecke der Täuschung vorgaukeln, dass sie noch suchen, um uns ihre Versuche durch den Vorschlag einer besorgten Sympathie aufzudrängen – wenn sie, kurz gesagt, nachdem sie Zugang zu uns gewonnen haben, sofort auf die Notwendigkeit bestehen, dass wir uns mit solchen Punkten befassen, die sie gewohnt sind vorzubringen, dann ist es höchste Zeit, dass wir sie zurückweisen, damit sie wissen, dass es nicht Christus, sondern sie selbst sind, die wir ablehnen\.
+
+Da sie noch Suchende sind, haben sie noch keine festen Überzeugungen; und da sie in ihren Überzeugungen nicht fest sind, haben sie noch nicht geglaubt; und da sie noch keine Gläubigen sind, sind sie keine Christen\. Selbst wenn sie ihre Überzeugungen und ihren Glauben haben, sagen sie dennoch, dass eine Untersuchung notwendig ist, um zu diskutieren\. Vor der Diskussion jedoch leugnen sie, was sie noch nicht zu glauben bekennen, solange sie es zum Gegenstand der Untersuchung machen\. Wenn Menschen also nicht einmal nach eigener Aussage Christen sind, wie viel weniger erscheinen sie dann für uns als solche\! Was für eine Wahrheit ist das, die sie unterstützen, wenn sie sie mit einer Lüge empfehlen? Nun, aber sie befassen sich tatsächlich mit den Schriften und empfehlen ihre Meinungen aus den Schriften\! Natürlich tun sie das\. Aus welcher anderen Quelle könnten sie Argumente über die Dinge des Glaubens ableiten, als aus den Aufzeichnungen des Glaubens?
+
+## Bibelverweise
+
+[^bible-4d2b5d17-eac0-46a1-a767-c673469b25fc]: Mt 15,14
+[^bible-e632dd53-d267-4449-af8c-de275cf42415]: Lk 7,50
+[^bible-f03e0c1b-8437-4adb-a740-687ea689d684]: Mt 15,14

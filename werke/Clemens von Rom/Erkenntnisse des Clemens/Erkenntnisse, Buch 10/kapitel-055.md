@@ -1,0 +1,14 @@
+# Erkenntnisse, Buch 10 – Kapitel 55
+
+Autor: Clemens von Rom
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-10#kapitel-7db87369-61c5-4ad0-7557-08dd36600a1f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Als wir keinen Ausweg aus der Schwierigkeit sahen, kam Cornelius, der Zenturio, der von Cäsar zu öffentlichen Angelegenheiten an den Präsidenten von Cäsarea gesandt worden war\. Ihn riefen wir allein herbei und erklärten ihm den Grund für unser Bedauern\. Wir baten ihn, uns zu helfen, wenn er irgendetwas tun könnte\. Er versprach bereitwillig, dass er ihn sofort vertreiben würde, wenn wir nur seine Pläne unterstützen würden\.
+
+Er sagte: „Cäsar hat befohlen, dass Zauberer in der Stadt Rom und in den Provinzen gesucht und vernichtet werden, und eine große Anzahl von ihnen ist bereits beseitigt worden\. Ich werde daher über meine Freunde verbreiten, dass ich gekommen bin, um diesen Magier festzunehmen, und dass ich von Cäsar zu diesem Zweck gesandt wurde, damit er zusammen mit dem Rest seiner Zunft bestraft werden kann\. Lasst eure Leute, die sich verkleidet bei ihm aufhalten, ihm gegenüber andeuten, als hätten sie es aus irgendeiner Quelle gehört, dass ich gesandt wurde, um ihn festzunehmen; und wenn er dies hört, wird er mit Sicherheit fliehen\. Oder wenn ihr etwas Besseres im Sinn habt, sagt es mir\. Warum sollte ich mehr sagen?“
+
+So geschah es durch unsere Leute, die sich bei ihm verkleidet hatten, um als Spione zu agieren\. Als Simon erfuhr, dass dies über ihn hereingebrochen war, nahm er die Nachricht als eine große Gunst von ihnen an und floh\. Er verließ also Antiochien und kam, wie wir gehört haben, mit Athenodorus hierher\.

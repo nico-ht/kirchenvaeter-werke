@@ -1,0 +1,10 @@
+# Gegen die Akademiker – Buch 3 – Kapitel 6
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/gegen-die-akademiker-buch-3#kapitel-08a00993-bc6f-4c16-300c-08df04fdfae5).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Du, Alypius, hast jedoch die Frage aufgeworfen, wer das Wahre zeigen könne; damit ich dir darin nicht widerspreche, muss ich mich sehr anstrengen\. Denn du hast ebenso kurz wie fromm gesagt, allein eine Gottheit könne dem Menschen zeigen, was das Wahre sei\. Nichts habe ich daher in unserem Gespräch lieber gehört, nichts Gewichtigeres, nichts Überzeugenderes und, wenn jene Gottheit, wie ich vertraue, beisteht, nichts Wahreres\. Mit welcher Tiefe des Geistes hast du jenen Proteus ins Gedächtnis gerufen, mit welcher Hinwendung zur edelsten Art der Philosophie\! Jener Proteus nämlich wird als Bild der Wahrheit eingeführt, damit ihr jungen Männer erkennt, dass die Dichter von der Philosophie nicht völlig geringgeschätzt werden dürfen\. Proteus, sage ich, führt in den Dichtungen die Wahrheit vor Augen und spielt ihre Rolle\. Niemand kann sie festhalten, wenn er, von falschen Bildern getäuscht, die Knoten des Erfassens lockert oder loslässt\. Es sind nämlich diese Bilder, die durch die Gewöhnung an körperliche Dinge über jene Sinne, deren wir uns für die notwendigen Dinge dieses Lebens bedienen, uns selbst dann zu täuschen und zum Narren zu halten versuchen, wenn die Wahrheit schon festgehalten wird und gleichsam in unseren Händen liegt\. So ist mir dieses dritte Gut zuteilgeworden, und ich weiß nicht, wie hoch ich es schätzen soll\. Denn mein engster Freund stimmt mit mir nicht nur über das Plausible im menschlichen Leben, sondern auch über die Religion selbst überein\. Das ist das deutlichste Kennzeichen eines wahren Freundes\. Denn Freundschaft ist völlig zu Recht und auf die heiligste Weise so definiert worden: Eintracht in menschlichen und göttlichen Dingen, verbunden mit Wohlwollen und Liebe\.

@@ -1,0 +1,22 @@
+# Schrift 6 \- Geduld – Kapitel 3
+
+Autor: Zeno von Verona
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/zeno-von-verona/schrift-6-geduld#kapitel-0bb7ceb5-3675-4d0a-6d85-08dd494704d2).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nur der Mensch ist hastig, ungeduldig und erfreut sich an täglichen, unordentlichen Veränderungen\. Er sehnt sich nach Wandel und fühlt sich elend in dem, was er ist\. Er erkennt nicht, dass es an Wahnsinn grenzt, wenn der Geist nicht in seinem richtigen Zustand verweilt\. Was ist Ungeduld anderes als ein launischer Geist, der mit unzähligen gewaltsamen Emotionen gegen sich selbst kämpft – ein Geist, der sogar sich selbst untreu ist? Es ist eine Handlung, die rücksichtslos, schwankend, blind, gedankenlos und instabil ist und sich vollständig ins Verderben stürzt\. Es ist eine leere Jagd, ein Unterfangen ohne Sinn\.
+
+Ungeduld greift alles zu schnell an und zerschmettert alle Dinge im Handumdrehen\. Sie ist die Mutter der Verbrechen, die Lehrmeisterin der Neugier, der Gipfel der Rücksichtslosigkeit, die Urheberin und Lehrerin verfluchter Übel\. Wegen ihr hat der Tod seit Anbeginn der Welt die Rettung der Menschheit zerstört und tut dies weiterhin\.
+
+Adam lebte in der Sicherheit des Paradieses, besaß die Herrschaft über die gesegnete Erde und war selbst der gesegnetste unter allen\. Er lebte glücklich, solange er das königliche Gebot beachtete\. Doch als er, in seinem Unglück, zustimmte, Geduld gegen die Täuschung der neidischen Schlange einzutauschen, als er den tödlich süßen Apfel vom verbotenen Baum kostete – da fand er Tränen, schuf sich selbst Schmerz und Trauer, Dornen und Disteln\. Und nachdem er selbst die Unruhe der sterblichen Mühe erfahren hatte, hinterließ er seinen Nachkommen den Tod, der alle Ordnung zerstört\.
+
+Bald darauf erhob sich das menschliche Gemetzel\. Es dauerte nicht lange – Kain, ungeduldig und neidisch auf die Opfer seines Bruders, dürstete nach dessen Tod\. Obwohl Gott sein Tun sah, wurde Kain zum Mörder seines Bruders\. Er hörte nicht auf die warnende Stimme, die ihn zurückhalten wollte, sondern verhärtete sich nur weiter, bis seine böse Tat vollendet und durch das Blutvergießen verdoppelt war\.
+
+Die noch unbewohnte Welt war erstaunt, dass sie bereits zu klein für zwei Menschen war\. Die Elemente waren erstaunt, dass ein Mensch, geschaffen im Bild und Gleichnis Gottes, ermordet werden konnte – ermordet von seinem eigenen Bruder\. Die unberührte Erde errötete, als sie mit dem gerechten Blut befleckt wurde\. Nur der elende Kain freute sich\. Und da er keine Zeugen hatte, glaubte er, das Verbrechen nicht begangen zu haben\. Doch Gott hatte ihn gesehen\. Sein Gewissen klagte ihn an\. Das Blut seines Bruders wurde sein Ankläger\.
+
+Was soll ich von der Ungeduld der Bewohner Sodoms sagen? Dort, wo Männer von Männern sündhaft missbraucht wurden, verbrannte ein Feuer, das von Gott gesandt wurde, die unnatürlichen Flammen ihres Verlangens\. Ein Sturm aus Feuer und Schwefel, vom Himmel herabgeregnet von Gott, zerstörte im heftigen Gericht das Bündnis der Verderbtheit\. Die Männer – elender als die, die sie korrumpierten – verfolgten Fremde mit der Waffe der Schande und verletzten sie von hinten\.
+
+Die Juden murrten laut in ihren Versammlungen\. Sie zerstörten die Altäre Gottes, während sie versuchten, ihren Gottesdienst auszudrücken\. Sie töteten ihre Propheten auf verschiedene Weise\. In ihrer übermäßigen Leidenschaft versuchten sie sogar, Mose zu steinigen\. Sie führten Krieg gegen den Herrn mit allen Mitteln und versuchten, vielen Göttern und Königen zu dienen, weil sie in ihrer Ungeduld nicht ertragen konnten, den einen wahren Gott zu dienen\.

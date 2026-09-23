@@ -1,0 +1,10 @@
+# 1\. Apologie – Kapitel 10
+
+Autor: Justin der Märtyrer
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/1-apologie#kapitel-691dd1a7-9e4c-4148-8ea8-08dd07e8078e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wir haben durch Überlieferung empfangen, dass Gott keine materiellen Opfer benötigt, die Menschen ihm darbringen können, da Er selbst der Geber aller Dinge ist\. Wir sind gelehrt worden und sind überzeugt, dass Er nur die annimmt, die die Eigenschaften nachahmen, die in Ihm wohnen, wie Mäßigung, Gerechtigkeit und Menschenliebe, sowie all die Tugenden, die einem Gott eigen sind, der keinen eigenen Namen trägt\. Wir haben gelernt, dass Er zu Beginn aus Seiner Güte und zum Wohle des Menschen alle Dinge aus formloser Materie erschaffen hat\. Wenn die Menschen durch ihre Taten zeigen, dass sie Seinem Plan würdig sind, werden sie als würdig erachtet, mit Ihm zu herrschen und von Verderbnis und Leiden befreit zu werden\. Denn wie Er uns zu Beginn erschaffen hat, als wir nicht waren, so glauben wir, dass auch diejenigen, die das wählen, was Ihm gefällt, aufgrund ihrer Wahl als würdig der Unvergänglichkeit und der Gemeinschaft mit Ihm erachtet werden\. Das Dasein zu Beginn lag nicht in unserer eigenen Macht\. Damit wir den Dingen folgen können, die Ihm gefallen, und sie durch die Vernunft wählen, die Er uns selbst gegeben hat, überzeugt und leitet Er uns zum Glauben\. Wir halten es für vorteilhaft für alle Menschen, dass sie nicht daran gehindert werden, diese Dinge zu lernen, sondern sogar dazu ermutigt werden\. Denn das, was menschliche Gesetze nicht bewirken konnten, hätte das Wort, da Er göttlich ist, bewirken können, wenn nicht die gottlosen Dämonen, die sich die Lust an der Gottlosigkeit, die in jedem Menschen wohnt und zu allerlei Laster zieht, zum Verbündeten gemacht hätten, viele falsche und profane Anschuldigungen verbreitet hätten, die uns jedoch nicht betreffen\.

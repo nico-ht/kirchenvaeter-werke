@@ -1,0 +1,22 @@
+# 14\. Predigt zu Genesis – Kapitel 4
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/14-predigt-zu-genesis#kapitel-7b9278b4-55bc-4344-05fb-08de01f6e095).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Was aber suchen sie? Sie sagen: „Damit du uns kein Unrecht tust; aber wie wir dich nicht verflucht haben, so bist auch du vom Herrn gesegnet\.“ Mir scheint, sie bitten mit diesen Worten um Vergebung der Sünden, damit sie nicht Böses empfangen\. Sie erbitten Segen, nicht Vergeltung\. Achte auf das Folgende\. Der Text sagt: „Und Isaak machte ihnen ein großes Fest; und sie aßen und tranken\.“[^bible-d4119c97-9756-447e-b8e2-4f8ff3a8113c] Denn gewiss ist, dass der, der dem Wort dient, „Schuldner der Weisen und der Unweisen“[^bible-0c7d885f-480f-4fcc-9fbf-f2fb33e5748a] ist\. Weil er also den Weisen ein Fest bereitet, heißt es, er habe nicht ein kleines, sondern ein „großes Fest“ gemacht\. Und du: Wenn du nicht mehr „ein kleines Kind“ bist und „Milch“ brauchst, sondern deine „geübten Sinne“ mitbringst und nach reicher Unterweisung fähiger zum Verständnis des Wortes Gottes kommst, dann gibt es auch für dich ein „großes Fest“\. Es werden dir nicht die „Gemüse“ der Schwachen als Speise bereitet, und du wirst nicht mit der Milch genährt, mit der „kleine Kinder“ genährt werden, sondern der Diener des Wortes bereitet dir ein „großes Fest“\. Er wird zu dir die „Weisheit“ reden, die „unter den Vollkommenen“ dargeboten wird\. Er wird dir „die Weisheit Gottes, verborgen in einem Geheimnis, die keiner der Fürsten dieser Welt erkannt hat“[^bible-c1d722f1-25c7-4581-ae94-dabe07e70d9c], vorlegen\. Er wird dir Christus so offenbaren, dass in ihm „alle Schätze der Weisheit verborgen sind“[^bible-433888bf-5a0c-4e6f-9837-8a2719326c0a]\. Daher bereitet er dir ein „großes Fest“ und isst selbst mit dir, sofern er dich nicht so vorfindet, dass er zu dir sagen müsste: „Ich konnte zu euch nicht reden wie zu Geistlichen, sondern wie zu Fleischlichen, wie zu Unmündigen in Christus\.“[^bible-32a41186-fec1-4650-ab0d-fbacb5d6ca1c]
+
+Das sagt er zu den Korinthern; und er fügt hinzu: „Denn wenn Streit und Spaltungen unter euch sind, seid ihr dann nicht fleischlich und wandelt nach Menschenweise?“[^bible-e06fb4e3-f4cb-4fbe-aa0d-a038d24e819c] Paulus hat ihnen kein „großes Fest“ bereitet; vielmehr fiel er, als er bei ihnen war und Mangel litt, niemandem zur Last, er „aß von niemandes Brot umsonst“, sondern arbeitete Nacht und Tag; seine eigenen Hände versorgten ihn selbst und alle, die bei ihm waren\. Die Korinther waren also so weit davon entfernt, ein „großes Fest“ zu haben, dass der Verkündiger des Wortes Gottes bei ihnen nicht einmal das geringste, nicht einmal ein kleines Fest halten konnte\. Ein großes Fest gibt es aber für die, die besser zu hören verstehen, die ihre „Sinne“ unterrichtet und „geübt“ zur Anhörung des Wortes Gottes mitbringen\. Isaak isst mit ihnen; und er isst nicht nur, sondern er erhebt sich und bekräftigt mit einem Eid den künftigen Frieden mit ihnen\. Lasst auch uns darum beten, das Wort Gottes mit einem solchen Sinn, mit einem solchen Glauben zu hören, dass er es für gut hält, uns ein „großes Fest“ zu bereiten\. Denn „die Weisheit hat ihre Opfer geschlachtet, ihren Wein im Mischkrug gemischt und ihre Diener ausgesandt“[^bible-72cde1c6-ea57-4739-9430-2f2cd8b4d1d2], die allesamt so viele, wie sie finden, zu ihrem Fest führen\. So groß ist dieses Fest, dass wir, wenn wir in das Fest der Weisheit eingetreten sind, nicht wieder die Gewänder der Torheit mitbringen, weder gehüllt in das Kleid des Unglaubens noch verdunkelt durch die Flecken der Sünde, sondern in Einfalt und Reinheit des Herzens das Wort umarmen und der göttlichen Weisheit dienen, die Christus Jesus, unser Herr, ist, dem sei Ehre und Herrschaft in alle Ewigkeit\. Amen\.
+
+## Bibelverweise
+
+[^bible-0c7d885f-480f-4fcc-9fbf-f2fb33e5748a]: Röm 1,14
+[^bible-32a41186-fec1-4650-ab0d-fbacb5d6ca1c]: 1Kor 3,1
+[^bible-433888bf-5a0c-4e6f-9837-8a2719326c0a]: Kol 2,3
+[^bible-72cde1c6-ea57-4739-9430-2f2cd8b4d1d2]: Spr 9,2–Spr 9,3
+[^bible-c1d722f1-25c7-4581-ae94-dabe07e70d9c]: 1Kor 2,7–1Kor 2,8
+[^bible-d4119c97-9756-447e-b8e2-4f8ff3a8113c]: Gen 26,30
+[^bible-e06fb4e3-f4cb-4fbe-aa0d-a038d24e819c]: 1Kor 3,3

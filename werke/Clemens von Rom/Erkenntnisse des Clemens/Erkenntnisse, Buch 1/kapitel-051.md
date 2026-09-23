@@ -1,0 +1,10 @@
+# Erkenntnisse, Buch 1 – Kapitel 51
+
+Autor: Clemens von Rom
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-1#kapitel-8ddcddcf-de15-4140-9ff6-08de579aa9c5).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Diesen also hat Gott am Ende der Welt bestimmt, weil es unmöglich war, die Übel der Sterblichen durch einen anderen zu reinigen, solange die Schöpfung des Menschengeschlechts intakt bleiben sollte – das heißt: bei gewahrter Freiheit des Willens\! Da dieser Zustand also unversehrt bewahrt wurde, kam er, um alle Gerechten in das Königreich einzuladen und jene, die sich bemüht haben, ihm zu gefallen; ihnen hat er unsagbare Güter bereitet und Jerusalem, die himmlische Stadt, die in der Wohnung der Heiligen heller strahlen wird als der Glanz der Sonne\. Die Ungerechten aber und die Gottlosen und die, die Gott als Nichts betrachtet haben und das ihnen anvertraute Leben für diverse Schandtaten missbrauchten und die Zeit für gerechtes Werk zu einem Übungsplatz der Bosheit machten: Die wird er der passenden und verdienten Vergeltung übergeben\! Was aber im Übrigen dort geschehen wird, das auszusprechen und zu verkünden steht weder Engeln noch Menschen zu; sondern uns genügt es, nur dies zu wissen: dass Gott den Guten den ewigen Besitz der Güter verleihen wird\.

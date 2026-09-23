@@ -1,0 +1,17 @@
+# Gegen Celsus, Buch 1 – Kapitel 51
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-1#kapitel-908b78ef-450e-4db5-0a1a-08df02ec59a9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Über den Geburtsort des Erlösers, nämlich dass der Herrscher aus Bethlehem hervorgehen sollte, spricht die Schrift folgendermaßen: „Und du, Bethlehem, Haus Ephrata, bist keineswegs die geringste unter den Tausendschaften Judas; denn aus dir wird für mich der hervorgehen, der Herrscher in Israel sein soll\. Seine Ursprünge reichen in die Vorzeit zurück, in die Tage der Ewigkeit\.[^bible-6219dd0c-53f7-40f3-bfa1-a66030021c2e] “ Diese Weissagung kann nun auf keinen jener Männer zutreffen, die nach der Aussage des Juden bei Celsus Fanatiker und Volksaufwiegler waren und von sich behaupteten, sie seien vom Himmel gekommen\. Dazu müsste eindeutig nachgewiesen werden, dass der Betreffende in Bethlehem geboren wurde oder, wie man auch sagen könnte, aus Bethlehem hervorging, um das Volk zu führen\. Wenn jemand neben der Weissagung Michas und neben dem Bericht, den die Jünger Jesu in den Evangelien über seine Geburt in Bethlehem aufgezeichnet haben, weitere Belege aus anderen Quellen wünscht, soll er wissen: In Übereinstimmung mit dem Bericht des Evangeliums über seine Geburt zeigt man in Bethlehem die Höhle, in der er geboren wurde, und in dieser Höhle die Krippe, in der er in Windeln gewickelt lag\. Davon wird in der ganzen Umgebung viel gesprochen, selbst unter den Feinden des Glaubens\. Man sagt dort, in dieser Höhle sei jener Jesus geboren worden, den die Christen anbeten und verehren\. Außerdem bin ich der Ansicht, dass die Hohepriester und Schriftgelehrten des Volkes vor dem Kommen Christi aufgrund der Eindeutigkeit und Klarheit dieser Weissagung lehrten, Christus müsse in Bethlehem geboren werden\. Diese Überzeugung war auch unter den Juden weithin verbreitet\. Deshalb wird berichtet, Herodes habe die Hohepriester und Schriftgelehrten des Volkes befragt und von ihnen erfahren, dass Christus in Bethlehem in Judäa geboren werden sollte[^bible-e889c7cd-feb2-4dfb-a16b-a1b9bdde9cae], „woher David stammte[^bible-eeeeda92-ca85-42ff-9e22-52c4a4d8f071] “\. Auch im Evangelium nach Johannes heißt es, die Juden hätten erklärt, Christus solle in Bethlehem geboren werden, woher David stammte[^bible-eeeeda92-ca85-42ff-9e22-52c4a4d8f071]\. Nach dem Kommen unseres Herrn jedoch hielten diejenigen, die den Glauben bekämpften, sein Geburtsort sei von Anfang an Gegenstand der Weissagung gewesen, diese Lehre vom Volk fern\. Sie handelten ähnlich wie jene, die die Wachsoldaten bestachen, die das Grab bewacht und gesehen hatten, wie er von den Toten auferstand\. Diese Augenzeugen wiesen sie an, Folgendes zu berichten: „Sagt, seine Jünger seien gekommen, während wir schliefen, und hätten ihn gestohlen\. Und wenn der Statthalter davon erfährt, werden wir ihn überzeugen und dafür sorgen, dass euch nichts geschieht\.[^bible-4cc7fc27-5ac1-4a0d-a022-6a5d5126762c] “
+
+## Bibelverweise
+
+[^bible-4cc7fc27-5ac1-4a0d-a022-6a5d5126762c]: Mt 28,13–Mt 28,14
+[^bible-6219dd0c-53f7-40f3-bfa1-a66030021c2e]: Mi 5,1
+[^bible-e889c7cd-feb2-4dfb-a16b-a1b9bdde9cae]: Mt 2,4–Mt 2,6
+[^bible-eeeeda92-ca85-42ff-9e22-52c4a4d8f071]: Joh 7,42

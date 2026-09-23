@@ -1,0 +1,15 @@
+# Dialog mit Trypho – Kapitel 15
+
+Autor: Justin der Märtyrer
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-a5bf83bc-3b0d-45a7-6829-08de0b689c61).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn du Gott gefallen willst, lerne daher, das wahre Fasten Gottes zu halten\. Hör, was Jesaja dazu sagt: „Schreie mit Kraft, höre nicht auf, erhebe deine Stimme wie eine Posaune und verkünde meinem Volk seine bösen Taten und dem Haus Jakob seine Sünden\. Denn sie suchen mich Tag für Tag und verlangen, meine Wege zu erkennen, wie ein Volk, das Gerechtigkeit getan und das Recht seines Gottes nicht verlassen hat, sie fordern von mir Rechtsentscheidungen der Gerechtigkeit und verlangen, Gott nahe zu kommen, und sagen: ‚Warum haben wir gefastet, und du hast es nicht beachtet? und warum haben wir unsere Seele gedemütigt, und du hast es nicht wahrgenommen?‘ Weil ihr an euren Fasttagen eure eigene Lust sucht und alle bedrückt, die euch unterstehen\. Seht, ihr fastet wegen Streit und Zank und schlagt den Demütigen mit der Faust\. Warum fastet ihr meinetwegen, so wie heute, damit eure Stimme in der Höhe gehört wird? Ist dies das Fasten, das ich erwählt habe, dass der Mensch einen Tag seine Seele plagt? Und wenn du deinen Nacken zum Ring beugst und Sacktuch und Asche unter dir ausbreitest, nennst du das Fasten und einen Tag, der dem Herrn gefällt? Nicht dies ist das Fasten, das ich erwählt habe, spricht der Herr, sondern löst jedes Band der Bosheit, macht die Bande von durch Gewalt erzwungenen Verträgen los, lasst die Unterdrückten frei und zerbrecht jedes ungerechte Band, brich dein Brot dem Hungrigen, und die Bedürftigen und Obdachlosen nimm in dein Haus; wenn du einen Nackten siehst, kleide ihn, und verachte nicht die deines eigenen Fleisches\. Dann bricht dein Licht hervor wie der Morgen, und deine Kleider erheben sich schnell; deine Gerechtigkeit geht vor dir her, und die Herrlichkeit Gottes wird dich umgeben\. Dann wirst du rufen, und der Herr wird hören; und noch während du sprichst, wird er sagen: Siehe, hier bin ich: Wenn du aus deiner Mitte das Joch wegnimmst, das Ausstrecken der Hand und die Worte des Murrens, und bereitwillig dein Brot dem Hungrigen gibst und die gequälte Seele sättigst, dann geht dein Licht in der Finsternis auf, und dein Dunkel wird sein wie der Mittag; und dein Gott wird beständig mit dir sein, und du wirst satt werden, wie es deine Seele begehrt, und deine Gebeine werden fett, und du wirst sein wie ein bewässerter Garten und wie eine Quelle von Wasser, wie ein Land, dessen Wasser nicht versiegt\.“ [^bible-89550827-efd6-4670-93a7-7264e761ef08]Darum „beschneidet die Härte eures Herzens,“[^bible-a2589246-b4bd-43b4-a074-f3e7989d8f5b] so verlangen es die oben zitierten Worte Gottes\.
+
+## Bibelverweise
+
+[^bible-89550827-efd6-4670-93a7-7264e761ef08]: Jes 58,1–Jes 58,11
+[^bible-a2589246-b4bd-43b4-a074-f3e7989d8f5b]: Dtn 10,16

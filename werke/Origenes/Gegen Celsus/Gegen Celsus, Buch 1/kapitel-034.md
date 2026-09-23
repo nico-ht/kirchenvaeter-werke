@@ -1,0 +1,17 @@
+# Gegen Celsus, Buch 1 – Kapitel 34
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-1#kapitel-caf8c784-6651-472a-0a09-08df02ec59a9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch wie auch die Propheten vorausgesagt haben, sollte gemäß dem verheißenen Zeichen einer von einer Jungfrau geboren werden, der diesem Geschehen seinen Namen geben und damit zeigen sollte, dass bei seiner Geburt Gott mit den Menschen sein würde\. Meines Erachtens hätte es der Eigenart eines Juden entsprochen, die Weissagung Jesajas anzuführen, nach der Immanuel von einer Jungfrau geboren werden sollte\. Celsus jedoch, der alles zu wissen behauptet, hat dies nicht getan, sei es aus Unkenntnis oder weil er, falls er die Stelle gelesen und bewusst verschwiegen hat, kein Argument liefern wollte, das sein Vorhaben vereiteln könnte\. Die Weissagung lautet: „Und der Herr sprach abermals zu Ahas: ‚Erbitte dir ein Zeichen vom Herrn, deinem Gott, sei es unten in der Tiefe oder oben in der Höhe\.‘ Ahas aber sagte: ‚Ich werde um keines bitten und den Herrn auch nicht versuchen\.‘ Da sprach er: ‚Hört nun, Haus David\! Genügt es euch nicht, Menschen zu ermüden? Müsst ihr auch meinen Gott ermüden? Darum wird der Herr selbst euch ein Zeichen geben: Siehe, eine Jungfrau wird empfangen und einen Sohn gebären und ihm den Namen Immanuel geben‘, das heißt übersetzt: ‚Gott mit uns\.‘[^bible-d831cc4f-1945-4f54-b5e1-f0b5dd9ade94] “ Dass Celsus diese Weissagung aus vorsätzlicher Bosheit nicht angeführt hat, ist für mich daran erkennbar, dass er zwar zahlreiche Stellen aus dem Evangelium nach Matthäus zitiert, etwa über den Stern, der bei der Geburt Christi erschien, und über andere wunderbare Ereignisse, diese Weissagung aber mit keinem Wort erwähnt\. Wenn nun ein Jude Wortklauberei betreiben und behaupten sollte, es heiße nicht: „Siehe, eine Jungfrau[^bible-86a8f392-ec24-47cb-8095-73931eb647ab] “, sondern: „Siehe, eine junge Frau[^bible-86a8f392-ec24-47cb-8095-73931eb647ab] “, dann antworten wir: Das Wort „Olmah“, das die Septuaginta mit „Jungfrau“ und andere mit „junge Frau“ wiedergegeben haben, wird, wie sie sagen, im Deuteronomium auf eine Jungfrau bezogen\. Dort heißt es: „Wenn eine junge Frau, die Jungfrau ist, mit einem Mann verlobt ist und ein Mann sie in der Stadt findet und bei ihr liegt, dann sollt ihr beide zum Tor jener Stadt hinausführen und sie zu Tode steinigen: die junge Frau, weil sie in der Stadt nicht geschrien hat, und den Mann, weil er die Frau seines Nächsten geschändet hat\.[^bible-845ffccd-5701-47bf-a7bd-97616d415d25] “ Und weiter: „Wenn aber ein Mann eine verlobte junge Frau auf dem Feld findet, sie überwältigt und bei ihr liegt, dann soll allein der Mann sterben, der bei ihr lag\. Der jungen Frau aber sollst du nichts tun; sie hat keine Sünde begangen, die den Tod verdient\.[^bible-02762c46-6243-4cfa-a01a-f8320569d592] “
+
+## Bibelverweise
+
+[^bible-02762c46-6243-4cfa-a01a-f8320569d592]: Dtn 22,25–Dtn 22,26
+[^bible-845ffccd-5701-47bf-a7bd-97616d415d25]: Dtn 22,23–Dtn 22,24
+[^bible-86a8f392-ec24-47cb-8095-73931eb647ab]: Jes 7,14
+[^bible-d831cc4f-1945-4f54-b5e1-f0b5dd9ade94]: Jes 7,10–Jes 7,14

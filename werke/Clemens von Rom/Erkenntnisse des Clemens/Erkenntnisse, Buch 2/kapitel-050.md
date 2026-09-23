@@ -1,0 +1,10 @@
+# Erkenntnisse, Buch 2 – Kapitel 50
+
+Autor: Clemens von Rom
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-2#kapitel-172df266-ffe8-48d7-54ca-08dd130c175e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Daraufhin sagte Petrus: „Erscheint es dir nicht als wahnsinnig, dass jemand behauptet, es gebe einen anderen Gott als den Gott von allem, und sagt, er nehme an, dass es eine gewisse Macht gebe, und sich anmaßt, dies anderen zu verkünden, bevor er selbst sicher ist, was er sagt? Ist irgendjemand so waghalsig, deinen Worten zu glauben, obwohl er sieht, dass du selbst Zweifel hast und anzunehmen, dass es eine gewisse Macht gibt, die Gott dem Schöpfer, Mose, den Propheten, dem Gesetz und sogar Jesus, unserem Meister, unbekannt ist? Und diese Macht soll so gut sein, dass sie sich nur einem einzigen offenbart \- und dieser eine bist du? Weiterhin, wenn dies eine neue Macht ist, warum verleiht sie uns dann nicht einen neuen Sinn zusätzlich zu den fünf, die wir besitzen? Durch diesen neuen Sinn, den sie uns geben würde, könnten wir sie vielleicht empfangen und verstehen\. Oder, wenn sie uns keinen solchen Sinn verleihen kann, wie hat sie ihn dir gegeben? Wenn sie sich dir offenbart hat, warum nicht auch uns? Aber wenn du von dir aus Dinge verstehst, die nicht einmal die Propheten erkennen oder verstehen konnten, dann komm, sage uns, was jeder von uns gerade denkt\. Denn wenn ein Geist in dir ist, der dir erlaubt, jene Dinge zu wissen, die über den Himmeln sind, die allen unbekannt und unbegreiflich sind, dann weißt du erst recht die Gedanken der Menschen hier auf der Erde\. Aber wenn du nicht einmal die Gedanken derer kennst, die hier vor dir stehen, wie kannst du dann behaupten, jene Dinge zu kennen, von denen du sagst, dass sie niemandem bekannt sind?

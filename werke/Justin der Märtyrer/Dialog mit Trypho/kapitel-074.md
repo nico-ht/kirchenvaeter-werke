@@ -1,0 +1,15 @@
+# Dialog mit Trypho – Kapitel 74
+
+Autor: Justin der Märtyrer
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-37c04808-d5c9-4ee3-57e8-08de5b572cf0).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Wir wissen“, sagte Trypho, „dass du jene Passagen auf unsere Bitte hin für uns zitiert hast\. Aber der Psalm Davids, den du gerade angeführt hast, scheint mir über niemand anderen gesprochen zu sein als über den Vater, der die Himmel und die Erde erschuf\. Du aber behauptest, er beziehe sich auf den, der gelitten hat, und von dem du unbedingt beweisen willst, dass er der Christus ist\.“ „Denkt bitte nach“, flehte ich, „während ich die Worte wiederhole, die der Heilige Geist in diesem Psalm geäußert hat, und ihr werdet verstehen, dass ich weder boshaft gesprochen habe noch ihr in Wahrheit getäuscht wurdet\. Außerdem werdet ihr so, wenn ihr für euch seid, viele andere Aussagen des Heiligen Geistes erfassen können: ‚Singt dem Herrn ein neues Lied; singt dem Herrn, alle Welt\. Singt dem Herrn und preist seinen Namen; verkündet sein Heil von Tag zu Tag, seine Wunder unter allen Völkern\.‘[^bible-73aed326-11da-40c9-9475-55d336b60bf1]“ „Mit diesen Worten befiehlt er all jenen Bewohnern der ganzen Erde, die dieses Geheimnis des Heils kennen – das heißt, das Leiden Christi, durch das er sie rettete –, den Vater aller laut zu besingen und ständig zu preisen, da sie erkennen, dass er sowohl zu fürchten als auch zu loben ist und der Schöpfer von Himmel und Erde ist, der die Menschheit erlöste, der ihn, nachdem er am Kreuz gestorben war, für würdig befand, über die ganze Welt zu herrschen, und auch\.\.\.“ „Und der Herr sprach zu Mose: Sieh, bald wirst du bei deinen Vätern ruhen\. Und dann wird dieses Volk dazu übergehen, zügellos die fremden Götter zu verehren, unter denen sie in dem Land leben werden, in das sie ziehen\. Sie werden mich verlassen und den Bund brechen, den ich mit ihnen geschlossen habe\. Zu jener Zeit wird mein Zorn gegen sie entbrennen; ich werde sie verlassen und mein Angesicht vor ihnen verbergen, sodass sie zur Beute werden, um gefressen zu werden, und viele Übel und Nöte werden sie treffen\. Zu jener Zeit werden sie tatsächlich sagen: ‚Haben uns diese Übel nicht deshalb getroffen, weil unser Gott nicht in unserer Mitte ist?‘ Ich aber werde mein Angesicht zu jener Zeit gänzlich verbergen wegen all dem Bösen, das sie getan haben, indem sie sich fremden Göttern zuwandten\.“[^bible-9f9ac672-eb77-4cc0-bd2e-097858088bb6]
+
+## Bibelverweise
+
+[^bible-73aed326-11da-40c9-9475-55d336b60bf1]: Ps 95,1–Ps 95,3
+[^bible-9f9ac672-eb77-4cc0-bd2e-097858088bb6]: Dtn 31,16–Dtn 31,18

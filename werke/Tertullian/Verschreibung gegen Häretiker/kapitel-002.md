@@ -1,0 +1,14 @@
+# Verschreibung gegen Häretiker – Kapitel 2
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/verschreibung-gegen-haeretiker#kapitel-f08dc934-9031-40de-6006-08dd1bada8d9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn wir den ähnlichen Fall des Fiebers betrachten, das einen Platz unter all den anderen tödlichen und quälenden Übeln des Lebens einnimmt, die den Menschen zerstören, sind wir weder überrascht, dass es existiert, denn es ist da, noch darüber, dass es den Menschen verzehrt, denn das ist der Zweck seiner Existenz\. In ähnlicher Weise verhält es sich mit den Häresien, die zur Schwächung und Auslöschung des Glaubens hervorgebracht werden\. Da wir Furcht empfinden, weil sie diese Macht besitzen, sollten wir zuerst die Tatsache ihrer Existenz fürchten; denn solange sie existieren, haben sie ihre Macht, und solange sie ihre Macht haben, existieren sie\.
+
+Doch das Fieber, das ein Übel sowohl in seiner Ursache als auch in seiner Kraft ist, wie alle wissen, verabscheuen wir eher, als es zu bewundern und wir versuchen uns davor zu schützen, auch wenn wir nicht die Macht haben, es auszurotten\. Einige Menschen hingegen ziehen es vor, über Häresien zu staunen, die ewigen Tod und die Glut eines stärkeren Feuers mit sich bringen, weil sie diese Macht besitzen, anstatt ihre Macht zu meiden, wenn sie die Möglichkeit zur Flucht haben\. Häresien würden jedoch keine Macht besitzen, wenn die Menschen aufhören würden, sich darüber zu wundern, dass sie solche Macht besitzen\. Denn es geschieht entweder, dass die Menschen, während sie staunen in eine Schlinge geraten, oder dass sie, weil sie verstrickt sind, ihre Verwunderung aufrechterhalten, als ob die Irrlehren wegen irgendeiner Wahrheit, die zu ihnen gehört, so mächtig wären\. Es wäre ohne Zweifel ein wunderbares Ding, wenn das Übel eine eigene Kraft hätte, wäre da nicht die Tatsache, dass Häresien stark sind in jenen Personen, die im Glauben schwach sind\.
+
+In einem Kampf zwischen Boxern und Gladiatoren ist es im Allgemeinen nicht so, dass ein Mann siegt, weil er stark ist, oder verliert, weil er nicht stark ist, sondern weil der Besiegte ein Mann ohne Kraft war\. Und tatsächlich zieht sich dieser Sieger, wenn er später gegen einen wirklich starken Mann antritt, beschämt aus dem Wettkampf zurück\. In genau derselben Weise ziehen Häresien ihre Stärke aus den Schwächen der Einzelnen \- sie haben keine Kraft, wenn sie auf einen wirklich starken Glauben treffen\.

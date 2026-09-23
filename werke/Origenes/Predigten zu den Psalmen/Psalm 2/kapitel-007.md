@@ -1,0 +1,41 @@
+# Psalm 2 – Kapitel 7
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/psalm-2#kapitel-064bc378-b9f4-4fe5-d4c7-08dd82975194).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Vers 10: „Und nun, o Könige, versteht; lasst euch unterweisen, ihr alle, die ihr die Erde richtet,“[^bible-196e5fdc-b47e-44a0-bcd8-355852a08509] Es ist nicht fremd für die Güte des Erlösers, den Fürsten und Königen der Erde, die sich gegen Ihn erhoben haben, zu sagen: „Und nun, o Könige, versteht\.“[^bible-5fee7b74-84aa-42a8-bfc2-3e3decf4e944] Obwohl ihr früher unklug Fallstricke für Mich gelegt habt, so bereut nun, da ihr weiser geworden seid\. Darüber hinaus könnte es sein, dass diese Stimme nicht an die Könige eines anderen Landes gerichtet ist; vielleicht versteht er unter dem Namen Könige die Heiligen\. Denn richtig betrachtet ist derjenige ein König, der weiß, wie man unschuldig regiert\. Und wie könnte er nicht ein König sein, der das Reich des Himmels erben wird und der im Reich Gottes sein wird? Es ist jedoch angemessen, dass der fromme Mensch, der zu regieren sucht, bei sich selbst und seinen eigenen Neigungen beginnt\. Denn diese muss er regieren und darf sich nicht länger von der Sünde überwinden lassen, die danach strebt, in unserem sterblichen Körper zu herrschen\. Nun scheint das Wort ἐπιστημώθητε \(„lasst euch unterweisen“\), wie Aquila es übersetzt, mehr Gewicht zu haben als σύνετε \(„versteht“\)\. Denn es gibt einen Befehl, dass Wissen als etwas betrachtet werden soll, das allein den Königen zusteht: „Lasst euch unterweisen, ihr alle, die ihr die Erde richtet\.“
+
+So wie wir den Namen Könige auf zwei Arten empfangen haben, können wir auch die, die die Erde richten, auf zwei Arten verstehen\. Entweder sind es die Fürsten, die sich gegen den Herrn und gegen Seinen Christus versammelt haben, die die Erde richten – denn das Richten ist im eigentlichen Sinne das Werk der Fürsten – oder die, die die Erde richten, sind die Heiligen, wie wir noch zeigen werden\.
+
+Das Wort „lasst euch unterweisen“ kann nun entweder bedeuten: „unterwerft euch der Korrektur und Lehre“ oder „unterzieht euch den Strafen, die diejenigen unterweisen, die solcher Heilmittel bedürfen\.“ Jemand könnte vielleicht fragen, ob hier einem Menschen befohlen wird, sich gemäß der Disziplin, die in Strafen besteht, unterweisen zu lassen, und ob er sich bereitwillig dafür übergeben soll\.
+
+Auf diese Frage – über die viele zögern – müssen wir antworten: Vielleicht gibt es einige, die, weil sie wie Kinder sind, widerwillig zu dieser Disziplin gezogen werden\. Und diese sind es, von denen der Prophet sagt: „Wenn seine Kinder mein Gesetz verlassen und nicht in meinen Urteilen wandeln; wenn sie meine Gerechtigkeiten entweihen und meine Gebote nicht halten: Ich werde ihre Ungerechtigkeiten mit einem Stock besuchen und ihre Sünden mit Schlägen\. Aber meine Barmherzigkeit werde ich ihm nicht entziehen“[^bible-04cb127e-6b5d-4b17-b29c-2f120967326b]\.
+
+Vielleicht gibt es auch andere, die, nachdem sie sich ihrer eigenen Fehltritte bewusst geworden sind, sich dem Heiler übergeben – weil sie Heilung benötigen – und sich den bittersten Mitteln aussetzen, durch die sie besser werden können\. Ich denke, dass aus dieser Gruppe diejenigen stammen, von denen es in Jesaja heißt: „Sie werden andere gerecht richten durch ihre eigenen gerechten Taten – diejenigen, die sich selbst nicht gehorchen würden, selbst wenn sie durch Feuer verbrannt würden“\. Ebenso spricht Jeremia von denen, die beten und sagen: „Korrigiere uns, o Herr, aber doch im Gericht, und nicht in Deinem Zorn, damit Du uns nicht zu Nichts machst“[^bible-eaa77720-93e6-4aec-b2fb-fce28e98f084]\.
+
+Denn obwohl sie die übermäßige Strenge und Bitterkeit der Strafen ablehnen, lehnen sie die Strafe insgesamt keineswegs ab\. Lasst uns auch fragen, ob dies nicht die Stimme derjenigen ist, die bereitwillig bestraft werden: „Ich will die Zorn des Herrn tragen, weil ich gegen Ihn gesündigt habe, bis Er meine Sache richtet“\.
+
+Vielleicht werden daher selbst diejenigen, die die Erde richten, nicht belehrt, es sei denn, sie übergeben sich der Zucht\. Da wir jedoch eher geneigt sind, die Könige als fromme Männer zu verstehen, die zur Klugheit eingeladen werden, lasst uns ebenso auch die betrachten, die die Erde richten\.
+
+Dies finden wir als angemessen für die Heiligen – sie werden richten\. Denn die Männer von Ninive werden im Gericht aufstehen und die Männer dieser Generation verurteilen, weil sie Buße taten auf die Predigt Jonas; und siehe, ein Größerer als Jona ist hier, sagt der Erlöser\. Ebenso wird die Königin des Südens im Gericht aufstehen und die Männer dieser Generation verurteilen, weil sie von den Enden der Erde kam, um die Weisheit Salomos zu hören; und siehe, ein Größerer als Salomo ist hier\.
+
+Die Niniviten und die Königin des Südens gehören also zu denjenigen, die die richten werden, die, nachdem sie den Erlöser gehört haben, nicht zu einem besseren Lebenswandel umkehrten, sondern die Lehre Jesu verachteten\.
+
+Ebenso werden wahrscheinlich die Apostel Christi die zwölf Stämme Israels richten, die nicht an Ihn glaubten\. Und in der ganzen Welt, verstreut über die gesamte Erde, wird jeder Gläubige in seiner eigenen Region die richten, die an diesem Ort nicht glaubten\.
+
+Daher ermahnt das Wort diejenigen, die die Erde richten, zur Zucht, die in der Übermittlung von Wissen besteht, so wie Salomo in den Sprüchen in diesem Sinne sagt: „Nimm Zucht an und kein Silber, und Wissen lieber als erprobtes Gold“[^bible-05ba58b2-29dc-4a33-abcb-01202c5e200e]\.
+
+Oder, Er lädt sie selbst zur Buße ein und nennt sie Könige, indem Er sie überzeugt, dass sie zu der Würde zurückkehren sollten, die sie einst besessen hatten\. „Versteht daher, o Könige,“[^bible-2ef59cc0-c907-4f53-a4f9-2aa98257880f] für welchen Zweck die Nationen Mir als Erbe gegeben wurden\.
+
+## Bibelverweise
+
+[^bible-04cb127e-6b5d-4b17-b29c-2f120967326b]: Ps 89,30–Ps 89,33
+[^bible-05ba58b2-29dc-4a33-abcb-01202c5e200e]: Spr 8,10
+[^bible-196e5fdc-b47e-44a0-bcd8-355852a08509]: Ps 2,10
+[^bible-2ef59cc0-c907-4f53-a4f9-2aa98257880f]: Ps 2,10
+[^bible-5fee7b74-84aa-42a8-bfc2-3e3decf4e944]: Ps 2,10
+[^bible-eaa77720-93e6-4aec-b2fb-fce28e98f084]: Jer 10,24

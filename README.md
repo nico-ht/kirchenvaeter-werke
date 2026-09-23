@@ -13,9 +13,10 @@ Gemeinfreie Ausgangswerke und gesetzlich erlaubte Nutzungen bleiben davon unber�
 ## Aufbau
 
 Autor → Werksammlung → Werk → Kapitel. Werke ohne Sammlung stehen direkt beim Autor.
-Jedes Kapitel ist eine HTML-Datei mit normalen Absätzen und Fußnoten. GitHub zeigt den Quelltext;
-heruntergeladene HTML-Dateien kannst du direkt im Browser lesen.
-Die strukturierten Exportdaten stehen einmal je Werk in `werk.json`.
+Jedes Kapitel ist eine Markdown-Datei mit normalen Absätzen und Fußnoten, direkt auf GitHub lesbar
+und als Text für eigene Werkzeuge und KI-Anwendungen nutzbar.
+Unter `werke/` liegen ausschließlich Markdown-Dateien. Die kleine Datei `.sync/index.json`
+ordnet Werk-IDs, Pfade und Prüfwerte für den automatischen Abgleich zu; sie enthält keine Texte.
 
 ## Mitmachen
 
@@ -36,11 +37,11 @@ git pull --ff-only
 ```
 
 Der nächtliche Abgleich erzeugt einen Commit je geändertem Werk. Ohne Änderung entsteht kein Commit.
-Im Commit zeigt `kapitel-NNN.html` den Textvergleich; GitHub kann geänderte Wörter hervorheben.
-Technische JSON-Diffs sind standardmäßig eingeklappt. Für einen lokalen Wortvergleich:
+Im Commit zeigt `kapitel-NNN.md` den Textvergleich; GitHub kann geänderte Wörter hervorheben.
+Die technische Zuordnung ist im Diff standardmäßig eingeklappt. Für einen lokalen Wortvergleich:
 
 ```sh
-git show --word-diff=color COMMIT-ID -- 'werke/**/*.html'
+git show --word-diff=color COMMIT-ID -- 'werke/**/*.md'
 ```
 
 ## Quelle nennen

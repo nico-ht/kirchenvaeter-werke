@@ -1,5 +1,3 @@
 # Read prose changes first; technical exports remain available via "Load diff".
-werke/**/*.html linguist-generated=false
-werke/**/*.json linguist-generated=true
-catalogue.json linguist-generated=true
-paths.json linguist-generated=true
+werke/**/*.md linguist-generated=false
+.sync/** linguist-generated=true

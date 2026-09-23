@@ -1,0 +1,14 @@
+# 2\. Apologie – Kapitel 9
+
+Autor: Justin der Märtyrer
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/2-apologie#kapitel-f94b1cfd-10a4-464f-ec35-08dd722811bf).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und damit niemand sagen kann, was von jenen geäußert wird, die als Philosophen gelten, nämlich dass unsere Behauptungen, die Gottlosen würden im ewigen Feuer bestraft, große Worte und Schreckgespenster seien und dass wir wünschen, die Menschen lebten tugendhaft aus Angst und nicht, weil ein solches Leben gut und angenehm ist, will ich kurz darauf antworten: Wenn dem nicht so ist, existiert Gott nicht; oder, wenn Er existiert, kümmert Er sich nicht um die Menschen, und weder Tugend noch Laster sind von Bedeutung\. Wie wir bereits sagten, bestrafen die Gesetzgeber ungerecht diejenigen, die gute Gebote übertreten\.
+
+Da diese jedoch nicht ungerecht sind und ihr Vater sie durch das Wort lehrt, dass sie dieselben Dinge tun sollen wie Er selbst, sind auch jene, die mit ihnen übereinstimmen, nicht ungerecht\. Und wenn jemand einwendet, dass die Gesetze der Menschen unterschiedlich sind und sagt, dass bei den einen das eine als gut und das andere als böse betrachtet wird, während bei anderen das, was den ersten schlecht erschien, als gut angesehen wird und das, was gut schien, als schlecht, so höre, was wir dazu sagen\.
+
+Wir wissen, dass die bösen Engel Gesetze aufgestellt haben, die ihrer eigenen Gottlosigkeit entsprechen, in denen die Menschen, die ihnen ähnlich sind, Freude finden\. Der rechte Verstand hat, als Er kam, bewiesen, dass nicht alle Meinungen und Lehren gut sind, sondern dass einige böse und andere gut sind\. Daher werde ich den Menschen wie diesen dieselben und ähnliche Dinge erklären, und wenn nötig, sollen sie ausführlicher behandelt werden\. Doch gegenwärtig kehre ich zum Thema zurück\.

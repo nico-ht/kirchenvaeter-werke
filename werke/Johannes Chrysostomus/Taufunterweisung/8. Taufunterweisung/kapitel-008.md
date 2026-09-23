@@ -1,0 +1,16 @@
+# 8\. Taufunterweisung – Kapitel 8
+
+Autor: Johannes Chrysostomus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/8-taufunterweisung#kapitel-c918f7fc-12dd-427b-ce82-08dde1605df7).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Gott gab diesen Befehl nicht nur um des gerechten Mannes willen, noch um zu zeigen, wie stark sein Glaube war\. Er tat dies, damit wir diesem Patriarchen nacheifern könnten\. Denn als Gott die guten Gesinnungen Abrahams sah und erkannte, dass das Licht seiner Seele verborgen war wie das einer unsichtbaren Fackel, entschied er sich, ihn nach Kanaan zu bringen\. Dort konnte er diejenigen aufnehmen, deren Geister noch von der Dunkelheit der Unwissenheit verblendet waren und die in diesem Land umherirrten, und sie auf den Weg der Tugend führen\. Und tatsächlich geschah dies\.
+
+Durch Abraham kamen nicht nur die in Palästina Wohnenden, sondern auch die in Ägypten dazu, sowohl die Vorsehung Gottes, die mit Abraham war, als auch die Tugend dieses gerechten Mannes zu erkennen\. Betrachte die grenzenlose Größe seiner Seele\! Sein Verlangen nach Gott verlieh ihm Flügel, und er ließ seinen Flug nicht bei den sichtbaren Dingen ruhen, noch widmete er sich nur dem Samen, der ihm verheißen war, sondern richtete seine Gedanken auf das, was kommen sollte\. Denn als Gott ihm ein Land im Austausch für ein anderes Land versprach und sagte: „Gehe aus deinem Land hinaus und komme in das Land, das ich dir zeigen werde“[^bible-22df14fa-a8f5-4251-a6be-5e4eaf997927], ließ er die sinnlichen Dinge hinter sich und gab sie auf im Austausch für das Geistliche\.
+
+## Bibelverweise
+
+[^bible-22df14fa-a8f5-4251-a6be-5e4eaf997927]: Gen 12,1

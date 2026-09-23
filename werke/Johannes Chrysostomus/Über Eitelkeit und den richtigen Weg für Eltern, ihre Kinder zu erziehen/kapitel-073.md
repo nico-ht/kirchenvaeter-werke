@@ -1,0 +1,10 @@
+# Über Eitelkeit und den richtigen Weg für Eltern, ihre Kinder zu erziehen – Kapitel 73
+
+Autor: Johannes Chrysostomus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-eitelkeit-und-den-richtigen-weg-fuer-eltern-ihre-kinder-zu-erziehen#kapitel-be75c8fe-9fb6-41a4-b91c-08ddc88111a4).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Oder denkst du, Paulus sei ein Dummkopf, weil er sagt, dass jemand, der nicht weiß, wie er sein eigenes Haus zu regieren hat, auch die Gemeinde nicht leiten kann? So sage zu dem Jungen: „Wenn du siehst, dass dein Diener einen deiner Bleistifte zerstört oder einen Füller bricht, sei nicht zornig oder beleidigend, sondern vergib und sei nachsichtig\. Durch solche kleinen Verluste wirst du lernen, die größeren zu ertragen\. Es könnte auch das Band um deine Schreibtafeln oder die bronzene Kette sein, die zerbrochen ist\.“ Kinder werden ungestüm durch den Verlust solcher Dinge und neigen eher dazu, ihre Seele zu verlieren, als den Schuldigen unbestraft zu lassen\. Daher muss man die Schärfe seines Zorns mildern\. Glaube mir, der Junge, der für solche Dinge gleichgültig und nachsichtig ist, wird jeden Verlust ertragen, wenn er erwachsen wird\. Wenn der Junge also Tafeln aus feinem Holz hat, sauber und ohne Flecken, die durch bronzene Ketten zusammengehalten werden, und silberne Bleistifte und andere ähnliche kindliche Besitztümer, und sein Diener diese verliert oder bricht, und der Junge dann von Zorn absieht, hat er bereits alle Merkmale eines philosophischen Geistes gezeigt, indem er nicht sofort andere kauft, um sein Leid nicht zu mindern; aber wenn du siehst, dass er seinen Verlust nicht mehr vermisst oder darüber betrübt ist, dann heile sein Unglück\.

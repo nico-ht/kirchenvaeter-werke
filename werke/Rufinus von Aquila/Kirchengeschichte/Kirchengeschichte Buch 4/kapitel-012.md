@@ -1,0 +1,10 @@
+# Kirchengeschichte Buch 4 – Kapitel 12
+
+Autor: Rufinus von Aquila
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-4#kapitel-5bad9ce0-b167-44b1-8a2a-08de0a72e412).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„An den Kaiser Aelius Hadrianus Antoninus Pius Cäsar Augustus und an Verissimus, den Philosophen, seinen Sohn, und an Lucius, den leiblichen Sohn des Philosophen\-Cäsars und Adoptivsohn des Pius, an den Freund der Weisheit, und an den heiligen Senat und das ganze römische Volk: Ich, Justin, Sohn des Priscus, Sohn des Bacchius, aus Neapolis in Palästina, reiche diese Bittschrift ein als der eine Sprecher aller Menschen, die aus allen Teilen des Menschengeschlechts zusammengekommen sind und darunter leiden, zu Unrecht gehasst und misshandelt zu werden\.“ Derselbe Kaiser wurde auch in Asien von denen ersucht, die von verschiedenen Ungerechtigkeiten betroffen waren, und veröffentlichte an alle Völker Asiens die folgende Antwort:

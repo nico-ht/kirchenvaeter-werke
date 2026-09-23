@@ -1,0 +1,10 @@
+# Erkenntnisse, Buch 10 – Kapitel 52
+
+Autor: Clemens von Rom
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-10#kapitel-c56cc8cc-371d-447a-7554-08dd36600a1f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Als er dies gesagt hatte und noch mehr in ähnlichem Sinne, heilte er einige der Anwesenden, die krank und von Dämonen besessen waren, und entließ die Menge, während sie Gott dankten und lobten\. Er forderte sie auf, auch an den folgenden Tagen an denselben Ort zu kommen, um zu hören\. Als wir dann zu Hause zusammen waren und uns zum Essen vorbereiteten, kam jemand herein und berichtete uns, dass Appion Pleistonices mit Anubion kürzlich aus Antiochien gekommen sind und bei Simon hausten\. Mein Vater freute sich, als er dies hörte, und sagte zu Petrus: „Wenn du es mir erlaubst, möchte ich Appion und Anubion begrüßen, denn sie sind große Freunde von mir; vielleicht kann ich Anubion überzeugen, mit Clemens über das Thema Genesis zu diskutieren\.“ Daraufhin sagte Petrus: „Ich stimme zu und lobe dich, weil du deine Freunde wertschätzt\. Aber bedenke, wie dir alles gemäß deinem Wunsch durch die Vorsehung Gottes widerfährt; denn siehe, nicht nur sind dir die Objekte der richtigen Zuneigung durch den Willen Gottes zurückgegeben worden, sondern auch die Anwesenheit deiner Freunde ist für dich arrangiert\.“ Mein Vater erwiderte: „Wahrlich, ich halte es für so, wie du sagst\.“ Und nachdem er dies gesagt hatte, ging er zu Anubion\.

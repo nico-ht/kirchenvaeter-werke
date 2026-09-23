@@ -1,0 +1,14 @@
+# Erkenntnisse, Buch 5 – Kapitel 2
+
+Autor: Clemens von Rom
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-5#kapitel-e365fcfd-568f-484f-4bda-08dd123715ec).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Gott, der Schöpfer von allem, schuf zu Beginn den Menschen nach Seinem Bild und gab ihm die Herrschaft über die Erde, das Meer und die Luft; wie es der wahre Prophet uns gesagt hat und wie es die Vernunft der Dinge uns lehrt: denn der Mensch allein ist vernünftig, und es ist angemessen, dass die Vernunft über das Unvernünftige herrscht\. Zunächst war er daher, solange er gerecht war, allen Unordnungen und aller Gebrechlichkeit überlegen; aber als er sündigte, wie wir euch gestern lehrten, und zum Diener der Sünde wurde, wurde er zugleich anfällig für Gebrechlichkeit\. Dies ist daher geschrieben, damit die Menschen erkennen, dass sie durch Gottlosigkeit leidensanfällig geworden sind, so sie durch Frömmigkeit von dem Leiden befreit werden können; und nicht nur von dem Leiden befreit, sondern auch durch einen kleinen Glauben an Gott in der Lage sein, die Leiden anderer zu heilen\. Denn so hat der wahre Prophet uns versprochen und gesagt: 'Wahrlich, ich sage euch, wenn ihr Glauben habt wie ein Senfkorn, werdet ihr zu diesem Berg sagen: Hebe dich von hier dorthin, und er wird sich erheben\.' [^bible-df770db0-4acf-4edc-84b8-e6b466fa45f6]Ihr habt selbst Beweise für dieses Heil erfahren; denn ihr habt gestern gesehen, wie in unserer Gegenwart die Dämonen flohen und die Leiden, die sie über die Menschen gebracht hatten, beseitigt wurden\.
+
+## Bibelverweise
+
+[^bible-df770db0-4acf-4edc-84b8-e6b466fa45f6]: Mt 17,20

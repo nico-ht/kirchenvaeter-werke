@@ -1,0 +1,12 @@
+# 4\. Predigt zu Titus – Kapitel 7
+
+Autor: Johannes Chrysostomus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/4-predigt-zu-titus#kapitel-854a61de-0185-416d-b16d-08ddbba88a7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und all dies habe ich gesagt, um zu beweisen, dass der tugendhafte Mensch, selbst wenn er in Sklaverei, Gefangenschaft oder im Gefängnis ist, selbst wenn er sich in den Tiefen der Erde befindet, von nichts überwunden werden kann\. Dies habe ich zu den Dienern gesagt, damit sie lernen, dass sie, obwohl sie Meister haben, die sehr grausam sind, wie dieser Ägypter, oder wild wie der Aufseher des Gefängnisses, deren Achtung gewinnen können\. Und selbst wenn sie Heiden sind, wie sie es damals waren, oder was auch immer sie sein mögen, können sie sie bald zur Sanftmut gewinnen\. Denn nichts ist anziehender als gute Manieren, nichts angenehmer und erfreulicher als Sanftmut, Milde und Gehorsam\. Eine Person mit solchem Charakter ist für alle geeignet\. Jemand, der so ist, schämt sich nicht der Sklaverei; er meidet die Armen, die Kranken und die Schwachen nicht\. Denn die Tugend ist überlegen und überwindet alles\. Und wenn sie eine solche Kraft bei Sklaven hat, wie viel mehr bei den Freien?
+
+Lasst uns dies also praktizieren, ob gebunden oder frei, Männer oder Frauen\. So werden wir sowohl von Gott als auch von den Menschen geliebt werden; und nicht nur von tugendhaften Menschen, sondern auch von den Bösen; ja, besonders von ihnen, denn sie ehren und respektieren die Tugend umso mehr\. Denn wie die Untergebenen am meisten Ehrfurcht vor den Sanftmütigen haben, so verehren die Lasterhaften die Tugendhaften, da sie wissen, aus welcher Tiefe sie selbst gefallen sind\. Da dies also die Frucht der Tugend ist, lasst uns danach streben und sie erreichen\. Wenn wir daran festhalten, wird nichts furchtbar sein, sondern alles leicht und handhabbar\. Und selbst wenn wir durch Feuer und Wasser gehen, wird alles der Tugend nachgeben, sogar der Tod selbst\. Lasst uns daher eifrig danach streben, dass wir die guten Dinge, die kommen, in Jesus Christus, unserem Herrn, erlangen, dem die Ehre von Ewigkeit zu Ewigkeit gebührt, zusammen mit dem Vater und den Heiligen Geist\. Amen\.

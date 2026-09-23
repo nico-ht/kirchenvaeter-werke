@@ -1,0 +1,19 @@
+# Dialog mit Trypho – Kapitel 122
+
+Autor: Justin der Märtyrer
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-f15aeb10-d46f-41cd-c194-08de6c821f66).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Eurer Ansicht nach bezieht sich die gerade zitierte Passage auf den Fremden und den Proselyten, aber in Wirklichkeit bezieht sie sich auf uns Christen, die wir durch Jesus erleuchtet wurden\! Gewiss, Christus hätte sie auch erwähnen können, aber wie er selbst bekräftigte: „Ihr werdet nun doppelte Söhne der Hölle\.“[^bible-277b8ca6-aa37-4c47-856b-8b25f9b6ed69] Deshalb spricht auch der Prophet nicht von ihnen, sondern von uns, über die die Heilige Schrift bezeugt: „Ich werde die Blinden auf einen Weg führen, den sie nicht kennen; und auf den Pfaden, die ihnen unbekannt waren, werde ich sie wandeln lassen\.“[^bible-473b66af-971d-4bec-b2ae-d55b438ed33f] Und: „Ich bin Zeuge, sagte Gott der Herr, und mein Diener, den ich erwählt habe\.“[^bible-544ff761-a258-4508-8c56-e0b5e3d828cb] Wem gibt Christus also dieses Zeugnis? Offensichtlich denjenigen, die geglaubt haben\! Aber die Proselyten glauben nicht nur nicht, sondern sie lästern seinen Namen doppelt so sehr wie ihr, und auch sie strengen sich an, uns, die wir an ihn glauben, zu foltern und zu töten, denn sie bemühen sich, eurem Beispiel in allem zu folgen\! Und an einer anderen Stelle ruft er aus: „Ich, der Herr, habe dich in Gerechtigkeit gerufen und werde dich bei der Hand nehmen und dich stärken, und ich werde dich zum Bund des Volkes geben, zum Licht der Heiden, um die Augen der Blinden zu öffnen und den Gefangenen aus dem Gefängnis herauszuführen\.“[^bible-969a02b0-13be-4a09-a013-31872e9883d8] Auch diese Worte, meine Herren, wurden von Christus gesprochen und betreffen die erleuchteten Heiden\! Oder behauptet ihr wieder, dass er diese Dinge über das Gesetz und die Proselyten sagt?“ Dann begannen einige von denen, die am zweiten Tag angekommen waren, wie in einem Hörsaal dazwischenzurufen: „Warum nicht? Meint er nicht das Gesetz und diejenigen, die durch es erleuchtet wurden? Das sind doch sicherlich die Proselyten\!“ „Nein“, antwortete ich und sah Trypho direkt an, „denn wenn das Gesetz die Macht hätte, die Heiden und alle, die es besitzen, zu erleuchten, wozu bräuchte es dann einen neuen Bund? Aber da Gott vorausgesagt hat, dass er ein neues Testament und ein ewiges Gesetz und Gebot senden würde, sollten wir die oben zitierte Passage nicht auf das Alte Gesetz und seine Proselyten anwenden, sondern auf Christus und seine Proselyten\! Das heißt, auf uns Heiden, die er erleuchtet hat, wie er irgendwo sagt: „So sprach der Herr: Zur willkommenen Zeit habe ich dich erhört, und am Tag des Heils habe ich dir geholfen; und ich gab dich als Bund des Volkes, um die Erde zu befestigen und das Verlassene zu erben\.“[^bible-ee04b35d-c432-451c-9bb0-262e407c1070] Wer ist also das Erbe Christi? Sind es nicht die Heiden? Wer ist der Bund Gottes? Ist es nicht Christus? So erklärt er an anderer Stelle in der Schrift: „Du bist mein Sohn, heute habe ich dich gezeugt; bitte mich, und ich werde dir die Heiden zu deinem Erbe geben und die äußersten Enden der Erde zu deinem Besitz\.“[^bible-b5a2f8b7-b1e2-4ccf-9733-15f691914410]
+
+## Bibelverweise
+
+[^bible-277b8ca6-aa37-4c47-856b-8b25f9b6ed69]: Mt 23,15
+[^bible-473b66af-971d-4bec-b2ae-d55b438ed33f]: Jes 42,16
+[^bible-544ff761-a258-4508-8c56-e0b5e3d828cb]: Jes 43,10
+[^bible-969a02b0-13be-4a09-a013-31872e9883d8]: Jes 42,6–Jes 42,7
+[^bible-b5a2f8b7-b1e2-4ccf-9733-15f691914410]: Ps 2,7–Ps 2,8
+[^bible-ee04b35d-c432-451c-9bb0-262e407c1070]: Jes 49,8

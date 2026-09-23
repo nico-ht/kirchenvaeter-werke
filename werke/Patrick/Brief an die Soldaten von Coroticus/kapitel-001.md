@@ -1,0 +1,10 @@
+# Brief an die Soldaten von Coroticus – Kapitel 1
+
+Autor: Patrick
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/patrick/brief-an-die-soldaten-von-coroticus#kapitel-d72f0721-e291-473d-5502-08de2c22a191).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ich bekenne, dass ich, Patrick – wirklich ein ungebildeter Sünder –, in Irland als Bischof eingesetzt worden bin\. Ich bin völlig gewiss, dass ich alles, was ich bin, von Gott empfangen habe\. Ich lebe als Fremder unter nicht römischen Völkern, als Verbannter um der Liebe Gottes willen – er ist mein Zeuge, dass es so ist\. Es ist nicht so, dass ich mir aussuchen würde, derart schroffe und harte Worte aus meinem Mund kommen zu lassen, aber der Eifer für Gott treibt mich\. Und die Wahrheit Christi drängt mich, aus Liebe zu den Nachbarn und zu den Kindern\. Für sie habe ich meine Heimat und meine Eltern aufgegeben und mein eigenes Leben bis in den Tod hinein, wenn ich dessen würdig bin\. Ich lebe für meinen Gott, um diese Völker zu lehren, auch wenn ich von manchen verachtet werde\.

@@ -1,0 +1,10 @@
+# Apologie – Kapitel 28
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/apologie#kapitel-067c92f5-a412-4ab1-09d3-08df02ec59a9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Da es leicht als Unrecht erscheinen könnte, freie Menschen gegen ihren Willen zum Opfern zu zwingen, zumal auch sonst für eine gottesdienstliche Handlung eine willige Gesinnung gefordert wird, müsste es gewiss als unsinnig gelten, wenn jemand von einem anderen zur Verehrung von Göttern gezwungen würde, die er doch von sich aus zum eigenen Nutzen gnädig stimmen sollte\. Denn dann stünde ihm kraft seines Freiheitsrechts unmittelbar der Einspruch offen: „Ich will nicht, dass Jupiter mir gnädig ist\. Wer bist du, mir das vorzuschreiben? Janus soll mir zürnen, mit welchem Gesicht er will\. Was geht dich meine Sache an?“ Eben jene Geister haben euch natürlich so geprägt, dass ihr uns zwingt, für das Heil des Kaisers zu opfern: Euch wurde die Notwendigkeit des Zwingens auferlegt, uns aber die Bindung, die Gefahr zu bestehen\. Damit sind wir zum zweiten Anklagepunkt gelangt: der Verletzung einer noch erhabeneren Majestät\. Denn mit größerer Furcht und berechnenderer Ängstlichkeit achtet ihr auf den Kaiser als auf Jupiter selbst vom Olymp\. Und das mit Recht, wenn ihr es nur wüsstet\. Denn welcher beliebige Lebende hätte nicht Vorrang vor einem Toten? Doch auch darin handelt ihr nicht aus vernünftiger Einsicht, sondern aus Rücksicht auf die unmittelbar gegenwärtige Macht\. So werdet ihr auch hierin der Religionslosigkeit gegenüber euren Göttern überführt, da ihr menschlicher Herrschaft mehr Furcht zollt\. Schließlich wird bei euch leichter bei allen Göttern falsch geschworen als bei dem einen Genius des Kaisers\.

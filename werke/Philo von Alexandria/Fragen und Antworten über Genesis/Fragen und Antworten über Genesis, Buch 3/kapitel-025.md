@@ -1,0 +1,10 @@
+# Fragen und Antworten über Genesis, Buch 3 – Kapitel 25
+
+Autor: Philo von Alexandria
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-3#kapitel-a8aefc65-007b-4d97-9c91-08ded7f950d2).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Warum heißt es: „Sara bedrängte sie“? Der wörtliche Sinn der Worte ist klar; wenn wir aber auf ihren inneren Sinn sehen, enthalten sie einen Grundsatz dieser Art: Nicht jede Bedrängnis ist schädlich, sondern es gibt sogar Fälle, in denen sie heilsam ist\. Das erfahren Kranke durch die Ärzte, Knaben unter ihren Erziehern und dumme Menschen durch diejenigen, die sie zurechtweisen, um sie zur Weisheit zu führen\. Und dies kann ich keineswegs Bedrängnis nennen, sondern vielmehr Rettung und Nutzen für Seele und Körper\. Einen Teil solchen Nutzens gewährt nun die Weisheit dem Kreis der enzyklischen Bildung: Sie mahnt die Seele, die sich einem Übermaß an Unterweisung hingegeben hat und mit Sophistik schwanger geht, mit Recht, sich nicht aufzulehnen, als hätte sie irgendein großes und vortreffliches Gut erworben, sondern sich zu fügen und jene höhere und vortrefflichere Natur als ihre eigentliche Herrin zu ehren, in deren Macht die Beständigkeit selbst steht und die Autorität über alles\.

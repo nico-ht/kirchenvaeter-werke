@@ -1,0 +1,10 @@
+# Predigt zu dem reichen Mann und Lazarus – Kapitel 11
+
+Autor: Asterius von Amaseia
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/asterius-von-amaseia/predigt-zu-dem-reichen-mann-und-lazarus#kapitel-3b8fa8ac-25a0-4e8f-0606-08dd1fa7b534).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Es gab einen bestimmten Bettler namens Lazarus\. Die Erzählung beschreibt ihn nicht einfach als arm, ohne Geld und ohne die notwendigen Lebensmittel, sondern auch als von einer schmerzhaften Krankheit geplagt, am Körper abgemagert, ohne Obdach, ohne Heimat, unheilbar und am Tor des reichen Mannes niedergeworfen\. Und sehr sorgfältig entwickelt die Erzählung schließlich die Umstände des Bettlers, um die Herzlosigkeit desjenigen zu kennzeichnen, der kein Mitleid hat; denn der Mensch, der kein Gefühl von Mitleid oder Mitgefühl für Hunger oder Krankheit hat, ist ein unvernünftiges wildes Tier in menschlicher Gestalt, das absichtlich und böse die Menschen täuscht\. Ja, mehr noch, er ist weniger mitfühlend als die Tiere selbst; denn zumindest wenn ein Schwein geschlachtet wird, empfinden die anderen aus der Herde ein gewisses schmerzhaftes Gefühl und grunzen elend über das frisch vergossene Blut; und das Vieh, das umhersteht, wenn der Bulle getötet wird, zeigt sein Leid durch leidenschaftliches Muhen\. Auch die Schwärme von Kranichen, wenn einer ihrer Gefährten in die Netze gefangen wird, flattern um ihn herum und erfüllen die Luft mit einer Art klagendem Geschrei, während sie versuchen, ihren Gefährten und Genossen zu befreien\. Und wie unnatürlich ist es, dass der Mensch, der mit Vernunft begabt und mit Kultur gesegnet ist und der auch durch das Beispiel Gottes zur Güte gelehrt wurde, so wenig an seinen leidenden und unglücklichen Verwandten denkt\!

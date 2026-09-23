@@ -1,0 +1,10 @@
+# Fragen und Antworten über Genesis, Buch 1 – Kapitel 20
+
+Autor: Philo von Alexandria
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-1#kapitel-a8cf318e-c1da-4b8d-cd2e-08dd5e2b9946).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Warum brachte Gott jedes Tier zum Menschen, damit er ihnen ihre Namen gebe? Er hat hier eine große Schwierigkeit für die Schüler der Philosophie erklärt, indem er sie darauf hinweist, dass Namen aus Benennung hervorgehen und nicht aus der Natur\. Denn eine natürliche Namengebung wird jedem Geschöpf mit besonderer Angemessenheit zugewiesen, wenn ein Mann von Weisheit und überragender Erkenntnis erscheint\. Tatsächlich gehört die Aufgabe, den Tieren Namen zu geben, in besonderer Weise allein dem Geist des weisen Mannes, und zwar dem ersten aus der Erde geborenen Menschen, da es passend war, dass dem Ersten des Menschengeschlechts und dem Herrscher über alle aus der Erde geborenen Tiere diese Würde zugewiesen wurde\. Denn sofern er der Erste war, der die Tiere sah, und da er als Erster würdig war, sie alle als ihr Oberhaupt zu regieren, war es ebenso passend, dass er ihr erster Namengeber und der Erfinder ihrer Namen wurde; denn es wäre widersinnig und wahnsinnig gewesen, sie ohne irgendwelche Namen zu lassen oder zuzulassen, dass sie ihre Namen von irgendeinem später Geborenen erhielten\. Das wäre eine Beleidigung und eine Minderung der Ehre und Herrlichkeit gewesen, die dem Erstgeborenen gebühren\. Wir können aber auch diese Auffassung übernehmen: Die Namengebung für die verschiedenen Tiere war so leicht geordnet, dass in demselben Augenblick, in dem Adam jeweils den Namen gab, auch das Tier selbst ihn hörte, da es durch den ihm so gegebenen Namen beeinflusst wurde wie durch ein vertrautes, eng mit ihm verbundenes Zeichen\.

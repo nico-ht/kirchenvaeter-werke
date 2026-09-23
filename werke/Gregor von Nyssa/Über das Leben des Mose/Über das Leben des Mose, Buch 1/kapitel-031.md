@@ -1,0 +1,10 @@
+# Über das Leben des Mose, Buch 1 – Kapitel 31
+
+Autor: Gregor von Nyssa
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nyssa/ueber-das-leben-des-mose-buch-1#kapitel-919b9b9f-a4fd-41f4-826a-08ded879412e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Auf diese Wolke blickte Mose selbst und lehrte auch das Volk, der Erscheinung zu folgen\. Als sie zum Roten Meer gelangten, während die Wolke ihnen den Weg wies, wurden sie dort von der ganzen Heeresmacht der Ägypter von hinten eingeschlossen\. Da ihnen von nirgends irgendein Ausweg aus den Gefahren blieb, weil Feinde und Wasser sie in die Mitte genommen hatten, vollbrachte Mose, durch göttliche Macht angetrieben, das Unglaublichste von allem\. Denn er trat an den Strand heran und schlug mit dem Stab auf das Meer; auf den Schlag hin spaltete es sich, und wie es beim Glas zu geschehen pflegt, wenn der Bruch an irgendeiner Stelle seinen Anfang nimmt und geradlinig bis zum anderen Ende hindurchläuft, so setzte sich, als jenes ganze Meer am Rand durch den Stab aufgerissen war, auch der Riss der Wogen bis zum gegenüberliegenden Ufer fort\. Und Mose stieg mit dem ganzen Volk in die Tiefe hinab, an der das Meer geteilt worden war; er befand sich mitten im Abgrund, ohne dass sein Körper nass wurde, sondern von der Sonne beschienen, und durchschritt zu Fuß die Tiefen auf dem trockenen Grund des Meeres\. Dabei fürchtete er jene aus Wogen rasch errichtete Mauer nicht, bei der sich auf beiden Seiten das Salzwasser seitlich für sie erhoben hatte wie eine Mauer\.

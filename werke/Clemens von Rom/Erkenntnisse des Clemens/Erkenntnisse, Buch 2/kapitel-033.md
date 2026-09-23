@@ -1,0 +1,10 @@
+# Erkenntnisse, Buch 2 – Kapitel 33
+
+Autor: Clemens von Rom
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-2#kapitel-5d8e6627-6966-48dc-54b9-08dd130c175e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Da sprach Petrus: „Nimm nicht voreilig Anstoß, Simon, an Dingen, die du nicht verstehst\. Zuerst will ich auf deine Behauptung eingehen, dass ich die Worte meines Meisters wiedergebe und aus ihnen Dinge ableite, über die noch Zweifel bestehen\. Als unser Herr uns Apostel aussandte, um zu predigen, befahl Er uns, alle Völker zu lehren in den Dingen, die uns anvertraut wurden\. Wir können daher diese Dinge nicht so sprechen, wie Er sie selbst gesprochen hat\. Denn unser Auftrag ist nicht, zu sprechen, sondern diese Dinge zu lehren und zu zeigen, wie jede von ihnen auf der Wahrheit basiert\. Es ist uns auch nicht erlaubt, etwas Eigenes zu verkünden\. Denn wir sind Gesandte; und derjenige, der gesandt wird, überbringt die Botschaft, wie ihm befohlen wurde, und gibt den Willen des Senders wieder\. Wenn ich also etwas anderes sagen würde als das, was mir aufgetragen wurde, wäre ich ein falscher Apostel, der nicht das sagt, was ihm befohlen wurde, sondern was ihm selbst gefällt\. Wer dies tut, möchte sich offensichtlich besser darstellen, als derjenige, der ihn gesandt hat, und ist ohne Zweifel ein Verräter\. Wenn er hingegen bei dem bleibt, was ihm befohlen wurde, und klare Aussagen darüber macht, wird es sich zeigen, dass er die Arbeit eines Apostels erfüllt\. Und indem ich versuche, dies zu tun, missfalle ich dir\. Beschuldige mich also nicht, weil ich die Worte dessen vorbringe, der mich gesandt hat\. Wenn du aber denkst, dass etwas in diesen Worten nicht richtig ist, hast du die Freiheit, mich zu widerlegen\. Doch das wird dir nicht gelingen, denn Er ist ein Prophet und kann sich nicht selbst widersprechen\. Wenn du jedoch nicht glaubst, dass Er ein Prophet ist, dann sollte dies zuerst untersucht werden\.“

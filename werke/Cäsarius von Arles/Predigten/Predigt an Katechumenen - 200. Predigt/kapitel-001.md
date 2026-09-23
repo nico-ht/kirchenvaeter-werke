@@ -1,0 +1,10 @@
+# Predigt an Katechumenen \- 200\. Predigt – Kapitel 1
+
+Autor: Cäsarius von Arles
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/caesarius-von-arles/predigt-an-katechumenen-200-predigt#kapitel-cd3b65b3-6193-4d7a-7de7-08de10218dbc).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Heute, liebste Brüder und Schwestern, richtet sich unsere demütige Predigt besonders an die Katechumenen\. Auch wenn unsere Ermahnung vor allem an sie ergeht, sind wir überzeugt, dass sie allen Getauften gilt, die sich um das Heil ihrer Seele sorgen\. Alle können aus diesem schlichten Rat Gewinn ziehen, auch wenn wir in erster Linie jene mahnen wollen, die jetzt das Sakrament der Taufe begehren\. Zuerst sollen die Katechumenen, „Mitbittende“, wissen, warum sie so heißen\. Sie heißen so, weil sie gemeinsam bitten, so wie Menschen, die beisammen sitzen, nichts anderes sind als eine Gruppe, die zusammen sitzen, oder wie Gesprächspartner, die miteinander sprechen, oder wie Läufer, die zusammen laufen\. Daher kann man Katechumenen nur als diejenigen erkennen, die gemeinsam bitten\. Nun haben die Katechumenen also gelernt, warum sie diesen Namen tragen; sie sollen aber auch wissen, worum sie bitten\.

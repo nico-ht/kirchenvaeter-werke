@@ -1,0 +1,14 @@
+# Fragen und Antworten über Genesis, Buch 1 – Kapitel 29
+
+Autor: Philo von Alexandria
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-1#kapitel-49975951-ac41-4e6d-cd37-08dd5e2b9946).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Warum sagt er: „Darum wird ein Mann seinen Vater und seine Mutter verlassen und seiner Frau anhangen, und die zwei werden in einem Fleisch sein[^bible-4c29c0e1-2ecf-43c8-b6e9-044f32a3b22c]“? Hier gebietet er dem Mann, sich seiner Frau im Zusammenleben mit einem solchen Übermaß an Zuneigung zuzuwenden, dass er bereit ist, seine Eltern zu verlassen, nicht damit es dadurch angemessener wäre, sondern weil sie für seine Treue zu seiner Frau kaum ein Beweggrund wären\. Und wir müssen bemerken: Es ist sehr trefflich und umsichtig, dass er vermieden hat zu sagen, die Frau solle ihre Eltern verlassen und ihrem Mann anhangen, denn der Charakter des Mannes ist kühner als die Natur der Frau; vielmehr sagt er, der Mann müsse dies um der Frau willen tun\. Denn er wird von einem frohen und willigen Antrieb zur Eintracht der Erkenntnis getragen; ihr ganz hingegeben, zügelt und ordnet er seine Begierden und hängt seiner Frau allein an wie Vogelleim\. Besonders deshalb, weil er selbst, der sich an seiner herrscherlichen Autorität erfreut, wegen seines Stolzes geachtet werden muss; die Frau aber, die im Rang einer Dienerin steht, wird dafür gelobt, dass sie einem Leben der Gemeinschaft zustimmt\. Wenn aber gesagt wird, dass die zwei ein Fleisch sind, zeigt das, dass das Fleisch sehr greifbar und ganz mit äußeren Sinnen ausgestattet ist, von denen es abhängt, von Schmerz betroffen und durch Lust erfreut zu werden, sodass Mann und Frau aus denselben Quellen Lust und Schmerz empfangen, dasselbe empfinden und mehr noch, dasselbe denken können\.
+
+## Bibelverweise
+
+[^bible-4c29c0e1-2ecf-43c8-b6e9-044f32a3b22c]: Gen 2,24

@@ -1,0 +1,10 @@
+# Erkenntnisse, Buch 7 – Kapitel 29
+
+Autor: Clemens von Rom
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-7#kapitel-50ff1356-3b1f-48ce-2043-08dd2595307e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Als unsere Mutter aus ihrem Schlaf aufgestanden war, begann Petrus, sie anzusprechen: „Ich möchte, dass du, o Frau, eine Grundsatzfrage unserer Religion verstehst\. Wir verehren einen Gott, der die Welt erschaffen hat, und wir halten Sein Gesetz, in dem Er uns zuerst befiehlt, Ihn zu verehren und Seinen Namen zu ehren, unsere Eltern zu achten und Keuschheit sowie Rechtschaffenheit zu bewahren\. Zudem halten wir es für wichtig, nicht mit Heiden an einem Tisch zu essen, es sei denn, sie glauben, werden durch die Annahme der Wahrheit getauft und durch eine dreifache Anrufung des gesegneten Namens geweiht; erst dann essen wir mit ihnen\. Andernfalls, selbst wenn es sich um einen Vater, eine Mutter, eine Frau, Söhne oder Brüder handelt, können wir nicht mit ihnen an einem Tisch sitzen\. Da wir dies also aus einem besonderen Grund der Religion tun, lass es dir nicht schwerfallen, dass dein Sohn nicht mit dir essen kann, bis du denselben Glauben teilst, den er hat\.“

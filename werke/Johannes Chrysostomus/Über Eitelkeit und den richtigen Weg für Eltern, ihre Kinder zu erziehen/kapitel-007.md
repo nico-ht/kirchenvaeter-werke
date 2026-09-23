@@ -1,0 +1,10 @@
+# Über Eitelkeit und den richtigen Weg für Eltern, ihre Kinder zu erziehen – Kapitel 7
+
+Autor: Johannes Chrysostomus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-eitelkeit-und-den-richtigen-weg-fuer-eltern-ihre-kinder-zu-erziehen#kapitel-685bcb50-e03b-4da5-0765-08ddc7bd2f7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und wenn er, nachdem er über sein Vermögen hinaus ausgegeben hat, in Not ist und auf seinen Füßen stehend in der Mitte des Marktplatzes bettelt, und keiner derjenigen, die ihn einst als ihren Gönner begrüßten, ihm zur Seite steht oder ihm die Hand reicht, ja, was noch schlimmer ist, wenn sie sich über das, was geschehen ist, freuen – denn zu der Zeit, als sie ihn begrüßten, waren sie von Neid verzehrt und hielten es für einen Trost für ihre eigenen häuslichen Sorgen, dass der Mann, der so glanzvoll war, nun der am meisten entehrte von allen war – wenn ihm niemand zur Seite steht oder ihm die Hand reicht, kann etwas erbärmlicher sein als das? Nein, ist es nicht vielmehr der Tränen wert? Kann etwas grausamer sein?

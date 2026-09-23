@@ -1,0 +1,16 @@
+# Gegen Celsus, Buch 1 – Kapitel 35
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-1#kapitel-2622de54-df8a-4ec7-0a0a-08df02ec59a9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Damit es aber nicht so aussieht, als wollten wir Menschen, die nicht entscheiden können, ob sie dem glauben sollen oder nicht, allein aufgrund eines hebräischen Wortes davon überzeugen, der Prophet habe davon gesprochen, dass dieser Mann von einer Jungfrau geboren werde, weil bei seiner Geburt die Worte „Gott mit uns“ gesprochen wurden, wollen wir unsere Behauptung aus dem Wortlaut selbst beweisen\. Es wird berichtet, der Herr habe zu Ahas gesagt: „Erbitte dir ein Zeichen vom Herrn, deinem Gott, sei es in der Tiefe oder oben in der Höhe\.[^bible-31247dd9-3a33-424b-b0e4-218418b47836]“ Danach wird das Zeichen genannt: „Siehe, eine Jungfrau wird schwanger werden und einen Sohn gebären\.[^bible-cb612f8c-7548-48a9-898c-21b71fe38f2b]“ Was für ein Zeichen wäre es denn gewesen, wenn eine junge Frau, die keine Jungfrau war, ein Kind zur Welt gebracht hätte? Und welche von beiden kommt eher als Mutter Immanuels, das heißt „Gott mit uns“, infrage: eine Frau, die mit einem Mann verkehrt und auf die gewöhnliche Weise empfangen hat, oder eine, die noch eine reine und heilige Jungfrau ist? Gewiss gebührt es nur der Letzteren, ein Wesen zur Welt zu bringen, bei dessen Geburt es heißt: „Gott mit uns\.“ Sollte er so spitzfindig sein und behaupten, der Befehl „Erbitte dir ein Zeichen vom Herrn, deinem Gott“ richte sich an Ahas, werden wir zurückfragen: Wer gebar zur Zeit des Ahas einen Sohn, bei dessen Geburt man den Ausdruck „Immanuel“, das heißt „Gott mit uns“, gebrauchte? Wenn sich niemand finden lässt, dann richtete sich das Wort an Ahas offensichtlich an das Haus David; denn es steht geschrieben, dass der Retter dem Fleisch nach aus dem Haus David geboren wurde\. Und von diesem Zeichen heißt es, es sei „in der Tiefe oder in der Höhe[^bible-31247dd9-3a33-424b-b0e4-218418b47836]“, denn: „Der hinabgestiegen ist, ist derselbe, der auch weit über alle Himmel hinaufgestiegen ist, um alles zu erfüllen\.[^bible-2ea1f0aa-9352-47cf-8385-8c545f4ddbd0]“ Diese Argumente führe ich gegen einen Juden an, der an die Prophetie glaubt\. Nun soll Celsus mir sagen, oder einer von denen, die seiner Meinung sind, in welchem Sinn der Prophet diese Aussagen über die Zukunft oder die anderen in den Prophezeiungen enthaltenen Worte spricht\. Geschieht es mit irgendeiner Voraussicht auf die Zukunft oder nicht? Wenn mit Voraussicht auf die Zukunft, dann waren die Propheten von Gott inspiriert\. Wenn ohne jede Voraussicht auf die Zukunft, dann soll er erklären, was jemand damit meint, der so kühn über die Zukunft spricht und den die Juden wegen seiner prophetischen Kraft bewundern\.
+
+## Bibelverweise
+
+[^bible-2ea1f0aa-9352-47cf-8385-8c545f4ddbd0]: Eph 4,10
+[^bible-31247dd9-3a33-424b-b0e4-218418b47836]: Jes 7,11
+[^bible-cb612f8c-7548-48a9-898c-21b71fe38f2b]: Jes 7,14

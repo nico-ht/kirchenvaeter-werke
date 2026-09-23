@@ -1,0 +1,10 @@
+# 9\. Taufunterweisung  – Kapitel 21
+
+Autor: Johannes Chrysostomus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/9-taufunterweisung#kapitel-856882be-96b5-4017-cd16-08ddea5063d8).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Dieses Bad reinigt nicht nur das Gefäß, sondern schmilzt es vollständig wieder herunter\. Selbst wenn ein Gefäß abgewischt und sorgfältig gereinigt wurde, trägt es immer noch die Spuren dessen, was es ist, und weist die Zeichen der Verunreinigung auf\. Doch wenn es in den Schmelzofen geworfen wird und durch die Flamme erneuert wird, legt es allen Schmutz ab und, wenn es aus dem Ofen kommt, strahlt es denselben Glanz aus wie neu geformte Gefäße\.

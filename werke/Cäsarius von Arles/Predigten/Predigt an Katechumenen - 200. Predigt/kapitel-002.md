@@ -1,0 +1,18 @@
+# Predigt an Katechumenen \- 200\. Predigt – Kapitel 2
+
+Autor: Cäsarius von Arles
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/caesarius-von-arles/predigt-an-katechumenen-200-predigt#kapitel-7d7b48ec-3c2c-4763-7de8-08de10218dbc).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Was also erbitten die, die das Sakrament der Taufe begehren? Was anderes, als dass jene, die Gefäße des Teufels waren, würdig werden, Werkzeuge Christi zu werden, und dass sie, nachdem sie Vergebung all ihrer Sünden empfangen haben, sich guten Werken widmen und den ewigen Lohn begehren? Was, ich wiederhole, sollen Katechumenen erbitten? Gewiss dies: dass die, die Wohnung der Dämonen und Räuberhöhle waren, verdienen, Tempel Gottes zu werden, wie der Apostel sagt: „Der Tempel Gottes ist heilig, und ihr seid dieser Tempel\.“ [^bible-760a27bb-08ae-4aa3-bfc3-7b475cb753fc]Dann mögen die, die zuvor Wohnstatt des Teufels waren, zur Wohnung des Heiligen Geistes werden, wie der Apostel sagt: „Ihr müsst wissen, dass euer Körper ein Tempel des Heiligen Geistes ist, der in euch ist\.“[^bible-dd45c7e6-411f-4884-a7ed-deaffa81ee64] Darum, Brüder und Schwestern, wie ihr selbst seht, erbitten die Katechumenen dies: dass der Teufel vertrieben wird und sie würdig werden, Haus Gottes zu werden\. Es ist etwas Gutes, was ihr sucht, etwas Großes, höchste Seligkeit, ewiges Glück\. Deshalb ermahne ich euch mit Gottes Hilfe, eure Körper und eure Herzen fromm vorzubereiten, denn was ihr erbittet, ist sehr groß\. Wenn Gott euch wirklich Seidengewänder anbieten wollte, könntet ihr sie mit schmutzigen, verdreckten Händen nicht annehmen\. Wie viel mehr also, wenn er würdigt, sich selbst euch zu schenken, solltet ihr ihn nicht anders empfangen als in einem durch den Glauben gereinigten Herzen?
+
+Wenn nach dem Gebot des Herrn, „niemand neuen Wein in alte Schläuche füllt,“[^bible-d2879b96-c776-442e-bcee-8ca74298a69e] wie wird dann irgendein Mensch Gott selbst empfangen können, wenn er nicht bereit war, sich ganz von seiner alten Lebensweise zu reinigen? Meldet euch einige Tage vor Ostern so an, dass das, was wegen der Sünde des ersten Menschen im Buch des Todes geschrieben stand, durch die Gnade Gottes ins Buch des Lebens eingeschrieben werde\. Auch wenn ihr zuerst unter der grausamsten Tyrannei des Teufels gestritten habt, kehrt, indem ihr ihn verachtet, in den Dienst Christi, eures rechtmäßigen Königs, zurück\. Kommt einige Tage zuvor zur Handauflegung und zur Salbung mit Öl, damit euch der Teufel stets bereit gegen ihn findet wie die tapfersten Athleten\. Wie nämlich Ringer gesalbt werden, dass der Gegner sie nicht fassen kann, so würdigt der Heilige Geist euch durch seine Diener so zu salben, dass der Teufel euch nicht verstricken kann\. Denn alles, was Menschen äußerlich an euch tun, wird innerlich in eurer Seele durch den Segen des Heiligen Geistes vollendet\. Ein Mensch legt zwar seine Hand auf euer Haupt, doch der Segen kommt vom Himmel herab\. Haltet also für völlig gewiss, dass alles, was durch die Zungen oder Hände von Menschen an euch körperlich geschieht, geistlich in euch durch den Dienst der Engel vollendet wird\.
+
+## Bibelverweise
+
+[^bible-760a27bb-08ae-4aa3-bfc3-7b475cb753fc]: 1Kor 3,17
+[^bible-d2879b96-c776-442e-bcee-8ca74298a69e]: Lk 5,37
+[^bible-dd45c7e6-411f-4884-a7ed-deaffa81ee64]: 1Kor 6,19

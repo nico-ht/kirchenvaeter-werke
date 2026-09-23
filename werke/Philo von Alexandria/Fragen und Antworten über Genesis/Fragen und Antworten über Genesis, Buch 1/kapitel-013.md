@@ -1,0 +1,10 @@
+# Fragen und Antworten über Genesis, Buch 1 – Kapitel 13
+
+Autor: Philo von Alexandria
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-1#kapitel-3763289e-9db7-4b8d-cd27-08dd5e2b9946).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Warum beschreibt er nicht nur die Lage des Euphrat, sondern sagt auch, dass der Phison das ganze Land Evilat umfließt, dass der Gihon das ganze Land Äthiopien umfließt und dass der Tigris nach Assyrien hin fließt? Der Tigris ist ein sehr grausamer und schädlicher Fluss, wie die Bürger Babylons bezeugen, ebenso die Magier, die festgestellt haben, dass seine Beschaffenheit ganz anders ist als die anderer Flüsse; freilich könnten sie auch noch einen anderen Grund haben, ihn mit Abneigung zu betrachten\. Der Euphrat dagegen ist ein sanfterer, heilsamerer und nährenderer Strom\. Darum sprechen die Weisen der Hebräer und Assyrer von ihm als einem, der zunimmt und sich ausbreitet; und aus diesem Grund wird er hier nicht durch seine Verbindung mit anderen Dingen gekennzeichnet, wie die drei anderen Flüsse, sondern durch sich selbst\. Meiner eigenen Ansicht nach sind alle diese Ausdrücke sinnbildlich\. Denn die Klugheit ist die Tugend des vernünftigen Teils des Menschen, und gerade in diesem findet sich bisweilen die Bosheit\. Die Tapferkeit ist jener Anteil des menschlichen Charakters, der dazu neigen kann, in Zorn auszuarten\. Die Nüchternheit wiederum kann durch die Begierden beeinträchtigt werden; Zorn aber und Begierde sind Merkmale der Tiere\. Deshalb hat der heilige Geschichtsschreiber jene drei Flüsse durch die Orte beschrieben, die sie umfließen\. Den Euphrat aber hat er nicht in dieser Weise beschrieben, da er das Sinnbild der Gerechtigkeit ist; denn ihr ist kein bestimmter und begrenzter Teil in der Seele zugewiesen, sondern sie besitzt die vollkommene Harmonie der drei Teile der Seele und der drei Tugenden\.

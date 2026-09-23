@@ -1,0 +1,10 @@
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 28
+
+Autor: Unbekannt
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/vom-untergang-jerusalems-buch-4#kapitel-6be85453-1cee-4b76-277a-08ded49076ad).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nachdem in Alexandria seine eigenen Angelegenheiten und die Wünsche aller, die mit militärischen Fragen befasst waren, hinsichtlich seiner höchsten Befehlsgewalt geregelt waren, beschleunigte er, von der Sorge um Verschwörer befreit, seine Rückkehr nach Syrien\. Tiberius Alexander, der damals Ägypten leitete, hatte seinen Befehlen zugestimmt: Er sollte ihm die Treue seines Heeres zuführen, das sich damals in den oberen Gebieten befand; auch er selbst werde, soweit er könne, mit den ihm zugewiesenen Streitkräften die Interessen des Römischen Reiches fördern\. Tiberius schickte ein Schreiben an die Provinzverwalter und die Soldaten; es wurde von allen mit Freude aufgenommen, Treue wurde zugesagt, Zustimmung strömte hervor\. Caesarea nahm Vespasian auf, danach Beritus, wobei Gesandtschaften dieser Städte mit größter Freude zusammenkamen\. Dort wurde ich, Josephus, der auf Befehl in Ketten gelegt worden war, freigelassen\. Titus trat an den Befehlshaber heran: Die Ketten sollten eher zerbrochen als gelöst werden, weil es, wenn sie zerbrochen würden, so wäre, als wäre er nicht gefesselt gewesen\. Sein Vater stimmte zu\. Er ließ eine Axt bringen und die Ketten zerbrechen, damit die Juden bemerkten, dass auch ihnen Vergebung nicht verweigert würde, wenn sie umkehrten und um Frieden bäten\. Zugleich schonte er ihn aufgrund einer nicht unfreundlichen Einschätzung, da ihm die Entscheidungen über alle Angelegenheiten übertragen worden waren\.

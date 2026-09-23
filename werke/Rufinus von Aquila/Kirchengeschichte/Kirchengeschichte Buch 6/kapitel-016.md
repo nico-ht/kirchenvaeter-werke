@@ -1,0 +1,10 @@
+# Kirchengeschichte Buch 6 – Kapitel 16
+
+Autor: Rufinus von Aquila
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-6#kapitel-3fa8aa0a-f72f-427c-2b07-08de1f7dfc7a).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Unter seinen weiteren gelehrten Bemühungen versäumte es Origenes nicht, das Hebräische gründlich zu studieren und lernte es, um sowohl festzustellen, welche Schriften die Juden auf Hebräisch lesen, als auch welchen Umfang die verschiedenen Fassungen der anderen Übersetzer hatten, die neben der der Siebzig entstanden waren\. Sein Ziel war, außer den gemeinhin benutzten Fassungen von Aquila, Symmachus und Theodotion, auch andere aufzuspüren, die in entlegenen Orten verborgen lagen und deren Übersetzer er nicht einmal namentlich verzeichnet fand\. Er bemerkt nur, er habe eine in Nikopolis an der Küste von Actium gefunden, eine weitere in Jericho und andere an anderen Orten\. Daher war er der Erste, der eines jener berühmt gewordenen Bücher zusammenstellte, in denen er jede Fassung in getrennte Spalten eintrug, zuerst die hebräischen Wörter selbst in hebräischen Buchstaben, daneben an zweiter Stelle dieselben hebräischen Wörter in griechischen Buchstaben, als dritte Fassung die des Aquila, als vierte die des Symmachus, als fünfte die der Siebzig, die die unsrige ist, und als sechste die des Theodotion\. Wegen dieser sechsfachen Anordnung nannte er diese Ausgaben Hexapla, das heißt in sechsfacher Gliederung geschrieben\. Im Buch der Psalme hingegen und in einer Reihe weiterer Bücher fügte er noch Stellen aus jenen anderen Fassungen ein, die er, da er sie ohne Angabe der Übersetzer fand, die sechste und die siebte Fassung nannte\.

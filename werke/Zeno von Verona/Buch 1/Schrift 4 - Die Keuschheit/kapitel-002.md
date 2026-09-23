@@ -1,0 +1,22 @@
+# Schrift 4 \- Die Keuschheit – Kapitel 2
+
+Autor: Zeno von Verona
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/zeno-von-verona/schrift-4-die-keuschheit#kapitel-7348fd56-9bdd-456b-e496-08dd484c05b3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nun lasst uns kurz und offen über die wütende Aktivität des Gegners der Keuschheit sprechen, die durch die Begriffe, mit denen sie beschrieben wird, ihre Natur offenbart und es leicht macht zu erkennen, was angestrebt und was vermieden werden muss\. Denn, Brüder, selbst unter dem Deckmantel des Namens Christi versucht der Antichrist, sich als keusch darzustellen, um zu täuschen; auch er trägt das schallende Wort „Keuschheit“ mit sich, doch der Urheber dieser sogenannten Keuschheit offenbart ihre wahre Natur durch die Früchte, die sie trägt\.
+
+Wie rasend wütet die Unkeuschheit durch die Menschheit\! Mit den brennenden Stichen ihrer Begierden verführt sie die Herzen der Menschen zu rücksichtslosen Streben, die von Sinnlichkeit getrieben sind\. Sie schont kein Geschlecht, kein Alter, keine heilige Pflicht – nicht einmal sich selbst\. Denn eine Person, die das Schamgefühl eines anderen verletzt, hat bereits ihr eigenes aufgegeben\. Für die Unkeuschheit vergeht kein einziger Tag oder Nacht in Reinheit; sie versinkt immer wieder im tosenden Strom ihres eigenen Unrats, denn ihr verderbliches Verlangen steigt ständig auf und sucht nach Erfüllung – sei es in Handlung oder Fantasie\.
+
+Sie zahlt entweder einen Preis für das Vergnügen oder akzeptiert selbst die Zahlung; sie verführt oder lässt sich verführen; sie weckt Liebe, nur um sie bald in Hass zu verwandeln\. Sie bringt illegitime Nachkommen hervor und entschuldigt sich, wenn sie schließlich ihr Unrecht anerkennt, unter dem Vorwand der Liebe zu den Kindern\. Doch gleichzeitig verleugnet sie ihre eigenen Nachkommen oder entzieht ihnen die elterliche Liebe\. Sie weigert sich zu glauben, dass ihre Taten beschämend sind, solange ihre Pläne erfolgreich sind\.
+
+Und doch bleibt sie selbst inmitten des Vergnügens, an dem sie sich erfreut – wenn sie es geschafft hat, die Keuschheit eines anderen zu verderben – tief unglücklich\. Tatsächlich verabscheut sie sich selbst und denjenigen, den sie in Schande geführt hat, nachdem die Tat vollbracht ist\. Viele Male hat sie friedliche Nationen in den Krieg gestürzt; sie hat sogar den Untergang einst stabiler Reiche herbeigeführt\. Sie hat Frauen dazu gebracht, ihre Ehemänner durch schändliche und grausame Taten zu verraten und feiert diese als Siege\. In ihrem wahnsinnigen Gier hat sie Wege gefunden, Männer mit dem Lohn einer Prostituierten zu belohnen – eine Anordnung so abscheulich, dass selbst Frauen sie nicht akzeptieren würden – und damit die menschliche Natur selbst erniedrigt\.
+
+Sie hat für ihre Lust mit dem Tod von Eltern, Kindern, Ehemännern und Ehefrauen bezahlt\. Manchmal hat sie das Konzept der kindlichen Liebe durch unnatürliche Verbindungen pervertiert, die Keuschen verfolgt und in einigen Fällen die Unkeuschen in ein wohlverdientes Schicksal zerstört\. Ja, sie gebiert alles Böse – und noch schlimmer als alles Böse: Sie ist unter den Götzen zu einer Göttin geworden, bleibt jedoch ein bloßer Diener ihrer Anbeter\.
+
+In Tempeln präsentiert sie sich als Objekt der Verehrung; in Theatern als Quelle der Unterhaltung; auf den Straßen als öffentliches Skandal; und in geheimen Verstecken, stets bereit zur Ausschweifung\. In ihrem Eifer zu provozieren, gewährt sie weder Zunge, Auge noch Ohr Ruhe\. Sie scherzt, hofft, verführt, akzeptiert, wird eifersüchtig, tobt, fleht, entfacht Zorn und erreicht manchmal mit Gewalt, was sie nicht durch Schmeichelei erlangen konnte\. Sie sucht ständig nach Abwechslung in ihren sinnlichen Vergnügungen, bleibt jedoch unzufrieden, denn im Streben nach Genuss erreicht sie niemals wahre Erfüllung\.
+
+Sie wünscht sich, Taten zu begehen, von denen sie fürchtet, dass sie öffentlich bekannt werden könnten\. Sie wagt alles, um alles in ihren Dienst zu versklaven\. Sie ist eine neue Art von Ungeheuerlichkeit: Sie hasst die Keuschheit, verlangt jedoch gleichzeitig, als das betrachtet zu werden, was die Keuschheit wirklich ist\.

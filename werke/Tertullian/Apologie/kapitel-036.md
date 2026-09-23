@@ -1,0 +1,10 @@
+# Apologie – Kapitel 36
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/apologie#kapitel-808d67ea-e2c4-43a5-09db-08df02ec59a9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn dem so ist und diejenigen als Feinde entlarvt werden, die man Römer nannte, warum spricht man dann uns, die wir als Feinde gelten, das Römertum ab? Wir können nicht zugleich keine Römer und doch Feinde sein, wenn sich gerade diejenigen als Feinde erweisen, die man für Römer hielt\. Die den Kaisern geschuldete Ergebenheit, Frömmigkeit und Treue erweisen sich also nicht in derartigen Diensten, deren sich gerade die Feindschaft zu ihrer Tarnung bedienen kann, sondern in einer Lebensführung, die nach Gottes Gebot den Kaisern ebenso wahrhaft entgegengebracht werden muss, wie sie gegenüber allen Menschen geboten ist\. Denn diese Werke guter Gesinnung schulden wir nicht allein den Kaisern\. Nichts Gutes tun wir unter Ansehen der Person; denn wir tun es für uns selbst, da wir weder Lob noch Lohn von Menschen suchen, sondern von Gott, der unterschiedslos erwiesene Güte fordert und vergilt\. Gegenüber den Kaisern nehmen wir dieselbe Haltung ein wie gegenüber unseren Nächsten\. Denn uns ist gleichermaßen verboten, irgendjemandem Böses zu wünschen, Böses anzutun, Böses über ihn zu sagen oder Böses gegen ihn zu denken\. Was gegenüber dem Kaiser nicht erlaubt ist, ist auch gegenüber keinem anderen erlaubt; was gegenüber niemandem erlaubt ist, das gilt vielleicht erst recht gegenüber ihm, der durch Gott so groß ist\.

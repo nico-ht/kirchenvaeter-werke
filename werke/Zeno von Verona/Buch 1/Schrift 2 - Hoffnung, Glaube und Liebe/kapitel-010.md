@@ -1,0 +1,18 @@
+# Schrift 2 \- Hoffnung, Glaube und Liebe – Kapitel 10
+
+Autor: Zeno von Verona
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/zeno-von-verona/schrift-2-hoffnung-glaube-und-liebe#kapitel-388fdb2f-9ad0-4faf-9de6-08dd47630f9f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+O Liebe, wie gütig bist du\! Wie reich\! Wie mächtig\! Wer dich nicht hat, der hat nichts\! Du, o Liebe, hast Gott dazu gebracht, Mensch zu werden\. Du hast Ihn gezwungen, sich zu erniedrigen und für eine Zeit fern von Seiner unendlichen Majestät zu wandeln\. Du hast Ihn neun Monate lang im Gefängnis des Jungfrauenleibes eingeschlossen\. Du hast Eva in Maria wiederhergestellt\. Du hast Adam in Christus erneuert\. Du hast das heilige Kreuz vorbereitet, um eine bereits verlorene Welt zu retten\. Du hast den Tod seiner Macht beraubt, indem du Gott selbst gelehrt hast, zu sterben\.
+
+Es ist dein Werk, dass, obwohl Gott \- der Sohn des Allmächtigen \- von Menschen getötet wurde, weder der Vater noch der Sohn zornig auf sie waren\. Du bewahrst das Leben derjenigen, die für den Himmel bestimmt sind, wenn du Frieden schenkst, den Glauben bewahrst, die Unschuld schützt, die Wahrheit förderst, die Geduld wertschätzt und die Hoffnung stets vor uns hältst\. Du vereinst Menschen, die sich in Charakter, Alter und Stand unterscheiden, und formst sie zu einer Natur, einem Geist, einem Körper\.
+
+Du lässt die glorreichen Märtyrer nicht von ihrem Bekenntnis zum christlichen Namen erschüttern \- weder durch Folter, noch durch neue Formen der Hinrichtung, noch durch Belohnungen, noch durch Freundschaften, nicht einmal durch die Qualen der familiären Liebe, die in ihrem brennenden Schmerz quälender sein kann als jeder Folterer\. Du bist zufrieden, nackt zu sein, damit du die Nackten kleiden kannst\. Für dich wird Hunger zur Sättigung, wenn dein Brot von einem hungernden Menschen genommen wird\. Dein einziger Reichtum ist das, was du in Barmherzigkeit frei gibst\. Du zögerst nie, wenn um Hilfe gebeten wird\.
+
+Du streckst deine Hand zu den Unterdrückten und Leidenden aus, selbst auf deine eigenen Kosten\. Du bist die Augen der Blinden\. Du bist die Füße der Lahmen\. Du bist der standhafte Schild der Witwen\. Du nimmst den Platz der Eltern für Waisen ein \- besser als es irgendein Elternteil könnte\. Du lässt deine Augen niemals trocken, denn entweder Barmherzigkeit oder Freude hindert dich daran\. Du liebst sogar deine Feinde so, dass niemand den Unterschied zwischen ihnen und deinen Freunden erkennen kann\.
+
+Du bindest himmlische Geheimnisse mit menschlichen Angelegenheiten und menschliche Angelegenheiten mit himmlischen Geheimnissen\. Du hältst das Göttliche aufrecht\. Du herrschst im Vater\. Du gehorchst im Sohn\. Du erfreust dich im Heiligen Geist\. Du bist eins in den drei Personen und kannst niemals getrennt werden\. Keine Verleumdung menschlicher List kann dich berühren\. Aus dem Vater hervorgehend, wirst du im Sohn voll ausgegossen\. Und obwohl du ausgegossen wirst, verlässt du niemals den Vater\. Zu Recht wirst du Gott genannt, denn du allein lenkst die Kraft der Dreifaltigkeit\.

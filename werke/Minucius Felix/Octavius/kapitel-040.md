@@ -1,0 +1,10 @@
+# Octavius – Kapitel 40
+
+Autor: Minucius Felix
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/minucius-felix/octavius#kapitel-9adbed2e-57d5-42a3-374d-08df04f3eaa6).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Während ich dies schweigend bei mir erwog, ergriff Caecilius unvermittelt das Wort: „Ich beglückwünsche meinen Octavius ebenso wie mich selbst aufs Herzlichste zu dem Frieden, in dem wir leben, und warte das Urteil gar nicht erst ab\. Schon jetzt haben wir gesiegt\. Nicht zu Unrecht beanspruche ich den Sieg für mich: Denn wie er mich besiegt hat, so habe ich über den Irrtum triumphiert\. Was also den Kern der Frage betrifft, bekenne ich die Vorsehung an, unterwerfe mich Gott und stimme auch der Aufrichtigkeit meiner jetzigen Lebensführung zu\. Dennoch sind einige Punkte in meinem Denken offen geblieben, nicht weil ich mich der Wahrheit widersetze, sondern weil sie für eine vollständige Unterweisung notwendig sind\. Da die Sonne sich bereits ihrem Untergang zuneigt, wollen wir sie morgen ausführlich und auf passendere und ungehindertere Weise untersuchen\.“

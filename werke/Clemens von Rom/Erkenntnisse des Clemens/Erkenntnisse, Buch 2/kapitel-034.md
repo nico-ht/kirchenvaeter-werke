@@ -1,0 +1,10 @@
+# Erkenntnisse, Buch 2 – Kapitel 34
+
+Autor: Clemens von Rom
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-rom/erkenntnisse-buch-2#kapitel-492079d7-33b5-45bd-54ba-08dd130c175e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Da sagte Simon: „Ich brauch diese Dinge von dir nicht zu lernen, sondern ich will wissen wie diese Dinge miteinander übereinstimmen\. Denn wenn sich zeigt, dass Er sich widerspricht, wird zugleich bewiesen, dass Er kein Prophet ist\.“ Daraufhin erwiderte Petrus: „Wenn ich jedoch zuerst zeige, dass Er ein Prophet ist, wird daraus folgen, dass das, was wie ein Widerspruch erscheint, keiner ist\. Niemand kann allein durch immer beständige und gleiche Rede als Prophet bewiesen werden, da viele Menschen beständig reden können\. Aber wenn Beständigkeit allein keinen Propheten macht, dann macht Widersprüchlichkeit ihn erst recht nicht zu einem falschen Propheten\. Denn es gibt viele Dinge, die manchen widersprüchlich erscheinen, die jedoch bei tieferer Untersuchung eine tiefe Beständigkeit haben; ebenso gibt es andere Dinge, die beständig erscheinen, aber bei genauerer Betrachtung als widersprüchlich entlarvt werden\. Deshalb denke ich, dass es keinen besseren Weg gibt, diese Dinge zu beurteilen, als zuerst zu klären, ob derjenige, der diese scheinbar widersprüchlichen Dinge gesprochen hat, wirklich ein Prophet ist\. Denn wenn Er als Prophet erkannt wird, müssen die Dinge, die widersprüchlich erscheinen, eine verborgene Beständigkeit haben, die jedoch missverstanden wird\. In Bezug auf diese Dinge sollten daher Beweise gefordert werden\. Wir Apostel sind gesandt worden, um die Aussagen zu erklären und die Urteile dessen zu bekräftigen, der uns gesandt hat\. Es ist uns jedoch nicht erlaubt, etwas Eigenes zu sagen, sondern, wie ich bereits gesagt habe, die Wahrheit Seiner Worte darzulegen\."

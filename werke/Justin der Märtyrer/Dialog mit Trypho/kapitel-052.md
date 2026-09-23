@@ -1,0 +1,18 @@
+# Dialog mit Trypho – Kapitel 52
+
+Autor: Justin der Märtyrer
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/justin-der-maertyrer/dialog-mit-trypho#kapitel-9aea0e89-6368-4b2c-2b2f-08de1f7dfc7a).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Es ist auch von dem Patriarchen Jakob vorhergesagt worden, dass es zwei Kommen des Christus geben werde, und dass er beim ersten leiden müsse, und dass nach diesem Kommen euer Volk weder Propheten noch König mehr haben würde und dass die Heiden, die an den leidenden Christus glauben, auf sein zweites Kommen warten würden\. Deshalb hat der Heilige Geist diese Dinge absichtlich verhüllt in Gleichnissen gesagt, als er sprach: „Judas, dich haben deine Brüder gepriesen; deine Hand wird auf dem Nacken deiner Feinde sein; vor dir werden sich die Söhne deines Vaters niederwerfen\. Judas ist ein junger Löwe; aus dem Keim bist du, mein Sohn, hervorgegangen\. Beim Lagern hat er sich niedergelegt wie ein Löwe und wie ein junger Löwe\. Wer wird ihn aufwecken? Ein Führer wird aus Judas nicht fehlen, noch ein Herrscher aus seinen Lenden, bis das kommt, was ihm vorbehalten ist; und er wird die Erwartung der Nationen sein\. Er bindet sein Fohlen an den Weinstock und das Junge seiner Eselin an die Rebe; er wäscht im Wein sein Gewand und im Blut der Traube seinen Mantel\. Seine Augen sind funkelnder als Wein, und das Weiße seiner Zähne ist wie Milch\.“[^bible-e715df1b-49d2-4b18-86a4-c8bf30b99085] Du wirst nicht den Mut haben zu behaupten – und selbst wenn du es tätest, könntest du es nicht beweisen –, dass euer Geschlecht nicht von Anfang an bis zu der Zeit, als Jesus Christus geboren wurde und litt, immer einen Propheten oder einen König gehabt hätte\. Auch wenn ihr behauptet, Herodes, unter dessen Regierung Christus litt, sei aus Askalon gewesen, müsst ihr doch zugeben, dass ihr damals einen Hohepriester aus eurem eigenen Volk hattet, so dass ihr selbst in dieser Zeit noch einen hattet, der Opfer darbrachte und die übrigen gesetzlichen Vorschriften des mosaischen Gesetzes einhielt\.
+
+Und weil ihr auch eine ununterbrochene Folge von Propheten hattet bis hin zu Johannes – selbst als euer Volk nach Babylon in die Gefangenschaft geführt wurde, euer Land vom Krieg verwüstet und eure heiligen Gefäße weggetragen wurden –, darum hat es mitten unter euch niemals an einem Propheten gefehlt, der Herr und Führer und Herrscher eures Volkes war\. Ja, sogar eure Könige sind durch den Geist in diesen Propheten eingesetzt und gesalbt worden\. Aber seit dem Kommen und dem Tod unseres Jesus Christus mitten unter euch habt ihr keinen Propheten mehr gehabt, und auch jetzt besitzt ihr keinen\. Außerdem lebt ihr nicht mehr unter einem eigenen König, und dazu kommt, dass euer Land verwüstet ist und leer steht „wie eine Hütte im Garten\.“[^bible-11b08a1b-0756-46ea-9a90-60527bcc7355] Und das Wort, das durch Jakob gesprochen wurde: „und er wird die Erwartung der Nationen sein,“[^bible-ae629c08-08e4-40b2-b604-09a103ae12de] hat bildhaft seine zwei Kommen angedeutet und zugleich, dass die Heiden an ihn glauben würden – was ihr jetzt ganz sicher als Tatsache feststellen könnt\. Denn wir Christen aus allen Nationen sind durch unseren Glauben an Christus gottesfürchtig und gerecht geworden, und wir warten auf sein zweites Kommen\.
+
+## Bibelverweise
+
+[^bible-11b08a1b-0756-46ea-9a90-60527bcc7355]: Jes 1,8
+[^bible-ae629c08-08e4-40b2-b604-09a103ae12de]: Gen 49,10
+[^bible-e715df1b-49d2-4b18-86a4-c8bf30b99085]: Gen 49,8–Gen 49,12

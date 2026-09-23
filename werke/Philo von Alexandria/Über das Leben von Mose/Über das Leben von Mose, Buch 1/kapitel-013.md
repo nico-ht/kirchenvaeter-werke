@@ -1,0 +1,10 @@
+# Über das Leben von Mose, Buch 1 – Kapitel 13
+
+Autor: Philo von Alexandria
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/ueber-das-leben-von-mose-buch-1#kapitel-2936b0e6-e510-4f1a-4871-08ded87107d6).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nun aber müssen wir den hier gezogenen Vergleich genau untersuchen\. Der Dornstrauch ist, wie schon gesagt, eine sehr schwache und biegsame Pflanze; dennoch ist er nicht ohne Dornen, sodass er jemanden verletzt, wenn man ihn nur berührt\. Auch wurde er vom Feuer, das seiner Natur nach zerstörerisch ist, nicht verzehrt, sondern im Gegenteil durch dieses bewahrt; und nicht nur wurde er nicht verzehrt, sondern er blieb genau, wie er zuvor gewesen war, und ohne selbst irgendeine Veränderung zu erleiden, gewann er noch zusätzlichen Glanz\. All diese Umstände sind eine Allegorie, die auf die Hinweise anspielt, welche die anderen damals vorherrschenden Vorstellungen gaben, indem sie den Bedrängten beinahe mit klaren Worten zuriefen: „Werdet nicht mutlos; eure Schwäche ist eure Stärke, die zahllose Heerscharen durchbohren und verwunden wird\. Ihr werdet eher gerettet als vernichtet werden, und zwar durch eben jene, die euer ganzes Geschlecht vernichten wollen, gegen ihren Willen; so werdet ihr von den Übeln, mit denen sie euch bedrängen werden, nicht überwältigt werden, sondern gerade dann, wenn eure Feinde ganz sicher meinen, euch zu vernichten, werdet ihr in Herrlichkeit umso leuchtender hervortreten\.“ Wiederum sagt das Feuer, das ein zerstörerisches Wesen ist und Menschen grausamer Gesinnung überführt: „Überhebt euch nicht so, dass ihr auf eure eigene Stärke vertraut; lasst euch vielmehr mahnen, wenn ihr seht, wie unwiderstehliche Mächte vernichtet werden\. Die verzehrende Kraft der Flamme wird selbst wie Brennholz verzehrt, und das Holz, das seiner eigenen Natur nach brennbar ist, verbrennt sichtbar andere Dinge wie Feuer\.“

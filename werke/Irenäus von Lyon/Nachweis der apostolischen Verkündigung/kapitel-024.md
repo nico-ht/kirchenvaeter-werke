@@ -1,0 +1,20 @@
+# Nachweis der apostolischen Verkündigung – Kapitel 24
+
+Autor: Irenäus von Lyon
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-65ba6c8f-ac91-41a0-3226-08debf1e7015).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Im Lauf der Zeit, das heißt in der zehnten Generation nach der Flut, trat Abraham auf, auf der Suche nach dem Gott, der ihm durch den Segen seines Vorfahren zustand und eigen war\. Und als er, vom Eifer seines Geistes gedrängt, durch die ganze Welt zog und suchte, wo Gott sei, es aber nicht herausfinden konnte, erbarmte Gott sich dessen, der ihn allein im Stillen suchte; und Gott erschien Abraham und gab sich ihm durch das Wort zu erkennen, wie durch einen Lichtstrahl\. Denn er sprach mit ihm vom Himmel her und sagte zu ihm: „Zieh fort aus deinem Land und aus deiner Verwandtschaft und aus dem Haus deines Vaters; und komm in das Land, das ich dir zeigen werde[^bible-e143c781-bd89-417f-b73d-2908956171bf], und wohne dort\.“ Und er glaubte der himmlischen Stimme, da er schon in reifem Alter war, nämlich siebzig Jahre alt, und eine Frau hatte; und zusammen mit ihr zog er aus Mesopotamien fort und nahm Lot mit sich, den Sohn seines verstorbenen Bruders\. Und als er in das Land kam, das jetzt Judäa genannt wird und in dem damals sieben von Ham abstammende Stämme wohnten, erschien Gott ihm in einer Vision und sprach: „Dir will ich dieses Land geben und deinem Samen nach dir zum ewigen Besitz[^bible-e42b533d-1884-4ead-b169-13abe2bc8268]“; und er sagte, „sein Same werde ein Fremder sein in einem Land, das nicht ihnen gehört, und dort übel behandelt werden, vierhundert Jahre lang bedrängt und in Knechtschaft; und in der vierten Generation werde er an den Ort zurückkehren, der Abraham verheißen war; und Gott werde jenes Geschlecht richten, das seinen Samen in Knechtschaft gebracht hatte[^bible-1a75a47c-a4ff-4352-b7ba-1531ecafd866]“\. Und damit Abraham sowohl die Menge als auch die Herrlichkeit seines Samens erkenne, führte Gott ihn bei Nacht hinaus und sprach: „Blicke zum Himmel und sieh die Sterne des Himmels, wenn du sie zählen kannst: So wird dein Same sein[^bible-f5a45fac-02d0-416a-9b33-9d6b60a3c405]\.“ Und als Gott die zweifellose und unbeirrbare Gewissheit seines Geistes sah, legte er für ihn durch den Heiligen Geist Zeugnis ab, indem er in der Schrift sprach: „Und Abraham glaubte, und es wurde ihm zur Gerechtigkeit angerechnet[^bible-6dc5c3a4-06a3-4fca-8672-c11fbaac5402]\.“ Und er war unbeschnitten, als dieses Zeugnis abgelegt wurde; und damit die Vortrefflichkeit seines Glaubens durch ein Zeichen kundgemacht werde, gab er ihm die Beschneidung, ein Siegel der Gerechtigkeit jenes Glaubens, den er in der Unbeschnittenheit hatte[^bible-54349870-1c46-4c09-86fd-c8226e02b472]\. Und danach wurde ihm von Sara, die unfruchtbar war, gemäß der Verheißung Gottes ein Sohn geboren, Isaak; und ihn beschnitt er gemäß dem, was Gott mit ihm als Bund festgesetzt hatte\. Und von Isaak wurde Jakob geboren; und auf diese Weise gelangte der ursprüngliche Segen Sems zu Abraham, und von Abraham zu Isaak, und von Isaak zu Jakob, wobei ihnen das Erbe des Geistes mitgeteilt wurde: denn Gott wurde der Gott Abrahams und der Gott Isaaks und der Gott Jakobs[^bible-96aae1c2-a42e-4b83-9058-6b5f93076301] genannt\. Und Jakob zeugte zwölf Söhne, nach denen die zwölf Stämme Israels benannt wurden\.
+
+## Bibelverweise
+
+[^bible-1a75a47c-a4ff-4352-b7ba-1531ecafd866]: Gen 15,13–Gen 15,16
+[^bible-54349870-1c46-4c09-86fd-c8226e02b472]: Röm 4,11
+[^bible-6dc5c3a4-06a3-4fca-8672-c11fbaac5402]: Gen 15,6
+[^bible-96aae1c2-a42e-4b83-9058-6b5f93076301]: Ex 3,6
+[^bible-e143c781-bd89-417f-b73d-2908956171bf]: Gen 12,1
+[^bible-e42b533d-1884-4ead-b169-13abe2bc8268]: Gen 17,8
+[^bible-f5a45fac-02d0-416a-9b33-9d6b60a3c405]: Gen 15,5

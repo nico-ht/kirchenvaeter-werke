@@ -1,0 +1,10 @@
+# Kirchengeschichte Buch 7 – Kapitel 16
+
+Autor: Rufinus von Aquila
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-7#kapitel-c5b541ce-5fa4-436d-825f-08de214e7d1f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Sie kniet auf dem Bild nieder und streckt die Hände flehend aus\. In ihrer Nähe steht eine weitere, ebenfalls aus Bronze gegossene Statue in Gestalt eines Mannes, der in ein Gewand gekleidet ist und seine rechte Hand der Frau entgegenstreckt\. Am Fuß dieser Statue wächst aus dem Sockel eine neue Art Pflanze hervor, die, sobald sie erscheint, gewöhnlich bis zum bronzenen Saum des Gewandes emporwächst; und wenn beim Wachstum die Spitze der Pflanze diesen Saum berührt, empfängt sie von ihm die Kraft, jede Krankheit und jedes Leiden zu vertreiben, sodass jede körperliche Krankheit schon durch einen einzigen Schluck dieses heilsamen Krauts, nachdem es aufgegossen wurde, weichen muss\. Wenn man sie jedoch pflückt, bevor sie beim Wachsen den Rand des bronzenen Saumes berührt hat, besitzt sie keinerlei solche Kraft\. Man pflegte zu sagen, diese Statue trage eine Ähnlichkeit mit den Zügen Jesu; sie besteht bis in unsere Zeit hinein, denn wir haben sie mit eigenen Augen gesehen\. Und es ist keineswegs verwunderlich, dass solche aus den Heiden, die zum Glauben kamen, für die Wohltaten, die sie vom Retter empfangen hatten, gerade diese Art Gabe darbringen wollten, da wir ja auch jetzt noch sehen, wie Bilder der Apostel Petrus und Paulus und sogar des Retters selbst gezeichnet und gemalt werden\. Wir haben auch alte Bilder von ihnen gesehen, die von einigen aufbewahrt werden\. Dies scheint mir eine heidnische Gewohnheit zu sein, die unterschiedslos beibehalten wird, da sie gewöhnlich auf diese Weise diejenigen ehren, die sie für ehrwürdig halten\. Denn die Bewahrung der Andenken an die Alten zum Gedächtnis für die Nachkommenden ist ein Ausdruck der Ehre für die früheren und der Liebe für die späteren\.
