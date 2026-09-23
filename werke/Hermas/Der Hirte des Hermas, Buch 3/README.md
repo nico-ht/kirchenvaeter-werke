@@ -6,13 +6,13 @@ Hermas
 
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/hermas/der-hirte-des-hermas-buch-3) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-- [Kapitel 1](kapitel-001.md) · [JSON](kapitel-001.json)
-- [Kapitel 2](kapitel-002.md) · [JSON](kapitel-002.json)
-- [Kapitel 3](kapitel-003.md) · [JSON](kapitel-003.json)
-- [Kapitel 4](kapitel-004.md) · [JSON](kapitel-004.json)
-- [Kapitel 5](kapitel-005.md) · [JSON](kapitel-005.json)
-- [Kapitel 6](kapitel-006.md) · [JSON](kapitel-006.json)
-- [Kapitel 7](kapitel-007.md) · [JSON](kapitel-007.json)
-- [Kapitel 8](kapitel-008.md) · [JSON](kapitel-008.json)
-- [Kapitel 9](kapitel-009.md) · [JSON](kapitel-009.json)
-- [Kapitel 10](kapitel-010.md) · [JSON](kapitel-010.json)
+- [Kapitel 1](kapitel-001.html)
+- [Kapitel 2](kapitel-002.html)
+- [Kapitel 3](kapitel-003.html)
+- [Kapitel 4](kapitel-004.html)
+- [Kapitel 5](kapitel-005.html)
+- [Kapitel 6](kapitel-006.html)
+- [Kapitel 7](kapitel-007.html)
+- [Kapitel 8](kapitel-008.html)
+- [Kapitel 9](kapitel-009.html)
+- [Kapitel 10](kapitel-010.html)

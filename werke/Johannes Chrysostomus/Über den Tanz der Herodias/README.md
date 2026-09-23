@@ -6,7 +6,7 @@ Johannes Chrysostomus
 
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/ueber-den-tanz-der-herodias) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-- [Einleitung](kapitel-000.md) · [JSON](kapitel-000.json)
-- [Kapitel 1](kapitel-001.md) · [JSON](kapitel-001.json)
-- [Kapitel 2](kapitel-002.md) · [JSON](kapitel-002.json)
-- [Kapitel 3](kapitel-003.md) · [JSON](kapitel-003.json)
+- [Einleitung](kapitel-000.html)
+- [Kapitel 1](kapitel-001.html)
+- [Kapitel 2](kapitel-002.html)
+- [Kapitel 3](kapitel-003.html)

@@ -76,7 +76,7 @@ git push -u origin korrektur/werk-kapitel
 ```
 
 Öffne anschließend den von GitHub angebotenen Pull-Request-Link und prüfe das Zielrepository und den Zielbranch.
-Zum reinen Lesen und Aktualisieren des offiziellen Archivs stehen die Befehle in der [README](README.md#lokal-lesen-und-aktuell-halten).
+Zum reinen Lesen und Aktualisieren des offiziellen Archivs stehen die Befehle in der [README](README.md#lokal-nutzen).
 
 ## Was danach passiert
 
