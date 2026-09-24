@@ -1,4 +1,4 @@
-# Predigt über die Scheidung – Kapitel 6
+# Predigt über die Scheidung – Kapitel 6: Die Frau bleibt ihrem Mann im Unglück treu, auch wenn Freunde und Diener ihn verlassen
 
 Autor: Asterius von Amaseia
 

@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 21
+# Nachweis der apostolischen Verkündigung – Kapitel 21: Sems Segen reicht bis Abraham, Jafets Segen führt die Kirche aus den Völkern in Christus zum Erbe der Väter
 
 Autor: Irenäus von Lyon
 

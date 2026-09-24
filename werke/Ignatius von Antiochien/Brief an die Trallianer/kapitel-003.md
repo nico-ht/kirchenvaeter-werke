@@ -1,4 +1,4 @@
-# Brief an die Trallianer – Kapitel 3
+# Brief an die Trallianer – Kapitel 3: Ohne Bischof, Presbyter und Diakone kann keine Gemeinschaft Kirche heißen
 
 Autor: Ignatius von Antiochien
 

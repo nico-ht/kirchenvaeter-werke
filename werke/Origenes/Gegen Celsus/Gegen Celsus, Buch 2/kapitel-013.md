@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 13
+# Gegen Celsus, Buch 2 – Kapitel 13: Später erfüllte Prophezeiungen belegen, dass Jesus auch sein eigenes Schicksal voraussah
 
 Autor: Origenes
 

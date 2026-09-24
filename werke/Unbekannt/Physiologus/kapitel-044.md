@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 44
+# Physiologus – Kapitel 44: Die einmalige Brut der Schwalbe verweist auf Christi einmalige Menschwerdung, Kreuzigung und Auferstehung
 
 Autor: Unbekannt
 

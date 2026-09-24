@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 30
+# Gegen Celsus, Buch 1 – Kapitel 30: Selbst der als schändlich geltende Kreuzestod zerstörte Jesu Ansehen als Lehrer, Wundertäter und Führer nicht
 
 Autor: Origenes
 

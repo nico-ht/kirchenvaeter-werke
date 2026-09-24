@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 13
+# 11\. Taufunterweisung – Kapitel 13: Wie Christi Leib im Jordan wird auch unser Leib von Gott selbst getauft
 
 Autor: Johannes Chrysostomus
 

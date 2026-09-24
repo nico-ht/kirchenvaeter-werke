@@ -1,4 +1,4 @@
-# 12\. Predigt zu Genesis – Kapitel 5
+# 12\. Predigt zu Genesis – Kapitel 5: Die Auslegung bricht das Schriftwort zur Nahrung vieler und erschließt eigene Quellen
 
 Autor: Origenes
 

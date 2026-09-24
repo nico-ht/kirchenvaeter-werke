@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 28
+# Kirchengeschichte Buch 6 – Kapitel 28: Maximinus lässt die Kirchenleiter verfolgen; Origenes schreibt an Ambrosius über das Martyrium
 
 Autor: Rufinus von Aquila
 

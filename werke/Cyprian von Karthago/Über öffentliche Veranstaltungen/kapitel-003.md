@@ -1,4 +1,4 @@
-# Über öffentliche Veranstaltungen – Kapitel 3
+# Über öffentliche Veranstaltungen – Kapitel 3: Wo die Schrift schweigt, lehren Scham und Gewissen den Verzicht auf Schauspiele
 
 Autor: Cyprian von Karthago
 

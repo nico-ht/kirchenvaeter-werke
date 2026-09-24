@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 36
+# Nachweis der apostolischen Verkündigung – Kapitel 36: Christus erfüllt als Sohn der Jungfrau aus Davids Geschlecht die Verheißung des ewigen Königs
 
 Autor: Irenäus von Lyon
 

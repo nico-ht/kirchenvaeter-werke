@@ -1,4 +1,4 @@
-# 54\. Homilie über Matthäus – Kapitel 5
+# 54\. Homilie über Matthäus – Kapitel 5: Gott ist auch auf Erden denen nahe, die gerecht handeln und sich der Armen annehmen
 
 Autor: Johannes Chrysostomus
 

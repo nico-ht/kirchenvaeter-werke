@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 15
+# 3\. Taufunterweisung  – Kapitel 15: Warum Christi Blut am Mund der Gläubigen den Teufel stärker abschreckt als das Vorbild den Engel
 
 Autor: Johannes Chrysostomus
 

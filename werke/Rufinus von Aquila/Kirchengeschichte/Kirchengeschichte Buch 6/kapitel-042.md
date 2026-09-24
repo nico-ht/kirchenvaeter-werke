@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 42
+# Kirchengeschichte Buch 6 – Kapitel 42: Die Kirche soll reuige Abgefallene nicht abweisen, denen die Märtyrer bereits Gemeinschaft gewährt haben
 
 Autor: Rufinus von Aquila
 

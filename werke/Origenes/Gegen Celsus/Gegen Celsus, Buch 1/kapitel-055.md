@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 55
+# Gegen Celsus, Buch 1 – Kapitel 55: Die Weissagung gilt Christus, nicht dem Volk selbst: Er stirbt für dessen Sünden
 
 Autor: Origenes
 

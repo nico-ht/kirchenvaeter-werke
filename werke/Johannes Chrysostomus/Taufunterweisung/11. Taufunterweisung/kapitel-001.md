@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 1
+# 11\. Taufunterweisung – Kapitel 1: Der Bräutigam kommt mitten in der Nacht: Wacht und empfangt ihn mit brennenden Lampen
 
 Autor: Johannes Chrysostomus
 

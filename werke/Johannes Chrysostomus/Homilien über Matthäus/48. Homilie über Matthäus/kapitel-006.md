@@ -1,4 +1,4 @@
-# 48\. Homilie über Matthäus – Kapitel 6
+# 48\. Homilie über Matthäus – Kapitel 6: Wer Schmarotzer mästet und Arme abweist, vergeudet, was Christus gehört
 
 Autor: Johannes Chrysostomus
 

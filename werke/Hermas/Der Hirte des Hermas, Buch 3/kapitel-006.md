@@ -1,4 +1,4 @@
-# Der Hirte des Hermas, Buch 3 – Kapitel 6
+# Der Hirte des Hermas, Buch 3 – Kapitel 6: Wer in schädlichen Genüssen verharrt, wählt den Tod; gute Werke dagegen schenken Leben
 
 Autor: Hermas
 

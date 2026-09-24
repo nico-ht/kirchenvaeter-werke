@@ -1,4 +1,4 @@
-# Brief an die Trallianer – Kapitel 6
+# Brief an die Trallianer – Kapitel 6: Häretiker vermischen ihre Lehre mit Jesus Christus wie tödliches Gift mit süßem Wein
 
 Autor: Ignatius von Antiochien
 

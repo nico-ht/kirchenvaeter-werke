@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 13
+# 4\. Taufunterweisung – Kapitel 13: Die neue Schöpfung zeigt sich in der Umkehr von Schwelgerei zu Selbstbeherrschung
 
 Autor: Johannes Chrysostomus
 

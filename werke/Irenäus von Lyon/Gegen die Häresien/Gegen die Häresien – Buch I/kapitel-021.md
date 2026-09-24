@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 21
+# Gegen die Häresien – Buch I – Kapitel 21: Die vielfältigen Lehren von der „Erlösung“ widersprechen einander und verleugnen die christliche Taufe
 
 Autor: Irenäus von Lyon
 

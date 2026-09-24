@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 3
+# Über die Sterblichkeit – Kapitel 3: Simeon zeigt, wie der Glaube im nahenden Tod Frieden und Heimat erkennt
 
 Autor: Cyprian von Karthago
 

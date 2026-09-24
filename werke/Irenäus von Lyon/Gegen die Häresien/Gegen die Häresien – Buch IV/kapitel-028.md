@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 28
+# Gegen die Häresien – Buch IV – Kapitel 28: Christi ewiges Gericht widerlegt die Trennung seines Vaters vom strafenden Gott des Alten Testaments
 
 Autor: Irenäus von Lyon
 

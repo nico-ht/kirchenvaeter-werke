@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 24
+# Kirchengeschichte Buch 6 – Kapitel 24: Origenes führt seine Schriftauslegung in Alexandria wie in Cäsarea ohne Unterbrechung fort
 
 Autor: Rufinus von Aquila
 

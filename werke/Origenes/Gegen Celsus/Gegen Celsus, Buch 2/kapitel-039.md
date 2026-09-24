@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 39
+# Gegen Celsus, Buch 2 – Kapitel 39: Menschenmengen folgten Jesus, und seine Jünger hielten trotz ihrer Furcht an ihm als Christus fest
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 32
+# 4\. Taufunterweisung – Kapitel 32: Wer kleine Sünden geringachtet, bereitet den Weg zu schweren Verfehlungen
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Brief 41 – Kapitel 3
+# Brief 41 – Kapitel 3: Die Montanisten weichen von Glaubensregel und apostolischer Ordnung ab und erschweren die Vergebung
 
 Autor: Hieronymus
 

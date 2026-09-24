@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 17
+# Kirchengeschichte Buch 6 – Kapitel 17: Der Übersetzer Symmachus versucht, seine ebionitische Lehre mit dem Matthäusevangelium zu begründen
 
 Autor: Rufinus von Aquila
 

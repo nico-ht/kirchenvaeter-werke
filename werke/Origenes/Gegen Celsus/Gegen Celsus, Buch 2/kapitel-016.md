@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 16
+# Gegen Celsus, Buch 2 – Kapitel 16: Jesus ist wirklich gestorben und erst als Auferstandener dem Tod nicht mehr unterworfen
 
 Autor: Origenes
 

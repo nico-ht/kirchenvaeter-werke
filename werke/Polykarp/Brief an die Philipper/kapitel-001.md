@@ -1,4 +1,4 @@
-# Brief an die Philipper – Kapitel 1
+# Brief an die Philipper – Kapitel 1: Polykarp grüßt die Gemeinde in Philippi mit Frieden und Barmherzigkeit
 
 Autor: Polykarp
 

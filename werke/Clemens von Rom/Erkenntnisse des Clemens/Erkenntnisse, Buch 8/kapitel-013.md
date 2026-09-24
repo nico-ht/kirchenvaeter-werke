@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 13
+# Erkenntnisse, Buch 8 – Kapitel 13: Ob Materie geteilt oder gesammelt wurde: Ihre Ordnung setzt einen Schöpfer voraus
 
 Autor: Clemens von Rom
 

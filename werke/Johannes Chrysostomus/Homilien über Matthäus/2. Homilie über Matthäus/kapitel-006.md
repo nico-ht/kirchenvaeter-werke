@@ -1,4 +1,4 @@
-# 2\. Homilie über Matthäus – Kapitel 6
+# 2\. Homilie über Matthäus – Kapitel 6: Warum das Hören der Schrift die Seele verändert, auch wenn das Tun noch aussteht
 
 Autor: Johannes Chrysostomus
 

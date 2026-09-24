@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 37
+# 9\. Taufunterweisung  – Kapitel 37: Erst wenn ihr auch vermeintlich gerechtfertigte Schwüre meidet, kann die Unterweisung weitergehen
 
 Autor: Johannes Chrysostomus
 

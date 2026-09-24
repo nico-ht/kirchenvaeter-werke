@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 9
+# 11\. Taufunterweisung – Kapitel 9: Paulus zeigt die Schönheit der Braut: Christus reinigt und heiligt die Kirche im Wasserbad durch das Wort
 
 Autor: Johannes Chrysostomus
 

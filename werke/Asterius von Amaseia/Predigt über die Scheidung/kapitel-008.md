@@ -1,4 +1,4 @@
-# Predigt über die Scheidung – Kapitel 8
+# Predigt über die Scheidung – Kapitel 8: Wer die Fehler seiner Frau beklagt, soll ihre Nachsicht erwidern, statt sich scheiden zu lassen
 
 Autor: Asterius von Amaseia
 

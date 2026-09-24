@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 27
+# Gegen Celsus, Buch 1 – Kapitel 27: Celsus räumt selbst ein, dass Jesu Lehre neben den vielen Ungebildeten auch Verständige gewinnt
 
 Autor: Origenes
 

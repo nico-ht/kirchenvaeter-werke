@@ -1,4 +1,4 @@
-# 58\. Homilie über Matthäus – Kapitel 4
+# 58\. Homilie über Matthäus – Kapitel 4: Wahrer Adel ist Freiheit der Seele; wer an Reichtum und Rang hängt, dient zahllosen Herren
 
 Autor: Johannes Chrysostomus
 

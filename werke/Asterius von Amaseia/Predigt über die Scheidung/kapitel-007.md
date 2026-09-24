@@ -1,4 +1,4 @@
-# Predigt über die Scheidung – Kapitel 7
+# Predigt über die Scheidung – Kapitel 7: Hiobs Frau teilt sein Leiden und rät ihm aus Liebe sogar zur Gotteslästerung
 
 Autor: Asterius von Amaseia
 

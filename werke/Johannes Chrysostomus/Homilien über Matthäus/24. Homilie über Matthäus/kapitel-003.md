@@ -1,4 +1,4 @@
-# 24\. Homilie über Matthäus – Kapitel 3
+# 24\. Homilie über Matthäus – Kapitel 3: Wer Christi Worte tut, bleibt in Bedrängnis standhaft – bloßes Hören schützt nicht vor dem Fall
 
 Autor: Johannes Chrysostomus
 

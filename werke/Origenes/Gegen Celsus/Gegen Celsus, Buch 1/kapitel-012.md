@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 12
+# Gegen Celsus, Buch 1 – Kapitel 12: Celsus’ Anspruch, alle christlichen Lehren zu kennen, verkennt die Schwierigkeiten der Schriftauslegung
 
 Autor: Origenes
 

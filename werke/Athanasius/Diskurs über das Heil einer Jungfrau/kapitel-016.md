@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 16
+# Diskurs über das Heil einer Jungfrau – Kapitel 16: Das Gebet zur zwölften Stunde erinnert an Christi Abstieg in den Hades und seinen Sieg über den Tod
 
 Autor: Athanasius
 

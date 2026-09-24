@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 25
+# 11\. Taufunterweisung – Kapitel 25: Sünde und Zauberei sind Satans Prunk; das Kreuz und der Name Christi schützen vor seinen Angriffen
 
 Autor: Johannes Chrysostomus
 

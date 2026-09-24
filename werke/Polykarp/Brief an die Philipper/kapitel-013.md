@@ -1,4 +1,4 @@
-# Brief an die Philipper – Kapitel 13
+# Brief an die Philipper – Kapitel 13: Beherrscht euren Zorn und betet auch für Verfolger, damit eure Frucht sichtbar wird
 
 Autor: Polykarp
 

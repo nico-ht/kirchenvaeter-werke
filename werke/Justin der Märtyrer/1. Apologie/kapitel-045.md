@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 45
+# 1\. Apologie – Kapitel 45: David verheißt Christi Erhöhung und seine Herrschaft durch das von Jerusalem aus verkündete Wort
 
 Autor: Justin der Märtyrer
 

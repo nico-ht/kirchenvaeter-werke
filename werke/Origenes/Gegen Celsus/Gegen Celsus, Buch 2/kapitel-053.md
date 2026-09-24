@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 53
+# Gegen Celsus, Buch 2 – Kapitel 53: Celsus’ Zaubereivorwurf gegen Jesus träfe auch Mose, der ebenfalls vor falschen Wundertätern warnt
 
 Autor: Origenes
 

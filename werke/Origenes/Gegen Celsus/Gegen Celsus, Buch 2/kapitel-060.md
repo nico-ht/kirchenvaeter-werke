@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 60
+# Gegen Celsus, Buch 2 – Kapitel 60: Celsus’ Erklärung der Erscheinung Jesu als Wachtraum setzt eine unbelegte Verwirrtheit der Zeugin voraus
 
 Autor: Origenes
 

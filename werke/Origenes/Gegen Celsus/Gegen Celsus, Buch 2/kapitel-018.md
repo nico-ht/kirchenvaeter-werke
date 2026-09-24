@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 18
+# Gegen Celsus, Buch 2 – Kapitel 18: Jesu Vorwissen um Verrat und Verleugnung beseitigte weder die Bosheit noch die Schwäche der Jünger
 
 Autor: Origenes
 

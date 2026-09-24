@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 23
+# 3\. Taufunterweisung  – Kapitel 23: Weil es keine zweite Vergebung durch die Taufe gibt, müssen Getaufte vor neuer Schuld wachsam bleiben
 
 Autor: Johannes Chrysostomus
 

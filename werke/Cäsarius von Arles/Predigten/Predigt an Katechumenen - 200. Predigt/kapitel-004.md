@@ -1,4 +1,4 @@
-# Predigt an Katechumenen \- 200\. Predigt – Kapitel 4
+# Predigt an Katechumenen \- 200\. Predigt – Kapitel 4: Katechumenen sollen vor der Taufe Buße tun und als Verheiratete davor und länger danach enthaltsam leben
 
 Autor: Cäsarius von Arles
 

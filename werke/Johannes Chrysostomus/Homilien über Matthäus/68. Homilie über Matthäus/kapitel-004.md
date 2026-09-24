@@ -1,4 +1,4 @@
-# 68\. Homilie über Matthäus – Kapitel 4
+# 68\. Homilie über Matthäus – Kapitel 4: Der Gesang der Mönche schenkt bleibende Freude, Theaterchöre entfachen Begierde und häuslichen Unfrieden
 
 Autor: Johannes Chrysostomus
 

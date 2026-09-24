@@ -1,4 +1,4 @@
-# Brief an die Philipper – Kapitel 4
+# Brief an die Philipper – Kapitel 4: Glaube, Hoffnung und Liebe führen zur Gerechtigkeit und halten von der Sünde fern
 
 Autor: Polykarp
 

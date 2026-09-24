@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 6
+# 1\. Apologie – Kapitel 6: Nur gegenüber den falschen Göttern sind Christen Atheisten – den wahren Gott verehren sie
 
 Autor: Justin der Märtyrer
 

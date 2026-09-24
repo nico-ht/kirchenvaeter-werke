@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 41
+# Über das Leben von Mose, Buch 2 – Kapitel 41: Trauernde bitten Mose um Zulassung zum Passahopfer, da ihr Unglück kein eigenes Unrecht ist
 
 Autor: Philo von Alexandria
 

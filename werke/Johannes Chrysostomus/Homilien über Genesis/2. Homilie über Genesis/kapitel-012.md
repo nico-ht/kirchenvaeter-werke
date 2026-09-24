@@ -1,4 +1,4 @@
-# 2\. Homilie über Genesis – Kapitel 12
+# 2\. Homilie über Genesis – Kapitel 12: Gott schuf die Erde zunächst formlos, damit ihre Gaben ihm und nicht der Erde zugeschrieben werden
 
 Autor: Johannes Chrysostomus
 

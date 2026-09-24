@@ -1,4 +1,4 @@
-# 30\. Homilie über Matthäus – Kapitel 1
+# 30\. Homilie über Matthäus – Kapitel 1: Matthäus’ Berufung zeigt Christi Macht, der ungeschönte Bericht darüber die Wahrheitsliebe der Evangelisten
 
 Autor: Johannes Chrysostomus
 

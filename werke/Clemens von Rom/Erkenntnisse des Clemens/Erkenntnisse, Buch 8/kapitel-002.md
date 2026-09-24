@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 2
+# Erkenntnisse, Buch 8 – Kapitel 2: Der Alte leugnet Gott und Vorsehung und schreibt alles dem Schicksalslauf zu
 
 Autor: Clemens von Rom
 

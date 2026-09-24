@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 60
+# Gegen Celsus, Buch 1 – Kapitel 60: Wie das Scheitern ihrer Zauberei und Bileams Sternweissagung die Magier zur Anbetung Jesu geführt haben könnten
 
 Autor: Origenes
 

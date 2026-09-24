@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 14
+# 4\. Taufunterweisung – Kapitel 14: Gottes Gnade erneuert den Willen, indem sie die Schönheit der Tugend sichtbar macht
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 67
+# 1\. Apologie – Kapitel 67: Die Sonntagsversammlung verbindet Gottesdienst und Armenfürsorge am Tag der Schöpfung und Christi Auferstehung
 
 Autor: Justin der Märtyrer
 

@@ -1,4 +1,4 @@
-# Schrift 5 \- Enthaltsamkeit – Kapitel 5
+# Schrift 5 \- Enthaltsamkeit – Kapitel 5: Gottesfurcht kann jugendliche Leidenschaft ebenso zügeln wie die Furcht vor dem Ehemann
 
 Autor: Zeno von Verona
 

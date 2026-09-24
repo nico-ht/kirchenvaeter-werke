@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 5
+# 11\. Taufunterweisung – Kapitel 5: Christus litt für seine Braut nicht wegen ihrer Schönheit, sondern trotz ihrer Schande
 
 Autor: Johannes Chrysostomus
 

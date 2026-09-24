@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 3
+# 4\. Taufunterweisung – Kapitel 3: Die Getauften werden aus Sklaven der Sünde zu strahlenden Söhnen Gottes
 
 Autor: Johannes Chrysostomus
 

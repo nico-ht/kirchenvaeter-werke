@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 16
+# Gegen Celsus, Buch 1 – Kapitel 16: Celsus übergeht das Alter der Juden und Moses Verdienste, um das Christentum in Verruf zu bringen
 
 Autor: Origenes
 

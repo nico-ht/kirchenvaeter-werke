@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 75
+# Nachweis der apostolischen Verkündigung – Kapitel 75: Christus sollte nach dem Willen des Vaters leiden, wie der Prophet bezeugt
 
 Autor: Irenäus von Lyon
 

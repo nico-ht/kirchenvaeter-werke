@@ -1,4 +1,4 @@
-# 10\. Homilie über Matthäus – Kapitel 1
+# 10\. Homilie über Matthäus – Kapitel 1: Christi Taufe vollendet die Gesetzeserfüllung; die Johannestaufe offenbart ihn, vergibt aber noch keine Sünden
 
 Autor: Johannes Chrysostomus
 

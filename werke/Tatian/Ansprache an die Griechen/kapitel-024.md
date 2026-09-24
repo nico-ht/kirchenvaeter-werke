@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 24
+# Ansprache an die Griechen – Kapitel 24: Schauspiel und Musikersagen nützen nichts – glaubt unseren Lehren oder gebt eure eigenen auf
 
 Autor: Tatian
 

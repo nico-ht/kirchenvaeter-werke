@@ -1,4 +1,4 @@
-# an den Senator Ptolemaios – Kapitel 1
+# an den Senator Ptolemaios – Kapitel 1: Wo mit Adam das Verderben begann, eröffnet Christi Tod am Schädelort das Leben des Reiches
 
 Autor: Nilus von Ankyra
 

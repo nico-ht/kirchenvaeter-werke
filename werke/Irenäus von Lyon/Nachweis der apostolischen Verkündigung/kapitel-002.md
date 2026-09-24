@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 2
+# Nachweis der apostolischen Verkündigung – Kapitel 2: Wahrheit in der Seele und Reinheit im Fleisch führen nur gemeinsam den Menschen vor Gott
 
 Autor: Irenäus von Lyon
 

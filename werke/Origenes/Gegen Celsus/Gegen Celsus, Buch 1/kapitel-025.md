@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 25
+# Gegen Celsus, Buch 1 – Kapitel 25: Namen besitzen eigene Wirkkraft – deshalb weigern sich Christen, den Schöpfer Zeus zu nennen
 
 Autor: Origenes
 

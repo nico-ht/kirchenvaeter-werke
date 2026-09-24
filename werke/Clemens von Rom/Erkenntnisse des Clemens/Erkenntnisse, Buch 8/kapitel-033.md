@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 33
+# Erkenntnisse, Buch 8 – Kapitel 33: Artenvielfalt und Jahreslauf folgen einer festen, zweckmäßigen Ordnung
 
 Autor: Clemens von Rom
 

@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 61
+# Erkenntnisse, Buch 8 – Kapitel 61: Erfüllte Vorhersagen geben Gewissheit, während Streitreden keine abschließende Wahrheit schaffen
 
 Autor: Clemens von Rom
 

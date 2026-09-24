@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 17
+# Kirchengeschichte Buch 7 – Kapitel 17: Jakobus’ Bischofsstuhl dient seinen Nachfolgern als Sitz und wird als Denkmal überlieferter Heiligkeit geehrt
 
 Autor: Rufinus von Aquila
 

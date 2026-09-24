@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 11
+# Physiologus – Kapitel 11: Die Patriarchen zeugen fleischlich, die Apostel geistlich: Das Neue Testament verkündet Enthaltsamkeit
 
 Autor: Unbekannt
 

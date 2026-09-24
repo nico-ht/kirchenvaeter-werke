@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 40
+# Gegen Celsus, Buch 1 – Kapitel 40: Celsus’ ungeordnete Angriffe und sein Wahrheitsanspruch verraten Voreiligkeit und Prahlerei
 
 Autor: Origenes
 

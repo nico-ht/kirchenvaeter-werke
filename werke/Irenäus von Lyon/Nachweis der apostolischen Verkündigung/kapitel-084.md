@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 84
+# Nachweis der apostolischen Verkündigung – Kapitel 84: Das Wort steigt unsichtbar herab, fährt aber im Fleisch sichtbar als König der Herrlichkeit auf
 
 Autor: Irenäus von Lyon
 

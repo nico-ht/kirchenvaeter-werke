@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 4
+# Über die Sterblichkeit – Kapitel 4: In dieser Welt kämpft die Seele unablässig gegen immer neue Versuchungen
 
 Autor: Cyprian von Karthago
 

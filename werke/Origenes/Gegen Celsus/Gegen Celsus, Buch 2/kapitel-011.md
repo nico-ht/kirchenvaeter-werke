@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 11
+# Gegen Celsus, Buch 2 – Kapitel 11: Judas’ Reue zeigt, dass Jesu Lehre auch im Verräter noch wirkte
 
 Autor: Origenes
 

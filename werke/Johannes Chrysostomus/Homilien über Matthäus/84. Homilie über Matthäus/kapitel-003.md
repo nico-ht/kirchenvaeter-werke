@@ -1,4 +1,4 @@
-# 84\. Homilie über Matthäus – Kapitel 3
+# 84\. Homilie über Matthäus – Kapitel 3: Wie Christus in scheinbarer Niederlage siegt und geduldiges Ertragen den Zorn überwindet
 
 Autor: Johannes Chrysostomus
 

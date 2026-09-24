@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 23
+# 1\. Apologie – Kapitel 23: Christus allein ist Gottes wahrer Sohn – heidnische Parallelen beruhen auf dämonischen Erfindungen
 
 Autor: Justin der Märtyrer
 

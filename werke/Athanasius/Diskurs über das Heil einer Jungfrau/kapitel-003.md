@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 3
+# Diskurs über das Heil einer Jungfrau – Kapitel 3: Weil Christus für uns Misshandlungen ertrug, sollen auch wir Unrecht ohne Rache erdulden
 
 Autor: Athanasius
 

@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 6
+# Gegen Celsus, Buch 1 – Kapitel 6: Christen vertreiben Dämonen mit Jesu Namen und den Berichten über ihn, nicht mit Beschwörungsformeln
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 22
+# Über die Einheit der Kirche – Kapitel 22: Der Abfall Einzelner mindert nicht die Würde der Bekenner, die am Frieden der Kirche festhalten
 
 Autor: Cyprian von Karthago
 

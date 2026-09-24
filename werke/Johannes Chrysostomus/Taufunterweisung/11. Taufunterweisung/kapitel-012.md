@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 12
+# 11\. Taufunterweisung – Kapitel 12: Der Glaube sieht in der Taufe die Erneuerung des Menschen und Christus selbst als den Taufenden
 
 Autor: Johannes Chrysostomus
 

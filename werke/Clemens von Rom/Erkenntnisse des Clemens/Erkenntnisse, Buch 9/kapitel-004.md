@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 4
+# Erkenntnisse, Buch 9 – Kapitel 4: Warum Gott einen verführenden Fürsten einsetzt: Das Gute soll frei gewählt, nicht von Natur aus erzwungen sein
 
 Autor: Clemens von Rom
 

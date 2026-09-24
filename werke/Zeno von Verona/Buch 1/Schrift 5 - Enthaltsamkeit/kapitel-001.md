@@ -1,4 +1,4 @@
-# Schrift 5 \- Enthaltsamkeit – Kapitel 1
+# Schrift 5 \- Enthaltsamkeit – Kapitel 1: Die Ehe ist gut, doch Enthaltsamkeit ist besser: Gesundheit statt Heilmittel
 
 Autor: Zeno von Verona
 

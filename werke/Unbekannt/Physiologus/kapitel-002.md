@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 2
+# Physiologus – Kapitel 2: Die Antilope warnt: Weltliche Verlockungen können trotz der Kraft beider Testamente zur Falle des Teufels werden
 
 Autor: Unbekannt
 

@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 35
+# Über das Leben von Mose, Buch 2 – Kapitel 35: Wie Gottes Antworten und göttlich eingegebene Vorausschau Mose als Propheten ausweisen
 
 Autor: Philo von Alexandria
 

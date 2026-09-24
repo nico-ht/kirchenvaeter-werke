@@ -1,4 +1,4 @@
-# 15\. Homilie über Matthäus – Kapitel 8
+# 15\. Homilie über Matthäus – Kapitel 8: Das Licht der Tugend verherrlicht Gott und lässt sich durch Verleumdung nicht verdunkeln
 
 Autor: Johannes Chrysostomus
 

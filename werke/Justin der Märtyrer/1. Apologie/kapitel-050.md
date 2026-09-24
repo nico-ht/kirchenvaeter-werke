@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 50
+# 1\. Apologie – Kapitel 50: Die Propheten künden Christi Leiden für unsere Sünden an; der Auferstandene lehrt die Apostel, sie zu verstehen
 
 Autor: Justin der Märtyrer
 

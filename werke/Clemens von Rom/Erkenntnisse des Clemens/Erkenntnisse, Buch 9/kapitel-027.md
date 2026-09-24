@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 27
+# Erkenntnisse, Buch 9 – Kapitel 27: Die Vielfalt und Veränderbarkeit der Bräuche widerlegen ihre Bestimmung durch die Sterne
 
 Autor: Clemens von Rom
 

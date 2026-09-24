@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 3
+# Gegen Celsus, Buch 1 – Kapitel 3: Die christliche Lehre überwand die vereinte Macht ihrer Verfolger nur durch Gottes Hilfe
 
 Autor: Origenes
 

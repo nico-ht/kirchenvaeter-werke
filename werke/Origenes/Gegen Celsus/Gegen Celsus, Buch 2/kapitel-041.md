@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 41
+# Gegen Celsus, Buch 2 – Kapitel 41: Armut und Kreuz belegen keine Sünde Jesu, denn erlittene Übel sind keine bösen Taten
 
 Autor: Origenes
 

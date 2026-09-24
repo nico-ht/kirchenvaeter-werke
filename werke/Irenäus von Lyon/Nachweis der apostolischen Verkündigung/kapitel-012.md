@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 12
+# Nachweis der apostolischen Verkündigung – Kapitel 12: Der Mensch ist Herr der Erde, aber noch ein Kind, das im Paradies zur Vollendung wachsen soll
 
 Autor: Irenäus von Lyon
 

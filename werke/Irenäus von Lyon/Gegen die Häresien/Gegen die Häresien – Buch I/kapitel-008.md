@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 8
+# Gegen die Häresien – Buch I – Kapitel 8: Aus dem Zusammenhang gerissene Schriftworte sollen die erdichtete Äonenlehre stützen
 
 Autor: Irenäus von Lyon
 

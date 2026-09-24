@@ -1,4 +1,4 @@
-# Predigt über die Scheidung – Kapitel 3
+# Predigt über die Scheidung – Kapitel 3: Gottes Schöpfungsordnung begründet die Einheit der Ehe und verbietet dem Menschen, sie zu trennen
 
 Autor: Asterius von Amaseia
 

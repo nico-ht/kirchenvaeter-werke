@@ -1,4 +1,4 @@
-# Psalm 3 – Kapitel 2
+# Psalm 3 – Kapitel 2: Streit im eigenen Haus mahnt zur Selbstprüfung und dient Gott zur Strafe und Heilung
 
 Autor: Johannes Chrysostomus
 

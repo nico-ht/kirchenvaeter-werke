@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 23
+# 5\. Mystagogische Katechese – Kapitel 23: Haltet die Überlieferungen fest, bleibt in der Gemeinschaft und beraubt euch nicht durch Sünde der heiligen Mysterien
 
 Autor: Johannes II\. von Jerusalem
 

@@ -1,4 +1,4 @@
-# 1\. Brief über die Jungfräulichkeit – Kapitel 8
+# 1\. Brief über die Jungfräulichkeit – Kapitel 8: Wer fleischlich gesinnt ist, hat den Geist Christi nicht und gehört nicht zu Christus
 
 Autor: Clemens von Rom
 

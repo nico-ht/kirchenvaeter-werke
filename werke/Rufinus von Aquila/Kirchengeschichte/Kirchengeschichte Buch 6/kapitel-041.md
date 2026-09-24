@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 41
+# Kirchengeschichte Buch 6 – Kapitel 41: Viele Christen in Alexandria fallen unter der Verfolgung ab, doch Gott stärkt die Märtyrer zum standhaften Bekenntnis
 
 Autor: Rufinus von Aquila
 

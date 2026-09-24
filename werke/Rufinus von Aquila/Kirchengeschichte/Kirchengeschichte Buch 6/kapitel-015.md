@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 15
+# Kirchengeschichte Buch 6 – Kapitel 15: Origenes überträgt Heraklas den Anfängerunterricht und behält die Unterweisung der Fortgeschrittenen
 
 Autor: Rufinus von Aquila
 

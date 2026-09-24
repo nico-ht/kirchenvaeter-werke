@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 1
+# 5\. Mystagogische Katechese – Kapitel 1: Nach der Lehre über Taufe, Salbung und Eucharistie soll die Unterweisung den geistlichen Bau vollenden
 
 Autor: Johannes II\. von Jerusalem
 

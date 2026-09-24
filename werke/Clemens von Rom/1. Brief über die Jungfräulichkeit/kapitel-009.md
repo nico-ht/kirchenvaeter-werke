@@ -1,4 +1,4 @@
-# 1\. Brief über die Jungfräulichkeit – Kapitel 9
+# 1\. Brief über die Jungfräulichkeit – Kapitel 9: Menschen, die nach Gottes Geist leben, sind seine Tempel und leuchtende Vorbilder für die Gläubigen
 
 Autor: Clemens von Rom
 

@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 24
+# Gegen die Häresien – Buch I – Kapitel 24: Saturninus und Basilides lehren die Erlösung von den Schöpferengeln durch einen körperlosen Christus
 
 Autor: Irenäus von Lyon
 

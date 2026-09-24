@@ -1,4 +1,4 @@
-# Predigt über die Scheidung – Kapitel 4
+# Predigt über die Scheidung – Kapitel 4: Adams Wort bindet alle Ehemänner: Die Ehe endet nur durch Tod oder Ehebruch
 
 Autor: Asterius von Amaseia
 

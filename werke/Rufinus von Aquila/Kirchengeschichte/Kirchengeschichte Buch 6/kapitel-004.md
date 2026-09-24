@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 4
+# Kirchengeschichte Buch 6 – Kapitel 4: Die alexandrinische Lehrerfolge reicht von Pantänus über Clemens bis zu Origenes unter Severus
 
 Autor: Rufinus von Aquila
 

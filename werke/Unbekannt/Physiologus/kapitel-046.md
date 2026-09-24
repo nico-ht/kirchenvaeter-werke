@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 46
+# Physiologus – Kapitel 46: Die Froscharten zeigen, wie weltliche Begierden Enthaltsame töten und mangelnde Ausdauer zum Rückfall führt
 
 Autor: Unbekannt
 

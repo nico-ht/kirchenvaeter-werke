@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 11
+# Über die Einheit der Kirche – Kapitel 11: Die Taufe der Abtrünnigen befleckt statt zu reinigen, weil sie die Quelle des Lebens verlassen haben
 
 Autor: Cyprian von Karthago
 

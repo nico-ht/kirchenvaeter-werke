@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 5
+# 9\. Taufunterweisung  – Kapitel 5: Die Taufgnade ist gleich, doch ihr empfangt sie mit Freude in der Kirche statt unter Klagen am Sterbebett
 
 Autor: Johannes Chrysostomus
 

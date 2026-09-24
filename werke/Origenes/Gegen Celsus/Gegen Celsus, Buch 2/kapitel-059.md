@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 59
+# Gegen Celsus, Buch 2 – Kapitel 59: Jesus litt freiwillig und wurde nach seiner Auferstehung nicht nur von Maria Magdalena gesehen
 
 Autor: Origenes
 

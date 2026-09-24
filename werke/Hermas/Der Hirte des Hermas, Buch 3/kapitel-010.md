@@ -1,4 +1,4 @@
-# Der Hirte des Hermas, Buch 3 – Kapitel 10
+# Der Hirte des Hermas, Buch 3 – Kapitel 10: Christen sollen umkehren und Bedürftigen helfen, solange der Turm noch gebaut wird
 
 Autor: Hermas
 

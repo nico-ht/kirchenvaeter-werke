@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 41
+# Physiologus – Kapitel 41: Die verlassene Krähe: Die Synagoge verwarf Christus, gläubige Heiden sollen ihm als einzigem Gatten treu bleiben
 
 Autor: Unbekannt
 

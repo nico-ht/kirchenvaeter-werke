@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 32
+# Über das Leben von Mose, Buch 2 – Kapitel 32: Mose verleiht den Leviten das Priestertum, weil sie Götzendiener töten und dabei selbst Freunde nicht schonen
 
 Autor: Philo von Alexandria
 

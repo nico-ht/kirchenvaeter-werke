@@ -1,4 +1,4 @@
-# Predigt über die Scheidung – Kapitel 11
+# Predigt über die Scheidung – Kapitel 11: Die Treue des Witwers zur verstorbenen Frau beschämt den Mann, der die Scheidung sucht
 
 Autor: Asterius von Amaseia
 

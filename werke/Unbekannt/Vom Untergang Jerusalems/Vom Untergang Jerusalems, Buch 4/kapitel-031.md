@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 31
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 31: Sabinus’ Aufstand gegen Vitellius endet mit seiner Hinrichtung und der Zerstörung des Kapitoltempels
 
 Autor: Unbekannt
 

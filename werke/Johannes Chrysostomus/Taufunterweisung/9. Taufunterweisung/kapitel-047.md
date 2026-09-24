@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 47
+# 9\. Taufunterweisung  – Kapitel 47: Auch andere Sünden sollen wir mit Fristen und Strafen überwinden, um rein vor Christi Gericht zu treten
 
 Autor: Johannes Chrysostomus
 

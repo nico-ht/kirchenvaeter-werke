@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 12
+# Gegen die Häresien – Buch I – Kapitel 12: Ptolemäus’ Anhänger und andere Lehrer widersprechen sich über den Ursprung der Äonen und des Erlösers
 
 Autor: Irenäus von Lyon
 

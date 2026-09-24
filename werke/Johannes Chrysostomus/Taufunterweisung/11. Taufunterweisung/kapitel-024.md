@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 24
+# 11\. Taufunterweisung – Kapitel 24: Christus ist eure feste Zuflucht: Darum könnt ihr Satan und seinem ganzen Prunk furchtlos abschwören
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 14
+# 5\. Mystagogische Katechese – Kapitel 14: „Dein Wille geschehe“: Gottes Wille soll in mir auf Erden geschehen wie unter den Engeln im Himmel
 
 Autor: Johannes II\. von Jerusalem
 

@@ -1,4 +1,4 @@
-# Psalm 3 – Kapitel 3
+# Psalm 3 – Kapitel 3: Feindschaft und Krankheit haben oft dieselbe Quelle: die Sünde, die es zu beseitigen gilt
 
 Autor: Johannes Chrysostomus
 

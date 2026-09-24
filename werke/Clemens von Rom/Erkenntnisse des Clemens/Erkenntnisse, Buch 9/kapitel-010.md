@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 10
+# Erkenntnisse, Buch 9 – Kapitel 10: Dämonen können zur Sünde anstiften, nicht zwingen: Wer widersteht, entgeht dem Verderben
 
 Autor: Clemens von Rom
 

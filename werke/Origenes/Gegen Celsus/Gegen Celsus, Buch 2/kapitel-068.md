@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 68
+# Gegen Celsus, Buch 2 – Kapitel 68: Jesu Verschwinden nach der Auferstehung belegt, dass er nicht aus Unvermögen am Kreuz blieb
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# Apologie – Kapitel 25
+# Apologie – Kapitel 25: Roms Macht ist kein Lohn seiner Frömmigkeit: Seine Eroberungen gingen mit Tempelschändungen einher
 
 Autor: Tertullian
 

@@ -1,4 +1,4 @@
-# 2\. Mystagogische Katechese – Kapitel 2
+# 2\. Mystagogische Katechese – Kapitel 2: Die Entkleidung steht für das Ablegen des alten Menschen und die Nachahmung Christi und Adams
 
 Autor: Johannes II\. von Jerusalem
 

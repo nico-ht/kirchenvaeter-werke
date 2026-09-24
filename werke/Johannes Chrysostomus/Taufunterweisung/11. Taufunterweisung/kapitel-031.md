@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 31
+# 11\. Taufunterweisung – Kapitel 31: Als Gesandte der Menschheit findet ihr bei Gott Gehör: Bittet für Kirche, Klerus und alle Menschen
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 2
+# Ansprache an die Griechen – Kapitel 2: Griechische Philosophen verfehlen das edle Leben; Aristoteles macht das Glück von äußeren Gütern abhängig
 
 Autor: Tatian
 

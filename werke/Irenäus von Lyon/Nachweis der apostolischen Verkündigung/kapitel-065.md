@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 65
+# Nachweis der apostolischen Verkündigung – Kapitel 65: Jesu Einzug in Jerusalem auf einem Eselsfüllen erfüllt Jesajas Weissagung vom sanftmütigen König
 
 Autor: Irenäus von Lyon
 

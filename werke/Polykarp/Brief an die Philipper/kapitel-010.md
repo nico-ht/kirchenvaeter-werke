@@ -1,4 +1,4 @@
-# Brief an die Philipper – Kapitel 10
+# Brief an die Philipper – Kapitel 10: Die Glaubenszeugen litten nicht vergeblich: Sie liebten Christus mehr als die Welt
 
 Autor: Polykarp
 

@@ -1,4 +1,4 @@
-# Brief von Aristeas – Kapitel 2
+# Brief von Aristeas – Kapitel 2: Eleasar entsendet auf Bitten des Königs je sechs Älteste pro Stamm zur genauen Übersetzung des Gesetzes
 
 Autor: Unbekannt
 

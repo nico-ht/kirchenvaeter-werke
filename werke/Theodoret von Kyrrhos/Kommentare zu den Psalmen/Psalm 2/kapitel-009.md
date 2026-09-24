@@ -1,4 +1,4 @@
-# Psalm 2 – Kapitel 9
+# Psalm 2 – Kapitel 9: Die Könige sollen sich unterweisen lassen, denn Christus ist der König aller
 
 Autor: Theodoret von Kyrrhos
 

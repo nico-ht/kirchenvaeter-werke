@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 23
+# Über die Sterblichkeit – Kapitel 23: Gott kann die Gerechten früh hinwegnehmen, um sie vor der Bosheit der Welt zu bewahren
 
 Autor: Cyprian von Karthago
 

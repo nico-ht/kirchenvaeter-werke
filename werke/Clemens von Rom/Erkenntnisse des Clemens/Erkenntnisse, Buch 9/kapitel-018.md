@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 18
+# Erkenntnisse, Buch 9 – Kapitel 18: Nicht nur Gottesfurcht, auch Menschenfurcht kann natürliche Begierden zügeln
 
 Autor: Clemens von Rom
 

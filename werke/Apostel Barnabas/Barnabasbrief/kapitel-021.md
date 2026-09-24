@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 21
+# Barnabasbrief – Kapitel 21: Gottes Gebote lernen und erfüllen, solange noch Zeit vor dem Gericht bleibt
 
 Autor: Apostel Barnabas
 

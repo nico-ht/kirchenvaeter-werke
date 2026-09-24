@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 1
+# Diskurs über das Heil einer Jungfrau – Kapitel 1: Der dreieinige Gott erschafft den Menschen als sein Ebenbild und vertraut ihm die Schöpfung an
 
 Autor: Athanasius
 

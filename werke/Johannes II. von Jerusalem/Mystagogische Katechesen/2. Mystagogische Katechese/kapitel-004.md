@@ -1,4 +1,4 @@
-# 2\. Mystagogische Katechese – Kapitel 4
+# 2\. Mystagogische Katechese – Kapitel 4: Die Taufe bildet Christi dreitägige Grablegung nach und vereint Tod und Geburt in einem Augenblick
 
 Autor: Johannes II\. von Jerusalem
 

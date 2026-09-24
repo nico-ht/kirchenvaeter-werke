@@ -6,4 +6,4 @@ Nilus von Ankyra
 
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/nilus-von-ankyra/an-den-senator-ptolemaios) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-- [Kapitel 1](kapitel-001.md)
+- [Kapitel 1: Wo mit Adam das Verderben begann, eröffnet Christi Tod am Schädelort das Leben des Reiches](kapitel-001.md)

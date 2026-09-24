@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 24
+# Erkenntnisse, Buch 9 – Kapitel 24: Regionale Sitten und das Fehlen ganzer Berufe widersprechen der Bestimmung durch die Sterne
 
 Autor: Clemens von Rom
 

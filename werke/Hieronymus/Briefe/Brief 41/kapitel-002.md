@@ -1,4 +1,4 @@
-# Brief 41 – Kapitel 2
+# Brief 41 – Kapitel 2: Nicht die Prophetie wird abgelehnt, sondern Propheten, die den alten und neuen Schriften widersprechen
 
 Autor: Hieronymus
 

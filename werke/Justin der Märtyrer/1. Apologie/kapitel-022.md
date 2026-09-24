@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 22
+# 1\. Apologie – Kapitel 22: Heidnische Parallelen zu Christi Geburt, Leiden und Heilungen entkräften Einwände gegen ihn
 
 Autor: Justin der Märtyrer
 

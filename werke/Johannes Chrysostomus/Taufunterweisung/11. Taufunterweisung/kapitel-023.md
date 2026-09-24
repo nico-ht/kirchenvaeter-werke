@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 23
+# 11\. Taufunterweisung – Kapitel 23: Die Erinnerung an meine Taufreinheit lässt mich über die seither angehäuften Sünden trauern
 
 Autor: Johannes Chrysostomus
 

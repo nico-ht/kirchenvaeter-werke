@@ -1,4 +1,4 @@
-# An Generalmajor Gaina – Kapitel 1
+# An Generalmajor Gaina – Kapitel 1: Christi Unterwerfung besteht darin, uns zum Vater zu führen, dem er an Wesen und Macht gleich ist
 
 Autor: Nilus von Ankyra
 

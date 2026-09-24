@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 54
+# Gegen Celsus, Buch 1 – Kapitel 54: Jesu Leiden und Tod zum Heil der Menschen sind bereits prophetisch angekündigt
 
 Autor: Origenes
 

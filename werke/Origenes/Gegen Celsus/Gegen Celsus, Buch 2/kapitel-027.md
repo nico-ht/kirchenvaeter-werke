@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 27
+# Gegen Celsus, Buch 2 – Kapitel 27: Verfälschungen der Evangelien durch Häretiker sprechen nicht gegen die christliche Lehre
 
 Autor: Origenes
 

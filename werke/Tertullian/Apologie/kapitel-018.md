@@ -1,4 +1,4 @@
-# Apologie – Kapitel 18
+# Apologie – Kapitel 18: Die Prophetenschriften machen Gottes Willen bekannt und sind auch auf Griechisch öffentlich zugänglich
 
 Autor: Tertullian
 

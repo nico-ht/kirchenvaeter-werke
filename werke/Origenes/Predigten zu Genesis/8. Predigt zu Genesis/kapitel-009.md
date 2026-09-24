@@ -1,4 +1,4 @@
-# 8\. Predigt zu Genesis – Kapitel 9
+# 8\. Predigt zu Genesis – Kapitel 9: Isaak und Widder bilden Christus ab: als unvergängliches Wort und als Opfer im Fleisch
 
 Autor: Origenes
 

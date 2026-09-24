@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 17
+# 4\. Taufunterweisung – Kapitel 17: Wer Christus in der Seele trägt, soll durch sein Leben das Bild des Königs zeigen
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# 48\. Homilie über Matthäus – Kapitel 4
+# 48\. Homilie über Matthäus – Kapitel 4: Der Mord an Johannes soll den Ehebruch verbergen, doch seine Anklage wird dadurch nur lauter
 
 Autor: Johannes Chrysostomus
 

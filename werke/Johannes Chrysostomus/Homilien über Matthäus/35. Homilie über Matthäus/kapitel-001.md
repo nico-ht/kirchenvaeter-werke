@@ -1,4 +1,4 @@
-# 35\. Homilie über Matthäus – Kapitel 1
+# 35\. Homilie über Matthäus – Kapitel 1: Christus bringt Frieden durch Trennung vom Bösen und fordert den Vorrang der Liebe zu ihm vor Familie und Leben
 
 Autor: Johannes Chrysostomus
 

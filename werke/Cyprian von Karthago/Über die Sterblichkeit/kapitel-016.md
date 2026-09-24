@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 16
+# Über die Sterblichkeit – Kapitel 16: Die Seuche prüft, ob wir Kranke pflegen, Barmherzigkeit üben und die Todesfurcht überwinden
 
 Autor: Cyprian von Karthago
 

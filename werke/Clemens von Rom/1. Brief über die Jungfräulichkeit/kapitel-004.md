@@ -1,4 +1,4 @@
-# 1\. Brief über die Jungfräulichkeit – Kapitel 4
+# 1\. Brief über die Jungfräulichkeit – Kapitel 4: Gott verheißt Jungfrauen beider Geschlechter im Himmel einen höheren Platz als denen, die in keuscher Ehe leben
 
 Autor: Clemens von Rom
 

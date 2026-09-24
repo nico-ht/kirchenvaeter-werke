@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 46
+# Über das Leben von Mose, Buch 2 – Kapitel 46: Moses Weissagung erfüllt sich: Gott rettet die Hebräer durchs Meer und vernichtet ihre Verfolger
 
 Autor: Philo von Alexandria
 

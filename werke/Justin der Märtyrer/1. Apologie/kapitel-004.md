@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 4
+# 1\. Apologie – Kapitel 4: Der Christenname allein rechtfertigt weder Strafe noch Freispruch – entscheidend sind die Taten
 
 Autor: Justin der Märtyrer
 

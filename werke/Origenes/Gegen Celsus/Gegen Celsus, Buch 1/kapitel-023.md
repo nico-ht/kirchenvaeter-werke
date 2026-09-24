@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 23
+# Gegen Celsus, Buch 1 – Kapitel 23: Die harmonische Weltordnung bezeugt einen einzigen Schöpfer, der selbst kein Teil der Welt ist
 
 Autor: Origenes
 

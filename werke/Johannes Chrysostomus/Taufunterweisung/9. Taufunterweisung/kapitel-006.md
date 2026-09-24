@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 6
+# 9\. Taufunterweisung  – Kapitel 6: Die Trauer des Sterbenden und seines ganzen Hauses steht dem Geschenk der Taufe entgegen
 
 Autor: Johannes Chrysostomus
 

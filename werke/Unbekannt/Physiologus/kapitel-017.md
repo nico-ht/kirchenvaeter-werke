@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 17
+# Physiologus – Kapitel 17: Geistlich schwimmen statt wie der Ibis am Ufer bleiben: Durch das Kreuz führt der Weg zu Gott
 
 Autor: Unbekannt
 

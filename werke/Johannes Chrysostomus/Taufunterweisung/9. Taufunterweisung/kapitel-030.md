@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 30
+# 9\. Taufunterweisung  – Kapitel 30: Eine ungezügelte Zunge ist das wirksamste Werkzeug des Teufels, um uns zu täuschen und zu vernichten
 
 Autor: Johannes Chrysostomus
 

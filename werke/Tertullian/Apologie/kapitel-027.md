@@ -1,4 +1,4 @@
-# Apologie – Kapitel 27
+# Apologie – Kapitel 27: Dämonen schüren die Verfolgung, doch standhafte Christen triumphieren über sie gerade durch ihre Verurteilung
 
 Autor: Tertullian
 

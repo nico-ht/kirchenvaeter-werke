@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 19
+# 11\. Taufunterweisung – Kapitel 19: Die Taufgelöbnisse am Freitag zur neunten Stunde verweisen auf Christi Opfer für die ganze Welt
 
 Autor: Johannes Chrysostomus
 

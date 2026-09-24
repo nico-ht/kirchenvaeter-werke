@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 41
+# Gegen die Häresien – Buch IV – Kapitel 41: Nicht ihre Natur, sondern ihre bösen Werke machen Menschen zu „Söhnen des Teufels“
 
 Autor: Irenäus von Lyon
 

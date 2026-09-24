@@ -1,4 +1,4 @@
-# 36\. Homilie über Matthäus – Kapitel 3
+# 36\. Homilie über Matthäus – Kapitel 3: Johannes wusste vom Leiden Christi; Christi Hadesfahrt hebt nicht jede Strafe auf
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 1
+# Nachweis der apostolischen Verkündigung – Kapitel 1: Eine kurze Darlegung der Wahrheit soll den Glauben auf dem einzigen Weg zu Gott festigen
 
 Autor: Irenäus von Lyon
 

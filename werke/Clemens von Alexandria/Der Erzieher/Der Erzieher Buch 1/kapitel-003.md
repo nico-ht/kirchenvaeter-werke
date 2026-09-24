@@ -1,4 +1,4 @@
-# Der Erzieher: Buch 1 – Kapitel 3
+# Der Erzieher: Buch 1 – Kapitel 3: Weil Gott den Menschen liebt, führt ihn das Wort durch Gebote und Vorbild zur Rettung
 
 Autor: Clemens von Alexandria
 

@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 5
+# 5\. Mystagogische Katechese – Kapitel 5: Unser Dank ist würdig und recht, doch Gottes Güte geht über das Maß des Gerechten hinaus
 
 Autor: Johannes II\. von Jerusalem
 

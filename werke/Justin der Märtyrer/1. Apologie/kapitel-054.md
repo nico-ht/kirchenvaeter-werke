@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 54
+# 1\. Apologie – Kapitel 54: Wie Dämonen missverstandene Christusprophetien in Mythen nachahmten, um den Glauben an Christus zu untergraben
 
 Autor: Justin der Märtyrer
 

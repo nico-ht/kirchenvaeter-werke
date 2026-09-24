@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 21
+# Gegen Celsus, Buch 1 – Kapitel 21: Mose verdient für die Lehre vom unveränderlichen Gott auch dann keinen Tadel, wenn er sie übernommen hat
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# Predigt zu dem reichen Mann und Lazarus – Kapitel 15
+# Predigt zu dem reichen Mann und Lazarus – Kapitel 15: Kein Flehen mildert das Urteil – die Kluft versinnbildlicht die endgültige Trennung von Gerechten und Sündern
 
 Autor: Asterius von Amaseia
 

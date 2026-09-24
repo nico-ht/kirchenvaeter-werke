@@ -1,4 +1,4 @@
-# 65\. Homilie über Matthäus – Kapitel 6
+# 65\. Homilie über Matthäus – Kapitel 6: Gott widersteht den Hochmütigen, schenkt aber den Demütigen Gnade, Ehre und künftige Herrlichkeit
 
 Autor: Johannes Chrysostomus
 

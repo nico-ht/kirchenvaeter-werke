@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 26
+# Erkenntnisse, Buch 8 – Kapitel 26: Wasser und Geist formen den Samen, während die Erde ihn wie ein Mutterleib nährt
 
 Autor: Clemens von Rom
 

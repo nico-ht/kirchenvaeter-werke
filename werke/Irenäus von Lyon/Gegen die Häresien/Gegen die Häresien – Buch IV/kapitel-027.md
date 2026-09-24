@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 27
+# Gegen die Häresien – Buch IV – Kapitel 27: Die Sünden der Alten sind uns zur Warnung überliefert, denn derselbe Gott richtet auch uns
 
 Autor: Irenäus von Lyon
 

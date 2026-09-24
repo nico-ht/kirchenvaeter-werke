@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 59
+# Gegen Celsus, Buch 1 – Kapitel 59: Der Stern bei Jesu Geburt entspricht seiner weltweiten Bedeutung und ist anders als Kometen prophetisch angekündigt
 
 Autor: Origenes
 

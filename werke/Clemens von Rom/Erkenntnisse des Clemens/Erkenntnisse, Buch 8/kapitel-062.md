@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 62
+# Erkenntnisse, Buch 8 – Kapitel 62: Gott tilgt unsichere Meinungen, damit der überall nahe wahre Prophet gesucht wird
 
 Autor: Clemens von Rom
 

@@ -1,4 +1,4 @@
-# 2\. Homilie über Genesis – Kapitel 8
+# 2\. Homilie über Genesis – Kapitel 8: Auch Paulus passt die Lehre von der Schöpfung der Aufnahmefähigkeit seiner Hörer an
 
 Autor: Johannes Chrysostomus
 

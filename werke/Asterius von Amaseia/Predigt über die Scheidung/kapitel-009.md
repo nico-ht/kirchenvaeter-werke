@@ -1,4 +1,4 @@
-# Predigt über die Scheidung – Kapitel 9
+# Predigt über die Scheidung – Kapitel 9: Die Fürsorge der Frau und die Vertrautheit des gemeinsamen Lebens sollen die eheliche Bindung festigen
 
 Autor: Asterius von Amaseia
 

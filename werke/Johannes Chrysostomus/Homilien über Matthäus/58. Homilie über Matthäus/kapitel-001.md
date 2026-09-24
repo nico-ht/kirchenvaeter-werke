@@ -1,4 +1,4 @@
-# 58\. Homilie über Matthäus – Kapitel 1
+# 58\. Homilie über Matthäus – Kapitel 1: Christus ist als wahrer Sohn Gottes von der Abgabe frei, zahlt sie aber, um keinen Anstoß zu geben
 
 Autor: Johannes Chrysostomus
 

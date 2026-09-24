@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 33
+# Physiologus – Kapitel 33: Der Geburtsstein des Geierweibchens: Wer Christus aufnimmt, wird von Sünden gereinigt und empfängt Gottes Wort
 
 Autor: Unbekannt
 

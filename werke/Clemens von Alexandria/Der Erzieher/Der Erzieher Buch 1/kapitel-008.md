@@ -1,4 +1,4 @@
-# Der Erzieher: Buch 1 – Kapitel 8
+# Der Erzieher: Buch 1 – Kapitel 8: Warum der gerechte Schöpfer und der gute Vater Jesu Christi ein und derselbe Gott sind
 
 Autor: Clemens von Alexandria
 

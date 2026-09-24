@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 29
+# 4\. Taufunterweisung – Kapitel 29: Der himmlische Bürger soll durch Tugend Gott verherrlichen und seine Gaben empfangen
 
 Autor: Johannes Chrysostomus
 

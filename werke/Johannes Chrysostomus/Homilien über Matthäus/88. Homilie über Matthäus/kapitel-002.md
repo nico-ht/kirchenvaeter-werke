@@ -1,4 +1,4 @@
-# 88\. Homilie über Matthäus – Kapitel 2
+# 88\. Homilie über Matthäus – Kapitel 2: Jesu Tod weckt Umkehr und mutige Treue, doch seine Gegner bleiben trotz der Zeichen verhärtet
 
 Autor: Johannes Chrysostomus
 

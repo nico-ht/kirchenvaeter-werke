@@ -1,4 +1,4 @@
-# 58\. Homilie über Matthäus – Kapitel 2
+# 58\. Homilie über Matthäus – Kapitel 2: Auf den Rangstreit der Jünger antwortet Christus: Ohne kindliche Demut kein Eintritt ins Himmelreich
 
 Autor: Johannes Chrysostomus
 

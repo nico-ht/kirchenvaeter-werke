@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 17
+# 3\. Taufunterweisung  – Kapitel 17: Wasser und Blut aus Christi Seite bezeichnen Taufe und Mysterien, aus denen die Kirche hervorgeht
 
 Autor: Johannes Chrysostomus
 

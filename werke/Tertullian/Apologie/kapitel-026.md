@@ -1,4 +1,4 @@
-# Apologie – Kapitel 26
+# Apologie – Kapitel 26: Als Herr der Welt bestimmt Gott die Zeiten und den Wechsel der Reiche
 
 Autor: Tertullian
 

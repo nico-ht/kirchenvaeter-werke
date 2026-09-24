@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 15
+# Nachweis der apostolischen Verkündigung – Kapitel 15: Gottes Gebot begrenzt die Freiheit des Menschen und bindet seine Unsterblichkeit an den Gehorsam
 
 Autor: Irenäus von Lyon
 

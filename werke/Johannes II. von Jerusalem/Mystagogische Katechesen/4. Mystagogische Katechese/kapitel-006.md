@@ -1,4 +1,4 @@
-# 4\. Mystagogische Katechese – Kapitel 6
+# 4\. Mystagogische Katechese – Kapitel 6: Nicht der Geschmack, sondern der Glaube erkennt in Brot und Wein Christi Leib und Blut
 
 Autor: Johannes II\. von Jerusalem
 

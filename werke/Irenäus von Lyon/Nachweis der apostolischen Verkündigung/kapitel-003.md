@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 3
+# Nachweis der apostolischen Verkündigung – Kapitel 3: Der überlieferte Glaube trägt das Heil: Die Taufe macht uns zu Kindern des ewigen Gottes
 
 Autor: Irenäus von Lyon
 

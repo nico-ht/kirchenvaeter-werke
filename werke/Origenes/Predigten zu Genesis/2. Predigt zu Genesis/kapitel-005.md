@@ -1,4 +1,4 @@
-# 2\. Predigt zu Genesis – Kapitel 5
+# 2\. Predigt zu Genesis – Kapitel 5: Die Maße der Arche versinnbildlichen Sündenvergebung und Vollendung durch die Gnade der Dreifaltigkeit
 
 Autor: Origenes
 

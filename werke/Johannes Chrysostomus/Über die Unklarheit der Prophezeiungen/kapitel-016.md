@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 16
+# Über die Unklarheit der Prophezeiungen – Kapitel 16: Wer sich selbst prüft, wird geheilt; wer andere richtet, lädt Schuld auf sich
 
 Autor: Johannes Chrysostomus
 

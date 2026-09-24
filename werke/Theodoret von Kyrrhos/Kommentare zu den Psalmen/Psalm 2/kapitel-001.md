@@ -1,4 +1,4 @@
-# Psalm 2 – Kapitel 1
+# Psalm 2 – Kapitel 1: Jüdische und heidnische Machthaber töten Christus, doch der Auferstandene herrscht über die ganze Erde
 
 Autor: Theodoret von Kyrrhos
 

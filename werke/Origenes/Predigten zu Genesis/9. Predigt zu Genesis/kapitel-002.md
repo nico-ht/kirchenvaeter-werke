@@ -1,4 +1,4 @@
-# 9\. Predigt zu Genesis – Kapitel 2
+# 9\. Predigt zu Genesis – Kapitel 2: Gott erneuert seine Verheißungen, damit auch wir das irdische Bild ablegen und das himmlische anziehen
 
 Autor: Origenes
 

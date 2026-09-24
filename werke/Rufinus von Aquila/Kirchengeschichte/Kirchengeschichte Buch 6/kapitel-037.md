@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 37
+# Kirchengeschichte Buch 6 – Kapitel 37: Auf einem Konzil in Arabien widerlegt Origenes die Lehre vom Untergang der Seele mit dem Körper
 
 Autor: Rufinus von Aquila
 

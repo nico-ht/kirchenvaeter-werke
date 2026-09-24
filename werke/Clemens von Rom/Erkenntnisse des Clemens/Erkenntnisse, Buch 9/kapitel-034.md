@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 34
+# Erkenntnisse, Buch 9 – Kapitel 34: Petrus verheißt die Rückkehr der keuschen Frau und der Söhne als Widerlegung des Schicksalsglaubens
 
 Autor: Clemens von Rom
 

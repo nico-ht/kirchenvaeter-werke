@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 16
+# Ansprache an die Griechen – Kapitel 16: Wer der Materie entsagt und sich mit Gottes Geist rüstet, kann die Dämonen besiegen
 
 Autor: Tatian
 

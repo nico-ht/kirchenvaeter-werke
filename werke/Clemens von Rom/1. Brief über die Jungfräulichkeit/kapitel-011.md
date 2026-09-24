@@ -1,4 +1,4 @@
-# 1\. Brief über die Jungfräulichkeit – Kapitel 11
+# 1\. Brief über die Jungfräulichkeit – Kapitel 11: Lehre muss sich als Gottes Wort bewähren und die Gemeinde aufbauen, statt der Selbsterhöhung zu dienen
 
 Autor: Clemens von Rom
 

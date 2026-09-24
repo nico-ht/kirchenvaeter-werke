@@ -1,4 +1,4 @@
-# Predigt über die Scheidung – Kapitel 1
+# Predigt über die Scheidung – Kapitel 1: Sabbat und Sonntag führen Lehrende und Lernende zur Sorge um ihre Seelen
 
 Autor: Asterius von Amaseia
 

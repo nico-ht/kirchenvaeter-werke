@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 13
+# Physiologus – Kapitel 13: Die Schlange lehrt, den alten Menschen abzulegen und Christus selbst unter Todesgefahr nicht zu verleugnen
 
 Autor: Unbekannt
 

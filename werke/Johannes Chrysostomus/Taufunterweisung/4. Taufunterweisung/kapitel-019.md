@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 19
+# 4\. Taufunterweisung – Kapitel 19: Christi Licht leuchtet durch gute Werke statt durch Gewänder
 
 Autor: Johannes Chrysostomus
 

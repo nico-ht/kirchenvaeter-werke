@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 5
+# Über die Sterblichkeit – Kapitel 5: Christus zu sehen verwandelt die Trauer dieser Welt in bleibende Freude
 
 Autor: Cyprian von Karthago
 

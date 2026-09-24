@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 18
+# 5\. Mystagogische Katechese – Kapitel 18: „Der Böse“ ist der feindliche Dämon; mit „Amen“ besiegeln wir die Bitten des Gebets
 
 Autor: Johannes II\. von Jerusalem
 

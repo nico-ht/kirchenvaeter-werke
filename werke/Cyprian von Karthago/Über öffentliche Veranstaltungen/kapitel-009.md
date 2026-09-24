@@ -1,4 +1,4 @@
-# Über öffentliche Veranstaltungen – Kapitel 9
+# Über öffentliche Veranstaltungen – Kapitel 9: Die Schöpfung bietet Gottes Kindern erhabenere Schauspiele als jedes von Menschen erbaute Theater
 
 Autor: Cyprian von Karthago
 

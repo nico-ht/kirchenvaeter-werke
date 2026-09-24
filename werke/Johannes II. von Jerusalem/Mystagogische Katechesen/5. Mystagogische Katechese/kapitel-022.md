@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 22
+# 5\. Mystagogische Katechese – Kapitel 22: Der Empfang des Blutes Christi verbindet ehrfürchtige Anbetung, Heiligung der Sinne und Dank an Gott
 
 Autor: Johannes II\. von Jerusalem
 

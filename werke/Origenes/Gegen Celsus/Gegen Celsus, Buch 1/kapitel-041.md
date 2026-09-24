@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 41
+# Gegen Celsus, Buch 1 – Kapitel 41: Celsus’ Jude fordert glaubwürdige Zeugen für die Taube und die Himmelsstimme bei Jesu Taufe
 
 Autor: Origenes
 

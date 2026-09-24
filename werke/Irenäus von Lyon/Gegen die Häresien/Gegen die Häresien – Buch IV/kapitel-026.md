@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 26
+# Gegen die Häresien – Buch IV – Kapitel 26: Verlässliche Schriftauslegung bieten Presbyter in apostolischer Nachfolge mit reiner Lehre und untadeligem Wandel
 
 Autor: Irenäus von Lyon
 

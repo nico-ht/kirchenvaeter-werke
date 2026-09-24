@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 15
+# 4\. Taufunterweisung – Kapitel 15: Wer Götzen verlässt und den Schöpfer verehrt, wird in Tugend neu geschaffen
 
 Autor: Johannes Chrysostomus
 

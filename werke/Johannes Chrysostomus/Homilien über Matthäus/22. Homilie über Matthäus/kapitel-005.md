@@ -1,4 +1,4 @@
-# 22\. Homilie über Matthäus – Kapitel 5
+# 22\. Homilie über Matthäus – Kapitel 5: Gott erhört auch Sünder, wenn sie umkehren und beharrlich bitten
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 35
+# Kirchengeschichte Buch 6 – Kapitel 35: Dionysius folgt dem verstorbenen Heraclas als Bischof von Alexandria
 
 Autor: Rufinus von Aquila
 

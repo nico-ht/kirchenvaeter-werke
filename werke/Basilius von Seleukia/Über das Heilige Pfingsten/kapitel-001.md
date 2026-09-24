@@ -1,4 +1,4 @@
-# Über das Heilige Pfingsten – Kapitel 1
+# Über das Heilige Pfingsten – Kapitel 1: Die feurigen Zungen des Geistes machen die Apostel zu Lehrern aller Völker
 
 Autor: Basilius von Seleukia
 

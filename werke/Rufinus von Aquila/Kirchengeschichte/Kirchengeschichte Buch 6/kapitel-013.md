@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 13
+# Kirchengeschichte Buch 6 – Kapitel 13: Clemens’ Schriften vergleichen biblische Lehre mit heidnischer Weisheit und bewahren apostolische Überlieferung
 
 Autor: Rufinus von Aquila
 

@@ -1,4 +1,4 @@
-# 71\. Homilie über Matthäus – Kapitel 4
+# 71\. Homilie über Matthäus – Kapitel 4: Barmherzigkeit soll als Mysterium verborgen bleiben – Gott selbst macht sie offenbar
 
 Autor: Johannes Chrysostomus
 

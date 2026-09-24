@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 24
+# 4\. Taufunterweisung – Kapitel 24: Das neue Leben verlangt beherrschte Rede, reine Gedanken und nützliche Taten
 
 Autor: Johannes Chrysostomus
 

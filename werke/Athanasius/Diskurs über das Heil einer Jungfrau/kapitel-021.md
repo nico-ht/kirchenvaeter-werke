@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 21
+# Diskurs über das Heil einer Jungfrau – Kapitel 21: Nächstenliebe muss sich in Taten und Vergebung zeigen, sonst bleibt alle Mühe vergeblich
 
 Autor: Athanasius
 

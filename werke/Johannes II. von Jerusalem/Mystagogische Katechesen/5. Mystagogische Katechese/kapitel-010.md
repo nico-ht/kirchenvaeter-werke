@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 10
+# 5\. Mystagogische Katechese – Kapitel 10: Indem wir Christus darbringen, erlangen wir Versöhnung für uns und die Entschlafenen – auch für Sünder
 
 Autor: Johannes II\. von Jerusalem
 

@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 5
+# Gegen Celsus, Buch 2 – Kapitel 5: Die Wahrheit christlicher Lehre zeigt sich in ihrer Kraft, den Menschen zur himmlischen Bürgerschaft zu führen
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 12
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 12: Viele Arme ziehen den Tod in der Heimat vor: Auch die Flucht ist gefährlich, und daheim hoffen sie auf ein Grab
 
 Autor: Unbekannt
 

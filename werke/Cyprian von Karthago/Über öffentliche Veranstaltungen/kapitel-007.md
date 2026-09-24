@@ -1,4 +1,4 @@
-# Über öffentliche Veranstaltungen – Kapitel 7
+# Über öffentliche Veranstaltungen – Kapitel 7: Auch ohne Götzenweihe sind Musik\- und Bühnendarbietungen nutzlos und für Christen unpassend
 
 Autor: Cyprian von Karthago
 

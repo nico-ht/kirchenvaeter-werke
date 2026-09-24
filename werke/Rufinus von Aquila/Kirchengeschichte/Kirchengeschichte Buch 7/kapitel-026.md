@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 26
+# Kirchengeschichte Buch 7 – Kapitel 26: Bischöfe versammeln sich gegen Paulus von Samosata, der Christus für einen bloßen Menschen hält
 
 Autor: Rufinus von Aquila
 

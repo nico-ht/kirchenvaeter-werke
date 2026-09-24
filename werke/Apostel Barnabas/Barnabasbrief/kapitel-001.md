@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 1
+# Barnabasbrief – Kapitel 1: Der Glaube soll durch Erkenntnis der göttlichen Verheißungen wachsen
 
 Autor: Apostel Barnabas
 

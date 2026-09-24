@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 18
+# Über die Sterblichkeit – Kapitel 18: Wer um Gottes Willen und sein Reich betet, soll seinem Ruf nicht widerstreben
 
 Autor: Cyprian von Karthago
 

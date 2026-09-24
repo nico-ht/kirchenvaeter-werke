@@ -1,4 +1,4 @@
-# Über öffentliche Veranstaltungen – Kapitel 8
+# Über öffentliche Veranstaltungen – Kapitel 8: Athletische Wettkämpfe verletzen die Scham und reizen den ohnehin zum Laster geneigten Geist
 
 Autor: Cyprian von Karthago
 

@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 13
+# Kirchengeschichte Buch 7 – Kapitel 13: Der Senator Astyrius trägt den Märtyrer zu Grabe und erlangt selbst die Märtyrerehre
 
 Autor: Rufinus von Aquila
 

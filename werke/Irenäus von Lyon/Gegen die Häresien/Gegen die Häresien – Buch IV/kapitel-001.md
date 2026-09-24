@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 1
+# Gegen die Häresien – Buch IV – Kapitel 1: Christi Lehre vom einen Vater schließt aus, dass der Schöpfer nur dem Namen nach Gott ist
 
 Autor: Irenäus von Lyon
 

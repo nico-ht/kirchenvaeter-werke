@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 4
+# Erkenntnisse, Buch 8 – Kapitel 4: Weil vieles ungerecht geschieht, leugnet der Alte Gottes Vorsehung
 
 Autor: Clemens von Rom
 

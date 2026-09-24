@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 16
+# 1\. Apologie – Kapitel 16: Nur wer nach Christi Lehre lebt, gilt als Christ und wird gerettet – nicht wer sie bloß bekennt
 
 Autor: Justin der Märtyrer
 

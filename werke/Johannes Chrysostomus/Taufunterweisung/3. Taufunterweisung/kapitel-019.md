@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 19
+# 3\. Taufunterweisung  – Kapitel 19: Christus nährt die von ihm Gezeugten beständig mit seinem eigenen Blut
 
 Autor: Johannes Chrysostomus
 

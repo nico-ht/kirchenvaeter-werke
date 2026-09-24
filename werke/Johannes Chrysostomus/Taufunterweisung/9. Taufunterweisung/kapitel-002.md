@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 2
+# 9\. Taufunterweisung  – Kapitel 2: Anders als Josefs Mundschenk empfangen die Täuflinge den Becher vom himmlischen König selbst
 
 Autor: Johannes Chrysostomus
 

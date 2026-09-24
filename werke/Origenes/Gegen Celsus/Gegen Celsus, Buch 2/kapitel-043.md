@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 43
+# Gegen Celsus, Buch 2 – Kapitel 43: Jesus gewann im Leben viele Anhänger und bekehrte im Hades die dazu bereiten oder geeigneten Seelen
 
 Autor: Origenes
 

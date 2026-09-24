@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 9
+# 3\. Taufunterweisung  – Kapitel 9: Christus ist im Kampf gegen den Teufel kein neutraler Richter, sondern steht ganz auf unserer Seite
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# 1\. Mystagogische Katechese – Kapitel 9
+# 1\. Mystagogische Katechese – Kapitel 9: Die Wendung nach Osten zeigt: Nach der Absage an Satan steht das Paradies wieder offen
 
 Autor: Johannes II\. von Jerusalem
 

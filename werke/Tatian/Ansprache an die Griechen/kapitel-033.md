@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 33
+# Ansprache an die Griechen – Kapitel 33: Die Griechen ehren Dichterinnen und Hetären mit Statuen, verachten aber die weisen Frauen unserer Lehre
 
 Autor: Tatian
 

@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 8
+# Erkenntnisse, Buch 8 – Kapitel 8: Aquila tadelt den Namen „Vater“ und gebraucht ihn im selben Atemzug selbst
 
 Autor: Clemens von Rom
 

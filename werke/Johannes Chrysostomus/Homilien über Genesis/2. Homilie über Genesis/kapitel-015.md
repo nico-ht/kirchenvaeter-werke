@@ -1,4 +1,4 @@
-# 2\. Homilie über Genesis – Kapitel 15
+# 2\. Homilie über Genesis – Kapitel 15: Wachsamkeit und Dankbarkeit in Wohlstand und Bedrängnis führen zu Gottes Gunst und Zuversicht für das kommende Leben
 
 Autor: Johannes Chrysostomus
 

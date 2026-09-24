@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 24
+# Über die Sterblichkeit – Kapitel 24: Die Liebe zu Christus löst die Bindung an die vergängliche Welt
 
 Autor: Cyprian von Karthago
 

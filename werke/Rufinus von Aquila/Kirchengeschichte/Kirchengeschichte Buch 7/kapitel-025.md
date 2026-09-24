@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 25
+# Kirchengeschichte Buch 7 – Kapitel 25: Dionysius’ weitere Schriften zu kirchlichen Fragen bringen ernsthaft Lernenden großen Gewinn
 
 Autor: Rufinus von Aquila
 

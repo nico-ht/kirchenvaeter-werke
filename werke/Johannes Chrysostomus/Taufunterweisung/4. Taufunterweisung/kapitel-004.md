@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 4
+# 4\. Taufunterweisung – Kapitel 4: Wer Christus in der Taufe anzieht, soll jede Tat an seiner Gegenwart ausrichten
 
 Autor: Johannes Chrysostomus
 

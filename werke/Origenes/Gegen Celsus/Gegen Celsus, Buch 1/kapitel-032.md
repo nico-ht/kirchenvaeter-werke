@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 32
+# Gegen Celsus, Buch 1 – Kapitel 32: Jesu Wirken spricht gegen die Ehebruchsfabel und für eine seiner Seele würdige Geburt
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 16
+# 11\. Taufunterweisung – Kapitel 16: Die bezeugte irdische Geburt Christi soll den Glauben festigen und setzt ihn zugleich voraus
 
 Autor: Johannes Chrysostomus
 

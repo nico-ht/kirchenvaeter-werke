@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 40
+# 1\. Apologie – Kapitel 40: Davids Psalmen kündigen Christi Herrschaft trotz feindlicher Verschwörung an und mahnen zur Umkehr vor dem Gericht
 
 Autor: Justin der Märtyrer
 

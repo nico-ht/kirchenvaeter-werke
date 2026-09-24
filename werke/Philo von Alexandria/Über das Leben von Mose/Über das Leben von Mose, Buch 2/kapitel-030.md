@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 30
+# Über das Leben von Mose, Buch 2 – Kapitel 30: Himmlisches Feuer bezeugt Gottes Wirken bei der Priesterweihe und trennt Heiliges von Profanem
 
 Autor: Philo von Alexandria
 

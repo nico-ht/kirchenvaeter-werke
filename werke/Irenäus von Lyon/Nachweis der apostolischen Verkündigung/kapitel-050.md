@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 50
+# Nachweis der apostolischen Verkündigung – Kapitel 50: Christus spricht durch Jesaja als Gottes Knecht, der Israel sammelt und den Völkern Heil bringt
 
 Autor: Irenäus von Lyon
 

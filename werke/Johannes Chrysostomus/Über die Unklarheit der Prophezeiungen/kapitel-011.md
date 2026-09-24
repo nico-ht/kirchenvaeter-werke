@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 11
+# Über die Unklarheit der Prophezeiungen – Kapitel 11: Das gemeinsame Gebet der Kirche schützt stärker als das Gebet des Einzelnen
 
 Autor: Johannes Chrysostomus
 

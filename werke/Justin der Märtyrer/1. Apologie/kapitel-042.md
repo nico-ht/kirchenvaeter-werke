@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 42
+# 1\. Apologie – Kapitel 42: Der prophetische Geist verkündet Zukünftiges als bereits geschehen, weil er dessen Erfüllung sicher weiß
 
 Autor: Justin der Märtyrer
 

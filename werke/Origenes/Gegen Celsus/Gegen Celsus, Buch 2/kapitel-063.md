@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 63
+# Gegen Celsus, Buch 2 – Kapitel 63: Dass der Auferstandene nicht mehr allen erschien, ist biblisch bezeugt und birgt tiefe Geheimnisse
 
 Autor: Origenes
 

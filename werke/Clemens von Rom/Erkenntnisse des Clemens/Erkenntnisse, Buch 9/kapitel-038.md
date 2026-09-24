@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 38
+# Erkenntnisse, Buch 9 – Kapitel 38: Die Befreiung der Tochter vom Dämon bewegt Petrus, die Gastfreundschaft ihrer Familie anzunehmen
 
 Autor: Clemens von Rom
 

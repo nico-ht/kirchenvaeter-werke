@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 46
+# Gegen Celsus, Buch 1 – Kapitel 46: Wunder und Bekehrungen bezeugen das fortdauernde Wirken des bei Jesu Taufe erschienenen Heiligen Geistes
 
 Autor: Origenes
 

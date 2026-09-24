@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 10
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 10: Die Aufrührer missachten Freisprüche und machen Geld statt Schuld zum Maßstab für Leben und Tod
 
 Autor: Unbekannt
 

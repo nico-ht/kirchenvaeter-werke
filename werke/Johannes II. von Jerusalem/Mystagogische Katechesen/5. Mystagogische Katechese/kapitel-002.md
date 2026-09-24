@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 2
+# 5\. Mystagogische Katechese – Kapitel 2: Die Händewaschung am Altar zeigt, dass unsere Taten frei von Sünde sein müssen
 
 Autor: Johannes II\. von Jerusalem
 

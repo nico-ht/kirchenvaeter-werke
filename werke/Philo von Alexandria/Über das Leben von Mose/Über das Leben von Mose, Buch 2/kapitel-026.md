@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 26
+# Über das Leben von Mose, Buch 2 – Kapitel 26: Warum der Hohepriester die Welt im Gewand und als Vorbild im Geist tragen soll
 
 Autor: Philo von Alexandria
 

@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 17
+# Über die Unklarheit der Prophezeiungen – Kapitel 17: Wahre Vorwürfe gehören ins vertrauliche Gespräch, denn öffentliche Anklage führt andere zu Fall
 
 Autor: Johannes Chrysostomus
 

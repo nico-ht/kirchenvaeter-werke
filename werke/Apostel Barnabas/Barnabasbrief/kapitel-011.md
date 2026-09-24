@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 11
+# Barnabasbrief – Kapitel 11: Wasser und Kreuz verheißen Vergebung und neues Leben in der Taufe
 
 Autor: Apostel Barnabas
 

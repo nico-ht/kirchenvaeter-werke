@@ -1,4 +1,4 @@
-# Der Hirte des Hermas, Buch 1 – Kapitel 2
+# Der Hirte des Hermas, Buch 1 – Kapitel 2: Die Heiligen haben nur begrenzte Zeit zur Umkehr und müssen in der kommenden Bedrängnis Christus treu bleiben
 
 Autor: Hermas
 

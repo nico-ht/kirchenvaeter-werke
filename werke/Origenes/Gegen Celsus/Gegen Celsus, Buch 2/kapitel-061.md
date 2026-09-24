@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 61
+# Gegen Celsus, Buch 2 – Kapitel 61: Jesus fordert Thomas auf, seine Wunden zu berühren, und bezeugt damit seine leibliche Auferstehung
 
 Autor: Origenes
 

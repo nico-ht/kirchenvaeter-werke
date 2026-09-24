@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 14
+# Erkenntnisse, Buch 9 – Kapitel 14: Wie der Verstand durch himmlische Erkenntnis und den Gedanken an das Gericht die Begierden bezwingt
 
 Autor: Clemens von Rom
 

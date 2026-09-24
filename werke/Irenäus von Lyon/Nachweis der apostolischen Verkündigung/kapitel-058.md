@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 58
+# Nachweis der apostolischen Verkündigung – Kapitel 58: Mose kündigt Christus als König aus Israel an, dessen Geburt der Stern den Magiern offenbart
 
 Autor: Irenäus von Lyon
 

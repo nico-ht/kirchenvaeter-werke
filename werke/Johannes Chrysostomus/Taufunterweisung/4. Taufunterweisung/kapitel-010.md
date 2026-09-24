@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 10
+# 4\. Taufunterweisung – Kapitel 10: Paulus antwortet auf Gottes Gnade mit unermüdlichem Eifer und empfängt weitere Hilfe
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 11
+# Ansprache an die Griechen – Kapitel 11: Begierden sind kein Schicksal: Wir können die selbstverschuldete Knechtschaft der Sünde überwinden
 
 Autor: Tatian
 

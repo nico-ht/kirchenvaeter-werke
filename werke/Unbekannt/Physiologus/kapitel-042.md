@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 42
+# Physiologus – Kapitel 42: Wenn schon der Strauß zum Himmel blickt, sollen wir erst recht das Irdische vergessen und Himmlisches suchen
 
 Autor: Unbekannt
 

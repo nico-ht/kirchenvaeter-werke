@@ -1,4 +1,4 @@
-# 2\. Homilie über Genesis – Kapitel 2
+# 2\. Homilie über Genesis – Kapitel 2: Fasten beruhigt den Geist und macht ihn für die tiefere Auslegung der Heiligen Schrift empfänglich
 
 Autor: Johannes Chrysostomus
 

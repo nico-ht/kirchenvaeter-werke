@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 22
+# 11\. Taufunterweisung – Kapitel 22: Kniend erkennt ihr Gottes Herrschaft an und widersagt Satan
 
 Autor: Johannes Chrysostomus
 

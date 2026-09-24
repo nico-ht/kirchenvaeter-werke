@@ -1,4 +1,4 @@
-# 68\. Homilie über Matthäus – Kapitel 5
+# 68\. Homilie über Matthäus – Kapitel 5: Wer das Leben der Mönche ersehnt, soll sie ohne Aufschub aufsuchen und Gott die Sorge ums Haus überlassen
 
 Autor: Johannes Chrysostomus
 

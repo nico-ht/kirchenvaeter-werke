@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 2
+# Gegen Celsus, Buch 2 – Kapitel 2: Warum Jesus die geistliche Auslegung des Gesetzes dem späteren Wirken des Geistes überließ
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 23
+# Physiologus – Kapitel 23: Der Achat bleibt bei der Perle stehen und weist so den Tauchern den Weg
 
 Autor: Unbekannt
 

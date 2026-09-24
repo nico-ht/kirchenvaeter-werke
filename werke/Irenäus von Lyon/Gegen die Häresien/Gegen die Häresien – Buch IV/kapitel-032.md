@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 32
+# Gegen die Häresien – Buch IV – Kapitel 32: Der Glaube an den einen Schöpfer erschließt die Einheit der Schrift und den ersten Bund als Vorbereitung
 
 Autor: Irenäus von Lyon
 

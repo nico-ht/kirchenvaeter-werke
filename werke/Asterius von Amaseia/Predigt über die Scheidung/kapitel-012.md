@@ -1,4 +1,4 @@
-# Predigt über die Scheidung – Kapitel 12
+# Predigt über die Scheidung – Kapitel 12: Ehebruch rechtfertigt die Trennung, weil er Liebe zerstört und die Abstammung der Kinder zweifelhaft macht
 
 Autor: Asterius von Amaseia
 

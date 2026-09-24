@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 13
+# Erkenntnisse, Buch 9 – Kapitel 13: Warum Gott manche Sünder schon jetzt bestraft, böswillige und unbußfertige aber erst im ewigen Feuer
 
 Autor: Clemens von Rom
 

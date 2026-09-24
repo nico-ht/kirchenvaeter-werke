@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 5
+# Über die Einheit der Kirche – Kapitel 5: Die Kirche bleibt trotz weltweiter Ausbreitung ebenso ungeteilt wie das Bischofsamt
 
 Autor: Cyprian von Karthago
 

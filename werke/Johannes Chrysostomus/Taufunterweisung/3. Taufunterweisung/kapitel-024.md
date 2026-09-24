@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 24
+# 3\. Taufunterweisung  – Kapitel 24: Eure Befreiung von Teufel und Sünde übertrifft Israels Befreiung aus Ägypten
 
 Autor: Johannes Chrysostomus
 

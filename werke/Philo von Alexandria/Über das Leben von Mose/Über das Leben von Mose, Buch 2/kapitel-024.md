@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 24
+# Über das Leben von Mose, Buch 2 – Kapitel 24: Die Kleidung des Hohepriesters bildet die Welt und die harmonische Ordnung ihrer Teile ab
 
 Autor: Philo von Alexandria
 

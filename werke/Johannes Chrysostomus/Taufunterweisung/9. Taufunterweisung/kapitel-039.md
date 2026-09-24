@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 39
+# 9\. Taufunterweisung  – Kapitel 39: Auch wahre Eide sind verboten: Die Würde des Schwörenden steht nicht über dem Gesetz des Königs
 
 Autor: Johannes Chrysostomus
 

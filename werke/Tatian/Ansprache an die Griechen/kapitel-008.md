@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 8
+# Ansprache an die Griechen – Kapitel 8: Warum Götter, die selbst dem Schicksal und ihren Leidenschaften unterliegen, keine Verehrung verdienen
 
 Autor: Tatian
 

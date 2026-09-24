@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 24
+# Gegen die Häresien – Buch IV – Kapitel 24: Paulus müht sich mehr um die Heiden, doch ihr Glaube ohne Schriftunterweisung erweist sich als edler
 
 Autor: Irenäus von Lyon
 

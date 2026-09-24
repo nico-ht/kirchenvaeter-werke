@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 11
+# Diskurs über das Heil einer Jungfrau – Kapitel 11: Weil ihr Leib Gottes Tempel ist, soll die Jungfrau ihn schlicht kleiden und vor unnötiger Entblößung schützen
 
 Autor: Athanasius
 

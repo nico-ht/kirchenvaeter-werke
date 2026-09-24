@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 22
+# Erkenntnisse, Buch 8 – Kapitel 22: Sternbahnen und Sonnenlauf geben dem Jahr eine feste Ordnung
 
 Autor: Clemens von Rom
 

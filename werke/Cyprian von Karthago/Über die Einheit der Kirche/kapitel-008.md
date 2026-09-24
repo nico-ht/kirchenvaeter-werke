@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 8
+# Über die Einheit der Kirche – Kapitel 8: Die Kirche ist das eine Haus der Gläubigen – wer sich von ihr trennt, kann nicht leben
 
 Autor: Cyprian von Karthago
 

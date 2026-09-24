@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 40
+# Gegen Celsus, Buch 2 – Kapitel 40: Jesu Überlegenheit liegt in Heilslehre und reiner Moral; sein Tod ist ein Vorbild für mutige Frömmigkeit
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# 4\. Mystagogische Katechese – Kapitel 2
+# 4\. Mystagogische Katechese – Kapitel 2: Warum Christi Weinwunder in Kana die Gabe seines Leibes und Blutes glaubwürdig macht
 
 Autor: Johannes II\. von Jerusalem
 

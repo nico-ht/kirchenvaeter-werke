@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 18
+# Erkenntnisse, Buch 8 – Kapitel 18: Atome erklären weder den Halt des Himmels noch den Grund der Welt
 
 Autor: Clemens von Rom
 

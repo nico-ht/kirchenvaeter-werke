@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 29
+# Gegen die Häresien – Buch IV – Kapitel 29: Gott verhärtet Pharaos Herz, indem er ihn wie die Ungläubigen im Evangelium seinem selbst gewählten Unglauben überlässt
 
 Autor: Irenäus von Lyon
 

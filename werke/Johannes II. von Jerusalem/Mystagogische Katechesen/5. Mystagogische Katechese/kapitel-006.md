@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 6
+# 5\. Mystagogische Katechese – Kapitel 6: Wir sprechen das „Heilig, heilig, heilig“, um am Lobgesang der himmlischen Heerscharen teilzuhaben
 
 Autor: Johannes II\. von Jerusalem
 

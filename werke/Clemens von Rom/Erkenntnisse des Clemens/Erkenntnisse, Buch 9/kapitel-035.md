@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 35
+# Erkenntnisse, Buch 9 – Kapitel 35: Petrus enthüllt die Verwandtschaft und führt Faustinianus mit seinen drei Söhnen zusammen
 
 Autor: Clemens von Rom
 

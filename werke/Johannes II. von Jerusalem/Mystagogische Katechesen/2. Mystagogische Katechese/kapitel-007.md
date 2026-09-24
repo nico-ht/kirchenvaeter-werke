@@ -1,4 +1,4 @@
-# 2\. Mystagogische Katechese – Kapitel 7
+# 2\. Mystagogische Katechese – Kapitel 7: Christus starb wirklich; die Taufe verbindet uns mit dem Gleichbild seines Todes und schenkt wahres Heil
 
 Autor: Johannes II\. von Jerusalem
 

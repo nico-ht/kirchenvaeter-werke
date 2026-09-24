@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 20
+# Ansprache an die Griechen – Kapitel 20: Die Seele kann den durch Sünde verlorenen Geist wiedererlangen und zur himmlischen Gemeinschaft zurückkehren
 
 Autor: Tatian
 

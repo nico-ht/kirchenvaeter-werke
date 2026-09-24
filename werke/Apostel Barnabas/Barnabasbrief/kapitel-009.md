@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 9
+# Barnabasbrief – Kapitel 9: Die wahre Beschneidung öffnet Herz und Ohren für Gottes Wort
 
 Autor: Apostel Barnabas
 

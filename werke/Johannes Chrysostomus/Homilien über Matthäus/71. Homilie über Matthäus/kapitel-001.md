@@ -1,4 +1,4 @@
-# 71\. Homilie über Matthäus – Kapitel 1
+# 71\. Homilie über Matthäus – Kapitel 1: Christus verbindet Gottes\- und Nächstenliebe und bereitet das Bekenntnis zu seiner Gottheit vor
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 9
+# Gegen die Häresien – Buch IV – Kapitel 9: Ein und derselbe Gott führt durch die aufeinanderfolgenden Bünde zur vollkommenen Rettung
 
 Autor: Irenäus von Lyon
 

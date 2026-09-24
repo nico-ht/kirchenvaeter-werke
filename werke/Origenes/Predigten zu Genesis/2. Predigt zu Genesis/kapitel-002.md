@@ -1,4 +1,4 @@
-# 2\. Predigt zu Genesis – Kapitel 2
+# 2\. Predigt zu Genesis – Kapitel 2: Das geometrische Ellenmaß entkräftet Apelles’ Einwand, die Arche sei zu klein für alle Tiere
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# 24\. Homilie über Matthäus – Kapitel 4
+# 24\. Homilie über Matthäus – Kapitel 4: Tugend macht Verfolgte stark, Schlechtigkeit lässt selbst Mächtige zittern
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 13
+# Über die Unklarheit der Prophezeiungen – Kapitel 13: Die Erinnerung an Erde und Asche dämpft Hochmut und verhilft zur Demut
 
 Autor: Johannes Chrysostomus
 

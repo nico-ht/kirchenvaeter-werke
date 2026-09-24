@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 12
+# 3\. Taufunterweisung  – Kapitel 12: Das Mahl des Herrn stärkt im Kampf gegen das Böse und schlägt den Teufel in die Flucht
 
 Autor: Johannes Chrysostomus
 

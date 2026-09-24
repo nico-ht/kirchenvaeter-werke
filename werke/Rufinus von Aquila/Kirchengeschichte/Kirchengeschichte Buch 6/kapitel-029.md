@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 29
+# Kirchengeschichte Buch 6 – Kapitel 29: Eine Taube weist der Überlieferung nach Fabian als den von Gott bestimmten Bischof von Rom aus
 
 Autor: Rufinus von Aquila
 

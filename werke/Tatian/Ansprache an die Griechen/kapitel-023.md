@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 23
+# Ansprache an die Griechen – Kapitel 23: Gladiatorenkämpfe nähren die Seele der Zuschauer mit dem Blut gekaufter Menschen
 
 Autor: Tatian
 

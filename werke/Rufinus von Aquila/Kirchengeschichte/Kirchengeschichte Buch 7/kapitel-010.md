@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 10
+# Kirchengeschichte Buch 7 – Kapitel 10: Dionysius gewinnt im Exil Heiden für Christus; Diakone versorgen gefangene Bekenner trotz Besuchsverbots
 
 Autor: Rufinus von Aquila
 

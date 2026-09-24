@@ -1,4 +1,4 @@
-# 1\. Brief über die Jungfräulichkeit – Kapitel 13
+# 1\. Brief über die Jungfräulichkeit – Kapitel 13: Gottes Ernte braucht Arbeiter wie die Apostel, die das Heil der Menschen suchen und nicht den eigenen Gewinn
 
 Autor: Clemens von Rom
 

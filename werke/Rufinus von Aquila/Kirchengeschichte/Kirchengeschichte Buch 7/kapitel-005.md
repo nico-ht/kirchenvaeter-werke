@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 5
+# Kirchengeschichte Buch 7 – Kapitel 5: Dionysius hält Stephanus’ Gemeinschaftsverbot das Ansehen der wiedertaufenden Bischöfe entgegen
 
 Autor: Rufinus von Aquila
 

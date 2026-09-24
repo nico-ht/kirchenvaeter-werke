@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 98
+# Nachweis der apostolischen Verkündigung – Kapitel 98: Die Kirche überliefert den Weg des Heils, an dem wir mit Gewissheit und guten Werken festhalten sollen
 
 Autor: Irenäus von Lyon
 

@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 39
+# Kirchengeschichte Buch 6 – Kapitel 39: Unter Decius sterben Bischöfe als Märtyrer, während Origenes schwerste Foltern überlebt
 
 Autor: Rufinus von Aquila
 

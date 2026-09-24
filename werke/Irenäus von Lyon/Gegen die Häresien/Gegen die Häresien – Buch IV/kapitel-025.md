@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 25
+# Gegen die Häresien – Buch IV – Kapitel 25: Mit Christus kehrt Abrahams Glaube ohne Beschneidung wieder; das Gesetz gehört zur Zwischenzeit
 
 Autor: Irenäus von Lyon
 

@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 17
+# 1\. Apologie – Kapitel 17: Christen zahlen Steuern und dienen den Herrschern, verehren jedoch allein Gott
 
 Autor: Justin der Märtyrer
 

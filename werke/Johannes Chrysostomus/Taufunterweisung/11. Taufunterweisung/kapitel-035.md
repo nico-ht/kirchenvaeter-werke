@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 35
+# 11\. Taufunterweisung – Kapitel 35: Den Bund mit Christus lebenslang rein bewahren, um dem himmlischen König in Herrlichkeit zu begegnen
 
 Autor: Johannes Chrysostomus
 

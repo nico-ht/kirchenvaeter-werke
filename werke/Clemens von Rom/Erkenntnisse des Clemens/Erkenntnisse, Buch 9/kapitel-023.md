@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 23
+# Erkenntnisse, Buch 9 – Kapitel 23: Warum die unterschiedlichen Sitten der Völker nicht durch Gestirnstellungen erklärt werden können
 
 Autor: Clemens von Rom
 

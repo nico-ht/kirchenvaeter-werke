@@ -1,4 +1,4 @@
-# 9\. Predigt zu Genesis – Kapitel 1
+# 9\. Predigt zu Genesis – Kapitel 1: Warum die zweite Verheißung an Abraham durch Christi Leiden für das gläubige Volk feststeht
 
 Autor: Origenes
 

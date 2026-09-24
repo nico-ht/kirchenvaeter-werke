@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 23
+# 9\. Taufunterweisung  – Kapitel 23: Das Zerbrechen des Tongefäßes im Psalm weist auf die mystische Reinigung der Kirche aus den Völkern hin
 
 Autor: Johannes Chrysostomus
 

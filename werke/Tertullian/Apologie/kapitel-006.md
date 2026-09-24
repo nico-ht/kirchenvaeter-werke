@@ -1,4 +1,4 @@
-# Apologie – Kapitel 6
+# Apologie – Kapitel 6: Die Verteidiger der Vätertradition missachten selbst die überlieferten Sitten und religiösen Beschlüsse
 
 Autor: Tertullian
 

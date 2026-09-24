@@ -1,4 +1,4 @@
-# Brief 69 – Kapitel 2
+# Brief 69 – Kapitel 2: Männer und Frauen sollen im Aussehen die von der Natur gesetzten Unterschiede wahren
 
 Autor: Ambrosius von Mailand
 

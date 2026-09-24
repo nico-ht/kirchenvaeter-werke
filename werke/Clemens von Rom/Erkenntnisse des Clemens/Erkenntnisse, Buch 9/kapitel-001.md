@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 1
+# Erkenntnisse, Buch 9 – Kapitel 1: Nur der wahre Prophet erschließt Gottes Plan; Künste und Wissenschaften vermitteln auch menschliche Lehrer
 
 Autor: Clemens von Rom
 

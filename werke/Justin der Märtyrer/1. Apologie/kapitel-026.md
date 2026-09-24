@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 26
+# 1\. Apologie – Kapitel 26: Auch die Anhänger dämonisch inspirierter Irrlehrer heißen Christen, werden aber nicht verfolgt
 
 Autor: Justin der Märtyrer
 

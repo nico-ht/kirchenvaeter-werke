@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 30
+# Erkenntnisse, Buch 8 – Kapitel 30: Atem und Blut versorgen den Körper durch das abgestimmte Wirken seiner Organe
 
 Autor: Clemens von Rom
 

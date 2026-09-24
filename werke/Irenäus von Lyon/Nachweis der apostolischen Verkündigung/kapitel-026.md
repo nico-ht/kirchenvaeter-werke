@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 26
+# Nachweis der apostolischen Verkündigung – Kapitel 26: Mose ordnet Israels Gottesdienst und errichtet das Heiligtum als Abbild der Kirche
 
 Autor: Irenäus von Lyon
 

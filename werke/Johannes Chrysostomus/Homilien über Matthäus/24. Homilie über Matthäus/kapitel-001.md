@@ -1,4 +1,4 @@
-# 24\. Homilie über Matthäus – Kapitel 1
+# 24\. Homilie über Matthäus – Kapitel 1: Weder Glaube noch Wundertaten retten ohne ein tugendhaftes Leben
 
 Autor: Johannes Chrysostomus
 

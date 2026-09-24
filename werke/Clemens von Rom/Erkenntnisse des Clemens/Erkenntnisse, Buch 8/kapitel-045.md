@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 45
+# Erkenntnisse, Buch 8 – Kapitel 45: Himmelszeichen ordnen die Jahreszeiten und können zugleich Verderben bringen
 
 Autor: Clemens von Rom
 

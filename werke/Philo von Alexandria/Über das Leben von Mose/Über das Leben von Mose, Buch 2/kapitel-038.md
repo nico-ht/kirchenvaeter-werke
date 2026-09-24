@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 38
+# Über das Leben von Mose, Buch 2 – Kapitel 38: Aus Ehrfurcht vor Gottes Namen dürfen auch vermeintliche Götter nicht geschmäht werden
 
 Autor: Philo von Alexandria
 

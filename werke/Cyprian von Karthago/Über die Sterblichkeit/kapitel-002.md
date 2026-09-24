@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 2
+# Über die Sterblichkeit – Kapitel 2: Die angekündigten Seuchen weisen auf das nahe Gottesreich und seine Verheißung hin
 
 Autor: Cyprian von Karthago
 

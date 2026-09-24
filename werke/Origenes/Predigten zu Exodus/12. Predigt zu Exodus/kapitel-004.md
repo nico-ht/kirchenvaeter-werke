@@ -1,4 +1,4 @@
-# 12\. Predigt zu Exodus – Kapitel 4
+# 12\. Predigt zu Exodus – Kapitel 4: Wer sich zum Herrn als Geist wendet, findet geistliches Verständnis und Freiheit von weltlichen Bindungen
 
 Autor: Origenes
 

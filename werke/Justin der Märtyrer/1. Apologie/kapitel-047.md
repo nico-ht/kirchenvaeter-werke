@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 47
+# 1\. Apologie – Kapitel 47: Jerusalems Verwüstung und das Zutrittsverbot für Juden erfüllen Jesajas Prophezeiung
 
 Autor: Justin der Märtyrer
 

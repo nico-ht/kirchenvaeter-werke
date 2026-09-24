@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 9
+# Gegen die Häresien – Buch I – Kapitel 9: Johannes bezeugt den einen Christus, dessen Namen die Irrlehrer auf verschiedene Äonen verteilen
 
 Autor: Irenäus von Lyon
 

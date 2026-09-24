@@ -1,4 +1,4 @@
-# 36\. Homilie über Matthäus – Kapitel 4
+# 36\. Homilie über Matthäus – Kapitel 4: Wer Gottes Gericht tadelt, soll die eigene Schuld am Leib Christi prüfen
 
 Autor: Johannes Chrysostomus
 

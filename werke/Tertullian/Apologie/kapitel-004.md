@@ -1,4 +1,4 @@
-# Apologie – Kapitel 4
+# Apologie – Kapitel 4: Gesetze gegen Christen sind nicht unantastbar, sondern müssen sich auf ihre Gerechtigkeit prüfen lassen
 
 Autor: Tertullian
 

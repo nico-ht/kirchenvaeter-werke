@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 28
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 28: Vespasian lässt Josephus’ Ketten zerbrechen als Zeichen der Vergebung für Juden, die umkehren und Frieden erbitten
 
 Autor: Unbekannt
 

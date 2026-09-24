@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 52
+# 1\. Apologie – Kapitel 52: Erfüllte Weissagungen verbürgen die Auferstehung aller Menschen und das ewige Gericht bei Christi Wiederkunft
 
 Autor: Justin der Märtyrer
 

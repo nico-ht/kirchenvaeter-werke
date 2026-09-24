@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 5
+# Gegen die Häresien – Buch IV – Kapitel 5: Christus ist mit dem Vater der Gott der Lebenden, dem schon Abraham im Glauben folgte
 
 Autor: Irenäus von Lyon
 

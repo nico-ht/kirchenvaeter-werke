@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 11
+# Erkenntnisse, Buch 9 – Kapitel 11: Wer fest an das kommende Gericht glaubt, zügelt aus Furcht seine sündigen Begierden
 
 Autor: Clemens von Rom
 

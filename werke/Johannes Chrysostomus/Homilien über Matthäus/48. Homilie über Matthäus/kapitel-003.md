@@ -1,4 +1,4 @@
-# 48\. Homilie über Matthäus – Kapitel 3
+# 48\. Homilie über Matthäus – Kapitel 3: Wie Tanz und Trunkenheit Herodes zum Mord an Johannes treiben, der seine gesetzeswidrige Ehe tadelt
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 2
+# Kirchengeschichte Buch 6 – Kapitel 2: Schon in seiner Jugend verbindet Origenes eifriges Schriftstudium mit unbeirrbarer Glaubenstreue
 
 Autor: Rufinus von Aquila
 

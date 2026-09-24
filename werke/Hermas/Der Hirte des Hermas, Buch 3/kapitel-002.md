@@ -1,4 +1,4 @@
-# Der Hirte des Hermas, Buch 3 – Kapitel 2
+# Der Hirte des Hermas, Buch 3 – Kapitel 2: Der Reiche unterstützt den Armen, dessen Gebet wiederum den Reichen stärkt
 
 Autor: Hermas
 

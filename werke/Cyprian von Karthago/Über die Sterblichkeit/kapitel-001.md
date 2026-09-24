@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 1
+# Über die Sterblichkeit – Kapitel 1: Die vielen Todesfälle fordern einen Glauben, der sich in der Bedrängnis bewährt
 
 Autor: Cyprian von Karthago
 

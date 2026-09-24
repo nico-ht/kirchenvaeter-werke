@@ -1,4 +1,4 @@
-# Schrift 5 \- Enthaltsamkeit – Kapitel 3
+# Schrift 5 \- Enthaltsamkeit – Kapitel 3: Marias bleibende Jungfräulichkeit ist die höchste Ehre, die ihr der Gottessohn gewährt
 
 Autor: Zeno von Verona
 

@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 19
+# Gegen Celsus, Buch 2 – Kapitel 19: Das Eintreten von Verrat und Verleugnung bestätigt Jesu Vorhersagen, statt sie zu widerlegen
 
 Autor: Origenes
 

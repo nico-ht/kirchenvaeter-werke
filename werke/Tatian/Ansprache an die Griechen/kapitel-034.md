@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 34
+# Ansprache an die Griechen – Kapitel 34: Künstlerische Meisterschaft macht Denkmäler des Unrechts und der Unzucht nicht bewundernswert
 
 Autor: Tatian
 

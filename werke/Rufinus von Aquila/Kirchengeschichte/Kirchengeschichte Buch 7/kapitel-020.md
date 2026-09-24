@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 20
+# Kirchengeschichte Buch 7 – Kapitel 20: Alexandrias Bürgerkrieg verwüstet die Stadt; die folgende Seuche rafft auch die Überlebenden dahin
 
 Autor: Rufinus von Aquila
 

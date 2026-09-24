@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 16
+# 5\. Mystagogische Katechese – Kapitel 16: Wer dem Nächsten geringe Schuld nicht vergibt, verschließt sich Gottes Vergebung der eigenen schweren Sünden
 
 Autor: Johannes II\. von Jerusalem
 

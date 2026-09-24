@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 17
+# Diskurs über das Heil einer Jungfrau – Kapitel 17: Tränen tilgen schwere Sünden; geschenkt werden sie nur denen, die sich vom Irdischen abwenden
 
 Autor: Athanasius
 

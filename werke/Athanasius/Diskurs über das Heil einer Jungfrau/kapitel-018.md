@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 18
+# Diskurs über das Heil einer Jungfrau – Kapitel 18: Alle mühen sich in dieser Welt, doch nur die Gerechten gelangen in die ewige Ruhe
 
 Autor: Athanasius
 

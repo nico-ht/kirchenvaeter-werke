@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 66
+# 1\. Apologie – Kapitel 66: Die Eucharistie ist nicht gewöhnliche Speise, sondern Fleisch und Blut des menschgewordenen Christus
 
 Autor: Justin der Märtyrer
 

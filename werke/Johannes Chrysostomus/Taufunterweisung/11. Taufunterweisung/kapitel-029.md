@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 29
+# 11\. Taufunterweisung – Kapitel 29: Das Taufbad übertrifft das Paradies: Hier gibt es nicht Gesetz und Gebote, sondern Gnade und Gaben
 
 Autor: Johannes Chrysostomus
 

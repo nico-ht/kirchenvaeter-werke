@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 26
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 26: Die Soldaten zwingen Vespasian zur Annahme der Kaiserwürde; in Ägypten sucht er Rückhalt gegen Vitellius
 
 Autor: Unbekannt
 

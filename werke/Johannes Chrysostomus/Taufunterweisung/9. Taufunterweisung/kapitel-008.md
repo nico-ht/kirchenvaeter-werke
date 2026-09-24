@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 8
+# 9\. Taufunterweisung  – Kapitel 8: Der Priester steht für ewiges Leben, doch die Angehörigen des Kranken fürchten ihn als Zeichen des Todes
 
 Autor: Johannes Chrysostomus
 

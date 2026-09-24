@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 35
+# Nachweis der apostolischen Verkündigung – Kapitel 35: Christus erfüllt die Verheißung an Abraham, indem er auch die Heiden durch Glauben statt durch das Gesetz rechtfertigt
 
 Autor: Irenäus von Lyon
 

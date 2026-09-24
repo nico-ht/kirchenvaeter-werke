@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 65
+# 1\. Apologie – Kapitel 65: Die Gemeinde nimmt den Getauften in ihr gemeinsames Gebet und eucharistisches Mahl auf
 
 Autor: Justin der Märtyrer
 

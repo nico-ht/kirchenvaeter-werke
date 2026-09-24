@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 14
+# Kirchengeschichte Buch 6 – Kapitel 14: Clemens schreibt den Hebräerbrief Paulus zu und berichtet, wie die vier Evangelien entstanden
 
 Autor: Rufinus von Aquila
 

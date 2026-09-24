@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 44
+# 9\. Taufunterweisung  – Kapitel 44: Wer andere wegen des Schwörens zurechtweist, wird selbst weniger leicht in diese Sünde fallen
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 48
+# Physiologus – Kapitel 48: Wenn schon der Magnet Eisen schweben lässt, wie viel mächtiger ist dann der Schöpfer des Himmels?
 
 Autor: Unbekannt
 

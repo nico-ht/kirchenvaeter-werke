@@ -1,4 +1,4 @@
-# 41\. Homilie über Matthäus – Kapitel 1
+# 41\. Homilie über Matthäus – Kapitel 1: Christus widerlegt den Beelzebulvorwurf sanftmütig: Satans Zwietracht würde seine Macht zerstören
 
 Autor: Johannes Chrysostomus
 

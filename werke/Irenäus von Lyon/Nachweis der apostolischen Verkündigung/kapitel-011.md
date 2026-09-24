@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 11
+# Nachweis der apostolischen Verkündigung – Kapitel 11: Der Mensch ist durch Formung und Lebensatem Gott ähnlich und zum freien Herrscher der Erde bestimmt
 
 Autor: Irenäus von Lyon
 

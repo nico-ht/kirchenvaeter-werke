@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 20
+# Über die Sterblichkeit – Kapitel 20: Die Verstorbenen sind uns vorausgegangen und dürfen nicht wie Verlorene betrauert werden
 
 Autor: Cyprian von Karthago
 

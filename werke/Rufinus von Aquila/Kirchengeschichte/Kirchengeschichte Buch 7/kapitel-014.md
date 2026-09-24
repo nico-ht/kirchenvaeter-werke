@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 14
+# Kirchengeschichte Buch 7 – Kapitel 14: Astyrius’ Gebet zu Christus entlarvt das vermeintliche Opferwunder in Paneas und beendet den Betrug
 
 Autor: Rufinus von Aquila
 

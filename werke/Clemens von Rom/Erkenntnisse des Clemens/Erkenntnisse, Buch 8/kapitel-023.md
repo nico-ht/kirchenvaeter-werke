@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 23
+# Erkenntnisse, Buch 8 – Kapitel 23: Berge, Winde und Nil dienen der Fruchtbarkeit und bewahren die Menschen vor Verderbnis
 
 Autor: Clemens von Rom
 

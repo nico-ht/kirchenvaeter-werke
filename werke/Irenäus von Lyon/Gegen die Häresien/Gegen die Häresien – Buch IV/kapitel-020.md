@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 20
+# Gegen die Häresien – Buch IV – Kapitel 20: Das Wort offenbart in prophetischen Bildern den unsichtbaren Vater und bereitet auf die lebenspendende Gottesschau vor
 
 Autor: Irenäus von Lyon
 

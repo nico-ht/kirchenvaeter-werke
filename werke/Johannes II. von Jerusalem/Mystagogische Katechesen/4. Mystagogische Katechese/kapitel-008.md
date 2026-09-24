@@ -1,4 +1,4 @@
-# 4\. Mystagogische Katechese – Kapitel 8
+# 4\. Mystagogische Katechese – Kapitel 8: Wer die Gnade empfangen hat, soll stets die geistlichen weißen Gewänder des Heils tragen
 
 Autor: Johannes II\. von Jerusalem
 

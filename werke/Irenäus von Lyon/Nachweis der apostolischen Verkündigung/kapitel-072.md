@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 72
+# Nachweis der apostolischen Verkündigung – Kapitel 72: Wie die Propheten Christi versöhnenden Tod und seine Auferstehung zur Unsterblichkeit ankündigen
 
 Autor: Irenäus von Lyon
 

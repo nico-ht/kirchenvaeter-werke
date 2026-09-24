@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 32
+# Gegen Celsus, Buch 2 – Kapitel 32: Weder Armut noch Unkenntnis der eigenen Herkunft schließen Marias Abstammung von jüdischen Königen aus
 
 Autor: Origenes
 

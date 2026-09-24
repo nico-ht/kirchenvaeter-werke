@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 15
+# 1\. Apologie – Kapitel 15: Christus fordert Reinheit bis in die Gedanken und Liebe ohne Verlangen nach Gegenleistung oder Ruhm
 
 Autor: Justin der Märtyrer
 

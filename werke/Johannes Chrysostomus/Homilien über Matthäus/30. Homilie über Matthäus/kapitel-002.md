@@ -1,4 +1,4 @@
-# 30\. Homilie über Matthäus – Kapitel 2
+# 30\. Homilie über Matthäus – Kapitel 2: Warum Christus mit Sündern Mahl hält: Die Kranken brauchen den Arzt
 
 Autor: Johannes Chrysostomus
 

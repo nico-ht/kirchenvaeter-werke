@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 16
+# Gegen die Häresien – Buch I – Kapitel 16: Die Zahlenspekulation der Äonenlehre entstellt Gottes Heilsordnung und würdigt den Schöpfer herab
 
 Autor: Irenäus von Lyon
 

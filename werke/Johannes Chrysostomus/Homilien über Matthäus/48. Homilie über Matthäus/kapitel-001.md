@@ -1,4 +1,4 @@
-# 48\. Homilie über Matthäus – Kapitel 1
+# 48\. Homilie über Matthäus – Kapitel 1: Nazaret nimmt aus Neid an Jesu Herkunft Anstoß; er begrenzt seine Wunder, um die Verurteilung nicht zu verschärfen
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 76
+# Nachweis der apostolischen Verkündigung – Kapitel 76: Die Flucht der Jünger bei Jesu Gefangennahme erfüllt Sacharjas Wort von den zerstreuten Schafen
 
 Autor: Irenäus von Lyon
 

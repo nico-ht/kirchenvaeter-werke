@@ -1,4 +1,4 @@
-# Brief an die Trallianer – Kapitel 13
+# Brief an die Trallianer – Kapitel 13: Ignatius bleibt der Gemeinde auch bei Gott verbunden und vertraut auf die Treue des Vaters
 
 Autor: Ignatius von Antiochien
 

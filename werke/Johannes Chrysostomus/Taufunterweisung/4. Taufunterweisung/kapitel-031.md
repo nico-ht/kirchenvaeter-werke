@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 31
+# 4\. Taufunterweisung – Kapitel 31: Der im Glauben geschlossene Bund mit Christus lässt das Taufgewand durch täglichen Eifer heller werden
 
 Autor: Johannes Chrysostomus
 

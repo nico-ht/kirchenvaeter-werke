@@ -1,4 +1,4 @@
-# Brief an die Philipper – Kapitel 5
+# Brief an die Philipper – Kapitel 5: Weil Geldliebe zu allem Bösen führt, sollen Familien und Witwen in Glauben und Reinheit leben
 
 Autor: Polykarp
 

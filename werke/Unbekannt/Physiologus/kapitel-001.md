@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 1
+# Physiologus – Kapitel 1: Wie die drei Wesensarten des Löwen Christi Menschwerdung, Kreuzestod und Auferweckung versinnbildlichen
 
 Autor: Unbekannt
 

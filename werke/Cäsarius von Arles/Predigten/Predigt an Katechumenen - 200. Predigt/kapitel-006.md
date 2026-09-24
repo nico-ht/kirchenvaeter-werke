@@ -1,4 +1,4 @@
-# Predigt an Katechumenen \- 200\. Predigt – Kapitel 6
+# Predigt an Katechumenen \- 200\. Predigt – Kapitel 6: Getaufte, besonders Taufpaten, sollen Täuflinge durch Vorbild und Ermahnung zur Treue im Taufbund führen
 
 Autor: Cäsarius von Arles
 

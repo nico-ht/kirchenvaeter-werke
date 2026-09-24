@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 33
+# Gegen Celsus, Buch 2 – Kapitel 33: Wer die Evangelien als Anklagequelle nutzt, muss auch ihre Zeugnisse für Jesu Göttlichkeit gelten lassen
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# Der Erzieher: Buch 1 – Kapitel 9
+# Der Erzieher: Buch 1 – Kapitel 9: Gottes gerechte Zurechtweisung dient der Rettung und erweist darin seine Güte
 
 Autor: Clemens von Alexandria
 

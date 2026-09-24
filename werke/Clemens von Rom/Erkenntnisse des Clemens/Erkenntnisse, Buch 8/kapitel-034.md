@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 34
+# Erkenntnisse, Buch 8 – Kapitel 34: Der unbekannte Zeitpunkt der Schöpfung widerlegt nicht die erkennbare Hand des Schöpfers
 
 Autor: Clemens von Rom
 

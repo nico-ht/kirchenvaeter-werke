@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 15
+# Über die Einheit der Kirche – Kapitel 15: Wundertaten genügen nicht zum Heil: Wer die Kirche spaltet, verletzt das Gebot der Liebe
 
 Autor: Cyprian von Karthago
 

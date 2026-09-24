@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 3
+# Kirchengeschichte Buch 6 – Kapitel 3: Origenes gewinnt trotz Verfolgung durch Lehre und Vorbild Menschen zum Glauben und erhält das Amt der Katechese
 
 Autor: Rufinus von Aquila
 

@@ -1,4 +1,4 @@
-# Brief von Aristeas – Kapitel 8
+# Brief von Aristeas – Kapitel 8: Wer sich selbst beherrscht und allen Gutes tut, übt wahre Königsherrschaft und gewinnt Sicherheit
 
 Autor: Unbekannt
 

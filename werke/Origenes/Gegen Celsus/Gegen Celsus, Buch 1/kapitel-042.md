@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 42
+# Gegen Celsus, Buch 1 – Kapitel 42: Die Evangelien sind wie andere Geschichtsberichte unvoreingenommen und auf die Absicht ihrer Verfasser hin zu prüfen
 
 Autor: Origenes
 

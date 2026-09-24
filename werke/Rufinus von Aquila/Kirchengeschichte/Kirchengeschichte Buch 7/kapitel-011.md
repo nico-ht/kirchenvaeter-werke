@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 11
+# Kirchengeschichte Buch 7 – Kapitel 11: Priscus, Malchus und Alexander suchen das Martyrium und treten dem grausamen Richter entgegen
 
 Autor: Rufinus von Aquila
 

@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 10
+# Über die Einheit der Kirche – Kapitel 10: Gott lässt Häresien zu, damit bewährter Glaube sichtbar und treulose Verführer entlarvt werden
 
 Autor: Cyprian von Karthago
 

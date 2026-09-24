@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 7
+# Gegen Celsus, Buch 1 – Kapitel 7: Die christliche Verkündigung ist allgemein bekannt; Geheimlehren kennt auch die Philosophie
 
 Autor: Origenes
 

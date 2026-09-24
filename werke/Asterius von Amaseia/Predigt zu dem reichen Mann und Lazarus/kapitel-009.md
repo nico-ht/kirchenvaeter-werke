@@ -1,4 +1,4 @@
-# Predigt zu dem reichen Mann und Lazarus – Kapitel 9
+# Predigt zu dem reichen Mann und Lazarus – Kapitel 9: Für den Luxus ihrer Tafeln berauben die Reichen Arme und treiben Menschen in den Selbstmord
 
 Autor: Asterius von Amaseia
 

@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 37
+# Nachweis der apostolischen Verkündigung – Kapitel 37: Das Wort Gottes wird Fleisch, um den alten Ungehorsam und den Tod aufzuheben und uns Leben zu schenken
 
 Autor: Irenäus von Lyon
 

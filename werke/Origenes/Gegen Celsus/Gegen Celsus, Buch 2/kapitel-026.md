@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 26
+# Gegen Celsus, Buch 2 – Kapitel 26: Celsus kann den Jüngern nicht zugleich bewusste Fälschung und irrtümlichen Glauben an Jesu Gottheit vorwerfen
 
 Autor: Origenes
 

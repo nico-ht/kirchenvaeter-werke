@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 65
+# Gegen Celsus, Buch 2 – Kapitel 65: Selbst die Apostel konnten Jesu heller strahlende Gottheit nach der Auferstehung nur zeitweise schauen
 
 Autor: Origenes
 

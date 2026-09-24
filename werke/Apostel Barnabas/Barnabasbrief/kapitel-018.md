@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 18
+# Barnabasbrief – Kapitel 18: Zwei Wege stehen einander gegenüber: Gottes Licht und die Finsternis Satans
 
 Autor: Apostel Barnabas
 

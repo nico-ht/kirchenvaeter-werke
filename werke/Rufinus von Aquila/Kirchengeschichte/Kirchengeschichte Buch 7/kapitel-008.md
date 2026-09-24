@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 8
+# Kirchengeschichte Buch 7 – Kapitel 8: Dionysius wagt wegen der langjährigen Eucharistiegemeinschaft eines Gläubigen keine Wiedertaufe und sucht Rat
 
 Autor: Rufinus von Aquila
 

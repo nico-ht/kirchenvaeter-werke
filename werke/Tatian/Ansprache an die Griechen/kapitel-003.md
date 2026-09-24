@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 3
+# Ansprache an die Griechen – Kapitel 3: Widersprüchliche Lehren und ehrgeizige Rivalität entlarven den Weisheitsanspruch der Philosophen
 
 Autor: Tatian
 

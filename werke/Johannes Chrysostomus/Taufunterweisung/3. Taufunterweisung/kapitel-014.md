@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 14
+# 3\. Taufunterweisung  – Kapitel 14: Wie Kaiserbilder Schutz gewähren, rettete das Lammblut als Vorbild des Blutes Christi
 
 Autor: Johannes Chrysostomus
 

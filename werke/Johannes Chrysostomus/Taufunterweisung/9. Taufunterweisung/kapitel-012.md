@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 12
+# 9\. Taufunterweisung  – Kapitel 12: Die vielen Namen der Taufe sind durch das Zeugnis des Apostels Paulus belegt
 
 Autor: Johannes Chrysostomus
 

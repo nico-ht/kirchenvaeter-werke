@@ -1,4 +1,4 @@
-# 30\. Homilie über Matthäus – Kapitel 3
+# 30\. Homilie über Matthäus – Kapitel 3: Warum Christus Sünder zur Umkehr ruft und seine Jünger in seiner Gegenwart nicht fasten
 
 Autor: Johannes Chrysostomus
 

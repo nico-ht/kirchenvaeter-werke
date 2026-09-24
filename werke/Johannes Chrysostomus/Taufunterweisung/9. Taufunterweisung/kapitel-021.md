@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 21
+# 9\. Taufunterweisung  – Kapitel 21: Das Taufbad erneuert den Menschen wie ein Schmelzofen das Gefäß und tilgt jede Spur der Verunreinigung
 
 Autor: Johannes Chrysostomus
 

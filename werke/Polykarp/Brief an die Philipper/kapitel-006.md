@@ -1,4 +1,4 @@
-# Brief an die Philipper – Kapitel 6
+# Brief an die Philipper – Kapitel 6: Diakone, junge Männer und Jungfrauen sollen untadelig leben in Hoffnung auf die Auferstehung
 
 Autor: Polykarp
 

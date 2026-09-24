@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 8
+# Physiologus – Kapitel 8: Der Adler erneuert sich in Sonne und Quelle: So erneuern Christus und die Taufe den Menschen
 
 Autor: Unbekannt
 

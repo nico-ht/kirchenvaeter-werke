@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 95
+# Nachweis der apostolischen Verkündigung – Kapitel 95: Die berufenen Heiden dürfen nicht zum Gesetz zurückkehren, denn der Glaube an Christus lehrt sie die Liebe
 
 Autor: Irenäus von Lyon
 

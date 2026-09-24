@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 44
+# 1\. Apologie – Kapitel 44: Die Propheten lehren die freie Wahl zwischen Gut und Böse – auch griechische Denker schöpfen aus ihnen
 
 Autor: Justin der Märtyrer
 

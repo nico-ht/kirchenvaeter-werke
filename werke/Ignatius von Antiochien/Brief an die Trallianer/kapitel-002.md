@@ -1,4 +1,4 @@
-# Brief an die Trallianer – Kapitel 2
+# Brief an die Trallianer – Kapitel 2: Dem Bischof gebührt Gehorsam wie Christus, den Presbytern wie den Aposteln
 
 Autor: Ignatius von Antiochien
 

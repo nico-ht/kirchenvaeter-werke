@@ -1,4 +1,4 @@
-# 2\. Homilie über Matthäus – Kapitel 1
+# 2\. Homilie über Matthäus – Kapitel 1: Das Evangelium führt in Gottes Stadt – darum gilt es, gesammelt und Schritt für Schritt einzutreten
 
 Autor: Johannes Chrysostomus
 

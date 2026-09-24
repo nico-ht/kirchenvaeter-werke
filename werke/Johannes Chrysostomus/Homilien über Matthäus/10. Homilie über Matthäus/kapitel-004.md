@@ -1,4 +1,4 @@
-# 10\. Homilie über Matthäus – Kapitel 4
+# 10\. Homilie über Matthäus – Kapitel 4: Johannes’ engelgleiches Wüstenleben ist Vorzeichen der Erlösung und Aufruf zur Umkehr
 
 Autor: Johannes Chrysostomus
 

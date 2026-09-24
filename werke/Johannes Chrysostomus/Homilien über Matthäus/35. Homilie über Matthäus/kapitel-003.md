@@ -1,4 +1,4 @@
-# 35\. Homilie über Matthäus – Kapitel 3
+# 35\. Homilie über Matthäus – Kapitel 3: Armen darf Hilfe nicht wegen Faulheit verweigert werden: Auch Gott versorgt uns trotz unserer Untätigkeit im Guten
 
 Autor: Johannes Chrysostomus
 

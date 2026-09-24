@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 28
+# Nachweis der apostolischen Verkündigung – Kapitel 28: Mose erneuert das Gesetz für die neue Generation und kündigt Christus und die Berufung der Heiden an
 
 Autor: Irenäus von Lyon
 

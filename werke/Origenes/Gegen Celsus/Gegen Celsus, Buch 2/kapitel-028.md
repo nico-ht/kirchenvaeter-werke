@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 28
+# Gegen Celsus, Buch 2 – Kapitel 28: Celsus’ Jude müsste jede Prophetie auslegen, statt ihren Bezug auf Jesus pauschal zu bestreiten
 
 Autor: Origenes
 

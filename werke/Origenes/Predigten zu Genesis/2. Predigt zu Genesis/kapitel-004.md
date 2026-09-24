@@ -1,4 +1,4 @@
-# 2\. Predigt zu Genesis – Kapitel 4
+# 2\. Predigt zu Genesis – Kapitel 4: Die quadratischen Planken der Arche stehen für standhafte Lehrer, die Gläubige stärken und Angriffe von außen abwehren
 
 Autor: Origenes
 

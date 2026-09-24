@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 11
+# Gegen die Häresien – Buch IV – Kapitel 11: Christi Ankunft schenkt den Glaubenden reichere Gnade, offenbart aber keinen anderen Vater
 
 Autor: Irenäus von Lyon
 

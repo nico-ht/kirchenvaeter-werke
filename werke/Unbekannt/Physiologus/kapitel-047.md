@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 47
+# Physiologus – Kapitel 47: Der Salamander löscht Feuer: Wer Gott ganz vertraut und in guten Werken beharrt, bleibt im Höllenfeuer unversehrt
 
 Autor: Unbekannt
 

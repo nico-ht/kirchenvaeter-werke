@@ -1,4 +1,4 @@
-# Über öffentliche Veranstaltungen – Kapitel 1
+# Über öffentliche Veranstaltungen – Kapitel 1: Wer Schauspiele mit der Schrift rechtfertigt, verleiht dem Laster Autorität und schwächt die kirchliche Disziplin
 
 Autor: Cyprian von Karthago
 

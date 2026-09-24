@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 37
+# Gegen Celsus, Buch 1 – Kapitel 37: Naturbeispiele und griechische Überlieferungen sprechen gegen die Ablehnung der Jungfrauengeburt Jesu
 
 Autor: Origenes
 

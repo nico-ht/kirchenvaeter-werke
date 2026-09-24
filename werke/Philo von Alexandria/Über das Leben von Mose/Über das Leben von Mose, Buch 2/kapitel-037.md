@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 37
+# Über das Leben von Mose, Buch 2 – Kapitel 37: Das Nennen des Gottesnamens wiegt schwerer als das Verfluchen Gottes und wird mit dem Tod bestraft
 
 Autor: Philo von Alexandria
 

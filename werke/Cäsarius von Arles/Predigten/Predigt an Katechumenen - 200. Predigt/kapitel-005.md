@@ -1,4 +1,4 @@
-# Predigt an Katechumenen \- 200\. Predigt – Kapitel 5
+# Predigt an Katechumenen \- 200\. Predigt – Kapitel 5: Katechumenen sollen Sünde meiden und sich in Demut und Maßhalten auf die Taufe vorbereiten
 
 Autor: Cäsarius von Arles
 

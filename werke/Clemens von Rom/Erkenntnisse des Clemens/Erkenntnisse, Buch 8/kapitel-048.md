@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 48
+# Erkenntnisse, Buch 8 – Kapitel 48: Die Übel mehrten sich mit der Sünde, doch Gerechte leiden mit Gottlosen
 
 Autor: Clemens von Rom
 

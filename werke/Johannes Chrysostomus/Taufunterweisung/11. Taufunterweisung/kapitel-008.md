@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 8
+# 11\. Taufunterweisung – Kapitel 8: Das Gold der Königstochter verweist auf ihre innere, geistige Herrlichkeit
 
 Autor: Johannes Chrysostomus
 

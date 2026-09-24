@@ -1,4 +1,4 @@
-# Brief von Aristeas – Kapitel 1
+# Brief von Aristeas – Kapitel 1: Der Plan zur Übersetzung des jüdischen Gesetzes führt zum Freikauf aller versklavten Juden im Reich
 
 Autor: Unbekannt
 

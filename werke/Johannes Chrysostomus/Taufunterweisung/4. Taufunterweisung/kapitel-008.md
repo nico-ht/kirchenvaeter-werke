@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 8
+# 4\. Taufunterweisung – Kapitel 8: Gott lässt die aus Unwissenheit verirrte, gutwillige Seele nicht im Irrtum zurück
 
 Autor: Johannes Chrysostomus
 

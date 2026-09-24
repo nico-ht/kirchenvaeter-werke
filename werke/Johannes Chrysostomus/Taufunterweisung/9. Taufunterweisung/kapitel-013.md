@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 13
+# 9\. Taufunterweisung  – Kapitel 13: Jüdische Waschungen reinigen mehr als den Körper, reichen aber nicht an das Bad der Gnade heran
 
 Autor: Johannes Chrysostomus
 

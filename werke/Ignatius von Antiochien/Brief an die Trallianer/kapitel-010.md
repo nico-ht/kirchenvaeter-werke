@@ -1,4 +1,4 @@
-# Brief an die Trallianer – Kapitel 10
+# Brief an die Trallianer – Kapitel 10: Wäre Christi Leiden nur Schein, wäre Ignatius’ Märtyrertod sinnlos und sein Zeugnis eine Lüge
 
 Autor: Ignatius von Antiochien
 

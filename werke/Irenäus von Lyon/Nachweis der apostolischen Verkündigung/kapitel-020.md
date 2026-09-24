@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 20
+# Nachweis der apostolischen Verkündigung – Kapitel 20: Hams Spott über seinen Vater zieht auch seine Nachkommen in Fluch und Gericht
 
 Autor: Irenäus von Lyon
 

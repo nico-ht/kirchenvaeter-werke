@@ -1,4 +1,4 @@
-# Der Erzieher: Buch 1 – Kapitel 5
+# Der Erzieher: Buch 1 – Kapitel 5: Die Schrift nennt die Gläubigen Kinder wegen ihrer Einfalt und Unschuld, nicht wegen mangelnden Verstandes
 
 Autor: Clemens von Alexandria
 

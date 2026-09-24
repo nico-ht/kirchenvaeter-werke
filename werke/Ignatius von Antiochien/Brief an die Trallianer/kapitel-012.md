@@ -1,4 +1,4 @@
-# Brief an die Trallianer – Kapitel 12
+# Brief an die Trallianer – Kapitel 12: Ignatius’ Ketten mahnen zu Einmütigkeit und Gebet; auch er selbst braucht die Fürbitte der Gemeinde
 
 Autor: Ignatius von Antiochien
 

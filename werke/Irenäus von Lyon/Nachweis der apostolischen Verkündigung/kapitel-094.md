@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 94
+# Nachweis der apostolischen Verkündigung – Kapitel 94: Weil der menschgewordene Herr selbst erlöst, hat die Kirche mehr Kinder als die frühere Synagoge
 
 Autor: Irenäus von Lyon
 

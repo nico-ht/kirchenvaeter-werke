@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 53
+# Gegen Celsus, Buch 1 – Kapitel 53: Christus erfüllt Jakobs Weissagung vom Ende der Herrschaft Judas und von der Erwartung der Völker
 
 Autor: Origenes
 

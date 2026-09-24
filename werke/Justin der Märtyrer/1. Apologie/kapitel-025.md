@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 25
+# 1\. Apologie – Kapitel 25: Christus lehrt die Abkehr von lasterhaften Göttern und die Hinwendung zum ungezeugten, leidenschaftslosen Gott
 
 Autor: Justin der Märtyrer
 

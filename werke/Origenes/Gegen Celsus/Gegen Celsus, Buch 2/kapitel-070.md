@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 70
+# Gegen Celsus, Buch 2 – Kapitel 70: Celsus widerspricht sich über die Auferstehungszeugen und fordert Unmögliches: Jesu Erscheinung vor allen Menschen
 
 Autor: Origenes
 

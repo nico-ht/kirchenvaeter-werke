@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 8
+# Barnabasbrief – Kapitel 8: Wie das Opfer der jungen Kuh Jesu Tod und die Verkündigung der Vergebung vorzeichnet
 
 Autor: Apostel Barnabas
 

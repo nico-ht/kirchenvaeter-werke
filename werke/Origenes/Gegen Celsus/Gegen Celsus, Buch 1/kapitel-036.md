@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 36
+# Gegen Celsus, Buch 1 – Kapitel 36: Propheten mussten den Juden Zukunftswissen vermitteln, um sie vor heidnischer Wahrsagerei zu bewahren
 
 Autor: Origenes
 

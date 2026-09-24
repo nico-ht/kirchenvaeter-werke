@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 1
+# Gegen Celsus, Buch 1 – Kapitel 1: Warum Christen sich um der Wahrheit willen heimlich entgegen gottlosen Gesetzen zusammenschließen dürfen
 
 Autor: Origenes
 

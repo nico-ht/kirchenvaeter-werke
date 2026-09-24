@@ -1,4 +1,4 @@
-# Predigt über die Scheidung – Kapitel 2
+# Predigt über die Scheidung – Kapitel 2: Christus beantwortet die Fangfragen der Pharisäer mit Weisungen zu Ehepflichten und Scheidung
 
 Autor: Asterius von Amaseia
 

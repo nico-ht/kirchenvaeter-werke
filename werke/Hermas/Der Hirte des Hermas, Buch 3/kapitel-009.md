@@ -1,4 +1,4 @@
-# Der Hirte des Hermas, Buch 3 – Kapitel 9
+# Der Hirte des Hermas, Buch 3 – Kapitel 9: Der Sohn ist das Tor zum Reich Gottes, und Umkehrende werden in den Bau seiner Kirche aufgenommen
 
 Autor: Hermas
 

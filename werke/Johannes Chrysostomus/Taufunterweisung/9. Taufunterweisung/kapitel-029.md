@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 29
+# 9\. Taufunterweisung  – Kapitel 29: Vor der Taufe sollen wir die Listen des Teufels kennenlernen, um ihm danach zuversichtlich entgegenzutreten
 
 Autor: Johannes Chrysostomus
 

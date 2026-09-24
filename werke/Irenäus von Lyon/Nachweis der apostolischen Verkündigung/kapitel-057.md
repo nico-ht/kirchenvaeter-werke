@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 57
+# Nachweis der apostolischen Verkündigung – Kapitel 57: Mit Christi Ankunft endet Judas Herrschaft; sein von Gott gewirktes Blut reinigt die Glaubenden
 
 Autor: Irenäus von Lyon
 

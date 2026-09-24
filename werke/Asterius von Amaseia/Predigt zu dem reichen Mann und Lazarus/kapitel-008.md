@@ -1,4 +1,4 @@
-# Predigt zu dem reichen Mann und Lazarus – Kapitel 8
+# Predigt zu dem reichen Mann und Lazarus – Kapitel 8: Luxus verlangt großen Reichtum, der sich nur selten ohne Sünde anhäufen lässt
 
 Autor: Asterius von Amaseia
 

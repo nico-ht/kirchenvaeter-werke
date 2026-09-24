@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 29
+# Erkenntnisse, Buch 9 – Kapitel 29: Die Abkehr der Bekehrten von gesetzlosen Bräuchen entkräftet den Glauben an das Geburtsschicksal
 
 Autor: Clemens von Rom
 

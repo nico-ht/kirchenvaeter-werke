@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 6
+# Erkenntnisse, Buch 9 – Kapitel 6: Warum der Schöpfer körperliche Bedürfnisse zur Bewährungsprobe für Gerechtigkeit und Barmherzigkeit macht
 
 Autor: Clemens von Rom
 

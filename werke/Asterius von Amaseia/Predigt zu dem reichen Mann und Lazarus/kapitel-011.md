@@ -1,4 +1,4 @@
-# Predigt zu dem reichen Mann und Lazarus – Kapitel 11
+# Predigt zu dem reichen Mann und Lazarus – Kapitel 11: Lazarus’ Not offenbart, dass der Reiche weniger Mitgefühl hat als die Tiere
 
 Autor: Asterius von Amaseia
 

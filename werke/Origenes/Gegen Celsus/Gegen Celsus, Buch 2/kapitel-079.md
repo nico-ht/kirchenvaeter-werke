@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 79
+# Gegen Celsus, Buch 2 – Kapitel 79: Dass Jesu Lehre sich weltweit trotz Widerstands ausbreitet und Menschen bessert, bezeugt seine göttliche Kraft
 
 Autor: Origenes
 

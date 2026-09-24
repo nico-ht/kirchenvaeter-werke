@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 4
+# 11\. Taufunterweisung – Kapitel 4: Christus liebt seine Braut mehr als jeder menschliche Bräutigam: Er gibt sein Leben für sie hin
 
 Autor: Johannes Chrysostomus
 

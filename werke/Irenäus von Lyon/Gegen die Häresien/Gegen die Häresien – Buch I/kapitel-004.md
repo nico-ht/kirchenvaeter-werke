@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 4
+# Gegen die Häresien – Buch I – Kapitel 4: Die Welt aus Achamoths Leidenschaften: eine als Geheimnis verkaufte Erfindung
 
 Autor: Irenäus von Lyon
 

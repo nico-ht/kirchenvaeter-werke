@@ -1,4 +1,4 @@
-# 1\. Brief über die Jungfräulichkeit – Kapitel 2
+# 1\. Brief über die Jungfräulichkeit – Kapitel 2: Nicht äußere Vorzüge, sondern der in guten Werken wirksame Glaube führt ins Himmelreich
 
 Autor: Clemens von Rom
 

@@ -1,4 +1,4 @@
-# 4\. Mystagogische Katechese – Kapitel 1
+# 4\. Mystagogische Katechese – Kapitel 1: Christi eigenes Wort gibt Gewissheit: Das Brot ist sein Leib, der Kelch sein Blut
 
 Autor: Johannes II\. von Jerusalem
 

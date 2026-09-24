@@ -1,4 +1,4 @@
-# Apologie – Kapitel 11
+# Apologie – Kapitel 11: Weder Gottes Bedarf an Helfern noch ihre Verdienste begründen die Vergöttlichung der heidnischen Götter
 
 Autor: Tertullian
 

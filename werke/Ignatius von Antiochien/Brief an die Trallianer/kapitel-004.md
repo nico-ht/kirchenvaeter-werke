@@ -1,4 +1,4 @@
-# Brief an die Trallianer – Kapitel 4
+# Brief an die Trallianer – Kapitel 4: Ignatius hütet sich vor Prahlerei und braucht Sanftmut, um den Herrscher dieser Welt zu überwinden
 
 Autor: Ignatius von Antiochien
 

@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 11
+# 3\. Taufunterweisung  – Kapitel 11: Christus gibt uns eine geistliche Rüstung für den Kampf gegen körperlose Mächte
 
 Autor: Johannes Chrysostomus
 

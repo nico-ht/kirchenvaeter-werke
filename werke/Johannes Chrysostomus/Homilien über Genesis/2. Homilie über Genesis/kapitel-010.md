@@ -1,4 +1,4 @@
-# 2\. Homilie über Genesis – Kapitel 10
+# 2\. Homilie über Genesis – Kapitel 10: „Im Anfang schuf Gott Himmel und Erde“ widerlegt die Lehre von einer vorbestehenden Materie
 
 Autor: Johannes Chrysostomus
 

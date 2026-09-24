@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 18
+# 3\. Taufunterweisung  – Kapitel 18: Wie Eva aus Adams Rippe hervorging, entsteht die Kirche aus der Seite des gestorbenen Christus
 
 Autor: Johannes Chrysostomus
 

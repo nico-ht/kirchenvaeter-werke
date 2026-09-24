@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 38
+# 9\. Taufunterweisung  – Kapitel 38: Schwören ist gerade deshalb so gefährlich, weil es nicht als Sünde erkannt wird
 
 Autor: Johannes Chrysostomus
 

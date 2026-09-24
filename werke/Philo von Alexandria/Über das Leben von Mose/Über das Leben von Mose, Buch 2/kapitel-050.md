@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 50
+# Über das Leben von Mose, Buch 2 – Kapitel 50: Der Untergang der Aufrührer durch Erdspalten und Blitze bestätigt Moses Weissagung unmittelbar
 
 Autor: Philo von Alexandria
 

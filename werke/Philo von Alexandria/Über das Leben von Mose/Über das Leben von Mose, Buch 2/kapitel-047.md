@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 47
+# Über das Leben von Mose, Buch 2 – Kapitel 47: Fäulnis und Schmelzen der Himmelsspeise erweisen Moses Vorratsverbot als göttlichen Orakelspruch
 
 Autor: Philo von Alexandria
 

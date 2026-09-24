@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 14
+# Erkenntnisse, Buch 8 – Kapitel 14: Die Einheit der Elemente weist auf den Schöpfer des Weltkörpers
 
 Autor: Clemens von Rom
 

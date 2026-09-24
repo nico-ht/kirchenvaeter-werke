@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 6
+# Ansprache an die Griechen – Kapitel 6: Die einmalige Auferstehung zum Gericht ist möglich, weil Gott die Substanz der Körper bewahrt
 
 Autor: Tatian
 

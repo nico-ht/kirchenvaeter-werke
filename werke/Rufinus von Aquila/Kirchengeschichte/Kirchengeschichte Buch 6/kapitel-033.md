@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 33
+# Kirchengeschichte Buch 6 – Kapitel 33: Origenes bewegt Beryllus, seine Leugnung der Präexistenz und eigenen Gottheit Christi zu widerrufen
 
 Autor: Rufinus von Aquila
 

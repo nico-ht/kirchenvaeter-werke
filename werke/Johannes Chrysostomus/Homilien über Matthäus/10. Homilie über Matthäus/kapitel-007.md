@@ -1,4 +1,4 @@
-# 10\. Homilie über Matthäus – Kapitel 7
+# 10\. Homilie über Matthäus – Kapitel 7: Gott führt uns durch Bedrängnisse zu sich und zur Bewährung – darum sollen wir sie dankbar tragen
 
 Autor: Johannes Chrysostomus
 

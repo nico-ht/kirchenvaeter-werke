@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 23
+# Nachweis der apostolischen Verkündigung – Kapitel 23: Gott vereitelt den vermessenen Turmbau durch Sprachenteilung und zerstreut die Menschen über die Erde
 
 Autor: Irenäus von Lyon
 

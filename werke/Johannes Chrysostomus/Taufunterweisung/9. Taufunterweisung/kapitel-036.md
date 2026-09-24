@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 36
+# 9\. Taufunterweisung  – Kapitel 36: Von den vielen Sünden der Zunge sollt ihr zunächst das Schwören meiden
 
 Autor: Johannes Chrysostomus
 

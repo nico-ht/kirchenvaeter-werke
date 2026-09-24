@@ -1,4 +1,4 @@
-# 88\. Homilie über Matthäus – Kapitel 1
+# 88\. Homilie über Matthäus – Kapitel 1: Finsternis und Todesschrei offenbaren Christi Vollmacht gerade am Kreuz
 
 Autor: Johannes Chrysostomus
 

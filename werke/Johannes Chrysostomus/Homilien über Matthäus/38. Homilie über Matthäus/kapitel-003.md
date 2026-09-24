@@ -1,4 +1,4 @@
-# 38\. Homilie über Matthäus – Kapitel 3
+# 38\. Homilie über Matthäus – Kapitel 3: Christusliebe und Eifer machen selbst Leiden und Besitzverzicht leicht
 
 Autor: Johannes Chrysostomus
 

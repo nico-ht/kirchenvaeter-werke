@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 15
+# Gegen Celsus, Buch 1 – Kapitel 15: Griechische Gelehrte bezeugen den Wert jüdischer Lehren und ihren Einfluss auf die Philosophie
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 44
+# Gegen Celsus, Buch 1 – Kapitel 44: Der Geist, der Mose belehrte, konnte auch den Evangelisten das Geschehen bei Jesu Taufe offenbaren
 
 Autor: Origenes
 

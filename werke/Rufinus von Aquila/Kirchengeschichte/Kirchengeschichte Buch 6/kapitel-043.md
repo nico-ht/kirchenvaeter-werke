@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 43
+# Kirchengeschichte Buch 6 – Kapitel 43: Novatus spricht reuigen Gefallenen die Rettung ab und spaltet im Streben nach dem Bischofsamt die Kirche
 
 Autor: Rufinus von Aquila
 

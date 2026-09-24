@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 21
+# Physiologus – Kapitel 21: Kein Prophet, sondern Gottes Sohn: Christus wird zum Ziegenhirten der Sünder und besiegt Sünde und Tod
 
 Autor: Unbekannt
 

@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 26
+# 9\. Taufunterweisung  – Kapitel 26: Auch nach der Taufe kann Gott Gefallene durch aufrichtige Buße wieder in ihren früheren Zustand zurückführen
 
 Autor: Johannes Chrysostomus
 

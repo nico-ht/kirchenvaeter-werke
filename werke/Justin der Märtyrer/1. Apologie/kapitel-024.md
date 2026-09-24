@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 24
+# 1\. Apologie – Kapitel 24: Heiden verehren unterschiedliche Götter, doch Christen wird die Ablehnung der Götter ihrer Ankläger vorgeworfen
 
 Autor: Justin der Märtyrer
 

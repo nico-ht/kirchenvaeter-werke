@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 2
+# Erkenntnisse, Buch 9 – Kapitel 2: Der alte Mann sucht Gewissheit über die Willensfreiheit beim wahren Propheten, nicht in Vermutungen
 
 Autor: Clemens von Rom
 

@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 10
+# Über die Sterblichkeit – Kapitel 10: Hiob und Tobias bewähren ihre Gottesfurcht gerade in Verlust und Krankheit
 
 Autor: Cyprian von Karthago
 

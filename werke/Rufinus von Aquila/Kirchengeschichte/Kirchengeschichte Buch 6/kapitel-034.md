@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 34
+# Kirchengeschichte Buch 6 – Kapitel 34: Kaiser Philippus unterwirft sich der Überlieferung nach der Buße, um an den Mysterien teilzunehmen
 
 Autor: Rufinus von Aquila
 

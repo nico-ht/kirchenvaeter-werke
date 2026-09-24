@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 32
+# Physiologus – Kapitel 32: Wie die fremde Brut das Rebhuhn verlässt, finden die Herangewachsenen vom Teufel zu Christus und zur Kirche
 
 Autor: Unbekannt
 

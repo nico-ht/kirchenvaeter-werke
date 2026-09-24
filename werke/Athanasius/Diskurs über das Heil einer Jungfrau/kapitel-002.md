@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 2
+# Diskurs über das Heil einer Jungfrau – Kapitel 2: Enthaltsamkeit verlangt auch die Abkehr von weltlichen Sorgen und die Hingabe an Christus als Bräutigam
 
 Autor: Athanasius
 

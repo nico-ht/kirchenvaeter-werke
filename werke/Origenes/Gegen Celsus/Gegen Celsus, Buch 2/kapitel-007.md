@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 7
+# Gegen Celsus, Buch 2 – Kapitel 7: Jesu Worte und Taten entkräften die Vorwürfe der Überheblichkeit, Lüge und Gottlosigkeit
 
 Autor: Origenes
 

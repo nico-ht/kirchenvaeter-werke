@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 21
+# Erkenntnisse, Buch 9 – Kapitel 21: Die Inzestbräuche der Magusäer bleiben auch in der Fremde bestehen und widerlegen den Gestirnzwang
 
 Autor: Clemens von Rom
 

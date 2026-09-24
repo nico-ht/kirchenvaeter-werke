@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 4
+# 5\. Mystagogische Katechese – Kapitel 4: „Erhebt die Herzen“: In dieser Stunde muss das Herz bei Gott sein, nicht bei weltlichen Sorgen
 
 Autor: Johannes II\. von Jerusalem
 

@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 10
+# Diskurs über das Heil einer Jungfrau – Kapitel 10: Die Jungfrau soll wie eine wahre Witwe auf Gott hoffen, im Gebet verharren und Christus die Treue halten
 
 Autor: Athanasius
 

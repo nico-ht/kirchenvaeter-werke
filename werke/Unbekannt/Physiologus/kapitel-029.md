@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 29
+# Physiologus – Kapitel 29: Die geöffnete Feige deutet Christi durchbohrte Seite: Seine Auferstehung schenkt uns Licht, Nahrung und Leben
 
 Autor: Unbekannt
 

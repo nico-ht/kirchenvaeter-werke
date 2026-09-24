@@ -1,4 +1,4 @@
-# Apologie – Kapitel 29
+# Apologie – Kapitel 29: Die Götter können dem Kaiser kein Heil gewähren, weil sie selbst unter seiner Macht und seinem Schutz stehen
 
 Autor: Tertullian
 

@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 41
+# Nachweis der apostolischen Verkündigung – Kapitel 41: Die Apostel erfüllen die verheißene Berufung der Heiden und eröffnen ihnen den Weg zum ewigen Leben
 
 Autor: Irenäus von Lyon
 

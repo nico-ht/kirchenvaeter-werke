@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 26
+# Gegen Celsus, Buch 1 – Kapitel 26: Die sittliche Besserung vieler Menschen durch Jesu Lehre bezeugt seinen göttlichen Beistand
 
 Autor: Origenes
 

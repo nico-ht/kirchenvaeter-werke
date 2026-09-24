@@ -1,4 +1,4 @@
-# 3\. Mystagogische Katechese – Kapitel 7
+# 3\. Mystagogische Katechese – Kapitel 7: Die heilige Salbung ist unbefleckt zu bewahren, denn sie schützt den Leib und rettet die Seele
 
 Autor: Johannes II\. von Jerusalem
 

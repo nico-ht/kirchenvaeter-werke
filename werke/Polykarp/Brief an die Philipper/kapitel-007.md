@@ -1,4 +1,4 @@
-# Brief an die Philipper – Kapitel 7
+# Brief an die Philipper – Kapitel 7: Älteste sollen Irrende zurückführen und Bedürftige schützen, denn alle stehen vor Christi Gericht
 
 Autor: Polykarp
 

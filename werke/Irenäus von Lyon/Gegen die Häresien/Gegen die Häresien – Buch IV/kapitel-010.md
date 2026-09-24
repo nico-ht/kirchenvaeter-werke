@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 10
+# Gegen die Häresien – Buch IV – Kapitel 10: Mose bezeugt den Sohn als Schöpfer und sagt sein Kommen und Leiden voraus
 
 Autor: Irenäus von Lyon
 

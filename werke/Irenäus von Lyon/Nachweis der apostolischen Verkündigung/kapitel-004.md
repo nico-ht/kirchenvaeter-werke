@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 4
+# Nachweis der apostolischen Verkündigung – Kapitel 4: Der eine Gott ist selbst ungeschaffen und der Schöpfer aller Dinge, auch unserer Welt
 
 Autor: Irenäus von Lyon
 

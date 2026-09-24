@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 5
+# Nachweis der apostolischen Verkündigung – Kapitel 5: Der Vater schafft durch das Wort und ordnet durch den Geist; der Geist offenbart den Sohn, der zum Vater führt
 
 Autor: Irenäus von Lyon
 

@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 16
+# Physiologus – Kapitel 16: Der Teufel raubt wie der Igel die Früchte der Enthaltsamkeit, wenn der Christ seinen Weinberg nicht bewacht
 
 Autor: Unbekannt
 

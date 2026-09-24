@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 32
+# Ansprache an die Griechen – Kapitel 32: Unsere Philosophie steht allen offen: Auch körperlich Schwache können einen starken Geist besitzen
 
 Autor: Tatian
 

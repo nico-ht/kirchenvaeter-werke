@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 22
+# Gegen Celsus, Buch 2 – Kapitel 22: Celsus’ Vorwurf, Jesus habe seine Jünger zu Verrätern und Gottlosen gemacht, ist unbegründet
 
 Autor: Origenes
 

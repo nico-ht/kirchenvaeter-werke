@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 7
+# Über das Leben von Mose, Buch 2 – Kapitel 7: Die inspirierte griechische Übersetzung macht das Gesetz des Mose unverfälscht allen Menschen zugänglich
 
 Autor: Philo von Alexandria
 

@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 4
+# Gegen Celsus, Buch 2 – Kapitel 4: Das Evangelium gründet auf dem Gesetz und ehrt es, indem es dessen verborgene Tiefe erschließt
 
 Autor: Origenes
 

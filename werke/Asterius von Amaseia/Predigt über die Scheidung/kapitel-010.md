@@ -1,4 +1,4 @@
-# Predigt über die Scheidung – Kapitel 10
+# Predigt über die Scheidung – Kapitel 10: Schon Reisegefährten fällt der Abschied schwer – umso weniger darf ein Mann seine Frau leichtfertig verstoßen
 
 Autor: Asterius von Amaseia
 

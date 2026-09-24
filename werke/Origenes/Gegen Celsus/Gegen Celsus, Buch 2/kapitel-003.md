@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 3
+# Gegen Celsus, Buch 2 – Kapitel 3: Allegorische Gesetzesauslegung bedeutet nicht notwendig die Aufgabe der väterlichen Bräuche
 
 Autor: Origenes
 

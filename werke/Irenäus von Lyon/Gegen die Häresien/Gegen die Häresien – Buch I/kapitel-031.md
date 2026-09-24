@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 31
+# Gegen die Häresien – Buch I – Kapitel 31: Schon die Darstellung ihrer Geheimlehren entlarvt die Valentinianer und ihre Vorläufer
 
 Autor: Irenäus von Lyon
 

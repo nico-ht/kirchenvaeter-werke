@@ -1,4 +1,4 @@
-# Brief 69 – Kapitel 6
+# Brief 69 – Kapitel 6: Landesbräuche mögen weibliche Haartracht bei Männern entschuldigen, stehen aber nicht über der Natur
 
 Autor: Ambrosius von Mailand
 

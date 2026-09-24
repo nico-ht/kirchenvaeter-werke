@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 22
+# Gegen Celsus, Buch 1 – Kapitel 22: Selbst ägyptische Zauberformeln bezeugen Abrahams Nähe zu Gott gegen Celsus’ Abwertung des Judentums
 
 Autor: Origenes
 

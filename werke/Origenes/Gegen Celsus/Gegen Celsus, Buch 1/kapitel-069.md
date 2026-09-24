@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 69
+# Gegen Celsus, Buch 1 – Kapitel 69: Jesus nahm einen sterblichen menschlichen Körper an, blieb aber in allen Versuchungen ohne Sünde
 
 Autor: Origenes
 

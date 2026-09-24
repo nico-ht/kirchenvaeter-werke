@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 31
+# Ansprache an die Griechen – Kapitel 31: Beim Altersvergleich mit Mose erweisen sich die griechischen Angaben zu Homers Zeit als widersprüchlich
 
 Autor: Tatian
 

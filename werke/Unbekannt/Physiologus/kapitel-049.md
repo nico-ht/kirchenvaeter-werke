@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 49
+# Physiologus – Kapitel 49: Der Adamant versinnbildlicht den unbezwingbaren Gottessohn, der als Mensch die Finsternis der Welt erhellt
 
 Autor: Unbekannt
 

@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 26
+# Erkenntnisse, Buch 9 – Kapitel 26: Die Vielzahl der Gesetze in einer Region widerlegt ihre Ableitung aus sieben sternbeherrschten Klimata
 
 Autor: Clemens von Rom
 

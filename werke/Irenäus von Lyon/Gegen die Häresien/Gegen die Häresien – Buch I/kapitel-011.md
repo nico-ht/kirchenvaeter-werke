@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 11
+# Gegen die Häresien – Buch I – Kapitel 11: Die Valentinianer widersprechen einander in ihren Äonenlehren und erfinden Namen nach Belieben
 
 Autor: Irenäus von Lyon
 

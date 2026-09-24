@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 27
+# Nachweis der apostolischen Verkündigung – Kapitel 27: Unglaube schließt die Erwachsenen vom verheißenen Land aus – außer Jesus und Kaleb
 
 Autor: Irenäus von Lyon
 

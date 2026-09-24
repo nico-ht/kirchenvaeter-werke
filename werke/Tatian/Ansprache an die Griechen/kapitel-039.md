@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 39
+# Ansprache an die Griechen – Kapitel 39: Griechische Königslisten zeigen: Mose lebte vor den berühmten Heldentaten und der Einführung der Schrift
 
 Autor: Tatian
 

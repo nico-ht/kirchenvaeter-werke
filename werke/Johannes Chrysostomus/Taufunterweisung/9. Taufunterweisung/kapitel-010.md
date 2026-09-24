@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 10
+# 9\. Taufunterweisung  – Kapitel 10: Wer sich wachsam und frei von irdischen Sorgen auf die Mysterien vorbereitet, wird von Gott reich beschenkt
 
 Autor: Johannes Chrysostomus
 

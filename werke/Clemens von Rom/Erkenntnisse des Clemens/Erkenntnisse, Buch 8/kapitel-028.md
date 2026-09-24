@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 28
+# Erkenntnisse, Buch 8 – Kapitel 28: Im Menschen vereint der Schöpfer sterbliche Materie und unsterbliche Substanz
 
 Autor: Clemens von Rom
 

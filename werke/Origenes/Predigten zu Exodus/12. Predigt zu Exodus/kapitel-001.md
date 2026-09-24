@@ -1,4 +1,4 @@
-# 12\. Predigt zu Exodus – Kapitel 1
+# 12\. Predigt zu Exodus – Kapitel 1: Erst die Hinkehr zum Herrn entfernt den Schleier und erschließt den Sinn der Schrift
 
 Autor: Origenes
 

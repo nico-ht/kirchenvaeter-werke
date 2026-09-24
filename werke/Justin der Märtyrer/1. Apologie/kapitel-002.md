@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 2
+# 1\. Apologie – Kapitel 2: Wahre Frömmigkeit und Philosophie verlangen ein Urteil nach gründlicher Prüfung statt nach Vorurteilen
 
 Autor: Justin der Märtyrer
 

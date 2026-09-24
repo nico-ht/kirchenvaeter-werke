@@ -1,4 +1,4 @@
-# 15\. Homilie über Matthäus – Kapitel 11
+# 15\. Homilie über Matthäus – Kapitel 11: Wer anderen Geldschulden und Verfehlungen erlässt, erlangt von Gott Vergebung der eigenen Schuld
 
 Autor: Johannes Chrysostomus
 

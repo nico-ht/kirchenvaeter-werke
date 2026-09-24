@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 21
+# Über das Leben von Mose, Buch 2 – Kapitel 21: Der siebenarmige Leuchter stellt die sieben Planeten mit der Sonne in ihrer Mitte dar
 
 Autor: Philo von Alexandria
 

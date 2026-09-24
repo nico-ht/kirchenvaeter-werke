@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 49
+# Erkenntnisse, Buch 8 – Kapitel 49: Die Propheten geboten ein gerechtes Leben, doch die Menschen bedrängten selbst die Willigen
 
 Autor: Clemens von Rom
 

@@ -6,6 +6,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Einzelwerke
 
+- [Ad Scapulam](Ad%20Scapulam/) · 5 Kapitel
 - [Apologie](Apologie/) · 50 Kapitel
 - [De patientia](De%20patientia/) · 16 Kapitel
 - [Verschreibung gegen Häretiker](Verschreibung%20gegen%20H%C3%A4retiker/) · 44 Kapitel

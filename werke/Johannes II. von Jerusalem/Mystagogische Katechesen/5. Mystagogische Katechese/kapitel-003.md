@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 3
+# 5\. Mystagogische Katechese – Kapitel 3: Der Kuss ist heilig, weil er die Seelen vereint und ihre Versöhnung bezeugt
 
 Autor: Johannes II\. von Jerusalem
 

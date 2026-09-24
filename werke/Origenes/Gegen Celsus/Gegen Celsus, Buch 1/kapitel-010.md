@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 10
+# Gegen Celsus, Buch 1 – Kapitel 10: Auch Philosophen wählen ihre Schule im Glauben an deren Überlegenheit, ohne alle Lehren zu prüfen
 
 Autor: Origenes
 

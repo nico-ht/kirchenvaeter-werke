@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 18
+# 4\. Taufunterweisung – Kapitel 18: Die Disziplin des Getauften macht Christus sichtbar und lenkt Lobpreis auf den Meister
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 21
+# Über die Sterblichkeit – Kapitel 21: Die Hoffnung auf Auferstehung verbietet, um Verstorbene zu trauern, als wären sie verloren
 
 Autor: Cyprian von Karthago
 

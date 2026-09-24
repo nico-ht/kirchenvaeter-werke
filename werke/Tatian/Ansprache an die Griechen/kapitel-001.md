@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 1
+# Ansprache an die Griechen – Kapitel 1: Die Griechen rühmen sich fremder Erfindungen und missbrauchen ihre Sprachkunst
 
 Autor: Tatian
 

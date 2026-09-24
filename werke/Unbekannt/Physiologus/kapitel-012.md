@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 12
+# Physiologus – Kapitel 12: Warum die Pharisäer Vipernbrut heißen: Sie töten ihren Vater Christus und ihre irdische Mutter Jerusalem
 
 Autor: Unbekannt
 

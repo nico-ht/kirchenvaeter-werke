@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 19
+# Ansprache an die Griechen – Kapitel 19: Gotteserkenntnis befreit von Todesfurcht und weltlichen Begierden, denen die Wahrsagerei dient
 
 Autor: Tatian
 

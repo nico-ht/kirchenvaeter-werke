@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 28
+# 11\. Taufunterweisung – Kapitel 28: Die Nacktheit bei der Taufe erinnert an das Paradies, bevor die Sünde Scham brachte
 
 Autor: Johannes Chrysostomus
 

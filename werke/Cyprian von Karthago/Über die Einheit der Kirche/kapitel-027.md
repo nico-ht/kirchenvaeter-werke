@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 27
+# Über die Einheit der Kirche – Kapitel 27: Wer die Gebote wachsam erfüllt, ist für das Kommen des Herrn bereit und wird mit Christus herrschen
 
 Autor: Cyprian von Karthago
 

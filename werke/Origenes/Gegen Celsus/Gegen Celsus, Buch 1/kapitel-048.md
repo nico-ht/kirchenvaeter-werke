@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 48
+# Gegen Celsus, Buch 1 – Kapitel 48: Die Erscheinungen bei Jesu Taufe werden wie Prophetenvisionen geistig wahrgenommen, nicht mit körperlichen Sinnen
 
 Autor: Origenes
 

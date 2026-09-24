@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 7
+# 5\. Mystagogische Katechese – Kapitel 7: Die Bitte um den Heiligen Geist, der Brot und Wein in Christi Leib und Blut verwandelt
 
 Autor: Johannes II\. von Jerusalem
 

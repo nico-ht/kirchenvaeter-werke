@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 6
+# Gegen Celsus, Buch 2 – Kapitel 6: Jesus gab als Gottes Sohn das Gesetz, dessen geistlichen Sinn schon die Propheten bezeugen
 
 Autor: Origenes
 

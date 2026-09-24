@@ -1,4 +1,4 @@
-# Predigt zu dem reichen Mann und Lazarus – Kapitel 14
+# Predigt zu dem reichen Mann und Lazarus – Kapitel 14: Abrahams Schoß ist der Ruheort der Gerechten – entscheidend ist die Gesinnung, nicht Armut oder Reichtum
 
 Autor: Asterius von Amaseia
 

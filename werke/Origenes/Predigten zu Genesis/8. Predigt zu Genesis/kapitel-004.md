@@ -1,4 +1,4 @@
-# 8\. Predigt zu Genesis – Kapitel 4
+# 8\. Predigt zu Genesis – Kapitel 4: Drei Tage mit Isaak steigern Abrahams Vaterqual; der dritte Tag deutet auf Christi Auferstehung
 
 Autor: Origenes
 

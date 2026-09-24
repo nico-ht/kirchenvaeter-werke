@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 42
+# 9\. Taufunterweisung  – Kapitel 42: Weil sündige Gewohnheiten uns unbemerkt überfallen, sollen wir andere um Hilfe bitten
 
 Autor: Johannes Chrysostomus
 

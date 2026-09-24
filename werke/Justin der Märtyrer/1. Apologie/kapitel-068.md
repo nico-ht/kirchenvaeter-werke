@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 68
+# 1\. Apologie – Kapitel 68: Nicht Hadrians Brief, sondern Gerechtigkeit begründet die Forderung, unschuldige Christen nicht zu töten
 
 Autor: Justin der Märtyrer
 

@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 39
+# Physiologus – Kapitel 39: Christi Höllenfahrt im Bild des Niluus: Er befreit die verschlungenen Toten und bricht die Macht des Todes
 
 Autor: Unbekannt
 

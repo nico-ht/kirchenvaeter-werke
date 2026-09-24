@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 31
+# 9\. Taufunterweisung  – Kapitel 31: Ein Sturz verletzt den Körper, ein Wort kann die Seele zerstören – darum muss die Zunge bewacht werden
 
 Autor: Johannes Chrysostomus
 

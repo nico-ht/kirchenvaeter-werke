@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 90
+# Nachweis der apostolischen Verkündigung – Kapitel 90: Im neuen Bund schreibt Gott seine Gesetze ins Herz und vergibt die Sünden
 
 Autor: Irenäus von Lyon
 

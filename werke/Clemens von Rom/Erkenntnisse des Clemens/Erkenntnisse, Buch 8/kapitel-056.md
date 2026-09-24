@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 56
+# Erkenntnisse, Buch 8 – Kapitel 56: Der Ursprung des Bösen bleibt verborgen, doch die Goldene Regel ist klar
 
 Autor: Clemens von Rom
 

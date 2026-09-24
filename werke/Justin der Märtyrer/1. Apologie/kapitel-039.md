@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 39
+# 1\. Apologie – Kapitel 39: Die Verkündigung der Apostel und der Gewaltverzicht der Christen erfüllen die prophetische Friedensverheißung
 
 Autor: Justin der Märtyrer
 

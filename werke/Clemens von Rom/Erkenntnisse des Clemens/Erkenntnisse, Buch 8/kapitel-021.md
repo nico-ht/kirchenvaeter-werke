@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 21
+# Erkenntnisse, Buch 8 – Kapitel 21: Selbst die scheinbar selbsttragende Himmelskugel bezeugt schöpferische Ordnung
 
 Autor: Clemens von Rom
 

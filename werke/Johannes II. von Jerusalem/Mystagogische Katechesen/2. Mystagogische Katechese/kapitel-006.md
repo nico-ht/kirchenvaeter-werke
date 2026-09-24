@@ -1,4 +1,4 @@
-# 2\. Mystagogische Katechese – Kapitel 6
+# 2\. Mystagogische Katechese – Kapitel 6: Die Taufe schenkt nicht nur Vergebung und Sohnschaft, sondern durch Nachahmung auch Anteil an Christi Leiden
 
 Autor: Johannes II\. von Jerusalem
 

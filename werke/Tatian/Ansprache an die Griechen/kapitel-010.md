@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 10
+# Ansprache an die Griechen – Kapitel 10: Der Sternenkult verherrlicht Schandtaten und vergöttlicht sterbliche Menschen
 
 Autor: Tatian
 

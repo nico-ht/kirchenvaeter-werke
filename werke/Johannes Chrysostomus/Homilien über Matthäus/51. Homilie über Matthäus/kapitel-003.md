@@ -1,4 +1,4 @@
-# 51\. Homilie über Matthäus – Kapitel 3
+# 51\. Homilie über Matthäus – Kapitel 3: Wie Christus die Speisevorschriften behutsam überwindet, ohne Gottes Gesetz zu verwerfen
 
 Autor: Johannes Chrysostomus
 

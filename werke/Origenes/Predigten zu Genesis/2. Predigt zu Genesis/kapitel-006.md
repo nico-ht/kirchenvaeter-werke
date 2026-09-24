@@ -1,4 +1,4 @@
-# 2\. Predigt zu Genesis – Kapitel 6
+# 2\. Predigt zu Genesis – Kapitel 6: Wer Gottes Wort hört und danach lebt, baut eine Arche des Heils im eigenen Herzen
 
 Autor: Origenes
 

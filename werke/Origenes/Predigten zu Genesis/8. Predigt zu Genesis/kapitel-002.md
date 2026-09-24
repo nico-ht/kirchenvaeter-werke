@@ -1,4 +1,4 @@
-# 8\. Predigt zu Genesis – Kapitel 2
+# 8\. Predigt zu Genesis – Kapitel 2: Gott verschärft Abrahams Prüfung durch die Erinnerung an Vaterliebe und die an Isaak gebundenen Verheißungen
 
 Autor: Origenes
 

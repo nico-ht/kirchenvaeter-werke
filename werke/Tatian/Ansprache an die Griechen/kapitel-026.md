@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 26
+# Ansprache an die Griechen – Kapitel 26: Die Griechen beanspruchen Weisheit für sich allein, doch ihrer Wortkunst fehlen Erkenntnis und Taten
 
 Autor: Tatian
 

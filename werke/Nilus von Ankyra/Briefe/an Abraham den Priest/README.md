@@ -6,4 +6,4 @@ Nilus von Ankyra
 
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/nilus-von-ankyra/an-abraham-den-priest) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-- [Kapitel 1](kapitel-001.md)
+- [Kapitel 1: Gott lässt Menschen unterschiedlich lange durch Dämonen prüfen – manche bis zum letzten Atemzug](kapitel-001.md)

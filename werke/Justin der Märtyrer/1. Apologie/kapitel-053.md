@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 53
+# 1\. Apologie – Kapitel 53: Die Überzahl der Heidenchristen erfüllt die Prophetie und bekräftigt den Glauben an den Gekreuzigten
 
 Autor: Justin der Märtyrer
 

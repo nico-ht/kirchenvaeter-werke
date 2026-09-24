@@ -1,4 +1,4 @@
-# 1\. Mystagogische Katechese – Kapitel 4
+# 1\. Mystagogische Katechese – Kapitel 4: Die Absage nach Westen gilt Satan als Herrscher der Finsternis, dessen Macht Christus gebrochen hat
 
 Autor: Johannes II\. von Jerusalem
 

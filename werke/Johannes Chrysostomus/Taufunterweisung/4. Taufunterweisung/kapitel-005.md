@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 5
+# 4\. Taufunterweisung – Kapitel 5: Der Glanz des himmlisch gesinnten Getauften vertreibt die Furcht vor dem Dämon
 
 Autor: Johannes Chrysostomus
 

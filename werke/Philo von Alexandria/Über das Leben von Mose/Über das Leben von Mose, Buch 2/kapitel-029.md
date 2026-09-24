@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 29
+# Über das Leben von Mose, Buch 2 – Kapitel 29: Die Priesterweihe zeigt: Der vollkommene Mensch muss in Wort, Tat und Lebensführung rein sein
 
 Autor: Philo von Alexandria
 

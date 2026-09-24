@@ -1,4 +1,4 @@
-# 8\. Predigt zu Genesis – Kapitel 7
+# 8\. Predigt zu Genesis – Kapitel 7: Beim Tod eines Sohnes gilt Abrahams Vorbild: ihn Gott freudig und im festen Glauben darbringen
 
 Autor: Origenes
 

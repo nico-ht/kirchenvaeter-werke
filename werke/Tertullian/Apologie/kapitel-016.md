@@ -1,4 +1,4 @@
-# Apologie – Kapitel 16
+# Apologie – Kapitel 16: Die Christen unterstellte Esels\-, Kreuz\- und Sonnenverehrung fällt auf ihre Ankläger zurück
 
 Autor: Tertullian
 

@@ -1,4 +1,4 @@
-# Der Hirte des Hermas, Buch 3 – Kapitel 1
+# Der Hirte des Hermas, Buch 3 – Kapitel 1: Wer in der Fremde wohnt, soll Besitz für Bedürftige einsetzen und Gottes Gebote bewahren
 
 Autor: Hermas
 

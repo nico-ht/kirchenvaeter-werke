@@ -1,4 +1,4 @@
-# 22\. Homilie über Matthäus – Kapitel 3
+# 22\. Homilie über Matthäus – Kapitel 3: Wer das Himmelreich sucht, empfängt das Lebensnotwendige als Zugabe
 
 Autor: Johannes Chrysostomus
 

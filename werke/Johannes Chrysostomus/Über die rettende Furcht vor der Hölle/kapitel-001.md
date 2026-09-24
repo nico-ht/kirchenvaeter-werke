@@ -1,4 +1,4 @@
-# Über die rettende Furcht vor der Hölle – Kapitel 1
+# Über die rettende Furcht vor der Hölle – Kapitel 1: Warum das Reden über die Hölle die Seele läutert und vor Sünde und Strafe bewahrt
 
 Autor: Johannes Chrysostomus
 

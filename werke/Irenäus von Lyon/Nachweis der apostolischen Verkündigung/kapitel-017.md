@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 17
+# Nachweis der apostolischen Verkündigung – Kapitel 17: Kains Brudermord ist das Werk des abtrünnigen Engels und Vorzeichen der Verfolgung der Gerechten
 
 Autor: Irenäus von Lyon
 

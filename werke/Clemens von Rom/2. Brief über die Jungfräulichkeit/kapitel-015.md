@@ -1,4 +1,4 @@
-# 2\. Brief über die Jungfräulichkeit – Kapitel 15
+# 2\. Brief über die Jungfräulichkeit – Kapitel 15: Frauen unterstützten Jesus und die Apostel mit ihrem Besitz, lebten aber nicht mit ihnen zusammen
 
 Autor: Clemens von Rom
 

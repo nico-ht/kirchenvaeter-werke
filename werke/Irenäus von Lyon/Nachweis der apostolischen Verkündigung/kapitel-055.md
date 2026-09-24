@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 55
+# Nachweis der apostolischen Verkündigung – Kapitel 55: Der Sohn ist Ratgeber des Vaters und führt uns durch Rat statt Zwang zur Wahrheit und Unverderblichkeit
 
 Autor: Irenäus von Lyon
 

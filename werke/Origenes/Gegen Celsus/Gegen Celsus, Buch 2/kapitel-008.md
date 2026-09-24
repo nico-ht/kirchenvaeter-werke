@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 8
+# Gegen Celsus, Buch 2 – Kapitel 8: Die Ablehnung Jesu durch die Juden war vorausgesagt und führte zum Verlust göttlicher Fürsorge
 
 Autor: Origenes
 

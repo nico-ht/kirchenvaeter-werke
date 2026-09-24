@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 25
+# 4\. Taufunterweisung – Kapitel 25: Die Zunge soll Gott loben; schädliche Zusammenkünfte betrüben den Heiligen Geist
 
 Autor: Johannes Chrysostomus
 

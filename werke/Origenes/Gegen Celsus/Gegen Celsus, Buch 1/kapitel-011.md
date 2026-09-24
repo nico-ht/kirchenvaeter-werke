@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 11
+# Gegen Celsus, Buch 1 – Kapitel 11: Der Glaube an Gott ist besser begründet als das Vertrauen, auf dem alltägliche Wagnisse beruhen
 
 Autor: Origenes
 

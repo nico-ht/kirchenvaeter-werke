@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 31
+# 1\. Apologie – Kapitel 31: Die überlieferten und ins Griechische übersetzten Prophetenbücher kündigen Christus lange vor seinem Erscheinen an
 
 Autor: Justin der Märtyrer
 

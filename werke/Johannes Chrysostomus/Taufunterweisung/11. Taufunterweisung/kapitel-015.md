@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 15
+# 11\. Taufunterweisung – Kapitel 15: „Ich glaube“ ist der feste Grund: Wer zu Gott kommt, muss glauben, dass er existiert
 
 Autor: Johannes Chrysostomus
 

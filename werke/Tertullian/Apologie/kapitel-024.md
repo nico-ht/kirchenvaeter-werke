@@ -1,4 +1,4 @@
-# Apologie – Kapitel 24
+# Apologie – Kapitel 24: Nur Christen wird Religionsfreiheit verwehrt, obwohl sie den Gott aller verehren
 
 Autor: Tertullian
 

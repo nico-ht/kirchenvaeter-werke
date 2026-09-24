@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 12
+# Gegen Celsus, Buch 2 – Kapitel 12: Judas’ Verrat widerlegt Jesu Lehre nicht – auch Philosophen erlebten den Abfall ihrer Schüler
 
 Autor: Origenes
 

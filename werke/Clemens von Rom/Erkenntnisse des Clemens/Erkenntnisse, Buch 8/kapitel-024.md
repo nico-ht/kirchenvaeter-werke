@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 24
+# Erkenntnisse, Buch 8 – Kapitel 24: Flüsse speisen das Meer, ohne dass es die Erde überflutet
 
 Autor: Clemens von Rom
 

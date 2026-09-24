@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 57
+# 1\. Apologie – Kapitel 57: Christen fürchten den Tod nicht: Selbst wenn danach nichts wäre, befreiten ihre Verfolger sie von irdischen Leiden
 
 Autor: Justin der Märtyrer
 

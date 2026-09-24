@@ -1,4 +1,4 @@
-# 48\. Homilie über Matthäus – Kapitel 5
+# 48\. Homilie über Matthäus – Kapitel 5: Sünder beweinen statt beschimpfen: Auch heutige Gastmähler richten durch Verführung Seelen zugrunde
 
 Autor: Johannes Chrysostomus
 

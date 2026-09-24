@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 22
+# Nachweis der apostolischen Verkündigung – Kapitel 22: Gottes Bund sichert das Leben vor einer neuen Flut und regelt den Neubeginn der Menschheit
 
 Autor: Irenäus von Lyon
 

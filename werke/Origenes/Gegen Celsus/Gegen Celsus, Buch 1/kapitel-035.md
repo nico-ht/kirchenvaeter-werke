@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 35
+# Gegen Celsus, Buch 1 – Kapitel 35: Das Immanuel\-Zeichen erfordert eine Jungfrauengeburt und weist über Ahas hinaus auf das Haus David
 
 Autor: Origenes
 

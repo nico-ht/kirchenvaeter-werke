@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 15
+# 5\. Mystagogische Katechese – Kapitel 15: Das übersubstanzielle Brot ist auf die Seele ausgerichtet und kommt auch dem Körper zugute
 
 Autor: Johannes II\. von Jerusalem
 

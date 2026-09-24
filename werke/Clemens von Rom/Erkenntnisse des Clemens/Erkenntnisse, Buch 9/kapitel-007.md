@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 7
+# Erkenntnisse, Buch 9 – Kapitel 7: Gottes Vorsehung macht notwendige Ungleichheit zur Gelegenheit für Gerechtigkeit und Barmherzigkeit
 
 Autor: Clemens von Rom
 

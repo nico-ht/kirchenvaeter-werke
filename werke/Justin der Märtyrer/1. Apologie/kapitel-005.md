@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 5
+# 1\. Apologie – Kapitel 5: Dämonen verfolgen Sokrates und Christen, weil der Logos sie als falsche Götter entlarvt
 
 Autor: Justin der Märtyrer
 

@@ -1,4 +1,4 @@
-# 28\. Homilie über Matthäus – Kapitel 1
+# 28\. Homilie über Matthäus – Kapitel 1: Wie Christus die Jünger durch den Sturm zum Vertrauen auf seine göttliche Macht erzieht
 
 Autor: Johannes Chrysostomus
 

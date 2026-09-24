@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 23
+# Über die Einheit der Kirche – Kapitel 23: Die Verführten sollen die Spalter verlassen, denn außerhalb der einen Kirche ist kein Leben möglich
 
 Autor: Cyprian von Karthago
 

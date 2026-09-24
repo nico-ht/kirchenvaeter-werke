@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 38
+# Nachweis der apostolischen Verkündigung – Kapitel 38: Das Wort erlöst den Menschen: Seine Auferstehung setzt die Geburt aus der Jungfrau voraus
 
 Autor: Irenäus von Lyon
 

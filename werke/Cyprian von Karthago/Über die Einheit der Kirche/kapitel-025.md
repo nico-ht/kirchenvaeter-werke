@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 25
+# Über die Einheit der Kirche – Kapitel 25: Die Einmütigkeit der ersten Gläubigen machte ihr Gebet wirksam und gab ihnen Zuversicht auf Erhörung
 
 Autor: Cyprian von Karthago
 

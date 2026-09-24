@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 14
+# Ansprache an die Griechen – Kapitel 14: Dämonen und ihre freiwilligen Anhänger erwartet keine selige, sondern eine leidvolle Unsterblichkeit
 
 Autor: Tatian
 

@@ -1,4 +1,4 @@
-# Psalm 2 – Kapitel 2
+# Psalm 2 – Kapitel 2: Der Psalm meint nicht alle Völker, sondern den grundlosen Aufruhr bei Jesu Auslieferung an die Heiden
 
 Autor: Theodoret von Kyrrhos
 

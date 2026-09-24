@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 38
+# 1\. Apologie – Kapitel 38: In den Propheten spricht Christus selbst von seinem Leiden, das sich bis zum Spott am Kreuz erfüllt
 
 Autor: Justin der Märtyrer
 

@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 14
+# 1\. Apologie – Kapitel 14: Christi Wort führt die Christen weg von den Dämonen und hin zu tätiger Nächstenliebe
 
 Autor: Justin der Märtyrer
 

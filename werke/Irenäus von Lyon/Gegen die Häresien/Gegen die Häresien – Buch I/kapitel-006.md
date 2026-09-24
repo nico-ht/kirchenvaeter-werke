@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 6
+# Gegen die Häresien – Buch I – Kapitel 6: Wie die behauptete Rettung kraft geistiger Natur zur Rechtfertigung verbotener Taten dient
 
 Autor: Irenäus von Lyon
 

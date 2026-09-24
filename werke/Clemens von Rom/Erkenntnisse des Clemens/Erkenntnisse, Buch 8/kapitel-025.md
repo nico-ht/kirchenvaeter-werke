@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 25
+# Erkenntnisse, Buch 8 – Kapitel 25: Milch und ungewöhnliche Fortpflanzungsweisen bezeugen Gottes Vorsorge für die Tiere
 
 Autor: Clemens von Rom
 

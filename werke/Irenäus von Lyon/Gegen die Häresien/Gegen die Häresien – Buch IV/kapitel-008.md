@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 8
+# Gegen die Häresien – Buch IV – Kapitel 8: Christus und seine Jünger erfüllen auch am Sabbat das Gesetz durch ihren priesterlichen Dienst
 
 Autor: Irenäus von Lyon
 

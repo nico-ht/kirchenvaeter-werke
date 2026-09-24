@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 19
+# Über die Einheit der Kirche – Kapitel 19: Häresie und Spaltung wiegen schwerer als bereuter Abfall, weil sie viele gefährden
 
 Autor: Cyprian von Karthago
 

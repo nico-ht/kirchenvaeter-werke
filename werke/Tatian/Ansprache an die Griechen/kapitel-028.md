@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 28
+# Ansprache an die Griechen – Kapitel 28: Statt widersprüchlicher Gesetze der Völker müsste eine gemeinsame Staatsordnung für alle gelten
 
 Autor: Tatian
 

@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 18
+# 1\. Apologie – Kapitel 18: Heidnische Zeugnisse bestätigen das Empfinden nach dem Tod – Christen erwarten auch die leibliche Auferstehung
 
 Autor: Justin der Märtyrer
 

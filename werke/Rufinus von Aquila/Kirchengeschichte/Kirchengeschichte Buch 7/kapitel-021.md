@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 21
+# Kirchengeschichte Buch 7 – Kapitel 21: Christen feiern trotz der Seuche Ostern und riskieren aus Liebe zu den Kranken ihr Leben
 
 Autor: Rufinus von Aquila
 

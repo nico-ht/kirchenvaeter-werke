@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 28
+# Über das Leben von Mose, Buch 2 – Kapitel 28: Mose wählt Priester nach Frömmigkeit statt Verwandtschaft und kleidet sie für den würdigen Dienst an Gott
 
 Autor: Philo von Alexandria
 

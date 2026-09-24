@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 57
+# Gegen Celsus, Buch 1 – Kapitel 57: Jesu Lehre besteht im Gegensatz zu den Lehren seiner Rivalen fort und bezeugt seine Gottessohnschaft
 
 Autor: Origenes
 

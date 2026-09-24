@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 13
+# Barnabasbrief – Kapitel 13: Der Segen für den Jüngeren weist auf das neue Volk als Erben des Bundes hin
 
 Autor: Apostel Barnabas
 

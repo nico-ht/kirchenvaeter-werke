@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 3
+# Gegen die Häresien – Buch IV – Kapitel 3: Die Gestalt der Welt vergeht, doch Gott und seine Diener bleiben in Ewigkeit
 
 Autor: Irenäus von Lyon
 

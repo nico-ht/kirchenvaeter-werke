@@ -1,4 +1,4 @@
-# Der Erzieher: Buch 1 – Kapitel 4
+# Der Erzieher: Buch 1 – Kapitel 4: Mann und Frau teilen dieselbe Tugend und Erziehung, weil sie denselben Gott und Lehrer haben
 
 Autor: Clemens von Alexandria
 

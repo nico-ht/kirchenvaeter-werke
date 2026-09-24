@@ -1,4 +1,4 @@
-# 3\. Mystagogische Katechese – Kapitel 3
+# 3\. Mystagogische Katechese – Kapitel 3: Nach der Anrufung ist der Salbduft Gabe Christi: Bei der Salbung heiligt der Heilige Geist die Seele
 
 Autor: Johannes II\. von Jerusalem
 

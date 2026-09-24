@@ -1,4 +1,4 @@
-# Der Erzieher: Buch 1 – Kapitel 7
+# Der Erzieher: Buch 1 – Kapitel 7: Jesus ist das göttliche Wort, das einst durch Mose und nun selbst die Menschen zur Rettung erzieht
 
 Autor: Clemens von Alexandria
 

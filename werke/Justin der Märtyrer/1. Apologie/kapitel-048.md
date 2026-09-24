@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 48
+# 1\. Apologie – Kapitel 48: Die Propheten kündigen Christi Heilungen und Totenerweckungen sowie seinen Tod und den seiner Anhänger an
 
 Autor: Justin der Märtyrer
 

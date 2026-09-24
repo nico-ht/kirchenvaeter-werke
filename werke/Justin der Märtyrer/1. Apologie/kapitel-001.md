@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 1
+# 1\. Apologie – Kapitel 1: Justin wendet sich für die ungerecht Gehassten und willkürlich Misshandelten an Kaiser, Senat und Volk Roms
 
 Autor: Justin der Märtyrer
 

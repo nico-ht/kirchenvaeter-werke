@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 8
+# Über das Leben von Mose, Buch 2 – Kapitel 8: Mose stellt die Schöpfung vor das Gesetz: Wer dem Schöpfer als Gesetzgeber folgt, lebt im Einklang mit der Weltordnung
 
 Autor: Philo von Alexandria
 

@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 34
+# Physiologus – Kapitel 34: Der Ameisenlöwe verhungert an seiner Doppelnatur: eine Warnung vor einem Leben mit geteiltem Sinn
 
 Autor: Unbekannt
 

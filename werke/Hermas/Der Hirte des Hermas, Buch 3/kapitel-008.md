@@ -1,4 +1,4 @@
-# Der Hirte des Hermas, Buch 3 – Kapitel 8
+# Der Hirte des Hermas, Buch 3 – Kapitel 8: Aufrichtige Umkehr bringt sündige Gläubige ins Leben zurück, Heuchelei aber schließt sie aus
 
 Autor: Hermas
 

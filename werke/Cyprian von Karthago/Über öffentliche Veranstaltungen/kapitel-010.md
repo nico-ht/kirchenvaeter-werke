@@ -1,4 +1,4 @@
-# Über öffentliche Veranstaltungen – Kapitel 10
+# Über öffentliche Veranstaltungen – Kapitel 10: Die Schauspiele der Schrift gipfeln in Christi Sieg über den Teufel und zeigen die eigene Heilshoffnung
 
 Autor: Cyprian von Karthago
 

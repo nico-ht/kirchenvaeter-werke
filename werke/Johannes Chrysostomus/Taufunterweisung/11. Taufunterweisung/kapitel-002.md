@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 2
+# 11\. Taufunterweisung – Kapitel 2: Christus befiehlt uns nicht, zu ihm zu kommen, sondern kommt selbst in barmherziger Liebe zu uns
 
 Autor: Johannes Chrysostomus
 

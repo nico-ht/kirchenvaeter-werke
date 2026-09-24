@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 22
+# 3\. Taufunterweisung  – Kapitel 22: Die öffentliche Vernichtung unseres Schuldscheins nimmt den bösen Mächten die Handhabe gegen uns
 
 Autor: Johannes Chrysostomus
 

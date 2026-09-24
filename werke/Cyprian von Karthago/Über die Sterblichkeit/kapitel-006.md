@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 6
+# Über die Sterblichkeit – Kapitel 6: Wer Gottes Verheißung der Unsterblichkeit misstraut, verleugnet den eigenen Glauben
 
 Autor: Cyprian von Karthago
 

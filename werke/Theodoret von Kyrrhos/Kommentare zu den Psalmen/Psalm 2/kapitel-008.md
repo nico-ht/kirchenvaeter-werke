@@ -1,4 +1,4 @@
-# Psalm 2 – Kapitel 8
+# Psalm 2 – Kapitel 8: Rute und Töpfergefäß bedeuten Roms Gericht über die Juden oder die Erneuerung der Heiden durch die Taufe
 
 Autor: Theodoret von Kyrrhos
 

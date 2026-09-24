@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 25
+# Nachweis der apostolischen Verkündigung – Kapitel 25: Gott befreit Israel aus Ägypten und offenbart im Lammopfer Christi rettendes Leiden
 
 Autor: Irenäus von Lyon
 

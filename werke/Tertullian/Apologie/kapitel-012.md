@@ -1,4 +1,4 @@
-# Apologie – Kapitel 12
+# Apologie – Kapitel 12: Götterbilder sind empfindungslose Menschenwerke, deren Nichtverehrung keine Gottheit verletzt
 
 Autor: Tertullian
 

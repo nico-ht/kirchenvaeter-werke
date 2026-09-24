@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 29
+# Kirchengeschichte Buch 7 – Kapitel 29: Die Synode schließt Paulus von Samosata wegen Irrlehre und Amtsmissbrauchs aus und setzt Domnus als Bischof ein
 
 Autor: Rufinus von Aquila
 

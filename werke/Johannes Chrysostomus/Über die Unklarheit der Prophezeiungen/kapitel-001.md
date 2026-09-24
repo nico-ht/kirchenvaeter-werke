@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 1
+# Über die Unklarheit der Prophezeiungen – Kapitel 1: Unerfahrene Hörer empfinden die Schrift als schwer; vielfältige Lehre hilft ihnen
 
 Autor: Johannes Chrysostomus
 

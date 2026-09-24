@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 78
+# Nachweis der apostolischen Verkündigung – Kapitel 78: Christus stirbt und steigt in den Hades hinab, um den Verstorbenen das Heil zu bringen
 
 Autor: Irenäus von Lyon
 

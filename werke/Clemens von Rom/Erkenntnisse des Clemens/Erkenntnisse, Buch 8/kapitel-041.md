@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 41
+# Erkenntnisse, Buch 8 – Kapitel 41: Der Alte hält den Regenbogen für geordnet, obwohl kein Verstand ihn geschaffen habe
 
 Autor: Clemens von Rom
 

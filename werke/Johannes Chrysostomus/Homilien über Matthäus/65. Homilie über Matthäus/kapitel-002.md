@@ -1,4 +1,4 @@
-# 65\. Homilie über Matthäus – Kapitel 2
+# 65\. Homilie über Matthäus – Kapitel 2: Auf die Bitte um Ehrenplätze antwortet Jesus den Zebedäussöhnen mit der Verheißung des Martyriums
 
 Autor: Johannes Chrysostomus
 

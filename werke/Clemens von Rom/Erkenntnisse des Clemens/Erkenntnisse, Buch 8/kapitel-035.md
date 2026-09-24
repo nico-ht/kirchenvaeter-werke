@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 35
+# Erkenntnisse, Buch 8 – Kapitel 35: Der Alte vertagt seine Antwort und lehnt Geschenke ab, um niemanden zu kränken
 
 Autor: Clemens von Rom
 

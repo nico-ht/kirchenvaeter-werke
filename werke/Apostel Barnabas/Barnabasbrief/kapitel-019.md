@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 19
+# Barnabasbrief – Kapitel 19: Auf dem Weg des Lichts werden Gottesliebe und Nächstenliebe im Handeln sichtbar
 
 Autor: Apostel Barnabas
 

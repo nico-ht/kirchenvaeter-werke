@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 21
+# 5\. Mystagogische Katechese – Kapitel 21: Christi Leib ist kostbarer als Gold – empfange ihn so sorgsam, dass kein Krümel verloren geht
 
 Autor: Johannes II\. von Jerusalem
 

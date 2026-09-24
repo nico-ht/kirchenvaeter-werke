@@ -1,4 +1,4 @@
-# Über öffentliche Veranstaltungen – Kapitel 5
+# Über öffentliche Veranstaltungen – Kapitel 5: Schauspiele lehren Grausamkeit und Begierde; ihr Besuch nach der Eucharistie entehrt den Leib Christi
 
 Autor: Cyprian von Karthago
 

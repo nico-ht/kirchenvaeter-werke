@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 21
+# 11\. Taufunterweisung – Kapitel 21: Weil dieselbe Gnade alle Rangunterschiede aufhebt, sollen alle gemeinsam kniend Gott danken
 
 Autor: Johannes Chrysostomus
 

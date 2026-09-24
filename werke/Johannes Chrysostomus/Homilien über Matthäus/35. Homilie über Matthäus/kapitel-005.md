@@ -1,4 +1,4 @@
-# 35\. Homilie über Matthäus – Kapitel 5
+# 35\. Homilie über Matthäus – Kapitel 5: Arme brauchen Hilfe und tröstende Worte statt Schmähungen, denn Gott selbst sendet sie zu uns
 
 Autor: Johannes Chrysostomus
 

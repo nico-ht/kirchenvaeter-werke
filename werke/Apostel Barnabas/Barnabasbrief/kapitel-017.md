@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 17
+# Barnabasbrief – Kapitel 17: Die bisherige Darlegung soll vermitteln, was zum Heil nötig ist
 
 Autor: Apostel Barnabas
 

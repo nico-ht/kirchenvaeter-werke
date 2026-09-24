@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 32
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 32: Antonius besiegt die Vitellianer; Vitellius wird vom Gelage weggerissen und mitten in Rom getötet
 
 Autor: Unbekannt
 

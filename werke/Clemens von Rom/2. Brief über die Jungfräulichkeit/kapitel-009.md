@@ -1,4 +1,4 @@
-# 2\. Brief über die Jungfräulichkeit – Kapitel 9
+# 2\. Brief über die Jungfräulichkeit – Kapitel 9: Samsons Fall mahnt, der eigenen Stärke nicht zu trauen und das Zusammenleben mit geweihten Jungfrauen zu meiden
 
 Autor: Clemens von Rom
 

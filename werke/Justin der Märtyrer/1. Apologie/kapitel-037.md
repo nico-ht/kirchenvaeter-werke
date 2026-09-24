@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 37
+# 1\. Apologie – Kapitel 37: Durch Jesaja tadelt der Vater Israels Sünden und fordert Gerechtigkeit statt Opfer
 
 Autor: Justin der Märtyrer
 

@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 47
+# Erkenntnisse, Buch 8 – Kapitel 47: Gemeinsame Plagen reinigen die Gerechten und führen die Gottlosen dem Gericht entgegen
 
 Autor: Clemens von Rom
 

@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 29
+# Ansprache an die Griechen – Kapitel 29: In den barbarischen Schriften fand ich die Wahrheit, die aus der Knechtschaft der Welt befreit
 
 Autor: Tatian
 

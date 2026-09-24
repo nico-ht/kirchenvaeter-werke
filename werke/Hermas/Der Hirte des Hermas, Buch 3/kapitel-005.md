@@ -1,4 +1,4 @@
-# Der Hirte des Hermas, Buch 3 – Kapitel 5
+# Der Hirte des Hermas, Buch 3 – Kapitel 5: Fasten wird Gott erst durch Gebotstreue und tätige Hilfe für Bedürftige wohlgefällig
 
 Autor: Hermas
 

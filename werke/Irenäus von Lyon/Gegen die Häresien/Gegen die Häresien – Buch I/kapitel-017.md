@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 17
+# Gegen die Häresien – Buch I – Kapitel 17: Die Schöpfung soll die Äonen in Zahlen abbilden, bleibt aber eine vergängliche Nachahmung der Ewigkeit
 
 Autor: Irenäus von Lyon
 

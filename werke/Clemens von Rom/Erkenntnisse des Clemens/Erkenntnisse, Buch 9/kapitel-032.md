@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 32
+# Erkenntnisse, Buch 9 – Kapitel 32: Der Alte hält an der Schicksalsmacht der Sterne fest, weil er das Horoskop seiner Frau bestätigt sieht
 
 Autor: Clemens von Rom
 

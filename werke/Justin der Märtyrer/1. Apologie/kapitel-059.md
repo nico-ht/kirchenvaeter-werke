@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 59
+# 1\. Apologie – Kapitel 59: Platon übernimmt von Mose die Lehre, dass Gott die Welt aus formloser Materie schuf
 
 Autor: Justin der Märtyrer
 

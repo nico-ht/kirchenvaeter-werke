@@ -1,4 +1,4 @@
-# 81\. Homilie über Matthäus – Kapitel 4
+# 81\. Homilie über Matthäus – Kapitel 4: Habsucht bringt statt Freude am Besitz quälende Sorgen und künftig die Strafe der Gehenna
 
 Autor: Johannes Chrysostomus
 

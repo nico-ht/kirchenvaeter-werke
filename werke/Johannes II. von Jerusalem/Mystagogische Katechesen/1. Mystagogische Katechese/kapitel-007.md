@@ -1,4 +1,4 @@
-# 1\. Mystagogische Katechese – Kapitel 7
+# 1\. Mystagogische Katechese – Kapitel 7: Wie die heilige Anrufung Brot und Wein verwandelt, so entheiligt die Dämonenanrufung schlichte Speisen
 
 Autor: Johannes II\. von Jerusalem
 

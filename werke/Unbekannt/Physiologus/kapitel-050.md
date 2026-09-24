@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 50
+# Physiologus – Kapitel 50: Die rote Taube: Christus allein erlöst durch sein Blut und sammelt die Völker in der einen Kirche
 
 Autor: Unbekannt
 

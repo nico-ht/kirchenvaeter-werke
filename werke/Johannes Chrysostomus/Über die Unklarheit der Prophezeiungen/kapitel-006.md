@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 6
+# Über die Unklarheit der Prophezeiungen – Kapitel 6: Die begrenzte Geltung des Gesetzes blieb verhüllt, damit es nicht vorzeitig verachtet wurde
 
 Autor: Johannes Chrysostomus
 

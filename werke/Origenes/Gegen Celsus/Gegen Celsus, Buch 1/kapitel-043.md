@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 43
+# Gegen Celsus, Buch 1 – Kapitel 43: Wer den Propheten glaubt, kann Jesu Taufzeugnis angesichts seiner größeren Werke nicht als Erfindung abtun
 
 Autor: Origenes
 

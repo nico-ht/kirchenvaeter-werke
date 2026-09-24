@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 51
+# Physiologus – Kapitel 51: Die Sonneneidechse mahnt, Christus zu suchen: Er öffnet die Augen des Herzens und erneuert den alten Menschen
 
 Autor: Unbekannt
 

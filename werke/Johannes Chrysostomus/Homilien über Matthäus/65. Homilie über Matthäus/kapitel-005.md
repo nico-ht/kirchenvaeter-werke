@@ -1,4 +1,4 @@
-# 65\. Homilie über Matthäus – Kapitel 5
+# 65\. Homilie über Matthäus – Kapitel 5: Demut erhebt über die Leidenschaften, Hochmut macht zum Sklaven fremder Ehre
 
 Autor: Johannes Chrysostomus
 

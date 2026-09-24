@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 1
+# Über die Einheit der Kirche – Kapitel 1: Der Feind ist im Schein des Friedens gefährlicher als in offener Verfolgung
 
 Autor: Cyprian von Karthago
 

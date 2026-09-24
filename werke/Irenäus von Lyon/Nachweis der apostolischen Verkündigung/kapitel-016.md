@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 16
+# Nachweis der apostolischen Verkündigung – Kapitel 16: Satans neidvolle Verführung führt zu seinem Sturz und zur Vertreibung des Menschen aus dem Paradies
 
 Autor: Irenäus von Lyon
 

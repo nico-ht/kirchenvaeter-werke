@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 30
+# Kirchengeschichte Buch 6 – Kapitel 30: Nach fünf Jahren bei Origenes werden Theodor und Athenodor wegen ihrer Erkenntnis und Tugend zu Bischöfen berufen
 
 Autor: Rufinus von Aquila
 

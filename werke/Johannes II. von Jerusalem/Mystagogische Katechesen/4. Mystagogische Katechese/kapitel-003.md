@@ -1,4 +1,4 @@
-# 4\. Mystagogische Katechese – Kapitel 3
+# 4\. Mystagogische Katechese – Kapitel 3: Der Empfang von Christi Leib und Blut vereint uns mit ihm und lässt uns an der göttlichen Natur teilhaben
 
 Autor: Johannes II\. von Jerusalem
 

@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 11
+# Erkenntnisse, Buch 8 – Kapitel 11: Vorsehung kann die Welt ordnen, einzelne Teile lenken oder beides zugleich
 
 Autor: Clemens von Rom
 

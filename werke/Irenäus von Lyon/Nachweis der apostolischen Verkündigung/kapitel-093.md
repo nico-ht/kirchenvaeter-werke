@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 93
+# Nachweis der apostolischen Verkündigung – Kapitel 93: Durch den Glauben werden aus Götzenverehrern Abrahams Söhne und Gottes heiliges Volk
 
 Autor: Irenäus von Lyon
 

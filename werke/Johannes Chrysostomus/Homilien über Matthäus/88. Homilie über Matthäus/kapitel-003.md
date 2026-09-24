@@ -1,4 +1,4 @@
-# 88\. Homilie über Matthäus – Kapitel 3
+# 88\. Homilie über Matthäus – Kapitel 3: Im Armen empfängt Christus selbst die Gabe, doch die Gemeinde muss das Geben erst noch lernen
 
 Autor: Johannes Chrysostomus
 

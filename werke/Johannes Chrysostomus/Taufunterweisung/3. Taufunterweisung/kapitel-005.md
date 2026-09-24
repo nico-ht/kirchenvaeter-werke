@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 5
+# 3\. Taufunterweisung  – Kapitel 5: Gott befreit nicht nur von Sünden, sondern macht zu Miterben Christi und Werkzeugen des Geistes
 
 Autor: Johannes Chrysostomus
 

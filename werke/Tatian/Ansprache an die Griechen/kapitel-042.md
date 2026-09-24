@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 42
+# Ansprache an die Griechen – Kapitel 42: Tatian stellt seine Lehren zur Prüfung und hält unbeirrbar an der gottgemäßen Lebensweise fest
 
 Autor: Tatian
 

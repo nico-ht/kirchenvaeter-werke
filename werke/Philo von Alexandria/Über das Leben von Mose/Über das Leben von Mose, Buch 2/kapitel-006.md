@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 6
+# Über das Leben von Mose, Buch 2 – Kapitel 6: Mit Gottes Hilfe wird das Gesetz des Mose zum Nutzen der ganzen Menschheit ins Griechische übersetzt
 
 Autor: Philo von Alexandria
 

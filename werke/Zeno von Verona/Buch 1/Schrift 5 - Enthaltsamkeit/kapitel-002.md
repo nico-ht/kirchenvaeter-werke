@@ -1,4 +1,4 @@
-# Schrift 5 \- Enthaltsamkeit – Kapitel 2
+# Schrift 5 \- Enthaltsamkeit – Kapitel 2: Die Jungfrau sucht Gottes Gefallen und bleibt von den Ängsten der Mutterschaft verschont
 
 Autor: Zeno von Verona
 

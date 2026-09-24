@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 22
+# Gegen die Häresien – Buch I – Kapitel 22: Die Wahrheit vom einen Schöpfer und Vater Jesu Christi als Maßstab zur Widerlegung der Häretiker
 
 Autor: Irenäus von Lyon
 

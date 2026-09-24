@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 58
+# 1\. Apologie – Kapitel 58: Mit Marcions Lehre von einem anderen Gott und Sohn führen Dämonen vom Schöpfer und seinem Christus weg
 
 Autor: Justin der Märtyrer
 

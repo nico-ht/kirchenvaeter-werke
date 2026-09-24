@@ -1,4 +1,4 @@
-# 4\. Mystagogische Katechese – Kapitel 4
+# 4\. Mystagogische Katechese – Kapitel 4: Weil die Juden Christi Worte von Fleisch und Blut nicht geistlich verstehen, nehmen sie Anstoß
 
 Autor: Johannes II\. von Jerusalem
 

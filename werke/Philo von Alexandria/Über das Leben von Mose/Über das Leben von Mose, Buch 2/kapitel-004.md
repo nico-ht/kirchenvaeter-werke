@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 4
+# Über das Leben von Mose, Buch 2 – Kapitel 4: Anders als andere Gesetzesordnungen werden die Gesetze des Mose von nahezu allen Völkern geehrt
 
 Autor: Philo von Alexandria
 

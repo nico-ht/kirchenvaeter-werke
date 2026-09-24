@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 28
+# 1\. Apologie – Kapitel 28: Gott schiebt die Strafe des Teufels auf, damit noch Menschen durch Buße gerettet werden können
 
 Autor: Justin der Märtyrer
 

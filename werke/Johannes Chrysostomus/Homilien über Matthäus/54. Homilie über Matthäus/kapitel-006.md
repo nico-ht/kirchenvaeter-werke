@@ -1,4 +1,4 @@
-# 54\. Homilie über Matthäus – Kapitel 6
+# 54\. Homilie über Matthäus – Kapitel 6: Der überreiche himmlische Lohn macht es leicht, den Bedürftigen barmherzig zu sein
 
 Autor: Johannes Chrysostomus
 

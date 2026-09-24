@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 1
+# Kirchengeschichte Buch 7 – Kapitel 1: Gallus verfolgt die Christen, die für sein Reich beten, und vertreibt damit Glück und Frieden
 
 Autor: Rufinus von Aquila
 

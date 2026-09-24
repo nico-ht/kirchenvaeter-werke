@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 30
+# 11\. Taufunterweisung – Kapitel 30: Der Prediger bittet um Gedenken bei der Taufe – anders als Josef bekennt er seine Schuld
 
 Autor: Johannes Chrysostomus
 

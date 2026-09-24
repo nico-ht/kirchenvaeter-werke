@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 21
+# 4\. Taufunterweisung – Kapitel 21: Die Rechtschaffenheit soll Zuschauer dazu bewegen, Gott anzubeten
 
 Autor: Johannes Chrysostomus
 

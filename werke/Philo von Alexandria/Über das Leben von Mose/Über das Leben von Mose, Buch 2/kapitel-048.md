@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 48
+# Über das Leben von Mose, Buch 2 – Kapitel 48: Die Himmelsspeise offenbart die Heiligkeit des siebten Tages, indem sie der Schöpfungsordnung folgt
 
 Autor: Philo von Alexandria
 

@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 66
+# Gegen Celsus, Buch 1 – Kapitel 66: Jesu Flucht erklärt sich aus seiner Menschwerdung, nicht aus einem Mangel an göttlicher Macht
 
 Autor: Origenes
 

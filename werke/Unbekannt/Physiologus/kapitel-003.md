@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 3
+# Physiologus – Kapitel 3: Das Feuer der Piroboli\-Steine mahnt zur Distanz zwischen Mann und Frau, um Christi Gaben zu bewahren
 
 Autor: Unbekannt
 

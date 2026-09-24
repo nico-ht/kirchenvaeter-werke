@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 7
+# 9\. Taufunterweisung  – Kapitel 7: Der bevorstehende Abschied von Familie und Leben stürzt den sterbenden Täufling in Verzweiflung
 
 Autor: Johannes Chrysostomus
 

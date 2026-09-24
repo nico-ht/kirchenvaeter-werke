@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 22
+# Gegen die Häresien – Buch IV – Kapitel 22: Christus steigt zu den Toten hinab und schenkt auch den Gerechten früherer Zeiten Anteil an seinem Reich
 
 Autor: Irenäus von Lyon
 

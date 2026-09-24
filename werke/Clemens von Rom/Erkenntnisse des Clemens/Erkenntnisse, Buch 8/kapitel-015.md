@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 15
+# Erkenntnisse, Buch 8 – Kapitel 15: Die widersprüchlichen Lehren über Weltstoffe führen alle zu einem Schöpfer
 
 Autor: Clemens von Rom
 

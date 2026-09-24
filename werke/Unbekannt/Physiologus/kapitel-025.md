@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 25
+# Physiologus – Kapitel 25: Der Herr ist ein Diamantfels: Wer ihn besitzt, dem widerfährt kein Unheil
 
 Autor: Unbekannt
 

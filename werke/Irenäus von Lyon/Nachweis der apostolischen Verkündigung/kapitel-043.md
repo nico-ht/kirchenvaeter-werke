@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 43
+# Nachweis der apostolischen Verkündigung – Kapitel 43: Gottes Sohn ist das Wort, das vor der Schöpfung beim Vater war und durch das alles geschaffen wurde
 
 Autor: Irenäus von Lyon
 

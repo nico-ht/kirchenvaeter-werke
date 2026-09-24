@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 30
+# 1\. Apologie – Kapitel 30: Erfüllte Prophezeiungen belegen Christi Gottessohnschaft und entkräften den Verdacht bloßer Magie
 
 Autor: Justin der Märtyrer
 

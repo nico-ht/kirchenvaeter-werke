@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 36
+# Gegen Celsus, Buch 2 – Kapitel 36: Blut und Wasser aus Jesu Leichnam und die Zeichen bei seinem Tod bezeugen seine Göttlichkeit
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 16
+# Über die Einheit der Kirche – Kapitel 16: Die Zunahme von Häresien und Spaltungen erfüllt die apostolische Vorhersage für die letzte Zeit
 
 Autor: Cyprian von Karthago
 

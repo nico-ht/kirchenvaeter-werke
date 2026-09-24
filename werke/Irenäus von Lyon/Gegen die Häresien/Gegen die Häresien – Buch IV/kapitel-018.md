@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 18
+# Gegen die Häresien – Buch IV – Kapitel 18: Die Eucharistie der Kirche ist Dank an den Schöpfer und bestätigt die Hoffnung auf leibliche Auferstehung
 
 Autor: Irenäus von Lyon
 

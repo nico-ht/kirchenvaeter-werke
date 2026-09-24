@@ -1,4 +1,4 @@
-# Apologie – Kapitel 2
+# Apologie – Kapitel 2: Die widersprüchlichen Verfahren gegen Christen zeigen: Verfolgt wird der Name, nicht ein erwiesenes Verbrechen
 
 Autor: Tertullian
 

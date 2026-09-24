@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 17
+# Über die Sterblichkeit – Kapitel 17: Gott belohnt den Glauben auch dann, wenn der Tod das ersehnte Martyrium verhindert
 
 Autor: Cyprian von Karthago
 

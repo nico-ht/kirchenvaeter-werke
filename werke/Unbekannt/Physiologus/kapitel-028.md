@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 28
+# Physiologus – Kapitel 28: Die Nesttreue des Reihers mahnt, geistliche Nahrung allein in der katholischen Kirche statt bei Häretikern zu suchen
 
 Autor: Unbekannt
 

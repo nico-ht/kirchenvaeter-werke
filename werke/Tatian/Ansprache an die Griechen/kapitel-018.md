@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 18
+# Ansprache an die Griechen – Kapitel 18: Heilung ist bei Gott zu suchen: Dämonen beseitigen nur Krankheiten, die sie selbst verursacht haben
 
 Autor: Tatian
 

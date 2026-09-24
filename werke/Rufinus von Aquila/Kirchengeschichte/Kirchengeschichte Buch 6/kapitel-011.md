@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 11
+# Kirchengeschichte Buch 6 – Kapitel 11: Göttliche Offenbarungen führen Alexander als Mitbischof an die Seite des greisen Narcissus in Jerusalem
 
 Autor: Rufinus von Aquila
 

@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 37
+# Gegen die Häresien – Buch IV – Kapitel 37: Gott hat den Menschen frei geschaffen, damit er das Gute wählt und durch Bewährung schätzen lernt
 
 Autor: Irenäus von Lyon
 

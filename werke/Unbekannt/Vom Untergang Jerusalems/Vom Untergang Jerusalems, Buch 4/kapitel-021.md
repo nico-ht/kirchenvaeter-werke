@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 21
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 21: Nach den Machtwechseln in Rom unterbricht Vespasian aus Sorge um das Reich den Krieg in Judäa
 
 Autor: Unbekannt
 

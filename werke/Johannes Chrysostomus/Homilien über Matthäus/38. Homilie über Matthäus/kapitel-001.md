@@ -1,4 +1,4 @@
-# 38\. Homilie über Matthäus – Kapitel 1
+# 38\. Homilie über Matthäus – Kapitel 1: Jesus dankt für Gottes Offenbarung an die Schlichten und bewahrt sie damit vor Überheblichkeit
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Apologie – Kapitel 13
+# Apologie – Kapitel 13: Die Heiden entehren ihre Götter selbst, indem sie über deren Rang verfügen und ihren Kult zum Geschäft machen
 
 Autor: Tertullian
 

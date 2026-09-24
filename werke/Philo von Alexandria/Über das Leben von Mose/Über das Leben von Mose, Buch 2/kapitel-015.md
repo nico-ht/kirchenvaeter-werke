@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 15
+# Über das Leben von Mose, Buch 2 – Kapitel 15: Mose soll als Hohepriester das bewegliche Heiligtum nach den von Gott gezeigten Urbildern errichten
 
 Autor: Philo von Alexandria
 

@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 71
+# Nachweis der apostolischen Verkündigung – Kapitel 71: Jeremias „Schatten“ meint Christi leidenden Leib, den sein Geist hervorbringt und mit Herrlichkeit bedeckt
 
 Autor: Irenäus von Lyon
 

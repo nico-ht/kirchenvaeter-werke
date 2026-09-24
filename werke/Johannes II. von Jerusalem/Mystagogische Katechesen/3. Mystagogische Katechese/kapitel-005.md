@@ -1,4 +1,4 @@
-# 3\. Mystagogische Katechese – Kapitel 5
+# 3\. Mystagogische Katechese – Kapitel 5: Erst durch Taufe und die Gnade des Heiligen Geistes seid ihr Christen im eigentlichen Sinn
 
 Autor: Johannes II\. von Jerusalem
 

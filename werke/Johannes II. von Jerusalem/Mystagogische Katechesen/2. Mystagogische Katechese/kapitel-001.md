@@ -1,4 +1,4 @@
-# 2\. Mystagogische Katechese – Kapitel 1
+# 2\. Mystagogische Katechese – Kapitel 1: Die mystagogische Unterweisung erklärt, wofür die im inneren Raum vollzogenen Handlungen stehen
 
 Autor: Johannes II\. von Jerusalem
 

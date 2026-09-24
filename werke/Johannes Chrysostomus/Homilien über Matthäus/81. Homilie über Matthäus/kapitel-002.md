@@ -1,4 +1,4 @@
-# 81\. Homilie über Matthäus – Kapitel 2
+# 81\. Homilie über Matthäus – Kapitel 2: Christi Heilswirken entschuldigt Judas nicht, denn niemand ist aus Zwang böse
 
 Autor: Johannes Chrysostomus
 

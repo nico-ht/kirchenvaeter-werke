@@ -1,4 +1,4 @@
-# Psalm 2 – Kapitel 6
+# Psalm 2 – Kapitel 6: „Du bist mein Sohn“ bezeugt Christi Gottheit und wird ihm auch als Menschen zugesprochen
 
 Autor: Theodoret von Kyrrhos
 

@@ -1,4 +1,4 @@
-# 2\. Brief über die Jungfräulichkeit – Kapitel 14
+# 2\. Brief über die Jungfräulichkeit – Kapitel 14: Propheten und Volk Israel dienen als Vorbilder für die Trennung von Männern und Frauen
 
 Autor: Clemens von Rom
 

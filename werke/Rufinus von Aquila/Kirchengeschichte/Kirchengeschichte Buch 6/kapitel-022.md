@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 22
+# Kirchengeschichte Buch 6 – Kapitel 22: Hippolyt erstellt eine Passahtafel im sechzehnjährigen Zyklus und verfasst Auslegungen und Schriften gegen Häresien
 
 Autor: Rufinus von Aquila
 

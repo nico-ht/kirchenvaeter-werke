@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 26
+# Gegen die Häresien – Buch I – Kapitel 26: Cerinthus trennt Jesus von Christus, die Ebioniten halten am Gesetz fest, die Nikolaiten rechtfertigen Ausschweifung
 
 Autor: Irenäus von Lyon
 

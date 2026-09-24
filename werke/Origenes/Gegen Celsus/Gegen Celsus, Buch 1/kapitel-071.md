@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 71
+# Gegen Celsus, Buch 1 – Kapitel 71: Gott hasst keines seiner Geschöpfe; Celsus’ Schmähung Jesu ersetzt keine sachliche Prüfung
 
 Autor: Origenes
 

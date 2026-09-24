@@ -1,4 +1,4 @@
-# 28\. Homilie über Matthäus – Kapitel 3
+# 28\. Homilie über Matthäus – Kapitel 3: Der Untergang der Schweine zeigt, wie Gottes Fürsorge die Zerstörungsmacht der Dämonen begrenzt
 
 Autor: Johannes Chrysostomus
 

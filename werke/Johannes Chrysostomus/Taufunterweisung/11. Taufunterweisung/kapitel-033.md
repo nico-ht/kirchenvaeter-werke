@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 33
+# 11\. Taufunterweisung – Kapitel 33: Christus gebietet: Erst die Versöhnung mit dem Bruder, dann die Darbringung der Gabe
 
 Autor: Johannes Chrysostomus
 

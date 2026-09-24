@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 42
+# Erkenntnisse, Buch 8 – Kapitel 42: Auch der Regenbogen setzt einen zuvor geschaffenen Urtyp voraus
 
 Autor: Clemens von Rom
 

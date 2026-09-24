@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 5
+# Ansprache an die Griechen – Kapitel 5: Der Logos geht ohne Abtrennung aus Gott hervor und schafft die Welt samt ihrer Materie
 
 Autor: Tatian
 

@@ -1,4 +1,4 @@
-# Brief an die Trallianer – Kapitel 1
+# Brief an die Trallianer – Kapitel 1: In Bischof Polybius erkennt Ignatius die standhafte und fromme Gesinnung der ganzen Gemeinde
 
 Autor: Ignatius von Antiochien
 

@@ -1,4 +1,4 @@
-# 2\. Homilie über Genesis – Kapitel 11
+# 2\. Homilie über Genesis – Kapitel 11: Wer alltägliche Stoffverwandlungen nicht erklären kann, kann die Schöpfung aus Nichts nicht widerlegen
 
 Autor: Johannes Chrysostomus
 

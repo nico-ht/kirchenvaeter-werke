@@ -1,4 +1,4 @@
-# Der Erzieher: Buch 1 – Kapitel 6
+# Der Erzieher: Buch 1 – Kapitel 6: Warum Gottes Kinder im Glauben vollkommen sind und die Milch des Wortes keine mindere Nahrung ist
 
 Autor: Clemens von Alexandria
 

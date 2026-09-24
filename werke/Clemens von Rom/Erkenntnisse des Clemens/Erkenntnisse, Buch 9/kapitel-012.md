@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 12
+# Erkenntnisse, Buch 9 – Kapitel 12: Dämonen lassen die Astrologie wahr erscheinen, doch Umkehr und Taufe können die Todesstrafe abwenden
 
 Autor: Clemens von Rom
 

@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 7
+# Nachweis der apostolischen Verkündigung – Kapitel 7: In der Taufe schenkt der Vater durch den Sohn im Heiligen Geist Wiedergeburt und Unvergänglichkeit
 
 Autor: Irenäus von Lyon
 

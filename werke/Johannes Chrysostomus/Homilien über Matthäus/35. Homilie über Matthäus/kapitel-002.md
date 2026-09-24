@@ -1,4 +1,4 @@
-# 35\. Homilie über Matthäus – Kapitel 2
+# 35\. Homilie über Matthäus – Kapitel 2: Wer für Christus sein Leben hingibt, gewinnt es; auch der kleinste Dienst an seinen Jüngern wird belohnt
 
 Autor: Johannes Chrysostomus
 

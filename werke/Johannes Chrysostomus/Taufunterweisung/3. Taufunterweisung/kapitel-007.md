@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 7
+# 3\. Taufunterweisung  – Kapitel 7: Großer Eifer soll der empfangenen Ehre gerecht werden
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# 68\. Homilie über Matthäus – Kapitel 3
+# 68\. Homilie über Matthäus – Kapitel 3: Warum das scheinbar harte Leben der Mönche mehr Freude bietet als die Jagd nach weltlichem Vergnügen
 
 Autor: Johannes Chrysostomus
 

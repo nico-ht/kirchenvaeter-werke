@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 22
+# Kirchengeschichte Buch 7 – Kapitel 22: Mit dem Ende des Tyrannen Macrianus erneuert Gallienus seine Friedensherrschaft
 
 Autor: Rufinus von Aquila
 

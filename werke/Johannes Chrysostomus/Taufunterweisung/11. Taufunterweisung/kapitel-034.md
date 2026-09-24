@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 34
+# 11\. Taufunterweisung – Kapitel 34: Der Mund ist der Eingang des Tempels Christi: Darum fordert der heilige Kuss ein reines Gewissen
 
 Autor: Johannes Chrysostomus
 

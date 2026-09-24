@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 2
+# 4\. Taufunterweisung – Kapitel 2: Die Fülle der Getauften lässt Gottes unbegreifliche Güte preisen
 
 Autor: Johannes Chrysostomus
 

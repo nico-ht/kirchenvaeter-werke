@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 51
+# Gegen Celsus, Buch 2 – Kapitel 51: Wer Zauberei gelten lässt, muss göttliche Wunder anerkennen und beide an Lebenswandel und Wirkung unterscheiden
 
 Autor: Origenes
 

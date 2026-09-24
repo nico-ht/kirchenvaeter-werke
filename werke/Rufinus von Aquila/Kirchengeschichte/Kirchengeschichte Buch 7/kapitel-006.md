@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 6
+# Kirchengeschichte Buch 7 – Kapitel 6: Sabellius’ Lehre leugnet Christi wahre Sohnschaft und hebt jedes Verständnis vom Heiligen Geist auf
 
 Autor: Rufinus von Aquila
 

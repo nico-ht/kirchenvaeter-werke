@@ -1,4 +1,4 @@
-# 30\. Homilie über Matthäus – Kapitel 6
+# 30\. Homilie über Matthäus – Kapitel 6: Schminke entstellt Gottes Werk – Christus sucht die Schönheit der Seele
 
 Autor: Johannes Chrysostomus
 

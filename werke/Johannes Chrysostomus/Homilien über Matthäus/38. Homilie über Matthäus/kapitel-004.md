@@ -1,4 +1,4 @@
-# 38\. Homilie über Matthäus – Kapitel 4
+# 38\. Homilie über Matthäus – Kapitel 4: Das Joch der Tugend ist leicht, weil es die Seele von den Lasten der Sünde befreit
 
 Autor: Johannes Chrysostomus
 

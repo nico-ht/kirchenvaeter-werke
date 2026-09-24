@@ -1,4 +1,4 @@
-# Apologie – Kapitel 28
+# Apologie – Kapitel 28: Der Opferzwang für das Kaiserheil zeigt, dass die Ankläger menschliche Macht mehr fürchten als ihre Götter
 
 Autor: Tertullian
 

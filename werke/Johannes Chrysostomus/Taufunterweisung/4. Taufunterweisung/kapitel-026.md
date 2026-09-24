@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 26
+# 4\. Taufunterweisung – Kapitel 26: Anstand in Blick, Gang und Rede macht die Schönheit der Seele sichtbar
 
 Autor: Johannes Chrysostomus
 

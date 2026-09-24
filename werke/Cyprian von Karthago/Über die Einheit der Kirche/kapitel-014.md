@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 14
+# Über die Einheit der Kirche – Kapitel 14: Ohne Liebe und Einheit mit der Kirche kann auch der getötete Bekenner kein Märtyrer sein
 
 Autor: Cyprian von Karthago
 

@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 31
+# Erkenntnisse, Buch 9 – Kapitel 31: Wahrheitserkenntnis weckt Gerichtsfurcht und befähigt den Geist, den Antrieben zur Sünde zu widerstehen
 
 Autor: Clemens von Rom
 

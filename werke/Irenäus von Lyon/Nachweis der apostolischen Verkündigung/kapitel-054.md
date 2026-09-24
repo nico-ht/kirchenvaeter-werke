@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 54
+# Nachweis der apostolischen Verkündigung – Kapitel 54: Emmanuel ist die frohe Botschaft: Der unerwartet aus der Jungfrau geborene Sohn ist Gott mit uns
 
 Autor: Irenäus von Lyon
 

@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 23
+# Kirchengeschichte Buch 7 – Kapitel 23: Dionysius bewegt Nepos’ Anhänger durch Schriftprüfung zur Abkehr vom irdischen Tausendjährigen Reich
 
 Autor: Rufinus von Aquila
 

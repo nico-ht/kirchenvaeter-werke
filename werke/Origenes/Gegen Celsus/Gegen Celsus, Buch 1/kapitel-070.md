@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 70
+# Gegen Celsus, Buch 1 – Kapitel 70: Jesu Nahrung entspricht seinem wirklichen Körper; eine menschliche Stimme spricht nicht gegen seine Göttlichkeit
 
 Autor: Origenes
 

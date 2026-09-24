@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 17
+# Ansprache an die Griechen – Kapitel 17: Zaubermittel wirken nicht aus sich selbst: Dämonen missbrauchen Gottes gute Schöpfung
 
 Autor: Tatian
 

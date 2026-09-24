@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 27
+# Erkenntnisse, Buch 8 – Kapitel 27: Die unveränderte Erde weist im Versuch das Pflanzenwachstum dem Wasser zu
 
 Autor: Clemens von Rom
 

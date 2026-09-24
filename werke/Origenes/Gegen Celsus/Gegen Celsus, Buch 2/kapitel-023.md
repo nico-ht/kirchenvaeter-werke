@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 23
+# Gegen Celsus, Buch 2 – Kapitel 23: Jesus litt trotz freiwilliger Hingabe wirkliche Schmerzen, weil er einen menschlichen Körper angenommen hatte
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 46
+# Erkenntnisse, Buch 8 – Kapitel 46: Sonne und Mond nähren das Leben; ihre Veränderung kann zur Züchtigung werden
 
 Autor: Clemens von Rom
 

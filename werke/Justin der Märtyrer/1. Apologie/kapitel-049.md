@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 49
+# 1\. Apologie – Kapitel 49: Jesajas Weissagung erfüllt sich: Heiden glauben an Christus, Juden verkennen ihn trotz ihrer Erwartung
 
 Autor: Justin der Märtyrer
 

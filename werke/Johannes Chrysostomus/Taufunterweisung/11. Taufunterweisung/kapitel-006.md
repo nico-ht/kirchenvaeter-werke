@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 6
+# 11\. Taufunterweisung – Kapitel 6: Gott rettet seine Braut aus der Schande und kleidet sie in ein reines, herrliches Gewand
 
 Autor: Johannes Chrysostomus
 

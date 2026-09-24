@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 17
+# Gegen die Häresien – Buch IV – Kapitel 17: Gott will Gehorsam und Gerechtigkeit statt Schlachtopfer und kündigt die reine Opfergabe der Kirche an
 
 Autor: Irenäus von Lyon
 

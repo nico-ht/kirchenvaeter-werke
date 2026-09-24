@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 7
+# Diskurs über das Heil einer Jungfrau – Kapitel 7: Fasten reinigt und vertreibt Dämonen, doch ohne Abkehr von allem Bösen bleibt es wirkungslos
 
 Autor: Athanasius
 

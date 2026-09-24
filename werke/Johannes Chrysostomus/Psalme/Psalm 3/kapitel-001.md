@@ -1,4 +1,4 @@
-# Psalm 3 – Kapitel 1
+# Psalm 3 – Kapitel 1: Davids Flucht vor Absalom steht im Psalm als Warnung vor den Folgen von Ehebruch und Mord
 
 Autor: Johannes Chrysostomus
 

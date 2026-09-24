@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 77
+# Nachweis der apostolischen Verkündigung – Kapitel 77: Pilatus macht den gebundenen Christus zum Geschenk der Versöhnung mit Herodes
 
 Autor: Irenäus von Lyon
 

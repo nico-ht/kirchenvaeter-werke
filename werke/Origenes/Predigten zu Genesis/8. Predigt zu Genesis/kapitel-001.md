@@ -1,4 +1,4 @@
-# 8\. Predigt zu Genesis – Kapitel 1
+# 8\. Predigt zu Genesis – Kapitel 1: Abrahams Hoffnung auf Isaaks Auferstehung weist auf Christi Opfer und Auferstehung voraus
 
 Autor: Origenes
 

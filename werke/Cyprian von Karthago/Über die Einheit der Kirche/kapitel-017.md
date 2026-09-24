@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 17
+# Über die Einheit der Kirche – Kapitel 17: Wer sich von der Kirche trennt, widersetzt sich Gottes Ordnung und ist zu meiden
 
 Autor: Cyprian von Karthago
 

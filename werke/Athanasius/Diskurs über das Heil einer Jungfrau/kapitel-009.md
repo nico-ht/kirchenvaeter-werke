@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 9
+# Diskurs über das Heil einer Jungfrau – Kapitel 9: Askese soll verborgen bleiben, darf aber zum Heil einer gleichgesinnten Seele vertraulich offenbart werden
 
 Autor: Athanasius
 

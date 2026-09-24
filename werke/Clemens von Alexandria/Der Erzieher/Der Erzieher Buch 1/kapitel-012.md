@@ -1,4 +1,4 @@
-# Der Erzieher: Buch 1 – Kapitel 12
+# Der Erzieher: Buch 1 – Kapitel 12: Christus befreit den Menschen von unvernünftigen Begierden und erzieht ihn zu einem gottähnlichen Leben
 
 Autor: Clemens von Alexandria
 

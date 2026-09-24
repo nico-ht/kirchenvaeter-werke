@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 6
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 6: Wie Aufrührer Priestertum und Tempel entweihen und Johannes die Friedensvermittlung zur Kriegshetze nutzt
 
 Autor: Unbekannt
 

@@ -1,4 +1,4 @@
-# Psalm 2 – Kapitel 10
+# Psalm 2 – Kapitel 10: Freude an Gottes Güte verlangt auch Furcht vor seiner Gerechtigkeit, damit sie nicht weltlich wird
 
 Autor: Theodoret von Kyrrhos
 

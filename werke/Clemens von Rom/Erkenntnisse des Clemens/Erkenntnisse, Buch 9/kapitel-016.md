@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 16
+# Erkenntnisse, Buch 9 – Kapitel 16: Der Einwand gegen Clemens: Sternstellungen erzwingen böse Taten ebenso wie tugendhaftes Handeln
 
 Autor: Clemens von Rom
 

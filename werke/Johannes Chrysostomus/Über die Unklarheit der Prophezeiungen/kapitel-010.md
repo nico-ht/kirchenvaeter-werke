@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 10
+# Über die Unklarheit der Prophezeiungen – Kapitel 10: Der Mensch verlor seine ursprüngliche Gabe selbst; Gottes Gnade schenkt ihm Größeres zurück
 
 Autor: Johannes Chrysostomus
 

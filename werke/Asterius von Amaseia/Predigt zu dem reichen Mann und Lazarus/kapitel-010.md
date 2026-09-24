@@ -1,4 +1,4 @@
-# Predigt zu dem reichen Mann und Lazarus – Kapitel 10
+# Predigt zu dem reichen Mann und Lazarus – Kapitel 10: Mit dem Tod kehrt die Erinnerung zurück, doch ohne Möglichkeit zur Umkehr bleibt die Reue vergeblich
 
 Autor: Asterius von Amaseia
 

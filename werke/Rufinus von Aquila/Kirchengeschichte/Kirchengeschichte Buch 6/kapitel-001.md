@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 1
+# Kirchengeschichte Buch 6 – Kapitel 1: In der Verfolgung unter Severus stirbt Origenes’ Vater Leonides als Märtyrer in Alexandria
 
 Autor: Rufinus von Aquila
 

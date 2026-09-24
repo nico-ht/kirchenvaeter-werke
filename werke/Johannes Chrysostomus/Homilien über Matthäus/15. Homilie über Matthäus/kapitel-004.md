@@ -1,4 +1,4 @@
-# 15\. Homilie über Matthäus – Kapitel 4
+# 15\. Homilie über Matthäus – Kapitel 4: Christus verheißt der Tugend Lohn und preist selbst die um seinetwillen Verfolgten selig
 
 Autor: Johannes Chrysostomus
 

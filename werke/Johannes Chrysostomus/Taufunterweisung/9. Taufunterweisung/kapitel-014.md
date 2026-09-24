@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 14
+# 9\. Taufunterweisung  – Kapitel 14: Das Berühren eines Leichnams macht nicht von Natur aus unrein, sondern wegen eines schwachen Gewissens
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 2
+# Gegen die Häresien – Buch I – Kapitel 2: Wie in der Äonenlehre Sophias verfehlte Vatersuche zur Neuordnung des Pleromas führt
 
 Autor: Irenäus von Lyon
 

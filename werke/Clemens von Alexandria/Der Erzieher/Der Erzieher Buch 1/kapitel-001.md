@@ -1,4 +1,4 @@
-# Der Erzieher: Buch 1 – Kapitel 1
+# Der Erzieher: Buch 1 – Kapitel 1: Das göttliche Wort ermutigt, heilt als Erzieher die Seele und führt sie erst dann als Lehrer zur Erkenntnis
 
 Autor: Clemens von Alexandria
 

@@ -1,4 +1,4 @@
-# 10\. Homilie über Matthäus – Kapitel 3
+# 10\. Homilie über Matthäus – Kapitel 3: Johannes bereitet den Weg für Gottes Heil, das durch Gnade Menschen aus allen Völkern verwandelt
 
 Autor: Johannes Chrysostomus
 

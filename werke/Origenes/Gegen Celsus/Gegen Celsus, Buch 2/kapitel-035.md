@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 35
+# Gegen Celsus, Buch 2 – Kapitel 35: Ausbleibende Rache widerlegt Jesu Göttlichkeit ebenso wenig wie Gottes Vorsehung
 
 Autor: Origenes
 

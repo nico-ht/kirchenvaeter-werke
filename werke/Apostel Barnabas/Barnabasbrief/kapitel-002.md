@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 2
+# Barnabasbrief – Kapitel 2: Gott sucht ein zerbrochenes Herz und braucht keine Schlachtopfer
 
 Autor: Apostel Barnabas
 

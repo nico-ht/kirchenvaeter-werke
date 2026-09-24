@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 85
+# Nachweis der apostolischen Verkündigung – Kapitel 85: Der auferstandene Christus sitzt zur Rechten des Vaters und erwartet das Gericht über seine Feinde
 
 Autor: Irenäus von Lyon
 

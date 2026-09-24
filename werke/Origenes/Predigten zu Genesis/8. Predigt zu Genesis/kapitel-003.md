@@ -1,4 +1,4 @@
-# 8\. Predigt zu Genesis – Kapitel 3
+# 8\. Predigt zu Genesis – Kapitel 3: Auf dem Opferweg ringt Abraham zwischen Vaterliebe und Glauben; der Bergaufstieg führt über das Irdische hinaus
 
 Autor: Origenes
 

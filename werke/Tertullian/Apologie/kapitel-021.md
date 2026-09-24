@@ -1,4 +1,4 @@
-# Apologie – Kapitel 21
+# Apologie – Kapitel 21: Christus ist Gottes menschgewordenes Wort: Durch ihn wird der eine Gott erkannt und verehrt
 
 Autor: Tertullian
 

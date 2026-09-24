@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 9
+# 4\. Taufunterweisung – Kapitel 9: Nach seiner Erleuchtung verkündet Paulus die Wahrheit zuerst den Empfängern seiner Verfolgungsbriefe
 
 Autor: Johannes Chrysostomus
 

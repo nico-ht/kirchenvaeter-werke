@@ -1,4 +1,4 @@
-# 1\. Brief über die Jungfräulichkeit – Kapitel 3
+# 1\. Brief über die Jungfräulichkeit – Kapitel 3: Jungfräulichkeit verlangt heilige Tugenden und die Abkehr von den Verlockungen der Welt
 
 Autor: Clemens von Rom
 

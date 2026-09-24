@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 20
+# Diskurs über das Heil einer Jungfrau – Kapitel 20: Christi Auferstehung begründet das mitternächtliche Gotteslob mit Psalmen, Gebet und Sündenbekenntnis
 
 Autor: Athanasius
 

@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 11
+# 11\. Taufunterweisung – Kapitel 11: Warum wir Gläubige heißen: Der Glaube erkennt, was leiblichen Augen und menschlicher Vernunft verborgen bleibt
 
 Autor: Johannes Chrysostomus
 

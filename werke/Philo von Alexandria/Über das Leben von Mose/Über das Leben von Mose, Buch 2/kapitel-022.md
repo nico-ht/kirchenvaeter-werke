@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 22
+# Über das Leben von Mose, Buch 2 – Kapitel 22: Das wahre Opfer ist die Frömmigkeit der gottliebenden Seele – auch ohne Opfertier
 
 Autor: Philo von Alexandria
 

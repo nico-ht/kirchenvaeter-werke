@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 35
+# Gegen die Häresien – Buch IV – Kapitel 35: Warum die gnostische Aufteilung der Schrift auf Pleroma und Schöpfer an ihren eigenen Widersprüchen scheitert
 
 Autor: Irenäus von Lyon
 

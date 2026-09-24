@@ -1,4 +1,4 @@
-# Predigt zu dem reichen Mann und Lazarus – Kapitel 4
+# Predigt zu dem reichen Mann und Lazarus – Kapitel 4: Gott gibt Wolle und Flachs zur Kleidung – wer Prunkgewänder sucht, missbraucht seinen Reichtum
 
 Autor: Asterius von Amaseia
 

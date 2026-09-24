@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 15
+# Gegen Celsus, Buch 2 – Kapitel 15: Der offene Bericht vom Versagen der Jünger entkräftet den Vorwurf erfundener Vorhersagen Jesu
 
 Autor: Origenes
 

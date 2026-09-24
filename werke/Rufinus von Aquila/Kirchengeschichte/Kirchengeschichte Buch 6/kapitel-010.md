@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 10
+# Kirchengeschichte Buch 6 – Kapitel 10: Nach drei Nachfolgern bitten die Brüder den zurückgekehrten Narcissus, die Kirche erneut zu leiten
 
 Autor: Rufinus von Aquila
 

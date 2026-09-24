@@ -1,4 +1,4 @@
-# 51\. Homilie über Matthäus – Kapitel 6
+# 51\. Homilie über Matthäus – Kapitel 6: Der Räuber schadet sich selbst durch Habgier, der Beraubte gewinnt durch standhaftes Ertragen
 
 Autor: Johannes Chrysostomus
 

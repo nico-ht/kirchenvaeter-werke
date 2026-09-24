@@ -1,4 +1,4 @@
-# 1\. Brief über die Jungfräulichkeit – Kapitel 6
+# 1\. Brief über die Jungfräulichkeit – Kapitel 6: Christus und die keuschen Heiligen sind Vorbilder für das jungfräuliche Leben
 
 Autor: Clemens von Rom
 

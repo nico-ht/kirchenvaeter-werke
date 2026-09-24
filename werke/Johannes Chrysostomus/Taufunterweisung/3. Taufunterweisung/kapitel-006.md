@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 6
+# 3\. Taufunterweisung  – Kapitel 6: Warum auch sündlose Säuglinge getauft werden: Die Taufe schenkt mehr als Sündenvergebung
 
 Autor: Johannes Chrysostomus
 

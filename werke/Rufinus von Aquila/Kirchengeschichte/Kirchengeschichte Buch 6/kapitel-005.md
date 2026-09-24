@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 5
+# Kirchengeschichte Buch 6 – Kapitel 5: Judas folgert aus der Härte der Verfolgungen, dass die Ankunft des Antichrists unmittelbar bevorsteht
 
 Autor: Rufinus von Aquila
 

@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 9
+# Ansprache an die Griechen – Kapitel 9: Dämonen erfinden die Schicksalslehre – wer den einen Herrn erkennt, steht über dem Schicksal
 
 Autor: Tatian
 

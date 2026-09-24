@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 20
+# Gegen die Häresien – Buch I – Kapitel 20: Gefälschte Schriften und verdrehte Evangelienworte sollen die Lehre vom unbekannten Vater belegen
 
 Autor: Irenäus von Lyon
 

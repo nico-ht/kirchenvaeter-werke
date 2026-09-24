@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 10
+# 3\. Taufunterweisung  – Kapitel 10: Warum der Teufel mit jedem Sieg eine schwerere Strafe auf sich zieht
 
 Autor: Johannes Chrysostomus
 

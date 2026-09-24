@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 33
+# Über das Leben von Mose, Buch 2 – Kapitel 33: Der sprossende Stab bestätigt, dass Mose seinen Bruder nach Gottes Willen zum Hohepriester eingesetzt hat
 
 Autor: Philo von Alexandria
 

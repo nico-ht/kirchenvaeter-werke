@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 52
+# Nachweis der apostolischen Verkündigung – Kapitel 52: Glaube an Christus und von Gott geschenkte Einsicht erschließen die prophetischen Zeugnisse über ihn
 
 Autor: Irenäus von Lyon
 

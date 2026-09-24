@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 73
+# Gegen Celsus, Buch 2 – Kapitel 73: Schon vor seiner Auferstehung rief Jesus alle zum Licht und erklärte den Zweck seines Kommens
 
 Autor: Origenes
 

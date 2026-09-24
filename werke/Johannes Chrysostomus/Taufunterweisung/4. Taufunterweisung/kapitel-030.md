@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 30
+# 4\. Taufunterweisung – Kapitel 30: Wer den geistlichen Schatz bewahren will, muss wachsam vor dem Feind bleiben
 
 Autor: Johannes Chrysostomus
 

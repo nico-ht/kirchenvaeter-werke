@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 41
+# Ansprache an die Griechen – Kapitel 41: Auch die ältesten griechischen Dichter, Gesetzgeber und Weisen lebten nach Mose
 
 Autor: Tatian
 

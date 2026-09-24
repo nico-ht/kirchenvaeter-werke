@@ -1,4 +1,4 @@
-# Brief an die Trallianer – Kapitel 8
+# Brief an die Trallianer – Kapitel 8: Im Glauben und in der Liebe gestärkt, soll die Gemeinde Groll meiden und den Heiden keinen Anlass zur Schmähung geben
 
 Autor: Ignatius von Antiochien
 

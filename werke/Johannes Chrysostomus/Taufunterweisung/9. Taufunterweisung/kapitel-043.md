@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 43
+# 9\. Taufunterweisung  – Kapitel 43: Die Gewohnheit, nicht zu schwören, schützt auch bei Nachlässigkeit vor dieser Sünde
 
 Autor: Johannes Chrysostomus
 

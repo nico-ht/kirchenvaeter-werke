@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 38
+# Physiologus – Kapitel 38: Die Hyäne als Bild derer, die in der Gemeinde Gott dienen, danach aber Vergnügen und Besitz nachjagen
 
 Autor: Unbekannt
 

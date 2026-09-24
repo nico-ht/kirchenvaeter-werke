@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 13
+# 1\. Apologie – Kapitel 13: Christen verehren den Schöpfer mit Dank statt Opfern, nach ihm den gekreuzigten Sohn und den prophetischen Geist
 
 Autor: Justin der Märtyrer
 

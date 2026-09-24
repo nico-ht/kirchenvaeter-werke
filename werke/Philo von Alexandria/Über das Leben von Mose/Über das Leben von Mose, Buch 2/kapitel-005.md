@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 5
+# Über das Leben von Mose, Buch 2 – Kapitel 5: Der Ruhm der mosaischen Gesetze führt zu ihrer griechischen Übersetzung unter Ptolemaios Philadelphos
 
 Autor: Philo von Alexandria
 

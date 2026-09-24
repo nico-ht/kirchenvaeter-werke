@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 18
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 18: Sodoms Brandspuren am Toten Meer bezeugen Gottes Gericht und die Vergeltung für die Gerechten
 
 Autor: Unbekannt
 

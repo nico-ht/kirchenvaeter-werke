@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 16
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 16: Vespasian nimmt das ungeschützte Jericho ein; im trockenen Umland bringen die Jordanufer reiche Frucht
 
 Autor: Unbekannt
 

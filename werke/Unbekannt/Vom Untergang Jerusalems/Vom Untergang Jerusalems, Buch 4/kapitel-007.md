@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 7
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 7: Die Priester mahnen die Idumäer, Verratsvorwürfe zu prüfen, statt den Aufrührern bewaffnet beizustehen
 
 Autor: Unbekannt
 

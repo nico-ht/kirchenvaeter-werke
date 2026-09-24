@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 22
+# Erkenntnisse, Buch 9 – Kapitel 22: Die Sitten der Gelonen widersprechen der astrologischen Deutung männlichen und weiblichen Verhaltens
 
 Autor: Clemens von Rom
 

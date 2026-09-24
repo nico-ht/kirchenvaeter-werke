@@ -1,4 +1,4 @@
-# Predigt zu dem reichen Mann und Lazarus – Kapitel 1
+# Predigt zu dem reichen Mann und Lazarus – Kapitel 1: Nach dem Tod wird Lazarus getröstet, der Reiche gequält – eine unüberwindbare Kluft trennt sie
 
 Autor: Asterius von Amaseia
 

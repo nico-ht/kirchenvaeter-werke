@@ -1,4 +1,4 @@
-# Der Hirte des Hermas, Buch 1 – Kapitel 4
+# Der Hirte des Hermas, Buch 1 – Kapitel 4: Wer Gott ohne Zweifel vertraut und von Herzen umkehrt, kann der kommenden großen Bedrängnis entkommen
 
 Autor: Hermas
 

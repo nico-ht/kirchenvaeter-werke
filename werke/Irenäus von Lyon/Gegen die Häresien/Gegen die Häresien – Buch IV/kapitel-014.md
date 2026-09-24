@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 14
+# Gegen die Häresien – Buch IV – Kapitel 14: Gott braucht den Dienst der Menschen nicht, sondern führt sie dadurch zum Heil
 
 Autor: Irenäus von Lyon
 

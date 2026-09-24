@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 20
+# 4\. Taufunterweisung – Kapitel 20: Das tugendhafte Leben leuchtet geistlich Verirrten den Weg
 
 Autor: Johannes Chrysostomus
 

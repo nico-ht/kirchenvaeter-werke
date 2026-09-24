@@ -1,4 +1,4 @@
-# 2\. Homilie über Genesis – Kapitel 3
+# 2\. Homilie über Genesis – Kapitel 3: Das Fasten verwandelt die ganze Stadt und lässt Reiche wie Arme die Einfachheit freudig annehmen
 
 Autor: Johannes Chrysostomus
 

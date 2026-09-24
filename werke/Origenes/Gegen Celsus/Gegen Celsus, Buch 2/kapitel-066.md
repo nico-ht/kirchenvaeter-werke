@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 66
+# Gegen Celsus, Buch 2 – Kapitel 66: Der Auferstandene erscheint wie Gott den Heiligen nicht allen Menschen und nicht zu jeder Zeit
 
 Autor: Origenes
 

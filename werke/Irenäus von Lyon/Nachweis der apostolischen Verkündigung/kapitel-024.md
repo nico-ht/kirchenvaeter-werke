@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 24
+# Nachweis der apostolischen Verkündigung – Kapitel 24: Abraham wird vor der Beschneidung durch Glauben gerecht und gibt Sems Segen an Isaak und Jakob weiter
 
 Autor: Irenäus von Lyon
 

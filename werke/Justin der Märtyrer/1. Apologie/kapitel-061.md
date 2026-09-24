@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 61
+# 1\. Apologie – Kapitel 61: Die Taufe ist Wiedergeburt aus freier Entscheidung und zur Vergebung der Sünden
 
 Autor: Justin der Märtyrer
 

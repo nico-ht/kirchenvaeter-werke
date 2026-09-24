@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 25
+# Gegen Celsus, Buch 2 – Kapitel 25: Jesu Kelchgebet zeigt die Schwachheit des Fleisches und zugleich die Bereitschaft des Geistes
 
 Autor: Origenes
 

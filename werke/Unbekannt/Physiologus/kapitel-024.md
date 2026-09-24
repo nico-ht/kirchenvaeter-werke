@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 24
+# Physiologus – Kapitel 24: Christus ist die kostbare Perle, für die die Apostel alles aufgeben und himmlische Herrlichkeit gewinnen
 
 Autor: Unbekannt
 

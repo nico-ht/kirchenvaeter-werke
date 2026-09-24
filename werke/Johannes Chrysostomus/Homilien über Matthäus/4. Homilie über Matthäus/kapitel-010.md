@@ -1,4 +1,4 @@
-# 4\. Homilie über Matthäus – Kapitel 10
+# 4\. Homilie über Matthäus – Kapitel 10: Wer durch Prunk glänzen will, macht sich lächerlich; wahre Ehre erwächst aus gelebter Weisheit
 
 Autor: Johannes Chrysostomus
 

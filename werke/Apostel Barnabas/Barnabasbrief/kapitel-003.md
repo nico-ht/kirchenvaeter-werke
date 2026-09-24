@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 3
+# Barnabasbrief – Kapitel 3: Das Fasten, das Gott erwählt, befreit Bedrückte und hilft den Bedürftigen
 
 Autor: Apostel Barnabas
 

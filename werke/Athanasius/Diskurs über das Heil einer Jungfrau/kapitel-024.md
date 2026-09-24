@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 24
+# Diskurs über das Heil einer Jungfrau – Kapitel 24: Lob der Jungfräulichkeit: Beharrliche Enthaltsamkeit führt durch kurze Mühe zur himmlischen Freude
 
 Autor: Athanasius
 

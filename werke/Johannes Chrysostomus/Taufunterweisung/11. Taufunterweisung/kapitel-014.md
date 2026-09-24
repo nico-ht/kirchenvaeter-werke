@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 14
+# 11\. Taufunterweisung – Kapitel 14: Die Taufformel „wird getauft“ zeigt: Nicht der Priester tauft, sondern Vater, Sohn und Heiliger Geist
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 4
+# Kirchengeschichte Buch 7 – Kapitel 4: Dionysius bezeugt: Alle Kirchen verwerfen Novatus’ Anmaßung und bleiben untereinander im Frieden
 
 Autor: Rufinus von Aquila
 

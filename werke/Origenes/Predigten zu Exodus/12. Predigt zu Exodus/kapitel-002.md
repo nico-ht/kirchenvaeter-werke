@@ -1,4 +1,4 @@
-# 12\. Predigt zu Exodus – Kapitel 2
+# 12\. Predigt zu Exodus – Kapitel 2: Sich zum Herrn wenden heißt, sich ganz seinem Wort zu widmen und dessen verborgenen Sinn zu suchen
 
 Autor: Origenes
 

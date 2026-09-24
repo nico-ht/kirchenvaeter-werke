@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 20
+# Über das Leben von Mose, Buch 2 – Kapitel 20: Die Cherubim versinnbildlichen Gottes schöpferische Macht und seine gerechte Herrschaft über das Geschaffene
 
 Autor: Philo von Alexandria
 

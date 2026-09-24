@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 11
+# Über das Leben von Mose, Buch 2 – Kapitel 11: Gott rettet den rechtschaffenen Noah und bewahrt durch ihn den Fortbestand von Mensch und Tier
 
 Autor: Philo von Alexandria
 

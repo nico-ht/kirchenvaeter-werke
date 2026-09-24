@@ -1,4 +1,4 @@
-# 2\. Brief über die Jungfräulichkeit – Kapitel 3
+# 2\. Brief über die Jungfräulichkeit – Kapitel 3: Bei verheirateten Brüdern wahren wir Abstand zu Frauen, damit niemand durch uns zu Fall kommt
 
 Autor: Clemens von Rom
 

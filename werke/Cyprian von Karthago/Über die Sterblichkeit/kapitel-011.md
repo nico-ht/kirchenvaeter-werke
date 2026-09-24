@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 11
+# Über die Sterblichkeit – Kapitel 11: In der Not zeigt sich, ob wir Gottes Gebote halten und ihn von Herzen lieben
 
 Autor: Cyprian von Karthago
 

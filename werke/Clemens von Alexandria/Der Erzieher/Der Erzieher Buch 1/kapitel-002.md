@@ -1,4 +1,4 @@
-# Der Erzieher: Buch 1 – Kapitel 2
+# Der Erzieher: Buch 1 – Kapitel 2: Das sündlose Wort ist unser Vorbild und heilt den Menschen an Körper und Seele
 
 Autor: Clemens von Alexandria
 

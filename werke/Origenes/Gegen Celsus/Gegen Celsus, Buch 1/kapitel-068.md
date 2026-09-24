@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 68
+# Gegen Celsus, Buch 1 – Kapitel 68: Jesu Wunder unterscheiden sich von Zauberei, weil sie zur Umkehr und zu einem gottgefälligen Leben führen
 
 Autor: Origenes
 

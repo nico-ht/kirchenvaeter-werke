@@ -1,4 +1,4 @@
-# Apologie – Kapitel 22
+# Apologie – Kapitel 22: Dämonen schaden den Menschen und täuschen Göttlichkeit vor, um sie vom wahren Gott abzubringen
 
 Autor: Tertullian
 

@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 15
+# Kirchengeschichte Buch 7 – Kapitel 15: Noch heute werden Haus und Bronzebild der Frau gezeigt, die der Retter vom Blutfluss heilte
 
 Autor: Rufinus von Aquila
 

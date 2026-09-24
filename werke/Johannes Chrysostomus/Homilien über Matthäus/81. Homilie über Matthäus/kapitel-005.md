@@ -1,4 +1,4 @@
-# 81\. Homilie über Matthäus – Kapitel 5
+# 81\. Homilie über Matthäus – Kapitel 5: Wer den Leidenschaften in jedem Lebensalter erliegt, erreicht den Hafen ohne geistliche Fracht
 
 Autor: Johannes Chrysostomus
 

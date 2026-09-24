@@ -1,4 +1,4 @@
-# 84\. Homilie über Matthäus – Kapitel 4
+# 84\. Homilie über Matthäus – Kapitel 4: Wahrer Sieg heißt, Böses standhaft zu erleiden, statt selbst Böses zu tun
 
 Autor: Johannes Chrysostomus
 

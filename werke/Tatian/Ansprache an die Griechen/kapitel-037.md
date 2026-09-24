@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 37
+# Ansprache an die Griechen – Kapitel 37: Phönizische Zeugnisse setzen Salomo ungefähr in die Zeit des Trojanischen Krieges, lange nach Mose
 
 Autor: Tatian
 

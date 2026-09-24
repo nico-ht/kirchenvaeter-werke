@@ -1,4 +1,4 @@
-# 54\. Homilie über Matthäus – Kapitel 1
+# 54\. Homilie über Matthäus – Kapitel 1: Petrus bekennt durch Offenbarung Christus als den aus dem Vater gezeugten Sohn, nicht als einen unter vielen
 
 Autor: Johannes Chrysostomus
 

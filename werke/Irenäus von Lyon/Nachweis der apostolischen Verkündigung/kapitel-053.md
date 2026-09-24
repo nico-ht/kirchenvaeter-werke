@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 53
+# Nachweis der apostolischen Verkündigung – Kapitel 53: Jesaja kündigt Christi wahre Menschwerdung aus der Jungfrau an; seine Namen bezeugen Salbung und Heil
 
 Autor: Irenäus von Lyon
 

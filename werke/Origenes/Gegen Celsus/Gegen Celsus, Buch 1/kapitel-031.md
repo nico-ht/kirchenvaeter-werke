@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 31
+# Gegen Celsus, Buch 1 – Kapitel 31: Die Jünger riskierten ihr Leben, weil sie von Jesu Göttlichkeit und der rettenden Kraft seines Todes überzeugt waren
 
 Autor: Origenes
 

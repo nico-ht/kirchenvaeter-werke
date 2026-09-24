@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 9
+# Gegen Celsus, Buch 1 – Kapitel 9: Einfacher Glaube bessert auch die Menschen, denen eine gründliche Prüfung der Lehre nicht möglich ist
 
 Autor: Origenes
 

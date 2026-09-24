@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 47
+# Gegen Celsus, Buch 2 – Kapitel 47: Celsus unterstellt zu Unrecht, Jesu Bestrafung sei der Grund für den Glauben an seine Gottessohnschaft
 
 Autor: Origenes
 

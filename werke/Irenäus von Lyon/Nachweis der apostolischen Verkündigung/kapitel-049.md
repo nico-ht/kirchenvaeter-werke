@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 49
+# Nachweis der apostolischen Verkündigung – Kapitel 49: Die verheißene Herrschaft über alle Völker gilt Christus, dem Sohn Gottes, nicht David
 
 Autor: Irenäus von Lyon
 

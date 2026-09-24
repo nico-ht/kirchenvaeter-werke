@@ -1,4 +1,4 @@
-# Der Hirte des Hermas, Buch 3 – Kapitel 3
+# Der Hirte des Hermas, Buch 3 – Kapitel 3: In dieser Welt sind Gerechte und Sünder so wenig zu unterscheiden wie lebende und verdorrte Bäume im Winter
 
 Autor: Hermas
 

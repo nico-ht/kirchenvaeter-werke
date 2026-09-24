@@ -1,4 +1,4 @@
-# Über öffentliche Veranstaltungen – Kapitel 2
+# Über öffentliche Veranstaltungen – Kapitel 2: Biblische Wettkampfbilder sind Ansporn zur Tugend, keine Erlaubnis zum Besuch heidnischer Schauspiele
 
 Autor: Cyprian von Karthago
 

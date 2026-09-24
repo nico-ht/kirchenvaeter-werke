@@ -1,4 +1,4 @@
-# 38\. Homilie über Matthäus – Kapitel 2
+# 38\. Homilie über Matthäus – Kapitel 2: Christus offenbart den Vater in eigener Vollmacht und führt durch Sanftmut und Demut zur Ruhe
 
 Autor: Johannes Chrysostomus
 

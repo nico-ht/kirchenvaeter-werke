@@ -1,4 +1,4 @@
-# 3\. Mystagogische Katechese – Kapitel 1
+# 3\. Mystagogische Katechese – Kapitel 1: Wie Christus am Jordan den Geist empfing, erhaltet ihr nach der Taufe die Salbung als dessen Gegenbild
 
 Autor: Johannes II\. von Jerusalem
 

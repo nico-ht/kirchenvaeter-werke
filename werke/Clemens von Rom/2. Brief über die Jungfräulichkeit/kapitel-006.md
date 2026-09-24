@@ -1,4 +1,4 @@
-# 2\. Brief über die Jungfräulichkeit – Kapitel 6
+# 2\. Brief über die Jungfräulichkeit – Kapitel 6: Unter Heiden Gott durch heiligen Wandel ehren und das Heilige nicht für Brot und Wein darbieten
 
 Autor: Clemens von Rom
 

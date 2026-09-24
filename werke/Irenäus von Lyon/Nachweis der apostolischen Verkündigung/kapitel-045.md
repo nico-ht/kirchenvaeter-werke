@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 45
+# Nachweis der apostolischen Verkündigung – Kapitel 45: Nicht der unsichtbare Vater, sondern das Wort Gottes erscheint den Menschen und lehrt sie
 
 Autor: Irenäus von Lyon
 

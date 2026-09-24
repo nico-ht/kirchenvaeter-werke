@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 9
+# 1\. Apologie – Kapitel 9: Die Verehrung lebloser, von Menschen geschaffener Götterbilder beleidigt Gott
 
 Autor: Justin der Märtyrer
 

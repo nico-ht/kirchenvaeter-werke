@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 19
+# Erkenntnisse, Buch 8 – Kapitel 19: Aufwärts strebende Feueratome können die Welt nicht tragen oder ihre Gestalt erklären
 
 Autor: Clemens von Rom
 

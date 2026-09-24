@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 73
+# Nachweis der apostolischen Verkündigung – Kapitel 73: David spricht im Bild von Schlaf und Erwachen über Christi Tod und Auferstehung, nicht über sich selbst
 
 Autor: Irenäus von Lyon
 

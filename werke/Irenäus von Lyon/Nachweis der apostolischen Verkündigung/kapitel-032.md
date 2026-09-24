@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 32
+# Nachweis der apostolischen Verkündigung – Kapitel 32: Christus fasst Adam neu in sich zusammen: Wie jener aus jungfräulicher Erde stammt, wird er aus der Jungfrau geboren
 
 Autor: Irenäus von Lyon
 

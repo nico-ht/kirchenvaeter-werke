@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 12
+# 1\. Apologie – Kapitel 12: Die Lehre von Gottes unausweichlichem Gericht macht Christen zu Verbündeten des Friedens
 
 Autor: Justin der Märtyrer
 

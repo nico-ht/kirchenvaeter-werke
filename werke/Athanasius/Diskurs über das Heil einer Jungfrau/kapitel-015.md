@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 15
+# Diskurs über das Heil einer Jungfrau – Kapitel 15: Wer Gott mit Worten bekennt, aber durch Taten verleugnet, ist schlimmer als die Tiere, die ihn loben
 
 Autor: Athanasius
 

@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 4
+# Gegen Celsus, Buch 1 – Kapitel 4: Gott hat allen Menschen die sittlichen Wahrheiten ins Herz geprägt, die er durch Propheten und den Erlöser lehrt
 
 Autor: Origenes
 

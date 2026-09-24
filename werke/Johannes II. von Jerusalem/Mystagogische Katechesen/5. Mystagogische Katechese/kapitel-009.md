@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 9
+# 5\. Mystagogische Katechese – Kapitel 9: Wir gedenken der Heiligen als Fürbitter und beten beim heiligen Opfer zum Nutzen der Entschlafenen
 
 Autor: Johannes II\. von Jerusalem
 

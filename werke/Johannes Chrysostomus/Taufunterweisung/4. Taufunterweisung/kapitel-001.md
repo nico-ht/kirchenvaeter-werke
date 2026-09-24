@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 1
+# 4\. Taufunterweisung – Kapitel 1: Die Kirche gebiert ihre Kinder geistlich in einer einzigen Nacht
 
 Autor: Johannes Chrysostomus
 

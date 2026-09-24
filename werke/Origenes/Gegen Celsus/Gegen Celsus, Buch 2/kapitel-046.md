@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 46
+# Gegen Celsus, Buch 2 – Kapitel 46: Der Missionserfolg nach Jesu Tod macht seinen noch größeren Zulauf zu Lebzeiten erst recht glaubhaft
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 46
+# Nachweis der apostolischen Verkündigung – Kapitel 46: Christus erfüllt die Vorbilder des Exodus: Er befreit vom Götzendienst und führt ins Reich des Vaters
 
 Autor: Irenäus von Lyon
 

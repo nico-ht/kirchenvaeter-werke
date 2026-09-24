@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 27
+# Physiologus – Kapitel 27: Christus trägt wie der Sindicusstein unsere Gebrechen und befreit durch seine Auferstehung die Seele
 
 Autor: Unbekannt
 

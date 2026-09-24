@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 19
+# Erkenntnisse, Buch 9 – Kapitel 19: Bei den Seres ist die Furcht vor den Gesetzen stärker als der behauptete Zwang der Sterne
 
 Autor: Clemens von Rom
 

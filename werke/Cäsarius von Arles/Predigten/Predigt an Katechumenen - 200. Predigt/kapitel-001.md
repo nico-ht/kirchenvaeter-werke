@@ -1,4 +1,4 @@
-# Predigt an Katechumenen \- 200\. Predigt – Kapitel 1
+# Predigt an Katechumenen \- 200\. Predigt – Kapitel 1: Katechumenen heißen „Mitbittende“, weil sie gemeinsam bitten, und sollen wissen, worum sie bitten
 
 Autor: Cäsarius von Arles
 

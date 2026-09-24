@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 3
+# Erkenntnisse, Buch 9 – Kapitel 3: Gott bewahrt die Guten als Braut für seinen Sohn, während der Weltfürst die Menschen verführt
 
 Autor: Clemens von Rom
 

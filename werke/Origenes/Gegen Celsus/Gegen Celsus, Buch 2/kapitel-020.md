@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 20
+# Gegen Celsus, Buch 2 – Kapitel 20: Vorhersagen erzwingen keine Taten: Judas bleibt für seinen Verrat selbst verantwortlich
 
 Autor: Origenes
 

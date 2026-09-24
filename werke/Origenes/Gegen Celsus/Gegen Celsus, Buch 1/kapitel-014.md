@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 14
+# Gegen Celsus, Buch 1 – Kapitel 14: Celsus glaubt den Geschichtsberichten anderer Völker, verwirft aber die jüdischen ohne sachlichen Grund
 
 Autor: Origenes
 

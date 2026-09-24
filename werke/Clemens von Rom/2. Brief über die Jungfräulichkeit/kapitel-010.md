@@ -1,4 +1,4 @@
-# 2\. Brief über die Jungfräulichkeit – Kapitel 10
+# 2\. Brief über die Jungfräulichkeit – Kapitel 10: Davids Weg vom begehrlichen Blick zum Mord zeigt die Gefahr des Zusammenlebens mit geweihten Frauen
 
 Autor: Clemens von Rom
 

@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 29
+# Erkenntnisse, Buch 8 – Kapitel 29: Symmetrie und Zweck der Glieder verraten einen planenden Schöpfer
 
 Autor: Clemens von Rom
 

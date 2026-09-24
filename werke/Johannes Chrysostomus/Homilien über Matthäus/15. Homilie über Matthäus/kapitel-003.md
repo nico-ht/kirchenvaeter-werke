@@ -1,4 +1,4 @@
-# 15\. Homilie über Matthäus – Kapitel 3
+# 15\. Homilie über Matthäus – Kapitel 3: Christus verheißt für Trauer über Sünden und Sanftmut Lohn in diesem und im künftigen Leben
 
 Autor: Johannes Chrysostomus
 

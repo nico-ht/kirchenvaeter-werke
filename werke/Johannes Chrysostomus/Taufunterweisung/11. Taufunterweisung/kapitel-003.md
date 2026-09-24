@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 3
+# 11\. Taufunterweisung – Kapitel 3: Der göttliche Bräutigam nimmt für die Kirche unsere menschliche Natur an
 
 Autor: Johannes Chrysostomus
 

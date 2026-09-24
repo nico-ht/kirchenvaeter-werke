@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 53
+# Erkenntnisse, Buch 8 – Kapitel 53: Nachahmungen verdunkeln die Vorsehung; der Alte soll der geordneten Seite folgen
 
 Autor: Clemens von Rom
 

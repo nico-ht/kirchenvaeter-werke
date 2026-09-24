@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 31
+# Gegen Celsus, Buch 2 – Kapitel 31: Celsus’ Jude erkennt den Logos als Gottes Sohn an – anders als die dem Autor bekannten jüdischen Gelehrten
 
 Autor: Origenes
 

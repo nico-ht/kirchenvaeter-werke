@@ -1,4 +1,4 @@
-# 48\. Homilie über Matthäus – Kapitel 2
+# 48\. Homilie über Matthäus – Kapitel 2: Herodes achtet Johannes’ Tugend, lässt ihn aber um seines Eides und der Gäste willen töten
 
 Autor: Johannes Chrysostomus
 

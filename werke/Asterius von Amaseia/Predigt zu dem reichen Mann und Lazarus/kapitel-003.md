@@ -1,4 +1,4 @@
-# Predigt zu dem reichen Mann und Lazarus – Kapitel 3
+# Predigt zu dem reichen Mann und Lazarus – Kapitel 3: Mit Purpur und Feinleinen tadelt die Schrift den Luxus, der das Maß des Notwendigen überschreitet
 
 Autor: Asterius von Amaseia
 

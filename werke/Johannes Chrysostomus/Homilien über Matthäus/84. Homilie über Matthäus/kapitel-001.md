@@ -1,4 +1,4 @@
-# 84\. Homilie über Matthäus – Kapitel 1
+# 84\. Homilie über Matthäus – Kapitel 1: Christus lässt sich nicht mit dem Schwert verteidigen, sondern leidet freiwillig, damit sich die Schrift erfüllt
 
 Autor: Johannes Chrysostomus
 

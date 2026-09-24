@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 22
+# Physiologus – Kapitel 22: Das Reh verweist auf Christus: Er liebt die Propheten, wird von der Kirche genährt und erkennt jede List
 
 Autor: Unbekannt
 

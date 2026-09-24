@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 39
+# Erkenntnisse, Buch 8 – Kapitel 39: Der Alte fasst zusammen: Schöpfung führt zu Vorsehung, Gericht und Scheidung
 
 Autor: Clemens von Rom
 

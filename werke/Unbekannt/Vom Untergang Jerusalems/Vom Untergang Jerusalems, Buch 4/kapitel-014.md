@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 14
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 14: Gadaras Reiche rufen Vespasian gegen die Räuber zu Hilfe; die Stadt wird den Römern übergeben
 
 Autor: Unbekannt
 

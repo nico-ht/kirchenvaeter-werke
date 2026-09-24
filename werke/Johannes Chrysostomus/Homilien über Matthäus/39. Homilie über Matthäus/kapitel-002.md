@@ -1,4 +1,4 @@
-# 39\. Homilie über Matthäus – Kapitel 2
+# 39\. Homilie über Matthäus – Kapitel 2: Warum Christi Jünger am Sabbat nicht bloß Nachsicht verdienen, sondern nach dem Gesetz schuldlos sind
 
 Autor: Johannes Chrysostomus
 

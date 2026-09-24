@@ -1,4 +1,4 @@
-# 10\. Homilie über Matthäus – Kapitel 6
+# 10\. Homilie über Matthäus – Kapitel 6: Umkehr verlangt nicht nur Abkehr vom Bösen, sondern entgegengesetzte gute Taten zur Heilung
 
 Autor: Johannes Chrysostomus
 

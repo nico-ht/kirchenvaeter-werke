@@ -1,4 +1,4 @@
-# Predigt zu dem reichen Mann und Lazarus – Kapitel 6
+# Predigt zu dem reichen Mann und Lazarus – Kapitel 6: Statt Christus auf Gewändern abzubilden, soll man Gottes lebendiges Bild ehren und Christus in der Seele tragen
 
 Autor: Asterius von Amaseia
 

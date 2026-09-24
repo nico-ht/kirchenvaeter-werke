@@ -1,4 +1,4 @@
-# Der Hirte des Hermas, Buch 3 – Kapitel 7
+# Der Hirte des Hermas, Buch 3 – Kapitel 7: Das Haupt eines sündigen Hauses trägt Bedrängnis, damit alle umkehren und Heilung finden
 
 Autor: Hermas
 

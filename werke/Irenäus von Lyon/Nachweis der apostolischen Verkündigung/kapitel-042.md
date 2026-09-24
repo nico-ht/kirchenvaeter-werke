@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 42
+# Nachweis der apostolischen Verkündigung – Kapitel 42: Gott ließ die Erlösung durch die Propheten ankündigen, damit ihre Erfüllung den Glauben festigt
 
 Autor: Irenäus von Lyon
 

@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 19
+# 5\. Mystagogische Katechese – Kapitel 19: „Das Heilige den Heiligen“: Christus allein ist von Natur heilig, wir durch Teilhabe, Übung und Gebet
 
 Autor: Johannes II\. von Jerusalem
 

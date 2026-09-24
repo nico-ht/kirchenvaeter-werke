@@ -1,4 +1,4 @@
-# Brief von Aristeas – Kapitel 5
+# Brief von Aristeas – Kapitel 5: Jerusalems maßvolle Größe schützt den Ackerbau; gebildete Übersetzer dienen dem gemeinsamen Nutzen
 
 Autor: Unbekannt
 

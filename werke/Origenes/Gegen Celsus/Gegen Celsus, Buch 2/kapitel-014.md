@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 14
+# Gegen Celsus, Buch 2 – Kapitel 14: Was Celsus Jesus nicht zugesteht, bezeugt Phlegon: Vorauswissen und die Erfüllung seiner Vorhersagen
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 58
+# Erkenntnisse, Buch 8 – Kapitel 58: Nur ein von Gott gesandter Prophet kann seinen Schöpfungsplan zuverlässig lehren
 
 Autor: Clemens von Rom
 

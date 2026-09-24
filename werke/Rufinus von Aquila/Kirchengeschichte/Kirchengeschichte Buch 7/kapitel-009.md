@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 9
+# Kirchengeschichte Buch 7 – Kapitel 9: Wie der Anführer der ägyptischen Zauberer Valerian vom Christenfreund zum Verfolger macht
 
 Autor: Rufinus von Aquila
 

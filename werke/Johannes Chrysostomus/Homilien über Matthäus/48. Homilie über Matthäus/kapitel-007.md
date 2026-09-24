@@ -1,4 +1,4 @@
-# 48\. Homilie über Matthäus – Kapitel 7
+# 48\. Homilie über Matthäus – Kapitel 7: Wie aus Schmeichlern freie Freunde werden: durch Erbarmen und gemeinsame Sorge für andere
 
 Autor: Johannes Chrysostomus
 

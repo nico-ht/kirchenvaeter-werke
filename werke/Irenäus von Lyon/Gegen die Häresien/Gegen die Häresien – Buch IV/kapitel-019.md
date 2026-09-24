@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 19
+# Gegen die Häresien – Buch IV – Kapitel 19: Die Trennung von Schöpfer und höherem Vater begrenzt beide, doch der wahre Gott umfasst alles
 
 Autor: Irenäus von Lyon
 

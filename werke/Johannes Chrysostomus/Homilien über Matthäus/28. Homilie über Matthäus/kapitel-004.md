@@ -1,4 +1,4 @@
-# 28\. Homilie über Matthäus – Kapitel 4
+# 28\. Homilie über Matthäus – Kapitel 4: Geldgierige sind gefährlicher als Besessene, weil sie anderen bei vollem Bewusstsein schaden
 
 Autor: Johannes Chrysostomus
 

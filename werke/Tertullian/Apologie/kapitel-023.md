@@ -1,4 +1,4 @@
-# Apologie – Kapitel 23
+# Apologie – Kapitel 23: Auf Befehl der Christen bekennen die Götter ihr Dämonenwesen, weil sie Christi Gericht fürchten
 
 Autor: Tertullian
 

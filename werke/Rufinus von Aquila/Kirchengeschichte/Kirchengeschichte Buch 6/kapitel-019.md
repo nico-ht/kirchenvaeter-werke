@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 19
+# Kirchengeschichte Buch 6 – Kapitel 19: Origenes’ philosophische Bildung wird selbst von Gegnern anerkannt und dient der Widerlegung ihrer Lehren
 
 Autor: Rufinus von Aquila
 

@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 74
+# Gegen Celsus, Buch 2 – Kapitel 74: Unglaube spricht nicht gegen Jesu Göttlichkeit: Schon Gottes Erscheinen unter Mose stieß auf Ablehnung
 
 Autor: Origenes
 

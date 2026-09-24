@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 18
+# Physiologus – Kapitel 18: Der Teufel stellt sich wie der Fuchs vor fleischlich Lebenden tot; für geistliche Menschen ist er wirklich tot
 
 Autor: Unbekannt
 

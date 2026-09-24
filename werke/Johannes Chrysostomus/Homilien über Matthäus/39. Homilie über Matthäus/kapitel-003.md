@@ -1,4 +1,4 @@
-# 39\. Homilie über Matthäus – Kapitel 3
+# 39\. Homilie über Matthäus – Kapitel 3: Christus führt über die Sabbatruhe hinaus zu einem Leben als Fest ohne Bosheit und Habgier
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# 1\. Brief über die Jungfräulichkeit – Kapitel 5
+# 1\. Brief über die Jungfräulichkeit – Kapitel 5: Die Krone der Jungfräulichkeit erringt, wer durch Christus gestärkt Begierden und Satan überwindet
 
 Autor: Clemens von Rom
 

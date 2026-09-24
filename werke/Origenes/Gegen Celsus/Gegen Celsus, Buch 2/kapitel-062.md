@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 62
+# Gegen Celsus, Buch 2 – Kapitel 62: Jesu Auferstehungsleib steht gleichsam zwischen schwerer Körperlichkeit und der Erscheinung einer körperlosen Seele
 
 Autor: Origenes
 

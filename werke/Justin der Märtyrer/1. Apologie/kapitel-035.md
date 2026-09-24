@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 35
+# 1\. Apologie – Kapitel 35: Christi Kreuzesleiden erfüllt die Worte der Propheten und wird durch die Pilatusakten bezeugt
 
 Autor: Justin der Märtyrer
 

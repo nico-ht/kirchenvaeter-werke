@@ -1,4 +1,4 @@
-# Brief an die Philipper – Kapitel 8
+# Brief an die Philipper – Kapitel 8: Die Gemeinde soll an Christi Menschwerdung, Kreuz und Auferstehung festhalten und falsche Lehren meiden
 
 Autor: Polykarp
 

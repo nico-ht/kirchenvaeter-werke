@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 54
+# Gegen Celsus, Buch 2 – Kapitel 54: Zweifel an Jesu Auferstehungsvorhersage lassen sich ebenso gegen Moses Bericht vom eigenen Tod richten
 
 Autor: Origenes
 

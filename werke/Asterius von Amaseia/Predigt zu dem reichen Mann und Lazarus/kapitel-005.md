@@ -1,4 +1,4 @@
-# Predigt zu dem reichen Mann und Lazarus – Kapitel 5
+# Predigt zu dem reichen Mann und Lazarus – Kapitel 5: Mit bildgeschmückten Gewändern stellen Reiche ihre Eitelkeit zur Schau und handeln gegen Paulus’ Verbot
 
 Autor: Asterius von Amaseia
 

@@ -1,4 +1,4 @@
-# 65\. Homilie über Matthäus – Kapitel 1
+# 65\. Homilie über Matthäus – Kapitel 1: Jesu wiederholte Leidensankündigungen bereiten die Jünger vor, obwohl ihnen die Auferstehung noch unklar bleibt
 
 Autor: Johannes Chrysostomus
 

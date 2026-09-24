@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 16
+# Kirchengeschichte Buch 6 – Kapitel 16: Origenes stellt in den Hexapla den hebräischen Bibeltext und griechische Übersetzungen spaltenweise gegenüber
 
 Autor: Rufinus von Aquila
 

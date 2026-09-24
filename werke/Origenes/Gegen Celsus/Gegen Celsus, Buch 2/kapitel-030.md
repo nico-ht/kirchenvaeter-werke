@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 30
+# Gegen Celsus, Buch 2 – Kapitel 30: Gott bereitete durch Reichseinheit und Frieden unter Augustus die weltweite Ausbreitung des Evangeliums vor
 
 Autor: Origenes
 

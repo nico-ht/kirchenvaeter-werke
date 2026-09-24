@@ -1,4 +1,4 @@
-# 1\. Mystagogische Katechese – Kapitel 11
+# 1\. Mystagogische Katechese – Kapitel 11: Die nächsten Mystagogien führen ins Allerheiligste und erklären die Symbole der dort vollzogenen Riten
 
 Autor: Johannes II\. von Jerusalem
 

@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 7
+# Barnabasbrief – Kapitel 7: Die beiden Böcke weisen auf Jesu Leiden und seine Wiederkunft hin
 
 Autor: Apostel Barnabas
 

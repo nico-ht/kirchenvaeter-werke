@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 21
+# 3\. Taufunterweisung  – Kapitel 21: Christus hat den Schuldschein unserer Sünden am Kreuz zerrissen und endgültig ungültig gemacht
 
 Autor: Johannes Chrysostomus
 

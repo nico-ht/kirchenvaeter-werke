@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 32
+# 1\. Apologie – Kapitel 32: Mose kündigt Christus als Hoffnung der Völker an und deutet sein Leiden und seine Zeugung durch Gottes Kraft
 
 Autor: Justin der Märtyrer
 

@@ -1,4 +1,4 @@
-# 4\. Homilie über Matthäus – Kapitel 4
+# 4\. Homilie über Matthäus – Kapitel 4: Josefs Milde geht über das Gesetz hinaus; die späte Engelsbotschaft bewahrt ihn vor Unglauben
 
 Autor: Johannes Chrysostomus
 

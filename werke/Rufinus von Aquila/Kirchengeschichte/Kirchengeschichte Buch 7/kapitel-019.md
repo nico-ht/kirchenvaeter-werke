@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 19
+# Kirchengeschichte Buch 7 – Kapitel 19: Neue Bischöfe übernehmen in Pontus, Cäsarea und Jerusalem die Leitung der Kirchen in Frieden
 
 Autor: Rufinus von Aquila
 

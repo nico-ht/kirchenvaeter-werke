@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 21
+# Ansprache an die Griechen – Kapitel 21: Wer Gottes Menschwerdung verspottet, muss die eigenen Göttermythen prüfen – auch Allegorien retten sie nicht
 
 Autor: Tatian
 

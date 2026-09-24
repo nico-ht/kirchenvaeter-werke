@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 12
+# Ansprache an die Griechen – Kapitel 12: Dämonen sind Geschöpfe mit materiellem Geist, die sich die Gottheit anmaßen
 
 Autor: Tatian
 

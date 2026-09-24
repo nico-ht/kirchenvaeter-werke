@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 27
+# 9\. Taufunterweisung  – Kapitel 27: Die Täuflinge sollen so leben, dass sie den Glanz der Taufe bewahren und keiner Buße bedürfen
 
 Autor: Johannes Chrysostomus
 

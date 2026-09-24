@@ -1,4 +1,4 @@
-# 4\. Mystagogische Katechese – Kapitel 9
+# 4\. Mystagogische Katechese – Kapitel 9: Was als Brot und Wein erscheint, ist Christi Leib und Blut und stärkt das Herz
 
 Autor: Johannes II\. von Jerusalem
 

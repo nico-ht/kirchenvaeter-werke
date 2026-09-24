@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 60
+# 1\. Apologie – Kapitel 60: Platon schöpft seine Lehre von Logos und Geist aus Mose, verkennt jedoch dessen Kreuzzeichen
 
 Autor: Justin der Märtyrer
 

@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 23
+# Gegen die Häresien – Buch I – Kapitel 23: Simons Selbstvergöttlichung begründet die falsche Erkenntnis, die Menander als magische Heilslehre fortführt
 
 Autor: Irenäus von Lyon
 

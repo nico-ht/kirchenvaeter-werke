@@ -1,4 +1,4 @@
-# 51\. Homilie über Matthäus – Kapitel 5
+# 51\. Homilie über Matthäus – Kapitel 5: Wer freimütig vor Gott beten will, muss die Zunge von Beleidigungen reinigen und den Zorn ablegen
 
 Autor: Johannes Chrysostomus
 

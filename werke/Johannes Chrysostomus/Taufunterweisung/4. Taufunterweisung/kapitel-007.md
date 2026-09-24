@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 7
+# 4\. Taufunterweisung – Kapitel 7: Paulus’ Taufe verwandelt den Kirchenverfolger in einen Verkünder des Gottessohnes
 
 Autor: Johannes Chrysostomus
 

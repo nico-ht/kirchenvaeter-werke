@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 20
+# Gegen Celsus, Buch 1 – Kapitel 20: Celsus stellt ägyptische Tierverehrung über den jüdischen Glauben an den einzigen Schöpfer
 
 Autor: Origenes
 

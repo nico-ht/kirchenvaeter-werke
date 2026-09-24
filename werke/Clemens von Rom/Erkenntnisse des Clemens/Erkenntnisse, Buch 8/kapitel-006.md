@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 6
+# Erkenntnisse, Buch 8 – Kapitel 6: Gott lenkt seine Schöpfung und wird jedem nach seinen Taten vergelten
 
 Autor: Clemens von Rom
 

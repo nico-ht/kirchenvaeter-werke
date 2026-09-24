@@ -1,4 +1,4 @@
-# Brief an die Philipper – Kapitel 3
+# Brief an die Philipper – Kapitel 3: Wer Christi Geboten folgt, vergilt Böses nicht, sondern handelt barmherzig
 
 Autor: Polykarp
 

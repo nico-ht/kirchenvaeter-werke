@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 12
+# Über die Sterblichkeit – Kapitel 12: Erst im Kampf mit Verlust und Leiden wird die Stärke des Glaubens sichtbar
 
 Autor: Cyprian von Karthago
 

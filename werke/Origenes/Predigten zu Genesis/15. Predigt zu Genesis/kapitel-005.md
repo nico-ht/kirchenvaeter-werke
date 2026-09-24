@@ -1,4 +1,4 @@
-# 15\. Predigt zu Genesis – Kapitel 5
+# 15\. Predigt zu Genesis – Kapitel 5: Gottes Zusage an Jakob weist auf Adam, den Christus aus der Unterwelt ins Paradies zurückführt
 
 Autor: Origenes
 

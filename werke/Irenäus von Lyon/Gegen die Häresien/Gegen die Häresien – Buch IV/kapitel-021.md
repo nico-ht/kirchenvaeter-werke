@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 21
+# Gegen die Häresien – Buch IV – Kapitel 21: Gott bildet in Glauben und Handeln der Patriarchen Christus und die Kirche im Voraus ab
 
 Autor: Irenäus von Lyon
 

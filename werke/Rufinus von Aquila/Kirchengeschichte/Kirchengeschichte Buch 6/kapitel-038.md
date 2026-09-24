@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 38
+# Kirchengeschichte Buch 6 – Kapitel 38: Origenes warnt vor den Elkesaiten, die Paulus verwerfen und eine andere Sündenvergebung als Christus versprechen
 
 Autor: Rufinus von Aquila
 

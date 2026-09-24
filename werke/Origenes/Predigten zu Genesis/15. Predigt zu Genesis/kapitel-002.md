@@ -1,4 +1,4 @@
-# 15\. Predigt zu Genesis – Kapitel 2
+# 15\. Predigt zu Genesis – Kapitel 2: Josef lebt, weil er der Sünde widersteht, und die Nachricht davon entfacht Jakobs Geist neu
 
 Autor: Origenes
 

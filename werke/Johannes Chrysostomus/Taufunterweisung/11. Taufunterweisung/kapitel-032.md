@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 32
+# 11\. Taufunterweisung – Kapitel 32: Der heilige Kuss vor dem heiligen Mahl vereint die Seelen nach dem Vorbild der Apostel
 
 Autor: Johannes Chrysostomus
 

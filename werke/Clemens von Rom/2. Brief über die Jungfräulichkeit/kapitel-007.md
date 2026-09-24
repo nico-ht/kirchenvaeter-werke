@@ -1,4 +1,4 @@
-# 2\. Brief über die Jungfräulichkeit – Kapitel 7
+# 2\. Brief über die Jungfräulichkeit – Kapitel 7: Vertrautheit zwischen Mann und Frau brachte viele zu Fall, andere Männer bewahrten im Zusammenleben ihre Reinheit
 
 Autor: Clemens von Rom
 

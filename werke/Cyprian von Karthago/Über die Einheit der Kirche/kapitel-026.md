@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 26
+# Über die Einheit der Kirche – Kapitel 26: Nachlassende Freigebigkeit und fehlende Furcht vor dem Gericht zeigen, wie der Glaube schwindet
 
 Autor: Cyprian von Karthago
 

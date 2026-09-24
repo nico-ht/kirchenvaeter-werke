@@ -1,4 +1,4 @@
-# 1\. Mystagogische Katechese – Kapitel 2
+# 1\. Mystagogische Katechese – Kapitel 2: Die Befreiung der Hebräer vom Pharao ist das Vorbild für die Absage an Satan bei der Taufe
 
 Autor: Johannes II\. von Jerusalem
 

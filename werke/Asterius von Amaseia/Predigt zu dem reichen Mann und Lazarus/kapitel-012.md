@@ -1,4 +1,4 @@
-# Predigt zu dem reichen Mann und Lazarus – Kapitel 12
+# Predigt zu dem reichen Mann und Lazarus – Kapitel 12: Der Reiche kann seine Unbarmherzigkeit nicht mit Unwissenheit entschuldigen: Lazarus liegt vor seinem Tor
 
 Autor: Asterius von Amaseia
 

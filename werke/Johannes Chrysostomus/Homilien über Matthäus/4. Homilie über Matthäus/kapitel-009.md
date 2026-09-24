@@ -1,4 +1,4 @@
-# 4\. Homilie über Matthäus – Kapitel 9
+# 4\. Homilie über Matthäus – Kapitel 9: Die Leidenschaften verzehren die Kraft der Seele und schwächen ihre Sehnsucht nach Christus
 
 Autor: Johannes Chrysostomus
 

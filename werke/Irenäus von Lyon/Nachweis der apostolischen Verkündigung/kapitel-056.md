@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 56
+# Nachweis der apostolischen Verkündigung – Kapitel 56: Gerechte, die vor Christi Erscheinen starben, können Heil erlangen; Unglaube danach findet im Gericht keine Vergebung
 
 Autor: Irenäus von Lyon
 

@@ -1,4 +1,4 @@
-# Brief 69 – Kapitel 5
+# Brief 69 – Kapitel 5: Das Gesetz regelt weniger die Kleidung als das Männern und Frauen jeweils angemessene Verhalten
 
 Autor: Ambrosius von Mailand
 

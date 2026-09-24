@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 25
+# Ansprache an die Griechen – Kapitel 25: Die uneinigen Griechen bekämpfen Gottes Wort und verleumden seine Anhänger als Menschenfresser
 
 Autor: Tatian
 

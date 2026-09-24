@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Einleitung
+# Gegen die Häresien – Buch I – Einleitung: Die verborgenen Lehren der Valentinianer aufdecken und widerlegen, um Unerfahrene vor Verführung zu schützen
 
 Autor: Irenäus von Lyon
 

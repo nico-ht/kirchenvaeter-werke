@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 31
+# Physiologus – Kapitel 31: Der Wal als Bild des Teufels: Er vernichtet die auf ihn Hoffenden und Kleingläubigen, doch die Vollkommenen entgehen ihm
 
 Autor: Unbekannt
 

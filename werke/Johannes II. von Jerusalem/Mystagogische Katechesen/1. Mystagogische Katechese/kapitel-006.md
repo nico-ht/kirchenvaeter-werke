@@ -1,4 +1,4 @@
-# 1\. Mystagogische Katechese – Kapitel 6
+# 1\. Mystagogische Katechese – Kapitel 6: Die Absage an das Gepränge des Teufels verlangt, verderbliche Schauspiele zu meiden
 
 Autor: Johannes II\. von Jerusalem
 

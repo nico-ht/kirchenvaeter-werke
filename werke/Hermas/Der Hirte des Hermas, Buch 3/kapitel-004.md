@@ -1,4 +1,4 @@
-# Der Hirte des Hermas, Buch 3 – Kapitel 4
+# Der Hirte des Hermas, Buch 3 – Kapitel 4: Wer sich nicht in Geschäfte verstrickt, dient Gott und trägt Frucht für die kommende Welt
 
 Autor: Hermas
 

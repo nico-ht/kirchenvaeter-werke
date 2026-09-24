@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 15
+# Über die Sterblichkeit – Kapitel 15: Dass Gerechte und Ungerechte sterben, bedeutet nicht, dass sie dasselbe Ziel erreichen
 
 Autor: Cyprian von Karthago
 

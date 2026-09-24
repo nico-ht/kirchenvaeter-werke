@@ -1,4 +1,4 @@
-# 2\. Homilie über Genesis – Kapitel 1
+# 2\. Homilie über Genesis – Kapitel 1: Der Eifer für Gottes Wort bezeugt: Der Mensch lebt nicht vom Brot allein
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 16
+# Gegen die Häresien – Buch IV – Kapitel 16: Der neue Bund hebt die Zeichen der Knechtschaft auf, bewahrt und erweitert aber den Dekalog
 
 Autor: Irenäus von Lyon
 

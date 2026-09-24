@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 60
+# Nachweis der apostolischen Verkündigung – Kapitel 60: Gerechtigkeit, Barmherzigkeit und Wortmacht bezeugen seine Gottheit, seine leibliche Gestalt sein Menschsein
 
 Autor: Irenäus von Lyon
 

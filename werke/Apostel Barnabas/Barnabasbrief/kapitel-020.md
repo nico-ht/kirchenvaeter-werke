@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 20
+# Barnabasbrief – Kapitel 20: Der Weg der Finsternis führt durch Unrecht und Hartherzigkeit zum ewigen Tod
 
 Autor: Apostel Barnabas
 

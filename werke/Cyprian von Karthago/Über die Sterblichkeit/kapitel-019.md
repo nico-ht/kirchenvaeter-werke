@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 19
+# Über die Sterblichkeit – Kapitel 19: Die Vision eines sterbenden Priesters mahnt, Gottes Ruf nicht aus Todesfurcht aufzuschieben
 
 Autor: Cyprian von Karthago
 

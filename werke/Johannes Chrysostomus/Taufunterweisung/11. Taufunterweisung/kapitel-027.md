@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 27
+# 11\. Taufunterweisung – Kapitel 27: Durch die Chrisamsalbung prägt Gott euch das Kreuz ein und schützt euch vor dem Teufel
 
 Autor: Johannes Chrysostomus
 

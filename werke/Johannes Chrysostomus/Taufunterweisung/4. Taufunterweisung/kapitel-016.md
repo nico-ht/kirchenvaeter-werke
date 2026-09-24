@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 16
+# 4\. Taufunterweisung – Kapitel 16: Die neue Schöpfung verlangt, die Vergangenheit hinter sich zu lassen und würdig zu leben
 
 Autor: Johannes Chrysostomus
 

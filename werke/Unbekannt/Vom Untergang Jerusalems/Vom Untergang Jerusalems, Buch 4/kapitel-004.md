@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 4
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 4: Johannes nutzt den erschlichenen Aufschub zur Flucht; Titus begnadigt die Einwohner Gischalas
 
 Autor: Unbekannt
 

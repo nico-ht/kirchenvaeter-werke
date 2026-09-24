@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 30
+# Gegen die Häresien – Buch IV – Kapitel 30: Israels Güter aus Ägypten sind gerechter Lohn und Vorbild für den Dienst an Gott mit fremdem Besitz
 
 Autor: Irenäus von Lyon
 

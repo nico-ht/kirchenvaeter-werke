@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 10
+# Gegen Celsus, Buch 2 – Kapitel 10: Jesus stellte sich freiwillig; die Leidensbereitschaft seiner Jünger bezeugt die Aufrichtigkeit ihrer Berichte
 
 Autor: Origenes
 

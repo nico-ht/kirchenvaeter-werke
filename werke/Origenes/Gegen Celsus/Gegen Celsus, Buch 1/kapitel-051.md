@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 51
+# Gegen Celsus, Buch 1 – Kapitel 51: Jesu Geburt in Bethlehem erfüllt Michas Weissagung und wird auch von Gegnern des Glaubens bezeugt
 
 Autor: Origenes
 

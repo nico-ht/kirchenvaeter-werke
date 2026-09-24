@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 17
+# Erkenntnisse, Buch 8 – Kapitel 17: Ungleich schwere Atome können sich nicht zu festen Körpern mischen
 
 Autor: Clemens von Rom
 

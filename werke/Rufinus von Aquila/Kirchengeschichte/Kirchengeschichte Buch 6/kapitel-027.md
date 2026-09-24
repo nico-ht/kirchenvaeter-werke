@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 27
+# Kirchengeschichte Buch 6 – Kapitel 27: Bischöfe lernen selbst von Origenes und vertrauen ihm die Unterweisung ihrer Kirchen an
 
 Autor: Rufinus von Aquila
 

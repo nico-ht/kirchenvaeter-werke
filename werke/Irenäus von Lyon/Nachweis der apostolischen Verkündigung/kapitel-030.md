@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 30
+# Nachweis der apostolischen Verkündigung – Kapitel 30: Die Propheten verkünden Christus als Davids leiblichen Nachkommen und Gottes vor aller Schöpfung gezeugten Sohn
 
 Autor: Irenäus von Lyon
 

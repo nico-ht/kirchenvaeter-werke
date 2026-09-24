@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 72
+# Gegen Celsus, Buch 2 – Kapitel 72: Die Stimme vom Himmel hören nur die von Gott Bestimmten – mit geistlichem, nicht sinnlichem Gehör
 
 Autor: Origenes
 

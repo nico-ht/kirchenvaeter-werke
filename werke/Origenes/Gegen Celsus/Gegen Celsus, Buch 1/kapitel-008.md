@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 8
+# Gegen Celsus, Buch 1 – Kapitel 8: Celsus verlangt Standhaftigkeit im Bekenntnis, verschweigt aber im Angriff auf Christen seinen Epikureismus
 
 Autor: Origenes
 

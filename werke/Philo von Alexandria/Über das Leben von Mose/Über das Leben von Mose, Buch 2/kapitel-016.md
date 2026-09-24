@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 16
+# Über das Leben von Mose, Buch 2 – Kapitel 16: Wie die Säulen der Stiftshütte die Sinne als Mittler zwischen Geist und Außenwelt darstellen
 
 Autor: Philo von Alexandria
 

@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 64
+# Nachweis der apostolischen Verkündigung – Kapitel 64: Christus aus Davids Geschlecht erfüllt die Verheißung des ewigen Königtums
 
 Autor: Irenäus von Lyon
 

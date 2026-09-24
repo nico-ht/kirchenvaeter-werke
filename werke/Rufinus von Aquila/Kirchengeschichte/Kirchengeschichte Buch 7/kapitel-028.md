@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 28
+# Kirchengeschichte Buch 7 – Kapitel 28: Malchion überführt Paulus von Samosata anhand dessen eigener Zugeständnisse der Häresie
 
 Autor: Rufinus von Aquila
 

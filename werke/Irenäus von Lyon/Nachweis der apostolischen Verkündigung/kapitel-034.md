@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 34
+# Nachweis der apostolischen Verkündigung – Kapitel 34: Christi Gehorsam am Kreuz hebt den alten Ungehorsam auf und offenbart das allumfassende Wirken des Wortes
 
 Autor: Irenäus von Lyon
 

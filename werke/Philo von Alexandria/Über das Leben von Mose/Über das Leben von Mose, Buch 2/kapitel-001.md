@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 1
+# Über das Leben von Mose, Buch 2 – Kapitel 1: Warum Mose als König und Gesetzgeber auch Hohepriester und Prophet sein musste
 
 Autor: Philo von Alexandria
 

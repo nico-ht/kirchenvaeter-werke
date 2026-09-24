@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 28
+# Gegen Celsus, Buch 1 – Kapitel 28: Celsus’ Schmähungen über Jesu Herkunft und Wunderkräfte stimmen mit den Weissagungen über Gottes Sohn überein
 
 Autor: Origenes
 

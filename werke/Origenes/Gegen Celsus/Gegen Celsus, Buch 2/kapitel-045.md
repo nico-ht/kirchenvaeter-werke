@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 45
+# Gegen Celsus, Buch 2 – Kapitel 45: Celsus verschweigt, dass die anfangs schwachen Jünger später mutig für Jesu Lehre litten und starben
 
 Autor: Origenes
 

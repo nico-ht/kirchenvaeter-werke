@@ -1,4 +1,4 @@
-# 54\. Homilie über Matthäus – Kapitel 2
+# 54\. Homilie über Matthäus – Kapitel 2: Christi Verheißungen an Petrus zeigen seine göttliche Vollmacht und gleiche Würde mit dem Vater
 
 Autor: Johannes Chrysostomus
 

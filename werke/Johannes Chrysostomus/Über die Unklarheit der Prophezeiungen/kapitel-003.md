@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 3
+# Über die Unklarheit der Prophezeiungen – Kapitel 3: Verhüllte Unheilsankündigungen sollten die Propheten vor der Verfolgung ihrer Hörer schützen
 
 Autor: Johannes Chrysostomus
 

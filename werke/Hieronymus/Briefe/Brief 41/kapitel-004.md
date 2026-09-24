@@ -1,4 +1,4 @@
-# Brief 41 – Kapitel 4
+# Brief 41 – Kapitel 4: Die Behauptung, Gott sei mit Mose und Christus gescheitert und wirke nun durch Montanus, ist Gotteslästerung
 
 Autor: Hieronymus
 

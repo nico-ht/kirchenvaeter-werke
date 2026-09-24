@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 18
+# Gegen die Häresien – Buch I – Kapitel 18: Wie die Schrift durch willkürliche Zahlendeutungen der Äonenlehre angepasst wird
 
 Autor: Irenäus von Lyon
 

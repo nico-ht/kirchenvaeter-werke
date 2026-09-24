@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 3
+# Kirchengeschichte Buch 7 – Kapitel 3: Stephanus folgt auf Lucius und lehnt wie Cornelius die Wiedertaufe ab
 
 Autor: Rufinus von Aquila
 

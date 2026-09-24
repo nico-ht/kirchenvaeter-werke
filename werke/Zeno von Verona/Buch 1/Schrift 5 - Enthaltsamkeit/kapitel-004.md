@@ -1,4 +1,4 @@
-# Schrift 5 \- Enthaltsamkeit – Kapitel 4
+# Schrift 5 \- Enthaltsamkeit – Kapitel 4: Die Witwe soll dem guten Ehemann über den Tod hinaus treu bleiben, statt erneut zu heiraten
 
 Autor: Zeno von Verona
 

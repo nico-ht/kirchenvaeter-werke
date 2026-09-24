@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 58
+# Gegen Celsus, Buch 2 – Kapitel 58: Jesu Auferweckung durch den Vater bringt der Welt größeren Nutzen als die Totenerweckungen der Propheten
 
 Autor: Origenes
 

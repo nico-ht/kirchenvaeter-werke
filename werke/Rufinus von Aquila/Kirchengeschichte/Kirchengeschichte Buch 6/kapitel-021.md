@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 21
+# Kirchengeschichte Buch 6 – Kapitel 21: Kaisermutter Mamaea lässt Origenes wegen seines Rufes zur Unterweisung im Wort Gottes nach Antiochien holen
 
 Autor: Rufinus von Aquila
 

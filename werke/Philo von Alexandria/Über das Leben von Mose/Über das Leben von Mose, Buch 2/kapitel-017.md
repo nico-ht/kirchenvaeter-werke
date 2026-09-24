@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 17
+# Über das Leben von Mose, Buch 2 – Kapitel 17: Die Vorhänge der Stiftshütte verkörpern eine symbolische Zahlenordnung und verbergen das Heiligtum vor Unbefugten
 
 Autor: Philo von Alexandria
 

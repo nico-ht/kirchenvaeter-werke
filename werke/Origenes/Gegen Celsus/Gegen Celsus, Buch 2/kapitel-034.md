@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 34
+# Gegen Celsus, Buch 2 – Kapitel 34: Jesus ertrug Gefangenschaft und Spott freiwillig und standhaft, nicht weil er sich nicht befreien konnte
 
 Autor: Origenes
 

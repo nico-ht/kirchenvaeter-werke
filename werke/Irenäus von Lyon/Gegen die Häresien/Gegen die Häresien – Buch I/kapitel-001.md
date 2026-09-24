@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 1
+# Gegen die Häresien – Buch I – Kapitel 1: Wie aus Bythus dreißig Äonen hervorgehen sollen und die Schrift diesem System angepasst wird
 
 Autor: Irenäus von Lyon
 

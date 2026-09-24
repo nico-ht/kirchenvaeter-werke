@@ -1,4 +1,4 @@
-# 15\. Predigt zu Genesis – Kapitel 3
+# 15\. Predigt zu Genesis – Kapitel 3: Josefs Herrschaft über ganz Ägypten bedeutet die Bezwingung aller fleischlichen Begierden
 
 Autor: Origenes
 

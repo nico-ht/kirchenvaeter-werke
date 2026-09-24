@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 63
+# 1\. Apologie – Kapitel 63: Christus, Gottes Sohn und Wort, sprach aus dem Dornbusch zu Mose – nicht der Vater
 
 Autor: Justin der Märtyrer
 

@@ -1,4 +1,4 @@
-# 15\. Predigt zu Genesis – Kapitel 4
+# 15\. Predigt zu Genesis – Kapitel 4: Die Schrift nennt den Patriarchen als Vollendeten Israel, in seiner geistlichen Begrenztheit aber Jakob
 
 Autor: Origenes
 

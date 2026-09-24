@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 28
+# Erkenntnisse, Buch 9 – Kapitel 28: Juden folgen bei Beschneidung und Sabbat weltweit dem Gesetz des Mose, nicht den Sternen
 
 Autor: Clemens von Rom
 

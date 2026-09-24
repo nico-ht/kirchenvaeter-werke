@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 8
+# 1\. Apologie – Kapitel 8: Die Hoffnung auf ewiges Leben trägt das Bekenntnis der Christen – ein Irrtum darin träfe nur sie selbst
 
 Autor: Justin der Märtyrer
 

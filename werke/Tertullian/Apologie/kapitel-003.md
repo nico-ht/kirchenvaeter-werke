@@ -1,4 +1,4 @@
-# Apologie – Kapitel 3
+# Apologie – Kapitel 3: Der Hass auf den Christennamen missachtet sittliche Besserung und ersetzt die Prüfung der Lehre
 
 Autor: Tertullian
 

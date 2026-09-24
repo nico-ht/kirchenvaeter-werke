@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 20
+# 11\. Taufunterweisung – Kapitel 20: Die Besinnung auf eure guten Taten und die erwarteten Gaben erhebt eure Seele zum Himmel
 
 Autor: Johannes Chrysostomus
 

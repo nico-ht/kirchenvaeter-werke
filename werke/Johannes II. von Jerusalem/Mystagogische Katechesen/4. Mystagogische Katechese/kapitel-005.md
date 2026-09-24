@@ -1,4 +1,4 @@
-# 4\. Mystagogische Katechese – Kapitel 5
+# 4\. Mystagogische Katechese – Kapitel 5: Im neuen Bund heiligen das himmlische Brot und der Kelch des Heils Seele und Leib
 
 Autor: Johannes II\. von Jerusalem
 

@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 49
+# Gegen Celsus, Buch 1 – Kapitel 49: Celsus lässt seinen Juden den Sohn Gottes als vorhergesagt anerkennen, obwohl Juden dies bestreiten
 
 Autor: Origenes
 

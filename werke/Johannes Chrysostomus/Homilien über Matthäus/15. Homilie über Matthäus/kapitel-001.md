@@ -1,4 +1,4 @@
-# 15\. Homilie über Matthäus – Kapitel 1
+# 15\. Homilie über Matthäus – Kapitel 1: Die Seligpreisung der Armen im Geist gilt allen, die sich freiwillig vor Gott demütigen
 
 Autor: Johannes Chrysostomus
 

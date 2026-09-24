@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 20
+# 1\. Apologie – Kapitel 20: Christen lehren Ähnliches wie geehrte Dichter und Philosophen, bieten aber Beweise – warum also der Hass?
 
 Autor: Justin der Märtyrer
 

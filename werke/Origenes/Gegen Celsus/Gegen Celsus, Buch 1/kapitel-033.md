@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 33
+# Gegen Celsus, Buch 1 – Kapitel 33: Wenn Körper und Seele einander entsprechen, verlangt Jesu Wirken einen außergewöhnlichen Körper
 
 Autor: Origenes
 

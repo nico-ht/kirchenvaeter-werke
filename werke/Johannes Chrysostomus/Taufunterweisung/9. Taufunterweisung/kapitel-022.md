@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 22
+# 9\. Taufunterweisung  – Kapitel 22: Durch Wasser und Geistesgnade schafft Gott einen neuen Menschen, der heller strahlt als der alte
 
 Autor: Johannes Chrysostomus
 

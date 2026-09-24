@@ -1,4 +1,4 @@
-# 58\. Homilie über Matthäus – Kapitel 5
+# 58\. Homilie über Matthäus – Kapitel 5: Warum weltlicher Ruhm der Seele schadet und die Freude daran den Weg zur Heilung versperrt
 
 Autor: Johannes Chrysostomus
 

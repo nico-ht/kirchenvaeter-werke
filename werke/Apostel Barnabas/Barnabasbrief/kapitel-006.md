@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 6
+# Barnabasbrief – Kapitel 6: Die Verheißung des guten Landes erfüllt sich in der Erneuerung durch Jesus
 
 Autor: Apostel Barnabas
 

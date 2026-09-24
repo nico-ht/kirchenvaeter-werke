@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 30
+# Physiologus – Kapitel 30: Der Duft des Panthers: Der auferstandene Christus zieht Juden und Heiden durch seine Gebote zu sich
 
 Autor: Unbekannt
 

@@ -1,4 +1,4 @@
-# Brief an die Philipper – Kapitel 14
+# Brief an die Philipper – Kapitel 14: Polykarp sendet Ignatius’ Briefe und erbittet Nachrichten über ihn
 
 Autor: Polykarp
 

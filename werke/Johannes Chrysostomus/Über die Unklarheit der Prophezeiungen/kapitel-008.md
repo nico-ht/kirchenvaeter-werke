@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 8
+# Über die Unklarheit der Prophezeiungen – Kapitel 8: Verhüllte Weissagungen werden erst nach ihrer Erfüllung klar, selbst den Jüngern
 
 Autor: Johannes Chrysostomus
 

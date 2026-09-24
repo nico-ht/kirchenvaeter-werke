@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 96
+# Nachweis der apostolischen Verkündigung – Kapitel 96: Wer beständig Gott dient und Gerechtigkeit übt, braucht das Gesetz nicht mehr als Erzieher
 
 Autor: Irenäus von Lyon
 

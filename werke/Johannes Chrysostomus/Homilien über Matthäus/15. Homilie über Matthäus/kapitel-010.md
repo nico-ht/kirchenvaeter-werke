@@ -1,4 +1,4 @@
-# 15\. Homilie über Matthäus – Kapitel 10
+# 15\. Homilie über Matthäus – Kapitel 10: Barmherzigkeit verlangt, Streitende zu versöhnen, statt sich an ihrem Unglück zu erfreuen
 
 Autor: Johannes Chrysostomus
 

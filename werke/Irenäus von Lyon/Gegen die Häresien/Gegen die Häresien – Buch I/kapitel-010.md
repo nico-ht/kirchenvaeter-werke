@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 10
+# Gegen die Häresien – Buch I – Kapitel 10: Die Kirche bewahrt weltweit denselben apostolischen Glauben, den tiefere Einsicht entfaltet, aber nicht verändert
 
 Autor: Irenäus von Lyon
 

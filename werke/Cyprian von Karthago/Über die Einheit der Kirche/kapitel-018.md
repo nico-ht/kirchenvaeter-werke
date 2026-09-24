@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 18
+# Über die Einheit der Kirche – Kapitel 18: Wer sich über Gottes Opferordnung hinwegsetzt, widersetzt sich Gott selbst und wird bestraft
 
 Autor: Cyprian von Karthago
 

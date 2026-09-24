@@ -1,4 +1,4 @@
-# 4\. Homilie über Matthäus – Kapitel 11
+# 4\. Homilie über Matthäus – Kapitel 11: Wie die drei Jünglinge sollen wir eher den Ofen der Armut wählen als den Mammon anbeten
 
 Autor: Johannes Chrysostomus
 

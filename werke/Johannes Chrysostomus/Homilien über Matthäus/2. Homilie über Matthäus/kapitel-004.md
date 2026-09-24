@@ -1,4 +1,4 @@
-# 2\. Homilie über Matthäus – Kapitel 4
+# 2\. Homilie über Matthäus – Kapitel 4: Josefs Stammbaum belegt Marias Herkunft aus dem Haus Davids und wahrt den jüdischen Brauch
 
 Autor: Johannes Chrysostomus
 

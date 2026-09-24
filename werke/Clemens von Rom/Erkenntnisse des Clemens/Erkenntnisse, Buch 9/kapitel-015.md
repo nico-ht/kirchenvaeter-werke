@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 15
+# Erkenntnisse, Buch 9 – Kapitel 15: Gottesfurcht kann Begierden auslöschen, weil sie selbst deren dämonische Anstifter vertreibt
 
 Autor: Clemens von Rom
 

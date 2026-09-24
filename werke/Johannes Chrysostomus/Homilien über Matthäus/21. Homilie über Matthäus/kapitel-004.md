@@ -1,4 +1,4 @@
-# 21\. Homilie über Matthäus – Kapitel 4
+# 21\. Homilie über Matthäus – Kapitel 4: Wer Besitzlosigkeit noch nicht schafft, soll Habgier ablegen und mit Barmherzigkeit beginnen
 
 Autor: Johannes Chrysostomus
 

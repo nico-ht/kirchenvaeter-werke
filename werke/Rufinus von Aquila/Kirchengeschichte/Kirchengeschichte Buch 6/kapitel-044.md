@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 44
+# Kirchengeschichte Buch 6 – Kapitel 44: Serapions Eucharistieempfang zeigt, warum sterbenden reuigen Gefallenen die Versöhnung nicht verwehrt werden darf
 
 Autor: Rufinus von Aquila
 

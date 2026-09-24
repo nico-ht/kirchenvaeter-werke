@@ -1,4 +1,4 @@
-# 2\. Homilie über Genesis – Kapitel 6
+# 2\. Homilie über Genesis – Kapitel 6: Schon menschliche Künste sind unergründlich – umso mehr ist Gottes Schöpfung aus dem Nichts im Glauben anzunehmen
 
 Autor: Johannes Chrysostomus
 

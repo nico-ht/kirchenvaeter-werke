@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 9
+# Über die Sterblichkeit – Kapitel 9: Wer Gott dient, muss sich auf Versuchungen und die Prüfung seines Glaubens vorbereiten
 
 Autor: Cyprian von Karthago
 

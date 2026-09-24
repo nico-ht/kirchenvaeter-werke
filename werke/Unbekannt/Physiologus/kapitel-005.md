@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 5
+# Physiologus – Kapitel 5: Der unreine Charadrius als Bild des sündlosen Christus, der die Sünden der Heiden fortträgt
 
 Autor: Unbekannt
 

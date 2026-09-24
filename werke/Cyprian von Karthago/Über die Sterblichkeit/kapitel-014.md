@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 14
+# Über die Sterblichkeit – Kapitel 14: Auch schwerstes Seuchenleiden kann zum Zeugnis der Hoffnung auf Christus werden
 
 Autor: Cyprian von Karthago
 

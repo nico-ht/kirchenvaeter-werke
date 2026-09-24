@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 88
+# Nachweis der apostolischen Verkündigung – Kapitel 88: Christus wird nach der Himmelfahrt über alle erhöht und erlöst uns selbst durch sein Blut
 
 Autor: Irenäus von Lyon
 

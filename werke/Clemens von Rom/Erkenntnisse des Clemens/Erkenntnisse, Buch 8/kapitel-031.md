@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 31
+# Erkenntnisse, Buch 8 – Kapitel 31: Gewundene Därme führen Nahrung allmählich weiter und bewahren den Körper vor Austrocknung
 
 Autor: Clemens von Rom
 

@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 17
+# Gegen Celsus, Buch 1 – Kapitel 17: Celsus duldet grausame Göttermythen, verweigert Mose aber die allegorische Verteidigung
 
 Autor: Origenes
 

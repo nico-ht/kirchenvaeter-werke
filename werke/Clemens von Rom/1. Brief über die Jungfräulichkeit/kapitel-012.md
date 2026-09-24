@@ -1,4 +1,4 @@
-# 1\. Brief über die Jungfräulichkeit – Kapitel 12
+# 1\. Brief über die Jungfräulichkeit – Kapitel 12: Gottes Diener sollen Armen und Kranken demütig und unentgeltlich mit ihren Gaben helfen
 
 Autor: Clemens von Rom
 

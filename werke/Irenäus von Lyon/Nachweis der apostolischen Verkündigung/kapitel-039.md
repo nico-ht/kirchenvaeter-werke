@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 39
+# Nachweis der apostolischen Verkündigung – Kapitel 39: Wer Christi Geburt leugnet, verneint auch seinen Sieg über den Tod und unsere Auferstehung
 
 Autor: Irenäus von Lyon
 

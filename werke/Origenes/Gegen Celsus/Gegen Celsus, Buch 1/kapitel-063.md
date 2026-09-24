@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 63
+# Gegen Celsus, Buch 1 – Kapitel 63: Jesus macht sündige Apostel zu Vorbildern der Tugend und zeigt so seine Macht, Seelen zu heilen
 
 Autor: Origenes
 

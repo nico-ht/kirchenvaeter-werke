@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 2
+# Gegen Celsus, Buch 1 – Kapitel 2: Der göttliche Beweis des Evangeliums durch Prophetien und Wunder übertrifft die griechische Dialektik
 
 Autor: Origenes
 

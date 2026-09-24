@@ -1,4 +1,4 @@
-# Brief an die Trallianer – Kapitel 5
+# Brief an die Trallianer – Kapitel 5: Himmlisches Wissen kann Unreifen schaden und macht auch Ignatius noch nicht zum Jünger
 
 Autor: Ignatius von Antiochien
 

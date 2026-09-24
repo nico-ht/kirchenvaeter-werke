@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 20
+# Physiologus – Kapitel 20: Der kleine Elefant: Christus richtet den gefallenen Menschen auf, den Gesetz und Propheten nicht aufrichten können
 
 Autor: Unbekannt
 

@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 40
+# 9\. Taufunterweisung  – Kapitel 40: Die Nachlässigkeit anderer entschuldigt das Schwören nicht, denn Gott richtet nach seinem Gebot
 
 Autor: Johannes Chrysostomus
 

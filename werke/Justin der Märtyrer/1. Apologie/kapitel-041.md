@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 41
+# 1\. Apologie – Kapitel 41: Das Regieren „vom Baum her“ in Davids Psalm verweist auf Christi Herrschaft nach der Kreuzigung
 
 Autor: Justin der Märtyrer
 

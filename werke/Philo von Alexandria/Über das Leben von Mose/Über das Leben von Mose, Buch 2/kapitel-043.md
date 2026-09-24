@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 43
+# Über das Leben von Mose, Buch 2 – Kapitel 43: Gott gewährt Töchtern ohne Brüder das väterliche Erbe als Gnadengabe, nicht als Lohn für Kriegsdienst
 
 Autor: Philo von Alexandria
 

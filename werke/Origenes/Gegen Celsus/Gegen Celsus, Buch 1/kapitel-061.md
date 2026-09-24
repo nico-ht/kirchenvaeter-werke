@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 61
+# Gegen Celsus, Buch 1 – Kapitel 61: Jesu Reich ist nicht von dieser Welt; seine Flucht bewahrt ihn zum Heil der Menschen
 
 Autor: Origenes
 

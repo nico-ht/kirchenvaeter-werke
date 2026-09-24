@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 13
+# Gegen Celsus, Buch 1 – Kapitel 13: Paulus verwirft falsche Weltweisheit und stellt vernünftige Einsicht über bloßen Glauben
 
 Autor: Origenes
 

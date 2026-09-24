@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 48
+# Nachweis der apostolischen Verkündigung – Kapitel 48: David verkündet Christus als ewigen Priester und Richter, der nach seiner Erniedrigung verherrlicht wird
 
 Autor: Irenäus von Lyon
 

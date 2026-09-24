@@ -1,4 +1,4 @@
-# 2\. Brief über die Jungfräulichkeit – Kapitel 8
+# 2\. Brief über die Jungfräulichkeit – Kapitel 8: Josef blieb keusch und wurde doch verleumdet: Warum ständige Nähe zu Frauen zu meiden ist
 
 Autor: Clemens von Rom
 

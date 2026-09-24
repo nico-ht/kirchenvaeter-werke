@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 20
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 20: Neros Grausamkeit führt zum Abfall seiner Vertrauten und zu seinem verdienten Ende durch Selbstmord
 
 Autor: Unbekannt
 

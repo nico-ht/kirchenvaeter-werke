@@ -1,4 +1,4 @@
-# Der Hirte des Hermas, Buch 1 – Kapitel 5
+# Der Hirte des Hermas, Buch 1 – Kapitel 5: Der Engel der Umkehr lässt Gebote und Gleichnisse aufschreiben, damit sie gelesen und befolgt werden
 
 Autor: Hermas
 

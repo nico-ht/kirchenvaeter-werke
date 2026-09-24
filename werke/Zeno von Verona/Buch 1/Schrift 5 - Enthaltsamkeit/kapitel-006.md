@@ -1,4 +1,4 @@
-# Schrift 5 \- Enthaltsamkeit – Kapitel 6
+# Schrift 5 \- Enthaltsamkeit – Kapitel 6: Häufige Wiederheirat im Alter und Ehen mit Heiden untergraben das christliche Zeugnis
 
 Autor: Zeno von Verona
 

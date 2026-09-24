@@ -1,4 +1,4 @@
-# Brief 69 – Kapitel 1
+# Brief 69 – Kapitel 1: Warum das Gesetz Männern und Frauen verbietet, die Kleidung des anderen Geschlechts zu tragen
 
 Autor: Ambrosius von Mailand
 

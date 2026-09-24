@@ -1,4 +1,4 @@
-# 2\. Mystagogische Katechese – Kapitel 8
+# 2\. Mystagogische Katechese – Kapitel 8: Bewahrt die überlieferte Lehre; Gott kann euch den Wandel in der Neuheit des Lebens schenken
 
 Autor: Johannes II\. von Jerusalem
 

@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 100
+# Nachweis der apostolischen Verkündigung – Kapitel 100: Wer Gottes Erlösung erlangen will, muss jene meiden, die Vater, Sohn oder Geist verwerfen
 
 Autor: Irenäus von Lyon
 

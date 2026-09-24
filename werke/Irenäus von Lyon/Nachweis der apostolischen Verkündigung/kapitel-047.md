@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 47
+# Nachweis der apostolischen Verkündigung – Kapitel 47: Der Sohn ist mit dem Vater ein Gott und empfängt von ihm das ewige Reich und die Salbung mit dem Geist
 
 Autor: Irenäus von Lyon
 

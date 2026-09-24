@@ -1,4 +1,4 @@
-# 1\. Mystagogische Katechese – Kapitel 10
+# 1\. Mystagogische Katechese – Kapitel 10: Die Taufe verwandelt Trauer in Freude, doch der Getaufte muss vor dem Teufel wachsam bleiben
 
 Autor: Johannes II\. von Jerusalem
 

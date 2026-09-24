@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 40
+# Nachweis der apostolischen Verkündigung – Kapitel 40: Das von den Propheten verkündete Wort Gottes wird Mensch und führt durch Gemeinschaft mit Gott zur Unvergänglichkeit
 
 Autor: Irenäus von Lyon
 

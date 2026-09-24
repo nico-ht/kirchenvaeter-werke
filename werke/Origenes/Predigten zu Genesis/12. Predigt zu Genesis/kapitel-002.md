@@ -1,4 +1,4 @@
-# 12\. Predigt zu Genesis – Kapitel 2
+# 12\. Predigt zu Genesis – Kapitel 2: Rebekkas Weg zum Herrn ist ein Fortschritt vom Sichtbaren zum Geistlichen
 
 Autor: Origenes
 

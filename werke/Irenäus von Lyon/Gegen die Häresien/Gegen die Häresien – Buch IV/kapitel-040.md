@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 40
+# Gegen die Häresien – Buch IV – Kapitel 40: Dass Christus ins Reich oder ins Feuer sendet, bezeugt den einen Vater, der beides bereitet hat
 
 Autor: Irenäus von Lyon
 

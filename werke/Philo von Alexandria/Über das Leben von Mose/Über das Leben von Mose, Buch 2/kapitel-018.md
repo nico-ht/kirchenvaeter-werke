@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 18
+# Über das Leben von Mose, Buch 2 – Kapitel 18: Die Stoffe der Stiftshütte entsprechen den Elementen, aus denen Gott die Welt erschuf
 
 Autor: Philo von Alexandria
 

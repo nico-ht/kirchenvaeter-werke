@@ -1,4 +1,4 @@
-# Der Erzieher: Buch 1 – Kapitel 13
+# Der Erzieher: Buch 1 – Kapitel 13: Glaube ist Gehorsam gegenüber der Vernunft und führt durch pflichtgemäße Taten zum ewigen Leben
 
 Autor: Clemens von Alexandria
 

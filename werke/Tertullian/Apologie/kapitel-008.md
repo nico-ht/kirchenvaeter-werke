@@ -1,4 +1,4 @@
-# Apologie – Kapitel 8
+# Apologie – Kapitel 8: Die gemeinsame menschliche Natur macht die unterstellten Ritualverbrechen der Christen unglaubwürdig
 
 Autor: Tertullian
 

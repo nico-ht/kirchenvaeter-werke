@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 29
+# Gegen die Häresien – Buch I – Kapitel 29: Wie Gnostiker die Äonenwelt um Barbelos erklären und den unwissenden Weltschöpfer aus Sophia ableiten
 
 Autor: Irenäus von Lyon
 

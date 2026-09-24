@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 8
+# Diskurs über das Heil einer Jungfrau – Kapitel 8: Wie der Feind durch Lob und übermäßige Askese verführt und warum Demut und maßvolles Fasten nötig sind
 
 Autor: Athanasius
 

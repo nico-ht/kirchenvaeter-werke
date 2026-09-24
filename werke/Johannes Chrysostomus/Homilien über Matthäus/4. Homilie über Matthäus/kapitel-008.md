@@ -1,4 +1,4 @@
-# 4\. Homilie über Matthäus – Kapitel 8
+# 4\. Homilie über Matthäus – Kapitel 8: Laster lassen die Seele verwildern, doch wir können und müssen sie selbst zähmen
 
 Autor: Johannes Chrysostomus
 

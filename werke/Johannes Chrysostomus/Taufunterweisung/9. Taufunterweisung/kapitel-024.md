@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 24
+# 9\. Taufunterweisung  – Kapitel 24: Das Tongefäß lässt sich neu formen, weil es aus feuchtem, nicht aus gebranntem Ton besteht
 
 Autor: Johannes Chrysostomus
 

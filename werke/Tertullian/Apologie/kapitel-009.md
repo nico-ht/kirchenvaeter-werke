@@ -1,4 +1,4 @@
-# Apologie – Kapitel 9
+# Apologie – Kapitel 9: Die Ankläger begehen selbst die Verbrechen, vor denen Christen durch ihre Lebensregeln geschützt sind
 
 Autor: Tertullian
 

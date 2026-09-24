@@ -1,4 +1,4 @@
-# 1\. Mystagogische Katechese – Kapitel 8
+# 1\. Mystagogische Katechese – Kapitel 8: Der Rückfall in Götzendienst und Magie trennt von Christus und führt in härtere Knechtschaft unter Satan
 
 Autor: Johannes II\. von Jerusalem
 

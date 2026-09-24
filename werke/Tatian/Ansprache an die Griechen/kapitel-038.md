@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 38
+# Ansprache an die Griechen – Kapitel 38: Ägyptische Chroniken belegen: Mose lebte zur Zeit des Inachos, zwanzig Generationen vor Trojas Einnahme
 
 Autor: Tatian
 

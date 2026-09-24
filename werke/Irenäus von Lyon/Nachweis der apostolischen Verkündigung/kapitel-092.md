@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 92
+# Nachweis der apostolischen Verkündigung – Kapitel 92: Jesaja kündigt an, dass Gottes Sohn als Mensch denen offenbar wird, die ihn nicht suchten
 
 Autor: Irenäus von Lyon
 

@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 15
+# Barnabasbrief – Kapitel 15: Der wahre Sabbat kommt mit der Erneuerung der Welt; der achte Tag feiert Jesu Auferstehung
 
 Autor: Apostel Barnabas
 

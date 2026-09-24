@@ -1,4 +1,4 @@
-# 12\. Predigt zu Exodus – Kapitel 3
+# 12\. Predigt zu Exodus – Kapitel 3: Im Gesetz ist nur Moses Gesicht verherrlicht, im Evangelium erscheint er ganz in Herrlichkeit
 
 Autor: Origenes
 

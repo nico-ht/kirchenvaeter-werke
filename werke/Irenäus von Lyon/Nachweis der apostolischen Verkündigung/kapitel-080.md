@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 80
+# Nachweis der apostolischen Verkündigung – Kapitel 80: Davids Weissagung: Die Soldaten zerteilen Christi Kleider, verlosen aber das ungenähte Gewand
 
 Autor: Irenäus von Lyon
 

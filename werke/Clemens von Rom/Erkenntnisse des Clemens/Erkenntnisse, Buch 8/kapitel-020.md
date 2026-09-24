@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 20
+# Erkenntnisse, Buch 8 – Kapitel 20: Wer die ordnende Vernunft „Natur“ nennt, räumt damit Gottes Schöpfungswerk ein
 
 Autor: Clemens von Rom
 

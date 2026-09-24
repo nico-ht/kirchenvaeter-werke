@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 38
+# Gegen Celsus, Buch 1 – Kapitel 38: Jesu Lehre vom Gericht Gottes und ihr Verbot der Magie widersprechen dem Vorwurf ägyptischer Zauberei
 
 Autor: Origenes
 

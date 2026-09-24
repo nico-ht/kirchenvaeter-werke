@@ -1,4 +1,4 @@
-# Brief an die Philipper – Kapitel 15
+# Brief an die Philipper – Kapitel 15: Polykarp empfiehlt Crescens und seine Schwester der Gemeinde
 
 Autor: Polykarp
 

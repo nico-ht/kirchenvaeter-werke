@@ -1,4 +1,4 @@
-# 51\. Homilie über Matthäus – Kapitel 2
+# 51\. Homilie über Matthäus – Kapitel 2: Wer den Eltern unter dem Vorwand der Opfergabe Hilfe verweigert, missachtet auch Gott
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# 4\. Homilie über Matthäus – Kapitel 12
+# 4\. Homilie über Matthäus – Kapitel 12: Wer mit Almosen in den Ofen der Armut hinabsteigt, wird vor dem Feuer der Gehenna bewahrt
 
 Autor: Johannes Chrysostomus
 

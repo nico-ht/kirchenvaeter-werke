@@ -1,4 +1,4 @@
-# Apologie – Kapitel 30
+# Apologie – Kapitel 30: Christen beten trotz Verfolgung für das Kaiserheil zu Gott, dem die Kaiser ihre Macht verdanken
 
 Autor: Tertullian
 

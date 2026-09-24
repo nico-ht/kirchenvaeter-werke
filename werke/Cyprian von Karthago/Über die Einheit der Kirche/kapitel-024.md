@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 24
+# Über die Einheit der Kirche – Kapitel 24: Wer Miterbe Christi und Kind Gottes ist, soll Christi Frieden bewahren und Frieden stiften
 
 Autor: Cyprian von Karthago
 

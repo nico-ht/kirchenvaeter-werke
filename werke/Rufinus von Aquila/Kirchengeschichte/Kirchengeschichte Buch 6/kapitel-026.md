@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 26
+# Kirchengeschichte Buch 6 – Kapitel 26: Nach Origenes’ Flucht übernimmt Heraclas die Katechetenschule und wird nach Demetrius’ Tod Bischof von Alexandria
 
 Autor: Rufinus von Aquila
 

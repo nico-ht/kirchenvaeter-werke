@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 8
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 8: Simon deutet die verschlossenen Tore als Zeichen des Verrats und fordert die Befreiung der im Tempel Eingeschlossenen
 
 Autor: Unbekannt
 

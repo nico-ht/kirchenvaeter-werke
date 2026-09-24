@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 2
+# Kirchengeschichte Buch 7 – Kapitel 2: Wiedertaufe oder Handauflegung: Afrikas und Italiens Bischöfe bleiben trotz ihres Streits in Eintracht
 
 Autor: Rufinus von Aquila
 

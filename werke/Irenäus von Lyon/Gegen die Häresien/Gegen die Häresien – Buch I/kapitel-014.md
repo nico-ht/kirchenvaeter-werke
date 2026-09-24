@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 14
+# Gegen die Häresien – Buch I – Kapitel 14: Markus’ angebliche Offenbarung erklärt die göttliche Welt und die Schöpfung aus Buchstaben und Zahlen
 
 Autor: Irenäus von Lyon
 

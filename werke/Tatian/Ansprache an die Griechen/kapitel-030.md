@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 30
+# Ansprache an die Griechen – Kapitel 30: Wer ungeteilt auf Gottes Worte hört, überwindet das Böse und gewinnt einen bleibenden Schatz
 
 Autor: Tatian
 

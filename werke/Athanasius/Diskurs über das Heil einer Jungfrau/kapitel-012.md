@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 12
+# Diskurs über das Heil einer Jungfrau – Kapitel 12: Schriftlesung und Gebet zu den Stunden der Passion ordnen den Tagesablauf der Jungfrau
 
 Autor: Athanasius
 

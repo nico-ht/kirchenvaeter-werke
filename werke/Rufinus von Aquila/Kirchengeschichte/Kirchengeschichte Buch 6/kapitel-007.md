@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 7
+# Kirchengeschichte Buch 6 – Kapitel 7: Potamiaenas Erscheinung führt ihren barmherzigen Henker Basilides zum Glauben und zum Martyrium
 
 Autor: Rufinus von Aquila
 

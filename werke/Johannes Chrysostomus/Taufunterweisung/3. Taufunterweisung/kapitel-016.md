@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 16
+# 3\. Taufunterweisung  – Kapitel 16: Christi durchbohrte Seite eröffnet uns den Reichtum des Heils in Taufe und Mysterien
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 30
+# Kirchengeschichte Buch 7 – Kapitel 30: Gelehrte Bischöfe und Lehrer stärken die Kirchen bis zur Bewährungsprobe der Verfolgung
 
 Autor: Rufinus von Aquila
 

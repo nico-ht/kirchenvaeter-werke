@@ -1,4 +1,4 @@
-# 2\. Homilie über Genesis – Kapitel 7
+# 2\. Homilie über Genesis – Kapitel 7: Mose beginnt mit der sichtbaren Schöpfung, damit seine Hörer den Schöpfer statt der Geschöpfe verehren
 
 Autor: Johannes Chrysostomus
 

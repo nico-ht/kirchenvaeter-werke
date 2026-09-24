@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 78
+# Gegen Celsus, Buch 2 – Kapitel 78: Jesus wollte nicht den Unglauben der Juden, sondern nutzte ihn zur vorausgesagten Berufung der Heiden
 
 Autor: Origenes
 

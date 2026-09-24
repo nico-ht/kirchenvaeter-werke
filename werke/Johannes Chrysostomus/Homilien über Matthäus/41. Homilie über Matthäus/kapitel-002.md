@@ -1,4 +1,4 @@
-# 41\. Homilie über Matthäus – Kapitel 2
+# 41\. Homilie über Matthäus – Kapitel 2: Christi Dämonenaustreibungen zeigen: Gottes Reich ist gekommen und Satan bereits gebunden
 
 Autor: Johannes Chrysostomus
 

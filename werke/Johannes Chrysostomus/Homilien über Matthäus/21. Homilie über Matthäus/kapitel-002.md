@@ -1,4 +1,4 @@
-# 21\. Homilie über Matthäus – Kapitel 2
+# 21\. Homilie über Matthäus – Kapitel 2: Wer Gott dient, darf auf seine Fürsorge vertrauen statt um Nahrung und Kleidung zu bangen
 
 Autor: Johannes Chrysostomus
 

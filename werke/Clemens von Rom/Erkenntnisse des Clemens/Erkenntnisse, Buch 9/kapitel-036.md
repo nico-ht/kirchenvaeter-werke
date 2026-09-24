@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 36
+# Erkenntnisse, Buch 9 – Kapitel 36: Petrus erzählt dem Vater, wie seine Familie getrennt wurde und wieder zusammenfand
 
 Autor: Clemens von Rom
 

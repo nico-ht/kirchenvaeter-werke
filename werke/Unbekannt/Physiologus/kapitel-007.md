@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 7
+# Physiologus – Kapitel 7: Die Eule versinnbildlicht Christi Liebe zu den Menschen im Dunkeln und die jüdische Ablehnung des Lichts
 
 Autor: Unbekannt
 

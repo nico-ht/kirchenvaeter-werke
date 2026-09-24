@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 32
+# 9\. Taufunterweisung  – Kapitel 32: Unser Eifer braucht Gottes Hilfe, um die Zunge zu zügeln
 
 Autor: Johannes Chrysostomus
 

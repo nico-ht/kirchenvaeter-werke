@@ -1,4 +1,4 @@
-# 35\. Homilie über Matthäus – Kapitel 4
+# 35\. Homilie über Matthäus – Kapitel 4: Paulus mahnt arbeitsfähige Bettler zur Arbeit, die Gebenden aber zu unermüdlicher Barmherzigkeit
 
 Autor: Johannes Chrysostomus
 

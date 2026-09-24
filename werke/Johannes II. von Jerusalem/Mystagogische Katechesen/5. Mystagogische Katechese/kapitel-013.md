@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 13
+# 5\. Mystagogische Katechese – Kapitel 13: Wer sich in Tat, Gedanken und Wort gereinigt hat, darf zuversichtlich bitten: „Dein Reich komme“
 
 Autor: Johannes II\. von Jerusalem
 

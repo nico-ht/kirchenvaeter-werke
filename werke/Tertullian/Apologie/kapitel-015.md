@@ -1,4 +1,4 @@
-# Apologie – Kapitel 15
+# Apologie – Kapitel 15: Die Götter hätten über Schauspiele und Tempelfrevel ihrer Verehrer mehr zu klagen als über Christen
 
 Autor: Tertullian
 

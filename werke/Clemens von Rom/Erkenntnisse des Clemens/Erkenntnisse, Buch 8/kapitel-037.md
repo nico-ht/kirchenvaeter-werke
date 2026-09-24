@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 37
+# Erkenntnisse, Buch 8 – Kapitel 37: Petrus erlaubt seinen Gefährten zu lehren, aber nur in der überlieferten Lehre
 
 Autor: Clemens von Rom
 

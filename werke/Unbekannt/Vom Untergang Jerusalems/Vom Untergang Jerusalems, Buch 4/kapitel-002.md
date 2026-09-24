@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 2
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 2: Vespasian erklärt den Rückschlag durch schwieriges Gelände und Übereilung, nicht durch mangelnde Tapferkeit
 
 Autor: Unbekannt
 

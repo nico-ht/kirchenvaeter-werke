@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 20
+# 5\. Mystagogische Katechese – Kapitel 20: Beim Kosten erkennt der Glaube, nicht der Gaumen, das Gegenbild von Christi Leib und Blut
 
 Autor: Johannes II\. von Jerusalem
 

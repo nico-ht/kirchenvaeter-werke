@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 3
+# 9\. Taufunterweisung  – Kapitel 3: Die königlichen Gaben des Bräutigams übersteigen unseren Verdienst und entsprechen seiner Güte
 
 Autor: Johannes Chrysostomus
 

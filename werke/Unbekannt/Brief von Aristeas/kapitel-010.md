@@ -1,4 +1,4 @@
-# Brief von Aristeas – Kapitel 10
+# Brief von Aristeas – Kapitel 10: Charakter und Bildung befähigen zur Herrschaft, die sich in Frieden und rascher Rechtsprechung bewährt
 
 Autor: Unbekannt
 

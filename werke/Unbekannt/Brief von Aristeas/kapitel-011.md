@@ -1,4 +1,4 @@
-# Brief von Aristeas – Kapitel 11
+# Brief von Aristeas – Kapitel 11: Die gemeinsam erarbeitete Gesetzesübersetzung wird als heilig und genau anerkannt und vor Änderungen geschützt
 
 Autor: Unbekannt
 

@@ -1,4 +1,4 @@
-# Predigt zu dem reichen Mann und Lazarus – Kapitel 2
+# Predigt zu dem reichen Mann und Lazarus – Kapitel 2: Am Beispiel des Reichen und des Bettlers lehrt Christus, das eigene Leben gerecht zu beurteilen
 
 Autor: Asterius von Amaseia
 

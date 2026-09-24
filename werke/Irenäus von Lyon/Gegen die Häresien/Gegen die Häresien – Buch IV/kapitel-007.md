@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 7
+# Gegen die Häresien – Buch IV – Kapitel 7: Christus macht Glaubende aus den Völkern zu Abrahams Kindern und erfüllt so die Verheißung des Schöpfers
 
 Autor: Irenäus von Lyon
 

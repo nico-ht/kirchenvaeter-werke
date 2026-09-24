@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 8
+# Kirchengeschichte Buch 6 – Kapitel 8: Demetrius lobt Origenes’ Selbstentmannung, macht sie ihm nach dessen Presbyterweihe jedoch zum Vorwurf
 
 Autor: Rufinus von Aquila
 

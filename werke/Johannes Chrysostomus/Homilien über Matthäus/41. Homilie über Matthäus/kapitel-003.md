@@ -1,4 +1,4 @@
-# 41\. Homilie über Matthäus – Kapitel 3
+# 41\. Homilie über Matthäus – Kapitel 3: Warum die Lästerung des Geistes besonders schwer wiegt: Sein Wirken ist den Lästerern bekannt
 
 Autor: Johannes Chrysostomus
 

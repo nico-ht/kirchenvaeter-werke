@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 36
+# Über das Leben von Mose, Buch 2 – Kapitel 36: Ägyptische Gottlosigkeit stellt die Erde dem Himmel gleich und erhebt den Nil zum Gott
 
 Autor: Philo von Alexandria
 

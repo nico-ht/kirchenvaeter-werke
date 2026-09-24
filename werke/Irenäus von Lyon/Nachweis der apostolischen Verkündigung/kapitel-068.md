@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 68
+# Nachweis der apostolischen Verkündigung – Kapitel 68: Christi Erniedrigung und Misshandlung erfüllen die Weissagungen der Propheten
 
 Autor: Irenäus von Lyon
 

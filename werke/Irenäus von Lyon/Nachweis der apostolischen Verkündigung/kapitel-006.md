@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 6
+# Nachweis der apostolischen Verkündigung – Kapitel 6: Die Glaubensregel: Der Vater erschafft alles, der Sohn vereint Gott und Mensch, der Geist erneuert den Menschen
 
 Autor: Irenäus von Lyon
 

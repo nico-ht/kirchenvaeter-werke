@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 31
+# Kirchengeschichte Buch 6 – Kapitel 31: Africanus bezweifelt die Echtheit der Susanna\-Erzählung und zeigt die Übereinstimmung der Stammbäume Christi
 
 Autor: Rufinus von Aquila
 

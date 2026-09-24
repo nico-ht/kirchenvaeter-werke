@@ -1,4 +1,4 @@
-# Brief von Aristeas – Kapitel 3
+# Brief von Aristeas – Kapitel 3: Der König lässt prachtvolle Tempelgaben schaffen und wahrt dabei die jüdischen Vorschriften
 
 Autor: Unbekannt
 

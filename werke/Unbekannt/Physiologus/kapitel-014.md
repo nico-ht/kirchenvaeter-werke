@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 14
+# Physiologus – Kapitel 14: Selbst vorsorgen, das Alte Testament geistlich deuten und Irrlehren meiden: die Weisheit der Ameise
 
 Autor: Unbekannt
 

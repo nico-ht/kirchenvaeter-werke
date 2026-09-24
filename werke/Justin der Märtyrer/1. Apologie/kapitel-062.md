@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 62
+# 1\. Apologie – Kapitel 62: Waschungen und das Ausziehen der Schuhe in Tempeln gehen auf dämonische Nachahmung prophetischer Vorbilder zurück
 
 Autor: Justin der Märtyrer
 

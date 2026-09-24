@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 16
+# 9\. Taufunterweisung  – Kapitel 16: Das Bad der Gnade reinigt selbst schwerste Sünder von der Unreinheit des Körpers und der Seele
 
 Autor: Johannes Chrysostomus
 

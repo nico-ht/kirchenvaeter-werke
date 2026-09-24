@@ -1,4 +1,4 @@
-# 22\. Homilie über Matthäus – Kapitel 6
+# 22\. Homilie über Matthäus – Kapitel 6: Gottes Güte ist stets bereit – darum ist es immer Zeit, um Hilfe und Vergebung zu bitten
 
 Autor: Johannes Chrysostomus
 

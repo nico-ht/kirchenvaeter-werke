@@ -1,4 +1,4 @@
-# 9\. Predigt zu Genesis – Kapitel 3
+# 9\. Predigt zu Genesis – Kapitel 3: Christus entreißt die Völker feindlichen Mächten und soll auch die Feinde in unserer Seele besiegen
 
 Autor: Origenes
 

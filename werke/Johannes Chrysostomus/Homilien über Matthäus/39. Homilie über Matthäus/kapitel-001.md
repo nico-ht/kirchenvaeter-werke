@@ -1,4 +1,4 @@
-# 39\. Homilie über Matthäus – Kapitel 1
+# 39\. Homilie über Matthäus – Kapitel 1: Wie Jesus mit dem Hunger der Jünger und Davids Beispiel den Vorwurf des Sabbatbruchs entkräftet
 
 Autor: Johannes Chrysostomus
 

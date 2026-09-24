@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 12
+# 5\. Mystagogische Katechese – Kapitel 12: Gottes Name ist von Natur aus heilig und wird in uns durch unsere Heiligung und entsprechendes Handeln geheiligt
 
 Autor: Johannes II\. von Jerusalem
 

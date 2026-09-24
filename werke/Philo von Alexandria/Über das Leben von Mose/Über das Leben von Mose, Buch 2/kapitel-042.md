@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 42
+# Über das Leben von Mose, Buch 2 – Kapitel 42: Gott lässt das Passahopfer bei Verhinderung durch Trauer oder Reise im zweiten Monat nachholen
 
 Autor: Philo von Alexandria
 

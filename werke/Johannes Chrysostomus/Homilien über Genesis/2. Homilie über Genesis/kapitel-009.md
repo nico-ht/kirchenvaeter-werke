@@ -1,4 +1,4 @@
-# 2\. Homilie über Genesis – Kapitel 9
+# 2\. Homilie über Genesis – Kapitel 9: Mose legt die Grundlagen, Paulus und Johannes vertiefen die Unterweisung der Menschheit
 
 Autor: Johannes Chrysostomus
 

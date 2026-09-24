@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 18
+# Gegen Celsus, Buch 1 – Kapitel 18: Moses Schriften verbinden verständliche sittliche Lehre mit tieferem Sinn für die Weisen
 
 Autor: Origenes
 

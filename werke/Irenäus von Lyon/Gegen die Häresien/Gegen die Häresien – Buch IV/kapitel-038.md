@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 38
+# Gegen die Häresien – Buch IV – Kapitel 38: Gott führt den Menschen durch Wachstum zur Vollkommenheit, weil dieser sie anfangs noch nicht aufnehmen konnte
 
 Autor: Irenäus von Lyon
 

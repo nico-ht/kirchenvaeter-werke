@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 19
+# Diskurs über das Heil einer Jungfrau – Kapitel 19: Gott vergilt nach den Werken: Mühe um ihn führt zur Krone, Mühe um das Fleisch ins Verderben
 
 Autor: Athanasius
 

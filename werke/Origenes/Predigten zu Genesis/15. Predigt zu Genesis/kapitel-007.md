@@ -1,4 +1,4 @@
-# 15\. Predigt zu Genesis – Kapitel 7
+# 15\. Predigt zu Genesis – Kapitel 7: Christus, der wahre Josef, öffnet die vom fleischlichen Schriftverständnis verblendeten Augen für geistliche Einsicht
 
 Autor: Origenes
 

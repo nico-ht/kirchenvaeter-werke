@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 6
+# Diskurs über das Heil einer Jungfrau – Kapitel 6: Fasten gefällt Christus; Daniels Beispiel widerlegt die Furcht vor körperlicher Schwäche
 
 Autor: Athanasius
 

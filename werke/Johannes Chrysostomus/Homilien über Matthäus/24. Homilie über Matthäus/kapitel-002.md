@@ -1,4 +1,4 @@
-# 24\. Homilie über Matthäus – Kapitel 2
+# 24\. Homilie über Matthäus – Kapitel 2: Nicht Wundertaten, sondern ein Leben nach Christi Worten gibt Halt in den Stürmen des Lebens
 
 Autor: Johannes Chrysostomus
 

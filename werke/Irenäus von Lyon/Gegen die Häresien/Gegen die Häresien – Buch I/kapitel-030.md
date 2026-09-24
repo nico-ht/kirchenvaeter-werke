@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 30
+# Gegen die Häresien – Buch I – Kapitel 30: Die Lehre, nach der Sophia und Christus dem Schöpfer Ialdabaoth das göttliche Licht entziehen
 
 Autor: Irenäus von Lyon
 

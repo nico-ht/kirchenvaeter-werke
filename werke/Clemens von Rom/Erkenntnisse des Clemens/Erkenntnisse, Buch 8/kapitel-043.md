@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 43
+# Erkenntnisse, Buch 8 – Kapitel 43: Der Alte hält Flöhe und Mäuse für Gegenbeispiele zur vernünftigen Schöpfung
 
 Autor: Clemens von Rom
 

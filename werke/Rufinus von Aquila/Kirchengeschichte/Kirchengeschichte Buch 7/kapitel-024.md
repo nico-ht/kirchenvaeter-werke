@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 24
+# Kirchengeschichte Buch 7 – Kapitel 24: Dionysius hält die Offenbarung für göttlich eingegeben, aber nicht für ein Werk des Apostels Johannes
 
 Autor: Rufinus von Aquila
 

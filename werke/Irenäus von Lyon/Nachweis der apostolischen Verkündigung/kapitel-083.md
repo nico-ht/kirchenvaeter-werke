@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 83
+# Nachweis der apostolischen Verkündigung – Kapitel 83: David weissagt Christi Himmelfahrt und das Ende der Herrschaft der abgefallenen Engel
 
 Autor: Irenäus von Lyon
 

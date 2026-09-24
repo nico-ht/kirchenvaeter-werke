@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 39
+# Gegen die Häresien – Buch IV – Kapitel 39: Wer sich von Gott formen lässt, wird vollkommen; wer vor ihm flieht, beraubt sich selbst aller Güter
 
 Autor: Irenäus von Lyon
 

@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 55
+# 1\. Apologie – Kapitel 55: Das Kreuz fehlt in den dämonischen Mythen, doch seine Form durchzieht die Welt als Zeichen der Macht Christi
 
 Autor: Justin der Märtyrer
 

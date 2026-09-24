@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 16
+# Erkenntnisse, Buch 8 – Kapitel 16: Die Abhängigkeit der Elemente widerspricht ewiger Materie und Epikurs Atomen
 
 Autor: Clemens von Rom
 

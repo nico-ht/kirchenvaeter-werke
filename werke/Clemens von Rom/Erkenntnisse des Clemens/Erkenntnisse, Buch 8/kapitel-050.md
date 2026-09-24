@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 50
+# Erkenntnisse, Buch 8 – Kapitel 50: Nach der Flut überlässt Gott sündige Nationen Engeln, bis der Gute die Gerechten sammelt
 
 Autor: Clemens von Rom
 

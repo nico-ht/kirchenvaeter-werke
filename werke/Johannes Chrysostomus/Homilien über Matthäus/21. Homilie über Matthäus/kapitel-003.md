@@ -1,4 +1,4 @@
-# 21\. Homilie über Matthäus – Kapitel 3
+# 21\. Homilie über Matthäus – Kapitel 3: Menschen können die Sorglosigkeit der Vögel durch freie Entscheidung nachahmen
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 14
+# Barnabasbrief – Kapitel 14: Jesus errichtet den verlorenen Bund in den Herzen des erlösten Volkes
 
 Autor: Apostel Barnabas
 

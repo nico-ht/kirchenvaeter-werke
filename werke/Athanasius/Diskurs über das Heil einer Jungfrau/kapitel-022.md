@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 22
+# Diskurs über das Heil einer Jungfrau – Kapitel 22: Auch in stiller Enthaltsamkeit soll die Jungfrau Gottes Diener ehren und beim gemeinsamen Mahl Rücksicht üben
 
 Autor: Athanasius
 

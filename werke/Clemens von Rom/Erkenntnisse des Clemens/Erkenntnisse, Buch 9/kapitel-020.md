@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 20
+# Erkenntnisse, Buch 9 – Kapitel 20: Die Sitten der Völker widerlegen den Zwang der Sterne zum Guten oder Bösen
 
 Autor: Clemens von Rom
 

@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 45
+# 9\. Taufunterweisung  – Kapitel 45: Wer Gott für Kleinigkeiten als Zeugen anruft, verweigert ihm die Achtung, die er einem freien Mann erweist
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 9
+# Über die Einheit der Kirche – Kapitel 9: Die Kirche soll in der Eintracht der Taube leben; die Guten verlassen ihre Gemeinschaft nicht
 
 Autor: Cyprian von Karthago
 

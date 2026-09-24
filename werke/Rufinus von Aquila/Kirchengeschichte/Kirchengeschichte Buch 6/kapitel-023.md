@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 23
+# Kirchengeschichte Buch 6 – Kapitel 23: Ambrosius ermöglicht Origenes’ Bibelkommentare; dessen Presbyterweihe in Cäsarea löst Anfeindungen aus
 
 Autor: Rufinus von Aquila
 

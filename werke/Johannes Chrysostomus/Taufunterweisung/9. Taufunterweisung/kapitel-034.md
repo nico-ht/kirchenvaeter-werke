@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 34
+# 9\. Taufunterweisung  – Kapitel 34: Die Zunge als Schwert: Klage damit deine eigenen Sünden an, statt deinen Bruder zu verletzen
 
 Autor: Johannes Chrysostomus
 

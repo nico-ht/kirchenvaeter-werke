@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 8
+# Nachweis der apostolischen Verkündigung – Kapitel 8: Der Schöpfer aller ist Vater der Glaubenden und richtet jeden nach seinen Werken
 
 Autor: Irenäus von Lyon
 

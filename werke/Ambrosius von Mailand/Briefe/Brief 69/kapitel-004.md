@@ -1,4 +1,4 @@
-# Brief 69 – Kapitel 4
+# Brief 69 – Kapitel 4: Männer in Frauenkleidern verfälschen ihre Natur und verstoßen gegen Gottes Gesetz
 
 Autor: Ambrosius von Mailand
 

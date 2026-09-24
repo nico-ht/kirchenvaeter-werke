@@ -1,4 +1,4 @@
-# Apologie – Kapitel 1
+# Apologie – Kapitel 1: Unwissenheit entschuldigt den Hass auf Christen nicht, sondern erweist seine Ungerechtigkeit
 
 Autor: Tertullian
 

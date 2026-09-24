@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 13
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 13: Johannes’ Streben nach Alleinherrschaft spaltet die Stadt; Meuchelmörder nutzen die Wirren zu Raub und Mord
 
 Autor: Unbekannt
 

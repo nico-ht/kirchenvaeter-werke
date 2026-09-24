@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 6
+# 4\. Taufunterweisung – Kapitel 6: Dankbare Bewahrung der Taufgaben öffnet den Getauften für noch größere Gnade
 
 Autor: Johannes Chrysostomus
 

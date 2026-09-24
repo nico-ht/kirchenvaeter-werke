@@ -1,4 +1,4 @@
-# Psalm 2 – Kapitel 5
+# Psalm 2 – Kapitel 5: Christus besitzt das Königtum als Gott von Natur aus und empfängt es als Mensch
 
 Autor: Theodoret von Kyrrhos
 

@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 50
+# Gegen Celsus, Buch 2 – Kapitel 50: Heil und sittliche Besserung unterscheiden Christi Wunder von den trügerischen Zeichen der Antichristen
 
 Autor: Origenes
 

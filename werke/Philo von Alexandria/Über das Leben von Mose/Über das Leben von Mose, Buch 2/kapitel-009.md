@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 9
+# Über das Leben von Mose, Buch 2 – Kapitel 9: Der Gesetzgeber lädt zur Tugend ein und versteht seine Gesetze als Abbild der Weltordnung
 
 Autor: Philo von Alexandria
 

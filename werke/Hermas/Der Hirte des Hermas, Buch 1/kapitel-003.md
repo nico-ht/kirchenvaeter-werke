@@ -1,4 +1,4 @@
-# Der Hirte des Hermas, Buch 1 – Kapitel 3
+# Der Hirte des Hermas, Buch 1 – Kapitel 3: Solange der Turm der Kirche gebaut wird, bleibt Zeit zur Umkehr und zu Werken der Gerechtigkeit
 
 Autor: Hermas
 

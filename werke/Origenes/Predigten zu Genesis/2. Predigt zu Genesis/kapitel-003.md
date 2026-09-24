@@ -1,4 +1,4 @@
-# 2\. Predigt zu Genesis – Kapitel 3
+# 2\. Predigt zu Genesis – Kapitel 3: Christus rettet als wahrer Noah in der Arche der Kirche Menschen mit unterschiedlichem Glaubensfortschritt
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 25
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 25: Jerusalem lässt Simon gegen Johannes ein und erhält statt Rettung einen zweiten Tyrannen
 
 Autor: Unbekannt
 

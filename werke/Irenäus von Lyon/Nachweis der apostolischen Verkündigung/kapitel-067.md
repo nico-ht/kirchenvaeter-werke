@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 67
+# Nachweis der apostolischen Verkündigung – Kapitel 67: Jesaja schildert Christi künftige Heilungen als geschehen; ihre Erfüllung bezeugt seine Gottessohnschaft
 
 Autor: Irenäus von Lyon
 

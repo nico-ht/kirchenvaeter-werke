@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 31
+# Gegen die Häresien – Buch IV – Kapitel 31: Lots Töchter weisen auf die beiden Kirchen voraus, die durch Gottes Geist Kinder desselben Vaters gebären
 
 Autor: Irenäus von Lyon
 

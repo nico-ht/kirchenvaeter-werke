@@ -1,4 +1,4 @@
-# Brief von Aristeas – Kapitel 7
+# Brief von Aristeas – Kapitel 7: Der König ehrt das Gesetz und erhält von den Gesandten Rat zur Herrschaft nach Gottes Vorbild
 
 Autor: Unbekannt
 

@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 4
+# Diskurs über das Heil einer Jungfrau – Kapitel 4: Nicht weltliche Schlauheit macht weise vor Gott, sondern das Befolgen seiner Gebote
 
 Autor: Athanasius
 

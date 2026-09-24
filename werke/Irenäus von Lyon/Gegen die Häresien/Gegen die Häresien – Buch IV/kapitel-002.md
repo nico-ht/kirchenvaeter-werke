@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 2
+# Gegen die Häresien – Buch IV – Kapitel 2: Gesetz und Propheten bezeugen Christi Vater und führen zum Glauben an den Sohn
 
 Autor: Irenäus von Lyon
 

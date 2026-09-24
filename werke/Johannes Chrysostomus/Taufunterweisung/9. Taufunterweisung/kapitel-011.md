@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 11
+# 9\. Taufunterweisung  – Kapitel 11: Die Erklärung der Taufe und ihrer Gaben hat Vorrang vor der Deutung von Taufzeit und Kleidung
 
 Autor: Johannes Chrysostomus
 

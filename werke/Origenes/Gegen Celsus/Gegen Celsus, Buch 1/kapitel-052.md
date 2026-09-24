@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 52
+# Gegen Celsus, Buch 1 – Kapitel 52: Die Bindung an überlieferte Ansichten ließ viele Juden die klaren Zeugnisse für Jesus missachten
 
 Autor: Origenes
 

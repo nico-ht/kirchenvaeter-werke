@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 17
+# Gegen Celsus, Buch 2 – Kapitel 17: Dass Jesus dem vorausgesehenen Tod nicht auswich, widerspricht nicht der Vernunft
 
 Autor: Origenes
 

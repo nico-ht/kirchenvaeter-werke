@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 12
+# Erkenntnisse, Buch 8 – Kapitel 12: Das festgelegte Schicksal entwertet Gebet und Tugend; Gott bereitet die ewige Welt
 
 Autor: Clemens von Rom
 

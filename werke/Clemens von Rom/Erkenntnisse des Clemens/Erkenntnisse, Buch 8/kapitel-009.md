@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 9
+# Erkenntnisse, Buch 8 – Kapitel 9: Aus dem Zusammengesetzten erschließt Niceta einen einzigen ewigen Schöpfer
 
 Autor: Clemens von Rom
 

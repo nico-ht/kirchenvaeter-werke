@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 44
+# Nachweis der apostolischen Verkündigung – Kapitel 44: Der Herr, der mit Abraham spricht, ist Gottes Sohn und richtet Sodom mit der Vollmacht des Vaters
 
 Autor: Irenäus von Lyon
 

@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 20
+# Über die Einheit der Kirche – Kapitel 20: Auch Bekenner können ihre Krone verlieren, wenn sie Gottes Wege verlassen
 
 Autor: Cyprian von Karthago
 

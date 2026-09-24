@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 10
+# Barnabasbrief – Kapitel 10: Die Speisegebote lehren, böse Lebensweisen zu meiden und sich an Gottesfürchtige zu halten
 
 Autor: Apostel Barnabas
 

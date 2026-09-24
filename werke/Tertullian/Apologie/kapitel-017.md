@@ -1,4 +1,4 @@
-# Apologie – Kapitel 17
+# Apologie – Kapitel 17: Schöpfung und Seele bezeugen den einen Gott, der sich menschlichem Begreifen entzieht
 
 Autor: Tertullian
 

@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 4
+# Ansprache an die Griechen – Kapitel 4: Menschen gebührt Achtung, göttliche Verehrung allein dem Schöpfer und nicht seinen Werken
 
 Autor: Tatian
 

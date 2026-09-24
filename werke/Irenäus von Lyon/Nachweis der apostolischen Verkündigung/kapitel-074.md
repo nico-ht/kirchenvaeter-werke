@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 74
+# Nachweis der apostolischen Verkündigung – Kapitel 74: Davids Weissagung erfüllt sich in Christi Verurteilung durch Herodes und Pilatus
 
 Autor: Irenäus von Lyon
 

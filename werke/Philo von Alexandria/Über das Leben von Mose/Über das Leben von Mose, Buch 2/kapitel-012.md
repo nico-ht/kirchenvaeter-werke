@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 12
+# Über das Leben von Mose, Buch 2 – Kapitel 12: Noah wird für seine Tüchtigkeit gerettet und zum Begründer eines neuen Menschengeschlechts
 
 Autor: Philo von Alexandria
 

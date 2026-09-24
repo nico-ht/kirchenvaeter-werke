@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 17
+# Erkenntnisse, Buch 9 – Kapitel 17: Wie ungünstige Sternstellungen Verbrechen und die Umkehr der Geschlechterrollen bewirken
 
 Autor: Clemens von Rom
 

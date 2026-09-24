@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 5
+# Erkenntnisse, Buch 9 – Kapitel 5: Ungleichheit ist notwendig, weil das menschliche Leben verschiedene Berufe und Stände braucht
 
 Autor: Clemens von Rom
 

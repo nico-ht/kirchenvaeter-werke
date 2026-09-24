@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 99
+# Nachweis der apostolischen Verkündigung – Kapitel 99: Der Glaube bekennt den Vater als Schöpfer, die Menschwerdung des Sohnes und die Gaben des Geistes
 
 Autor: Irenäus von Lyon
 

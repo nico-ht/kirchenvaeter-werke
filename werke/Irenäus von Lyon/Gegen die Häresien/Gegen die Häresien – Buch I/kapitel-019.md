@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 19
+# Gegen die Häresien – Buch I – Kapitel 19: Verdrehte Schriftworte sollen einen anderen Vater als den unsichtbaren Schöpfer belegen
 
 Autor: Irenäus von Lyon
 

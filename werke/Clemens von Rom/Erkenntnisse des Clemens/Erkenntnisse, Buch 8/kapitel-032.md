@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 32
+# Erkenntnisse, Buch 8 – Kapitel 32: Die Geschlechter unterscheiden sich dort, wo Fortpflanzung und Ernährung es verlangen
 
 Autor: Clemens von Rom
 

@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 14
+# Über das Leben von Mose, Buch 2 – Kapitel 14: Himmlische Betrachtungen nähren beim vierzigtägigen Fasten Seele und Körper und lassen das Antlitz strahlen
 
 Autor: Philo von Alexandria
 

@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 9
+# 9\. Taufunterweisung  – Kapitel 9: Was nützt die Taufe, wenn der bewusstlose Sterbende die Antworten zum Bund mit dem Herrn nicht geben kann?
 
 Autor: Johannes Chrysostomus
 

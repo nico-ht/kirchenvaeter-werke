@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 13
+# Gegen die Häresien – Buch IV – Kapitel 13: Christus erweitert die natürlichen Gebote: Freiheit fordert mehr Gehorsam und Liebe als Knechtschaft
 
 Autor: Irenäus von Lyon
 

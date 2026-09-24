@@ -1,4 +1,4 @@
-# 3\. Mystagogische Katechese – Kapitel 2
+# 3\. Mystagogische Katechese – Kapitel 2: Die Salbung gibt Anteil an Christi Geistessalbung, wie die Taufe im Bild mit ihm sterben und auferstehen lässt
 
 Autor: Johannes II\. von Jerusalem
 

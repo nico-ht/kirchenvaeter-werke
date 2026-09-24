@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 60
+# Erkenntnisse, Buch 8 – Kapitel 60: Prüft prophetische Worte an ihrer Zukunftskenntnis und inneren Ordnung
 
 Autor: Clemens von Rom
 

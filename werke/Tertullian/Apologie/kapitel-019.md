@@ -1,4 +1,4 @@
-# Apologie – Kapitel 19
+# Apologie – Kapitel 19: Die Autorität der Prophetenschriften beruht auf ihrem Alter, mehr noch auf erfüllten Weissagungen
 
 Autor: Tertullian
 

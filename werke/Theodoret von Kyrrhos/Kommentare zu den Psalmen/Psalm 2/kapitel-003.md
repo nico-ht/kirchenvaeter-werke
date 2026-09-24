@@ -1,4 +1,4 @@
-# Psalm 2 – Kapitel 3
+# Psalm 2 – Kapitel 3: Christi süßes Joch statt des Gesetzesjochs: Die Bilder des Gesetzes haben nur als Hinweise auf Christus Wert
 
 Autor: Theodoret von Kyrrhos
 

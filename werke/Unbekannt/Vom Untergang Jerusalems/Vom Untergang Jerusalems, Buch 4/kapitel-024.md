@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 24
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 24: Othon unterliegt Vitellius’ Feldherren und nimmt sich das Leben; das vereinte Heer zieht nach Rom
 
 Autor: Unbekannt
 

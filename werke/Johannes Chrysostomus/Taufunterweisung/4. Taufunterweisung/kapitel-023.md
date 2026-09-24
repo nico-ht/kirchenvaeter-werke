@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 23
+# 4\. Taufunterweisung – Kapitel 23: Vor jedem Wort ist sein Nutzen zu prüfen, denn über müßige Rede folgt Rechenschaft
 
 Autor: Johannes Chrysostomus
 

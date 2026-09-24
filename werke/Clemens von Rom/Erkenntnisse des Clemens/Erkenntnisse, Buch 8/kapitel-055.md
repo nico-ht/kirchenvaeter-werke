@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 55
+# Erkenntnisse, Buch 8 – Kapitel 55: Dämonen herrschen nur über Menschen, die sich ihnen durch Sünde unterwerfen
 
 Autor: Clemens von Rom
 

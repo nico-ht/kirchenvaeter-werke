@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 10
+# 11\. Taufunterweisung – Kapitel 10: Die makellose Braut heißt heilig und treu: Das bezeugt Paulus’ Gruß an die Epheser
 
 Autor: Johannes Chrysostomus
 

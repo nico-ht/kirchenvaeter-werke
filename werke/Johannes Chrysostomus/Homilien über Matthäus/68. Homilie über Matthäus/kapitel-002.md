@@ -1,4 +1,4 @@
-# 68\. Homilie über Matthäus – Kapitel 2
+# 68\. Homilie über Matthäus – Kapitel 2: Im Winzergleichnis verurteilen sich die Führer selbst, und die Prophetie bestätigt ihr Urteil
 
 Autor: Johannes Chrysostomus
 

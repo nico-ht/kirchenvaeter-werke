@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 25
+# 9\. Taufunterweisung  – Kapitel 25: Jeremias’ zerbrochenes Terrakottagefäß steht für die unwiderrufliche Zerstörung der Stadt
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# 28\. Homilie über Matthäus – Kapitel 5
+# 28\. Homilie über Matthäus – Kapitel 5: Geldgier schadet dem eigenen Gewinn: Diese Einsicht eröffnet den Weg zur Heilung
 
 Autor: Johannes Chrysostomus
 

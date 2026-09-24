@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 27
+# 3\. Taufunterweisung  – Kapitel 27: Mit reinem Herzen und gutem Gewissen vor Gott treten, um Gnade und Hilfe in der Not zu empfangen
 
 Autor: Johannes Chrysostomus
 

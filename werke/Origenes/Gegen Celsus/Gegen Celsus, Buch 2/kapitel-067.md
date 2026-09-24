@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 67
+# Gegen Celsus, Buch 2 – Kapitel 67: Jesus bleibt seinen Peinigern nicht aus Furcht verborgen, sondern um sie vor seinem göttlichen Anblick zu schonen
 
 Autor: Origenes
 

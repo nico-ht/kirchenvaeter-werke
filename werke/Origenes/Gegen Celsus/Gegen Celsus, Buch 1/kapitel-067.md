@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 67
+# Gegen Celsus, Buch 1 – Kapitel 67: Jesu fortdauerndes Wirken ist weltweit bezeugt und übertrifft die Taten der griechischen Göttersöhne
 
 Autor: Origenes
 

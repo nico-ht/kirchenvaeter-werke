@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 55
+# Gegen Celsus, Buch 2 – Kapitel 55: Wer Mose gegen Vergleiche mit heidnischen Mythen verteidigt, hilft damit, Jesu größere Göttlichkeit zu erweisen
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# 54\. Homilie über Matthäus – Kapitel 3
+# 54\. Homilie über Matthäus – Kapitel 3: Warum die Jünger Jesus erst nach Kreuz und Auferstehung als Christus verkündigen sollen
 
 Autor: Johannes Chrysostomus
 

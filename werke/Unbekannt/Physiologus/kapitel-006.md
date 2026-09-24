@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 6
+# Physiologus – Kapitel 6: Der Pelikan erweckt seine Jungen mit eigenem Blut: Christus schenkt durch Blut und Wasser aus seiner Seite ewiges Leben
 
 Autor: Unbekannt
 

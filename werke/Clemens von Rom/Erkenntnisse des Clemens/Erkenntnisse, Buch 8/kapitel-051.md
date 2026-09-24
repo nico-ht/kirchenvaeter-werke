@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 51
+# Erkenntnisse, Buch 8 – Kapitel 51: Der Missbrauch des freien Willens bringt Sünde und Unordnung in die Schöpfung
 
 Autor: Clemens von Rom
 

@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 12
+# Barnabasbrief – Kapitel 12: Moses Zeichen weisen auf das Kreuz und die rettende Macht des Gottessohnes hin
 
 Autor: Apostel Barnabas
 

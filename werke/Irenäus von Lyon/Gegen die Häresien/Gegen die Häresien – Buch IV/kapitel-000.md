@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Einleitung
+# Gegen die Häresien – Buch IV – Einleitung: Alle Häresien lästern den Schöpfer und leugnen die Rettung des Fleisches
 
 Autor: Irenäus von Lyon
 

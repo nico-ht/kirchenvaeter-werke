@@ -1,4 +1,4 @@
-# Apologie – Kapitel 7
+# Apologie – Kapitel 7: Für die angeblichen Ritualverbrechen der Christen gibt es bis heute nur Gerüchte, keine Beweise
 
 Autor: Tertullian
 

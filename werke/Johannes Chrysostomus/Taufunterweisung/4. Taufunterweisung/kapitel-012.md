@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 12
+# 4\. Taufunterweisung – Kapitel 12: Die neue Schöpfung ist der Mensch, den Christus vom Irrtum zur Tugend führt
 
 Autor: Johannes Chrysostomus
 

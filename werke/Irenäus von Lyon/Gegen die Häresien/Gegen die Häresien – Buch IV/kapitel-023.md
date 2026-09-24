@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 23
+# Gegen die Häresien – Buch IV – Kapitel 23: Die Apostel ernten, was Patriarchen und Propheten durch die Ankündigung Christi gesät haben
 
 Autor: Irenäus von Lyon
 

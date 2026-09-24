@@ -1,4 +1,4 @@
-# Brief an die Trallianer – Kapitel 9
+# Brief an die Trallianer – Kapitel 9: Christus wurde wirklich geboren, starb und wurde auferweckt – in ihm wird der Vater auch die Glaubenden auferwecken
 
 Autor: Ignatius von Antiochien
 

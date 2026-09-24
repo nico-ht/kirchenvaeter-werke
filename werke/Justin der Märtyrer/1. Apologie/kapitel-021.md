@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 21
+# 1\. Apologie – Kapitel 21: Christi Erhöhung hat Parallelen bei Jupiters Söhnen, doch Vergöttlichung setzt Heiligkeit und Tugend voraus
 
 Autor: Justin der Märtyrer
 

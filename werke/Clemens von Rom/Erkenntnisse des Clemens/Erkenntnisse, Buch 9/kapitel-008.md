@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 8
+# Erkenntnisse, Buch 9 – Kapitel 8: Gott lässt feindliche Mächte zu, damit die Gerechten im Kampf Sieg und Lohn erringen
 
 Autor: Clemens von Rom
 

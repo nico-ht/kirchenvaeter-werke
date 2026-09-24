@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 36
+# Ansprache an die Griechen – Kapitel 36: Berosus’ Geschichtswerk eröffnet den Nachweis, dass Mose lange vor Trojas Gründung lebte
 
 Autor: Tatian
 

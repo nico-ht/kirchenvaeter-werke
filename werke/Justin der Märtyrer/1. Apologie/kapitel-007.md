@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 7
+# 1\. Apologie – Kapitel 7: Verurteilungen einzelner Christen ersetzen nicht die Prüfung der Taten jedes Angeklagten
 
 Autor: Justin der Märtyrer
 

@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 38
+# Gegen Celsus, Buch 2 – Kapitel 38: Jesu erstes Kommen diente der Unterweisung aller Menschen zu ihrem Wohl, nicht dem Gericht über sie
 
 Autor: Origenes
 

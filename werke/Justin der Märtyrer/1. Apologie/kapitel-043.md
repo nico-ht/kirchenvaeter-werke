@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 43
+# 1\. Apologie – Kapitel 43: Prophetische Vorhersage bedeutet keinen Schicksalszwang: Lohn und Strafe setzen freie Wahl voraus
 
 Autor: Justin der Märtyrer
 

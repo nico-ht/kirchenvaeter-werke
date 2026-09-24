@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 32
+# Kirchengeschichte Buch 6 – Kapitel 32: Die Lebensbeschreibung des Pamphilus bietet das Verzeichnis der überlieferten Schriften des Origenes
 
 Autor: Rufinus von Aquila
 

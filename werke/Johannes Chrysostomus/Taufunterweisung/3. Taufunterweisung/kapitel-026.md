@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 26
+# 3\. Taufunterweisung  – Kapitel 26: Der andere Mose bringt die Speise des ewigen Lebens herab und lässt die Quellen des Geistes fließen
 
 Autor: Johannes Chrysostomus
 

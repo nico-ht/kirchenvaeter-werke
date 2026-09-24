@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 25
+# Über das Leben von Mose, Buch 2 – Kapitel 25: Das Logeion verbindet wahres Denken und klare Rede untrennbar mit entsprechendem Handeln
 
 Autor: Philo von Alexandria
 

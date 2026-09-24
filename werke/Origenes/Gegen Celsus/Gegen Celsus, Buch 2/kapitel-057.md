@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 57
+# Gegen Celsus, Buch 2 – Kapitel 57: Wer Elijas und Elischas Totenerweckungen glaubt, kann Jesu leibliche Auferstehung nicht für unmöglich halten
 
 Autor: Origenes
 

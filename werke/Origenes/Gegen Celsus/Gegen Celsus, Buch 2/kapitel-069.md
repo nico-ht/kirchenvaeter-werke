@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 69
+# Gegen Celsus, Buch 2 – Kapitel 69: Warum Jesu Kreuzestod und Begräbnis im Heilsplan mehr sind als bloße äußere Ereignisse
 
 Autor: Origenes
 

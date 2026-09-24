@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 77
+# Gegen Celsus, Buch 2 – Kapitel 77: Jesus ist das Urbild der erhofften Auferstehung, auch wenn er sich nicht unablässig zeigt
 
 Autor: Origenes
 

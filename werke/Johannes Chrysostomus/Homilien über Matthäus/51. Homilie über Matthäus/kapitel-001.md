@@ -1,4 +1,4 @@
-# 51\. Homilie über Matthäus – Kapitel 1
+# 51\. Homilie über Matthäus – Kapitel 1: Christus kehrt die Anklage um: Die Überlieferung der Pharisäer setzt Gottes Gebot außer Kraft
 
 Autor: Johannes Chrysostomus
 

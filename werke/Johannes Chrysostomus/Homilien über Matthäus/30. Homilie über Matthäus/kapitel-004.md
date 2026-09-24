@@ -1,4 +1,4 @@
-# 30\. Homilie über Matthäus – Kapitel 4
+# 30\. Homilie über Matthäus – Kapitel 4: Christus lehrt Geduld mit den Schwachen, weil verfrühte Strenge ihre spätere Unterweisung gefährdet
 
 Autor: Johannes Chrysostomus
 

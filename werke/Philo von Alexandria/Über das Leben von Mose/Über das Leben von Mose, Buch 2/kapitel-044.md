@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 44
+# Über das Leben von Mose, Buch 2 – Kapitel 44: Das Erbgesetz ordnet die Erben nach Verwandtschaft und deutet das Recht der Eltern aus Rücksicht auf ihre Trauer nur an
 
 Autor: Philo von Alexandria
 

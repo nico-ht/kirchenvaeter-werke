@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 52
+# Gegen Celsus, Buch 2 – Kapitel 52: Die neue Ordnung des Evangeliums erweist Jesu Wunder als göttlich und sein Werk als dem des Mose überlegen
 
 Autor: Origenes
 

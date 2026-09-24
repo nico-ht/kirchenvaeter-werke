@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 29
+# Gegen Celsus, Buch 2 – Kapitel 29: Jesus ist keine „Seuche“, denn er führt Menschen vom Bösen zu einem tugendhaften Leben
 
 Autor: Origenes
 

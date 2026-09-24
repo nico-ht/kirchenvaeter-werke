@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 39
+# Gegen Celsus, Buch 1 – Kapitel 39: Celsus’ Spott über Jesu Mutter ist bloße Beschimpfung und verdient keine ernsthafte Erwiderung
 
 Autor: Origenes
 

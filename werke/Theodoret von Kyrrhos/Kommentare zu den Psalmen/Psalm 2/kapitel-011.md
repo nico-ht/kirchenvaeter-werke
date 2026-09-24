@@ -1,4 +1,4 @@
-# Psalm 2 – Kapitel 11
+# Psalm 2 – Kapitel 11: Gotteserkenntnis allein genügt nicht: Gelebte Tugend und Gottvertrauen führen zur Seligkeit im Gericht
 
 Autor: Theodoret von Kyrrhos
 

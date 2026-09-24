@@ -1,4 +1,4 @@
-# 71\. Homilie über Matthäus – Kapitel 3
+# 71\. Homilie über Matthäus – Kapitel 3: Ruhmsucht verdirbt die Barmherzigkeit und raubt ihr den himmlischen Lohn
 
 Autor: Johannes Chrysostomus
 

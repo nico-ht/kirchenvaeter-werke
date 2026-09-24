@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 1
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 1: Einstürzende Häuser zwingen die siegreichen Römer in Gamala zum Rückzug
 
 Autor: Unbekannt
 

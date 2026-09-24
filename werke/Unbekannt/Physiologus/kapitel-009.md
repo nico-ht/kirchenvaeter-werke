@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 9
+# Physiologus – Kapitel 9: Die Selbsterweckung des Phönix belegt Christi Macht, sein Leben hinzugeben und wieder an sich zu nehmen
 
 Autor: Unbekannt
 

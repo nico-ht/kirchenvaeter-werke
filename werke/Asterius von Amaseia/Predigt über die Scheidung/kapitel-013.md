@@ -1,4 +1,4 @@
-# Predigt über die Scheidung – Kapitel 13
+# Predigt über die Scheidung – Kapitel 13: Gottes Gebot der Keuschheit bindet auch Männer – weltliche Erlaubnis schützt nicht vor Gottes Gericht
 
 Autor: Asterius von Amaseia
 

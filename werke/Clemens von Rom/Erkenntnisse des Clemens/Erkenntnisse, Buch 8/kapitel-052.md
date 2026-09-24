@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 52
+# Erkenntnisse, Buch 8 – Kapitel 52: Gott ordnet gegensätzliche Herrschaften, nachdem der menschliche Wille zum Bösen abwich
 
 Autor: Clemens von Rom
 

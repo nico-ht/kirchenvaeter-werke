@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 15
+# Gegen die Häresien – Buch I – Kapitel 15: Marcus’ Buchstaben\- und Zahlenlehre widerspricht seiner Rede vom unteilbaren, körperlosen Gott
 
 Autor: Irenäus von Lyon
 

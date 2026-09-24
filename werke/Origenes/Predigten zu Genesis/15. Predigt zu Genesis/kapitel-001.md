@@ -1,4 +1,4 @@
-# 15\. Predigt zu Genesis – Kapitel 1
+# 15\. Predigt zu Genesis – Kapitel 1: Hinauf\- und Hinabgehen bezeichnen in der Schrift nicht bloß Ortswechsel, sondern geistliche Zustände
 
 Autor: Origenes
 

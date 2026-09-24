@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 81
+# Nachweis der apostolischen Verkündigung – Kapitel 81: Judas’ Verrat und der Kauf des Töpferackers erfüllen Jeremias Weissagung
 
 Autor: Irenäus von Lyon
 

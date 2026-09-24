@@ -1,4 +1,4 @@
-# 15\. Homilie über Matthäus – Kapitel 2
+# 15\. Homilie über Matthäus – Kapitel 2: Warum Christus zuerst die Demut seligpreist: Sie heilt den Hochmut und trägt alle Tugenden
 
 Autor: Johannes Chrysostomus
 

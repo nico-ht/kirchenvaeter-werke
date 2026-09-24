@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Einleitung
+# Gegen Celsus, Buch 1 – Einleitung: Das Leben wahrer Christen widerlegt Celsus; die schriftliche Antwort gilt Glaubensschwachen und Außenstehenden
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 1
+# Erkenntnisse, Buch 8 – Kapitel 1: Der Alte erbittet ein offenes Gespräch über Wahrheit und vermeintlichen Irrtum
 
 Autor: Clemens von Rom
 

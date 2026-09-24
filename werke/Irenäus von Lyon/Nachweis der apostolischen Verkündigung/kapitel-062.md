@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 62
+# Nachweis der apostolischen Verkündigung – Kapitel 62: Das wiederaufgerichtete Zelt Davids verheißt die Auferstehung Christi, des Sohnes Davids und Gottes
 
 Autor: Irenäus von Lyon
 

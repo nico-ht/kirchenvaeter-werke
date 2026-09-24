@@ -1,4 +1,4 @@
-# 4\. Homilie über Matthäus – Kapitel 1
+# 4\. Homilie über Matthäus – Kapitel 1: Matthäus’ Stammbaum zeigt die Notwendigkeit von Christi Kommen; Wunder beglaubigen die Verkündigung
 
 Autor: Johannes Chrysostomus
 

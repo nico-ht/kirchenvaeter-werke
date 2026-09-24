@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 7
+# Über die Unklarheit der Prophezeiungen – Kapitel 7: Das Gesetz weist auf Christus, indem es seine Aufhebung in ihm vorzeichnet
 
 Autor: Johannes Chrysostomus
 

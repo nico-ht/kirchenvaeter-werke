@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 19
+# Über das Leben von Mose, Buch 2 – Kapitel 19: Der Säulenhof umgibt die Stiftshütte, der Opferaltar steht im Freien vor ihrem Eingang
 
 Autor: Philo von Alexandria
 

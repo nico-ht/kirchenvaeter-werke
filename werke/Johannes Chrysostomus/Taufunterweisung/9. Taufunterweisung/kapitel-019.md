@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 19
+# 9\. Taufunterweisung  – Kapitel 19: Im Taufbad tilgt der Heilige Geist alles Böse und schenkt Rechtfertigung ohne Mühe oder gute Werke
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Brief 69 – Kapitel 3
+# Brief 69 – Kapitel 3: Wie die Tiere sollen auch wir die natürliche Gestalt unseres Geschlechts bewahren
 
 Autor: Ambrosius von Mailand
 

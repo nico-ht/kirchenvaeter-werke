@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 6
+# Über die Einheit der Kirche – Kapitel 6: Wer die Einheit der Kirche bricht, verliert die Gemeinschaft mit Gott und das Heil
 
 Autor: Cyprian von Karthago
 

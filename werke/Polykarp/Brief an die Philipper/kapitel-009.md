@@ -1,4 +1,4 @@
-# Brief an die Philipper – Kapitel 9
+# Brief an die Philipper – Kapitel 9: Christus trug unsere Sünden und zeigt durch sein Leiden, wie Christen ausharren sollen
 
 Autor: Polykarp
 

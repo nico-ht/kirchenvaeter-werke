@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 3
+# Über die Einheit der Kirche – Kapitel 3: Durch Häresien und Spaltungen führt der Widersacher unter christlichem Namen erneut in die Finsternis
 
 Autor: Cyprian von Karthago
 

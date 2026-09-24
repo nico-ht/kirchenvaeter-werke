@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 27
+# 4\. Taufunterweisung – Kapitel 27: Wer die Früchte des Geistes trägt, steht nicht mehr unter dem Gesetz
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Der Erzieher: Buch 1 – Kapitel 11
+# Der Erzieher: Buch 1 – Kapitel 11: Wie das Wort durch das Gesetz auf Christus vorbereitet, den vertrauenswürdigen göttlichen Lehrer
 
 Autor: Clemens von Alexandria
 

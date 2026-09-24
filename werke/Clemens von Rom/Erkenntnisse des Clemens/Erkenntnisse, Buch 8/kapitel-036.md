@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 36
+# Erkenntnisse, Buch 8 – Kapitel 36: Petrus verlegt die Fortsetzung der Debatte in das Haus eines gastfreundlichen Zuhörers
 
 Autor: Clemens von Rom
 

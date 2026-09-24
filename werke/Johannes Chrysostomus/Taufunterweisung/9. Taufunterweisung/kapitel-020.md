@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 20
+# 9\. Taufunterweisung  – Kapitel 20: Warum die Taufe „Bad der Wiedergeburt“ heißt: Sie vergibt nicht nur Sünden, sondern erschafft uns aus Wasser neu
 
 Autor: Johannes Chrysostomus
 

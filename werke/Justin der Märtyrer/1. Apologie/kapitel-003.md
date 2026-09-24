@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 3
+# 1\. Apologie – Kapitel 3: Christen schulden Rechenschaft über Leben und Lehre, Herrscher ein gerechtes Urteil
 
 Autor: Justin der Märtyrer
 

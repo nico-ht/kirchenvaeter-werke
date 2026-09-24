@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 16
+# Kirchengeschichte Buch 7 – Kapitel 16: Warum Christen Christus und die Apostel nach heidnischem Brauch durch Bilder ehren
 
 Autor: Rufinus von Aquila
 

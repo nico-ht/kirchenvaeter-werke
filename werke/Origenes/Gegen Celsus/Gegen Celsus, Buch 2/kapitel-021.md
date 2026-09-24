@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 21
+# Gegen Celsus, Buch 2 – Kapitel 21: Die Geschichte widerlegt Celsus’ Behauptung, Tischgemeinschaft schließe Verrat aus
 
 Autor: Origenes
 

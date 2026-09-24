@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 25
+# Diskurs über das Heil einer Jungfrau – Kapitel 25: Gott möge der Jungfrau helfen, die Weisungen zu bewahren und so die unvergängliche Krone zu empfangen
 
 Autor: Athanasius
 

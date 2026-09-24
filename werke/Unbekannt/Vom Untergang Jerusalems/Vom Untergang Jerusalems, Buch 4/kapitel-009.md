@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 9
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 9: Die Aufrührer öffnen im Unwetter den Idumäern die Tore und entfesseln mit ihnen ein wahlloses Morden
 
 Autor: Unbekannt
 

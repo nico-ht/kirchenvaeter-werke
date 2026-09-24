@@ -1,4 +1,4 @@
-# Brief an die Philipper – Kapitel 2
+# Brief an die Philipper – Kapitel 2: Der beständige Glaube der Philipper trägt Frucht, und ihre Liebe zeigt sich an den Gefangenen
 
 Autor: Polykarp
 

@@ -1,4 +1,4 @@
-# 4\. Mystagogische Katechese – Kapitel 7
+# 4\. Mystagogische Katechese – Kapitel 7: Davids Psalm bezeugt den Tisch des Herrn, der Gemeinschaft mit Gott statt mit Dämonen stiftet
 
 Autor: Johannes II\. von Jerusalem
 

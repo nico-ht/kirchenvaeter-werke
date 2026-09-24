@@ -1,4 +1,4 @@
-# 15\. Homilie über Matthäus – Kapitel 5
+# 15\. Homilie über Matthäus – Kapitel 5: Wer um Christi willen zu Unrecht geschmäht wird, findet Trost im Himmelslohn und im Los der Propheten
 
 Autor: Johannes Chrysostomus
 

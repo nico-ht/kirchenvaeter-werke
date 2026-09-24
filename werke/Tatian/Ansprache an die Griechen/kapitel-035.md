@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 35
+# Ansprache an die Griechen – Kapitel 35: Tatian urteilt aus eigener Anschauung und verteidigt sein Recht, die Griechen zu belehren
 
 Autor: Tatian
 

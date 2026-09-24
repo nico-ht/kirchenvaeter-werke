@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 20
+# 3\. Taufunterweisung  – Kapitel 20: Alle Getauften sollen ihren Bund halten: Gottes Herrschaft bekennen und die des Teufels zurückweisen
 
 Autor: Johannes Chrysostomus
 

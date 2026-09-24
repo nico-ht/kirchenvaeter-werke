@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 18
+# Nachweis der apostolischen Verkündigung – Kapitel 18: Die Lehren der Engel verbreiten das Böse unter den Menschen und schwächen die Gerechtigkeit
 
 Autor: Irenäus von Lyon
 

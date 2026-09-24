@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 1
+# Gegen Celsus, Buch 2 – Kapitel 1: Celsus verkennt, dass die zu Christus bekehrten Juden das Gesetz ihrer Väter weiterhin befolgen
 
 Autor: Origenes
 

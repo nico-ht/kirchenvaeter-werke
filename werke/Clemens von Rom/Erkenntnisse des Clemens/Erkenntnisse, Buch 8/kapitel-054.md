@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 54
+# Erkenntnisse, Buch 8 – Kapitel 54: Wie ein Bildhauer aus Unform Gestalt schafft, kann Vorsehung scheinbare Unordnung lenken
 
 Autor: Clemens von Rom
 

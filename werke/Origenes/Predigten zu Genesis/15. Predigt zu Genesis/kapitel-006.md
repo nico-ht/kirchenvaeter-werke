@@ -1,4 +1,4 @@
-# 15\. Predigt zu Genesis – Kapitel 6
+# 15\. Predigt zu Genesis – Kapitel 6: Der Heilige wächst im Kampf an Tugenden und wird nach vollendetem Lauf zum ewigen Leben gerufen
 
 Autor: Origenes
 

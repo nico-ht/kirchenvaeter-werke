@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 4
+# Gegen die Häresien – Buch IV – Kapitel 4: Jerusalem wird verlassen, weil seine Aufgabe mit der Ausbreitung der Frucht der Freiheit erfüllt ist
 
 Autor: Irenäus von Lyon
 

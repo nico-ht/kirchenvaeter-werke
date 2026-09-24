@@ -1,4 +1,4 @@
-# 28\. Homilie über Matthäus – Kapitel 2
+# 28\. Homilie über Matthäus – Kapitel 2: Die Dämonen bezeugen Christi Gottheit und fürchten die Strafe vor der festgesetzten Zeit
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 4
+# 9\. Taufunterweisung  – Kapitel 4: Wer die Taufe nicht bis zum Sterben aufschiebt, zeigt seinen Eifer, dem Herrn zu dienen
 
 Autor: Johannes Chrysostomus
 

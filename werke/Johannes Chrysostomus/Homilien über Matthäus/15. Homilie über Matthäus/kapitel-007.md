@@ -1,4 +1,4 @@
-# 15\. Homilie über Matthäus – Kapitel 7
+# 15\. Homilie über Matthäus – Kapitel 7: Als Salz und Licht der Welt sollen die Jünger furchtlos lehren und durch gute Werke Gott verherrlichen
 
 Autor: Johannes Chrysostomus
 

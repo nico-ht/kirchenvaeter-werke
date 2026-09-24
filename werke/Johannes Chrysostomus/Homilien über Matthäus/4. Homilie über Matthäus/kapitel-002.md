@@ -1,4 +1,4 @@
-# 4\. Homilie über Matthäus – Kapitel 2
+# 4\. Homilie über Matthäus – Kapitel 2: Wie der Stammbaum Jesus als den verheißenen Christus ausweist und auf die Jungfrauengeburt vorbereitet
 
 Autor: Johannes Chrysostomus
 

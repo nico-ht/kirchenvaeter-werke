@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 22
+# 4\. Taufunterweisung – Kapitel 22: Das neue Gewand der Gnade soll so hell bleiben, dass der Dämon ihm weicht
 
 Autor: Johannes Chrysostomus
 

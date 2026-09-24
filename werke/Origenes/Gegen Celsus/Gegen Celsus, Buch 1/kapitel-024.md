@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 24
+# Gegen Celsus, Buch 1 – Kapitel 24: Warum Gottesnamen nicht austauschbar sind: Sabaoth und Adonai gehören allein dem Schöpfer
 
 Autor: Origenes
 

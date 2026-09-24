@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 10
+# Nachweis der apostolischen Verkündigung – Kapitel 10: Gott schafft die Welt durch sein Wort, ordnet sie und wird von Wort, Geist und Himmelswesen verherrlicht
 
 Autor: Irenäus von Lyon
 

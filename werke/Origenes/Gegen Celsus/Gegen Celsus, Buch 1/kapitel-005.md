@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 5
+# Gegen Celsus, Buch 1 – Kapitel 5: Die Kritik an menschengemachten Göttern beruht auf einer allen Menschen von Gott eingeprägten Einsicht
 
 Autor: Origenes
 

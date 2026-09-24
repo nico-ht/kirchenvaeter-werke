@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 1
+# 3\. Taufunterweisung  – Kapitel 1: Die Sterne auf Erden leuchten im Licht der Sonne der Gerechtigkeit heller als die Himmelssterne
 
 Autor: Johannes Chrysostomus
 

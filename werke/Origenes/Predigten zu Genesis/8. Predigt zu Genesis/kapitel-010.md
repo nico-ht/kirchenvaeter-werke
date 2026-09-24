@@ -1,4 +1,4 @@
-# 8\. Predigt zu Genesis – Kapitel 10
+# 8\. Predigt zu Genesis – Kapitel 10: Wer Gott seine Freude als geistlichen Isaak darbringt, erhält sie vervielfacht zurück
 
 Autor: Origenes
 

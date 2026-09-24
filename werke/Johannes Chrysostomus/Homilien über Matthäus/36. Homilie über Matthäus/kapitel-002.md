@@ -1,4 +1,4 @@
-# 36\. Homilie über Matthäus – Kapitel 2
+# 36\. Homilie über Matthäus – Kapitel 2: Jesu Wundertaten überzeugen die Jünger des Johannes besser als ein Selbstzeugnis
 
 Autor: Johannes Chrysostomus
 

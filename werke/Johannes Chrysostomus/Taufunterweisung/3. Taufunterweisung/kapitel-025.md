@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 25
+# 3\. Taufunterweisung  – Kapitel 25: Wir schauen Christi Herrlichkeit und ziehen unter Gottes Führung nicht in die Wüste, sondern in den Himmel
 
 Autor: Johannes Chrysostomus
 

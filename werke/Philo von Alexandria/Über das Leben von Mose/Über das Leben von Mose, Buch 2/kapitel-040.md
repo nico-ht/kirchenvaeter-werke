@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 40
+# Über das Leben von Mose, Buch 2 – Kapitel 40: Holzsammeln am Sabbat bricht die Ruhe und liefert den Stoff des Feuers, auf dem fast alle Arbeit beruht
 
 Autor: Philo von Alexandria
 

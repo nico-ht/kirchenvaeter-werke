@@ -1,4 +1,4 @@
-# 84\. Homilie über Matthäus – Kapitel 2
+# 84\. Homilie über Matthäus – Kapitel 2: Christus liefert sich zur Erfüllung der Schrift freiwillig aus; seine Gegner tarnen ihren Mordplan als Gericht
 
 Autor: Johannes Chrysostomus
 

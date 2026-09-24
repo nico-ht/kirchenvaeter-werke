@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 7
+# 11\. Taufunterweisung – Kapitel 7: In der Taufe zieht die Kirche Christus selbst an und steht als Königin an seiner Seite
 
 Autor: Johannes Chrysostomus
 

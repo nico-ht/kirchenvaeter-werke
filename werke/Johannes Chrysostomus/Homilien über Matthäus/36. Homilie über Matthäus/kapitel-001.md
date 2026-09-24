@@ -1,4 +1,4 @@
-# 36\. Homilie über Matthäus – Kapitel 1
+# 36\. Homilie über Matthäus – Kapitel 1: Johannes’ Frage gilt den eifersüchtigen Jüngern, nicht seinem eigenen Zweifel
 
 Autor: Johannes Chrysostomus
 

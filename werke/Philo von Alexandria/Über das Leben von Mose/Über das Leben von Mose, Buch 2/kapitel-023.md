@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 23
+# Über das Leben von Mose, Buch 2 – Kapitel 23: Das Hohepriestergewand verbindet kostbare Handwerkskunst mit heiligen Namen und Sinnbildern
 
 Autor: Philo von Alexandria
 

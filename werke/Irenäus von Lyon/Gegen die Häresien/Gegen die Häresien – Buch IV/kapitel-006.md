@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 6
+# Gegen die Häresien – Buch IV – Kapitel 6: Der Sohn allein offenbart den Vater – von Anfang an, nicht erst seit seiner Menschwerdung
 
 Autor: Irenäus von Lyon
 

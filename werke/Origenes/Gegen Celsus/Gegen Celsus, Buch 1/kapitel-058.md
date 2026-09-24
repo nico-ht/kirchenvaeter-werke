@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 58
+# Gegen Celsus, Buch 1 – Kapitel 58: Der Stern der Magier war eine neue Himmelserscheinung nach Art der Kometen
 
 Autor: Origenes
 

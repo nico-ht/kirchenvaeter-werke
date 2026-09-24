@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 2
+# Über die Einheit der Kirche – Kapitel 2: Der Glaube an Christus führt nur zum Heil, wenn wir seine Gebote befolgen
 
 Autor: Cyprian von Karthago
 

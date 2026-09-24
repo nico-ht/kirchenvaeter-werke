@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 25
+# Über die Sterblichkeit – Kapitel 25: Die vergehende Welt gleicht einem einstürzenden Haus, aus dem Gott die Seinen rettet
 
 Autor: Cyprian von Karthago
 

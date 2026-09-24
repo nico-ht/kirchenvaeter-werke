@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 12
+# Über die Einheit der Kirche – Kapitel 12: Christi Zusage an zwei oder drei setzt Einmütigkeit in der Kirche voraus
 
 Autor: Cyprian von Karthago
 

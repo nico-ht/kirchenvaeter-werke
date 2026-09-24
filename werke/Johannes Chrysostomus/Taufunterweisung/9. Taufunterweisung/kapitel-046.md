@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 46
+# 9\. Taufunterweisung  – Kapitel 46: Eine feste Frist und selbst auferlegte Strafen helfen, die Gewohnheit des Schwörens abzulegen
 
 Autor: Johannes Chrysostomus
 

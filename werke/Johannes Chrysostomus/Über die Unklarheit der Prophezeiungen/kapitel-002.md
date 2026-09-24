@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 2
+# Über die Unklarheit der Prophezeiungen – Kapitel 2: Wie Christus vom Vater und von der Jungfrau geboren wurde, bleibt unergründlich
 
 Autor: Johannes Chrysostomus
 

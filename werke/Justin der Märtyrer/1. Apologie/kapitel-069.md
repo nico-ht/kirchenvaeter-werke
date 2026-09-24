@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 69
+# 1\. Apologie – Kapitel 69: Kaiserbriefe verbieten Anklagen allein wegen des Christennamens und verlangen Strafen für Verleumder
 
 Autor: Justin der Märtyrer
 

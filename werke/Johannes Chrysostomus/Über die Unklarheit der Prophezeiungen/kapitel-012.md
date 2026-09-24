@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 12
+# Über die Unklarheit der Prophezeiungen – Kapitel 12: Die Schrift nennt die sündige Menschheit „Erde“ und erinnert sie an ihre niedrige Herkunft
 
 Autor: Johannes Chrysostomus
 

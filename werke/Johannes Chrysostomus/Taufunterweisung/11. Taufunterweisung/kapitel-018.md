@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 18
+# 11\. Taufunterweisung – Kapitel 18: Die Glaubenslehre kann warten; jetzt ist zu sagen, was Nicht\-Eingeweihte nicht hören dürfen
 
 Autor: Johannes Chrysostomus
 

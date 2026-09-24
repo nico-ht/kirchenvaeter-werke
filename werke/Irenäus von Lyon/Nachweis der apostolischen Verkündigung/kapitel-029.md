@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 29
+# Nachweis der apostolischen Verkündigung – Kapitel 29: Nach Moses Tod führt Josua das Volk ins Land; in Jerusalem baut Salomo den Tempel nach himmlischem Vorbild
 
 Autor: Irenäus von Lyon
 

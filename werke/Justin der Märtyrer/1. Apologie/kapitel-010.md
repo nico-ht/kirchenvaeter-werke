@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 10
+# 1\. Apologie – Kapitel 10: Wer Gottes Tugenden aus freier Entscheidung nachahmt, wird der Unvergänglichkeit und Gemeinschaft mit ihm würdig
 
 Autor: Justin der Märtyrer
 

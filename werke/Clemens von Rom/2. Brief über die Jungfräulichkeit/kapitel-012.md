@@ -1,4 +1,4 @@
-# 2\. Brief über die Jungfräulichkeit – Kapitel 12
+# 2\. Brief über die Jungfräulichkeit – Kapitel 12: Trotz gottgegebener Weisheit wandte sich Salomo um der Frauen willen vom Herrn ab
 
 Autor: Clemens von Rom
 

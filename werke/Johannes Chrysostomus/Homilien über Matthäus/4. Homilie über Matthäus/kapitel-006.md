@@ -1,4 +1,4 @@
-# 4\. Homilie über Matthäus – Kapitel 6
+# 4\. Homilie über Matthäus – Kapitel 6: Wie der Engel Josefs Furcht zerstreut und ihm ohne leibliche Vaterschaft einen väterlichen Dienst anvertraut
 
 Autor: Johannes Chrysostomus
 

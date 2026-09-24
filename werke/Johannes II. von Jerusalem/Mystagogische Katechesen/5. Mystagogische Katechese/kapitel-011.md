@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 11
+# 5\. Mystagogische Katechese – Kapitel 11: Gott schenkt den von ihm Abgefallenen Vergebung und Gnade, sodass sie ihn Vater nennen dürfen
 
 Autor: Johannes II\. von Jerusalem
 

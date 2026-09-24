@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 69
+# Nachweis der apostolischen Verkündigung – Kapitel 69: Christi freiwilliges Leiden befreit die Glaubenden vom Gericht, das die Ungläubigen ins Verderben führt
 
 Autor: Irenäus von Lyon
 

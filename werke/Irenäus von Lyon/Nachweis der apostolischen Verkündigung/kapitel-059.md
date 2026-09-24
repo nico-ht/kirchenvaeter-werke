@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 59
+# Nachweis der apostolischen Verkündigung – Kapitel 59: Jesajas Reis und Blüte weisen auf Christi davidische Herkunft und sein aus Geist entsprossenes Fleisch
 
 Autor: Irenäus von Lyon
 

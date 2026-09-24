@@ -1,4 +1,4 @@
-# 22\. Homilie über Matthäus – Kapitel 2
+# 22\. Homilie über Matthäus – Kapitel 2: Notwendige Bedürfnisse sind kein Grund zur Sorge: Der himmlische Vater kennt sie und sorgt für seine Kinder
 
 Autor: Johannes Chrysostomus
 

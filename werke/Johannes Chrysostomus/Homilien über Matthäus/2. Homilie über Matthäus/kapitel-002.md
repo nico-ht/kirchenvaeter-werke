@@ -1,4 +1,4 @@
-# 2\. Homilie über Matthäus – Kapitel 2
+# 2\. Homilie über Matthäus – Kapitel 2: Der Sohn Gottes wird Sohn Davids, um uns zu Söhnen Gottes zu machen
 
 Autor: Johannes Chrysostomus
 

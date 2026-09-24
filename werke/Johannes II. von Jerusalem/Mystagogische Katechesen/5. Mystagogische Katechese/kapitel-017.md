@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 17
+# 5\. Mystagogische Katechese – Kapitel 17: „Führe uns nicht in Versuchung“ meint nicht, nie versucht zu werden, sondern der Versuchung nicht zu erliegen
 
 Autor: Johannes II\. von Jerusalem
 

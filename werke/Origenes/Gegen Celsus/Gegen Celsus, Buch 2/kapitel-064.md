@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 64
+# Gegen Celsus, Buch 2 – Kapitel 64: Jesus zeigt sich in unterschiedlicher Gestalt, je nach Aufnahmefähigkeit der Menschen – auch als Auferstandener
 
 Autor: Origenes
 

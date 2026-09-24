@@ -1,4 +1,4 @@
-# 4\. Homilie über Matthäus – Kapitel 7
+# 4\. Homilie über Matthäus – Kapitel 7: Christi Gabe der Sündenvergebung verpflichtet die Getauften zu einem erkennbar neuen Leben
 
 Autor: Johannes Chrysostomus
 

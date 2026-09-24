@@ -1,4 +1,4 @@
-# 21\. Homilie über Matthäus – Kapitel 1
+# 21\. Homilie über Matthäus – Kapitel 1: Mammon oder Gott: Reichtum darf Besitz bleiben, aber nicht zum Herrn werden
 
 Autor: Johannes Chrysostomus
 

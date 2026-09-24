@@ -1,4 +1,4 @@
-# 2\. Homilie über Genesis – Kapitel 13
+# 2\. Homilie über Genesis – Kapitel 13: Wie die Weitergabe der Predigt beim Mahl den Haushalt zur Kirche macht
 
 Autor: Johannes Chrysostomus
 

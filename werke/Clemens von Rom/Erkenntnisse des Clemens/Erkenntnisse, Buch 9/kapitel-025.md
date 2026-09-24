@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 25
+# Erkenntnisse, Buch 9 – Kapitel 25: Die Völker folgen aus freiem Willen ihren Gesetzen, nicht dem Zwang der Gestirne
 
 Autor: Clemens von Rom
 

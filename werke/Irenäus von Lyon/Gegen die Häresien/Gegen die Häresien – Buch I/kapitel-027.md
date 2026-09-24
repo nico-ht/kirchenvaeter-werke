@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 27
+# Gegen die Häresien – Buch I – Kapitel 27: Marcion führt Simons Irrlehre fort: Er trennt Christi Vater vom Schöpfer und verstümmelt die Schriften
 
 Autor: Irenäus von Lyon
 

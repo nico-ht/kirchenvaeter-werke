@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 9
+# Erkenntnisse, Buch 9 – Kapitel 9: Warum Eltern bei der Zeugung Gottes Gesetz achten müssen, um ihre Nachkommen vor dämonischen Schäden zu bewahren
 
 Autor: Clemens von Rom
 

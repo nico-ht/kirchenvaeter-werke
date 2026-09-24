@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 7
+# Über die Sterblichkeit – Kapitel 7: Warum der Abschied aus der Welt für Glaubende ein Gewinn ist
 
 Autor: Cyprian von Karthago
 

@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 36
+# Gegen die Häresien – Buch IV – Kapitel 36: Christi Gleichnisse zeigen: Derselbe Gott beruft in beiden Bünden und fordert Früchte der Gerechtigkeit
 
 Autor: Irenäus von Lyon
 

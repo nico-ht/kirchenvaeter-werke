@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 45
+# Physiologus – Kapitel 45: Der Hirsch besiegt den Drachen mit Wasser: Christi himmlische Worte überwinden den Teufel
 
 Autor: Unbekannt
 

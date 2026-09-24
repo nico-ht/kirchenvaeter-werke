@@ -1,4 +1,4 @@
-# 15\. Homilie über Matthäus – Kapitel 9
+# 15\. Homilie über Matthäus – Kapitel 9: Christen sollen durch ihr Leben vom Künftigen überzeugen und ihren Lohn bei Gott statt bei Menschen suchen
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# 1\. Brief über die Jungfräulichkeit – Kapitel 1
+# 1\. Brief über die Jungfräulichkeit – Kapitel 1: Gottes Friede denen, die ihre Jungfräulichkeit um des Himmelreichs willen bewahren
 
 Autor: Clemens von Rom
 

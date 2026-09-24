@@ -1,4 +1,4 @@
-# Psalm 2 – Kapitel 7
+# Psalm 2 – Kapitel 7: Christus empfängt die Völker zum Erbe und vereint sie mit den gläubigen Juden zu einer Herde
 
 Autor: Theodoret von Kyrrhos
 

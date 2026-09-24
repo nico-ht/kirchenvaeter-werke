@@ -1,4 +1,4 @@
-# 8\. Predigt zu Genesis – Kapitel 5
+# 8\. Predigt zu Genesis – Kapitel 5: Abrahams Rückkehrzusage ist keine Täuschung, sondern Vertrauen auf Gottes Macht, Isaak aufzuerwecken
 
 Autor: Origenes
 

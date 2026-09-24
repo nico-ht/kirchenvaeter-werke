@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 12
+# Kirchengeschichte Buch 7 – Kapitel 12: Marinus wählt das Evangelium statt des Schwertes und wird für sein Christusbekenntnis enthauptet
 
 Autor: Rufinus von Aquila
 

@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 46
+# Kirchengeschichte Buch 6 – Kapitel 46: Dionysius unterweist Gemeinden und Bekenner in Briefen über Buße und kirchlichen Frieden
 
 Autor: Rufinus von Aquila
 

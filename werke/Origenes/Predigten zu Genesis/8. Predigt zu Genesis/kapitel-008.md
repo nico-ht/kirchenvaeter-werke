@@ -1,4 +1,4 @@
-# 8\. Predigt zu Genesis – Kapitel 8
+# 8\. Predigt zu Genesis – Kapitel 8: Gott kennt das Herz, doch erst Glaubenswerke machen Gottesfurcht auch für die Engel sichtbar
 
 Autor: Origenes
 

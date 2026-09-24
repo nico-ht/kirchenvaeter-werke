@@ -1,4 +1,4 @@
-# 2\. Homilie über Genesis – Kapitel 14
+# 2\. Homilie über Genesis – Kapitel 14: Rechte Lehre und gute Werke gehören zusammen und geben Halt in Versuchungen
 
 Autor: Johannes Chrysostomus
 

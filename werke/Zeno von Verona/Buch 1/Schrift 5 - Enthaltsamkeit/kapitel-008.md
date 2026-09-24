@@ -1,4 +1,4 @@
-# Schrift 5 \- Enthaltsamkeit – Kapitel 8
+# Schrift 5 \- Enthaltsamkeit – Kapitel 8: Wie die Ehe mit einem Heiden den christlichen Gottesdienst behindert und die Frau in seinen Kult verstrickt
 
 Autor: Zeno von Verona
 

@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 7
+# Ansprache an die Griechen – Kapitel 7: Der frei gewählte Abfall von Gott macht Menschen sterblich und Engel zu Dämonen
 
 Autor: Tatian
 

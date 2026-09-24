@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 39
+# Über das Leben von Mose, Buch 2 – Kapitel 39: Die Sabbatruhe folgt der Naturordnung und dient der philosophischen Erziehung zur Tugend
 
 Autor: Philo von Alexandria
 

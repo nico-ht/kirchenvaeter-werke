@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 15
+# Gegen die Häresien – Buch IV – Kapitel 15: Derselbe Gott macht in beiden Bünden Zugeständnisse an menschliche Schwäche, um vor dem Abfall zu bewahren
 
 Autor: Irenäus von Lyon
 

@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 79
+# Nachweis der apostolischen Verkündigung – Kapitel 79: Jesaja, David und Mose kündigen die Kreuzigung Christi an
 
 Autor: Irenäus von Lyon
 

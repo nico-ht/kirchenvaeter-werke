@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 12
+# Kirchengeschichte Buch 6 – Kapitel 12: Serapion weist das zunächst zugelassene Petrusevangelium wegen häretischer Abweichungen zurück
 
 Autor: Rufinus von Aquila
 

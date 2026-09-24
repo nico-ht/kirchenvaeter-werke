@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 10
+# Physiologus – Kapitel 10: Die Jungen des Wiedehopfs lehren, den alten Eltern die empfangene Fürsorge zu vergelten
 
 Autor: Unbekannt
 

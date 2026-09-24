@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 63
+# Nachweis der apostolischen Verkündigung – Kapitel 63: Christi Herkunft von David zeigt sich in der Abstammung von der Jungfrau und der Geburt in Bethlehem
 
 Autor: Irenäus von Lyon
 

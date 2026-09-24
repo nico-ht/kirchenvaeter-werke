@@ -1,4 +1,4 @@
-# 30\. Homilie über Matthäus – Kapitel 5
+# 30\. Homilie über Matthäus – Kapitel 5: Wer eine Seele bessern will, muss mit Milde überzeugen, statt alles auf einmal zu fordern
 
 Autor: Johannes Chrysostomus
 

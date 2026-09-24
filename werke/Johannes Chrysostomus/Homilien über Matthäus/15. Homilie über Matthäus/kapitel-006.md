@@ -1,4 +1,4 @@
-# 15\. Homilie über Matthäus – Kapitel 6
+# 15\. Homilie über Matthäus – Kapitel 6: Warum Christus von den Jüngern hohe Tugend verlangt: Als Salz der Erde tragen sie Verantwortung für alle
 
 Autor: Johannes Chrysostomus
 

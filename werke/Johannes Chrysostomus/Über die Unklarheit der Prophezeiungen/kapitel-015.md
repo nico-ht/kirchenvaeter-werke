@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 15
+# Über die Unklarheit der Prophezeiungen – Kapitel 15: Die Zunge soll eigene Schuld bekennen, statt mit bösen Worten andere zu verletzen
 
 Autor: Johannes Chrysostomus
 

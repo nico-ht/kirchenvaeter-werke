@@ -1,4 +1,4 @@
-# Schrift 5 \- Enthaltsamkeit – Kapitel 9
+# Schrift 5 \- Enthaltsamkeit – Kapitel 9: Nähe zum heidnischen Ehemann befleckt, religiöse Zurückhaltung weckt seinen Verdacht auf Untreue
 
 Autor: Zeno von Verona
 

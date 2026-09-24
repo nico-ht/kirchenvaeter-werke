@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 64
+# Gegen Celsus, Buch 1 – Kapitel 64: Auch wer das Evangelium für unwahr hält, sollte anerkennen, dass es viele Menschen von Lastern befreit
 
 Autor: Origenes
 

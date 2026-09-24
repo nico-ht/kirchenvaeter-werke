@@ -1,4 +1,4 @@
-# Brief von Aristeas – Kapitel 4
+# Brief von Aristeas – Kapitel 4: Die Pracht des Jerusalemer Tempels und die Ordnung des Priesterdienstes wecken Staunen und Ehrfurcht
 
 Autor: Unbekannt
 

@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 42
+# Gegen Celsus, Buch 2 – Kapitel 42: Jesu Leiden stärken den Glauben derer, die Mut schätzen und wahres Glück in der kommenden Welt erwarten
 
 Autor: Origenes
 

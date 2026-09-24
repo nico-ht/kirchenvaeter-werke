@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 5
+# Diskurs über das Heil einer Jungfrau – Kapitel 5: Stolz brachte Satan zu Fall; Christus lehrt Demut und Größe im Dienst an allen
 
 Autor: Athanasius
 

@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 31
+# Nachweis der apostolischen Verkündigung – Kapitel 31: Das Wort wird Fleisch, um uns durch seinen Gehorsam vom Tod zu befreien und mit Gott zu vereinen
 
 Autor: Irenäus von Lyon
 

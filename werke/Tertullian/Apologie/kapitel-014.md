@@ -1,4 +1,4 @@
-# Apologie – Kapitel 14
+# Apologie – Kapitel 14: Dichter und Philosophen entehren die Götter mit erniedrigenden Geschichten und offenem Spott
 
 Autor: Tertullian
 

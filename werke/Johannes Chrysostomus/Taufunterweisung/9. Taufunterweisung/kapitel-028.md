@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 28
+# 9\. Taufunterweisung  – Kapitel 28: In der Ringerschule sind Fehler ungefährlich, im Wettkampf führt Trägheit zur Schande und Eifer zum Siegeskranz
 
 Autor: Johannes Chrysostomus
 

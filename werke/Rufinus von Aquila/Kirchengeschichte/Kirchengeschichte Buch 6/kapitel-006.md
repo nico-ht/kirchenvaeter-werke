@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 6
+# Kirchengeschichte Buch 6 – Kapitel 6: Origenes folgt den Evangeliengeboten in strenger Askese und stärkt seine Schüler für das Martyrium
 
 Autor: Rufinus von Aquila
 

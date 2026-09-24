@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 4
+# Über die Unklarheit der Prophezeiungen – Kapitel 4: Die Reaktionen auf Jesu und Stephanus’ Tempelworte erklären, warum Propheten verhüllt sprachen
 
 Autor: Johannes Chrysostomus
 

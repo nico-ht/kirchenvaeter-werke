@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 44
+# Erkenntnisse, Buch 8 – Kapitel 44: Vernunft kann Ordnung und Störung hervorbringen, blinde Natur weder das eine noch das andere
 
 Autor: Clemens von Rom
 

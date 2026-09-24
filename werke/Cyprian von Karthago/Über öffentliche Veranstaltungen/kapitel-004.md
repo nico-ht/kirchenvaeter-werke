@@ -1,4 +1,4 @@
-# Über öffentliche Veranstaltungen – Kapitel 4
+# Über öffentliche Veranstaltungen – Kapitel 4: Schauspiele entspringen dem Götzendienst und machen ihn durch Vergnügen anziehend
 
 Autor: Cyprian von Karthago
 

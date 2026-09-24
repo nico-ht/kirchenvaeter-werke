@@ -1,4 +1,4 @@
-# 65\. Homilie über Matthäus – Kapitel 4
+# 65\. Homilie über Matthäus – Kapitel 4: Christi Dienst bis zum Tod zeigt: Wer groß werden will, muss sich erniedrigen und allen dienen
 
 Autor: Johannes Chrysostomus
 

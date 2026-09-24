@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 12
+# Gegen die Häresien – Buch IV – Kapitel 12: Das gleiche Gebot der Gottes\- und Nächstenliebe bezeugt den einen Gott von Gesetz und Evangelium
 
 Autor: Irenäus von Lyon
 

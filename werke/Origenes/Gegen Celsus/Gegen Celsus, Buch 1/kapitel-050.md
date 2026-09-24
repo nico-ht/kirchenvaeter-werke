@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 50
+# Gegen Celsus, Buch 1 – Kapitel 50: Celsus’ Einwand, die Weissagungen passten auch auf andere, übergeht ihre konkreten Aussagen über Jesu Leben
 
 Autor: Origenes
 

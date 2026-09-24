@@ -1,4 +1,4 @@
-# Psalm 3 – Kapitel 4
+# Psalm 3 – Kapitel 4: Davids Feinde erklären ihn für gottverlassen, doch er bleibt im Glauben fest und beklagt ihren Untergang
 
 Autor: Johannes Chrysostomus
 

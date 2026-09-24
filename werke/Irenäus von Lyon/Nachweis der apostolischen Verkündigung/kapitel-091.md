@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 91
+# Nachweis der apostolischen Verkündigung – Kapitel 91: Durch Christus glauben die Heiden an den Schöpfer statt an Götzen und erben die Verheißungen
 
 Autor: Irenäus von Lyon
 

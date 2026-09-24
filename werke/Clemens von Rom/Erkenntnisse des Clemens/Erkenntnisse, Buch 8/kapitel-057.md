@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 57
+# Erkenntnisse, Buch 8 – Kapitel 57: Der Alte beruft sich auf das Schicksal, um Willensfreiheit und Gericht zu leugnen
 
 Autor: Clemens von Rom
 

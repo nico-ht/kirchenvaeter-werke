@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 38
+# Erkenntnisse, Buch 8 – Kapitel 38: Petrus lässt seine Schüler der Reihe nach sprechen und ruft den Alten aus der Menge
 
 Autor: Clemens von Rom
 

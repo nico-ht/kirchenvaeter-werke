@@ -1,4 +1,4 @@
-# Brief an die Trallianer – Kapitel 11
+# Brief an die Trallianer – Kapitel 11: Gottes Pflanzung trägt unvergängliche Frucht am Kreuz, das Christus mit seinen Gliedern vereint
 
 Autor: Ignatius von Antiochien
 

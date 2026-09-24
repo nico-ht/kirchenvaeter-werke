@@ -1,4 +1,4 @@
-# Der Erzieher: Buch 1 – Kapitel 10
+# Der Erzieher: Buch 1 – Kapitel 10: Der Logos führt nicht nur durch Zurechtweisung, sondern auch durch Rat und Lob zur Rettung
 
 Autor: Clemens von Alexandria
 

@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 66
+# Nachweis der apostolischen Verkündigung – Kapitel 66: Die Propheten kündigten neben Christi Geburt und ewigem Königtum auch seine Heilungen und Leiden an
 
 Autor: Irenäus von Lyon
 

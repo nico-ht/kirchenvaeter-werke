@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 25
+# Kirchengeschichte Buch 6 – Kapitel 25: Origenes legt den biblischen Kanon dar und nennt Zweifel an der Zuschreibung einzelner Apostelbriefe
 
 Autor: Rufinus von Aquila
 

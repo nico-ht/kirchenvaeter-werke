@@ -1,4 +1,4 @@
-# Apologie – Kapitel 20
+# Apologie – Kapitel 20: Erfüllte Weissagungen sichern den Glauben an das noch Ausstehende: Alle stammen aus demselben Geist
 
 Autor: Tertullian
 

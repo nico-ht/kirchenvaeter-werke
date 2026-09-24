@@ -1,4 +1,4 @@
-# Brief 41 – Kapitel 1
+# Brief 41 – Kapitel 1: Die Apostelgeschichte zeigt: Jesu Verheißung des Parakleten erfüllte sich an Pfingsten
 
 Autor: Hieronymus
 

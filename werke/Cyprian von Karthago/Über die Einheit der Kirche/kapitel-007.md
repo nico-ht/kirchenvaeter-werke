@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 7
+# Über die Einheit der Kirche – Kapitel 7: Christi ungeteiltes Gewand bezeugt die untrennbare Einheit der Kirche
 
 Autor: Cyprian von Karthago
 

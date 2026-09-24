@@ -1,4 +1,4 @@
-# Über öffentliche Veranstaltungen – Kapitel 6
+# Über öffentliche Veranstaltungen – Kapitel 6: Die Bühne lehrt öffentlich, was die Gesetze verbieten, und nimmt den Zuschauern die Scham
 
 Autor: Cyprian von Karthago
 

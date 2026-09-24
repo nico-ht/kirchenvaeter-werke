@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 56
+# Gegen Celsus, Buch 1 – Kapitel 56: Christus kommt erst in Demut, dann in Herrlichkeit; der Psalm nennt ihn den von Gott gesalbten Gott
 
 Autor: Origenes
 

@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 82
+# Nachweis der apostolischen Verkündigung – Kapitel 82: Der Essig mit Galle bei Jesu Kreuzigung erfüllt Davids Weissagung
 
 Autor: Irenäus von Lyon
 

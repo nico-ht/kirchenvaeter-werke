@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 18
+# Kirchengeschichte Buch 6 – Kapitel 18: Origenes empfiehlt freie Künste und Philosophie als Hilfen zum Verständnis der Schrift
 
 Autor: Rufinus von Aquila
 

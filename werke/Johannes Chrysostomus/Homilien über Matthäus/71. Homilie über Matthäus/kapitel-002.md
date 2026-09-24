@@ -1,4 +1,4 @@
-# 71\. Homilie über Matthäus – Kapitel 2
+# 71\. Homilie über Matthäus – Kapitel 2: Wie Christus mit Davids Zeugnis zeigt, dass er nicht nur dessen Sohn, sondern auch dessen Herr ist
 
 Autor: Johannes Chrysostomus
 

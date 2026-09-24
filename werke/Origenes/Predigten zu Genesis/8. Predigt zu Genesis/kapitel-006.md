@@ -1,4 +1,4 @@
-# 8\. Predigt zu Genesis – Kapitel 6
+# 8\. Predigt zu Genesis – Kapitel 6: Isaak trägt das Holz als Opfer und Priester; Abrahams Antwort weist auf Christi freiwillige Hingabe
 
 Autor: Origenes
 

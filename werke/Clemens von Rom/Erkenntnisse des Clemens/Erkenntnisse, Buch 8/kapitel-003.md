@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 3
+# Erkenntnisse, Buch 8 – Kapitel 3: Petrus begegnet dem Alten ohne Geringschätzung und nimmt ihm die Sorge vor öffentlichem Nachgeben
 
 Autor: Clemens von Rom
 

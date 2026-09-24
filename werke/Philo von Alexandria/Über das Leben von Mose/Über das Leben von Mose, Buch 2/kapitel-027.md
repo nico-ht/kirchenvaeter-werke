@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 27
+# Über das Leben von Mose, Buch 2 – Kapitel 27: Das Becken aus Spiegeln lehrt die Priester, ihren Geist zu prüfen und seine bleibende Schönheit in der Tugend zu suchen
 
 Autor: Philo von Alexandria
 

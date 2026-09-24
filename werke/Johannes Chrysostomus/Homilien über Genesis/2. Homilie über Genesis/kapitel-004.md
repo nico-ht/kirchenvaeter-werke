@@ -1,4 +1,4 @@
-# 2\. Homilie über Genesis – Kapitel 4
+# 2\. Homilie über Genesis – Kapitel 4: Gott sendet durch Mose Briefe, um die seiner Gemeinschaft unwürdigen Menschen zu sich zurückzuführen
 
 Autor: Johannes Chrysostomus
 

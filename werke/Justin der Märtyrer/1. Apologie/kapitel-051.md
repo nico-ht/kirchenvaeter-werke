@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 51
+# 1\. Apologie – Kapitel 51: Der leidende Christus hat einen unaussprechlichen Ursprung, steigt zum Himmel auf und kehrt in Herrlichkeit wieder
 
 Autor: Justin der Märtyrer
 

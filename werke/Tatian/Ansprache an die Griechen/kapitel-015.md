@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 15
+# Ansprache an die Griechen – Kapitel 15: Nicht bloße Vernunft, sondern Gottes Geist im Menschen macht ihn zu Gottes Ebenbild
 
 Autor: Tatian
 

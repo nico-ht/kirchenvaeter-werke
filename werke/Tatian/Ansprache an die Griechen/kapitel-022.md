@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 22
+# Ansprache an die Griechen – Kapitel 22: Schauspieler lehren Laster, und Dichter führen mit ihren Erfindungen von der Wahrheit ab
 
 Autor: Tatian
 

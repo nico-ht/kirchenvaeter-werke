@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 18
+# Kirchengeschichte Buch 7 – Kapitel 18: Gallienus beendet die Christenverfolgung und erlaubt jedem, die Gottheit nach eigener Überzeugung zu verehren
 
 Autor: Rufinus von Aquila
 

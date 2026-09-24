@@ -1,4 +1,4 @@
-# 3\. Mystagogische Katechese – Kapitel 4
+# 3\. Mystagogische Katechese – Kapitel 4: Die Salbung befreit von Schande und rüstet die Getauften mit dem Heiligen Geist zum Sieg über den Widersacher
 
 Autor: Johannes II\. von Jerusalem
 

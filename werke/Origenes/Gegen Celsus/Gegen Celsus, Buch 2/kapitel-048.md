@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 48
+# Gegen Celsus, Buch 2 – Kapitel 48: Jesu Wunder sind wirkliche Taten, die seine Jünger durch die Heilung des inneren Menschen noch übertreffen
 
 Autor: Origenes
 

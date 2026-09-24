@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 17
+# 9\. Taufunterweisung  – Kapitel 17: Paulus bezeugt: Einstige Sünder sind durch die Taufe gewaschen, geheiligt und gerechtfertigt
 
 Autor: Johannes Chrysostomus
 

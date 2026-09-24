@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 13
+# Nachweis der apostolischen Verkündigung – Kapitel 13: Gott schafft aus Adams Rippe die Frau als Hilfe, die ihm entspricht
 
 Autor: Irenäus von Lyon
 

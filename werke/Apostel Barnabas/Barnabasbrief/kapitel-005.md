@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 5
+# Barnabasbrief – Kapitel 5: Warum der Sohn Gottes im Fleisch erschien und für unsere Sünden litt
 
 Autor: Apostel Barnabas
 

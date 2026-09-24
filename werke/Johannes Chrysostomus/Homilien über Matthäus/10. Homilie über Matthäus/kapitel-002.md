@@ -1,4 +1,4 @@
-# 10\. Homilie über Matthäus – Kapitel 2
+# 10\. Homilie über Matthäus – Kapitel 2: Johannes’ Taufe führt zur Sündenerkenntnis und bereitet auf den Glauben an Christus und die Vergebung vor
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# 3\. Mystagogische Katechese – Kapitel 6
+# 3\. Mystagogische Katechese – Kapitel 6: Eure Salbung ist kein Vorausbild, sondern wirkliche Teilhabe an der Heiligkeit Christi
 
 Autor: Johannes II\. von Jerusalem
 

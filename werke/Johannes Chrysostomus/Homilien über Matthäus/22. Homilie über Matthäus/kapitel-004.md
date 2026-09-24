@@ -1,4 +1,4 @@
-# 22\. Homilie über Matthäus – Kapitel 4
+# 22\. Homilie über Matthäus – Kapitel 4: Sorge um morgen belastet den heutigen Tag, ohne den kommenden zu erleichtern
 
 Autor: Johannes Chrysostomus
 

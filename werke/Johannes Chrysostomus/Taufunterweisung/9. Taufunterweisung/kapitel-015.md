@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 15
+# 9\. Taufunterweisung  – Kapitel 15: Paulus erklärt alle Speisen für rein, verurteilt aber das Essen, das Anstoß erregt
 
 Autor: Johannes Chrysostomus
 

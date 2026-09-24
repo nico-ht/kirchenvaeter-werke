@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 22
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 22: Simon sammelt mit Freiheits\- und Beuteversprechen ein Heer und schlägt Jerusalems Angriff zurück
 
 Autor: Unbekannt
 

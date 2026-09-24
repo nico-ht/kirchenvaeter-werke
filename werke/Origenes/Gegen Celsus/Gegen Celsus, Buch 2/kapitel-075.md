@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 75
+# Gegen Celsus, Buch 2 – Kapitel 75: Ob Jesu Wunder geringer oder ebenso groß sind wie die des Mose: Der Unglaube der Juden folgt dem ihrer Väter
 
 Autor: Origenes
 

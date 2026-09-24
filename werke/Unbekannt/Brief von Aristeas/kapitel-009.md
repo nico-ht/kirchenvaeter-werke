@@ -1,4 +1,4 @@
-# Brief von Aristeas – Kapitel 9
+# Brief von Aristeas – Kapitel 9: Kluges Urteil und gerechtes Handeln in Familie und Herrschaft bedürfen der Hilfe Gottes
 
 Autor: Unbekannt
 

@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 14
+# Diskurs über das Heil einer Jungfrau – Kapitel 14: Die Führung einer älteren Frau bewahrt die junge Jungfrau vor dem Scheitern und lässt sie Frucht bringen
 
 Autor: Athanasius
 

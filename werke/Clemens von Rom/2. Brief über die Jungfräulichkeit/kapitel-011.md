@@ -1,4 +1,4 @@
-# 2\. Brief über die Jungfräulichkeit – Kapitel 11
+# 2\. Brief über die Jungfräulichkeit – Kapitel 11: Amnon und Tamar: Der Umgang mit Schwestern verlangt Schamhaftigkeit und Gottesfurcht
 
 Autor: Clemens von Rom
 

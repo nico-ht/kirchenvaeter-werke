@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 9
+# Nachweis der apostolischen Verkündigung – Kapitel 9: Die sieben Himmel entsprechen dem siebenfachen Dienst des Geistes und finden ihr Abbild im siebenarmigen Leuchter
 
 Autor: Irenäus von Lyon
 

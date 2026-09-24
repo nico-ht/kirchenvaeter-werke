@@ -1,4 +1,4 @@
-# 1\. Mystagogische Katechese – Kapitel 3
+# 1\. Mystagogische Katechese – Kapitel 3: Christus erfüllt das Vorbild des Exodus: Er befreit aus der Sünde und besiegt den Dämon im Taufwasser
 
 Autor: Johannes II\. von Jerusalem
 

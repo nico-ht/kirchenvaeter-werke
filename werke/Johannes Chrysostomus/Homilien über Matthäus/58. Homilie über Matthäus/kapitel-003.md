@@ -1,4 +1,4 @@
-# 58\. Homilie über Matthäus – Kapitel 3
+# 58\. Homilie über Matthäus – Kapitel 3: Wer Demütige um Christi willen aufnimmt, nimmt ihn selbst auf; ihre Verachtung zieht schwerste Strafe nach sich
 
 Autor: Johannes Chrysostomus
 

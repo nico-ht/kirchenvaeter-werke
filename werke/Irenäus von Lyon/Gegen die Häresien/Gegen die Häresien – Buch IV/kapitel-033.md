@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 33
+# Gegen die Häresien – Buch IV – Kapitel 33: Im Glauben der Kirche beurteilt der geistliche Mensch Irrlehren und deutet die Prophetien auf Christus
 
 Autor: Irenäus von Lyon
 

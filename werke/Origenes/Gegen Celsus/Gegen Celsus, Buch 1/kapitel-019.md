@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 19
+# Gegen Celsus, Buch 1 – Kapitel 19: Celsus muss seine Annahme einer unerschaffenen Welt begründen, ehe er Beweise für Moses Schöpfungsbericht fordert
 
 Autor: Origenes
 

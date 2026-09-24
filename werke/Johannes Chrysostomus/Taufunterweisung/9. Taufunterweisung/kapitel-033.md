@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 33
+# 9\. Taufunterweisung  – Kapitel 33: Warum Gott die Zunge trotz ihrer Gefahren schuf: Achtsam gebraucht, bringt sie nur Nutzen
 
 Autor: Johannes Chrysostomus
 

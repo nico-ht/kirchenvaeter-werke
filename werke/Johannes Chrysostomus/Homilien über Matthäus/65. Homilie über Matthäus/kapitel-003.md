@@ -1,4 +1,4 @@
-# 65\. Homilie über Matthäus – Kapitel 3
+# 65\. Homilie über Matthäus – Kapitel 3: Christus vergibt die ersten Plätze als gerechter Richter nach den Werken, nicht aus persönlicher Gunst
 
 Autor: Johannes Chrysostomus
 

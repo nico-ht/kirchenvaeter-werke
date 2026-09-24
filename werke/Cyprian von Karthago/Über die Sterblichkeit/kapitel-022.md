@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 22
+# Über die Sterblichkeit – Kapitel 22: Der Tod ist der Übergang zur Unsterblichkeit und zur Gemeinschaft mit Christus
 
 Autor: Cyprian von Karthago
 

@@ -1,4 +1,4 @@
-# 51\. Homilie über Matthäus – Kapitel 4
+# 51\. Homilie über Matthäus – Kapitel 4: Das Böse aus dem Herzen verunreinigt den Menschen, nicht das Essen mit ungewaschenen Händen
 
 Autor: Johannes Chrysostomus
 

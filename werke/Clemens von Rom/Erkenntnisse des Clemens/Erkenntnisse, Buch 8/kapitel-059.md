@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 59
+# Erkenntnisse, Buch 8 – Kapitel 59: Der wahre Prophet offenbart sich denen, die ihn in reiner Liebe zur Wahrheit suchen
 
 Autor: Clemens von Rom
 

@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 1
+# 9\. Taufunterweisung  – Kapitel 1: Schon vor ihrer neuen Geburt werden die Täuflinge als Brüder geehrt, weil sie ins Himmelreich eintreten werden
 
 Autor: Johannes Chrysostomus
 

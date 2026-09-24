@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 37
+# Physiologus – Kapitel 37: Wie der Biber dem Jäger entkommt: Sündige Neigungen ablegen und Gott die Frucht guter Werke geben
 
 Autor: Unbekannt
 

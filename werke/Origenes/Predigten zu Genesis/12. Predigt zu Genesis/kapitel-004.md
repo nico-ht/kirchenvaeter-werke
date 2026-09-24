@@ -1,4 +1,4 @@
-# 12\. Predigt zu Genesis – Kapitel 4
+# 12\. Predigt zu Genesis – Kapitel 4: Jakobs und Esaus ungleiche Geburt wirft eine Frage auf, die im Streit offenbleibt
 
 Autor: Origenes
 

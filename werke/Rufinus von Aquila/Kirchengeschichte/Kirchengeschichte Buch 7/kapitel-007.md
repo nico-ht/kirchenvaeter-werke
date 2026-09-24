@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 7
+# Kirchengeschichte Buch 7 – Kapitel 7: Dionysius rechtfertigt die Lektüre häretischer Schriften mit dem apostolischen Gebot, alles zu prüfen
 
 Autor: Rufinus von Aquila
 

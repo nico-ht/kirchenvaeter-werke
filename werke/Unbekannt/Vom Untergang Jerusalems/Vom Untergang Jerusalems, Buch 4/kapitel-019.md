@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 19
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 19: Jerusalems Bewohnern bleibt zwischen Bürgerkrieg und römischer Abriegelung kein Ausweg
 
 Autor: Unbekannt
 

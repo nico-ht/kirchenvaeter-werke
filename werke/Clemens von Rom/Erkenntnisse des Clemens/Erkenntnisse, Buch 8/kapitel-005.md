@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 5
+# Erkenntnisse, Buch 8 – Kapitel 5: Niceta übernimmt die Widerlegung und überlässt Petrus das abschließende Urteil
 
 Autor: Clemens von Rom
 

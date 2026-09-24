@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 62
+# Gegen Celsus, Buch 1 – Kapitel 62: Ungebildete Apostel gewinnen die Völker durch Gottes Macht, nicht durch menschliche Redekunst
 
 Autor: Origenes
 

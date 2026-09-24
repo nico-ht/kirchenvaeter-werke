@@ -1,4 +1,4 @@
-# 2\. Brief über die Jungfräulichkeit – Kapitel 5
+# 2\. Brief über die Jungfräulichkeit – Kapitel 5: Kein Aufenthalt, wo nur eine Christin lebt: nicht aus Verachtung, sondern um Verleumdung und Anstoß zu vermeiden
 
 Autor: Clemens von Rom
 

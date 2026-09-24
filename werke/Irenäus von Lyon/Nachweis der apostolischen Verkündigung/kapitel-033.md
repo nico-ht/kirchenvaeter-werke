@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 33
+# Nachweis der apostolischen Verkündigung – Kapitel 33: Adam wird in Christus, Eva in Maria zusammengefasst, damit Tod und Ungehorsam überwunden werden
 
 Autor: Irenäus von Lyon
 

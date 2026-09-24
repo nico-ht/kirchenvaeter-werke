@@ -1,4 +1,4 @@
-# Brief 69 – Kapitel 7
+# Brief 69 – Kapitel 7: Wo die natürliche Unterscheidung der Geschlechter missachtet wird, geht die Keuschheit verloren
 
 Autor: Ambrosius von Mailand
 

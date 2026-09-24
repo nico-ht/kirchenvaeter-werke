@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 45
+# Kirchengeschichte Buch 6 – Kapitel 45: Dionysius mahnt Novatus zur Umkehr: Die Einigung der Brüder würde seine Schuld an der Spaltung tilgen
 
 Autor: Rufinus von Aquila
 

@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 28
+# Gegen die Häresien – Buch I – Kapitel 28: Der Ehrgeiz, selbst Lehrer zu sein, bringt aus bestehenden Häresien immer neue Irrlehren hervor
 
 Autor: Irenäus von Lyon
 

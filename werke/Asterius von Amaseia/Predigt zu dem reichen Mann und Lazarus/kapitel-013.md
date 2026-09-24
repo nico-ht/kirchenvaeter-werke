@@ -1,4 +1,4 @@
-# Predigt zu dem reichen Mann und Lazarus – Kapitel 13
+# Predigt zu dem reichen Mann und Lazarus – Kapitel 13: Gottes gerechtes Urteil gleicht die Ungleichheit des Lebens aus und gibt den Armen Hoffnung
 
 Autor: Asterius von Amaseia
 

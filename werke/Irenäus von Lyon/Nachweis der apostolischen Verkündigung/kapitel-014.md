@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 14
+# Nachweis der apostolischen Verkündigung – Kapitel 14: Adam und Eva waren nackt ohne Scham, weil ihre Natur unversehrt und ihr Sinn kindlich unschuldig war
 
 Autor: Irenäus von Lyon
 

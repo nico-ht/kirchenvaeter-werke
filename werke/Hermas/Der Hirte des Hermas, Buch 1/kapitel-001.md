@@ -1,4 +1,4 @@
-# Der Hirte des Hermas, Buch 1 – Kapitel 1
+# Der Hirte des Hermas, Buch 1 – Kapitel 1: Gott zürnt Hermas, weil er sein Haus nicht ermahnt hat, doch aufrichtige Umkehr führt zum Leben
 
 Autor: Hermas
 

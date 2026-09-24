@@ -1,4 +1,4 @@
-# 1\. Brief über die Jungfräulichkeit – Kapitel 7
+# 1\. Brief über die Jungfräulichkeit – Kapitel 7: Wer nach Gottes Willen ehelos lebt, folgt Christus im ganzen Leben und dient ihm beständig in Reinheit
 
 Autor: Clemens von Rom
 

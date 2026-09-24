@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 28
+# 4\. Taufunterweisung – Kapitel 28: Wer Christus angehört, kreuzigt seine Leidenschaften und entzieht Begierden die Macht
 
 Autor: Johannes Chrysostomus
 

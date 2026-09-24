@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 8
+# 3\. Taufunterweisung  – Kapitel 8: Unser Wettkampf beginnt: Christus ist Richter und sichert unser Heil, weil er sein Leben für uns gab
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 4
+# Physiologus – Kapitel 4: Der Schwertfisch zeigt: Wer nicht bis zum Ende in guten Werken ausharrt, verfällt den feindlichen Mächten
 
 Autor: Unbekannt
 

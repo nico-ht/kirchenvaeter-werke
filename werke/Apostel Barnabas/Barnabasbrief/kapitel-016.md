@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 16
+# Barnabasbrief – Kapitel 16: Gottes Tempel entsteht in den Herzen der Menschen, die Vergebung empfangen
 
 Autor: Apostel Barnabas
 

@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 27
+# 1\. Apologie – Kapitel 27: Kindesaussetzung fördert jene Unzucht, die Christen meiden, ihre Ankläger aber betreiben und ihnen vorwerfen
 
 Autor: Justin der Märtyrer
 

@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 26
+# Physiologus – Kapitel 26: Wildesel und Affe versinnbildlichen den Teufel, der Bekehrte als Beute verliert und kein gutes Ende hat
 
 Autor: Unbekannt
 

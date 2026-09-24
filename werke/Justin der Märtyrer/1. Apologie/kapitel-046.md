@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 46
+# 1\. Apologie – Kapitel 46: Wer vernünftig lebte, war schon vor Christi Geburt Christ, denn alle Menschen haben am Logos teil
 
 Autor: Justin der Märtyrer
 

@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 8
+# Über die Sterblichkeit – Kapitel 8: Christen teilen die Krankheiten aller Menschen, solange sie dasselbe sterbliche Fleisch tragen
 
 Autor: Cyprian von Karthago
 

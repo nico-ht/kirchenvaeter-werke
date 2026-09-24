@@ -1,4 +1,4 @@
-# 11\. Taufunterweisung – Kapitel 26
+# 11\. Taufunterweisung – Kapitel 26: Eure Taufgelöbnisse sind die Mitgift für Christus, wenn ihr sie ein Leben lang bewahrt und befolgt
 
 Autor: Johannes Chrysostomus
 

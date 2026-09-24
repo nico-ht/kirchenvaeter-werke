@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 26
+# Über die Sterblichkeit – Kapitel 26: Im Paradies als unserer Heimat erwarten uns Christus und die vorausgegangenen Lieben
 
 Autor: Cyprian von Karthago
 

@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 5
+# Über die Unklarheit der Prophezeiungen – Kapitel 5: Der König verbrennt Jeremias Warnschrift und bestätigt die Gefahr offener Weissagung
 
 Autor: Johannes Chrysostomus
 

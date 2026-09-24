@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 24
+# Gegen Celsus, Buch 2 – Kapitel 24: Celsus’ verkürztes Zitat des Kelchgebets verschweigt Jesu bereitwilligen Gehorsam gegenüber dem Vater
 
 Autor: Origenes
 

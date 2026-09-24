@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 33
+# 4\. Taufunterweisung – Kapitel 33: Vorbildliches Leben mehrt die Gnade, erfreut die Kirche und verherrlicht den Meister
 
 Autor: Johannes Chrysostomus
 

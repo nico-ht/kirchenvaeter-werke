@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 37
+# Erkenntnisse, Buch 9 – Kapitel 37: Faustinianus und seine Frau sind wieder vereint, und Petrus bittet die Menge, sie allein zu lassen
 
 Autor: Clemens von Rom
 

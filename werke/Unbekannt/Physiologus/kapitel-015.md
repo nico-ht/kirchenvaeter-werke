@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 15
+# Physiologus – Kapitel 15: Sirenen und Eselszentauren zeigen, wie Weltlust verführt und äußere Frömmigkeit ein tierisches Leben verdeckt
 
 Autor: Unbekannt
 

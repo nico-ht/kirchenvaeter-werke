@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 11
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 11: Vespasian wartet ab: Jerusalems Bürgerzwietracht soll den Römern den Sieg ohne eigenes Kampfrisiko bereiten
 
 Autor: Unbekannt
 

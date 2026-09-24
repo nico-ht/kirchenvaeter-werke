@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 65
+# Gegen Celsus, Buch 1 – Kapitel 65: Jesus und seine Jünger dürfen wie Philosophen Verfolgung meiden und Unterstützung zum Lebensunterhalt annehmen
 
 Autor: Origenes
 

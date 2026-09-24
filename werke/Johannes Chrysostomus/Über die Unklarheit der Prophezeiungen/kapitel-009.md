@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 9
+# Über die Unklarheit der Prophezeiungen – Kapitel 9: Übersetzung erschwert das Verständnis der Propheten, eröffnet aber den Völkern den Zugang
 
 Autor: Johannes Chrysostomus
 

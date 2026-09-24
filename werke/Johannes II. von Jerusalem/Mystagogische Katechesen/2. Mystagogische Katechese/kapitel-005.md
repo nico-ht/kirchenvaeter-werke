@@ -1,4 +1,4 @@
-# 2\. Mystagogische Katechese – Kapitel 5
+# 2\. Mystagogische Katechese – Kapitel 5: Aus Menschenliebe schenkt Christus uns durch Nachahmung seiner Leiden Rettung ohne Schmerz und Mühe
 
 Autor: Johannes II\. von Jerusalem
 

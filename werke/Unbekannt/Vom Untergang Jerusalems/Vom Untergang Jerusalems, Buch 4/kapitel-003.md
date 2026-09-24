@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 3
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 3: Ein Sturmwind verhilft den Römern zum Sieg; in der eroberten Stadt wird niemand verschont
 
 Autor: Unbekannt
 

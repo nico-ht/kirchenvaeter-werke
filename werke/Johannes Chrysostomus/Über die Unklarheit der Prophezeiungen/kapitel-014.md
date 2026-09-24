@@ -1,4 +1,4 @@
-# Über die Unklarheit der Prophezeiungen – Kapitel 14
+# Über die Unklarheit der Prophezeiungen – Kapitel 14: Gottes Kunst zeigt sich in der Schönheit der Schöpfung; ihre Schwäche verbietet Anbetung
 
 Autor: Johannes Chrysostomus
 

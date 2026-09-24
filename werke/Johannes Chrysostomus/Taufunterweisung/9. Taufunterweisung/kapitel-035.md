@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 35
+# 9\. Taufunterweisung  – Kapitel 35: Zügle die Zunge hinter Zähnen und Lippen, damit sie nicht später vergeblich nach einem Tropfen Wasser verlangt
 
 Autor: Johannes Chrysostomus
 

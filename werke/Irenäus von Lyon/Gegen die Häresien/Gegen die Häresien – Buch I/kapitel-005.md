@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 5
+# Gegen die Häresien – Buch I – Kapitel 5: Wie Achamoth nach ihrer Lehre den unwissenden Demiurgen lenkt und dem Menschen das Geistige verleiht
 
 Autor: Irenäus von Lyon
 

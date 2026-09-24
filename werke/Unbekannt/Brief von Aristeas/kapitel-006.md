@@ -1,4 +1,4 @@
-# Brief von Aristeas – Kapitel 6
+# Brief von Aristeas – Kapitel 6: Die Reinheitsvorschriften erziehen durch Sinnbilder zu Gerechtigkeit und beständigem Gedenken an Gott
 
 Autor: Unbekannt
 

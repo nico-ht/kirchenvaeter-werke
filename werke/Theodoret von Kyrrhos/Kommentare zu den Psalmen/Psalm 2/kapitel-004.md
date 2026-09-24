@@ -1,4 +1,4 @@
-# Psalm 2 – Kapitel 4
+# Psalm 2 – Kapitel 4: Der Psalm unterscheidet Christus im Himmel vom Vater, der durch Roms Heer die Gegner straft
 
 Autor: Theodoret von Kyrrhos
 

@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 34
+# 1\. Apologie – Kapitel 34: Michas Weissagung von Christi Geburt in Bethlehem wird durch die Steueraufzeichnungen unter Cyrenius bestätigt
 
 Autor: Justin der Märtyrer
 

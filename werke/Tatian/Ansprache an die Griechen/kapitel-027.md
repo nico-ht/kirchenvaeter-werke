@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 27
+# Ansprache an die Griechen – Kapitel 27: Die Griechen lesen götterkritische Schriften, verurteilen Christen aber aufgrund ungeprüfter Vorurteile
 
 Autor: Tatian
 

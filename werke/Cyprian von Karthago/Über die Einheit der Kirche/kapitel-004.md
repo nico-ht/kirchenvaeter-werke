@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 4
+# Über die Einheit der Kirche – Kapitel 4: Christus begründet in Petrus die Einheit der Kirche, ohne die sich der Glaube nicht bewahren lässt
 
 Autor: Cyprian von Karthago
 

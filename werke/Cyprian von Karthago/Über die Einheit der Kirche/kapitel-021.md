@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 21
+# Über die Einheit der Kirche – Kapitel 21: Das Bekenntnis sichert noch nicht die Krone, sondern verpflichtet zu Demut und Treue bis ans Ende
 
 Autor: Cyprian von Karthago
 

@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 47
+# Gegen Celsus, Buch 1 – Kapitel 47: Wenn Josephus Jerusalems Fall mit Jakobus’ Tod erklärt, gilt dies erst recht für Jesu Tod
 
 Autor: Origenes
 

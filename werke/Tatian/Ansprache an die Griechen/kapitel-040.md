@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 40
+# Ansprache an die Griechen – Kapitel 40: Mose verdient als ältere Quelle mehr Glauben als die Griechen, die seine Lehren verfälschten
 
 Autor: Tatian
 

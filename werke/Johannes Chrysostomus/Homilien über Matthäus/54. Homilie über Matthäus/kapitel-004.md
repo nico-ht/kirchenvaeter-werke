@@ -1,4 +1,4 @@
-# 54\. Homilie über Matthäus – Kapitel 4
+# 54\. Homilie über Matthäus – Kapitel 4: Das Kreuz ist kein Grund zur Scham, sondern das Siegeszeichen unseres Heils und unserer Freiheit
 
 Autor: Johannes Chrysostomus
 

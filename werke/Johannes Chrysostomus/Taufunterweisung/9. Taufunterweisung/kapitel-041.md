@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 41
+# 9\. Taufunterweisung  – Kapitel 41: Nur die guten Taten der Heiligen sind nachzuahmen, denn auch sie stehen unter Gottes Gericht
 
 Autor: Johannes Chrysostomus
 

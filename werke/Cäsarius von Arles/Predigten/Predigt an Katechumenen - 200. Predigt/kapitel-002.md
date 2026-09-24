@@ -1,4 +1,4 @@
-# Predigt an Katechumenen \- 200\. Predigt – Kapitel 2
+# Predigt an Katechumenen \- 200\. Predigt – Kapitel 2: Wer in der Taufe Gottes Tempel werden will, muss sich von seiner alten Lebensweise reinigen
 
 Autor: Cäsarius von Arles
 

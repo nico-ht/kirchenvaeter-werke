@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 13
+# Gegen die Häresien – Buch I – Kapitel 13: Wie Markus und seine Schüler mit vorgetäuschten Geistesgaben Frauen verführen und ausbeuten
 
 Autor: Irenäus von Lyon
 

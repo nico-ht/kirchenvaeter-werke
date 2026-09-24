@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 19
+# Physiologus – Kapitel 19: Der Peridexionbaum mahnt, bei Vater, Sohn und Heiligem Geist zu bleiben, um dem Teufel zu entgehen
 
 Autor: Unbekannt
 

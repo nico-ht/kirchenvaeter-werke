@@ -1,4 +1,4 @@
-# 10\. Homilie über Matthäus – Kapitel 5
+# 10\. Homilie über Matthäus – Kapitel 5: Johannes’ Vorbild zeigt, dass Sündenbekenntnis und ein Leben in Üppigkeit unvereinbar sind
 
 Autor: Johannes Chrysostomus
 

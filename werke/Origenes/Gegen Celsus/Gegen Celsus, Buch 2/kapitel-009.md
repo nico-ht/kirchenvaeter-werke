@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 9
+# Gegen Celsus, Buch 2 – Kapitel 9: Der göttliche Logos ist mit Jesu Seele und Leib eins, aber nicht auf sie beschränkt
 
 Autor: Origenes
 

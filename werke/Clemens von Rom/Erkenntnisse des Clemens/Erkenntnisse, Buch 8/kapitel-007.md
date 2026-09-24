@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 7
+# Erkenntnisse, Buch 8 – Kapitel 7: Aus den Thesen des Alten erkennt Niceta seine philosophische Schule und ihre Folgerungen
 
 Autor: Clemens von Rom
 

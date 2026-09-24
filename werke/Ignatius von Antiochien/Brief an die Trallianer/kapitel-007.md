@@ -1,4 +1,4 @@
-# Brief an die Trallianer – Kapitel 7
+# Brief an die Trallianer – Kapitel 7: Wer ohne Bischof und den Rat der Presbyter und Diakone handelt, hat kein reines Gewissen
 
 Autor: Ignatius von Antiochien
 

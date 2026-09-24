@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 61
+# Nachweis der apostolischen Verkündigung – Kapitel 61: Wie der Glaube an Christus Menschen verwandelt und den künftigen Tierfrieden sinnbildlich vorwegnimmt
 
 Autor: Irenäus von Lyon
 

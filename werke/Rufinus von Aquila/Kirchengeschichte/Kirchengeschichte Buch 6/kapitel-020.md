@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 20
+# Kirchengeschichte Buch 6 – Kapitel 20: Der Briefwechsel gelehrter Kirchenmänner in der Jerusalemer Bibliothek dient als Quelle der Kirchengeschichte
 
 Autor: Rufinus von Aquila
 

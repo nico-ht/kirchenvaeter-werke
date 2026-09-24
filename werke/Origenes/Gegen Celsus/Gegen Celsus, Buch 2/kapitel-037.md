@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 37
+# Gegen Celsus, Buch 2 – Kapitel 37: Die Weissagung von Essig und Galle bezeugt mit anderen Prophezeiungen Jesus als Christus und Gottes Sohn
 
 Autor: Origenes
 

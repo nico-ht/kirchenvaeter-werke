@@ -1,4 +1,4 @@
-# 12\. Predigt zu Genesis – Kapitel 3
+# 12\. Predigt zu Genesis – Kapitel 3: In jedem Menschen ringen Laster und Tugenden, bis der Geist das Fleisch beherrscht
 
 Autor: Origenes
 

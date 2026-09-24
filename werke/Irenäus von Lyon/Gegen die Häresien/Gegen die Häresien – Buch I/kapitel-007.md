@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 7
+# Gegen die Häresien – Buch I – Kapitel 7: Nach ihrer Lehre gelangt Geistliches ins Pleroma, Seelisches kann im Zwischenort ruhen, Stoffliches vergeht
 
 Autor: Irenäus von Lyon
 

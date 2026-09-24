@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 70
+# Nachweis der apostolischen Verkündigung – Kapitel 70: Christi Leiden sind kein Grund zur Verachtung: Seine unaussprechliche Herkunft gebietet Ehrfurcht
 
 Autor: Irenäus von Lyon
 

@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 40
+# Kirchengeschichte Buch 6 – Kapitel 40: Dionysius von Alexandria bekennt unter schweren Leiden seinen Glauben und tritt seinen Verfolgern furchtlos entgegen
 
 Autor: Rufinus von Aquila
 

@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 87
+# Nachweis der apostolischen Verkündigung – Kapitel 87: Glaube und Liebe retten: In der Liebe zu Gott und zum Nächsten erfüllt sich das Gesetz
 
 Autor: Irenäus von Lyon
 

@@ -1,4 +1,4 @@
-# 1\. Mystagogische Katechese – Kapitel 1
+# 1\. Mystagogische Katechese – Kapitel 1: Die Taufmysterien werden erst nach ihrem Vollzug erklärt, weil Sehen verlässlicher ist als Hören
 
 Autor: Johannes II\. von Jerusalem
 

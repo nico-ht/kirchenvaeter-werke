@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 23
+# Diskurs über das Heil einer Jungfrau – Kapitel 23: Wer die Gebote hält, ist mit dem Öl guter Werke für die Ankunft des Bräutigams bereit
 
 Autor: Athanasius
 

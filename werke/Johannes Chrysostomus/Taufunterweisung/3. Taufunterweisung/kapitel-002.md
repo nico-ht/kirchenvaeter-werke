@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 2
+# 3\. Taufunterweisung  – Kapitel 2: Am Ende der Zeit verschwinden die Nachtsterne, doch die Gerechten leuchten umso heller
 
 Autor: Johannes Chrysostomus
 

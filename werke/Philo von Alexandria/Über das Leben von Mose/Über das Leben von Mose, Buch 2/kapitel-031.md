@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 31
+# Über das Leben von Mose, Buch 2 – Kapitel 31: Mose besänftigt Gott durch Fürbitte, bevor er zum abtrünnigen Volk hinabsteigt
 
 Autor: Philo von Alexandria
 

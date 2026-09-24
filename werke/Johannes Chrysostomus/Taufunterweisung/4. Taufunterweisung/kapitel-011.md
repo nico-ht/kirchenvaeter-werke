@@ -1,4 +1,4 @@
-# 4\. Taufunterweisung – Kapitel 11
+# 4\. Taufunterweisung – Kapitel 11: Die Getauften sollen Paulus nacheifern und die empfangene Gnade durch Eifer bewahren
 
 Autor: Johannes Chrysostomus
 

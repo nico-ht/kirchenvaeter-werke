@@ -1,4 +1,4 @@
-# 88\. Homilie über Matthäus – Kapitel 4
+# 88\. Homilie über Matthäus – Kapitel 4: Warum die Gemeinde ihre Laster überwinden muss, bevor sie den Glauben wirksam verteidigen kann
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 45
+# Gegen Celsus, Buch 1 – Kapitel 45: Die Weissagungen über Jesus begründen den Glauben an ihn und bestätigen zugleich Moses prophetische Sendung
 
 Autor: Origenes
 

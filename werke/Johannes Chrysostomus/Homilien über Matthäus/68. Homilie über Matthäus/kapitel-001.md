@@ -1,4 +1,4 @@
-# 68\. Homilie über Matthäus – Kapitel 1
+# 68\. Homilie über Matthäus – Kapitel 1: Gottes Fürsorge und Langmut machen den Mord der Winzer an seinem Sohn unentschuldbar
 
 Autor: Johannes Chrysostomus
 

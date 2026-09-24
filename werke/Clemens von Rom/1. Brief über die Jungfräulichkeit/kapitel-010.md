@@ -1,4 +1,4 @@
-# 1\. Brief über die Jungfräulichkeit – Kapitel 10
+# 1\. Brief über die Jungfräulichkeit – Kapitel 10: Gefährliche Nähe zu Jungfrauen und Müßiggang unter frommem Vorwand bringen Christen in Verruf
 
 Autor: Clemens von Rom
 

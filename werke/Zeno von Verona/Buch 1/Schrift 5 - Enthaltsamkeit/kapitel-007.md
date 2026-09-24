@@ -1,4 +1,4 @@
-# Schrift 5 \- Enthaltsamkeit – Kapitel 7
+# Schrift 5 \- Enthaltsamkeit – Kapitel 7: Wer sich als Christin mit einem Heiden verbindet, entweiht Gottes Tempel und liefert sich dem Teufel aus
 
 Autor: Zeno von Verona
 

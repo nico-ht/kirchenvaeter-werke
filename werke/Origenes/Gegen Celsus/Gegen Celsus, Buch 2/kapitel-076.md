@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 76
+# Gegen Celsus, Buch 2 – Kapitel 76: Jesu Drohworte dienen wie die der Propheten der Umkehr und sind kein Beweis mangelnder Überzeugungskraft
 
 Autor: Origenes
 

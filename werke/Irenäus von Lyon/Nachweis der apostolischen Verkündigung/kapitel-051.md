@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 51
+# Nachweis der apostolischen Verkündigung – Kapitel 51: Gottes Sohn besteht schon vor seiner Geburt und wird Mensch zum Heil der Glaubenden aus Israel und den Völkern
 
 Autor: Irenäus von Lyon
 

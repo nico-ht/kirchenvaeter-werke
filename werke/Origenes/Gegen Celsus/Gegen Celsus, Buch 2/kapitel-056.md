@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 56
+# Gegen Celsus, Buch 2 – Kapitel 56: Jesu öffentlicher Tod widerlegt den Heroenvergleich; der Mut der Jünger bezeugt seine Auferstehung
 
 Autor: Origenes
 

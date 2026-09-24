@@ -1,4 +1,4 @@
-# Predigt an Katechumenen \- 200\. Predigt – Kapitel 3
+# Predigt an Katechumenen \- 200\. Predigt – Kapitel 3: Wer Gottes Barmherzigkeit in der Taufe empfangen will, muss vergeben und begangenes Unrecht wiedergutmachen
 
 Autor: Cäsarius von Arles
 

@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 2
+# Über das Leben von Mose, Buch 2 – Kapitel 2: Mose vereint alle Tugenden des vollkommenen Gesetzgebers und offenbart sie in seinen Gesetzen
 
 Autor: Philo von Alexandria
 

@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 51
+# Über das Leben von Mose, Buch 2 – Kapitel 51: Noch zu Lebzeiten weissagt Mose seinen Tod und seine Bestattung durch unsterbliche Mächte
 
 Autor: Philo von Alexandria
 

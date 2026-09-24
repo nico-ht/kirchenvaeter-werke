@@ -1,4 +1,4 @@
-# Predigt über die Scheidung – Kapitel 5
+# Predigt über die Scheidung – Kapitel 5: Gottes Gesetze und menschliches Recht schützen die Frau vor ungerechter Scheidung
 
 Autor: Asterius von Amaseia
 

@@ -1,4 +1,4 @@
-# 22\. Homilie über Matthäus – Kapitel 1
+# 22\. Homilie über Matthäus – Kapitel 1: Gott schmückt selbst vergängliche Lilien und sorgt erst recht für die nötige Kleidung des Menschen
 
 Autor: Johannes Chrysostomus
 

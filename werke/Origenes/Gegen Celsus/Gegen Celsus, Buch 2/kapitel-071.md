@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 71
+# Gegen Celsus, Buch 2 – Kapitel 71: Jesus offenbart den Vater und führt die Frommen zum Licht, die Sünder aber wird er bestrafen
 
 Autor: Origenes
 

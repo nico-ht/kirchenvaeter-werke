@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 36
+# 1\. Apologie – Kapitel 36: In den Propheten spricht das göttliche Wort in verschiedenen Rollen, nicht die Propheten selbst
 
 Autor: Justin der Märtyrer
 

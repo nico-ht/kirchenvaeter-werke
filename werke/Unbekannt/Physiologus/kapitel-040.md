@@ -1,4 +1,4 @@
-# Physiologus – Kapitel 40
+# Physiologus – Kapitel 40: Der Echinemon wappnet sich mit Schlamm: Christus nimmt einen Leib von Maria an und besiegt den Teufel
 
 Autor: Unbekannt
 

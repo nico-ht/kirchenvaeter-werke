@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 36
+# Kirchengeschichte Buch 6 – Kapitel 36: Mit sechzig erlaubt Origenes Predigtmitschriften und verteidigt den Glauben in Schriften und Briefen
 
 Autor: Rufinus von Aquila
 

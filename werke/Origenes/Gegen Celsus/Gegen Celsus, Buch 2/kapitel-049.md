@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 49
+# Gegen Celsus, Buch 2 – Kapitel 49: Jesu Warnung vor falschen Christussen setzt seine Wunder nicht mit Zauberei gleich
 
 Autor: Origenes
 

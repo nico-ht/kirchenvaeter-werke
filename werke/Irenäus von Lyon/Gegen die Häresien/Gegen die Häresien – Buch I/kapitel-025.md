@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 25
+# Gegen die Häresien – Buch I – Kapitel 25: Karpokrates’ Anhänger erklären selbst Frevel für notwendig, um die Seele von den Weltschöpfern zu befreien
 
 Autor: Irenäus von Lyon
 

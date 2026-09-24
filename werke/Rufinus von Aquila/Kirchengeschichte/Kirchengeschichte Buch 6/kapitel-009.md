@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 6 – Kapitel 9
+# Kirchengeschichte Buch 6 – Kapitel 9: Das Ölwunder und die göttliche Bestrafung seiner Verleumder bezeugen Narcissus’ Tugend
 
 Autor: Rufinus von Aquila
 

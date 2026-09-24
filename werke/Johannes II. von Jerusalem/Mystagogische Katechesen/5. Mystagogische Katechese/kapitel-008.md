@@ -1,4 +1,4 @@
-# 5\. Mystagogische Katechese – Kapitel 8
+# 5\. Mystagogische Katechese – Kapitel 8: Beim Opfer der Versöhnung bitten wir Gott für Kirche und Welt und für alle, die Hilfe brauchen
 
 Autor: Johannes II\. von Jerusalem
 

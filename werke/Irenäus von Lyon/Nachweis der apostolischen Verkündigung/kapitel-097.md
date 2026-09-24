@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 97
+# Nachweis der apostolischen Verkündigung – Kapitel 97: Der Sohn Gottes bringt uns das Heil, indem er den Menschen mit dem Geist des Vaters verbindet
 
 Autor: Irenäus von Lyon
 

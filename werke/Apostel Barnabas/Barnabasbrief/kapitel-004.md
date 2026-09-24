@@ -1,4 +1,4 @@
-# Barnabasbrief – Kapitel 4
+# Barnabasbrief – Kapitel 4: Die Berufung allein rettet nicht: In den letzten Tagen gilt es, Gottes Gebote zu bewahren
 
 Autor: Apostel Barnabas
 

@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 11
+# 1\. Apologie – Kapitel 11: Das Bekenntnis trotz Todesstrafe zeigt: Christen hoffen auf Gottes Reich, nicht auf ein irdisches
 
 Autor: Justin der Märtyrer
 

@@ -1,4 +1,4 @@
-# 1\. Apologie – Kapitel 56
+# 1\. Apologie – Kapitel 56: Nach Christi Erscheinen täuschen Dämonen durch Simon und Menander – Rom soll Simons Verehrung als Gott überprüfen
 
 Autor: Justin der Märtyrer
 

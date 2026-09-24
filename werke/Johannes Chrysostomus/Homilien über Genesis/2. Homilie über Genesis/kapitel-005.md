@@ -1,4 +1,4 @@
-# 2\. Homilie über Genesis – Kapitel 5
+# 2\. Homilie über Genesis – Kapitel 5: Mose berichtet durch Gottes Offenbarung von der Schöpfung, die menschliches Denken nicht ergründen kann
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# 41\. Homilie über Matthäus – Kapitel 4
+# 41\. Homilie über Matthäus – Kapitel 4: Wer sich selbst richtet und in Reue umkehrt, erlangt Vergebung statt Strafe
 
 Autor: Johannes Chrysostomus
 

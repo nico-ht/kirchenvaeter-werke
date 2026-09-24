@@ -1,4 +1,4 @@
-# 3\. Taufunterweisung  – Kapitel 4
+# 3\. Taufunterweisung  – Kapitel 4: Die Sterne auf Erden sind vom Feuer des Geistes erfüllt und allesamt Morgensterne
 
 Autor: Johannes Chrysostomus
 

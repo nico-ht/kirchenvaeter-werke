@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 49
+# Über das Leben von Mose, Buch 2 – Kapitel 49: Aus göttlicher Eingebung befiehlt Mose, die Verehrer des goldenen Kalbes auch unter den Nächsten zu töten
 
 Autor: Philo von Alexandria
 

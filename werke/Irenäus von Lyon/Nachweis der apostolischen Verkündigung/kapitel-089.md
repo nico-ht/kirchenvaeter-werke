@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 89
+# Nachweis der apostolischen Verkündigung – Kapitel 89: Das Wort führt die Erlösten nicht zum Gesetz des Mose zurück, sondern durch den Geist in neues Leben
 
 Autor: Irenäus von Lyon
 

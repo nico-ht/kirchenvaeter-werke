@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 33
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 33: Vespasian überträgt Titus den Krieg in Judäa, um selbst seine Herrschaft in Rom zu sichern
 
 Autor: Unbekannt
 

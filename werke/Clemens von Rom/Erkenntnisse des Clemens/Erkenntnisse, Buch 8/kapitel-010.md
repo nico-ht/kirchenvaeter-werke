@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 8 – Kapitel 10
+# Erkenntnisse, Buch 8 – Kapitel 10: Eine selbsterschaffene Welt ließe weder Vorsehung noch Vergeltung erwarten
 
 Autor: Clemens von Rom
 

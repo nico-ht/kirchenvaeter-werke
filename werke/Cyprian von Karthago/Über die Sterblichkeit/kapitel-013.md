@@ -1,4 +1,4 @@
-# Über die Sterblichkeit – Kapitel 13
+# Über die Sterblichkeit – Kapitel 13: Gottes Kraft wird in der Schwäche vollendet, wenn der Glaube der Prüfung standhält
 
 Autor: Cyprian von Karthago
 

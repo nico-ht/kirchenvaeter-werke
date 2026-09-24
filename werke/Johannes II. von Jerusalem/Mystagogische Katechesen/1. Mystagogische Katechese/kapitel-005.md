@@ -1,4 +1,4 @@
-# 1\. Mystagogische Katechese – Kapitel 5
+# 1\. Mystagogische Katechese – Kapitel 5: Wer Satans Werken entsagt, verpflichtet sich vor Gott, jede Sünde in Tat und Gedanken zu meiden
 
 Autor: Johannes II\. von Jerusalem
 

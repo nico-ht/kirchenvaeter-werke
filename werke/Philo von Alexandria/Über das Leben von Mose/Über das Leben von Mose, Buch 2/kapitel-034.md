@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 34
+# Über das Leben von Mose, Buch 2 – Kapitel 34: Die Mandel zeigt den mühevollen Weg zur Tugend, der Mandelbaum die dauerhafte Blüte des priesterlichen Stammes
 
 Autor: Philo von Alexandria
 

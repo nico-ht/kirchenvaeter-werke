@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 29
+# Gegen Celsus, Buch 1 – Kapitel 29: Jesu weltweite Wirkung trotz Armut und geringer Herkunft bezeugt seine eigene Größe
 
 Autor: Origenes
 

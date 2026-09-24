@@ -1,4 +1,4 @@
-# Brief an die Philipper – Kapitel 12
+# Brief an die Philipper – Kapitel 12: Die Gemeinde soll Valens und seine Frau zur Umkehr zurückrufen, statt sie als Feinde zu behandeln
 
 Autor: Polykarp
 

@@ -1,4 +1,4 @@
-# 81\. Homilie über Matthäus – Kapitel 3
+# 81\. Homilie über Matthäus – Kapitel 3: Geldgier ist schlimmer als Besessenheit: Sie verwundet die eigene Seele und treibt andere in Armut
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Erkenntnisse, Buch 9 – Kapitel 30
+# Erkenntnisse, Buch 9 – Kapitel 30: Gottes Gerechtigkeit schließt aus, dass das Geburtsschicksal zur Sünde zwingt
 
 Autor: Clemens von Rom
 

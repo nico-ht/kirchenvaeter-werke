@@ -1,4 +1,4 @@
-# Über die Einheit der Kirche – Kapitel 13
+# Über die Einheit der Kirche – Kapitel 13: Wer die Gemeinschaft mit den Brüdern bricht, findet weder Frieden mit Gott noch Gemeinschaft mit Christus
 
 Autor: Cyprian von Karthago
 

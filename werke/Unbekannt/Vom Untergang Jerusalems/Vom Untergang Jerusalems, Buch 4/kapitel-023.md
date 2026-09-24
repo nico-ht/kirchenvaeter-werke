@@ -1,4 +1,4 @@
-# Vom Untergang Jerusalems, Buch 4 – Kapitel 23
+# Vom Untergang Jerusalems, Buch 4 – Kapitel 23: Jakobs Verrat liefert Simon Idumäa aus; mit grausamen Drohungen erzwingt er die Rückgabe seiner Frau
 
 Autor: Unbekannt
 

@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch IV – Kapitel 34
+# Gegen die Häresien – Buch IV – Kapitel 34: Dass allein Christus die Weissagungen erfüllt, erweist den Gott der Propheten als seinen Vater
 
 Autor: Irenäus von Lyon
 

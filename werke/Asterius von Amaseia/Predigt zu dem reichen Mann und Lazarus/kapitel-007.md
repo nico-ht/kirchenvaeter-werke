@@ -1,4 +1,4 @@
-# Predigt zu dem reichen Mann und Lazarus – Kapitel 7
+# Predigt zu dem reichen Mann und Lazarus – Kapitel 7: Nicht biblische Szenen auf Gewändern darstellen, sondern Barmherzigkeit üben und die eigenen Sünden bereuen
 
 Autor: Asterius von Amaseia
 

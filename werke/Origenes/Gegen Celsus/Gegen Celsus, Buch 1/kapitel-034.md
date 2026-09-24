@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 1 – Kapitel 34
+# Gegen Celsus, Buch 1 – Kapitel 34: Warum Jesajas Immanuel\-Weissagung auch bei der Lesart „junge Frau“ eine Jungfrauengeburt ankündigt
 
 Autor: Origenes
 

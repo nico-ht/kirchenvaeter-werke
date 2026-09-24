@@ -1,4 +1,4 @@
-# Nachweis der apostolischen Verkündigung – Kapitel 86
+# Nachweis der apostolischen Verkündigung – Kapitel 86: Erfüllte Weissagungen begründen den Glauben an Christus und bestätigen die weltweite Verkündigung der Apostel
 
 Autor: Irenäus von Lyon
 

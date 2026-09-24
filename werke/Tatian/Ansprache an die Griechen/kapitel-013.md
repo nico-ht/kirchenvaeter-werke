@@ -1,4 +1,4 @@
-# Ansprache an die Griechen – Kapitel 13
+# Ansprache an die Griechen – Kapitel 13: Die sterbliche Seele kann durch die Verbindung mit Gottes Geist dem Tod entgehen
 
 Autor: Tatian
 

@@ -1,4 +1,4 @@
-# 2\. Homilie über Matthäus – Kapitel 5
+# 2\. Homilie über Matthäus – Kapitel 5: Wer mitten im weltlichen Leben steht, braucht die Heilmittel der Schrift noch mehr als Mönche
 
 Autor: Johannes Chrysostomus
 

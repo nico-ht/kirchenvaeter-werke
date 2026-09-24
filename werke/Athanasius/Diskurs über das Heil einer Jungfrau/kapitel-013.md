@@ -1,4 +1,4 @@
-# Diskurs über das Heil einer Jungfrau – Kapitel 13
+# Diskurs über das Heil einer Jungfrau – Kapitel 13: Gebet heiligt das Mahl; die Jungfrau soll mit Gottesfürchtigen essen und Arme ohne Scheu einladen
 
 Autor: Athanasius
 

@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 3
+# Über das Leben von Mose, Buch 2 – Kapitel 3: Die Beständigkeit der hebräischen Gesetze in allen Umbrüchen bezeugt ihren göttlichen Charakter
 
 Autor: Philo von Alexandria
 

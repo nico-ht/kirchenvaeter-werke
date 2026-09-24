@@ -1,4 +1,4 @@
-# 2\. Mystagogische Katechese – Kapitel 3
+# 2\. Mystagogische Katechese – Kapitel 3: Das exorzisierte Öl bezeichnet die Teilhabe an Christus, reinigt von Sünden und vertreibt böse Mächte
 
 Autor: Johannes II\. von Jerusalem
 

@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 10
+# Über das Leben von Mose, Buch 2 – Kapitel 10: Gott vernichtet die Lasterhaften durch Wasser und Feuer und verschont, wer ihre Verfehlungen nicht teilt
 
 Autor: Philo von Alexandria
 

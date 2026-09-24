@@ -1,4 +1,4 @@
-# Gegen die Häresien – Buch I – Kapitel 3
+# Gegen die Häresien – Buch I – Kapitel 3: Wie die Schrift durch verdrehte Auslegung der Äonenlehre angepasst wird
 
 Autor: Irenäus von Lyon
 

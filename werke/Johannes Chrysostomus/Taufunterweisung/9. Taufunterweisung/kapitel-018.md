@@ -1,4 +1,4 @@
-# 9\. Taufunterweisung  – Kapitel 18
+# 9\. Taufunterweisung  – Kapitel 18: Der Nachweis geht über die Reinigung hinaus: Das Taufbad macht auch heilig und gerecht
 
 Autor: Johannes Chrysostomus
 

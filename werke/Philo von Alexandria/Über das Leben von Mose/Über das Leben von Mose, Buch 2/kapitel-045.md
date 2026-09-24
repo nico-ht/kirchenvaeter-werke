@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 45
+# Über das Leben von Mose, Buch 2 – Kapitel 45: Zwischen dem Roten Meer und Ägyptens Heer verzweifeln die Hebräer an ihrer Rettung
 
 Autor: Philo von Alexandria
 

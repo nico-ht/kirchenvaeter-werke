@@ -1,4 +1,4 @@
-# 2\. Brief über die Jungfräulichkeit – Kapitel 2
+# 2\. Brief über die Jungfräulichkeit – Kapitel 2: Die Gastdienste übernehmen nur Brüder; Frauen werden in gemeinsamer Versammlung unterwiesen
 
 Autor: Clemens von Rom
 

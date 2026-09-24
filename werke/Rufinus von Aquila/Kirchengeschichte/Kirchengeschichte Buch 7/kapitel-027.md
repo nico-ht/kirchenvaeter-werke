@@ -1,4 +1,4 @@
-# Kirchengeschichte Buch 7 – Kapitel 27
+# Kirchengeschichte Buch 7 – Kapitel 27: Gregor wirkt in Gottes Kraft Wunder und bekennt die ewige, ungeteilte Dreieinigkeit
 
 Autor: Rufinus von Aquila
 

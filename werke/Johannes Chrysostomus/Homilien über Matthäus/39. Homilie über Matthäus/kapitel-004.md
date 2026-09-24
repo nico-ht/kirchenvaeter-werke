@@ -1,4 +1,4 @@
-# 39\. Homilie über Matthäus – Kapitel 4
+# 39\. Homilie über Matthäus – Kapitel 4: Die Taufe allein genügt nicht: Gottes Gnade hilft, den Weg der Tugend bis zum Ziel zu gehen
 
 Autor: Johannes Chrysostomus
 

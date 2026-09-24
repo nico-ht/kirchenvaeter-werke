@@ -1,4 +1,4 @@
-# 2\. Brief über die Jungfräulichkeit – Kapitel 1
+# 2\. Brief über die Jungfräulichkeit – Kapitel 1: Getrennt von Jungfrauen leben, bei Brüdern einkehren und sie zu guten Werken ermutigen
 
 Autor: Clemens von Rom
 

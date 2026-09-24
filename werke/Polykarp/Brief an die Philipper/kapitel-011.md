@@ -1,4 +1,4 @@
-# Brief an die Philipper – Kapitel 11
+# Brief an die Philipper – Kapitel 11: Christen sollen einander sanftmütig lieben und Gutes tun, damit der Herr nicht geschmäht wird
 
 Autor: Polykarp
 

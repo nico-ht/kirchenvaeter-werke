@@ -1,4 +1,4 @@
-# Über das Leben von Mose, Buch 2 – Kapitel 13
+# Über das Leben von Mose, Buch 2 – Kapitel 13: Moses vollendete Frömmigkeit macht ihn des priesterlichen Dienstes an Gott würdig
 
 Autor: Philo von Alexandria
 

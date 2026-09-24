@@ -1,4 +1,4 @@
-# Gegen Celsus, Buch 2 – Kapitel 44
+# Gegen Celsus, Buch 2 – Kapitel 44: Jesu heilsames Wirken und das Glaubenszeugnis seiner Jünger widerlegen den Vergleich mit verurteilten Verbrechern
 
 Autor: Origenes
 
