@@ -1,4 +1,4 @@
-# Über die Verschleierung von Jungfrauen – Kapitel 17
+# Über die Verschleierung von Jungfrauen – Kapitel 17: Tertullians abschließende Mahnung: Den Schleier vollständig und zu jeder Zeit tragen
 
 Autor: Tertullian
 
