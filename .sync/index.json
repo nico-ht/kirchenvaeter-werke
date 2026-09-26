@@ -25,7 +25,7 @@
     "authorName": "Amphilochius von Ikonion",
     "title": "Über die sündige Frau",
     "directory": "werke/Amphilochius von Ikonion/Über die sündige Frau",
-    "contentRevision": "sha256:b608e5a71a9883905cecdf430349beedcff5e53c270a17e5f80617552fe97e78"
+    "contentRevision": "sha256:35d3153ab98ae31eb749012a77140b9334575483549acad3f4ca9fd8620b3684"
   },
   {
     "workId": "5b869eb5-2975-44f3-91f2-08dd3742007d",
@@ -39,7 +39,7 @@
     "authorName": "Apostel Barnabas",
     "title": "Barnabasbrief",
     "directory": "werke/Apostel Barnabas/Barnabasbrief",
-    "contentRevision": "sha256:49d186006176b4743052c734193aeb6b81adc856139ce0df8a4c1b307b63d497"
+    "contentRevision": "sha256:d15d23977702aa0df0c035e4fc42c9b1962afde0efe672d22522b7f3b3572e47"
   },
   {
     "workId": "d0b84c3a-620a-455f-6745-08dd08ce8c1c",
@@ -53,14 +53,14 @@
     "authorName": "Apostolische Werke",
     "title": "Didache",
     "directory": "werke/Apostolische Werke/Didache",
-    "contentRevision": "sha256:b60301ade9f12e55686d5ff4854407ba59be589ea7758b5e97ccb216fdfedde8"
+    "contentRevision": "sha256:ef3c50824d4488ea12342b87fda391517b54ffd0223827faeca8a57e8ee4544e"
   },
   {
     "workId": "a94f0791-1c85-44ab-ad2b-08deb5f20bc2",
     "authorName": "Apostolische Werke",
     "title": "Didascalia Apostolorum",
     "directory": "werke/Apostolische Werke/Didascalia Apostolorum",
-    "contentRevision": "sha256:d01f75a410ad42723b4409033e3961af54d26063e41f290d9f2d38a22170935c"
+    "contentRevision": "sha256:f28d85e5e4e1c6c650c4e4a53232569dfcb9f8bf5ef057f861f38ae245664f10"
   },
   {
     "workId": "ef3ef0f4-cdf8-43f7-6f2c-08deb5b3884d",
@@ -88,7 +88,7 @@
     "authorName": "Athanasius",
     "title": "Das Leben des Heiligen Antonius",
     "directory": "werke/Athanasius/Das Leben des Heiligen Antonius",
-    "contentRevision": "sha256:a0d307f565ee4ffa1db1f1fa89b53eba29082dae660f3663c07e409f09ce3f7b"
+    "contentRevision": "sha256:05e0e39a53e4a0895b087d29b285518c50b33277607af0bee3659aee59e30e5a"
   },
   {
     "workId": "aa361579-e13b-4813-6755-08dd856f49a5",
@@ -123,7 +123,7 @@
     "authorName": "Athenagoras von Athen",
     "title": "Über die Auferstehung der Toten",
     "directory": "werke/Athenagoras von Athen/Über die Auferstehung der Toten",
-    "contentRevision": "sha256:74686c3785339a579cdb3ce366795daa975108ebbef5729a70f7b34730c685fa"
+    "contentRevision": "sha256:be15140f88162c698a1d7dd38b67765926f485312e096eb14bea21938da2db2e"
   },
   {
     "workId": "58765e75-22c3-474e-7958-08df04fdf8e1",
@@ -151,7 +151,7 @@
     "authorName": "Basilius der Große",
     "title": "Brief 22 - Wie ein Christ leben muss",
     "directory": "werke/Basilius der Große/Briefe/Brief 22 - Wie ein Christ leben muss",
-    "contentRevision": "sha256:0f37f4f8831c036a07a069cd39d5ad2d088b03d0a713843911911c180cf8ec2d"
+    "contentRevision": "sha256:a8d3569a3695b33c7b3aebb9a7f641dd206e6dc5074ed5223ff72b9f77589ad2"
   },
   {
     "workId": "8471854f-a944-4121-4fe0-08dd3d7c5813",
@@ -214,7 +214,7 @@
     "authorName": "Clemens von Alexandria",
     "title": "Welcher Reiche wird gerettet werden?",
     "directory": "werke/Clemens von Alexandria/Welcher Reiche wird gerettet werden",
-    "contentRevision": "sha256:833208941ce994dab3af66618efe883ead9f51dab77df031726a9e8644230280"
+    "contentRevision": "sha256:efd554fe76d66d8cc67fb5ee415a3a2d98e36d2cee9e3c43c873e2fe8a037b1a"
   },
   {
     "workId": "2c63e835-acc5-4912-726e-08dd13dac526",
@@ -228,7 +228,7 @@
     "authorName": "Clemens von Rom",
     "title": "1. Clemensbrief",
     "directory": "werke/Clemens von Rom/1. Clemensbrief",
-    "contentRevision": "sha256:d43c9cebddb3e592a1745fb07a1380448f436532fd402df01c76d2af06b81ce5"
+    "contentRevision": "sha256:13c0c64226bae503a0ccb21e949142a502427d1c80329a273868a925c2b1cee8"
   },
   {
     "workId": "2eedf9dd-e4a5-4800-726f-08dd13dac526",
@@ -256,14 +256,14 @@
     "authorName": "Clemens von Rom",
     "title": "Erkenntnisse, Buch 10",
     "directory": "werke/Clemens von Rom/Erkenntnisse des Clemens/Erkenntnisse, Buch 10",
-    "contentRevision": "sha256:3fae1cc67b42125e7ffe99444373ee7c124cbc8ae97941f806f494671df6e57a"
+    "contentRevision": "sha256:43782d8926e8668422a8abd8e63ae3505390117e6237ee96c955c31c9eebef73"
   },
   {
     "workId": "93f79cbd-b952-43c0-e4cc-08dd0635942f",
     "authorName": "Clemens von Rom",
     "title": "Erkenntnisse, Buch 2",
     "directory": "werke/Clemens von Rom/Erkenntnisse des Clemens/Erkenntnisse, Buch 2",
-    "contentRevision": "sha256:cc032073145ecfe2bbf0a4e11da368f77b4c69ac5a07ff3d0ab0a4e96b057018"
+    "contentRevision": "sha256:7107a8a4d7b7b431d9b6b7ccc381a74aa8390d82a762c04b47885cb7ea0738a5"
   },
   {
     "workId": "d060d1b8-16ed-4e08-e4cd-08dd0635942f",
@@ -305,7 +305,7 @@
     "authorName": "Clemens von Rom",
     "title": "Erkenntnisse, Buch 8",
     "directory": "werke/Clemens von Rom/Erkenntnisse des Clemens/Erkenntnisse, Buch 8",
-    "contentRevision": "sha256:84fd513852c7aba598268cf379f1d0143847bcb92465270cb9fa9e486921fe8f"
+    "contentRevision": "sha256:67419ab46e6b4016cb97d79412ed38f8f9bd13b24aea8df4c2d81692b53383d8"
   },
   {
     "workId": "0a885c41-2a1f-4f63-e4d3-08dd0635942f",
@@ -313,6 +313,13 @@
     "title": "Erkenntnisse, Buch 9",
     "directory": "werke/Clemens von Rom/Erkenntnisse des Clemens/Erkenntnisse, Buch 9",
     "contentRevision": "sha256:11cd5caafebca500d85f221e308f726cf0e50aef356993a27e5ce3d0ad9f659d"
+  },
+  {
+    "workId": "264244c0-625b-4ca5-1aee-08dee57549b8",
+    "authorName": "Cyprian von Karthago",
+    "title": "An Demetrianus (Ad Demetrianum)",
+    "directory": "werke/Cyprian von Karthago/An Demetrianus (Ad Demetrianum)",
+    "contentRevision": "sha256:fc85160dd08bb4b7dd865110cb9db3ea5f0799559eec37b980cc2ae080d6ac1a"
   },
   {
     "workId": "ecafd7ee-d7c2-4173-e276-08dd2f5b6104",
@@ -333,14 +340,14 @@
     "authorName": "Cyprian von Karthago",
     "title": "Über die Einheit der Kirche",
     "directory": "werke/Cyprian von Karthago/Über die Einheit der Kirche",
-    "contentRevision": "sha256:b3d993140a51bec58a4b4d5f3b31f39b823cd2672453ad30c005b348a5342204"
+    "contentRevision": "sha256:d986d501e2d0f756986658f31e400c70d89520b7d8aee953ff95a60724a0d773"
   },
   {
     "workId": "3a1119bb-7adb-4c0c-ccc6-08dd2abb5377",
     "authorName": "Cyprian von Karthago",
     "title": "Über die Sterblichkeit",
     "directory": "werke/Cyprian von Karthago/Über die Sterblichkeit",
-    "contentRevision": "sha256:6267efa8d5307b2ae5ea69b0c94c65a38f2bd05c00fa063b6b6b3866affafbbf"
+    "contentRevision": "sha256:5e08a5051b966478a29eb038eda8013a532ff9a15ebe670cb5db8ea393bfe98a"
   },
   {
     "workId": "32f88a56-d71e-4c65-e777-08de08d551ab",
@@ -438,7 +445,7 @@
     "authorName": "Gregor der Große",
     "title": "Hirtenregel, Buch 3",
     "directory": "werke/Gregor der Große/Die Hirtenregeln/Hirtenregel, Buch 3",
-    "contentRevision": "sha256:a8bd7f3118b9979839ff369e35fdeb3d521d3b15bc2c42301bb8547aa6346ad3"
+    "contentRevision": "sha256:06d8eddb8c152a24cec7aa6a7d1af5df83c8ca9d8b24bdc5a16251d6f1519047"
   },
   {
     "workId": "834c85f9-3876-4433-b0da-08defd4c3bc2",
@@ -529,7 +536,7 @@
     "authorName": "Hippolytus",
     "title": "Die Apostolische Tradition",
     "directory": "werke/Hippolytus/Die Apostolische Tradition",
-    "contentRevision": "sha256:73162a7e2ca2d44b7e31a5478a6569305e8277954c0aabf31a433b87c26d2472"
+    "contentRevision": "sha256:650424ab890873dbd396f00e30a16995f5edf45bef1f365e5884df874b65be40"
   },
   {
     "workId": "3ef06971-e62f-4f35-8a4f-08dd149b6b1e",
@@ -571,7 +578,7 @@
     "authorName": "Irenäus von Lyon",
     "title": "Gegen die Häresien – Buch I",
     "directory": "werke/Irenäus von Lyon/Gegen die Häresien/Gegen die Häresien – Buch I",
-    "contentRevision": "sha256:22f55cd29aa2465b5bde80f3e77485165882b8ae92af200b9cbaecce4fd159d4"
+    "contentRevision": "sha256:234b69a7785402dd0a970b663f247bed7c870d82e68dca56b4af5c651df7936c"
   },
   {
     "workId": "dcd2890b-6c8d-4699-58eb-08def5890780",
@@ -585,28 +592,28 @@
     "authorName": "Irenäus von Lyon",
     "title": "Gegen die Häresien – Buch III",
     "directory": "werke/Irenäus von Lyon/Gegen die Häresien/Gegen die Häresien – Buch III",
-    "contentRevision": "sha256:1160223aa38aaac99ad020d976dfdcb3549901d34cf8cf9ade1e2f8a9062c393"
+    "contentRevision": "sha256:40df7edc4a118f69514af055e8221c99e606eb79c3d8c77b9b970d3ab2e489e6"
   },
   {
     "workId": "3052a516-7685-4c41-58ed-08def5890780",
     "authorName": "Irenäus von Lyon",
     "title": "Gegen die Häresien – Buch IV",
     "directory": "werke/Irenäus von Lyon/Gegen die Häresien/Gegen die Häresien – Buch IV",
-    "contentRevision": "sha256:3a782d83e8c22cfae09993323d22823b34be1ffe60646fbc559928dd2ccf61c3"
+    "contentRevision": "sha256:e8ddc0e09c8c2ed16fc9e0e6f0ecc3905ceaaaca1cade5fa65abcb035becdbc5"
   },
   {
     "workId": "9e628aca-981b-4090-58ee-08def5890780",
     "authorName": "Irenäus von Lyon",
     "title": "Gegen die Häresien – Buch V",
     "directory": "werke/Irenäus von Lyon/Gegen die Häresien/Gegen die Häresien – Buch V",
-    "contentRevision": "sha256:250325f1e372c70bb8696a4ff23711d8e02823f420b20254bfedf35a03bfc0bb"
+    "contentRevision": "sha256:f84ef6dddaa14e8f16f92d78c9cf85c21097363da9c53f5c4d6e804a2b1bf2b6"
   },
   {
     "workId": "0ffadd7d-8034-4b9b-d8a1-08dea9477bef",
     "authorName": "Irenäus von Lyon",
     "title": "Nachweis der apostolischen Verkündigung",
     "directory": "werke/Irenäus von Lyon/Nachweis der apostolischen Verkündigung",
-    "contentRevision": "sha256:172524c244275a6ac031db841b79155ad12c38b10d45eeeb0a0ffe96c40229db"
+    "contentRevision": "sha256:5d2e09b80cebda8743daf6446fc98df6492d8e206696c59953eab1fb8a47eb70"
   },
   {
     "workId": "ef3bd947-dafe-4f81-6949-08ded50c4988",
@@ -641,7 +648,7 @@
     "authorName": "Johannes Chrysostomus",
     "title": "1. Predigt zu Titus",
     "directory": "werke/Johannes Chrysostomus/Predigten zu Titus/1. Predigt zu Titus",
-    "contentRevision": "sha256:f79c4e89bb68a92d7315328216627df7789fc58b5b1e1fc593746a91a261a061"
+    "contentRevision": "sha256:57b6f2b9fdfc9c198574339e62037764f827ba24c60d553139c359d29a30a270"
   },
   {
     "workId": "9aeb0f29-09b0-4c64-9dd6-08ddd080acda",
@@ -753,7 +760,7 @@
     "authorName": "Johannes Chrysostomus",
     "title": "2. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/2. Homilie über Matthäus",
-    "contentRevision": "sha256:ed6e13e031725a565ebb1f25b0ccd3fc9a84019e0b89b1c2550f5d4b163b720e"
+    "contentRevision": "sha256:6c3b501ef665aa71ff8b00db7dd53cb04064766b623f33b4132e8976d87c208b"
   },
   {
     "workId": "9a93f6f8-66c7-4a61-6e88-08ddad3599c9",
@@ -1306,7 +1313,7 @@
     "authorName": "Johannes Chrysostomus",
     "title": "80. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/80. Homilie über Matthäus",
-    "contentRevision": "sha256:69eb55c8f54343e21493438beb3733f97305304eed163e80bd174e7ec6c8f563"
+    "contentRevision": "sha256:24c0cd63a72ecab21ffe73f191e19315f4514d37b423259c2dfc30118c2c56e2"
   },
   {
     "workId": "17aeeee4-e2b0-4ce5-55cd-08deedfb48dc",
@@ -1397,7 +1404,7 @@
     "authorName": "Johannes Chrysostomus",
     "title": "Gegen die Bekanntmachung der Fehler von Brüdern",
     "directory": "werke/Johannes Chrysostomus/Gegen die Bekanntmachung der Fehler von Brüdern",
-    "contentRevision": "sha256:c08880702e360531f8be2f4d8c331951ed302ebaf72470faf4fdb07bb8944e3b"
+    "contentRevision": "sha256:c235aad69418ca339847905d7416d1633d062b6cc78473fcfc54ecb549df5614"
   },
   {
     "workId": "30d461dd-30c6-46b5-37ae-08ddb03426f1",
@@ -1551,7 +1558,7 @@
     "authorName": "Mathetes",
     "title": "Der Brief des Mathetes an Diognet",
     "directory": "werke/Mathetes/Der Brief des Mathetes an Diognet",
-    "contentRevision": "sha256:073ecdc64a5e1c13a15b4f7fcb15d4681b2b0285265368f68b8701b5bdb406d1"
+    "contentRevision": "sha256:93295519dc4c86fe12ae62c52fe6016b01ae563d54c44c919b7fd06b6f9a0fa1"
   },
   {
     "workId": "c44e8d53-5ac8-4ff7-5f7d-08dd666d69ba",
@@ -1614,7 +1621,7 @@
     "authorName": "Nilus von Ankyra",
     "title": "An Theodorian",
     "directory": "werke/Nilus von Ankyra/Briefe/An Theodorian",
-    "contentRevision": "sha256:e4f5b9ae60966697ddc8fd18b332c3877aeedeabaab9741b1c0057b1f38d39d0"
+    "contentRevision": "sha256:9c67a400c240f6c1796b61c3c57e2e62ec7bf8343432e615992b894b7b351493"
   },
   {
     "workId": "7a1460a3-d19c-49fb-6e10-08de7d5c481a",
@@ -1852,7 +1859,7 @@
     "authorName": "Origenes",
     "title": "7. Predigt zu Exodus",
     "directory": "werke/Origenes/Predigten zu Exodus/7. Predigt zu Exodus",
-    "contentRevision": "sha256:581fc336c1c8abfb37e9a4bc9d1a4cdd3dcdfb705f35e41a36f17dfbfc8c5379"
+    "contentRevision": "sha256:82530bb88c954c1c68d0308d9303e3ce9430fe845c94a89e3e75ee5c74dcdf61"
   },
   {
     "workId": "7059dc9d-3ed0-49d6-0fbf-08dde97b819f",
@@ -1929,7 +1936,7 @@
     "authorName": "Origenes",
     "title": "Die Prinzipien, Vorwort",
     "directory": "werke/Origenes/Über die Prinzipien/Die Prinzipien, Vorwort",
-    "contentRevision": "sha256:aa0a7dcf8563390cfe0be1e3b7d651d9e89e35da7269b041a0b4190dd6fca24e"
+    "contentRevision": "sha256:20f3895c53235284ce28a2ae0456f6a8766004cc4f8f32cfb94fdee24ecedaf5"
   },
   {
     "workId": "5dc9e45a-7c44-4b2d-5560-08de5df2dd09",
@@ -2041,7 +2048,7 @@
     "authorName": "Polykarp",
     "title": "Brief an die Philipper",
     "directory": "werke/Polykarp/Brief an die Philipper",
-    "contentRevision": "sha256:72ba36f9e35bb786d3c72132f495483d5b6be5e792eaee772fb404d9763f1db0"
+    "contentRevision": "sha256:fe4911f081c52b1a8e1d744dbe83d1363c7cec90aa7c6fb0b7e8edcb710e5e38"
   },
   {
     "workId": "e0a6ca66-94d0-41e3-6744-08dd08ce8c1c",
@@ -2069,14 +2076,14 @@
     "authorName": "Rufinus von Aquila",
     "title": "Kirchengeschichte Buch 4",
     "directory": "werke/Rufinus von Aquila/Kirchengeschichte/Kirchengeschichte Buch 4",
-    "contentRevision": "sha256:40eb5586742e681ecaa52bdc40bca99dd1b7b29d59e9e3184c0ac1e9bf616c6e"
+    "contentRevision": "sha256:fa2449ec48d538a76648e6cc7aadbb3ba0c81cc8a42f8dce53311f3877ed43f9"
   },
   {
     "workId": "7666ff32-af1e-46e4-5abc-08de14954133",
     "authorName": "Rufinus von Aquila",
     "title": "Kirchengeschichte Buch 5",
     "directory": "werke/Rufinus von Aquila/Kirchengeschichte/Kirchengeschichte Buch 5",
-    "contentRevision": "sha256:09b16747084a1aaa5b953d675ba235ecc1c68fbc58b2637b2d7faf32396a6f8d"
+    "contentRevision": "sha256:78cc3830f38c4ed37f63c956f304c70d82a98433a2843a29a08e998332a05287"
   },
   {
     "workId": "286d196a-d5d8-49ba-7786-08ddceb31b3a",
@@ -2132,7 +2139,7 @@
     "authorName": "Tertullian",
     "title": "Apologie",
     "directory": "werke/Tertullian/Apologie",
-    "contentRevision": "sha256:885c2ea810027f1afe93ab81947dfd1fc9bcb8001aee9fcfee8debc299f80fa5"
+    "contentRevision": "sha256:d1b53d652f9d686bc9c8895d77d94e9cfdc6aaac5efe3dc98060dfde758c9051"
   },
   {
     "workId": "c5da6ec7-c5d4-4379-49fa-08df14d31b95",
@@ -2146,7 +2153,7 @@
     "authorName": "Tertullian",
     "title": "Verschreibung gegen Häretiker",
     "directory": "werke/Tertullian/Verschreibung gegen Häretiker",
-    "contentRevision": "sha256:00bbbb02440389eeaeb971a3626c24174774a44b969eacf796330104ee74763b"
+    "contentRevision": "sha256:9c5bd4f20229516b145b2e4cad87ad8c4aebdfb45b6c5c3300420a48c786e39e"
   },
   {
     "workId": "44e81786-7ca6-401d-b15c-08dd0a5aceeb",
@@ -2279,7 +2286,7 @@
     "authorName": "Zeno von Verona",
     "title": "Schrift 1 - Der Glaube",
     "directory": "werke/Zeno von Verona/Buch 1/Schrift 1 - Der Glaube",
-    "contentRevision": "sha256:4f7537a4e6b058f66987588ba2a03af26216c6c6cc81dd6f9a29cf475453b7dd"
+    "contentRevision": "sha256:6ee19e77f0fa39e1b9c25bb3ec6937c01a81326db537c552e3f6be530a01c7af"
   },
   {
     "workId": "50d1ee6b-3a20-4be3-1916-08dd59d317fa",
