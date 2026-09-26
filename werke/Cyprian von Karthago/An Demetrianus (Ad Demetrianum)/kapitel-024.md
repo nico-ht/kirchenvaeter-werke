@@ -1,0 +1,15 @@
+# An Demetrianus \(Ad Demetrianum\) – Kapitel 24: Im Gericht erkennen die Verfolger die Rettung der Gerechten, doch ihre Reue wendet die ewige Strafe nicht ab
+
+Autor: Cyprian von Karthago
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/cyprian/an-demetrianus#kapitel-9d6d9771-9faf-4306-0acf-08df1b0f8e2b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Welche Herrlichkeit wird dann dem Glauben zuteil, welche Strafe dem Unglauben, wenn der Tag des Gerichts kommt? Welche Freude für die Glaubenden, welche Trauer für die Ungläubigen darüber, dass sie hier zuvor nicht glauben wollten und nun nicht mehr zurückkehren können, um zu glauben? Die ewig brennende Hölle wird die Verurteilten verbrennen, und die Strafe wird sie mit nie erlöschenden Flammen verzehren; nichts wird ihren Qualen jemals eine Ruhepause oder ein Ende verschaffen können\. Die Seelen werden mit ihren Körpern erhalten bleiben, um in endlosen Qualen Schmerz zu erleiden\. Dort werden wir für immer dem zusehen, der uns hier eine Zeit lang zusah; der kurze Genuss, den grausame Augen bei den Verfolgungen hatten, wird durch einen ewigen Anblick vergolten werden\. Das verbürgt die Heilige Schrift, wenn sie sagt: „Ihr Wurm wird nicht sterben, und ihr Feuer wird nicht erlöschen; und sie werden allem Fleisch zum Schauspiel werden\.[^bible-6d556972-c0d4-484f-bfca-21b7fd75d015] “ Und weiter: „Dann werden die Gerechten mit großer Standhaftigkeit denen gegenübertreten, die sie bedrängt und ihnen die Frucht ihrer Arbeit genommen haben\. Bei ihrem Anblick werden diese von schrecklicher Furcht ergriffen werden und über die plötzliche, unverhoffte Rettung staunen\. Voll Reue und vor innerer Not stöhnend werden sie zueinander sagen: ‚Das sind die, die wir einst verspottet und zum Gegenstand unserer Schmähungen gemacht haben\. Wir Toren hielten ihren Weg für Wahnsinn und glaubten, ihr Ende sei ohne Ehre\. Wie sind sie nun unter die Söhne Gottes gezählt worden, und wie haben sie ihren Anteil unter den Heiligen erhalten\! Also sind wir vom Weg der Wahrheit abgeirrt; das Licht der Gerechtigkeit hat uns nicht geleuchtet, und die Sonne ist uns nicht aufgegangen\. Wir haben uns auf dem Weg des Unrechts und des Verderbens erschöpft, haben unwegsame Einöden durchwandert, den Weg des Herrn aber nicht gekannt\. Was hat uns der Hochmut genützt, was hat uns das Prahlen mit unserem Reichtum eingebracht? Das alles ist wie ein Schatten vergangen\.‘[^bible-704b0dba-0142-4a68-b243-e39a7915468a] “ Dann wird im Schmerz der Strafe die Reue ohne Frucht bleiben; das Weinen wird vergeblich sein und das Flehen wirkungslos\. Die nicht glauben wollten, um ewiges Leben zu erlangen, werden zu spät glauben und ewige Strafe empfangen\.
+
+## Bibelverweise
+
+[^bible-6d556972-c0d4-484f-bfca-21b7fd75d015]: Jes 66,24
+[^bible-704b0dba-0142-4a68-b243-e39a7915468a]: Weish 5,1–Weish 5,9

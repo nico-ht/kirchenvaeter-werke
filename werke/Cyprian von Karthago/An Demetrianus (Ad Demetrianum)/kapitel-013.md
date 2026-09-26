@@ -1,0 +1,10 @@
+# An Demetrianus \(Ad Demetrianum\) – Kapitel 13: Folter soll Geständnisse erzwingen, doch Christen werden trotz ihres öffentlichen Bekenntnisses gefoltert
+
+Autor: Cyprian von Karthago
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/cyprian/an-demetrianus#kapitel-8df305ab-8195-4d7a-0ac4-08df1b0f8e2b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Was ist das für eine unersättliche Folterwut? Was für eine unstillbare Lust an Grausamkeit? Entscheide dich lieber für eines von beidem: Christ zu sein ist entweder ein Verbrechen oder keines\. Ist es ein Verbrechen, warum tötest du dann nicht den, der es bekennt? Ist es kein Verbrechen, warum verfolgst du dann einen Unschuldigen? Du hättest mich nämlich foltern müssen, wenn ich geleugnet hätte\. Wenn ich aus Furcht vor deiner Strafe durch eine Lüge verheimlicht hätte, was ich zuvor gewesen war und dass ich deine Götter nicht verehrt hatte, dann hätte man mich foltern, dann durch die Gewalt des Schmerzes zum Geständnis des Verbrechens zwingen müssen\. So werden auch bei anderen Verhören Angeklagte gefoltert, die bestreiten, sich des Verbrechens schuldig gemacht zu haben, das man ihnen vorwirft: Die Wahrheit über die Tat, die ihr Mund nicht preisgibt, soll ihnen durch körperlichen Schmerz abgepresst werden\. Nun aber bekenne ich freiwillig, rufe es laut aus und bezeuge immer und immer wieder, dass ich Christ bin\. Warum folterst du mich, obwohl ich es bekenne und deine Götter zunichtemache, und zwar nicht an versteckten und geheimen Orten, sondern offen, öffentlich, mitten auf dem Forum, während die Amtsträger und Statthalter zuhören? So ist, selbst wenn das, was du mir zuvor vorgeworfen hast, zu wenig gewesen sein sollte, nun noch mehr hinzugekommen, das du umso mehr hassen und bestrafen musst: Indem ich an einem belebten Ort, vom Volk umringt, erkläre, dass ich Christ bin, stelle ich euch und eure Götter mit meinem lauten, öffentlichen Bekenntnis bloß\.
