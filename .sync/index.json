@@ -14,6 +14,20 @@
     "contentRevision": "sha256:cffda96d06ad3dd4d5eca095e2e0ec54d434de2f31ff837f780b96f978e504db"
   },
   {
+    "workId": "7bf2a7af-28fb-45d9-5a9d-08df1c172963",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Über Elija und das Fasten (De Elia et jejunio)",
+    "directory": "werke/Ambrosius von Mailand/Über Elija und das Fasten (De Elia et jejunio)",
+    "contentRevision": "sha256:586c41a0f1fcc61cfe483e68265e3c8b441e0e364ce2fdb4922793ca08feca75"
+  },
+  {
+    "workId": "6068062d-44b5-4f86-5a9c-08df1c172963",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Über Naboth (De Nabuthe Jezraelita)",
+    "directory": "werke/Ambrosius von Mailand/Über Naboth (De Nabuthe Jezraelita)",
+    "contentRevision": "sha256:d478b33827ecc139e14a41ba156e512e40375e00efa9026c9034b9dbfdc5b005"
+  },
+  {
     "workId": "68f579bd-1a89-4e6f-90c9-08de390c5250",
     "authorName": "Amphilochius von Ikonion",
     "title": "Über die Neugetauften",
