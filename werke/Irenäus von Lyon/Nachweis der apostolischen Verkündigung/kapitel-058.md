@@ -7,11 +7,13 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-7800cb5d-a64b-4322-3248-08debf1e7015).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Und wiederum sagt Mose: „Es soll ein Stern aus Jakob aufgehen, und ein Führer soll aus Israel erhoben werden[^bible-90f73ffc-8e96-48c2-87bd-b0eba45633fd]“; damit zeigt er noch deutlicher, dass die Heilsordnung seiner Ankunft im Fleisch unter den Juden geschehen sollte\. Und aus Jakob und aus dem Stamm Juda nahm der, der geboren wurde und vom Himmel herabkam, diese Heilsordnung auf sich; denn der Stern erschien am Himmel\. Und mit Führer meint er König, weil er der König aller Erlösten ist\. Und bei seiner Geburt erschien den Magiern, die im Osten wohnten, der Stern[^bible-f58754ba-02f4-4ccc-ab39-16116ac68bbb]; dadurch erkannten sie, dass Christus geboren war, und sie kamen nach Judäa, vom Stern geleitet[^bible-d398bcdf-2003-4ca5-8b69-8880b63c8923], bis der Stern nach Bethlehem kam, wo Christus geboren wurde, und sie in das Haus eintraten, in dem das Kind lag, in Windeln gewickelt[^bible-57db73cc-c025-4fc3-a35b-8d87444b5250]; und der Stern stand über seinem Haupt und tat den Magiern den Sohn Gottes kund, den Christus\.
+Und wiederum sagt Mose: „Ein Stern wird aus Jakob aufgehen, und aus Israel wird ein Anführer erstehen\.[^bible-90f73ffc-8e96-48c2-87bd-b0eba45633fd] “ Damit zeigt er noch deutlicher, dass das Kommen Christi im Fleisch nach dem Heilsplan unter den Juden geschehen sollte\. Und er, der aus dem Geschlecht Jakobs und dem Stamm Judas geboren wurde, übernahm, als er vom Himmel herabkam, die Ausführung dieses Heilsplans; denn der Stern erschien am Himmel[^bible-8ff07e9d-fccb-45ab-a02b-df66ea4af82d]\. Mit „Anführer[^bible-fe1e2c59-6a36-4191-b3dc-81904852b85c]“ meint Mose einen König, denn er ist der König aller Erlösten\. Und bei seiner Geburt erschien der Stern den Magiern, die im Osten wohnten[^bible-f58754ba-02f4-4ccc-ab39-16116ac68bbb]\. Daran erkannten sie, dass Christus geboren war, und sie kamen, vom Stern geführt[^bible-d398bcdf-2003-4ca5-8b69-8880b63c8923], nach Judäa, bis der Stern nach Bethlehem kam, wo Christus geboren war, und in das Haus eintrat, in dem das in Windeln gewickelte[^bible-57db73cc-c025-4fc3-a35b-8d87444b5250] Kind lag\. Und er blieb über seinem Kopf stehen und zeigte so den Magiern den Sohn Gottes, den Christus\.
 
 ## Bibelverweise
 
 [^bible-57db73cc-c025-4fc3-a35b-8d87444b5250]: Lk 2,7
+[^bible-8ff07e9d-fccb-45ab-a02b-df66ea4af82d]: Mt 2,2
 [^bible-90f73ffc-8e96-48c2-87bd-b0eba45633fd]: Num 24,17
 [^bible-d398bcdf-2003-4ca5-8b69-8880b63c8923]: Mt 2,9
 [^bible-f58754ba-02f4-4ccc-ab39-16116ac68bbb]: Mt 2,1–Mt 2,2
+[^bible-fe1e2c59-6a36-4191-b3dc-81904852b85c]: Num 24,17

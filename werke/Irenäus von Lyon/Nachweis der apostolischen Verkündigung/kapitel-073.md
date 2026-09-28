@@ -7,7 +7,7 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-d301b6e0-8623-495b-3256-08debf1e7015).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Und wiederum spricht David so vom Tod und von der Auferstehung Christi: „Ich legte mich nieder und schlief; ich erwachte, denn der Herr nahm mich auf[^bible-712d4bc7-e758-4599-bb79-870f824d6b32]\.“ David sagte dies nicht von sich selbst, denn er wurde nach dem Tod nicht auferweckt; vielmehr sagt hier der Geist Christi, der auch in anderen Propheten über Christus sprach, durch David: „Ich legte mich nieder und schlief; ich erwachte, denn der Herr nahm mich auf[^bible-712d4bc7-e758-4599-bb79-870f824d6b32]\.“ Mit Schlaf meint er den Tod; denn Christus ist wieder auferstanden\.
+Und wiederum sagt David über den Tod und die Auferstehung Christi: „[^bible-712d4bc7-e758-4599-bb79-870f824d6b32]Ich legte mich nieder und schlief; ich erwachte, denn der Herr nahm mich auf\.[^bible-712d4bc7-e758-4599-bb79-870f824d6b32] “[^bible-712d4bc7-e758-4599-bb79-870f824d6b32] David sagte dies nicht von sich selbst, denn er ist nach seinem Tod nicht auferstanden\. Vielmehr spricht hier durch David der Geist Christi, der auch in anderen Propheten von ihm sprach: „[^bible-712d4bc7-e758-4599-bb79-870f824d6b32]Ich legte mich nieder und schlief; ich erwachte, denn der Herr nahm mich auf\.[^bible-712d4bc7-e758-4599-bb79-870f824d6b32] “[^bible-712d4bc7-e758-4599-bb79-870f824d6b32] Mit dem Schlaf meint er den Tod; denn Christus ist auferstanden\.
 
 ## Bibelverweise
 

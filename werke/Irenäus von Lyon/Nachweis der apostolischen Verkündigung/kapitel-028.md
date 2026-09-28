@@ -7,8 +7,9 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-0091af9d-8352-4bc6-322a-08debf1e7015).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Als die vierzig Jahre erfüllt waren, näherte sich das Volk dem Jordan und wurde gegenüber von Jericho versammelt und aufgestellt\. Hier rief Mose das Volk zusammen und fasste alles noch einmal neu zusammen, indem er die Machttaten Gottes bis auf jenen Tag verkündete und die, die in der Wüste herangewachsen waren, formte und bereitete, Gott zu fürchten und seine Gebote zu halten[^bible-8eb881bd-34ae-4105-868c-2b8bf671134e], wobei er ihnen gleichsam eine neue Gesetzgebung auferlegte und zu der früher gegebenen hinzufügte\. Und dies wurde Deuteronomium genannt; darin waren viele Weissagungen über unseren Herrn Jesus Christus und über das Volk geschrieben, ebenso über die Berufung der Heiden und über das Reich\.
+Als die vierzig Jahre vergangen waren, näherte sich das Volk dem Jordan und versammelte sich gegenüber von Jericho, wo es Aufstellung nahm[^bible-8eeb4034-5332-4187-97c4-b5658073ae6e]\. Hier rief Mose das Volk zusammen und fasste alles noch einmal zusammen\. Er verkündete die mächtigen Taten, die Gott bis zu diesem Tag vollbracht hatte; zugleich erzog er die in der Wüste Herangewachsenen und bereitete sie darauf vor, Gott zu fürchten und seine Gebote zu halten[^bible-8eb881bd-34ae-4105-868c-2b8bf671134e]\. Dabei legte er ihnen gleichsam eine neue Gesetzesordnung auf, die zu der früheren hinzukam\. Sie wurde Deuteronomium genannt\. Darin wurden viele Weissagungen über unseren Herrn Jesus Christus und über das Volk niedergeschrieben, ebenso über die Berufung der Heiden und über das Reich\.
 
 ## Bibelverweise
 
 [^bible-8eb881bd-34ae-4105-868c-2b8bf671134e]: Pred 12,13
+[^bible-8eeb4034-5332-4187-97c4-b5658073ae6e]: Num 22,1

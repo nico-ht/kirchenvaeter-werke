@@ -7,8 +7,10 @@ Autor: Irenäus von Lyon
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/irenaeus/nachweis-der-apostolischen-verkuendigung#kapitel-3b7dc964-96fb-44ad-3257-08debf1e7015).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Und wiederum spricht David so von den Leiden Christi: „Warum tobten die Völker, und warum sannen die Menschen auf Nichtiges? Die Könige der Erde erhoben sich, und die Fürsten versammelten sich miteinander gegen den Herrn und gegen seinen Gesalbten[^bible-2f2b5875-64be-4fbf-9ba6-34812b5d458e]\.“ Denn Herodes, der König der Juden, und Pontius Pilatus, der Statthalter des Claudius Caesar, kamen zusammen und verurteilten ihn zur Kreuzigung\. Denn Herodes fürchtete, Christus solle ein irdischer König sein und ihn aus dem Reich vertreiben\. Pilatus aber wurde von Herodes und den Juden, die bei Herodes waren, gegen seinen Willen gezwungen, ihn dem Tod auszuliefern; denn sie drohten ihm, wenn er dies nicht täte, sondern Caesar zuwiderhandelte, indem er einen Mann freiließe, der König genannt wurde\.
+Und wiederum sagt David über die Leiden Christi: „Warum tobten die Heiden und ersann das Volk Nichtiges? Könige erhoben sich auf der Erde, und Fürsten versammelten sich gegen den Herrn und seinen Gesalbten\.[^bible-2f2b5875-64be-4fbf-9ba6-34812b5d458e] “ Denn Herodes, der König der Juden, und Pontius Pilatus[^bible-da248e2a-e91c-4700-b96e-4d5be52540ba], der Statthalter des Kaisers Claudius, kamen zusammen und verurteilten ihn zur Kreuzigung[^bible-da248e2a-e91c-4700-b96e-4d5be52540ba]\. Denn Herodes meinte, Christus werde ein irdischer König, und fürchtete, von ihm aus seinem Königreich vertrieben zu werden\. Doch Herodes und die Juden, die bei ihm waren, zwangen Pilatus gegen seinen Willen, ihn dem Tod auszuliefern\. Denn sie drohten ihm für den Fall, dass er nicht lieber so handelte, sondern dem Kaiser zuwiderhandelte, indem er einen Mann freiließ, der König genannt wurde[^bible-2d3fb687-46e6-46ba-bbed-8f70b2d11098]\.
 
 ## Bibelverweise
 
+[^bible-2d3fb687-46e6-46ba-bbed-8f70b2d11098]: Joh 19,12
 [^bible-2f2b5875-64be-4fbf-9ba6-34812b5d458e]: Ps 2,1–Ps 2,2
+[^bible-da248e2a-e91c-4700-b96e-4d5be52540ba]: Apg 4,27–Apg 4,28
