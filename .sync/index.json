@@ -28,6 +28,13 @@
     "contentRevision": "sha256:d478b33827ecc139e14a41ba156e512e40375e00efa9026c9034b9dbfdc5b005"
   },
   {
+    "workId": "b1836539-e0a3-4ce0-5a9e-08df1c172963",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Über Tobias (De Tobia)",
+    "directory": "werke/Ambrosius von Mailand/Über Tobias (De Tobia)",
+    "contentRevision": "sha256:c6c93cd1030e1b0739f48036f06d0afd22b39ce4671fb3e5131a4baae50352e0"
+  },
+  {
     "workId": "68f579bd-1a89-4e6f-90c9-08de390c5250",
     "authorName": "Amphilochius von Ikonion",
     "title": "Über die Neugetauften",
@@ -627,7 +634,7 @@
     "authorName": "Irenäus von Lyon",
     "title": "Nachweis der apostolischen Verkündigung",
     "directory": "werke/Irenäus von Lyon/Nachweis der apostolischen Verkündigung",
-    "contentRevision": "sha256:5d2e09b80cebda8743daf6446fc98df6492d8e206696c59953eab1fb8a47eb70"
+    "contentRevision": "sha256:78da25d3d665dc9aed0bfa547bce3c075a109d7fe09e6394804c011ebafe9f96"
   },
   {
     "workId": "ef3bd947-dafe-4f81-6949-08ded50c4988",
@@ -2069,7 +2076,7 @@
     "authorName": "Polykarp",
     "title": "Das Martyrium des Polykarp",
     "directory": "werke/Polykarp/Das Martyrium des Polykarp",
-    "contentRevision": "sha256:de7e6e7e6f44d60f1e07c62ab705a16497cbaef5396ce5abdb88eb5be7d15010"
+    "contentRevision": "sha256:4c1d4319f4e85b04f1931901356d97bc81d0c85dcc45860e9fd58cbbd42ad05f"
   },
   {
     "workId": "62cda066-f363-43cd-ec3d-08ddcd5c12c2",

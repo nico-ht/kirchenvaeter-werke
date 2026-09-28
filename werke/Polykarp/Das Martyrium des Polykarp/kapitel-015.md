@@ -1,4 +1,4 @@
-# Das Martyrium des Polykarp – Kapitel 15
+# Das Martyrium des Polykarp – Kapitel 15: Im Feuergewölbe erscheint Polykarps Leib nicht wie brennendes Fleisch, sondern wie glühendes Edelmetall
 
 Autor: Polykarp
 
@@ -7,4 +7,4 @@ Autor: Polykarp
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/polykarp/das-martyrium-des-polykarp#kapitel-477dbd7a-b74b-4c0c-1433-08ded5491050).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Als er das Amen emporgesandt und sein Gebet vollendet hatte, entzündeten die für das Feuer zuständigen Männer den Holzstoß\. Als eine große Flamme aufleuchtete, sahen wir ein Wunder, wir, denen es zu sehen gegeben war und die auch bewahrt wurden, um den Übrigen zu berichten, was geschehen war\. Denn das Feuer nahm die Gestalt eines Gewölbes an, wie ein vom Wind gefülltes Schiffssegel, und umgab den Körper des Märtyrers rings wie eine Mauer\. Und er war in der Mitte nicht wie brennendes Fleisch, sondern wie Brot, das gebacken wird, oder wie Gold und Silber, das im Schmelzofen glühend gemacht wird\. Auch nahmen wir einen so großen Wohlgeruch wahr, als wehte Weihrauch heran oder eines der kostbaren Würzmittel\.
+Nachdem er sein Amen emporgesandt und das Gebet vollendet hatte, entzündeten die für das Feuer zuständigen Männer das Feuer\. Als eine große Flamme aufloderte, sahen wir ein Wunder; uns war es vergönnt, dies zu sehen, und wir wurden auch bewahrt, um den anderen zu berichten, was geschehen war\. Denn das Feuer bildete ein Gewölbe wie ein vom Wind geblähtes Schiffssegel und umschloss den Leib des Märtyrers ringsum wie eine Mauer\. Mitten darin sah der Leib nicht wie brennendes Fleisch aus, sondern wie Brot, das gebacken wird, oder wie Gold und Silber, die im Ofen glühen\. Auch nahmen wir einen so starken Wohlgeruch wahr, als würde Weihrauch oder ein anderes kostbares Gewürz seinen Duft verströmen\.
