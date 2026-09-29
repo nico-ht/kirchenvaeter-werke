@@ -469,6 +469,20 @@
     "contentRevision": "sha256:06d8eddb8c152a24cec7aa6a7d1af5df83c8ca9d8b24bdc5a16251d6f1519047"
   },
   {
+    "workId": "2f34b57e-347f-45d4-37ac-08ddb03426f1",
+    "authorName": "Gregor der Wundertäter",
+    "title": "Ein Glaubensbekenntnis",
+    "directory": "werke/Gregor der Wundertäter/Ein Glaubensbekenntnis",
+    "contentRevision": "sha256:38731d9ce7b80b82433bc3ff600916fbdd0a8172553b64624d0bd17e4469351c"
+  },
+  {
+    "workId": "a5f8d0fb-9741-4b5a-26ff-08df1d6cdc57",
+    "authorName": "Gregor der Wundertäter",
+    "title": "Kanonischer Brief",
+    "directory": "werke/Gregor der Wundertäter/Kanonischer Brief",
+    "contentRevision": "sha256:db7a45b7870c5fa4cf9b26b3f195cc934c5018b4c5963fb424308124f8d76ca3"
+  },
+  {
     "workId": "834c85f9-3876-4433-b0da-08defd4c3bc2",
     "authorName": "Gregor von Nazianz",
     "title": "An Hellenius - Mahnung zugunsten der Mönche",
@@ -2076,7 +2090,7 @@
     "authorName": "Polykarp",
     "title": "Das Martyrium des Polykarp",
     "directory": "werke/Polykarp/Das Martyrium des Polykarp",
-    "contentRevision": "sha256:4c1d4319f4e85b04f1931901356d97bc81d0c85dcc45860e9fd58cbbd42ad05f"
+    "contentRevision": "sha256:2ccf0ecc701fbb2a311fec4db9d0496649fe25e99550d655cc0c8bb1d35d4862"
   },
   {
     "workId": "62cda066-f363-43cd-ec3d-08ddcd5c12c2",
