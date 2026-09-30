@@ -231,6 +231,13 @@
     "contentRevision": "sha256:0319a933d1209e4f8c14f3b18562556d00aba8ce1795e0515adc508d8880ef47"
   },
   {
+    "workId": "307235dc-c480-48a4-ccc1-08dd2abb5377",
+    "authorName": "Clemens von Alexandria",
+    "title": "Ermahnung an die Heiden",
+    "directory": "werke/Clemens von Alexandria/Ermahnung an die Heiden",
+    "contentRevision": "sha256:4aa86a29c298c883555ac892cc7a7c2f508697617d2dd829ac0a69f7db7a1987"
+  },
+  {
     "workId": "7a183836-343f-434e-e4d7-08dd0635942f",
     "authorName": "Clemens von Alexandria",
     "title": "Welcher Reiche wird gerettet werden?",
@@ -1601,6 +1608,90 @@
     "title": "Über das Passah",
     "directory": "werke/Melito von Sardes/Über das Passah",
     "contentRevision": "sha256:a01eccffa28b5d0752613d66e8f616b488dca95fe06cf25a47ce106db15f1f58"
+  },
+  {
+    "workId": "f3899f30-33f4-41e7-7a5a-08df1e6d00ed",
+    "authorName": "Methodius von Olympus",
+    "title": "Eingangsgespräch",
+    "directory": "werke/Methodius von Olympus/Gastmahl der zehn Jungfrauen/Eingangsgespräch",
+    "contentRevision": "sha256:e8edd55fcbaf54e07d616a2bebc6dd772e56f6b69982ccd42b755be20e42d5fe"
+  },
+  {
+    "workId": "56a098cc-6115-4ceb-7a5b-08df1e6d00ed",
+    "authorName": "Methodius von Olympus",
+    "title": "Rede 1",
+    "directory": "werke/Methodius von Olympus/Gastmahl der zehn Jungfrauen/Rede 1",
+    "contentRevision": "sha256:103f23c9fe737ed934d552aefadbedfab56efa158025b5aed2e75cd9c032c209"
+  },
+  {
+    "workId": "94f759b2-02e9-4e61-7a62-08df1e6d00ed",
+    "authorName": "Methodius von Olympus",
+    "title": "Rede 10",
+    "directory": "werke/Methodius von Olympus/Gastmahl der zehn Jungfrauen/Rede 10",
+    "contentRevision": "sha256:89695d7a6cdc47ed9293a1d5ca0e1562f3a16a34ec0359a2808d1a10ffa5f07a"
+  },
+  {
+    "workId": "eee04b33-09ee-45bb-7a63-08df1e6d00ed",
+    "authorName": "Methodius von Olympus",
+    "title": "Rede 11",
+    "directory": "werke/Methodius von Olympus/Gastmahl der zehn Jungfrauen/Rede 11",
+    "contentRevision": "sha256:5c2e28ba13250b648b57ce1bdf5e33781dfe3119131de62e0f72bded822dd70b"
+  },
+  {
+    "workId": "90f6caa4-26b2-4d02-7a5c-08df1e6d00ed",
+    "authorName": "Methodius von Olympus",
+    "title": "Rede 2",
+    "directory": "werke/Methodius von Olympus/Gastmahl der zehn Jungfrauen/Rede 2",
+    "contentRevision": "sha256:f5ae928feee72abe1a57697fce9837fc9e0ade1363b52aae46694d0b83dd787f"
+  },
+  {
+    "workId": "d438a948-39ee-4e2c-7a5d-08df1e6d00ed",
+    "authorName": "Methodius von Olympus",
+    "title": "Rede 3",
+    "directory": "werke/Methodius von Olympus/Gastmahl der zehn Jungfrauen/Rede 3",
+    "contentRevision": "sha256:98e5b177144fc185c8f68b6754816f771d1218dec32a4ede72613fbafacb9009"
+  },
+  {
+    "workId": "b32a88f4-5e5e-4a0f-7a5e-08df1e6d00ed",
+    "authorName": "Methodius von Olympus",
+    "title": "Rede 4",
+    "directory": "werke/Methodius von Olympus/Gastmahl der zehn Jungfrauen/Rede 4",
+    "contentRevision": "sha256:9ef1c89525d69f4688dad8afbc409061122a86fe269d9a1779b5a9c92d845e66"
+  },
+  {
+    "workId": "b60c3100-f728-42a9-83f8-08deb5d0e680",
+    "authorName": "Methodius von Olympus",
+    "title": "Rede 5",
+    "directory": "werke/Methodius von Olympus/Gastmahl der zehn Jungfrauen/Rede 5",
+    "contentRevision": "sha256:8f54979938f89c0455d858f9f6cbde58e6fe7bed1f050817c4130ada277a39c0"
+  },
+  {
+    "workId": "387cbdd7-7f1f-41e2-7a5f-08df1e6d00ed",
+    "authorName": "Methodius von Olympus",
+    "title": "Rede 6",
+    "directory": "werke/Methodius von Olympus/Gastmahl der zehn Jungfrauen/Rede 6",
+    "contentRevision": "sha256:e54a083eab3ab7ffd918ebbb78fdfcc8f0a7f80d5a26d831dae00999e591e75c"
+  },
+  {
+    "workId": "5a89a1bd-4114-4811-7a60-08df1e6d00ed",
+    "authorName": "Methodius von Olympus",
+    "title": "Rede 7",
+    "directory": "werke/Methodius von Olympus/Gastmahl der zehn Jungfrauen/Rede 7",
+    "contentRevision": "sha256:ee6af045a85499d823cdab1c46ef3d0c801a3b500cbc415bc7af349c6ce8b841"
+  },
+  {
+    "workId": "48eb5ff1-7416-4c22-3f0d-08debe4b9d6c",
+    "authorName": "Methodius von Olympus",
+    "title": "Rede 8",
+    "directory": "werke/Methodius von Olympus/Gastmahl der zehn Jungfrauen/Rede 8",
+    "contentRevision": "sha256:27b858840e8135a3508657b9125c3fc7dc684810354b245fb53ad46748fe4db0"
+  },
+  {
+    "workId": "94e1af32-819a-4b5f-7a61-08df1e6d00ed",
+    "authorName": "Methodius von Olympus",
+    "title": "Rede 9",
+    "directory": "werke/Methodius von Olympus/Gastmahl der zehn Jungfrauen/Rede 9",
+    "contentRevision": "sha256:8bf0e4b02124ba3f2b411298184a1ed144e80da7faf78ad10ffd7c775f4ffb67"
   },
   {
     "workId": "f201dfeb-f4f5-45cb-422e-08debbfdea2f",

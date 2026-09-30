@@ -10,4 +10,5 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Einzelwerke
 
+- [Ermahnung an die Heiden](Ermahnung%20an%20die%20Heiden/) · 12 Kapitel
 - [Welcher Reiche wird gerettet werden?](Welcher%20Reiche%20wird%20gerettet%20werden/) · 42 Kapitel
