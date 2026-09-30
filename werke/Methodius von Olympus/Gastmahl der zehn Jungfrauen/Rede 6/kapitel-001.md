@@ -1,0 +1,16 @@
+# Rede 6 – Kapitel 1: Die Seele ist nach dem Bild des Einziggeborenen geschaffen – ihre Schönheit wollen die bösen Geister beflecken
+
+Autor: Methodius von Olympus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/methodius-von-olympus/gastmahl-rede-6#kapitel-3fd1cd03-2894-4ff1-c495-08df1e6cbb4b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Mit großer Zuversicht, überzeugen und dieses bewundernswerte Gespräch weiterführen zu können, will auch ich, Arete, sofern du mich begleitest, nach meinen Fähigkeiten versuchen, etwas zur Erörterung unseres Themas beizutragen: etwas, das meinen Kräften entspricht und sich nicht mit dem bereits Gesagten vergleichen lässt\. Denn ich könnte in meinen philosophischen Überlegungen nichts vorbringen, was mit dem wetteifern könnte, was schon so vielfältig und glänzend ausgearbeitet wurde\. Wenn ich versuche, mich mit denen zu messen, die mir an Weisheit überlegen sind, werde ich mir wohl den Vorwurf der Dummheit einhandeln\. Wenn ihr aber auch mit denen Geduld habt, die sprechen, so gut sie können, will ich mich bemühen zu sprechen; wenigstens am guten Willen soll es nicht fehlen\. Hier also will ich beginnen\. Wir alle sind, ihr Jungfrauen, mit einer einzigartigen Schönheit in diese Welt gekommen, die der göttlichen Weisheit nahesteht und mit ihr verwandt ist\. Denn die Seelen der Menschen gleichen dem, der sie gezeugt und geformt hat, dann am genauesten, wenn sie sein Ebenbild und die Züge jenes Angesichts unbefleckt widerspiegeln, auf das Gott blickte, als er ihnen eine unsterbliche und unzerstörbare Gestalt gab, und darin unverändert bleiben\. Denn er ist die ungezeugte und unkörperliche Schönheit, die weder einen Anfang hat noch vergänglich ist, sondern unveränderlich ist, nicht altert und nichts braucht\. Er ruht in sich selbst und in jenem Licht, das an unaussprechlichen und unzugänglichen Orten ist[^bible-f1cefe80-fa97-4fce-929b-a149d4499a58], umfasst alles im Umkreis seiner Macht, schafft und ordnet und hat die Seele nach dem Bild seines Bildes geschaffen\. Deshalb ist sie auch vernunftbegabt und unsterblich\. Da sie, wie ich sagte, nach dem Bild des Einziggeborenen geschaffen ist, besitzt sie eine unübertreffliche Schönheit\. Deshalb lieben die bösen Geister sie, schmieden Pläne und streben danach, ihr gottgleiches, liebliches Bild zu beflecken\. Das zeigt der Prophet Jeremia, als er Jerusalem vorwirft: „Du hattest die Stirn einer Hure, du weigertest dich, dich zu schämen\.[^bible-e7817fb2-81bd-4651-bfed-700904d34437] “ Er spricht von der, die sich den Mächten als Hure hingab, die gegen sie heranzogen, um sie zu besudeln\. Denn ihre Liebhaber sind der Teufel und seine Engel\. Sie planen, die vernunftbegabte und klarsichtige Schönheit unseres Geistes durch den Verkehr mit ihnen zu beflecken und zu besudeln, und begehren, mit jeder Seele, die dem Herrn verlobt ist[^bible-f30b59b0-1fe9-41fd-bb08-02d927d839a6], das Lager zu teilen\.
+
+## Bibelverweise
+
+[^bible-e7817fb2-81bd-4651-bfed-700904d34437]: Jer 3,3
+[^bible-f1cefe80-fa97-4fce-929b-a149d4499a58]: 1Tim 6,16
+[^bible-f30b59b0-1fe9-41fd-bb08-02d927d839a6]: 2Kor 11,2
