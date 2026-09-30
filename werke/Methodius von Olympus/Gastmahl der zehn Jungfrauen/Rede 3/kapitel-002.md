@@ -1,0 +1,14 @@
+# Rede 3 – Kapitel 2: Die Deutung auf Christus und die Kirche ergänzt den wörtlichen Sinn der Genesis, ohne ihn zu verwerfen
+
+Autor: Methodius von Olympus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/methodius-von-olympus/gastmahl-rede-3#kapitel-d753a066-e56e-4f11-c482-08df1e6cbb4b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Lass dich nicht beunruhigen, wenn er, also Paulus, bei der Erörterung eines Themenkreises zu einem anderen übergeht und dabei scheinbar die Themen vermischt, Fremdes in die Untersuchung hineinträgt und von der Frage abweicht, wie etwa an dieser Stelle\. Denn offenbar will er die Beweisführung zugunsten der Keuschheit mit größter Sorgfalt absichern\. Deshalb bereitet er seinen Gedankengang vor und beginnt mit der überzeugenderen Art zu sprechen\. Seine Rede ist nämlich sehr vielfältig und darauf angelegt, den Beweis Schritt für Schritt zu führen: Sie setzt sanft ein, strömt dann aber erhabener und glanzvoller weiter\. Darauf wendet er sich wieder tieferen Gedanken zu und schließt bald mit Einfachem und leicht Verständlichem, bald mit Schwierigerem und Feinsinnigerem\. Doch durch diese Wechsel trägt er nichts Sachfremdes hinein\. Vielmehr führt er alles nach einer wunderbaren inneren Verwandtschaft zusammen und gestaltet so die Erörterung der Frage, die er zum Thema gemacht hat, zu einem einheitlichen Ganzen\. Deshalb muss ich den Sinn der Beweisführung des Apostels genauer entfalten, ohne jedoch etwas von dem zuvor Gesagten zu verwerfen\. Denn mir scheint, Theophila, du hast jene Worte der Schrift ausführlich und klar erörtert und sie ohne Irrtum so dargelegt, wie sie sind\. Es ist nämlich, wie schon gesagt, gefährlich, den wörtlichen Sinn gänzlich zu missachten, besonders in der Genesis\. Dort sind Gottes unveränderliche Bestimmungen für den Aufbau des Weltalls dargelegt\. Ihnen gemäß ist die Welt bis heute vollkommen geordnet, in schönster Übereinstimmung mit einer vollkommenen Regel\. So wird es bleiben, bis der Gesetzgeber selbst sie umgestaltet und in seinem Willen, sie neu zu ordnen, durch eine neue Ordnung die ursprünglichen Naturgesetze aufhebt\. Doch es geht nicht an, die Beweisführung ungeprüft zu lassen, sodass sie gewissermaßen auf einem Bein hinkt\. Komm also, wir wollen gleichsam unser Paar vervollständigen und den analogischen Sinn darlegen, indem wir tiefer in die Schrift eindringen\. Denn Paulus darf man nicht missachten, wenn er über den wörtlichen Sinn hinausgeht und zeigt, dass sich die Worte auf Christus und die Kirche[^bible-3d2cb47c-b313-4bd8-a0ad-f869d65c7373] beziehen\.
+
+## Bibelverweise
+
+[^bible-3d2cb47c-b313-4bd8-a0ad-f869d65c7373]: Eph 5,32
