@@ -1,0 +1,14 @@
+# Vita Martini – Kapitel 11: Martin bleibt als Bischof Mönch und prägt eine Klostergemeinschaft, aus der weitere Bischöfe hervorgehen
+
+Autor: Sulpicius Severus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/sulpicius-severus/vita-martini-sulpicius-severus#kapitel-161b0da9-a5a5-4d14-e61e-08df1edf27ba).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wie er sich nun nach der Übernahme des Bischofsamtes bewährte und welche Größe er dabei zeigte, zu schildern übersteigt unsere Fähigkeiten\. Denn er blieb mit unerschütterlicher Beständigkeit derselbe, der er zuvor gewesen war\. Sein Herz blieb ebenso demütig, seine Kleidung ebenso ärmlich\. So übte er, voller Autorität und Gnade, sein Bischofsamt aus, ohne jedoch seinem mönchlichen Vorsatz und seiner Tugend untreu zu werden\. Eine Zeit lang bewohnte er daher eine unmittelbar an die Kirche angrenzende Zelle\. Dann aber konnte er die Unruhe durch seine vielen Besucher nicht mehr ertragen und gründete sich ungefähr zwei Meilen außerhalb der Stadt ein Kloster\. Dieser Ort lag so abgeschieden und entlegen, dass er die Einsamkeit der Wüste nicht zu vermissen brauchte\. Auf der einen Seite war er nämlich von der steilen Felswand eines hohen Berges umgeben; die übrige Ebene umschloss die Loire in einem sanften Bogen\. Nur ein einziger, dazu sehr schmaler Weg führte dorthin\. Er selbst hatte eine aus Holz zusammengefügte Zelle, und viele der Brüder wohnten auf die gleiche Weise; die meisten hatten sich jedoch Unterkünfte in den Fels des darüber aufragenden Berges gehauen\. Es waren achtzig Schüler, die nach dem Vorbild ihres seligen Lehrers angeleitet wurden\. Niemand dort besaß etwas für sich allein; alles legten sie zusammen\.[^bible-6ac8b1b6-d347-4b09-91cb-c8e6a8617248] Niemand durfte etwas kaufen oder verkaufen, obwohl das bei den meisten Mönchen üblich ist\. Außer dem Abschreiben von Büchern wurde dort kein Handwerk betrieben\. Diese Arbeit war allerdings den Jüngeren zugewiesen; die Älteren widmeten sich dem Gebet\. Selten verließ einer seine Zelle, außer wenn sie sich am Gebetsort versammelten\. Alle nahmen nach Ablauf der Fastenzeit des Tages gemeinsam die Mahlzeit ein\. Wein kannte niemand, es sei denn, Krankheit zwang ihn dazu\. Die meisten trugen Kamelhaar als Kleidung; weichere Kleidung galt dort als Vergehen\. Das muss umso mehr erstaunen, als es unter ihnen viele Adlige gab, die sich trotz ihrer ganz anderen Erziehung zu solcher Demut und Geduld gezwungen hatten\. Mehrere von ihnen haben wir später als Bischöfe erlebt\. Denn welche Stadt oder Kirche hätte sich nicht einen Bischof aus Martins Kloster gewünscht?
+
+## Bibelverweise
+
+[^bible-6ac8b1b6-d347-4b09-91cb-c8e6a8617248]: Apg 4,32

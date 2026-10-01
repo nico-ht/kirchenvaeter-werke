@@ -1,0 +1,14 @@
+# Vita Martini – Kapitel 7: Martin widersteht den Arianern und wird nach seiner Vertreibung durch Gebet vor dem Gifttod bewahrt
+
+Autor: Sulpicius Severus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/sulpicius-severus/vita-martini-sulpicius-severus#kapitel-553d70a2-844b-40d1-e61a-08df1edf27ba).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Martinus zog also von dort weiter\. Als er Mailand hinter sich gelassen hatte, nahm der Teufel menschliche Gestalt an, trat ihm auf dem Weg entgegen und fragte ihn, wohin er gehe\. Martinus antwortete, er gehe dorthin, wohin der Herr ihn rufe\. Darauf sagte der Teufel zu ihm: „Wohin du dich auch wendest oder was du auch unternimmst, der Teufel wird sich dir widersetzen\.“ Da antwortete Martinus ihm mit dem Wort des Propheten: „Der Herr ist mein Helfer; ich werde mich nicht davor fürchten,[^bible-c1fe52b5-e247-4c4b-bb5b-afa9ad03b08b] was ein Mensch mir antun kann\.[^bible-c1fe52b5-e247-4c4b-bb5b-afa9ad03b08b] “ Sogleich verschwand der Feind vor seinen Augen\. So befreite er, wie er es sich in Herz und Sinn vorgenommen hatte, seine Mutter vom Irrtum des Heidentums, während sein Vater am Bösen festhielt\. Dennoch rettete er durch sein Beispiel viele\. Als dann die arianische Häresie auf der ganzen Erde und besonders in Illyrien um sich griff, kämpfte er fast allein mit größter Entschiedenheit gegen die Glaubensuntreue der Priester und erlitt vielerlei Misshandlungen\. Denn er wurde sogar öffentlich mit Ruten geschlagen und schließlich gezwungen, die Stadt zu verlassen\. Auf dem Rückweg nach Italien erfuhr er, dass auch in Gallien die Kirche durch den Weggang des heiligen Hilarius erschüttert war, den die Gewalt der Häretiker ins Exil gezwungen hatte\. So richtete er sich in Mailand ein Kloster ein\. Auch dort verfolgte ihn Auxentius, der Wortführer und das Oberhaupt der Arianer, aufs Härteste\. Er tat ihm vielfach Unrecht und vertrieb ihn aus der Stadt\. Martinus meinte daher, er müsse den Zeitumständen weichen, und zog sich auf eine Insel namens Gallinaria zurück\. Ihn begleitete ein Presbyter, ein Mann von großer Tugend\. Hier lebte er eine Zeit lang von Kräuterwurzeln\. In dieser Zeit aß er Nieswurz, eine, wie man sagt, giftige Pflanze\. Doch als er spürte, wie das Gift in ihm wütete, und dem Tod schon nahe war, wandte er durch sein Gebet die drohende Gefahr ab, und sogleich verschwand jeder Schmerz\. Nicht lange danach erfuhr er, dass der König dem heiligen Hilarius aus Reue gestattet hatte, zurückzukehren\. Er versuchte, ihn in Rom zu treffen, und machte sich auf den Weg in die Stadt\.
+
+## Bibelverweise
+
+[^bible-c1fe52b5-e247-4c4b-bb5b-afa9ad03b08b]: Ps 117,6

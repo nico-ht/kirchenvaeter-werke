@@ -1,0 +1,10 @@
+# Vita Martini – Kapitel 13: Martin hält einen Leichenzug für eine Opferfeier, stoppt ihn mit dem Kreuzzeichen und lässt ihn dann weiterziehen
+
+Autor: Sulpicius Severus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/sulpicius-severus/vita-martini-sulpicius-severus#kapitel-1686f526-3811-4a92-e620-08df1edf27ba).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Als er später einmal unterwegs war, begegnete ihm der Leichnam eines Heiden, den man unter abergläubischen Begräbnisriten zum Grab trug\. Als er von Weitem die herankommende Menschenmenge sah, blieb er kurz stehen, ohne zu wissen, was das zu bedeuten hatte\. Sie war nämlich etwa fünfhundert Doppelschritte entfernt, sodass sich nur schwer erkennen ließ, was er vor sich hatte\. Da er jedoch eine Schar Bauern sah und die über den Leichnam gebreiteten Tücher im Wind flatterten, glaubte er, man vollziehe gottlose Opferriten\. Denn die Bauern Galliens pflegten in ihrem erbärmlichen Wahn Dämonenbilder, mit einem weißen Tuch verhüllt, über ihre Felder umherzutragen\. Er machte also mit erhobener Hand das Kreuzzeichen in Richtung der Entgegenkommenden und befahl der Menge, stehen zu bleiben und ihre Last abzusetzen\. Da konnte man auf wunderbare Weise sehen, wie die Unglücklichen zuerst wie Steine erstarrten\. Dann versuchten sie mit aller Kraft voranzukommen, konnten aber keinen Schritt weitergehen und drehten sich auf lächerliche Weise im Kreis, bis sie sich geschlagen gaben und ihre Last, den Leichnam, absetzten\. Bestürzt sahen sie einander an und fragten sich schweigend, was ihnen widerfahren war\. Als der selige Mann aber erfuhr, dass sich die Menge zu einem Begräbnis und nicht zu einer Opferfeier versammelt hatte, hob er erneut die Hand und gab ihnen die Möglichkeit, weiterzugehen und den Leichnam aufzunehmen\. So zwang er sie stillzustehen, als er es wollte, und ließ sie, als es ihm beliebte, weiterziehen\.
