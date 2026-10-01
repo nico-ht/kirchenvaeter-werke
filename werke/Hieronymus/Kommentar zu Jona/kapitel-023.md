@@ -1,0 +1,23 @@
+# Kommentar zu Jona – Kapitel 23: Das begrabene Fleisch wird auferstehen: Seine Herrlichkeit ändert sich, nicht seine Natur
+
+Autor: Hieronymus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/hieronymus/kommentar-zu-jona#kapitel-e636ee4e-948f-40b5-35f0-08df1e707555).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Und du wirst mein Leben aus der Verwesung emporheben, Herr, mein Gott\.[^bible-99b480e4-2a39-43c7-a2a7-d24ff4895dc2] “ Die Siebzig übersetzen: „Und möge mein Leben aus der Verwesung emporsteigen, Herr, mein Gott\.[^bible-99b480e4-2a39-43c7-a2a7-d24ff4895dc2] “ Treffend heißt es „du wirst emporheben[^bible-99b480e4-2a39-43c7-a2a7-d24ff4895dc2] “ oder „möge mein Leben aus der Verwesung emporsteigen[^bible-99b480e4-2a39-43c7-a2a7-d24ff4895dc2] “, weil er zur Verwesung und in die Unterwelt hinabgestiegen war\. Darauf beziehen die Apostel das prophetische Wort, das im fünfzehnten Psalm aus dem Mund des Herrn gesprochen wird: „Denn du wirst meine Seele nicht in der Unterwelt zurücklassen und deinen Heiligen die Verwesung nicht sehen lassen\.[^bible-99ac0a98-f2a0-457a-bb26-1d22c8e3bfb2] “ David ist nämlich gestorben und begraben worden; das Fleisch des Erlösers aber hat die Verwesung nicht gesehen\.[^bible-bd4144b9-e790-4a3d-8e3b-b2d777b8fd3d] Andere hingegen legen es so aus: Im Vergleich zur himmlischen Seligkeit und zum Wort Gottes sei der menschliche Leib Verderbnis; er werde in Verwesung gesät[^bible-cfe5e5e1-8ecb-4949-a73f-b63b6a0c4fd1]\. Darauf werde auch im hundertzweiten Psalm mit den Worten des Gerechten hingewiesen: „Der alle deine Gebrechen heilt, der dein Leben aus dem Verderben erlöst hat\.[^bible-2cfbca65-572c-4b37-8dd9-f5af4bf59cd0] “ Daher sagt auch der Apostel: „Ich elender Mensch\! Wer wird mich aus dem Leib dieses Todes befreien?[^bible-1391cf44-863c-4ea1-afd2-6d57a68a52de] “ Er wird also „Leib des Todes[^bible-1391cf44-863c-4ea1-afd2-6d57a68a52de] “ oder „Leib der Niedrigkeit[^bible-e02eaf6d-26c4-4fc0-8800-8453044eeccb] “ genannt\. Das nehmen sie zum Anlass für ihre Häresie, um unter der Gestalt Christi lügnerisch den Antichristen darzustellen, Kirchen in ihrer Gewalt zu halten, um ihren überaus fetten Bauch zu mästen, und gegen das Fleisch zu streiten, während sie nach dem Fleisch leben\. Wir aber wissen, dass der aus der unversehrten Jungfrau angenommene Leib für Christus keine Verderbnis war, sondern ein Tempel\. Hält man uns aber die Aussage des Apostels an die Korinther entgegen, in der der Leib als „geistlich[^bible-9ce34f20-08c7-4f82-824d-33cbea3ff818] “ bezeichnet wird, so werden wir, um nicht streitsüchtig zu erscheinen, sagen: Genau derselbe Leib und dasselbe Fleisch, das begraben und in der Erde bestattet wurde, werden auferstehen; doch das Fleisch ändert seine Herrlichkeit, nicht seine Natur\. „Denn dieses Verwesliche muss Unverweslichkeit anziehen und dieses Sterbliche Unsterblichkeit\.[^bible-7535910f-d24e-418a-897e-c80367a08e0e] “ Wenn es „dieses[^bible-7535910f-d24e-418a-897e-c80367a08e0e] “ heißt, wird der Leib gleichsam mit zwei kleinen Fingern gefasst und vorgezeigt: dieser Leib, in dem wir geboren werden, dieser, in dem wir sterben, dieser, den wiederzuempfangen diejenigen fürchten, die bestraft werden sollen, dieser, den die Jungfräulichkeit in Erwartung des Lohnes ersehnt und der Ehebruch aus Furcht vor der Strafe scheut\. Auf Jona bezogen lässt sich die Stelle so verstehen: Er hätte im Bauch des Meerungeheuers[^bible-f35ab90e-dda7-4ffd-b1c1-1d9949167ed9] nach der Natur der Körper verwesen, dem Tier zur Nahrung werden und sich in dessen Adern und Gliedern verteilen müssen; dennoch blieb er heil und unversehrt\. Wenn er aber „Herr, mein Gott[^bible-99b480e4-2a39-43c7-a2a7-d24ff4895dc2] “ sagt, liegt darin innige Zuwendung: Weil die Wohltat so groß war, empfand er den Gott aller als seinen, gleichsam als seinen eigenen Gott\.
+
+## Bibelverweise
+
+[^bible-1391cf44-863c-4ea1-afd2-6d57a68a52de]: Röm 7,24
+[^bible-2cfbca65-572c-4b37-8dd9-f5af4bf59cd0]: Ps 102,3–Ps 102,4
+[^bible-7535910f-d24e-418a-897e-c80367a08e0e]: 1Kor 15,53
+[^bible-99ac0a98-f2a0-457a-bb26-1d22c8e3bfb2]: Ps 15,10
+[^bible-99b480e4-2a39-43c7-a2a7-d24ff4895dc2]: Jona 2,7
+[^bible-9ce34f20-08c7-4f82-824d-33cbea3ff818]: 1Kor 15,44
+[^bible-bd4144b9-e790-4a3d-8e3b-b2d777b8fd3d]: Apg 2,29; Apg 2,31
+[^bible-cfe5e5e1-8ecb-4949-a73f-b63b6a0c4fd1]: 1Kor 15,42
+[^bible-e02eaf6d-26c4-4fc0-8800-8453044eeccb]: Phil 3,21
+[^bible-f35ab90e-dda7-4ffd-b1c1-1d9949167ed9]: Jona 2,1
