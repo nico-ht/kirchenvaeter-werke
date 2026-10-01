@@ -560,6 +560,13 @@
     "contentRevision": "sha256:eedf343bc298f400398fff53bcfd7261fb1b940aa4af2016259068647b7f9d5c"
   },
   {
+    "workId": "d274cde3-8cd6-4e6d-cc99-08df1e707511",
+    "authorName": "Hieronymus",
+    "title": "Kommentar zu Jona",
+    "directory": "werke/Hieronymus/Kommentar zu Jona",
+    "contentRevision": "sha256:984019acf12a7067a808272fb51c82f3e1cbe93b9fda45184b0aacb0fbf87b43"
+  },
+  {
     "workId": "6ff34669-301d-4b25-252e-08dd75f9cbf5",
     "authorName": "Hilarius von Poitiers",
     "title": "Psalm 1",
@@ -2247,6 +2254,13 @@
     "contentRevision": "sha256:2f0b87b1c3e81da4cbcd81d06b9eb74663527917e771a218a5a7176b58c4dbae"
   },
   {
+    "workId": "5e1a0d68-f824-4e31-978e-08df1efbfc61",
+    "authorName": "Sulpicius Severus",
+    "title": "Vita Martini",
+    "directory": "werke/Sulpicius Severus/Vita Martini",
+    "contentRevision": "sha256:6810fc5a692fc4c7a2b1c32376dcd5b4b820c96373461e6dbfaa025abeb71ff8"
+  },
+  {
     "workId": "157434d8-4624-48d7-f954-08ded167e5bd",
     "authorName": "Tatian",
     "title": "Ansprache an die Griechen",
@@ -2279,7 +2293,7 @@
     "authorName": "Tertullian",
     "title": "Verschreibung gegen Häretiker",
     "directory": "werke/Tertullian/Verschreibung gegen Häretiker",
-    "contentRevision": "sha256:9c5bd4f20229516b145b2e4cad87ad8c4aebdfb45b6c5c3300420a48c786e39e"
+    "contentRevision": "sha256:8609a7f44de35c310c8ffdc19ced2d32ac2e093c2afeb736954bf169075a43af"
   },
   {
     "workId": "44e81786-7ca6-401d-b15c-08dd0a5aceeb",
@@ -2287,6 +2301,13 @@
     "title": "Über das Gebet",
     "directory": "werke/Tertullian/Über das Gebet",
     "contentRevision": "sha256:4c9ce0d7f2769cf7654e2e9b74fc86cb5c2eaad97bb0501716551d8c2ced5f94"
+  },
+  {
+    "workId": "aa8fac76-4211-442a-978d-08df1efbfc61",
+    "authorName": "Tertullian",
+    "title": "Über das Zeugnis der Seele",
+    "directory": "werke/Tertullian/Über das Zeugnis der Seele",
+    "contentRevision": "sha256:cf821247a9bf10e9249a976b0fa429eb038737c57e3e1e2fb98d594b7c5529b4"
   },
   {
     "workId": "9d88f5a2-b305-4a91-1751-08ddab223eaf",

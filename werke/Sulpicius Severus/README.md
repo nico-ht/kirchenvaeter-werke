@@ -1,13 +1,9 @@
-# Hieronymus
+# Sulpicius Severus
 
 Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de).
 
 **Nicht kommerziell · Quelle nennen · CC BY-NC-SA 4.0**
 
-## Werksammlungen
-
-- [Briefe](Briefe/) · 2 Werke
-
 ## Einzelwerke
 
-- [Kommentar zu Jona](Kommentar%20zu%20Jona/) · 41 Kapitel
+- [Vita Martini](Vita%20Martini/) · 28 Kapitel
