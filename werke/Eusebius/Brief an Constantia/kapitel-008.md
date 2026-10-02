@@ -7,7 +7,7 @@ Autor: Eusebius
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/eusebius/brief-an-constantia#kapitel-73865313-db6b-464c-881f-08dd0f27218b).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Simon Magus hat unter den Ungläubigen den Brauch, in lebloser Materie verehrt zu werden\. Wir haben auch den Namen des Wahnsinns bei den Manichäern gesehen, die ein Bild tragen\. Uns ist es jedoch verboten, solche Dinge zu tun, denn wir bekennen den Herrn, unseren Erlöser, als Gott, um ihn mit aller Sorgfalt zu sehen, indem wir unsere Herzen reinigen, damit wir ihn rein sehen\. "Selig sind die Reinen im Herzen, denn sie werden Gott sehen\."[^bible-1be6c32f-bfcc-4534-bd7d-5f69f1bb4695] Wenn wir also aus der Fülle des kommenden Lebens von Angesicht zu Angesicht und der Sicht unseres Erlösers die Bilder des Logos Gottes haben, dann könnten wir sie haben\.
+Es heißt unter den gottlosen Häretikern, Simon Magus werde in einem Bild aus lebloser Materie verehrt\. Und wir selbst haben bei den Manichäern gesehen, wie der Namensvetter des Wahnsinns durch ein Bild gestützt wird\. Solche Dinge sind uns aber verboten\. Denn da wir den Herrn, unseren Erlöser, als Gott bekennen, bereiten wir uns darauf vor, Gott zu sehen\. Dabei reinigen wir sorgfältig unsere Herzen, damit wir ihn sehen, wenn wir rein geworden sind\. "Selig sind die Reinen im Herzen, denn sie werden Gott sehen\."[^bible-1be6c32f-bfcc-4534-bd7d-5f69f1bb4695] Wenn du dennoch vor dem künftigen Schauen unseres Erlösers von Angesicht zu Angesicht seinen Bildern einen so hohen Wert beimisst, welchen besseren Maler des Wortes Gottes könnten wir haben? Gewiss …
 
 ## Bibelverweise
 
