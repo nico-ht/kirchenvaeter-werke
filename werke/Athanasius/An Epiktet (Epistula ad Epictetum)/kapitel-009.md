@@ -1,0 +1,17 @@
+# An Epiktet \(Epistula ad Epictetum\) – Kapitel 9: Die Menschwerdung fügt der Dreiheit nichts hinzu, sondern macht den menschlichen Leib unsterblich
+
+Autor: Athanasius
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/an-epiktet#kapitel-9e060fd2-1946-4854-e6c7-08df1edf27ba).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn sie so argumentieren, merken sie nicht, in welchen Widerspruch sie sich verwickeln\. Denn obwohl sie sagen, der Leib stamme nicht von Maria, sondern sei wesensgleich mit dem Wort, lässt sich dennoch aus ihren eigenen Voraussetzungen beweisen, dass daraus eine Vierheit folgt\. Gerade das verschleiern sie, damit man ihnen nicht ihre wirkliche Ansicht zuschreibt\. Denn wie der Sohn nach der Lehre der Väter wesensgleich mit dem Vater, aber nicht der Vater selbst ist, sondern als Sohn wesensgleich mit dem Vater genannt wird, so ist auch der Leib, den sie als wesensgleich mit dem Wort bezeichnen, nicht das Wort selbst, sondern etwas von ihm Verschiedenes\. Wenn es sich aber so verhält, wird nach ihrer eigenen Darstellung aus ihrer Dreiheit eine Vierheit\. Denn die wahre, wirklich vollkommene und unteilbare Dreiheit lässt keine Hinzufügung zu, anders als die Dreiheit, die sich diese Leute vorstellen\. Und wie können Menschen Christen bleiben, die sich neben dem wahren Gott noch einen anderen vorstellen? Denn auch an ihrem anderen Irrtum lässt sich erkennen, wie groß ihre Dummheit ist\. In den Schriften steht, dass der Leib des Erlösers menschlich ist und von Maria stammt\. Wenn sie nun meinen, deshalb trete an die Stelle der Dreiheit eine Vierheit, als käme durch den Leib etwas hinzu, dann gehen sie sehr weit in die Irre: Sie stellen sogar das Geschöpf dem Schöpfer gleich und nehmen an, der Gottheit könne etwas hinzugefügt werden\. Sie haben nicht erkannt, dass das Wort Fleisch geworden ist[^bible-79ff8ebe-1ad8-4383-822a-65aff1cd04af], nicht weil der Gottheit etwas hinzugefügt worden wäre, sondern damit das Fleisch aufersteht\. Auch ging das Wort nicht aus Maria hervor, um selbst vollkommener zu werden, sondern um das Menschengeschlecht freizukaufen\. Wie können sie also meinen, der vom Wort freigekaufte und lebendig gemachte Leib habe dem Wort, das ihn lebendig gemacht hat, etwas an Gottheit hinzugefügt? Im Gegenteil: Dem menschlichen Leib selbst ist durch die Gemeinschaft und Vereinigung des Wortes mit ihm ein großer Zuwachs zuteilgeworden\. Denn statt sterblich zu sein, ist er unsterblich geworden[^bible-b388fccd-0898-4c85-b032-3d707ca6b598]; und obwohl er ein natürlicher Leib war, ist er geistlich geworden[^bible-8725c070-e373-41ae-8d8f-64ceab27a02b], und obwohl er aus Erde gemacht war[^bible-93a3080b-dd64-4b38-bd0f-fdc3f1ef88f4], trat er durch die himmlischen Tore ein\. Die Dreiheit bleibt also eine Dreiheit, obwohl das Wort einen Leib von Maria annahm, denn sie lässt weder Hinzufügung noch Verminderung zu\. Vielmehr ist sie immer vollkommen, und in der Dreiheit wird eine Gottheit erkannt\. So wird auch in der Kirche ein Gott verkündigt, der Vater des Wortes\.
+
+## Bibelverweise
+
+[^bible-79ff8ebe-1ad8-4383-822a-65aff1cd04af]: Joh 1,14
+[^bible-8725c070-e373-41ae-8d8f-64ceab27a02b]: 1Kor 15,44
+[^bible-93a3080b-dd64-4b38-bd0f-fdc3f1ef88f4]: 1Kor 15,47
+[^bible-b388fccd-0898-4c85-b032-3d707ca6b598]: 1Kor 15,53

@@ -1,0 +1,17 @@
+# An Epiktet \(Epistula ad Epictetum\) – Kapitel 8: „Fleisch geworden“ heißt: Das Wort nahm sterbliches Fleisch an, das nicht schon vor Maria bestand
+
+Autor: Athanasius
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/an-epiktet#kapitel-9b304595-9e48-49eb-e6c6-08df1edf27ba).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Da dies nun so bewiesen ist, erübrigt es sich, die übrigen Punkte anzusprechen oder sie zu erörtern\. Denn der Leib, in dem das Wort war, ist nicht wesensgleich mit der Gottheit, sondern wurde wahrhaft von Maria geboren; das Wort selbst aber wurde nicht in Knochen und Fleisch verwandelt, sondern kam im Fleisch\. Denn wenn Johannes sagt: „Das Wort ist Fleisch geworden[^bible-a11298c4-9b6e-4627-a00d-d6a9c22494ce] “, ist das in diesem Sinn zu verstehen, wie wir an einer ähnlichen Stelle erkennen können\. Bei Paulus steht nämlich geschrieben: „Christus ist für uns zum Fluch geworden\.[^bible-fb35bf8d-444f-45bb-9953-ecc3fb2c6c03] “ Er ist nicht selbst zum Fluch geworden; vielmehr wird dies von ihm gesagt, weil er den Fluch für uns auf sich nahm\. Ebenso ist er auch nicht dadurch Fleisch geworden, dass er in Fleisch verwandelt wurde, sondern dadurch, dass er für uns lebendiges Fleisch annahm und Mensch geworden ist\. Denn „Das Wort ist Fleisch geworden[^bible-a11298c4-9b6e-4627-a00d-d6a9c22494ce] “ bedeutet dasselbe wie „Das Wort ist Mensch geworden“\. Dem entspricht, was bei Joel gesagt wird: „Ich werde von meinem Geist über alles Fleisch ausgießen\.[^bible-704d807c-f068-4be8-a52c-0fe905b5838e] “ Denn die Verheißung erstreckte sich nicht auf die vernunftlosen Tiere, sondern gilt den Menschen, um derentwillen der Herr Mensch geworden ist\. Da dies also der Sinn der oben angeführten Stelle ist, werden sich mit Recht alle selbst verurteilen, die gemeint haben, das von Maria stammende Fleisch habe schon vor ihr existiert und das Wort habe schon vor ihr eine menschliche Seele gehabt und immer, auch vor seinem Kommen, in dieser Seele existiert\. Auch diejenigen werden ihre Behauptung aufgeben, das Fleisch sei nicht sterblich gewesen, sondern habe zur unsterblichen Natur gehört\. Denn wenn es nicht gestorben ist, wie konnte Paulus dann den Korinthern überliefern: „Christus ist für unsere Sünden gestorben, gemäß den Schriften[^bible-54b44fcc-5206-4f45-809c-8af9057e7700] “? Oder wie ist er überhaupt auferstanden, wenn er nicht auch gestorben ist? Wiederum werden diejenigen vor Scham tief erröten, die auch nur für möglich gehalten haben, dass sich eine Vierheit statt einer Dreiheit ergibt, wenn man sagt, der Leib stamme von Maria\. Denn sie argumentieren: „Wenn wir sagen, der Leib sei wesensgleich mit dem Wort, bleibt die Dreiheit eine Dreiheit; denn dann bringt das Wort kein fremdes Element in sie hinein\. Wenn wir aber einräumen, dass der von Maria stammende Leib menschlich ist, folgt daraus, dass durch das Hinzukommen des Leibes eine Vierheit statt einer Dreiheit entsteht, weil der Leib dem Wesen nach fremd ist und das Wort in ihm ist\.“
+
+## Bibelverweise
+
+[^bible-54b44fcc-5206-4f45-809c-8af9057e7700]: 1Kor 15,3
+[^bible-704d807c-f068-4be8-a52c-0fe905b5838e]: Joel 3,1
+[^bible-a11298c4-9b6e-4627-a00d-d6a9c22494ce]: Joh 1,14
+[^bible-fb35bf8d-444f-45bb-9953-ecc3fb2c6c03]: Gal 3,13
