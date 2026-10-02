@@ -105,6 +105,13 @@
     "contentRevision": "sha256:f7078482008f30c4ecd7a90b9ade1d0dc0393038b03847855d5584cbc177b610"
   },
   {
+    "workId": "5f6a4451-9026-44b0-97bc-08df1efbfc61",
+    "authorName": "Athanasius",
+    "title": "An Epiktet (Epistula ad Epictetum)",
+    "directory": "werke/Athanasius/An Epiktet (Epistula ad Epictetum)",
+    "contentRevision": "sha256:1d49c6a0e167202d7ae00b48c6c000d780669e206083cbdf41d29ebe3212cefd"
+  },
+  {
     "workId": "944df04d-8349-40a9-2c57-08dd392b4362",
     "authorName": "Athanasius",
     "title": "Das Leben des Heiligen Antonius",
@@ -137,7 +144,7 @@
     "authorName": "Athenagoras von Athen",
     "title": "Ein Plädoyer für die Christen",
     "directory": "werke/Athenagoras von Athen/Ein Plädoyer für die Christen",
-    "contentRevision": "sha256:5acf44eaa1f256f497afb88e14079247c05b61dee55c083191d59c47cda21edf"
+    "contentRevision": "sha256:42ca994207bbbcfcd6c8e7d28bb8ffe2acceea390e0f1b0d8eda9d069acc3de6"
   },
   {
     "workId": "7d89d74d-df95-4c6b-7d58-08df134d0ace",
@@ -228,14 +235,14 @@
     "authorName": "Clemens von Alexandria",
     "title": "Der Erzieher: Buch 3",
     "directory": "werke/Clemens von Alexandria/Der Erzieher/Der Erzieher Buch 3",
-    "contentRevision": "sha256:0319a933d1209e4f8c14f3b18562556d00aba8ce1795e0515adc508d8880ef47"
+    "contentRevision": "sha256:584fedae76ba3d8cab7017781cbbf67dbdb9c2e59747686ecfc500f41dc3c38e"
   },
   {
     "workId": "307235dc-c480-48a4-ccc1-08dd2abb5377",
     "authorName": "Clemens von Alexandria",
     "title": "Ermahnung an die Heiden",
     "directory": "werke/Clemens von Alexandria/Ermahnung an die Heiden",
-    "contentRevision": "sha256:4aa86a29c298c883555ac892cc7a7c2f508697617d2dd829ac0a69f7db7a1987"
+    "contentRevision": "sha256:44c3e559bba1fb5b73eed63d9cc91ca0b667c9c8f474c6a631e8809191e5cd9f"
   },
   {
     "workId": "7a183836-343f-434e-e4d7-08dd0635942f",
@@ -270,7 +277,7 @@
     "authorName": "Clemens von Rom",
     "title": "2. Clemens",
     "directory": "werke/Clemens von Rom/2. Clemens",
-    "contentRevision": "sha256:a2a94d31d6111c33fa5162718861d55840b7b711d71dbcc1c59150bb36dada08"
+    "contentRevision": "sha256:6f6ad356426891b7da88f807c77d8a24267530daf661d4c5aa81de29935c3d2f"
   },
   {
     "workId": "bbdf6254-f995-4761-89b9-08de3c1236d5",
@@ -305,14 +312,14 @@
     "authorName": "Clemens von Rom",
     "title": "Erkenntnisse, Buch 4",
     "directory": "werke/Clemens von Rom/Erkenntnisse des Clemens/Erkenntnisse, Buch 4",
-    "contentRevision": "sha256:e9a79a111a143b7486d30c335734d14d20706f0c6222da56c6b298a515f84a5f"
+    "contentRevision": "sha256:e791d4e259eb37b06ae911cafd323da43b41f893cc1369325111aab75af5acfa"
   },
   {
     "workId": "87fa3f9e-2534-4ac4-e4cf-08dd0635942f",
     "authorName": "Clemens von Rom",
     "title": "Erkenntnisse, Buch 5",
     "directory": "werke/Clemens von Rom/Erkenntnisse des Clemens/Erkenntnisse, Buch 5",
-    "contentRevision": "sha256:c1a3f230e0c1047b4c4cee2508659f96671708b56c49a4ee3d047d4064378af6"
+    "contentRevision": "sha256:541b25706bc295b0c64055ca5dc907df7f3902145455345c1516da61cb032263"
   },
   {
     "workId": "528219a0-d0d8-42c4-e4d0-08dd0635942f",
@@ -438,7 +445,7 @@
     "authorName": "Eusebius",
     "title": "Brief an Constantia",
     "directory": "werke/Eusebius/Brief an Constantia",
-    "contentRevision": "sha256:25e2899876363591c4ce26b44c150484b95629c35ccfbcf98fae54c02aee8d70"
+    "contentRevision": "sha256:aa16231cea9420a7eadff0e8b1a01cb5d7c7f500969c78ff5179841eaebe835b"
   },
   {
     "workId": "5ca3c27c-6735-4936-6e5f-08dd7a819d15",
@@ -453,6 +460,13 @@
     "title": "Psalm 3",
     "directory": "werke/Eusebius/Kommentare zu Psalmen/Psalm 3",
     "contentRevision": "sha256:8a0047258ba64418682096bb6c50ef2dcda1caacb49be1966db89a5ede597975"
+  },
+  {
+    "workId": "85214496-4932-458c-97a0-08df1efbfc61",
+    "authorName": "Eusebius",
+    "title": "Über die Märtyrer in Palästina (Kurzfassung)",
+    "directory": "werke/Eusebius/Über die Märtyrer in Palästina (Kurzfassung)",
+    "contentRevision": "sha256:d68cb176e74a2465628dbd0773f726af22bb9339fefaf560adb93c604629e8c9"
   },
   {
     "workId": "bc254ec2-2924-4902-b385-08de3975987e",
@@ -488,6 +502,13 @@
     "title": "Kanonischer Brief",
     "directory": "werke/Gregor der Wundertäter/Kanonischer Brief",
     "contentRevision": "sha256:db7a45b7870c5fa4cf9b26b3f195cc934c5018b4c5963fb424308124f8d76ca3"
+  },
+  {
+    "workId": "90319549-c840-4b1a-8c11-08dde61a9769",
+    "authorName": "Gregor der Wundertäter",
+    "title": "Rede und Lobpreisung an Origenes",
+    "directory": "werke/Gregor der Wundertäter/Rede und Lobpreisung an Origenes",
+    "contentRevision": "sha256:ef6566acca609707ec7e8cd014773ef06cfea0ba7e59a7b893c15d7e5b196d2b"
   },
   {
     "workId": "834c85f9-3876-4433-b0da-08defd4c3bc2",
@@ -543,7 +564,7 @@
     "authorName": "Hermas",
     "title": "Der Hirte des Hermas, Buch 3",
     "directory": "werke/Hermas/Der Hirte des Hermas, Buch 3",
-    "contentRevision": "sha256:2e8bf7c4461f38d40d873dd473ce95f67b70f9349997e62ebc62c440fb2c4a7a"
+    "contentRevision": "sha256:23958cef5442fda2fd30c552dab6f1f273dd01c80b7c6a25c3bb36b9ddb25f49"
   },
   {
     "workId": "29a4690e-168b-4b17-dece-08deb44c216c",
@@ -1544,7 +1565,7 @@
     "authorName": "Justin der Märtyrer",
     "title": "1. Apologie",
     "directory": "werke/Justin der Märtyrer/1. Apologie",
-    "contentRevision": "sha256:3fe8a1519d8b9e85290fcc71390cd83d72c2710e3206dcdde525f48d9fd14306"
+    "contentRevision": "sha256:4b10f3af06aa8d03d323b3584bf4808513f5e5cc18eee399e0207e042d4320de"
   },
   {
     "workId": "c885ee6e-4032-459a-e31c-08dd179e6f06",
@@ -1705,7 +1726,7 @@
     "authorName": "Minucius Felix",
     "title": "Octavius",
     "directory": "werke/Minucius Felix/Octavius",
-    "contentRevision": "sha256:3a4439d98d91c5280d4746c42eff00732c30d2819f50b69b6ee631b6c930cc5a"
+    "contentRevision": "sha256:051305e2a00d43bac361765ee52ecd9d747bae0d28e2783123584a27970ec24e"
   },
   {
     "workId": "f41244a9-b7a7-4dd3-90c7-08de390c5250",
@@ -2006,7 +2027,7 @@
     "authorName": "Origenes",
     "title": "8. Predigt zu Exodus",
     "directory": "werke/Origenes/Predigten zu Exodus/8. Predigt zu Exodus",
-    "contentRevision": "sha256:f31a04e91679dd1fe19c290b5f8b3601a0464fdc005a074cc6701ca20fb94baa"
+    "contentRevision": "sha256:2962f3f2573a384a8390e28c795e41d2b4746b686fdbc65aa67c1787319e9b47"
   },
   {
     "workId": "2fb4da09-5f5f-4c89-7789-08ddceb31b3a",
@@ -2202,7 +2223,7 @@
     "authorName": "Rufinus von Aquila",
     "title": "Kirchengeschichte Buch 2",
     "directory": "werke/Rufinus von Aquila/Kirchengeschichte/Kirchengeschichte Buch 2",
-    "contentRevision": "sha256:788e15f942133245ca935719ae89976db7a637ca2e6f1bba8707f7dcb1301e39"
+    "contentRevision": "sha256:217a5941f69f5bf99b4eba31de44cd889556133db66b554886a9b4c62a8c4f45"
   },
   {
     "workId": "a1b4b642-bc5e-4442-60e5-08de07159c7c",
@@ -2230,7 +2251,7 @@
     "authorName": "Rufinus von Aquila",
     "title": "Kirchengeschichte Buch 7",
     "directory": "werke/Rufinus von Aquila/Kirchengeschichte/Kirchengeschichte Buch 7",
-    "contentRevision": "sha256:b858835688eeeef4a6c38e8ddc1e77388eb13cf28b6c2dd3811b143282bcfcbb"
+    "contentRevision": "sha256:beddc9a16dfb9b89531426712a4e20f15fb5848e398133a7db97a49179913f65"
   },
   {
     "workId": "bfbda4ce-fc57-4e1b-239a-08de2b8b78ca",
@@ -2293,7 +2314,7 @@
     "authorName": "Tertullian",
     "title": "Verschreibung gegen Häretiker",
     "directory": "werke/Tertullian/Verschreibung gegen Häretiker",
-    "contentRevision": "sha256:8609a7f44de35c310c8ffdc19ced2d32ac2e093c2afeb736954bf169075a43af"
+    "contentRevision": "sha256:433b1f50cb239b767f9c53ebb61d00840c180fb07e586bace0c8d614a407e39e"
   },
   {
     "workId": "44e81786-7ca6-401d-b15c-08dd0a5aceeb",
