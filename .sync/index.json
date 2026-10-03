@@ -53,7 +53,7 @@
     "authorName": "Apollonius von Rom",
     "title": "Der Prozess gegen Apollonius",
     "directory": "werke/Apollonius von Rom/Der Prozess gegen Apollonius",
-    "contentRevision": "sha256:91d456bd7b64d8fcf0d2c79a86687e520bab12c72fd6757cdc1c97e32256a38f"
+    "contentRevision": "sha256:6b9bf88781343f15ff5b047a670f80aa6052e385674dfdf26a680e72c7487961"
   },
   {
     "workId": "921c6003-b59c-4306-e97f-08deb834b202",
@@ -242,7 +242,7 @@
     "authorName": "Clemens von Alexandria",
     "title": "Ermahnung an die Heiden",
     "directory": "werke/Clemens von Alexandria/Ermahnung an die Heiden",
-    "contentRevision": "sha256:44c3e559bba1fb5b73eed63d9cc91ca0b667c9c8f474c6a631e8809191e5cd9f"
+    "contentRevision": "sha256:3e64bcb90948edd4484b2f278126eea66dbc25e4d2057b6f7b78521ead7fd768"
   },
   {
     "workId": "7a183836-343f-434e-e4d7-08dd0635942f",
@@ -277,7 +277,7 @@
     "authorName": "Clemens von Rom",
     "title": "2. Clemens",
     "directory": "werke/Clemens von Rom/2. Clemens",
-    "contentRevision": "sha256:6f6ad356426891b7da88f807c77d8a24267530daf661d4c5aa81de29935c3d2f"
+    "contentRevision": "sha256:daa32480a245adbb13433f822483a48483a11081c46ca73fd6a1e0bfc28689d0"
   },
   {
     "workId": "bbdf6254-f995-4761-89b9-08de3c1236d5",
@@ -445,7 +445,7 @@
     "authorName": "Eusebius",
     "title": "Brief an Constantia",
     "directory": "werke/Eusebius/Brief an Constantia",
-    "contentRevision": "sha256:aa16231cea9420a7eadff0e8b1a01cb5d7c7f500969c78ff5179841eaebe835b"
+    "contentRevision": "sha256:178f6cd67c1dbf518fa5c2b38549d237599f1431e25f03c521ad795b802ae8a3"
   },
   {
     "workId": "5ca3c27c-6735-4936-6e5f-08dd7a819d15",
@@ -564,7 +564,7 @@
     "authorName": "Hermas",
     "title": "Der Hirte des Hermas, Buch 3",
     "directory": "werke/Hermas/Der Hirte des Hermas, Buch 3",
-    "contentRevision": "sha256:23958cef5442fda2fd30c552dab6f1f273dd01c80b7c6a25c3bb36b9ddb25f49"
+    "contentRevision": "sha256:9abf5b9286133dfcca57bcc5f69d42b6e79f2cf8a305b32b6c8d3bb1a0702347"
   },
   {
     "workId": "29a4690e-168b-4b17-dece-08deb44c216c",
@@ -627,7 +627,7 @@
     "authorName": "Ignatius von Antiochien",
     "title": "Brief an die Römer",
     "directory": "werke/Ignatius von Antiochien/Brief an die Römer",
-    "contentRevision": "sha256:63488dfe14bc6d18235b47933663e0d6295117492a44eb713a6d8c2d6e1cfedb"
+    "contentRevision": "sha256:694e635bfbb98502200bb4086f7f4ad43dd17638ff5ec1943145250ae8b70079"
   },
   {
     "workId": "d3bb9758-89c5-46fe-70f3-08dd19508cd9",
@@ -662,7 +662,7 @@
     "authorName": "Irenäus von Lyon",
     "title": "Gegen die Häresien – Buch III",
     "directory": "werke/Irenäus von Lyon/Gegen die Häresien/Gegen die Häresien – Buch III",
-    "contentRevision": "sha256:40df7edc4a118f69514af055e8221c99e606eb79c3d8c77b9b970d3ab2e489e6"
+    "contentRevision": "sha256:258d0f6722428a378764502ef0074a5b0a53ad39a6d6ad7ba0181d3800df0319"
   },
   {
     "workId": "3052a516-7685-4c41-58ed-08def5890780",
@@ -683,7 +683,7 @@
     "authorName": "Irenäus von Lyon",
     "title": "Nachweis der apostolischen Verkündigung",
     "directory": "werke/Irenäus von Lyon/Nachweis der apostolischen Verkündigung",
-    "contentRevision": "sha256:78da25d3d665dc9aed0bfa547bce3c075a109d7fe09e6394804c011ebafe9f96"
+    "contentRevision": "sha256:ea37f8023aea80f2bc2f4984bdf3974af37224ddfe58c91725296f4e30af0feb"
   },
   {
     "workId": "ef3bd947-dafe-4f81-6949-08ded50c4988",
@@ -1026,7 +1026,7 @@
     "authorName": "Johannes Chrysostomus",
     "title": "4. Taufunterweisung",
     "directory": "werke/Johannes Chrysostomus/Taufunterweisung/4. Taufunterweisung",
-    "contentRevision": "sha256:cf6ff99025e22d70428c23434c898a4035e9f59474fe4ddf162a372f07a64cc7"
+    "contentRevision": "sha256:27082f7589fa0da3a0f0000ba0082ce9dba6c6331e4ef7c7843ad294346248fb"
   },
   {
     "workId": "ff91803a-9875-42de-55a4-08deedfb48dc",
@@ -1491,6 +1491,13 @@
     "contentRevision": "sha256:8111cc8df2a2da738cc88cbf1109d6ac10994702df7682a194c3c6ed25c32c05"
   },
   {
+    "workId": "13ec0d53-bdd3-4248-91a8-08df200aaa32",
+    "authorName": "Johannes Chrysostomus",
+    "title": "Zwei Ermahnungen an den gefallenen Theodor",
+    "directory": "werke/Johannes Chrysostomus/Zwei Ermahnungen an den gefallenen Theodor",
+    "contentRevision": "sha256:f0f998c4356d825ec3c39347216eb975edff58f93c71b7c299678dd029e1cc3d"
+  },
+  {
     "workId": "b9e000d5-28c2-40e3-e812-08ddc8482801",
     "authorName": "Johannes Chrysostomus",
     "title": "Über Eitelkeit und den richtigen Weg für Eltern, ihre Kinder zu erziehen",
@@ -1565,7 +1572,7 @@
     "authorName": "Justin der Märtyrer",
     "title": "1. Apologie",
     "directory": "werke/Justin der Märtyrer/1. Apologie",
-    "contentRevision": "sha256:4b10f3af06aa8d03d323b3584bf4808513f5e5cc18eee399e0207e042d4320de"
+    "contentRevision": "sha256:a52b5b1cab8d82cef7ed5d88239f1659384354371d0d4e8fac08f42540c58e73"
   },
   {
     "workId": "c885ee6e-4032-459a-e31c-08dd179e6f06",
@@ -1726,7 +1733,7 @@
     "authorName": "Minucius Felix",
     "title": "Octavius",
     "directory": "werke/Minucius Felix/Octavius",
-    "contentRevision": "sha256:051305e2a00d43bac361765ee52ecd9d747bae0d28e2783123584a27970ec24e"
+    "contentRevision": "sha256:c15597dbdcb9a040bb5bc97346da52bcbb31047eb9044c246d1bf362e8136a34"
   },
   {
     "workId": "f41244a9-b7a7-4dd3-90c7-08de390c5250",
@@ -2111,7 +2118,7 @@
     "authorName": "Origenes",
     "title": "Gegen Celsus, Buch 2",
     "directory": "werke/Origenes/Gegen Celsus/Gegen Celsus, Buch 2",
-    "contentRevision": "sha256:bd8d14d4c4fcaff0c1353a6c9e39b651b1c57bcb20d585b092d74f52d8c58f5e"
+    "contentRevision": "sha256:ce19401869b2b093b78fe013b21f889e5b6ca8f1daf21a35b5255a2cc81007be"
   },
   {
     "workId": "72a24bdd-8b1f-4065-01fc-08de04e590d4",
@@ -2405,7 +2412,7 @@
     "authorName": "Unbekannt",
     "title": "Vom Untergang Jerusalems, Buch 1",
     "directory": "werke/Unbekannt/Vom Untergang Jerusalems/Vom Untergang Jerusalems, Buch 1",
-    "contentRevision": "sha256:be86dad0128e43db79dcad9d86c1d10d6412f41bf041de19c06bd5048dd6a3ca"
+    "contentRevision": "sha256:e35a363caaf06b668db8e5675d770f92840416d60f5f6b11e22fe12dfb444b30"
   },
   {
     "workId": "e7865788-412a-44c6-1663-08ded489dfe9",
@@ -2433,7 +2440,7 @@
     "authorName": "Unbekannt",
     "title": "Vom Untergang Jerusalems, Buch 5",
     "directory": "werke/Unbekannt/Vom Untergang Jerusalems/Vom Untergang Jerusalems, Buch 5",
-    "contentRevision": "sha256:a807c1c5ae43a15852e3af1d1606ca20f26d454383046d321b62b36075d8f990"
+    "contentRevision": "sha256:f9f87f6c8655ce930fcc0cb0003d0443960475d0195af630c83d8d943b688226"
   },
   {
     "workId": "677d7a4d-af40-4462-e277-08dd2f5b6104",
@@ -2454,7 +2461,7 @@
     "authorName": "Zeno von Verona",
     "title": "Schrift 1 - Der Glaube",
     "directory": "werke/Zeno von Verona/Buch 1/Schrift 1 - Der Glaube",
-    "contentRevision": "sha256:6ee19e77f0fa39e1b9c25bb3ec6937c01a81326db537c552e3f6be530a01c7af"
+    "contentRevision": "sha256:edf733d36140f4e2cfa7c6e8a7f34989834f779752f62922a8307292af320a1f"
   },
   {
     "workId": "50d1ee6b-3a20-4be3-1916-08dd59d317fa",
