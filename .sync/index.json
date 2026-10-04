@@ -1635,7 +1635,7 @@
     "authorName": "Mathetes",
     "title": "Der Brief des Mathetes an Diognet",
     "directory": "werke/Mathetes/Der Brief des Mathetes an Diognet",
-    "contentRevision": "sha256:93295519dc4c86fe12ae62c52fe6016b01ae563d54c44c919b7fd06b6f9a0fa1"
+    "contentRevision": "sha256:4705e17890d592e2fb93e312cd6d10a9bc0d90117accd2fa2f53002ff3e0c5eb"
   },
   {
     "workId": "c44e8d53-5ac8-4ff7-5f7d-08dd666d69ba",
@@ -2280,6 +2280,13 @@
     "title": "Über den Vater und den Sohn",
     "directory": "werke/Serapion von Thmuis/Über den Vater und den Sohn",
     "contentRevision": "sha256:2f0b87b1c3e81da4cbcd81d06b9eb74663527917e771a218a5a7176b58c4dbae"
+  },
+  {
+    "workId": "171acd7d-dc42-4157-1731-08df2157bcd0",
+    "authorName": "Sulpicius Severus",
+    "title": "Brief an Eusebius (Epistula I)",
+    "directory": "werke/Sulpicius Severus/Brief an Eusebius (Epistula I)",
+    "contentRevision": "sha256:21c700803e6557c62492a004bd90c02ba3b536fc56f6c9bcc8ca41fddf191ea2"
   },
   {
     "workId": "5e1a0d68-f824-4e31-978e-08df1efbfc61",
