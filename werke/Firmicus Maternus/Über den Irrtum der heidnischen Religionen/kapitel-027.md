@@ -1,0 +1,25 @@
+# Über den Irrtum der heidnischen Religionen – Kapitel 27: Christus wird Mensch, um durch Gehorsam das von Adam verwirkte ewige Leben wiederzugewinnen
+
+Autor: Firmicus Maternus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/firmicus-maternus/firmicus-ueber-den-irrtum-der-heidnischen-religionen#kapitel-6198f2c1-d424-4926-a025-08df2302421e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ihr, meine Herren Kaiser, leiht mir geduldig eure heiligen Ohren, damit wir eurer Milde alles darlegen können, was wir versprechen\. Eurer Frömmigkeit soll kurz und wahrheitsgemäß erklärt werden, warum Gott, das heißt der Sohn Gottes, es auf sich nahm, Mensch zu werden\. Als Gott den ersten Menschen, Adam, nach seinem Bild schuf[^bible-f9adfe96-5203-4c0c-9df2-2dccc2dc0cb9], gab er ihm seine Gebote als festes Gesetz[^bible-d6dcf66c-68ff-4ec8-90f0-24e1588d9b86]\. Durch die Frau, Eva, täuschte ihn der Teufel mit seinen Überredungskünsten[^bible-48997913-4b48-4e8a-83aa-2db6ceed5adc], und er verlor die Würde der ihm verheißenen Herrlichkeit\. Im Paradies stand ein Baum[^bible-5aa7fbe5-c70c-4f10-a3f4-ffa3c01f6ba1]; der Mensch verlor die Gnadengaben, die Gott ihm als Lohn verheißen hatte\. Aus dem Lehm jungfräulicher Erde wurde der Mensch geschaffen[^bible-b8c9900f-f78b-4cf5-bec2-ff38933f1791]; denn, wie die Schrift sagt: „Noch hatte es auf die Erde nicht geregnet\.[^bible-64ec7aff-365e-4701-b047-3b96ea79628e] “ „Indem er Gottes Gebote missachtete, verstrickte er das Menschengeschlecht in die Schlingen der Sterblichkeit\.[^bible-d2b338f9-b9ca-4536-aec0-e76e815446f5] “ All dies musste erneuert und berichtigt werden, und die Erneuerung des Ursprungs musste die Anfänge erneuern\. Adam, aus dem Lehm jungfräulicher Erde geschaffen[^bible-b8c9900f-f78b-4cf5-bec2-ff38933f1791], verlor durch seine eigene Übertretung das verheißene Leben\. Christus, durch die Jungfrau Maria und den Heiligen Geist geboren[^bible-6e33d846-c180-4698-9af0-775845111a9b], empfing sowohl die Unsterblichkeit als auch das Reich\. Der Baum bot den Getäuschten todbringende Nahrung[^bible-b0e097a4-d1f6-4b40-8084-5ceb5c603bdf]; das Holz des Kreuzes stellte das Leben in einem unsterblichen Gefüge wieder her\. Adam verachtete Gottes Gebot; Christus gehorchte Gott\.[^bible-8761ff0a-107e-4496-ab9a-cdc57c8a8180] So fand Christus nach göttlichem Plan alles wieder, was Adam verloren hatte\. Denn nach langer Zeit, im letzten Abschnitt der Zeiten, also fast schon in der letzten Woche der Weltzeitalter, vereinte sich das Wort Gottes mit einem menschlichen Körper[^bible-8548eed2-22dd-4c9b-b1ed-e3206554ea3a], um den Menschen zu befreien, den Tod zu besiegen und die Gebrechlichkeit des menschlichen Körpers mit der göttlichen Unsterblichkeit zu verbinden\. Was könnte denn eine so große Schar Heiliger tun? Welche Hoffnung auf Rettung hätten sie, welchen Lohn für ihre Verdienste, wenn auch diese Schar demselben Schicksal unterworfen und in den unentrinnbaren Schlingen der Sterblichkeit gefangen wäre? Nichts könnte Abel, nichts Henoch, nichts Noah, nichts Sem, nichts Abraham, nichts Isaak, nichts Jakob sich von Gottes Barmherzigkeit und Majestät versprechen\. Auch sie müssten nach so großem Verdienst ihres Glaubens mit allen anderen, die ebenso verurteilt sind, denselben Weg gehen, und alle Heiligen Gottes würde derselbe Untergang im Tod erwarten\. Frömmigkeit hätte bei Gott keinen Lohn, wenn ein und dasselbe Todeslos alle verschlingen würde\. Doch Gott hatte Abraham ein Reich verheißen, heller als die Sterne des Himmels\. Deshalb empfängt die Jungfrau Maria, die aus Abrahams Geschlecht stammt, Gott[^bible-3a54db10-4556-4bed-9c22-1cc19389fd95], damit die Nachkommenschaft der zuvor genannten Menschen durch das Band unsterblicher Gemeinschaft vereint wird\. So sollte das Menschengeschlecht, durch den, der zugleich Mensch und Gott ist, in einer Gemeinschaft auf gleicher Stufe verbunden, durch das Verdienst des Gehorsams zur Herrschaft der Unsterblichkeit gelangen\. Da wir nun, hochheilige Kaiser, eure wissbegierigen Ohren zufriedengestellt haben, wollen wir mit dem Übrigen fortfahren, damit unsere reinigende Rede wenigstens auf diese Weise den Schmutz befleckter Ohren beseitigen kann\.
+
+## Bibelverweise
+
+[^bible-3a54db10-4556-4bed-9c22-1cc19389fd95]: Mt 1,1–Mt 1,16; Lk 1,31–Lk 1,35
+[^bible-48997913-4b48-4e8a-83aa-2db6ceed5adc]: Gen 3,1–Gen 3,6
+[^bible-5aa7fbe5-c70c-4f10-a3f4-ffa3c01f6ba1]: Gen 2,9
+[^bible-64ec7aff-365e-4701-b047-3b96ea79628e]: Gen 2,5
+[^bible-6e33d846-c180-4698-9af0-775845111a9b]: Lk 1,31–Lk 1,35
+[^bible-8548eed2-22dd-4c9b-b1ed-e3206554ea3a]: Joh 1,14
+[^bible-8761ff0a-107e-4496-ab9a-cdc57c8a8180]: Röm 5,19
+[^bible-b0e097a4-d1f6-4b40-8084-5ceb5c603bdf]: Gen 3,6
+[^bible-b8c9900f-f78b-4cf5-bec2-ff38933f1791]: Gen 2,7
+[^bible-d2b338f9-b9ca-4536-aec0-e76e815446f5]: Röm 5,12
+[^bible-d6dcf66c-68ff-4ec8-90f0-24e1588d9b86]: Gen 2,16–Gen 2,17
+[^bible-f9adfe96-5203-4c0c-9df2-2dccc2dc0cb9]: Gen 1,27
