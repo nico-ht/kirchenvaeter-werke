@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 4 – Kapitel 32: Auch wenn Götterschmähungen nur Dichtung sind, macht ihre straflose Duldung die Verehrer mitschuldig
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-4#kapitel-78ced068-246a-4964-5982-08df2329afac).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Aber das sind alles Erfindungen der Dichter“, sagen sie, „und Spielereien, die zum Vergnügen erdacht wurden\.“ Es ist zwar nicht glaubhaft, dass Menschen, die nicht ohne Verstand waren und die fernste Vorzeit erforschten, entweder solche Geschichten in ihre Gedichte aufnahmen, die im Bewusstsein der Menschen fortlebten und ihren Ohren vertraut waren, oder sich selbst eine so zügellose Freiheit herausnehmen wollten, dass sie aus Dummheit Dinge erfänden, die nicht weit vom Wahnsinn entfernt waren und sie in Furcht vor den Göttern versetzen und durch Menschen in Gefahr bringen konnten\. Doch gestehen wir zu, dass die Dichter, wie ihr sagt, solche Ungeheuerlichkeiten erdichtet und erfunden haben\. Auch dann seid ihr nicht frei von Schuld an der Misshandlung der Götter\. Denn ihr unterlasst es, solche Freveltaten zu ahnden, oder ihr seid einer solchen Vermessenheit nicht durch Gesetze und strenge Strafen entgegengetreten und habt nicht bestimmt, dass künftig kein Mensch etwas sagen darf, was auch nur an Schändlichkeit grenzt oder der Majestät der Götter unwürdig ist\. Wer nämlich einen Übeltäter gewähren lässt, stärkt dessen Dreistigkeit\. Und es ist eine größere Beleidigung, jemandem Verbrechen anzudichten und ihn damit zu brandmarken, als ihm wirkliche Vergehen entgegenzuhalten und vorzuwerfen\. Denn wenn dir nachgesagt wird, was du bist und selbst zu sein weißt, schmerzt der Biss weniger; das Zeugnis deines stillen Eingeständnisses schwächt ihn ab\. Am schmerzlichsten aber verwundet, was Unschuldige brandmarkt und die Ehre ihres Namens und ihren guten Ruf beschmutzt\.

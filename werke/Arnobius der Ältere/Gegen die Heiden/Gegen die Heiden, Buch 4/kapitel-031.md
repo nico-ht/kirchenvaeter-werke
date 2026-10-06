@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 4 – Kapitel 31: Warum Götterschmähungen schwerer wiegen als Opferverzicht und geringfügige Ritualfehler
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-4#kapitel-7132a29a-4ea1-483f-5981-08df2329afac).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Denn ich möchte euch eine kurze Frage stellen und euch zur Antwort auffordern: Ist es eurer Ansicht nach schwerwiegender, ihnen keine Opfertiere zu schlachten, weil man meint, ein so erhabenes Wesen wolle und begehre sie nicht, oder sich in schmutzigen Vorstellungen solche Schändlichkeiten über sie auszudenken, die jeden zu rasender Rache treiben könnten? Wägt man die Dinge gegeneinander ab, wird man keinen noch so gehässigen Richter finden, der es nicht für sträflicher hält, jemandes Ruf mit schweren Schmähungen anzugreifen, als ihn mit Schweigen zu übergehen\. Denn Schweigen kann man vielleicht als vernünftig ansehen und gelten lassen; das andere aber zeugt von einer frevlerischen Gesinnung und einer hoffnungslosen Verblendung im Erfinden von Geschichten\. Bei euren Zeremonien und gottesdienstlichen Handlungen gibt es Sühneforderungen, und es heißt, man habe sühnepflichtige Schuld auf sich geladen, wenn jemand aus Unachtsamkeit bei einem Wort oder beim Gebrauch der Opferkelle einen Fehler gemacht hat\. Bei den Läufen der feierlichen Spiele und den heiligen Wettfahrten schreit ihr alle sofort, man habe sich gegen die heiligen religiösen Bräuche vergangen, wenn ein Tänzer stehen bleibt oder ein Flötenspieler plötzlich verstummt, oder wenn der sogenannte Patrimus\-Knabe aus Unkenntnis der Orte etwas versäumt oder auf dem Boden keinen Halt findet\. Und ihr wagt zu bestreiten, dass ihr die Götter durch so schwere Vergehen ständig verletzt, obwohl ihr selbst immer wieder zugebt, dass sie schon aus geringeren Anlässen zürnen, zum Verderben der Stadt?

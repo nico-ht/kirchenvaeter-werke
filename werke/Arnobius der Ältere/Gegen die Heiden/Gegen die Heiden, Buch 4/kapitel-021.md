@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 4 – Kapitel 21: Jupiters Geburt und hilflose Kindheit sind mit der Hoheit des Himmelsherrschers unvereinbar
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-4#kapitel-c6dd8451-8a6f-4e36-5977-08df2329afac).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch bei den übrigen tritt die Widerwärtigkeit dieser Schande vielleicht weniger deutlich hervor\. Ist also jener Lenker des Himmels, der Vater der Götter und Menschen, der mit einem Heben der Brauen und einem Nicken den ganzen Himmel bewegt und erzittern lässt, aus Mann und Frau entstanden? Und hätten nicht beide Geschlechter ihre Körper vereinigt und sich schamlosen Lüsten hingegeben, dann gäbe es jenen höchsten Jupiter nicht, die Gottheiten hätten bis heute keinen König, und der Himmel wäre ohne Herrn? Warum wundern wir uns aber darüber, dass ihr immer wieder behauptet, Jupiter sei aus dem Schoß einer Frau hervorgekommen? Eure Schriftsteller berichten ja sogar, er habe eine Amme gehabt und durch Nahrung aus einer fremden Brust sein eben erst empfangenes Leben erhalten\. Was sagt ihr da, ihr Männer? Hat also, ich sage es noch einmal, derjenige, der donnert, blitzt und Blitze schleudert und furchterregende Wolken zusammenzieht, Milch aus Brüsten gesogen, hat er geschrien und ist er gekrochen? Ist er beim Klang von Rasseln verstummt, um sein so unsinnig in die Länge gezogenes Weinen zu beenden, und wurde er, während er in einer überaus weichen Wiege lag, in den Schlaf gebracht und mit gedämpften Stimmen besänftigt? Welch fromme Verteidigung der Götter\! Wie sie die verehrungswürdige Hoheit ihrer furchtgebietenden Größe vor Augen stellt und uns einprägt\! Sagt mir, kommt so bei euch die Hoheit der himmlischen Mächte zur Welt? Kommen eure Götter auf dieselbe Weise zur Welt wie Esel, Schweine und Hunde, auf dieselbe Weise, wie diese ganze unreine Flut irdischer Tiere empfangen und geboren wird?

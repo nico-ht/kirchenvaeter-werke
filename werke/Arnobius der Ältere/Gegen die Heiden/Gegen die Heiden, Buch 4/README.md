@@ -1,0 +1,45 @@
+# Gegen die Heiden, Buch 4
+
+Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-4) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- [Kapitel 1: Leere Namen oder wirkliche Götter: Was rechtfertigt die Verehrung von Frieden und Sieg?](kapitel-001.md)
+- [Kapitel 2: Tugenden und Glück sind wie ihre Gegenteile an Menschen gebunden und keine eigenständigen Gottheiten](kapitel-002.md)
+- [Kapitel 3: Entstanden Göttinnen erst durch die Ereignisse, die ihnen Namen gaben, oder wie hießen sie zuvor?](kapitel-003.md)
+- [Kapitel 4: Pellonia kann nicht die Feinde beider Seiten vertreiben und hat auch Rom nicht vor Niederlagen bewahrt](kapitel-004.md)
+- [Kapitel 5: Götter linker Himmelsgegenden setzen feste Seiten voraus, doch rechts und links hängen vom Betrachter ab](kapitel-005.md)
+- [Kapitel 6: Lateranus als Küchenaufseher: Wer Göttern niedrige Dienste zuweist, entehrt sie](kapitel-006.md)
+- [Kapitel 7: Schon die auf einzelne Aufgaben zugeschnittenen Götternamen verraten, dass diese Götter bloße Erfindungen sind](kapitel-007.md)
+- [Kapitel 8: Wie können Götter älter als die Dinge sein, denen sie ihre Namen und Aufgaben verdanken?](kapitel-008.md)
+- [Kapitel 9: Unwürdige Aufgaben und wirkungsloser Schutz erweisen die angeblichen Götter als Einbildungen](kapitel-009.md)
+- [Kapitel 10: Wenn einzelne Dinge eigene Schutzgötter haben, müsste es so viele Götter wie Dinge geben](kapitel-010.md)
+- [Kapitel 11: Nicht ihre Verächter, sondern die Erfinder unwürdiger Götter könnten die wahren Götter beleidigen](kapitel-011.md)
+- [Kapitel 12: Auch bei der Eingeweideschau könnten sich täuschende Geister als die angerufenen Götter ausgeben](kapitel-012.md)
+- [Kapitel 13: Mehrere Götter mit demselben Eigennamen widersprechen der Einzigkeit jedes Gottes](kapitel-013.md)
+- [Kapitel 14: Die eigenen Theologen berichten von mehreren gleichnamigen Göttern mit unterschiedlicher Abstammung](kapitel-014.md)
+- [Kapitel 15: Gleichnamige Götter verwirren die Religion: Entweder ist keiner ein Gott oder der wahre bleibt unerkannt](kapitel-015.md)
+- [Kapitel 16: Wenn fünf Minerven dasselbe Opfer fordern, kann kein Schiedsrichter ihren Streit gefahrlos schlichten](kapitel-016.md)
+- [Kapitel 17: Wer Götterverehrung erzwingen will, muss statt gleichnamiger Götter einen zeigen, der den Namen Gott verdient](kapitel-017.md)
+- [Kapitel 18: Die Glaubwürdigkeit der Götterschriften zu bestreiten entzieht dem eigenen Götterwissen die Grundlage](kapitel-018.md)
+- [Kapitel 19: Götter sind ungeboren oder vom Herrn aller Dinge rein ausgesandt, nicht durch Beischlaf gezeugt](kapitel-019.md)
+- [Kapitel 20: Wer Göttern Ehen und unheilvolle Hochzeitsfeste zuschreibt, verkennt ihre Erhabenheit](kapitel-020.md)
+- [Kapitel 21: Jupiters Geburt und hilflose Kindheit sind mit der Hoheit des Himmelsherrschers unvereinbar](kapitel-021.md)
+- [Kapitel 22: Jupiters Verehrer entehren ihren Götterfürsten, indem sie ihm unbezähmbare Lust und Ehebruch zuschreiben](kapitel-022.md)
+- [Kapitel 23: Menschen bestrafen Ehebruch, doch Jupiter soll sich aus Begierde nach sterblichen Körpern erniedrigen](kapitel-023.md)
+- [Kapitel 24: Die Heiden lasten den Christen das Elend an, das ihren eigenen Göttervorstellungen entspringt](kapitel-024.md)
+- [Kapitel 25: Die entwürdigenden Göttergeschichten stammen von heidnischen Schriftstellern, nicht von Christen](kapitel-025.md)
+- [Kapitel 26: Heidnische Schriften erniedrigen die Götter zu zügellosen Liebhabern von Frauen und Männern](kapitel-026.md)
+- [Kapitel 27: Sind die Schandgeschichten falsch, schmähen sie die Götter; sind sie wahr, waren die Götter Menschen](kapitel-027.md)
+- [Kapitel 28: Wer seinen Göttern die Gebrechen Sterblicher zuschreibt, hebt ihre Göttlichkeit selbst auf](kapitel-028.md)
+- [Kapitel 29: Euhemeros und andere Autoren bezeugen, dass die vermeintlichen Götter Menschen waren](kapitel-029.md)
+- [Kapitel 30: Wahre Götterverehrung verlangt würdige Vorstellungen von den Göttern; Opfer allein genügen nicht](kapitel-030.md)
+- [Kapitel 31: Warum Götterschmähungen schwerer wiegen als Opferverzicht und geringfügige Ritualfehler](kapitel-031.md)
+- [Kapitel 32: Auch wenn Götterschmähungen nur Dichtung sind, macht ihre straflose Duldung die Verehrer mitschuldig](kapitel-032.md)
+- [Kapitel 33: Die Verehrer bewundern götterentehrende Dichtung, lernen sie auswendig und verteidigen sie als Allegorie](kapitel-033.md)
+- [Kapitel 34: Die Götterverehrer schützen ihre eigene Ehre durch Gesetze, nicht aber die Ehre ihrer Götter](kapitel-034.md)
+- [Kapitel 35: Priester, Obrigkeit und Volk sehen zu, wie ihre Götter auf der Bühne entehrt werden](kapitel-035.md)
+- [Kapitel 36: Götterspötter werden belohnt, doch christliche Versammlungsstätten, in denen für alle gebetet wird, zerstört](kapitel-036.md)
+- [Kapitel 37: Sind Götter zornfähig, erregen die Heiden ihren Zorn; sind sie zornlos, ist die Anklage gegen Christen haltlos](kapitel-037.md)

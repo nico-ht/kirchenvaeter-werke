@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 4 – Kapitel 8: Wie können Götter älter als die Dinge sein, denen sie ihre Namen und Aufgaben verdanken?
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-4#kapitel-fcd35f6e-8d47-4cf3-596a-08df2329afac).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Sagt mir bitte, mögen Peta, Puta und Patella euch gnädig gewogen sein: Wenn es überhaupt Bienen auf Erden gäbe oder wenn wir Menschen wie gewisse Würmchen ohne Knochen zur Welt kämen, gäbe es dann die Göttin Mellonia nicht, oder hätte Ossilago, die die Knochen festigt, keinen eigenen Namen? Denn ich frage euch und will es wissen: Wer ist eurer Meinung nach von Natur aus, zeitlich und dem Alter nach älter: die Götter, die Menschen oder die Bienen, Feldfrüchte, Sträucher und alles Übrige? Niemand wird daran zweifeln, dass ihr sagt, die Götter seien um unzählige Zeitalter und Jahrhunderte älter als alles, was es gibt\. Wenn es sich aber so verhält, wie kann es dann nach der Natur der Dinge möglich sein, dass die früheren Wesen ihre Namen von Dingen erhielten, die erst später hervorgebracht wurden? Oder dass den Göttern die Obhut über Dinge zufiel, die noch gar nicht entstanden und den Sterblichen zum Gebrauch überlassen worden waren? Oder waren die Götter etwa schon lange ohne Namen da, und geruhten sie, sich von euch diese Bezeichnungen und Namen geben zu lassen, nachdem die Dinge entstanden waren und auf Erden zu bestehen begonnen hatten? Und woher konntet ihr wissen, welche Namen ihr den einzelnen geben solltet, da ihr überhaupt nicht wusstet, dass es sie gab oder dass sie bestimmte Kräfte besaßen? Ebenso wenig wusstet ihr ja, wer von ihnen was vermochte und über welche Sache er seiner göttlichen Macht entsprechend gesetzt werden sollte\.

@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 4 – Kapitel 19: Götter sind ungeboren oder vom Herrn aller Dinge rein ausgesandt, nicht durch Beischlaf gezeugt
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-4#kapitel-83e5d1d9-0d39-4e53-5975-08df2329afac).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Es sei denn, dies soll falsch sein und das, was ihr sagt, wahr\. Welcher Beweis, welches Anzeichen spricht dafür? Denn die Verfasser der einen wie der anderen Darstellung waren Menschen, und auf beiden Seiten wurde über ungewisse Dinge gesprochen\. Da ist es anmaßend, das für wahr zu erklären, was dir gefällt, das aber, was dich kränkt, als willkürlich und falsch zu verwerfen\. Bei den Rechten des Menschengeschlechts und unserer gemeinsamen Sterblichkeit: Wenn ihr hört und lest: „Von jenem Vater und jener Mutter stammt dieser Gott“, spürt ihr da nicht, dass von etwas Menschlichem die Rede ist, von etwas, das aus der Niedrigkeit des irdischen Geschlechts hervorgeht? Oder macht ihr euch, wenn ihr glaubt, dass es sich so verhält, keinerlei Sorgen, bei den Göttern selbst, wer immer sie sind, Anstoß zu erregen? Ihr glaubt ja, sie seien aus schändlichem Beischlaf und einem Samenerguss, dank der Wohltaten der Schamlosigkeit, ans Licht gekommen, das ihnen bis dahin unbekannt war\. Wir sind nämlich, damit niemand etwa meint, wir hätten keine Ahnung und wüssten nicht, was der Würde dieses Namens entspricht, entschieden der Ansicht, dass Götter ungeboren sein müssen\. Oder wenn sie einen Ursprung haben, dann glauben und meinen wir, dass sie vom Herrn und Gebieter aller Dinge auf Wegen ausgesandt wurden, die er selbst kennt, makellos, vollkommen keusch und rein, ohne zu wissen, was diese Abscheulichkeit der Begattung ist, und dass die ursprüngliche Zeugung bei ihnen selbst ihr Ende gefunden hat\.

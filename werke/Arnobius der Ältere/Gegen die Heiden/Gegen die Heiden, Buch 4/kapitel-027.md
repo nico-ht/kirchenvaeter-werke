@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 4 – Kapitel 27: Sind die Schandgeschichten falsch, schmähen sie die Götter; sind sie wahr, waren die Götter Menschen
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-4#kapitel-12d73e7a-4e09-4a6b-597d-08df2329afac).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Aber bei euch lieben ja nur die Männer, und dem weiblichen Geschlecht ist seine Reinheit erhalten geblieben\. Ist nicht in euren Schriften festgehalten, dass Aurora Tithonos liebte, Luna für Endymion entbrannte, eine Nereide für Aiakos, Thetis für den Vater des Achilleus, Proserpina für Adonis, ihre Mutter Ceres für irgendeinen Bauern namens Iasion und dass nach Vulkan, Phaethon und Mars selbst jene Venus, die Mutter der Aeneaden und Begründerin der römischen Herrschaft, vor Verlangen nach einer Vermählung mit Anchises brannte? Wenn ihr also solche Schändlichkeiten und ungeheuerlichen Freveltaten nicht einem Einzelnen namentlich vorwerft, sondern unterschiedslos dem ganzen Geschlecht der Himmlischen, das eurer Meinung nach existiert, ohne auch nur einen auszunehmen, wie wagt ihr es dann, ohne euch zu schämen, zu behaupten, wir seien gottlos oder ihr fromm? Dabei kränkt ihr sie mit all den Schändlichkeiten, die ihr zu ihrer Schmähung zusammentragt, weit mehr, als ihr ihnen durch eure Kultriten und eure pflichtgemäße Verehrung Ansehen und Ehre verschafft\. Denn entweder ist all das falsch, was über die Einzelnen vorgebracht wird und ihrem Ruf und ihrer Majestät schadet; dann haben die Götter wahrlich allen Grund, das ganze Geschlecht der Sterblichen restlos zu vernichten\. Oder aber diese Dinge sind erwiesen und wahr und ohne jeden Zweifel festgestellt\. Dann kommen wir, so sehr ihr euch auch dagegen sträubt, zu dem Schluss, dass sie nicht dem himmlischen, sondern dem menschlichen Geschlecht angehörten\.

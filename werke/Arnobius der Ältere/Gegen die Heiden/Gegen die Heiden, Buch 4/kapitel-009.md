@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 4 – Kapitel 9: Unwürdige Aufgaben und wirkungsloser Schutz erweisen die angeblichen Götter als Einbildungen
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-4#kapitel-7d812b2d-87be-4d38-596b-08df2329afac).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Ihr meint also“, fragt ihr, „dass es diese Götter nirgendwo auf der Welt gibt, sondern dass sie Gebilde falscher Vorstellungen sind?“ Das sagen nicht nur wir, sondern die Wahrheit selbst und die Vernunft, ebenso der gesunde Menschenverstand, den alle Sterblichen besitzen\. Denn wer glaubt schon, dass es Götter namens Lucrii gibt, die über den Erwerb von Gewinnen wachen, obwohl diese sehr häufig auf schändliche Weise zustande kommen und immer auf den Verlusten anderer beruhen? Wer glaubt, dass Libentina oder Liburnus die Begierden unter ihren Schutz nehmen, die wir nach dem Gebot der Weisheit meiden sollen und die schamlose Unzucht in tausend Spielarten erprobt und auslebt? Wer glaubt, dass Limentinus oder Lima die Schwellen bewachen und den Dienst von Türhütern verrichten, obwohl wir täglich sehen, wie die Schwellen von Tempeln und Privathäusern herausgerissen und zerstört werden, und selbst auf den schändlichen Gängen zu den Bordellen solche Schwellen nicht fehlen? Wer hält die Limi für die Hüter der Krümmungen, wer Saturn für den Schutzherrn der Saaten, wer Montinus für den der Berge, wer Murcia für die Schutzherrin der Trägen? Wer glaubt schließlich, dass Pecunia eine Göttin ist, die, wie eure Schriften berichten, gleich der höchsten Gottheit goldene Ringe verleiht, bevorzugte Plätze bei Spielen und Schauspielen, die höchsten Ehrenstellen, die Würde hoher Ämter und, was die Faulen am meisten lieben, sorgenfreie Muße, die Reichtum ermöglicht?

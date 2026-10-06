@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 4 – Kapitel 3: Entstanden Göttinnen erst durch die Ereignisse, die ihnen Namen gaben, oder wie hießen sie zuvor?
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-4#kapitel-0ab42edd-f274-4678-5965-08df2329afac).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Denn bei den weiteren Scharen unbekannter Götter, die ihr uns vorführt, können wir nicht beurteilen, ob ihr das ernsthaft und im Vertrauen auf gesicherte Erkenntnis tut oder ob ihr im Übermut eures Geistes mit leeren Erfindungen ein ausgelassenes Spiel treibt\. „Weil eine wilde Wölfin die ausgesetzten Säuglinge verschonte“, heißt es, „wurde nach Varros Zeugnis eine Göttin Luperca genannt\.“ Ist diese Göttin also aus dem Ausgang der Ereignisse hervorgegangen, nicht aus der Kraft der Natur? Und begann sie selbst erst zu existieren, nachdem das wilde Untier darauf verzichtet hatte, grausam zuzubeißen, und gewann daraus auch ihr Name seine Bedeutung? Oder wenn sie schon lange eine Göttin war, bevor Romulus und sein Bruder geboren wurden, dann sagt uns, welchen Namen und welche Bezeichnung sie trug\. Eine Göttin wurde, wie ihr behauptet, Praestana genannt, weil Quirinus beim Speerwurf alle an Kraft übertraf; und weil Titus Tatius sich einen Weg bahnen und öffnen durfte, um den kapitolinischen Hügel einzunehmen, erhielt eine Göttin den Namen Panda oder Pantica\. Vor diesen Ereignissen hatte es diese Gottheiten also nie gegeben? Und wenn Romulus nicht durch einen Speerwurf den Palatin behauptet hätte und der Sabinerkönig den Tarpejischen Felsen nicht hätte einnehmen können, würde es dann keine Pantica und keine Praestana geben? Wenn ihr aber sagt, diese Göttinnen hätten schon existiert, bevor der Anlass für ihre Beinamen eintrat, dann gebt an, welchen Namen auch sie zuvor trugen, wie schon beim vorigen Fall gefragt wurde\.
