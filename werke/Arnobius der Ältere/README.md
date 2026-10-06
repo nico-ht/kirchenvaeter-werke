@@ -1,4 +1,4 @@
-# Augustinus
+# Arnobius der Ältere
 
 Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de).
 
@@ -6,8 +6,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Gegen die Akademiker](Gegen%20die%20Akademiker/) · 3 Werke
-
-## Einzelwerke
-
-- [Über die Lüge](%C3%9Cber%20die%20L%C3%BCge/) · 21 Kapitel
+- [Gegen die Heiden](Gegen%20die%20Heiden/) · 2 Werke

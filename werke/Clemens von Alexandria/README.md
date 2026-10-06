@@ -7,6 +7,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Werksammlungen
 
 - [Der Erzieher](Der%20Erzieher/) · 3 Werke
+- [Stromata](Stromata/) · 8 Werke
 
 ## Einzelwerke
 

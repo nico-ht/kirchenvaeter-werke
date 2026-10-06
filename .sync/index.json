@@ -91,6 +91,20 @@
     "contentRevision": "sha256:829e6de327915c718c250f58ad3988ac2ba5450320c88312b4e0de984f39be23"
   },
   {
+    "workId": "825cc0db-c81b-4f20-21ca-08df23296889",
+    "authorName": "Arnobius der Ältere",
+    "title": "Gegen die Heiden, Buch 4",
+    "directory": "werke/Arnobius der Ältere/Gegen die Heiden/Gegen die Heiden, Buch 4",
+    "contentRevision": "sha256:1f9a926e276418b48b66989504db672524295fe92842cf5e37391cd82b1c0b4f"
+  },
+  {
+    "workId": "87ee09c3-c640-4592-21cc-08df23296889",
+    "authorName": "Arnobius der Ältere",
+    "title": "Gegen die Heiden, Buch 5",
+    "directory": "werke/Arnobius der Ältere/Gegen die Heiden/Gegen die Heiden, Buch 5",
+    "contentRevision": "sha256:17cef119af3af3752a225cc5f4f55d84df7a477a2dbeaf23f496d6e9b4a7e416"
+  },
+  {
     "workId": "299e3d4d-ad80-45b2-9f39-08dd1fa70005",
     "authorName": "Asterius von Amaseia",
     "title": "Predigt zu dem reichen Mann und Lazarus",
@@ -175,6 +189,13 @@
     "contentRevision": "sha256:9a0f791e48f309b09289649a46713661efe10ad57817814688f9db10461fddc5"
   },
   {
+    "workId": "73d18b68-3f9c-4f2e-21c9-08df23296889",
+    "authorName": "Augustinus",
+    "title": "Über die Lüge",
+    "directory": "werke/Augustinus/Über die Lüge",
+    "contentRevision": "sha256:0a0d44f7e2d0b950866d25bb0530137c5a21b415cfe076e32f863ba185110ffb"
+  },
+  {
     "workId": "d9aee309-df13-49c4-6e0b-08de7d5c481a",
     "authorName": "Basilius der Große",
     "title": "Brief 22 - Wie ein Christ leben muss",
@@ -243,6 +264,62 @@
     "title": "Ermahnung an die Heiden",
     "directory": "werke/Clemens von Alexandria/Ermahnung an die Heiden",
     "contentRevision": "sha256:3e64bcb90948edd4484b2f278126eea66dbc25e4d2057b6f7b78521ead7fd768"
+  },
+  {
+    "workId": "055fb200-5181-435f-9d4c-08dda210d6e0",
+    "authorName": "Clemens von Alexandria",
+    "title": "Stromata, Buch 1",
+    "directory": "werke/Clemens von Alexandria/Stromata/Stromata, Buch 1",
+    "contentRevision": "sha256:a46fb6dbd8023b34c160ee2ea9ec91291358963f6140f72d71811f1f106af2b2"
+  },
+  {
+    "workId": "e1322549-0069-45ea-9588-08deb3464589",
+    "authorName": "Clemens von Alexandria",
+    "title": "Stromata, Buch 2",
+    "directory": "werke/Clemens von Alexandria/Stromata/Stromata, Buch 2",
+    "contentRevision": "sha256:7587ee6ade5d4faacb36fe753900ee57cc2fc09565f8d00dc03eaf482ba3b8c4"
+  },
+  {
+    "workId": "97109018-5a6b-4d7c-958a-08deb3464589",
+    "authorName": "Clemens von Alexandria",
+    "title": "Stromata, Buch 3",
+    "directory": "werke/Clemens von Alexandria/Stromata/Stromata, Buch 3",
+    "contentRevision": "sha256:101109a9380a6150d0341aa968b06fdae561e745b74000f1fd280a662948b236"
+  },
+  {
+    "workId": "e0883bc1-0707-4001-330a-08deae0a27b1",
+    "authorName": "Clemens von Alexandria",
+    "title": "Stromata, Buch 4",
+    "directory": "werke/Clemens von Alexandria/Stromata/Stromata, Buch 4",
+    "contentRevision": "sha256:024174cee5851051434f0e161e0a79ef24796c750625879f957c3cddefba2f58"
+  },
+  {
+    "workId": "54b7929f-c193-469c-b348-08deba6aa462",
+    "authorName": "Clemens von Alexandria",
+    "title": "Stromata, Buch 5",
+    "directory": "werke/Clemens von Alexandria/Stromata/Stromata, Buch 5",
+    "contentRevision": "sha256:31869b38aeb87960f2a9dac0e0422a1d78599328c3273730d3fd17e5efff184d"
+  },
+  {
+    "workId": "0638ce50-ca3d-48c1-9589-08deb3464589",
+    "authorName": "Clemens von Alexandria",
+    "title": "Stromata, Buch 6",
+    "directory": "werke/Clemens von Alexandria/Stromata/Stromata, Buch 6",
+    "contentRevision": "sha256:c2ef1889b9beb23e8c880357f818c4945e0e4c3f4ae2b2bd11ba5dbf45070f7e"
+  },
+  {
+    "workId": "79175537-fea0-423b-958b-08deb3464589",
+    "authorName": "Clemens von Alexandria",
+    "title": "Stromata, Buch 7",
+    "directory": "werke/Clemens von Alexandria/Stromata/Stromata, Buch 7",
+    "contentRevision": "sha256:93f8df84e4b81f3096848fb8f1a470a00bee1ac3d5332bf052ccda1ac8c4afb9"
+  },
+  {
+    "workId": "dc1d84b4-1ef3-4103-91aa-08df200aaa32",
+    "authorName": "Clemens von Alexandria",
+    "title": "Stromata, Buch 8 (überliefertes Fragment)",
+    "directory": "werke/Clemens von Alexandria/Stromata/Stromata, Buch 8 (überliefertes Fragment)",
+    "contentRevision": "sha256:48149fb86b6a2cac7f819e674efb0d4dbf5881dfceb368955e53ca9f8b763ae6"
   },
   {
     "workId": "7a183836-343f-434e-e4d7-08dd0635942f",
@@ -474,6 +551,13 @@
     "title": "Zu den Inschriften der Säulenschrift",
     "directory": "werke/Eustathius von Antioch/Fragmente/Zu den Inschriften der Säulenschrift",
     "contentRevision": "sha256:33572954e8cf54cf7b2a0fd01dd7368fb46f14bda8e18240e9c6f0fb14753215"
+  },
+  {
+    "workId": "4c7ebc14-08fd-49d8-d650-08df23023ec4",
+    "authorName": "Firmicus Maternus",
+    "title": "Über den Irrtum der heidnischen Religionen",
+    "directory": "werke/Firmicus Maternus/Über den Irrtum der heidnischen Religionen",
+    "contentRevision": "sha256:e72e32be3881e8d5c1a6e6452ffac2f12a8cbe7e728ed034477b055fda26841b"
   },
   {
     "workId": "d4dc0cb4-27f5-422b-47c4-08dd468a1db5",
@@ -2280,6 +2364,20 @@
     "title": "Über den Vater und den Sohn",
     "directory": "werke/Serapion von Thmuis/Über den Vater und den Sohn",
     "contentRevision": "sha256:2f0b87b1c3e81da4cbcd81d06b9eb74663527917e771a218a5a7176b58c4dbae"
+  },
+  {
+    "workId": "456a2a46-8e49-4b50-dfc0-08df218848c7",
+    "authorName": "Sulpicius Severus",
+    "title": "Brief an Aurelius (Epistula II)",
+    "directory": "werke/Sulpicius Severus/Brief an Aurelius (Epistula II)",
+    "contentRevision": "sha256:8abaeb1d1751b817a1918fa976579d2e75b5672cb21852fda7320e52925051a6"
+  },
+  {
+    "workId": "c82aa8bb-bdcd-4e03-3513-08df22ebc189",
+    "authorName": "Sulpicius Severus",
+    "title": "Brief an Bassula (Epistula III)",
+    "directory": "werke/Sulpicius Severus/Brief an Bassula (Epistula III)",
+    "contentRevision": "sha256:51ba00f540ad9cd94d6f523f863c064a827c7339a01853a84d95b9f433d2b515"
   },
   {
     "workId": "171acd7d-dc42-4157-1731-08df2157bcd0",
