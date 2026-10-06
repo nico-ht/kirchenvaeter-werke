@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 5 – Kapitel 32: Der Einwand: Scheinbar schändliche Göttergeschichten verhüllen als Allegorien heilige Geheimnisse
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-5#kapitel-d1ee3956-9b76-4386-59a7-08df2329afac).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Aber du irrst“, sagt er, „und gehst fehl; gerade deine Angriffe auf diese Dinge zeigen deutlich, wie unerfahren, ungebildet und ungehobelt du bist\. Denn all diese Geschichten, die dir schändlich erscheinen und nach deiner Ansicht die Götter in Schande bringen, enthalten heilige Geheimnisse, wunderbare und tiefe Bedeutungen, die nicht jeder mit der Schärfe seines Verstandes ohne Weiteres ergründen kann\. Denn gemeint und ausgesagt wird nicht das, was geschrieben steht und sich an der Oberfläche der Worte zeigt\. Vielmehr ist alles allegorisch zu verstehen, nach verborgenen Bedeutungen, die dem Wortlaut unterlegt sind\. Wer also sagt: ‚Jupiter schlief mit seiner Mutter‘, meint damit keine inzestuösen oder schamlosen Liebesumarmungen, sondern bezeichnet mit Jupiter den Regen und mit Ceres die Erde\. Und wer wiederum behauptet, er habe mit seiner Tochter Unzucht getrieben, spricht nicht von schändlichen Lüsten, sondern setzt Jupiter für den Regen und die Tochter für die Saat\. Ebenso meint derjenige, der erzählt, Proserpina sei von Vater Dis geraubt worden, nicht, wie du glaubst, diese mannhafte Frau sei zur Befriedigung schändlichster Begierden geraubt worden\. Weil wir die Samen unter Erdschollen verbergen, will er vielmehr damit sagen, die Göttin sei unter die Erde gegangen und schließe mit Orkus einen Bund zur Fortpflanzung\. In gleicher Weise wird auch in den übrigen Geschichten etwas anderes gesagt, als gemeint ist, und unter der gewöhnlichen Einfachheit der Rede verbergen sich ein geheimer Sinn und die verhüllte Tiefe eines Mysteriums\.“

@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 5 – Kapitel 31: Ihr angeblichen Verteidiger verleumdet die Götter und gebt den Christen die Schuld an ihrem Zorn
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-5#kapitel-ed23408e-83c0-41f1-59a6-08df2329afac).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ihr aber, die ihr behauptet, ihre Verteidiger und Verkünder ihrer Unsterblichkeit zu sein: Habt ihr auch nur einen von ihnen verschont, seid ihr an auch nur einem vorbeigegangen, ohne ihn mit euren Schmähungen zu verwunden? Oder gibt es eine nach allgemeinem Urteil noch so verwerfliche Schändlichkeit, die ihr ihnen nicht anzulasten gewagt hättet, weil euch wenigstens die Würde ihres Namens zurückgehalten hätte? Wer hat verkündet, die Götter hätten vergängliche, sterbliche Körper geliebt? Nicht ihr? Wer, sie hätten sich jenen überaus süßen heimlichen Liebschaften in fremden Ehebetten hingegeben? Nicht ihr? Wer hat behauptet, Kinder hätten mit ihren Müttern, wer, Väter wiederum hätten mit ihren eigenen jungfräulichen Töchtern unheilvollen Beischlaf vollzogen? Nicht ihr? Wer hat behauptet, hübschen kleinen Jungen und erwachsenen Männern von wunderschöner Gestalt sei schamlos nachgestellt worden? Nicht ihr? Wer hat die Götter als Entmannte bezeichnet, wer als männliche Huren, wer als Gestaltwandler, wer als Diebe? Wer hat behauptet, sie seien in Fesseln gehalten worden, wer, sie hätten in Ketten gelegen? Wer schließlich, sie seien mit Blitzen angegriffen worden, wer, sie seien verwundet worden, wer, sie hätten ihren letzten Tag erlebt und sogar eine Bestattung in der Erde erhalten? Nicht ihr? Wie wagt ihr es also, nachdem ihr so viele und so schwere Anschuldigungen zur Schmach der Götter ersonnen habt, uns vorzuwerfen, die Götter seien wegen unseres Namens erzürnt, obwohl doch längst offenkundig ist, dass ihr an diesem gewaltigen Zorn schuld seid und die göttliche Empörung hervorgerufen habt?

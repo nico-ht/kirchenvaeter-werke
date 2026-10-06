@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 5 – Kapitel 15: Ob wahr oder erfunden: Eure Göttergeschichten geben Anlass zum Zorn auf euch, nicht auf die Christen
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-5#kapitel-177094a5-a5a9-48f8-5996-08df2329afac).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wir könnten euch schon längst drängen, uns das vorzuweisen, wenn es nicht dumm wäre, solche Dinge erfahren zu wollen und dafür Beweise zu verlangen\. „Aber diese Geschichte ist falsch und enthält nicht die geringste Wahrheit\.“ Uns, derentwegen die Götter nach eurer Behauptung von der Erde vertrieben worden sind, ist es allerdings gleichgültig, ob sie in sich stimmig und zuverlässig verbürgt ist oder ob sie im Gegenteil erlogen und aus falschen Erfindungen zusammengesetzt ist\. Wir wollen nämlich heute zeigen, dass die Gottheiten, die ihr uns vorstellt, sofern sie irgendwo auf der Welt existieren und in Zorn entbrennen, von uns nicht mehr als von euch Anlass zu rasender Wut erhalten\. Dazu genügt uns, dass diese Geschichte vorliegt, dass ihr sie in euren Schriften aufgezeichnet habt, dass sie täglich von denen gelesen wird, die es wollen, und dass sie zur Belehrung künftiger Zeiten von einer Generation an die nächste weitergegeben wird\. Wenn sie nun wahr ist, sehen wir keinen Grund, weshalb die himmlischen Götter, wie ihr behauptet, uns zürnen sollten\. Denn wir haben ihre so großen Schändlichkeiten weder enthüllt noch irgendwo schriftlich festgehalten noch durch feierliche Kulthandlungen öffentlich bezeugt\. Wenn sie aber, wie ihr meint, falsch und mit täuschenden Lügen durchsetzt ist, kann kein Mensch daran zweifeln, dass ihr den Anstoß zum Zorn gegeben habt: Ihr habt zugelassen, dass manche solche Dinge niederschrieben, oder habt geduldet, dass das Niedergeschriebene über die Jahrhunderte im Gedächtnis blieb\.

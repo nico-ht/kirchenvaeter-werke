@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 5 – Kapitel 36: Der Erzähltext bietet kein Merkmal, um wörtliche und allegorische Teile zu unterscheiden
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-5#kapitel-91e06569-e659-49b2-59ab-08df2329afac).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Es sei denn, ihr sagt etwa, diese Allegorien fänden sich nicht im gesamten Erzähltext, sondern einige Teile seien schlicht geschrieben, andere dagegen doppeldeutig und unter einer doppeldeutigen Hülle verborgen\. Das ist eine feine Spitzfindigkeit, die selbst jeder Dummkopf versteht\. Weil es euch nämlich überaus schwerfällt, alles Geschriebene auf anderes zu übertragen, zu verkehren und umzudeuten, wählt ihr einiges aus, das euren Wünschen entspricht\. Gerade anhand dieser Stellen versucht ihr den Nachweis zu führen, dass unechte und verfälschte Darstellungen über die innere Wahrheit gelegt worden sind\. Doch selbst wenn wir euch zugestehen, dass es sich so verhält, wie ihr sagt: Woher wisst ihr oder woran erkennt ihr, welcher Teil der Erzählung in schlichtem Sinn geschrieben und welcher in abweichende und fremde Bedeutungen gehüllt ist? Denn was ihr so versteht, kann sich anders verhalten; oder was ihr anders auffasst, kann mit anderen, entgegengesetzten Vorstellungen zum Ausdruck gebracht worden sein\. Wenn man nämlich behauptet, innerhalb ein und desselben Stoffes sei ein Teil allegorisch, der andere dagegen in eindeutiger und unverhüllter Sprache geschrieben, die Sache selbst aber kein Merkmal bietet, an dem man das Doppeldeutige vom schlicht Gesagten unterscheiden könnte, dann kann man ebenso gut das Schlichte für doppeldeutig halten wie das doppeldeutig Geschriebene für unverhüllt\. Wir gestehen allerdings, dass wir nicht im Geringsten verstehen, wie das vor sich geht oder wie man es für möglich halten kann\.

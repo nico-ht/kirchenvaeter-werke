@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 5 – Kapitel 20: Die phrygischen Mysterien entehren Jupiter: Als Stier vergewaltigt er seine Mutter Ceres
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-5#kapitel-53b0ab8c-a94b-4421-599b-08df2329afac).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wir hatten vor, dies zu übergehen und ebenso jene Mysterien, in die Phrygien und sein ganzes Volk eingeweiht werden\. Doch der Name Jupiters, der darin vorkommt, hindert uns daran, nur flüchtig über die ihm zugefügten Schmähungen und Entehrungen hinwegzugehen\. Nicht dass es uns Freude macht, über so schändliche Mysterien herzufallen; vielmehr soll gerade euch immer wieder deutlich werden, welche Schmähungen ihr auf jene häuft, als deren Beschützer, Verteidiger und Verehrer ihr euch bezeichnet\. Einst, so erzählen sie, brannte Diespiter in ruchloser Lust und verbotener Begierde nach seiner Mutter Ceres; denn die Bewohner jener Gegend überliefern, dass sie Jupiters Mutter sei\. Doch er wagte nicht, mit ganz offener Gewalt zu erzwingen, was er in seiner schamlosen Begierde im Sinn hatte\. So ersinnt er ausgeklügelte Fallen, um seiner Mutter, die nichts dergleichen fürchtet, die Keuschheit zu rauben\. Aus dem Gott wird ein Stier\. Unter der Gestalt des Tieres verbirgt er die Gesinnung und Dreistigkeit eines lauernden Angreifers, stürzt sich rasend mit plötzlicher Gewalt auf die arglose, ahnungslose Mutter und treibt abscheuliche Blutschande\. Als seine Lust den Betrug verrät und sie ihn durchschaut und erkennt, fliegt er davon\. Die Mutter entbrennt in Wut und Empörung, schäumt, keucht und tobt\. Sie kann das Brausen und den Sturm ihres Zorns nicht bändigen und nimmt wegen dieser anhaltenden Erregung den Namen Brimo an, den sie fortan trägt\. Sie hat nichts anderes im Sinn, als die Dreistigkeit ihres Sohnes mit den ihr möglichen Strafen zu ahnden\.
