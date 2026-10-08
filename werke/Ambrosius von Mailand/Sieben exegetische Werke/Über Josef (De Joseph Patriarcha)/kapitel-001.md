@@ -1,0 +1,19 @@
+# Über Josef \(De Joseph Patriarcha\) – Kapitel 1: Josef zeigt Keuschheit und Feindesliebe, indem er Unrecht mit Wohltaten vergilt
+
+Autor: Ambrosius von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/ambrosius-ueber-josef#kapitel-7d65139b-f272-4cb0-5bf2-08df23bc58d7).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Das Leben der Heiligen ist für die anderen ein Maßstab für ihr Leben\. Deshalb ist uns ihre Geschichte in den Schriften ausführlich und zusammenhängend überliefert\. Wenn wir beim Lesen Abraham, Isaak, Jakob und die übrigen Gerechten kennenlernen, sollen wir mit beharrlichen Schritten gleichsam einem Weg der Unschuld folgen, den ihre Tugend uns erschlossen hat\. Da ich schon oft von ihnen gesprochen habe, bietet sich heute die Geschichte des heiligen Josef an\. In ihm fanden sich viele Arten von Tugenden, doch besonders strahlte seine Keuschheit hervor\. An Abraham habt ihr die unermüdliche Hingabe des Glaubens kennengelernt, an Isaak die Reinheit eines aufrichtigen Herzens, an Jakob die einzigartige Geduld seines Geistes und seine Ausdauer in Mühen\. Darum ist es nun angemessen, dass ihr von diesem weiten Feld der Tugenden den Blick auf die einzelnen Formen sittlicher Lebensführung richtet\. Denn das Allgemeine reicht zwar weiter, doch das Einzelne tritt deutlicher hervor und dringt umso leichter in den Geist ein, je genauer es umrissen und bestimmt ist\. So soll uns der heilige Josef als Spiegel der Keuschheit vor Augen stehen\. Denn in seinem Verhalten und in seinen Taten leuchtet sittliche Reinheit, und es strahlt darin ein Glanz der Anmut, der die Keuschheit begleitet\. Deshalb liebten ihn auch seine Eltern mehr als die übrigen Söhne[^bible-268f2769-ae3a-4fc2-a8fe-bd394f598699]\. Doch das weckte Neid[^bible-1b6cc4aa-f141-4b66-ab89-b0ef419b678f], und darüber durfte nicht geschwiegen werden\. Daraus entwickelte sich also die Handlung der ganzen Geschichte\. Zugleich sollen wir erkennen, dass sich ein vollkommener Mann durch Unrecht nicht dazu hinreißen lässt, erlittenen Schmerz zu rächen, und Böses nicht mit Bösem vergilt\. Deshalb sagt auch David: „Wenn ich denen Böses vergolten habe, die mir Böses taten\.[^bible-90d65df3-e545-4b82-9ffc-2158e379f64b] “ Wodurch aber hätte Josef verdient, den anderen vorgezogen zu werden, wenn er denen geschadet hätte, die ihm schadeten, oder diejenigen geliebt hätte, die ihn liebten[^bible-a96ce686-d638-4c6f-8b00-3588ce2fc406]? Das tun ja die meisten\. Bewundernswert aber ist es, wenn du deinen Feind liebst[^bible-006d68a0-51dc-49ec-8359-3aa7cc5a4e75], wie der Erlöser lehrt\. Mit Recht verdient also derjenige Bewunderung, der schon vor dem Evangelium so handelte: Er wurde verletzt und übte Nachsicht; man griff ihn an, und er vergab; man verkaufte ihn, und er vergalt das Unrecht nicht, sondern erwiderte die Schmach mit Wohltaten[^bible-2ba70815-97a7-4981-adf8-de52aed5a187]\. Das haben wir alle nach dem Evangelium gelernt und können es dennoch nicht befolgen\. Lernen wir also auch den Neid der Heiligen kennen, damit wir ihre Geduld nachahmen\. Erkennen wir, dass sie nicht von Natur aus besser waren, sondern sich durch ihre Lebensführung auszeichneten; dass ihnen Laster nicht unbekannt waren, sie diese aber überwanden\. Wenn aber der Neid sogar die Heiligen versengt hat, wie sehr müssen wir uns dann davor hüten, dass er die Sünder in Brand setzt?
+
+## Bibelverweise
+
+[^bible-006d68a0-51dc-49ec-8359-3aa7cc5a4e75]: Mt 5,44
+[^bible-1b6cc4aa-f141-4b66-ab89-b0ef419b678f]: Gen 37,4; Gen 37,11
+[^bible-268f2769-ae3a-4fc2-a8fe-bd394f598699]: Gen 37,3
+[^bible-2ba70815-97a7-4981-adf8-de52aed5a187]: Gen 37,28; Gen 50,15–Gen 50,21
+[^bible-90d65df3-e545-4b82-9ffc-2158e379f64b]: Ps 7,5
+[^bible-a96ce686-d638-4c6f-8b00-3588ce2fc406]: Mt 5,46

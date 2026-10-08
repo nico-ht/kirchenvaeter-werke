@@ -1,0 +1,44 @@
+# Über Josef \(De Joseph Patriarcha\) – Kapitel 12: In Josefs Selbstoffenbarung spricht bereits Christus, der seinen Brüdern vergibt und sie rettet
+
+Autor: Ambrosius von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/ambrosius-ueber-josef#kapitel-8283b40d-8826-4dcf-5bfd-08df23bc58d7).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und er befahl allen, hinauszugehen, um sich seinen Brüdern zu erkennen zu geben[^bible-69947c78-7f67-4a54-9013-e7f163a425be]\. Denn er war, wie er selbst sagt, „nur zu den verlorenen Schafen des Hauses Israel gekommen[^bible-e6a14c30-a0e2-4942-99d5-f0877848a16a] “\. Und „unter lautem Weinen[^bible-4163e801-e76e-4a19-a650-512352638b65] “ sagte er: „Ich bin Josef\. Lebt mein Vater noch?[^bible-0e54b40f-5445-4167-a1cc-acbfeee2e509] “ Das heißt: Er streckte seine Hände nach einem ungläubigen und widersprechenden Volk aus[^bible-9f3fdc3d-981d-45df-985a-2a393d1c7bb8]\. Er suchte keinen Gesandten und keinen Boten, sondern wollte selbst als Herr sein Volk retten[^bible-bb47b64c-0f15-4a1b-b55f-90264a004c59]\. „Ich bin es, der gesprochen hat; seht, ich bin da[^bible-317b4e21-fd7b-43c3-9db8-004f79561d10] “, sagt er\. Und: „Ich habe mich denen zu erkennen gegeben, die mich nicht suchten; ich erscheine denen, die nicht nach mir fragten\.[^bible-e5d01419-dd5c-4279-afba-2dd1dc47f8e7] “ Was anderes also rief er damals aus als „Ich bin Jesus[^bible-7ded07b7-4762-4c53-a3aa-a911f97e4986] “? So antwortete er den Führern der Juden auf ihre Frage: „Bist du der Sohn Gottes?[^bible-8a24c94f-e165-41c7-be1a-9d21f5ff8359] “ mit den Worten: „Ihr sagt, dass ich es bin\.[^bible-8a24c94f-e165-41c7-be1a-9d21f5ff8359] “ Zu Pilatus sagte er: „Du sagst, dass ich König bin\. Ich bin dazu geboren, für die Wahrheit Zeugnis abzulegen\.[^bible-54fff558-9e07-4eaf-873b-9fe0419c50d5] “ Und als der Hohepriester zu ihm sagte: „Ich beschwöre dich bei dem lebendigen Gott: Sag uns, ob du Christus, der Sohn Gottes, bist[^bible-f05aebf1-d400-4ffe-8849-5ee8427b1db9] “, erwiderte er: „Du hast es gesagt\. Amen, ich sage euch: Von nun an werdet ihr den Menschensohn zur Rechten der Macht Gottes sitzen und mit den Wolken des Himmels kommen sehen\.[^bible-972041d3-8e5f-465b-a845-eb55b15339be] “ Das also bedeutet sein Wort: „Ich bin Josef[^bible-0e54b40f-5445-4167-a1cc-acbfeee2e509], ich habe göttliche Macht\. Lebt mein Vater noch?[^bible-0e54b40f-5445-4167-a1cc-acbfeee2e509] “ Das heißt: „Ich verleugne meinen Vater nicht; ich erkenne meine Brüder an, wenn entweder ihr euren Bruder oder der Vater seinen Sohn wiedererkennt\. Lebt also mein Volk noch, aus dessen Familie ich mir einen Bruder erwählt habe? Kommt zu mir[^bible-8291c213-8b85-4195-90d7-0ead47d511f7]; denn ich bin euch nahe gekommen, und zwar so nahe, dass ich durch die Annahme des Fleisches selbst an eurer Natur Anteil nahm\. Wenn ihr den Urheber des Heils nicht erkennt, dann flieht wenigstens nicht vor dem, der eurer Gemeinschaft angehört\.“
+
+Es heißt: „Sie traten zu ihm, und er sagte[^bible-fce58eed-1b25-45d6-9e6a-c981474d160d]: ‚„Ich bin Josef, euer Bruder, den ihr nach Ägypten ausgeliefert habt\. Seid nun also nicht betrübt und nehmt es euch nicht zu Herzen, dass ihr mich hierher verkauft habt\. Denn Gott hat mich vor euch hergesandt, um euer Leben zu erhalten\.[^bible-b451776f-bd14-4e41-90b9-170c583d0b10] “‘“ Welche brüderliche Liebe, welche innige Verbundenheit\! Er entschuldigte sogar das brudermörderische Verbrechen, indem er erklärte, es sei auf Gottes Vorsehung zurückzuführen, nicht auf menschliche Gottlosigkeit\. Denn er war nicht von Menschen dem Tod ausgeliefert, sondern vom Herrn zum Leben gesandt worden\. Was anderes besagt die Fürbitte unseres Herrn Jesus Christus, der alle Brüder an Liebe übertraf, als er am Kreuz für das Volk eintrat und sprach: „Vater, vergib ihnen; denn sie wissen nicht, was sie tun[^bible-3846182a-c3e7-44fd-9c6a-e621b575f048] “? Was anderes sein heiliger Zuspruch, als er mitten unter den Jüngern sagte: „Friede sei mit euch\! Ich bin es, fürchtet euch nicht[^bible-1155e98d-9e10-4558-9479-8364f6113ef6] “? Als sie aber bestürzt und erschrocken meinten, einen Geist zu sehen[^bible-149c9af2-365b-45d8-a488-a83069f8fe1c], sagte er noch einmal zu ihnen: „Warum seid ihr bestürzt, und warum steigen solche Gedanken in euren Herzen auf? Seht, hier sind meine Hände und meine Füße: Ich bin es selbst\. Fasst mich an und seht: Ein Geist hat kein Fleisch und keine Knochen, wie ihr sie an mir seht\.[^bible-296cdeea-2ce5-47b7-8552-a549b0fb08ce] “ Diese Geheimnisse also, die erst in späteren Zeiten Wirklichkeit werden sollten, wurden schon damals offenbart\. Ja, sie kommen sogar in denselben Worten zum Ausdruck\. Daran sollen wir erkennen, dass es derselbe ist, der früher in Josef und später in seinem eigenen Leib gesprochen hat; denn er hat nicht einmal die Worte geändert\. Damals sagte er nämlich: „Seid nicht betrübt\.[^bible-b8bf6c7e-6c19-4c80-8039-b6a48d92c780] “ Und weiter: „Zieht hinauf zu meinem Vater und sagt ihm[^bible-f902733d-a36a-4945-afa2-8eb8e03a8648]: ‚So spricht dein Sohn Josef: Gott hat mich zum Herrn über das ganze Land Ägypten gemacht\.[^bible-f902733d-a36a-4945-afa2-8eb8e03a8648] ‘“ Im Evangelium sagt er: „Fürchtet euch nicht\. Geht, sagt meinen Brüdern, sie sollen nach Galiläa gehen; dort werden sie mich sehen\.[^bible-68244fec-39f0-4887-8f3a-251edaf86bbb] “ Und weiter sagt er: „Mir ist alle Macht im Himmel und auf der Erde gegeben\.[^bible-70010f76-765a-4e63-9197-009441932e1a] “ Das heißt: „Dass ich Macht empfing, lag an Gottes Fügung, nicht an menschlicher Grausamkeit\.“ Wer den Lohn nennt, macht das Verbrechen nicht zum Vorwurf\. Die Worte aus der Genesis: „Denn Gott hat mich vor euch hergesandt, um euer Leben zu erhalten[^bible-b8bf6c7e-6c19-4c80-8039-b6a48d92c780] “, gibt er im Evangelium wieder, wenn er sagt: „Lehrt alle Völker und tauft sie im Namen des Vaters und des Sohnes und des Heiligen Geistes\.[^bible-79c5bb9f-e459-4484-bfc0-62bb35d5c888] “ Denn darin bestehen der Lohn und das Leben der Heiligen: dass sie auch andere erlöst haben\. Achte auch darauf, dass nicht ohne Grund in der Genesis geschrieben steht: „Du wirst in meiner Nähe sein, du und deine Söhne und die Söhne deiner Söhne\.[^bible-e3961d65-acb0-4485-8db4-397be90a6575] “ Denn das entspricht seinem Wort im Evangelium: „Seht, ich bin bei euch alle Tage bis zur Vollendung der Welt\.[^bible-e87d54ec-ea5b-447b-a3b9-8271dd820dba] “ Wie deutlich ist auch darin das Geheimnis erkennbar: Nachdem gleichsam der ganze Auftrag erfüllt ist, umarmt Josef seinen Bruder Benjamin und fällt ihm um den Hals[^bible-37debee2-0ad6-4bd8-884a-bd129e0ec4da]\. So schließt auch Christus nach Vollendung des Evangeliums Paulus gleichsam in die Arme seiner Barmherzigkeit, um ihn, den seine innere Überzeugung niederbeugte, gleichsam am Nacken zum Himmel aufzurichten\. Deshalb sagt auch Paulus, von Christus aufgerichtet: „Unser Leben aber ist im Himmel\.[^bible-dee82ec7-3c4e-4e6f-9a79-0c1c7ec3323b] “
+
+## Bibelverweise
+
+[^bible-0e54b40f-5445-4167-a1cc-acbfeee2e509]: Gen 45,3
+[^bible-1155e98d-9e10-4558-9479-8364f6113ef6]: Lk 24,36
+[^bible-149c9af2-365b-45d8-a488-a83069f8fe1c]: Lk 24,37
+[^bible-296cdeea-2ce5-47b7-8552-a549b0fb08ce]: Lk 24,38–Lk 24,39
+[^bible-317b4e21-fd7b-43c3-9db8-004f79561d10]: Jes 52,6
+[^bible-37debee2-0ad6-4bd8-884a-bd129e0ec4da]: Gen 45,14
+[^bible-3846182a-c3e7-44fd-9c6a-e621b575f048]: Lk 23,34
+[^bible-4163e801-e76e-4a19-a650-512352638b65]: Gen 45,2
+[^bible-54fff558-9e07-4eaf-873b-9fe0419c50d5]: Joh 18,37
+[^bible-68244fec-39f0-4887-8f3a-251edaf86bbb]: Mt 28,10
+[^bible-69947c78-7f67-4a54-9013-e7f163a425be]: Gen 45,1
+[^bible-70010f76-765a-4e63-9197-009441932e1a]: Mt 28,18
+[^bible-79c5bb9f-e459-4484-bfc0-62bb35d5c888]: Mt 28,19
+[^bible-7ded07b7-4762-4c53-a3aa-a911f97e4986]: Joh 18,5
+[^bible-8291c213-8b85-4195-90d7-0ead47d511f7]: Gen 45,4
+[^bible-8a24c94f-e165-41c7-be1a-9d21f5ff8359]: Lk 22,70
+[^bible-972041d3-8e5f-465b-a845-eb55b15339be]: Mt 26,64
+[^bible-9f3fdc3d-981d-45df-985a-2a393d1c7bb8]: Jes 65,2
+[^bible-b451776f-bd14-4e41-90b9-170c583d0b10]: Gen 45,4–Gen 45,5
+[^bible-b8bf6c7e-6c19-4c80-8039-b6a48d92c780]: Gen 45,5
+[^bible-bb47b64c-0f15-4a1b-b55f-90264a004c59]: Jes 63,9
+[^bible-dee82ec7-3c4e-4e6f-9a79-0c1c7ec3323b]: Phil 3,20
+[^bible-e3961d65-acb0-4485-8db4-397be90a6575]: Gen 45,10
+[^bible-e5d01419-dd5c-4279-afba-2dd1dc47f8e7]: Jes 65,1
+[^bible-e6a14c30-a0e2-4942-99d5-f0877848a16a]: Mt 15,24
+[^bible-e87d54ec-ea5b-447b-a3b9-8271dd820dba]: Mt 28,20
+[^bible-f05aebf1-d400-4ffe-8849-5ee8427b1db9]: Mt 26,63
+[^bible-f902733d-a36a-4945-afa2-8eb8e03a8648]: Gen 45,9
+[^bible-fce58eed-1b25-45d6-9e6a-c981474d160d]: Gen 45,4
