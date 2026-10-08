@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 3 – Kapitel 4: Die Annahme vieler Götter erklärt nicht, welche existieren und woher ihre Namen stammen
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-3#kapitel-6efc5303-af63-265e-6431-c1f35acbbceb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Mag es sie geben, wie ihr behauptet, diese Masse von Gottheiten; mag es unzählige Göttergeschlechter geben\. Wir stimmen zu, sind einverstanden, drücken ein Auge zu und erklären dies in keiner Erörterung für zweifelhaft und ungewiss\. Auf eines aber verlangen und erbitten wir von euch eine Antwort: Woher wisst ihr oder durch welche Überlegungen habt ihr erschlossen, ob dort im Himmel diejenigen fehlen, deren Existenz ihr annehmt und die ihr verehrt, oder irgendwelche anderen, von deren Ruf und Namen man noch nie gehört hat? Es kann nämlich sein, dass diejenigen existieren, von denen ihr es nicht glaubt, und dass diejenigen, von deren Existenz ihr überzeugt seid, nirgends in der Natur zu finden sind\. Es ist ja nicht so, dass ihr jemals zu den Sternen des Himmels emporgeflogen seid, Gesicht und Züge jedes Einzelnen gesehen und dann begonnen habt, hier dieselben Götter, die ihr von dort in Erinnerung habt, als bekannte und mit eigenen Augen gesehene zu verehren\. Doch wir möchten noch etwas von euch hören: Hat man ihnen diese Namen gegeben, mit denen ihr sie bezeichnet, oder haben sie sich diese am Tag ihrer Reinigung selbst gegeben? Wenn dies göttliche und himmlische Namen sind, wer hat sie euch überbracht? Wenn aber ihr ihnen diese Bezeichnungen beigelegt habt, wie konntet ihr dann Wesen Namen geben, die ihr nie gesehen hattet und bei denen euch auch keine verwandtschaftliche Beziehung Aufschluss darüber gab, wie sie beschaffen waren oder wer sie waren?

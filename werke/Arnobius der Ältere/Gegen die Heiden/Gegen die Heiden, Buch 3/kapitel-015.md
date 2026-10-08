@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 3 – Kapitel 15: Menschenbilder als Götter zu verehren ist derselbe Irrtum wie der Tierkult der Ägypter
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-3#kapitel-707aa420-d35a-3f75-1753-6196383530de).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Gibt es einen Menschen, der auch nur ein wenig Vernunft gekostet hat und glaubt, auf den Körpern der Götter wüchsen Haare und Flaum? Der glaubt, es gebe unter ihnen Altersunterschiede? Der glaubt, sie gingen in den verschiedensten Gewändern und Umhängen gekleidet umher und schützten sich vor Hitze und Kälte? Wer das für wahr hält, muss notwendig auch dies als wahr annehmen: Es gibt Götter, die als Wäscher und als Barbiere tätig sind, um die heiligen Gewänder zu reinigen oder das Haar zu kürzen, das in wild wuchernden, wolligen Zotten verfilzt ist\. Ist es denn nicht schändlich, nicht durch und durch gottlos und beleidigend, den Göttern die Züge eines dem Tod verfallenen, vergänglichen Lebewesens zu geben? Sie mit jenen Körperteilen auszustatten, die kein anständiger Mensch aufzuzählen oder näher zu beschreiben wagt, ja nicht einmal in Gedanken auszumalen, ohne vor ihrer äußersten Abscheulichkeit zu erschauern? Ist das eure Überheblichkeit, eure hochmütige Weisheit, mit der ihr uns als Ungebildete anspeit und meint, euch stehe die gesamte Erkenntnis der göttlichen Dinge offen? Ihr lacht über die Rätselbilder der Ägypter, weil sie die Gestalten stummer Tiere in den Bereich des Göttlichen aufgenommen haben und diese Gestalten mit reichlich Weihrauch und allem übrigen Aufwand ihrer Kulthandlungen ehren\. Ihr aber verehrt Menschenbilder, als wären sie göttliche Mächte\. Und ihr schämt euch nicht, ihnen das Gesicht eines irdischen Lebewesens zu geben, andere wegen Irrtums und Dummheit zu verurteilen und selbst bei einem ebensolchen Irrtum und Fehler ertappt zu werden\.

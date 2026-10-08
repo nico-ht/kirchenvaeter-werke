@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 3 – Kapitel 13: Hätten die Götter menschliche Körper, müssten sie auch Eingeweide und Blutgefäße besitzen
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-3#kapitel-015a1655-b522-d4a5-6751-f5dcb311b016).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ihr aber begnügt euch nicht damit, die Götter auf die Maße einer Gestalt zu begrenzen und ihnen menschliche Umrisse zu geben\. Was noch viel unwürdiger ist: Ihr begrenzt sie durch die Konturen irdischer Körper\. Was sollen wir also sagen? Dass die Götter einen rund gewölbten Kopf tragen, der durch Sehnenbänder mit Rücken und Brust verbunden ist und durch ein Gefüge von Wirbeln und einen knöchernen Unterbau gestützt wird, damit der Hals sich wie nötig beugen kann? Wenn wir das als wahr annehmen, folgt daraus, dass sie auch Ohren haben, die von gewundenen Gängen durchzogen sind; bewegliche Augäpfel, die von den Rändern der Brauen beschattet werden; ein herabhängendes Nasendach, das schleimigen Ausfluss und den Atemstrom hindurchlässt; dreierlei Zähne, die zur Verarbeitung der Speisen für drei verschiedene Aufgaben angeordnet sind; Hände, die der Arbeit dienen und sich dank ihrer Gelenke und Finger sowie der Beweglichkeit der Ellenbogen gebrauchen lassen; Füße, die den Körper tragen, zum Ausschreiten dienen und beim Gehen das Vorankommen ermöglichen\. Wenn sie aber diese sichtbaren Teile besitzen, müssen sie folgerichtig auch jene in sich tragen, die unter den Rippen und ihrem Gitter von der Haut und den dünnen Häuten des Bauchnetzes bedeckt werden: Schlünde, Mägen, Milzen, Lungen, Blasen, Lebern, die gewundenen Bahnen der Därme und die Adern, die purpurfarbenes Blut führen, sämtliche Eingeweide durchziehen und mit luftführenden Arterien verbunden sind\.

@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 3 – Kapitel 11: Wenn die Götter zürnen, dann über die entehrenden Vorstellungen ihrer Verehrer, nicht über die Christen
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-3#kapitel-e0a45b1e-493b-705e-c775-be8cebc2db8f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und ihr wagt es, uns die Schuld am Zorn der Götter zuzuschreiben\! Dabei würde eine Prüfung ergeben, dass die Ursache mit aller Gewissheit bei euch liegt und nicht in der Missachtung, die ihr uns unterstellt\. Denn wenn die Götter, wie ihr sagt, Zorn empfinden und innerlich vor Empörung entbrennen, warum sollten wir dann nicht annehmen, dass es sie schmerzt und aufs Schärfste erbittert, wenn ihr ihnen dieselben Geschlechter zuschreibt, die auch Hunde und Schweine haben, und wenn sie, weil ihr das glaubt, auch entsprechend dargestellt und auf schändliche Weise zur Schau gestellt werden? Wenn es sich also so verhält, seid ihr die Ursache allen Elends\. Ihr treibt die Götter an, ihr stachelt sie dazu auf, die Erde mit allen Übeln heimzusuchen und täglich neue zu ersinnen, mit denen sie sich rächen können, erbittert durch so viele Beleidigungen und Schmähungen von eurer Seite\. Schmähungen und Beleidigungen, sage ich, die teils in schändlichen Geschichten, teils in unwürdigen Vorstellungen immer wieder vorgebracht werden: von euren Theologen, von euren Dichtern und auch von euch selbst in schmachvollen Riten\. Ihr werdet feststellen, dass durch sie die Welt der Menschen zugrunde gerichtet ist und die Götter das Steuerruder weggeworfen haben, sofern es überhaupt zu ihren Aufgaben gehört, die Geschicke der Sterblichen zu lenken und zu verwalten\. Denn uns zu zürnen haben sie keinen Grund\. Sie sehen und erkennen ja, dass wir sie weder verehren noch, wie man sagt, verspotten und dass unsere Gedanken und Überzeugungen über die Würde ihres Namens weit ehrenvoller sind als eure\.

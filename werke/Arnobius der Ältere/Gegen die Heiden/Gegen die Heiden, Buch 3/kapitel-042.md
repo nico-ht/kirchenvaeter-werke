@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 3 – Kapitel 42: Ohne zu wissen, wer die Götter sind, kann man weder ihre Existenz erkennen noch sie wirksam um Hilfe bitten
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-3#kapitel-097ab63e-5b56-041e-0c8c-ccd1e918d633).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Es wäre ein endloses und unermessliches Unterfangen, jede einzelne Art durchzugehen und anhand der Bücher selbst zu zeigen, dass es keinen Gott gibt, den ihr als solchen angesehen oder an den ihr geglaubt habt, über den ihr nicht in tausend Varianten zweideutige und widersprüchliche Meinungen vorgebracht habt\. Doch um uns kurz zu fassen und keinen Überdruss zu erregen, genügt das Gesagte\. Es ist allzu mühsam, eine Menge solcher Beispiele zusammenzuhäufen, wenn schon das eine oder andere deutlich und offen erkennen lässt, dass ihr schwankt und nichts Sicheres über die Dinge sagt, die ihr als wahr hinstellt\. Es sei denn, ihr wollt etwa sagen: „Auch wenn wir nicht wissen, wer die Laren, die Novensilen und die Penaten ihrer Person nach sind, gibt es sie dennoch, wie schon die Übereinstimmung der Schriftsteller bezeugt, und sie bilden unter den Himmlischen eine eigene Art\.“ Wie aber soll man erkennen können, ob ein Gott existiert, wenn man darüber im Unklaren ist und nicht weiß, was er ist? Oder wie soll die Bitte um Wohltaten überhaupt etwas bewirken, wenn nicht geklärt ist und nicht feststeht, wen man bei der jeweiligen Befragung anrufen muss? Denn jeder, der von einer Gottheit eine Antwort erhalten möchte, muss unbedingt wissen, zu wem er fleht, wen er anruft und von wem er Hilfe in menschlichen Angelegenheiten und Nöten erbittet, zumal ihr selbst erklärt, dass nicht alle Götter alles gewähren können und dass jeder von ihnen durch andere Riten besänftigt und sein Unmut beschwichtigt wird\.

@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 3 – Kapitel 43: Fremde Namen und Riten beleidigen die angerufenen Götter und ziehen statt Hilfe unsühnbare Schuld nach sich
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-3#kapitel-6e7034a1-a037-d21b-42d6-920a82bb224c).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Denn wenn dieser ein schwarzes, jener ein weißes Fell verlangt, wenn dem einen mit verhülltem, dem anderen mit unbedecktem Kopf geopfert werden muss, wenn jener in Ehefragen um Rat gefragt wird, dieser Heilmittel gegen Leiden gewährt: Kann es dann etwa gleichgültig sein, ob dieser oder jener ein Novensile ist, wo doch Unkenntnis der Sachverhalte und Verwechslung der Personen die Götter beleidigen und zwangsläufig eine Schuld nach sich ziehen, die gesühnt werden muss? Stell dir nämlich vor, ich selbst würde wegen irgendeines Leidens und um eine Gefahr abzuwenden eine dieser Gottheiten anflehen und sagen: „Steht mir bei, steht mir bei, ihr Penatengötter, du, Apollo, und du, Neptun, und wendet in eurer göttlichen Milde all diese Übel ab, unter denen ich brenne, versengt und gequält werde\!“ Besteht dann irgendeine Hoffnung, von ihnen Hilfe zu erhalten, wenn Ceres, Pales, Fortuna, Jovialis oder Genius die Penatengötter sind, nicht aber Neptun und Apollo? Oder wenn ich die Kureten anstelle der Laren anrufe, die nach Aussage eines Teils eurer Schriftsteller die samothrakischen Finger sind, wie kann ich dann ihre Hilfe und ihr Wohlwollen erfahren, da ich ihnen nicht ihre eigenen, sondern fremde Namen beigelegt habe? So sehr kommt es also darauf an, die Götter im Einzelnen zu kennen und über die Macht und den Namen eines jeden weder im Ungewissen zu sein noch zu zweifeln: Werden sie nämlich mit fremden Riten und Namen angerufen, halten sie ihre Ohren verschlossen und halten uns in unsühnbarer Schuld gefangen\.
