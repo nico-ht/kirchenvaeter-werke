@@ -8,5 +8,8 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werke
 
+- [Gegen die Heiden, Buch 1](Gegen%20die%20Heiden%2C%20Buch%201/) · 65 Kapitel
+- [Gegen die Heiden, Buch 2](Gegen%20die%20Heiden%2C%20Buch%202/) · 78 Kapitel
+- [Gegen die Heiden, Buch 3](Gegen%20die%20Heiden%2C%20Buch%203/) · 44 Kapitel
 - [Gegen die Heiden, Buch 4](Gegen%20die%20Heiden%2C%20Buch%204/) · 37 Kapitel
 - [Gegen die Heiden, Buch 5](Gegen%20die%20Heiden%2C%20Buch%205/) · 45 Kapitel

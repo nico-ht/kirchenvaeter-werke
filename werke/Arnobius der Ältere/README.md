@@ -6,4 +6,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Gegen die Heiden](Gegen%20die%20Heiden/) · 2 Werke
+- [Gegen die Heiden](Gegen%20die%20Heiden/) · 5 Werke

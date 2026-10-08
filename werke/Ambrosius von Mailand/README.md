@@ -8,6 +8,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 - [Briefe](Briefe/) · 1 Werk
 - [Kommentare zu den Psalmen](Kommentare%20zu%20den%20Psalmen/) · 1 Werk
+- [Sieben exegetische Werke](Sieben%20exegetische%20Werke/) · 1 Werk
 
 ## Einzelwerke
 

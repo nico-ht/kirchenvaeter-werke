@@ -21,6 +21,13 @@
     "contentRevision": "sha256:586c41a0f1fcc61cfe483e68265e3c8b441e0e364ce2fdb4922793ca08feca75"
   },
   {
+    "workId": "a019975b-1f4a-4e59-3d5b-08df23bd2351",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Über Josef (De Joseph Patriarcha)",
+    "directory": "werke/Ambrosius von Mailand/Sieben exegetische Werke/Über Josef (De Joseph Patriarcha)",
+    "contentRevision": "sha256:766f3e57e80bba974d5f8cf2a80d3f4beb3b967c42dce98b7ac3b84c267caaaf"
+  },
+  {
     "workId": "6068062d-44b5-4f86-5a9c-08df1c172963",
     "authorName": "Ambrosius von Mailand",
     "title": "Über Naboth (De Nabuthe Jezraelita)",
@@ -91,6 +98,27 @@
     "contentRevision": "sha256:829e6de327915c718c250f58ad3988ac2ba5450320c88312b4e0de984f39be23"
   },
   {
+    "workId": "6f0c8e2d-3965-468e-9166-08df200aaa32",
+    "authorName": "Arnobius der Ältere",
+    "title": "Gegen die Heiden, Buch 1",
+    "directory": "werke/Arnobius der Ältere/Gegen die Heiden/Gegen die Heiden, Buch 1",
+    "contentRevision": "sha256:2488246ff0fe803d1c57ef986c4287f282fa3114cf8c6b5d63af79c0970214ce"
+  },
+  {
+    "workId": "c399d4a9-0736-4709-9614-08deb058c3ff",
+    "authorName": "Arnobius der Ältere",
+    "title": "Gegen die Heiden, Buch 2",
+    "directory": "werke/Arnobius der Ältere/Gegen die Heiden/Gegen die Heiden, Buch 2",
+    "contentRevision": "sha256:d5def5cfe0d18f31fa9c6b0ea3fbbf3adee7c1a7f9ddeada054ff0b4945e0a35"
+  },
+  {
+    "workId": "3fa282a8-b1e0-4247-9167-08df200aaa32",
+    "authorName": "Arnobius der Ältere",
+    "title": "Gegen die Heiden, Buch 3",
+    "directory": "werke/Arnobius der Ältere/Gegen die Heiden/Gegen die Heiden, Buch 3",
+    "contentRevision": "sha256:50630fe281bd160cc1467569196f65a75c061c41b4ef8860d8d79b9f4b10f951"
+  },
+  {
     "workId": "825cc0db-c81b-4f20-21ca-08df23296889",
     "authorName": "Arnobius der Ältere",
     "title": "Gegen die Heiden, Buch 4",
@@ -158,7 +186,7 @@
     "authorName": "Athenagoras von Athen",
     "title": "Ein Plädoyer für die Christen",
     "directory": "werke/Athenagoras von Athen/Ein Plädoyer für die Christen",
-    "contentRevision": "sha256:42ca994207bbbcfcd6c8e7d28bb8ffe2acceea390e0f1b0d8eda9d069acc3de6"
+    "contentRevision": "sha256:76df659c882daa305d49d6c0298c1fedb0466ef154d76e168985ef304fb91cd7"
   },
   {
     "workId": "7d89d74d-df95-4c6b-7d58-08df134d0ace",
@@ -249,21 +277,21 @@
     "authorName": "Clemens von Alexandria",
     "title": "Der Erzieher: Buch 2",
     "directory": "werke/Clemens von Alexandria/Der Erzieher/Der Erzieher Buch 2",
-    "contentRevision": "sha256:21f829f7776949dd2eb482a802f8d5d79368dbaf908897c9985ce43538938aea"
+    "contentRevision": "sha256:90b72e851cdee1aaa3b9fd2f06b5d6480a73b9862f7528ae1e233f28e70ea3e3"
   },
   {
     "workId": "bd06f216-fa47-4034-330b-08deae0a27b1",
     "authorName": "Clemens von Alexandria",
     "title": "Der Erzieher: Buch 3",
     "directory": "werke/Clemens von Alexandria/Der Erzieher/Der Erzieher Buch 3",
-    "contentRevision": "sha256:584fedae76ba3d8cab7017781cbbf67dbdb9c2e59747686ecfc500f41dc3c38e"
+    "contentRevision": "sha256:6608fa7e54fe25baa151c1aec3782ce44ffc00f9b8a5d6d926037dccb8580365"
   },
   {
     "workId": "307235dc-c480-48a4-ccc1-08dd2abb5377",
     "authorName": "Clemens von Alexandria",
     "title": "Ermahnung an die Heiden",
     "directory": "werke/Clemens von Alexandria/Ermahnung an die Heiden",
-    "contentRevision": "sha256:3e64bcb90948edd4484b2f278126eea66dbc25e4d2057b6f7b78521ead7fd768"
+    "contentRevision": "sha256:db4255ed4fa4b3354863fcff18f90dd77ad99b0f52aaa50995c072258724a793"
   },
   {
     "workId": "055fb200-5181-435f-9d4c-08dda210d6e0",
@@ -462,6 +490,13 @@
     "contentRevision": "sha256:5e08a5051b966478a29eb038eda8013a532ff9a15ebe670cb5db8ea393bfe98a"
   },
   {
+    "workId": "2d66b4a5-d9bc-4d85-ccc2-08dd2abb5377",
+    "authorName": "Cyprian von Karthago",
+    "title": "Über die Verfallenen",
+    "directory": "werke/Cyprian von Karthago/Über die Verfallenen",
+    "contentRevision": "sha256:3baaea5b1e2e088f005b5f2a71e39a47a785803e010b49fa83236badce074b82"
+  },
+  {
     "workId": "32f88a56-d71e-4c65-e777-08de08d551ab",
     "authorName": "Cyprian von Karthago",
     "title": "Über öffentliche Veranstaltungen",
@@ -628,6 +663,13 @@
     "title": "Über das Leben des Mose, Buch 1",
     "directory": "werke/Gregor von Nyssa/Über das Leben des Mose/Über das Leben des Mose, Buch 1",
     "contentRevision": "sha256:61fafc7d732ebae01765a9e253facadadb946f41da66fce69797b6c152559544"
+  },
+  {
+    "workId": "d420fd4e-e7b6-4336-2091-08dead0f2325",
+    "authorName": "Gregor von Nyssa",
+    "title": "Über die Seele und die Auferstehung",
+    "directory": "werke/Gregor von Nyssa/Über die Seele und die Auferstehung",
+    "contentRevision": "sha256:a8199936c5ae31308fd44961b2b12786ce8337cd07378548b3dc02d6788ea9fa"
   },
   {
     "workId": "07b8ea1d-e055-460f-e4c8-08dd0635942f",
@@ -1817,7 +1859,7 @@
     "authorName": "Minucius Felix",
     "title": "Octavius",
     "directory": "werke/Minucius Felix/Octavius",
-    "contentRevision": "sha256:c15597dbdcb9a040bb5bc97346da52bcbb31047eb9044c246d1bf362e8136a34"
+    "contentRevision": "sha256:9c72dfcf63527ef20db5cf89f3fabf3e423dd96e6911a468848b10c5f9e231d4"
   },
   {
     "workId": "f41244a9-b7a7-4dd3-90c7-08de390c5250",
@@ -2195,7 +2237,7 @@
     "authorName": "Origenes",
     "title": "Gegen Celsus, Buch 1",
     "directory": "werke/Origenes/Gegen Celsus/Gegen Celsus, Buch 1",
-    "contentRevision": "sha256:36101c730e0dd9270dbef3827b17da4e768b8cd947ac725dbcc0b95480e792d2"
+    "contentRevision": "sha256:b7b7219184698ad3d97d0abe4bfe26a6cd0218a046b31381e2944af3c9eb7469"
   },
   {
     "workId": "276dda71-5b9f-409e-a2b0-08ddecb317c5",
@@ -2203,6 +2245,13 @@
     "title": "Gegen Celsus, Buch 2",
     "directory": "werke/Origenes/Gegen Celsus/Gegen Celsus, Buch 2",
     "contentRevision": "sha256:ce19401869b2b093b78fe013b21f889e5b6ca8f1daf21a35b5255a2cc81007be"
+  },
+  {
+    "workId": "0fc5fcd9-00ed-48b1-9153-08df200aaa32",
+    "authorName": "Origenes",
+    "title": "Gegen Celsus, Buch 4",
+    "directory": "werke/Origenes/Gegen Celsus/Gegen Celsus, Buch 4",
+    "contentRevision": "sha256:e7350411c7d857257e62c1fc770594b06b13ddf19f5fa2697bb607ef8b35735c"
   },
   {
     "workId": "72a24bdd-8b1f-4065-01fc-08de04e590d4",
@@ -2433,7 +2482,7 @@
     "authorName": "Tertullian",
     "title": "Über das Gebet",
     "directory": "werke/Tertullian/Über das Gebet",
-    "contentRevision": "sha256:4c9ce0d7f2769cf7654e2e9b74fc86cb5c2eaad97bb0501716551d8c2ced5f94"
+    "contentRevision": "sha256:ac8bc3665caa0927d7f17cf22cbd400b281d21261b95be7d2ba7bb5744b54421"
   },
   {
     "workId": "aa8fac76-4211-442a-978d-08df1efbfc61",
