@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 2 – Kapitel 63: Auszug: Gegen die Heiden, Buch 2, 76; ICONS\-0481
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/gegen-die-heiden-buch-2#kapitel-b396c334-55a0-42f3-b64b-08df200a66bf).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Wenn aber Christus“, sagen sie, „von Gott dazu gesandt wurde, die unglücklichen Seelen vor der Vernichtung zu retten, was haben dann die früheren Generationen verbrochen, die vor seiner Ankunft dem Los der Sterblichkeit erlagen?“ Könnt ihr denn wissen, was mit den Seelen jener Menschen aus alter und ältester Zeit geschehen ist? Ob auch ihnen auf irgendeine Weise geholfen wurde, ob für sie gesorgt und Vorsorge getroffen wurde? Könnt ihr, sage ich, wissen, was man durch Christi Lehre erfahren konnte: ob unendlich viele oder eine begrenzte Zahl von Zeitaltern vergangen sind, seit das Menschengeschlecht auf der Erde zu leben begann; wann erstmals Seelen an Körper gebunden wurden; wer diese Fesselung bewirkt hat, ja vielmehr, wer den Menschen selbst geschaffen hat; wohin die Seelen der früheren Menschen gegangen sind, in welchen Teilen oder Gegenden der Welt sie sich aufgehalten haben, ob sie vergänglich waren oder nicht; ob sie in Todesgefahr hätten geraten können, wenn Christus als Retter nicht zur nötigen Zeit zu Hilfe gekommen wäre? Legt diese Sorgen ab und lasst die Streitfragen ruhen, über die ihr nichts wisst\. Auch ihnen wurde königliches Erbarmen zuteil, und die göttlichen Wohltaten sind allen gleichermaßen zugeströmt\. Die Seelen wurden gerettet, wurden befreit und haben das Los und den Zustand der Sterblichkeit abgelegt\. „Auf welche Weise? Welche Seelen? Wann?“ Wenn ihr frei von Anmaßung, Aufgeblasenheit und Überheblichkeit wärt, hättet ihr es längst von ihm erfahren können\.

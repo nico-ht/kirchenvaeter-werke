@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 2 – Kapitel 42
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/gegen-die-heiden-buch-2#kapitel-34b9bd2d-5c66-4b95-e71b-08df1edf27ba).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+42\. Hat er dazu die Seelen ausgesandt, dass einige die Landstraßen und Wege unsicher machen, andere die Unvorsichtigen in Fallen locken, falsche Testamente unterschieben und Gifttränke bereiten; dass sie nachts in Häuser einbrechen, Sklaven bestechen, stehlen und Beute forttreiben, nicht rechtschaffen handeln und treulos das ihnen entgegengebrachte Vertrauen verraten; dass sie erlesene Leckerbissen für den Gaumen erfinden; dass sie beim Zubereiten von Geflügel das herabtropfende Fett aufzufangen wissen; dass sie Knuspergebäck und Würste, Fleischfüllungen, Leckerbissen, lukanische Würste und dazu ein Saueneuter und eisgekühlte Fleischspeisen zubereiten? Hat er dazu die Seelen ausgesandt, dass Wesen von heiliger und erhabener Herkunft hier Singen und Flötenspiel betreiben; dass sie beim Blasen der Flöte ihre Wangen aufblähen; dass sie beim Singen unzüchtiger Lieder den Ton angeben und den lauten Lärm der Klappern erheben, durch den eine andere Schar von Seelen in ihrer Zügellosigkeit dazu verleitet wird, sich plumpen Bewegungen hinzugeben, zu tanzen und zu singen, Tanzreigen zu bilden und schließlich mit angehobenem Gesäß und Hüften in zitternder Bewegung der Lenden dahinzuschweben? Hat er dazu die Seelen ausgesandt, dass sie in Männern unrein, in Frauen zu Huren, zu Spielerinnen der dreieckigen Harfe und der Zither werden; dass sie ihre Körper gegen Bezahlung preisgeben, sich der Lust aller hingeben, in Bordellen bereitstehen, in Freudenhäusern anzutreffen sind, bereit, sich allem zu unterwerfen, sogar bereit, ihren Mund zu schänden?

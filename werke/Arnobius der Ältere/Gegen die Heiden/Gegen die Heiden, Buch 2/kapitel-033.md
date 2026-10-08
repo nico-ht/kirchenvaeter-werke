@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 2 – Kapitel 33: Christen erhoffen Rettung und himmlisches Leben nicht aus eigener Kraft, sondern vom Herrn aller Dinge
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/gegen-die-heiden-buch-2#kapitel-2e5bac73-9fbf-2c21-08fa-c8c330cf87ca).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn uns der Tod, das heißt der Untergang der Seelen, als Bedrohung vor Augen steht, handeln wir dann nicht nach jenem allen gemeinsamen Empfinden, aus dem wir alle uns selbst lieben, wenn wir an dem festhalten, der uns verspricht, uns aus solcher Gefahr zu befreien, wenn wir ihn umarmen und ihn, sofern dies ein angemessener Dank ist, höher stellen als unsere eigenen Seelen? Ihr vertraut beim Heil eurer Seelen auf euch selbst und glaubt, durch eigene, innere Anstrengung zu Göttern zu werden\. Wir dagegen versprechen uns angesichts unserer Schwäche nichts von uns selbst\. Denn wir sehen, dass unsere Natur keinerlei Kraft besitzt und in jedem Ringen ihren eigenen Leidenschaften unterliegt\. Ihr glaubt, dass ihr Flügel haben werdet, sobald ihr aus den Fesseln eurer Glieder befreit und davongegangen seid, und dass ihr mit diesen Flügeln zum Himmel gelangen und zu den Sternen fliegen könnt\. Wir schrecken vor so großer Kühnheit zurück und meinen nicht, dass es in unserer Macht liegt, die himmlischen Wohnstätten aufzusuchen\. Uns ist ja sogar ungewiss, ob wir es verdienen, das Leben zu empfangen und vom Gesetz der Sterblichkeit befreit zu werden\. Ihr setzt voraus, dass ihr aus eigenem Antrieb in den Palast des Herrn wie an euren eigenen Wohnsitz zurückkehren werdet, ohne dass euch jemand daran hindert\. Wir dagegen hoffen weder, dass dies ohne den Herrn aller Dinge geschehen kann, noch meinen wir, dass irgendeinem Menschen so viel Macht und Freiheit eingeräumt wird\.

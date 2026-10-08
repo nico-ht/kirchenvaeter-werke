@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 2 – Kapitel 22: Die Unwissenheit des isoliert Aufgewachsenen widerspricht dem behaupteten angeborenen Allwissen der Seele
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/gegen-die-heiden-buch-2#kapitel-4575ef02-01cf-e77d-ba8a-4756fbdf9384).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Worauf zielt also all dies? Man glaubt, die Seelen seien göttlich und deshalb auch unsterblich und kämen mit allem Wissen zu den menschlichen Körpern geflogen\. Darum wollen wir an dem Menschen, den wir auf diese Weise aufziehen lassen wollten, erproben, ob diese Annahme Glauben verdient oder ob man ihr leichtfertig geglaubt und sie in trügerischer Erwartung vorausgesetzt hat\. Nun soll also der in verborgener Einsamkeit Aufgezogene vor uns treten, so alt, wie ihr wollt\. Soll er zwanzig sein? Soll er dreißig sein? Mehr noch: Wenn er vierzig Jahre vollendet hat, soll er in die Gemeinschaft der Menschen gebracht werden\. Und wenn es wahr ist, dass er ein so lebenskräftiger Teil der ursprünglichen Substanz ist und, aus den Quellen des Lebens hervorgegangen, hier lebt, dann soll er, noch ehe er irgendeine Sache kennenlernt oder in der menschlichen Sprache unterwiesen wird, auf folgende Fragen antworten: Wer ist er selbst? Wer ist sein Vater? In welchen Gegenden wurde er geboren? Wie oder auf welche Weise wurde er aufgezogen? Mit welcher Arbeit oder Beschäftigung hat er seine bisherige Lebenszeit verbracht? Wird er da nicht stumpfer und verständnisloser dastehen als alles Vieh, als Holz und Stein? Wird er nicht, unter neue, ihm zuvor gänzlich unbekannte Dinge versetzt, vor allem sich selbst nicht kennen? Wird er, wenn du ihn fragst, erklären können, was die Sonne ist, was Erde, Meere, Sterne, Wolken, Nebel, Regen, Donner, Schnee und Hagel sind? Wird er wissen können, was Bäume, Kräuter oder Gräser sind, was ein Stier, ein Pferd oder ein Widder, ein Kamel, ein Elefant oder ein Maultier ist?

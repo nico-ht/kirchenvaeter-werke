@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 2 – Kapitel 17: Menschliche Baukunst beweist keine überlegene Vernunft, denn auch Tiere schaffen kunstvolle Behausungen
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/gegen-die-heiden-buch-2#kapitel-c23fd521-7b57-1ac8-c81d-f12bc2f2f42a).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Aber wir sind vernunftbegabt und übertreffen an Einsicht alle stummen Tiere\.“ Das würde ich für vollkommen wahr halten, wenn alle Menschen mit Vernunft und Überlegung lebten, ihre Pflichten beständig erfüllten, sich von Unerlaubtem fernhielten und sich nicht auf schändliche Geschäfte einließen; wenn niemand aus verkehrtem Urteil und blind vor Unwissenheit nach dem verlangte, was ihm zuwiderläuft und zum Schaden gereicht\. Doch ich möchte wissen, worin diese Vernunft besteht, durch die wir allen Tierarten überlegen sind\. Etwa darin, dass wir uns Behausungen geschaffen haben, in denen wir der Winterkälte und der Sommerhitze entgehen können? Wie? Sorgen die anderen Lebewesen dafür nicht vor? Sehen wir nicht, wie die einen sich an den günstigsten Stellen Nester als Behausungen bauen, andere sich unter überhängenden Steinen und Felsen Schutz und Sicherheit schaffen, wieder andere den Erdboden aushöhlen und sich in ausgegrabenen Höhlen Zuflucht und Lager bereiten? Hätte Mutter Natur auch ihnen helfende Hände schenken wollen, so wäre nicht zu bezweifeln, dass auch sie hochragende Mauern errichten und kunstvolle Gebilde von neuartiger Gestalt hervorbringen würden\. Dennoch erkennen wir schon in dem, was sie mit Schnäbeln und Krallen schaffen, viele Abbilder von Vernunft und Weisheit, die wir Menschen bei allem Nachdenken nicht nachahmen können, obwohl wir Hände haben, die Werke schaffen und jede Art von Kunst vollendet beherrschen\.

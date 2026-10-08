@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 2 – Kapitel 72: Christen verehren keinen neuen Gott, sondern haben den ewigen Ursprung aller Dinge erst spät erkannt
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/gegen-die-heiden-buch-2#kapitel-98cddb4e-cd37-c2c1-0a16-cb107994972b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Aber eure Religionen sind um viele Jahre älter als unsere und deshalb wahrer, weil die Autorität ihres Alters sie stützt\. Doch was nützt es ihnen, um noch so viele Jahre älter zu sein, wenn sie zu einem bestimmten Zeitpunkt ihren Anfang genommen haben? Oder was sind zweitausend Jahre für eine Zeitspanne im Vergleich zu so vielen Tausenden von Zeitaltern? Damit es aber nicht so aussieht, als würden wir durch so langes Ausweichen unsere Sache preisgeben, sagt uns, wenn es euch nicht zu beschwerlich ist: Erscheint euch der allmächtige und erste Gott als etwas Neues? Und meint ihr, diejenigen, die ihn ehrfürchtig verehren, würden nie gehörte, unbekannte, plötzlich aufgekommene Kulte ausüben und einführen? Gibt es etwas Älteres als ihn, oder lässt sich irgendetwas finden, das ihm der Sache, der Zeit oder dem Namen nach vorausgeht? Ist nicht er allein ungezeugt, er allein unsterblich und ewig? Wer ist der Ursprung oder die Quelle aller Dinge? Nicht er selbst? Wem verdankt die Ewigkeit, dass sie überhaupt Ewigkeit heißt? Nicht ihm? Ist es nicht sein ewiges Bestehen, das unendlich viele Zeitalter hervorgehen lässt? Das ist unbestreitbar und wahr\. Nicht das, woran wir uns halten, ist also neu; vielmehr haben wir erst spät gelernt, woran wir uns halten und was wir verehren sollen, oder worauf wir unsere Hoffnung auf Heil setzen und worauf wir uns zu unserer Rettung stützen sollen\. Denn noch war nicht der aufgeleuchtet, der den Irrenden den Weg zeigen, den Menschen in tiefster Finsternis das Licht der Erkenntnis bringen und die Blindheit der Unwissenheit vertreiben sollte\.

@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 2 – Kapitel 48: Die Laster der Seelen schließen ihre Abstammung vom höchsten Gott aus, auch wenn ihr Ursprung unbekannt bleibt
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/gegen-die-heiden-buch-2#kapitel-05fd34fa-b396-c564-5f86-948acdba0d97).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ebenso folgt auch hier aus unserer Weigerung, die Seelen als Nachkommen des höchsten Gottes anzuerkennen, nicht ohne Weiteres, dass wir erklären müssten, wer ihr Erzeuger ist und aus welchen Gründen sie gezeugt wurden\. Wer verbietet uns denn, nicht zu wissen, woher sie stammen und hervorgegangen sind, oder zu wissen, dass sie nicht Gottes Nachkommen sind? „Mit welcher Begründung“, fragt ihr, „auf welchem Weg?“ Weil es wahrer als alles Wahre und gewisser als alles Gewisse ist, dass der Höchste, wie schon öfter gesagt, nichts tut, schafft oder festsetzt, außer dem, was zu tun geboten und angemessen ist; nichts, was nicht vollständig und unversehrt und in der Vollkommenheit seiner Unversehrtheit vollendet ist\. Nun sehen wir aber, dass die Menschen, also die Seelen selbst \(denn was sind Menschen anderes als Seelen, die an Körper gebunden sind?\), durch ihre zahllosen bösartigen Laster selbst zu erkennen geben, dass sie nicht von vornehmer Abstammung sind, sondern aus gewöhnlichen Familien stammen\. Wir sehen nämlich manche, die unbarmherzig, verbrecherisch, dreist, leichtfertig, ungestüm, blind, falsch, heuchlerisch, lügnerisch, stolz, anmaßend, geizig, habgierig, wollüstig, unbeständig und schwach sind und ihre eigenen Beschlüsse nicht einhalten können\. So wären sie gewiss nicht, wenn der Adel ihrer Herkunft vom Höchsten für sie bürgen würde und sie die Würde einer Abstammung besäßen, die auf das Haupt aller Dinge zurückgeht\.

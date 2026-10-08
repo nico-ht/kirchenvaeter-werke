@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 2 – Kapitel 45: Gott hätte keine wankelmütigen Seelen gezeugt und sie wissentlich Elend und gegenseitigem Hass ausgeliefert
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/gegen-die-heiden-buch-2#kapitel-dd69b64d-8fb1-7321-1e73-73417a0d24bd).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch fern von uns sei der ungeheuerliche, frevelhafte Gedanke, der allmächtige Gott, Urheber, Schöpfer und Erzeuger der großen und unsichtbaren Dinge, habe so wankelmütige Seelen gezeugt, ohne jeden Ernst, ohne Gewicht und Beständigkeit, leicht dem Laster verfallend und zu jeder Art von Sünde geneigt\. Obwohl er wusste, wie sie beschaffen waren, habe er ihnen befohlen, in Körper einzugehen: In deren Kerkern eingeschlossen, sollten sie tagtäglich unter den Stürmen und Unwettern des Schicksals leben, bald Schändliches tun, bald Schändliches erleiden und durch Schiffbrüche, einstürzende Gebäude und Feuersbrünste umkommen\. Armut sollte die einen bedrücken, die Not des Bettelns die anderen; manche sollten von wilden Tieren zerfleischt werden, andere am Gift kleiner Fliegen sterben, manche hinkend gehen, andere ihr Augenlicht verlieren, wieder andere mit steifen Gelenken dasitzen\. Schließlich sollten sie all den Krankheiten ausgeliefert sein, die die unglückliche, erbarmungswürdige Menschheit erduldet, zerrissen von vielfältigen Qualen\. Dann sollten sie, nachdem sie vergessen hätten, dass sie aus einer einzigen Quelle stammen, einen einzigen Erzeuger und ein einziges Haupt haben, ihre geschwisterlichen Bande sprengen und zerreißen\. Sie sollten ihre eigenen Städte zerstören, Länder feindselig verwüsten, Freie zu Sklaven machen, Jungfrauen und fremde Ehen schänden, einander hassen und andere um ihre Freude und ihr Glück beneiden\. Schließlich sollten sie alle einander verfluchen, herabsetzen und mit grausamen Zähnen zerfleischen\.

@@ -1,0 +1,14 @@
+# Gegen die Heiden, Buch 2 – Kapitel 14: Seelen sind nicht von Natur unsterblich: Sie können vernichtet oder durch Hinwendung zu Gott gerettet werden
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/gegen-die-heiden-buch-2#kapitel-8d1733c9-966f-60bb-6991-ee351534103e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wagt ihr es, uns zu verlachen, wenn wir von Höllen und gewissen unauslöschlichen Feuern[^bible-33344677-304b-4f32-bacf-e71f3066ab05] sprechen, in die, wie wir erfahren haben, die Seelen von ihren Feinden und Widersachern hinabgestürzt werden? Wie? Nennt nicht derselbe Platon, euer Platon, in seinem Buch über die Unsterblichkeit der Seele die Flüsse Acheron, Styx, Kokytos und Pyriphlegethon? Behauptet er nicht, dass die Seelen darin umhergewälzt, untergetaucht und verbrannt werden? Und dieser durchaus kluge Mann, der sorgfältig prüft und urteilt, lässt sich auf eine unlösbare Schwierigkeit ein: Er erklärt die Seelen für unsterblich und ewig, ohne feste körperliche Substanz, behauptet aber zugleich, sie würden bestraft, und lässt sie sinnlich empfundene Schmerzen erleiden\. Welcher Mensch sieht denn nicht, dass etwas, das unsterblich und nicht zusammengesetzt ist, keinen Schmerz empfinden kann, dass aber etwas, das Schmerz empfindet, nicht unsterblich sein kann? Dennoch weicht seine Lehrmeinung nicht allzu weit von der Wahrheit ab\. Als sanftmütiger und wohlwollender Mann hielt er es zwar für unmenschlich, Seelen zum Tode zu verurteilen\. Doch seine Vermutung, sie würden in Ströme geworfen, die mit Flammenballen dahinbrausen und durch ihre schlammigen Strudel Grauen erregen, war nicht abwegig\. Denn sie werden tatsächlich hineingeworfen, zunichtegemacht und schwinden dahin, durch ewige Vernichtung ausgelöscht\. Sie sind nämlich von mittlerer Natur, wie wir durch Christus erfahren haben: Sie können zugrunde gehen, wenn sie Gott nicht kennen, aber auch von der Verbannung aus dem Leben befreit werden, wenn sie sich seinen Drohungen und Gnadenerweisen zuwenden\. Und damit offenbar wird, was unbekannt ist: Dies ist der wahre Tod des Menschen, dies der Tod, der nichts übrig lässt\. Denn jener Tod, den wir vor Augen sehen, ist die Trennung der Seelen von den Körpern, nicht das endgültige Ende durch Vernichtung\. Dies, sage ich, ist der wahre Tod des Menschen: wenn die Seelen, die Gott nicht kennen, unter Qualen von überaus langer Dauer durch Feuer und Eisen aufgezehrt werden\. In dieses Feuer werden sie gewisse grausam wütende Wesen werfen, die vor Christus unbekannt waren und von dem offenbart wurden, der allein um sie weiß\.
+
+## Bibelverweise
+
+[^bible-33344677-304b-4f32-bacf-e71f3066ab05]: Mk 9,43
