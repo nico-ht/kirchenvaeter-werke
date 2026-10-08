@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 1 – Kapitel 26: Götter, die die Verehrung des höchsten Gottes als gottlos verurteilen, verdienen ihren Namen nicht
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-1#kapitel-54d4967f-5e3b-9864-4ab9-ef315a036fc3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ist das, so frage ich euch, jenes verwegene, ungeheuerliche Verbrechen, dessentwegen die höchsten Himmelsgötter die Stacheln ihres Zorns und ihrer Empörung gegen uns richten? Dessentwegen ihr selbst, wenn euch die Lust zur Grausamkeit packt, uns unserer Güter beraubt, aus unserer Heimat vertreibt, Todesstrafen über uns verhängt, uns foltert, zerreißt, verbrennt und schließlich wilden Tieren vorwerft und von Bestien zerfleischen lasst? Wer dies an uns verurteilt oder meint, es müsse zum Gegenstand einer Anklage gemacht werden: Darf er Mensch genannt werden, auch wenn er sich selbst für einen hält? Oder soll er als Gott gelten, auch wenn er sich durch tausend Seher als solchen ausgibt? Trophonios oder der dodonäische Jupiter nennt uns gottlos\. Und der soll Gott heißen und zu den Gottheiten gezählt werden, der entweder denen, die dem höchsten König dienen, das Verbrechen der Gottlosigkeit anhängt oder darunter Qualen leidet, dass dessen Hoheit und Verehrung ihm vorgezogen werden? Und Apollon, ob als Delios, Klarios, Didymaios, Philesios oder Pythios: Soll der als göttlich gelten, der entweder den höchsten Herrscher nicht kennt oder nicht weiß, dass wir ihn täglich in unseren Gebeten anflehen? Auch wenn ihm die Geheimnisse der Herzen unbekannt wären und er nicht erkennen würde, was wir im Innersten hegen: Dass wir den höchsten Gott anrufen und von ihm erbitten, was wir verlangen, hätte er doch mit seinen Ohren hören oder schon am Klang der Stimme erkennen können, mit der wir beten\.

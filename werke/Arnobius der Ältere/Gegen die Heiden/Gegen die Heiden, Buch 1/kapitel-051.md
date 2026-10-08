@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 1 – Kapitel 51: Dass Christus Menschen seine Wundermacht verleiht, erweist seine Herrschaft über alle Kräfte
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-1#kapitel-64f1529f-38ed-a2d2-4655-841f0b4cfd85).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Was sagt ihr dazu, ihr ungläubigen, widerspenstigen, verhärteten Geister? Hat jener kapitolinische Jupiter irgendeinem Sterblichen eine solche Macht gegeben? Hat er einen Kurienpriester oder den obersten Pontifex, ja mehr noch, den Flamen Dialis, da Jupiter doch Dius ist, mit dieser Vollmacht ausgestattet? Ich meine nicht etwa die Vollmacht, Tote aufzuerwecken, Blinden das Augenlicht zurückzugeben oder Kraftlosen und Erschlafften ihre Glieder wieder in die rechte Lage zu bringen, sondern die, auch nur eine Blase, einen Hautriss am Nagel oder einen Pickel durch einen ausgesprochenen Befehl oder eine Berührung mit der Hand zum Verschwinden zu bringen\. War das also menschlich? Konnte aus einem Mund, der mit irdischem Kot genährt wurde, ein solches Recht verliehen werden, eine solche Vollmacht hervorgehen? War es nicht vielmehr göttlich und heilig, ja, wenn die Sache überhaupt eine Steigerung zulässt, mehr als göttlich und heilig? Denn wenn du selbst tust, was du vermagst und was deinen Kräften und deiner Macht entspricht, gibt es keinen Anlass zu einem Ausruf des Staunens\. Du hast ja nur getan, was du konntest und was von deiner Kraft zu erwarten war, sodass das Werk und der, der es vollbringt, von gleicher Beschaffenheit sind\. Doch einem Menschen das eigene Recht übertragen zu können, einem höchst zerbrechlichen Wesen die Fähigkeit zu schenken, das zu tun, was man allein vermag, und diese Fähigkeit mit ihm zu teilen: Das ist einer Macht eigen, die über allem steht und die Ursachen aller Dinge sowie das Wesen der Gesetzmäßigkeiten und Kräfte unter sich hat\.

@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 1 – Kapitel 56: Christi Wunder sind nur teilweise überliefert; feindliche Verfälschungen sollen ihre Glaubwürdigkeit zerstören
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-1#kapitel-bf5f0e7e-092e-7eef-dc1c-32a52b4b49cf).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Aber unsere Schriftsteller sollen dies alles erlogen, geringe Taten ins Unermessliche erhoben und unbedeutende Dinge mit recht prahlerischen Lobpreisungen aufgebauscht haben\. Hätte doch alles schriftlich festgehalten werden können, was er selbst vollbracht und was seine Verkünder mit gleicher Vollmacht und Macht gewirkt haben\! Eine solche Fülle von Wundertaten würde euch noch ungläubiger machen\. Oder ihr könntet vielleicht einen Anhaltspunkt finden, der es höchst glaubhaft erscheinen ließe, dass man die Geschehnisse ausgeschmückt und Unwahrheiten in die Schriften und Berichte eingefügt hat\. Doch nicht alle Taten, die unter unbekannten Völkern ohne Kenntnis der Schrift vollbracht wurden, konnten aufgezeichnet werden oder allen Menschen zu Ohren kommen\. Und wenn etwas schriftlich festgehalten wurde, so haben die Dämonen, deren Sorge und Streben es ist, diese Wahrheit zu unterdrücken, und die ihnen ähnlichen Menschen aus Bosheit die Aufzeichnungen teils verfälscht und ergänzt, teils Wörter und Silben verändert und gestrichen, damit selbst verständige Menschen zögerten, Glauben zu schenken, und die Glaubwürdigkeit der Taten zerstört würde\. Doch möge es ihnen niemals gut ergehen, damit sich aus den schriftlichen Zeugnissen erschließen lässt, wer Christus war\. Um seinetwillen sind diese allein dazu verbreitet worden, dass, wenn sich unsere Aussagen als wahr erweisen, nach dem Bekenntnis aller feststeht, dass er Gott war\.

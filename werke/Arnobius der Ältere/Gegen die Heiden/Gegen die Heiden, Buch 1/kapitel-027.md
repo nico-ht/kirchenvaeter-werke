@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 1 – Kapitel 27: Gottesverehrung befriedigt kein Bedürfnis Gottes, sondern stärkt unseren Willen zu einem Leben ohne Schuld
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-1#kapitel-6b417814-2903-11e7-648c-0d19027b42e4).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Noch ist hier nicht der Ort, darzulegen, wer all jene sind, die uns verurteilen, woher sie stammen, wie weit ihre Macht und ihr Wissen reichen, warum sie erzittern, wenn Christus genannt wird, und warum sie seine Jünger als Feinde betrachten und hassen\. Doch für alle, die menschliche Vernunft für sich beanspruchen, wollen wir eines in einer einzigen Definition festhalten: Wir Christen sind nichts anderes als Verehrer des höchsten Königs und Herrschers, angeleitet von unserem Lehrer Christus\. Wenn du diese Religion betrachtest, wirst du finden, dass es in ihr um nichts anderes geht\. Das ist die Summe unseres gesamten Tuns; das ist das Ziel, das unserem Dienst an Gott gesetzt ist, das ist sein Zweck\. Vor ihm werfen wir uns alle nieder, wie es unser Brauch ist; ihn beten wir mit vereinten Gebeten an; von ihm erbitten wir, was gerecht und ehrenhaft ist und verdient, von ihm gehört zu werden\. Nicht etwa, weil er selbst danach verlangt, dass wir ihn anflehen, oder weil er sich daran erfreut, so viele Tausende sich in Verehrung vor ihm niederwerfen zu sehen\. Das nützt uns und dient unserem eigenen Vorteil\. Denn weil wir durch unsere angeborene Schwäche zu Verfehlungen und zu den vielfältigen Begierden der Lust neigen, lässt er zu, dass wir ihn uns jederzeit in Gedanken vergegenwärtigen, damit wir, während wir zu ihm beten und uns bemühen, seine Gaben zu verdienen, den Willen zu einem Leben ohne Schuld gewinnen und uns von jedem Makel reinigen, indem wir mit allen Verfehlungen brechen\.

@@ -1,0 +1,10 @@
+# Gegen die Heiden, Buch 1 – Kapitel 40: Christi Kreuzestod schmälert weder die Autorität seiner Lehre noch seine Ehre als Unschuldiger
+
+Autor: Arnobius der Ältere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-aeltere/arnobius-gegen-die-heiden-buch-1#kapitel-bd1d804e-3485-3d71-d450-9c076d113eb3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Aber er ist ans Kreuz geheftet gestorben\.“ Was hat das mit der Sache zu tun? Denn die Art und die Schmach seines Todes ändern weder seine Worte noch seine Taten\. Auch wird die Autorität seiner Lehren nicht deshalb geringer erscheinen, weil er nicht durch natürliche Auflösung von den Fesseln des Körpers frei wurde, sondern gewaltsam starb\. Pythagoras von Samos wurde in einem Heiligtum bei lebendigem Leib verbrannt, weil man ihn zu Unrecht verdächtigte, nach der Herrschaft zu streben\. Hat etwa das, was er lehrte, seine eigene Kraft verloren, weil er sein Leben nicht auf natürliche Weise aushauchte, sondern einem grausamen Angriff erlag? Ebenso wurde Sokrates, den seine eigene Stadt verurteilt hatte, hingerichtet\. Ist etwa das, was er über Sitten, Tugenden und Pflichten erörterte, ungültig geworden, weil er zu Unrecht aus dem Leben gerissen wurde? Unzählige andere, die durch Ruhm, Tugend und Ansehen hervorragten, erlitten die grausamsten Todesarten, etwa Aquilius, Trebonius und Regulus\. Wurden sie etwa deshalb nach ihrem Tod als ehrlos angesehen, weil sie nicht nach dem allgemeinen Gesetz des Schicksals starben, sondern zerfleischt und gequält einen äußerst grausamen Tod fanden? Noch nie ist ein Unschuldiger dadurch ehrlos geworden, dass er auf grausame Weise getötet wurde\. Und kein Makel der Schande befleckt den, der schwere Strafen nicht wegen eigener Schuld, sondern wegen der Grausamkeit seines Peinigers erleidet\.
