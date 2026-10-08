@@ -1,0 +1,16 @@
+# Gegen Celsus, Buch 4 – Kapitel 34: Nur die Genesis berichtet von den Stammvätern, deren hebräische Namen die Abstammung der Juden bezeugen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/buch-4#kapitel-2f2fb013-ac0c-459b-4c4d-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Denn wir fragen alle, die solche Anrufungen Gottes gebrauchen: „Sagt uns, Freunde, wer war Abraham, was für ein Mensch war Isaak, und welche Macht besaß Jakob, dass die Bezeichnung ‚Gott‘ in Verbindung mit ihren Namen solche Wunder wirken konnte? Und von wem habt ihr etwas über diese Männer erfahren, oder von wem könnt ihr etwas über sie erfahren? Und wer hat sich damit befasst, ihre Geschichte aufzuschreiben, sei es, dass er diese Männer ausdrücklich pries, indem er ihnen geheimnisvolle Kräfte zuschrieb, sei es, dass er dunkel andeutete, sie besäßen gewisse große und wunderbare Eigenschaften, die denen offenbar sind, die sie zu erkennen vermögen?“ Wenn uns auf diese Fragen niemand zeigen kann, aus welchem Geschichtswerk, ob von Griechen oder Barbaren, oder wenn schon nicht aus einem Geschichtswerk, so doch wenigstens aus welcher mystischen Erzählung die Berichte über diese Männer stammen, werden wir das Buch mit dem Titel Genesis vorlegen\. Es enthält die Taten dieser Männer und die an sie gerichteten göttlichen Aussprüche\. Dann werden wir sagen: „Bezeugt nicht euer Gebrauch der Namen dieser drei Stammväter des Volkes die Göttlichkeit dieser Männer? Denn damit erweist ihr aufs Deutlichste, dass die Anrufung ihrer Namen Wirkungen hervorbringt, die man nicht gering achten darf\. Und doch kennen wir sie aus keiner anderen Quelle als den heiligen Büchern der Juden\!“ Auch die Wendungen „der Gott Israels[^bible-0b1e5f19-4de6-43b8-bb72-684eab92150c] “, „der Gott der Hebräer[^bible-88fdb48b-3d56-409d-ac2c-653fd24c5dc7] “ und „der Gott, der den König von Ägypten und die Ägypter im Roten Meer ertränkte[^bible-2b99e7b7-e052-49c8-a138-07350d218b48] “ sind Formeln, die häufig gegen Dämonen und gewisse böse Mächte gebraucht werden\. Die Geschichte dieser Namen und ihre Deutung erfahren wir von den Hebräern, die in den Schriften und der Sprache ihres Volkes mit Stolz davon handeln und ihren Sinn erklären\. Wie also sollten die Juden versuchen, ihre Herkunft von der ersten Generation jener Männer abzuleiten, die Celsus für Gaukler und Betrüger hielt, und sich schamlos bemühen, sich selbst und ihren Ursprung auf diese zurückzuführen? Gerade die hebräischen Namen dieser Männer bezeugen den Hebräern, deren heilige Bücher in hebräischer Sprache und Schrift verfasst sind, dass ihr Volk mit ihnen verwandt ist\. Denn bis heute wurden die jüdischen Namen, die der hebräischen Sprache angehören, entweder ihren Schriften entnommen oder allgemein aus Wörtern gebildet, deren Bedeutung sich aus der hebräischen Sprache erschloss\.
+
+## Bibelverweise
+
+[^bible-0b1e5f19-4de6-43b8-bb72-684eab92150c]: Ex 5,1
+[^bible-2b99e7b7-e052-49c8-a138-07350d218b48]: Ex 14,27–Ex 14,28
+[^bible-88fdb48b-3d56-409d-ac2c-653fd24c5dc7]: Ex 5,3

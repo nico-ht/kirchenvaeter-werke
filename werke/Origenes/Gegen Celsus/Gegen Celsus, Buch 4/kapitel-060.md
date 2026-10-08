@@ -1,0 +1,10 @@
+# Gegen Celsus, Buch 4 – Kapitel 60: Der Bestand der Materie im Wandel hängt davon ab, ob sie geschaffen oder ungeschaffen ist
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/buch-4#kapitel-9b295c1e-b820-43c9-4cd7-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Er sagt weiter, dass eine gemeinsame Natur alle zuvor genannten Körper durchdringt und dass diese in wiederkehrenden Wandlungen ihren Weg nimmt und als dieselbe wiederkehrt\. Darauf ist zu antworten: Aus dem bereits Gesagten wird deutlich, dass eine gemeinsame Natur nicht nur die zuvor aufgezählten Körper durchdringt, sondern auch die Himmelskörper\. Wenn das so ist, dann ist auch klar, dass nach Celsus ein und dieselbe Natur in wiederkehrenden Wandlungen durch alle Körper hindurchgeht und als dieselbe wiederkehrt\. Ob dies allerdings auch der Wahrheit entspricht, weiß ich nicht\. Offensichtlich verhält es sich auch nach Ansicht derer so, die meinen, die Welt werde vergehen\. Aber auch die Vertreter der entgegengesetzten Ansicht werden, ohne eine fünfte Substanz anzunehmen, zu zeigen versuchen, dass es auch nach ihrem Urteil ein und dieselbe Natur ist, die in wiederkehrenden Wandlungen durch alle Körper hindurchgeht und als dieselbe wiederkehrt\. So bleibt selbst das Vergängliche bestehen, um sich zu wandeln\. Denn die Materie, die allem zugrunde liegt, bleibt bestehen, während ihre Eigenschaften vergehen, jedenfalls nach Ansicht derer, die sie für ungeschaffen halten\. Wenn sich jedoch durch irgendwelche Argumente zeigen lässt, dass sie nicht ungeschaffen ist, sondern für bestimmte Zwecke geschaffen wurde, dann ist klar, dass sie nicht auf dieselbe Weise Bestand haben wird wie unter der Annahme, sie sei ungeschaffen\. Doch bei unserer Antwort auf die Vorwürfe des Celsus geht es uns gegenwärtig nicht darum, diese naturphilosophischen Fragen zu erörtern\.

@@ -1,0 +1,14 @@
+# Gegen Celsus, Buch 4 – Kapitel 67: Die zwangsläufige Wiederkehr aller Ereignisse schließt Willensfreiheit und berechtigtes Lob oder Tadel aus
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/buch-4#kapitel-6810bf88-12fd-40d5-4ce3-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ich verstehe nicht, wie Celsus es beim Verfassen einer Schrift gegen uns für vorteilhaft halten kann, sich eine Ansicht zu eigen zu machen, die zumindest einer ausführlichen, plausiblen Begründung bedarf, um, soweit ihm das möglich ist, Folgendes darzutun: Der Lauf der sterblichen Dinge ist vom Anfang bis zum Ende gleich, und dieselben Dinge müssen sich nach den festgelegten Zyklen in Vergangenheit, Gegenwart und Zukunft immer wiederholen\. Wenn das aber wahr ist, wird unsere Willensfreiheit zunichtegemacht\. Denn wenn sich im Kreislauf der sterblichen Dinge nach den festgelegten Zyklen in Vergangenheit, Gegenwart und Zukunft stets dieselben Ereignisse wiederholen müssen, dann ist klar, dass Sokrates notwendigerweise immer Philosoph sein und verurteilt werden wird, weil er fremde Götter einführt und die Jugend verdirbt\. Auch Anytus und Melitus müssen immer seine Ankläger sein, und der Rat des Areopags muss ihn immer zum Tod durch den Schierlingsbecher verurteilen\. Ebenso muss nach den festgelegten Zyklen Phalaris immer als Tyrann herrschen und Alexander von Pherä dieselben Grausamkeiten begehen; auch müssen diejenigen, die zum Tod im Stier des Phalaris verurteilt sind, immer wieder aus ihm ihre Klagerufe erschallen lassen\. Wenn man dies aber zugesteht, sehe ich nicht, wie unsere Willensfreiheit gewahrt bleiben kann oder wie sich Lob oder Tadel mit Recht aussprechen lassen\. Einer solchen Auffassung können wir gegenüber Celsus außerdem entgegenhalten: Wenn der Verlauf des moralischen Geschehens vom Anfang bis zum Ende immer gleich ist und sich nach den festgelegten Zyklen in Vergangenheit, Gegenwart und Zukunft stets dieselben Ereignisse wiederholen müssen, dann muss nach den festgelegten Zyklen Mose erneut mit dem jüdischen Volk aus Ägypten ausziehen[^bible-b0bc1e4e-0050-46ee-be39-8ccd06383e66], und Jesus muss erneut kommen, unter den Menschen leben und dieselben Taten vollbringen, die er nach dieser Ansicht nicht nur einmal, sondern im Kreislauf der Perioden schon unzählige Male vollbracht hat\. Ja, auch die Christen werden in den festgelegten Zyklen dieselben sein, und Celsus wird diese Schrift erneut verfassen, wie er es schon unzählige Male zuvor getan hat\.
+
+## Bibelverweise
+
+[^bible-b0bc1e4e-0050-46ee-be39-8ccd06383e66]: Ex 12,31–Ex 12,37

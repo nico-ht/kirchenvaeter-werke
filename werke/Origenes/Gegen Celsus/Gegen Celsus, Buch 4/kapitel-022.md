@@ -1,0 +1,14 @@
+# Gegen Celsus, Buch 4 – Kapitel 22: Wegen des Frevels an Jesus wird Jerusalem zerstört und Gottes Einladung auf die Christen übertragen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/buch-4#kapitel-5659e5af-5a7e-4e5e-4c2b-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nach Celsus aber fügen die Christen den Aussagen der Juden gewisse weitere Behauptungen hinzu: Der Sohn Gottes sei wegen der Sünden der Juden bereits gesandt worden, und die Juden hätten den göttlichen Zorn auf sich gezogen, indem sie Jesus gezüchtigt und ihm Galle zu trinken gegeben hätten[^bible-8c3f52a4-cd51-4730-b9e9-4a1837bf5f93]\. Jeder, der will, mag diese Behauptung als falsch erweisen, wenn es nicht zutrifft, dass das ganze jüdische Volk innerhalb einer einzigen Generation vernichtend geschlagen wurde, nachdem Jesus diese Leiden durch ihre Hand erduldet hatte\. Denn zweiundvierzig Jahre nach der Kreuzigung Jesu, meine ich, wurde Jerusalem zerstört\. Seit das jüdische Volk besteht, ist aber noch nie davon berichtet worden, dass es so lange von seinem ehrwürdigen Tempelkult und Gottesdienst ausgeschlossen und von mächtigeren Völkern versklavt war\. Denn wenn die Juden wegen ihrer Sünden zeitweilig verlassen schienen, nahm Gott sich ihrer dennoch wieder an; sie kehrten in ihr Land zurück, erlangten ihren Besitz wieder und befolgten die Vorschriften ihres Gesetzes ungehindert\. Dass Jesus etwas Göttliches und Heiliges war, wird also unter anderem dadurch erwiesen, dass die Juden seinetwegen nun schon so lange derart schwere Schicksalsschläge erleiden\. Und wir sagen mit Bestimmtheit, dass sie nie wieder in ihren früheren Zustand zurückversetzt werden\. Denn sie begingen ein Verbrechen der frevelhaftesten Art, als sie sich gegen den Retter des Menschengeschlechts verschworen, und zwar in jener Stadt, in der sie Gott mit einem Kult verehrten, der Sinnbilder mächtiger Geheimnisse enthielt\. Daher musste jene Stadt, in der Jesus diese Leiden erduldete, vollständig zugrunde gehen, das jüdische Volk vernichtend geschlagen werden und die Einladung zur Glückseligkeit, die Gott an sie gerichtet hatte, auf andere übergehen\. Ich meine die Christen, zu denen die Lehre von einer reinen und heiligen Gottesverehrung gelangt ist und die neue Gesetze empfangen haben, die mit der jeweils geltenden Staatsordnung in allen Ländern im Einklang stehen\. Denn die früheren Gesetze waren ja einem einzigen Volk auferlegt worden, dessen Fürsten ihm selbst angehörten und seine Sitten teilten; nun aber konnten diese Gesetze nicht mehr in vollem Umfang eingehalten werden\.
+
+## Bibelverweise
+
+[^bible-8c3f52a4-cd51-4730-b9e9-4a1837bf5f93]: Mt 27,26; Mt 27,34

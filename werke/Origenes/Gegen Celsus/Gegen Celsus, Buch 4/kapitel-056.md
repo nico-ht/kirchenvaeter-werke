@@ -1,0 +1,14 @@
+# Gegen Celsus, Buch 4 – Kapitel 56: Celsus’ Argument vom gleichen Stoff setzt auch die vergöttlichten Himmelskörper mit Tierkörpern gleich
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/buch-4#kapitel-714f3b22-2bce-49f3-4cc8-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Celsus behauptet außerdem, die Seele sei das Werk Gottes, der Körper aber sei von anderer Natur\. In dieser Hinsicht bestehe kein Unterschied zwischen dem Körper einer Fledermaus, eines Wurms oder eines Frosches und dem eines Menschen, denn der Stoff sei derselbe und ihr vergänglicher Teil gleich\. Auf dieses Argument müssen wir antworten: Wenn sich diese Körper in keiner Hinsicht voneinander unterscheiden, weil dem Körper einer Fledermaus, eines Wurms, eines Frosches oder eines Menschen derselbe Stoff zugrunde liegt, dann unterscheiden sie sich offensichtlich auch in keiner Hinsicht von der Sonne, dem Mond, den Sternen, dem Himmel oder irgendetwas anderem, das die Griechen einen sinnlich wahrnehmbaren Gott nennen\. Denn derselbe Stoff, der allen Körpern zugrunde liegt, ist, genau genommen, ohne Eigenschaften und ohne Form\. Seine Eigenschaften erhält er aus irgendeiner anderen Quelle; woher, weiß ich nicht, da Celsus darauf besteht, dass nichts Vergängliches das Werk Gottes sein kann\. Der vergängliche Teil jedes Dinges muss also nach Celsus’ eigener Darlegung notwendigerweise gleich sein, da er aus demselben zugrunde liegenden Stoff hervorgeht\. Es sei denn, Celsus sieht sich hier in die Enge getrieben und wendet sich von Platon ab, der die Seele aus einer bestimmten Schale entstehen lässt, um bei Aristoteles und den Peripatetikern Zuflucht zu suchen\. Diese behaupten, der Äther sei immateriell und bestehe aus einer fünften Natur, die von den übrigen vier Elementen getrennt sei\. Dieser Auffassung haben sowohl die Platoniker als auch die Stoiker in bewundernswerter Weise widersprochen\. Auch wir, die Celsus verachtet, werden ihr widersprechen, denn wir müssen die folgende Aussage des Propheten erklären und verteidigen: „Die Himmel werden vergehen, du aber bleibst; sie alle werden alt werden wie ein Gewand\. Wie ein Kleid wirst du sie zusammenfalten, und sie werden verwandelt werden; du aber bist derselbe\.[^bible-dbe01ca4-18f0-4c8d-b4a9-25af65ad1a0b] “ Diese Bemerkungen genügen jedoch als Antwort auf Celsus’ Behauptung, die Seele sei das Werk Gottes, der Körper aber sei von anderer Natur\. Denn aus seinem Argument folgt, dass zwischen dem Körper einer Fledermaus, eines Wurms oder eines Frosches und dem eines himmlischen Wesens kein Unterschied besteht\.
+
+## Bibelverweise
+
+[^bible-dbe01ca4-18f0-4c8d-b4a9-25af65ad1a0b]: Ps 101,27–Ps 101,28

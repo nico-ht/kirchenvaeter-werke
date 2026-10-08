@@ -1,0 +1,10 @@
+# Gegen Celsus, Buch 4 – Kapitel 68: Die stoische Wiederkehr derselben Welt widerspricht der Annahme bloß gleicher, nicht identischer Menschen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/buch-4#kapitel-cbf4a7d6-0f05-4624-4ce4-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Celsus sagt jedoch, dass allein der Lauf der sterblichen Dinge nach den festgelegten Zyklen in Vergangenheit, Gegenwart und Zukunft immer derselbe sein muss\. Die meisten Stoiker behaupten dagegen, dies gelte nicht nur für den Lauf der sterblichen, sondern auch der unsterblichen Dinge und derer, die sie für Götter halten\. Denn nach dem Weltenbrand, der in der Vergangenheit schon unzählige Male stattgefunden hat und in der Zukunft noch unzählige Male stattfinden wird, war die Ordnung aller Dinge vom Anfang bis zum Ende immer dieselbe und wird es auch künftig sein\. Bei dem Versuch, die Einwände gegen ihre Ansichten auf mir unbegreifliche Weise abzuwehren, behaupten die Stoiker freilich, dass mit der Wiederkehr eines Zyklus nach dem anderen alle Menschen sich in nichts von denen unterscheiden werden, die in früheren Zyklen gelebt haben\. Es wird also nicht Sokrates wieder leben, sondern jemand, der Sokrates vollkommen gleicht\. Dieser wird eine Frau heiraten, die Xanthippe genau gleicht, und von Männern angeklagt werden, die Anytos und Meletos genau gleichen\. Ich verstehe jedoch nicht, wie die Welt immer dieselbe sein soll und ein Einzelner sich nicht von einem anderen unterscheiden soll, während die Dinge in ihr dennoch nicht dieselben sein sollen, obwohl sie einander genau gleichen\. Das Hauptargument gegen die Aussagen des Celsus und der Stoiker werden wir jedoch besser an anderer Stelle untersuchen, da es unserem gegenwärtigen Vorhaben nicht entspricht, diese Punkte ausführlich zu behandeln\.

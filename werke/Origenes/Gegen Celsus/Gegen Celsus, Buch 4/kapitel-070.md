@@ -1,0 +1,14 @@
+# Gegen Celsus, Buch 4 – Kapitel 70: Gott kann Bosheit zum Wohl des Ganzen nutzen, ohne damit die Sünde zu rechtfertigen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/buch-4#kapitel-c6de169f-7851-43d7-4ceb-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Celsus hat über die Übel die Behauptung aufgestellt, dass etwas, auch wenn es dir böse erscheint, keineswegs mit Sicherheit böse ist; denn du weißt nicht, was dir selbst, einem anderen oder der ganzen Welt nützt\. Diese Behauptung ist mit einer gewissen Vorsicht formuliert; sie deutet an, dass das Wesen des Übels nicht durchweg böse ist, weil das, was im Einzelfall als böse gelten mag, etwas enthalten kann, das der gesamten Gemeinschaft nützt\. Damit aber niemand meine Worte missversteht und darin einen Vorwand für Unrecht findet, als wäre seine Bosheit für die Welt nützlich oder könnte es wenigstens sein, müssen wir Folgendes sagen: Gott, der die Willensfreiheit jedes Einzelnen bewahrt, kann zwar die Bosheit der Bösen zur Lenkung der Welt nutzen und diese Menschen dabei so einsetzen, dass sie dem Ganzen zugutekommen\. Dennoch verdient ein solcher Mensch Tadel und ist als solcher für eine Aufgabe bestimmt, vor der jeder Einzelne Abscheu empfindet, obwohl sie der gesamten Gemeinschaft nützt\. Es ist, als sagte man von einem Mann, der in einer Stadt bestimmte Verbrechen begangen hat und deswegen zu öffentlichen Arbeiten verurteilt worden ist, die der Gemeinschaft nützen: Er tut etwas, das der ganzen Stadt zugutekommt, ist aber selbst mit einer abscheulichen Arbeit beschäftigt, die niemand mit auch nur mäßigem Verstand verrichten möchte\. Auch Paulus, der Apostel Jesu, lehrt uns, dass selbst die ganz Bösen zum Wohl des Ganzen beitragen werden, während sie selbst zu den Verwerflichen gehören werden; die tugendhaftesten Menschen hingegen werden der Welt auch den größten Nutzen bringen und deshalb den ehrenvollsten Platz einnehmen\. Seine Worte lauten: „In einem großen Haus gibt es aber nicht nur goldene und silberne Gefäße, sondern auch hölzerne und irdene; die einen zur Ehre, die anderen zur Unehre\. Wenn sich nun jemand reinigt, wird er ein Gefäß zur Ehre sein, geheiligt, vom Herrn zu gebrauchen und zu jedem guten Werk bereit\.[^bible-38fcde35-0eb7-408c-87d1-c1c48986caec] “ Diese Bemerkungen hielt ich als Antwort auf die Behauptung für nötig, dass etwas, auch wenn es dir böse erscheint, keineswegs mit Sicherheit böse ist, weil du nicht weißt, was dir selbst oder einem anderen nützt\. Damit wollte ich verhindern, dass jemand das, was zu diesem Thema gesagt wurde, zum Anlass nimmt, Sünde zu begehen, unter dem Vorwand, er werde damit der Welt nützen\.
+
+## Bibelverweise
+
+[^bible-38fcde35-0eb7-408c-87d1-c1c48986caec]: 2Tim 2,20–2Tim 2,21

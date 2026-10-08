@@ -1,0 +1,21 @@
+# Gegen Celsus, Buch 4 – Kapitel 29: Menschen stehen unter den Engeln, dürfen aber durch Tugend auf Ähnlichkeit mit Gott hoffen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/buch-4#kapitel-c1fb48e2-9bb9-430d-4c3a-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Vielleicht hat Celsus aber einige derer, die er Würmer genannt hat, bei ihrer Behauptung missverstanden, dass Gott existiert und wir gleich nach ihm kommen\. Er handelt wie jemand, der eine ganze Philosophenschule wegen einiger Äußerungen eines unbesonnenen jungen Mannes tadeln würde, der drei Tage lang die Vorlesungen eines Philosophen gehört hätte und sich nun über die anderen Menschen erhöbe, als stünden sie unter ihm und wüssten nichts von Philosophie\. Denn wir wissen, dass es viele Geschöpfe gibt, die höher stehen als der Mensch\. Und wir haben gelesen: „Gott steht in der Versammlung der Götter[^bible-b1f5f770-cf0f-455f-848a-c220b7ce1fc6] “; gemeint sind aber Götter, die von den Völkern nicht angebetet werden, denn „alle Götter der Völker sind Götzen[^bible-0d702cf0-4193-4a14-829f-79cbf43a434e] “\. Auch haben wir gelesen: „Gott steht in der Versammlung der Götter und richtet inmitten der Götter\.[^bible-b1f5f770-cf0f-455f-848a-c220b7ce1fc6] “ Wir wissen außerdem: „Mag es auch sogenannte Götter geben, sei es im Himmel oder auf der Erde, wie es ja viele Götter und viele Herren gibt, so gibt es für uns doch nur einen Gott, den Vater, von dem alles stammt und in dem wir sind, und einen Herrn Jesus Christus, durch den alles ist und auch wir sind\.[^bible-c5fe16be-3f8a-4d58-a600-02a1ec2f8261] “ Und wir wissen, dass die Engel auf diese Weise über den Menschen stehen, sodass die Menschen, wenn sie zur Vollendung gelangen, den Engeln gleich werden\. Denn „bei der Auferstehung heiraten sie nicht und werden auch nicht verheiratet, sondern die Gerechten sind wie die Engel im Himmel[^bible-9a87bd98-8c40-4023-a8b4-cb201d2ab20a] “ und werden auch den Engeln gleich[^bible-d4d5a4f2-5c05-4fb6-a064-d7a9a38c64ad]\. Wir wissen auch, dass es in der Ordnung des Weltalls bestimmte Wesen gibt, die Throne genannt werden, andere Herrschaften, andere Mächte und wieder andere Fürstentümer[^bible-85a5b23f-a8b4-42fd-8a5b-81e258a415dd]\. Und wir erkennen, dass wir Menschen, die wir weit unter ihnen stehen, hoffen dürfen, durch ein tugendhaftes Leben und ein Handeln, das in allem der Vernunft entspricht, aufzusteigen und ihnen allen ähnlich zu werden\. Schließlich dürfen wir auch deshalb hoffen, weil noch nicht offenbar ist, was wir sein werden, wir aber wissen, dass wir, wenn er erscheint, Gott gleich sein und ihn sehen werden, wie er ist[^bible-48f4be2c-d6ed-41e8-8a62-0bde9be5eb3a]\. Sollte jemand behaupten, was manche sagen \(sei es Menschen mit Einsicht oder solche ohne Einsicht, die die rechte Vernunft missverstanden haben\): „Gott existiert, und wir kommen gleich nach ihm“, dann würde ich das Wort „wir“ auslegen, indem ich es durch „wir, die wir nach der Vernunft handeln“ ersetze, oder vielmehr durch „wir Tugendhaften, die wir nach der Vernunft handeln“\. Denn nach unserer Auffassung kommt allen Seligen dieselbe Tugend zu, sodass die Tugend des Menschen und die Tugend Gottes ein und dieselbe ist\. Deshalb werden wir gelehrt, vollkommen zu werden, wie unser Vater im Himmel vollkommen ist[^bible-91126a9b-e729-489a-964d-351ff4c0c0a2]\. Kein guter und tugendhafter Mensch ist also ein Wurm, der sich im Schmutz wälzt, kein frommer Mensch eine Ameise und kein gerechter Mensch ein Frosch\. Ebenso wenig lässt sich jemand, dessen Seele vom hellen Licht der Wahrheit erleuchtet ist, vernünftigerweise mit einem Nachtvogel vergleichen\.
+
+## Bibelverweise
+
+[^bible-0d702cf0-4193-4a14-829f-79cbf43a434e]: Ps 95,5
+[^bible-48f4be2c-d6ed-41e8-8a62-0bde9be5eb3a]: 1Joh 3,2
+[^bible-85a5b23f-a8b4-42fd-8a5b-81e258a415dd]: Kol 1,16
+[^bible-91126a9b-e729-489a-964d-351ff4c0c0a2]: Mt 5,48
+[^bible-9a87bd98-8c40-4023-a8b4-cb201d2ab20a]: Mt 22,30
+[^bible-b1f5f770-cf0f-455f-848a-c220b7ce1fc6]: Ps 81,1
+[^bible-c5fe16be-3f8a-4d58-a600-02a1ec2f8261]: 1Kor 8,5–1Kor 8,6
+[^bible-d4d5a4f2-5c05-4fb6-a064-d7a9a38c64ad]: Lk 20,36

@@ -1,0 +1,10 @@
+# Gegen Celsus, Buch 4 – Kapitel 84: Celsus’ Ameisenlob preist die ordnende Vernunft, doch die Begegnungen der Ameisen sind keine Gespräche
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/buch-4#kapitel-c5ceceb8-2996-4a9b-4d1c-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Da er ferner behauptet, dass beim Tod von Ameisen die Überlebenden einen besonderen Ort \(für deren Bestattung\) bestimmen und dass ein solcher Ort als Grabstätte ihrer Vorfahren dient, müssen wir darauf antworten: Je mehr Lob er den vernunftlosen Tieren spendet, desto mehr preist er \(wenn auch gegen seinen Willen\) das Werk jener Vernunft, die alles geordnet hat\. Zugleich weist er damit auf die Kunstfertigkeit der Menschen hin, die durch Vernunft selbst noch die Gaben verschönern kann, mit denen die Natur die vernunftlosen Geschöpfe ausgestattet hat\. Aber warum sage ich vernunftlos, da Celsus doch meint, diese Tiere, die nach der allgemeinen Vorstellung aller Menschen vernunftlos genannt werden, seien es in Wirklichkeit nicht? Auch die Ameisen hält er nicht für vernunftlos, er, der beanspruchte, über die gesamte Natur zu sprechen, und sich im Titel seines Buches seiner Wahrhaftigkeit rühmte\. Denn über die Gespräche der Ameisen untereinander sagt er Folgendes: „Und wenn sie einander begegnen, kommen sie miteinander ins Gespräch; deshalb verirren sie sich nie\. Folglich sind sie in vollem Umfang mit Vernunft ausgestattet, haben einige gemeinsame Vorstellungen über bestimmte allgemeine Themen und eine Stimme, mit der sie sich über zufällige Dinge äußern\.“ Nun wird ein Gespräch zwischen zwei Menschen mithilfe einer Stimme geführt, die dem Gemeinten Ausdruck verleiht und auch das zur Sprache bringt, was man zufällige Dinge nennt\. Zu behaupten, dass dies auch bei Ameisen der Fall sei, wäre jedoch höchst lächerlich\.

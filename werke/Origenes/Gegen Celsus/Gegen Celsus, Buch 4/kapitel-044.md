@@ -1,0 +1,17 @@
+# Gegen Celsus, Buch 4 – Kapitel 44: Brunnen und Ehen der Gerechten haben einen geistlichen Sinn, wie die apostolische Schriftauslegung zeigt
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/buch-4#kapitel-05a67c31-c34f-4e29-4caa-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und mit seiner Behauptung, Gott habe den Gerechten auch Brunnen gegeben, verfehlt er den Sinn der Schrift bei Weitem\. Dabei hat er nicht bemerkt, dass die Gerechten keine Zisternen anlegen, sondern Brunnen graben, um den inneren Grund und die Quelle trinkbarer Segnungen zu entdecken\. Denn sie verstehen das folgende Gebot im übertragenen Sinn: „Trinke Wasser aus deinen eigenen Gefäßen und aus deinen eigenen Brunnen mit frischem Wasser\. Lass dein Wasser nicht über deine eigene Quelle hinausströmen, sondern leite es in deine eigenen Straßen\. Dir allein soll es gehören, und kein Fremder soll es mit dir teilen\.[^bible-d03a1c39-ff3a-4959-9340-6bde24e4e084] “ Die Schrift bedient sich häufig der Berichte über wirkliche Ereignisse, um bedeutendere Wahrheiten vor Augen zu führen, die darin nur dunkel angedeutet werden\. Dazu gehören die Erzählungen über die Brunnen, über die Eheschließungen und über die verschiedenen geschlechtlichen Vereinigungen, die von Gerechten berichtet werden\. Es ist jedoch angemessener, diese Dinge in Auslegungsschriften zu eben diesen Stellen zu erklären\. Dass aber, wie im Buch Genesis berichtet wird, Gerechte im Land der Philister Brunnen anlegten[^bible-ca3005c4-6683-472e-8ebf-a179b2c7ba88], zeigen die erstaunlichen Brunnen, die man in Askalon vorzeigt\. Sie verdienen Erwähnung, weil ihre Bauweise im Vergleich zu anderen Brunnen so fremdartig und eigentümlich ist\. Dass sowohl die jungen Frauen als auch die Dienerinnen bildlich zu verstehen sind, ist zudem nicht nur unsere Lehre\. Wir haben sie vielmehr von Anfang an von weisen Männern empfangen\. Einer von ihnen forderte seine Hörer auf, den bildlichen Sinn zu erforschen, und sagte: „Sagt mir, ihr, die ihr das Gesetz lest: Hört ihr das Gesetz nicht? Denn es steht geschrieben, dass Abraham zwei Söhne hatte, einen von einer Sklavin und den anderen von einer freien Frau\. Doch der Sohn der Sklavin wurde nach dem Fleisch geboren, der Sohn der Freien aber durch die Verheißung\. Das ist eine Allegorie: Denn diese Frauen sind die beiden Bundesschlüsse\. Der eine stammt vom Berg Sinai und gebiert zur Sklaverei; das ist Hagar\.[^bible-ba35f356-e012-4971-ad82-40d5960d0f56] “ Und wenig später: „Das Jerusalem droben aber ist frei; es ist unser aller Mutter\.[^bible-586bd6c9-a95f-482e-906b-0c0c974aee45] “ Jeder, der den Galaterbrief zur Hand nimmt, kann erfahren, wie die Stellen über die Eheschließungen und den Verkehr mit den Dienerinnen allegorisch ausgelegt worden sind\. Denn die Schrift will, dass wir nicht die wörtlich verstandenen Taten derer nachahmen, die so gehandelt haben, sondern die geistlichen, wie die Apostel Jesu sie zu nennen pflegen\.
+
+## Bibelverweise
+
+[^bible-586bd6c9-a95f-482e-906b-0c0c974aee45]: Gal 4,26
+[^bible-ba35f356-e012-4971-ad82-40d5960d0f56]: Gal 4,21–Gal 4,24
+[^bible-ca3005c4-6683-472e-8ebf-a179b2c7ba88]: Gen 26,18
+[^bible-d03a1c39-ff3a-4959-9340-6bde24e4e084]: Spr 5,15–Spr 5,17

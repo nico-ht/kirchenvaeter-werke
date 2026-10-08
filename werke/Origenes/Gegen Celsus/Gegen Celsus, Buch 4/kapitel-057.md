@@ -1,0 +1,16 @@
+# Gegen Celsus, Buch 4 – Kapitel 57: Die Auferstehung beruht auf Gottes Macht, die Eigenschaften der Materie zu wandeln
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/buch-4#kapitel-f7349e92-3660-4ee3-4cc9-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Prüfe also, ob wir jemandem nachgeben sollten, der solche Ansichten vertritt und die Christen verleumdet, und damit eine Lehre aufgeben sollten, die die Unterschiede zwischen den Körpern auf die verschiedenen inneren und äußeren Eigenschaften zurückführt, die in ihnen angelegt sind\. Denn auch wir wissen, dass es himmlische und irdische Körper gibt und die Herrlichkeit der himmlischen eine andere ist als die der irdischen[^bible-e253c0c4-552d-47e2-9654-d28994f5f542]; selbst die Herrlichkeit der himmlischen Körper ist nicht gleich[^bible-12ef9730-6ce0-498f-9e10-ca0512f0a797]: Denn die Sonne hat eine andere Herrlichkeit als die Sterne[^bible-12ef9730-6ce0-498f-9e10-ca0512f0a797], und unter den Sternen selbst unterscheidet sich ein Stern vom anderen an Herrlichkeit[^bible-12ef9730-6ce0-498f-9e10-ca0512f0a797]\. Da wir die Auferstehung der Toten erwarten, behaupten wir daher, dass sich die Eigenschaften der Körper wandeln\. Denn die einen Körper werden in Vergänglichkeit gesät und in Unvergänglichkeit auferweckt, die anderen in Unehre gesät und in Herrlichkeit auferweckt, wieder andere in Schwäche gesät und in Kraft auferweckt; und die als natürliche Körper gesät werden, werden als geistliche auferweckt[^bible-2ad14819-db8d-436b-a473-c1c96d90c951]\. Dass die Materie, die den Körpern zugrunde liegt, die Eigenschaften aufnehmen kann, die der Schöpfer ihr verleihen will, davon sind wir alle, die wir die Lehre von der Vorsehung annehmen, fest überzeugt\. So wird, wenn Gott es so will, diesem Teil der Materie gegenwärtig eine Eigenschaft eingeprägt und später eine andere, von anderer und besserer Art\. Da aber seit dem Anfang der Welt Gesetze bestehen, die den Wandel der Körper regeln sollen und so lange gelten werden, wie die Welt besteht, weiß ich nicht, ob es, wenn nach dem Untergang der Welt und dem, was unsere Schriften das Ende \(der Zeitalter\) nennen, eine neue und andere Ordnung der Dinge eingetreten ist, nicht erstaunlich ist, dass gegenwärtig aus einem toten Menschen eine Schlange entsteht, die, wie die Leute behaupten, aus dem Rückenmark wächst, dass aus einem Ochsen eine Biene hervorgeht, aus einem Pferd eine Wespe, aus einem Esel ein Käfer und überhaupt aus den meisten Körpern Würmer\. Celsus meint freilich, man könne zeigen, dass dies darauf zurückzuführen sei, dass keiner dieser Körper Gottes Werk sei; auch seien die Eigenschaften \(ich weiß nicht, woher die Anordnung stammt, nach der eine aus der anderen hervorgeht\) nicht das Werk einer göttlichen Vernunft, die den Wandel der Eigenschaften der Materie bewirkt\.
+
+## Bibelverweise
+
+[^bible-12ef9730-6ce0-498f-9e10-ca0512f0a797]: 1Kor 15,41
+[^bible-2ad14819-db8d-436b-a473-c1c96d90c951]: 1Kor 15,42–1Kor 15,44
+[^bible-e253c0c4-552d-47e2-9654-d28994f5f542]: 1Kor 15,40

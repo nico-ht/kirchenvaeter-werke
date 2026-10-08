@@ -1,0 +1,21 @@
+# Gegen Celsus, Buch 4 – Kapitel 49: Paulus und Asaph zeigen, dass biblische Geschichtserzählungen von Anfang an allegorisch gemeint sind
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/buch-4#kapitel-c76c60fc-deb6-421c-4cb8-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn Celsus die Schriften unvoreingenommen gelesen hätte, hätte er nicht behauptet, unsere Schriften ließen keinen allegorischen Sinn zu\. Denn aus den prophetischen Schriften, in denen geschichtliche Ereignisse aufgezeichnet sind \(nicht aus den geschichtlichen Schriften\), lässt sich erkennen, dass auch die geschichtlichen Teile mit einer allegorischen Absicht verfasst wurden\. Mit größtem Geschick wurden sie nicht nur auf die große Zahl der einfacheren Gläubigen zugeschnitten, sondern auch auf die wenigen, die fähig oder willens sind, den Dingen mit Verstand nachzugehen\. Wenn tatsächlich erst die heutigen Schriftsteller, die Celsus für die bescheideneren unter den Juden und Christen hält, unsere Schriften allegorisch ausgelegt hätten, könnte seine Behauptung vielleicht einleuchtend erscheinen\. Da aber schon die Begründer und Urheber der Lehren selbst ihnen einen allegorischen Sinn geben, welchen anderen Schluss kann man daraus ziehen, als dass sie so verfasst wurden, dass ihr hauptsächlicher Sinn allegorisch zu verstehen ist? Wir wollen aus sehr vielen Beispielen einige wenige anführen, um zu zeigen, dass Celsus einen haltlosen Vorwurf gegen die Schriften erhebt, wenn er behauptet, sie ließen keinen allegorischen Sinn zu\. Paulus, der Apostel Jesu, sagt: „Im Gesetz steht geschrieben: ‚„Du sollst dem Ochsen, der das Korn austritt, nicht das Maul verbinden\.[^bible-917cd589-7abd-4e4d-bfca-c8d646832b7c] “‘ Kümmert sich Gott um Ochsen? Oder sagt er das ganz und gar um unseretwillen? Ohne Zweifel ist es um unseretwillen geschrieben: Wer pflügt, soll in Hoffnung pflügen, und wer drischt, soll in der Hoffnung dreschen, Anteil zu erhalten\.[^bible-e5f0c48e-7e9f-481a-9e72-74320e100cd2] “ An einer anderen Stelle sagt derselbe Paulus: „Denn es steht geschrieben: ‚„Darum wird ein Mann seinen Vater und seine Mutter verlassen und sich mit seiner Frau verbinden, und die beiden werden ein Fleisch sein\.[^bible-6b150a56-1cdc-4e5f-bf62-d50af6dd7771] “‘ Dies ist ein großes Geheimnis; ich aber spreche von Christus und der Kirche\.[^bible-567c65ae-548a-4e25-9788-d598ad68a142] “ Und wiederum an einer anderen Stelle: „Wir wissen, dass unsere Väter alle unter der Wolke waren und alle durch das Meer zogen; und alle wurden in der Wolke und im Meer auf Mose getauft\.[^bible-04cbe93e-f336-400e-b563-c246f5b3f182] “ Dann erklärt er die Geschichte vom Manna und davon, wie das Wasser auf wunderbare Weise aus dem Felsen hervorströmte[^bible-92ab9521-7f92-4094-b946-64798ec70854], und fährt so fort: „Und alle aßen dieselbe geistliche Speise und alle tranken denselben geistlichen Trank\. Denn sie tranken aus dem geistlichen Felsen, der ihnen folgte, und dieser Fels war Christus\.[^bible-366eaf8d-9888-424b-9a88-37af30f910d0] “ Auch Asaph zeigt, dass die Erzählungen in Exodus und Numeri voller Schwierigkeiten und Gleichnisse sind\. Bevor er auf diese Dinge zu sprechen kommt, beginnt er, wie im Buch der Psalme aufgezeichnet ist, mit folgenden Worten: „Höre, mein Volk, auf mein Gesetz; neigt eure Ohren den Worten meines Mundes zu\. Ich werde meinen Mund in Gleichnissen öffnen; ich werde dunkle Worte aus alter Zeit aussprechen, die wir gehört und kennengelernt haben und die unsere Väter uns erzählt haben\.[^bible-8448a7a7-2168-46c5-9212-5a6b5bf7f360] “
+
+## Bibelverweise
+
+[^bible-04cbe93e-f336-400e-b563-c246f5b3f182]: 1Kor 10,1–1Kor 10,2
+[^bible-366eaf8d-9888-424b-9a88-37af30f910d0]: 1Kor 10,3–1Kor 10,4
+[^bible-567c65ae-548a-4e25-9788-d598ad68a142]: Eph 5,32
+[^bible-6b150a56-1cdc-4e5f-bf62-d50af6dd7771]: Eph 5,31
+[^bible-8448a7a7-2168-46c5-9212-5a6b5bf7f360]: Ps 77,1–Ps 77,3
+[^bible-917cd589-7abd-4e4d-bfca-c8d646832b7c]: 1Kor 9,9
+[^bible-92ab9521-7f92-4094-b946-64798ec70854]: Ex 17,6
+[^bible-e5f0c48e-7e9f-481a-9e72-74320e100cd2]: 1Kor 9,9–1Kor 9,10

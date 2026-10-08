@@ -1,0 +1,10 @@
+# Gegen Celsus, Buch 4 – Kapitel 92: Böse Dämonen benutzen Tiere zur Weissagung, um Menschen vom wahren Gott abzubringen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/buch-4#kapitel-e92ddb92-c761-45ff-4d29-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Meiner Meinung nach sind es jedoch gewisse böse Dämonen, sozusagen aus dem Geschlecht der Titanen oder Giganten, die eine solche Tätigkeit ausüben\. Sie haben sich gegenüber dem wahren Gott und den Engeln im Himmel der Gottlosigkeit schuldig gemacht und sind vom Himmel gefallen\. Sie halten sich in den dichteren Teilen der Körper auf und suchen unreine Orte auf der Erde auf\. Weil sie keine Körper aus irdischem Stoff haben, besitzen sie eine gewisse Fähigkeit, zukünftige Ereignisse zu erkennen\. In dem Wunsch, das Menschengeschlecht vom wahren Gott wegzuführen, dringen sie heimlich in die Körper der raubgierigeren, wilderen und bösartigeren Tiere ein und treiben sie dazu, zu tun, was immer die Dämonen wollen und wann immer sie wollen\. Dabei lenken sie die Vorstellungen dieser Tiere so, dass sie auf verschiedene Weise fliegen und sich bewegen\. So sollen die Menschen sich von der Wahrsagekraft in den vernunftlosen Tieren fangen lassen und es versäumen, nach dem Gott, der alles umfasst, oder nach der reinen Gottesverehrung zu suchen; stattdessen sollen sie ihre Vernunft auf der Erde und unter Vögeln und Schlangen, ja sogar unter Füchsen und Wölfen kriechen lassen\. Denn wer sich mit solchen Dingen auskennt, hat beobachtet, dass man von Tieren dieser Art die klarsten Vorhersagen erhält\. In sanfteren Tieren können die Dämonen nämlich nicht so wirksam tätig werden wie in diesen, weil diese ihnen in ihrer Bosheit ähneln\. Und doch findet sich in diesen Tieren keine Bosheit, sondern nur etwas, das der Bosheit ähnelt\.

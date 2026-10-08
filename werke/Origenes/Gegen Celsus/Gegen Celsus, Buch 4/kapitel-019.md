@@ -1,0 +1,14 @@
+# Gegen Celsus, Buch 4 – Kapitel 19: Selbst Täuschung wäre zu rechtfertigen, wenn sie Sünder heilt und zu Freunden Gottes macht
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/buch-4#kapitel-c55c913e-3fa7-413a-4c1e-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Andere mögen Celsus also zugestehen, dass Gott sich nicht wandelt, sondern die Zuschauer nur glauben lässt, er tue es\. Uns dagegen trifft dieser Vorwurf des Celsus nicht, denn wir sind überzeugt, dass Jesus unter den Menschen nicht bloß zum Schein, sondern wirklich erschienen ist\. Dennoch wollen wir eine Antwort versuchen\. Denn du behauptest doch, Celsus, dass man Täuschung und Unwahrheit manchmal gewissermaßen als Heilmittel einsetzen darf? Was wäre dann daran widersinnig, dass etwas Derartiges geschehen wäre, wenn damit eine solche rettende Wirkung erzielt würde? Denn manche Worte bringen solche Menschen eher zur Besserung, wenn ihnen etwas Unwahres anhaftet, als wenn sie im Geist der Wahrheit gesprochen werden; ähnlich verhält es sich mit den Aussagen der Ärzte gegenüber ihren Patienten\. So müssen wir uns allerdings gegen andere Gegner verteidigen\. Denn es ist nicht widersinnig, dass derjenige, der kranke Freunde geheilt hat, auch das ihm teure Menschengeschlecht mit solchen Mitteln heilt, die er nicht vorzugsweise, sondern nur den Umständen entsprechend anwenden würde\. Überdies musste das Menschengeschlecht in seinem Zustand geistiger Verwirrung durch Methoden geheilt werden, die nach der Erkenntnis des Wortes dazu beitragen würden, die so Leidenden wieder zu gesundem Denken zurückzuführen\. Celsus sagt aber auch, dass man so gegenüber Feinden handelt, wenn man Maßnahmen ergreift, um einer Gefahr zu entgehen\. Gott aber fürchtet niemanden, sodass er einer Gefahr entgehen müsste, indem er diejenigen in die Irre führt, die sich gegen ihn verschwören\. Nun ist es ganz unnötig und widersinnig, auf einen Vorwurf zu antworten, den niemand gegen unseren Erlöser erhebt\. Auch auf die Behauptung, dass niemand, der krank oder geistig verwirrt ist, ein Freund Gottes sei, haben wir bereits bei der Beantwortung anderer Vorwürfe geantwortet\. Die Antwort lautet nämlich: Solche Vorkehrungen wurden nicht für diejenigen getroffen, die bereits Freunde waren und danach krank wurden oder geistig erkrankten\. Vielmehr sollten dadurch diejenigen Freunde Gottes werden, die wegen ihrer Seelenkrankheit und ihrer Entfremdung von der natürlichen Vernunft noch Feinde waren\. Denn es wird ausdrücklich gesagt, dass Jesus alles um der Sünder willen erduldet hat, um sie von der Sünde zu befreien und zur Gerechtigkeit zu führen\.[^bible-4146ed02-82a6-4074-aa37-280119b6aeb9]
+
+## Bibelverweise
+
+[^bible-4146ed02-82a6-4074-aa37-280119b6aeb9]: 1Petr 2,24

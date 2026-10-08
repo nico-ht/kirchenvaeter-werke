@@ -1,0 +1,20 @@
+# Gegen Celsus, Buch 4 – Kapitel 26
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/buch-4#kapitel-a7d099a2-1272-40ca-ca76-08df20dba24b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn Christen und Juden wegen ihrer Lehren, die Celsus missfallen und die er offenbar überhaupt nicht versteht, als Würmer und Ameisen gelten sollen, die übrigen Menschen aber nicht, dann wollen wir die offenkundigen Lehren der Christen und Juden mit denen der übrigen Menschen vergleichen\. Wird dann denen, die einmal eingeräumt haben, es gebe Menschen, die Würmer und Ameisen sind, nicht deutlich werden, dass vielmehr diejenigen Würmer, Ameisen und Frösche sind, die von einer gesunden Auffassung über Gott abgefallen sind und unter dem bloßen Anschein von Frömmigkeit vernunftlose Tiere, Standbilder oder auch geschaffene Dinge verehren? Aus deren Schönheit sollten sie doch ihren Schöpfer bewundern und ihn verehren\![^bible-7b4a8d48-d801-52aa-b102-074fcbd6c12d] Menschen aber, ja noch etwas Ehrenvolleres als Menschen, wenn es dergleichen gibt, sind diejenigen, die der Vernunft folgen und über Holz und Steine hinaussteigen können, ja selbst über das, was für den kostbarsten Stoff gilt, Silber und Gold\. Sie steigen auch von den schönen Dingen der Welt zum Schöpfer des Alls empor und vertrauen sich ihm an, der allein alles Seiende versorgen kann, die Gedanken aller überschaut und die Gebete aller hört\. Zu ihm senden sie ihre Gebete hinauf; alles tun sie im Bewusstsein, dass er ihr Handeln sieht, und hüten sich, vor ihm, der alles Gesagte hört, etwas zu sagen, was Gott nicht wohlgefällig berichtet werden könnte\.
+
+Soll eine so große Frömmigkeit, die weder von Mühen noch von Todesgefahr noch von einleuchtend scheinenden Vernunftgründen überwunden wird, denen, die sie angenommen haben, nichts nützen, sodass man sie weiterhin mit Würmern vergleichen darf, selbst wenn man dies vor ihrer Annahme einer solchen Frömmigkeit tat? Erscheinen euch diejenigen, die das heftige Verlangen nach geschlechtlichen Genüssen bezwingen, das die Seelen vieler weich und kraftlos gemacht hat, als Brüder von Würmern, Verwandte von Ameisen und Fröschen ähnlich? Und sie bezwingen es doch, weil sie überzeugt sind, mit Gott nur Gemeinschaft haben zu können, wenn sie durch Selbstbeherrschung zu ihm emporsteigen\. Wie? Soll die leuchtende Kraft der Gerechtigkeit, die die Gemeinschaft mit dem Nächsten und den Angehörigen wahrt sowie Recht, Menschenliebe und Güte erhält, nichts dazu beitragen, dass man einen solchen Menschen nicht als Fledermaus bezeichnet? Sind nicht vielmehr diejenigen Würmer, die sich im Schlamm wälzen, die sich der Zügellosigkeit hingeben, wie die meisten Menschen, die unterschiedslos zu gemeinen Huren gehen und sogar lehren, das widerspreche nicht unbedingt der Pflicht? Dies gilt besonders im Vergleich mit denen, die gelernt haben, nicht „die Glieder Christi[^bible-5c5149b6-58d2-5b2d-bd9a-34e0c97d156a]“ und den vom Logos bewohnten Leib zu „Gliedern einer Hure[^bible-5c5149b6-58d2-5b2d-bd9a-34e0c97d156a]“ zu machen\. Sie haben außerdem gelernt, dass der Leib[^bible-1390c24f-9b2e-53d1-b544-2a0a4d19216c] des vernünftigen Wesens, das dem Gott aller Dinge geweiht ist, ein „Tempel[^bible-9ca2315b-2b3a-5a0b-806c-9ebb6a2103b5]“ des von ihnen verehrten Gottes ist und dies durch die reine Vorstellung vom Schöpfer wird\. Sie hüten sich davor, den „Tempel Gottes[^bible-2aae789f-6b6d-5c66-bc4a-2c1d4c8d655b]“ durch unerlaubten Geschlechtsverkehr zu verderben, und üben Selbstbeherrschung als Frömmigkeit gegenüber Gott\!
+
+## Bibelverweise
+
+[^bible-1390c24f-9b2e-53d1-b544-2a0a4d19216c]: 1Kor 6,19
+[^bible-2aae789f-6b6d-5c66-bc4a-2c1d4c8d655b]: 1Kor 3,17
+[^bible-5c5149b6-58d2-5b2d-bd9a-34e0c97d156a]: 1Kor 6,15
+[^bible-7b4a8d48-d801-52aa-b102-074fcbd6c12d]: Weish 13,3; Weish 13,5
+[^bible-9ca2315b-2b3a-5a0b-806c-9ebb6a2103b5]: 1Kor 3,16; 1Kor 6,19
