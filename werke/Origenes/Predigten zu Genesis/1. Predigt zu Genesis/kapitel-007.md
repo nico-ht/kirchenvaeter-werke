@@ -1,4 +1,4 @@
-# 1\. Predigt zu Genesis – Kapitel 7
+# 1\. Predigt zu Genesis – Kapitel 7: Je näher unser Geist Christus kommt, desto klarer wird er von seinem Licht erleuchtet
 
 Autor: Origenes
 
@@ -19,16 +19,9 @@ Wir kommen jedoch nicht alle auf die gleiche Weise zu ihm, sondern jeder "nach s
 
 Wenn darüber hinaus jemand in der Lage ist, mit ihm den Berg zu besteigen, wie Petrus, Jakobus und Johannes, wird er nicht nur durch das Licht Christi erleuchtet, sondern auch durch die Stimme des Vaters selbst\.
 
-Und ebenso wie die Augen unseres Körpers nicht gleichmäßig vom Licht der Sonne erleuchtet werden, sondern nur in dem Maße, wie jemand zu höheren Orten aufgestiegen ist und mit einem Blick von einem erhöhten Standpunkt ihre Aufgänge betrachtet hat, wird er umso mehr sowohl ihren Glanz als auch ihre Wärme wahrnehmen\. So wird auch unser Verstand, je näher er sich Christus auf eine erhabene und hohe Weise genähert hat und sich näher dem Glanz seines Lichtes präsentiert hat, umso prächtiger und klarer in seinem Licht erstrahlen\. Denn auch er selbst sagt durch den Propheten: „Nähert euch mir, und ich werde mich euch nähern,“[^bible-a357e7fd-875c-4dec-844d-3e8f62fb3811] spricht der Herr\. Und wiederum sagt er: „Ich bin ein Gott, der nahe ist, und nicht ein Gott, der fern ist\.“
-
-Wir kommen jedoch nicht alle auf die gleiche Weise zu ihm, sondern jeder „entsprechend seiner eigenen Fähigkeit“\. Denn entweder kommen wir mit den Massen zu ihm, und er erfrischt uns durch Gleichnisse, damit wir nicht auf dem Weg von vielen Fasten erschöpft werden, oder wir sitzen stets und unablässig zu seinen Füßen, nur dafür frei, dass wir „sein Wort“ hören, ohne uns um „vieles Dienen“ zu kümmern, sondern wählen „den besten Teil, der uns nicht genommen werden soll\.“ Und gewiss erhalten diejenigen, die sich ihm so nähern, viel mehr von seinem Licht\.
-
-Sollten wir jedoch, wie die Apostel, in keiner Weise von ihm bewegt werden, sondern stets bei ihm in all seinen Bedrängnissen bleiben, dann erklärt und löst er für uns im Verborgenen die Dinge, die er zu den Massen gesprochen hat, und erleuchtet uns viel klarer\. Wenn darüber hinaus jemand in der Lage ist, mit ihm den Berg zu besteigen, wie Petrus, Jakobus und Johannes, wird er nicht nur durch das Licht Christi erleuchtet, sondern auch durch die Stimme des Vaters selbst\.
-
 ## Bibelverweise
 
 [^bible-655b36f1-fb8d-4377-a296-755c15d34689]: Jak 4,8
-[^bible-a357e7fd-875c-4dec-844d-3e8f62fb3811]: Jak 4,8
 [^bible-a43b8c07-6c3c-461f-b54a-8bd0a45723f1]: Gen 1,16–Gen 1,19
 [^bible-c9786727-7807-492e-9888-36c8d740b19a]: 1Kor 15,41
 [^bible-cd605b73-3cee-4dc1-a806-02f22d74e45a]: Mt 20,30

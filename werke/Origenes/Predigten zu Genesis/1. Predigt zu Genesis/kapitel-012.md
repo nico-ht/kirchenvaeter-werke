@@ -1,4 +1,4 @@
-# 1\. Predigt zu Genesis – Kapitel 12
+# 1\. Predigt zu Genesis – Kapitel 12: Weil Gott ihn selbst erschafft, ist der Mensch Himmel, Erde und Gestirnen an Würde gleich
 
 Autor: Origenes
 
@@ -19,19 +19,12 @@ Aber lasst uns sehen, was die Dinge sind, die Gott selbst gemacht hat, und auf d
 
 Daraus ergibt sich, wie groß die Größe des Menschen ist, der gleichgestellt ist mit solch großen und herausragenden Elementen\. Er hat die Ehre des Himmels, weshalb ihm auch "das Reich des Himmels" versprochen wird\. Und er hat die Ehre der Erde, da er tatsächlich hofft, in ein gutes Land und "ein Land der Lebenden, das von Milch und Honig fließt\." Er hat die Ehre der Sonne und des Mondes, da ihm das Versprechen gegeben wurde, "wie die Sonne im Reich Gottes zu leuchten\."
 
-„Und Gott sprach: ‚Das Wasser, das unter dem Himmel ist, soll sich an einem Ort sammeln, und das Trockene soll erscheinen\.‘“[^bible-61cc63c6-9c65-4440-b510-16f911a637e6] „Und Gott sprach: ‚Die Erde lasse Gras und Pflanzen hervorkommen\.‘“[^bible-cc9eb44e-f1b1-4afe-8c6c-90b841818b79] So spricht auch die Schrift über die verbleibenden Dinge\. Doch lasst uns betrachten, was jene Dinge sind, die Gott selbst gemacht hat, und auf diese Weise darauf achten, welche Größe dem Menschen zukommt\. „Im Anfang schuf Gott Himmel und Erde\.“[^bible-3b7923ca-e8a6-4a04-9410-43fcf7f7fed5] Ebenso sagt die Schrift: „Und Gott machte zwei große Lichter\.“[^bible-87258591-07ca-4f6b-b2cb-cb11c009ea9e] Und nun wieder: „Lasst uns den Menschen machen\.“[^bible-c31b5022-96b1-412c-ac14-33b6a314d61c] Das Werk Gottes selbst wird nur diesen Dingen zugeschrieben, nicht den anderen\. Nur Himmel und Erde, Sonne, Mond und Sterne sowie nun der Mensch sind von Gott gemacht worden, während alles andere gesagt wird, dass es durch sein Gebot geschaffen wurde\. Betrachtet daher, wie groß die Größe des Menschen ist, der gleichgestellt ist mit solch großen und herausragenden Elementen, der die Ehre des Himmels hat, weshalb ihm auch das Reich des Himmels verheißen wird\. Und er hat die Ehre der Erde, da er tatsächlich hofft, in ein gutes Land zu gelangen, „in ein Land der Lebenden, das von Milch und Honig fließt\.“ Er hat die Ehre der Sonne und des Mondes, da ihm das Versprechen gegeben wurde, „wie die Sonne im Reich Gottes zu leuchten\.“
-
 ## Bibelverweise
 
 [^bible-393937e0-dbb1-4be3-a88e-71a97895145e]: Gen 1,16
-[^bible-3b7923ca-e8a6-4a04-9410-43fcf7f7fed5]: Gen 1,1
 [^bible-41a518e8-72e2-45b8-a84c-03d43bea7d38]: Gen 1,26
-[^bible-61cc63c6-9c65-4440-b510-16f911a637e6]: Gen 1,9
 [^bible-6762cff4-28cf-48e6-853c-0f162a40622e]: Gen 1,26
 [^bible-7b572755-5478-4202-b30f-5ba48f36983c]: Gen 1,1
 [^bible-84bb7c9d-1b79-4d41-8635-27b838f8c6fb]: Gen 1,9
-[^bible-87258591-07ca-4f6b-b2cb-cb11c009ea9e]: Gen 1,16
 [^bible-9101db50-a97e-4591-a99a-7f941ea0d766]: Gen 1,11
-[^bible-c31b5022-96b1-412c-ac14-33b6a314d61c]: Gen 1,26
 [^bible-c3737f64-4472-4af8-8adb-642d91f555e0]: Gen 1,6
-[^bible-cc9eb44e-f1b1-4afe-8c6c-90b841818b79]: Gen 1,11

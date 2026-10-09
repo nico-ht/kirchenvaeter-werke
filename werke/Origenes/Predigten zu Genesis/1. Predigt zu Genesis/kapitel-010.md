@@ -1,4 +1,4 @@
-# 1\. Predigt zu Genesis – Kapitel 10
+# 1\. Predigt zu Genesis – Kapitel 10: Auch Widersacher dienen den Heiligen zum Guten, wenn diese sie überwinden
 
 Autor: Origenes
 
@@ -19,13 +19,8 @@ Wie groß die Schönheit und Pracht des Lichts ist, würde nicht erkannt werden,
 
 Aus diesem Grund sagt die Schrift über alles: "Und Gott sah, dass sie gut waren\."[^bible-652e4da9-e925-4479-996f-60a7dfcefead] Warum steht jedoch nicht geschrieben: "Und Gott sagte, dass sie gut waren," anstelle von: "Gott sah, dass sie gut waren"? Das heißt, Gott sah die Nützlichkeit dieser Dinge und den Weg, auf dem sie, obwohl sie in sich selbst sind, wie sie sind, dennoch die guten Menschen perfektionieren können\. Aus diesem Grund sagte er: "Vermehrt euch und füllt die Wasser, die im Meer sind, und lasst die Vögel sich auf der Erde vermehren,"[^bible-e55bcf04-d6cc-4684-8223-65bcb768825f] das heißt, dass die großen Wale und die kriechenden Wesen im Meer sein sollen, wie wir oben erklärt haben, und die Vögel auf der Erde\.
 
-Und der Apostel sagt: „Niemand wird gekrönt, es sei denn, der, der rechtmäßig gekämpft hat\.“[^bible-069e7f7a-b51f-4932-b112-1386437cb59c] Und in der Tat, wie wird es einen Wettkampf geben, wenn es keinen gibt, der widersteht? Wie groß die Schönheit und Pracht des Lichtes auch ist, sie würde nicht erkannt werden, wenn nicht die Dunkelheit der Nacht dazwischenkommt\. Warum werden einige für ihre Reinheit gelobt, wenn nicht, weil andere für ihre Unanständigkeit verurteilt werden? Warum werden starke Männer verherrlicht, wenn nicht, weil schwache und feige Männer existieren? Wenn du das Bittere verwendest, wird das Süße umso lobenswerter\. Wenn du das Dunkle betrachtest, erscheinen dir die hellen Dinge angenehmer\. Und um es kurz zu fassen: Aus der Betrachtung des Bösen wird die Herrlichkeit des Guten strahlender angezeigt\. Aus diesem Grund sagt die Schrift über alles: „Und Gott sah, dass sie gut waren\.“ Warum steht jedoch nicht geschrieben: „Und Gott sagte, dass sie gut waren,“ anstatt: „Gott sah, dass sie gut waren“?[^bible-37354f53-8cec-46dd-93d7-6975cd204d2c] Das heißt, Gott sah die Nützlichkeit dieser Dinge und den Weg, auf dem, obwohl sie in sich selbst sind, wie sie sind, sie dennoch gute Menschen vollenden könnten\. Aus diesem Grund sagte er: „Vermehrt euch und füllt die Wasser, die in den Meeren sind, und lasst die Vögel sich auf der Erde vermehren,“[^bible-4c8179f2-91f9-4d52-b25b-facf25e3bf14] das heißt, dass die großen Wale und die lebenden Wesen, die sich regen, im Meer sein sollen, wie wir oben erklärt haben, und die Vögel auf der Erde\.
-
 ## Bibelverweise
 
-[^bible-069e7f7a-b51f-4932-b112-1386437cb59c]: 2Tim 2,5
-[^bible-37354f53-8cec-46dd-93d7-6975cd204d2c]: Gen 1,25
-[^bible-4c8179f2-91f9-4d52-b25b-facf25e3bf14]: Gen 1,22
 [^bible-5c8edbf5-6c50-49c9-be59-3a4689ebfb7a]: Gen 1,22–Gen 1,23
 [^bible-652e4da9-e925-4479-996f-60a7dfcefead]: Gen 1,18
 [^bible-7bc20a29-bd0a-46f2-b527-4db2e9bc30f9]: 2Tim 2,5

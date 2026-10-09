@@ -1,4 +1,4 @@
-# 1\. Predigt zu Genesis – Kapitel 4
+# 1\. Predigt zu Genesis – Kapitel 4: Wir sollen gute Werke tun und im Herzen die Samen für künftige Werke bewahren
 
 Autor: Origenes
 
@@ -17,12 +17,7 @@ Wenn wir jedoch einerseits "das Wort" hören und unsere Erde aus dem Hören "sof
 
 Wir haben auch für notwendig erachtet, zu ermahnen, dass unsere Früchte kein "Unkraut" haben, das heißt, kein schlechtes Gewächs, dass sie nicht "neben dem Weg" sind, sondern auf dem Weg selbst gesät werden, auf dem Weg, der sagt: "Ich bin der Weg\."[^bible-bdab6313-18bb-48bc-a503-c5d8163d4d56] Damit die Vögel des Himmels unsere Früchte oder unseren Weinstock nicht fressen\. Wenn jedoch jemand von uns es verdient, ein Weinstock zu sein, so hüte er sich, dass er keine Dornen für Trauben trägt\. Aus diesem Grund wird er "nicht mehr beschnitten oder gegraben" werden, noch werden "die Wolken" befohlen, "auf ihn zu regnen", sondern im Gegenteil wird er "verlassen" gelassen, damit "Dornen" ihn überwuchern\.
 
-Wenn wir also einerseits das Wort hören und unsere Erde aus dem Hören sofort Vegetation hervorbringt, diese Vegetation jedoch verwelkt, bevor sie zur Reife oder Frucht gelangt, dann wird unsere Erde als felsig bezeichnet\. Aber wenn das, was gesagt wird, tief in unseren Herzen Wurzeln schlägt, sodass es sowohl Früchte guter Werke trägt, als auch die Samen zukünftiger Werke enthält, dann wird tatsächlich die Erde eines jeden von uns Frucht gemäß ihrem Potenzial bringen, einige hundertfach, einige sechzig, andere dreißig\.
-
-Es ist jedoch auch notwendig, uns zu ermahnen, dass unsere Frucht kein Unkraut enthält, das heißt, dass sie nicht neben dem Weg ist, sondern im Weg selbst gesät wird, in dem Weg, der sagt: „Ich bin der Weg“[^bible-59101c48-eb60-4277-8098-f11551b9610a], damit die Vögel des Himmels unsere Früchte und unseren Wein nicht fressen\. Wenn jedoch jemand von uns es verdient, ein Weinberg zu sein, der lasse sich hüten, dass er keine Dornen anstelle von Trauben trägt, und aus diesem Grund „wird er nicht mehr beschnitten oder gegraben“, noch wird „den Wolken“ befohlen „darauf zu regnen“, sondern im Gegenteil wird er verlassen gelassen, damit Dornen ihn überwuchern\.
-
 ## Bibelverweise
 
 [^bible-0a374605-a146-4536-8a9c-961e6d367549]: Gen 1,12–Gen 1,13
-[^bible-59101c48-eb60-4277-8098-f11551b9610a]: Joh 14,6
 [^bible-bdab6313-18bb-48bc-a503-c5d8163d4d56]: Joh 14,6
