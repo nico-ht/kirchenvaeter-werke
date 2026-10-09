@@ -6,9 +6,9 @@ Clemens von Alexandria
 
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/clemens-von-alexandria/ermahnung-an-die-heiden) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-- [Kapitel 1](kapitel-001.md)
+- [Kapitel 1: Der ewige Logos befreit als neues Lied die Menschen aus der Knechtschaft der Götzen](kapitel-001.md)
 - [Kapitel 2: Die eigenen Überlieferungen der Heiden entlarven ihre Götter als Erfindungen und lasterhafte Menschen](kapitel-002.md)
-- [Kapitel 3](kapitel-003.md)
+- [Kapitel 3: Heilige Namen täuschen: Menschenopfer sind Mord und Göttertempel in Wahrheit Gräber](kapitel-003.md)
 - [Kapitel 4: Götterbilder sind Werke aus totem Stoff, deren Kunst zur Anbetung und zum Laster verführt](kapitel-004.md)
 - [Kapitel 5: Die Philosophen vergöttlichen das Geschaffene und verkennen den Schöpfer](kapitel-005.md)
 - [Kapitel 6: Einzelne Philosophen bezeugen durch göttliche Eingebung den einen wahren Gott](kapitel-006.md)
