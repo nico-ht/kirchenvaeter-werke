@@ -1,4 +1,4 @@
-# 3\. Predigt zu Genesis – Kapitel 2
+# 3\. Predigt zu Genesis – Kapitel 2: Gottes Sprechen macht seinen Willen verständlich, ohne einen menschlichen Körper vorauszusetzen
 
 Autor: Origenes
 
@@ -24,13 +24,3 @@ Dennoch wird gesagt, dass das Wort Gottes oft zu den Propheten und Patriarchen u
 Und so, ob auf diese Weise oder auf die oben erwähnte, wenn Gott seinen Willen bekannt macht, wird gesagt, dass er gesprochen hat\.
 
 In diesem Sinne wollen wir nun einige Dinge aus den Worten erörtern, die gelesen wurden\.
-
-Der Wille Gottes wird sicherlich nicht verstanden, als wäre er in diesen Worten enthalten, es sei denn, man sagt, dass er sie gesprochen hat\. Denn unter den Menschen wird nicht gedacht oder verstanden, dass der Wille jemals durch Schweigen bekannt gemacht werden kann\. Doch wieder sagen wir diese Dinge nicht in dem Sinne, gemäß dem Irrtum der Juden oder sogar einiger unserer eigenen Leute, die mit ihnen irren, dass wir denken sollten, da die menschliche Schwäche Gott nicht hören kann, außer wenn das Wesen selbst und die Worte ihm bekannt sind, dass dies der Grund ist, warum Gott mit Gliedern, die unseren ähnlich sind, und mit menschlichem Erscheinungsbild auftritt\. Dies ist dem Glauben der Kirche fremd\.
-
-So wird gesagt, dass Gott zu den Menschen gesprochen hat: Er inspiriert entweder das Herz eines jeden der Heiligen oder lässt den Klang einer Stimme zu seinen Ohren gelangen\. Wenn er auch bekannt macht, dass das, was jeder sagt oder tut, ihm bekannt ist, sagt die Schrift, dass er „gehört hat“; und wenn er bekannt macht, dass wir etwas Unrechtes getan haben, heißt es, dass er „zornig ist“; wenn er uns als undankbar für seine Wohltaten tadelt, heißt es, dass er „bereut“, indem er diese Dinge durch diese Eigenschaften bekannt macht, die den Menschen gemeinsam sind, jedoch nicht durch die Glieder, die zur körperlichen Natur gehören\. Denn diese Substanz ist einfach und besteht weder aus Gliedern noch aus körperlichen Strukturen und Eigenschaften\.
-
-Was immer durch göttliche Kräfte geschieht, wird entweder mit dem Namen menschlicher Glieder bezeichnet oder durch Eigenschaften angekündigt, die allgemein bekannt und verständlich sind, damit die Menschen es verstehen können\. Auf diese Weise wird gesagt, dass Gott entweder zornig ist oder hört oder spricht\. Denn wenn die menschliche Stimme als Luft definiert wird, die geschlagen wurde, das heißt, durch die Zunge zum Schwingen gebracht, kann auch die Stimme Gottes als Luft bezeichnet werden, die entweder durch Kraft oder durch den göttlichen Willen geschlagen wurde\.
-
-Daher ist es so, dass, wann immer eine göttliche Kommunikation erfolgt, sie nicht zu den Ohren aller kommt, sondern nur zu dem Gehör derjenigen, für die sie von Interesse ist\. So sollst du wissen, dass der Klang nicht durch die Bewegung einer Zunge erzeugt wurde – andernfalls wäre das Hören allen gemeinsam –, sondern durch die Kontrolle des Willens von oben geleitet wurde\.
-
-Die Worte Gottes sollen jedoch oft den Propheten, Patriarchen und den anderen heiligen Männern auch ohne den Klang einer Stimme zuteil geworden sein, wie wir aus allen heiligen Schriften reichlich gelehrt werden\. In diesem Fall, um es kurz zu fassen, wird der Verstand, der durch den Geist Gottes erleuchtet ist, auf Worte ausgerichtet\. Und so, ob auf diese Weise oder auf die oben erwähnte, wird gesagt, dass Gott gesprochen hat, wenn er seinen Willen bekannt macht\. In diesem Sinne wollen wir nun einige Dinge aus diesen gelesenen Worten erörtern\.

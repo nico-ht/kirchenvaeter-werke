@@ -1,4 +1,4 @@
-# 3\. Predigt zu Genesis – Kapitel 3
+# 3\. Predigt zu Genesis – Kapitel 3: Erst nach Auszug und Namenswechsel empfängt Abraham Gottes Bund und das Zeichen der Beschneidung
 
 Autor: Origenes
 
@@ -15,15 +15,8 @@ So waren also diese gesegneten Presbyter Abraham und Sara\.
 
 Zunächst wurden ihre natürlichen Namen, die sie bei ihrer Geburt im Fleisch erhielten, geändert\. „Denn als Abraham neunundneunzig Jahre alt war, erschien Gott ihm und sagte: ‚Ich bin Gott\. Sei wohlgefällig vor mir und sei untadelig, und ich will einen Bund zwischen mir und dir schließen\.‘ Und Abraham fiel auf sein Angesicht und betete Gott an, und Gott sprach zu ihm und sagte: ‚Ich bin; siehe, mein Bund ist mit dir, und du sollst der Vater einer Menge von Nationen sein, und alle Nationen sollen in dir gesegnet sein, und dein Name soll nicht mehr Abram genannt werden, sondern dein Name soll Abraham sein\.‘“[^bible-16ed86cf-93c9-48ad-a08b-cc34d7a8a1b3] Und als er ihm diesen Namen gegeben hatte, fügte er sofort hinzu: „Und ich will meinen Bund zwischen mir und dir und deinem Samen nach dir schließen\. Und dies ist der Bund, den du zwischen mir und dir und deinem Samen nach dir bewahren sollst\.“ [^bible-38c943fa-3b54-448b-8905-b0fe965aee8e]Und nach diesen Worten fügt er hinzu: „Und alle eure Männlichen sollen beschnitten werden, und du sollst das Fleisch deiner Vorhaut beschneiden\.“[^bible-5683030b-847f-4c3c-8d18-3b7a5dd5929c]
 
-Denn in Abraham wird nicht das hohe Alter seines Körpers angesprochen, sondern die Reife seines Herzens, die durch diesen Begriff zum Ausdruck kommt\. Aber der Herr sagt auch zu Mose: „Wähle dir Presbyter, von denen du selbst weißt, dass sie Presbyter sind\.“ Lasst uns das Wort des Herrn sehr sorgfältig betrachten\. Was könnte diese Ergänzung bedeuten, die sagt: „Von denen du selbst weißt, dass sie Presbyter sind“? War es nicht für alle offensichtlich, dass er ein Presbyter war, das heißt alt, der das Alter in seinem Körper trug? Warum wird dann diese besondere Prüfung nur Mose, einem so großen Propheten, befohlen, dass diejenigen gewählt werden sollen, nicht die, die andere Menschen kannten, nicht die, die die unwissende Menge erkannte, sondern die, die der von Gott erfüllte Prophet wählen sollte? Denn in Bezug auf sie geht es nicht um ein Urteil über ihren Körper oder ihr Alter, sondern über ihren Verstand\. So waren also diese gesegneten Presbyter Abraham und Sara\.
-
-Und zunächst wurden ihre natürlichen Namen, die sie bei ihrer Geburt im Fleisch erhielten, geändert\. „Denn als Abraham neunundneunzig Jahre alt war, erschien ihm Gott und sagte: 'Ich bin Gott\. Sei mir wohlgefällig und sei untadelig, und ich werde einen Bund zwischen mir und dir schließen\.' Und Abraham fiel auf sein Angesicht und betete Gott an, und Gott sprach zu ihm und sagte: 'Ich bin; siehe, mein Bund mit dir, und du sollst der Vater vieler Völker werden, und alle Völker sollen in dir gesegnet sein, und dein Name soll nicht mehr Abram genannt werden, sondern dein Name soll Abraham sein\.'“[^bible-d4b38530-61a2-43f0-bb3a-30c69df20cee] Und als er ihm diesen Namen gegeben hatte, fügte er sofort hinzu: „Und ich werde meinen Bund zwischen mir und dir und deinem Samen nach dir schließen\. Und dies ist der Bund, den du zwischen mir und dir und deinem Samen nach dir bewahren sollst\.“[^bible-54b8d7a4-fb0f-40d1-97f3-0ba0a27fa401] Und nach diesen Worten fügt er hinzu: „Und alle deine Männlichen sollen beschnitten werden, und du sollst das Fleisch deiner Vorhaut beschneiden\.“[^bible-284b2ed1-df4e-4e2b-a6cc-74f6d674f6e3]
-
 ## Bibelverweise
 
 [^bible-16ed86cf-93c9-48ad-a08b-cc34d7a8a1b3]: Gen 17,1–Gen 17,5
-[^bible-284b2ed1-df4e-4e2b-a6cc-74f6d674f6e3]: Gen 17,10
 [^bible-38c943fa-3b54-448b-8905-b0fe965aee8e]: Gen 17,7–Gen 17,9
-[^bible-54b8d7a4-fb0f-40d1-97f3-0ba0a27fa401]: Gen 17,7–Gen 17,10
 [^bible-5683030b-847f-4c3c-8d18-3b7a5dd5929c]: Gen 17,10–Gen 17,11
-[^bible-d4b38530-61a2-43f0-bb3a-30c69df20cee]: Gen 17,1–Gen 17,5
