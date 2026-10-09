@@ -1,0 +1,32 @@
+# Metaphrase über das Buch der Prediger – Kapitel 5: Habgier macht Besitz zur Qual, doch Freude an gewaltlos erworbenem Gut ist Gottes Gabe
+
+Autor: Gregor der Wundertäter
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-wundertaeter/metaphrase-ueber-das-buch-der-prediger#kapitel-4b8b77a8-e357-4d01-d23f-08ddb034331d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Außerdem ist es gut, die Zunge sparsam zu gebrauchen und beim Sprechen im Herzen ruhig und besonnen zu bleiben[^bible-d75d41c1-8e50-4329-aa21-9c0d14f20083]\. Denn es ist nicht richtig, Dummes und Widersinniges oder alles, was einem in den Sinn kommt, auszusprechen\. Vielmehr sollen wir wissen und bedenken, dass wir, obwohl uns eine große Entfernung vom Himmel trennt, vor Gottes Ohren sprechen[^bible-d75d41c1-8e50-4329-aa21-9c0d14f20083] und dass es gut für uns ist, beim Sprechen keinen Anstoß zu geben\. Denn wie mit vielerlei Sorgen allerlei Träume und Erscheinungen einhergehen, so geht auch albernes Gerede mit Dummheit einher[^bible-be5559b5-9c31-45b4-815d-9107aff796ae]\. Achte außerdem darauf, dass du ein Versprechen, das du mit einem Gelübde gegeben hast, auch tatsächlich erfüllst[^bible-29642d26-635d-43b2-b6d9-0b60bf38a4c0]\. Auch das ist den Dummen eigen: Sie sind unzuverlässig\. Du aber halte dein Wort und wisse: Es ist viel besser für dich, gar nicht erst zu geloben oder zu versprechen, etwas zu tun, als ein Gelübde abzulegen und es dann nicht zu erfüllen[^bible-43c67b0e-cf55-4318-9cdb-ab87f857945c]\. Du musst dich unbedingt vor einer Flut niederträchtiger Worte hüten, denn Gott wird sie hören[^bible-b62e556f-a6f8-4052-a99b-f4db97bc1a12]\. Denn wer sich solchen Dingen widmet, hat davon keinen anderen Nutzen, als mit ansehen zu müssen, wie Gott sein Tun zunichtemacht[^bible-b62e556f-a6f8-4052-a99b-f4db97bc1a12]\. Denn wie die Menge der Träume nichtig ist, so auch die Menge der Worte[^bible-319e3fbc-5bd3-4196-b386-7eeb2886c67e]\. Doch Gottesfurcht[^bible-319e3fbc-5bd3-4196-b386-7eeb2886c67e] ist die Rettung des Menschen, auch wenn sie selten zu finden ist\. Darum sollst du dich nicht wundern, wenn du siehst, dass die Armen unterdrückt werden und die Richter das Gesetz falsch auslegen[^bible-98b8da9a-5f51-498c-bce2-60982bbc6964]\. Du sollst aber vermeiden, den Anschein zu erwecken, denen überlegen zu sein, die die Macht haben\. Denn selbst wenn du ihnen tatsächlich überlegen bist, wird Bosheit allein dich nicht vor den schrecklichen Übeln retten, die dich treffen werden\. Doch wie gewaltsam erworbenes Eigentum ein höchst schädlicher und zugleich gottloser Besitz ist, so findet auch der Mensch, der nach Geld giert, niemals Befriedigung für seine Leidenschaft[^bible-51f0daeb-1410-4988-aa8d-a6da304884b1] und ebenso wenig das Wohlwollen seiner Nachbarn, selbst wenn er den größtmöglichen Reichtum angehäuft hat\. Denn auch das ist Nichtigkeit[^bible-51f0daeb-1410-4988-aa8d-a6da304884b1]\.
+
+Die Güte aber erfüllt die, die an ihr festhalten, mit großer Freude und stärkt sie, indem sie ihnen die Fähigkeit verleiht, alles zu durchschauen\. Auch ist es viel wert, nicht von solchen Sorgen beherrscht zu sein\. Denn der Arme genießt wenigstens die wohltuende Erholung des Schlafes, selbst wenn er ein Sklave ist und sich nicht richtig satt essen kann; die Gier nach Reichtum dagegen bringt schlaflose Nächte und innere Unruhe mit sich\.[^bible-9fdcdb7a-9c8d-46a8-bcb3-6340fa6e979a] Was könnte also widersinniger sein, als unter vielen Sorgen und Mühen Reichtum anzuhäufen und eifersüchtig zu hüten, wenn man damit die ganze Zeit nur an dem festhält, was einem zahllose Übel bereitet?[^bible-35170b67-1aeb-4164-bc95-71b6f210ca70] Und dieser Reichtum muss überdies irgendwann vergehen und verloren gehen[^bible-e096f9d4-a2c8-4b0f-b178-e05dfd23866c], ob der, der ihn erworben hat, Kinder hat oder nicht\. Der Mensch selbst aber muss sterben, so wenig er es auch will, und zur Erde zurückkehren, in eben dem Zustand, in dem er einst zur Welt kam\.[^bible-898a4dbb-76bf-4239-9e65-426bdc62895d] Dass er dazu bestimmt ist, die Erde so mit leeren Händen zu verlassen[^bible-3be72f7f-f5d5-4173-8c72-8bc0525b8549], wird das Übel für ihn umso schmerzlicher machen\. Denn er bedenkt nicht, dass seinem Leben ein Ende bestimmt ist, das seinem Anfang gleicht, und dass er sich ohne Nutzen abmüht und gleichsam eher für den Wind arbeitet[^bible-20d0658d-648f-4c32-8393-2729ecabe2f6] als für sein eigenes wahres Wohl\. Dabei vergeudet er sein ganzes Leben mit höchst gottlosen Begierden und unvernünftigen Leidenschaften und leidet zugleich unter Mühen und Schmerzen\. Kurz gesagt: Die Tage eines solchen Menschen sind Finsternis, und sein Leben ist Kummer\.[^bible-00bd27b0-73d6-49d2-920a-b47c78dda6fc] Und doch ist dies an sich gut und keineswegs zu verachten\. Denn es ist Gottes Gabe, wenn ein Mensch mit frohem Herzen die Früchte seiner Arbeit ernten kann und so Besitz empfängt, den Gott ihm geschenkt hat[^bible-a50147ab-8605-4a13-b5a0-7c33bf0c92c0] und den er nicht mit Gewalt erworben hat\. Denn ein solcher Mensch wird weder von Sorgen geplagt, noch ist er in der Regel ein Sklave böser Gedanken; vielmehr bemisst er sein Leben nach guten Taten, ist bei allem guten Mutes und freut sich an Gottes Gabe\.[^bible-952a3028-9bb3-4c57-bb9b-d8574ce67891]
+
+## Bibelverweise
+
+[^bible-00bd27b0-73d6-49d2-920a-b47c78dda6fc]: Pred 5,16
+[^bible-20d0658d-648f-4c32-8393-2729ecabe2f6]: Pred 5,15
+[^bible-29642d26-635d-43b2-b6d9-0b60bf38a4c0]: Pred 5,3
+[^bible-319e3fbc-5bd3-4196-b386-7eeb2886c67e]: Pred 5,6
+[^bible-35170b67-1aeb-4164-bc95-71b6f210ca70]: Pred 5,12
+[^bible-3be72f7f-f5d5-4173-8c72-8bc0525b8549]: Pred 5,14; 1Tim 6,7
+[^bible-43c67b0e-cf55-4318-9cdb-ab87f857945c]: Pred 5,4
+[^bible-51f0daeb-1410-4988-aa8d-a6da304884b1]: Pred 5,9
+[^bible-898a4dbb-76bf-4239-9e65-426bdc62895d]: Hi 1,21; Pred 5,14
+[^bible-952a3028-9bb3-4c57-bb9b-d8574ce67891]: Pred 5,19
+[^bible-98b8da9a-5f51-498c-bce2-60982bbc6964]: Pred 5,7
+[^bible-9fdcdb7a-9c8d-46a8-bcb3-6340fa6e979a]: Pred 5,11
+[^bible-a50147ab-8605-4a13-b5a0-7c33bf0c92c0]: Pred 5,17–Pred 5,18
+[^bible-b62e556f-a6f8-4052-a99b-f4db97bc1a12]: Pred 5,5
+[^bible-be5559b5-9c31-45b4-815d-9107aff796ae]: Pred 5,2
+[^bible-d75d41c1-8e50-4329-aa21-9c0d14f20083]: Pred 5,1
+[^bible-e096f9d4-a2c8-4b0f-b178-e05dfd23866c]: Pred 5,13

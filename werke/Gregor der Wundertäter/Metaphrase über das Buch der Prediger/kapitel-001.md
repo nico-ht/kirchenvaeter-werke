@@ -1,0 +1,27 @@
+# Metaphrase über das Buch der Prediger – Kapitel 1: Irdisches Streben bleibt fruchtlos, und selbst die Weisheit geht mit Sorgen einher
+
+Autor: Gregor der Wundertäter
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-wundertaeter/metaphrase-ueber-das-buch-der-prediger#kapitel-69d51fac-3c38-4d54-d23b-08ddb034331d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Diese Worte spricht Salomo, der Sohn Davids, des Königs und Propheten, zur ganzen Kirche Gottes, ein Fürst, der hoch geehrt ist, und ein Prophet, der weiser ist als alle Menschen\. Wie eitel und fruchtlos sind die Angelegenheiten der Menschen und all die Bestrebungen, die den Menschen beschäftigen\! Denn es gibt keinen, der von irgendeinem Gewinn berichten kann, der an den Dingen haftet, nach denen die Menschen, die auf der Erde kriechen, mit Leib und Seele streben, während sie in der Knechtschaft dessen leben, was vergänglich ist, und nicht den Wunsch hegen, etwas Himmlisches mit dem edlen Blick der Seele zu betrachten\. Und das Leben der Menschen vergeht, wie Tag für Tag und in den Zeiträumen von Stunden und Jahren, einige kommen immer und andere gehen vorüber\. Und die Sache gleicht dem Durchfluss von Strömen, die mit mächtigem Geräusch in die grenzenlose Tiefe des Meeres fallen\. Und all die Dinge, die von Gott zum Wohl der Menschen geschaffen wurden, bleiben gleich: so wie zum Beispiel, dass der Mensch aus Erde geboren wird und wieder zur Erde zurückkehrt; dass die Erde selbst stabil bleibt; dass die Sonne ihren Kurs um sie vollkommen vollendet und wieder zum gleichen Punkt zurückrollt; und dass die Winde ebenso, und die mächtigen Flüsse, die ins Meer fließen, und die Brisen, die es anrauschen, alle ohne Zwang handeln, über ihre Grenzen hinauszugehen, und ohne selbst auch nur ihre festgelegten Gesetze zu verletzen\.
+
+Und diese Dinge sind, da sie dem Wohl unseres Lebens dienen, sinnvoll geordnet\. Was Menschen sich jedoch ausdenken, seien es Worte oder Taten, kennt kein Maß\. Worte gibt es in großer Fülle, doch planloses und dummes Gerede bringt keinen Nutzen[^bible-0ebf8c18-87e3-4c59-a9d1-13d1bce045c5]\. Das Menschengeschlecht aber ist von Natur aus unersättlich in seinem Durst nach Reden und Zuhören; und es ist auch eine menschliche Gewohnheit, die Augen müßig auf alles richten zu wollen, was geschieht\.[^bible-0ebf8c18-87e3-4c59-a9d1-13d1bce045c5] Was kann künftig geschehen, oder was können Menschen vollbringen, das nicht schon getan worden ist?[^bible-40e467b7-5db1-401c-b6e5-6406586546eb] Was gibt es an erwähnenswertem Neuem, das noch nie jemand erfahren hat?[^bible-51c557a7-ad43-44ad-ac56-4296751af0e9] Denn ich denke, es gibt nichts, was man neu nennen könnte oder bei näherer Betrachtung als etwas entdecken würde, das den Menschen früherer Zeiten fremd oder unbekannt gewesen wäre\.[^bible-970d8a0b-8f76-4557-871c-6737fb01a56d] Doch wie das Frühere in Vergessenheit begraben liegt, so wird im Lauf der Zeit auch das Wissen um alles, was jetzt besteht, bei denen, die nach uns kommen, gänzlich schwinden\.[^bible-e246f9c0-2596-45a7-8b9d-d8346c038676] Ich sage dies nicht unbedacht, wenn ich jetzt als Prediger auftrete\. Vielmehr habe ich über all dies sorgfältig nachgedacht, als mir in Jerusalem das Königtum über die Hebräer anvertraut war\.[^bible-71ee3abe-aa77-4790-899b-f6b9f301ced4] Ich erforschte eifrig und erwog mit Bedacht das Wesen all dessen, was auf Erden ist[^bible-d6cbcf21-5df0-4bea-9dd8-a6a426a58f2b], und erkannte seine große Vielfalt\. Ich sah, dass es dem Menschen auferlegt ist, sich auf Erden abzumühen, ständig von den verschiedensten Anlässen zu mühevoller Arbeit umhergetrieben, ohne mit seiner Arbeit etwas zu erreichen\.[^bible-3be4b092-3b91-437a-ab14-163f598d1a86] Und alles hier unten ist vom Geist der Fremdheit und der Abscheulichkeit erfüllt, sodass man es jetzt nicht in Ordnung bringen kann; nein, vielmehr kann man überhaupt nicht ermessen, welch vollkommene Nichtigkeit von allen menschlichen Angelegenheiten Besitz ergriffen hat\.[^bible-b29ac8e4-2907-4ef3-a41c-6df7749cdfd8] Denn einst hielt ich Zwiesprache mit mir selbst und meinte, darin damals weiser zu sein als alle, die vor mir gewesen waren; auch verstand ich mich darauf, Gleichnisse und das Wesen der Dinge zu erfassen\.[^bible-d86af0f1-0292-4336-978a-4c79c6618508] Doch ich erkannte, dass ich mich solchen Bestrebungen vergeblich hingegeben hatte[^bible-1dfc13da-ce47-4a93-aafd-af86713bc44b] und dass, wenn die Weisheit der Erkenntnis folgt, auch die Sorgen die Weisheit begleiten\.[^bible-eab74558-6f37-4cdb-a77e-69c46da3c1b7]
+
+## Bibelverweise
+
+[^bible-0ebf8c18-87e3-4c59-a9d1-13d1bce045c5]: Pred 1,8
+[^bible-1dfc13da-ce47-4a93-aafd-af86713bc44b]: Pred 1,17
+[^bible-3be4b092-3b91-437a-ab14-163f598d1a86]: Pred 1,13–Pred 1,14
+[^bible-40e467b7-5db1-401c-b6e5-6406586546eb]: Pred 1,9
+[^bible-51c557a7-ad43-44ad-ac56-4296751af0e9]: Pred 1,10
+[^bible-71ee3abe-aa77-4790-899b-f6b9f301ced4]: Pred 1,12
+[^bible-970d8a0b-8f76-4557-871c-6737fb01a56d]: Pred 1,9–Pred 1,10
+[^bible-b29ac8e4-2907-4ef3-a41c-6df7749cdfd8]: Pred 1,14–Pred 1,15
+[^bible-d6cbcf21-5df0-4bea-9dd8-a6a426a58f2b]: Pred 1,13
+[^bible-d86af0f1-0292-4336-978a-4c79c6618508]: Pred 1,16
+[^bible-e246f9c0-2596-45a7-8b9d-d8346c038676]: Pred 1,11
+[^bible-eab74558-6f37-4cdb-a77e-69c46da3c1b7]: Pred 1,18
