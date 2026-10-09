@@ -21,23 +21,11 @@ So gelangt man durch das Aufsteigen durch die einzelnen Ebenen der Wohnungen zu 
 
 Wenn du jedoch auf unseren Herrn Jesus Christus schaust, von dem gesagt wird: „Siehe, das Lamm Gottes, siehe, der die Sünde der Welt wegnimmt,“[^bible-11e9e8d6-21f8-49e2-bedd-921521c7d67f] und von dem erneut gesagt wird: „Er wurde zum Fluch für uns gemacht, damit er uns von dem Fluch des Gesetzes erlösen könnte,“[^bible-e9c048c9-6c1a-4d56-96db-15f40ada0619] und wieder, wenn die Schrift sagt: „Kommt zu mir, die ihr mühselig und beladen seid, und ich werde euch erquicken, und ihr werdet Ruhe finden für eure Seelen,“[^bible-d1e671e5-a1fb-43d6-a465-c079b45db216] wirst du ihn finden als den, der den Menschen wahrhaftig Ruhe gegeben hat und die Erde von dem Fluch befreit hat, mit dem der Herr Gott sie verflucht hat\. Daher wird zu diesem geistlichen Noah, der den Menschen Ruhe gegeben hat und die Sünde der Welt weggenommen hat, gesagt: „Du sollst dir eine Arche aus quadratischen Planken machen\.“
 
-Jene, die wahrhaft durch rationales Wissen leben und nicht nur in der Lage sind, sich selbst zu regieren, sondern auch andere zu lehren, stellen, da nur sehr wenige zu finden sind, die wenigen dar, die zusammen mit Noah selbst gerettet werden und in engster Beziehung zu ihm stehen, so wie auch unser Herr, der wahre Noah, Christus Jesus, nur wenige Vertraute, wenige Söhne und Verwandte hat, die an seinem Wort teilnehmen und fähig sind, seine Weisheit zu empfangen\. Und diese werden in die höchste Stellung erhoben und im obersten Teil der Arche versammelt\. Eine Vielzahl anderer irrationaler Tiere oder sogar Bestien wird in den unteren Decks gehalten, insbesondere eine Vielzahl jener Tiere, deren wütendes Toben der Zauber des Glaubens nicht gezähmt hat\. Von dieser Gruppe sind diejenigen, die zwar in der Vernunft hinterherhinken, jedoch mehr Einfachheit und Unschuld bewahren, etwas überlegen\.
-
-So gelangt man durch das Aufsteigen in die einzelnen Ebenen der Wohnungen zu Noah selbst, dessen Name Ruhe oder Gerechtigkeit bedeutet, der Christus Jesus ist\. Denn was Lamech, sein Vater, sagt, ist nicht auf den alten Noah anwendbar\. Denn „dieser“, sagt er, „wird uns Ruhe geben von den Mühen und den Sorgen unserer Hände und von der Erde, die der Herr Gott verflucht hat\.“[^bible-d6b6e82c-ebd1-4752-be6b-4609298c6ecd] Wie kann es wahr sein, dass der alte Noah Lamech oder das Volk, das damals in den Ländern lebte, Ruhe gegeben hat? Wie kann es eine Beendigung von Sorgen und Mühen in den Zeiten Noahs gegeben haben? Wie wird der Fluch, den der Herr auf die Erde gelegt hat, aufgehoben, wenn vielmehr der göttliche Zorn größer erscheint und vonn Gott berichtet wird, dass er sagt: „Es tut mir leid, dass ich den Menschen auf der Erde gemacht habe,“ [^bible-20119423-dc94-48f2-b037-943024d09a4a]und erneut sagt er: „Ich will alles Fleisch, das auf der Erde ist, vernichten,“[^bible-9b3ad5f5-dc71-4ce3-be25-16a927d9f160] und die Zerstörung der Lebenden wird vor allem als Zeichen des größten Missmuts gegeben?
-
-Wenn du jedoch auf unseren Herrn Jesus Christus schaust, von dem gesagt wird: „Siehe, das Lamm Gottes, siehe, der die Sünde der Welt hinweg nimmt,“[^bible-2a240578-f811-41b3-b538-14d8a797d03d] und von dem erneut gesagt wird: „Er wurde zum Fluch für uns, damit er uns von dem Fluch des Gesetzes erlösen könnte,“[^bible-c0184dcd-3e4f-4ae7-9c06-acdf550ac385] und wenn die Schrift sagt: „Kommt zu mir, die ihr mühselig und beladen seid, und ich werde euch erfrischen, und ihr werdet Ruhe für eure Seelen finden,“[^bible-517658e6-5de6-4c55-b971-b9ac1bb7998f] wirst du ihn als den finden, der den Menschen wahrhaft Ruhe gegeben hat und die Erde von dem Fluch befreit hat, mit dem der Herr Gott sie verflucht hat\. Daher wird zu diesem geistlichen Noah, der den Menschen Ruhe gegeben und die Sünde der Welt hinweggenommen hat, gesagt: „Du sollst dir eine Arche aus quadratischen Planken machen\.“
-
 ## Bibelverweise
 
 [^bible-08a486cf-44fd-4e4d-b44a-a9b707817f81]: Jes 26,20
 [^bible-11e9e8d6-21f8-49e2-bedd-921521c7d67f]: Joh 1,29
-[^bible-20119423-dc94-48f2-b037-943024d09a4a]: Gen 6,6
-[^bible-2a240578-f811-41b3-b538-14d8a797d03d]: Joh 1,29
-[^bible-517658e6-5de6-4c55-b971-b9ac1bb7998f]: Mt 11,28–Mt 11,29
 [^bible-9797a28d-8f5a-4c81-835b-daec43c3a72a]: Gen 6,17
-[^bible-9b3ad5f5-dc71-4ce3-be25-16a927d9f160]: Gen 6,13
 [^bible-bebe1cd2-116a-4306-bb6c-1f90c89bdb5d]: Lk 17,26
-[^bible-c0184dcd-3e4f-4ae7-9c06-acdf550ac385]: Gal 3,13
 [^bible-d1e671e5-a1fb-43d6-a465-c079b45db216]: Mt 11,28
-[^bible-d6b6e82c-ebd1-4752-be6b-4609298c6ecd]: Gen 5,29
 [^bible-e9c048c9-6c1a-4d56-96db-15f40ada0619]: Gal 3,13
