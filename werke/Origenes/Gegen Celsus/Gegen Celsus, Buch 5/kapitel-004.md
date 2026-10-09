@@ -1,0 +1,10 @@
+# Gegen Celsus, Buch 5 – Kapitel 4
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-5#kapitel-cee37e3e-3fa5-4436-989e-08dea89af5e6).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Da er aber als Nächstes so tut, als hätten Juden oder Christen über diejenigen, die herabkommen, um das Menschengeschlecht heimzusuchen, geantwortet, es seien Engel, und dann fortfährt: „Wenn ihr aber sagt, es seien Engel, wie nennt ihr sie dann? Sind sie Götter oder irgendein anderes Geschlecht von Wesen?“, und uns wiederum so antworten lässt: „Irgendein anderes Geschlecht von Wesen, und wahrscheinlich Dämonen“ – so wollen wir auf diese Bemerkungen eingehen\. Denn wir bekennen tatsächlich, dass die Engel „dienende Geister“ sind, und sagen, dass sie ausgesandt werden zum Dienst um derer willen, die das Heil erben sollen; und dass sie hinaufsteigen, indem sie die Bitten der Menschen an die reinsten himmlischen Orte des Weltalls tragen, oder sogar in noch reinere überhimmlische Regionen; und dass sie von dort herabkommen und jedem nach seinem Verdienst etwas bringen, das ihnen von Gott aufgetragen wurde, denen zu übermitteln, die seine Wohltaten empfangen sollen\. Da wir also gelernt haben, diese Wesen wegen ihrer Dienste Engel zu nennen, finden wir, dass sie, weil sie göttlich sind, in den heiligen Schriften bisweilen Götter genannt werden; doch nicht so, dass uns geboten wäre, anstelle Gottes jene zu ehren und anzubeten, die uns dienen und uns seine Segnungen bringen\. Denn jedes Gebet, jede Bitte, jede Fürbitte und jede Danksagung ist durch den Hohepriester, der über allen Engeln steht, den lebendigen Logos und Gott, zum höchsten Gott emporzusenden\. Und auch zum Logos selbst werden wir beten, Fürbitten vorbringen, Danksagungen und Bitten an ihn richten, sofern wir fähig sind, zwischen dem rechten Gebrauch und dem Missbrauch des Gebets zu unterscheiden\.

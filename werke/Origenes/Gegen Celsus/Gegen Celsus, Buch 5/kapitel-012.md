@@ -1,0 +1,19 @@
+# Gegen Celsus, Buch 5 – Kapitel 12: Anbetung gebührt dem allgegenwärtigen Gott, nicht den Gestirnen, selbst wenn sie seine Boten sind
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-5#kapitel-026a8008-51ce-4501-ca80-08df20dba24b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Gott neigt sich also in seiner Güte den Menschen zu, nicht im räumlichen Sinn, sondern durch seine Vorsehung\. Der Sohn Gottes aber ist nicht nur während seines Erdenlebens, sondern zu allen Zeiten bei seinen Jüngern und erfüllt so die Verheißung: „Seht, ich bin allezeit bei euch, bis zum Ende der Welt\.[^bible-b9d7409f-b4d4-4df0-92c8-09d9359d773b]“ Und wenn eine Rebe keine Frucht tragen kann, wenn sie nicht am Weinstock bleibt[^bible-f312c0aa-8971-41f3-9779-7255c0615754], dann können offensichtlich auch die Jünger des Wortes, die vernunftbegabten Reben am wahren Weinstock[^bible-7fe9b3f5-590f-43fd-998e-5d432d1f805e] des Wortes, keine Früchte der Tugend hervorbringen, wenn sie nicht am wahren Weinstock[^bible-7fe9b3f5-590f-43fd-998e-5d432d1f805e] bleiben, dem Christus Gottes\. Er ist hier unten auf der Erde räumlich bei uns und in allen Teilen der Welt bei denen, die an ihm festhalten; er ist auch überall bei denen, die ihn nicht kennen\. Noch etwas anderes macht jener Johannes deutlich, der das Evangelium geschrieben hat, indem er Johannes den Täufer sagen lässt: „Mitten unter euch steht einer, den ihr nicht kennt; er ist es, der nach mir kommt\.[^bible-3a2883cf-3db0-40b2-be02-8beacb63d810]“ Und es ist widersinnig, zur Sonne, zum Mond oder zu einem der Sterne beten zu wollen, deren Einfluss sich nicht auf die ganze Welt erstreckt, wenn doch der, der Himmel und Erde erfüllt[^bible-ef05b98d-a8c9-4e8d-8fe0-9f28238c323e] und gesagt hat: „Erfülle ich nicht Himmel und Erde? So spricht der Herr\.[^bible-ef05b98d-a8c9-4e8d-8fe0-9f28238c323e]“, bei uns und uns nahe ist\. Denn ich glaube ihm, wenn er sagt: „Ich bin ein Gott, der nahe ist und nicht fern, spricht der Herr\.[^bible-12f69d90-6b7d-42f4-a478-4bbe0d3f83d2]“ Doch räumen wir ein, dass Sonne, Mond und Sterne, um die Worte des Celsus selbst zu gebrauchen, „Regen und Hitze, Wolken und Donner vorhersagen“\. Wenn sie wirklich so große Dinge vorhersagen, warum sollten wir dann nicht vielmehr Gott huldigen, in dessen Dienst sie diese Vorhersagen aussprechen, und ihm statt seinen Propheten Ehrfurcht erweisen? Mögen sie also Blitze, Früchte und Erzeugnisse aller Art ankündigen, und mögen sie über all das walten: Dennoch werden wir deshalb nicht diejenigen anbeten, die selbst anbeten\. Wir beten ja auch Mose nicht an und ebenso wenig die Propheten, die nach ihm von Gott kamen und Besseres vorhersagten als Regen und Hitze, Wolken und Donner, Blitze, Früchte und alle möglichen sinnlich wahrnehmbaren Erzeugnisse\. Ja, selbst wenn Sonne, Mond und Sterne Besseres als Regen vorhersagen könnten, würden wir sie auch dann nicht anbeten, sondern den Vater der in ihnen enthaltenen Weissagungen und das Wort Gottes, das ihnen dient\. Doch räumen wir ein, dass sie seine Herolde und wahrhaft Boten des Himmels sind: Warum sollten wir auch dann nicht den Gott anbeten, den sie lediglich verkünden und ankündigen, statt derer, die seine Herolde und Boten sind?
+
+## Bibelverweise
+
+[^bible-12f69d90-6b7d-42f4-a478-4bbe0d3f83d2]: Jer 23,23
+[^bible-3a2883cf-3db0-40b2-be02-8beacb63d810]: Joh 1,26–Joh 1,27
+[^bible-7fe9b3f5-590f-43fd-998e-5d432d1f805e]: Joh 15,1
+[^bible-b9d7409f-b4d4-4df0-92c8-09d9359d773b]: Mt 28,20
+[^bible-ef05b98d-a8c9-4e8d-8fe0-9f28238c323e]: Jer 23,24
+[^bible-f312c0aa-8971-41f3-9779-7255c0615754]: Joh 15,4

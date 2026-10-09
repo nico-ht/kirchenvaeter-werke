@@ -1,0 +1,31 @@
+# Gegen Celsus, Buch 5 – Kapitel 10: Wer das wahre Licht der Erkenntnis besitzt, soll sich nicht vor den Gestirnen niederwerfen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-5#kapitel-d0428b83-7985-48aa-c4bc-08df20c60436).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn wir begründen müssen, warum wir weder Engel, Sonne, Mond und Sterne noch jene Wesen als Götter anerkennen, die die Griechen als offenbare und sichtbare Gottheiten bezeichnen, so lautet unsere Antwort: Das Gesetz des Mose weiß, dass Gott diese allen Völkern unter dem Himmel zugeteilt hat[^bible-d64979a3-755d-40d8-a9dd-326759f3ccfb], nicht aber denen, die er vor allen Völkern der Erde zu seinem Volk erwählt hat[^bible-05f33215-5819-414a-9905-77ba21e7b60b]\. Denn im Buch Deuteronomium steht geschrieben: „Wenn du deine Augen zum Himmel erhebst und die Sonne, den Mond und die Sterne, das ganze Heer des Himmels, siehst, hüte dich davor, dich dazu hinreißen zu lassen, sie anzubeten und ihnen zu dienen\. Der Herr, dein Gott, hat sie allen Völkern unter dem ganzen Himmel zugeteilt\. Uns aber hat der Herr genommen und aus dem Eisenschmelzofen, aus Ägypten, herausgeführt, damit wir ihm als Erbe gehören, als sein Volk, wie ihr es heute seid\.[^bible-4631cb18-cb89-472b-b5f5-bc31c0701f1c]“ Gott nennt also das hebräische Volk „ein erwähltes Geschlecht, ein königliches Priestertum, ein heiliges Volk und ein erkauftes Volk[^bible-297220fe-11e3-4590-a64c-f668d2804aec]“\. Über dieses Volk wurde Abraham eine Vorhersage gegeben, als die Stimme des Herrn zu ihm sprach: „Blicke nun zum Himmel und zähle die Sterne, wenn du sie zählen kannst\.[^bible-00b5c87b-550b-40d4-91ec-1ab1047ed104]“ Und er sagte zu ihm: „So werden deine Nachkommen sein\.[^bible-00b5c87b-550b-40d4-91ec-1ab1047ed104]“ Da dieses Volk also hoffte, wie die Sterne des Himmels zu werden, war nicht zu erwarten, dass es sich vor den Gestirnen niederwerfen würde, denen es durch das Verständnis und die Befolgung des Gesetzes Gottes ähnlich werden sollte\. Denn zu ihnen wurde gesagt: „Der Herr, unser Gott, hat uns zahlreich gemacht; und seht, ihr seid heute so zahlreich wie die Sterne des Himmels\.[^bible-a23094c2-dc0f-4afa-b601-2cf9c6458152]“ Auch im Buch Daniel finden sich folgende Weissagungen über diejenigen, die an der Auferstehung teilhaben werden: „Und zu jener Zeit wird dein Volk gerettet werden, jeder, der im Buch verzeichnet ist\. Und viele von denen, die im Staub der Erde schlafen, werden erwachen, die einen zum ewigen Leben, die anderen zu Schande und ewiger Verachtung\.[^bible-94f6e3a1-b121-48a0-8f3e-2e7ebee240c6]
+
+Und die Weisen werden leuchten wie der Glanz des Himmelsgewölbes und die unter den vielen Gerechten wie die Sterne für immer und ewig\.[^bible-0db0b4f8-3e1c-4dea-8d39-d047e38d20ce]“ Und so weiter\. Daher sagt auch Paulus, wenn er von der Auferstehung spricht: „Und es gibt auch himmlische Körper und irdische Körper; doch die Herrlichkeit der himmlischen ist eine andere als die der irdischen\. Die Sonne hat eine andere Herrlichkeit als der Mond, und die Sterne haben wieder eine andere Herrlichkeit; denn ein Stern unterscheidet sich vom anderen an Herrlichkeit\. So ist es auch mit der Auferstehung der Toten\.[^bible-619bba5b-72aa-4ff2-8c40-97f7d345cc71]“ Diese Menschen waren gelehrt worden, sich hoch über alles Geschaffene zu erheben und darauf zu hoffen, wegen ihres tugendhaften Lebens bei Gott die herrlichsten Belohnungen zu genießen\. Sie hatten die Worte gehört: „Ihr seid das Licht der Welt[^bible-583f6e46-b5b0-4dc5-93c5-d55b04af4cd8]“, und: „Lasst euer Licht so vor den Menschen leuchten, dass sie eure guten Werke sehen und euren Vater im Himmel verherrlichen\.[^bible-da4f06a7-43a1-4161-97f8-89f8d3db8cc3]“ Durch Übung hatten sie sich diese strahlende und unvergängliche Weisheit[^bible-7dcc1a09-b3ca-4f9d-88be-87f22fd7e888] zu eigen gemacht oder sogar den Widerschein des ewigen Lichts[^bible-2f58d73a-0023-4e30-a80b-eb5e96b061f4] selbst erlangt\. Es wäre daher unvernünftig gewesen, wenn sie sich vom bloßen sichtbaren Licht der Sonne, des Mondes und der Sterne so hätten beeindrucken lassen, dass sie sich wegen dieses sinnlich wahrnehmbaren Lichts den Gestirnen in irgendeiner Weise für unterlegen gehalten und sich vor ihnen niedergeworfen hätten, obwohl sie ein so großes Vernunftlicht der Erkenntnis besaßen, dazu das wahre Licht[^bible-dc454902-2b38-4bd3-9c86-79a008ce71c6], das Licht der Welt[^bible-4f7856ff-f7c0-4589-b751-3d74a0184723] und das Licht der Menschen[^bible-afd4f6d3-0da3-4ba4-b633-206b0cbf8e59]\. Denn wenn die Gestirne überhaupt angebetet werden sollen, dann nicht wegen des sinnlich wahrnehmbaren Lichts, das die Menge bewundert, sondern wegen des vernünftigen und wahren Lichts, sofern die Sterne am Himmel tatsächlich vernünftige und tugendhafte Wesen sind und mit dem Licht der Erkenntnis erleuchtet wurden durch jene Weisheit, die der Widerschein des ewigen Lichts ist[^bible-2f58d73a-0023-4e30-a80b-eb5e96b061f4]\. Denn ihr sinnlich wahrnehmbares Licht ist das Werk des Schöpfers aller Dinge, während jenes Vernunftlicht vielleicht aus dem ihnen innewohnenden Prinzip des freien Willens hervorgeht\.
+
+## Bibelverweise
+
+[^bible-00b5c87b-550b-40d4-91ec-1ab1047ed104]: Gen 15,5
+[^bible-05f33215-5819-414a-9905-77ba21e7b60b]: Dtn 7,6
+[^bible-0db0b4f8-3e1c-4dea-8d39-d047e38d20ce]: Dan 12,3
+[^bible-297220fe-11e3-4590-a64c-f668d2804aec]: 1Petr 2,9
+[^bible-2f58d73a-0023-4e30-a80b-eb5e96b061f4]: Weish 7,26
+[^bible-4631cb18-cb89-472b-b5f5-bc31c0701f1c]: Dtn 4,19–Dtn 4,20
+[^bible-4f7856ff-f7c0-4589-b751-3d74a0184723]: Joh 8,12
+[^bible-583f6e46-b5b0-4dc5-93c5-d55b04af4cd8]: Mt 5,14
+[^bible-619bba5b-72aa-4ff2-8c40-97f7d345cc71]: 1Kor 15,40–1Kor 15,42
+[^bible-7dcc1a09-b3ca-4f9d-88be-87f22fd7e888]: Weish 6,12
+[^bible-94f6e3a1-b121-48a0-8f3e-2e7ebee240c6]: Dan 12,1–Dan 12,2
+[^bible-a23094c2-dc0f-4afa-b601-2cf9c6458152]: Dtn 1,10
+[^bible-afd4f6d3-0da3-4ba4-b633-206b0cbf8e59]: Joh 1,4
+[^bible-d64979a3-755d-40d8-a9dd-326759f3ccfb]: Dtn 4,19
+[^bible-da4f06a7-43a1-4161-97f8-89f8d3db8cc3]: Mt 5,16
+[^bible-dc454902-2b38-4bd3-9c86-79a008ce71c6]: Joh 1,9

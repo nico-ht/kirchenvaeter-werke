@@ -1,0 +1,15 @@
+# Gegen Celsus, Buch 5 – Kapitel 23: Gottes Wirken kann die Kräfte der Natur übersteigen, ohne ihr oder der Vernunft zu widersprechen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-5#kapitel-e3fa3242-7b15-46c4-4c2f-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wir behaupten also nicht, dass der Leib, der der Verwesung verfallen ist, seine ursprüngliche Natur wieder annimmt, ebenso wenig wie das verfaulte Weizenkorn in seinen früheren Zustand zurückkehrt\. Wohl aber behaupten wir: Wie aus dem Weizenkorn ein Halm emporwächst, so ist dem Leib eine bestimmte Kraft eingepflanzt, die nicht zerstört wird und aus der heraus der Leib in Unvergänglichkeit auferweckt wird[^bible-35bc6972-7ebf-4647-b1fb-b905f4795c60]\. Die Philosophen der Stoa dagegen behaupten aufgrund ihrer Ansichten über die Unveränderlichkeit der Dinge nach Ablauf eines bestimmten Kreislaufs, dass der Leib nach vollständiger Verwesung in seinen ursprünglichen Zustand zurückkehren und wieder jene erste Natur annehmen wird, aus der er in den Zustand der Auflösung übergegangen ist\. Sie glauben, dies mit unwiderlegbaren Argumenten zu beweisen\. Wir aber greifen nicht zu einer höchst unsinnigen Ausflucht, indem wir sagen: „Bei Gott ist alles möglich\.[^bible-832f9dc0-8380-4d4f-86f6-33bf6ab999c9]“ Denn wir wissen, dass dieses Wort „alles[^bible-832f9dc0-8380-4d4f-86f6-33bf6ab999c9]“ weder auf Dinge zu beziehen ist, die nicht existieren, noch auf solche, die undenkbar sind\. Zugleich halten wir daran fest, dass Gott nichts Schändliches tun kann, denn sonst könnte er aufhören, Gott zu sein\. Wenn er nämlich etwas Schändliches tut, ist er nicht Gott\. Da Celsus jedoch den Grundsatz aufstellt, Gott wolle nichts Naturwidriges, müssen wir unterscheiden und sagen: Wenn jemand behauptet, das Böse sei wider die Natur, so halten wir zwar daran fest, dass Gott nichts Naturwidriges will, weder etwas, das aus dem Bösen entspringt, noch etwas, das auf einem vernunftwidrigen Prinzip beruht; wenn solche Dinge jedoch nach Gottes Wort und Willen geschehen, müssen wir ohne Weiteres zwingend annehmen, dass sie nicht wider die Natur sind\. Was Gott tut, ist also nicht wider die Natur, auch wenn es unglaublich sein mag oder manchen so erscheint\. Wenn wir uns aber streng an die Bedeutung der Wörter halten müssen, so würden wir sagen: Gemessen an dem, was man gewöhnlich unter Natur versteht, gibt es gewisse Dinge, die über ihre Kräfte hinausgehen und die Gott jederzeit vollbringen könnte\. So kann er etwa den Menschen über die Stufe der menschlichen Natur erheben, ihn in einen besseren und göttlicheren Zustand versetzen und ihn darin bewahren, solange der Mensch, dem seine Fürsorge gilt, durch sein Handeln zeigt, dass er \(weiterhin seine Hilfe\) wünscht\.
+
+## Bibelverweise
+
+[^bible-35bc6972-7ebf-4647-b1fb-b905f4795c60]: 1Kor 15,42
+[^bible-832f9dc0-8380-4d4f-86f6-33bf6ab999c9]: Mt 19,26

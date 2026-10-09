@@ -1,0 +1,18 @@
+# Gegen Celsus, Buch 5 – Kapitel 48: Jesu Beschneidung entmachtet nach dieser Deutung den Engel: Seine Jünger sollen sich nicht beschneiden lassen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-5#kapitel-a10898c0-6bd1-4c08-4c61-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Obwohl sich die Juden also ihrer Beschneidung rühmen, werden sie diese nicht nur von der Beschneidung der Kolcher und Ägypter unterscheiden, sondern auch von der der arabischen Ismaeliten\. Und doch geht diese auf ihren Vorfahren Abraham zurück, dessen Sohn Ismael sich zusammen mit seinem Vater beschneiden ließ[^bible-22e8cd01-2209-4078-a84d-2a202cfe53bf]\. Die Juden sagen, die am achten Tag vollzogene Beschneidung sei die maßgebliche; eine Beschneidung, die je nach den Umständen vorgenommen wird, sei etwas anderes\. Wahrscheinlich wurde sie wegen der Feindschaft eines Engels gegen das jüdische Volk vollzogen: Er hatte die Macht, den Unbeschnittenen unter ihnen zu schaden, war aber gegen diejenigen machtlos, die sich der Beschneidung unterzogen hatten\. Das lässt sich wohl aus dem Bericht im Buch Exodus ersehen: Vor der Beschneidung Eliezers konnte der Engel gegen Mose vorgehen; nachdem dessen Sohn beschnitten war, konnte er nichts mehr ausrichten[^bible-c8a6429e-a387-4a84-a1b1-04c241fc82c5]\. Als Zippora dies erfahren hatte, nahm sie einen Kieselstein und beschnitt ihr Kind[^bible-490ebfb9-2749-4bb6-a5c2-53b6bc188683]\. Nach der Lesart der gängigen Abschriften heißt es, sie habe gesagt: „Das Blut von der Beschneidung meines Kindes fließt nicht mehr\.[^bible-490ebfb9-2749-4bb6-a5c2-53b6bc188683]“ Nach dem hebräischen Text aber: „Du bist mir ein Blutgemahl\.[^bible-490ebfb9-2749-4bb6-a5c2-53b6bc188683]“ Denn sie kannte die Geschichte von einem Engel, der vor dem Vergießen des Blutes Macht besaß, durch das Blut der Beschneidung aber machtlos wurde\. Deshalb wurden die Worte an Mose gerichtet: „Du bist mir ein Blutgemahl\.[^bible-490ebfb9-2749-4bb6-a5c2-53b6bc188683]“ Doch habe ich es gewagt, diese Dinge so ausführlich zu behandeln, obwohl sie eher eigentümlich erscheinen und dem Verständnis der breiten Menge nicht zugänglich sind\. Nun will ich, wie es einem Christen entspricht, nur noch eines hinzufügen und dann zum Folgenden übergehen\. Denn dieser Engel hatte, wie ich glaube, möglicherweise Macht über die Unbeschnittenen im Volk und überhaupt über alle, die allein den Schöpfer anbeteten\. Diese Macht bestand, solange Jesus noch keinen menschlichen Leib angenommen hatte\. Als er dies aber getan und sich selbst der Beschneidung unterzogen hatte[^bible-8d86dce7-f9cf-4e5a-8b09-4a9b633a77b5], wurde dem Engel jede Macht über diejenigen genommen, die Gott auf dieselbe Weise verehren, aber nicht beschnitten sind\. Denn Jesus machte diese Macht durch die Kraft seiner unaussprechlichen Gottheit zunichte\. Deshalb wird seinen Jüngern verboten, sich beschneiden zu lassen, und der Apostel erinnert sie daran: „Wenn ihr euch beschneiden lasst, wird Christus euch nichts nützen\.[^bible-7bda3660-be89-45c3-8dcd-225341c3b8bd]“
+
+## Bibelverweise
+
+[^bible-22e8cd01-2209-4078-a84d-2a202cfe53bf]: Gen 17,23–Gen 17,26
+[^bible-490ebfb9-2749-4bb6-a5c2-53b6bc188683]: Ex 4,25
+[^bible-7bda3660-be89-45c3-8dcd-225341c3b8bd]: Gal 5,2
+[^bible-8d86dce7-f9cf-4e5a-8b09-4a9b633a77b5]: Lk 2,21
+[^bible-c8a6429e-a387-4a84-a1b1-04c241fc82c5]: Ex 4,24–Ex 4,26
