@@ -1,0 +1,10 @@
+# Gegen Celsus, Buch 3 – Kapitel 3
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-3#kapitel-d4d16026-c08a-4a6f-4bcb-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ferner geschahen in allen Ländern oder wenigstens in vielen von ihnen Wunder, wie Celsus selbst einräumt\. Als Beispiel führt er Asklepios an, der vielen Menschen Wohltaten erwies und ganzen Städten, die ihm geweiht waren, künftige Ereignisse vorhersagte, etwa Trikka, Epidauros, Kos und Pergamon\. Neben Asklepios nennt er Aristeas von Prokonnesos, einen gewissen Klazomenier und Kleomedes von Astypalaia\. Nur unter den Juden, die nach eigener Aussage dem Gott aller Dinge geweiht sind, soll kein Wunder und kein Zeichen geschehen sein, das ihren Glauben an den Schöpfer aller Dinge festigen und ihre Hoffnung auf ein anderes, besseres Leben stärken konnte\! Wie aber können sie sich einen solchen Zustand vorstellen? Denn die Juden wären sofort zur Verehrung jener Dämonen übergegangen, die Orakelsprüche erteilten und Heilungen vollbrachten\. Sie hätten den Gott verlassen, an dessen Beistand man zwar den Worten nach glaubte, der ihnen aber nie seine Gegenwart sichtbar offenbarte\. Wenn es dazu aber nicht gekommen ist und sie vielmehr zahllose Leiden auf sich genommen haben, statt das Judentum und ihr Gesetz aufzugeben, und bald in Assyrien, bald in Persien, bald unter Antiochus grausam behandelt wurden, liegt es dann nicht auch für diejenigen, die ihren Wunderberichten und Weissagungen keinen Glauben schenken, nahe, anzunehmen, dass die fraglichen Ereignisse keine Erfindungen sein konnten, sondern dass ein göttlicher Geist in den heiligen Seelen der Propheten wohnte, jener Männer, die um der Tugend willen jede Mühe auf sich nahmen, und sie dazu bewegte, Weissagungen auszusprechen, die teils ihre Zeitgenossen, teils ihre Nachwelt betrafen, vor allem aber eine bestimmte Person, die als Retter der Menschheit kommen sollte?

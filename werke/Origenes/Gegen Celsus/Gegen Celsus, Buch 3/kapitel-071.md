@@ -1,0 +1,10 @@
+# Gegen Celsus, Buch 3 – Kapitel 71: Gott nimmt Sünder wegen ihrer wirklichen Umkehr auf, nicht aus Mitleid mit ihrem Klagen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-3#kapitel-2d75b805-32ca-4749-4cbf-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Als Nächstes setzt er etwas voraus, das die vernünftigeren Gläubigen nicht gelten lassen, das aber vielleicht manche für wahr halten, denen es an Verstand fehlt: Gott lasse sich wie Menschen, die vom Mitleid überwältigt werden, selbst davon überwältigen und lindere aus Mitleid mit dem Jammern der Bösen deren Leiden; die Guten dagegen, die nichts dergleichen tun, verstoße er\. Das wäre der Gipfel der Ungerechtigkeit\. Nach unserer Auffassung lindert Gott jedoch keinem bösen Menschen das Leid, der sich nicht einem tugendhaften Leben zugewandt hat, und verstößt niemanden, der bereits gut ist\. Auch lindert er nicht das Leid eines Trauernden, nur weil dieser Klagen ausstößt, noch hat er deshalb Mitleid mit ihm, wenn man das Wort Mitleid in seiner gewöhnlicheren Bedeutung gebraucht\. Wer sich aber wegen seiner Sünden selbst streng verurteilt hat, sich deshalb im Blick auf seinen bisherigen Lebenswandel als verloren beklagt und beweint und einen hinreichenden Wandel erkennen lässt, den nimmt Gott wegen seiner Umkehr auf als einen Menschen, der sich nach einem Leben in großer Bosheit gewandelt hat\. Denn die Tugend nimmt in den Seelen dieser Menschen Wohnung, vertreibt die Bosheit, die sie zuvor beherrscht hat, und lässt die Vergangenheit in Vergessenheit geraten\. Und selbst wenn die Tugend nicht Einzug hält, die Seele aber beträchtliche Fortschritte macht, genügt schon das, um entsprechend dem Ausmaß dieses Fortschritts die Flut der Bosheit zu vertreiben und zu vernichten, sodass davon fast nichts mehr in der Seele bleibt\.

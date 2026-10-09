@@ -1,0 +1,10 @@
+# Gegen Celsus, Buch 3 – Kapitel 70: Gott kann nichts Böses tun: Die Macht dazu widerspricht seiner Gottheit und Allmacht
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-3#kapitel-37a442bd-4d25-40a3-4cbe-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Als Nächstes wendet er sich gegen die Behauptung, Gott werde alles tun können, als würden wir sie vertreten\. Auch hier erkennt er nicht, wie diese Worte gemeint sind, was dieses „alles“ umfasst und in welchem Sinn davon gesprochen wird, dass Gott dazu imstande sein wird\. Doch darüber brauchen wir jetzt nicht zu sprechen\. Denn obwohl er dieser Aussage mit scheinbar vernünftigen Gründen hätte widersprechen können, hat er es nicht getan\. Vielleicht hat er die Argumente nicht verstanden, die sich plausibel dagegen vorbringen ließen; oder, wenn er sie doch verstand, sah er auch, was man darauf antworten könnte\. Nach unserem Urteil kann Gott alles tun, was ihm möglich ist, ohne seine Gottheit, Güte und Weisheit zu verlieren\. Celsus aber versteht den Sinn des Ausdrucks „Gott kann alles tun“ nicht und behauptet, Gott werde nichts Böses tun wollen\. Damit räumt er ihm die Macht ein, Böses zu tun, nicht aber den Willen dazu\. Wir dagegen vertreten folgende Auffassung: Was seiner Natur nach die Eigenschaft besitzt, durch die ihm innewohnende Süße anderes süß zu machen, kann nicht entgegen seiner eigenen Natur Bitterkeit hervorbringen; ebenso kann das, dessen Natur es ist, Licht hervorzubringen, weil es selbst Licht ist, keine Finsternis bewirken\. Genauso wenig kann Gott Böses tun, denn die Macht, Böses zu tun, widerspricht seiner Gottheit und deren Allmacht\. Wenn dagegen irgendein Wesen Böses tun kann, weil es seiner Natur nach zum Bösen neigt, dann tut es das, weil es seiner Natur nach nicht die Fähigkeit besitzt, das Böse zu unterlassen\.

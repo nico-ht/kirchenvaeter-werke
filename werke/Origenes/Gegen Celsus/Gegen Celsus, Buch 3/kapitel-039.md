@@ -1,0 +1,12 @@
+# Gegen Celsus, Buch 3 – Kapitel 39: Die aufrichtige Einfachheit der Evangelisten zeigt, dass ihr Erfolg auf göttlicher Kraft statt Redekunst beruht
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-3#kapitel-24275407-6b73-4c1b-cb81-08deb34643e3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wir müssen auf die nächsten Bemerkungen des Celsus eingehen\. Er sagt uns, der Glaube habe unseren Geist in Besitz genommen und bewirke so unsere Zustimmung zur Lehre Jesu\. Denn tatsächlich ist es der Glaube, der eine solche Zustimmung hervorbringt\. Prüfe jedoch, ob dieser Glaube nicht schon an sich etwas Lobenswertes erkennen lässt: Wir vertrauen uns dem Gott an, der über allem steht, bekennen unsere Dankbarkeit gegenüber dem, der uns zu einem solchen Glauben geführt hat, und erklären, dass er ohne göttlichen Beistand weder den Versuch dazu hätte unternehmen noch einen solchen Erfolg hätte erzielen können\. Auch den Absichten der Verfasser der Evangelien vertrauen wir, weil wir ihre Frömmigkeit und Gewissenhaftigkeit erkennen, die sich in ihren Schriften zeigen\. Diese enthalten nichts Unechtes, Trügerisches, Falsches oder Hinterlistiges\. Denn uns ist klar: Seelen, denen jene Kunstgriffe fremd sind, die von der verschlagenen Sophistik der Griechen mit ihrer großen Überzeugungskraft und ihrem Scharfsinn sowie von der vor Gericht üblichen Redekunst gelehrt werden, hätten nicht auf diese Weise Begebenheiten erfinden können, die schon aus sich heraus geeignet sind, zum Glauben und zu einem Leben im Einklang mit dem Glauben zu führen\.
+
+Und ich bin der festen Überzeugung, dass Jesus genau aus diesem Grund solche Personen als Lehrer seiner Lehren einsetzen wollte: Es durfte nicht den geringsten Grund geben, auch nur den Verdacht auf irgendeine scheinbar einleuchtende Sophisterei zu schöpfen\! Es sollte vielmehr jedem, der fähig war es zu begreifen, glasklar vor Augen stehen, dass die arglose Absicht der Schreiber – die sozusagen von größtmöglicher Einfachheit geprägt war – für würdig befunden wurde, von einer weitaus göttlicheren Macht begleitet zu werden\. Und diese Macht vollbrachte weitaus mehr, als es durch rhetorischen Wortschwall, kunstvoll geflochtene Sätze und all die Finessen der griechischen Kunst jemals möglich geschienen hätte\!

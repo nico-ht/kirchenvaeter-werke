@@ -1,0 +1,12 @@
+# Gegen Celsus, Buch 3 – Kapitel 1: Juden und Christen streiten darüber, ob Jesus der von den Propheten verheißene Retter ist
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-3#kapitel-aa0e9ff8-8b33-4759-4bc9-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Im ersten Buch unserer Antwort auf das Werk des Celsus, der seiner gegen uns verfassten Abhandlung prahlerisch den Titel Wahre Rede gegeben hatte, haben wir nach besten Kräften seine Vorrede und die unmittelbar folgenden Teile durchgearbeitet, wie du es uns aufgetragen hast, mein treuer Ambrosius\. Dabei haben wir jede einzelne seiner Behauptungen geprüft, bis wir die Schmährede, die er seinem Juden gegen Jesus in den Mund legt, vollständig behandelt hatten\. Im zweiten Buch sind wir, so gut wir konnten, sämtlichen Vorwürfen aus der Schmährede dieses Juden entgegengetreten; sie richteten sich gegen uns, die wir durch Christus an Gott glauben\. Nun beginnen wir den dritten Teil unserer Darlegung, in dem wir die Behauptungen widerlegen wollen, die Celsus in eigenem Namen vorbringt\.
+
+Er hält den Streit zwischen Juden und Christen für überaus dumm und behauptet, die Auseinandersetzungen, die wir miteinander über Christus führen, unterschieden sich in keiner Hinsicht von dem sprichwörtlichen „Streit um den Schatten eines Esels“\. Auch meint er, die Nachforschungen der Juden und Christen seien ohne Bedeutung: Beide glauben nämlich, der göttliche Geist habe vorausgesagt, dass einer als Retter des Menschengeschlechts kommen werde; sie sind sich aber noch nicht darüber einig, ob der Angekündigte tatsächlich schon gekommen ist oder nicht\. Wir Christen glauben nämlich an Jesus als den, der gemäß den Vorhersagen der Propheten gekommen ist\. Die meisten Juden aber sind so weit davon entfernt, an ihn zu glauben, dass sich diejenigen unter ihnen, die zur Zeit seines Kommens lebten, gegen ihn verschworen und die heutigen billigen, was die damaligen Juden gegen ihn zu tun wagten, und ihn schmähen\. Sie behaupten, er habe sich mithilfe von Zauberei als derjenige ausgegeben, den die Propheten als den Kommenden angekündigt hatten und der gemäß der jüdischen Überlieferung Christus genannt wurde\.

@@ -1,0 +1,10 @@
+# Gegen Celsus, Buch 3 – Kapitel 14: Gottes prophetische Verheißungen und seine Offenbarung in Christus begründen den Zusammenhalt der Christen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-3#kapitel-e139ac62-4fe0-4b4c-4bde-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Danach fährt er fort: „Ihr Zusammenhalt ist umso erstaunlicher, je deutlicher sich zeigen lässt, dass er auf keinem stichhaltigen Grund beruht\. Und doch ist Auflehnung ein stichhaltiger Grund, ebenso wie die Vorteile, die sich daraus ergeben, und die Furcht vor äußeren Feinden\. Das sind die Ursachen, die ihrem Glauben Festigkeit verleihen\.“ Darauf antworten wir: Unser Zusammenhalt beruht also durchaus auf einem Grund, oder vielmehr nicht auf einem Grund, sondern auf göttlichem Wirken\. So nahm er seinen Anfang damit, dass Gott die Menschen in den prophetischen Schriften lehrte, die Ankunft Christi zu erwarten, der der Retter der Menschheit sein sollte\. Denn in dem Maße, wie dieser Punkt nicht wirklich widerlegt wird \(auch wenn es Ungläubigen so erscheinen mag\), wird die Lehre als Gottes Lehre bestätigt und Jesus sowohl vor als auch nach seiner Menschwerdung als Sohn Gottes erwiesen\. Darüber hinaus behaupte ich: Auch nach seiner Menschwerdung erkennen diejenigen, die den schärfsten geistlichen Blick besitzen, stets, dass er Gott in höchstem Maße gleicht, dass er wirklich von Gott zu uns herabgekommen ist und dass weder sein Ursprung noch seine weitere Entwicklung auf menschlicher Weisheit beruhen, sondern auf der Offenbarung Gottes in ihm, der durch seine vielfältige Weisheit und seine Wunder zuerst das Judentum und danach das Christentum begründet hat\. Und die Behauptung, Auflehnung und die damit verbundenen Vorteile seien die Ursachen für die Entstehung einer Lehre gewesen, die so viele Menschen bekehrt und gebessert hat, wurde stichhaltig widerlegt\.

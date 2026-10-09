@@ -1,0 +1,10 @@
+# Gegen Celsus, Buch 3 – Kapitel 78
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-3#kapitel-ce0bc496-7700-4aa4-8df9-08df20c06c71).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nachdem er so schwere Anschuldigungen gegen uns erhoben hat, will er den Eindruck erwecken, er habe noch weitere, übergehe sie aber mit Schweigen\. Er sagt: „Diese Vorwürfe und andere ähnlicher Art habe ich gegen sie vorzubringen, ohne sie einzeln aufzuzählen\. Ich behaupte, dass sie irren und sich Gott gegenüber anmaßend verhalten, um schlechte Menschen mit leeren Hoffnungen zu locken und sie dazu zu bringen, Besseres geringzuachten, indem sie sagen, es werde ihnen besser gehen, wenn sie darauf verzichten\.“ Darauf lässt sich antworten: Die Kraft, die sich in den Menschen zeigt, die sich dem Christentum zuwenden, macht deutlich, dass das Evangelium keineswegs schlechte Menschen gewinnt, sondern eher einfache Menschen, die viele als ungebildet bezeichnen würden\. Aus Furcht vor den angedrohten Strafen, die sie aufrüttelt und dazu anhält, von den Taten abzulassen, auf die Strafe folgt, bemühen sie sich, sich der christlichen Religion hinzugeben\. Die Kraft des Wortes wirkt so stark auf sie, dass sie aus Furcht vor den im Wort so genannten ewigen Strafen alle Folterqualen geringachten, die Menschen gegen sie ersinnen, ja selbst den Tod und zahllose andere Übel\. Kein verständiger Mensch würde darin das Verhalten schlecht gesinnter Menschen sehen\. Wie könnte ein schlecht gesinnter Mensch Selbstbeherrschung und Besonnenheit, Güte und Freigebigkeit üben? Nicht einmal Gottesfurcht kann ein solcher Mensch empfinden\. Weil diese vielen nützt, ermutigt das Evangelium diejenigen, die noch nicht imstande sind, das Wählenswerte um seiner selbst willen zu wählen, sie als das größte Gut zu wählen, das jede Verheißung übersteigt\. Denn diese Gesinnung kann in einem Menschen, der lieber in Schlechtigkeit lebt, nicht Wurzel schlagen\.

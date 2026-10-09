@@ -1,0 +1,10 @@
+# Gegen Celsus, Buch 3 – Kapitel 16: Die Lehre vom künftigen Gericht ist vernünftig begründet und wird auch von Celsus verteidigt
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-3#kapitel-e9e094cb-890c-42f3-4bdf-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch wer will, mag zeigen, was das für Sagen aller Art sind, die wir zusammentragen, oder für Schreckbilder, die wir erfinden, wie Celsus ohne Beweis behauptet\. Ich weiß tatsächlich nicht, was er mit dem Erfinden von Schreckbildern meint, es sei denn unsere Lehre von Gott als Richter und von der Verurteilung der Menschen für ihre Taten, samt den verschiedenen Beweisen, die teils aus der Schrift, teils aus plausiblen Vernunftgründen gewonnen werden\. Und doch sagt Celsus am Schluss \(denn die Wahrheit ist kostbar\): „Mögen weder ich noch diese hier noch irgendein anderer jemals die Lehre von der künftigen Bestrafung der Bösen und der Belohnung der Guten verwerfen\!“ Welche Schreckbilder erfinden wir also und drängen den Menschen auf, wenn man die Lehre von der Bestrafung ausnimmt? Sollte er antworten, wir würden irrige Meinungen aus alten Quellen miteinander verflechten, sie laut hinausposaunen und vor den Menschen erschallen lassen, so wie die Priester der Kybele ihre Becken vor den Ohren derer zusammenschlagen, die in ihre Mysterien eingeweiht werden, dann werden wir ihn zurückfragen: „Aus welchen alten Quellen stammen diese irrigen Meinungen?“ Denn ob er sich auf griechische Berichte bezieht, die lehrten, dass es Gerichtshöfe unter der Erde gibt, oder auf jüdische, die unter anderem das Leben nach dem gegenwärtigen voraussagten: Er wird nicht zeigen können, dass wir die Wahrheit nicht richtig erkannt haben, wir, die wir unseren Glauben auf vernünftige Gründe zu stützen suchen und unser Leben nach solchen Lehren ausrichten\.

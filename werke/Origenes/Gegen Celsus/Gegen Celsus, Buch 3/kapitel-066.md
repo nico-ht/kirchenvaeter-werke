@@ -1,0 +1,10 @@
+# Gegen Celsus, Buch 3 – Kapitel 66: Philosophische Vorbilder zeigen: Auch von Natur und Gewohnheit geprägte Sünder können sich völlig bessern
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-3#kapitel-f8c6be8f-48b2-4c1f-4cb0-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Hier scheint mir Celsus einem schweren Irrtum erlegen zu sein: Er spricht denen, die von Natur und auch aus Gewohnheit Sünder sind, die Möglichkeit eines völligen Wandels ab und behauptet, sie könnten nicht einmal durch Strafe geheilt werden\. Denn es ist klar, dass alle Menschen von Natur aus zur Sünde neigen, manche nicht nur von Natur aus, sondern auch durch Gewöhnung\. Doch nicht alle Menschen sind zu einem völligen Wandel unfähig\. Denn in jeder philosophischen Schule und auch im Wort Gottes finden sich Menschen, von denen berichtet wird, dass sie sich so sehr gewandelt haben, dass man sie als Vorbilder einer vortrefflichen Lebensführung hinstellen kann\. Unter den Gestalten des Heldenzeitalters nennen manche Herkules und Odysseus, unter denen späterer Zeiten Sokrates und unter denen, die erst vor Kurzem gelebt haben, Musonius\. Celsus hat also nicht nur uns verleumdet, als er sagte, es sei jedem offenkundig, dass diejenigen, die von Natur und aus Gewohnheit der Sünde ergeben sind, auf keine Weise, auch nicht durch Strafen, völlig zum Besseren gewandelt werden könnten\. Seine Verleumdung richtet sich auch gegen die edelsten Vertreter der Philosophie, die nicht bestritten haben, dass Menschen zur Tugend zurückfinden können\. Doch obwohl er sich ungenau ausgedrückt hat, werden wir ihm auch bei einer wohlwollenderen Auslegung seiner Worte fehlerhaftes Denken nachweisen\. Denn seine Worte lauteten: „Diejenigen, die von Natur und aus Gewohnheit zur Sünde neigen, könnte niemand völlig bessern, nicht einmal durch Züchtigung\.“ Und so, wie wir seine Worte verstanden haben, haben wir sie nach besten Kräften widerlegt\.

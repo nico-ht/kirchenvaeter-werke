@@ -1,0 +1,10 @@
+# Gegen Celsus, Buch 3 – Kapitel 6: Die hebräische Sprache widerlegt Celsus’ These, die Hebräer seien aufständische Ägypter gewesen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-3#kapitel-5752e034-4252-4603-4bd1-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Celsus prüfte also die Tatsachen, die von den Ägyptern auf die eine und von den Hebräern auf die andere Weise berichtet werden, nicht unvoreingenommen\. Vielmehr stand er gleichsam im Bann der Ägypter und nahm die Aussagen derer, die die Fremden unterdrückt hatten, als wahr an\. Er erklärte, die ungerecht behandelten Hebräer seien aus Ägypten fortgezogen, nachdem sie sich gegen die Ägypter aufgelehnt hätten\. Dabei übersah er, wie unmöglich es für eine so große Schar aufständischer Ägypter war, zu einem Volk zu werden, das mit diesem Aufstand seinen Anfang nahm und zugleich seine Sprache wechselte, sodass Menschen, die bis dahin Ägyptisch gesprochen hatten, auf einmal vollständig zur Sprache der Hebräer übergingen\! Nehmen wir jedoch seiner Vermutung entsprechend an, dass sie beim Verlassen Ägyptens auch einen Hass auf ihre Muttersprache fassten: Warum übernahmen sie dann nicht vielmehr das Syrische oder Phönizische, sondern gaben dem Hebräischen den Vorzug, das sich von beiden unterscheidet? Vernünftige Überlegung scheint mir jedoch zu zeigen, dass folgende Behauptung falsch ist: Menschen ägyptischer Abstammung hätten sich gegen Ägypter aufgelehnt, das Land verlassen, seien nach Palästina gezogen und hätten das heute Judäa genannte Land besetzt\. Denn schon vor ihrem Zug nach Ägypten war Hebräisch die Sprache ihrer Väter; und die hebräischen Schriftzeichen, mit denen Mose jene fünf Bücher verfasste, die den Juden als heilig gelten, unterschieden sich von denen der Ägypter\.

@@ -1,0 +1,10 @@
+# Gegen Celsus, Buch 3 – Kapitel 74: Christliche Lehrer bessern auch Unverständige, bevorzugen aber Scharfsinnige zum Verständnis schwieriger Schriftstellen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-3#kapitel-e12293cb-275a-496c-54c1-08df251685d9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Außerdem wirft er dem christlichen Lehrer vor, er suche die Unverständigen\. Darauf fragen wir: „Wen meinst du mit den Unverständigen? Denn genau genommen ist jeder schlechte Mensch unverständig\. Wenn du also mit den Unverständigen die Schlechten meinst: Wen suchst du dann zu gewinnen, wenn du Menschen zur Philosophie führst, die Schlechten oder die Tugendhaften? Die Tugendhaften kannst du aber nicht gewinnen, denn sie haben sich schon der Philosophie verschrieben\. Also suchst du die Schlechten zu gewinnen\. Wenn sie aber schlecht sind, sind sie dann unverständig? Und viele solcher Menschen suchst du für die Philosophie zu gewinnen; also suchst auch du die Unverständigen\. Wenn ich nun diejenigen suche, die in diesem Sinne unverständig genannt werden, handle ich wie ein gütiger Arzt, der die Kranken aufsucht, um ihnen zu helfen und sie zu heilen\. Wenn du aber mit den Unverständigen Menschen meinst, die nicht klug, sondern geistig weniger begabt sind, antworte ich, dass ich auch sie nach besten Kräften zu bessern versuche, obwohl ich die christliche Gemeinde nicht aus solchem Material aufbauen möchte\. Denn ich suche vorzugsweise die Klügeren und Scharfsinnigeren, weil sie den Sinn der schwierigen Aussprüche und jener dunkel formulierten Stellen im Gesetz, in den Prophezeiungen und in den Evangelien erfassen können\. Diese Stellen hast du verachtet, als enthielten sie nichts Beachtenswertes, weil du weder ihren Sinn ergründet noch versucht hast, die Absicht der Verfasser zu verstehen\.“
