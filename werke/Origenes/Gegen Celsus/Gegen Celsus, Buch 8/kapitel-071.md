@@ -1,0 +1,10 @@
+# Gegen Celsus, Buch 8 – Kapitel 71: Celsus unterstellt Christen zu Unrecht, nach jeder Niederlage den nächsten Herrscher bekehren zu können
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-8#kapitel-885c0458-708c-4eb0-54cc-08df251685d9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wie gewöhnlich bringt Celsus auch diesmal die Dinge durcheinander und schreibt uns Aussagen zu, die keiner von uns je niedergeschrieben hat\. Seine Worte lauten: „Es ist gewiss unerträglich, dass ihr behauptet, wenn unsere jetzigen Herrscher eure Ansichten annehmen und vom Feind gefangen genommen werden, könntet ihr immer noch diejenigen überzeugen, die nach ihnen herrschen; und wenn auch diese gefangen genommen werden, würdet ihr ihre Nachfolger überzeugen und so fort\. So geht es weiter, bis schließlich, wenn alle, die sich von euch haben überzeugen lassen, gefangen genommen worden sind, ein umsichtiger Herrscher auftreten wird, der voraussieht, was droht, und euch alle restlos vernichten wird, bevor er selbst zugrunde geht\.“ Auf diese Behauptungen braucht man nicht zu antworten\. Denn keiner von uns sagt von unseren jetzigen Herrschern, wenn sie unsere Ansichten annehmen und vom Feind gefangen genommen werden, könnten wir ihre Nachfolger überzeugen; und wenn diese gefangen genommen werden, diejenigen, die nach ihnen kommen, und so immer weiter\. Worauf aber gründet er die Behauptung, dass ein umsichtiger Herrscher auftreten wird, wenn diejenigen, die sich von uns haben überzeugen lassen, nacheinander gefangen genommen worden sind, weil sie den Feind nicht zurückgeschlagen haben, und dass dieser Herrscher voraussehen wird, was droht, und uns restlos vernichten wird? Mir scheint aber, dass es ihm hier Freude macht, den wildesten Unsinn zu erfinden und von sich zu geben\.

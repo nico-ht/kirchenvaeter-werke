@@ -1,0 +1,15 @@
+# Gegen Celsus, Buch 8 – Kapitel 73: Als betende Priester helfen Christen gerechten Königen mehr als Soldaten, ohne selbst Waffen zu tragen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-8#kapitel-ad2cff4c-df4a-40fc-54ce-08df251685d9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Als Nächstes fordert Celsus uns auf, dem König mit aller Kraft zu helfen, gemeinsam mit ihm für die Wahrung der Gerechtigkeit zu arbeiten und für ihn zu kämpfen; wenn er es verlangt, sollen wir auch unter seinem Befehl kämpfen oder gemeinsam mit ihm ein Heer führen\. Darauf antworten wir: Wenn es nötig ist, leisten wir den Königen durchaus Hilfe, und zwar gewissermaßen göttliche Hilfe, indem wir die ganze Waffenrüstung Gottes anlegen[^bible-15a63047-fa3b-455a-ac10-77f3b2b9f970]\. Damit folgen wir der Weisung des Apostels: „Ich ermahne also dazu, vor allem Bitten, Gebete, Fürbitten und Danksagungen für alle Menschen darzubringen, für Könige und für alle, die Macht ausüben\.[^bible-61353768-4c60-4e0f-bdcc-bbff49d83626]“ Je mehr sich jemand durch Frömmigkeit auszeichnet, desto wirksamer hilft er den Königen, mehr noch als die Soldaten, die ausziehen, um zu kämpfen und so viele Feinde wie möglich zu töten\. Den Feinden unseres Glaubens, die von uns verlangen, für das Gemeinwesen die Waffen zu ergreifen und Menschen zu töten, können wir erwidern: „Halten nicht die Priester bestimmter Heiligtümer und diejenigen, die gewissen Wesen dienen, die ihr für Götter haltet, ihre Hände frei von Blut, um euren Göttern die vorgeschriebenen Opfer mit unbefleckten Händen darzubringen, an denen kein Menschenblut haftet? Selbst wenn ihr im Krieg steht, zieht ihr die Priester niemals zum Heeresdienst ein\.“ Wenn das nun ein lobenswerter Brauch ist, wie viel mehr ist es dann zu loben, wenn diese, während andere in der Schlacht stehen, ihrerseits als Priester und Diener Gottes kämpfen, ihre Hände rein halten und im Gebet zu Gott für diejenigen ringen, die für eine gerechte Sache kämpfen, und für den König, der gerecht regiert, damit alles vernichtet wird, was sich denen entgegenstellt, die gerecht handeln\! Da wir durch unsere Gebete alle Dämonen besiegen, die Krieg schüren, zum Eidbruch verleiten und den Frieden stören, helfen wir den Königen auf diese Weise weit mehr als diejenigen, die für sie ins Feld ziehen\. Wir beteiligen uns durchaus auch an den öffentlichen Angelegenheiten, indem wir mit gerechten Gebeten Übungen im Verzicht und Betrachtungen verbinden, die uns lehren, Vergnügungen zu verachten und uns nicht von ihnen fortreißen zu lassen\. Niemand kämpft besser für den König als wir\. Zwar kämpfen wir nicht unter seinem Befehl, auch wenn er es verlangt; aber wir kämpfen für ihn, indem wir durch unsere Gebete zu Gott ein eigenes Heer bilden, ein Heer der Frömmigkeit\.
+
+## Bibelverweise
+
+[^bible-15a63047-fa3b-455a-ac10-77f3b2b9f970]: Eph 6,11
+[^bible-61353768-4c60-4e0f-bdcc-bbff49d83626]: 1Tim 2,1–1Tim 2,2

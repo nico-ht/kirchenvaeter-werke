@@ -1,0 +1,17 @@
+# Gegen Celsus, Buch 8 – Kapitel 43: Jesu freiwilliger Tod trägt Frucht; Dämonen verfolgen Christen, weil diese sie vertreiben
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-8#kapitel-6005d789-2ffc-480e-ca89-08df20dba24b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Seit Jesus gelitten hat, ist also etwas Neues geschehen\. Ich meine damit das, was der Stadt und dem ganzen Volk widerfahren ist, und die christliche Gemeinschaft, die plötzlich überall entstanden ist\. Neu ist auch, dass diejenigen, die den Bünden Gottes fremd waren und an seinen Verheißungen keinen Anteil hatten[^bible-107246e8-7efb-4ad2-88b2-a0cb96e113a4] und der Wahrheit fern waren, nun durch göttliche Kraft die Wahrheit annehmen konnten\. Das war nicht das Werk eines Betrügers, sondern das Werk Gottes, der sein Wort, Jesus Christus, sandte, um seine Pläne bekannt zu machen\. Die Leiden und der Tod, die Jesus mit solcher Standhaftigkeit und Sanftmut ertrug, zeigen die Grausamkeit und Ungerechtigkeit derer, die sie ihm zufügten\. Doch machten sie die Verkündigung der Pläne Gottes nicht zunichte; vielmehr trugen sie, wenn wir so sagen dürfen, dazu bei, diese bekannt zu machen\. Denn Jesus selbst lehrte uns dies, als er sagte: „Wenn ein Weizenkorn nicht in die Erde fällt und stirbt, bleibt es allein; wenn es aber stirbt, bringt es viel Frucht\.[^bible-9af5c22b-ebe7-4b6b-bae8-213b09b6b6f3]“ Jesus, der dieses Weizenkorn ist, starb also und brachte viel Frucht[^bible-9af5c22b-ebe7-4b6b-bae8-213b09b6b6f3]\. Und der Vater sieht stets den Wirkungen entgegen, die sich aus dem Tod des Weizenkorns[^bible-9af5c22b-ebe7-4b6b-bae8-213b09b6b6f3] ergeben, sowohl den jetzigen als auch den künftigen\. Der Vater Jesu ist also ein zärtlicher und liebender Vater, obwohl er seinen eigenen Sohn nicht verschonte, sondern ihn als sein Lamm für uns alle hingab[^bible-7dec902e-15bf-4ea7-b71d-2447118ad16f], damit so das Lamm Gottes[^bible-89f695e0-d6f5-458c-b7c0-42a18e2e2c86] durch seinen Tod für alle Menschen die Sünde der Welt wegnähme[^bible-89f695e0-d6f5-458c-b7c0-42a18e2e2c86]\. Nicht unter Zwang, sondern freiwillig ertrug er also die Schmähungen derer, die ihn beschimpften\. Dann kommt Celsus auf diejenigen zurück, die die Götterbilder beschimpfen, und sagt: „Von denen, die ihr mit Schmähungen überhäuft, könnt ihr ebenso sagen, dass sie sich freiwillig einer solchen Behandlung unterwerfen und deshalb die Schmähungen geduldig ertragen; denn am besten behandelt man beide Seiten gleich\. Doch diese bestrafen den Spötter schwer, sodass er entweder fliehen und sich verstecken oder aber gefasst werden und umkommen muss\.“ Die Christen ziehen sich also nicht deshalb die Rache der Dämonen zu, weil sie diese beschimpfen, sondern weil sie sie aus den Götterbildern und aus den Körpern und Seelen der Menschen vertreiben\. Hier hat Celsus, ohne es zu merken, etwas ausgesprochen, das der Wahrheit nahekommt\. Denn tatsächlich sind die Seelen derer, die Christen verurteilen und verraten und sich an ihrer Verfolgung freuen, von bösen Dämonen erfüllt\.
+
+## Bibelverweise
+
+[^bible-107246e8-7efb-4ad2-88b2-a0cb96e113a4]: Eph 2,12
+[^bible-7dec902e-15bf-4ea7-b71d-2447118ad16f]: Röm 8,32
+[^bible-89f695e0-d6f5-458c-b7c0-42a18e2e2c86]: Joh 1,29
+[^bible-9af5c22b-ebe7-4b6b-bae8-213b09b6b6f3]: Joh 12,24

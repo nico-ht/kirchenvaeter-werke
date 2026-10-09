@@ -1,0 +1,17 @@
+# Gegen Celsus, Buch 8 – Kapitel 41: Christliche Sanftmut verbietet es, selbst böse Menschen oder Dämonen zu beschimpfen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-8#kapitel-03d5743a-a203-47e9-ca88-08df20dba24b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Dann schimpft er weiter über uns wie alte Weiber\. „Ihr“, sagt er, „verspottet und beschimpft die Standbilder unserer Götter\. Hättet ihr aber Bacchus oder Herkules persönlich beschimpft, wärt ihr vielleicht nicht ungestraft davongekommen\. Diejenigen dagegen, die euren Gott kreuzigten, als er unter den Menschen war, mussten dafür nichts erleiden, weder damals noch während ihres ganzen Lebens\. Und was ist seitdem Neues geschehen, das uns glauben lassen könnte, er sei kein Betrüger, sondern der Sohn Gottes gewesen? Und wahrhaftig, derjenige, der seinen Sohn mit bestimmten Weisungen für die Menschheit sandte, ließ zu, dass man ihn so grausam behandelte und seine Weisungen mit ihm untergingen, ohne in all dieser langen Zeit jemals auch nur die geringste Anteilnahme zu zeigen\. Welcher Vater war je so unmenschlich? Vielleicht sagt ihr freilich, er habe deshalb so viel gelitten, weil er ertragen wollte, was ihm widerfuhr\. Doch auch diejenigen, die ihr böswillig beschimpft, können sich derselben Worte bedienen und sagen, sie wollten beschimpft werden und ertrügen es deshalb geduldig\. Denn am besten behandelt man beide Seiten gleich\. Allerdings bestrafen diese Götter den Spötter hart, sodass er entweder fliehen und sich verstecken muss oder ergriffen wird und umkommt\.“ Darauf möchte ich antworten, dass wir niemanden beschimpfen\. Denn wir glauben, dass Menschen, die andere beschimpfen, das Reich Gottes nicht erben werden[^bible-5ece9a91-c440-4c96-8580-00ae844192d7]\. Und wir lesen: „Segnet die, die euch verfluchen[^bible-e47603c5-e6a4-45e6-98c3-8f541274ee42]; segnet und verflucht nicht\.[^bible-1180e7c9-2977-488b-9cc3-9e0d8e8c4743]“ Ebenso: „Wenn wir beschimpft werden, segnen wir\.[^bible-537aa4cb-02cf-4caa-b7fc-d167e4b4c986]“ Selbst wenn das Unrecht, das uns ein anderer zugefügt hat, die Beschimpfungen, mit denen wir ihn überhäufen, einigermaßen zu entschuldigen scheint, erlaubt uns Gottes Wort solche Beschimpfungen nicht\. Wie viel mehr sollten wir darauf verzichten, andere zu beschimpfen, wenn wir bedenken, welch große Dummheit das ist\! Ebenso dumm ist es, Stein, Gold oder Silber zu beschimpfen, denen Menschen ohne Gotteserkenntnis die vermeintliche Gestalt Gottes gegeben haben\. Deshalb verspotten wir nicht die leblosen Abbilder, sondern nur diejenigen, die sie anbeten\. Und wenn in bestimmten Abbildern bestimmte Dämonen wohnen und der eine als Bacchus, der andere als Herkules gilt, beschimpfen wir sie nicht\. Denn zum einen wäre das nutzlos; zum anderen gehört sich das nicht für jemanden, der sanftmütig und friedfertig und von milder Gesinnung ist und gelernt hat, dass man weder einen Menschen noch einen Dämon beschimpfen darf, wie böse er auch sein mag\.
+
+## Bibelverweise
+
+[^bible-1180e7c9-2977-488b-9cc3-9e0d8e8c4743]: Röm 12,14
+[^bible-537aa4cb-02cf-4caa-b7fc-d167e4b4c986]: 1Kor 4,12
+[^bible-5ece9a91-c440-4c96-8580-00ae844192d7]: 1Kor 6,10
+[^bible-e47603c5-e6a4-45e6-98c3-8f541274ee42]: Lk 6,28

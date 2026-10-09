@@ -1,0 +1,16 @@
+# Gegen Celsus, Buch 8 – Kapitel 42: Jerusalems Zerstörung widerlegt Celsus’ Behauptung, Jesu Tötung sei ungestraft geblieben
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-8#kapitel-46603dc1-6a28-4219-4d51-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Seltsamerweise hat sich Celsus in einen Widerspruch verwickelt, ohne es zu bemerken\. Die Dämonen oder Götter, die er kurz zuvor noch gepriesen hat, stellt er nun als die in Wahrheit niederträchtigsten Geschöpfe dar: Sie strafen diejenigen, die sie beschimpfen, eher um sich selbst zu rächen, als um sie zu bessern\. Er sagt: „Wenn ihr Bacchus oder Herkules beschimpft hättet und sie dabei persönlich anwesend gewesen wären, wärt ihr nicht ungestraft davongekommen\.“ Wie jemand hören kann, ohne persönlich anwesend zu sein, mag erklären, wer will; ebenso mag er die weiteren Fragen beantworten: „Warum ist er manchmal anwesend und manchmal abwesend?“ und: „Welche Geschäfte führen die Dämonen von einem Ort zum anderen?“ Wenn er dann sagt: „Diejenigen, die euren Gott selbst gekreuzigt haben, erlitten deswegen keinen Schaden“, unterstellt er, dass wir den Leib Jesu, der am Kreuz ausgestreckt und getötet wurde, Gott nennen, nicht seine göttliche Natur, und dass Jesus als Gott gekreuzigt und getötet wurde\. Da wir bereits ausführlich über die Leiden gesprochen haben, die Jesus als Mensch erduldet hat, wollen wir hier bewusst nichts weiter dazu sagen, um uns nicht zu wiederholen\. Doch wenn er weiter behauptet, diejenigen, die Jesus getötet hatten, hätten auch in der langen Zeit danach nichts zu leiden gehabt, müssen wir ihm und allen, die die Wahrheit erfahren wollen, Folgendes sagen: In jener Stadt forderte das jüdische Volk die Kreuzigung Jesu[^bible-1962ee9c-6494-4ad0-b39f-0fbee3bee73d] und schrie: „Kreuzige ihn, kreuzige ihn\![^bible-1962ee9c-6494-4ad0-b39f-0fbee3bee73d]“ Es wollte lieber den Räuber freigelassen sehen, der wegen Aufruhrs und Mordes ins Gefängnis geworfen worden war[^bible-a2de59c3-ef62-444f-9813-006da4f32fa1], während es Jesus, der aus Neid ausgeliefert worden war, gekreuzigt sehen wollte[^bible-99d893bd-a17b-40af-a87e-8cd4e1f06e8e]\. Diese Stadt wurde nicht lange danach angegriffen und nach langer Belagerung vollständig zerstört und verwüstet\. Denn Gott hielt die Bewohner dieses Ortes nicht für würdig, als Bürger zusammenzuleben\. Und doch schonte Gott dieses Volk, indem er es seinen Feinden auslieferte, auch wenn das unglaublich klingen mag\. Denn er sah, dass ihre Abneigung gegen jede Besserung unheilbar war und sie Tag für Tag tiefer und tiefer ins Böse sanken\. All das widerfuhr ihnen, weil das Blut Jesu auf ihr Betreiben und in ihrem Land vergossen worden war; und das Land konnte diejenigen nicht länger tragen, die sich eines so furchtbaren Verbrechens an Jesus schuldig gemacht hatten\.
+
+## Bibelverweise
+
+[^bible-1962ee9c-6494-4ad0-b39f-0fbee3bee73d]: Lk 23,21
+[^bible-99d893bd-a17b-40af-a87e-8cd4e1f06e8e]: Mt 27,18; Mt 27,22–Mt 27,23
+[^bible-a2de59c3-ef62-444f-9813-006da4f32fa1]: Lk 23,19; Lk 23,25

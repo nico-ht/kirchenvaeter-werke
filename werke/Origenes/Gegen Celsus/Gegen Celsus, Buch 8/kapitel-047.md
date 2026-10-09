@@ -1,0 +1,14 @@
+# Gegen Celsus, Buch 8 – Kapitel 47: Die Entstehung der christlichen Gemeinschaft spricht für die Wunderkraft Jesu und seiner Apostel
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-8#kapitel-8894aeb4-b8ed-457e-4d54-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Aber die Griechen werden sagen, diese Berichte seien erdichtet, obwohl zwei ganze Völker ihre Wahrheit bezeugen\. Doch warum sollten wir nicht eher die Berichte der Griechen für erdichtet halten als jene? Vielleicht würde aber jemand, der nicht den Eindruck erwecken möchte, die eigenen Berichte blindlings anzunehmen und die anderer zu verwerfen, nach eingehender Prüfung zu folgendem Schluss kommen: Die von den Griechen erwähnten Wunder wurden von gewissen Dämonen vollbracht, die unter den Juden von Propheten oder Engeln oder von Gott durch Engel und die von den Christen überlieferten von Jesus selbst oder durch seine Kraft, die in seinen Aposteln wirkte\. Vergleichen wir also all diese Berichte miteinander; prüfen wir Ziel und Absicht derer, die diese Wunder vollbrachten, und fragen wir, welche Wirkung diese Wohltaten auf die Menschen hatten, denen sie galten: ob sie ihnen nützten, schadeten oder weder das eine noch das andere bewirkten\. Das alte jüdische Volk muss offenbar ein Volk von großer Weisheit gewesen sein, bevor es gegen Gott sündigte und wegen seiner großen Bosheit von ihm verstoßen wurde\. Die Christen aber, die sich auf so wunderbare Weise zu einer Gemeinschaft zusammengeschlossen haben, scheinen anfangs eher durch Wunder als durch Ermahnungen dazu bewogen worden zu sein, die Ordnungen ihrer Väter aufzugeben und andere anzunehmen, die ihnen völlig fremd waren\. Und tatsächlich: Wenn wir bei der Frage nach den ersten Anfängen der christlichen Gemeinschaft von dem ausgingen, was wahrscheinlich ist, müssten wir sagen: Es ist nicht glaubhaft, dass die Apostel Jesu Christi, die ungebildete Männer aus einfachen Verhältnissen[^bible-b2a96861-fbf5-40aa-af0c-6e42f7deb784] waren, durch etwas anderes den Mut gefunden haben könnten, den Menschen die christliche Wahrheit zu verkünden, als durch die ihnen verliehene Kraft und die Gnade, die ihre Worte begleitete und ihnen Wirksamkeit verlieh\. Auch ihre Zuhörer hätten die althergebrachten Bräuche ihrer Väter nicht aufgegeben und sich nicht dazu bewegen lassen, Vorstellungen anzunehmen, die sich so sehr von denen unterschieden, mit denen sie aufgewachsen waren, wenn nicht eine außergewöhnliche Kraft und die Macht der Wunder sie dazu bewogen hätten\.
+
+## Bibelverweise
+
+[^bible-b2a96861-fbf5-40aa-af0c-6e42f7deb784]: Apg 4,13

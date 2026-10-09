@@ -1,0 +1,14 @@
+# Gegen Celsus, Buch 8 – Kapitel 20: Christen lehnen heidnische Kultformen ab, weil Christus allein den Weg wahrer Gottesverehrung weist
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-8#kapitel-c02f284a-d6c8-4251-ca87-08df20dba24b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Unter den Gerechten sind also die einen Karfunkel, andere Saphire, andere Jaspisse und wieder andere Kristalle; so findet sich unter den Gerechten jede Art erlesener und kostbarer Steine\. Bei der geistlichen Bedeutung der verschiedenen Steine können wir uns jetzt nicht aufhalten: Wir können hier nicht untersuchen, welcher Art sie sind und auf welche Art von Seele der Name jedes Edelsteins besonders zutrifft\. Wir hielten es nur für nötig, so in Kürze darzulegen, was wir unter Tempeln verstehen und was der eine, aus kostbaren Steinen erbaute Tempel Gottes in Wahrheit bedeutet\. Denn wenn zwischen einigen Städten ein Streit darüber entstünde, welche von ihnen die schönsten Tempel habe, würden diejenigen, die ihre eigenen für die besten halten, alles daransetzen, den Vorzug ihrer Tempel und die Unterlegenheit der anderen zu zeigen\. Ebenso halten wir denen, die uns vorwerfen, dass wir es nicht für nötig halten, zur Verehrung des göttlichen Wesens leblose Tempel zu errichten, unsere Tempel entgegen\. Zumindest denen, die nicht blind und vernunftlos sind wie ihre vernunftlosen Götter, zeigen wir: Unsere Standbilder lassen sich mit denen der Heiden nicht vergleichen, ebenso wenig unsere Altäre samt dem, was wir den von ihnen aufsteigenden Weihrauch nennen dürfen, mit den heidnischen Altären samt dem Fett und Blut der Opfertiere\. Und schließlich lassen sich auch die Tempel vernunftloser Götter, die von vernunftlosen Menschen ohne göttliche Fähigkeit zur Wahrnehmung Gottes bewundert werden, nicht mit den Tempeln, Standbildern und Altären vergleichen, die Gottes würdig sind\. Es stimmt also nicht, dass wir den Bau von Altären, Standbildern und Tempeln ablehnen, weil wir vereinbart hätten, dies zum Kennzeichen einer geheimen und verbotenen Gemeinschaft zu machen\. Vielmehr tun wir es, weil wir von Jesus Christus gelernt haben, wie man Gott wahrhaft dient, und alles scheuen, was unter dem Vorwand der Frömmigkeit diejenigen in völlige Gottlosigkeit führt, die den Weg verlassen, den Jesus Christus uns gewiesen hat\. Denn er allein ist der Weg der Frömmigkeit, wie er wahrheitsgemäß gesagt hat: „Ich bin der Weg, die Wahrheit, das Leben\.[^bible-2e3fbd3f-4042-4cf2-804c-69d223d681f4]“
+
+## Bibelverweise
+
+[^bible-2e3fbd3f-4042-4cf2-804c-69d223d681f4]: Joh 14,6

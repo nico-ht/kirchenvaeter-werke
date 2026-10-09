@@ -1,0 +1,16 @@
+# Gegen Celsus, Buch 8 – Kapitel 30: Christlicher Fleischverzicht gründet auf Dämonenmeidung und Maßhalten, nicht auf dem Glauben an Seelenwanderung
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-8#kapitel-83dbc7ff-a8af-4199-4d47-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Denn was den Götzen dargebracht wird, wird Dämonen geopfert, und ein Mensch Gottes darf nicht am Tisch der Dämonen speisen[^bible-4059a586-df61-4976-abeb-201b528a161c]\. Die Schrift verbietet uns, Ersticktes zu essen[^bible-321ff268-4a39-4d12-8f85-8435d33acb09], weil noch Blut darin ist; Blut aber, insbesondere der Geruch, der davon aufsteigt, gilt als Nahrung der Dämonen\. Wenn wir erstickte Tiere essen würden, könnten solche Geister also vielleicht mit uns speisen\. Und der Grund, der den Verzehr erstickter Tiere verbietet, gilt ebenso für den Genuss von Blut\. In diesem Zusammenhang ist es wohl angebracht, an einen schönen Ausspruch aus den Schriften des Sextus zu erinnern, der den meisten Christen bekannt ist: „Tiere zu essen“, sagt er, „ist ohne Belang; doch auf sie zu verzichten entspricht eher der Vernunft\.“ Wir verzichten also nicht einfach wegen einiger Überlieferungen unserer Väter darauf, von den Opfertieren für die sogenannten Götter, Heroen oder Dämonen zu essen, sondern aus anderen Gründen, von denen ich hier einige genannt habe\. Man darf jedoch nicht annehmen, dass wir uns des Fleisches von Tieren in gleicher Weise enthalten sollen, wie wir verpflichtet sind, uns von allem Wettstreit und aller Bosheit fernzuhalten\. Allerdings sollen wir nicht nur auf das Fleisch von Tieren, sondern auf jede andere Art von Nahrung verzichten, wenn wir sie nicht zu uns nehmen können, ohne uns Böses und dessen Folgen zuzuziehen\. Denn wir sollen nicht aus Völlerei essen oder allein, um den Appetit zu befriedigen, ohne auf die Gesundheit und die Erhaltung des Körpers zu achten\. Wir glauben nicht, dass Seelen von einem Körper in einen anderen übergehen und so tief herabsinken können, dass sie in die Körper unvernünftiger Tiere eingehen\. Wenn wir zeitweise kein Fleisch von Tieren essen, tun wir das also offensichtlich nicht aus demselben Grund wie Pythagoras\. Denn wir ehren allein die vernunftbegabte Seele und bestatten ihre körperlichen Organe mit den gebührenden Ehren\. Es ist nämlich nicht recht, die Wohnstätte der vernunftbegabten Seele wie die Kadaver unvernünftiger Tiere irgendwo achtlos hinzuwerfen\. Das gilt umso mehr, als wir glauben, dass die Achtung vor dem Körper zur Ehre des Menschen beiträgt, der von Gott eine Seele empfangen hat, die die Organe des Körpers, in dem sie wohnte, auf edle Weise gebraucht hat\. Die Frage „Wie werden die Toten auferweckt, und mit welchem Körper kommen sie?[^bible-91129497-d753-4ae3-9b06-c2f0223828c4]“ haben wir bereits kurz beantwortet, soweit es unsere Absicht erforderte\.
+
+## Bibelverweise
+
+[^bible-321ff268-4a39-4d12-8f85-8435d33acb09]: Apg 15,29
+[^bible-4059a586-df61-4976-abeb-201b528a161c]: 1Kor 10,20–1Kor 10,21
+[^bible-91129497-d753-4ae3-9b06-c2f0223828c4]: 1Kor 15,35

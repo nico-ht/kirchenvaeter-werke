@@ -1,0 +1,17 @@
+# Gegen Celsus, Buch 8 – Kapitel 69: Ein christliches Rom würde durch einmütiges Gebet siegen – Gottes Zusagen setzen Gesetzestreue voraus
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-8#kapitel-7d5563ef-6223-4cca-4d68-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Celsus fährt nun fort, als bemerkte er nicht, dass er seinen eben gebrauchten Worten „wenn alle so handeln würden wie ihr“ widerspricht: „Ihr behauptet sicher nicht, dass der Höchste, oder wie immer ihr ihn nennen wollt, herabkommen und für die Römer kämpfen wird, wenn sie eurem Wunsch entsprechend ihre herkömmlichen Pflichten gegenüber Göttern und Menschen vernachlässigen und ihn anbeten, sodass sie außer seiner Hilfe keine andere mehr brauchen\. Denn derselbe Gott hat, wie ihr selbst sagt, einst denen, die ihm dienten, dies und noch viel mehr versprochen\. Und seht, wie er ihnen und euch geholfen hat\! Statt Herren der ganzen Welt zu sein, ist ihnen nicht einmal ein Fleckchen Erde oder ein Zuhause geblieben\. Und was euch betrifft: Wenn einer von euch eine Übertretung begeht, und sei es im Verborgenen, wird er aufgespürt und mit dem Tod bestraft\.“ Die aufgeworfene Frage lautet also: „Was würde geschehen, wenn sich die Römer davon überzeugen ließen, die Grundsätze der Christen anzunehmen, die Pflichten gegenüber den anerkannten Göttern und den Menschen zu verachten und den Höchsten anzubeten?“ Darauf antworte ich: Wir sagen, dass der Vater der Gerechten im Himmel zwei von uns, wenn sie auf Erden in irgendeiner Bitte übereinstimmen, diese Bitte erfüllen wird[^bible-868b2f2e-e0e5-4d9b-95e6-004b9d2b1ebb]; denn Gott freut sich über die Eintracht vernunftbegabter Wesen und wendet sich von der Zwietracht ab\. Und was dürfen wir erwarten, wenn nicht nur wie gegenwärtig ganz wenige einig sind, sondern das ganze Römische Reich? Denn sie werden zum Wort beten, das einst zu den Hebräern sagte, als sie von den Ägyptern verfolgt wurden[^bible-31af5d7e-fe5b-4785-9ff9-cb55c8752ec4]: „Der Herr wird für euch kämpfen, und ihr werdet schweigen\.[^bible-1102cb96-be6b-4182-9f63-d345e88155b5]“ Und wenn sie sich alle einmütig im Gebet vereinen, werden sie weit mehr Feinde in die Flucht schlagen können als jene, die dem Gebet des Mose, der zum Herrn schrie, und dem Gebet derer, die mit ihm beteten, unterlagen[^bible-dabbcbe1-291e-4a03-bc28-f6616b27a4cb]\. Wenn nun nicht eingetreten ist, was Gott denen verheißen hat, die sein Gesetz halten, darf man den Grund dafür nicht in Gottes Untreue suchen\. Vielmehr hatte er die Erfüllung seiner Verheißungen an bestimmte Bedingungen geknüpft, nämlich daran, dass sie sein Gesetz befolgten und danach lebten\. Wenn den Juden also weder ein Stück Land noch eine Wohnstätte geblieben ist, obwohl sie diese an Bedingungen geknüpften Verheißungen empfangen hatten, ist dies allein ihren Verbrechen zuzuschreiben, insbesondere der Schuld, die sie durch ihre Behandlung Jesu auf sich geladen haben\.
+
+## Bibelverweise
+
+[^bible-1102cb96-be6b-4182-9f63-d345e88155b5]: Ex 14,14
+[^bible-31af5d7e-fe5b-4785-9ff9-cb55c8752ec4]: Ex 14,9
+[^bible-868b2f2e-e0e5-4d9b-95e6-004b9d2b1ebb]: Mt 18,19
+[^bible-dabbcbe1-291e-4a03-bc28-f6616b27a4cb]: Ex 14,15–Ex 14,28
