@@ -1,0 +1,10 @@
+# Gegen Celsus, Buch 7 – Kapitel 56
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-7#kapitel-bcdc12eb-f76d-47ee-b672-08df200a66bf).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Celsus fügt dann hinzu, ich weiß nicht, aus welchem Grund, wir hätten diese Ehre besser der Sibylle geben sollen, statt Jesus den Sohn Gottes zu nennen\. Er behauptet, wir hätten in ihre Bücher viele gottlose Aussagen eingefügt, nennt aber keine dieser Einfügungen\. Er hätte seine Behauptung beweisen können, indem er ältere Abschriften vorlegte, in denen die uns zugeschriebenen Einfügungen fehlen\. Doch er tut es nicht einmal, um seine Behauptung zu rechtfertigen, diese Stellen seien gottlos\. Auch bezeichnet er das Leben Jesu wieder als ein höchst schändliches Leben, wie schon zuvor, nicht nur ein\- oder zweimal, sondern vielfach; doch nennt er keine Handlung seines Lebens, die er für besonders schändlich hält\. Offenbar meint er, auf diese Weise ohne Beweise Behauptungen aufstellen und einen Menschen schmähen zu dürfen, von dem er nichts weiß\. Hätte er gezeigt, welche Schändlichkeit er in Jesu Handlungen findet, hätten wir die einzelnen Anschuldigungen gegen ihn zurückgewiesen\. Jesus erlitt zwar einen äußerst traurigen Tod; dasselbe lässt sich aber von Sokrates, von dem eben erwähnten Anaxarchos und von vielen anderen sagen\. War Jesu Tod elend, war es dann nicht auch der Tod der anderen? Und wenn deren Tod nicht elend war, lässt sich dann Jesu Tod so nennen? Ihr seht also, dass Celsus den Charakter Jesu verunglimpfen will\. Ich kann nur annehmen, dass ihn dazu ein Geist treibt, der jenen verwandt ist, deren Macht Jesus gebrochen und besiegt hat und der sich nun des Rauchs und Blutes beraubt sieht, von denen er lebte, während er diejenigen täuschte, die Gott hier auf Erden in Bildern \(ἀγάλμασι\) suchten, statt zum wahren Gott aufzublicken, dem Herrscher über alles\.

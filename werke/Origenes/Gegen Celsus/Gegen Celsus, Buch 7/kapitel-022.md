@@ -1,0 +1,18 @@
+# Gegen Celsus, Buch 7 – Kapitel 22: Die Vernichtung der Feinde bedeutet, Laster und sündige Gedanken schon im Entstehen zu überwinden
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-7#kapitel-648cf9b2-3e72-4031-4bfe-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn ich nun erklären soll, wie der Gerechte seine Feinde erschlägt und überall siegt, ist Folgendes zu beachten: Wenn er sagt: „Jeden Morgen werde ich die Frevler des Landes vernichten, um alle, die Unrecht tun, aus der Stadt Jehovas auszurotten[^bible-d72ff0c0-cc11-4eec-b234-ac8e797c347b]“, meint er mit dem Land[^bible-d72ff0c0-cc11-4eec-b234-ac8e797c347b] das Fleisch, dessen Begierden in Feindschaft mit Gott stehen\. Mit der Stadt Jehovas[^bible-d72ff0c0-cc11-4eec-b234-ac8e797c347b] bezeichnet er seine eigene Seele, in der sich der Tempel Gottes befand\. Dieser birgt die wahre Vorstellung und den wahren Begriff von Gott in sich und wird deshalb von allen bewundert, die ihn betrachten\. Sobald nun die Strahlen der Sonne der Gerechtigkeit[^bible-67493c01-fbea-4bf0-a19d-1374a37ce679] in seine Seele scheinen, fühlt er sich durch ihre Wirkung gestärkt und belebt\. Er macht sich daran, alle Begierden des Fleisches zu vernichten, die als „die Frevler des Landes[^bible-d72ff0c0-cc11-4eec-b234-ac8e797c347b]“ bezeichnet werden, und vertreibt aus der Stadt des Herrn[^bible-d72ff0c0-cc11-4eec-b234-ac8e797c347b], die sich in seiner Seele befindet, alle Gedanken, die Unrecht hervorbringen, und alle Eingebungen, die der Wahrheit entgegenstehen\. Auf diese Weise geben die Gerechten auch alle ihre Feinde, nämlich ihre Laster, der Vernichtung preis\. Dabei verschonen sie nicht einmal die Kinder, das heißt die ersten Anfänge und Regungen des Bösen\. In diesem Sinne verstehen wir auch die Worte des 137\. Psalms: „O Tochter Babylon, die du vernichtet werden sollst\! Glücklich, wer dir vergilt, wie du an uns gehandelt hast; glücklich, wer deine kleinen Kinder ergreift und an den Steinen zerschmettert\.[^bible-40f91156-2d7d-49d8-86af-62caf5e2fa79]“ Denn die kleinen Kinder Babylons[^bible-35dd151a-ee6d-4388-a015-57ea17cead07] \(Babylon bedeutet Verwirrung\) sind jene bedrängenden, sündigen Gedanken, die in der Seele aufkommen\. Wer sie bezwingt, indem er ihre Köpfe gleichsam gegen die feste und unerschütterliche Kraft der Vernunft und der Wahrheit schlägt, ist derjenige, der die kleinen Kinder an den Steinen zerschmettert[^bible-35dd151a-ee6d-4388-a015-57ea17cead07]; und deshalb ist er wahrhaft selig\. Gott kann also den Menschen geboten haben, alle ihre Laster schon bei deren Geburt restlos zu vernichten, ohne damit etwas angeordnet zu haben, das der Lehre Christi widerspricht\. Und er kann selbst vor den Augen derer, die innerlich Juden[^bible-a41967a3-f040-4f7b-acd5-aac6d83c8461] waren, die gesamte Nachkommenschaft des Bösen als seine Feinde vernichtet haben\. Ebenso lassen sich diejenigen, die dem Gesetz und dem Wort Gottes nicht gehorchen, durchaus mit seinen Feinden vergleichen, die von der Sünde irregeführt wurden\. Und man kann mit Recht sagen, dass sie dasselbe Schicksal erleiden, das diejenigen verdienen, die sich als Verräter an der Wahrheit Gottes erwiesen haben\.
+
+## Bibelverweise
+
+[^bible-35dd151a-ee6d-4388-a015-57ea17cead07]: Ps 136,9
+[^bible-40f91156-2d7d-49d8-86af-62caf5e2fa79]: Ps 136,8–Ps 136,9
+[^bible-67493c01-fbea-4bf0-a19d-1374a37ce679]: Mal 4,2
+[^bible-a41967a3-f040-4f7b-acd5-aac6d83c8461]: Röm 2,29
+[^bible-d72ff0c0-cc11-4eec-b234-ac8e797c347b]: Ps 100,8

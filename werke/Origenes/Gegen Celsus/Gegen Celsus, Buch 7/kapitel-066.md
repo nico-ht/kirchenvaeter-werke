@@ -1,0 +1,15 @@
+# Gegen Celsus, Buch 7 – Kapitel 66: Auch vorgetäuschte Bilderverehrung fördert Götzenglauben – Gottesähnlichkeit liegt in der tugendhaften Seele
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-7#kapitel-0fdb69ce-c1ae-478f-54c9-08df251685d9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Der Vorwurf der Dummheit trifft nicht nur diejenigen, die Gebete an Abbilder richten, sondern auch jene, die nur so tun, um dem Beispiel der Menge zu folgen\. Zu ihnen gehören die peripatetischen Philosophen und die Anhänger Epikurs und Demokrits\. Denn in einer Seele, die von wahrer Frömmigkeit gegenüber Gott erfüllt ist, gibt es weder Falschheit noch Verstellung\. Ein weiterer Grund, weshalb wir Abbildern keine Ehre erweisen, ist, dass wir der Vorstellung keinen Vorschub leisten wollen, diese Abbilder seien Götter\. Deshalb verurteilen wir Celsus und alle anderen, die zwar zugeben, dass die Abbilder keine Götter sind, ihnen aber dennoch etwas erweisen, was als Verehrung gilt, und dabei im Ruf stehen, weise Männer zu sein\. So verführen sie die Menge zur Sünde: Sie folgt ihrem Beispiel und betet diese Abbilder nicht lediglich aus Achtung vor dem Herkommen an, sondern weil sie dem Glauben verfallen ist, es seien wahre Götter und man dürfe nicht auf diejenigen hören, die bestreiten, dass die Gegenstände ihrer Anbetung wahre Götter sind\. Celsus sagt zwar, sie hielten die Abbilder nicht für Götter, sondern nur für Weihgaben an die Götter\. Doch er beweist nicht, dass sie nicht vielmehr Menschen geweiht sind, statt, wie er sagt, den Göttern selbst zur Ehre zu dienen\. Denn offensichtlich sind es Weihgaben von Menschen, die über das göttliche Wesen irrige Vorstellungen hatten\. Wir halten diese Abbilder auch nicht für Darstellungen Gottes, denn sie können ein unsichtbares und unkörperliches Wesen nicht darstellen\. Celsus meint nun, wir gerieten in einen Widerspruch, weil wir einerseits sagen, dass Gott keine menschliche Gestalt hat, und uns andererseits zu dem Glauben bekennen, dass Gott den Menschen zu seinem eigenen Bild gemacht und den Menschen als Bild Gottes geschaffen hat[^bible-cc5abe8f-8a9e-43f8-8216-700672d4ee3c]\. Darauf antworten wir wie schon zuvor: Nach unserer Auffassung bleibt die Ähnlichkeit mit Gott in der vernunftbegabten Seele bewahrt, die zur Tugend geformt wird\. Celsus erkennt jedoch nicht den Unterschied zwischen dem Bild Gottes und dem, was nach dem Bild Gottes geschaffen ist[^bible-cc5abe8f-8a9e-43f8-8216-700672d4ee3c], und unterstellt uns die Aussage: „Gott hat den Menschen zu seinem eigenen Bild gemacht und ihm eine Gestalt gegeben, die seiner eigenen gleicht\.[^bible-df89cb55-3f13-4ec2-b6bb-057f9d79fab6]“ Aber auch das ist bereits zuvor untersucht worden\.
+
+## Bibelverweise
+
+[^bible-cc5abe8f-8a9e-43f8-8216-700672d4ee3c]: Gen 1,27
+[^bible-df89cb55-3f13-4ec2-b6bb-057f9d79fab6]: Gen 1,26–Gen 1,27

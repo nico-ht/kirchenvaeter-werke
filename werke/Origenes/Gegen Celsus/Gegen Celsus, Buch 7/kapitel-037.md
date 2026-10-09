@@ -1,0 +1,14 @@
+# Gegen Celsus, Buch 7 – Kapitel 37: Die Sinne sind der Ausgangspunkt der Erkenntnis, die zur Einsicht in das Unsichtbare fortschreiten soll
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-7#kapitel-c1ec9865-63ff-4d1d-4c43-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn damit nun zutreffend beschrieben ist, was den richtigen und den falschen Gebrauch der Figurenrede ausmacht, haben wir dann nicht Grund, Celsus der Lächerlichkeit preiszugeben, weil er den Christen auf diese Weise Worte zuschreibt, die sie nie geäußert haben? Denn wenn er Ungebildete sprechen lässt, wie könnten solche Menschen zwischen Sinneswahrnehmung und Vernunft, zwischen Gegenständen der Sinne und Gegenständen der Vernunft unterscheiden? Um so zu argumentieren, müssten sie bei den Stoikern gelernt haben, die alle rein geistigen Wirklichkeiten leugnen und behaupten, dass wir alles, was wir erfassen, durch die Sinne erfassen und dass alle Erkenntnis durch die Sinne kommt\. Legt er diese Worte hingegen Philosophen in den Mund, die den Sinn der christlichen Lehren sorgfältig erforschen, so passen die fraglichen Aussagen nicht zu ihrem Charakter und ihren Grundsätzen\. Denn wer gelernt hat, dass Gott unsichtbar ist und dass auch manche seiner Werke unsichtbar sind, also mit der Vernunft erfasst werden, kann nicht gleichsam zur Rechtfertigung seines Glaubens an eine Auferstehung sagen: „Wie können sie Gott anders erkennen als durch die Wahrnehmung der Sinne?“ oder: „Wie können sie anders als durch die Sinne irgendeine Erkenntnis gewinnen?“ Denn nicht in geheimen Schriften, die nur wenige Weise lesen, sondern in Schriften, die im Volk am weitesten verbreitet und am bekanntesten sind, stehen diese Worte: „Das Unsichtbare an Gott wird seit der Erschaffung der Welt klar gesehen, indem es durch die geschaffenen Dinge erkannt wird\.[^bible-effcc7d2-98b1-4805-bec5-67269b1bab94]“ Daraus ist zu schließen: Zwar müssen die Menschen, die auf der Erde leben, zunächst ihre Sinne auf sinnlich wahrnehmbare Gegenstände richten, um von ihnen aus zur Erkenntnis der Natur geistiger Dinge zu gelangen; doch darf ihre Erkenntnis nicht bei den Gegenständen der Sinne stehen bleiben\. Christen würden also nicht sagen, dass es unmöglich sei, ohne die Sinne geistige Gegenstände zu erkennen, sondern vielmehr, dass die Sinne das erste Mittel zum Erwerb von Erkenntnis bieten\. In diesem Sinne könnten sie durchaus die Frage stellen: „Wer kann ohne die Sinne irgendeine Erkenntnis gewinnen?“, ohne die Beschimpfung durch Celsus zu verdienen, der hinzufügt: „Das ist nicht die Sprache eines Menschen; sie kommt nicht aus der Seele, sondern aus dem Fleisch\.“
+
+## Bibelverweise
+
+[^bible-effcc7d2-98b1-4805-bec5-67269b1bab94]: Röm 1,20

@@ -1,0 +1,14 @@
+# Gegen Celsus, Buch 7 – Kapitel 11: Auch dunkle Prophetie hat einen Sinn, den die in Christus Weisen aus dem Sprachgebrauch der Schrift erschließen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-7#kapitel-7e81668b-8ea8-45f6-4be0-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ich bin allerdings überzeugt, dass sich weit bessere Argumente anführen ließen als die, die ich vorbringen konnte, um die Unwahrheit dieser Behauptungen des Celsus aufzuzeigen und die göttliche Inspiration der Weissagungen darzulegen\. Doch haben wir nach unseren Kräften in unseren Kommentaren zu Jesaja, Hesekiel und einigen der zwölf kleinen Propheten jene Stellen, die er als fanatisch und völlig unverständlich bezeichnet, nach ihrem Wortsinn und im Einzelnen erklärt\. Und wenn Gott uns in der Zeit, die er uns bestimmt, die Gnade schenkt, in der Erkenntnis seines Wortes voranzukommen, werden wir unsere Untersuchung der übrigen Teile fortsetzen oder zumindest derjenigen, die wir zu erklären vermögen\. Auch andere verständige Menschen, die die Schrift studieren wollen, können ihren Sinn selbst ergründen\. Denn obwohl es viele Stellen gibt, deren Sinn nicht offen zutage liegt, gibt es doch keine, die, wie Celsus behauptet, überhaupt keinen Sinn haben\. Ebenso wenig stimmt es, dass jeder Dummkopf oder Betrüger die Stellen so erklären kann, dass sie seinen eigenen Zwecken dienen\. Denn allein denen, die in der Wahrheit Christi weise sind, kommt es zu, und zwar ihnen allen, selbst bei den dunklen Teilen der Prophetie Zusammenhang und Sinn zu erschließen, indem sie Geistliches mit Geistlichem vergleichen[^bible-9d0906b9-3efd-40cb-8612-6d6859180b51] und jede Stelle nach dem Sprachgebrauch der Verfasser der Schrift auslegen\. Auch ist Celsus nicht zu glauben, wenn er sagt, er habe solche Männer weissagen hören; denn zur Zeit des Celsus sind keine Propheten aufgetreten, die den alten Propheten auch nur ähneln\. Hätte es solche gegeben, dann hätten ihre Zuhörer und Bewunderer dem Beispiel der Alten folgend ihre Weissagungen schriftlich festgehalten\. Und es scheint ganz klar, dass Celsus die Unwahrheit sagt, wenn er behauptet, jene Propheten, die er gehört habe, hätten auf sein Drängen ihre wahren Beweggründe eingestanden und zugegeben, dass die mehrdeutigen Worte, die sie gebrauchten, tatsächlich nichts bedeuteten\. Er hätte die Namen derer nennen müssen, die er gehört haben will, sofern er welche nennen konnte, damit sachkundige Menschen entscheiden könnten, ob seine Behauptungen wahr oder falsch sind\.
+
+## Bibelverweise
+
+[^bible-9d0906b9-3efd-40cb-8612-6d6859180b51]: 1Kor 2,13

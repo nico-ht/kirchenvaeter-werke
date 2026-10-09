@@ -1,0 +1,14 @@
+# Gegen Celsus, Buch 7 – Kapitel 17: Christus vereint Menschen mit Gott und leitet durch seinen Tod die Entmachtung des Teufels ein
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-7#kapitel-0a2c2765-1a83-4f25-4bef-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nur in einem Punkt hat Celsus mit seinen Aussagen zu diesem Thema recht, nämlich wenn er sagt: „Die Propheten würden dies nicht voraussagen, denn damit wäre etwas Böses und Gottloses verbunden: dass der große Gott zum Sklaven wird oder den Tod erleidet\.“ Was die Propheten aber voraussagen, ist Gottes würdig: Derjenige, der Abglanz und getreues Abbild des göttlichen Wesens[^bible-9ac3ea72-00c8-406f-b338-251bef997aeb] ist, sollte mit der heiligen menschlichen Seele, die den Leib Jesu beleben sollte, in die Welt kommen, um den Samen seines Wortes auszusäen\. Dieser Same sollte alle, die ihn aufnahmen und pflegten, mit dem höchsten Gott vereinen können und all jene zur vollkommenen Seligkeit führen, die in sich die Kraft Gottes, des Wortes, spürten, der im Leib und in der Seele eines Menschen sein sollte\. Er sollte tatsächlich darin sein, doch nicht so, dass alle Strahlen seiner Herrlichkeit darin eingeschlossen wären\. Wir dürfen nicht annehmen, dass das Licht dessen, der Gott das Wort ist, auf keine andere Weise ausstrahlt als auf diese\. Betrachten wir Jesus also im Hinblick auf die Gottheit, die in ihm war, so finden wir in dem, was er als Gott tat, nichts, was unserem Verständnis von Gott widerspricht, sondern nur Heiliges\. Betrachten wir ihn als Menschen, der durch innige Gemeinschaft mit dem ewigen Wort, mit der Weisheit schlechthin, vor allen anderen Menschen ausgezeichnet war, so erlitt er als Weiser und Vollkommener alles, was er zu erleiden hatte, er, der alles zum Wohl des Menschengeschlechts, ja sogar zum Wohl aller vernunftbegabten Wesen tat\. Und es ist nichts Abwegiges daran, dass ein Mensch gestorben ist und sein Tod nicht nur ein Beispiel für einen um der Gottesfurcht willen ertragenen Tod ist, sondern auch der erste Schlag in dem Kampf, der die Macht jenes bösen Geistes, des Teufels, brechen soll, der die Herrschaft über die ganze Welt erlangt hatte\. Denn Zeichen und Unterpfänder für den Untergang seiner Herrschaft haben wir in den Menschen, die durch das Kommen Christi überall der Macht der Dämonen entkommen\. Nachdem sie aus dieser Knechtschaft befreit worden sind, in der sie gefangen waren, weihen sie sich Gott und bemühen sich Tag für Tag ernsthaft darum, in einem gottesfürchtigen Leben voranzukommen\.
+
+## Bibelverweise
+
+[^bible-9ac3ea72-00c8-406f-b338-251bef997aeb]: Hebr 1,3
