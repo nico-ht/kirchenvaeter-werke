@@ -1,0 +1,21 @@
+# Gegen Celsus, Buch 6 – Kapitel 17: Menschen erkennen den verborgenen Vater nur durch Teilhabe am Logos
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-6#kapitel-9fd97e29-fed2-410d-4ca5-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Celsus möchte zudem die Aussagen unserer Schriften über das Reich Gottes herabsetzen und hat deshalb keine davon angeführt, als wären sie es nicht wert, von ihm wiedergegeben zu werden \(oder vielleicht, weil er sie nicht kannte\)\. Dagegen zitiert er Aussprüche Platons aus dessen Briefen und dem Phaidros, als wären diese göttlich inspiriert, unsere Schriften aber nicht\. Stellen wir daher einiges zum Vergleich mit diesen einleuchtenden Aussagen Platons vor\. Sie haben den Philosophen allerdings nicht dazu bewogen, den Schöpfer aller Dinge auf eine seiner würdige Weise anzubeten\. Denn er hätte diese Anbetung nicht mit dem verfälschen oder verunreinigen dürfen, was wir Götzendienst nennen, die große Menge aber als Aberglauben bezeichnen würde\. Nun heißt es von Gott im achtzehnten Psalm in einer hebräischen Redeweise: „Er machte die Finsternis zu seinem Versteck\.[^bible-7e77807f-adbf-47bf-8008-a349722aa148]“ Damit wird ausgedrückt, dass die Vorstellungen, die man sich in würdiger Weise von Gott machen sollte, unsichtbar und unerkennbar sind\. Denn Gott verbirgt sich gleichsam in der Finsternis vor denen, die den Glanz seiner Erkenntnis nicht ertragen oder nicht in ihn blicken können\. Das liegt teils daran, dass ihr Verstand, der mit dem Leib sterblicher Niedrigkeit[^bible-4a0c736a-853d-4d4c-a419-e6a32bd04286] bekleidet ist, verunreinigt ist, teils an seiner geringeren Fähigkeit, Gott zu erfassen\. Und um zu zeigen, dass den Menschen die Erkenntnis Gottes nur selten gewährt wurde und sich nur bei sehr wenigen fand, wird erzählt, dass Mose in die Finsternis eintrat, in der Gott war[^bible-4c227ab9-0d35-4383-93fd-d65b7066b8f3]\. Über Mose heißt es weiter: „Mose allein soll sich dem Herrn nähern, die übrigen aber sollen sich nicht nähern\.[^bible-7bb8014e-31ae-4803-b3a1-60026dade291]“ Und um die Tiefe der Lehren über Gott zu zeigen, die für jene unerreichbar ist, die nicht den Geist besitzen, der alles erforscht, selbst die Tiefen Gottes[^bible-73935619-c311-4499-a065-00a78e27163a], fügte der Prophet hinzu: „Der Abgrund ist wie ein Gewand seine Hülle\.[^bible-69d0834e-2a20-47ab-981e-cacca946047d]“ Ja, unser Herr und Erlöser, der Logos Gottes, zeigt, dass die Größe der Erkenntnis des Vaters in erster Linie von ihm allein angemessen erfasst und erkannt wird und erst in zweiter Linie von denen, deren Verstand durch den Logos selbst und durch Gott erleuchtet wird\. Er erklärt: „Niemand kennt den Sohn außer dem Vater; auch kennt niemand den Vater außer dem Sohn und dem, dem der Sohn ihn offenbaren will\.[^bible-adb51c57-1f33-43a7-b6ce-0132abfdb12e]“ Denn niemand kann den Ungeschaffenen und Erstgeborenen der gesamten geschaffenen Natur[^bible-408f83cb-004d-436e-a9b3-005a98e53cfa] so angemessen erkennen wie der Vater, der ihn gezeugt hat, und niemand den Vater so wie der lebendige Logos, seine Weisheit und Wahrheit\. Jeder, der fähig ist, den Vater zu erkennen, erkennt ihn durch Teilhabe an dem, der vom Vater die sogenannte Finsternis, die er zu seinem Versteck machte[^bible-7e77807f-adbf-47bf-8008-a349722aa148], und den Abgrund[^bible-69d0834e-2a20-47ab-981e-cacca946047d] nimmt \(der als seine Hülle[^bible-69d0834e-2a20-47ab-981e-cacca946047d] bezeichnet wird\) und auf diese Weise den Vater enthüllt\.
+
+## Bibelverweise
+
+[^bible-408f83cb-004d-436e-a9b3-005a98e53cfa]: Kol 1,15
+[^bible-4a0c736a-853d-4d4c-a419-e6a32bd04286]: Phil 3,21
+[^bible-4c227ab9-0d35-4383-93fd-d65b7066b8f3]: Ex 20,21
+[^bible-69d0834e-2a20-47ab-981e-cacca946047d]: Ps 103,6
+[^bible-73935619-c311-4499-a065-00a78e27163a]: 1Kor 2,10
+[^bible-7bb8014e-31ae-4803-b3a1-60026dade291]: Ex 24,2
+[^bible-7e77807f-adbf-47bf-8008-a349722aa148]: Ps 17,12
+[^bible-adb51c57-1f33-43a7-b6ce-0132abfdb12e]: Mt 11,27

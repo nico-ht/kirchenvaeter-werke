@@ -1,0 +1,22 @@
+# Gegen Celsus, Buch 6 – Kapitel 79: Der eine Christus genügt für die ganze Welt: Seine Verkünder haben Anteil an seiner Salbung
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-6#kapitel-5c8d4a36-32a4-4dd4-54c6-08df251685d9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Deshalb waren nicht überall viele Leiber und viele Geister wie Jesus nötig, damit die ganze Menschenwelt vom Logos Gottes erleuchtet werden konnte\. Denn der eine Logos, der als Sonne der Gerechtigkeit[^bible-f33c5a88-b36a-46bd-94fe-74b48ee6fe81] aufgegangen war, genügte, um von Judäa aus die Strahlen seines Kommens in die Seele aller zu senden, die bereit waren, ihn aufzunehmen\. Wenn aber jemand viele mit göttlichem Geist erfüllte Leiber sehen möchte, die dem einen Christus gleichen und überall dem Heil der Menschen dienen, dann soll er auf diejenigen achten, die in allen Ländern das Evangelium Jesu mit gesunder Lehre und rechtschaffener Lebensführung lehren\. Sie selbst werden von den heiligen Schriften als Christusse bezeichnet, und zwar an der Stelle: ‚Rührt meine Gesalbten nicht an und tut meinen Propheten kein Leid[^bible-31c90412-0db7-4171-b8c8-27f1421c3c7f]\.‘ Denn wie wir gehört haben, dass der Antichrist kommt, und dennoch erfahren haben, dass viele Antichristen in der Welt sind[^bible-72cd8db2-442f-4339-bbc2-880c6b64fbf4], so wissen wir auch, dass Christus gekommen ist, und sehen, dass es durch ihn viele Christusse in der Welt gibt\. Sie haben wie er die Gerechtigkeit geliebt und das Unrecht gehasst[^bible-496c23db-b200-4d2e-81cf-9163aad58310], und deshalb hat Gott, der Gott Christi, auch sie mit dem Öl der Freude gesalbt[^bible-496c23db-b200-4d2e-81cf-9163aad58310]\. Weil er aber die Gerechtigkeit mehr geliebt und das Unrecht mehr gehasst hat als seine Gefährten[^bible-496c23db-b200-4d2e-81cf-9163aad58310], empfing er auch die Erstlingsgabe seiner Salbung und, wenn wir es so nennen müssen, die ganze Salbung mit dem Öl der Freude[^bible-496c23db-b200-4d2e-81cf-9163aad58310]\. Seine Gefährten dagegen erhielten ebenfalls Anteil an seiner Salbung, jeder nach seinem eigenen Fassungsvermögen\. Da also Christus das Haupt der Kirche ist[^bible-c170d2fa-013d-4358-b85f-a713665bb224], sodass Christus und die Kirche einen Leib bilden[^bible-553706cf-4ef2-4612-9e75-07ba39510c17], floss das Salböl vom Haupt auf Aarons Bart herab[^bible-af861b60-01b6-4bb4-9182-1b30c28aef47] \(die Sinnbilder des vollkommenen Menschen[^bible-97a6dfb2-058f-4824-81dd-7ccbb61bca6f]\), und dieses Salböl gelangte beim Herabfließen bis hinab an den Saum seines Gewandes[^bible-af861b60-01b6-4bb4-9182-1b30c28aef47]\. Das ist meine Antwort auf die ehrfurchtslosen Worte des Celsus, wenn er sagt: ‚Er hätte gleichermaßen vielen Leibern seinen Geist einhauchen und ihn in alle Welt aussenden sollen\.‘ Der Komödiendichter hat freilich, um Gelächter hervorzurufen, Jupiter dargestellt, wie er schläft, aus dem Schlummer erwacht und Merkur zu den Griechen schickt\. Der Logos aber weiß, dass Gottes Wesen vom Schlaf unberührt bleibt, und kann uns lehren, dass Gott die Angelegenheiten der Welt zur rechten Zeit und nach den Forderungen der rechten Vernunft lenkt\. Es ist allerdings nicht verwunderlich, dass Unwissende wegen der Größe und Unbegreiflichkeit der göttlichen Urteile[^bible-5ffe8ea4-f430-401e-9d30-b365e2fc0afa] in Irrtümer verfallen, und unter ihnen auch Celsus\. Es ist daher nichts Lächerliches daran, dass der Sohn Gottes zu den Juden gesandt wurde, unter denen die Propheten aufgetreten waren: Er sollte unter ihnen in körperlicher Gestalt den Anfang machen, um dann mit Macht und Kraft über einer Welt von Seelen aufzugehen, die nicht länger von Gott verlassen bleiben wollten\.
+
+## Bibelverweise
+
+[^bible-31c90412-0db7-4171-b8c8-27f1421c3c7f]: Ps 104,15
+[^bible-496c23db-b200-4d2e-81cf-9163aad58310]: Ps 44,8
+[^bible-553706cf-4ef2-4612-9e75-07ba39510c17]: Eph 1,22–Eph 1,23
+[^bible-5ffe8ea4-f430-401e-9d30-b365e2fc0afa]: Röm 11,33
+[^bible-72cd8db2-442f-4339-bbc2-880c6b64fbf4]: 1Joh 2,18
+[^bible-97a6dfb2-058f-4824-81dd-7ccbb61bca6f]: Eph 4,13
+[^bible-af861b60-01b6-4bb4-9182-1b30c28aef47]: Ps 132,2
+[^bible-c170d2fa-013d-4358-b85f-a713665bb224]: Eph 5,23
+[^bible-f33c5a88-b36a-46bd-94fe-74b48ee6fe81]: Mal 3,20

@@ -1,0 +1,17 @@
+# Gegen Celsus, Buch 6 – Kapitel 2: Auch wahre Verkündigung erreicht die Herzen nur durch Gottes Kraft
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-6#kapitel-87033314-2841-47aa-cb84-08deb34643e3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Diese Bemerkungen habe ich als Antwort auf die Vorwürfe gemacht, die Celsus und andere gegen die Einfachheit der Sprache der Schrift erheben – eine Einfachheit, die scheinbar vom Glanz geschliffener Rhetorik in den Schatten gestellt wird\. Doch unsere Propheten, Jesus selbst und seine Apostel achteten sorgfältig darauf, einen Sprachstil zu wählen, der nicht einfach nur die Wahrheit vermittelt, sondern der exakt dafür geeignet war, die breite Masse zu gewinnen\! Und das so lange, bis jeder Einzelne, angezogen und vorwärtsgeführt, so weit wie ihm irgend möglich zu dem Begreifen jener Geheimnisse aufsteigt, die in genau diesen scheinbar einfachen Worten verborgen liegen\.
+
+Denn wenn ich das zu sagen wagen darf: Nur wenige haben aus dem schönen, geschliffenen Stil Platons und derer, die wie er geschrieben haben, Nutzen gezogen, wenn sie überhaupt irgendeinen Nutzen daraus gezogen haben\. Dagegen haben viele von denen profitiert, die einfach und lebensnah schrieben und lehrten und dabei die Bedürfnisse der breiten Masse im Blick hatten\. Tatsächlich lässt sich leicht beobachten, dass man Platon nur in den Händen derer findet, die sich als literarisch gebildet bezeichnen\. Epiktet hingegen wird von Menschen mit gewöhnlichen geistigen Fähigkeiten bewundert, die Nutzen aus seinen Schriften ziehen wollen und erkennen, wie sie dadurch besser werden können\. Das sagen wir nicht, um Platon herabzusetzen \(denn auch er hat der Menschheit Nutzen gebracht\), sondern um die Absicht derer aufzuzeigen, die sagten: „Und meine Rede und meine Verkündigung bestanden nicht in verlockenden Worten menschlicher Weisheit, sondern im Erweis des Geistes und der Kraft, damit unser Glaube nicht auf der Weisheit der Menschen beruht, sondern auf der Kraft Gottes\.[^bible-37c26e77-6557-49c2-95b1-2aa554ac1c75]“ Denn das Wort Gottes erklärt, dass die Verkündigung, obwohl sie an sich wahr und höchst glaubwürdig ist, nicht ausreicht, um das menschliche Herz zu erreichen, ohne dass dem Sprecher von Gott eine gewisse Kraft verliehen wird und auf seinen Worten Gnade liegt\. Nur durch göttliches Wirken geschieht dies bei denen, deren Worte Wirkung entfalten\. Der Prophet sagt im siebenundsechzigsten Psalm: „Der Herr wird denen, die verkündigen, ein Wort mit großer Kraft geben\.[^bible-55f65951-c1a9-407d-af84-56e77a184ef0]“ Selbst wenn man also in bestimmten Punkten zugesteht, dass sich bei den Griechen dieselben Lehren finden wie in unseren Schriften, so besitzen sie doch nicht dieselbe Kraft, die Seelen der Menschen anzuziehen und dazu zu bewegen, ihnen zu folgen\. Deshalb durchzogen die Jünger Jesu, obwohl sie mit der griechischen Philosophie nicht vertraut waren, viele Länder der Welt\. Dem Wunsch des Logos gemäß wirkten sie auf jeden ihrer Zuhörer so ein, wie er es verdiente, sodass sich ihre Moral in dem Maß besserte, in dem ihr Wille geneigt war, das Gute anzunehmen\.
+
+## Bibelverweise
+
+[^bible-37c26e77-6557-49c2-95b1-2aa554ac1c75]: 1Kor 2,4–1Kor 2,5
+[^bible-55f65951-c1a9-407d-af84-56e77a184ef0]: Ps 67,12

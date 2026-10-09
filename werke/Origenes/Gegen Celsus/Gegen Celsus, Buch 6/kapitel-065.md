@@ -1,0 +1,16 @@
+# Gegen Celsus, Buch 6 – Kapitel 65: Gott ist durch den göttlichen Logos erkennbar und durch menschliche Worte begrenzt beschreibbar
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-6#kapitel-3c27843d-5c88-4dd2-4d0a-08df23f25b59).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Celsus sagt weiter von Gott, dass alles aus ihm ist[^bible-5a695a6f-c549-4c61-bdc0-f0c05db3104b], und gibt damit, ich weiß nicht wie, alle seine Grundsätze auf\. Unser Paulus dagegen erklärt: „Aus ihm und durch ihn und auf ihn hin ist alles\.[^bible-5a695a6f-c549-4c61-bdc0-f0c05db3104b]“ Mit den Worten „aus ihm[^bible-5a695a6f-c549-4c61-bdc0-f0c05db3104b]“ zeigt er, dass Gott der Ursprung der Substanz aller Dinge ist, mit dem Ausdruck „durch ihn[^bible-5a695a6f-c549-4c61-bdc0-f0c05db3104b]“, dass er das Band ist, das sie in ihrem Bestand zusammenhält, und mit den Worten „auf ihn hin[^bible-5a695a6f-c549-4c61-bdc0-f0c05db3104b]“, dass er ihr letztes Ziel ist\. Gott selbst hat in der Tat in nichts seinen Ursprung\. Wenn Celsus aber hinzufügt, Gott sei durch das Wort nicht zu erfassen, unterscheide ich: Meint er das Wort in uns, sei es das im Geist gedachte oder das ausgesprochene Wort, dann räume auch ich ein, dass Gott durch das Wort nicht zu erfassen ist\. Beachten wir jedoch die Stelle: „Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott[^bible-743598d2-79c8-48de-b562-a4c282fc482d]“, so sind wir der Auffassung, dass Gott durch dieses Wort zu erfassen ist und nicht nur von ihm erfasst wird, sondern auch von jedem, dem es den Vater offenbart[^bible-0da5a1c5-e91e-4300-a323-8b5c3374e09a]\. So werden wir die Behauptung des Celsus widerlegen: „Auch durch das Wort ist Gott nicht zu erfassen\.“ Ebenso muss man bei der Aussage, er lasse sich nicht durch einen Namen ausdrücken, unterscheiden\. Wenn Celsus nämlich meint, es gebe kein Wort oder Zeichen, das die Eigenschaften Gottes wiedergeben kann, so ist die Aussage wahr, denn es gibt viele Eigenschaften, die sich nicht mit Worten bezeichnen lassen\. Wer könnte zum Beispiel in Worte fassen, wie sich die Süße einer Palmenfrucht von der einer Feige unterscheidet? Und wer könnte die besonderen Eigenschaften jedes einzelnen Dinges mit Worten voneinander abgrenzen und darlegen? Es ist also kein Wunder, wenn Gott sich in diesem Sinne nicht durch einen Namen beschreiben lässt\. Verstehst du die Wendung aber so, dass man mit Worten etwas von Gottes Eigenschaften wiedergeben kann, um den Hörer gleichsam an der Hand zu führen und ihn so etwas von Gott begreifen zu lassen, soweit dies der menschlichen Natur möglich ist, dann ist es keineswegs widersinnig zu sagen, dass er durch einen Namen beschrieben werden kann\. Eine ähnliche Unterscheidung treffen wir bei dem Ausdruck: „Denn er hat kein Leiden erfahren, das sich in Worte fassen lässt\.“ Es ist wahr, dass die Gottheit über allem Leiden steht\. So viel zu diesem Punkt\.
+
+## Bibelverweise
+
+[^bible-0da5a1c5-e91e-4300-a323-8b5c3374e09a]: Mt 11,27
+[^bible-5a695a6f-c549-4c61-bdc0-f0c05db3104b]: Röm 11,36
+[^bible-743598d2-79c8-48de-b562-a4c282fc482d]: Joh 1,1

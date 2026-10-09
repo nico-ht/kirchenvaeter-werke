@@ -1,0 +1,23 @@
+# Gegen Celsus, Buch 6 – Kapitel 70: „Gott ist Geist“: Gottes unkörperliche Natur verlangt Anbetung im Geist und in der Wahrheit
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/gegen-celsus-buch-6#kapitel-f293a77c-61a7-4ec4-1302-08df20d95f4a).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn Celsus unsere Lehre vom Geist Gottes verstanden und gewusst hätte, dass alle, die vom Geist Gottes geführt werden, Söhne Gottes sind[^bible-244763c1-f42d-4016-8633-30440fd7d074], hätte er sich nicht selbst die Antwort gegeben, die er uns in den Mund legt: Gott habe seinen eigenen Geist in einen Körper gelegt und ihn zu uns herabgesandt\. Denn Gott gibt beständig von seinem eigenen Geist denen, die ihn empfangen können; doch teilt er sich nicht und trennt sich nicht ab, wenn er in den Herzen der Würdigen wohnt\. Nach unserer Auffassung ist der Geist ebenso wenig ein Körper wie das Feuer, als das Gott in dem Wort bezeichnet wird: „Unser Gott ist ein verzehrendes Feuer\.[^bible-e9ebeda8-88d9-4ed4-bd13-a1347baf5d18]“ Denn all dies sind bildliche Ausdrücke, mit denen die Natur vernunftbegabter Wesen durch vertraute, körperliche Begriffe bezeichnet wird\. Ebenso werden wir, wenn Sünden Holz, Stroh und Stoppeln[^bible-009e9629-dac3-4da5-ad03-a1779b190723] genannt werden, nicht behaupten, Sünden seien körperlich\. Und wenn Segnungen als Gold, Silber und Edelsteine[^bible-009e9629-dac3-4da5-ad03-a1779b190723] bezeichnet werden, werden wir nicht behaupten, Segnungen seien körperlich\. Wenn also Gott als Feuer[^bible-e9ebeda8-88d9-4ed4-bd13-a1347baf5d18] bezeichnet wird, das Holz, Stroh und Stoppeln[^bible-009e9629-dac3-4da5-ad03-a1779b190723] und die gesamte Substanz der Sünde verzehrt, verstehen wir ihn nicht als Körper; ebenso wenig verstehen wir ihn als Körper, wenn er Feuer[^bible-e9ebeda8-88d9-4ed4-bd13-a1347baf5d18] genannt wird\. So meinen wir auch, wenn Gott Geist[^bible-8d2a1061-4cbf-4891-bcf1-1f25bb17da65] genannt wird, nicht, dass er ein Körper ist\. Denn die Schrift pflegt vernunftbegabte Wesen als Geister und Geistiges zu bezeichnen, um sie von dem zu unterscheiden, was mit den Sinnen wahrgenommen wird\. So sagt Paulus: „Unsere Befähigung aber kommt von Gott, der uns auch zu fähigen Dienern des neuen Bundes gemacht hat, nicht des Buchstabens, sondern des Geistes; denn der Buchstabe tötet, der Geist aber macht lebendig\.[^bible-cc71e34c-fea0-4ad9-ab1c-091a916c7584]“ Dabei meint er mit dem Buchstaben die Auslegung der Schrift, die sich den Sinnen erschließt, mit dem Geist dagegen diejenige, die sich dem Verstand erschließt\. Ebenso verhält es sich mit dem Ausdruck: „Gott ist Geist\.[^bible-8d2a1061-4cbf-4891-bcf1-1f25bb17da65]“ Und weil sowohl Samaritaner als auch Juden die Vorschriften des Gesetzes körperlich und dem Buchstaben nach befolgten, sagte unser Erlöser zu der Samaritanerin: „Die Stunde kommt, in der ihr den Vater weder in Jerusalem noch auf diesem Berg anbeten werdet\. Gott ist Geist; und die ihn anbeten, müssen ihn im Geist und in der Wahrheit anbeten\.[^bible-d37c7217-f4b5-4695-8dd5-bb0857aea31e]“ Mit diesen Worten lehrte er die Menschen, dass man Gott nicht im Fleisch und mit fleischlichen Opfern, sondern im Geist anbeten muss\. Und in dem Maß, in dem man ihn im Geist und mit Verstand anbetet, wird man ihn als Geist erkennen\. Wir sollen den Vater jedoch nicht mit Abbildern anbeten, sondern in der Wahrheit, die durch Jesus Christus kam, nachdem das Gesetz durch Mose gegeben worden war[^bible-4a96401d-3bff-4ac8-b1ba-cd424934d80b]\. Denn wenn wir uns dem Herrn zuwenden[^bible-5ddc4530-97fd-433f-bafe-16029af56cc4] \(und der Herr ist Geist[^bible-c2d53974-37fd-4ee4-aaa4-b52d5aae92dc]\), nimmt er den Schleier fort, der auf dem Herzen liegt, wenn Mose gelesen wird[^bible-b3328d9b-085f-4ae6-b866-87a1b7599a69]\.
+
+## Bibelverweise
+
+[^bible-009e9629-dac3-4da5-ad03-a1779b190723]: 1Kor 3,12
+[^bible-244763c1-f42d-4016-8633-30440fd7d074]: Röm 8,14
+[^bible-4a96401d-3bff-4ac8-b1ba-cd424934d80b]: Joh 1,17
+[^bible-5ddc4530-97fd-433f-bafe-16029af56cc4]: 2Kor 3,16
+[^bible-8d2a1061-4cbf-4891-bcf1-1f25bb17da65]: Joh 4,24
+[^bible-b3328d9b-085f-4ae6-b866-87a1b7599a69]: 2Kor 3,15–2Kor 3,16
+[^bible-c2d53974-37fd-4ee4-aaa4-b52d5aae92dc]: 2Kor 3,17
+[^bible-cc71e34c-fea0-4ad9-ab1c-091a916c7584]: 2Kor 3,5–2Kor 3,6
+[^bible-d37c7217-f4b5-4695-8dd5-bb0857aea31e]: Joh 4,21; Joh 4,24
+[^bible-e9ebeda8-88d9-4ed4-bd13-a1347baf5d18]: Hebr 12,29
