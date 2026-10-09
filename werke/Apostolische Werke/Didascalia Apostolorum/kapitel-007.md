@@ -1,4 +1,4 @@
-# Didascalia Apostolorum – Kapitel 7
+# Didascalia Apostolorum – Kapitel 7: Gottes Erbarmen verpflichtet den Bischof, Verlorene zu suchen und Bußfertige zu heilen
 
 Autor: Apostolische Werke
 
@@ -25,14 +25,11 @@ Denn siehe, ich bin mit vielen eisernen Banden gebunden und niedergebeugt, sodas
 
 Hütet euch daher, ihr Ungläubigen, damit keiner von euch den Gedanken Amons in seinem Herzen fasst und plötzlich und rasch zugrunde geht\. Darum, o Bischof, bewahre, soweit du kannst, die, die nicht gesündigt haben, damit sie weiter ohne Sünde bleiben; und die, die ihre Sünden bereuen, heile und nimm auf\. Wenn du aber den nicht aufnimmst, der Buße tut, weil du ohne Erbarmen bist, wirst du gegen den Herrn Gott sündigen; denn du gehorchst unserem Erlöser und unserem Gott nicht und handelst nicht so, wie auch er an jener tat, die gesündigt hatte: Die Ältesten stellten sie vor ihn, legten das Urteil in seine Hände und gingen fort\. Er aber, der die Herzen erforscht, fragte sie und sprach zu ihr: „Haben die Ältesten dich verurteilt, meine Tochter?[^bible-38ba6198-5e97-4ba1-ad82-c649593d93b6]“ Sie sagt zu ihm: „Nein, Herr\.[^bible-073229d9-1dad-498b-ad5d-6dda6df10bb8]“ Und er sprach zu ihr: „Geh deines Weges; auch ich verurteile dich nicht\.[^bible-073229d9-1dad-498b-ad5d-6dda6df10bb8]“ An ihm also, unserem Erlöser und König und Gott, habt euer Vorbild, o Bischöfe, und ahmt ihn nach, damit ihr still und sanft seid, barmherzig und mitfühlend, friedfertig und ohne Zorn, Lehrer und Zurechtweiser, Aufnehmende und Ermahnende; und damit ihr nicht jähzornig und nicht herrschsüchtig[^bible-97e01bc0-aa44-4ad0-ac03-94b15a54ac2c] seid; und damit ihr nicht frech, nicht hochmütig und nicht prahlerisch seid\.
 
-In seiner Jugend handelte er überaus gottlos, und in seinem Alter tat er Buße: „Auch ich will in allen Begierden meiner Seele wandeln und am Ende zum Herrn zurückkehren“, und er tat, was böse war vor dem Herrn; er regierte aber nur zwei Jahre, weil der Herr, Gott, ihn rasch aus seinem guten Land vernichtete[^bible-0d38ef38-6144-4e8a-96a7-d8429d043051]\. Darum hütet euch, ihr Ungläubigen, dass keiner von euch den Gedanken Amons in seinem Herzen aufrichtet und plötzlich und rasch zugrunde geht\. Deshalb, o Bischof, bewahre, soweit du kannst, die, die nicht gesündigt haben, damit sie ohne Sünde bleiben; und die, die über ihre Sünden Buße tun, heile und nimm auf\. Wenn du aber den nicht aufnimmst, der Buße tut, weil du ohne Erbarmen bist, wirst du gegen den Herrn Gott sündigen; denn du gehorchst unserem Erlöser und unserem Gott nicht und handelst nicht so, wie auch er an jener tat, die gesündigt hatte: Die Ältesten stellten sie vor ihn, legten das Urteil in seine Hände und gingen fort\. Er aber, der die Herzen erforscht, fragte sie und sprach zu ihr: „Haben die Ältesten dich verurteilt, meine Tochter?“ Sie sagt zu ihm: „Nein, Herr\.“ Und er sprach zu ihr: „Geh deines Weges; auch ich verurteile dich nicht[^bible-e5c3c20c-1d84-4714-8b37-093ee1e5e048]\.“ An ihm also, unserem Erlöser und König und Gott, habt euer Vorbild, o Bischöfe, und ahmt ihn nach, damit ihr still und sanft seid, barmherzig und mitfühlend, friedfertig und ohne Zorn, Lehrer und Zurechtweiser, Aufnehmende und Ermahnende; und damit ihr nicht jähzornig und nicht herrschsüchtig[^bible-416fc5b3-c17b-4ea7-9c8b-87bc6f74933d] seid; und damit ihr nicht frech, nicht hochmütig und nicht prahlerisch seid\.
-
 ## Bibelverweise
 
 [^bible-04dfe9f2-3ecb-40d2-ba82-44a9f2647a5d]: Hes 33,10
 [^bible-073229d9-1dad-498b-ad5d-6dda6df10bb8]: Joh 8,11
 [^bible-09b863ba-c7d3-4144-83b2-648671333370]: 2Kön 21,11–2Kön 21,16
-[^bible-0d38ef38-6144-4e8a-96a7-d8429d043051]: 2Kön 21,20–2Kön 21,23
 [^bible-14777e48-6a31-4c73-9eaa-afa3c796e4eb]: Hes 34,29–Hes 34,31
 [^bible-15b656c0-de61-4746-8ddb-f1c124fbc6cc]: Hes 34,25–Hes 34,26
 [^bible-1d02a328-3102-459d-a957-80bf16ee7d34]: 2Kön 21,3
@@ -43,7 +40,6 @@ In seiner Jugend handelte er überaus gottlos, und in seinem Alter tat er Buße:
 [^bible-38ba6198-5e97-4ba1-ad82-c649593d93b6]: Joh 8,10
 [^bible-3a9960d6-1336-473a-bc52-acccd7579d6b]: Mt 18,18
 [^bible-3e6f0a14-d2f2-4f04-a5c6-28d2d7110ffd]: Jer 24,9
-[^bible-416fc5b3-c17b-4ea7-9c8b-87bc6f74933d]: 1Tim 3,3; Tit 1,7
 [^bible-4495cdc3-690c-44dd-91cc-09ed433cbfcd]: 2Kön 21,5
 [^bible-5f183905-7ada-4d37-9669-1a76751b7e23]: 1Tim 3,2
 [^bible-69ab8bfc-db4e-4249-8446-54d3c4fd4f87]: Mt 9,12
@@ -80,7 +76,6 @@ In seiner Jugend handelte er überaus gottlos, und in seinem Alter tat er Buße:
 [^bible-d3f37afc-f3a1-4b9d-bdab-1983fd970cde]: 2Chr 33,11
 [^bible-e05d0b5d-b058-47f5-910e-427f3cec5337]: Hes 34,4; Hes 34,16
 [^bible-e37612ab-ba3f-4d0f-a951-f538bfcee6aa]: Weish 4,7
-[^bible-e5c3c20c-1d84-4714-8b37-093ee1e5e048]: Joh 8,10–Joh 8,11
 [^bible-ec2679d0-9b34-4c8b-a160-044a51b8d58e]: Num 18,1
 [^bible-f25bbc73-e1c4-4e01-8cb2-80fb734dcd95]: Hes 34,17; Hes 34,22
 [^bible-f9f8328e-24d1-4b8e-9eb7-5e7f1932ca81]: Hes 34,16

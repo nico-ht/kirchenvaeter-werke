@@ -1,4 +1,4 @@
-# Didascalia Apostolorum – Kapitel 19
+# Didascalia Apostolorum – Kapitel 19: Wer Glaubensverfolgten beisteht und Christus im Leiden treu bleibt, gewinnt das ewige Leben
 
 Autor: Apostolische Werke
 
@@ -15,12 +15,9 @@ Nun achtet jeder, der ein Handwerk lernt, auf seinen Meister und sieht, wie er m
 
 Denn siehe, deine Seele hat Schmerzen und Bedrängnisse geerbt, und du hast dein Leben vor Gott für immer zugrunde gerichtet; und du wirst brennen und ohne Aufhören ewig gequält werden, wie der Herr gesagt hat: „Jeder, der sein Leben liebt, wird es verlieren; und jeder, der sein Leben um meinetwillen verliert, wird es finden[^bible-40ba94d5-60cb-44c0-b5a4-c4fcc3351b59]\.“ Nun liebt ein Christ, der verleugnet, sein Leben für eine kurze Zeit in dieser Welt, damit er nicht für den Namen des Herrn, Gottes, sterbe; doch er hat sich selbst für immer im Feuer zugrunde gerichtet, denn er ist von sich aus in die Gehenna gefallen\. Denn Christus hat ihn verleugnet, wie er im Evangelium gesagt hat: „Wer mich vor den Menschen verleugnen wird, den werde auch ich vor meinem Vater verleugnen, der im Himmel ist[^bible-74b6c7a2-b51a-4d87-8e62-4a847af0cf97]\.“ Die aber, die der Herr verleugnet hat, stößt man hinaus und wirft sie in die äußerste Finsternis; und dort ist ihr Weinen und ihr Zähneknirschen[^bible-b0d54f28-4fa6-4499-beec-33a405fde712]\. Denn er sagte: „Jeder, der sein Leben mehr liebt als mich, ist meiner nicht würdig[^bible-d76064f3-0453-461f-acc3-947a29e78724]\.“ Lasst uns also ernstlich darauf bedacht sein, uns dem Herrn, Gott, anzuvertrauen; und wenn jemand des Martyriums würdig befunden wird, dann nehme er es mit Freude an, weil er einer so großen Krone für würdig erachtet worden ist und weil sein Scheiden aus dieser Welt durch das Martyrium geschieht\. Denn der Herr, unser Retter, hat gesagt: „Kein Jünger ist besser als sein Meister; jeder aber wird vollendet sein wie sein Meister[^bible-43fdecdd-500a-45a0-aa69-29dd72496dc9]\.“ Nun hat unser Herr in all diese seine Leiden eingewilligt, damit er uns rette; und er unterwarf sich dem Geschlagenwerden, und dass Menschen ihn lästerten und ihm ins Angesicht spien, und dass er Essig und Galle trank; und zuletzt ertrug er sogar, ans Kreuz gehängt zu werden\. Darum lasst auch uns, die wir seine Jünger sind, seine Nachahmer sein\. Denn wenn er alles um unsertwillen trug und erduldete, bis hin zu den Leiden seiner Passion, wie viel mehr müssen wir um unser selbst willen geduldig sein, wenn wir leiden? Und wir dürfen nicht zweifeln; denn so hat er uns verheißen, dass, wenn wir mit Feuerkohlen verbrannt würden, während wir an unseren Herrn Jesus Christus glauben und an Gott, seinen Vater, den Herrn, Gott, den Allmächtigen, und an seinen Heiligen Geist, ihm sei Herrlichkeit und Ehre in alle Ewigkeit\. Amen\.
 
-seine Leiden, damit er uns rette; und er ließ sich schlagen, ließ zu, dass Menschen ihn lästerten und ihm ins Angesicht spien[^bible-d666b06d-68ac-4b05-8ecd-e613427ca41c], und dass er Essig und Galle trank[^bible-d4ec81f4-0be2-463b-8c1f-19ed1d407b80]; und zuletzt ertrug er es sogar, ans Kreuz gehängt zu werden[^bible-33cf5d7d-3411-442c-90cd-a7ccd9acdfde]\. Darum lasst auch uns, die wir seine Jünger sind, seine Nachahmer sein\. Denn wenn er um unsertwillen alles trug und erduldete, bis hin zu den Leiden seiner Passion, wie viel mehr müssen wir um unser selbst willen geduldig sein, wenn wir leiden? Und wir dürfen nicht zweifeln; denn so hat er uns verheißen, dass wir, selbst wenn wir mit Feuerkohlen verbrannt würden, an unseren Herrn Jesus Christus glauben und an Gott, seinen Vater, den Herrn, Gott, den Allmächtigen, und an seinen Heiligen Geist, dem Herrlichkeit und Ehre sei in alle Ewigkeit\. Amen\.
-
 ## Bibelverweise
 
 [^bible-298d3e96-0d59-4a25-add3-f5647af7e23f]: 2Tim 4,1
-[^bible-33cf5d7d-3411-442c-90cd-a7ccd9acdfde]: Mt 27,35
 [^bible-3881ef44-d001-4db5-9f6a-004ce839375f]: Mt 5,11
 [^bible-40ba94d5-60cb-44c0-b5a4-c4fcc3351b59]: Mt 10,39
 [^bible-43fdecdd-500a-45a0-aa69-29dd72496dc9]: Lk 6,40
@@ -34,8 +31,6 @@ seine Leiden, damit er uns rette; und er ließ sich schlagen, ließ zu, dass Men
 [^bible-b1ae2de2-888f-4585-baa3-9c2541d51233]: Mt 10,28
 [^bible-b9d75bc8-db16-43c4-b8c2-fc453f81a9b6]: Mt 25,46
 [^bible-bd9c75de-fea7-4f80-b72b-469d45fa9a55]: 1Tim 6,11
-[^bible-d4ec81f4-0be2-463b-8c1f-19ed1d407b80]: Mt 27,34
-[^bible-d666b06d-68ac-4b05-8ecd-e613427ca41c]: Mt 26,67
 [^bible-d76064f3-0453-461f-acc3-947a29e78724]: Mt 10,37
 [^bible-f67afd29-041c-44bb-927e-b6a1386a1b4a]: Mt 25,34–Mt 25,40
 [^bible-fa555acf-03ac-485d-85e0-802d7cb835bc]: Mt 10,23

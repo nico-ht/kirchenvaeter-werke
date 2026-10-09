@@ -1,4 +1,4 @@
-# Didascalia Apostolorum – Kapitel 24
+# Didascalia Apostolorum – Kapitel 24: Die Apostel legen Heidenchristen keine Beschneidung und Gesetzeslast auf, sondern nur wenige notwendige Gebote
 
 Autor: Apostolische Werke
 
@@ -13,8 +13,6 @@ Denn auch einige Tage zuvor waren gewisse Männer aus Judäa nach Antiochia hina
 
 „Nehmt mein Joch auf euch und lernt von mir; denn ich bin sanftmütig und von Herzen demütig, und ihr werdet Ruhe finden für eure Seelen\. Denn mein Joch ist angenehm, und meine Last ist leicht[^bible-69ca994e-fc57-4b64-8b0c-e9aa0d98d9f2]\.“ Wenn also unser Herr uns gelöst und entlastet hat, warum wollt ihr euch selbst Schlingen legen? Da schwieg das ganze Volk; und ich, Jakobus, antwortete und sprach: „Männer, Brüder, hört mich\. Simon hat erzählt, wie Gott zuerst darauf gesehen hat, aus den Heiden ein Volk für seinen Namen zu erwählen\. Damit stimmen die Worte der Propheten überein, wie geschrieben steht: Danach werde ich zurückkehren und die Hütte Davids, die gefallen ist, wieder aufbauen; und ihre Trümmer werde ich wieder aufbauen und sie aufrichten, damit der Rest der Menschen den Herrn sucht, und alle Heiden, über die mein Name angerufen ist, spricht der Herr, der dies von Ewigkeit her bekannt macht[^bible-77591aa6-fc36-40d4-9f93-7ee1a5d18710]\. „Darum sage ich, dass man denen aus den Heiden, die sich zu Gott bekehren, keine Mühe machen soll, sondern dass ihnen auf diese Weise geschrieben werde: Sie sollen sich enthalten von bösen Bräuchen, von den Götzen, von dem Geopferten, von Ersticktem und von Blut[^bible-578b7071-8deb-4272-b9a4-72389777c0f4]\.“ Da hielten wir, die Apostel und die Bischöfe und die Ältesten, zusammen mit der ganzen Kirche es für gut, Männer aus ihrer Mitte auszuwählen und sie mit Barnabas und Paulus, die von dort gekommen waren, nach Antiochia zu senden\. Und wir wählten und bestimmten Judas, der Barsabbas genannt wurde, und Silas, angesehene Männer unter den Brüdern[^bible-b453804a-5a45-406e-a4c1-d01587097e63], und schrieben durch sie Folgendes: Die Apostel und Ältesten und Brüder an die Brüder aus den Heiden in Antiochia und Syrien und Kilikien: Gruß\. Da wir gehört haben, dass einige euch mit Worten beunruhigt haben, um eure Seelen zu verderben, denen wir keinen Auftrag gegeben haben, haben wir, einmütig versammelt, beschlossen, Männer auszuwählen und zu euch zu senden mit unseren geliebten Barnabas und seinen Gefährten, die ihr hierher gesandt habt\. Und wir haben Judas und Silas gesandt, die euch selbst mündlich von diesen Dingen berichten werden\. Denn es hat dem Heiligen Geist und uns gut geschienen, euch keine weitere Last aufzuerlegen außer diesen notwendigen Dingen: dass ihr euch enthaltet von dem Geopferten, von Blut, von Ersticktem und von Unzucht\. Wenn ihr euch davor bewahrt, tut ihr recht\. Lebt wohl[^bible-d1a77fe1-192f-4e99-8fef-f8940f1772a7]\. Nun sandten wir den Brief; wir selbst aber blieben viele Tage in Jerusalem, berieten miteinander und ordneten das, was dem ganzen Volk zum Nutzen war, und schrieben auch diese Katholische Didascalia\.
 
-und seine Gefährten, die ihr hierher gesandt habt\. Und wir haben Judas und Silas gesandt; sie selbst werden euch mündlich von diesen Dingen berichten\. Denn es hat dem Heiligen Geist und uns gut geschienen, euch keine weitere Last aufzuerlegen, außer dass ihr euch dieser notwendigen Dinge enthaltet: des Geopferten, des Blutes, des Erstickten und der Unzucht\. Haltet euch davon fern, dann tut ihr recht\. Lebt wohl\.[^bible-92b36f35-a752-4caa-a4ad-b37b8ed8c45f] Nun sandten wir den Brief; wir selbst aber blieben viele Tage in Jerusalem, berieten miteinander und ordneten gemeinsam, was dem ganzen Volk zum Nutzen war, und schrieben auch diese Katholische Didascalia\.
-
 ## Bibelverweise
 
 [^bible-2d105eaa-aa6c-4be0-9bae-f5b3e8944d37]: Apg 15,7
@@ -27,7 +25,6 @@ und seine Gefährten, die ihr hierher gesandt habt\. Und wir haben Judas und Sil
 [^bible-6c401269-1715-4ddf-a464-93919da91a7b]: Apg 11,15
 [^bible-77591aa6-fc36-40d4-9f93-7ee1a5d18710]: Apg 15,14–Apg 15,18
 [^bible-7b08510c-47e7-4904-bc70-3ed71e21c5d9]: Apg 15,4
-[^bible-92b36f35-a752-4caa-a4ad-b37b8ed8c45f]: Apg 15,25; Apg 15,27–Apg 15,29
 [^bible-94a37402-4f95-4f32-9d0f-ba9ba456d326]: Apg 15,5
 [^bible-98848606-78ac-43c7-9aee-ac7ac5baab58]: Apg 15,25
 [^bible-a1b2ee9c-34b5-4ab5-963a-a9b4bce74513]: Joel 2,13
