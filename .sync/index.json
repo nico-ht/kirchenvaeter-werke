@@ -53,7 +53,7 @@
     "authorName": "Amphilochius von Ikonion",
     "title": "Über die sündige Frau",
     "directory": "werke/Amphilochius von Ikonion/Über die sündige Frau",
-    "contentRevision": "sha256:35d3153ab98ae31eb749012a77140b9334575483549acad3f4ca9fd8620b3684"
+    "contentRevision": "sha256:737fe7a1b93e811113e1980038d21f9c0268ccd5d7f1e4d2565742d2b83b9fcd"
   },
   {
     "workId": "5b869eb5-2975-44f3-91f2-08dd3742007d",
@@ -88,7 +88,7 @@
     "authorName": "Apostolische Werke",
     "title": "Didascalia Apostolorum",
     "directory": "werke/Apostolische Werke/Didascalia Apostolorum",
-    "contentRevision": "sha256:f28d85e5e4e1c6c650c4e4a53232569dfcb9f8bf5ef057f861f38ae245664f10"
+    "contentRevision": "sha256:073a59a1a4fd786782cb06dd3fc019085578c7d39916895b75fe4e6afab2c2ef"
   },
   {
     "workId": "ef3ef0f4-cdf8-43f7-6f2c-08deb5b3884d",
@@ -217,6 +217,13 @@
     "contentRevision": "sha256:9a0f791e48f309b09289649a46713661efe10ad57817814688f9db10461fddc5"
   },
   {
+    "workId": "cda927c1-4a18-4f81-d20c-08df253e6ebc",
+    "authorName": "Augustinus",
+    "title": "Über den Nutzen des Glaubens (De utilitate credendi)",
+    "directory": "werke/Augustinus/Über den Nutzen des Glaubens (De utilitate credendi)",
+    "contentRevision": "sha256:650a907857f9674d956d997ae95dd3a8fe900865ce94748fca83e3b547994fc7"
+  },
+  {
     "workId": "73d18b68-3f9c-4f2e-21c9-08df23296889",
     "authorName": "Augustinus",
     "title": "Über die Lüge",
@@ -291,7 +298,7 @@
     "authorName": "Clemens von Alexandria",
     "title": "Ermahnung an die Heiden",
     "directory": "werke/Clemens von Alexandria/Ermahnung an die Heiden",
-    "contentRevision": "sha256:db4255ed4fa4b3354863fcff18f90dd77ad99b0f52aaa50995c072258724a793"
+    "contentRevision": "sha256:4a7d2ce55f3807189bbd4d9b9bb665b0ada439cd8d3ae8aad3664efb7a923452"
   },
   {
     "workId": "055fb200-5181-435f-9d4c-08dda210d6e0",
@@ -305,21 +312,21 @@
     "authorName": "Clemens von Alexandria",
     "title": "Stromata, Buch 2",
     "directory": "werke/Clemens von Alexandria/Stromata/Stromata, Buch 2",
-    "contentRevision": "sha256:7587ee6ade5d4faacb36fe753900ee57cc2fc09565f8d00dc03eaf482ba3b8c4"
+    "contentRevision": "sha256:438948ed154e0c191cde9b531d997e54283e1344785cb896b9cbd62b2bbbdf8e"
   },
   {
     "workId": "97109018-5a6b-4d7c-958a-08deb3464589",
     "authorName": "Clemens von Alexandria",
     "title": "Stromata, Buch 3",
     "directory": "werke/Clemens von Alexandria/Stromata/Stromata, Buch 3",
-    "contentRevision": "sha256:101109a9380a6150d0341aa968b06fdae561e745b74000f1fd280a662948b236"
+    "contentRevision": "sha256:c3d7f6cc276e91bfe45d62bef40a1c5fc17e6afd7e1833517fba469010694cfd"
   },
   {
     "workId": "e0883bc1-0707-4001-330a-08deae0a27b1",
     "authorName": "Clemens von Alexandria",
     "title": "Stromata, Buch 4",
     "directory": "werke/Clemens von Alexandria/Stromata/Stromata, Buch 4",
-    "contentRevision": "sha256:024174cee5851051434f0e161e0a79ef24796c750625879f957c3cddefba2f58"
+    "contentRevision": "sha256:6ccfea8dc6b9dc080606760e2c5f07a04d587eddfb78a35644e3f1a1b9ba9432"
   },
   {
     "workId": "54b7929f-c193-469c-b348-08deba6aa462",
@@ -550,7 +557,7 @@
     "authorName": "Ephräm der Syrer",
     "title": "Über das zweite Kommen des Herrn und über die Buße",
     "directory": "werke/Ephräm der Syrer/Über das zweite Kommen des Herrn und über die Buße",
-    "contentRevision": "sha256:eb884f094ae00655b77d44caaf5fb6db4c2ca63fc7ca714ebf1fb6a32570ae5a"
+    "contentRevision": "sha256:c95547a72ddcb4895c2b3a069d940b12720992272595c36569d50db2b46f3bde"
   },
   {
     "workId": "8a6cf785-800c-49a2-b596-08dd0f21e34f",
@@ -606,7 +613,7 @@
     "authorName": "Gregor der Große",
     "title": "Hirtenregel, Buch 3",
     "directory": "werke/Gregor der Große/Die Hirtenregeln/Hirtenregel, Buch 3",
-    "contentRevision": "sha256:06d8eddb8c152a24cec7aa6a7d1af5df83c8ca9d8b24bdc5a16251d6f1519047"
+    "contentRevision": "sha256:828a61b9d807fad27bbe445716cfd30a9c9d55cb7d7fbb3b3e8fe2dc9b133d7b"
   },
   {
     "workId": "2f34b57e-347f-45d4-37ac-08ddb03426f1",
@@ -621,6 +628,13 @@
     "title": "Kanonischer Brief",
     "directory": "werke/Gregor der Wundertäter/Kanonischer Brief",
     "contentRevision": "sha256:db7a45b7870c5fa4cf9b26b3f195cc934c5018b4c5963fb424308124f8d76ca3"
+  },
+  {
+    "workId": "fa5b3f8f-e79b-4683-37ad-08ddb03426f1",
+    "authorName": "Gregor der Wundertäter",
+    "title": "Metaphrase über das Buch der Prediger",
+    "directory": "werke/Gregor der Wundertäter/Metaphrase über das Buch der Prediger",
+    "contentRevision": "sha256:67ff1157ccd52ea5f7f9c78a93eba8687071b63b8c767e2d4229b5e6219bd82f"
   },
   {
     "workId": "90319549-c840-4b1a-8c11-08dde61a9769",
@@ -665,11 +679,18 @@
     "contentRevision": "sha256:61fafc7d732ebae01765a9e253facadadb946f41da66fce69797b6c152559544"
   },
   {
+    "workId": "fb976eb2-5648-4a85-436a-08decf6e5e28",
+    "authorName": "Gregor von Nyssa",
+    "title": "Über das Leben des Mose, Buch 2",
+    "directory": "werke/Gregor von Nyssa/Über das Leben des Mose/Über das Leben des Mose, Buch 2",
+    "contentRevision": "sha256:64e1f982604def7b19ab720bb44174cac418b62028304b53868d4d9fee1a470f"
+  },
+  {
     "workId": "d420fd4e-e7b6-4336-2091-08dead0f2325",
     "authorName": "Gregor von Nyssa",
     "title": "Über die Seele und die Auferstehung",
     "directory": "werke/Gregor von Nyssa/Über die Seele und die Auferstehung",
-    "contentRevision": "sha256:a8199936c5ae31308fd44961b2b12786ce8337cd07378548b3dc02d6788ea9fa"
+    "contentRevision": "sha256:f5c78d5d7073ff4f9315b6621bfa8752d214f649c0a729a8054fe25f565b414a"
   },
   {
     "workId": "07b8ea1d-e055-460f-e4c8-08dd0635942f",
@@ -788,14 +809,14 @@
     "authorName": "Irenäus von Lyon",
     "title": "Gegen die Häresien – Buch III",
     "directory": "werke/Irenäus von Lyon/Gegen die Häresien/Gegen die Häresien – Buch III",
-    "contentRevision": "sha256:258d0f6722428a378764502ef0074a5b0a53ad39a6d6ad7ba0181d3800df0319"
+    "contentRevision": "sha256:93b1d0d750fc842a4b6f4433aedb42ca1eb7d33ec6ee2c49928c1b8c75087a95"
   },
   {
     "workId": "3052a516-7685-4c41-58ed-08def5890780",
     "authorName": "Irenäus von Lyon",
     "title": "Gegen die Häresien – Buch IV",
     "directory": "werke/Irenäus von Lyon/Gegen die Häresien/Gegen die Häresien – Buch IV",
-    "contentRevision": "sha256:e8ddc0e09c8c2ed16fc9e0e6f0ecc3905ceaaaca1cade5fa65abcb035becdbc5"
+    "contentRevision": "sha256:d21430001e854893c4509d7d411e128cf5febe60bca0e8f7855079c129d1ff64"
   },
   {
     "workId": "9e628aca-981b-4090-58ee-08def5890780",
@@ -1257,7 +1278,7 @@
     "authorName": "Johannes Chrysostomus",
     "title": "51. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/51. Homilie über Matthäus",
-    "contentRevision": "sha256:ce960df90e93949d99b924dd28957f8f9c6fe054744a7ceb1c44cd2fc4ca829d"
+    "contentRevision": "sha256:af9c7965cfb3cc7dcb0bafa10b1f61f8f9dc89b259b850999de6baef3dcd7b30"
   },
   {
     "workId": "fa6418fe-f0ac-41ce-55b0-08deedfb48dc",
@@ -1271,7 +1292,7 @@
     "authorName": "Johannes Chrysostomus",
     "title": "53. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/53. Homilie über Matthäus",
-    "contentRevision": "sha256:7dbddd65226b8ed1c640ab9326ce0759f7d00ab96f2e2da911c054aba0e45ba4"
+    "contentRevision": "sha256:52e8b959635b7ee6c67253e967c85b36c8f54470198aa095c3cf6270645a56cd"
   },
   {
     "workId": "25eb119d-72a5-4837-55b2-08deedfb48dc",
@@ -1369,7 +1390,7 @@
     "authorName": "Johannes Chrysostomus",
     "title": "64. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/64. Homilie über Matthäus",
-    "contentRevision": "sha256:41e1d1f3515141f9dd632c9a581840c6d30dd06581d78d2dec21192502b2ce51"
+    "contentRevision": "sha256:fd8408cec6d99db91528d7b0541e2dcb93bccb829ebe4bb9ce06d8294adbaec5"
   },
   {
     "workId": "3c2c80f6-68a0-4ed3-55bd-08deedfb48dc",
@@ -1467,7 +1488,7 @@
     "authorName": "Johannes Chrysostomus",
     "title": "76. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/76. Homilie über Matthäus",
-    "contentRevision": "sha256:a5711f1e5cb001742b2ce5df9e4830d2e25ac160d403c3ce192fa85cca12cd20"
+    "contentRevision": "sha256:baec6e26ee94824c1656efed51d84e3ec47a6eca24e6a7906c4b9408dda29a1e"
   },
   {
     "workId": "6fc7e1ca-81c4-4c39-55c9-08deedfb48dc",
@@ -1481,7 +1502,7 @@
     "authorName": "Johannes Chrysostomus",
     "title": "78. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/78. Homilie über Matthäus",
-    "contentRevision": "sha256:da6bb432b20717c3a3772e577c42e8d501a22182c829a18594669939046046f5"
+    "contentRevision": "sha256:92724cc9f521fddd6daf8acf52cbba87259777978acdabd67fbb721c82fe4796"
   },
   {
     "workId": "6134451f-72c7-4d2b-55cb-08deedfb48dc",
@@ -1649,7 +1670,7 @@
     "authorName": "Johannes Chrysostomus",
     "title": "Über die Unklarheit der Prophezeiungen",
     "directory": "werke/Johannes Chrysostomus/Über die Unklarheit der Prophezeiungen",
-    "contentRevision": "sha256:508bc25178310ade3b51c1cc1a8fc37ad9f2934fba3aea7c035c02ea556753ea"
+    "contentRevision": "sha256:dc9597cb36a80d27005f7f5446279afda70ebd722162956ff2583800e0113d21"
   },
   {
     "workId": "11705b53-8658-492f-6fd3-08de342e33c0",
@@ -1747,7 +1768,7 @@
     "authorName": "Lucifer von Calaris",
     "title": "Niemand darf in Abwesenheit gerichtet oder verurteilt werden, Buch 2",
     "directory": "werke/Lucifer von Calaris/Über Athanasius an Constantius/Niemand darf in Abwesenheit gerichtet oder verurteilt werden, Buch 2",
-    "contentRevision": "sha256:774bfc3d8c6d93687b08e8ad2c3602ae83db5f3e2de433281bd5275ab68fcb81"
+    "contentRevision": "sha256:1324b51d2fbf4eb40c8b8aa38f920cb20081811fb95d4d896e84b8c71cbdacb6"
   },
   {
     "workId": "acf39bc7-ab45-4fe4-8ca3-08dd754e948a",
@@ -1866,7 +1887,7 @@
     "authorName": "Nemesius von Emesa",
     "title": "Über die Natur des Menschen",
     "directory": "werke/Nemesius von Emesa/Über die Natur des Menschen",
-    "contentRevision": "sha256:7f6cf7abee39d14b67877a68774238c97b4e14601f5adbb9b110d2b58a0f12f1"
+    "contentRevision": "sha256:47e4e5ef0bd7398a9e482350ba6742c81babfab874613452bad27e540458571e"
   },
   {
     "workId": "e1a954f8-11ba-4707-aca5-08de8d7ab65a",
@@ -1978,7 +1999,7 @@
     "authorName": "Origenes",
     "title": "1. Homilie zu Levitikus",
     "directory": "werke/Origenes/Homilien zu Levitikus/1. Homilie zu Levitikus",
-    "contentRevision": "sha256:7d47507b07f2b41b18a9863bc4edd3a3ee71e7cd7ad6b5d186278f17a1e46612"
+    "contentRevision": "sha256:6e7cd079ce37b642ede412d54ff840947558d6f55fcd17a7a84b6f34c7d2b2f8"
   },
   {
     "workId": "85a57ae9-feda-4e79-d9a2-08de02c79663",
@@ -1992,7 +2013,7 @@
     "authorName": "Origenes",
     "title": "1. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/1. Predigt zu Genesis",
-    "contentRevision": "sha256:03986cffae8eae0bcff8a43508a9aee3f0e6e76defcb037c26c9acd6b8b1daa5"
+    "contentRevision": "sha256:c4e138d8efee233cbb4ed0b6a2d922744857b1967bc49637905b9037a0d53f2b"
   },
   {
     "workId": "7d1c0e24-8cd5-403a-7fe3-08de432eeccb",
@@ -2083,7 +2104,7 @@
     "authorName": "Origenes",
     "title": "2. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/2. Predigt zu Genesis",
-    "contentRevision": "sha256:2870a1768d7b8a67a4ac5092c56951db92c5a560c8f70035da0fa70d2ad1d039"
+    "contentRevision": "sha256:9f187690c0f3ee66b92e73f4a7622f3fa085c3f66559c4e2108008c8d7bf986c"
   },
   {
     "workId": "f62cca36-e10f-4b35-8d52-08de0b5e2e48",
@@ -2097,7 +2118,7 @@
     "authorName": "Origenes",
     "title": "3. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/3. Predigt zu Genesis",
-    "contentRevision": "sha256:4dfc39d63375b0145f5b80bf2b2b7318e46df71fa337cc519d8d554150396d53"
+    "contentRevision": "sha256:e69d47ccbe8e4dd7bba61d976249f115b0d63d9bcaf32d82d84925baa7402ac1"
   },
   {
     "workId": "cebfc77a-09d3-4751-1ecb-08dde73b5470",
@@ -2132,7 +2153,7 @@
     "authorName": "Origenes",
     "title": "6. Predigt zu Exodus",
     "directory": "werke/Origenes/Predigten zu Exodus/6. Predigt zu Exodus",
-    "contentRevision": "sha256:85f140ae6c010d925412f37a625e41be2b20e9b0d207f626a1fe75db9fb67505"
+    "contentRevision": "sha256:e9238137027282c06c1cea28a2a8667c8493ab25b43ac0698335c3e0f8755093"
   },
   {
     "workId": "e5265c53-b357-4e17-ba32-08dd10858b86",
@@ -2216,7 +2237,7 @@
     "authorName": "Origenes",
     "title": "Dialog mit Heraklides",
     "directory": "werke/Origenes/Dialog mit Heraklides",
-    "contentRevision": "sha256:39c4d2f5a7624ada13b7b392b60702989f3eb7111cf692121aecf0ac77afcb47"
+    "contentRevision": "sha256:a485a99f2a74fd20a21b0e8fd4ce47c8ece2b2421edbb15579fc5a56c0d8b98c"
   },
   {
     "workId": "c2d23838-df1c-418e-40d6-08dd0e6c848f",
@@ -2237,14 +2258,21 @@
     "authorName": "Origenes",
     "title": "Gegen Celsus, Buch 1",
     "directory": "werke/Origenes/Gegen Celsus/Gegen Celsus, Buch 1",
-    "contentRevision": "sha256:b7b7219184698ad3d97d0abe4bfe26a6cd0218a046b31381e2944af3c9eb7469"
+    "contentRevision": "sha256:c09aa382a9243123fc87cc05a57bba8d88c9ad958d9eb56e6564e01d3c379798"
   },
   {
     "workId": "276dda71-5b9f-409e-a2b0-08ddecb317c5",
     "authorName": "Origenes",
     "title": "Gegen Celsus, Buch 2",
     "directory": "werke/Origenes/Gegen Celsus/Gegen Celsus, Buch 2",
-    "contentRevision": "sha256:ce19401869b2b093b78fe013b21f889e5b6ca8f1daf21a35b5255a2cc81007be"
+    "contentRevision": "sha256:e6097152a80b41d2239dc2f08db1080c91987a930458a9e4925b33be5714cc60"
+  },
+  {
+    "workId": "b385594e-1726-4e12-330c-08deae0a27b1",
+    "authorName": "Origenes",
+    "title": "Gegen Celsus, Buch 3",
+    "directory": "werke/Origenes/Gegen Celsus/Gegen Celsus, Buch 3",
+    "contentRevision": "sha256:23b6e32c7a18c9c6acbb33e57a5fe9dd384b8afd39cfe5a3d8529a33f291f7c4"
   },
   {
     "workId": "0fc5fcd9-00ed-48b1-9153-08df200aaa32",
@@ -2252,6 +2280,34 @@
     "title": "Gegen Celsus, Buch 4",
     "directory": "werke/Origenes/Gegen Celsus/Gegen Celsus, Buch 4",
     "contentRevision": "sha256:e7350411c7d857257e62c1fc770594b06b13ddf19f5fa2697bb607ef8b35735c"
+  },
+  {
+    "workId": "0fd8cffb-efa7-498f-0f20-08dea89af5e5",
+    "authorName": "Origenes",
+    "title": "Gegen Celsus, Buch 5",
+    "directory": "werke/Origenes/Gegen Celsus/Gegen Celsus, Buch 5",
+    "contentRevision": "sha256:302bf60164a9f635ee25317f3313a88679c7604f18f147e4df132daac8926ae5"
+  },
+  {
+    "workId": "55ecd78c-1c86-42bc-eb8e-08deaa1d2b3a",
+    "authorName": "Origenes",
+    "title": "Gegen Celsus, Buch 6",
+    "directory": "werke/Origenes/Gegen Celsus/Gegen Celsus, Buch 6",
+    "contentRevision": "sha256:d8cf65d29450ba152da5613b1b2589a552769460d7b0fd53c3ee5dd084334e41"
+  },
+  {
+    "workId": "ca4f1d93-6572-4f7f-b778-08deba46511e",
+    "authorName": "Origenes",
+    "title": "Gegen Celsus, Buch 7",
+    "directory": "werke/Origenes/Gegen Celsus/Gegen Celsus, Buch 7",
+    "contentRevision": "sha256:d35cd5d6e07477974cc024eb7767a5fd421c44c8fd873abda7a90705e2d4044d"
+  },
+  {
+    "workId": "4d25443d-a7c1-489a-d117-08dea92b3a2f",
+    "authorName": "Origenes",
+    "title": "Gegen Celsus, Buch 8",
+    "directory": "werke/Origenes/Gegen Celsus/Gegen Celsus, Buch 8",
+    "contentRevision": "sha256:4a4bd285880c4b488085c4e8ac79f5c7fc3b07b44480ec8c27486694f3fd37e2"
   },
   {
     "workId": "72a24bdd-8b1f-4065-01fc-08de04e590d4",
@@ -2384,7 +2440,7 @@
     "authorName": "Rufinus von Aquila",
     "title": "Kirchengeschichte Buch 6",
     "directory": "werke/Rufinus von Aquila/Kirchengeschichte/Kirchengeschichte Buch 6",
-    "contentRevision": "sha256:69eec522e4b836cdd30da66d2e8408d97b39d714a0cdcf2df6a4e8f872e74fe8"
+    "contentRevision": "sha256:0a57e2540665f21cd00474996c6e5fa3ab1a66b773478dafc6027e22f88fa70f"
   },
   {
     "workId": "1795160e-60f8-4bba-6f37-08de214d06a1",
@@ -2552,7 +2608,7 @@
     "authorName": "Unbekannt",
     "title": "Gespräch des Archelaus",
     "directory": "werke/Unbekannt/Gespräch des Archelaus",
-    "contentRevision": "sha256:29c23e8c3d0d79e5e5a357662e774c4af26dbb1852998a3d8611a605c81943bb"
+    "contentRevision": "sha256:cd9bf3f116dd1cd513e6a326e840047ce205d17c9b8cb2255e732eee7dbf1c57"
   },
   {
     "workId": "16cf2c23-e67c-4865-fb2e-08df104798a7",
@@ -2594,7 +2650,7 @@
     "authorName": "Unbekannt",
     "title": "Vom Untergang Jerusalems, Buch 5",
     "directory": "werke/Unbekannt/Vom Untergang Jerusalems/Vom Untergang Jerusalems, Buch 5",
-    "contentRevision": "sha256:f9f87f6c8655ce930fcc0cb0003d0443960475d0195af630c83d8d943b688226"
+    "contentRevision": "sha256:b572c6c5241d7d2d6adca84f469a1c93a304d1c3ac8097ebf35093aa85041153"
   },
   {
     "workId": "677d7a4d-af40-4462-e277-08dd2f5b6104",
