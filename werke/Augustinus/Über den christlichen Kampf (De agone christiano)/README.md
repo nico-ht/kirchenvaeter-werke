@@ -1,0 +1,41 @@
+# Über den christlichen Kampf (De agone christiano)
+
+Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/augustinus-ueber-den-christlichen-kampf) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- [Kapitel 1: Christus besiegt den Teufel in unserer Natur, damit auch wir ihn durch Weltentsagung überwinden](kapitel-001.md)
+- [Kapitel 2: Unsichtbare Feinde werden im Innern besiegt, indem wir die Begierden überwinden, durch die sie herrschen](kapitel-002.md)
+- [Kapitel 3: Böse Geister herrschen über Sünder und wohnen im Luftraum, nicht im höchsten Himmel](kapitel-003.md)
+- [Kapitel 4: Die Manichäer machen Gottes Sieg über die Finsternis zum ewigen Elend eines unschuldigen Teils seiner Natur](kapitel-004.md)
+- [Kapitel 5: „Im Himmel“ kann unser Leben nach Gottes Geboten meinen, von dem uns böse Mächte abbringen wollen](kapitel-005.md)
+- [Kapitel 6: Wie wir nach dem Vorbild des Paulus durch die Züchtigung unseres Körpers die Welt besiegen](kapitel-006.md)
+- [Kapitel 7: Gott wirkt auch durch die Bösen Gutes, bestraft sie aber für ihre Bosheit](kapitel-007.md)
+- [Kapitel 8: Gott sorgt unmittelbar für die heiligen Seelen und lenkt durch sie die übrige Schöpfung](kapitel-008.md)
+- [Kapitel 9: Schon fern vom Herrn sollen wir im Geist seine Süße kosten und nach der Quelle des Lebens verlangen](kapitel-009.md)
+- [Kapitel 10: Gottes Sohn nimmt unsere selbstverschuldete Schwäche an, bleibt aber in seiner Gottheit unveränderlich](kapitel-010.md)
+- [Kapitel 11: Wie das Vorbild des menschgewordenen Gottessohnes unsere Laster heilt und uns Hoffnung gibt](kapitel-011.md)
+- [Kapitel 12: Durch Erdulden gestärkt, begegnet die Kirche ihren Gegnern mit Einsicht und unterscheidet Spreu und Weizen](kapitel-012.md)
+- [Kapitel 13: Glaube und ein Leben nach Gottes Geboten führen zur Erkenntnis der unwandelbaren Wahrheit](kapitel-013.md)
+- [Kapitel 14: Vater, Sohn und Heiliger Geist sind Ursprung, Bild und Heiligkeit, nicht wechselnde Namen des Vaters](kapitel-014.md)
+- [Kapitel 15: Wer drei Götter fordert, verkennt die eine göttliche Substanz und denkt sie wie räumlich getrennte Körper](kapitel-015.md)
+- [Kapitel 16: Der Sohn ist ewig gezeugt, nicht geschaffen; der Geist verbindet Vater und Sohn als Liebe und Heiligkeit](kapitel-016.md)
+- [Kapitel 17: Christus ist das fleischgewordene Wort, nicht nur ein Mensch, der wegen seiner Gerechtigkeit Gottes Sohn heißt](kapitel-017.md)
+- [Kapitel 18: Wer Christi wirklichen Leib leugnet, um Gottes Reinheit zu wahren, unterstellt der Wahrheit eine Lüge](kapitel-018.md)
+- [Kapitel 19: Christus nahm auch den menschlichen Geist an: Nicht nur der Leib wird in ihm erneuert](kapitel-019.md)
+- [Kapitel 20: Christus verkörpert die Person der Weisheit Gottes, während die Heiligen durch sie weise werden](kapitel-020.md)
+- [Kapitel 21: „Das Wort ist Fleisch geworden“ meint die Annahme des ganzen Menschen, nicht allein des Körpers](kapitel-021.md)
+- [Kapitel 22: Christus wurde als Mann von einer Frau geboren, um beide Geschlechter zu befreien](kapitel-022.md)
+- [Kapitel 23: Gottes Sohn ist kein Geschöpf: Er litt im angenommenen Menschen, während seine Gottheit unverändert blieb](kapitel-023.md)
+- [Kapitel 24: Christi auferstandener Leib bleibt menschlich: Gottes Macht überwindet seine natürlichen Grenzen](kapitel-024.md)
+- [Kapitel 25: Christus nahm seinen Leib in den Himmel mit, obwohl dieser nicht vom Himmel herabgestiegen war](kapitel-025.md)
+- [Kapitel 26: Die Rechte des Vaters bezeichnet keine Körperseite, sondern die ewige Seligkeit Christi und seiner Kirche](kapitel-026.md)
+- [Kapitel 27: Warum „schon gerichtet“ den Gerichtstag nicht ausschließt und „nicht gerichtet“ Freiheit von Verurteilung bedeutet](kapitel-027.md)
+- [Kapitel 28: Der verheißene Heilige Geist kam an Pfingsten zu den Jüngern, nicht erst in späteren Glaubenslehrern](kapitel-028.md)
+- [Kapitel 29: Die fortdauernde Ausbreitung der Kirche unter den Völkern widerlegt den Alleinanspruch der Donatisten](kapitel-029.md)
+- [Kapitel 30: Die Luziferianer spalten sich ab, weil die Kirche reuige Bischöfe in mütterlicher Barmherzigkeit wieder aufnimmt](kapitel-030.md)
+- [Kapitel 31: Wer der Kirche die Vergebung aller Sünden abspricht, entzieht Kranken die Arznei](kapitel-031.md)
+- [Kapitel 32: Das Fleisch wird auferstehen, aber nur als verwandelter, himmlischer Leib Gottes Reich besitzen](kapitel-032.md)
+- [Kapitel 33: Vollkommene Liebe verschließt dem Feind den Zugang und reinigt das Herz für die Erkenntnis Gottes](kapitel-033.md)

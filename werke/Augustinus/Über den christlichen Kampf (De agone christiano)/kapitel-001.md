@@ -1,0 +1,19 @@
+# Über den christlichen Kampf \(De agone christiano\) – Kapitel 1: Christus besiegt den Teufel in unserer Natur, damit auch wir ihn durch Weltentsagung überwinden
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/augustinus-ueber-den-christlichen-kampf#kapitel-faf50d5e-afc9-4569-9a61-08df260756ce).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Der Siegeskranz wird nur denen versprochen, die kämpfen\. In der Heiligen Schrift finden wir immer wieder die Verheißung, dass wir den Kranz erhalten, wenn wir siegen\. Doch um nicht durch viele Beispiele zu weit auszuholen: Beim Apostel Paulus steht ganz unmissverständlich: „Ich habe das Werk vollbracht, den Lauf vollendet, den Glauben bewahrt; nun wartet auf mich der Kranz der Gerechtigkeit\.[^bible-f15e7203-93be-4c7d-b285-35836c09985c]“ Wir müssen also wissen, wer dieser Gegner ist; wenn wir ihn besiegen, werden wir gekrönt\. Er ist nämlich derselbe, den unser Herr vor uns besiegt hat, damit auch wir siegen, wenn wir in ihm bleiben\. Gottes einziger Sohn aber, Gottes Kraft und Weisheit[^bible-0b6c795d-88a3-4f3a-b5fc-3517169c7a65] und das Wort, durch das alles geschaffen wurde[^bible-75ea5fcc-6844-4794-a8a6-9956d88d5983], bleibt stets unveränderlich über der ganzen Schöpfung\. Und wenn ihm schon die Geschöpfe unterworfen sind, die nicht gesündigt haben, wie viel mehr dann jedes sündige Geschöpf? Wenn ihm also alle heiligen Engel unterworfen sind, dann erst recht alle abtrünnigen Engel, deren Fürst der Teufel ist\. Weil dieser aber unsere Natur getäuscht hatte, ließ sich Gottes eingeborener Sohn dazu herab, gerade unsere Natur anzunehmen, um durch sie den Teufel zu besiegen und den, der ihm selbst stets unterworfen ist, auch uns zu unterwerfen\. Ihn meint er, wenn er sagt: „Der Fürst dieser Welt ist hinausgeworfen worden\.[^bible-5cb48935-4410-42e4-8edf-574454ddafa6]“ Er ist nicht aus der Welt hinausgeworfen worden, wie manche Häretiker meinen, sondern aus den Seelen derer, die am Wort Gottes festhalten und die Welt nicht lieben, deren Fürst er ist[^bible-5cb48935-4410-42e4-8edf-574454ddafa6]\. Denn er herrscht über diejenigen, die die zeitlichen Güter lieben, die diese sichtbare Welt enthält\. Er ist nicht selbst der Herr dieser Welt, sondern der Fürst jener Begierden, die nach allem Vergänglichen verlangen\. So sind ihm diejenigen unterworfen, die den ewigen Gott missachten und das Unbeständige und Wandelbare lieben\. Denn die Wurzel aller Übel ist die Begierde; manche sind ihr nachgejagt, dabei vom Glauben abgeirrt und haben sich in viele Schmerzen gestürzt\.[^bible-64d89fd5-ebd7-44aa-bec9-1213c49cc6c3] Durch diese Begierde herrscht der Teufel im Menschen und hält sein Herz in seiner Gewalt\. So sind alle, die diese Welt lieben\. Der Teufel aber wird hinausgeworfen[^bible-5cb48935-4410-42e4-8edf-574454ddafa6], wenn man dieser Welt von ganzem Herzen entsagt\. Denn so entsagt man dem Teufel, der der Fürst dieser Welt ist[^bible-5cb48935-4410-42e4-8edf-574454ddafa6]: indem man seinen Verführungen, seinem Prunk und seinen Engeln entsagt\. Darum sagt der Herr selbst, der die bereits siegreiche menschliche Natur an sich trug: „Wisst, dass ich die Welt besiegt habe\.[^bible-7278f201-39c6-4472-bb04-7ba6371e5c4e]“
+
+## Bibelverweise
+
+[^bible-0b6c795d-88a3-4f3a-b5fc-3517169c7a65]: 1Kor 1,24
+[^bible-5cb48935-4410-42e4-8edf-574454ddafa6]: Joh 12,31
+[^bible-64d89fd5-ebd7-44aa-bec9-1213c49cc6c3]: 1Tim 6,10
+[^bible-7278f201-39c6-4472-bb04-7ba6371e5c4e]: Joh 16,33
+[^bible-75ea5fcc-6844-4794-a8a6-9956d88d5983]: Joh 1,1; Joh 1,3
+[^bible-f15e7203-93be-4c7d-b285-35836c09985c]: 2Tim 4,7–2Tim 4,8

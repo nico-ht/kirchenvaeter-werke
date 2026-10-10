@@ -224,6 +224,13 @@
     "contentRevision": "sha256:650a907857f9674d956d997ae95dd3a8fe900865ce94748fca83e3b547994fc7"
   },
   {
+    "workId": "c1ba5632-a28b-4223-a547-08df26075633",
+    "authorName": "Augustinus",
+    "title": "Über den christlichen Kampf (De agone christiano)",
+    "directory": "werke/Augustinus/Über den christlichen Kampf (De agone christiano)",
+    "contentRevision": "sha256:da0c9affe2a7ee3415fbfbe474b409fb7da89a1515bc37c471a9cf3edc569091"
+  },
+  {
     "workId": "73d18b68-3f9c-4f2e-21c9-08df23296889",
     "authorName": "Augustinus",
     "title": "Über die Lüge",
