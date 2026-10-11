@@ -1,10 +1,10 @@
-# 1. Homilie zu Levitikus
+# 1. Homilie über Levitikus
 
 Origenes
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/1-homilie-zu-levitikus) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/1-homilie-ueber-levitikus) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 - [Kapitel 1: Warum die Kirche Levitikus geistlich auslegen muss, statt seine Opfergebote wörtlich zu befolgen](kapitel-001.md)
 - [Kapitel 2: Das fehlerlose Kalb als Bild Christi, den das Menschengeschlecht Gott als Opfer darbringt](kapitel-002.md)
