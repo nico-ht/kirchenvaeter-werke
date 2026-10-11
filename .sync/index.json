@@ -53,7 +53,7 @@
     "authorName": "Amphilochius von Ikonion",
     "title": "Über die sündige Frau",
     "directory": "werke/Amphilochius von Ikonion/Über die sündige Frau",
-    "contentRevision": "sha256:737fe7a1b93e811113e1980038d21f9c0268ccd5d7f1e4d2565742d2b83b9fcd"
+    "contentRevision": "sha256:6d6577748f350ce75955decfd63b6f277685d3ec13c08c3a8ec21cfd7124d3c0"
   },
   {
     "workId": "5b869eb5-2975-44f3-91f2-08dd3742007d",
@@ -298,7 +298,7 @@
     "authorName": "Clemens von Alexandria",
     "title": "Der Erzieher: Buch 3",
     "directory": "werke/Clemens von Alexandria/Der Erzieher/Der Erzieher Buch 3",
-    "contentRevision": "sha256:6608fa7e54fe25baa151c1aec3782ce44ffc00f9b8a5d6d926037dccb8580365"
+    "contentRevision": "sha256:1942c5796ce89bd66c016fe3e8ba0e3ccc77dcc5ce344913f11d85c24e44a231"
   },
   {
     "workId": "307235dc-c480-48a4-ccc1-08dd2abb5377",
@@ -949,7 +949,7 @@
     "authorName": "Johannes Chrysostomus",
     "title": "16. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/16. Homilie über Matthäus",
-    "contentRevision": "sha256:d81a0648a71589d7c155ff1116accd6f7abdcf141c284c6e2cc38f2dd3fe2c53"
+    "contentRevision": "sha256:ef51389230d5edb69e6790f2ea466629f893c18e7f231b47d9efb8f1941ba944"
   },
   {
     "workId": "c8fefab4-2b5c-4cf4-558d-08deedfb48dc",
@@ -2004,9 +2004,9 @@
   {
     "workId": "7c77934a-9c85-4c2a-5563-08de5df2dd09",
     "authorName": "Origenes",
-    "title": "1. Homilie zu Levitikus",
-    "directory": "werke/Origenes/Homilien zu Levitikus/1. Homilie zu Levitikus",
-    "contentRevision": "sha256:6e7cd079ce37b642ede412d54ff840947558d6f55fcd17a7a84b6f34c7d2b2f8"
+    "title": "1. Homilie über Levitikus",
+    "directory": "werke/Origenes/Homilien über Levitikus/1. Homilie über Levitikus",
+    "contentRevision": "sha256:224291d1339e9a11a4c3fc6b3926bb31f997e3d5f1a7a8472f0a0e201d851e4a"
   },
   {
     "workId": "85a57ae9-feda-4e79-d9a2-08de02c79663",
@@ -2023,6 +2023,13 @@
     "contentRevision": "sha256:c4e138d8efee233cbb4ed0b6a2d922744857b1967bc49637905b9037a0d53f2b"
   },
   {
+    "workId": "053ea95a-6020-4c82-a2da-08df26c2cd69",
+    "authorName": "Origenes",
+    "title": "10. Homilie über Levitikus",
+    "directory": "werke/Origenes/Homilien über Levitikus/10. Homilie über Levitikus",
+    "contentRevision": "sha256:3bcb461205fdbcf2232963a6d94b539e33a4dfc5f90975c7d8b32f52451a44b8"
+  },
+  {
     "workId": "7d1c0e24-8cd5-403a-7fe3-08de432eeccb",
     "authorName": "Origenes",
     "title": "10. Predigt zu Exodus",
@@ -2035,6 +2042,13 @@
     "title": "10. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/10. Predigt zu Genesis",
     "contentRevision": "sha256:7bde0ef628477c5b036ff80ed7730b7957ecc0fedee45442a59eaace5c550f8c"
+  },
+  {
+    "workId": "3eba1466-4cb4-4a97-a2db-08df26c2cd69",
+    "authorName": "Origenes",
+    "title": "11. Homilie über Levitikus",
+    "directory": "werke/Origenes/Homilien über Levitikus/11. Homilie über Levitikus",
+    "contentRevision": "sha256:2b233ae379c5a81afa1ea3e7b5b01f07eabef377b3e8d4a3acb736d65a4bab1a"
   },
   {
     "workId": "7d858e7e-ed28-4638-7fe4-08de432eeccb",
@@ -2051,6 +2065,13 @@
     "contentRevision": "sha256:230de4f83245f6413508417027eee2a35327b3b09d532460fc04849b088c95a6"
   },
   {
+    "workId": "6d9f31b4-efa8-48d5-a2df-08df26c2cd69",
+    "authorName": "Origenes",
+    "title": "12. Homilie über Levitikus",
+    "directory": "werke/Origenes/Homilien über Levitikus/12. Homilie über Levitikus",
+    "contentRevision": "sha256:f7de36df93c6227087e69b633575ac9ef85a04652d5afcc4f8cad17418e52765"
+  },
+  {
     "workId": "11b5f40f-fcb9-4f1a-7fe5-08de432eeccb",
     "authorName": "Origenes",
     "title": "12. Predigt zu Exodus",
@@ -2063,6 +2084,13 @@
     "title": "12. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/12. Predigt zu Genesis",
     "contentRevision": "sha256:11635d2f125748ed33341500c4a6079f9939e0152ba621b5af6e951782d7365a"
+  },
+  {
+    "workId": "e0eb99cc-36fc-47c8-a2e0-08df26c2cd69",
+    "authorName": "Origenes",
+    "title": "13. Homilie über Levitikus",
+    "directory": "werke/Origenes/Homilien über Levitikus/13. Homilie über Levitikus",
+    "contentRevision": "sha256:97660920f2ac488b5053779c70df911544f64274876c47709294adcae7cbac02"
   },
   {
     "workId": "a839fa20-d16e-43eb-7fe6-08de432eeccb",
@@ -2086,6 +2114,13 @@
     "contentRevision": "sha256:f3563dc71ce72844eed44949f3a7f43402c0eb9972e63e0382dcaeb6462d9e57"
   },
   {
+    "workId": "d76ef9a3-1306-4a38-a2d9-08df26c2cd69",
+    "authorName": "Origenes",
+    "title": "15. Homilie über Levitikus",
+    "directory": "werke/Origenes/Homilien über Levitikus/15. Homilie über Levitikus",
+    "contentRevision": "sha256:66d31d250ac8e7017bd8c607d954b89a08fa9e2ec98d2eaf3254d0298a664d0e"
+  },
+  {
     "workId": "23e3800c-3ec9-4257-0f88-08de01f65af8",
     "authorName": "Origenes",
     "title": "15. Predigt zu Genesis",
@@ -2093,11 +2128,25 @@
     "contentRevision": "sha256:a2e0af51a866cc003f0a8830fee5c4d167f6d8b277c1e79c57eb5eb7bab03908"
   },
   {
+    "workId": "3d3044bc-8e98-44a0-bcc9-08df20c6ce7a",
+    "authorName": "Origenes",
+    "title": "16. Homilie über Levitikus",
+    "directory": "werke/Origenes/Homilien über Levitikus/16. Homilie über Levitikus",
+    "contentRevision": "sha256:de8b125622b1c8348884cfcc0522c0f2703d4fd7235f734c480f4be66b3bf356"
+  },
+  {
     "workId": "a7f43d11-1f4a-4e7b-0f89-08de01f65af8",
     "authorName": "Origenes",
     "title": "16. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/16. Predigt zu Genesis",
     "contentRevision": "sha256:f9bc478afb51cdf52779e88d6aeb396e50932f421ddaddcc8d6b211e365994dc"
+  },
+  {
+    "workId": "d0bfef34-c85e-4f4f-55bc-08dee4bd3e57",
+    "authorName": "Origenes",
+    "title": "2. Homilie über Levitikus",
+    "directory": "werke/Origenes/Homilien über Levitikus/2. Homilie über Levitikus",
+    "contentRevision": "sha256:247881b0dc880ad54b690e95f448ea86c6bb2c3a23888278a7fdf9ec7d85c47e"
   },
   {
     "workId": "d0b0afe8-458f-495b-ca1a-08de0a9887c9",
@@ -2114,6 +2163,13 @@
     "contentRevision": "sha256:9f187690c0f3ee66b92e73f4a7622f3fa085c3f66559c4e2108008c8d7bf986c"
   },
   {
+    "workId": "83a1ba1e-5e85-4b6f-a2dc-08df26c2cd69",
+    "authorName": "Origenes",
+    "title": "3. Homilie über Levitikus",
+    "directory": "werke/Origenes/Homilien über Levitikus/3. Homilie über Levitikus",
+    "contentRevision": "sha256:4e5cb07c4220b1ddc9ea34b710ae3dae1fe1b1c1e52ce02da366903d6076b717"
+  },
+  {
     "workId": "f62cca36-e10f-4b35-8d52-08de0b5e2e48",
     "authorName": "Origenes",
     "title": "3. Predigt zu Exodus",
@@ -2126,6 +2182,13 @@
     "title": "3. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/3. Predigt zu Genesis",
     "contentRevision": "sha256:e69d47ccbe8e4dd7bba61d976249f115b0d63d9bcaf32d82d84925baa7402ac1"
+  },
+  {
+    "workId": "a213da7f-8c77-4471-a2dd-08df26c2cd69",
+    "authorName": "Origenes",
+    "title": "4. Homilie über Levitikus",
+    "directory": "werke/Origenes/Homilien über Levitikus/4. Homilie über Levitikus",
+    "contentRevision": "sha256:3a87572ef6e7cf4115bedf269668514b7c4b02a4aa82e34f26660f691f26d5f5"
   },
   {
     "workId": "cebfc77a-09d3-4751-1ecb-08dde73b5470",
@@ -2142,6 +2205,13 @@
     "contentRevision": "sha256:a849d4aa18debfd171fdc1e72ef2e1fb11322d051a8dbfcd25ea229586eefb82"
   },
   {
+    "workId": "6ecda56f-e62c-4503-a2de-08df26c2cd69",
+    "authorName": "Origenes",
+    "title": "5. Homilie über Levitikus",
+    "directory": "werke/Origenes/Homilien über Levitikus/5. Homilie über Levitikus",
+    "contentRevision": "sha256:3dc3aba5a72a3135ebf7ac208f2d589bcc94a7b9903a7e0096e1f164a2ec8b30"
+  },
+  {
     "workId": "d4f791c2-fec7-4e22-a470-08de29b75efa",
     "authorName": "Origenes",
     "title": "5. Predigt zu Exodus",
@@ -2154,6 +2224,13 @@
     "title": "5. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/5. Predigt zu Genesis",
     "contentRevision": "sha256:c8d6bfdd02c6bef043cef9ae40e8a235846d523b04819eb25a9d5c76bbf349ca"
+  },
+  {
+    "workId": "9fe5b795-898e-43a7-55bd-08dee4bd3e57",
+    "authorName": "Origenes",
+    "title": "6. Homilie über Levitikus",
+    "directory": "werke/Origenes/Homilien über Levitikus/6. Homilie über Levitikus",
+    "contentRevision": "sha256:ea24c4152d1784cdc8dcfcf081fab1076f6201e02a2866130ef50ff57575288c"
   },
   {
     "workId": "e2a3a1a3-b375-44a1-82b2-08de2d205df9",
@@ -2196,6 +2273,13 @@
     "title": "8. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/8. Predigt zu Genesis",
     "contentRevision": "sha256:4b006fd75f6303480ea0f795171e95f852297c477673efcd1075866825e266bb"
+  },
+  {
+    "workId": "9b54cf56-1a5f-4380-55be-08dee4bd3e57",
+    "authorName": "Origenes",
+    "title": "9. Homilie über Levitikus",
+    "directory": "werke/Origenes/Homilien über Levitikus/9. Homilie über Levitikus",
+    "contentRevision": "sha256:a85137993d430f76f0c170b39f61e02bcedae5501f032f0305b36b7ae574b7aa"
   },
   {
     "workId": "ce92a7a2-56b4-4c34-7fe2-08de432eeccb",
