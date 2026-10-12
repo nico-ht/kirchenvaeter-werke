@@ -42,6 +42,20 @@
     "contentRevision": "sha256:c6c93cd1030e1b0739f48036f06d0afd22b39ce4671fb3e5131a4baae50352e0"
   },
   {
+    "workId": "d2709503-fedc-4561-5b9f-08df27871084",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Über die Segnungen der Patriarchen (De benedictionibus patriarcharum)",
+    "directory": "werke/Ambrosius von Mailand/Sieben exegetische Werke/Über die Segnungen der Patriarchen (De benedictionibus patriarcharum)",
+    "contentRevision": "sha256:7e94a4216d7f76cd846d2417db4154edd25859687976b5e290b027e9a77217ed"
+  },
+  {
+    "workId": "9456cef0-fcf8-4c62-2ca1-08df276bd3eb",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Über die Witwen (De viduis)",
+    "directory": "werke/Ambrosius von Mailand/Über die Witwen (De viduis)",
+    "contentRevision": "sha256:ccd34862f742498286313a202027f2e62fe5bf755201f274374073b21ed2f12f"
+  },
+  {
     "workId": "68f579bd-1a89-4e6f-90c9-08de390c5250",
     "authorName": "Amphilochius von Ikonion",
     "title": "Über die Neugetauften",
@@ -154,6 +168,13 @@
     "contentRevision": "sha256:1d49c6a0e167202d7ae00b48c6c000d780669e206083cbdf41d29ebe3212cefd"
   },
   {
+    "workId": "07074b10-aaea-4db9-2ca2-08df276bd3eb",
+    "authorName": "Athanasius",
+    "title": "Brief an Dracontius (Epistula ad Dracontium)",
+    "directory": "werke/Athanasius/Brief an Dracontius (Epistula ad Dracontium)",
+    "contentRevision": "sha256:6de8bb62d076a3c9bf4561c5375a32b1bfcdb3a7f4b339f4ebc58b01df0b1abf"
+  },
+  {
     "workId": "944df04d-8349-40a9-2c57-08dd392b4362",
     "authorName": "Athanasius",
     "title": "Das Leben des Heiligen Antonius",
@@ -186,7 +207,7 @@
     "authorName": "Athenagoras von Athen",
     "title": "Ein Plädoyer für die Christen",
     "directory": "werke/Athenagoras von Athen/Ein Plädoyer für die Christen",
-    "contentRevision": "sha256:76df659c882daa305d49d6c0298c1fedb0466ef154d76e168985ef304fb91cd7"
+    "contentRevision": "sha256:ee05fcb672dd23113fe0d48c07bd94751db20cdb4edaf264af95d6478e049d70"
   },
   {
     "workId": "7d89d74d-df95-4c6b-7d58-08df134d0ace",
@@ -298,7 +319,7 @@
     "authorName": "Clemens von Alexandria",
     "title": "Der Erzieher: Buch 3",
     "directory": "werke/Clemens von Alexandria/Der Erzieher/Der Erzieher Buch 3",
-    "contentRevision": "sha256:1942c5796ce89bd66c016fe3e8ba0e3ccc77dcc5ce344913f11d85c24e44a231"
+    "contentRevision": "sha256:7cc0a9dca0d44c126ccff4af0c4242e0ad048d1c6e91fbb341c56dd6e896f06c"
   },
   {
     "workId": "307235dc-c480-48a4-ccc1-08dd2abb5377",
@@ -2009,6 +2030,13 @@
     "contentRevision": "sha256:224291d1339e9a11a4c3fc6b3926bb31f997e3d5f1a7a8472f0a0e201d851e4a"
   },
   {
+    "workId": "30b1f0b8-69c7-4706-2ca4-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "1. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/1. Homilie über Numeri",
+    "contentRevision": "sha256:98a2b0000153b3259c00c19036863817db6df843f4bc0f1e6ff78792d54691c4"
+  },
+  {
     "workId": "85a57ae9-feda-4e79-d9a2-08de02c79663",
     "authorName": "Origenes",
     "title": "1. Predigt zu Exodus",
@@ -2023,11 +2051,25 @@
     "contentRevision": "sha256:c4e138d8efee233cbb4ed0b6a2d922744857b1967bc49637905b9037a0d53f2b"
   },
   {
+    "workId": "0c82253c-be10-4823-5ba4-08df27871084",
+    "authorName": "Origenes",
+    "title": "10. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/10. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:c05b9ae700d3b6802f0a80a56be23c0a4624d8281e16def1155aa7f18ab662ac"
+  },
+  {
     "workId": "053ea95a-6020-4c82-a2da-08df26c2cd69",
     "authorName": "Origenes",
     "title": "10. Homilie über Levitikus",
     "directory": "werke/Origenes/Homilien über Levitikus/10. Homilie über Levitikus",
     "contentRevision": "sha256:3bcb461205fdbcf2232963a6d94b539e33a4dfc5f90975c7d8b32f52451a44b8"
+  },
+  {
+    "workId": "d10dcbee-3b46-455a-2caa-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "10. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/10. Homilie über Numeri",
+    "contentRevision": "sha256:fcc1408a01598e6d48eee1752bc687ec6d2f57d96cb1dab202376c1d2f5e20f4"
   },
   {
     "workId": "7d1c0e24-8cd5-403a-7fe3-08de432eeccb",
@@ -2044,11 +2086,25 @@
     "contentRevision": "sha256:7bde0ef628477c5b036ff80ed7730b7957ecc0fedee45442a59eaace5c550f8c"
   },
   {
+    "workId": "e1542b6f-4484-4793-5ba5-08df27871084",
+    "authorName": "Origenes",
+    "title": "11. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/11. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:94df6c8c4424d6aa485b950993be64883756952be59b0e813f1c6e2abdf94401"
+  },
+  {
     "workId": "3eba1466-4cb4-4a97-a2db-08df26c2cd69",
     "authorName": "Origenes",
     "title": "11. Homilie über Levitikus",
     "directory": "werke/Origenes/Homilien über Levitikus/11. Homilie über Levitikus",
     "contentRevision": "sha256:2b233ae379c5a81afa1ea3e7b5b01f07eabef377b3e8d4a3acb736d65a4bab1a"
+  },
+  {
+    "workId": "de71191f-8094-4ea9-2cab-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "11. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/11. Homilie über Numeri",
+    "contentRevision": "sha256:93b47cc0ec9de3575af90c41de2ab1c9b1cc3e4b8df171ea441eae613164423a"
   },
   {
     "workId": "7d858e7e-ed28-4638-7fe4-08de432eeccb",
@@ -2063,6 +2119,13 @@
     "title": "11. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/11. Predigt zu Genesis",
     "contentRevision": "sha256:230de4f83245f6413508417027eee2a35327b3b09d532460fc04849b088c95a6"
+  },
+  {
+    "workId": "2081e8ae-8979-47fd-5ba6-08df27871084",
+    "authorName": "Origenes",
+    "title": "12. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/12. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:3236d47f08536a1765f494ca6cd87f924ff6aea589aec1609e433e9ac71b77e1"
   },
   {
     "workId": "6d9f31b4-efa8-48d5-a2df-08df26c2cd69",
@@ -2093,6 +2156,13 @@
     "contentRevision": "sha256:97660920f2ac488b5053779c70df911544f64274876c47709294adcae7cbac02"
   },
   {
+    "workId": "d4faa9ed-e5d4-47a0-2cac-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "13. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/13. Homilie über Numeri",
+    "contentRevision": "sha256:3c365da17c65db5bf9a9822dbded879364f2b8e60e10f1299044959382af46ca"
+  },
+  {
     "workId": "a839fa20-d16e-43eb-7fe6-08de432eeccb",
     "authorName": "Origenes",
     "title": "13. Predigt zu Exodus",
@@ -2105,6 +2175,13 @@
     "title": "13. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/13. Predigt zu Genesis",
     "contentRevision": "sha256:55cde64481b64f3d91551226bd56ae74cf4800ed22a83d9d0e5ad40edebc3365"
+  },
+  {
+    "workId": "effb5009-6688-4b8d-2cad-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "14. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/14. Homilie über Numeri",
+    "contentRevision": "sha256:676208b84d081713c1e2ac58df49bb41409bb7cd91eeb1885f12f739b1b9664a"
   },
   {
     "workId": "900af40d-bec2-4bd6-0f87-08de01f65af8",
@@ -2128,11 +2205,25 @@
     "contentRevision": "sha256:a2e0af51a866cc003f0a8830fee5c4d167f6d8b277c1e79c57eb5eb7bab03908"
   },
   {
+    "workId": "f5ca6b07-a203-4f79-5ba7-08df27871084",
+    "authorName": "Origenes",
+    "title": "16. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/16. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:481a2da5f3f91ab9aeb4c13057618917ba12a16bb934464a634f63f14c210e80"
+  },
+  {
     "workId": "3d3044bc-8e98-44a0-bcc9-08df20c6ce7a",
     "authorName": "Origenes",
     "title": "16. Homilie über Levitikus",
     "directory": "werke/Origenes/Homilien über Levitikus/16. Homilie über Levitikus",
     "contentRevision": "sha256:de8b125622b1c8348884cfcc0522c0f2703d4fd7235f734c480f4be66b3bf356"
+  },
+  {
+    "workId": "de64d174-ac3a-430e-2cae-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "16. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/16. Homilie über Numeri",
+    "contentRevision": "sha256:fa4787f57e0659c1bd7b7da593e108acea43dff0c65d858379f703dea8a63ac3"
   },
   {
     "workId": "a7f43d11-1f4a-4e7b-0f89-08de01f65af8",
@@ -2142,11 +2233,67 @@
     "contentRevision": "sha256:f9bc478afb51cdf52779e88d6aeb396e50932f421ddaddcc8d6b211e365994dc"
   },
   {
+    "workId": "4c2b77c8-5c65-4bda-5ba8-08df27871084",
+    "authorName": "Origenes",
+    "title": "17. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/17. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:2a13596719f16f078bc3d7dacff4834937c34b76f1192f2f348dea0f7746a64e"
+  },
+  {
+    "workId": "db6021fd-e0f7-4b67-2caf-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "17. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/17. Homilie über Numeri",
+    "contentRevision": "sha256:31d3c5e28725c60b7817bc6a7f2eb55e88cf7b49036b2dbb59cb0d9b3a3c3f23"
+  },
+  {
+    "workId": "de189973-d22d-4353-5ba9-08df27871084",
+    "authorName": "Origenes",
+    "title": "18. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/18. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:03bfad50930f608641f2443c53011070f3f9b5bccce3a6f034c514cbb68448b9"
+  },
+  {
+    "workId": "6b2be568-5c6c-4cce-2cb0-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "18. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/18. Homilie über Numeri",
+    "contentRevision": "sha256:a91266e36ae2c086e3f28ee950b0a14e2bf478aedbb44a8b68054c211f6cf567"
+  },
+  {
+    "workId": "d50bdfcc-adcb-4a87-5baa-08df27871084",
+    "authorName": "Origenes",
+    "title": "19. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/19. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:8c82742b7d7e439931a1893e3e23ef3967d11d83eb91b771dcedbb858e0b9be6"
+  },
+  {
+    "workId": "779f2359-a396-47e6-2cb1-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "19. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/19. Homilie über Numeri",
+    "contentRevision": "sha256:8fc65a99881d5001b2c413ea8730cea3e43b6d72c3cbf29c015ae7fa6f10e7fb"
+  },
+  {
+    "workId": "03af71c2-f002-460d-5ba1-08df27871084",
+    "authorName": "Origenes",
+    "title": "2. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/2. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:1ae494cc4d193dd66000d39a2d708d68ae8f0dd3def516e07c7d408baa528dd8"
+  },
+  {
     "workId": "d0bfef34-c85e-4f4f-55bc-08dee4bd3e57",
     "authorName": "Origenes",
     "title": "2. Homilie über Levitikus",
     "directory": "werke/Origenes/Homilien über Levitikus/2. Homilie über Levitikus",
     "contentRevision": "sha256:247881b0dc880ad54b690e95f448ea86c6bb2c3a23888278a7fdf9ec7d85c47e"
+  },
+  {
+    "workId": "2f2a64e1-d53e-44cb-2ca5-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "2. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/2. Homilie über Numeri",
+    "contentRevision": "sha256:aabf16894dbc8128353d373776a0081a90a239e087ec0f44adb5b8498def84a7"
   },
   {
     "workId": "d0b0afe8-458f-495b-ca1a-08de0a9887c9",
@@ -2163,11 +2310,109 @@
     "contentRevision": "sha256:9f187690c0f3ee66b92e73f4a7622f3fa085c3f66559c4e2108008c8d7bf986c"
   },
   {
+    "workId": "f0563135-e162-462a-5bab-08df27871084",
+    "authorName": "Origenes",
+    "title": "20. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/20. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:224b775e276a6ae6576fd1ba65ce786ae435d890919ff0e108cbd0f80d63405d"
+  },
+  {
+    "workId": "1634ffd7-60ad-44d4-2cb2-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "20. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/20. Homilie über Numeri",
+    "contentRevision": "sha256:fec053add43654165ef49ccd034dd1e7af54b5103308bbf087f1f015915abfcb"
+  },
+  {
+    "workId": "0ff4cc7d-a2b2-430f-5bac-08df27871084",
+    "authorName": "Origenes",
+    "title": "21. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/21. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:e1d71e46bc90f7dfcbf7b74f4f3508c326114a31e8085bd18c8577e5a35b6123"
+  },
+  {
+    "workId": "4c4d9ddd-a693-46de-2cb3-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "21. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/21. Homilie über Numeri",
+    "contentRevision": "sha256:b0fc5949c0c7e32eed741d5c785aac188b7d0624a12f23099642cc298b5db22e"
+  },
+  {
+    "workId": "0bb48fd1-0f1c-4cec-5bad-08df27871084",
+    "authorName": "Origenes",
+    "title": "22. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/22. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:c026a9605b28aea3530dada049b0b806eed0289295b38315051d726738fcfa80"
+  },
+  {
+    "workId": "c673a4d2-6985-4304-5bae-08df27871084",
+    "authorName": "Origenes",
+    "title": "23. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/23. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:08e5e5098fe05adb237f320681ad8a07b85a2123fb4d7fcf5acec344b033dcd7"
+  },
+  {
+    "workId": "95e0d9a0-8d05-448f-2cb4-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "23. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/23. Homilie über Numeri",
+    "contentRevision": "sha256:85b91e2dc6f6c8444c28d73dd145f28c7f4db474583c76c6140594dbae3b9cac"
+  },
+  {
+    "workId": "7f692c01-8ecb-43ee-5baf-08df27871084",
+    "authorName": "Origenes",
+    "title": "24. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/24. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:91609509354929cfd785c54848c1385b2797ab738fd9381221a4ccd7a4344c4d"
+  },
+  {
+    "workId": "215c60bd-3968-425e-2cb5-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "24. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/24. Homilie über Numeri",
+    "contentRevision": "sha256:447f3e9372593c7221c75742289f91425e7b1bada7034bba82281c8779574700"
+  },
+  {
+    "workId": "c2ff33a8-2b97-4176-5bb0-08df27871084",
+    "authorName": "Origenes",
+    "title": "25. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/25. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:04cdc4653a963fcecbfb0fd9c4a459811996af3f55872a78c6232567bf656bef"
+  },
+  {
+    "workId": "ccf1bcfe-5db7-4c22-2cb6-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "25. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/25. Homilie über Numeri",
+    "contentRevision": "sha256:45df16af3d54dafc0372ad8b607c475649014243297dd117c1a76d4c962c232a"
+  },
+  {
+    "workId": "364ba912-7d72-49e4-2cb7-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "26. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/26. Homilie über Numeri",
+    "contentRevision": "sha256:54b6ff8a6d6223b594140f434439f0fe5e90586226f24b4f553562898bb2e219"
+  },
+  {
+    "workId": "521cd085-9f3c-44cf-2cb9-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "28. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/28. Homilie über Numeri",
+    "contentRevision": "sha256:ac5397d0d015f0b4bb32d830b41c18045e7c12afee6e63fe272bb8d1c9840afb"
+  },
+  {
     "workId": "83a1ba1e-5e85-4b6f-a2dc-08df26c2cd69",
     "authorName": "Origenes",
     "title": "3. Homilie über Levitikus",
     "directory": "werke/Origenes/Homilien über Levitikus/3. Homilie über Levitikus",
     "contentRevision": "sha256:4e5cb07c4220b1ddc9ea34b710ae3dae1fe1b1c1e52ce02da366903d6076b717"
+  },
+  {
+    "workId": "ae7ae522-f20d-4079-2ca6-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "3. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/3. Homilie über Numeri",
+    "contentRevision": "sha256:e8405e58dc25afc0129cd166d6ee2ca2f593d622cbb49fbc706fb9e0572412eb"
   },
   {
     "workId": "f62cca36-e10f-4b35-8d52-08de0b5e2e48",
@@ -2191,6 +2436,13 @@
     "contentRevision": "sha256:3a87572ef6e7cf4115bedf269668514b7c4b02a4aa82e34f26660f691f26d5f5"
   },
   {
+    "workId": "bfffe85c-eb10-47a7-2ca7-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "4. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/4. Homilie über Numeri",
+    "contentRevision": "sha256:7eea8640630e1ebb15fa8076128560d39441c8d917e618f2d09bfae18dcd0249"
+  },
+  {
     "workId": "cebfc77a-09d3-4751-1ecb-08dde73b5470",
     "authorName": "Origenes",
     "title": "4. Predigt zu Exodus",
@@ -2203,6 +2455,13 @@
     "title": "4. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/4. Predigt zu Genesis",
     "contentRevision": "sha256:a849d4aa18debfd171fdc1e72ef2e1fb11322d051a8dbfcd25ea229586eefb82"
+  },
+  {
+    "workId": "53ab7d79-123c-4e49-3d5a-08df23bd2351",
+    "authorName": "Origenes",
+    "title": "5. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/5. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:bc05323eae40f1703a81b00772bc3f496317b78f95c2dd46b90e3366f48e9517"
   },
   {
     "workId": "6ecda56f-e62c-4503-a2de-08df26c2cd69",
@@ -2224,6 +2483,13 @@
     "title": "5. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/5. Predigt zu Genesis",
     "contentRevision": "sha256:c8d6bfdd02c6bef043cef9ae40e8a235846d523b04819eb25a9d5c76bbf349ca"
+  },
+  {
+    "workId": "4e65c407-0138-4e79-5ba2-08df27871084",
+    "authorName": "Origenes",
+    "title": "6. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/6. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:cf078b2cc44990af6966eb8fb1eee7327de7fbc074993ed20a0a7dca703502d5"
   },
   {
     "workId": "9fe5b795-898e-43a7-55bd-08dee4bd3e57",
@@ -2261,6 +2527,13 @@
     "contentRevision": "sha256:33b3b57e3d862a0f65340d96757828bbddf3f996e42299562f95ea1e6bf36cc6"
   },
   {
+    "workId": "e37a1c36-7c5c-40ee-2ca8-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "8. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/8. Homilie über Numeri",
+    "contentRevision": "sha256:e0920c37519db7194e1d8d07aea0609ae3d5438dd3c0df58692db052dce88109"
+  },
+  {
     "workId": "48fc6d63-6771-448b-88ae-08de40e436ae",
     "authorName": "Origenes",
     "title": "8. Predigt zu Exodus",
@@ -2275,11 +2548,32 @@
     "contentRevision": "sha256:4b006fd75f6303480ea0f795171e95f852297c477673efcd1075866825e266bb"
   },
   {
+    "workId": "ca876922-3b91-42a2-60aa-08ddf7c3acd9",
+    "authorName": "Origenes",
+    "title": "8. Predigt zu Jesus",
+    "directory": "werke/Origenes/Predigten zu Joshua (Jesus)/8. Predigt zu Jesus",
+    "contentRevision": "sha256:b5d810e4b9cf3e7eb7a0037efb9d9ad622b769736a6ff9092c168d723d66311b"
+  },
+  {
+    "workId": "14ee341a-9e96-4555-5ba3-08df27871084",
+    "authorName": "Origenes",
+    "title": "9. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/9. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:b134246481e49396eb5c3aa8577cdbc827dde0347700d4d7dafccd8432717c58"
+  },
+  {
     "workId": "9b54cf56-1a5f-4380-55be-08dee4bd3e57",
     "authorName": "Origenes",
     "title": "9. Homilie über Levitikus",
     "directory": "werke/Origenes/Homilien über Levitikus/9. Homilie über Levitikus",
     "contentRevision": "sha256:a85137993d430f76f0c170b39f61e02bcedae5501f032f0305b36b7ae574b7aa"
+  },
+  {
+    "workId": "66c727dc-6c15-47cd-2ca9-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "9. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/9. Homilie über Numeri",
+    "contentRevision": "sha256:f8ebe9b9153cf65573c085f918535253a722e217b697ba5e2351f037e579cf72"
   },
   {
     "workId": "ce92a7a2-56b4-4c34-7fe2-08de432eeccb",

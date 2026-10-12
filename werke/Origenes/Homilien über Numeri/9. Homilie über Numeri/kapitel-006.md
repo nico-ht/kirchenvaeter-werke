@@ -1,0 +1,26 @@
+# 9\. Homilie über Numeri – Kapitel 6: Der eigene Wille formt den Menschen zum Gefäß für ehrenvollen oder unehrenvollen Gebrauch
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/9-homilie-ueber-numeri#kapitel-77cd3fa5-7e80-408b-c593-08df276bd631).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Es heißt: „Und die Verwüstung hörte auf[^bible-a1ec3865-ea58-4f49-86dd-5ab5de05387d]“, oder, wie wir sagten, steht in anderen Abschriften „Zerschmetterung[^bible-a1ec3865-ea58-4f49-86dd-5ab5de05387d]“\. Das entspricht eher der Auslegung der Wahrheit; denn „Zerschmetterung[^bible-a1ec3865-ea58-4f49-86dd-5ab5de05387d]“ widerfährt gewissermaßen Tongefäßen\. Die Sünder werden also zu Tongefäßen, wie der Prophet Jeremia in den Klageliedern zu verstehen gibt, wenn er sagt: „Die Söhne Zions, die angesehen waren und sich ihres Goldes wegen aufblähten, wie kam es, dass man sie für Tongefäße hielt, für Werke aus den Händen eines Töpfers?[^bible-9ae7dc95-8a84-4f2e-9631-cf86ea0af8a2]“ Und der Apostel sagt: „In einem großen Haus gibt es nicht nur goldene und silberne Gefäße, sondern auch hölzerne und tönerne, und die einen sind zu ehrenvollem, die anderen aber zu unehrenvollem Gebrauch bestimmt\.[^bible-2be5b35f-410e-4755-ac9f-ca186e55dcab]“ Es gibt also Tongefäße zu ehrenvollem Gebrauch, die zerschmettert werden können\.
+
+Doch betrachten wir genauer, was der Apostel im Folgenden über diese Tongefäße sagt\. Er sagt: „Wenn jemand sich von diesen Dingen reinigt, wird er ein Gefäß zu ehrenvollem Gebrauch sein, geheiligt und für den Herrn brauchbar, zu jedem guten Werk bereit\.[^bible-b9d2ea80-70e5-4275-9a03-8445be05e6e5]“ Hier scheint er zu zeigen, dass ein und derselbe Mensch sowohl das Gefäß selbst ist als auch das, was es wird, und der Stoff, aus dem es gemacht ist\. Wir sollten also verstehen, dass hier der menschliche Wille am Werk ist, während der übrige Teil des Menschen jenes Gefäß ist, das entweder zu ehrenvollem oder zu unehrenvollem Gebrauch[^bible-621779a1-4c83-4bec-b4a9-e3315c3c1674] gemacht wird\. Wenn unser Geist also das Gute wählt und uns zu einer guten Lebensführung hinzieht, macht er uns zu einem brauchbaren Gefäß[^bible-b9d2ea80-70e5-4275-9a03-8445be05e6e5]\. Wird er aber nachlässig und wendet sich unser Wille vom Guten ab, werden wir zu einem „Gefäß zu unehrenvollem Gebrauch[^bible-621779a1-4c83-4bec-b4a9-e3315c3c1674]“\. Wenn unser Verstand also mit Schlamm verkrustet ist und immer an Schlamm und irdische Dinge denkt, werden wir zu einem „Tongefäß[^bible-af3587e4-7425-4790-bd5a-0e837f1a3c54]“ und zum „Werk aus den Händen eines Töpfers[^bible-af3587e4-7425-4790-bd5a-0e837f1a3c54]“\. Vielleicht weist der Apostel einen solchen Menschen deshalb zurecht: Obwohl sein Geist aus Schlamm und Erde besteht, wirft er dennoch Fragen über große Dinge auf, die er gar nicht begreifen kann\. Ein solcher Mensch sagt: „Warum macht er dann noch Vorwürfe? Wer widersetzt sich denn seinem Willen?[^bible-c7b2b709-c091-4b16-b39e-e1650d3d348b]“ Der Apostel antwortet ihm wie einem Stück Ton: „Wer bist du, Mensch, dass du Gott widersprichst? Sagt etwa der Ton zu dem, der ihn geformt hat[^bible-38523627-69e0-4a39-a679-df22f702baf9]: ‚Warum hast du mich so gemacht?[^bible-38523627-69e0-4a39-a679-df22f702baf9]‘?“ Ferner wird unser Körper sowohl als „Tongefäß[^bible-b00bddcc-d2ff-4458-a65d-3f0d18680599]“ wie auch als „Buchstabe des Gesetzes“ bezeichnet, wenn der Apostel sagt: „Wir haben diesen Schatz aber in Tongefäßen\.[^bible-b00bddcc-d2ff-4458-a65d-3f0d18680599]“ Denn an dieser Stelle lassen sich beide Bedeutungen gelten: Während wir im Körper leben, schenkt uns der Herr durch den Heiligen Geist einen Schatz der Gnade\. Zugleich ist in den Worten des Gesetzes, die als gering und verächtlich gelten, insofern sie nicht durch Redekunst geschliffen zu sein scheinen, „der Schatz der Weisheit und der Erkenntnis Gottes aufbewahrt[^bible-7c173eff-3956-4f91-9c1b-5e814ef5c105]“\. So könnte man mit Recht sagen, dass in diesen Worten „die Schätze der Weisheit und der Erkenntnis Gottes verborgen sind[^bible-7c173eff-3956-4f91-9c1b-5e814ef5c105]“\. So viel sei über die „Zerschmetterung[^bible-282a4ffa-09b3-4f59-bd09-6fac8d2d2c2a]“ gesagt, von der berichtet wird, dass sie „aufhörte[^bible-282a4ffa-09b3-4f59-bd09-6fac8d2d2c2a]“\. Nun wollen wir aber auch einiges über die anschließende Geschichtserzählung sagen, in der von Stäben die Rede ist\.
+
+## Bibelverweise
+
+[^bible-282a4ffa-09b3-4f59-bd09-6fac8d2d2c2a]: Num 16,48
+[^bible-2be5b35f-410e-4755-ac9f-ca186e55dcab]: 2Tim 2,20
+[^bible-38523627-69e0-4a39-a679-df22f702baf9]: Röm 9,20
+[^bible-621779a1-4c83-4bec-b4a9-e3315c3c1674]: 2Tim 2,20
+[^bible-7c173eff-3956-4f91-9c1b-5e814ef5c105]: Kol 2,3
+[^bible-9ae7dc95-8a84-4f2e-9631-cf86ea0af8a2]: Klgl 4,2
+[^bible-a1ec3865-ea58-4f49-86dd-5ab5de05387d]: Num 16,48
+[^bible-af3587e4-7425-4790-bd5a-0e837f1a3c54]: Klgl 4,2
+[^bible-b00bddcc-d2ff-4458-a65d-3f0d18680599]: 2Kor 4,7
+[^bible-b9d2ea80-70e5-4275-9a03-8445be05e6e5]: 2Tim 2,21
+[^bible-c7b2b709-c091-4b16-b39e-e1650d3d348b]: Röm 9,19
