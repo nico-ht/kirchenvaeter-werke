@@ -1,0 +1,21 @@
+# Brief an Dracontius \(Epistula ad Dracontium\) – Kapitel 8: Apostel und Propheten erreichten ihr geistliches Ziel, indem sie ihre Sendung erfüllten
+
+Autor: Athanasius
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/athanasius-brief-an-dracontius#kapitel-bc8a07fa-b6da-4302-c571-08df276bd631).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Lass dich also von Mönchen nicht davon abhalten, als wärst du der Einzige, der aus den Reihen der Mönche ins Amt eingesetzt wurde\. Auch du sollst nicht als Vorwand anführen, dass du schlechter werden würdest als zuvor\. Denn du kannst auch besser werden, indem du Paulus nachahmst und den Taten der Heiligen nacheiferst\. Du weißt ja, dass solche Menschen, nachdem sie zu Verwaltern[^bible-15f15be5-7ed4-404d-a504-7f95fb8f5c12] [^bible-15f15be5-7ed4-404d-a504-7f95fb8f5c12]der Geheimnisse[^bible-15f15be5-7ed4-404d-a504-7f95fb8f5c12] [^bible-15f15be5-7ed4-404d-a504-7f95fb8f5c12]bestellt worden waren[^bible-15f15be5-7ed4-404d-a504-7f95fb8f5c12], umso eifriger auf das Ziel[^bible-bc07bb4d-1890-4f44-a623-6b4aff8ab17d] [^bible-bc07bb4d-1890-4f44-a623-6b4aff8ab17d]hinstrebten[^bible-bc07bb4d-1890-4f44-a623-6b4aff8ab17d], [^bible-bc07bb4d-1890-4f44-a623-6b4aff8ab17d]auf den Siegespreis[^bible-bc07bb4d-1890-4f44-a623-6b4aff8ab17d] [^bible-bc07bb4d-1890-4f44-a623-6b4aff8ab17d]der Berufung in die Höhe[^bible-bc07bb4d-1890-4f44-a623-6b4aff8ab17d]\. Wann hat Paulus das Martyrium erlitten und erwartet[^bible-47a6c532-9ef0-487f-9504-b1604fbd5a11], [^bible-47a6c532-9ef0-487f-9504-b1604fbd5a11]den Kranz[^bible-47a6c532-9ef0-487f-9504-b1604fbd5a11] [^bible-47a6c532-9ef0-487f-9504-b1604fbd5a11]zu empfangen[^bible-47a6c532-9ef0-487f-9504-b1604fbd5a11], wenn nicht, als er zum Lehren ausgesandt war? Wann hat Petrus sein Bekenntnis abgelegt, wenn nicht, als er das Evangelium verkündete und Menschenfischer[^bible-c324f33a-75cc-47ec-be9c-249eb13e30d8] [^bible-c324f33a-75cc-47ec-be9c-249eb13e30d8]geworden war[^bible-c324f33a-75cc-47ec-be9c-249eb13e30d8]? Wann wurde Elija[^bible-f7bcca14-7c6b-4d26-b53c-c0fe819a6f6b] [^bible-f7bcca14-7c6b-4d26-b53c-c0fe819a6f6b]hinaufgenommen[^bible-f7bcca14-7c6b-4d26-b53c-c0fe819a6f6b], wenn nicht, als er seinen gesamten Prophetendienst vollendet hatte? Wann hat Elischa[^bible-7b8e93e1-d782-474c-b76c-d2ab532bc2aa] [^bible-7b8e93e1-d782-474c-b76c-d2ab532bc2aa]den doppelten Anteil[^bible-7b8e93e1-d782-474c-b76c-d2ab532bc2aa] [^bible-7b8e93e1-d782-474c-b76c-d2ab532bc2aa]am Geist[^bible-7b8e93e1-d782-474c-b76c-d2ab532bc2aa] [^bible-7b8e93e1-d782-474c-b76c-d2ab532bc2aa]empfangen[^bible-7b8e93e1-d782-474c-b76c-d2ab532bc2aa], wenn nicht, als er alles[^bible-26df7b80-74fc-4272-8a7a-33d0434be563] [^bible-26df7b80-74fc-4272-8a7a-33d0434be563]verlassen hatte[^bible-26df7b80-74fc-4272-8a7a-33d0434be563] und [^bible-26df7b80-74fc-4272-8a7a-33d0434be563]Elija[^bible-26df7b80-74fc-4272-8a7a-33d0434be563] [^bible-26df7b80-74fc-4272-8a7a-33d0434be563]gefolgt war[^bible-26df7b80-74fc-4272-8a7a-33d0434be563]? Und warum wählte der Erlöser[^bible-0e32efc9-9b20-4f3b-b997-b9d958aa29eb] [^bible-0e32efc9-9b20-4f3b-b997-b9d958aa29eb]überhaupt[^bible-0e32efc9-9b20-4f3b-b997-b9d958aa29eb] [^bible-0e32efc9-9b20-4f3b-b997-b9d958aa29eb]Jünger[^bible-0e32efc9-9b20-4f3b-b997-b9d958aa29eb] aus[^bible-0e32efc9-9b20-4f3b-b997-b9d958aa29eb], wenn nicht, um sie [^bible-0e32efc9-9b20-4f3b-b997-b9d958aa29eb]auch[^bible-0e32efc9-9b20-4f3b-b997-b9d958aa29eb] [^bible-0e32efc9-9b20-4f3b-b997-b9d958aa29eb]auszusenden[^bible-0e32efc9-9b20-4f3b-b997-b9d958aa29eb]?
+
+## Bibelverweise
+
+[^bible-0e32efc9-9b20-4f3b-b997-b9d958aa29eb]: Mk 3,14
+[^bible-15f15be5-7ed4-404d-a504-7f95fb8f5c12]: 1Kor 4,1
+[^bible-26df7b80-74fc-4272-8a7a-33d0434be563]: 1Kön 19,20–1Kön 19,21
+[^bible-47a6c532-9ef0-487f-9504-b1604fbd5a11]: 2Tim 4,8
+[^bible-7b8e93e1-d782-474c-b76c-d2ab532bc2aa]: 2Kön 2,9
+[^bible-bc07bb4d-1890-4f44-a623-6b4aff8ab17d]: Phil 3,14
+[^bible-c324f33a-75cc-47ec-be9c-249eb13e30d8]: Mt 4,19
+[^bible-f7bcca14-7c6b-4d26-b53c-c0fe819a6f6b]: 2Kön 2,11
