@@ -1,0 +1,22 @@
+# 16\. Homilie über Josua \(Jesus\) – Kapitel 5: Die entschlafenen Väter warten auf die gemeinsame Vollendung und kämpfen durch ihre Gebete an unserer Seite
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/origenes-josua-16#kapitel-92b19eab-8935-4b4a-1d01-08df278587ab).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Heute wurde uns aber auch vorgelesen, dass Mose einigen ihr Erbe gegeben hat[^bible-d4a29f60-ac18-434a-ac77-94425c373785]; danach lesen wir, dass auch Jesus nach dem Gebot des Herrn das Erbe verteilt[^bible-21a3b627-5074-437b-973c-ca7f699eeee1]\. Als Erster verteilt also Mose das Erbe[^bible-d4a29f60-ac18-434a-ac77-94425c373785], als Zweiter Jesus[^bible-21a3b627-5074-437b-973c-ca7f699eeee1]\. Verstehe nun unter Mose das Gesetz\. Diejenigen, die nach dem Gesetz lebten, erhielten also als Erste ihr Erbe, allerdings außerhalb des verheißenen Landes\. Nachdem sie dann das Land als Erbe erhalten haben, nehmen sie es nicht in Besitz und teilen es auch nicht untereinander auf, sondern warten, bis es ihnen durch Jesus durch das Los zugeteilt wird\. Ist das nicht offenkundig das, was der Apostel im Brief an die Hebräer über die früheren Väter schreibt, von denen er sagt, dass sie „Gott durch den Glauben gefallen haben[^bible-64ef1ef0-2b02-4894-b9e6-6713b110281d]“? Er fügt hinzu: „Sie alle aber, denen durch den Glauben ein Zeugnis gegeben wurde, haben die Verheißungen noch nicht erlangt, da Gott für uns etwas Besseres vorgesehen hat, damit sie nicht ohne uns vollendet werden\.[^bible-3dfd2560-bf2f-49ef-bae8-b6b8962dfdc4]“ Sie haben also bereits ihre Verheißung, sind zur Ruhe gekommen und wurden für würdig befunden, durch Mose das Erbe zu empfangen\. Dennoch kämpfen auch sie noch und stehen im Kampf für diejenigen, die unter Jesus Kriegsdienst leisten\. Du fragst aber, wer diese Kämpfenden sind und was für einen Kampf sie führen\. Ich denke, dass alle Väter, die vor uns entschlafen sind, an unserer Seite kämpfen und uns durch ihre Gebete helfen\. So hörte ich auch einen der älteren Lehrer jene Stelle im Buch Numeri erklären, wo geschrieben steht, dass „jene Gemeinde[^bible-25124d0c-9ce3-4e2c-a00c-e0f69e463e21]“ diese Gemeinde „ablecken wird, wie ein Kalb das grüne Gras auf dem Feld ableckt[^bible-25124d0c-9ce3-4e2c-a00c-e0f69e463e21]“\. Er sagte dazu: „Warum wurde gerade dieser Vergleich gewählt, wenn nicht deshalb, weil wir an dieser Stelle Folgendes verstehen sollen: Die Gemeinde des Herrn, die uns in den Heiligen vorausgegangen ist, verzehrt mit Mund und Zunge die feindliche Gemeinde, das heißt, sie zehrt durch Gebete und Bitten unsere Gegner auf?“ Wir müssen also gegen unsere unsichtbaren Feinde nicht mit Waffen kämpfen, sondern mit Gebeten, mit dem Nachdenken über Gottes Wort, mit rechten Taten und Gedanken\. Denn so rüsteten sich auch die Väter und siegten durch Glauben und Werke\. Sieh nur, so steht es von ihnen geschrieben: „Sie glaubten[^bible-466e9c01-310a-46c8-bc37-582362dcbba1]“, heißt es, „Gott und seinem Diener Mose\.[^bible-466e9c01-310a-46c8-bc37-582362dcbba1]“ Und damals sang Mose dieses Lied und sagte[^bible-27c42a34-ac48-4da2-a2ec-b9d734a75344]: „Lasst uns dem Herrn singen, denn herrlich wurde er geehrt\.[^bible-27c42a34-ac48-4da2-a2ec-b9d734a75344]“ So wollen auch wir nach vollem Glauben und vollkommenen Werken streben, unablässig beten, über das göttliche Wort nachdenken und uns um geistliches Verständnis bemühen\. Mit all dem wollen wir wie mit Gottes Waffen gerüstet den listigen Anschlägen des Teufels standhalten[^bible-2dbc6eff-c528-4b51-897f-cdb7406300b8] und Gott als unseren Helfer anrufen in Christus Jesus, unserem Herrn, dem die Herrlichkeit und die Herrschaft gehören in alle Ewigkeit\. Amen\.[^bible-834e43ba-5c2e-4df5-b94e-f78f12906eea]
+
+## Bibelverweise
+
+[^bible-21a3b627-5074-437b-973c-ca7f699eeee1]: Jos 14,1–Jos 14,2
+[^bible-25124d0c-9ce3-4e2c-a00c-e0f69e463e21]: Num 22,4
+[^bible-27c42a34-ac48-4da2-a2ec-b9d734a75344]: Ex 15,1
+[^bible-2dbc6eff-c528-4b51-897f-cdb7406300b8]: Eph 6,11
+[^bible-3dfd2560-bf2f-49ef-bae8-b6b8962dfdc4]: Hebr 11,39–Hebr 11,40
+[^bible-466e9c01-310a-46c8-bc37-582362dcbba1]: Ex 14,31
+[^bible-64ef1ef0-2b02-4894-b9e6-6713b110281d]: Hebr 11,5–Hebr 11,6
+[^bible-834e43ba-5c2e-4df5-b94e-f78f12906eea]: 1Petr 4,11
+[^bible-d4a29f60-ac18-434a-ac77-94425c373785]: Jos 13,8
