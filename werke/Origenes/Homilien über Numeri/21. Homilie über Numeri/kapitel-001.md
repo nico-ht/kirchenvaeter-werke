@@ -1,0 +1,41 @@
+# 21\. Homilie über Numeri – Kapitel 1: Jesus gibt dem neuen Volk das Land der Lebenden; den ganz Gott Dienenden ist der Herr selbst das Erbe
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/21-homilie-ueber-numeri#kapitel-fefb6b21-f36a-4138-c5d3-08df276bd631).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Numeri 26 Darüber, dass das Volk ein zweites Mal gezählt wurde\. Wir lesen das Buch Numeri\. Bei einer früheren Lesung reichte die Zeit nicht aus, um etwas über die zweite Zählung zu sagen; jetzt aber bietet sich die Gelegenheit, auf das damals Ausgelassene und Übergangene zurückzukommen\. So wurde das Volk auf Befehl des Herrn zum ersten Mal gezählt[^bible-03b1b60f-1929-4732-b289-fdf627fa96ea]\. Doch die zunächst Aufgenommenen kamen um, weil sie in ihren Verfehlungen verharrten[^bible-eb1e2ca9-7814-4710-af15-5ad9afbcd9aa]\. Deshalb wird ein zweites Volk, das an die Stelle der Umgekommenen trat, in einer erneuerten Generation zur Zählung aufgerufen[^bible-50aece9d-f7e6-49ba-a37b-9995059bcf91], und von ihm wird gesagt, was von jenen Früheren nicht gesagt worden war\. Denn nachdem die Zahl nach Stämmen, Gruppen, Häusern und Familien ermittelt worden war[^bible-e3d9a435-a841-4b5d-ae39-ae28525eded1], sagt der Herr zu Mose: „Ihnen wird das Land durch das Los nach der Zahl der Namen zugeteilt werden\. Denen, die zahlreicher sind, wird durch das Los mehr gegeben werden, und denen, die weniger sind, sollst du ein kleineres Erbe geben[^bible-71bfcfb8-b463-4154-9132-e69692b3e2f5]\.“ Wenn es von den Ersten geheißen hätte: „Ihnen wird das Land durch das Los zugeteilt werden[^bible-7962ee66-a213-4302-8dc9-08996b555b44]“, dann wäre es gewiss falsch gewesen, dass sie wegen ihrer Verfehlungen „in der Wüste fielen[^bible-a58d5bef-4348-4d7e-8838-7b033467c6b6]“\. Was also von den Ersten nicht gesagt wurde, wird von denen gesagt, die später kamen und an denen sich alles Verheißene erfüllt hat\.
+
+Ich möchte nun nicht, dass ihr meint, dies alles werde allein aus dem Wortlaut der geschichtlichen Erzählung abgeleitet\. Vielmehr sind es Geheimnisse, die in der Bildsprache des Gesetzes aufgezeichnet sind\. Denn das erste Volk, das „zur Beschneidung“ gehört, wird verworfen, und ein zweites Volk, das „aus den Völkern“ gesammelt wird, wird hereingeführt\. Dieses empfängt das Erbe der Väter\. Und von wem empfängt es dieses Erbe? Nicht von Mose, sondern von Jesus\. Denn selbst Mose gibt, wenn er jemandem ein Erbe gibt, keines diesseits des Jordans\. Er überschreitet den Jordan überhaupt nicht[^bible-574b248a-62f5-4859-b516-56fefadab6db], sondern gibt Land jenseits des Jordans[^bible-62de642c-8e8d-46c3-803e-c68a933ac21c]: kein Land, „in dem Milch und Honig fließen[^bible-3cfe61be-18cd-4f75-b402-3d3cd218e61d]“, sondern Land, das für Vieh geeignet ist[^bible-dede01c1-e29e-40d1-b5da-95b72772a393] und eher stumme und vernunftlose Tiere ernähren kann als vernunftbegabte Menschen\. Das Land aber, das mein Jesus dem zweiten Volk gibt, ist ein Land, „in dem Milch und Honig fließen[^bible-3cfe61be-18cd-4f75-b402-3d3cd218e61d]“, oder vielmehr eine Honigwabe jenseits der ganzen Erde\. Mose gibt das Erbe auch nicht durch das Los und verteilt es nicht durch Losentscheid\. Er kann auch nicht durch göttliche Loszuteilung jedem seine Verdienste vergelten, „nach Gruppen und Häusern und Familien und Namen[^bible-02e1dc71-f55f-4111-86a7-b1c03c0647d5]“\. Das tut allein Jesus, dem „der Vater das ganze Gericht übergeben hat[^bible-50a2fef0-57ae-44f2-b40a-d88af356821c]“\. Er weiß sein Volk mit einer würdigen und angemessenen Wohnstätte zu belohnen, nicht nur „nach Stämmen und Familien und Häusern[^bible-02e1dc71-f55f-4111-86a7-b1c03c0647d5]“, sondern sogar jeden Einzelnen „nach seinem Namen[^bible-1757d331-7cdd-496f-b57b-17de694edc81]“\. Unter ihnen gibt es jedoch einige, die über die Ordnung der Loszuteilung hinauswachsen und gar nicht erst zur Loszuteilung geführt werden\. Alle Leviten[^bible-c0f4f648-3b72-4cf2-bc55-f3fe7d1493da], das heißt alle, die sich eifrig und unablässig dem Dienst Gottes widmen und in seinem Dienst beständig und wachsam Wache halten, erhalten unter den anderen keinen Losanteil[^bible-c0f4f648-3b72-4cf2-bc55-f3fe7d1493da]\. Ihr Anteil liegt überhaupt nicht auf Erden; vielmehr wird gesagt, dass der Herr selbst ihr Erbe ist[^bible-877a1a9c-7ed1-4ac6-b403-27c92adaad2a]\. In den Leviten sind, wie mir scheint, diejenigen angedeutet, die von keinem Hindernis ihrer körperlichen Natur aufgehalten werden\. Sie sind über die Herrlichkeit alles Sichtbaren hinausgelangt und haben ihre Lebensweise und ihr Handeln allein auf die Weisheit Gottes und auf sein Wort ausgerichtet\. Sie suchen nichts Körperliches, nichts, was der Vernunft fremd ist\. Denn sie haben sich nach Weisheit gesehnt, sie haben sich nach der Erkenntnis der Geheimnisse Gottes gesehnt, und „wo ihr Herz ist, dort ist auch ihr Schatz[^bible-d7dca8ba-3d8d-4331-8bd7-56820492492c]“\. Deshalb haben sie kein Erbe auf Erden, sondern steigen über die höchsten Höhen des Himmels hinaus\. Dort werden sie sich immer am Herrn erfreuen, immer an seinem Wort, immer an seiner Weisheit und an der Freude, die seine Erkenntnis bereitet\. Das wird ihre Speise sein, ihr Trank, ihr Reichtum; das wird ihr Reich sein\. So werden also jene sein und in all dem leben, deren Erbe der Herr selbst sein wird[^bible-877a1a9c-7ed1-4ac6-b403-27c92adaad2a]\.
+
+Diejenigen aber, die auf einer niedrigeren Stufe stehen und den Gipfel des Aufstiegs noch nicht erreicht haben, werden Land als Erbe erhalten[^bible-24f48048-39c4-4151-95ca-9af5e09a310e], allerdings ein recht erhabenes und kraftvolles Land\. Denn verheißen ist das „Land der Lebenden[^bible-4d3951d5-e0e8-4d89-b2f4-61e5ea6a6885]“, das gewiss deshalb „Land der Lebenden[^bible-4d3951d5-e0e8-4d89-b2f4-61e5ea6a6885]“ heißt, weil es den Tod nicht kennt\. Und sie sind die „Lämmer[^bible-464ff132-4824-4311-8aaa-b5b33b0edd52]“ und jene „Gesegneten[^bible-cece86f8-bbae-476e-9c35-a003ae66afce]“\. Noch seliger aber sind diejenigen, die nicht mehr „durch einen Spiegel und in einem Rätsel[^bible-b9ba4993-d24b-49e6-9ee7-5c886b3e9f00]“ sehen werden, auch nicht in körperlichen Wesenheiten, sondern „von Angesicht zu Angesicht[^bible-b9ba4993-d24b-49e6-9ee7-5c886b3e9f00]“\. Sie werden Gott sehen[^bible-71c1d818-89f1-427a-86a0-9165be224685], vom Licht der Weisheit erleuchtet und durch die Reinheit ihres Herzens[^bible-71c1d818-89f1-427a-86a0-9165be224685] für die reine Gottheit empfänglich geworden\. Ihren Anteil haben sie nicht an der Schöpfung, sondern am Schöpfer, „der über allem ist, Gott, gepriesen in Ewigkeit[^bible-0d3f90d0-5350-40bf-9db6-996d25c38381]“\.
+
+## Bibelverweise
+
+[^bible-02e1dc71-f55f-4111-86a7-b1c03c0647d5]: Num 1,18
+[^bible-03b1b60f-1929-4732-b289-fdf627fa96ea]: Num 1,1–Num 1,3
+[^bible-0d3f90d0-5350-40bf-9db6-996d25c38381]: Röm 9,5
+[^bible-1757d331-7cdd-496f-b57b-17de694edc81]: Num 26,53
+[^bible-24f48048-39c4-4151-95ca-9af5e09a310e]: Mt 5,5
+[^bible-3cfe61be-18cd-4f75-b402-3d3cd218e61d]: Ex 3,8
+[^bible-464ff132-4824-4311-8aaa-b5b33b0edd52]: Mt 25,33
+[^bible-4d3951d5-e0e8-4d89-b2f4-61e5ea6a6885]: Ps 26,13
+[^bible-50a2fef0-57ae-44f2-b40a-d88af356821c]: Joh 5,22
+[^bible-50aece9d-f7e6-49ba-a37b-9995059bcf91]: Num 26,63–Num 26,65
+[^bible-574b248a-62f5-4859-b516-56fefadab6db]: Dtn 3,27
+[^bible-62de642c-8e8d-46c3-803e-c68a933ac21c]: Num 32,33
+[^bible-71bfcfb8-b463-4154-9132-e69692b3e2f5]: Num 26,53–Num 26,54
+[^bible-71c1d818-89f1-427a-86a0-9165be224685]: Mt 5,8
+[^bible-7962ee66-a213-4302-8dc9-08996b555b44]: Num 26,53
+[^bible-877a1a9c-7ed1-4ac6-b403-27c92adaad2a]: Dtn 18,2
+[^bible-a58d5bef-4348-4d7e-8838-7b033467c6b6]: Hebr 3,17
+[^bible-b9ba4993-d24b-49e6-9ee7-5c886b3e9f00]: 1Kor 13,12
+[^bible-c0f4f648-3b72-4cf2-bc55-f3fe7d1493da]: Dtn 18,1–Dtn 18,2
+[^bible-cece86f8-bbae-476e-9c35-a003ae66afce]: Mt 25,34
+[^bible-d7dca8ba-3d8d-4331-8bd7-56820492492c]: Mt 6,21
+[^bible-dede01c1-e29e-40d1-b5da-95b72772a393]: Num 32,4
+[^bible-e3d9a435-a841-4b5d-ae39-ae28525eded1]: Num 26,5–Num 26,51
+[^bible-eb1e2ca9-7814-4710-af15-5ad9afbcd9aa]: Num 14,29
