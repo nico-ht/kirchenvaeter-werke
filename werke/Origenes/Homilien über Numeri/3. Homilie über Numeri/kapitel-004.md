@@ -1,0 +1,30 @@
+# 3\. Homilie über Numeri – Kapitel 4: Erst Christi Sieg über die dämonischen Mächte ermöglicht die Heiligung der Erstgeborenen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/3-homilie-ueber-numeri#kapitel-da63c232-79a2-4b8b-c57c-08df276bd631).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Außerdem lassen sich meines Erachtens die Worte „für jeden Erstgeborenen, der den Mutterschoß öffnet[^bible-7bb18d56-5105-4994-87ab-1eddcc8285df]“ nicht leicht erklären oder erörtern\. Denn nicht jeder, der „den Mutterschoß öffnet[^bible-7bb18d56-5105-4994-87ab-1eddcc8285df]“, ist sogleich der Heiligung der Erstgeborenen für würdig zu halten\. Lesen wir doch auch in den Psalmen: „Die Sünder sind vom Mutterschoß an entfremdet; vom Mutterleib an sind sie in die Irre gegangen und haben Unwahres gesagt\.[^bible-1d985e2a-6283-4e10-ab16-db05c7aecfee]“ Das kann gewiss in keiner Weise wörtlich zutreffen\. Denn wie könnte jemand von Gottes Weg abirren, sobald er aus dem Schoß seiner Mutter hervorgekommen ist? Oder wie könnte ein neugeborenes Kind Unwahres sagen oder überhaupt irgendwelche Worte äußern? Da es also unmöglich ist, vom Mutterleib an in die Irre zu gehen und Unwahres zu sagen[^bible-1d985e2a-6283-4e10-ab16-db05c7aecfee], müssen wir untersuchen, auf welche Art von Mutterleib und Mutterschoß sich diese Aussage beziehen kann: „Die Sünder sind vom Mutterschoß an entfremdet und vom Mutterleib an in die Irre gegangen; sie haben Unwahres gesagt\.[^bible-1d985e2a-6283-4e10-ab16-db05c7aecfee]“ Nun gibt es jenen Mutterschoß, den jeder Erstgeborene öffnet, der Gott geheiligt wird[^bible-5ac33953-fca9-48d6-8752-f6e9bcf59725]\. Einst „öffnete Gott Leas Mutterschoß[^bible-e2bf4a2c-1b43-4927-a2c0-f1111ad48164]“, der verschlossen gewesen war, und sie gebar die Patriarchen[^bible-22e0f350-7695-4451-b9f3-5ee1b5a85d92]\. Dasselbe geschah mit Rahel, sodass auch sie gebar[^bible-eb2f1f97-8218-48a6-8c60-22fffa356806], sie, „deren Gesicht hell und deren Erscheinung schön war[^bible-3a056b45-e149-4c73-b20e-34bc8de8a85f]“\. Auch an vielen anderen Stellen der Schrift wirst du finden, dass ein Mutterschoß geöffnet wird\. Wenn du jede dieser Stellen in ihrem jeweiligen Zusammenhang untersuchst, wirst du erkennen, wie „Sünder vom Mutterschoß an in die Irre gehen[^bible-1d985e2a-6283-4e10-ab16-db05c7aecfee]“ und andere, die „den Mutterschoß öffnen[^bible-7bb18d56-5105-4994-87ab-1eddcc8285df]“, in der Ordnung der Erstgeborenen geheiligt werden\.
+
+Es heißt: „Und die Leviten werden mir gehören; denn jeder Erstgeborene gehört mir\. Seit dem Tag, an dem ich jeden Erstgeborenen im Land Ägypten niederstreckte, habe ich mir jeden Erstgeborenen geheiligt\.[^bible-fa2dafdd-dc44-488f-b176-33e91f8d1320]“ Was der geschichtliche Bericht darüber erzählt, ist wohlbekannt: Als das Volk Israel aus Ägypten herausgeführt wurde, wurden die Erstgeborenen der Ägypter niedergestreckt\.[^bible-8cfb6392-f459-4947-8f58-8f91e1b126ed] Darauf weist diese Stelle also hin: Die Erstgeborenen Israels wurden nicht geheiligt, bevor die Erstgeborenen der Ägypter niedergestreckt worden waren\.[^bible-d5da06a7-f19d-4ad3-a796-897913cffcc0] Der Bericht stellt den Tod und die Vernichtung jener Ägypter gewissermaßen als Ursache für die Heiligung Israels dar\. Davon ausgehend ist diese Stelle so zu verstehen: Auch unter den Ägyptern, das heißt unter den gegnerischen Mächten, gibt es bestimmte Erstgeborene, die gewissermaßen wegen ihrer Bosheit auserwählt sind und unter den Dämonen die „Ersten“ sind\. Solange sie nicht niedergestreckt und vernichtet sind, können die Erstgeborenen der Israeliten überhaupt keine Heiligung empfangen\. Wer also hat die Erstgeborenen der Ägypter niedergestreckt[^bible-f80011f8-aae4-46d0-af9c-9110e26ca86f], das heißt die „Herrschaften und Gewalten[^bible-261588a9-3bf6-475e-a2fb-10b75d37ca12]“ der Dämonen? Ist es nicht mein Herr Jesus Christus, „der Erstgeborene der ganzen Schöpfung[^bible-55275128-0f1f-42af-9d05-49b48ffb3d69]“, der „die Herrschaften und feindlichen Gewalten bloßstellte und am Kreuz über sie triumphierte[^bible-261588a9-3bf6-475e-a2fb-10b75d37ca12]“? Gewiss: Hätte er sie nicht niedergestreckt und über sie triumphiert[^bible-261588a9-3bf6-475e-a2fb-10b75d37ca12], hätte die Heiligung der Erstgeborenen auf keine Weise zu uns gelangen können\. Um uns aber die Segnungen der Erstgeborenen zu schenken, wird er selbst zuerst „Erstgeborener von den Toten, damit er in allem den Vorrang hat\.[^bible-8abce5cc-bba9-4541-85bb-9e6d6469e406]“ Und um der Erstgeborenen willen nahm er uns auf, die wir an seine Auferstehung glauben, und reihte uns in die Ordnung der Erstgeborenen ein\. Das gilt aber nur, wenn wir bis zum Ende an der Gnade dieser Segnungen festhalten, unterstützt durch das Erbarmen unseres Herrn Jesus Christus, „dem die Herrlichkeit und die Macht gehören in alle Ewigkeit\. Amen\.[^bible-32a138f9-5c41-42bb-9fd8-db82f8ab7107]“
+
+## Bibelverweise
+
+[^bible-1d985e2a-6283-4e10-ab16-db05c7aecfee]: Ps 57,4
+[^bible-22e0f350-7695-4451-b9f3-5ee1b5a85d92]: Gen 29,32–Gen 29,35
+[^bible-261588a9-3bf6-475e-a2fb-10b75d37ca12]: Kol 2,15
+[^bible-32a138f9-5c41-42bb-9fd8-db82f8ab7107]: 1Petr 4,11
+[^bible-3a056b45-e149-4c73-b20e-34bc8de8a85f]: Gen 29,17
+[^bible-55275128-0f1f-42af-9d05-49b48ffb3d69]: Kol 1,15
+[^bible-5ac33953-fca9-48d6-8752-f6e9bcf59725]: Num 3,12–Num 3,13
+[^bible-7bb18d56-5105-4994-87ab-1eddcc8285df]: Num 3,12
+[^bible-8abce5cc-bba9-4541-85bb-9e6d6469e406]: Kol 1,18
+[^bible-8cfb6392-f459-4947-8f58-8f91e1b126ed]: Ex 12,29–Ex 12,31
+[^bible-d5da06a7-f19d-4ad3-a796-897913cffcc0]: Num 3,13
+[^bible-e2bf4a2c-1b43-4927-a2c0-f1111ad48164]: Gen 29,31
+[^bible-eb2f1f97-8218-48a6-8c60-22fffa356806]: Gen 30,22–Gen 30,23
+[^bible-f80011f8-aae4-46d0-af9c-9110e26ca86f]: Ex 12,29
+[^bible-fa2dafdd-dc44-488f-b176-33e91f8d1320]: Num 3,12–Num 3,13
