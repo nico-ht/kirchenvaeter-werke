@@ -1,0 +1,22 @@
+# Über die Segnungen der Patriarchen \(De benedictionibus patriarcharum\) – Kapitel 10: Naftalis Weinstock bezeichnet Gottes Volk, das im Glauben frei wird und durch Christi Gnade Schönheit empfängt
+
+Autor: Ambrosius von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/ambrosius-segnungen-der-patriarchen#kapitel-8ce34b58-0018-41f9-1cd2-08df278587ab).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Naftali ist ein frei wachsender Weinstock, der in seinen Trieben Schönheit entfaltet\.[^bible-40e2f338-2931-4dd8-8de0-c8a3673cca67]“ Von den Ranken des Weinstocks wird die eine abgeschnitten, weil sie nutzlos erscheint, damit der Weinstock nicht fruchtlos mit üppigen Ranken ins Kraut schießt\. Eine andere wird nur ein wenig zurückgeschnitten und dann wachsen gelassen, damit sie Frucht bringt\. Ihre Schönheit entfaltet sich im Wachstum, denn während sie sich nach oben streckt, umschlingt sie den Weinstock und steigt bis zur Spitze empor\. Dabei legt sie den Hälsen des Rebjochs gleichsam eine Halskette aus kostbaren Reben um\. Auch er ist durch das, was aus ihm hervorgeht, eine Zierde, denn an seinen vollen Reben bringt er Früchte in Fülle hervor\. Das ist schön; weit schöner ist es aber, dass damit die Rebe bezeichnet wird, die mit dem geistlichen Weinstock verbunden ist\. Wir sind seine Ranken und können Frucht bringen, wenn wir am Weinstock bleiben; andernfalls werden wir abgeschnitten\.[^bible-9a246067-216c-47c3-88f6-ae9820572a26] Der heilige Patriarch Naftali war eine reich tragende Rebe\. Deshalb sagt Mose: „Naftali sättigt die Empfangenden; er wird vom Herrn mit Segen erfüllt werden und Meer und Südland besitzen\.[^bible-c349e2a2-7300-42ac-8355-56da0c071b5f]“ Damit erläutert er, was Jakobs Wort vom frei wachsenden Weinstock[^bible-40e2f338-2931-4dd8-8de0-c8a3673cca67] bedeutet: Gemeint ist einer, der durch die Gnade des Glaubens von den Fesseln des Herkommens befreit ist\. Darin wird das Volk Gottes bezeichnet, das zur Freiheit des Glaubens und zur Fülle der Gnade berufen und über die ganze Welt verbreitet ist\. Es schmückt Christi Joch mit guter Frucht und umschlingt die Hölzer jenes wahren Weinstocks[^bible-04a52f07-fa7e-42b3-9483-1fc67cb439cb], also die Geheimnisse des Kreuzes des Herrn\. Es fürchtet die Gefahr nicht, die mit dem Bekenntnis zu ihm verbunden ist, sondern rühmt sich vielmehr auch mitten in Verfolgungen des Namens Christi\. Wirklich von Fesseln befreit ist, wer durch kein Band der Furcht gebunden ist\. Deshalb sagt auch der Prophet: „Sie werden hinausgehen und hüpfen wie Kälber, die von ihren Fesseln befreit sind\.[^bible-5c2a4845-b65b-4dca-b46b-5528652c0307]“ Darum entfaltet er in seinen Trieben Schönheit[^bible-40e2f338-2931-4dd8-8de0-c8a3673cca67]: Weil er auf einem Weideplatz gebettet und am erfrischenden Wasser großgezogen worden ist[^bible-af41977b-297d-45ce-9c86-de044d79f227], lässt er durch die Sakramente seiner Wiedergeburt die edle Schönheit des Wortes hervorsprossen\. Er wird in jene wunderschöne Gnade Christi aufgenommen, der den Liebreiz deiner Schönheit vermehren kann\. Schließlich schenkt er, der schöner ist als alle anderen[^bible-a05f7388-8d34-4b67-95fa-7823df9da701], was er selbst besitzt; denn niemand kann schenken, was er nicht hat\. Deshalb heißt es: „Der Herr wird herrschen; er hat sich in Schönheit gekleidet\.[^bible-a4fe2ebc-1155-481e-83c3-2f29c9191b71]“ Denn um der Kirche willen hat er sich in Schönheit gekleidet[^bible-a4fe2ebc-1155-481e-83c3-2f29c9191b71]\. Sie hat in jenem Bad die Hässlichkeit all ihrer Vergehen abgelegt und ist im Glanz der himmlischen Gnade erstrahlt\. Deshalb sagt der Bräutigam von ihr: „Wer ist sie, die hervorschaut wie das Morgenlicht, auserlesen wie die Sonne, schön wie der Mond, staunenswert wie ein Schmuckwerk?[^bible-285d3625-cf6c-4db8-8f20-e213d352b697]“
+
+## Bibelverweise
+
+[^bible-04a52f07-fa7e-42b3-9483-1fc67cb439cb]: Joh 15,1
+[^bible-285d3625-cf6c-4db8-8f20-e213d352b697]: Hld 6,10
+[^bible-40e2f338-2931-4dd8-8de0-c8a3673cca67]: Gen 49,21
+[^bible-5c2a4845-b65b-4dca-b46b-5528652c0307]: Mal 4,2
+[^bible-9a246067-216c-47c3-88f6-ae9820572a26]: Joh 15,4–Joh 15,6
+[^bible-a05f7388-8d34-4b67-95fa-7823df9da701]: Ps 44,3
+[^bible-a4fe2ebc-1155-481e-83c3-2f29c9191b71]: Ps 92,1
+[^bible-af41977b-297d-45ce-9c86-de044d79f227]: Ps 21,2
+[^bible-c349e2a2-7300-42ac-8355-56da0c071b5f]: Dtn 33,23
