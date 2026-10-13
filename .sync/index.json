@@ -977,7 +977,7 @@
     "authorName": "Johannes Chrysostomus",
     "title": "17. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/17. Homilie über Matthäus",
-    "contentRevision": "sha256:0c5701301f25a213865605201d8c750bc921bf60b434dab1cf02209597eb9d7c"
+    "contentRevision": "sha256:070c36e6b0d50824b2705c1ea14226031fa018499f4a3a551879dbe8a84863b9"
   },
   {
     "workId": "f65cea11-43cb-448c-558e-08deedfb48dc",
@@ -1652,6 +1652,13 @@
     "contentRevision": "sha256:c235aad69418ca339847905d7416d1633d062b6cc78473fcfc54ecb549df5614"
   },
   {
+    "workId": "c9d051c5-3cc0-4a92-5bb7-08df27871084",
+    "authorName": "Johannes Chrysostomus",
+    "title": "Lobrede auf Ignatius",
+    "directory": "werke/Johannes Chrysostomus/Lobrede auf Ignatius",
+    "contentRevision": "sha256:cb200010460ea8255397bdf01dc5f9b03fc02d80545d7a9d83f491a57641fd8e"
+  },
+  {
     "workId": "30d461dd-30c6-46b5-37ae-08ddb03426f1",
     "authorName": "Johannes Chrysostomus",
     "title": "Psalm 3",
@@ -2023,6 +2030,13 @@
     "contentRevision": "sha256:dddc23e7494b54b215a0e1ce13bbf1299fab2939af52d4234f926216bc9eaefb"
   },
   {
+    "workId": "17034cf8-2b48-4c6e-5476-08ddc777b053",
+    "authorName": "Origenes",
+    "title": "1. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/1. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:be1b727e9e3f389f9373fe1a05a327af3baf717048db2e235d223cca7881c77c"
+  },
+  {
     "workId": "7c77934a-9c85-4c2a-5563-08de5df2dd09",
     "authorName": "Origenes",
     "title": "1. Homilie über Levitikus",
@@ -2387,6 +2401,13 @@
     "contentRevision": "sha256:45df16af3d54dafc0372ad8b607c475649014243297dd117c1a76d4c962c232a"
   },
   {
+    "workId": "7b374e6a-c747-49f1-3054-08dee4f5be62",
+    "authorName": "Origenes",
+    "title": "26. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/26. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:0ff365426b360f1b948dca04a13391193dcf23ce369ee5f7b5474071682bed30"
+  },
+  {
     "workId": "364ba912-7d72-49e4-2cb7-08df276bd3eb",
     "authorName": "Origenes",
     "title": "26. Homilie über Numeri",
@@ -2551,8 +2572,8 @@
     "workId": "ca876922-3b91-42a2-60aa-08ddf7c3acd9",
     "authorName": "Origenes",
     "title": "8. Predigt zu Jesus",
-    "directory": "werke/Origenes/Predigten zu Joshua (Jesus)/8. Predigt zu Jesus",
-    "contentRevision": "sha256:b5d810e4b9cf3e7eb7a0037efb9d9ad622b769736a6ff9092c168d723d66311b"
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/8. Predigt zu Jesus",
+    "contentRevision": "sha256:e50d23f85291b628f8f73090232756eca8d4246aea7a5aae603a6d01837f9b21"
   },
   {
     "workId": "14ee341a-9e96-4555-5ba3-08df27871084",
@@ -2643,7 +2664,7 @@
     "authorName": "Origenes",
     "title": "Gegen Celsus, Buch 1",
     "directory": "werke/Origenes/Gegen Celsus/Gegen Celsus, Buch 1",
-    "contentRevision": "sha256:c09aa382a9243123fc87cc05a57bba8d88c9ad958d9eb56e6564e01d3c379798"
+    "contentRevision": "sha256:e683f35c46f156c2aad110e51ed930f6c736844e277607f9c1eb14ca0bb22472"
   },
   {
     "workId": "276dda71-5b9f-409e-a2b0-08ddecb317c5",

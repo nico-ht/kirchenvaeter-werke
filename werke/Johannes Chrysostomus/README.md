@@ -15,6 +15,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Einzelwerke
 
 - [Gegen die Bekanntmachung der Fehler von Brüdern](Gegen%20die%20Bekanntmachung%20der%20Fehler%20von%20Br%C3%BCdern/) · 12 Kapitel
+- [Lobrede auf Ignatius](Lobrede%20auf%20Ignatius/) · 5 Kapitel
 - [Wie man eine Ehefrau auswählt](Wie%20man%20eine%20Ehefrau%20ausw%C3%A4hlt/) · 24 Kapitel
 - [Zwei Ermahnungen an den gefallenen Theodor](Zwei%20Ermahnungen%20an%20den%20gefallenen%20Theodor/) · 24 Kapitel
 - [Über Eitelkeit und den richtigen Weg für Eltern, ihre Kinder zu erziehen](%C3%9Cber%20Eitelkeit%20und%20den%20richtigen%20Weg%20f%C3%BCr%20Eltern%2C%20ihre%20Kinder%20zu%20erziehen/) · 90 Kapitel
