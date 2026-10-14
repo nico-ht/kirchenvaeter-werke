@@ -1,0 +1,17 @@
+# Ermahnung zur Buße – Kapitel 8: Verheimlichte Schuld gefährdet die Kirche; das Bekenntnis vor den Brüdern bringt Beistand und Vergebung
+
+Autor: Pacian von Barcelona
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/pacian-von-barcelona/ermahnung-zur-busse#kapitel-1ee6fb28-3b2d-4628-df21-08df2899f507).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn euch aber eure eigene Seele wenig wert ist, dann schont das Volk, schont die Priester\! Der Apostel ruft: „Ein wenig Sauerteig durchsäuert die ganze Masse\.[^bible-b379aaa2-21ab-42b9-a1e3-e193cf7f298e]“ Was wirst du tun, durch den die ganze Masse verdorben wird[^bible-b379aaa2-21ab-42b9-a1e3-e193cf7f298e], durch den die ganze Gemeinschaft der Brüder leiden wird? Wirst du leben, obwohl du dich an so vielen Seelen schuldig gemacht hast? Wirst du entschuldigt sein, wenn die Unschuldigen dir ihre Gemeinschaft mit dir zur Last legen, wenn die Kirche dich als Urheber ihres Unheils bezeichnet? Hört, was der Apostel wiederum dem Priester sagt: „Lege niemandem vorschnell die Hände auf und mache dich nicht an fremden Sünden mitschuldig\.[^bible-3bd95d93-43b9-4b4e-aa45-a42d7cf78ece]“ Was wirst du tun, der du den Priester täuschst? Der du ihn entweder in seiner Unwissenheit hintergehst oder ihn, der nur teilweise Bescheid weiß, in Verlegenheit bringst, weil der Beweis so schwer zu führen ist? Ich bitte euch also, Brüder, auch angesichts der Gefahr, die mir selbst droht, bei jenem Herrn, dem nichts Verborgenes entgeht: Hört auf, euer verwundetes Gewissen zu verdecken\. Vernünftige Kranke scheuen die Ärzte nicht, selbst wenn diese an verborgenen Stellen ihres Körpers schneiden und ausbrennen\. Wir erinnern uns an Menschen, die selbst ihre verborgenen Schamteile ohne Scheu behandeln ließen und dem Messer, dem Brenneisen und dem quälenden Brennen des Ätzpulvers standhielten\. Und wie viel ist das schon, was Menschen geleistet haben? Wird der Sünder Angst haben? Wird der Sünder sich schämen, um den Preis jetziger Beschämung das ewige Leben zu erkaufen? Wird er dem Herrn, der ihm die Hände entgegenstreckt, seine schlecht verhüllten Wunden entziehen? Hat denn einer, der den Herrn verletzt hat, dabei noch etwas, dessen er sich schämen müsste? Oder ist es so nicht besser, dass die Scham zugrunde geht, damit du nicht, von Scham eingeschüchtert, schamlos stirbst, sondern ihr keinen Raum gibst und aus ihrem Verlust umso mehr gewinnst, da sie besser an deiner Stelle zugrunde geht? Wenn ihr euch aber vor den Augen der Brüder schämt, dann fürchtet nicht diejenigen, die euer Schicksal teilen\. Kein Leib freut sich über die Qual seiner eigenen Glieder; er leidet mit ihnen[^bible-10647f96-171c-4f8d-8089-7668400e4198] und wirkt an ihrer Heilung mit\. In einem und einem zweiten ist die Kirche; in der Kirche aber ist Christus\.[^bible-c77fb680-4369-422e-b1bf-b03312f38378] Darum wird derjenige, der seine Sünden vor den Brüdern nicht verschweigt, durch die Tränen der Kirche unterstützt und durch die Fürbitten Christi losgesprochen\.
+
+## Bibelverweise
+
+[^bible-10647f96-171c-4f8d-8089-7668400e4198]: 1Kor 12,26
+[^bible-3bd95d93-43b9-4b4e-aa45-a42d7cf78ece]: 1Tim 5,22
+[^bible-b379aaa2-21ab-42b9-a1e3-e193cf7f298e]: 1Kor 5,6
+[^bible-c77fb680-4369-422e-b1bf-b03312f38378]: Mt 18,20

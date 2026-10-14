@@ -1,0 +1,15 @@
+# Ermahnung zur Buße – Kapitel 2: Bußunterweisung gilt der ganzen Kirche: Sie soll vor dem Fall bewahren und Büßende zur Heilung führen
+
+Autor: Pacian von Barcelona
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/pacian-von-barcelona/ermahnung-zur-busse#kapitel-1ac29585-db5e-4a8e-df1b-08df2899f507).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ihr aber, meine Lieben, denkt daran, was der Herr festgelegt hat: „Weise einen Weisen zurecht, und er wird dich lieben; weise einen Dummen zurecht, und er wird dich hassen\.[^bible-dd8aa908-a074-4a9b-9c22-e0a4d7f3190d]“ Und weiter: „Die ich liebe, weise ich zurecht und züchtige ich\.[^bible-7554a49f-2fb0-4457-8a15-f353d9857dbd]“ Erkennt daher in der liebevollen, fürsorglichen Mühe, die ich als euer Bruder und Priester nach dem Willen des Herrn auf diese Schrift verwandt habe, eher Liebe als Strenge\. Lasst euch von ihr in Liebe leiten, statt euch hartnäckig zu widersetzen\. Außerdem soll niemand meinen, diese Unterweisung über die Buße sei allein für die Büßenden bestimmt\. Wer nicht zu diesem Stand gehört, soll deshalb nicht alles, was hier gesagt wird, verächtlich übergehen, als wäre es nur für andere gedacht\. Denn in der Buße ist wie in einer Spange die Ordnung der ganzen Kirche zusammengefasst: Es gilt, dafür zu sorgen, dass die Katechumenen nicht in diesen Stand eintreten und die Gläubigen nicht in ihn zurückkehren müssen; die Büßenden selbst aber müssen sich bemühen, rasch die Frucht dieses Werkes zu erlangen\. Meine Ausführungen werden jedoch dieser Reihenfolge folgen: Zuerst werde ich die Schwere der Vergehen erläutern, damit niemand meint, mit schlechthin allen Sünden sei die äußerste Gefahr verbunden\. Dann werde ich von jenen Gläubigen sprechen, die sich ihres Heilmittels schämen und damit eine verkehrte Scham zeigen\. Mit beflecktem Körper und verunreinigtem Geist nehmen sie an der Kommunion teil\. Vor den Augen der Menschen sind sie überaus ängstlich, vor dem Herrn aber überaus schamlos: Mit unheiligen Händen und beflecktem Mund verunreinigen sie den Altar, den selbst die Heiligen und die Engel fürchten müssen\. Drittens wird von denen die Rede sein, die ihre Vergehen zwar offen und ehrlich bekannt haben, aber die Heilmittel der Buße und die zum Vollzug des Bußbekenntnisses gehörenden Handlungen entweder nicht kennen oder ablehnen\. Zuletzt werde ich mich bemühen, mit aller Klarheit zu zeigen, welche Strafe diejenigen erwartet, die keine Buße tun oder sie auch nur vernachlässigen und deshalb an ihrer Wunde und deren Schwellung sterben; und welche Krone, welcher Lohn dagegen denen bestimmt ist, die durch ein rechtes und ordnungsgemäßes Bekenntnis die Flecken ihres Gewissens abwaschen\.
+
+## Bibelverweise
+
+[^bible-7554a49f-2fb0-4457-8a15-f353d9857dbd]: Offb 3,19
+[^bible-dd8aa908-a074-4a9b-9c22-e0a4d7f3190d]: Spr 9,8
