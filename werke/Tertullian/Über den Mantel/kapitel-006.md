@@ -1,0 +1,10 @@
+# Über den Mantel – Kapitel 6: Der Mantel beschämt die Laster und dient als christliche Tracht einer besseren Philosophie
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-den-mantel#kapitel-5d5b8c23-ed9c-4b80-c956-08df282c8533).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Mit deiner Rede“, sagt er, „hast du für mich geworben, mit einem höchst weisen Heilmittel\. Doch selbst wenn die Rede schweigt, weil Sprachlosigkeit sie hemmt oder Scheu sie zurückhält \(denn auch eine stumme Philosophie begnügt sich mit der Lebensführung\), spricht die Kleidung selbst\. So hört man den Philosophen schon, wenn man ihn sieht\. Schon wenn man mir begegnet, lasse ich die Laster erröten\. Wer leidet nicht, wenn er seinen Widersacher sieht? Wer kann den Anblick dessen ertragen, den er in Gedanken nicht ertragen kann? Es ist eine große Wohltat des Mantels, dass bei dem Gedanken an ihn schlechte Sitten wenigstens erröten\. Was die Philosophie nützt, sei nun ihre Sache; denn nicht sie allein ist mit mir verbunden\. Ich habe auch andere Künste, die der Allgemeinheit nützen\. Mich tragen der erste Lehrer der Buchstaben, der erste Lehrer der Aussprache und der erste Rechenlehrer am Sandbrett, ebenso der Grammatiker, der Rhetor, der Sophist, der Arzt und der Dichter, auch wer Musik spielt, wer die Sterne deutet und wer den Vogelflug beobachtet\. Meine vier Zipfel bedecken alle freien Künste\. Gewiss, erst nach den römischen Rittern führt man aber auch den Anheizer und die ganze schändliche Gladiatorenschar in der Toga vor\. Das ist dann natürlich eine Schande: ‚Von der Toga zum Mantel\!‘“ Doch so spricht der Mantel\. Ich aber verbinde ihn jetzt auch mit der göttlichen Lehre und Lebensordnung\. Freue dich, Mantel, und juble\! Eine bessere Philosophie hat dich nun für würdig befunden, seit du begonnen hast, einen Christen zu kleiden\.

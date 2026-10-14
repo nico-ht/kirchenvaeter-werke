@@ -238,6 +238,13 @@
     "contentRevision": "sha256:9a0f791e48f309b09289649a46713661efe10ad57817814688f9db10461fddc5"
   },
   {
+    "workId": "d2d2cb5d-b366-41b5-d002-08df29550049",
+    "authorName": "Augustinus",
+    "title": "Über den Glauben an unsichtbare Dinge (De fide rerum quae non videntur)",
+    "directory": "werke/Augustinus/Über den Glauben an unsichtbare Dinge (De fide rerum quae non videntur)",
+    "contentRevision": "sha256:86a3e4ff7bc5b5a0e4d1df4279f26af936bd12966ae0878cb702220feec38c1a"
+  },
+  {
     "workId": "cda927c1-4a18-4f81-d20c-08df253e6ebc",
     "authorName": "Augustinus",
     "title": "Über den Nutzen des Glaubens (De utilitate credendi)",
@@ -761,6 +768,13 @@
     "title": "Kommentar zu Jona",
     "directory": "werke/Hieronymus/Kommentar zu Jona",
     "contentRevision": "sha256:984019acf12a7067a808272fb51c82f3e1cbe93b9fda45184b0aacb0fbf87b43"
+  },
+  {
+    "workId": "6f252af7-8140-4308-d003-08df29550049",
+    "authorName": "Hieronymus",
+    "title": "Leben und Gefangenschaft des Mönchs Malchus",
+    "directory": "werke/Hieronymus/Leben und Gefangenschaft des Mönchs Malchus",
+    "contentRevision": "sha256:9839b072c0e92f0fab08e9d6a9f90ce2b74098fcc1a6fc8474f9d77bd9c0b7b7"
   },
   {
     "workId": "6ff34669-301d-4b25-252e-08dd75f9cbf5",
@@ -2744,6 +2758,13 @@
     "contentRevision": "sha256:0236695dc9735567bc896dfb8517cafa78f88f993f749d6ea665856ebedb85b7"
   },
   {
+    "workId": "1d743c25-7884-4cfa-35bb-08df28a55220",
+    "authorName": "Pacian von Barcelona",
+    "title": "Ermahnung zur Buße",
+    "directory": "werke/Pacian von Barcelona/Ermahnung zur Buße",
+    "contentRevision": "sha256:b4b2dc628aa61c5e9465ed3c768bfc4ea21213358b65bb38b7f079cf85890890"
+  },
+  {
     "workId": "9c0bd895-b1bc-4121-b15d-08dd0a5aceeb",
     "authorName": "Papias von Hierapolis",
     "title": "Fragmente",
@@ -2952,6 +2973,13 @@
     "title": "Über das Zeugnis der Seele",
     "directory": "werke/Tertullian/Über das Zeugnis der Seele",
     "contentRevision": "sha256:cf821247a9bf10e9249a976b0fa429eb038737c57e3e1e2fb98d594b7c5529b4"
+  },
+  {
+    "workId": "3280f5d5-c553-401a-e6ff-08df282c8299",
+    "authorName": "Tertullian",
+    "title": "Über den Mantel",
+    "directory": "werke/Tertullian/Über den Mantel",
+    "contentRevision": "sha256:17d212bdd75c96a863f2d0c72c97605036ba9eddee1260fc69d069dbab0f1392"
   },
   {
     "workId": "9d88f5a2-b305-4a91-1751-08ddab223eaf",
