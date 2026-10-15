@@ -1,0 +1,14 @@
+# Brief aus der Verbannung an die Gemeinden Oberitaliens – Kapitel 4: Eusebius verweigert Essen und Trinken, bis Versorgung und Besuche mündlich und schriftlich zugesichert sind
+
+Autor: Eusebius von Vercelli
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/eusebius-von-vercelli/eusebius-von-vercelli-exilbrief-an-die-gemeinden-oberitaliens#kapitel-c79c3be6-75a5-48a2-857a-08df296b6878).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Abschrift des Schreibens an Patrophilus und seine Leute\.
+
+Eusebius, Knecht Gottes, mit seinen Mitknechten, die mit mir um des Glaubens willen leiden, an Patrophilus, den Bewacher, und seine Leute\.
+
+Mit welcher Gewalt und Wut ihr mich in großer Zahl nicht nur über den Boden geschleift, sondern zeitweise auch mit entblößtem Körper auf dem Rücken liegend aus dieser Unterkunft getragen habt, das weiß Gott und das weiß die Stadt\. Diese Unterkunft habt ihr mir durch eure Leute und die kaiserlichen Beamten zugewiesen, und ich habe sie nie verlassen, außer wenn ihr mich mit Gewalt hinausgebracht habt\. Das könnt ihr weder hier noch künftig leugnen\. Deshalb überlasse ich die Sache Gott, damit sie so zu Ende kommt, wie er es bestimmt\. Vorerst sollt ihr wissen, dass ich folgenden Entschluss gefasst habe \(damit meine Begründung hier, jetzt und künftig Bestand haben kann\): Ihr haltet mich in dieser Unterkunft eingeschlossen\. Nachdem ihr mich zum ersten Mal fortgetragen hattet, habt ihr mich noch grausamer dorthin zurückgestoßen und es gewagt, mich auf dieselbe Weise wieder von dort fortzutragen und in eine Zelle zu werfen\. In dieser Unterkunft werde ich weder Brot essen noch Wasser trinken, bevor nicht jeder Einzelne von euch erklärt hat, und zwar nicht nur mündlich, sondern auch durch eigenhändige Niederschrift, dass ihr meine Brüder, die dies alles mit mir um des Glaubens willen bereitwillig ertragen, nicht daran hindern werdet, mir aus der Unterkunft, in der sie wohnen, die nötige Nahrung zu bringen, und dass ihr ebenso wenig diejenigen hindern werdet, die mir die Ehre eines Besuchs erweisen wollen\. Ich hätte freilich aus dem Leib scheiden sollen, um nicht immer wieder denen, die es wissen wollen, erzählen zu müssen, welch schweres Verbrechen ihr gegen göttliches und staatliches Recht begangen habt\. Doch damit keiner von den Ungläubigen euch wegen eures Umgangs mit uns grausam nennt und meint, wir hätten in Unkenntnis der göttlichen Gebote lieber die Beschämung hinnehmen als dem Herrn gehorchen wollen, habe ich diesen Schritt wagen wollen\. Ich sage es noch einmal: Wenn ihr diese Zusicherung nicht mündlich und schriftlich gebt, macht ihr euch mit diesem Verbot zu Mördern\.

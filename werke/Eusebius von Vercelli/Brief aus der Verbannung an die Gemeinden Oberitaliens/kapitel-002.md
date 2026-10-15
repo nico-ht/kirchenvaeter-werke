@@ -1,0 +1,16 @@
+# Brief aus der Verbannung an die Gemeinden Oberitaliens – Kapitel 2: Die Hilfe der Gemeinden reicht bis in die Verbannung und trägt unter den Armen ewige Früchte
+
+Autor: Eusebius von Vercelli
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/eusebius-von-vercelli/eusebius-von-vercelli-exilbrief-an-die-gemeinden-oberitaliens#kapitel-1c5fdf4e-cd76-45ea-8578-08df296b6878).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+In meine Freude mischten sich Tränen, und die Tränen hielten meinen Geist zurück, der begierig weiterlesen wollte\. Beides war nötig, damit bei dieser Erfüllung meiner Sehnsucht jeder meiner Sinne danach strebte, dem anderen mit seinem Dienst der Liebe zuvorzukommen\. So verbrachte ich Tage damit und glaubte, gemeinsam mit euch zu dienen; dabei vergaß ich die vergangenen Mühen\. Denn von allen Seiten umgaben mich Freuden und boten mir hier standhaften Glauben, dort Liebe und dort Frucht\. So glaubte ich mitten unter so vielen und so großen Gütern plötzlich, wie ich schon sagte, nicht in der Verbannung, sondern bei euch zu sein\. Ich freue mich also, liebste Brüder, über euren Glauben; ich freue mich über das Heil, das dem Glauben folgt; ich freue mich über die Früchte, weil ihr nicht nur dort verweilt, sondern auch weit in die Ferne reicht\. Denn wie ein Bauer auf jenen guten Baum gepfropft hat, der wegen seiner Früchte nicht unter die Axt fällt und nicht dem Feuer übergeben wird[^bible-e8cad114-7ad9-4929-a6e9-220be70e0be5], so wollen und wünschen auch wir, euch Heiligen nicht nur einen Dienst nach dem Fleisch zu erweisen, sondern unser Leben für euer Heil hinzugeben[^bible-86548389-fdcf-45a2-b005-fdec0dfb26ad]\. Ihr habt, wie gesagt, kräftige, fruchttragende Zweige ausgestreckt und euch bemüht, über so weite Länder hinweg bis zu mir zu reichen\. Als Bauer freue ich mich und pflücke gern die Früchte eurer Mühe, weil ihr so viel tun wolltet\. Darüber freue nicht nur ich mich, und auch nicht nur die, die bei mir sind, unsere hochheiligen Presbyter und Diakone und die übrigen Brüder, sondern wir alle, die wir uns nach euch sehnen\. Denn „ihr habt mein Herz erfüllt[^bible-ed3434ed-441a-4d8e-8ccb-9ec22bfe9394]“, wie der hochselige Apostel sagt, indem ihr Gottes Gebote erfüllt habt, wie es Christen gegenüber einem Bischof oder Männern der Kirche zukommt, von denen ihr wisst, dass sie um des Glaubens willen in der Verbannung leiden\. Ihr habt getan, was Brüder für ihre Brüder tun und Kinder ihrem Vater erweisen sollen\. Als wir aber nach Gottes Geboten täglich unter den Notleidenden zu säen begannen, weil wir für euch aus irdischen himmlische, aus vergänglichen beständige und aus hinfälligen ewige Früchte machen wollten, freuten sich die Armen über eure Früchte\. Nicht nur die Menschen dieser Stadt, sondern alle priesen Gott\. Wer an diesen Früchten erkennen konnte, welche Liebe ihr zu mir hattet, pries angesichts dessen Gott, sprach voller Ehrerbietung von uns und segnete euch\.
+
+## Bibelverweise
+
+[^bible-86548389-fdcf-45a2-b005-fdec0dfb26ad]: 1Thess 2,8
+[^bible-e8cad114-7ad9-4929-a6e9-220be70e0be5]: Mt 3,10
+[^bible-ed3434ed-441a-4d8e-8ccb-9ec22bfe9394]: Phlm 1,7; Phlm 1,20
