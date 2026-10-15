@@ -1,4 +1,4 @@
-# Über die Witwen \(De viduis\) – Kapitel 14: Die Witwe bleibt dem Haus durch ihre Erfahrung nützlich – ihr Stand ist eine Belohnung, keine Strafe
+# Über die Witwen – Kapitel 14: Die Witwe bleibt dem Haus durch ihre Erfahrung nützlich – ihr Stand ist eine Belohnung, keine Strafe
 
 Autor: Ambrosius von Mailand
 

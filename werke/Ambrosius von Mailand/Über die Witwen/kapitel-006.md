@@ -1,4 +1,4 @@
-# Über die Witwen \(De viduis\) – Kapitel 6: Gute Unterweisung bringt der Witwe Hilfe im Alter, fromme Tränen erwerben ihr ewige Freude
+# Über die Witwen – Kapitel 6: Gute Unterweisung bringt der Witwe Hilfe im Alter, fromme Tränen erwerben ihr ewige Freude
 
 Autor: Ambrosius von Mailand
 

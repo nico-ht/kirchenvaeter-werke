@@ -1,4 +1,4 @@
-# Über die Witwen \(De viduis\) – Kapitel 10: Christus heilt das Fieber der Begierden und befähigt so zum Dienst an ihm
+# Über die Witwen – Kapitel 10: Christus heilt das Fieber der Begierden und befähigt so zum Dienst an ihm
 
 Autor: Ambrosius von Mailand
 

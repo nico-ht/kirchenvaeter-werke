@@ -1,4 +1,4 @@
-# Über die Witwen \(De viduis\) – Kapitel 2: Paulus fordert für die Auswahl der Witwen bewährte Tugend, verbietet Jüngeren aber nicht die Enthaltsamkeit
+# Über die Witwen – Kapitel 2: Paulus fordert für die Auswahl der Witwen bewährte Tugend, verbietet Jüngeren aber nicht die Enthaltsamkeit
 
 Autor: Ambrosius von Mailand
 

@@ -1,4 +1,4 @@
-# Über die Witwen \(De viduis\) – Kapitel 5: Christus misst die Gabe der Witwe an Hingabe und Glauben, nicht am Geldwert
+# Über die Witwen – Kapitel 5: Christus misst die Gabe der Witwe an Hingabe und Glauben, nicht am Geldwert
 
 Autor: Ambrosius von Mailand
 

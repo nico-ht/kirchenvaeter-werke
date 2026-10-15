@@ -1,4 +1,4 @@
-# Über die Witwen \(De viduis\) – Kapitel 1: Elijas Gastgeberin zeigt: Nicht der Witwenstand, sondern gelebte Tugend verdient Lob
+# Über die Witwen – Kapitel 1: Elijas Gastgeberin zeigt: Nicht der Witwenstand, sondern gelebte Tugend verdient Lob
 
 Autor: Ambrosius von Mailand
 

@@ -1,4 +1,4 @@
-# Über die Witwen \(De viduis\) – Kapitel 9: Witwen haben himmlische Fürsprecher und sollen fehlenden Schutz nicht als Grund zur Wiederheirat vorschützen
+# Über die Witwen – Kapitel 9: Witwen haben himmlische Fürsprecher und sollen fehlenden Schutz nicht als Grund zur Wiederheirat vorschützen
 
 Autor: Ambrosius von Mailand
 

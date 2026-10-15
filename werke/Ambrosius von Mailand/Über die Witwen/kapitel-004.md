@@ -1,4 +1,4 @@
-# Über die Witwen \(De viduis\) – Kapitel 4: Witwen bezeugen ihre Keuschheit allein durch einen wachsamen, gottesfürchtigen Lebenswandel
+# Über die Witwen – Kapitel 4: Witwen bezeugen ihre Keuschheit allein durch einen wachsamen, gottesfürchtigen Lebenswandel
 
 Autor: Ambrosius von Mailand
 

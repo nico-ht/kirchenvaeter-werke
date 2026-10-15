@@ -1,4 +1,4 @@
-# Über die Witwen \(De viduis\) – Kapitel 15: Warum der Wunsch nach Kindern nicht für eine zweite Ehe spricht – und diese vorhandenen Kindern schadet
+# Über die Witwen – Kapitel 15: Warum der Wunsch nach Kindern nicht für eine zweite Ehe spricht – und diese vorhandenen Kindern schadet
 
 Autor: Ambrosius von Mailand
 

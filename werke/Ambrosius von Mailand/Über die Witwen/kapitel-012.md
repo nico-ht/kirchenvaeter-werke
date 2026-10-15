@@ -1,4 +1,4 @@
-# Über die Witwen \(De viduis\) – Kapitel 12: Wer dem Rat zur Vollkommenheit folgt, geht über die Gebotspflicht hinaus und darf höheren Lohn erwarten
+# Über die Witwen – Kapitel 12: Wer dem Rat zur Vollkommenheit folgt, geht über die Gebotspflicht hinaus und darf höheren Lohn erwarten
 
 Autor: Ambrosius von Mailand
 

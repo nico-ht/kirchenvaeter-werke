@@ -1,4 +1,4 @@
-# Über die Witwen \(De viduis\) – Kapitel 13: Enthaltsamkeit bewährt sich in freiwilliger Selbstüberwindung, nicht in körperlicher Selbstentmannung
+# Über die Witwen – Kapitel 13: Enthaltsamkeit bewährt sich in freiwilliger Selbstüberwindung, nicht in körperlicher Selbstentmannung
 
 Autor: Ambrosius von Mailand
 

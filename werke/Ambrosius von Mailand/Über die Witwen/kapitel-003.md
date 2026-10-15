@@ -1,4 +1,4 @@
-# Über die Witwen \(De viduis\) – Kapitel 3: Die Witwe in der Hungersnot als Bild der Kirche, die Christus durch sein Wort und seine Gnade nährt
+# Über die Witwen – Kapitel 3: Die Witwe in der Hungersnot als Bild der Kirche, die Christus durch sein Wort und seine Gnade nährt
 
 Autor: Ambrosius von Mailand
 

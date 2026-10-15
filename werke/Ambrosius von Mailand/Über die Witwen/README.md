@@ -1,4 +1,4 @@
-# Über die Witwen (De viduis)
+# Über die Witwen
 
 Ambrosius von Mailand
 

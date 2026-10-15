@@ -1,4 +1,4 @@
-# Über die Witwen \(De viduis\) – Kapitel 11: Enthaltsamkeit ist für Witwen besser als eine zweite Ehe, darf aber nur empfohlen, nicht erzwungen werden
+# Über die Witwen – Kapitel 11: Enthaltsamkeit ist für Witwen besser als eine zweite Ehe, darf aber nur empfohlen, nicht erzwungen werden
 
 Autor: Ambrosius von Mailand
 

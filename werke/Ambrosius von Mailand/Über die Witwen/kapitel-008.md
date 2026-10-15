@@ -1,4 +1,4 @@
-# Über die Witwen \(De viduis\) – Kapitel 8: Debora belegt, dass Witwen durch Tugend ohne männlichen Beistand selbst Männer führen und schützen können
+# Über die Witwen – Kapitel 8: Debora belegt, dass Witwen durch Tugend ohne männlichen Beistand selbst Männer führen und schützen können
 
 Autor: Ambrosius von Mailand
 

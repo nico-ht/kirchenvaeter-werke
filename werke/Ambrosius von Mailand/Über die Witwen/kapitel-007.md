@@ -1,4 +1,4 @@
-# Über die Witwen \(De viduis\) – Kapitel 7: Durch Nüchternheit und Weisheit bewahrt Judith ihre Keuschheit und befreit ihre Heimat
+# Über die Witwen – Kapitel 7: Durch Nüchternheit und Weisheit bewahrt Judith ihre Keuschheit und befreit ihre Heimat
 
 Autor: Ambrosius von Mailand
 
