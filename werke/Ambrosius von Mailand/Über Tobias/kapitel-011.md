@@ -1,4 +1,4 @@
-# Über Tobias \(De Tobia\) – Kapitel 11: Beim Würfelspiel gewinnt allein der Wucherer, während die Spieler Besitz, Freiheit und Leben verlieren
+# Über Tobias – Kapitel 11: Beim Würfelspiel gewinnt allein der Wucherer, während die Spieler Besitz, Freiheit und Leben verlieren
 
 Autor: Ambrosius von Mailand
 

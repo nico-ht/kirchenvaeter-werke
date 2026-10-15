@@ -1,4 +1,4 @@
-# Über Tobias \(De Tobia\) – Kapitel 10: Wie Wucherer, die einen Toten als Pfand festhalten, ihn schließlich selbst zu Grabe tragen
+# Über Tobias – Kapitel 10: Wie Wucherer, die einen Toten als Pfand festhalten, ihn schließlich selbst zu Grabe tragen
 
 Autor: Ambrosius von Mailand
 

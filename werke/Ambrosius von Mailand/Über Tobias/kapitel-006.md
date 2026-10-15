@@ -1,4 +1,4 @@
-# Über Tobias \(De Tobia\) – Kapitel 6: Wucherer verleiten reiche Erben zu Käufen auf Kredit, um ihnen den eigenen Besitz zu rauben
+# Über Tobias – Kapitel 6: Wucherer verleiten reiche Erben zu Käufen auf Kredit, um ihnen den eigenen Besitz zu rauben
 
 Autor: Ambrosius von Mailand
 
