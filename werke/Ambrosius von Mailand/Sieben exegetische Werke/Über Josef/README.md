@@ -1,4 +1,4 @@
-# Über Josef (De Joseph Patriarcha)
+# Über Josef
 
 Ambrosius von Mailand
 
