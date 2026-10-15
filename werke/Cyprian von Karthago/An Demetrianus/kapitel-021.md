@@ -1,4 +1,4 @@
-# An Demetrianus \(Ad Demetrianum\) – Kapitel 21: Gottes Wort sagt Verfolgung voraus und verheißt den Gläubigen danach Schutz durch Vergeltung
+# An Demetrianus – Kapitel 21: Gottes Wort sagt Verfolgung voraus und verheißt den Gläubigen danach Schutz durch Vergeltung
 
 Autor: Cyprian von Karthago
 

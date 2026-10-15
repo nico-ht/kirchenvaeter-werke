@@ -1,4 +1,4 @@
-# An Demetrianus \(Ad Demetrianum\) – Kapitel 18: Im gemeinsamen Unglück erkennen Christen Prüfung und Stärkung, weil sie auf künftige Güter hoffen
+# An Demetrianus – Kapitel 18: Im gemeinsamen Unglück erkennen Christen Prüfung und Stärkung, weil sie auf künftige Güter hoffen
 
 Autor: Cyprian von Karthago
 

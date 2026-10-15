@@ -1,4 +1,4 @@
-# An Demetrianus \(Ad Demetrianum\) – Kapitel 14: Wer seine Götter selbst schützen muss, kann von ihnen keinen Schutz erwarten
+# An Demetrianus – Kapitel 14: Wer seine Götter selbst schützen muss, kann von ihnen keinen Schutz erwarten
 
 Autor: Cyprian von Karthago
 

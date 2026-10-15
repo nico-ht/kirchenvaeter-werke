@@ -1,4 +1,4 @@
-# An Demetrianus \(Ad Demetrianum\) – Kapitel 3: Die Welt altert und verliert ihre Kräfte – nach Gottes Gesetz muss alles Entstandene vergehen
+# An Demetrianus – Kapitel 3: Die Welt altert und verliert ihre Kräfte – nach Gottes Gesetz muss alles Entstandene vergehen
 
 Autor: Cyprian von Karthago
 

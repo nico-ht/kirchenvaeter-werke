@@ -1,4 +1,4 @@
-# An Demetrianus \(Ad Demetrianum\) – Kapitel 12: Ihr duldet Götzenverehrung, doch Gottes unschuldige Diener verfolgt ihr mit grausamen Foltern
+# An Demetrianus – Kapitel 12: Ihr duldet Götzenverehrung, doch Gottes unschuldige Diener verfolgt ihr mit grausamen Foltern
 
 Autor: Cyprian von Karthago
 

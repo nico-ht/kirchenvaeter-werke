@@ -1,4 +1,4 @@
-# An Demetrianus \(Ad Demetrianum\) – Kapitel 2: Christen müssen den Vorwurf widerlegen, sie verursachten die Not, damit Schweigen nicht als Geständnis gilt
+# An Demetrianus – Kapitel 2: Christen müssen den Vorwurf widerlegen, sie verursachten die Not, damit Schweigen nicht als Geständnis gilt
 
 Autor: Cyprian von Karthago
 

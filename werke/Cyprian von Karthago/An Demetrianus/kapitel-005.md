@@ -1,4 +1,4 @@
-# An Demetrianus \(Ad Demetrianum\) – Kapitel 5: Die endzeitlichen Übel sind Gottes Strafe für eure Gottlosigkeit, nicht für die Ablehnung eurer Götter durch Christen
+# An Demetrianus – Kapitel 5: Die endzeitlichen Übel sind Gottes Strafe für eure Gottlosigkeit, nicht für die Ablehnung eurer Götter durch Christen
 
 Autor: Cyprian von Karthago
 

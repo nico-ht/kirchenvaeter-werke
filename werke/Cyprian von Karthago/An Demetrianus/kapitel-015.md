@@ -1,4 +1,4 @@
-# An Demetrianus \(Ad Demetrianum\) – Kapitel 15: Bei der Geisteraustreibung müssen eure Götter Christen anflehen und ihre Täuschungen offenlegen
+# An Demetrianus – Kapitel 15: Bei der Geisteraustreibung müssen eure Götter Christen anflehen und ihre Täuschungen offenlegen
 
 Autor: Cyprian von Karthago
 

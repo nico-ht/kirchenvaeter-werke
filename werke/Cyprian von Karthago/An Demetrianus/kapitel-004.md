@@ -1,4 +1,4 @@
-# An Demetrianus \(Ad Demetrianum\) – Kapitel 4: Das Greisenalter der Welt verkürzt das Menschenleben und lässt alles Einzelne verkümmern
+# An Demetrianus – Kapitel 4: Das Greisenalter der Welt verkürzt das Menschenleben und lässt alles Einzelne verkümmern
 
 Autor: Cyprian von Karthago
 

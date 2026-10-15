@@ -1,4 +1,4 @@
-# An Demetrianus (Ad Demetrianum)
+# An Demetrianus
 
 Cyprian von Karthago
 

@@ -1,4 +1,4 @@
-# An Demetrianus \(Ad Demetrianum\) – Kapitel 10: Ihr beklagt die Not, doch eure eigene Habgier und Grausamkeit verschärfen sie
+# An Demetrianus – Kapitel 10: Ihr beklagt die Not, doch eure eigene Habgier und Grausamkeit verschärfen sie
 
 Autor: Cyprian von Karthago
 

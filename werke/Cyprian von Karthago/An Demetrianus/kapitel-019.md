@@ -1,4 +1,4 @@
-# An Demetrianus \(Ad Demetrianum\) – Kapitel 19: Christen teilen die körperliche Not, doch ihre Geduld zeigt, dass sie nicht an eurer Strafe teilhaben
+# An Demetrianus – Kapitel 19: Christen teilen die körperliche Not, doch ihre Geduld zeigt, dass sie nicht an eurer Strafe teilhaben
 
 Autor: Cyprian von Karthago
 

@@ -1,4 +1,4 @@
-# An Demetrianus \(Ad Demetrianum\) – Kapitel 25: Christus schenkt auch dem Vergebung und ewiges Leben, der erst im Sterben bereut und glaubt
+# An Demetrianus – Kapitel 25: Christus schenkt auch dem Vergebung und ewiges Leben, der erst im Sterben bereut und glaubt
 
 Autor: Cyprian von Karthago
 

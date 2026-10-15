@@ -1,4 +1,4 @@
-# An Demetrianus \(Ad Demetrianum\) – Kapitel 13: Folter soll Geständnisse erzwingen, doch Christen werden trotz ihres öffentlichen Bekenntnisses gefoltert
+# An Demetrianus – Kapitel 13: Folter soll Geständnisse erzwingen, doch Christen werden trotz ihres öffentlichen Bekenntnisses gefoltert
 
 Autor: Cyprian von Karthago
 

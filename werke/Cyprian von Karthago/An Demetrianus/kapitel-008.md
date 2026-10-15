@@ -1,4 +1,4 @@
-# An Demetrianus \(Ad Demetrianum\) – Kapitel 8: Du erzwingst Sklavendienst von deinesgleichen, erkennst aber Gott als deinen Herrn nicht an
+# An Demetrianus – Kapitel 8: Du erzwingst Sklavendienst von deinesgleichen, erkennst aber Gott als deinen Herrn nicht an
 
 Autor: Cyprian von Karthago
 
