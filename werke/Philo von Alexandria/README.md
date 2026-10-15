@@ -11,4 +11,5 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Einzelwerke
 
+- [Über das Zusammenkommen zum Zweck der Wissenssuche](%C3%9Cber%20das%20Zusammenkommen%20zum%20Zweck%20der%20Wissenssuche/) · 31 Kapitel
 - [Über das besinnliche Leben](%C3%9Cber%20das%20besinnliche%20Leben/) · 11 Kapitel

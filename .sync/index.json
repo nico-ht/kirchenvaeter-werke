@@ -16,30 +16,30 @@
   {
     "workId": "7bf2a7af-28fb-45d9-5a9d-08df1c172963",
     "authorName": "Ambrosius von Mailand",
-    "title": "Über Elija und das Fasten (De Elia et jejunio)",
-    "directory": "werke/Ambrosius von Mailand/Über Elija und das Fasten (De Elia et jejunio)",
-    "contentRevision": "sha256:586c41a0f1fcc61cfe483e68265e3c8b441e0e364ce2fdb4922793ca08feca75"
+    "title": "Über Elija und das Fasten",
+    "directory": "werke/Ambrosius von Mailand/Über Elija und das Fasten",
+    "contentRevision": "sha256:c3e41d08e5a3a020f376916a3ec55d1a87a0aa9bde12db2299f10aaf10d62632"
   },
   {
     "workId": "a019975b-1f4a-4e59-3d5b-08df23bd2351",
     "authorName": "Ambrosius von Mailand",
-    "title": "Über Josef (De Joseph Patriarcha)",
-    "directory": "werke/Ambrosius von Mailand/Sieben exegetische Werke/Über Josef (De Joseph Patriarcha)",
-    "contentRevision": "sha256:766f3e57e80bba974d5f8cf2a80d3f4beb3b967c42dce98b7ac3b84c267caaaf"
+    "title": "Über Josef",
+    "directory": "werke/Ambrosius von Mailand/Sieben exegetische Werke/Über Josef",
+    "contentRevision": "sha256:78e4c8782c8821d5197b7b66ba53f50848e30b7779735e73ec6438cc4973507c"
   },
   {
     "workId": "6068062d-44b5-4f86-5a9c-08df1c172963",
     "authorName": "Ambrosius von Mailand",
-    "title": "Über Naboth (De Nabuthe Jezraelita)",
-    "directory": "werke/Ambrosius von Mailand/Über Naboth (De Nabuthe Jezraelita)",
-    "contentRevision": "sha256:d478b33827ecc139e14a41ba156e512e40375e00efa9026c9034b9dbfdc5b005"
+    "title": "Über Naboth",
+    "directory": "werke/Ambrosius von Mailand/Über Naboth",
+    "contentRevision": "sha256:53aaa59f1694a81752174f3418488ec931bacca0caa25819403efb1c8a1c0d59"
   },
   {
     "workId": "b1836539-e0a3-4ce0-5a9e-08df1c172963",
     "authorName": "Ambrosius von Mailand",
-    "title": "Über Tobias (De Tobia)",
-    "directory": "werke/Ambrosius von Mailand/Über Tobias (De Tobia)",
-    "contentRevision": "sha256:c6c93cd1030e1b0739f48036f06d0afd22b39ce4671fb3e5131a4baae50352e0"
+    "title": "Über Tobias",
+    "directory": "werke/Ambrosius von Mailand/Über Tobias",
+    "contentRevision": "sha256:9b8d4c0ce53425ff8b997b12a4e67ff1581bdff5a3643516ba133607ea9652ac"
   },
   {
     "workId": "d2709503-fedc-4561-5b9f-08df27871084",
@@ -51,9 +51,9 @@
   {
     "workId": "9456cef0-fcf8-4c62-2ca1-08df276bd3eb",
     "authorName": "Ambrosius von Mailand",
-    "title": "Über die Witwen (De viduis)",
-    "directory": "werke/Ambrosius von Mailand/Über die Witwen (De viduis)",
-    "contentRevision": "sha256:ccd34862f742498286313a202027f2e62fe5bf755201f274374073b21ed2f12f"
+    "title": "Über die Witwen",
+    "directory": "werke/Ambrosius von Mailand/Über die Witwen",
+    "contentRevision": "sha256:0f22bb3c411278961ea3dd761740837cdef88b6189d4d92c791f0780c0745dd7"
   },
   {
     "workId": "68f579bd-1a89-4e6f-90c9-08de390c5250",
@@ -499,9 +499,9 @@
   {
     "workId": "264244c0-625b-4ca5-1aee-08dee57549b8",
     "authorName": "Cyprian von Karthago",
-    "title": "An Demetrianus (Ad Demetrianum)",
-    "directory": "werke/Cyprian von Karthago/An Demetrianus (Ad Demetrianum)",
-    "contentRevision": "sha256:fc85160dd08bb4b7dd865110cb9db3ea5f0799559eec37b980cc2ae080d6ac1a"
+    "title": "An Demetrianus",
+    "directory": "werke/Cyprian von Karthago/An Demetrianus",
+    "contentRevision": "sha256:f42157c08cdedb86338a771f82ff1323179bc07c8529730e2ba44aff74d352ad"
   },
   {
     "workId": "ecafd7ee-d7c2-4173-e276-08dd2f5b6104",
@@ -623,11 +623,25 @@
     "contentRevision": "sha256:d68cb176e74a2465628dbd0773f726af22bb9339fefaf560adb93c604629e8c9"
   },
   {
+    "workId": "d8395827-b08e-466e-d005-08df29550049",
+    "authorName": "Eusebius von Vercelli",
+    "title": "Brief aus der Verbannung an die Gemeinden Oberitaliens",
+    "directory": "werke/Eusebius von Vercelli/Brief aus der Verbannung an die Gemeinden Oberitaliens",
+    "contentRevision": "sha256:ab9c3498b276e391a65701cffe2ddc9f20b091468f541455d52ed2567df65ae1"
+  },
+  {
     "workId": "bc254ec2-2924-4902-b385-08de3975987e",
     "authorName": "Eustathius von Antioch",
     "title": "Zu den Inschriften der Säulenschrift",
     "directory": "werke/Eustathius von Antioch/Fragmente/Zu den Inschriften der Säulenschrift",
     "contentRevision": "sha256:33572954e8cf54cf7b2a0fd01dd7368fb46f14bda8e18240e9c6f0fb14753215"
+  },
+  {
+    "workId": "a8566146-1a6f-46be-eb23-08df2a23853e",
+    "authorName": "Faltonia Betitia Proba",
+    "title": "Biblischer Vergil-Cento",
+    "directory": "werke/Faltonia Betitia Proba/Biblischer Vergil-Cento",
+    "contentRevision": "sha256:6da71d6e9f35cb84238cb5e088cb8cf33219f0aebb1cfe52539e580d81364b21"
   },
   {
     "workId": "4c7ebc14-08fd-49d8-d650-08df23023ec4",
@@ -702,9 +716,9 @@
   {
     "workId": "52807f8a-a3b8-4648-a2dc-08df1a4e62f2",
     "authorName": "Gregor von Nyssa",
-    "title": "Über Pilgerreisen (Brief 2)",
-    "directory": "werke/Gregor von Nyssa/Über Pilgerreisen (Brief 2)",
-    "contentRevision": "sha256:768c951437e388376a62a8a27d2e61b6ace1a1378c2ff0da68624f186ba109ee"
+    "title": "Brief 2: Über Pilgerreisen",
+    "directory": "werke/Gregor von Nyssa/Brief 2 Über Pilgerreisen",
+    "contentRevision": "sha256:ab7c9091f076604a9257eae44a64fcdef1952e68e44400ba7ed27d9b91de7036"
   },
   {
     "workId": "a3e869e2-8b5a-44d5-b52e-08ded8738df9",
@@ -775,6 +789,13 @@
     "title": "Leben und Gefangenschaft des Mönchs Malchus",
     "directory": "werke/Hieronymus/Leben und Gefangenschaft des Mönchs Malchus",
     "contentRevision": "sha256:9839b072c0e92f0fab08e9d6a9f90ce2b74098fcc1a6fc8474f9d77bd9c0b7b7"
+  },
+  {
+    "workId": "fef40bb5-2365-4f8b-68b5-08df29e2ae28",
+    "authorName": "Hilarius von Poitiers",
+    "title": "Gegen Auxentius von Mailand",
+    "directory": "werke/Hilarius von Poitiers/Gegen Auxentius von Mailand",
+    "contentRevision": "sha256:c7c9881f1e6b76b229482ce90b9cda51fe22833bcd32ee60ccfd4c665155aa7a"
   },
   {
     "workId": "6ff34669-301d-4b25-252e-08dd75f9cbf5",
@@ -1827,6 +1848,13 @@
     "contentRevision": "sha256:3d8715a27a92f154a1d9d339bd9cb27ea3ba35cec6496a1d379cfd1deee6ef44"
   },
   {
+    "workId": "5302bd96-a0dc-4db6-d004-08df29550049",
+    "authorName": "Marius Victorinus",
+    "title": "Drei Trinitätshymnen",
+    "directory": "werke/Marius Victorinus/Drei Trinitätshymnen",
+    "contentRevision": "sha256:72d602b353e4a84c653280952ba1bd05f90c158514e7647e52d04503421c3a26"
+  },
+  {
     "workId": "642dba1d-0426-492e-d5b0-08dd2dca5489",
     "authorName": "Mathetes",
     "title": "Der Brief des Mathetes an Diognet",
@@ -2779,6 +2807,13 @@
     "contentRevision": "sha256:a0c4d689ddce7bbdc12e73815bb064fe7fa76c6b853f94b26181a136bf4d8fe7"
   },
   {
+    "workId": "381d2709-608a-4eb4-68b4-08df29e2ae28",
+    "authorName": "Paulinus von Nola",
+    "title": "Brief an Alypius",
+    "directory": "werke/Paulinus von Nola/Brief an Alypius",
+    "contentRevision": "sha256:eda05cdae8974ad4de8591f3f8526c0ff4a7e129b5d326fd5cf1b454154b5666"
+  },
+  {
     "workId": "6a81cb72-4beb-4563-dcdb-08dd5e294e7f",
     "authorName": "Philo von Alexandria",
     "title": "Fragen und Antworten über Genesis, Buch 1",
@@ -2812,6 +2847,13 @@
     "title": "Über das Leben von Mose, Buch 2",
     "directory": "werke/Philo von Alexandria/Über das Leben von Mose/Über das Leben von Mose, Buch 2",
     "contentRevision": "sha256:9720440f3fcf550bbd7998140aadc79cd5c5dbf13effbf53c7a1da330c38fe48"
+  },
+  {
+    "workId": "cde89414-e6a0-4087-383e-08def326c0d7",
+    "authorName": "Philo von Alexandria",
+    "title": "Über das Zusammenkommen zum Zweck der Wissenssuche",
+    "directory": "werke/Philo von Alexandria/Über das Zusammenkommen zum Zweck der Wissenssuche",
+    "contentRevision": "sha256:fa1ff5d956b38034d3a14ddb6bf2e01815f6be0ce65bd7a5b6cdb0b7c9c0b06c"
   },
   {
     "workId": "cf542b22-f96d-412a-5ddb-08dd0c1e72dc",
@@ -2938,6 +2980,13 @@
     "title": "Ad Scapulam",
     "directory": "werke/Tertullian/Ad Scapulam",
     "contentRevision": "sha256:e5248c4b9dc50546e2dde4f6bb7a013cab603aa68752475c7568246dd2917928"
+  },
+  {
+    "workId": "c05b3707-6da5-4020-4368-08decf6e5e28",
+    "authorName": "Tertullian",
+    "title": "An die Märtyrer",
+    "directory": "werke/Tertullian/An die Märtyrer",
+    "contentRevision": "sha256:111775cca342979f645b6286d4fb5ee6abb9085dc7be42310e68eea11aa88674"
   },
   {
     "workId": "3cfa2db3-47fc-46be-2fb2-08ddcdf6619e",
@@ -3092,6 +3141,13 @@
     "title": "Über die Erschaffung der Welt",
     "directory": "werke/Victorinus/Über die Erschaffung der Welt",
     "contentRevision": "sha256:a5a4b7043427fbc520909e7d209431116aea12327551cdda950457c3d5695d42"
+  },
+  {
+    "workId": "08ec69ab-ad3e-47c9-b0d8-08defd4c3bc2",
+    "authorName": "Victricius von Rouen",
+    "title": "Über das Lob der Heiligen",
+    "directory": "werke/Victricius von Rouen/Über das Lob der Heiligen",
+    "contentRevision": "sha256:632719c2c95deb0b1c1b51576589c849aa6bdc594255aea203687e70b56e08e3"
   },
   {
     "workId": "eb56aa45-9c49-4eb5-70e8-08dd19508cd9",

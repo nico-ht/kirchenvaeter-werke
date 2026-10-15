@@ -12,7 +12,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Einzelwerke
 
-- [Über Elija und das Fasten (De Elia et jejunio)](%C3%9Cber%20Elija%20und%20das%20Fasten%20%28De%20Elia%20et%20jejunio%29/) · 22 Kapitel
-- [Über Naboth (De Nabuthe Jezraelita)](%C3%9Cber%20Naboth%20%28De%20Nabuthe%20Jezraelita%29/) · 17 Kapitel
-- [Über Tobias (De Tobia)](%C3%9Cber%20Tobias%20%28De%20Tobia%29/) · 24 Kapitel
-- [Über die Witwen (De viduis)](%C3%9Cber%20die%20Witwen%20%28De%20viduis%29/) · 15 Kapitel
+- [Über Elija und das Fasten](%C3%9Cber%20Elija%20und%20das%20Fasten/) · 22 Kapitel
+- [Über Naboth](%C3%9Cber%20Naboth/) · 17 Kapitel
+- [Über Tobias](%C3%9Cber%20Tobias/) · 24 Kapitel
+- [Über die Witwen](%C3%9Cber%20die%20Witwen/) · 15 Kapitel
