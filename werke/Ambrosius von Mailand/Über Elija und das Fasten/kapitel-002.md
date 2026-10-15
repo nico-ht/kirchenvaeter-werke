@@ -1,4 +1,4 @@
-# Über Elija und das Fasten \(De Elia et jejunio\) – Kapitel 2: Elija wirkt fastend Wunder und wird für sein himmlisches Leben auf Erden in den Himmel entrückt
+# Über Elija und das Fasten – Kapitel 2: Elija wirkt fastend Wunder und wird für sein himmlisches Leben auf Erden in den Himmel entrückt
 
 Autor: Ambrosius von Mailand
 

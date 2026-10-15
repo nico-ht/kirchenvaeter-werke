@@ -1,4 +1,4 @@
-# Über Elija und das Fasten \(De Elia et jejunio\) – Kapitel 6: Fasten befähigt zum Empfang des Gesetzes und erweist sich als lebensspendende Kraft
+# Über Elija und das Fasten – Kapitel 6: Fasten befähigt zum Empfang des Gesetzes und erweist sich als lebensspendende Kraft
 
 Autor: Ambrosius von Mailand
 

@@ -1,4 +1,4 @@
-# Über Elija und das Fasten \(De Elia et jejunio\) – Kapitel 17: Trinkgelage bezeugen weder Treue noch Frömmigkeit, sondern lösen die Zunge und schädigen den Leib
+# Über Elija und das Fasten – Kapitel 17: Trinkgelage bezeugen weder Treue noch Frömmigkeit, sondern lösen die Zunge und schädigen den Leib
 
 Autor: Ambrosius von Mailand
 

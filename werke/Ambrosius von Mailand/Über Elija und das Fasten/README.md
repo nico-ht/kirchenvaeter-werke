@@ -1,4 +1,4 @@
-# Über Elija und das Fasten (De Elia et jejunio)
+# Über Elija und das Fasten
 
 Ambrosius von Mailand
 

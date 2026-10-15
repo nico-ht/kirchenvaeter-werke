@@ -1,4 +1,4 @@
-# Über Elija und das Fasten \(De Elia et jejunio\) – Kapitel 13: Der Trinkwettkampf der Krieger bringt auch den Siegern nur Entkräftung und Schande
+# Über Elija und das Fasten – Kapitel 13: Der Trinkwettkampf der Krieger bringt auch den Siegern nur Entkräftung und Schande
 
 Autor: Ambrosius von Mailand
 

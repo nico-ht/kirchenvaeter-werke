@@ -1,4 +1,4 @@
-# Über Elija und das Fasten \(De Elia et jejunio\) – Kapitel 7: Fasten bewahrt vor Feuer und Löwen und verwandelt die Natur der Elemente
+# Über Elija und das Fasten – Kapitel 7: Fasten bewahrt vor Feuer und Löwen und verwandelt die Natur der Elemente
 
 Autor: Ambrosius von Mailand
 
