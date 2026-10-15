@@ -1,4 +1,4 @@
-# Über Naboth (De Nabuthe Jezraelita)
+# Über Naboth
 
 Ambrosius von Mailand
 

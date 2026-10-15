@@ -1,4 +1,4 @@
-# Über Naboth \(De Nabuthe Jezraelita\) – Kapitel 1: Die Reichen vertreiben die Armen, obwohl die Erde für alle geschaffen ist
+# Über Naboth – Kapitel 1: Die Reichen vertreiben die Armen, obwohl die Erde für alle geschaffen ist
 
 Autor: Ambrosius von Mailand
 
