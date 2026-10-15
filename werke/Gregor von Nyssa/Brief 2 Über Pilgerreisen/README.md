@@ -1,4 +1,4 @@
-# Über Pilgerreisen (Brief 2)
+# Brief 2: Über Pilgerreisen
 
 Gregor von Nyssa
 

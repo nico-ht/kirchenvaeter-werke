@@ -1,4 +1,4 @@
-# Über Pilgerreisen \(Brief 2\) – Kapitel 1: Pilgerreisen nach Jerusalem bringen uns Gott nicht näher – entscheidend ist die Verfassung der Seele
+# Brief 2: Über Pilgerreisen – Kapitel 1: Pilgerreisen nach Jerusalem bringen uns Gott nicht näher – entscheidend ist die Verfassung der Seele
 
 Autor: Gregor von Nyssa
 
