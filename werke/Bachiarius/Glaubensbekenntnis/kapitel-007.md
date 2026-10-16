@@ -1,0 +1,19 @@
+# Glaubensbekenntnis – Kapitel 7: Das Bekenntnis bleibt kirchlicher Korrektur offen und beruft sich auf Gott als Zeugen seiner Aufrichtigkeit
+
+Autor: Bachiarius
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/bachiarius/bachiarius-glaubensbekenntnis#kapitel-ff17dce4-3deb-4aa3-a022-08df2a82bd1e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nach der Regel und Ordnung der Kirche halten wir die Fastenzeiten mit besonderer Sorgfalt ein, damit dreimal im Jahr das Männliche in uns[^bible-bfb659b2-f28c-466d-b721-7b02c2952e8b], das heißt ein Werk der Tugend, das die übrigen Werke überragt, erscheint[^bible-bfb659b2-f28c-466d-b721-7b02c2952e8b]\. Und wenn der Kirche Fasten auferlegt wird, wollen wir nicht nur auf den gewohnten Genuss verzichten, sondern auch auf geselligen Umgang, Plaudereien und Begrüßungen, bei denen sich Plaudereien ergeben\. Obwohl wir dies, Gott ist unser Zeuge, genau so meinen, wie wir es schreiben, schmeicheln wir uns dennoch nicht damit, die Wahrheit so sicher zu besitzen, dass wir nur zögernd der Auffassung der Priester oder Lehrer folgen würden, wenn diese als Häupter des Volkes und Säulen der Kirchen einen Punkt unseres Bekenntnisses prüfen und etwas Richtigeres sagen\. Wir erinnern uns an das schriftlich überlieferte Gebot: „Fragt eure Väter, und sie werden es euch sagen\.[^bible-416d2e6b-6a13-45a9-81c7-ad034b1a996a]“ Denn wir sind nicht so dumm, dass wir zwar vor ihnen zur Heiligung unsere Häupter beugen, unsere Herzen aber nicht vor ihnen demütigen wollen\. Er ist der Hirte: Wohin er mich ruft, werde ich folgen; was er sagt, werde ich wiederkäuen\. Denn er weiß, dass „er für seine Wache über mich Rechenschaft ablegen muss[^bible-2971c0a5-bfb7-442d-bbc2-abae21bd22f4]“\. Das ist es, was ich euch fürs Erste antworten konnte\. Wenn dir scheint, dass ich etwas absichtlich übergangen habe, oder wenn dich noch etwas umtreibt, so frage bitte ohne Scheu, damit ich ohne Zögern antworte und entweder von meinem Irrtum abgebracht oder im Glauben bestärkt werde\. Jedem, der die Worte dieses Bekenntnisses liest, bezeuge ich: Wenn jemand etwas davon wegnimmt, wird Gott seinen Anteil am Buch des Lebens wegnehmen\.[^bible-65def107-188a-4bca-a440-b5a08924c429] Wer nämlich glaubt, dass wir mit den Lippen etwas anderes sagen, als wir im Herzen tragen, dem gilt, was ich oben gesagt habe: Gott kann in unser Herz sehen\. Ihm haben wir unsere Lippen zum Bekenntnis dargebracht\. Über das, was Menschen beurteilen können, haben wir hinreichend Auskunft gegeben\. So wird jedes unserer Worte durch zwei Zeugen Bestand haben[^bible-a2e35764-bbb1-4f29-aacd-2b14c9352bdb], nämlich durch Gott, dessen Gericht wir gegen uns anrufen, wenn wir täuschen, und durch die Menschen, deren Verdacht wir mit unserem Bekenntnis entkräften, damit sie nicht weiter gegen uns sündigen wollen, indem sie schlecht von uns denken\. Wenn jemand dies hört und dennoch im Unglauben verharrt, sodass er uns keinen Glauben schenkt, zweifle ich nicht daran, dass er am Tag des Gerichts seinen Platz entweder unter dem ungläubigen Volk oder unter den falschen Zeugen haben wird und dass nach dem Urteil des Gesetzes des Mose ihn selbst das Unrecht treffen wird, das er seinem Bruder zugedacht hat[^bible-cd27d421-73b7-4a43-8e42-e7b178a8e02f]\.
+
+## Bibelverweise
+
+[^bible-2971c0a5-bfb7-442d-bbc2-abae21bd22f4]: Hebr 13,17
+[^bible-416d2e6b-6a13-45a9-81c7-ad034b1a996a]: Dtn 32,7
+[^bible-65def107-188a-4bca-a440-b5a08924c429]: Offb 22,18–Offb 22,19
+[^bible-a2e35764-bbb1-4f29-aacd-2b14c9352bdb]: Dtn 19,15
+[^bible-bfb659b2-f28c-466d-b721-7b02c2952e8b]: Ex 34,23
+[^bible-cd27d421-73b7-4a43-8e42-e7b178a8e02f]: Dtn 19,19
