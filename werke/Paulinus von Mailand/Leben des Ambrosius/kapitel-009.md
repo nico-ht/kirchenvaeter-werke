@@ -1,0 +1,10 @@
+# Leben des Ambrosius – Kapitel 9: Ambrosius fügt sich Gottes Willen und wird nach katholischer Taufe am achten Tag zum Bischof geweiht
+
+Autor: Paulinus von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/paulinus-von-mailand/paulinus-von-mailand-leben-des-ambrosius#kapitel-5f599c4f-11f7-4cfb-e216-08df2a4ae711).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Während die Antwort auf den Bericht noch ausstand, bereitete er erneut seine Flucht vor und hielt sich eine Zeit lang auf dem Landgut eines Mannes senatorischen Ranges namens Leontius verborgen\. Als aber die Antwort eintraf, verriet ihn eben dieser Leontius\. Denn der Vikar hatte den Befehl erhalten, auf den Abschluss der Angelegenheit zu drängen\. Um seinen Auftrag zu erfüllen, forderte er in einem öffentlichen Erlass alle auf, den Mann zu verraten, wenn sie für ihr eigenes Wohl und ihren Besitz sorgen wollten\. Nachdem Ambrosius also verraten und nach Mailand gebracht worden war, erkannte er, was Gott mit ihm vorhatte und dass er sich nicht länger widersetzen konnte\. So verlangte er, nur von einem katholischen Bischof getauft zu werden, denn er hütete sich sorgsam vor dem Unglauben der Arianer\. Nach seiner Taufe soll er alle kirchlichen Ämter ausgeübt haben; am achten Tag wurde er unter größter Zustimmung und zur Freude aller zum Bischof geweiht\. Einige Jahre nach seiner Weihe reiste er in die Stadt Rom, also in seine Heimat\. Dort fand er in seinem eigenen Haus die heilige Jungfrau wieder, die wir oben erwähnt haben und der er gewöhnlich seine Hand zum Kuss gereicht hatte\. Sie lebte mit seiner Schwester zusammen, so wie er sie zurückgelassen hatte; seine Mutter war inzwischen gestorben\. Als sie nun seine rechte Hand küsste, sagte er lächelnd zu ihr: „Siehst du: Wie ich dir gesagt habe, küsst du die Hand eines Priesters\.“

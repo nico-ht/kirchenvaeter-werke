@@ -1,0 +1,10 @@
+# Leben des Ambrosius – Kapitel 20: Die Geständnisse der Täter bezeugen, wie Gott Ambrosius vor Zauberei und Mordanschlägen bewahrt
+
+Autor: Paulinus von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/paulinus-von-mailand/paulinus-von-mailand-leben-des-ambrosius#kapitel-16d3dde2-5fc0-48e1-e221-08df2a4ae711).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nach Justinas Tod wurde ein Eingeweideschauer namens Innocentius, der zwar dem Namen, nicht aber seinen Taten nach unschuldig war, in einem Verfahren wegen Zauberei auf Anordnung des Richters gefoltert\. Dabei begann er, Dinge zu gestehen, nach denen man ihn gar nicht gefragt hatte\. Er schrie nämlich, der Engel, der Ambrosius beschütze, füge ihm noch größere Qualen zu, weil er zur Zeit Justinas auf den Dachfirst der Kirche gestiegen sei und um Mitternacht ein Opfer dargebracht habe, um im Volk Hass gegen den Bischof zu erregen\. Doch je beharrlicher und sorgfältiger er bei seinem bösen Tun vorging, desto stärker wurde die Liebe des Volkes zum katholischen Glauben und zum Priester des Herrn\. Er gestand auch, Dämonen ausgeschickt zu haben, die Ambrosius töten sollten\. Doch die Dämonen hätten ihm gemeldet, sie könnten sich weder diesem selbst nähern noch auch nur der Tür des Hauses, in dem der Bischof wohnte\. Denn ein unüberwindliches Feuer schütze das ganze Gebäude, sodass sie selbst in weiter Entfernung noch davon versengt würden\. So sei es mit seinen Künsten zu Ende gewesen, mit denen er gegen den Priester des Herrn etwas ausrichten zu können geglaubt hatte\. Ein anderer kam sogar mit einem Schwert bis zum Schlafgemach, um den Priester zu töten\. Doch als er mit gezogenem Schwert die Hand erhob, erstarrte seine ausgestreckte Rechte und verharrte in der Luft\. Nachdem er daraufhin gestanden hatte, dass Justina ihn geschickt hatte, wurde der Arm, den er in böser Absicht ausgestreckt hatte und der dabei erstarrt war, durch sein Geständnis geheilt\.
