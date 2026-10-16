@@ -1,0 +1,27 @@
+# Über die Wiederaufnahme eines Gefallenen – Kapitel 15: Die Zufluchtsstädte zeigen, wie der Gefallene Schutz findet und durch Buße in die Kirche zurückkehrt
+
+Autor: Bachiarius
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/bachiarius/bachiarius-wiederaufnahme-eines-gefallenen#kapitel-de864cfc-9669-45a9-e200-08df2a4ae711).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Vielleicht sagst du aber: „Dein Zureden setzt einen Menschen voraus, der in Ruhe oder Sicherheit lebt\. Ich dagegen muss täglich einen weltlichen Verfolger fürchten, der die Schande seiner Verwandten an mir rächen will\.“ Wenn du also etwas Derartiges fürchtest, sieh: Es gibt sechs Zufluchtsstädte[^bible-dca1547d-c24c-4599-b43c-c33bb14760b7]\. Begib dich hinein, wenn du willst\. Und wenn du es im Bewusstsein deiner Sünden nicht wagst, jene im Land der Verheißung, das heißt in der Kirche, zu betreten, so gibt es Bosor jenseits des Jordan in der Wüste[^bible-d9dc5d28-21a4-4a8d-a586-80a1f4c76694]\. Der Name bedeutet Enge, das heißt eine kleine oder bescheidene Klosterzelle\. Sie wird sehr gut zu dir passen, denn sie liegt in Rubens Losgebiet[^bible-d9dc5d28-21a4-4a8d-a586-80a1f4c76694], und auch er hat sich am Bett seines Vaters vergangen und es befleckt[^bible-0324358d-ec86-42e1-a451-4c437885bc85]\. Es gibt auch Ramoth im Losgebiet Gads[^bible-d9dc5d28-21a4-4a8d-a586-80a1f4c76694], dessen Name erhabener Tod oder Anblick des Todes bedeutet\. Wahrhaftig, die Buße ist ein erhabener Tod zu nennen: Sind die Glieder abgetötet[^bible-f0b449dd-83a3-43d0-b519-9c8139e4fb0d], wird der Mensch zu den Höhen des Himmels geführt, von denen er zuvor herabgefallen war\. Oder man stellt sie jenem niedrigen Tod gegenüber, der allem Fleisch droht; im Vergleich mit ihm wird sie mit Recht erhaben genannt\. Denn durch Buße zu sterben ist weit edler, als durch diesen gewöhnlichen Tod aufgelöst zu werden\. Wollen wir darunter aber den Anblick des Todes verstehen, so lässt sich das so deuten: Wenn wir Buße tun und uns die Qualen der Hölle und der Unterwelt vor Augen stellen, sehen wir die Gestalt eben jenes Todes, von dem uns die Wohltat der Buße befreit\. Denke nur daran, dass du in der Stadt des Sohnes einer Sklavin[^bible-0001cf53-4be3-4d70-8bd6-6f977b56a54d] Buße tust\. Denn „jeder, der sündigt, ist ein Sklave der Sünde[^bible-efbba881-6deb-4af5-a134-12cdad2c1989]“, und indem du die Gestalt eines Sklaven annimmst[^bible-cd8fb131-61b7-4673-987b-50eab7b15d47], musst du dich selbst bis zum Tod erniedrigen[^bible-b7b73fa2-da7a-4eec-8ec1-394f6c517a86]\. Es gibt Gaulon im Gebiet Manasses[^bible-d9dc5d28-21a4-4a8d-a586-80a1f4c76694], dessen Name Wälzen bedeutet, damit du daran denkst, dass du dich in Sack und Asche wälzen musst\. Und das geschieht im Gebiet Manasses, dessen Name Vergessen bedeutet, damit du vergisst, was du früher getan hast, und dich nach dem ausstreckst, was vor dir liegt[^bible-a4cd15ed-21a1-46ad-99d0-2831f1babcac]\. Wohne also hier, damit du durch Enge, Tod und Wälzen dem Zorn deines Verfolgers entgehst und Hoffnung auf Rettung findest\. Wenn du dann darin etwas Heilsames vollbracht hast, wirst du auch nach Cades in Galiläa im Land der Verheißung gelangen können[^bible-393077da-35e7-4084-814b-10aa13e22299]\. Der Name bedeutet die Heilige: Wenn du in der Bedrängnis dein verderbliches Tun abgelegt hast, soll dir auch der Zugang zur heiligen Kirche gewährt werden, ebenso zum Losgebiet Naftalis[^bible-393077da-35e7-4084-814b-10aa13e22299], der ein frei wachsender Weinstock[^bible-d62f9235-2036-4b1c-a41f-82a8d7624637] genannt wird, damit du würdig wirst, am Sakrament des Blutes des Herrn teilzuhaben\. Auch der Zugang zu Hebron[^bible-393077da-35e7-4084-814b-10aa13e22299] soll dir nicht verschlossen bleiben; sein Name bedeutet Verbindung oder Ehe\. Deine Seele soll nämlich zu ihrem Mann zurückkehren, das heißt zum Geist Gottes, von dem sie während der Zeit ihrer Sünden verwitwet war\. So wirst du auch die sechste Stadt betreten können, Sichem, das unser Josef als Erbe erhält, weil er dort begraben wurde[^bible-a7e47b81-f0c9-4a7f-8240-8d950d0c892d]\. Der Name bedeutet Schulter oder Mühe\. So sollst du zeigen, dass du durch die Mühe der Buße auf Christi Schultern von deinem Irrweg zurückgetragen und den neunundneunzig Schafen wieder zugesellt worden bist[^bible-0a82b71c-ddff-4916-85ea-d978be676897] und so zum hundertsten geworden bist\. Denn von Sichem selbst steht geschrieben, dass „es den Fremden für hundert Lämmer abgekauft wurde[^bible-23ffa3c9-8359-46d0-825d-732625668a53]“\.
+
+## Bibelverweise
+
+[^bible-0001cf53-4be3-4d70-8bd6-6f977b56a54d]: Gen 30,10–Gen 30,11
+[^bible-0324358d-ec86-42e1-a451-4c437885bc85]: Gen 49,4
+[^bible-0a82b71c-ddff-4916-85ea-d978be676897]: Lk 15,4–Lk 15,5
+[^bible-23ffa3c9-8359-46d0-825d-732625668a53]: Gen 33,19
+[^bible-393077da-35e7-4084-814b-10aa13e22299]: Jos 20,7
+[^bible-a4cd15ed-21a1-46ad-99d0-2831f1babcac]: Phil 3,13
+[^bible-a7e47b81-f0c9-4a7f-8240-8d950d0c892d]: Jos 24,32
+[^bible-b7b73fa2-da7a-4eec-8ec1-394f6c517a86]: Phil 2,8
+[^bible-cd8fb131-61b7-4673-987b-50eab7b15d47]: Phil 2,7
+[^bible-d62f9235-2036-4b1c-a41f-82a8d7624637]: Gen 49,21
+[^bible-d9dc5d28-21a4-4a8d-a586-80a1f4c76694]: Jos 20,8
+[^bible-dca1547d-c24c-4599-b43c-c33bb14760b7]: Jos 20,2–Jos 20,3
+[^bible-efbba881-6deb-4af5-a134-12cdad2c1989]: Joh 8,34
+[^bible-f0b449dd-83a3-43d0-b519-9c8139e4fb0d]: Kol 3,5
