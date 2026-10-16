@@ -1,0 +1,15 @@
+# Rundbrief über die Ereignisse auf Menorca – Kapitel 2: Menorcas Schutz vor schädlichen Tieren wird zum Bild für die Bekehrung der Juden Magonas
+
+Autor: Severus von Menorca
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/severus-von-menorca/rundbrief-ereignisse-menorca#kapitel-8094ef54-5c03-4b29-9ff1-08df2a82bd1e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Die Insel Menorca gehört zu den Balearen, deren Name auch durch die Schriften weltlicher Autoren unter allen Völkern bekannt geworden ist\. Sie liegt im Meer, fast auf halbem Weg zwischen der Mauretania Caesariensis und Spanien, und ist von sehr geringer Ausdehnung: Sie ist dreißig römische Meilen lang, aber nur drei Meilen breit\. Das habe ich hier erwähnt, damit man erkennen kann, dass der Herr das in der Welt Verachtete erwählt[^bible-c7f06ed8-c25a-4d11-af97-ba934df8ef78], nicht nur unter den Menschen, sondern auch unter den Orten\. Auf dieser Insel also, die wegen ihrer geringen Größe, ihrer Trockenheit und ihrer rauen Beschaffenheit unter allen Ländern an letzter Stelle steht, wurden einander gegenüber zwei kleine Städte gegründet, denen die Punier ihre Namen gaben: Jammona liegt nach Westen, Magona nach Osten hin\. In diesen Städten wurde mir, dem Letzten aller Sterblichen, vor Kurzem die Last des priesterlichen Amtes auferlegt\. Jammona aber bewahrt noch heute eine alte Gabe Gottes: Juden können dort keinesfalls wohnen\. Die alte Überlieferung berichtet nämlich, dass viele, die dies leichtfertig wagten, entweder von Krankheit befallen oder vertrieben oder von einem plötzlichen Tod dahingerafft oder sogar vom Blitz erschlagen wurden\. Die weithin verbreitete Kunde davon hat selbst den Juden solche Furcht eingeflößt, dass sie dies nicht noch einmal leichtfertig wagen\. Wir halten das auch nicht für unglaubwürdig, sehen wir doch, dass es hier weder Wölfe noch Füchse noch irgendwelche schädlichen Tiere gibt, während Wild, das sich zum Verzehr eignet, in großer Menge vorhanden ist\. Noch erstaunlicher ist, dass es sehr viele Schlangen und Skorpione gibt, sie aber jede Fähigkeit verloren haben, Schaden anzurichten\. Da also keiner der Juden, die man wegen ihrer Wildheit und Bosheit mit Recht mit Wölfen und Füchsen vergleicht, Jammona auch nur als Gast zu betreten wagt, wimmelte es in Magona, wie berichtet wurde, derart von ihnen wie von Schlangen und Skorpionen, dass sie die Kirche Christi täglich mit ihren Bissen verletzten\. Doch jene alte leibliche Wohltat wurde uns vor Kurzem als geistliche Wohltat erneuert, sodass jene, wie geschrieben steht, „Schlangenbrut[^bible-f24125fc-6ce8-471c-87cf-3d1a0f8e5e33]“, die mit giftigen Stichen wütete, plötzlich, von göttlicher Macht gezwungen, das tödliche Gift des Unglaubens ablegte\.
+
+## Bibelverweise
+
+[^bible-c7f06ed8-c25a-4d11-af97-ba934df8ef78]: 1Kor 1,27–1Kor 1,28
+[^bible-f24125fc-6ce8-471c-87cf-3d1a0f8e5e33]: Lk 3,7
