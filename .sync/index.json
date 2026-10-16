@@ -168,6 +168,13 @@
     "contentRevision": "sha256:1d49c6a0e167202d7ae00b48c6c000d780669e206083cbdf41d29ebe3212cefd"
   },
   {
+    "workId": "48d3295e-1a68-4112-2f52-08df1c0315dd",
+    "authorName": "Athanasius",
+    "title": "An die Bischöfe Ägyptens und Libyens (Ad Episcopos Aegypti et Libyae)",
+    "directory": "werke/Athanasius/An die Bischöfe Ägyptens und Libyens (Ad Episcopos Aegypti et Libyae)",
+    "contentRevision": "sha256:c65f099e915021c1c0ede98ccc8692f60804005f191baa19527a8f421e7f6d2f"
+  },
+  {
     "workId": "07074b10-aaea-4db9-2ca2-08df276bd3eb",
     "authorName": "Athanasius",
     "title": "Brief an Dracontius (Epistula ad Dracontium)",
@@ -264,6 +271,20 @@
     "title": "Über die Lüge",
     "directory": "werke/Augustinus/Über die Lüge",
     "contentRevision": "sha256:0a0d44f7e2d0b950866d25bb0530137c5a21b415cfe076e32f863ba185110ffb"
+  },
+  {
+    "workId": "5f21ee85-5261-4138-6126-08df2a82baf6",
+    "authorName": "Bachiarius",
+    "title": "Glaubensbekenntnis",
+    "directory": "werke/Bachiarius/Glaubensbekenntnis",
+    "contentRevision": "sha256:51bd862f268d62a28d11f287f582761ff8fc31e04d7b2eefa9d3d4b8f89e9461"
+  },
+  {
+    "workId": "26cf5e24-6744-46c2-0171-08df2a4ae2ee",
+    "authorName": "Bachiarius",
+    "title": "Über die Wiederaufnahme eines Gefallenen",
+    "directory": "werke/Bachiarius/Über die Wiederaufnahme eines Gefallenen",
+    "contentRevision": "sha256:87d6a01345f9417dd66873dc43a6e74a10f5d3bebbb7831e6b611dde9af0b0d9"
   },
   {
     "workId": "d9aee309-df13-49c4-6e0b-08de7d5c481a",
@@ -574,6 +595,13 @@
     "contentRevision": "sha256:e0508a0daea7c74085634039ade74f59d37f407f6df6b61a10ca428686628a14"
   },
   {
+    "workId": "9801f42b-3e63-4ad8-6123-08df2a82baf6",
+    "authorName": "Dionysius von Alexandria",
+    "title": "Brief an Basilides",
+    "directory": "werke/Dionysius von Alexandria/Brief an Basilides",
+    "contentRevision": "sha256:818727b9d812b997b0cf5e08648ba0b78c39b6f06849a2fa2c5fd512e1b6378b"
+  },
+  {
     "workId": "600c199e-5827-4323-b499-08df143d42b0",
     "authorName": "Ephräm der Syrer",
     "title": "15 Hymnen zum Fest der Epiphanie",
@@ -649,6 +677,13 @@
     "title": "Über den Irrtum der heidnischen Religionen",
     "directory": "werke/Firmicus Maternus/Über den Irrtum der heidnischen Religionen",
     "contentRevision": "sha256:e72e32be3881e8d5c1a6e6452ffac2f12a8cbe7e728ed034477b055fda26841b"
+  },
+  {
+    "workId": "29a038a6-3b4b-42b2-9307-08df2ab9dfd2",
+    "authorName": "Gaudentius von Brescia",
+    "title": "2. Predigt über das Pascha und die Sakramente",
+    "directory": "werke/Gaudentius von Brescia/Predigten/2. Predigt über das Pascha und die Sakramente",
+    "contentRevision": "sha256:8fad0e0b368f4292ac382a5efb0145fe18343d6a1cd88c307c6a84ed385a7856"
   },
   {
     "workId": "d4dc0cb4-27f5-422b-47c4-08dd468a1db5",
@@ -1678,6 +1713,13 @@
     "title": "90. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/90. Homilie über Matthäus",
     "contentRevision": "sha256:785deccfc8c69f0bb1d1ae8affa8e063356fae6dcfbc68ea7b2dfe557c248864"
+  },
+  {
+    "workId": "8dbc06e4-b663-4510-9304-08df2ab9dfd2",
+    "authorName": "Johannes Chrysostomus",
+    "title": "Erste Lobrede auf die Märtyrerin Pelagia",
+    "directory": "werke/Johannes Chrysostomus/Erste Lobrede auf die Märtyrerin Pelagia",
+    "contentRevision": "sha256:e395e2a0d8978bb0782a972e63423077098d296586322f525a06e539164b92ce"
   },
   {
     "workId": "e49f9c44-087c-4910-68b2-08dd1182264d",
@@ -2807,11 +2849,25 @@
     "contentRevision": "sha256:a0c4d689ddce7bbdc12e73815bb064fe7fa76c6b853f94b26181a136bf4d8fe7"
   },
   {
+    "workId": "720001da-4318-4609-0172-08df2a4ae2ee",
+    "authorName": "Paulinus von Mailand",
+    "title": "Leben des Ambrosius",
+    "directory": "werke/Paulinus von Mailand/Leben des Ambrosius",
+    "contentRevision": "sha256:be75a8cad6702d9bafb7a9a7a97a17c6ab71c35e31dd33a4c7670cbac2d517b2"
+  },
+  {
     "workId": "381d2709-608a-4eb4-68b4-08df29e2ae28",
     "authorName": "Paulinus von Nola",
     "title": "Brief an Alypius",
     "directory": "werke/Paulinus von Nola/Brief an Alypius",
     "contentRevision": "sha256:eda05cdae8974ad4de8591f3f8526c0ff4a7e129b5d326fd5cf1b454154b5666"
+  },
+  {
+    "workId": "f5efa233-de1d-49ec-6122-08df2a82baf6",
+    "authorName": "Petrus Chrysologus",
+    "title": "43. Predigt über Gebet, Fasten und Barmherzigkeit",
+    "directory": "werke/Petrus Chrysologus/43. Predigt über Gebet, Fasten und Barmherzigkeit",
+    "contentRevision": "sha256:f9c31c5dbf15cce2ea62310e70736b2655fb5e13b0210db0834742050e2cd6df"
   },
   {
     "workId": "6a81cb72-4beb-4563-dcdb-08dd5e294e7f",
@@ -2863,6 +2919,13 @@
     "contentRevision": "sha256:e1faf5dd821e4719183d94e1aa07457a521a0c664467e3ca78e8b15bf6970142"
   },
   {
+    "workId": "de3c6551-de7d-4507-6125-08df2a82baf6",
+    "authorName": "Phoebadius von Agen",
+    "title": "Gegen die Arianer",
+    "directory": "werke/Phoebadius von Agen/Gegen die Arianer",
+    "contentRevision": "sha256:3912b0e250e601a49e9962cf48a6d3fe097354c073d74f6d6c09becbc6b26886"
+  },
+  {
     "workId": "d9f2d65a-fbb5-4a03-65a3-08dd071bbf24",
     "authorName": "Polykarp",
     "title": "Brief an die Philipper",
@@ -2875,6 +2938,13 @@
     "title": "Das Martyrium des Polykarp",
     "directory": "werke/Polykarp/Das Martyrium des Polykarp",
     "contentRevision": "sha256:2ccf0ecc701fbb2a311fec4db9d0496649fe25e99550d655cc0c8bb1d35d4862"
+  },
+  {
+    "workId": "e88d2d84-9a1e-4718-9306-08df2ab9dfd2",
+    "authorName": "Potamius von Lissabon",
+    "title": "Über Lazarus",
+    "directory": "werke/Potamius von Lissabon/Über Lazarus",
+    "contentRevision": "sha256:d3cd2b40a3da3352c6022e42ac684907c06066c5bcdd230302976d60e7e5ba32"
   },
   {
     "workId": "62cda066-f363-43cd-ec3d-08ddcd5c12c2",
@@ -2938,6 +3008,13 @@
     "title": "Über den Vater und den Sohn",
     "directory": "werke/Serapion von Thmuis/Über den Vater und den Sohn",
     "contentRevision": "sha256:2f0b87b1c3e81da4cbcd81d06b9eb74663527917e771a218a5a7176b58c4dbae"
+  },
+  {
+    "workId": "6f52f3c5-8e95-4ae2-6124-08df2a82baf6",
+    "authorName": "Severus von Menorca",
+    "title": "Rundbrief über die Ereignisse auf Menorca",
+    "directory": "werke/Severus von Menorca/Rundbrief über die Ereignisse auf Menorca",
+    "contentRevision": "sha256:38e4b1fea551fc1a5906a5837f3485f34f4223cb8d2090c4847e788498745bce"
   },
   {
     "workId": "456a2a46-8e49-4b50-dfc0-08df218848c7",
@@ -3150,6 +3227,13 @@
     "contentRevision": "sha256:632719c2c95deb0b1c1b51576589c849aa6bdc594255aea203687e70b56e08e3"
   },
   {
+    "workId": "89084543-7d9c-418c-930d-08df2ab9dfd2",
+    "authorName": "Vigilius von Trient",
+    "title": "Brief an Simplicianus über die Märtyrer",
+    "directory": "werke/Vigilius von Trient/Brief an Simplicianus über die Märtyrer",
+    "contentRevision": "sha256:5a7c6ae132515752b5477f8ff71b8f662de8042206044d38e86db57b331cf4ce"
+  },
+  {
     "workId": "eb56aa45-9c49-4eb5-70e8-08dd19508cd9",
     "authorName": "Vinzenz von Lerins",
     "title": "Über die Orthodoxie",
@@ -3169,6 +3253,13 @@
     "title": "Schrift 10 - Habsucht 2",
     "directory": "werke/Zeno von Verona/Buch 1/Schrift 10 - Habsucht 2",
     "contentRevision": "sha256:abf740e27195f23ccd8615d907211bd002466a5630c0f583e5083e2d3b3b9413"
+  },
+  {
+    "workId": "eb3a9b5f-921d-4c8a-9308-08df2ab9dfd2",
+    "authorName": "Zeno von Verona",
+    "title": "Schrift 14 – Über den geistlichen Bau des Hauses Gottes",
+    "directory": "werke/Zeno von Verona/Buch 1/Schrift 14 – Über den geistlichen Bau des Hauses Gottes",
+    "contentRevision": "sha256:a627ad7dc9aeab6006e5898c928bfbf4788e15290c385e56e2a34338ea91a0d0"
   },
   {
     "workId": "c6725ca1-9bce-47b3-5921-08dd47626c49",

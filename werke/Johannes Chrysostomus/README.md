@@ -14,6 +14,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Einzelwerke
 
+- [Erste Lobrede auf die Märtyrerin Pelagia](Erste%20Lobrede%20auf%20die%20M%C3%A4rtyrerin%20Pelagia/) · 4 Kapitel
 - [Gegen die Bekanntmachung der Fehler von Brüdern](Gegen%20die%20Bekanntmachung%20der%20Fehler%20von%20Br%C3%BCdern/) · 12 Kapitel
 - [Lobrede auf Ignatius](Lobrede%20auf%20Ignatius/) · 5 Kapitel
 - [Wie man eine Ehefrau auswählt](Wie%20man%20eine%20Ehefrau%20ausw%C3%A4hlt/) · 24 Kapitel

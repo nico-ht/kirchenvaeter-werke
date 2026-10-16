@@ -6,4 +6,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Buch 1](Buch%201/) · 10 Werke
+- [Buch 1](Buch%201/) · 11 Werke

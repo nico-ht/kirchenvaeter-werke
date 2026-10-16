@@ -18,3 +18,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Schrift 8 - Furcht](Schrift%208%20-%20Furcht/) · 3 Kapitel
 - [Schrift 9 - Habsucht 1](Schrift%209%20-%20Habsucht%201/) · 6 Kapitel
 - [Schrift 10 - Habsucht 2](Schrift%2010%20-%20Habsucht%202/) · 5 Kapitel
+- [Schrift 14 – Über den geistlichen Bau des Hauses Gottes](Schrift%2014%20%E2%80%93%20%C3%9Cber%20den%20geistlichen%20Bau%20des%20Hauses%20Gottes/) · 6 Kapitel

@@ -1,0 +1,9 @@
+# Phoebadius von Agen
+
+Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de).
+
+**Nicht kommerziell · Quelle nennen · CC BY-NC-SA 4.0**
+
+## Einzelwerke
+
+- [Gegen die Arianer](Gegen%20die%20Arianer/) · 23 Kapitel
