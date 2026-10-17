@@ -1,0 +1,10 @@
+# An seine Frau, Buch 2 – Kapitel 4: Der ungläubige Ehemann behindert die Glaubenspflichten seiner Frau und ihren Dienst an den Brüdern
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/an-seine-frau-buch-2#kapitel-edca0fb6-7485-4e62-1cc8-08df278587ab).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Sie soll aber zusehen, wie sie ihren Pflichten gegenüber ihrem Mann nachkommt\. Dem Herrn jedenfalls kann sie nicht so dienen, wie es die christliche Lebensordnung verlangt, wenn sie einen Diener des Teufels an ihrer Seite hat, der im Auftrag seines Herrn die Aufgaben und Pflichten der Gläubigen behindert\. Soll sie einen Gebets\- und Fastentag halten, verabredet sich der Mann bei Tagesanbruch mit ihr zum Besuch der Bäder\. Soll gefastet werden, veranstaltet er gerade an diesem Tag ein Festmahl\. Steht ein Gang zur Hilfe für Bedürftige an, sind die Familienangelegenheiten dringlicher als je zuvor\. Denn wer würde seiner Frau erlauben, um die Brüder zu besuchen, von Straße zu Straße in die Häuser anderer Männer zu gehen, noch dazu in die Hütten aller Armen? Wer würde es bereitwillig ertragen, dass nächtliche Versammlungen sie, wenn nötig, von seiner Seite fortnehmen? Wer würde schließlich ohne Sorge hinnehmen, dass sie bei den Passahfeiern die ganze Nacht abwesend ist? Wer würde sie ohne eigenen Verdacht zu jenem Abendmahl des Herrn gehen lassen, das sie verleumden? Wer würde ihr erlauben, ins Gefängnis zu schleichen, um die Fesseln eines Märtyrers zu küssen? Ja, überhaupt einem der Brüder zu begegnen, um den Kuss auszutauschen? Wasser für die Füße der Heiligen bereitzustellen? Von ihrer Speise und ihrem Becher etwas für sie abzuzweigen, sich nach ihnen zu sehnen und an sie zu denken? Wenn ein Bruder auf Wanderschaft ankommt, welche Gastfreundschaft kann er in einem fremden Haus finden? Wenn jemand eine Gabe erhalten soll, sind die Kornspeicher und Vorratskammern verschlossen\.

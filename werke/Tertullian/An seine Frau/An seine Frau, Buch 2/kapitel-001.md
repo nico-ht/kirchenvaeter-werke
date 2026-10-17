@@ -1,0 +1,16 @@
+# An seine Frau, Buch 2 – Kapitel 1: Im Witwenstand zu bleiben ist ein Rat, bei erneuter Heirat gilt das Gebot „nur im Herrn“
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/an-seine-frau-buch-2#kapitel-93ece6b0-3580-45ca-97c0-08df2b9f0e60).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Kürzlich habe ich dir, meiner innig geliebten Mitdienerin im Herrn, nach Kräften dargelegt, wonach eine heilige Frau streben soll, wenn ihr die Ehe durch irgendein Schicksal genommen wird\. Wenden wir uns nun mit Rücksicht auf die menschliche Schwäche den Ratschlägen für den zweitbesten Weg zu\. Dazu mahnen uns die Beispiele einiger Frauen: Durch Scheidung oder den Tod ihres Mannes bot sich ihnen die Gelegenheit zur Enthaltsamkeit\. Sie haben jedoch nicht nur die Gelegenheit zu einem so großen Gut ausgeschlagen, sondern wollten sich selbst bei einer erneuten Heirat nicht an die Glaubensordnung erinnern, nach der sie vor allem im Herrn heiraten sollten[^bible-a866485e-1a56-4fb1-9136-d67d92ec3377]\. Deshalb bin ich beunruhigt: Erst kürzlich habe ich dich ermahnt, es bei der Ehe mit einem einzigen Mann zu belassen und im Witwenstand auszuharren\. Nun fürchte ich, dir durch die Erwähnung einer Heirat den Weg zum Abgleiten von dieser Höhe zu ebnen\. Wenn du aber recht urteilst, weißt du gewiss, dass du an dem festhalten musst, was dir mehr nützt\. Doch auch dieses höchste Lebensziel, das den stärksten Schutz bietet, ist schwierig und nicht ohne Bedrängnisse\. Ich hätte auch keinen Anlass gehabt, mit dir darüber zu sprechen, wenn ich mir nicht einer noch schwereren Sorge bewusst geworden wäre\. Denn so groß die Enthaltsamkeit des Fleisches ist, die ein Leben im Witwenstand ermöglicht, so verzeihlich kann es erscheinen, wenn man sie nicht durchhält\. Wo etwas schwierig ist, verzeiht man leicht\. Je leichter es dagegen zu verwirklichen ist, im Herrn zu heiraten[^bible-a866485e-1a56-4fb1-9136-d67d92ec3377], da dies in unserer Macht steht, desto schuldhafter ist es, nicht zu beachten, was man beachten kann\. Hinzu kommt, dass der Apostel den Witwen und Unverheirateten rät, so zu bleiben[^bible-686559fb-6b98-4368-8047-9b17557bfd06], wenn er sagt: „Ich wünsche aber, dass alle nach meinem Beispiel standhaft bleiben\.[^bible-9f8c5c81-95d4-4036-b07f-b26790b0fd1b]“ Wenn es aber darum geht, im Herrn zu heiraten[^bible-a866485e-1a56-4fb1-9136-d67d92ec3377], und er sagt: „Nur im Herrn[^bible-a866485e-1a56-4fb1-9136-d67d92ec3377]“, dann rät er nicht mehr, sondern befiehlt ausdrücklich\. Gerade in diesem Fall bringen wir uns also in Gefahr, wenn wir nicht gehorchen\. Denn einen Rat kann man eher ungestraft missachten als einen Befehl: Jener entspringt einer Empfehlung und richtet sich an den freien Willen; dieser dagegen geht von der Vollmacht aus und verpflichtet zur Befolgung\. Dort scheint man sich aus Freiheit zu verfehlen, hier aus Widersetzlichkeit\.
+
+## Bibelverweise
+
+[^bible-686559fb-6b98-4368-8047-9b17557bfd06]: 1Kor 7,8
+[^bible-9f8c5c81-95d4-4036-b07f-b26790b0fd1b]: 1Kor 7,7
+[^bible-a866485e-1a56-4fb1-9136-d67d92ec3377]: 1Kor 7,39
