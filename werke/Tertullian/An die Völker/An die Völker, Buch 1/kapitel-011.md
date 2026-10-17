@@ -1,0 +1,12 @@
+# An die Völker, Buch 1 – Kapitel 11: Der Vorwurf des Eselskults widerspricht Tacitus’ Tempelbericht und trifft die Ankläger selbst
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ad-nationes-buch-1#kapitel-ba1e98ce-9a1b-4d64-d01e-08dd3fddc14a).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Dabei werden wir nicht nur beschuldigt, die gemeinsame Religion aufgegeben, sondern auch einen ungeheuerlichen Aberglauben eingeführt zu haben\. Denn manche von euch haben sich eingebildet, unser Gott sei ein Eselskopf\. Diesen Verdacht hat Cornelius Tacitus aufgebracht\. Im vierten Buch seiner Historien, wo er den Jüdischen Krieg behandelt, beginnt er nämlich mit dem Ursprung dieses Volkes und stellt sowohl darüber als auch über die Bezeichnung seiner Religion nach Belieben Behauptungen auf\. Er berichtet, die Juden hätten auf ihrem Zug durch öde Gegenden unter Wassermangel gelitten und seien aus dieser Not entkommen, indem sie sich von Wildeseln zu einer Quelle hätten führen lassen\. Man habe nämlich angenommen, dass diese nach dem Weiden Wasser aufsuchen würden\. Aus Dankbarkeit dafür werde von den Juden das Abbild eines solchen Tieres verehrt\. Daher, vermute ich, nahm man an, auch wir würden, da wir der jüdischen Religion nahestehen, in den Kult desselben Bildes eingeweiht\. Doch derselbe Cornelius Tacitus, wahrhaftig ein äußerst geschwätziger Lügner, vergisst seine eigene Behauptung und berichtet später, Pompeius der Große habe nach der Niederwerfung der Juden und der Einnahme Jerusalems den Tempel betreten, ihn durchsucht und keinerlei Götterbild gefunden\. Wo also sollte dieser Gott gewesen sein? Gewiss doch nirgends eher als in einem so berühmten Tempel, zumal dieser allen außer den Priestern verschlossen war, sodass man dort keinen Fremden zu fürchten brauchte\.
+
+Doch wozu soll ich mich verteidigen? Ich habe doch erklärt, vorläufig alles zuzugestehen, um es euch in gleicher Weise vorzuhalten\. Man glaube, unser Gott habe irgendeine Eselsgestalt: Sicher werdet ihr nicht leugnen, dass ihr dasselbe verehrt wie wir\. Ihr verehrt freilich ganze Esel samt ihrer Epona, dazu alle Zugtiere, das Vieh und die wilden Tiere, die ihr ebenso samt ihren Krippen für heilig erklärt\. Und vielleicht macht ihr uns gerade das zum Vorwurf, dass wir unter denen, die alles verehren, nur Eselsverehrer sind\.

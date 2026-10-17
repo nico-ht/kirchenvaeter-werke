@@ -1,0 +1,10 @@
+# An die Völker, Buch 1 – Kapitel 19: Der Spott über Auferstehung und Totengericht trifft auch die heidnischen Lehren von Seelenwanderung und Jenseits
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ad-nationes-buch-1#kapitel-b3efeb5e-17e8-4f89-d026-08dd3fddc14a).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+So viel, denke ich, zu den schrecklichen Beispielen christlicher Hartnäckigkeit\. Wenn wir all das mit euch gemeinsam haben, bleibt uns noch, das Lächerliche an unser beider Überzeugungen zu vergleichen\. Allerdings beruht unsere ganze Hartnäckigkeit auf Überzeugungen: Wir setzen nämlich die Auferstehung der Toten voraus\. Die Hoffnung auf Auferstehung bedeutet Verachtung des Todes\. Lacht also, so viel ihr wollt, über diese höchst dummen Köpfe, die sterben, um zu leben\. Damit ihr aber leichter lachen und umso ungehemmter schallend lachen könnt, greift zum Schwamm oder wischt mit der Zunge darüber und tilgt zunächst eure eigenen Schriften, die ebenso versichern, dass die Seelen in Körper zurückkehren werden\. Und doch, um wie viel annehmbarer ist unsere Annahme, die ihre Rückkehr in dieselben Körper behauptet\! Um wie viel nichtiger ist dagegen die euch überlieferte Lehre, dass der Geist eines Menschen in einem Hund, einem Maultier oder einem Pfau wohnen wird\! Ebenso verkünden wir, dass Gott für die Zeit nach dem Tod ein Gericht nach den Verdiensten eines jeden angesetzt hat\. Ihr schreibt es Minos und Rhadamanthys zu, während ihr Aristides ablehnt, der doch eindeutig ein gerechterer Richter war\. Diesem Urteil zufolge werden, wie wir sagen, die Ungerechten im ewigen Feuer, die Frommen und Unschuldigen an einem lieblichen Ort die Ewigkeit verbringen: Auch bei euch sind die Verhältnisse in Pyriphlegethon und Elysium nicht anders beschaffen\. Und nicht nur Mythenerzähler und Dichter besingen dergleichen; auch die Philosophen bekräftigen die Wiederkehr der Seelen und die Zuteilung durch das Gericht\.

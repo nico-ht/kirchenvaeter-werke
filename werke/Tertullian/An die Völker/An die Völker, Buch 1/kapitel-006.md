@@ -1,0 +1,12 @@
+# An die Völker, Buch 1 – Kapitel 6: Die Autorität der Gesetze macht Christenverfolgung nicht gerecht und entbindet nicht von der Untersuchung
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ad-nationes-buch-1#kapitel-25e70584-b553-4aa4-d019-08dd3fddc14a).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Sooft unsere Darlegungen und Antworten, die uns die Wahrheit aus sich selbst heraus eingibt, euer Gewissen bedrängen und in die Enge treiben, den stillen Zeugen seiner eigenen Unwissenheit, flüchtet ihr aufgeregt zu einem kleinen Altar, nämlich zur Autorität der Gesetze\. Die würden diese Sekte ja gewiss nicht bestrafen, wenn ihre Strafwürdigkeit nicht bei den Gesetzgebern festgestanden hätte\. Was hat dann verhindert, dass sie ebenso auch bei denen festgestellt wird, die die Gesetze vollstrecken? Bei den übrigen Verbrechen, die gleichfalls gesetzlich verboten sind und bestraft werden, bleibt die Strafe doch aus, solange nicht zuvor eine Untersuchung stattgefunden hat\. Ein Mörder oder Ehebrecher etwa wird nach dem Gesetz bestraft; dennoch untersucht man den Hergang der Tat, obwohl doch allen bekannt ist, um welche Art von Tat es sich handelt\.
+
+Die Gesetze bestrafen den Christen\. Wenn ein Christ eine Tat begangen hat, muss sie aufgedeckt werden\. Kein Gesetz verbietet eine Untersuchung; vielmehr dient die Untersuchung den Gesetzen\. Wie willst du denn ein Gesetz einhalten, indem du meidest, was es verbietet, wenn du dich gar nicht sorgfältig davor hüten kannst, weil du nicht erkennst, woran du dich halten sollst? Kein Gesetz schuldet die Gewissheit über seine Gerechtigkeit sich selbst, sondern denen, von denen es Gehorsam verlangt\. Ein Gesetz ist aber verdächtig, wenn es sich nicht rechtfertigen will\. Mit Recht also gelten die Gesetze gegen die Christen so lange als gerecht, ehrwürdig und verbindlich, wie man nicht weiß, was sie verfolgen\. Mit Recht werden sie, sobald man es erkannt und sie als höchst ungerecht durchschaut hat, samt ihren Schwertern, Galgen und Löwen bespuckt\. Ein ungerechtes Gesetz verdient keinerlei Achtung\. Aber wie mir scheint, bestehen wohl Zweifel an der Ungerechtigkeit mancher Gesetze, wo ihr doch täglich durch neue Beschlüsse und Verordnungen ihre Härte und Bösartigkeit mildert\.
