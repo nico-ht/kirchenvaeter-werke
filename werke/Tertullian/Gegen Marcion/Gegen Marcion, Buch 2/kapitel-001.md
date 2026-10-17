@@ -1,0 +1,10 @@
+# Gegen Marcion, Buch 2 – Kapitel 1: Weil es keinen Gott über dem Schöpfer gibt, ist dieser zu verehren statt zu beurteilen
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/gegen-marcion-buch-2#kapitel-a7414826-5687-4d09-1eff-08df2b02518f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Die Gelegenheit, diese kleine Schrift zu überarbeiten, deren Schicksal wir in der Vorrede zum ersten Buch geschildert haben, bot uns noch einen weiteren Vorteil: Bei der erneuten Auseinandersetzung mit Marcion über die beiden Götter konnten wir jedem von ihnen entsprechend der Aufteilung des Stoffes einen eigenen Titel und ein eigenes Buch widmen\. Beim einen stellen wir fest, dass es ihn überhaupt nicht gibt; beim anderen verteidigen wir seine Würde als Gott\. Denn so hat es dem Mann aus Pontus gefallen: den einen einzuführen, den anderen auszuschließen\. Er konnte nämlich seine Lüge nicht errichten, ohne die Wahrheit niederzureißen\. Er musste etwas anderes untergraben, um errichten zu können, was er wollte\. So baut, wer kein eigenes Baumaterial hat\. Die Auseinandersetzung hätte sich jedoch auf diesen einen Punkt beschränken müssen: Es gibt jenen Gott gar nicht, den man dem Schöpfer überordnet\. Damit wäre nach der Abweisung des falschen Gottes anhand sicherer Grundsätze, die für die Gottheit Einzigkeit und Vollkommenheit verbindlich festlegen, am wahren Gott nichts mehr zu hinterfragen gewesen\. Je gewisser seine Existenz feststand, auch dadurch, dass die Existenz eines anderen nicht feststeht, desto mehr hätte man ihn, wie auch immer er beschaffen ist, ohne Streit anerkennen müssen\. Man sollte ihn anbeten, statt über ihn zu urteilen, und eher seine Gunst suchen, als ihn zum Gegenstand weiterer Erörterungen zu machen oder ihn wegen seiner Strenge zu fürchten\. Denn was wäre für den Menschen notwendiger als die Hinwendung zum wahren Gott, auf den er sozusagen gestoßen war, weil es keinen anderen Gott gab?

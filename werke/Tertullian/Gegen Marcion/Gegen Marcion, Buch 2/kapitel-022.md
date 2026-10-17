@@ -1,0 +1,23 @@
+# Gegen Marcion, Buch 2 – Kapitel 22: Warum Bilder ohne Götzendienst erlaubt sind und Opfer ohne aufrichtige Gottesverehrung verworfen werden
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/gegen-marcion-buch-2#kapitel-b5b11a7d-a8f5-4a9a-1f11-08df2b02518f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ebenso macht er, wenn er verbietet, Abbilder von allem anzufertigen, was im Himmel, auf der Erde und im Wasser ist[^bible-7f7f15f0-6e63-43c0-8dc3-803328782a88], auch die Gründe dafür deutlich: Es geht darum, die Substanz des Götzendienstes einzudämmen\. Denn er fügt hinzu: „Ihr sollt euch vor ihnen nicht niederwerfen und ihnen nicht dienen\.[^bible-1130db7b-66bf-4a0a-988a-5e35372e8982]“ Das Bild der bronzenen Schlange aber, das der Herr Mose später anzufertigen befahl[^bible-251a20e1-cc1a-4c7c-bddf-5fcc7eac0798], fiel nicht unter den Begriff des Götzendienstes, sondern sollte denen Heilung bringen, die von Schlangen angegriffen wurden[^bible-251a20e1-cc1a-4c7c-bddf-5fcc7eac0798]\. Vom sinnbildlichen Gehalt dieses Heilmittels will ich gar nicht sprechen\. Ebenso wurden goldene Cherubim und Seraphim zur Ausstattung der Lade verwendet[^bible-bc1f34df-46e4-465e-a515-ba18233d6690], als Teil ihrer sinnbildlichen Gestaltung, jedenfalls als bloßer Schmuck\. Da ihr Zweck weit entfernt war vom Götzendienst, um dessentwillen Abbilder verboten werden, verstoßen sie offenbar nicht gegen das Gesetz, das Abbilder verbietet\. Denn bei ihnen liegt nicht jene Art von Abbild vor, deretwegen Abbilder verboten werden\. Wir haben bereits von der vernünftig begründeten Einrichtung der Opfer gesprochen: Gott lenkte damit nämlich diese Dienste von den Götzen weg auf sich\. Wenn er sie später wieder verwarf und sagte: „Was soll mir die Menge eurer Opfer?[^bible-00c2d34c-7a2b-4e4c-85bc-28b25664454f]“, wollte er gerade damit zu verstehen geben, dass er sie nicht um seiner selbst willen verlangt hatte\. „Denn ich werde kein Stierblut trinken[^bible-14177a73-20e5-4891-8451-e3db94eb4d88]“, sagt er; und an anderer Stelle heißt es: „Der ewige Gott wird weder hungern noch dürsten\.[^bible-0428224b-6acd-48ed-a70d-0a4d56ec1cce]“ Denn auch wenn er auf Abels Opfergaben sah[^bible-b967aa87-585c-4362-995e-97bf8596a9a2] und Noahs Brandopfer mit Wohlgefallen roch[^bible-e7b89618-e7b1-4029-9e01-93e6ffce325f]: Welchen Genuss boten ihm die Eingeweide von Hammeln oder der Geruch verbrennender Opfertiere? Vielmehr galt bei Gott die schlichte, gottesfürchtige Gesinnung derer, die ihm darbrachten, was sie von ihm empfangen hatten, als Speise und lieblicher Duft\. Er verlangte nicht nach den Opferhandlungen selbst, sondern nach dem, wofür sie vollzogen wurden: der Ehre Gottes\. Wenn ein Klient einem Reichen oder einem König, der nichts braucht, dennoch eine kleine, ganz geringwertige Gabe darbringt, wird sich der Reiche oder der König dann über Größe und Beschaffenheit der Gabe ärgern oder sich über die darin bekundete Ergebenheit freuen? Wenn der Klient ihm aber aus eigenem Antrieb oder auch nach der ihm vorgeschriebenen Ordnung Gaben darbringt und die Festtage des Königs begeht, jedoch nicht aus Treue, nicht mit reinem Herzen und auch nicht mit voller Hingabe bei seinen übrigen Diensten, ist es dann nicht folgerichtig, dass jener König oder Reiche ausruft: „Was soll mir die Menge deiner Gaben? Ich habe genug\.[^bible-00c2d34c-7a2b-4e4c-85bc-28b25664454f] Feiern, Festtage und eure Sabbate hasst meine Seele\.[^bible-55d924d2-e8f8-4482-b295-7aaffe2de47b]“ Indem er sie als „eure[^bible-55d924d2-e8f8-4482-b295-7aaffe2de47b]“ bezeichnete, machte er deutlich, dass seine Ablehnung dessen, was er selbst zu vollziehen angeordnet hatte, an bestimmte Voraussetzungen gebunden und vernünftig begründet war\. Denn indem sie diese Feste nach eigenem Gutdünken statt in Verehrung Gottes feierten, hatten sie sie bereits zu ihren eigenen gemacht, nicht zu Gottes Festen\.
+
+## Bibelverweise
+
+[^bible-00c2d34c-7a2b-4e4c-85bc-28b25664454f]: Jes 1,11
+[^bible-0428224b-6acd-48ed-a70d-0a4d56ec1cce]: Jes 40,28
+[^bible-1130db7b-66bf-4a0a-988a-5e35372e8982]: Ex 20,5
+[^bible-14177a73-20e5-4891-8451-e3db94eb4d88]: Ps 49,13
+[^bible-251a20e1-cc1a-4c7c-bddf-5fcc7eac0798]: Num 21,8–Num 21,9
+[^bible-55d924d2-e8f8-4482-b295-7aaffe2de47b]: Jes 1,13–Jes 1,14
+[^bible-7f7f15f0-6e63-43c0-8dc3-803328782a88]: Ex 20,4
+[^bible-b967aa87-585c-4362-995e-97bf8596a9a2]: Gen 4,4
+[^bible-bc1f34df-46e4-465e-a515-ba18233d6690]: Ex 25,18–Ex 25,20
+[^bible-e7b89618-e7b1-4029-9e01-93e6ffce325f]: Gen 8,20–Gen 8,21

@@ -1,0 +1,17 @@
+# Gegen Marcion, Buch 2 – Kapitel 28: Marcions Vorwürfe gegen den Schöpfer treffen seinen eigenen Gott ebenso oder noch härter
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/gegen-marcion-buch-2#kapitel-6b7e711f-703e-4262-1f16-08df2b02518f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nun werde auch ich zu den Schwächen, den Bosheiten und den übrigen Makeln gegen Marcion Antithesen aufstellen, die es mit seinen aufnehmen\. Wenn mein Gott nicht wusste, dass es einen anderen über ihm gab, dann wusste auch deiner ganz gewiss nicht, dass es einen anderen unter ihm gab\. Denn wie jener dunkle Heraklit sagt: „Der Weg nach oben und nach unten ist derselbe\.“ Hätte er davon gewusst, wäre er ihm ja von Anfang an entgegengetreten\. Sünde und Tod, den Urheber der Sünde selbst, den Teufel, und alles Böse hat mein Gott zugelassen; ebenso auch deiner, der ihn all das zulassen ließ\. Unser Gott hat seine Entschlüsse geändert\. Eurer ebenso\. Denn wer sich erst so spät um das Menschengeschlecht gekümmert hat, hat damit den Entschluss geändert, aufgrund dessen er sich so lange nicht darum gekümmert hatte\. Unser Gott hat etwas bereut\. Eurer aber auch\. Denn indem er sich endlich der Rettung des Menschen zuwandte, bereute er sein früheres Wegsehen, wie man eine böse Tat bereuen muss\. Als böse Tat wird man aber die Vernachlässigung des menschlichen Heils ansehen müssen, der euer Gott nur durch Reue abgeholfen hat\. Unser Gott hat Betrug angeordnet, doch nur mit Gold und Silber[^bible-6dfac01b-b6cb-4e8a-b40f-07fdedd83f87]\. Um wie viel kostbarer aber der Mensch als Gold und Silber ist, um so viel betrügerischer ist euer Gott, der den Menschen seinem Herrn und Schöpfer entreißt\. Unser Gott fordert Auge um Auge[^bible-286724c4-9a92-4423-8a8a-2d30f9d42119]; eurer aber verbietet die Vergeltung[^bible-e5d2d5ef-1720-401f-bca6-179ea78ca251] und sorgt damit eher dafür, dass sich das Unrecht wiederholen kann\. Denn wer wird nicht erneut zuschlagen, wenn er keinen Schlag zurückbekommen hat? Unser Gott wusste nicht, was für Menschen er erwählte? Dann hätte auch eurer Judas, den Verräter, nicht erwählt[^bible-826d78dc-23d2-48e8-aabe-291110951a3e], wenn er es vorhergewusst hätte\. Ebenso behauptest du, der Schöpfer habe irgendwo gelogen: Eine weit größere Lüge liegt in deinem Christus, dessen Leib kein wirklicher Leib war\. Die Grausamkeit meines Gottes hat viele vernichtet? Auch dein Gott bestimmt diejenigen, die er nicht rettet, gewiss zum Untergang\. Mein Gott hat befohlen, jemanden zu töten? Deiner wollte selbst getötet werden: Er ist damit nicht weniger der Mörder seiner selbst als der Mörder dessen, von dem er getötet werden wollte\. Ich werde Marcion aber beweisen, dass sein Gott viele getötet hat\. Denn er hat jemanden zum Mörder gemacht, der gewiss zugrunde gehen wird, es sei denn, das Volk hat sich an Christus nicht versündigt\. Doch die schlagfertige Kraft der Wahrheit liebt wenige Worte\. Die Lüge wird viele brauchen\.
+
+## Bibelverweise
+
+[^bible-286724c4-9a92-4423-8a8a-2d30f9d42119]: Ex 21,24
+[^bible-6dfac01b-b6cb-4e8a-b40f-07fdedd83f87]: Ex 3,22
+[^bible-826d78dc-23d2-48e8-aabe-291110951a3e]: Lk 6,13–Lk 6,16
+[^bible-e5d2d5ef-1720-401f-bca6-179ea78ca251]: Mt 5,39

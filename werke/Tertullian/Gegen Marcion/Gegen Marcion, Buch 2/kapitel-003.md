@@ -1,0 +1,16 @@
+# Gegen Marcion, Buch 2 – Kapitel 3: Die Güte des Schöpfers ist ewig, weil sie selbst den Anfang und die Zeit geschaffen hat
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/gegen-marcion-buch-2#kapitel-59d896df-5432-45b7-84aa-08debbfde132).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Es ist daher richtig, dass wir, wenn wir zur Untersuchung des bekannten Gottes kommen und die Frage entsteht, in welchem Zustand er uns bekannt ist, mit seinen Werken beginnen, die dem Menschen vorausgehen\. So soll seine Güte, zugleich mit ihm selbst entdeckt, dann festgestellt und als Grundsatz festgehalten, uns einen Sinn dafür geben, wie die spätere Ordnung der Dinge entstanden ist\.
+
+Wenn aber Marcions Schüler die Güte unseres Gottes erkennen, können sie auch anerkennen, dass sie Gottes würdig ist, und zwar aus denselben Gründen, aus denen wir die Güte ihres Gottes als Gottes unwürdig erwiesen haben\. Schon das, woran man ihn erkennen kann, fand er nicht bei einem anderen vor, sondern schuf es sich aus dem Seinen\. Darin zeigte sich zuerst die Güte des Schöpfers: Gott wollte nicht in Ewigkeit verborgen bleiben; er wollte also nicht, dass es nichts gab, dem er bekannt werden konnte\. Was ist denn so gut, wie Gott zu erkennen und sich an ihm zu erfreuen? Denn zwar war noch nicht offenbar, dass dies ein Gut war, weil es noch nichts gab, dem es offenbar werden konnte; doch Gott wusste voraus, was für ein Gut offenbar werden würde\. Deshalb ließ er seine Güte in ihrer ganzen Fülle tätig werden, damit sie das Gut hervorbrächte, das offenbar werden sollte\. Diese Güte war gewiss nicht plötzlich entstanden, nicht zufällig hinzugekommen und nicht erst durch einen Anstoß in Tätigkeit versetzt worden, als müsste man sie von dem Zeitpunkt an rechnen, an dem sie zu wirken begann\. Denn wenn sie den Anfang setzte, als sie zu wirken begann, hatte sie nicht selbst einen Anfang, als sie ihn schuf\. Mit dem Anfang entstand durch sie auch die Ordnung der Zeiten, zu deren Unterscheidung und Kennzeichnung die Sterne und Himmelslichter angeordnet wurden[^bible-39b7ca6a-4471-4c82-9368-6d895a7bf0a8]\. Denn er sagt: „Sie sollen für Zeiten, Monate und Jahre da sein\.[^bible-39b7ca6a-4471-4c82-9368-6d895a7bf0a8]“ Also hatte die Güte, die die Zeit schuf, vor der Zeit keine Zeit, ebenso wie sie, die den Anfang setzte, vor dem Anfang keinen Anfang hatte\. Da sie somit weder durch einen Anfang bestimmt noch durch die Zeit begrenzt ist, muss ihr ein unermessliches und unbestimmbares Alter zugeschrieben werden\. Sie kann auch nicht als plötzlich entstanden, zufällig hinzugekommen oder von außen angeregt gelten, denn es fehlt jeder Maßstab, nach dem man sie so beurteilen könnte, nämlich irgendeine zeitliche Bestimmung\. Vielmehr muss sie als ewig, Gott von Natur aus eigen und immerwährend gelten und damit als Gottes würdig\. Schon dadurch beschämt sie die Güte von Marcions Gott, die jünger ist, ich sage nicht als Anfänge und Zeiten, sondern als die Bosheit des Schöpfers selbst, sofern denn die Güte sich überhaupt der Bosheit schuldig machen konnte\.
+
+## Bibelverweise
+
+[^bible-39b7ca6a-4471-4c82-9368-6d895a7bf0a8]: Gen 1,14

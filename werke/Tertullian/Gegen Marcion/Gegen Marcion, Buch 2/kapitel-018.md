@@ -1,0 +1,21 @@
+# Gegen Marcion, Buch 2 – Kapitel 18: Strenge Gesetzesgebote sollen Sünde verhüten und das widerspenstige Volk an Gottes Dienst binden
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/gegen-marcion-buch-2#kapitel-c6c4663c-8708-4748-1f0d-08df2b02518f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch welche guten Bestimmungen des Gesetzes sollte ich eher verteidigen als jene, auf die es die Häresie abgesehen hat, etwa die Vorschrift der Vergeltung, die Auge für Auge, Zahn für Zahn und Strieme für Strieme[^bible-e18e32b0-4ccb-4902-9342-67d77f3c816c] fordert? Sie will nämlich nicht erlauben, einander Unrecht zuzufügen, sondern dafür sorgen, dass Gewalt gänzlich unterbunden wird\. Denn einem äußerst verstockten Volk, das Gott nicht vertraut, dauert es zu lange, auf Gottes Vergeltung zu warten, oder es hält sie sogar für unglaubwürdig\. Diese Vergeltung sollte später durch den Propheten angekündigt werden: „Mir gebührt die Vergeltung, und ich werde vergelten, spricht der Herr\.[^bible-5ac73a8d-ba1c-45d0-b44c-adfe398bb799]“ Einstweilen sollte die Furcht vor einer unmittelbar folgenden Vergeltung verhindern, dass Unrecht begangen wird; die Erlaubnis zur Vergeltung sollte den ersten Übergriff unterbinden\. So sollte die verschlagene Bosheit ein Ende finden: Indem die zweite Gewalttat erlaubt wird, schreckt man von der ersten ab; und wenn die erste unterbleibt, wird auch die zweite nicht begangen\. Überdies lässt sich Furcht vor Vergeltung leichter wecken, weil man dabei dasselbe Leid zu schmecken bekommt\. Nichts ist bitterer, als selbst zu erleiden, was man anderen angetan hat\. Und wenn das Gesetz bestimmte Speisen verbietet und Tiere für unrein erklärt[^bible-13a16615-93d2-494f-b21c-aaf4a249e3a4], die einst gesegnet wurden[^bible-55ee5567-6679-47f1-8bed-60e07d0dec8c], dann erkenne darin die Absicht, zur Selbstbeherrschung zu erziehen\. Erkenne die Zügel, die jener Gefräßigkeit angelegt wurden, die, obwohl sie das Brot der Engel aß[^bible-0fa8a917-a5ec-4d03-bda4-2784b12d8593], nach den Gurken und Melonen der Ägypter verlangte[^bible-8737309d-c563-4120-80d5-9ad477fe7fec]\. Erkenne zugleich, dass damit auch den Begleitern der Gefräßigkeit, nämlich Wollust und Ausschweifung, vorgebeugt wurde; denn sie kühlen gewöhnlich ab, wenn der Bauch in Zucht gehalten wird\. Das Volk hatte nämlich gegessen und getrunken und war aufgestanden, um zu spielen\.[^bible-67e51bef-b94c-45fb-8fb1-dedcd08151a6] Ebenso wurde das Streben nach kostspieligen Speisen unterbunden, um auch die Geldgier insoweit zu dämpfen, als sie die Notwendigkeit der Ernährung zum Vorwand nimmt\. Schließlich sollte der Mensch leichter dazu erzogen werden, für Gott zu fasten: an wenige, schlichte Speisen gewöhnt, sollte er nach keiner der erleseneren hungern\. Gewiss verdient der Schöpfer Tadel dafür, dass er die Speisen seinem Volk entzogen hat statt den noch undankbareren Marcioniten\! Auch die Last der Opfer und die mühsame Genauigkeit bei Kulthandlungen und Darbringungen soll niemand tadeln, als hätte Gott dergleichen für sich selbst begehrt\. Er ruft doch so deutlich aus: „Was soll mir die Menge eurer Opfer? Und wer hat das von euren Händen verlangt?[^bible-fb532f6d-8225-4382-9f73-7a09ac8fb8eb]“ Vielmehr soll man darin Gottes kluges Vorgehen erkennen: Das Volk, das zum Götzendienst und zur Übertretung neigte, wollte er durch solche Verrichtungen an seinen Gottesdienst binden, wie sie auch im Aberglauben der Welt üblich waren\. Um es davon abzubringen, gebot er, sie für ihn zu vollziehen, als ob er danach verlangte, damit es sich nicht dadurch versündigte, dass es sie für Götzenbilder vollzog\.
+
+## Bibelverweise
+
+[^bible-0fa8a917-a5ec-4d03-bda4-2784b12d8593]: Ps 77,25
+[^bible-13a16615-93d2-494f-b21c-aaf4a249e3a4]: Lev 11,1
+[^bible-55ee5567-6679-47f1-8bed-60e07d0dec8c]: Gen 1,22
+[^bible-5ac73a8d-ba1c-45d0-b44c-adfe398bb799]: Röm 12,19
+[^bible-67e51bef-b94c-45fb-8fb1-dedcd08151a6]: Ex 32,6
+[^bible-8737309d-c563-4120-80d5-9ad477fe7fec]: Num 11,5
+[^bible-e18e32b0-4ccb-4902-9342-67d77f3c816c]: Ex 21,24–Ex 21,25
+[^bible-fb532f6d-8225-4382-9f73-7a09ac8fb8eb]: Jes 1,11–Jes 1,12
