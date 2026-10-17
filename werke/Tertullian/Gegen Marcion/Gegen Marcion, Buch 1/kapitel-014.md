@@ -1,0 +1,17 @@
+# Gegen Marcion, Buch 1 – Kapitel 14: Marcions Anhänger verachten die Schöpfung, die sie ernährt und ihrem Gott die Sakramentsgaben liefert
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/gegen-marcion-buch-1#kapitel-97c08c86-3182-4d9c-1ef0-08df2b02518f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Du verspottest aber auch die kleineren Tiere, denen der größte Künstler mit Bedacht durch Fähigkeiten oder Kräfte Größe verliehen hat\. So lehrt er, dass sich Größe im Kleinen ebenso erweist wie nach dem Apostel Kraft in Schwachheit[^bible-0d9e6d9f-0706-42ec-92b2-19857f048e15]\. So ahme, wenn du kannst, die Bauten der Biene, die Kammern der Ameise, die Netze der Spinne, die Fäden der Seidenraupe nach\! Halte, wenn du kannst, gerade jene Tiere in deinem Bett und auf deiner Matte aus, das Gift der Spanischen Fliege, die Stacheln der Fliege, Trompete und Lanze der Mücke\! Wie muss es erst mit den größeren Tieren stehen, wenn so kleine dir nützen oder schaden, sodass du den Schöpfer auch im Kleinen nicht verachten sollst? Betrachte schließlich dich selbst von allen Seiten, sieh dir den Menschen von innen und außen an\. Wenigstens dieses Werk unseres Gottes wird dir gefallen, das dein Herr, jener bessere Gott, lieb gewonnen hat\. Für den Menschen hat er sich die Mühe gemacht, aus dem dritten Himmel[^bible-e49d8fc6-7c65-4290-b698-9ecc67d0c8c5] zu diesen armseligen Elementen herabzusteigen; um seinetwillen wurde er sogar in dieser kleinen Kammer des Schöpfers gekreuzigt\. Er jedenfalls hat bis jetzt weder das Wasser des Schöpfers verworfen, mit dem er die Seinen wäscht, noch das Öl, mit dem er sie salbt, noch die Mischung aus Honig und Milch, mit der er sie wie Säuglinge nährt, noch das Brot, mit dem er seinen eigenen Leib darstellt[^bible-63b4b7fd-d29e-4ed4-a5bb-368a40958cf1]\. Selbst in seinen eigenen Sakramenten ist er auf die Bettelgaben des Schöpfers angewiesen\. Du aber, ein Schüler über dem Lehrer und ein Sklave über dem Herrn[^bible-d9117a9b-2188-4f30-88ff-e270975e2ce0], weißt es besser als er und verwirfst, was er begehrt\. Ich will sehen, ob du wenigstens aus Überzeugung handelst und nicht selbst nach dem verlangst, was du verwirfst\. Du bekämpfst den Himmel, willst aber in deinen Wohnungen freie Himmelsluft genießen\. Du verachtest die Erde, freilich den Mutterschoß deines Fleisches, das dir nun zum Feind geworden ist, und presst doch alles Mark aus ihr heraus, um dich zu ernähren\. Auch das Meer verwirfst du; doch bei seinen reichen Gaben, die du für eine heiligere Speise hältst, hört deine Ablehnung auf\. Wenn ich dir eine Rose anbiete, wirst du den Schöpfer nicht verschmähen\. Heuchler\! Selbst wenn du durch den freiwilligen Hungertod beweist, dass du Marcionit bist, also einer, der den Schöpfer verwirft \(denn danach hättet ihr als Martyrium streben müssen, wenn euch die Welt missfallen würde\): In welchen Stoff du dich auch auflöst, du wirst die Substanz des Schöpfers gebrauchen\. Wie hartnäckig verhärtest du dich\! Du setzt herab, worin du lebst und stirbst\.
+
+## Bibelverweise
+
+[^bible-0d9e6d9f-0706-42ec-92b2-19857f048e15]: 2Kor 12,9
+[^bible-63b4b7fd-d29e-4ed4-a5bb-368a40958cf1]: Lk 22,19
+[^bible-d9117a9b-2188-4f30-88ff-e270975e2ce0]: Mt 10,24
+[^bible-e49d8fc6-7c65-4290-b698-9ecc67d0c8c5]: 2Kor 12,2
