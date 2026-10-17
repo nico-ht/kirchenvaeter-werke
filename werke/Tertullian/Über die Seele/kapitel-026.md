@@ -1,0 +1,25 @@
+# Über die Seele – Kapitel 26: Die Schrift bezeugt die Beseelung im Mutterleib durch Weissagung und Heiligung der Ungeborenen
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-die-seele#kapitel-418511d8-c63a-47c3-73d5-08df2b4b1509).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch an den Grenzen, die Gott setzt, endet alles Schwanken menschlicher Ansichten\. Ich ziehe mich nun in unsere eigenen Reihen zurück, um dem Christen zu beweisen, was ich den Philosophen und Ärzten erwidert habe\. Baue deinen Glauben auf deinem eigenen Fundament auf, Bruder: Sieh auf die lebendigen Mutterleiber der heiligsten Frauen und auf die Kinder, die dort schon nicht nur atmen, sondern sogar weissagen\. Sieh, Rebekkas Leib gerät in Unruhe[^bible-23ccb791-1015-4a38-a800-e1c3b6a87113], und doch ist die Geburt noch fern, und kein Luftstoß dringt hinein\. Sieh, zwei ungeborene Kinder toben im Leib der Mutter, und noch gibt es die beiden Völker nirgends[^bible-e459621d-ba2d-4009-a6d6-927d64f10012]\. Vielleicht wäre das ein ungeheuerlicher Übermut der Kindheit, die streitet, bevor sie lebt, und schon Mut hat, bevor sie beseelt ist, wenn sie die Mutter nur durch ihr Hüpfen beunruhigt hätte\. Wenn aber die Geburt erfolgt und die Zahl der Kinder sichtbar wird[^bible-57a6c89a-5231-4887-9f7d-51e8eab115ad] und man darin die Vorhersage wiedererkennt, dann, denke ich, sind nicht nur die Seelen der Kinder erwiesen, sondern auch ihre Kämpfe\. Der zuerst Geborene wurde von dem zurückgehalten, dem er zuvorgekommen war und der selbst noch gar nicht ganz hervorgetreten, sondern erst mit der Hand geboren war\.[^bible-79f571f0-c54e-4110-8088-23de54a1aff8] Und wenn jener seine Seele nach Platons Lehre mit dem ersten Atemzug einsog oder sie nach stoischer Lehre aus der Kälte der Luft aufnahm, was war dann mit dem, auf den man noch wartete, der noch drinnen festgehalten wurde und draußen bereits festhielt[^bible-79f571f0-c54e-4110-8088-23de54a1aff8]? Noch ohne zu atmen, wie ich meine, hatte er die Ferse seines Bruders gepackt[^bible-79f571f0-c54e-4110-8088-23de54a1aff8]; noch von der Mutter gewärmt, wünschte er, selbst als Erster hervorgetreten zu sein\. Was für ein Kind: ein Rivale, kräftig und schon längst streitlustig\! Ich glaube, das lag daran, dass es lebte\. Sieh auch auf die Empfängnisse einzelner Kinder, und zwar auf noch wundersamere: die einer Unfruchtbaren[^bible-72e66ce6-e278-430d-aabb-8fae797b5b1f] und einer Jungfrau[^bible-828f156b-a8d3-47a6-abbe-78fc29b74354]\. Gerade weil hier die Natur umgekehrt wurde, hätten sie unvollkommene Kinder zur Welt bringen können: Die eine war für den Samen unempfänglich, die andere unberührt\. Da wäre es wohl angemessen gewesen, dass Kinder, die nicht auf regelrechte Weise empfangen worden waren, ohne Seele zur Welt kommen\. Doch auch sie leben, jedes in seinem Mutterleib\. Elisabeth jubelt; Johannes hatte sie von innen angestoßen\.[^bible-73f93e90-6e94-484d-a851-aec33cbedb9b] Maria preist den Herrn[^bible-a0ef8ca6-7123-4bf0-8926-8ff49ee3c095]; Christus hatte sie von innen dazu angeregt\. Die Mütter erkennen gegenseitig ihre ungeborenen Kinder[^bible-7df18f01-55b9-4a34-8560-b97bf1bee5d2], nachdem sie ihrerseits von diesen wechselseitig erkannt worden sind, die also gewiss lebten und nicht nur Seelen, sondern auch Geister waren\. So liest du auch Gottes Wort an Jeremia: „Bevor ich dich im Mutterleib formte, kannte ich dich\.[^bible-f6812e8f-ebdb-4905-a205-f0d704df18b6]“ Wenn Gott im Mutterleib formt, dann haucht er dort auch den Atem ein, wie bei der ursprünglichen Erschaffung: „Und Gott formte den Menschen und hauchte ihm den Atem des Lebens ein\.[^bible-3711b66f-9ac3-4529-a8be-c99634ee6f14]“ Gott aber hätte den Menschen im Mutterleib nicht gekannt, wenn dieser nicht schon ein ganzer Mensch gewesen wäre\. „Und bevor du aus dem Mutterschoß hervorgingst, habe ich dich geheiligt\.[^bible-f6812e8f-ebdb-4905-a205-f0d704df18b6]“ Etwa einen noch toten Körper? Gewiss nicht\! Denn er ist der Gott der Lebenden, nicht der Toten[^bible-72fb2aad-e354-4feb-a5ae-c2d84346af88]\.
+
+## Bibelverweise
+
+[^bible-23ccb791-1015-4a38-a800-e1c3b6a87113]: Gen 25,22
+[^bible-3711b66f-9ac3-4529-a8be-c99634ee6f14]: Gen 2,7
+[^bible-57a6c89a-5231-4887-9f7d-51e8eab115ad]: Gen 25,24–Gen 25,26
+[^bible-72e66ce6-e278-430d-aabb-8fae797b5b1f]: Lk 1,7; Lk 1,24
+[^bible-72fb2aad-e354-4feb-a5ae-c2d84346af88]: Mt 22,32
+[^bible-73f93e90-6e94-484d-a851-aec33cbedb9b]: Lk 1,41–Lk 1,42
+[^bible-79f571f0-c54e-4110-8088-23de54a1aff8]: Gen 25,26
+[^bible-7df18f01-55b9-4a34-8560-b97bf1bee5d2]: Lk 1,41–Lk 1,45
+[^bible-828f156b-a8d3-47a6-abbe-78fc29b74354]: Lk 1,26–Lk 1,35
+[^bible-a0ef8ca6-7123-4bf0-8926-8ff49ee3c095]: Lk 1,46
+[^bible-e459621d-ba2d-4009-a6d6-927d64f10012]: Gen 25,22–Gen 25,23
+[^bible-f6812e8f-ebdb-4905-a205-f0d704df18b6]: Jer 1,5

@@ -42,6 +42,20 @@
     "contentRevision": "sha256:9b8d4c0ce53425ff8b997b12a4e67ff1581bdff5a3643516ba133607ea9652ac"
   },
   {
+    "workId": "e60fe068-d835-455d-c536-08df20d50984",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Über die Pflichten, Buch 1",
+    "directory": "werke/Ambrosius von Mailand/Über die Pflichten/Über die Pflichten, Buch 1",
+    "contentRevision": "sha256:8556684a95e64edf4d89a2a57bc917dab6419849e759eedc2c3322316ee9839c"
+  },
+  {
+    "workId": "beaf1c55-4c74-4d23-bcd0-08df20c6ce7a",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Über die Pflichten, Buch 2",
+    "directory": "werke/Ambrosius von Mailand/Über die Pflichten/Über die Pflichten, Buch 2",
+    "contentRevision": "sha256:c3ae404a71c47af04e967535aa2472aba55b28e8de10624b477a34f8fc4124b8"
+  },
+  {
     "workId": "a5729bc4-63a3-4df4-853e-08df2b4b12f5",
     "authorName": "Ambrosius von Mailand",
     "title": "Über die Pflichten, Buch 3",
@@ -2303,6 +2317,13 @@
     "contentRevision": "sha256:55cde64481b64f3d91551226bd56ae74cf4800ed22a83d9d0e5ad40edebc3365"
   },
   {
+    "workId": "dab9743f-6804-4ee6-159a-08df23a78072",
+    "authorName": "Origenes",
+    "title": "14. Homilie über Levitikus",
+    "directory": "werke/Origenes/Homilien über Levitikus/14. Homilie über Levitikus",
+    "contentRevision": "sha256:90a380ac8a5be5768dba471b5cc4d5b327bbfa2084577f7f869b8018a23ed8cd"
+  },
+  {
     "workId": "effb5009-6688-4b8d-2cad-08df276bd3eb",
     "authorName": "Origenes",
     "title": "14. Homilie über Numeri",
@@ -2646,6 +2667,13 @@
     "contentRevision": "sha256:4edda4b23efefb956402720e02bde4fe24a3f0af3b4fd8053d466ea1c94d0961"
   },
   {
+    "workId": "5aeee1bb-613e-4734-a293-08dee664dc0b",
+    "authorName": "Origenes",
+    "title": "7. Homilie über Levitikus",
+    "directory": "werke/Origenes/Homilien über Levitikus/7. Homilie über Levitikus",
+    "contentRevision": "sha256:a36a853c0da15dbf019b57b37184f1416e6f2d23e7fca2b8e399b215b18091ed"
+  },
+  {
     "workId": "8dd63641-1f75-4a2a-82b3-08de2d205df9",
     "authorName": "Origenes",
     "title": "7. Predigt zu Exodus",
@@ -2658,6 +2686,13 @@
     "title": "7. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/7. Predigt zu Genesis",
     "contentRevision": "sha256:33b3b57e3d862a0f65340d96757828bbddf3f996e42299562f95ea1e6bf36cc6"
+  },
+  {
+    "workId": "90efa8ff-f172-4be1-bcfc-08dea9ee81d2",
+    "authorName": "Origenes",
+    "title": "8. Homilie über Levitikus",
+    "directory": "werke/Origenes/Homilien über Levitikus/8. Homilie über Levitikus",
+    "contentRevision": "sha256:6584af8ae9bc8c066863c1af4d228aadf1b662d9e1164bb84e8d29fd1cbc7bd2"
   },
   {
     "workId": "e37a1c36-7c5c-40ee-2ca8-08df276bd3eb",
@@ -3115,6 +3150,13 @@
     "contentRevision": "sha256:e7655b5a761f93b037b3cbee1f84648d1326b7f18501a019b4b213127863722b"
   },
   {
+    "workId": "e79e40e9-8666-4d9f-2388-08debeedc93b",
+    "authorName": "Tertullian",
+    "title": "An seine Frau, Buch 2",
+    "directory": "werke/Tertullian/An seine Frau/An seine Frau, Buch 2",
+    "contentRevision": "sha256:1a469cd902778eeb326786d32720bfbd88add04dd75eca9a744a5e000087d296"
+  },
+  {
     "workId": "3cfa2db3-47fc-46be-2fb2-08ddcdf6619e",
     "authorName": "Tertullian",
     "title": "Apologie",
@@ -3136,11 +3178,53 @@
     "contentRevision": "sha256:d87b986c21094e28b9873397874210c7dc578462c1b5b4fbbdab8b44d092e99e"
   },
   {
+    "workId": "416b5986-5d3c-4ea2-fa33-08deaba45151",
+    "authorName": "Tertullian",
+    "title": "Gegen Marcion, Buch 2",
+    "directory": "werke/Tertullian/Gegen Marcion/Gegen Marcion, Buch 2",
+    "contentRevision": "sha256:da217f33639568e6cdb7c55a2834c3f0ee2ab925de99574f6b2fcf08ff9fd138"
+  },
+  {
+    "workId": "13ab86fa-b3c3-439a-2389-08debeedc93b",
+    "authorName": "Tertullian",
+    "title": "Gegen Marcion, Buch 3",
+    "directory": "werke/Tertullian/Gegen Marcion/Gegen Marcion, Buch 3",
+    "contentRevision": "sha256:e2b0487c5c4042bbb6fa77aaff848e53ba0e8108143a0eedc678056d241b50f5"
+  },
+  {
+    "workId": "d7dc27cf-4f37-47af-481b-08deae7e3625",
+    "authorName": "Tertullian",
+    "title": "Gegen Marcion, Buch 4",
+    "directory": "werke/Tertullian/Gegen Marcion/Gegen Marcion, Buch 4",
+    "contentRevision": "sha256:82197e4fed6392ebfd180e3fb15e17890acaa209fd6a5a2f401c0d4691d04ab9"
+  },
+  {
+    "workId": "1d9cb802-36f2-4778-2b01-08dec56cd8cc",
+    "authorName": "Tertullian",
+    "title": "Gegen Marcion, Buch 5",
+    "directory": "werke/Tertullian/Gegen Marcion/Gegen Marcion, Buch 5",
+    "contentRevision": "sha256:c7991b80867fb1c55c824d3dd34f49f60d9f7af777caaf60d3dd91ecbec5f2d7"
+  },
+  {
+    "workId": "57e90f76-3a20-4a9f-9211-08deacf8527a",
+    "authorName": "Tertullian",
+    "title": "Gegen Praxeas",
+    "directory": "werke/Tertullian/Gegen Praxeas",
+    "contentRevision": "sha256:ae2d58cf8e8e1897a603b66c66e42466a1914ee1e03469a7bc25cc8363ab9e2c"
+  },
+  {
     "workId": "6ee1af48-6036-4372-1511-08dd1bad7a7e",
     "authorName": "Tertullian",
     "title": "Verschreibung gegen Häretiker",
     "directory": "werke/Tertullian/Verschreibung gegen Häretiker",
     "contentRevision": "sha256:433b1f50cb239b767f9c53ebb61d00840c180fb07e586bace0c8d614a407e39e"
+  },
+  {
+    "workId": "c43e9c13-fe81-4868-97db-08ddfec6367a",
+    "authorName": "Tertullian",
+    "title": "Über das Fleisch Christi",
+    "directory": "werke/Tertullian/Über das Fleisch Christi",
+    "contentRevision": "sha256:47a81352a6e65b6247f631106542f8222900d0590fefde2c5484317f4e41f19f"
   },
   {
     "workId": "44e81786-7ca6-401d-b15c-08dd0a5aceeb",
@@ -3169,6 +3253,27 @@
     "title": "Über die Buße",
     "directory": "werke/Tertullian/Über die Buße",
     "contentRevision": "sha256:ad56a9649256e94e001518e3e35cd59e567e4b4306a0930f6dac9c6a48201070"
+  },
+  {
+    "workId": "ae58a8e1-3183-40ec-a27a-08dee664dc0b",
+    "authorName": "Tertullian",
+    "title": "Über die Kleidung der Frauen, Buch 1",
+    "directory": "werke/Tertullian/Über die Kleidung der Frauen/Über die Kleidung der Frauen, Buch 1",
+    "contentRevision": "sha256:ed4a08500fd9abd1576c0ccb25c4d35802c52b4bad843074361da5ec307e8e19"
+  },
+  {
+    "workId": "873dbdc2-df28-47bd-4369-08decf6e5e28",
+    "authorName": "Tertullian",
+    "title": "Über die Kleidung der Frauen, Buch 2",
+    "directory": "werke/Tertullian/Über die Kleidung der Frauen/Über die Kleidung der Frauen, Buch 2",
+    "contentRevision": "sha256:fd96abc21aaf82046396d22505a17a184be91cac3316a275238554c40f882333"
+  },
+  {
+    "workId": "9b7df2d1-d7f1-408c-25da-08dea94b085e",
+    "authorName": "Tertullian",
+    "title": "Über die Seele",
+    "directory": "werke/Tertullian/Über die Seele",
+    "contentRevision": "sha256:046a46b9ca66b035c8f4fd1bf814cb10ba414735c21962e4ace35db8ce7295e0"
   },
   {
     "workId": "59c3a0a1-0bd2-40cb-eb91-08dddb06930b",

@@ -1,0 +1,10 @@
+# Über die Seele – Kapitel 54: Philosophen behalten höhere Wohnstätten nach dem Tod den Seelen der Weisen vor
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-die-seele#kapitel-ff33e024-39bf-44ec-73f1-08df2b4b1509).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Die Frage, wohin also die Seele geführt wird, beantworten wir nun\. Fast alle Philosophen, die für die Unsterblichkeit der Seele eintreten, wie immer sie diese auch verstehen, etwa Pythagoras, Empedokles und Platon, und auch diejenigen, die ihr nach dem Tod noch eine gewisse Zeit bis zum Weltenbrand zugestehen, etwa die Stoiker, weisen allein ihren eigenen Seelen, also denen der Weisen, Wohnstätten in der Höhe zu\. Platon freilich gewährt dies den Seelen von Philosophen nicht ohne Weiteres, sondern nur denen, die ihre Philosophie wohlgemerkt durch die Liebe zu Knaben geschmückt haben\. Selbst unter Philosophen genießt die Unreinheit also ein großes Vorrecht\. Bei ihm werden daher die Seelen der Weisen in den Äther emporgehoben, bei Arius in die Luft, bei den Stoikern unter den Mond\. Über die Stoiker wundere ich mich allerdings: Sie werfen die Seelen der Unweisen rings um die Erde nieder und behaupten zugleich, diese würden von den viel höher befindlichen Weisen unterrichtet\. Wo soll denn die Schule liegen, wenn die Unterkünfte so weit voneinander entfernt sind? Wie sollen die Schülerinnen zu ihren Lehrerinnen kommen, wenn eine solche Kluft sie voneinander trennt? Welchen Nutzen und Ertrag soll ihnen außerdem die Bildung nach dem Tod bringen, da sie doch schon bald im Weltenbrand untergehen werden? Die übrigen Seelen stoßen sie in die Unterwelt hinab\. Diese beschreibt Platon im Phaidon als eine Art Schoß der Erde, in den aller Unrat und Schmutz der Welt zusammenfließt, sich dort absetzt und ausdünstet\. So ballt sich dort, gleichsam aus dem Schlamm all dieser Unreinheiten, eine dichtere Atemluft zusammen, eine Luft von ganz eigener Art\.

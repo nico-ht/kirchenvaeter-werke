@@ -1,0 +1,10 @@
+# Über die Seele – Kapitel 42: Der Tod geht den Menschen an, weil er dessen Körper auflöst und ihm die Empfindung nimmt
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-die-seele#kapitel-a505efd9-6d81-450d-73e5-08df2b4b1509).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nun bleibt uns noch, über den Tod zu sprechen, damit die Erörterung dort endet, wo die Seele selbst ans Ende kommt\. Freilich hat Epikur die recht verbreitete Ansicht vertreten, der Tod gehe uns nichts an\. „Denn was sich auflöst“, sagt er, „hat keine Empfindung und geht uns nichts an\.“ Doch nicht der Tod selbst wird aufgelöst und ist ohne Empfindung, sondern der Mensch, der ihn erleidet\. Epikur aber hat dem Tod das Erleiden zugeschrieben, obwohl ihm das Wirken zukommt\. Wenn nun aber der Mensch den Tod erleidet, der den Körper auflöst und die Empfindung vernichtet, wie unsinnig ist es dann, zu behaupten, eine so große Gewalt gehe den Menschen nichts an\! Noch viel gezwungener drückt sich Seneca aus: „Nach dem Tod“, sagt er, „endet alles, auch der Tod selbst\.“ Wenn das so ist, geht der Tod nun auch sich selbst etwas an\. Wenn auch er selbst endet, dann geht er erst recht den Menschen etwas an; denn im Menschen, der wie alles andere sein Ende findet, endet auch der Tod selbst\. „Der Tod geht uns nichts an\.“ Also geht uns auch das Leben nichts an\. Denn wenn uns das, wodurch wir aufgelöst werden, nichts angeht, dann geht uns auch das nichts an, wodurch wir zusammengefügt werden\. Wenn es uns nichts angeht, dass uns die Empfindung genommen wird, dann geht es uns auch nichts an, dass wir sie erhalten\. Doch wer die Seele vernichtet, mag auch den Tod vernichten\. Wir aber werden ebenso über den Tod sprechen wie über das Leben nach dem Tod und den anderen Bereich der Seele\. Dem Tod gehören jedenfalls wir selbst an, wenn er uns angeht\. Schließlich liegt auch sein Spiegelbild, der Schlaf, nicht außerhalb unseres Themas\.

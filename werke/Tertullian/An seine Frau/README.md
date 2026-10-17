@@ -9,3 +9,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Werke
 
 - [An seine Frau, Buch 1](An%20seine%20Frau%2C%20Buch%201/) · 9 Kapitel
+- [An seine Frau, Buch 2](An%20seine%20Frau%2C%20Buch%202/) · 9 Kapitel

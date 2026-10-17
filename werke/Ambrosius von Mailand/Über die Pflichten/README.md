@@ -8,4 +8,6 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werke
 
+- [Über die Pflichten, Buch 1](%C3%9Cber%20die%20Pflichten%2C%20Buch%201/) · 50 Kapitel
+- [Über die Pflichten, Buch 2](%C3%9Cber%20die%20Pflichten%2C%20Buch%202/) · 30 Kapitel
 - [Über die Pflichten, Buch 3](%C3%9Cber%20die%20Pflichten%2C%20Buch%203/) · 22 Kapitel
