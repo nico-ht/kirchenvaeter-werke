@@ -1,0 +1,27 @@
+# Über die Pflichten, Buch 2 – Kapitel 2: Der volle Lohn des ewigen Lebens setzt Glauben und gute Werke voraus
+
+Autor: Ambrosius von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/ambrosius-ueber-die-pflichten-buch-2#kapitel-19057ba3-b972-467c-73f7-08df2b4b1509).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Von den Philosophen sahen also die einen, etwa Hieronymus, das glückliche Leben darin, keinen Schmerz zu empfinden; andere, etwa Herillus, im Wissen um die Dinge\. Herillus hatte gehört, wie außerordentlich Aristoteles und Theophrast dieses Wissen gepriesen hatten, und erklärte es allein zum höchsten Gut, obwohl jene es als ein Gut, nicht als das einzige Gut gepriesen hatten\. Andere, etwa Epikur, sahen das glückliche Leben in der Lust\. Wieder andere, etwa Kalliphon und nach ihm Diodor, verstanden es so, dass der eine die Lust, der andere die Schmerzfreiheit mit Rechtschaffenheit verband, weil ohne sie ein glückliches Leben nicht möglich sei\. Der Stoiker Zenon sah im sittlich Guten das einzige und höchste Gut\. Aristoteles dagegen, Theophrast und die übrigen Peripatetiker behaupteten, das glückliche Leben liege zwar in der Tugend, das heißt in der Rechtschaffenheit; doch werde sein Glück auch durch körperliche und äußere Güter vervollständigt\.
+
+Die göttliche Schrift dagegen sieht das ewige Leben in der Erkenntnis der Gottheit und in der Frucht guten Handelns\. Für beide Aussagen bietet das Evangelium ein Zeugnis\. Denn über das Wissen sagte der Herr Jesus: „Das aber ist das ewige Leben: dass sie dich, den einzigen wahren Gott, erkennen und Jesus Christus, den du gesandt hast\.[^bible-e2ccae1c-49e6-4514-8282-5b6368fcf88c]“ Und über die Werke antwortete er: „Jeder, der um meines Namens willen sein Haus oder Brüder oder Schwestern oder Vater oder Mutter oder Frau oder Kinder oder Äcker verlässt, wird das Hundertfache empfangen und das ewige Leben besitzen\.[^bible-9caf0001-f1cf-4736-b54a-cd8d4a66984d]“
+
+Damit aber niemand meint, dies sei neu und von den Philosophen schon behandelt worden, bevor es im Evangelium verkündet wurde, soll man erfahren, wie deutlich beides schon durch den Mund des heiligen David ausgesprochen wurde, lange bevor man überhaupt den Namen der Philosophen hörte\. Denn die Philosophen, also Aristoteles und Theophrast oder Zenon und Hieronymus, lebten zwar vor dem Evangelium, aber nach den Propheten\. Es steht nämlich geschrieben: „Glücklich, wen du unterwiesen hast, Herr, und aus deinem Gesetz belehrt hast\.[^bible-4c53882e-8545-444d-b0ff-64ac5e314e07]“ Auch an anderer Stelle lesen wir: „Glücklich der Mann, der den Herrn fürchtet; nach seinen Geboten verlangt er sehnlich\.[^bible-33150f0c-a24f-4b74-beb0-9186d93b3d0d]“ Damit haben wir die Erkenntnis behandelt, als deren Lohn der Prophet die Frucht der Ewigkeit genannt hat\. Denn über den, der den Herrn fürchtet[^bible-33150f0c-a24f-4b74-beb0-9186d93b3d0d] oder im Gesetz unterwiesen ist[^bible-4c53882e-8545-444d-b0ff-64ac5e314e07] und nach den göttlichen Geboten verlangt[^bible-33150f0c-a24f-4b74-beb0-9186d93b3d0d], fügt er hinzu: „Herrlichkeit und Reichtum sind in seinem Haus, und seine Gerechtigkeit bleibt auf immer und ewig\.[^bible-dbb8f7c2-2d9c-4a26-af4d-93d96b85f58c]“ Auch über die Werke fügt er im selben Psalm hinzu, dass dem gerechten Mann der Lohn des ewigen Lebens zuteilwird\. So sagt er: „Glücklich der Mann, der sich erbarmt und Darlehen gibt; er wird vor Gericht seine Worte ordnen, denn in Ewigkeit wird er nicht erschüttert werden\. Der Gerechte wird in ewiger Erinnerung bleiben\.[^bible-19153e59-25aa-4904-b098-dd238e1dbbd4]“ Und weiter unten: „Er hat ausgestreut und den Armen gegeben; seine Gerechtigkeit bleibt in Ewigkeit\.[^bible-8634b9e9-d114-4ae3-94d6-f0f68c619d4a]“
+
+Dem Glauben kommt also das ewige Leben zu, weil er ein gutes Fundament ist; ebenso den guten Taten, weil sich der gerechte Mann in Worten wie in Taten bewährt\. Denn wenn er im Reden geübt, im Handeln aber träge ist, widerlegt er seine Klugheit durch seine Taten\. Und es wiegt schwerer, zu wissen, was man tun soll, und nicht getan zu haben, was man als geboten erkannt hat\. Umgekehrt gleicht einer, der im Handeln eifrig, im Herzen aber ohne Glauben ist, einem Menschen, der auf einem schadhaften Fundament prächtige Dachgiebel errichten will: Je mehr er baut, desto mehr stürzt ein\. Denn ohne den festen Halt des Glaubens können gute Werke nicht bestehen\. Ein unsicherer Liegeplatz im Hafen schlägt Löcher ins Schiff, und sandiger Boden gibt rasch nach und kann die Last des darauf errichteten Baus nicht tragen[^bible-d7b4b380-db93-4043-9ddb-f6dad82d4168]\. Den vollen Lohn gibt es also dort, wo die Tugenden vollkommen sind und Taten und Worte in ihrer Besonnenheit eine gewisse Übereinstimmung zeigen\.
+
+## Bibelverweise
+
+[^bible-19153e59-25aa-4904-b098-dd238e1dbbd4]: Ps 111,5–Ps 111,6
+[^bible-33150f0c-a24f-4b74-beb0-9186d93b3d0d]: Ps 111,1
+[^bible-4c53882e-8545-444d-b0ff-64ac5e314e07]: Ps 93,12
+[^bible-8634b9e9-d114-4ae3-94d6-f0f68c619d4a]: Ps 111,9
+[^bible-9caf0001-f1cf-4736-b54a-cd8d4a66984d]: Mt 19,29
+[^bible-d7b4b380-db93-4043-9ddb-f6dad82d4168]: Mt 7,26–Mt 7,27
+[^bible-dbb8f7c2-2d9c-4a26-af4d-93d96b85f58c]: Ps 111,3
+[^bible-e2ccae1c-49e6-4514-8282-5b6368fcf88c]: Joh 17,3
