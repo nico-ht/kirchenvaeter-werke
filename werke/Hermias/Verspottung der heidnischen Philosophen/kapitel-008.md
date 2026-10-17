@@ -1,0 +1,10 @@
+# Verspottung der heidnischen Philosophen – Kapitel 8: Pythagoras leitet die Elemente aus der Einheit ab und bestimmt sie durch Zahlen und geometrische Gestalten
+
+Autor: Hermias
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/hermias/hermias-verspottung-der-heidnischen-philosophen#kapitel-80b6d3ac-1c59-469e-9776-08df2b9f0e60).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Andere wiederum aus dem alten Stamm, Pythagoras und seine Stammesgenossen, überliefern mir würdevoll und schweigsam andere Lehren wie Mysterien und dazu jenes große und geheime Wort: „Er selbst hat es gesagt\.“ Der Ursprung aller Dinge sei die Einheit; aus ihren Gestalten und aus den Zahlen entstünden die Elemente\. Und Zahl, Gestalt und Maß eines jeden von ihnen bestimmt er etwa so: „Das Feuer setzt sich aus vierundzwanzig rechtwinkligen Dreiecken zusammen und wird von vier gleichseitigen Dreiecken umschlossen\. Jedes gleichseitige Dreieck besteht aus sechs Dreiecken; deshalb vergleicht man es auch mit einer Pyramide\. Die Luft hingegen setzt sich aus achtundvierzig Dreiecken zusammen und wird von acht gleichseitigen Dreiecken umschlossen\. Man vergleicht sie mit einem Oktaeder, das von acht gleichseitigen Dreiecken umschlossen wird\. Jedes davon teilt sich in sechs rechtwinklige Dreiecke, sodass es insgesamt achtundvierzig sind\. Das Wasser dagegen wird von hundertzwanzig Dreiecken umschlossen; man vergleicht es mit einem Ikosaeder, das aus zwanzig gleich großen und gleichseitigen Dreiecken besteht\. Sechs aber: hundertachtundzwanzig … Der Äther wiederum setzt sich aus zwölf gleichseitigen Fünfecken zusammen und gleicht einem Dodekaeder\. Die Erde setzt sich aus achtundvierzig Dreiecken zusammen, wird aber auch von sechs gleichseitigen Vierecken umschlossen\. Sie gleicht einem Würfel\. Denn der Würfel wird von sechs Quadraten umschlossen, deren jedes sich in vier Dreiecke teilt, sodass es insgesamt vierundzwanzig sind\.“
