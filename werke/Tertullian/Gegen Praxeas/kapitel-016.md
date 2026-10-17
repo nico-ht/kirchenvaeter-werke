@@ -1,0 +1,45 @@
+# Gegen Praxeas – Kapitel 16: Gott handelt von Anfang an durch den Sohn, der im Umgang mit Menschen seine Menschwerdung vorbereitet
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/gegen-praxeas#kapitel-0ffeccfe-140a-470f-97ac-08df2b9f0e60).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Denk nicht, dass nur die Werke der Schöpfung durch den Sohn zustande gekommen sind: Auch alles, was Gott seitdem getan hat, ist durch ihn geschehen\. Denn der Vater liebt den Sohn und hat alles in seine Hand gegeben[^bible-97b0b929-5c88-4b67-95ab-76a5ef6deb7b]; gewiss liebt er ihn von Anfang an und hat ihm von Anfang an alles übergeben\. Seit dem Anfang nämlich war das Wort bei Gott, und Gott war das Wort[^bible-7b3b0c72-82dd-405c-ab44-c9817f56d4a1]\. Ihm ist vom Vater alle Macht im Himmel und auf Erden gegeben[^bible-0cd41c50-1a80-446f-af14-62aeb8d00e03]\. „Der Vater richtet niemanden, sondern hat das ganze Gericht dem Sohn übergeben\.[^bible-485c8d1f-7943-4436-891a-d6edb474c6ca]“ Und zwar von Anfang an\. Denn wenn die Schrift von aller Macht[^bible-0cd41c50-1a80-446f-af14-62aeb8d00e03] und dem ganzen Gericht[^bible-485c8d1f-7943-4436-891a-d6edb474c6ca] spricht und sagt, dass alles durch ihn geschaffen[^bible-0b6eb0f7-57ff-4b1a-b68f-63715917b115] und alles in seine Hand gegeben wurde[^bible-97b0b929-5c88-4b67-95ab-76a5ef6deb7b], lässt sie keine zeitliche Ausnahme zu\. Denn es wäre nicht alles, wenn es nicht alles zu jeder Zeit einschlösse\. Der Sohn ist es also, der von Anfang an Gericht hielt: Er zerschlug den überaus hochmütigen Turm und schied die Sprachen voneinander[^bible-c9ae1c13-41fc-46a0-aa07-2923d75d1cb7], strafte die ganze Welt mit der Gewalt der Fluten[^bible-9aaae322-7e59-40a6-a945-2297c62eb218] und ließ Feuer und Schwefel auf Sodom und Gomorra regnen: der Herr vom Herrn her[^bible-75e924d3-2e88-4211-bfc3-786a06b43ae4]\. Er selbst stieg auch immer herab, um mit Menschen zu sprechen, von Adam bis zu den Patriarchen und Propheten, in einer Vision, im Traum[^bible-73ee79d9-373a-4283-913d-55106cfb8238], im Spiegel, im Rätsel[^bible-fc407690-2f6c-4e95-9268-b9f926d8c2fe]\. So zeichnete er von Anfang an stets seinen Weg vor, den er bis zum Ende gehen sollte\. So übte er sich beständig darin\. Und kein anderer als das Wort, das Fleisch werden sollte[^bible-0619beb0-4fd8-46ed-ac83-d57f483c3fb1], konnte als Gott auf Erden mit Menschen verkehren[^bible-36896def-1069-48e6-bd25-686753fd7700]\. Er übte sich aber darin, um unserem Glauben den Weg zu bereiten: Wir sollten leichter glauben, dass Gottes Sohn in die Welt herabgestiegen ist, wenn wir erfuhren, dass schon früher etwas Derartiges geschehen war\. Denn wie es um unsertwillen aufgeschrieben wurde, so ist es auch um unsertwillen geschehen[^bible-3a23a4f6-76d2-464b-b69b-89bff880b540]; auf uns sind die Enden der Zeitalter gekommen[^bible-3a23a4f6-76d2-464b-b69b-89bff880b540]\. So kannte er schon damals auch menschliche Regungen, da er auch die Substanzen des Menschen selbst annehmen sollte, Fleisch und Seele\. Er fragte Adam, als wüsste er es nicht: „Wo bist du, Adam?[^bible-89fd0e79-e750-454f-ae36-eea53fc20cbc]“ Er bereute, den Menschen geschaffen zu haben[^bible-1e6b3128-fa5e-4e28-8920-52f8e2aae316], als hätte er es nicht vorausgewusst; er stellte Abraham auf die Probe[^bible-bee7ef3e-a9f1-4443-bb46-b4a944c54d4c], als wüsste er nicht, was im Menschen ist[^bible-ea1c4166-dbc0-4da9-96d6-9387252e53e1]; er zürnte Menschen und versöhnte sich wieder mit denselben\. Und was die Häretiker sonst noch aufgreifen, als wäre es Gottes unwürdig, um den Schöpfer zu verwerfen: Sie wissen nicht, dass all dies dem Sohn zukam, der auch menschliche Leiden auf sich nehmen sollte, Durst und Hunger, Tränen, selbst die Geburt und selbst den Tod\. Deshalb wurde er vom Vater ein wenig unter die Engel erniedrigt[^bible-25829031-f242-4cbb-bdef-7ba7b18bd849]\. Doch die Häretiker werden nicht einmal für den Sohn Gottes als angemessen ansehen, was du dem Vater selbst beilegst, als hätte er sich um unsertwillen selbst so bezeichnet\. Dabei sagt die Schrift, dass einer von einem anderen erniedrigt wurde[^bible-25829031-f242-4cbb-bdef-7ba7b18bd849], nicht von sich selbst\. Was aber, wenn auch derjenige, der mit Herrlichkeit und Ehre gekrönt wurde[^bible-25829031-f242-4cbb-bdef-7ba7b18bd849], ein anderer ist als der, der ihn krönte? Der Vater krönte doch den Sohn\. Wie soll man sich denn vorstellen, dass jener allmächtige, unsichtbare Gott, den kein Mensch gesehen hat noch sehen kann[^bible-96463eeb-880d-4b73-bb34-b49f3ee98607], der in unzugänglichem Licht wohnt[^bible-96463eeb-880d-4b73-bb34-b49f3ee98607], der nicht in Bauten wohnt, die Menschenhände errichtet haben[^bible-abf03587-8220-4569-a524-dce1332aa357], vor dessen Angesicht die Erde erbebt und die Berge wie Wachs zerschmelzen[^bible-40a41f60-e076-4b61-81f6-acc4d901b985], der die ganze Welt mit der Hand wie ein Nest ergreift[^bible-83804f24-1607-48f4-ba54-c266857d4a14], dessen Thron der Himmel und dessen Fußschemel die Erde ist[^bible-426b9906-ff73-4299-a49b-b3dba91d673d], in dem jeder Ort ist, während er selbst an keinem Ort ist, der die äußerste Grenze des Alls ist: Wie soll man sich vorstellen, dass dieser Höchste am Abend im Paradies umherging und Adam suchte[^bible-b2e6d059-d25c-4ef6-9fe3-a5d3d46f57ff], die Arche verschloss, nachdem Noah hineingegangen war[^bible-973eb7a1-4044-4dbf-b9c3-0b6a682dfec1], sich bei Abraham unter der Eiche erfrischte[^bible-86cd0857-a75e-4722-898c-99e8381ab6e8], Mose aus dem brennenden Dornbusch rief[^bible-bbd1fa6f-352e-4abc-989f-3606def06dec] und als Vierter im Feuerofen des babylonischen Königs erschien[^bible-fa81a111-88c6-4de6-9620-8c984f507acb] \(obwohl er Menschensohn[^bible-fa81a111-88c6-4de6-9620-8c984f507acb] genannt wurde\), selbst wenn dies alles im Bild, im Spiegel und im Rätsel[^bible-fc407690-2f6c-4e95-9268-b9f926d8c2fe] geschah? Gewiss hätte man auch dies vom Sohn Gottes nicht glauben dürfen, wenn es nicht geschrieben stünde; vom Vater dürfte man es vielleicht nicht glauben, mag es auch geschrieben stehen\. Ihn aber führen diese Leute in Marias Schoß hinab[^bible-4498c050-949a-4eea-8de2-dc88094fa89c], stellen ihn vor den Richterstuhl des Pilatus[^bible-cb8b2b2b-3419-4904-8a7f-5020eae232a0] und schließen ihn in Josefs Grab ein[^bible-5c70b753-5265-429f-8bb0-43294c8d60b5]\. Hier zeigt sich also ihr Irrtum\. Sie wissen nämlich nicht, dass von Anfang an die gesamte Ordnung der göttlichen Fügung durch den Sohn ihren Lauf nahm\. Darum glauben sie, der Vater selbst sei gesehen worden, sei mit Menschen zusammengetroffen, habe gehandelt, Durst und Hunger gelitten\. Damit widersprechen sie dem Propheten, der sagt: „Der ewige Gott wird nicht dürsten und keineswegs hungern\.[^bible-4ddb284e-27a8-4856-992c-31777ee11e37]“ Wie viel weniger wird er sterben oder begraben werden\! Und so glauben sie, der eine Gott, das heißt der Vater, habe immer selbst getan, was durch den Sohn getan wurde\.
+
+## Bibelverweise
+
+[^bible-0619beb0-4fd8-46ed-ac83-d57f483c3fb1]: Joh 1,14
+[^bible-0b6eb0f7-57ff-4b1a-b68f-63715917b115]: Joh 1,3
+[^bible-0cd41c50-1a80-446f-af14-62aeb8d00e03]: Mt 28,18
+[^bible-1e6b3128-fa5e-4e28-8920-52f8e2aae316]: Gen 6,6
+[^bible-25829031-f242-4cbb-bdef-7ba7b18bd849]: Ps 8,6
+[^bible-36896def-1069-48e6-bd25-686753fd7700]: Bar 3,38
+[^bible-3a23a4f6-76d2-464b-b69b-89bff880b540]: 1Kor 10,11
+[^bible-40a41f60-e076-4b61-81f6-acc4d901b985]: Ps 96,4–Ps 96,5
+[^bible-426b9906-ff73-4299-a49b-b3dba91d673d]: Jes 66,1
+[^bible-4498c050-949a-4eea-8de2-dc88094fa89c]: Lk 1,31
+[^bible-485c8d1f-7943-4436-891a-d6edb474c6ca]: Joh 5,22
+[^bible-4ddb284e-27a8-4856-992c-31777ee11e37]: Jes 40,28
+[^bible-5c70b753-5265-429f-8bb0-43294c8d60b5]: Mt 27,59–Mt 27,60
+[^bible-73ee79d9-373a-4283-913d-55106cfb8238]: Num 12,6
+[^bible-75e924d3-2e88-4211-bfc3-786a06b43ae4]: Gen 19,24
+[^bible-7b3b0c72-82dd-405c-ab44-c9817f56d4a1]: Joh 1,1
+[^bible-83804f24-1607-48f4-ba54-c266857d4a14]: Jes 10,14
+[^bible-86cd0857-a75e-4722-898c-99e8381ab6e8]: Gen 18,1–Gen 18,8
+[^bible-89fd0e79-e750-454f-ae36-eea53fc20cbc]: Gen 3,9
+[^bible-96463eeb-880d-4b73-bb34-b49f3ee98607]: 1Tim 6,16
+[^bible-973eb7a1-4044-4dbf-b9c3-0b6a682dfec1]: Gen 7,16
+[^bible-97b0b929-5c88-4b67-95ab-76a5ef6deb7b]: Joh 3,35
+[^bible-9aaae322-7e59-40a6-a945-2297c62eb218]: Gen 7,17–Gen 7,23
+[^bible-abf03587-8220-4569-a524-dce1332aa357]: Apg 17,24
+[^bible-b2e6d059-d25c-4ef6-9fe3-a5d3d46f57ff]: Gen 3,8–Gen 3,9
+[^bible-bbd1fa6f-352e-4abc-989f-3606def06dec]: Ex 3,4
+[^bible-bee7ef3e-a9f1-4443-bb46-b4a944c54d4c]: Gen 22,1
+[^bible-c9ae1c13-41fc-46a0-aa07-2923d75d1cb7]: Gen 11,1–Gen 11,9
+[^bible-cb8b2b2b-3419-4904-8a7f-5020eae232a0]: Mt 27,19
+[^bible-ea1c4166-dbc0-4da9-96d6-9387252e53e1]: Joh 2,25
+[^bible-fa81a111-88c6-4de6-9620-8c984f507acb]: Dan 3,92
+[^bible-fc407690-2f6c-4e95-9268-b9f926d8c2fe]: 1Kor 13,12
