@@ -1,0 +1,17 @@
+# Gegen Marcion, Buch 3 – Kapitel 12: Die Emmanuel\-Verheißung erfüllt sich in Christus durch den Sinn des Namens: „Gott mit uns“
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/gegen-marcion-buch-3#kapitel-ad608fd2-c1e3-4b1d-1f23-08df2b02518f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Berufe dich nun, wie du es gewohnt bist, auf diese Darstellung Christi bei Jesaja und behaupte, sie treffe in keinem Punkt zu\. „Denn erstens“, sagst du, „muss der Christus des Jesaja Emmanuel heißen[^bible-84524beb-4bf6-4428-9e45-922f16275988]; dann muss er die Macht von Damaskus und die Beute von Samaria gegen den König der Assyrer an sich nehmen[^bible-31d3823f-5e7b-4fc5-bdcb-bf4472c5e9e8]\. Der aber, der gekommen ist, ist weder unter einem solchen Namen aufgetreten, noch hat er irgendeine Kriegstat vollbracht\.“ Ich aber werde dich daran erinnern, auch den Zusammenhang der beiden Stellen zu beachten\. Denn hinzugefügt ist auch die Übersetzung von Emmanuel: „Gott mit uns[^bible-4ee5d65a-929c-4911-9077-dcb649230503]“, damit du nicht nur auf den Klang des Namens achtest, sondern auch auf seinen Sinn\. Denn der hebräische Wortlaut Emmanuel ist seinem Volk eigen\. Sein Sinn aber, „Gott mit uns[^bible-4ee5d65a-929c-4911-9077-dcb649230503]“, ist durch die Übersetzung allen gemeinsam\. Prüfe also, ob dieser Ausdruck „Gott mit uns[^bible-4ee5d65a-929c-4911-9077-dcb649230503]“, der Emmanuel entspricht, seit dem Aufleuchten Christi auf Christus angewandt wird\. Ich denke, du wirst es nicht bestreiten, da auch du selbst sagst, er werde „Gott mit uns[^bible-4ee5d65a-929c-4911-9077-dcb649230503]“ genannt, also Emmanuel\. Wenn du aber so töricht bist, dass du allein deshalb nicht gelten lassen willst, derjenige sei gekommen, dem der Name Emmanuel zukommt, weil es bei dir „Gott mit uns[^bible-4ee5d65a-929c-4911-9077-dcb649230503]“ heißt und nicht Emmanuel, als wäre das nicht dasselbe wie „Gott mit uns[^bible-4ee5d65a-929c-4911-9077-dcb649230503]“, dann wirst du feststellen, dass die hebräischen Christen, ja auch die Marcioniten unter ihnen, Emmanuel sagen, wenn sie „Gott mit uns[^bible-4ee5d65a-929c-4911-9077-dcb649230503]“ sagen wollen\. Ebenso wird jedes Volk, in welcher Sprache es auch „Gott mit uns[^bible-4ee5d65a-929c-4911-9077-dcb649230503]“ sagt, damit Emmanuel aussprechen: Indem es den Sinn wiedergibt, erfüllt es, was der Wortlaut verlangt\. Wenn nun Emmanuel „Gott mit uns[^bible-4ee5d65a-929c-4911-9077-dcb649230503]“ bedeutet, Christus aber Gott mit uns[^bible-4ee5d65a-929c-4911-9077-dcb649230503] ist, der sogar in uns ist, denn „ihr alle, die ihr auf Christus getauft seid, habt Christus angezogen[^bible-85468626-6dbe-4865-be8f-2241e805c772]“, dann ist Christus mit der Bedeutung des Namens, „Gott mit uns[^bible-4ee5d65a-929c-4911-9077-dcb649230503]“, ebenso genau bezeichnet wie mit seinem Wortlaut Emmanuel\. Und so steht fest, dass derjenige, der als Emmanuel angekündigt wurde, schon gekommen ist[^bible-84524beb-4bf6-4428-9e45-922f16275988]; denn gekommen ist, was Emmanuel bedeutet: „Gott mit uns[^bible-4ee5d65a-929c-4911-9077-dcb649230503]“\.
+
+## Bibelverweise
+
+[^bible-31d3823f-5e7b-4fc5-bdcb-bf4472c5e9e8]: Jes 8,4
+[^bible-4ee5d65a-929c-4911-9077-dcb649230503]: Mt 1,23
+[^bible-84524beb-4bf6-4428-9e45-922f16275988]: Jes 7,14
+[^bible-85468626-6dbe-4865-be8f-2241e805c772]: Gal 3,27

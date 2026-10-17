@@ -1,0 +1,35 @@
+# Gegen Marcion, Buch 3 – Kapitel 22: Das Wirken der Apostel und der Gottesdienst der Kirchen erfüllen die Weissagungen des Schöpfers
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/gegen-marcion-buch-3#kapitel-81775a90-1e17-41a8-06da-08debeedc7b0).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Auch das Wirken der Apostel findest du vorausgesagt: „Wie willkommen sind die Füße derer, die Gutes verkünden\![^bible-7bd1f33d-8315-41b7-9cbf-68ba8292f982]“ Nicht Krieg und auch nichts Böses\. Dazu stimmt auch der Psalm: „Über die ganze Erde ging ihr Schall hinaus, und bis an die Enden der Erde drangen ihre Stimmen\.[^bible-8c400de7-28fd-47bd-9070-2ce50bf00815]“ Sie trugen nämlich das Gesetz, das von Zion ausgegangen war, und das Wort des Herrn aus Jerusalem[^bible-b76ee57f-eb1e-480e-97a8-68da37fafb21] überallhin, damit sich erfüllte, was geschrieben steht: „Alle, die fern von meiner Gerechtigkeit waren, sind meiner Gerechtigkeit und Wahrheit nahegekommen\.[^bible-c77e08cb-0d8c-45ed-8a66-80675009e607]“ Als sich die Apostel zu diesem Werk anschickten, sagten sie sich von den Ältesten, den Vorstehern und den Priestern der Juden los\. „Doch wohl vor allem“, wendet er ein, „weil sie einen anderen Gott verkündigten?“ Nein, sie verkündigten eben denselben Gott, dessen Schrift sie gerade damit erfüllten\. „Wendet euch ab, wendet euch ab[^bible-716d655a-b770-40f5-b836-db83b5ae45bc]“, ruft Jesaja, „zieht von dort fort und berührt nichts Unreines[^bible-716d655a-b770-40f5-b836-db83b5ae45bc]“, nämlich die Lästerung gegen Christus\. „Zieht fort aus ihrer Mitte[^bible-716d655a-b770-40f5-b836-db83b5ae45bc]“, natürlich aus der Synagoge; „sondert euch ab, die ihr die Gefäße des Herrn tragt\.[^bible-716d655a-b770-40f5-b836-db83b5ae45bc]“ Denn nach dem, was weiter oben geschrieben steht, hatte „der Herr bereits durch seinen Arm den Heiligen offenbart[^bible-50241881-827d-4fb7-8d47-82df45a8c96c]“, das heißt durch seine Macht Christus, vor den Völkern, sodass alle Völker und die äußersten Enden der Erde das Heil sahen, das von Gott kam\.[^bible-50241881-827d-4fb7-8d47-82df45a8c96c] So erfüllten sie auch den Psalm, als sie sich vom Judentum selbst abwandten und die Bindungen und Lasten des Gesetzes nun gegen die Freiheit des Evangeliums eintauschten: „Lasst uns ihre Fesseln zerreißen und ihr Joch von uns werfen\.[^bible-5b971e5d-c7a5-4de3-927c-af50c23ef6ff]“ Das geschah freilich erst, nachdem „die Völker getobt und die Nationen Nichtiges ersonnen hatten, die Könige der Erde aufgestanden waren und die Herrscher sich zusammengetan hatten gegen den Herrn und gegen seinen Christus\.[^bible-c3af1d1a-73d4-47d4-9d7d-7a3660e7f580]“ Was erlitten die Apostel daraufhin? „All das Unrecht der Verfolgungen“, sagst du, „natürlich durch die Menschen des Schöpfers, der ja der Widersacher dessen war, den sie verkündigten\.“ Wie kommt es dann, dass der Schöpfer, wenn er Christi Widersacher war, nicht nur voraussagt, dass dessen Apostel dies erleiden würden, sondern es auch anprangert? Denn weder würde er den Heilsplan eines anderen Gottes voraussagen, den er, wie ihr behauptet, nicht kannte, noch hätte er angeprangert, was er selbst veranlasst hatte\. „Seht, wie der Gerechte zugrunde geht, und niemand nimmt es sich zu Herzen; gerechte Männer werden hinweggenommen, und niemand achtet darauf\. Denn der Gerechte wurde dem Angesicht der Ungerechtigkeit entrückt\.[^bible-5c2e1b18-b259-480a-9443-10593d4e5939]“ Wer, wenn nicht Christus? „Kommt[^bible-ca2423c0-da35-4030-a0db-be6cb376b6a8]“, sagen sie, „schaffen wir den Gerechten aus dem Weg, denn er ist uns unnütz\.[^bible-ca2423c0-da35-4030-a0db-be6cb376b6a8]“ Indem er also sowohl zuvor als auch im Anschluss sagte, dass auch Christus ebenso leiden werde, weissagte er, dass auch dessen Gerechte dasselbe erleiden würden: die Apostel ebenso wie alle Gläubigen nach ihnen\. Sie sind mit jenem Zeichen versehen, von dem Hesekiel spricht: „Der Herr sagt zu mir[^bible-699574ee-117a-4367-a4dd-f21becee3bfe]: ‚„Geh mitten durch das Tor inmitten Jerusalems und setze ein Tau\-Zeichen auf die Stirn der Männer\.[^bible-699574ee-117a-4367-a4dd-f21becee3bfe]“‘“
+
+Der griechische Buchstabe Tau und unser eigener Buchstabe T ist die eigentliche Gestalt des Kreuzes\. Er sagte voraus, dass dies das Zeichen auf unseren Stirnen im wahren katholischen Jerusalem sein werde\. Der einundzwanzigste Psalm besingt, wie dort die Brüder Christi, also die Söhne Gottes, Gott, dem Vater, Ehre erweisen werden\. Dabei spricht er mit der Stimme Christi selbst zum Vater: „Ich werde meinen Brüdern deinen Namen verkünden; mitten in der Kirche werde ich dir ein Loblied singen\.[^bible-b208cdec-39e2-46e5-b974-39752ee3e443]“
+
+Denn was heute in seinem Namen und seinem Geist geschehen soll, kündigte er mit Recht als sein eigenes künftiges Tun an\. Und wenig später: „Von dir kommt mein Lob in der großen Kirche\.[^bible-23cdc823-617d-430f-8b09-5757b6bac902]“ Und im siebenundsechzigsten Psalm: „Preist in den Kirchen den Herrn, Gott\.[^bible-f3b41ef6-0cc3-4ab4-afec-b96fd9a143cc]“ Damit sollte zugleich auch die Weissagung Maleachis übereinstimmen: „Ich habe kein Wohlgefallen[^bible-02d51eb8-b2da-489b-a13c-55c9b841c89b], spricht der Herr, ‚und eure Opfer werde ich nicht annehmen; denn vom Aufgang der Sonne bis zu ihrem Untergang ist mein Name unter den Völkern verherrlicht, und an jedem Ort wird meinem Namen ein Opfer dargebracht, und zwar ein reines Opfer\.[^bible-ec80ac93-7a56-41ef-8c2a-0304d28b55cc]‘“ Gemeint sind die Ehrerweisung, der Lobpreis, das Lob und die Loblieder\. Da sich dies alles auch bei dir findet, sowohl das Zeichen auf den Stirnen[^bible-261402f9-0e2a-494a-b105-328a7601c0d4] als auch die Sakramente der Kirchen und die Reinheit der Opfer[^bible-a6c7b89a-f8dc-445e-87da-9693b6d6e520], musst du nun ausrufen: „Der Geist des Schöpfers hat für deinen Christus geweissagt\!“
+
+## Bibelverweise
+
+[^bible-02d51eb8-b2da-489b-a13c-55c9b841c89b]: Mal 1,10
+[^bible-23cdc823-617d-430f-8b09-5757b6bac902]: Ps 21,26
+[^bible-261402f9-0e2a-494a-b105-328a7601c0d4]: Hes 9,4
+[^bible-50241881-827d-4fb7-8d47-82df45a8c96c]: Jes 52,10
+[^bible-5b971e5d-c7a5-4de3-927c-af50c23ef6ff]: Ps 2,3
+[^bible-5c2e1b18-b259-480a-9443-10593d4e5939]: Jes 57,1
+[^bible-699574ee-117a-4367-a4dd-f21becee3bfe]: Hes 9,4
+[^bible-716d655a-b770-40f5-b836-db83b5ae45bc]: Jes 52,11
+[^bible-7bd1f33d-8315-41b7-9cbf-68ba8292f982]: Jes 52,7
+[^bible-8c400de7-28fd-47bd-9070-2ce50bf00815]: Ps 18,5
+[^bible-a6c7b89a-f8dc-445e-87da-9693b6d6e520]: Mal 1,11
+[^bible-b208cdec-39e2-46e5-b974-39752ee3e443]: Ps 21,23
+[^bible-b76ee57f-eb1e-480e-97a8-68da37fafb21]: Jes 2,3
+[^bible-c3af1d1a-73d4-47d4-9d7d-7a3660e7f580]: Ps 2,1–Ps 2,2
+[^bible-c77e08cb-0d8c-45ed-8a66-80675009e607]: Jes 46,12–Jes 46,13
+[^bible-ca2423c0-da35-4030-a0db-be6cb376b6a8]: Weish 2,12
+[^bible-ec80ac93-7a56-41ef-8c2a-0304d28b55cc]: Mal 1,10–Mal 1,11
+[^bible-f3b41ef6-0cc3-4ab4-afec-b96fd9a143cc]: Ps 67,27
