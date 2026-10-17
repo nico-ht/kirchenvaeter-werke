@@ -42,6 +42,13 @@
     "contentRevision": "sha256:9b8d4c0ce53425ff8b997b12a4e67ff1581bdff5a3643516ba133607ea9652ac"
   },
   {
+    "workId": "a5729bc4-63a3-4df4-853e-08df2b4b12f5",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Über die Pflichten, Buch 3",
+    "directory": "werke/Ambrosius von Mailand/Über die Pflichten/Über die Pflichten, Buch 3",
+    "contentRevision": "sha256:47a3de92ab4400a0696887336cc192d170c63bd208864de784d7bb3d6514904f"
+  },
+  {
     "workId": "d2709503-fedc-4561-5b9f-08df27871084",
     "authorName": "Ambrosius von Mailand",
     "title": "Über die Segnungen der Patriarchen (De benedictionibus patriarcharum)",
@@ -285,6 +292,13 @@
     "title": "Über die Wiederaufnahme eines Gefallenen",
     "directory": "werke/Bachiarius/Über die Wiederaufnahme eines Gefallenen",
     "contentRevision": "sha256:87d6a01345f9417dd66873dc43a6e74a10f5d3bebbb7831e6b611dde9af0b0d9"
+  },
+  {
+    "workId": "4a402528-8589-4dce-dd5f-08df2b9ee8d8",
+    "authorName": "Bardesanes",
+    "title": "Buch der Gesetze der Länder",
+    "directory": "werke/Bardesanes/Buch der Gesetze der Länder",
+    "contentRevision": "sha256:a259807fb8e5a0efd2e14ce0018c88889662edd27bf0ed18198c4999c1279264"
   },
   {
     "workId": "d9aee309-df13-49c4-6e0b-08de7d5c481a",
@@ -788,14 +802,21 @@
     "authorName": "Hermas",
     "title": "Der Hirte des Hermas, Buch 2",
     "directory": "werke/Hermas/Der Hirte des Hermas, Buch 2",
-    "contentRevision": "sha256:64c86b3a9112962d55025634354c0350c2a9dd3a52e2dabfa77f02d16cd58b1e"
+    "contentRevision": "sha256:322bd2fe0d93ba21514eea7d5efa11f538c8359d39e84375287efa65fe3033a9"
   },
   {
     "workId": "b2cd7efe-72c8-4db5-e4ca-08dd0635942f",
     "authorName": "Hermas",
     "title": "Der Hirte des Hermas, Buch 3",
     "directory": "werke/Hermas/Der Hirte des Hermas, Buch 3",
-    "contentRevision": "sha256:9abf5b9286133dfcca57bcc5f69d42b6e79f2cf8a305b32b6c8d3bb1a0702347"
+    "contentRevision": "sha256:23abcac828f6117b93a1b4ffd018826f1987eb7358e983226474e31a6407a8b8"
+  },
+  {
+    "workId": "31ddbc25-9dd5-40fd-dd5e-08df2b9ee8d8",
+    "authorName": "Hermias",
+    "title": "Verspottung der heidnischen Philosophen",
+    "directory": "werke/Hermias/Verspottung der heidnischen Philosophen",
+    "contentRevision": "sha256:6712434865ad2c229cb1bdc5787a71c3a92e90ab4b5efd469ee4745cfcb9399d"
   },
   {
     "workId": "29a4690e-168b-4b17-dece-08deb44c216c",
@@ -1825,6 +1846,13 @@
     "title": "5. Mystagogische Katechese",
     "directory": "werke/Johannes II. von Jerusalem/Mystagogische Katechesen/5. Mystagogische Katechese",
     "contentRevision": "sha256:c81152ed9850c20c83517890b3ed53238c916342b19fbae3364703ed1c36ef28"
+  },
+  {
+    "workId": "62637b44-83c9-4153-dd5d-08df2b9ee8d8",
+    "authorName": "Julius Africanus",
+    "title": "Brief an Origenes über Susanna",
+    "directory": "werke/Julius Africanus/Brief an Origenes über Susanna",
+    "contentRevision": "sha256:16a9cf47c42ee18c1b743521cdd945eddcb64a86d9ffb31b10c794586e0059ae"
   },
   {
     "workId": "214ce22e-7a14-4411-e4c7-08dd0635942f",
@@ -3066,6 +3094,27 @@
     "contentRevision": "sha256:111775cca342979f645b6286d4fb5ee6abb9085dc7be42310e68eea11aa88674"
   },
   {
+    "workId": "3422c701-de76-4959-37c7-08dd3fd6dc77",
+    "authorName": "Tertullian",
+    "title": "An die Völker, Buch 1",
+    "directory": "werke/Tertullian/An die Völker/An die Völker, Buch 1",
+    "contentRevision": "sha256:8d2864b69c18a0c8377f1c4b19acc4f3979799f44f9e3b8aaab91cb9120e6768"
+  },
+  {
+    "workId": "215e325e-e0b0-49df-853d-08df2b4b12f5",
+    "authorName": "Tertullian",
+    "title": "An die Völker, Buch 2",
+    "directory": "werke/Tertullian/An die Völker/An die Völker, Buch 2",
+    "contentRevision": "sha256:a72cf3db8dab1166bf0be27b1dc97165141b87f2619fa0f22e5f6a018a231e58"
+  },
+  {
+    "workId": "86893f4f-03cb-4d8e-dd60-08df2b9ee8d8",
+    "authorName": "Tertullian",
+    "title": "An seine Frau, Buch 1",
+    "directory": "werke/Tertullian/An seine Frau/An seine Frau, Buch 1",
+    "contentRevision": "sha256:e7655b5a761f93b037b3cbee1f84648d1326b7f18501a019b4b213127863722b"
+  },
+  {
     "workId": "3cfa2db3-47fc-46be-2fb2-08ddcdf6619e",
     "authorName": "Tertullian",
     "title": "Apologie",
@@ -3078,6 +3127,13 @@
     "title": "De patientia",
     "directory": "werke/Tertullian/De patientia",
     "contentRevision": "sha256:c60dcf4fc946aa753588bf0a9805eba5dcec585e8b34920e3925b6b0fd66b669"
+  },
+  {
+    "workId": "c23df8f5-a97f-4635-c2bb-08ddbe61ab21",
+    "authorName": "Tertullian",
+    "title": "Gegen Marcion, Buch 1",
+    "directory": "werke/Tertullian/Gegen Marcion/Gegen Marcion, Buch 1",
+    "contentRevision": "sha256:d87b986c21094e28b9873397874210c7dc578462c1b5b4fbbdab8b44d092e99e"
   },
   {
     "workId": "6ee1af48-6036-4372-1511-08dd1bad7a7e",
@@ -3225,6 +3281,13 @@
     "title": "Über das Lob der Heiligen",
     "directory": "werke/Victricius von Rouen/Über das Lob der Heiligen",
     "contentRevision": "sha256:632719c2c95deb0b1c1b51576589c849aa6bdc594255aea203687e70b56e08e3"
+  },
+  {
+    "workId": "ca178a42-02c1-4eb2-853c-08df2b4b12f5",
+    "authorName": "Vigilius von Trient",
+    "title": "Brief an Johannes Chrysostomus über die Märtyrer",
+    "directory": "werke/Vigilius von Trient/Brief an Johannes Chrysostomus über die Märtyrer",
+    "contentRevision": "sha256:99ec94789c7de3d8e6175f22a399c9dcdc09cce59ebdd36216e91c41262575fe"
   },
   {
     "workId": "89084543-7d9c-418c-930d-08df2ab9dfd2",

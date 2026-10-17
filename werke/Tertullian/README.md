@@ -4,6 +4,12 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 **Nicht kommerziell · Quelle nennen · CC BY-NC-SA 4.0**
 
+## Werksammlungen
+
+- [An die Völker](An%20die%20V%C3%B6lker/) · 2 Werke
+- [An seine Frau](An%20seine%20Frau/) · 1 Werk
+- [Gegen Marcion](Gegen%20Marcion/) · 1 Werk
+
 ## Einzelwerke
 
 - [Ad Scapulam](Ad%20Scapulam/) · 5 Kapitel
