@@ -1,0 +1,25 @@
+# Gegen Marcion, Buch 4 – Kapitel 37: Zachäus’ Rettung bestätigt die Prophetengebote, und Christi Heilszusage schließt den Leib ein
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/gegen-marcion-buch-4#kapitel-b1b774be-0948-4104-1f4f-08df2b02518f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Auch dem Haus des Zachäus wird Rettung zuteil\.[^bible-179a6bac-49da-4319-80d3-fe3cb3a1d102] Womit hatte es das verdient? Hatte etwa wenigstens er geglaubt, Christus sei von Marcion gekommen? Vielmehr klang allen noch der Ruf jenes Blinden in den Ohren: „Erbarme dich meiner, Jesus, Sohn Davids\![^bible-136f6a0e-184d-4ef0-8628-4571947a01e2]“ Und das ganze Volk lobte Gott[^bible-13907bfe-95c6-420f-ad31-a6677b77dede], nicht den Gott Marcions, sondern den Davids\. Zachäus war zwar vielleicht ein Nichtjude, doch sein Umgang mit Juden hatte ihm einige Kenntnis der Schriften vermittelt\. Mehr noch \(und du kennst Jesaja nicht\): Er hatte dessen Gebote erfüllt\. „Brich dein Brot für den Hungrigen[^bible-ad2b8d50-b81a-4388-8713-cb4092ff330d]“, sagt Jesaja, „und nimm Menschen ohne Obdach in dein Haus auf\.[^bible-ad2b8d50-b81a-4388-8713-cb4092ff330d]“ Genau das tat er gerade, als er den Herrn in sein Haus aufnahm[^bible-06b027bc-2807-47ab-be78-8094c502a105] und bewirtete\. „Und wenn du einen Nackten siehst, bekleide ihn\.[^bible-ad2b8d50-b81a-4388-8713-cb4092ff330d]“ Genau das versprach er gerade, indem er die Hälfte seines Vermögens für alle Werke der Barmherzigkeit anbot[^bible-8c844f47-e86e-4826-98fa-8a7adf7f8eda]\. Er löste die Fesseln knechtender Verträge, entließ die Unterdrückten in die Freiheit und zerriss jeden ungerechten Schuldschein[^bible-18da1b5d-c5ad-4475-a434-094f976c2f26], als er sagte: „Und wenn ich jemandem durch falsche Beschuldigung etwas entrissen habe, erstatte ich es vierfach\.[^bible-8c844f47-e86e-4826-98fa-8a7adf7f8eda]“ Darauf sagte der Herr: „Heute ist diesem Haus Rettung zuteilgeworden\.[^bible-179a6bac-49da-4319-80d3-fe3cb3a1d102]“ Damit bezeugte er, dass die Gebote des Propheten des Schöpfers Rettung bringen\. Wenn er aber sagt: „Denn der Menschensohn ist gekommen, um zu retten, was verloren war[^bible-629f6625-3743-4f08-a1dd-72d56d587374]“, will ich jetzt nicht darauf beharren, dass er gekommen ist, um das Verlorene zu retten[^bible-629f6625-3743-4f08-a1dd-72d56d587374], das ihm gehört hatte, und dass ihm verloren gegangen war, was er zu retten gekommen war[^bible-629f6625-3743-4f08-a1dd-72d56d587374]\. Stattdessen gehe ich zu einer anderen Frage über\. Dass es um den Menschen geht, steht außer Zweifel\. Da dieser aus zwei Substanzen besteht, aus Körper und Seele, müssen wir fragen, in welcher dieser beiden Substanzarten er als verloren anzusehen ist\. Wenn hinsichtlich des Körpers, dann war der Körper verloren, die Seele nicht\. Was verloren war, rettet der Menschensohn\.[^bible-629f6625-3743-4f08-a1dd-72d56d587374] Also wird auch das Fleisch gerettet\. Wenn auch die Seele verloren war, ist die verlorene Seele zur Rettung bestimmt; das Fleisch, das nicht verloren war, ist gerettet\. Wenn der ganze Mensch in beiden Substanzen verloren war, muss der ganze Mensch gerettet werden\. Damit ist die Auffassung der Häretiker widerlegt, die die Rettung des Fleisches leugnen\. Zugleich wird bestätigt, dass Christus dem Schöpfer gehört, da er im Einklang mit dem Schöpfer die Rettung des ganzen Menschen versprach\. Auch das Gleichnis von den Sklaven, die danach beurteilt werden, wie sie das Geld ihres Herrn auf Zinsen angelegt haben[^bible-296def04-35db-412c-843b-1e2d2d7be9a5], zeigt Gott als Richter, auch in seiner Strenge: Er belohnt nicht nur, sondern nimmt einem auch weg, was dieser gehabt zu haben scheint[^bible-dda2cb3a-d973-48ac-89ed-3607deca9a34]\. Sollte Christus aber auch hier den Schöpfer als einen strengen Herrn dargestellt haben, der nimmt, was er nicht hinterlegt hat, und erntet, was er nicht gesät hat[^bible-d2089194-7ee0-43e9-b974-5312d33d4aa8], so unterweist mich auch hier jener, dessen Geld er mich auf Zinsen anzulegen lehrt[^bible-4e5a3506-2495-4c70-ab4a-153d35a125c4]\.
+
+## Bibelverweise
+
+[^bible-06b027bc-2807-47ab-be78-8094c502a105]: Lk 19,5–Lk 19,6
+[^bible-136f6a0e-184d-4ef0-8628-4571947a01e2]: Lk 18,38
+[^bible-13907bfe-95c6-420f-ad31-a6677b77dede]: Lk 18,43
+[^bible-179a6bac-49da-4319-80d3-fe3cb3a1d102]: Lk 19,9
+[^bible-18da1b5d-c5ad-4475-a434-094f976c2f26]: Jes 58,6
+[^bible-296def04-35db-412c-843b-1e2d2d7be9a5]: Lk 19,15–Lk 19,26
+[^bible-4e5a3506-2495-4c70-ab4a-153d35a125c4]: Lk 19,23
+[^bible-629f6625-3743-4f08-a1dd-72d56d587374]: Lk 19,10
+[^bible-8c844f47-e86e-4826-98fa-8a7adf7f8eda]: Lk 19,8
+[^bible-ad2b8d50-b81a-4388-8713-cb4092ff330d]: Jes 58,7
+[^bible-d2089194-7ee0-43e9-b974-5312d33d4aa8]: Lk 19,21–Lk 19,22
+[^bible-dda2cb3a-d973-48ac-89ed-3607deca9a34]: Lk 19,17–Lk 19,26
