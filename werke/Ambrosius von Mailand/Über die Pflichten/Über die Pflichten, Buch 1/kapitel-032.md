@@ -1,0 +1,29 @@
+# Über die Pflichten, Buch 1 – Kapitel 32: Wohlwollen übertrifft Freigebigkeit: Es schenkt auch ohne Vermögen und trägt das menschliche Miteinander
+
+Autor: Ambrosius von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/ambrosius-ueber-die-pflichten-buch-1#kapitel-991e845c-9d12-4a79-21ec-08df2b61b003).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Es ist also schön, wenn uns der Zuspruch der göttlichen Schriften benetzt und Gottes Worte wie Tau auf uns herabfallen[^bible-e36f3abf-5997-4c00-9008-697c33545a87]\. Wenn du dich also an jenen Tisch eines Mächtigen setzt[^bible-e5cf3a33-faa7-4b46-92dc-00af89e0726d], erkenne, wer dieser Mächtige ist\. Und wenn du dich im Paradies der Freude befindest und beim Gastmahl der Weisheit Platz genommen hast, achte auf das, was dir vorgesetzt wird[^bible-e5cf3a33-faa7-4b46-92dc-00af89e0726d]\. Die göttliche Schrift ist ein Gastmahl der Weisheit; jedes Buch ist ein eigener Gang\. Erkenne zuerst, welche Speisen die einzelnen Gänge bieten, und strecke erst dann die Hand aus[^bible-e948930a-c27c-42c9-9987-5b110a5f1017], damit du das, was du liest oder vom Herrn, deinem Gott, empfängst, in die Tat umsetzt und die dir erwiesene Gnade durch deine Dienste erwiderst\. So taten es Petrus und Paulus, die durch die Verkündigung des Evangeliums dem Geber der Gabe gewissermaßen etwas zurückgaben, sodass jeder von ihnen sagen konnte: „Durch Gottes Gnade aber bin ich, was ich bin, und seine Gnade hat sich an mir nicht als arm erwiesen; vielmehr habe ich mehr gearbeitet als sie alle\.[^bible-05b78a37-5e95-452e-a4a1-14d969c08d65]“
+
+Der eine vergilt also die empfangene Wohltat mit ihrem Ertrag, so wie man Gold mit Gold und Silber mit Silber vergilt; ein anderer mit seiner Mühe, ein weiterer gibt nur seine Zuneigung zurück, und ich weiß nicht, ob er damit nicht sogar reichlicher vergilt\. Was ist denn, wenn jemand gar keine Möglichkeit hat, etwas zurückzugeben? Beim Erwidern einer Wohltat vermag die Gesinnung mehr als das Vermögen, und das Wohlwollen wiegt schwerer als die Möglichkeit, eine Gabe zu erwidern\. Schon indem man Dankbarkeit empfindet, stattet man Dank ab\. Groß ist also das Wohlwollen: Auch wenn es nichts beisteuert, gewährt es mehr; und obwohl es keinerlei Vermögen hat, beschenkt es mehr Menschen\. Das tut es ohne eigenen Verlust und zum Gewinn aller\. Deshalb steht das Wohlwollen sogar über der Freigebigkeit\. Es ist reicher an guter Gesinnung als diese an Gaben; denn es gibt mehr Menschen, die eine Wohltat brauchen, als solche, die im Überfluss leben\.
+
+Das Wohlwollen ist auch mit der Freigebigkeit verbunden, die selbst aus ihm hervorgeht, wenn auf den Wunsch zu schenken auch das tatsächliche Schenken folgt\. Es kann aber auch getrennt und unabhängig von ihr bestehen\. Denn wo die Freigebigkeit fehlt, bleibt das Wohlwollen bestehen, gewissermaßen die gemeinsame Mutter aller, die Freundschaften stiftet und zusammenhält: treu im Rat, froh im Glück, betrübt im Leid\. Deshalb vertraut sich jeder lieber dem Rat eines wohlwollenden als dem eines weisen Menschen an\. So war David zwar klüger, doch folgte er dem Rat des jüngeren Jonathans[^bible-c87f3f50-895f-4e7f-b677-4735894a8128]\. Nimm das Wohlwollen aus dem menschlichen Miteinander, und es ist, als hättest du die Sonne aus der Welt genommen\. Denn ohne Wohlwollen kann das menschliche Miteinander nicht bestehen: einem Reisenden den Weg zeigen, einen Verirrten zurückrufen, Gastfreundschaft gewähren \(also keine geringe Tugend, derer sich Hiob mit den Worten rühmte: „Kein Fremder musste draußen übernachten; meine Tür stand jedem offen, der kam\.[^bible-d6a69fd5-cff9-4477-95c0-9932d51b6752]“\), von fließendem Wasser etwas abgeben, ein Licht an einem anderen entzünden\. In all dem wirkt das Wohlwollen wie eine Wasserquelle, die einen Durstigen erfrischt, und wie ein Licht, das auch bei anderen leuchtet und denen nicht ausgeht, die an ihrem eigenen Licht das Licht anderer entzündet haben\.
+
+Auch dies ist eine Freigebigkeit des Wohlwollens: Wenn du den Schuldschein eines Schuldners besitzt, zerreißt du ihn und gibst ihn zurück, ohne vom Schuldner etwas von der geschuldeten Summe erhalten zu haben\. Dass wir so handeln sollen, mahnt uns der heilige Hiob durch sein eigenes Beispiel\. Denn wer etwas hat, nimmt kein Darlehen auf; wer nichts hat, kann den Schuldschein nicht einlösen\. Warum also bewahrst du ihn, auch wenn du selbst die Schuld nicht eintreibst, für habgierige Erben auf? Du kannst ihn doch ohne Geldverlust zurückgeben und dafür Lob für dein Wohlwollen ernten\.
+
+Betrachten wir dies noch eingehender: Das Wohlwollen ging zunächst von den Angehörigen des Hauses aus, also von Kindern, Eltern und Geschwistern, und dehnte sich über die verschiedenen Verwandtschaftsgrade auf ganze Städte aus\. Es trat aus dem Paradies hinaus und erfüllte die Welt\. Denn als Gott Mann und Frau Wohlwollen eingepflanzt hatte, sagte er: „Die beiden werden ein Fleisch sein[^bible-7ed83a5b-f736-4f22-a559-537ba2b31bcc] und ein Geist\.“ Daher vertraute sich Eva der Schlange an[^bible-b69455b8-6acf-4667-b465-d7d489293de8]: Da sie Wohlwollen empfangen hatte, ahnte sie nicht, dass es Übelwollen gab\.
+
+## Bibelverweise
+
+[^bible-05b78a37-5e95-452e-a4a1-14d969c08d65]: 1Kor 15,10
+[^bible-7ed83a5b-f736-4f22-a559-537ba2b31bcc]: Gen 2,24
+[^bible-b69455b8-6acf-4667-b465-d7d489293de8]: Gen 3,1–Gen 3,6
+[^bible-c87f3f50-895f-4e7f-b677-4735894a8128]: 1Sam 20,1–1Sam 20,22
+[^bible-d6a69fd5-cff9-4477-95c0-9932d51b6752]: Hi 31,32
+[^bible-e36f3abf-5997-4c00-9008-697c33545a87]: Dtn 32,2
+[^bible-e5cf3a33-faa7-4b46-92dc-00af89e0726d]: Spr 23,1
+[^bible-e948930a-c27c-42c9-9987-5b110a5f1017]: Spr 23,1–Spr 23,2
