@@ -1,0 +1,14 @@
+# Über die Kleidung der Frauen, Buch 2 – Kapitel 6: Warum Haarfärben schadet und die Scham vor dem Alter der Hoffnung auf Unvergänglichkeit widerspricht
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-die-kleidung-der-frauen-buch-2#kapitel-ebedcbf7-d578-47ba-f264-08df26c2d641).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ich sehe manche Frauen ihre Haarfarbe mit Safran verändern\. Sie schämen sich sogar ihres eigenen Volkes, schämen sich, dass ihre Geburt sie nicht Germanien oder Gallien zugewiesen hat; so versetzen sie wenigstens ihre Haare dorthin\! Schlecht, ja sehr schlecht deuten sie mit ihrem flammenfarbenen Kopf ihr eigenes Geschick voraus und halten für schön, was sie in Wirklichkeit verunreinigen\! Dazu brennt die Kraft der Schminkmittel das Haar zugrunde; selbst die fortwährende Anwendung einer Feuchtigkeit ohne Zusatzstoffe richtet am Kopf Schaden an\. Auch die Sonnenwärme, die sie so sehr wünschen, weil sie das Haar zugleich wachsen und trocknen lässt, ist schädlich\. Welche Anmut verträgt sich mit Schaden? Welche Schönheit mit Verunreinigung? Soll eine Christin Safran auf ihren Kopf häufen wie auf einen Altar? Denn was man gewöhnlich dem unreinen Geist zu Ehren verbrennt, kann wie ein Opfer erscheinen, wenn man es nicht für ehrbare, notwendige und heilsame Zwecke verwendet, für die Gottes Geschöpf bestimmt ist\. Gott sagt jedoch: „Wer von euch kann ein weißes Haar schwarz oder ein schwarzes weiß machen?[^bible-18a5b4d2-3aa1-5513-b52d-5e49c530712f]“ Und so widerlegen sie den Herrn\! „Sieh\!“, sagen sie, „statt weiß oder schwarz machen wir es gelb, schöner und anmutiger\!“ Doch manche, die bereuen, dass sie bis ins Alter gelebt haben, versuchen sogar, ihr Haar von weiß in schwarz zu verwandeln\! Welche Vermessenheit\! Das Alter, das wir uns wünschen und um das wir bitten, schämt sich seiner selbst\! Ein Diebstahl geschieht\! Nach der Jugend, in der wir gesündigt haben, wird verlangt\! Die Gelegenheit zur Besonnenheit wird zunichtegemacht\! Eine solche Torheit sei den Töchtern der Weisheit fern\! Je mehr das Alter sich zu verbergen sucht, desto deutlicher wird es erkannt\. Da habt ihr eine wahre Ewigkeit in der immerwährenden Jugend eures Kopfes\! Da haben wir eine Unvergänglichkeit, die wir anziehen können, im Hinblick auf das neue Haus des Herrn, das uns seine göttliche Alleinherrschaft verheißt\! Schön eilt ihr zum Herrn; schön beeilt ihr euch, dieser so ungerechten Welt zu entkommen, wenn es euch unschön erscheint, dem eigenen Ende entgegenzugehen\!
+
+## Bibelverweise
+
+[^bible-18a5b4d2-3aa1-5513-b52d-5e49c530712f]: Mt 5,36

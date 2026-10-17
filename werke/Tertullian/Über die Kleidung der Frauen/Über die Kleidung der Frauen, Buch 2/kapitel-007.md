@@ -1,0 +1,15 @@
+# Über die Kleidung der Frauen, Buch 2 – Kapitel 7: Nur Fleisch und Geist werden auferstehen – darum ist künstlicher Schmuck schon jetzt abzulegen
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-die-kleidung-der-frauen-buch-2#kapitel-22a69810-8dca-4edc-f265-08df26c2d641).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Welchen Dienst leistet denn all die Mühe, die ihr auf das Ordnen der Haare verwendet, für euer Heil? Warum dürfen eure Haare nicht ruhen, sondern müssen bald gebunden, bald gelöst, bald gepflegt, bald ausgedünnt werden? Die einen bemühen sich, ihr Haar in Locken zu zwingen, die anderen, es lose und frei herabhängen zu lassen, und das nicht in guter Einfachheit\. Außerdem befestigt ihr weiß Gott welche ungeheuren Gebilde aus feinen, geflochtenen Perücken: bald wie einen Helm aus ungegerbter Haut, gleichsam eine Hülle für den Kopf und eine Decke für den Scheitel, bald wie eine Masse, die nach hinten zum Nacken gezogen ist\. Das Erstaunliche ist, dass ihr nicht offen gegen die Gebote des Herrn streitet\! Es ist gesagt worden, dass niemand seine Körpergröße vermehren kann[^bible-5aa3a5e7-e5aa-5842-98c6-bc4de64fcef4]\. Ihr aber vermehrt euer Gewicht durch irgendwelche Wülste oder Schildbuckel, die ihr auf euren Nacken häuft\! Wenn euch ihre Ungeheuerlichkeit nicht beschämt, dann doch wenigstens die Verunreinigung\. Denn womöglich setzt ihr auf einen heiligen, christlichen Kopf die abgestreifte Hülle eines fremden Kopfes, vielleicht eines unreinen, vielleicht eines schuldigen und für die Hölle bestimmten\. Verbannt vielmehr von eurem freien Kopf all diese Knechtschaft des Schmuckes\. Vergeblich müht ihr euch, geschmückt zu erscheinen; vergeblich ruft ihr die geschicktesten Hersteller falscher Haare zu Hilfe\. Gott gebietet euch, verschleiert zu sein[^bible-d1ffda01-a6d0-5387-ad47-0740498035ba]\. Ich glaube, er tut es, damit die Köpfe mancher nicht gesehen werden\! Ach, dürfte ich Elender an jenem Tag christlicher Freude meinen Kopf erheben, wenn auch unterhalb eurer Fersen\! Dann werde ich sehen, ob ihr mit Bleiweiß, Wangenrot und Safran und mit all jenem prunkvollen Kopfschmuck auferstehen werdet; ob es so herausgeputzte Frauen sein werden, die die Engel Christus entgegen in die Luft tragen\! Wenn diese Schmuckmittel jetzt gut und von Gott sind, werden sie sich auch dann an den auferstehenden Leibern einfinden und ihre jeweiligen Plätze wiedererkennen\. Doch nichts kann auferstehen außer Fleisch und Geist, allein und rein\. Was also nicht als Geist und Fleisch aufersteht, ist verurteilt, weil es nicht von Gott ist\. Haltet euch schon jetzt von dem fern, was verurteilt ist\. Schon jetzt soll Gott euch so sehen, wie er euch dann sehen wird\.
+
+## Bibelverweise
+
+[^bible-5aa3a5e7-e5aa-5842-98c6-bc4de64fcef4]: Mt 6,27
+[^bible-d1ffda01-a6d0-5387-ad47-0740498035ba]: 1Kor 11,6
