@@ -1,0 +1,46 @@
+# Kirchengeschichte Buch 3
+
+Rufinus von Aquila
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-3) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- [Kapitel 1: Die Apostel tragen das Evangelium in die Welt; Petrus und Paulus sterben als Märtyrer](kapitel-001.md)
+- [Kapitel 3: Die kirchliche Überlieferung unterscheidet anerkannte, umstrittene und nichtkanonische Schriften](kapitel-003.md)
+- [Kapitel 4: Apostelgefährten übernehmen die Kirchenleitung und bewahren die apostolische Verkündigung in Schriften](kapitel-004.md)
+- [Kapitel 5: Nach dem Auszug der Kirche trifft Jerusalem Gottes Strafe für die Vergehen gegen Christus und seine Zeugen](kapitel-005.md)
+- [Kapitel 6: Josephus schildert, wie Hunger und Plünderergewalt das belagerte Jerusalem zugrunde richten](kapitel-006.md)
+- [Kapitel 7: Jerusalems Zerstörung bestätigt Jesu Vorhersagen und bezeugt seine Gottheit](kapitel-007.md)
+- [Kapitel 8: Jerusalem missachtet die Vorzeichen seines Untergangs; das Weltherrscherorakel weist eher auf Christus als auf Vespasian](kapitel-008.md)
+- [Kapitel 9: Der Jerusalemer Priester Josephus ist ein hoch angesehener und glaubwürdiger Geschichtsschreiber](kapitel-009.md)
+- [Kapitel 10: Josephus grenzt 22 inspirierte Bücher von späteren Schriften ab und beruft sich für sein Geschichtswerk auf Zeitzeugen](kapitel-010.md)
+- [Kapitel 11: Apostel, Jünger und Verwandte Jesu wählen Symeon einstimmig zum Nachfolger des Jakobus in Jerusalem](kapitel-011.md)
+- [Kapitel 12: Vespasians Suche nach Davids Nachkommen wegen ihrer königlichen Herkunft löst erneut eine schwere Judenverfolgung aus](kapitel-012.md)
+- [Kapitel 13: Anaklet folgt im zweiten Regierungsjahr des Titus auf Linus als Bischof von Rom](kapitel-013.md)
+- [Kapitel 14: Annianos stirbt nach zweiundzwanzig Amtsjahren; Abilius wird Bischof von Alexandria](kapitel-014.md)
+- [Kapitel 15: Paulus’ Mitarbeiter Clemens übernimmt nach zwölf Amtsjahren Anaklets den Bischofsstuhl von Rom](kapitel-015.md)
+- [Kapitel 16: Clemens’ Brief gegen die Zwietracht in Korinth wird seit alters in vielen Kirchen vorgelesen](kapitel-016.md)
+- [Kapitel 17: Domitian wird nach Nero zum zweiten Christenverfolger; sein Vater Vespasian tat den Christen kein Unrecht](kapitel-017.md)
+- [Kapitel 18: Johannes soll unter Domitian nach Patmos verbannt worden sein; Nichtchristen bezeugen Domitillas Verbannung](kapitel-018.md)
+- [Kapitel 19: Judas’ Nachkommen werden bei Domitian wegen ihrer Abstammung von David und Verwandtschaft mit Christus denunziert](kapitel-019.md)
+- [Kapitel 20: Domitian lässt Judas’ Enkel nach dem Verhör frei und hebt die Verfolgung der Kirchen auf](kapitel-020.md)
+- [Kapitel 21: In Trajans erstem Regierungsjahr folgt Kerdon in Alexandria auf Abilius; in Rom amtiert Clemens](kapitel-021.md)
+- [Kapitel 22: Ignatius folgt in Antiochien auf Evodios; in Jerusalem leitet Symeon als Nachfolger des Jakobus die Kirche](kapitel-022.md)
+- [Kapitel 23: Durch beharrliche Fürsorge führt Johannes einen Räuberhauptmann zur Buße und in die Kirche zurück](kapitel-023.md)
+- [Kapitel 24: Johannes ergänzt die drei anderen Evangelien um Jesu Wirken vor der Gefangennahme des Täufers](kapitel-024.md)
+- [Kapitel 25: Umstrittene Schriften sind von Fälschungen zu trennen, die dem apostolischen Glauben widersprechen](kapitel-025.md)
+- [Kapitel 26: Menander verheißt durch seine Taufe irdische Unsterblichkeit und beraubt seine Anhänger der Heilshoffnung](kapitel-026.md)
+- [Kapitel 27: Die Ebioniten verkennen Christi ewige Gottheit und halten die Gesetzesbefolgung für heilsnotwendig](kapitel-027.md)
+- [Kapitel 28: Cerinthus lehrt ein irdisches Tausendjahrreich Christi zur Befriedigung fleischlicher Begierden](kapitel-028.md)
+- [Kapitel 29: Die Nikolaiten verkehren Nikolaus’ Absage an die Begierde in eine Rechtfertigung ihrer Ausschweifungen](kapitel-029.md)
+- [Kapitel 30: Die Ehen der Apostel widerlegen die Eheverachtung; Petrus stärkt seine Frau auf dem Weg zum Martyrium](kapitel-030.md)
+- [Kapitel 31: Johannes ruht in Ephesus, Philippus in Hierapolis – bezeugt durch Polykrates und Gaius](kapitel-031.md)
+- [Kapitel 32: Symeon stirbt als Märtyrer; nach dem Tod der Augenzeugen Jesu tritt die Irrlehre offen hervor](kapitel-032.md)
+- [Kapitel 33: Trajan verbietet die Fahndung nach Christen, nicht ihre Bestrafung – die Verfolgung dauert an](kapitel-033.md)
+- [Kapitel 34: Clemens übergibt nach neun Amtsjahren den Dienst am göttlichen Wort in Rom an Evaristus](kapitel-034.md)
+- [Kapitel 35: Nach Symeons Tod wird Justus, ein zum Christusglauben bekehrter Jude, Bischof von Jerusalem](kapitel-035.md)
+- [Kapitel 36: Ignatius stärkt auf dem Weg zum ersehnten Martyrium durch Briefe den apostolischen Glauben der Gemeinden](kapitel-036.md)
+- [Kapitel 37: Apostelschüler gründen Gemeinden, vertrauen sie örtlichen Leitern an und ziehen zu weiteren Völkern](kapitel-037.md)
+- [Kapitel 38: Stil und Gedanken sprechen für Clemens als Übersetzer des paulinischen Hebräerbriefs](kapitel-038.md)
+- [Kapitel 39: Papias empfängt die Überlieferung von Apostelschülern, verkennt aber den Bildsinn apostolischer Worte](kapitel-039.md)

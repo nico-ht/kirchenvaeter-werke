@@ -1,0 +1,18 @@
+# Kirchengeschichte Buch 3 – Kapitel 10: Josephus grenzt 22 inspirierte Bücher von späteren Schriften ab und beruft sich für sein Geschichtswerk auf Zeitzeugen
+
+Autor: Rufinus von Aquila
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-3#kapitel-348b087e-9422-4198-208b-08ddfeb5b6fa).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Wir haben also nicht unzählige Bücher, die einander widersprechen, sondern nur zweiundzwanzig\. Sie erfassen den gesamten Gang der Geschichte und gelten mit Recht als von Gott eingegeben\. Fünf davon stammen von Mose; sie enthalten die Gesetze des Lebens und die Abstammung des Menschengeschlechts bis hin zu Mose selbst und umfassen einen Zeitraum von etwas weniger als dreitausend Jahren\. Die Ereignisse von Moses Tod bis zu Artaxerxes, der nach Xerxes über die Perser herrschte, sind von den jeweiligen Propheten jener Zeiten in dreizehn Büchern festgehalten worden\. Die verbleibenden vier Bücher überliefern den Menschen Hymnen auf Gott sowie Lebensregeln und Ermahnungen\. Von Artaxerxes bis in unsere Zeit ist zwar alles schriftlich festgehalten worden, doch gelten diese Schriften nicht als ebenso zuverlässig wie die ersten, weil es in derselben Weise keine ununterbrochene und beglaubigte Folge von Propheten gab\. Die Tatsachen selbst bezeugen daher den Respekt, den wir unseren Schriften entgegenbringen\. Denn trotz all der Jahrhunderte, die vergangen sind, hat niemand jemals gewagt, etwas hinzuzufügen, zu entfernen oder zu verändern; in jedem Einzelnen unseres Volkes ist gewissermaßen dieser angeborene, eingeborene Glaube, dass dies Gottes Anordnungen sind, an ihnen unablässig festzuhalten und, wenn es nötig ist, für sie willig das Leben hinzugeben\.“
+
+Ich halte es für nützlich, auch diese Stelle des Historikers aufzunehmen\. Und es gibt noch ein weiteres, sehr kunstvoll abgefasstes Buch von ihm mit dem Titel „Die Vernunft herrscht in uns“\. Manche haben diese kurze Schrift „Makkabäer“ genannt, weil sie die Kämpfe und Wettstreite um die Religion enthält, in denen sich die Makkabäerbrüder mit ganzer Kraft eingesetzt haben\.
+
+Unser Autor sagt außerdem am Ende des zwanzigsten Buches der Altertümer, er habe beabsichtigt, vier Bücher zu verfassen: über Gott, über sein Wesen und seine Gesetze – gemäß jüdischem Glauben und jüdischer Religion –, und darüber, warum ihnen manches erlaubt ist und anderes nicht\. Er fügt hinzu, von ihm seien noch einige kleinere Schriften verfasst worden\. Und am Ende eben dieses zwanzigsten Buches der Altertümer beschuldigt er einen gewissen Justus aus Tiberias, der sich an einem Werk derselben Art versucht hatte wie er selbst, Unwahres geschrieben zu haben; er sagt:
+
+„Ich habe dich in dem, was ich schrieb, nicht nachgeahmt\. Ich habe meine Bücher den Kaisern selbst unmittelbar nach den Ereignissen vorgelegt, denn ich wusste, dass ich durchweg bei der Wahrheit geblieben war\. Ihre Zustimmung blieb auch nicht aus\. Ich legte sie außerdem etlichen anderen vor, von denen viele selbst an den Kämpfen teilgenommen hatten – etwa König Agrippa und mehrere seiner Verwandten\. Kaiser Titus war sogar so überzeugt, dass durch diese Bücher die Neuigkeiten von den Ereignissen alle Menschen erreichen solle, dass er eigenhändig eine offizielle Anordnung schrieb, nach der sie von allen gelesen werden sollten\. Was König Agrippa betrifft, so hat er die Zuverlässigkeit unserer Darstellung in zweiundsechzig Briefen bezeugt; zwei davon habe ich beigefügt\.“
+
+Damit sei zu diesen Dingen genug gesagt\.
