@@ -651,6 +651,13 @@
     "contentRevision": "sha256:c95547a72ddcb4895c2b3a069d940b12720992272595c36569d50db2b46f3bde"
   },
   {
+    "workId": "a25c4a3b-b108-45e2-21cd-08df23296889",
+    "authorName": "Eusebius",
+    "title": "Beweis des Evangeliums, Buch 1",
+    "directory": "werke/Eusebius/Beweis des Evangeliums/Beweis des Evangeliums, Buch 1",
+    "contentRevision": "sha256:0512b606d55209519808ed05d2e0bf4a1594b9102cdde63e71a3ff6f68a867ed"
+  },
+  {
     "workId": "8a6cf785-800c-49a2-b596-08dd0f21e34f",
     "authorName": "Eusebius",
     "title": "Brief an Constantia",
@@ -1096,7 +1103,7 @@
     "authorName": "Johannes Chrysostomus",
     "title": "19. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/19. Homilie über Matthäus",
-    "contentRevision": "sha256:a0ba237ec9866de0d00aa1d0bdcf33da35c3b627b19bce119f276aeb46095e80"
+    "contentRevision": "sha256:09a1ff9704b81c195f5cbdccfb4ccda1d540ba3c1236ccf4ab7796a8a457d5c9"
   },
   {
     "workId": "2a7a43ec-4374-42c2-1b6f-08dd32f4f052",
@@ -1902,6 +1909,20 @@
     "title": "2. Katechetische Vorlesung",
     "directory": "werke/Kyrill von Jerusalem/Katechetische Vorlesungen/2. Katechetische Vorlesung",
     "contentRevision": "sha256:41712489b7d5cf5bfc2f0c267501091804875d6a17700058337a687f48ac9d45"
+  },
+  {
+    "workId": "515db142-374a-42be-916f-08df200aaa32",
+    "authorName": "Laktanz",
+    "title": "Göttliche Unterweisungen, Buch 1",
+    "directory": "werke/Laktanz/Göttliche Unterweisungen/Göttliche Unterweisungen, Buch 1",
+    "contentRevision": "sha256:68d662f49a85338a599a34cb88251758745c8d76957903d6d6517bc2ed5c215f"
+  },
+  {
+    "workId": "71508636-9b83-46e7-74fd-08df1c1edfbc",
+    "authorName": "Laktanz",
+    "title": "Göttliche Unterweisungen, Buch 7",
+    "directory": "werke/Laktanz/Göttliche Unterweisungen/Göttliche Unterweisungen, Buch 7",
+    "contentRevision": "sha256:6acd9257daa760129488a45688fa9fc4ba4fecf4a597eec9581b9c2e54e890ad"
   },
   {
     "workId": "6e90868b-c48b-424b-a2db-08df1a4e62f2",
