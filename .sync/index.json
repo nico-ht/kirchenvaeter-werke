@@ -665,6 +665,13 @@
     "contentRevision": "sha256:178f6cd67c1dbf518fa5c2b38549d237599f1431e25f03c521ad795b802ae8a3"
   },
   {
+    "workId": "87d60aac-477c-497d-252b-08dd75f9cbf5",
+    "authorName": "Eusebius",
+    "title": "Psalm 1",
+    "directory": "werke/Eusebius/Kommentare zu Psalmen/Psalm 1",
+    "contentRevision": "sha256:98d2268a9004b143870afad7798758f71dcb562e65a21acd96e49eaf49c138cb"
+  },
+  {
     "workId": "5ca3c27c-6735-4936-6e5f-08dd7a819d15",
     "authorName": "Eusebius",
     "title": "Psalm 2",
@@ -910,6 +917,27 @@
     "contentRevision": "sha256:9b80b50f93fb1396cbc9e88b5c0c2571e83e8acf411407f10fe1c3202b4a86de"
   },
   {
+    "workId": "b975cd1f-32de-49cb-70eb-08dd19508cd9",
+    "authorName": "Ignatius von Antiochien",
+    "title": "Brief an die Epheser",
+    "directory": "werke/Ignatius von Antiochien/Brief an die Epheser",
+    "contentRevision": "sha256:ec1f917d4f649ad192a7d9f408f28b7466245cec6ff8902c1bb5667c0cbf7326"
+  },
+  {
+    "workId": "061859cd-4425-4f0e-70ec-08dd19508cd9",
+    "authorName": "Ignatius von Antiochien",
+    "title": "Brief an die Magnesier",
+    "directory": "werke/Ignatius von Antiochien/Brief an die Magnesier",
+    "contentRevision": "sha256:522a9851105dadbf0da249b7a06ad241410b184e6d1533a52dbb49c244dbe359"
+  },
+  {
+    "workId": "a4e1d498-1f95-4d57-70f2-08dd19508cd9",
+    "authorName": "Ignatius von Antiochien",
+    "title": "Brief an die Philadelphier",
+    "directory": "werke/Ignatius von Antiochien/Brief an die Philadelphier",
+    "contentRevision": "sha256:13df0b21a1eaf00f5b778c7f8923a61dd1b71f0beee53e5fd38228bcf8ae55b5"
+  },
+  {
     "workId": "aa92d2c4-87dd-4f8f-70ed-08dd19508cd9",
     "authorName": "Ignatius von Antiochien",
     "title": "Brief an die Römer",
@@ -1125,6 +1153,13 @@
     "title": "2. Predigt zu Titus",
     "directory": "werke/Johannes Chrysostomus/Predigten zu Titus/2. Predigt zu Titus",
     "contentRevision": "sha256:5f5d7a2f27d4ada583dd9811d58c3cc191387f52255619bd96809b8f70084a2f"
+  },
+  {
+    "workId": "e277d710-7cda-49f2-3058-08ddd34ea3d6",
+    "authorName": "Johannes Chrysostomus",
+    "title": "2. Taufunterweisung ",
+    "directory": "werke/Johannes Chrysostomus/Taufunterweisung/2. Taufunterweisung",
+    "contentRevision": "sha256:b682a7f5c2ee9f53ecae11f12300a7df27e9846cb6878dd497fd9cbd5d0d69d3"
   },
   {
     "workId": "4247e733-4a7a-4c2a-5590-08deedfb48dc",
@@ -2807,6 +2842,13 @@
     "contentRevision": "sha256:b2043e0e75f5e9d9ef68a1f4ecd9475541883255c7d7485a44b66f8dfd60a50e"
   },
   {
+    "workId": "4d98e501-9eeb-41f0-1fb5-08dd130de378",
+    "authorName": "Origenes",
+    "title": "Brief an Freunde in Alexandria",
+    "directory": "werke/Origenes/Brief an Freunde in Alexandria",
+    "contentRevision": "sha256:3d2f0d095e739d9d3ab6985584fe635edfeb15c68937d57eef830dc3829324b3"
+  },
+  {
     "workId": "84524d7a-e588-47ee-63e6-08dd0d6a3e2b",
     "authorName": "Origenes",
     "title": "Dialog mit Heraklides",
@@ -2905,6 +2947,13 @@
     "contentRevision": "sha256:bc4251a3f80813c18423e659474c0fbeaaf2130cd85b64cbadc991e32184058f"
   },
   {
+    "workId": "3cf851da-acbb-44dd-be3a-08ddb418bd05",
+    "authorName": "Origenes",
+    "title": "Psalm 3",
+    "directory": "werke/Origenes/Predigten zu den Psalmen/Psalm 3",
+    "contentRevision": "sha256:03c9baecef076a4dc98addf0eab7333a3eb40a98e1e7a80f555825e9e8bc2716"
+  },
+  {
     "workId": "e4e7683a-7c5a-4b0f-488a-08dd64125f97",
     "authorName": "Origenes",
     "title": "Über die Prinzipien, Buch 1",
@@ -2917,6 +2966,13 @@
     "title": "Ermahnung zur Buße",
     "directory": "werke/Pacian von Barcelona/Ermahnung zur Buße",
     "contentRevision": "sha256:b4b2dc628aa61c5e9465ed3c768bfc4ea21213358b65bb38b7f079cf85890890"
+  },
+  {
+    "workId": "a0496def-8fc2-4ccf-6d28-08ddd84180a6",
+    "authorName": "Palladius von Helenopolis",
+    "title": "Dialog über das Leben von Johannes Chrysostomos",
+    "directory": "werke/Palladius von Helenopolis/Dialog über das Leben von Johannes Chrysostomos",
+    "contentRevision": "sha256:5e1dc20f0710a3a7562a9850ba7e5c0af2199ee9c570a6215bca455ff5f19fb6"
   },
   {
     "workId": "9c0bd895-b1bc-4121-b15d-08dd0a5aceeb",
@@ -3043,6 +3099,13 @@
     "title": "Kirchengeschichte Buch 2",
     "directory": "werke/Rufinus von Aquila/Kirchengeschichte/Kirchengeschichte Buch 2",
     "contentRevision": "sha256:217a5941f69f5bf99b4eba31de44cd889556133db66b554886a9b4c62a8c4f45"
+  },
+  {
+    "workId": "977e71cc-949d-4877-60ab-08ddf7c3acd9",
+    "authorName": "Rufinus von Aquila",
+    "title": "Kirchengeschichte Buch 3",
+    "directory": "werke/Rufinus von Aquila/Kirchengeschichte/Kirchengeschichte Buch 3",
+    "contentRevision": "sha256:d618023db9cb248ae3fa28875121a16c684888b6b0fd021cea45afb83a06505e"
   },
   {
     "workId": "a1b4b642-bc5e-4442-60e5-08de07159c7c",
@@ -3302,6 +3365,13 @@
     "title": "Über die Verschleierung von Jungfrauen",
     "directory": "werke/Tertullian/Über die Verschleierung von Jungfrauen",
     "contentRevision": "sha256:f10f71e630c6dc60830376deccdf71398d87514f2f7dc0be5d25142692b9c1b6"
+  },
+  {
+    "workId": "34571a26-c9c5-4904-be39-08ddb418bd05",
+    "authorName": "Theodor von Mopsuestia",
+    "title": "Psalm 3",
+    "directory": "werke/Theodor von Mopsuestia/Kommentare zu den Psalmen/Psalm 3",
+    "contentRevision": "sha256:36c9094c169bd98feff6e56a14bcac6e6ac81db81c87d0db38ef5f102bed140b"
   },
   {
     "workId": "1e32d4ff-1e16-4d26-9f1c-08dd829729ab",

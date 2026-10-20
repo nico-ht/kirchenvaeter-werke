@@ -8,5 +8,6 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werke
 
+- [Psalm 1](Psalm%201/) · 7 Kapitel
 - [Psalm 2](Psalm%202/) · 12 Kapitel
 - [Psalm 3](Psalm%203/) · 5 Kapitel

@@ -10,6 +10,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 - [Kirchengeschichte Buch 1](Kirchengeschichte%20Buch%201/) · 13 Kapitel
 - [Kirchengeschichte Buch 2](Kirchengeschichte%20Buch%202/) · 26 Kapitel
+- [Kirchengeschichte Buch 3](Kirchengeschichte%20Buch%203/) · 38 Kapitel
 - [Kirchengeschichte Buch 4](Kirchengeschichte%20Buch%204/) · 30 Kapitel
 - [Kirchengeschichte Buch 5](Kirchengeschichte%20Buch%205/) · 27 Kapitel
 - [Kirchengeschichte Buch 6](Kirchengeschichte%20Buch%206/) · 46 Kapitel

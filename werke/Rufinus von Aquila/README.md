@@ -6,4 +6,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Kirchengeschichte](Kirchengeschichte/) · 8 Werke
+- [Kirchengeschichte](Kirchengeschichte/) · 9 Werke

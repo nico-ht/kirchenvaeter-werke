@@ -10,7 +10,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Homilien über Matthäus](Homilien%20%C3%BCber%20Matth%C3%A4us/) · 90 Werke
 - [Predigten zu Titus](Predigten%20zu%20Titus/) · 6 Werke
 - [Psalme](Psalme/) · 1 Werk
-- [Taufunterweisung](Taufunterweisung/) · 11 Werke
+- [Taufunterweisung](Taufunterweisung/) · 12 Werke
 
 ## Einzelwerke
 

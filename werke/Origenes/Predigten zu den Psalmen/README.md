@@ -10,3 +10,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 - [Psalm 1](Psalm%201/) · 8 Kapitel
 - [Psalm 2](Psalm%202/) · 10 Kapitel
+- [Psalm 3](Psalm%203/) · 8 Kapitel

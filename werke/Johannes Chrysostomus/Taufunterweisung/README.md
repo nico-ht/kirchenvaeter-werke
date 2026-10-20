@@ -9,6 +9,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Werke
 
 - [1. Taufunterweisung](1.%20Taufunterweisung/) · 47 Kapitel
+- [2. Taufunterweisung](2.%20Taufunterweisung/) · 31 Kapitel
 - [3. Taufunterweisung](3.%20Taufunterweisung/) · 27 Kapitel
 - [4. Taufunterweisung](4.%20Taufunterweisung/) · 33 Kapitel
 - [5. Taufunterweisung](5.%20Taufunterweisung/) · 28 Kapitel
