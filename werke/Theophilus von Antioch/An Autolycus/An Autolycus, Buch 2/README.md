@@ -1,0 +1,46 @@
+# An Autolycus, Buch 2
+
+Theophilus von Antioch
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/theophilus-von-antioch/an-autolycus-buch-2) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- [Kapitel 1: Eure eigenen Geschichtsberichte sollen die Nichtigkeit eurer Gottesverehrung und die Wahrheit zeigen](kapitel-001.md)
+- [Kapitel 2: Verehrung macht aus handgefertigten Bildern ebenso wenig Götter wie aus Menschen](kapitel-002.md)
+- [Kapitel 3: Ausbleibende Göttergeburten und Zeus’ Ortsgebundenheit widersprechen dem Anspruch auf wahre Göttlichkeit](kapitel-003.md)
+- [Kapitel 4: Ungeschaffene Materie widerspräche Gottes Alleinherrschaft; seine Macht zeigt sich im Schaffen aus nichts](kapitel-004.md)
+- [Kapitel 5: Hesiod nennt keinen Schöpfer der Welt, und seine Musen können deren Entstehung nicht bezeugen](kapitel-005.md)
+- [Kapitel 6: Hesiods Götter entstehen erst aus der Welt und können deshalb nicht deren Schöpfer sein](kapitel-006.md)
+- [Kapitel 7: Die Abstammungslisten der Griechen weisen ihre vermeintlichen Götter als Menschen aus](kapitel-007.md)
+- [Kapitel 8: Griechische Dichter widersprechen sich über Welt und Vorsehung, stimmen aber bisweilen mit den Propheten überein](kapitel-008.md)
+- [Kapitel 9: Gottes Propheten sprechen einmütig; erfüllte Weissagungen begründen das Vertrauen auf ihre Zukunftsankündigungen](kapitel-009.md)
+- [Kapitel 10: Gott schuf alles aus nichts durch sein Wort, das die Schöpfung durch die Propheten bezeugt](kapitel-010.md)
+- [Kapitel 11: Gott vollendet die Schöpfung in sechs Tagen und heiligt den siebten als Tag seiner Ruhe](kapitel-011.md)
+- [Kapitel 12: Schön ausgeschmückte Nachahmungen des Schöpfungsberichts bieten keine Wahrheit, sondern schädlichen Irrtum](kapitel-012.md)
+- [Kapitel 13: Gott schafft zuerst den unsichtbaren Himmel und gestaltet durch sein Wort die Erde](kapitel-013.md)
+- [Kapitel 14: Die Kirchen sind Häfen der Wahrheit in der sündigen Welt, während Häresien ins Verderben führen](kapitel-014.md)
+- [Kapitel 15: Die Himmelslichter sind nicht Ursprung der Pflanzen, sondern Sinnbilder Gottes und der Menschen](kapitel-015.md)
+- [Kapitel 16: Der Segen der Wassertiere deutet auf die Wiedergeburt, das Verhalten der Tiere auf Gerechtigkeit und Gewalt](kapitel-016.md)
+- [Kapitel 17: Die Tiere wurden durch die Sünde des Menschen wild und werden mit seiner Umkehr wieder zahm](kapitel-017.md)
+- [Kapitel 18: Gott erschafft den Menschen als sein Ebenbild und würdigt ihn als ewiges Werk seiner Hände](kapitel-018.md)
+- [Kapitel 19: Wie Gott den Menschen aus Erde formt und durch seinen Atem zu einer lebendigen Seele macht](kapitel-019.md)
+- [Kapitel 20: Gott setzt Adam ins Paradies, verbietet das Essen vom Erkenntnisbaum und schafft ihm die Frau als Hilfe](kapitel-020.md)
+- [Kapitel 21: Die Täuschung der Schlange führt zum Ungehorsam des Menschen und zu Gottes Strafurteil](kapitel-021.md)
+- [Kapitel 22: Nicht der räumlich unbegrenzte Vater, sondern sein göttliches Wort spricht im Paradies mit Adam](kapitel-022.md)
+- [Kapitel 23: Geburtswehen und das Los der Schlange bestätigen die Wahrheit des Paradiesberichts](kapitel-023.md)
+- [Kapitel 24: Im irdischen Paradies sollte der Mensch durch Gehorsam zur Vollkommenheit und Unsterblichkeit gelangen](kapitel-024.md)
+- [Kapitel 25: Der Erkenntnisbaum war gut, doch Adam noch unreif; den Tod brachte sein Ungehorsam](kapitel-025.md)
+- [Kapitel 26: Die Vertreibung aus dem Paradies dient der Besserung, der Tod der unversehrten Auferstehung](kapitel-026.md)
+- [Kapitel 27: Gott schuf den Menschen weder sterblich noch unsterblich, sondern frei, durch Gehorsam ewiges Leben zu erlangen](kapitel-027.md)
+- [Kapitel 28: Evas Erschaffung aus Adams Rippe offenbart den einen Schöpfer und stärkt die eheliche Bindung](kapitel-028.md)
+- [Kapitel 29: Mit Kains Brudermord kommt der Tod in die Welt; schuldig ist der Mensch, nicht die Erde](kapitel-029.md)
+- [Kapitel 30: Die biblischen Geschlechterfolgen bezeugen Städtebau und Musik vor der Sintflut und widerlegen griechische Dichter](kapitel-030.md)
+- [Kapitel 31: Die Schrift berichtet von Städten und Königen nach der Sintflut lange vor der jüngeren assyrischen Geschichte](kapitel-031.md)
+- [Kapitel 32: Nach der Sprachenteilung besiedelten die Menschen von Arabien und Chaldäa aus allmählich die Erde](kapitel-032.md)
+- [Kapitel 33: Allein die Christen erfassen die Wahrheit, da der Heilige Geist Vergangenheit und Zukunft offenbart](kapitel-033.md)
+- [Kapitel 34: Gott lehrt durch Gesetz und Propheten gerechtes Handeln, das vor ewiger Strafe bewahrt und zum ewigen Leben führt](kapitel-034.md)
+- [Kapitel 35: Gesetz und Propheten lehren einmütig, allein dem Schöpfer zu dienen statt Götzen und Gestirnen](kapitel-035.md)
+- [Kapitel 36: Die Sibylle verkündet den einen Gott und kündigt Götzendienern Strafe, Gottesverehrern ewiges Leben an](kapitel-036.md)
+- [Kapitel 37: Griechische Dichter bezeugen Gottes Gericht und den Weltenbrand mit Entlehnungen aus Gesetz und Propheten](kapitel-037.md)
+- [Kapitel 38: Entgegen ihren eigenen Lehren bezeugen griechische Schriftsteller Gottes Vorsehung auch für die Toten](kapitel-038.md)

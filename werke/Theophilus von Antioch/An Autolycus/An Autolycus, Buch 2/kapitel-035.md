@@ -1,0 +1,26 @@
+# An Autolycus, Buch 2 – Kapitel 35: Gesetz und Propheten lehren einmütig, allein dem Schöpfer zu dienen statt Götzen und Gestirnen
+
+Autor: Theophilus von Antioch
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/theophilus-von-antioch/an-autolycus-buch-2#kapitel-c6528ad8-20d1-446c-5d3b-08df2e8543a2).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Das göttliche Gesetz verbietet also nicht nur, sich vor Götzen niederzuwerfen, sondern auch vor den Elementen, vor Sonne, Mond oder den übrigen Gestirnen\. Ebenso verbietet es, dem Himmel, der Erde, dem Meer, Quellen oder Flüssen religiöse Verehrung zu erweisen\. Vielmehr soll man allein dem wahren Gott und Schöpfer aller Dinge dienen, mit frommem Herzen und aufrichtiger Gesinnung\. Deshalb sagt das heilige Gesetz: „Du sollst nicht ehebrechen, nicht morden, nicht stehlen, kein falsches Zeugnis ablegen und nicht die Frau deines Nächsten begehren\.[^bible-d3018415-d607-4ed6-9b38-a934bdf4d8d3]“ Ebenso lehren auch die Propheten\. Salomo lehrt uns sogar, nicht einmal durch einen Wink zu sündigen, wenn er sagt: „Deine Augen sollen geradeaus blicken, und mit deinen Lidern sollst du rechte Zeichen geben\.[^bible-c4e5699e-be52-4a44-840f-a9f1eac06cd9]“ Auch Mose, selbst ein Prophet, sagt über die Alleinherrschaft Gottes: „Das ist euer Gott, der den Himmel festigt und die Erde erschafft, dessen Hände das ganze Heer des Himmels sichtbar gemacht haben\. Er hat euch die Gestirne nicht vor Augen gestellt, damit ihr ihnen nachfolgt\.[^bible-d9949ec4-9dbf-492e-91b4-82610199760e]“ Auch Jesaja sagt: „So spricht der Herr, Gott, der den Himmel gefestigt und die Erde samt allem, was auf ihr ist, gegründet hat, der dem Volk auf ihr Atem gibt und denen, die auf ihr gehen, Geist: Das ist der Herr, euer Gott\.[^bible-b781e14d-cda0-43a7-90e1-c721815b0c81]“ Und wiederum durch ihn: „Ich[^bible-13532567-3320-40e9-9864-58ca95299ec7]“, sagt er, „habe die Erde und den Menschen auf ihr gemacht; ich habe mit meiner Hand den Himmel gefestigt\.[^bible-13532567-3320-40e9-9864-58ca95299ec7]“ Und an anderer Stelle: „Das ist euer Gott, der die Enden der Erde geschaffen hat\. Er wird weder hungern noch ermüden, und seine Einsicht lässt sich nicht ergründen\.[^bible-7e21e53b-5a2f-4f59-ba2b-63f547fccdba]“ Ebenso sagt auch Jeremia: „Er hat die Erde durch seine Stärke gemacht, den Erdkreis durch seine Weisheit aufgerichtet und durch seine Einsicht den Himmel ausgespannt\. Im Himmel sind Wassermassen; er hat Wolken vom Ende der Erde heraufgeführt, Blitze für den Regen gemacht und Winde aus seinen Vorratskammern hervorgeholt\.[^bible-be15a09d-db05-4ac6-9ab9-a33068255e33]“
+
+Man sieht, wie einträchtig und übereinstimmend alle Propheten gesprochen haben: Aus ein und demselben Geist haben sie sich über die Alleinherrschaft Gottes, die Entstehung der Welt und die Erschaffung des Menschen ausgesprochen\. Doch nicht nur das: Sie litten auch wie in Wehen, trauerten über das gottlose Menschengeschlecht und beschämten diejenigen, die als weise galten, wegen ihres Irrtums und ihrer Herzensverhärtung\. Jeremia sagte: „Jeder Mensch ist durch sein Wissen dumm geworden; jeder Goldschmied steht wegen seiner Schnitzbilder beschämt da\. Vergebens bearbeitet der Silberschmied das Silber; kein Geist ist in ihnen\. Am Tag ihrer Heimsuchung werden sie zugrunde gehen\.[^bible-65190b3a-e393-4073-9270-8f73b6d516e8]“ Dasselbe sagt auch David: „Sie sind verdorben und durch ihr Handeln abscheulich geworden\. Niemand tut Gutes, nicht ein Einziger\. Alle sind abgewichen und allesamt unbrauchbar geworden\.[^bible-6b3418f5-50c1-49f5-a300-9fd53724237b]“ Ebenso auch Habakuk: „Was nützt einem Menschen ein Schnitzbild, das er als trügerisches Gebilde geschnitzt hat? Wehe dem, der zum Stein sagt:[^bible-2c086dc1-67fb-4fde-acf1-91ad46323ae5] ‚Erwache\![^bible-32ceddb1-095d-485c-beaf-55f50be44d48]‘ und zum Holz:[^bible-32ceddb1-095d-485c-beaf-55f50be44d48] ‚Erhebe dich\![^bible-32ceddb1-095d-485c-beaf-55f50be44d48]‘“ Ebenso sprachen auch die übrigen Propheten der Wahrheit\. Und warum sollte ich die ganze Schar der Propheten aufzählen? Es sind viele, und sie haben unzählige Aussagen gemacht, die miteinander im Einklang stehen und übereinstimmen\. Wer will, kann ihre Worte lesen, die Wahrheit genau erkennen und sich davor bewahren, durch eigenes Denken und vergebliches Mühen in die Irre geführt zu werden\. Die zuvor genannten Männer waren also Propheten unter den Hebräern: Menschen ohne Schulbildung, Hirten und einfache Leute\.
+
+## Bibelverweise
+
+[^bible-13532567-3320-40e9-9864-58ca95299ec7]: Jes 45,12
+[^bible-2c086dc1-67fb-4fde-acf1-91ad46323ae5]: Hab 2,18–Hab 2,19
+[^bible-32ceddb1-095d-485c-beaf-55f50be44d48]: Hab 2,19
+[^bible-65190b3a-e393-4073-9270-8f73b6d516e8]: Jer 10,14–Jer 10,15
+[^bible-6b3418f5-50c1-49f5-a300-9fd53724237b]: Ps 13,1; Ps 13,3
+[^bible-7e21e53b-5a2f-4f59-ba2b-63f547fccdba]: Jes 40,28
+[^bible-b781e14d-cda0-43a7-90e1-c721815b0c81]: Jes 42,5
+[^bible-be15a09d-db05-4ac6-9ab9-a33068255e33]: Jer 10,12–Jer 10,13
+[^bible-c4e5699e-be52-4a44-840f-a9f1eac06cd9]: Spr 4,25
+[^bible-d3018415-d607-4ed6-9b38-a934bdf4d8d3]: Ex 20,13–Ex 20,17
+[^bible-d9949ec4-9dbf-492e-91b4-82610199760e]: Dtn 4,19; Jes 42,5

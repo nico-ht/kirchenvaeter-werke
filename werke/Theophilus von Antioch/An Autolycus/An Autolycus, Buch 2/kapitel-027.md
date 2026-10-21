@@ -1,0 +1,10 @@
+# An Autolycus, Buch 2 – Kapitel 27: Gott schuf den Menschen weder sterblich noch unsterblich, sondern frei, durch Gehorsam ewiges Leben zu erlangen
+
+Autor: Theophilus von Antioch
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/theophilus-von-antioch/an-autolycus-buch-2#kapitel-9eb1188a-b540-4fd7-5d34-08df2e8543a2).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nun wird uns aber jemand fragen: „Wurde der Mensch seiner Natur nach sterblich erschaffen?“ Keineswegs\. „Was dann? Unsterblich?“ Auch das behaupten wir nicht\. Doch jemand wird einwenden: „War er dann also nichts?“ Auch das sagen wir nicht\. Er wurde also seiner Natur nach weder sterblich noch unsterblich erschaffen\. Hätte Gott ihn nämlich von Anfang an unsterblich geschaffen, hätte er ihn zu einem Gott gemacht\. Hätte er ihn dagegen sterblich geschaffen, würde Gott als Ursache seines Todes erscheinen\. Er schuf ihn also weder unsterblich noch sterblich, sondern, wie wir bereits oben gesagt haben, fähig, beides zu werden\. Dies geschah, damit er, wenn er sich dem zuwendet, was zur Unsterblichkeit führt, indem er Gottes Gebot hält, von ihm als Lohn die Unsterblichkeit empfängt und ein Gott wird, wenn er sich dagegen dem Tun zuwendet, das zum Tod führt, indem er Gott nicht gehorcht, selbst die Ursache seines Todes ist\. Denn Gott hat den Menschen frei und mit eigener Entscheidungsgewalt geschaffen\. Was er sich also durch Nachlässigkeit und Ungehorsam selbst verschafft hat, das schenkt ihm Gott nun in seiner Menschenliebe und Barmherzigkeit, wenn der Mensch ihm gehorcht\. Denn wie der Mensch durch seinen Ungehorsam den Tod auf sich gezogen hat, so kann jeder, der es will, das ewige Leben für sich erlangen, indem er dem Willen Gottes gehorcht\. Gott hat uns nämlich ein Gesetz und heilige Gebote gegeben\. Jeder, der sie befolgt, kann gerettet werden und die Unvergänglichkeit erben, nachdem er zur Auferstehung gelangt ist\.

@@ -22,6 +22,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Über das Fleisch Christi](%C3%9Cber%20das%20Fleisch%20Christi/) · 25 Kapitel
 - [Über das Gebet](%C3%9Cber%20das%20Gebet/) · 29 Kapitel
 - [Über das Zeugnis der Seele](%C3%9Cber%20das%20Zeugnis%20der%20Seele/) · 6 Kapitel
+- [Über den Götzendienst](%C3%9Cber%20den%20G%C3%B6tzendienst/) · 24 Kapitel
 - [Über den Mantel](%C3%9Cber%20den%20Mantel/) · 6 Kapitel
 - [Über die Buße](%C3%9Cber%20die%20Bu%C3%9Fe/) · 12 Kapitel
 - [Über die Seele](%C3%9Cber%20die%20Seele/) · 58 Kapitel

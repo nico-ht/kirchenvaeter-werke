@@ -168,6 +168,13 @@
     "contentRevision": "sha256:17cef119af3af3752a225cc5f4f55d84df7a477a2dbeaf23f496d6e9b4a7e416"
   },
   {
+    "workId": "19462cb5-30f6-4c19-326d-08dee5b603e4",
+    "authorName": "Asterius von Amaseia",
+    "title": "6. Homilie",
+    "directory": "werke/Asterius von Amaseia/Homilien/6. Homilie",
+    "contentRevision": "sha256:8bedd527675082d8ff098775dfb869219fac7eb1bc3d59d9a3230533eaf1c976"
+  },
+  {
     "workId": "299e3d4d-ad80-45b2-9f39-08dd1fa70005",
     "authorName": "Asterius von Amaseia",
     "title": "Predigt zu dem reichen Mann und Lazarus",
@@ -3325,6 +3332,13 @@
     "contentRevision": "sha256:cf821247a9bf10e9249a976b0fa429eb038737c57e3e1e2fb98d594b7c5529b4"
   },
   {
+    "workId": "32fd42fa-f2e4-450c-958c-08deb3464589",
+    "authorName": "Tertullian",
+    "title": "Über den Götzendienst",
+    "directory": "werke/Tertullian/Über den Götzendienst",
+    "contentRevision": "sha256:7c135543c1d9466060be922fd9f40de8a11364b1bc0c9f3ceea6dcce46ea6408"
+  },
+  {
     "workId": "3280f5d5-c553-401a-e6ff-08df282c8299",
     "authorName": "Tertullian",
     "title": "Über den Mantel",
@@ -3393,6 +3407,20 @@
     "title": "Psalm 4",
     "directory": "werke/Theodoret von Kyrrhos/Kommentare zu den Psalmen/Psalm 4",
     "contentRevision": "sha256:73fea3e25c980657bc40884816d936ef12e0754615b6595f748ffcbb2554434a"
+  },
+  {
+    "workId": "bbbc84a8-e965-4f93-9586-08deb3464589",
+    "authorName": "Theophilus von Antioch",
+    "title": "An Autolycus, Buch 1",
+    "directory": "werke/Theophilus von Antioch/An Autolycus/An Autolycus, Buch 1",
+    "contentRevision": "sha256:57ebdc258a2e5117deb894350a81a27d43863b1914798418a1fc763870290ed1"
+  },
+  {
+    "workId": "577daa5d-aaed-4da8-9587-08deb3464589",
+    "authorName": "Theophilus von Antioch",
+    "title": "An Autolycus, Buch 2",
+    "directory": "werke/Theophilus von Antioch/An Autolycus/An Autolycus, Buch 2",
+    "contentRevision": "sha256:5d5a7ef72fe4ef466030dcab5da2855375454868022c961a2ba02572ecfa80f8"
   },
   {
     "workId": "38f5d4f1-83ee-4250-0580-08df01ed0f99",
