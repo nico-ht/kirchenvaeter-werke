@@ -1,0 +1,24 @@
+# 27\. Homilie über Numeri – Kapitel 11: Elim bietet Erholung für weitere Mühen; in Sin lernt die Seele, Erscheinungen zu unterscheiden
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/27-homilie-ueber-numeri#kapitel-9f4f0734-2830-4060-c5ff-08df276bd631).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Es heißt: „Sie brachen von der Bitterkeit auf und kamen nach Elim\.[^bible-1d45bf59-57b2-4b9e-b8b9-73ae1e5a2325]“ In Elim gibt es zwölf Wasserquellen und zweiundsiebzig Palmen\.[^bible-1d45bf59-57b2-4b9e-b8b9-73ae1e5a2325] Du siehst, welch angenehme Orte dich nach der Bitterkeit, nach den Mühen der Versuchungen aufnehmen\! Du wärst nicht zu den Palmen gekommen, wenn du nicht die Bitterkeit der Versuchungen ertragen hättest, und auch nicht zur Süße der Quellen, wenn du nicht zuvor das Traurige und Harte überwunden hättest\. Doch hier sind das Ende der Reise und die Vollendung aller Dinge noch nicht erreicht\. Vielmehr hat Gott, der die Seelen lenkt, auf diesem Weg mitten in unseren Mühen einige Orte der Erholung angelegt, damit die Seele dort Erfrischung und neue Kraft findet und sich umso bereitwilliger wieder den Mühen zuwenden kann, die noch vor ihr liegen\. Elim bedeutet „Widder“\. Widder führen die Herden an\. Wer aber führt die Herde Christi an, wenn nicht die Apostel, die zugleich die zwölf Quellen sind? Da unser Herr und Retter aber nicht nur jene zwölf, sondern auch siebzig andere erwählte[^bible-e19ff16b-a60c-4700-9359-08fee163d878], werden nicht nur zwölf Quellen, sondern auch siebzig Palmen[^bible-1d45bf59-57b2-4b9e-b8b9-73ae1e5a2325] genannt\. Denn auch sie werden Apostel genannt, wie Paulus selbst sagt, wenn er die Auferstehung des Retters darlegt: „Er erschien jenen Zwölf, dann allen Aposteln\.[^bible-7528ca12-b0f3-46df-b888-70bf61324db5]“ Damit zeigt er, dass es außer jenen zwölf noch andere Apostel gibt\. Diese Annehmlichkeit erwartet dich also nach der Bitterkeit, diese Ruhe nach der Mühe, diese Gnade nach der Versuchung\. „Sie brachen von Elim auf und lagerten am Roten Meer\.[^bible-d002f4e2-ecda-4e63-9e66-b998ff4a6f69]“ Beachte, dass sie nicht in das Rote Meer hineingehen; es genügt, einmal hineingegangen zu sein\. Jetzt „lagern sie am Meer[^bible-d002f4e2-ecda-4e63-9e66-b998ff4a6f69]“, um das Meer zu sehen und seine Wellen zu betrachten, ohne seine Bewegungen und Anstürme im Geringsten zu fürchten\. „Und sie brachen vom Roten Meer auf und lagerten in der Wüste Sin\.[^bible-bf943c92-b365-41d8-aded-dfe2685dfd00]“ Sin bedeutet „Dornbusch“ oder „Versuchung“\. So beginnt dir nun die Hoffnung auf das Gute zuzulächeln\. Was aber ist diese Hoffnung auf das Gute? „Der Herr erschien aus dem Dornbusch[^bible-e26c4444-d95c-410f-99aa-7255646f4ad6]“ und gab Mose Antwort[^bible-35a8d62a-107c-4fa3-826d-037347f2a1e9]; damit begann der Herr, die Söhne Israels aufzusuchen\. Doch nicht ohne Grund bedeutet Sin auch „Versuchung“\. Denn Erscheinungen bringen gewöhnlich auch Versuchung mit sich\. Manchmal nämlich „verwandelt sich[^bible-4bec2ee3-3af7-4846-91ba-48344b3292b9]“ ein Engel der Bosheit „in einen Engel des Lichts[^bible-4bec2ee3-3af7-4846-91ba-48344b3292b9]“\. Deshalb muss man wachsam sein und große Sorgfalt walten lassen, damit du die Art der Erscheinungen mit Einsicht unterscheiden kannst\. So handelte auch Jesus, der Sohn Nuns, als er eine Erscheinung sah[^bible-1825aae9-0945-4af6-ae66-0d8ff351f126] und wusste, dass darin eine Versuchung lag\. Sofort fragte er den, der ihm erschienen war[^bible-1825aae9-0945-4af6-ae66-0d8ff351f126]: „Gehörst du zu uns oder zu den Widersachern?[^bible-1825aae9-0945-4af6-ae66-0d8ff351f126]“ Wenn die Seele also aufbricht und an den Ort gelangt, wo sie beginnt, zwischen Erscheinungen zu unterscheiden, wird sie sich dann als geistlich erweisen, wenn sie „alles zu beurteilen weiß[^bible-dd9bd5f6-5e0b-4722-8267-812d94908412]“\. Deshalb wird schließlich unter den geistlichen Gaben, die der Heilige Geist schenkt, auch die „Unterscheidung der Geister[^bible-fc34ce49-3eb4-471b-a447-05b58906db86]“ aufgeführt\.
+
+## Bibelverweise
+
+[^bible-1825aae9-0945-4af6-ae66-0d8ff351f126]: Jos 5,13
+[^bible-1d45bf59-57b2-4b9e-b8b9-73ae1e5a2325]: Num 33,9
+[^bible-35a8d62a-107c-4fa3-826d-037347f2a1e9]: Ex 3,4
+[^bible-4bec2ee3-3af7-4846-91ba-48344b3292b9]: 2Kor 11,14
+[^bible-7528ca12-b0f3-46df-b888-70bf61324db5]: 1Kor 15,5
+[^bible-bf943c92-b365-41d8-aded-dfe2685dfd00]: Num 33,11
+[^bible-d002f4e2-ecda-4e63-9e66-b998ff4a6f69]: Num 33,10
+[^bible-dd9bd5f6-5e0b-4722-8267-812d94908412]: 1Kor 2,15
+[^bible-e19ff16b-a60c-4700-9359-08fee163d878]: Lk 6,13; Lk 10,1
+[^bible-e26c4444-d95c-410f-99aa-7255646f4ad6]: Ex 3,2–Ex 3,4
+[^bible-fc34ce49-3eb4-471b-a447-05b58906db86]: 1Kor 12,10

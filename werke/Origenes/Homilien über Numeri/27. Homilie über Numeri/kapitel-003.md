@@ -1,0 +1,24 @@
+# 27\. Homilie über Numeri – Kapitel 3: Christi Abstieg durch zweiundvierzig Generationen weist uns den Weg des Aufstiegs zum verheißenen Erbe
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/27-homilie-ueber-numeri#kapitel-d9556cd3-64b6-4140-c5f7-08df276bd631).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Betrachte aber zunächst den Sinn des Geheimnisses\. Wer genau hinsieht, findet in den Schriften, dass die Söhne Israels bei ihrem Auszug aus Ägypten zweiundvierzig Wegstationen zurücklegten[^bible-1a9e180c-f37b-436b-a9bf-0221b1ec659b] und dass das Kommen unseres Herrn und Erlösers in diese Welt über zweiundvierzig Generationen nachgezeichnet wird[^bible-ccbf988b-f41b-4ff5-b84f-fb35e834e510]\. Denn das hält der Evangelist Matthäus fest, wenn er sagt: „Von Abraham bis zum König David vierzehn Generationen, von David bis zur Verschleppung nach Babylon vierzehn Generationen und von der Verschleppung nach Babylon bis zu Christus vierzehn Generationen\.[^bible-ccbf988b-f41b-4ff5-b84f-fb35e834e510]“ Wer aus Ägypten hinaufsteigt, legt also zweiundvierzig Wegstationen zurück[^bible-1a9e180c-f37b-436b-a9bf-0221b1ec659b]\. Das entspricht den zweiundvierzig Generationen[^bible-ccbf988b-f41b-4ff5-b84f-fb35e834e510], die Christus wie Wegstationen durchlief, als er in das Ägypten dieser Welt herabstieg\. Und Mose hat dies sehr sorgfältig festgehalten, wenn er sagt: „Die Söhne Israels stiegen mit ihrer Kraft hinauf\.[^bible-80a635a5-c31b-43ad-bbbc-a5e5f47da069]“ Was ist ihre „Kraft[^bible-80a635a5-c31b-43ad-bbbc-a5e5f47da069]“ anderes als Christus selbst, der die „Kraft Gottes[^bible-54a6d015-dc12-4442-83c4-fd5d9932e33b]“ ist? Wer hinaufsteigt, steigt also mit dem hinauf, der von dort zu uns herabgestiegen ist, damit er den Ort erreichen kann, von dem jener herabstieg, nicht aus Zwang, sondern aus Würde\. So soll sich das Wort bewahrheiten: „Der herabgestiegen ist, ist derselbe, der auch hinaufgestiegen ist\.[^bible-d0131e36-b8aa-4c16-aace-d6e5f666a36a]“ Die Söhne Israels gelangen also über zweiundvierzig Wegstationen dorthin, wo sie ihr Erbe in Besitz zu nehmen beginnen[^bible-1a9e180c-f37b-436b-a9bf-0221b1ec659b]\. Tatsächlich begann diese Besitznahme damit, dass Ruben, Gad und der halbe Stamm Manasse das Land Gilead erhielten[^bible-9f25a3a0-2fe0-46b1-928f-9001bed73ec2]\. So ergibt sich die Zahl für den Abstieg Christi aus zweiundvierzig Vätern dem Fleisch nach[^bible-3522e1ce-c0ce-44f2-9d57-2ebf2dd0554c], gleichsam aus zweiundvierzig Wegstationen dessen, der zu uns herabsteigt\. Und dieselbe Zahl von Wegstationen bestimmt den Aufstieg der Söhne Israels bis zu dem Punkt, an dem sie das verheißene Erbe in Besitz zu nehmen beginnen\. Wenn du verstanden hast, welch großes Geheimnis diese Zahl des Abstiegs und des Aufstiegs enthält, dann komm: Beginnen wir nun, auf den Wegen hinaufzusteigen, auf denen Christus herabgestiegen ist\. Legen wir als erste die Wegstation zurück, die er als allerletzte zurücklegte, nämlich die, auf der er von der Jungfrau geboren wurde[^bible-491ddb9f-dd97-4cad-8951-00f82ed43096]\. Das soll die erste Wegstation für uns sein, die wir aus Ägypten ausziehen wollen\. Auf ihr haben wir den Götzenkult und die Verehrung von Dämonen, nicht von Göttern[^bible-66d5a3b4-0a19-4622-829f-efc80601b08d], aufgegeben und sind zu dem Glauben gekommen, dass Christus von der Jungfrau und dem Heiligen Geist geboren wurde[^bible-323f513f-12c5-4a0f-9bfa-6c35cda24465] und dass das fleischgewordene Wort in diese Welt kam[^bible-89bcd596-f00a-495c-ae92-865be5dcbb60]\. Danach wollen wir uns nun bemühen, voranzuschreiten und die Stufen des Glaubens und der Tugenden eine nach der anderen hinaufzusteigen\. Wenn wir auf ihnen jeweils so lange verweilen, bis wir zur Vollkommenheit gelangen, wird man sagen, dass wir auf jeder Stufe der Tugenden eine Wegstation zurückgelegt haben, bis sich die Verheißung des Erbes erfüllt, wenn wir die Höhe unserer Unterweisung und den Gipfel unseres Fortschritts erreichen\.
+
+## Bibelverweise
+
+[^bible-1a9e180c-f37b-436b-a9bf-0221b1ec659b]: Num 33,1–Num 33,49
+[^bible-323f513f-12c5-4a0f-9bfa-6c35cda24465]: Mt 1,18–Mt 1,23
+[^bible-3522e1ce-c0ce-44f2-9d57-2ebf2dd0554c]: Mt 1,1–Mt 1,17
+[^bible-491ddb9f-dd97-4cad-8951-00f82ed43096]: Mt 1,23
+[^bible-54a6d015-dc12-4442-83c4-fd5d9932e33b]: 1Kor 1,24
+[^bible-66d5a3b4-0a19-4622-829f-efc80601b08d]: Dtn 32,17
+[^bible-80a635a5-c31b-43ad-bbbc-a5e5f47da069]: Num 33,1
+[^bible-89bcd596-f00a-495c-ae92-865be5dcbb60]: Joh 1,9–Joh 1,14
+[^bible-9f25a3a0-2fe0-46b1-928f-9001bed73ec2]: Num 32,33–Num 32,40
+[^bible-ccbf988b-f41b-4ff5-b84f-fb35e834e510]: Mt 1,17
+[^bible-d0131e36-b8aa-4c16-aace-d6e5f666a36a]: Eph 4,10
