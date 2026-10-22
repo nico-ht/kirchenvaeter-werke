@@ -1,0 +1,10 @@
+# Das Leben der Makrina – Kapitel 3: Makrina wird durch die Schrift statt durch weltliche Dichtung gebildet; Psalmen begleiten ihren Alltag
+
+Autor: Gregor von Nyssa
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nyssa/gregor-von-nyssa-das-leben-der-makrina#kapitel-fe1cc8b8-8bf6-4137-6087-08df2f517b64).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+So wuchs das Kind heran\. Es hatte zwar eine eigene Amme, doch meist pflegte es die Mutter mit eigenen Händen\. Als das Mädchen dem Kleinkindalter entwachsen war, lernte es leicht, was Kinder zu lernen hatten\. Was es nach dem Ermessen der Eltern auch lernen sollte, darin zeigte sich stets seine glänzende Begabung\. Der Mutter lag viel daran, ihre Tochter zu bilden, allerdings nicht durch jene übliche weltliche Bildung, die den Kindern in den ersten Unterrichtsjahren meist anhand von Dichtungen vermittelt wird\. Denn sie hielt es für schändlich und ganz unangebracht, eine zarte, leicht formbare Natur mit den Leidensgeschichten der Tragödien vertraut zu machen, für die Frauen den Dichtern Anlass und Stoff geliefert hatten, oder mit den Schamlosigkeiten der Komödien oder den Ursachen des Unheils vor Troja\. Durch die unanständigen Erzählungen über Frauen würde sie gewissermaßen beschmutzt\. Stattdessen lernte das Mädchen jene Teile der von Gott eingegebenen Schrift, die für die ersten Lebensjahre leichter verständlich erschienen, vor allem die Weisheit Salomos und darin besonders das, was zu einer sittlichen Lebensführung beitrug\. Auch die in Psalmen gesungene Schrift kannte sie vollständig\. Die einzelnen Teile des Psalmengesangs sang sie zu den jeweils passenden Zeiten: wenn sie vom Bett aufstand, sich ihren Pflichten widmete oder ausruhte, wenn sie Nahrung zu sich nahm oder vom Tisch aufstand, wenn sie zu Bett ging oder sich zum Gebet erhob\. Überall hatte sie den Psalmengesang wie einen guten Gefährten bei sich, der sie zu keiner Zeit verließ\.

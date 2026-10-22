@@ -1,0 +1,10 @@
+# Das Leben der Makrina – Kapitel 4: Makrinas Vater wählt einen tugendhaften Bräutigam, doch dessen früher Tod vereitelt die Heirat
+
+Autor: Gregor von Nyssa
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nyssa/gregor-von-nyssa-das-leben-der-makrina#kapitel-0869afdd-d449-484c-6088-08df2f517b64).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Mit diesen und ähnlichen Beschäftigungen wuchs sie heran, erwarb besondere Fertigkeit in der Wollverarbeitung und trat in ihr zwölftes Lebensjahr ein, in dem die Blüte der Jugend besonders zu erstrahlen beginnt\. Dabei war es erstaunlich, wie die Schönheit des Mädchens selbst im Verborgenen nicht unbemerkt blieb\. In ihrer ganzen Heimat schien nichts so bewundernswert wie ihre Schönheit und Wohlgestalt; nicht einmal die Hände der Maler konnten ihre blühende Schönheit wiedergeben\. Die Kunst, die alles ersinnt und sich an das Größte wagt, sodass sie sogar die Elemente selbst im Bild nachzubilden vermag, war außerstande, die Schönheit dieser Gestalt getreu nachzuahmen\. Deshalb umringte ein großer Schwarm von Freiern ihre Eltern\. Ihr Vater aber, ein besonnener Mann mit geübtem Urteil für das Gute, wählte unter den Bewerbern einen angesehenen jungen Mann aus der Verwandtschaft aus, der für seine Selbstbeherrschung bekannt war und gerade von seiner Ausbildung zurückgekehrt war\. Er beschloss, ihm seine Tochter zu verloben, wenn sie das heiratsfähige Alter erreichte\. Inzwischen lebte der junge Mann in den besten Hoffnungen\. Das Ansehen, das er durch seine Redekunst erwarb, brachte er dem Vater des Mädchens gleichsam als eine willkommene Brautgabe dar, indem er in Rechtsstreitigkeiten für Menschen, denen Unrecht geschah, die Macht seiner Worte bewies\. Doch der Neid machte diese besten Hoffnungen zunichte, indem er ihn in beklagenswert jungen Jahren aus dem Leben riss\.

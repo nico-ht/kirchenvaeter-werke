@@ -1,0 +1,47 @@
+# Das Leben der Makrina
+
+Gregor von Nyssa
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nyssa/gregor-von-nyssa-das-leben-der-makrina) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- [Kapitel 1: Das tugendhafte Leben der Schwester soll nicht vergessen werden, sondern späteren Generationen nützen](kapitel-001.md)
+- [Kapitel 2: Makrinas verborgener Name Thekla kündigt ihre Geistesverwandtschaft mit der berühmten Jungfrau an](kapitel-002.md)
+- [Kapitel 3: Makrina wird durch die Schrift statt durch weltliche Dichtung gebildet; Psalmen begleiten ihren Alltag](kapitel-003.md)
+- [Kapitel 4: Makrinas Vater wählt einen tugendhaften Bräutigam, doch dessen früher Tod vereitelt die Heirat](kapitel-004.md)
+- [Kapitel 5: Makrina bleibt ihrem verstorbenen Bräutigam treu und führt ihre Mutter zu einem Leben der Entsagung](kapitel-005.md)
+- [Kapitel 6: Makrina gewinnt den stolzen Redner Basilius für ein tugendhaftes Leben in Handarbeit und Besitzlosigkeit](kapitel-006.md)
+- [Kapitel 7: Makrina bewegt ihre Mutter, mit früheren Sklavinnen als gleichgestellten Schwestern zu leben](kapitel-007.md)
+- [Kapitel 8: Naukratios verbindet besitzlose Einsamkeit mit der Sorge für arme Alte und dem Dienst an seiner Mutter](kapitel-008.md)
+- [Kapitel 9: Naukratios’ plötzlicher Tod lässt die Mutter trotz ihrer Tugend unter dem Schmerz zusammenbrechen](kapitel-009.md)
+- [Kapitel 10: Trotz eigener Trauer führt Makrina ihre Mutter durch Vernunft und Vorbild zu Geduld und Tapferkeit](kapitel-010.md)
+- [Kapitel 11: Makrinas Gemeinschaft lebt trotz ihrer Leiblichkeit engelgleich, frei von Leidenschaften und ganz Gott zugewandt](kapitel-011.md)
+- [Kapitel 12: Makrina erzieht Petrus zur Tugend; er stützt ihr asketisches Leben und versorgt die Hungernden](kapitel-012.md)
+- [Kapitel 13: Sterbend bringt die Mutter Gott ihre Erstgeborene als Erstlingsgabe und ihren jüngsten Sohn als Zehnten dar](kapitel-013.md)
+- [Kapitel 14: Wie Gold im Schmelztiegel bewährt sich Makrinas Seele auch in der Trauer um Basilius](kapitel-014.md)
+- [Kapitel 15: Ein Traum von leuchtenden Märtyrerreliquien lässt Gregor vor dem Wiedersehen mit Makrina Leid ahnen](kapitel-015.md)
+- [Kapitel 16: Gregor findet die schwerkranke Makrina nicht im Bett, sondern auf Sacktuch und Brettern am Boden](kapitel-016.md)
+- [Kapitel 17: Die schwerkranke Makrina tröstet Gregor mit Betrachtungen über Gottes Fügung und das künftige Leben](kapitel-017.md)
+- [Kapitel 18: Wie Hiob spricht Makrina trotz schwersten körperlichen Leidens ungehindert über Seele und Auferstehung](kapitel-018.md)
+- [Kapitel 19: Makrina spricht von Besserung, weil sie im nahen Tod den himmlischen Siegespreis erwartet](kapitel-019.md)
+- [Kapitel 20: Makrina dankt Gott für den Wohlstand ihrer Familie und die Mittel zum Geben trotz verschenkten Erbes](kapitel-020.md)
+- [Kapitel 21: Makrina mahnt Gregor, sein Ansehen in den Kirchen als Gottes Gnade durch die Gebete seiner Eltern zu erkennen](kapitel-021.md)
+- [Kapitel 22: Makrinas furchtloser Abschied vom Leben offenbart ihre Liebe zum unsichtbaren Bräutigam](kapitel-022.md)
+- [Kapitel 23: Die sterbende Makrina beendet das Gespräch mit den Anwesenden und spricht nun im Gebet zu Gott](kapitel-023.md)
+- [Kapitel 24: Makrina preist Christi Sieg über den Tod und bittet um Vergebung und Aufnahme ihrer Seele](kapitel-024.md)
+- [Kapitel 25: Mit dem stillen Dankgebet zum Abendlicht endet Makrinas Leben; ihr Leib bedarf keiner ordnenden Hand](kapitel-025.md)
+- [Kapitel 26: Die Jungfrauen beklagen Makrinas Tod, als seien ihnen die Hoffnung auf Gott und das Seelenheil genommen](kapitel-026.md)
+- [Kapitel 27: Gregor erinnert an Makrinas Weisungen und ruft die Jungfrauen auf, ihre Klage in Psalmengesang zu verwandeln](kapitel-027.md)
+- [Kapitel 28: Vetiana mahnt, Makrinas Willen auch beim Schmuck ihres Leichnams zu achten](kapitel-028.md)
+- [Kapitel 29: Makrina hinterlässt nur ihre Kleidung, doch Gregor darf als Bruder und Priester ihren Leichnam schmücken](kapitel-029.md)
+- [Kapitel 30: Gregor erhält Makrinas eisernen Ring, dessen Kreuzsiegel auf das verborgene Holz des Lebens verweist](kapitel-030.md)
+- [Kapitel 31: Ein Mal an Makrinas Brust erinnert an Gottes heilende Hilfe durch Gebet und das heilige Siegel](kapitel-031.md)
+- [Kapitel 32: Makrinas Leib strahlt auch im dunklen Gewand – Gregor sieht darin Gottes Gnade](kapitel-032.md)
+- [Kapitel 33: Makrinas Totenwache gleicht einem Märtyrerfest; Gregor vereint die herbeigeströmte Menge zum Psalmengesang](kapitel-033.md)
+- [Kapitel 34: Makrinas feierlicher Leichenzug mündet in Klage, bevor die Gemeinde mühsam zum Gebet zurückfindet](kapitel-034.md)
+- [Kapitel 35: Makrinas Beisetzung neben der Mutter erfüllt beider Wunsch nach Gemeinschaft auch im Tod](kapitel-035.md)
+- [Kapitel 36: Ein verwandter Heerführer würdigt Makrinas Leben und beginnt den abschließenden Wunderbericht](kapitel-036.md)
+- [Kapitel 37: Makrina verspricht den Eltern eines augenkranken Kindes ein Heilmittel, wenn sie zum Mahl bleiben](kapitel-037.md)
+- [Kapitel 38: Makrinas Gebet heilt das Auge des Kindes und macht die Heilungswunder des Evangeliums glaubhaft](kapitel-038.md)
+- [Kapitel 39: Gregor lässt größere Wunder unerzählt, um Glaubensschwache vor dem Unglauben an Gottes Gaben zu bewahren](kapitel-039.md)

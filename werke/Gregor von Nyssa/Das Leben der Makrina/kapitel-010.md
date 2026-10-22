@@ -1,0 +1,10 @@
+# Das Leben der Makrina – Kapitel 10: Trotz eigener Trauer führt Makrina ihre Mutter durch Vernunft und Vorbild zu Geduld und Tapferkeit
+
+Autor: Gregor von Nyssa
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nyssa/gregor-von-nyssa-das-leben-der-makrina#kapitel-6db89d03-ed0e-4491-608e-08df2f517b64).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Darin zeigte sich die Tugend der großen Makrina: Sie stellte dem Schmerz die Vernunft entgegen und blieb selbst unerschütterlich\. Zugleich stützte sie die Mutter in ihrer Schwäche und zog sie wieder aus der Tiefe der Trauer empor, indem sie durch ihre eigene Festigkeit und Unbeugsamkeit auch die Seele der Mutter zur Tapferkeit schulte\. So ließ sich die Mutter nicht vom Schmerz fortreißen und gab sich keiner unwürdigen und weibischen Regung hin: Sie schrie angesichts des Unglücks nicht auf, zerriss nicht ihr Gewand, brach nicht in Wehklagen über das Geschehene aus und fachte ihr Klagen nicht durch Trauergesänge an\. Vielmehr hielt sie still aus und wehrte die Anstürme ihrer menschlichen Natur mit vernünftigen Gedanken ab, sowohl mit ihren eigenen als auch mit denen, die ihre Tochter ihr zusprach, um ihren Schmerz zu heilen\. Gerade damals zeigte sich die Größe und Erhabenheit der Seele dieser Jungfrau besonders deutlich\. Denn auch sie litt, wie es der menschlichen Natur entspricht: Derjenige, den der Tod auf solche Weise hinweggerafft hatte, war ja ihr Bruder, und unter den Brüdern der besonders geliebte\. Dennoch erhob sie sich über die menschliche Natur, zog mit ihren eigenen vernünftigen Gedanken die Mutter zu sich empor und hob sie über den Schmerz hinaus\. Durch ihr eigenes Vorbild erzog sie die Mutter zu Geduld und Tapferkeit\. Überdies ließ ihr Leben, das sich durch die Tugend immer höher erhob, der Mutter keinen Raum, mehr um den Verlorenen zu trauern als sich über das Gute zu freuen, das sie vor Augen hatte\.
