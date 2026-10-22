@@ -11,4 +11,5 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Einzelwerke
 
 - [Brief 2: Über Pilgerreisen](Brief%202%20%C3%9Cber%20Pilgerreisen/) · 1 Kapitel
+- [Das Leben der Makrina](Das%20Leben%20der%20Makrina/) · 39 Kapitel
 - [Über die Seele und die Auferstehung](%C3%9Cber%20die%20Seele%20und%20die%20Auferstehung/) · 1 Kapitel

@@ -1,0 +1,10 @@
+# An Autolycus, Buch 3 – Kapitel 16: Platons Angaben zur Vorzeit beruhen nach seinem eigenen Eingeständnis nur auf Vermutungen
+
+Autor: Theophilus von Antioch
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/theophilus-von-antioch/an-autolycus-buch-3#kapitel-6194c02b-32ed-4c27-0957-08df1c1e7919).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ich will dir nun aber mit Gottes Hilfe die Zeitabschnitte der Geschichte genauer darlegen, damit du siehst, dass unsere Lehre weder neu noch erdichtet ist, sondern älter und wahrer als alle Dichter und Schriftsteller, die im Ungewissen geschrieben haben\. Denn manche behaupteten, die Welt sei ungeworden, und gerieten ins Unendliche; andere erklärten, sie sei geschaffen, und sagten, es seien bereits 153\.075 Jahre vergangen\. Das behauptet Apollonius der Ägypter\. Und Platon, der als der weiseste der Griechen gilt, in welchen Unsinn ist er geraten? In seinem Buch mit dem Titel „Der Staat“ sagt er ausdrücklich: „Denn wenn die Dinge zu aller Zeit in ihrer gegenwärtigen Ordnung geblieben wären, wann hätte man dann je etwas Neues entdecken können? Zehntausendmal zehntausend Jahre sind ohne Aufzeichnung verstrichen, und tausend oder zweimal so viele Jahre sind vergangen, seit einiges von Dädalus, einiges von Orpheus und einiges von Palamedes entdeckt wurde\.“ Und wenn er sagt, dass dies geschehen sei, gibt er damit zu verstehen, dass von der Flut bis Dädalus zehntausendmal zehntausend Jahre verstrichen seien\. Und nachdem er viel über die Städte der Welt, die Siedlungen und die Völker gesagt hat, gesteht er, dass er dies nur vermutungsweise gesagt habe\. Denn er sagt: „Wenn uns nun, mein Freund, ein Gott verspräche, dass, wenn wir eine Untersuchung der Gesetzgebung versuchten, das jetzt Gesagte usw\.“; das zeigt, dass er nur mutmaßte; und wenn er mutmaßte, dann ist nicht wahr, was er sagt\.

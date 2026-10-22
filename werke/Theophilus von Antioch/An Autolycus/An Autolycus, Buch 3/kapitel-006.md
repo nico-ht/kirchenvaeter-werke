@@ -1,0 +1,10 @@
+# An Autolycus, Buch 3 – Kapitel 6: Philosophen empfehlen Geschlechtsverkehr, den die Gesetze der Griechen und Römer verbieten
+
+Autor: Theophilus von Antioch
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/theophilus-von-antioch/an-autolycus-buch-3#kapitel-07f6d9d9-36d0-42d6-5d44-08df2e8543a2).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Denn auch über gesetzloses Handeln herrscht bei fast allen Einigkeit, die sich im Reigen der Philosophie verirrt haben\. Allen voran legt Platon, der unter ihnen als besonders ernsthafter Philosoph gilt, im ersten Buch seines Werkes Der Staat ausdrücklich und gewissermaßen als Gesetz fest, dass die Frauen allen Männern gemeinsam gehören sollen\. Dabei nimmt er sich den Gesetzgeber des Zeus und der Kreter zum Vorbild, unter dem Vorwand, dass auf diese Weise viele Kinder gezeugt werden, und mit der Behauptung, man müsse angeblich die Betrübten durch solchen Verkehr trösten\. Auch Epikur lehrt nicht nur Gottlosigkeit, sondern rät dazu, mit Müttern und Schwestern zu schlafen, und das entgegen den Gesetzen, die dies verbieten\. Solon hat nämlich auch darüber ein klares Gesetz erlassen: Die Kinder sollen rechtmäßig vom Ehemann abstammen und nicht im Ehebruch gezeugt werden, damit niemand einen Mann als Vater ehrt, der nicht sein Vater ist, oder seinem wirklichen Vater die Ehre versagt, weil er ihn nicht als seinen Vater kennt\. Und wie viele weitere Gesetze der Römer und der Griechen verbieten solche Handlungen\! Warum also lehren Epikur und die Stoiker, man solle mit Geschwistern und mit Männern schlafen? Mit solchen Lehren haben sie Bibliotheken gefüllt, damit man von Kindheit an gesetzlosen Geschlechtsverkehr erlernt\. Und wozu soll ich mich noch weiter mit ihnen abmühen, da sie ja auch von denen, die sie Götter nennen, dergleichen berichtet haben?

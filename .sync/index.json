@@ -581,6 +581,13 @@
     "contentRevision": "sha256:d986d501e2d0f756986658f31e400c70d89520b7d8aee953ff95a60724a0d773"
   },
   {
+    "workId": "c0852d75-d223-450e-ccc5-08dd2abb5377",
+    "authorName": "Cyprian von Karthago",
+    "title": "Über die Sinnlosigkeit der Götzen",
+    "directory": "werke/Cyprian von Karthago/Über die Sinnlosigkeit der Götzen",
+    "contentRevision": "sha256:d535b9bd12d4cfa528ec4a7ed2cf63a22249c0615ae149f939a02ec31c3aa8f4"
+  },
+  {
     "workId": "3a1119bb-7adb-4c0c-ccc6-08dd2abb5377",
     "authorName": "Cyprian von Karthago",
     "title": "Über die Sterblichkeit",
@@ -803,6 +810,13 @@
     "title": "Brief 2: Über Pilgerreisen",
     "directory": "werke/Gregor von Nyssa/Brief 2 Über Pilgerreisen",
     "contentRevision": "sha256:ab7c9091f076604a9257eae44a64fcdef1952e68e44400ba7ed27d9b91de7036"
+  },
+  {
+    "workId": "961d938b-02d2-4028-84a2-08df2f513805",
+    "authorName": "Gregor von Nyssa",
+    "title": "Das Leben der Makrina",
+    "directory": "werke/Gregor von Nyssa/Das Leben der Makrina",
+    "contentRevision": "sha256:5dbef2c0e6b92811487c4a2de36de2dea3ec64b7c0a7969c660b05b1b8b038bf"
   },
   {
     "workId": "a3e869e2-8b5a-44d5-b52e-08ded8738df9",
@@ -1988,6 +2002,13 @@
     "contentRevision": "sha256:1324b51d2fbf4eb40c8b8aa38f920cb20081811fb95d4d896e84b8c71cbdacb6"
   },
   {
+    "workId": "df7b689f-fe1e-4088-ee65-08df2e803468",
+    "authorName": "Lucifer von Calaris",
+    "title": "Über abtrünnige Könige",
+    "directory": "werke/Lucifer von Calaris/Über abtrünnige Könige",
+    "contentRevision": "sha256:af8dc85bdf7d51b031e8a1dc37eca568282e71af00edb57ef3f23290de1ae231"
+  },
+  {
     "workId": "acf39bc7-ab45-4fe4-8ca3-08dd754e948a",
     "authorName": "Makarius der Ägypter",
     "title": "Über die Bewahrung des Herzens",
@@ -2975,6 +2996,13 @@
     "contentRevision": "sha256:b4b2dc628aa61c5e9465ed3c768bfc4ea21213358b65bb38b7f079cf85890890"
   },
   {
+    "workId": "f842e8be-597d-40b8-ed3c-08df2f39487f",
+    "authorName": "Pacian von Barcelona",
+    "title": "Predigt über die Taufe",
+    "directory": "werke/Pacian von Barcelona/Predigt über die Taufe",
+    "contentRevision": "sha256:c488450c575a36a9b8e9aa4bfb544ce8b82a4fd2678ffeb8946fffa2b32b62a0"
+  },
+  {
     "workId": "a0496def-8fc2-4ccf-6d28-08ddd84180a6",
     "authorName": "Palladius von Helenopolis",
     "title": "Dialog über das Leben von Johannes Chrysostomos",
@@ -3421,6 +3449,13 @@
     "title": "An Autolycus, Buch 2",
     "directory": "werke/Theophilus von Antioch/An Autolycus/An Autolycus, Buch 2",
     "contentRevision": "sha256:5d5a7ef72fe4ef466030dcab5da2855375454868022c961a2ba02572ecfa80f8"
+  },
+  {
+    "workId": "b0e6d17f-4d46-4c27-74fc-08df1c1edfbc",
+    "authorName": "Theophilus von Antioch",
+    "title": "An Autolycus, Buch 3",
+    "directory": "werke/Theophilus von Antioch/An Autolycus/An Autolycus, Buch 3",
+    "contentRevision": "sha256:2284ae8b26e57662d86eb9452c392209e03ac4e4cfc07b4d07d7c2cf7386101b"
   },
   {
     "workId": "38f5d4f1-83ee-4250-0580-08df01ed0f99",

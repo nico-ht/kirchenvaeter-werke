@@ -6,4 +6,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [An Autolycus](An%20Autolycus/) · 2 Werke
+- [An Autolycus](An%20Autolycus/) · 3 Werke
