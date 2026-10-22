@@ -392,6 +392,13 @@
     "contentRevision": "sha256:4a7d2ce55f3807189bbd4d9b9bb665b0ada439cd8d3ae8aad3664efb7a923452"
   },
   {
+    "workId": "1daf3e0d-0c0f-47fe-88ad-08de40e436ae",
+    "authorName": "Clemens von Alexandria",
+    "title": "Prophetische Auszüge",
+    "directory": "werke/Clemens von Alexandria/Prophetische Auszüge",
+    "contentRevision": "sha256:caf6d84042d171accc5e10d12023a4534f6fbb638ff120dcf4a4563923adedff"
+  },
+  {
     "workId": "055fb200-5181-435f-9d4c-08dda210d6e0",
     "authorName": "Clemens von Alexandria",
     "title": "Stromata, Buch 1",
@@ -798,6 +805,13 @@
     "contentRevision": "sha256:d54e46f223584c75c449ff8148dd5b61a3834f0b9f6d5bc5828b55adc6a25f3e"
   },
   {
+    "workId": "4ff58880-b1c8-41cc-ddf4-08defeba7d78",
+    "authorName": "Gregor von Nazianz",
+    "title": "An Nemesius",
+    "directory": "werke/Gregor von Nazianz/Gedichte über andere/An Nemesius",
+    "contentRevision": "sha256:5cc6273d18774be2e3c4605fca1ac26688df8294515ea9ed17b28776df8a6e30"
+  },
+  {
     "workId": "9e9522a8-3a38-4bea-ddf3-08defeba7d78",
     "authorName": "Gregor von Nazianz",
     "title": "Ermahnung an Olympias",
@@ -809,7 +823,7 @@
     "authorName": "Gregor von Nyssa",
     "title": "Brief 2: Über Pilgerreisen",
     "directory": "werke/Gregor von Nyssa/Brief 2 Über Pilgerreisen",
-    "contentRevision": "sha256:ab7c9091f076604a9257eae44a64fcdef1952e68e44400ba7ed27d9b91de7036"
+    "contentRevision": "sha256:82cda7fbfc9e8420b12f6602eea00b0c8f847db741dab66d751d998218269a4a"
   },
   {
     "workId": "961d938b-02d2-4028-84a2-08df2f513805",
@@ -838,6 +852,13 @@
     "title": "Über die Seele und die Auferstehung",
     "directory": "werke/Gregor von Nyssa/Über die Seele und die Auferstehung",
     "contentRevision": "sha256:f5c78d5d7073ff4f9315b6621bfa8752d214f649c0a729a8054fe25f565b414a"
+  },
+  {
+    "workId": "cf81dedb-0a9a-4c71-ffcd-08df3004285f",
+    "authorName": "Gregor von Nyssa",
+    "title": "Über die drei Tage zwischen Tod und Auferstehung",
+    "directory": "werke/Gregor von Nyssa/Homilien/Über die drei Tage zwischen Tod und Auferstehung",
+    "contentRevision": "sha256:04c4a8bee6be3bd7cd43f1122be49d6d1d6fcac2f1197108fa4f0eba5f15100c"
   },
   {
     "workId": "07b8ea1d-e055-460f-e4c8-08dd0635942f",
@@ -1953,6 +1974,13 @@
     "contentRevision": "sha256:0f36ee00d9f6062f0a42665489bf8c473b49d9afc72652dabf4f28f68fa08222"
   },
   {
+    "workId": "7d74ab05-eee2-4446-3f0c-08debe4b9d6c",
+    "authorName": "Justin der Märtyrer",
+    "title": "Über die Auferstehung",
+    "directory": "werke/Justin der Märtyrer/Über die Auferstehung",
+    "contentRevision": "sha256:d1e1d332c5bf64513881174a8232f44a114b55d7259a161b96cd1e305a1b49ac"
+  },
+  {
     "workId": "56a32181-f998-45d1-2d0b-08dd14605f00",
     "authorName": "Kyrill von Jerusalem",
     "title": "1. Katechetische Vorlesung",
@@ -1972,6 +2000,20 @@
     "title": "Göttliche Unterweisungen, Buch 1",
     "directory": "werke/Laktanz/Göttliche Unterweisungen/Göttliche Unterweisungen, Buch 1",
     "contentRevision": "sha256:68d662f49a85338a599a34cb88251758745c8d76957903d6d6517bc2ed5c215f"
+  },
+  {
+    "workId": "eebf76cb-e59f-4b68-21c8-08df23296889",
+    "authorName": "Laktanz",
+    "title": "Göttliche Unterweisungen, Buch 5",
+    "directory": "werke/Laktanz/Göttliche Unterweisungen/Göttliche Unterweisungen, Buch 5",
+    "contentRevision": "sha256:3b98fcdd0e941b9161b5303ef89470d1f19b440292ff8c4e870597ce352bdde5"
+  },
+  {
+    "workId": "10d6fc22-b782-4892-3f0e-08debe4b9d6c",
+    "authorName": "Laktanz",
+    "title": "Göttliche Unterweisungen, Buch 6",
+    "directory": "werke/Laktanz/Göttliche Unterweisungen/Göttliche Unterweisungen, Buch 6",
+    "contentRevision": "sha256:cdd1b7f7ea19b8a598564d8a666f4974c767c06ef76b4b030497cfa6f1ea9499"
   },
   {
     "workId": "71508636-9b83-46e7-74fd-08df1c1edfbc",
@@ -2359,6 +2401,13 @@
     "contentRevision": "sha256:f7de36df93c6227087e69b633575ac9ef85a04652d5afcc4f8cad17418e52765"
   },
   {
+    "workId": "87661978-ea8e-4fc9-a27e-08dee664dc0b",
+    "authorName": "Origenes",
+    "title": "12. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/12. Homilie über Numeri",
+    "contentRevision": "sha256:80e17da4c92820fb43a75af343a3574a50b8193f08120b08129db75869c9ab86"
+  },
+  {
     "workId": "11b5f40f-fcb9-4f1a-7fe5-08de432eeccb",
     "authorName": "Origenes",
     "title": "12. Predigt zu Exodus",
@@ -2427,6 +2476,13 @@
     "title": "15. Homilie über Levitikus",
     "directory": "werke/Origenes/Homilien über Levitikus/15. Homilie über Levitikus",
     "contentRevision": "sha256:66d31d250ac8e7017bd8c607d954b89a08fa9e2ec98d2eaf3254d0298a664d0e"
+  },
+  {
+    "workId": "496e5fc5-1b00-4d13-4a8e-08dee4f1cc9d",
+    "authorName": "Origenes",
+    "title": "15. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/15. Homilie über Numeri",
+    "contentRevision": "sha256:3f98e4a6aaf54fbde4cd52170fb61918324fb5d81aea627e5a14fdaaa3a40575"
   },
   {
     "workId": "23e3800c-3ec9-4257-0f88-08de01f65af8",
@@ -2576,6 +2632,13 @@
     "contentRevision": "sha256:c026a9605b28aea3530dada049b0b806eed0289295b38315051d726738fcfa80"
   },
   {
+    "workId": "83b69f86-2253-4d1d-330f-08deae0a27b1",
+    "authorName": "Origenes",
+    "title": "22. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/22. Homilie über Numeri",
+    "contentRevision": "sha256:5ca3b5ac611a8bee00b5c0bea11c403f5a48db9e886595c33029236a9c24a02a"
+  },
+  {
     "workId": "c673a4d2-6985-4304-5bae-08df27871084",
     "authorName": "Origenes",
     "title": "23. Homilie über Josua (Jesus)",
@@ -2630,6 +2693,13 @@
     "title": "26. Homilie über Numeri",
     "directory": "werke/Origenes/Homilien über Numeri/26. Homilie über Numeri",
     "contentRevision": "sha256:54b6ff8a6d6223b594140f434439f0fe5e90586226f24b4f553562898bb2e219"
+  },
+  {
+    "workId": "d3a88806-9779-4c85-2cb8-08df276bd3eb",
+    "authorName": "Origenes",
+    "title": "27. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/27. Homilie über Numeri",
+    "contentRevision": "sha256:0c1117cb5092b00c4850904d7aab64ba7d402185f960cbd3040d24b8f74555bd"
   },
   {
     "workId": "521cd085-9f3c-44cf-2cb9-08df276bd3eb",
@@ -2709,6 +2779,13 @@
     "contentRevision": "sha256:3dc3aba5a72a3135ebf7ac208f2d589bcc94a7b9903a7e0096e1f164a2ec8b30"
   },
   {
+    "workId": "8a707ca4-712a-4ee3-55ba-08dee4bd3e57",
+    "authorName": "Origenes",
+    "title": "5. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/5. Homilie über Numeri",
+    "contentRevision": "sha256:3340e9d888ab71b159e6145b8a5bc2e089bae51a8e3ca345156694e309b9c712"
+  },
+  {
     "workId": "d4f791c2-fec7-4e22-a470-08de29b75efa",
     "authorName": "Origenes",
     "title": "5. Predigt zu Exodus",
@@ -2737,6 +2814,13 @@
     "contentRevision": "sha256:ea24c4152d1784cdc8dcfcf081fab1076f6201e02a2866130ef50ff57575288c"
   },
   {
+    "workId": "0c1098f5-25d7-4961-330e-08deae0a27b1",
+    "authorName": "Origenes",
+    "title": "6. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/6. Homilie über Numeri",
+    "contentRevision": "sha256:ccf0a4e4219e65b3837377947b3153bbd25abbcbd18445e1ad86efd01c302b8c"
+  },
+  {
     "workId": "e2a3a1a3-b375-44a1-82b2-08de2d205df9",
     "authorName": "Origenes",
     "title": "6. Predigt zu Exodus",
@@ -2756,6 +2840,13 @@
     "title": "7. Homilie über Levitikus",
     "directory": "werke/Origenes/Homilien über Levitikus/7. Homilie über Levitikus",
     "contentRevision": "sha256:a36a853c0da15dbf019b57b37184f1416e6f2d23e7fca2b8e399b215b18091ed"
+  },
+  {
+    "workId": "f3e7b3ef-8e4d-4f07-4a8c-08dee4f1cc9d",
+    "authorName": "Origenes",
+    "title": "7. Homilie über Numeri",
+    "directory": "werke/Origenes/Homilien über Numeri/7. Homilie über Numeri",
+    "contentRevision": "sha256:7390885df6b3b7723d266c153b36eb458e41f83e77ca59d15adb5e65f1c228ea"
   },
   {
     "workId": "8dd63641-1f75-4a2a-82b3-08de2d205df9",
@@ -3036,6 +3127,13 @@
     "title": "Brief an Alypius",
     "directory": "werke/Paulinus von Nola/Brief an Alypius",
     "contentRevision": "sha256:eda05cdae8974ad4de8591f3f8526c0ff4a7e129b5d326fd5cf1b454154b5666"
+  },
+  {
+    "workId": "00f1ad89-078e-4561-ffcc-08df3004285f",
+    "authorName": "Petrus Chrysologus",
+    "title": "144. Predigt über die Menschwerdung Christi",
+    "directory": "werke/Petrus Chrysologus/144. Predigt über die Menschwerdung Christi",
+    "contentRevision": "sha256:327310033cba78451b9ba94a5e47958a5e63ee486cfddacc38338cfb7854053e"
   },
   {
     "workId": "f5efa233-de1d-49ec-6122-08df2a82baf6",

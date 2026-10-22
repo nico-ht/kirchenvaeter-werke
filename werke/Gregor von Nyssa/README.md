@@ -6,6 +6,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
+- [Homilien](Homilien/) · 1 Werk
 - [Über das Leben des Mose](%C3%9Cber%20das%20Leben%20des%20Mose/) · 2 Werke
 
 ## Einzelwerke
