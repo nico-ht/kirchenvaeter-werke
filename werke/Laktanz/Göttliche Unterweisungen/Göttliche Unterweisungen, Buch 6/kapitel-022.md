@@ -1,0 +1,10 @@
+# Göttliche Unterweisungen, Buch 6 – Kapitel 22: Warum Gott die Verlockungen des Genusses schuf: Ohne etwas zu bezwingen, gäbe es keine Tugend
+
+Autor: Laktanz
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/laktanz/laktanz-goettliche-unterweisungen-buch-6#kapitel-ae69883c-4cec-490f-108a-08df2c80badb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Über die Freuden des Geschmacks und des Geruchs aber, zweier Sinne, die allein den Körper betreffen, haben wir nichts zu erörtern\. Es sei denn, jemand verlangt von uns die Feststellung, dass es eines weisen und guten Menschen unwürdig ist, Bauch und Gaumen zu dienen oder mit Salböl eingerieben oder mit Blumen bekränzt umherzugehen\. Wer das tut, ist gewiss dumm, albern und nichtswürdig; ihn hat nicht einmal der Duft der Tugend erreicht\. Vielleicht wendet jemand ein: „Warum sind diese Dinge dann geschaffen worden, wenn nicht dazu, dass wir sie genießen?“ Doch es ist schon oft gesagt worden: Es hätte keine Tugend gegeben, wenn sie nichts zu bezwingen gehabt hätte\. So hat Gott alles geschaffen, um den Kampf zwischen den beiden Seiten vorzubereiten\. Diese Verlockungen des Vergnügens sind also Waffen dessen, dessen einziges Werk darin besteht, die Tugend zu besiegen und die Gerechtigkeit von den Menschen fernzuhalten\. Mit diesen Schmeicheleien und süßen Reizen kitzelt er die Seelen; denn er weiß, dass das Vergnügen den Tod hervorbringt\. Wie Gott den Menschen nur durch Tugend und Mühe zum Leben ruft, so ruft jener ihn durch Genüsse und Vergnügungen zum Tod\. Und wie man durch scheinbare Übel zum wahren Guten gelangt, so gelangt man durch scheinbare Güter zum wahren Bösen\. Deshalb müssen wir uns vor diesen Vergnügungen wie vor Schlingen und Fangnetzen hüten, damit wir nicht von ihrer schmeichelnden Süße gefangen genommen und zusammen mit dem Körper, dem wir uns versklavt haben, unter die Herrschaft des Todes gebracht werden\.
