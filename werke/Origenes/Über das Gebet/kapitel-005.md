@@ -1,0 +1,38 @@
+# Über das Gebet – Kapitel 5: Warum Gegner das Gebet wegen Gottes Vorwissen und unveränderlicher Beschlüsse für vergeblich halten
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/ueber-das-gebet#kapitel-352a1a6d-acdc-4be0-0cbe-08dd071b9700).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn ich also, wie Sie angeregt haben, zunächst die Argumente derjenigen darlegen soll, die behaupten, dass durch Gebete nichts erreicht wird und dass Gebet daher überflüssig ist, werde ich nicht zögern, dies nach meinen Möglichkeiten zu tun – wobei der Begriff Gebet hier in seiner allgemeineren und gebräuchlicheren Bedeutung verwendet wird\. \[Textlücke in der griechischen Vorlage\.\] Diese Ansicht ist in der Tat so in Misskredit geraten und hat so wenig bedeutende Verteidiger gefunden, dass unter denen, die eine Vorsehung anerkennen und einen Gott über das Universum setzen, niemand zu finden ist, der nicht an das Gebet glaubt\.
+
+Die Meinung gehört entweder zu ausgesprochenen Atheisten, die die Existenz Gottes leugnen, oder zu solchen, die einen Gott annehmen, soweit es den Namen betrifft, ihn aber der Vorsehung berauben\. Es muss gesagt werden, dass die gegnerische Einwirkung, mit der Absicht, die unheiligsten Meinungen um den Namen Christi und die Lehre des Sohnes Gottes zu wickeln, einige Anhänger für die Überflüssigkeit des Gebets gewonnen hat – eine Ansicht, die von denen vertreten wird, die mit allen Mitteln äußere Formen abschaffen, sowohl die Taufe als auch die Eucharistie meiden und die Schrift so missverstehen, dass sie nicht tatsächlich das meinen, was wir Gebet nennen, sondern etwas ganz anderes lehren\.
+
+Diejenigen, die das Gebet ablehnen, während sie einen Gott über das Universum setzen und die Vorsehung bejahen – denn es ist nicht meine gegenwärtige Aufgabe, die Aussagen derjenigen zu betrachten, die mit allen Mitteln einen Gott oder eine Vorsehung abschaffen – könnten folgendermaßen argumentieren: Gott kennt alle Dinge, bevor sie entstehen\. Es gibt nichts, was bei seinem Eintritt in die Existenz von ihm als zuvor unbekannt erkannt wird\. Was für einen Sinn hat es, ein Gebet zu einem Wesen zu senden, das, selbst bevor wir beten, weiß, was wir benötigen? Denn der himmlische Vater weiß, was wir benötigen, bevor wir ihn bitten\.
+
+Es ist vernünftig zu glauben, dass er als Vater und Schöpfer des Universums, der alle Dinge liebt, die sind, und nichts, was er gemacht hat, verabscheut, ganz unabhängig vom Gebet die Angelegenheiten eines jeden sicher verwaltet, wie ein Vater, der seine kleinen Kinder unterstützt, ohne auf deren Bitte zu warten, wenn sie entweder völlig unfähig sind zu fragen oder aus Unkenntnis oft das Gegenteil von dem wünschen, was zu ihrem Nutzen und Vorteil ist\. Wir Menschen kommen Gott in der Erkenntnis noch weiter nach als die geringsten Kinder zu ihren Eltern\. Und mit großer Wahrscheinlichkeit sind die Dinge, die sein werden, nicht nur von Gott vorhergesehen, sondern auch vorbestimmt, und nichts geschieht entgegen seiner Vorbestimmung\.
+
+Wenn jemand um den Sonnenaufgang beten würde, würde er als einfältig angesehen werden, weil er durch das Gebet um das Geschehen dessen bittet, was unabhängig von seinem Gebet eintreten wird\. In ähnlicher Weise wäre es töricht zu glauben, dass sein Gebet für das Eintreten dessen verantwortlich ist, was ohnehin geschehen würde, selbst wenn er nie gebetet hätte\.
+
+Und wiederum, so ist es der Gipfel des Wahnsinns, sich vorzustellen, dass, weil man unter der Sonne zur Sommersonnenwende Unbehagen und Fieber leidet, die Sonne durch Gebet in das Frühlingszeichen versetzt werden sollte, damit man die Vorzüge einer gemäßigten Luft genießen kann\. So wäre es der Gipfel der Torheit zu glauben, dass man durch Gebet nicht die Unglücke erfahren würde, die der Menschheit notwendig widerfahren\.
+
+Darüber hinaus, wenn es wahr ist, dass Sünder von Geburt an entfremdet sind und der Gerechte vom Leib seiner Mutter an abgesondert wurde, und wenn, während sie noch ungeboren sind und weder Gutes noch Böses getan haben, gesagt wird, dass der Ältere dem Jüngeren dienen wird, damit der wählende Plan Gottes bestehen bleibt, der nicht auf Werken, sondern auf dem Rufer beruht, ist es vergeblich, um Vergebung der Sünden zu bitten oder einen Geist der Stärke zu empfangen, damit wir, durch Christus gestärkt, für alles Kraft haben\.
+
+Wenn wir Sünder sind, sind wir von Geburt an entfremdet; wenn wir hingegen vom Leib unserer Mutter an abgesondert wurden, werden uns die besten Dinge zuteil, selbst wenn wir nicht beten\. Es wird vor seiner Geburt prophezeit, dass Jakob über Esau sein wird und dass sein Bruder ihm dienen wird: Was hat das Gebet damit zu tun? Welcher Gottlosigkeit ist Esau schuldig, dass er vor seiner Geburt gehasst wird? Welchen Zweck hat es, dass Mose betet, wie im neunundachtzigsten Psalm zu finden ist, wenn Gott sein Zufluchtsort ist, bevor die Berge gegründet wurden und die Erde und die Welt gebildet wurden? \[Textlücke in der griechischen Vorlage\.\]
+
+Außerdem wird von allen, die gerettet werden sollen, im Brief an die Epheser aufgezeichnet, dass der Vater sie in ihm, in Christus, vor der Grundlegung der Welt erwählt hat, damit sie heilig und tadellos vor ihm seien, sie in Liebe zur Annahme als seine Söhne durch Christus vorherbestimmend\.
+
+Entweder ist also ein Mensch auserwählt, von der Zahl derjenigen, die vor der Grundlegung der Welt so sind, und kann auf keinen Fall von seiner Wahl abfallen, in welchem Fall er daher kein Gebet benötigt; oder er ist nicht auserwählt noch vorherbestimmt, in welchem Fall er vergeblich betet, da er, selbst wenn er zehntausendmal betet, nicht gehört wird\. Denn die, die Gott vorher kannte, die hat er auch vorherbestimmt, dem Bild der Herrlichkeit seines Sohnes gleichförmig zu sein; und die, die er vorherbestimmt hat, die hat er auch berufen; und die, die er berufen hat, die hat er auch gerechtfertigt; und die, die er gerechtfertigt hat, die hat er auch verherrlicht\.
+
+Warum ist Josia besorgt, oder warum hat er Angst, ob er in seinem Gebet gehört wird, wenn er viele Generationen zuvor namentlich prophezeit wurde und seine zukünftige Handlung nicht nur vorhergesehen, sondern auch in der Hörweite vieler vorhergesagt wurde?
+
+Welchen Zweck hat es auch, dass Judas betet, wenn sein Gebet sogar zur Sünde wird, wenn seit den Zeiten Davids angekündigt wird, dass er seine Aufsicht verlieren wird, und ein anderer sie an seiner Stelle empfangen wird?
+
+Wenn Gott unveränderlich ist, alle Dinge im Voraus erfasst hat und an seinen Vorordnungen festhält, ist es offensichtlich widersinnig, in der Überzeugung zu beten, dass man durch das Gebet seinen Plan ändern wird, oder als ob er nicht bereits vorbestimmt hätte, sondern auf das Gebet jedes Einzelnen wartete, um zu intervenieren, damit er anordnet, was dem Bittenden durch sein Gebet entspricht, und dabei das, was er für vernünftig hält, erst dann anordnet, wenn er es zuvor nicht bedacht hat\.
+
+An diesem Punkt können die in Ihrem Schreiben an mich formulierten Thesen wörtlich so festgehalten werden: Erstens, wenn Gott der Vorwissende der Zukunft ist und es geschehen muss, ist das Gebet vergeblich\. Zweitens, wenn alle Dinge durch den Willen Gottes geschehen und seine Beschlüsse festgelegt sind und nichts, was er will, geändert werden kann, ist das Gebet vergeblich\.
+
+Zur Lösung der Schwierigkeiten, die den Instinkt des Gebets lähmen, können die folgenden, wie ich glaube, hilfreichen Überlegungen angestellt werden\.

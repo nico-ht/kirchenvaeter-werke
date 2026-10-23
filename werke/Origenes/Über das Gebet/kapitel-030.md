@@ -1,0 +1,39 @@
+# Über das Gebet – Kapitel 30: Vom Bösen erlöst wird, wer mit Gottes Hilfe standhält und die Angriffe des Feindes im Glauben abwehrt
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/ueber-das-gebet#kapitel-fb6bcd14-c7e2-39ec-89b8-c550f186fbfc).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Mir scheint, dass Lukas mit der Bitte ‚Führe uns nicht in Versuchung[^bible-bfc9a611-939c-477d-b1a9-fbc21d80751b]‘ dem Sinn nach auch gelehrt hat: ‚Erlöse uns von dem Bösen\.[^bible-b58d32fd-1a2c-4fe4-9145-53aa6b0348fc]‘ Es ist wohl anzunehmen, dass der Herr sich gegenüber dem Jünger, dem ja bereits geholfen war, kürzer ausgedrückt hat, gegenüber den vielen aber, die eine deutlichere Unterweisung brauchten, klarer\. Gott erlöst ‚uns von dem Bösen[^bible-b58d32fd-1a2c-4fe4-9145-53aa6b0348fc]‘ nicht dann, wenn der Feind uns überhaupt nicht zum Kampf entgegentritt, mit welchen Listen auch immer er selbst und die Diener seines Willens vorgehen mögen, sondern dann, wenn wir dem, was uns widerfährt, mutig standhalten und siegen\. So haben wir auch das Wort verstanden: ‚Viele Bedrängnisse treffen die Gerechten, und aus allen rettet er sie\.[^bible-416e1235-08e6-45ed-8ebb-5a18cf6df24c]‘ Denn Gott ‚rettet[^bible-416e1235-08e6-45ed-8ebb-5a18cf6df24c]‘ uns aus den Bedrängnissen nicht dadurch, dass keine Bedrängnisse mehr eintreten\. Paulus sagt ja: ‚In allem bedrängt[^bible-fcadeba5-84bb-4c8f-b01c-c118d62acb8e]‘, meint also Menschen, die noch nie aufgehört haben, ‚bedrängt[^bible-fcadeba5-84bb-4c8f-b01c-c118d62acb8e]‘ zu sein\. Vielmehr rettet Gott uns, wenn wir zwar ‚bedrängt[^bible-fcadeba5-84bb-4c8f-b01c-c118d62acb8e]‘, aber mit seiner Hilfe ‚nicht in die Enge getrieben[^bible-fcadeba5-84bb-4c8f-b01c-c118d62acb8e]‘ werden\. Nach einem überlieferten Sprachgebrauch der Hebräer bezeichnet das Bedrängtwerden nämlich eine Notlage, die unabhängig vom eigenen Willen eintritt; das In\-die\-Enge\-Getriebenwerden dagegen bezieht sich auf den Willen, der von der Bedrängnis besiegt wird und ihr nachgibt\. Daher sagt Paulus treffend: ‚In allem bedrängt, aber nicht in die Enge getrieben\.[^bible-fcadeba5-84bb-4c8f-b01c-c118d62acb8e]‘ Einen ähnlichen Sinn hat, wie ich meine, auch das Wort in den Psalmen: ‚In der Bedrängnis hast du mir weiten Raum geschaffen\.[^bible-41fd6a66-fe27-4c96-90cd-d5a21203ffc5]‘ Denn als Weite wird hier die heitere und frohe Verfassung unseres Geistes bezeichnet, die Gott uns in Zeiten der Not schenkt, indem sein Wort, das uns tröstet und rettet, bei uns ist und uns beisteht\.
+
+Ebenso ist also auch die Erlösung ‚von dem Bösen[^bible-b58d32fd-1a2c-4fe4-9145-53aa6b0348fc]‘ zu verstehen\. Gott rettete Hiob nicht dadurch, dass der Teufel keine Vollmacht erhalten hätte, ihn diesen Versuchungen auszusetzen \(denn diese Vollmacht hatte er erhalten\)[^bible-17f52f12-d8c9-4587-b948-7406671eb425], sondern dadurch, dass Hiob bei allem, was ihm widerfuhr, in nichts vor dem Herrn sündigte[^bible-60666f66-7304-43a1-b481-7a81d991acfb], sondern sich als gerecht erwies\. So wurde der beschämt, der gesagt hatte: ‚Verehrt Hiob den Herrn etwa umsonst? Hast du nicht ihn ringsum, das Innere seines Hauses und all seinen Besitz ringsum mit einem Zaun umgeben? Hast du nicht seine Werke gesegnet und sein Vieh auf der Erde zahlreich gemacht? Doch strecke deine Hand aus und taste alles an, was er hat: Gewiss wird er dir ins Gesicht fluchen\.[^bible-f3fd141c-f149-4c50-b362-4747dc23e999]‘ Denn auch damals hatte er Hiob verleumdet\. Obwohl Hiob so viel erlitten hatte, verfluchte er Gott nicht ‚ins Gesicht[^bible-a1659098-77ff-48c2-a9d1-a151e81b9420]‘, wie der Widersacher behauptet hatte\. Vielmehr pries er weiterhin den Herrn[^bible-006b4322-9870-4d96-a4ea-b58879030a74], auch nachdem er dem Versucher ausgeliefert worden war[^bible-c3f25858-7899-43e2-a453-0a58f6b82aea]\. Er wies seine Frau zurecht, die sagte: ‚Sag ein Wort gegen den Herrn und stirb\.[^bible-1abb8069-17e5-490d-9acf-7f651f21866b]‘ Er tadelte sie mit den Worten: ‚Du hast wie eine der törichten Frauen gesprochen\. Wenn wir das Gute aus der Hand des Herrn angenommen haben, sollen wir dann das Schlimme nicht ertragen?[^bible-a49aacdc-d842-4214-b77c-79069214bb57]‘ Auch ein zweites Mal sprach der Teufel zum Herrn[^bible-4294cf6d-e1ad-439e-9168-20da83242fab] über Hiob: ‚Haut für Haut\! Alles, was ein Mensch besitzt, wird er für sein Leben hingeben\. Doch strecke deine Hand aus und taste seine Knochen und sein Fleisch an: Gewiss wird er dir ins Gesicht fluchen\.[^bible-4294cf6d-e1ad-439e-9168-20da83242fab]‘
+
+Doch er ist vom Kämpfer für die Tugend besiegt worden und damit als Lügner entlarvt\. Denn obwohl Hiob das Schlimmste erlitten hatte, hielt er stand, ohne mit seinen Lippen vor Gott zu sündigen[^bible-690ea6ba-7136-4654-9f72-1c59e117e719]\. Zwei Ringkämpfe hat Hiob ausgefochten und gewonnen; einen dritten Kampf solchen Ausmaßes führt er nicht\. Denn der dreifache Ringkampf musste dem Retter vorbehalten bleiben\. Dieser Ringkampf ist in den drei Evangelien aufgezeichnet: Unser Retter, als Mensch verstanden, besiegte den Feind in allen drei Kämpfen[^bible-723552b8-20d9-4b84-914c-cc1bb82a7562]\.
+
+Damit wir Gott also mit Einsicht darum bitten, nicht in Versuchung zu geraten[^bible-1a4ae0fc-332f-4ab9-9809-823dc9c95bc0] und vom Bösen erlöst zu werden[^bible-1a4ae0fc-332f-4ab9-9809-823dc9c95bc0], wollen wir dies sorgfältiger prüfen und selbst ergründen\. Hören wir auf Gott, um würdig zu werden, von ihm erhört zu werden, und bitten wir darum, dass wir in der Versuchung nicht getötet werden und dass uns die feurigen Pfeile des Bösen, mit denen wir beschossen werden[^bible-139925a0-e932-4379-a09a-00280d4ae4f2], nicht in Brand setzen\. Von ihnen werden alle in Brand gesetzt, deren Herzen[^bible-3ede7b20-0db2-45b7-ab23-a04bd08a5fc9] nach einem der zwölf Propheten ‚wie ein Backofen[^bible-3ede7b20-0db2-45b7-ab23-a04bd08a5fc9]‘ geworden sind\. Nicht in Brand gesetzt werden dagegen diejenigen, die mit dem Schild des Glaubens alle feurigen Pfeile auslöschen, die der Böse gegen sie abschießt[^bible-139925a0-e932-4379-a09a-00280d4ae4f2], wenn sie in sich Ströme von Wasser haben, das zum ewigen Leben quillt[^bible-aacf3ee0-500e-467a-93c0-5ee4fc5f91ff]\. Diese lassen das Feuer des Bösen nicht die Oberhand gewinnen, sondern löschen es mühelos durch die Flut der von Gott erfüllten und heilsamen Gedanken\. Solche Gedanken prägen sich durch die Betrachtung der Wahrheit der Seele dessen ein, der sich darin übt, ein geistlicher Mensch zu sein\.
+
+## Bibelverweise
+
+[^bible-006b4322-9870-4d96-a4ea-b58879030a74]: Hi 1,21
+[^bible-139925a0-e932-4379-a09a-00280d4ae4f2]: Eph 6,16
+[^bible-17f52f12-d8c9-4587-b948-7406671eb425]: Hi 1,12
+[^bible-1a4ae0fc-332f-4ab9-9809-823dc9c95bc0]: Mt 6,13
+[^bible-1abb8069-17e5-490d-9acf-7f651f21866b]: Hi 2,9
+[^bible-3ede7b20-0db2-45b7-ab23-a04bd08a5fc9]: Hos 7,6
+[^bible-416e1235-08e6-45ed-8ebb-5a18cf6df24c]: Ps 33,20
+[^bible-41fd6a66-fe27-4c96-90cd-d5a21203ffc5]: Ps 4,2
+[^bible-4294cf6d-e1ad-439e-9168-20da83242fab]: Hi 2,4–Hi 2,5
+[^bible-60666f66-7304-43a1-b481-7a81d991acfb]: Hi 1,22
+[^bible-690ea6ba-7136-4654-9f72-1c59e117e719]: Hi 2,10
+[^bible-723552b8-20d9-4b84-914c-cc1bb82a7562]: Mt 4,1–Mt 4,11; Lk 4,1–Lk 4,13
+[^bible-a1659098-77ff-48c2-a9d1-a151e81b9420]: Hi 1,11
+[^bible-a49aacdc-d842-4214-b77c-79069214bb57]: Hi 2,10
+[^bible-aacf3ee0-500e-467a-93c0-5ee4fc5f91ff]: Joh 4,14; Joh 7,38
+[^bible-b58d32fd-1a2c-4fe4-9145-53aa6b0348fc]: Mt 6,13
+[^bible-bfc9a611-939c-477d-b1a9-fbc21d80751b]: Lk 11,4
+[^bible-c3f25858-7899-43e2-a453-0a58f6b82aea]: Hi 2,6
+[^bible-f3fd141c-f149-4c50-b362-4747dc23e999]: Hi 1,9–Hi 1,11
+[^bible-fcadeba5-84bb-4c8f-b01c-c118d62acb8e]: 2Kor 4,8

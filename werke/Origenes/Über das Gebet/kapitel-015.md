@@ -1,0 +1,26 @@
+# Über das Gebet – Kapitel 15: Gebet im vollen Sinn richtet sich allein an den Vater, durch Christus als Hohenpriester
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/ueber-das-gebet#kapitel-acc1a368-c433-4851-0cc5-08dd071b9700).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn wir das Gebet jedoch in seiner vollen Bedeutung akzeptieren, dürfen wir niemals zu einem gezeugten Wesen beten, nicht einmal zu Christus selbst, sondern nur zu dem Gott und Vater von allem, zu dem unser Erlöser sowohl selbst gebetet hat, wie wir bereits festgestellt haben, als auch uns lehrt zu beten\.
+
+Denn als Er hörte, wie einer sagte: „Lehre uns zu beten“, lehrte Er die Menschen nicht, zu sich selbst zu beten, sondern zu dem Vater, indem Er sagt: „Vater unser im Himmel“ und so weiter\. Denn wenn, wie an anderer Stelle gezeigt, der Sohn in Wesen und Essenz anders ist als der Vater, muss das Gebet entweder an den Sohn und nicht an den Vater gerichtet werden oder an beide oder nur an den Vater\.
+
+Dass das Gebet an den Sohn und nicht an den Vater völlig unangebracht ist und nur in Widerspruch zur offensichtlichen Wahrheit vorgeschlagen werden kann, wird von allen zugegeben\. Im Gebet an beide ist es klar, dass wir unsere Ansprüche in der Mehrzahl formulieren müssten und in unseren Gebeten sagen müssten: „Gewährt ihr beiden, segnet ihr beiden, versorgt ihr beiden, rettet ihr beiden“ oder Ähnliches, was offensichtlich falsch ist und von niemandem in den Schriften als so gesprochen nachgewiesen werden kann\.
+
+Es bleibt demnach, allein zu Gott zu beten, dem Vater von allem, jedoch nicht ohne den Hohenpriester, der vom Vater mit einem Eid eingesetzt wurde, gemäß den Worten, die Er geschworen hat und nicht bereuen wird: „Du bist Priester für immer nach der Ordnung Melchisedeks\.“ In Danksagung an Gott erkennen daher die Heiligen während ihrer Gebete Seine Gaben durch Christus Jesus an\.
+
+So wie der Mensch, der auf das Gebet bedacht ist, nicht zu einem beten sollte, der selbst betet, sondern zu dem Vater, den unser Herr Jesus uns gelehrt hat, in unseren Gebeten anzurufen, so sollten wir auch kein Gebet an den Vater ohne Ihn richten\. Er stellt dies selbst klar dar, wenn Er sagt: „Wahrlich, wahrlich, ich sage euch, was auch immer ihr meinen Vater bitten werdet, wird er euch in meinem Namen geben\. Bis jetzt habt ihr nichts in meinem Namen gebeten\. Bittet, und ihr werdet empfangen, damit eure Freude vollkommen werde\.“
+
+Er sagte nicht: „Bittet mich,“ noch einfach „Bittet den Vater,“ sondern: „Was auch immer ihr den Vater bitten werdet, wird er euch in meinem Namen geben\.“ Denn bis Jesus dies lehrte, hatte niemand den Vater im Namen des Sohnes gebeten\. Wahr ist das Wort Jesu: „Bis jetzt habt ihr nichts in meinem Namen gebeten“; und wahr sind auch die Worte: „Bittet, und ihr werdet empfangen, damit eure Freude vollkommen werde\.“
+
+Sollte jedoch jemand, der glaubt, dass das Gebet an Christus selbst gerichtet werden sollte, durch den Sinn des Ausdrucks verwirrt werden und uns mit dem anerkannten Verweis auf Christus in Deuteronomium konfrontieren: „Lasst alle Engel Gottes sich vor Ihm verneigen“, können wir ihm antworten, dass die Kirche, die vom Propheten Jerusalem genannt wird, auch gesagt wird, dass ihr von Königen und Königinnen, die ihre Ammen und Pfleger werden, Ehrerbietung zuteilwird, in den Worten: „Siehe, ich hebe meine Hand über die Nationen, und über die Inseln werde ich mein Zeichen erheben: und sie werden eure Söhne in ihren Schoß bringen und eure Töchter auf ihren Schultern tragen; und Könige werden eure Ammen sein, ihre Königinnen, ihre Pflegerinnen: vor dir werden sie sich verneigen, und den Staub deiner Füße werden sie lecken: und du wirst erkennen, dass ich der Herr bin, und du wirst nicht beschämt werden\.“
+
+Und wie steht es nicht im Einklang mit dem, der sagte: „Warum nennst du mich gut? Niemand ist gut außer dem Einen – Gott, dem Vater“, zu vermuten, dass Er sagen würde: „Warum betet ihr zu mir? Nur zum Vater sollt ihr beten, zu dem ich auch bete, wie ihr aus den heiligen Schriften lernt\. Denn ihr sollt nicht zu einem beten, der von dem Vater als Hoherpriester für euch eingesetzt wurde und von dem Vater die Aufgabe erhalten hat, Fürsprecher zu sein, sondern durch einen Hohenpriester und Fürsprecher, der mit euren Schwächen mitleiden kann, da er in allen Punkten wie ihr versucht wurde, aber aufgrund der freien Gabe des Vaters an mich ohne Sünde versucht wurde\.
+
+Lernt daher, wie groß die freie Gabe ist, die ihr von meinem Vater empfangen habt, indem ihr durch die Wiedergeburt in mir den Geist der Annahme empfangen habt, damit ihr Söhne Gottes und meine Brüder genannt werden könnt\. Denn ihr habt meine Äußerung, die ich durch David an den Vater über euch sprach, gelesen: ‚Ich werde deinen Namen meinen Brüdern verkünden; inmitten der Gemeinde werde ich Loblieder für dich singen\.‘ Es ist nicht vernünftig, dass diejenigen, die als würdig eines gemeinsamen Vaters erachtet wurden, zu einem Bruder beten\. Nur zum Vater sollt ihr, mit mir und durch mich, das Gebet erheben\.“
