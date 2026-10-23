@@ -1,0 +1,15 @@
+# Über Werke und Almosen – Kapitel 22: Der Teufel beschämt geizige Christen: Seine Diener geben großzügig, obwohl er ihnen kein Heil verheißt
+
+Autor: Cyprian von Karthago
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/cyprian/ueber-werke-und-almosen#kapitel-66f87779-4d6d-271f-f9d0-7f7979b47d82).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Damit aber die Trägen und Unfruchtbaren und jene, die aus Geldgier nichts tun, um Frucht für ihr Heil zu bringen, umso mehr beschämt werden und die Schamröte über Schmach und Schande umso tiefer in ihr schmutziges Gewissen dringt, soll sich jeder Folgendes vor Augen stellen: Der Teufel springt mit seinen Dienern, also mit den Menschen des Verderbens und des Todes, in die Mitte und fordert das Volk Christi heraus, sich mit ihnen zu messen\. Christus selbst ist dabei zugegen und urteilt, während der Teufel sagt: „Für die, die du bei mir siehst, habe ich weder Faustschläge empfangen noch Geißelhiebe ertragen, weder das Kreuz erduldet noch mein Blut vergossen; auch habe ich meine Familie nicht um den Preis meines Leidens und Blutes erlöst\. Ich verspreche ihnen aber auch kein himmlisches Reich, noch gebe ich ihnen die Unsterblichkeit zurück und rufe sie wieder ins Paradies\. Doch was für kostbare Gaben bereiten sie mir\! Wie groß sind sie\! Mit welch übermäßiger und langwieriger Mühe werden sie beschafft\! Dabei entfalten sie die größte Pracht und verpfänden oder verkaufen ihren Besitz, um die Gabe aufzubringen\! Und wenn dann keine angemessene Darbietung folgt, werden sie unter Spott und Zischen verjagt; manchmal werden sie vom wütenden Volk beinahe gesteinigt\! Zeige, Christus, solche Geber unter den Deinen, unter jenen Reichen, jenen Männern, die in üppigem Wohlstand leben\! Bringen sie in der Kirche, in der du den Vorsitz führst und zuschaust, eine solche Gabe dar? Haben sie dafür ihren Reichtum verpfändet oder verteilt, ja, ihren Besitz gegen Besseres eingetauscht und ihn so in himmlische Schätze verwandelt[^bible-f04656f1-4bfe-4a81-b5a1-3f30cc9bbcc4]? Bei meinen Schauspielen, vergänglich und irdisch, wie sie sind, wird niemand gespeist, niemand bekleidet; niemand wird durch die Wohltat von Speise oder Trank gestärkt\. Zwischen dem Wahnsinn des Veranstalters und dem Irrtum des Zuschauers geht alles in der verschwenderischen und dummen Nichtigkeit trügerischer Vergnügungen zugrunde\. Bei dir dagegen wirst du in deinen Armen bekleidet und gespeist[^bible-1c491225-b4f2-400a-9a67-1c006800254c]; du verheißt denen, die sich für dich mühen, ewiges Leben\. Und doch reichen die Deinen kaum an die Meinen heran, die zugrunde gehen, obwohl du sie mit göttlichem Lohn und himmlischen Belohnungen ehrst\.“
+
+## Bibelverweise
+
+[^bible-1c491225-b4f2-400a-9a67-1c006800254c]: Mt 25,35–Mt 25,36; Mt 25,40
+[^bible-f04656f1-4bfe-4a81-b5a1-3f30cc9bbcc4]: Lk 12,33

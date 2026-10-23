@@ -1,0 +1,14 @@
+# Über Werke und Almosen – Kapitel 26: Nächstenliebe wird im Frieden gekrönt; in der Verfolgung kommt der Siegeskranz des Leidens hinzu
+
+Autor: Cyprian von Karthago
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/cyprian/ueber-werke-und-almosen#kapitel-dcab50f0-e4b6-20fe-6b7c-76f099fd0afc).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Welche Herrlichkeit wird denen zuteilwerden, liebste Brüder, die Werke der Nächstenliebe tun\! Wie groß und erhaben wird ihre Freude sein, wenn der Herr beginnt, sein Volk zu zählen und uns für unsere Verdienste und guten Werke den verheißenen Lohn auszuteilen: Himmlisches für Irdisches, Ewiges für Vergängliches, Großes für Kleines; wenn er uns vor den Vater führt, zu dem er uns durch seine Heiligung zurückgeführt hat; wenn er uns Unsterblichkeit und Ewigkeit schenkt, für die er uns durch sein lebenspendendes Blut erneuert hat; wenn er uns wieder ins Paradies führt und das Himmelreich öffnet, wie er es treu und wahrhaftig verheißen hat\! Lasst uns dies fest im Sinn behalten, es mit vollem Glauben erfassen, es von ganzem Herzen lieben und durch immer reichere Werke großherziger Liebe erkaufen\. Etwas Herrliches und Göttliches, liebste Brüder, ist das heilbringende Wirken der Nächstenliebe: ein großer Trost für die Gläubigen, ein heilsamer Schutz, der unsere Sicherheit wahrt, ein Schutz der Hoffnung, eine Bewahrung des Glaubens, ein Heilmittel gegen die Sünde, ein Werk, das in der Macht des Handelnden liegt, etwas zugleich Großes und Leichtes, ein Siegeskranz des Friedens ohne die Gefahr der Verfolgung\. Es ist die wahre und größte Gabe Gottes, notwendig für die Schwachen, ruhmvoll für die Starken\. Mit ihrer Hilfe erlangt der Christ geistliche Gnade, macht sich bei Christus, dem Richter, verdient und betrachtet Gott als seinen Schuldner[^bible-c63cb343-825b-4e74-9b09-33da0d72c72d]\. Um diese Siegespalme heilbringender Werke wollen wir freudig und bereitwillig ringen\. Lasst uns alle im Wettkampf der Gerechtigkeit laufen, während Gott und Christus uns zuschauen\. Wir, die wir schon begonnen haben, über dieses Leben und diese Welt hinauszuwachsen, wollen unseren Lauf durch kein Verlangen nach diesem Leben und dieser Welt verlangsamen lassen\. Wenn uns jener Tag, sei es der Tag der Belohnung oder der Verfolgung, gerüstet antrifft, wenn er uns rasch in diesem Wettkampf der Nächstenliebe laufen sieht, wird der Herr uns den Lohn für unsere Verdienste niemals vorenthalten: Im Frieden wird er uns Siegern für unsere Mühen einen weißen Siegeskranz geben; in der Verfolgung wird er ihm für unser Leiden einen purpurfarbenen hinzufügen\.
+
+## Bibelverweise
+
+[^bible-c63cb343-825b-4e74-9b09-33da0d72c72d]: Spr 19,17
