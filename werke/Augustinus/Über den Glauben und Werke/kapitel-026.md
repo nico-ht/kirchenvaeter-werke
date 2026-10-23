@@ -1,0 +1,21 @@
+# Über den Glauben und Werke – Kapitel 26: Ewiges Leben erfordert Taufe und gelebte Gerechtigkeit, aber keine Sündlosigkeit
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/ueber-den-glauben-und-werke#kapitel-fd6c0958-3f65-4667-4116-08df2f4cac51).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Hüten wir uns also mit der Hilfe des Herrn, unseres Gottes, sorgfältig davor, Menschen in falscher Sicherheit zu wiegen, indem wir ihnen sagen, sie würden, wenn sie auf Christus getauft seien, zum ewigen Heil gelangen, ganz gleich, wie sie in diesem Glauben leben\. Sonst machen wir Menschen auf dieselbe Weise zu Christen, wie die Juden sie zu Proselyten machen\. Zu diesen Juden sagt der Herr: „Wehe euch, Schriftgelehrte und Pharisäer\! Ihr zieht über Meer und Land, um einen einzigen Proselyten zu gewinnen; habt ihr ihn aber gewonnen, macht ihr ihn zu einem Sohn der Hölle, doppelt so sehr, wie ihr es seid\.[^bible-564b687e-a932-49f1-b84d-f9ec71f55904]“ Halten wir vielmehr in beiden Punkten an der gesunden Lehre Gottes, unseres Lehrers, fest: Das christliche Leben soll der heiligen Taufe entsprechen, und keinem Menschen darf das ewige Leben versprochen werden, wenn ihm eines von beidem fehlt\. Denn derselbe, der gesagt hat: „Wenn jemand nicht aus Wasser und Geist wiedergeboren wird, kommt er nicht in das Himmelreich[^bible-45f653e8-5f68-43aa-8c5a-d376716bc58e]“, hat auch gesagt: „Wenn eure Gerechtigkeit nicht über die der Schriftgelehrten und Pharisäer hinausgeht, kommt ihr nicht in das Himmelreich\.[^bible-7b61e8f8-bc47-48da-9256-726c1b8fbd79]“ Von ihnen sagt er nämlich: „Die Schriftgelehrten und Pharisäer sitzen auf dem Lehrstuhl des Mose\. Tut, was sie sagen; was sie aber tun, sollt ihr nicht tun\. Denn sie sagen es und tun es nicht\.[^bible-e12428c5-0e14-4922-8c16-a0b364007a53]“ Ihre Gerechtigkeit besteht also darin, zu reden, ohne zu handeln\. Deshalb wollte er, dass unsere Gerechtigkeit über die ihre hinausgeht: Wir sollen reden und handeln\. Fehlt diese Gerechtigkeit, kommt man nicht in das Himmelreich[^bible-7b61e8f8-bc47-48da-9256-726c1b8fbd79]\. Damit ist nicht gemeint, dass sich jemand so überheben dürfte, dass er es wagt, sich in diesem Leben für sündlos zu halten, auch nur vor sich selbst, geschweige denn damit vor anderen zu prahlen\. Doch wenn es nicht manche Sünden gäbe, die so schwer sind, dass sie sogar mit dem Ausschluss aus der kirchlichen Gemeinschaft bestraft werden müssen, würde der Apostel nicht sagen: „Wenn ihr und mein Geist versammelt seid, sollt ihr einen solchen Menschen dem Satan zum Verderben des Fleisches übergeben, damit der Geist am Tag des Herrn Jesus gerettet wird\.[^bible-ff384daf-9e7d-4e43-8841-b6c99b3fff72]“ Daher sagt er auch: „Damit ich nicht um viele trauern muss, die zuvor gesündigt und für die Unreinheit und Unzucht, die sie begangen haben, keine Buße getan haben\.[^bible-b52f6fe8-6eaf-4845-8241-27dd5b100604]“ Ebenso: Wenn es nicht manche Sünden gäbe, die nicht durch jene demütige Buße geheilt werden müssen, die in der Kirche denen aufgegeben wird, die im eigentlichen Sinn Büßer heißen, sondern durch bestimmte Heilmittel der Zurechtweisung, würde der Herr selbst nicht sagen: „Weise ihn unter vier Augen zurecht; wenn er auf dich hört, hast du deinen Bruder gewonnen\.[^bible-52789ed9-3193-472d-9a21-2b36efd31770]“ Schließlich: Wenn es nicht manche Sünden gäbe, ohne die man dieses Leben nicht führen kann, hätte er uns nicht in dem Gebet, das er uns gelehrt hat, ein tägliches Heilmittel gegeben, indem wir sprechen: „Vergib uns unsere Schulden, wie auch wir unseren Schuldnern vergeben\.[^bible-c3ec3001-7ad3-4a05-bcfd-8651dd764a44]“
+
+## Bibelverweise
+
+[^bible-45f653e8-5f68-43aa-8c5a-d376716bc58e]: Joh 3,5
+[^bible-52789ed9-3193-472d-9a21-2b36efd31770]: Mt 18,15
+[^bible-564b687e-a932-49f1-b84d-f9ec71f55904]: Mt 23,15
+[^bible-7b61e8f8-bc47-48da-9256-726c1b8fbd79]: Mt 5,20
+[^bible-b52f6fe8-6eaf-4845-8241-27dd5b100604]: 2Kor 12,21
+[^bible-c3ec3001-7ad3-4a05-bcfd-8651dd764a44]: Mt 6,12
+[^bible-e12428c5-0e14-4922-8c16-a0b364007a53]: Mt 23,2–Mt 23,3
+[^bible-ff384daf-9e7d-4e43-8841-b6c99b3fff72]: 1Kor 5,4–1Kor 5,5

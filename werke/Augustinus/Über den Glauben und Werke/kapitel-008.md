@@ -1,0 +1,27 @@
+# Über den Glauben und Werke – Kapitel 8: Petrus’ Aufruf zur Umkehr verlangt vor der Taufe die Abkehr vom alten Leben, nicht nur vom Unglauben
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/ueber-den-glauben-und-werke#kapitel-2cedd9a7-4eaf-4461-4104-08df2f4cac51).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Aber in der Apostelgeschichte hat er jene, die das Wort hörten und an einem einzigen Tag, dreitausend an der Zahl, getauft wurden[^bible-0d5e86b9-f819-4eeb-a8d0-7c822dadb4e2], so angesprochen, dass er ihnen allein den Glauben an Christus verkündete\. Als sie fragten: „Was sollen wir tun?[^bible-a9151587-e1cc-48c7-8e9a-b8c1552a645f]“, antwortete er ihnen: „Kehrt um, und jeder von euch lasse sich im Namen des Herrn Jesus Christus zur Vergebung der Sünden taufen; dann werdet ihr die Gabe des Heiligen Geistes empfangen\.[^bible-30950f04-4f14-426d-b5aa-3c86ffabae56]“ Warum beachten sie also nicht die Worte: „Kehrt um\![^bible-30950f04-4f14-426d-b5aa-3c86ffabae56]“? Darin liegt doch das Ablegen des alten Lebens, damit die Täuflinge das neue anziehen[^bible-f61a5a56-8b97-4e4b-96a8-bc0ac84747ac]\. Wem aber nützt die Umkehr von toten Werken[^bible-8def895f-ab6b-4f53-b1c0-d74e2bc960fb], wenn er im Ehebruch und in anderen Verbrechen verharrt, in die sich die Liebe zu dieser Welt verstrickt?
+
+„Aber“, sagen sie, „er wollte nur, dass sie ihren Unglauben bereuten, der darin bestand, dass sie nicht an Christus geglaubt hatten\.“ Eine erstaunliche Anmaßung \(ich will nichts Härteres sagen\), wenn man behauptet, sie hätten auf den Aufruf „Kehrt um\![^bible-30950f04-4f14-426d-b5aa-3c86ffabae56]“ hin allein ihren Unglauben bereut, obwohl ihnen die Lehre des Evangeliums verkündet wurde, nach der das alte Leben in ein neues verwandelt werden musste\. Dazu gehört ja auch, was der Apostel in diesem Zusammenhang sagt: „Wer gestohlen hat, soll nicht mehr stehlen\.[^bible-33e01f38-c933-4ce6-8de6-2c54b11f17d0]“ Dazu gehört auch alles Weitere, womit er ausführt, was es heißt, den alten Menschen abzulegen und den neuen anzuziehen[^bible-f61a5a56-8b97-4e4b-96a8-bc0ac84747ac]\. Gerade diese Worte des Petrus hätten ihnen jedoch zur Mahnung dienen können, wenn sie aufmerksam hätten hinhören wollen\. Denn nachdem er gesagt hatte: „Kehrt um, und jeder von euch lasse sich im Namen des Herrn Jesus Christus zur Vergebung der Sünden taufen; dann werdet ihr die Gabe des Heiligen Geistes empfangen\. Denn uns gilt diese Verheißung und unseren Kindern und allen in der Ferne, die der Herr, unser Gott, herbeirufen wird[^bible-7c88d44f-c7b0-4e35-93eb-e8f202a68327]“, fügte der Verfasser des Buches unmittelbar hinzu: „Und mit vielen weiteren Worten legte er Zeugnis ab und sagte:[^bible-ffb14212-8ba2-4570-a0ab-21f4bbb603ff] ‚Rettet euch aus dieser verkehrten Welt\![^bible-ffb14212-8ba2-4570-a0ab-21f4bbb603ff]‘ Sie aber griffen die Worte voller Eifer auf, nahmen sie an, glaubten und wurden getauft; und an jenem Tag kamen dreitausend Seelen hinzu\.[^bible-0d5e86b9-f819-4eeb-a8d0-7c822dadb4e2]“ Wer erkennt hier nicht, dass Petrus mit den vielen weiteren Worten[^bible-ffb14212-8ba2-4570-a0ab-21f4bbb603ff], die der Verfasser der Länge wegen nicht wiedergibt, darauf hinwirkte, dass sie sich aus dieser verkehrten Welt retteten[^bible-ffb14212-8ba2-4570-a0ab-21f4bbb603ff]? Schließlich ist der Gedanke selbst kurz wiedergegeben, von dem Petrus sie mit vielen Worten eindringlich überzeugen wollte\.
+
+ Die Zusammenfassung steht ja in dem Satz: „Rettet euch aus dieser verkehrten Welt\![^bible-a3bf81d1-163b-165c-1524-15f25f53debc]“ Damit dies geschah, legte Petrus mit vielen Worten Zeugnis ab[^bible-a3bf81d1-163b-165c-1524-15f25f53debc]\. In diesen Worten lag die Verurteilung der toten Werke[^bible-2d91225d-ff3b-0065-9cba-23dcd5605c54], welche die Liebhaber dieser Welt in ihrer Bosheit tun, und die Empfehlung eines guten Lebens, an dem diejenigen festhalten und dem sie nachstreben sollen, die sich aus dieser verkehrten Welt retten[^bible-a3bf81d1-163b-165c-1524-15f25f53debc]\. Nun mögen sie also, wenn sie wollen, zu behaupten versuchen, auch derjenige rette sich aus dieser verkehrten Welt[^bible-a3bf81d1-163b-165c-1524-15f25f53debc], der lediglich an Christus glaubt, selbst wenn er in allen Schandtaten verharrt, die ihm belieben, und sich sogar zum Ehebruch bekennt\. Wenn es aber frevelhaft ist, das zu behaupten, dann sollen die Taufbewerber nicht nur hören, was sie glauben müssen, sondern auch, wie sie sich aus dieser verkehrten Welt retten[^bible-a3bf81d1-163b-165c-1524-15f25f53debc]\. Dabei müssen sie nämlich hören, wie sie als Glaubende leben sollen\.
+
+## Bibelverweise
+
+[^bible-0d5e86b9-f819-4eeb-a8d0-7c822dadb4e2]: Apg 2,41
+[^bible-2d91225d-ff3b-0065-9cba-23dcd5605c54]: Hebr 6,1
+[^bible-30950f04-4f14-426d-b5aa-3c86ffabae56]: Apg 2,38
+[^bible-33e01f38-c933-4ce6-8de6-2c54b11f17d0]: Eph 4,28
+[^bible-7c88d44f-c7b0-4e35-93eb-e8f202a68327]: Apg 2,38–Apg 2,39
+[^bible-8def895f-ab6b-4f53-b1c0-d74e2bc960fb]: Hebr 6,1
+[^bible-a3bf81d1-163b-165c-1524-15f25f53debc]: Apg 2,40
+[^bible-a9151587-e1cc-48c7-8e9a-b8c1552a645f]: Apg 2,37
+[^bible-f61a5a56-8b97-4e4b-96a8-bc0ac84747ac]: Eph 4,22–Eph 4,24
+[^bible-ffb14212-8ba2-4570-a0ab-21f4bbb603ff]: Apg 2,40
