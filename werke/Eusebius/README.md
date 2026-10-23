@@ -6,7 +6,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Beweis des Evangeliums](Beweis%20des%20Evangeliums/) · 1 Werk
+- [Beweis des Evangeliums](Beweis%20des%20Evangeliums/) · 8 Werke
 - [Kommentare zu Psalmen](Kommentare%20zu%20Psalmen/) · 3 Werke
 
 ## Einzelwerke

@@ -1,0 +1,16 @@
+# Über die Auferstehung des Fleisches – Kapitel 28: Prophetische Zeichen und Gottes Lebensverheißung kündigen die Wiederherstellung des gestorbenen Fleisches an
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-die-auferstehung-des-fleisches#kapitel-acfcf36b-933c-4942-977a-08df2b9f0e60).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wir wissen aber: Wie durch die Worte der Propheten, so wird die Auferstehung auch durch ihre bildhaften Darstellungen und ihre Taten verkündet\. Wenn Mose seine Hand in den Gewandbausch steckt, sie abgestorben hervorzieht, sie wieder hineinsteckt und lebendig herausstreckt[^bible-f8abde79-47b7-4a22-9c30-55282a1944ec], kündigt er damit nicht an, was mit dem ganzen Menschen geschehen wird? Denn jene drei Zeichen bezeichneten die dreifache Macht Gottes in ihrer Reihenfolge: Sie wird zuerst den Teufel, die Schlange, so furchterregend er auch ist, dem Menschen unterwerfen, dann das Fleisch aus dem Schoß des Todes zurückholen und so schließlich alles Blut im Gericht rächen\. Darüber heißt es bei demselben Propheten: „Denn auch euer[^bible-b32f2ee7-bb98-4113-b326-c322f9b26eca]“, sagt Gott, „Blut werde ich von allen Tieren einfordern, und von der Hand des Menschen und von der Hand des Bruders werde ich es einfordern\.[^bible-b32f2ee7-bb98-4113-b326-c322f9b26eca]“ Man fordert aber nur ein, was man zurückverlangt, und verlangt nur zurück, was auch zurückgegeben werden wird\. Und gewiss wird zurückgegeben werden, was zur Vergeltung zurückverlangt und eingefordert wird\. Denn was überhaupt nicht mehr da ist, kann nicht gerächt werden\. Es wird aber wieder da sein, wenn es wiederhergestellt wird, damit es gerächt werden kann\. Auf das Fleisch richtet sich also alles, was über das Blut verkündet wird, denn ohne Fleisch wird es kein Blut geben\. Das Fleisch wird auferweckt werden, damit das Blut gerächt wird\. Manche Aussagen sind zwar nicht in den Nebel der Allegorie gehüllt, dürsten aber dennoch gerade in ihrer Schlichtheit nach Auslegung\. So heißt es bei Jesaja: „Ich werde töten und[^bible-92d96b57-20d4-4e9f-8cdf-fd211147fc01] [^bible-92d96b57-20d4-4e9f-8cdf-fd211147fc01]lebendig machen\.[^bible-92d96b57-20d4-4e9f-8cdf-fd211147fc01]“ Gewiss: Nachdem er getötet hat, wird er lebendig machen\.[^bible-92d96b57-20d4-4e9f-8cdf-fd211147fc01] Er tötet also durch den Tod und wird durch die Auferstehung lebendig machen\. Das Fleisch aber ist es, das durch den Tod getötet wird; also wird auch das Fleisch durch die Auferstehung lebendig gemacht werden\. Gewiss: Wenn Töten bedeutet, dem Fleisch die Seele zu entreißen, dann bedeutet Lebendigmachen als sein Gegenteil, dem Fleisch die Seele zurückzugeben\. Das Fleisch muss also auferstehen: Die Seele, die ihm durch das Töten entrissen wurde, muss ihm durch das Lebendigmachen zurückgegeben werden\.
+
+## Bibelverweise
+
+[^bible-92d96b57-20d4-4e9f-8cdf-fd211147fc01]: Dtn 32,39
+[^bible-b32f2ee7-bb98-4113-b326-c322f9b26eca]: Gen 9,5
+[^bible-f8abde79-47b7-4a22-9c30-55282a1944ec]: Ex 4,6–Ex 4,7

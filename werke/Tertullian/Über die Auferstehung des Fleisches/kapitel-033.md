@@ -1,0 +1,25 @@
+# Über die Auferstehung des Fleisches – Kapitel 33: Jesu klare Aussagen über Gericht, Reich und Auferstehung sind keine Gleichnisse und schließen das Fleisch ein
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-die-auferstehung-des-fleisches#kapitel-f89db24f-91ef-4062-977f-08df2b9f0e60).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+So viel zu den prophetischen Schriften; jetzt berufe ich mich auf die Evangelien\. Auch hier will ich zunächst derselben List jener Leute entgegentreten, die behaupten, auch der Herr habe alles in Gleichnissen ausgesprochen, weil geschrieben steht: „Dies alles sprach Jesus in Gleichnissen, und ohne Gleichnis sprach er nicht zu ihnen[^bible-87a85d82-f256-4afd-9517-ba5f11cccb6b]“\. Gemeint sind natürlich die Juden\. Denn „Warum[^bible-834b36c9-25d0-4263-9375-2a3ab1ef29f2]“, fragen auch die Jünger, „sprichst du in Gleichnissen?[^bible-834b36c9-25d0-4263-9375-2a3ab1ef29f2]“ Und der Herr antwortet: „Deshalb spreche ich zu ihnen in Gleichnissen, damit sie sehen und doch nicht sehen, hören und doch nicht hören[^bible-baddd83d-d803-4eef-8ee3-4641f860aa0c]“, wie es bei Jesaja heißt\. Wenn er aber zu den Juden in Gleichnissen sprach, dann nicht zu allen; wenn nicht zu allen in Gleichnissen, dann auch nicht immer, und nicht alles war Gleichnis, sondern nur manches, wenn er zu bestimmten Menschen sprach: zu den Juden, gelegentlich freilich auch zu den Jüngern\. Doch beachte, wie die Schrift es berichtet: „Er erzählte ihnen aber auch ein Gleichnis\.[^bible-fbd82175-ffbd-4131-aa43-6668c8e6c599]“ Also sprach er auch ohne Gleichnis; denn es würde nicht eigens vermerkt, wann er in Gleichnissen sprach, wenn er immer so gesprochen hätte\. Und dennoch wirst du kein Gleichnis finden, das nicht entweder von ihm selbst erläutert wird, wie das vom Sämann, bei dem es um die Verkündigung des Wortes geht[^bible-b2b7ea7c-eedc-40e0-97ba-a9aea3e2ba14], oder vom Verfasser des Evangeliums vorab erklärt wird, wie das vom hochmütigen Richter und der beharrlich bittenden Witwe, das zur Ausdauer im Gebet mahnt[^bible-45a362aa-f4cd-4517-8032-29c62bec34e6], oder dessen Sinn sich von selbst erschließen lässt, wie das vom Feigenbaum, der in der Hoffnung auf Frucht einen Aufschub erhält[^bible-46031bae-aefe-4f4f-ab8b-c6a81485fa94] und so ein Bild für die Unfruchtbarkeit der Juden ist\.
+
+ Wenn aber nicht einmal die Gleichnisse das Licht des Evangeliums verdunkeln, dann können erst recht die Aussprüche und eindeutigen Feststellungen, die ihrem Wesen nach offen verständlich sind, keinen anderen Sinn haben, als ihr Wortlaut besagt\. In eindeutigen Feststellungen und Aussprüchen verkündet der Herr aber das Gericht, das Reich Gottes und die Auferstehung: „Erträglicher wird es sein[^bible-08b61875-19ae-49fc-a1d1-e4468c008aa6]“, sagt er, „für Tyrus und Sidon am Tag des Gerichts\.[^bible-08b61875-19ae-49fc-a1d1-e4468c008aa6]“ Und: „Sagt ihnen, dass das Reich Gottes nahe gekommen ist\.[^bible-5782bd03-ab4d-4802-a004-db96e23bb987]“ Und: „Es wird dir bei der Auferstehung der Gerechten vergolten werden\.[^bible-0dfef705-b7ed-4303-a165-54fce789d06c]“ Wenn die Bezeichnungen für diese Wirklichkeiten, also für das Gericht, das Reich Gottes und die Auferstehung, eindeutig sind, sodass sich nichts davon in ein Gleichnis pressen lässt, dann darf man auch das nicht in Gleichnisse zwingen, was darüber verkündet wird, wie das Reich, das Gericht und die Auferstehung geordnet sind, wie sie sich vollziehen und wie man sie erfährt\. So ist daran festzuhalten, dass es sich um Körperliches handelt, das für körperliche Wesen bestimmt ist, also nicht um Geistiges, weil es nicht bildlich gemeint ist\. Gerade deshalb haben wir ja bereits dargelegt, dass der Körper der Seele ebenso wie der Körper des Fleisches der Vergeltung unterliegt, die nach ihrem gemeinsamen Wirken zu bemessen ist, damit die Körperlichkeit der Seele nicht durch die bildlichen Deutungen, zu denen sie Anlass bietet, die Körperlichkeit des Fleisches ausschließt\. Denn man muss glauben, dass beide am Reich, am Gericht und an der Auferstehung teilhaben\. Nun gehen wir daran, nachzuweisen, dass der Herr bei jeder Erwähnung der Auferstehung gerade die Körperlichkeit des Fleisches meint\. Die Körperlichkeit der Seele bleibt dabei unberührt; auch sie haben nur wenige anerkannt\.
+
+## Bibelverweise
+
+[^bible-08b61875-19ae-49fc-a1d1-e4468c008aa6]: Mt 11,22
+[^bible-0dfef705-b7ed-4303-a165-54fce789d06c]: Lk 14,14
+[^bible-45a362aa-f4cd-4517-8032-29c62bec34e6]: Lk 18,1–Lk 18,8
+[^bible-46031bae-aefe-4f4f-ab8b-c6a81485fa94]: Lk 13,6–Lk 13,9
+[^bible-5782bd03-ab4d-4802-a004-db96e23bb987]: Lk 10,9
+[^bible-834b36c9-25d0-4263-9375-2a3ab1ef29f2]: Mt 13,10
+[^bible-87a85d82-f256-4afd-9517-ba5f11cccb6b]: Mt 13,34
+[^bible-b2b7ea7c-eedc-40e0-97ba-a9aea3e2ba14]: Mk 4,14–Mk 4,20
+[^bible-baddd83d-d803-4eef-8ee3-4641f860aa0c]: Mt 13,13
+[^bible-fbd82175-ffbd-4131-aa43-6668c8e6c599]: Lk 18,1

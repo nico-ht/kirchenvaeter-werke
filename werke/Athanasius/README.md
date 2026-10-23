@@ -4,6 +4,10 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 **Nicht kommerziell · Quelle nennen · CC BY-NC-SA 4.0**
 
+## Werksammlungen
+
+- [Briefe an Serapion](Briefe%20an%20Serapion/) · 1 Werk
+
 ## Einzelwerke
 
 - [An Epiktet (Epistula ad Epictetum)](An%20Epiktet%20%28Epistula%20ad%20Epictetum%29/) · 12 Kapitel

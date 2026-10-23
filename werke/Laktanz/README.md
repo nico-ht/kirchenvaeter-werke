@@ -6,7 +6,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Göttliche Unterweisungen](G%C3%B6ttliche%20Unterweisungen/) · 4 Werke
+- [Göttliche Unterweisungen](G%C3%B6ttliche%20Unterweisungen/) · 7 Werke
 
 ## Einzelwerke
 

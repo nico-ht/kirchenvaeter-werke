@@ -189,6 +189,13 @@
     "contentRevision": "sha256:f7078482008f30c4ecd7a90b9ade1d0dc0393038b03847855d5584cbc177b610"
   },
   {
+    "workId": "a2448bde-7c62-478a-a846-08decde16a59",
+    "authorName": "Athanasius",
+    "title": "1. Brief an Serapion, über den Heiligen Geist",
+    "directory": "werke/Athanasius/Briefe an Serapion/1. Brief an Serapion, über den Heiligen Geist",
+    "contentRevision": "sha256:bce4813b1a2cd24a080eabb40d13865215ed4d7a63186de007c08498b967e907"
+  },
+  {
     "workId": "5f6a4451-9026-44b0-97bc-08df1efbfc61",
     "authorName": "Athanasius",
     "title": "An Epiktet (Epistula ad Epictetum)",
@@ -252,6 +259,13 @@
     "contentRevision": "sha256:be15140f88162c698a1d7dd38b67765926f485312e096eb14bea21938da2db2e"
   },
   {
+    "workId": "74ce86d0-5321-4359-45c3-08df133193d4",
+    "authorName": "Augustinus",
+    "title": "391. Predigt – An die Jugend",
+    "directory": "werke/Augustinus/Predigten/391. Predigt – An die Jugend",
+    "contentRevision": "sha256:ccb875fcba5e3bfe7c4b4de68bb0b86b61270eede9f0336a672f9150e899ff98"
+  },
+  {
     "workId": "58765e75-22c3-474e-7958-08df04fdf8e1",
     "authorName": "Augustinus",
     "title": "Gegen die Akademiker – Buch 1",
@@ -278,6 +292,13 @@
     "title": "Über den Glauben an unsichtbare Dinge (De fide rerum quae non videntur)",
     "directory": "werke/Augustinus/Über den Glauben an unsichtbare Dinge (De fide rerum quae non videntur)",
     "contentRevision": "sha256:86a3e4ff7bc5b5a0e4d1df4279f26af936bd12966ae0878cb702220feec38c1a"
+  },
+  {
+    "workId": "5607ae97-edd5-49e5-6e0a-08de7d5c481a",
+    "authorName": "Augustinus",
+    "title": "Über den Glauben und Werke",
+    "directory": "werke/Augustinus/Über den Glauben und Werke",
+    "contentRevision": "sha256:7af9a4577fc2cf9a666a186996c71818c3cf316c2bd12d926afcd4d4f02eb3ea"
   },
   {
     "workId": "cda927c1-4a18-4f81-d20c-08df253e6ebc",
@@ -560,6 +581,13 @@
     "contentRevision": "sha256:11cd5caafebca500d85f221e308f726cf0e50aef356993a27e5ce3d0ad9f659d"
   },
   {
+    "workId": "322da0bc-c66e-4fa5-b515-08dee572e3c5",
+    "authorName": "Commodian",
+    "title": "Unterweisungen",
+    "directory": "werke/Commodian/Unterweisungen",
+    "contentRevision": "sha256:1cf38ea13f756817db8ac4ce5a94d9b3595f045d369b01a0363f7b1fee9e23c4"
+  },
+  {
     "workId": "264244c0-625b-4ca5-1aee-08dee57549b8",
     "authorName": "Cyprian von Karthago",
     "title": "An Demetrianus",
@@ -579,6 +607,20 @@
     "title": "Brief 67 - falsche Bischöfe",
     "directory": "werke/Cyprian von Karthago/Briefe/Brief 67 - falsche Bischöfe",
     "contentRevision": "sha256:0493f1fe4f932097bfbb96d49170296b4de240784780c91557dd188ecc31dc68"
+  },
+  {
+    "workId": "68b6abdb-691b-487f-ccc7-08dd2abb5377",
+    "authorName": "Cyprian von Karthago",
+    "title": "Über Werke und Almosen",
+    "directory": "werke/Cyprian von Karthago/Über Werke und Almosen",
+    "contentRevision": "sha256:c42e3c4671bbad3b8ed470856b00b9d46e2d713c22839c815333fd079256fc20"
+  },
+  {
+    "workId": "6e0773aa-e704-4c47-ccc8-08dd2abb5377",
+    "authorName": "Cyprian von Karthago",
+    "title": "Über den Nutzen der Geduld",
+    "directory": "werke/Cyprian von Karthago/Über den Nutzen der Geduld",
+    "contentRevision": "sha256:ae3639ac676729db330a2afdf5a836e4c785fcd5242c715cc7e898bc18c9518f"
   },
   {
     "workId": "0fcc0799-80a5-464a-ccc4-08dd2abb5377",
@@ -677,6 +719,55 @@
     "title": "Beweis des Evangeliums, Buch 1",
     "directory": "werke/Eusebius/Beweis des Evangeliums/Beweis des Evangeliums, Buch 1",
     "contentRevision": "sha256:0512b606d55209519808ed05d2e0bf4a1594b9102cdde63e71a3ff6f68a867ed"
+  },
+  {
+    "workId": "30755c0b-9ee2-445c-23d4-08debe7bb2bb",
+    "authorName": "Eusebius",
+    "title": "Beweis des Evangeliums, Buch 10",
+    "directory": "werke/Eusebius/Beweis des Evangeliums/Beweis des Evangeliums, Buch 10",
+    "contentRevision": "sha256:9e99893069873a840f4eba371d16766ceebf9a2f79d19029962728a826c97029"
+  },
+  {
+    "workId": "1488d8f2-a33d-44d1-f610-08df2c31e173",
+    "authorName": "Eusebius",
+    "title": "Beweis des Evangeliums, Buch 2",
+    "directory": "werke/Eusebius/Beweis des Evangeliums/Beweis des Evangeliums, Buch 2",
+    "contentRevision": "sha256:c3e5e9eee852154c8efad3b110d72e749ee3d7e5149e035f1d74646340775a00"
+  },
+  {
+    "workId": "9168fc43-032f-4c25-f611-08df2c31e173",
+    "authorName": "Eusebius",
+    "title": "Beweis des Evangeliums, Buch 3",
+    "directory": "werke/Eusebius/Beweis des Evangeliums/Beweis des Evangeliums, Buch 3",
+    "contentRevision": "sha256:48f35fb1c5b81129548a1cb8c4eb265b6d17f8e2d5d1c9a9679c8ea47219e178"
+  },
+  {
+    "workId": "cfcff9f5-f3cc-4d0e-9285-08df209b2c53",
+    "authorName": "Eusebius",
+    "title": "Beweis des Evangeliums, Buch 6",
+    "directory": "werke/Eusebius/Beweis des Evangeliums/Beweis des Evangeliums, Buch 6",
+    "contentRevision": "sha256:7ed008a347d36f826354741a9dbfacf5f95b62b19d946728cad984560f578f55"
+  },
+  {
+    "workId": "9a8643b2-916b-41ed-f612-08df2c31e173",
+    "authorName": "Eusebius",
+    "title": "Beweis des Evangeliums, Buch 7",
+    "directory": "werke/Eusebius/Beweis des Evangeliums/Beweis des Evangeliums, Buch 7",
+    "contentRevision": "sha256:f6772bbf0a82b3aada0879d0e1feccb9d8476446e0b1909e08b69a8192ea2da8"
+  },
+  {
+    "workId": "b4f3c208-0780-4827-f613-08df2c31e173",
+    "authorName": "Eusebius",
+    "title": "Beweis des Evangeliums, Buch 8",
+    "directory": "werke/Eusebius/Beweis des Evangeliums/Beweis des Evangeliums, Buch 8",
+    "contentRevision": "sha256:36131a58fb706f68a437868ffc4b52f9f67ff1f881111c99a75ebe99775b7faa"
+  },
+  {
+    "workId": "1804faea-1406-4510-f614-08df2c31e173",
+    "authorName": "Eusebius",
+    "title": "Beweis des Evangeliums, Buch 9",
+    "directory": "werke/Eusebius/Beweis des Evangeliums/Beweis des Evangeliums, Buch 9",
+    "contentRevision": "sha256:c121f2a0c26dc2fa99bd48604aebcc0fadaea568a12bf1af1ecf11b6dfba8621"
   },
   {
     "workId": "8a6cf785-800c-49a2-b596-08dd0f21e34f",
@@ -2002,6 +2093,27 @@
     "contentRevision": "sha256:68d662f49a85338a599a34cb88251758745c8d76957903d6d6517bc2ed5c215f"
   },
   {
+    "workId": "f666bf98-d604-4ad1-1847-08deba57a031",
+    "authorName": "Laktanz",
+    "title": "Göttliche Unterweisungen, Buch 2",
+    "directory": "werke/Laktanz/Göttliche Unterweisungen/Göttliche Unterweisungen, Buch 2",
+    "contentRevision": "sha256:3a994977a9c69af2bdae3045b28011dea6a2880d12e26cf4b80446dc4dc78fc8"
+  },
+  {
+    "workId": "37adf9cd-0155-470e-555f-08df2c7e3e29",
+    "authorName": "Laktanz",
+    "title": "Göttliche Unterweisungen, Buch 3",
+    "directory": "werke/Laktanz/Göttliche Unterweisungen/Göttliche Unterweisungen, Buch 3",
+    "contentRevision": "sha256:46f2d17874f4fe2c32e57eeec4bbaa971273c1cf4df9e63a4d6381d24f05e5b1"
+  },
+  {
+    "workId": "f5a37bcb-c57d-49f5-2390-08debeedc93b",
+    "authorName": "Laktanz",
+    "title": "Göttliche Unterweisungen, Buch 4",
+    "directory": "werke/Laktanz/Göttliche Unterweisungen/Göttliche Unterweisungen, Buch 4",
+    "contentRevision": "sha256:1737581f7dd7c9ae02551b5b541fc9fad5043f4dadab09b39544c310d93849c4"
+  },
+  {
     "workId": "eebf76cb-e59f-4b68-21c8-08df23296889",
     "authorName": "Laktanz",
     "title": "Göttliche Unterweisungen, Buch 5",
@@ -2450,6 +2562,13 @@
     "contentRevision": "sha256:55cde64481b64f3d91551226bd56ae74cf4800ed22a83d9d0e5ad40edebc3365"
   },
   {
+    "workId": "d9422041-d2bd-4078-97d0-08df1efbfc61",
+    "authorName": "Origenes",
+    "title": "14. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/14. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:a9053e523ec9be79899ed834d37749311af50798807466c17e6b6543538ce944"
+  },
+  {
     "workId": "dab9743f-6804-4ee6-159a-08df23a78072",
     "authorName": "Origenes",
     "title": "14. Homilie über Levitikus",
@@ -2469,6 +2588,13 @@
     "title": "14. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/14. Predigt zu Genesis",
     "contentRevision": "sha256:f3563dc71ce72844eed44949f3a7f43402c0eb9972e63e0382dcaeb6462d9e57"
+  },
+  {
+    "workId": "a7c4052d-299d-43dc-2304-08df209c828f",
+    "authorName": "Origenes",
+    "title": "15. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/15. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:5f0e21ecd9f6adedbe0b3ff1afd396f17b5dd437b7f46109504926af3ec2c167"
   },
   {
     "workId": "d76ef9a3-1306-4a38-a2d9-08df26c2cd69",
@@ -2709,6 +2835,13 @@
     "contentRevision": "sha256:ac5397d0d015f0b4bb32d830b41c18045e7c12afee6e63fe272bb8d1c9840afb"
   },
   {
+    "workId": "a7db0097-caff-4422-97a6-08df1efbfc61",
+    "authorName": "Origenes",
+    "title": "3. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/3. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:bd123671f23217248b8fee37a6026a006df1596aac2c95320cc167b3fb424d55"
+  },
+  {
     "workId": "83a1ba1e-5e85-4b6f-a2dc-08df26c2cd69",
     "authorName": "Origenes",
     "title": "3. Homilie über Levitikus",
@@ -2735,6 +2868,13 @@
     "title": "3. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/3. Predigt zu Genesis",
     "contentRevision": "sha256:e69d47ccbe8e4dd7bba61d976249f115b0d63d9bcaf32d82d84925baa7402ac1"
+  },
+  {
+    "workId": "33266379-86d9-4fe2-3d59-08df23bd2351",
+    "authorName": "Origenes",
+    "title": "4. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/4. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:d25981ba111396a494326ef4981dfae62b716883d85ebbeaa7df8fba30074d6a"
   },
   {
     "workId": "a213da7f-8c77-4471-a2dd-08df26c2cd69",
@@ -3071,6 +3211,13 @@
     "title": "Psalm 3",
     "directory": "werke/Origenes/Predigten zu den Psalmen/Psalm 3",
     "contentRevision": "sha256:03c9baecef076a4dc98addf0eab7333a3eb40a98e1e7a80f555825e9e8bc2716"
+  },
+  {
+    "workId": "3c992217-1ec0-4d0e-65a5-08dd071bbf24",
+    "authorName": "Origenes",
+    "title": "Über das Gebet",
+    "directory": "werke/Origenes/Über das Gebet",
+    "contentRevision": "sha256:17b0dc3d314f69baaa47b4f1a3d9ec5b7412710be30658c758fe272945a646be"
   },
   {
     "workId": "e4e7683a-7c5a-4b0f-488a-08dd64125f97",
@@ -3470,6 +3617,13 @@
     "title": "Über den Mantel",
     "directory": "werke/Tertullian/Über den Mantel",
     "contentRevision": "sha256:17d212bdd75c96a863f2d0c72c97605036ba9eddee1260fc69d069dbab0f1392"
+  },
+  {
+    "workId": "fda239c2-5b70-4c17-132a-08dd5333b41a",
+    "authorName": "Tertullian",
+    "title": "Über die Auferstehung des Fleisches",
+    "directory": "werke/Tertullian/Über die Auferstehung des Fleisches",
+    "contentRevision": "sha256:be5c30ce0f7440f06c031ed2ac9e8b3bb6ed714f2e4a246c72adb289cac1235c"
   },
   {
     "workId": "9d88f5a2-b305-4a91-1751-08ddab223eaf",

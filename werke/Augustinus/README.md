@@ -7,10 +7,12 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Werksammlungen
 
 - [Gegen die Akademiker](Gegen%20die%20Akademiker/) · 3 Werke
+- [Predigten](Predigten/) · 1 Werk
 
 ## Einzelwerke
 
 - [Über den Glauben an unsichtbare Dinge (De fide rerum quae non videntur)](%C3%9Cber%20den%20Glauben%20an%20unsichtbare%20Dinge%20%28De%20fide%20rerum%20quae%20non%20videntur%29/) · 8 Kapitel
+- [Über den Glauben und Werke](%C3%9Cber%20den%20Glauben%20und%20Werke/) · 27 Kapitel
 - [Über den Nutzen des Glaubens (De utilitate credendi)](%C3%9Cber%20den%20Nutzen%20des%20Glaubens%20%28De%20utilitate%20credendi%29/) · 18 Kapitel
 - [Über den christlichen Kampf (De agone christiano)](%C3%9Cber%20den%20christlichen%20Kampf%20%28De%20agone%20christiano%29/) · 33 Kapitel
 - [Über die Lüge](%C3%9Cber%20die%20L%C3%BCge/) · 21 Kapitel

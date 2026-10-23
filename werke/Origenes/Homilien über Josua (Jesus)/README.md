@@ -10,6 +10,8 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 - [1. Homilie über Josua (Jesus)](1.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 7 Kapitel
 - [2. Homilie über Josua (Jesus)](2.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 4 Kapitel
+- [3. Homilie über Josua (Jesus)](3.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 5 Kapitel
+- [4. Homilie über Josua (Jesus)](4.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 4 Kapitel
 - [5. Homilie über Josua (Jesus)](5.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 6 Kapitel
 - [6. Homilie über Josua (Jesus)](6.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 4 Kapitel
 - [8. Predigt zu Jesus](8.%20Predigt%20zu%20Jesus/) · 7 Kapitel
@@ -17,6 +19,8 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [10. Homilie über Josua (Jesus)](10.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 3 Kapitel
 - [11. Homilie über Josua (Jesus)](11.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 6 Kapitel
 - [12. Homilie über Josua (Jesus)](12.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 3 Kapitel
+- [14. Homilie über Josua (Jesus)](14.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 2 Kapitel
+- [15. Homilie über Josua (Jesus)](15.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 7 Kapitel
 - [16. Homilie über Josua (Jesus)](16.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 5 Kapitel
 - [17. Homilie über Josua (Jesus)](17.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 3 Kapitel
 - [18. Homilie über Josua (Jesus)](18.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 3 Kapitel

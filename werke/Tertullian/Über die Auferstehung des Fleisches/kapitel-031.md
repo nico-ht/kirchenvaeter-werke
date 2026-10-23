@@ -1,0 +1,21 @@
+# Über die Auferstehung des Fleisches – Kapitel 31: Die Auferstehungsverheißung gilt allen Völkern und ist kein bloßes Bild für Israels Wiederherstellung
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-die-auferstehung-des-fleisches#kapitel-eef18032-dc13-46ad-977d-08df2b9f0e60).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Gewiss, wenn auch das Volk in einem Bild gemurrt hätte, seine Knochen seien vertrocknet und seine Hoffnung verloren[^bible-a67188de-13bf-4e96-91c4-7c194e29f8c2], und dabei über die Folgen seiner Zerstreuung geklagt hätte, dann könnte man mit Recht annehmen, dass auch Gott dem Volk in seiner bildlich ausgedrückten Verzweiflung mit einer bildlichen Verheißung Trost gespendet habe\. Nun hatte aber das Unheil der Zerstreuung das Volk noch gar nicht getroffen, während seine Hoffnung auf die Auferstehung schon sehr oft zusammengebrochen war\. Offenkundig untergrub es mit dem Hinweis auf den Verfall der Körper das Vertrauen auf die Auferstehung\. So baute Gott eben den Glauben wieder auf, den das Volk zerstörte\. Doch selbst wenn Israel damals wegen irgendeiner Bedrängnis in seiner gegenwärtigen Lage trauerte, wäre die Offenbarung deshalb nicht als Gleichnis zu verstehen, sondern als Zeugnis für die Auferstehung\. Sie sollte das Volk zu jener Hoffnung erheben, nämlich auf das ewige Heil und die Wiederherstellung, die ihm nötiger war, und seinen Blick von den gegenwärtigen Verhältnissen abwenden\. Darauf zielen auch die anderen Propheten: „Ihr werdet aus den Gräbern herauskommen wie Kälber, die von ihren Fesseln befreit sind, und eure Feinde zertreten\.[^bible-be6bc699-61d6-4d22-bedc-b9f86256878c]“ Und wiederum: „Euer Herz wird sich freuen, und eure Knochen werden wie Gras[^bible-cebbde9f-ecb8-4188-9c05-5e88b6b2fbb1] [^bible-cebbde9f-ecb8-4188-9c05-5e88b6b2fbb1]aufsprießen\.[^bible-cebbde9f-ecb8-4188-9c05-5e88b6b2fbb1]“ Denn auch das Gras entsteht neu aus der Auflösung und Verwesung des Samens\. Kurz: Wenn man darauf besteht, das Bild der auferstehenden Knochen beziehe sich eigens auf Israels Lage, warum wird dann dieselbe Hoffnung nicht nur Israel, sondern auch allen Völkern verkündet: dass die Überreste wieder einen Körper und eine Seele erhalten und die Toten aus den Gräbern auferweckt werden? Denn von allen ist gesagt: „Die Toten werden leben und aus den Gräbern aufstehen; denn der Tau, der von dir kommt, ist Heilung für ihre Knochen\.[^bible-1c9b60dd-5c85-4b9f-86ce-54b6fd17630d]“ Ebenso heißt es anderswo: „Alles Fleisch wird kommen, um vor meinen Augen anzubeten, spricht der Herr\.[^bible-88d39625-f59a-4049-afc6-cbefe1925693]“ Wann? Wenn „die Gestalt dieser Welt zu vergehen beginnt[^bible-5dd38729-fcf4-4e6b-88ac-f8ee77d31508]“\. Denn zuvor heißt es: „So wie der neue Himmel und die neue Erde, die ich vor meinen Augen schaffe, spricht der Herr, wird auch euer Same Bestand haben\.[^bible-c374d528-b171-478e-b4af-9f65dcf3eba4]“ Dann also wird sich erfüllen, was er hinzufügt: „Und sie werden herauskommen[^bible-572b3b86-3e05-495c-bc7d-27efc9fbf1ab]“ \(nämlich aus den Gräbern\), „und sie werden die Glieder derer sehen, die gottlos gehandelt haben; denn ihr Wurm[^bible-572b3b86-3e05-495c-bc7d-27efc9fbf1ab] [^bible-572b3b86-3e05-495c-bc7d-27efc9fbf1ab]wird nicht abfallen, und ihr Feuer wird nicht erlöschen, und sie werden allem Fleisch vor Augen stehen[^bible-572b3b86-3e05-495c-bc7d-27efc9fbf1ab]“, nämlich dem Fleisch, das auferweckt und aus den Gräbern herausgekommen ist und den Herrn für diese Gnade anbeten wird\.
+
+## Bibelverweise
+
+[^bible-1c9b60dd-5c85-4b9f-86ce-54b6fd17630d]: Jes 26,19
+[^bible-572b3b86-3e05-495c-bc7d-27efc9fbf1ab]: Jes 66,24
+[^bible-5dd38729-fcf4-4e6b-88ac-f8ee77d31508]: 1Kor 7,31
+[^bible-88d39625-f59a-4049-afc6-cbefe1925693]: Jes 66,23
+[^bible-a67188de-13bf-4e96-91c4-7c194e29f8c2]: Hes 37,11
+[^bible-be6bc699-61d6-4d22-bedc-b9f86256878c]: Mal 3,20–Mal 3,21
+[^bible-c374d528-b171-478e-b4af-9f65dcf3eba4]: Jes 66,22
+[^bible-cebbde9f-ecb8-4188-9c05-5e88b6b2fbb1]: Jes 66,14

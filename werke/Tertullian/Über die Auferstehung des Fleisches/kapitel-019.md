@@ -1,0 +1,15 @@
+# Über die Auferstehung des Fleisches – Kapitel 19: Wie Häretiker die Auferstehung in Gotteserkenntnis oder Befreiung der Seele umdeuten
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-die-auferstehung-des-fleisches#kapitel-3d215939-63c0-4e46-0e41-08ddbe34283c).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Diese Prüfung der Bezeichnung und der Verkündigung selbst, die ja die verlässliche Bedeutung der Wörter verteidigt, muss also dazu führen, dass überall dort, wo die Gegenseite unter Berufung auf Bilder und Rätsel Verwirrung stiftet, das Klarere den Vorrang hat und das Gewissere den Maßstab für das Ungewisse vorgibt\. Manche greifen nämlich die geläufigste Form prophetischer Rede auf, die meist, aber nicht immer allegorisch und bildhaft ist, und verdrehen auch die klar verkündigte Auferstehung der Toten zu einer bloß bildlichen Aussage\. Sie behaupten, selbst der Tod müsse geistlich verstanden werden\. Der wirkliche Tod sei nämlich nicht der allgemein bekannte, die Trennung von Fleisch und Seele, sondern die Unkenntnis Gottes, durch die der Mensch für Gott tot sei und nicht weniger tot im Irrtum liege als in einem Grab\. Entsprechend müsse man auch unter der Auferstehung verstehen, dass jemand zur Wahrheit gelange, neu beseelt und für Gott wieder lebendig gemacht werde, den Tod der Unwissenheit abschüttle und gleichsam aus dem Grab des alten Menschen hervorbreche\. Denn auch der Herr habe die Schriftgelehrten und Pharisäer mit weiß getünchten Gräbern verglichen[^bible-207fd5de-fd05-4252-9d83-a897a33cc4cc]\. Daher seien diejenigen, die durch den Glauben die Auferstehung erlangt hätten, beim Herrn, da sie ihn in der Taufe angezogen hätten[^bible-342899b4-4d1f-455f-bec7-2aa7d0785085]\. Mit diesem Kunstgriff pflegen sie schließlich auch in Gesprächen unsere Leute oft zu täuschen, als würden auch sie die Auferstehung des Fleisches anerkennen\. „Wehe dem“, sagen sie, „der nicht in diesem Fleisch aufersteht\!“ Damit wollen sie verhindern, dass unsere Leute sie sofort angreifen, wie es bei einer sofortigen Leugnung der Auferstehung geschehen würde\. Im Stillen aber meinen sie nach ihrem eigenen Verständnis: „Wehe dem, der nicht, solange er im Fleisch ist, die Geheimnisse der Häresie erkennt\!“ Denn darin besteht für sie die Auferstehung\. Doch auch viele, die die Auferstehung beim Scheiden der Seele ansetzen, verstehen unter „das Grab verlassen“ das Entrinnen aus der Welt, weil auch die Welt die Wohnstätte der Toten sei, das heißt derer, die Gott nicht kennen\. Oder sie verstehen darunter das Verlassen des Körpers selbst, weil auch der Körper wie ein Grab die eingeschlossene Seele im Tod des weltlichen Lebens gefangen halte\.
+
+## Bibelverweise
+
+[^bible-207fd5de-fd05-4252-9d83-a897a33cc4cc]: Mt 23,27
+[^bible-342899b4-4d1f-455f-bec7-2aa7d0785085]: Gal 3,27

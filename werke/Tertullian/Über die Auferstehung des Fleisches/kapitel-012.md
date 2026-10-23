@@ -1,0 +1,18 @@
+# Über die Auferstehung des Fleisches – Kapitel 12: Die Kreisläufe der Natur bezeugen die Auferstehung des Fleisches schon vor der Schrift
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-die-auferstehung-des-fleisches#kapitel-ee3752b2-92fc-4d56-0e3a-08ddbe34283c).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Betrachte nun auch die Beispiele göttlicher Macht selbst\. Der Tag stirbt in die Nacht hinein und wird ringsum in Finsternis begraben\. Die Pracht der Welt trägt Trauer; jede Substanz verdunkelt sich; alles ist trüb, still und starr; überall ruht das öffentliche Leben\. So wird das verlorene Licht betrauert\. Und doch lebt es wieder auf, mit seinem Schmuck, seiner Mitgift, seiner Sonne, dasselbe Licht, unversehrt und ganz, für den gesamten Erdkreis\. Es tötet seinen Tod, die Nacht, und bricht sein Grab auf, die Finsternis; es wird zu seinem eigenen Erben, bis auch die Nacht mit ihrer Pracht wieder auflebt\. Denn auch die Strahlen der Sterne entzünden sich wieder, die das aufflammende Morgenlicht ausgelöscht hatte\. Auch die verschwundenen Gestirne kehren zurück, die der Wechsel der Zeiten dem Blick entzogen hatte\. Auch die Spiegelflächen des Mondes, die der Monatslauf abgenutzt hatte, werden wieder geschmückt\. Winter und Sommer, Frühling und Herbst kehren wieder, mit ihren Kräften, ihren Eigenarten, ihren Früchten\. Auch die Erde lernt ja vom Himmel, die entkleideten Bäume wieder zu bekleiden, den Blumen aufs Neue Farbe zu geben, wieder Gras wachsen zu lassen und dieselben Samen hervorzubringen, die zugrunde gegangen sind, sie aber erst hervorzubringen, wenn sie zugrunde gegangen sind[^bible-99d2980f-60bc-4cba-9037-0020d3252393]\. Welch wunderbares Verfahren\! Aus der Betrügerin wird eine Bewahrerin: Sie nimmt weg, um zurückzugeben; sie vernichtet, um zu bewahren; sie beschädigt, um wieder heil zu machen; um etwas sogar zu mehren, zehrt sie es zuvor auf\. Denn sie stellt reicher und schöner wieder her, was sie vernichtet hat: Der Untergang ist wahrhaftig ein Zinsgeschäft, die Schädigung ein Zinsertrag, der Verlust ein Gewinn\. Um es mit einem Wort zu sagen: Die gesamte Schöpfung kehrt wieder\. Was immer dir begegnet, war schon einmal da; was du auch verlierst, es gibt nichts, was nicht wiederkehrt\. Alles kehrt in seinen Zustand zurück, wenn es daraus geschieden ist; alles beginnt, wenn es aufgehört hat; es endet gerade deshalb, damit es entsteht\. Nichts geht zugrunde, außer um gerettet zu werden\. Diese ganze Ordnung der Dinge, die immer wieder ihren Kreislauf nimmt, ist also ein Zeugnis für die Auferstehung der Toten\.
+
+Gott schrieb es in seine Werke, bevor er es in die Schriften schrieb; er verkündete es in seinen mächtigen Taten früher als in seinen inspirierten Worten\. Zuerst sandte er dir die Natur als Lehrerin, weil er auch die Prophetie als ergänzende Lehrmeisterin senden wollte, damit du als Schüler der Natur der Prophetie leichter glauben und ihr Zeugnis ohne Zögern annehmen kannst, wenn du hörst, was du schon überall gesehen hast; und damit du nicht daran zweifelst, dass Gott, den du als den Wiederhersteller aller Dinge erkannt hast, ebenso der Wiedererwecker des Fleisches ist\.
+
+Und wenn doch alles für den Menschen aufersteht, für den es bereitgestellt wurde, dies aber nur dann für den Menschen geschieht, wenn es auch für das Fleisch geschieht, wie kann dann das Fleisch selbst vollständig zugrunde gehen, um dessentwillen und für das nichts zugrunde geht?
+
+## Bibelverweise
+
+[^bible-99d2980f-60bc-4cba-9037-0020d3252393]: 1Kor 15,36

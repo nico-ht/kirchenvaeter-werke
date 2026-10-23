@@ -24,6 +24,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Über das Zeugnis der Seele](%C3%9Cber%20das%20Zeugnis%20der%20Seele/) · 6 Kapitel
 - [Über den Götzendienst](%C3%9Cber%20den%20G%C3%B6tzendienst/) · 24 Kapitel
 - [Über den Mantel](%C3%9Cber%20den%20Mantel/) · 6 Kapitel
+- [Über die Auferstehung des Fleisches](%C3%9Cber%20die%20Auferstehung%20des%20Fleisches/) · 63 Kapitel
 - [Über die Buße](%C3%9Cber%20die%20Bu%C3%9Fe/) · 12 Kapitel
 - [Über die Seele](%C3%9Cber%20die%20Seele/) · 58 Kapitel
 - [Über die Verschleierung von Jungfrauen](%C3%9Cber%20die%20Verschleierung%20von%20Jungfrauen/) · 17 Kapitel
