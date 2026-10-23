@@ -1,0 +1,17 @@
+# 391\. Predigt – An die Jugend – Kapitel 3: Die Jugend braucht die heilsame Härte der Wahrheit, nicht die verderbliche Süße der Schmeichelei
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-391#kapitel-7ca8445a-d563-4e0c-3fa7-08df30885674).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn also Kindheit und Greisenalter nicht frei von Versuchungen sind, obwohl die Kindheit kaum erst in dieses Leben eintritt und das Greisenalter schon daraus scheidet, obwohl das eine vor kurzem noch nicht da war und das andere bald nicht mehr da sein wird: Was sollen wir dann von der Glut der Jugend denken und sagen? Sie steht zwischen beiden, hat die Schwäche der Kindheit schon hinter sich und die Erstarrung des Alters noch nicht erreicht\. Sie wird von zahlreicheren und heftigeren Stürmen der Versuchung erschüttert und vom immer neuen Ansturm der überflutenden Welt bedeckt\. Sie vertraut auf ihre Kräfte, prahlt mit ihrer schönen Gestalt und sehnt sich danach, im Prunk zeitlicher Güter zu glänzen, oder freut sich, wenn sie es kann\. Für eine verdorbene Jugend ist daher alles Gift, was die Wahrheit gebietet, und alles Nahrung, was der Teufel einflüstert\. Doch die Bitterkeit der Gerechtigkeit ist das Heilmittel für die Wunde dieses Alters; die Süße der Ungerechtigkeit ist eine Falle für seinen Übermut\. Darauf bezieht sich das Schriftwort: „Süßer sind die Wunden eines Freundes als die bereitwilligen Küsse eines Feindes[^bible-d6513952-7eb4-50e8-98e1-a6a4b30b1a20]\.“ Ebenso das Wort Davids: „Der Gerechte wird mich in Barmherzigkeit zurechtweisen und mich tadeln; das Öl des Sünders aber soll mein Haupt nicht salben[^bible-a5c8b67e-923e-5aac-b389-2fab8c6a2256]\.“ Die Wahrheit soll brennen, wenn sie nur heilt\! Denn das Öl des Sünders, das Schmeicheln des Jasagers, tut wohl und täuscht doch\. Dabei wird der Stolz besänftigt, aber das Leben gerät ins Gleiten\. Der Prophet spricht nämlich im Namen eines Menschen, der schon den Arzt sucht, die Hand des Heilenden auch unter bitteren Schmerzen erträgt und lieber von seiner Krankheit geheilt als für sie gelobt werden will\. Gefährlich ist die Wunde der Jugend, die sich an Begierden entzündet, vor Hoffnung anschwillt und durch Lust dahinsiecht\. Doch diese Hoffnung ist die Hoffnung von Menschen, die verzweifelt sind, eine Hoffnung auf vergängliche Dinge\. Sie löst die unglückliche Seele nicht von ihrem Verlangen, sondern bläht es auf und macht sie unfähig, die Berührung der Wahrheit zu ertragen\. Weil sie sogar an ihrer Unsterblichkeit verzweifelt, sagt sie gern und liebt auch die, die ihr sagen: „Lasst uns essen und trinken; morgen werden wir ja sterben[^bible-c8577aaa-e017-5abf-9603-f6ec933bb107]\.“ Dagegen hasst sie es, zu sagen und zu hören: „Werdet nüchtern, ihr Gerechten, und sündigt nicht[^bible-f7379040-8b69-523a-b63b-17cdcf780bcc]\.“ Sie liebt die verderbliche Milde des Feindes und hasst die heilsame Härte des Arztes\. Diese Verkehrtheit, dieser Wahnsinn ist gerade in der Jugend zu fürchten\.
+
+## Bibelverweise
+
+[^bible-a5c8b67e-923e-5aac-b389-2fab8c6a2256]: Ps 140,5
+[^bible-c8577aaa-e017-5abf-9603-f6ec933bb107]: 1Kor 15,32
+[^bible-d6513952-7eb4-50e8-98e1-a6a4b30b1a20]: Spr 27,6
+[^bible-f7379040-8b69-523a-b63b-17cdcf780bcc]: 1Kor 15,34
