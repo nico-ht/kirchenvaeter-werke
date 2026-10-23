@@ -1,0 +1,10 @@
+# Beweis des Evangeliums, Buch 2 – Einleitung: Auch die Völker haben Anteil an den Verheißungen über Christus
+
+Autor: Eusebius
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/eusebius/beweis-des-evangeliums-buch-2#kapitel-69bfb304-9231-90b1-6094-eb92a3838765).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Im vorigen Buch habe ich die Lebensweise wahrer Gottesverehrung und das Leben in Christus behandelt, die durch die Lehre des Evangeliums allen Menschen vor Augen gestellt werden\. Dabei habe ich gezeigt und, wie ich meine, überzeugend dargelegt, dass es nicht allen Völkern möglich war, nach den jüdischen Gesetzen zu leben, selbst wenn sie es gewollt hätten\. Nun greife ich den Gedankengang noch einmal von Anfang an auf und kehre zu den Zeugnissen der Propheten zurück, um unseren Anklägern aus dem Kreis der Beschnittenen ausführlicher zu antworten\. Denn sie behaupteten, wir hätten keinerlei Anteil an den bei ihnen schriftlich festgehaltenen Verheißungen: Die Propheten hätten zu ihnen gehört, ihnen werde auch der Christus angekündigt, den sie gern ihren Retter und Erlöser nennen, und sie erwarteten, dass ihnen die niedergeschriebenen Zusagen erfüllt würden\. Wir hingegen hätten mit all dem nichts zu schaffen, da wir unserer Herkunft nach fremden Völkern angehörten, denen in sämtlichen Weissagungen das Schlimmste angekündigt werde\. Darauf wollen wir ihnen nun aus ihren eigenen prophetischen Büchern antworten\. Dass ihnen Gottes Christus verheißen ist und seine Ankunft als Erlösung für Israel angekündigt wird, würden auch wir nicht bestreiten; das wird in ihrer gesamten Schrift unbestreitbar deutlich dargelegt\. Dass sie aber die Völker von den durch Christus erwarteten Gütern ausschließen, als wären diese allein Israel und nicht auch den Völkern verheißen, dürfen wir ihnen nicht mehr zugestehen\. Denn mit dieser Behauptung widersprechen sie dem Zeugnis der göttlichen Schriften\.
