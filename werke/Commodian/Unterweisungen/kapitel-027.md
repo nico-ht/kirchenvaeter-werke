@@ -1,0 +1,10 @@
+# Unterweisungen – Kapitel 27: Der Tod trennt dich vom Fleisch, aber du lebst weiter und entkommst Gottes Herrschaft nicht
+
+Autor: Commodian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/commodian/commodian-unterweisungen#kapitel-97f4882d-d281-42eb-1c95-08df278587ab).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Du Dummer, du wirst nicht ganz sterben, und auch als Toter entkommst du dem Höchsten nicht\. Magst du auch annehmen, dass du als Verstorbener nichts mehr spürst, du wirst widerlegt, du Unvernünftiger: Gott, der Schöpfer der Welt, lebt, und seine Gesetze verkünden laut, dass die Verstorbenen am Leben sind\. Weil du aber blindlings ohne Gott leben willst, hältst du dich mit dem Tod für ausgelöscht und glaubst, das sei dein Schicksal\. Der ewige Gott hat es nicht so bestimmt, wie du meinst: Die Toten vergessen nicht, was sie zuvor getan haben\. Er, der jetzt über uns herrscht, hat die Stätten des Todes geschaffen; wenn wir zu Asche geworden sind, werden wir sie sehen\. Leg das ab, du Dummer, der du meinst, nach dem Tod nicht mehr zu sein\! Du hast deinen Lenker und Herrn für machtlos erklärt\. Der Tod führt aber nicht ins Nichts, wenn du es im Herzen bedenkst\. Erkenne, dass du nach ihm verlangen sollst; denn zu spät wirst du ihn zu spüren bekommen\. Du warst der Herr über das Fleisch; gewiss hat nicht das Fleisch über dich geherrscht\. Du wirst von ihm befreit; es wird begraben, du aber kommst hierher\. Mit Recht wird der sterbliche Mensch vom Fleisch getrennt\. Darum werden sterbliche Augen dem nicht gleichkommen können\. So steht es mit unserem Abgrund nach Gottes verborgenem Ratschluss\. Gib also jetzt Gott die Ehre, solange du als gebrechlicher Mensch hier verweilst, und glaube, dass Christus dich nach deinem Tod wieder lebendig machen wird\. Du sollst dem Allmächtigen in der Kirche Lob darbringen\.

@@ -1,0 +1,10 @@
+# Unterweisungen – Kapitel 24: Unentschiedenheit führt nach dem Tod zur Strafe, der Glaube an Christus dagegen zur Wonne
+
+Autor: Commodian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/commodian/commodian-unterweisungen#kapitel-ddad74dc-bc01-43e4-1c92-08df278587ab).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Du meinst, dich zwischen beiden Seiten abzusichern, indem du unentschieden lebst, und gehst doch, des Gesetzes entkleidet und vom üppigen Leben zermürbt, deinen Weg\. Vergeblich hältst du nach so vielem Ausschau\. Warum suchst du das Unrechte? Alles, was du getan hast, bleibt hier zurück, wenn du tot bist\. Bedenke das, du dummer Mensch: Du warst nicht, und sieh, nun bist du sichtbar\. Du weißt weder, woher du gekommen bist, noch, woher du deine Nahrung erhältst\. Du fliehst vor dem höchsten Gott, der deinem Leben Gutes erweist, vor deinem Herrscher, der vielmehr möchte, dass du lebst\. Du drehst dich mit dem Gesicht nach unten und kehrst Gott den Rücken\. Du versenkst dich in die Finsternis und meinst dabei, im Licht zu bleiben\. Warum läufst du zu den Pharisäern in der Synagoge, damit sich dir der barmherzig zeigt, den du aus freien Stücken verleugnest? Du gehst von dort hinaus und suchst erneut das Heilsame\. Du willst zwischen beiden Seiten leben, aber daran wirst du zugrunde gehen\. Außerdem sagst du: „Wer ist es, der vom Tod erlöst hat, dass wir ihm glauben sollten, dort würden Strafen vollzogen?“ Nein, du Böswilliger, es ist nicht so, wie du denkst\. Denn wer recht gelebt hat, dem kommt das nach dem Tod zugute\. Du aber wirst gleich nach deinem Tod an einen bösen Ort geführt, die an Christus glauben dagegen an einen guten Ort\. Jene Wonne bleibt bei ihnen und erfreut sie\. Euch aber, die ihr zweifelt, trifft die Strafe auch ohne Körper; das Vorgehen des Folterers treibt euch dazu, dem Bruder zuzuschreien\.

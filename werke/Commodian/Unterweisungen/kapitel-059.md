@@ -1,0 +1,10 @@
+# Unterweisungen – Kapitel 59: Christliche Frauen sollen ihren Reichtum im Geben zeigen, nicht im eitlen Schmuck
+
+Autor: Commodian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/commodian/commodian-unterweisungen#kapitel-a78ed657-070c-4933-6db4-08dee572e3c6).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Du willst, christliche Frau, dass die ehrbaren Frauen den Damen der Welt gleichen\. Du umgibst dich mit Gold oder mit dem sittsamen seidenen Gewand\. Die Furcht vor dem Gesetz schlägst du von deinen Ohren in den Wind\. Du pflegst Eitelkeit mit dem ganzen Prunk des Teufels\. Vor dem Spiegel schmückst du dich, indem du dein gelocktes Haar von der Stirn zurücklegst\. Und dazu trägst du in böser Absicht falsche Mittel auf: auf deine reinen Augen das Stibium, mit gemalter Schönheit; oder du färbst dein Haar, damit es immer schwarz sei\. Gott ist der Aufseher, der in jedes Herz hinabtaucht\. Doch solche Dinge sind für sittsame Frauen nicht nötig\. Durchbohre deine Brust mit keuschem und sittsamem Empfinden\. Das Gesetz Gottes bezeugt, dass solche Gesetze aus dem Herzen weichen, das glaubt\. Einer Frau, die ihrem Mann bewährt ist, soll es genügen, dass sie es ist: nicht durch ihre Kleidung, sondern durch ihre gute Gesinnung\. Zieh nur Kleider an, wie Kälte und Hitze oder zu viel Sonne es verlangen, damit du als sittsam anerkannt wirst und deine Gaben unter dem Volk Gottes sichtbar machst\. Du, die du einst höchst angesehen warst, gib dir das Aussehen einer Verachteten\. Die Frau, die leblos dalag, wurde durch die Gebete der Witwen auferweckt\. Sie verdiente, vom Tod auferweckt zu werden, nicht durch ihr kostbares Kleid, sondern durch ihre Gaben\. Ihr guten ehrbaren Frauen, flieht den Schmuck der Eitelkeit; eine solche Tracht passt zu Frauen, die in den Bordellen verkehren\. Besiegt den Bösen, ihr sittsamen Frauen Christi\. Zeigt euren ganzen Reichtum im Geben\.
