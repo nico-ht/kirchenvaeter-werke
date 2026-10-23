@@ -1,0 +1,17 @@
+# 1\. Brief an Serapion, über den Heiligen Geist – Kapitel 1: Wer den Heiligen Geist zum Geschöpf erklärt, lästert trotz Abkehr von den Arianern auch den Sohn
+
+Autor: Athanasius
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/1-brief-an-serapion-ueber-den-heiligen-geist#kapitel-695cc461-7177-43d8-0fee-08df2c80badb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Das Schreiben deiner Heiligkeit wurde mir in der Wüste überbracht\. Die Verfolgung, die uns bedrängte, war zwar bitter, und diejenigen, die uns töten wollten, suchten eifrig nach uns; doch der „Vater [^bible-f02b84f3-6664-45c6-b6e2-b1918812fd5f]des Erbarmens [^bible-f02b84f3-6664-45c6-b6e2-b1918812fd5f]und [^bible-f02b84f3-6664-45c6-b6e2-b1918812fd5f]Gott [^bible-f02b84f3-6664-45c6-b6e2-b1918812fd5f]allen Trostes[^bible-f02b84f3-6664-45c6-b6e2-b1918812fd5f]“ tröstete [^bible-35016912-6f26-416a-93d1-02f766225e73]uns[^bible-35016912-6f26-416a-93d1-02f766225e73] auch durch dein Schreiben\. Denn als ich an deine Gesinnung und an alle Getreuen dachte, war mir, als wären sie damals bei mir anwesend\. So freute ich mich lange darüber, das Schreiben in Händen zu halten\. Als ich es aber las, begann ich wieder den Mut zu verlieren wegen derer, die sich ein für alle Mal darauf verlegt haben, gegen die Wahrheit zu kämpfen\. Du schriebst nämlich, mein Lieber, nach dem ich mich wahrhaft so sehr sehne, selbst voller Trauer, dass einige sich zwar wegen der Lästerung gegen den Sohn Gottes von den Arianern getrennt haben, aber gegen den Heiligen Geist feindlich gesinnt sind\. Sie behaupten, er sei nicht nur ein Geschöpf, sondern auch einer der dienenden Geister[^bible-d40b3340-b5cb-4ec0-8b11-f7da7ede227b] und unterscheide sich von den Engeln nur im Rang\. Das ist aber ein vorgetäuschter Kampf gegen die Arianer, in Wahrheit dagegen Widerspruch gegen den frommen Glauben\. Denn wie jene, indem sie den Sohn verleugnen, [^bible-846a7d5b-17f2-413d-a379-11cff875676e]auch [^bible-846a7d5b-17f2-413d-a379-11cff875676e]den Vater [^bible-846a7d5b-17f2-413d-a379-11cff875676e]verleugnen[^bible-846a7d5b-17f2-413d-a379-11cff875676e], so lästern diese, indem sie den Heiligen Geist lästern, auch den Sohn\. Beide Parteien haben den Widerstand gegen die Wahrheit unter sich aufgeteilt, damit sie, die einen gegen das Wort, die anderen gegen den Geist feindlich gesinnt, so dieselbe Lästerung gegen die heilige Dreifaltigkeit gemeinsam haben\. Als ich mir das alles vor Augen führte und eingehend darüber nachdachte, verlor ich daher den Mut, weil der Teufel wieder eine Gelegenheit gefunden hat, sein Spiel in denen zu treiben, die seinen Wahnsinn zur Schau stellen\. Ich hatte mich zwar entschlossen, in einer solchen Zeit zu schweigen\. Doch auf die Aufforderung deiner Heiligkeit hin und wegen ihrer Irrlehre und satanischen Vermessenheit habe ich diesen Brief in wenigen Worten geschrieben, obwohl ich selbst dies nur mit Mühe zustande bringen konnte, allein damit auch du daraus Anregung schöpfst, mit der dir eigenen Einsicht das Fehlende ergänzt und die Widerlegung der gottlosen Häresie vollständig wird\.
+
+## Bibelverweise
+
+[^bible-35016912-6f26-416a-93d1-02f766225e73]: 2Kor 1,4
+[^bible-846a7d5b-17f2-413d-a379-11cff875676e]: 1Joh 2,23
+[^bible-d40b3340-b5cb-4ec0-8b11-f7da7ede227b]: Hebr 1,14
+[^bible-f02b84f3-6664-45c6-b6e2-b1918812fd5f]: 2Kor 1,3
