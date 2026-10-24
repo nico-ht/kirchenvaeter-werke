@@ -1,0 +1,26 @@
+# Beweis des Evangeliums, Buch 5 – Kapitel 9: Gottes Wort erscheint Abraham in Menschengestalt, nicht ein Engel oder der Gott über allem
+
+Autor: Eusebius
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/eusebius/beweis-des-evangeliums-buch-5#kapitel-d610b0fd-6b1c-4b3b-dd7a-08df2c383ac1).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Der Herr aber erschien Abraham und sagte zu ihm:[^bible-98d00237-609b-424d-98a1-8456643b8cf3] ‚Deinen Nachkommen werde ich dieses Land geben\.[^bible-98d00237-609b-424d-98a1-8456643b8cf3]‘“ Und wiederum: „Abraham war neunundneunzig Jahre alt, und der Herr erschien Abraham und sagte zu ihm:[^bible-e5632544-0f07-4006-a9db-822c9f5f6038] ‚Ich bin Gott\. Lebe vor mir so, dass du mir gefällst, und sei untadelig\. Ich werde meinen Bund zwischen dir und mir schließen und dich sehr zahlreich machen\.[^bible-e5632544-0f07-4006-a9db-822c9f5f6038]‘“ Und erneut: „Gott aber erschien ihm bei der Eiche von Mamre, als er um die Mittagszeit am Eingang seines Zeltes saß\. Er erhob die Augen und sah: Da standen drei Männer vor ihm\. Als er sie sah, lief er ihnen vom Zelteingang aus entgegen und warf sich nieder\.[^bible-e4d910bc-120d-43e6-83f5-1966069cffb6]“ Im Anschluss an die Erscheinung fügt die Schrift hinzu: „Der Herr aber sagte:[^bible-b7f36ca1-fa5a-4137-ae0a-e55ef7890f54] ‚Soll ich etwa vor Abraham, meinem Knecht, verbergen, was ich tue? Abraham wird doch zu einem großen und zahlreichen Volk werden, und in ihm werden alle Völker der Erde gesegnet werden\.[^bible-b7f36ca1-fa5a-4137-ae0a-e55ef7890f54]‘“ Daran schließt er wiederum Worte an, als spräche er von einem anderen: „Denn ich wusste, dass er seinen Söhnen und seinem Haus nach ihm Weisung geben wird und dass sie die Wege des Herrn bewahren und Gerechtigkeit und Recht üben werden, damit der Herr über Abraham kommen lässt, was er ihm zugesagt hat\.[^bible-b984f83c-0b83-4a11-8e04-a5a40a316ca5]“
+
+Nach dem Schriftbericht spricht diese Worte der Herr selbst, der Abraham die Offenbarung gibt\. Damit bekennt er einen anderen Herrn, nämlich seinen Vater und den Schöpfer des Alls\. Abraham aber, der als Prophet genau erkennt, wer ihm die Offenbarung gibt, fleht im Anschluss an die zuvor angeführten Worte: „Vernichte nicht den Gerechten zusammen mit dem Gottlosen, sodass es dem Gerechten wie dem Gottlosen ergeht\. Wenn fünfzig Gerechte in der Stadt sind, wirst du sie vernichten? Wirst du nicht den ganzen Ort um der fünfzig Gerechten willen verschonen? Auf keinen Fall wirst du so etwas tun und den Gerechten zusammen mit dem Gottlosen töten, sodass es dem Gerechten wie dem Gottlosen ergeht\. Auf keinen Fall\! Du, der du die ganze Erde richtest, wirst du nicht Recht üben?[^bible-9b9269e2-06f4-40fc-906a-8bbda2bdd66b]“ Ich halte es nicht für angemessen, zu behaupten, er richte diese Worte an Engel oder an einen der Diener Gottes\. Denn es ist nicht Sache eines Beliebigen, die ganze Erde zu richten[^bible-58477ec7-0972-4479-8a2e-fb0bc59690c8]\. Der zuvor Beschriebene wird auch nicht als Engel bezeichnet, sondern als einer, der höher steht als ein Engel: als „Gott[^bible-ea46e9c2-9d22-4842-b1d0-fa81853ed240]“ und „Herr[^bible-358476ce-c654-4136-8a3d-4d838df8acde]“, der bei der erwähnten Eiche zusammen mit den beiden Engeln in Menschengestalt erschien[^bible-a4493b1c-7d9c-44ea-a5c3-8a5e254d980a]\. Andererseits darf man auch nicht annehmen, dass damit der Gott über allem gemeint ist\. Denn es ist nicht gottesfürchtig zu behaupten, das Göttliche verändere sich und nehme das Aussehen und die Gestalt eines Mannes an\. Es bleibt also nur das Bekenntnis, dass er Gottes Wort ist, dessen Gottheit zuvor dargelegt wurde\. Daher verehren die Bewohner der Umgebung den Ort noch heute als heilig, zu Ehren derer, die dort Abraham erschienen sind[^bible-9a7de564-60ee-ff2e-683b-7a545574b52c]; auch die Terebinthe ist bis heute erhalten und zu sehen\. Denn die Gäste Abrahams sind auf einem Bild dargestellt: zwei, einer auf jeder Seite, in der Mitte aber der Höhere, der sie an Würde überragt\. Dieser dürfte eben der Herr sein, den wir beschrieben haben, unser Retter, den auch diejenigen verehren, die ihn nicht kennen; damit bestätigen sie die göttlichen Schriftworte\. Er selbst also säte von jener Zeit an die Samen der Gottesfurcht unter den Menschen\. Er nahm menschliches Aussehen und menschliche Gestalt an, offenbarte dem von Gott geliebten Stammvater Abraham, wer er war, und teilte ihm den Willen seines Vaters mit\.
+
+## Bibelverweise
+
+[^bible-358476ce-c654-4136-8a3d-4d838df8acde]: Gen 18,17
+[^bible-58477ec7-0972-4479-8a2e-fb0bc59690c8]: Gen 18,25
+[^bible-98d00237-609b-424d-98a1-8456643b8cf3]: Gen 12,7
+[^bible-9a7de564-60ee-ff2e-683b-7a545574b52c]: Gen 18,1–Gen 18,2
+[^bible-9b9269e2-06f4-40fc-906a-8bbda2bdd66b]: Gen 18,23–Gen 18,25
+[^bible-a4493b1c-7d9c-44ea-a5c3-8a5e254d980a]: Gen 18,1–Gen 18,2; Gen 19,1
+[^bible-b7f36ca1-fa5a-4137-ae0a-e55ef7890f54]: Gen 18,17–Gen 18,18
+[^bible-b984f83c-0b83-4a11-8e04-a5a40a316ca5]: Gen 18,19
+[^bible-e4d910bc-120d-43e6-83f5-1966069cffb6]: Gen 18,1–Gen 18,2
+[^bible-e5632544-0f07-4006-a9db-822c9f5f6038]: Gen 17,1–Gen 17,2
+[^bible-ea46e9c2-9d22-4842-b1d0-fa81853ed240]: Gen 18,1
