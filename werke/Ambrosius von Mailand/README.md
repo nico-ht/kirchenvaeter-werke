@@ -16,4 +16,5 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Über Elija und das Fasten](%C3%9Cber%20Elija%20und%20das%20Fasten/) · 22 Kapitel
 - [Über Naboth](%C3%9Cber%20Naboth/) · 17 Kapitel
 - [Über Tobias](%C3%9Cber%20Tobias/) · 24 Kapitel
+- [Über das Geheimnis der Menschwerdung des Herrn](%C3%9Cber%20das%20Geheimnis%20der%20Menschwerdung%20des%20Herrn/) · 10 Kapitel
 - [Über die Witwen](%C3%9Cber%20die%20Witwen/) · 15 Kapitel

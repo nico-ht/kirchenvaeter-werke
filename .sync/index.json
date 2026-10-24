@@ -42,6 +42,13 @@
     "contentRevision": "sha256:9b8d4c0ce53425ff8b997b12a4e67ff1581bdff5a3643516ba133607ea9652ac"
   },
   {
+    "workId": "ee113e47-dba6-4080-97bb-08df1efbfc61",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Über das Geheimnis der Menschwerdung des Herrn",
+    "directory": "werke/Ambrosius von Mailand/Über das Geheimnis der Menschwerdung des Herrn",
+    "contentRevision": "sha256:ae5c9f8274baeed97027006af2c11a863a0dc3b5ce46cac3712d1d7a4bfcd336"
+  },
+  {
     "workId": "e60fe068-d835-455d-c536-08df20d50984",
     "authorName": "Ambrosius von Mailand",
     "title": "Über die Pflichten, Buch 1",
@@ -588,6 +595,13 @@
     "contentRevision": "sha256:1cf38ea13f756817db8ac4ce5a94d9b3595f045d369b01a0363f7b1fee9e23c4"
   },
   {
+    "workId": "d365cfb6-04f1-4895-cccd-08dd2abb5377",
+    "authorName": "Cyprian von Karthago",
+    "title": "3. Buch der Zeugnisse gegen die Juden",
+    "directory": "werke/Cyprian von Karthago/3. Buch der Zeugnisse gegen die Juden",
+    "contentRevision": "sha256:179aae5d89ef1c00afb7a2daca621d060b750ddf88e0be047ff4ddf78c7b8eb2"
+  },
+  {
     "workId": "264244c0-625b-4ca5-1aee-08dee57549b8",
     "authorName": "Cyprian von Karthago",
     "title": "An Demetrianus",
@@ -740,6 +754,20 @@
     "title": "Beweis des Evangeliums, Buch 3",
     "directory": "werke/Eusebius/Beweis des Evangeliums/Beweis des Evangeliums, Buch 3",
     "contentRevision": "sha256:48f35fb1c5b81129548a1cb8c4eb265b6d17f8e2d5d1c9a9679c8ea47219e178"
+  },
+  {
+    "workId": "5928f80d-74b7-41bd-23d5-08debe7bb2bb",
+    "authorName": "Eusebius",
+    "title": "Beweis des Evangeliums, Buch 4",
+    "directory": "werke/Eusebius/Beweis des Evangeliums/Beweis des Evangeliums, Buch 4",
+    "contentRevision": "sha256:8a16270f08b335cd366b3db1a98edc08084c4a526ec6b07ff8622b8a4f85099f"
+  },
+  {
+    "workId": "c47bc18c-c0a2-4e6a-2083-08dead0f2325",
+    "authorName": "Eusebius",
+    "title": "Beweis des Evangeliums, Buch 5",
+    "directory": "werke/Eusebius/Beweis des Evangeliums/Beweis des Evangeliums, Buch 5",
+    "contentRevision": "sha256:149fe29b9d941465f8207362ca5342c085b455af4cf5651f4ee6fe1ad803370a"
   },
   {
     "workId": "cfcff9f5-f3cc-4d0e-9285-08df209b2c53",
@@ -903,11 +931,25 @@
     "contentRevision": "sha256:5cc6273d18774be2e3c4605fca1ac26688df8294515ea9ed17b28776df8a6e30"
   },
   {
+    "workId": "7f6c6571-9165-4e7d-ea50-08defeaf27c3",
+    "authorName": "Gregor von Nazianz",
+    "title": "An Vitalianus, von seinen Söhnen",
+    "directory": "werke/Gregor von Nazianz/Gedichte über andere/An Vitalianus, von seinen Söhnen",
+    "contentRevision": "sha256:5be7147f08913b13a847d72c0273d78f86c0fc301701452acc3276f430b003bb"
+  },
+  {
     "workId": "9e9522a8-3a38-4bea-ddf3-08defeba7d78",
     "authorName": "Gregor von Nazianz",
     "title": "Ermahnung an Olympias",
     "directory": "werke/Gregor von Nazianz/Gedichte über andere/Ermahnung an Olympias",
     "contentRevision": "sha256:9e0854041fa2b51f64acb6b1ae6f480d3a1b7a7ed17535219eafbbe9a0e3c68a"
+  },
+  {
+    "workId": "b4296b24-037d-4a6b-eb06-08defeb9d027",
+    "authorName": "Gregor von Nazianz",
+    "title": "Von Nicobulus an seinen Vater",
+    "directory": "werke/Gregor von Nazianz/Gedichte über andere/Von Nicobulus an seinen Vater",
+    "contentRevision": "sha256:19d4caa0f8d347f83acf4f14a65feab5c0f5ed723734f322dd82fc5c9d765fcd"
   },
   {
     "workId": "52807f8a-a3b8-4648-a2dc-08df1a4e62f2",
@@ -2973,6 +3015,13 @@
     "title": "6. Predigt zu Genesis",
     "directory": "werke/Origenes/Predigten zu Genesis/6. Predigt zu Genesis",
     "contentRevision": "sha256:4edda4b23efefb956402720e02bde4fe24a3f0af3b4fd8053d466ea1c94d0961"
+  },
+  {
+    "workId": "a1a7e63f-a16a-41a5-97cf-08df1efbfc61",
+    "authorName": "Origenes",
+    "title": "7. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/7. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:807226de39ea94663529cdf7d685b73ee499dca1341390b55cd1f8d7596fbf7f"
   },
   {
     "workId": "5aeee1bb-613e-4734-a293-08dee664dc0b",

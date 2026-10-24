@@ -14,6 +14,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [4. Homilie über Josua (Jesus)](4.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 4 Kapitel
 - [5. Homilie über Josua (Jesus)](5.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 6 Kapitel
 - [6. Homilie über Josua (Jesus)](6.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 4 Kapitel
+- [7. Homilie über Josua (Jesus)](7.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 7 Kapitel
 - [8. Predigt zu Jesus](8.%20Predigt%20zu%20Jesus/) · 7 Kapitel
 - [9. Homilie über Josua (Jesus)](9.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 10 Kapitel
 - [10. Homilie über Josua (Jesus)](10.%20Homilie%20%C3%BCber%20Josua%20%28Jesus%29/) · 3 Kapitel
