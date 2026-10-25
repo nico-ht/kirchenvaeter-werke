@@ -1,0 +1,16 @@
+# Über das Erhabene – Kapitel 1: Das Erhabene überwältigt statt zu überzeugen und offenbart schlagartig die ganze Kraft des Redners
+
+Autor: Unbekannt
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/ueber-das-erhabene#kapitel-0f873c40-c827-4859-62b8-08df32302dd0).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Als wir die kleine Schrift des Caecilius über das Erhabene gemeinsam durchgingen, mein lieber Postumius †Florentianus, schien sie uns, wie du weißt, der Größe ihres Gegenstands nicht gewachsen zu sein\. Sie berührte die entscheidenden Fragen kaum und brachte ihren Lesern wenig Nutzen, obwohl gerade darauf ein Schriftsteller vor allem zielen muss\. Denn jede Darstellung einer Kunst muss zweierlei leisten: zunächst zeigen, worin ihr Gegenstand besteht, und dann, was zwar an zweiter Stelle steht, aber wesentlich wichtiger ist, wie und mit welchen Methoden wir ihn uns aneignen können\. Caecilius jedoch versucht mit zahllosen Worten zu zeigen, was das Erhabene ist, als wüssten wir das nicht\. Wie wir aber unsere natürlichen Anlagen so fördern können, dass wir in gewissem Maße an Größe gewinnen, hat er, ich weiß nicht warum, als unnötig übergangen\.
+
+Allerdings sollte man diesen Mann vielleicht weniger für seine Versäumnisse tadeln als für das Vorhaben selbst und seinen Eifer loben\. Da du mich aber nachdrücklich aufgefordert hast, auch meinerseits dir zuliebe einige Gedanken über das Erhabene aufzuzeichnen, wollen wir nun prüfen, was wir etwa an nützlichen Einsichten für Menschen im öffentlichen Leben gewonnen zu haben glauben\. Du selbst, mein Freund, wirst mir helfen, die Einzelheiten mit aller Aufrichtigkeit zu beurteilen, wie es deiner Art entspricht und sich gehört\. Denn treffend hat derjenige gesprochen, der auf die Frage, worin wir den Göttern gleichen, Wohltun und Wahrheit nannte\.
+
+Da ich an dich schreibe, mein lieber Freund, einen Mann von umfassender Bildung, brauche ich wohl nicht erst ausführlich vorauszuschicken, dass das Erhabene eine Art Gipfel und herausragende Höhe der Rede ist\. Allein dadurch haben die größten Dichter und Schriftsteller ihren Vorrang gewonnen und alle Zeiten mit ihrem Ruhm erfüllt\.
+
+Denn das Außerordentliche führt die Hörer nicht zur Überzeugung, sondern reißt sie aus sich selbst heraus\. Das Staunenswerte übertrifft mit seiner erschütternden Wirkung überall und jederzeit das, was überzeugt oder gefällt\. Ob wir uns überzeugen lassen, liegt nämlich meist in unserer Hand; das Außerordentliche dagegen übt unwiderstehliche Macht und Gewalt aus und erhebt sich damit über jeden Hörer\. Die Erfahrung im Auffinden des Stoffes und das Geschick in seiner Anordnung und Gestaltung erkennen wir nicht an einer oder zwei Stellen, sondern erst mit Mühe am gesamten Gefüge der Rede\. Das Erhabene dagegen sprengt, im rechten Augenblick hervorgebracht, den ganzen Stoff wie ein Blitz auseinander und offenbart auf einen Schlag die volle Kraft des Redners\. Denn dies und Ähnliches könntest du, mein liebster Terentianus, wie ich glaube, auch selbst aus eigener Erfahrung darlegen\.
