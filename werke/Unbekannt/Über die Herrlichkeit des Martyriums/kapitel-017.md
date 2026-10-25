@@ -1,0 +1,15 @@
+# Über die Herrlichkeit des Martyriums – Kapitel 17: Weder Reichtum noch Familienliebe dürfen im Martyrium dem ewigen Heil vorgezogen werden
+
+Autor: Unbekannt
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/pseudo-cyprian-ueber-die-herrlichkeit-des-martyriums#kapitel-e6165767-edc9-41f0-16d3-08df3223262f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn dich aber ein ehrgeizig erstrebter Rang zurückschrecken lässt und sich dir die Menge des in Schatzkammern angehäuften Geldes in Erinnerung ruft, die stets ein gutes Herz von seinem Vorsatz abbringt und eine ihrem Herrn ergebene Seele durch rasende Ehrsucht fortgerissen hat, dann rufe dir, so bitte ich dich, die himmlischen Worte wieder ins Gedächtnis\. Denn auch dies ist ein Ausspruch Christi: „Wer um meines Namens willen sein Leben verliert, wird in dieser Welt das Hundertfache empfangen und in der künftigen Welt das ewige Leben haben\.[^bible-7dd489a7-25d5-407f-b5a2-56110e4b2d49]“ Gewiss dürfen wir nichts für größer, nichts für angemessener, nichts für nützlicher halten als dieses Leben\. Mag sich auch Purpur, wie bei kostbaren Gewändern üblich, zu Bildern fügen und Gold in geschmeidigen Fäden zu schönen Mustern winden, mag es auch nicht an schweren, aus der Erde gegrabenen Metallschätzen fehlen, auf denen du ruhst: All das wird, wenn ich mich nicht täusche, als nichtig und leer gelten, wenn sich zeigt, dass dir zwar alles zur Verfügung steht, aber einzig das Heil fehlt\. So sagt auch der Heilige Geist, dass wir nichts als Gegenwert für unsere Seele geben können[^bible-e990b53f-f1bc-4fbd-9ad6-f07e37cf34a5]\. Er sagt nämlich: „Wenn du die ganze Welt gewinnst, aber deine Seele verlierst, was wird es dir nützen? Oder was kann ein Mensch als Gegenwert für seine Seele geben?[^bible-e990b53f-f1bc-4fbd-9ad6-f07e37cf34a5]“ Denn alles, was wir sehen, ist nichtig und kann, auf schwachen Wurzeln gegründet, seine eigene Festigkeit nicht aufrechterhalten\. Was man von der Welt empfängt, wird mit der Zeit hinfällig\. Damit also nichts süß oder lieb sei oder dem Verlangen nach ewigem Heil vorgezogen werden könne, ist all dies durch die Gebote des Herrn abgeschnitten und seines eigenen Rechts und Gesetzes beraubt worden\. Damit nämlich kein Sohn seinen gefolterten Vater und kein Bruder seinen Bruder breche und nicht etwa Zuneigung das zu unnachgiebiger Stärke gefestigte Herz zu einem anderen Entschluss bewege, hat Christus aus eigenem Recht bestimmt, dass man unter schweren Qualen allein die Wahrheit und allein das Heil umfangen soll\. In Christus gilt es, den Ehepartner, die Kinder und Enkel, in ihm alle Nachkommen aus dem eigenen Leib durch einen glücklichen Sieg zu gewinnen\.
+
+## Bibelverweise
+
+[^bible-7dd489a7-25d5-407f-b5a2-56110e4b2d49]: Mt 10,39; Mt 19,29; Mk 10,30
+[^bible-e990b53f-f1bc-4fbd-9ad6-f07e37cf34a5]: Mt 16,26

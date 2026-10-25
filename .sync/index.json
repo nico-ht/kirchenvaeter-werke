@@ -959,6 +959,13 @@
     "contentRevision": "sha256:19d4caa0f8d347f83acf4f14a65feab5c0f5ed723734f322dd82fc5c9d765fcd"
   },
   {
+    "workId": "0da2d76f-cb35-46b1-e551-08df132a9e66",
+    "authorName": "Gregor von Nyssa",
+    "title": "12. Homilie zum Hohelied",
+    "directory": "werke/Gregor von Nyssa/12. Homilie zum Hohelied",
+    "contentRevision": "sha256:a8d4d1a74048a329f8e357419499891217dc0dd46bbae86bb86db1e26a48bfe8"
+  },
+  {
     "workId": "52807f8a-a3b8-4648-a2dc-08df1a4e62f2",
     "authorName": "Gregor von Nyssa",
     "title": "Brief 2: Über Pilgerreisen",
@@ -1974,6 +1981,13 @@
     "contentRevision": "sha256:785deccfc8c69f0bb1d1ae8affa8e063356fae6dcfbc68ea7b2dfe557c248864"
   },
   {
+    "workId": "a7a3e3b9-31e6-43ed-325c-08dee5b603e4",
+    "authorName": "Johannes Chrysostomus",
+    "title": "Dass Frauen nicht mit Männern zusammenwohnen sollen",
+    "directory": "werke/Johannes Chrysostomus/Dass Frauen nicht mit Männern zusammenwohnen sollen",
+    "contentRevision": "sha256:d599050b95995a9cbb990113fb9a989fd76d1abf04c42792d00a55c206c1e025"
+  },
+  {
     "workId": "8dbc06e4-b663-4510-9304-08df2ab9dfd2",
     "authorName": "Johannes Chrysostomus",
     "title": "Erste Lobrede auf die Märtyrerin Pelagia",
@@ -2119,6 +2133,13 @@
     "title": "Über die Auferstehung",
     "directory": "werke/Justin der Märtyrer/Über die Auferstehung",
     "contentRevision": "sha256:d1e1d332c5bf64513881174a8232f44a114b55d7259a161b96cd1e305a1b49ac"
+  },
+  {
+    "workId": "29801750-43ba-4813-d9e1-08dea9fde3d9",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Kommentar zu Johannes, Buch 7",
+    "directory": "werke/Kyrill von Alexandria/Kommentar zu Johannes/Kommentar zu Johannes, Buch 7",
+    "contentRevision": "sha256:8657602e6d172fa6bec82570adbc1aa33baa13897afb57134044731eb0695704"
   },
   {
     "workId": "56a32181-f998-45d1-2d0b-08dd14605f00",
@@ -3801,6 +3822,13 @@
     "contentRevision": "sha256:58f8b9f5e011b5fc2de20647ee83799996ceed4f37cde6d76c1aae80afd2c306"
   },
   {
+    "workId": "bd12d583-26ab-40e6-602d-08df322325b0",
+    "authorName": "Unbekannt",
+    "title": "Gegen Novatian",
+    "directory": "werke/Unbekannt/Gegen Novatian",
+    "contentRevision": "sha256:56cca5793d1f463bc9bff81a69eebfdc8b823ab4afbafdf0fe6390dbbec1ae36"
+  },
+  {
     "workId": "5faaac4b-7265-4aae-2982-08df0355bdaf",
     "authorName": "Unbekannt",
     "title": "Gespräch des Archelaus",
@@ -3848,6 +3876,20 @@
     "title": "Vom Untergang Jerusalems, Buch 5",
     "directory": "werke/Unbekannt/Vom Untergang Jerusalems/Vom Untergang Jerusalems, Buch 5",
     "contentRevision": "sha256:b572c6c5241d7d2d6adca84f469a1c93a304d1c3ac8097ebf35093aa85041153"
+  },
+  {
+    "workId": "5f28cf67-34b6-4a3c-4559-08df132d7450",
+    "authorName": "Unbekannt",
+    "title": "Über das Erhabene",
+    "directory": "werke/Unbekannt/Über das Erhabene",
+    "contentRevision": "sha256:573c8ba3df9560b095bb62f391be01825462d7641fe0c87f3addadfdbaf71c08"
+  },
+  {
+    "workId": "9f75808c-a3fe-4010-bcc8-08df20c6ce7a",
+    "authorName": "Unbekannt",
+    "title": "Über die Herrlichkeit des Martyriums",
+    "directory": "werke/Unbekannt/Über die Herrlichkeit des Martyriums",
+    "contentRevision": "sha256:3eab17f6225aa82a5b8199fa2a4bc18ef2bc1b53c855cb5844a8b580a9d31ada"
   },
   {
     "workId": "677d7a4d-af40-4462-e277-08dd2f5b6104",

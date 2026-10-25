@@ -13,5 +13,8 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Brief von Aristeas](Brief%20von%20Aristeas/) · 11 Kapitel
 - [Das Martyrium der heiligen Märtyrerinnen Perpetua und Felicitas](Das%20Martyrium%20der%20heiligen%20M%C3%A4rtyrerinnen%20Perpetua%20und%20Felicitas/) · 7 Kapitel
 - [Das Protoevangelium von Jakobus](Das%20Protoevangelium%20von%20Jakobus/) · 25 Kapitel
+- [Gegen Novatian](Gegen%20Novatian/) · 18 Kapitel
 - [Gespräch des Archelaus](Gespr%C3%A4ch%20des%20Archelaus/) · 54 Kapitel
 - [Physiologus](Physiologus/) · 51 Kapitel
+- [Über das Erhabene](%C3%9Cber%20das%20Erhabene/) · 44 Kapitel
+- [Über die Herrlichkeit des Martyriums](%C3%9Cber%20die%20Herrlichkeit%20des%20Martyriums/) · 30 Kapitel

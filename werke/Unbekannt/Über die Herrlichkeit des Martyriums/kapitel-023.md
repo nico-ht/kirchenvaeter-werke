@@ -1,0 +1,10 @@
+# Über die Herrlichkeit des Martyriums – Kapitel 23: Im Martyrium ehrt Gott die Glaubenstreuen und schenkt Sündern aus Erbarmen das verlorene Heil zurück
+
+Autor: Unbekannt
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/pseudo-cyprian-ueber-die-herrlichkeit-des-martyriums#kapitel-5e9fc53c-0e77-47da-16d9-08df3223262f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nichts ist also so groß und verehrungswürdig wie das, was vom Tod befreit, lebendig macht und ewige Herrschaft schenkt\. Den Heiligen Gottes ist es angemessen, den Elenden notwendig und allen willkommen\. Daran freuen sich die Guten, dadurch werden die Niedergedrückten aufgerichtet und die Erwählten geheilt\. Denn Gott, der alle hegt und pflegt, hat mit dem Martyrium gleichsam ein Heilmittel für das Leben gegeben: Den einen gewährte er es um ihres Verdienstes willen, den anderen schenkte er es aus seinem Erbarmen\. Wir sehen ja, dass viele, die sich durch ihren Glauben auszeichnen, zu diesem Ehrentitel gelangt sind, damit der Tod ihren hingebungsvollen Gehorsam ehre\. Doch oft haben wir auch andere unerschrocken standhalten sehen, damit sie mit ihrem eigenen Blut die begangene Sünde sühnten und so als in Blut Gewaschene galten und als Getötete wieder auflebten, sie, die zu Lebzeiten als getötet galten\. Denn der Tod macht das Leben vollkommener, der Tod gewinnt die verlorene Herrlichkeit zurück\. Dadurch wird die schon verlorene Hoffnung wiedergewonnen und das Heil ganz wiederhergestellt\. So half es auch, wenn den Bauern die Saat missraten war und die Erde glühte, während die Pflanzen abstarben, von sanften Hügelhängen einen Wasserlauf abzuleiten und die dürstenden Äcker mit sprudelnden Bächen zu kühlen, damit sich die überwundene Kargheit des Ackers in üppigen Halmen verströmte und das Getreide durch den nachgeahmten Regen dichter emporragte\.
