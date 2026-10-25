@@ -595,13 +595,6 @@
     "contentRevision": "sha256:1cf38ea13f756817db8ac4ce5a94d9b3595f045d369b01a0363f7b1fee9e23c4"
   },
   {
-    "workId": "d365cfb6-04f1-4895-cccd-08dd2abb5377",
-    "authorName": "Cyprian von Karthago",
-    "title": "3. Buch der Zeugnisse gegen die Juden",
-    "directory": "werke/Cyprian von Karthago/3. Buch der Zeugnisse gegen die Juden",
-    "contentRevision": "sha256:179aae5d89ef1c00afb7a2daca621d060b750ddf88e0be047ff4ddf78c7b8eb2"
-  },
-  {
     "workId": "264244c0-625b-4ca5-1aee-08dee57549b8",
     "authorName": "Cyprian von Karthago",
     "title": "An Demetrianus",
@@ -621,6 +614,13 @@
     "title": "Brief 67 - falsche Bischöfe",
     "directory": "werke/Cyprian von Karthago/Briefe/Brief 67 - falsche Bischöfe",
     "contentRevision": "sha256:0493f1fe4f932097bfbb96d49170296b4de240784780c91557dd188ecc31dc68"
+  },
+  {
+    "workId": "d365cfb6-04f1-4895-cccd-08dd2abb5377",
+    "authorName": "Cyprian von Karthago",
+    "title": "Buch 3",
+    "directory": "werke/Cyprian von Karthago/Zeugnisse an Quirinus/Buch 3",
+    "contentRevision": "sha256:2221dff258cd0ac965c0762ae139cdca4561542c70abba114ce54e4c2c6e833e"
   },
   {
     "workId": "68b6abdb-691b-487f-ccc7-08dd2abb5377",
@@ -705,6 +705,13 @@
     "title": "Brief an Basilides",
     "directory": "werke/Dionysius von Alexandria/Brief an Basilides",
     "contentRevision": "sha256:818727b9d812b997b0cf5e08648ba0b78c39b6f06849a2fa2c5fd512e1b6378b"
+  },
+  {
+    "workId": "602b47f2-6b1d-454e-795d-08df2f547e9f",
+    "authorName": "Dorotheos von Gaza",
+    "title": "Briefe an verschiedene Empfänger",
+    "directory": "werke/Dorotheos von Gaza/Briefe an verschiedene Empfänger",
+    "contentRevision": "sha256:4eac2ba70e591581c0b8862cde7989740f200ef36afa57ebf707071fcd6641f2"
   },
   {
     "workId": "600c199e-5827-4323-b499-08df143d42b0",
@@ -2315,6 +2322,20 @@
     "title": "Rede 9",
     "directory": "werke/Methodius von Olympus/Gastmahl der zehn Jungfrauen/Rede 9",
     "contentRevision": "sha256:8bf0e4b02124ba3f2b411298184a1ed144e80da7faf78ad10ffd7c775f4ffb67"
+  },
+  {
+    "workId": "9d89edb8-39f6-4477-602b-08df322325b0",
+    "authorName": "Methodius von Olympus",
+    "title": "Über das Leben und das vernünftige Handeln",
+    "directory": "werke/Methodius von Olympus/Über das Leben und das vernünftige Handeln",
+    "contentRevision": "sha256:e79b2b39176e4fe5ec5cf20e186edb5e05376ee7eb36fbfb63bbca5bd1977de5"
+  },
+  {
+    "workId": "d50a1fa5-c858-4db0-602c-08df322325b0",
+    "authorName": "Methodius von Olympus",
+    "title": "Über den Blutegel",
+    "directory": "werke/Methodius von Olympus/Über den Blutegel",
+    "contentRevision": "sha256:12ab3c4e61fbe8bafcbeef3e1f3d0e841f1f8f586e7b58aefb8210e7d121c073"
   },
   {
     "workId": "f201dfeb-f4f5-45cb-422e-08debbfdea2f",
