@@ -10,5 +10,6 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Einzelwerke
 
+- [An Sistelius über den Aussatz](An%20Sistelius%20%C3%BCber%20den%20Aussatz/) · 18 Kapitel
 - [Über das Leben und das vernünftige Handeln](%C3%9Cber%20das%20Leben%20und%20das%20vern%C3%BCnftige%20Handeln/) · 8 Kapitel
 - [Über den Blutegel](%C3%9Cber%20den%20Blutegel/) · 10 Kapitel

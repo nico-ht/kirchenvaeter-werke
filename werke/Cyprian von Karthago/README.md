@@ -18,4 +18,3 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Über die Sinnlosigkeit der Götzen](%C3%9Cber%20die%20Sinnlosigkeit%20der%20G%C3%B6tzen/) · 15 Kapitel
 - [Über die Sterblichkeit](%C3%9Cber%20die%20Sterblichkeit/) · 26 Kapitel
 - [Über die Verfallenen](%C3%9Cber%20die%20Verfallenen/) · 36 Kapitel
-- [Über öffentliche Veranstaltungen](%C3%9Cber%20%C3%B6ffentliche%20Veranstaltungen/) · 10 Kapitel

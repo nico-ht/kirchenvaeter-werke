@@ -7,3 +7,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Werksammlungen
 
 - [Kommentar zu Johannes](Kommentar%20zu%20Johannes/) · 1 Werk
+
+## Einzelwerke
+
+- [Fragmente zum ersten Korintherbrief](Fragmente%20zum%20ersten%20Korintherbrief/) · 1 Kapitel

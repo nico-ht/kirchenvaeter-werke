@@ -665,13 +665,6 @@
     "contentRevision": "sha256:3baaea5b1e2e088f005b5f2a71e39a47a785803e010b49fa83236badce074b82"
   },
   {
-    "workId": "32f88a56-d71e-4c65-e777-08de08d551ab",
-    "authorName": "Cyprian von Karthago",
-    "title": "Über öffentliche Veranstaltungen",
-    "directory": "werke/Cyprian von Karthago/Über öffentliche Veranstaltungen",
-    "contentRevision": "sha256:c5902c86b0892c97dcea5c0ba72d033bdbe5454acb99739837daf73fdcb8d32a"
-  },
-  {
     "workId": "557ced50-2d98-4778-6d2b-08ddd84180a6",
     "authorName": "Cäsarius von Arles",
     "title": "Am Tag des Jüngsten Gerichts - 56. Predigt",
@@ -2135,6 +2128,13 @@
     "contentRevision": "sha256:d1e1d332c5bf64513881174a8232f44a114b55d7259a161b96cd1e305a1b49ac"
   },
   {
+    "workId": "66eb88cb-0e29-445a-e552-08df132a9e66",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Fragmente zum ersten Korintherbrief",
+    "directory": "werke/Kyrill von Alexandria/Fragmente zum ersten Korintherbrief",
+    "contentRevision": "sha256:5b55e9e10bc1d4a864d5782c97d26321acdd1a6061e8a9f7b37ea2298a5ccab1"
+  },
+  {
     "workId": "29801750-43ba-4813-d9e1-08dea9fde3d9",
     "authorName": "Kyrill von Alexandria",
     "title": "Kommentar zu Johannes, Buch 7",
@@ -2259,6 +2259,13 @@
     "title": "Über das Passah",
     "directory": "werke/Melito von Sardes/Über das Passah",
     "contentRevision": "sha256:a01eccffa28b5d0752613d66e8f616b488dca95fe06cf25a47ce106db15f1f58"
+  },
+  {
+    "workId": "949bc067-2405-48d1-8a61-08df3287fdb0",
+    "authorName": "Methodius von Olympus",
+    "title": "An Sistelius über den Aussatz",
+    "directory": "werke/Methodius von Olympus/An Sistelius über den Aussatz",
+    "contentRevision": "sha256:99108c88785c98f570068b047b8c708374ffa22e1e1c14594564430494bd7549"
   },
   {
     "workId": "f3899f30-33f4-41e7-7a5a-08df1e6d00ed",
@@ -3458,6 +3465,13 @@
     "contentRevision": "sha256:d3cd2b40a3da3352c6022e42ac684907c06066c5bcdd230302976d60e7e5ba32"
   },
   {
+    "workId": "1f7b47f1-c36e-4001-3f15-08df209fac6c",
+    "authorName": "Prudentius",
+    "title": "Cathemerinon",
+    "directory": "werke/Prudentius/Cathemerinon",
+    "contentRevision": "sha256:f630452f0094aded87feaff4aae3a3ffc49eefe4febe082a0afcbf1af5130f7a"
+  },
+  {
     "workId": "62cda066-f363-43cd-ec3d-08ddcd5c12c2",
     "authorName": "Rufinus von Aquila",
     "title": "Kirchengeschichte Buch 1",
@@ -3822,6 +3836,13 @@
     "contentRevision": "sha256:58f8b9f5e011b5fc2de20647ee83799996ceed4f37cde6d76c1aae80afd2c306"
   },
   {
+    "workId": "a0016661-a324-4a04-8a5f-08df3287fdb0",
+    "authorName": "Unbekannt",
+    "title": "De spectaculis – Über die Schauspiele",
+    "directory": "werke/Unbekannt/De spectaculis – Über die Schauspiele",
+    "contentRevision": "sha256:a17e1c6a1c1db4f48f0e40deb05cc95d5f233c11004ae6349f8d565de1159157"
+  },
+  {
     "workId": "bd12d583-26ab-40e6-602d-08df322325b0",
     "authorName": "Unbekannt",
     "title": "Gegen Novatian",
@@ -3876,13 +3897,6 @@
     "title": "Vom Untergang Jerusalems, Buch 5",
     "directory": "werke/Unbekannt/Vom Untergang Jerusalems/Vom Untergang Jerusalems, Buch 5",
     "contentRevision": "sha256:b572c6c5241d7d2d6adca84f469a1c93a304d1c3ac8097ebf35093aa85041153"
-  },
-  {
-    "workId": "5f28cf67-34b6-4a3c-4559-08df132d7450",
-    "authorName": "Unbekannt",
-    "title": "Über das Erhabene",
-    "directory": "werke/Unbekannt/Über das Erhabene",
-    "contentRevision": "sha256:573c8ba3df9560b095bb62f391be01825462d7641fe0c87f3addadfdbaf71c08"
   },
   {
     "workId": "9f75808c-a3fe-4010-bcc8-08df20c6ce7a",
