@@ -1,0 +1,10 @@
+# De spectaculis – Über die Schauspiele – Kapitel 8: Athletische Wettkämpfe besiegen das Schamgefühl und verstärken die Neigung zum Laster
+
+Autor: Unbekannt
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/novatian-ueber-die-schauspiele#kapitel-0dc3a294-9eb7-4db6-62f7-08df32302dd0).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Denn der andere Wahnsinn, den die Übrigen treiben, ist offenkundig ein Geschäft für Müßiggänger\. Zu seinem eigenen Schaden wird der Körper fett gemästet, damit er kräftiger zuschlagen oder kräftigere Prügel einstecken kann\. Der erste Sieg besteht darin, einen Hunger entwickeln zu können, der das Maß eines menschlichen Magens übersteigt: ein schändlicher Handel mit der Fressgier unter dem Ehrentitel eines Siegeskranzes\. Das elende Gesicht wird für Schläge vermietet, damit der noch elendere Bauch gemästet wird\. Wie widerlich sind außerdem die Ringkämpfe selbst\! Ein Mann liegt unter einem anderen, verstrickt in schamlose Umarmungen und Verschlingungen\. Wer in einem solchen Wettkampf aufrecht bleibt, wer siegt, mag dahingestellt sein: Das Schamgefühl ist besiegt\. Sieh nur, da springt einer nackt, ein anderer schleudert mit aller Kraft eine bronzene Scheibe in die Luft\. Das ist der Ruhm des Wahnsinns\. Nimm schließlich den Zuschauer weg, und die Nichtigkeit tritt wieder zutage\. Gläubige Christen müssen diese so nichtigen, so verderblichen, so frevelhaften Schauspiele meiden, wie wir schon oft gesagt haben\. Wir müssen sowohl unsere Augen als auch unsere Ohren hüten\. Schnell gewöhnen wir uns an das, was wir hören, rasch an das, was wir sehen\. Denn wenn der menschliche Geist schon von sich aus zu Lastern hingezogen wird, was wird er sich erst antun, wenn er Vorbilder hat? Die haltlose Natur des Körpers fällt schon von selbst; was wird sie tun, wenn sie noch einen Stoß erhält? Von all dem muss sich der Geist abwenden\.

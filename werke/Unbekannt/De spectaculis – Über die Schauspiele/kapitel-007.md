@@ -1,0 +1,10 @@
+# De spectaculis – Über die Schauspiele – Kapitel 7: Selbst ohne Götzenweihe wären Schauspiele wegen ihrer Eitelkeit für Christen verboten
+
+Autor: Unbekannt
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/novatian-ueber-die-schauspiele#kapitel-ee0742e6-d34a-494f-62f6-08df32302dd0).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Der Begierde genügt es nicht, sich an ihren gegenwärtigen Lastern zu erfreuen; durch das Schauspiel muss sie sich auch noch das zu eigen machen, worin schon frühere Zeiten geirrt haben\. Gläubige Christen dürfen, das sage ich, nicht dabei sein\. Sie dürfen es unter keinen Umständen, auch nicht bei den Darbietungen jener, die Griechenland, in seinen eitlen Künsten ausgebildet, überallhin zu allen Menschen schickt, um ihre Ohren zu betören\. Der eine ahmt die rauen Kriegsstöße der Trompete nach, ein anderer bläst in eine Flöte und entlockt ihr klagende Töne\. Wieder ein anderer wetteifert mit Chören und dem Wohlklang der menschlichen Stimme: Mit dem Atem, den er angestrengt aus seiner Brust geschöpft hat, bringt er durch die Löcher seiner Flöten Melodien hervor\. Bald lässt er ihn ausströmen, bald schließt er ihn im Inneren ein und hält ihn zurück, bald lässt er ihn durch bestimmte Löcher entweichen und in die Luft strömen\. Dabei zerlegt er den Klang in einzelne Töne und müht sich, mit den Fingern zu sprechen, undankbar gegen den Schöpfer, der ihm die Zunge gegeben hat\. Was soll ich über die nutzlosen Sorgen der Komödie sagen, was über jene gewaltige Raserei der tragischen Stimme, was über die Saitenklänge, die mit Geschrei wetteifern? Selbst wenn all dies nicht den Götzenbildern geweiht wäre, dürften gläubige Christen solche Darbietungen dennoch weder besuchen noch ansehen\. Denn selbst wenn ihnen keine Schuld anhaften würde, steckt in ihnen doch eine ungeheure Eitelkeit, die sich mit dem Leben der Gläubigen kaum verträgt\.
