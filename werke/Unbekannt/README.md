@@ -17,4 +17,5 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Gegen Novatian](Gegen%20Novatian/) · 18 Kapitel
 - [Gespräch des Archelaus](Gespr%C3%A4ch%20des%20Archelaus/) · 54 Kapitel
 - [Physiologus](Physiologus/) · 51 Kapitel
+- [Prozess und Martyrium Cyprians](Prozess%20und%20Martyrium%20Cyprians/) · 6 Kapitel
 - [Über die Herrlichkeit des Martyriums](%C3%9Cber%20die%20Herrlichkeit%20des%20Martyriums/) · 30 Kapitel

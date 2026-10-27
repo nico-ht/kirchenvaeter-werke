@@ -1029,6 +1029,13 @@
     "contentRevision": "sha256:6712434865ad2c229cb1bdc5787a71c3a92e90ab4b5efd469ee4745cfcb9399d"
   },
   {
+    "workId": "43aad0c7-ea88-4713-7890-08df33a684ef",
+    "authorName": "Hesychius, Pachomius, Theodor und Phileas",
+    "title": "Brief an Meletius über eigenmächtige Ordinationen",
+    "directory": "werke/Hesychius, Pachomius, Theodor und Phileas/Brief an Meletius über eigenmächtige Ordinationen",
+    "contentRevision": "sha256:948594aeb22f5241345e13f448998ed5c9b0c466b30faf529e6df0589cf6385d"
+  },
+  {
     "workId": "29a4690e-168b-4b17-dece-08deb44c216c",
     "authorName": "Hieronymus",
     "title": "Brief 41",
@@ -1362,7 +1369,7 @@
     "authorName": "Johannes Chrysostomus",
     "title": "22. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/22. Homilie über Matthäus",
-    "contentRevision": "sha256:11ebdacf4b2a159c5996dcf211963a85c740c1af291b938bce5368f53d004862"
+    "contentRevision": "sha256:cb8690ae0e69e3e6cd1b326007e1cd9f208b4da065a5076a88cb8e5f63dbfb76"
   },
   {
     "workId": "3fb3b05f-0757-4b99-5593-08deedfb48dc",
@@ -3388,6 +3395,13 @@
     "contentRevision": "sha256:f9c31c5dbf15cce2ea62310e70736b2655fb5e13b0210db0834742050e2cd6df"
   },
   {
+    "workId": "bc24b3a9-ee54-4800-788f-08df33a684ef",
+    "authorName": "Petrus von Alexandria",
+    "title": "Brief an die Alexandriner über Meletius",
+    "directory": "werke/Petrus von Alexandria/Brief an die Alexandriner über Meletius",
+    "contentRevision": "sha256:0afe9cb700510c2952770e8002cffaa036e432bae123689a8e57362f195046dd"
+  },
+  {
     "workId": "6a81cb72-4beb-4563-dcdb-08dd5e294e7f",
     "authorName": "Philo von Alexandria",
     "title": "Fragen und Antworten über Genesis, Buch 1",
@@ -3533,6 +3547,13 @@
     "title": "Kirchengeschichte Buch 9",
     "directory": "werke/Rufinus von Aquila/Kirchengeschichte/Kirchengeschichte Buch 9",
     "contentRevision": "sha256:26c7582d9ecc129dd6871d422995cfdc1d6310fea2cc759157492b7d08f76e8e"
+  },
+  {
+    "workId": "98d59e18-b2ed-4fd9-7891-08df33a684ef",
+    "authorName": "Römischer Klerus",
+    "title": "Brief an Cyprian über die Wiederaufnahme der Gefallenen",
+    "directory": "werke/Römischer Klerus/Brief an Cyprian über die Wiederaufnahme der Gefallenen",
+    "contentRevision": "sha256:b397a1f3f06afd1a6c145062360953c81d61bb391c3e866c0c5a94eba0d447c3"
   },
   {
     "workId": "62f6137d-5226-4ec4-e830-08de248cd454",
@@ -3862,6 +3883,13 @@
     "title": "Physiologus",
     "directory": "werke/Unbekannt/Physiologus",
     "contentRevision": "sha256:8f861afc6767f33f0f544062ad5bf1888bf10dddbf828a79d096b78c7a57f334"
+  },
+  {
+    "workId": "8dca1443-75c6-460c-7892-08df33a684ef",
+    "authorName": "Unbekannt",
+    "title": "Prozess und Martyrium Cyprians",
+    "directory": "werke/Unbekannt/Prozess und Martyrium Cyprians",
+    "contentRevision": "sha256:157cb88dd2aebfacb70110f32b3f7226160726f02329620082f10ef5865474d6"
   },
   {
     "workId": "da012c97-77fd-4904-d39b-08dd5a4cf805",
