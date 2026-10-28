@@ -1,0 +1,26 @@
+# Die Klagen Hiobs und Davids, Buch 4 – Kapitel 5: Das Wohlergehen der Sünder bezeugt Gottes Vorsehung und Geduld, nicht sein Unwissen
+
+Autor: Ambrosius von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/ambrosius-klagen-hiobs-und-davids-buch-4#kapitel-b4c0bf3f-b5dd-4ff2-4719-08df341a1eb7).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Sie richteten ihren Mund gegen den Himmel, und ihre Zunge fuhr über die Erde\.[^bible-6748b0ac-dcb1-49c1-ac75-6dccc8f18754]“ Was es bedeutet, seinen Mund gegen den Himmel zu richten[^bible-6748b0ac-dcb1-49c1-ac75-6dccc8f18754], lehrt uns der jüngere der beiden Brüder, der zu seinem Vater zurückkehrte[^bible-ed9653d2-91a4-473b-94e3-0ed00e0cbf32] und sagte: „Vater, ich habe gegen den Himmel und vor dir gesündigt\.[^bible-1e0bcbcf-8903-4111-addc-2aef23f43b47]“ Ihren Mund gegen den Himmel richten[^bible-6748b0ac-dcb1-49c1-ac75-6dccc8f18754] aber diejenigen, die glauben, eine durch ihre Geburt bedingte Notwendigkeit liefere ihnen die Rechtfertigung für ihre Verbrechen\. Sie pflegen weder den Himmel noch die Erde zu verschonen, da sie meinen, ein bestimmter Lauf der Sterne lenke das Leben des Menschen\. Sie lassen weder der Vorsehung noch einem guten Lebenswandel irgendeinen Raum\. Wären doch auch sie zurückgekehrt wie jener eine der beiden jungen Männer[^bible-ed9653d2-91a4-473b-94e3-0ed00e0cbf32]\! Der gute Herr hätte ihnen das Heilmittel nicht verweigert\. Doch selbst wenn sie nicht geheilt werden wollen, hält der Herr die Gnade der Rückkehr für sie bereit: Die in Israel durch die Blindheit ihres eigenen Herzens ausgestoßen wurden, sollen durch die Fülle der Kirche zurückkehren und die Tage dieses Lebens nicht leer verbringen\. Vielmehr sollen ihre Tage mit guten Werken und Glauben erfüllt sein, wenn der Herr sie mit geistlicher Gnade erfüllt hat\. Höre nun, wie sie zurückkehren\. Er sagt: „Denn Israel ist zum Teil von Blindheit getroffen, bis die Fülle der Völker eingegangen ist und so ganz Israel gerettet wird\.[^bible-ff3d0d9f-f622-4b65-87e6-860df04454c1]“
+
+ Das Geheimnis musste aber erfüllt werden: Gott sollte alles im Unglauben einschließen[^bible-5739d458-3db5-4563-9678-18bee6ef7e8b], das heißt, widerlegen und überführen\. Wenn nämlich zwei miteinander streiten und einer überlegen ist, sagt man: „Er hat den anderen in die Enge getrieben\.“ Deshalb, und damit durch sein Erbarmen die Welt Gott untertan würde[^bible-5f56de41-74d4-45f3-8592-c786b941b816], kehrte das Volk zwar in seinen Erben zurück; doch ließ es sich rasch durch einen Irrtum verführen, sodass es nicht glaubte, dass Gott das Verborgene im Voraus kennt\. Der Herr aber hielt ihnen die Gnade des künftigen Heils bereit, damit sie eines Tages erlöst würden, und sagte: „Darum wird mein Volk hierher zurückkehren\.[^bible-42a54a00-2052-46ec-bc71-2b04eef1ff57]“ Was bedeutet „hierher[^bible-42a54a00-2052-46ec-bc71-2b04eef1ff57]“? Zu mir, zu meiner Billigkeit und Gerechtigkeit, zu meiner Verehrung\. „Und es wird die Tage seines Lebens erfüllen\.[^bible-42a54a00-2052-46ec-bc71-2b04eef1ff57]“ Das sollst du so verstehen: Erlöst wird das Volk, das an ihn glaubt\. Auch wenn diejenigen aus diesem Volk, die nicht geglaubt haben, nicht erlöst werden, wird dem Volk dennoch das Vorrecht zugesprochen, Gottes erlöstes Volk zu sein\. In ihrem Irrtum sagten sie also: „Wie hat Gott es erfahren? Und gibt es beim Höchsten ein Wissen um alles?[^bible-79904ede-4e5a-470d-9afd-e328fa95f85e]“ Sie meinen nämlich, Gott besitze kein Wissen, weil die Sünder weltliches Wohlergehen im Überfluss genießen\. Und weiter lässt er sie sagen: „Sieh, gerade die Sünder, die in dieser Welt im Überfluss leben, haben Reichtümer erworben\.[^bible-35c12861-e7cf-45d5-afdd-55b550cc6a69]“ Im Evangelium findest du das noch deutlicher ausgedrückt: Als der Pharisäer Simon sah, dass jene Sünderin in sein Haus kam und Salböl über die Füße Christi goss[^bible-ccf91fb0-6264-4904-8396-0f47ad05bd5f], sagte er sich: „Wenn dieser ein Prophet wäre, wüsste er gewiss, wer die Frau ist, die ihn berührt, und was für eine sie ist: eine Sünderin\.[^bible-4259b4d1-cbb4-49d0-a9cf-439bcec67cbf]“ Doch Gottes Geduld tut der Wahrheit keinen Abbruch\. Gerade dass ein Mensch, der in Sünde lebt, weltliches Wohlergehen im Überfluss genießt, erweist Gottes Vorherwissen und Vorsehung umso mehr\. Wer gefestigter ist, sieht es und lacht; wer unachtsam ist, lässt sich täuschen und erschüttern\.
+
+## Bibelverweise
+
+[^bible-1e0bcbcf-8903-4111-addc-2aef23f43b47]: Lk 15,18
+[^bible-35c12861-e7cf-45d5-afdd-55b550cc6a69]: Ps 72,12
+[^bible-4259b4d1-cbb4-49d0-a9cf-439bcec67cbf]: Lk 7,39
+[^bible-42a54a00-2052-46ec-bc71-2b04eef1ff57]: Ps 72,10
+[^bible-5739d458-3db5-4563-9678-18bee6ef7e8b]: Röm 11,32
+[^bible-5f56de41-74d4-45f3-8592-c786b941b816]: Röm 3,19
+[^bible-6748b0ac-dcb1-49c1-ac75-6dccc8f18754]: Ps 72,9
+[^bible-79904ede-4e5a-470d-9afd-e328fa95f85e]: Ps 72,11
+[^bible-ccf91fb0-6264-4904-8396-0f47ad05bd5f]: Lk 7,37–Lk 7,39
+[^bible-ed9653d2-91a4-473b-94e3-0ed00e0cbf32]: Lk 15,20–Lk 15,21
+[^bible-ff3d0d9f-f622-4b65-87e6-860df04454c1]: Röm 11,25–Röm 11,26

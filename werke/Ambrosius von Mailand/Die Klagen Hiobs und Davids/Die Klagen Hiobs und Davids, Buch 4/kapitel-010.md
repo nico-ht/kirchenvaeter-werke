@@ -1,0 +1,22 @@
+# Die Klagen Hiobs und Davids, Buch 4 – Kapitel 10: Christus verdrängt den Widersacher von unserer Rechten und führt unser Handeln nach Gottes Willen
+
+Autor: Ambrosius von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/ambrosius-klagen-hiobs-und-davids-buch-4#kapitel-7a659a2b-1747-476c-471e-08df341a1eb7).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Darum spricht er, als hätte Gott ihn besucht: „Du hast meine rechte Hand ergriffen, mich nach deinem Willen geführt und mich mit Herrlichkeit aufgenommen\.[^bible-c5697940-843f-4551-8217-f9e791627662]“ So haben wir den Text empfangen, und so entspricht er auch dem Griechischen\. Denn der griechische Text sagt: „Ἐκρατῆσας τῆς χειρὸς[^bible-bb19b7fb-dd13-497c-a8e2-b986aec8995d]“, das heißt: „Du hast die Hand ergriffen[^bible-bb19b7fb-dd13-497c-a8e2-b986aec8995d]“, und „τῆς δεξιᾶς μου[^bible-bb19b7fb-dd13-497c-a8e2-b986aec8995d]“, also „meine rechte[^bible-bb19b7fb-dd13-497c-a8e2-b986aec8995d]“\. Gut geführt ist, wessen rechte Hand Gott in seiner Hand hält\. Er kann sagen: „Der Herr ist zu meiner Rechten, damit ich nicht wanke\.[^bible-399ae024-8ba4-4ad2-b586-adaafde650ab]“ Hätte Adam den Herrn zu seiner Rechten haben wollen, wäre er nicht von der Schlange getäuscht worden\. Doch weil er Gottes Gebot vergaß und den Willen der Schlange erfüllte, ergriff der Teufel seine Hand und ließ ihn nach dem Baum der Erkenntnis von Gut und Böse greifen, um die verbotenen Früchte zu pflücken[^bible-e80901a5-4ca7-4082-a8f4-1e9d2f9cbc00]\. In seinem Fall wurde das Urteil über alle vorweggenommen, und fortan stand der Widersacher jedem zur Rechten\. Daher erging auch gegen Judas jener Fluch: „Und der Teufel stehe zu seiner Rechten\.[^bible-9f5c69d2-9c0a-4c56-8e8e-dd92c9fef742]“ Wenn jener Fluch schwer wiegt, so ist dieser Segen überaus groß, durch den die Fesseln des harten Fluches gelöst werden\. Darum stellte der Herr Jesus den Teufel an seine rechte Seite[^bible-482ddeb1-c6ca-4ee3-805d-926d33ed4712], wie wir im Buch Sacharja lesen; denn er hatte sich der Sache des Menschen angenommen und dessen Platz eingenommen\. Er stand also dort, wo Adams Erbe stand\. Wie ein guter Wettkämpfer ließ er ihn zu seiner Rechten stehen, um ihn zurückzustoßen mit den Worten: „Weiche zurück, Satan\![^bible-96b8ebde-06a4-4671-8087-11ca0e823600]“ So wurde der Widersacher von seinem Platz verdrängt und zog sich zurück\. Damit aber der Teufel nicht zu deiner Rechten steht, sagt er: „Komm, folge mir\![^bible-417e1f35-82f8-49c7-b00e-d6e6e4a5e769]“ David sah also die Ankunft des Herrn voraus, der vom Himmel herabkam, um uns aus der Gewalt des Widersachers zu befreien, und sagte: „Der Herr ist zu meiner Rechten, damit ich nicht wanke\.[^bible-399ae024-8ba4-4ad2-b586-adaafde650ab]“ Wer aber den Teufel zu seiner Rechten hatte, wankte\. Mit Recht sagt er daher auch hier: „Du hast meine rechte Hand ergriffen[^bible-bb19b7fb-dd13-497c-a8e2-b986aec8995d]“, das heißt: damit ich nicht mehr sündigen kann; damit ich, der ich zuvor mit unsicherem Schritt schwankte, nun festen Stand gewinnen kann\. Wie treffend hat der Apostel dies gesagt, als der Herr seine Angst sah, die rechte Hand ausstreckte und nicht zuließ, dass er strauchelte, sondern seinen Schritt fest und furchtlos machte[^bible-801c25f0-6105-45ad-8ecd-0d24f880f3c9]\. Was anderes hat Petrus also nach seiner Rettung gesprochen als diese prophetischen Verse: „Du hast meine rechte Hand ergriffen, mich nach deinem Willen geführt und mich mit Herrlichkeit aufgenommen[^bible-c5697940-843f-4551-8217-f9e791627662]“? Was ist die rechte Hand anderes als die tätige Kraft der Seele? Wird sie nach dem Willen des Herrn geführt, so begehrt sie nichts anderes, sucht nichts weiter, verlangt weder nach den Reichtümern dieser Welt noch nach irgendwelcher Hilfe\.
+
+## Bibelverweise
+
+[^bible-399ae024-8ba4-4ad2-b586-adaafde650ab]: Ps 15,8
+[^bible-417e1f35-82f8-49c7-b00e-d6e6e4a5e769]: Mt 19,21
+[^bible-482ddeb1-c6ca-4ee3-805d-926d33ed4712]: Sach 3,1
+[^bible-801c25f0-6105-45ad-8ecd-0d24f880f3c9]: Mt 14,30–Mt 14,31
+[^bible-96b8ebde-06a4-4671-8087-11ca0e823600]: Mt 4,10
+[^bible-9f5c69d2-9c0a-4c56-8e8e-dd92c9fef742]: Ps 108,6
+[^bible-bb19b7fb-dd13-497c-a8e2-b986aec8995d]: Ps 72,23
+[^bible-c5697940-843f-4551-8217-f9e791627662]: Ps 72,23–Ps 72,24
+[^bible-e80901a5-4ca7-4082-a8f4-1e9d2f9cbc00]: Gen 3,6
