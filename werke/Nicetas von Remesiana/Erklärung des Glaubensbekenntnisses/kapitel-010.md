@@ -1,0 +1,17 @@
+# Erklärung des Glaubensbekenntnisses – Kapitel 10: Die eine Kirche vereint alle Heiligen im Glauben, dessen Ziel die Auferstehung zum ewigen Leben ist
+
+Autor: Nicetas von Remesiana
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/nicetas-von-remesiana/nicetas-erklaerung-des-glaubensbekenntnisses#kapitel-66de5643-4f39-4b74-d231-08df34102df5).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nach dem Bekenntnis zur seligen Dreifaltigkeit bekennst du nun deinen Glauben an die heilige katholische Kirche\. Was ist die Kirche anderes als die Gemeinschaft aller Heiligen? Denn seit Anbeginn der Welt bilden die Patriarchen, Abraham, Isaak und Jakob, die Propheten, die Apostel, die Märtyrer und alle übrigen Gerechten, die waren, die sind und die sein werden, eine einzige Kirche\. Denn sie sind durch denselben Glauben und dieselbe Lebensführung geheiligt, mit demselben Geist besiegelt und zu einem einzigen Leib geworden\. Von diesem Leib wird bezeugt und steht geschrieben: „Sein Haupt ist Christus\.[^bible-055a2d98-92d6-4341-a1d4-7ff72400d16a]“ Ich sage noch mehr: Auch die Engel, auch die himmlischen Kräfte und Mächte sind in dieser einen Kirche miteinander verbunden\. Denn der Apostel lehrt uns, dass in Christus alles versöhnt worden ist, nicht nur das, was auf Erden ist, sondern auch das, was im Himmel ist[^bible-727a9bee-b1d5-49f7-a463-18d01bd4c6a1]\. Glaube also, dass du in dieser einen Kirche die Gemeinschaft der Heiligen erlangen wirst\. Wisse, dass dies die eine katholische Kirche ist, die auf dem ganzen Erdkreis besteht; an ihrer Gemeinschaft musst du festhalten\. Zwar gibt es auch andere Scheinkirchen, doch mit ihnen sollst du nichts gemeinsam haben: etwa mit denen der Manichäer, der Kataphryger, der Marcioniten oder der übrigen Häretiker oder Schismatiker\. Denn diese Kirchen haben aufgehört, heilig zu sein: Durch dämonische Lehren getäuscht[^bible-9b3440db-205f-4acc-953c-53c77f91f839], glauben und handeln sie anders, als Christus, der Herr, es geboten und die Apostel es überliefert haben\. Sodann glaubst du an die Vergebung der Sünden\. Darin besteht nämlich die Gnade: Wer glaubt und Christus als Gott bekennt, erlangt durch die Taufe die Vergebung aller seiner Sünden\. Daher wird sie auch Wiedergeburt genannt, denn durch sie wird der Mensch unschuldiger und reiner, als er bei seiner Geburt aus dem Leib seiner Mutter war\. Weiter glaubst du auch an die Auferstehung deines Fleisches und an das ewige Leben\. Denn wenn du das nicht glaubst, glaubst du tatsächlich vergeblich an Gott\. Alles, was wir glauben, glauben wir nämlich um unserer Auferstehung willen\. Andernfalls gilt: Wenn wir nur in diesem Leben auf Christus hoffen[^bible-e540f810-1d7b-480e-aa46-5f7ea374a5bc], sind wir wahrhaftig, wie der Apostel sagt, „erbarmungswürdiger als alle Menschen[^bible-e540f810-1d7b-480e-aa46-5f7ea374a5bc]“\. Christus hat ja gerade deshalb menschliches Fleisch angenommen, um unserer sterblichen Substanz Anteil am ewigen Leben zu geben\.
+
+## Bibelverweise
+
+[^bible-055a2d98-92d6-4341-a1d4-7ff72400d16a]: Kol 1,18
+[^bible-727a9bee-b1d5-49f7-a463-18d01bd4c6a1]: Kol 1,20
+[^bible-9b3440db-205f-4acc-953c-53c77f91f839]: 1Tim 4,1
+[^bible-e540f810-1d7b-480e-aa46-5f7ea374a5bc]: 1Kor 15,19
