@@ -1,0 +1,36 @@
+# Die Klagen Hiobs und Davids, Buch 2 – Kapitel 6: Christus wird aus dem Mutterschoß auf den Vater geworfen, bleibt aber untrennbar mit ihm verbunden
+
+Autor: Ambrosius von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/ambrosius-klagen-hiobs-und-davids-buch-2#kapitel-abca23f1-52a3-4b52-470b-08df341a1eb7).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Warum hast du mich vergessen, und warum hast du mich verstoßen?[^bible-daaa9a18-1023-4c38-ae86-db749884e9a6]“ Gott vergisst nicht\. Denn unmöglich kann der vergessen, dem alles Vergangene und Zukünftige gegenwärtig ist\. Doch unsere Sünden geben ihm berechtigten Anlass, uns zu vergessen, sodass er diejenigen aus seinem Gedächtnis tilgt, die er seiner Fürsorge für unwürdig befunden hat\. Denn der Herr kennt die Seinen[^bible-3d48bd91-40ec-4809-8eac-058cb8c56d94]\. Wenn aber manche Unrecht tun[^bible-2d2797af-fdfb-4a67-a6e5-204ef6740f2f], sagt er zu ihnen: „Ich kenne euch nicht\.[^bible-2d2797af-fdfb-4a67-a6e5-204ef6740f2f]“ Wer also kann zu Gott sagen: „Warum hast du mich vergessen?[^bible-b2f11439-181b-485c-aa17-0e0bfa2d8d7b]“ Dennoch haben die Heiligen und wir Schwachen diese Frage gemeinsam\. Der Heilige spricht sie gleichsam im Bewusstsein seines Verdienstes aus; und doch ist er umso demütiger, je heiliger er ist\. Wenn aber selbst ein Heiliger das kaum sagen kann, was soll dann ich als Sünder sagen, wenn ich die Frage nicht so verstehe: „Warum hast du dein Werk vergessen? Warum hast du deine Fürsorge vergessen? Und schließlich: Warum hast du meine Schwäche vergessen? Denn was ist der Mensch, wenn du dich seiner nicht annimmst?[^bible-738913e2-f4af-4055-8474-621e26816d03] Vergiss also den Schwachen nicht\. Denke daran, Herr, dass du mich schwach geschaffen hast; denke daran, dass du mich aus Staub geformt hast[^bible-d04f9ba0-f7c8-4364-8bdc-9c8e807b596d]\. Wie soll ich standhalten, wenn du dieses Lehmgebilde nicht beständig ansiehst, um ihm Festigkeit zu geben, sodass meine Festigkeit von deinem Angesicht ausgeht[^bible-2b8bd5f6-e7a4-490b-9acc-191f986fe104]? Wenn du dein Angesicht abwendest, gerät alles in Unruhe[^bible-5280c03b-5953-4fe7-b3a4-db3cfaf33742]; schaust du aber hin, wehe mir\! Du findest an mir nichts anderes zu sehen als die Befleckung durch meine Verfehlungen\. Weder ist es gut für uns, verlassen zu werden, noch, angesehen zu werden; denn sobald du uns ansiehst, erregen wir dein Missfallen\.“ Dennoch dürfen wir annehmen, dass er die nicht verstößt, die er ansieht; denn er reinigt die, auf die er blickt\. Vor ihm brennt ein Feuer[^bible-e17489bc-f368-460f-802d-232b05e74ddb], um die Schuld zu verzehren\. Es ist also gut für uns, nicht verstoßen zu werden\. Darum klagt David: Er glaubte, verstoßen zu sein, nachdem er zuvor aufgenommen worden war\. Schließlich sagt er später: „In dir habe ich vom Mutterleib an festen Halt\.[^bible-0d9d1674-bf49-4eff-8ccf-81d8634ddfcc]“ Aber auch weiter oben steht geschrieben: „Aus dem Mutterleib bin ich auf dich geworfen; vom Schoß meiner Mutter an bist du mein Gott\.[^bible-8a01fffb-102b-4371-8201-e135e146e55b]“ Auch geworfen zu werden ist gut, aber auf Gott\.
+
+So spricht im einundzwanzigsten Psalm Christus, der wahrhaftig aus dem Schoß der Jungfrau auf den Vater geworfen wurde[^bible-72ba8f92-878c-4a9b-8506-f188342bb6b5]; denn als er starb, nahm ihn nichts Irdisches auf\. Deshalb sagte er am Kreuz zum Vater, als er seinen Geist aufgab: „Deinen Händen vertraue ich meinen Geist an\.[^bible-1ddabf45-4d5b-4176-abb8-3fde4f143653]“ Niemand soll also „Herr“ hinzufügen, wie es die Psalmsänger tun\. Dieses Wort habe ich weder in meiner lateinischen Handschrift noch in der griechischen gefunden, noch im Evangelium, das ein noch deutlicheres Zeugnis ist\. Zuvor hatte er nämlich gesagt: „Vater, vergib ihnen diese Sünde\.[^bible-f89f50f1-7fb2-43b6-85e8-7f1ca75a50d8]“ Deshalb erklärte er, seinen Geist ihm als seinem Vater in die Hände zu legen[^bible-1ddabf45-4d5b-4176-abb8-3fde4f143653], in dessen Schoß der Sohn immer ist[^bible-c2e085e5-8073-42a9-9c92-0fccf89cc263]\. Doch selbst wenn sie hinzufügen, er habe „Herr“ gesagt, sollen sie bedenken, dass er dies als Mensch im Sterben spricht\. Er wurde also aus dem Mutterleib auf den Vater geworfen, aus dem Schoß seiner Mutter[^bible-72ba8f92-878c-4a9b-8506-f188342bb6b5]\. Damit hat er klargestellt, dass der Leib, aus dem er geworfen wurde, der Schoß seiner Mutter ist\. Der Vater aber sagte: „Aus dem Schoß habe ich dich vor dem Morgenstern gezeugt\.[^bible-0e2607cf-6e3f-4519-a370-48336c42b409]“ Der Vater hat den Sohn gewiss nicht von sich geworfen; der Sohn ist niemals von ihm fortgegangen, wie er selbst sagt: „Ich wurde ausgeliefert und ging nicht hinaus\.[^bible-3a2b3b1b-7deb-4559-bb7e-f91a2350d353]“ Er hat den nicht von sich geworfen, mit dem er durch die Einheit derselben Substanz verbunden ist\. Man kann also auch so lesen: „Auf dich bin ich geworfen aus dem Mutterleib, aus dem Schoß meiner Mutter[^bible-72ba8f92-878c-4a9b-8506-f188342bb6b5]“, sodass darauf folgt: „Du bist mein Gott; weiche nicht von mir\.[^bible-b39cc9b1-6615-4e4e-aab0-b78cb85e2ee3]“ Man kann es auch so lesen: „Vom Schoß meiner Mutter an bist du mein Gott[^bible-72ba8f92-878c-4a9b-8506-f188342bb6b5]; denn auch im Mutterleib bin ich niemals von dir gewichen\. Ich war bei dir, als ich wie Jona im Bauch des Meerestiers lag[^bible-06312a2f-89fc-4d04-94cf-436179388e30] und dich für das Volk anflehte\.“ Und wahrhaftig war er vom Schoß seiner Mutter an bei Gott, wie geschrieben steht: „Denn bevor der Knabe Gut oder Böse kannte, wählte er das Gute\.[^bible-8a2843c5-f1ae-4ce5-8399-c0e376056213]“ Und: „Bevor er Vater oder Mutter rief, raubte er die Macht von Damaskus und die Beute von Samaria[^bible-03ccc9c2-b0ae-4903-b1c1-5f8122cc98ba]“, um, nachdem die Völker herbeigerufen waren, dem Vater durch fromme, hingebungsvolle Verehrung ein Reich zu gewinnen\. Sehen wir uns das Weitere an\.
+
+## Bibelverweise
+
+[^bible-03ccc9c2-b0ae-4903-b1c1-5f8122cc98ba]: Jes 8,4
+[^bible-06312a2f-89fc-4d04-94cf-436179388e30]: Jona 2,1
+[^bible-0d9d1674-bf49-4eff-8ccf-81d8634ddfcc]: Ps 70,6
+[^bible-0e2607cf-6e3f-4519-a370-48336c42b409]: Ps 109,3
+[^bible-1ddabf45-4d5b-4176-abb8-3fde4f143653]: Lk 23,46
+[^bible-2b8bd5f6-e7a4-490b-9acc-191f986fe104]: Ps 16,2
+[^bible-2d2797af-fdfb-4a67-a6e5-204ef6740f2f]: Mt 7,23
+[^bible-3a2b3b1b-7deb-4559-bb7e-f91a2350d353]: Ps 87,9
+[^bible-3d48bd91-40ec-4809-8eac-058cb8c56d94]: 2Tim 2,19
+[^bible-5280c03b-5953-4fe7-b3a4-db3cfaf33742]: Ps 103,29
+[^bible-72ba8f92-878c-4a9b-8506-f188342bb6b5]: Ps 21,11
+[^bible-738913e2-f4af-4055-8474-621e26816d03]: Ps 8,5
+[^bible-8a01fffb-102b-4371-8201-e135e146e55b]: Ps 21,11
+[^bible-8a2843c5-f1ae-4ce5-8399-c0e376056213]: Jes 7,16
+[^bible-b2f11439-181b-485c-aa17-0e0bfa2d8d7b]: Ps 41,10
+[^bible-b39cc9b1-6615-4e4e-aab0-b78cb85e2ee3]: Ps 21,11–Ps 21,12
+[^bible-c2e085e5-8073-42a9-9c92-0fccf89cc263]: Joh 1,18
+[^bible-d04f9ba0-f7c8-4364-8bdc-9c8e807b596d]: Hi 10,9
+[^bible-daaa9a18-1023-4c38-ae86-db749884e9a6]: Ps 41,10; Ps 42,2
+[^bible-e17489bc-f368-460f-802d-232b05e74ddb]: Ps 49,3
+[^bible-f89f50f1-7fb2-43b6-85e8-7f1ca75a50d8]: Lk 23,34
