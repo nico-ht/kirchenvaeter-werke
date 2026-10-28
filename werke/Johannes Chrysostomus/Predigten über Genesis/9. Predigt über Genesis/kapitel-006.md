@@ -1,0 +1,18 @@
+# 9\. Predigt über Genesis – Kapitel 6: Warum die Flut für unverbesserliche Sünder Ruhe bedeutet: Sie setzt ihrer Bosheit ein Ende
+
+Autor: Johannes Chrysostomus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/9-predigt-ueber-genesis#kapitel-e491f424-510a-4d3a-c2fe-08df3455627e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und dass ich mit dieser Auslegung dem Text keine Gewalt antue, wollen wir aus der Schrift selbst hören: „Lamech lebte hundertachtundachtzig Jahre und zeugte einen Sohn\. Er nannte ihn Noah und sagte:[^bible-66cafe23-cc1c-40f4-a0ad-bb4bcadf02a9] ‚Dieser wird uns Ruhe bringen von unseren Mühen, unseren Schmerzen und der Arbeit unserer Hände und von der Erde, die Gott verflucht hat\.[^bible-27eea13c-3823-4c68-91e4-36d0d50035ed]‘“ Was sagst du? „Er wird uns Ruhe bringen[^bible-27eea13c-3823-4c68-91e4-36d0d50035ed]“? „Und warum“, fragt jemand, „sagte er nicht: ‚Dieser wird uns töten, dieser wird die Flut herbeiführen‘, sondern: ‚Er wird uns Ruhe bringen[^bible-27eea13c-3823-4c68-91e4-36d0d50035ed]‘? Die ganze Schöpfung wurde von Grund auf verwandelt, unten brachen die Abgründe auf, oben öffneten sich die Schleusen[^bible-46098ba6-f5e7-4f93-a301-af7f6b959b03]\. Alles war ein fremdartiges, unerhörtes, schreckliches Meer, und im Schlamm, dem gemeinsamen Grab, lagen die Körper von Menschen, Pferden und wilden Tieren verborgen\. Sag mir: So viel Unheil und ein solches Unglück nennst du Ruhe?“ „Ja“, sagt er\. Denn die Menschen lebten in Bosheit, und die Flut setzte der Bosheit ein Ende\. So fanden sie Ruhe, als sie von der Bosheit befreit wurden\. Denn wenn ein Körper an vielerlei Krankheiten leidet und keine Heilung findet, dann findet er Ruhe, sobald der Tod kommt und ihn holt\. So kam auch über jene Generation von Menschen die Flut, raffte sie dahin und brachte ihr Ruhe: Sie war wie ein Körper, der unheilbar krank und von vielen schweren Leiden befallen ist, für die es keine Linderung gibt\. Denn wenn „der Tod für den Menschen Ruhe ist[^bible-a495e3b3-6861-465d-aba3-d63c838a428c]“, dann ist er erst recht Ruhe für diejenigen, die unverbesserlich in Bosheit leben\. Er befreit sie von ihren Mühen, lässt die Bosheit nicht weiter um sich greifen und verhindert, dass die Last ihrer Sünden noch schwerer wird, als sie schon ist\. Denn nichts ist so schwer und so mühsam zu tragen wie die Sünde; nichts bereitet uns so viel Erschöpfung und Mühe wie Bosheit und Verfehlungen\. Deshalb sagte Christus zu denen, die in Sünden leben: „Kommt alle, die ihr euch abmüht und schwer beladen seid, und ich werde euch Ruhe bringen\.[^bible-0b4b31fd-e69f-45d9-b4b7-4722241ffcc1]“ Deshalb nannte auch Lamech die Flut Ruhe, weil sie kam und der Bosheit Einhalt gebot\. Ich hätte diese Ausführungen gern noch fortgesetzt, denn über den Namen Noah bleibt noch vieles zu sagen\. Doch prägen wir dies vorerst eurem Gedächtnis ein und erzählen wir es unseren Brüdern, die nicht dabei waren, damit wir nicht wieder längere Einleitungen brauchen, wenn wir an das Gesagte anknüpfen\. Schließen wir unsere Rede mit Gebeten und danken wir Gott, der uns geschenkt hat, dies auszusprechen\. Denn ihm gehört die Herrlichkeit in alle Ewigkeit\. Amen\.
+
+## Bibelverweise
+
+[^bible-0b4b31fd-e69f-45d9-b4b7-4722241ffcc1]: Mt 11,28
+[^bible-27eea13c-3823-4c68-91e4-36d0d50035ed]: Gen 5,29
+[^bible-46098ba6-f5e7-4f93-a301-af7f6b959b03]: Gen 7,11
+[^bible-66cafe23-cc1c-40f4-a0ad-bb4bcadf02a9]: Gen 5,28–Gen 5,29
+[^bible-a495e3b3-6861-465d-aba3-d63c838a428c]: Hi 3,23
