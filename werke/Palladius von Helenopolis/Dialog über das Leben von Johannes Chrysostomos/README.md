@@ -11,7 +11,7 @@ Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/pal
 - [Kapitel 3: Die Verfolgung der Anhänger des Johannes veranlasst Innozenz und Honorius, eine Synode aus Ost und West zu fordern](kapitel-003.md)
 - [Kapitel 4: Die westlichen Gesandten werden gewaltsam abgewiesen; im Streit um Johannes zählen Tatsachen, nicht Alter und Amt](kapitel-004.md)
 - [Kapitel 5: Johannes’ asketische Strenge prägt sein Bischofsamt: Er erneuert die Kirche und zieht sich Feindschaft zu](kapitel-005.md)
-- [Kapitel 6](kapitel-006.md)
+- [Kapitel 6: Theophilus rächt sich für Isidors Armenhilfe mit falschen Anklagen gegen ihn und seine Fürsprecher](kapitel-006.md)
 - [Kapitel 7: Theophilus verfolgt die Mönche und weist Johannes’ Vermittlung als Eingriff in seine Zuständigkeit zurück](kapitel-007.md)
 - [Kapitel 8: Vom Angeklagten zum Richter: Theophilus betreibt mit falschen Anklagen Johannes’ Absetzung](kapitel-008.md)
 - [Kapitel 9: Johannes’ Gegner betreiben mit verworfenen Kanones seine Vertreibung und lassen die Osterfeier blutig zerschlagen](kapitel-009.md)
