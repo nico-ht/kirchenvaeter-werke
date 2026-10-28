@@ -1,4 +1,4 @@
-# Fragen und Antworten über Genesis, Buch 3 – Kapitel 46
+# Fragen und Antworten über Genesis, Buch 3 – Kapitel 46: Die Beschneidung gilt auch dem Verstand: Von bösen Gedanken gereinigt, soll er Gott als Priester dienen
 
 Autor: Philo von Alexandria
 
@@ -7,7 +7,7 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-3#kapitel-16048865-6462-481e-9ca6-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Was bedeutet: „Jeder männliche unter euch soll beschnitten werden, und ihr sollt beschneiden, oder: ihr sollt beschnitten werden, am Fleisch eurer Vorhaut[^bible-d4757298-6b96-4569-b2e5-26fac134152b]“? Ich sehe hier eine doppelte Beschneidung: die eine am männlichen Geschöpf, die andere am Fleisch\. Die Beschneidung des Fleisches geschieht an den Geschlechtsteilen; die des männlichen Geschöpfs aber geschieht, wie mir scheint, im Blick auf seine Gedanken\. Denn das eigentlich Männliche in uns ist der Verstand; dessen überflüssige Triebe müssen beschnitten und weggeworfen werden, damit er, rein und lauter geworden von aller Bosheit und Niedertracht, Gott als sein Priester dient\. Das also ist es, was mit der zweiten Beschneidung bezeichnet wird, wo Gott durch ein ausdrückliches Gesetz sagt: „Beschneidet die Härte eurer Herzen[^bible-0ba33614-ac29-4b58-989c-ae9f3a821a9c]“, das heißt eure harten und widerspenstigen Gedanken und euren Ehrgeiz\. Wenn diese von euch abgeschnitten und entfernt sind, wird euer wichtigster Teil frei gemacht\.
+Was bedeutet die Aussage: „Und alles Männliche unter euch soll beschnitten werden, und ihr sollt am Fleisch eurer Vorhaut die Beschneidung vollziehen oder beschnitten werden[^bible-d4757298-6b96-4569-b2e5-26fac134152b]“? Ich erkenne hier eine zweifache Beschneidung: die des männlichen Wesens und die des Fleisches\. Die Beschneidung des Fleisches geschieht an den Geschlechtsteilen, die des männlichen Wesens dagegen, wie mir scheint, an seinen Gedanken\. Denn das eigentlich Männliche in uns ist der Verstand\. Seine überflüssigen Schösslinge muss man abschneiden und wegwerfen, damit er, rein und frei von aller Bosheit und Gemeinheit, Gott als dessen Priester verehren kann\. Das ist also mit der zweiten Beschneidung gemeint, wenn Gott in einem ausdrücklichen Gesetz sagt: „Beschneidet die Härte eurer Herzen[^bible-0ba33614-ac29-4b58-989c-ae9f3a821a9c]“, das heißt eure harten und widerspenstigen Gedanken und euren Ehrgeiz\. Wenn sie abgeschnitten und von euch entfernt sind, wird euer wichtigster Teil befreit sein\.
 
 ## Bibelverweise
 

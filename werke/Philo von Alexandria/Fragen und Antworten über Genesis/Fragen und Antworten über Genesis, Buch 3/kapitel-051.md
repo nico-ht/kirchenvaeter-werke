@@ -1,4 +1,4 @@
-# Fragen und Antworten über Genesis, Buch 3 – Kapitel 51
+# Fragen und Antworten über Genesis, Buch 3 – Kapitel 51: Das göttliche Wort soll auch den Körper ordnen und das Übermaß der Sinne und Begierden beschneiden
 
 Autor: Philo von Alexandria
 
@@ -7,7 +7,7 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-3#kapitel-7ad364bd-7d99-4453-9cab-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Was bedeutet: „Und er soll mein Bund oder meine Übereinkunft in eurem Fleisch sein[^bible-3eeb6736-13aa-4f3f-ac08-12240130472b]“? Gott will dem Menschen, der mit Tugend ausgestattet ist, Gutes tun, und zwar nicht nur ihm selbst; er will auch, dass das göttliche Wort nicht nur seine Seele, sondern auch seinen Körper ordnet, als wäre es sein Arzt geworden\. Und seine Sorge muss es sein, alles Übermaß des Sehens, Hörens, Schmeckens, Riechens und Tastens wegzuschneiden, ebenso das Übermaß des Organs der Stimme und der Artikulation, und auch alle überflüssigen und verderblichen Regungen der Geschlechtsteile sowie des ganzen Körpers\. Deren Wirkung ist, dass wir bisweilen durch unsere Leidenschaften erfreut und bisweilen durch sie gequält werden\.
+Was bedeutet das Wort: „Und mein Bund \(oder meine Vereinbarung\) soll in eurem Fleisch sein[^bible-3eeb6736-13aa-4f3f-ac08-12240130472b]“? Gott will nicht nur dem tugendhaften Menschen Gutes tun, sondern er will, dass das göttliche Wort nicht nur seine Seele, sondern auch seinen Körper ordnet, als wäre es dessen Arzt geworden\. Es muss dafür sorgen, alle Auswüchse des Sehens, Hörens, Schmeckens, Riechens und Tastens wegzuschneiden, ebenso die des Stimm\- und Sprechorgans und alle übermäßigen und schädlichen Regungen der Geschlechtsorgane wie auch des ganzen Körpers, die dazu führen, dass uns unsere Leidenschaften bald Freude, bald Schmerz bereiten\.
 
 ## Bibelverweise
 
