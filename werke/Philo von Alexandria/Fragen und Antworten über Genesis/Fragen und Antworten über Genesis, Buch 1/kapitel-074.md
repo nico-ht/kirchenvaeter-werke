@@ -1,4 +1,4 @@
-# Fragen und Antworten über Genesis, Buch 1 – Kapitel 74
+# Fragen und Antworten über Genesis, Buch 1 – Kapitel 74: Mit „jeder, der mich findet“ kann Kain die Schöpfung, wilde Tiere oder seine Eltern meinen
 
 Autor: Philo von Alexandria
 
@@ -7,7 +7,7 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-1#kapitel-50c051b3-d881-48c7-cd64-08dd5e2b9946).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Was bedeutet es, wenn Kain sagt: „Jeder, der mich findet, wird mich töten[^bible-7f74359c-80b0-4d7c-aa68-8bafff07ce92]“, obwohl es in der Welt außer seinen Eltern kaum einen anderen Menschen gab? Erstens konnte ihm von den Teilen der Welt Schaden drohen, die zwar zum Nutzen der Guten geschaffen waren, damit sie an ihnen teilhätten, die aber dennoch an den Bösen nicht geringe Rache nahmen\. Zweitens kann es sein, dass er dies sagte, weil er Schaden durch wilde Tiere und Reptilien fürchtete; denn die Natur hat diese Lebewesen ausdrücklich dazu hervorgebracht, Werkzeuge der Vergeltung an den Bösen zu sein\. Drittens mögen manche meinen, er spreche mit Blick auf seine Eltern, denen er einen beispiellosen Schmerz zugefügt hatte, das erste Übel, das sie traf, bevor sie wussten, was Tod ist\.
+Was meint Kain, wenn er sagt: „Jeder, der mich findet, wird mich töten[^bible-7f74359c-80b0-4d7c-aa68-8bafff07ce92]“, obwohl es außer seinen Eltern kaum einen anderen Menschen auf der Welt gab? Erstens hätte er durch die Teile der Welt Schaden erleiden können, die zwar zum Nutzen der Guten geschaffen wurden, damit diese an ihnen teilhaben, die aber dennoch an den Bösen in nicht geringem Maße Rache nahmen\. Zweitens sagte er dies vielleicht, weil er fürchtete, durch wilde Tiere und Kriechtiere Schaden zu erleiden; denn die Natur hat diese Tiere eigens dazu hervorgebracht, als Werkzeuge der Rache an den Bösen zu dienen\. Drittens mögen manche annehmen, dass er mit diesen Worten seine Eltern meint, denen er einen bis dahin unerhörten Schmerz und das erste Übel zugefügt hatte, das ihnen widerfuhr, noch ehe sie wussten, was der Tod ist\.
 
 ## Bibelverweise
 
