@@ -1,4 +1,4 @@
-# Über die Prinzipien, Buch 1 – Kapitel 4
+# Über die Prinzipien, Buch 1 – Kapitel 4: Nachlässigkeit lässt die Gotteserkenntnis allmählich schwinden, doch rechtzeitige Umkehr kann sie wiederherstellen
 
 Autor: Origenes
 
@@ -13,7 +13,7 @@ Es ist nicht unser Ziel, hier die Unfälle zu erwähnen oder zu beachten, die du
 
 Es ist durchaus möglich, dass er, wenn er zu fallen beginnt und dem verderblichen Einfluss einer noch geringen Nachlässigkeit nachgibt, wenn er erweckt wird und schnell zu sich selbst zurückkehrt, die Verluste, die bis zu diesem Zeitpunkt nur frisch sind, wiederherstellen und das Wissen zurückgewinnen kann, das bis dahin nur leicht aus seinem Geist getilgt worden war\.
 
-Lassen wir uns dies nun auf die Fälle anwenden, in denen sich Menschen dem Wissen und der Weisheit Gottes gewidmet haben, deren Lernen und Fleiß unermesslich alle anderen Schulungen übertreffen; und lassen wir uns, gemäß der Form der verwendeten Analogie, überlegen, was der Erwerb von Wissen ist oder was sein Verschwinden bedeutet, insbesondere wenn wir von dem Apostel hören, was über die Vollkommenen gesagt wird, dass sie das Angesicht des Herrn in der Offenbarung Seiner Geheimnisse von Angesicht zu Angesicht schauen werden\.
+Lassen wir uns dies nun auf die Fälle anwenden, in denen sich Menschen dem Wissen und der Weisheit Gottes gewidmet haben, deren Lernen und Fleiß unermesslich alle anderen Schulungen übertreffen; und lassen wir uns, gemäß der Form der verwendeten Analogie, überlegen, was der Erwerb von Wissen ist oder was sein Verschwinden bedeutet, insbesondere wenn wir von dem Apostel hören, was über die Vollkommenen gesagt wird, dass sie die Herrlichkeit des Herrn in der Offenbarung Seiner Geheimnisse von Angesicht zu Angesicht schauen werden\.
 
 In unserem Bestreben, die göttlichen Gaben zu zeigen, die uns vom Vater, Sohn und Heiligen Geist zuteilwerden, wobei diese Dreifaltigkeit die Quelle aller Heiligkeit ist, sind wir in dem, was wir gesagt haben, in Abschweifung geraten\. Wir haben das Thema der Seele, das uns zufällig begegnete, angesprochen, wenn auch nur kurz, da wir ein verwandtes Thema in Bezug auf unsere rationale Natur diskutierten\.
 
