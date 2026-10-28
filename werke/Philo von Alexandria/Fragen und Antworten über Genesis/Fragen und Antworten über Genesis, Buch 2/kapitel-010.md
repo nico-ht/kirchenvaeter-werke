@@ -1,4 +1,4 @@
-# Fragen und Antworten über Genesis, Buch 2 – Kapitel 10
+# Fragen und Antworten über Genesis, Buch 2 – Kapitel 10: Gott lässt den Weisen an seinem Erbe teilhaben und macht ihn selbst zum Bund für das vernunftbegabte Geschlecht
 
 Autor: Philo von Alexandria
 
@@ -7,8 +7,9 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-2#kapitel-f430fe64-c286-4548-9c30-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Was bedeutet der Ausdruck: „Ich will meinen Bund mit dir aufrichten[^bible-39b48256-20f7-47d3-af15-81a0460b1958]“? Erstens mahnt er uns hier, dass niemand Erbe der göttlichen Substanz ist außer dem, der mit Tugend begabt ist\. Denn das Erbe von Menschen tritt man an, wenn sie selbst nicht mehr da sind, sondern gestorben sind\. Da Gott aber ewig ist, gewährt er den Weisen Anteil an seinem Erbe und freut sich darüber, dass sie in dessen Besitz eintreten\. Wer nämlich in den Besitz von allem eingetreten ist, dem fehlt nichts; wer aber aus Mangel an allem in Not ist, besitzt keinen Anteil an der Wahrheit\. Deshalb zeigt Gott sich den Tugendhaften gnädig und erweist ihnen Wohltaten, indem er ihnen schenkt, was sie brauchen\. Zweitens verleiht er dem Weisen ein bestimmtes und reicheres Erbe; denn er sagt nicht: „Ich will meinen Bund für dich aufrichten“, sondern: „mit dir“, das heißt: Du selbst bist ein gerechter und wahrer Bund, den ich für das mit Vernunft begabte Geschlecht, das der Tugend bedarf, zu ihrem Besitz und zu ihrer Ehre aufrichten werde\.
+Was bedeutet die Wendung: „Ich werde meinen Bund mit dir aufrichten[^bible-39b48256-20f7-47d3-af15-81a0460b1958]“? Zunächst macht er uns hier darauf aufmerksam, dass niemand den göttlichen Besitz erbt außer dem, der Tugend besitzt\. Denn das Erbe von Menschen tritt man an, wenn sie selbst nicht mehr leben, sondern tot sind\. Gott aber ist ewig und gewährt den Weisen Anteil an seinem Erbe; er freut sich darüber, dass sie es in Besitz nehmen\. Denn wer alles in Besitz genommen hat, dem fehlt nichts; diejenigen aber, die aus Mangel an allem Not leiden, besitzen keinen Anteil an der Wahrheit\. Deshalb erweist Gott den Tugendhaften seine Gunst und tut ihnen Gutes, indem er ihnen gibt, was sie brauchen\. Zweitens schenkt er dem Weisen ein sicheres und reicheres Erbe\. Denn er sagt nicht: „Ich werde meinen Bund für dich aufrichten[^bible-180d174a-14a8-4c16-b189-83e9763330c3]“, sondern: „mit dir[^bible-180d174a-14a8-4c16-b189-83e9763330c3]“\. Das heißt: „Du selbst bist ein gerechter und wahrer Bund, den ich für das vernunftbegabte Menschengeschlecht, das der Tugend bedarf, aufrichten werde, ihm zum Besitz und zum Ruhm\.“
 
 ## Bibelverweise
 
+[^bible-180d174a-14a8-4c16-b189-83e9763330c3]: Gen 6,18
 [^bible-39b48256-20f7-47d3-af15-81a0460b1958]: Gen 6,18

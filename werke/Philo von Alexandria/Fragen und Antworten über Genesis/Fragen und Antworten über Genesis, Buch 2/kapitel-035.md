@@ -1,4 +1,4 @@
-# Fragen und Antworten über Genesis, Buch 2 – Kapitel 35
+# Fragen und Antworten über Genesis, Buch 2 – Kapitel 35: Das Aussenden des Raben zeigt, wie der Verstand noch verbliebene Finsternis der Bosheit vertreibt
 
 Autor: Philo von Alexandria
 
@@ -7,4 +7,8 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-2#kapitel-867d354c-4b74-4d41-9c49-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Warum sandte er zuerst einen Raben aus? Wenn wir auf den wörtlichen Sinn sehen, gilt der Rabe als ein Tier, das besonders dazu bestimmt ist, Botschaften zu überbringen und für Dienste eingesetzt zu werden; denn bis zum heutigen Tag beobachten viele Menschen seine Flugweise und sein Krächzen und meinen, er gebe damit einen Hinweis auf unbekannte Tatsachen\. Was aber den verborgenen Sinn betrifft: Weil der Rabe ein schwarzes, hochmütiges und schnelles Tier ist, ist er ein Zeichen der Bosheit, die Nacht und Finsternis über die Seele bringt; zugleich eilt er im Flug rasch allem entgegen, was zur Welt gehört\. Außerdem ist er sehr dreist, so sehr, dass er bisweilen den Untergang derer herbeiführt, die ihn fangen wollen; denn Hochmut erzeugt auch vermessene Unverschämtheit\. Ihr Gegenteil ist die Tugend, die zum Glanz des Lichtes passt und von Natur mit schamhafter Zurückhaltung geschmückt ist\. Darum ist es ganz folgerichtig, dass er, falls im Verstand noch irgendeine Finsternis zurückgeblieben war, eine Finsternis, die der Dummheit entspricht, diese austreiben und über seine Grenzen hinaussenden sollte\.
+Warum sandte er zuerst einen Raben aus[^bible-8a0a3f5e-1298-4910-91c4-6e776ba36574]? Betrachten wir den wörtlichen Sinn, so gilt der Rabe als ein Tier, das besonders dazu bestimmt ist, mit Botschaften ausgesandt zu werden und Dienste zu verrichten\. Denn bis heute beobachten viele Menschen seinen Flug und sein Krächzen, weil sie meinen, darin Hinweise auf unbekannte Dinge zu finden\. Was aber den verborgenen Sinn betrifft, so ist der Rabe als schwarzes, hochmütiges und schnelles Tier ein Sinnbild des Bösen, das Nacht und Finsternis über die Seele bringt\. Auch fliegt es rasch allem entgegen, was zur Welt gehört\. Zudem ist es sehr kühn, sodass es bisweilen diejenigen ins Verderben stürzt, die es fangen wollen; denn Hochmut bringt auch verwegene Unverschämtheit hervor\. Ihr Gegenteil ist die Tugend, die mit dem Glanz des Lichtes im Einklang steht und von Natur aus mit bescheidener Schamhaftigkeit geschmückt ist\. Wenn also im Verstand noch Finsternis zurückgeblieben war, wie sie der Dummheit entspricht, so ist es ganz natürlich, dass er sie vertreibt und über seine Grenzen hinausschickt\.
+
+## Bibelverweise
+
+[^bible-8a0a3f5e-1298-4910-91c4-6e776ba36574]: Gen 8,7

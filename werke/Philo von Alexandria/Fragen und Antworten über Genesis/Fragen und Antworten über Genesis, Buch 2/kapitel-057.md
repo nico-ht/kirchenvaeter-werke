@@ -1,4 +1,4 @@
-# Fragen und Antworten über Genesis, Buch 2 – Kapitel 57
+# Fragen und Antworten über Genesis, Buch 2 – Kapitel 57: Reine Freuden geben der Seele Leben, ungeordnete Leidenschaften bedrohen sie mit Tod und Verderben
 
 Autor: Philo von Alexandria
 
@@ -7,8 +7,9 @@ Autor: Philo von Alexandria
 Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/philo/fragen-und-antworten-ueber-genesis-buch-2#kapitel-3c98988f-64cd-4bfa-9c5f-08ded7f950d2).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
-Warum sagt Gott: „Alles kriechende Getier, das lebt, soll euch zur Nahrung dienen[^bible-a4aa77af-1792-4eab-842b-4e3314ab4b7c]“? Kriechtiere sind von zweifacher Art: Die einen sind giftig, die anderen zahm\. Die giftigen sind Schlangen; statt Füßen gebrauchen sie Bauch und Brust und kriechen auf der Erde\. Die zahmen aber sind jene, die oberhalb ihrer Füße Beine haben\. Das ist der wörtliche Sinn der Aussage\. Wenn wir aber auf ihren inneren Sinn sehen, dann stellen die Kriechtiere die schmutzigen Laster dar, die reinen dagegen die Freude\. Denn mit der Leidenschaft der Begierde wird Freude und Lust verbunden sein, mit dem Verlangen Wille und Überlegung, mit dem Schmerz Stachel und Reue, und mit der Gier Furcht\. Darum bedrohen solche ungeordneten Erregungen der Leidenschaften die Seelen mit Tod und Verderben; die Freuden aber leben wirklich, wie er selbst uns in einer Allegorie gewarnt hat, und sie geben auch denen Leben, die sie besitzen\.
+Warum sagt Gott: „Alles Kriechende, das lebt, soll euch zur Nahrung dienen[^bible-a4aa77af-1792-4eab-842b-4e3314ab4b7c]“? Es gibt zweierlei Kriechtiere: giftige und zahme\. Die giftigen sind die Schlangen, die anstelle von Füßen ihren Bauch und ihre Brust gebrauchen und auf der Erde kriechen; die zahmen dagegen sind diejenigen, die Beine oberhalb ihrer Füße haben[^bible-52b1f1f4-be29-48ce-b3ee-8531db82240e]\. Das ist der wörtliche Sinn der Aussage\. Betrachten wir aber ihren inneren Sinn, so stehen die Kriechtiere für die schändlichen Laster, die reinen dagegen für die Freude\. Denn mit der Leidenschaft der Begierde gehen Freude und Lust einher, mit dem Verlangen Wille und Überlegung, mit der Traurigkeit quälender Antrieb und Gewissensbisse, mit der Gier Furcht\. Solche ungeordneten Aufwallungen der Leidenschaften bedrohen daher die Seelen mit Tod und Verderben\. Die Freuden aber leben wirklich, wie er selbst uns in einer Allegorie mahnend vor Augen geführt hat; und sie schenken auch denen Leben, die sie besitzen\.
 
 ## Bibelverweise
 
+[^bible-52b1f1f4-be29-48ce-b3ee-8531db82240e]: Lev 11,21
 [^bible-a4aa77af-1792-4eab-842b-4e3314ab4b7c]: Gen 9,3
