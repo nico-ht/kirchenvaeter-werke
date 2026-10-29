@@ -1,0 +1,16 @@
+# 52\. Homilie über Genesis – Kapitel 5: Feindesliebe ist nötig zur Rettung und befähigt die Seele zu wachsamen Bitten um Gottes Beistand
+
+Autor: Johannes Chrysostomus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/52-homilie-ueber-genesis#kapitel-5835eca5-1211-4ff9-c3f6-08df3455627e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Welche Vergebung hätten wir also verdient, wir, die wir die Gnade, eine so umfassende Unterweisung und die Gebote des Erlösers empfangen haben und dennoch nicht einmal das Maß dieses Gerechten erreichen können? Doch was sage ich: dasselbe Maß? Wir können ihm nicht einmal nahekommen\. Denn das Übermaß an Bosheit hat inzwischen so sehr um sich gegriffen, dass es sogar selten geworden ist, die zu lieben, die uns lieben[^bible-ef81351f-2415-485e-af4b-92f619393536]\. Woher sollen wir also Hoffnung auf Rettung nehmen, wenn wir sogar noch schlechter werden als die Zöllner? Denn Christus sagt: „Wenn ihr die liebt, die euch lieben, was tut ihr da Besonderes? Tun nicht auch die Zöllner dasselbe?[^bible-701b30bf-0c14-4f5c-b69e-ab126b9c63e6]“ Christus will, dass wir zum höchsten Gipfel der Tugend aufsteigen; darum will er, dass wir besser sind als sie\. Wir aber bemühen uns, sogar noch hinter ihnen zurückzubleiben\. Doch was sage ich: hinter den Zöllnern? Wir sind sogar schlechter als Räuber, Grabräuber und Mörder\. Denn auch von ihnen liebt jeder den, der ihm liebevoll begegnet, und ist oft sogar bereit, sich für den geliebten Menschen in Gefahr zu begeben\. Was könnte also erbärmlicher sein als wir, wenn wir, denen Gott so große Menschenliebe erwiesen hat, uns als schlechter erweisen als Menschen, die unzählige böse Taten begangen haben? Bedenken wir also, ich bitte euch, sowohl die Größe der Strafe dort als auch das Übermaß der Schande hier\. Erkennen wir endlich, wenn auch spät, unsere eigene Würde und gehorchen wir der Lehre Christi\. Lasst uns nicht nur die aufrichtig lieben, die uns lieben[^bible-ef81351f-2415-485e-af4b-92f619393536], und dabei alle Missgunst und allen Neid aus unserer Seele verbannen, sondern uns bemühen, auch Menschen zu lieben, selbst wenn sie uns feindlich gesinnt sind[^bible-a05034e7-39f9-4ba6-8e9e-f153794691e0]\. Denn nur wenn wir diesen Weg gehen, können wir gerettet werden\. Bemühen wir uns sogar, sie mehr zu lieben als die, die uns lieben, weil sie uns unzählige Güter vermitteln\. So werden wir Vergebung für unsere Sünden erlangen und mit demütigem Sinn und zerknirschter Seele unsere Bitten vor Gott bringen können\. Wenn nämlich die Seele von jeder Feindseligkeit frei ist und ihre Gedanken in stiller Ruhe verweilen, ruft sie den Herrn mit großer Wachsamkeit an und erwirkt reichen Beistand von oben\. Mögen wir alle dieses Beistands gewürdigt werden durch die Gnade und Menschenliebe unseres Herrn Jesus Christus\. Mit ihm sei dem Vater die Herrlichkeit, zusammen mit dem Heiligen Geist, jetzt und immer und in alle Ewigkeit\. Amen\.
+
+## Bibelverweise
+
+[^bible-701b30bf-0c14-4f5c-b69e-ab126b9c63e6]: Mt 5,46–Mt 5,47
+[^bible-a05034e7-39f9-4ba6-8e9e-f153794691e0]: Mt 5,44
+[^bible-ef81351f-2415-485e-af4b-92f619393536]: Mt 5,46
