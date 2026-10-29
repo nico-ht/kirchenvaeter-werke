@@ -1,0 +1,19 @@
+# 3\. Homilie über das Hexaemeron – Kapitel 10: Gott lobt jedes Schöpfungswerk als schön, weil es zur Vollendung des Ganzen beiträgt
+
+Autor: Basilius der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/basilius-der-grosse/3-homilie-ueber-das-hexaemeron#kapitel-63003a81-2f57-4fdb-c467-08df3455627e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Und Gott sah, dass es schön war\.[^bible-1c1e2dae-5d98-4667-af0d-7effe3911597]“ Was Gott erschafft, bereitet nicht seinen Augen Freude; auch findet er am Schönen nicht auf dieselbe Weise Gefallen wie wir\. Schön ist vielmehr, was nach den Regeln der Kunst ausgeführt ist und der Erfüllung seines Zwecks dient\. Da er sich also das Ziel seiner Schöpfung klar vor Augen gestellt hatte, prüfte er jedes einzelne Werk nach den Regeln seiner Kunst und fand daran Gefallen, weil es zur Vollendung des Ganzen beitrug\. Denn eine Hand für sich, ein einzelnes Auge oder jedes andere Glied einer Statue, das getrennt von den übrigen daliegt, dürfte nicht jedem Betrachter schön erscheinen\. Sind die Glieder aber an ihren jeweiligen Platz gesetzt, wird die Schönheit ihres Verhältnisses zueinander endlich sichtbar und auch für den Laien erkennbar\. Der Künstler dagegen kennt schon vor dem Zusammenfügen die Schönheit jedes einzelnen Teils und lobt die Teile, indem er ihren gemeinsamen Zweck bedenkt\. So wird Gott auch hier in der Schrift als einer dargestellt, der die einzelnen Werke mit dem Sachverstand des Künstlers lobt\. Er wird aber auch der ganzen Welt, wenn sie vollendet ist, das ihr gebührende Lob uneingeschränkt zuteilwerden lassen\.[^bible-7490bc1e-9835-4e08-b36c-4c35ecf224fd] Doch damit wollen wir unsere Ausführungen über den zweiten Tag beenden\. So erhalten die eifrigen Zuhörer Zeit, das Gehörte zu prüfen und, wenn darin etwas Nützliches ist, es im Gedächtnis zu behalten und abzuwarten, bis sie es durch beharrliches Nachdenken, gleichsam durch Verdauung, in sich aufgenommen haben\. Wer dagegen mit den Geschäften des täglichen Lebens beschäftigt ist, soll Gelegenheit erhalten, in der Zwischenzeit seine Angelegenheiten zu ordnen und mit einer von Sorgen freien Seele zum abendlichen Mahl unserer Worte zu kommen\. Gott aber, der die großen Dinge geschaffen und dafür gesorgt hat, dass diese bescheidenen Worte gesprochen wurden, schenke euch in allem Einsicht[^bible-62686062-ccf6-440d-9497-ec7d830c24d5] in seine Wahrheit, damit ihr aus dem Sichtbaren den Unsichtbaren erkennt[^bible-ad40d719-e3e1-4cab-9eb3-d2f422bba332] und aus der Größe und Schönheit der Geschöpfe eine angemessene Vorstellung von dem gewinnt, der uns geschaffen hat[^bible-278ddb32-c7dd-401f-8bb6-01ee4b4c10be]\. „Denn was an ihm unsichtbar ist, wird seit der Erschaffung der Welt an seinen Werken mit dem Verstand erkannt und deutlich geschaut: seine ewige Macht und Göttlichkeit\.[^bible-ad40d719-e3e1-4cab-9eb3-d2f422bba332]“ So finden wir auf der Erde, in der Luft, am Himmel, im Wasser, bei Nacht und bei Tag und in allem Sichtbaren deutliche Hinweise, die uns an unseren Wohltäter erinnern\. Denn wir werden weder den Sünden Gelegenheit geben noch dem Feind Raum in unseren Herzen lassen[^bible-4b3de4e4-5b94-4ed0-8a36-8658fa69966e], da Gott durch unser beständiges Gedenken in uns wohnt\. Ihm gebührt alle Herrlichkeit und Anbetung, jetzt und immer und in alle Ewigkeit\. Amen\.
+
+## Bibelverweise
+
+[^bible-1c1e2dae-5d98-4667-af0d-7effe3911597]: Gen 1,8
+[^bible-278ddb32-c7dd-401f-8bb6-01ee4b4c10be]: Weish 13,5
+[^bible-4b3de4e4-5b94-4ed0-8a36-8658fa69966e]: Eph 4,27
+[^bible-62686062-ccf6-440d-9497-ec7d830c24d5]: 2Tim 2,7
+[^bible-7490bc1e-9835-4e08-b36c-4c35ecf224fd]: Gen 1,31
+[^bible-ad40d719-e3e1-4cab-9eb3-d2f422bba332]: Röm 1,20

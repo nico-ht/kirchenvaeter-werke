@@ -1,0 +1,16 @@
+# 3\. Homilie über das Hexaemeron – Kapitel 1: Wer Gottes Wort Zeit widmet, gewinnt auch ohne irdischen Erfolg einen Schatz für die kommende Welt
+
+Autor: Basilius der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/basilius-der-grosse/3-homilie-ueber-das-hexaemeron#kapitel-34be068d-5514-4b83-c45e-08df3455627e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Über das Firmament\. Gestern hat unsere Auslegung die Werke des ersten Tages behandelt, genauer gesagt, des einen Tages[^bible-6e244340-f761-4cf8-b294-6ed1e996ef30]\. Wir wollen ihm ja nicht die Würde nehmen, die ihm von Natur aus zukommt: Der Schöpfer hat ihn als eigenständigen Tag hervorgebracht und nicht zusammen mit den anderen in eine Reihe eingeordnet und mitgezählt\. Die Auslegung dessen, was an diesem Tag geschah, haben wir für unsere Zuhörer aufgeteilt: Am Morgen wurde sie zur Nahrung für die Seelen, am Abend zu ihrer Freude\. Nun geht unsere Auslegung zu den Wundern des zweiten Tages über\. Wenn ich das sage, schreibe ich es nicht dem Können des Auslegers zu, sondern der Anmut der Schrift\. Sie findet von sich aus bereitwillige Aufnahme und ist jedem Herzen angenehm und lieb, das die Wahrheit dem vorzieht, was nur überzeugend klingt\. So bringt auch der Psalmsänger die Freude an der Wahrheit mit besonderem Nachdruck zum Ausdruck: „Wie süß[^bible-9d89c333-7648-45d4-b489-d08ba6841f59]“, sagt er, „sind deine Worte meiner Kehle, süßer als Honig meinem Mund\![^bible-9d89c333-7648-45d4-b489-d08ba6841f59]“ Nachdem wir gestern durch die Beschäftigung mit Gottes Worten eure Seelen erfreut haben, soweit es uns möglich war, sind wir heute, am zweiten Tag, wieder zusammengekommen, um die wunderbaren Werke des zweiten Tages zu betrachten\. Mir ist allerdings nicht entgangen, dass unter denen, die uns umringen, viele einfache Handwerker sind, die mit ihrer täglichen Arbeit gerade genug für ihren Lebensunterhalt verdienen\. Ihretwegen müssen wir unsere Rede kurz halten, damit sie nicht zu lange von ihrer Arbeit abgehalten werden\. Was habe ich ihnen zu sagen? Die Zeit, die man Gott leiht, geht nicht verloren; er gibt sie vielmehr mit reichem Zuwachs zurück\. Denn der Herr wird alle bedrängenden Umstände abwenden, die euch in Anspruch nehmen\. Denen, die dem Geistlichen den Vorrang geben, schenkt er Kraft für den Körper, Eifer für die Seele, gutes Gelingen bei ihren Geschäften und Erfolg im ganzen Leben\. Und selbst wenn unsere Bemühungen im gegenwärtigen Leben nicht den erhofften Erfolg haben, ist die Unterweisung des Geistes doch ein guter Schatz für die kommende Weltzeit\. Befreie also dein Herz von aller Sorge um das tägliche Leben und sei hier ganz bei mir\. Denn es nützt nichts, wenn dein Körper anwesend ist, während dein Herz sich um den irdischen Schatz müht[^bible-0b49364c-5c7f-4b03-80ba-ef534c122add]\.
+
+## Bibelverweise
+
+[^bible-0b49364c-5c7f-4b03-80ba-ef534c122add]: Mt 6,19–Mt 6,21
+[^bible-6e244340-f761-4cf8-b294-6ed1e996ef30]: Gen 1,5
+[^bible-9d89c333-7648-45d4-b489-d08ba6841f59]: Ps 118,103
