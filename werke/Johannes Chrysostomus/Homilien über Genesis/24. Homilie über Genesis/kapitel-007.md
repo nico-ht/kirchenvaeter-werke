@@ -1,0 +1,18 @@
+# 24\. Homilie über Genesis – Kapitel 7: Nicht mangelnde Geduld Gottes, sondern der böse Wille der Menschen führt zum Untergang in der Flut
+
+Autor: Johannes Chrysostomus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/chrysostomus-24-homilie-ueber-genesis#kapitel-577e1785-be4a-448f-c439-08df3455627e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Siehst du die Einsicht der Barbaren? Siehst du, wie sie trotz der knappen Frist von wenigen Tagen weder nachlässiger wurden noch den Mut verloren? Sieh dagegen diese Menschen: Nach so vielen Jahren hören sie, dass noch sieben Tage bleiben, bis die Flut hereinbricht[^bible-ebedd9c0-81be-4fe7-8cab-f1313b1a42e4], und selbst jetzt kehren sie nicht um, sondern bleiben unempfindlich\. Daraus muss man erkennen, dass unser eigener Wille die Ursache aller Übel ist\. Denn sieh: Diese waren Menschen und jene waren Menschen; sie hatten dieselbe Natur, aber ihr Wille war verschieden\. Deshalb erging es ihnen auch nicht gleich: Die einen entgingen dem Untergang[^bible-d2377f28-38d3-49fb-bbf0-4b9e6da265dd], weil der gute Gott in seiner Menschenfreundlichkeit ihre Umkehr genügen ließ; die anderen aber versanken im Wasser und wurden vollständig vernichtet[^bible-9d56c65d-5eaf-4340-8202-9e562a3282c1]\. Denn er sagt: „Noch sieben Tage, dann lasse ich Regen auf die Erde kommen\.[^bible-ebedd9c0-81be-4fe7-8cab-f1313b1a42e4]“ Um die Furcht zu steigern, fügt er hinzu: „Vierzig Tage und vierzig Nächte\.[^bible-ebedd9c0-81be-4fe7-8cab-f1313b1a42e4]“ Wie nun? Hätte er nicht, wenn er gewollt hätte, den ganzen Regen an einem einzigen Tag fallen lassen können? Was sage ich: an einem einzigen Tag? In einem einzigen Augenblick\! Er tut das aber mit Absicht: Er will zugleich die Furcht steigern und ihnen die Möglichkeit geben, der Strafe noch zu entgehen, selbst wenn sie schon unmittelbar an ihrer Schwelle stehen\. Er sagt: „Und ich werde alles Lebendige, das ich geschaffen habe, vom Angesicht der Erde tilgen, vom Menschen bis zum Vieh\.[^bible-ebedd9c0-81be-4fe7-8cab-f1313b1a42e4]“ Sieh, wie er sie ein erstes und ein zweites Mal warnt und sie dennoch nicht erreicht\. All das tat er, um uns zu lehren, dass er eine so schwere Strafe mit Recht über sie brachte, und damit keiner der Unverständigen ihm Vorwürfe machen und sagen könne: „Hätte er länger Geduld gehabt, hätten sie wohl von ihrer Bosheit abgelassen und wären zur Tugend zurückgekehrt\.“ Deshalb macht er uns auch die Zahl der Jahre deutlich und befiehlt den Bau der Arche[^bible-5149268d-ddc0-43ef-90ed-de95a58791e5]\. Und nach all dem kündigt er die Flut noch sieben Tage vorher an[^bible-ebedd9c0-81be-4fe7-8cab-f1313b1a42e4], um allen, die unbedacht daherreden wollen, die schamlose Zunge zum Schweigen zu bringen\. Es heißt: „Und Noah tat alles, was ihm der Herr, Gott, geboten hatte\.[^bible-a2e9ee06-1c8c-4185-b46c-5b26fa264fdb]“ Sieh, wie die göttliche Schrift auch jetzt die Einsicht und den Gehorsam des Gerechten rühmt\. Sie lehrt uns, dass er nichts von dem, was ihm aufgetragen war, unterließ, sondern alles erfüllte[^bible-a2e9ee06-1c8c-4185-b46c-5b26fa264fdb] und auch dadurch seine Tugend bewies\.
+
+## Bibelverweise
+
+[^bible-5149268d-ddc0-43ef-90ed-de95a58791e5]: Gen 6,14
+[^bible-9d56c65d-5eaf-4340-8202-9e562a3282c1]: Gen 7,21–Gen 7,23
+[^bible-a2e9ee06-1c8c-4185-b46c-5b26fa264fdb]: Gen 7,5
+[^bible-d2377f28-38d3-49fb-bbf0-4b9e6da265dd]: Jona 3,10
+[^bible-ebedd9c0-81be-4fe7-8cab-f1313b1a42e4]: Gen 7,4
