@@ -1,0 +1,15 @@
+# 4\. Homilie über das Hexaemeron – Kapitel 7: Schön ist das Meer in seinem vielfältigen Nutzen, noch schöner die einträchtig betende Gemeinde
+
+Autor: Basilius der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/basilius-der-grosse/basilius-hexaemeron-homilie-4#kapitel-d0b2fa0f-2ddc-4572-c491-08df3455627e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Schön ist das Meer also in Gottes Augen auch deshalb, weil seine Feuchtigkeit in der Tiefe dahinströmt\. Schön ist es auch, weil es als Sammelbecken der Flüsse die Ströme von überallher in sich aufnimmt und dabei innerhalb seiner Grenzen bleibt\. Schön ist es auch, weil es gewissermaßen Ursprung und Quelle des Wassers in der Luft ist: Von den Sonnenstrahlen erwärmt, gibt es den feinen Teil seines Wassers als Dampf ab\. Dieser wird nach oben gezogen und kühlt dann ab, weil er höher hinaufgestiegen ist, als die vom Erdboden zurückgeworfenen Strahlen reichen\. Zugleich verstärkt der Schatten der Wolke die Abkühlung\. So wird er zu Regen und macht die Erde fruchtbar\. Daran wird gewiss niemand zweifeln, der an die Kessel denkt, unter denen ein Feuer brennt: Obwohl sie voller Flüssigkeit waren, blieben sie oft leer zurück, weil alles, was darin kochte, sich in Dampf aufgelöst hatte\. Man kann auch sehen, wie Seeleute das Meerwasser selbst zum Kochen bringen\. Sie fangen den Dampf mit Schwämmen auf und lindern so in Notlagen ihren Mangel ein wenig\. Schön ist das Meer in Gottes Augen auch in anderer Hinsicht: Es umschließt die Inseln und verleiht ihnen dadurch zugleich Schmuck und Sicherheit\. Ferner verbindet es selbst die am weitesten voneinander entfernten Festländer, indem es den Seeleuten ungehinderten Verkehr ermöglicht\. Durch sie vermittelt es auch Kenntnisse von Unbekanntem, verhilft Händlern zu Reichtum und sorgt mühelos für den Lebensbedarf: Denen, die Überfluss haben, ermöglicht es die Ausfuhr des Überschüssigen, und denen, die Mangel leiden, verschafft es das Fehlende\. Doch wie könnte ich die ganze Schönheit des Meeres so genau erfassen, wie sie sich dem Auge seines Schöpfers gezeigt hat? Wenn aber das Meer in Gottes Augen schön und lobenswert ist, wie sollte dann die Versammlung einer Gemeinde wie dieser nicht noch schöner sein? Wenn wir zu Gott flehen, ertönt in ihr der vereinte Klang der Stimmen von Männern, Frauen und kleinen Kindern, wie das Rauschen einer Welle, die ans Ufer schlägt\. Tiefe Ruhe bewahrt sie vor Erschütterung, denn die Geister der Bosheit[^bible-e4c4edf7-a9f4-483e-b949-dcd48292105a] haben sie mit ihren häretischen Lehren nicht aufwühlen können\. Mögt ihr also der Anerkennung des Herrn würdig werden, indem ihr diese gute Ordnung in schönster Weise bewahrt, in Christus Jesus, unserem Herrn, dem die Herrlichkeit und die Macht gehören in alle Ewigkeit\. Amen\.[^bible-80713bfe-8401-4530-a75f-2ffe1651cbba]
+
+## Bibelverweise
+
+[^bible-80713bfe-8401-4530-a75f-2ffe1651cbba]: 1Petr 4,11
+[^bible-e4c4edf7-a9f4-483e-b949-dcd48292105a]: Eph 6,12
