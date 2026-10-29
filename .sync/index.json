@@ -364,6 +364,55 @@
     "contentRevision": "sha256:a259807fb8e5a0efd2e14ce0018c88889662edd27bf0ed18198c4999c1279264"
   },
   {
+    "workId": "75f5684f-0b96-4876-8858-08df34555aa5",
+    "authorName": "Basilius der Große",
+    "title": "2. Homilie über das Hexaemeron",
+    "directory": "werke/Basilius der Große/Homilien über das Hexaemeron/2. Homilie über das Hexaemeron",
+    "contentRevision": "sha256:512a99b028e9e831d214b55580483fae0d9cf983f764d31b5481d1458ca09f74"
+  },
+  {
+    "workId": "e1cbb0d8-be58-43b1-8859-08df34555aa5",
+    "authorName": "Basilius der Große",
+    "title": "3. Homilie über das Hexaemeron",
+    "directory": "werke/Basilius der Große/Homilien über das Hexaemeron/3. Homilie über das Hexaemeron",
+    "contentRevision": "sha256:e452e5fb96b0401075502240e96efb2f8612d047df9763ce32ca0bdfbe0708d4"
+  },
+  {
+    "workId": "22be1cf9-67f9-4e65-912c-08df200aaa32",
+    "authorName": "Basilius der Große",
+    "title": "4. Homilie über das Hexaemeron",
+    "directory": "werke/Basilius der Große/Homilien über das Hexaemeron/4. Homilie über das Hexaemeron",
+    "contentRevision": "sha256:d58474c529c277fd3fd748bb0cc5ed8745275591ebf2059b41006a41f171f713"
+  },
+  {
+    "workId": "1b8df2b6-508e-4b9a-885a-08df34555aa5",
+    "authorName": "Basilius der Große",
+    "title": "5. Homilie über das Hexaemeron",
+    "directory": "werke/Basilius der Große/Homilien über das Hexaemeron/5. Homilie über das Hexaemeron",
+    "contentRevision": "sha256:bd1602f5878c17791c25832e9c9777eebe9140a5a8f4540be5f782964f56a721"
+  },
+  {
+    "workId": "90984e8e-9b88-4c50-885b-08df34555aa5",
+    "authorName": "Basilius der Große",
+    "title": "6. Homilie über das Hexaemeron",
+    "directory": "werke/Basilius der Große/Homilien über das Hexaemeron/6. Homilie über das Hexaemeron",
+    "contentRevision": "sha256:6d971316737bc68a648e32890b3a5c3cb860d149dd48b0312ec486a50fbfa0f1"
+  },
+  {
+    "workId": "be5c0b0f-b81f-4c87-885c-08df34555aa5",
+    "authorName": "Basilius der Große",
+    "title": "7. Homilie über das Hexaemeron",
+    "directory": "werke/Basilius der Große/Homilien über das Hexaemeron/7. Homilie über das Hexaemeron",
+    "contentRevision": "sha256:25078c56c4fb054cfdae2e000300a0f3d396c0a9d4407077568c78f650ccc8cb"
+  },
+  {
+    "workId": "06ee8969-bbd8-4448-885d-08df34555aa5",
+    "authorName": "Basilius der Große",
+    "title": "8. Homilie über das Hexaemeron",
+    "directory": "werke/Basilius der Große/Homilien über das Hexaemeron/8. Homilie über das Hexaemeron",
+    "contentRevision": "sha256:16226506db3ede37b7def82bd3fcc9de21307e3b8d3db7bc62132dc2b006990a"
+  },
+  {
     "workId": "d9aee309-df13-49c4-6e0b-08de7d5c481a",
     "authorName": "Basilius der Große",
     "title": "Brief 22 - Wie ein Christ leben muss",
@@ -973,6 +1022,13 @@
     "contentRevision": "sha256:a8d4d1a74048a329f8e357419499891217dc0dd46bbae86bb86db1e26a48bfe8"
   },
   {
+    "workId": "0c49507c-0e74-4ec0-885e-08df34555aa5",
+    "authorName": "Gregor von Nyssa",
+    "title": "Apologie zum Hexaemeron",
+    "directory": "werke/Gregor von Nyssa/Apologie zum Hexaemeron",
+    "contentRevision": "sha256:bcecd048fdec79f7ffedd3ba037478fe6645d619de59204d095a6f26e2d4c4a4"
+  },
+  {
     "workId": "52807f8a-a3b8-4648-a2dc-08df1a4e62f2",
     "authorName": "Gregor von Nyssa",
     "title": "Brief 2: Über Pilgerreisen",
@@ -1316,6 +1372,13 @@
     "contentRevision": "sha256:975020060a3f9e9642cbbeb211e74b23185c891eaccbc0fa0caa6821bbda015c"
   },
   {
+    "workId": "668f02a1-aec9-4b09-a191-08df239ccd94",
+    "authorName": "Johannes Chrysostomus",
+    "title": "13. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/13. Homilie über Genesis",
+    "contentRevision": "sha256:bc28ca3d6dc129e4d3b0051eaa3bf26264f8f77665e0218bc18b389de9614255"
+  },
+  {
     "workId": "dda96ecb-c4af-4adc-5589-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "13. Homilie über Matthäus",
@@ -1442,6 +1505,13 @@
     "contentRevision": "sha256:b682a7f5c2ee9f53ecae11f12300a7df27e9846cb6878dd497fd9cbd5d0d69d3"
   },
   {
+    "workId": "2794943c-e86f-48a5-882f-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "20. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/20. Homilie über Genesis",
+    "contentRevision": "sha256:380e46e31cbc5ebccf7f149a635c04da843e192e82a152caee5946a401f3c247"
+  },
+  {
     "workId": "4247e733-4a7a-4c2a-5590-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "20. Homilie über Matthäus",
@@ -1484,11 +1554,25 @@
     "contentRevision": "sha256:d5f761f3b7f66ce2d5c4c1aad347e6ec5f4eb764edd8b50a112acbdefc367e81"
   },
   {
+    "workId": "b5d32084-e6f7-4186-a18c-08df239ccd94",
+    "authorName": "Johannes Chrysostomus",
+    "title": "24. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/24. Homilie über Genesis",
+    "contentRevision": "sha256:d2b7bd1cc8791e2c455b9e6d972ee17b3a38b056b4a14ce0ed9f4cf1ec94fcbc"
+  },
+  {
     "workId": "0719440d-ca53-4837-5594-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "24. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/24. Homilie über Matthäus",
     "contentRevision": "sha256:ad9af3bf05e3fd1055c01c513ba05cc93208ba5176e58f039e7fe221e1f3ac84"
+  },
+  {
+    "workId": "635ea5aa-2b75-4791-8832-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "25. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/25. Homilie über Genesis",
+    "contentRevision": "sha256:4f4d2670f9066173c008d803e7ac149fa3e9da17219645d96ab2503c56a895d2"
   },
   {
     "workId": "f2bf45c6-f705-45a6-5595-08deedfb48dc",
@@ -1603,11 +1687,25 @@
     "contentRevision": "sha256:0049bd270d8b80d4e4cd20f88f4c9c5a335b2f55a1e298fdc468fe25306e7445"
   },
   {
+    "workId": "a77b0934-9872-4276-8838-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "31. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/31. Homilie über Genesis",
+    "contentRevision": "sha256:3dd48ee27618d168c355b7f5f786f342341a0bd890248c151bb7849e1ceed8b9"
+  },
+  {
     "workId": "abd46202-2996-4d31-559b-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "31. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/31. Homilie über Matthäus",
     "contentRevision": "sha256:3e82770167289f5e9c60cc24414a4ba224a8cb99c7c465683849841dae4800af"
+  },
+  {
+    "workId": "1982b828-f3da-4732-8839-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "32. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/32. Homilie über Genesis",
+    "contentRevision": "sha256:0fceaeb461ed1676b4c29bd011097ffa07b4fadfec19d7139fd91f61105ae559"
   },
   {
     "workId": "a288e04b-30c8-4a47-559c-08deedfb48dc",
@@ -1617,11 +1715,25 @@
     "contentRevision": "sha256:b48a6c758efd63b114e2cad551ba70535741de6ff919ff895b8866f964d05697"
   },
   {
+    "workId": "01efa7d6-371d-4743-883a-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "33. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/33. Homilie über Genesis",
+    "contentRevision": "sha256:0e7d1a9abfa34e9cf182082d36866de6e55ee701c65a06c4ed09d3b22fa30b4c"
+  },
+  {
     "workId": "ac076f5c-1c9b-478a-559d-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "33. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/33. Homilie über Matthäus",
     "contentRevision": "sha256:235a0e1ff1d0455bdecdb86c79228ebd398c13298824419fc3de70d5ab23e2e3"
+  },
+  {
+    "workId": "9ef335f9-a61f-4136-883b-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "34. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/34. Homilie über Genesis",
+    "contentRevision": "sha256:67581a4f2c275eef49a61a3a720e0587ffd58682c68e30af404f492b8c453ac5"
   },
   {
     "workId": "85c23a81-d0d4-4a0c-559e-08deedfb48dc",
@@ -1631,11 +1743,25 @@
     "contentRevision": "sha256:c0939b3c5a750c6ae491c112b1975a5d1f678a13908eabef40a8878d52a5f538"
   },
   {
+    "workId": "e3cb4d9c-db95-432e-883c-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "35. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/35. Homilie über Genesis",
+    "contentRevision": "sha256:8d3cb86816c593f2b7cde79ff86fa0fb1a32afc686c12555480cd83b0d613d03"
+  },
+  {
     "workId": "24ff03d6-f48f-4ba5-559f-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "35. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/35. Homilie über Matthäus",
     "contentRevision": "sha256:12cbe3afdf0005f97335010b9df5b41b92c0e8fd2b0cb5620cc0eaa10329c837"
+  },
+  {
+    "workId": "c600ad3e-a7b3-47ab-883d-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "36. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/36. Homilie über Genesis",
+    "contentRevision": "sha256:4cc513b17d499a4dcd14577d74234122886ac165e0e447b41d48c7a9e470ab4a"
   },
   {
     "workId": "d41fb956-da86-4898-55a0-08deedfb48dc",
@@ -1645,11 +1771,25 @@
     "contentRevision": "sha256:5a999d8671fee54f9bbdc8c4d8389f7399f0bc9003e06dad3513d1790153faef"
   },
   {
+    "workId": "9ff52b8c-43ee-481b-883e-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "37. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/37. Homilie über Genesis",
+    "contentRevision": "sha256:f8a446ef479c9be492dfe0c1985e0d832d4e164842c6b03c3141831da4d7f878"
+  },
+  {
     "workId": "a59c2488-8d3b-496a-55a1-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "37. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/37. Homilie über Matthäus",
     "contentRevision": "sha256:bf70162829c4a525d1e70c1c4f5f7e3aa3713d4b193d6d6dbcf59f568402ff88"
+  },
+  {
+    "workId": "c8f977cd-a8d2-4eed-883f-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "38. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/38. Homilie über Genesis",
+    "contentRevision": "sha256:eb6ea30b67ccbfd834158344e2433e8cdeb34fbc769985d64276ee80472bf0a5"
   },
   {
     "workId": "05a8c800-d0b8-4678-55a2-08deedfb48dc",
@@ -1659,11 +1799,25 @@
     "contentRevision": "sha256:0f5dcbe1e7dc93b9edfa654fc6253e02cf38ee857c440958d774a0c9e159dc14"
   },
   {
+    "workId": "26c84a09-fe16-44b4-8840-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "39. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/39. Homilie über Genesis",
+    "contentRevision": "sha256:37d4d51969e81186d8dcd3ac1aa6d12d89f6888e6c8deb084e4841c140f43c00"
+  },
+  {
     "workId": "08f9492e-c322-460e-55a3-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "39. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/39. Homilie über Matthäus",
     "contentRevision": "sha256:a6065b8f9a25dd9487d654ed69877c01c3a616540960345f101f60e0e4083f29"
+  },
+  {
+    "workId": "9a0e4d21-8f61-486b-6341-08dd6f1580d1",
+    "authorName": "Johannes Chrysostomus",
+    "title": "4. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/4. Homilie über Genesis",
+    "contentRevision": "sha256:3670eaea007c9878f41d861c982764a1aef47f6d4b099ab029715464bdd33fce"
   },
   {
     "workId": "0c80e2c4-3506-4278-5580-08deedfb48dc",
@@ -1694,11 +1848,25 @@
     "contentRevision": "sha256:27082f7589fa0da3a0f0000ba0082ce9dba6c6331e4ef7c7843ad294346248fb"
   },
   {
+    "workId": "37ee9b17-654b-40df-8841-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "40. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/40. Homilie über Genesis",
+    "contentRevision": "sha256:0925aafae2cadead7ccfb5c2aba3544526b8837786d91d3e28a61904cc0b40ec"
+  },
+  {
     "workId": "ff91803a-9875-42de-55a4-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "40. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/40. Homilie über Matthäus",
     "contentRevision": "sha256:ef8942ddca37305a004f85e3257335be2347c95cf3cb882988e0246d898923cc"
+  },
+  {
+    "workId": "670bd2d0-efb9-4f0e-8842-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "41. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/41. Homilie über Genesis",
+    "contentRevision": "sha256:6b30db3efad542ab3b081850ce1286fee9f859b2172ae515a134531d3defcf8e"
   },
   {
     "workId": "2a352cfe-894f-42f9-55a5-08deedfb48dc",
@@ -1708,11 +1876,25 @@
     "contentRevision": "sha256:1f78a9079ae6367d99eb696f37b463fb26ccc7022a594e0b8bbb227eb411925e"
   },
   {
+    "workId": "9511b867-9c58-421a-8843-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "42. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/42. Homilie über Genesis",
+    "contentRevision": "sha256:7f8d93b9715a5866e358f0e715c1b3a0e20ee401acb870eb2f0a6aa473f1f0b4"
+  },
+  {
     "workId": "7f1a4717-fef4-423e-55a6-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "42. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/42. Homilie über Matthäus",
     "contentRevision": "sha256:5d2f29579d8234ed8a58eabd2315bcf6c7ce99a72cf310695369a21b87ba1c59"
+  },
+  {
+    "workId": "be31608c-38b8-4b13-8844-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "43. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/43. Homilie über Genesis",
+    "contentRevision": "sha256:71dff304eeb3cad41af520cd52c4d3f6b242df60a5cf7acb0f2f649a82bf7d85"
   },
   {
     "workId": "77a10a5a-18cc-4a3b-55a7-08deedfb48dc",
@@ -1722,11 +1904,25 @@
     "contentRevision": "sha256:8a089f976d9f74924904fc1de1b2a1c25b35890958b879fed5d95cfc601153b3"
   },
   {
+    "workId": "ecccffd2-2339-4a70-8845-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "44. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/44. Homilie über Genesis",
+    "contentRevision": "sha256:3071bf9e1ff79ef2fa276581112fe107648fe23abc644f5569e7de724b385a5a"
+  },
+  {
     "workId": "560ac1bd-1674-4d87-55a8-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "44. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/44. Homilie über Matthäus",
     "contentRevision": "sha256:85354776f258be6cd34e32a237bc3c3186412e9ba2aade0e0cd222d244fdd84e"
+  },
+  {
+    "workId": "d8ddc4b6-6ae2-4412-8846-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "45. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/45. Homilie über Genesis",
+    "contentRevision": "sha256:a88c008efa8573ec9eefca71ef51297945d77b36ee8da9d4506c309000f86bd0"
   },
   {
     "workId": "fd3ca357-e2c7-4900-55a9-08deedfb48dc",
@@ -1736,11 +1932,25 @@
     "contentRevision": "sha256:5ed75ed6964a3b795ab4213cc138ffb14fc15bc46388ffdbc9a545aca24a0b91"
   },
   {
+    "workId": "4b512f5c-1589-421f-8847-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "46. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/46. Homilie über Genesis",
+    "contentRevision": "sha256:2d808c108bdc57eaddbf078bb016c8a1daf3dd0ebbd8716db9fadc4c6e85b1f4"
+  },
+  {
     "workId": "533d8beb-d433-4b34-55aa-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "46. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/46. Homilie über Matthäus",
     "contentRevision": "sha256:aa4035a0d0702b9ae7adb4f241e057f599b7d26bfafaaa7f1e505eb68c1d50b1"
+  },
+  {
+    "workId": "ee2780b3-8ed0-43f9-9151-08df200aaa32",
+    "authorName": "Johannes Chrysostomus",
+    "title": "47. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/47. Homilie über Genesis",
+    "contentRevision": "sha256:6b1f95890f9a374453af7fcb3c85991f37078c394aaa56a0b004883c3f90b0c9"
   },
   {
     "workId": "921c6fdb-68d6-4e10-55ab-08deedfb48dc",
@@ -1750,6 +1960,13 @@
     "contentRevision": "sha256:3daabe3f42175efd5201da75debef058aa65233a9d6802a299a49c70476e095f"
   },
   {
+    "workId": "79890b5a-b92a-4f7f-8848-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "48. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/48. Homilie über Genesis",
+    "contentRevision": "sha256:4b5884ffce2b279d6f10f3e0b1a9378e95783fd5dbc18bf54a584ce53e3b9441"
+  },
+  {
     "workId": "1565d9ef-bf19-44f6-55ac-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "48. Homilie über Matthäus",
@@ -1757,11 +1974,25 @@
     "contentRevision": "sha256:b3a79bd2c338dbfe815afa764902d37009333b3311a6e594706e93b66e4c3794"
   },
   {
+    "workId": "67bde604-3cb9-45d7-8849-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "49. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/49. Homilie über Genesis",
+    "contentRevision": "sha256:9a204901b445c1b49c8da0013f77efe21c3ab614ff3f5fe21ba4ba95b4bc63f7"
+  },
+  {
     "workId": "4d6c97af-5154-4e2f-55ad-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "49. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/49. Homilie über Matthäus",
     "contentRevision": "sha256:cd30e23a132a05c5019c5e67882309ab4e888b921c28afb68049daaac20149c1"
+  },
+  {
+    "workId": "6faf5c8f-2056-4e92-3259-08dee5b603e4",
+    "authorName": "Johannes Chrysostomus",
+    "title": "5. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/5. Homilie über Genesis",
+    "contentRevision": "sha256:9f92f1ed747734a1447ffa9ef2efdac5070ab499fdc161dac934d74adafa6c0b"
   },
   {
     "workId": "aa82f24f-af29-4f17-5581-08deedfb48dc",
@@ -1792,11 +2023,25 @@
     "contentRevision": "sha256:117561e064dcf77e77517b9bd3aeddec524cf311fa4aa62bf0e558191e8ffbb4"
   },
   {
+    "workId": "d0302c1f-faf0-4f8c-884a-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "50. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/50. Homilie über Genesis",
+    "contentRevision": "sha256:c4c4adc41e863e0fa08faa48fb0e7f6d712ed811729ad26291c9e1c246186d36"
+  },
+  {
     "workId": "b15ee2c6-0e91-4384-55ae-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "50. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/50. Homilie über Matthäus",
     "contentRevision": "sha256:f31dfd6bcc6ec2278db4e58c598a27c6ccc33241203feb0677036c9106abc233"
+  },
+  {
+    "workId": "8641c6ae-25ef-4b04-884b-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "51. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/51. Homilie über Genesis",
+    "contentRevision": "sha256:9bdb82732c22698044f5ed296c51ed81a578af75cd48278392e2a0a0d4e74f5c"
   },
   {
     "workId": "3ad664d0-703a-4f4e-55af-08deedfb48dc",
@@ -1806,11 +2051,25 @@
     "contentRevision": "sha256:af9c7965cfb3cc7dcb0bafa10b1f61f8f9dc89b259b850999de6baef3dcd7b30"
   },
   {
+    "workId": "ac33c25b-a123-4217-884c-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "52. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/52. Homilie über Genesis",
+    "contentRevision": "sha256:edbdeb403da2a57e4d503646b10b22162a58f716571d58a43a53841d201498bd"
+  },
+  {
     "workId": "fa6418fe-f0ac-41ce-55b0-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "52. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/52. Homilie über Matthäus",
     "contentRevision": "sha256:9ebddb6692db89b8df5f2402938eb12da49fc3edd3240d937e08aaa006eac19c"
+  },
+  {
+    "workId": "754691a4-1076-48fe-884d-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "53. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/53. Homilie über Genesis",
+    "contentRevision": "sha256:0964f7ffaf9e4c45f66e6bba5ff1ee9a1be0c9a54f4e6460861eb2e96051e290"
   },
   {
     "workId": "d63b54cb-9d4d-4065-55b1-08deedfb48dc",
@@ -1820,11 +2079,25 @@
     "contentRevision": "sha256:52e8b959635b7ee6c67253e967c85b36c8f54470198aa095c3cf6270645a56cd"
   },
   {
+    "workId": "43d1eec0-152b-4255-884e-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "54. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/54. Homilie über Genesis",
+    "contentRevision": "sha256:5549254c55122ec089fbb624b0ed0de7c186afa3b78ebafc655de847e76b6b58"
+  },
+  {
     "workId": "25eb119d-72a5-4837-55b2-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "54. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/54. Homilie über Matthäus",
     "contentRevision": "sha256:5cffbd2a4b779e222be95ff74cdf99cd2d05a2aed7b407f6475559a39d858be3"
+  },
+  {
+    "workId": "242b4983-80d3-4b0c-884f-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "55. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/55. Homilie über Genesis",
+    "contentRevision": "sha256:935905ff051588eace56c5999963e043b97896a6bb086cc9098d00c5cc011ebe"
   },
   {
     "workId": "f9ee93e0-79f6-4763-55b3-08deedfb48dc",
@@ -1834,11 +2107,25 @@
     "contentRevision": "sha256:d39d0d93f47c3bd0f531a7fc0276564da0b67f1157491b8c09f13f6402023042"
   },
   {
+    "workId": "bfd04d3b-81cc-42b0-8850-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "56. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/56. Homilie über Genesis",
+    "contentRevision": "sha256:422f6a41408282a41aff1e3148ec10435bca0b6e20820fe5f065cd29b61221ef"
+  },
+  {
     "workId": "b765ea70-0b0f-40dd-55b4-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "56. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/56. Homilie über Matthäus",
     "contentRevision": "sha256:8f86b41928316c34c6d33938831c91d227b850b70fd5af192e0a24a99f0a12ed"
+  },
+  {
+    "workId": "a42fd52b-1f23-4877-dfb9-08df218848c7",
+    "authorName": "Johannes Chrysostomus",
+    "title": "57. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/57. Homilie über Genesis",
+    "contentRevision": "sha256:dd5d07dbaf6dd1c483006d506556ef5f030e7a634f26ccb2918b5c03328c2790"
   },
   {
     "workId": "6d73ef2e-d4c9-4908-55b5-08deedfb48dc",
@@ -1848,11 +2135,25 @@
     "contentRevision": "sha256:b53922d5ec898143947d52f491dbbacb935637646ea8f67e50337cdeedc36258"
   },
   {
+    "workId": "1d640e0b-4a5e-49e9-3f19-08df209fac6c",
+    "authorName": "Johannes Chrysostomus",
+    "title": "58. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/58. Homilie über Genesis",
+    "contentRevision": "sha256:bf9222b1c906862ba848d8960dfabfa4e0f814e48a94cae3a98d61cab7cd3e8d"
+  },
+  {
     "workId": "361161ef-8993-43c0-55b6-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "58. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/58. Homilie über Matthäus",
     "contentRevision": "sha256:6199038c09359bb135ca226729b90736a3b7bcc41e636505bb0cbc3db1d8d304"
+  },
+  {
+    "workId": "11b4b9d0-a5f2-4124-15a2-08df23a78072",
+    "authorName": "Johannes Chrysostomus",
+    "title": "59. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/59. Homilie über Genesis",
+    "contentRevision": "sha256:1867d628c403d109591bd152f205a5cdc2823eb9f9ea0a247e39229b3595745e"
   },
   {
     "workId": "822a648a-cce2-4823-55b7-08deedfb48dc",
@@ -1897,11 +2198,25 @@
     "contentRevision": "sha256:c94fb1e7a36138043723f90fa2b8b07bacb1ca04f6dbfaeffca36bc26eabc677"
   },
   {
+    "workId": "55e8a5fc-f0b2-43a2-8851-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "60. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/60. Homilie über Genesis",
+    "contentRevision": "sha256:e2692fecffeec679f67dc25bc226d72dc04bc1d245c3333b43c9884aba691244"
+  },
+  {
     "workId": "83ad01d4-ed0a-47ff-55b8-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "60. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/60. Homilie über Matthäus",
     "contentRevision": "sha256:dca1e3b4bd83b79f0e37da58292c5db9251d06267ba1db35ff58229927d4725f"
+  },
+  {
+    "workId": "2c224496-fd7a-418a-8852-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "61. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/61. Homilie über Genesis",
+    "contentRevision": "sha256:38d1a44ea87726262a0930da4e74b2f5c03b5adb959085c8e0844fa27c172187"
   },
   {
     "workId": "44d45b1b-9e41-4d1d-55b9-08deedfb48dc",
@@ -1911,11 +2226,25 @@
     "contentRevision": "sha256:4336dad1296f6de341098c0a58f4da23586983450e452910005addef0331cf9e"
   },
   {
+    "workId": "d57786e2-851b-4d90-8853-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "62. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/62. Homilie über Genesis",
+    "contentRevision": "sha256:98f14a7053cc007bbfd0df93f299ea0f0a510a2f5505cec578fd52500410ecff"
+  },
+  {
     "workId": "51024331-23e7-4593-55ba-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "62. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/62. Homilie über Matthäus",
     "contentRevision": "sha256:6b8c10a093d4192fcbf7dce5a10b163946b249b4d955e7302fc57d18b3cb9d5b"
+  },
+  {
+    "workId": "9a619c5e-926c-4187-8854-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "63. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/63. Homilie über Genesis",
+    "contentRevision": "sha256:644803dd5f351b0bb3d9c659496e7caafaf0ffa558a6b5b0b8332a6262d2e7d0"
   },
   {
     "workId": "5fa4af68-5f8d-4ebc-55bb-08deedfb48dc",
@@ -1925,11 +2254,25 @@
     "contentRevision": "sha256:4ee23a0a7666c8e33c5311dc3441f21fa0c6f507df5b3603cd6793d3e10d81d7"
   },
   {
+    "workId": "e05ac533-673a-494c-8855-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "64. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/64. Homilie über Genesis",
+    "contentRevision": "sha256:003c61ea29274e4d8968fa6e7421ca23986582222d14603fc1f3afc048ab5a55"
+  },
+  {
     "workId": "66e9f2ec-8443-47c1-55bc-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "64. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/64. Homilie über Matthäus",
     "contentRevision": "sha256:fd8408cec6d99db91528d7b0541e2dcb93bccb829ebe4bb9ce06d8294adbaec5"
+  },
+  {
+    "workId": "59f9fd97-cafa-4024-8856-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "65. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/65. Homilie über Genesis",
+    "contentRevision": "sha256:57f13071b46243680d654bc861d865987dfe8e135353feba3df8bc23ca3390ed"
   },
   {
     "workId": "3c2c80f6-68a0-4ed3-55bd-08deedfb48dc",
@@ -1939,11 +2282,25 @@
     "contentRevision": "sha256:415c7f7a93a256eabc4e3c51fa4e0d8f58136b3ba022f9bd1c5acda0e390f17d"
   },
   {
+    "workId": "9b8c61ee-d045-43f2-8857-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "66. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/66. Homilie über Genesis",
+    "contentRevision": "sha256:21057b8218e5c4abdd8abad4d100164496174fd0edcbf77c9a70059e737e5144"
+  },
+  {
     "workId": "af9d9458-e53a-4c3d-55be-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "66. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/66. Homilie über Matthäus",
     "contentRevision": "sha256:3dacea8f56e7015e323d97874d74677c6dfc3d8465ec4ff2b3d84128f829c14a"
+  },
+  {
+    "workId": "1f2e467f-d2e4-469a-2cbb-08df276bd3eb",
+    "authorName": "Johannes Chrysostomus",
+    "title": "67. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/67. Homilie über Genesis",
+    "contentRevision": "sha256:e7431f5f520979d0e4aea005324f3736fc087a4389539a6f4898b6812e3cb55f"
   },
   {
     "workId": "8fa59cbe-04fc-4821-55bf-08deedfb48dc",
@@ -2065,6 +2422,13 @@
     "contentRevision": "sha256:3c2463f0702bcb7bf0af46abe480a52e6d6dc1fc76cc4984dd5507aea6ba0e12"
   },
   {
+    "workId": "6054f3a3-4dc6-446c-4c64-08dead1e9519",
+    "authorName": "Johannes Chrysostomus",
+    "title": "8. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/8. Homilie über Genesis",
+    "contentRevision": "sha256:835a7b23add0fb708f9f33abca4916c42764f5cd8218a252588f8311d4c02303"
+  },
+  {
     "workId": "b4716729-dc66-44a3-5584-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "8. Homilie über Matthäus",
@@ -2154,6 +2518,13 @@
     "title": "89. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/89. Homilie über Matthäus",
     "contentRevision": "sha256:e0946a6eeacf170c990277db7150966b25d63a8e0399284d25acb17196983832"
+  },
+  {
+    "workId": "5f83ece2-192c-486d-8825-08df34555aa5",
+    "authorName": "Johannes Chrysostomus",
+    "title": "9. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/9. Homilie über Genesis",
+    "contentRevision": "sha256:7197b223df6fb414a4418a8bb03ad35ed8835424648cb22034e8143699c31a56"
   },
   {
     "workId": "4bc16e48-fe0f-4886-5585-08deedfb48dc",
