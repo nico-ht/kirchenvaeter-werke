@@ -1,0 +1,38 @@
+# 65\. Homilie über Genesis – Kapitel 3: Josef verschafft seiner Familie in Gesem Sicherheit und Überfluss trotz der Hungersnot
+
+Autor: Johannes Chrysostomus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/65-homilie-ueber-genesis#kapitel-466c6ee7-8fc6-4189-c428-08df3455627e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Sieh, wie klug er ihnen rät\! Er schlägt ihnen das nicht ohne Grund oder aufs Geratewohl vor, sondern will ihnen zugleich größere Sicherheit verschaffen und verhindern, dass sie sich mit den Ägyptern vermischen\. Denn die Ägypter verabscheuten und verachteten diejenigen, die als Hirten arbeiteten[^bible-2d99a032-6c5e-4bc5-aa21-eacf762ec6ef], da sie selbst sich mit der ägyptischen Weisheit beschäftigten\. Deshalb rät er seinen Brüdern, ihren Beruf hervorzuheben, damit er ihnen unter einem einleuchtenden Vorwand das beste Land zuweisen und ihnen ein Leben in großer Sicherheit ermöglichen kann\. Er nahm fünf seiner Brüder mit und führte sie vor den Pharao\.[^bible-e6682447-3754-4551-8548-65c0a72e56ae] Der fragte sie: „Was ist eure Arbeit?[^bible-6b648806-922b-4e4f-b28a-bd9b44ce128d]“ Sie antworteten: „Wir sind Viehzüchter\. Nun werden wir also im Land Gesem wohnen\.[^bible-543e58b6-1cdd-492d-8bf1-4f700fa1e45c]“ Der Pharao sagte: „Sie sollen dort wohnen\. Wenn du weißt, dass tüchtige Männer unter ihnen sind, dann setze sie als Aufseher über mein Vieh ein\.[^bible-160d1eae-889c-40c3-bd48-fc4e6fb00975]“ Die Brüder antworteten dem Pharao so, wie Josef es ihnen geraten hatte, und erhielten die Erlaubnis, in Gesem zu wohnen\.[^bible-5cb9da36-d868-43bf-94dd-933477de1c46] Der Pharao aber zeigt sein Wohlwollen gegenüber Josef und sagt: „Wenn du tüchtige Männer unter ihnen kennst, dann setze sie auch als Aufseher über mein Vieh ein\.[^bible-160d1eae-889c-40c3-bd48-fc4e6fb00975]“ Josef führte auch seinen Vater vor den Pharao\.[^bible-6c3468c4-90d4-4ab4-a7ec-71f3d0475a36] Der Pharao fragte Jakob: „Wie viele Jahre deines Lebens sind vergangen?[^bible-4451776d-90a1-4589-aa84-f8bc59686938]“ Weil er den Greis mit seinem schneeweißen Haar sah, erkundigte er sich nach der Zahl seiner Jahre\. Jakob sagt: „Die Tage meiner Lebensjahre verbringe ich als Fremder\.[^bible-370e22f0-42d0-4bad-9195-1f2aedc47972]“ Sieh, wie jeder der Gerechten in diesem Leben so gesinnt war, als lebte er in der Fremde\. Denn du wirst später auch David sagen hören: „Ich bin ein Fremder auf der Erde und ein Gast\.[^bible-c6c6a74d-ae99-44eb-a2fd-583e6d4688dd]“ Und Jakob sagt: „Die Tage meiner Lebensjahre verbringe ich als Fremder\.[^bible-370e22f0-42d0-4bad-9195-1f2aedc47972]“ Deshalb sagte auch Paulus von diesen Gerechten, sie hätten bekannt, dass sie Fremde und Gäste auf der Erde sind[^bible-1866c578-9b65-4372-ac07-f984723197ac]\. „Die Tage meiner Lebensjahre[^bible-370e22f0-42d0-4bad-9195-1f2aedc47972]“, sagt Jakob, „die ich als Fremder verbringe, belaufen sich auf hundertdreißig Jahre\. Es waren wenige und schwere Tage, und sie haben die Zahl der Lebenstage meiner Väter nicht erreicht\.[^bible-370e22f0-42d0-4bad-9195-1f2aedc47972]“
+
+„Die Tage, die ich als Fremder verbracht habe[^bible-65924069-9a67-4cc9-be5f-f796baa40686]“, sagt er, „waren wenige und schwere\.[^bible-65924069-9a67-4cc9-be5f-f796baa40686]“ Damit deutet er auf die „Jahre der Knechtschaft hin, die er bei Laban erduldet hatte[^bible-15a1299f-9baa-43d3-8608-7a4cdd640925]“, weil er vor seinem Bruder geflohen war[^bible-6314c404-2ccc-42e4-9490-0d9d2b13d0df]; dann auf die lang anhaltende Trauer nach seiner Rückkehr von dort über Josefs Tod[^bible-b6fe73e5-d96f-4391-8582-d87f12859644] und über die anderen Leiden, die ihn in der Zwischenzeit trafen\. Denn was meinst du, wie groß seine Angst war, als Simeon und Levi mit ihren Leuten wegen ihrer Schwester eine Stadt samt ihren Bewohnern vernichteten und alle in Sichem gefangen nahmen[^bible-ef689d57-a05c-4a6c-b4dc-bff6c2b11969]? Auch damals sagte er ja, um die Angst auszudrücken, in die er geraten war: „Ihr habt mich verhasst gemacht, sodass ich bei den Bewohnern des Landes in Verruf bin\. Ich habe aber nur wenige Leute\. Sie werden sich gegen mich zusammentun und mich niederschlagen, und ich werde samt meinem Haus vernichtet werden\.[^bible-d65bb064-7ba7-4dde-89b8-4aa8f12cf479]“ Deshalb sagt er: „Wenige und schwere waren die Tage meiner Lebensjahre\.[^bible-65924069-9a67-4cc9-be5f-f796baa40686]“ „Josef siedelte seinen Vater und seine Brüder an und gab ihnen Grundbesitz im Land Ägypten, im besten Teil des Landes, im Land Ramses, wie der Pharao es angeordnet hatte\. Und Josef teilte seinem Vater, seinen Brüdern und dem ganzen Haus seines Vaters Getreide zu, für jeden Leib\.[^bible-46cf603d-d766-4355-be06-4b6e000201fa]“ Das war es, was er seinen Brüdern gesagt hatte: „Gott hat mich vor euch hergesandt, damit euch ein Rest auf der Erde erhalten bleibt[^bible-a430d9b4-0278-445e-81d3-d8ed166d64fa]“, und: „Um Leben zu erhalten, hat Gott mich vor euch hergesandt\.[^bible-e6b2b8ad-3d5c-475a-b281-41d5e5879675]“ „Er teilte ihnen Getreide zu[^bible-e2131489-4d7f-4a9d-8191-467870454e21]“, heißt es, „für jeden Leib\.[^bible-e2131489-4d7f-4a9d-8191-467870454e21]“ Was bedeutet „für jeden Leib[^bible-e2131489-4d7f-4a9d-8191-467870454e21]“? So viel, wie jeder brauchte\. Denn die Schrift bezeichnet den ganzen Menschen bald nach der Seele, bald nach dem Leib\. So hieß es weiter oben: „Mit fünfundsiebzig Seelen zog Jakob nach Ägypten hinab[^bible-71213c46-53a1-4afc-b6ca-26f8f7afd556]“, womit fünfundsiebzig Männer und Frauen gemeint sind\. Ebenso steht hier „für jeden Leib[^bible-e2131489-4d7f-4a9d-8191-467870454e21]“ für „für jeden Menschen“\. Während ganz Ägypten und Kanaan an der Hungersnot zugrunde gingen[^bible-c9f3c31a-cfc3-48b9-a2d0-d9eeccd4ac45], lebten sie im Überfluss: Das Getreide strömte ihnen gleichsam aus Quellen zu\. Denn es heißt: „Im ganzen Land gab es kein Getreide, denn die Hungersnot hatte sich sehr verschärft\. Das Land Ägypten und das Land Kanaan waren von der Hungersnot erschöpft\.[^bible-c9f3c31a-cfc3-48b9-a2d0-d9eeccd4ac45]“
+
+## Bibelverweise
+
+[^bible-15a1299f-9baa-43d3-8608-7a4cdd640925]: Gen 31,41
+[^bible-160d1eae-889c-40c3-bd48-fc4e6fb00975]: Gen 47,6
+[^bible-1866c578-9b65-4372-ac07-f984723197ac]: Hebr 11,13
+[^bible-2d99a032-6c5e-4bc5-aa21-eacf762ec6ef]: Gen 46,34
+[^bible-370e22f0-42d0-4bad-9195-1f2aedc47972]: Gen 47,9
+[^bible-4451776d-90a1-4589-aa84-f8bc59686938]: Gen 47,8
+[^bible-46cf603d-d766-4355-be06-4b6e000201fa]: Gen 47,11–Gen 47,12
+[^bible-543e58b6-1cdd-492d-8bf1-4f700fa1e45c]: Gen 47,3–Gen 47,4
+[^bible-5cb9da36-d868-43bf-94dd-933477de1c46]: Gen 47,3–Gen 47,6
+[^bible-6314c404-2ccc-42e4-9490-0d9d2b13d0df]: Gen 27,41–Gen 27,43
+[^bible-65924069-9a67-4cc9-be5f-f796baa40686]: Gen 47,9
+[^bible-6b648806-922b-4e4f-b28a-bd9b44ce128d]: Gen 47,3
+[^bible-6c3468c4-90d4-4ab4-a7ec-71f3d0475a36]: Gen 47,7
+[^bible-71213c46-53a1-4afc-b6ca-26f8f7afd556]: Gen 46,27
+[^bible-a430d9b4-0278-445e-81d3-d8ed166d64fa]: Gen 45,7
+[^bible-b6fe73e5-d96f-4391-8582-d87f12859644]: Gen 37,33–Gen 37,35
+[^bible-c6c6a74d-ae99-44eb-a2fd-583e6d4688dd]: Ps 38,13; Ps 118,19
+[^bible-c9f3c31a-cfc3-48b9-a2d0-d9eeccd4ac45]: Gen 47,13
+[^bible-d65bb064-7ba7-4dde-89b8-4aa8f12cf479]: Gen 34,30
+[^bible-e2131489-4d7f-4a9d-8191-467870454e21]: Gen 47,12
+[^bible-e6682447-3754-4551-8548-65c0a72e56ae]: Gen 47,2
+[^bible-e6b2b8ad-3d5c-475a-b281-41d5e5879675]: Gen 45,5
+[^bible-ef689d57-a05c-4a6c-b4dc-bff6c2b11969]: Gen 34,25–Gen 34,29
