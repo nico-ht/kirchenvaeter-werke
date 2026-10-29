@@ -1,0 +1,10 @@
+# 45\. Homilie über Genesis – Kapitel 6: Wer nach den ewigen Gütern strebt und die irdischen gering achtet, empfängt auch diese von Gott
+
+Autor: Johannes Chrysostomus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/45-homilie-ueber-genesis#kapitel-5711656a-9dad-42ab-c3df-08df3455627e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Hast du Gottes unaussprechliche Weisheit gesehen? Wie er die Geduld des Gerechten durch all das auf die Probe gestellt hatte und seine Verheißung gerade dann erfüllte, als dieser selbst und alle, die auf ihn blickten, nach menschlichem Ermessen die Hoffnung aufzugeben schienen? Lasst also auch uns, Geliebte, dieselbe Geduld zeigen wie der Gerechte\. Lasst uns niemals erlahmen, sondern uns von guten Hoffnungen nähren\. Wir wissen ja, dass weder schwierige Umstände noch irgendetwas anderes im menschlichen Leben uns im Weg stehen können, wenn Gottes Gnade ihre Freigebigkeit erweisen will\. Denn wenn er einen Wink gibt, gibt alles nach und weicht zurück; das Schwierige wird leicht und das Unmögliche möglich, wenn wir nur einen festen Glauben an ihn zeigen, auf seine Größe schauen und uns über alles Menschliche erheben\. Er hat denen, die ihr Leben hier tugendhaft führen, die künftigen, unaussprechlichen Güter verheißen\. Wird er ihnen dann nicht erst recht auch die Güter dieses Lebens schenken, besonders wenn wir nach jenen streben und die gegenwärtigen gering achten? Denn gerade dann werden wir diese in Fülle genießen, wenn wir bereit sind, sie gering zu achten\. Da wir das wissen, wollen wir nach jenen bleibenden, unerschütterlichen Gütern verlangen, die kein Ende kennen, damit wir auch das gegenwärtige Leben ohne Kummer verbringen und jene Güter erlangen können\. Mögen wir alle sie genießen durch die Gnade und Menschenliebe unseres Herrn Jesus Christus\. Mit ihm sei dem Vater die Herrlichkeit, zugleich mit dem Heiligen Geist, jetzt und immer und in alle Ewigkeit\. Amen\.
