@@ -1,0 +1,14 @@
+# Fragen zur Genesis – Kapitel 16: Die Gestirne zeigen Zeiten und kommende Gefahren an; ihre Zeichen dienen nicht der Geburtsastrologie
+
+Autor: Theodoret von Kyrrhos
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/theodoret-von-kyrrhos/fragen-zur-genesis#kapitel-c6a4001e-e0db-4e69-c4b5-08df3455627e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Was bedeutet ‚als Zeichen und für Zeiten, Jahre und Tage[^bible-94201254-5022-4222-9bea-af69696da26c]‘? Indem die Sonne auf\- und untergeht, bringt sie die Tage hervor; indem sie die südlichen und nördlichen Regionen durchläuft, vollendet sie den Jahreskreis\. Sie bewirkt auch die Wenden, die die göttliche Schrift ‚Zeiten[^bible-94201254-5022-4222-9bea-af69696da26c]‘ nennt\. Denn wenn sie von ihrem Stand bei der Tagundnachtgleiche nach Norden wandert, bringt sie den Frühling; kehrt sie dann von dort bis zu diesen Grenzen zurück, bewirkt sie die Sommerwende\. Zieht sie von hier aus nach Süden weiter, entsteht der Herbst; kehrt sie wiederum zurück, bringt sie den Winter\. Am Lauf des Mondes erkennen wir die Zahl der Monate\. Er vollendet seinen Lauf nämlich in dreißig Tagen weniger sechs Stunden\. Deshalb nennen wir diese Anzahl von Tagen einen Monat, mēn, denn auch den Mond bezeichnet man als mēnē\. Die Worte ‚als Zeichen[^bible-94201254-5022-4222-9bea-af69696da26c]‘ verstehen wir aber nicht so wie die Dummen\. Denn das leere Gerede der Geburtsastrologie haben weder Pythagoras noch Sokrates noch Platon noch die Stoiker angenommen\. Wenn aber schon diejenigen, die mit Mythen aufgewachsen sind, die Gottlosigkeit dieses Mythos verabscheuten, wer könnte dann, wenn er an die göttlichen Worte glaubt, solche Reden dulden, die nicht nur gottlos, sondern auch überaus dumm sind? Mit ‚Zeichen[^bible-94201254-5022-4222-9bea-af69696da26c]‘ meint die göttliche Schrift also, dass man die rechte Zeit zum Säen, Pflanzen und Beschneiden erkennt und weiß, wann man Holz schlagen muss, das sich für den Schiffbau und den Hausbau eignet\. So haben auch die Seefahrer gelernt, wann sie mit ihrem Schiff auslaufen und wann sie vor Anker gehen sollen, wann sie das Segel setzen und wann sie es einholen müssen\. Denn die Erfahrung hat sie mit den Auf\- und Untergängen der Sterne vertraut gemacht\. Auch wir haben oft einen Haar\-, Bart\- oder Balkenstern gesehen und daran einen Angriff von Feinden, einen Heuschreckeneinfall oder ein Sterben unter Vieh oder Menschen erkannt\. Das also hat die Schrift ‚Zeichen[^bible-94201254-5022-4222-9bea-af69696da26c]‘ genannt, nicht jene Dinge, die voller Dummheit und Gottlosigkeit jeder Art sind\.
+
+## Bibelverweise
+
+[^bible-94201254-5022-4222-9bea-af69696da26c]: Gen 1,14

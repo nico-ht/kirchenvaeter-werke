@@ -15,3 +15,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [6. Homilie über das Hexaemeron](6.%20Homilie%20%C3%BCber%20das%20Hexaemeron/) · 11 Kapitel
 - [7. Homilie über das Hexaemeron](7.%20Homilie%20%C3%BCber%20das%20Hexaemeron/) · 6 Kapitel
 - [8. Homilie über das Hexaemeron](8.%20Homilie%20%C3%BCber%20das%20Hexaemeron/) · 8 Kapitel
+- [9. Homilie über das Hexaemeron](9.%20Homilie%20%C3%BCber%20das%20Hexaemeron/) · 6 Kapitel

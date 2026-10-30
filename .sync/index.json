@@ -28,6 +28,27 @@
     "contentRevision": "sha256:cffda96d06ad3dd4d5eca095e2e0ec54d434de2f31ff837f780b96f978e504db"
   },
   {
+    "workId": "6b56d52d-025e-4e49-c393-08df346fe1ab",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Sechstagewerk, Buch 1",
+    "directory": "werke/Ambrosius von Mailand/Sechstagewerk/Sechstagewerk, Buch 1",
+    "contentRevision": "sha256:1e96426668cb6ee26bf1c621a7b22de476f9dee58f2e878355d9df6acef1bdf6"
+  },
+  {
+    "workId": "13c5ee4d-6dac-461f-c394-08df346fe1ab",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Sechstagewerk, Buch 2",
+    "directory": "werke/Ambrosius von Mailand/Sechstagewerk/Sechstagewerk, Buch 2",
+    "contentRevision": "sha256:8d226350a37984bd84cdc60976fb808fbf934dbe599adb96812308747dc1fd27"
+  },
+  {
+    "workId": "b1fedafe-8b05-4123-c396-08df346fe1ab",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Sechstagewerk, Buch 4",
+    "directory": "werke/Ambrosius von Mailand/Sechstagewerk/Sechstagewerk, Buch 4",
+    "contentRevision": "sha256:aaaf14f62c256d7fca9a08e0c75a867f5732a463b81076a7c41e9be6a6111929"
+  },
+  {
     "workId": "7bf2a7af-28fb-45d9-5a9d-08df1c172963",
     "authorName": "Ambrosius von Mailand",
     "title": "Über Elija und das Fasten",
@@ -413,6 +434,13 @@
     "contentRevision": "sha256:16226506db3ede37b7def82bd3fcc9de21307e3b8d3db7bc62132dc2b006990a"
   },
   {
+    "workId": "e28c6c49-0868-4de1-208c-08dead0f2325",
+    "authorName": "Basilius der Große",
+    "title": "9. Homilie über das Hexaemeron",
+    "directory": "werke/Basilius der Große/Homilien über das Hexaemeron/9. Homilie über das Hexaemeron",
+    "contentRevision": "sha256:ae0a50d9336f1a8b5d65d985c0d636cf508f213539e5281222c0cbb24bc7483d"
+  },
+  {
     "workId": "d9aee309-df13-49c4-6e0b-08de7d5c481a",
     "authorName": "Basilius der Große",
     "title": "Brief 22 - Wie ein Christ leben muss",
@@ -425,6 +453,13 @@
     "title": "Brief 93 - über die Kommunion",
     "directory": "werke/Basilius der Große/Briefe/Brief 93 - über die Kommunion",
     "contentRevision": "sha256:1c7b51cbe084f0953ecd5433bb08308615cce42997225ec55337eec71cbda1f7"
+  },
+  {
+    "workId": "d58df1c2-e7cb-4f19-78f7-08dea90fa10a",
+    "authorName": "Basilius der Große",
+    "title": "Homilie 1, Hexaemeron",
+    "directory": "werke/Basilius der Große/Hexaemeron/Homilie 1, Hexaemeron",
+    "contentRevision": "sha256:e8ff6d70c754ac23de4d2ca3b05a689a3d76ae83820dc3ec85bab3e34793fc8e"
   },
   {
     "workId": "8edb7808-d93d-4e3f-be8c-08dec2ebfb67",
@@ -1055,6 +1090,13 @@
     "title": "Über das Leben des Mose, Buch 2",
     "directory": "werke/Gregor von Nyssa/Über das Leben des Mose/Über das Leben des Mose, Buch 2",
     "contentRevision": "sha256:64e1f982604def7b19ab720bb44174cac418b62028304b53868d4d9fee1a470f"
+  },
+  {
+    "workId": "63de06e9-57ed-4468-2092-08dead0f2325",
+    "authorName": "Gregor von Nyssa",
+    "title": "Über die Erschaffung des Menschen",
+    "directory": "werke/Gregor von Nyssa/Über die Erschaffung des Menschen",
+    "contentRevision": "sha256:5792ddd42b978f76ce1234b2ff62d550245355744fdddeed887ac304170ec6d2"
   },
   {
     "workId": "d420fd4e-e7b6-4336-2091-08dead0f2325",
@@ -4144,6 +4186,13 @@
     "contentRevision": "sha256:2f0b87b1c3e81da4cbcd81d06b9eb74663527917e771a218a5a7176b58c4dbae"
   },
   {
+    "workId": "cb79f13e-3551-4095-8861-08df34555aa5",
+    "authorName": "Severian von Gabala",
+    "title": "Predigt über „Gott sah alles, was er gemacht hatte“",
+    "directory": "werke/Severian von Gabala/Predigt über „Gott sah alles, was er gemacht hatte“",
+    "contentRevision": "sha256:a8baab1a50900048e5c5d67c137627e1abe625388e52c54943fc6c0828c64139"
+  },
+  {
     "workId": "6f52f3c5-8e95-4ae2-6124-08df2a82baf6",
     "authorName": "Severus von Menorca",
     "title": "Rundbrief über die Ereignisse auf Menorca",
@@ -4373,6 +4422,13 @@
     "title": "Psalm 3",
     "directory": "werke/Theodor von Mopsuestia/Kommentare zu den Psalmen/Psalm 3",
     "contentRevision": "sha256:36c9094c169bd98feff6e56a14bcac6e6ac81db81c87d0db38ef5f102bed140b"
+  },
+  {
+    "workId": "1befed81-4d5d-4a36-8860-08df34555aa5",
+    "authorName": "Theodoret von Kyrrhos",
+    "title": "Fragen zur Genesis",
+    "directory": "werke/Theodoret von Kyrrhos/Fragen zur Genesis",
+    "contentRevision": "sha256:f4dbfac621686ac49358c1dd6368fe032290c95b080e4541340c7260f579a907"
   },
   {
     "workId": "1e32d4ff-1e16-4d26-9f1c-08dd829729ab",

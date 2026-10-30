@@ -1,0 +1,20 @@
+# Fragen zur Genesis – Kapitel 63: Der Hebräername geht wohl auf Abrahams Euphratübergang zurück; Gott bewahrte Sara durch Pharaos Krankheit
+
+Autor: Theodoret von Kyrrhos
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/theodoret-von-kyrrhos/fragen-zur-genesis#kapitel-d25bcc91-6b65-4dcf-c4e4-08df3455627e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Manche sagen jedoch, die hebräische Sprache sei nach Eber benannt worden; denn er allein habe die frühere Sprache beibehalten, und daher stamme der Name Hebräer\. Ich dagegen meine, dass sie Hebräer genannt wurden, weil der Patriarch Abraham aus dem Land der Chaldäer nach Palästina kam und dabei den Euphrat überquerte\. Denn hebra bedeutet in der Sprache der Syrer „Hinübergehen“\. So wurde auch Abraham selbst genannt, wie die göttliche Schrift bezeugt\. Denn nach Lots Gefangennahme[^bible-60c79c9f-680b-49ea-9282-9d1b8cdfed31] heißt es: „Jemand kam und berichtete Abraham, dem Hinübergegangenen\.[^bible-ceb54946-d9fc-4df1-b5ea-9ad5f0d9e602]“ Dafür fand ich im hebräischen Text hebrei; aus hebrei wird im Griechischen hebraios, Hebräer\. Auch an der Stelle, an der die Ägypterin über Josef sagte: „Du hast uns einen hebräischen Sklaven ins Haus gebracht, damit er seinen Spott mit uns treibt[^bible-2889a141-2a41-4c6f-bd80-e47d0e6db357]“, steht im hebräischen Text hebrei\. Wenn sie aber nach Eber Hebräer heißen, müssten auch andere so genannt werden\. Denn viele Völker stammen von Eber ab\. Um alle anderen beiseitezulassen: Von ihm stammen die Ismaeliten, die Nachkommen Keturas, die Idumäer, Amalekiter, Moabiter, Ammoniter und die Bewohner Harrans; diese führen ihre Abstammung nämlich auf Nahor und Laban zurück\. Doch keines dieser Völker spricht Hebräisch\. Darüber zu streiten ist allerdings überflüssig; denn es schadet der Glaubenslehre nicht, ob wir die eine oder die andere Auffassung annehmen\. Manche behaupten, der Pharao habe mit Sara geschlafen\. Welche Fürsorge hat Abraham dann vom Gott des Alls erfahren, wenn dieser zuließ, dass ein anderer mit Abrahams Frau Ehebruch beging? Und warum suchte er den Pharao und sein ganzes Haus mit großen, schlimmen Plagen heim[^bible-a04ef36d-dfe8-4e8b-b280-03130059f9ac], wenn er die unerlaubte Verbindung nicht verhindern wollte? Auch der Pharao selbst beruft sich zu seiner Verteidigung auf seine Unwissenheit\. Er wirft Abraham vor, seine Frau als seine Schwester bezeichnet zu haben, und erklärt, er habe sie nicht zu sich genommen, um sie zu schänden, sondern um sie zu heiraten\.[^bible-330a0429-a741-4cfa-9dbd-a03bdaa0e598] Denn er sagt: „Was hast du mir da angetan, da sie doch deine Frau ist? Warum hast du gesagt: ‚Sie ist meine Schwester‘, sodass ich sie mir zur Frau genommen habe? Nun sieh, deine Frau steht hier vor dir\. Nimm sie und geh fort\![^bible-330a0429-a741-4cfa-9dbd-a03bdaa0e598]“ Und er sagte es nicht nur, sondern handelte auch danach und ließ Abraham jede Fürsorge zukommen\. Denn es heißt: „Der Pharao beauftragte Männer, Abraham samt seiner Frau und allem, was ihm gehörte, auf dem Weg zu begleiten\.[^bible-bc9f0ecf-c491-4009-828d-da24e0056107]“ Es ist also klar: Sobald Sara fortgeschleppt worden war[^bible-0c865b41-7e1c-4c87-be7c-2484147a390b], fesselte der Herrscher des Alls den Pharao durch Krankheit[^bible-a04ef36d-dfe8-4e8b-b280-03130059f9ac]\. Die Krankheit dämpfte sein Verlangen\. Obwohl der Jäger das Wild schon in seinen Netzen hatte, konnte er seine Beute nicht genießen; denn die Krankheit hinderte ihn daran\.
+
+## Bibelverweise
+
+[^bible-0c865b41-7e1c-4c87-be7c-2484147a390b]: Gen 12,15
+[^bible-2889a141-2a41-4c6f-bd80-e47d0e6db357]: Gen 39,14
+[^bible-330a0429-a741-4cfa-9dbd-a03bdaa0e598]: Gen 12,18–Gen 12,19
+[^bible-60c79c9f-680b-49ea-9282-9d1b8cdfed31]: Gen 14,12
+[^bible-a04ef36d-dfe8-4e8b-b280-03130059f9ac]: Gen 12,17
+[^bible-bc9f0ecf-c491-4009-828d-da24e0056107]: Gen 12,20
+[^bible-ceb54946-d9fc-4df1-b5ea-9ad5f0d9e602]: Gen 14,13
