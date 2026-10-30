@@ -1,0 +1,17 @@
+# Homilie 1, Hexaemeron – Kapitel 3: Die Kreisbewegung des Himmels beweist keine Ewigkeit: Was zeitlich beginnt, muss auch enden
+
+Autor: Basilius der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/basilius-der-grosse/homilie-1-hexaemeron#kapitel-571c8bb7-dd9d-451d-c518-08df3455627e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Stell dir also, Mensch, die sichtbaren Dinge nicht als anfangslos vor\. Meine auch nicht, die kreisenden Himmelskörper seien ihrer Natur nach anfangslos, weil sich alles, was sich am Himmel bewegt, im Kreis dreht und der Anfang eines Kreises für unsere unmittelbare Wahrnehmung nicht leicht zu erfassen ist\. Auch diesen Kreis, ich meine die ebene Gestalt, die von einer einzigen Linie umschlossen wird, dürfen wir nicht schon deshalb als anfangslos annehmen, weil sich Anfang und Ende unserer Wahrnehmung entziehen und wir weder herausfinden können, wo er begonnen hat, noch, wo er endet\. Selbst wenn das unserer Wahrnehmung entgeht, hat derjenige, der ihn um einen Mittelpunkt mit einem bestimmten Radius gezogen hat, in Wirklichkeit doch an irgendeinem Punkt begonnen\. Ebenso darf die gleichmäßige, nirgends unterbrochene Bewegung der kreisenden Körper in dir nicht den Irrtum wecken, die Welt sei ohne Anfang und ohne Ende, nur weil diese Körper in sich selbst zurückkehren\. „Denn die Gestalt dieser Welt vergeht\.[^bible-e8e9ea0c-ea99-4381-8548-b8980e4d93bf]“ Und: „Der Himmel und die Erde werden vergehen\.[^bible-be011bc3-bacd-4a71-85e7-204d4af9c65d]“ Was uns jetzt bei der Einführung in die von Gott eingegebene Lehre in wenigen Worten überliefert wird, kündigt bereits die Lehren vom Ende und von der Umgestaltung der Welt an: „Im Anfang schuf Gott\.[^bible-1ff56a19-ea9c-486a-b7cd-d6111560957e]“ Alles, was in der Zeit seinen Anfang genommen hat, muss notwendig auch in der Zeit sein Ende finden\. Wenn die Welt einen zeitlichen Anfang hat, dann zweifle nicht an ihrem Ende\. Zu welchem Ergebnis führen denn die geometrischen Lehren und arithmetischen Verfahren, die Untersuchungen über räumliche Körper und die vielbesprochene Astronomie, diese geschäftige Nichtigkeit, wenn doch diejenigen, die sich eifrig damit beschäftigten, auch diese sichtbare Welt für ebenso ewig hielten wie Gott, den Schöpfer des Alls, und die begrenzte Welt mit ihrem materiellen Körper auf dieselbe Stufe der Herrlichkeit stellten wie die unfassbare und unsichtbare Natur? Sie konnten nicht einmal begreifen: Wenn die Teile eines Ganzen dem Verfall und der Veränderung unterliegen, muss auch das Ganze irgendwann dasselbe erleiden wie seine Teile\. Doch sie „verloren sich in nichtigen Überlegungen, und ihr unverständiges Herz wurde verfinstert; sie behaupteten, weise zu sein, und wurden zu Toren[^bible-79a66f62-4ebe-4ba5-9bd9-ff21e634fc57]“, und zwar so sehr, dass die einen erklärten, der Himmel bestehe von Ewigkeit her zusammen mit Gott, während die anderen erklärten, er selbst sei Gott, ohne Anfang und ohne Ende, und der Urheber der Lenkung aller einzelnen Dinge\.
+
+## Bibelverweise
+
+[^bible-1ff56a19-ea9c-486a-b7cd-d6111560957e]: Gen 1,1
+[^bible-79a66f62-4ebe-4ba5-9bd9-ff21e634fc57]: Röm 1,21–Röm 1,22
+[^bible-be011bc3-bacd-4a71-85e7-204d4af9c65d]: Mt 24,35
+[^bible-e8e9ea0c-ea99-4381-8548-b8980e4d93bf]: 1Kor 7,31

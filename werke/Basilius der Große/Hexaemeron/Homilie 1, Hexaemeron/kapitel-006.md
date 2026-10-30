@@ -1,0 +1,15 @@
+# Homilie 1, Hexaemeron – Kapitel 6: Der unteilbare Anfang zeigt: Die Welt entsteht zugleich mit Gottes Willen, ohne Zeitverlauf
+
+Autor: Basilius der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/basilius-der-grosse/homilie-1-hexaemeron#kapitel-4bb91c9c-daaa-4691-c51b-08df3455627e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Da Anfang nun so viele Bedeutungen hat, prüfe, ob das Wort an dieser Stelle nicht all diese Bedeutungen umfasst\. Du kannst nämlich erkennen, wann diese Welt zu entstehen begann, wenn du von der Gegenwart aus rückwärts gehst und beharrlich nach dem ersten Tag ihrer Entstehung suchst\. So wirst du herausfinden, wann die erste Bewegung einsetzte, sodann, dass Himmel und Erde vorab gleichsam als Fundamente und Unterbau gelegt wurden, und ferner, dass ein kunstvoller Plan die Anordnung der sichtbaren Dinge geleitet hat, wie dir das Wort Anfang anzeigt\. Auch wirst du erkennen, dass die Welt nicht aufs Geratewohl und nicht vergeblich erdacht wurde, sondern auf ein förderliches Ziel hin, das den Geschöpfen großen Nutzen bringt, wenn sie denn tatsächlich eine Schule für vernünftige Seelen und eine Bildungsstätte der Gotteserkenntnis ist und den Verstand durch das Sichtbare und sinnlich Wahrnehmbare zur Betrachtung des Unsichtbaren führt[^bible-97b0de84-b83f-4f72-b94e-dc3b9febddf9], wie der Apostel sagt: „Das Unsichtbare an ihm wird seit der Erschaffung der Welt an seinen Werken mit dem Verstand klar erkannt\.[^bible-97b0de84-b83f-4f72-b94e-dc3b9febddf9]“ Vielleicht aber heißt es „Im Anfang schuf er[^bible-d3232223-2968-4ebd-8721-cac6ff36de09]“, weil die Schöpfung augenblicklich und ohne Zeitverlauf geschah; denn der Anfang ist unteilbar und hat keine Ausdehnung\. Wie nämlich der Anfang des Weges noch kein Weg und der Anfang des Hauses kein Haus ist, so ist auch der Anfang der Zeit noch keine Zeit, nicht einmal ihr kleinster Teil\. Sollte aber jemand darauf beharren, der Anfang sei Zeit, muss er wissen, dass er ihn damit in die Teile der Zeit zerlegen wird\. Diese sind Anfang, Mitte und Ende\. Sich aber einen Anfang des Anfangs vorzustellen, ist vollkommen lächerlich\. Und wer den Anfang in zwei Teile zerlegt, wird aus einem zwei machen, ja vielmehr viele und unendlich viele, da das Geteilte immer wieder in weitere Teile zerlegt wird\. Damit wir also lernen, dass die Welt zugleich mit Gottes Willen ohne Zeitverlauf ins Dasein trat, heißt es: „Im Anfang schuf er\.[^bible-d3232223-2968-4ebd-8721-cac6ff36de09]“ Andere Übersetzer haben den Sinn deutlicher wiedergegeben und gesagt: „Mit einem Mal schuf Gott[^bible-d3232223-2968-4ebd-8721-cac6ff36de09]“, das heißt, auf einmal und in kurzer Zeit\. So viel über den Anfang, um nur weniges von vielem zu nennen\.
+
+## Bibelverweise
+
+[^bible-97b0de84-b83f-4f72-b94e-dc3b9febddf9]: Röm 1,20
+[^bible-d3232223-2968-4ebd-8721-cac6ff36de09]: Gen 1,1
