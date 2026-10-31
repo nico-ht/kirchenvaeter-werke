@@ -1,0 +1,10 @@
+# 12\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 30: Von Engeln gezeigte Bilder überragen alltägliche innere Bilder wie das Himmlische das Irdische
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/12-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-3df92f4c-fc1a-4509-c429-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wie es nun in diesem körperlichen Licht den Himmel gibt, zu dem wir über der Erde aufblicken und von dem her die Lichter und Gestirne leuchten, Körper, die den irdischen weit überlegen sind, so gibt es auch in jener geistigen Art des Schauens, bei der Bilder körperlicher Dinge in einem eigenen, unkörperlichen Licht gesehen werden, manches Erhabene, das mit Recht göttlich genannt wird und das die Engel auf wunderbare Weise zeigen\. Ob sie dabei durch eine mühelose und überaus mächtige Verbindung oder Vermischung das, was sie selbst schauen, auch uns schauen lassen, oder ob sie auf eine mir unbekannte Weise unser Schauen in unserem Geist zu gestalten wissen, ist schwer zu erfassen und noch schwerer auszusprechen\. Es gibt aber auch andere, gewöhnliche und menschliche Erscheinungen, die entweder auf vielfältige Weise aus unserem Geist selbst entstehen oder ihm gewissermaßen vom Körper eingegeben werden, je nachdem, in welchem Zustand wir uns körperlich oder seelisch befinden\. Denn die Menschen beschäftigen sich nicht nur im Wachzustand in Bildern körperlicher Dinge gedanklich mit ihren Sorgen; auch im Schlaf träumen sie oft von dem, was ihnen fehlt\. So gehen sie, vom Verlangen ihrer Seele getrieben, ihren Geschäften nach und wenden sich voller Gier Speisen und Getränken zu, wenn sie etwa hungrig und durstig eingeschlafen sind\. All dies ist, wie ich meine, im Vergleich mit jenen Erscheinungen, die Engel uns zeigen, so einzuschätzen wie in der körperlichen Natur das Irdische im Vergleich mit dem Himmlischen\.

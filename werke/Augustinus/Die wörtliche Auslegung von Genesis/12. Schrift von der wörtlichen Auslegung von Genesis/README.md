@@ -1,0 +1,45 @@
+# 12. Schrift von der wörtlichen Auslegung von Genesis
+
+Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/12-schrift-von-der-woertlichen-auslegung-von-genesis) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- [Kapitel 1: Paulus’ Bericht lässt offen, wo das Paradies liegt und ob der dritte Himmel körperlich oder geistig ist](kapitel-001.md)
+- [Kapitel 2: Wenn Paulus das Paradies in Bildern sah, konnte er nicht wissen, ob er im Leib oder außerhalb war](kapitel-002.md)
+- [Kapitel 3: Die Entrückung in den dritten Himmel ist gewiss, nicht aber, ob Paulus im Leib oder außerhalb war](kapitel-003.md)
+- [Kapitel 4: Der dritte Himmel ist kein bloßes Bild, sonst wäre Paulus’ Ungewissheit über seinen Leib unerklärlich](kapitel-004.md)
+- [Kapitel 5: Vielleicht wusste Paulus nicht, ob sein Leib während der Entrückung noch lebte oder tot zurückblieb](kapitel-005.md)
+- [Kapitel 6: Die Augen sehen Körper, der Geist stellt sie sich vor, der Verstand schaut die Liebe selbst ohne Bild](kapitel-006.md)
+- [Kapitel 7: Die drei Sehweisen erhalten feste Namen, obwohl „körperlich“ und „Geist“ in der Schrift mehrdeutig sind](kapitel-007.md)
+- [Kapitel 8: Zungenrede bei Paulus: Der Geist äußert Zeichen, doch erst der Verstand erschließt ihren Sinn](kapitel-008.md)
+- [Kapitel 9: Prophetie liegt mehr im Verstehen als im Schauen; am höchsten steht, wer Bilder schaut und versteht](kapitel-009.md)
+- [Kapitel 10: „Intellektuell“ und „intelligibel“ gelten hier gleich, weil der Verstand erkennt und selbst erkennbar ist](kapitel-010.md)
+- [Kapitel 11: Das körperliche Sehen ist dem geistigen untergeordnet, beide dem deutenden Verstand](kapitel-011.md)
+- [Kapitel 12: Geistige Bilder können wie wirkliche Körper erscheinen und Wissen eines anderen Geistes vermitteln](kapitel-012.md)
+- [Kapitel 13: Auch böse Geister verkünden Wahres und Nützliches – sie zu erkennen erfordert Gottes Gabe der Geisterunterscheidung](kapitel-013.md)
+- [Kapitel 14: Täuschende Erscheinungen schaden der Seele nicht, solange Glaube und rechtes Verständnis gewahrt bleiben](kapitel-014.md)
+- [Kapitel 15: Natürliche geschlechtliche Erregung im Traum ist sündlos, doch auch dort kann sich gute Gesinnung zeigen](kapitel-015.md)
+- [Kapitel 16: Weil der Geist dem Körper überlegen ist, bildet er dessen Bilder selbst – für Erinnerung und Handeln](kapitel-016.md)
+- [Kapitel 17: Auch Kranke können ohne körperliche Wahrnehmung Fernes und Künftiges schauen](kapitel-017.md)
+- [Kapitel 18: Alltägliche Traumbilder sind nicht weniger erklärungsbedürftig als seltene Visionen in der Ekstase](kapitel-018.md)
+- [Kapitel 19: Bildhafte Schau kann körperlich bedingt sein oder von einem guten oder bösen Geist ausgehen](kapitel-019.md)
+- [Kapitel 20: Warum Bilder wie Körper erscheinen, wenn die Wahrnehmung im Gehirn statt an den Sinnesorganen blockiert wird](kapitel-020.md)
+- [Kapitel 21: Die Bilder in Traum und Entrückung sind gleicher geistiger Natur; auch Träume können von Gott kommen](kapitel-021.md)
+- [Kapitel 22: Auch ohne Entrückung können Menschen unwissentlich weissagen; wie solche Eingebungen wirken, ist schwer erklärbar](kapitel-022.md)
+- [Kapitel 23: Von der Wahrnehmung bis zur Entrückung formen sich Körperbilder in derselben geistigen Natur](kapitel-023.md)
+- [Kapitel 24: Die geistige Schau steht mit ihren Körperbildern zwischen Sinneswahrnehmung und bildloser Verstandesschau](kapitel-024.md)
+- [Kapitel 25: Die Seele irrt im Urteil über Wahrnehmungen und Bilder, nicht in dem, was sie mit dem Verstand erkennt](kapitel-025.md)
+- [Kapitel 26: Gottes Gnade erhebt den Verstand über die Bilder zur unmittelbaren Schau seiner Herrlichkeit](kapitel-026.md)
+- [Kapitel 27: Mose sah Gott selbst – unmittelbare Gottesschau setzt die Entrückung aus dem Sinnesleben voraus](kapitel-027.md)
+- [Kapitel 28: Paulus könnte im Paradies das ewige Leben geschaut haben, auf das schon Adams Paradies vorausweist](kapitel-028.md)
+- [Kapitel 29: Drei Arten der Schau sind erkennbar, doch Zahl und Ausmaß ihrer Abstufungen bleiben offen](kapitel-029.md)
+- [Kapitel 30: Von Engeln gezeigte Bilder überragen alltägliche innere Bilder wie das Himmlische das Irdische](kapitel-030.md)
+- [Kapitel 31: In der Entrückung schaut die Seele über sich Gottes Licht, das ihr alles Erkennen mit dem Verstand ermöglicht](kapitel-031.md)
+- [Kapitel 32: Freude und Leid nach dem Tod sind wirklich, auch wenn die Seele sie geistig statt körperlich erfährt](kapitel-032.md)
+- [Kapitel 33: Warum die Ruhe in Abrahams Schoß nicht zur Unterwelt der Sünder zu rechnen ist](kapitel-033.md)
+- [Kapitel 34: Im dritten Himmel liegt vielleicht das höchste Paradies: die Freude an Gottes schöpferischem Wort](kapitel-034.md)
+- [Kapitel 35: Mit dem geistlichen Auferstehungsleib erreicht der menschliche Geist die Vollendung seiner Natur](kapitel-035.md)
+- [Kapitel 36: Nach der Auferstehung bleiben die drei Arten der Schau bestehen, doch ohne Täuschung und Unwissenheit](kapitel-036.md)
+- [Kapitel 37: Die ältere Deutung des dritten Himmels nach Menschentypen unterscheidet sich vielleicht nur in den Begriffen](kapitel-037.md)

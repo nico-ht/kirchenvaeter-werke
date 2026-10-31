@@ -1,0 +1,16 @@
+# 12\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 15: Natürliche geschlechtliche Erregung im Traum ist sündlos, doch auch dort kann sich gute Gesinnung zeigen
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/12-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-42d237c8-e2b4-4d35-c41a-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Daher stellt sich bisweilen die Frage nach der Zustimmung im Traum, wenn Menschen sogar meinen, geschlechtlich zu verkehren, sei es entgegen ihrem eigenen Vorsatz, sei es sogar in einer sittlich unerlaubten Weise\. Das geschieht nur dann, wenn Dinge, an die wir auch im Wachen denken, ohne sie dabei gutzuheißen, sondern nur so, wie wir aus irgendeinem Anlass auch darüber sprechen, uns im Traum so nahetreten und so lebhaft vor Augen stehen, dass dadurch auch das Fleisch auf natürliche Weise erregt wird und das, was es von Natur aus ansammelt, durch die Geschlechtsorgane ausstößt\. Auch dies könnte ich ja nicht sagen, wenn ich nicht daran denken würde\. Wenn nun die Bilder körperlicher Dinge, an die ich notwendig denken musste, um dies zu sagen, im Traum mit derselben Anschaulichkeit vor uns stünden wie wirkliche Körper im Wachen, dann würde etwas geschehen, was ein Mensch im Wachen nicht ohne Sünde tun könnte\. Denn wer könnte, wenn er spricht und der Gesprächszusammenhang es erfordert, etwas über seinen eigenen Geschlechtsverkehr sagen, ohne an das zu denken, was er sagt? Wenn nun eben dieses Vorstellungsbild, das im Denken des Sprechenden entsteht, in der Schau des Träumenden so lebhaft ausgeprägt ist, dass er es nicht von der wirklichen Vereinigung der Körper unterscheiden kann, wird das Fleisch sogleich erregt, und es folgt, was auf diese Regung gewöhnlich folgt\. Das geschieht ebenso ohne Sünde, wie man im Wachen ohne Sünde davon spricht, wobei man zweifellos daran gedacht haben muss, um davon sprechen zu können\. Doch die gute Gesinnung der Seele, die durch ein besseres Verlangen gereinigt ist, tötet viele Begierden ab, die nicht zur natürlichen Regung des Fleisches gehören\. Diese Regung halten keusch Lebende im Wachen zurück und zügeln sie\. Im Schlaf dagegen können sie das deshalb nicht, weil es nicht in ihrer Macht steht, welches Bild eines Körpers sich ihnen mit solcher Anschaulichkeit aufdrängt, dass sie es von einem wirklichen Körper nicht unterscheiden können\. Wegen jener guten Gesinnung der Seele werden also auch im Traum einige ihrer Verdienste sichtbar\. Denn auch im Schlaf zog Salomo die Weisheit allem anderen vor und bat den Herrn um sie, während er alles Übrige außer Acht ließ[^bible-50b9cf07-e773-4699-a97d-6a416073ee4b]\. Und wie die Schrift bezeugt, „gefiel dies dem Herrn[^bible-e9f129ad-4603-4b4c-b7b7-79c7bb1d824a]“, und „er zögerte nicht, ihm sein gutes Verlangen mit Gutem zu vergelten[^bible-f2aa79b1-6e2b-454e-af8b-ada6cbef77a2]“\.
+
+## Bibelverweise
+
+[^bible-50b9cf07-e773-4699-a97d-6a416073ee4b]: 1Kön 3,5–1Kön 3,9
+[^bible-e9f129ad-4603-4b4c-b7b7-79c7bb1d824a]: 1Kön 3,10
+[^bible-f2aa79b1-6e2b-454e-af8b-ada6cbef77a2]: 1Kön 3,11–1Kön 3,13
