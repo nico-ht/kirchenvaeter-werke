@@ -1,0 +1,28 @@
+# Über Genesis gegen die Manichäer, Buch 2 – Kapitel 26: Die Verführung der Schlange wiederholt sich in der Leugnung Gottes als Schöpfer des ganzen Menschen
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/ueber-genesis-gegen-die-manichaeer-buch-2#kapitel-a2595320-c01e-4fe0-c2d4-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Diesen Menschen aber missfallen sogar ihre eigenen Körper, nicht wegen der Sterblichkeit, die wir durch unsere Sünde als Strafe verdient haben\. Vielmehr gehen sie so weit, Gott als Schöpfer der Körper zu leugnen, als ob ihnen nach dem Öffnen ihrer fleischlichen Augen diese Nacktheit missfiele[^bible-a91bdfd7-2e12-4eb3-9b0e-a4d26f080507]\.
+
+Nichts aber bezeichnet und kennzeichnet diese Menschen deutlicher als die Worte der Schlange: „Ihr werdet keineswegs sterben\. Gott wusste nämlich, dass euch an dem Tag, an dem ihr davon esst, die Augen geöffnet werden\.[^bible-72203d38-d4d2-4fed-b089-5ed00bdf8cfd]“ Denn sie glauben, jene Schlange sei Christus gewesen, und erdichten, irgendein Gott des Volkes der Finsternis habe, wie sie behaupten, jenes Gebot gegeben, als hätte er den Menschen die Erkenntnis von Gut und Böse missgönnt\. Aus dieser Auffassung sind, wie ich vermute, auch gewisse Serpentiner hervorgegangen, von denen es heißt, sie verehrten die Schlange als Christus\. Sie beachten den Apostel nicht, der sagt: „Ich fürchte, dass, so wie die Schlange Eva durch ihre List verführte, auch euer Denken verdorben wird\.[^bible-86c945ce-abf9-4a4c-b007-3cb5eea0aaf5]“ Ich meine also, dass diese Menschen in jener Prophetie vorgebildet sind\. Durch die Worte dieser Schlange wird aber unsere fleischliche Begierde verführt, und durch sie wird Adam getäuscht, nicht Christus, sondern der Christ\. Wenn dieser Gottes Gebot halten wollte und beharrlich aus dem Glauben leben würde, bis er fähig wäre, die Wahrheit zu erkennen, wenn er also im Paradies arbeiten und bewahren würde[^bible-596b88e9-df74-4489-b3bc-4deae602a326], was er empfangen hat, dann würde er nicht derart entstellt werden, dass er, weil ihm das Fleisch gleichsam als seine Nacktheit missfällt, erst recht fleischliche Hüllen aus Lügen sammelte, wie Feigenblätter, aus denen er sich einen Schurz machte[^bible-a91bdfd7-2e12-4eb3-9b0e-a4d26f080507]\. Genau das tun diese Menschen nämlich, wenn sie über Christus lügen und verkünden, er selbst habe gelogen\. Und sie verbergen sich gleichsam vor Gottes Angesicht[^bible-405b1863-cbb5-4f1e-a2f5-bc5c77a7e5dc], indem sie sich von seiner Wahrheit abwenden und ihren eigenen Lügen zuwenden, wie der Apostel sagt: „Von der Wahrheit werden sie ihr Gehör abwenden und sich den Fabeln zuwenden\.[^bible-9796acaa-a2b4-4646-aa22-4bf88eecae0e]“
+
+Jene Schlange aber ist der Irrtum der Häretiker, der die Kirche versucht und gegen den der Apostel seine Beschwörung richtet, wenn er sagt: „Ich fürchte, dass, so wie die Schlange Eva durch ihre List verführte, auch euer Denken verdorben wird\.[^bible-62bfd9c7-5039-5bc0-89e2-3e60d31f119d]“ Dieser Irrtum also kriecht auf Brust und Bauch und frisst Erde[^bible-b54a46b4-897a-4b56-bb7d-1e79c91b853a]\. Denn er täuscht nur die Hochmütigen, die sich anmaßen, etwas zu sein, was sie nicht sind, und deshalb schnell glauben, der höchste Gott und die menschliche Seele hätten ein und dieselbe Natur; oder diejenigen, die in fleischliche Begierden verstrickt sind und gern hören, dass alles, was sie an Ausschweifungen begehen, nicht von ihnen selbst, sondern vom Volk der Finsternis begangen werde; oder die Neugierigen, die auf Irdisches bedacht sind und Geistliches mit irdischem Auge erforschen\. Zwischen ihm und der Frau aber und zwischen seinen Nachkommen und den Nachkommen der Frau wird Feindschaft sein[^bible-d2a34f26-507b-4a04-9909-97ae5d64d199], wenn diese Kinder gebiert, wenn auch unter Schmerzen, und sich ihrem Mann zuwendet, damit er über sie herrscht[^bible-100bd26d-ddb0-49e8-b0c2-9657e2408e1b]\. Dann lässt sich nämlich erkennen, dass nicht ein Teil von uns zu Gott als seinem Urheber gehört und ein anderer zum Volk der Finsternis, wie diese Menschen behaupten, sondern vielmehr sowohl das, was im Menschen die Vollmacht zum Leiten hat, als auch das Untergeordnete, das geleitet werden muss, von Gott stammt\. So sagt der Apostel: „Der Mann soll sein Haupt nicht verhüllen, da er Gottes Bild und Herrlichkeit ist; die Frau aber ist die Herrlichkeit des Mannes\. Denn der Mann stammt nicht von der Frau, sondern die Frau vom Mann\. Auch wurde der Mann nicht um der Frau willen geschaffen, sondern die Frau um des Mannes willen\. Deshalb soll die Frau um der Engel willen einen Schleier auf dem Haupt tragen\. Doch im Herrn gibt es weder die Frau ohne den Mann noch den Mann ohne die Frau\. Denn wie die Frau vom Mann stammt, so kommt auch der Mann durch die Frau zur Welt; alles aber stammt von Gott\.[^bible-fefd8db3-ecc4-4c3f-91a5-39f9f018c9e6]“
+
+## Bibelverweise
+
+[^bible-100bd26d-ddb0-49e8-b0c2-9657e2408e1b]: Gen 3,16
+[^bible-405b1863-cbb5-4f1e-a2f5-bc5c77a7e5dc]: Gen 3,8
+[^bible-596b88e9-df74-4489-b3bc-4deae602a326]: Gen 2,15
+[^bible-62bfd9c7-5039-5bc0-89e2-3e60d31f119d]: 2Kor 11,3
+[^bible-72203d38-d4d2-4fed-b089-5ed00bdf8cfd]: Gen 3,4–Gen 3,5
+[^bible-86c945ce-abf9-4a4c-b007-3cb5eea0aaf5]: 2Kor 11,3
+[^bible-9796acaa-a2b4-4646-aa22-4bf88eecae0e]: 2Tim 4,4
+[^bible-a91bdfd7-2e12-4eb3-9b0e-a4d26f080507]: Gen 3,7
+[^bible-b54a46b4-897a-4b56-bb7d-1e79c91b853a]: Gen 3,14
+[^bible-d2a34f26-507b-4a04-9909-97ae5d64d199]: Gen 3,15
+[^bible-fefd8db3-ecc4-4c3f-91a5-39f9f018c9e6]: 1Kor 11,7–1Kor 11,12

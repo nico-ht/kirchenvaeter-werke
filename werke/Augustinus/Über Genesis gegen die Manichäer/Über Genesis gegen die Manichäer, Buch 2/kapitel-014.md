@@ -1,0 +1,24 @@
+# Über Genesis gegen die Manichäer, Buch 2 – Kapitel 14: Der Sündenfall zeigt: Erst die Zustimmung der Vernunft zur Begierde macht schuldig, auch ohne Tat
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/ueber-genesis-gegen-die-manichaeer-buch-2#kapitel-57a82c0b-79b1-4cdf-c2c8-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Die Schlange aber bezeichnet den Teufel, der gewiss nicht arglos war\. Denn die Aussage, sie sei klüger als alle Tiere[^bible-f1586436-6e35-41a0-b4a8-d7c4fb8a77b4], weist bildlich auf seine Verschlagenheit hin\. Es heißt aber nicht, die Schlange sei im Paradies gewesen, sondern sie sei unter den Tieren gewesen, die Gott geschaffen hatte[^bible-f1586436-6e35-41a0-b4a8-d7c4fb8a77b4]\. Das Paradies bezeichnet nämlich, wie ich oben gesagt habe, das glückselige Leben\. Darin befand sich die Schlange nicht mehr, weil sie bereits der Teufel war; und er war aus seiner Glückseligkeit gefallen, weil er nicht in der Wahrheit blieb[^bible-17a5ae04-5452-42e8-8e89-d55c5b6ff5d8]\. Man braucht sich auch nicht zu wundern, wie er mit der Frau sprechen konnte, obwohl sie im Paradies war und er nicht\. Denn entweder befand sie sich nicht im räumlichen Sinn im Paradies, sondern vielmehr im Zustand der Glückseligkeit; oder aber, selbst wenn es einen solchen Ort namens Paradies gibt, an dem Adam und die Frau körperlich wohnten, müssen wir dann auch das Herantreten des Teufels als körperlichen Vorgang verstehen? Gewiss nicht, sondern geistlich, wie der Apostel sagt: „Nach dem Fürsten der Macht der Luft, des Geistes, der jetzt in den Söhnen des Ungehorsams wirkt\.[^bible-552fcf56-0ff1-424a-b969-37c545ecce4b]“ Erscheint er ihnen also sichtbar, oder nähert er sich denen, in denen er wirkt, etwa im körperlichen Raum? Gewiss nicht, sondern auf wundersame Weise flüstert er ihnen durch Gedanken alles ein, was er kann\. Diesen Einflüsterungen widerstehen diejenigen, die wahrhaftig sagen, was derselbe Apostel sagt: „Denn seine listigen Machenschaften sind uns nicht unbekannt\.[^bible-8fa25cce-4f43-4325-86c2-d777ffd87859]“ Wie trat er denn an Judas heran, als er ihm einredete, den Herrn zu verraten[^bible-6962979a-9d73-4e1e-9f1b-67bd7abeba47]? Geschah das etwa räumlich, oder sah Judas ihn mit seinen körperlichen Augen? Vielmehr heißt es: „Er trat in sein Herz ein\.[^bible-15056feb-ef13-4b19-b608-d1c6bec0f5b2]“ Der Mensch aber wehrt ihn ab, wenn er das Paradies bewacht\. Denn Gott setzte den Menschen ins Paradies, damit er es bearbeite und bewache[^bible-101acaff-f705-4613-9e3f-fcd238a40852]\. So heißt es nämlich im Hohenlied von der Kirche: „Ein verschlossener Garten, eine versiegelte Quelle\.[^bible-5b467425-9b19-48b7-b34e-b33cb525d065]“ Dort wird jener Verführer zum Bösen gewiss nicht eingelassen\. Dennoch täuscht er den Menschen durch die Frau\. Denn auch unsere Vernunft lässt sich erst dann dazu verleiten, der Sünde zuzustimmen, wenn in jenem Teil der Seele Lust geweckt wird, der der Vernunft gehorchen soll wie dem Mann, der die Leitung hat\.
+
+Auch jetzt geschieht in jedem von uns, wenn jemand in Sünde fällt, nichts anderes als damals bei jenen dreien: der Schlange, der Frau und dem Mann\. Zuerst kommt nämlich eine Einflüsterung, sei es durch einen Gedanken oder durch die körperlichen Sinne, durch Sehen, Berühren, Hören, Schmecken oder Riechen\. Wenn diese Einflüsterung erfolgt ist und unser Begehren nicht zur Sünde gereizt wird, ist die List der Schlange abgewehrt\. Wird es aber gereizt, dann ist gleichsam die Frau schon überredet\. Doch manchmal zügelt und bändigt die Vernunft mannhaft auch das bereits erregte Begehren\. Wenn das geschieht, fallen wir nicht in Sünde, sondern werden nach einigem Ringen gekrönt\. Stimmt die Vernunft aber zu und entscheidet, dass getan werden soll, wozu die Begierde gereizt hat, dann wird der Mensch aus aller Glückseligkeit des Lebens wie aus dem Paradies vertrieben[^bible-9b2b7b61-0181-4dde-a3be-2aefa716f733]\. Denn die Sünde wird ihm bereits angerechnet, auch wenn die Tat nicht folgt, weil das Gewissen schon durch die Zustimmung als schuldig gilt\.
+
+## Bibelverweise
+
+[^bible-101acaff-f705-4613-9e3f-fcd238a40852]: Gen 2,15
+[^bible-15056feb-ef13-4b19-b608-d1c6bec0f5b2]: Lk 22,3
+[^bible-17a5ae04-5452-42e8-8e89-d55c5b6ff5d8]: Joh 8,44
+[^bible-552fcf56-0ff1-424a-b969-37c545ecce4b]: Eph 2,2
+[^bible-5b467425-9b19-48b7-b34e-b33cb525d065]: Hld 4,12
+[^bible-6962979a-9d73-4e1e-9f1b-67bd7abeba47]: Joh 13,2
+[^bible-8fa25cce-4f43-4325-86c2-d777ffd87859]: 2Kor 2,11
+[^bible-9b2b7b61-0181-4dde-a3be-2aefa716f733]: Gen 3,23–Gen 3,24
+[^bible-f1586436-6e35-41a0-b4a8-d7c4fb8a77b4]: Gen 3,1

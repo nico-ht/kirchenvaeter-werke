@@ -1,0 +1,17 @@
+# Über Genesis gegen die Manichäer, Buch 2 – Kapitel 28: Warum Gott künftige Sünder erschafft: Ihre Schuld liegt im Willen, und er bewirkt durch sie Gutes
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/ueber-genesis-gegen-die-manichaeer-buch-2#kapitel-da8df0d6-5bbb-4896-c2d6-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Was haben diese Leute also an diesen Schriften des Alten Testaments auszusetzen? Sie sollen nur nach ihrer Art fragen, und wir wollen antworten, wie der Herr es uns in seiner Güte gewährt\. „Warum“, fragen sie, „hat Gott den Menschen geschaffen, von dem er wusste, dass er sündigen würde?“ Weil er auch durch einen Sünder viel Gutes bewirken konnte, indem er ihm nach dem Maß seiner Gerechtigkeit seinen Platz zuwies, und weil dessen Sünde Gott keinen Schaden zufügte\. Hätte der Mensch nicht gesündigt, würde es keinen Tod geben; da er aber gesündigt hat, werden andere Sterbliche durch seine Sünde gebessert\. Denn nichts hält die Menschen so sehr von der Sünde ab wie der Gedanke an den drohenden Tod\. „Er hätte ihn so schaffen sollen“, sagen sie, „dass er nicht sündigt\.“ Vielmehr hätte der Mensch selbst dafür sorgen sollen; denn er war so geschaffen, dass er nicht gesündigt hätte, wenn er es nicht gewollt hätte\. „Der Teufel hätte nicht zu seiner Frau vorgelassen werden dürfen“, sagen sie\. Vielmehr hätte sie selbst den Teufel nicht zu sich lassen sollen; denn sie war so geschaffen, dass sie ihn nicht zu sich gelassen hätte, wenn sie es nicht gewollt hätte\. „Die Frau hätte nicht geschaffen werden sollen“, sagen sie\. Das heißt: „Etwas Gutes hätte nicht geschaffen werden sollen\.“ Denn auch sie ist gewiss etwas Gutes, und zwar etwas so Gutes, dass der Apostel sie als Herrlichkeit des Mannes[^bible-b183546b-5c41-47ed-8c1f-1d3c49e3afd1] bezeichnet; und alles stammt von Gott[^bible-bf33fec4-87af-452e-8e28-37aac6c6f313]\. Wieder fragen sie: „Wer hat den Teufel geschaffen?“ Er selbst; denn nicht von Natur aus, sondern durch das Sündigen ist er zum Teufel geworden\. „Dann hätte Gott wenigstens ihn nicht schaffen sollen“, sagen sie, „wenn er wusste, dass er sündigen würde\.“ Warum aber hätte er ihn nicht schaffen sollen, wenn er doch in seiner Gerechtigkeit und Vorsehung durch die Bosheit des Teufels viele Menschen bessert? Habt ihr etwa nicht gehört, wie der Apostel Paulus sagt: „Diese habe ich Satan übergeben, damit sie lernen, nicht zu lästern\.[^bible-a5e65425-be17-44a1-a9f5-3fabb469892a]“ Und von sich selbst sagt er: „Und damit ich mich wegen der Größe der Offenbarungen nicht überhebe, wurde mir ein Stachel ins Fleisch gegeben, ein Engel Satans, der mich mit Fäusten schlagen soll\.[^bible-4b69906e-48e0-4134-8ed2-e49990a39729]“ „Also“, sagen sie, „ist der Teufel gut, weil er nützlich ist?“ Nein, er ist böse, insofern er Teufel ist; gut und allmächtig aber ist Gott, der auch aus dessen Bosheit viel Gerechtes und Gutes bewirkt\. Denn dem Teufel wird nur sein eigener Wille zugerechnet, mit dem er Böses zu tun sucht, nicht aber Gottes Vorsehung, die durch ihn Gutes bewirkt\.
+
+## Bibelverweise
+
+[^bible-4b69906e-48e0-4134-8ed2-e49990a39729]: 2Kor 12,7
+[^bible-a5e65425-be17-44a1-a9f5-3fabb469892a]: 1Tim 1,20
+[^bible-b183546b-5c41-47ed-8c1f-1d3c49e3afd1]: 1Kor 11,7
+[^bible-bf33fec4-87af-452e-8e28-37aac6c6f313]: 1Kor 11,12

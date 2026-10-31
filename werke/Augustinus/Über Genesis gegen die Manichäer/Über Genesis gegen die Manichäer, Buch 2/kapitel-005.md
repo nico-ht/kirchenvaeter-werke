@@ -1,0 +1,27 @@
+# Über Genesis gegen die Manichäer, Buch 2 – Kapitel 5: Der Regen des Evangeliums führt die durch Hochmut verdorrte Seele zur inneren Quelle zurück
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/ueber-genesis-gegen-die-manichaeer-buch-2#kapitel-2024e1f8-22d2-491c-c2bf-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Denn es heißt: „Eine Quelle stieg aus der Erde auf und bewässerte die ganze Oberfläche der Erde\.[^bible-c0717bf4-5dc6-43e8-a414-3e6fc41e7c27]“ Gemeint ist jene Erde, von der gesagt wird: „Du bist meine Hoffnung, mein Anteil im Land der Lebenden\.[^bible-ae04632a-8ea2-4a39-a25e-ffcb04790940]“ Als aber die Seele von einer solchen Quelle bewässert wurde, hatte sie noch nicht aus Hochmut ihr Innerstes weggeworfen[^bible-dcfae4de-6b53-4352-be73-0916dec0558e]\. Denn „der Anfang des Hochmuts beim Menschen ist der Abfall von Gott\.[^bible-b6b0146b-8f15-4a02-92bf-6312eb92ea49]“ Und weil sie sich hochmütig nach außen hin aufblähte und so nicht mehr aus der inneren Quelle bewässert wurde, wird sie mit Recht durch die prophetischen Worte verhöhnt: „Warum sind Erde und Asche hochmütig? Weil sie schon zu Lebzeiten ihr Innerstes weggeworfen haben\.[^bible-dcfae4de-6b53-4352-be73-0916dec0558e]“ Denn was ist Hochmut anderes, als den innersten Raum des Gewissens zu verlassen und nach außen als etwas erscheinen zu wollen, was man nicht ist? Deshalb braucht die Seele, die nun auf der Erde arbeitet, Regen aus den Wolken, das heißt Belehrung durch menschliche Worte, damit sie auch auf diese Weise aus ihrer Dürre wieder aufgrünen und erneut zum Grün des Feldes[^bible-a821feee-f626-4326-8e2a-63dab3be973d] werden kann\. Doch wenn sie wenigstens den Regen der Wahrheit aus diesen Wolken bereitwillig aufnehmen würde\! Denn um ihretwillen ließ sich unser Herr dazu herab, die Wolke unseres Fleisches anzunehmen, und goss den Regen des heiligen Evangeliums in reichster Fülle aus\. Er verhieß auch, dass jeder, der von seinem Wasser trinkt[^bible-23483a26-93ee-404e-94ea-6651b4201340], zu jener inneren Quelle zurückkehren wird, sodass er nicht mehr draußen nach Regen suchen muss\. Denn er sagt: „In ihm wird eine Quelle entstehen, deren Wasser ins ewige Leben springt\.[^bible-23483a26-93ee-404e-94ea-6651b4201340]“
+
+ Diese Quelle, glaube ich, stieg[^bible-f9f1bd99-d44e-300f-2f8a-3616d98a124d] vor der Sünde aus der Erde auf und bewässerte die ganze Oberfläche der Erde[^bible-f9f1bd99-d44e-300f-2f8a-3616d98a124d], weil sie im Inneren lag und keine Hilfe von den Wolken brauchte: „Denn Gott hatte es noch nicht auf die Erde regnen lassen, und es gab keinen Menschen, der sie bearbeitete\.[^bible-ea6b5b9a-1f02-f3dd-401b-9947555a0522]“ Nachdem es nämlich geheißen hatte: „Denn Gott hatte es noch nicht auf die Erde regnen lassen[^bible-ea6b5b9a-1f02-f3dd-401b-9947555a0522]“, wurde auch der Grund hinzugefügt, weshalb es noch nicht geregnet hatte: weil „es keinen Menschen gab, der sie bearbeitete[^bible-ea6b5b9a-1f02-f3dd-401b-9947555a0522]“\. Der Mensch begann aber damals auf der Erde zu arbeiten, als er nach der Sünde aus dem seligen Leben entlassen wurde, das er im Paradies genossen hatte\.[^bible-b67fcfe6-23ff-4bcd-9226-e88c7bf3684c] Denn so steht geschrieben: „Und Gott, der Herr, entließ ihn aus dem Paradies der Wonne, damit er die Erde bearbeitete, aus der er auch genommen worden war\.[^bible-b67fcfe6-23ff-4bcd-9226-e88c7bf3684c]“ Das werden wir an der entsprechenden Stelle untersuchen\. Hier habe ich es angeführt, damit wir verstehen: Der Mensch, der auf der Erde arbeitet, das heißt in der Dürre der Sünden lebt, braucht die göttliche Belehrung durch menschliche Worte wie den Regen aus den Wolken\. Solches Wissen aber wird vergehen\.[^bible-e88c01d2-f3fd-476c-a672-64d74126323e] „Denn jetzt sehen wir in einem Rätsel[^bible-0caaa40e-0d8b-4e20-b37b-60d139c44144]“, als suchten wir in einer Wolke nach Nahrung, „dann aber von Angesicht zu Angesicht[^bible-0caaa40e-0d8b-4e20-b37b-60d139c44144]“, wenn die ganze Oberfläche unserer Erde aus der inneren Quelle bewässert wird, deren Wasser emporspringt[^bible-ede0a535-c486-93ae-27b0-6d48ef555e33]\. Wenn wir nämlich unter der Quelle, von der gesagt wurde: „Eine Quelle aber stieg aus der Erde auf und bewässerte die ganze Oberfläche der Erde[^bible-f9f1bd99-d44e-300f-2f8a-3616d98a124d]“, eine Quelle dieses sichtbaren Wassers verstehen wollen, dann ist es bei all den unversiegbaren Quellen von Bächen und Flüssen, die sich auf der ganzen Erde finden, nicht glaubhaft, dass allein jene Quelle versiegt sein soll, die die ganze Oberfläche der Erde bewässerte[^bible-f9f1bd99-d44e-300f-2f8a-3616d98a124d]\.
+
+## Bibelverweise
+
+[^bible-0caaa40e-0d8b-4e20-b37b-60d139c44144]: 1Kor 13,12
+[^bible-23483a26-93ee-404e-94ea-6651b4201340]: Joh 4,14
+[^bible-a821feee-f626-4326-8e2a-63dab3be973d]: Gen 2,5
+[^bible-ae04632a-8ea2-4a39-a25e-ffcb04790940]: Ps 141,6
+[^bible-b67fcfe6-23ff-4bcd-9226-e88c7bf3684c]: Gen 3,23
+[^bible-b6b0146b-8f15-4a02-92bf-6312eb92ea49]: Sir 10,12
+[^bible-c0717bf4-5dc6-43e8-a414-3e6fc41e7c27]: Gen 2,6
+[^bible-dcfae4de-6b53-4352-be73-0916dec0558e]: Sir 10,9
+[^bible-e88c01d2-f3fd-476c-a672-64d74126323e]: 1Kor 13,8
+[^bible-ea6b5b9a-1f02-f3dd-401b-9947555a0522]: Gen 2,5
+[^bible-ede0a535-c486-93ae-27b0-6d48ef555e33]: Joh 4,14
+[^bible-f9f1bd99-d44e-300f-2f8a-3616d98a124d]: Gen 2,6

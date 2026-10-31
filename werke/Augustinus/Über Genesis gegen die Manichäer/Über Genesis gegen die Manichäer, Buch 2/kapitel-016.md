@@ -1,0 +1,20 @@
+# Über Genesis gegen die Manichäer, Buch 2 – Kapitel 16: Adams Verstecken und Nacktheit zeigen die Abkehr der Seele von Gottes Licht zu sich selbst
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/ueber-genesis-gegen-die-manichaeer-buch-2#kapitel-6c59ec1d-de39-4cc3-c2ca-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Als also Gott gegen Abend im Paradies umherging[^bible-5955d9a9-21c0-4cc2-b0fc-129c25db364a], das heißt, als er schon kam, um über sie zu richten, noch bevor sie bestraft wurden, ging er im Paradies umher[^bible-5955d9a9-21c0-4cc2-b0fc-129c25db364a]\. Das heißt: Gottes Gegenwart geriet gleichsam in ihnen in Bewegung, als sie selbst nicht mehr fest in seinem Gebot standen\. Treffend heißt es gegen Abend[^bible-5955d9a9-21c0-4cc2-b0fc-129c25db364a], denn für sie ging die Sonne bereits unter, das heißt, ihnen wurde jenes innere Licht der Wahrheit genommen\. Sie hörten seine Stimme und verbargen sich vor seinem Angesicht\.[^bible-5955d9a9-21c0-4cc2-b0fc-129c25db364a] Wer verbirgt sich vor Gottes Angesicht, wenn nicht der, der ihn verlässt und nun das Eigene zu lieben beginnt? Denn sie hatten bereits die Hüllen der Lüge; wer aber die Lüge spricht, spricht aus seinem Eigenen[^bible-0aeda63f-5380-433a-922b-41cdaaa714bd]\. Deshalb heißt es, sie verbargen sich bei dem Baum mitten im Paradies[^bible-5955d9a9-21c0-4cc2-b0fc-129c25db364a], das heißt bei sich selbst, denn ihnen war inmitten der Dinge ein Platz unter Gott und über den Körpern zugewiesen\. Sie verbargen sich also bei sich selbst und wurden so von elenden Irrtümern verwirrt, nachdem sie das Licht der Wahrheit verlassen hatten, das sie nicht selbst waren\. Die menschliche Seele kann nämlich an der Wahrheit teilhaben; die Wahrheit selbst aber ist der unwandelbare Gott über ihr\. Wer sich also von dieser Wahrheit abwendet und sich selbst zuwendet, wer nicht über Gott jubelt, der ihn lenkt und erleuchtet, sondern über seine eigenen Regungen, als wären sie frei, wird von der Lüge verdunkelt\. Denn wer die Lüge spricht, spricht aus seinem Eigenen[^bible-0aeda63f-5380-433a-922b-41cdaaa714bd]\. So gerät er in Unruhe und führt damit jenes Wort des Propheten vor Augen: „Zu mir selbst gewandt ist meine Seele in Unruhe geraten\.[^bible-d0f3597a-83f8-42a9-b604-fa38705ef972]“ Nun wird Adam befragt[^bible-3bbb0497-00b6-46b6-9078-9d55e9e504b2], nicht weil Gott nicht wusste, wo er war, sondern weil er ihn zum Bekenntnis seiner Sünde nötigte\. Auch der Herr Jesus Christus wusste ja um die vielen Dinge, nach denen er fragte\. Adam antwortete aber, er habe Gottes Stimme gehört und sich verborgen, weil er nackt sei\.[^bible-0cb6b150-e29a-42ab-a674-c1113282827a] Seine Antwort entsprang bereits einem höchst elenden Irrtum, als könnte er Gott nackt missfallen, so, wie Gott selbst ihn geschaffen hatte\. Gerade das ist aber dem Irrtum eigen: Der Mensch meint, was ihm selbst missfällt, müsse auch Gott missfallen\. In einem höheren Sinn ist dagegen das Wort des Herrn zu verstehen: „Wer hat dir mitgeteilt, dass du nackt bist, wenn nicht deshalb, weil du von jenem Baum gegessen hast, von dem allein du, wie ich dir gesagt hatte, nicht essen solltest?[^bible-b17415d8-f268-4256-9aed-d58082225ed4]“ Denn er war nackt, frei von Verstellung, aber mit göttlichem Licht bekleidet\. Als er sich von diesem Licht abwandte und sich selbst zuwandte, was das Essen von jenem Baum bedeutet, sah er seine Nacktheit[^bible-21dd8a3d-1124-46d0-8811-4294c89e6329] und missfiel sich selbst, weil er nichts Eigenes hatte\.
+
+## Bibelverweise
+
+[^bible-0aeda63f-5380-433a-922b-41cdaaa714bd]: Joh 8,44
+[^bible-0cb6b150-e29a-42ab-a674-c1113282827a]: Gen 3,10
+[^bible-21dd8a3d-1124-46d0-8811-4294c89e6329]: Gen 3,7
+[^bible-3bbb0497-00b6-46b6-9078-9d55e9e504b2]: Gen 3,9
+[^bible-5955d9a9-21c0-4cc2-b0fc-129c25db364a]: Gen 3,8
+[^bible-b17415d8-f268-4256-9aed-d58082225ed4]: Gen 3,11
+[^bible-d0f3597a-83f8-42a9-b604-fa38705ef972]: Ps 41,7
