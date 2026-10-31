@@ -1,0 +1,18 @@
+# 4\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 16: Der siebte Tag zeigt nach vollendeter Schöpfung, dass Gott ihrer nicht bedarf und wir in ihm Ruhe finden
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/4-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-e3fea0ab-1126-4c68-c336-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ferner müssen wir beachten, dass uns Gottes Ruhe, in der er durch sich selbst glückselig ist, nahegebracht werden musste, damit wir verstehen, in welchem Sinn es auch heißt, er ruhe in uns\. Davon ist nur dann die Rede, wenn er auch uns Ruhe in sich gewährt\. Wer Gottes Ruhe richtig versteht, erkennt darin also, dass er auf kein Gut angewiesen ist\. Darum ist auch unsere Ruhe in ihm gewiss: Denn wir werden durch das Gut glückselig, das er selbst ist, nicht aber er durch das Gut, das wir sind\. Auch wir sind ja durch ihn etwas Gutes, denn er hat alles sehr gut geschaffen[^bible-501c0524-e754-4c6e-901f-3caa4153cd39] und darunter auch uns\. Außer ihm gibt es aber nichts Gutes, das er nicht selbst geschaffen hat\. Also braucht er außer sich selbst kein anderes Gut, da er das Gute, das er geschaffen hat, nicht braucht\. Das ist seine Ruhe von all seinen Werken, die er geschaffen hat[^bible-a2cc602f-0e27-4fd5-84d8-40546bf2ffab]\. Doch von welchen guten Dingen hätte man zu seinem Lob sagen können, er brauche sie nicht, wenn er keine geschaffen hätte? Denn auch dann könnte man sagen, er brauche keine guten Dinge: nicht weil er von seinen Werken[^bible-a2cc602f-0e27-4fd5-84d8-40546bf2ffab] in sich selbst ruhte[^bible-a2cc602f-0e27-4fd5-84d8-40546bf2ffab], sondern weil er überhaupt nichts schüfe\. Wenn er aber nichts Gutes schaffen könnte, hätte er keinerlei Macht; könnte er es dagegen, täte es aber nicht, wäre seine Missgunst groß\. Weil er also allmächtig und gut ist, hat er alles sehr gut geschaffen[^bible-501c0524-e754-4c6e-901f-3caa4153cd39]\. Weil er aber durch sich selbst als das Gute vollkommen glückselig ist, ruhte er[^bible-a2cc602f-0e27-4fd5-84d8-40546bf2ffab] in sich selbst von den guten Dingen, die er geschaffen hatte[^bible-a2cc602f-0e27-4fd5-84d8-40546bf2ffab], und zwar in jener Ruhe, die er nie verlassen hat\. Würde es aber heißen, er habe von noch zu vollbringenden Werken geruht, würde man darunter nichts anderes verstehen, als dass er sie nicht vollbracht hat\. Hieße es andererseits nicht, dass er von vollbrachten Werken geruht hat[^bible-a2cc602f-0e27-4fd5-84d8-40546bf2ffab], käme weniger deutlich zum Ausdruck, dass er das, was er geschaffen hat, nicht braucht\.
+
+An welchem Tag also hätte uns dies vor Augen geführt werden sollen, wenn nicht am siebten? Das versteht gewiss jeder, der sich daran erinnert, wie passend die Vollkommenheit der Sechszahl, von der wir oben gesprochen haben, auf die Vollkommenheit der Schöpfung bezogen wurde\. Wenn nämlich die Schöpfung nach der Sechszahl vollendet werden sollte, wie es ja auch geschehen ist, und uns zugleich jene Ruhe Gottes vor Augen geführt werden sollte, die zeigt, dass ihn auch die vollendeten Geschöpfe nicht glückselig machen, dann musste zu diesem Zweck ohne Zweifel der Tag geheiligt werden, der auf den sechsten folgt[^bible-db6c9500-c818-41ef-9521-20244c91f49d]\. Dadurch sollten wir dazu erhoben werden, nach dieser Ruhe zu verlangen, damit auch wir in ihm ruhen\.
+
+## Bibelverweise
+
+[^bible-501c0524-e754-4c6e-901f-3caa4153cd39]: Gen 1,31
+[^bible-a2cc602f-0e27-4fd5-84d8-40546bf2ffab]: Gen 2,2
+[^bible-db6c9500-c818-41ef-9521-20244c91f49d]: Gen 2,3

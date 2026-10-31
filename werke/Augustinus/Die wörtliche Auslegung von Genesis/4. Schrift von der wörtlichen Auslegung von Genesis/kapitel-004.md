@@ -1,0 +1,18 @@
+# 4\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 4: Maß, Zahl und Gewicht der Seele verweisen auf ihren ungeschaffenen, alles ordnenden Grund
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/4-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-f31aeaf9-204a-4c8c-c32a-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Maß, Zahl und Gewicht[^bible-ef23a08d-0bc8-4ad4-8722-11beca04c289] lassen sich nämlich nicht nur an Steinen, Holz und ähnlichen Massen oder an beliebigen körperlichen Dingen auf der Erde oder im Himmel wahrnehmen und gedanklich erfassen\. Auch für das Handeln gibt es ein Maß, damit man nicht ohne Möglichkeit zur Umkehr und ohne Maß fortschreitet\. Ebenso gibt es eine Zahl der seelischen Regungen und der Tugenden, durch die die Seele aus der Hässlichkeit der Torheit heraus zur Gestalt und Schönheit der Weisheit geordnet wird\. Und es gibt ein Gewicht des Willens und der Liebe, an dem sich zeigt, wie schwer etwas wiegt, wenn wir es erstreben oder meiden, vorziehen oder zurückstellen\. Doch dieses Maß der Seelen und des Geistes wird von einem anderen Maß begrenzt, diese Zahl von einer anderen Zahl geformt und dieses Gewicht von einem anderen Gewicht mitgerissen\. Das Maß ohne Maß aber ist dasjenige, dem gleich ist, was aus ihm stammt, während es selbst nicht anderswoher stammt\. Die Zahl ohne Zahl ist diejenige, durch die alles geformt wird, ohne dass sie selbst geformt wird\. Das Gewicht ohne Gewicht ist dasjenige, das jene zur Ruhe zurückführt, deren Ruhe reine Freude ist, ohne selbst noch zu etwas anderem hingeführt zu werden\.
+
+Wer aber die Bezeichnungen Maß, Zahl und Gewicht[^bible-ef23a08d-0bc8-4ad4-8722-11beca04c289] nur im Zusammenhang mit Sichtbarem kennt, kennt sie auf knechtische Weise\. Er soll also über alles hinausgehen, was er auf diese Weise kennt\. Kann er das noch nicht, soll er auch nicht an diesen Bezeichnungen hängen, mit denen er nur niedrige Vorstellungen verbinden kann\. Denn umso lieber ist einem all dies im Bereich des Höheren, je weniger er selbst im Bereich des Niederen Fleisch ist\. Wenn nun jemand die Wörter, die er an den niedrigsten und verächtlichsten Dingen kennengelernt hat, nicht auf jene erhabenen Dinge übertragen will, für deren Betrachtung er seinen Geist zu klären sucht, soll man ihn nicht dazu drängen\. Solange nämlich verstanden wird, was zu verstehen ist, muss man sich nicht sonderlich darum kümmern, wie man es nennt\. Wissen muss man allerdings, welcher Art die Ähnlichkeit des Niederen mit dem Höheren ist\. Denn nur so kann die Vernunft den rechten Weg von hier nach dort einschlagen und sich dorthin erheben\.
+
+Wenn nun aber jemand behauptet, Maß, Zahl und Gewicht[^bible-ef23a08d-0bc8-4ad4-8722-11beca04c289], in denen Gott alles geordnet hat[^bible-ef23a08d-0bc8-4ad4-8722-11beca04c289], wie die Schrift bezeugt, seien geschaffen: Wenn er „in ihnen alles geordnet hat[^bible-ef23a08d-0bc8-4ad4-8722-11beca04c289]“, worin hat er dann sie selbst geordnet? Wenn in anderen, wie ist dann alles in ihnen[^bible-ef23a08d-0bc8-4ad4-8722-11beca04c289] geordnet, wenn sie selbst in anderen geordnet sind? Es ist also nicht daran zu zweifeln, dass jene, in denen alles geordnet ist[^bible-ef23a08d-0bc8-4ad4-8722-11beca04c289], außerhalb dessen stehen, was geordnet worden ist\.
+
+## Bibelverweise
+
+[^bible-ef23a08d-0bc8-4ad4-8722-11beca04c289]: Weish 11,20

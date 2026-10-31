@@ -1,0 +1,15 @@
+# 4\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 28: Die Deutung der Schöpfungstage als geistige Erkenntnis ist keine Allegorie, sondern Auslegung im eigentlichen Sinn
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/4-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-b976b048-d03e-4980-c342-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ich habe über das geistige Licht gesprochen, über den erschaffenen geistigen Tag und die Engel als Geschöpfe, über deren Schau im Wort Gottes und über die Erkenntnis, in der das Geschöpf in sich selbst erkannt wird\. Ebenso sprach ich davon, wie diese Erkenntnis zum Lob der unwandelbaren Wahrheit zurückgeführt wird: In ihr wurde zuvor das Urbild dessen geschaut, was geschaffen werden sollte und nach seiner Erschaffung erkannt wurde\. Niemand soll nun meinen, all dies diene nicht mehr im eigentlichen Sinn, sondern gleichsam bildlich und allegorisch dazu, Tag, Abend und Morgen zu verstehen\. Gewiss ist es anders zu verstehen, als wir es von unserem täglichen körperlichen Licht gewohnt sind; doch nicht so, als wären die Worte hier im eigentlichen Sinn, dort aber bildlich gemeint\. Denn wo es ein besseres und verlässlicheres Licht gibt, da gibt es auch einen wahreren Tag\. Warum also nicht auch einen wahreren Abend und einen wahreren Morgen? Wenn sich nämlich bei unseren Tagen das Licht zum Untergang neigt, was wir Abend nennen, und dann zum Aufgang zurückkehrt, was wir Morgen nennen, warum sollten wir nicht auch dort von Abend sprechen, wenn von der Schau des Schöpfers auf das Geschöpf hinabgeblickt wird, und von Morgen, wenn man sich von der Erkenntnis des Geschöpfs zum Lob des Schöpfers erhebt? Auch wird Christus nicht in derselben Weise „Licht[^bible-160b7dd0-86e9-451c-97b2-c4ec8ccc536d]“ genannt wie „Stein[^bible-d875daa6-1422-4bf2-b569-ec86a54ce088]“: Das erste ist im eigentlichen Sinn gemeint, das zweite hingegen bildlich\. Wer also für die Aufzählung jener Tage nicht die Deutung sucht, die wir nach unseren begrenzten Kräften erforschen oder vermuten konnten, sondern eine andere, die nicht im Sinne einer bildlichen Weissagung, sondern im eigentlichen Sinn als bessere Erklärung dieser Erschaffung der Geschöpfe verstanden werden kann, der soll suchen und mit Gottes Hilfe finden\. Denn es ist möglich, dass auch ich noch eine andere Deutung finde, die diesen Worten der göttlichen Schrift besser entspricht\. Ich halte nämlich an dieser Deutung nicht so fest, dass ich behaupten würde, es könne keine andere gefunden werden, die ihr vorzuziehen wäre\. Wohl aber halte ich daran fest, dass die Heilige Schrift uns Gottes Ruhe nicht als eine Ruhe nach Erschöpfung oder quälender Sorge nahebringen wollte\.
+
+## Bibelverweise
+
+[^bible-160b7dd0-86e9-451c-97b2-c4ec8ccc536d]: Joh 8,12
+[^bible-d875daa6-1422-4bf2-b569-ec86a54ce088]: Apg 4,11
