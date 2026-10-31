@@ -1,0 +1,24 @@
+# Über Noah und die Arche – Kapitel 11: Noahs Gerechtigkeit rettet sein Haus, wie der nüchterne Geist Seele und Körper bewahrt
+
+Autor: Ambrosius von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/ueber-noah-und-die-arche#kapitel-0663f465-a445-4ad0-c25a-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Geh mit deinem ganzen Haus in die Arche[^bible-32a71848-a6d6-4227-a32b-c1232eb09798]“, sagt er, „denn ich habe gesehen, dass du in dieser Generation vor mir gerecht bist\.[^bible-32a71848-a6d6-4227-a32b-c1232eb09798]“ Auch diese Stelle bestätigt klar die Wahrheit des prophetischen Wortes: „Der Dumme ist nur für sich selbst dumm, der Weise aber ist für sich und viele andere weise\.[^bible-7c605622-1756-491e-871e-643cf384ec96]“ Aufgrund des Verdienstes des gerechten Noah wird also auch sein Haus in der Sintflut gerettet\. So sind auch die Seefahrer auf dem Meer und die Heere im Krieg durch die Hilfe anderer vor Gefahr geschützt, wenn es den einen nicht an der Sachkunde des Steuermanns und den anderen nicht an der Umsicht des Feldherrn fehlt\. Weil aber zu einem guten Feldherrn ein gutes Heer gehört, erkennen wir auch darin ein Lob des Gerechten: Er hat sein Haus so erzogen, dass es durch die gemeinsame Teilhabe an der Tugend erstrahlte\. Mit Recht fand daher seine Verwandtschaft Rettung\. Dem widerspricht nicht, dass sich später der Sohn oder die Frau verfehlte\. Der Gerechte schlief, als sein Sohn sich verfehlte\.[^bible-76c4601b-094e-4ca8-bb23-3b785e11409f] Auch die Frau, die ja dem schwächeren Geschlecht angehörte, war vom Ausmaß der Gefahr verstört und glaubte, die ganze Welt gehe in göttlichem Feuer unter\. Warum wunderst du dich da, dass sie ihrem Mann nicht folgen konnte[^bible-341a67ea-2ecf-4d80-a523-401ad9cef139], wenn selbst der Gerechte, von Engeln gewarnt, nur knapp entkam[^bible-9b90c02b-aabc-44a1-a7bf-942f0bd5e4a7]? Was ist aber daran verwunderlich, wenn sich beim Menschen ein Fehler einschleicht oder seine Aufmerksamkeit nachlässt? Dann erhebe also den Vorwurf, dass selbst der Gerechte sich betrank[^bible-136e7242-69fe-44ca-acaf-f4c2a4b06247]\. Doch darüber sollten wir, meine ich, an der dafür vorgesehenen Stelle sprechen\.
+
+Betrachten wir nun, was noch übrig ist\. Treffend hat er nämlich gesagt: „Denn ich habe gesehen, dass du in dieser Generation vor mir gerecht bist\.[^bible-11644e34-40e0-d79a-f448-7b0acae31ed4]“ Viele erscheinen den Menschen gerecht, wenige Gott\. Dabei urteilen die Menschen anders als Gott: Die Menschen nach dem äußeren Bild des Lebens, Gott nach der Reinheit des Herzens und der Echtheit der Tugend\. Die Menschen schenken dem Äußeren ihre Anerkennung; Gott prüft das Innere\. Mit Bedacht aber fügte er hinzu: „In dieser Generation[^bible-11644e34-40e0-d79a-f448-7b0acae31ed4]“\. Damit wollte er weder die früheren Generationen verurteilen noch die späteren ausschließen und zugleich bekräftigen, dass die Sintflut mit Recht jene Generation vernichtete, die keinen Anteil an der Gerechtigkeit hatte\. So weit der wörtliche Sinn\.
+
+Ein tieferer Sinn aber legt uns nahe, die Kraft des Geistes in der Seele und die Seele im Körper als das anzusehen, was der Hausherr in seinem Haus ist\. Denn was der Geist in der Seele ist, das ist die Seele im Körper\. Ist der Geist in Sicherheit, ist das Haus in Sicherheit, ist die Seele in Sicherheit; ist die Seele unversehrt, ist auch das Fleisch unversehrt\. Denn ein nüchterner Geist hält alle Leidenschaften im Zaum, lenkt die Sinne und beherrscht die Rede\. Darum sagt der Herr treffend zum Gerechten: „Geh du hinein[^bible-11644e34-40e0-d79a-f448-7b0acae31ed4]“, das heißt: Geh in dich selbst hinein, in deinen Geist, in die leitende Kraft deiner Seele\. Dort ist Rettung, dort ist das Steuer; draußen ist die Flut, draußen die Gefahr\. Wenn du aber innen bist, bist du auch außen sicher; denn wo der Geist über sich selbst bestimmt, sind die Gedanken gut und die Taten gut\. Wenn nämlich kein Laster den Geist verdunkelt, sind die Gedanken rein\. Wenn man nach Keuschheit strebt und einem Mäßigung am Herzen liegt, lodert keine Flamme der Begierde auf, wuchern keine krankhaften Geschwüre\. Denn die Nüchternheit des Geistes ist eine Arznei für den Körper\.
+
+## Bibelverweise
+
+[^bible-11644e34-40e0-d79a-f448-7b0acae31ed4]: Gen 7,1
+[^bible-136e7242-69fe-44ca-acaf-f4c2a4b06247]: Gen 9,21
+[^bible-32a71848-a6d6-4227-a32b-c1232eb09798]: Gen 7,1
+[^bible-341a67ea-2ecf-4d80-a523-401ad9cef139]: Gen 19,26
+[^bible-76c4601b-094e-4ca8-bb23-3b785e11409f]: Gen 9,21–Gen 9,22
+[^bible-7c605622-1756-491e-871e-643cf384ec96]: Spr 9,12
+[^bible-9b90c02b-aabc-44a1-a7bf-942f0bd5e4a7]: Gen 19,15–Gen 19,17

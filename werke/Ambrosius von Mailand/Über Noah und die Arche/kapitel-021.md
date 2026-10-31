@@ -1,0 +1,23 @@
+# Über Noah und die Arche – Kapitel 21: Noahs Auszug steht für erneuerte eheliche Zeugung und das Wachstum der Tugenden nach Bändigung der Begierden
+
+Autor: Ambrosius von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/ueber-noah-und-die-arche#kapitel-8be4f319-240e-47d4-c264-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und Gott, der Herr, sagte zu Noah: „Verlass die Arche, du und deine Frau und deine Söhne\.[^bible-1fe0979e-4623-4632-b8d8-9a0161cbd5e6]“ Nachdem also das Wasser zurückgegangen und die Erde getrocknet war, konnte Noah die Arche verlassen\.[^bible-ff0a4448-70e9-4e35-8163-c8397c3064b5] Doch der Gerechte maßt sich nichts an, sondern unterstellt sich ganz dem göttlichen Befehl\. Gerade wer auf ein himmlisches Wort hin eingetreten war, musste auf eine himmlische Weisung warten, um wieder hinauszugehen\. Denn die Gerechtigkeit kennt Scham; schamlos dagegen ist das Unrecht, das sich nimmt, was ihm nicht zusteht, und den Schöpfer nicht achtet\.
+
+Fragen wir nun, weshalb beim Betreten der Arche diese Reihenfolge galt: Zuerst trat Noah selbst mit seinen Söhnen ein, dann seine Frau und die Frauen seiner Söhne\.[^bible-dafa748f-67e5-4b8e-9e48-1f4f5de78943] Warum wurde diese Reihenfolge aber beim Verlassen geändert? Denn es steht geschrieben: „Er ging hinaus und seine Frau und seine Söhne und die Frauen seiner Söhne\.[^bible-ffd89742-d5da-4623-9aaf-ce6c01906953]“ Dem Wortlaut nach bedeutet der Einzug den Verzicht auf Zeugung, der Auszug dagegen ihre Wiederaufnahme\. Damals ging nämlich zuerst der Vater mit seinen Söhnen hinein und die Söhne mit ihrem Vater, danach seine Frau und die Frauen seiner Söhne\.[^bible-dafa748f-67e5-4b8e-9e48-1f4f5de78943] Das heißt: Beim Eintritt werden die Geschlechter nicht zusammengeführt, beim Auszug dagegen schon\. Schon durch die Reihenfolge beim Eintritt gibt der Gerechte also deutlich zu verstehen, dass dies keine Zeit für Beischlaf und Vergnügungen war, da allen der Untergang drohte\. Daher spricht der Herr im Evangelium tadelnd davon, dass „die Menschen zur Zeit Noahs aßen und tranken, Frauen heirateten und ihre Töchter verheirateten[^bible-e95b9b21-bf56-4f6c-ba35-e469e4c3bc66]“, und erklärt, wegen ihrer Maßlosigkeit sei die Flut über sie gekommen[^bible-bd1aa8b4-0c45-4f4b-9a51-2991972c054d]\. Es war also eine Zeit der Trauer, nicht der Freude\. Deshalb erfreute sich weder der Gerechte an der Gemeinschaft mit seiner Frau, noch suchten die Söhne des Gerechten die eheliche Vereinigung\. Wie unschicklich wäre es auch gewesen, zu einer Zeit, als die Lebenden starben, Menschen zu zeugen, die umkommen würden? Nachdem die Flut zurückgegangen war, nahmen sie dagegen zu Recht das eheliche Zusammenleben und die Sorge dafür wieder auf, um weitere Nachkommen hervorzubringen\. So gehen nicht Männer mit Männern hinaus, sondern Frauen mit Männern[^bible-ffd89742-d5da-4623-9aaf-ce6c01906953]\. Dadurch sollte sichtbar werden, dass die geschlechtliche Verbindung von Männern untereinander untersagt, die Verbindung von Mann und Frau in rechtmäßiger Ehe dagegen erlaubt ist\.
+
+Der tiefere Sinn aber ist dieser: Wo Gefahr droht, sollen männliche und stärkere Überlegungen im Geist festen Halt finden\. Dabei soll der Geist sich selbst gleichsam wie eine Schar von Söhnen dadurch schützen, dass den Stürmen und heftigeren Leidenschaften eine männliche Schlachtreihe entgegentritt\. Ist die Gefahr vorüber, schadet es nicht, wenn sich weichere Gedanken mit kräftigeren verbinden\. Dabei sollen nicht die stärkeren durch die weicheren verweiblicht, sondern die weicheren Regungen durch gleichsam männliche gestärkt werden\. Alle unsere Entschlüsse sollen dabei auf Tugend, Gerechtigkeit, Lauterkeit und Tapferkeit ausgerichtet sein, und durch eine Art Einübung und Aussaat der Tugenden sollen stärkere Entschlüsse entstehen und heranwachsen können\. Es ist also nicht nützlich, Gedanken auszusäen und den Geist zeugen und gebären zu lassen, wenn ein Wirrwarr von Lastern ihn gefangen hält\. Sind aber die Begierden gebändigt und ist der Geist zur Ruhe gekommen, dann können Tugenden und gute Werke keimen, sobald er gleichsam den Samen prüfender Überlegung aufgenommen hat\.
+
+## Bibelverweise
+
+[^bible-1fe0979e-4623-4632-b8d8-9a0161cbd5e6]: Gen 8,16
+[^bible-bd1aa8b4-0c45-4f4b-9a51-2991972c054d]: Lk 17,27
+[^bible-dafa748f-67e5-4b8e-9e48-1f4f5de78943]: Gen 7,7
+[^bible-e95b9b21-bf56-4f6c-ba35-e469e4c3bc66]: Lk 17,26–Lk 17,27
+[^bible-ff0a4448-70e9-4e35-8163-c8397c3064b5]: Gen 8,13–Gen 8,16
+[^bible-ffd89742-d5da-4623-9aaf-ce6c01906953]: Gen 8,18
