@@ -1,0 +1,18 @@
+# Über Genesis gegen die Manichäer, Buch 1 – Kapitel 8: Gottes Gefallen am vollendeten Licht ist keine neue Erkenntnis; die Schrift spricht unserer Schwäche gemäß
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/ueber-genesis-gegen-die-manichaeer-buch-1#kapitel-556db7c5-2a12-4330-c2a9-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und Gott sprach: „Es werde Licht\.[^bible-bd881160-5b8d-47f2-9f46-a376d2b7f791]“ Und es wurde Licht\.[^bible-bd881160-5b8d-47f2-9f46-a376d2b7f791] Daran nehmen die Manichäer gewöhnlich keinen Anstoß, wohl aber an dem, was folgt: „Und Gott sah, dass das Licht gut ist\.[^bible-f7c6befa-2878-42cd-b6e2-6055d48710f5]“ Denn sie sagen: „Also kannte Gott das Licht nicht, oder er kannte das Gute nicht\.“ Armselige Menschen, denen es missfällt, dass Gott seine Werke gefielen\! Dabei sehen sie doch, wie selbst ein menschlicher Handwerker, etwa ein Schreiner, das Holz so lange schneidet und bearbeitet, indem er es behaut, mit dem Dechsel zurichtet, hobelt oder drechselt und glättet, bis es den Regeln seiner Kunst so weit wie möglich entspricht und ihm gefällt, obwohl er im Vergleich zu Gottes Weisheit und Macht beinahe nichts ist\. Hat er etwa das Gute deshalb nicht gekannt, weil ihm sein Werk gefällt? Gewiss kannte er es im Inneren seiner Seele, wo die Kunst selbst schöner ist als das, was durch sie hergestellt wird\. Doch was der Handwerker innerlich in seiner Kunst sieht, das billigt er äußerlich am Werk; und vollendet ist, was seinem Meister gefällt\. „Gott sah also, dass das Licht gut ist\.[^bible-f7c6befa-2878-42cd-b6e2-6055d48710f5]“ Diese Worte zeigen nicht, dass Gott etwas Gutes aufleuchtete, das er bisher nicht kannte, sondern dass ihm das Vollendete gefiel\.
+
+Was wäre, wenn es geheißen hätte: „Gott staunte über das Licht, weil es gut ist“? Wie hätten sie geschrien, wie hätten sie gestritten\! Staunen entsteht tatsächlich gewöhnlich angesichts unerwarteter Dinge\. Und doch lesen diese Leute im Evangelium, dass unser Herr Jesus Christus über den Glauben der Gläubigen staunte[^bible-2ef9e7af-83b2-4f57-8989-fb2306bf0e19], und loben das\. Wer aber hatte diesen Glauben in ihnen gewirkt, wenn nicht derjenige, der darüber staunte? Und selbst wenn ein anderer ihn gewirkt hätte, warum sollte der darüber staunen, der ihn schon im Voraus kannte? Wenn die Manichäer diese Frage lösen, sollen sie einsehen, dass auch jene gelöst werden kann\. Wenn sie sie aber nicht lösen, warum beanstanden sie dann das, was sie nicht als ihre Sache ansehen wollen, obwohl sie nicht einmal das verstehen, was nach eigener Aussage ihre Sache ist? Denn worüber unser Herr staunt[^bible-2ef9e7af-83b2-4f57-8989-fb2306bf0e19], das bezeichnet er als etwas, worüber wir staunen sollen, weil wir noch solche inneren Regungen brauchen\. Alle derartigen Regungen bei ihm sind also keine Anzeichen einer aufgewühlten Seele, sondern Zeichen eines Meisters, der lehrt\. So verhält es sich auch mit den Worten des Alten Testaments: Sie lehren nicht, dass Gott schwach ist, sondern kommen unserer Schwäche entgegen\. Denn nichts, was man über Gott sagen kann, wird ihm gerecht\. Damit wir jedoch genährt werden und zu dem gelangen, was keine menschliche Sprache ausdrücken kann, wird uns gesagt, was wir fassen können\.
+
+## Bibelverweise
+
+[^bible-2ef9e7af-83b2-4f57-8989-fb2306bf0e19]: Mt 8,10
+[^bible-bd881160-5b8d-47f2-9f46-a376d2b7f791]: Gen 1,3
+[^bible-f7c6befa-2878-42cd-b6e2-6055d48710f5]: Gen 1,4

@@ -1,0 +1,18 @@
+# Über Genesis gegen die Manichäer, Buch 1 – Kapitel 15: Die Vögel stammen aus dem Wasser, weil die feuchte Luft, in der sie fliegen, zum Wasser zählt
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/ueber-genesis-gegen-die-manichaeer-buch-1#kapitel-46b583ef-4ba5-4eae-c2b0-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und Gott sprach: „Die Wasser sollen lebende, sich regende Wesen hervorbringen und Vögel, die über der Erde unter dem Himmelsgewölbe fliegen\.[^bible-0c988bbc-1517-4aa7-bdae-e0df537824cf]“ Und so geschah es\. Und Gott machte die großen Meerestiere und alle lebenden Tiere und alles sich regende Getier, das die Wasser hervorbrachten, jedes nach seiner Art, und alle gefiederten Vögel nach ihrer Art\. Und Gott sah, dass sie gut waren; und Gott segnete sie[^bible-463204f4-1443-407c-87ad-110065594dd1] mit den Worten: „Wachst und vermehrt euch und füllt die Wasser des Meeres, und die Vögel sollen sich auf der Erde vermehren\.[^bible-b055afcc-09d2-4f3d-9a89-9e7200a00d3e]“ Und es wurde Abend, und es wurde Morgen: der fünfte Tag\.[^bible-f7460e51-a2c4-481f-85d8-92531d66a8ed] Hier üben sie gewöhnlich Kritik, indem sie fragen oder vielmehr böswillig einwenden, warum geschrieben steht, dass „nicht nur die Tiere, die im Wasser leben, sondern auch die, die in der Luft umherfliegen, und alle gefiederten Wesen aus dem Wasser entstanden sind[^bible-e962755d-ce94-4e01-a531-8a804e543714]“\. Doch alle, die sich daran stoßen, sollen wissen: Die neblige und feuchte Luft, in der die Vögel fliegen, wird von den gelehrtesten Männern, die diese Dinge sorgfältig erforschen, gewöhnlich zum Wasser gerechnet\. Denn durch die Ausdünstungen und gleichsam die Dämpfe des Meeres und der Erde verdichtet sie sich\. Durch diese Feuchtigkeit gewinnt sie gewissermaßen an Fülle, sodass sie die Vögel im Flug tragen kann\. Deshalb fällt aus ihr in klaren Nächten auch Tau, dessen Tropfen sich morgens auf den Gräsern finden\. Von jenem Berg in Makedonien, der Olymp genannt wird, heißt es nämlich, er sei so hoch, dass auf seinem Gipfel weder Wind zu spüren ist noch Wolken sich sammeln\. Denn er überragt diese ganze feuchte Luftschicht, in der die Vögel fliegen; deshalb, so versichert man, fliegen dort auch keine Vögel\. Das sollen Menschen berichtet haben, die jedes Jahr auf den Gipfel des erwähnten Berges stiegen, um dort Opfer darzubringen, von denen ich nichts Näheres weiß\. Sie schrieben einige Zeichen in den Staub, die sie im folgenden Jahr unversehrt wiederfanden\. Das wäre nicht möglich, wenn jener Ort Wind oder Regen ausgesetzt wäre\. Weil zudem die Luft dort zu dünn zum Atmen war, konnten sie nur dann dort bleiben, wenn sie sich feuchte Schwämme an die Nase hielten, um daraus die dichtere Luft einzuatmen, an die sie gewöhnt waren\. Diese Menschen berichteten also, sie hätten dort auch noch nie einen Vogel gesehen\. Nicht ohne Grund berichtet daher die vollkommen zuverlässige Schrift, dass nicht nur die Fische und die übrigen im Wasser lebenden Tiere, sondern auch die Vögel aus dem Wasser entstanden sind[^bible-e962755d-ce94-4e01-a531-8a804e543714]\. Denn sie können durch diese Luft fliegen, die aus der Feuchtigkeit des Meeres und der Erde aufsteigt\.
+
+## Bibelverweise
+
+[^bible-0c988bbc-1517-4aa7-bdae-e0df537824cf]: Gen 1,20
+[^bible-463204f4-1443-407c-87ad-110065594dd1]: Gen 1,20–Gen 1,22
+[^bible-b055afcc-09d2-4f3d-9a89-9e7200a00d3e]: Gen 1,22
+[^bible-e962755d-ce94-4e01-a531-8a804e543714]: Gen 1,20–Gen 1,21
+[^bible-f7460e51-a2c4-481f-85d8-92531d66a8ed]: Gen 1,23

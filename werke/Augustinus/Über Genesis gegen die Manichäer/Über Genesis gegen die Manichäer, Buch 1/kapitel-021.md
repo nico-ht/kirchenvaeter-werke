@@ -1,0 +1,15 @@
+# Über Genesis gegen die Manichäer, Buch 1 – Kapitel 21: Die Schöpfung ist „sehr gut“, weil das Ganze schöner ist als seine einzelnen Teile
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/ueber-genesis-gegen-die-manichaeer-buch-1#kapitel-22b4c561-4a2a-4a24-c2b6-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Gewiss dürfen wir nicht achtlos über die Aussage hinweggehen: „Und Gott sah, dass alles, was er gemacht hatte, sehr gut war\.[^bible-c58d9b3d-3b31-4553-9d07-b4f03b17f356]“ Wo von den einzelnen Werken die Rede war, hieß es nämlich nur: „Gott sah, dass es gut war\.[^bible-e009a7b3-49f7-4422-889a-5cb0d51d5c64]“ Als aber von allem die Rede war, genügte „gut[^bible-c58d9b3d-3b31-4553-9d07-b4f03b17f356]“ nicht; „sehr[^bible-c58d9b3d-3b31-4553-9d07-b4f03b17f356]“ musste hinzukommen\. Wenn verständige Menschen die einzelnen Werke Gottes betrachten, finden sie an jedem lobenswerte Maße, Zahlenverhältnisse und Ordnungen, die seiner jeweiligen Art entsprechen\. Wie viel mehr gilt das dann für alles zusammen, also für das Ganze selbst, das sich aus diesen zu einer Einheit verbundenen Einzelwerken bildet? Denn jede Schönheit, die aus Teilen besteht, ist im Ganzen viel lobenswerter als im einzelnen Teil\. So ist es beim menschlichen Körper: Wenn wir die Augen allein, die Nase allein, die Wangen allein, den Kopf allein, die Hände allein oder die Füße allein loben und ebenso die übrigen Teile, sofern sie schön sind, einzeln und für sich, wie viel mehr dann den ganzen Körper, dem alle Glieder, die schon einzeln schön sind, ihre Schönheit verleihen? So verliert eine schöne Hand, die bereits für sich am Körper gelobt wurde, wenn man sie vom Körper trennt, selbst ihren Reiz, und auch die übrigen Glieder sind ohne sie entstellt\. So groß sind Kraft und Macht der Ganzheit und Einheit, dass auch viele gute Dinge dann gefallen, wenn sie sich zu einem Ganzen zusammenfügen und zusammenwirken\. Das Universum aber hat seinen Namen von der Einheit\. Wenn die Manichäer dies bedenken würden, würden sie Gott als Urheber und Schöpfer des Ganzen loben\. Was ihnen aufgrund unserer Sterblichkeit an einem Teil anstößig erscheint, würden sie auf die Schönheit des Ganzen beziehen und erkennen, wie Gott alles nicht nur gut, sondern sogar sehr gut geschaffen hat[^bible-c58d9b3d-3b31-4553-9d07-b4f03b17f356]\. Denn auch wenn wir bei einer kunstvoll gestalteten Rede die einzelnen Silben oder sogar die einzelnen Buchstaben betrachten, die, kaum erklungen, sogleich vergehen, finden wir an ihnen nichts, was erfreut und Lob verdient\. Die ganze Rede ist nämlich nicht durch einzelne Silben oder Buchstaben schön, sondern durch sie alle zusammen\.
+
+## Bibelverweise
+
+[^bible-c58d9b3d-3b31-4553-9d07-b4f03b17f356]: Gen 1,31
+[^bible-e009a7b3-49f7-4422-889a-5cb0d51d5c64]: Gen 1,10; Gen 1,12; Gen 1,18; Gen 1,21; Gen 1,25

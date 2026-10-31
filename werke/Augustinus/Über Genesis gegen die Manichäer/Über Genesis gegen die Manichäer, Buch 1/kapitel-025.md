@@ -1,0 +1,26 @@
+# Über Genesis gegen die Manichäer, Buch 1 – Kapitel 25: Die Schöpfungstage zeigen den Weg des Einzelnen vom Glauben über gute Werke zur ewigen Ruhe
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/ueber-genesis-gegen-die-manichaeer-buch-1#kapitel-c5de3723-7764-40ac-c2ba-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Auch bei jedem von uns lassen sich im guten Handeln und rechten Leben gleichsam diese sechs Tage unterscheiden, nach denen er auf Ruhe hoffen soll\. Am ersten Tag empfängt er das Licht des Glaubens, wenn er zunächst dem Sichtbaren glaubt\. Um dieses Glaubens willen hat sich der Herr herabgelassen, sichtbar zu erscheinen\. Am zweiten Tag erhält er gleichsam das Himmelsgewölbe der Unterweisung, durch das er zwischen Fleischlichem und Geistlichem unterscheidet, wie zwischen den unteren und den oberen Wassern[^bible-09ffe614-36b7-40d6-94dd-f560087940eb]\. Am dritten Tag sondert er seinen Geist von der Befleckung und den Wogen fleischlicher Versuchungen ab, wie trockenes Land vom aufgewühlten Meer abgesondert wird[^bible-97e3fac2-abf8-4a20-9da9-42329dc3df66], damit dieser die Früchte guter Werke hervorbringt und er nun sagen kann: „Mit dem Geist diene ich dem Gesetz Gottes, mit dem Fleisch aber dem Gesetz der Sünde\.[^bible-a95948fd-5f0e-43d1-b01b-017f88da6e02]“ Am vierten Tag gewinnt und unterscheidet er nun an diesem Himmelsgewölbe der Unterweisung geistliche Einsichten\. Er erkennt, was die unveränderliche Wahrheit ist, die wie die Sonne in der Seele leuchtet, und wie die Seele an dieser Wahrheit Anteil gewinnt und dem Körper Ordnung und Schönheit verleiht, so wie der Mond die Nacht erhellt[^bible-4aa02c3e-a7e0-4075-9dac-5be24d01a1db]\. Er erkennt auch, wie alle Sterne, nämlich die geistlichen Einsichten, im Dunkel dieses Lebens wie in der Nacht funkeln und leuchten\. Durch die Erkenntnis dieser Dinge gestärkt, soll er am fünften Tag beginnen, mitten im Treiben dieser heftig aufgewühlten Welt wie in den Wassern des Meeres tätig zu werden, zum Wohl der brüderlichen Gemeinschaft\. Aus körperlichen Handlungen, die zu eben diesem Meer, das heißt zu diesem Leben gehören, soll er sich regende Wesen mit lebenden Seelen hervorbringen[^bible-6013f257-cd92-44a0-b7e8-53e5dd98ada6], das heißt Werke, die lebenden Seelen nützen; ebenso große Meerestiere[^bible-0c2a7718-231f-4aaa-979f-b9a57e538e1d], das heißt überaus kraftvolle Taten, mit denen man die Wogen der Welt durchbricht und verachtet, und Vögel des Himmels[^bible-6013f257-cd92-44a0-b7e8-53e5dd98ada6], das heißt Stimmen, die Himmlisches verkünden\.
+
+ Am sechsten Tag aber soll er aus der Erde eine lebende Seele hervorbringen[^bible-7bba0aa5-d7cf-4916-860d-3c71eb7cabbd]\. Das heißt: Aus der Festigkeit seines Geistes selbst heraus, in dem er geistliche Früchte, nämlich gute Gedanken, trägt, soll er alle Regungen seiner Seele lenken, damit in ihm eine lebende Seele ist, die also der Vernunft und der Gerechtigkeit dient, nicht der Unbesonnenheit und der Sünde\. So soll auch der Mensch nach dem Bild und Gleichnis Gottes entstehen, männlich und weiblich[^bible-c40b9feb-8c1b-47b3-aa71-89e27927512d], das heißt Erkenntnis und Handeln\. Aus ihrer Verbindung soll geistliche Nachkommenschaft hervorgehen, die die Erde erfüllt[^bible-887618fa-b1a5-4eaa-8558-76d8ac8c0774], das heißt das Fleisch unterwirft; ebenso soll sich alles Übrige verwirklichen, was oben bereits über die Vollendung des Menschen gesagt wurde\. An diesen gleichsam sechs Tagen liegt der Abend jeweils in der Vollendung der einzelnen Werke und der Morgen im Beginn der folgenden\. Nach den sehr guten Werken[^bible-47e9c8b0-3717-4706-9e7b-76e7da978495] dieser gleichsam sechs Tage soll der Mensch auf ewige Ruhe hoffen und verstehen, was es bedeutet: „Gott ruhte am siebten Tag von allen seinen Werken\.[^bible-b5d1ef0f-f9a3-416e-a960-5d6b6da752a1]“ Denn er selbst wirkt in uns dieses Gute, er, der uns gebietet, es zu tun\. Und mit Recht heißt es, dass er selbst ruht, weil er selbst uns nach all diesen Werken Ruhe schenken wird\. Mit Recht sagt man ja, ein Hausherr baue ein Haus, obwohl er es nicht durch seine eigene Arbeit errichtet, sondern durch die Arbeit derer, die ihm dienen und denen er Befehle erteilt\. Ebenso sagt man mit Recht, er ruhe von seinen Werken, wenn er nach Vollendung des Baus denen, die seinen Befehlen unterstanden, gestattet, die Arbeit ruhen zu lassen und angenehme Muße zu genießen\.
+
+## Bibelverweise
+
+[^bible-09ffe614-36b7-40d6-94dd-f560087940eb]: Gen 1,7
+[^bible-0c2a7718-231f-4aaa-979f-b9a57e538e1d]: Gen 1,21
+[^bible-47e9c8b0-3717-4706-9e7b-76e7da978495]: Gen 1,31
+[^bible-4aa02c3e-a7e0-4075-9dac-5be24d01a1db]: Gen 1,16
+[^bible-6013f257-cd92-44a0-b7e8-53e5dd98ada6]: Gen 1,20
+[^bible-7bba0aa5-d7cf-4916-860d-3c71eb7cabbd]: Gen 1,24
+[^bible-887618fa-b1a5-4eaa-8558-76d8ac8c0774]: Gen 1,28
+[^bible-97e3fac2-abf8-4a20-9da9-42329dc3df66]: Gen 1,9–Gen 1,10
+[^bible-a95948fd-5f0e-43d1-b01b-017f88da6e02]: Röm 7,25
+[^bible-b5d1ef0f-f9a3-416e-a960-5d6b6da752a1]: Gen 2,2
+[^bible-c40b9feb-8c1b-47b3-aa71-89e27927512d]: Gen 1,26–Gen 1,27

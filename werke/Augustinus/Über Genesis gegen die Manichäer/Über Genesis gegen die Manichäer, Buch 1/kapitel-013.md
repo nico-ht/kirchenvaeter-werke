@@ -1,0 +1,19 @@
+# Über Genesis gegen die Manichäer, Buch 1 – Kapitel 13: Schädliche und unfruchtbare Pflanzen dienen nach dem Sündenfall zur Strafe, Bewährung und Mahnung
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/ueber-genesis-gegen-die-manichaeer-buch-1#kapitel-589f61e3-dc49-4eed-c2ae-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Und Gott sagte: ‚Die Erde soll Pflanzen zur Nahrung sprießen lassen, die Samen entsprechend ihrer Art und Gestalt tragen, und Fruchtbäume, die Früchte bringen und ihren Samen entsprechend ihrer Gestalt in sich tragen\.‘ Und so geschah es\. Und die Erde brachte Pflanzen zur Nahrung hervor, die Samen nach ihrer Art tragen, und Fruchtbäume, die Früchte bringen und ihren Samen entsprechend ihrer Gestalt in sich tragen, nach ihrer Art auf der Erde\. Und Gott sah, dass es gut war\. Und es wurde Abend, und es wurde Morgen: der dritte Tag\.[^bible-3be074f2-dede-478e-938c-f156f0f76717]“ Hier wenden sie gewöhnlich ein: „Wenn Gott befohlen hat, dass aus der Erde Pflanzen zur Nahrung und Fruchtbäume wachsen sollen[^bible-b3fe9496-b25f-4d8d-a12f-f38de43e4d23], wer hat dann befohlen, dass so viele dornige oder giftige Pflanzen wachsen, die nicht zur Nahrung taugen, und so viele Bäume, die keine Frucht tragen?“ Ihnen muss man so antworten, dass man Unwürdigen keine Geheimnisse enthüllt und ihnen auch nicht zeigt, wie das Gesagte Zukünftiges im Bild vorwegnimmt\. Man muss also sagen, dass die Erde wegen der Sünde des Menschen verflucht wurde, sodass sie Dornen hervorbringen sollte[^bible-17b04536-8576-4ce2-9bd1-b3b64c20b3b4]\. Nicht, damit sie selbst die Strafe empfände, denn sie hat keine Empfindung, sondern damit sie den Menschen die Schuld ihrer Sünde immer vor Augen hielte\. So sollten sie gemahnt werden, sich endlich von den Sünden abzuwenden und sich Gottes Geboten zuzuwenden\. Die giftigen Pflanzen aber wurden zur Strafe oder zur Bewährung der Sterblichen geschaffen; und all dies wegen der Sünde, denn nach der Sünde sind wir sterblich geworden\. Durch die fruchtlosen Bäume aber werden die Menschen verhöhnt, damit sie erkennen, wie beschämend es ist, auf Gottes Acker[^bible-d7071ed5-c9fa-4af4-bed6-aa21a1db0100], das heißt in der Kirche, ohne die Frucht guter Werke zu sein\. Und sie sollen fürchten, dass Gott sie verlässt, weil auch sie selbst fruchtlose Bäume auf ihren Äckern sich selbst überlassen und ihnen keinerlei Pflege zukommen lassen\. Für die Zeit vor der Sünde des Menschen steht also nicht geschrieben, dass die Erde etwas anderes hervorbrachte als Pflanzen zur Nahrung und fruchttragende Bäume[^bible-d574832c-64e5-4c2c-af0c-007b4a903e93]\. Nach der Sünde aber sehen wir vieles aus der Erde wachsen, was stachlig und fruchtlos ist, wie ich glaube, aus dem Grund, den wir genannt haben\. Denn so wird zum ersten Menschen gesprochen, nachdem er gesündigt hat: „Bei all deinen Arbeiten wird die Erde für dich verflucht sein; in Kummer und unter Seufzen wirst du von ihr essen, alle Tage deines Lebens\. Dornen und Disteln wird sie dir hervorbringen, und du wirst dich von den Pflanzen deines Ackers ernähren\. Im Schweiß deines Angesichts wirst du dein Brot essen, bis du in die Erde zurückkehrst, aus der du genommen bist; denn Erde bist du, und in die Erde wirst du gehen\.[^bible-eab584e4-ebb1-421c-b32f-338214d8fdcd]“
+
+## Bibelverweise
+
+[^bible-17b04536-8576-4ce2-9bd1-b3b64c20b3b4]: Gen 3,17–Gen 3,18
+[^bible-3be074f2-dede-478e-938c-f156f0f76717]: Gen 1,11–Gen 1,13
+[^bible-b3fe9496-b25f-4d8d-a12f-f38de43e4d23]: Gen 1,11
+[^bible-d574832c-64e5-4c2c-af0c-007b4a903e93]: Gen 1,12
+[^bible-d7071ed5-c9fa-4af4-bed6-aa21a1db0100]: 1Kor 3,9
+[^bible-eab584e4-ebb1-421c-b32f-338214d8fdcd]: Gen 3,17–Gen 3,19

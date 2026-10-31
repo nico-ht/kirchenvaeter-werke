@@ -1,0 +1,17 @@
+# Über Genesis gegen die Manichäer, Buch 1 – Kapitel 20: Geistlich bedeutet die Herrschaft über die Tiere, die eigenen Seelenregungen der Vernunft zu unterstellen
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/ueber-genesis-gegen-die-manichaeer-buch-1#kapitel-b6f70e79-1f64-498d-c2b5-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Auch das Wort, das ihnen gesagt wurde: „Habt Macht über die Fische des Meeres, die Vögel des Himmels und alles Kriechende, das auf der Erde kriecht[^bible-303b7c80-9657-48a0-91a0-b1eb40c4d3ec]“, lässt sich mit Recht auch geistlich verstehen\. Dabei bleibt die Deutung unberührt, nach der der Mensch offenkundig durch seine Vernunft über alle diese Tiere herrscht\. Geistlich verstanden bedeutet es, dass wir alle Empfindungen und Regungen unserer Seele, in denen wir diesen Tieren gleichen, unterworfen halten und sie durch Selbstbeherrschung und Maßhalten beherrschen sollen\. Werden diese Regungen nämlich nicht gelenkt, brechen sie hervor und führen zu den abscheulichsten Gewohnheiten\. Sie reißen uns durch vielfältige, verderbliche Vergnügungen mit sich und machen uns jeder Art von wilden Tieren ähnlich\. Werden sie dagegen gelenkt und unterworfen, werden sie ganz zahm und leben einträchtig mit uns\. Denn die Regungen unserer Seele sind uns nicht fremd\. Auch sie nähren sich mit uns von der Erkenntnis der Vernunftgründe, der besten Lebensführung und des ewigen Lebens wie von samentragenden Kräutern, fruchttragenden Bäumen und grünen Kräutern[^bible-9e8f145e-efb2-4ec9-ba27-589aa6e60484]\. Darin besteht das glückliche und ruhige Leben des Menschen: Alle seine Regungen stimmen mit der Vernunft und der Wahrheit überein; dann heißen sie Freuden und heilige, keusche und gute Liebesregungen\. Stimmen sie aber nicht mit ihnen überein, so zerreißen und zerrütten sie doch, wenn man sie nachlässig gewähren lässt, die Seele und machen das Leben überaus elend; dann heißen sie leidenschaftliche Erregungen, Begierden und böse Gelüste\. Nun ist uns geboten, sie mit aller Mühe, die wir aufbringen können, in uns zu kreuzigen[^bible-77c04225-4364-4c53-bad5-766fa3155f77], bis der Tod im Sieg verschlungen wird[^bible-f39d41db-89fa-4172-83c2-d24eddd073cb]\. Denn der Apostel sagt: „Die aber Jesus Christus gehören, haben ihr Fleisch mit seinen leidenschaftlichen Erregungen und Gelüsten gekreuzigt\.[^bible-77c04225-4364-4c53-bad5-766fa3155f77]“ Schon daran muss nämlich jeder erkennen, dass dies nicht fleischlich zu verstehen ist: In der Genesis werden grüne Kräuter und fruchttragende Bäume allen Arten von wilden Tieren, allen Vögeln und allen Schlangen als Nahrung gegeben[^bible-9e8f145e-efb2-4ec9-ba27-589aa6e60484], während wir doch sehen, dass Löwen, Habichte, Milane und Adler sich nur von Fleisch ernähren und andere Tiere dafür töten\. Das gilt, wie ich glaube, auch für manche Schlangen, die in sandigen und öden Gegenden leben, wo weder Baum noch Kraut wächst\.
+
+## Bibelverweise
+
+[^bible-303b7c80-9657-48a0-91a0-b1eb40c4d3ec]: Gen 1,28
+[^bible-77c04225-4364-4c53-bad5-766fa3155f77]: Gal 5,24
+[^bible-9e8f145e-efb2-4ec9-ba27-589aa6e60484]: Gen 1,29–Gen 1,30
+[^bible-f39d41db-89fa-4172-83c2-d24eddd073cb]: 1Kor 15,54
