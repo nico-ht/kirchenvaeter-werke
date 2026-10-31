@@ -1,0 +1,29 @@
+# Isaak oder die Seele – Kapitel 1: Christus als wahrer Isaak: Die Seele soll aus seiner Weisheit schöpfen und körperliche Lust zügeln
+
+Autor: Ambrosius von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/ambrosius-isaak-oder-die-seele#kapitel-342586f1-a56b-4a98-c286-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+An seinem Vater werden uns Herkunft und Gnade des heiligen Isaak hinreichend deutlich\. Zu seinem Ruhm gereicht es in jeder Hinsicht, dass er bei seiner Geburt seinem Vater Abraham, einem so großen und vorbildlichen Mann, zum Lohn wurde\. Das ist auch nicht verwunderlich, denn in ihm waren die Geburt und das Leiden des Herrn schon im Voraus abgebildet\. Eine unfruchtbare Greisin gebar ihn aufgrund der Verheißung Gottes[^bible-7c01f208-66e1-462b-a2d1-4e34dd5e737e], damit wir glauben, dass Gott auch bewirken kann, dass eine Jungfrau gebiert[^bible-04f5a526-292f-4a9f-a5e9-5ae9868fede7]\. Auch wurde er als einziger Sohn zur Schlachtung dargebracht: Er sollte seinem Vater nicht verloren gehen und dennoch das Opfer erfüllen\.[^bible-d12b2947-a05c-4f4b-8c7c-7f79a2b58ef3] So bezeichnet schon sein Name das Vorausbild und die Gnade; denn Isaak bedeutet auf Lateinisch Lachen, und das Lachen ist ein Zeichen der Freude\. Wer aber weiß nicht, dass der die Freude aller ist, der den Schrecken vor dem furchtbaren Tod bezwungen, die Trauer darüber hinweggenommen hat und für alle zur Vergebung der Sünden geworden ist? So wurde jener beim Namen genannt, dieser aber bezeichnet; jener wurde dargestellt, dieser aber angekündigt\. Er ist es, den schon damals die Sklavin verfolgte; er ist es, um dessentwillen schon damals gesagt wurde: „Vertreibe die Sklavin; denn der Sohn der Sklavin wird nicht zusammen mit meinem Sohn Isaak erben\.[^bible-085b5805-745f-4d25-8b0c-49aefa635abd]“ Er ist es, für den der Vater eine Braut aus der Fremde gewann\.[^bible-c0fa7056-f7e2-4e4a-a8f4-34d05e4f3076] Er ist mild, demütig und sanftmütig\.[^bible-7bfcaf55-511a-4fb8-bd61-22a006a6157d] Als Rebekka kam[^bible-90aac6df-7383-4a54-ba20-2fa6d630f152], das heißt die Geduld, ging er aufs Feld hinaus, um sich abzusondern\.[^bible-90aac6df-7383-4a54-ba20-2fa6d630f152] Denn es ist Sache des Weisen, sich von den Vergnügungen des Fleisches zu trennen, die Seele zu erheben und vom Körper wegzuführen; das nämlich heißt, sich als Menschen zu erkennen\. In der Sprache der Chaldäer heißt er Enos, auf Lateinisch Mensch\. Enos aber ist der, der es auf sich nahm und hoffte, Gott anzurufen[^bible-e55abff0-effe-47b1-952e-1dc2bffbb3ea]; deshalb glaubt man, dass er entrückt wurde\.[^bible-412a9332-ff97-4d09-8caf-a8b3b379d3ff] Als Mensch erscheint demnach nur, wer auf Gott hofft\. Wie die klare Deutung der Wahrheit zeigt, lebt aber, wer auf Gott hofft, nicht auf Erden, sondern hängt, gleichsam entrückt, Gott an\.
+
+Gut ist also der wahre Isaak, denn er ist voller Gnade und die Quelle der Freude\. Zu dieser Quelle kam Rebekka, um ihren Krug mit Wasser zu füllen\.[^bible-b48518a4-816f-46f2-990f-0b027af2f9cb] Denn die Schrift sagt: „Sie stieg zur Quelle hinab, füllte ihren Krug und stieg wieder herauf\.[^bible-b48518a4-816f-46f2-990f-0b027af2f9cb]“ So stieg die Kirche oder die Seele zur Quelle der Weisheit hinab, um ihr Gefäß ganz zu füllen und die Lehren reiner Weisheit zu schöpfen, welche die Juden aus der strömenden Quelle nicht schöpfen wollten\. Wer diese Quelle ist? Höre, was er sagt: „Mich haben sie verlassen, die Quelle lebendigen Wassers\.[^bible-f1a344c3-eadc-4371-9e1f-becd9864b679]“ Zu dieser Quelle eilte die dürstende Seele der Propheten, wie auch David sagt: „Meine Seele dürstete nach dem lebendigen Gott\.[^bible-7cebb497-0791-4a0b-a966-bb57a6fbac68]“ Sie wollte ihren Durst aus der Fülle der Gotteserkenntnis stillen und das Blut der Torheit mit den Fluten geistlicher Ströme abwaschen\. Denn dies ist der Blutfluss[^bible-9287c8ae-ece8-435e-9ee8-b2da816943df], auf den das Gesetz hinweist und der aufgedeckt wird, wenn sich ein Mann mit einer Frau während der Tage ihrer Blutung vereinigt\.[^bible-9287c8ae-ece8-435e-9ee8-b2da816943df] Die Frau steht für körperliche Lust und Verlockungen\. Hüte dich also davor, dass die Kraft deines Geistes durch eine Art Beischlaf mit der körperlichen Lust nachgibt und erschlafft, sich ganz in ihren Umarmungen auflöst und ihre Quelle öffnet\. Diese muss durch angestrengte Sammlung und vernünftige Überlegung verschlossen und umzäunt bleiben; denn es heißt: „Ein verschlossener Garten, eine versiegelte Quelle\.[^bible-4cca8139-0102-4f48-ae37-5b4abfd7605c]“ Wenn nämlich die Kraft des Geistes erschlafft, strömen die Regungen körperlicher Lust hervor; sie sind überaus verderblich und stürzen sich in ein Begehren, das große Gefahr birgt\. Hätte die umsichtige Wachsamkeit des lebendigen Geistes standgehalten, hätte sie diese Regungen gezügelt\.
+
+## Bibelverweise
+
+[^bible-04f5a526-292f-4a9f-a5e9-5ae9868fede7]: Lk 1,34–Lk 1,35
+[^bible-085b5805-745f-4d25-8b0c-49aefa635abd]: Gen 21,10
+[^bible-412a9332-ff97-4d09-8caf-a8b3b379d3ff]: Gen 5,24
+[^bible-4cca8139-0102-4f48-ae37-5b4abfd7605c]: Hld 4,12
+[^bible-7bfcaf55-511a-4fb8-bd61-22a006a6157d]: Mt 11,29
+[^bible-7c01f208-66e1-462b-a2d1-4e34dd5e737e]: Gen 21,1–Gen 21,3
+[^bible-7cebb497-0791-4a0b-a966-bb57a6fbac68]: Ps 41,3
+[^bible-90aac6df-7383-4a54-ba20-2fa6d630f152]: Gen 24,63–Gen 24,64
+[^bible-9287c8ae-ece8-435e-9ee8-b2da816943df]: Lev 20,18
+[^bible-b48518a4-816f-46f2-990f-0b027af2f9cb]: Gen 24,16
+[^bible-c0fa7056-f7e2-4e4a-a8f4-34d05e4f3076]: Gen 24,3–Gen 24,4
+[^bible-d12b2947-a05c-4f4b-8c7c-7f79a2b58ef3]: Gen 22,2; Gen 22,9–Gen 22,13
+[^bible-e55abff0-effe-47b1-952e-1dc2bffbb3ea]: Gen 4,26
+[^bible-f1a344c3-eadc-4371-9e1f-becd9864b679]: Jer 2,13
