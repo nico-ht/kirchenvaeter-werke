@@ -1,0 +1,32 @@
+# 23\. Homilie über Genesis – Kapitel 6: Gottes Sorge um unser Heil macht Nachlässigkeit unentschuldbar und fordert tägliche Selbstprüfung
+
+Autor: Johannes Chrysostomus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/chrysostomos/23-homilie-ueber-genesis#kapitel-a81f8c1a-b90e-484c-243d-08df34daf189).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Darum bitte ich euch: Bedenkt dies und bewegt es immer wieder in eurem Geist; gebt niemals dem Teufel die Schuld, sondern unserem trägen Willen\. Das sage ich nicht, weil ich ihn von jeder Anklage freisprechen möchte\. Keineswegs\! Denn er kommt wie ein Löwe, um Beute zu reißen, brüllt und sucht, wen er verschlingen kann[^bible-f78c1c8d-8cfc-498c-9755-25ff5ec23381]\. Vielmehr will ich auch uns besser schützen, damit wir uns nicht für schuldlos halten, wenn wir so leicht zum Bösen überlaufen, und nicht jene haltlosen Worte sagen: „Warum hat Gott ihn, obwohl er so böse ist, gewähren lassen, sodass er uns zu Fall bringen und niederwerfen kann?“ Solche Worte wären ein Zeichen größter Undankbarkeit\. Bedenke vielmehr bei dir selbst: Gerade deshalb hat er ihn bestehen lassen, damit wir, von Furcht angetrieben und in Erwartung des feindlichen Angriffs, große Wachsamkeit und unablässige Nüchternheit zeigen und uns dabei alle Mühe um die Tugend durch die Hoffnung auf Lohn und auf die Belohnung mit jenen ewigen, unaussprechlichen Gütern erleichtern\. Und warum wunderst du dich, dass er den Teufel zu diesem Zweck bestehen ließ, weil er für unser Heil sorgt, uns aus unserer Nachlässigkeit aufrüttelt und uns Gelegenheit gibt, Siegeskränze zu erringen? Selbst die Hölle hat er deshalb bereitet, damit die Furcht vor der Strafe und die Unerträglichkeit der Qual uns zum Reich drängen\. Siehst du, wie viele Wege die Menschenliebe des Herrn findet? Wie er alles tut und ins Werk setzt, um die von ihm Geschaffenen nicht nur zu retten, sondern sie auch der unaussprechlichen Güter zu würdigen? Deshalb hat er uns auch den freien Willen geschenkt und die Erkenntnis von Bosheit und Tugend in unsere Natur und unser Gewissen gelegt\. Deshalb hat er auch zugelassen, dass der Teufel besteht, und mit der Hölle gedroht, damit wir die Hölle nicht erfahren, sondern das Reich erlangen\.
+
+Und warum wunderst du dich, dass er all dies und unzähliges andere zu diesem Zweck ins Werk gesetzt hat? Er, der im Schoß des Vaters ist[^bible-9845eb5e-728c-4425-87bf-71e9bbc7651e], nahm es auf sich, die Gestalt eines Sklaven anzunehmen[^bible-e62fc2bf-7f76-490c-9769-fc3faa17646f] und auch alles andere zu ertragen, was zum körperlichen Leben gehört\. Er nahm es auf sich, von einer Frau geboren zu werden[^bible-c4168fef-68a1-4049-b634-6faff6f3e6bb], von einer Jungfrau zur Welt gebracht zu werden[^bible-eb19b0bc-665d-418f-8282-aadbb5bb5368], neun Monate lang im Mutterleib getragen und in Windeln gewickelt zu werden[^bible-c423030e-203f-4678-b9e8-7967b2d5f60b]\. Er ließ zu, dass man Josef, den Verlobten Marias, für seinen Vater hielt[^bible-f5f6574d-ed11-49cd-b3a9-8ba2feb8c05d]\. Er nahm es auf sich, allmählich heranzuwachsen[^bible-39240215-52a5-4398-8b4b-d9d24d9438dd], beschnitten zu werden[^bible-0145c5ef-83ba-47f3-8dab-388474b49bf4], ein Opfer darzubringen[^bible-8e4c8643-6b23-4bab-a5b9-a286f4bf1eae], Hunger[^bible-e86be704-4b4c-476b-9153-7fcfa13c83e0] und Durst zu leiden[^bible-38ababbb-4be3-4846-99df-2d5b20f8b659], müde zu werden[^bible-9a373ab0-f5c4-4bb6-8563-caab45536bd5] und schließlich auch den Tod zu erdulden[^bible-0db78c88-3500-4cef-ac54-39bdd420d0b3], und zwar nicht irgendeinen Tod, sondern den, der als schändlich gilt: Ich meine den Kreuzestod[^bible-0db78c88-3500-4cef-ac54-39bdd420d0b3]\. All das nahm um unseretwillen und um unseres Heiles willen der Schöpfer des Alls auf sich, der Unveränderliche, der alles aus dem Nichtsein ins Dasein geführt hat, der auf die Erde blickt und sie zum Beben bringt[^bible-e5b5b45b-3225-4772-9f92-17df6daa6d8d]\. Nicht einmal die Cherubim, jene körperlosen Mächte, können den blitzenden Glanz seiner Herrlichkeit ansehen\. Vielmehr zeigen sie uns dieses Wunder, indem sie ihre Gesichter abwenden und ihre Flügel davorhalten[^bible-bac27983-f537-42c3-81dd-8a92e34fe558]\. Ihn preisen unablässig Engel, Erzengel und Myriaden über Myriaden[^bible-c2dcd4c1-9522-4aa8-88c0-35fc67eb5763]\. Er selbst nahm es auf sich, um unseretwillen und um unseres Heiles willen Mensch zu werden, und bahnte uns den Weg zu einem Leben in höchster Tugend\. Durch alles, was er selbst durchgemacht hat, nachdem er dieselbe Natur wie wir angenommen hatte, gab er uns eine hinreichende Unterweisung\. Welche Entschuldigung bleibt uns also noch, wenn wir nach allem, was zu unserem Heil geschehen ist, all dies vergeblich sein lassen und durch unsere Nachlässigkeit unser Heil preisgeben? Deshalb bitte ich euch: Seid wachsam und folgt nicht einfach den Gewohnheiten der anderen, sondern prüft jeden Tag gründlich euer eigenes Leben und erkennt, worin ihr gesündigt und was ihr richtig getan habt\. So wollen wir uns dort bessern, wo wir gefehlt haben, damit wir auch den Beistand von oben gewinnen, Gott gefallen wie dieser Gerechte und das Himmelreich erlangen durch die Gnade und Menschenliebe unseres Herrn Jesus Christus\. Mit ihm sei dem Vater und dem Heiligen Geist Herrlichkeit, Ehre und Macht, jetzt und immer und in alle Ewigkeit\. Amen\.
+
+## Bibelverweise
+
+[^bible-0145c5ef-83ba-47f3-8dab-388474b49bf4]: Lk 2,21
+[^bible-0db78c88-3500-4cef-ac54-39bdd420d0b3]: Phil 2,8
+[^bible-38ababbb-4be3-4846-99df-2d5b20f8b659]: Joh 19,28
+[^bible-39240215-52a5-4398-8b4b-d9d24d9438dd]: Lk 2,40
+[^bible-8e4c8643-6b23-4bab-a5b9-a286f4bf1eae]: Lk 2,24
+[^bible-9845eb5e-728c-4425-87bf-71e9bbc7651e]: Joh 1,18
+[^bible-9a373ab0-f5c4-4bb6-8563-caab45536bd5]: Joh 4,6
+[^bible-bac27983-f537-42c3-81dd-8a92e34fe558]: Jes 6,2
+[^bible-c2dcd4c1-9522-4aa8-88c0-35fc67eb5763]: Offb 5,11
+[^bible-c4168fef-68a1-4049-b634-6faff6f3e6bb]: Gal 4,4
+[^bible-c423030e-203f-4678-b9e8-7967b2d5f60b]: Lk 2,7
+[^bible-e5b5b45b-3225-4772-9f92-17df6daa6d8d]: Ps 103,32
+[^bible-e62fc2bf-7f76-490c-9769-fc3faa17646f]: Phil 2,7
+[^bible-e86be704-4b4c-476b-9153-7fcfa13c83e0]: Mt 4,2
+[^bible-eb19b0bc-665d-418f-8282-aadbb5bb5368]: Mt 1,23
+[^bible-f5f6574d-ed11-49cd-b3a9-8ba2feb8c05d]: Lk 1,27; Lk 3,23
+[^bible-f78c1c8d-8cfc-498c-9755-25ff5ec23381]: 1Petr 5,8
