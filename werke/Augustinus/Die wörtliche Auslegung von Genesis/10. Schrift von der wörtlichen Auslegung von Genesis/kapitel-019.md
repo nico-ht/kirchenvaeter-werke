@@ -1,0 +1,17 @@
+# 10\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 19: Weil Christus anders als Levi in Abraham keinen Zehnten gab, stammt seine Seele nicht aus Adam
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/10-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-19359daf-809b-4de5-c3da-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+In dem Brief, der den Titel „An die Hebräer“ trägt, gibt es eine Stelle, die eine sorgfältige Betrachtung besonders verdient\. Denn der Verfasser unterscheidet das Priestertum Christi vom Priestertum Levis anhand Melchisedechs, in dem das künftige Priestertum Christi bereits vorgebildet war\. Dabei sagt er: „Seht also, wie groß dieser ist, dem sogar der Patriarch Abraham den zehnten Teil der Erstlingsgaben gab\. Diejenigen unter den Söhnen Levis, die das Priestertum empfangen, haben nach dem Gesetz den Auftrag, vom Volk den Zehnten zu erheben, also von ihren Brüdern, obwohl auch diese aus den Lenden Abrahams hervorgegangen sind\. Der aber, der nicht aus ihrem Geschlecht stammt, erhob von Abraham den Zehnten und segnete den, der die Verheißung hatte\. Unbestreitbar wird aber der Geringere vom Größeren gesegnet\. Hier empfangen sterbliche Menschen den Zehnten, dort aber einer, der bezeugt, dass er lebt\. Und, wie man sagen muss, wurde wegen Abrahams auch von Levi, der den Zehnten empfängt, der Zehnte erhoben; denn er war noch in den Lenden seines Vaters\.[^bible-1b9e66e6-f6a4-4da8-872b-80339970adc8]“ Wenn also auch dies zeigt, wie weit das Priestertum Christi das levitische Priestertum überragt, nämlich dass Christus als Priester durch den vorgebildet wurde, der von Abraham den Zehnten erhob, in dem auch von Levi selbst der Zehnte erhoben wurde[^bible-0b71d558-c0aa-4375-b113-d533f1620b2d], dann hat jener gewiss von Christus keinen Zehnten erhoben\. Wenn aber von Levi deshalb der Zehnte erhoben wurde, weil er in den Lenden Abrahams war[^bible-6fdef992-c684-4bfe-977a-a0f88dbb46a0], dann wurde von Christus deshalb kein Zehnter erhoben, weil er nicht in den Lenden Abrahams war\. Wenn wir nun aber die Aussage, dass Levi in Abraham war[^bible-31071ae1-74b4-4021-a7cb-9d0678a6c7ce], nicht auf die Seele, sondern nur auf das Fleisch beziehen, dann war dort auch Christus; denn auch Christus stammt dem Fleisch nach aus Abrahams Nachkommenschaft\. Also wurde auch von ihm der Zehnte erhoben\. Warum wird dann als Beleg für den großen Unterschied zwischen dem Priestertum Christi und dem Priestertum Levis angeführt, dass Melchisedech von Levi den Zehnten erhob, als dieser in den Lenden Abrahams war[^bible-6fdef992-c684-4bfe-977a-a0f88dbb46a0], wenn doch auch Christus dort war und somit von beiden gleichermaßen der Zehnte erhoben wurde? Wir müssen also annehmen, dass Christus in irgendeiner Hinsicht nicht dort war\. Wer aber wird bestreiten, dass er dem Fleisch nach dort war? Also war er der Seele nach nicht dort\. Die Seele Christi ist also nicht durch Fortpflanzung aus Adams Übertretung hervorgegangen; sonst wäre auch sie dort gewesen\.
+
+## Bibelverweise
+
+[^bible-0b71d558-c0aa-4375-b113-d533f1620b2d]: Hebr 7,6; Hebr 7,9
+[^bible-1b9e66e6-f6a4-4da8-872b-80339970adc8]: Hebr 7,4–Hebr 7,10
+[^bible-31071ae1-74b4-4021-a7cb-9d0678a6c7ce]: Hebr 7,10
+[^bible-6fdef992-c684-4bfe-977a-a0f88dbb46a0]: Hebr 7,9–Hebr 7,10

@@ -1,0 +1,18 @@
+# 10\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 5: Hesekiels Lebenshauch ist ein Zeichen, kein Beleg für den Ursprung der Seele aus körperlichen Elementen
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/10-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-31f14e02-93a2-4825-c3cc-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Dafür also, dass Gott die Seelen aus Engeln gleichsam als ihren Eltern erschafft, ist mir kein Zeugnis aus den kanonischen Büchern bekannt\. Noch viel weniger kenne ich demnach ein Zeugnis dafür, dass er sie aus den körperlichen Elementen der Welt erschafft\. Allenfalls könnte man sich darauf berufen, dass beim Propheten Hesekiel, als die Auferstehung der Toten vor Augen geführt wird, nach der Wiederherstellung der Körper der Geist aus den vier Winden des Himmels herbeigerufen wird, damit sie durch sein Wehen lebendig werden und sich erheben\.[^bible-167d2a7b-7b8e-4d7c-9872-cbfba30e15bf] Denn so steht es geschrieben: „Und der Herr sagte zu mir:[^bible-e07b28e7-b011-42ad-866b-ff0c064f128d] ‚Weissage über den Geist; weissage, Menschensohn, und sage zum Geist: So spricht der Herr: Komm aus den vier Windrichtungen des Himmels und hauche diesen Toten Atem ein, damit sie leben\.[^bible-e07b28e7-b011-42ad-866b-ff0c064f128d]‘ Und ich weissagte, wie der Herr mir geboten hatte, und der Geist des Lebens trat in sie ein; sie wurden wieder lebendig und stellten sich auf ihre Füße, eine sehr große Schar\.[^bible-1dde1f3b-fa7e-4c94-be75-007396bfd268]“ Hier scheint mir prophetisch angedeutet zu sein, dass die Menschen nicht nur auf jenem Feld, auf dem dies vor Augen geführt wurde, sondern auf dem ganzen Erdkreis auferstehen werden\. Dafür stand bildhaft der Hauch aus den vier Weltgegenden\.[^bible-e07b28e7-b011-42ad-866b-ff0c064f128d] Auch jener Hauch aus dem Körper des Herrn war ja nicht die Substanz des Heiligen Geistes, als er die Jünger anhauchte[^bible-d356f0a5-f3b0-46e1-afd6-4a4a9eb7205f] und sagte: „Empfangt den Heiligen Geist\.[^bible-d356f0a5-f3b0-46e1-afd6-4a4a9eb7205f]“ Vielmehr wurde damit angezeigt, dass der Heilige Geist auch von ihm selbst ausgeht, so wie jener Hauch aus seinem Körper hervorging\.[^bible-d356f0a5-f3b0-46e1-afd6-4a4a9eb7205f] Die Welt ist aber nicht so mit Gott zur Einheit der Person verbunden wie jenes Fleisch mit seinem Wort, dem eingeborenen Sohn\. Deshalb können wir nicht sagen, die Seele stamme in derselben Weise aus der Substanz Gottes, wie jener Hauch aus den vier Winden[^bible-e07b28e7-b011-42ad-866b-ff0c064f128d] aus der Natur der Welt entstanden ist\. Doch ich meine, dass dieser Hauch etwas anderes war als das, was er bezeichnete\. Das lässt sich am Beispiel des Hauches, der aus dem Körper des Herrn hervorging[^bible-d356f0a5-f3b0-46e1-afd6-4a4a9eb7205f], richtig verstehen, selbst wenn der Prophet Hesekiel an jener Stelle in einer bildhaften Offenbarung nicht die Auferstehung des Fleisches voraussah, wie sie im eigentlichen Sinne geschehen wird, sondern die unerwartete Wiederherstellung eines Volkes, für das man keine Hoffnung mehr hatte, durch den Geist des Herrn, der den Erdkreis erfüllt hat[^bible-82e85601-5881-4c4f-b6fc-341d68c40044]\.
+
+## Bibelverweise
+
+[^bible-167d2a7b-7b8e-4d7c-9872-cbfba30e15bf]: Hes 37,8–Hes 37,10
+[^bible-1dde1f3b-fa7e-4c94-be75-007396bfd268]: Hes 37,10
+[^bible-82e85601-5881-4c4f-b6fc-341d68c40044]: Weish 1,7
+[^bible-d356f0a5-f3b0-46e1-afd6-4a4a9eb7205f]: Joh 20,22
+[^bible-e07b28e7-b011-42ad-866b-ff0c064f128d]: Hes 37,9
