@@ -1,0 +1,25 @@
+# Ermutigung zum Märtyrertod – Kapitel 12: Im Märtyrertod bewährt sich die zugesagte Kreuzesnachfolge: Wer sein Leben für Christus verliert, rettet es
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/ermutigung-zum-maertyrertod#kapitel-06ded5b6-0c82-4a3a-792a-08dd11809e0c).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wir müssen uns auch bewusst machen, dass wir die sogenannten Bündnisse Gottes unter bestimmten Bedingungen empfangen haben\. Diese sind in den Vereinbarungen festgehalten, die wir mit ihm getroffen haben, als wir uns erstmals zu einem christlichen Leben verpflichteten\. Zu den Bedingungen unserer Vereinbarung mit Gott gehörte die gesamte Lebensweise, die das Evangelium mit den Worten darlegt: „Wenn jemand mir folgen will, soll er sich selbst verleugnen, sein Kreuz auf sich nehmen und mir folgen\. Denn wer sein Leben retten will, wird es verlieren, und wer sein Leben um meinetwillen verliert, wird es retten\.[^bible-f4fec217-914a-45ef-b2d9-075bf890d29d]“ Und oft hat uns Begeisterung erfüllt, wenn wir diese Worte hörten: „Denn was wird es einem Menschen nützen, wenn er die ganze Welt gewinnt und seine eigene Seele verliert? Oder was wird ein Mensch als Gegenwert für seine Seele geben? Denn wenn der Menschensohn in der Herrlichkeit seines Vaters mit seinen Engeln kommt, wird er dann jedem nach seinem Tun vergelten\.[^bible-c90827bd-7353-4165-a623-22eb7e9c88cd]“ Dass man sich selbst verleugnen, sein Kreuz auf sich nehmen und Jesus folgen muss[^bible-19d41ff8-dc08-48b2-ae31-37eb4095eec9], hat nicht nur Matthäus aufgezeichnet, dessen Text wir bisher zitiert haben, sondern auch Lukas und Markus\. Hört die Worte des Lukas: „Er sagte zu ihnen allen: ‚Wenn jemand mir folgen will, soll er sich selbst verleugnen, sein Kreuz auf sich nehmen und mir folgen\. Denn wer sein Leben retten will, wird es verlieren; wer aber sein Leben um meinetwillen verliert, wird es retten\. Denn was wird es einem Menschen nützen, wenn er die ganze Welt gewinnt und dabei sich selbst verliert oder einbüßt?‘[^bible-6253f33a-37a5-4372-bf3d-09cc6f28775c] “ Markus sagt: „Er rief die Menge zusammen mit seinen Jüngern zu sich und sagte zu ihnen: ‚Wenn jemand mir folgen will, soll er sich selbst verleugnen, sein Kreuz auf sich nehmen und mir folgen\. Denn wer sein Leben retten will, wird es verlieren; und wer es um des Evangeliums willen verliert, wird es retten\. Doch was wird es einem Menschen nützen, wenn er die ganze Welt gewinnt und seine eigene Seele verliert? Denn was wird ein Mensch als Gegenwert für seine Seele geben?‘[^bible-74c81829-9db6-4d74-91a2-9d971dcc96ea] “ Schon längst hätten wir uns selbst verleugnen[^bible-bdb5c572-6ef5-425b-8509-bdb6fc6335db] und dabei sagen sollen: „Nicht mehr ich lebe\.[^bible-e7571f07-0fea-44bf-967c-4ccee07c251d]“ Jetzt zeigt sich, ob wir unser Kreuz auf uns genommen haben und Jesus gefolgt sind[^bible-bdb5c572-6ef5-425b-8509-bdb6fc6335db] oder nicht\. Das ist geschehen, wenn Christus in uns lebt[^bible-e7571f07-0fea-44bf-967c-4ccee07c251d]\. Wenn wir unsere Seele retten wollen[^bible-058dc2da-9e9b-4ed5-aa60-86f33f2fdd01], um sie als etwas Besseres als eine Seele zurückzuerhalten, dann lasst sie uns verlieren[^bible-058dc2da-9e9b-4ed5-aa60-86f33f2fdd01], selbst durch den Märtyrertod\. Denn wenn wir sie um Christi willen verlieren[^bible-058dc2da-9e9b-4ed5-aa60-86f33f2fdd01] und sie ihm zu Füßen werfen, indem wir für ihn sterben, gewinnen wir ihr wahres Heil\. Tun wir aber das Gegenteil, dann werden wir hören, dass es einem Menschen nichts nützt, die ganze materielle Welt zu gewinnen und dafür sich selbst zu verlieren oder einzubüßen[^bible-40dc7e59-6518-45b1-b709-317f51893145]\. Hat ein Mensch seine eigene Seele erst verloren oder eingebüßt, kann er, selbst wenn er die ganze Welt gewinnt, nichts als Gegenwert für seine verlorene Seele bezahlen\.[^bible-933bc81f-97a7-4ebf-9b6f-03047e50c817] Denn die nach Gottes Bild geschaffene Seele[^bible-8f9a8eba-144e-444d-8254-aab8032e3171] ist kostbarer als alles Materielle\. Nur einer hat den Preis für unsere zuvor verlorene Seele bezahlen können: der uns mit seinem eigenen kostbaren Blut erkauft hat[^bible-99e851ba-9dd0-4db9-afdc-b43a96460c9d]\.
+
+## Bibelverweise
+
+[^bible-058dc2da-9e9b-4ed5-aa60-86f33f2fdd01]: Mt 16,25
+[^bible-19d41ff8-dc08-48b2-ae31-37eb4095eec9]: Mt 16,24; Mk 8,34; Lk 9,23
+[^bible-40dc7e59-6518-45b1-b709-317f51893145]: Lk 9,25
+[^bible-6253f33a-37a5-4372-bf3d-09cc6f28775c]: Lk 9,23–Lk 9,25
+[^bible-74c81829-9db6-4d74-91a2-9d971dcc96ea]: Mk 8,34–Mk 8,37
+[^bible-8f9a8eba-144e-444d-8254-aab8032e3171]: Gen 1,27
+[^bible-933bc81f-97a7-4ebf-9b6f-03047e50c817]: Mt 16,26
+[^bible-99e851ba-9dd0-4db9-afdc-b43a96460c9d]: 1Petr 1,18–1Petr 1,19
+[^bible-bdb5c572-6ef5-425b-8509-bdb6fc6335db]: Mt 16,24
+[^bible-c90827bd-7353-4165-a623-22eb7e9c88cd]: Mt 16,26–Mt 16,27
+[^bible-e7571f07-0fea-44bf-967c-4ccee07c251d]: Gal 2,20
+[^bible-f4fec217-914a-45ef-b2d9-075bf890d29d]: Mt 16,24–Mt 16,25
