@@ -1,0 +1,42 @@
+# 2\. Schrift über Abraham – Kapitel 5: Abrahams wahrer Reichtum liegt in beherrschten Sinnen, geläuterter Rede und einem auf Gott gerichteten Geist
+
+Autor: Ambrosius von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/2-schrift-ueber-abraham#kapitel-426f485e-fb81-4937-c27f-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Abraham zog also von dort fort und nahm seine Frau Sara mit[^bible-eecfb960-2413-4af2-8a2c-218e68af9a59], also eine Frau, die herrscht und nicht dient\. Deshalb wird ihm auch gesagt: „Höre auf deine Frau Sara\.[^bible-94797283-d0e5-41a5-aa2e-489c882b63bb]“ Denn wer sich aus dem Sklavendienst der Sünden befreit hat, herrscht, statt zu dienen\. Der stärkere Geist hat also die herrschende Tugend bei sich, das heißt eine Tugend, die den körperlichen Sinnen gebietet und ihnen nicht gehorcht\. Dieser Geist hat alles aus Ägypten mit zurückgebracht und nichts von dem, was er gelernt hat, dort verloren\. Weder Unmäßigkeit noch Überheblichkeit noch schamlose Ausschweifungen haben auf ihn abgefärbt\. Ihm wurde weder der Mantel gewissenhafter Nüchternheit geraubt noch das Gewand der Schamhaftigkeit ausgezogen\.
+
+Er war sehr reich[^bible-3f0e2eea-ea5d-405e-812b-f29dfa37dbeb], da ihm ja nichts an Gütern fehlte, sein Geist nicht nach fremdem Besitz verlangte und nichts entbehrte, was er sein Eigen nennen wollte\. Denn reich sein heißt, so viel zu haben, dass der eigene Wunsch erfüllt ist\. Genügsamkeit kennt nämlich ein Maß, Vermögen aber kennt keines; wie viel es sein soll, liegt im Ermessen dessen, der danach strebt\. Er war aber reich an Vieh, Silber und Gold\.[^bible-3f0e2eea-ea5d-405e-812b-f29dfa37dbeb] Was soll das bedeuten? Mir scheint nicht, dass hier an einem gerechten Menschen weltlicher Reichtum gelobt wird\. Deshalb verstehe ich unter dem Vieh die körperlichen Sinne, denn auch sie sind ohne Vernunft, unter dem Silber die Rede und unter dem Gold den Geist\. Mit Recht war Abraham reich, denn er beherrschte die vernunftlosen Sinne\. Er zähmte sie ja und machte sie sanft, damit sie vernünftig wurden\. Seine Rede glänzte in der Farbe des Glaubens und war durch die Gnade geistlicher Unterweisung gereinigt; sein Geist war voller Einsicht\.
+
+ Deshalb wird ein guter Geist mit Gold verglichen: Wie Gold die anderen Metalle übertrifft, so ist ein guter Geist im Menschen allen anderen Teilen der menschlichen Substanz überlegen\. Auf dreierlei beruht also der Reichtum des Weisen: auf Sinnesvermögen, Rede und Geist\. Darin liegt eine geordnete Stufenfolge, wie wir auch beim Apostel lesen: „Es bleiben aber Hoffnung, Glaube und Glanz, diese drei; größer als sie aber ist die Liebe\.[^bible-34aa1c8a-2df5-465a-adb7-077cf34a486c]“ Ebenso ist also der Geist größer, denn er ist es, der das geistliche Getreide mahlt, um so die Sinne und die Worte zu reinigen\. Durchweg wird Abraham als weiser Mann dargestellt\.
+
+Schließlich wird berichtet, dass Abraham dorthin zurückkehrte, nämlich nach Bethel, von wo er nach Ägypten hinabgezogen war[^bible-9fd8f800-da7c-48ed-9c0b-bb30bec215cc]\. Daran sollen wir erkennen: Auch die Gerechten, die im Haus Gottes wohnen und auf Gottes Wort achten, werden zwar durch die Bedrängnisse dieser Welt versucht, lassen sich aber weder vom Haus Gottes noch von der Befolgung der himmlischen Gebote abbringen\. Sich mit den eigenen Grenzen zufriedenzugeben und sich weder durch großen Reichtum noch durch Lebensumstände, die dem Verlangen nach Genuss entgegenkommen, überheblich machen zu lassen, das kennzeichnet einen vortrefflichen Geist\. Anfang und Ende stets zu bedenken, dorthin zu gehen und von dort aufzubrechen, das ist gut\. Das Gute aber ist die Weisheit\. Denn niemand ist gut außer Gott allein[^bible-06565813-61a0-49ec-bf39-f98c02e82fd1]\. Von ihm gehen wir aus, durch ihn sind wir geschaffen; zu ihm kehren wir zurück, denn mit Christus zu sein ist viel besser[^bible-1bdc1d24-4690-4dbe-aa3a-067916c19518]\. Und damit du erkennst, dass es gut ist, wenn Anfang und Ende übereinstimmen, sagt der gute Jesus selbst: „Ich bin das Alpha und das Omega, der Anfang und das Ende\.[^bible-1a489b9a-8b94-44c0-8366-128faa763992]“
+
+Unser Geist soll also immer bei ihm sein und sich niemals von seinem Tempel und seinem Wort entfernen\. Stets soll er sich der Schriftlesung, der Betrachtung und dem Gebet widmen, damit das Wort dessen, der ist[^bible-57427dda-15a3-442d-a7bb-768dae18199e], immer in uns wirkt und wir täglich bei ihm beginnen und bei ihm enden, ob wir zur Kirche gehen oder uns zu Hause dem Gebet widmen\. So soll der Tag unseres ganzen Lebens hier ebenso wie der Lauf jedes einzelnen Tages bei ihm seinen Anfang nehmen und bei ihm enden\. Denn wie es zum Heil führt, von Lebensbeginn an zu glauben und Gott geweiht zu werden, so ist es notwendig, bis zum Ende auszuharren\. Die Sorgfalt eines vortrefflichen Geistes zeigt sich darin, dass er auf Gottes Wort achtet und nichts Unvernünftiges tut, aus dem Traurigkeit erwachsen könnte, und dass er im steten Bewusstsein seines guten Handelns die Freude eines guten Gewissens bewahrt\. Denn dieses Gute ist ohne Furcht und ohne Traurigkeit, das heißt voller Sicherheit und Gnade\. Der Besitz des Gerechten besteht nämlich darin, Gott wohlgefällig zu sein; die Unweisen dagegen haben keinen Rang\. Deshalb sagt Jesaja, als das Gute naht: „Schmerz, Traurigkeit und Seufzen werden fliehen\.[^bible-162c9d96-9444-4e2f-9e2e-d00fc597af95]“ Auch Johannes sagt in der Apokalypse: „Und Gott selbst wird bei ihnen sein und jede Träne von ihren Augen abwischen\. Der Tod wird nicht mehr sein, auch keine Trauer, kein Geschrei und kein Schmerz mehr\.[^bible-2cf01bf1-64e8-4896-9722-d039906187a7]“ Denn bei der Auferstehung der Gerechten[^bible-abb583f0-e3b4-4b82-9f7e-15ab2a471484] wird es unablässige Freude und Gnade geben, wenn jenes Gute von da an bei seinen Heiligen ist und sie in Abrahams Schoß ruhen[^bible-76172471-cc1e-472e-9d26-facab18d2b55] und in dessen Zelt wohnen, das zwischen dem Haus oder dem Wort Gottes und der Gnade aufgeschlagen ist\. Das bedeutet: Die Gläubigen danken in ihrer Unschuld ihrem Schöpfer; sie haben keinen Grund, es zu bereuen, in dieser Welt gelebt zu haben\.
+
+An Abrahams einfachen Taten werden also bedeutende Lehren entfaltet\. Mit Recht gilt er als reich: Er bereichert sogar die Erörterungen der Philosophen, die aus seinem Handeln ihre Lehrsätze gewannen\.
+
+Die Schrift hatte also seinen Reichtum geschildert\. Nun blieb noch zu klären, ob auch sein Neffe Lot reich war, der ja zur selben Erblinie gehörte\. Doch die Schrift sagt von ihm nur, dass er viel Vieh besaß\. So heißt es nämlich: „Auch Lot, der mit Abram zog, hatte Schafe und Rinder und Zelte\.[^bible-f54d5637-f8a4-4cf2-988a-4d208c798e10]“ Silber hatte er nicht, denn er war noch nicht gerecht\. Denn die Zunge des Gerechten ist im Feuer geläutertes Silber[^bible-86a36337-25dc-40a7-a21f-bb6695b4efc7]\. Gold hatte er nicht; das besaß jener, der Christus von hinten sah\. Über Christus steht geschrieben: „Und seine Rückseite hat das Aussehen von Gold\.[^bible-b7d63989-4a0a-4a52-8d96-66ef0452903d]“ Abraham sah ihn, wie der Herr selbst bezeugte, als er sagte: „Abraham sah meinen Tag und freute sich\.[^bible-68a69d88-1dec-43c9-8563-e1a7fc370b3a]“ Darum wurde er gewürdigt, das Aussehen von Gold zu haben und zu besitzen\.
+
+## Bibelverweise
+
+[^bible-06565813-61a0-49ec-bf39-f98c02e82fd1]: Mk 10,18
+[^bible-162c9d96-9444-4e2f-9e2e-d00fc597af95]: Jes 35,10
+[^bible-1a489b9a-8b94-44c0-8366-128faa763992]: Offb 1,8
+[^bible-1bdc1d24-4690-4dbe-aa3a-067916c19518]: Phil 1,23
+[^bible-2cf01bf1-64e8-4896-9722-d039906187a7]: Offb 21,3–Offb 21,4
+[^bible-34aa1c8a-2df5-465a-adb7-077cf34a486c]: 1Kor 13,13
+[^bible-3f0e2eea-ea5d-405e-812b-f29dfa37dbeb]: Gen 13,2
+[^bible-57427dda-15a3-442d-a7bb-768dae18199e]: Ex 3,14
+[^bible-68a69d88-1dec-43c9-8563-e1a7fc370b3a]: Joh 8,56
+[^bible-76172471-cc1e-472e-9d26-facab18d2b55]: Lk 16,22
+[^bible-86a36337-25dc-40a7-a21f-bb6695b4efc7]: Spr 10,20
+[^bible-94797283-d0e5-41a5-aa2e-489c882b63bb]: Gen 21,12
+[^bible-9fd8f800-da7c-48ed-9c0b-bb30bec215cc]: Gen 13,3
+[^bible-abb583f0-e3b4-4b82-9f7e-15ab2a471484]: Lk 14,14
+[^bible-b7d63989-4a0a-4a52-8d96-66ef0452903d]: Ps 67,14
+[^bible-eecfb960-2413-4af2-8a2c-218e68af9a59]: Gen 13,1
+[^bible-f54d5637-f8a4-4cf2-988a-4d208c798e10]: Gen 13,5
