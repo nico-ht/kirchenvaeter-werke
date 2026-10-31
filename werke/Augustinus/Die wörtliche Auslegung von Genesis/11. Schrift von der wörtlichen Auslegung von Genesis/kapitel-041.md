@@ -1,0 +1,12 @@
+# 11\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 41: Adams und Evas Sünde war keine verfrühte geschlechtliche Vereinigung, denn diese wäre bereits rechtmäßig gewesen
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/11-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-914800f7-c8ed-4851-c40a-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ich weiß allerdings, dass manche meinten, jene Menschen hätten in ihrer Hast vorzeitig nach der Erkenntnis von Gut und Böse verlangt\. Sie hätten zu früh erlangen wollen, was für sie auf einen geeigneteren Zeitpunkt aufgespart war\. Darauf habe der Versucher hingearbeitet: Indem sie etwas vorwegnähmen, das ihnen in ihrem damaligen Zustand noch nicht angemessen war, sollten sie sich gegen Gott vergehen und, ausgeschlossen und verurteilt, um den Nutzen dessen gebracht werden, was sie zu ihrem Heil hätten genießen können, wenn sie zur rechten Zeit, wie Gott es wollte, dazu gelangt wären\. Falls sie nun jenen Baum nicht wörtlich als wirklichen Baum mit wirklichen Früchten, sondern als Sinnbild verstehen wollen, ließe sich diese Auffassung vielleicht auf eine Weise deuten, die mit dem rechten Glauben und der Wahrheit vereinbar wäre\.
+
+Manche meinten auch, jene beiden ersten Menschen hätten heimlich geheiratet und sich schon geschlechtlich vereinigt, bevor ihr Schöpfer sie zusammengefügt hatte\. Dies sei mit dem Baum gemeint, der ihnen verboten war, bis sie zur rechten Zeit vereint würden\. Als müsste man glauben, sie seien in einem Alter erschaffen worden, in dem man erst noch ihre Geschlechtsreife hätte abwarten müssen\! Oder als wäre jene Vereinigung nicht schon damals rechtmäßig gewesen, sobald sie möglich war, während sie, solange sie nicht möglich war, ohnehin nicht stattfinden konnte\! Es sei denn, die Braut hätte erst vom Vater übergeben werden müssen, und man hätte noch auf die feierliche Ablegung der Gelübde, das Hochzeitsfest, die Schätzung der Mitgift und die Abfassung der Eheverträge warten müssen\. Das ist lächerlich; außerdem weicht es von der Wirklichkeit des Geschehenen ab, die zu verteidigen wir uns vorgenommen und, soweit Gott es uns gewährt hat, auch verteidigt haben\.

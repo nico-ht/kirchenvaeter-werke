@@ -1,0 +1,16 @@
+# 11\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 32: Durch die Sünde wurde der Leib sterblich und von tierischer Begierde erfasst, deren sich die Seele schämte
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/11-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-9e75d818-d076-4b76-c401-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Dieser Tod trat an dem Tag ein, an dem sie taten, was Gott verboten hatte[^bible-f81b5169-f3cc-4954-b6da-6d63907382b0]\. Denn sie hatten jenen wunderbaren Zustand verloren, der ihrem Körper auch durch die geheimnisvolle Kraft des Lebensbaums verliehen wurde und in dem sie weder von Krankheit befallen noch durch das Alter verändert werden konnten\. Durch die Speise vom Lebensbaum sollte so bereits an ihrem Fleisch, obwohl es noch natürlich war und erst später zum Besseren verwandelt werden sollte, zeichenhaft sichtbar werden, was bei den Engeln durch die geistliche Nahrung der Weisheit selbst geschieht, deren Sakrament jener Baum war: Durch ihre Teilhabe an der Ewigkeit verändern sie sich nicht zum Schlechteren\. Nachdem die Menschen also diesen Zustand verloren hatten, nahm ihr Körper eine Beschaffenheit an, die Krankheit und Tod mit sich bringt und auch dem Fleisch der Tiere eigen ist\. Damit nahm er auch dieselbe Regung an, die bei den Tieren das Verlangen nach Paarung hervorruft, damit die Neugeborenen an die Stelle der Sterbenden treten\. Doch selbst in dieser Strafe zeigte die vernünftige Seele noch ihren Adel: Sie schämte sich der tierischen Regung in den Gliedern ihres Fleisches und flößte ihrem Fleisch Scham ein\. Das geschah nicht nur, weil sie dort etwas empfand, wo sie nie zuvor etwas Derartiges empfunden hatte, sondern auch, weil jene beschämende Regung aus der Übertretung des Gebots hervorging\. Da spürte sie, mit welcher Gnade sie zuvor bekleidet gewesen war, als sie in ihrer Nacktheit nichts Unanständiges erleiden musste\. Da erfüllte sich das Wort: „Herr, nach deinem Willen hast du meiner Schönheit Kraft verliehen; du aber hast dein Angesicht abgewandt, und ich geriet in Verwirrung[^bible-ac9a8c08-8aa5-4049-8299-2e1507f50ff6]\.“ In dieser Verwirrung schließlich griffen sie eilig zu Feigenblättern und nähten sich Schurze[^bible-d1ce338f-1bd5-4d48-9e7d-6df3de063477]; und weil sie preisgegeben hatten, was ihnen zur Ehre gereichte, bedeckten sie ihre Scham[^bible-d1ce338f-1bd5-4d48-9e7d-6df3de063477]\. Ich glaube auch nicht, dass sie bei diesen Blättern an eine Bedeutung dachten, der es entsprach, die nun vor Begierde juckenden Glieder gerade mit solchen Blättern zu bedecken\. Vielmehr wurden sie in ihrer Verwirrung durch einen verborgenen Anstoß dazu getrieben, damit sie unwissentlich auch ein solches Zeichen ihrer Strafe setzten: Als geschehenes Ereignis sollte es den Sünder überführen, als schriftlicher Bericht den Leser belehren\.
+
+## Bibelverweise
+
+[^bible-ac9a8c08-8aa5-4049-8299-2e1507f50ff6]: Ps 29,8
+[^bible-d1ce338f-1bd5-4d48-9e7d-6df3de063477]: Gen 3,7
+[^bible-f81b5169-f3cc-4954-b6da-6d63907382b0]: Gen 2,17

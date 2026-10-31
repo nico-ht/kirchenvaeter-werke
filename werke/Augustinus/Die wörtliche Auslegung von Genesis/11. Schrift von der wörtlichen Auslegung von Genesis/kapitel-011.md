@@ -1,0 +1,17 @@
+# 11\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 11: Warum Gott Adams Versuchung zuließ: Seine gerechte Strafe warnt die Nachkommen vor Hochmut und Ungehorsam
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/11-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-007f51af-926e-4a64-c3ec-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Gibt es also“, sagen sie, „unter Gottes Werken etwas, das auf das Übel eines anderen angewiesen ist, um im Guten voranzukommen?“ Sind die Menschen aus wer weiß welcher Streitsucht so taub und blind geworden, dass sie weder hören noch sehen, wie überaus viele sich bessern, wenn einige bestraft werden? Welcher Heide, welcher Jude, welcher Häretiker findet das nicht täglich im eigenen Haus bestätigt? Doch sobald es darum geht, die Wahrheit zu erörtern und zu erforschen, wollen die Menschen nicht darauf achten, durch welches Wirken der göttlichen Vorsehung in ihnen der Antrieb entsteht, Strafen zu verhängen: Wenn sich die Bestraften nicht bessern, sollen wenigstens die anderen durch ihr Beispiel Furcht bekommen, und der gerechte Untergang der einen soll dem Heil der anderen dienen\. Ist denn Gott der Urheber der Bosheit oder Schlechtigkeit derer, durch deren gerechte Bestrafung er für diejenigen sorgt, denen er auf diese Weise zu helfen beschlossen hat? Keineswegs\. Doch obwohl er voraussah, dass sie durch ihre eigenen Laster böse werden würden, ließ er nicht davon ab, sie zu erschaffen\. Er bestimmte sie zum Nutzen derer, die er als Geschöpfe jener Art erschaffen hat, die nur durch den Vergleich mit den Bösen im Guten vorankommen können\. Denn wenn es sie nicht gäbe, würden sie gewiss zu nichts nützen\. Ist denn damit nur wenig Gutes bewirkt, dass es sie gibt, die jedenfalls jener Art nützen? Wer aber nicht will, dass es diese Art gibt, erreicht damit nichts anderes, als selbst nicht zu ihr zu gehören\.
+
+„Groß sind die Werke des Herrn, erlesen für alles, was er will\.[^bible-0015a6ce-9ee2-44db-a7e1-47202ff47b4a]“ Er sieht voraus, dass die einen gut sein werden, und erschafft sie; er sieht voraus, dass die anderen böse sein werden, und erschafft sie\. Den Guten schenkt er sich selbst, damit sie ihn genießen; auch den Bösen gewährt er viele seiner Gaben\. Er vergibt barmherzig und bestraft gerecht; ebenso bestraft er barmherzig und vergibt gerecht\. Er hat von niemandes Bosheit etwas zu fürchten und ist auf niemandes Gerechtigkeit angewiesen\. Nicht einmal die Werke der Guten nutzt er zu seinem eigenen Vorteil; den Guten aber lässt er sogar die Strafen der Bösen zugutekommen\. Warum also hätte er nicht zulassen sollen, dass der Mensch versucht wurde, um durch diese Versuchung geprüft, überführt und bestraft zu werden, als er in stolzer Begierde nach eigener Macht gebar, was er empfangen hatte[^bible-82984e6c-0618-4622-a066-95d32ab439c1], durch seine eigene Frucht beschämt wurde und durch seine gerechte Strafe die Nachkommen vom Übel des Hochmuts und des Ungehorsams abschreckte, denen dies schriftlich überliefert und verkündet werden sollte?
+
+## Bibelverweise
+
+[^bible-0015a6ce-9ee2-44db-a7e1-47202ff47b4a]: Ps 110,2
+[^bible-82984e6c-0618-4622-a066-95d32ab439c1]: Jak 1,15

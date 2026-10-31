@@ -1,0 +1,10 @@
+# 11\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 13: Die Natur des Teufels ist von Gott geschaffen und gut; sein böser Wille zieht niedere Güter höheren vor
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/11-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-5cdcf40a-63f9-4253-c3ee-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Eingehender pflegt man nach der Natur des Teufels selbst zu fragen\. Einige Häretiker nehmen Anstoß an dem Unheil, das sein böser Wille anrichtet, und versuchen deshalb, seine Natur als Ganze aus der Schöpfung des höchsten und wahren Gottes herauszulösen und ihr einen anderen Ursprung zuzuschreiben, der Gott entgegensteht\. Denn sie können nicht begreifen, dass alles, was ist, insofern es eine Substanz ist, auch gut ist und nur von jenem wahren Gott stammen kann, von dem alles Gute kommt\. Ebenso wenig begreifen sie, dass der böse Wille sich entgegen der rechten Ordnung bewegt, indem er die niedrigeren Güter den höheren vorzieht, und dass sich so der Geist des vernunftbegabten Geschöpfs vor Hochmut aufblähte, weil er sich wegen seiner Überlegenheit an seiner eigenen Macht erfreute\. Durch diesen Hochmut fiel er aus der Seligkeit des geistlichen Paradieses und verzehrte sich vor Neid\. Dennoch ist an ihm eben dies gut: dass er lebt und einen Körper belebt, sei es einen luftartigen wie der Geist des Teufels selbst oder der Dämonen, sei es einen irdischen wie die Seele eines Menschen, mag dieser auch noch so bösartig und verkehrt sein\. Weil sie also nicht gelten lassen wollen, dass etwas, das Gott geschaffen hat, aus eigenem Willen sündigt, behaupten sie, die Substanz Gottes selbst sei zunächst durch Zwang, dann aber aus eigenem Willen und ohne Möglichkeit der Sühne verdorben und verkehrt worden\. Doch über diesen völlig aberwitzigen Irrtum haben wir andernorts schon vieles gesagt\.

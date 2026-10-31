@@ -1,0 +1,18 @@
+# 11\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 8: Wer nur die höhere Art des Guten zulässt, schließt die durch fremde Strafe Gebesserten aus
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/11-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-3932d02b-06de-4c50-c3e9-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wer aber würde bei nüchterner Überlegung sagen: „Es wäre besser gewesen, den nicht zu erschaffen, von dem Gott im Voraus wusste, dass er sich durch die Ungerechtigkeit eines anderen bessern könnte, als auch den zu erschaffen, von dem er im Voraus wusste, dass er wegen seiner eigenen Ungerechtigkeit verurteilt werden müsste“? Das heißt nämlich: Besser wäre es, es gäbe niemanden, der das Böse eines anderen zum Guten nutzt und dafür aus Erbarmen gekrönt wird, als dass es auch einen Bösen gäbe, der verdientermaßen gerecht bestraft wird\. Wenn nämlich eine schlüssige Überlegung zeigt, dass es zwei ungleiche Arten des Guten gibt, eine höhere und eine geringere, begreifen die im Herzen Trägen nicht, dass sie mit den Worten „Beide sollten von gleicher Art sein“ nichts anderes sagen als: „Es sollte nur jene höhere geben\.“ So verringern sie die Zahl der Arten des Guten, indem sie diese einander gleichmachen wollen; und indem sie die eine Art maßlos vermehren, beseitigen sie die andere\. Wer aber würde auf sie hören, wenn sie sagten: „Weil das Sehen ein vorzüglicherer Sinn ist als das Hören, sollte es vier Augen geben und keine Ohren“? Wenn also jenes vernunftbegabte Geschöpf höher steht, das sich Gott ohne jeden Hochmut unterordnet, ohne die Strafe irgendeines anderen zum Vergleich heranzuziehen, manches Geschöpf unter den Menschen dagegen so geschaffen ist, dass es Gottes Wohltat an sich selbst nur erkennen kann, indem es die Qual eines anderen sieht, damit es sich nicht überhebt, sondern sich fürchtet[^bible-7f1fffc5-f413-428f-a7fb-27cee8558f8f], das heißt, sich nicht auf sich selbst verlässt, sondern auf Gott vertraut: Wer könnte dann bei rechtem Verständnis sagen: „Dieses sollte so sein wie jenes“, ohne zu sehen, dass er damit nichts anderes sagt als: „Dieses sollte es nicht geben, sondern nur jenes“? Wenn aber eine solche Aussage von Unbildung und Torheit zeugt, warum sollte Gott dann nicht auch diejenigen erschaffen, von denen er im Voraus wusste, dass sie böse sein würden, da er seinen Zorn zeigen und seine Macht offenbaren wollte und deshalb mit großer Geduld die Gefäße des Zorns ertrug, die zum Verderben bereitet sind, um den Reichtum seiner Herrlichkeit an den Gefäßen des Erbarmens bekannt zu machen, die er zur Herrlichkeit vorbereitet hat[^bible-9e5516eb-97b6-4da2-9905-0e0de7735d74]? Denn so rühmt sich, wer sich rühmt, allein im Herrn[^bible-c32d1b55-0390-406c-98c4-388bd3d11f03], wenn er erkennt, dass er nicht sich selbst, sondern ihm verdankt, dass er ist, und nicht nur dies, sondern auch, dass es ihm allein durch den gut geht, dem er sein Dasein verdankt\.
+
+Es ist daher höchst unangebracht zu sagen: „Es sollte niemanden geben, dem Gott eine so große Wohltat seines Erbarmens erweist, wenn es solche Menschen nicht geben könnte, ohne dass es auch jene gäbe, an denen er die Gerechtigkeit seiner Vergeltung zeigt\.“
+
+## Bibelverweise
+
+[^bible-7f1fffc5-f413-428f-a7fb-27cee8558f8f]: Röm 11,20
+[^bible-9e5516eb-97b6-4da2-9905-0e0de7735d74]: Röm 9,22–Röm 9,23
+[^bible-c32d1b55-0390-406c-98c4-388bd3d11f03]: 2Kor 10,17
