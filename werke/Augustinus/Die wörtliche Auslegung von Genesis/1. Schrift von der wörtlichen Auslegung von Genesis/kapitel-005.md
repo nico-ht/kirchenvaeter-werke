@@ -1,0 +1,19 @@
+# 1\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 5: Gottes Geist über dem Wasser zeigt: Der Schöpfer vollendet seine Werke aus Güte, nicht aus Bedürftigkeit
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/1-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-6c2141a4-6e75-4146-c2ec-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Denn das Wort, der Sohn, hat kein gestaltloses Leben\. Bei ihm sind nicht nur Sein und Leben dasselbe, sondern auch Leben und weises, glückliches Leben\. Ein Geschöpf dagegen kann ein gestaltloses Leben haben, auch wenn es geistig und mit Verstand oder Vernunft begabt ist und damit dem Wort näherzustehen scheint\. Denn bei ihm sind zwar Sein und Leben dasselbe, nicht aber Leben und weises, glückliches Leben\. Von der unveränderlichen Weisheit abgewandt, lebt es dumm und unglücklich; darin besteht seine Gestaltlosigkeit\. Es erhält aber Gestalt, wenn es sich dem unveränderlichen Licht der Weisheit, dem Wort Gottes, zuwendet\. Denn von ihm hat es sein Dasein, sodass es auf irgendeine Weise ist und lebt; ihm wendet es sich zu, um weise und glücklich zu leben\. Der Anfang des mit Verstand begabten Geschöpfes ist nämlich die ewige Weisheit\. Dieser Anfang bleibt unveränderlich in sich und hört niemals auf, durch einen im Verborgenen eingegebenen Ruf zu dem Geschöpf zu sprechen, dessen Anfang er ist, damit es sich dem zuwendet, von dem es stammt; anders kann es keine Gestalt und Vollendung erlangen\. Deshalb antwortete er auf die Frage, wer er sei: „Der Anfang, weil ich auch zu euch spreche\.[^bible-d06f45af-9584-461f-9481-9a462343dd9a]“
+
+Was aber der Sohn spricht, spricht der Vater\. Denn wenn der Vater spricht, wird das Wort ausgesprochen, das der Sohn ist: Gott spricht das ihm gleichewige Wort auf ewige Weise, wenn man von einer Weise sprechen darf\. Denn in Gott ist höchste, heilige und gerechte Güte und eine Liebe zu seinen Werken, die nicht aus Bedürftigkeit hervorgeht, sondern daraus, dass er Gutes schenkt\. Deshalb hatte die Schrift, bevor geschrieben wurde: „Gott sprach: ‚Es werde Licht\.‘[^bible-5045969c-a692-4cf5-8f24-2a3de3d12820]“, bereits gesagt: „Und der Geist Gottes schwebte über dem Wasser\.[^bible-9fcd169e-4f0c-448c-b43c-bc1706d3e5ab]“ Denn mit dem Namen Wasser wollte sie entweder die gesamte körperliche Materie bezeichnen und so andeuten, woraus alles gemacht wurde und Gestalt erhielt, was wir jetzt nach seinen Arten unterscheiden können\. In diesem Fall nannte sie diese Materie Wasser, weil wir sehen, wie alles auf der Erde aus dem Feuchten in mannigfaltigen Formen Gestalt annimmt und sich verdichtet\. Oder sie wollte damit ein geistiges Leben bezeichnen, das gewissermaßen noch dahintrieb, bevor es durch seine Hinwendung Gestalt erhielt\. In jedem Fall schwebte Gottes Geist darüber[^bible-9fcd169e-4f0c-448c-b43c-bc1706d3e5ab]; denn was auch immer es war, dessen Erschaffung er begonnen hatte, um ihm Gestalt und Vollendung zu geben, es war dem guten Willen des Schöpfers unterstellt\. So sollte, wenn Gott in seinem Wort sprach: „Es werde Licht[^bible-5045969c-a692-4cf5-8f24-2a3de3d12820]“, das Geschaffene nach dem Maß seiner Art im guten Willen Gottes, das heißt in seinem Wohlgefallen, bleiben\. Deshalb ist es auch richtig, dass es Gott gefiel, wie die Schrift sagt: „Und es wurde Licht; und Gott sah, dass das Licht gut war\.[^bible-0d0032d0-8316-4460-8d37-700fd47cbaa0]“
+
+## Bibelverweise
+
+[^bible-0d0032d0-8316-4460-8d37-700fd47cbaa0]: Gen 1,3–Gen 1,4
+[^bible-5045969c-a692-4cf5-8f24-2a3de3d12820]: Gen 1,3
+[^bible-9fcd169e-4f0c-448c-b43c-bc1706d3e5ab]: Gen 1,2
+[^bible-d06f45af-9584-461f-9481-9a462343dd9a]: Joh 8,25

@@ -1,0 +1,15 @@
+# 1\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 21: Auch wenn die Verfasserabsicht ungewiss bleibt, ist eine glaubensgemäße Deutung der Schrift von Nutzen
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/1-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-de8eeb85-ee25-47de-c2fc-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Jemand wird sagen: „Welche Körner hast du denn bei all dem Dreschen in dieser Erörterung aus ihren Hüllen gelöst? Was hast du von der Spreu getrennt? Warum bleibt noch fast alles hinter offenen Fragen verborgen? Lege dich auf eine der vielen Deutungen fest, die du als möglich erörtert hast\.“ Ihm antworte ich: „Ich bin mit Genuss gerade zu der Nahrung gelangt, durch die ich gelernt habe, dass man nicht um eine Antwort im Einklang mit dem Glauben verlegen sein muss, wenn man Menschen antworten soll, die die Bücher unseres Heils verleumden wollen\. Was immer sie über die Natur der Dinge anhand zuverlässiger Belege nachweisen können, davon sollen wir zeigen, dass es unseren Schriften nicht widerspricht\. Was sie dagegen aus irgendwelchen ihrer Bücher gegen unsere Schriften, das heißt gegen den katholischen Glauben, vorbringen, sollen wir entweder, wenn wir dazu imstande sind, als vollkommen falsch erweisen oder ohne jeden Zweifel für vollkommen falsch halten\. Dabei wollen wir so an unserem Mittler festhalten, in dem alle Schätze der Weisheit und der Erkenntnis verborgen sind[^bible-d83c046f-b002-4e13-b756-7d1e624b5987], dass wir uns weder vom Geschwätz einer falschen Philosophie verführen lassen[^bible-74646779-33ef-4e12-9528-7b7cbf60394e] noch vom Aberglauben einer falschen Religion einschüchtern lassen\. Wenn wir die göttlichen Bücher lesen, sollen wir aus der großen Fülle wahrer Deutungen, die sich aus wenigen Worten erschließen lassen und durch den gesunden katholischen Glauben abgesichert sind, vor allem diejenige wählen, von der sich mit Sicherheit zeigt, dass der Verfasser, den wir lesen, sie gemeint hat\. Bleibt das aber verborgen, sollen wir jedenfalls eine Deutung wählen, der der Zusammenhang der Schrift nicht entgegensteht und die mit dem gesunden Glauben übereinstimmt\. Lässt sich aber auch der Zusammenhang der Schrift nicht eingehend prüfen und erörtern, dann sollen wir uns wenigstens allein an das halten, was der gesunde Glaube vorschreibt\. Denn es ist eines, nicht zu erkennen, was der Verfasser vor allem gemeint hat, und etwas anderes, von der Richtschnur der Frömmigkeit abzuirren\. Wird beides vermieden, ist der Ertrag der Lektüre vollkommen\. Lässt sich aber nicht beides vermeiden, ist es auch dann, wenn die Absicht des Verfassers ungewiss bleibt, nicht ohne Nutzen, eine mit dem gesunden Glauben übereinstimmende Deutung erschlossen zu haben\.“
+
+## Bibelverweise
+
+[^bible-74646779-33ef-4e12-9528-7b7cbf60394e]: Kol 2,8
+[^bible-d83c046f-b002-4e13-b756-7d1e624b5987]: Kol 2,3
