@@ -1,0 +1,24 @@
+# Sechstagewerk, Buch 3 – Kapitel 14: Wie Blätter Früchte je nach ihrer Zartheit schützen und zugleich die Sonnenwärme durchlassen
+
+Autor: Ambrosius von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/sechstagewerk-buch-3#kapitel-7ed6ff05-e5f7-4860-c1fd-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch kehren wir in unserer Darstellung zu den gewöhnlichen Früchten zurück\. Manche reifen in der Sonne, andere entwickeln sich, in Schalen oder Hüllen eingeschlossen, zur vollen Reife\. Äpfel und Birnen, auch sämtliche Traubensorten, sind der Sonne unbedeckt ausgesetzt\. Nüsse und Kerne, auch die Pinienkerne, sind dagegen von Schale und Hülle umgeben und werden dennoch ebenfalls von der Wärme der Sonne versorgt und genährt\. So tief der Pinienkern im dichten Zapfen verborgen liegt, so sehr wird er von der Wärme der Sonne genährt\.
+
+Wie groß ist ferner die Vorsorge des Herrn\! Wo die Frucht weicher ist, bietet ihr das dicke Blatt eine kräftigere Schutzhülle, wie wir es an der Frucht des Feigenbaums sehen\. Zarteres muss also durch Kräftigeres geschützt werden, wie auch der Herr selbst durch Jeremia lehrt, wenn er sagt: „Wie diese guten Feigen werde ich die Verschleppten aus Juda anerkennen, die ich von diesem Ort in das Land der Chaldäer geschickt habe, ihnen zum Guten, und ich werde meine Augen fest auf sie richten, ihnen zum Guten\.[^bible-79d47d4b-6624-484d-9840-db8841d145aa]“ Die Zarten umgab er nämlich gleichsam mit einer besonders kräftigen Schutzhülle seiner Barmherzigkeit, damit die zarten Früchte nicht vorzeitig zugrunde gingen\. Von ihnen sagt er später auch: „Meine Zarten gingen raue Wege\.[^bible-6cb13dfb-1488-4ffd-a973-76629651a3fe]“ Weiter unten sagt er zu ihnen: „Bleibt standhaft, Kinder, und ruft zu Gott\![^bible-454fa8b7-3d42-4883-aca0-ed4a8f12c20a]“ Denn dies allein ist gegen alle Stürme und Schädigungen eine unzerstörbare Schutzhülle, ein undurchdringliches Bollwerk\. Wo also die Früchte zart sind, dienen ihnen dickere Blätter als Hülle und Schutz\. Wo dagegen die Früchte kräftiger sind, sind die Blätter zarter, wie der Apfelbaum zeigt\. Eine kräftigere Frucht braucht nicht viel Schutz; der Schatten einer dickeren Schutzhülle könnte der Frucht sogar eher schaden\.
+
+Das Weinblatt soll uns schließlich die Anmut der Natur und die innersten Geheimnisse der göttlichen Weisheit erschließen\.
+
+ Wir sehen nämlich, dass es so eingeschnitten und gegliedert ist, dass es wie drei Blätter aussieht\. Der mittlere Teil ist so deutlich abgesetzt, dass er dem Betrachter als eigenes Blatt erscheinen würde, wenn er nicht mit den unteren Teilen zusammenhinge\. Die Natur scheint dabei so vorgegangen zu sein, dass das Blatt leichter Sonne durchlässt und zugleich schützenden Schatten spendet\. Sein mittlerer Teil ragt weiter hervor und läuft an der äußersten Spitze schmal zu, sodass er mehr zur Schönheit als zum Schutz beiträgt\. Denn er scheint die Gestalt eines Siegespreises nachzubilden und damit anzuzeigen, dass die Traube unter den übrigen hängenden Früchten den ersten Rang einnimmt\. Ihr wachsen nach einem stillschweigenden Urteil der Natur, das sich aber deutlich zu erkennen gibt, das Zeichen und das Vorrecht des Sieges zu\. Sie trägt also ihren Siegespreis bei sich\. Er bietet ihr Schutz vor den Unbilden der Witterung und zugleich vor heftigen Regengüssen, hindert sie aber nicht daran, die Wärme der Sonne aufzunehmen, durch die sie erwärmt und genährt wird, Farbe annimmt und wächst\. Auch das Feigenblatt ist, fast ebenso wie das Weinblatt, vierfach eingeschnitten\. Das ist umso deutlicher zu erkennen, als das Blatt größer ist; allerdings ist es weder am ganzen Rand noch an der Spitze so gekräuselt wie das Weinblatt\. Wie das Feigenblatt dicker und kräftiger ist, so ist das Weinblatt schöner geformt\. Die Dicke des Blattes dient also dazu, die schädlichen Einflüsse der Witterung abzuwehren, die Einschnitte hingegen dazu, der Frucht die Wohltat der Wärme zu verschaffen\. Diese Fruchtart bekommt daher den Hagel nicht so schnell zu spüren, gelangt aber schnell zur Reife; denn gegen schädliche Einflüsse scheint sie abgeschirmt, wohltuenden aber offen zu sein\.
+
+Wozu soll ich die Vielfalt der Blätter beschreiben: wie manche rund, andere länglicher, manche biegsam, andere steifer sind, manche sich kaum von irgendeinem Wind lösen lassen, andere schon von einem leichten Lufthauch abgeschüttelt werden?
+
+## Bibelverweise
+
+[^bible-454fa8b7-3d42-4883-aca0-ed4a8f12c20a]: Bar 4,27
+[^bible-6cb13dfb-1488-4ffd-a973-76629651a3fe]: Bar 4,26
+[^bible-79d47d4b-6624-484d-9840-db8841d145aa]: Jer 24,5–Jer 24,6
