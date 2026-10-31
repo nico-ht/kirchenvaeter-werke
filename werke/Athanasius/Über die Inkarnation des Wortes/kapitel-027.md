@@ -1,0 +1,15 @@
+# Über die Inkarnation des Wortes – Kapitel 27: Dass Christen den Tod nicht mehr fürchten, beweist seine Entmachtung durch Christi Kreuz
+
+Autor: Athanasius
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/ueber-die-inkarnation-des-wortes#kapitel-90f1c334-a1fe-4713-a5ab-08decaa0e93d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Dass der Tod zunichtegemacht ist, dass das Kreuz über ihn den Sieg errungen hat und dass er fortan keine Kraft mehr besitzt, sondern wahrhaft tot ist, dafür ist es ein nicht geringes Zeichen und ein klarer Beweis, dass er von allen Schülern Christi verachtet wird, dass alle über ihn hinwegtreten und ihn nicht mehr fürchten, sondern ihn durch das Zeichen des Kreuzes und durch den Glauben an Christus wie einen Toten zertreten\. Früher nämlich, bevor die göttliche Ankunft des Retters geschah, beweinten alle die Sterbenden als der Verwesung Verfallene\. Jetzt aber, da der Retter den Leib auferweckt hat, ist der Tod nicht mehr furchtbar; vielmehr treten alle, die an Christus glauben, ihn nieder, als wäre er nichts, und sie wählen lieber den Tod, als den Glauben an Christus zu verleugnen\. Denn sie wissen wirklich: Wenn sie sterben, gehen sie nicht zugrunde, sondern leben und werden durch die Auferstehung unverweslich\. Jener Teufel aber, der einst im Tod böse sein Spiel trieb, blieb, nachdem seine Wehen gelöst waren[^bible-9604c4ad-7b5a-4b05-9089-4b183e7e0772], allein wahrhaft tot\. Der Beweis dafür ist: Bevor die Menschen an Christus glauben, sehen sie den Tod als furchtbar an und schrecken vor ihm zurück\. Sobald sie aber zu seinem Glauben und seiner Lehre übergehen, verachten sie den Tod so sehr, dass sie sich sogar bereitwillig auf ihn stürzen und Zeugen der Auferstehung werden, die der Retter gegen ihn vollbracht hat\. Denn selbst wenn sie dem Alter nach noch Kinder sind, eilen sie dem Sterben entgegen; und nicht nur Männer, sondern auch Frauen üben sich durch Askese gegen ihn\. So schwach ist er geworden, dass nun sogar die Frauen, die früher von ihm getäuscht wurden, mit ihm spielen wie mit einem Toten und Entkräfteten\. Denn wie alle, die vorübergehen, einen Tyrannen verspotten, der von einem echten König niedergekämpft und an Händen und Füßen gefesselt wurde, indem sie ihn schlagen und herumschleifen und seine Raserei und Wildheit nicht mehr fürchten, wegen des Königs, der ihn besiegt hat, so treten auch alle, die in Christus vorübergehen, den Tod nieder, nachdem er vom Retter durch das Kreuz besiegt, öffentlich zur Schau gestellt und an Händen und Füßen gebunden wurde\. Und indem sie Christus bezeugen, verhöhnen sie den Tod, spotten über ihn und sprechen die von alters her gegen ihn geschriebenen Worte: „Wo ist, Tod, dein Sieg? Wo ist, Hades, dein Stachel?[^bible-905ae096-49c2-414a-bb7a-198fb5e027ec]“
+
+## Bibelverweise
+
+[^bible-905ae096-49c2-414a-bb7a-198fb5e027ec]: 1Kor 15,55
+[^bible-9604c4ad-7b5a-4b05-9089-4b183e7e0772]: Apg 2,24

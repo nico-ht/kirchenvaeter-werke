@@ -1,0 +1,14 @@
+# Über die Inkarnation des Wortes – Kapitel 53: Dass Christus allein alle heidnischen Mächte zugleich überwindet, erweist seine Gottheit
+
+Autor: Athanasius
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/ueber-die-inkarnation-des-wortes#kapitel-206fc8c5-043c-4db0-a5c5-08decaa0e93d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und um ein einziges, ganz erstaunliches Kennzeichen der Gottheit des Retters zu nennen: Welcher bloße Mensch, welcher Magier, Tyrann oder König hat je für sich allein so viel vermocht, dass er gegen die ganze Götzenverehrung, gegen das ganze Heer der Dämonen, gegen alle Magie und gegen die ganze Weisheit der Griechen, obwohl sie so stark waren, noch in voller Blüte standen und alle in Schrecken setzten, ankämpfte und sich in einem einzigen Anlauf gegen sie alle stellte, wie unser Herr, der wahre Logos Gottes? Unsichtbar überführt er den Irrtum eines jeden und macht allein Menschen aus allen Bereichen zu seiner Beute: Die einen, die einst die Götzen anbeteten, treten sie nun mit Füßen; andere, die wegen ihrer Zauberkünste bewundert wurden, verbrennen ihre Bücher; und die Weisen ziehen die Auslegung der Evangelien allem vor\. Denn die, die sie früher anbeteten, verlassen sie; den aber, den sie als Gekreuzigten verspotteten, beten sie nun als Christus an und bekennen ihn als Gott\. Und die bei ihnen sogenannten Götter werden durch das Zeichen des Kreuzes vertrieben; der gekreuzigte Retter aber wird auf der ganzen bewohnten Erde als Gott und Sohn Gottes ausgerufen\. Die Götter, die bei den Griechen angebetet werden, werden von ihnen als schändlich angeklagt; die aber die Lehre Christi annehmen, führen ihr Leben besonnener als jene\. Wenn dies nun und dergleichen menschlich ist, dann soll, wer will, zeigen, dass auch die Werke der Früheren solcher Art waren, und er soll überzeugen\. Wenn dies aber offenkundig nicht Werke von Menschen, sondern Werke Gottes sind und es auch wirklich sind, warum freveln die Ungläubigen dann so sehr, indem sie den Herrn nicht erkennen, der dies gewirkt hat? Es geht ihnen wie jemandem, der aus den Werken der Schöpfung Gott, den Schöpfer dieser Dinge, nicht erkennt\. Denn wenn sie aus seiner Macht über das All seine Gottheit erkannt hätten, dann hätten sie auch erkannt, dass die Werke Christi durch den Körper nicht menschlich sind, sondern Werke des Retters aller, des Logos Gottes\. Hätten sie dies erkannt, dann hätten sie, wie Paulus sagte, „den Herrn der Herrlichkeit nicht gekreuzigt[^bible-19b3e5a5-6a19-4d4e-b61c-6a9c6ebc81ff]“\.
+
+## Bibelverweise
+
+[^bible-19b3e5a5-6a19-4d4e-b61c-6a9c6ebc81ff]: 1Kor 2,8

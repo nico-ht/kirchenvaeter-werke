@@ -1,0 +1,19 @@
+# Über die Inkarnation des Wortes – Kapitel 35: Jungfrauengeburt und Stern unterscheiden den verheißenen Christus von allen früheren Gerechten
+
+Autor: Athanasius
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/ueber-die-inkarnation-des-wortes#kapitel-0dbacf4f-d10a-4a23-a5b3-08decaa0e93d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Vielleicht aber suchst du, nachdem du die Weissagung über den Tod gehört hast, auch das zu erfahren, was über das Kreuz angezeigt wird\. Denn auch dies ist keineswegs verschwiegen; vielmehr ist es durch die Heiligen sehr deutlich kundgetan worden\. Mose nämlich verkündet es zuerst mit lauter Stimme und sagt: „Ihr werdet euer Leben vor euren Augen hängen sehen und werdet nicht glauben[^bible-dd2e0758-9b60-457d-987d-be97b46fd4bb]\.“ Und auch die Propheten nach ihm bezeugen wiederum dies, indem sie sagen: „Ich aber war wie ein argloses Lamm, das zum Schlachten geführt wird, und ich wusste nicht: Gegen mich planten sie Böses und sagten: Kommt, lasst uns Holz in sein Brot werfen und ihn aus dem Land der Lebenden tilgen[^bible-d235eda3-f915-4a06-a29c-5d1287ec73de]\.“ Und wiederum: „Sie haben meine Hände und meine Füße durchgraben; sie haben alle meine Gebeine gezählt, sie haben meine Kleider unter sich verteilt und über mein Gewand das Los geworfen[^bible-8ea5c592-5584-47c0-a9f5-380b1e9bf961]\.“ Ein Tod aber, der erhöht ist und am Holz geschieht, kann kein anderer sein als das Kreuz; und bei keinem anderen Tod werden Hände und Füße durchbohrt als allein beim Kreuz\. Da nun mit der Ankunft des Retters auch alle Völker von überallher begonnen haben, Gott zu erkennen, ließen sie auch dies nicht unbezeichnet; vielmehr findet sich auch davon ein Gedenken in den heiligen Schriften: „Es wird nämlich, heißt es, die Wurzel Isais sein, und der, der sich erhebt, um über Völker zu herrschen; auf ihn werden die Völker hoffen[^bible-3dde3a9a-a2e3-4071-80f3-cbf4ad23b8b8]\.“ Dies wenige mag als Beweis für das Geschehene dienen\.
+
+ Die ganze Schrift aber ist voll davon, den Unglauben der Juden zu überführen\. Denn wer von den Gerechten, heiligen Propheten und Patriarchen, von denen in den göttlichen Schriften berichtet wird, hatte je die Entstehung seines Körpers aus einer Jungfrau allein? Oder welche Frau war ohne Mann imstande, Menschen hervorzubringen? Ist nicht Abel aus Adam hervorgegangen, Henoch aber aus Jared, Noah aus Lamech, Abraham aus Tharra, Isaak aus Abraham und Jakob aus Isaak? Nicht Juda aus Jakob und Mose und Aaron aus Abraham? Ist nicht Samuel aus Elkana hervorgegangen, David aus Isai, Salomo aus David, Hezekiah aus Ahas, Josia aus Amon, Jesaja aus Amoz, Jeremia aus Hilkija, Ezechiel aus Buzi? Hatte nicht jeder den Vater als Ursprung seiner Geburt? Wer ist also der, der aus einer Jungfrau allein hervorgegangen ist? Denn gerade an dieser Anzeige lag dem Propheten sehr viel\. Wessen Geburt aber ging ein Stern am Himmel voraus und zeigte den Geborenen der bewohnten Welt an? Als Mose geboren wurde, verbargen ihn seine Eltern; von David aber hörten nicht einmal die Nachbarn, ja selbst der große Samuel kannte ihn nicht, sondern fragte, ob Isai noch einen Sohn habe\. Abraham aber wurde erst, nachdem er groß geworden war, den Nahestehenden bekannt\. Für die Geburt Christi dagegen war nicht ein Mensch Zeuge, sondern ein Stern, der am Himmel erschien und von dort herabkam\.
+
+## Bibelverweise
+
+[^bible-3dde3a9a-a2e3-4071-80f3-cbf4ad23b8b8]: Jes 11,10
+[^bible-8ea5c592-5584-47c0-a9f5-380b1e9bf961]: Ps 21,17–Ps 21,19
+[^bible-d235eda3-f915-4a06-a29c-5d1287ec73de]: Jer 11,19
+[^bible-dd2e0758-9b60-457d-987d-be97b46fd4bb]: Dtn 28,66

@@ -1,0 +1,17 @@
+# Über die Inkarnation des Wortes – Kapitel 32: Auch unsichtbar erweist sich Christus als auferstanden, denn die Dämonen gehorchen seinem Namen
+
+Autor: Athanasius
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/ueber-die-inkarnation-des-wortes#kapitel-00aad0d2-45f9-4dec-a5b0-08decaa0e93d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn man aber, weil er nicht gesehen wird, auch seiner Auferweckung nicht glaubt, dann ist es Zeit, dass die Ungläubigen auch das Naturgemäße leugnen\. Denn Gott ist es eigen, zwar nicht gesehen, aber aus den Werken erkannt zu werden, wie auch oben gesagt worden ist\. Wenn es also keine Werke gibt, dann tun sie recht daran, dem nicht Erscheinenden nicht zu glauben\. Wenn aber die Werke rufen und es deutlich zeigen, warum leugnen sie dann freiwillig das Leben der Auferstehung, das so offenbar ist? Denn auch wenn ihr Verstand verhärtet ist, so kann man doch wenigstens mit den äußeren Sinnen die unwidersprechliche Macht und Gottheit Christi sehen\. Denn auch wenn ein Blinder die Sonne nicht sieht, erkennt er doch wenigstens, indem er die von ihr ausgehende Wärme wahrnimmt, dass die Sonne über der Erde steht\. So sollen auch die Widersprechenden, wenn sie auch noch nicht glauben, weil sie hinsichtlich der Wahrheit noch blind sind, doch wenigstens, indem sie an anderen, die glauben, die Macht erkennen, die Gottheit Christi und die durch ihn geschehene Auferstehung nicht leugnen\. Denn es ist offenkundig: Wenn Christus tot ist, würde er nicht die Dämonen vertreiben und die Götzen ausplündern; denn einem Toten hätten die Dämonen nicht gehorcht\. Wenn sie aber offenkundig durch die Nennung seines Namens vertrieben werden, dann ist deutlich, dass er nicht tot ist, zumal die Dämonen, die auch das sehen, was den Menschen unsichtbar ist, erkennen könnten, wenn Christus tot wäre, und ihm keineswegs gehorchen würden\. Nun aber sehen die Dämonen, was die Gottlosen nicht glauben: dass er Gott ist\. Darum fliehen sie und fallen vor ihm nieder und sagen, was sie auch ausriefen, als er im Körper war: „Wir wissen, wer du bist: der Heilige Gottes[^bible-533621bf-1c2e-489e-8c82-1e96f25c87ec]“; und: „Was haben wir mit dir zu schaffen, Sohn Gottes?[^bible-02882087-a05d-4a4c-95d6-b4d0e24ab8da] Ich bitte dich, quäle mich nicht[^bible-d401b87c-839b-4241-8f18-2297f91f1a25]\.“ Da also die Dämonen bekennen und die Werke Tag für Tag Zeugnis geben, ist es offensichtlich, und niemand soll sich gegen die Wahrheit unverschämt stellen: Der Retter hat seinen eigenen Körper auferweckt, und er ist der wahre Sohn Gottes, aus ihm, als aus dem Vater, als eigenes Wort und Weisheit und Macht hervorgehend\. Später nahm er zur Rettung aller einen Körper an, lehrte den Erdkreis über den Vater, machte den Tod zunichte und schenkte allen die Unvergänglichkeit durch die Verheißung der Auferstehung, indem er seinen eigenen Körper als Erstlingsgabe[^bible-f91c7802-e7b9-4a2b-9d49-63fb908c0ad3] dieser Auferstehung erweckte und ihn durch das Zeichen des Kreuzes als Siegeszeichen über den Tod und dessen Verwesung erwies\.
+
+## Bibelverweise
+
+[^bible-02882087-a05d-4a4c-95d6-b4d0e24ab8da]: Mt 8,29
+[^bible-533621bf-1c2e-489e-8c82-1e96f25c87ec]: Mk 1,24
+[^bible-d401b87c-839b-4241-8f18-2297f91f1a25]: Lk 8,28
+[^bible-f91c7802-e7b9-4a2b-9d49-63fb908c0ad3]: 1Kor 15,20

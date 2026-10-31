@@ -1,0 +1,15 @@
+# Über die Inkarnation des Wortes – Kapitel 5: Die Abkehr vom Wort lässt Sünde und Verderbnis unter den Menschen überhandnehmen
+
+Autor: Athanasius
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/athanasius/ueber-die-inkarnation-des-wortes#kapitel-08c13358-98a0-4208-6269-08ddf921fc97).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Denn Gott hat uns nicht nur aus dem Nichtseienden geschaffen, sondern uns durch die Gnade des Wortes auch das Leben nach Gott geschenkt\. Die Menschen aber wandten sich vom Ewigen ab und kehrten sich auf Rat des Teufels dem Verderblichen zu; so wurden sie selbst Ursache der Verderbnis im Tod\. Zwar waren sie, wie ich zuvor sagte, von Natur verderblich, doch durch die Gnade der Teilhabe am Wort wären sie der naturgemäßen Verderbnis entronnen, wenn sie gut geblieben wären\. Denn wegen des Wortes, das ihnen gegenwärtig war, rührte auch ihre naturgemäße Verderbnis sie nicht an, wie auch die Weisheit sagt: „Gott schuf den Menschen zur Unvergänglichkeit und zum Abbild seiner eigenen Ewigkeit; durch den Neid des Teufels aber kam der Tod in die Welt[^bible-5db4f1dd-7463-4b70-978a-bbe015dfee05]\.“ Als dies aber geschehen war, starben die Menschen, und die Verderbnis gewann fortan Macht über sie; sie wirkte stärker als das Naturgemäße über das ganze Geschlecht hin, zumal sie wegen der Übertretung des Gebotes auch die Drohung Gottes gegen sie voraus hatte\. Denn auch in ihren Verfehlungen blieben die Menschen nicht innerhalb bestimmter Grenzen stehen, sondern schritten nach und nach weiter fort und gelangten schließlich ins Maßlose\. Zuerst wurden sie Erfinder der Bosheit und riefen gegen sich selbst Tod und Verderbnis herbei; später aber wandten sie sich der Ungerechtigkeit zu, überboten jede Gesetzlosigkeit, blieben bei keinem einzigen Übel stehen, sondern ersannen immer neue Übel zu den neuen, und wurden unersättlich im Sündigen\. Ehebruch und Diebstähle gab es überall, und die ganze Erde war voll von Mordtaten und Raub\. Um das Gesetz kümmerte man sich angesichts von Verderbnis und Ungerechtigkeit nicht; vielmehr wurde jedes Übel, einzeln und gemeinsam, von allen verübt\. Städte führten Krieg gegen Städte, und Völker erhoben sich gegen Völker; der ganze Erdkreis war durch Aufstände und Kämpfe zerrissen, da jeder im Gesetzesbruch wetteiferte\. Auch das Widernatürliche blieb davon nicht fern, sondern, wie der Zeuge Christi, der Apostel, gesagt hat: „Denn ihre Frauen vertauschten den natürlichen Verkehr mit dem widernatürlichen; ebenso verließen auch die Männer den natürlichen Verkehr mit der Frau und entbrannten in ihrer Begierde zueinander, Männer mit Männern trieben Schamlosigkeit und empfingen an sich selbst den Lohn, der ihrer Verirrung gebührte[^bible-09675311-e9d5-4187-b788-bb812642aef8]\.“
+
+## Bibelverweise
+
+[^bible-09675311-e9d5-4187-b788-bb812642aef8]: Röm 1,26–Röm 1,27
+[^bible-5db4f1dd-7463-4b70-978a-bbe015dfee05]: Weish 2,23–Weish 2,24
