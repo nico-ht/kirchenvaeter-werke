@@ -1,0 +1,26 @@
+# Unvollendetes Buch über die wörtliche Auslegung der Genesis – Kapitel 1: Warum der katholische Glaube der Auslegung dunkler Schöpfungsfragen vorausgehen muss
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/unvollendetes-buch-ueber-die-woertliche-auslegung-der-genesis#kapitel-29684978-45d2-44cc-c2d8-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Bei der Behandlung des Dunklen in den Dingen der Natur, die wir als Werke des allmächtigen Gottes erkennen, soll man nicht behaupten, sondern fragen\. Das gilt besonders für die Bücher, die uns die göttliche Autorität empfiehlt\. Wer darin leichtfertig eine unsichere und zweifelhafte Meinung behauptet, macht sich nur allzu leicht eines Frevels schuldig\. Doch das Zweifeln beim Fragen darf die Grenzen des katholischen Glaubens nicht überschreiten\. Da viele Häretiker die Auslegung der göttlichen Schriften gewöhnlich nach ihrer eigenen Auffassung ausrichten, die vom Glauben der katholischen Lehre abweicht, muss vor der Behandlung dieses Buches der katholische Glaube kurz dargelegt werden\.
+
+Dieser Glaube lautet: Gott, der allmächtige Vater, hat die gesamte Schöpfung durch seinen einziggeborenen Sohn geschaffen und eingerichtet, also durch seine ihm wesensgleiche und mit ihm ewige Weisheit und Kraft[^bible-ccc096ec-916a-4f3e-af5c-53b0bc2de509], in der Einheit des Heiligen Geistes, der ihm ebenfalls wesensgleich und mit ihm ewig ist\. Die katholische Lehre verlangt also den Glauben, dass diese Dreifaltigkeit ein Gott zu nennen ist und dass er alles, was ist, gemacht und geschaffen hat, insofern es ist\. Das bedeutet: Die gesamte Schöpfung, ob geistiger oder körperlicher Art, oder, wie man es mit den Worten der göttlichen Schriften kürzer sagen kann, ob unsichtbar oder sichtbar[^bible-af698885-289c-4803-bfdc-d09e3e10d14c], ist nicht aus Gottes Natur, sondern von Gott aus nichts geschaffen worden\. Nichts in ihr gehört zur Dreifaltigkeit; mit ihr verbindet sie nur, dass die Dreifaltigkeit sie geschaffen hat und sie selbst geschaffen ist\. Darum darf man weder sagen noch glauben, die gesamte Schöpfung sei Gott wesensgleich oder mit ihm ewig\.
+
+Aber siehe, alles, was Gott geschaffen hat, ist sehr gut\.[^bible-5210552c-354b-4ff2-a308-f979b3872258] Das Böse dagegen ist nicht von Natur aus gegeben; vielmehr ist alles, was böse genannt wird, entweder Sünde oder Strafe für die Sünde\. Sünde ist nichts anderes als die verkehrte Zustimmung des freien Willens, wenn wir uns dem zuwenden, was die Gerechtigkeit verbietet und wovon wir uns aus freiem Willen fernhalten können\. Sie liegt also nicht in diesen Dingen, sondern in ihrem unrechtmäßigen Gebrauch\. Der Gebrauch der Dinge ist dann rechtmäßig, wenn die Seele im Gesetz Gottes bleibt, allein Gott in vollkommenster Liebe unterworfen ist und die übrigen, ihr untergeordneten Dinge ohne Habgier oder Begierde verwaltet, das heißt nach Gottes Gebot\. So wird sie diese Dinge ohne Schwierigkeit und Elend, mit größter Leichtigkeit und Glückseligkeit verwalten\. Die Strafe für die Sünde aber besteht darin, dass die Seele von eben den Geschöpfen gequält wird, die ihr nicht dienen, wenn sie selbst Gott nicht dient\. Diese Schöpfung gehorchte ihr, als sie selbst Gott gehorchte\. Somit ist das Feuer nicht böse, denn es ist ein Geschöpf Gottes; dass wir jedoch in unserer Schwäche von ihm verbrannt werden, haben wir durch die Sünde verdient\. Als naturgegebene Sünden bezeichnet man diejenigen, die wir unausweichlich begehen, solange wir Gottes Erbarmen noch nicht erfahren haben, nachdem wir durch die Sünde des freien Willens in dieses Leben gefallen sind\.
+
+Der Mensch aber wird durch Jesus Christus, unseren Herrn, erneuert\. Denn die unaussprechliche und unwandelbare Weisheit Gottes selbst hat sich dazu herabgelassen, einen vollständigen und ganzen Menschen anzunehmen und aus dem Heiligen Geist und der Jungfrau Maria geboren[^bible-cab1b599-ccf0-409a-a331-a4d27f7690be], gekreuzigt und begraben zu werden, aufzuerstehen und in den Himmel aufzufahren[^bible-5f42ed0a-4e0e-42c0-988a-d6d8e416804e]\. Das ist bereits geschehen\. Dass sie am Ende der Welt kommen wird, um die Lebenden und die Toten zu richten[^bible-879021c0-f04d-4960-b0a4-49d030dad647], und dass die Toten im Fleisch auferstehen werden, wird als noch zukünftig verkündet\. Denen, die an ihn glauben, ist der Heilige Geist gegeben worden\.[^bible-c016624e-ebe2-4f48-b505-1a8a7b3b63e6] Von ihm wurde die Mutter Kirche gegründet\. Sie wird katholisch genannt, weil sie in jeder Hinsicht vollkommen ist, in nichts hinkt und über die ganze Erde verbreitet ist\. Denen, die umkehren, sind ihre früheren Sünden vergeben und das ewige Leben und das Himmelreich verheißen worden\.
+
+## Bibelverweise
+
+[^bible-5210552c-354b-4ff2-a308-f979b3872258]: Gen 1,31
+[^bible-5f42ed0a-4e0e-42c0-988a-d6d8e416804e]: Mk 15,24; Mk 15,46; Mk 16,6; Mk 16,19
+[^bible-879021c0-f04d-4960-b0a4-49d030dad647]: 2Tim 4,1
+[^bible-af698885-289c-4803-bfdc-d09e3e10d14c]: Kol 1,16
+[^bible-c016624e-ebe2-4f48-b505-1a8a7b3b63e6]: Joh 7,39
+[^bible-cab1b599-ccf0-409a-a331-a4d27f7690be]: Mt 1,18–Mt 1,23
+[^bible-ccc096ec-916a-4f3e-af5c-53b0bc2de509]: 1Kor 1,24
