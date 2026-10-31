@@ -1,10 +1,31 @@
 [
   {
+    "workId": "fed8c38b-5513-460a-c39b-08df346fe1ab",
+    "authorName": "Ambrosius von Mailand",
+    "title": "1. Schrift über Abraham",
+    "directory": "werke/Ambrosius von Mailand/Über Abraham/1. Schrift über Abraham",
+    "contentRevision": "sha256:83c529395c766e975f7eb6405e5ab5ae0df4a3446dc7ba80725709ea0b85d6d3"
+  },
+  {
+    "workId": "44d14e02-4ce9-4156-6636-08dea9eff3bb",
+    "authorName": "Ambrosius von Mailand",
+    "title": "2. Schrift über Abraham",
+    "directory": "werke/Ambrosius von Mailand/Über Abraham/2. Schrift über Abraham",
+    "contentRevision": "sha256:2287400253d8ca366692313b242d6cab3e2cc698600238e4f6b0aad403d54fb2"
+  },
+  {
     "workId": "00470617-d0c8-4c27-329f-08dd341bea74",
     "authorName": "Ambrosius von Mailand",
     "title": "Brief 69",
     "directory": "werke/Ambrosius von Mailand/Briefe/Brief 69",
     "contentRevision": "sha256:b93f759ac9eac6d5858397479e8eb9c673204870d1978844f5f4e4a7a5164fdf"
+  },
+  {
+    "workId": "b3e48dbf-acb1-4377-680c-08df341a0b73",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Die Klagen Hiobs und Davids, Buch 1",
+    "directory": "werke/Ambrosius von Mailand/Die Klagen Hiobs und Davids/Die Klagen Hiobs und Davids, Buch 1",
+    "contentRevision": "sha256:14f4bc9b69388257d17c53b819e43ce56bacdd7f4db69ce66433064965c433b4"
   },
   {
     "workId": "2acaa49e-56f5-4f4b-680d-08df341a0b73",
@@ -14,11 +35,53 @@
     "contentRevision": "sha256:52c8d7e8728bd8b6f74c8b11dee636ce984d25b154964a9194243123da164691"
   },
   {
+    "workId": "b5f64ac5-8718-49f3-680e-08df341a0b73",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Die Klagen Hiobs und Davids, Buch 3",
+    "directory": "werke/Ambrosius von Mailand/Die Klagen Hiobs und Davids/Die Klagen Hiobs und Davids, Buch 3",
+    "contentRevision": "sha256:5f6b9d1cf41678c22d52df467b7b0086c1b774669cae41e3af4ff28b1172ac0a"
+  },
+  {
     "workId": "40d94940-a2fb-4384-680f-08df341a0b73",
     "authorName": "Ambrosius von Mailand",
     "title": "Die Klagen Hiobs und Davids, Buch 4",
     "directory": "werke/Ambrosius von Mailand/Die Klagen Hiobs und Davids/Die Klagen Hiobs und Davids, Buch 4",
     "contentRevision": "sha256:d1732726426716a930269f0703c3d14e4db7e2d8c3458fe0b64014631947cb5a"
+  },
+  {
+    "workId": "5c31cad1-7e14-4b20-bcd7-08df20c6ce7a",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Isaak oder die Seele",
+    "directory": "werke/Ambrosius von Mailand/Sieben exegetische Werke/Isaak oder die Seele",
+    "contentRevision": "sha256:79c12e089dedfe7ad46f55696101aa37125bbbff4d0b728ad47c1ac78a89b87a"
+  },
+  {
+    "workId": "35fc0202-534d-4d2a-c39c-08df346fe1ab",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Jakob und das glückliche Leben, Buch 1",
+    "directory": "werke/Ambrosius von Mailand/Sieben exegetische Werke/Jakob und das glückliche Leben, Buch 1",
+    "contentRevision": "sha256:b8d3353622760add67799f9509f4a062095bfdc4f3e74d9b038ee9b4ed589e78"
+  },
+  {
+    "workId": "b68a3132-df7f-43e1-bcd5-08df20c6ce7a",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Jakob und das glückliche Leben, Buch 2",
+    "directory": "werke/Ambrosius von Mailand/Sieben exegetische Werke/Jakob und das glückliche Leben, Buch 2",
+    "contentRevision": "sha256:5486dd5f444a000e7f22e8f7e55f7da113b9893bb49741ee35e0c83eac7ed797"
+  },
+  {
+    "workId": "521bfd47-44f6-4322-c398-08df346fe1ab",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Kain und Abel, Buch 1",
+    "directory": "werke/Ambrosius von Mailand/Kain und Abel/Kain und Abel, Buch 1",
+    "contentRevision": "sha256:c51ad7e9ae8146fe8b45b3426f011700536a5e67000b4ea64d705994acb8640a"
+  },
+  {
+    "workId": "9b51d47d-9e1a-4cb9-c399-08df346fe1ab",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Kain und Abel, Buch 2",
+    "directory": "werke/Ambrosius von Mailand/Kain und Abel/Kain und Abel, Buch 2",
+    "contentRevision": "sha256:3516ececb9303a2e61a89e2d5d34234c4c382e0a1aea441666144e6a05adfcea"
   },
   {
     "workId": "b27be0ce-8b3a-4bef-2530-08dd75f9cbf5",
@@ -42,11 +105,32 @@
     "contentRevision": "sha256:8d226350a37984bd84cdc60976fb808fbf934dbe599adb96812308747dc1fd27"
   },
   {
+    "workId": "c7f535f4-c989-45a8-c395-08df346fe1ab",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Sechstagewerk, Buch 3",
+    "directory": "werke/Ambrosius von Mailand/Sechstagewerk/Sechstagewerk, Buch 3",
+    "contentRevision": "sha256:7a27c4f690f34d6190c39c65a7a23e630af792febc46b89218f9105cc807f254"
+  },
+  {
     "workId": "b1fedafe-8b05-4123-c396-08df346fe1ab",
     "authorName": "Ambrosius von Mailand",
     "title": "Sechstagewerk, Buch 4",
     "directory": "werke/Ambrosius von Mailand/Sechstagewerk/Sechstagewerk, Buch 4",
     "contentRevision": "sha256:aaaf14f62c256d7fca9a08e0c75a867f5732a463b81076a7c41e9be6a6111929"
+  },
+  {
+    "workId": "098f5513-1e74-47c4-c397-08df346fe1ab",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Sechstagewerk, Buch 5",
+    "directory": "werke/Ambrosius von Mailand/Sechstagewerk/Sechstagewerk, Buch 5",
+    "contentRevision": "sha256:7d3d4536e22a0f3b1915bced9c1b697f5805d655d9a91642dceade51c712e121"
+  },
+  {
+    "workId": "a2582a4f-9651-4c30-2084-08dead0f2325",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Sechstagewerk, Buch 6",
+    "directory": "werke/Ambrosius von Mailand/Sechstagewerk/Sechstagewerk, Buch 6",
+    "contentRevision": "sha256:b0aebbcade203120b59f858e0a0a1de1e0ec9a397be3522dd383a3e49fc78ce7"
   },
   {
     "workId": "7bf2a7af-28fb-45d9-5a9d-08df1c172963",
@@ -70,6 +154,13 @@
     "contentRevision": "sha256:53aaa59f1694a81752174f3418488ec931bacca0caa25819403efb1c8a1c0d59"
   },
   {
+    "workId": "c7cddf97-f86f-49ea-c39a-08df346fe1ab",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Über Noah und die Arche",
+    "directory": "werke/Ambrosius von Mailand/Über Noah und die Arche",
+    "contentRevision": "sha256:dba7655cdafc8e1dc3fefa3ef3a7c7c101ff12b3020da631771b340636b58c99"
+  },
+  {
     "workId": "b1836539-e0a3-4ce0-5a9e-08df1c172963",
     "authorName": "Ambrosius von Mailand",
     "title": "Über Tobias",
@@ -82,6 +173,13 @@
     "title": "Über das Geheimnis der Menschwerdung des Herrn",
     "directory": "werke/Ambrosius von Mailand/Über das Geheimnis der Menschwerdung des Herrn",
     "contentRevision": "sha256:ae5c9f8274baeed97027006af2c11a863a0dc3b5ce46cac3712d1d7a4bfcd336"
+  },
+  {
+    "workId": "18498aa2-6e66-48e4-2087-08dead0f2325",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Über das Paradies",
+    "directory": "werke/Ambrosius von Mailand/Über das Paradies",
+    "contentRevision": "sha256:ee0a2185bc13d78846302c886e9d393b6368a7f165ab7250103a3e355386a957"
   },
   {
     "workId": "e60fe068-d835-455d-c536-08df20d50984",
@@ -287,6 +385,13 @@
     "contentRevision": "sha256:68508ae036eb298e3cbcc531c45ad95d7803befb798b2a5b2fd33c69eece3f8f"
   },
   {
+    "workId": "2e35db1a-c6f2-429c-cfee-08ddcb61d370",
+    "authorName": "Athanasius",
+    "title": "Über die Inkarnation des Wortes",
+    "directory": "werke/Athanasius/Über die Inkarnation des Wortes",
+    "contentRevision": "sha256:76231bf01fa0d5a0ea31f6bd0b4fb591ee3758e9de8eb5a57ba64c6b981f34c0"
+  },
+  {
     "workId": "9479839f-799f-4183-329e-08dd341bea74",
     "authorName": "Athenagoras von Athen",
     "title": "Ein Plädoyer für die Christen",
@@ -301,11 +406,95 @@
     "contentRevision": "sha256:be15140f88162c698a1d7dd38b67765926f485312e096eb14bea21938da2db2e"
   },
   {
+    "workId": "dfb1f7d4-b85f-4b9a-c3a0-08df346fe1ab",
+    "authorName": "Augustinus",
+    "title": "1. Schrift von der wörtlichen Auslegung von Genesis",
+    "directory": "werke/Augustinus/Die wörtliche Auslegung von Genesis/1. Schrift von der wörtlichen Auslegung von Genesis",
+    "contentRevision": "sha256:5a58a71f9111733f04bc90bc5fcf1ab9fdd0ac18decc10bebaec7122d274d4fc"
+  },
+  {
+    "workId": "0bd08e3a-216b-4d26-de1e-08dea9f7b123",
+    "authorName": "Augustinus",
+    "title": "10. Schrift von der wörtlichen Auslegung von Genesis",
+    "directory": "werke/Augustinus/Die wörtliche Auslegung von Genesis/10. Schrift von der wörtlichen Auslegung von Genesis",
+    "contentRevision": "sha256:2ba44ac80d8c7723dfc2012da00358097a5b2fe5329133f41913e52372cf40be"
+  },
+  {
+    "workId": "0925ec52-8fa2-46c4-c3a9-08df346fe1ab",
+    "authorName": "Augustinus",
+    "title": "11. Schrift von der wörtlichen Auslegung von Genesis",
+    "directory": "werke/Augustinus/Die wörtliche Auslegung von Genesis/11. Schrift von der wörtlichen Auslegung von Genesis",
+    "contentRevision": "sha256:aa543ee5652f0b588436271346624b0983b82035f6d05622f2f1f8daffeb2c95"
+  },
+  {
+    "workId": "7deddc7d-238c-4397-c3aa-08df346fe1ab",
+    "authorName": "Augustinus",
+    "title": "12. Schrift von der wörtlichen Auslegung von Genesis",
+    "directory": "werke/Augustinus/Die wörtliche Auslegung von Genesis/12. Schrift von der wörtlichen Auslegung von Genesis",
+    "contentRevision": "sha256:9c5b4225b2a6a425d763b6b2b734bcdbf62d6d7271f61ae12db808455bda8d4d"
+  },
+  {
+    "workId": "5e38ab00-8dfd-4430-c3a1-08df346fe1ab",
+    "authorName": "Augustinus",
+    "title": "2. Schrift von der wörtlichen Auslegung von Genesis",
+    "directory": "werke/Augustinus/Die wörtliche Auslegung von Genesis/2. Schrift von der wörtlichen Auslegung von Genesis",
+    "contentRevision": "sha256:6bb27fb94122271fb3e8e2fd0bccf79f7a0ce16b9cae1ac6acdadf1118d603c7"
+  },
+  {
+    "workId": "65e01fee-cd08-4ce8-c3a2-08df346fe1ab",
+    "authorName": "Augustinus",
+    "title": "3. Schrift von der wörtlichen Auslegung von Genesis",
+    "directory": "werke/Augustinus/Die wörtliche Auslegung von Genesis/3. Schrift von der wörtlichen Auslegung von Genesis",
+    "contentRevision": "sha256:e1ab8a650addd5e1d358052d80e479e10be71237c6cd47429033538ca5186edf"
+  },
+  {
     "workId": "74ce86d0-5321-4359-45c3-08df133193d4",
     "authorName": "Augustinus",
     "title": "391. Predigt – An die Jugend",
     "directory": "werke/Augustinus/Predigten/391. Predigt – An die Jugend",
     "contentRevision": "sha256:ccb875fcba5e3bfe7c4b4de68bb0b86b61270eede9f0336a672f9150e899ff98"
+  },
+  {
+    "workId": "516915a9-de0b-4990-c3a3-08df346fe1ab",
+    "authorName": "Augustinus",
+    "title": "4. Schrift von der wörtlichen Auslegung von Genesis",
+    "directory": "werke/Augustinus/Die wörtliche Auslegung von Genesis/4. Schrift von der wörtlichen Auslegung von Genesis",
+    "contentRevision": "sha256:6acc7c46d02084d440c6bd95e62517d83ff521dba8a06b9371f31e31c5614d43"
+  },
+  {
+    "workId": "f0a45aaa-9342-4903-c3a4-08df346fe1ab",
+    "authorName": "Augustinus",
+    "title": "5. Schrift von der wörtlichen Auslegung von Genesis",
+    "directory": "werke/Augustinus/Die wörtliche Auslegung von Genesis/5. Schrift von der wörtlichen Auslegung von Genesis",
+    "contentRevision": "sha256:86b69aa3e674c0a984179a6da19fda3ce36fffac6194e00b6a0c7e1c63eb5d0e"
+  },
+  {
+    "workId": "23deca72-8a29-443b-c3a5-08df346fe1ab",
+    "authorName": "Augustinus",
+    "title": "6. Schrift von der wörtlichen Auslegung von Genesis",
+    "directory": "werke/Augustinus/Die wörtliche Auslegung von Genesis/6. Schrift von der wörtlichen Auslegung von Genesis",
+    "contentRevision": "sha256:bcb60294a333959317eaf1bd21160b0e2a61b39e15e6bce808387c805ab89e50"
+  },
+  {
+    "workId": "49cd4a4d-a3c6-4e10-c3a6-08df346fe1ab",
+    "authorName": "Augustinus",
+    "title": "7. Schrift von der wörtlichen Auslegung von Genesis",
+    "directory": "werke/Augustinus/Die wörtliche Auslegung von Genesis/7. Schrift von der wörtlichen Auslegung von Genesis",
+    "contentRevision": "sha256:49020d0a8e63ff6a3dc311d7f9f497c7ac88ba80b2cd760212291984e0a8868b"
+  },
+  {
+    "workId": "a25ea51d-5734-4acc-c3a7-08df346fe1ab",
+    "authorName": "Augustinus",
+    "title": "8. Schrift von der wörtlichen Auslegung von Genesis",
+    "directory": "werke/Augustinus/Die wörtliche Auslegung von Genesis/8. Schrift von der wörtlichen Auslegung von Genesis",
+    "contentRevision": "sha256:9e81d38761644bf8c9720a047b6e1b3dc7e063bc508a2d01ff76d308e9a05fa8"
+  },
+  {
+    "workId": "869e1f2d-d12a-48ab-c3a8-08df346fe1ab",
+    "authorName": "Augustinus",
+    "title": "9. Schrift von der wörtlichen Auslegung von Genesis",
+    "directory": "werke/Augustinus/Die wörtliche Auslegung von Genesis/9. Schrift von der wörtlichen Auslegung von Genesis",
+    "contentRevision": "sha256:3bfd03ea127a7ec4cd49eed267ba7025f5c6454d8beeb44245a83d0debcf3fd9"
   },
   {
     "workId": "58765e75-22c3-474e-7958-08df04fdf8e1",
@@ -327,6 +516,27 @@
     "title": "Gegen die Akademiker – Buch 3",
     "directory": "werke/Augustinus/Gegen die Akademiker/Gegen die Akademiker – Buch 3",
     "contentRevision": "sha256:9a0f791e48f309b09289649a46713661efe10ad57817814688f9db10461fddc5"
+  },
+  {
+    "workId": "2a7acb64-175d-48d7-c39f-08df346fe1ab",
+    "authorName": "Augustinus",
+    "title": "Unvollendetes Buch über die wörtliche Auslegung der Genesis",
+    "directory": "werke/Augustinus/Unvollendetes Buch über die wörtliche Auslegung der Genesis",
+    "contentRevision": "sha256:008c16a639a8baa31c06d7f3dfbd7bc55862283bbf94171bcfacbc54acb27fdb"
+  },
+  {
+    "workId": "8857f95a-d5ce-49c3-c39d-08df346fe1ab",
+    "authorName": "Augustinus",
+    "title": "Über Genesis gegen die Manichäer, Buch 1",
+    "directory": "werke/Augustinus/Über Genesis gegen die Manichäer/Über Genesis gegen die Manichäer, Buch 1",
+    "contentRevision": "sha256:71b1e3e29443e2d83984d5a578fc7db66e64c613035fc85e4bdfc008528bc279"
+  },
+  {
+    "workId": "8d443025-be00-4f38-c39e-08df346fe1ab",
+    "authorName": "Augustinus",
+    "title": "Über Genesis gegen die Manichäer, Buch 2",
+    "directory": "werke/Augustinus/Über Genesis gegen die Manichäer/Über Genesis gegen die Manichäer, Buch 2",
+    "contentRevision": "sha256:73ac123e7763265edbbe8e3b9ee13217ea4c754e3cc5ac8386533c4a905a00e4"
   },
   {
     "workId": "d2d2cb5d-b366-41b5-d002-08df29550049",
@@ -1589,6 +1799,13 @@
     "contentRevision": "sha256:cb8690ae0e69e3e6cd1b326007e1cd9f208b4da065a5076a88cb8e5f63dbfb76"
   },
   {
+    "workId": "edca205b-35ce-406e-0d14-08deaac01ae8",
+    "authorName": "Johannes Chrysostomus",
+    "title": "23. Homilie über Genesis",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Genesis/23. Homilie über Genesis",
+    "contentRevision": "sha256:16fa70624701a18c1c3d724301f78beb6b4524ff95bbab5ac005c2af4dc572b0"
+  },
+  {
     "workId": "3fb3b05f-0757-4b99-5593-08deedfb48dc",
     "authorName": "Johannes Chrysostomus",
     "title": "23. Homilie über Matthäus",
@@ -2758,6 +2975,13 @@
     "contentRevision": "sha256:5b55e9e10bc1d4a864d5782c97d26321acdd1a6061e8a9f7b37ea2298a5ccab1"
   },
   {
+    "workId": "2389c032-183b-4905-885f-08df34555aa5",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Glaphyra zur Genesis",
+    "directory": "werke/Kyrill von Alexandria/Glaphyra zur Genesis",
+    "contentRevision": "sha256:0454f37dd8b00bfedf41a296102138733f50f44e9ebb3a0feb78e7db2f2fa04c"
+  },
+  {
     "workId": "29801750-43ba-4813-d9e1-08dea9fde3d9",
     "authorName": "Kyrill von Alexandria",
     "title": "Kommentar zu Johannes, Buch 7",
@@ -3113,6 +3337,13 @@
     "title": "an den Senator Ptolemaios",
     "directory": "werke/Nilus von Ankyra/Briefe/an den Senator Ptolemaios",
     "contentRevision": "sha256:dddc23e7494b54b215a0e1ce13bbf1299fab2939af52d4234f926216bc9eaefb"
+  },
+  {
+    "workId": "27a661d0-230a-4a74-5abd-08de14954133",
+    "authorName": "Novatian",
+    "title": "Über die Trinität",
+    "directory": "werke/Novatian/Über die Trinität",
+    "contentRevision": "sha256:2b95eb896f32243279af15e1beb3a9c609fd746119bc0bbfd5ca79f4155a58b0"
   },
   {
     "workId": "17034cf8-2b48-4c6e-5476-08ddc777b053",
@@ -3850,6 +4081,13 @@
     "contentRevision": "sha256:20f3895c53235284ce28a2ae0456f6a8766004cc4f8f32cfb94fdee24ecedaf5"
   },
   {
+    "workId": "5cda9f4f-fa08-4525-68b1-08dd1182264d",
+    "authorName": "Origenes",
+    "title": "Ermutigung zum Märtyrertod",
+    "directory": "werke/Origenes/Ermutigung zum Märtyrertod",
+    "contentRevision": "sha256:e205b7aa02aadda3c8e63cf3b82a8c463f07cc72cb4b2045f5c656e77e459c0c"
+  },
+  {
     "workId": "5dc9e45a-7c44-4b2d-5560-08de5df2dd09",
     "authorName": "Origenes",
     "title": "Fragmente aus den Kommentaren zu Exodus",
@@ -4515,6 +4753,13 @@
     "contentRevision": "sha256:cd9bf3f116dd1cd513e6a326e840047ce205d17c9b8cb2255e732eee7dbf1c57"
   },
   {
+    "workId": "b02d8ca4-1b39-4d0a-7246-08df1bbdfa0a",
+    "authorName": "Unbekannt",
+    "title": "Phaidon Koukoules: Das Leben einer Byzantinerin",
+    "directory": "werke/Unbekannt/Phaidon Koukoules Das Leben einer Byzantinerin",
+    "contentRevision": "sha256:eb8b2e69d92114e8a65abad51005d1dc0fbe8d2882fe9e35b5ca8503ec31d565"
+  },
+  {
     "workId": "16cf2c23-e67c-4865-fb2e-08df104798a7",
     "authorName": "Unbekannt",
     "title": "Physiologus",
@@ -4569,6 +4814,13 @@
     "title": "Über die Herrlichkeit des Martyriums",
     "directory": "werke/Unbekannt/Über die Herrlichkeit des Martyriums",
     "contentRevision": "sha256:3eab17f6225aa82a5b8199fa2a4bc18ef2bc1b53c855cb5844a8b580a9d31ada"
+  },
+  {
+    "workId": "64a33060-1bd5-4f6f-8a60-08df3287fdb0",
+    "authorName": "Unbekannt",
+    "title": "Über die Osterberechnung",
+    "directory": "werke/Unbekannt/Über die Osterberechnung",
+    "contentRevision": "sha256:869d95b448a81a368eef0aa31970a173e56f75e58c82e2855dbbd1a5877f3a46"
   },
   {
     "workId": "677d7a4d-af40-4462-e277-08dd2f5b6104",

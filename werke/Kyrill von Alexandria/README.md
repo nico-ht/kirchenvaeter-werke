@@ -11,3 +11,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Einzelwerke
 
 - [Fragmente zum ersten Korintherbrief](Fragmente%20zum%20ersten%20Korintherbrief/) · 1 Kapitel
+- [Glaphyra zur Genesis](Glaphyra%20zur%20Genesis/) · 7 Kapitel

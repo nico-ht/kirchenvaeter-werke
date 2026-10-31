@@ -16,6 +16,8 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [De spectaculis – Über die Schauspiele](De%20spectaculis%20%E2%80%93%20%C3%9Cber%20die%20Schauspiele/) · 10 Kapitel
 - [Gegen Novatian](Gegen%20Novatian/) · 18 Kapitel
 - [Gespräch des Archelaus](Gespr%C3%A4ch%20des%20Archelaus/) · 54 Kapitel
+- [Phaidon Koukoules: Das Leben einer Byzantinerin](Phaidon%20Koukoules%20Das%20Leben%20einer%20Byzantinerin/) · 21 Kapitel
 - [Physiologus](Physiologus/) · 51 Kapitel
 - [Prozess und Martyrium Cyprians](Prozess%20und%20Martyrium%20Cyprians/) · 6 Kapitel
 - [Über die Herrlichkeit des Martyriums](%C3%9Cber%20die%20Herrlichkeit%20des%20Martyriums/) · 30 Kapitel
+- [Über die Osterberechnung](%C3%9Cber%20die%20Osterberechnung/) · 23 Kapitel

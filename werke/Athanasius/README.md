@@ -17,3 +17,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Der Brief an Marcellinus](Der%20Brief%20an%20Marcellinus/) · 33 Kapitel
 - [Diskurs über das Heil einer Jungfrau](Diskurs%20%C3%BCber%20das%20Heil%20einer%20Jungfrau/) · 25 Kapitel
 - [Geschichte von Melchisedek](Geschichte%20von%20Melchisedek/) · 1 Kapitel
+- [Über die Inkarnation des Wortes](%C3%9Cber%20die%20Inkarnation%20des%20Wortes/) · 58 Kapitel

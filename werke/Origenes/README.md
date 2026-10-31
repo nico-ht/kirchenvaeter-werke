@@ -21,4 +21,5 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 - [Brief an Freunde in Alexandria](Brief%20an%20Freunde%20in%20Alexandria/) · 5 Kapitel
 - [Dialog mit Heraklides](Dialog%20mit%20Heraklides/) · 2 Kapitel
+- [Ermutigung zum Märtyrertod](Ermutigung%20zum%20M%C3%A4rtyrertod/) · 51 Kapitel
 - [Über das Gebet](%C3%9Cber%20das%20Gebet/) · 34 Kapitel

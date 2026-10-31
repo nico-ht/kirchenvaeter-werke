@@ -6,11 +6,14 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
+- [Die wörtliche Auslegung von Genesis](Die%20w%C3%B6rtliche%20Auslegung%20von%20Genesis/) · 12 Werke
 - [Gegen die Akademiker](Gegen%20die%20Akademiker/) · 3 Werke
 - [Predigten](Predigten/) · 1 Werk
+- [Über Genesis gegen die Manichäer](%C3%9Cber%20Genesis%20gegen%20die%20Manich%C3%A4er/) · 2 Werke
 
 ## Einzelwerke
 
+- [Unvollendetes Buch über die wörtliche Auslegung der Genesis](Unvollendetes%20Buch%20%C3%BCber%20die%20w%C3%B6rtliche%20Auslegung%20der%20Genesis/) · 16 Kapitel
 - [Über den Glauben an unsichtbare Dinge (De fide rerum quae non videntur)](%C3%9Cber%20den%20Glauben%20an%20unsichtbare%20Dinge%20%28De%20fide%20rerum%20quae%20non%20videntur%29/) · 8 Kapitel
 - [Über den Glauben und Werke](%C3%9Cber%20den%20Glauben%20und%20Werke/) · 27 Kapitel
 - [Über den Nutzen des Glaubens (De utilitate credendi)](%C3%9Cber%20den%20Nutzen%20des%20Glaubens%20%28De%20utilitate%20credendi%29/) · 18 Kapitel

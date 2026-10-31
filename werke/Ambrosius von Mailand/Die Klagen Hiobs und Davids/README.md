@@ -8,5 +8,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werke
 
+- [Die Klagen Hiobs und Davids, Buch 1](Die%20Klagen%20Hiobs%20und%20Davids%2C%20Buch%201/) · 9 Kapitel
 - [Die Klagen Hiobs und Davids, Buch 2](Die%20Klagen%20Hiobs%20und%20Davids%2C%20Buch%202/) · 10 Kapitel
+- [Die Klagen Hiobs und Davids, Buch 3](Die%20Klagen%20Hiobs%20und%20Davids%2C%20Buch%203/) · 5 Kapitel
 - [Die Klagen Hiobs und Davids, Buch 4](Die%20Klagen%20Hiobs%20und%20Davids%2C%20Buch%204/) · 11 Kapitel

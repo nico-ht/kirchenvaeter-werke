@@ -30,6 +30,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [20. Homilie über Genesis](20.%20Homilie%20%C3%BCber%20Genesis/) · 5 Kapitel
 - [21. Homilie über Genesis](21.%20Homilie%20%C3%BCber%20Genesis/) · 6 Kapitel
 - [22. Homilie über Genesis](22.%20Homilie%20%C3%BCber%20Genesis/) · 7 Kapitel
+- [23. Homilie über Genesis](23.%20Homilie%20%C3%BCber%20Genesis/) · 6 Kapitel
 - [24. Homilie über Genesis](24.%20Homilie%20%C3%BCber%20Genesis/) · 8 Kapitel
 - [25. Homilie über Genesis](25.%20Homilie%20%C3%BCber%20Genesis/) · 7 Kapitel
 - [26. Homilie über Genesis](26.%20Homilie%20%C3%BCber%20Genesis/) · 6 Kapitel
