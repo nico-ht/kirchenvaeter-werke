@@ -1,0 +1,21 @@
+# Sechstagewerk, Buch 5 – Kapitel 9: Wenn Gott dem Seeigel Voraussicht schenkt, sorgt er erst recht für den Menschen
+
+Autor: Ambrosius von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/sechstagewerk-buch-5#kapitel-e92987b7-3c7e-4e3a-c212-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Der Igel, ein kleines, gering geachtetes und verächtliches Tier, ich meine den Seeigel, zeigt den Seefahrern häufig einen bevorstehenden Sturm an oder kündigt ruhige See an\. Wenn er nämlich einen Sturm vorausgespürt hat, ergreift er einen schweren Stein, trägt ihn wie Ballast mit sich und zieht ihn wie einen Anker hinter sich her, damit ihn die Wellen nicht fortreißen\. Er hält sich also nicht aus eigener Kraft im Gleichgewicht, sondern findet Halt am Gewicht eines anderen, festeren Körpers\. Die Seeleute verstehen dieses Verhalten als Zeichen eines bevorstehenden Unwetters und treffen Vorsorge, damit ein unerwarteter Wirbelsturm sie nicht unvorbereitet antrifft\. Welcher Sterndeuter, welcher Sternkundige oder welcher Chaldäer kann die Bahnen der Gestirne, die Bewegungen und Zeichen des Himmels so erfassen? Mit welchem Verstand hat der Seeigel das erschlossen? Von welchem Lehrer hat er es gelernt? Wer hat ihm ein so bedeutsames Vorzeichen gedeutet? Oft sehen Menschen, wie sich der Himmel trübt, und oft täuschen sie sich, weil die Trübung meist ohne Sturm wieder verfliegt\. Der Seeigel täuscht sich nicht; dem Seeigel entgehen seine Zeichen keineswegs\.
+
+Woher hat dieses kleine Tier so viel Wissen, dass es die Zukunft ankündigen kann? Gerade weil nichts an ihm eine solche Einsicht ermöglichen könnte, glaube umso mehr, dass auch dieses Tier durch die Güte des Herrn aller Dinge die Gabe der Voraussicht empfangen hat\. Denn wenn Gott das Gras so kleidet[^bible-bb16167b-a3f0-4c65-b6ea-6cf7604cc119], dass wir staunen; wenn er die Vögel ernährt[^bible-5e88657d-2b96-433d-ab84-b727cc101335]; wenn er dem Raben Nahrung bereitet hat, denn seine Jungen rufen zum Herrn[^bible-cc1ae6c0-38d7-48d1-b766-78514e38eb83]; wenn er den Frauen die Weisheit des Webens gegeben hat[^bible-4c2665d1-6dda-4c94-826e-0d75d311de05]; wenn er auch der Spinne Weisheit nicht vorenthalten hat[^bible-4c2665d1-6dda-4c94-826e-0d75d311de05], die so fein und kunstfertig ihre lockeren Netze in den Türöffnungen aufhängt; wenn er selbst dem Pferd Kraft gegeben und seinen Nacken von Furcht befreit hat, sodass es auf dem Feld freudig aufspringt, Königen entgegenläuft und sie verlacht, den Krieg von fern wittert und vom Klang der Trompete angespornt wird[^bible-a8fca781-7b37-4bce-9ee0-6dd5f7940a8b]; wenn er diese größtenteils vernunftlosen Wesen und andere, die nicht einmal Empfindung haben, wie Gras und Lilien, nach dem Plan seiner Weisheit so reich ausgestattet hat: Warum zweifeln wir dann daran, dass er auch dem Seeigel die Gabe dieser Voraussicht verliehen hat? Nichts hat er unerforscht, nichts unbeachtet gelassen\. Alles sieht er, der alles ernährt; alles erfüllt er mit Weisheit, der, wie geschrieben steht, „alles in Weisheit geschaffen hat[^bible-e84fa11c-9242-4e3a-a9a1-ce04be89c63a]“\. Wenn er also auch den Seeigel nicht von seiner Fürsorge ausgeschlossen hat, wenn er sich um ihn kümmert und ihn mit den Anzeichen des Künftigen vertraut macht, sollte er sich dann nicht um deine Angelegenheiten kümmern? Ja, er kümmert sich um sie, wie seine göttliche Weisheit selbst bezeugt: „Wenn er auf die Vögel achtet, wenn er sie ernährt, seid ihr nicht mehr wert als sie?[^bible-5e88657d-2b96-433d-ab84-b727cc101335] Wenn Gott das Gras auf dem Feld, das heute steht und morgen ins Feuer geworfen wird, so kleidet, wie viel mehr euch, ihr Kleingläubigen?[^bible-bb16167b-a3f0-4c65-b6ea-6cf7604cc119]“
+
+## Bibelverweise
+
+[^bible-4c2665d1-6dda-4c94-826e-0d75d311de05]: Hi 38,36
+[^bible-5e88657d-2b96-433d-ab84-b727cc101335]: Mt 6,26
+[^bible-a8fca781-7b37-4bce-9ee0-6dd5f7940a8b]: Hi 39,19–Hi 39,25
+[^bible-bb16167b-a3f0-4c65-b6ea-6cf7604cc119]: Mt 6,30
+[^bible-cc1ae6c0-38d7-48d1-b766-78514e38eb83]: Hi 38,41
+[^bible-e84fa11c-9242-4e3a-a9a1-ce04be89c63a]: Ps 103,24

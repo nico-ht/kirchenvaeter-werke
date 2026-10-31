@@ -1,0 +1,36 @@
+# Sechstagewerk, Buch 5 – Kapitel 23: Der Phönix stärkt den Auferstehungsglauben und mahnt, sich mit Glauben und Tugenden auf den Tod vorzubereiten
+
+Autor: Ambrosius von Mailand
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosius-von-mailand/sechstagewerk-buch-5#kapitel-a8658079-22a5-412a-c220-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und da wir von geflügelten Tieren sprechen, halten wir es nicht für unangebracht, auch das einzubeziehen, was die Naturkunde über den indischen Wurm überliefert oder diejenigen berichten, die ihn selbst sehen konnten\. Dieser gehörnte Wurm soll zunächst die Gestalt eines Pflanzenstängels annehmen und sich in dessen Natur verwandeln; im weiteren Verlauf wird er dann zur Seidenpuppe\. Doch auch diese Gestalt und Form behält er nicht bei, sondern bekommt anscheinend Flügel aus lockeren, breiteren Blättern\. Von diesen Blättern kämmen die Serer jene weiche Wolle ab, die die Reichen für ihren eigenen Gebrauch beansprucht haben\. Daher sagt auch der Herr: ‚Was wolltet ihr sehen, als ihr in die Wüste hinausgingt? Einen Menschen in weichen Gewändern? Seht, wer weiche Gewänder trägt, lebt in den Häusern der Könige\.[^bible-6438c4ad-022e-45d3-9085-e9d5157df459]‘ Auch das Chamäleon soll durch wechselnde Farben verschiedene Erscheinungsformen vortäuschen\. Dass Hasen im Winter weiß werden und im Sommer zu ihrer eigenen Farbe zurückkehren, steht jedenfalls außer Zweifel; das konnten wir aus nächster Nähe leicht feststellen\.
+
+Dies habe ich kurz gestreift, damit uns auch diese Beispiele zum Glauben an die Verwandlung anregen, die bei der Auferstehung eintreten wird\. Dabei meinen wir jedoch jene Verwandlung, die der Apostel klar beschrieben hat, als er sagte: ‚Wir werden zwar alle auferstehen, aber nicht alle werden verwandelt werden\.[^bible-153268f0-087f-4393-8c4f-8139a9787203]‘ Und weiter unten sagt er: ‚Und die Toten werden unvergänglich auferstehen, und wir werden verwandelt werden\. Denn dieses Vergängliche muss Unvergänglichkeit anziehen und dieses Sterbliche Unsterblichkeit\.[^bible-8b6aa950-8232-404b-872c-1ed6a1c188b6]‘ Denn viele haben die Art der Verwandlung und Gestalten gedeutet, die ihnen nicht überliefert waren; dabei haben sie sich durchaus in ungehöriger Weise etwas angemaßt, wozu sie kein Recht hatten\.
+
+Auch der Vogel Phönix soll in den Gegenden Arabiens leben und ein hohes Alter von fünfhundert Jahren erreichen\. Wenn er merkt, dass sein Lebensende bevorsteht, baut er sich einen Sarg aus Weihrauch, Myrrhe und anderen Duftstoffen\. Ist seine Lebenszeit erfüllt, steigt er hinein und stirbt\. Aus der Feuchtigkeit seines Fleisches entsteht ein Wurm, der allmählich heranwächst, im Lauf der festgesetzten Zeit seine Flügelruder anlegt und in Gestalt und Aussehen des früheren Vogels neu entsteht\.[^bible-a0810bb2-700c-4ae7-94e2-66b4e349ae29] Dieser Vogel soll uns also wenigstens durch sein Beispiel lehren, an die Auferstehung zu glauben: Ohne Vorbild und ohne vernünftige Einsicht erneuert er an sich selbst die Zeichen der Auferstehung\. Und gewiss sind die Vögel um des Menschen willen da, nicht der Mensch um der Vögel willen\. So soll er uns ein Beispiel dafür sein, dass der Urheber und Schöpfer der Vögel seine Heiligen nicht für immer untergehen lässt\. Er ließ ja auch diesen einzigen Vogel nicht untergehen, sondern wollte, dass er aufersteht und aus seinem eigenen Samen neu entsteht\. Wer also kündigt ihm seinen Todestag an, sodass er sich einen Sarg baut, ihn mit wohlriechenden Stoffen füllt, hineinsteigt und dort stirbt, wo angenehme Düfte den Gestank des toten Körpers vertreiben können?
+
+Baue auch du, Mensch, dir einen Sarg\! Zieh den alten Menschen mit seinen Taten aus und den neuen an\.[^bible-fb83fe27-06c4-40d7-b8ab-5811b102f36c] Dein Sarg, deine Hülle ist Christus, der dich am bösen Tag schützen und verbergen soll\.[^bible-dcde380b-bf94-4592-8513-b2cb46228efe] Willst du wissen, dass ein solcher Behälter Schutz bietet? Er sagt: ‚In meinem Köcher habe ich ihn geschützt\.[^bible-6b2844d7-3adb-4eb9-bc2a-7c322149facb]‘ Dein Sarg ist also der Glaube\. Fülle ihn mit dem Wohlgeruch deiner Tugenden, das heißt der Keuschheit, der Barmherzigkeit und der Gerechtigkeit\. Tritt mit deinem ganzen Wesen in das Innerste des Glaubens ein, das vom süßen Duft hervorragender Taten erfüllt ist\. In diesen Glauben gehüllt soll dich das Ende dieses Lebens antreffen, damit deine Gebeine fett werden können und einem reich bewässerten Garten gleichen[^bible-a81f9cdf-f394-47b9-be3b-6d6681c316a6], dessen Samen rasch aufgehen\. Erkenne also deinen Todestag, wie ihn auch Paulus erkannte, der sagt: ‚Ich habe den guten Kampf gekämpft, den Lauf vollendet, den Glauben bewahrt\. Nun liegt für mich die Krone der Gerechtigkeit bereit\.[^bible-a92944a6-b517-43fb-a8b2-66352cfa4abe]‘ Wie ein guter Phönix trat er also in seinen Sarg ein, den er mit dem Wohlgeruch des Martyriums erfüllt hatte\.
+
+Ich will dich fragen, und du antworte mir[^bible-0141bcad-51f1-47f3-b6c1-1365565923c0]: Woher kommt es, dass Geier gewöhnlich durch bestimmte Zeichen den Tod von Menschen ankündigen? Welches Anzeichen belehrt und unterweist sie, sodass diese Vögel in großen Scharen folgen, wenn feindliche Heere sich zu einem tränenreichen Krieg gegeneinander aufstellen, und damit anzeigen, dass eine Menge Menschen im Krieg fallen und den Geiern zur Beute werden wird? Offenbar schließen sie das mit einer Art Überlegung aus dem Anblick der menschlichen Schlachtordnung\.
+
+Die göttliche Gnade ist sogar bis zur Heuschrecke gelangt\. Hat sie in dichtem Schwarm die weiten Flächen eines Landes besetzt, so hält sie sich dort zunächst ruhend auf, ohne Schaden anzurichten\. Sie fällt nicht wie ein feindlicher Eindringling über die Feldfrüchte her und frisst sie auf, solange sie nicht das Zeichen des göttlichen Befehls empfangen hat\. Denn wie wir im Buch Exodus lesen, vollstreckt auch sie die Strafe für den Frevel gegen den Himmel und dient dabei der heiligen Vergeltung\.[^bible-6f1660c1-78c7-4d7b-848a-0d8221a5d51a]
+
+Die Heuschrecke wiederum wird vom Vogel Seleukis gefressen, wie dieser Vogel auf Griechisch heißt\. Er wurde als Hilfe gegen die Schäden gegeben, welche die Heuschrecke gewöhnlich anrichtet\. Ihm hat der Schöpfer eine unersättliche Fresslust verliehen, damit er durch sein unstillbares Fressen die eben erwähnte Plage beseitigen kann\.
+
+## Bibelverweise
+
+[^bible-0141bcad-51f1-47f3-b6c1-1365565923c0]: Hi 38,3
+[^bible-153268f0-087f-4393-8c4f-8139a9787203]: 1Kor 15,51
+[^bible-6438c4ad-022e-45d3-9085-e9d5157df459]: Mt 11,7–Mt 11,8
+[^bible-6b2844d7-3adb-4eb9-bc2a-7c322149facb]: Jes 49,2
+[^bible-6f1660c1-78c7-4d7b-848a-0d8221a5d51a]: Ex 10,12
+[^bible-8b6aa950-8232-404b-872c-1ed6a1c188b6]: 1Kor 15,52–1Kor 15,53
+[^bible-a0810bb2-700c-4ae7-94e2-66b4e349ae29]: 1Clem 25,1–1Clem 25,3
+[^bible-a81f9cdf-f394-47b9-be3b-6d6681c316a6]: Jes 58,11
+[^bible-a92944a6-b517-43fb-a8b2-66352cfa4abe]: 2Tim 4,7–2Tim 4,8
+[^bible-dcde380b-bf94-4592-8513-b2cb46228efe]: Ps 26,5
+[^bible-fb83fe27-06c4-40d7-b8ab-5811b102f36c]: Kol 3,9–Kol 3,10
