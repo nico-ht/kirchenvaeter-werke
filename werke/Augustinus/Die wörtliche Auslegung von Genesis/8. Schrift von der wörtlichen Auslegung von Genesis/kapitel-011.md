@@ -1,0 +1,17 @@
+# 8\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 11: Warum Gott erst bei der Einsetzung ins Paradies „Herr“ heißt: Seine Herrschaft nützt uns, nicht ihm
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/8-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-33820f14-7568-43b8-c3a4-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ich halte es daher keineswegs für bedeutungslos, sondern glaube, dass es uns auf etwas, und zwar auf etwas Großes hinweisen soll: Vom Anfang dieses göttlichen Buches an, das mit den Worten „Im Anfang schuf Gott Himmel und Erde[^bible-4bc013bd-afdc-49f8-a762-0971dec59c79]“ beginnt, steht bis zu dieser Stelle nirgends „Gott der Herr“, sondern nur „Gott“\. Jetzt aber, da es darum geht, den Menschen ins Paradies zu setzen[^bible-21dcdab6-3629-474a-b369-d0146d9d921e] und ihn durch ein Gebot zu bearbeiten und zu behüten, spricht die Schrift so: „Und Gott der Herr nahm den Menschen, den er gemacht hatte, und setzte ihn ins Paradies, um ihn zu bearbeiten und zu behüten\.[^bible-21dcdab6-3629-474a-b369-d0146d9d921e]“ Nicht etwa, dass Gott nicht auch der Herr der zuvor genannten Geschöpfe gewesen wäre\. Doch dies wurde weder um der Engel noch um der anderen Geschöpfe willen geschrieben, sondern um des Menschen willen\. Er sollte daran erinnert werden, wie viel besser es für ihn ist, Gott zum Herrn zu haben, das heißt gehorsam unter seiner Herrschaft zu leben, als die eigene Macht zügellos zu missbrauchen\. Deshalb wollte die Schrift diese Bezeichnung erst dort verwenden, wo sie dazu kam, ihn ins Paradies zu setzen[^bible-21dcdab6-3629-474a-b369-d0146d9d921e], zu bearbeiten und zu behüten\. So sagt sie nicht wie bei allem anderen zuvor: „Und Gott nahm den Menschen, den er gemacht hatte[^bible-21dcdab6-3629-474a-b369-d0146d9d921e]“, sondern: „Und Gott der Herr nahm den Menschen, den er gemacht hatte, und setzte ihn ins Paradies, um ihn zu bearbeiten[^bible-21dcdab6-3629-474a-b369-d0146d9d921e]“, damit er gerecht wird, „und zu behüten[^bible-21dcdab6-3629-474a-b369-d0146d9d921e]“, damit er in Sicherheit ist, und zwar durch seine Herrschaft selbst, die nicht ihm, sondern uns nützt\. Er braucht nämlich unseren Dienst nicht; wir aber brauchen seine Herrschaft, damit er uns bearbeitet und behütet\. Und deshalb ist er allein wahrhaft Herr, weil wir ihm nicht zu seinem, sondern zu unserem Nutzen und Heil dienen\. Denn wenn er uns brauchen würde, wäre er eben dadurch nicht wahrhaft Herr: Wir würden ihm in einer Not helfen, der auch er selbst als Knecht unterworfen wäre\. Mit Recht sagt der Psalmist: „Ich sagte zum Herrn: ‚Du bist mein Gott; denn du brauchst meine Güter nicht\.‘[^bible-1cc6c451-d41e-480d-ad8e-53fb8e8b1edc]“ Unsere Aussage, dass wir ihm zu unserem Nutzen und Heil dienen, darf aber nicht so verstanden werden, als erwarteten wir von ihm etwas anderes als ihn selbst, der unser höchster Nutzen und unser Heil ist\. So nämlich lieben wir ihn, ohne Lohn zu suchen, nach jenem Wort: „Für mich aber ist es gut, mich an Gott zu halten\.[^bible-3b3959a7-de76-4c54-b119-6189ef108f8f]“
+
+## Bibelverweise
+
+[^bible-1cc6c451-d41e-480d-ad8e-53fb8e8b1edc]: Ps 15,2
+[^bible-21dcdab6-3629-474a-b369-d0146d9d921e]: Gen 2,15
+[^bible-3b3959a7-de76-4c54-b119-6189ef108f8f]: Ps 72,28
+[^bible-4bc013bd-afdc-49f8-a762-0971dec59c79]: Gen 1,1

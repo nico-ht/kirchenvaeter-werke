@@ -1,0 +1,20 @@
+# 8\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 13: Das Verbot eines guten Baumes zeigt, dass Gehorsam an sich gut und Ungehorsam an sich böse ist
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/8-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-8220ffbc-ed53-42a4-c3a6-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und Gott der Herr gebot Adam: „Von jedem Baum im Paradies darfst du essen; vom Baum der Erkenntnis des Guten und Bösen aber dürft ihr nicht essen\. An dem Tag aber, an dem ihr davon esst, werdet ihr gewiss sterben\.[^bible-05adc470-a0a2-434e-b823-6beda913a87c]“ Wenn jener Baum, den Gott dem Menschen verboten hatte, etwas Böses gewesen wäre, dann hätte es den Anschein, als wäre der Mensch durch die Natur dieses Bösen selbst zu Tode vergiftet worden\. Nun hatte aber derjenige, der alles sehr gut geschaffen hatte[^bible-aae0e5d0-f5c4-489d-86ff-ae1235cf3477], lauter gute Bäume im Paradies gepflanzt[^bible-3f730231-8a9d-46d0-a842-3b450d025ca1], und dort gab es keine böse Natur, weil es nirgends eine böse Natur gibt\. Darüber werden wir, wenn der Herr will, eingehender sprechen, sobald wir auf jene Schlange zu sprechen kommen\. So wurde dem Menschen ein Baum verboten, der nicht böse war, damit für ihn schon die Einhaltung des Gebots an sich ein Gut und seine Übertretung ein Übel wäre\.
+
+Wie groß das Übel des Ungehorsams an sich ist, hätte sich nicht besser und eindringlicher zeigen lassen: Der Mensch machte sich dadurch eines Unrechts schuldig, dass er gegen das Verbot etwas berührte, dessen Berührung ohne dieses Verbot gewiss keine Sünde gewesen wäre\. Nehmen wir etwa an, jemand sagt: „Berühre dieses Kraut nicht\!“ Wenn es giftig ist und er für den Fall der Berührung den Tod ankündigt, dann ereilt denjenigen, der das Gebot missachtet, zwar der Tod\. Aber auch wenn niemand die Berührung verboten hätte, wäre er nach der Berührung trotzdem gestorben\. Denn die Sache selbst wäre seiner Gesundheit und seinem Leben schädlich gewesen, ob man sie ihm nun verboten hätte oder nicht\. Ebenso kann jemand verbieten, etwas anzurühren, was zwar nicht dem schaden würde, der es anrührt, wohl aber dem, der es verboten hat\. Das wäre etwa der Fall, wenn jemand sich an fremdem Geld vergriffen hätte, obwohl dessen Eigentümer es ihm verboten hatte\. Für den, dem es verboten war, wäre es deshalb eine Sünde, weil es dem, der es verboten hatte, Schaden zufügen konnte\. Wenn aber etwas berührt wird, das dem Berührenden ohne das Verbot nicht schaden würde und einem anderen überhaupt nicht, wann immer es berührt würde: Warum wurde es dann verboten, wenn nicht, um zu zeigen, dass der Gehorsam an sich gut und der Ungehorsam an sich böse ist?
+
+Letztlich erstrebte der Sünder nichts anderes, als nicht unter Gottes Herrschaft zu stehen\. Denn um die begangene Tat zu unterlassen, hätte er allein das Gebot seines Herrn beachten müssen\. Wenn er aber allein dieses Gebot beachtet hätte, was hätte er dann anderes beachtet als Gottes Willen? Was hätte er anderes geliebt als Gottes Willen? Was hätte er anderes dem menschlichen Willen vorgezogen als Gottes Willen? Warum der Herr etwas geboten hat, weiß er selbst; wer ihm dient, muss tun, was er geboten hat\. Und wenn er sich damit verdient gemacht hat, darf er dann vielleicht auch erkennen, warum der Herr es geboten hat\. Doch um nicht länger nach dem Grund dieses Gebots zu suchen: Wenn schon darin ein großer Nutzen für den Menschen liegt, dass er Gott dient, dann macht Gott durch sein Gebot alles, was er gebieten will, für den Menschen nützlich\. Bei ihm brauchen wir nicht zu fürchten, dass er etwas Unnützes gebieten könnte\.
+
+## Bibelverweise
+
+[^bible-05adc470-a0a2-434e-b823-6beda913a87c]: Gen 2,16–Gen 2,17
+[^bible-3f730231-8a9d-46d0-a842-3b450d025ca1]: Gen 2,9
+[^bible-aae0e5d0-f5c4-489d-86ff-ae1235cf3477]: Gen 1,31

@@ -1,0 +1,17 @@
+# 8\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 9: Gottes Vorsehung wirkt auf natürliche Weise und durch das willentliche Handeln von Engeln und Menschen
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/8-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-6599c276-99e0-4bd1-c3a2-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Von hier aus hebt sich nun der Blick des Denkens zur Welt selbst, gleichsam zu einem großen Baum aller Dinge\. Auch in ihr findet sich ein zweifaches Wirken der Vorsehung: ein natürliches und ein willentliches\. Das natürliche Wirken vollzieht sich durch Gottes verborgene Lenkung, durch die er auch Bäumen und Gräsern Wachstum schenkt; das willentliche dagegen durch die Tätigkeit der Engel und Menschen\. Durch jenes erste Wirken wird oben das Himmlische und unten das Irdische geordnet; die Himmelslichter und Sterne leuchten, Tag und Nacht wechseln einander ab, die auf Wasser gegründete Erde[^bible-b077c2d3-f5a5-44ef-80e9-c31042de264f] wird durchströmt und umspült, hoch darüber breitet sich die Luft aus, Bäume und Tiere werden gezeugt und geboren, wachsen, altern und sterben\. Dazu gehört auch alles andere, was in den Dingen durch eine innere, natürliche Bewegung geschieht\. Durch das zweite Wirken werden Zeichen gegeben, wird gelehrt und gelernt, werden Felder bestellt, Gemeinwesen geleitet und Künste ausgeübt\. Dazu gehört auch alles andere, was in der himmlischen Gemeinschaft oder in dieser irdischen und sterblichen geschieht, sodass auch durch Böse, ohne dass sie es wissen, für die Guten gesorgt wird\. Auch im Menschen selbst ist dieselbe zweifache Macht der Vorsehung wirksam: am Körper zunächst auf natürliche Weise, nämlich in der Bewegung, durch die er entsteht, wächst und altert; auf willentliche Weise aber dadurch, dass für seine Nahrung, Kleidung und Behandlung gesorgt wird\. Ebenso wirkt sie auf natürliche Weise auf die Seele ein, damit sie lebt und empfindet, auf willentliche Weise aber, damit sie lernt und zustimmt\.
+
+Wie aber der Landbau von außen am Baum wirkt, um das Geschehen in seinem Inneren zu fördern, so dient beim Menschen die Medizin von außen dem, was die Natur im Inneren seines Körpers bewirkt\. Ebenso wird seiner Seele von außen Lehre vermittelt, damit ihre Natur im Inneren selig wird\. Was für den Baum die Vernachlässigung der Pflege ist, das ist für den Körper die Vernachlässigung der Behandlung und für die Seele die Trägheit beim Lernen\. Und was für den Baum ungeeignete Flüssigkeit ist, das ist für den Körper verderbliche Nahrung und für die Seele die Verführung zum Unrecht\. So steht Gott über allem, er, der alles geschaffen hat und alles lenkt: In seiner Güte erschafft er alle Naturen, in seiner Gerechtigkeit ordnet er jeden Willen\. Was sollte also daran der Wahrheit widersprechen, wenn wir glauben, dass der Mensch ins Paradies gesetzt wurde, um dort Ackerbau zu betreiben[^bible-f0e65f68-6bb2-4893-92be-ccb54b65395e], und zwar ohne die Mühsal eines Sklaven, vielmehr mit edler Freude der Seele? Was könnte für Menschen, die Muße haben, unschuldiger sein als diese Arbeit, und was könnte Einsichtigen reicheren Stoff zu tiefem Nachdenken bieten?
+
+## Bibelverweise
+
+[^bible-b077c2d3-f5a5-44ef-80e9-c31042de264f]: Ps 23,2
+[^bible-f0e65f68-6bb2-4893-92be-ccb54b65395e]: Gen 2,15
