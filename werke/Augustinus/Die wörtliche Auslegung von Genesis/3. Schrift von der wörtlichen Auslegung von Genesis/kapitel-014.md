@@ -1,0 +1,19 @@
+# 3\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 14: Kleintiere aus Tierkörpern waren bei der ersten Schöpfung nur als natürliche Anlagen vorhanden
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/3-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-b0529f2b-44cb-4575-c31c-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Auch bei einigen der winzigsten Tiere stellt sich die Frage, ob sie bei der ursprünglichen Erschaffung der Dinge geschaffen wurden oder erst aus dem späteren Verfall vergänglicher Dinge entstanden sind\. Denn die meisten von ihnen entstehen entweder aus krankhaften Veränderungen, Ausscheidungen oder Ausdünstungen lebender Körper oder aus der Verwesung toter Körper; manche auch aus verrottendem Holz und Kraut, manche aus faulenden Früchten\. Von all diesen können wir nicht mit Recht sagen, Gott sei nicht ihr Schöpfer\. Allen wohnt nämlich eine Schönheit inne, die der Natur ihrer jeweiligen Art entspricht\. So staunt der aufmerksame Betrachter bei ihnen umso mehr, und umso reicher ist sein Lob des allmächtigen Schöpfers, der alles in Weisheit gemacht hat[^bible-566a3802-7d33-47ed-b777-f94efe917c5e]\. Diese Weisheit reicht von einem Ende bis zum anderen und ordnet alles sanft[^bible-54535a7e-0400-49b8-8f4e-4fda9a05936f]\. Selbst die geringsten Dinge, die sich nach der Ordnung ihrer Art auflösen und vor deren Auflösung wir wegen der Strafe unserer Sterblichkeit zurückschrecken, lässt sie nicht ohne Gestalt\. Vielmehr schafft sie Lebewesen, winzig an Körpergröße, doch mit scharfen Sinnen, sodass wir bei aufmerksamerer Betrachtung mehr über die Wendigkeit einer fliegenden Fliege staunen als über die Größe eines schreitenden Lasttiers und die Werke der Ameisen mehr bewundern als die Lasten der Kamele\.
+
+Die Frage ist aber, wie gesagt, ob wir glauben sollen, dass auch diese winzigen Tiere bei der ursprünglichen Erschaffung der Dinge entstanden sind, von der in dieser Abfolge von sechs Tagen erzählt wird, oder erst später, als sich vergängliche Körper auflösten\. Man kann gewiss sagen, dass jene winzigen Tiere, die aus dem Wasser oder der Erde hervorgehen, damals geschaffen wurden\. Unter ihnen lassen sich auch ohne Widersinn diejenigen verstehen, die aus den Gewächsen der Erde entstehen: zum einen, weil diese Gewächse nicht nur vor den Tieren, sondern auch vor den Himmelslichtern geschaffen wurden[^bible-dbc3124a-bc47-43a4-a600-2fa8cf44eec5]; zum anderen, weil sie durch ihre Wurzeln mit der Erde verbunden sind, aus der sie an jenem Tag hervorgingen, als das trockene Land erschien[^bible-c6e9afc0-00d7-44f5-b2ed-6a55266a85cd]\. Daher sind sie eher zur Ausstattung der Wohnstätte als zur Zahl ihrer Bewohner zu rechnen\. Von den übrigen Tieren aber, die aus den Körpern anderer Tiere, vor allem aus toten, entstehen, wäre es höchst widersinnig zu behaupten, sie seien damals zusammen mit diesen Tieren geschaffen worden\. Das lässt sich nur in dem Sinne sagen, dass allen belebten Körpern bereits eine gewisse natürliche Kraft sowie gleichsam im Voraus ausgesäte und gewissermaßen eingewebte erste Anlagen künftiger Tiere innewohnten\. Diese Tiere würden aus dem Verfall solcher Körper hervorgehen, jeweils ihrer Art und ihren Unterschieden entsprechend, wobei der unveränderliche Schöpfer durch seine unaussprechliche Lenkung alles bewegt\.
+
+## Bibelverweise
+
+[^bible-54535a7e-0400-49b8-8f4e-4fda9a05936f]: Weish 8,1
+[^bible-566a3802-7d33-47ed-b777-f94efe917c5e]: Ps 103,24
+[^bible-c6e9afc0-00d7-44f5-b2ed-6a55266a85cd]: Gen 1,9–Gen 1,12
+[^bible-dbc3124a-bc47-43a4-a600-2fa8cf44eec5]: Gen 1,11–Gen 1,25

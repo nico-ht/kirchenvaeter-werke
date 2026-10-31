@@ -1,0 +1,29 @@
+# 3\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 12: „Nach ihrer Art“: Arten bleiben durch gleichartige Nachkommen erhalten; die Menschheit bildet nur eine Art
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/3-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-83f954ea-ae5a-4bdf-c31a-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nicht ohne Grund beschäftigt den Leser auch die Frage, ob es wahllos und gleichsam zufällig oder aus einem bestimmten Grund „nach ihrer Art[^bible-339204f1-ec65-47fd-8445-71d2cd435058]“ heißt: als hätte es sie schon vorher gegeben, obwohl von ihrer erstmaligen Erschaffung berichtet wird\. Oder müssen wir ihre Art in den höheren, nämlich geistigen Schöpfungsgedanken suchen, nach denen sie hier unten geschaffen werden? Doch wenn es so wäre, müsste dies auch vom Licht, vom Himmel, von den Wassern und der Erde sowie von den Himmelslichtern gesagt werden\. Denn was davon hätte nicht seinen ewigen und unveränderlichen Schöpfungsgedanken in Gottes Weisheit selbst, die machtvoll von einem Ende bis zum anderen reicht und alles sanft ordnet[^bible-8fed4dc6-6d11-4905-8815-fb933e05b231]? Diese Wendung wird aber erst bei den Kräutern und Bäumen gebraucht und dann bis hin zu diesen Landtieren\. Denn auch bei den aus dem Wasser geschaffenen Tieren fehlt sie zwar in der ersten Erwähnung, steht aber in der wiederholten Schilderung: „Und Gott machte die großen Meerestiere und jedes lebendige Wesen unter den sich regenden Tieren, welche die Wasser nach ihrer Art hervorbrachten, und jedes gefiederte Flugtier nach seiner Art\.[^bible-a3333b16-260e-4486-8eaa-1fe0371aaa19]“
+
+Oder heißt es deshalb „nach ihrer Art[^bible-f578ec84-c809-4b91-815d-c486adc4d0d4]“, weil diese Geschöpfe so entstanden, dass aus ihnen weitere hervorgehen und die ursprüngliche Gestalt von Generation zu Generation bewahren sollten? Bezieht es sich also auf die Fortpflanzung, durch die sie ihrer Erschaffung gemäß fortbestehen sollten? Warum aber heißt es von den Kräutern und Bäumen nicht nur „nach ihrer Art[^bible-f3ca4ea8-dc56-47f1-b878-5b2bf5a30676]“, sondern auch „nach ihrer Ähnlichkeit[^bible-f3ca4ea8-dc56-47f1-b878-5b2bf5a30676]“, obwohl doch auch die Tiere im Wasser und auf dem Land ihnen ähnliche Nachkommen hervorbringen? Oder wollte die Schrift die Ähnlichkeit nicht überall erneut erwähnen, weil sie sich aus der Art ergibt? Auch den Samen hat sie ja nicht überall erneut erwähnt, obwohl er sowohl den Kräutern und Bäumen als auch den Tieren innewohnt, wenn auch nicht allen\. Man hat nämlich beobachtet, dass manche Tiere so aus Wasser oder Erde entstehen, dass sie kein Geschlecht haben\. Deshalb liegt ihr Same nicht in ihnen selbst, sondern in den Elementen, aus denen sie hervorgehen\. Das also bedeutet „nach ihrer Art[^bible-f578ec84-c809-4b91-815d-c486adc4d0d4]“: Darin sind sowohl die Kraft der Samen als auch die Ähnlichkeit der Nachkommenden mit den Vergehenden mitgedacht\. Denn nichts davon wurde so geschaffen, dass es nur einmal ins Dasein treten sollte, um dann entweder fortzubestehen oder ohne Nachfolger zu vergehen\.
+
+Warum wurde dann nicht auch vom Menschen so gesprochen: „Lasst uns den Menschen nach unserem Bild und unserer Ähnlichkeit machen[^bible-1c844b35-6766-4d8e-be4f-8ecea01904d6], nach seiner Art“, obwohl sich doch auch der Mensch offenkundig fortpflanzt? Liegt es daran, dass Gott den Menschen so erschaffen hatte, dass er nicht sterben würde, wenn er das Gebot halten wollte[^bible-7d4129c1-fcd1-415e-b038-7d898990db2b], und deshalb kein Nachfolger für einen Verstorbenen nötig war, er aber nach der Sünde den vernunftlosen Tieren gleichgestellt und ihnen ähnlich wurde[^bible-ce85211d-1fc0-45bc-ab8a-7f436ea7d037], sodass nun die Kinder dieser Welt zeugen und gezeugt werden[^bible-74000a48-e286-432d-8ef4-9a8567ecd42a], damit das Geschlecht der Sterblichen durch die Abfolge der Generationen bestehen kann? Was bedeutet dann aber jener Segen nach der Erschaffung des Menschen: „Wachst und vermehrt euch und füllt die Erde[^bible-7906416f-1163-4f97-8fd6-b6a725b9c8f0]“? Das konnte doch durch Fortpflanzung geschehen\. Sollten wir darüber vielleicht nichts vorschnell behaupten, bis wir zu jener Stelle der Schrift gelangen, an der diese Fragen genauer zu untersuchen und zu erörtern sind? Für jetzt mag vielleicht die Erklärung genügen, dass es vom Menschen deshalb nicht „nach seiner Art[^bible-4425f4a3-581f-b2fa-64b1-e796610daba1]“ heißt, weil nur einer geschaffen wurde, aus dem auch die Frau gemacht wurde[^bible-adca4af0-085b-4134-8869-c4fe1dac9b93]\. Es gibt nämlich nicht viele Menschenarten wie bei den Kräutern, Bäumen, Fischen, Flugtieren, Schlangen, dem Vieh und den wilden Tieren\. So können wir „nach ihrer Art[^bible-4425f4a3-581f-b2fa-64b1-e796610daba1]“ im Sinne von „nach Arten gesondert“ verstehen: Was einander ähnlich ist und auf denselben Ursprung im Samen zurückgeht, soll von den übrigen Geschöpfen unterschieden werden\.
+
+## Bibelverweise
+
+[^bible-1c844b35-6766-4d8e-be4f-8ecea01904d6]: Gen 1,26
+[^bible-339204f1-ec65-47fd-8445-71d2cd435058]: Gen 1,25
+[^bible-4425f4a3-581f-b2fa-64b1-e796610daba1]: Gen 1,11–Gen 1,12; Gen 1,21; Gen 1,24–Gen 1,25
+[^bible-74000a48-e286-432d-8ef4-9a8567ecd42a]: Lk 20,34
+[^bible-7906416f-1163-4f97-8fd6-b6a725b9c8f0]: Gen 1,28
+[^bible-7d4129c1-fcd1-415e-b038-7d898990db2b]: Gen 2,16–Gen 2,17
+[^bible-8fed4dc6-6d11-4905-8815-fb933e05b231]: Weish 8,1
+[^bible-a3333b16-260e-4486-8eaa-1fe0371aaa19]: Gen 1,21
+[^bible-adca4af0-085b-4134-8869-c4fe1dac9b93]: Gen 2,22
+[^bible-ce85211d-1fc0-45bc-ab8a-7f436ea7d037]: Ps 48,13
+[^bible-f3ca4ea8-dc56-47f1-b878-5b2bf5a30676]: Gen 1,11–Gen 1,12
+[^bible-f578ec84-c809-4b91-815d-c486adc4d0d4]: Gen 1,11–Gen 1,12; Gen 1,21; Gen 1,24–Gen 1,25
