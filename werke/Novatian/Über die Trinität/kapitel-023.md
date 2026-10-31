@@ -1,0 +1,19 @@
+# Über die Trinität – Kapitel 23: Selbst Häretiker bezeugen Christi Gottheit – doch der Mittler ist Gottes Sohn und wahrer Mensch
+
+Autor: Novatian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/novatian/ueber-die-trinitaet#kapitel-8c9e4837-b9ff-44fe-eaf6-08de1499cb14).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Hier erlaube ich mir, auch bei anderen Häretikern Argumente zu sammeln\. Ein Beweis ist stark, wenn er sogar vom Gegner stammt, sodass die Wahrheit durch ihre eigenen Feinde erwiesen wird\. Denn dass er auch Gott ist, wird in den Schriften so deutlich gelehrt, dass viele Häretiker, von der Größe und Wahrheit seiner Gottheit bewegt, ihm so hohe Ehren zusprechen, dass sie es wagen, zu verkünden oder zu glauben, er sei nicht der Sohn, sondern Gott der Vater selbst\. Obwohl dies der Wahrheit der Schriften widerspricht, ist es dennoch ein schlagkräftiges und vorzügliches Argument für die Gottheit Christi\. Er ist so vollkommen Gott \(jedoch als Sohn Gottes, der aus Gott gezeugt ist\), dass viele Häretiker ihn, wie gesagt, so als Gott anerkannt haben, dass sie meinten, man müsse ihn eher als den Vater denn als den Sohn verkünden\. Daher sollen sie prüfen, ob er Gott ist, da seine Autorität auf gewisse andere Häretiker so gewirkt hat, dass sie ihn deshalb für Gott den Vater selbst halten, wie wir oben gesagt haben\. Seine offenkundige Gottheit zwingt diese Häretiker, das Göttliche in Christus anzuerkennen\. Dabei kennen sie jedoch weder Zurückhaltung noch Maß: Obwohl sie lesen, dass er der Sohn ist, halten sie ihn für den Vater, weil sie erkennen, dass er Gott ist\.
+
+Auch andere Häretiker haben die offenkundige Gottheit Christi so weitgehend anerkannt, dass sie erklärten, er sei ohne Fleisch, und ihm das ganze Menschsein geraubt haben, das er angenommen hat\. Denn sie fürchteten, die Macht des göttlichen Namens in ihm zu mindern, wenn sie ihn mit einer menschlichen Geburt in Verbindung brächten; so jedenfalls urteilten sie\. Das billigen wir nicht, doch wir machen uns dieses Argument insoweit zunutze, als es zeigt, dass Christus Gott ist\. Denn während die eine Häresie ihn seines Menschseins beraubt, indem sie glaubt, er sei nur Gott, und eine andere ihn für Gott den Vater hält, zeigen Vernunft und Ausgewogenheit der himmlischen Schriften, dass Christus Gott ist, jedoch als Sohn Gottes\. Und da Gott den Menschensohn angenommen hat, muss man glauben, dass er auch Mensch ist\. Denn wenn er zu den Menschen kam, um Mittler zwischen Gott und den Menschen[^bible-be96ae86-572b-4922-aed5-8a2910ecc044] zu sein, musste er mit den Menschen vereint sein\. Das Wort musste Fleisch werden[^bible-8bdc90d0-6500-4737-8b96-1bbd4073303f], damit er in sich Irdisches und Himmlisches zu einem harmonischen Ganzen vereinen[^bible-6dcd3566-e032-4c38-b465-f0ff2210fb71] konnte\. Dabei verband er die Kennzeichen beider Seiten in sich, um sowohl Gott mit den Menschen als auch die Menschen mit Gott zu verbinden\. So konnte der Sohn Gottes durch die Annahme des Fleisches zum Menschensohn werden und der Menschensohn durch die Aufnahme des Wortes Gottes zum Sohn Gottes\. Dieses überaus tiefgründige und geheimnisvolle heilige Zeichen, das vor den Weltzeiten zum Heil des Menschengeschlechts bestimmt wurde[^bible-31bcb509-2a1d-493f-af43-52fed33709b2], findet seine Erfüllung im Herrn Jesus Christus, der Gott und Mensch zugleich ist und durch den das Dasein des Menschengeschlechts zur Frucht des ewigen Heils geführt werden konnte\.
+
+## Bibelverweise
+
+[^bible-31bcb509-2a1d-493f-af43-52fed33709b2]: 1Kor 2,7
+[^bible-6dcd3566-e032-4c38-b465-f0ff2210fb71]: Eph 1,10
+[^bible-8bdc90d0-6500-4737-8b96-1bbd4073303f]: Joh 1,14
+[^bible-be96ae86-572b-4922-aed5-8a2910ecc044]: 1Tim 2,5

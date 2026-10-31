@@ -1,0 +1,36 @@
+# Über die Trinität – Kapitel 14: Christus kam als göttliches Wort vom Himmel, während seine menschliche Natur erst dorthin aufstieg
+
+Autor: Novatian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/novatian/ueber-die-trinitaet#kapitel-29c36ce8-e07f-4d97-eaed-08de1499cb14).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und doch zögert der Häretiker noch immer, Christus als Gott zu bezeichnen, obwohl er sieht, dass so viele Tatsachen und Stimmen beweisen, dass er Gott ist\. Wenn Christus nur Mensch wäre, wie kommt es dann, dass er, als er in diese Welt kam, zu den Seinen kam[^bible-f8237c69-1b79-46cc-a2ac-b138fea34606], wo doch kein Mensch die Welt hätte erschaffen können? Wenn Christus nur Mensch wäre, wie kann es dann heißen: „Die Welt wurde durch ihn geschaffen[^bible-16be3dd7-a54d-4292-9118-330fa0967f4b]“, wo es doch nicht heißt, dass die Welt durch einen Menschen geschaffen wurde, sondern dass die Menschheit erst nach der Welt geschaffen wurde? Wenn Christus nur Mensch wäre, wie kommt es dann, dass Christus nicht nur „aus dem Samen Davids[^bible-3a18fab3-1bde-43c3-9155-836573a10d4f]“ stammt, sondern auch „das Wort, das Fleisch wurde und unter uns lebte[^bible-4a8c92b1-db01-465f-909b-3db82735e3d7]“ ist? Denn obwohl der zuerst erschaffene Mensch aus keinem Samen stammte, wurde er dennoch nicht durch die Verbindung von Wort und Fleisch gebildet\. Denn jener erste Mensch ist nicht das Wort, das Fleisch wurde und unter uns lebte[^bible-4a8c92b1-db01-465f-909b-3db82735e3d7]\. Wenn Christus nur Mensch wäre, wie kommt es dann, dass derjenige, der vom Himmel kommt, bezeugt, was er gesehen und gehört hat[^bible-1dfa7597-0164-46b1-bd69-5736efba5cad], wo doch feststeht, dass ein Mensch nicht vom Himmel kommen kann, weil sein Dasein dort nicht beginnen kann? Wenn Christus nur Mensch wäre, wie kann es dann heißen: „Das Sichtbare und das Unsichtbare, Throne, Fürstenmächte und Herrschaften wurden durch ihn und in ihm geschaffen[^bible-11aadf39-ace9-4a20-b31b-a0e3c4c1265a]“, wo doch himmlische Mächte nicht durch einen Menschen hätten geschaffen werden können und schon vor der Menschheit selbst existiert haben müssen?
+
+Wenn Christus nur Mensch wäre, wie kommt es dann, dass er überall gegenwärtig ist, wo er angerufen wird, wo doch diese Fähigkeit, an jedem Ort gegenwärtig zu sein, nicht der menschlichen Natur, sondern Gott zukommt? Wenn Christus nur Mensch wäre, warum wird dann im Gebet ein Mensch als Mittler[^bible-2bcc8902-fbf9-464a-97d9-4c158685028e] angerufen, wo es doch als vergeblich gilt, einen Menschen als Bürgen für das Heil anzurufen[^bible-181d9aa5-1f2c-52bf-8232-c273b75a948a]? Wenn Christus nur Mensch wäre, warum setzen wir dann unsere Hoffnung auf ihn, wo doch als verflucht gilt, wer seine Hoffnung auf einen Menschen setzt[^bible-9df82ae8-adb4-46a5-bf14-efac026efe39]? Wenn Christus nur Mensch wäre, warum kann man dann Christus nicht verleugnen, ohne seine Seele zu verlieren, wo doch geschrieben steht, dass „ein Vergehen gegen einen Menschen vergeben werden kann[^bible-dcb56917-363b-4756-936e-4c2f175b7445]“? Wenn Christus nur Mensch wäre, wie kommt es dann, dass Johannes der Täufer für ihn Zeugnis ablegt und sagt: „Der nach mir kommt, steht über mir, weil er vor mir war[^bible-5bd45836-1fe2-481b-a864-4074a8417a62]“? Wenn Christus nur Mensch wäre, könnte er nicht vor Johannes existiert haben, da er nach Johannes geboren wurde\. Er war vor Johannes da, weil er Gott ist\. Wenn Christus nur Mensch wäre, wie kann es dann heißen: „Was der Vater tut, das tut in gleicher Weise auch der Sohn[^bible-371725db-4f74-4b7a-88cb-c94202ca4f63]“, wo doch ein Mensch keine Werke vollbringen kann, die den himmlischen Werken Gottes gleichen? Wenn Christus nur Mensch wäre, wie kann es dann heißen: „Wie der Vater Leben in sich selbst hat, so hat er auch dem Sohn gegeben, Leben in sich selbst zu haben[^bible-4686b34f-4329-4e84-9369-96b6facbf9ae]“, wo doch ein Mensch nicht nach dem Vorbild des Vaters Leben in sich selbst haben kann, da er aus sterblicher Materie besteht, nicht aus herrlicher Ewigkeit?
+
+Wenn Christus nur Mensch wäre, wie könnte er dann sagen: „Ich bin das Brot des ewigen Lebens, das vom Himmel herabgekommen ist[^bible-d3a0c2bd-efe4-4f44-b49b-b3c8b305f58a]“, wo doch ein Mensch, der selbst sterblich ist, weder das Brot des Lebens[^bible-44acaaee-b602-493d-92d3-b35b8b3e3850] sein noch vom Himmel herabgestiegen sein könnte? Denn keine vergängliche Materie hat je ihren Ursprung im Himmel gehabt\. Wenn Christus nur Mensch wäre, wie kann er dann sagen: „Denn niemand hat jemals Gott, den Vater, gesehen, außer dem, der von Gott ist; dieser hat Gott gesehen[^bible-e71b4cc4-ab2d-4669-999d-a782c6ea6c16]“? Denn wenn Christus nur Mensch wäre, könnte er Gott nicht gesehen haben, weil „niemand Gott gesehen hat[^bible-3b55e7c9-d0c2-4e16-ada1-9218223b7c52]“\. Wenn er aber tatsächlich von Gott ist, dann hat er Gott gesehen[^bible-e71b4cc4-ab2d-4669-999d-a782c6ea6c16]; und weil er Gott gesehen hat[^bible-e71b4cc4-ab2d-4669-999d-a782c6ea6c16], wollte er als mehr als ein Mensch verstanden werden\. Wenn Christus nur Mensch wäre, warum sagt er dann: „Was wäre, wenn ihr den Menschensohn dorthin aufsteigen sehen würdet, wo er zuvor war?[^bible-b847145c-aee7-4572-b3db-4dcf805038ae]“ Nun ist er in den Himmel aufgestiegen\. Also war er dort, wenn er an den Ort zurückgekehrt ist, an dem er zuvor war[^bible-b847145c-aee7-4572-b3db-4dcf805038ae]\. Da er vom Vater aus dem Himmel gesandt worden ist, ist er nicht nur Mensch; denn wie wir gesagt haben, könnte ein Mensch nicht vom Himmel kommen\. Als Mensch war er also zuvor nicht dort; vielmehr ist seine menschliche Natur an den Ort hinaufgestiegen, an dem sie noch nicht gewesen war\. Herabgestiegen aber ist das Wort Gottes, das dort war\. Ich nenne ihn das Wort Gottes, aber auch Gott, durch den alles geschaffen wurde und ohne den nichts geschaffen wurde[^bible-8db4e887-e877-4981-9ccc-f76741ce9ee2]\. Er kam also nicht als Mensch vom Himmel, sondern als das Wort Gottes, das heißt als Gott, der von dort herabstieg\.
+
+## Bibelverweise
+
+[^bible-11aadf39-ace9-4a20-b31b-a0e3c4c1265a]: Kol 1,16
+[^bible-16be3dd7-a54d-4292-9118-330fa0967f4b]: Joh 1,10
+[^bible-181d9aa5-1f2c-52bf-8232-c273b75a948a]: Ps 145,3
+[^bible-1dfa7597-0164-46b1-bd69-5736efba5cad]: Joh 3,31–Joh 3,32
+[^bible-2bcc8902-fbf9-464a-97d9-4c158685028e]: 1Tim 2,5
+[^bible-371725db-4f74-4b7a-88cb-c94202ca4f63]: Joh 5,19
+[^bible-3a18fab3-1bde-43c3-9155-836573a10d4f]: Röm 1,3
+[^bible-3b55e7c9-d0c2-4e16-ada1-9218223b7c52]: Joh 1,18
+[^bible-44acaaee-b602-493d-92d3-b35b8b3e3850]: Joh 6,48
+[^bible-4686b34f-4329-4e84-9369-96b6facbf9ae]: Joh 5,26
+[^bible-4a8c92b1-db01-465f-909b-3db82735e3d7]: Joh 1,14
+[^bible-5bd45836-1fe2-481b-a864-4074a8417a62]: Joh 1,15
+[^bible-8db4e887-e877-4981-9ccc-f76741ce9ee2]: Joh 1,3
+[^bible-9df82ae8-adb4-46a5-bf14-efac026efe39]: Jer 17,5
+[^bible-b847145c-aee7-4572-b3db-4dcf805038ae]: Joh 6,62
+[^bible-d3a0c2bd-efe4-4f44-b49b-b3c8b305f58a]: Joh 6,51
+[^bible-dcb56917-363b-4756-936e-4c2f175b7445]: Mt 12,32
+[^bible-e71b4cc4-ab2d-4669-999d-a782c6ea6c16]: Joh 6,46
+[^bible-f8237c69-1b79-46cc-a2ac-b138fea34606]: Joh 1,11
