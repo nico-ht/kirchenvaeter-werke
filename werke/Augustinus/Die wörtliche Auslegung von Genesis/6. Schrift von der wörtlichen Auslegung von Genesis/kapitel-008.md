@@ -1,0 +1,21 @@
+# 6\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 8: Gottes Schöpfungswort war kein hörbarer Laut, sondern legte die Ursachen des künftigen Menschen an
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/6-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-5ef5afbd-87c2-4a84-c368-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Wie also“, wendet jemand ein, „sprach er zu denen, die noch nicht hörten und nicht verstanden, weil sie noch gar nicht da waren, um Worte zu vernehmen?“ Ich könnte antworten: Gott sprach sie so an, wie Christus uns angesprochen hat, die wir noch nicht geboren waren und erst viel später leben sollten; und nicht nur uns, sondern auch alle, die nach uns kommen werden\. Denn er sagte zu allen, von denen er sah, dass sie einmal zu ihm gehören würden: „Seht, ich bin bei euch bis zur Vollendung der Weltzeit\.[^bible-6fd74e1c-6688-49a8-bec8-1392655811e4]“ Ebenso war Gott der Prophet bekannt, zu dem er sagte: „Bevor ich dich im Mutterleib formte, kannte ich dich\.[^bible-84e3a9dc-634d-4d20-bfa5-e3a86ea3bd91]“ Ebenso „entrichtete Levi den Zehnten, als er noch in den Lenden Abrahams war[^bible-7172c2fb-0cca-4a20-82ec-a3c14b6395d7]“\. Warum sollte nicht auf dieselbe Weise auch Abraham in Adam gewesen sein und Adam selbst in den ersten Werken der Welt, die Gott alle zugleich geschaffen hat[^bible-c9c5ffb5-91ca-4df6-b935-1ed35c570809]? Die Worte des Herrn werden jedoch durch den Mund seines Fleisches und die Worte Gottes durch den Mund der Propheten mit einer körperlichen Stimme in der Zeit ausgesprochen\. Jede ihrer Silben nimmt die ihr entsprechende Zeitspanne in Anspruch und lässt sie verstreichen\. Als Gott aber sagte: „Lasst uns den Menschen nach unserem Bild und unserer Ähnlichkeit machen\. Er soll Macht haben über die Fische des Meeres und die Vögel des Himmels, über alles Vieh, die ganze Erde und alle Kriechtiere, die auf der Erde kriechen[^bible-ca6880ed-b9d3-49e8-8ae3-d5b73b410b4c]“, und: „Wachst und vermehrt euch, füllt die Erde und herrscht über sie\. Habt Macht über die Fische des Meeres und die Vögel des Himmels, über alles Vieh, die ganze Erde und alle Kriechtiere, die auf der Erde kriechen[^bible-a15cb3e7-2a6f-4d69-bd9c-83b165f4de99]“, und: „Seht, ich habe euch jedes samentragende Gewächs gegeben, das Samen hervorbringt und sich auf der ganzen Erde findet, und jeden fruchttragenden Baum, der Frucht mit fortpflanzungsfähigem Samen in sich trägt\. Das soll euch zur Nahrung dienen[^bible-158995c7-2d16-45cf-bf78-62e624d6ae88]“, da drang sein Wort, noch vor jedem Laut der Luft, vor jeder Stimme aus Fleisch oder aus einer Wolke, in seiner höchsten Weisheit, durch die alles geschaffen wurde[^bible-78c06ebd-85a4-4a43-bb75-9575ce92219d], nicht etwa als Schall an menschliche Ohren\. Vielmehr schrieb es den geschaffenen Dingen die Ursachen der noch zu schaffenden Dinge ein und brachte mit allmächtiger Macht das Künftige hervor\. Es schuf den Menschen, der zu seiner Zeit geformt werden sollte, gleichsam im Samen oder in der Wurzel der Zeiten, als es das schuf, woraus die Zeitalter ihren Anfang nehmen sollten\. Diese wurden von dem geschaffen, der vor den Zeitaltern ist\. Denn die einen Geschöpfe gehen den anderen voraus, teils zeitlich, teils als Ursachen\. Er aber geht allem, was er gemacht hat, nicht nur durch seine Erhabenheit voraus, durch die er auch der Urheber der Ursachen ist, sondern auch durch seine Ewigkeit\. Doch darüber ist vielleicht später an geeigneteren Schriftstellen ausführlicher zu sprechen\.
+
+## Bibelverweise
+
+[^bible-158995c7-2d16-45cf-bf78-62e624d6ae88]: Gen 1,29
+[^bible-6fd74e1c-6688-49a8-bec8-1392655811e4]: Mt 28,20
+[^bible-7172c2fb-0cca-4a20-82ec-a3c14b6395d7]: Hebr 7,9–Hebr 7,10
+[^bible-78c06ebd-85a4-4a43-bb75-9575ce92219d]: Joh 1,3
+[^bible-84e3a9dc-634d-4d20-bfa5-e3a86ea3bd91]: Jer 1,5
+[^bible-a15cb3e7-2a6f-4d69-bd9c-83b165f4de99]: Gen 1,28
+[^bible-c9c5ffb5-91ca-4df6-b935-1ed35c570809]: Sir 18,1
+[^bible-ca6880ed-b9d3-49e8-8ae3-d5b73b410b4c]: Gen 1,26
