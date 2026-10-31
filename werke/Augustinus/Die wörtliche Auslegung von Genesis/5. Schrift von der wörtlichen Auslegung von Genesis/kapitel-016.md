@@ -1,0 +1,16 @@
+# 5\. Schrift von der wörtlichen Auslegung von Genesis – Kapitel 16: Der Schöpfer ist leichter zu finden als viele seiner Werke, weil er unserem Geist nahe ist
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/5-schrift-von-der-woertlichen-auslegung-von-genesis#kapitel-fce5635a-7d2a-4f7c-c359-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Zwar hat also jene ewige und unveränderliche Natur, die Gott ist, ihr Sein in sich selbst, wie Mose gesagt wurde: „Ich bin, der ich bin\.[^bible-cefc04fb-0802-4eb8-8d50-58d6870c55e4]“ Ihr Sein ist freilich von ganz anderer Art als das der geschaffenen Dinge\. Denn wahrhaft und ursprünglich ist, was immer auf dieselbe Weise ist und sich nicht nur nicht verändert, sondern sich überhaupt nicht verändern kann\. Diese Natur ist nichts von dem, was sie geschaffen hat, und hat alles ursprünglich in sich, so, wie sie selbst ist\. Denn Gott könnte die Dinge nicht schaffen, ohne sie vor ihrer Erschaffung zu kennen; er könnte sie nicht kennen, ohne sie zu sehen, und nicht sehen, ohne sie in sich zu haben\. Und er könnte das noch nicht Geschaffene nicht in sich haben, wenn es nicht auf dieselbe Weise in ihm wäre, wie er selbst ungeschaffen ist\. Obwohl also jene Substanz unaussprechlich ist und ein Mensch sie einem anderen nicht einmal annähernd beschreiben kann, ohne dafür gewisse Worte aus dem Bereich von Raum und Zeit zu entlehnen, obgleich sie vor aller Zeit und vor allen Orten ist, steht uns dennoch der Schöpfer näher als vieles von dem, was geschaffen wurde\. Denn in ihm leben wir, bewegen wir uns und sind wir[^bible-b8ddf76e-85f5-455e-96d0-aee00fecde19]\. Die meisten dieser Dinge aber sind unserem Geist fern, weil sie von anderer Art sind: Sie sind körperlich\. Auch ist unser Geist nicht fähig, sie bei Gott in eben den Gründen zu sehen, nach denen sie geschaffen wurden, und dadurch zu wissen, wie viele es sind, wie groß und wie beschaffen, selbst wenn wir sie nicht mit den körperlichen Sinnen sehen\. Sie sind ja auch unseren körperlichen Sinnen fern, weil sie weit entfernt sind oder weil andere Dinge dazwischenliegen oder sich ihnen vorlagern und sie so unserem Blick und unserer Berührung entziehen\. Daher kostet es mehr Mühe, sie zu finden, als den, der sie geschaffen hat\. Dabei ist es weit besser und unvergleichlich beseligender, ihn mit frommem Geist auch nur ein klein wenig wahrzunehmen, als all jene Dinge zu erfassen\. Deshalb werden die Erforscher dieser Welt im Buch der Weisheit zu Recht getadelt\. Dort heißt es: „Wenn sie nämlich so viel vermochten, dass sie die Welt ermessen konnten, wie kommt es dann, dass sie ihren Herrn nicht leichter gefunden haben?[^bible-c4837e22-344b-4247-8bd1-a59a9717b766]“ Denn die Fundamente der Erde sind unseren Augen unbekannt, und der die Erde gegründet hat, kommt unserem Geist nahe\.
+
+## Bibelverweise
+
+[^bible-b8ddf76e-85f5-455e-96d0-aee00fecde19]: Apg 17,28
+[^bible-c4837e22-344b-4247-8bd1-a59a9717b766]: Weish 13,9
+[^bible-cefc04fb-0802-4eb8-8d50-58d6870c55e4]: Ex 3,14
