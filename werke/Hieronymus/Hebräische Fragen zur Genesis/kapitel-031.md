@@ -1,0 +1,26 @@
+# Hebräische Fragen zur Genesis – Kapitel 31: „Israel“ bedeutet „Fürst mit Gott“, nicht „Mann, der Gott sieht“
+
+Autor: Hieronymus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/hieronymus/hebraeische-fragen-zur-genesis#kapitel-77661dd0-a8b3-4677-c4fa-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und die Engel Gottes begegneten ihm, und Jakob sagte, als er sie sah:[^bible-595864d6-40c0-44e9-80c5-dbe1e60dc73b] „Das ist Gottes Lager\.[^bible-b2f7ecc1-3064-41c9-8750-3bae75bfbfee]“ Und er nannte den Ort Lager\.[^bible-b2f7ecc1-3064-41c9-8750-3bae75bfbfee] Wo hier „Lager[^bible-b2f7ecc1-3064-41c9-8750-3bae75bfbfee]“ steht, hat das Hebräische Manaim\. So wissen wir, welcher Ort gemeint ist, wenn der Name an anderer Stelle unübersetzt erscheint\. Und wie schön ist es, dass ihn auf dem Weg zu seinem feindlich gesinnten Bruder Scharen von Engeln empfangen, die ihn begleiten\.
+
+Und Jakob sagte:[^bible-ffaf5637-36a3-424f-be27-13809117aa9e] „Gott meines Vaters Isaak, Herr, der du zu mir gesagt hast:[^bible-ffaf5637-36a3-424f-be27-13809117aa9e] ‚Kehre in dein Land zurück, und ich werde dich segnen[^bible-ffaf5637-36a3-424f-be27-13809117aa9e]‘, ich bin zu gering für all deine Barmherzigkeit und all deine Treue, die du deinem Diener erwiesen hast\.[^bible-8851c61a-1e2b-4f27-89a5-2d7f347f5c61]“ Statt der von uns wiedergegebenen Worte „ich bin zu gering[^bible-8851c61a-1e2b-4f27-89a5-2d7f347f5c61]“ steht in den griechischen und lateinischen Handschriften irgendetwas anderes, das den Sinn verdunkelt\.
+
+„Und er sagte zu ihm: ‚Wie heißt du?‘ Er antwortete: ‚Jakob\.‘ Da sagte er zu ihm: ‚Dein Name wird nicht mehr Jakob sein, sondern Israel; denn du hast dich gegen Gott behauptet und wirst dich auch gegen Menschen behaupten\.‘[^bible-122c4599-544d-494e-af3b-e45f4b28d0e0]“ Josephus meint im ersten Buch der Altertümer, er sei deshalb Israel genannt worden, weil er dem Engel standgehalten habe\. Ich habe das sorgfältig geprüft, konnte es aber im Hebräischen nirgends finden\. Warum muss ich überhaupt nach den Meinungen Einzelner suchen, wenn derjenige, der den Namen gegeben hat, selbst dessen Bedeutung erklärt? „Dein Name wird nicht mehr Jakob sein[^bible-45bf515d-57da-4114-960b-f40338ff233b]“, sagt er, „sondern Israel wird dein Name sein\.[^bible-45bf515d-57da-4114-960b-f40338ff233b]“ Warum? Aquila übersetzt: „Weil du mit Gott geherrscht hast[^bible-45bf515d-57da-4114-960b-f40338ff233b]“, Symmachus: „Weil du Gott gegenüber geherrscht hast[^bible-45bf515d-57da-4114-960b-f40338ff233b]“, die Septuaginta und Theodotion: „Weil du dich gegen Gott behauptet hast\.[^bible-45bf515d-57da-4114-960b-f40338ff233b]“ Denn Sarith, das vom Wort Israel abgeleitet wird, bedeutet „Fürst“\. Der Sinn ist also: „Dein Name wird nicht mehr ‚Fersensteller‘, das heißt Jakob, sein, sondern ‚Fürst mit Gott‘, das heißt Israel\.[^bible-45bf515d-57da-4114-960b-f40338ff233b] Denn wie ich ein Fürst bin, so wirst auch du, der du mit mir ringen konntest, Fürst genannt werden\. Wenn du aber mit mir kämpfen konntest, der ich Gott oder ein Engel bin \(denn viele legen dies unterschiedlich aus\), wie viel mehr dann mit Menschen, das heißt mit Esau, den du nicht zu fürchten brauchst\!“ Die Deutung Israels als „Mann, der Gott sieht“ oder „Geist, der Gott sieht“, die sich im Buch der Namen findet und die fast jeder im Munde führt, scheint mir dagegen weniger zutreffend als gewaltsam\. Denn Israel wird hier mit den Buchstaben Jod, Sin, Resch, Aleph, Lamed geschrieben und bedeutet „Fürst Gottes“ oder „Aufrechter Gottes“, das heißt „Aufrechtester Gottes“\. Bei „Mann, der Gott sieht“ wird dagegen „Mann“ mit den drei Buchstaben Aleph, Jod, Sin geschrieben und lautet Is; „sieht“ wird ebenfalls mit drei Buchstaben geschrieben, Resch, Aleph, He, und lautet Raa\. El schließlich besteht aus den beiden Buchstaben Aleph und Lamed und bedeutet „Gott“ oder „Starker“\. So großes Ansehen diejenigen auch genießen, die Israel mit „Mann, der Gott sieht“ oder „Geist, der Gott sieht“ übersetzt haben, und so sehr uns schon der Schatten ihrer Beredsamkeit erdrückt: Wir lassen uns mehr von der Autorität der Schrift und des Engels oder Gottes leiten, der ihn Israel genannt hat, als von irgendeiner weltlichen Beredsamkeit\. Dazu kommt die folgende Stelle:
+
+„Und er segnete ihn dort, und Jakob nannte jenen Ort Angesicht Gottes: ‚Denn ich habe Gott von Angesicht zu Angesicht gesehen, und meine Seele ist gerettet worden\.‘[^bible-70606670-eacf-485b-863f-3e684e95d082]“ Hier steht im Hebräischen Phanuel\. So wissen wir, dass es derselbe Ort ist, dessen Name in den übrigen Büchern der Heiligen Schrift auch im Griechischen Phanuel lautet, so wie er im Hebräischen geschrieben wird\.
+
+## Bibelverweise
+
+[^bible-122c4599-544d-494e-af3b-e45f4b28d0e0]: Gen 32,27–Gen 32,28
+[^bible-45bf515d-57da-4114-960b-f40338ff233b]: Gen 32,28
+[^bible-595864d6-40c0-44e9-80c5-dbe1e60dc73b]: Gen 32,1–Gen 32,2
+[^bible-70606670-eacf-485b-863f-3e684e95d082]: Gen 32,29–Gen 32,30
+[^bible-8851c61a-1e2b-4f27-89a5-2d7f347f5c61]: Gen 32,10
+[^bible-b2f7ecc1-3064-41c9-8750-3bae75bfbfee]: Gen 32,2
+[^bible-ffaf5637-36a3-424f-be27-13809117aa9e]: Gen 32,9
