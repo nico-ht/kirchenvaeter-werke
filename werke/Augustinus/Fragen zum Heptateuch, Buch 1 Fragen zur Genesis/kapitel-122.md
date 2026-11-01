@@ -1,0 +1,31 @@
+# Fragen zum Heptateuch, Buch 1: Fragen zur Genesis – Kapitel 122: Josefs Verkauf geschah zwölf Jahre vor Isaaks Tod, obwohl die Schrift ihn erst danach erzählt
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/fragen-zum-heptateuch-buch-1-fragen-zur-genesis#kapitel-ac47cc5b-c3fe-49c7-c4aa-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wie Josef, Isaaks Enkel, bei dessen Tod siebzehn Jahre alt gewesen sein kann, wie es die scheinbar zeitliche Abfolge des Schriftberichts nahelegt, lässt sich schwer erklären, von welcher Seite man die Frage auch angeht\. Ich will nämlich nicht sagen, es lasse sich überhaupt nicht erklären; vielleicht entgeht mir etwas, das einem anderen nicht entgeht\. Wenn nämlich nach dem Tod seines Großvaters Isaak Josef siebzehn Jahre alt war, als seine Brüder ihn nach Ägypten verkauften[^bible-5faffb33-4707-49a8-871d-a58b48fa6c2a], dann war sein Vater Jakob zweifellos hundertzwanzig Jahre alt, als sein Sohn Josef siebzehn war\. Denn Isaak hatte seine Söhne mit sechzig Jahren gezeugt[^bible-93cac7c8-2f03-4925-8741-bcd2f8a1e4db], wie geschrieben steht\. Isaak lebte also danach noch hundertzwanzig Jahre, denn „er starb mit hundertachtzig Jahren[^bible-a3a7b7a2-52ac-4dcf-950f-3eebef16bdb1]“; somit hinterließ er seine Söhne im Alter von hundertzwanzig und Josef im Alter von siebzehn Jahren\. Josef war aber dreißig Jahre alt, als er vor den Pharao trat[^bible-47428e66-641b-4b14-b4d7-e6f66c46d6b3]\. Darauf folgten sieben Jahre des Überflusses und zwei Jahre der Hungersnot, bis sein Vater mit seinen Brüdern zu ihm kam[^bible-84d37971-8d93-416c-932c-b42314ac468d]\. Also war Josef gewiss neununddreißig Jahre alt, als Jakob nach Ägypten kam[^bible-d0b632bc-6bef-4ed7-b559-0a4df7b491df]\. Damals aber war Jakob, wie er selbst dem Pharao sagte, hundertdreißig Jahre alt[^bible-9ad8e2d2-65c3-461f-a75d-9e02c3cbae3c]; hundertzwanzig Jahre alt war Jakob dagegen, als Josef siebzehn war\. Das kann unmöglich stimmen\. Wenn Jakob nämlich hundertzwanzig Jahre alt war, als Josef siebzehn war, dann müsste er, als Josef neununddreißig war, zweifellos nicht hundertdreißig, sondern hundertzweiundvierzig Jahre alt gewesen sein\. Wenn aber Josef am Todestag Isaaks noch nicht siebzehn Jahre alt war, sondern erst einige Zeit nach dem Tod seines Großvaters siebzehn Jahre alt[^bible-da4c6701-07b9-4b77-aabd-4a14c0fdfc4c] wurde, in jenem Jahr also, in dem ihn nach dem Zeugnis der Schrift seine Brüder nach Ägypten verkauften[^bible-abc556e4-61c0-4a72-9f17-7a72dc7b38fd], dann müsste sein Vater sogar älter als hundertzweiundvierzig Jahre gewesen sein, als er seinem Sohn nach Ägypten folgte[^bible-d0b632bc-6bef-4ed7-b559-0a4df7b491df]\.
+
+Nachdem die Schrift berichtet hat, dass Isaak im Alter von hundertachtzig Jahren starb und begraben wurde[^bible-52dd2105-2970-48df-9dc5-420c1f4a1e1a], erzählt sie nämlich, wie Esau sich von seinem Bruder trennte und aus dem Land Kanaan ins Gebirge Seïr zog[^bible-1d39bda1-2efa-4900-861b-d30c3dc097d2]\. Daran schließt sie einen Bericht über die Könige und Fürsten des Volkes an, bei dem Esau sich niederließ oder dessen Stammvater er war[^bible-f79c38cf-3113-4ac5-969f-f5277f19bf00]\. Danach leitet sie die Erzählung von Josef so ein: „Jakob aber wohnte im Land Kanaan\. Dies aber sind die Nachkommen Jakobs\. Josef aber war siebzehn Jahre alt und weidete mit seinen Brüdern die Schafe\.[^bible-d29bfcf9-9b67-49c1-bd33-bfd7a9a557f9]“ Dann wird erzählt, wie seine Brüder ihn wegen seiner Träume zu hassen begannen und er verkauft wurde[^bible-bacc41c3-c43d-4f55-8060-4a494cf69565]\. Er kam also entweder noch als Siebzehnjähriger oder schon etwas älter nach Ägypten\. In beiden Fällen bleibt die Schwierigkeit bestehen\. Denn wenn er nach dem Tod seines Großvaters siebzehn Jahre alt war, als sein Vater hundertzwanzig war, dann hätte Jakob, als er nach Ägypten kam und Josef neununddreißig Jahre alt war, gewiss hundertzweiundvierzig Jahre alt sein müssen\. Jakob war damals aber hundertdreißig Jahre alt[^bible-f52cae43-4609-4ae1-b102-20365b5e8017]\. Wenn also Josef mit siebzehn Jahren nach Ägypten verkauft wurde[^bible-5471647b-66b1-4d39-9961-d4b6b681871a], ergibt sich daraus, dass er zwölf Jahre vor dem Tod seines Großvaters verkauft wurde\. Er kann nämlich nur zwölf Jahre vor Isaaks Tod siebzehn Jahre alt gewesen sein, als sein Vater Jakob hundertacht Jahre alt war\. Wenn wir dazu die zweiundzwanzig Jahre rechnen, die Josef bis zur Ankunft seines Vaters in Ägypten verbrachte, kommen wir für Josef auf neununddreißig und für Jakob auf hundertdreißig Lebensjahre\. Damit ist die Schwierigkeit behoben\. Weil aber die Schrift dies erst nach dem Bericht über Isaaks Tod erzählt, meint man, Josef sei erst nach dem Tod seines Großvaters siebzehn Jahre alt gewesen\. Deshalb müssen wir es so verstehen: Die Schrift schwieg über das Leben Isaaks, weil er bereits ein sehr gebrechlicher Greis war, während sie schon von Jakob und seinen Söhnen sprach\. Josef wurde jedoch noch zu Isaaks Lebzeiten siebzehn Jahre alt\.
+
+## Bibelverweise
+
+[^bible-1d39bda1-2efa-4900-861b-d30c3dc097d2]: Gen 36,6–Gen 36,8
+[^bible-47428e66-641b-4b14-b4d7-e6f66c46d6b3]: Gen 41,46
+[^bible-52dd2105-2970-48df-9dc5-420c1f4a1e1a]: Gen 35,28–Gen 35,29
+[^bible-5471647b-66b1-4d39-9961-d4b6b681871a]: Gen 37,2; Gen 37,28
+[^bible-5faffb33-4707-49a8-871d-a58b48fa6c2a]: Gen 37,2; Gen 37,28
+[^bible-84d37971-8d93-416c-932c-b42314ac468d]: Gen 41,53; Gen 45,6; Gen 46,5–Gen 46,7
+[^bible-93cac7c8-2f03-4925-8741-bcd2f8a1e4db]: Gen 25,26
+[^bible-9ad8e2d2-65c3-461f-a75d-9e02c3cbae3c]: Gen 47,9
+[^bible-a3a7b7a2-52ac-4dcf-950f-3eebef16bdb1]: Gen 35,28–Gen 35,29
+[^bible-abc556e4-61c0-4a72-9f17-7a72dc7b38fd]: Gen 37,28
+[^bible-bacc41c3-c43d-4f55-8060-4a494cf69565]: Gen 37,5–Gen 37,28
+[^bible-d0b632bc-6bef-4ed7-b559-0a4df7b491df]: Gen 46,5–Gen 46,7
+[^bible-d29bfcf9-9b67-49c1-bd33-bfd7a9a557f9]: Gen 37,1–Gen 37,2
+[^bible-da4c6701-07b9-4b77-aabd-4a14c0fdfc4c]: Gen 37,2
+[^bible-f52cae43-4609-4ae1-b102-20365b5e8017]: Gen 47,9
+[^bible-f79c38cf-3113-4ac5-969f-f5277f19bf00]: Gen 36,31–Gen 36,43

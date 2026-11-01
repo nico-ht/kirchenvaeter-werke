@@ -1,0 +1,17 @@
+# Fragen zum Heptateuch, Buch 1: Fragen zur Genesis – Kapitel 35: Abrahams „toter Körper“ meint Zeugungsunfähigkeit mit einer älteren Frau, nicht mit einer jungen
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/fragen-zum-heptateuch-buch-1-fragen-zur-genesis#kapitel-ebc12d83-153f-421d-c453-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Abraham und Sara aber waren ältere Menschen, an Jahren vorgerückt; bei Sara aber hatte die Monatsblutung aufgehört\.[^bible-4197d7ed-d5c7-4db5-8b77-7591d73e3f89]“ Ältere Menschen sind jünger als Greise, auch wenn man Greise ebenfalls als ältere Menschen bezeichnet\. Wenn also stimmt, was manche Ärzte behaupten, dass ein älterer Mann mit einer älteren Frau keine Kinder zeugen kann, selbst wenn sie noch ihre Monatsblutung bekommt, dann können wir von daher verstehen, warum Abraham über die Verheißung eines Sohnes staunte[^bible-8c2ff013-b565-47bf-a474-c12a7170adab] und der Apostel dies als Wunder darstellte, als er von „Abrahams totem Körper[^bible-0aaa1f2f-5ed2-4d1b-a86e-9e32628c51d0]“ sprach\. Mit dem toten Körper[^bible-0aaa1f2f-5ed2-4d1b-a86e-9e32628c51d0] ist nämlich nicht gemeint, dass er auch mit einer jungen Frau überhaupt kein Kind mehr hätte zeugen können\. Vielmehr war er in dem Sinne tot[^bible-0aaa1f2f-5ed2-4d1b-a86e-9e32628c51d0], dass er mit einer Frau in fortgeschrittenem Alter kein Kind mehr zeugen konnte\. Dass er mit Ketura Kinder zeugen konnte[^bible-ff7c64c1-1f45-41a8-b026-baf76e14d0af], lag nämlich daran, dass er sie noch als junge Frau antraf\. Denn die Ärzte lehren: Wenn der Körper eines Mannes bereits so weit nachgelassen hat, dass er mit einer Frau in fortgeschrittenem Alter kein Kind mehr zeugen kann, obwohl sie noch ihre Monatsblutung hat, so kann er es doch mit einer jungen Frau\. Umgekehrt kann eine Frau in fortgeschrittenem Alter, die zwar noch ihre Monatsblutung hat, aber von einem älteren Mann kein Kind mehr bekommen kann, von einem jungen Mann noch eines bekommen\. Jenes Geschehen war also deshalb ein Wunder, weil in dem von uns erläuterten Sinne der Körper des Mannes tot war[^bible-0aaa1f2f-5ed2-4d1b-a86e-9e32628c51d0] und auch die Frau schon so alt war, dass ihre Monatsblutung aufgehört hatte[^bible-4197d7ed-d5c7-4db5-8b77-7591d73e3f89]\. Wollte nämlich jemand beim Ausdruck des Apostels „toter Körper[^bible-0aaa1f2f-5ed2-4d1b-a86e-9e32628c51d0]“ auf dem Wortlaut beharren, weil er „tot[^bible-0aaa1f2f-5ed2-4d1b-a86e-9e32628c51d0]“ gesagt hat, dann müsste man darunter verstehen, dass Abraham auch keine Seele mehr hatte, sondern ein Leichnam war\. Das ist aber eine höchst absurde Unwahrheit\. So lässt sich diese Frage also lösen\. Andernfalls stellt sich mit Recht die Frage: Wie kann der Apostel Abraham einen toten Körper[^bible-0aaa1f2f-5ed2-4d1b-a86e-9e32628c51d0] zuschreiben und wie kann seine Zeugung eines Sohnes als Wunder gerühmt werden, obwohl er, gemessen an der damaligen Lebensdauer, erst annähernd in der Mitte seines Lebens stand und später noch mit Ketura Kinder zeugte[^bible-ff7c64c1-1f45-41a8-b026-baf76e14d0af]?
+
+## Bibelverweise
+
+[^bible-0aaa1f2f-5ed2-4d1b-a86e-9e32628c51d0]: Röm 4,19
+[^bible-4197d7ed-d5c7-4db5-8b77-7591d73e3f89]: Gen 18,11
+[^bible-8c2ff013-b565-47bf-a474-c12a7170adab]: Gen 17,17
+[^bible-ff7c64c1-1f45-41a8-b026-baf76e14d0af]: Gen 25,1–Gen 25,2

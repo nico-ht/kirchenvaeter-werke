@@ -1,0 +1,21 @@
+# Fragen zum Heptateuch, Buch 1: Fragen zur Genesis – Kapitel 70: Die Gaben der Nebenfrauensöhne deuten wohl auf Sakramente und Zeichen, Isaaks Erbe auf Liebe und ewiges Leben
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/fragen-zum-heptateuch-buch-1-fragen-zur-genesis#kapitel-62f59b54-ef8d-4434-c476-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Abraham nahm aber eine weitere Frau namens Ketura\.[^bible-5a7228bf-43e3-4aa0-aeb2-d9706ddd8479]“ Das wäre eine Streitfrage, wenn es eine Sünde wäre, zumal bei den Menschen der Vorzeit, die sich um Nachkommenschaft bemühten\. Denn bei einem so großen Mann ist hier alles andere eher zu vermuten als mangelnde Enthaltsamkeit, besonders in diesem schon hohen Alter\. Warum er aber mit ihr Kinder zeugte, nachdem er mit Sara durch ein Wunder Vater geworden war[^bible-8b058606-55b5-4779-bc01-ab22941afc8a], wurde oben bereits erklärt\. Allerdings behaupten manche, die Abraham verliehene Gabe, durch die sein Körper gleichsam wieder auflebte und zeugungsfähig wurde, habe lange angehalten, sodass er auch noch weitere Kinder zeugen konnte\. Doch viel schlüssiger ist die Erklärung, dass ein älterer Mann mit einer jungen Frau Kinder zeugen konnte, was ihm als älterem Mann mit einer älteren Frau nicht möglich gewesen wäre, wenn Gott dort nicht ein Wunder gewirkt hätte, besonders weil Sara nicht nur alt, sondern auch unfruchtbar war[^bible-ba8073eb-06bb-47b2-b2d3-41de4f760730]\. Dass freilich auch ein Mann in sehr hohem Alter, der, wie die Schrift sagt, „satt an Tagen[^bible-9fb24f68-dcd4-4f8d-9010-86a6eac7803d]“ ist, ein „Älterer“, das heißt „presbyter“, genannt werden kann, lässt sich daran erkennen, dass Abraham bei seinem Tod so bezeichnet wurde[^bible-9fb24f68-dcd4-4f8d-9010-86a6eac7803d]\. Jeder Greis ist also auch ein Älterer, aber nicht jeder Ältere auch ein Greis\. Denn meist bezeichnet dieses Wort eine Altersstufe, die noch vor dem Greisenalter liegt, ihm aber nahe ist\. Deshalb hat auch diese Altersstufe im Lateinischen ihren Namen vom Greisenalter erhalten, sodass ein „presbyter“ als „senior“ bezeichnet wird\. Bei den Griechen dagegen spricht man, besonders im Sprachgebrauch der Schrift, von „Älteren“ und „Jüngeren“, auch wenn man das Alter junger Menschen vergleicht; dafür sagen wir im Lateinischen „maior“ und „iunior“\. Dennoch darf man Abrahams Handeln, dass er nach Saras Tod mit Ketura Kinder zeugte[^bible-f4727280-72d2-46da-a6ca-066ea1d4b09b], nicht so verstehen, als habe er dies lediglich nach menschlicher Gewohnheit und in der Absicht getan, eine zahlreichere Nachkommenschaft zu hinterlassen\. So könnten die Menschen nämlich auch das Geschehen mit Hagar verstehen, wenn der Apostel nicht darauf hinwiese, dass dies prophetisch geschehen war: In den Gestalten der beiden Frauen und ihrer Söhne sollten die beiden Bünde allegorisch vorgebildet werden[^bible-89c37704-8657-4e12-9296-665ce961de10], um das Künftige vorauszuverkünden\. Daher muss man auch bei diesem Handeln Abrahams nach etwas Derartigem suchen\. Auch wenn es sich nicht leicht finden lässt, will ich einstweilen sagen, was mir dazu in den Sinn kommt: Die Geschenke, die die Söhne der Nebenfrauen empfingen[^bible-f10ad87e-4b9d-405c-8f5e-36ffeebc3cdb], scheinen mir bestimmte Gaben Gottes zu bezeichnen, die in Sakramenten oder in Zeichen jeder Art auch dem fleischlichen Volk der Juden und den Häretikern gegeben wurden, gleichsam als Söhnen von Nebenfrauen\. Die Gabe des Erbes dagegen, nämlich die Liebe und das ewige Leben, kommt allein Isaak zu, das heißt den Kindern der Verheißung[^bible-aa504e05-f634-49a1-8e01-7db51ea46967]\.
+
+## Bibelverweise
+
+[^bible-5a7228bf-43e3-4aa0-aeb2-d9706ddd8479]: Gen 25,1
+[^bible-89c37704-8657-4e12-9296-665ce961de10]: Gal 4,22–Gal 4,24
+[^bible-8b058606-55b5-4779-bc01-ab22941afc8a]: Gen 21,1–Gen 21,2
+[^bible-9fb24f68-dcd4-4f8d-9010-86a6eac7803d]: Gen 25,8
+[^bible-aa504e05-f634-49a1-8e01-7db51ea46967]: Gal 4,28
+[^bible-ba8073eb-06bb-47b2-b2d3-41de4f760730]: Gen 11,30; Gen 18,11
+[^bible-f10ad87e-4b9d-405c-8f5e-36ffeebc3cdb]: Gen 25,6
+[^bible-f4727280-72d2-46da-a6ca-066ea1d4b09b]: Gen 25,1–Gen 25,4

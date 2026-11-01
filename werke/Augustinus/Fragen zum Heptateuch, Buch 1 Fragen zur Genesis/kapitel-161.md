@@ -1,0 +1,25 @@
+# Fragen zum Heptateuch, Buch 1: Fragen zur Genesis – Kapitel 161: Jakobs Wunsch nach Bestattung in Kanaan weist auf die Sündenvergebung durch den dort gekreuzigten Christus
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/fragen-zum-heptateuch-buch-1-fragen-zur-genesis#kapitel-dc7b797a-7dba-4f44-c4d1-08df346fe21b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Als Jakob im Sterben liegt, sagt er zu seinem Sohn Josef: „Wenn ich Gnade vor dir gefunden habe, lege deine Hand unter meinen Oberschenkel und erweise mir Barmherzigkeit und Treue\.[^bible-4c9f468c-afce-4adc-98f5-c35377409dcc]“ Er bindet seinen Sohn durch denselben Eid, mit dem Abraham seinen Diener gebunden hatte, als er bestimmte, woher für seinen Sohn eine Frau geholt werden sollte[^bible-86d12a4a-9bf4-4fd3-bfe2-068c89856da1]\. Jakob dagegen sorgt für die Bestattung seines Leichnams[^bible-41753312-c8a3-479e-bf51-2623fe7f1e8a]\. In beiden Fällen werden jedoch jene beiden Begriffe genannt, denen man in der gesamten Schrift großes Gewicht beimessen muss, wo immer man auf sie stößt: Barmherzigkeit und Gerechtigkeit, Barmherzigkeit und Gericht oder Barmherzigkeit und Treue\. Denn an einer Stelle steht geschrieben: „Alle Wege des Herrn sind Barmherzigkeit und Treue\.[^bible-5b89a894-b2f6-438d-b900-432805b516fb]“ Diese beiden Begriffe werden also nachdrücklich hervorgehoben und verdienen eingehende Betrachtung\. Abrahams Diener hatte gesagt: „Wenn ihr meinem Herrn Barmherzigkeit und Gerechtigkeit erweist[^bible-54510cc3-483f-4e90-95eb-8be1142a5a1a]“, so wie Jakob zu seinem Sohn sagt: „Du sollst mir Barmherzigkeit und Treue erweisen\.[^bible-4c9f468c-afce-4adc-98f5-c35377409dcc]“ Was aber soll es bedeuten, dass ein so großer Mann derart sorgsam für seinen Leichnam Vorsorge trifft, damit er nicht in Ägypten, sondern im Land Kanaan bei seinen Vätern bestattet wird[^bible-41753312-c8a3-479e-bf51-2623fe7f1e8a]? Messen wir dies an den gewöhnlichen menschlichen Gepflogenheiten, so erscheint es sonderbar, geradezu widersinnig und mit der erhabenen Größe eines prophetischen Geistes unvereinbar\. Sucht man aber in all dem nach heiligen Geheimnissen, so wird der, der sie findet, eine Freude erleben, die aus noch größerem Staunen erwächst\.
+
+ Dass im Gesetz die Leichname der Toten Sünden bezeichnen, steht außer Zweifel\. Denn den Menschen wird befohlen, sich nach dem Anfassen oder jeder sonstigen Berührung eines Leichnams wie von einer Unreinheit zu reinigen[^bible-af520474-a16f-4e98-b84d-92e99f337a16]\. Daraus ist auch dieser Ausspruch hergeleitet: „Wer sich nach der Berührung eines Toten reinwäscht und ihn wieder berührt, was nützt dem seine Waschung? So ist es auch mit dem, der wegen seiner Sünden fastet und dann wieder hingeht und dasselbe tut\.[^bible-7d9a3d06-d7d0-4db1-ac93-40d33d08bf9d]“ Die Bestattung der Toten bezeichnet also die Vergebung der Sünden und weist auf das Wort hin: „Glücklich sind die, deren Verfehlungen vergeben und deren Sünden zugedeckt sind\.[^bible-1ed14871-995f-40ad-a4db-3645fefbb4f3]“ Wo also sollten die Leichname der Patriarchen, die dies bezeichnen, bestattet werden, wenn nicht in dem Land, in dem jener gekreuzigt wurde, durch dessen Blut die Vergebung der Sünden bewirkt wurde[^bible-3193c1e0-2032-44cc-a551-29678f4ea66d]? Denn im Tod der Patriarchen wurden die Sünden der Menschen bildlich dargestellt\. Es heißt aber, von dem Ort namens Abrahamium, an dem diese Leichname liegen, bis zu dem Ort, an dem der Herr gekreuzigt wurde, seien es etwa dreißig Meilen\. So lässt sich auch diese Zahl als Hinweis auf den verstehen, der bei seiner Taufe im Alter von etwa dreißig Jahren in Erscheinung trat[^bible-441263d2-0e22-47b0-9cb2-387b46852948]\. Vielleicht lässt sich in einer so bedeutenden Sache auch noch etwas anderes erkennen, sei es auf diese Weise oder in einem höheren Sinn\. Wir dürfen nur nicht meinen, solche großen Männer Gottes hätten sich ohne Grund so sehr um die Bestattung ihrer Leichname gekümmert\. Denn die Gläubigen haben die Gewissheit und sollen sie haben: Wo immer ihre Leichname bestattet werden, selbst wenn diese durch die Wut ihrer Feinde unbestattet liegen bleiben oder nach deren Willkür zerrissen und vernichtet werden, wird ihre Auferstehung dadurch nicht weniger vollständig und nicht weniger herrlich sein\.
+
+## Bibelverweise
+
+[^bible-1ed14871-995f-40ad-a4db-3645fefbb4f3]: Ps 31,1
+[^bible-3193c1e0-2032-44cc-a551-29678f4ea66d]: Mt 26,28
+[^bible-41753312-c8a3-479e-bf51-2623fe7f1e8a]: Gen 47,29–Gen 47,30
+[^bible-441263d2-0e22-47b0-9cb2-387b46852948]: Lk 3,21–Lk 3,23
+[^bible-4c9f468c-afce-4adc-98f5-c35377409dcc]: Gen 47,29
+[^bible-54510cc3-483f-4e90-95eb-8be1142a5a1a]: Gen 24,49
+[^bible-5b89a894-b2f6-438d-b900-432805b516fb]: Ps 24,10
+[^bible-7d9a3d06-d7d0-4db1-ac93-40d33d08bf9d]: Sir 34,30–Sir 34,31
+[^bible-86d12a4a-9bf4-4fd3-bfe2-068c89856da1]: Gen 24,2–Gen 24,4
+[^bible-af520474-a16f-4e98-b84d-92e99f337a16]: Num 19,11–Num 19,13
