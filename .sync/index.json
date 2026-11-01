@@ -497,6 +497,13 @@
     "contentRevision": "sha256:3bfd03ea127a7ec4cd49eed267ba7025f5c6454d8beeb44245a83d0debcf3fd9"
   },
   {
+    "workId": "b65ec6d2-6dd8-4349-c3ab-08df346fe1ab",
+    "authorName": "Augustinus",
+    "title": "Fragen zum Heptateuch, Buch 1: Fragen zur Genesis",
+    "directory": "werke/Augustinus/Fragen zum Heptateuch, Buch 1 Fragen zur Genesis",
+    "contentRevision": "sha256:a0a8af1d2f726414321fbe8eac66a8a39a70a04b6e232b9f358a508e86019cf9"
+  },
+  {
     "workId": "58765e75-22c3-474e-7958-08df04fdf8e1",
     "authorName": "Augustinus",
     "title": "Gegen die Akademiker – Buch 1",
@@ -1218,6 +1225,13 @@
     "contentRevision": "sha256:ef6566acca609707ec7e8cd014773ef06cfea0ba7e59a7b893c15d7e5b196d2b"
   },
   {
+    "workId": "feb4be0a-cb3c-4fec-ef76-08df374b6d26",
+    "authorName": "Gregor von Nazianz",
+    "title": "1. Rede",
+    "directory": "werke/Gregor von Nazianz/Reden/1. Rede",
+    "contentRevision": "sha256:ab5c2f5a9133819ad4c712cfe23c50a40b1c08ee27b8728d47ce2b5a2dc84880"
+  },
+  {
     "workId": "834c85f9-3876-4433-b0da-08defd4c3bc2",
     "authorName": "Gregor von Nazianz",
     "title": "An Hellenius - Mahnung zugunsten der Mönche",
@@ -1372,6 +1386,13 @@
     "contentRevision": "sha256:eedf343bc298f400398fff53bcfd7261fb1b940aa4af2016259068647b7f9d5c"
   },
   {
+    "workId": "7c8ad731-a282-4c87-c3ac-08df346fe1ab",
+    "authorName": "Hieronymus",
+    "title": "Hebräische Fragen zur Genesis",
+    "directory": "werke/Hieronymus/Hebräische Fragen zur Genesis",
+    "contentRevision": "sha256:a885e8f229d2c9626e7a4366ee6c276bf1e338506298312f57649fd8a679b1d6"
+  },
+  {
     "workId": "d274cde3-8cd6-4e6d-cc99-08df1e707511",
     "authorName": "Hieronymus",
     "title": "Kommentar zu Jona",
@@ -1524,6 +1545,13 @@
     "title": "De Ecclesiastics Officiis, Buch 2",
     "directory": "werke/Isidor von Sevilla/De Ecclesiastics Officiis/De Ecclesiastics Officiis, Buch 2",
     "contentRevision": "sha256:cc4edca33ca55301ca53dc62dd45da74c94e117c08a965288b5a4dfa8394651d"
+  },
+  {
+    "workId": "d99f01af-9d66-4483-c9aa-08df3763c831",
+    "authorName": "Jakob von Sarug",
+    "title": "Homilie über die Verhüllung des Angesichts des Mose",
+    "directory": "werke/Jakob von Sarug/Homilie über die Verhüllung des Angesichts des Mose",
+    "contentRevision": "sha256:2404233bd71ec91b53bd29c99bff0ea0741e255d48f6117aa3b4b4f0db99cbb0"
   },
   {
     "workId": "c7b710e1-2bd2-4b70-bf61-08dd2e7f7439",
@@ -4662,6 +4690,13 @@
     "contentRevision": "sha256:36c9094c169bd98feff6e56a14bcac6e6ac81db81c87d0db38ef5f102bed140b"
   },
   {
+    "workId": "dbc1ffd9-3d68-4bb7-ef75-08df374b6d26",
+    "authorName": "Theodoret von Kyrrhos",
+    "title": "Fragen zu Exodus",
+    "directory": "werke/Theodoret von Kyrrhos/Fragen zu Exodus",
+    "contentRevision": "sha256:2036925a32d265ccc1338b00afc08c5b8b9a3954395dca91a121e29b7dd717e6"
+  },
+  {
     "workId": "1befed81-4d5d-4a36-8860-08df34555aa5",
     "authorName": "Theodoret von Kyrrhos",
     "title": "Fragen zur Genesis",
@@ -4772,6 +4807,76 @@
     "title": "Prozess und Martyrium Cyprians",
     "directory": "werke/Unbekannt/Prozess und Martyrium Cyprians",
     "contentRevision": "sha256:157cb88dd2aebfacb70110f32b3f7226160726f02329620082f10ef5865474d6"
+  },
+  {
+    "workId": "814637e5-4e17-4407-ef7e-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Pseudo-Augustinus: 1. Predigt über Mose",
+    "directory": "werke/Unbekannt/Pseudo-Augustinus 1. Predigt über Mose",
+    "contentRevision": "sha256:4a834a46aceb36e6abf251608b0af831d402af95db6931cb336e96cadc9d9c36"
+  },
+  {
+    "workId": "b8411e76-f7f0-4e80-ef7f-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Pseudo-Augustinus: 2. Predigt über Mose",
+    "directory": "werke/Unbekannt/Pseudo-Augustinus 2. Predigt über Mose",
+    "contentRevision": "sha256:fba175261ada1b32fd475472c4a3f56d955efd0cdfc7b5cb5c99f146359d137a"
+  },
+  {
+    "workId": "82659bef-d7ed-4ff6-ef85-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Pseudo-Augustinus: Predigt über Refidim, den geschlagenen Felsen und Amalek",
+    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigt über Refidim, den geschlagenen Felsen und Amalek",
+    "contentRevision": "sha256:2d6f72486d0231fe2cad2ad5cbdc36d34704453f9a3e836e376647d598b8a65d"
+  },
+  {
+    "workId": "dc9e4069-60e8-4711-ef84-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Pseudo-Augustinus: Predigt über das bittere Wasser und das Manna",
+    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigt über das bittere Wasser und das Manna",
+    "contentRevision": "sha256:f019d3aa26fcbf9094ca485e0139944aeae8817f120def5430beec149b552055"
+  },
+  {
+    "workId": "789ca06b-7c79-4e4e-ef7d-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Pseudo-Augustinus: Predigt über den Kampf zwischen Ägyptern und Israeliten",
+    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigt über den Kampf zwischen Ägyptern und Israeliten",
+    "contentRevision": "sha256:8d894c5c34a3507d9ae0ca13b55ad16618076a774bf4a180b20686764dbbf2dd"
+  },
+  {
+    "workId": "a2b8e53d-4b73-4d47-ef7c-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Pseudo-Augustinus: Predigt über den Tod Josefs und das Wachstum Israels",
+    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigt über den Tod Josefs und das Wachstum Israels",
+    "contentRevision": "sha256:0da8db1ac9e7789e1d135ead8b1e5105a41cd2cf93a799fa22849c3d0059eebd"
+  },
+  {
+    "workId": "e580cce1-72b7-414d-ef83-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Pseudo-Augustinus: Predigt über den Weg von drei Tagen",
+    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigt über den Weg von drei Tagen",
+    "contentRevision": "sha256:7ac0efacb14139ad87fbee76775dde5a5774d73ad3498728c3383498fc8c1b90"
+  },
+  {
+    "workId": "88912908-8fcd-45c9-ef82-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Pseudo-Augustinus: Predigt über die Grausamkeit und den Untergang des Pharao",
+    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigt über die Grausamkeit und den Untergang des Pharao",
+    "contentRevision": "sha256:d7c71de19a9a96ab77296e88f97c5d9756c61b97f312a5a7173affd976461453"
+  },
+  {
+    "workId": "1162b385-ef3f-4681-ef81-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Pseudo-Augustinus: Predigt über die Verhärtung des Herzens des Pharao",
+    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigt über die Verhärtung des Herzens des Pharao",
+    "contentRevision": "sha256:fb93708f9b81f10c052b7eba086010d4748637224d783de6943f205f45c6bbc6"
+  },
+  {
+    "workId": "087069d9-944f-4b8b-ef80-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Pseudo-Augustinus: Predigt über die zehn Plagen und die zehn Gebote",
+    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigt über die zehn Plagen und die zehn Gebote",
+    "contentRevision": "sha256:1f2a0f586bf0a51f5197f22a9bbc8626ae461f8b937e3258e9049487592b1a47"
   },
   {
     "workId": "da012c97-77fd-4904-d39b-08dd5a4cf805",

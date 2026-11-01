@@ -13,6 +13,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Einzelwerke
 
+- [Fragen zum Heptateuch, Buch 1: Fragen zur Genesis](Fragen%20zum%20Heptateuch%2C%20Buch%201%20Fragen%20zur%20Genesis/) · 173 Kapitel
 - [Unvollendetes Buch über die wörtliche Auslegung der Genesis](Unvollendetes%20Buch%20%C3%BCber%20die%20w%C3%B6rtliche%20Auslegung%20der%20Genesis/) · 16 Kapitel
 - [Über den Glauben an unsichtbare Dinge (De fide rerum quae non videntur)](%C3%9Cber%20den%20Glauben%20an%20unsichtbare%20Dinge%20%28De%20fide%20rerum%20quae%20non%20videntur%29/) · 8 Kapitel
 - [Über den Glauben und Werke](%C3%9Cber%20den%20Glauben%20und%20Werke/) · 27 Kapitel

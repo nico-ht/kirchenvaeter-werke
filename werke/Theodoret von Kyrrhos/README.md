@@ -10,4 +10,5 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Einzelwerke
 
+- [Fragen zu Exodus](Fragen%20zu%20Exodus/) · 72 Kapitel
 - [Fragen zur Genesis](Fragen%20zur%20Genesis/) · 112 Kapitel
