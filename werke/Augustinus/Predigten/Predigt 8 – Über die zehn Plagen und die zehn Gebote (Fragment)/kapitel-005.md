@@ -1,0 +1,17 @@
+# Predigt 8 – Über die zehn Plagen und die zehn Gebote \(Fragment\) – Kapitel 5: Ehebruch macht den Menschen dem Tier gleich – das Viehsterben warnt ihn vor dem Tod
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-8-ueber-die-zehn-plagen-und-die-zehn-gebote-fragment#kapitel-f3fe1017-6204-4644-97b3-08df374b6e6f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Das fünfte Gebot lautet: „Du sollst nicht die Ehe brechen\.[^bible-0e196721-95a2-412f-822a-16a6f5d823e3]“ Die fünfte Plage ist das Sterben des Viehs der Ägypter[^bible-c8afc17e-03b1-4998-99e5-0ed111fbe528]\. Vergleichen wir beides: Stell dir einen Menschen vor, der an Ehebruch denkt und sich mit seiner eigenen Ehe nicht begnügt\. Er will eine Begierde des Fleisches in sich nicht zähmen, die uns und den Tieren gemeinsam ist\. Denn sich zu paaren und Nachkommen zu zeugen, ist auch den Tieren eigen; vernünftig zu denken und zu verstehen, ist dem Menschen eigen\. Deshalb muss die Vernunft, die im Geist den Vorrang hat, die niederen Regungen des Fleisches wie eine Herrscherin lenken und zügeln, statt ihnen maßlos und unerlaubt überall und wahllos freien Lauf zu lassen\. Darum hat der Schöpfer die Natur der Tiere selbst so eingerichtet, dass sie nur zu bestimmten Zeiten den Drang zu den Weibchen und zur Paarung verspüren\. Denn zu anderen Zeiten hält sich das Tier nicht durch Vernunft zurück; vielmehr bleibt es untätig, weil dieser Trieb selbst ganz erkaltet\. Der Mensch dagegen kann jederzeit diesen Drang verspüren, weil er ihn auch zügeln kann\. Dir hat der Schöpfer die Herrschaft der Vernunft gegeben; dir hat er die Gebote der Enthaltsamkeit gegeben, gleichsam als Zügel für die niederen Tiere\. Du besitzt, was ein Tier nicht besitzen kann, und deshalb hoffst du auf das, worauf ein Tier nicht hoffen kann\. Du mühst dich ein wenig mit der Enthaltsamkeit ab; ein Tier müht sich damit nicht ab\. Du aber wirst dich für immer in der Ewigkeit freuen, zu der ein Tier nicht gelangt\. Wenn die Arbeit dich ermüdet, soll der Lohn dich trösten\. Denn auch das ist geduldiges Ausharren: die innere Regung zu zügeln und dem, was du mit dem Tier gemeinsam hast, nicht wie ein Tier in jeder Hinsicht freien Lauf zu lassen\. Wenn du dich aber selbst verachtest und das Bild Gottes in dir, nach dem er dich geschaffen hat[^bible-d70392b9-fb9c-42ad-a478-54cbdf27028c], missachtest, wenn dich die Begierde nach dem überwältigt, was sich dir darbietet, dann wirst du zum Tier, als hättest du dein Menschsein verloren\. Nicht, dass du in die Natur eines Tieres verwandelt würdest; vielmehr gleichst du in menschlicher Gestalt einem Tier, weil du nicht auf den hörst, der sagt: „Seid nicht wie Pferd und Maultier, die keinen Verstand haben\.[^bible-31e968a0-3fee-4056-9310-d696d81b864e]“ Aber vielleicht entscheidest du dich lieber dafür, ein Tier zu sein und in ungezügelter Lust umherzustreifen, ohne die Begierde des Fleisches durch irgendein Gesetz zur Enthaltsamkeit zu zügeln\. Achte auf die Plage: Wenn du dich nicht davor fürchtest, ein Tier zu sein, dann fürchte dich wenigstens davor zu sterben\.
+
+## Bibelverweise
+
+[^bible-0e196721-95a2-412f-822a-16a6f5d823e3]: Ex 20,14
+[^bible-31e968a0-3fee-4056-9310-d696d81b864e]: Ps 31,9
+[^bible-c8afc17e-03b1-4998-99e5-0ed111fbe528]: Ex 9,6
+[^bible-d70392b9-fb9c-42ad-a478-54cbdf27028c]: Gen 1,27
