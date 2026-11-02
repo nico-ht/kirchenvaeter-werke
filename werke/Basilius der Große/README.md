@@ -13,4 +13,5 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Einzelwerke
 
+- [Homilie an die Reichen](Homilie%20an%20die%20Reichen/) · 9 Kapitel
 - [Homilie gegen die Zornigen](Homilie%20gegen%20die%20Zornigen/) · 7 Kapitel

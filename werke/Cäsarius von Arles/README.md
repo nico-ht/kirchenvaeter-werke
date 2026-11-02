@@ -6,4 +6,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Predigten](Predigten/) · 3 Werke
+- [Predigten](Predigten/) · 4 Werke

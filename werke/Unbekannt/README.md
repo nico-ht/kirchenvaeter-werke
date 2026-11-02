@@ -29,5 +29,6 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Pseudo-Augustinus: Predigt über die Grausamkeit und den Untergang des Pharao](Pseudo-Augustinus%20Predigt%20%C3%BCber%20die%20Grausamkeit%20und%20den%20Untergang%20des%20Pharao/) · 1 Kapitel
 - [Pseudo-Augustinus: Predigt über die Verhärtung des Herzens des Pharao](Pseudo-Augustinus%20Predigt%20%C3%BCber%20die%20Verh%C3%A4rtung%20des%20Herzens%20des%20Pharao/) · 1 Kapitel
 - [Pseudo-Augustinus: Predigt über die zehn Plagen und die zehn Gebote](Pseudo-Augustinus%20Predigt%20%C3%BCber%20die%20zehn%20Plagen%20und%20die%20zehn%20Gebote/) · 1 Kapitel
+- [Pseudo-Hippolyt: Predigt auf das heilige Pascha](Pseudo-Hippolyt%20Predigt%20auf%20das%20heilige%20Pascha/) · 63 Kapitel
 - [Über die Herrlichkeit des Martyriums](%C3%9Cber%20die%20Herrlichkeit%20des%20Martyriums/) · 30 Kapitel
 - [Über die Osterberechnung](%C3%9Cber%20die%20Osterberechnung/) · 23 Kapitel

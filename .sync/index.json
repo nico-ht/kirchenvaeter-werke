@@ -231,6 +231,13 @@
     "contentRevision": "sha256:6d6577748f350ce75955decfd63b6f277685d3ec13c08c3a8ec21cfd7124d3c0"
   },
   {
+    "workId": "532c5494-9a0d-42fc-efa2-08df374b6d26",
+    "authorName": "Aphrahat",
+    "title": "12. Unterweisung – Über das Pascha",
+    "directory": "werke/Aphrahat/Unterweisungen/12. Unterweisung – Über das Pascha",
+    "contentRevision": "sha256:511bfd5ff35e286b9a8978767373d3c03e7d1b6b40b287c542092d467a00f52b"
+  },
+  {
     "workId": "5b869eb5-2975-44f3-91f2-08dd3742007d",
     "authorName": "Apollonius von Rom",
     "title": "Der Prozess gegen Apollonius",
@@ -500,8 +507,15 @@
     "workId": "b65ec6d2-6dd8-4349-c3ab-08df346fe1ab",
     "authorName": "Augustinus",
     "title": "Fragen zum Heptateuch, Buch 1: Fragen zur Genesis",
-    "directory": "werke/Augustinus/Fragen zum Heptateuch, Buch 1 Fragen zur Genesis",
-    "contentRevision": "sha256:a0a8af1d2f726414321fbe8eac66a8a39a70a04b6e232b9f358a508e86019cf9"
+    "directory": "werke/Augustinus/Fragen zum Heptateuch/Fragen zum Heptateuch, Buch 1 Fragen zur Genesis",
+    "contentRevision": "sha256:ec8e4d16042bc36742943dc67b228f158aadb2f997901ad5af4e521a53d6619d"
+  },
+  {
+    "workId": "bd91e8f8-6c20-428e-ef78-08df374b6d26",
+    "authorName": "Augustinus",
+    "title": "Fragen zum Heptateuch, Buch 2: Fragen zu Exodus",
+    "directory": "werke/Augustinus/Fragen zum Heptateuch/Fragen zum Heptateuch, Buch 2 Fragen zu Exodus",
+    "contentRevision": "sha256:5425a02a8803d65e0da02b759fc3834e64657b819faf108a930a2587921570c8"
   },
   {
     "workId": "58765e75-22c3-474e-7958-08df04fdf8e1",
@@ -523,6 +537,48 @@
     "title": "Gegen die Akademiker – Buch 3",
     "directory": "werke/Augustinus/Gegen die Akademiker/Gegen die Akademiker – Buch 3",
     "contentRevision": "sha256:9a0f791e48f309b09289649a46713661efe10ad57817814688f9db10461fddc5"
+  },
+  {
+    "workId": "7186a690-6a2e-47a4-ef7a-08df374b6d26",
+    "authorName": "Augustinus",
+    "title": "Predigt 363 – Über den Lobgesang des Exodus",
+    "directory": "werke/Augustinus/Predigt 363 – Über den Lobgesang des Exodus",
+    "contentRevision": "sha256:0b8b4119f98e6ba0a93ec12fb6cf78e18d0bf6e77661031958d3570b8ccb9fba"
+  },
+  {
+    "workId": "ae4ca984-ebee-4e4d-ef9b-08df374b6d26",
+    "authorName": "Augustinus",
+    "title": "Predigt 6 – Über die Erscheinung des Herrn vor Mose im Dornbusch",
+    "directory": "werke/Augustinus/Predigten/Predigt 6 – Über die Erscheinung des Herrn vor Mose im Dornbusch",
+    "contentRevision": "sha256:36303dad983c7b389d4008c6a4cbdae79af81b09326849c94d37832d3391e114"
+  },
+  {
+    "workId": "437a4f45-7731-47a9-ef9c-08df374b6d26",
+    "authorName": "Augustinus",
+    "title": "Predigt 7 – Über den Dornbusch, der brannte und nicht verbrannte",
+    "directory": "werke/Augustinus/Predigten/Predigt 7 – Über den Dornbusch, der brannte und nicht verbrannte",
+    "contentRevision": "sha256:39d92d8bf830a3822ccbb54935885c3e80bee4452c8f6607ed66bad71e2e4bf8"
+  },
+  {
+    "workId": "d6c1c69a-ac5a-4e98-ef9d-08df374b6d26",
+    "authorName": "Augustinus",
+    "title": "Predigt 8 – Über die zehn Plagen und die zehn Gebote (Fragment)",
+    "directory": "werke/Augustinus/Predigten/Predigt 8 – Über die zehn Plagen und die zehn Gebote (Fragment)",
+    "contentRevision": "sha256:4e6832330fa79f624f7268a28bdccbf51b7b9635e91381f2941de95cd5a579c0"
+  },
+  {
+    "workId": "b8561656-912d-451d-f47d-08df20dbadcf",
+    "authorName": "Augustinus",
+    "title": "Predigt 9 – Über die zehn Saiten",
+    "directory": "werke/Augustinus/Predigten/Predigt 9 – Über die zehn Saiten",
+    "contentRevision": "sha256:0577d9999c3beb7ffd40b9f2eba51c4f65a8edb82ab36f2b6613787cad9a6fb7"
+  },
+  {
+    "workId": "fbd60f17-9eed-44b9-ef79-08df374b6d26",
+    "authorName": "Augustinus",
+    "title": "Redewendungen im Heptateuch, Buch 2: Redewendungen in Exodus",
+    "directory": "werke/Augustinus/Redewendungen im Heptateuch, Buch 2 Redewendungen in Exodus",
+    "contentRevision": "sha256:71660cdf516483359cb118fe29b636cebdc3f44dcc40605d6663049ecd3ee7a9"
   },
   {
     "workId": "2a7acb64-175d-48d7-c39f-08df346fe1ab",
@@ -677,6 +733,13 @@
     "title": "Homilie 1, Hexaemeron",
     "directory": "werke/Basilius der Große/Hexaemeron/Homilie 1, Hexaemeron",
     "contentRevision": "sha256:e8ff6d70c754ac23de4d2ca3b05a689a3d76ae83820dc3ec85bab3e34793fc8e"
+  },
+  {
+    "workId": "a2b90da7-cfc5-4d73-6191-08df382da9a2",
+    "authorName": "Basilius der Große",
+    "title": "Homilie an die Reichen",
+    "directory": "werke/Basilius der Große/Homilie an die Reichen",
+    "contentRevision": "sha256:7fc7e7a5f01c0e1b2b8bb5c248ae9e6d6ee50c658224cf24752dd6497f2851c4"
   },
   {
     "workId": "8edb7808-d93d-4e3f-be8c-08dec2ebfb67",
@@ -980,6 +1043,13 @@
     "contentRevision": "sha256:3baaea5b1e2e088f005b5f2a71e39a47a785803e010b49fa83236badce074b82"
   },
   {
+    "workId": "2cb8164b-ab5b-4053-9181-08df200aaa32",
+    "authorName": "Cäsarius von Arles",
+    "title": "99. Predigt",
+    "directory": "werke/Cäsarius von Arles/Predigten/99. Predigt",
+    "contentRevision": "sha256:de12387c56a3d93d4d803398ebfb6925d5f67eabf219b3980712ba8916fcde9a"
+  },
+  {
     "workId": "557ced50-2d98-4778-6d2b-08ddd84180a6",
     "authorName": "Cäsarius von Arles",
     "title": "Am Tag des Jüngsten Gerichts - 56. Predigt",
@@ -1034,6 +1104,13 @@
     "title": "Die Perle – sieben Hymnen über den Glauben",
     "directory": "werke/Ephräm der Syrer/Die Perle – sieben Hymnen über den Glauben",
     "contentRevision": "sha256:303cbf1c713b16098d735b5bf2f41d10ae39337fad0a6291435758294ac11ffa"
+  },
+  {
+    "workId": "46b31724-ce61-420e-efa4-08df374b6d26",
+    "authorName": "Ephräm der Syrer",
+    "title": "Kommentar zu Exodus",
+    "directory": "werke/Ephräm der Syrer/Kommentar zu Exodus",
+    "contentRevision": "sha256:a01a3b1e7993003a0dba0633cd454bbaf3f934aa8e8cf43e78a0b144c6a43b04"
   },
   {
     "workId": "edd8954e-c9ce-4401-8d53-08de0b5e2e48",
@@ -1176,11 +1253,46 @@
     "contentRevision": "sha256:8e76979cd0fdf87d03a3b943267c9d9ecc20e670f2e0d705f0ef842735a03c45"
   },
   {
+    "workId": "2a2a08bc-3637-4e70-9ecf-08decdc97fd2",
+    "authorName": "Gaudentius von Brescia",
+    "title": "10. Predigt",
+    "directory": "werke/Gaudentius von Brescia/Predigten/10. Predigt",
+    "contentRevision": "sha256:bc7cdfed5c211ba48d41ec5976b4631737552373adae9dd3e6f8ee5f8881ed01"
+  },
+  {
     "workId": "29a038a6-3b4b-42b2-9307-08df2ab9dfd2",
     "authorName": "Gaudentius von Brescia",
     "title": "2. Predigt über das Pascha und die Sakramente",
     "directory": "werke/Gaudentius von Brescia/Predigten/2. Predigt über das Pascha und die Sakramente",
     "contentRevision": "sha256:8fad0e0b368f4292ac382a5efb0145fe18343d6a1cd88c307c6a84ed385a7856"
+  },
+  {
+    "workId": "b8a482cc-01ce-4010-ef97-08df374b6d26",
+    "authorName": "Gaudentius von Brescia",
+    "title": "3. Predigt",
+    "directory": "werke/Gaudentius von Brescia/Predigten/3. Predigt",
+    "contentRevision": "sha256:0387998197fbfe98330f6f5559090a7dc7ed4cf1e03ac11ce631df821dcc9ba6"
+  },
+  {
+    "workId": "6e53d559-a751-4e7b-ef98-08df374b6d26",
+    "authorName": "Gaudentius von Brescia",
+    "title": "5. Predigt",
+    "directory": "werke/Gaudentius von Brescia/Predigten/5. Predigt",
+    "contentRevision": "sha256:c9700184ded26495f16462693b3a88468a442257e98896ad37dffa1d631efdf6"
+  },
+  {
+    "workId": "ea496c8f-9a46-4a16-ef99-08df374b6d26",
+    "authorName": "Gaudentius von Brescia",
+    "title": "6. Predigt",
+    "directory": "werke/Gaudentius von Brescia/Predigten/6. Predigt",
+    "contentRevision": "sha256:b2ea2a24b07dc9f4b19b0c064c8e1ef14493663304092ea0581334466540126f"
+  },
+  {
+    "workId": "5ef511f8-69e1-42b8-ef9a-08df374b6d26",
+    "authorName": "Gaudentius von Brescia",
+    "title": "7. Predigt",
+    "directory": "werke/Gaudentius von Brescia/Predigten/7. Predigt",
+    "contentRevision": "sha256:2adde4ff91a4a55f65f6fcfef1197f1499fb3467733b630f30bb1a6d5be9453d"
   },
   {
     "workId": "d4dc0cb4-27f5-422b-47c4-08dd468a1db5",
@@ -1302,6 +1414,13 @@
     "contentRevision": "sha256:5dbef2c0e6b92811487c4a2de36de2dea3ec64b7c0a7969c660b05b1b8b038bf"
   },
   {
+    "workId": "3e9e6b38-28e9-4bac-618e-08df382da9a2",
+    "authorName": "Gregor von Nyssa",
+    "title": "Erste Homilie über die Seligpreisungen",
+    "directory": "werke/Gregor von Nyssa/Erste Homilie über die Seligpreisungen",
+    "contentRevision": "sha256:06657a3190e24d77341f7223eee20142a770fda7ec0214148db34231f419f073"
+  },
+  {
     "workId": "a3e869e2-8b5a-44d5-b52e-08ded8738df9",
     "authorName": "Gregor von Nyssa",
     "title": "Über das Leben des Mose, Buch 1",
@@ -1384,6 +1503,13 @@
     "title": "Brief 55 - An Amandus",
     "directory": "werke/Hieronymus/Briefe/Brief 55 - An Amandus",
     "contentRevision": "sha256:eedf343bc298f400398fff53bcfd7261fb1b940aa4af2016259068647b7f9d5c"
+  },
+  {
+    "workId": "448daf6d-6f06-4c02-ef7b-08df374b6d26",
+    "authorName": "Hieronymus",
+    "title": "Brief 64 an Fabiola",
+    "directory": "werke/Hieronymus/Brief 64 an Fabiola",
+    "contentRevision": "sha256:1cd20f0530a93c6cc804b0df7f81085a6774f71caf07f70791ba766d059498f5"
   },
   {
     "workId": "7c8ad731-a282-4c87-c3ac-08df346fe1ab",
@@ -1547,11 +1673,39 @@
     "contentRevision": "sha256:cc4edca33ca55301ca53dc62dd45da74c94e117c08a965288b5a4dfa8394651d"
   },
   {
+    "workId": "23c89d6d-2093-4e51-efa1-08df374b6d26",
+    "authorName": "Isidor von Sevilla",
+    "title": "Fragen zum Alten Testament – Zu Exodus",
+    "directory": "werke/Isidor von Sevilla/Fragen zum Alten Testament – Zu Exodus",
+    "contentRevision": "sha256:1b7a55aad598bcc64d2e2a90a981861f947fc279a757e4d721b3c6cc1855eefb"
+  },
+  {
+    "workId": "d7b1c4fa-4f83-438e-efa9-08df374b6d26",
+    "authorName": "Jakob von Sarug",
+    "title": "Homilie über den Priester Aaron",
+    "directory": "werke/Jakob von Sarug/Homilie über den Priester Aaron",
+    "contentRevision": "sha256:2d0600054032fc2dfe6028c6bc9d634d290b015ba997c10df1c4d765c72608c1"
+  },
+  {
+    "workId": "c2bc4a43-67d9-4d2e-efa7-08df374b6d26",
+    "authorName": "Jakob von Sarug",
+    "title": "Homilie über die Herabkunft des Höchsten auf den Berg Sinai",
+    "directory": "werke/Jakob von Sarug/Homilie über die Herabkunft des Höchsten auf den Berg Sinai",
+    "contentRevision": "sha256:a408c900f0f2bf94e33b4da3133f8413db0c5552518d147ea170509f1e15cae5"
+  },
+  {
     "workId": "d99f01af-9d66-4483-c9aa-08df3763c831",
     "authorName": "Jakob von Sarug",
     "title": "Homilie über die Verhüllung des Angesichts des Mose",
     "directory": "werke/Jakob von Sarug/Homilie über die Verhüllung des Angesichts des Mose",
     "contentRevision": "sha256:2404233bd71ec91b53bd29c99bff0ea0741e255d48f6117aa3b4b4f0db99cbb0"
+  },
+  {
+    "workId": "b24bb0d8-f099-42a9-efa8-08df374b6d26",
+    "authorName": "Jakob von Sarug",
+    "title": "Homilie über die Weihe der Kirche und über den Propheten Mose",
+    "directory": "werke/Jakob von Sarug/Homilie über die Weihe der Kirche und über den Propheten Mose",
+    "contentRevision": "sha256:ae9f0087fbebf11e049acdc2430fa35e2ceb5610ceaaf5aad2c61fab099d3d9d"
   },
   {
     "workId": "c7b710e1-2bd2-4b70-bf61-08dd2e7f7439",
@@ -2863,6 +3017,20 @@
     "contentRevision": "sha256:c235aad69418ca339847905d7416d1633d062b6cc78473fcfc54ecb549df5614"
   },
   {
+    "workId": "58b85d91-0a13-4b85-6190-08df382da9a2",
+    "authorName": "Johannes Chrysostomus",
+    "title": "Homilie über das Wort: Vater, wenn es möglich ist",
+    "directory": "werke/Johannes Chrysostomus/Homilie über das Wort Vater, wenn es möglich ist",
+    "contentRevision": "sha256:93c9fededfe3f56ef3db906f7ef2c1c215dda5784fd027f6e091f620e186e5a3"
+  },
+  {
+    "workId": "c22a7dcf-6336-4f99-618f-08df382da9a2",
+    "authorName": "Johannes Chrysostomus",
+    "title": "Homilie über den Schuldner der zehntausend Talente",
+    "directory": "werke/Johannes Chrysostomus/Homilie über den Schuldner der zehntausend Talente",
+    "contentRevision": "sha256:5dcee1660355abe9d5c110cc05a39ef460ba859ba8031774b8b8d8f940fd0dd3"
+  },
+  {
     "workId": "c9d051c5-3cc0-4a92-5bb7-08df27871084",
     "authorName": "Johannes Chrysostomus",
     "title": "Lobrede auf Ignatius",
@@ -3003,6 +3171,13 @@
     "contentRevision": "sha256:5b55e9e10bc1d4a864d5782c97d26321acdd1a6061e8a9f7b37ea2298a5ccab1"
   },
   {
+    "workId": "117a5665-98e7-43c0-ef74-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Glaphyra zu Exodus",
+    "directory": "werke/Kyrill von Alexandria/Glaphyra zu Exodus",
+    "contentRevision": "sha256:c195568b6d6981da44af64e3bc6a16d283f59f70d088239d770bf3ce3ea1b017"
+  },
+  {
     "workId": "2389c032-183b-4905-885f-08df34555aa5",
     "authorName": "Kyrill von Alexandria",
     "title": "Glaphyra zur Genesis",
@@ -3015,6 +3190,125 @@
     "title": "Kommentar zu Johannes, Buch 7",
     "directory": "werke/Kyrill von Alexandria/Kommentar zu Johannes/Kommentar zu Johannes, Buch 7",
     "contentRevision": "sha256:8657602e6d172fa6bec82570adbc1aa33baa13897afb57134044731eb0695704"
+  },
+  {
+    "workId": "15f25dff-772d-42fb-ef86-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 1",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 1",
+    "contentRevision": "sha256:53619f5379b9256f1497936f1c5473b524c0d3f5b5bf50ab366684dc429bb854"
+  },
+  {
+    "workId": "166e7384-179e-4b21-ef8f-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 10",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 10",
+    "contentRevision": "sha256:b64fa14269b9452a270c7747eac55ce347a8586d600c021a03b4a3b95c00bb06"
+  },
+  {
+    "workId": "63452bab-7a5a-4952-ef90-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 11",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 11",
+    "contentRevision": "sha256:69cdc2ebdf7499b554eba790767079a33d68197c94da8abb076e7b1dd482e971"
+  },
+  {
+    "workId": "2db2a92b-041a-4051-ef91-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 12",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 12",
+    "contentRevision": "sha256:8293a2722a61a186b8a5d207953923620b838840d583273c84b10faf71df5df5"
+  },
+  {
+    "workId": "9551dc47-e7cb-4047-ef92-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 13",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 13",
+    "contentRevision": "sha256:c95baf3449c0534ba43c9bc0fe4b2749781a527b9c305a063ac0d66f52e72247"
+  },
+  {
+    "workId": "6909e296-0932-49c6-ef93-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 14",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 14",
+    "contentRevision": "sha256:b8a33eee3791ee279e30433578f6dda24788c032f751a56d2f010be3301aa73e"
+  },
+  {
+    "workId": "4d960cd3-e516-45ae-ef94-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 15",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 15",
+    "contentRevision": "sha256:16f08a7fd47ec5e14fbf9675288a1abaa60b2963296c4c21d5798b0b228f75b4"
+  },
+  {
+    "workId": "fa539a83-89bf-4c59-ef95-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 16",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 16",
+    "contentRevision": "sha256:0daf70710cc56aded7580c8d1bff9a73a2b776ae62956fb9e82bc0e995593560"
+  },
+  {
+    "workId": "93e4de81-e2e4-4b6b-ef96-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 17",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 17",
+    "contentRevision": "sha256:2dfdd2fe308c543db78fdc2c50a907934629f00adc3587fa64fa540cf0e3819e"
+  },
+  {
+    "workId": "c851816b-0d92-44f8-ef87-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 2",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 2",
+    "contentRevision": "sha256:9e633002cc59522525bed65f55aacd71172aae189cd2150fe269c2c623f62314"
+  },
+  {
+    "workId": "d74a5a21-4612-4a6e-ef88-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 3",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 3",
+    "contentRevision": "sha256:e274e31d972fc0623ee9109432598d93e3eb11bca809fa7ee0174988dbb11400"
+  },
+  {
+    "workId": "c83dfda5-50f5-47de-ef89-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 4",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 4",
+    "contentRevision": "sha256:5302ee0c8e836199d842cc94b7d4b78a83079259034ee57d4c666b35a2448d83"
+  },
+  {
+    "workId": "1b39df73-6828-45d9-ef8a-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 5",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 5",
+    "contentRevision": "sha256:a83624fafaac0d1003a24b15aa2109e057d5a6bbfc0f5e336a580b27c0fe3215"
+  },
+  {
+    "workId": "8f0f9cb8-3d42-4a3c-ef8b-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 6",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 6",
+    "contentRevision": "sha256:3f5d316ce0e7d8b2a4f4840dd6353f4a2071c192e7d4bf9bf68ffecedaec6aac"
+  },
+  {
+    "workId": "738c04d1-270e-41fc-ef8c-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 7",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 7",
+    "contentRevision": "sha256:86d5ff413ab526625c6a1f68f4ec28f0499a55a75fdf7f85e6972c6ade1cc712"
+  },
+  {
+    "workId": "c9fdbe54-8035-4dec-ef8d-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 8",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 8",
+    "contentRevision": "sha256:14f2daba99ec7ca3b87a268228445a28a4467114b69c2f9203f9674bde8b4193"
+  },
+  {
+    "workId": "b072e3d8-2d38-4c32-ef8e-08df374b6d26",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 9",
+    "directory": "werke/Kyrill von Alexandria/Über die Anbetung und Verehrung im Geist und in der Wahrheit/Über die Anbetung und Verehrung im Geist und in der Wahrheit, Buch 9",
+    "contentRevision": "sha256:24fb727e34bdc1d9f281fec1017ac92306766ad48dd337db61873255a610595d"
   },
   {
     "workId": "56a32181-f998-45d1-2d0b-08dd14605f00",
@@ -4186,6 +4480,20 @@
     "contentRevision": "sha256:dbc3f48cea9490cb5a5a49b0723a3a156f595fde96cdf2a38a58829a87d09bfd"
   },
   {
+    "workId": "e61ad451-5989-479a-6192-08df382da9a2",
+    "authorName": "Origenes",
+    "title": "Kommentar zu Matthäus, Buch 17",
+    "directory": "werke/Origenes/Kommentar zu Matthäus/Kommentar zu Matthäus, Buch 17",
+    "contentRevision": "sha256:695e73a81bce9ac17b7e02eade91c5e70854f3916712bb2b08552e937b4924f9"
+  },
+  {
+    "workId": "867183b9-b4a5-4976-02f8-08df3837a918",
+    "authorName": "Origenes",
+    "title": "Kommentar zum Matthäusevangelium – Fragmente zu Mt 1–13 (die verlorenen Bücher 1–9)",
+    "directory": "werke/Origenes/Kommentar zum Matthäusevangelium – Fragmente zu Mt 1–13 (die verlorenen Bücher 1–9)",
+    "contentRevision": "sha256:0725656963558a730406521f981e727220116591d837a0db4481038b2eec9e8c"
+  },
+  {
     "workId": "6fb01b34-08de-4c89-2b72-08dd75e33c20",
     "authorName": "Origenes",
     "title": "Psalm 1",
@@ -4291,6 +4599,20 @@
     "contentRevision": "sha256:0afe9cb700510c2952770e8002cffaa036e432bae123689a8e57362f195046dd"
   },
   {
+    "workId": "0cb79219-68f4-4423-efa3-08df374b6d26",
+    "authorName": "Philo von Alexandria",
+    "title": "Fragen und Antworten über Exodus (griechische Fragmente)",
+    "directory": "werke/Philo von Alexandria/Fragen und Antworten über Exodus (griechische Fragmente)",
+    "contentRevision": "sha256:2fea7c3b4db066ccf45d213d53f422f0208c75fbcb83415767715b04868b5eda"
+  },
+  {
+    "workId": "ea9f7109-004f-4ea9-efa5-08df374b6d26",
+    "authorName": "Philo von Alexandria",
+    "title": "Fragen und Antworten über Exodus, Buch 1",
+    "directory": "werke/Philo von Alexandria/Fragen und Antworten über Exodus, Buch 1",
+    "contentRevision": "sha256:6b273a857850c595db1cb969cab49266a881699cdd20493fd973842d59899d1a"
+  },
+  {
     "workId": "6a81cb72-4beb-4563-dcdb-08dd5e294e7f",
     "authorName": "Philo von Alexandria",
     "title": "Fragen und Antworten über Genesis, Buch 1",
@@ -4338,6 +4660,13 @@
     "title": "Über das besinnliche Leben",
     "directory": "werke/Philo von Alexandria/Über das besinnliche Leben",
     "contentRevision": "sha256:e1faf5dd821e4719183d94e1aa07457a521a0c664467e3ca78e8b15bf6970142"
+  },
+  {
+    "workId": "e8a28048-ecf3-4bd2-ef9e-08df374b6d26",
+    "authorName": "Philo von Alexandria",
+    "title": "Über den Dekalog",
+    "directory": "werke/Philo von Alexandria/Über den Dekalog",
+    "contentRevision": "sha256:408faf70d1ba8a8b608a8ecc30620a853120dd366d424b956a1af3bb31def1af"
   },
   {
     "workId": "de3c6551-de7d-4507-6125-08df2a82baf6",
@@ -4879,6 +5208,13 @@
     "contentRevision": "sha256:1f2a0f586bf0a51f5197f22a9bbc8626ae461f8b937e3258e9049487592b1a47"
   },
   {
+    "workId": "f75bbe59-de2d-4b61-ef77-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Pseudo-Hippolyt: Predigt auf das heilige Pascha",
+    "directory": "werke/Unbekannt/Pseudo-Hippolyt Predigt auf das heilige Pascha",
+    "contentRevision": "sha256:9fad53679aaf939291d5d2fabfcd832d67df2de32e66806ffc404dc4f34044aa"
+  },
+  {
     "workId": "da012c97-77fd-4904-d39b-08dd5a4cf805",
     "authorName": "Unbekannt",
     "title": "Vom Untergang Jerusalems, Buch 1",
@@ -5038,5 +5374,12 @@
     "title": "Schrift 9 - Habsucht 1",
     "directory": "werke/Zeno von Verona/Buch 1/Schrift 9 - Habsucht 1",
     "contentRevision": "sha256:f33f7381cf082c5b10119cea0a5b8fef4eeb61890014341d07d505992a80e08b"
+  },
+  {
+    "workId": "974af723-aa94-44a0-efa0-08df374b6d26",
+    "authorName": "Zeno von Verona",
+    "title": "Schriften über Exodus (Buch 2, 54–68)",
+    "directory": "werke/Zeno von Verona/Schriften über Exodus (Buch 2, 54–68)",
+    "contentRevision": "sha256:dbb9e4b35a520b9fe75caed3eca3b36f9cee0df21ba12daa5fadf1162f35fefe"
   }
 ]

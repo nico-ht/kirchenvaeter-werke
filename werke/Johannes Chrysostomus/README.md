@@ -18,6 +18,8 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Dass Frauen nicht mit Männern zusammenwohnen sollen](Dass%20Frauen%20nicht%20mit%20M%C3%A4nnern%20zusammenwohnen%20sollen/) · 12 Kapitel
 - [Erste Lobrede auf die Märtyrerin Pelagia](Erste%20Lobrede%20auf%20die%20M%C3%A4rtyrerin%20Pelagia/) · 4 Kapitel
 - [Gegen die Bekanntmachung der Fehler von Brüdern](Gegen%20die%20Bekanntmachung%20der%20Fehler%20von%20Br%C3%BCdern/) · 12 Kapitel
+- [Homilie über das Wort: Vater, wenn es möglich ist](Homilie%20%C3%BCber%20das%20Wort%20Vater%2C%20wenn%20es%20m%C3%B6glich%20ist/) · 4 Kapitel
+- [Homilie über den Schuldner der zehntausend Talente](Homilie%20%C3%BCber%20den%20Schuldner%20der%20zehntausend%20Talente/) · 7 Kapitel
 - [Lobrede auf Ignatius](Lobrede%20auf%20Ignatius/) · 5 Kapitel
 - [Wie man eine Ehefrau auswählt](Wie%20man%20eine%20Ehefrau%20ausw%C3%A4hlt/) · 24 Kapitel
 - [Zwei Ermahnungen an den gefallenen Theodor](Zwei%20Ermahnungen%20an%20den%20gefallenen%20Theodor/) · 24 Kapitel

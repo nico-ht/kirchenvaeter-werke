@@ -7,3 +7,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Werksammlungen
 
 - [De Ecclesiastics Officiis](De%20Ecclesiastics%20Officiis/) · 2 Werke
+
+## Einzelwerke
+
+- [Fragen zum Alten Testament – Zu Exodus](Fragen%20zum%20Alten%20Testament%20%E2%80%93%20Zu%20Exodus/) · 60 Kapitel

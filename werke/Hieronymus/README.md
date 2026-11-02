@@ -10,6 +10,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Einzelwerke
 
+- [Brief 64 an Fabiola](Brief%2064%20an%20Fabiola/) · 1 Kapitel
 - [Hebräische Fragen zur Genesis](Hebr%C3%A4ische%20Fragen%20zur%20Genesis/) · 46 Kapitel
 - [Kommentar zu Jona](Kommentar%20zu%20Jona/) · 41 Kapitel
 - [Leben und Gefangenschaft des Mönchs Malchus](Leben%20und%20Gefangenschaft%20des%20M%C3%B6nchs%20Malchus/) · 10 Kapitel
