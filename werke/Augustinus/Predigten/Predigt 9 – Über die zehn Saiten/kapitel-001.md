@@ -1,0 +1,17 @@
+# Predigt 9 – Über die zehn Saiten – Kapitel 1: Gottes Barmherzigkeit ist kein Freibrief zur Sünde: Seine Wahrhaftigkeit verbürgt das Gericht
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/augustinus-predigt-9-zehn-saiten#kapitel-5885d775-7d95-4526-981a-08df374b6e6f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Unser Herr und Gott ist barmherzig und voll Erbarmen, langmütig und reich an Barmherzigkeit und wahrhaftig[^bible-c13e5efa-a773-4890-93de-bdab4855cdde]\. So großzügig er in dieser Welt seine Barmherzigkeit im Voraus gewährt, so streng droht er für die kommende Welt das Gericht an\. Die Worte, die ich eben gesprochen habe, stehen geschrieben und sind in den göttlichen Schriften enthalten\. Denn es heißt: „Barmherzig und voll Erbarmen ist der Herr, langmütig und reich an Barmherzigkeit und wahrhaftig\.[^bible-c13e5efa-a773-4890-93de-bdab4855cdde]“ Alle Sünder und alle, die diese Welt lieben, freuen sich sehr über die Worte „Barmherzig und voll Erbarmen ist der Herr[^bible-89476229-3314-4f4a-a780-defcd872ec8c]“ und darüber, dass er „langmütig und reich an Barmherzigkeit[^bible-89476229-3314-4f4a-a780-defcd872ec8c]“ ist\. Doch wenn du all diese milden Worte liebst, dann fürchte auch das letzte, das dort steht: „Und wahrhaftig\.[^bible-c13e5efa-a773-4890-93de-bdab4855cdde]“ Denn wenn es nur hieße: „Barmherzig und voll Erbarmen ist der Herr, langmütig und reich an Barmherzigkeit[^bible-89476229-3314-4f4a-a780-defcd872ec8c]“, dann würdest du dich wohl schon in Sicherheit wiegen, auf Straflosigkeit vertrauen und dir die Freiheit zum Sündigen nehmen\. Du würdest tun, was du wolltest, und die Welt genießen, soweit es dir erlaubt wäre oder soweit deine Begierde es dir befehlen würde\. Und wenn dich jemand in guter Absicht ermahnen, zurechtweisen und erschrecken würde, damit du deinem maßlosen Treiben Einhalt gebietest, bei dem du deinen Begierden nachgehst[^bible-bf8214bd-1622-4ffe-b72a-20d4b12968c9] und deinen Gott verlässt, dann würdest du ihm mitten in seiner Zurechtweisung widersprechen, mit unverschämter Miene, als könntest du dich auf Gottes Wort berufen, das du gehört hast\. Du würdest aus dem Buch des Herrn vorlesen: „Warum machst du mir mit unserem Gott Angst? Er ist barmherzig[^bible-89476229-3314-4f4a-a780-defcd872ec8c] und voll Erbarmen und reich an Barmherzigkeit\.[^bible-89476229-3314-4f4a-a780-defcd872ec8c]“ Damit die Menschen so etwas nicht sagen, hat er am Ende ein einziges Wort hinzugefügt: „Und wahrhaftig\.[^bible-c13e5efa-a773-4890-93de-bdab4855cdde]“ Damit vertrieb er die Freude der Vermessenen und weckte die Furcht der Betrübten\. Freuen wir uns über die Barmherzigkeit des Herrn, aber fürchten wir das Gericht des Herrn\. Solange er schweigt, verschont er uns\. Er schweigt, doch er wird nicht immer schweigen\.[^bible-6e7a4405-97dc-4863-aa1f-e2c673e37396] Höre auf ihn, solange er in seinem Wort nicht schweigt, damit dir nicht die Zeit zum Hören fehlt, wenn er im Gericht nicht mehr schweigen wird\.
+
+## Bibelverweise
+
+[^bible-6e7a4405-97dc-4863-aa1f-e2c673e37396]: Jes 42,14
+[^bible-89476229-3314-4f4a-a780-defcd872ec8c]: Ps 144,8
+[^bible-bf8214bd-1622-4ffe-b72a-20d4b12968c9]: Sir 18,30
+[^bible-c13e5efa-a773-4890-93de-bdab4855cdde]: Ps 85,15

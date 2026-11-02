@@ -1,0 +1,25 @@
+# Predigt 9 – Über die zehn Saiten – Kapitel 6: Das Sabbatgebot verheißt ewige Ruhe nach guten Werken – der Heilige Geist ist ihr Unterpfand
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/augustinus-predigt-9-zehn-saiten#kapitel-c232e30d-dfa3-4916-ca94-08df20dba24b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Stellt euch vor, ich wäre ein Kitharaspieler: Was könnte ich euch noch mehr vorsingen? Seht, ich trage eine Harfe, sie hat zehn Saiten\. Davon habt ihr eben gesungen, bevor ich zu sprechen begann\. Ihr wart mein Chor\. Habt ihr nicht eben gesungen: „Gott, ich werde dir ein neues Lied singen, auf der Harfe mit zehn Saiten werde ich dir spielen[^bible-ed562edf-2d1b-566b-9fcc-f6ff7caf8861]“? Diese zehn Saiten schlage ich jetzt an\. Warum klingt Gottes Harfe bitter? Spielen wir alle auf der Harfe mit zehn Saiten\. Ich singe euch vor, was ihr selbst tun sollt\. Denn der Dekalog des Gesetzes enthält zehn Gebote\. Diese zehn Gebote sind so verteilt, dass drei Gott betreffen und sieben die Menschen\. Drei betreffen Gott, wie ich schon gesagt habe: Einer ist unser Gott[^bible-877a3935-d212-5934-9e39-ac7a3f7fbf88], und wir sollen kein Abbild machen[^bible-f8fa4053-61a1-5053-838a-2bbeb6216c41] und nicht dem einen Gott gegenüber Unzucht treiben[^bible-9a30a69e-632f-5227-90d9-b4d80a743e23]; denn Christus, Gott und Gottes Sohn, ist eins mit dem Vater[^bible-df4296a9-3a35-588b-ad4c-4f2f27bca8b6]\. Darum sollen wir seinen Namen nicht vergeblich gebrauchen[^bible-41639dc4-f64e-59f5-b9e5-46155098b5eb], indem wir meinen, der, durch den alles geschaffen wurde[^bible-c2e843f9-90fb-52b8-94a9-245b7cce162c], sei selbst geschaffen, also irgendein Geschöpf\. Weil aber der eine Gott selbst Vater, Sohn und Heiliger Geist ist, wird uns im Heiligen Geist, das heißt in der Gabe Gottes[^bible-0f036661-2038-5fee-84c8-e061fde11224], ewige Ruhe verheißen\. Davon haben wir jetzt ein Unterpfand empfangen\. So sagt nämlich der Apostel: „Der uns den Geist als Unterpfand gegeben hat\.[^bible-7b0f4ab4-4eeb-535b-a73e-dac536d2cfa2]“ Wenn wir ein Unterpfand empfangen haben, um anzufangen, im Herrn und in unserem Gott Ruhe zu finden, um in unserem Gott sanftmütig und in Gott geduldig zu sein, werden wir auch in dem, von dem wir das Unterpfand empfangen haben, für immer ruhen\. Das wird der Sabbat der Sabbate sein, wegen eben dieser Ruhe, die zur Gabe des Heiligen Geistes gehört\. Das dritte Gebot vom Sabbat, von dem wir gesprochen haben und den die Juden fleischlich feiern, sollen wir also geistlich verstehen\. Weil er nämlich Heiliger Geist genannt wird, hat Gott den siebten Tag geheiligt[^bible-0289a7ba-577b-52f6-8157-875d144dc537], als er alle seine Werke vollendet hatte, wie wir in der Genesis lesen\. Du findest dort die Heiligung nur bei jenem Tag genannt, an dem es heißt: „Gott ruhte von seinen Werken\.[^bible-7bb1482a-4eb4-5f07-8872-9bcef71d22c6]“ Gott war ja nicht ermüdet, sodass es deshalb hieße: „Gott ruhte[^bible-7bb1482a-4eb4-5f07-8872-9bcef71d22c6] von seinen Werken“; vielmehr hat er dir, der du dich abmühst, mit diesem Wort Ruhe verheißen\. Und weil er alles sehr gut geschaffen hatte[^bible-243c42dc-4724-573a-900c-817150260cc9], heißt es darauf: „Gott ruhte[^bible-7bb1482a-4eb4-5f07-8872-9bcef71d22c6]“, damit du verstehst, dass auch du nach guten Werken ruhen wirst, und zwar ohne Ende\. Denn alles zuvor Genannte, also die vorherigen Tage, hat einen Abend\. Dieser siebte Tag, an dem Gott die Ruhe geheiligt hat, hat keinen Abend\. Dort heißt es: „Es wurde Morgen[^bible-243c42dc-4724-573a-900c-817150260cc9]“, damit der Tag begann\. Es heißt nicht: „Es wurde Abend[^bible-243c42dc-4724-573a-900c-817150260cc9]“, damit der Tag endete, sondern: „Es wurde Morgen[^bible-243c42dc-4724-573a-900c-817150260cc9]“, damit ein Tag ohne Ende entstand\. So beginnt also unsere Ruhe gleichsam am Morgen, endet aber nicht, weil wir in Ewigkeit leben werden\. Wenn wir alles, was wir tun, in dieser Hoffnung tun, halten wir den Sabbat\. Das ist die dritte Saite dieses Dekalogs, also der Harfe mit zehn Saiten: Bei drei Saiten betreffen die Gebote Gott\.
+
+## Bibelverweise
+
+[^bible-0289a7ba-577b-52f6-8157-875d144dc537]: Gen 2,3
+[^bible-0f036661-2038-5fee-84c8-e061fde11224]: Apg 2,38; Apg 8,20
+[^bible-243c42dc-4724-573a-900c-817150260cc9]: Gen 1,31
+[^bible-41639dc4-f64e-59f5-b9e5-46155098b5eb]: Ex 20,7
+[^bible-7b0f4ab4-4eeb-535b-a73e-dac536d2cfa2]: 2Kor 1,22
+[^bible-7bb1482a-4eb4-5f07-8872-9bcef71d22c6]: Gen 2,2
+[^bible-877a3935-d212-5934-9e39-ac7a3f7fbf88]: Dtn 6,4
+[^bible-9a30a69e-632f-5227-90d9-b4d80a743e23]: Dtn 31,16
+[^bible-c2e843f9-90fb-52b8-94a9-245b7cce162c]: Joh 1,3
+[^bible-df4296a9-3a35-588b-ad4c-4f2f27bca8b6]: Joh 10,30
+[^bible-ed562edf-2d1b-566b-9fcc-f6ff7caf8861]: Ps 143,9
+[^bible-f8fa4053-61a1-5053-838a-2bbeb6216c41]: Ex 20,4
