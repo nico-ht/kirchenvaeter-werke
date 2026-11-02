@@ -1,0 +1,19 @@
+# Kommentar zu Matthäus, Buch 17 – Kapitel 18: Wer Gottes Zorn im Evangelium gleichnishaft deutet, darf ihn im Gesetz nicht zum Beleg für einen anderen Gott machen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/kommentar-zu-matthaeus-buch-17#kapitel-a8267e7b-9c32-4060-0e58-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wir dagegen finden in den Evangelien eine Fülle von Beispielen dafür, dass Gott in manchen Gleichnissen mit einem Menschen verglichen wird\. Wir werden also die Gleichnisse, die Gott einen Menschen nennen, zur Verteidigung jener Aussagen heranziehen, die ihrem Wortlaut nach dem Vater Christi menschliche Regungen zuschreiben\. Den Andersgläubigen, die solche Aussagen in den alten Schriften nicht verstanden haben und deshalb am Gott des Gesetzes, der Propheten und der Erschaffung der Welt Anstoß nehmen, werden wir sagen: „Wenn Gott in den Gleichnissen des Evangeliums mit einem Menschen verglichen wird, warum erkennt ihr dann nicht diesen Gleichnissen entsprechend auch seinen Zorn und seine Wut, seine Reue, das Abwenden seines Gesichts, sein Sitzen, Stehen und Umhergehen als Gleichnis an?“ Denn seinen Schlaf, von dem in den prophetischen Schriften die Rede ist, haben sie entweder nicht bemerkt, oder sie werden zugeben, dass er ein Gleichnis ist\. Weiter werden wir ihnen sagen: „Wenn ihr die Schriftstellen, die Gott menschliche Regungen zuschreiben, nicht im Sinne eines Gleichnisses verstehen wollt, so wie er auch im Gleichnis ein Mensch genannt wird, dann zeigt uns, wie der Gott des Alls im Evangelium ein Mensch genannt werden kann, obwohl er, wie ihr annehmt, nichts Menschliches in sich haben soll\.“
+
+Darüber hinaus werden wir ihnen nachweisen, dass sie nicht einmal die Schriften des neuen Bundes genau untersucht haben\. Denn im vorliegenden Gleichnis wurde der Mensch und König, der seinem Sohn die Hochzeit ausrichtet, zornig auf diejenigen, die nicht auf seine Einladung hin zur Hochzeit kommen wollten, und auf diejenigen, die sich nicht um die Teilnahme am Hochzeitsmahl kümmerten, sondern auf ihren eigenen Acker gingen oder ihren Geschäften nachgingen\. Zornig wurde er auch auf diejenigen, die seine Sklaven ergriffen, misshandelt und getötet hatten\.[^bible-9f0ce4cb-9d18-43d1-bebd-570df5248056] Sie sollen uns nämlich sagen, ob jener, der zornig wurde und seinem Sohn die Hochzeit ausrichtet[^bible-92673889-30ea-469d-870a-e71cd6d308c9], eben darum der Vater Christi ist, oder ob dessen Vater ein anderer ist als jener, der dem Gleichnis nach zornig wurde[^bible-2d4a84b3-8fa1-40d0-bbb6-a4157b85e4f7]\. In beiden Fällen werden sie in Bedrängnis geraten: entweder weil sie wegen seines Zorns nicht anerkennen wollen, dass der Zornige, der seinem Sohn die Hochzeit ausrichtet[^bible-92673889-30ea-469d-870a-e71cd6d308c9], der Vater Christi ist, oder weil sie wegen der Hochzeit und des Sohnes gezwungen sind zuzugeben, dass er selbst der Vater Christi ist und dass er zornig wird[^bible-2d4a84b3-8fa1-40d0-bbb6-a4157b85e4f7]\. Wenn sie aber versuchen, seinen Zorn auszulegen, werden wir ihnen sagen: „Ihr Leute, was ist das für eine Willkür, wenn ihr denjenigen, der im Evangelium seinem Sohn die Hochzeit ausrichtet[^bible-0898db0f-c932-40ac-8941-2e1d7a736738], nicht wegen seines Zorns meidet und keinen anderen sucht, im Gesetz und bei den Propheten aber wegen desselben Wortes ‚Zorn‘ und ähnlicher Ausdrücke einen anderen Gott als den des Gesetzes und der Propheten zu erfinden versucht?“
+
+## Bibelverweise
+
+[^bible-0898db0f-c932-40ac-8941-2e1d7a736738]: Mt 22,2
+[^bible-2d4a84b3-8fa1-40d0-bbb6-a4157b85e4f7]: Mt 22,7
+[^bible-92673889-30ea-469d-870a-e71cd6d308c9]: Mt 22,2; Mt 22,7
+[^bible-9f0ce4cb-9d18-43d1-bebd-570df5248056]: Mt 22,2–Mt 22,7

@@ -1,0 +1,25 @@
+# Kommentar zu Matthäus, Buch 17 – Kapitel 9: Die Propheten sollen die Früchte des Volkes als Priester vor Gott bringen, doch die Winzer verfolgen sie
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/kommentar-zu-matthaeus-buch-17#kapitel-8cebfa26-70a6-4b69-0e4f-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Allein der Hausherr mit seinem göttlichen Wissen kennt für jeden Menschen den Zeitpunkt: wann die Zeit der Früchte nahe ist und wann sie noch fern liegt\. Doch auch wir können etwas erkennen, wenn wir genauer hinsehen und die Zeit seit unserer Berufung mit der gesamten Dauer unseres Glaubens vergleichen: Wie manche „angesichts der verstrichenen Zeit Lehrer sein müssten[^bible-2bd4f0d9-7b3d-46d2-8cf3-09a1f84b7639]“, aber wieder Unterricht brauchen[^bible-2bd4f0d9-7b3d-46d2-8cf3-09a1f84b7639] darüber, „was die ersten Grundlagen der Worte Gottes sind[^bible-2bd4f0d9-7b3d-46d2-8cf3-09a1f84b7639]“, so müssten manche angesichts der Zeit, die Gottes Heilsordnung und die Berufung aller Menschen ihnen gewährt haben, bereits Früchte tragen\. Doch entweder haben sie überhaupt keine, oder sie müssten ausgereifte Früchte haben, haben aber zur Unzeit erst Blüten und zur falschen Zeit noch unreife Trauben\. Wenn du nun verstanden hast, wie die Worte „Als aber die Zeit der Früchte nahte[^bible-ce442bdd-e488-425f-9355-72bb6ff3d5d3]“ auf den Einzelnen zu beziehen sind, dann übertrage, wenn du kannst, diesen Gedanken auf jene, die durch Mose das Gesetz empfangen hatten\. Denn auch für sie nahte einmal die Zeit der Früchte, und er sandte seine Diener zu den Winzern[^bible-ce442bdd-e488-425f-9355-72bb6ff3d5d3], denen als Ersten die Worte Gottes anvertraut worden waren[^bible-dda72842-c928-42ae-9047-14817c557328], um die Früchte des Weinbergs in jedem Einzelnen in Empfang zu nehmen\. Es ist nun leicht zu sagen, dass er mit den Dienern die Propheten meint\. Doch wir müssen untersuchen, inwiefern sie zu den Winzern gesandt werden, um die Früchte des Weinbergs in Empfang zu nehmen[^bible-ce442bdd-e488-425f-9355-72bb6ff3d5d3]\. Denn man könnte einwenden, die Propheten würden nicht gesandt, um die Früchte in Empfang zu nehmen, sondern vielmehr, um den Weinberg zu bebauen und am Gedeihen der Früchte mitzuwirken\.
+
+Prüfe also, ob wir sagen können: Die geistlichen Erträge und die für Gott bestimmten Gaben werden von denen, die den Weinberg bebaut haben, den ausgesandten Dienern übergeben, damit diese als Priester die Früchte des opfernden Volkes vor Gott bringen\. Doch die Winzer im Volk ergriffen die Diener[^bible-528f8b58-3c1d-452e-8f45-152ec76668c9], die ausgesandt worden waren, um die Früchte des Weinbergs in Empfang zu nehmen[^bible-ce442bdd-e488-425f-9355-72bb6ff3d5d3]\. Den einen schlugen sie[^bible-528f8b58-3c1d-452e-8f45-152ec76668c9], wie „Zedekia, der Sohn Kenaans, Micha auf die Wange schlug[^bible-5381a5a4-d4e0-4bd6-9394-522871b6d9b0]“\. Damals sagte der falsche Prophet zu Micha, nachdem dieser geweissagt hatte: „Was für ein Geist des Herrn hat denn in dir gesprochen?[^bible-5381a5a4-d4e0-4bd6-9394-522871b6d9b0]“ Den anderen töteten sie[^bible-528f8b58-3c1d-452e-8f45-152ec76668c9], so Sacharja[^bible-7aef8f4d-e8d2-47fe-94cd-f95921d151cf] „zwischen dem Tempel und dem Altar[^bible-7aef8f4d-e8d2-47fe-94cd-f95921d151cf]“; wieder einen anderen steinigten sie[^bible-528f8b58-3c1d-452e-8f45-152ec76668c9], so den Priester Asarja, den Sohn Jojadas[^bible-d1e218a7-c7b6-465f-8e1e-192401b9e897], wie im zweiten Buch der Chronik geschrieben steht\. Denn als „der Geist Gottes den Priester Asarja, den Sohn Jojadas, umkleidete und er sich über dem Volk erhob und sagte:[^bible-fd5750f6-5e85-4cc0-9735-356eac4b9534]“ „So spricht der Herr: Warum übertretet ihr die Gebote des Herrn? Ihr werdet keinen Erfolg haben\. Denn ihr habt den Herrn verlassen, und er wird euch verlassen[^bible-fd5750f6-5e85-4cc0-9735-356eac4b9534]“, da „fielen sie über ihn her und steinigten ihn auf Befehl des Königs Joasch im Hof des Hauses des Herrn\. Joasch dachte nicht an die Güte, die ihm Jojada, Asarjas Vater, erwiesen hatte, sondern tötete dessen Sohn\. Als dieser starb, sagte er:[^bible-046519ea-a335-4470-b4e4-7a098732ddc8] ‚Der Herr möge es sehen und richten\![^bible-db87c3a2-d5e8-44a5-a1a1-71555effaa96]‘“\.
+
+## Bibelverweise
+
+[^bible-046519ea-a335-4470-b4e4-7a098732ddc8]: 2Chr 24,21–2Chr 24,22
+[^bible-2bd4f0d9-7b3d-46d2-8cf3-09a1f84b7639]: Hebr 5,12
+[^bible-528f8b58-3c1d-452e-8f45-152ec76668c9]: Mt 21,35
+[^bible-5381a5a4-d4e0-4bd6-9394-522871b6d9b0]: 1Kön 22,24
+[^bible-7aef8f4d-e8d2-47fe-94cd-f95921d151cf]: Mt 23,35
+[^bible-ce442bdd-e488-425f-9355-72bb6ff3d5d3]: Mt 21,34
+[^bible-d1e218a7-c7b6-465f-8e1e-192401b9e897]: 2Chr 24,20–2Chr 24,21
+[^bible-db87c3a2-d5e8-44a5-a1a1-71555effaa96]: 2Chr 24,22
+[^bible-dda72842-c928-42ae-9047-14817c557328]: Röm 3,2
+[^bible-fd5750f6-5e85-4cc0-9735-356eac4b9534]: 2Chr 24,20
