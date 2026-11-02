@@ -1,0 +1,18 @@
+# Fragen zum Heptateuch, Buch 2: Fragen zu Exodus – Kapitel 133: Der Priester betritt das Allerheiligste täglich zum Räuchern, aber nur einmal jährlich mit Blut
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/fragen-zum-heptateuch-buch-2-fragen-zu-exodus#kapitel-4ef96bb5-e47d-48c1-9734-08df374b6e6f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Darauf soll er vor dem Herrn beständiges Räucherwerk verbrennen, durch alle ihre Generationen hindurch\.[^bible-3e157e31-21aa-4134-9346-11ffd81d58c8]“ „Beständiges Räucherwerk[^bible-3e157e31-21aa-4134-9346-11ffd81d58c8]“ nennt er es, weil es beständig dargebracht werden sollte, also an keinem Tag ausbleiben durfte\. Als er Anweisungen für den Räucheraltar gab, auf dem nur Räucherwerk dargebracht werden sollte, kein Brandopfer, kein Schlachtopfer und kein Trankopfer[^bible-3289ac57-876f-4a1d-9aba-47111c2df517], hatte er bereits gesagt, dass dieses Räucherwerk täglich dargebracht werden müsse[^bible-d99985e1-000b-4acf-b73b-eba4ab64401b]\. Nun aber sagt er: „Und Aaron soll an seinen Hörnern einmal im Jahr mit dem Blut zur Reinigung von Sünden Sühne erwirken[^bible-f9b2ff01-7964-4248-ae65-958f6468ba5f]“, oder: „Fürbitte leisten[^bible-f9b2ff01-7964-4248-ae65-958f6468ba5f]“\. Der Ausdruck für „Sühne erwirken[^bible-f9b2ff01-7964-4248-ae65-958f6468ba5f]“ ist von dem Wort für „Sühne“ abgeleitet; auf Griechisch heißt diese „exilasmós“\. Daraus ist auch zu verstehen: Was er einmal im Jahr an den Hörnern des Räucheraltars zu tun befiehlt, um Gott gnädig zu stimmen[^bible-f9b2ff01-7964-4248-ae65-958f6468ba5f], nämlich die Hörner des Räucheraltars einmal im Jahr mit dem Blut zur Reinigung von Sünden zu berühren[^bible-f9b2ff01-7964-4248-ae65-958f6468ba5f], also mit dem Blut der Opfertiere, die für Sünden dargebracht werden, gehört nicht zum Auflegen des Räucherwerks, das er für jeden Tag angeordnet hatte[^bible-d99985e1-000b-4acf-b73b-eba4ab64401b]\. Denn dieses geschah mit Duftstoffen, nicht mit Blut, und täglich, nicht einmal im Jahr\. Wir dürfen es also nicht so verstehen, als hätte der Priester gewöhnlich nur einmal im Jahr das Allerheiligste betreten; vielmehr betrat er es einmal im Jahr mit Blut\. Täglich pflegte er ohne Blut hineinzugehen, um Räucherwerk aufzulegen, mit Blut hingegen einmal im Jahr\. Dafür spricht besonders, dass es anschließend heißt: „Einmal im Jahr soll er ihn reinigen; er ist dem Herrn ein Allerheiligstes\.[^bible-f9b2ff01-7964-4248-ae65-958f6468ba5f]“ Er soll dort also nicht einmal im Jahr Räucherwerk auflegen, denn das war für jeden Tag angeordnet[^bible-d99985e1-000b-4acf-b73b-eba4ab64401b], sondern „einmal im Jahr soll er ihn reinigen[^bible-f9b2ff01-7964-4248-ae65-958f6468ba5f]“, und dies sollte nach dem Gebot mit Blut geschehen[^bible-f9b2ff01-7964-4248-ae65-958f6468ba5f]\. Danach fügt er hinzu: „Er ist dem Herrn ein Allerheiligstes\.[^bible-f9b2ff01-7964-4248-ae65-958f6468ba5f]“ Wenn also das Allerheiligste nicht außerhalb, sondern innerhalb des Vorhangs lag, dann befahl er gewiss auch, jenen Altar, um den es hier geht und den er vor dem Vorhang aufzustellen gebot[^bible-b23466b0-168c-4b60-a344-20fe63297c42], innerhalb des Vorhangs aufzustellen\.
+
+## Bibelverweise
+
+[^bible-3289ac57-876f-4a1d-9aba-47111c2df517]: Ex 30,9
+[^bible-3e157e31-21aa-4134-9346-11ffd81d58c8]: Ex 30,8
+[^bible-b23466b0-168c-4b60-a344-20fe63297c42]: Ex 30,6
+[^bible-d99985e1-000b-4acf-b73b-eba4ab64401b]: Ex 30,7–Ex 30,8
+[^bible-f9b2ff01-7964-4248-ae65-958f6468ba5f]: Ex 30,10

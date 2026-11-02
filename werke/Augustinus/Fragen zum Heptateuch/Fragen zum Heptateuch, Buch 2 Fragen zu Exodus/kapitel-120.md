@@ -1,0 +1,17 @@
+# Fragen zum Heptateuch, Buch 2: Fragen zu Exodus – Kapitel 120: Aarons Stirnplatte bezeichnet die Zuversicht des sündlosen Priesters, der allein die Sünden wegnimmt
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/fragen-zum-heptateuch-buch-2-fragen-zu-exodus#kapitel-7284e5dd-21a3-4867-9727-08df374b6e6f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Du sollst eine Platte aus reinem Gold machen und darauf nach Art eines Siegelzeichens die Heiligkeit des Herrn darstellen\. Du sollst sie an einer doppelt gedrehten, purpurblauen Schnur befestigen; sie soll am Kopfbund sein, an dessen Vorderseite, und über Aarons Stirn liegen\. Und Aaron wird die Sünden der heiligen Dinge wegnehmen, die die Söhne Israels heiligen werden, aller ihrer heiligen Gaben\.[^bible-dd4ca5b4-aa4f-4394-953d-585c34405383]“ Wie die Heiligkeit des Herrn[^bible-dfa5ad05-2efd-4f40-8de2-c5b72b6ecb1d] auf der Platte dargestellt werden soll, sehe ich nicht, außer durch Buchstaben\. Manche sagen, es seien vier hebräische Buchstaben, die nach ihrer Überzeugung den unaussprechlichen Namen Gottes bildeten oder noch immer bilden, den die Griechen Tetragrammaton nennen\. Doch welche Buchstaben es auch sein mögen und wie es sich damit auch verhalten mag: Wie gesagt, kann meiner Ansicht nach die Heiligkeit des Herrn[^bible-dfa5ad05-2efd-4f40-8de2-c5b72b6ecb1d], oder die Heiligung, wenn dies den griechischen Ausdruck besser wiedergibt, nur durch Buchstaben auf dem Gold dargestellt worden sein\. Dort heißt es aber, der Priester nehme die Sünden der heiligen Dinge weg[^bible-42cdf04d-ecb2-4109-a04d-7a8767a2f9e6]: „Die die Söhne Israels heiligen werden, aller ihrer heiligen Gaben\.[^bible-42cdf04d-ecb2-4109-a04d-7a8767a2f9e6]“ Ich denke, damit sind die Opfer gemeint, die sie für ihre Sünden darbringen\. Wir sollen also nicht an die Sünden heiliger Menschen denken, sondern an die Sünden heiliger Dinge, weil das, was für die Sünden dargebracht wird, heilig ist\. Nachdem er also von der Platte gesprochen hatte, fügte er hinzu: „Und Aaron wird die Sünden der heiligen Dinge wegnehmen, die die Söhne Israels heiligen werden, aller ihrer heiligen Gaben\.[^bible-42cdf04d-ecb2-4109-a04d-7a8767a2f9e6]“ Das heißt: Der Priester wird alles wegnehmen, was sie für ihre Sünden darbringen\. Diese Gaben werden sowohl „heilig“ genannt, weil sie geheiligt werden, als auch „Sünden“, weil sie für Sünden dargebracht werden\. Gerade dies erwähnt die Schrift an vielen Stellen ausdrücklich\. Mit den anschließenden Worten: „Und sie soll auf Aarons Stirn sein, damit sie stets vor dem Herrn Annahme finden[^bible-42cdf04d-ecb2-4109-a04d-7a8767a2f9e6]“, kommt er auf jene Platte zurück\. In ihr ist der Schmuck der Stirn zu erkennen: die Zuversicht, die ein gutes Leben gibt\. Derjenige, der wahrhaft und vollkommen, nicht im Sinnbild, sondern in Wahrheit Priester ist und diese Zuversicht besitzt, kann allein die Sünden wegnehmen und hat es nicht nötig, für seine eigenen Sünden ein Opfer darzubringen[^bible-b2212baf-7d23-4733-bbf6-b2b846d44624]\.
+
+## Bibelverweise
+
+[^bible-42cdf04d-ecb2-4109-a04d-7a8767a2f9e6]: Ex 28,38
+[^bible-b2212baf-7d23-4733-bbf6-b2b846d44624]: Hebr 7,27
+[^bible-dd4ca5b4-aa4f-4394-953d-585c34405383]: Ex 28,36–Ex 28,38
+[^bible-dfa5ad05-2efd-4f40-8de2-c5b72b6ecb1d]: Ex 28,36
