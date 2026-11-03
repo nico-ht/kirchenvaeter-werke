@@ -1,0 +1,17 @@
+# Predigt 62 – Über das Wort des Hauptmanns: Ich bin nicht würdig – Kapitel 5: Warum die Kirche ihrem Erlöser mehr gehorchen muss als Eltern und Vaterland
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-62-ueber-das-wort-des-hauptmanns-ich-bin-nicht-wuerdig#kapitel-e59797a4-a249-4c56-112c-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Aber du wirst sagen: „Ich fürchte, jemanden zu kränken, der über mir steht\.“ Fürchte nur, den Höheren zu kränken; dann kränkst du Gott nicht\. Denn wenn du fürchtest, jemanden zu kränken, der über dir steht, bedenke, ob nicht einer noch höher steht als der, den du zu kränken fürchtest\. Den Höheren sollst du gewiss nicht kränken\. Diese Regel wird dir vorgegeben\. Ist nicht offensichtlich, dass man gerade den keinesfalls kränken darf, der über allen anderen steht? Prüfe nun, wer über dir steht\. An erster Stelle stehen für dich Vater und Mutter\. Wenn sie dich recht erziehen, wenn sie dich im Glauben an Christus aufziehen, sollst du in allem auf sie hören und jedem ihrer Befehle gehorchen\. Solange sie nichts gegen den gebieten, der über ihnen steht, soll man ihnen dienen\. „Wer“, fragst du, „steht höher als der, der mich gezeugt hat?“ Der, der dich selbst geschaffen hat\. Denn der Mensch zeugt, Gott aber schafft\. Woraus der Mensch zeugt, weiß er nicht; was er zeugen wird, weiß er nicht\. Der dich sah, um dich zu schaffen, noch bevor es dich, sein Geschöpf, gab, steht gewiss höher als dein Vater\. Das Vaterland soll sogar über deinen Eltern stehen, sodass du nicht auf deine Eltern hörst, wenn sie etwas gegen das Vaterland gebieten\. Und was immer das Vaterland gegen Gott gebietet, darauf sollst du nicht hören\. Denn wenn du geheilt werden willst, wenn du nach dem Blutfluss, nach zwölf Jahren mit dieser Krankheit, nachdem du bei den Ärzten alles ausgegeben hast, ohne gesund zu werden[^bible-9ee465c0-f07f-4197-bb75-a2786d3e9d6a], endlich gesund werden willst, du Frau, die ich als Bild der Kirche anspreche, dann gebietet dir dein Vater dies und dein Volk jenes\. Dein Herr aber sagt dir: „Vergiss dein Volk und das Haus deines Vaters\.[^bible-bc30a971-c10b-4b27-888a-f247092ecd50]“ Zu welchem Nutzen? Zu welchem Gewinn? Für welchen Lohn? Er sagt: „Denn der König hat deine Schönheit begehrt\.[^bible-ab283c93-c6ff-4191-a6c4-cd67a1cbad21]“ Er begehrte, was er geschaffen hatte; denn um sie schön zu machen, liebte er sie, als sie hässlich war\. Für sie, die ungläubig und hässlich war, vergoss er sein Blut und machte sie gläubig und schön\. Er liebte in dir seine eigenen Gaben\. Was hast du denn deinem Bräutigam mitgebracht? Was hast du von deinem früheren Vater und deinem früheren Volk als Mitgift empfangen? Waren es nicht Ausschweifungen und die Lumpen der Sünden? Er warf deine Lumpen fort, zerriss dein Gewand aus Sacktuch[^bible-64b6b64e-e245-4023-b1d7-050699c60dc6]\. Er erbarmte sich, um dich zu schmücken; er schmückte dich, um dich zu lieben\.
+
+## Bibelverweise
+
+[^bible-64b6b64e-e245-4023-b1d7-050699c60dc6]: Ps 29,12
+[^bible-9ee465c0-f07f-4197-bb75-a2786d3e9d6a]: Mk 5,25–Mk 5,26
+[^bible-ab283c93-c6ff-4191-a6c4-cd67a1cbad21]: Ps 44,12
+[^bible-bc30a971-c10b-4b27-888a-f247092ecd50]: Ps 44,11
