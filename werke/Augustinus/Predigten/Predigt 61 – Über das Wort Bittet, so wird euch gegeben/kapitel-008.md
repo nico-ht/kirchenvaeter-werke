@@ -1,0 +1,14 @@
+# Predigt 61 – Über das Wort: Bittet, so wird euch gegeben – Kapitel 8: Weil auch Reiche nichts mitbringen und nichts mitnehmen, dürfen sie sich nicht über Arme erheben
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-61-ueber-das-wort-bittet-so-wird-euch-gegeben#kapitel-7f888756-2ab9-485f-1123-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Denk an deinen Anfang zurück, du Reicher: Sieh nach, ob du etwas hierher mitgebracht hast\. Du bist gekommen und hast so viel vorgefunden\. Sag mir bitte: Was hast du mitgebracht? Sag, was du mitgebracht hast\. Oder wenn du dich schämst, es zu sagen, dann höre den Apostel: „Wir haben nichts in diese Welt mitgebracht\.[^bible-bb01b492-bd63-47b8-a36e-8003cbdd9d95]“ Er sagt: „Wir haben nichts in diese Welt mitgebracht\.[^bible-bb01b492-bd63-47b8-a36e-8003cbdd9d95]“ Aber wirst du etwa, weil du nichts mitgebracht und hier viel vorgefunden hast, etwas von hier mitnehmen? Vielleicht scheust du dich aus Liebe zum Reichtum, auch das einzugestehen\. Dann höre auch das\. Auch das soll dir der Apostel sagen, der dir nicht schmeichelt: „Wir haben nichts in diese Welt mitgebracht[^bible-bb01b492-bd63-47b8-a36e-8003cbdd9d95]“, nämlich als wir geboren wurden; „wir können aber auch nichts mitnehmen[^bible-bb01b492-bd63-47b8-a36e-8003cbdd9d95]“, nämlich wenn wir die Welt verlassen\. Du hast nichts mitgebracht und wirst nichts von hier mitnehmen[^bible-bb01b492-bd63-47b8-a36e-8003cbdd9d95]: Warum blähst du dich gegenüber dem Armen auf? Wenn Kinder geboren werden, sollen Eltern, Sklaven und Klienten beiseitetreten; die Scharen dienstbeflissener Menschen sollen beiseitetreten, und dann erkenne man doch unter den weinenden Kindern die reichen\. Eine Reiche und eine Arme sollen gleichzeitig gebären, eine reiche Frau und eine arme Frau sollen gleichzeitig gebären\. Sie sollen nicht darauf achten, welches Kind sie zur Welt bringen, sondern ein wenig beiseitetreten, zurückkehren und es dann wiedererkennen\. Sieh, du Reicher: Du hast nichts in diese Welt mitgebracht; du kannst aber auch nichts von hier mitnehmen\.[^bible-bb01b492-bd63-47b8-a36e-8003cbdd9d95] Was ich von den Neugeborenen gesagt habe, sage ich auch von den Toten\. Wenn durch irgendeinen Zufall alte Gräber aufgebrochen werden, dann erkenne man doch die Knochen des Reichen\. Höre also, du Reicher, den Apostel: „Wir haben nichts in diese Welt mitgebracht\.[^bible-bb01b492-bd63-47b8-a36e-8003cbdd9d95]“ Erkenne es an: Es ist wahr\. „Wir können aber auch nichts mitnehmen\.[^bible-bb01b492-bd63-47b8-a36e-8003cbdd9d95]“ Erkenne es an: Auch das ist wahr\.
+
+## Bibelverweise
+
+[^bible-bb01b492-bd63-47b8-a36e-8003cbdd9d95]: 1Tim 6,7
