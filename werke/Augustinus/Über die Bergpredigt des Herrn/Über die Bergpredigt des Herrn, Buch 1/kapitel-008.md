@@ -1,0 +1,16 @@
+# Über die Bergpredigt des Herrn, Buch 1 – Kapitel 8: Christus vollendet das Gesetz durch Ergänzung und bekräftigt damit auch seine kleinsten Gebote
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/ueber-die-bergpredigt-des-herrn-buch-1#kapitel-c8dcc059-5b7b-49f5-1224-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Dieser Satz hat einen zweifachen Sinn; beide Bedeutungen müssen behandelt werden\. Denn wer sagt: „Ich bin nicht gekommen, das Gesetz aufzulösen, sondern zu erfüllen[^bible-cacef44f-644d-44eb-b85b-ac31c892046f]“, meint damit entweder, dass er ergänzt, was dem Gesetz noch fehlt, oder dass er tut, was darin steht\. Betrachten wir also zunächst die Bedeutung, die ich zuerst genannt habe\. Wer nämlich ergänzt, was dem Gesetz noch fehlt, löst gewiss nicht auf, was er vorfindet, sondern bekräftigt es vielmehr, indem er es vollendet\. Deshalb fährt er fort: „Amen, ich sage euch: Bis Himmel und Erde vergehen, wird nicht ein einziges Jota oder ein einziges Strichlein vom Gesetz vergehen, bis alles geschieht\.[^bible-4c790e7e-dabe-493e-ac21-1e81760e7b2e]“ Denn wenn auch das getan wird, was zur Vollendung hinzugefügt wird, dann erst recht das, was zuvor für den Anfang gegeben wurde\. Seine Worte „Nicht ein einziges Jota oder ein einziges Strichlein wird vom Gesetz vergehen[^bible-4c790e7e-dabe-493e-ac21-1e81760e7b2e]“ können nur als nachdrücklicher Ausdruck der Vollendung verstanden werden, die hier anhand einzelner Buchstaben veranschaulicht wird\. Unter diesen Buchstaben ist das Jota kleiner als die übrigen, weil es mit einem einzigen Strich geschrieben wird; ein Strichlein aber ist sogar nur ein kleines Stück an seinem oberen Ende\. Mit diesen Worten zeigt er, dass im Gesetz auch das Geringste verwirklicht wird\. Dann fügt er hinzu: „Denn wer eines dieser kleinsten Gebote auflöst und die Menschen so lehrt, wird im Himmelreich der Kleinste genannt werden\.[^bible-e879e5dd-2004-4d9c-b7f1-a4d67f9fc906]“ Die kleinsten Gebote werden also durch ein Jota und ein Strichlein[^bible-4c790e7e-dabe-493e-ac21-1e81760e7b2e] bezeichnet\. Wer also eines auflöst und so lehrt[^bible-e879e5dd-2004-4d9c-b7f1-a4d67f9fc906], das heißt, entsprechend dem, was er aufgelöst hat, und nicht entsprechend dem, was er vorgefunden und gelesen hat, wird im Himmelreich der Kleinste genannt werden[^bible-e879e5dd-2004-4d9c-b7f1-a4d67f9fc906]\. Vielleicht wird er deshalb gar nicht im Himmelreich sein, wo nur Große sein können\. Wer sie aber befolgt und so lehrt[^bible-e879e5dd-2004-4d9c-b7f1-a4d67f9fc906], das heißt, wer sie nicht auflöst und entsprechend dem lehrt, was er nicht aufgelöst hat, wird im Himmelreich groß genannt werden[^bible-e879e5dd-2004-4d9c-b7f1-a4d67f9fc906]\. Wer aber im Himmelreich groß genannt wird[^bible-e879e5dd-2004-4d9c-b7f1-a4d67f9fc906], muss folglich auch im Himmelreich sein, in das die Großen aufgenommen werden\. Darauf bezieht sich nämlich das Folgende\.
+
+## Bibelverweise
+
+[^bible-4c790e7e-dabe-493e-ac21-1e81760e7b2e]: Mt 5,18
+[^bible-cacef44f-644d-44eb-b85b-ac31c892046f]: Mt 5,17
+[^bible-e879e5dd-2004-4d9c-b7f1-a4d67f9fc906]: Mt 5,19
