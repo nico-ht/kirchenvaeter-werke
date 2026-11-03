@@ -1,0 +1,19 @@
+# Predigt 82 – Über die brüderliche Zurechtweisung – Kapitel 7: Verborgene Sünden müssen im Verborgenen gerügt werden, öffentliche Sünden vor allen
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-82-ueber-die-bruederliche-zurechtweisung#kapitel-e5fa6a26-5e4e-4d73-11b4-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ihr Lieben, ihr werdet rasch erkennen, was wir wann tun müssen\. Wenn wir nur nicht zu träge sind, es auch zu tun\! Hört aufmerksam zu und seht: Er sagt: „Wenn dein Bruder gegen dich sündigt, weise ihn unter vier Augen zurecht\.[^bible-483f2db5-1739-4d40-b511-53b351004346]“ Warum? Weil er gegen dich gesündigt[^bible-483f2db5-1739-4d40-b511-53b351004346] hat\. Was bedeutet „Er hat gegen dich gesündigt[^bible-483f2db5-1739-4d40-b511-53b351004346]“? Du weißt, dass er gesündigt hat\. Weil es nämlich im Verborgenen geschah, als er gegen dich sündigte[^bible-483f2db5-1739-4d40-b511-53b351004346], suche auch die Verborgenheit, wenn du ihn wegen seiner Sünde zurechtweist\. Denn wenn du allein weißt, dass er gegen dich gesündigt[^bible-483f2db5-1739-4d40-b511-53b351004346] hat, und ihn vor allen zur Rede stellen willst, dann weist du ihn nicht zurecht, sondern verrätst ihn\. Achte darauf, wie gütig der gerechte Josef seine Frau trotz der schweren Schandtat, deren er sie verdächtigte, verschonte, noch ehe er wusste, von wem sie empfangen hatte\. Er hatte nämlich bemerkt, dass sie schwanger war, und wusste, dass er nicht mit ihr geschlafen hatte\.[^bible-d19b401b-f1ac-4c74-9c07-5ca06ed44d6f] So blieb nur der sichere Verdacht des Ehebruchs\. Und doch: Weil er allein es bemerkt hatte und allein davon wusste, was sagt das Evangelium über ihn? „Josef aber war ein gerechter Mann und wollte sie nicht bloßstellen\.[^bible-9b1e2751-1867-4aa0-8e9d-9ebbe21abf50]“ Der Schmerz des Ehemanns suchte keine Rache: Er wollte der Sünderin helfen, nicht sie bestrafen\. Es heißt: „Weil er sie nicht bloßstellen wollte, wollte er sie heimlich entlassen\. Während er dies erwog, siehe, da erschien ihm ein Engel des Herrn im Traum\.[^bible-331a36ad-aac9-4e97-b797-6dfd143aac7b]“ Er zeigte ihm, wie es sich verhielt: Sie hatte das Ehebett ihres Mannes nicht befleckt, sondern vom Heiligen Geist empfangen[^bible-cdc56a7b-31b7-42a9-8649-60a6ab77d7e1], und zwar den Herrn von ihnen beiden\. Also: Dein Bruder hat gegen dich gesündigt\.[^bible-483f2db5-1739-4d40-b511-53b351004346] Wenn du allein davon weißt, dann hat er tatsächlich gegen dich allein gesündigt\. Hat er dir aber vor vielen Zuhörern Unrecht getan, dann hat er auch gegen die gesündigt, die er zu Zeugen seines Unrechts gemacht hat\. Ich sage euch nämlich, geliebte Brüder, etwas, das ihr auch an euch selbst erkennen könnt: Wenn jemand meinem Bruder Unrecht tut und ich es mit anhöre, dann sei mir der Gedanke fern, dieses Unrecht gehe mich nichts an\. Er hat ganz gewiss auch mir Unrecht getan, ja, mir sogar noch mehr, weil er glaubte, mir gefalle, was er tat\. Sünden also, die vor allen begangen werden, müssen vor allen gerügt werden[^bible-aeb230dc-c173-4877-b7fc-e8c22d1c2b17]; Sünden, die im Verborgenen begangen werden, müssen im Verborgenen gerügt werden[^bible-483f2db5-1739-4d40-b511-53b351004346]\. Unterscheidet die jeweiligen Situationen, und die Schrift stimmt mit sich überein\.
+
+## Bibelverweise
+
+[^bible-331a36ad-aac9-4e97-b797-6dfd143aac7b]: Mt 1,19–Mt 1,20
+[^bible-483f2db5-1739-4d40-b511-53b351004346]: Mt 18,15
+[^bible-9b1e2751-1867-4aa0-8e9d-9ebbe21abf50]: Mt 1,19
+[^bible-aeb230dc-c173-4877-b7fc-e8c22d1c2b17]: 1Tim 5,20
+[^bible-cdc56a7b-31b7-42a9-8649-60a6ab77d7e1]: Mt 1,20
+[^bible-d19b401b-f1ac-4c74-9c07-5ca06ed44d6f]: Mt 1,18–Mt 1,19
