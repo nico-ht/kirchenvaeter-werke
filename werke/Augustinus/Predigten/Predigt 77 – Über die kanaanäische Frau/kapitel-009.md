@@ -1,0 +1,15 @@
+# Predigt 77 – Über die kanaanäische Frau – Kapitel 9: Wahrer Reichtum im Himmelreich heißt, nichts mehr zu brauchen, nicht irdische Genüsse zu vermehren
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-77-ueber-die-kanaanaeische-frau#kapitel-cec65b12-2ac0-401c-1194-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Sieh nun, was folgt: „Darum sage ich euch[^bible-e0030f15-d6c4-44e1-9205-2c792047c2bb]“ \(denn: „Einen so großen Glauben habe ich in Israel nicht gefunden[^bible-2f1bddfe-23c2-469b-a1f7-ad630f17b70c]“, das heißt eine so große Demut, verbunden mit Glauben\)\. „Darum sage ich euch: Viele werden von Osten und Westen kommen und mit Abraham, Isaak und Jakob im Himmelreich zu Tisch liegen\.[^bible-e0030f15-d6c4-44e1-9205-2c792047c2bb]“ „Sie werden zu Tisch liegen[^bible-e0030f15-d6c4-44e1-9205-2c792047c2bb]“, sagt er, sie werden ruhen\. Denn wir dürfen uns dort keine leiblichen Festmahle vorstellen oder in jenem Reich nach etwas Derartigem verlangen, sodass wir unsere Laster nicht gegen Tugenden eintauschen, sondern andere Laster an ihre Stelle setzen\. Es ist nämlich etwas anderes, das Himmelreich um der Weisheit und des ewigen Lebens willen zu ersehnen, als um des irdischen Glücks willen, als könnten wir es dort in noch größerer Fülle genießen\. Wenn du meinst, du wirst in jenem Reich reich sein, schneidest du die Habgier nicht ab, sondern gibst ihr nur eine andere Gestalt\. Und dennoch wirst du reich sein, und nur dort wirst du reich sein\. Denn hier häuft deine Bedürftigkeit so vieles an\. Warum haben die Reichen viel? Weil sie viel brauchen\. Größere Bedürftigkeit verschafft sich gewissermaßen größeres Vermögen; dort aber wird die Bedürftigkeit selbst sterben\. Dann wirst du wahrhaft reich sein, wenn du nichts mehr brauchst\. Denn es ist ja nicht so, dass du reich bist und ein Engel arm ist, der keine Zugtiere, Wagen und Dienerschaft hat\. Warum nicht? Weil er sie nicht braucht; denn je stärker er ist, desto weniger braucht er\. Dort also ist Reichtum, und zwar wahrer Reichtum\. Denke dir dort keine Festmahle wie auf dieser Erde\. Denn die Mahlzeiten dieser Erde sind tägliche Arzneien; sie sind notwendig gegen eine Krankheit, mit der wir geboren werden\. Diese Krankheit spürt jeder, wenn die Zeit für die Mahlzeit verstrichen ist\. Willst du sehen, wie schwer diese Krankheit ist, die wie ein akutes Fieber in sieben Tagen tötet? Halte dich nicht für gesund\. Gesundheit wird erst die Unsterblichkeit sein\. Denn dies hier ist eine langwierige Krankheit\. Weil du deine Krankheit mit täglichen Arzneien aufrechterhältst, kommst du dir gesund vor\. Lass die Arzneien weg und sieh, was du vermagst\.
+
+## Bibelverweise
+
+[^bible-2f1bddfe-23c2-469b-a1f7-ad630f17b70c]: Mt 8,10
+[^bible-e0030f15-d6c4-44e1-9205-2c792047c2bb]: Mt 8,11
