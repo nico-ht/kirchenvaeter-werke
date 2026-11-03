@@ -1,0 +1,20 @@
+# Predigt 71 – Über die Lästerung gegen den Heiligen Geist – Kapitel 20: Sündenvergebung und Kircheneinheit sind besonders das Werk des Geistes, der Vater und Sohn gemeinsam ist
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-71-ueber-die-laesterung-gegen-den-heiligen-geist#kapitel-22d36168-901f-4cc9-1169-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Da es sich so verhält, kann die Vergebung der Sünden, weil sie nur im Heiligen Geist gewährt wird, allein in der Kirche gewährt werden, die den Heiligen Geist hat\. Denn die Vergebung der Sünden bewirkt, dass der Herrscher der Sünde, der in sich selbst gespaltene Geist[^bible-8f4b4e27-f2ea-4d96-9045-df84a39adf97], nicht in uns herrscht\. So sollen wir, aus der Gewalt des unreinen Geistes befreit, fortan zum Tempel des Heiligen Geistes[^bible-9f2642c0-b6ad-4625-a8fa-6d2137197255] werden\. Und den, der uns reinigt, indem wir Vergebung empfangen, sollen wir als Bewohner aufnehmen, damit er Gerechtigkeit in uns wirkt, wachsen lässt und vollendet\. Denn schon bei seinem ersten Kommen sprachen diejenigen, die ihn empfangen hatten, in den Sprachen aller Völker[^bible-2117baf6-f6b9-4e90-bd6a-ddb7367c1aa5], und der Apostel Petrus wandte sich an die staunenden Anwesenden[^bible-71c13078-5c50-49ef-bc74-2bbf863d17a5]\. Da wurden sie im Herzen getroffen[^bible-214862d5-d7c8-47fc-9adf-9566b552d97d] und sagten zu Petrus und den Aposteln: „Was sollen wir also tun, Brüder? Sagt es uns\.[^bible-214862d5-d7c8-47fc-9adf-9566b552d97d]“ Petrus antwortete ihnen: „Tut Buße, und jeder von euch lasse sich im Namen Jesu Christi zur Vergebung der Sünden taufen; dann werdet ihr die Gabe des Heiligen Geistes empfangen\.[^bible-1b4f258c-f61f-444e-aa12-4814d720ef63]“ Beides geschah also in der Kirche, in der der Heilige Geist war: die Vergebung der Sünden und der Empfang dieser Gabe\. Im Namen Jesu Christi aber geschah es deshalb, weil er, als er ebendiesen Heiligen Geist verhieß, sagte: „Den der Vater in meinem Namen senden wird\.[^bible-e216b2d7-2504-4429-a983-313613a64363]“ Denn der Heilige Geist wohnt in niemandem ohne den Vater und den Sohn, ebenso wenig wie der Sohn ohne den Vater und den Heiligen Geist oder der Vater ohne sie\. Ihr Innewohnen ist untrennbar, weil ihr Wirken untrennbar ist\. Doch meist werden sie einzeln durch Zeichen aus der Schöpfung offenbar, nicht durch ihre Substanz\. Ebenso werden sie beim Sprechen einzeln genannt, wobei jede Silbe ihre eigene Zeitspanne einnimmt; dennoch werden sie durch keinerlei Zeitabstände oder Augenblicke voneinander getrennt\. Denn man kann sie nie zugleich nennen, obwohl sie stets nur zugleich sein können\. Doch wie wir schon mehr als einmal gesagt haben: Die Vergebung der Sünden, durch die das Reich des in sich selbst gespaltenen Geistes[^bible-8f4b4e27-f2ea-4d96-9045-df84a39adf97] gestürzt und vertrieben wird, und die Gemeinschaft in der Einheit der Kirche Gottes, außerhalb derer es diese Vergebung der Sünden nicht gibt, sind deshalb gewissermaßen das besondere Werk des Heiligen Geistes, wobei freilich der Vater und der Sohn mitwirken, weil der Heilige Geist selbst in gewisser Weise die Gemeinschaft des Vaters und des Sohnes ist\. Denn der Sohn und der Heilige Geist haben den Vater nicht gemeinsam zum Vater, weil er nicht der Vater beider ist\. Und der Vater und der Heilige Geist haben den Sohn nicht gemeinsam zum Sohn, weil er nicht der Sohn beider ist\. Den Heiligen Geist aber haben der Vater und der Sohn gemeinsam, weil er der eine Geist beider ist\.
+
+## Bibelverweise
+
+[^bible-1b4f258c-f61f-444e-aa12-4814d720ef63]: Apg 2,38
+[^bible-2117baf6-f6b9-4e90-bd6a-ddb7367c1aa5]: Apg 2,4
+[^bible-214862d5-d7c8-47fc-9adf-9566b552d97d]: Apg 2,37
+[^bible-71c13078-5c50-49ef-bc74-2bbf863d17a5]: Apg 2,7; Apg 2,14
+[^bible-8f4b4e27-f2ea-4d96-9045-df84a39adf97]: Mt 12,26
+[^bible-9f2642c0-b6ad-4625-a8fa-6d2137197255]: 1Kor 6,19
+[^bible-e216b2d7-2504-4429-a983-313613a64363]: Joh 14,26

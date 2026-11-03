@@ -1,0 +1,16 @@
+# Predigt 71 – Über die Lästerung gegen den Heiligen Geist – Kapitel 4: Warum die unvergebbare Geisteslästerung nicht mit schweren Sünden nach der Taufe gleichzusetzen ist
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-71-ueber-die-laesterung-gegen-den-heiligen-geist#kapitel-079b366f-b4b6-4c6d-1159-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Manche meinen, nur diejenigen sündigten gegen den Heiligen Geist, die in der Kirche durch das Bad der Wiedergeburt[^bible-58c90008-c4ee-43da-a193-ba8ef6892d30] gewaschen worden sind, den Heiligen Geist empfangen haben und sich danach, gleichsam undankbar für ein so großes Geschenk des Erlösers, in eine todbringende Sünde gestürzt haben\. Dazu gehören etwa Ehebruch, Mord oder auch der Abfall, ob man nun den christlichen Namen ganz aufgibt oder sich von der katholischen Kirche trennt\. Doch ich weiß nicht, womit sich diese Deutung belegen ließe\. Denn in der Kirche wird bei keiner schweren Sünde die Möglichkeit zur Buße verweigert, und der Apostel sagt, dass selbst die Häretiker gerade mit diesem Ziel zurechtgewiesen werden sollen: „Vielleicht schenkt ihnen Gott die Umkehr zur Erkenntnis der Wahrheit, und sie kommen wieder zur Besinnung und lösen sich aus den Schlingen des Teufels, der sie nach seinem Willen gefangen hält\.[^bible-e43a01ba-86db-4e9b-90b7-4df959018668]“ Was nützt denn eine Zurechtweisung ohne jede Hoffnung auf Vergebung? Schließlich sagt der Herr nicht: „Wer als katholischer Gläubiger ein Wort gegen den Heiligen Geist spricht[^bible-2afa29fa-1483-459c-bfd2-9025117f1251]“, sondern: „Wer es sagt[^bible-2afa29fa-1483-459c-bfd2-9025117f1251]“, das heißt: ganz gleich, wer es sagt, wer auch immer es sagt, „dem wird nicht vergeben, weder in dieser Welt noch in der künftigen[^bible-2afa29fa-1483-459c-bfd2-9025117f1251]“\. Ob er also Heide, Jude oder Christ ist, ein Häretiker aus den Reihen der Juden oder Christen, oder welchen anderen Namen des Irrtums er auch trägt: Es heißt nicht: „Dieser oder jener“, sondern: „Wer ein Wort gegen den Heiligen Geist spricht[^bible-2afa29fa-1483-459c-bfd2-9025117f1251]“, das heißt, den Heiligen Geist lästert, „dem wird nicht vergeben, weder in dieser Welt noch in der künftigen[^bible-2afa29fa-1483-459c-bfd2-9025117f1251]“\. Wenn aber jeder Irrtum, der der Wahrheit widerspricht und dem katholischen Frieden feindlich gegenübersteht, wie wir oben gezeigt haben, ein Wort gegen den Heiligen Geist spricht[^bible-2afa29fa-1483-459c-bfd2-9025117f1251], und die Kirche dennoch nicht aufhört, Menschen aus jedem Irrtum herauszuführen und zu sammeln, damit sie die Vergebung der Sünden und eben den Heiligen Geist empfangen, den sie gelästert hatten, dann haben wir, denke ich, gezeigt, welch großes Geheimnis in dieser so gewichtigen Frage liegt\. Bitten wir also den Herrn um Licht für die Auslegung\.
+
+## Bibelverweise
+
+[^bible-2afa29fa-1483-459c-bfd2-9025117f1251]: Mt 12,32
+[^bible-58c90008-c4ee-43da-a193-ba8ef6892d30]: Tit 3,5
+[^bible-e43a01ba-86db-4e9b-90b7-4df959018668]: 2Tim 2,25–2Tim 2,26

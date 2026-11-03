@@ -1,0 +1,17 @@
+# Predigt 71 – Über die Lästerung gegen den Heiligen Geist – Kapitel 2: Christi Reich bleibt ungeteilt: Wer am Unrecht festhält, gehört ihm trotz christlichen Namens nicht an
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-71-ueber-die-laesterung-gegen-den-heiligen-geist#kapitel-b3bd4ec1-eed3-4552-1157-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Damit nun die Ungläubigen und Gottlosen, die den christlichen Namen bekämpfen, angesichts der verschiedenen Häresien und Spaltungen derer, die unter christlichem Namen Scharen von Verlorenen sammeln, nicht meinen, auch das Reich Christi sei in sich gespalten, fügt er anschließend hinzu: „Wer nicht mit mir ist, ist gegen mich; und wer nicht mit mir sammelt, zerstreut\.[^bible-18a8e530-a899-4bcf-b28f-46962c860495]“ Er sagt nicht: „Wer nicht meinen Namen oder das äußere Zeichen meines Sakraments trägt“, sondern: „Wer nicht mit mir ist, ist gegen mich\.[^bible-18a8e530-a899-4bcf-b28f-46962c860495]“ Er sagt auch nicht: „Wer nicht unter meinem Namen sammelt“, sondern: „Wer nicht mit mir sammelt, zerstreut\.[^bible-18a8e530-a899-4bcf-b28f-46962c860495]“ Das Reich Christi ist also nicht in sich gespalten\. Vielmehr versuchen Menschen zu spalten, was um den Preis des Blutes Christi erkauft wurde[^bible-f3f24191-f85d-434c-8555-a13eaf6b49be]\. Denn „der Herr kennt die Seinen[^bible-e6217f93-e184-4416-aab0-c2ad244813f4]“\. Und es heißt: „Jeder, der den Namen des Herrn nennt, soll vom Unrecht ablassen\.[^bible-e6217f93-e184-4416-aab0-c2ad244813f4]“ Denn wenn er nicht vom Unrecht ablässt, gehört er nicht zum Reich Christi, auch wenn er den Namen Christi nennt\. Ich will dazu einige Beispiele anführen: Der Geist der Habgier und der Geist der Genusssucht sind miteinander entzweit, weil der eine zusammenrafft und der andere verschleudert; beide aber gehören zum Reich des Teufels\. Bei den Götzenverehrern sind der Geist Junos und der Geist des Herkules miteinander entzweit; beide aber gehören zum Reich des Teufels\. Der Heide als Feind Christi und der Jude als Feind Christi sind miteinander entzweit; beide aber gehören zum Reich des Teufels\. Der Arianer und der Photinianer sind beide Häretiker und beide miteinander entzweit\. Der Donatist und der Maximianist sind beide Häretiker und beide miteinander entzweit\. Alle einander widersprechenden Laster und Irrtümer der Menschen sind untereinander entzweit und gehören alle zum Reich des Teufels; deshalb wird sein Reich keinen Bestand haben[^bible-8b4d3235-0bfe-40ac-8bf7-eabf8c959e61]\. Der Gerechte und der Gottlose hingegen, der Gläubige und der Ungläubige, der Katholik und der Häretiker sind zwar miteinander entzweit, gehören aber nicht beide zum Reich Christi\. „Der Herr kennt die Seinen\.[^bible-e6217f93-e184-4416-aab0-c2ad244813f4]“ Niemand soll sich auf die bloße Bezeichnung etwas einbilden\. Wer den Namen des Herrn anruft, soll vom Unrecht ablassen[^bible-e6217f93-e184-4416-aab0-c2ad244813f4], wenn er will, dass ihm der Name des Herrn nützt\.
+
+## Bibelverweise
+
+[^bible-18a8e530-a899-4bcf-b28f-46962c860495]: Mt 12,30
+[^bible-8b4d3235-0bfe-40ac-8bf7-eabf8c959e61]: Mt 12,26
+[^bible-e6217f93-e184-4416-aab0-c2ad244813f4]: 2Tim 2,19
+[^bible-f3f24191-f85d-434c-8555-a13eaf6b49be]: Apg 20,28
