@@ -1,0 +1,21 @@
+# Predigt 66 – Über die Frage des Johannes: Bist du es, der kommen soll? – Kapitel 2: Johannes ist mehr als ein Prophet, doch Christus oder der geringste Engel ist größer als er
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-66-ueber-die-frage-des-johannes-bist-du-es-der-kommen-soll#kapitel-72d1cf4e-3765-4428-1142-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+So sprach also Johannes über Christus\. Was aber sagt Christus über Johannes? Gerade haben wir gehört: „Er begann, zur Menge über Johannes zu sprechen[^bible-0bebdb7a-667f-4d38-9d37-74d0333d2a75]“: „Was wolltet ihr sehen, als ihr in die Wüste hinausgingt? Ein Schilfrohr, das sich im Wind bewegt?[^bible-0bebdb7a-667f-4d38-9d37-74d0333d2a75]“ Gewiss nicht, denn Johannes wurde nicht von jedem Wind der Lehre umhergetrieben[^bible-deda5bb2-c983-4237-95ce-49fdb1fe44c0]\. „Was aber wolltet ihr sehen, als ihr hinausgingt? Einen Menschen in weichen Kleidern?[^bible-058084bb-f9cb-4655-a475-899c2219ee65]“ Nein, denn Johannes trug raue Kleidung: Er hatte ein Gewand aus Kamelhaaren[^bible-afcf98d5-b61a-4a35-8ee0-53d49ac8a3b7], nicht aus Federn\. „Was aber wolltet ihr sehen, als ihr hinausgingt? Einen Propheten? Ja, und er ist größer als ein Prophet\.[^bible-7cd7c3e4-8c92-4865-9527-c2718ceccfbc]“ Warum größer als ein Prophet? Die Propheten kündigten an, dass der Herr kommen werde; sie sehnten sich danach, ihn zu sehen, und sahen ihn nicht[^bible-b6118140-c68e-48dc-975d-865bdcafe6c2]\. Johannes aber wurde gewährt, wonach sie verlangten\. Johannes sah den Herrn, er sah ihn; er zeigte mit dem Finger auf ihn und sagte: „Seht, das Lamm Gottes, seht den, der die Sünden der Welt hinwegnimmt\![^bible-d14302eb-57f8-44de-bec7-8ab5b2d0e310]“ Seht, er ist es\. Er war schon gekommen und wurde nicht erkannt; deshalb irrte man sich auch über Johannes selbst\. Seht, hier ist der, den die Patriarchen zu sehen begehrten, den die Propheten ankündigten, den das Gesetz im Voraus abbildete\. „Seht, das Lamm Gottes, seht den, der die Sünden der Welt hinwegnimmt\![^bible-d14302eb-57f8-44de-bec7-8ab5b2d0e310]“ Johannes legte ein gutes Zeugnis für den Herrn ab, und der Herr für ihn\. „Unter denen, die von Frauen geboren sind[^bible-0a6cfc76-5f6e-4ef1-97b7-c31d8ec93f13]“, sagt der Herr, „ist keiner aufgetreten, der größer ist als Johannes der Täufer\. Wer aber im Himmelreich geringer ist, ist größer als er\.[^bible-0a6cfc76-5f6e-4ef1-97b7-c31d8ec93f13]“ Der Zeit nach jünger, der Hoheit nach größer\. Damit wollte er sich selbst bezeichnen\. Johannes ist unter den Menschen sehr groß; unter den Menschen ist allein Christus größer als er\. Man kann den Satz aber auch anders gliedern und so erklären: „Unter denen, die von Frauen geboren sind, ist keiner aufgetreten, der größer ist als Johannes der Täufer\. Wer aber im Himmelreich geringer ist, ist größer als er\.[^bible-0a6cfc76-5f6e-4ef1-97b7-c31d8ec93f13]“ Nicht so, wie ich es eben erklärt habe\. „Wer aber im Himmelreich geringer ist, ist größer\.[^bible-0a6cfc76-5f6e-4ef1-97b7-c31d8ec93f13]“ Mit dem Himmelreich meinte er den Ort, an dem die Engel sind\. Wer also unter den Engeln geringer ist, ist größer als Johannes\. Er pries das Reich, damit wir uns danach sehnen; er stellte uns die Stadt vor Augen, damit wir danach verlangen, ihre Bürger zu sein\. Was für Bürger sind dort? Wie groß sind diese Bürger\! Wer dort auch immer geringer ist, ist größer als Johannes\.[^bible-0a6cfc76-5f6e-4ef1-97b7-c31d8ec93f13] Welcher Johannes? Der, den keiner überragt, der je unter den von Frauen Geborenen aufgetreten ist[^bible-0a6cfc76-5f6e-4ef1-97b7-c31d8ec93f13]\.
+
+## Bibelverweise
+
+[^bible-058084bb-f9cb-4655-a475-899c2219ee65]: Mt 11,8
+[^bible-0a6cfc76-5f6e-4ef1-97b7-c31d8ec93f13]: Mt 11,11
+[^bible-0bebdb7a-667f-4d38-9d37-74d0333d2a75]: Mt 11,7
+[^bible-7cd7c3e4-8c92-4865-9527-c2718ceccfbc]: Mt 11,9
+[^bible-afcf98d5-b61a-4a35-8ee0-53d49ac8a3b7]: Mt 3,4
+[^bible-b6118140-c68e-48dc-975d-865bdcafe6c2]: Mt 13,17
+[^bible-d14302eb-57f8-44de-bec7-8ab5b2d0e310]: Joh 1,29
+[^bible-deda5bb2-c983-4237-95ce-49fdb1fe44c0]: Eph 4,14
