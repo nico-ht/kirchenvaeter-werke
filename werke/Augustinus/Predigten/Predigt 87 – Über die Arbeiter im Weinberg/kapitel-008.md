@@ -1,0 +1,14 @@
+# Predigt 87 – Über die Arbeiter im Weinberg – Kapitel 8: Wer umkehrt, dem vergibt Gott alle Sünden – diese Zusage rettet aus der Verzweiflung
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-87-ueber-die-arbeiter-im-weinberg#kapitel-97435e14-311d-44ac-11dd-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Es ist also klar, meine Brüder, vollkommen klar; haltet daran fest und seid dessen gewiss: Wenn jemand von seinem sinnlosen oder auch höchst verwerflichen Weg umkehrt und zum Glauben an unseren Gott Jesus Christus kommt, vergibt ihm dieser alles Vergangene\. Wie nach einem Schuldenerlass wird für ihn ein ganz neues Schuldbuch aufgeschlagen\. Alles wird ihm vergeben, ohne Ausnahme\. Niemand soll sich sorgen, dass ihm etwas nicht vergeben wird\. Aber ebenso wenig soll sich jemand in falscher Sicherheit wiegen\. Denn diese beiden Dinge töten die Seelen: Verzweiflung und verkehrte Hoffnung\. Hört ein paar Worte über diese beiden Übel\. Wie die gute und rechte Hoffnung befreit, so führt die verkehrte Hoffnung in die Irre\. Achtet zuerst darauf, wie die Verzweiflung in die Irre führt\. Es gibt Menschen, die über ihre bösen Taten nachzudenken beginnen und meinen, ihnen könne nicht verziehen werden\. Und weil sie meinen, ihnen könne nicht verziehen werden, geben sie ihre Seele schon verloren\. Sie gehen an ihrer Verzweiflung zugrunde und sagen sich in Gedanken: „Für uns gibt es keine Hoffnung mehr\. Denn so schwere Vergehen, wie wir sie begangen haben, können uns nicht erlassen oder verziehen werden\. Warum also befriedigen wir nicht unsere Begierden? Kosten wir wenigstens die Lust der Gegenwart aus, weil wir in der Zukunft keinen Lohn haben\. Tun wir, was uns gefällt, auch wenn es nicht erlaubt ist, damit wir wenigstens den zeitlichen Genuss haben, weil wir des ewigen nicht würdig sind\.“ So sprechen sie und gehen an ihrer Verzweiflung zugrunde, ob sie nun noch gar nicht zum Glauben gekommen sind oder schon Christen sind und durch einen schlechten Lebenswandel in Sünden und Verbrechen gefallen sind\. Zu ihnen tritt der Herr des Weinbergs\. Er klopft bei ihnen an, die verzweifeln und dem, der sie ruft, den Rücken kehren, und ruft durch den Propheten Hesekiel: „An welchem Tag auch immer ein Mensch von seinem höchst verwerflichen Weg umkehrt, werde ich alle seine Ungerechtigkeiten vergessen\.[^bible-aed37a0c-79fe-461a-afea-d41b5cbee1d2]“ Wenn sie diese Stimme hören und ihr glauben, schöpfen sie neuen Mut, überwinden ihre Verzweiflung und tauchen aus jenem tiefen, tiefen Abgrund wieder auf, in dem sie versunken waren\.
+
+## Bibelverweise
+
+[^bible-aed37a0c-79fe-461a-afea-d41b5cbee1d2]: Hes 18,21–Hes 18,22
