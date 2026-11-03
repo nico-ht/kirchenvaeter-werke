@@ -1,0 +1,24 @@
+# Predigt 88 – Über die zwei Blinden am Weg – Kapitel 20: Mose bleibt beim sündigen Volk und tritt aus Liebe für seine Vergebung ein
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-88-ueber-die-zwei-blinden-am-weg#kapitel-f61ed3ea-6dfa-4781-11f5-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Das hat Mose gerufen, das hat Jesaja gerufen, das hat Jeremia gerufen, das hat Hesekiel gerufen\. Sehen wir zu, ob sie selbst so gehandelt haben, ob sie Gottes Volk verlassen haben und zu anderen Völkern übergegangen sind\. Wie viel warf Jeremia den Sündern und Verbrechern seines Volkes vor, und wie heftig tadelte er sie\! Dennoch blieb er unter ihnen, betrat mit ihnen denselben Tempel und feierte dieselben Sakramente\. Er lebte in dieser Gemeinschaft verbrecherischer Menschen, doch indem er seine Stimme erhob, ging er von dort hinaus[^bible-7a1861b7-1b2c-4c9b-9e9d-a8828bc05315]\. Das bedeutet, von dort hinauszugehen[^bible-7a1861b7-1b2c-4c9b-9e9d-a8828bc05315]; das bedeutet, Unreines nicht zu berühren[^bible-7a1861b7-1b2c-4c9b-9e9d-a8828bc05315]: innerlich nicht zuzustimmen und sie mit Worten nicht zu schonen\. Was soll ich noch von Jeremia, Jesaja, Daniel, Hesekiel und den übrigen Propheten sagen? Sie zogen sich nicht von dem bösen Volk zurück, um die Guten nicht zu verlassen, die unter dieses Volk gemischt waren, in dem auch sie selbst zu den Guten gehören konnten\. Brüder, während Mose selbst auf dem Berg das Gesetz empfing, machte sich das Volk unten einen Götzen[^bible-df3be095-01de-491d-9fe3-20ed9f6c848a]\. Das Volk Gottes, das durch die zurückweichenden Fluten des Roten Meeres geführt worden war, die die ihm nachsetzenden Feinde verschlungen hatten[^bible-d4f397f3-dd1d-4ea1-ac65-36fac49abfb1], dieses Volk hatte so viele Zeichen und Wunder erlebt: Plagen brachten den Ägyptern den Tod, es selbst aber wurde beschützt und gerettet[^bible-48082a0c-e8c0-480b-aa77-c70190b1a2f1]\. Und dennoch forderte es einen Götzen, erzwang es einen Götzen, machte es einen Götzen, betete es einen Götzen an und brachte einem Götzen Opfer dar[^bible-91aa65db-f78b-427a-a42c-e7a03a4ccf3b]\. Gott teilt seinem Diener mit, was das Volk getan hat, und sagt, er werde sie aus seiner Gegenwart tilgen[^bible-3921c4ff-9982-4c0b-8465-536c572005ac]\. Mose tritt für das Volk ein, zu dem er zurückkehren wird[^bible-1f172ae0-b0b4-47b1-9dec-5ba842a7a42a]\. Er hatte die Gelegenheit, sich von ihnen zurückzuziehen und sie zu verlassen, wie jene Leute es verstehen, um Unreines nicht zu berühren[^bible-7a1861b7-1b2c-4c9b-9e9d-a8828bc05315] und nicht mit solchen Menschen zusammenzuleben\. Doch er tat es nicht\. Und damit es nicht so aussah, als habe er das eher aus Zwang als aus Liebe getan, bot Gott ihm ein anderes Volk an[^bible-23b64a73-7916-4b73-b83b-83d87afa18b0]\. Er sagte: „Ich werde dich zu einem großen Volk machen[^bible-23b64a73-7916-4b73-b83b-83d87afa18b0]“, und „wollte jene vernichten[^bible-23b64a73-7916-4b73-b83b-83d87afa18b0]“\. Doch Mose nahm das Angebot nicht an\. Er hält an den Sündern fest, er bittet für die Sünder[^bible-cc8e862c-9a11-48a3-a43a-00f1380b584b]\. Und wie bittet er? Ein großer Beweis der Liebe, Brüder\! Wie bittet er? Seht diese gewissermaßen mütterliche Liebe, von der wir oft gesprochen haben\. Als Gott dem frevlerischen Volk drohte[^bible-7bbe9adb-9f5a-4013-8b5f-617914f32441], erbebte das fromme Herz des Mose, und er stellte sich für sie dem Zorn Gottes entgegen[^bible-cc8e862c-9a11-48a3-a43a-00f1380b584b]\. „Herr[^bible-e9a33b51-4a55-4707-b1c0-dcea049827a2]“, sagte er, „wenn du ihnen die Sünde vergibst, dann vergib sie\. Wenn aber nicht, dann tilge mich aus deinem Buch, das du geschrieben hast\.[^bible-e9a33b51-4a55-4707-b1c0-dcea049827a2]“ Mit welch väterlichem und mütterlichem Herzen er das sagte, wie zuversichtlich er dabei auf Gottes Gerechtigkeit und Barmherzigkeit blickte\! Weil Gott gerecht ist, würde er den Gerechten nicht vernichten; weil er barmherzig ist, würde er den Sündern vergeben\.
+
+## Bibelverweise
+
+[^bible-1f172ae0-b0b4-47b1-9dec-5ba842a7a42a]: Ex 32,11–Ex 32,15
+[^bible-23b64a73-7916-4b73-b83b-83d87afa18b0]: Ex 32,10
+[^bible-3921c4ff-9982-4c0b-8465-536c572005ac]: Ex 32,7–Ex 32,10
+[^bible-48082a0c-e8c0-480b-aa77-c70190b1a2f1]: Ex 7,14–Ex 12,30
+[^bible-7a1861b7-1b2c-4c9b-9e9d-a8828bc05315]: Jes 52,11
+[^bible-7bbe9adb-9f5a-4013-8b5f-617914f32441]: Ex 32,9–Ex 32,10
+[^bible-91aa65db-f78b-427a-a42c-e7a03a4ccf3b]: Ex 32,1–Ex 32,6
+[^bible-cc8e862c-9a11-48a3-a43a-00f1380b584b]: Ex 32,11–Ex 32,14
+[^bible-d4f397f3-dd1d-4ea1-ac65-36fac49abfb1]: Ex 14,21–Ex 14,28
+[^bible-df3be095-01de-491d-9fe3-20ed9f6c848a]: Ex 31,18; Ex 32,1–Ex 32,4
+[^bible-e9a33b51-4a55-4707-b1c0-dcea049827a2]: Ex 32,31–Ex 32,32

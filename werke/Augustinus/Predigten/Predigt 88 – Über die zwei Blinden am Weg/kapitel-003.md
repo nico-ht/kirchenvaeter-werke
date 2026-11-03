@@ -1,0 +1,17 @@
+# Predigt 88 – Über die zwei Blinden am Weg – Kapitel 3: Christus wirkt heute durch sein Wort größere Heilungen an der Seele als einst am Körper
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-88-ueber-die-zwei-blinden-am-weg#kapitel-c4c58be2-41a8-461f-11e4-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Dies also tat der Herr, um zum Glauben einzuladen\. Dieser Glaube glüht jetzt in der Kirche, die über die ganze Welt verbreitet ist\. Und jetzt wirkt er größere Heilungen, um derentwillen er es damals nicht verschmähte, jene geringeren zu vollbringen\. Denn wie die Seele mehr wert ist als der Körper, so ist auch die Gesundheit der Seele mehr wert als die Gesundheit des Körpers\. Jetzt öffnet kein blindes Fleisch seine Augen durch ein Wunder des Herrn; doch ein blindes Herz öffnet seine Augen auf das Wort des Herrn hin\. Jetzt steht kein sterblicher Leichnam auf; doch eine Seele steht auf, die tot in einem lebenden Leichnam lag\. Jetzt werden keine tauben Ohren des Körpers geöffnet\. Aber wie viele Menschen haben verschlossene Ohren im Herzen, die sich dennoch öffnen, wenn Gottes Wort in sie eindringt, sodass diejenigen glauben, die nicht glaubten, diejenigen gut leben, die schlecht lebten, und diejenigen gehorchen, die nicht gehorchten? Und wir sagen: „Er ist zum Glauben gekommen\!“ Wir staunen, wenn wir das von Menschen hören, die wir einst als verhärtet kannten\. Warum staunst du also jetzt über einen Menschen, der glaubt, ohne Schuld lebt und Gott dient? Doch nur, weil du einen Sehenden vor dir hast, den du als Blinden kanntest, einen Lebenden, den du als Toten kanntest, einen Hörenden, den du als Tauben kanntest\. Seht nämlich auf die Menschen, die auf andere Weise tot sind\. Von diesen Toten sprach der Herr zu einem, der zögerte, dem Herrn nachzufolgen, weil er seinen Vater begraben wollte[^bible-ffbbe228-be4d-490c-802c-dccd8d19f1ad]\. Er sagte: „Lass die Toten ihre Toten begraben\.[^bible-42db3fac-2888-4c51-aef1-866d74f2216a]“ Gewiss sind diese toten Totengräber nicht körperlich tot; denn sonst könnten sie keine toten Körper begraben\. Dennoch nennt er sie tot\. Wo sind sie tot, wenn nicht innen, in der Seele? Wie wir oft mit eigenen Augen sehen, dass in einem unversehrten, wohlerhaltenen Haus der Hausherr tot daliegt, so haben viele in einem unversehrten Körper eine tote Seele\. Der Apostel weckt sie mit den Worten: „Steh auf, du Schläfer, und erhebe dich von den Toten, und Christus wird dich erleuchten\.[^bible-5f818cfe-851b-400f-bb63-f4ad2b925167]“ Derselbe, der den Toten aufweckt, erleuchtet den Erblindeten\. Denn seine Stimme ist es, die durch den Apostel dem Toten zuruft: „Steh auf, du Schläfer\.[^bible-5f818cfe-851b-400f-bb63-f4ad2b925167]“ Der Blinde wird vom Licht erleuchtet werden, wenn er aufgestanden ist\. Und wie viele Taube sah der Herr vor sich, als er sagte: „Wer Ohren zum Hören hat, soll hören\.[^bible-cd0dd492-2123-4851-8e4f-d2dc6c88ab98]“ Wer stand denn vor ihm, ohne körperliche Ohren zu haben? Welche anderen Ohren verlangte er also, wenn nicht die des inneren Menschen?
+
+## Bibelverweise
+
+[^bible-42db3fac-2888-4c51-aef1-866d74f2216a]: Mt 8,22
+[^bible-5f818cfe-851b-400f-bb63-f4ad2b925167]: Eph 5,14
+[^bible-cd0dd492-2123-4851-8e4f-d2dc6c88ab98]: Mt 11,15
+[^bible-ffbbe228-be4d-490c-802c-dccd8d19f1ad]: Mt 8,21
