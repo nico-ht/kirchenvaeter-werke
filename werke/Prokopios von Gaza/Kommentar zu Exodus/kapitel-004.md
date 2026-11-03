@@ -1,0 +1,49 @@
+# Kommentar zu Exodus – Kapitel 4: Der unverbrannte Dornbusch zeigt, dass die Gottheit in Christus die menschliche Natur nicht verzehrt
+
+Autor: Prokopios von Gaza
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/prokopios-von-gaza/kommentar-zu-exodus#kapitel-83d17287-f5be-40cf-f7de-08df375ef423).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Nach jenen vielen Tagen starb der König von Ägypten, und die Söhne Israels seufzten\.[^bible-72eb69ef-a40f-44b8-88bb-bcf1aeeaef58]“ Bis zu den Worten: „Denn er fürchtete sich, Gott ins Angesicht zu schauen\.[^bible-e51f3019-3ddb-46a4-a463-7aa8b86489a0]“
+
+Denn wann wäre es für jemanden an der Zeit zu seufzen, wenn nicht dann, wenn der König Ägyptens in ihm stirbt[^bible-72eb69ef-a40f-44b8-88bb-bcf1aeeaef58]? So sah auch Jesaja den Herrn, als Usija gestorben war[^bible-812ef4a9-eaea-495e-af58-27259da4fdd5]\. Ebenso wird auch hier hinzugefügt: „Und er gab sich ihnen zu erkennen\.[^bible-8758209b-1925-41e3-930c-8197b41cba2f]“ Denn sie hatten Götzendienst getrieben und waren in der Arbeit mit Lehm gefangen; darum kannten sie den Herrn nicht\. Sie „seufzten[^bible-72eb69ef-a40f-44b8-88bb-bcf1aeeaef58]“ aber weder „wegen der Ziegelarbeit“ noch „wegen des Lehms“ noch „wegen des Strohs“, sondern „wegen der Werke[^bible-72eb69ef-a40f-44b8-88bb-bcf1aeeaef58]“, derentwegen auch „der Hilferuf zu Gott aufstieg[^bible-72eb69ef-a40f-44b8-88bb-bcf1aeeaef58]“\. Deshalb „erhörte Gott ihre Seufzer[^bible-ede5cc94-ae1b-411e-b01e-85b8ac6fa534]“\. Er erhört den Seufzer derer nicht, die nicht „wegen eines Werkes[^bible-72eb69ef-a40f-44b8-88bb-bcf1aeeaef58]“ zu ihm rufen, sondern wegen Lehm und irdischer Tätigkeiten\. Oder, wie ein anderer sagt: Durch ihn entkommen wir Lehm und Ziegelarbeit, dem gebrechlichen Gefüge dieses Fleisches, das bei den meisten nicht einmal durch strohartige Gedanken zusammengehalten wird\. Nun aber war für Mose die Zeit der Bewährung abgeschlossen, das Maß der Grausamkeit der Ägypter und der Erniedrigung Israels war voll, und für Gott war die Zeit gekommen, seine Verheißungen „an Abraham[^bible-ede5cc94-ae1b-411e-b01e-85b8ac6fa534]“ zu erfüllen\.
+
+Dem Mose „erschien[^bible-a654413a-9c5f-4346-822a-4ec1b1812c41]“, heißt es, „ein Engel des Herrn in der Feuerflamme eines Dornbuschs[^bible-a654413a-9c5f-4346-822a-4ec1b1812c41]“, nicht „der Herr“, sondern „ein Engel[^bible-a654413a-9c5f-4346-822a-4ec1b1812c41]“\. Ihn „rief[^bible-ebe13990-51bf-435c-95a3-ed0b097b6a2b]“ dann nicht mehr „ein Engel“, sondern „der Herr[^bible-ebe13990-51bf-435c-95a3-ed0b097b6a2b]“, der auch die Anweisungen gab, während ein Engel den Dienst versah \(auch wenn manche sagen, es sei der Engel des großen Ratschlusses[^bible-a5c58ea8-4e2b-49eb-823d-5c6fa8872abf]\)\. Nirgends im Bericht von der Gesetzgebung sagt die Schrift: „Der Herr erschien Mose\.“ Diese Aussage findet sich als besondere Auszeichnung nur bei den drei Patriarchen\. Daraus wird deutlich, dass die ganze Gesetzgebung den Menschen in der Wüste durch Engel übermittelt wurde[^bible-b87ee1ea-711d-4b7b-a4cd-5dc2a02a899f], gleichsam durch Erzieher und Verwalter[^bible-d45e3acd-e5ff-4d6e-857c-bf50e3f0b3f4], weil sie ihrer Seele nach noch Kinder waren und erst unterwiesen wurden\. Andere aber sagen, Gott sei mit Recht „Engel“ genannt worden, weil er das Kommende angekündigt habe\.
+
+Nicht das Feuer spricht im Dornbusch zu Mose, und nicht das Feuer gibt dem Volk das Gesetz, sondern Gott im Feuer\. Wenn er also weiter unten sagt: „Gott ist ein verzehrendes Feuer[^bible-619a9d76-5b5b-45cc-b4d3-b90a624e5abe]“, fügt er den Grund hinzu: „Denn Gott[^bible-619a9d76-5b5b-45cc-b4d3-b90a624e5abe]“, heißt es, „ist eifersüchtig\.[^bible-619a9d76-5b5b-45cc-b4d3-b90a624e5abe]“ Das bedeutet: Gottes Eifer für euch oder gegen euch ist heftig wie ein verzehrendes Feuer[^bible-619a9d76-5b5b-45cc-b4d3-b90a624e5abe]\.
+
+Beim Dornbusch bot sich ein ungewöhnlicher Anblick: Einander widerstreitende Naturen fanden zusammen\. Denn der Dornbusch ist leicht brennbar, das Feuer aber verzehrt sozusagen alles, ganz besonders jedoch solche Stoffe\. Ungewöhnliches zieht den Blick auf sich; so ergeht es auch Mose[^bible-edd9d1b5-b52c-4e39-99e7-ce62759d8112]\. Dem Volk blieb damit eine Mahnung, es nicht für befremdlich zu halten, dass Gott im Fleisch wohnt, ohne dass dieses von der überragenden Macht der Gottheit verzehrt wird; oder auch, dass er in einer Jungfrau Wohnung nahm, sie befähigte, ihn aufzunehmen, und sie zugleich als Jungfrau bewahrte\. Es zeigte auch, dass die Söhne Israels zwar verletzlich waren, von Gott aber vor den gleichsam sengenden Misshandlungen der Ägypter geschützt wurden und ihre Angreifer wie mit Dornen stechen würden, entsprechend den Worten: „Fürchte dich nicht, denn ich bin bei dir[^bible-913b5a48-6788-49e2-a475-07eda1e30d2b]“, und: „Eine Flamme wird dich nicht verbrennen\.[^bible-9cf1bec3-8ecd-4c81-8ab7-2df290eec83d]“ Die Wunder des Alten Testaments beginnen mit Holz, das auf das Kreuz des Neuen Testaments hinweist\. Damit das Wunder umso größer ausfällt, dient leicht brennbares Holz als Stoff: ein Dornbusch\. Zugleich sollten die Söhne Israels, die mit dem Götzendienst aufgewachsen waren, nicht versuchen, daraus ein Standbild des Gottes anzufertigen, der sich im Dornbusch gezeigt hatte[^bible-8c6e5127-4d36-482a-8b13-16316c480716]; denn ein Dornbusch ist zur Herstellung von Götzenbildern gänzlich ungeeignet\.
+
+Es zeigte außerdem Folgendes: Israel war wie ein wilder Baum geworden und trug keine edlen Früchte der Gerechtigkeit, denn es war durch und durch ägyptisch\. Ihm sollte das durch Engel verkündete Gesetz[^bible-97b59315-dae7-42d6-86a2-60a916b624ac] gegeben werden\. Dieses konnte zwar erleuchten, wenn es geistlich verstanden wurde, blieb aber für seine Empfänger nutzlos, weil sie das Licht nicht in ihren Verstand aufnahmen, so wie auch das Feuer dem Dornbusch keine Empfindung von Wärme vermittelte\. Zu ihnen sagt der Erlöser: „Erforscht die Schriften, denn ihr meint, in ihnen ewiges Leben zu haben; und sie sind es, die von mir Zeugnis geben\.[^bible-357e57b7-741b-49aa-b465-7320224e45dc]“ Auch Mose staunte über ihre Empfindungslosigkeit, als er sie darin im Voraus abgebildet sah, dass der Dornbusch nicht verbrannte[^bible-d83c170e-bea8-47a0-b4ef-b0d6c3b0d375]\. Dass dies, wie gesagt, das Geheimnis der Fleischwerdung Christi im Voraus abbildete, wird daraus deutlich, dass die Heilige Schrift die göttliche Natur mit Feuer vergleicht \(denn Gott ist die Wahrheit, und die Wahrheit ist Licht\), den Menschen aus Erde aber mit Bäumen und Pflanzen auf dem Feld\. Denn an einer Stelle sagt sie: „Gott ist ein verzehrendes Feuer[^bible-8d442455-a900-4abb-a167-389fd114f34a]“ \(wegen seiner überragenden Macht und weil er zugleich erleuchtet und die Sünde verzehrt; denn die göttliche Schrift nennt die Sünde Dorn und Kreuzdorn, wie im Psalm: „Bevor eure Dornen den Kreuzdorn wahrnehmen, wird er euch gleichsam lebendig, gleichsam im Zorn verschlingen[^bible-8bb2465d-24b3-46df-9894-75883859ea54]“, und anderswo: „Ich geriet ins Elend, als sich mir ein Dorn einbohrte[^bible-27df94be-5c94-4603-b5ba-3ee21b39b836]“\)\. An einer anderen Stelle heißt es: „Der Mensch: Wie Gras sind seine Tage; wie eine Blume auf dem Feld, so wird er erblühen\.[^bible-53d5f38a-185d-403c-ac83-81011122e0ce]“ Doch wie Dornen das Feuer nicht ertragen können, so kann auch die menschliche Natur die Gottheit nicht ertragen\. Doch in Christus geschah es, dass die Gottheit für die menschliche Natur ertragbar wurde\. Denn in ihm hat die ganze Fülle der Gottheit körperlich Wohnung genommen[^bible-0d28313a-bca9-4a54-998e-3f57ff21f380]\. Und der in unzugänglichem Licht wohnt[^bible-11861931-f316-4511-9360-cbe2a5d9d23c], nahm im Tempel aus der Jungfrau Wohnung, indem er sich in bewundernswerter Sanftmut herabließ und gleichsam die ungemilderte Wirkung seines eigenen Wesens begrenzte, so wie auch das Feuer den Dornbusch verschonte[^bible-8c6e5127-4d36-482a-8b13-16316c480716]\. Denn er hat unter uns Wohnung genommen[^bible-c76f8106-1b2c-4961-be79-3e316468a8d4], ohne zu strafen, wie er selbst an einer Stelle sagt: „Gott hat den Sohn nicht in die Welt gesandt, damit er die Welt richtet, sondern damit die Welt durch ihn gerettet wird\.[^bible-49e90379-b0d7-4608-a036-969bca004279]“
+
+## Bibelverweise
+
+[^bible-0d28313a-bca9-4a54-998e-3f57ff21f380]: Kol 2,9
+[^bible-11861931-f316-4511-9360-cbe2a5d9d23c]: 1Tim 6,16
+[^bible-27df94be-5c94-4603-b5ba-3ee21b39b836]: Ps 31,4
+[^bible-357e57b7-741b-49aa-b465-7320224e45dc]: Joh 5,39
+[^bible-49e90379-b0d7-4608-a036-969bca004279]: Joh 3,17
+[^bible-53d5f38a-185d-403c-ac83-81011122e0ce]: Ps 102,15
+[^bible-619a9d76-5b5b-45cc-b4d3-b90a624e5abe]: Dtn 4,24
+[^bible-72eb69ef-a40f-44b8-88bb-bcf1aeeaef58]: Ex 2,23
+[^bible-812ef4a9-eaea-495e-af58-27259da4fdd5]: Jes 6,1
+[^bible-8758209b-1925-41e3-930c-8197b41cba2f]: Ex 2,25
+[^bible-8bb2465d-24b3-46df-9894-75883859ea54]: Ps 57,10
+[^bible-8c6e5127-4d36-482a-8b13-16316c480716]: Ex 3,2
+[^bible-8d442455-a900-4abb-a167-389fd114f34a]: Dtn 4,24
+[^bible-913b5a48-6788-49e2-a475-07eda1e30d2b]: Jes 43,5
+[^bible-97b59315-dae7-42d6-86a2-60a916b624ac]: Hebr 2,2
+[^bible-9cf1bec3-8ecd-4c81-8ab7-2df290eec83d]: Jes 43,2
+[^bible-a5c58ea8-4e2b-49eb-823d-5c6fa8872abf]: Jes 9,5
+[^bible-a654413a-9c5f-4346-822a-4ec1b1812c41]: Ex 3,2
+[^bible-b87ee1ea-711d-4b7b-a4cd-5dc2a02a899f]: Gal 3,19
+[^bible-c76f8106-1b2c-4961-be79-3e316468a8d4]: Joh 1,14
+[^bible-d45e3acd-e5ff-4d6e-857c-bf50e3f0b3f4]: Gal 4,2
+[^bible-d83c170e-bea8-47a0-b4ef-b0d6c3b0d375]: Ex 3,2–Ex 3,3
+[^bible-e51f3019-3ddb-46a4-a463-7aa8b86489a0]: Ex 3,6
+[^bible-ebe13990-51bf-435c-95a3-ed0b097b6a2b]: Ex 3,4
+[^bible-edd9d1b5-b52c-4e39-99e7-ce62759d8112]: Ex 3,3
+[^bible-ede5cc94-ae1b-411e-b01e-85b8ac6fa534]: Ex 2,24
