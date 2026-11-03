@@ -1,0 +1,18 @@
+# Predigt 56 – Über das Gebet des Herrn, an die Taufbewerber – Kapitel 8: Auch wer schwere Sünden meidet, ist nicht schuldlos: Niemand hält Sinne und Gedanken völlig im Zaum
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-56-ueber-das-gebet-des-herrn-an-die-taufbewerber#kapitel-76c4be30-717a-4a5b-10ec-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nachdem uns also durch das Bad der Wiedergeburt[^bible-5784c8ee-297b-40a9-ac07-108070295c2d] alle Sünden vergeben worden sind, wären wir in großer Bedrängnis, wenn uns nicht die tägliche Reinigung durch das heilige Gebet geschenkt wäre\. Almosen und Gebete reinigen von Sünden\.[^bible-96df7678-3e21-4f4f-9caa-bac58b590266] Nur dürfen wir keine solchen Sünden begehen, die es nötig machen, uns vom täglichen Brot[^bible-f71ac2bf-efd9-4adc-903d-bd506d7c4de9] auszuschließen\. Wir müssen Schuld vermeiden, die unweigerlich eine strenge Verdammung nach sich zieht\. Nennt euch nicht gerecht, als hättet ihr keinen Grund zu sagen: „Vergib uns unsere Schulden, wie auch wir unseren Schuldnern vergeben\.[^bible-77335338-3fb9-4b86-a843-9079427a8c80]“ Ihr mögt euch vom Götzendienst fernhalten, von den Sterndeutungen der Astrologen und den Heilmitteln der Beschwörer; euch von den Täuschungen der Häretiker und den Spaltungen der Schismatiker fernhalten; euch von Mord, Ehebruch und Unzucht, von Diebstahl und Raub, von falschen Zeugenaussagen fernhalten und von allem anderen, was noch hinzukommen mag\. Ich spreche nicht von Sünden mit tödlichem Ausgang, derentwegen man vom Altar ausgeschlossen und auf Erden gebunden werden muss, sodass man auch im Himmel gebunden ist[^bible-6f29d446-8eae-46d4-9f9e-f8f350bf411e]\. Das ist äußerst gefährlich und tödlich, wenn man nicht auf Erden gelöst wird, sodass man auch im Himmel gelöst ist[^bible-6f29d446-8eae-46d4-9f9e-f8f350bf411e]\. Auch wenn also diese Sünden ausgeschlossen sind, fehlt es dem Menschen nicht an Gelegenheiten zu sündigen\. Er sündigt, wenn er mit Vergnügen ansieht, was er nicht ansehen soll\. Und wer kann das Auge bei seiner Schnelligkeit im Zaum halten? Es heißt ja, das Auge habe seinen Namen von seiner Schnelligkeit\. Wer kann das Ohr oder das Auge im Zaum halten? Die Augen kannst du schließen, wann du willst, und sie sind schnell geschlossen\. Die Ohren dagegen schließt du nur mit Mühe: Du hebst die Hand und führst sie zu ihnen\. Und wenn dir jemand die Hände festhält, bleiben sie offen; du kannst sie nicht vor verleumderischen, unreinen, schmeichelnden und täuschenden Worten verschließen\. Wenn du etwas gehört hast, was du nicht hören sollst, sündigst du dann nicht mit dem Ohr, selbst wenn du es nicht getan hast? Du hörst etwas Böses mit Vergnügen\. Wie viele Sünden begeht die todbringende Zunge? Manchmal solche, derentwegen ein Mensch vom Altar ausgeschlossen wird\. Von ihr gehen Lästerungen aus; auch viel Nichtiges wird ausgesprochen, das nichts zur Sache tut\. Mag die Hand nichts Böses tun, der Fuß nicht zum Bösen laufen, das Auge sich nicht lüstern auf etwas richten, das Ohr sich nicht mit Vergnügen dem Schändlichen öffnen und die Zunge nichts Ungehöriges aussprechen, so sag mir doch: Wer hält die Gedanken im Zaum?
+
+## Bibelverweise
+
+[^bible-5784c8ee-297b-40a9-ac07-108070295c2d]: Tit 3,5
+[^bible-6f29d446-8eae-46d4-9f9e-f8f350bf411e]: Mt 18,18
+[^bible-77335338-3fb9-4b86-a843-9079427a8c80]: Mt 6,12
+[^bible-96df7678-3e21-4f4f-9caa-bac58b590266]: Tob 12,8–Tob 12,9
+[^bible-f71ac2bf-efd9-4adc-903d-bd506d7c4de9]: Mt 6,11

@@ -1,0 +1,19 @@
+# Predigt 56 – Über das Gebet des Herrn, an die Taufbewerber – Kapitel 4: Gottes Name soll in uns geheiligt werden, und wir sollen seinem kommenden Reich angehören
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-56-ueber-das-gebet-des-herrn-an-die-taufbewerber#kapitel-e1232f35-c3b5-4588-10e8-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Er sagt: „Ihr also sollt sprechen[^bible-2955ad3b-d240-4251-99d0-f1739c999cca]“: „‚Unser Vater, der du im Himmel bist\.[^bible-2955ad3b-d240-4251-99d0-f1739c999cca]‘“ Daran seht ihr, dass ihr begonnen habt, Gott zum Vater zu haben\. Doch ihr werdet ihn erst dann zum Vater haben, wenn ihr geboren seid\. Allerdings seid ihr schon jetzt, noch bevor ihr geboren werdet, aus seinem Samen empfangen, gleichsam im Schoß der Kirche, um im Taufbecken geboren zu werden\. „Unser Vater, der du im Himmel bist\.[^bible-2955ad3b-d240-4251-99d0-f1739c999cca]“ Denkt daran, dass ihr einen Vater im Himmel habt\. Denkt daran: Von eurem Vater Adam seid ihr zum Tod geboren, von Gott, eurem Vater, sollt ihr zum Leben wiedergeboren werden\. Was ihr sprecht, das sprecht auch in eurem Herzen\. Wer betet, tue es mit Hingabe; dann wird der, der ihn erhört, auch handeln\. „Geheiligt werde dein Name\.[^bible-2955ad3b-d240-4251-99d0-f1739c999cca]“ Warum bittest du darum, dass Gottes Name geheiligt wird[^bible-2955ad3b-d240-4251-99d0-f1739c999cca]? Er ist heilig\. Warum erbittest du die Heiligung dessen, was schon heilig ist? Und wenn du darum bittest, dass sein Name geheiligt wird[^bible-2955ad3b-d240-4251-99d0-f1739c999cca], bittest du ihn dann nicht gewissermaßen für ihn selbst und nicht für dich? Verstehe es richtig: Du bittest für dich\. Denn du bittest darum, dass das, was in sich immer heilig ist, in dir geheiligt wird\. Was heißt „geheiligt werde[^bible-2955ad3b-d240-4251-99d0-f1739c999cca]“? Es soll heiliggehalten und nicht verachtet werden\. Du siehst also: Wenn du dies wünschst, wünschst du dir selbst Gutes\. Denn wenn du Gottes Namen verachtest, schadet das dir, nicht Gott\.
+
+„Dein Reich komme\.[^bible-d52b8d0b-49cb-4c08-8f22-c0e071d0e93f]“ Zu wem sagen wir das? Wird das Reich Gottes nicht auch dann kommen, wenn wir nicht darum bitten? Gemeint ist nämlich jenes Reich, das nach dem Ende dieser Welt bestehen wird\. Denn Gott hat immer ein Reich; niemals ist er ohne Reich, denn ihm dient die ganze Schöpfung\. Doch welches Reich wünschst du dir? Das, von dem im Evangelium geschrieben steht: „Kommt, ihr Gesegneten meines Vaters, empfangt das Reich, das euch seit Anbeginn der Welt bereitet ist\.[^bible-228937a4-13e3-4c03-b4ea-1937a637b591]“ Von diesem Reich sprechen wir also, wenn wir sagen: „Dein Reich komme\.[^bible-d52b8d0b-49cb-4c08-8f22-c0e071d0e93f]“ Wir wünschen, dass es in uns komme; wir wünschen, dass wir darin gefunden werden\. Denn seht, es wird kommen\. Doch was nützt es dir, wenn es dich auf der linken Seite findet[^bible-e53455fb-8f82-41d9-a426-ad5bfb3ff5e5]? Auch hier wünschst du dir also selbst Gutes, betest du für dich\. Das ersehnst du, das begehrst du im Gebet: so zu leben, dass du zum Reich Gottes gehörst, das allen Heiligen gegeben werden soll\. Du betest also für dich darum, gut zu leben, wenn du sagst: „Dein Reich komme\.[^bible-d52b8d0b-49cb-4c08-8f22-c0e071d0e93f] Mögen wir deinem Reich angehören; möge auch zu uns kommen, was zu deinen Heiligen und Gerechten kommen wird\.“
+
+## Bibelverweise
+
+[^bible-228937a4-13e3-4c03-b4ea-1937a637b591]: Mt 25,34
+[^bible-2955ad3b-d240-4251-99d0-f1739c999cca]: Mt 6,9
+[^bible-d52b8d0b-49cb-4c08-8f22-c0e071d0e93f]: Mt 6,10
+[^bible-e53455fb-8f82-41d9-a426-ad5bfb3ff5e5]: Mt 25,33
