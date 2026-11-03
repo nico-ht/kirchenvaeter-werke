@@ -1,0 +1,26 @@
+# Predigt 76 – Über den Herrn, der auf dem Wasser geht, und den zweifelnden Petrus – Kapitel 2: Petrus ist durch Gottes Offenbarung selig, wird aber wegen seines menschlichen Denkens Satan genannt
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-76-ueber-den-herrn-der-auf-dem-wasser-geht-und-den-zweifelnden-petrus#kapitel-1f250c68-5c60-40a8-1187-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Denn Menschen, die auf Menschen gebaut werden wollten, sagten: „Ich gehöre zu Paulus, ich aber zu Apollos, ich aber zu Kephas\.[^bible-b5fefe9b-3b45-418e-8f8b-58a7b2853f75]“ Das ist Petrus\. Andere aber, die nicht auf Petrus, sondern auf den Felsen gebaut werden wollten, sagten: „Ich aber gehöre zu Christus\.[^bible-b5fefe9b-3b45-418e-8f8b-58a7b2853f75]“ Als der Apostel Paulus nun erkannte, dass man sich für ihn entschied und Christus verachtete, sagte er: „Ist Christus geteilt? Wurde etwa Paulus für euch gekreuzigt? Oder seid ihr auf den Namen des Paulus getauft worden?[^bible-09223b66-2fd6-4524-a106-72eb047bd664]“ Wie nicht auf den Namen des Paulus, so auch nicht auf den des Petrus, sondern auf den Namen Christi, damit Petrus auf den Felsen gebaut würde, nicht der Fels auf Petrus\.
+
+Derselbe selige Petrus also, der seinen Namen vom Felsen hatte, die Kirche sinnbildlich darstellte und unter den Aposteln den Vorrang innehatte, hatte gerade erst gehört, dass er selig sei[^bible-82891ad8-7b0a-4877-91fd-badb0cb27175], gerade erst, dass er Petrus sei[^bible-e9ad9119-2a8c-404b-8b09-ddf719954ffa], gerade erst, dass er auf den Felsen gebaut werden sollte[^bible-e9ad9119-2a8c-404b-8b09-ddf719954ffa]\. Doch schon wenig später hörte er vom bevorstehenden Leiden des Herrn, denn dieser hatte seinen Jüngern vorausgesagt, dass es bald geschehen werde[^bible-7f1b8efe-5adc-4308-a334-0657e21fbbf4]\. Das missfiel ihm\. Er fürchtete, den durch den Tod zu verlieren, den er als Quelle des Lebens bekannt hatte\. Bestürzt sagte er: „Das sei fern von dir, Herr; das wird nicht geschehen\![^bible-08fa8f1a-ba6f-4b26-9501-4aca1efcef5c] Sei dir selbst gnädig, Gott[^bible-08fa8f1a-ba6f-4b26-9501-4aca1efcef5c]; ich will nicht, dass du stirbst\.“ Petrus sagte zu Christus: „Ich will nicht, dass du stirbst\.“ Christus aber sagte etwas Besseres: „Ich will für dich sterben\.“ „So wies er sogleich den zurecht, den er kurz zuvor gelobt hatte, und nannte den, den er selig genannt hatte, Satan\.[^bible-0665b7b1-ed72-4a2e-be33-173e156dbeee]“ Er sagte: „Tritt wieder hinter mich, Satan\! Du bist mir ein Hindernis; denn du hast nicht im Sinn, was Gottes ist, sondern was der Menschen ist\.[^bible-64fce3fd-9b54-4599-be31-9d9af5ceda68]“ Was will er aus uns machen, er, der uns so dafür tadelt, dass wir Menschen sind? Wollt ihr wissen, was er aus uns machen will? Hört den Psalm: „Ich habe gesagt: Ihr seid Götter und alle Söhne des Höchsten\.[^bible-e76faf3f-16d8-49dc-955f-a3d9a83868c7]“ Wenn ihr aber menschlich denkt, heißt es: „Ihr aber werdet wie Menschen sterben\.[^bible-2b14f27d-b609-46c3-9fe7-963baa053fac]“ Derselbe Petrus war kurz zuvor selig, danach Satan[^bible-0665b7b1-ed72-4a2e-be33-173e156dbeee], in einem einzigen Augenblick, innerhalb weniger Worte\. Du wunderst dich über die unterschiedlichen Bezeichnungen? Achte auf die unterschiedlichen Gründe\. Was wunderst du dich, dass er kurz zuvor selig war und danach Satan[^bible-0665b7b1-ed72-4a2e-be33-173e156dbeee]? Achte auf den Grund, weshalb er selig ist: „Weil nicht Fleisch und Blut dir das offenbart haben, sondern mein Vater im Himmel\.[^bible-82891ad8-7b0a-4877-91fd-badb0cb27175] Deshalb bist du selig, weil nicht Fleisch und Blut dir das offenbart haben[^bible-82891ad8-7b0a-4877-91fd-badb0cb27175]\. Denn hätten Fleisch und Blut dir das offenbart, dann stammte es von dir selbst\. Weil es dir aber nicht Fleisch und Blut offenbart haben, sondern mein Vater im Himmel[^bible-82891ad8-7b0a-4877-91fd-badb0cb27175], stammt es von mir, nicht von dir\. Warum von mir? Weil alles, was der Vater hat, mein ist[^bible-29d1460d-a728-4776-ad96-7cd2da76243d]\.“ Nun hast du den Grund gehört, weshalb er selig ist und weshalb er Petrus ist\. Warum aber jene Bezeichnung, vor der wir erschaudern und die wir nicht wiederholen wollen? Warum, wenn nicht deshalb, weil es von dir selbst stammt? „Denn du hast nicht im Sinn, was Gottes ist, sondern was der Menschen ist\.[^bible-64fce3fd-9b54-4599-be31-9d9af5ceda68]“
+
+## Bibelverweise
+
+[^bible-0665b7b1-ed72-4a2e-be33-173e156dbeee]: Mt 16,17; Mt 16,23
+[^bible-08fa8f1a-ba6f-4b26-9501-4aca1efcef5c]: Mt 16,22
+[^bible-09223b66-2fd6-4524-a106-72eb047bd664]: 1Kor 1,13
+[^bible-29d1460d-a728-4776-ad96-7cd2da76243d]: Joh 16,15
+[^bible-2b14f27d-b609-46c3-9fe7-963baa053fac]: Ps 81,7
+[^bible-64fce3fd-9b54-4599-be31-9d9af5ceda68]: Mt 16,23
+[^bible-7f1b8efe-5adc-4308-a334-0657e21fbbf4]: Mt 16,21
+[^bible-82891ad8-7b0a-4877-91fd-badb0cb27175]: Mt 16,17
+[^bible-b5fefe9b-3b45-418e-8f8b-58a7b2853f75]: 1Kor 1,12
+[^bible-e76faf3f-16d8-49dc-955f-a3d9a83868c7]: Ps 81,6
+[^bible-e9ad9119-2a8c-404b-8b09-ddf719954ffa]: Mt 16,18
