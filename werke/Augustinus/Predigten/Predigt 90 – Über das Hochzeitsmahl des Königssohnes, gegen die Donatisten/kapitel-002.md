@@ -1,0 +1,18 @@
+# Predigt 90 – Über das Hochzeitsmahl des Königssohnes, gegen die Donatisten – Kapitel 2: Auch die Apostel sind in gewisser Hinsicht böse, dürfen aber als Gottes Kinder auf das Erbe hoffen
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-90-ueber-das-hochzeitsmahl-des-koenigssohnes-gegen-die-donatisten#kapitel-fcf2f478-c7c8-4e53-11ff-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ich zweifle nicht daran, dass ihr, meine Lieben, hören wollt, wer diejenigen sind, denen ich in meiner Ansprache gesagt habe, sie sollten nicht draußen nach den Guten suchen, sondern drinnen die Bösen ertragen\. Wenn drinnen alle böse sind, wen habe ich dann angesprochen? Wenn aber drinnen alle gut sind, wen habe ich dann ermahnt, die Bösen zu ertragen? Versuchen wir also zunächst, diese Frage mit der Hilfe des Herrn so gut wie möglich zu lösen\. Wenn du das Gute bis ins Letzte und in aller Klarheit betrachtest, ist niemand gut außer dem einen Gott[^bible-a752aa61-6c1c-4940-b484-284eea80e8c4]\. Du hörst den Herrn ganz ausdrücklich sagen: „Was fragst du mich nach dem Guten? Niemand ist gut außer dem einen Gott\.[^bible-a752aa61-6c1c-4940-b484-284eea80e8c4]“ Wie können also bei jener Hochzeit Gute und Böse sein[^bible-fa589aef-c70c-4767-a5cc-b2dda66ab1b5], wenn niemand gut ist außer dem einen Gott[^bible-a752aa61-6c1c-4940-b484-284eea80e8c4]? Zunächst müsst ihr wissen, dass wir alle in einer bestimmten Hinsicht böse sind\. Ja, in einer bestimmten Hinsicht sind wir alle böse; in einer bestimmten Hinsicht aber sind wir nicht alle gut\. Können wir uns denn mit den Aposteln vergleichen? Zu ihnen sagt der Herr selbst: „Wenn also ihr, obwohl ihr böse seid, euren Kindern gute Gaben zu geben wisst[^bible-3f25164a-d123-46a5-8f2e-aebcd1dcbeb5]“\. Wenn wir die Schriften betrachten, sehen wir, dass unter den zwölf Aposteln nur einer böse war[^bible-2efde178-2892-4c88-89ac-c729ca3ac83f], um dessentwillen der Herr an einer Stelle sagt: „Auch ihr seid rein, aber nicht alle\.[^bible-cb443086-62e3-45f3-8a0a-a0fc190f904c]“ Dennoch sprach er alle gemeinsam an und sagte: „Wenn ihr, obwohl ihr böse seid[^bible-3f25164a-d123-46a5-8f2e-aebcd1dcbeb5]“\. Das hörte Petrus, das hörte Johannes, das hörte Andreas, das hörten auch alle übrigen der elf Apostel\. Was hörten sie? „Ihr wisst, obwohl ihr böse seid, euren Kindern gute Gaben zu geben\. Wie viel mehr wird euer Vater, der im Himmel ist, denen Gutes geben, die ihn bitten?[^bible-3f25164a-d123-46a5-8f2e-aebcd1dcbeb5]“ Als sie hörten, dass sie böse seien[^bible-3f25164a-d123-46a5-8f2e-aebcd1dcbeb5], verzweifelten sie; als sie hörten, dass Gott im Himmel ihr Vater sei[^bible-3f25164a-d123-46a5-8f2e-aebcd1dcbeb5], atmeten sie auf\. „Obwohl ihr böse seid[^bible-3f25164a-d123-46a5-8f2e-aebcd1dcbeb5]“, sagt er\. Was also steht den Bösen zu außer Strafe? „Wie viel mehr[^bible-3f25164a-d123-46a5-8f2e-aebcd1dcbeb5]“, sagt er, „euer Vater, der im Himmel ist?[^bible-3f25164a-d123-46a5-8f2e-aebcd1dcbeb5]“ Was steht den Söhnen zu außer Lohn? In der Bezeichnung als Böse liegt die Furcht vor Strafen, in der Bezeichnung als Söhne die Hoffnung der Erben\.
+
+## Bibelverweise
+
+[^bible-2efde178-2892-4c88-89ac-c729ca3ac83f]: Joh 13,10–Joh 13,11
+[^bible-3f25164a-d123-46a5-8f2e-aebcd1dcbeb5]: Mt 7,11
+[^bible-a752aa61-6c1c-4940-b484-284eea80e8c4]: Mt 19,17
+[^bible-cb443086-62e3-45f3-8a0a-a0fc190f904c]: Joh 13,10
+[^bible-fa589aef-c70c-4767-a5cc-b2dda66ab1b5]: Mt 22,10
