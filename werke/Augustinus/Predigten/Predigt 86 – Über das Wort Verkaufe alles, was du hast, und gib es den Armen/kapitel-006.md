@@ -1,0 +1,10 @@
+# Predigt 86 – Über das Wort: Verkaufe alles, was du hast, und gib es den Armen – Kapitel 6: Habgier und Genusssucht locken mit gegensätzlichen Forderungen: Spare für später oder genieße jetzt
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-86-ueber-das-wort-verkaufe-alles-was-du-hast-und-gib-es-den-armen#kapitel-a401071b-b06a-4299-11cd-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Manchmal nehmen zwei gegensätzliche Herrinnen einen Menschen in Besitz: Habgier und Genusssucht\. Die Habgier sagt: „Spare\!“ Die Genusssucht sagt: „Gib aus\!“ Was wirst du unter zwei Herrinnen tun, die Verschiedenes befehlen und Verschiedenes fordern? Beide wissen dir zuzureden\. Und wenn du anfängst, ihnen den Gehorsam zu verweigern und in die Freiheit aufzubrechen, schmeicheln sie dir, weil sie dir nicht befehlen können\. Vor ihren Schmeicheleien aber muss man sich mehr hüten als vor ihren Befehlen\. Was sagt die Habgier? „Spare für dich, spare für deine Kinder\. Wenn du in Not gerätst, wird dir niemand etwas geben\. Lebe nicht nur für den Augenblick, sorge für deine Zukunft vor\.“ Die Genusssucht dagegen sagt: „Lebe, solange du lebst, und lass es dir gut gehen\. Du wirst sterben und weißt nicht, wann\. Ob derjenige, dem du es hinterlassen wirst, es auch besitzen wird, weißt du nicht\. Du schränkst dich ein und sparst es dir vom Mund ab\. Er wird dir nach deinem Tod vielleicht nicht einmal einen Becher auf dein Grab stellen\. Oder wenn er doch einen Becher hinstellt, wird er sich selbst betrinken; zu dir wird kein Tropfen hinabgelangen\. Lass es dir also gut gehen, solange du kannst, solange es dir möglich ist\.“ Das eine befahl die Habgier: „Spare für dich, sorge für deine Zukunft vor\.“ Das andere die Genusssucht: „Gib aus, lass es dir gut gehen\.“
