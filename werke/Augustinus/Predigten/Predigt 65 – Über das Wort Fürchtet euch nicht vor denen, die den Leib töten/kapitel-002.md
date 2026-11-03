@@ -1,0 +1,17 @@
+# Predigt 65 – Über das Wort: Fürchtet euch nicht vor denen, die den Leib töten – Kapitel 2: Der Verfolger kann die Seele nicht töten; der Leib des standhaften Märtyrers wird unsterblich auferstehen
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-65-ueber-das-wort-fuerchtet-euch-nicht-vor-denen-die-den-leib-toeten#kapitel-71b4c017-df49-42d1-113b-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+So soll nun der überaus standhafte Märtyrer sprechen, der als Mensch vor einem Menschen steht: „Ich fürchte mich nicht, weil ich mich fürchte\. Was du mir androhst, kannst du nicht tun, wenn er es nicht will\. Ihn aber kann niemand daran hindern, seine Drohung wahrzumachen\. Und selbst wenn dir erlaubt wird, deine Drohung wahrzumachen: Was tust du dann? Dein Wüten reicht nur bis zum Fleisch; die Seele ist sicher\.[^bible-45776b60-d30d-4788-acff-fe823c77a2c0] Du wirst nicht töten, was du nicht siehst\. Als sichtbarer Mensch bedrohst du einen sichtbaren Menschen\. Wir beide haben einen unsichtbaren Schöpfer, den wir gemeinsam fürchten sollen\. Er hat den Menschen selbst aus Sichtbarem und Unsichtbarem geschaffen: Das Sichtbare an ihm machte er aus Erde, das Unsichtbare belebte er durch seinen Atem\.[^bible-e0066f5f-fb16-4f55-b7c9-fda89c6edacc] Die unsichtbare Substanz also, nämlich die Seele, die die daliegende Erde vom Boden aufgerichtet hat, fürchtet sich nicht, wenn du auf die Erde einschlägst\. Du kannst die Behausung treffen, aber etwa auch ihren Bewohner? Wird die Fessel zerschlagen, entflieht der Gefesselte und wird im Verborgenen gekrönt werden\. Warum drohst du also, der du der Seele nichts antun kannst[^bible-45776b60-d30d-4788-acff-fe823c77a2c0]? Durch das Verdienst dessen, dem du nichts antun kannst, wird das auferstehen, dem du etwas antun kannst\. Denn durch das Verdienst der Seele wird auch das Fleisch auferstehen und seinem Bewohner zurückgegeben werden\. Es wird dann nicht mehr verfallen, sondern Bestand haben\.“ Seht, ich gebe die Worte des Märtyrers wieder: „Seht, ich fürchte den nicht, der mir droht, nicht einmal, wenn es um mein Fleisch geht\. Mein Fleisch ist der Macht unterworfen; doch beim Schöpfer sind sogar die Haare auf meinem Kopf gezählt[^bible-477788ea-d64c-4336-b23e-3c3a0d571461]\. Warum sollte ich fürchten, mein Fleisch zu verlieren, wenn ich nicht einmal ein Haar verliere[^bible-9b984629-0967-4918-abbb-ecc7293c56b8]? Wie sollte er mein Fleisch nicht beachten, wenn ihm selbst das Geringste an mir so genau bekannt ist? Dieser Körper selbst, den man schlagen und töten kann, wird eine Zeit lang Asche sein, in Ewigkeit aber unsterblich\.“ Doch für wen gilt das? Wem wird der Körper zum ewigen Leben zurückgegeben, selbst wenn er getötet, vernichtet und zerstreut worden ist? Wem wird er zurückgegeben? Dem, der sich nicht gefürchtet hat, sein Leben hinzugeben, weil er nicht fürchtet, dass sein Fleisch getötet wird[^bible-45776b60-d30d-4788-acff-fe823c77a2c0]\.
+
+## Bibelverweise
+
+[^bible-45776b60-d30d-4788-acff-fe823c77a2c0]: Mt 10,28
+[^bible-477788ea-d64c-4336-b23e-3c3a0d571461]: Mt 10,30
+[^bible-9b984629-0967-4918-abbb-ecc7293c56b8]: Lk 21,18
+[^bible-e0066f5f-fb16-4f55-b7c9-fda89c6edacc]: Gen 2,7
