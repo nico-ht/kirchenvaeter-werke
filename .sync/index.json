@@ -249,7 +249,7 @@
     "authorName": "Apostel Barnabas",
     "title": "Barnabasbrief",
     "directory": "werke/Apostel Barnabas/Barnabasbrief",
-    "contentRevision": "sha256:d15d23977702aa0df0c035e4fc42c9b1962afde0efe672d22522b7f3b3572e47"
+    "contentRevision": "sha256:e7542c63e6f81f82cd38451639377fb5772f964b6765657a455de57ae0c2a404"
   },
   {
     "workId": "d0b84c3a-620a-455f-6745-08dd08ce8c1c",
@@ -504,6 +504,13 @@
     "contentRevision": "sha256:3bfd03ea127a7ec4cd49eed267ba7025f5c6454d8beeb44245a83d0debcf3fd9"
   },
   {
+    "workId": "5fefd3ac-8b39-4f6d-4b2d-08df38325ec5",
+    "authorName": "Augustinus",
+    "title": "Fragen zu den Evangelien, Buch 1: Fragen zu Matthäus",
+    "directory": "werke/Augustinus/Fragen zu den Evangelien, Buch 1 Fragen zu Matthäus",
+    "contentRevision": "sha256:d8c3fd50cb9bb47888baa7f74cfb0cd05addd43a70a475ae35d683b22a0d7ce1"
+  },
+  {
     "workId": "b65ec6d2-6dd8-4349-c3ab-08df346fe1ab",
     "authorName": "Augustinus",
     "title": "Fragen zum Heptateuch, Buch 1: Fragen zur Genesis",
@@ -546,11 +553,144 @@
     "contentRevision": "sha256:0b8b4119f98e6ba0a93ec12fb6cf78e18d0bf6e77661031958d3570b8ccb9fba"
   },
   {
+    "workId": "09d6781f-263f-4f19-61a0-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 51 – Über die Übereinstimmung der Evangelisten Matthäus und Lukas in den Stammbäumen des Herrn",
+    "directory": "werke/Augustinus/Predigten/Predigt 51 – Über die Übereinstimmung der Evangelisten Matthäus und Lukas in den Stammbäumen des Herrn",
+    "contentRevision": "sha256:db363b216b53e1a68cc632140418f1dad34a230632a1f65395d2c59133bdee97"
+  },
+  {
+    "workId": "35c2cede-becb-4e27-61a1-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 52 – Über die Taufe Jesu im Jordan und die Dreifaltigkeit",
+    "directory": "werke/Augustinus/Predigten/Predigt 52 – Über die Taufe Jesu im Jordan und die Dreifaltigkeit",
+    "contentRevision": "sha256:62667c6edd16202b8ddf5493905613bab9f974d099267112153573695904e10f"
+  },
+  {
+    "workId": "cf7b95f8-30ce-438d-61a2-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 53 – Über die Seligpreisungen, besonders: Selig, die reinen Herzens sind",
+    "directory": "werke/Augustinus/Predigten/Predigt 53 – Über die Seligpreisungen, besonders Selig, die reinen Herzens sind",
+    "contentRevision": "sha256:fd77e99fbbb8851ad0bfbbe23e38e70005634e50c45db33751aaac0f65d4fad9"
+  },
+  {
+    "workId": "f4efb64e-873f-4ad9-61a3-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 54 – Über das Wort: So soll euer Licht vor den Menschen leuchten",
+    "directory": "werke/Augustinus/Predigten/Predigt 54 – Über das Wort So soll euer Licht vor den Menschen leuchten",
+    "contentRevision": "sha256:343789f5ccfe0f59d9e75470f9869fb90c2359b19956696508aed3b287c7cea1"
+  },
+  {
+    "workId": "1ffaeb6f-4dd9-4388-61a4-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 55 – Über das Wort: Wer zu seinem Bruder sagt: Du Narr",
+    "directory": "werke/Augustinus/Predigten/Predigt 55 – Über das Wort Wer zu seinem Bruder sagt Du Narr",
+    "contentRevision": "sha256:20451a8f9de2d6bad0cc9729a760cc4aa6c1afe5b1d46b0300eff1551d3d8b69"
+  },
+  {
+    "workId": "da0f32ae-92a4-4654-61a5-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 56 – Über das Gebet des Herrn, an die Taufbewerber",
+    "directory": "werke/Augustinus/Predigten/Predigt 56 – Über das Gebet des Herrn, an die Taufbewerber",
+    "contentRevision": "sha256:5730310aad7f2dcf15c1fff1b0423c34501716c8828968559a2cb8bbf72ebff2"
+  },
+  {
+    "workId": "4d901ff9-125b-424d-61a6-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 57 – Zweite Predigt über das Gebet des Herrn, an die Taufbewerber",
+    "directory": "werke/Augustinus/Predigten/Predigt 57 – Zweite Predigt über das Gebet des Herrn, an die Taufbewerber",
+    "contentRevision": "sha256:de64784689957c5028c849283a7ca2432b9b6204ed0207eb434b941c81cd3217"
+  },
+  {
+    "workId": "10da97a6-eee4-4b00-61a7-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 58 – Dritte Predigt über das Gebet des Herrn, an die Taufbewerber",
+    "directory": "werke/Augustinus/Predigten/Predigt 58 – Dritte Predigt über das Gebet des Herrn, an die Taufbewerber",
+    "contentRevision": "sha256:f73fbc3f9afe9133436506e700d85ca224acea15ffe14e6039e9986e97a1c6c6"
+  },
+  {
+    "workId": "68c6ec61-512d-4b82-61a8-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 59 – Vierte Predigt über das Gebet des Herrn, an die Taufbewerber",
+    "directory": "werke/Augustinus/Predigten/Predigt 59 – Vierte Predigt über das Gebet des Herrn, an die Taufbewerber",
+    "contentRevision": "sha256:3dde0a20d1e02b39422919b166c22e503e02657ae2d8b64114d59174a0fe42b1"
+  },
+  {
     "workId": "ae4ca984-ebee-4e4d-ef9b-08df374b6d26",
     "authorName": "Augustinus",
     "title": "Predigt 6 – Über die Erscheinung des Herrn vor Mose im Dornbusch",
     "directory": "werke/Augustinus/Predigten/Predigt 6 – Über die Erscheinung des Herrn vor Mose im Dornbusch",
     "contentRevision": "sha256:36303dad983c7b389d4008c6a4cbdae79af81b09326849c94d37832d3391e114"
+  },
+  {
+    "workId": "8de0a77a-3b18-4d1e-61a9-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 60 – Über das Wort: Sammelt euch keine Schätze auf Erden",
+    "directory": "werke/Augustinus/Predigten/Predigt 60 – Über das Wort Sammelt euch keine Schätze auf Erden",
+    "contentRevision": "sha256:ec8bcabf7b03daedf8b8555cc43050f2d1dd94b7c4deec3e86d78e45d189daa6"
+  },
+  {
+    "workId": "57d6e04f-7525-4df0-61aa-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 61 – Über das Wort: Bittet, so wird euch gegeben",
+    "directory": "werke/Augustinus/Predigten/Predigt 61 – Über das Wort Bittet, so wird euch gegeben",
+    "contentRevision": "sha256:8c6d7eda53e83649da3043f1245045aefef0900d16a9ecd1f145c30032f3aa52"
+  },
+  {
+    "workId": "a5888c2d-d80b-4ada-61ab-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 62 – Über das Wort des Hauptmanns: Ich bin nicht würdig",
+    "directory": "werke/Augustinus/Predigten/Predigt 62 – Über das Wort des Hauptmanns Ich bin nicht würdig",
+    "contentRevision": "sha256:4c9a3541533bea39255bb9280c227ffc7a4757eb357d2097e11165852610ada5"
+  },
+  {
+    "workId": "02d6c691-ee9d-4a71-61ac-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 63 – Über den Sturm auf dem See",
+    "directory": "werke/Augustinus/Predigten/Predigt 63 – Über den Sturm auf dem See",
+    "contentRevision": "sha256:d28cdf1e31757dd7861092ac1383f7a0652975c87885b8779fb96cdca2c5342c"
+  },
+  {
+    "workId": "4c7f72ec-8b13-40ab-61ad-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 64 – Über das Wort: Siehe, ich sende euch wie Schafe mitten unter die Wölfe",
+    "directory": "werke/Augustinus/Predigten/Predigt 64 – Über das Wort Siehe, ich sende euch wie Schafe mitten unter die Wölfe",
+    "contentRevision": "sha256:ce51afff1bfa85d29e20e06d39afa9f62214003b6366d75bbae18a151f9a49ab"
+  },
+  {
+    "workId": "554e6cb8-8347-4135-61ae-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 65 – Über das Wort: Fürchtet euch nicht vor denen, die den Leib töten",
+    "directory": "werke/Augustinus/Predigten/Predigt 65 – Über das Wort Fürchtet euch nicht vor denen, die den Leib töten",
+    "contentRevision": "sha256:2f2620659ed036c12660ba0884d570c3a7c6402e01b5203389598363a97fc516"
+  },
+  {
+    "workId": "263922d1-bbb2-435a-61af-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 66 – Über die Frage des Johannes: Bist du es, der kommen soll?",
+    "directory": "werke/Augustinus/Predigten/Predigt 66 – Über die Frage des Johannes Bist du es, der kommen soll",
+    "contentRevision": "sha256:f1b1cbb17fddacc43cab3d5844002558e32a708fe53f00e274aa700da78e0b1a"
+  },
+  {
+    "workId": "5ebbed63-20a9-4a87-61b0-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 67 – Über das Wort: Ich preise dich, Vater, Herr des Himmels und der Erde",
+    "directory": "werke/Augustinus/Predigten/Predigt 67 – Über das Wort Ich preise dich, Vater, Herr des Himmels und der Erde",
+    "contentRevision": "sha256:5ec98f79cd04a199dccab0dd7c5441a14292b5553294cf1a98100d1411fc07d9"
+  },
+  {
+    "workId": "10b08105-c8d1-49c6-61b1-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 68 – Zweite Predigt über das Wort: Ich preise dich, Vater",
+    "directory": "werke/Augustinus/Predigten/Predigt 68 – Zweite Predigt über das Wort Ich preise dich, Vater",
+    "contentRevision": "sha256:df66d3db4c3f1db167a31d71c55f183e35ca125ba89bc47f281cfd443ca48e2d"
+  },
+  {
+    "workId": "d1ccf08a-1fb1-4cef-61b2-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 69 – Über das Wort: Kommt zu mir, alle, die ihr mühselig und beladen seid",
+    "directory": "werke/Augustinus/Predigten/Predigt 69 – Über das Wort Kommt zu mir, alle, die ihr mühselig und beladen seid",
+    "contentRevision": "sha256:34b5616c0f85f38c91c4bef9e5af8d662a6b5cc70f86ad484374f158e50c8828"
   },
   {
     "workId": "437a4f45-7731-47a9-ef9c-08df374b6d26",
@@ -560,6 +700,76 @@
     "contentRevision": "sha256:39d92d8bf830a3822ccbb54935885c3e80bee4452c8f6607ed66bad71e2e4bf8"
   },
   {
+    "workId": "09cfc7f8-900f-4824-61b3-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 70 – Zweite Predigt über das Wort: Kommt zu mir, alle",
+    "directory": "werke/Augustinus/Predigten/Predigt 70 – Zweite Predigt über das Wort Kommt zu mir, alle",
+    "contentRevision": "sha256:f8064bb8f02a1c8c8fa0fde78330673df6a542e2d7902cb29cae3ddbb8bc3601"
+  },
+  {
+    "workId": "90c903c1-4f91-41cc-61b4-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 71 – Über die Lästerung gegen den Heiligen Geist",
+    "directory": "werke/Augustinus/Predigten/Predigt 71 – Über die Lästerung gegen den Heiligen Geist",
+    "contentRevision": "sha256:52a58e875a8ddaeae4733eae45e596521ccbe040951e0daf97cf462834456f69"
+  },
+  {
+    "workId": "02070190-ef76-4130-61b5-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 72 – Über das Wort: Pflanzt einen guten Baum",
+    "directory": "werke/Augustinus/Predigten/Predigt 72 – Über das Wort Pflanzt einen guten Baum",
+    "contentRevision": "sha256:fea97ba9d0ec0760094de2fafe2211b0ea2160aef828db2a03b077c798569377"
+  },
+  {
+    "workId": "6070f0c1-e290-4e59-61b6-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 73 – Über das Gleichnis vom Unkraut unter dem Weizen",
+    "directory": "werke/Augustinus/Predigten/Predigt 73 – Über das Gleichnis vom Unkraut unter dem Weizen",
+    "contentRevision": "sha256:0f6a8a8423c744869641e2eec8ccab157b6302c870399a792b524219f1262fc2"
+  },
+  {
+    "workId": "1e41a4a4-b98d-4b0d-61b7-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 74 – Über den Schriftgelehrten, der für das Himmelreich geschult ist",
+    "directory": "werke/Augustinus/Predigten/Predigt 74 – Über den Schriftgelehrten, der für das Himmelreich geschult ist",
+    "contentRevision": "sha256:9012c2f6a3eec9ad2929d9d3c1cb6197ea9ec04a9cc432d362b0f8ae96d7b107"
+  },
+  {
+    "workId": "94f934ee-d8a0-4a72-61b8-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 75 – Über das Schiff im Sturm und den Herrn, der auf dem Wasser geht",
+    "directory": "werke/Augustinus/Predigten/Predigt 75 – Über das Schiff im Sturm und den Herrn, der auf dem Wasser geht",
+    "contentRevision": "sha256:d2e2c84cfd2a2acd6e2a614fdd4c7fa2f4f99f053984ab9c2db37619389fd642"
+  },
+  {
+    "workId": "b650dbb5-16f1-4e9d-61b9-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 76 – Über den Herrn, der auf dem Wasser geht, und den zweifelnden Petrus",
+    "directory": "werke/Augustinus/Predigten/Predigt 76 – Über den Herrn, der auf dem Wasser geht, und den zweifelnden Petrus",
+    "contentRevision": "sha256:c8d0e4540c162b27a12ad9381164cfa6ca3203c580f4380ca983ab861b64f5dd"
+  },
+  {
+    "workId": "6f2d1a4a-59eb-48d0-61ba-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 77 – Über die kanaanäische Frau",
+    "directory": "werke/Augustinus/Predigten/Predigt 77 – Über die kanaanäische Frau",
+    "contentRevision": "sha256:b531175307b70dc239aa89d28858d7c4606bdba930ebdf35626db9ef5c54ced4"
+  },
+  {
+    "workId": "97fe530d-9dd9-44a7-61bb-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 78 – Über die Verklärung des Herrn",
+    "directory": "werke/Augustinus/Predigten/Predigt 78 – Über die Verklärung des Herrn",
+    "contentRevision": "sha256:4867692baaad842beca352ddf11e8ef42e8c2304d4f11fd733ab88a90d28820f"
+  },
+  {
+    "workId": "23b20f8f-935b-4838-61bc-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 79 – Zweite Predigt über die Verklärung des Herrn",
+    "directory": "werke/Augustinus/Predigten/Predigt 79 – Zweite Predigt über die Verklärung des Herrn",
+    "contentRevision": "sha256:616e6a8528c25658b27f1f0866c5a886afa9046b53d3f3be0ecfc462d77b77aa"
+  },
+  {
     "workId": "d6c1c69a-ac5a-4e98-ef9d-08df374b6d26",
     "authorName": "Augustinus",
     "title": "Predigt 8 – Über die zehn Plagen und die zehn Gebote (Fragment)",
@@ -567,11 +777,116 @@
     "contentRevision": "sha256:4e6832330fa79f624f7268a28bdccbf51b7b9635e91381f2941de95cd5a579c0"
   },
   {
+    "workId": "82978f68-c4e5-4f6f-61bd-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 80 – Über das Wort: Warum konnten wir ihn nicht austreiben? Vom Gebet",
+    "directory": "werke/Augustinus/Predigten/Predigt 80 – Über das Wort Warum konnten wir ihn nicht austreiben Vom Gebet",
+    "contentRevision": "sha256:312005b2c390a95648fc2097cb6d317856113231b45200984b08e67450952700"
+  },
+  {
+    "workId": "f824ed6b-69ba-4129-61be-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 81 – Über die Warnung vor den Ärgernissen der Welt",
+    "directory": "werke/Augustinus/Predigten/Predigt 81 – Über die Warnung vor den Ärgernissen der Welt",
+    "contentRevision": "sha256:d421c056f9a3468244962083f7e02fef79d3e514f9d58b566256bb409bc3c537"
+  },
+  {
+    "workId": "1654070f-d61a-4845-61bf-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 82 – Über die brüderliche Zurechtweisung",
+    "directory": "werke/Augustinus/Predigten/Predigt 82 – Über die brüderliche Zurechtweisung",
+    "contentRevision": "sha256:0a07bd205294023f08d158611eae437e8b92c9f17308337a3681baadc7170d83"
+  },
+  {
+    "workId": "2a2fcd7e-aefe-46fb-61c0-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 83 – Über das Wort: Wie oft soll ich meinem Bruder vergeben?",
+    "directory": "werke/Augustinus/Predigten/Predigt 83 – Über das Wort Wie oft soll ich meinem Bruder vergeben",
+    "contentRevision": "sha256:8ccbfb6aebf69db5b45ec65d576fa6b7f165be6cf3afd54353c610e5cf46afc2"
+  },
+  {
+    "workId": "e5b1ff8e-cf02-4d02-61c1-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 84 – Über das Wort: Willst du zum Leben eingehen, so halte die Gebote",
+    "directory": "werke/Augustinus/Predigten/Predigt 84 – Über das Wort Willst du zum Leben eingehen, so halte die Gebote",
+    "contentRevision": "sha256:5aaaf904465c9f306ce2c64b4ce606393e3b03c65323dffd4efc3e8ff1500416"
+  },
+  {
+    "workId": "75bcdb4a-97e3-49d5-61c2-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 85 – Über den reichen Jüngling",
+    "directory": "werke/Augustinus/Predigten/Predigt 85 – Über den reichen Jüngling",
+    "contentRevision": "sha256:2aacc950de6c60cfb446e15d3602770dd812fd5efbea094ed821063fdabfbf54"
+  },
+  {
+    "workId": "4c9bace4-c9a6-4793-61c3-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 86 – Über das Wort: Verkaufe alles, was du hast, und gib es den Armen",
+    "directory": "werke/Augustinus/Predigten/Predigt 86 – Über das Wort Verkaufe alles, was du hast, und gib es den Armen",
+    "contentRevision": "sha256:87989a5129c55f6538eb7d7abf1bec682accc27cb03d62923575749d337d629d"
+  },
+  {
+    "workId": "1a27aea4-9f44-4db5-61c4-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 87 – Über die Arbeiter im Weinberg",
+    "directory": "werke/Augustinus/Predigten/Predigt 87 – Über die Arbeiter im Weinberg",
+    "contentRevision": "sha256:5f75f17fb5e01404a732ed2cef5a0decad71ec50cefe2301adb219e2064d6d91"
+  },
+  {
+    "workId": "0b6d2e71-a6d0-4009-61c5-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 88 – Über die zwei Blinden am Weg",
+    "directory": "werke/Augustinus/Predigten/Predigt 88 – Über die zwei Blinden am Weg",
+    "contentRevision": "sha256:3b9fe12f74e291eefdebc3db7e024c64f46ea2a50be3b9b3c3dcef828fd7f3aa"
+  },
+  {
+    "workId": "e012adaf-884f-418a-61c6-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 89 – Über den verdorrten Feigenbaum",
+    "directory": "werke/Augustinus/Predigten/Predigt 89 – Über den verdorrten Feigenbaum",
+    "contentRevision": "sha256:9f575ba7264a2885e6c413a8f2fb7eb308b8dc725216a49cd337c4fa1f6b0223"
+  },
+  {
     "workId": "b8561656-912d-451d-f47d-08df20dbadcf",
     "authorName": "Augustinus",
     "title": "Predigt 9 – Über die zehn Saiten",
     "directory": "werke/Augustinus/Predigten/Predigt 9 – Über die zehn Saiten",
     "contentRevision": "sha256:0577d9999c3beb7ffd40b9f2eba51c4f65a8edb82ab36f2b6613787cad9a6fb7"
+  },
+  {
+    "workId": "66786ebb-4b69-44e6-61c7-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 90 – Über das Hochzeitsmahl des Königssohnes, gegen die Donatisten",
+    "directory": "werke/Augustinus/Predigten/Predigt 90 – Über das Hochzeitsmahl des Königssohnes, gegen die Donatisten",
+    "contentRevision": "sha256:7432d8d3e7438392bb0a77e9ad75dc3313c7bc199c8cee6a394a667e45fabfc9"
+  },
+  {
+    "workId": "d2ebfc5d-e27b-461f-61c8-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 91 – Über die Frage: Wessen Sohn ist der Christus?",
+    "directory": "werke/Augustinus/Predigten/Predigt 91 – Über die Frage Wessen Sohn ist der Christus",
+    "contentRevision": "sha256:f42d3c7365f04b3d12deff2f6bd2080a3c6c672fd605a0bc67760008258fd049"
+  },
+  {
+    "workId": "6ceb0e5a-484c-4f4b-61c9-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 92 – Zweite Predigt über die Frage: Wessen Sohn ist der Christus?",
+    "directory": "werke/Augustinus/Predigten/Predigt 92 – Zweite Predigt über die Frage Wessen Sohn ist der Christus",
+    "contentRevision": "sha256:f876213c106796259cdf182fd6631ed74e6528a24cbd284b3fd88946f895f9bd"
+  },
+  {
+    "workId": "d70c5b01-2e85-4296-61ca-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 93 – Über die zehn Jungfrauen",
+    "directory": "werke/Augustinus/Predigten/Predigt 93 – Über die zehn Jungfrauen",
+    "contentRevision": "sha256:292e4678b4fa538238c4e23a04bde566d3bc713326228598d42c95d4edf6d9a0"
+  },
+  {
+    "workId": "34774b47-73e2-4e52-61cb-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Predigt 94 – Über den faulen Knecht, der sein Talent vergrub",
+    "directory": "werke/Augustinus/Predigten/Predigt 94 – Über den faulen Knecht, der sein Talent vergrub",
+    "contentRevision": "sha256:d3323965afb923844311de594c96171d88ddc579e405ef4be2d445a12b27aafd"
   },
   {
     "workId": "fbd60f17-9eed-44b9-ef79-08df374b6d26",
@@ -628,6 +943,13 @@
     "title": "Über den christlichen Kampf (De agone christiano)",
     "directory": "werke/Augustinus/Über den christlichen Kampf (De agone christiano)",
     "contentRevision": "sha256:da0c9affe2a7ee3415fbfbe474b409fb7da89a1515bc37c471a9cf3edc569091"
+  },
+  {
+    "workId": "cab3b610-e606-4d32-61cc-08df382da9a2",
+    "authorName": "Augustinus",
+    "title": "Über die Bergpredigt des Herrn, Buch 1",
+    "directory": "werke/Augustinus/Über die Bergpredigt des Herrn/Über die Bergpredigt des Herrn, Buch 1",
+    "contentRevision": "sha256:62bd1f5db2fabb054e7a0478fb50237f99e50a6314c9d8d17123a200f4223763"
   },
   {
     "workId": "73d18b68-3f9c-4f2e-21c9-08df23296889",
@@ -1253,6 +1575,13 @@
     "contentRevision": "sha256:8e76979cd0fdf87d03a3b943267c9d9ecc20e670f2e0d705f0ef842735a03c45"
   },
   {
+    "workId": "179ca801-5097-4591-914a-08df200aaa32",
+    "authorName": "Gaudentius von Brescia",
+    "title": "1. Predigt",
+    "directory": "werke/Gaudentius von Brescia/1. Predigt",
+    "contentRevision": "sha256:7f289b05ab2e84a1f146e6b3f286229ea06c97369f9fc09c7f98e80898216bfa"
+  },
+  {
     "workId": "2a2a08bc-3637-4e70-9ecf-08decdc97fd2",
     "authorName": "Gaudentius von Brescia",
     "title": "10. Predigt",
@@ -1272,6 +1601,13 @@
     "title": "3. Predigt",
     "directory": "werke/Gaudentius von Brescia/Predigten/3. Predigt",
     "contentRevision": "sha256:0387998197fbfe98330f6f5559090a7dc7ed4cf1e03ac11ce631df821dcc9ba6"
+  },
+  {
+    "workId": "e60384ff-88e2-42b0-914c-08df200aaa32",
+    "authorName": "Gaudentius von Brescia",
+    "title": "4. Predigt",
+    "directory": "werke/Gaudentius von Brescia/4. Predigt",
+    "contentRevision": "sha256:721e0806d6dd1d895e929e2092b8be17e8be14aac6ea1a8e28a95a1470d26da6"
   },
   {
     "workId": "6e53d559-a751-4e7b-ef98-08df374b6d26",
@@ -1344,6 +1680,13 @@
     "contentRevision": "sha256:ab5c2f5a9133819ad4c712cfe23c50a40b1c08ee27b8728d47ce2b5a2dc84880"
   },
   {
+    "workId": "ea24d8fc-2cfc-4cdd-0d17-08deaac01ae8",
+    "authorName": "Gregor von Nazianz",
+    "title": "45. Rede",
+    "directory": "werke/Gregor von Nazianz/Reden/45. Rede",
+    "contentRevision": "sha256:434fa4bc00be5a7fc9613c58e87f1192a426fe86189a52ce666747e68073b369"
+  },
+  {
     "workId": "834c85f9-3876-4433-b0da-08defd4c3bc2",
     "authorName": "Gregor von Nazianz",
     "title": "An Hellenius - Mahnung zugunsten der Mönche",
@@ -1393,6 +1736,13 @@
     "contentRevision": "sha256:a8d4d1a74048a329f8e357419499891217dc0dd46bbae86bb86db1e26a48bfe8"
   },
   {
+    "workId": "b093dd41-cbbb-4723-6199-08df382da9a2",
+    "authorName": "Gregor von Nyssa",
+    "title": "Achte Homilie über die Seligpreisungen",
+    "directory": "werke/Gregor von Nyssa/Achte Homilie über die Seligpreisungen",
+    "contentRevision": "sha256:df6671afa25dc7ec79c1e963b0db8b2f4bdc7af81d3ad174aa500dee570f7507"
+  },
+  {
     "workId": "0c49507c-0e74-4ec0-885e-08df34555aa5",
     "authorName": "Gregor von Nyssa",
     "title": "Apologie zum Hexaemeron",
@@ -1414,11 +1764,88 @@
     "contentRevision": "sha256:5dbef2c0e6b92811487c4a2de36de2dea3ec64b7c0a7969c660b05b1b8b038bf"
   },
   {
+    "workId": "413b3244-da55-478b-619c-08df382da9a2",
+    "authorName": "Gregor von Nyssa",
+    "title": "Dritte Homilie zum Vaterunser",
+    "directory": "werke/Gregor von Nyssa/Dritte Homilie zum Vaterunser",
+    "contentRevision": "sha256:982a1ed901995611666150c875052aad0c050147dcf600d6be121cee9dd66e93"
+  },
+  {
+    "workId": "dd77e52e-b303-4abb-6194-08df382da9a2",
+    "authorName": "Gregor von Nyssa",
+    "title": "Dritte Homilie über die Seligpreisungen",
+    "directory": "werke/Gregor von Nyssa/Dritte Homilie über die Seligpreisungen",
+    "contentRevision": "sha256:dfc6d1baaf00ce3575ce032e400e2a3d129b32463f389351739d4d9282a05bf6"
+  },
+  {
+    "workId": "1581924e-64d0-41c1-619a-08df382da9a2",
+    "authorName": "Gregor von Nyssa",
+    "title": "Erste Homilie zum Vaterunser",
+    "directory": "werke/Gregor von Nyssa/Erste Homilie zum Vaterunser",
+    "contentRevision": "sha256:46df86e78312b0049d0bf0a8043f18dc76ac78f179382f82a25e1e70fe9ba04e"
+  },
+  {
     "workId": "3e9e6b38-28e9-4bac-618e-08df382da9a2",
     "authorName": "Gregor von Nyssa",
     "title": "Erste Homilie über die Seligpreisungen",
     "directory": "werke/Gregor von Nyssa/Erste Homilie über die Seligpreisungen",
     "contentRevision": "sha256:06657a3190e24d77341f7223eee20142a770fda7ec0214148db34231f419f073"
+  },
+  {
+    "workId": "014f2f74-f280-4ad1-619d-08df382da9a2",
+    "authorName": "Gregor von Nyssa",
+    "title": "Fünfte Homilie zum Vaterunser",
+    "directory": "werke/Gregor von Nyssa/Fünfte Homilie zum Vaterunser",
+    "contentRevision": "sha256:f9c3a71dcacce4571d73c3b129030398e54db2bd73acaa9993d8cae8383f1aca"
+  },
+  {
+    "workId": "703c9158-2a31-4943-6196-08df382da9a2",
+    "authorName": "Gregor von Nyssa",
+    "title": "Fünfte Homilie über die Seligpreisungen",
+    "directory": "werke/Gregor von Nyssa/Fünfte Homilie über die Seligpreisungen",
+    "contentRevision": "sha256:c5c44c155eb505a1f1436a6b7b6db128893bbeb2fe7c682f2385051a92187592"
+  },
+  {
+    "workId": "863b9d68-a889-4613-6197-08df382da9a2",
+    "authorName": "Gregor von Nyssa",
+    "title": "Sechste Homilie über die Seligpreisungen",
+    "directory": "werke/Gregor von Nyssa/Sechste Homilie über die Seligpreisungen",
+    "contentRevision": "sha256:a96515bc585c3cc1d4360bb6c3f76f86071a1fe3699648664bafbad78cec0ffa"
+  },
+  {
+    "workId": "4517da4c-7191-45b2-6198-08df382da9a2",
+    "authorName": "Gregor von Nyssa",
+    "title": "Siebte Homilie über die Seligpreisungen",
+    "directory": "werke/Gregor von Nyssa/Siebte Homilie über die Seligpreisungen",
+    "contentRevision": "sha256:6345ea221f341941cb3d2a43e16e29a96a8fa2cf784a79f3a50d04d02367e6e3"
+  },
+  {
+    "workId": "b3bb87a9-6c3f-4649-919b-08df200aaa32",
+    "authorName": "Gregor von Nyssa",
+    "title": "Vierte Homilie zum Vaterunser",
+    "directory": "werke/Gregor von Nyssa/Vierte Homilie zum Vaterunser",
+    "contentRevision": "sha256:a31e67942adca8a1e004e77de906cd5d6e7563761c8808bb6e21495e7db89545"
+  },
+  {
+    "workId": "6117733e-09e0-47da-6195-08df382da9a2",
+    "authorName": "Gregor von Nyssa",
+    "title": "Vierte Homilie über die Seligpreisungen",
+    "directory": "werke/Gregor von Nyssa/Vierte Homilie über die Seligpreisungen",
+    "contentRevision": "sha256:166cd6c36b2572567afd4bb2991f80ed47efb6f8e942ae74ac06dad434fdc8cb"
+  },
+  {
+    "workId": "45b09164-e396-4737-619b-08df382da9a2",
+    "authorName": "Gregor von Nyssa",
+    "title": "Zweite Homilie zum Vaterunser",
+    "directory": "werke/Gregor von Nyssa/Zweite Homilie zum Vaterunser",
+    "contentRevision": "sha256:2e902c73609bc5ec640ad4e5a28faf4a67ee903f796277e1749500aed94f9a75"
+  },
+  {
+    "workId": "b7d2bb27-cb91-4de4-6193-08df382da9a2",
+    "authorName": "Gregor von Nyssa",
+    "title": "Zweite Homilie über die Seligpreisungen",
+    "directory": "werke/Gregor von Nyssa/Zweite Homilie über die Seligpreisungen",
+    "contentRevision": "sha256:4ba6dd456071ef908b2bedd7fbdaf479811f52dd5956ffff87494a5985496d1c"
   },
   {
     "workId": "a3e869e2-8b5a-44d5-b52e-08ded8738df9",
@@ -3073,6 +3500,13 @@
     "contentRevision": "sha256:774601b98eb65b49218472bee937b8fb48b45f9b704e7fc7d1b1d0b0aed50252"
   },
   {
+    "workId": "c98fae9d-de3f-4e7d-ec2a-08df1cde2999",
+    "authorName": "Johannes Chrysostomus",
+    "title": "Über den Gelähmten, der durch das Dach hinabgelassen wurde",
+    "directory": "werke/Johannes Chrysostomus/Über den Gelähmten, der durch das Dach hinabgelassen wurde",
+    "contentRevision": "sha256:ff6be5c9f32b75eeeaa9b8b4c6748144320aa6bf03988a3fc81518ef557e11ef"
+  },
+  {
     "workId": "9af80dcb-a7ea-4416-b0d9-08defd4c3bc2",
     "authorName": "Johannes Chrysostomus",
     "title": "Über den Tanz der Herodias",
@@ -3190,6 +3624,13 @@
     "title": "Kommentar zu Johannes, Buch 7",
     "directory": "werke/Kyrill von Alexandria/Kommentar zu Johannes/Kommentar zu Johannes, Buch 7",
     "contentRevision": "sha256:8657602e6d172fa6bec82570adbc1aa33baa13897afb57134044731eb0695704"
+  },
+  {
+    "workId": "d04ed41a-31e0-472e-619f-08df382da9a2",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Kommentar zu Matthäus (Fragmente)",
+    "directory": "werke/Kyrill von Alexandria/Kommentar zu Matthäus/Kommentar zu Matthäus (Fragmente)",
+    "contentRevision": "sha256:bb29bc05ed425215f1a5d4e127acf6631eebf9e8d4cd762c48ee9999f78c9005"
   },
   {
     "workId": "15f25dff-772d-42fb-ef86-08df374b6d26",
@@ -4613,6 +5054,13 @@
     "contentRevision": "sha256:6b273a857850c595db1cb969cab49266a881699cdd20493fd973842d59899d1a"
   },
   {
+    "workId": "786953b9-6bdb-455d-efa6-08df374b6d26",
+    "authorName": "Philo von Alexandria",
+    "title": "Fragen und Antworten über Exodus, Buch 2",
+    "directory": "werke/Philo von Alexandria/Fragen und Antworten über Exodus, Buch 2",
+    "contentRevision": "sha256:a72f23efeb95cea148a16c4adba74063aeb58fcfb5fc3e0c7706aaa958e9bde5"
+  },
+  {
     "workId": "6a81cb72-4beb-4563-dcdb-08dd5e294e7f",
     "authorName": "Philo von Alexandria",
     "title": "Fragen und Antworten über Genesis, Buch 1",
@@ -4697,6 +5145,13 @@
     "contentRevision": "sha256:d3cd2b40a3da3352c6022e42ac684907c06066c5bcdd230302976d60e7e5ba32"
   },
   {
+    "workId": "2af1631e-bf91-4e25-c9ab-08df3763c831",
+    "authorName": "Prokopios von Gaza",
+    "title": "Kommentar zu Exodus",
+    "directory": "werke/Prokopios von Gaza/Kommentar zu Exodus",
+    "contentRevision": "sha256:2492ae22ac1237c781484b399b0cf74ab9b026eb20d57bb9849885e4de7e4dea"
+  },
+  {
     "workId": "1f7b47f1-c36e-4001-3f15-08df209fac6c",
     "authorName": "Prudentius",
     "title": "Cathemerinon",
@@ -4779,6 +5234,13 @@
     "title": "Über den Vater und den Sohn",
     "directory": "werke/Serapion von Thmuis/Über den Vater und den Sohn",
     "contentRevision": "sha256:2f0b87b1c3e81da4cbcd81d06b9eb74663527917e771a218a5a7176b58c4dbae"
+  },
+  {
+    "workId": "edf11abf-0513-455d-ef9f-08df374b6d26",
+    "authorName": "Severian von Gabala",
+    "title": "Predigt über die kananäische Frau und den Pharao",
+    "directory": "werke/Severian von Gabala/Predigt über die kananäische Frau und den Pharao",
+    "contentRevision": "sha256:91ef6ad74820a594df5a2093b952eea2d842836249819f67dd85c3187edaf23b"
   },
   {
     "workId": "cb79f13e-3551-4095-8861-08df34555aa5",
@@ -5010,6 +5472,20 @@
     "title": "Über die Verschleierung von Jungfrauen",
     "directory": "werke/Tertullian/Über die Verschleierung von Jungfrauen",
     "contentRevision": "sha256:f10f71e630c6dc60830376deccdf71398d87514f2f7dc0be5d25142692b9c1b6"
+  },
+  {
+    "workId": "c8bbe3eb-7671-4ddf-040a-08df342ae31e",
+    "authorName": "Theodor von Herakleia",
+    "title": "Fragmente zu Matthäus",
+    "directory": "werke/Theodor von Herakleia/Fragmente zu Matthäus",
+    "contentRevision": "sha256:03b46652be1513a92d902456233e95cea1e2775bc7387bc113f540ee098fa36a"
+  },
+  {
+    "workId": "697d9cb5-4e51-4d54-619e-08df382da9a2",
+    "authorName": "Theodor von Mopsuestia",
+    "title": "Fragmente zum Kommentar zu Matthäus",
+    "directory": "werke/Theodor von Mopsuestia/Fragmente zum Kommentar zu Matthäus",
+    "contentRevision": "sha256:6536a1c9ed1a1987e63c19f9743337a7c3cf74b5d6847a99eb1722677ba03e2e"
   },
   {
     "workId": "34571a26-c9c5-4904-be39-08ddb418bd05",

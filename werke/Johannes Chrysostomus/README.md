@@ -25,6 +25,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Zwei Ermahnungen an den gefallenen Theodor](Zwei%20Ermahnungen%20an%20den%20gefallenen%20Theodor/) · 24 Kapitel
 - [Über Eitelkeit und den richtigen Weg für Eltern, ihre Kinder zu erziehen](%C3%9Cber%20Eitelkeit%20und%20den%20richtigen%20Weg%20f%C3%BCr%20Eltern%2C%20ihre%20Kinder%20zu%20erziehen/) · 90 Kapitel
 - [Über das Wort des Apostels: „Aber wegen der Unzucht soll jeder seine eigene Frau haben.“](%C3%9Cber%20das%20Wort%20des%20Apostels%20%E2%80%9EAber%20wegen%20der%20Unzucht%20soll%20jeder%20seine%20eigene%20Frau%20haben.%E2%80%9C/) · 5 Kapitel
+- [Über den Gelähmten, der durch das Dach hinabgelassen wurde](%C3%9Cber%20den%20Gel%C3%A4hmten%2C%20der%20durch%20das%20Dach%20hinabgelassen%20wurde/) · 8 Kapitel
 - [Über den Tanz der Herodias](%C3%9Cber%20den%20Tanz%20der%20Herodias/) · 4 Kapitel
 - [Über die Unklarheit der Prophezeiungen](%C3%9Cber%20die%20Unklarheit%20der%20Prophezeiungen/) · 17 Kapitel
 - [Über die rettende Furcht vor der Hölle](%C3%9Cber%20die%20rettende%20Furcht%20vor%20der%20H%C3%B6lle/) · 1 Kapitel

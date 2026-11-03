@@ -7,6 +7,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Werksammlungen
 
 - [Kommentar zu Johannes](Kommentar%20zu%20Johannes/) · 1 Werk
+- [Kommentar zu Matthäus](Kommentar%20zu%20Matth%C3%A4us/) · 1 Werk
 - [Über die Anbetung und Verehrung im Geist und in der Wahrheit](%C3%9Cber%20die%20Anbetung%20und%20Verehrung%20im%20Geist%20und%20in%20der%20Wahrheit/) · 17 Werke
 
 ## Einzelwerke
