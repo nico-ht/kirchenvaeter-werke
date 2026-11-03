@@ -1,0 +1,14 @@
+# 45\. Rede – Kapitel 12: Das Gesetz duldet Opfer nur vorläufig, um die Menschen von den Götzen zu Gott und zum Evangelium zu führen
+
+Autor: Gregor von Nazianz
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nazianz/45-rede#kapitel-43267f2c-5a7d-4885-965e-08df374b6e6f).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Dennoch gehen wir einen Mittelweg zwischen denen, deren Denken ganz dem Groben verhaftet ist, und denen, die sich in ihrer geistigen Schau allzu hoch erheben\. So wollen wir weder völlig untätig und unbeweglich bleiben noch mehr ergründen, als angemessen ist, und dadurch vom vorliegenden Gegenstand abkommen und ihm fremd werden\. \(Das eine ist nämlich gewissermaßen jüdisch und niedrig, das andere Traumdeuterei, und beides ist gleichermaßen verurteilt\.\) Wir wollen also nach unseren Möglichkeiten darüber sprechen, ohne allzu abwegig zu werden oder uns in den Augen der Menge lächerlich zu machen\. Wir meinen nämlich: Nachdem wir am Anfang durch die Sünde gefallen waren und uns die Lust bis zum Götzendienst und zu frevelhaften Blutopfern verführt hatte, mussten wir wieder zurückgerufen und in unseren ursprünglichen Zustand zurückgeführt werden, aus dem innigen Erbarmen Gottes, unseres Vaters[^bible-6b69ae2d-5057-40aa-a9e8-bd59bbd37552], der es nicht ertrug, den Menschen, ein so großes Werk seiner eigenen Hand, zu verlieren\. Wie also sollten wir neu geformt werden, und was sollte geschehen? Eine gewaltsame Heilbehandlung musste verworfen werden: Sie hätte uns nicht überzeugt und hätte uns verletzen können, weil uns das mit der Zeit zur Natur geworden war\. Vielmehr mussten wir durch eine sanfte und menschenfreundliche Behandlung wieder zurechtgebracht werden\. Denn auch ein krummer Schössling würde ein plötzliches Umbiegen und die Gewalt einer Hand, die ihn geradebiegen will, nicht ertragen \(er würde eher Schaden nehmen als gerade werden\); ebenso wenig würde ein feuriges, altes Pferd die Gewaltherrschaft des Zaums ertragen, ohne dass man ihm ein wenig schmeichelt und mit der Zunge schnalzt\. Darum wird uns das Gesetz zu Hilfe gegeben, gleichsam als Trennmauer zwischen Gott und den Götzen: Es führt uns von den Götzen weg und zu Gott zurück\. Anfangs macht es ein kleines Zugeständnis, um das Größere zu gewinnen\. Es lässt vorerst die Opfer zu, um Gott seinen festen Platz zu geben und dann, wenn die Zeit gekommen ist, auch die Opfer abzuschaffen\. Auf weise Art verändert es uns, indem es uns nach und nach etwas entzieht, und führt uns, nun schon im Gehorsam geübt, zum Evangelium hinüber\.
+
+## Bibelverweise
+
+[^bible-6b69ae2d-5057-40aa-a9e8-bd59bbd37552]: Lk 1,78
