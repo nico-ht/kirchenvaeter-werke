@@ -1,0 +1,18 @@
+# Predigt 80 – Über das Wort: Warum konnten wir ihn nicht austreiben? Vom Gebet – Kapitel 4: Christus heilt als Arzt die reuigen Sünder und durch seinen Tod selbst jene, die ihn töten
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-80-ueber-das-wort-warum-konnten-wir-ihn-nicht-austreiben-vom-gebet#kapitel-07e84081-c6e8-4aba-11a0-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn du dir nämlich zwei Kranke vorstellst, von denen der eine den Arzt unter Tränen um Hilfe bittet, während der andere in seiner Krankheit den Verstand verloren hat und den Arzt auslacht, dann macht der Arzt dem Weinenden Hoffnung, den Lachenden aber beweint er\. Warum? Doch nur, weil seine Krankheit umso gefährlicher ist, je mehr er sich für gesund hält\. So war es auch mit den Juden\. Christus kam zu den Kranken und fand alle krank vor\. Niemand soll sich einreden, er sei gesund, damit der Arzt ihn nicht aufgibt\. Er fand alle krank vor; das sagt der Apostel: „Denn alle haben gesündigt, und ihnen fehlt die Herrlichkeit Gottes\.[^bible-a1cb968e-77b0-48dc-9dd9-0a9718d67637]“ Als er also alle krank vorfand, gab es zwei Arten von Kranken\. Die einen kamen zum Arzt, hielten sich an Christus, hörten ihm zu, ehrten ihn, folgten ihm und kehrten um\. Er nahm alle ohne jeden Widerwillen auf, um sie zu heilen\. Er heilte unentgeltlich, denn er heilte durch seine Allmacht\. Als er sie also aufnahm und zu sich holte, um sie zu heilen, jubelten sie\. Die Kranken der anderen Art aber hatten durch die Krankheit der Ungerechtigkeit bereits den Verstand verloren und wussten nicht, dass sie krank waren\. Sie verhöhnten ihn, weil er Kranke aufnahm, und sagten zu seinen Jüngern: „Seht, was für ein Lehrer das ist, den ihr habt: Er isst mit Sündern und Zöllnern\![^bible-64464612-b560-4403-9238-c84534030e66]“ Er aber wusste, was sie waren und wer sie waren, und antwortete ihnen: „Nicht die Gesunden brauchen einen Arzt, sondern die Kranken\.[^bible-64affa2e-efec-4613-b5a5-483a8d4a2c9f]“ Und er zeigte ihnen, wer die Gesunden und wer die Kranken waren: „Ich bin nicht gekommen[^bible-468b6aa8-9a55-4748-87db-4dc45c872c17]“, sagte er, „um Gerechte zu rufen, sondern Sünder\.[^bible-468b6aa8-9a55-4748-87db-4dc45c872c17]“ Er sagt: „Wenn die Sünder nicht zu mir kommen, warum bin ich dann gekommen? Für wen bin ich gekommen?“ Wenn alle gesund sind, warum ist dann ein so großer Arzt vom Himmel herabgestiegen? Warum hat er uns ein Heilmittel bereitet, das nicht aus seinem Arzneischrank stammt, sondern aus seinem eigenen Blut? Die Kranken der einen Art also, die weniger schwer krank waren und ihre Krankheit spürten, hielten sich an den Arzt, um geheilt zu werden\. Diejenigen aber, deren Krankheit gefährlicher war, verhöhnten den Arzt und verleumdeten die Kranken\. Wie weit ging ihr Wahnsinn schließlich? Sie ergriffen den Arzt, fesselten und geißelten ihn, krönten ihn mit Dornen, hängten ihn ans Holz und töteten ihn am Kreuz\.[^bible-706606c1-d1dc-44cc-ad3e-ade1f1d48217] Was wunderst du dich? Der Kranke tötete den Arzt; doch der getötete Arzt heilte ihn von seinem Wahnsinn\.
+
+## Bibelverweise
+
+[^bible-468b6aa8-9a55-4748-87db-4dc45c872c17]: Mt 9,13
+[^bible-64464612-b560-4403-9238-c84534030e66]: Mt 9,11
+[^bible-64affa2e-efec-4613-b5a5-483a8d4a2c9f]: Mt 9,12
+[^bible-706606c1-d1dc-44cc-ad3e-ade1f1d48217]: Joh 18,12; Joh 19,1–Joh 19,2; Joh 19,18; Joh 19,30
+[^bible-a1cb968e-77b0-48dc-9dd9-0a9718d67637]: Röm 3,23
