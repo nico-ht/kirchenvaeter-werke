@@ -1,0 +1,22 @@
+# Predigt 89 – Über den verdorrten Feigenbaum – Kapitel 2: Wie sich Jesu Wort vom versetzten Berg erfüllt: Die Apostel bringen Christus zu den Völkern
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-89-ueber-den-verdorrten-feigenbaum#kapitel-36c4d3fd-fe6f-4e72-11f8-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Deshalb legte er den Jüngern, als sie über den verdorrten Baum staunten[^bible-31b97f7f-b795-4a9c-8872-da5a85d2fc2e], den Glauben ans Herz und sagte ihnen: „Wenn ihr Glauben habt und keine Unterschiede macht[^bible-b6976473-f7a0-4ff6-aba0-2febe8a9615a]“, das heißt: wenn ihr Gott in allem glaubt und nicht sagt: „Das kann Gott, das kann er nicht“, sondern auf die Allmacht des Allmächtigen vertraut, „dann werdet ihr nicht nur dies tun, sondern wenn ihr zu diesem Berg sagt[^bible-b6976473-f7a0-4ff6-aba0-2febe8a9615a]: ‚Lass dich emporheben und ins Meer werfen\![^bible-b6976473-f7a0-4ff6-aba0-2febe8a9615a]‘, wird es geschehen\. Und alles, worum ihr im Glauben betet, werdet ihr empfangen\.[^bible-81525bc7-3068-4291-a9b5-9f115bd0b586]“ Wir lesen von Wundern, die die Jünger vollbracht haben, vielmehr: die der Herr durch die Jünger vollbracht hat\. Denn er sagt: „Ohne mich könnt ihr nichts tun\.[^bible-9cea36a3-5871-4bcb-8363-8023fc529705]“ Der Herr konnte vieles ohne die Jünger tun, die Jünger nichts ohne den Herrn\. Er konnte ja auch die Jünger selbst erschaffen; dabei haben sie ihm gewiss nicht geholfen\. Wir lesen von Wundern der Apostel, doch nirgends lesen wir, dass sie einen Baum verdorren ließen oder einen Berg ins Meer versetzten\. Fragen wir also, wo dies geschehen ist\. Die Worte des Herrn konnten ja nicht ohne Erfüllung bleiben\. Wenn du auf die gewöhnlichen, uns bekannten Bäume und Berge blickst, ist es nicht geschehen\. Wenn du aber auf den Baum blickst, von dem er sprach, und auf den Berg des Herrn selbst, von dem der Prophet sagte: „In den letzten Tagen wird der Berg des Herrn sichtbar sein[^bible-642e59f2-85f9-4ab6-a10b-8a1cdf88da6d]“, wenn du darauf blickst und dies verstehst, dann ist es geschehen, und zwar durch sie selbst\. Der Baum ist das jüdische Volk, aber ich sage nochmals: das verworfene, nicht das berufene\. Jener Baum, den wir erwähnt haben, ist das jüdische Volk\. Der Berg ist, wie das Zeugnis des Propheten lehrte, der Herr selbst\. Der verdorrte Baum ist das jüdische Volk ohne die Ehre Christi; das Meer ist diese Welt mit all ihren Völkern\. Sieh nun, wie die Apostel sprechen, um den Baum verdorren zu lassen, und wie sie den Berg ins Meer versetzen\. In der Apostelgeschichte sprechen sie zu den Juden, die ihnen widersprechen und sich dem Wort der Wahrheit widersetzen[^bible-a35aadf9-22fd-4b29-ad94-11ded997c720], die also Blätter haben, aber keine Frucht\. Sie sagen ihnen: „Euch musste zuerst das Wort Gottes verkündet werden\. Weil ihr es aber zurückgewiesen habt[^bible-f1d42e5e-2e39-43b8-bc0a-270391f346db]“ \(ihr sprecht die Worte der Propheten aus und erkennt den nicht, den die Propheten angekündigt haben, habt also Blätter\), „seht, darum wenden wir uns den Völkern zu\.[^bible-f1d42e5e-2e39-43b8-bc0a-270391f346db]“ Denn auch dies ist durch den Propheten vorausgesagt worden: „Siehe, ich habe dich zum Licht der Völker gemacht, damit du Heil bist bis an die Enden der Erde\.[^bible-6778af46-48c7-4baf-b322-1cd2919eb24f]“ Siehe, der Baum ist verdorrt, und Christus ist zu den Völkern gelangt: Der Berg ist ins Meer versetzt worden\. Wie sollte denn der Baum nicht verdorren, der in dem Weinberg stand, von dem gesagt worden war: „Ich werde meinen Wolken befehlen, keinen Regen auf ihn fallen zu lassen[^bible-1a9a1b2d-f64a-48a0-9a64-44b2c739b2a0]“?
+
+## Bibelverweise
+
+[^bible-1a9a1b2d-f64a-48a0-9a64-44b2c739b2a0]: Jes 5,6
+[^bible-31b97f7f-b795-4a9c-8872-da5a85d2fc2e]: Mt 21,20
+[^bible-642e59f2-85f9-4ab6-a10b-8a1cdf88da6d]: Jes 2,2
+[^bible-6778af46-48c7-4baf-b322-1cd2919eb24f]: Jes 49,6
+[^bible-81525bc7-3068-4291-a9b5-9f115bd0b586]: Mt 21,21–Mt 21,22
+[^bible-9cea36a3-5871-4bcb-8363-8023fc529705]: Joh 15,5
+[^bible-a35aadf9-22fd-4b29-ad94-11ded997c720]: Apg 13,45–Apg 13,46
+[^bible-b6976473-f7a0-4ff6-aba0-2febe8a9615a]: Mt 21,21
+[^bible-f1d42e5e-2e39-43b8-bc0a-270391f346db]: Apg 13,46

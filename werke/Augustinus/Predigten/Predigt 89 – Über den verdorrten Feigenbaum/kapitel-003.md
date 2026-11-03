@@ -1,0 +1,15 @@
+# Predigt 89 – Über den verdorrten Feigenbaum – Kapitel 3: Der schuldlose Feigenbaum verdorrt nicht zur Strafe, sondern als prophetische Warnung an den Menschen
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-89-ueber-den-verdorrten-feigenbaum#kapitel-25e4c791-3ad2-4c02-11f9-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Vieles weist uns darauf hin und überzeugt uns, ja nötigt selbst Widerstrebenden das Eingeständnis ab, dass der Herr deutlich machen wollte: Er hat hier prophetisch gehandelt\. An diesem Baum wollte er nicht nur ein Wunder zeigen, sondern durch das Wunder auf etwas Zukünftiges hinweisen\. Zunächst: Was hatte der Baum denn verbrochen, weil er keine Früchte hatte? Selbst wenn er zur rechten Zeit, also zur Erntezeit dieser Früchte, keine getragen hätte, hätte den Baum gewiss keine Schuld getroffen; denn ein Baum hat kein Empfindungsvermögen und kann deshalb keine Schuld haben\. Hinzu kommt, dass wir bei einem anderen Evangelisten, der dasselbe Geschehen erzählt, lesen: „Es war nicht die Zeit für diese Früchte\.[^bible-807d9d91-3f02-429e-8dd9-7dd4870cc556]“ Es war nämlich die Zeit, in der der Feigenbaum zarte Blätter treibt, die, wie wir wissen, vor den Früchten wachsen\. Das lässt sich daran erkennen, dass der Tag des Leidens des Herrn nahe war und wir wissen, zu welcher Jahreszeit er gelitten hat\. Selbst wenn wir das nicht beachten würden, müssten wir doch dem Evangelisten glauben, der sagt: „Es war nicht die Zeit für Feigen\.[^bible-807d9d91-3f02-429e-8dd9-7dd4870cc556]“ Wenn es also nur darum gegangen wäre, ein Wunder vor Augen zu führen, und nicht darum, etwas prophetisch abzubilden, dann hätte der Herr viel gütiger und seiner Barmherzigkeit würdiger gehandelt, wenn er einen verdorrten Baum gefunden und wieder hätte grünen lassen, so wie er Kranke geheilt, Aussätzige gereinigt und Tote auferweckt hat\. Hier aber tat er das Gegenteil, gleichsam entgegen dem Grundsatz seiner Güte: Er fand einen grünen Baum, der noch keine Früchte trug, weil es nicht die Zeit dafür war[^bible-807d9d91-3f02-429e-8dd9-7dd4870cc556], der seinem Gärtner die Früchte jedoch nicht verweigerte, und ließ ihn verdorren[^bible-dc14d924-2d97-437b-8580-5d9f38f7130f]\. Es war, als sagte er zum Menschen: „Mich hat nicht gefreut, dass dieser Baum verdorrt ist\. Vielmehr wollte ich dir zu verstehen geben, dass ich dies nicht ohne Grund tun wollte, sondern weil ich dich auf etwas hinweisen wollte, dem du größere Aufmerksamkeit schenken solltest\. Ich habe nicht diesen Baum verflucht, nicht einem Baum ohne Empfindungsvermögen eine Strafe auferlegt\. Vielmehr habe ich dich erschreckt, wenn du darauf achtest, damit du den hungernden Christus nicht verachtest und es dir lieber ist, reich an Früchten zu werden, als dich von Blättern beschatten zu lassen\.“
+
+## Bibelverweise
+
+[^bible-807d9d91-3f02-429e-8dd9-7dd4870cc556]: Mk 11,13
+[^bible-dc14d924-2d97-437b-8580-5d9f38f7130f]: Mk 11,20

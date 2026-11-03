@@ -1,0 +1,26 @@
+# Predigt 89 – Über den verdorrten Feigenbaum – Kapitel 5: Jakobs gesalbter Stein und die Himmelsleiter weisen auf Christus im Himmel und auf Erden
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-89-ueber-den-verdorrten-feigenbaum#kapitel-4323546a-cc0f-43c7-11fb-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ihr habt von einem Wort im eigentlichen Sinn gehört, von einer Tat im eigentlichen Sinn und von einem bildlichen Wort; nun erwartet ihr eine bildliche Tat\. Es gibt viele; doch nehmen wir vorerst die, an die mich der Eckstein erinnert\. Jakob salbte den Stein, den er sich zum Schlafen an den Kopf gelegt hatte\. Im Schlaf hatte er einen großen Traum gehabt: eine Leiter, die von der Erde bis in den Himmel reichte, Menschen, die auf ihr hinauf\- und hinabstiegen, und den Herrn, der sich über die Leiter neigte\.[^bible-98d9d2c7-68ce-4bc4-b82c-f87ffdb433cd] Jakob verstand, was er im Bild darstellen sollte, und machte den Stein zum Bild Christi\. Damit sollte uns deutlich werden, dass ihm das Verständnis jener Vision und Offenbarung nicht verschlossen geblieben war\. Wundere dich also nicht, dass er den Stein salbte[^bible-b812be47-2e67-43a9-85b0-f0370caf5075]; denn Christus hat seinen Namen von der Salbung\. Dieser Jakob aber war in der Schrift als ein Mensch ohne Falschheit[^bible-9b3dac9a-b2f2-44a0-a146-44d349d1af53] bezeichnet worden\. Derselbe Jakob wurde, wie ihr wisst, Israel genannt[^bible-6885db51-8e48-458f-9754-575f044cbe51]\. Darum sagte der Herr im Evangelium, als er Nathanael sah: „Seht, wahrhaftig ein Israelit, in dem keine Falschheit ist\.[^bible-cce0a91f-b97c-4e32-8ce7-2e3d1d005ab4]“ Und jener Israelit, der noch nicht wusste, wer mit ihm sprach, antwortete: „Woher kennst du mich?[^bible-5d25fb8a-1da3-4a8d-b0ee-55df61c4f3e7]“ Der Herr sagte zu ihm: „Als du unter dem Feigenbaum warst, habe ich dich gesehen\.[^bible-5d25fb8a-1da3-4a8d-b0ee-55df61c4f3e7]“ Es war, als sagte er: „Als du im Schatten der Sünde warst, habe ich dich vorherbestimmt\.“ Und weil jener sich erinnerte, unter dem Feigenbaum gewesen zu sein, wo der Herr nicht gewesen war, erkannte er in ihm die Gottheit und antwortete[^bible-7b53c34f-9396-4e54-bcc4-6185dc2bab4b]: „Du bist der Sohn Gottes, du bist der König Israels\.[^bible-57082b8d-52ef-46bc-a958-bd46e693ab70]“ Jener unter dem Feigenbaum wurde nicht zu einem verdorrten Feigenbaum: Er erkannte Christus\. Und der Herr sagte zu ihm: „Weil ich sagte: ‚Als du unter dem Feigenbaum warst, habe ich dich gesehen‘, glaubst du; du wirst Größeres als dies sehen\.[^bible-48e344d0-6e5e-4b46-a8bb-c232df41645c]“ Was ist dieses Größere? „Amen, ich sage euch[^bible-f1ae3d52-62b3-452b-9820-349aff1af6af]“ \(denn jener ist ein Israelit, in dem keine Falschheit ist[^bible-cce0a91f-b97c-4e32-8ce7-2e3d1d005ab4]; schau auf Jakob, in dem keine Falschheit ist[^bible-9b3dac9a-b2f2-44a0-a146-44d349d1af53], und erinnere dich daran, worauf sich diese Worte beziehen: der Stein am Kopf, die Vision im Schlaf, die Leiter von der Erde bis in den Himmel, die Hinab\- und Hinaufsteigenden[^bible-a9f623e1-8f2f-4974-bc1e-b2164dc23bbe]; und sieh, was der Herr zu dem Israeliten ohne Falschheit[^bible-cce0a91f-b97c-4e32-8ce7-2e3d1d005ab4] sagt\): „Ihr werdet den Himmel offen sehen\.[^bible-f1ae3d52-62b3-452b-9820-349aff1af6af]“ Höre, Nathanael ohne Falschheit[^bible-cce0a91f-b97c-4e32-8ce7-2e3d1d005ab4], was Jakob ohne Falschheit[^bible-9b3dac9a-b2f2-44a0-a146-44d349d1af53] gesehen hat: „Ihr werdet den Himmel offen sehen und die Engel hinauf\- und hinabsteigen[^bible-f1ae3d52-62b3-452b-9820-349aff1af6af]“; zu wem? „Zum Menschensohn\.[^bible-f1ae3d52-62b3-452b-9820-349aff1af6af]“ Also war jener gesalbte Stein am Kopf der Menschensohn; denn das Haupt der Frau ist der Mann, das Haupt des Mannes aber Christus[^bible-82ce1167-2fdb-4610-ae89-b49a44becb0c]\. Dennoch sagte er nicht: „Sie steigen vom Menschensohn hinauf und zum Menschensohn hinab“, als wäre er nur oben, sondern: „Sie steigen zum Menschensohn hinauf und hinab\.[^bible-f1ae3d52-62b3-452b-9820-349aff1af6af]“ Höre den Menschensohn oben rufen: „Saul, Saul\![^bible-4862018f-265e-4d8e-97f5-12b0a46e6731]“ Höre den Menschensohn unten: „Warum verfolgst du mich?[^bible-4862018f-265e-4d8e-97f5-12b0a46e6731]“
+
+## Bibelverweise
+
+[^bible-4862018f-265e-4d8e-97f5-12b0a46e6731]: Apg 9,4
+[^bible-48e344d0-6e5e-4b46-a8bb-c232df41645c]: Joh 1,50
+[^bible-57082b8d-52ef-46bc-a958-bd46e693ab70]: Joh 1,49
+[^bible-5d25fb8a-1da3-4a8d-b0ee-55df61c4f3e7]: Joh 1,48
+[^bible-6885db51-8e48-458f-9754-575f044cbe51]: Gen 32,28
+[^bible-7b53c34f-9396-4e54-bcc4-6185dc2bab4b]: Joh 1,48–Joh 1,49
+[^bible-82ce1167-2fdb-4610-ae89-b49a44becb0c]: 1Kor 11,3
+[^bible-98d9d2c7-68ce-4bc4-b82c-f87ffdb433cd]: Gen 28,11–Gen 28,18
+[^bible-9b3dac9a-b2f2-44a0-a146-44d349d1af53]: Gen 25,27
+[^bible-a9f623e1-8f2f-4974-bc1e-b2164dc23bbe]: Gen 28,11–Gen 28,12
+[^bible-b812be47-2e67-43a9-85b0-f0370caf5075]: Gen 28,18
+[^bible-cce0a91f-b97c-4e32-8ce7-2e3d1d005ab4]: Joh 1,47
+[^bible-f1ae3d52-62b3-452b-9820-349aff1af6af]: Joh 1,51
