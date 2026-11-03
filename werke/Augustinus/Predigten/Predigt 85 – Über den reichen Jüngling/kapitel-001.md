@@ -1,0 +1,20 @@
+# Predigt 85 – Über den reichen Jüngling – Kapitel 1: Auch wer nicht auf allen Besitz verzichtet, muss die Gebote halten, um zum Leben zu gelangen
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/predigt-85-ueber-den-reichen-juengling#kapitel-addaf2fc-e779-48ab-11c2-08df382daa4d).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Die Lesung aus dem Evangelium, die eben in unseren Ohren erklungen ist, Brüder, verlangt eher nach einem, der sie hört und danach handelt, als nach einem, der sie auslegt\. Was ist klarer als dieses Licht: „Wenn du zum Leben gelangen willst, halte die Gebote[^bible-54bd3532-5808-455e-b62a-4e78c9b2ec76]“? Was soll ich also sagen? „Wenn du zum Leben gelangen willst, halte die Gebote\.[^bible-54bd3532-5808-455e-b62a-4e78c9b2ec76]“ Wer will nicht das Leben? Und doch: Wer will die Gebote halten? Wenn du die Gebote nicht halten willst, warum suchst du dann das Leben? Wenn du zu träge zum Arbeiten bist, warum eilst du dann zum Lohn? Jener reiche junge Mann sagte, er habe die Gebote gehalten\.[^bible-f9f1de0a-591c-4cff-8437-734720b1c884] Da hörte er größere Forderungen: „Wenn du vollkommen sein willst[^bible-7ae757ea-34cc-427c-8808-43535c2cd2b7], fehlt dir eines[^bible-7aa13de4-acab-4397-821a-ac43f0d87929]: Geh, verkaufe alles, was du hast, und gib es den Armen\.[^bible-7ae757ea-34cc-427c-8808-43535c2cd2b7] Du wirst nichts verlieren, sondern einen Schatz im Himmel haben\. Und komm und folge mir\.[^bible-7ae757ea-34cc-427c-8808-43535c2cd2b7] Denn was nützt es dir, wenn du das tust und mir nicht folgst?“ Er aber ging traurig und betrübt fort[^bible-26a5a5e5-8eeb-4e81-b785-658c559e001e], wie ihr gehört habt; denn er hatte großen Reichtum\.[^bible-26a5a5e5-8eeb-4e81-b785-658c559e001e] Was er gehört hat, haben auch wir gehört\. Das Evangelium ist der Mund Christi\. Er sitzt im Himmel, hört aber nicht auf, auf Erden zu sprechen\. Seien wir nicht taub, denn er ruft\. Seien wir nicht tot, denn er donnert\. Wenn du das Größere nicht tun willst, dann tu das Geringere\. Die Last des Größeren ist dir zu schwer; so nimm wenigstens das Geringere auf dich\. Warum bist du für beides zu träge? Warum widersetzt du dich beidem? Das Größere lautet: „Verkaufe alles, was du hast, und gib es den Armen und folge mir\.[^bible-7ae757ea-34cc-427c-8808-43535c2cd2b7]“ Das Geringere lautet: „Du sollst nicht morden, nicht die Ehe brechen, nicht nach falschen Zeugenaussagen suchen, nicht stehlen\. Ehre Vater und Mutter\. Du sollst deinen Nächsten lieben wie dich selbst\.[^bible-56a8f6bf-a923-4a1c-ab32-cc450bc188b6]“ Das tu\! Warum rufe ich dir zu, deinen Besitz zu verkaufen, wenn ich dich nicht einmal dazu bringen kann, fremden Besitz nicht zu rauben? Du hast gehört: „Du sollst nicht stehlen\.[^bible-bd1da567-4dbb-48e2-a8bd-b71b62e5cc85]“ Du aber raubst\. Vor den Augen eines so großen Richters habe ich dich nun nicht als Dieb, sondern als Räuber überführt\. Schone dich, erbarme dich deiner selbst\. Noch gewährt dir dieses Leben Aufschub; weise die Zurechtweisung nicht zurück\. Gestern warst du ein Dieb; sei es nicht auch heute\. Vielleicht warst du es auch heute schon; sei es morgen nicht\. Hör endlich mit dem Bösen auf und fordere das Gute als Lohn\. Du willst Gutes besitzen, aber nicht gut sein: Dein Leben widerspricht deinen Wünschen\. Wenn es ein großes Gut ist, ein gutes Landgut zu besitzen, wie groß ist dann das Übel, eine böse Seele zu haben?
+
+## Bibelverweise
+
+[^bible-26a5a5e5-8eeb-4e81-b785-658c559e001e]: Mt 19,22
+[^bible-54bd3532-5808-455e-b62a-4e78c9b2ec76]: Mt 19,17
+[^bible-56a8f6bf-a923-4a1c-ab32-cc450bc188b6]: Mt 19,18–Mt 19,19
+[^bible-7aa13de4-acab-4397-821a-ac43f0d87929]: Mk 10,21
+[^bible-7ae757ea-34cc-427c-8808-43535c2cd2b7]: Mt 19,21
+[^bible-bd1da567-4dbb-48e2-a8bd-b71b62e5cc85]: Mt 19,18
+[^bible-f9f1de0a-591c-4cff-8437-734720b1c884]: Mt 19,20
