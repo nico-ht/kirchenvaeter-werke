@@ -1,0 +1,19 @@
+# 4\. Homilie über die Evangelien – Kapitel 3: Sichtbare Wunder führen Ungläubige zum Glauben, sind aber für innerlich lebendige Gläubige nicht nötig
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/4-homilie-ueber-die-evangelien#kapitel-f2a02929-e346-43fb-d9bb-08df3837a997).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Darum wurden den heiligen Verkündern auch Wunder mitgegeben, damit die sichtbar gewordene Kraft ihren Worten Glauben verschaffte und diejenigen, die Neues verkündeten, auch Neues vollbrachten\. So heißt es im weiteren Verlauf dieser Lesung: „Heilt Kranke, erweckt Tote zum Leben, reinigt Aussätzige, treibt Dämonen aus\.[^bible-a8257b07-fab9-4958-9619-afc31ef1bcb1]“ Als die Welt blühte, das Menschengeschlecht wuchs, das Fleisch lange in diesem Leben Bestand hatte und der Reichtum an Gütern überströmte, wer hätte da geglaubt, wenn er hörte, es gebe noch ein anderes Leben? Wer hätte das Unsichtbare dem Sichtbaren vorgezogen? Doch als Kranke wieder gesund wurden, Tote zum Leben auferstanden, das Fleisch der Aussätzigen wieder rein wurde und Besessene der Gewalt unreiner Geister entrissen wurden[^bible-a8257b07-fab9-4958-9619-afc31ef1bcb1], wer hätte angesichts so vieler vollbrachter sichtbarer Wunder nicht geglaubt, was er über das Unsichtbare hörte? Sichtbare Wunder leuchten ja auf, um die Herzen derer, die sie sehen, zum Glauben an das Unsichtbare zu führen\. Durch das Wunderbare, das äußerlich geschieht, sollen sie erkennen, dass das Innere noch weit wunderbarer ist\. Darum gibt es auch jetzt, da die Zahl der Gläubigen gewachsen ist, in der heiligen Kirche viele, die ein tugendhaftes Leben führen, aber keine Wunderzeichen wirken\. Denn vergeblich wird äußerlich ein Wunder gezeigt, wenn es im Inneren nichts zu bewirken gibt\. Nach dem Wort des Lehrers der Völker gilt nämlich: „Das Reden in Sprachen ist ein Zeichen nicht für die Gläubigen, sondern für die Ungläubigen\.[^bible-ac34e8b8-34e2-448e-bbc7-fbb07012cea9]“ Darum hat auch dieser hervorragende Verkünder Eutychus, der während seiner Predigt eingeschlafen und aus dem Fenster gefallen war und kein Leben mehr in sich hatte, vor allen Ungläubigen durch sein Gebet wieder zum Leben erweckt[^bible-f15dde8e-6c7e-4dca-97da-ce3551139955]\. Als er nach Malta kam und wusste, dass die Insel voller Ungläubiger war, heilte er den Vater des Publius, der an Ruhr und Fieber litt, durch sein Gebet[^bible-0469839b-a28c-4810-9e1a-150de0ee2660]\. Seinen Reisegefährten und Helfer bei der heiligen Verkündigung, Timotheus, der durch ein Magenleiden geschwächt war[^bible-f111706c-c809-4496-a567-87b26b4ae3c9], heilt er dagegen nicht durch ein Wort, sondern richtet ihn mit ärztlichen Mitteln wieder auf, indem er sagt: „Nimm ein wenig Wein zu dir wegen deines Magens und deiner häufigen Krankheiten\.[^bible-f111706c-c809-4496-a567-87b26b4ae3c9]“ Wenn er also den kranken Ungläubigen mit einem einzigen Gebet heilt[^bible-2de8d73f-0a9b-44a1-91c3-12c7a7b4c08a], warum stärkt er dann nicht auch seinen kranken Gefährten durch ein Gebet? Eben deshalb, weil jener äußerlich durch ein Wunder geheilt werden musste, da er innerlich nicht lebte: Durch die Macht, die sich äußerlich zeigte, sollte die innere Kraft ihn zum Leben erwecken\. Dem kranken gläubigen Gefährten aber mussten äußerlich keine Zeichen gezeigt werden, da er innerlich gesund und lebendig war\.
+
+## Bibelverweise
+
+[^bible-0469839b-a28c-4810-9e1a-150de0ee2660]: Apg 28,7–Apg 28,8
+[^bible-2de8d73f-0a9b-44a1-91c3-12c7a7b4c08a]: Apg 28,8
+[^bible-a8257b07-fab9-4958-9619-afc31ef1bcb1]: Mt 10,8
+[^bible-ac34e8b8-34e2-448e-bbc7-fbb07012cea9]: 1Kor 14,22
+[^bible-f111706c-c809-4496-a567-87b26b4ae3c9]: 1Tim 5,23
+[^bible-f15dde8e-6c7e-4dca-97da-ce3551139955]: Apg 20,9–Apg 20,12
