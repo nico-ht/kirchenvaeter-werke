@@ -1,0 +1,21 @@
+# 10\. Homilie über die Evangelien – Kapitel 7: Der andere Heimweg der Sterndeuter zeigt: Durch Buße und Tränen kehren wir ins Paradies zurück
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/10-homilie-ueber-die-evangelien#kapitel-80664ca9-293a-49b7-d9d5-08df3837a997).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Die Sterndeuter geben uns aber etwas Großes zu verstehen, indem sie auf einem anderen Weg in ihre Heimat zurückkehren[^bible-f1210481-f61e-4872-b52e-3f97c092906a]\. Denn was sie auf die empfangene Weisung hin tun[^bible-f1210481-f61e-4872-b52e-3f97c092906a], zeigt uns, was wir tun sollen\. Unsere Heimat ist nämlich das Paradies\. Nachdem wir Jesus erkannt haben, dürfen wir nicht auf dem Weg dorthin zurückkehren, auf dem wir gekommen sind\. Wir haben unsere Heimat verlassen, indem wir hochmütig waren, ungehorsam wurden, dem Sichtbaren nachgingen und von der verbotenen Speise kosteten[^bible-43fa9902-3a8c-4c0e-9cb7-d2144cb09586]\. Doch wir müssen zu ihr zurückkehren, indem wir weinen, gehorchen, das Sichtbare verachten und das Verlangen des Fleisches zügeln\. Auf einem anderen Weg kehren wir also in unsere Heimat zurück: Denn wir haben durch Genüsse die Freuden des Paradieses verlassen und werden durch Klagen zu ihnen zurückgerufen\. Darum müssen wir, geliebte Brüder, stets in Furcht und stets auf der Hut, den Augen unseres Herzens auf der einen Seite die Schuld unserer Taten, auf der anderen das Gericht von äußerster Strenge vorhalten\. Bedenken wir, wie streng der Richter ist, der kommen wird: Er droht mit dem Gericht und bleibt verborgen; er kündigt den Sündern Schrecken an und hat dennoch weiterhin Geduld\. Er zögert sein Kommen deshalb hinaus, um weniger Menschen vorzufinden, die er verurteilen müsste\. Bestrafen wir unsere Verfehlungen mit Tränen und kommen wir ihm[^bible-bdb4a5a9-ac5c-4a11-805e-303ccdad64da], wie der Psalmist sagt, mit unserem Bekenntnis zuvor[^bible-bdb4a5a9-ac5c-4a11-805e-303ccdad64da]\. Lassen wir uns also von keinem trügerischen Genuss täuschen, von keiner nichtigen Freude verführen\. Denn nahe ist der Richter, der gesagt hat: „Wehe euch, die ihr jetzt lacht, denn ihr werdet trauern und weinen\.[^bible-062117cb-8d8e-433b-b1e8-6cfd9c5e0788]“ Darum sagt Salomo: „Lachen wird sich mit Schmerz vermischen, und am Ende der Freude stellt sich Trauer ein\.[^bible-9692c967-1bf0-429a-8fd8-e2487277cb7e]“ Darum sagt er auch: „Das Lachen hielt ich für einen Irrtum, und zur Freude sagte ich:[^bible-084f39a2-439f-45ef-97bc-81756a295906]“ „‚Warum gibst du dich nichtigem Trug hin?[^bible-084f39a2-439f-45ef-97bc-81756a295906]‘“ Und wiederum sagt er: „Das Herz der Weisen ist dort, wo Trauer herrscht, und das Herz der Dummen dort, wo Freude herrscht\.[^bible-d5a22ab6-8e63-4f7e-865a-17fe2c47acdd]“ Begegnen wir also Gottes Geboten mit tiefer Furcht, wenn wir Gottes Fest wahrhaft feiern\. Denn der Schmerz, den wir der Sünde entgegensetzen, ist ein Opfer, das Gott gefällt, wie der Psalmist bezeugt: „Ein Opfer für Gott ist ein zerknirschter Geist\.[^bible-6b535a65-1b80-4198-8959-0226eff1e5ec]“ Unsere früheren Sünden wurden uns beim Empfang der Taufe vergeben\. Doch nach der Taufe haben wir viele weitere begangen, und wir können uns nicht noch einmal im Wasser der Taufe waschen lassen\. Weil wir also unser Leben auch nach der Taufe befleckt haben, wollen wir unser Gewissen mit Tränen taufen, damit wir unsere Heimat auf einem anderen Weg wieder aufsuchen und, nachdem wir sie in der Freude am Guten verlassen haben, in der Bitterkeit des Leidens zu ihr zurückkehren\. Dies gewähre uns unser Herr\.
+
+## Bibelverweise
+
+[^bible-062117cb-8d8e-433b-b1e8-6cfd9c5e0788]: Lk 6,25
+[^bible-084f39a2-439f-45ef-97bc-81756a295906]: Pred 2,2
+[^bible-43fa9902-3a8c-4c0e-9cb7-d2144cb09586]: Gen 3,6
+[^bible-6b535a65-1b80-4198-8959-0226eff1e5ec]: Ps 50,19
+[^bible-9692c967-1bf0-429a-8fd8-e2487277cb7e]: Spr 14,13
+[^bible-bdb4a5a9-ac5c-4a11-805e-303ccdad64da]: Ps 94,2
+[^bible-d5a22ab6-8e63-4f7e-865a-17fe2c47acdd]: Pred 7,4
+[^bible-f1210481-f61e-4872-b52e-3f97c092906a]: Mt 2,12

@@ -1,0 +1,10 @@
+# 10\. Homilie über die Evangelien – Kapitel 5: Geburtsverlauf und ungleiche Lebenswege bei gleichem Sternstand widerlegen die astrologische Schicksalslehre
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/10-homilie-ueber-die-evangelien#kapitel-4babedfb-c8ed-477a-d9d3-08df3837a997).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Darauf aber antworten die Astrologen gewöhnlich, die Wirkung der Sternenkonstellation hänge von einem einzigen Augenblick ab\. Wir halten ihnen entgegen, dass eine Geburt lange dauert\. Wenn sich also die Sternenkonstellation in einem Augenblick ändert, müssen sie für jedes Glied eines Kindes, das zur Welt kommt, ein eigenes Schicksal annehmen\. Auch behaupten die Astrologen gewöhnlich, jedem, der im Zeichen des Wassermanns geboren wird, falle in diesem Leben der Beruf des Fischers zu\. In Gätulien aber gibt es, wie man sagt, keine Fischer\. Wer wollte also behaupten, dort, wo es überhaupt keine Fischer gibt, werde niemand unter dem Sternbild des Wassermanns geboren? Weiter sagen sie voraus, diejenigen, die ihrer Behauptung nach im Zeichen der Waage geboren werden, würden Geldwechsler werden\. Doch in den Ländern vieler Völker kennt man keine Geldwechsler\. Sie müssen also zugeben, dass entweder dieses Sternzeichen dort fehlt oder dass es keinerlei schicksalsbestimmende Wirkung hat\. Auch im Land der Perser und der Franken stammen die Könige aus königlichem Geschlecht\. Wer könnte wohl ermessen, wie viele zur genau gleichen Stunde und im genau gleichen Augenblick wie sie im Sklavenstand geboren werden? Und dennoch gelangen die Königssöhne, die unter ein und demselben Gestirn wie die Sklaven geboren wurden, zur Königsherrschaft, während die Sklaven, die zugleich mit ihnen geboren wurden, in der Sklaverei sterben\. Dies haben wir kurz über den Stern gesagt, damit nicht der Eindruck entsteht, wir hätten die Dummheit der Astrologen ungeprüft übergangen\.
