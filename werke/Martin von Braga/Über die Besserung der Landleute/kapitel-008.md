@@ -1,0 +1,10 @@
+# Über die Besserung der Landleute – Kapitel 8: Wer Naturdämonen verehrt und heidnische Tagesnamen gebraucht, glaubt nicht von ganzem Herzen an Christus
+
+Autor: Martin von Braga
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/martin-von-braga/martin-braga-besserung-der-landleute#kapitel-2acb369a-8fa9-4350-4f1f-08df38b1090b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Seht, so waren damals diese verkommenen Menschen, die von unwissenden Landleuten mit ihren selbst erdachten Bräuchen auf höchst verwerfliche Weise verehrt wurden\. Ihre Namen legten sich die Dämonen zu, damit die Menschen sie als Götter verehrten, ihnen Opfer darbrachten und die Taten derer nachahmten, deren Namen sie anriefen\. Die Dämonen überredeten sie auch, ihnen Tempel zu bauen, dort Bilder oder Statuen dieser verbrecherischen Menschen aufzustellen und ihnen Altäre zu errichten, auf denen sie ihnen nicht nur Tierblut, sondern auch Menschenblut vergießen sollten\. Außerdem herrschen viele der Dämonen, die aus dem Himmel vertrieben wurden, im Meer, in Flüssen, an Quellen oder in Wäldern\. Auch sie verehren die Menschen, die Gott nicht kennen, als Götter und bringen ihnen Opfer dar\. Die im Meer nennen sie Neptun, die in den Flüssen Lamien, die an den Quellen Nymphen und die in den Wäldern Dianen\. Sie alle sind bösartige Dämonen und böse Geister, die ungläubigen Menschen schaden und sie quälen, Menschen, die sich nicht mit dem Kreuzzeichen zu schützen wissen\. Doch sie richten nicht ohne Gottes Erlaubnis Schaden an, denn Gott zürnt diesen Menschen, und sie glauben nicht von ganzem Herzen an Christus\. Vielmehr sind sie so voller Zweifel, dass sie für die einzelnen Tage sogar die Namen der Dämonen gebrauchen und vom Tag des Mars, des Merkur, des Jupiter, der Venus und des Saturn sprechen\. Diese haben keinen einzigen Tag geschaffen, sondern waren höchst verkommene und verbrecherische Menschen im Volk der Griechen\.

@@ -1,0 +1,10 @@
+# Über die Besserung der Landleute – Kapitel 7: Dämonen fordern unter den Namen verbrecherischer Menschen Opfer und göttliche Verehrung
+
+Autor: Martin von Braga
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/martin-von-braga/martin-braga-besserung-der-landleute#kapitel-11ad3c81-c73d-461e-4f1e-08df38b1090b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Da sahen der Teufel oder seine Diener, die aus dem Himmel gestürzten Dämonen, dass die unwissenden Menschen Gott, ihren Schöpfer, verlassen hatten und durch die Geschöpfe in die Irre gingen\. Sie begannen, ihnen in verschiedenen Gestalten zu erscheinen, mit ihnen zu sprechen und von ihnen zu verlangen, ihnen auf hohen Bergen und in dicht belaubten Wäldern Opfer darzubringen und sie als Gott zu verehren\. Dabei legten sie sich die Namen verbrecherischer Menschen zu, die ihr Leben mit Verbrechen und Schandtaten aller Art zugebracht hatten\. So behauptete einer, er sei Jupiter\. Dieser war ein Zauberer gewesen und hatte sich in solchem Maß durch Ehebrüche befleckt, dass er seine eigene Schwester namens Juno zur Frau hatte, seine Töchter Minerva und Venus schändete und auch mit seinen Enkelinnen und seiner gesamten Verwandtschaft schamlos Blutschande trieb\. Ein anderer Dämon nannte sich Mars, der Streit und Zwietracht angezettelt hatte\. Wieder ein anderer Dämon wollte Merkur heißen\. Dieser war der listige Erfinder jeder Art von Diebstahl und Betrug gewesen\. Habsüchtige Menschen werfen ihm beim Vorübergehen an Wegkreuzungen Steine hin und bringen ihm so Steinhaufen als Opfer dar, als wäre er der Gott des Gewinns\. Ein weiterer Dämon legte sich den Namen Saturns zu, der ein Leben voller Grausamkeit führte und sogar seine neugeborenen Kinder verschlang\. Noch ein anderer Dämon gab vor, Venus zu sein\. Diese war eine Hure gewesen\. Sie hurte nicht nur mit zahllosen Ehebrechern, sondern auch mit ihrem Vater Jupiter und ihrem Bruder Mars\.
