@@ -1,0 +1,18 @@
+# 38\. Homilie über die Evangelien – Kapitel 4: Der Tod der Väter bekräftigt Gottes Einladung: Ihr Beispiel weckt Hoffnung auf scheinbar Unmögliches
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/38-homilie-ueber-die-evangelien#kapitel-5fd15ff2-09fa-40b0-d9f2-08df3837a997).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wen erkennen wir in den Stieren und im Mastvieh, liebste Brüder, wenn nicht die Väter des Neuen und des Alten Testaments? Da ich zum Volk spreche, muss ich auch die einzelnen Wörter der Evangelienlesung erklären\. Mit Mastvieh meinen wir gemästete Tiere; das lateinische Wort altilia leiten wir von alere, nähren, ab, als hieße es alitilia\. Da nun im Gesetz geschrieben steht: „Du sollst deinen Freund lieben und deinen Feind hassen[^bible-c6f30e9f-66c5-4ea9-bcb7-68c4ccad0b4e]“, war den Gerechten damals die Erlaubnis gegeben, Gottes und ihre eigenen Widersacher mit aller Kraft niederzuhalten und sie rechtmäßig mit dem Schwert zu erschlagen\. Im Neuen Testament wird dem zweifellos Einhalt geboten, denn die Wahrheit selbst verkündet: „Liebt eure Feinde, tut denen Gutes, die euch hassen\.[^bible-07460f14-f7cb-44fd-bd9a-299118475908]“ Wen also bezeichnen die Stiere, wenn nicht die Väter des Alten Testaments? Das Gesetz hatte ihnen erlaubt, ihre Gegner in hasserfüllter Vergeltung zu schlagen\. Was waren sie also, wenn ich so sagen darf, anderes als Stiere, die ihre Feinde mit dem Horn ihrer Körperkraft stießen? Und wen bildet das Mastvieh ab, wenn nicht die Väter des Neuen Testaments? Sie empfangen die Gnade, innerlich wohlgenährt zu sein, ringen sich von den irdischen Begierden los und schwingen sich auf den Flügeln ihrer Betrachtung zur Höhe empor\. Denn die Gedanken auf das Niedrige zu richten, was ist das anderes als eine Art Dürre des Geistes? Wer aber das Himmlische erkennt und sich schon durch heiliges Verlangen von oben mit der Speise innerer Freude nährt, wird gleichsam durch reichlichere Nahrung fett\. Mit diesem Fett gemästet zu werden, ersehnte der Prophet, als er sagte: „Wie mit Mark und Fett werde meine Seele gesättigt\.[^bible-fba2f5e4-47c5-4d69-84ab-bc15891d5898]“ Die ausgesandten Verkünder der Menschwerdung des Herrn, zuerst die Propheten und später die heiligen Apostel, erlitten Verfolgung durch die Ungläubigen\. Deshalb wird den Eingeladenen, die nicht kommen wollen, gesagt: „Meine Stiere und mein Mastvieh sind geschlachtet, und alles ist bereit\.[^bible-7ae3333e-2fd6-4ab6-a975-8746164c183f]“ Das heißt, deutlicher ausgedrückt: „Seht auf den Tod der Väter, die euch vorausgegangen sind, und bedenkt die Heilmittel für euer Leben\.“ Beachtet aber: Bei der ersten Einladung ist von den Stieren und dem Mastvieh noch keine Rede; bei der zweiten hingegen wird schon erwähnt, dass die Stiere und das Mastvieh geschlachtet sind\.[^bible-950c7fee-a99f-4f93-8ad9-95bbdedf1ffe] Denn wenn wir seine Worte nicht hören wollen, fügt der allmächtige Gott Beispiele hinzu, damit es uns umso leichter fällt, auf all das zu hoffen, was wir für unmöglich halten, wenn wir hören, dass auch andere es bereits durchstanden haben\.
+
+## Bibelverweise
+
+[^bible-07460f14-f7cb-44fd-bd9a-299118475908]: Mt 5,44
+[^bible-7ae3333e-2fd6-4ab6-a975-8746164c183f]: Mt 22,4
+[^bible-950c7fee-a99f-4f93-8ad9-95bbdedf1ffe]: Mt 22,3–Mt 22,4
+[^bible-c6f30e9f-66c5-4ea9-bcb7-68c4ccad0b4e]: Mt 5,43
+[^bible-fba2f5e4-47c5-4d69-84ab-bc15891d5898]: Ps 62,6

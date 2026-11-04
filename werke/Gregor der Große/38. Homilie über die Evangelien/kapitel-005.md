@@ -1,0 +1,16 @@
+# 38\. Homilie über die Evangelien – Kapitel 5: Gottes Gericht zeigt sich am Untergang der Verfolger, während der Tod der Märtyrer im Glauben Frucht trägt
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/38-homilie-ueber-die-evangelien#kapitel-4e21116b-2737-49e1-d9f3-08df3837a997).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Es folgt: „Sie aber kümmerten sich nicht darum und gingen fort, der eine auf sein Landgut, der andere seinen Geschäften nach\.[^bible-fe5c6a9a-0d2c-48de-a7e8-fca0864fd908]“ Auf sein Landgut zu gehen[^bible-fe5c6a9a-0d2c-48de-a7e8-fca0864fd908] bedeutet, sich maßlos der irdischen Arbeit hinzugeben; seinen Geschäften nachzugehen[^bible-fe5c6a9a-0d2c-48de-a7e8-fca0864fd908] bedeutet, nach dem Gewinn aus weltlichen Tätigkeiten zu gieren\. Denn der eine ist ganz auf die irdische Arbeit ausgerichtet, der andere den Geschäften dieser Welt ergeben\. So wollen sie das Geheimnis der Menschwerdung des Herrn weder bedenken noch danach leben\. Damit gehen sie gleichsam auf ihr Landgut oder ihren Geschäften nach und weigern sich, zur Hochzeit des Königs zu kommen\. Häufig tun manche noch Schlimmeres: Sie weisen die Gnade dessen, der sie ruft, nicht nur zurück, sondern bekämpfen diese Gnade sogar\. Deshalb heißt es weiter: „Die Übrigen aber ergriffen seine Diener, misshandelten und töteten sie\. Doch als der König davon erfuhr, sandte er seine Heere aus, vernichtete jene Mörder und brannte ihre Stadt nieder\.[^bible-80dd3062-84a6-4dc8-9f7c-b0f86d41aadd]“ Er vernichtet die Mörder[^bible-0e260968-7f16-4134-8e9a-2efc67f738aa], denn er tötet die Verfolger\. Er setzt ihre Stadt in Brand[^bible-0e260968-7f16-4134-8e9a-2efc67f738aa], denn nicht nur ihre Seelen, sondern auch ihr Fleisch, in dem sie gewohnt hatten, werden in der ewigen Flamme der Hölle gequält\. Es heißt aber, dass er durch seine ausgesandten Heere die Mörder vernichtete[^bible-0e260968-7f16-4134-8e9a-2efc67f738aa], weil jedes Gericht an den Menschen durch Engel vollzogen wird\. Denn was sind jene Engelscharen anderes als die Heere unseres Königs? Deshalb heißt dieser König auch Herr Sabaoth\. Sabaoth bedeutet nämlich Heerscharen\. Um seine Gegner zu vernichten, sendet er also sein Heer aus[^bible-0e260968-7f16-4134-8e9a-2efc67f738aa], denn der Herr vollzieht seine Vergeltung durch Engel\. Von der Macht dieser Vergeltung hörten unsere Väter damals; wir aber sehen sie bereits\. Wo sind denn jene stolzen Verfolger der Märtyrer? Wo sind jene, die den Nacken ihres Herzens gegen ihren Schöpfer gereckt hatten und vom todbringenden Ruhm dieser Welt aufgebläht waren? Seht, schon blüht der Tod der Märtyrer im Glauben der Lebenden; doch diejenigen, die sich ihrer Grausamkeit gegen sie rühmten, zählen nicht einmal mehr zu den Toten, an die wir uns erinnern\. So erkennen wir an den Tatsachen, was wir in Gleichnissen hören\.
+
+## Bibelverweise
+
+[^bible-0e260968-7f16-4134-8e9a-2efc67f738aa]: Mt 22,7
+[^bible-80dd3062-84a6-4dc8-9f7c-b0f86d41aadd]: Mt 22,6–Mt 22,7
+[^bible-fe5c6a9a-0d2c-48de-a7e8-fca0864fd908]: Mt 22,5
