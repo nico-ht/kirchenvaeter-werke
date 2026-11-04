@@ -20,6 +20,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Gegen die Bekanntmachung der Fehler von Brüdern](Gegen%20die%20Bekanntmachung%20der%20Fehler%20von%20Br%C3%BCdern/) · 12 Kapitel
 - [Homilie über das Wort: Vater, wenn es möglich ist](Homilie%20%C3%BCber%20das%20Wort%20Vater%2C%20wenn%20es%20m%C3%B6glich%20ist/) · 4 Kapitel
 - [Homilie über den Schuldner der zehntausend Talente](Homilie%20%C3%BCber%20den%20Schuldner%20der%20zehntausend%20Talente/) · 7 Kapitel
+- [Homilie über die kanaanäische Frau](Homilie%20%C3%BCber%20die%20kanaan%C3%A4ische%20Frau/) · 11 Kapitel
 - [Lobrede auf Ignatius](Lobrede%20auf%20Ignatius/) · 5 Kapitel
 - [Wie man eine Ehefrau auswählt](Wie%20man%20eine%20Ehefrau%20ausw%C3%A4hlt/) · 24 Kapitel
 - [Zwei Ermahnungen an den gefallenen Theodor](Zwei%20Ermahnungen%20an%20den%20gefallenen%20Theodor/) · 24 Kapitel

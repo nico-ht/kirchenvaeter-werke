@@ -238,6 +238,13 @@
     "contentRevision": "sha256:511bfd5ff35e286b9a8978767373d3c03e7d1b6b40b287c542092d467a00f52b"
   },
   {
+    "workId": "1ec90c15-195f-4618-481e-08deae7e3625",
+    "authorName": "Apollinaris von Laodicea",
+    "title": "Fragmente zum Kommentar zu Matthäus",
+    "directory": "werke/Apollinaris von Laodicea/Fragmente zum Kommentar zu Matthäus",
+    "contentRevision": "sha256:4f942958b1c52e6c26980e10fbb09d94defad029743664bdb102d2bc6d6d27e3"
+  },
+  {
     "workId": "5b869eb5-2975-44f3-91f2-08dd3742007d",
     "authorName": "Apollonius von Rom",
     "title": "Der Prozess gegen Apollonius",
@@ -952,6 +959,13 @@
     "contentRevision": "sha256:62bd1f5db2fabb054e7a0478fb50237f99e50a6314c9d8d17123a200f4223763"
   },
   {
+    "workId": "f8cf3fc4-b808-44cf-3272-08dee5b603e4",
+    "authorName": "Augustinus",
+    "title": "Über die Bergpredigt des Herrn, Buch 2",
+    "directory": "werke/Augustinus/Über die Bergpredigt des Herrn/Über die Bergpredigt des Herrn, Buch 2",
+    "contentRevision": "sha256:5e08bf1175539e1abf73a95f78006b044d7b6c25ecb147e9b44824fcd8f209c9"
+  },
+  {
     "workId": "73d18b68-3f9c-4f2e-21c9-08df23296889",
     "authorName": "Augustinus",
     "title": "Über die Lüge",
@@ -1090,6 +1104,125 @@
     "title": "Über das Heilige Pfingsten",
     "directory": "werke/Basilius von Seleukia/Über das Heilige Pfingsten",
     "contentRevision": "sha256:8babdf2358baab7b161db12c15641c20b806523b3220c9c4d1563db4252ab479"
+  },
+  {
+    "workId": "b214413c-5d02-4720-4b40-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Predigt über die acht Seligpreisungen",
+    "directory": "werke/Chromatius von Aquileia/Predigt über die acht Seligpreisungen",
+    "contentRevision": "sha256:b8687ffa4574b09446b81667860d4bc70ebff53c8c48ca7491e08b7905e69f3e"
+  },
+  {
+    "workId": "51fbc531-9c6d-4a21-4b30-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Traktat über Matthäus 3,15 – Die Taufe Jesu",
+    "directory": "werke/Chromatius von Aquileia/Traktate über Matthäus/Traktat über Matthäus 3,15 – Die Taufe Jesu",
+    "contentRevision": "sha256:dd27525c393aaacfe67a7806504953ee369bb5291df00a02d2753ad9e130e458"
+  },
+  {
+    "workId": "0366b2fa-e67e-4896-4b31-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Traktat über Matthäus 3,16–17 – Die Stimme des Vaters bei der Taufe",
+    "directory": "werke/Chromatius von Aquileia/Traktate über Matthäus/Traktat über Matthäus 3,16–17 – Die Stimme des Vaters bei der Taufe",
+    "contentRevision": "sha256:ce67e94d3a78854f8c39f56225171f41f36de5e0403c1a6b0714f6af45a909d1"
+  },
+  {
+    "workId": "cf765c9c-8a5d-4dd0-4b33-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Traktat über Matthäus 5,13 – Ihr seid das Salz der Erde",
+    "directory": "werke/Chromatius von Aquileia/Traktate über Matthäus/Traktat über Matthäus 5,13 – Ihr seid das Salz der Erde",
+    "contentRevision": "sha256:a3d5f08783161e2769572f4a2b033cdb9682a3361c34128cbcfc00a0d2a9b3aa"
+  },
+  {
+    "workId": "be58b3f1-9529-4258-4b34-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Traktat über Matthäus 5,14–16 – Ihr seid das Licht der Welt",
+    "directory": "werke/Chromatius von Aquileia/Traktate über Matthäus/Traktat über Matthäus 5,14–16 – Ihr seid das Licht der Welt",
+    "contentRevision": "sha256:cacaa084e3e49f1e9ac1ee147f0b731ef08fe723ff33d7c67beb1bab1f5c80dc"
+  },
+  {
+    "workId": "fa310c9a-1b3a-450a-4b35-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Traktat über Matthäus 5,17–20 – Nicht gekommen, das Gesetz aufzuheben",
+    "directory": "werke/Chromatius von Aquileia/Traktate über Matthäus/Traktat über Matthäus 5,17–20 – Nicht gekommen, das Gesetz aufzuheben",
+    "contentRevision": "sha256:022f58af1701fee0433b6ba7c9443b5340ca632c10029a121dd7ef57df270f9a"
+  },
+  {
+    "workId": "ecb3d4e3-44d7-4165-4b32-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Traktat über Matthäus 5,1–12 – Die Seligpreisungen",
+    "directory": "werke/Chromatius von Aquileia/Traktate über Matthäus/Traktat über Matthäus 5,1–12 – Die Seligpreisungen",
+    "contentRevision": "sha256:bd2f7e31e21144559bb3ebd6fc01504fab7355cf2bf38d030ab990fa55f74c97"
+  },
+  {
+    "workId": "f89303b8-7d06-40c4-4b36-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Traktat über Matthäus 5,21–24 – Vom Zorn gegen den Bruder",
+    "directory": "werke/Chromatius von Aquileia/Traktate über Matthäus/Traktat über Matthäus 5,21–24 – Vom Zorn gegen den Bruder",
+    "contentRevision": "sha256:47977dca9c3da2df519300b1d22aac6aac1d33af91266721c3dbd30fa94bb634"
+  },
+  {
+    "workId": "f9b5839a-28dc-4c3a-4b37-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Traktat über Matthäus 5,25–26 – Sich mit dem Gegner versöhnen",
+    "directory": "werke/Chromatius von Aquileia/Traktate über Matthäus/Traktat über Matthäus 5,25–26 – Sich mit dem Gegner versöhnen",
+    "contentRevision": "sha256:8ed2ffd842d1749199eeb04532c0e8d18a18939a6543b5045a87344731f225a0"
+  },
+  {
+    "workId": "f375a33b-fbef-4f40-4b38-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Traktat über Matthäus 5,27–30 – Vom Ehebruch im Herzen",
+    "directory": "werke/Chromatius von Aquileia/Traktate über Matthäus/Traktat über Matthäus 5,27–30 – Vom Ehebruch im Herzen",
+    "contentRevision": "sha256:d18cf0c2b4784707df0893516f2045001c2c8e3ce2aab99036690fea381ebab0"
+  },
+  {
+    "workId": "aa3db51f-eb7b-4373-4b39-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Traktat über Matthäus 5,31–42 – Ehescheidung, Schwören und Vergeltung",
+    "directory": "werke/Chromatius von Aquileia/Traktate über Matthäus/Traktat über Matthäus 5,31–42 – Ehescheidung, Schwören und Vergeltung",
+    "contentRevision": "sha256:206a0e1d7c010704e9400b738616e0b68a1265d3f80de235b2a266a2973b0352"
+  },
+  {
+    "workId": "847ccfeb-5d23-4d17-4b3a-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Traktat über Matthäus 5,43–6,4 – Feindesliebe und Almosen",
+    "directory": "werke/Chromatius von Aquileia/Traktate über Matthäus/Traktat über Matthäus 5,43–6,4 – Feindesliebe und Almosen",
+    "contentRevision": "sha256:2a29a2fb12084335339ce451cf5352d10dedc2db918bcd5be93f2b4282956a8a"
+  },
+  {
+    "workId": "f406e5d7-d023-4a34-4b3d-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Traktat über Matthäus 6,16–18 – Vom Fasten",
+    "directory": "werke/Chromatius von Aquileia/Traktate über Matthäus/Traktat über Matthäus 6,16–18 – Vom Fasten",
+    "contentRevision": "sha256:43508a9e3c5fe1319926ff6557428bacf4a1baa7ab3089da32eebff384b52fc6"
+  },
+  {
+    "workId": "9d1729fb-339c-4e93-4b3e-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Traktat über Matthäus 6,19–21 – Schätze im Himmel",
+    "directory": "werke/Chromatius von Aquileia/Traktate über Matthäus/Traktat über Matthäus 6,19–21 – Schätze im Himmel",
+    "contentRevision": "sha256:b0da807996ea5e0696bdb8ea0ed6f795b1760558be9cd1c737715cdccc835c44"
+  },
+  {
+    "workId": "e9f90a18-4cd0-495d-4b3f-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Traktat über Matthäus 6,22–24 – Das Auge als Leuchte des Leibes",
+    "directory": "werke/Chromatius von Aquileia/Traktate über Matthäus/Traktat über Matthäus 6,22–24 – Das Auge als Leuchte des Leibes",
+    "contentRevision": "sha256:937f9d31ca4fa6ebe526b1b6650f7813c8c87b5c9d36378329b5eb0b4b12386e"
+  },
+  {
+    "workId": "2f2a08e0-3eab-4cc0-4b3b-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Traktat über Matthäus 6,5–8 – Vom rechten Beten",
+    "directory": "werke/Chromatius von Aquileia/Traktate über Matthäus/Traktat über Matthäus 6,5–8 – Vom rechten Beten",
+    "contentRevision": "sha256:5497219c7e03d4df886005636a21bd545119ac00f584f804ef1544d09ef24ac5"
+  },
+  {
+    "workId": "815f1c30-d0ad-418d-4b3c-08df38325ec5",
+    "authorName": "Chromatius von Aquileia",
+    "title": "Traktat über Matthäus 6,9–15 – Das Vaterunser",
+    "directory": "werke/Chromatius von Aquileia/Traktate über Matthäus/Traktat über Matthäus 6,9–15 – Das Vaterunser",
+    "contentRevision": "sha256:298363ae858cf33cd480799f6697318e689e26707fb4c62b546d6041cdb9f44b"
   },
   {
     "workId": "07336f39-978b-4af0-0e3a-08dd4d239d25",
@@ -1629,6 +1762,83 @@
     "title": "7. Predigt",
     "directory": "werke/Gaudentius von Brescia/Predigten/7. Predigt",
     "contentRevision": "sha256:2adde4ff91a4a55f65f6fcfef1197f1499fb3467733b630f30bb1a6d5be9453d"
+  },
+  {
+    "workId": "2eea685d-ffcc-49b5-02c5-08df3837a918",
+    "authorName": "Gregor der Große",
+    "title": "10. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/10. Homilie über die Evangelien",
+    "contentRevision": "sha256:51353c7881352643e4e966e630806251682e16de8a4245fa4dc17a4dba071182"
+  },
+  {
+    "workId": "df350e00-b376-49a3-02c6-08df3837a918",
+    "authorName": "Gregor der Große",
+    "title": "11. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/11. Homilie über die Evangelien",
+    "contentRevision": "sha256:df5b76886dc057ce2ac755db8e65004b8b72c36b56b78edacf45e3ba992bc02d"
+  },
+  {
+    "workId": "710d95b2-bfcd-4194-02c7-08df3837a918",
+    "authorName": "Gregor der Große",
+    "title": "12. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/12. Homilie über die Evangelien",
+    "contentRevision": "sha256:b21fbd01c6af753df6b6b159d4c3e0eff76c12c15b0fe2c4986eaf5ca1c333fd"
+  },
+  {
+    "workId": "a8b8b1d9-f1a8-4df7-02c8-08df3837a918",
+    "authorName": "Gregor der Große",
+    "title": "16. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/16. Homilie über die Evangelien",
+    "contentRevision": "sha256:c9a85c452d172f42599c0c1c667da0e83ae05923f5c7c529094a6664ef3f44a4"
+  },
+  {
+    "workId": "39df8585-2da0-49c4-02c9-08df3837a918",
+    "authorName": "Gregor der Große",
+    "title": "19. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/19. Homilie über die Evangelien",
+    "contentRevision": "sha256:46358d6d27b9eb74d8ff779c14ec2caf6490e062c5f305663fac521fd3aa6e47"
+  },
+  {
+    "workId": "889e4d29-8cd9-4c66-02c2-08df3837a918",
+    "authorName": "Gregor der Große",
+    "title": "3. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/3. Homilie über die Evangelien",
+    "contentRevision": "sha256:e5d2cacd5721e6ef4862f6e06e2665a5791ceac7354a3bd3cb1696d5b367ef30"
+  },
+  {
+    "workId": "79e9cefd-4431-409e-02ca-08df3837a918",
+    "authorName": "Gregor der Große",
+    "title": "38. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/38. Homilie über die Evangelien",
+    "contentRevision": "sha256:139f8578e3b2e9477bd3c4fcc938994f94fb5231f3ee1d0d3e60c4ef134495c5"
+  },
+  {
+    "workId": "1535366f-fc1f-4274-02c3-08df3837a918",
+    "authorName": "Gregor der Große",
+    "title": "4. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/4. Homilie über die Evangelien",
+    "contentRevision": "sha256:0ec3a3801c97fe04462532e1ec8f6e4bdf564ff1f0032300ea6ed9ce6576ea5b"
+  },
+  {
+    "workId": "adfc45be-d86a-4ae7-02c4-08df3837a918",
+    "authorName": "Gregor der Große",
+    "title": "5. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/5. Homilie über die Evangelien",
+    "contentRevision": "sha256:0ebc615e6b5ed965dbc8c97ed45bf645b5c463f7d254c69a27c5628320bba2ca"
+  },
+  {
+    "workId": "60afa84b-589f-4d21-159d-08df23a78072",
+    "authorName": "Gregor der Große",
+    "title": "6. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/6. Homilie über die Evangelien",
+    "contentRevision": "sha256:e0e079875d55d6916c46b4d8b676b11744f64132bb7e1bd48639efc4a4dabc96"
+  },
+  {
+    "workId": "b9925e6e-bfd4-4276-a198-08df239ccd94",
+    "authorName": "Gregor der Große",
+    "title": "9. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/9. Homilie über die Evangelien",
+    "contentRevision": "sha256:1a9d86fca708c73f1789d28251241775cdb2f6041098e77fafde90f953bbf56e"
   },
   {
     "workId": "d4dc0cb4-27f5-422b-47c4-08dd468a1db5",
@@ -3458,6 +3668,13 @@
     "contentRevision": "sha256:5dcee1660355abe9d5c110cc05a39ef460ba859ba8031774b8b8d8f940fd0dd3"
   },
   {
+    "workId": "53a6d37c-00aa-485c-02f7-08df3837a918",
+    "authorName": "Johannes Chrysostomus",
+    "title": "Homilie über die kanaanäische Frau",
+    "directory": "werke/Johannes Chrysostomus/Homilie über die kanaanäische Frau",
+    "contentRevision": "sha256:142ba7c68e620114f51294844d65b1bb526aec2024891208dce55e8505eb6762"
+  },
+  {
     "workId": "c9d051c5-3cc0-4a92-5bb7-08df27871084",
     "authorName": "Johannes Chrysostomus",
     "title": "Lobrede auf Ignatius",
@@ -3855,6 +4072,13 @@
     "title": "Drei Trinitätshymnen",
     "directory": "werke/Marius Victorinus/Drei Trinitätshymnen",
     "contentRevision": "sha256:72d602b353e4a84c653280952ba1bd05f90c158514e7647e52d04503421c3a26"
+  },
+  {
+    "workId": "ca22fa4c-1b96-41dc-8259-08df38b108ae",
+    "authorName": "Martin von Braga",
+    "title": "Über die Besserung der Landleute",
+    "directory": "werke/Martin von Braga/Über die Besserung der Landleute",
+    "contentRevision": "sha256:ac72951d38449b94f47dd00df02c2919cd1312d695437cff0565ad4964d6e280"
   },
   {
     "workId": "642dba1d-0426-492e-d5b0-08dd2dca5489",
@@ -4921,11 +5145,32 @@
     "contentRevision": "sha256:dbc3f48cea9490cb5a5a49b0723a3a156f595fde96cdf2a38a58829a87d09bfd"
   },
   {
+    "workId": "145496ad-9fdb-4250-02f6-08df3837a918",
+    "authorName": "Origenes",
+    "title": "Kommentar zu Matthäus, Buch 1 (Fragment)",
+    "directory": "werke/Origenes/Kommentar zu Matthäus/Kommentar zu Matthäus, Buch 1 (Fragment)",
+    "contentRevision": "sha256:6b880d9b5d96254b1ed1255b84d3452da15f29da2024a37f866ec69d4618151e"
+  },
+  {
+    "workId": "907e70e2-24e5-45fe-973b-08df3510929b",
+    "authorName": "Origenes",
+    "title": "Kommentar zu Matthäus, Buch 11",
+    "directory": "werke/Origenes/Kommentar zu Matthäus/Kommentar zu Matthäus, Buch 11",
+    "contentRevision": "sha256:00f1ae2627746f9d2587507ff166eb608550bb015107fc12c64c514867c0cefd"
+  },
+  {
     "workId": "e61ad451-5989-479a-6192-08df382da9a2",
     "authorName": "Origenes",
     "title": "Kommentar zu Matthäus, Buch 17",
     "directory": "werke/Origenes/Kommentar zu Matthäus/Kommentar zu Matthäus, Buch 17",
     "contentRevision": "sha256:695e73a81bce9ac17b7e02eade91c5e70854f3916712bb2b08552e937b4924f9"
+  },
+  {
+    "workId": "44f179f5-949f-4c2e-2306-08df209c828f",
+    "authorName": "Origenes",
+    "title": "Kommentar zu Matthäus, Buch 2 (Fragment)",
+    "directory": "werke/Origenes/Kommentar zu Matthäus/Kommentar zu Matthäus, Buch 2 (Fragment)",
+    "contentRevision": "sha256:127eb5b41560d50ed68b36a989f97619af5949e785b44a90d18e9ac0100e9ef6"
   },
   {
     "workId": "867183b9-b4a5-4976-02f8-08df3837a918",
@@ -4998,6 +5243,20 @@
     "contentRevision": "sha256:ed69cf6e13354d02c0428129ffd2cd60d09182bb1c3c6563af9f05ebf0c19f87"
   },
   {
+    "workId": "2100370b-0465-4e4d-4b2e-08df38325ec5",
+    "authorName": "Papst Leo der Große",
+    "title": "Predigt 51 – Über die Verklärung des Herrn",
+    "directory": "werke/Papst Leo der Große/Predigten/Predigt 51 – Über die Verklärung des Herrn",
+    "contentRevision": "sha256:b12114d523d5fb9f660308dd4f29dc26b437da35a006d0c3d0f91107097581a1"
+  },
+  {
+    "workId": "a1249e35-16df-4895-4b2f-08df38325ec5",
+    "authorName": "Papst Leo der Große",
+    "title": "Predigt 95 – Über die Seligpreisungen",
+    "directory": "werke/Papst Leo der Große/Predigten/Predigt 95 – Über die Seligpreisungen",
+    "contentRevision": "sha256:d0ed88500c89d77150cbb1fdfccdd6b4234739ee912f32dcda704c69faec5d25"
+  },
+  {
     "workId": "e12358c2-0b64-4f56-7bc9-08de2c2242f2",
     "authorName": "Patrick",
     "title": "Brief an die Soldaten von Coroticus",
@@ -5019,6 +5278,34 @@
     "contentRevision": "sha256:eda05cdae8974ad4de8591f3f8526c0ff4a7e129b5d326fd5cf1b454154b5666"
   },
   {
+    "workId": "49aa58ee-ab42-4e41-02ce-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "11. Predigt über das Fasten und die Versuchungen Christi",
+    "directory": "werke/Petrus Chrysologus/11. Predigt über das Fasten und die Versuchungen Christi",
+    "contentRevision": "sha256:856f4f3d06e23d17c4a4578e835d2b7d72355d32ef6db806a52984315c6d6885"
+  },
+  {
+    "workId": "477140f9-d916-49fa-02cf-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "12. Predigt über die Versuchungen Christi",
+    "directory": "werke/Petrus Chrysologus/12. Predigt über die Versuchungen Christi",
+    "contentRevision": "sha256:db3a8a6a0a36833554f8932e0755cb18bc6d3627ab3c6e5a817371ad29f6e98b"
+  },
+  {
+    "workId": "d39d60d3-07c5-4682-02ec-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "127. Predigt über die Enthauptung Johannes des Täufers",
+    "directory": "werke/Petrus Chrysologus/127. Predigt über die Enthauptung Johannes des Täufers",
+    "contentRevision": "sha256:d8467aed82378a5ad16f61de6fe3b552c54e803c4ecf74ac6f7388cb7b4b88f6"
+  },
+  {
+    "workId": "8f9719a4-3d87-45a6-02d0-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "13. Predigt über die Versuchungen Christi",
+    "directory": "werke/Petrus Chrysologus/13. Predigt über die Versuchungen Christi",
+    "contentRevision": "sha256:c3c25ea51a6e5a49b2be4e643c06b4cd9aa011f0ca1a4d76b05aa5f44e1f64d1"
+  },
+  {
     "workId": "00f1ad89-078e-4561-ffcc-08df3004285f",
     "authorName": "Petrus Chrysologus",
     "title": "144. Predigt über die Menschwerdung Christi",
@@ -5026,11 +5313,284 @@
     "contentRevision": "sha256:327310033cba78451b9ba94a5e47958a5e63ee486cfddacc38338cfb7854053e"
   },
   {
+    "workId": "5b51d5d0-2647-40f5-02ed-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "145. Predigt über die Geburt Christi und Josef, der Maria entlassen wollte",
+    "directory": "werke/Petrus Chrysologus/145. Predigt über die Geburt Christi und Josef, der Maria entlassen wollte",
+    "contentRevision": "sha256:9e72e08c6f40ef16f7b71c9666503122dbe3ae9b11ea3b1ecb095846208e75ec"
+  },
+  {
+    "workId": "2618e8e1-4cc9-4cda-02d1-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "15. Predigt über den Hauptmann",
+    "directory": "werke/Petrus Chrysologus/15. Predigt über den Hauptmann",
+    "contentRevision": "sha256:2fba29aef0340e033b2c6eb8219dbccf5539f5b8930e809c9ec2d2a173465e42"
+  },
+  {
+    "workId": "73a8570b-5f36-4b9f-02ee-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "150. Predigt über die Flucht Christi nach Ägypten",
+    "directory": "werke/Petrus Chrysologus/150. Predigt über die Flucht Christi nach Ägypten",
+    "contentRevision": "sha256:e45f99ba603cc6aa3126e7c806d332260cac9c2195b10c148bfed5653125df54"
+  },
+  {
+    "workId": "2fd85c0c-d551-4162-02ef-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "151. Predigt über die Flucht nach Ägypten",
+    "directory": "werke/Petrus Chrysologus/151. Predigt über die Flucht nach Ägypten",
+    "contentRevision": "sha256:71646228ae732bd170b90631d34cf9ee1f7cc2bbd52078ab21b8fb55df62291c"
+  },
+  {
+    "workId": "e02ce0ce-6273-4891-02f0-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "152. Predigt über den Kindermord",
+    "directory": "werke/Petrus Chrysologus/152. Predigt über den Kindermord",
+    "contentRevision": "sha256:8848ef8ae05480486e4e3b83e4611054a973d3439b94506e6540d7912705a450"
+  },
+  {
+    "workId": "7f1a06f8-b417-48d1-02f1-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "153. Predigt über den Kindermord",
+    "directory": "werke/Petrus Chrysologus/153. Predigt über den Kindermord",
+    "contentRevision": "sha256:2983648061c26bcdc9e65a72e0e3d643fced1d29388ade54fe0a700e9dfd85a2"
+  },
+  {
+    "workId": "2916096a-eceb-4474-02f2-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "156. Predigt über Epiphanie und die Magier",
+    "directory": "werke/Petrus Chrysologus/156. Predigt über Epiphanie und die Magier",
+    "contentRevision": "sha256:edda33efc631197ee5c47fcbaa635da0bbc01bab116de5c454a93f55989e28ab"
+  },
+  {
+    "workId": "346ebfb0-6c2f-449d-02f3-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "157. Predigt über die Magier",
+    "directory": "werke/Petrus Chrysologus/157. Predigt über die Magier",
+    "contentRevision": "sha256:c205b8e6f1ae24bc20abe7156d7f9a73d61504bd6b6ed1a2ee65df7a78801567"
+  },
+  {
+    "workId": "4dba0778-1361-49b6-02f4-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "158. Predigt über die Magier",
+    "directory": "werke/Petrus Chrysologus/158. Predigt über die Magier",
+    "contentRevision": "sha256:557131f39f0d7fea77e74620aa63986f0c322aec82d34981327b8256de20f443"
+  },
+  {
+    "workId": "af34d9d0-21ab-480d-02d2-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "16. Predigt über die zwei Besessenen",
+    "directory": "werke/Petrus Chrysologus/16. Predigt über die zwei Besessenen",
+    "contentRevision": "sha256:4b128d579228016ad97d371036356f40e784ce7cb0df178a2127de7b79870462"
+  },
+  {
+    "workId": "8f55df8a-b6e1-406b-02f5-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "167. Predigt über die Predigt Johannes des Täufers und die Buße",
+    "directory": "werke/Petrus Chrysologus/167. Predigt über die Predigt Johannes des Täufers und die Buße",
+    "contentRevision": "sha256:e79fdad870dd990c5d88d7b899f936eee9706fea39ae1abd458fc2fbe3fbdbc2"
+  },
+  {
+    "workId": "46ee43b9-f8ac-44f8-02d3-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "19. Predigt über den Schriftgelehrten, der Christus nachfolgen wollte",
+    "directory": "werke/Petrus Chrysologus/19. Predigt über den Schriftgelehrten, der Christus nachfolgen wollte",
+    "contentRevision": "sha256:ae893963df135c6747dc7fb54f970269abade9947c743c01187140eea1165096"
+  },
+  {
+    "workId": "bfd91fa7-2e61-4000-02d4-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "20. Predigt über die Stillung des Sturms",
+    "directory": "werke/Petrus Chrysologus/20. Predigt über die Stillung des Sturms",
+    "contentRevision": "sha256:b88f1a731d561d245cc06a761e8abdef6e45f70ff76785a20b35de2861673451"
+  },
+  {
+    "workId": "6678572b-9c8f-4ecc-02d5-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "28. Predigt über die Berufung des Zöllners Matthäus",
+    "directory": "werke/Petrus Chrysologus/28. Predigt über die Berufung des Zöllners Matthäus",
+    "contentRevision": "sha256:80df584b878aa91a03ad5c439a77f70885fa2f1cac2206ebdae8e77769f2a4d2"
+  },
+  {
+    "workId": "cc58c5f8-bcd7-4f65-02d6-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "29. Predigt über die Berufung des Matthäus",
+    "directory": "werke/Petrus Chrysologus/29. Predigt über die Berufung des Matthäus",
+    "contentRevision": "sha256:bdd04e22a65c53ff0775c18e0a0da4d407cb7637cf834d4e24668061b2be1198"
+  },
+  {
+    "workId": "b56bbe53-6f09-4775-02d7-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "30. Predigt über die Berufung des Matthäus",
+    "directory": "werke/Petrus Chrysologus/30. Predigt über die Berufung des Matthäus",
+    "contentRevision": "sha256:2021303e66956685aedc8b8ec173a079366f101dfa84aea3b3abf8a7b4b34674"
+  },
+  {
+    "workId": "fa995cf7-764a-4ce7-02d8-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "31. Predigt über das Fasten der Pharisäer und der Jünger des Johannes",
+    "directory": "werke/Petrus Chrysologus/31. Predigt über das Fasten der Pharisäer und der Jünger des Johannes",
+    "contentRevision": "sha256:5f5cfa513e9c1f48fb68b6f25e1ad526d3b96a2ea4ce9dd48a8ad73a7aa044e3"
+  },
+  {
+    "workId": "883f5c4d-4a0d-438d-02d9-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "34. Predigt über die Tochter des Synagogenvorstehers und die blutflüssige Frau",
+    "directory": "werke/Petrus Chrysologus/34. Predigt über die Tochter des Synagogenvorstehers und die blutflüssige Frau",
+    "contentRevision": "sha256:3232387773d6d2a77babc68a958374ad66982b6c82ff617be4a7f99789f84590"
+  },
+  {
+    "workId": "fd484121-b6f3-4a3a-02da-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "35. Predigt über die blutflüssige Frau",
+    "directory": "werke/Petrus Chrysologus/35. Predigt über die blutflüssige Frau",
+    "contentRevision": "sha256:b65eb017bdc0aa4267489b7f271c52da77f4b741756b574951195b0259cb6fdd"
+  },
+  {
+    "workId": "58173a0a-de95-452c-02db-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "38. Predigt über das geduldige Ertragen von Unrecht",
+    "directory": "werke/Petrus Chrysologus/38. Predigt über das geduldige Ertragen von Unrecht",
+    "contentRevision": "sha256:9b599091bc0062ac8eeac61e0ca950120a9ea3998c1e3a6a112c9dfdf4104db6"
+  },
+  {
     "workId": "f5efa233-de1d-49ec-6122-08df2a82baf6",
     "authorName": "Petrus Chrysologus",
     "title": "43. Predigt über Gebet, Fasten und Barmherzigkeit",
     "directory": "werke/Petrus Chrysologus/43. Predigt über Gebet, Fasten und Barmherzigkeit",
     "contentRevision": "sha256:f9c31c5dbf15cce2ea62310e70736b2655fb5e13b0210db0834742050e2cd6df"
+  },
+  {
+    "workId": "e8981c64-ff44-4019-02dc-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "47. Predigt über die Gleichnisse von der Perle und vom Netz",
+    "directory": "werke/Petrus Chrysologus/47. Predigt über die Gleichnisse von der Perle und vom Netz",
+    "contentRevision": "sha256:c73e838eced3646875c31c660723a0036a44fdd220d90ed4e5b7627837ba26b2"
+  },
+  {
+    "workId": "c5617848-bc3f-4802-02dd-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "50. Predigt über die Heilung des Gelähmten",
+    "directory": "werke/Petrus Chrysologus/50. Predigt über die Heilung des Gelähmten",
+    "contentRevision": "sha256:69d675ec333d36c2f92bb85ed1d70576ea535c6ca7896a650201f4a13210120f"
+  },
+  {
+    "workId": "4d1b722d-deda-4304-02de-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "53. Predigt über den Frieden",
+    "directory": "werke/Petrus Chrysologus/53. Predigt über den Frieden",
+    "contentRevision": "sha256:5ee586b22502a22f5cbbad0f008c886619764cd421b80693ccf593277be676e8"
+  },
+  {
+    "workId": "6855a9bb-4fad-442f-02df-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "67. Predigt über das Vaterunser",
+    "directory": "werke/Petrus Chrysologus/67. Predigt über das Vaterunser",
+    "contentRevision": "sha256:ee299cda2b9ce01ebfb153f7cb638f80a371c19455681e0786ba1ac19481404d"
+  },
+  {
+    "workId": "b0cd2613-d89b-4bde-02e0-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "68. Predigt über das Vaterunser",
+    "directory": "werke/Petrus Chrysologus/68. Predigt über das Vaterunser",
+    "contentRevision": "sha256:e868594b401b796213ec8b38c20f21c9ebad329806135ae988e40439b32954cb"
+  },
+  {
+    "workId": "c7fac5c5-5748-480c-02e1-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "69. Predigt über das Vaterunser",
+    "directory": "werke/Petrus Chrysologus/69. Predigt über das Vaterunser",
+    "contentRevision": "sha256:e80b982a0c492bb815d95a6715def225fd8b1fceb481a2f5ee19d60df64846b3"
+  },
+  {
+    "workId": "af137410-aebc-4088-02cb-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "7. Predigt über Heuchelei und Almosen",
+    "directory": "werke/Petrus Chrysologus/7. Predigt über Heuchelei und Almosen",
+    "contentRevision": "sha256:322d8616f7d4b99734ea492485910c46845410f3878954e7732d1112671b7877"
+  },
+  {
+    "workId": "7ae13033-8447-4b4d-02e2-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "70. Predigt über das Vaterunser",
+    "directory": "werke/Petrus Chrysologus/70. Predigt über das Vaterunser",
+    "contentRevision": "sha256:e43d74502df0241f855203e2f712ddda886e3d60e48d265a26e45e3600a6f885"
+  },
+  {
+    "workId": "2d5d16ac-64c1-4553-02e3-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "71. Predigt über das Vaterunser",
+    "directory": "werke/Petrus Chrysologus/71. Predigt über das Vaterunser",
+    "contentRevision": "sha256:d5626e573fee58f2f45c011fe291edcf29094cba1dce8ca56500529bb2062a2f"
+  },
+  {
+    "workId": "b763a870-5452-4851-02e4-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "72. Predigt über das Vaterunser",
+    "directory": "werke/Petrus Chrysologus/72. Predigt über das Vaterunser",
+    "contentRevision": "sha256:0c1a3e00c32d7df792d937428e226973945be61675c145735478d52314ec3bbc"
+  },
+  {
+    "workId": "94760e63-c16f-4405-02e5-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "74. Predigt über die Auferstehung Christi",
+    "directory": "werke/Petrus Chrysologus/74. Predigt über die Auferstehung Christi",
+    "contentRevision": "sha256:2245e1c79e67910b5f51360144bca5ff0c120f9bee7872f1fefda830e1d787e9"
+  },
+  {
+    "workId": "9f31f2df-2950-421c-02e6-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "75. Predigt über die Auferstehung Christi",
+    "directory": "werke/Petrus Chrysologus/75. Predigt über die Auferstehung Christi",
+    "contentRevision": "sha256:99a06e1cb6e2ca718179d6ac0f1a05dd5818dd3a46db81ac7f1eb507a8b69eb7"
+  },
+  {
+    "workId": "976905a9-1bc3-44ef-02e7-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "76. Predigt über die Auferstehung und die Erscheinung vor den Frauen",
+    "directory": "werke/Petrus Chrysologus/76. Predigt über die Auferstehung und die Erscheinung vor den Frauen",
+    "contentRevision": "sha256:675e8ef77112cb1d49f7aea43b164e776217a41e47c7246d469ad5aff755a286"
+  },
+  {
+    "workId": "19852bb9-e502-48b7-02e8-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "77. Predigt über die Auferstehung Christi",
+    "directory": "werke/Petrus Chrysologus/77. Predigt über die Auferstehung Christi",
+    "contentRevision": "sha256:18603714b52fd5bb6465430ecf240638e66abc20c1568b6b5d305ef2c2adc32a"
+  },
+  {
+    "workId": "0393793d-44f1-4456-02cc-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "8. Predigt über Fasten und Almosen",
+    "directory": "werke/Petrus Chrysologus/8. Predigt über Fasten und Almosen",
+    "contentRevision": "sha256:b896dc7c39a89f76a64874864c357cf8cc4585f1115d9ea11a2f42c7a294f1c1"
+  },
+  {
+    "workId": "1eab27cb-4280-4962-02e9-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "80. Predigt über die Auferstehung Christi und die Erscheinung vor den Frauen",
+    "directory": "werke/Petrus Chrysologus/80. Predigt über die Auferstehung Christi und die Erscheinung vor den Frauen",
+    "contentRevision": "sha256:db1e1929e034a0c42d24aa7538c1ac17d94a4416f9ef370893e5d1115c2cbaf5"
+  },
+  {
+    "workId": "8b0fb966-a973-4d2b-02cd-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "9. Predigt über das Wort: Habt acht, eure Gerechtigkeit nicht vor den Menschen zu üben",
+    "directory": "werke/Petrus Chrysologus/9. Predigt über das Wort Habt acht, eure Gerechtigkeit nicht vor den Menschen zu üben",
+    "contentRevision": "sha256:b5ab2c65f2e110df48c8b0e5a0326415efe1992c81a0ad6b1f0f4c4d5c51043e"
+  },
+  {
+    "workId": "30d1056c-111d-4c81-02ea-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "96. Predigt über das Gleichnis vom Unkraut",
+    "directory": "werke/Petrus Chrysologus/96. Predigt über das Gleichnis vom Unkraut",
+    "contentRevision": "sha256:e2775715edddb1c68acffe6b6cd0196bad660bc0528274111ab393a9995bdb89"
+  },
+  {
+    "workId": "eda8ca50-f9a1-4548-02eb-08df3837a918",
+    "authorName": "Petrus Chrysologus",
+    "title": "97. Predigt über das Gleichnis vom Unkraut",
+    "directory": "werke/Petrus Chrysologus/97. Predigt über das Gleichnis vom Unkraut",
+    "contentRevision": "sha256:78cf8aece6178913021825f2c52e30745820d456a2c703d359a721a9bf05254a"
   },
   {
     "workId": "bc24b3a9-ee54-4800-788f-08df33a684ef",

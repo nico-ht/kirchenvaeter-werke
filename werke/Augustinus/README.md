@@ -11,7 +11,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Gegen die Akademiker](Gegen%20die%20Akademiker/) · 3 Werke
 - [Predigten](Predigten/) · 49 Werke
 - [Über Genesis gegen die Manichäer](%C3%9Cber%20Genesis%20gegen%20die%20Manich%C3%A4er/) · 2 Werke
-- [Über die Bergpredigt des Herrn](%C3%9Cber%20die%20Bergpredigt%20des%20Herrn/) · 1 Werk
+- [Über die Bergpredigt des Herrn](%C3%9Cber%20die%20Bergpredigt%20des%20Herrn/) · 2 Werke
 
 ## Einzelwerke
 
