@@ -1,0 +1,31 @@
+# Kommentar zu Matthäus, Buch 11 – Kapitel 15: Böse Gedanken sind die Quelle aller Sünden und beflecken selbst scheinbar gute Werke
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/origenes-matthaeus-buch-11#kapitel-abf8bad1-9181-4102-3aaa-08df38321db2).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Als Nächstes wollen wir betrachten, wie es sich mit dem verhält, was herauskommt und den Menschen verunreinigt[^bible-3248ce83-f2a1-43f4-9971-fdfa55dbddf8]\. Nicht deshalb, weil es aus dem Mund kommt[^bible-3248ce83-f2a1-43f4-9971-fdfa55dbddf8], verunreinigt es den Menschen\. Vielmehr liegt der Grund der Verunreinigung im Herzen, wenn aus ihm böse Gedanken hervorgehen[^bible-8000183c-0cbb-4e68-bd95-de010cfb93b8], noch bevor etwas durch den Mund herauskommt\. Zu diesen Gedanken zählen im Einzelnen Morde, Ehebrüche, Unzucht, Diebstähle, falsche Zeugenaussagen und Lästerungen[^bible-8000183c-0cbb-4e68-bd95-de010cfb93b8]\. Denn dies ist es, was den Menschen verunreinigt, wenn es aus dem Herzen hervorgeht und dann durch den Mund nach außen dringt[^bible-064360c4-ad3c-4565-a7b8-300ad832d2ef]\. Wenn es also nicht aus dem Herzen herausgelangen würde, sondern dort, im Bereich des Herzens, festgehalten würde, ohne dass man es durch den Mund aussprechen ließe, dann würde es sehr rasch verschwinden, und der Mensch würde nicht mehr verunreinigt\. Quelle und Ursprung jeder Sünde sind also böse Gedanken; denn wenn diese nicht die Oberhand gewinnen, wird es weder Morde noch Ehebrüche noch etwas anderes dieser Art geben\. Deshalb muss jeder sein eigenes Herz mit aller Wachsamkeit behüten[^bible-d0cfbacd-c18c-4c7c-b0ad-de6b300729c0]\. Denn am Tag des Gerichts wird „der Herr[^bible-abba2fed-49bc-44a8-b72b-a7c70e6027f7]“ kommen und „das im Dunkel Verborgene ans Licht bringen und die Absichten der Herzen offenlegen[^bible-abba2fed-49bc-44a8-b72b-a7c70e6027f7]“, während alle „Gedanken[^bible-928e07a2-47c9-4e73-86b1-105d206e4cb7]“ der Menschen „untereinander Anklage erheben oder auch verteidigen[^bible-928e07a2-47c9-4e73-86b1-105d206e4cb7]“, wenn ihre eigenen Ränke sie umringen[^bible-a069c838-2754-4b0c-9b02-e8d18cc3b1b5]\.
+
+Böse Gedanken sind aber von solcher Art, dass sie bisweilen sogar das, was gut erscheint und nach dem Urteil der meisten Menschen lobenswert ist, tadelnswert machen\. Wenn wir also „Almosen[^bible-4ad15b7c-eb15-49d4-b3dd-b890047f1ad4]“ „vor den Menschen[^bible-dd1827ee-20bd-4133-bc96-dd0535806883]“ geben und dabei in unseren Gedanken darauf abzielen, von ihnen als menschenfreundlich „gesehen zu werden[^bible-dd1827ee-20bd-4133-bc96-dd0535806883]“ und für unsere Menschenfreundlichkeit Ruhm zu ernten, dann haben wir von den Menschen „unseren Lohn bereits erhalten[^bible-4ad15b7c-eb15-49d4-b3dd-b890047f1ad4]“\. Überhaupt wird alles, was jemand in der bewussten Absicht tut, „von den Menschen gepriesen zu werden[^bible-4ad15b7c-eb15-49d4-b3dd-b890047f1ad4]“, nicht von dem belohnt, der „im Verborgenen sieht[^bible-68bc8e4a-fd9f-4638-a15f-0199d3d96472]“ und denen ihren Lohn gibt, die im Verborgenen rein sind\. So finden auch vermeintliche Keuschheit, wenn ihr Gedanken zugrunde liegen, die auf eitlen Ruhm abzielen oder von Gewinnsucht bestimmt sind, und sogenannte kirchliche Lehre, wenn sie mit schmeichlerischen Worten[^bible-d6b299b4-cb48-4546-a94c-8df7f2b1d607] zur Kriecherei wird oder als Deckmantel für Habgier[^bible-d6b299b4-cb48-4546-a94c-8df7f2b1d607] dient oder jemand durch sein Lehren Ruhm von Menschen sucht[^bible-d8e2fba8-a4bd-4df4-868e-834c759bb211], keine Anerkennung bei denen, die Gott in der Kirche an erster Stelle als Apostel, an zweiter als Propheten und an dritter als Lehrer eingesetzt hat[^bible-a44f8f7f-5ba1-4e7f-b7f2-7549d98257e4]\. Dasselbe wirst du auch von jemandem sagen, der nach dem Bischofsamt strebt[^bible-fc7a3485-c276-4334-89ef-ab7a39996139], um bei den Menschen Ruhm zu erlangen, sich von ihnen schmeicheln zu lassen oder Einkünfte von denen zu beziehen, die sich dem Wort zuwenden und unter dem Vorwand der Frömmigkeit etwas geben\. Ein solcher Bischof verlangt also nicht nach einem „guten Werk[^bible-fc7a3485-c276-4334-89ef-ab7a39996139]“ und kann weder untadelig[^bible-9e3665e8-ddf6-4b32-b7f8-d8b596ac096d] noch nüchtern[^bible-9e3665e8-ddf6-4b32-b7f8-d8b596ac096d] noch besonnen[^bible-9e3665e8-ddf6-4b32-b7f8-d8b596ac096d] sein, da er vom Ruhm betrunken ist und sich maßlos an ihm berauscht\. Dasselbe wirst du auch von Presbytern und Diakonen sagen\. Auch wenn es manchen so vorkommen mag, als hätten wir dies in einer Abschweifung gesagt, prüfe doch, ob es nicht notwendig war: Böse Gedanken sind die Quelle aller Sünden und können sogar das beflecken, was den Handelnden gerechtfertigt hätte, wenn es ohne solche Gedanken getan worden wäre\. Was den Menschen verunreinigt, haben wir nun nach unseren Kräften untersucht\. Mit ungewaschenen Händen zu essen verunreinigt den Menschen aber nicht[^bible-873f13f1-c027-48e7-9566-dc7e45aa8281]\. Doch wenn ich es wagen darf, das zu sagen: Es verunreinigt den Menschen, mit ungewaschenem Herzen irgendetwas von dem zu essen, was unser leitendes Seelenvermögen seiner Natur nach essen kann\.
+
+## Bibelverweise
+
+[^bible-064360c4-ad3c-4565-a7b8-300ad832d2ef]: Mt 15,18–Mt 15,20
+[^bible-3248ce83-f2a1-43f4-9971-fdfa55dbddf8]: Mt 15,18
+[^bible-4ad15b7c-eb15-49d4-b3dd-b890047f1ad4]: Mt 6,2
+[^bible-68bc8e4a-fd9f-4638-a15f-0199d3d96472]: Mt 6,4
+[^bible-8000183c-0cbb-4e68-bd95-de010cfb93b8]: Mt 15,19
+[^bible-873f13f1-c027-48e7-9566-dc7e45aa8281]: Mt 15,20
+[^bible-928e07a2-47c9-4e73-86b1-105d206e4cb7]: Röm 2,15
+[^bible-9e3665e8-ddf6-4b32-b7f8-d8b596ac096d]: 1Tim 3,2
+[^bible-a069c838-2754-4b0c-9b02-e8d18cc3b1b5]: Hos 7,2
+[^bible-a44f8f7f-5ba1-4e7f-b7f2-7549d98257e4]: 1Kor 12,28
+[^bible-abba2fed-49bc-44a8-b72b-a7c70e6027f7]: 1Kor 4,5
+[^bible-d0cfbacd-c18c-4c7c-b0ad-de6b300729c0]: Spr 4,23
+[^bible-d6b299b4-cb48-4546-a94c-8df7f2b1d607]: 1Thess 2,5
+[^bible-d8e2fba8-a4bd-4df4-868e-834c759bb211]: 1Thess 2,6
+[^bible-dd1827ee-20bd-4133-bc96-dd0535806883]: Mt 6,1
+[^bible-fc7a3485-c276-4334-89ef-ab7a39996139]: 1Tim 3,1
