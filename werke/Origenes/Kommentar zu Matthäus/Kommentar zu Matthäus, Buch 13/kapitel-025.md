@@ -1,0 +1,20 @@
+# Kommentar zu Matthäus, Buch 13 – Kapitel 25: Auch engste Bindungen und eigene Seelenkräfte sind aufzugeben, wenn sie das Heil gefährden
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/kommentar-zu-matthaeus-buch-13#kapitel-c01ad2f7-e0fa-4251-3ac7-08df38321db2).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Diese Worte lassen sich auch auf die Menschen anwenden, die uns am nächsten stehen und gleichsam unsere Glieder sind\. Wegen der engen Verbundenheit, sei es durch Verwandtschaft oder durch einen, um es so zu nennen, freundschaftlichen Umgang, betrachten wir sie als unsere Glieder\. Wir dürfen sie nicht schonen, wenn sie unserer Seele schaden\. Denn lasst uns Vater oder Mutter, die uns dazu bringen wollen, gegen die Gottesfurcht zu handeln, sowie Sohn oder Tochter, die uns, soweit es an ihnen liegt, von der Kirche Christi und seiner Liebe abbringen, von uns abschneiden wie eine Hand, einen Fuß oder ein Auge[^bible-9c92b5d9-cfcc-41f4-a478-468b6593f957]\. Aber auch wenn „die Frau an deiner Brust oder der Freund, der dir wie die eigene Seele ist[^bible-45398d85-bd20-443f-ab00-98e728f96699]“ uns zu Fall bringen, wollen wir sie nicht schonen, sondern sie von uns abschneiden[^bible-20cc3cb9-623b-4809-9d72-a97ce36fcdd9] und aus unserer Seele hinauswerfen, nicht als Menschen, die uns nahestehen, sondern als Feinde unseres Heils\. Denn wer „Vater und Mutter nicht hasst[^bible-d75bce73-2605-4e1a-8d64-60b9c030fb70]“ und ebenso die im Folgenden Genannten, wenn es an der Zeit ist, sie als Feinde zu hassen, die ihm nachstellen, damit er Christus gewinnen kann[^bible-2a54a32c-85e9-4eee-82c3-ccad65cd1855], der ist des Sohnes Gottes nicht würdig[^bible-d972f9bd-a341-4ef9-8b94-63b61bfc6666]\. Auch von solchen Fällen lässt sich sagen: Unter solchen Umständen wird jemand gleichsam als Lahmer gerettet, nachdem er einen Fuß verloren hat[^bible-20cc3cb9-623b-4809-9d72-a97ce36fcdd9], etwa seinen Bruder, und er allein erbt das Reich Gottes\. Ein anderer wird als Verstümmelter gerettet[^bible-20cc3cb9-623b-4809-9d72-a97ce36fcdd9]: Sein Vater oder seine Mutter werden nicht mit ihm gerettet, sondern gehen zugrunde, während er sich von ihnen trennt, damit ihm allein zuteilwird, was die Seligpreisungen verheißen\. So wird auch jemand als Einäugiger gerettet[^bible-f14eac56-c7ae-4758-b0e5-3c1dbcb9c5b4], nachdem er das Auge seines Hauses, seine Frau, die Unzucht getrieben hat, herausgeschnitten hat, damit er nicht mit einem solchen Auge zweiäugig in die Feuerhölle geht[^bible-f14eac56-c7ae-4758-b0e5-3c1dbcb9c5b4]\. Denn auch die Fähigkeit der Seele, auf sündige Weise, um es so zu nennen, zu handeln und zu gehen, sowie ihre Fähigkeit, auf sündige Weise zu erkennen, können die Hand, der Fuß und das Auge sein, die zu Fall bringen[^bible-9c92b5d9-cfcc-41f4-a478-468b6593f957]\. Es ist besser, diese Fähigkeiten abzuwerfen, weil sie böse sind, sie abzulegen und ohne sie ins Leben einzugehen, gleichsam lahm, verstümmelt oder einäugig[^bible-9c92b5d9-cfcc-41f4-a478-468b6593f957], als mit ihnen die ganze Seele zugrunde zu richten\. Ebenso ist es auch bei der Seele gut und beglückend, ihre Kraft für das Beste einzusetzen\. Wenn wir aber durch eine einzige ihrer Fähigkeiten zugrunde zu gehen drohen, ist es vorzuziehen, auf ihren Gebrauch zu verzichten, weil sie uns zu Fall bringt, damit wir mit den anderen Fähigkeiten gerettet werden\.
+
+## Bibelverweise
+
+[^bible-20cc3cb9-623b-4809-9d72-a97ce36fcdd9]: Mt 18,8
+[^bible-2a54a32c-85e9-4eee-82c3-ccad65cd1855]: Phil 3,8
+[^bible-45398d85-bd20-443f-ab00-98e728f96699]: Dtn 13,7
+[^bible-9c92b5d9-cfcc-41f4-a478-468b6593f957]: Mt 18,8–Mt 18,9
+[^bible-d75bce73-2605-4e1a-8d64-60b9c030fb70]: Lk 14,26
+[^bible-d972f9bd-a341-4ef9-8b94-63b61bfc6666]: Mt 10,37–Mt 10,38
+[^bible-f14eac56-c7ae-4758-b0e5-3c1dbcb9c5b4]: Mt 18,9

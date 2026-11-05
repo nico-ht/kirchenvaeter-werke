@@ -1,0 +1,25 @@
+# Kommentar zu Matthäus, Buch 13 – Kapitel 14: Petrus’ Ehrung bei der Steuerzahlung erklärt wohl die Frage nach dem Größten im Himmelreich
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/kommentar-zu-matthaeus-buch-13#kapitel-0c7a9878-ca47-4cfa-3abc-08df38321db2).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„An jenem Tag traten die Jünger zu Jesus und fragten:[^bible-3220b0fb-2ff1-4149-8f06-ed697c5659c5] ‚Wer ist denn der Größte im Himmelreich?[^bible-3220b0fb-2ff1-4149-8f06-ed697c5659c5]‘“
+
+Matthäus hätte sich darauf beschränken können, uns zu erzählen, was die Jünger von Jesus erfahren wollten, als sie zu ihm traten, und wie er auf ihre Frage antwortete\. Damit wären wir darüber unterrichtet gewesen\. Doch nach einigen Handschriften fügte er hinzu: „In jener Stunde traten die Jünger zu Jesus[^bible-3220b0fb-2ff1-4149-8f06-ed697c5659c5]“, nach anderen: „An jenem Tag[^bible-3220b0fb-2ff1-4149-8f06-ed697c5659c5]“\. Wir dürfen die Absicht des Evangelisten nicht ungeprüft lassen\. Richten wir daher unsere Aufmerksamkeit auf das, was vor den Worten „an jenem Tag[^bible-3220b0fb-2ff1-4149-8f06-ed697c5659c5]“ oder „in jener Stunde[^bible-3220b0fb-2ff1-4149-8f06-ed697c5659c5]“ steht, und prüfen wir, ob sich von dort aus ein Weg eröffnet, den Zusatz „an jenem Tag[^bible-3220b0fb-2ff1-4149-8f06-ed697c5659c5]“ oder „in jener Stunde[^bible-3220b0fb-2ff1-4149-8f06-ed697c5659c5]“ als notwendig zu erkennen\. Jesus war also mit seinen Jüngern nach Kapharnaum gekommen\. Dort traten die Einnehmer der Doppeldrachmen an Petrus heran[^bible-0591f9a8-25b8-4557-b204-91ab8fb5dbb4] und fragten: „Zahlt euer Lehrer die Doppeldrachmen nicht?[^bible-0591f9a8-25b8-4557-b204-91ab8fb5dbb4]“ Darauf antwortete Petrus ihnen: „Ja\.[^bible-acb76d6f-3321-4585-9440-4b629f80cc03]“ Jesus erläuterte zunächst seine Haltung zur Zahlung der Doppeldrachmen und schickte dann Petrus los, mit der Angel einen Fisch heraufzuziehen\. In dessen Mund werde sich, so sagte er, ein Stater finden, der für ihn selbst und für Petrus entrichtet werden sollte\.[^bible-6bb460c2-f517-4326-9ceb-da7dc68e8713] Mir scheint nun, dass die Jünger darin eine außerordentliche Ehrung sahen, die Jesus Petrus erwies, als habe er ihn höher gestellt als seine übrigen Vertrauten\. Sie wollten ihre Vermutung zur Gewissheit machen, indem sie Jesus fragten und von ihm selbst erfuhren, ob er Petrus, wie sie annahmen, für größer hielt als sie\. Zugleich hofften sie, auch den Grund dafür zu erfahren, dass Petrus den übrigen Jüngern vorgezogen worden war\. Um dies deutlich zu machen, so meine ich, ließ Matthäus auf die Worte „Nimm ihn[^bible-89320cf2-8688-48a1-867e-8886e4440e50]“, nämlich den Stater, „und gib ihn ihnen für mich und dich[^bible-89320cf2-8688-48a1-867e-8886e4440e50]“ die Worte folgen: „An jenem Tag oder in jener Stunde traten die Jünger zu Jesus und fragten:[^bible-3220b0fb-2ff1-4149-8f06-ed697c5659c5] ‚Wer ist denn der Größte im Himmelreich?[^bible-3220b0fb-2ff1-4149-8f06-ed697c5659c5]‘“ Vielleicht waren sie auch deshalb im Zweifel, weil bei der Verklärung drei von ihnen bevorzugt worden waren[^bible-1cfa79a0-f33a-4be2-bcb5-c8bc57bf5ac1]; sie waren aber im Zweifel darüber, welchen der drei der Herr für den Größten hielt\. Denn Johannes hatte sich an seine Brust gelehnt[^bible-68e290bb-cf1a-4584-b69a-624004f2a071], aus Liebe, und es ist anzunehmen, dass sie schon vor dem Mahl viele Zeichen besonderer Ehre gesehen hatten, die Jesus Johannes erwies\. Petrus wiederum wurde bei seinem Bekenntnis seliggepriesen[^bible-faafd91e-ddb3-4e9f-89dc-3274c66ef242], weil er gesagt hatte: „Du bist der Christus, der Sohn des lebendigen Gottes\.[^bible-7049e57f-7052-4977-85d4-2757699e9de2]“ Andererseits verunsicherten sie die Worte „Geh hinter mich, Satan\! Du bist mir ein Anstoß, denn du hast nicht das im Sinn, was Gottes ist, sondern das, was der Menschen ist\.[^bible-79f6dfbf-af38-4876-839c-86408cb6c43e]“ Deshalb fragten sie sich, ob womöglich nicht er, sondern einer der Söhne des Zebedäus der Größte sei\. So viel zu den Worten „an jenem Tag[^bible-3220b0fb-2ff1-4149-8f06-ed697c5659c5]“ oder „in jener Stunde[^bible-3220b0fb-2ff1-4149-8f06-ed697c5659c5]“, als sich die Begebenheit mit dem Stater ereignet hatte\.
+
+## Bibelverweise
+
+[^bible-0591f9a8-25b8-4557-b204-91ab8fb5dbb4]: Mt 17,24
+[^bible-1cfa79a0-f33a-4be2-bcb5-c8bc57bf5ac1]: Mt 17,1–Mt 17,2
+[^bible-3220b0fb-2ff1-4149-8f06-ed697c5659c5]: Mt 18,1
+[^bible-68e290bb-cf1a-4584-b69a-624004f2a071]: Joh 13,23–Joh 13,25
+[^bible-6bb460c2-f517-4326-9ceb-da7dc68e8713]: Mt 17,25–Mt 17,27
+[^bible-7049e57f-7052-4977-85d4-2757699e9de2]: Mt 16,16
+[^bible-79f6dfbf-af38-4876-839c-86408cb6c43e]: Mt 16,23
+[^bible-89320cf2-8688-48a1-867e-8886e4440e50]: Mt 17,27
+[^bible-acb76d6f-3321-4585-9440-4b629f80cc03]: Mt 17,25
+[^bible-faafd91e-ddb3-4e9f-89dc-3274c66ef242]: Mt 16,17
