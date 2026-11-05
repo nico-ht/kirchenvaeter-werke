@@ -9,6 +9,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Einzelne Predigten](Einzelne%20Predigten/) · 12 Werke
 - [Homilien über Genesis](Homilien%20%C3%BCber%20Genesis/) · 67 Werke
 - [Homilien über Matthäus](Homilien%20%C3%BCber%20Matth%C3%A4us/) · 90 Werke
+- [Homilien über Philemon](Homilien%20%C3%BCber%20Philemon/) · 4 Werke
 - [Predigten zu Titus](Predigten%20zu%20Titus/) · 6 Werke
 - [Predigten über Genesis](Predigten%20%C3%BCber%20Genesis/) · 9 Werke
 - [Psalme](Psalme/) · 1 Werk

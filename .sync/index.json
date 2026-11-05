@@ -973,6 +973,41 @@
     "contentRevision": "sha256:0a0d44f7e2d0b950866d25bb0530137c5a21b415cfe076e32f863ba185110ffb"
   },
   {
+    "workId": "0a1fd180-c029-43c1-70c1-08df3a508666",
+    "authorName": "Avitus von Vienne",
+    "title": "Geistliche Geschichte, Buch 1",
+    "directory": "werke/Avitus von Vienne/Geistliche Geschichte/Geistliche Geschichte, Buch 1",
+    "contentRevision": "sha256:a5f4df8d7aad57dd1ce7af4e3856f6d05f0db8bd49788bcfb8c944c31d086fe2"
+  },
+  {
+    "workId": "0dee756b-f08f-2fb1-d9ec-4dee574571d6",
+    "authorName": "Avitus von Vienne",
+    "title": "Geistliche Geschichte, Buch 2",
+    "directory": "werke/Avitus von Vienne/Geistliche Geschichte/Geistliche Geschichte, Buch 2",
+    "contentRevision": "sha256:cbb21406d93f266e9e6cf6893e6851fdb04de7d90e2eec882ee73fc45101e94a"
+  },
+  {
+    "workId": "8d4ac0eb-0cfa-6682-5bce-667a0c8838b0",
+    "authorName": "Avitus von Vienne",
+    "title": "Geistliche Geschichte, Buch 3",
+    "directory": "werke/Avitus von Vienne/Geistliche Geschichte/Geistliche Geschichte, Buch 3",
+    "contentRevision": "sha256:29cfb5ed426a16e9e090511bd31fac88eb3b23f873d16ad09fa3a84328cc2851"
+  },
+  {
+    "workId": "6a647fff-2e64-74d6-6001-a1eb103409c4",
+    "authorName": "Avitus von Vienne",
+    "title": "Geistliche Geschichte, Buch 4",
+    "directory": "werke/Avitus von Vienne/Geistliche Geschichte/Geistliche Geschichte, Buch 4",
+    "contentRevision": "sha256:c760fcccf999ed6b1288dc4008c6b358799d52153c36c2556b75349386a5714e"
+  },
+  {
+    "workId": "4c40fdf6-34ee-fee4-6315-197de4d2d8cf",
+    "authorName": "Avitus von Vienne",
+    "title": "Geistliche Geschichte, Buch 5",
+    "directory": "werke/Avitus von Vienne/Geistliche Geschichte/Geistliche Geschichte, Buch 5",
+    "contentRevision": "sha256:de3307a82dc7b77b897b1cf22e01982416143c63c771ebedf1e7abbe3437dec9"
+  },
+  {
     "workId": "5f21ee85-5261-4138-6126-08df2a82baf6",
     "authorName": "Bachiarius",
     "title": "Glaubensbekenntnis",
@@ -1085,11 +1120,25 @@
     "contentRevision": "sha256:498e3a2fe2d799c252c475066be0723a39d8d6f7ee6add63ef7947b51dc7174e"
   },
   {
+    "workId": "629282b5-fecc-40b4-49f9-08df14d31b95",
+    "authorName": "Basilius der Große",
+    "title": "Nicht an den Dingen dieses Lebens hängen (Homilie 21)",
+    "directory": "werke/Basilius der Große/Homilien/Nicht an den Dingen dieses Lebens hängen (Homilie 21)",
+    "contentRevision": "sha256:0f0cc55076872e55cb4b1f34a25ce9ee5cf668d107f8017dfb3ffbaccf76255b"
+  },
+  {
     "workId": "71583b60-9ea2-4ab7-252a-08dd75f9cbf5",
     "authorName": "Basilius der Große",
     "title": "Psalm 1",
     "directory": "werke/Basilius der Große/Kommentare zu den Psalmen/Psalm 1",
     "contentRevision": "sha256:486896f626831997709f06dc7fff3afb81acc0f0fdd39185b446365e6654d4d8"
+  },
+  {
+    "workId": "e38b46ce-af74-4099-3c12-08deabac7077",
+    "authorName": "Basilius der Große",
+    "title": "Über den Heiligen Geist",
+    "directory": "werke/Basilius der Große/Über den Heiligen Geist",
+    "contentRevision": "sha256:979c211b61e7a9645eaf8b03fa450a23cb01e739bd17948f27094507a1909b7a"
   },
   {
     "workId": "894a5bcf-2a50-4977-90c8-08de390c5250",
@@ -1104,6 +1153,41 @@
     "title": "Über das Heilige Pfingsten",
     "directory": "werke/Basilius von Seleukia/Über das Heilige Pfingsten",
     "contentRevision": "sha256:8babdf2358baab7b161db12c15641c20b806523b3220c9c4d1563db4252ab479"
+  },
+  {
+    "workId": "60f12d5e-6ae6-4907-70d1-08df3a508666",
+    "authorName": "Bede Venerabilis",
+    "title": "Auslegung zu Esra und Nehemia, Buch 1",
+    "directory": "werke/Bede Venerabilis/Auslegung zu Esra und Nehemia/Auslegung zu Esra und Nehemia, Buch 1",
+    "contentRevision": "sha256:eeae0611e039c07b8cad15efaa695e720ee2d1bf3490c6c36dff488e97f48505"
+  },
+  {
+    "workId": "e78bde5a-43c7-59da-2dc8-13ae7e617a21",
+    "authorName": "Bede Venerabilis",
+    "title": "Auslegung zu Esra und Nehemia, Buch 2",
+    "directory": "werke/Bede Venerabilis/Auslegung zu Esra und Nehemia/Auslegung zu Esra und Nehemia, Buch 2",
+    "contentRevision": "sha256:be1337d8d64eef1762f66cb17acacd95e3d31aa8416c8f1b2f63235f191da9cc"
+  },
+  {
+    "workId": "69f9ec97-e419-1ea1-fc64-b3b6ea347fa4",
+    "authorName": "Bede Venerabilis",
+    "title": "Auslegung zu Esra und Nehemia, Buch 3",
+    "directory": "werke/Bede Venerabilis/Auslegung zu Esra und Nehemia/Auslegung zu Esra und Nehemia, Buch 3",
+    "contentRevision": "sha256:e1adf9902377e3ad02df1e6512cefad13cd2482d78ebd518b75bbd975b9f4a94"
+  },
+  {
+    "workId": "6ff5a02b-dae5-4ca8-70d0-08df3a508666",
+    "authorName": "Bede Venerabilis",
+    "title": "Über den Tempel Salomos",
+    "directory": "werke/Bede Venerabilis/Über den Tempel Salomos",
+    "contentRevision": "sha256:f59479bc2e35783fd42ad5db579b2a7280bf34b72f411a6957de5baf959827a2"
+  },
+  {
+    "workId": "62e103f4-b327-4916-70c5-08df3a508666",
+    "authorName": "Bede Venerabilis",
+    "title": "Über die Zeitrechnung (De temporum ratione)",
+    "directory": "werke/Bede Venerabilis/Über die Zeitrechnung (De temporum ratione)",
+    "contentRevision": "sha256:7a355f3938b96db3725904b1578a6d907b9795819c174983ae12e2dd75cb07af"
   },
   {
     "workId": "b214413c-5d02-4720-4b40-08df38325ec5",
@@ -1369,14 +1453,14 @@
     "authorName": "Clemens von Rom",
     "title": "Erkenntnisse, Buch 2",
     "directory": "werke/Clemens von Rom/Erkenntnisse des Clemens/Erkenntnisse, Buch 2",
-    "contentRevision": "sha256:7107a8a4d7b7b431d9b6b7ccc381a74aa8390d82a762c04b47885cb7ea0738a5"
+    "contentRevision": "sha256:9b3bb824f7f6e871db37412ddf2b98539b0b686b2861250f7f2bde4b7c804bcc"
   },
   {
     "workId": "d060d1b8-16ed-4e08-e4cd-08dd0635942f",
     "authorName": "Clemens von Rom",
     "title": "Erkenntnisse, Buch 3",
     "directory": "werke/Clemens von Rom/Erkenntnisse des Clemens/Erkenntnisse, Buch 3",
-    "contentRevision": "sha256:608b4d34fe9017a4256df7ec1adc0da24d5899dca1e2f528b7abfb7a818d1041"
+    "contentRevision": "sha256:1c994cdf415ed568c6d2dc7dd1a74532858d65de0785e38f2b5cd08049fb48c8"
   },
   {
     "workId": "a52f79e3-a012-4a26-e4ce-08dd0635942f",
@@ -1575,6 +1659,20 @@
     "contentRevision": "sha256:c95547a72ddcb4895c2b3a069d940b12720992272595c36569d50db2b46f3bde"
   },
   {
+    "workId": "af05db84-d4a2-477b-70be-08df3a508666",
+    "authorName": "Eucherius von Lyon",
+    "title": "Unterweisungen, Buch 1",
+    "directory": "werke/Eucherius von Lyon/Unterweisungen/Unterweisungen, Buch 1",
+    "contentRevision": "sha256:7fb3f2979c9347a0b6ba2031796a13544f4924e24eb078d97f36274816e3b764"
+  },
+  {
+    "workId": "6bf089b7-93e5-b320-0c0a-e1636d2365d4",
+    "authorName": "Eucherius von Lyon",
+    "title": "Unterweisungen, Buch 2",
+    "directory": "werke/Eucherius von Lyon/Unterweisungen/Unterweisungen, Buch 2",
+    "contentRevision": "sha256:4376f419a52cf56ad91b9704878a5164704512d92188234c5bab75b3367b72fb"
+  },
+  {
     "workId": "a25c4a3b-b108-45e2-21cd-08df23296889",
     "authorName": "Eusebius",
     "title": "Beweis des Evangeliums, Buch 1",
@@ -1715,6 +1813,13 @@
     "contentRevision": "sha256:4f5d8a0f902137d74767ccf6d08a83fda004be6e9d450bac0c6d7945528de802"
   },
   {
+    "workId": "4bd09f51-c6ab-4631-70c0-08df3a508666",
+    "authorName": "Fulgentius von Ruspe",
+    "title": "An Monimus, Buch 1",
+    "directory": "werke/Fulgentius von Ruspe/Drei Bücher an Monimus/An Monimus, Buch 1",
+    "contentRevision": "sha256:1af838bc6022c668c77d24c618a562e3c2647ae96dcaf83b9307eb72215db377"
+  },
+  {
     "workId": "6cb13988-0db8-4618-70c3-08df3a508666",
     "authorName": "Fulgentius von Ruspe",
     "title": "An Monimus, Buch 2",
@@ -1727,6 +1832,13 @@
     "title": "An Monimus, Buch 3",
     "directory": "werke/Fulgentius von Ruspe/Drei Bücher an Monimus/An Monimus, Buch 3",
     "contentRevision": "sha256:18fa7516acf91dda54d36c739ad33fd8ca98fd0c000c4758c667cc2211c515d2"
+  },
+  {
+    "workId": "84ac4d6d-e6b7-476f-70c6-08df3a508666",
+    "authorName": "Fulgentius von Ruspe",
+    "title": "An Thrasamund, Buch 1",
+    "directory": "werke/Fulgentius von Ruspe/Drei Bücher an Thrasamund/An Thrasamund, Buch 1",
+    "contentRevision": "sha256:70a66d2b601dcbcd8a6350f22df5d7470f5d679f0bcd5c8b4debf036340cd5a1"
   },
   {
     "workId": "d857fb5e-bfdf-49db-70c7-08df3a508666",
@@ -1925,6 +2037,13 @@
     "contentRevision": "sha256:ab5c2f5a9133819ad4c712cfe23c50a40b1c08ee27b8728d47ce2b5a2dc84880"
   },
   {
+    "workId": "c1aaab83-c0ec-40e6-92b9-08df1b60c991",
+    "authorName": "Gregor von Nazianz",
+    "title": "14. Rede: Über die Armenliebe",
+    "directory": "werke/Gregor von Nazianz/Reden/14. Rede Über die Armenliebe",
+    "contentRevision": "sha256:58dade31eab74c2e6ba25aafe1f6eaf1d29b4fea4a0690706f75691fce0ae305"
+  },
+  {
     "workId": "ea24d8fc-2cfc-4cdd-0d17-08deaac01ae8",
     "authorName": "Gregor von Nazianz",
     "title": "45. Rede",
@@ -2049,6 +2168,13 @@
     "title": "Fünfte Homilie über die Seligpreisungen",
     "directory": "werke/Gregor von Nyssa/Homilien über die Seligpreisungen/Fünfte Homilie über die Seligpreisungen",
     "contentRevision": "sha256:d80fe500b6ba3639028580ff2753537d4fb223e3111d517fdab8e1ab30e98e0b"
+  },
+  {
+    "workId": "bbed88a1-fd67-491c-49f8-08df14d31b95",
+    "authorName": "Gregor von Nyssa",
+    "title": "Große katechetische Rede",
+    "directory": "werke/Gregor von Nyssa/Große katechetische Rede",
+    "contentRevision": "sha256:6c24df42777d408deaf8efdf0e3d7e741ec58059c1bf8fb681e557a8b38722f7"
   },
   {
     "workId": "863b9d68-a889-4613-6197-08df382da9a2",
@@ -2272,7 +2398,7 @@
     "authorName": "Hilarius von Poitiers",
     "title": "Über die Mysterien, Buch 2",
     "directory": "werke/Hilarius von Poitiers/Über die Mysterien/Über die Mysterien, Buch 2",
-    "contentRevision": "sha256:4742dd8535c415c293d2da8d18183f2ef9815633c001d4bc7b21fbdaeb5890c4"
+    "contentRevision": "sha256:456647c968862520d44d9a574ab6fd00785fe720d1c5f74e2076b64a96de5796"
   },
   {
     "workId": "cb3bd3ab-b80b-4654-514a-08de3e2d19aa",
@@ -2455,6 +2581,13 @@
     "title": "1. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/1. Homilie über Matthäus",
     "contentRevision": "sha256:627e43ccd94af09c3cfbb2875cb60af274e0d808b39cf206a111fab71472942d"
+  },
+  {
+    "workId": "387e2fd0-8366-710d-3829-50c024afe414",
+    "authorName": "Johannes Chrysostomus",
+    "title": "1. Homilie über Philemon",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Philemon/1. Homilie über Philemon",
+    "contentRevision": "sha256:5c079cb9bd57ce35c8f3656fd4bd5beb29da675e2439eff53a10d634e8104dcf"
   },
   {
     "workId": "de4192f8-4486-4a09-c725-08dd21fc0e0e",
@@ -2653,6 +2786,13 @@
     "contentRevision": "sha256:6c3b501ef665aa71ff8b00db7dd53cb04064766b623f33b4132e8976d87c208b"
   },
   {
+    "workId": "5cf77058-7e11-98ad-9063-5d9d9edc39c4",
+    "authorName": "Johannes Chrysostomus",
+    "title": "2. Homilie über Philemon",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Philemon/2. Homilie über Philemon",
+    "contentRevision": "sha256:31be27ad494fe4daad2bc67fef1594aa298f389105101894fd40f55a08b4e2e2"
+  },
+  {
     "workId": "9a93f6f8-66c7-4a61-6e88-08ddad3599c9",
     "authorName": "Johannes Chrysostomus",
     "title": "2. Predigt zu Titus",
@@ -2826,6 +2966,13 @@
     "title": "3. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/3. Homilie über Matthäus",
     "contentRevision": "sha256:d8c1887839ff652a73c7bc4a85c3597f2d8a4da01cabc29726658d5e81a603dc"
+  },
+  {
+    "workId": "331afdb1-eae5-693f-8b73-a367b43b5090",
+    "authorName": "Johannes Chrysostomus",
+    "title": "3. Homilie über Philemon",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Philemon/3. Homilie über Philemon",
+    "contentRevision": "sha256:79f82832a62eab75cd996d67b2af22f841ee661aa2d749a1b16fede82631341d"
   },
   {
     "workId": "c3599bf3-4f69-478e-61eb-08ddaf4d2cf4",
@@ -3738,6 +3885,13 @@
     "contentRevision": "sha256:d599050b95995a9cbb990113fb9a989fd76d1abf04c42792d00a55c206c1e025"
   },
   {
+    "workId": "29ea4b1e-ee0c-4404-5ba0-08df27871084",
+    "authorName": "Johannes Chrysostomus",
+    "title": "Einleitung zu den Homilien über Philemon",
+    "directory": "werke/Johannes Chrysostomus/Homilien über Philemon/Einleitung zu den Homilien über Philemon",
+    "contentRevision": "sha256:ab969b3c1f9cd5fc14e201007d59c1e85868403566d09394622a45d6ac881348"
+  },
+  {
     "workId": "8dbc06e4-b663-4510-9304-08df2ab9dfd2",
     "authorName": "Johannes Chrysostomus",
     "title": "Erste Lobrede auf die Märtyrerin Pelagia",
@@ -4170,6 +4324,13 @@
     "title": "Drei Trinitätshymnen",
     "directory": "werke/Marius Victorinus/Drei Trinitätshymnen",
     "contentRevision": "sha256:72d602b353e4a84c653280952ba1bd05f90c158514e7647e52d04503421c3a26"
+  },
+  {
+    "workId": "33904585-1779-e97c-a434-5e3d875ae3b2",
+    "authorName": "Marius Victorinus",
+    "title": "Kommentar zum Galaterbrief, Buch 2",
+    "directory": "werke/Marius Victorinus/Kommentar zum Galaterbrief/Kommentar zum Galaterbrief, Buch 2",
+    "contentRevision": "sha256:6946db41789c64d3368f21a8d3332ef3b165cd1bf1e5049f3351063bc2f3ef34"
   },
   {
     "workId": "9cad1e76-1f2f-4399-70cb-08df3a508666",
@@ -5299,6 +5460,13 @@
     "contentRevision": "sha256:00f1ae2627746f9d2587507ff166eb608550bb015107fc12c64c514867c0cefd"
   },
   {
+    "workId": "bb2a5a01-a130-4f11-eb8d-08deaa1d2b3a",
+    "authorName": "Origenes",
+    "title": "Kommentar zu Matthäus, Buch 12",
+    "directory": "werke/Origenes/Kommentar zu Matthäus/Kommentar zu Matthäus, Buch 12",
+    "contentRevision": "sha256:ed8bd2b87f99a9b936e6758d7e93abf1f5b9d75932e85437087ffb22f74b75d9"
+  },
+  {
     "workId": "5b2cb30b-cd90-4a67-d118-08dea92b3a2f",
     "authorName": "Origenes",
     "title": "Kommentar zu Matthäus, Buch 13",
@@ -5498,8 +5666,8 @@
     "workId": "12f79866-fe96-43f5-9160-08df200aaa32",
     "authorName": "Petrus Chrysologus",
     "title": "146. Predigt",
-    "directory": "werke/Petrus Chrysologus/146. Predigt",
-    "contentRevision": "sha256:64a4bb14b574d43e7a1d845e6657fc326ff737495a7ac0578ecb099a1d0cbd2b"
+    "directory": "werke/Petrus Chrysologus/Predigten/146. Predigt",
+    "contentRevision": "sha256:326d63ba40cefd29a369731d54bb206d6c5a0daede6eb35466b5618c68f9f571"
   },
   {
     "workId": "2618e8e1-4cc9-4cda-02d1-08df3837a918",
@@ -5659,15 +5827,15 @@
     "workId": "3dd80b12-73ed-4ef4-9155-08df200aaa32",
     "authorName": "Petrus Chrysologus",
     "title": "48. Predigt",
-    "directory": "werke/Petrus Chrysologus/48. Predigt",
-    "contentRevision": "sha256:8abeb8c995be05a62697a20442ade01396a7052601eebf7d86dd9a483620cc98"
+    "directory": "werke/Petrus Chrysologus/Predigten/48. Predigt",
+    "contentRevision": "sha256:7a62f7fc0d905b0d04b7226e24414d8148f44d8a03ba3af2d7af696512e93fba"
   },
   {
     "workId": "9a8148b6-796b-4989-4c79-08df3a569d31",
     "authorName": "Petrus Chrysologus",
     "title": "49. Predigt über die Ablehnung Jesu in seiner Vaterstadt",
-    "directory": "werke/Petrus Chrysologus/49. Predigt über die Ablehnung Jesu in seiner Vaterstadt",
-    "contentRevision": "sha256:a71b315ce53427bd0b96f924e391ab34cdc273226be2667f81455650acb4b743"
+    "directory": "werke/Petrus Chrysologus/Predigten/49. Predigt über die Ablehnung Jesu in seiner Vaterstadt",
+    "contentRevision": "sha256:3b209768975409040e6cdc2e255234966256c89cc407f50bd2dd5201acdbe2c2"
   },
   {
     "workId": "c5617848-bc3f-4802-02dd-08df3837a918",
@@ -6171,7 +6339,7 @@
     "authorName": "Tertullian",
     "title": "Verschreibung gegen Häretiker",
     "directory": "werke/Tertullian/Verschreibung gegen Häretiker",
-    "contentRevision": "sha256:433b1f50cb239b767f9c53ebb61d00840c180fb07e586bace0c8d614a407e39e"
+    "contentRevision": "sha256:9bbc5bf081d364b5b9f9fb4b2eddd155c12a2c79e30360d60a0038bcecdfd363"
   },
   {
     "workId": "c43e9c13-fe81-4868-97db-08ddfec6367a",

@@ -28,6 +28,8 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [38. Predigt über das geduldige Ertragen von Unrecht](38.%20Predigt%20%C3%BCber%20das%20geduldige%20Ertragen%20von%20Unrecht/) · 1 Kapitel
 - [43. Predigt über Gebet, Fasten und Barmherzigkeit](43.%20Predigt%20%C3%BCber%20Gebet%2C%20Fasten%20und%20Barmherzigkeit/) · 1 Kapitel
 - [47. Predigt über die Gleichnisse von der Perle und vom Netz](47.%20Predigt%20%C3%BCber%20die%20Gleichnisse%20von%20der%20Perle%20und%20vom%20Netz/) · 1 Kapitel
+- [48. Predigt](48.%20Predigt/) · 1 Kapitel
+- [49. Predigt über die Ablehnung Jesu in seiner Vaterstadt](49.%20Predigt%20%C3%BCber%20die%20Ablehnung%20Jesu%20in%20seiner%20Vaterstadt/) · 1 Kapitel
 - [50. Predigt über die Heilung des Gelähmten](50.%20Predigt%20%C3%BCber%20die%20Heilung%20des%20Gel%C3%A4hmten/) · 1 Kapitel
 - [53. Predigt über den Frieden](53.%20Predigt%20%C3%BCber%20den%20Frieden/) · 1 Kapitel
 - [67. Predigt über das Vaterunser](67.%20Predigt%20%C3%BCber%20das%20Vaterunser/) · 1 Kapitel
@@ -46,6 +48,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [127. Predigt über die Enthauptung Johannes des Täufers](127.%20Predigt%20%C3%BCber%20die%20Enthauptung%20Johannes%20des%20T%C3%A4ufers/) · 1 Kapitel
 - [144. Predigt über die Menschwerdung Christi](144.%20Predigt%20%C3%BCber%20die%20Menschwerdung%20Christi/) · 1 Kapitel
 - [145. Predigt über die Geburt Christi und Josef, der Maria entlassen wollte](145.%20Predigt%20%C3%BCber%20die%20Geburt%20Christi%20und%20Josef%2C%20der%20Maria%20entlassen%20wollte/) · 1 Kapitel
+- [146. Predigt](146.%20Predigt/) · 1 Kapitel
 - [150. Predigt über die Flucht Christi nach Ägypten](150.%20Predigt%20%C3%BCber%20die%20Flucht%20Christi%20nach%20%C3%84gypten/) · 1 Kapitel
 - [151. Predigt über die Flucht nach Ägypten](151.%20Predigt%20%C3%BCber%20die%20Flucht%20nach%20%C3%84gypten/) · 1 Kapitel
 - [152. Predigt über den Kindermord](152.%20Predigt%20%C3%BCber%20den%20Kindermord/) · 1 Kapitel

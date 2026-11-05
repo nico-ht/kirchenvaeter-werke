@@ -7,4 +7,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Werksammlungen
 
 - [Gedichte über andere](Gedichte%20%C3%BCber%20andere/) · 6 Werke
-- [Reden](Reden/) · 2 Werke
+- [Reden](Reden/) · 3 Werke

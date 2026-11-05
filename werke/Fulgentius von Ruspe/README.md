@@ -6,5 +6,5 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Drei Bücher an Monimus](Drei%20B%C3%BCcher%20an%20Monimus/) · 2 Werke
-- [Drei Bücher an Thrasamund](Drei%20B%C3%BCcher%20an%20Thrasamund/) · 2 Werke
+- [Drei Bücher an Monimus](Drei%20B%C3%BCcher%20an%20Monimus/) · 3 Werke
+- [Drei Bücher an Thrasamund](Drei%20B%C3%BCcher%20an%20Thrasamund/) · 3 Werke

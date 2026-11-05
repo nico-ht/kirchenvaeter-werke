@@ -8,5 +8,6 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werke
 
+- [An Thrasamund, Buch 1](An%20Thrasamund%2C%20Buch%201/) · 20 Kapitel
 - [An Thrasamund, Buch 2](An%20Thrasamund%2C%20Buch%202/) · 20 Kapitel
 - [An Thrasamund, Buch 3](An%20Thrasamund%2C%20Buch%203/) · 36 Kapitel

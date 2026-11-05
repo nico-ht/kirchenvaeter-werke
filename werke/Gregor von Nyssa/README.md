@@ -16,5 +16,6 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Apologie zum Hexaemeron](Apologie%20zum%20Hexaemeron/) · 1 Kapitel
 - [Brief 2: Über Pilgerreisen](Brief%202%20%C3%9Cber%20Pilgerreisen/) · 1 Kapitel
 - [Das Leben der Makrina](Das%20Leben%20der%20Makrina/) · 39 Kapitel
+- [Große katechetische Rede](Gro%C3%9Fe%20katechetische%20Rede/) · 41 Kapitel
 - [Über die Erschaffung des Menschen](%C3%9Cber%20die%20Erschaffung%20des%20Menschen/) · 31 Kapitel
 - [Über die Seele und die Auferstehung](%C3%9Cber%20die%20Seele%20und%20die%20Auferstehung/) · 1 Kapitel
