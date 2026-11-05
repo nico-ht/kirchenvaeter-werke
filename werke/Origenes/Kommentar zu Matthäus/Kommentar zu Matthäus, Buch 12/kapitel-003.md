@@ -1,0 +1,21 @@
+# Kommentar zu Matthäus, Buch 12 – Kapitel 3: Jesu Auferstehung erfüllt das Zeichen Jonas: Schriftzeichen weisen auf künftige Wirklichkeit
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/kommentar-zu-matthaeus-buch-12#kapitel-d40c56bd-719a-4460-7fa4-08df3a569ef4).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Betrachten wir nun, welche Antwort er gab, als die Pharisäer und Sadduzäer ihn baten, ihnen ein einziges Zeichen vom Himmel zu zeigen[^bible-eacaf8ba-cfcc-44b6-84ce-00473e781751]\. Er sagte: „Eine böse und ehebrecherische Generation verlangt nach einem Zeichen, und ihr wird kein Zeichen gegeben werden außer dem Zeichen des Propheten Jona\.[^bible-9c211e8e-d95c-4b8b-a133-0c3c3d4d3ae9]“ Daraufhin ließ er sie zurück und ging fort[^bible-9c211e8e-d95c-4b8b-a133-0c3c3d4d3ae9]\. Das Zeichen Jonas war demnach, ihrer Bitte entsprechend, nicht einfach ein Zeichen, sondern auch eines vom Himmel\. So hat er in seiner großen Güte selbst denen das Zeichen gegeben, die ihn auf die Probe stellten und ein Zeichen vom Himmel verlangten[^bible-eacaf8ba-cfcc-44b6-84ce-00473e781751]\. Denn wenn Jona „drei Tage und drei Nächte im Bauch des Meerungeheuers[^bible-8ddd9696-895a-471b-9075-b3c2694c267f]“ verbrachte und ebenso „der Menschensohn im Herzen der Erde[^bible-8ddd9696-895a-471b-9075-b3c2694c267f]“ war und danach aus ihr auferstand, woher, sollten wir sagen, kam dann das Zeichen der Auferstehung Jesu, wenn nicht vom Himmel? Das gilt besonders, weil er zur Zeit seines Leidens zusammen mit dem Räuber, dem er Gutes erwies, ins Paradies Gottes gelangte[^bible-992dccc4-e78f-4e02-9a9f-b7e5d5b328a4] und danach, wie ich meine, zu den Toten in die Unterwelt hinabstieg als einer, der „unter den Toten frei[^bible-22f840b5-7c57-4869-89a6-a0e90111e214]“ ist\. Mir scheint auch, dass der Retter das von ihm selbst ausgehende Zeichen mit der Aussage über das Zeichen Jonas verbindet: Er sagt, dass er nicht nur ein jenem ähnliches Zeichen gibt, sondern eben jenes selbst\. Achte nämlich auf die Worte: „Und ihr wird kein Zeichen gegeben werden außer dem Zeichen des Propheten Jona\.[^bible-9c211e8e-d95c-4b8b-a133-0c3c3d4d3ae9]“ Jenes Zeichen war also dieses, weil es auf dieses hinwies\. So sollte jenes Zeichen, das für sich genommen dunkel ist, seine Deutung darin finden, dass der Retter litt und „drei Tage und drei Nächte im Herzen der Erde[^bible-8ddd9696-895a-471b-9075-b3c2694c267f]“ verbrachte\. Zugleich lernen wir daraus etwas Allgemeines: Wenn ein Zeichen etwas bedeutet, dann weist jedes schriftlich überlieferte Zeichen, ob im Bericht über ein geschehenes Ereignis oder in einem Gebot, auf etwas hin, das später erfüllt wird\. So wies das Zeichen Jonas, der nach drei Tagen aus dem Bauch des Meerungeheuers herauskam[^bible-31a3e8c7-81de-4a60-89ce-c63cbd56dc48], auf die Auferstehung unseres Retters hin, der nach „drei Tagen und drei Nächten[^bible-8ddd9696-895a-471b-9075-b3c2694c267f]“ von den Toten auferstand\. Und die Beschneidung, die als „Zeichen[^bible-0514da3d-a582-4cb6-837f-b8ee40c8f715]“ bezeichnet wird, wies auf jene Beschneidung hin, die Paulus mit den Worten meint: „Denn wir sind die Beschneidung\.[^bible-cfe11a02-c5dd-491c-8bba-b4ca010f9267]“ Untersuche auch du bei jedem Zeichen in den alten Schriften, für welche Wirklichkeit in der neuen Schrift es ein Vorausbild ist\. Und untersuche bei allem, was im Neuen Testament Zeichen genannt wird, worauf es hinweist: sei es im kommenden Zeitalter oder auch in den Generationen, die auf das Geschehen des Zeichens folgen\.
+
+## Bibelverweise
+
+[^bible-0514da3d-a582-4cb6-837f-b8ee40c8f715]: Gen 17,11
+[^bible-22f840b5-7c57-4869-89a6-a0e90111e214]: Ps 87,6
+[^bible-31a3e8c7-81de-4a60-89ce-c63cbd56dc48]: Jona 2,1; Jona 2,11
+[^bible-8ddd9696-895a-471b-9075-b3c2694c267f]: Mt 12,40
+[^bible-992dccc4-e78f-4e02-9a9f-b7e5d5b328a4]: Lk 23,43
+[^bible-9c211e8e-d95c-4b8b-a133-0c3c3d4d3ae9]: Mt 16,4
+[^bible-cfe11a02-c5dd-491c-8bba-b4ca010f9267]: Phil 3,3
+[^bible-eacaf8ba-cfcc-44b6-84ce-00473e781751]: Mt 16,1

@@ -1,0 +1,34 @@
+# Kommentar zu Matthäus, Buch 12 – Kapitel 5: Jesu Jünger sollen beim geistlichen Brot bleiben und den Sauerteig der Pharisäer und Sadduzäer meiden
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/kommentar-zu-matthaeus-buch-12#kapitel-5ee70974-d10d-45e6-7fa6-08df3a569ef4).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Und als seine Jünger ans andere Ufer kamen, vergaßen sie, Brote mitzunehmen\.[^bible-a4a50a51-6b66-454b-924e-cd0d127565d0]“
+
+Die Brote vom diesseitigen Ufer nützten den Jüngern, die ans andere Ufer gekommen waren, nichts mehr\. Denn vor der Überfahrt brauchten sie andere Brote als am anderen Ufer\. Deshalb kümmerten sie sich beim Aufbruch ans andere Ufer nicht darum, Brote mitzuführen, und vergaßen, sie mitzunehmen[^bible-a4a50a51-6b66-454b-924e-cd0d127565d0]\. Ans andere Ufer sind aber diejenigen Jünger Jesu gelangt, die vom Körperlichen zum Geistlichen und vom sinnlich Wahrnehmbaren zum geistig Erkennbaren übergegangen sind\. Vielleicht sagte Jesus zu denen am anderen Ufer: „Seht hin und nehmt euch in Acht[^bible-9162ed6d-68e8-4d7e-aba8-56d3fec2c8e9]“, um diejenigen, die durch ihre Ankunft am anderen Ufer im Geist begonnen hatten[^bible-97bb3969-8b33-432f-ada8-497a739ae0cd], davon abzuhalten, wieder zum Fleischlichen zurückzukehren[^bible-97bb3969-8b33-432f-ada8-497a739ae0cd]\. Denn es gab einen Teig aus Lehre und wahrhaft altem Sauerteig[^bible-10b34a37-154f-4c20-b286-28d2ffc10349], der sich nach dem bloßen Buchstaben richtete und deshalb nicht frei von dem war, was aus Bosheit stammt\. Diesen Teig boten die Pharisäer und Sadduzäer an\. Davon will Jesus seine eigenen Jünger nicht mehr essen lassen, denn er hat ihnen einen geistlichen, „neuen Teig[^bible-5842b95c-8d00-42af-b92c-61850acb3a49]“ bereitet: Denen, die sich vom Sauerteig der Pharisäer und Sadduzäer[^bible-9162ed6d-68e8-4d7e-aba8-56d3fec2c8e9] abgewandt haben und zu ihm gekommen sind, hat er sich selbst als lebendiges Brot gegeben, das vom Himmel herabgekommen ist und der Welt Leben schenkt[^bible-c226eced-3237-4515-9ada-50ad22de527c]\. Wer den Sauerteig, den Teig und die Lehre der Pharisäer und Sadduzäer[^bible-5b9fbb52-29c5-4bc0-ab62-200f2e11c574] nicht mehr verwenden will, muss zuerst genau hinsehen und dann auf der Hut sein, damit er nicht etwa, weil er nicht hinsieht und unachtsam ist, von ihrem verbotenen Sauerteig[^bible-9162ed6d-68e8-4d7e-aba8-56d3fec2c8e9] isst\. Deshalb sagt Jesus zu den Jüngern zuerst: „Seht hin[^bible-9162ed6d-68e8-4d7e-aba8-56d3fec2c8e9]“, und dann: „Nehmt euch in Acht[^bible-9162ed6d-68e8-4d7e-aba8-56d3fec2c8e9]\.“ Es braucht also einen klaren Blick und Achtsamkeit, um den Sauerteig der Pharisäer und Sadduzäer[^bible-9162ed6d-68e8-4d7e-aba8-56d3fec2c8e9] und jede Nahrung, die nicht aus „ungesäuerten Broten der Aufrichtigkeit und Wahrheit[^bible-8364c701-54b5-48eb-b165-74f90f4ec177]“ besteht, von dem lebendigen Brot, das vom Himmel herabgekommen ist[^bible-094f58b9-d4f1-4565-981c-8bec67cc8fdf], zu unterscheiden, damit man nicht annimmt, was von den Pharisäern und Sadduzäern stammt, sondern das lebendige und wahre Brot[^bible-ea3cbb24-227a-42f1-ac80-49dc425e9a40] isst und dadurch an der Seele gestärkt wird\.
+
+Dieses Wort könnten wir mit gutem Grund auch denen vorhalten, die christlich leben und zugleich körperlich die jüdischen Bräuche befolgen wollen\. Denn sie sehen nicht hin und nehmen sich nicht vor dem Sauerteig der Pharisäer und Sadduzäer in Acht[^bible-45a91692-70e7-4f08-8684-6af10e0f327a], sondern essen das Brot der Pharisäer gegen den Willen Jesu, der diesen Sauerteig verboten hat\. Auch alle, so meine ich, die nicht begreifen wollen, dass „das Gesetz geistlich ist[^bible-087bbbe2-b3cf-4fe7-83cd-aa58a60fe26a]“, „einen Schatten der künftigen Güter hat[^bible-afa884c8-93ff-4242-b5e1-a1e368212346]“ und „ein Schatten dessen ist, was kommen wird[^bible-e5d7a669-249b-449d-80f6-c38768cb3d3d]“, und die nicht danach fragen, welches künftige Gut jedes einzelne Gesetz als Schatten abbildet, sehen nicht hin und nehmen sich nicht vor dem Sauerteig der Pharisäer in Acht[^bible-45a91692-70e7-4f08-8684-6af10e0f327a]\. Diejenigen aber, die auch die Auferstehung der Toten verwerfen, hüten sich nicht vor dem Sauerteig der Sadduzäer[^bible-45a91692-70e7-4f08-8684-6af10e0f327a]\. Und tatsächlich werden viele unter denen, die abweichende Lehren vertreten, wegen ihres Unglaubens an die Auferstehung der Toten mit dem Sauerteig der Sadduzäer vermengt\. Als Jesus dies sagte, dachten die Jünger bei sich[^bible-1ffecf98-5219-4743-9642-0d064ff25b48], ohne es laut auszusprechen, sondern nur in ihren Herzen: „Weil wir keine Brote mitgenommen haben\.[^bible-1ffecf98-5219-4743-9642-0d064ff25b48]“ Was sie sagten, war etwa Folgendes: „Wenn wir Brote hätten, hätten wir nichts vom Sauerteig der Pharisäer und Sadduzäer genommen\. Da wir aber aus Mangel an Broten Gefahr laufen, etwas von ihrem Sauerteig zu nehmen, und der Retter nicht will, dass wir zu ihrer Lehre zurückkehren, hat er zu uns gesagt: ‚Seht hin und nehmt euch vor dem Sauerteig der Pharisäer und Sadduzäer in Acht\.[^bible-45a91692-70e7-4f08-8684-6af10e0f327a]‘“ So dachten sie bei sich\. Jesus aber, der sieht, was in ihren Herzen vorgeht, und die Worte darin hört, da er wahrhaft über die Herzen wacht[^bible-13852f4d-2e68-40fc-9f64-e2e47125b200], weist sie zurecht, weil sie nicht verstehen und sich auch nicht an die Brote erinnern, die sie von ihm empfangen haben[^bible-2b653a99-1dd2-4bcd-9d66-130399e18111]\. Dank dieser Brote brauchten sie den Sauerteig der Pharisäer und Sadduzäer nicht, auch wenn es ihnen an Broten zu fehlen schien\.
+
+## Bibelverweise
+
+[^bible-087bbbe2-b3cf-4fe7-83cd-aa58a60fe26a]: Röm 7,14
+[^bible-094f58b9-d4f1-4565-981c-8bec67cc8fdf]: Joh 6,51
+[^bible-10b34a37-154f-4c20-b286-28d2ffc10349]: 1Kor 5,7–1Kor 5,8
+[^bible-13852f4d-2e68-40fc-9f64-e2e47125b200]: Weish 1,6
+[^bible-1ffecf98-5219-4743-9642-0d064ff25b48]: Mt 16,7
+[^bible-2b653a99-1dd2-4bcd-9d66-130399e18111]: Mt 16,8–Mt 16,9
+[^bible-45a91692-70e7-4f08-8684-6af10e0f327a]: Mt 16,6
+[^bible-5842b95c-8d00-42af-b92c-61850acb3a49]: 1Kor 5,7
+[^bible-5b9fbb52-29c5-4bc0-ab62-200f2e11c574]: Mt 16,6–Mt 16,12
+[^bible-8364c701-54b5-48eb-b165-74f90f4ec177]: 1Kor 5,8
+[^bible-9162ed6d-68e8-4d7e-aba8-56d3fec2c8e9]: Mt 16,6
+[^bible-97bb3969-8b33-432f-ada8-497a739ae0cd]: Gal 3,3
+[^bible-a4a50a51-6b66-454b-924e-cd0d127565d0]: Mt 16,5
+[^bible-afa884c8-93ff-4242-b5e1-a1e368212346]: Hebr 10,1
+[^bible-c226eced-3237-4515-9ada-50ad22de527c]: Joh 6,33; Joh 6,51
+[^bible-e5d7a669-249b-449d-80f6-c38768cb3d3d]: Kol 2,17
+[^bible-ea3cbb24-227a-42f1-ac80-49dc425e9a40]: Joh 6,32; Joh 6,51
