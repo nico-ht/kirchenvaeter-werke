@@ -1,0 +1,21 @@
+# An Monimus, Buch 1 – Kapitel 13: Gott krönt in den Heiligen seine eigenen Gaben und verurteilt in den Ungerechten deren eigene Schuld
+
+Autor: Fulgentius von Ruspe
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/fulgentius-von-ruspe/fulgentius-an-monimus-buch-1#kapitel-57d6bc25-8114-44c1-37e4-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Da Gott also durch keine Notwendigkeit gezwungen wird, gegen seinen Willen etwas zu verheißen, wird er gewiss auch durch kein widriges Hindernis daran gehindert, das Verheißene in dem Maß und zu der Zeit zu vollbringen, wie er es will\. Deshalb konnte er, wie er es wollte, die einen zur Herrlichkeit, die anderen zur Strafe vorherbestimmen\. Die er aber zur Herrlichkeit vorherbestimmt hat, hat er zur Gerechtigkeit vorherbestimmt\. Die er hingegen zur Strafe vorherbestimmt hat, hat er nicht zur Schuld vorherbestimmt\. Denn eine Sünde könnte aus Gottes Vorherbestimmung hervorgehen, wenn ein Mensch mit Recht sündigen könnte\. Doch kein Mensch sündigt mit Recht, auch wenn Gott ihn mit Recht sündigen lässt\. Denn wer Gott verlässt, wird mit Recht von Gott verlassen\. Und weil der Mensch sündigt, indem er Gott verlässt, wahrt Gott die Gerechtigkeit, indem er den Sünder verlässt\. Was aber ist gerechter, als zuzulassen, dass jemand, der schon durch sein Verlangen zu sündigen sündigt, sich durch seine Sünde selbst schädigt, weil er sich mit seinem Verlangen zu sündigen selbst schadet?
+
+In den Heiligen krönt Gott also die Gerechtigkeit, die er ihnen selbst aus Gnade geschenkt, aus Gnade bewahrt und aus Gnade vollendet hat\. Die Ungerechten hingegen wird er wegen ihrer Gottlosigkeit oder Ungerechtigkeit verurteilen, die er selbst nicht in ihnen gewirkt hat\. Denn in jenen verherrlicht er seine eigenen Werke, in diesen aber verurteilt er Werke, die nicht seine sind\. Gott hat also das vorherbestimmt, was er selbst tun oder schenken würde\. Keineswegs aber hat er vorherbestimmt, was er selbst weder aus Gnade noch aus Gerechtigkeit tun würde\. Deshalb erscheint es geboten, mit größter Sorgfalt zu untersuchen, was Gott in denen wirkt, die er aus Gnade rechtfertigt, und was in denen, die er mit Recht verurteilt\. Denn der herausragende Lehrer der Völker sagt: „Wenn aber unsere Ungerechtigkeit Gottes Gerechtigkeit erweist, was sollen wir dann sagen? Ist Gott etwa ungerecht, wenn er seinen Zorn verhängt? Rede ich nach Menschenweise? Das sei ferne\![^bible-b0bc6b8d-6080-421c-a79b-da06823f1cb3]“ Hier hat er Zorn im Sinne von Verurteilung gebraucht, wie auch Johannes der Täufer an anderer Stelle sagt: „Wer dem Sohn nicht glaubt, wird das Leben nicht sehen, sondern Gottes Zorn bleibt auf ihm\.[^bible-ba020a08-f1ee-4dcb-874b-184b89008775]“ Diesen Zorn kündigt er den Pharisäern und Sadduzäern mit scharfem Tadel an, indem er sagt: „Natternbrut, wer hat euch gezeigt, wie ihr dem kommenden Zorn entfliehen könnt?[^bible-98fcce04-e67c-464d-abb5-e822dc90c616]“ Vor diesem Zorn hat uns Christus, der Herr, gerettet[^bible-0a7080f0-1708-4d3c-9486-0752c99684c1], wie Paulus in seiner wahrhaftigen Verkündigung bestätigt hat, als er den Thessalonichern sagte: „Wie ihr euch von den Götzen zu Gott bekehrt habt, um dem lebendigen und wahren Gott zu dienen und seinen Sohn vom Himmel her zu erwarten, den er von den Toten auferweckt hat: Jesus, der uns vor dem kommenden Zorn gerettet hat\.[^bible-d191ee73-c778-406f-a541-a227e7d5c40d]“ Diesen Zorn, das heißt die Strafe, die für die Bösen bereitsteht, nennt er an anderer Stelle Verderben, wenn er sagt: „Wenn sie nämlich sagen: ‚Frieden und Sicherheit‘, dann wird sie plötzlich das Verderben überfallen, wie die Wehen eine Schwangere, und sie werden nicht entkommen\.[^bible-3c456fb3-e797-4b39-898f-e5762ac8397c]“
+
+## Bibelverweise
+
+[^bible-0a7080f0-1708-4d3c-9486-0752c99684c1]: 1Thess 1,10
+[^bible-3c456fb3-e797-4b39-898f-e5762ac8397c]: 1Thess 5,3
+[^bible-98fcce04-e67c-464d-abb5-e822dc90c616]: Mt 3,7; Lk 3,7
+[^bible-b0bc6b8d-6080-421c-a79b-da06823f1cb3]: Röm 3,5–Röm 3,6
+[^bible-ba020a08-f1ee-4dcb-874b-184b89008775]: Joh 3,36
+[^bible-d191ee73-c778-406f-a541-a227e7d5c40d]: 1Thess 1,9–1Thess 1,10

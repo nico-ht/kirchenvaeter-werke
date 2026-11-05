@@ -1,0 +1,20 @@
+# An Monimus, Buch 1 – Kapitel 10: Das ewige Leben ist Gnade: Gott belohnt seine eigenen Gaben weit über jedes menschliche Verdienst hinaus
+
+Autor: Fulgentius von Ruspe
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/fulgentius-von-ruspe/fulgentius-an-monimus-buch-1#kapitel-8c31f3a2-9e17-4bc3-37e1-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Betrachten wir auch das ewige Leben und das Himmelreich, die Gott den Gläubigen durch den Glauben bereitet hat\. Christus selbst erklärt ja, dass er zu denen an seiner rechten Seite sagen wird: „Kommt, ihr Gesegneten meines Vaters, empfangt das Reich, das euch seit Anbeginn der Welt bereitet ist\.[^bible-ee74fdf5-7f9a-4057-8339-3e0856e5f9fd]“ Doch auch dies ist ein Werk der Gnade\. Aus Gnade wird nämlich nicht nur den Gerechtfertigten ein gutes Leben geschenkt, sondern auch den Verherrlichten das ewige Leben\. Das wissen wir aus der Verkündigung des Paulus, der sagt: „Denn der Sold der Sünde ist der Tod\. Die Gnade Gottes aber ist das ewige Leben in Christus Jesus, unserem Herrn\.[^bible-cedec787-8529-4617-8420-60ec9fc59d7d]“ Warum aber wird der Tod Sold genannt, das ewige Leben hingegen Gnade, wenn nicht deshalb, weil jener als Lohn gezahlt, dieses aber geschenkt wird? Wo Gott aber den Tod als Lohn gibt, bestraft er die böse Tat des sündigen Menschen, die dieser keinesfalls begangen hätte, wenn er sich nicht von Gott abgewandt hätte\. Wenn Gott aber das ewige Leben schenkt, vollendet er durch die Verherrlichung des Gerechten sein eigenes Werk, das er mit der Rechtfertigung des Gottlosen[^bible-69e26234-4706-428e-9de2-6e48745e8c12] begonnen hat\. Diese beiden Gnadengaben aber, das gute Leben und das ewige Leben, sind in Christus Jesus, unserem Herrn[^bible-cedec787-8529-4617-8420-60ec9fc59d7d]\. Denn aus seiner Fülle haben wir alle empfangen, und Gnade für Gnade[^bible-a48bb558-29a1-4e71-a694-6f021b99c651], nämlich die Gnade der ewigen Verherrlichung für die Gnade der ungeschuldeten Rechtfertigung, damit die Gnade der Rechtfertigung durch eine ungeschuldete Wohltat jedes böse Verdienst tilgt und durch beständige Hilfe das gute Verdienst festigt, dem die Gnade der gerechten Verherrlichung als Lohn gewährt wird\. Auch diese wird mit Recht Gnade genannt\. Denn Gott vergilt nicht nur seine Gaben mit seinen Gaben; vielmehr strömt dort die Gnade der göttlichen Vergeltung so überreich, dass sie jedes Verdienst menschlichen Wollens und Handelns in unvergleichlicher und unaussprechlicher Weise übersteigt, auch wenn dieses Wollen und Handeln gut und von Gott geschenkt sind\. Der selige Apostel Paulus zeigt zwar, dass uns nicht nur das Licht zum Glauben an Christus, sondern auch die Kraft zum Leiden für ihn von Gott geschenkt wird[^bible-1ad718f8-208a-487f-9740-4c0f544c455a], indem er sagt: „Denn euch ist um Christi willen geschenkt worden, nicht nur an ihn zu glauben, sondern auch für ihn zu leiden\.[^bible-1ad718f8-208a-487f-9740-4c0f544c455a]“ Beides gehört zur Gnade des gegenwärtigen guten Lebens\. Dennoch stellt er jene Gnade des künftigen Lebens über alle Leiden der gegenwärtigen Zeit, wenn er sagt: „Die Leiden dieser Zeit stehen in keinem Verhältnis zur künftigen Herrlichkeit, die an uns offenbar werden wird\.[^bible-0f4d2c90-7340-4089-9435-746b41ccc752]“ Und an anderer Stelle: „Denn unsere gegenwärtige, kurze und leichte Bedrängnis bewirkt in uns ein über alles Maß erhabenes, ewiges Gewicht der Herrlichkeit\.[^bible-29edb4cb-b2f0-4f0a-b493-3b151d05a8ae]“
+
+## Bibelverweise
+
+[^bible-0f4d2c90-7340-4089-9435-746b41ccc752]: Röm 8,18
+[^bible-1ad718f8-208a-487f-9740-4c0f544c455a]: Phil 1,29
+[^bible-29edb4cb-b2f0-4f0a-b493-3b151d05a8ae]: 2Kor 4,17
+[^bible-69e26234-4706-428e-9de2-6e48745e8c12]: Röm 4,5
+[^bible-a48bb558-29a1-4e71-a694-6f021b99c651]: Joh 1,16
+[^bible-cedec787-8529-4617-8420-60ec9fc59d7d]: Röm 6,23
+[^bible-ee74fdf5-7f9a-4057-8339-3e0856e5f9fd]: Mt 25,34
