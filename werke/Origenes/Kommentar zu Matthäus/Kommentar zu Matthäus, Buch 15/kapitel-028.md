@@ -1,0 +1,32 @@
+# Kommentar zu Matthäus, Buch 15 – Kapitel 28: Die Einzelheiten des Weinberggleichnisses bergen verborgene Weisheit und verlangen sorgfältige Deutung
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/kommentar-zu-matthaeus-buch-15#kapitel-7070f1fc-4957-40b7-3b02-08df38321db2).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Das Himmelreich gleicht einem Hausherrn, der früh am Morgen hinausging, um Arbeiter anzuwerben[^bible-4fd772a9-7b2f-41bf-b1af-b912f619b3eb]“, und so weiter bis zu den Worten: „Denn viele sind berufen, wenige aber auserwählt\.[^bible-2aadefae-e3c0-461e-a59f-b442ad229f21]“
+
+Das ganze Gleichnis kann also dazu angeführt worden sein, uns zu lehren, wie diejenigen, die zuletzt zur Arbeit kamen, ihren Lohn als Erste erhielten, als wären sie zuerst gerufen worden, und wie diejenigen, die zuerst gerufen worden waren, vom Hausherrn an die letzte Stelle gesetzt wurden und deshalb ihren Lohn zuletzt empfingen[^bible-0bdb3437-55fc-4567-9783-f5a6efb23c4c]\. Man muss jedoch wissen: Untersucht man es als ein Gleichnis, das von Jesus stammt, „in dem die Schätze der Weisheit und Erkenntnis verborgen sind[^bible-fde849f3-676c-4a39-802a-5d1f214eea9e]“, so werden diejenigen, die solche Dinge zu entdecken vermögen, darin so viele Lehren der im Geheimnis verborgenen Weisheit[^bible-d11c483c-1a1a-4ef4-ba9f-7cbab3c0eb03] angedeutet finden, dass der Retter mit gutem Grund gerade von diesem Gleichnis sagen könnte: „Ich werde meinen Mund in Gleichnissen öffnen, werde Rätsel aus der Urzeit aussprechen[^bible-c1ed0cb7-da47-4d11-8c83-eee8a64fce70]“, und: „Ich werde verkünden, was seit der Grundlegung verborgen ist\.[^bible-57b4d90c-d0a9-4af6-bf02-c7b028975522]“ Wer das Gleichnis verstehen will, muss nämlich den darin bezeichneten Tag und seine Stunden betrachten und erkennen, dass es nicht willkürlich geschieht, wenn der Hausherr die Arbeiten im Weinberg fünf Gruppen von Arbeitern anvertraut[^bible-98719323-030c-4da8-83e8-449a62fb22f8]\. Wer dazu imstande ist, wird untersuchen, warum er früh am Morgen einige Arbeiter für den Weinberg anwirbt[^bible-4fd772a9-7b2f-41bf-b1af-b912f619b3eb], danach aber nicht etwa zur zweiten, sondern zur dritten Stunde andere[^bible-7b71abe8-29aa-4c94-9088-e24315e5f63e], anschließend nicht zur vierten oder fünften, sondern zur sechsten[^bible-ea701af7-9291-4da4-b1b4-88fdd4fe4833], danach nicht zur siebten oder achten, sondern zur neunten[^bible-ea701af7-9291-4da4-b1b4-88fdd4fe4833] und schließlich nicht zur zehnten, sondern zur elften Stunde[^bible-a3b7c02a-f234-493b-a656-1bf46aae19cd]\. Denn es muss einen Jesu würdigen Grund dafür geben, dass nach dem frühen Morgen drei gleiche Zeitabstände mit der dritten, sechsten und neunten Stunde aufeinanderfolgen, danach aber bis zu denen, die um die elfte Stunde dastehen[^bible-e92fa815-28c3-4f31-a84e-f5bbe6b5d175], ein kürzerer Abstand liegt, so groß wie der Abstand vom frühen Morgen bis zur dritten Stunde\. Ebenso muss man sorgfältig darauf achten, dass der Hausherr mit den bei Tagesanbruch angeworbenen Arbeitern, die er in seinen Weinberg schickte, je einen Denar vereinbarte[^bible-7c88ea7a-65e3-4673-8486-8cbd01a29303], den zur dritten Stunde Gerufenen dagegen keinen bestimmten Lohn nannte[^bible-7b71abe8-29aa-4c94-9088-e24315e5f63e], sondern sagte: „Was gerecht ist, werde ich euch geben\.[^bible-b32c40e6-e6cf-42f6-956a-d9aa91e2b185]“ Zu beachten ist auch, dass er mit denen, die um die sechste und neunte Stunde gerufen wurden, ebenso verfuhr[^bible-ea701af7-9291-4da4-b1b4-88fdd4fe4833] und dass die Arbeiter der elften Stunde sich dafür rechtfertigten, dass sie den ganzen Tag untätig gewesen waren[^bible-a3b7c02a-f234-493b-a656-1bf46aae19cd], worauf er ihnen sagte: „Geht auch ihr in den Weinberg\.[^bible-824b84b4-bcf8-41e6-9b22-14622b7d34af]“ Ferner ist zu beachten, dass er sich außerhalb des Weinbergs befand und dort die Arbeiter fand[^bible-1aa234d3-1665-4034-b089-4804c6150880]: Die Ersten schickt er in den Weinberg[^bible-7c88ea7a-65e3-4673-8486-8cbd01a29303], zu den Zweiten sagt er: „Geht auch ihr in den Weinberg[^bible-b32c40e6-e6cf-42f6-956a-d9aa91e2b185]“, und genau dieselben Worte richtet er an „die um die elfte Stunde Gerufenen[^bible-a3b7c02a-f234-493b-a656-1bf46aae19cd]“: „Geht auch ihr in den Weinberg\.[^bible-824b84b4-bcf8-41e6-9b22-14622b7d34af]“ Wer dazu imstande ist, soll bedenken, was es mit dem Marktplatz auf sich hat, auf dem der Hausherr, als er hinausging, die zweite Gruppe untätig dastehen fand[^bible-b24dc78c-79ff-4bdf-9917-c3a374a231a4]\. Ebenso soll untersucht werden, wer diejenigen sind, die er um die elfte Stunde dastehen fand[^bible-e92fa815-28c3-4f31-a84e-f5bbe6b5d175] und zu denen der Hausherr sagt: „Warum steht ihr hier den ganzen Tag untätig herum?[^bible-e92fa815-28c3-4f31-a84e-f5bbe6b5d175]“ Man soll auch auf die Rechtfertigung derer achten, die den ganzen Tag untätig dagestanden hatten[^bible-a3b7c02a-f234-493b-a656-1bf46aae19cd] und die Mühe dieses untätigen Stehens den ganzen Tag hindurch ertragen hatten\. Sie erklärten freimütig, dass sie zwar bereit gewesen waren zu arbeiten, aber niemand sie angeworben hatte[^bible-824b84b4-bcf8-41e6-9b22-14622b7d34af], als hätte es viele gegeben, die sie hätten anwerben können, es aber nicht getan hatten\.
+
+## Bibelverweise
+
+[^bible-0bdb3437-55fc-4567-9783-f5a6efb23c4c]: Mt 20,8–Mt 20,10
+[^bible-1aa234d3-1665-4034-b089-4804c6150880]: Mt 20,1–Mt 20,3
+[^bible-2aadefae-e3c0-461e-a59f-b442ad229f21]: Mt 20,16
+[^bible-4fd772a9-7b2f-41bf-b1af-b912f619b3eb]: Mt 20,1
+[^bible-57b4d90c-d0a9-4af6-bf02-c7b028975522]: Mt 13,35
+[^bible-7b71abe8-29aa-4c94-9088-e24315e5f63e]: Mt 20,3–Mt 20,4
+[^bible-7c88ea7a-65e3-4673-8486-8cbd01a29303]: Mt 20,2
+[^bible-824b84b4-bcf8-41e6-9b22-14622b7d34af]: Mt 20,7
+[^bible-98719323-030c-4da8-83e8-449a62fb22f8]: Mt 20,1–Mt 20,7
+[^bible-a3b7c02a-f234-493b-a656-1bf46aae19cd]: Mt 20,6–Mt 20,7
+[^bible-b24dc78c-79ff-4bdf-9917-c3a374a231a4]: Mt 20,3
+[^bible-b32c40e6-e6cf-42f6-956a-d9aa91e2b185]: Mt 20,4
+[^bible-c1ed0cb7-da47-4d11-8c83-eee8a64fce70]: Ps 77,2
+[^bible-d11c483c-1a1a-4ef4-ba9f-7cbab3c0eb03]: 1Kor 2,7
+[^bible-e92fa815-28c3-4f31-a84e-f5bbe6b5d175]: Mt 20,6
+[^bible-ea701af7-9291-4da4-b1b4-88fdd4fe4833]: Mt 20,5
+[^bible-fde849f3-676c-4a39-802a-5d1f214eea9e]: Kol 2,3

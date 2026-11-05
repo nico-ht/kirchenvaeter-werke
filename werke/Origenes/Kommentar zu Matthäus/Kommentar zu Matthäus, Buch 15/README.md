@@ -1,0 +1,45 @@
+# Kommentar zu Matthäus, Buch 15
+
+Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/kommentar-zu-matthaeus-buch-15) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- [Kapitel 1: Nicht nur die Entmannung um des Himmelreichs willen, sondern alle drei Arten sind geistig zu deuten](kapitel-001.md)
+- [Kapitel 2: Auch im Neuen Testament tötet der Buchstabe, wenn Jesu Worte gegen ihre eigentliche Absicht befolgt werden](kapitel-002.md)
+- [Kapitel 3: Der Weg zur Keuschheit ist Selbstbeherrschung als Frucht des Geistes, nicht Selbstentmannung](kapitel-003.md)
+- [Kapitel 4: Die drei Arten der Eunuchen stehen für Enthaltsamkeit aus Anlage, menschlicher Lehre oder Gottes Wort](kapitel-004.md)
+- [Kapitel 5: Pharaos Eunuchen sind geistlich unfruchtbar für das Gute, Gottes Eunuchen für das Böse](kapitel-005.md)
+- [Kapitel 6: Geistlich Unmündige empfangen durch Jesu Gebet und Berührung die Hilfe, die sie aufnehmen können](kapitel-006.md)
+- [Kapitel 7: Jesu Jünger sollen sich wie Christus auf die Stufe der Unmündigen begeben, statt deren Lehrer zu tadeln](kapitel-007.md)
+- [Kapitel 8: Wer in Demut den Kindern gleich wird, hilft ihnen zum Heil und wird von Gott erhöht](kapitel-008.md)
+- [Kapitel 9: Das Reich Gottes „wie ein Kind“ annehmen heißt, als geistlich Reifer den Unmündigen kindgemäß zu begegnen](kapitel-009.md)
+- [Kapitel 10: Gott allein ist im eigentlichen Sinn gut; der Retter ist Abbild seiner Güte, menschliches Gutes bleibt relativ](kapitel-010.md)
+- [Kapitel 11: Auch Gottes Zorn und schmerzhafte Erziehung dienen aus Güte der Besserung und Rettung](kapitel-011.md)
+- [Kapitel 12: In welchem Maß wir die Gebote halten, bestimmt, wie tief wir in das Leben eintreten](kapitel-012.md)
+- [Kapitel 13: Einzelgebote eröffnen das Leben; den Nächsten wie sich selbst zu lieben erfüllt alle Gebote und macht vollkommen](kapitel-013.md)
+- [Kapitel 14: Wurde das Nächstenliebegebot beim reichen Jüngling ergänzt, oder will Jesus dessen falschen Anspruch aufdecken?](kapitel-014.md)
+- [Kapitel 15: Krates und die Urgemeinde zeigen, dass Jesu Aufforderung zum Besitzverzicht wörtlich erfüllbar ist](kapitel-015.md)
+- [Kapitel 16: Wie kann Besitzverzicht allein vollkommen machen, wenn dazu alle Tugenden und Weisheit nötig sind?](kapitel-016.md)
+- [Kapitel 17: Die Fürbitte der Armen könnte nach dem Besitzverzicht das Wachstum zur Vollkommenheit ermöglichen](kapitel-017.md)
+- [Kapitel 18: Eine erwogene bildliche Deutung: Das Ablegen bösen Besitzes macht vollkommen und frei zur Nachfolge](kapitel-018.md)
+- [Kapitel 19: Der betrübte Jüngling: geistlich ans Böse gebunden, im geschichtlichen Sinn teils lobenswert, teils tadelnswert](kapitel-019.md)
+- [Kapitel 20: Auch der Reiche kann ins Himmelreich gelangen – nicht aus eigener Kraft, sondern durch Gottes Macht](kapitel-020.md)
+- [Kapitel 21: Gott würdigt Petrus’ Verzicht auf wenig Besitz wegen seiner rückhaltlosen Bereitschaft zur Nachfolge](kapitel-021.md)
+- [Kapitel 22: Wer das Böse verlässt und Christus nachfolgt, wird bei der Auferstehung die zwölf Stämme Israels richten](kapitel-022.md)
+- [Kapitel 23: Die Taufe beginnt die Wiedergeburt; das Bad in Geist und Feuer vollendet sie in Christi Herrlichkeit](kapitel-023.md)
+- [Kapitel 24: Die Apostel und ihre Nachahmer richten durch ihr Leben das ungläubige Israel trotz seiner edlen Herkunft](kapitel-024.md)
+- [Kapitel 25: Das Vielfache für den Verzicht um Jesu willen: geistliche Verwandtschaft und Güter im Paradies](kapitel-025.md)
+- [Kapitel 26: Viele Erste werden Letzte: Entscheidend sind Glaube und Lebensführung, nicht Herkunft oder zeitlicher Vorrang](kapitel-026.md)
+- [Kapitel 27: Menschen können gefallene Engel überragen – im Gleichnis der Arbeiter werden aber auch die Letzten gerettet](kapitel-027.md)
+- [Kapitel 28: Die Einzelheiten des Weinberggleichnisses bergen verborgene Weisheit und verlangen sorgfältige Deutung](kapitel-028.md)
+- [Kapitel 29: Die Letzten erhalten zuerst den Lohn; nur die Arbeiter vom Tagesanbruch murren über die Gleichstellung](kapitel-029.md)
+- [Kapitel 30: Nur der Beistand erschließt das Weinberggleichnis; die vollständige Offenlegung seiner Geheimnisse birgt Gefahr](kapitel-030.md)
+- [Kapitel 31: Der Tag im Weinberggleichnis kann das gegenwärtige Weltalter bezeichnen, dem weitere Weltalter folgen](kapitel-031.md)
+- [Kapitel 32: Derselbe Christus beruft zu fünf verschiedenen Zeiten die Arbeiter in den Weinberg der Gottesverehrung](kapitel-032.md)
+- [Kapitel 33: Die fünf Berufungen könnten den fünf Sinnen entsprechen – das Sehen verweist auf Christi Kommen](kapitel-033.md)
+- [Kapitel 34: Gleicher Heilslohn für spät Berufene: Ihr voller Einsatz kann die kürzere Arbeitszeit ausgleichen](kapitel-034.md)
+- [Kapitel 35: Die Seelen könnten schon vor dem Leib auf Berufung warten; alle Arbeiter im Reich Gottes empfangen das Heil](kapitel-035.md)
+- [Kapitel 36: Die Berufungsstunden können Lebensalter meinen: Für den Heilslohn zählt der Wille, nicht die Dauer des Glaubens](kapitel-036.md)
+- [Kapitel 37: Umkehrende Abgefallene dürfen auf Heil hoffen, sind aber nicht den erstmals spät Berufenen gleichzustellen](kapitel-037.md)
