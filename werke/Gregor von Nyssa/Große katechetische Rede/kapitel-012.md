@@ -1,0 +1,14 @@
+# Große katechetische Rede – Kapitel 12: Gottes Dasein und sein Erscheinen im Fleisch sind gleichermaßen an seinen Taten erkennbar
+
+Autor: Gregor von Nyssa
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nyssa/grosse-katechetische-rede#kapitel-74f75916-fdcd-49f4-fb6b-08df14d31bf7).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wer aber Beweise dafür sucht, dass Gott[^bible-132a3aef-4819-4784-aa3b-e4a9bcc8d23e] [^bible-132a3aef-4819-4784-aa3b-e4a9bcc8d23e]uns[^bible-132a3aef-4819-4784-aa3b-e4a9bcc8d23e] [^bible-132a3aef-4819-4784-aa3b-e4a9bcc8d23e]im Fleisch[^bible-132a3aef-4819-4784-aa3b-e4a9bcc8d23e] [^bible-132a3aef-4819-4784-aa3b-e4a9bcc8d23e]erschienen ist[^bible-132a3aef-4819-4784-aa3b-e4a9bcc8d23e], soll auf seine Taten blicken\. Denn auch dafür, dass Gott überhaupt existiert, kann man keinen anderen Beweis haben als das Zeugnis, das seine Taten selbst ablegen\. Wenn wir also auf das All blicken und betrachten, wie die Welt geordnet ist, und die Wohltaten sehen, die Gott in unserem Leben erweist, erkennen wir, dass über allem eine Macht steht, die alles Entstehende hervorbringt und alles Bestehende erhält\. Ebenso gelten uns auch bei Gott[^bible-132a3aef-4819-4784-aa3b-e4a9bcc8d23e], der [^bible-132a3aef-4819-4784-aa3b-e4a9bcc8d23e]uns[^bible-132a3aef-4819-4784-aa3b-e4a9bcc8d23e] [^bible-132a3aef-4819-4784-aa3b-e4a9bcc8d23e]durch das Fleisch[^bible-132a3aef-4819-4784-aa3b-e4a9bcc8d23e] [^bible-132a3aef-4819-4784-aa3b-e4a9bcc8d23e]erschienen ist[^bible-132a3aef-4819-4784-aa3b-e4a9bcc8d23e], die Wunder seines Wirkens als hinreichender Beweis für das Erscheinen der Gottheit\. Denn in den überlieferten Taten haben wir alles erkannt, was die göttliche Natur kennzeichnet\. Gott ist es, der die Menschen lebendig macht; Gott ist es, der durch seine Vorsehung das Bestehende erhält; Gott ist es, der denen, die ihr Leben im Fleisch empfangen haben, Speise und Trank schenkt; Gott ist es, der dem Bedürftigen Gutes tut; Gott ist es, der die durch Krankheit beeinträchtigte Natur durch Heilung wieder zu sich selbst zurückführt; Gott ist es, der über die ganze Schöpfung gleichermaßen herrscht, über Erde, Meer, Luft und die Räume oberhalb der Luft; Gott ist es, dessen Macht für alles ausreicht und der vor allem Tod und Verwesung überlegen ist\. Wenn also in den Berichten über ihn etwas von all diesem und Ähnlichem fehlen würde, hätten diejenigen, die außerhalb des Glaubens stehen, guten Grund, unser Geheimnis zurückzuweisen\. Wenn aber in den Erzählungen über ihn alles zu erkennen ist, woran man Gott erkennt, was steht dann dem Glauben im Weg?
+
+## Bibelverweise
+
+[^bible-132a3aef-4819-4784-aa3b-e4a9bcc8d23e]: 1Tim 3,16

@@ -1,0 +1,10 @@
+# Große katechetische Rede – Kapitel 31: Würde Gott den Glauben erzwingen, entfiele mit der freien Entscheidung auch die Grundlage für Tugend, Lob und Tadel
+
+Autor: Gregor von Nyssa
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nyssa/grosse-katechetische-rede#kapitel-4ae959b1-8b51-4c9c-fb7e-08df14d31bf7).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Aber auch dagegen fehlt es ihnen nicht an streitsüchtigen Einwänden\. Denn sie sagen, Gott hätte, wenn er gewollt hätte, auch diejenigen, die sich widersetzen, durch Zwang dazu bringen können, die Verkündigung anzunehmen\. Wo bleibt dann dabei die Selbstbestimmung? Und wo die Tugend? Und wo das Lob für diejenigen, die recht handeln? Denn nur unbeseelte Dinge oder vernunftlose Wesen werden von einem fremden Willen nach dessen Belieben gelenkt\. Wenn aber ein vernunftbegabtes und denkendes Wesen seine Entscheidungsfreiheit aufgibt, verliert es damit auch den Vorzug des Denkens\. Denn wozu soll es sein Denken nutzen, wenn die Macht, nach eigenem Urteil etwas zu wählen, bei einem anderen liegt? Bleibt aber die Willensentscheidung wirkungslos, verschwindet zwangsläufig die Tugend, weil die Willensentscheidung zum Stillstand gekommen ist und dadurch auch die Tugend gefesselt ist\. Ohne Tugend aber ist das Leben entehrt; denen, die recht handeln, wird das Lob genommen; die Sünde birgt keine Gefahr, und die Unterschiede in der Lebensführung werden nicht beurteilt\. Denn wer könnte dann noch mit gutem Grund den Zügellosen tadeln oder den Selbstbeherrschten loben? Jeder hätte nämlich sofort diese Antwort bereit: „Keine unserer Entscheidungen liegt in unserer Macht; vielmehr lenkt eine überlegene Gewalt die menschlichen Willensentscheidungen nach dem Willen dessen, der die Macht hat\.“ Dass nicht in allen der Glaube entsteht, ist also nicht der Güte Gottes anzulasten, sondern der Haltung derer, die die Verkündigung empfangen\.
