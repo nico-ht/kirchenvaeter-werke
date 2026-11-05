@@ -1,4 +1,4 @@
-# Brief an die Smyrnäer – Kapitel 7
+# Brief an die Smyrnäer – Kapitel 7: Die Leugner meiden und auf das Evangelium achten, das Christi Leiden und Auferstehung bezeugt
 
 Autor: Ignatius von Antiochien
 

@@ -1,4 +1,4 @@
-# Brief an die Smyrnäer – Kapitel 13
+# Brief an die Smyrnäer – Kapitel 13: Ignatius grüßt die Haushalte und betet für Gavia um Festigkeit in Glauben und Liebe
 
 Autor: Ignatius von Antiochien
 

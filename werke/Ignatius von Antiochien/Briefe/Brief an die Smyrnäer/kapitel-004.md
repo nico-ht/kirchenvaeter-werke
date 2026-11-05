@@ -1,4 +1,4 @@
-# Brief an die Smyrnäer – Kapitel 4
+# Brief an die Smyrnäer – Kapitel 4: Wäre Christi Leiden nur Schein, wären auch die Ketten des Ignatius nur Schein
 
 Autor: Ignatius von Antiochien
 

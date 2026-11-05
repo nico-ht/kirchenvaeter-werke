@@ -1,4 +1,4 @@
-# Brief an die Smyrnäer – Kapitel 2
+# Brief an die Smyrnäer – Kapitel 2: Christus litt wirklich zu unserer Rettung; wer dies leugnet, wird körperlos und dämonisch werden
 
 Autor: Ignatius von Antiochien
 

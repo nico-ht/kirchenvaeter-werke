@@ -1,4 +1,4 @@
-# Brief an die Smyrnäer – Kapitel 8
+# Brief an die Smyrnäer – Kapitel 8: Kirchliches Handeln bedarf der Zustimmung des Bischofs, damit es verlässlich und gültig ist
 
 Autor: Ignatius von Antiochien
 

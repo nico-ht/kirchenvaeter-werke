@@ -1,4 +1,4 @@
-# Brief an die Smyrnäer – Kapitel 12
+# Brief an die Smyrnäer – Kapitel 12: Ignatius empfiehlt Burrhus als Vorbild im Dienst für Gott und grüßt die ganze Gemeinde im Namen Christi
 
 Autor: Ignatius von Antiochien
 

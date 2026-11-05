@@ -1,4 +1,4 @@
-# Brief an die Smyrnäer – Kapitel 3
+# Brief an die Smyrnäer – Kapitel 3: Die Berührung des auferstandenen Christus bezeugt seine Leiblichkeit und lässt die Jünger den Tod verachten
 
 Autor: Ignatius von Antiochien
 

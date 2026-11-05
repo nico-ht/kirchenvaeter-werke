@@ -1,4 +1,4 @@
-# Brief an die Smyrnäer – Kapitel 1
+# Brief an die Smyrnäer – Kapitel 1: Christus litt wahrhaft im Fleisch und vereint durch seine Auferstehung Juden und Heiden in seiner Kirche
 
 Autor: Ignatius von Antiochien
 

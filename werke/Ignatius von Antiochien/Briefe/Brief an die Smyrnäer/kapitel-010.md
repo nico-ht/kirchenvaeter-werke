@@ -1,4 +1,4 @@
-# Brief an die Smyrnäer – Kapitel 10
+# Brief an die Smyrnäer – Kapitel 10: Ihr habt Ignatius’ Gefährten aufgenommen und seine Fesseln nicht verachtet – Christus wird sich euer nicht schämen
 
 Autor: Ignatius von Antiochien
 

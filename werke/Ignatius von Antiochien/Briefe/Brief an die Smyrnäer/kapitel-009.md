@@ -1,4 +1,4 @@
-# Brief an die Smyrnäer – Kapitel 9
+# Brief an die Smyrnäer – Kapitel 9: Wer den Bischof ehrt, wird von Gott geehrt; wer um Gottes willen ausharrt, wird ihn erreichen
 
 Autor: Ignatius von Antiochien
 

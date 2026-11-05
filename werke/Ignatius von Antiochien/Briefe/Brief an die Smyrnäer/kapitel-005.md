@@ -1,4 +1,4 @@
-# Brief an die Smyrnäer – Kapitel 5
+# Brief an die Smyrnäer – Kapitel 5: Wer Christus das Fleisch abspricht, verleugnet ihn ganz – sein Lob nützt Ignatius nichts
 
 Autor: Ignatius von Antiochien
 

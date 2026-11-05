@@ -1,4 +1,4 @@
-# Brief an die Smyrnäer – Kapitel 6
+# Brief an die Smyrnäer – Kapitel 6: Irrlehrer lassen Nächstenliebe vermissen und erkennen die Eucharistie nicht als Christi Fleisch an
 
 Autor: Ignatius von Antiochien
 

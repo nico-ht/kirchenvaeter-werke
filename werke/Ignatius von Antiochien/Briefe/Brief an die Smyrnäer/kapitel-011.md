@@ -1,4 +1,4 @@
-# Brief an die Smyrnäer – Kapitel 11
+# Brief an die Smyrnäer – Kapitel 11: Ein Gesandter soll Antiochien zum Frieden beglückwünschen, den die Gebete der Gemeinde mitbewirkt haben
 
 Autor: Ignatius von Antiochien
 
