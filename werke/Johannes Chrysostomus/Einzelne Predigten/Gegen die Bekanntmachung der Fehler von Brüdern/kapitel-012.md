@@ -1,4 +1,4 @@
-# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 12
+# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 12: Wer eigene Sünden bedenkt und fremde Fehler vergibt, überwindet den Zorn und erlangt Gottes Vergebung
 
 Autor: Johannes Chrysostomus
 

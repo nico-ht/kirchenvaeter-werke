@@ -1,4 +1,4 @@
-# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 11
+# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 11: Rachegebete beleidigen Gott, weil sie seinem Gebot widersprechen, für die Feinde zu beten
 
 Autor: Johannes Chrysostomus
 

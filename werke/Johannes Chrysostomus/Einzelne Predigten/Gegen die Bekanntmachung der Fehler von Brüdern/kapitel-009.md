@@ -1,4 +1,4 @@
-# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 9
+# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 9: Isaak betet zwanzig Jahre beharrlich, bis Gott Rebekkas Unfruchtbarkeit beendet
 
 Autor: Johannes Chrysostomus
 

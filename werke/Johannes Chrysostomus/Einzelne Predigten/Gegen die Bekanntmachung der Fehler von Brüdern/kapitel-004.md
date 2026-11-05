@@ -1,4 +1,4 @@
-# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 4
+# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 4: Warum vertraulicher Tadel die Umkehr erleichtert und öffentliche Bloßstellung Schamlosigkeit fördert
 
 Autor: Johannes Chrysostomus
 

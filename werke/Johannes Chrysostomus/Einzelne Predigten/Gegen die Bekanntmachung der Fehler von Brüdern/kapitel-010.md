@@ -1,4 +1,4 @@
-# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 10
+# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 10: Wer um Rache an seinen Feinden betet, richtet seinen Eifer gegen das eigene Heil
 
 Autor: Johannes Chrysostomus
 

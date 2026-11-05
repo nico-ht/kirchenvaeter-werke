@@ -1,4 +1,4 @@
-# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 1
+# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 1: Gottes Wort heilt die Seele: Nicht Reichtum, sondern Glaube und aufmerksames Hören bestimmen den Nutzen
 
 Autor: Johannes Chrysostomus
 

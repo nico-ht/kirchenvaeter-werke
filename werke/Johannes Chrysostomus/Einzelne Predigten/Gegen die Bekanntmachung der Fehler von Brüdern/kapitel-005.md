@@ -1,4 +1,4 @@
-# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 5
+# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 5: Besonnenheit schützt das Licht des Gebets vor den Ablenkungen des Teufels
 
 Autor: Johannes Chrysostomus
 

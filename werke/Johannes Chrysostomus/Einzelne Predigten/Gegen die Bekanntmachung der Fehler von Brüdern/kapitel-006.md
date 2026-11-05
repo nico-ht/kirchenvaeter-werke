@@ -1,4 +1,4 @@
-# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 6
+# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 6: Die Kinderlosigkeit der Gerechten ist keine Sündenstrafe – Gottes Gründe bleiben uns oft verborgen
 
 Autor: Johannes Chrysostomus
 

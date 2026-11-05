@@ -1,4 +1,4 @@
-# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 2
+# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 2: Reichtum und Armut sind an sich weder gut noch böse – entscheidend ist der eigene Umgang mit ihnen
 
 Autor: Johannes Chrysostomus
 

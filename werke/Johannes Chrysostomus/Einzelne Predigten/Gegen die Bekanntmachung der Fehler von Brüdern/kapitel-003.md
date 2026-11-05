@@ -1,4 +1,4 @@
-# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 3
+# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 3: Jeder entnimmt der allgemeinen Lehre sein Heilmittel, ohne dass seine Sünden öffentlich werden
 
 Autor: Johannes Chrysostomus
 

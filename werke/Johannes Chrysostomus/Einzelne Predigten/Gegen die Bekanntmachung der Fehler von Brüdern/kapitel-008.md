@@ -1,4 +1,4 @@
-# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 8
+# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 8: Gabriel stärkt Marias Glauben an ihre jungfräuliche Mutterschaft durch Elisabeths sichtbare Schwangerschaft
 
 Autor: Johannes Chrysostomus
 

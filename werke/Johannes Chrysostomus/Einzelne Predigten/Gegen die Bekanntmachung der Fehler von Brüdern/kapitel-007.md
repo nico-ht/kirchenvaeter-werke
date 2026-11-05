@@ -1,4 +1,4 @@
-# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 7
+# Gegen die Bekanntmachung der Fehler von Brüdern – Kapitel 7: Die Geburt aus unfruchtbarem Schoß bereitet den Glauben an die Jungfrauengeburt vor
 
 Autor: Johannes Chrysostomus
 
