@@ -1,0 +1,10 @@
+# Über die Zeitrechnung \(De temporum ratione\) – Kapitel 23: Drei markierte Alphabete zeigen das Mondalter ohne Rechnung an – mit Ausnahmen durch Schaltmonate
+
+Autor: Bede Venerabilis
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/bede/beda-ueber-die-zeitrechnung#kapitel-b1281c93-aa89-4625-385b-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn aber jemand so faul oder schwer von Begriff ist, dass er den Mondlauf ohne jede Rechenarbeit kennen möchte, soll er sich an die Alphabete halten, die er im Jahreskalender entsprechend dem Mondlauf angeordnet findet\. Dort umfassen jeweils drei Alphabete zwei Mondumläufe, also 59 Tage\. Jeder Buchstabe, der dem Mond einmal bei einem bestimmten Mondalter zugeordnet ist, bleibt ihm mit derselben Kennzeichnung das ganze Jahr hindurch stets bei demselben Mondalter zugeordnet, sofern nicht die Regelung der Schaltmonate daran etwas ändert, was allerdings selten vorkommt\. Zum Beispiel beginnt im dritten Jahr des neunzehnjährigen Zyklus ein Mondmonat, der dreißig Tage haben wird, stets beim unmarkierten a; der zweite Mondtag fällt auf b, der dritte auf c, die ebenfalls unmarkiert, also mit keinem Punkt versehen sind\. So behält der Reihe nach jeder Buchstabe sein jeweiliges Mondalter\. Ebenso beginnt ein Mondmonat, der neunundzwanzig Tage haben wird, beim l mit einem Punkt darunter; der zweite Mondtag fällt stets auf m, der dritte auf n, die auf dieselbe Weise gekennzeichnet sind\. So weist der Mond bei seiner Wiederkehr der Reihe nach jedem Buchstaben wieder das ihm zugehörige Mondalter zu\. Zur Unterscheidung hat man nämlich schon in alter Zeit vorgesehen, von jeweils drei Alphabeten das erste mit Buchstaben ohne Punkte darüber oder darunter, das zweite mit Punkten darunter und das dritte mit Punkten darüber zu kennzeichnen\.

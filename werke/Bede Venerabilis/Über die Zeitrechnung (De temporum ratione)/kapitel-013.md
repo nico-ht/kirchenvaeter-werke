@@ -1,0 +1,14 @@
+# Über die Zeitrechnung \(De temporum ratione\) – Kapitel 13: Wie Kalenden, Nonen und Iden ihre Namen erhielten – und weshalb Kalenden in der Bibel Neumonde bezeichnen
+
+Autor: Bede Venerabilis
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/bede/beda-ueber-die-zeitrechnung#kapitel-f7fac2de-6590-496a-3851-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+In alter Zeit war dem niederen Pontifex die Aufgabe übertragen, das erste Sichtbarwerden der neuen Mondsichel zu beobachten und dem Opferkönig zu melden\. Nachdem der König und der niedere Pontifex das Opfer vollzogen hatten, rief dieser Pontifex das Volk auf das Kapitol, neben die Curia Calabra, die nahe bei der Hütte des Romulus liegt\. Dort verkündete er, wie viele Tage von den Kalenden bis zu den Nonen noch verblieben\. Fielen die Nonen auf den fünften Tag, sprach er fünfmal das Wort kalō aus; fielen sie auf den siebten, wiederholte er es siebenmal\. Das Wort kalō ist griechisch und bedeutet „ich rufe“\. Man beschloss, den ersten dieser ausgerufenen Tage Kalenden zu nennen\. Daher erhielt auch die Kurie, zu der das Volk gerufen wurde, den Namen Calabra; ebenso erhielt das Volksaufgebot, classis, seinen Namen daher, dass das ganze Volk dazu gerufen wurde\. Der niedere Pontifex gab die Zahl der bis zu den Nonen verbleibenden Tage deshalb durch Ausrufen bekannt, weil nach dem Neumond am Tag der Nonen die auf dem Land lebenden Bürger in der Stadt zusammenkommen mussten\. Sie sollten vom Opferkönig erfahren, welchen Anlässen die Feiertage galten und was in diesem Monat zu tun war\. Manche meinen daher, die Nonen hießen so, weil sie gleichsam den Beginn neuer religiöser Verrichtungen bildeten oder weil man von diesem Tag bis zu den Iden stets neun Tage zählte\. Iden wiederum nannte man den Tag, der den Monat teilt\. Denn iduare bedeutet in etruskischer Sprache „teilen“\. Daher kommt auch vidua, „Witwe“, gleichsam valde idua, das heißt „völlig getrennt“; oder vidua bedeutet „vom Mann getrennt“\. Manche meinen, die Iden seien nach dem griechischen Wort für Gestalt, eidéa, benannt, weil der Mond an diesem Tag seine volle Gestalt zeigt\. Zu beachten ist aber: Wenn wir in der Heiligen Schrift von Kalenden lesen, dürfen wir darunter nichts anderes als das Erscheinen des Neumonds verstehen, entsprechend jenem Wort im Buch Numeri: „An den Kalenden aber[^bible-a6b00689-4cb9-4071-bd3c-2c1639286251], das heißt zu Beginn der Monate, sollt ihr dem Herrn Brandopfer darbringen[^bible-a6b00689-4cb9-4071-bd3c-2c1639286251]\.“ Denn die Hebräer kennen, wie oben gesagt, keinen anderen Monatsbeginn als die Neomenien, das heißt die Neumonde\.
+
+## Bibelverweise
+
+[^bible-a6b00689-4cb9-4071-bd3c-2c1639286251]: Num 28,11

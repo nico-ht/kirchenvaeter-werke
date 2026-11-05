@@ -1,0 +1,10 @@
+# Über die Zeitrechnung \(De temporum ratione\) – Kapitel 21: Monatsgrundzahl plus Konkurrenten ergibt den Wochentag des Monatsersten – mit Schaltkorrektur erst ab März
+
+Autor: Bede Venerabilis
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/bede/beda-ueber-die-zeitrechnung#kapitel-de0567c8-84e0-489b-3859-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Man überliefert auch ein ähnliches Verfahren, mit dem sich der Wochentag des Monatsersten sehr leicht ermitteln lässt\. Was du beim vorigen Verfahren mit den Epakten berechnest, berechnest du hier mit den Konkurrenten der Woche; dabei verwendest du allerdings andere Grundzahlen\. Die Grundzahlen sind also: für Januar zwei, Februar sechs, März fünf, April eins, Mai drei, Juni sechs, Juli eins, August vier, September sieben, Oktober zwei, November fünf und Dezember sieben\. Diese Grundzahlen geben unmittelbar an, auf welchen Wochentag der Monatserste in einem Jahr fällt, für das sieben Konkurrenten verzeichnet sind\. In den übrigen Jahren addierst du die für das betreffende Jahr verzeichnete Konkurrentenzahl zur Grundzahl des jeweiligen Monats\. So findest du stets fehlerfrei den Wochentag des Monatsersten\. Denke nur daran: Wenn im kommenden Schaltjahr bei den Konkurrenten ein Tag übersprungen werden muss, verwendest du im Januar und Februar dennoch die Zahl, die du überspringen wirst\. Erst für den ersten März beginnst du mit der Zahl zu rechnen, die im Sonnenzyklus steht\. Willst du also beispielsweise den Wochentag des ersten Januar ermitteln, sagst du: „Januar: zwei\. Addiere dazu die Konkurrentenzahl des Jahres, für das du rechnest, etwa drei\. Das ergibt fünf: Der erste Januar fällt auf einen Donnerstag\.“ Nimm ebenso in einem Jahr mit sechs Konkurrenten die Grundzahl fünf für den März und addiere die sechs Konkurrenten\. Das ergibt elf\. Ziehe sieben ab; es bleiben vier\. Der erste März fällt auf einen Mittwoch\.

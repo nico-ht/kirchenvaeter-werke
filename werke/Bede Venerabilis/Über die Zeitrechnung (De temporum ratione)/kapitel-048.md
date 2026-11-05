@@ -1,0 +1,10 @@
+# Über die Zeitrechnung \(De temporum ratione\) – Kapitel 48: Der fünfzehnjährige Indiktionszyklus beugt Datierungsfehlern bei Herrscherwechseln vor
+
+Autor: Bede Venerabilis
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/bede/beda-ueber-die-zeitrechnung#kapitel-3a39dd67-a6ba-4195-3874-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Die zweite Spalte des neunzehnjährigen Zyklus enthält die Indiktionen, die in einem Kreislauf von fünfzehn Jahren stets wieder an ihren Ausgangspunkt zurückkehren\. Wie wir wissen, haben die Römer der alten Zeit sie mit Bedacht eingeführt, um möglichen Irrtümern in der Zeitrechnung vorzubeugen\. Wenn nämlich beispielsweise ein Kaiser mitten im Jahr starb oder seine Herrschaft endete, konnte es geschehen, dass ein Geschichtsschreiber dieses Jahr seiner Regierungszeit zurechnete, weil er während eines Teils davon geherrscht hatte\. Ein anderer Geschichtsschreiber dagegen konnte meinen, dasselbe Jahr sei eher seinem Nachfolger zuzuordnen, weil auch dieser einen Teil davon regiert hatte\. Damit sich aber durch solche Unstimmigkeiten kein Irrtum in der Zeitrechnung festsetzte, führten sie die Indiktionen ein\. An ihnen konnten beide Geschichtsschreiber, ja sogar das ganze Volk, den Verlauf der Zeit ohne Mühe festhalten\. Auch um das Rechnen zu erleichtern, legten sie deren Zahl auf fünfzehn fest: Mit einer so einfachen und zum Multiplizieren besonders geeigneten Zahl sollte man sich den Verlauf der vergangenen Zeit mit weniger Aufwand ins Gedächtnis rufen können\. Manche meinen dagegen, die Indiktionen seien eingeführt worden, um je drei Reinigungsfeiern und Volkszählungen zu kennzeichnen, da einst im römischen Staat nach der jeweils im fünften Jahr durchgeführten Volkszählung die Stadt Rom rituell gereinigt wurde\. Die Indiktionen beginnen am 24\. September und enden auch an diesem Datum\.

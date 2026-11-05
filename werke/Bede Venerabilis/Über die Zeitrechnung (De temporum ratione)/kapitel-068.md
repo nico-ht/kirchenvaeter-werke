@@ -1,0 +1,17 @@
+# Über die Zeitrechnung \(De temporum ratione\) – Kapitel 68: Wer Christi baldige Wiederkunft vorhersagt, riskiert Glaubenszweifel; wer Nichtwissen bekennt, vermeidet Irrtum
+
+Autor: Bede Venerabilis
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/bede/beda-ueber-die-zeitrechnung#kapitel-5c747849-a4a1-428c-3888-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Mit Recht lieben alle Heiligen die Stunde seiner Ankunft[^bible-04e45bbc-cf38-4872-8724-ca166ecc264b] und sehnen sich danach, dass sie bald kommt\. Doch wer sich anmaßt, zu beurteilen oder zu verkünden, ob diese Stunde nahe oder fern ist, begibt sich in große Gefahr\. Dazu gibt der selige Augustinus ein besonders schönes Beispiel\. Er lässt jenen bösen Knecht[^bible-d21a07b5-9422-45f1-88dd-2775e28a8aea] beiseite, der in seinem Herzen sagt[^bible-d21a07b5-9422-45f1-88dd-2775e28a8aea]: ‚Mein Herr lässt sich Zeit mit seiner Ankunft\.[^bible-d21a07b5-9422-45f1-88dd-2775e28a8aea]‘ Denn dieser hasst ohne Zweifel die Ankunft seines Herrn\. Stattdessen führt er drei vorbildliche Diener an, die nach der Ankunft ihres Herrn dürsten, wachsam auf sie warten und sie in Treue lieben\. Einer von ihnen sagt: ‚Wachen und beten wir[^bible-0f5e43d1-4a9a-41ed-9295-357ca8f85bb0], denn der Herr wird bald kommen\.‘ Der zweite sagt: ‚Wachen und beten wir[^bible-0f5e43d1-4a9a-41ed-9295-357ca8f85bb0], denn dieses Leben ist kurz und ungewiss, auch wenn der Herr erst später kommen wird\.‘ Der dritte sagt: ‚Wachen und beten wir[^bible-0f5e43d1-4a9a-41ed-9295-357ca8f85bb0], denn dieses Leben ist kurz und ungewiss, und wir wissen nicht, wann der Herr kommen wird[^bible-37e88565-3998-4bcd-8827-0145b1279fb4]\.‘ Trifft nun ein, was der Erste vorausgesagt hat, werden sich der Zweite und der Dritte mit ihm freuen\. Trifft es aber nicht ein, ist zu befürchten, dass diejenigen, die ihm geglaubt haben, erschüttert werden und zu meinen beginnen, die Ankunft des Herrn verzögere sich nicht nur, sondern bleibe ganz aus\. Wenn sich dagegen die Aussage des Zweiten, der Herr werde erst später kommen, als falsch erweist, weil der Herr früher kommt, werden diejenigen, die ihm geglaubt haben, keineswegs in ihrem Glauben erschüttert, sondern unverhoffte Freude genießen\. Wer also sagt, der Herr werde bald kommen, sagt etwas, das man sich mehr wünscht; doch wenn er sich irrt, ist sein Irrtum gefährlich\. Wer dagegen sagt, der Herr werde erst später kommen, und dennoch an seine Ankunft glaubt, auf sie hofft und sie liebt, der irrt, falls er sich über die Verzögerung täuscht, gewiss zu seinem Glück\. Denn trifft seine Erwartung ein, wird er größere Geduld haben; trifft sie nicht ein, wird seine Freude größer sein\. Deshalb hören diejenigen, die das Erscheinen des Herrn lieben[^bible-04e45bbc-cf38-4872-8724-ca166ecc264b], dem Ersten lieber zu, doch dem Zweiten zu glauben ist sicherer\. Wer aber bekennt, nicht zu wissen, welches von beidem wahr ist, wünscht sich das eine und soll das andere ertragen\. In keinem von beiden irrt er sich, denn er zieht keines von beiden in Zweifel oder verneint es\.
+
+## Bibelverweise
+
+[^bible-04e45bbc-cf38-4872-8724-ca166ecc264b]: 2Tim 4,8
+[^bible-0f5e43d1-4a9a-41ed-9295-357ca8f85bb0]: Mk 13,33
+[^bible-37e88565-3998-4bcd-8827-0145b1279fb4]: Mk 13,35
+[^bible-d21a07b5-9422-45f1-88dd-2775e28a8aea]: Mt 24,48
