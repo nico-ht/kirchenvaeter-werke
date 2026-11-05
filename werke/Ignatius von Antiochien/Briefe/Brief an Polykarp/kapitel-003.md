@@ -1,4 +1,4 @@
-# Brief an Polykarp – Kapitel 3
+# Brief an Polykarp – Kapitel 3: Polykarp soll fremden Lehren und Leiden standhalten und Christus erwarten, der für uns litt
 
 Autor: Ignatius von Antiochien
 

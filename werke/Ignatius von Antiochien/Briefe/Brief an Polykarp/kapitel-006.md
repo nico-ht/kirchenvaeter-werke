@@ -1,4 +1,4 @@
-# Brief an Polykarp – Kapitel 6
+# Brief an Polykarp – Kapitel 6: Die Gemeinde soll ihren Leitern gehorchen und gemeinsam als Gottes Soldaten treu dienen
 
 Autor: Ignatius von Antiochien
 

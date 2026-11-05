@@ -1,4 +1,4 @@
-# Brief an Polykarp – Kapitel 2
+# Brief an Polykarp – Kapitel 2: Schwierige Jünger sanft führen: Nicht jede Wunde braucht dieselbe Behandlung
 
 Autor: Ignatius von Antiochien
 

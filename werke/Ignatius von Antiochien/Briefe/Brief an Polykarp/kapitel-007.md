@@ -1,4 +1,4 @@
-# Brief an Polykarp – Kapitel 7
+# Brief an Polykarp – Kapitel 7: Antiochien hat Frieden gefunden: Polykarp soll einen Boten entsenden, der die Liebe seiner Gemeinde bezeugt
 
 Autor: Ignatius von Antiochien
 

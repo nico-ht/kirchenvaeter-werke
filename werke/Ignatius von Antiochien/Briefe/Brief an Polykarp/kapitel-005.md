@@ -1,4 +1,4 @@
-# Brief an Polykarp – Kapitel 5
+# Brief an Polykarp – Kapitel 5: Ehe soll auf Liebe und bischöflicher Zustimmung beruhen, Enthaltsamkeit ohne Prahlerei gelebt werden
 
 Autor: Ignatius von Antiochien
 

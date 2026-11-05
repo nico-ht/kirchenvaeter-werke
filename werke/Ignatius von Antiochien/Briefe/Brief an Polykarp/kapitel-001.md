@@ -1,4 +1,4 @@
-# Brief an Polykarp – Kapitel 1
+# Brief an Polykarp – Kapitel 1: Polykarp soll durch umfassende Fürsorge und geduldige Liebe die Einheit stärken
 
 Autor: Ignatius von Antiochien
 

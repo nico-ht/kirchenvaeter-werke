@@ -1,4 +1,4 @@
-# Brief an Polykarp – Kapitel 8
+# Brief an Polykarp – Kapitel 8: Polykarp soll weitere Gemeinden auffordern, je nach Möglichkeit Boten oder Briefe nach Syrien zu senden
 
 Autor: Ignatius von Antiochien
 

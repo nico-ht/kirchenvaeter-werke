@@ -1,4 +1,4 @@
-# Brief an Polykarp – Kapitel 4
+# Brief an Polykarp – Kapitel 4: Sklaven achten: Sie sollen treu dienen und bessere Freiheit bei Gott statt Freikauf auf Gemeindekosten suchen
 
 Autor: Ignatius von Antiochien
 
