@@ -1,0 +1,34 @@
+# Kommentar zu Matthäus, Buch 10 – Kapitel 22: Die Enthauptung des Johannes zeigt: Wer Christus verleugnet, beraubt die Prophetie ihres Hauptes
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/kommentar-zu-matthaeus-buch-10#kapitel-5c294343-2233-4fb6-3a98-08df38321db2).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Deshalb sagte Johannes, mit prophetischem Freimut geschmückt und von göttlicher Gesinnung erfüllt, zu Herodes, ohne sich von dessen königlicher Würde einschüchtern zu lassen oder aus Todesfurcht eine so schwere Sünde zu verschweigen: „Du darfst sie nicht zur Frau haben\.[^bible-0e949473-5592-4957-8a40-897bf89a0995] Denn du darfst die Frau deines Bruders nicht haben\.[^bible-1ce9e80b-3266-41ac-82ba-331c82bfa4e7]“ Herodes ließ Johannes ergreifen, fesseln und ins Gefängnis bringen[^bible-7a2b4cd6-4183-4628-a0e0-c1850504f5c4], wagte aber nicht, das prophetische Wort[^bible-168ea0f8-d748-442f-9977-85db215cfa48] ganz zu töten und aus dem Volk zu beseitigen\. Die Frau des Königs von Trachonitis aber, selbst eine böse Anschauung und eine verderbliche Lehre, brachte eine gleichnamige Tochter zur Welt\. Deren scheinbar anmutige Tanzbewegungen gefielen Herodes[^bible-bfdeb62e-6fde-491a-9b88-1250ab0dcef9], der alles liebt, was mit der Geburt zusammenhängt, und waren der Grund dafür, dass es im Volk kein prophetisches Haupt mehr gab\. Bis heute, so meine ich, sind die Bewegungen des jüdischen Volkes, die dem Gesetz zu entsprechen scheinen, nichts anderes als die Bewegungen der Tochter der Herodias\. Der Tanz der Herodias stand aber im Gegensatz zum heiligen Tanz\. Wer diesen heiligen Tanz nicht getanzt hat, wird den Vorwurf zu hören bekommen: „Wir haben euch auf der Flöte gespielt, und ihr habt nicht getanzt\.[^bible-7386a54b-c084-4760-b62d-38262e9de23b]“ Sie tanzen auch bei der Geburtstagsfeier eines gesetzlosen Wortes, das über sie herrscht, sodass ihre Bewegungen diesem Wort gefallen\. Einer unserer Vorgänger hat nun auf die in der Genesis beschriebene Geburtstagsfeier des Pharao[^bible-5345f22f-1885-4d51-a528-189af085c0bf] hingewiesen und erklärt, dass der schlechte Mensch Geburtstag feiert, weil er alles liebt, was mit der Geburt zusammenhängt\. Davon angeregt, haben wir in keiner Schrift gefunden, dass ein Gerechter Geburtstag feiert\. Herodes ist nämlich noch ungerechter als jener Pharao: Dieser lässt an seinem Geburtstag den obersten Bäcker hinrichten[^bible-74a4f97c-9e45-4ea7-a2d9-7e94c55b02c5], Herodes dagegen Johannes[^bible-db080694-bcdf-4001-b3b1-c83d36ac3c68]; „unter den von Frauen Geborenen ist keiner aufgetreten, der größer war als er[^bible-d104905b-4af7-4003-b4ba-16fcd061cbd7]“\. Über ihn sagt der Erlöser: „Aber wozu seid ihr hinausgegangen? Um einen Propheten zu sehen? Ja, ich sage euch: sogar mehr als einen Propheten\.[^bible-22a40c10-eaa1-4198-98fb-c7e6b67d4a4c]“ Doch wir müssen Gott danken: Auch wenn die prophetische Gnade dem Volk genommen worden ist, so wurde doch eine Gnade, die all jene Gnade übertrifft, über die Völker ausgegossen durch unseren Erlöser Jesus, „der unter den Toten frei geworden ist[^bible-0d68a9cd-8ac0-4f24-bc1e-3bb2b3a04de9]“\. „Denn auch wenn er aus Schwachheit gekreuzigt wurde, lebt er doch aus Gottes Kraft\.[^bible-9ae7b923-4180-425f-a547-6448fc0e56a1]“
+
+Achte ferner auf das Volk: Es prüft, welche Speisen rein und welche unrein sind, verachtet aber die Prophetie, die auf einer Schüssel[^bible-6170a086-bf27-4842-adab-555fc4c00b2b] anstelle einer Speise aufgetragen wird\. Das Haupt der Prophetie aber haben die Juden nicht, da sie Christus Jesus, den Inbegriff aller Prophetie, verleugnen\. Und der Prophet wird wegen Eiden enthauptet[^bible-e5a8f1d1-0701-4494-b993-20c9974665a1], die man eher hätte brechen als halten sollen\. Denn die Schuld, leichtfertig zu schwören und infolge dieser Leichtfertigkeit einen Eid zu brechen, war nicht dieselbe wie die Schuld, um der Eidestreue willen einen Propheten zu töten\. Er wird aber nicht nur deswegen enthauptet, sondern auch wegen der Tischgäste[^bible-e5a8f1d1-0701-4494-b993-20c9974665a1], die lieber wollen, dass der Prophet getötet wird, als dass er weiterlebt\. Mit einem bösen Wort, das über die Juden herrscht, liegen diejenigen zu Tisch und halten Mahl, die sich über seine Geburt freuen\. Du kannst diese Stelle bei Gelegenheit treffend denen entgegenhalten, die leichtfertig schwören und Eide halten wollen, die sie zu gesetzeswidrigem Tun abgelegt haben, indem du ihnen sagst, dass es nicht immer richtig ist, einen Eid zu halten, wie es auch bei Herodes nicht richtig war\. Beachte ferner, dass Herodes Johannes im Gefängnis ermordet[^bible-c67c5f40-ea67-4bbd-83b9-3e29b3ba7c95], nicht offen, sondern heimlich\. Denn auch das heutige jüdische Volk verleugnet die Prophezeiungen nicht offen, sondern der Sache nach und im Verborgenen, und es lässt sich ihm nachweisen, dass es ihnen nicht glaubt\. Denn wenn sie Mose glaubten, würden sie Jesus glauben[^bible-6273ac86-c54e-44c9-9e29-1fc0460309b5]; ebenso würden sie den von den Propheten Angekündigten annehmen, wenn sie den Propheten glaubten\. Da sie aber ihm nicht glauben, glauben sie auch jenen nicht\. Sie sperren „das prophetische Wort[^bible-bc7480c7-fc7e-4be1-9130-93346809d613]“ ins Gefängnis und enthaupten es; sie besitzen es tot und zerstückelt, an keiner Stelle unversehrt, weil sie es nicht verstehen\. Wir dagegen haben Jesus ganz und unversehrt, denn die Prophezeiung über ihn hat sich erfüllt: „Kein Knochen von ihm wird zerbrochen werden\.[^bible-63d2d3cb-b4d0-4ac4-b6df-301346cbdb24]“
+
+## Bibelverweise
+
+[^bible-0d68a9cd-8ac0-4f24-bc1e-3bb2b3a04de9]: Ps 87,6
+[^bible-0e949473-5592-4957-8a40-897bf89a0995]: Mt 14,4
+[^bible-168ea0f8-d748-442f-9977-85db215cfa48]: 2Petr 1,19
+[^bible-1ce9e80b-3266-41ac-82ba-331c82bfa4e7]: Mk 6,18
+[^bible-22a40c10-eaa1-4198-98fb-c7e6b67d4a4c]: Mt 11,9
+[^bible-5345f22f-1885-4d51-a528-189af085c0bf]: Gen 40,20
+[^bible-6170a086-bf27-4842-adab-555fc4c00b2b]: Mt 14,11
+[^bible-6273ac86-c54e-44c9-9e29-1fc0460309b5]: Joh 5,46
+[^bible-63d2d3cb-b4d0-4ac4-b6df-301346cbdb24]: Joh 19,36
+[^bible-7386a54b-c084-4760-b62d-38262e9de23b]: Mt 11,17
+[^bible-74a4f97c-9e45-4ea7-a2d9-7e94c55b02c5]: Gen 40,20–Gen 40,22
+[^bible-7a2b4cd6-4183-4628-a0e0-c1850504f5c4]: Mt 14,3
+[^bible-9ae7b923-4180-425f-a547-6448fc0e56a1]: 2Kor 13,4
+[^bible-bc7480c7-fc7e-4be1-9130-93346809d613]: 2Petr 1,19
+[^bible-bfdeb62e-6fde-491a-9b88-1250ab0dcef9]: Mt 14,6
+[^bible-c67c5f40-ea67-4bbd-83b9-3e29b3ba7c95]: Mt 14,10
+[^bible-d104905b-4af7-4003-b4ba-16fcd061cbd7]: Mt 11,11
+[^bible-db080694-bcdf-4001-b3b1-c83d36ac3c68]: Mt 14,6–Mt 14,10
+[^bible-e5a8f1d1-0701-4494-b993-20c9974665a1]: Mt 14,9–Mt 14,10
