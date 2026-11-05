@@ -1,4 +1,4 @@
-# Über das Wort des Apostels: „Aber wegen der Unzucht soll jeder seine eigene Frau haben\.“ – Kapitel 2
+# Über das Wort des Apostels: „Aber wegen der Unzucht soll jeder seine eigene Frau haben\.“ – Kapitel 2: Wer die Ehe ehrt, lädt Christus durch Priester und Arme ein und verbannt schamlose Hochzeitsbräuche
 
 Autor: Johannes Chrysostomus
 

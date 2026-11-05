@@ -1,4 +1,4 @@
-# Über das Wort des Apostels: „Aber wegen der Unzucht soll jeder seine eigene Frau haben\.“ – Kapitel 1
+# Über das Wort des Apostels: „Aber wegen der Unzucht soll jeder seine eigene Frau haben\.“ – Kapitel 1: Gottes Wort nährt erbauliche Rede, Schweigen erstickt schändliche Begierden
 
 Autor: Johannes Chrysostomus
 

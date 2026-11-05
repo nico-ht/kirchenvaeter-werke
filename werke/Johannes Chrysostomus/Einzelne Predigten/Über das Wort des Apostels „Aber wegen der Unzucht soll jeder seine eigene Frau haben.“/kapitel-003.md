@@ -1,4 +1,4 @@
-# Über das Wort des Apostels: „Aber wegen der Unzucht soll jeder seine eigene Frau haben\.“ – Kapitel 3
+# Über das Wort des Apostels: „Aber wegen der Unzucht soll jeder seine eigene Frau haben\.“ – Kapitel 3: Die Ehe dient der Keuschheit, während die Auferstehungshoffnung den Trost durch Nachkommen ablöst
 
 Autor: Johannes Chrysostomus
 

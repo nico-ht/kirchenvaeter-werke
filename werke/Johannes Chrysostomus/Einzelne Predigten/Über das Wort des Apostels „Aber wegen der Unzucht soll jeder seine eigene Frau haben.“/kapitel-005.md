@@ -1,4 +1,4 @@
-# Über das Wort des Apostels: „Aber wegen der Unzucht soll jeder seine eigene Frau haben\.“ – Kapitel 5
+# Über das Wort des Apostels: „Aber wegen der Unzucht soll jeder seine eigene Frau haben\.“ – Kapitel 5: Die Ehe bietet Freude mit gutem Gewissen, der Umgang mit Huren bringt Leid und Strafe
 
 Autor: Johannes Chrysostomus
 

@@ -1,4 +1,4 @@
-# Über das Wort des Apostels: „Aber wegen der Unzucht soll jeder seine eigene Frau haben\.“ – Kapitel 4
+# Über das Wort des Apostels: „Aber wegen der Unzucht soll jeder seine eigene Frau haben\.“ – Kapitel 4: Der Ehemann begeht auch mit einer Unverheirateten Ehebruch, denn sein Körper gehört seiner Frau
 
 Autor: Johannes Chrysostomus
 
