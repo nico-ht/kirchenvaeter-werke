@@ -1,0 +1,25 @@
+# Über die Natur der Dinge – Kapitel 17: Die Sonne kreist nicht starr mit dem Weltall, sondern regelt durch ihren eigenen Lauf die Jahreszeiten
+
+Autor: Isidor von Sevilla
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/isidor-von-sevilla/isidor-ueber-die-natur-der-dinge#kapitel-007a23e0-c23c-41b7-380d-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nach den antiken Autoren Aratos und Hyginus bewegt sich die Sonne von selbst, statt an einem festen Ort zu stehen und mit dem Weltall zu kreisen\. Denn wenn sie feststünde, müsste sie an derselben Stelle untergehen und aufgehen, an der sie am Vortag aufgegangen war, so wie die übrigen Sternbilder aufgehen und untergehen\. Außerdem müssten dann alle Tage und Nächte gleich lang sein, und jeder künftige Tag müsste ebenso lange dauern wie der heutige\.
+
+Ebenso müsste auch die Nacht immer gleich lang bleiben\. Wir sehen aber, dass die Tage unterschiedlich lang sind und die Sonne morgen an einer anderen Stelle untergehen wird als gestern\. Weil sie also an verschiedenen Stellen untergeht und aufgeht, nehmen die Philosophen an, dass sie keineswegs an einen festen Ort gebunden mit dem Weltall kreist, sondern sich von selbst bewegt\. Nachdem sie ihr glühendes Rad in den Ozean getaucht hat, kehrt sie auf uns unbekannten Wegen an den Ort zurück, von dem sie ausgegangen war[^bible-f536c4cd-bb49-400b-bdff-c71930522dd1]\. Ist ihr nächtlicher Umlauf vollendet, bricht sie erneut eilends von ihrem Ort hervor[^bible-f536c4cd-bb49-400b-bdff-c71930522dd1]\. Denn auf einer schrägen, abgewinkelten Bahn zieht sie über den Süden nach Norden[^bible-f8db92ce-0985-4cf4-b180-bd163795def6] und kehrt so nach Osten zurück\. Im Winter läuft sie jedoch durch den südlichen Himmelsbereich, im Sommer dagegen hält sie sich nahe dem Norden auf\. Wenn sie durch den Süden läuft, ist sie der Erde näher; wenn sie aber nahe dem Norden läuft, steigt sie hoch empor\.
+
+Gott hat ihr deshalb für ihren Lauf verschiedene Orte und Zeiten bestimmt, damit sie nicht immer an denselben Orten verweilt und diese durch ihre tägliche Hitze verzehrt\. Vielmehr nimmt sie, wie Clemens sagt, verschiedene Bahnen, damit die Temperatur der Luft den Jahreszeiten entsprechend geregelt wird und die Ordnung ihres Wechsels und Wandels erhalten bleibt\. Denn wenn sie höher steigt, sorgt sie für die milde Witterung des Frühlings; wenn sie aber den höchsten Punkt des Himmels erreicht, entfacht sie die Sommerhitze\. Steigt sie wieder herab, bringt sie die milde Witterung des Herbstes zurück\. Sobald sie aber wieder den unteren Kreis erreicht, hinterlässt sie uns die strenge Winterkälte aus dem eisigen Gefüge des Himmels\.
+
+Von ihr kommen nämlich die Stunden, von ihr kommt der Tag, wenn sie aufsteigt, und von ihr auch die Nacht, wenn sie untergeht\. Nach ihr werden die Monate und Jahre gezählt, durch sie wechseln die Jahreszeiten\. Obwohl sie eine gute Dienerin ist, hervorgebracht, um den Wechsel der Jahreszeiten zu regeln, glüht sie doch stärker auf, wenn den Sterblichen nach Gottes Willen Züchtigung widerfährt\. Dann verbrennt sie die Welt mit heftigeren Flammen, die Luft gerät in Unordnung, die Menschen trifft eine Plage und die Erde Verderben; über die Lebewesen kommt eine Seuche, und für die Sterblichen bricht ein Jahr an, das überall Seuchen bringt\. Dass aber die Sonne nach ihrem Aufgang ihren Weg durch den Süden, also durch die Mittagsgegend, nimmt und nach Durchlaufen des südlichen Bereichs unsichtbar an ihren Ort zurückkehrt[^bible-9d4984ad-415b-4e13-b28e-cb8444335b6d], erklärt sich daraus, dass diese Welt nach dem Vorbild der Kirche geschaffen ist\. In ihr durchläuft der Herr Jesus Christus, die ewige Sonne, den ihm gehörenden Teil\. Daher nennt man ihn auch „Mittag“\. Für den Norden aber, also für die entgegengesetzte Seite, geht er nicht auf, wie die Menschen auf dieser Seite selbst sagen werden, wenn er zum Gericht kommt: „Das Licht der Gerechtigkeit hat uns nicht geleuchtet, und die Sonne ist uns nicht aufgegangen\.[^bible-1a019975-0785-41a3-9ac5-d15bc1fabca9]“ „Denen aber, die den Herrn fürchten, geht die Sonne der Gerechtigkeit auf, und Heilung ist in ihren Flügeln[^bible-274354ba-be3d-463a-b30f-7bdec2911d64]“, wie geschrieben steht\. Für die Bösen aber ist es mitten am Tag Nacht, wie zu lesen ist: „Während sie auf Licht warteten, wurde es für sie finster; während sie auf Helligkeit warteten, wandelten sie in dunkler Nacht\.[^bible-cffd669d-2f42-4641-8278-f8c6653740a4]“
+
+## Bibelverweise
+
+[^bible-1a019975-0785-41a3-9ac5-d15bc1fabca9]: Weish 5,6
+[^bible-274354ba-be3d-463a-b30f-7bdec2911d64]: Mal 3,20
+[^bible-9d4984ad-415b-4e13-b28e-cb8444335b6d]: Pred 1,5–Pred 1,6
+[^bible-cffd669d-2f42-4641-8278-f8c6653740a4]: Jes 59,9
+[^bible-f536c4cd-bb49-400b-bdff-c71930522dd1]: Pred 1,5
+[^bible-f8db92ce-0985-4cf4-b180-bd163795def6]: Pred 1,6

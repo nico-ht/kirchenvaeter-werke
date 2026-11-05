@@ -1,0 +1,14 @@
+# Über die Natur der Dinge – Kapitel 37: Vier Hauptwinde mit je zwei Seitenwinden unterscheiden sich nach Richtung und Wirkung auf das Wetter
+
+Autor: Isidor von Sevilla
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/isidor-von-sevilla/isidor-ueber-die-natur-der-dinge#kapitel-d98e6a40-c85e-4466-3821-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Der erste Hauptwind ist der Septentrio, ein kalter, schneebringender Wind\. Er weht geradewegs vom Pol her und bringt trockene Kälte und regenlose Wolken\. Er heißt auch Aparctias\. Der Circius, auch Thrascias genannt, braust rechts vom Septentrio her und bringt Schnee und zusammengeballte Hagelkörner\. Der Aquilo, auch Boreas genannt, weht aus der Höhe, ist eisig und trocken und bringt keinen Regen\. Er zerstreut die Wolken nicht, sondern ballt sie zusammen\. Daher ist er nicht ohne Grund ein Sinnbild des Teufels, der mit der Kälte der Ungerechtigkeit die Herzen der Heiden zusammenschnürt\.
+
+Der zweite Hauptwind ist der Subsolanus, auch Apeliotes genannt\. Er braust vom Sonnenaufgang her und ist mild\. Der Vulturnus, auch Caecias genannt, weht rechts vom Subsolanus\. Er löst alles auf und trocknet es aus\. Der Eurus kommt von der linken Seite des Subsolanus und bewässert den Osten mit seinen Wolken\. Der dritte Wind ist der Auster, der Hauptwind des Südens, auch Notus genannt\. Er weht aus der Tiefe, ist feucht, warm und bringt Blitze\. Er erzeugt ausgedehnte Wolken und überaus ergiebigen Regen und lässt auch die Blüten zerfallen\. Der Euroauster ist ein warmer Wind, der rechts vom Auster her braust\. Der Libonotus oder Austroafricus ist ein milder, warmer Wind, der links vom Auster weht\.
+
+Der vierte Hauptwind ist der Zephyrus, auch Favonius genannt, der aus dem Inneren des Westens weht\. Er bringt einen höchst willkommenen Wechsel, indem er die Härte des Winters mildert und Blüten hervorbringt\. Der Africus, auch Lips genannt, braust von der rechten Seite des Zephyrus her\. Er erzeugt Stürme und Regen, lässt Wolken zusammenprallen, Donner ertönen, immer häufigere Blitze aufleuchten und Blitzschläge niederfahren\. Der Corus, auch Argestes genannt, weht von der linken Seite des Favonius\. Wenn er weht, ist der Himmel im Osten bewölkt, in Indien dagegen klar\. Tranquillus bezeichnet einige örtliche Winde mit eigenen Namen\. Dazu gehören der Syrus in Syrien, der Carbasus in Kilikien, der Thracidas an der Propontis, der Sciron in Attika, der Circius in Galicien und der Sucronensis in Hispanien\. Außerdem gibt es unzählige weitere, die nach Flüssen, stehenden Gewässern oder Landstrichen benannt sind\. Neben diesen gibt es jedoch überall noch zwei, die eher Lufthauche als Winde sind: Aura und Altanus\.
