@@ -1,0 +1,25 @@
+# Kommentar zu Matthäus, Buch 14 – Kapitel 14: Jesu Vollendung der Worte kann vollständige Belehrung oder wirksame Weihe durch Geist und Kraft bedeuten
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/origenes-kommentar-zu-matthaeus-buch-14#kapitel-3c75f001-c611-45e5-3adb-08df38321db2).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Und es geschah, als Jesus diese Worte vollendet hatte\.[^bible-d8288a00-825a-46d6-9866-04496b8658e8]“ Wer jede der vorliegenden Fragen vollständig durchgeht, sodass nichts offenbleibt, der vollendet seine Worte\. Darüber wird man sich mit größerer Zuversicht äußern können, wenn man bei der gesamten Lektüre des Alten und Neuen Testaments genauer darauf achtet\. Wenn nämlich von niemandem, weder von Mose noch von einem der Propheten, sondern einzig von Jesus gesagt wird: „Er vollendete diese Worte[^bible-d8288a00-825a-46d6-9866-04496b8658e8]“, dann könnte man die Aussage wagen, dass allein Jesus die Worte vollendete[^bible-d8288a00-825a-46d6-9866-04496b8658e8]\. Er kam ja, um die Dinge zur Vollendung zu bringen und das zu ergänzen, was dem Gesetz fehlte, durch das Wort: „Den Alten wurde gesagt[^bible-99451ee7-3be4-4007-8f3e-9ac218e1d750]“ und so weiter; und wiederum: „Damit erfüllt würde, was durch die Propheten gesagt worden war\.[^bible-50c05756-fdf7-4094-b890-2da020d8c14f]“ Steht dies aber irgendwo auch von jenen geschrieben, dann könnte man die von ihnen vollendeten Worte mit denen vergleichen, die der Retter vollendet hat, um den Unterschied zwischen ihnen zu finden\. Allerdings wäre auch dort zu untersuchen, ob das Wort „vollendete[^bible-d8288a00-825a-46d6-9866-04496b8658e8]“ für das steht, was auf göttliche Weisung hin gesprochen wurde, oder für das, was Mose oder einer der Propheten selbst gesagt hat, oder für beides zusammen\. Denn sorgfältige Beobachtung kann denen tiefste Einsichten erschließen, die es verstehen, „Geistliches mit Geistlichem zu vergleichen[^bible-fd186a2e-39b9-4b86-b9e1-b2668ba06bc0]“, und deshalb „nicht mit Worten sprechen, die menschliche Weisheit lehrt, sondern mit Worten, die der Geist lehrt[^bible-fd186a2e-39b9-4b86-b9e1-b2668ba06bc0]“\. Ein anderer könnte bei dem Wort „vollendete[^bible-d8288a00-825a-46d6-9866-04496b8658e8]“ noch genauer auf seinen Gebrauch im Bereich der tieferen Mysterien achten\. Denn der eine „überlieferte seinen Untergebenen Mysterien und Weihen[^bible-e0ac15bd-d0a3-4494-a71a-a925bbb920ef]“, ohne dafür Lob zu verdienen; ein anderer dagegen überlieferte denen, die ihrer würdig waren, Gottes Mysterien und diesen Mysterien entsprechende Weihen\. So könnte er sagen, Jesus habe eine Weihe vollzogen, indem er die Worte in die Mysterien einführte\. Durch diese Weihe hätten sich die Worte als wirkmächtig erwiesen, sodass „das Evangelium[^bible-7d256446-e5ba-4f5d-8bfd-b4d26a65b883]“ Jesu „in der ganzen Welt verkündet[^bible-7d256446-e5ba-4f5d-8bfd-b4d26a65b883]“ worden sei und durch die göttliche Weihe jede Seele ergriffen habe, die der Vater zum Sohn zieht[^bible-076a7703-df9e-45fc-8a11-569b0e6c7d0f], nach dem Wort des Retters: „Niemand kommt zu mir, wenn ihn nicht der Vater zieht, der mich gesandt hat\.[^bible-076a7703-df9e-45fc-8a11-569b0e6c7d0f]“ Darum bestanden auch das Wort derer, die durch Gottes Gnade als Gesandte für das Evangelium eintreten, und ihre „Verkündigung[^bible-9bb247b8-ee3a-41d0-9902-19cdaf3a5723]“ „nicht in überzeugenden Worten der Weisheit, sondern im Erweis des Geistes und der Kraft[^bible-9bb247b8-ee3a-41d0-9902-19cdaf3a5723]“\. Durch Geist und Kraft wurden die Worte der Lehre Jesu vollendet\. Achte also darauf, wie oft „vollendete[^bible-d8288a00-825a-46d6-9866-04496b8658e8]“ gesagt wird und worauf es sich jeweils bezieht\. Als Beispiel nimm die Worte, die sich an die Seligpreisungen und die gesamte Lehre anschließen: „Und es geschah, als Jesus diese Worte vollendet hatte, da waren alle Volksscharen von seiner Lehre überwältigt\.[^bible-e212df88-ac48-43e6-8742-fbf93b5c7f6d]“
+
+Auch hier bezieht sich „Jesus vollendete diese Worte[^bible-d8288a00-825a-46d6-9866-04496b8658e8]“ unmittelbar auf das überaus geheimnisvolle Gleichnis, in dem es heißt: „Das Himmelreich wurde mit einem König verglichen, der mit seinen Sklaven abrechnen wollte\.[^bible-38cacb92-3317-4e56-9203-39f300bc5661]“ Darüber hinaus bezieht es sich aber auch auf das, was zuvor aufgezeichnet ist\.
+
+## Bibelverweise
+
+[^bible-076a7703-df9e-45fc-8a11-569b0e6c7d0f]: Joh 6,44
+[^bible-38cacb92-3317-4e56-9203-39f300bc5661]: Mt 18,23
+[^bible-50c05756-fdf7-4094-b890-2da020d8c14f]: Mt 2,23
+[^bible-7d256446-e5ba-4f5d-8bfd-b4d26a65b883]: Mt 26,13
+[^bible-99451ee7-3be4-4007-8f3e-9ac218e1d750]: Mt 5,21
+[^bible-9bb247b8-ee3a-41d0-9902-19cdaf3a5723]: 1Kor 2,4
+[^bible-d8288a00-825a-46d6-9866-04496b8658e8]: Mt 19,1
+[^bible-e0ac15bd-d0a3-4494-a71a-a925bbb920ef]: Weish 14,15
+[^bible-e212df88-ac48-43e6-8742-fbf93b5c7f6d]: Mt 7,28
+[^bible-fd186a2e-39b9-4b86-b9e1-b2668ba06bc0]: 1Kor 2,13
