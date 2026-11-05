@@ -1,0 +1,18 @@
+# Kommentar zu den Evangelien – Kapitel 109: Die Kelter im Weinberg steht für das Martyrium: Götzendienst führt zur Verfolgung
+
+Autor: Fortunatianus von Aquileia
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/fortunatianus/kommentar-zu-den-evangelien#kapitel-6f068917-3edd-4627-daa6-08df3837a997).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Hört ein weiteres Gleichnis: Da war ein Mann, ein Hausherr, der einen Weinberg pflanzte\.[^bible-5b11f774-bd1c-4762-b3df-6e0033a6d0cc]“ Der Hausherr steht für Gott den Vater\. „Der Mann, der Hausherr, pflanzte einen Weinberg[^bible-5b11f774-bd1c-4762-b3df-6e0033a6d0cc]“ bedeutet, dass er ein Volk bildete, das er aus Ägypten in das verheißene Land führte\. Das ist mit „er pflanzte einen Weinberg[^bible-5b11f774-bd1c-4762-b3df-6e0033a6d0cc]“ gemeint\. „Er umgab ihn mit einem Zaun[^bible-5b11f774-bd1c-4762-b3df-6e0033a6d0cc]“: Er gewährte Schutz, den der Text einen geistlichen Zaun nennt, und eine Schutzwehr durch das Evangelium\. „Er grub eine Kelter im Weinberg[^bible-5b11f774-bd1c-4762-b3df-6e0033a6d0cc]“: Denn wenn ein Weinberg Wein hervorbringen soll, muss er notwendigerweise auch eine Kelter besitzen, in der die Trauben zerquetscht werden\. „Dann verpachtete er diesen Weinberg an Pächter\.[^bible-5b11f774-bd1c-4762-b3df-6e0033a6d0cc]“ Die Pächter sind niemand anderes als die Lehrer und Ältesten der Juden, denen das Volk anvertraut war, damit sie über das Volk richteten und es die Gerechtigkeit des Gesetzes lehrten\. „Er baute darin auch einen Turm[^bible-5b11f774-bd1c-4762-b3df-6e0033a6d0cc]“: Hier zeigt der Erlöser sich selbst, denn er wurde von einer Jungfrau geboren\. Wie ein Turm die Brustwehr der Mauern überragt, so überragt seine Heiligkeit den Lebenswandel aller anderen\. „Er verpachtete ihn an Pächter[^bible-5b11f774-bd1c-4762-b3df-6e0033a6d0cc]“, also, wie gesagt, an die Ältesten oder Lehrer der Juden, „und reiste ins Ausland\.[^bible-5b11f774-bd1c-4762-b3df-6e0033a6d0cc]“ „Als aber die Zeit der Früchte gekommen war, sandte er Sklaven zu den Pächtern, um einen Teil der Früchte zu erhalten\.[^bible-99ddaf5b-a7cb-4067-bd6c-d1439db35efa]“ Seine Sklaven sind also die Propheten, die er sandte; die Pächter ergriffen sie und töteten sie auf verschiedene Weise[^bible-ee6785c0-6b57-4b04-b1af-b047bda02986]\. Keltern hingegen stehen für Martyrien: Die Märtyrer dienen mit ihrem Blut, das sie unter großen Qualen vergießen müssen\. So auch bei einer Kelter; denn ohne kräftige Balken hat eine Kelter nicht den nötigen Halt, um Trauben zu pressen\. Ebenso geht es auch beim Martyrium: Die Märtyrer halten nicht stand, ohne große Schmerzen und Qualen zu erdulden, wenn man ihnen die Glieder verrenkt\. Denn das ist gewaltsam zugefügtes Leiden\. Ein Balken jedoch wird als Götzendienst verstanden, wie Jeremia über die Götzen sagte: „Sie sind im Gebäude wie ein Balken\.[^bible-63af8fe4-7744-489f-82a0-6476d8bb4e30]“ Und: „Zieh den Balken aus deinem Auge[^bible-eddaf976-19e5-4a3c-b6a7-5a8a83f1c41e]“, womit der Götzendienst gemeint ist, „und dann den Splitter[^bible-eddaf976-19e5-4a3c-b6a7-5a8a83f1c41e]“, der für eine ganz kleine Sünde steht\. Du siehst also, dass Verfolgungen wegen des Götzendienstes entstehen\.
+
+## Bibelverweise
+
+[^bible-5b11f774-bd1c-4762-b3df-6e0033a6d0cc]: Mt 21,33
+[^bible-63af8fe4-7744-489f-82a0-6476d8bb4e30]: JerBr 1,20
+[^bible-99ddaf5b-a7cb-4067-bd6c-d1439db35efa]: Mt 21,34
+[^bible-eddaf976-19e5-4a3c-b6a7-5a8a83f1c41e]: Mt 7,5
+[^bible-ee6785c0-6b57-4b04-b1af-b047bda02986]: Mt 21,35

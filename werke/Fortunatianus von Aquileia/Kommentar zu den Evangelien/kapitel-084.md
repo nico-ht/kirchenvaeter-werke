@@ -1,0 +1,33 @@
+# Kommentar zu den Evangelien – Kapitel 84: Die fünf Brote bedeuten das Gesetz, das erst durch Christi Auslegung und die Apostellehre die Gläubigen sättigt
+
+Autor: Fortunatianus von Aquileia
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/fortunatianus/kommentar-zu-den-evangelien#kapitel-2a51b051-0bbf-4007-da8d-08df3837a997).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Als es aber Abend geworden war, kamen seine Jünger zu ihm und sagten[^bible-2b417081-7fad-4ef0-a0dc-971333d049b7]: „Der Ort ist verlassen, und die Stunde ist schon vorüber\. Schick also die Menschenmenge fort, damit sie durch die Dörfer ziehen und sich etwas zu essen kaufen können\.[^bible-2b417081-7fad-4ef0-a0dc-971333d049b7]“ Jesus aber sagte: „Sie brauchen nicht fortzugehen\. Gebt ihr ihnen etwas zu essen\.[^bible-b8dde705-dbe3-49ed-ad8a-ddfe5f58be01]“ Sie antworteten: „Wir haben nichts außer fünf Broten und zwei Fischen\.[^bible-81dd0f22-6b88-47e8-ac17-c11d43b1cd6c]“ Das zeigt, dass der Abend[^bible-2b417081-7fad-4ef0-a0dc-971333d049b7] die Vollendung der Erde bedeutet, die Zeit, in der der Herr einen menschlichen Körper annahm und in die Welt kam\. Der verlassene Ort[^bible-2b417081-7fad-4ef0-a0dc-971333d049b7] bezeichnet das jüdische Volk, das wegen seines Unglaubens vom Heiligen Geist verlassen wurde\. Der Herr selbst machte das an anderer Stelle deutlich, als er eben dieses Volk tadelte: „Seht[^bible-4a0397ce-4953-40a1-b998-464334e07dc2]“, sagte er, „euer Haus wird euch verödet hinterlassen werden\.[^bible-4a0397ce-4953-40a1-b998-464334e07dc2]“ Unter den Dörfern[^bible-2b417081-7fad-4ef0-a0dc-971333d049b7] können wir die an verschiedenen Orten errichteten Synagogen verstehen\. Die Apostel meinten, das Volk solle noch immer wie zur Zeit des Gesetzes dorthin gehen, um sich etwas zu essen zu kaufen[^bible-2b417081-7fad-4ef0-a0dc-971333d049b7], das heißt, um die Weisungen des Gesetzes zu hören\. Es heißt „kaufen[^bible-2b417081-7fad-4ef0-a0dc-971333d049b7]“, weil das Volk den Leviten und Priestern den Zehnten gab\. Wir verstehen die Dörfer[^bible-2b417081-7fad-4ef0-a0dc-971333d049b7] als Synagogen, weil sie weder Schutzmauern noch Türme noch Eingangstore haben und ihre Gebäude weder Anmut noch Pracht besitzen\. Die Kirche hingegen wird Stadt genannt, weil sie von einer Mauer umgeben ist, zum Schutz vor
+
+ihrem Feind\. Mit dieser Mauer ist unser Herr und Erlöser selbst gemeint, der seine Kirche stets gegen die Angriffe des Feindes verteidigt\. Sie hat auch Türme: Das sind offensichtlich die Jungfrauen, die durch ihren Lebenswandel alle anderen überragen und daher treffend mit Türmen verglichen werden\. Sie hat auch Tore, das heißt die Apostel, deren Lehre den Zugang zur Kirche eröffnet\. Sie hat auch verschiedene schöne Gebäude: Das sind die Gerechten, die recht handeln\. Der Herr kam also, um aus zwei Menschenscharen eine neue Kirche zu bilden und durch seine Lehre den Hunger aller zu stillen\. Deshalb sagte er, sie müssten nicht in die Dörfer gehen[^bible-b0e8a77b-7c05-430a-a78a-1763d17eeb06] \(damit sind die Synagogen gemeint\), sondern zur Kirche kommen, die der Herr durch seine Apostel bereits zu sammeln begann\.
+
+Darauf wies er seine Jünger an, selbst den Menschen etwas zu essen zu geben[^bible-c67460ca-4b80-4496-b950-f2978d910bcd]\. Das bedeutet, dass sie allen Gläubigen himmlische Nahrung reichen sollten, indem sie eben diesen Sohn Gottes verkündigten\. Das Gesetz und die Propheten kamen nun an ihr Ende, denn das Gesetz und die Propheten reichen bis zu Johannes[^bible-5f8b8795-ba9e-4123-a424-95ad6c8c779e]\. Sie antworteten: „Wir haben nichts weiter als fünf Brote und zwei Fische\.[^bible-11d2db47-7269-4783-ad7a-5dfec8824cde]“ Die fünf Brote sind die fünf Bücher des Mose, und die beiden Fische werden als die beiden Testamente verstanden\. Seine Anweisung, die Menschen sollten sich auf das Gras legen[^bible-7cb802d2-316e-464e-af51-7565d9c114c5], zeigt, dass die Gläubigen von ihren früheren bösen Taten zur Ruhe kommen und künftig davon ablassen sollen\. Denn das Gras bezeichnet unsere Körper, wie
+
+Jesaja sagt: „Alles Fleisch ist Gras[^bible-64193445-1055-4717-884b-1b2d74b054e1]“ und so weiter\. Der Bericht, dass „der Herr die fünf Brote und zwei Fische nahm, sie segnete, brach und seinen Jüngern gab, die Jünger aber den Menschen[^bible-7cb802d2-316e-464e-af51-7565d9c114c5]“, zeigt deutlich: Die fünf Brote, das heißt die fünf Bücher des Mose, konnten die Menschen nicht sättigen, bevor der Herr selbst den Aposteln alle Geheimnisse des Gesetzes und die über ihn geschriebenen Weissagungen erschlossen hatte\. Sie wiederum wurden vom vollkommenen Meister unterwiesen und über alles belehrt: über diese fünf Bücher des Gesetzes des Mose, die die fünf Brote sind, und über die beiden Fische, die Verkündigung der beiden Testamente\. Diese geistliche Nahrung reichten sie allen, die zum Glauben kamen und in der Kirche Ruhe fanden\. Dabei zeigten sie, dass der Sohn Gottes schon in eben diesem Gesetz verkündigt worden war\. Ob es sich aber um diesen Ort mit fünf Säulenhallen handelt, in denen eine Menge Kranker lag[^bible-935bb1fd-7d6a-4dcd-9419-d7ae5d170ab1], um die fünf Männer der Samariterin[^bible-954f1e3e-8e64-4ce4-96c1-0ba6eedccde7] oder auch um die fünf Steine, die David bei sich hatte und mit denen er den Fremden traf[^bible-b8ecec14-67c9-437a-be41-82a973fa0839]: Gemeint sind dieselben fünf Bücher des Gesetzes des Mose\. Was die Überlieferung des Gesetzes betrifft, so ist deutlich, dass zwölf volle Körbe übrig bleiben[^bible-39bf7b2a-b2f0-4f72-8d67-6ed125a63d0c]\. Das sind offenkundig die zwölf Apostel, erfüllt vom Heiligen Geist, durch deren Lehre wir nach der Nahrung des Gesetzes täglich gespeist werden\.
+
+## Bibelverweise
+
+[^bible-11d2db47-7269-4783-ad7a-5dfec8824cde]: Mt 14,17
+[^bible-2b417081-7fad-4ef0-a0dc-971333d049b7]: Mt 14,15
+[^bible-39bf7b2a-b2f0-4f72-8d67-6ed125a63d0c]: Mt 14,20
+[^bible-4a0397ce-4953-40a1-b998-464334e07dc2]: Mt 23,38
+[^bible-5f8b8795-ba9e-4123-a424-95ad6c8c779e]: Lk 16,16
+[^bible-64193445-1055-4717-884b-1b2d74b054e1]: Jes 40,6
+[^bible-7cb802d2-316e-464e-af51-7565d9c114c5]: Mt 14,19
+[^bible-81dd0f22-6b88-47e8-ac17-c11d43b1cd6c]: Mt 14,17
+[^bible-935bb1fd-7d6a-4dcd-9419-d7ae5d170ab1]: Joh 5,2–Joh 5,3
+[^bible-954f1e3e-8e64-4ce4-96c1-0ba6eedccde7]: Joh 4,18
+[^bible-b0e8a77b-7c05-430a-a78a-1763d17eeb06]: Mt 14,15–Mt 14,16
+[^bible-b8dde705-dbe3-49ed-ad8a-ddfe5f58be01]: Mt 14,16
+[^bible-b8ecec14-67c9-437a-be41-82a973fa0839]: 1Sam 17,40
+[^bible-c67460ca-4b80-4496-b950-f2978d910bcd]: Mt 14,16

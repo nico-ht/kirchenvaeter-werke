@@ -1,0 +1,24 @@
+# Kommentar zu den Evangelien – Kapitel 127: Petrus’ Vertrauen auf eigene Kraft scheitert; der Glaube an Christus, den wahren Hahn, führt aus der Nacht ins Licht
+
+Autor: Fortunatianus von Aquileia
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/fortunatianus/kommentar-zu-den-evangelien#kapitel-9e39aa6c-dffa-4ce9-dab8-08df3837a997).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Dann sagt Jesus zu ihnen: „Ihr alle werdet in dieser Nacht ins Straucheln geraten\.[^bible-ed52bfe9-3273-4760-924b-9ddf4f84be80]“ Er sagte „in der Nacht[^bible-ed52bfe9-3273-4760-924b-9ddf4f84be80]“, weil die Nacht alle Menschen beherrschte: In keinem war Licht, da sie sich alle abgewandt hatten[^bible-5099361c-fa6b-474a-b9eb-0e79911f531b]\. Er zeigte, dass geschrieben stand, sie würden von ihm fortfliehen: „Ich werde den Hirten schlagen, und die Schafe werden zerstreut werden\.[^bible-ed52bfe9-3273-4760-924b-9ddf4f84be80]“ Darauf antwortete Petrus: „Auch wenn alle straucheln, werde ich nicht straucheln\.[^bible-ac32be56-05c0-4513-b36c-8d23ca298547]“ Jesus sagte zu ihm: „Du wirst mich dreimal verleugnen, bevor der Hahn kräht\.[^bible-9f8f2731-152b-44f7-8245-4548a6c480db]“ Petrus aber sagte als Mensch kühn: „Auch wenn alle[^bible-ac32be56-05c0-4513-b36c-8d23ca298547]“, ohne vorauszuschicken: „Wenn du willst, werde ich nicht straucheln\.“ Denn dies ist \[…\]: Wenn ein Mensch sagt, er werde etwas aus eigener Kraft tun, und nicht vorausschickt: „Wenn Gott will, werde ich es tun“, spricht er vermessen\. Seine Worte werden leer bleiben, denn es sind Menschenworte; sie werden nichts bewirken\. Wenn er also sagt: „Ich werde nicht straucheln[^bible-ac32be56-05c0-4513-b36c-8d23ca298547]“, wird ihm geantwortet: „Bevor der Hahn kräht, wirst du mich dreimal verleugnen\.[^bible-9f8f2731-152b-44f7-8245-4548a6c480db]“ Jesus zeigt, dass auch Petrus noch in einer gewissen nächtlichen Finsternis gefangen ist\. Weiter heißt es: „Bevor der Hahn kräht\.[^bible-9f8f2731-152b-44f7-8245-4548a6c480db]“ Denn wenn der Hahn zu krähen beginnt, besteht bereits Hoffnung, dass Licht kommen wird\. Petrus war also noch in der Nacht, und deshalb sagte Jesus, Petrus werde ihn verleugnen[^bible-9f8f2731-152b-44f7-8245-4548a6c480db]\. „Als aber der Hahn krähte[^bible-8350658f-732d-4760-94e3-80110ce2728d]“: Damit ist Christus gemeint, der als Hahn verstanden wird, entsprechend jenem Sakrament, von dem wir bereits gesagt haben, dass es im Gesetz beschrieben wird: „Das Blut eines Huhns wird mit Wasser vermischt, und das Volk wird damit besprengt und geheiligt\.[^bible-788b9d3e-7f57-48d7-b7cb-534a107949cf]“ Oder er wird deshalb so verstanden, weil Salomo sagte: „Der Hahn geht selbstbewusst unter den Hühnern umher\.[^bible-356d9075-a7be-4934-a7e2-ee5cb8df8e90]“ Gemeint ist: unter den Kirchen, die auch Johannes mit den sieben Leuchtern[^bible-e2cb0f2c-8649-4201-81f9-c01ddda4a23e] erwähnt\. Als aber der Hahn krähte, weinte Petrus bitterlich\.[^bible-5289695a-b04a-4aba-b769-e384b4725132] Es gibt noch einen anderen Grund, weshalb er sagte, „die Jünger würden in der Nacht ins Straucheln geraten[^bible-ed52bfe9-3273-4760-924b-9ddf4f84be80]“\. Das bezieht sich besonders auf die Zeit, als der Heide Kornelius zum Glauben kam[^bible-3b7ef287-2f57-4ce1-b9ba-e835d55862ae]: Daran nahmen die Juden und selbst die Jünger Anstoß, denn auch Petrus wurde wegen seines Handelns getadelt[^bible-a362c811-e83c-4d02-b97a-688b91a993db]\. Ein Anstoß in der Nacht[^bible-ed52bfe9-3273-4760-924b-9ddf4f84be80] bedeutet aber einen Anstoß unter den Völkern, die wahrhaft als Nacht verstanden werden können\. Es war also ein Anstoß in der Nacht[^bible-ed52bfe9-3273-4760-924b-9ddf4f84be80], das heißt: wegen der Heiden, nachdem sie zum Glauben zugelassen worden waren\. Der krähende Hahn kündigt an, dass es Licht geben wird, das jeder, der ihn \[…\], und geistliches Verständnis: Wer glaubt, dass Christus der wahre Hahn und das Licht ist, wird ewigen Tag haben\. Er wird die Finsternis der Nacht nicht mehr sehen, denn er wird Christus, den Herrn, als Sonne erfahren\.
+
+## Bibelverweise
+
+[^bible-356d9075-a7be-4934-a7e2-ee5cb8df8e90]: Spr 30,31
+[^bible-3b7ef287-2f57-4ce1-b9ba-e835d55862ae]: Apg 10,1–Apg 10,48
+[^bible-5099361c-fa6b-474a-b9eb-0e79911f531b]: Ps 13,3
+[^bible-5289695a-b04a-4aba-b769-e384b4725132]: Mt 26,74–Mt 26,75
+[^bible-788b9d3e-7f57-48d7-b7cb-534a107949cf]: Lev 14,5–Lev 14,7
+[^bible-8350658f-732d-4760-94e3-80110ce2728d]: Mt 26,74
+[^bible-9f8f2731-152b-44f7-8245-4548a6c480db]: Mt 26,34
+[^bible-a362c811-e83c-4d02-b97a-688b91a993db]: Apg 11,1–Apg 11,3
+[^bible-ac32be56-05c0-4513-b36c-8d23ca298547]: Mt 26,33
+[^bible-e2cb0f2c-8649-4201-81f9-c01ddda4a23e]: Offb 1,20
+[^bible-ed52bfe9-3273-4760-924b-9ddf4f84be80]: Mt 26,31

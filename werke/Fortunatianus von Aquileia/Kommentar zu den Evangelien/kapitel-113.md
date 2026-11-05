@@ -1,0 +1,22 @@
+# Kommentar zu den Evangelien – Kapitel 113: Die Kirche als Henne: Sie eint die Völker durch den Heiligen Geist unter den Flügeln der Apostellehre
+
+Autor: Fortunatianus von Aquileia
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/fortunatianus/kommentar-zu-den-evangelien#kapitel-01852e9c-7b2e-4734-daaa-08df3837a997).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Jerusalem, Jerusalem, du tötest die Propheten\.[^bible-fc520e98-c288-4bde-91a2-83a24579e1c4]“ Jesus tadelt das jüdische Volk, das offenkundig in jener Stadt lebt, wo man das Gesetz in vollem Umfang befolgt und wo sich der öffentliche Platz befindet\. „Wie oft wollte ich[^bible-fc520e98-c288-4bde-91a2-83a24579e1c4]“ bedeutet: „Ich habe dich oft durch die Propheten gewarnt und angeklagt\.“ Schließlich kam er selbst, wurde aber nicht aufgenommen\.[^bible-dceb4917-cda6-4e7f-98d8-e8ad2c0da4b2] Deshalb erhebt er Anklage gegen jene Stadt: „Du tötest[^bible-fc520e98-c288-4bde-91a2-83a24579e1c4]“, sagt er, „die Propheten, die ich gesandt habe, und steinigst sie; wie oft wollte ich deine Kinder sammeln\.[^bible-fc520e98-c288-4bde-91a2-83a24579e1c4]“ Er erhebt Anklage gegen die Synagoge mit den Worten: „Wie eine Henne ihre Küken aufzieht und sie unter ihren Flügeln warmhält, so wollte ich[^bible-fc520e98-c288-4bde-91a2-83a24579e1c4]“, sagt der Herr, „deine Kinder sammeln\. Aber du hast dich geweigert[^bible-fc520e98-c288-4bde-91a2-83a24579e1c4]“; und weil du dich geweigert hast, wird dein Haus verlassen zurückbleiben\.[^bible-0c6de510-642a-438d-aae6-b9e6f4d9fec2]“ Offenkundig werden sie vom Heiligen Geist verlassen, den er als Zaun in den Weinberg gesetzt hat, offenkundig als geistlichen Schutz\. Ein verlassenes Haus aber nimmt jene Menschen auf, die vom Heiligen Geist verlassen und aufgegeben sind\. Bei seinen Worten „unter den Flügeln[^bible-fc520e98-c288-4bde-91a2-83a24579e1c4]“ werden Mose und Aaron als Flügel verstanden, die das Volk aus Ägypten führten[^bible-821a0d43-a766-4d7a-9283-c1e2ce03df70], wie es im Lied im Deuteronomium heißt: „Es breitete seine Flügel aus und nahm sie auf\.[^bible-9db890c6-2615-4aa0-8725-01d84fe722ce]“ Die Flügel in der Kirche sind jetzt aber die Vorsteher und die Apostel, die mit ihrer Lehre die Kirche schützen und bewahren\. Im geistlichen Verständnis wird die Henne als die Kirche gedeutet: Wie eine Henne Eier warmhält, nährt und umsorgt, auch die Eier jedes anderen Vogels, die sie nicht selbst gelegt hat, so nimmt die Kirche diejenigen auf, die aus allen Völkern kommen\. Durch die Gnade des Heiligen Geistes hält sie sie unter ihren Flügeln warm, das heißt durch die apostolische Lehre: Das sind die Flügel der Kirche\. Sie erfüllt ihre Herzen und nährt sie mit geistlicher Speise\. Durch den Heiligen Geist und den Schutz ihrer Flügel macht sie aus den verschiedenen Völkern ein einziges Volk für Gott\. Damit du aber die Kirche im Bild der Henne erkennst, wies das Sinnbild der künftigen Hoffnung auf folgende Weise voraus: So lesen wir etwa im Gesetz, dass das Blut eines toten Huhns mit Wasser vermischt und das Volk damit besprengt und geheiligt wurde\.[^bible-f58eb9f8-856c-468c-af8e-c4008d413fcf] Wenn also das Huhn, durch dessen Blut das Volk geheiligt wird, als Christus verstanden wird, der sein Blut für die Kirche vergießt und sie dadurch heiligt, dann kann die Henne ohne Zweifel als die Kirche verstanden werden\. Ebenso erwähnt Salomo „den jungen Löwen[^bible-8259510c-dd91-4630-a83f-69776aecff16]“, weil er „wohl einherschreitet[^bible-8259510c-dd91-4630-a83f-69776aecff16]“, und „den Hahn, der fröhlich unter den Hennen umhergeht[^bible-47e5f58d-1f15-41bf-9c16-808ce5d44002]“, das heißt unter den Kirchen: Auch Johannes nennt die sieben Leuchter die sieben Kirchen\.[^bible-b66a32e9-bf11-4a72-ab82-54a555e2fbbd]
+
+## Bibelverweise
+
+[^bible-0c6de510-642a-438d-aae6-b9e6f4d9fec2]: Mt 23,38
+[^bible-47e5f58d-1f15-41bf-9c16-808ce5d44002]: Spr 30,31
+[^bible-821a0d43-a766-4d7a-9283-c1e2ce03df70]: Ex 12,50–Ex 12,51
+[^bible-8259510c-dd91-4630-a83f-69776aecff16]: Spr 30,30
+[^bible-9db890c6-2615-4aa0-8725-01d84fe722ce]: Dtn 32,11
+[^bible-b66a32e9-bf11-4a72-ab82-54a555e2fbbd]: Offb 1,20
+[^bible-dceb4917-cda6-4e7f-98d8-e8ad2c0da4b2]: Joh 1,11
+[^bible-f58eb9f8-856c-468c-af8e-c4008d413fcf]: Lev 14,5–Lev 14,7
+[^bible-fc520e98-c288-4bde-91a2-83a24579e1c4]: Mt 23,37
