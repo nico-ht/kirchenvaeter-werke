@@ -1,0 +1,15 @@
+# Über die Zeugung des göttlichen Wortes an Candidus – Kapitel 14: In Christi Zeugung wird das in Gott verborgene wahrhaft Seiende offenbar
+
+Autor: Marius Victorinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/marius-victorinus/marius-victorinus-zeugung-goettliches-wort#kapitel-df6ca31c-71d6-4a8a-3907-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Was aber ist dieses Nichtseiende, das über dem Seienden steht? Es ist als Seiendes zu verstehen, nicht aber als schlechthin Nichtseiendes, sondern als etwas, das im Nichtwissen erkennbar ist, weil es Seiendes und weil es Nichtseiendes ist\. Allein durch sein Vermögen hat es das Seiende in Erscheinung gebracht und gezeugt\. Dass es sich so verhält, lässt sich aber begründen\. Hat nun Gott, der über dem Seienden steht, die seienden Dinge aus dem hervorgebracht, was er selbst ist, so wie er selbst ist? Oder aus etwas anderem? Oder aus nichts? Aus etwas anderem? Aber aus welchem anderen? Denn vor Gott war nichts\. Auch nicht aus einem anderen, der ebenfalls Gott wäre, denn nichts ist ihm gleich\. Aus nichts? Aber wie? Wenn er nämlich das Seiende hervorgebracht hat, dann ist es richtig zu sagen, dass er, der über dem Seienden steht, das Seiende eher aus sich selbst als aus nichts gezeugt hat\. Denn was ursprünglich über dem Seienden steht, ist verborgenes Seiendes\. Das Offenbarwerden des Verborgenen aber ist Zeugung\. Denn auch das dem Vermögen nach Seiende zeugt das der Wirklichkeit nach Seiende; denn bei der Zeugung ist nichts ohne Ursache\. Und wenn Gott die Ursache von allem ist, dann ist er auch die Ursache dafür, dass das Seiende gezeugt wird\. Er steht ja über dem Seienden und ist ihm näher, auch als dessen Vater und Erzeuger\. Denn eine Schwangere trägt das, was sie gebären wird, im Verborgenen\. Es ist ja nicht so, dass das Kind vor der Geburt nicht existiert; vielmehr ist es im Verborgenen\. Durch die Geburt tritt das, was dem Vermögen nach Seiendes war, als der Wirklichkeit nach Seiendes in Erscheinung\. Und um die Wahrheit zu sagen: Es ist Seiendes durch das Wirken des Seienden; denn dieses zeugt durch sein Wirken nach außen\. Was aber zeugt es? Das, was im Inneren war\. Doch was war im Inneren Gottes? Nichts anderes als Seiendes, und zwar das wahrhaft Seiende; genauer aber: das Vorseiende, das über allem Seienden steht\. Ich meine die Gattung, die als Seiendes über den seienden Dingen des Seienden steht: Seiendes, bei dem das Vermögen bereits wirkt\. Dieser ist Jesus Christus\. Denn er selbst hat gesagt: „Wenn jemand fragt: ‚Wer hat dich gesandt?‘, dann sage: ‚Der Seiende\.‘[^bible-c213a0f1-ed31-4260-8cce-61337f2c2f20]“ Denn nur jenes Seiende, das immer seiend ist, ist der Seiende[^bible-bd90508f-ab8d-4681-81e7-a08feea02356]\.
+
+## Bibelverweise
+
+[^bible-bd90508f-ab8d-4681-81e7-a08feea02356]: Ex 3,14
+[^bible-c213a0f1-ed31-4260-8cce-61337f2c2f20]: Ex 3,13–Ex 3,14
