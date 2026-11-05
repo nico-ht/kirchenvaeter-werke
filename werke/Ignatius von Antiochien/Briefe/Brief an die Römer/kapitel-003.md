@@ -1,4 +1,4 @@
-# Brief an die Römer – Kapitel 3
+# Brief an die Römer – Kapitel 3: Christsein verlangt gelebte Treue statt bloßer Worte und zeigt seine Größe, wenn die Welt es hasst
 
 Autor: Ignatius von Antiochien
 

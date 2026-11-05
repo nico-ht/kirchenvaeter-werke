@@ -1,4 +1,4 @@
-# Brief an die Römer – Kapitel 9
+# Brief an die Römer – Kapitel 9: Die Römer sollen für die Kirche in Syrien beten, deren Hirte nun Gott an Ignatius’ Stelle ist
 
 Autor: Ignatius von Antiochien
 

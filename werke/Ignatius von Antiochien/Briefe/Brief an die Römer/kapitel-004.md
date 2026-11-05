@@ -1,4 +1,4 @@
-# Brief an die Römer – Kapitel 4
+# Brief an die Römer – Kapitel 4: Als Gottes Weizen will Ignatius durch die wilden Tiere zu reinem Brot und in Christus frei werden
 
 Autor: Ignatius von Antiochien
 

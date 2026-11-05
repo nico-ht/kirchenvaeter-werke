@@ -1,4 +1,4 @@
-# Brief an die Römer – Kapitel 7
+# Brief an die Römer – Kapitel 7: Ignatius begehrt nicht die Freuden des Lebens, sondern Christi Leib und Blut
 
 Autor: Ignatius von Antiochien
 

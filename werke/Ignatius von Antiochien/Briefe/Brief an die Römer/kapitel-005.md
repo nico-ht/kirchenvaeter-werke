@@ -1,4 +1,4 @@
-# Brief an die Römer – Kapitel 5
+# Brief an die Römer – Kapitel 5: Im Leiden wächst Ignatius als Jünger und will jede Qual ertragen, um Jesus Christus zu erreichen
 
 Autor: Ignatius von Antiochien
 

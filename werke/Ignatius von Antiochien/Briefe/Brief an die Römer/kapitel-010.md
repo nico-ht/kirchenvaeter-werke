@@ -1,4 +1,4 @@
-# Brief an die Römer – Kapitel 10
+# Brief an die Römer – Kapitel 10: Ignatius kündigt seine Nähe an und bittet um Beistand für die aus Syrien Vorausgereisten
 
 Autor: Ignatius von Antiochien
 

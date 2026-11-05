@@ -1,4 +1,4 @@
-# Brief an die Römer – Kapitel 1
+# Brief an die Römer – Kapitel 1: Ignatius fürchtet, dass die Liebe der Römer ihn daran hindert, zu Gott zu gelangen
 
 Autor: Ignatius von Antiochien
 

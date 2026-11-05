@@ -1,4 +1,4 @@
-# Brief an die Römer – Kapitel 2
+# Brief an die Römer – Kapitel 2: Die Römer sollen Ignatius’ Opfer für Gott zulassen und dem Vater dafür gemeinsam Lob singen
 
 Autor: Ignatius von Antiochien
 

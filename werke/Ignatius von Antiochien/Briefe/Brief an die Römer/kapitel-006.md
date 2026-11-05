@@ -1,4 +1,4 @@
-# Brief an die Römer – Kapitel 6
+# Brief an die Römer – Kapitel 6: Für Christus zu sterben bedeutet für Ignatius, zum wahren Leben geboren zu werden
 
 Autor: Ignatius von Antiochien
 

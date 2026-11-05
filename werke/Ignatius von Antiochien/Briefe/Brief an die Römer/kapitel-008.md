@@ -1,4 +1,4 @@
-# Brief an die Römer – Kapitel 8
+# Brief an die Römer – Kapitel 8: Ignatius’ Bitte um Zustimmung zu seinem Leiden folgt Gottes Denken, nicht menschlichen Maßstäben
 
 Autor: Ignatius von Antiochien
 
