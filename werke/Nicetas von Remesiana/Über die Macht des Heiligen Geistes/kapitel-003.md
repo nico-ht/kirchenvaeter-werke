@@ -1,0 +1,15 @@
+# Über die Macht des Heiligen Geistes – Kapitel 3: Der Geist geht vom Vater aus und gehört nicht zu dem „Alles“, das durch Christus geschaffen wurde
+
+Autor: Nicetas von Remesiana
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/nicetas-von-remesiana/nicetas-macht-des-heiligen-geistes#kapitel-4e22600a-83ec-4289-3926-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Was soll der Glaube der Kirche tun, wenn er so in die Enge getrieben wird? Soll er sich einer gewundenen Philosophie beugen und gegen das einhellige Zeugnis aller Schriften des Alten wie des Neuen Testaments glauben, der Heilige Geist Gottes sei geschaffen, obwohl er ihn nirgends als Geschöpf bezeichnet finden konnte? Auf keinen Fall\. Weit besser tut er daran, solche menschlichen Schlussfolgerungen und die Fesseln solcher Fragen zu verwerfen und sich den Worten seines Herrn zuzuwenden\. Denn er selbst sagt im Evangelium, woher der Heilige Geist ist; er selbst, der kein Ende hat, setzt der Streitfrage ein Ende\. Er sagt also zu den Aposteln: „Ich werde euch vom Vater den Beistand senden, den Geist der Wahrheit\.[^bible-b5966da7-99fa-4848-b3ce-94ef0b2e44cd]“ Doch woher ist er? Ihr wisst es nicht\. Wenn du es wissen willst, höre ihn selbst sagen: „Dieser geht vom Vater aus\.[^bible-b5966da7-99fa-4848-b3ce-94ef0b2e44cd]“ Was sollen wir nun tun, Brüder? Auf Christus hören oder auf Menschen? Christus hat nicht gesagt, der Heilige Geist sei geschaffen, sondern nur, dass er vom Vater ausgeht[^bible-b5966da7-99fa-4848-b3ce-94ef0b2e44cd]\. Die Gegner sagen, er sei gemacht und geschaffen\. Ich meine, es wäre besser, dies so zu glauben, wie Christus, der Herr, es offenbart hat, als so, wie menschliche Vermessenheit es sich zurechtgelegt hat\. Wenn wir sie aber fragen, womit sie beweisen können, dass der Heilige Geist geschaffen ist, ziehen sie, da sie kein sicheres und eindeutiges Zeugnis aus den Schriften haben, jenes Wort aus dem Evangelium heran: „Alles ist durch ihn geworden, und ohne ihn ist nichts geworden\.[^bible-810c880c-3827-406b-ac5f-f2eef010123f]“ Sie sagen also: „Wenn alles durch ihn geworden ist[^bible-810c880c-3827-406b-ac5f-f2eef010123f], muss man glauben, dass unter all dem auch der Heilige Geist geschaffen wurde\.“ Das ist kein schlüssiger Beweis, sondern vielmehr eine spitzfindige Schlussfolgerung\. Ich frage also: In welchem Geist sprach der Mund des Johannes, der dies sagte? Sprach er nicht im Heiligen Geist? Wenn er also im Geist sprach, dann sprach gewiss der Geist selbst\. Mit den Worten, alles sei durch ihn geworden[^bible-810c880c-3827-406b-ac5f-f2eef010123f], meinte er aber all das, was zur Vielzahl und Ordnung der Geschöpfe gehört\. Der Heilige Geist sprach nicht von sich selbst, als sollte man glauben, auch er sei unter den übrigen Geschöpfen aus dem Nichts geschaffen worden\.
+
+## Bibelverweise
+
+[^bible-810c880c-3827-406b-ac5f-f2eef010123f]: Joh 1,3
+[^bible-b5966da7-99fa-4848-b3ce-94ef0b2e44cd]: Joh 15,26
