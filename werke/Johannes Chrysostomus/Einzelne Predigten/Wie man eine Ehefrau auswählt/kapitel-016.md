@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 16
+# Wie man eine Ehefrau auswählt – Kapitel 16: Gott führt den betenden Diener zur schönen Rebekka, deren Keuschheit auf der Haltung ihrer Seele beruht
 
 Autor: Johannes Chrysostomus
 

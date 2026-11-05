@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 4
+# Wie man eine Ehefrau auswählt – Kapitel 4: Der Mann soll seiner Frau vergeben und sie mit Sanftmut bessern, statt sie zu verstoßen
 
 Autor: Johannes Chrysostomus
 

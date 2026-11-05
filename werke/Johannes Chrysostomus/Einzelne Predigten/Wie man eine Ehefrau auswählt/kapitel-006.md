@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 6
+# Wie man eine Ehefrau auswählt – Kapitel 6: Paulus verbindet göttliche und menschliche Gründe, um Männer zur Liebe zu ihren Frauen zu führen
 
 Autor: Johannes Chrysostomus
 

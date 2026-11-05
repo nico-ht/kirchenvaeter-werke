@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 17
+# Wie man eine Ehefrau auswählt – Kapitel 17: Rebekka bewahrt ihre Reinheit an Körper und Seele nicht in Abgeschiedenheit, sondern mitten unter Menschen
 
 Autor: Johannes Chrysostomus
 

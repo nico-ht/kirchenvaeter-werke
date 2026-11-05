@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 5
+# Wie man eine Ehefrau auswählt – Kapitel 5: Eva aus Adams Seite, die Kirche aus Christi Seite: Die Frau ist als eigenes Glied zu lieben
 
 Autor: Johannes Chrysostomus
 

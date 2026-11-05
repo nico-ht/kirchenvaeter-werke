@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 3
+# Wie man eine Ehefrau auswählt – Kapitel 3: Vor der Heirat bedenken: Scheidung nur bei Unzucht und Liebe zur Frau nach Christi Vorbild
 
 Autor: Johannes Chrysostomus
 

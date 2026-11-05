@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 2
+# Wie man eine Ehefrau auswählt – Kapitel 2: Bei der Heirat verdient das Seelenheil mehr Sorgfalt als die Sicherung des Vermögens
 
 Autor: Johannes Chrysostomus
 

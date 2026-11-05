@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 23
+# Wie man eine Ehefrau auswählt – Kapitel 23: Isaak liebt Rebekka wegen ihrer guten Eigenschaften und findet bei ihr Trost nach dem Tod seiner Mutter
 
 Autor: Johannes Chrysostomus
 

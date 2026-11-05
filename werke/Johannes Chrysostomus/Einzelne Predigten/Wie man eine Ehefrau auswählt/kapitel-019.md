@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 19
+# Wie man eine Ehefrau auswählt – Kapitel 19: Rebekkas Gastfreundschaft verdient größeren Lohn, weil sie dem Fremden hilft, ohne zu wissen, wer er ist
 
 Autor: Johannes Chrysostomus
 

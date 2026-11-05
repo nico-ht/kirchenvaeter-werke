@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 7
+# Wie man eine Ehefrau auswählt – Kapitel 7: Warum die Ehe ein großes Mysterium ist: Gott stiftet Liebe, die stärker ist als die Bindung an die Eltern
 
 Autor: Johannes Chrysostomus
 

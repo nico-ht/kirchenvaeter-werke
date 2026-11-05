@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 21
+# Wie man eine Ehefrau auswählt – Kapitel 21: Gottes Segen und Führung bewegen Rebekkas Familie, trotz aller Hindernisse der Heirat mit Isaak zuzustimmen
 
 Autor: Johannes Chrysostomus
 

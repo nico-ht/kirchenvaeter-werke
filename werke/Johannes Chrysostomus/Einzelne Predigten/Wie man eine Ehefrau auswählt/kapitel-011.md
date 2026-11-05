@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 11
+# Wie man eine Ehefrau auswählt – Kapitel 11: Beim frühen Tod der Frau kann die Rückzahlung ihrer Mitgift auch den eigenen Besitz aufzehren
 
 Autor: Johannes Chrysostomus
 

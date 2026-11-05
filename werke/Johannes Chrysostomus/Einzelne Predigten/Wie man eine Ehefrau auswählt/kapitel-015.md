@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 15
+# Wie man eine Ehefrau auswählt – Kapitel 15: Abrahams Diener erbittet Gastfreundschaft als Zeichen, dass die Braut zum Haus seines Herrn passt
 
 Autor: Johannes Chrysostomus
 

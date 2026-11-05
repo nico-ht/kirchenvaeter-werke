@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 12
+# Wie man eine Ehefrau auswählt – Kapitel 12: Eine Braut muss nicht reich sein, sondern mit dem Vorhandenen gut umgehen können
 
 Autor: Johannes Chrysostomus
 

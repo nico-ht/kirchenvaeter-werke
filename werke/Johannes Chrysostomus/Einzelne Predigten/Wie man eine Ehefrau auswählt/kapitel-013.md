@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 13
+# Wie man eine Ehefrau auswählt – Kapitel 13: Die Tugend der Frau festigt die Liebe und dient so dem Zweck der Ehe: der Bewahrung vor Unzucht
 
 Autor: Johannes Chrysostomus
 

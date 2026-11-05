@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 18
+# Wie man eine Ehefrau auswählt – Kapitel 18: Rebekka verbindet Bescheidenheit mit Großzügigkeit: Sie wartet auf die Bitte und gibt mehr als verlangt
 
 Autor: Johannes Chrysostomus
 

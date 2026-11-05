@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 8
+# Wie man eine Ehefrau auswählt – Kapitel 8: Christus kommt selbst zu seiner Braut, der Kirche: Darum ist die Ehe nicht leichtfertig zu behandeln
 
 Autor: Johannes Chrysostomus
 

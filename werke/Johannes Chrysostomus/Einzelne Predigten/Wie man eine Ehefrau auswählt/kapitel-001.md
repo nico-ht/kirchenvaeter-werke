@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 1
+# Wie man eine Ehefrau auswählt – Kapitel 1: Die lebenslange Bindung nach Gottes Gesetz verlangt Sorgfalt bei der Wahl einer Ehefrau
 
 Autor: Johannes Chrysostomus
 

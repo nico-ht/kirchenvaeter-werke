@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 10
+# Wie man eine Ehefrau auswählt – Kapitel 10: Nicht Reichtum, sondern der gute Charakter der Frau schafft Frieden in der Ehe
 
 Autor: Johannes Chrysostomus
 

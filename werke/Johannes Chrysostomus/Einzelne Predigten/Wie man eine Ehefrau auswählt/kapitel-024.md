@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 24
+# Wie man eine Ehefrau auswählt – Kapitel 24: Wer Abrahams, Rebekkas und Isaaks Vorbild folgt, schafft Eintracht und erzieht seine Kinder zur Tugend
 
 Autor: Johannes Chrysostomus
 

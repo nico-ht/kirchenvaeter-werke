@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 14
+# Wie man eine Ehefrau auswählt – Kapitel 14: Abraham lässt für Isaak eine tugendhafte Frau suchen und vertraut auf Gottes Verheißung
 
 Autor: Johannes Chrysostomus
 

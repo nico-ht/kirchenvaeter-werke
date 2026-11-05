@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 20
+# Wie man eine Ehefrau auswählt – Kapitel 20: Der Diener prüft Rebekkas Charakter an ihrem Auftreten und ihrer Bereitschaft, Fremde zu beherbergen
 
 Autor: Johannes Chrysostomus
 

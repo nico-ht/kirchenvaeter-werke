@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 9
+# Wie man eine Ehefrau auswählt – Kapitel 9: Gott teilt Mann und Frau ungleiche Aufgaben zu, damit sie einander brauchen und in Frieden leben
 
 Autor: Johannes Chrysostomus
 

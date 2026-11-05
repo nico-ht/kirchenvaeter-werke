@@ -1,4 +1,4 @@
-# Wie man eine Ehefrau auswählt – Kapitel 22
+# Wie man eine Ehefrau auswählt – Kapitel 22: Rebekkas Hochzeit ohne Prunk: Tugend und ein arbeitsames Leben machen Frauen schön und liebenswert
 
 Autor: Johannes Chrysostomus
 
