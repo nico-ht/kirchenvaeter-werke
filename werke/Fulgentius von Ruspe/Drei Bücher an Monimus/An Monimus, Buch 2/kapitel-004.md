@@ -1,0 +1,22 @@
+# An Monimus, Buch 2 – Kapitel 4: Das Opfer der Patriarchen bestätigt: Die Kirche opfert dem Vater und zugleich der ganzen Dreifaltigkeit
+
+Autor: Fulgentius von Ruspe
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/fulgentius-von-ruspe/fulgentius-an-monimus-buch-2#kapitel-394d61de-c9d9-4d45-3830-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Dieser Gott war Abraham erschienen, und Abraham hatte ihm einen Altar errichtet[^bible-cb262697-42c3-4c09-8e43-428bae1a81bd], gewiss zu keinem anderen Zweck, als ein Opfer darzubringen\. Auch Isaak sah ihn und errichtete ihm einen Altar[^bible-70023f6d-e23f-47b8-ae02-65d613db3b90], treu dem Glauben seines Vaters\. Denn über Isaak steht geschrieben, und zwar im Buch Genesis: „Von dort zog er hinauf zum Brunnen des Schwurs\. In jener Nacht erschien ihm der Herr und sagte zu ihm:[^bible-a96f9db4-bfb5-475e-b090-bad7e0cbc73d] ‚Ich bin der Gott deines Vaters Abraham\. Fürchte dich nicht, denn ich bin mit dir\. Ich werde dich segnen und deine Nachkommen vermehren um deines Vaters Abraham willen\.[^bible-3d71d511-4d85-4bfd-a5e3-9d07645bda86]‘ Isaak errichtete dort einen Altar und rief den Namen des Herrn an\.[^bible-6639fc86-dbbe-4f88-a549-dbce99207df6]“ Ohne Zweifel rief er den Herrn an, der ihm erschienen war und ihm den Beistand seiner Gegenwart, die Gabe des Segens und eine wachsende Zahl von Nachkommen versprochen hatte[^bible-3d71d511-4d85-4bfd-a5e3-9d07645bda86]\. Auch von Jakob wissen wir, dass er nicht einem anderen Gott einen Altar errichtete, sondern dem, der ihm erschienen war[^bible-834a9dea-e0ed-4ea7-a11f-9ec6a2c91f83]\. Mehr noch: Er tat dies nicht aus eigenem Antrieb, sondern im Gehorsam gegenüber Gottes Geboten\. Das bezeugt die Heilige Schrift mit diesen Worten: „Gott aber sagte zu Jakob:[^bible-08363c0f-38bf-419f-a6f2-a603fd77aab8] ‚Mach dich auf, zieh hinauf nach Bethel und wohne dort\. Errichte dort einen Altar für den Gott, der dir erschienen ist, als du vor deinem Bruder Esau flohst\.[^bible-08363c0f-38bf-419f-a6f2-a603fd77aab8]‘“ Und danach heißt es: „Jakob kam nach Lusa, das im Land Kanaan liegt und Bethel heißt, er und das ganze Volk, das bei ihm war\. Dort errichtete er einen Altar und gab jenem Ort den Namen Haus Gottes; denn dort war ihm Gott erschienen, als er vor seinem Bruder Esau floh\.[^bible-1e47d930-d450-48ac-809b-1c6b551d6699]“ Seht, durch den Mund von zwei und drei Zeugen[^bible-711a41ed-7711-4ed1-8194-eaa3ed5bb942] hat das Wort unseres Glaubens Bestand\. Seht, die Opfergabe der katholischen Kirche stimmt ganz mit dem Opfer der Freunde Gottes überein\. Die Kirche opfert dem Vater so, dass sie zugleich der ganzen Dreifaltigkeit opfert\. Denn auch die heiligen Patriarchen wussten, dass sie das Opfer, das sie auf Gottes Gebot hin dem Sohn darbringen sollten, zugleich dem Vater und dem Sohn als wohlgefälligen Dienst darbrachten\. Gott gebot ihnen aber, dem Sohn einen Altar zu errichten, nicht weil man dem Vater kein Opfer darbringen sollte, sondern damit das Opfer der Heiligen zugleich dem Sohn und dem Vater dargebracht würde\. Auch sollte dadurch der Sohn nicht über den Vater gestellt werden; vielmehr sollte niemand meinen, der Gezeugte sei dem Zeugenden in irgendeiner Hinsicht nachzustellen\. Zwar zweifelt also niemand daran, dass das Zeugnis des Opfers der Patriarchen die Richtigkeit unseres Glaubens bekräftigt\. Solange jemand meint, sich diesem Glauben mit verhärtetem Herzen widersetzen zu müssen, irrt er fern vom Glauben und von der Gemeinschaft der Heiligen umher\. Dennoch könnten wir auch Zeugnisse aus den Propheten anschließen, die an Festigkeit und Kraft nicht geringer sind, wenn wir nicht daran dächten, dass wir die ganze Schuld begleichen müssen, und deshalb lieber so rasch wie möglich auch zur Lösung der übrigen Streitfragen eilen wollten\.
+
+## Bibelverweise
+
+[^bible-08363c0f-38bf-419f-a6f2-a603fd77aab8]: Gen 35,1
+[^bible-1e47d930-d450-48ac-809b-1c6b551d6699]: Gen 35,6–Gen 35,7
+[^bible-3d71d511-4d85-4bfd-a5e3-9d07645bda86]: Gen 26,24
+[^bible-6639fc86-dbbe-4f88-a549-dbce99207df6]: Gen 26,25
+[^bible-70023f6d-e23f-47b8-ae02-65d613db3b90]: Gen 26,24–Gen 26,25
+[^bible-711a41ed-7711-4ed1-8194-eaa3ed5bb942]: 2Kor 13,1
+[^bible-834a9dea-e0ed-4ea7-a11f-9ec6a2c91f83]: Gen 35,7
+[^bible-a96f9db4-bfb5-475e-b090-bad7e0cbc73d]: Gen 26,23–Gen 26,24
+[^bible-cb262697-42c3-4c09-8e43-428bae1a81bd]: Gen 12,7
