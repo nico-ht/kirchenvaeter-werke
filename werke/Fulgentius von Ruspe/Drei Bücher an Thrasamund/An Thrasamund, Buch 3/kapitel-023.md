@@ -1,0 +1,19 @@
+# An Thrasamund, Buch 3 – Kapitel 23: Christi freiwilliges Leiden setzt die vollkommene Macht seiner leidensunfähigen Gottheit voraus
+
+Autor: Fulgentius von Ruspe
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/fulgentius-von-ruspe/fulgentius-an-thrasamund-buch-3#kapitel-528639a7-3fca-472e-38ea-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wir müssen also glauben, dass in den Worten „Ich habe die Macht, meine Seele hinzugeben[^bible-3d23fa12-8255-4fe2-bd79-60bb02dcb190]“ der ganze Mensch spricht\. Denn er gab sich als Ganzer hin und brachte sich als ganzer Mensch selbst dar[^bible-dc2e2e83-7617-441a-add2-a9ec39fad0e7]\. Von ihm sagt der Apostel: „Lebt in Liebe, wie auch Christus uns geliebt und sich selbst für uns hingegeben hat als Gabe und Opfer für Gott, zu lieblichem Duft\.[^bible-dc2e2e83-7617-441a-add2-a9ec39fad0e7]“ Ebenso gab er als ganzer Mensch seine Seele hin[^bible-3d23fa12-8255-4fe2-bd79-60bb02dcb190], als beim Tod des Fleisches am Kreuz die Seele schied\. Doch die Gottheit verließ auch im Tod dieses Fleisch nicht, wie sie auch in der Unterwelt die Seele nicht verließ\. Von dieser hatte auch der Prophet gesagt: „Du wirst meine Seele nicht in der Unterwelt zurücklassen\.[^bible-b6915fa2-7a32-4869-938a-f5b4691bf824]“ Wenn nun der Mensch Christus so große Macht empfangen hat, dass er seine Seele hingeben konnte, wann er wollte, und sie wieder an sich nehmen konnte, wann er wollte[^bible-3d23fa12-8255-4fe2-bd79-60bb02dcb190], wie groß konnte dann erst die Macht der Gottheit Christi sein, bei der Wollen und Können immer dasselbe sind? Denn an dieser Stelle hat die wahrhaft leidensunfähige und unbesiegbare Gottheit alle lügenhaften Erfindungen der Häresie restlos zunichtegemacht\. Wenn nämlich die Macht dessen, der dies sagte, uneingeschränkt war, dann war die Schwäche dessen, der litt, freiwillig\. Der Wille aber, der aus der Macht hervorging, bewahrte gewiss Gottheit und Menschheit in ihrer wahren Natur\. Denn wenn es in der Gottheit Christi irgendeine Schwäche gab, fehlte ihr zweifellos die ihrer Natur eigene Macht\. Wie aber konnte die Menschheit die Macht haben zu leiden, wenn die Gottheit nicht vollkommen leidensunfähig sein konnte? Man muss also erkennen: Wo von Natur aus die Macht vollkommen ist, kann es keine Schwäche des Leidens geben\. Denn die Macht Christi, durch die er unsterblich blieb, als er im Fleisch starb und seine Seele hingab[^bible-3d23fa12-8255-4fe2-bd79-60bb02dcb190], blieb selbst frei von Traurigkeit, als Christus kraft seiner Macht freiwillig die Traurigkeit seiner Seele[^bible-287d29e3-3a42-4221-bbb1-1e469bcccc58] ertrug\. Jener Mensch aber hatte deshalb die Macht, seine Seele hinzugeben[^bible-3d23fa12-8255-4fe2-bd79-60bb02dcb190], weil die göttliche Macht ihn in die Einheit der Person aufgenommen hatte\. Welche Macht aber ist vollkommen, wenn nicht allein die Gottheit? Von ihr heißt es: „Alles, was sie wollte, hat sie getan[^bible-2f1dffce-c6ec-4514-a147-a1ae4073e229]“, und zu ihr wird gesagt: „Denn wann immer du willst, steht dir die Macht zu Gebote\.[^bible-1426457b-4ceb-40f3-99a0-3d1a8a2a713a]“ Deshalb glaubt man mit Recht an die vollkommene Macht dessen, dem es von Natur aus zukommt, so viel zu können, wie er will, und so viel zu wollen, wie er kann\.
+
+## Bibelverweise
+
+[^bible-1426457b-4ceb-40f3-99a0-3d1a8a2a713a]: Weish 12,18
+[^bible-287d29e3-3a42-4221-bbb1-1e469bcccc58]: Mt 26,38
+[^bible-2f1dffce-c6ec-4514-a147-a1ae4073e229]: Ps 113,11
+[^bible-3d23fa12-8255-4fe2-bd79-60bb02dcb190]: Joh 10,18
+[^bible-b6915fa2-7a32-4869-938a-f5b4691bf824]: Ps 15,10
+[^bible-dc2e2e83-7617-441a-add2-a9ec39fad0e7]: Eph 5,2

@@ -1,0 +1,17 @@
+# An Thrasamund, Buch 3 – Kapitel 10: Würde Christi Gottheit durch die Fleischannahme leidensfähig, wäre sie veränderlich
+
+Autor: Fulgentius von Ruspe
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/fulgentius-von-ruspe/fulgentius-an-thrasamund-buch-3#kapitel-0c58f3ac-0526-48e0-38dd-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch vielleicht wird man sagen, es heiße deshalb, Christus habe im Fleisch gelitten[^bible-e0907c40-1c53-4bbb-b7ef-58119f2ba98f], weil die Gottheit, die vor der Annahme des Fleisches nicht leiden konnte, nachdem sie leidensfähiges Fleisch angenommen hatte, auch zusammen mit dem Fleisch das Leiden empfunden habe\. Denn aufgrund der Annahme des leidensfähigen Fleisches habe sie selbst im Leiden nicht leidensunfähig bleiben können\. Wenn das so ist, wird zunächst behauptet, die Gottheit Christi sei veränderlich\. Damit widerspricht man dem Apostel, der Jesus Christus, den Sohn Gottes, als unveränderlich verkündet und den Korinthern ausdrücklich sagt: „Denn der Sohn Gottes, Jesus Christus, der unter euch durch uns verkündet wurde, durch mich, Silvanus und Timotheus, war nicht Ja und Nein, sondern in ihm war das Ja\.[^bible-f1bcfa45-6651-4e5a-9a0b-39448d204cae]“ Um zu zeigen, dass dieses Ja gänzlich unveränderlich ist, spricht er wiederum zu den Hebräern und erinnert dort ausdrücklich daran, dass vom Sohn gesagt wurde: „Du hast im Anfang, Herr, die Erde gegründet, und die Himmel sind das Werk deiner Hände\. Sie werden vergehen, du aber bleibst; sie alle werden wie ein Gewand verschleißen\. Wie einen Mantel wirst du sie wechseln, und sie werden verändert werden; du aber bist derselbe\.[^bible-fe2f8d32-85a4-4623-9748-02512496999e]“ Was aber bedeutet es, derselbe zu sein, wenn nicht, unveränderlich zu sein? So bezeugt er selbst von sich: „Ich bin, der ich bin; und du sollst den Söhnen Israels sagen:[^bible-b84a7b8b-0482-4b11-99ac-03e25881ca9f]“ „Der, der ist, hat mich zu euch gesandt\.[^bible-b84a7b8b-0482-4b11-99ac-03e25881ca9f]“ Wenn nun jemand einen Unterschied in der Gottheit zwischen Vater und Sohn nachweisen will und behauptet, die Stelle, an der es heißt: „Ich bin, der ich bin[^bible-b84a7b8b-0482-4b11-99ac-03e25881ca9f]“, treffe allein auf die Person des Vaters zu, dann soll er zunächst bedenken, dass er damit zugesteht, der Vater sei Mose erschienen\. Sodann soll er bedenken: Wenn der Vater dort in seiner eigenen Substanz erschienen ist, dann war der Vater sichtbar\. Bleibt er aber auch jetzt sichtbar, dann ist Gott für körperliche Augen nicht unsichtbar\. Nimmt man hingegen an, dass er damals in seiner Substanz gesehen wurde und erst später unsichtbar geworden ist, dann wäre Gott zuvor der Veränderlichkeit unterworfen und somit unvollkommen gewesen\. Erst später wäre er durch Fortschritt unveränderlich geworden und hätte den Zustand voller Vollkommenheit erlangt\. Wenn er aber unvollkommen war und vollkommen geworden ist, muss man einen anderen suchen, von dem man glaubt, dass er immer vollkommen gewesen ist, und von dem jener, der unvollkommen war, die Gabe der Vollkommenheit empfangen hat\.
+
+## Bibelverweise
+
+[^bible-b84a7b8b-0482-4b11-99ac-03e25881ca9f]: Ex 3,14
+[^bible-e0907c40-1c53-4bbb-b7ef-58119f2ba98f]: 1Petr 4,1
+[^bible-f1bcfa45-6651-4e5a-9a0b-39448d204cae]: 2Kor 1,19
+[^bible-fe2f8d32-85a4-4623-9748-02512496999e]: Hebr 1,10–Hebr 1,12

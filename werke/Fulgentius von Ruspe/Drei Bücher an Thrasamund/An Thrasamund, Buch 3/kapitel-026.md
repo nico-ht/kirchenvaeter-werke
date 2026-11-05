@@ -1,0 +1,21 @@
+# An Thrasamund, Buch 3 – Kapitel 26: Christus lebt aus seiner eigenen Gottheit, deren Kraft und Leben auch in seinem Tod untrennbar bleiben
+
+Autor: Fulgentius von Ruspe
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/fulgentius-von-ruspe/fulgentius-an-thrasamund-buch-3#kapitel-73167697-a264-414d-38ed-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Indem der Apostel diese Einheit der Person in Christus wahrt, bestärkt er die Kirche von Korinth im Glauben an die Wahrheit: „Denn ich habe euch vor allem überliefert, was ich auch empfangen habe: dass Christus für unsere Sünden gestorben ist gemäß den Schriften, dass er begraben wurde und dass er am dritten Tag auferstanden ist gemäß den Schriften\.[^bible-3726398b-d94d-4a06-b4ed-66ca317288e4]“ Er sagte, „Christus sei gestorben[^bible-96837ade-2512-4039-a838-ca3f6b73fee6]“, nicht der Leib Christi, um die Einheit der Person von Gott und Mensch zu wahren\. Um aber die jeweilige Wesenseigenart von Gottheit und Menschheit aufzuzeigen, sagt er an anderer Stelle, wie wir bereits weiter oben angeführt haben: „Denn er wurde zwar aus Schwachheit gekreuzigt, lebt aber aus Gottes Kraft\.[^bible-5f4d6c6a-f3dd-4b01-9fd8-580294cd3319]“ Die außerordentliche Kraft der apostolischen Worte verdient Beachtung\. Wenn Paulus nämlich von Christus gesagt hätte: „Er wurde aus Schwachheit gekreuzigt, lebt aber aus Kraft[^bible-5f4d6c6a-f3dd-4b01-9fd8-580294cd3319]“, ohne „Gottes[^bible-5f4d6c6a-f3dd-4b01-9fd8-580294cd3319]“ hinzuzufügen, hätte man auch dann die Schwachheit der menschlichen Leidensfähigkeit nicht mit der Leidensunfähigkeit der göttlichen Kraft vermengen dürfen\. Da Paulus aber die Kraft der Gottheit zuweist, wer sieht da nicht, dass er das, was sich als Schwachheit zeigt, dem Menschen zuschreibt? Denn wenn er von Christus sagt: „Er lebt aus Gottes Kraft[^bible-5f4d6c6a-f3dd-4b01-9fd8-580294cd3319]“, so lebt Christus gewiss aus seiner eigenen Gottheit, weil er selbst Gottes Kraft ist[^bible-8af02d3c-a3a5-43bb-9e25-5b163d570837]\. Und er lebt so, wie der Vater lebt, denn er selbst ist der Weg, die Wahrheit und das Leben[^bible-11956b67-5a3e-476e-b3e5-99e366490426]\. Um uns nämlich das eine Leben des Vaters und des Sohnes nahezubringen, hat der Apostel Johannes seinen Brief bewusst mit diesen Worten begonnen: „Was von Anfang an war, was wir gehört haben, was wir mit unseren Augen gesehen haben, was wir betrachtet haben und was unsere Hände vom Wort des Lebens berührt haben; und das Leben ist offenbar geworden, und wir haben es gesehen und bezeugen es und verkünden euch das ewige Leben, das beim Vater war und uns offenbar geworden ist\.[^bible-fdb9f512-dcb7-4233-b561-545e939db8c5]“ Den Sohn Gottes, den er zuvor das Wort Gottes genannt hat, bezeichnet er im Folgenden als „Leben[^bible-fcd5ff25-fc38-487c-b064-a9ebfd493b43]“\. Was aber ist das „Wort des Lebens[^bible-c36398e5-bdc5-460d-819c-8c5169ffbf29]“ anderes als das Wort Gottes? Und weil das Wort das Leben des Lebens ist, sind jenes Wort des Lebens[^bible-c36398e5-bdc5-460d-819c-8c5169ffbf29] und das Leben, dessen Wort es ist, gewiss ein einziges Leben\. Deshalb also lebt Christus, der aus Schwachheit gestorben ist, aus Gottes Kraft[^bible-5f4d6c6a-f3dd-4b01-9fd8-580294cd3319]: Für diese Gottheit bedeutet Leben zu sein dasselbe wie Kraft zu sein, und deshalb bedeutet für sie Macht zu haben dasselbe wie zu leben\. Darum hat weder im Leiden das Leben die Kraft verlassen, noch hat sich im Tod Christi die Kraft vom Leben getrennt, denn die Gottheit Christi, die Kraft und Leben ist, konnte sich nicht verändern\.
+
+## Bibelverweise
+
+[^bible-11956b67-5a3e-476e-b3e5-99e366490426]: Joh 14,6
+[^bible-3726398b-d94d-4a06-b4ed-66ca317288e4]: 1Kor 15,3–1Kor 15,4
+[^bible-5f4d6c6a-f3dd-4b01-9fd8-580294cd3319]: 2Kor 13,4
+[^bible-8af02d3c-a3a5-43bb-9e25-5b163d570837]: 1Kor 1,24
+[^bible-96837ade-2512-4039-a838-ca3f6b73fee6]: 1Kor 15,3
+[^bible-c36398e5-bdc5-460d-819c-8c5169ffbf29]: 1Joh 1,1
+[^bible-fcd5ff25-fc38-487c-b064-a9ebfd493b43]: 1Joh 1,2
+[^bible-fdb9f512-dcb7-4233-b561-545e939db8c5]: 1Joh 1,1–1Joh 1,2
