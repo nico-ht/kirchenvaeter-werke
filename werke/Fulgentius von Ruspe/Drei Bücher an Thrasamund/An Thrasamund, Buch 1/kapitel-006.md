@@ -1,0 +1,17 @@
+# An Thrasamund, Buch 1 – Kapitel 6: Johannes bezeugt die ewige Geburt des Wortes, seine personale Eigenart und seine Wesenseinheit mit dem Vater
+
+Autor: Fulgentius von Ruspe
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/fulgentius-von-ruspe/fulgentius-an-thrasamund-buch-1#kapitel-692a2000-30c7-4ee0-3891-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Auch Photinus, der bekennt, dass Christus seinen Anfang aus der Jungfrau genommen hat, kennt das große Geheimnis der Frömmigkeit[^bible-4b4100c7-c049-4adb-9158-d06c1896f2a9] nicht, von dem der Apostel spricht\. Er verkennt, dass man in dem einen Christus an das wahre, in der Zeit entstandene Fleisch glauben muss, ohne seine von Natur aus wahre, ewige Gottheit aus dem Vater zu leugnen\. Deshalb glaubt er nicht, dass derjenige, dessen wahres Fleisch aus der Jungfrau er bekennt, als Gott ohne Anfang seiner Substanz nach aus Gott dem Vater geboren ist\. Er versteht nicht, dass jenes Wort seiner Substanz nach aus Gott dem Vater geboren ist, das in der Fülle der Zeiten[^bible-f38a61d6-8049-4e43-8f4d-1a81cb403911] Fleisch geworden ist und in uns wohnt[^bible-e1bc5e2b-96d3-4d29-a342-a9c7429ea66b] und das seiner göttlichen Substanz nach, die es aus dem Vater hat, im Anfang war und bei Gott war und Gott war[^bible-84f844d4-f3a5-4ba5-ba76-5737923fac74]\. Mit diesen drei Aussagen des Evangelisten werden die ewige Geburt des Wortes, die unvermischte Eigenart seiner Person und die ungeteilte Einheit der Substanz von Vater und Sohn aufgezeigt\. Beim Wort, das Fleisch geworden ist und in uns wohnt[^bible-e1bc5e2b-96d3-4d29-a342-a9c7429ea66b], soll also die Erkenntnis seiner Ewigkeit, die darin liegt, dass es im Anfang war[^bible-84f844d4-f3a5-4ba5-ba76-5737923fac74], die Vermutung ausschließen, seine Geburt habe einen Anfang gehabt\. Dass es bei Gott war[^bible-84f844d4-f3a5-4ba5-ba76-5737923fac74], zeigt die unvermischte Eigenart beider Personen und soll damit ihre Gleichsetzung im Irrtum des Sabellius ausschließen\. Dass es aber Gott war[^bible-84f844d4-f3a5-4ba5-ba76-5737923fac74], soll durch die Wahrheit dieses Namens, der sein Wesen bezeichnet, die Einheit der Substanz des Zeugenden und des Gezeugten aufzeigen\. Johannes sagte nämlich nicht: „Das Wort wurde Gott genannt“, sondern: „Das Wort war Gott\.[^bible-84f844d4-f3a5-4ba5-ba76-5737923fac74]“ Indem erkannt wird, dass das göttliche Wesen im Wort, das Gott ist, seiner Natur nach wahrhaft besteht, sollte folgerichtig erwiesen werden, dass dieser Name nicht bloß eine Benennung ist, sondern wahrhaft seine Natur bezeichnet\. Denn einer wahren Natur kann niemals der ihr wahrhaft zukommende Name genommen werden\. So glauben wir nur dann zu unserem Heil an die wahre Fleischwerdung jenes Wortes, das nicht bloß ausgesprochen wird, sondern als Substanz besteht, wenn wir glauben: Das ewige Wort, das in der Zeit Fleisch angenommen hat, ist in seinem Dasein ohne Anfang, ist als Person nicht mit dem Vater vermischt und ist seiner Natur nach nichts anderes als Gott\.
+
+## Bibelverweise
+
+[^bible-4b4100c7-c049-4adb-9158-d06c1896f2a9]: 1Tim 3,16
+[^bible-84f844d4-f3a5-4ba5-ba76-5737923fac74]: Joh 1,1
+[^bible-e1bc5e2b-96d3-4d29-a342-a9c7429ea66b]: Joh 1,14
+[^bible-f38a61d6-8049-4e43-8f4d-1a81cb403911]: Gal 4,4

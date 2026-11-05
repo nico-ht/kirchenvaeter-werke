@@ -1,0 +1,19 @@
+# An Thrasamund, Buch 1 – Kapitel 11: Petrus’ Aufruf zur Nachfolge setzt Christi Gerechtigkeit und Geduld in Seele und Fleisch voraus
+
+Autor: Fulgentius von Ruspe
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/fulgentius-von-ruspe/fulgentius-an-thrasamund-buch-1#kapitel-37914558-1597-4210-3896-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Keinesfalls darf auch übergangen werden, was Petrus in seiner Verkündigung als großes Wunder an Christus hervorhebt: dass er keine Sünde begangen hat und sich in seinem Mund kein Betrug fand[^bible-f8585a8d-d6dd-44f4-a32b-fe534efc1f0c]\. Denn er sagt: „Christus ist für uns gestorben und hat euch ein Vorbild hinterlassen, damit ihr seinen Spuren folgt\. Er hat keine Sünde begangen, und in seinem Mund fand sich kein Betrug\.[^bible-26969e45-519b-4058-b812-716cb97710fa]“ Wenn nun der Sohn Gottes keine menschliche Seele hatte, als er Fleisch annahm, und man glaubt, der selige Petrus habe dies von seiner Gottheit gesagt: Warum wird es dann zum Lob Christi als etwas Großes hervorgehoben, dass seine Gottheit vom Makel der Sünde frei bleiben konnte? Gott ist es doch eigen, nicht nur nicht zu sündigen, sondern auch von der Sünde zu retten\. Er allein kann Vergebung schenken, weil er allein sich nicht schuldig machen kann; er allein ist der Arzt der Verwundeten, weil die göttliche Natur niemals selbst eine Wunde erleidet\. Glaubt man aber, dies sei auf das Fleisch Christi zu beziehen, wie sollen dann unsere Seelen die Gerechtigkeit bewahren können, wenn ihnen Christus durch das, was er angenommen hat, das vom Apostel genannte Vorbild nicht gegeben hat? Doch der selige Petrus wollte zeigen, dass die Gerechtigkeit, die er uns nachzuahmen gebietet, sowohl in der Seele als auch im Fleisch Christi bereits verwirklicht war\. Deshalb fügte er hinzu: „Als er beschimpft wurde, antwortete er nicht mit Beschimpfungen\.[^bible-8f1c775c-1f1f-46c0-90f8-d40b2fe3fdff]“ Das bezieht sich im eigentlichen Sinn auf die Geduld der Seele\. Deshalb sagt er auch an anderer Stelle: „Vergeltet nicht Böses mit Bösem oder Beschimpfung mit Beschimpfung, sondern segnet vielmehr; denn dazu seid ihr berufen, damit ihr den Segen des Erbes erlangt\.[^bible-bab1d221-e57a-4765-a281-ea9bd88b4d41]“ Dass dieser Segen seinen Ursprung im Herzen hat, hebt unser Retter mit den Worten hervor: „Ein guter Mensch bringt aus dem guten Schatz seines Herzens Gutes hervor\.[^bible-4311a86d-81cd-4c8c-b2a8-a7ae47c8b4dc]“ Also steht fest, dass das Wohlwollen in der Seele liegt; aus ihm können wir denen, die uns beschimpfen, mit Segen antworten\. Um uns aber in Christus ein Vorbild sowohl für die Seele als auch für das Fleisch zu zeigen, fügte der selige Petrus, nachdem er gesagt hatte: „Als er beschimpft wurde, antwortete er nicht mit Beschimpfungen[^bible-8f1c775c-1f1f-46c0-90f8-d40b2fe3fdff]“, noch hinzu: „Als er litt, drohte er nicht\. Vielmehr vertraute er sich dem an, der gerecht richtet\. Er hat unsere Sünden in seinem Leib auf das Holz getragen, damit wir, von unseren Sünden getrennt, in Gerechtigkeit leben\. Durch seine Strieme seid ihr geheilt worden\. Ihr irrtet umher wie Schafe; jetzt aber kehrt ihr zum Hirten und Hüter eurer Seelen zurück\.[^bible-b4f50ba4-ec9c-4394-897c-5e87d2ef35be]“
+
+## Bibelverweise
+
+[^bible-26969e45-519b-4058-b812-716cb97710fa]: 1Petr 2,21–1Petr 2,22
+[^bible-4311a86d-81cd-4c8c-b2a8-a7ae47c8b4dc]: Mt 12,35
+[^bible-8f1c775c-1f1f-46c0-90f8-d40b2fe3fdff]: 1Petr 2,23
+[^bible-b4f50ba4-ec9c-4394-897c-5e87d2ef35be]: 1Petr 2,23–1Petr 2,25
+[^bible-bab1d221-e57a-4765-a281-ea9bd88b4d41]: 1Petr 3,9
+[^bible-f8585a8d-d6dd-44f4-a32b-fe534efc1f0c]: 1Petr 2,22
