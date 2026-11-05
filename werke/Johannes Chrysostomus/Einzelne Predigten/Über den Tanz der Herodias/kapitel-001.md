@@ -1,4 +1,4 @@
-# Über den Tanz der Herodias – Kapitel 1
+# Über den Tanz der Herodias – Kapitel 1: Herodes verdunkelt sich durch den Mord an Johannes, doch dessen Glaubenslicht leuchtet weiter im Hades
 
 Autor: Johannes Chrysostomus
 

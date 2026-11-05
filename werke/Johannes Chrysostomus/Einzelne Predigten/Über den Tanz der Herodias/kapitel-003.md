@@ -1,4 +1,4 @@
-# Über den Tanz der Herodias – Kapitel 3
+# Über den Tanz der Herodias – Kapitel 3: Herodes und sein Nachkomme lehren die Juden das Morden und treiben sie zur Kreuzigung Christi
 
 Autor: Johannes Chrysostomus
 

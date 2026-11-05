@@ -1,4 +1,4 @@
-# Über den Tanz der Herodias – Kapitel 2
+# Über den Tanz der Herodias – Kapitel 2: Herodes macht seinen Eid zum Vorwand für den Mord an Johannes, doch ihn treibt die Begierde
 
 Autor: Johannes Chrysostomus
 
