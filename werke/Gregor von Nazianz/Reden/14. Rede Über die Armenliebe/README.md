@@ -1,0 +1,48 @@
+# 14. Rede: Über die Armenliebe
+
+Gregor von Nazianz
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nazianz/14-rede-ueber-die-armenliebe) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- [Kapitel 1: Die Rede über Armenliebe führt von der gemeinsamen Armut vor Gott zur Frage nach der höchsten Tugend](kapitel-001.md)
+- [Kapitel 2: Christus und biblische Vorbilder bezeugen den Wert der Tugenden](kapitel-002.md)
+- [Kapitel 3: Eifer für Gott und Selbstbeherrschung sind gut, wie Jesus und die Heiligen durch ihr Handeln zeigen](kapitel-003.md)
+- [Kapitel 4: Betrachtung erhebt den Geist, Handeln nimmt Christus auf und erweist Liebe durch Taten](kapitel-004.md)
+- [Kapitel 5: Armenliebe ist die höchste Form der Liebe, weil nichts Gott so eigen ist wie Barmherzigkeit](kapitel-005.md)
+- [Kapitel 6: Allen Leidenden schulden wir Erbarmen, besonders denen, deren Körper von Krankheit zerfressen ist](kapitel-006.md)
+- [Kapitel 7: Die Schwäche des Körpers soll uns trotz unserer Würde als Gottes Ebenbild vor Hochmut bewahren](kapitel-007.md)
+- [Kapitel 8: Weil wir in Christus eins sind, müssen wir für den Körper des Nächsten wie für den eigenen sorgen](kapitel-008.md)
+- [Kapitel 9: Krankheit hindert die Armen am Broterwerb, doch noch schwerer trifft sie die Verachtung ihrer Mitmenschen](kapitel-009.md)
+- [Kapitel 10: Aus vermeintlichem Selbstschutz meiden wir entstellte Kranke und vergessen, dass sie unseresgleichen sind](kapitel-010.md)
+- [Kapitel 11: Während Verbrecher Aufnahme finden, werden Kranke selbst von ihren Eltern verstoßen](kapitel-011.md)
+- [Kapitel 12: Wir vertreiben die Kranken, doch verweigerte Versorgung zwingt sie zurück unter die Menschen](kapitel-012.md)
+- [Kapitel 13: Den Festgesängen antwortet das Klagen der Kranken – manchmal ist mitfühlende Trauer mehr wert als Freude](kapitel-013.md)
+- [Kapitel 14: Die Kranken bleiben trotz zerstörter Körper Gottes Ebenbild und sind mit uns Erben des himmlischen Lebens](kapitel-014.md)
+- [Kapitel 15: Christi Vorbild und unsere gemeinsame Schwäche verbieten uns, die Kranken im Stich zu lassen](kapitel-015.md)
+- [Kapitel 16: Dürfen wir uns mit Luxus verwöhnen, während hilflosen Kranken das Lebensnotwendige fehlt?](kapitel-016.md)
+- [Kapitel 17: Im maßlosen Luxus werden wir zu Sklaven des Bauches und ärgern uns über die Bitten der Armen](kapitel-017.md)
+- [Kapitel 18: Christus alles hingeben oder den Besitz durch Teilen mit Bedürftigen heiligen](kapitel-018.md)
+- [Kapitel 19: Menschenliebe ist Vorsorge für die Zukunft, weil menschliches Glück jederzeit umschlagen kann](kapitel-019.md)
+- [Kapitel 20: Gott hat irdische Güter vergänglich gemacht, damit wir uns dem Künftigen zuwenden](kapitel-020.md)
+- [Kapitel 21: Weise ist, wer Schein und Wahrheit unterscheidet und mit Christus vom Irdischen zum Himmlischen aufsteigt](kapitel-021.md)
+- [Kapitel 22: Wir können Gottes Freigebigkeit nicht übertreffen, weil wir nur geben, was wir von ihm empfangen haben](kapitel-022.md)
+- [Kapitel 23: Gott fordert Menschenliebe als Dank für seine Gaben, doch Luxus verführt zur Verachtung der Mitmenschen](kapitel-023.md)
+- [Kapitel 24: Die Propheten verurteilen das Horten von Schätzen und den Luxus ohne Mitgefühl für die Armen](kapitel-024.md)
+- [Kapitel 25: Gott gab allen gemeinsam die Lebensgrundlagen; erst die Bosheit brachte Armut, Reichtum und Sklaverei](kapitel-025.md)
+- [Kapitel 26: Notleidenden helfen heißt, die ursprüngliche Gleichheit zu ehren und Gottes Erbarmen nachzuahmen](kapitel-026.md)
+- [Kapitel 27: Helft zuerst der Seele, wenigstens aber dem Leib – und lasst Erbarmen die Angst vor Ansteckung überwinden](kapitel-027.md)
+- [Kapitel 28: Helft nach euren Kräften: Schon Tieren gebietet das Gesetz Beistand, erst recht Menschen gleicher Würde](kapitel-028.md)
+- [Kapitel 29: Wer Gottes Beschluss gegen Armenhilfe anführt, verkennt seinen Wohlstand als Gottes Gabe](kapitel-029.md)
+- [Kapitel 30: Leid und Wohlstand sind keine sicheren Zeichen für Schuld und Verdienst, denn Gottes Wege sind unergründlich](kapitel-030.md)
+- [Kapitel 31: Erst im kommenden Leben wird uneingeschränkt gerecht vergolten; auch irdische Ungleichheit folgt Gottes Ordnung](kapitel-031.md)
+- [Kapitel 32: Unkenntnis der göttlichen Vorsehung ist kein Beweis für eine vernunftlose Weltordnung](kapitel-032.md)
+- [Kapitel 33: Der Schöpfer erhält die Welt durch seine Vorsehung und wacht auch über unser Leben in seinen Gegensätzen](kapitel-033.md)
+- [Kapitel 34: Heilige Krankheit ist besser als Gesundheit ohne Einsicht, dankbare Armut besser als ungerechter Reichtum](kapitel-034.md)
+- [Kapitel 35: Die Schrift schärft Armenhilfe als vorrangiges Gebot ein: Gott vergisst die Bedürftigen nicht](kapitel-035.md)
+- [Kapitel 36: Arme und Reiche sind gleichermaßen Gottes Geschöpfe; wer Bedürftigen hilft, ehrt ihren Schöpfer](kapitel-036.md)
+- [Kapitel 37: Christus heilt die Wunden unserer Seele, wenn wir den Leidenden mit Erbarmen begegnen](kapitel-037.md)
+- [Kapitel 38: Menschenliebe duldet keinen Aufschub: Wohltaten sollen bereitwillig und mit Freude geschehen](kapitel-038.md)
+- [Kapitel 39: Menschenliebe ist Pflicht: Christus verurteilt, wer ihm in den Bedürftigen nicht dient](kapitel-039.md)
+- [Kapitel 40: Christus ehren wir durch Hilfe für die Bedürftigen, denn er will Barmherzigkeit statt Opfer](kapitel-040.md)

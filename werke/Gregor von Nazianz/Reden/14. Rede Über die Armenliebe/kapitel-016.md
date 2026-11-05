@@ -1,0 +1,10 @@
+# 14\. Rede: Über die Armenliebe – Kapitel 16: Dürfen wir uns mit Luxus verwöhnen, während hilflosen Kranken das Lebensnotwendige fehlt?
+
+Autor: Gregor von Nazianz
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nazianz/14-rede-ueber-die-armenliebe#kapitel-a4f0fa4e-0179-49b6-0af6-08df1b0f8e2b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Aber sollen sie unter freiem Himmel Elend leiden, während wir in überaus prächtigen Häusern wohnen, geschmückt mit Steinen aller Art, strahlend von Gold und Silber, von fein gefügten Mosaiken und farbenreichen Gemälden, diesen trügerischen Lockmitteln für die Augen? Die einen Häuser werden wir bewohnen, die anderen bauen\. Für wen? Vielleicht nicht einmal für unsere Erben, sondern für Fremde, die uns fernstehen, und unter diesen vielleicht nicht einmal für Menschen, die uns lieben, sondern für unsere erbittertsten Feinde und Neider, was das schlimmste aller Übel ist\. Sollen sie in abgetragenen, zerrissenen Lumpen frieren, ja vielleicht nicht einmal diese haben, während wir uns mit weichen, wallenden Kleidern und luftigen Geweben aus Leinen und Seide verwöhnen? Mit den einen werden wir uns eher Schande machen als glänzen \(so nenne ich nämlich alles Überflüssige und Übertriebene\); die anderen werden bei uns im Haus liegen, eine nutzlose und vergebliche Sorge, Fraß für Motten und für die Zeit, die alles aufzehrt\. Und sollen sie nicht einmal die nötige Nahrung haben \(welch ein Wohlleben bei mir, welch ein Elend bei ihnen\!\), sondern erschöpft und hungernd vor unseren Türen liegen, ohne körperlich auch nur zum Betteln imstande zu sein: ohne Stimme, um zu klagen, ohne Hände, um sie flehend auszustrecken, ohne Füße, um zu den Besitzenden zu gehen, ohne Atem, um ihrer Wehklage Kraft zu geben, wobei sie das schwerste aller Übel für das leichteste halten und allein ihren Augen dankbar sind, weil sie ihre eigene Entstellung nicht sehen?

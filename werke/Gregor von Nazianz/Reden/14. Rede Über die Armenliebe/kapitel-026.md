@@ -1,0 +1,10 @@
+# 14\. Rede: Über die Armenliebe – Kapitel 26: Notleidenden helfen heißt, die ursprüngliche Gleichheit zu ehren und Gottes Erbarmen nachzuahmen
+
+Autor: Gregor von Nazianz
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nazianz/14-rede-ueber-die-armenliebe#kapitel-18ebc8be-5f86-496d-0b00-08df1b0f8e2b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Als aber Neid, Streit und die trügerische Tyrannei der Schlange aufkamen, die immer wieder mit dem Reiz der Lust verführt und die Dreisteren gegen die Schwächeren aufhetzt, zerbrach die Verwandtschaft unter den Menschen: Unterschiedliche Bezeichnungen entfremdeten sie einander\. Die Habsucht zerriss den Adel unserer Natur und zog auch das Gesetz als Helfer der Gewaltherrschaft heran\. Du aber, bitte ich dich, sieh auf die ursprüngliche Gleichberechtigung, nicht auf die spätere Spaltung; nicht auf das Gesetz dessen, der die Herrschaft errungen hat, sondern auf das des Schöpfers\. Steh der menschlichen Natur nach Kräften bei, ehre die ursprüngliche Freiheit, achte dich selbst, hilf mit, die Schmach des Menschengeschlechts zuzudecken, leiste bei Krankheit Hilfe und lindere die Not\. Hilf du als Gesunder dem Kranken und als Reicher dem Armen; wenn du nicht gestrauchelt bist, hilf dem, der gefallen ist und zerschmettert daliegt; wenn du froh bist, dem Mutlosen, und wenn du im Glück lebst, dem, der unter Unglück leidet\. Gib Gott etwas zum Dank dafür, dass du zu denen gehörst, die Gutes tun können, und nicht zu denen, die auf Wohltaten angewiesen sind; dass du nicht auf fremde Hände blicken musst, sondern andere auf deine\. Werde reich nicht nur an Besitz, sondern auch an Frömmigkeit; nicht nur an Gold, sondern auch an Tugend, oder vielmehr: an ihr allein\. Werde angesehener als dein Nächster, indem du dich gütiger erweist\. Werde dem Unglücklichen ein Gott, indem du Gottes Erbarmen nachahmst\.

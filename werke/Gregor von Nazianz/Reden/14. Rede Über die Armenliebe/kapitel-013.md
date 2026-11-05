@@ -1,0 +1,10 @@
+# 14\. Rede: Über die Armenliebe – Kapitel 13: Den Festgesängen antwortet das Klagen der Kranken – manchmal ist mitfühlende Trauer mehr wert als Freude
+
+Autor: Gregor von Nazianz
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nazianz/14-rede-ueber-die-armenliebe#kapitel-c43c2346-ed30-4536-0af3-08df1b0f8e2b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wer wird nicht von ihren Klagen erschüttert, wenn sich ihre Stimmen zu einem jammervollen Zusammenklang vereinen? Welches Ohr erträgt diese Laute? Welches Auge diesen Anblick? Die einen liegen beieinander, durch die Krankheit auf elende Weise aneinandergebunden, und jeder trägt mit einer anderen Seite seines Unglücks zum Bild des Jammers bei\. So vergrößern sie einander das Leid: erbarmungswürdig in ihrer Krankheit, noch erbarmungswürdiger, weil sie auch miteinander leiden\. Um sie herum steht eine bunt gemischte Zuschauermenge, die zwar mitleidet, aber nur für kurze Zeit\. Die anderen wälzen sich den Menschen zu Füßen, gequält von Sonne und Staub, manchmal auch von grimmiger Kälte, Regengüssen und stürmischen Winden\. Nur deshalb werden sie nicht auch noch zertreten, weil wir uns davor ekeln, sie auch nur zu berühren\. Auf die heiligen Gesänge drinnen antwortet ihr flehendes Wehklagen, und den Rufen der Mysterienfeier tönt ein erbarmungswürdiger Klagegesang entgegen\. Warum soll ich Menschen, die ein Fest feiern, ihr ganzes Unglück vor Augen stellen? Vielleicht könnte ich auch euch zum Klagen bringen, wenn ich alles bis ins Einzelne als Trauerspiel ausmale; dann wird das Leid über das Fest siegen\. Das sage ich freilich, weil ich euch noch immer nicht davon überzeugen kann, dass manchmal Trauer mehr wert ist als Vergnügen, Niedergeschlagenheit mehr als ein Fest und eine lobenswerte Träne mehr als ein ungehöriges Lachen\.

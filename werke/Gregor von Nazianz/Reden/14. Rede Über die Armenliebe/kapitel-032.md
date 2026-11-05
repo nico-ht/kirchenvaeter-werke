@@ -1,0 +1,14 @@
+# 14\. Rede: Über die Armenliebe – Kapitel 32: Unkenntnis der göttlichen Vorsehung ist kein Beweis für eine vernunftlose Weltordnung
+
+Autor: Gregor von Nazianz
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-von-nazianz/14-rede-ueber-die-armenliebe#kapitel-08f42c43-2d32-4900-0b06-08df1b0f8e2b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch soll unser Zustand auch durch ein Bild veranschaulicht werden, so unterscheiden wir uns kaum von Seekranken und Menschen, denen schwindlig ist: Sie meinen, alles drehe sich, während sie selbst taumeln\. So geht es auch denen, von denen hier die Rede ist\. Denn wenn ihnen angesichts irgendeines Geschehens schwindlig wird, wollen sie nicht gelten lassen, dass Gott weiser ist als sie\. Dabei müssten sie sich um eine Erklärung abmühen, da ihrem beharrlichen Suchen vielleicht die Wahrheit geschenkt werden könnte\. Oder sie müssten darüber gemeinsam mit Menschen nachdenken, die ihnen an Weisheit und geistlicher Einsicht überlegen sind; denn auch dies ist eine Gnadengabe, und nicht alle besitzen die Erkenntnis[^bible-7af7d413-0ee8-498f-aa83-e5462aa874f2]\. Oder sie müssten ihr Leben reinigen, um diese Erkenntnis zu gewinnen, und von der wahren Weisheit Weisheit erbitten\. Sie aber \(welche Unbildung\!\) schlagen den bequemeren Weg ein und behaupten fälschlich, das All sei ohne Vernunft, weil sie selbst seinen vernünftigen Zusammenhang nicht kennen\. So sind sie durch Unbildung weise oder durch ihre übergroße Weisheit, wenn ich so sagen darf, ohne Weisheit und Verstand\. Daher erhoben die einen den Zufall und das, was von selbst geschieht, zur Lehre: wahrhaft von selbst entstandene und aufs Geratewohl zusammengeformte Gedankengebilde\. Andere lehrten eine vernunftlose und unentrinnbare Gewaltherrschaft der Sterne, die nach Belieben unsere Geschicke verweben oder vielmehr selbst zu diesem Weben gezwungen sind; dazu das Zusammentreffen und Zurückweichen gewisser Planeten und Fixsterne und eine Bewegung, die das All beherrscht\. Wieder andere brachten unter dem unglückseligen Menschengeschlecht auf, was sich jeder von ihnen ausgemalt hatte\. Was ihnen an der Vorsehung unzugänglich und verborgen blieb, teilten sie dabei in verschiedene Meinungen und Benennungen auf\. Manche warfen der Vorsehung sogar große Armut vor\. Sie meinten zwar, das, was über uns ist, werde durch sie gelenkt, scheuten sich aber, sie bis zu uns herabzuführen, obwohl gerade wir ihrer am meisten bedürfen\. Es war, als fürchteten sie, den Wohltäter als noch gütiger zu erweisen, wenn mehr Menschen seine Wohltaten empfangen, oder Gott könnte davon müde werden, mehr Menschen Gutes zu tun\.
+
+## Bibelverweise
+
+[^bible-7af7d413-0ee8-498f-aa83-e5462aa874f2]: 1Kor 8,7
