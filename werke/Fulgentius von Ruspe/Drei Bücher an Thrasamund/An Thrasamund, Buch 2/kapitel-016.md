@@ -1,0 +1,19 @@
+# An Thrasamund, Buch 2 – Kapitel 16: Cyprians Lehre vom Gebet bezeugt die Allgegenwart des Sohnes, der die Herzen erforscht
+
+Autor: Fulgentius von Ruspe
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/fulgentius-von-ruspe/fulgentius-an-thrasamund-buch-2#kapitel-79dac53f-2df5-480e-38af-08df3a5086d3).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Denn die Unermesslichkeit der Gottheit des Sohnes Gottes bekräftigt der selige Märtyrer Cyprian ausdrücklich und mit dem Zeugnis der göttlichen Worte in seinem Brief über das Gebet des Herrn\. Er sagt: „Schließlich hat ‚der Herr uns in seiner Lehre geboten, im Verborgenen zu beten, an abgeschiedenen und geheimen Orten, in unseren eigenen Kammern[^bible-ed7fbc3e-ed6f-4bf7-b20d-a5c635b3f349]‘, was dem Glauben besser entspricht\. So sollen wir wissen, dass Gott überall gegenwärtig ist, alle hört und sieht und mit der Fülle seiner Majestät auch ins Verborgene und Versteckte dringt, wie geschrieben steht: ‚„Ich bin ein Gott, der nahe ist, und kein Gott aus der Ferne\. Wenn ein Mensch sich in einem Versteck verbirgt, werde ich ihn dann nicht sehen? Erfülle ich nicht Himmel und Erde?[^bible-e17bd532-73c5-4d89-b83c-8af320e8e2f2]“‘ Und wiederum: ‚An jedem Ort beobachten Gottes Augen die Guten und die Bösen\.[^bible-eb89cdf5-4f9e-48ec-9ced-c254ab3c081d]‘ Und wenn wir mit den Brüdern zusammenkommen und mit dem Priester Gottes die göttlichen Opfer feiern, müssen wir auf Zurückhaltung und Ordnung achten\. Wir dürfen unsere Gebete nicht wahllos mit wirren Rufen hinausschleudern und die Bitte, die wir Gott bescheiden anvertrauen sollen, nicht mit lärmender Geschwätzigkeit hinausrufen\. Denn Gott hört nicht auf die Stimme, sondern auf das Herz; und wer die Gedanken sieht, muss nicht durch Geschrei aufmerksam gemacht werden\. Das bestätigt der Herr mit den Worten: ‚Warum denkt ihr Böses in euren Herzen?[^bible-bb81d675-c082-43f7-80f0-27e1b1c487b5]‘ Und an anderer Stelle: ‚Alle Kirchen werden erkennen, dass ich es bin, der Nieren und Herz erforscht\.[^bible-52b2cd98-41d8-476a-871b-5bcb6f77d13d]‘“ Der selige Cyprian sagt also von Gott, dass er überall gegenwärtig ist, alle hört und sieht und mit der Fülle seiner Majestät auch ins Verborgene und Versteckte dringt\. Von eben diesem Gott erklärt er auch, dass er nicht auf die Stimme, sondern auf das Herz hört und nicht durch Geschrei aufmerksam gemacht werden muss, weil er die Gedanken sieht\. Eben ihn lässt er auch sagen: „Warum denkt ihr Böses in euren Herzen?[^bible-bb81d675-c082-43f7-80f0-27e1b1c487b5]“ Und an anderer Stelle: „Alle Kirchen werden erkennen, dass ich es bin, der Nieren und Herz erforscht\.[^bible-52b2cd98-41d8-476a-871b-5bcb6f77d13d]“ Wer aber weiß nicht, dass der Sohn Gottes diese Worte gesprochen hat, wie die Apokalypse und das Evangelium bezeugen? Der Sohn ist also, wie der heilige Cyprian bekräftigt, überall gegenwärtig\. Er selbst hört und sieht alle und dringt mit der Fülle seiner Majestät auch ins Verborgene und Versteckte; er muss nicht durch Geschrei aufmerksam gemacht werden, da er die Gedanken sieht\. Mit diesem Verständnis stimmen die Worte des Evangelisten Johannes überein, der über einige Menschen sagt: „Jesus vertraute sich ihnen nicht an, weil er selbst alle kannte und es nicht nötig hatte, dass jemand über den Menschen Zeugnis ablegte; denn er selbst wusste, was im Menschen war\.[^bible-6a9690a2-8d85-431a-a508-803dac2f90a4]“
+
+## Bibelverweise
+
+[^bible-52b2cd98-41d8-476a-871b-5bcb6f77d13d]: Offb 2,23
+[^bible-6a9690a2-8d85-431a-a508-803dac2f90a4]: Joh 2,24–Joh 2,25
+[^bible-bb81d675-c082-43f7-80f0-27e1b1c487b5]: Mt 9,4
+[^bible-e17bd532-73c5-4d89-b83c-8af320e8e2f2]: Jer 23,23–Jer 23,24
+[^bible-eb89cdf5-4f9e-48ec-9ced-c254ab3c081d]: Spr 15,3
+[^bible-ed7fbc3e-ed6f-4bf7-b20d-a5c635b3f349]: Mt 6,6
