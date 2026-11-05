@@ -1,0 +1,13 @@
+# Briefe
+
+Sulpicius Severus
+
+Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de).
+
+**Nicht kommerziell · Quelle nennen · CC BY-NC-SA 4.0**
+
+## Werke
+
+- [Brief an Aurelius (Epistula II)](Brief%20an%20Aurelius%20%28Epistula%20II%29/) · 19 Kapitel
+- [Brief an Bassula (Epistula III)](Brief%20an%20Bassula%20%28Epistula%20III%29/) · 21 Kapitel
+- [Brief an Eusebius (Epistula I)](Brief%20an%20Eusebius%20%28Epistula%20I%29/) · 1 Kapitel

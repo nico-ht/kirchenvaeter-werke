@@ -6,9 +6,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Predigten](Predigten/) · 6 Werke
-
-## Einzelwerke
-
-- [1. Predigt](1.%20Predigt/) · 1 Kapitel
-- [4. Predigt](4.%20Predigt/) · 1 Kapitel
+- [Predigten](Predigten/) · 8 Werke

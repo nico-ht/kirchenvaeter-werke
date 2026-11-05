@@ -12,7 +12,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Homilien über Josua (Jesus)](Homilien%20%C3%BCber%20Josua%20%28Jesus%29/) · 25 Werke
 - [Homilien über Levitikus](Homilien%20%C3%BCber%20Levitikus/) · 16 Werke
 - [Homilien über Numeri](Homilien%20%C3%BCber%20Numeri/) · 28 Werke
-- [Kommentar zu Matthäus](Kommentar%20zu%20Matth%C3%A4us/) · 4 Werke
+- [Kommentar zu Matthäus](Kommentar%20zu%20Matth%C3%A4us/) · 9 Werke
 - [Predigten zu Exodus](Predigten%20zu%20Exodus/) · 13 Werke
 - [Predigten zu Genesis](Predigten%20zu%20Genesis/) · 16 Werke
 - [Predigten zu den Psalmen](Predigten%20zu%20den%20Psalmen/) · 3 Werke

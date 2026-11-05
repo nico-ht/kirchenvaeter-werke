@@ -57,3 +57,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Predigt 92 – Zweite Predigt über die Frage: Wessen Sohn ist der Christus?](Predigt%2092%20%E2%80%93%20Zweite%20Predigt%20%C3%BCber%20die%20Frage%20Wessen%20Sohn%20ist%20der%20Christus/) · 3 Kapitel
 - [Predigt 93 – Über die zehn Jungfrauen](Predigt%2093%20%E2%80%93%20%C3%9Cber%20die%20zehn%20Jungfrauen/) · 10 Kapitel
 - [Predigt 94 – Über den faulen Knecht, der sein Talent vergrub](Predigt%2094%20%E2%80%93%20%C3%9Cber%20den%20faulen%20Knecht%2C%20der%20sein%20Talent%20vergrub/) · 1 Kapitel
+- [Predigt 363 – Über den Lobgesang des Exodus](Predigt%20363%20%E2%80%93%20%C3%9Cber%20den%20Lobgesang%20des%20Exodus/) · 1 Kapitel
