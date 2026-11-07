@@ -7,6 +7,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Werksammlungen
 
 - [Auslegung zu Esra und Nehemia](Auslegung%20zu%20Esra%20und%20Nehemia/) · 3 Werke
+- [Kommentar zu Markus](Kommentar%20zu%20Markus/) · 2 Werke
 
 ## Einzelwerke
 

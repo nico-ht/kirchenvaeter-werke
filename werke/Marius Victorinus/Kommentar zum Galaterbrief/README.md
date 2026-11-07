@@ -8,4 +8,5 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werke
 
+- [Kommentar zum Galaterbrief, Buch 1](Kommentar%20zum%20Galaterbrief%2C%20Buch%201/) · 1 Kapitel
 - [Kommentar zum Galaterbrief, Buch 2](Kommentar%20zum%20Galaterbrief%2C%20Buch%202/) · 1 Kapitel

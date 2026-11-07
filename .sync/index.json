@@ -1176,6 +1176,20 @@
     "contentRevision": "sha256:e1adf9902377e3ad02df1e6512cefad13cd2482d78ebd518b75bbd975b9f4a94"
   },
   {
+    "workId": "883b281d-c38f-4f53-431b-08df3c57f75d",
+    "authorName": "Bede Venerabilis",
+    "title": "Kommentar zu Markus, Buch 1",
+    "directory": "werke/Bede Venerabilis/Kommentar zu Markus/Kommentar zu Markus, Buch 1",
+    "contentRevision": "sha256:f5c3fc510bb6509f0b107b52313b55f231767269dd79cc401c73d6b356917f00"
+  },
+  {
+    "workId": "83d58aac-4539-4d21-431c-08df3c57f75d",
+    "authorName": "Bede Venerabilis",
+    "title": "Kommentar zu Markus, Buch 2",
+    "directory": "werke/Bede Venerabilis/Kommentar zu Markus/Kommentar zu Markus, Buch 2",
+    "contentRevision": "sha256:8fffce95651f37b85b1696408d4614937c491ba2d1fa9889ddf3d7e49ba9fbbd"
+  },
+  {
     "workId": "6ff5a02b-dae5-4ca8-70d0-08df3a508666",
     "authorName": "Bede Venerabilis",
     "title": "Über den Tempel Salomos",
@@ -4324,6 +4338,13 @@
     "title": "Drei Trinitätshymnen",
     "directory": "werke/Marius Victorinus/Drei Trinitätshymnen",
     "contentRevision": "sha256:72d602b353e4a84c653280952ba1bd05f90c158514e7647e52d04503421c3a26"
+  },
+  {
+    "workId": "6464f455-c4de-49eb-f4b8-08df1be94294",
+    "authorName": "Marius Victorinus",
+    "title": "Kommentar zum Galaterbrief, Buch 1",
+    "directory": "werke/Marius Victorinus/Kommentar zum Galaterbrief/Kommentar zum Galaterbrief, Buch 1",
+    "contentRevision": "sha256:0b5e797de7fad88518ecb32c0a0e8c9fa4e313db871e230f59bf7478f10eef5d"
   },
   {
     "workId": "33904585-1779-e97c-a434-5e3d875ae3b2",

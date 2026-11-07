@@ -6,7 +6,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Kommentar zum Galaterbrief](Kommentar%20zum%20Galaterbrief/) · 1 Werk
+- [Kommentar zum Galaterbrief](Kommentar%20zum%20Galaterbrief/) · 2 Werke
 
 ## Einzelwerke
 
