@@ -1,0 +1,10 @@
+# Gegen Hermogenes – Kapitel 8: Wer Gott beim Schaffen auf Materie angewiesen sein lässt, ordnet ihn ihr unter und bestreitet seine Allmacht
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/gegen-hermogenes#kapitel-14f23ab6-09cf-4bcd-8054-08df3c5f2d24).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Im Gegenteil: Er stellt die Materie sogar über Gott und ordnet vielmehr Gott der Materie unter, wenn er behauptet, Gott habe alles aus Materie geschaffen\. Denn wenn er sich ihrer zur Erschaffung der Welt bedient hat, erweist sich die Materie als überlegen, weil sie ihm die Mittel zum Schaffen bereitgestellt hat; Gott hingegen erscheint der Materie untergeordnet, weil er ihre Substanz brauchte\. Jeder ist nämlich auf den angewiesen, dessen Eigentum er nutzt; jeder ist dem untergeordnet, auf den er angewiesen ist, um dessen Eigentum nutzen zu können\. Ebenso steht jeder, der fremdes Eigentum nutzt, unter dem, dessen Eigentum er nutzt; und jeder, der einem anderen etwas von seinem Eigentum zur Nutzung überlässt, ist ihm darin überlegen\. Die Materie selbst brauchte Gott also nicht, sondern zeigte sich gegenüber Gott, der sie brauchte, reich, wohlhabend und freigebig: gegenüber einem, wie ich meine, Geringeren, Kraftlosen, der weniger dazu imstande war, aus dem Nichts zu schaffen, was er wollte\. Wahrhaftig, eine große Wohltat hat sie Gott erwiesen: So hat er heute etwas, woran man ihn als Gott erkennt und weshalb man ihn allmächtig nennt\. Nur ist er eben nicht allmächtig, wenn er nicht auch dies vermag: alles aus dem Nichts hervorzubringen\. Gewiss hat die Materie auch sich selbst einen Dienst erwiesen, sodass auch sie zusammen mit Gott erkannt werden kann, als Gott ebenbürtig, ja sogar als seine Helferin\. Nur haben sie allein Hermogenes und die Philosophen, die Stammväter der Häretiker, erkannt; den Propheten und Aposteln ist sie nämlich bis heute verborgen geblieben, und, wie ich vermute, auch Christus\.
