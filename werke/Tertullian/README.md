@@ -17,6 +17,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [An die Märtyrer](An%20die%20M%C3%A4rtyrer/) · 6 Kapitel
 - [Apologie](Apologie/) · 50 Kapitel
 - [De patientia](De%20patientia/) · 16 Kapitel
+- [Gegen Hermogenes](Gegen%20Hermogenes/) · 45 Kapitel
 - [Gegen Praxeas](Gegen%20Praxeas/) · 31 Kapitel
 - [Verschreibung gegen Häretiker](Verschreibung%20gegen%20H%C3%A4retiker/) · 44 Kapitel
 - [Über das Fleisch Christi](%C3%9Cber%20das%20Fleisch%20Christi/) · 25 Kapitel

@@ -1190,6 +1190,20 @@
     "contentRevision": "sha256:8fffce95651f37b85b1696408d4614937c491ba2d1fa9889ddf3d7e49ba9fbbd"
   },
   {
+    "workId": "321db4aa-2788-4858-431d-08df3c57f75d",
+    "authorName": "Bede Venerabilis",
+    "title": "Kommentar zu Markus, Buch 3",
+    "directory": "werke/Bede Venerabilis/Kommentar zu Markus/Kommentar zu Markus, Buch 3",
+    "contentRevision": "sha256:7b81ff8074abc1489dd53638366df1abd2efc54ed0a220834e3bf9e352b644cd"
+  },
+  {
+    "workId": "376c8a41-a0df-46dd-431e-08df3c57f75d",
+    "authorName": "Bede Venerabilis",
+    "title": "Kommentar zu Markus, Buch 4",
+    "directory": "werke/Bede Venerabilis/Kommentar zu Markus/Kommentar zu Markus, Buch 4",
+    "contentRevision": "sha256:d7ac8016edce639172138758cb300918bf4fb9d48fd24ce8a16d0b8db91528ad"
+  },
+  {
     "workId": "6ff5a02b-dae5-4ca8-70d0-08df3a508666",
     "authorName": "Bede Venerabilis",
     "title": "Über den Tempel Salomos",
@@ -4088,11 +4102,32 @@
     "contentRevision": "sha256:5b55e9e10bc1d4a864d5782c97d26321acdd1a6061e8a9f7b37ea2298a5ccab1"
   },
   {
+    "workId": "65a75382-60b2-4fd1-d49c-08df3cb1a9f1",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Glaphyra zu Deuteronomium",
+    "directory": "werke/Kyrill von Alexandria/Glaphyra zum Pentateuch/Glaphyra zu Deuteronomium",
+    "contentRevision": "sha256:4d2c898914d804331822dcab1d316f49336f68645a7f076b6e96592114ef2eef"
+  },
+  {
     "workId": "117a5665-98e7-43c0-ef74-08df374b6d26",
     "authorName": "Kyrill von Alexandria",
     "title": "Glaphyra zu Exodus",
     "directory": "werke/Kyrill von Alexandria/Glaphyra zum Pentateuch/Glaphyra zu Exodus",
     "contentRevision": "sha256:478fc37528d1368840fa12ad9f02724147e1cf7284f84ede1fdd3df45a88db8e"
+  },
+  {
+    "workId": "490b6a13-565a-486a-d496-08df3cb1a9f1",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Glaphyra zu Levitikus",
+    "directory": "werke/Kyrill von Alexandria/Glaphyra zum Pentateuch/Glaphyra zu Levitikus",
+    "contentRevision": "sha256:bad321423853e23d0633a5294a5110663e8fdd154a8e5c6e34155438354d4656"
+  },
+  {
+    "workId": "d485424c-fb09-4014-d498-08df3cb1a9f1",
+    "authorName": "Kyrill von Alexandria",
+    "title": "Glaphyra zu Numeri",
+    "directory": "werke/Kyrill von Alexandria/Glaphyra zum Pentateuch/Glaphyra zu Numeri",
+    "contentRevision": "sha256:bd0a047252fea4fe14185350c82f0e714aac2b699f833d48332cb8f1e211c972"
   },
   {
     "workId": "2389c032-183b-4905-885f-08df34555aa5",
@@ -6314,6 +6349,13 @@
     "contentRevision": "sha256:c60dcf4fc946aa753588bf0a9805eba5dcec585e8b34920e3925b6b0fd66b669"
   },
   {
+    "workId": "00485bd3-65a6-4a5a-92ba-08df1b60c991",
+    "authorName": "Tertullian",
+    "title": "Gegen Hermogenes",
+    "directory": "werke/Tertullian/Gegen Hermogenes",
+    "contentRevision": "sha256:47e162f234c3cc902a663ee750e73329c60c51d2a4085940b0b2a8cfdcdfece4"
+  },
+  {
     "workId": "c23df8f5-a97f-4635-c2bb-08ddbe61ab21",
     "authorName": "Tertullian",
     "title": "Gegen Marcion, Buch 1",
@@ -6464,15 +6506,29 @@
     "workId": "dbc1ffd9-3d68-4bb7-ef75-08df374b6d26",
     "authorName": "Theodoret von Kyrrhos",
     "title": "Fragen zu Exodus",
-    "directory": "werke/Theodoret von Kyrrhos/Fragen zu Exodus",
-    "contentRevision": "sha256:2036925a32d265ccc1338b00afc08c5b8b9a3954395dca91a121e29b7dd717e6"
+    "directory": "werke/Theodoret von Kyrrhos/Fragen zum Oktateuch/Fragen zu Exodus",
+    "contentRevision": "sha256:4751eb2767dd1bb6985c8e955452683dd1f0f9a58245a543fcaabf492b1588b2"
+  },
+  {
+    "workId": "bcde557c-1ebb-492f-d499-08df3cb1a9f1",
+    "authorName": "Theodoret von Kyrrhos",
+    "title": "Fragen zu Josua",
+    "directory": "werke/Theodoret von Kyrrhos/Fragen zum Oktateuch/Fragen zu Josua",
+    "contentRevision": "sha256:8d9cdc5710cf89e97285d2c56b32de3199d6d03a229617c551b4dd0c0572bba0"
+  },
+  {
+    "workId": "b93472fa-db56-490b-d49b-08df3cb1a9f1",
+    "authorName": "Theodoret von Kyrrhos",
+    "title": "Fragen zu Ruth",
+    "directory": "werke/Theodoret von Kyrrhos/Fragen zum Oktateuch/Fragen zu Ruth",
+    "contentRevision": "sha256:e41e16decfcbe7f59ce883aae8666df0adb98dc01ca70ef3117b957d161d14ca"
   },
   {
     "workId": "1befed81-4d5d-4a36-8860-08df34555aa5",
     "authorName": "Theodoret von Kyrrhos",
     "title": "Fragen zur Genesis",
-    "directory": "werke/Theodoret von Kyrrhos/Fragen zur Genesis",
-    "contentRevision": "sha256:f4dbfac621686ac49358c1dd6368fe032290c95b080e4541340c7260f579a907"
+    "directory": "werke/Theodoret von Kyrrhos/Fragen zum Oktateuch/Fragen zur Genesis",
+    "contentRevision": "sha256:3005acbe41dcabfb6d16eb4e13f408b287e062a2c76c6b8bf2835b45ee044f26"
   },
   {
     "workId": "1e32d4ff-1e16-4d26-9f1c-08dd829729ab",

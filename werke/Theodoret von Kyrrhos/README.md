@@ -6,9 +6,5 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
+- [Fragen zum Oktateuch](Fragen%20zum%20Oktateuch/) · 4 Werke
 - [Kommentare zu den Psalmen](Kommentare%20zu%20den%20Psalmen/) · 3 Werke
-
-## Einzelwerke
-
-- [Fragen zu Exodus](Fragen%20zu%20Exodus/) · 72 Kapitel
-- [Fragen zur Genesis](Fragen%20zur%20Genesis/) · 112 Kapitel
