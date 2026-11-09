@@ -1,0 +1,34 @@
+# Fragen zu Levitikus – Kapitel 11: Die Speisegebote lehren geistlich Glauben und Tugend und bewahren die Juden vor der Vergötterung von Tieren
+
+Autor: Theodoret von Kyrrhos
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/theodoret-von-kyrrhos/theodoret-fragen-levitikus#kapitel-183876b3-1fda-482d-fc34-08df3cb1d341).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Was bedeutet es, dass ein Tier gespaltene Hufe hat und wiederkäut[^bible-0430d2bb-2a58-49de-819a-10decb53cb0c]? Die gespaltenen Hufe bezeichnen meines Erachtens die Unterscheidung zwischen guten Taten und ihrem Gegenteil\. Außerdem bedeuten sie, dass man nicht nur für das gegenwärtige, sondern auch für das künftige Leben lebt und dem gegenwärtigen das Notwendige, dem künftigen aber alles widmet: die Seele, den Körper und alles, was den Körper betrifft\. Das Wiederkäuen bezeichnet das Nachdenken über die göttlichen Worte\. Denn wie das Schaf und ähnliche Tiere ihre Nahrung unablässig wiederkäuen, so ruft derjenige, der rechtschaffen lebt und Gott liebt, zum Gott des Alls: „Wie sehr liebe ich dein Gesetz, Herr\! Den ganzen Tag denke ich darüber nach\.[^bible-ab294beb-0c3c-4d4e-aa00-aa70968d8d5d]“ Bei den Tieren ist es so: Die einen haben gespaltene Hufe und käuen ihre Nahrung wieder[^bible-0430d2bb-2a58-49de-819a-10decb53cb0c], die anderen tun keines von beidem, wie der Esel, das Maultier, das Pferd und die wilden Tiere\. Wieder andere haben zwar gespaltene Hufe, käuen aber ihre Nahrung nicht wieder, wie das Schwein[^bible-f499c37f-818f-4e27-b7ff-9908a5e08a8b]; andere dagegen käuen zwar wieder, haben aber keine gespaltenen Hufe, wie das Kamel und der Hase[^bible-1291af15-dfdf-469c-ada7-17fcca8cb494]\. So findet man auch unter den Menschen die Vollkommenen, die sich gern in die göttlichen Worte vertiefen und sich eifrig um die Tugend bemühen\. Daneben gibt es die Unvollkommenen, die zwar die göttlichen Worte mit der Zunge vortragen, aber keine gespaltenen Hufe haben wollen und dem Kamel gleichen\. Einige haben noch nichts von der Frömmigkeit gekostet: Sie nehmen die göttlichen Worte nicht an, bemühen sich aber um lobenswerte Taten\. Andere wiederum sind ohne Glauben und jeder guten Tat völlig entblößt\. Von den Wassertieren erklärt er diejenigen für rein, die Schuppen und Flossen haben[^bible-20fe855c-4c15-4ef7-80c7-40242866b1a8]; denn diese schwimmen oben im Wasser\. Die anderen dagegen wälzen sich unten im Schlamm\. So sind auch unter den vernunftbegabten Wesen diejenigen rein, die nicht am Irdischen hängen, sondern die Flügel des Glaubens haben und von der schützenden Hülle der Tugend umgeben sind\. Denn was den Fischen die Schuppen sind, ist den Menschen die volle Rüstung der Tugend; und was jenen die Flossen sind, ist den Menschen der Glaube\.
+
+Mit beidem stattet uns der selige Paulus aus, wenn er von den Flügeln der Gnade und den Waffen des Geistes[^bible-480ddc37-ccae-40e9-828b-34fc06989ab3] spricht\. Von den Vögeln sind, so heißt es, die Raubvögel und Aasfresser sowie diejenigen, die an der Finsternis Freude haben, unrein[^bible-41dac343-8390-485c-a445-db66a3f143cf]\. Damit lehrt er uns, uns von Habgier fernzuhalten, uns von der übel riechenden Nahrung der Sünde abzuwenden und die Finsternis zu hassen\. Dass wir dies nicht ohne Grund so verstanden haben, bezeugt der Bericht der Apostelgeschichte\. Dort wird nämlich vom seligen Petrus gesagt: „Er sah ein Tuch, das an vier Zipfeln herabgelassen wurde und in dem alle Vierfüßer der Erde und die Vögel des Himmels waren\. Und er hörte eine Stimme sagen:[^bible-489b4a00-50e6-492e-8a87-0e418d41c19d] ‚Steh auf, Petrus, schlachte und iss\![^bible-649b95e7-a4cc-407f-9bbf-fed8d35a54aa]‘“ Als er darauf sagte: „Auf keinen Fall, Herr\! Denn ich habe noch nie etwas Unheiliges oder Unreines gegessen[^bible-92308d9d-7733-4cb1-b65e-03e9075d9adf]“, sprach Gott, der Herr: „Was Gott gereinigt hat, das erkläre du nicht für unheilig\.[^bible-4af53568-fe06-41b3-b1e5-8cc82cddaff7]“ Dass dies um Kornelius willen gesagt wurde, der ein Heide war und nach Rettung verlangte, zeigt der weitere Bericht\. Auch der Herr sagte zu den Aposteln: „Viele werden in Schafskleidern zu euch kommen, im Innern aber sind sie reißende Wölfe\.[^bible-0f92282d-cac2-4038-9f87-5ed312797a0d]“ Und zu den Juden sagte er: „Ihr Vipernbrut\![^bible-eecf2a85-0f53-4a9f-bef9-8f0d2b01bfdb]“ Der Apostel wiederum sagt: „Hütet euch vor den Hunden\![^bible-75775506-729b-45d3-9a06-4959c90faea4]“ Und zu den Presbytern von Ephesus: „Ich weiß, dass nach meinem Weggang gefährliche Wölfe zu euch eindringen werden\.[^bible-0829dffd-6557-404e-8747-6c5164172d5a]“ Die Propheten nennen die einen „brünstige Hengste[^bible-0c669198-c5f0-4aaa-afc6-0a207e99b11f]“, die anderen „Schlangen und Brut fliegender Vipern[^bible-a6c306cc-078a-4be5-9be0-1b32e659cf39]“\. Wiederum sagt der Herr: „Das Himmelreich gleicht einem Schleppnetz, das ins Meer geworfen wurde und Fische jeder Art einfing\.[^bible-db47bc82-592a-4c78-b02a-332cd32c3ef7]“ Und: „Wo der Leichnam ist, dort werden sich die Adler versammeln\.[^bible-d39574d5-55d4-4546-9d67-4a94b0bcf1b3]“ Die Auslegung stimmt also mit dem Sinn der göttlichen Schrift überein\. Diesen Nutzen ziehen wir daraus\. Den Juden aber hat er durch dieselben Vorschriften auf andere Weise genützt\. Denn indem er die Landtiere, die Vögel und die Wassertiere jeweils in zwei Gruppen einteilte und die einen unrein, die anderen rein nannte, brachte er sie dazu, keines dieser Tiere für Gott zu halten\. Wie könnte denn ein vernünftiger Mensch etwas Gott nennen, von dem er sich als unrein mit Abscheu abwendet, oder etwas, das er dem wahren Gott darbringt und selbst isst?
+
+## Bibelverweise
+
+[^bible-0430d2bb-2a58-49de-819a-10decb53cb0c]: Lev 11,3
+[^bible-0829dffd-6557-404e-8747-6c5164172d5a]: Apg 20,29
+[^bible-0c669198-c5f0-4aaa-afc6-0a207e99b11f]: Jer 5,8
+[^bible-0f92282d-cac2-4038-9f87-5ed312797a0d]: Mt 7,15
+[^bible-1291af15-dfdf-469c-ada7-17fcca8cb494]: Lev 11,4; Lev 11,6
+[^bible-20fe855c-4c15-4ef7-80c7-40242866b1a8]: Lev 11,9
+[^bible-41dac343-8390-485c-a445-db66a3f143cf]: Lev 11,13–Lev 11,19
+[^bible-480ddc37-ccae-40e9-828b-34fc06989ab3]: Eph 6,11–Eph 6,17
+[^bible-489b4a00-50e6-492e-8a87-0e418d41c19d]: Apg 10,11–Apg 10,13
+[^bible-4af53568-fe06-41b3-b1e5-8cc82cddaff7]: Apg 10,15
+[^bible-649b95e7-a4cc-407f-9bbf-fed8d35a54aa]: Apg 10,13
+[^bible-75775506-729b-45d3-9a06-4959c90faea4]: Phil 3,2
+[^bible-92308d9d-7733-4cb1-b65e-03e9075d9adf]: Apg 10,14
+[^bible-a6c306cc-078a-4be5-9be0-1b32e659cf39]: Jes 30,6
+[^bible-ab294beb-0c3c-4d4e-aa00-aa70968d8d5d]: Ps 118,97
+[^bible-d39574d5-55d4-4546-9d67-4a94b0bcf1b3]: Mt 24,28
+[^bible-db47bc82-592a-4c78-b02a-332cd32c3ef7]: Mt 13,47
+[^bible-eecf2a85-0f53-4a9f-bef9-8f0d2b01bfdb]: Mt 12,34
+[^bible-f499c37f-818f-4e27-b7ff-9908a5e08a8b]: Lev 11,7

@@ -4536,6 +4536,13 @@
     "contentRevision": "sha256:9c72dfcf63527ef20db5cf89f3fabf3e423dd96e6911a468848b10c5f9e231d4"
   },
   {
+    "workId": "606048a9-d29d-46ea-4ce3-08dd701d72c3",
+    "authorName": "Märtyrerakten",
+    "title": "Das Martyrium des Pionius und seiner Gefährten",
+    "directory": "werke/Märtyrerakten/Das Martyrium des Pionius und seiner Gefährten",
+    "contentRevision": "sha256:eaec5781adfe309900f933c4ce40f0875aecb6029ef9b256c7b7eb4be11730ad"
+  },
+  {
     "workId": "f41244a9-b7a7-4dd3-90c7-08de390c5250",
     "authorName": "Nemesius von Emesa",
     "title": "Über die Natur des Menschen",
@@ -6515,6 +6522,13 @@
     "title": "Fragen zu Josua",
     "directory": "werke/Theodoret von Kyrrhos/Fragen zum Oktateuch/Fragen zu Josua",
     "contentRevision": "sha256:8d9cdc5710cf89e97285d2c56b32de3199d6d03a229617c551b4dd0c0572bba0"
+  },
+  {
+    "workId": "8f8e25a5-0e9c-4962-d497-08df3cb1a9f1",
+    "authorName": "Theodoret von Kyrrhos",
+    "title": "Fragen zu Levitikus",
+    "directory": "werke/Theodoret von Kyrrhos/Fragen zum Oktateuch/Fragen zu Levitikus",
+    "contentRevision": "sha256:ff29969b6c2602bae698b61e98956ec168db20d520df598882cffecdc999fe0c"
   },
   {
     "workId": "b93472fa-db56-490b-d49b-08df3cb1a9f1",

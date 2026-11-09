@@ -1,0 +1,46 @@
+# Fragen zu Levitikus
+
+Theodoret von Kyrrhos
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/theodoret-von-kyrrhos/theodoret-fragen-levitikus) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- [Kapitel 1: Das Opfergesetz befreit vom Götzendienst und lehrt geistlich die Hingabe an Gott in jeder Lebensweise](kapitel-001.md)
+- [Kapitel 2: Vor dem Sühnopfer steht die Erstattung der Schuld mit einem Fünftel Zuschlag](kapitel-002.md)
+- [Kapitel 3: Das vollständig verbrannte Priesteropfer fordert Vollkommenheit und ungeteilte Hingabe an Gott](kapitel-003.md)
+- [Kapitel 4: Sündopfer am Ort der Brandopfer zeigen: Wer durch Umkehr geheilt wird, ist dem Heiligen nicht fremd](kapitel-004.md)
+- [Kapitel 5: Die Berührung des Heiligen verpflichtet zur Ehrfurcht und bindet den vom Opferblut Getroffenen an den Tempeldienst](kapitel-005.md)
+- [Kapitel 6: Die Frist für den Verzehr des Opferfleisches soll die Armen am Festmahl beteiligen](kapitel-006.md)
+- [Kapitel 7: Die Unreinheit durch natürliche Vorgänge mahnt umso mehr zur Abkehr von willentlichen Gesetzesverstößen](kapitel-007.md)
+- [Kapitel 8: Blut und Öl der Priestersalbung verweisen auf das Heil, die rechte Seite auf guten Gehorsam und gute Taten](kapitel-008.md)
+- [Kapitel 9: Das fremde Feuer mahnt, die Gnade lebendig zu halten und die Schrift nicht durch häretische Zusätze zu verfälschen](kapitel-009.md)
+- [Kapitel 10: Priester müssen nüchtern dienen und gesetzestreu leben, weil ihnen die Fürbitte für das Volk anvertraut ist](kapitel-010.md)
+- [Kapitel 11: Die Speisegebote lehren geistlich Glauben und Tugend und bewahren die Juden vor der Vergötterung von Tieren](kapitel-011.md)
+- [Kapitel 12: Die unterschiedliche Behandlung der Gefäße zeigt: Nicht Tiere sind von Natur aus unrein, sondern Sünde verunreinigt](kapitel-012.md)
+- [Kapitel 13: Feuchtes Saatgut nimmt Verwesungsflüssigkeit auf; Kriechtiere sind wegen der Schlange als Teufelshelferin unrein](kapitel-013.md)
+- [Kapitel 14: Die Unreinheit nach der Geburt hält Männer vom Geschlechtsverkehr ab und gewährt der Frau Erholung](kapitel-014.md)
+- [Kapitel 15: Die Arten und Anfänge des Aussatzes verweisen auf Sünden, die der Priester beurteilen muss](kapitel-015.md)
+- [Kapitel 16: Der ganz Aussätzige gilt als rein: Umgang mit Ungläubigen ist erlaubt, mit sündigenden Brüdern nicht](kapitel-016.md)
+- [Kapitel 17: Entblößter Kopf und zerrissene Kleider kennzeichnen den Aussätzigen und mahnen zum Abstand von sündigenden Brüdern](kapitel-017.md)
+- [Kapitel 18: Gott straft Kleider und Häuser zur Heilung der Sünder; das dauerhaft aussätzige Haus Israel wird abgerissen](kapitel-018.md)
+- [Kapitel 19: Die Reinigung des Aussätzigen deutet auf Christi heilbringendes Leiden und die Befreiung von Sünden durch die Taufe](kapitel-019.md)
+- [Kapitel 20: Die Reinigung nach ehelichem Verkehr lehrt Maßhalten zur Kinderzeugung, nicht natürliche Vorgänge als unrein zu sehen](kapitel-020.md)
+- [Kapitel 21: Das Verbot des Verkehrs während der Monatsblutung zügelt die Begierde und bereitet auf Vollkommenheit vor](kapitel-021.md)
+- [Kapitel 22: Der Versöhnungstag deutet auf Christi leidensfähiges Fleisch, leidensfreie Gottheit und einmalige Erlösung](kapitel-022.md)
+- [Kapitel 23: Schlachten an der Stiftshütte verhindert Götzenopfer; Blut bleibt als Stellvertreter der Seele der Sühne vorbehalten](kapitel-023.md)
+- [Kapitel 24: Die Ehegesetze verbieten keine erdachten Vergehen, sondern tatsächlich geübte Sitten Ägyptens und Kanaans](kapitel-024.md)
+- [Kapitel 25: Das Verbot, Kinder dem Moloch zu geben, trifft den Götzendienst, nach anderen die Auslieferung an fremde Herrscher](kapitel-025.md)
+- [Kapitel 26: Wie die Kanaanäer wird auch Israel bestraft, wenn es dieselben Gesetzesverstöße begeht](kapitel-026.md)
+- [Kapitel 27: Die Verbote artfremder Vermischung lehren, gesetzwidrige Verbindungen und widersprüchliches Handeln zu meiden](kapitel-027.md)
+- [Kapitel 28: Die Verbote bestimmter Haartrachten, Einschnitte und Tätowierungen richten sich gegen Dämonendienst und Trauerbräuche](kapitel-028.md)
+- [Kapitel 29: „Bauchredner“ heißen so, weil bei ihren vorgetäuschten Weissagungen ein Dämon aus ihrem Inneren zu sprechen schien](kapitel-029.md)
+- [Kapitel 30: Priestervorschriften schützen den guten Ruf und lehren durch körperliche Unversehrtheit die Gesundheit der Seele](kapitel-030.md)
+- [Kapitel 31: Die frühe Darbringung erstgeborener Tiere verhindert, dass begehrte Tiere zurückbehalten und durch andere ersetzt werden](kapitel-031.md)
+- [Kapitel 32: Die Festgebote erinnern an Gottes Führung Israels und verpflichten zu Demut und Keuschheit](kapitel-032.md)
+- [Kapitel 33: Wer den selbst verehrten Götzen lästert, sündigt; wer den wahren Gott lästert, verdient die Steinigung](kapitel-033.md)
+- [Kapitel 34: „Auge um Auge“ soll durch die Furcht vor gleichem Leid von der Tat abschrecken](kapitel-034.md)
+- [Kapitel 35: Sabbat- und Jubeljahr zügeln die Habgier und fördern Menschenliebe durch Ruhe, Teilhabe und Erlass](kapitel-035.md)
+- [Kapitel 36: Zehn Frauen an einem Backofen: Gott droht den aufs Irdische gerichteten Menschen äußerste Armut bei Gesetzesbruch an](kapitel-036.md)
+- [Kapitel 37: Im Exil holt das Land seine Sabbate nach; die Rückkehr gewährt Gott wegen seines Bundes mit den Vätern](kapitel-037.md)
+- [Kapitel 38: Gott sichert Gelübde durch feste Gegenwerte und das Austauschverbot für geweihte Tiere, gewährt aber Armen Rücksicht](kapitel-038.md)
