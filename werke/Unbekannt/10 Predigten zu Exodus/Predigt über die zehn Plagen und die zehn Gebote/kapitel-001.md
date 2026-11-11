@@ -1,10 +1,10 @@
-# Pseudo\-Augustinus: Predigt über die zehn Plagen und die zehn Gebote – Kapitel 1: Die zehn Gebote heilen die seelischen Wunden, die Ägyptens zehn Plagen versinnbildlichen
+# Predigt über die zehn Plagen und die zehn Gebote – Kapitel 1: Die zehn Gebote heilen die seelischen Wunden, die Ägyptens zehn Plagen versinnbildlichen
 
 Autor: Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/pseudo-augustinus-predigt-ueber-die-zehn-plagen-und-die-zehn-gebote#kapitel-0645b956-da5f-4940-978b-08df374b6e6f).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/predigt-ueber-die-zehn-plagen-und-die-zehn-gebote#kapitel-0645b956-da5f-4940-978b-08df374b6e6f).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Nicht ohne Grund, innig geliebte Brüder, entspricht die Zahl der Gebote in Gottes Gesetz offenbar der Zahl der Plagen, mit denen Ägypten geschlagen wird\. Denn wie das Gesetz zehn Gebote enthält, die das Volk zur Verehrung Gottes anhalten, so lesen wir auch von zehn Plagen, mit denen der Hochmut der Ägypter gestraft wird\. Überlegen wir also, warum dort zehn Gebote und hier zehn Plagen genannt werden\. Zweifellos deshalb, weil die Plagen Wunden schlugen und die Gebote Heilmittel boten\. Gegen die so gefährlichen Wunden der zehn Plagen mussten die Heilmittel der zehn Gebote helfen\. Deshalb bitte ich euch, Brüder: Nehmt dies nicht gedankenlos auf\. Denn wenn ihr mit Gottes Hilfe aufmerksam zuhört, werdet ihr erkennen können, dass jene zehn Gebote der Reihe nach den zehn Plagen entgegenstehen\. Denn das erste Gebot schlägt die erste Plage, das zweite die zweite, das dritte die dritte, und so geht es weiter bis zur zehnten\.

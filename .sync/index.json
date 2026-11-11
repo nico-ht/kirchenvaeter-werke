@@ -4536,13 +4536,6 @@
     "contentRevision": "sha256:9c72dfcf63527ef20db5cf89f3fabf3e423dd96e6911a468848b10c5f9e231d4"
   },
   {
-    "workId": "606048a9-d29d-46ea-4ce3-08dd701d72c3",
-    "authorName": "Märtyrerakten",
-    "title": "Das Martyrium des Pionius und seiner Gefährten",
-    "directory": "werke/Märtyrerakten/Das Martyrium des Pionius und seiner Gefährten",
-    "contentRevision": "sha256:eaec5781adfe309900f933c4ce40f0875aecb6029ef9b256c7b7eb4be11730ad"
-  },
-  {
     "workId": "f41244a9-b7a7-4dd3-90c7-08de390c5250",
     "authorName": "Nemesius von Emesa",
     "title": "Über die Natur des Menschen",
@@ -6587,6 +6580,20 @@
     "contentRevision": "sha256:2284ae8b26e57662d86eb9452c392209e03ac4e4cfc07b4d07d7c2cf7386101b"
   },
   {
+    "workId": "814637e5-4e17-4407-ef7e-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "1. Predigt über Mose",
+    "directory": "werke/Unbekannt/10 Predigten zu Exodus/1. Predigt über Mose",
+    "contentRevision": "sha256:3b016d60f55b61ae0e512b401c81228fa57069657482d9952ff2b991cb8cec01"
+  },
+  {
+    "workId": "b8411e76-f7f0-4e80-ef7f-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "2. Predigt über Mose",
+    "directory": "werke/Unbekannt/10 Predigten zu Exodus/2. Predigt über Mose",
+    "contentRevision": "sha256:95486679ca397bd13e7e5fa7a273ea09ef5d5fa65ffc3006f76fe4465a47e4e6"
+  },
+  {
     "workId": "38f5d4f1-83ee-4250-0580-08df01ed0f99",
     "authorName": "Unbekannt",
     "title": "Brief von Aristeas",
@@ -6599,6 +6606,13 @@
     "title": "Das Martyrium der heiligen Märtyrerinnen Perpetua und Felicitas",
     "directory": "werke/Unbekannt/Das Martyrium der heiligen Märtyrerinnen Perpetua und Felicitas",
     "contentRevision": "sha256:fa94909dbc92b8bd5dd7b834f23a116066c10d90e0de11770f103aa6f0eba355"
+  },
+  {
+    "workId": "606048a9-d29d-46ea-4ce3-08dd701d72c3",
+    "authorName": "Unbekannt",
+    "title": "Das Martyrium des Pionius und seiner Gefährten",
+    "directory": "werke/Unbekannt/Das Martyrium des Pionius und seiner Gefährten",
+    "contentRevision": "sha256:a0a7aa64762466252f42c8b0404a3ede2f1259b943456f02d6cf8dfa15800374"
   },
   {
     "workId": "fe8f3fc6-fd6a-4fae-5d30-08ded9483bbc",
@@ -6643,81 +6657,67 @@
     "contentRevision": "sha256:8f861afc6767f33f0f544062ad5bf1888bf10dddbf828a79d096b78c7a57f334"
   },
   {
+    "workId": "82659bef-d7ed-4ff6-ef85-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Predigt über Refidim, den geschlagenen Felsen und Amalek",
+    "directory": "werke/Unbekannt/10 Predigten zu Exodus/Predigt über Refidim, den geschlagenen Felsen und Amalek",
+    "contentRevision": "sha256:af9c185eca296ee3f379483fe73d166f2d1fc9b5e22027945bb046cb3229029a"
+  },
+  {
+    "workId": "dc9e4069-60e8-4711-ef84-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Predigt über das bittere Wasser und das Manna",
+    "directory": "werke/Unbekannt/10 Predigten zu Exodus/Predigt über das bittere Wasser und das Manna",
+    "contentRevision": "sha256:24e414e658adca70bc5412ff7ee555cf8e5eb44ae285955c4b2fcc2b2bea7f84"
+  },
+  {
+    "workId": "789ca06b-7c79-4e4e-ef7d-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Predigt über den Kampf zwischen Ägyptern und Israeliten",
+    "directory": "werke/Unbekannt/10 Predigten zu Exodus/Predigt über den Kampf zwischen Ägyptern und Israeliten",
+    "contentRevision": "sha256:fe03b4340161ffc57597a0ecb9eec423064bce4b740080b344349c492bd512db"
+  },
+  {
+    "workId": "a2b8e53d-4b73-4d47-ef7c-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Predigt über den Tod Josefs und das Wachstum Israels",
+    "directory": "werke/Unbekannt/10 Predigten zu Exodus/Predigt über den Tod Josefs und das Wachstum Israels",
+    "contentRevision": "sha256:fa4abbf5876e2a616ae08cc55b9289f0a6843f56a91d5d4df21d9f34f3131cff"
+  },
+  {
+    "workId": "e580cce1-72b7-414d-ef83-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Predigt über den Weg von drei Tagen",
+    "directory": "werke/Unbekannt/10 Predigten zu Exodus/Predigt über den Weg von drei Tagen",
+    "contentRevision": "sha256:4fb3f3a3b06389b401134a046062973cf03dab28ca5d7ca9bef2186b88cc0124"
+  },
+  {
+    "workId": "88912908-8fcd-45c9-ef82-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Predigt über die Grausamkeit und den Untergang des Pharao",
+    "directory": "werke/Unbekannt/10 Predigten zu Exodus/Predigt über die Grausamkeit und den Untergang des Pharao",
+    "contentRevision": "sha256:4baae65a4ae3226ac00ce4fa35190d92df4a20f85dcfc7e5b08b1bbf642a7acf"
+  },
+  {
+    "workId": "1162b385-ef3f-4681-ef81-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Predigt über die Verhärtung des Herzens des Pharao",
+    "directory": "werke/Unbekannt/10 Predigten zu Exodus/Predigt über die Verhärtung des Herzens des Pharao",
+    "contentRevision": "sha256:8ec5262ed4d685b0ced55a530fa32e094a45f413f74496cecdc8a6d99e7828cf"
+  },
+  {
+    "workId": "087069d9-944f-4b8b-ef80-08df374b6d26",
+    "authorName": "Unbekannt",
+    "title": "Predigt über die zehn Plagen und die zehn Gebote",
+    "directory": "werke/Unbekannt/10 Predigten zu Exodus/Predigt über die zehn Plagen und die zehn Gebote",
+    "contentRevision": "sha256:80052cfe61878bdd7177bd346a09895ad15e7d38663a2b9102482c757352e7c8"
+  },
+  {
     "workId": "8dca1443-75c6-460c-7892-08df33a684ef",
     "authorName": "Unbekannt",
     "title": "Prozess und Martyrium Cyprians",
     "directory": "werke/Unbekannt/Prozess und Martyrium Cyprians",
     "contentRevision": "sha256:157cb88dd2aebfacb70110f32b3f7226160726f02329620082f10ef5865474d6"
-  },
-  {
-    "workId": "814637e5-4e17-4407-ef7e-08df374b6d26",
-    "authorName": "Unbekannt",
-    "title": "Pseudo-Augustinus: 1. Predigt über Mose",
-    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigten/Pseudo-Augustinus 1. Predigt über Mose",
-    "contentRevision": "sha256:0d6b3784685e4be55aefd1ad77bc0b8910be765b976799ef57e46f4a76131e7d"
-  },
-  {
-    "workId": "b8411e76-f7f0-4e80-ef7f-08df374b6d26",
-    "authorName": "Unbekannt",
-    "title": "Pseudo-Augustinus: 2. Predigt über Mose",
-    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigten/Pseudo-Augustinus 2. Predigt über Mose",
-    "contentRevision": "sha256:6623039be793f7a783f07b120bd50afeed80320a4e2bee0bd905272a566468e4"
-  },
-  {
-    "workId": "82659bef-d7ed-4ff6-ef85-08df374b6d26",
-    "authorName": "Unbekannt",
-    "title": "Pseudo-Augustinus: Predigt über Refidim, den geschlagenen Felsen und Amalek",
-    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigten/Pseudo-Augustinus Predigt über Refidim, den geschlagenen Felsen und Amalek",
-    "contentRevision": "sha256:304eb0def9693d49006d1d21c086363eef95dac399277b0bf7ad09e062314ee7"
-  },
-  {
-    "workId": "dc9e4069-60e8-4711-ef84-08df374b6d26",
-    "authorName": "Unbekannt",
-    "title": "Pseudo-Augustinus: Predigt über das bittere Wasser und das Manna",
-    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigten/Pseudo-Augustinus Predigt über das bittere Wasser und das Manna",
-    "contentRevision": "sha256:b9fde5726194b9c91d215d921cdce3edbd4dcaa03b069300300c5a8d151d90ec"
-  },
-  {
-    "workId": "789ca06b-7c79-4e4e-ef7d-08df374b6d26",
-    "authorName": "Unbekannt",
-    "title": "Pseudo-Augustinus: Predigt über den Kampf zwischen Ägyptern und Israeliten",
-    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigten/Pseudo-Augustinus Predigt über den Kampf zwischen Ägyptern und Israeliten",
-    "contentRevision": "sha256:8abf4c364f045423bafdce476c8cc0890a3ec465adc48ca1268738f29ae13689"
-  },
-  {
-    "workId": "a2b8e53d-4b73-4d47-ef7c-08df374b6d26",
-    "authorName": "Unbekannt",
-    "title": "Pseudo-Augustinus: Predigt über den Tod Josefs und das Wachstum Israels",
-    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigten/Pseudo-Augustinus Predigt über den Tod Josefs und das Wachstum Israels",
-    "contentRevision": "sha256:d9de50ac7e9f7d6f723def4c26ccace16089fc054d9f1795a7d795e82529d749"
-  },
-  {
-    "workId": "e580cce1-72b7-414d-ef83-08df374b6d26",
-    "authorName": "Unbekannt",
-    "title": "Pseudo-Augustinus: Predigt über den Weg von drei Tagen",
-    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigten/Pseudo-Augustinus Predigt über den Weg von drei Tagen",
-    "contentRevision": "sha256:44e785212706e35c4ff4d42acccc8e160c99fdc292b225da6799c8e44c66920b"
-  },
-  {
-    "workId": "88912908-8fcd-45c9-ef82-08df374b6d26",
-    "authorName": "Unbekannt",
-    "title": "Pseudo-Augustinus: Predigt über die Grausamkeit und den Untergang des Pharao",
-    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigten/Pseudo-Augustinus Predigt über die Grausamkeit und den Untergang des Pharao",
-    "contentRevision": "sha256:7c136c9dd1d98ca2f41f25f09973fbcae087cd07604fce1a43f425641a082882"
-  },
-  {
-    "workId": "1162b385-ef3f-4681-ef81-08df374b6d26",
-    "authorName": "Unbekannt",
-    "title": "Pseudo-Augustinus: Predigt über die Verhärtung des Herzens des Pharao",
-    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigten/Pseudo-Augustinus Predigt über die Verhärtung des Herzens des Pharao",
-    "contentRevision": "sha256:420e7a6d9902d215da4797c90d6a1e1235bb924e3389a9fe963a431379a4b9f1"
-  },
-  {
-    "workId": "087069d9-944f-4b8b-ef80-08df374b6d26",
-    "authorName": "Unbekannt",
-    "title": "Pseudo-Augustinus: Predigt über die zehn Plagen und die zehn Gebote",
-    "directory": "werke/Unbekannt/Pseudo-Augustinus Predigten/Pseudo-Augustinus Predigt über die zehn Plagen und die zehn Gebote",
-    "contentRevision": "sha256:5c152f5a3735856e077ae445e9486f1c0b5a285a266ecb516a4cff59092414f1"
   },
   {
     "workId": "f75bbe59-de2d-4b61-ef77-08df374b6d26",
