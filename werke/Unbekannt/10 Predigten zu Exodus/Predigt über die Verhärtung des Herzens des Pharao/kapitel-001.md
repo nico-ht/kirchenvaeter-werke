@@ -1,10 +1,10 @@
-# Pseudo\-Augustinus: Predigt über die Verhärtung des Herzens des Pharao – Kapitel 1: Der Pharao verhärtet sich durch Gottes Nachsicht, nicht durch göttlichen Zwang
+# Predigt über die Verhärtung des Herzens des Pharao – Kapitel 1: Der Pharao verhärtet sich durch Gottes Nachsicht, nicht durch göttlichen Zwang
 
 Autor: Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/pseudo-augustinus-predigt-ueber-die-verhaertung-des-herzens-des-pharao#kapitel-3d9c60e7-4829-4f7f-978c-08df374b6e6f).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/predigt-ueber-die-verhaertung-des-herzens-des-pharao#kapitel-3d9c60e7-4829-4f7f-978c-08df374b6e6f).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Jedes Mal, wenn jene Lesung vorgetragen wird, geliebte Brüder, in der wir wiederholt hören, dass der Herr das Herz des Pharao verhärtet hat[^bible-c8861671-2323-43e8-bb6c-f970056680ed], erregt das gewöhnlich nicht nur bei Laien, sondern auch bei manchen Klerikern Anstoß\. Einige sagen nämlich zueinander: „Warum wird dem Pharao jene Bosheit zur Last gelegt, wenn es doch heißt, der Herr habe sein Herz verhärtet[^bible-c8861671-2323-43e8-bb6c-f970056680ed]?“ Und weil die höchst unreinen Manichäer deswegen in frevlerischer Raserei die Schrift des Alten Testaments anzugreifen pflegen, bitte ich euch, Brüder: Hört aufmerksam zu\. Denn wir wollen euch, meine Lieben, kurz darlegen, wie ihr jene Verhärtung verstehen sollt, wenn auch nicht so gut, wie wir es sollten, so doch wenigstens so gut, wie wir es können\.
