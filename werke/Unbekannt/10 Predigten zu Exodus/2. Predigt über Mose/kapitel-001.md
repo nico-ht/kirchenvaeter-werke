@@ -1,10 +1,10 @@
-# Pseudo\-Augustinus: 2\. Predigt über Mose – Kapitel 1: Warum Mose und Josua die Schuhe lösen müssen: Nur Christus ist der rechtmäßige Bräutigam der Kirche
+# 2\. Predigt über Mose – Kapitel 1: Warum Mose und Josua die Schuhe lösen müssen: Nur Christus ist der rechtmäßige Bräutigam der Kirche
 
 Autor: Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/pseudo-augustinus-2-predigt-ueber-mose#kapitel-c0fbedd3-e8a7-4e97-978a-08df374b6e6f).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/2-predigt-ueber-mose#kapitel-c0fbedd3-e8a7-4e97-978a-08df374b6e6f).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Groß und gleichsam verhüllt sind sie, geliebte Brüder, die heiligen Zeichen der Geheimnisse Gottes\. Auch wenn wir nicht alles enthüllen können, legen wir euch doch kurz dar, was uns möglich ist\. Es war nicht ohne Grund, geliebte Brüder, und nicht ohne verborgene Bedeutung, dass im Dornbusch eine Flamme brannte und der Dornbusch nicht verbrannte[^bible-b0732162-00b7-430a-bb3a-d6c544bebf52]\. Denn der Dornbusch ist ein Dornengewächs; und was die Erde dem sündigen Menschen hervorgebracht hat, kann nicht als etwas Lobenswertes gelten\. Dem Menschen wurde ja, als er zu Anfang sündigte, gesagt: „Die Erde wird dir Dornen und Disteln hervorbringen\.[^bible-b1aff384-b2ef-4857-92fb-cd4cae5be0a4]“ Auch dass der Dornbusch nicht verbrannte[^bible-b0732162-00b7-430a-bb3a-d6c544bebf52], also von der Flamme nicht erfasst wurde, bedeutet erkennbar nichts Gutes\. Denn unter der Flamme ist der Heilige Geist zu verstehen; der Dornbusch und die Dornen aber bezeichnen das Volk der Juden, hart und hochmütig\. Jene Flamme, in der ein Engel oder der Herr erschien[^bible-6b134bed-2f37-4834-b75c-113ef3aac6e9], bezeichnete nämlich zweifellos etwas Gutes\. Schließlich erschienen den Aposteln, als der Heilige Geist auf sie kam, Zungen wie von Feuer, die sich verteilten[^bible-64e637c8-badc-4fc6-91f6-36fd23398b4b]\. Möge dieses Feuer auch uns erfassen\! Möge es uns nicht so hart vorfinden, dass es uns nicht verbrennen kann\. Beten wir vielmehr darum, dass dieses Feuer in uns brennt und die Dornen unserer Sünden vernichtet und verzehrt\.
