@@ -1,10 +1,10 @@
-# Pseudo\-Augustinus: Predigt über den Kampf zwischen Ägyptern und Israeliten – Kapitel 1: Unsere Werke zeigen, wem wir dienen und mit wem wir ewig sein werden – noch ist Umkehr möglich
+# Predigt über den Kampf zwischen Ägyptern und Israeliten – Kapitel 1: Unsere Werke zeigen, wem wir dienen und mit wem wir ewig sein werden – noch ist Umkehr möglich
 
 Autor: Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/pseudo-augustinus-predigt-ueber-den-kampf-zwischen-aegyptern-und-israeliten#kapitel-056065c0-a907-4910-9788-08df374b6e6f).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/predigt-ueber-den-kampf-zwischen-aegyptern-und-israeliten#kapitel-056065c0-a907-4910-9788-08df374b6e6f).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Geliebte Brüder, wir sollen zwar zu jeder Zeit Gottes Wort stets gläubig und mit großem Verlangen hören; in diesen Tagen aber müssen wir uns besonders der Lesung der Heiligen Schrift widmen und aufmerksamer über das Heil unserer Seele nachdenken\. Denn obwohl das christliche Volk durch die List des Teufels das ganze Jahr hindurch von den vielen Wogen der Laster bedrängt wird, rüstet er sich gewöhnlich, wenn das Osterfest naht, zu einem noch heftigeren Angriff gegen alle Gläubigen\. Mit schärferen Stacheln der Sünden sucht er unsere Herzen zu verwunden oder zu beunruhigen\. Wie nämlich in diesen Tagen, als Abbild des Teufels und seiner Engel, König Pharao und das ägyptische Volk die Söhne Israels verfolgten, sie mit der Arbeit an Lehm und Ziegeln bedrückten und ihnen das Leben bitter machten[^bible-2aab6765-b3f2-4db1-b2d9-343d43c2922f], so pflegt der Teufel auch jetzt, wenn das Osterfest bevorsteht, schwerere Bedrängnisse zu schicken und größere Ärgernisse hervorzurufen\. Denn es schmerzt ihn, dass die wahren Israeliten, die getauft werden sollen, aus seinem Heer ausscheiden und nicht länger zu seinem Besitz gehören\. Wenn wir aber Mose folgen, das heißt, wenn wir gern das Gesetz hören und weder zurückblicken noch uns nach Ägypten sehnen wollen, dann geht Pharao unter[^bible-ccb07d2e-49ee-4d7b-8a1a-0624dbfc0292], und wir werden durch das Sakrament der Taufe wie beim Durchzug durch das Rote Meer[^bible-74470ed7-f1bc-43ed-9315-0004bbe9c2e5] aus seiner Gewalt und Knechtschaft befreit\.
