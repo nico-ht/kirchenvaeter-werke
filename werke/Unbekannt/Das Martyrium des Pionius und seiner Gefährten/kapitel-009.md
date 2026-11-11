@@ -1,10 +1,10 @@
 # Das Martyrium des Pionius und seiner Gefährten – Kapitel 9: Pionius, Sabina und Asklepiades bekennen sich im Verhör als Christen und verehren denselben Gott
 
-Autor: Märtyrerakten
+Autor: Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/maertyrerakten/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-e739c669-db53-4517-6aec-08dd701b3248).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-e739c669-db53-4517-6aec-08dd701b3248).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Darauf vernahm er ihn zu Protokoll, während der Schreiber alles festhielt: „Wie heißt du?“ Er antwortete: „Pionius\.“

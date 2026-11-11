@@ -1,10 +1,10 @@
 # Das Martyrium des Pionius und seiner Gefährten – Kapitel 8: Pionius verehrt den durch Christus erkannten Schöpfer und verweigert dem Kaiser das Opfer als einem Menschen
 
-Autor: Märtyrerakten
+Autor: Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/maertyrerakten/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-719764ae-92e9-43b4-6aeb-08dd701b3248).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-719764ae-92e9-43b4-6aeb-08dd701b3248).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Wieder sagte Polemon zu Pionius: „Lass dich von uns überzeugen, Pionius\.“ Pionius erwiderte: „Du hast den Befehl, uns entweder zu überzeugen oder zu bestrafen\. Du überzeugst uns nicht; dann bestrafe uns\.“

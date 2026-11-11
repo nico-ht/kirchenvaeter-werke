@@ -1,10 +1,10 @@
 # Das Martyrium des Pionius und seiner Gefährten – Kapitel 14: Pionius deutet Samuels Erscheinung als Dämonentrug und bestreitet, dass Christus durch Totenbeschwörung erschien
 
-Autor: Märtyrerakten
+Autor: Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/maertyrerakten/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-0c30f903-478b-4328-6af1-08dd701b3248).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-0c30f903-478b-4328-6af1-08dd701b3248).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Diese Lüge, die sie erzählen, als sei das gerade erst geschehen, habe ich schon von Kindheit an von Juden gehört\.

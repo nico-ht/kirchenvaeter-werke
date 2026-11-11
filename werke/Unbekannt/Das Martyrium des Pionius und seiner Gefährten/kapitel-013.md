@@ -1,10 +1,10 @@
 # Das Martyrium des Pionius und seiner Gefährten – Kapitel 13: Pionius warnt vor dem Gang in die Synagoge und widerlegt Einwände gegen Christus mit dem Wirken seiner Jünger
 
-Autor: Märtyrerakten
+Autor: Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/maertyrerakten/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-1730e23e-0354-40f0-6af0-08dd701b3248).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-1730e23e-0354-40f0-6af0-08dd701b3248).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Ich höre auch, dass Juden einige von euch in ihre Synagogen einladen\. Hütet euch deshalb davor, in eine noch größere und vorsätzliche Sünde zu geraten\. Niemand soll die unvergebbare Sünde begehen, den Heiligen Geist zu lästern[^bible-4e803bbe-73a7-4b70-a4ca-37fc22480acd]\.

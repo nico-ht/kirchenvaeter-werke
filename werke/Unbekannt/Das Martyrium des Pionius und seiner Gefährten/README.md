@@ -1,10 +1,10 @@
 # Das Martyrium des Pionius und seiner Gefährten
 
-Märtyrerakten
+Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/maertyrerakten/das-martyrium-des-pionius-und-seiner-gefaehrten) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/das-martyrium-des-pionius-und-seiner-gefaehrten) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 - [Kapitel 1: Der Apostel mahnt zum Gedenken an die Heiligen; Pionius hinterließ als apostolischer Mann diese Schrift zur Unterweisung](kapitel-001.md)
 - [Kapitel 2: Pionius sieht seine Verhaftung am Gedenktag Polykarps voraus und legt sich mit Sabina und Asklepiades Ketten um](kapitel-002.md)

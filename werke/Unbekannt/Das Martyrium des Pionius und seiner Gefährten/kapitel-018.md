@@ -1,10 +1,10 @@
 # Das Martyrium des Pionius und seiner Gefährten – Kapitel 18: Die Gefangenen vereiteln den Opferzwang und stärken einander im Gefängnis mit Psalmen und Gebeten
 
-Autor: Märtyrerakten
+Autor: Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/maertyrerakten/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-5e3cfb6f-e827-4c7f-6af5-08dd701b3248).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-5e3cfb6f-e827-4c7f-6af5-08dd701b3248).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Ein Mann von hohem weltlichem Rang und Ansehen sagte zusammen mit Lepidus: „Schrei nicht, Pionius\!“

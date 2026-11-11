@@ -1,10 +1,10 @@
 # Das Martyrium des Pionius und seiner Gefährten – Kapitel 19: Pionius bekennt sich als Presbyter und verteidigt vor dem Prokonsul die Verehrung des Schöpfers statt des Himmels
 
-Autor: Märtyrerakten
+Autor: Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/maertyrerakten/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-09e1ee12-5cf5-465d-6af6-08dd701b3248).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-09e1ee12-5cf5-465d-6af6-08dd701b3248).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Danach kam der Prokonsul nach Smyrna\. Pionius wurde ihm vorgeführt und legte am 12\. März Zeugnis ab, wobei die damit Beauftragten ein Protokoll anfertigten\.

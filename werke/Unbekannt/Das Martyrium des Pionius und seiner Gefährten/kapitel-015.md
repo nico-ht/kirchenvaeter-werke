@@ -1,10 +1,10 @@
 # Das Martyrium des Pionius und seiner Gefährten – Kapitel 15: Pionius fordert, auf den Prokonsul zu warten; die Gefangenen wehren sich gegen die Verschleppung in den Tempel
 
-Autor: Märtyrerakten
+Autor: Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/maertyrerakten/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-0821f239-3ea0-4da8-6af2-08dd701b3248).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-0821f239-3ea0-4da8-6af2-08dd701b3248).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Nachdem er dies gesagt und sie gedrängt hatte, das Gefängnis zu verlassen, traten der Tempelhüter Polemon und der Reiterkommandant Theophilus mit Soldaten und einer großen Menschenmenge zu ihnen und sagten:

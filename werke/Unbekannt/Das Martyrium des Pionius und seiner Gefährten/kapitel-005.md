@@ -1,10 +1,10 @@
 # Das Martyrium des Pionius und seiner Gefährten – Kapitel 5: Pionius schätzt das irdische Leben, zieht ihm aber das verheißene Leben und das wahre Licht vor
 
-Autor: Märtyrerakten
+Autor: Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/maertyrerakten/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-4ade647b-97a7-4a37-6ae8-08dd701b3248).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-4ade647b-97a7-4a37-6ae8-08dd701b3248).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Während Pionius dies und noch vieles andere sagte und lange weiterredete, lauschten der Tempelhüter, seine Begleiter und die ganze Menge aufmerksam\. Es herrschte solche Stille, dass niemand auch nur einen Laut von sich gab\.

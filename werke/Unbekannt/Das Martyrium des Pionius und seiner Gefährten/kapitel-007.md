@@ -1,10 +1,10 @@
 # Das Martyrium des Pionius und seiner Gefährten – Kapitel 7: Pionius warnt vor dem Feuer nach dem Tod, Sabina begegnet den Drohungen mit Hoffnung auf ewige Freude
 
-Autor: Märtyrerakten
+Autor: Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/maertyrerakten/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-f5ceb6b4-a9a0-4281-6aea-08dd701b3248).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-f5ceb6b4-a9a0-4281-6aea-08dd701b3248).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Das Volk wollte im Theater eine Versammlung abhalten, um dort mehr zu hören\. Einige aber, die um den Strategen besorgt waren, traten an den Tempelhüter Polemon heran und sagten: „Lass ihn nicht reden, damit die Leute nicht ins Theater gehen und es nicht zu einem Aufruhr und einer Untersuchung wegen dieses Mannes kommt\.“

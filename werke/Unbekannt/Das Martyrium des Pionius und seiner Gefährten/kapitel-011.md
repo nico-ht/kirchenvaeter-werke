@@ -1,10 +1,10 @@
 # Das Martyrium des Pionius und seiner Gefährten – Kapitel 11: Die Gefangenen überwinden den Zorn der Wärter durch Freundlichkeit und gewinnen Freiheit zu Gespräch und Gebet
 
-Autor: Märtyrerakten
+Autor: Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/maertyrerakten/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-68a4c12a-4dd2-4f93-6aee-08dd701b3248).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-68a4c12a-4dd2-4f93-6aee-08dd701b3248).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Nachdem er dies gesagt hatte, brachte man sie nur mit Mühe aus dem Gedränge der Menge, übergab sie den Gefängniswärtern und sperrte sie ein\. Sie waren so eng zusammengedrängt worden, dass sie kaum noch Luft bekamen\.

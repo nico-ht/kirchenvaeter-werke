@@ -1,10 +1,10 @@
 # Das Martyrium des Pionius und seiner Gefährten – Kapitel 6: Pionius erklärt seine Fesseln zum Zeichen des festen Entschlusses, ins Gefängnis statt in den Götzentempel zu gehen
 
-Autor: Märtyrerakten
+Autor: Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/maertyrerakten/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-5262a11d-1c1e-435f-6ae9-08dd701b3248).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-5262a11d-1c1e-435f-6ae9-08dd701b3248).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Ein gewisser Alexander, ein Anwalt und ein bösartiger Mann, sagte: „Hör auf uns, Pionius\.“ Pionius antwortete: „Gib du dir Mühe, mir zuzuhören\. Denn was du weißt, weiß ich auch; was ich aber weiß, ist dir unbekannt\.“

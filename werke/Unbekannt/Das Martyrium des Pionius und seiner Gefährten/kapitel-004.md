@@ -1,10 +1,10 @@
 # Das Martyrium des Pionius und seiner Gefährten – Kapitel 4: Pionius weist den Spott über abgefallene Christen zurück und verweigert das Opfer angesichts Gottes Gerichts
 
-Autor: Märtyrerakten
+Autor: Unbekannt
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/maertyrerakten/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-bfa5e7e4-1eac-4202-6ae7-08dd701b3248).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/das-martyrium-des-pionius-und-seiner-gefaehrten#kapitel-bfa5e7e4-1eac-4202-6ae7-08dd701b3248).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Polemon ließ sie dann vor sich aufstellen und sprach: „Pionius, es ist gut für dich, zu gehorchen und wie alle anderen zu opfern, damit du nicht bestraft wirst\.“ Da streckte Pionius mit heiterer Miene die Hand aus und verteidigte sich mit den Worten: „Ihr Männer, die ihr euch mit der Schönheit von Smyrna rühmt, und ihr, die ihr am Fluss Meles wohnt und euch, wie ihr sagt, mit Homer brüstet, und ihr, die ihr als Juden unter euch zugegen seid, hört mir zu, während ich kurz zu euch spreche\.
