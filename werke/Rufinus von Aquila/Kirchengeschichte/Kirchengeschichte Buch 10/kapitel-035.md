@@ -1,0 +1,10 @@
+# Kirchengeschichte Buch 10 – Kapitel 35: Athanasius fährt auf dem Nil dem Häscher entgegen und entgeht ihm, weil Gott ihn schützt
+
+Autor: Rufinus von Aquila
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-10#kapitel-81a74325-8123-4b97-2818-08ded99fa7b4).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wieder wurde ein Heer geschickt, wieder Offiziere, wieder wurde die Kirche angegriffen\. Und als das Volk in Trauer und Tränen um ihn stand, soll er prophetisch zu ihnen gesprochen haben: „Seid nicht betrübt, meine Kinder“, sagte er, „dies ist eine kleine Wolke, die rasch vorüberzieht\.“ Und als er fortgegangen war und mit dem Boot auf dem Nil unterwegs war, fand der Graf, der zu diesem Zweck gesandt worden war, heraus, welchen Weg er genommen hatte, und machte sich sogleich hinter ihm her auf\. Und als das Boot des Athanasius zufällig an einem Ort angelegt hatte, erfuhr er von Vorübergehenden, dass sein Mörder hinter ihm sei und jeden Augenblick, wenn er nicht aufpasse, über ihm sein werde\. Alle, die bei ihm waren, gerieten in Schrecken und versuchten, ihn zu überreden, in der Wüste Zuflucht zu suchen\. Er aber sagte: „Erschreckt nicht, meine Kinder; gehen wir vielmehr unserem Mörder entgegen, damit er erkenne, dass der, der uns schützt, weit größer ist als der, der uns verfolgt\.“ Und er wendete sein Boot und nahm Kurs auf seinen Verfolger\. Dieser, der keinen Grund hatte zu vermuten, dass der, den er suchte, ihm entgegenkam, ließ die Gesellschaft fragen, als seien sie Vorüberfahrende, ob sie gehört hätten, wo Athanasius sei\. Als sie antworteten, sie hätten ihn nicht weit von hier unterwegs gesehen, eilte er mit aller Geschwindigkeit weiter und beeilte sich vergeblich, den Mann zu ergreifen, den er vor seinen Augen nicht sah\. Er aber kehrte, durch Gottes Macht geschützt, nach Alexandria zurück und blieb dort sicher verborgen, bis die Verfolgung aufhörte\.

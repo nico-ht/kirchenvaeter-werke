@@ -1,0 +1,10 @@
+# Kirchengeschichte Buch 10 – Kapitel 28: Julian ruft die Bischöfe zurück, und Lucifer weiht in Antiochia eigenmächtig Paulinus
+
+Autor: Rufinus von Aquila
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-10#kapitel-c1de9711-1f29-4b88-2811-08ded99fa7b4).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nach ihm erhielt Julian als Alleinherrscher als rechtmäßige Herrschaft, was er sich angemaßt hatte\. Zuerst befahl er, gleichsam in Kritik an dem, was Konstantius getan hatte, die Bischöfe aus der Verbannung freizulassen, später aber erhob er sich gegen unsere Leute mit jeder schädlichen List\. Damals wurden die noch dort verbliebenen Bischöfe aus der Verbannung entlassen\. Denn Liberius, der Bischof der Stadt Rom, war zurückgekehrt, als Konstantius noch lebte; ob dies aber geschah, weil er dem nachgegeben und unterschrieben hatte, was jener wollte, oder ob es ein Gefallen für das römische Volk war, das ihn beim Weggehen erfleht hatte, habe ich nicht sicher herausgefunden\. Nun bat Eusebius Lucifer, da beide in benachbarte Gegenden Ägyptens verbannt worden waren, mit ihm nach Alexandria zu gehen, um Athanasius zu sehen und zusammen mit den dort noch befindlichen Priestern eine gemeinsame Politik für die Lage der Kirche festzulegen\. Dieser weigerte sich jedoch hinzugehen, schickte stattdessen seinen Diakon, um ihn zu vertreten, und machte sich mit festem Vorsatz nach Antiochia auf\. Dort waren die Parteien noch uneins, hofften aber auf Wiedervereinigung, wenn man für sie einen Bischof von der Art wählen könnte, mit dem nicht nur das eine Volk, sondern beide zufrieden sein könnten; Lucifer aber weihte in übergroßer Eile Paulinus zum Bischof, einen gewiss katholischen, heiligen und in jeder Hinsicht des Priesteramtes würdigen Mann, aber nicht jemanden, auf den sich beide Völker einigen konnten\.
