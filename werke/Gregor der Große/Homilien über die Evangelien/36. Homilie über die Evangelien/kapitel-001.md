@@ -1,0 +1,23 @@
+# 36\. Homilie über die Evangelien – Kapitel 1: Geistliche Genüsse wecken erst beim Kosten das Verlangen und steigern es, indem sie die Seele sättigen
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/gregor-evangelien-homilie-36#kapitel-da154a65-6f10-4499-f026-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Vor dem Volk in der Basilika der seligen Apostel Philippus und Jakobus am zweiten Sonntag nach Pfingsten gehalten\.
+
+
+
+In jener Zeit erzählte Jesus den Pharisäern dieses Gleichnis: „Ein Mann veranstaltete ein großes Abendmahl und lud viele ein\. Zur Stunde des Abendmahls schickte er seinen Diener, um den Eingeladenen zu sagen, sie sollten kommen, denn alles sei schon bereit\. Doch sie begannen alle miteinander, sich zu entschuldigen\. Der Erste sagte ihm: ‚Ich habe ein Landgut gekauft und muss hinausgehen und es besichtigen\. Ich bitte dich, entschuldige mich\.‘ Ein anderer sagte: ‚Ich habe fünf Ochsengespanne gekauft und gehe sie erproben\. Ich bitte dich, entschuldige mich\.‘ Wieder ein anderer sagte: ‚Ich habe geheiratet und kann deshalb nicht kommen\.‘ Der Diener kehrte zurück und berichtete dies seinem Herrn\. Da wurde der Hausherr zornig und sagte seinem Diener: ‚Geh schnell hinaus auf die Plätze und in die Gassen der Stadt und bring die Armen und Gebrechlichen, die Blinden und Lahmen hierher\.‘ Der Diener sagte: ‚Herr, was du befohlen hast, ist geschehen, und noch ist Platz\.‘ Da sagte der Herr zu seinem Diener: ‚Geh hinaus auf die Wege und an die Hecken und zwinge die Menschen hereinzukommen, damit mein Haus voll wird\. Ich sage euch aber: Keiner jener Männer, die eingeladen waren, wird mein Abendmahl kosten\.[^bible-3727e593-e3dc-4139-9ec1-07107affc500]‘“
+
+Das, geliebte Brüder, ist gewöhnlich der Unterschied zwischen den Genüssen des Körpers und denen des Herzens: Solange man die körperlichen Genüsse nicht hat, entfachen sie ein heftiges Verlangen nach sich\. Sobald man sie aber hat und von ihnen isst, wird der Essende satt, und sogleich schlägt seine Sättigung in Überdruss um\. Bei den geistlichen Genüssen dagegen empfindet man Überdruss, solange man sie nicht hat; hat man sie aber, so verlangt man nach ihnen\. Je mehr der Hungrige davon isst, desto mehr hungert der Essende nach ihnen\. Bei jenen gefällt das Verlangen, doch der Genuss missfällt; bei diesen wird das Verlangen gering geschätzt, doch der Genuss gefällt umso mehr\. Bei jenen erzeugt das Verlangen Sättigung und die Sättigung Überdruss; bei diesen aber erzeugt das Verlangen Sättigung und die Sättigung Verlangen\. Denn während die geistlichen Genüsse die Seele sättigen, steigern sie ihr Verlangen: Je mehr man ihren Geschmack wahrnimmt, desto mehr erkennt man, was man umso inniger lieben kann\. Deshalb kann man sie nicht lieben, solange man sie nicht hat, denn man kennt ihren Geschmack nicht\. Wer könnte denn lieben, was er nicht kennt? Darum ermahnt uns der Psalmist mit den Worten: „Kostet und seht, wie süß der Herr ist\.[^bible-96152f54-4274-414b-9164-4f070933f1fd]“ Es ist, als sagte er ausdrücklich: „Ihr kennt seine Süße nicht, wenn ihr sie nicht kostet\. Berührt aber die Speise des Lebens mit dem Gaumen eures Herzens, damit ihr, wenn ihr ihre Süße kostet, sie lieben könnt\.“ Diese Genüsse verlor der Mensch damals, als er im Paradies sündigte[^bible-08e10e39-ae53-4b8c-b9a0-a4c83c5a515e]; er ging hinaus[^bible-b301ee62-f189-416a-ad26-5713f7cd59e3], als er seinen Mund vor der Speise ewiger Süße verschloss\. So kommen auch wir, geboren in das Elend dieser Fremde, bereits mit Überdruss hierher und wissen nicht, wonach wir verlangen sollen\. Die Krankheit unseres Überdrusses verschlimmert sich umso mehr, je weiter sich die Seele davon entfernt, jene Süße zu kosten\. Sie verlangt deshalb nicht mehr nach den inneren Genüssen, weil sie sich schon lange völlig davon entwöhnt hat, von ihnen zu essen\. So siechen wir an unserem Überdruss dahin, und die lang anhaltende Plage des Hungers erschöpft uns\. Weil wir die im Inneren bereitete Süße nicht kosten wollen, lieben wir Elenden draußen unseren Hunger\. Doch die himmlische Güte verlässt uns nicht einmal dann, wenn wir sie verlassen\.
+
+## Bibelverweise
+
+[^bible-08e10e39-ae53-4b8c-b9a0-a4c83c5a515e]: Gen 3,6
+[^bible-3727e593-e3dc-4139-9ec1-07107affc500]: Lk 14,16–Lk 14,24
+[^bible-96152f54-4274-414b-9164-4f070933f1fd]: Ps 33,9
+[^bible-b301ee62-f189-416a-ad26-5713f7cd59e3]: Gen 3,23
