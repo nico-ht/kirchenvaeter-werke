@@ -1,0 +1,16 @@
+# 37\. Homilie über die Evangelien – Kapitel 7: Weil Gott auch Gedanken richtet, bitten wir mit Tränen, Barmherzigkeit und dem Opfer des Altars um Vergebung
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/gregor-evangelien-homilie-37#kapitel-7d7498ff-4ff1-4ade-f039-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Vielleicht haben wir aber unseren schuldhaften bösen Taten bereits ein Ende gesetzt und meiden nun äußerlich alles Verkehrte\. Sind wir deshalb schon imstande, über unsere Gedanken Rechenschaft abzulegen? Denn es heißt, jener komme mit zwanzigtausend Mann, und ihm sei der andere, der mit zehntausend kommt, keineswegs gewachsen[^bible-4123b7a5-893f-4477-9e43-b522a18cb276]\. Zehntausend verhalten sich nämlich zu zwanzigtausend wie das Einfache zum Doppelten\. Wir aber bleiben, selbst wenn wir große Fortschritte machen, kaum in unseren äußeren Werken auf dem rechten Weg\. Denn auch wenn wir die Ausschweifung des Fleisches bereits abgelegt haben, ist sie doch noch nicht von Grund auf aus dem Herzen getilgt\. Der aber, der zum Gericht kommt, richtet zugleich über das Äußere und das Innere, er wägt Taten ebenso wie Gedanken\. Mit einem doppelt so großen Heer tritt er also gegen das einfache an: Wir sind kaum auch nur in unseren Werken gerüstet, und er zieht uns zugleich für unsere Werke und Gedanken zur Rechenschaft\. Was sollen wir also tun, Brüder, wenn wir erkennen, dass wir mit unserem einfachen Heer seinem doppelt so großen nicht gewachsen sind? Können wir etwas anderes tun, als ihm, solange er noch fern ist, eine Gesandtschaft zu schicken und um Frieden zu bitten[^bible-0d826241-dd1c-42cf-b3f8-1865c7129632]? Denn es heißt, dass er noch fern ist[^bible-0d826241-dd1c-42cf-b3f8-1865c7129632], weil er noch nicht sichtbar zum Gericht erschienen ist\. Schicken wir ihm unsere Tränen als Gesandtschaft, schicken wir Werke der Barmherzigkeit, bringen wir auf seinem Altar Sühnopfer dar\. Erkennen wir, dass wir vor Gericht nicht gegen ihn bestehen können; bedenken wir seine Macht und Stärke und bitten wir um Frieden[^bible-0d826241-dd1c-42cf-b3f8-1865c7129632]\. Das ist unsere Gesandtschaft, die den herankommenden König besänftigt\. Bedenkt, Brüder, wie gütig es ist, dass der sein Kommen hinauszögert, der uns bei seiner Ankunft niederwerfen kann\. Schicken wir ihm, wie gesagt, unsere Gesandtschaft, indem wir Tränen vergießen, Gaben austeilen und heilige Opfer darbringen\. Denn in besonderer Weise hilft uns das Opfer des heiligen Altars zur Vergebung, wenn es unter Tränen und mit gütigem Herzen dargebracht wird\. Denn der, der selbst von den Toten auferstanden ist und nicht mehr stirbt[^bible-8b7ccbed-9997-4528-96ac-039d5835bac5], leidet durch dieses Opfer in seinem Mysterium noch immer erneut für uns\. Sooft wir ihm nämlich das Opfer seines Leidens darbringen, erneuern wir sein Leiden für uns, damit wir Vergebung erlangen\.
+
+## Bibelverweise
+
+[^bible-0d826241-dd1c-42cf-b3f8-1865c7129632]: Lk 14,32
+[^bible-4123b7a5-893f-4477-9e43-b522a18cb276]: Lk 14,31
+[^bible-8b7ccbed-9997-4528-96ac-039d5835bac5]: Röm 6,9
