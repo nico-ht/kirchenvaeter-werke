@@ -1,0 +1,32 @@
+# 7\. Homilie über die Evangelien – Kapitel 1: Warum Johannes Elija dem Geist nach ist, es aber seiner Person nach wahrheitsgemäß verneint
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/gregor-evangelien-homilie-7#kapitel-167f0703-92ca-4892-ef85-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Vor dem Volk in der Basilika des heiligen Apostels Petrus am vierten Adventssonntag gehalten\.
+
+
+
+Damals sandten die Juden aus Jerusalem Priester und Leviten zu Johannes, um ihn zu fragen[^bible-d9415c4d-e9b6-415a-8d3f-d82287517940]: „Wer bist du?[^bible-d9415c4d-e9b6-415a-8d3f-d82287517940]“ Er bekannte und leugnete nicht\. Er bekannte[^bible-085cbcd8-fad5-4b80-a2c3-eff707e12d90]: „Ich bin nicht der Christus\.[^bible-085cbcd8-fad5-4b80-a2c3-eff707e12d90]“ Sie fragten ihn[^bible-286b61c0-1a48-4662-a260-4e2ec70d1466]: „Was dann? Bist du Elija?[^bible-286b61c0-1a48-4662-a260-4e2ec70d1466]“ Er sagte[^bible-286b61c0-1a48-4662-a260-4e2ec70d1466]: „Ich bin es nicht\.[^bible-286b61c0-1a48-4662-a260-4e2ec70d1466]“ „Bist du der Prophet?[^bible-286b61c0-1a48-4662-a260-4e2ec70d1466]“ Er antwortete[^bible-286b61c0-1a48-4662-a260-4e2ec70d1466]: „Nein\.[^bible-286b61c0-1a48-4662-a260-4e2ec70d1466]“ Da sagten sie zu ihm[^bible-0406a199-8c83-435d-ad27-cae9701e756e]: „Wer bist du? Wir müssen denen eine Antwort geben, die uns gesandt haben\. Was sagst du über dich selbst?[^bible-0406a199-8c83-435d-ad27-cae9701e756e]“ Er sagte[^bible-6c047d24-012e-4e8a-aee7-2250142bd24e]: „Ich bin die Stimme eines Rufenden in der Wüste[^bible-6c047d24-012e-4e8a-aee7-2250142bd24e]“: „‚Macht den Weg des Herrn gerade[^bible-6c047d24-012e-4e8a-aee7-2250142bd24e]‘“, wie der Prophet Jesaja gesagt hat\.[^bible-6c047d24-012e-4e8a-aee7-2250142bd24e]“ Die Gesandten gehörten zu den Pharisäern\. Sie fragten ihn[^bible-62d5e968-ee59-4070-89ba-d2819a97745f]: „Warum taufst du dann, wenn du weder der Christus noch Elija noch der Prophet bist?[^bible-6ebda06f-3dd9-4e24-a13b-70dadad14414]“ Johannes antwortete ihnen[^bible-fcb4add7-3da7-4ba7-8ba6-5f002e0c937c]: „Ich taufe mit Wasser; mitten unter euch steht aber einer, den ihr nicht kennt\. Er ist es, der nach mir kommen wird und der mir voraus ist\. Ich bin nicht würdig, ihm den Schuhriemen zu lösen\.[^bible-d53baa52-d0f7-4036-881e-aa5ae64d9fa2]“ Dies geschah in Bethanien jenseits des Jordans, wo Johannes taufte\.[^bible-7c5d6b33-02f2-4dc5-b466-c90019d7e63b]
+
+Die Worte dieser Lesung, geliebte Brüder, stellen uns die Demut des Johannes als Vorbild vor Augen\. Er besaß so große Kraft, dass man ihn für den Christus hätte halten können\. Dennoch zog er es vor, fest bei dem zu bleiben, was er war, statt sich durch das Urteil der Menschen zu leerer Selbstüberhebung hinreißen zu lassen\. Denn er bekannte und leugnete nicht, und er bekannte[^bible-085cbcd8-fad5-4b80-a2c3-eff707e12d90]: „Ich bin nicht der Christus\.[^bible-085cbcd8-fad5-4b80-a2c3-eff707e12d90]“ Indem er aber sagte: „Ich bin es nicht[^bible-085cbcd8-fad5-4b80-a2c3-eff707e12d90]“, leugnete er zwar, was er nicht war, doch leugnete er nicht, was er war\. So sollte er, indem er die Wahrheit sprach, ein Glied dessen werden, dessen Namen er sich nicht fälschlich anmaßte\. Weil er also nicht nach dem Namen Christi greifen wollte, wurde er ein Glied Christi; denn indem er sich bemühte, demütig seine Schwäche anzuerkennen, wurde er würdig, wahrhaft an dessen Hoheit teilzuhaben\. Wenn uns jedoch aus einer anderen Lesung ein Ausspruch unseres Erlösers in den Sinn kommt, ergibt sich aus den Worten dieser Lesung eine sehr verwickelte Frage\. An anderer Stelle wurde der Herr nämlich von seinen Jüngern nach dem Kommen Elijas gefragt und antwortete: „Elija ist schon gekommen, und sie haben ihn nicht erkannt, sondern mit ihm getan, was sie wollten\.[^bible-74fdfeb3-376b-44ba-a2b7-a56e6f09ca43] Und wenn ihr es wissen wollt: Johannes selbst ist Elija\.[^bible-0c6083c3-c36d-45c7-8f38-8f5c1be6e1f5]“ Johannes aber sagt, als er gefragt wird: „Ich bin nicht Elija\.[^bible-286b61c0-1a48-4662-a260-4e2ec70d1466]“ Wie ist das zu verstehen, geliebte Brüder, dass der Prophet der Wahrheit verneint, was die Wahrheit bejaht? Denn „Er ist es[^bible-0c6083c3-c36d-45c7-8f38-8f5c1be6e1f5]“ und „Ich bin es nicht[^bible-286b61c0-1a48-4662-a260-4e2ec70d1466]“ sind sehr verschiedene Aussagen\. Wie kann er also ein Prophet der Wahrheit sein, wenn er mit den Worten der Wahrheit selbst nicht übereinstimmt? Forscht man aber der Wahrheit genau nach, erkennt man, warum das, was widersprüchlich klang, kein Widerspruch ist\. Denn der Engel sagt zu Zacharias über Johannes: „Er wird vor ihm hergehen im Geist und in der Kraft Elijas\.[^bible-bff5b11c-f54d-4767-8046-03709d982572]“ Von ihm wird deshalb gesagt, er werde im Geist und in der Kraft Elijas kommen[^bible-bff5b11c-f54d-4767-8046-03709d982572], weil Johannes dem ersten Kommen des Herrn vorausging, wie Elija seinem zweiten Kommen vorausgehen wird\. Wie jener als Vorläufer des Richters kommen wird, so wurde dieser zum Vorläufer des Erlösers\. Johannes war also dem Geist nach Elija, seiner Person nach war er nicht Elija\. Was der Herr also vom Geist bejaht, verneint Johannes von seiner Person\. Denn es war angemessen, dass der Herr den Jüngern eine geistliche Aussage über Johannes machte, Johannes selbst aber den fleischlich gesinnten Volksmengen nicht über seinen Geist, sondern über seinen Leib Antwort gab\. Was Johannes sagte, scheint also der Wahrheit zu widersprechen; dennoch wich er nicht vom Weg der Wahrheit ab\.
+
+## Bibelverweise
+
+[^bible-0406a199-8c83-435d-ad27-cae9701e756e]: Joh 1,22
+[^bible-085cbcd8-fad5-4b80-a2c3-eff707e12d90]: Joh 1,20
+[^bible-0c6083c3-c36d-45c7-8f38-8f5c1be6e1f5]: Mt 11,14
+[^bible-286b61c0-1a48-4662-a260-4e2ec70d1466]: Joh 1,21
+[^bible-62d5e968-ee59-4070-89ba-d2819a97745f]: Joh 1,24–Joh 1,25
+[^bible-6c047d24-012e-4e8a-aee7-2250142bd24e]: Joh 1,23
+[^bible-6ebda06f-3dd9-4e24-a13b-70dadad14414]: Joh 1,25
+[^bible-74fdfeb3-376b-44ba-a2b7-a56e6f09ca43]: Mt 17,12
+[^bible-7c5d6b33-02f2-4dc5-b466-c90019d7e63b]: Joh 1,28
+[^bible-bff5b11c-f54d-4767-8046-03709d982572]: Lk 1,17
+[^bible-d53baa52-d0f7-4036-881e-aa5ae64d9fa2]: Joh 1,26–Joh 1,27
+[^bible-d9415c4d-e9b6-415a-8d3f-d82287517940]: Joh 1,19
+[^bible-fcb4add7-3da7-4ba7-8ba6-5f002e0c937c]: Joh 1,26
