@@ -1,0 +1,15 @@
+# 14\. Homilie über die Evangelien – Kapitel 2: In der Gefahr entlarvt sich der Lohnarbeiter: Er schweigt zum Unrecht und lässt die Herde im Stich
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/gregor-evangelien-homilie-14#kapitel-87797a51-13e7-4966-ef92-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nicht Hirte, sondern Lohnarbeiter heißt, wer die Schafe des Herrn nicht aus inniger Liebe, sondern um irdischen Lohn weidet\. Ein Lohnarbeiter ist nämlich, wer zwar die Stelle eines Hirten einnimmt, aber nicht danach strebt, Seelen zu gewinnen\. Er giert nach irdischen Vorteilen, genießt die Ehre seines Vorsteheramts, nährt sich von zeitlichem Gewinn und freut sich über die Ehrerbietung, die ihm die Menschen entgegenbringen\. Darin besteht nämlich der Lohn des Lohnarbeiters: Für seine Mühe bei der Leitung findet er schon hier, was er sucht, hat aber künftig keinen Anteil am Erbe der Herde\. Ob einer Hirte oder Lohnarbeiter ist, lässt sich jedoch nicht sicher erkennen, solange keine Notlage eintritt\. Denn in ruhigen Zeiten steht meist ebenso wie der wahre Hirte auch der Lohnarbeiter bei der Herde Wache\. Doch wenn der Wolf kommt[^bible-375f5ba7-f608-4516-9f29-deb49dbdf488], zeigt sich, mit welcher Gesinnung jeder über die Herde gewacht hat\. Denn der Wolf kommt über die Schafe[^bible-375f5ba7-f608-4516-9f29-deb49dbdf488], wenn ein ungerechter Mensch und Räuber die Gläubigen und Demütigen unterdrückt\. Wer aber nur ein Hirte zu sein schien und keiner war, lässt die Schafe im Stich und flieht[^bible-375f5ba7-f608-4516-9f29-deb49dbdf488]\. Weil er fürchtet, selbst durch diesen Menschen in Gefahr zu geraten, wagt er es nicht, dessen Unrecht entgegenzutreten\. Er flieht aber nicht, indem er den Ort wechselt, sondern indem er seinen Beistand entzieht\. Er flieht, weil er das Unrecht gesehen und geschwiegen hat\. Er flieht, weil er sich hinter seinem Schweigen verbirgt\. Treffend wird solchen Menschen durch den Propheten gesagt: „Ihr habt euch nicht entgegengestellt und keine Mauer für das Haus Israel aufgerichtet, um am Tag des Herrn im Kampf standzuhalten\.[^bible-71b909e9-d053-4a98-af89-f4eb9e130bf6]“ Sich entgegenzustellen[^bible-71b909e9-d053-4a98-af89-f4eb9e130bf6] heißt nämlich, allen Machthabern, die Unrecht tun, mit dem freien Wort der Vernunft zu widersprechen\. Und am Tag des Herrn stehen wir für das Haus Israel im Kampf und richten eine Mauer auf[^bible-71b909e9-d053-4a98-af89-f4eb9e130bf6], wenn wir, gestützt auf die Autorität der Gerechtigkeit, unschuldige Gläubige gegen das Unrecht verdorbener Menschen in Schutz nehmen\. Weil der Lohnarbeiter das nicht tut, flieht er, wenn er den Wolf kommen sieht[^bible-375f5ba7-f608-4516-9f29-deb49dbdf488]\.
+
+## Bibelverweise
+
+[^bible-375f5ba7-f608-4516-9f29-deb49dbdf488]: Joh 10,12
+[^bible-71b909e9-d053-4a98-af89-f4eb9e130bf6]: Hes 13,5

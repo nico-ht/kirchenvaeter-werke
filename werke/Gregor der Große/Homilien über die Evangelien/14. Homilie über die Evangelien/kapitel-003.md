@@ -1,0 +1,16 @@
+# 14\. Homilie über die Evangelien – Kapitel 3: Wer irdischen Gewinn statt der Schafe liebt, überlässt ihre Seelen den Versuchungen des Teufels
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/gregor-evangelien-homilie-14#kapitel-38de21fa-6129-4893-ef93-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Es gibt aber noch einen anderen Wolf, der täglich ohne Unterlass nicht die Körper, sondern die Herzen zerfleischt: den bösen Geist, der um die Hürden der Gläubigen schleicht, ihnen auflauert und den Tod ihrer Seelen sucht\. Von diesem Wolf heißt es gleich darauf: „Und der Wolf raubt und zerstreut die Schafe\.[^bible-1c2de681-9cf8-4f73-b051-b1abe729972a]“ Der Wolf kommt, und der Lohnarbeiter flieht[^bible-1c2de681-9cf8-4f73-b051-b1abe729972a], denn der böse Geist zerfleischt in der Versuchung die Herzen der Gläubigen, und derjenige, der die Stelle des Hirten innehat, kümmert sich nicht um sie\. Seelen gehen zugrunde, und er selbst freut sich über irdische Vorteile\. Der Wolf raubt und zerstreut die Schafe[^bible-1c2de681-9cf8-4f73-b051-b1abe729972a], wenn er den einen zur Ausschweifung verführt, im anderen die Habgier entfacht, einen anderen mit Hochmut aufbläht und wieder einen anderen durch Zorn in Zwietracht treibt, diesen mit Neid anstachelt und jenen durch Täuschung zu Fall bringt\. So zerstreut gleichsam der Wolf die Herde[^bible-1c2de681-9cf8-4f73-b051-b1abe729972a], wenn der Teufel das Volk der Gläubigen durch Versuchungen tötet\. Doch dagegen entbrennt im Lohnarbeiter kein Eifer, und keine glühende Liebe treibt ihn an\. Weil er nur äußere Vorteile sucht, lässt er nachlässig zu, dass die Herde im Innern Schaden nimmt\. Deshalb wird gleich hinzugefügt: „Der Lohnarbeiter aber flieht, weil er ein Lohnarbeiter ist und ihm nichts an den Schafen liegt\.[^bible-14a7e0fe-8a26-421a-be39-1f7ca9240393]“ Der einzige Grund dafür, dass der Lohnarbeiter flieht, ist, dass er ein Lohnarbeiter ist[^bible-14a7e0fe-8a26-421a-be39-1f7ca9240393]\. Das ist, als würde offen gesagt: „Wenn die Schafe in Gefahr sind, kann derjenige nicht standhalten, der als ihr Vorsteher nicht die Schafe liebt, sondern irdischen Gewinn sucht\.“ Weil er an seiner Ehrenstellung hängt und sich über zeitliche Vorteile freut, scheut er davor zurück, sich der Gefahr entgegenzustellen, aus Furcht, zu verlieren, was er liebt\. Weil unser Erlöser die Verfehlungen des falschen Hirten aufgedeckt hat, zeigt er uns nun aber erneut das Vorbild, nach dem wir uns formen lassen sollen\. Er sagt: „Ich bin der gute Hirte\.[^bible-402d810e-efa6-43ab-ba96-b3315ffb5f64]“ Und er fügt hinzu: „Und ich kenne meine Schafe[^bible-402d810e-efa6-43ab-ba96-b3315ffb5f64]“, das heißt, ich liebe sie, „und die Meinen kennen mich\.[^bible-402d810e-efa6-43ab-ba96-b3315ffb5f64]“ Das ist, als sagte er offen: „Die mich lieben, gehorchen mir\.“ Denn wer die Wahrheit nicht liebt, hat sie noch gar nicht erkannt\.
+
+## Bibelverweise
+
+[^bible-14a7e0fe-8a26-421a-be39-1f7ca9240393]: Joh 10,13
+[^bible-1c2de681-9cf8-4f73-b051-b1abe729972a]: Joh 10,12
+[^bible-402d810e-efa6-43ab-ba96-b3315ffb5f64]: Joh 10,14
