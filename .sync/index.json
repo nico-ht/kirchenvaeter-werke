@@ -1939,6 +1939,13 @@
     "contentRevision": "sha256:2adde4ff91a4a55f65f6fcfef1197f1499fb3467733b630f30bb1a6d5be9453d"
   },
   {
+    "workId": "294e72b1-9cdd-40e0-1cdb-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "1. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/1. Homilie über die Evangelien",
+    "contentRevision": "sha256:9e7c19d10e2bd50ddcc14a007696e5f52a3d2cf8b9973172f08d0ca5b25ab31d"
+  },
+  {
     "workId": "2eea685d-ffcc-49b5-02c5-08df3837a918",
     "authorName": "Gregor der Große",
     "title": "10. Homilie über die Evangelien",
@@ -1960,6 +1967,27 @@
     "contentRevision": "sha256:4a2227e210c74c5a09f78200a84b68ae4e53b5b13db31b2d1fe0614d91a28ce2"
   },
   {
+    "workId": "542b98a3-01d9-4ec5-1cdf-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "13. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/13. Homilie über die Evangelien",
+    "contentRevision": "sha256:8096da58eeb08aa22bc0b2081a99d02b988751798dc66bccb6f9ceecad795a6e"
+  },
+  {
+    "workId": "cb0cb2a8-f8bf-4ca4-1ce0-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "14. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/14. Homilie über die Evangelien",
+    "contentRevision": "sha256:05614ed57903e09604dbad7ba69389ff6fe75108bb92cc32ba9ff9ffa38e43c1"
+  },
+  {
+    "workId": "744b9001-f091-4f00-1ce1-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "15. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/15. Homilie über die Evangelien",
+    "contentRevision": "sha256:fe924bd76c08f7da1cfed924c5e6a1720de7eac8dbd52b64f95b298633e80005"
+  },
+  {
     "workId": "a8b8b1d9-f1a8-4df7-02c8-08df3837a918",
     "authorName": "Gregor der Große",
     "title": "16. Homilie über die Evangelien",
@@ -1974,11 +2002,74 @@
     "contentRevision": "sha256:7dbc285c2a0a007f28fc53922597ba2d8ac60c6fee4fb18e149222aba6b6d645"
   },
   {
+    "workId": "51dd013a-bdc1-4c8e-1cdc-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "2. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/2. Homilie über die Evangelien",
+    "contentRevision": "sha256:3dc434cb793a267084f5844fde7efe3c15d48b6a134b568cdbcdf134d4e652ca"
+  },
+  {
+    "workId": "d98f96b3-e371-47a1-1ce3-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "22. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/22. Homilie über die Evangelien",
+    "contentRevision": "sha256:e4bf6562d094492b651c2872cd79a840efcac0a3c3397a72cb3a8ef714161234"
+  },
+  {
+    "workId": "d7e6b9cf-a1f5-45de-1ce4-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "23. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/23. Homilie über die Evangelien",
+    "contentRevision": "sha256:68b9897c0dc7454b61b5e9e2b360f232050086381649046da8a5308e3fb79f6c"
+  },
+  {
+    "workId": "ec7fde03-632a-4d02-1ce6-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "25. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/25. Homilie über die Evangelien",
+    "contentRevision": "sha256:ff2b62bba95e0764bf227a060097cf40c1a6267be398a5cb2ae9cb9c1b76925d"
+  },
+  {
+    "workId": "f9c8bd3f-c249-48e4-1ce7-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "26. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/26. Homilie über die Evangelien",
+    "contentRevision": "sha256:70f186bfe2f84244e16a14c94b4d7f580c4e8df879655514e84b64b417039741"
+  },
+  {
+    "workId": "133fa9e8-e77c-4b6e-1ce8-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "27. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/27. Homilie über die Evangelien",
+    "contentRevision": "sha256:d0582e32f561fec7a05e2fdf08572483825f30b7621feb302d4c55f3184f6400"
+  },
+  {
+    "workId": "0c427569-f2f9-450a-1ce9-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "28. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/28. Homilie über die Evangelien",
+    "contentRevision": "sha256:5101a234a8a77881ba805bb4ea57226f5f988e60ffdac9455494fda6193e80e1"
+  },
+  {
     "workId": "889e4d29-8cd9-4c66-02c2-08df3837a918",
     "authorName": "Gregor der Große",
     "title": "3. Homilie über die Evangelien",
     "directory": "werke/Gregor der Große/Homilien über die Evangelien/3. Homilie über die Evangelien",
     "contentRevision": "sha256:6bbfe3be3c130962cf248ec23fefa9ad33d4d3d7396dbf710cfe6e5ddf2d5f10"
+  },
+  {
+    "workId": "0069e6ca-4524-4f45-1cf1-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "36. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/36. Homilie über die Evangelien",
+    "contentRevision": "sha256:31aebfee4631827bbfb3e24bade6d288bc0ddc01ea63702a65e499e14f5aa85f"
+  },
+  {
+    "workId": "19de545f-57cc-4fd5-1cf2-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "37. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/37. Homilie über die Evangelien",
+    "contentRevision": "sha256:aeeb2cec2f19e5eab8495ba9846eb68dfb39fbd6493eec6500de668712cb071a"
   },
   {
     "workId": "79e9cefd-4431-409e-02ca-08df3837a918",
@@ -1988,11 +2079,25 @@
     "contentRevision": "sha256:f96ba7706d39ebcd70ae82b8477e94b352f703fd12df7a1ce9f912e99a3c0082"
   },
   {
+    "workId": "f02c830b-6133-4851-1cf3-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "39. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/39. Homilie über die Evangelien",
+    "contentRevision": "sha256:d718242cbf5db7b5312ed2c3d1f99516b61b2288c9c91f404c621a0b3a5b799a"
+  },
+  {
     "workId": "1535366f-fc1f-4274-02c3-08df3837a918",
     "authorName": "Gregor der Große",
     "title": "4. Homilie über die Evangelien",
     "directory": "werke/Gregor der Große/Homilien über die Evangelien/4. Homilie über die Evangelien",
     "contentRevision": "sha256:bb52553ec76f20bcd885c5e632b111e543f96f0dadbfab7bc796c7f0e4677b49"
+  },
+  {
+    "workId": "da7ae9d0-9dbf-4fe6-1cf4-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "40. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/40. Homilie über die Evangelien",
+    "contentRevision": "sha256:81a3378af7a80e99e353d19c011184d751d8b4d2ecbab04ec31bd5fc9fe475b4"
   },
   {
     "workId": "adfc45be-d86a-4ae7-02c4-08df3837a918",
@@ -2007,6 +2112,20 @@
     "title": "6. Homilie über die Evangelien",
     "directory": "werke/Gregor der Große/Homilien über die Evangelien/6. Homilie über die Evangelien",
     "contentRevision": "sha256:9222ef62c8d8de203a34c0e949a130bebef253cc88d2ad19f03471ec1e26cbe3"
+  },
+  {
+    "workId": "fc546588-3f0a-454c-1cdd-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "7. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/7. Homilie über die Evangelien",
+    "contentRevision": "sha256:afce859791d56fc5e0fac49d876b124cc44d24c7509bbc4c416e0d1db8d3744a"
+  },
+  {
+    "workId": "665b7d07-9721-4584-1cde-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "8. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/8. Homilie über die Evangelien",
+    "contentRevision": "sha256:b18b085cba634806e9ec3d932ae4cad2dc5ad2fe7f90c76ec9e657dc32dbe25c"
   },
   {
     "workId": "b9925e6e-bfd4-4276-a198-08df239ccd94",
@@ -6139,6 +6258,13 @@
     "contentRevision": "sha256:2492ae22ac1237c781484b399b0cf74ab9b026eb20d57bb9849885e4de7e4dea"
   },
   {
+    "workId": "ca50f42b-147f-41a8-1cd5-08df40afae0d",
+    "authorName": "Prosper von Aquitanien",
+    "title": "Über die Berufung aller Völker, Buch 2",
+    "directory": "werke/Prosper von Aquitanien/Über die Berufung aller Völker/Über die Berufung aller Völker, Buch 2",
+    "contentRevision": "sha256:da0507a279c7e3107f0f40720dbb310a0adda18fd1d02aea454c1be45123863e"
+  },
+  {
     "workId": "1f7b47f1-c36e-4001-3f15-08df209fac6c",
     "authorName": "Prudentius",
     "title": "Cathemerinon",
@@ -6165,6 +6291,20 @@
     "title": "Kirchengeschichte Buch 1",
     "directory": "werke/Rufinus von Aquila/Kirchengeschichte/Kirchengeschichte Buch 1",
     "contentRevision": "sha256:dbbd7b676d3ef39a8a3c15c82699cd731f53df86c2f02ebd1c0815eb79e9bdb0"
+  },
+  {
+    "workId": "73558483-0e8c-4d5e-d4d8-08de42575724",
+    "authorName": "Rufinus von Aquila",
+    "title": "Kirchengeschichte Buch 10",
+    "directory": "werke/Rufinus von Aquila/Kirchengeschichte/Kirchengeschichte Buch 10",
+    "contentRevision": "sha256:5526f97dc6761f05d770a31bc7737c069846eb5aaa4ba82c24121f6829fd34b4"
+  },
+  {
+    "workId": "dfca34d0-4785-4adb-239d-08de2b8b78ca",
+    "authorName": "Rufinus von Aquila",
+    "title": "Kirchengeschichte Buch 11",
+    "directory": "werke/Rufinus von Aquila/Kirchengeschichte/Kirchengeschichte Buch 11",
+    "contentRevision": "sha256:bd7b409150bfe3047ee96bb7954278e3684e38d45ed16bbb34f9f939e75ca136"
   },
   {
     "workId": "a38ebc93-67ed-4305-1322-08ddead816d4",

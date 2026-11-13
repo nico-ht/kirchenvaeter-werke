@@ -17,3 +17,5 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Kirchengeschichte Buch 7](Kirchengeschichte%20Buch%207/) · 30 Kapitel
 - [Kirchengeschichte Buch 8](Kirchengeschichte%20Buch%208/) · 16 Kapitel
 - [Kirchengeschichte Buch 9](Kirchengeschichte%20Buch%209/) · 12 Kapitel
+- [Kirchengeschichte Buch 10](Kirchengeschichte%20Buch%2010/) · 41 Kapitel
+- [Kirchengeschichte Buch 11](Kirchengeschichte%20Buch%2011/) · 34 Kapitel

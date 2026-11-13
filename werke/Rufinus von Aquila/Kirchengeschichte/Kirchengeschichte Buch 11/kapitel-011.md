@@ -1,0 +1,10 @@
+# Kirchengeschichte Buch 11 – Kapitel 11: Ambrosius, Statthalter zwischen zwei Parteien, wird vom Volk zum Bischof von Mailand ausgerufen und vom Kaiser bestätigt
+
+Autor: Rufinus von Aquila
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-11#kapitel-bb7ed45c-3e12-4352-687e-08ded9b64703).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+In Mailand starb unterdessen Auxentius, der Bischof der Häretiker, und das Volk spaltete sich in zwei Parteien mit verschiedenen Loyalitäten\. Der Zwist und Streit war so ernst und gefährlich, dass er die Stadt selbst mit baldigem Verderben bedrohte, falls eine der beiden Seiten nicht bekäme, was sie wollte, da jede etwas anderes wünschte\. Ambrosius war damals Statthalter der Provinz\. Als er die Stadt am Rand des Untergangs sah, betrat er sogleich die Kirche, wie sein Amt und der Ort es erforderten, um die aufgebrachte Menge zu beruhigen\. Während er dort um des Friedens und der Ruhe willen eine lange Rede über Recht und öffentliche Ordnung hielt, erhob sich plötzlich aus dem Volk, das miteinander kämpfte und haderte, eine einzige Stimme, die rief, es wolle Ambrosius als Bischof; sie riefen, er solle sofort getauft werden, denn er sei ein Katechumene, und ihnen als Bischof gegeben werden, und anders könne es nicht ein Volk und einen Glauben geben, wenn Ambrosius ihnen nicht als Priester gegeben werde\. Während er sich dagegen heftig sträubte und widersetzte, wurde der Wunsch des Volkes dem Kaiser gemeldet, der anordnete, ihn mit aller Eile zu erfüllen\. Denn es sei Gott zu verdanken, sagte er, dass diese plötzliche Bekehrung die verschiedenen religiösen Haltungen und die uneinigen Ansichten des Volkes auf eine einzige Sicht und Haltung zurückgeführt habe\. Der Gnade Gottes nachgebend, empfing Ambrosius ohne Verzug die heilige Einweihung und das Priesteramt\.

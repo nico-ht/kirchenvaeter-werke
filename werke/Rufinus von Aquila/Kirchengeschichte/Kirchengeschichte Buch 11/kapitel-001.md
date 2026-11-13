@@ -1,0 +1,12 @@
+# Kirchengeschichte Buch 11 – Kapitel 1: Jovian bekennt sich vor dem Heer als Christ, gewinnt unverhofft Frieden, beruft Athanasius und stirbt früh
+
+Autor: Rufinus von Aquila
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-11#kapitel-86f9f435-03e0-44e8-6874-08ded9b64703).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nach dem Tod Julians wurde uns endlich mit Jovian eine rechtmäßige Regierung zurückgegeben; denn er erschien sogleich als Kaiser, Bekenner und Abwender des zum Unheil eingeführten Irrtums\. Denn als das Heer in Alarmbereitschaft war und der Barbar dicht bedrängte, wählten unsere Führer nach Beratung über die Krise Jovian, der, als er ergriffen und fortgeführt wurde, um die Zeichen des Oberbefehls zu empfangen, dem von Julians frevelhaften Taten entweihten Heer erklärt haben soll, er könne ihnen nicht befehlen, weil er Christ sei\. Sie alle sollen einmütig geantwortet haben: „Wir sind auch Christen\!“ Auch wollte er, wie berichtet wird, den Oberbefehl nicht annehmen, ehe er gehört hatte, was sie sagten\. Da kam ihm ohne Verzug Gottes Erbarmen zu Hilfe, und über alle Hoffnung hinaus sahen sie, als der Feind sie von allen Seiten eingeschlossen hatte und kein Ausweg mehr war, plötzlich Gesandte der Barbaren herannahen, die um Frieden baten, die auch versprachen, dem vom Hunger niedergestreckten Heer Lebensmittel und andere Vorräte zu verkaufen, und die in grenzenloser Milde die Verwegenheit unserer Leute berichtigten\. Nachdem er einen Frieden für neunundzwanzig Jahre gesichert hatte und auf römischen Boden zurückgekehrt war und das hellere Licht, das im Osten aufgegangen war, auf unser Land schien, ging er daran, mit aller Mäßigung den Staat nach den scheinbar großen Stürmen wiederherzustellen, und die Sorge für die Kirchen war ihm keine geringere Angelegenheit\. Aber er handelte nicht unbesonnen wie Konstantius; durch den Sturz seines Vorgängers gewarnt, rief er Athanasius mit einem ehrerbietigen und überaus pflichtbewussten Brief zu sich\. Er erhielt von ihm einen Abriss des Glaubens und einen Plan, die Kirchen in Ordnung zu bringen\.
+
+Aber ein früher Tod vernichtete diese so frommen und glücklichen Anfänge; acht Monate nach seinem Regierungsantritt starb er in Kilikien\.

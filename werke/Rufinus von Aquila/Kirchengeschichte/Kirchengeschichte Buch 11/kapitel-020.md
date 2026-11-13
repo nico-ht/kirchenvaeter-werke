@@ -1,0 +1,10 @@
+# Kirchengeschichte Buch 11 – Kapitel 20: Apollinaris lehrt, der Herr habe nur einen Körper angenommen, weicht den Evangelienstellen aus und wird verurteilt
+
+Autor: Rufinus von Aquila
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-11#kapitel-830d02d0-a79c-49f1-6887-08ded9b64703).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Davor aber hatte Bischof Apollinaris von Laodicea in Syrien, ein sonst recht gebildeter Mann, der aber eine zu große Schwäche für Disputation hatte und es liebte, gegen alles zu reden, was andere sagten \(so unglücklich war sein Talent, den eigenen Scharfsinn zur Schau zu stellen\), aus seiner Streitsucht eine Häresie hervorgebracht, nach der der Herr bei der Menschwerdung nur einen Körper, aber nicht auch eine Seele angenommen habe\. Von klaren Stellen im Evangelium bedrängt, an denen der Herr und Heiland selbst sagt, dass er eine Seele hat und sie niederlegt, wenn er will, und wieder nimmt, und wo er sagt, dass sie betrübt und traurig sei bis zum Tod, änderte er später seine Position und sagte, um nicht ganz besiegt zu erscheinen, er habe zwar eine Seele gehabt, doch sei darin nicht das enthalten, wodurch sie vernunftbegabt ist, sondern nur das, wodurch sie den Leib belebt\. Der Logos Gottes selbst, so erklärt er, habe den vernünftigen Teil ersetzt\. Diese Lehre wurde zuerst von Damasus und Bischof Petrus von Alexandria in einem in der Stadt Rom versammelten Konzil in folgenden Worten verworfen: Sie entschieden, dass jeder, der sage, der Sohn Gottes, der, wie er wahrhaft Gott war, so auch wahrhaft Mensch war, habe etwas Menschliches oder Göttliches entbehrt, als der Kirche fremd zu gelten habe\. Dieses Urteil wurde in Alexandria und Konstantinopel durch Konzilsbeschluss bestätigt, und von da an haben die Apollinaristen, von der Kirche abgewichen, für ihre Sekte ein Bischofsamt samt eigenen Lehren und Kirchen unterhalten\.

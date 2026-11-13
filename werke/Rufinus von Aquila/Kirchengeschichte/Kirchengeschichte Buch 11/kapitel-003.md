@@ -1,0 +1,10 @@
+# Kirchengeschichte Buch 11 – Kapitel 3: Nach dem Tod des Athanasius fällt Lucius wie ein Wolf über die Herde her und zieht gegen die Mönche der Wüste
+
+Autor: Rufinus von Aquila
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/rufinus-von-aquila/kirchengeschichte-buch-11#kapitel-3e036284-93f1-4d84-6876-08ded9b64703).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+In dieser Zeit entschlief Athanasius im sechsundvierzigsten Jahr seines Priesteramtes nach vielen Kämpfen und vielen Kronen des Leidens in Frieden\. Nach seinem Nachfolger gefragt, wählte er Petrus zum Teilhaber und Gefährten seiner Mühsale\. Lucius aber, ein Bischof der arianischen Partei, fiel sogleich wie ein Wolf über die Schafe her\. Petrus bestieg sofort ein Schiff und floh nach Rom\. Lucius, als sei ihm der Stoff genommen, an dem sich seine Grausamkeit auslassen konnte, wurde gegen die anderen noch wilder und erwies sich als so blutdürstig, dass er nicht einmal den Schein der Religion zu wahren versuchte\. Als er zuerst ankam, geschahen gegen die Jungfrauen und Enthaltsamen so ungeheure und schändliche Taten, wie sie nicht einmal in den heidnischen Verfolgungen verzeichnet sind\. Nach der Verbannung und dem Exil von Bürgern, nach dem Morden, Foltern und den Flammen, mit denen er so viele in den Tod brachte, kehrte er daher die Waffen seines Wahnsinns gegen die Klöster\. Er verwüstete die Wüste und erklärte den Friedlichen den Krieg\. Er machte sich ebenso daran, die dreitausend oder mehr Männer, die in verborgenen und einsamen Behausungen in der Wüste verstreut lebten, gleichzeitig anzugreifen; er schickte eine bewaffnete Streitmacht aus Reitern und Fußsoldaten; er wählte Tribunen, Befehlshaber und Offiziere, als wolle er gegen Barbaren kämpfen\. Als sie ankamen, sahen sie eine neue Art von Krieg: Ihre Feinde boten ihre Hälse den Schwertern dar und sagten nur: „Freund, wozu bist du gekommen?“

@@ -7,4 +7,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Werksammlungen
 
 - [Die Hirtenregeln](Die%20Hirtenregeln/) · 2 Werke
-- [Homilien über die Evangelien](Homilien%20%C3%BCber%20die%20Evangelien/) · 11 Werke
+- [Homilien über die Evangelien](Homilien%20%C3%BCber%20die%20Evangelien/) · 28 Werke
