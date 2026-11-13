@@ -1,0 +1,16 @@
+# 2\. Homilie über die Evangelien – Kapitel 7: Um ewiges Licht statt irdischer Gaben bitten: Die unsichtbare Seele bezeugt die Wirklichkeit unsichtbaren Lebens
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/gregor-evangelien-homilie-2#kapitel-8f8b4079-651a-4b79-ef83-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Beachten wir auch, was er zu dem Blinden sagt, der zu ihm kommt: „Was willst du, dass ich für dich tue?[^bible-2e7239c3-d57a-4929-a0c9-25a54da755b2]“ Wusste etwa der, der ihm das Augenlicht zurückgeben konnte, nicht, was der Blinde wollte? Doch er will um das gebeten werden, wovon er schon im Voraus weiß, dass wir es erbitten und er es gewähren wird\. Denn eindringlich mahnt er uns zum Gebet und sagt dennoch: „Denn euer himmlischer Vater weiß, was ihr braucht, bevor ihr ihn bittet\.[^bible-7e184d54-0f41-4d74-9ee2-c17501cb7a63]“ Er fragt also, damit man ihn bittet; er fragt, um das Herz zum Gebet anzuregen\. Darum antwortete der Blinde sogleich: „Herr, dass ich sehen kann\.[^bible-2e7239c3-d57a-4929-a0c9-25a54da755b2]“ Seht, der Blinde bittet den Herrn nicht um Gold, sondern um Licht\. Etwas anderes als Licht zu erbitten hält er für wertlos\. Denn ein Blinder kann zwar alles Mögliche besitzen, doch ohne Licht kann er nicht sehen, was er besitzt\. Ahmen wir also, geliebte Brüder, den nach, von dem wir gehört haben, dass er an Körper und Geist geheilt wurde\. Bitten wir den Herrn nicht um trügerischen Reichtum, nicht um irdische Gaben, nicht um flüchtige Ehren, sondern um Licht\. Und zwar nicht um ein Licht, das an einen Ort gebunden und zeitlich begrenzt ist, das durch die Nächte unterbrochen wird und so dem Wechsel unterliegt und das wir ebenso wie die Tiere sehen\. Bitten wir vielmehr um das Licht, das wir allein mit den Engeln sehen können, das keinen Anfang hat und durch kein Ende begrenzt wird\. Der Weg zu diesem Licht aber ist der Glaube\. Darum erhält der Blinde, dem das Augenlicht geschenkt werden soll, zu Recht sogleich die Antwort: „Sieh wieder\! Dein Glaube hat dich gerettet\.[^bible-f5a1873d-d051-4b6e-a311-96ba4a3a4426]“ Doch das fleischliche Denken wendet dagegen ein: „Wie kann ich nach geistlichem Licht suchen, das ich nicht sehen kann? Woher habe ich die Gewissheit, dass es dieses Licht gibt, das meinen körperlichen Augen nicht leuchtet?“ Auf diesen Gedanken kann jeder kurz erwidern: Selbst diese Überlegungen stellt er nicht mit dem Körper, sondern mit der Seele an\. Niemand sieht seine Seele, und dennoch zweifelt niemand daran, eine Seele zu haben, die er nicht sieht\. Denn die unsichtbare Seele lenkt den sichtbaren Körper\. Wird aber das Unsichtbare fortgenommen, bricht sogleich das Sichtbare zusammen, das eben noch aufrecht zu stehen schien\. Wir leben also in diesem sichtbaren Leben durch eine unsichtbare Substanz, und dennoch zweifelt man daran, dass es ein unsichtbares Leben gibt?
+
+## Bibelverweise
+
+[^bible-2e7239c3-d57a-4929-a0c9-25a54da755b2]: Lk 18,41
+[^bible-7e184d54-0f41-4d74-9ee2-c17501cb7a63]: Mt 6,8
+[^bible-f5a1873d-d051-4b6e-a311-96ba4a3a4426]: Lk 18,42
