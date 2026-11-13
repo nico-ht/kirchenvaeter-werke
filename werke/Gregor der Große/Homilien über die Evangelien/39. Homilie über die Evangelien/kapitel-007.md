@@ -1,0 +1,17 @@
+# 39\. Homilie über die Evangelien – Kapitel 7: Christus lehrt im Tempel des Geistes, das Böse zu meiden und im Blick auf das Ende die Sünden zu beweinen
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/gregor-evangelien-homilie-39#kapitel-6f9feab0-2adc-4585-f043-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Auch der Geist und das Gewissen der Gläubigen sind Gottes Tempel und Haus\. Wenn sie bisweilen verkehrte Gedanken hervorbringen, die darauf zielen, dem Nächsten zu schaden, dann sitzen dort gleichsam Räuber in einer Höhle und töten die arglos Vorübergehenden, indem sie ihre Schwerter in Menschen stoßen, die sich in nichts schuldig gemacht haben, und sie damit verletzen\. Denn der Geist der Gläubigen ist nicht mehr ein Haus des Gebets, sondern eine Räuberhöhle[^bible-21fa69f8-2548-4ad0-b934-f5225601a82a], wenn er die Unschuld und die heilige Arglosigkeit aufgibt und etwas zu tun versucht, womit er seinen Nächsten schaden kann\. Doch weil uns die Worte unseres Erlösers in den heiligen Schriften unablässig dazu anleiten, all diesen Verkehrtheiten zu widerstehen, geschieht bis heute, was als damaliges Geschehen berichtet wird: „Und er lehrte täglich im Tempel\.[^bible-4bc9b9a7-c43a-4322-802c-def3f58beacb]“ Denn wenn die Wahrheit den Geist der Gläubigen eingehend darüber belehrt, wie er das Böse meiden soll, lehrt sie täglich im Tempel[^bible-4bc9b9a7-c43a-4322-802c-def3f58beacb]\. Wir müssen aber wissen: Die Worte der Wahrheit belehren uns wahrhaft, wenn wir voller Furcht und ohne Unterlass auf das Unheil blicken, das uns zuletzt droht\. So heißt es durch einen Weisen: „Denk bei allem, was du tust, an dein Ende, dann wirst du niemals sündigen\.[^bible-1e7169ad-1871-487d-af9a-24dee66e10d2]“ Täglich müssen wir nämlich bedenken, was wir aus dem Mund unseres Erlösers selbst gehört haben: „Und gerade an diesem deinem Tag: das, was dir zum Frieden dient\! Jetzt aber ist es vor deinen Augen verborgen\.[^bible-8cdbac81-f84a-42ec-abca-83bec6f559d1]“ Solange nämlich der strenge Richter noch wartet und seine Hand noch nicht zum Schlag erhebt, solange es den Anschein hat, als bliebe uns noch eine gewisse Zeit der Sicherheit vor der endgültigen Vergeltung, müssen wir das Unheil bedenken, das danach kommt\. Indem wir es bedenken, sollen wir seufzen, und indem wir seufzen, ihm entgehen; wir müssen unablässig auf die Sünden schauen, die wir begangen haben, bei ihrem Anblick weinen und sie weinend abwaschen\. Keine Freude am vergänglichen Wohlergehen soll uns nachlässig machen; nichts Vergängliches soll die Augen unseres Geistes verschließen und uns blind ins Feuer führen\. Denn wie schwer dieser Vorwurf bei strenger Prüfung wiegt, erfahren wir aus dem Mund der Wahrheit, wenn sie zu dem Nachlässigen, der das Kommende nicht voraussieht, sagt: „Und gerade an diesem deinem Tag: das, was dir zum Frieden dient\! Jetzt aber ist es vor deinen Augen verborgen\.[^bible-8cdbac81-f84a-42ec-abca-83bec6f559d1]“
+
+## Bibelverweise
+
+[^bible-1e7169ad-1871-487d-af9a-24dee66e10d2]: Sir 7,36
+[^bible-21fa69f8-2548-4ad0-b934-f5225601a82a]: Lk 19,46
+[^bible-4bc9b9a7-c43a-4322-802c-def3f58beacb]: Lk 19,47
+[^bible-8cdbac81-f84a-42ec-abca-83bec6f559d1]: Lk 19,42
