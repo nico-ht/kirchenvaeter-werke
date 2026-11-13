@@ -1,0 +1,18 @@
+# 25\. Homilie über die Evangelien – Kapitel 4: Marias Liebe lässt sie Jesus sehen, doch ihr Zweifel an der Auferstehung hindert sie, ihn zu erkennen
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/gregor-evangelien-homilie-25#kapitel-cd15f852-398f-404d-efc2-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Die Engel fragen Maria: „Frau, warum weinst du?[^bible-f3c2358f-0c09-4d78-94fa-e65f8f410e0f]“ Sie antwortet ihnen: „Weil sie meinen Herrn weggenommen haben und ich nicht weiß, wohin sie ihn gelegt haben\.[^bible-f3c2358f-0c09-4d78-94fa-e65f8f410e0f]“ Denn die heiligen Schriften selbst, die in uns Tränen der Liebe wecken, trösten uns auch in diesen Tränen, indem sie uns verheißen, dass wir unseren Erlöser schauen werden\. Am geschichtlichen Bericht ist jedoch zu beachten, dass die Frau nicht sagt: „Sie haben den Leib meines Herrn weggenommen“, sondern: „Sie haben meinen Herrn weggenommen\.[^bible-f3c2358f-0c09-4d78-94fa-e65f8f410e0f]“ Es ist nämlich in der Heiligen Schrift üblich, bald mit einem Teil das Ganze, bald mit dem Ganzen einen Teil zu bezeichnen\. Mit einem Teil bezeichnet sie das Ganze etwa dort, wo über Jakobs Söhne geschrieben steht: „Jakob zog mit siebzig Seelen nach Ägypten hinab\.[^bible-26076813-b482-4c4e-96ac-4ab28b5a26ac]“ Denn es zogen ja nicht Seelen ohne Körper nach Ägypten hinab\. Vielmehr wird allein mit der Seele der ganze Mensch bezeichnet, weil durch einen Teil das Ganze ausgedrückt wird\. Im Grab aber hatte nur der Leib des Herrn gelegen, und Maria suchte nicht nach dem Leib des Herrn, sondern nach dem Herrn, der weggenommen worden war[^bible-f3c2358f-0c09-4d78-94fa-e65f8f410e0f]; sie bezeichnete also mit dem Ganzen einen Teil\. „Als sie das gesagt hatte, wandte sie sich um und sah Jesus dastehen, wusste aber nicht, dass es Jesus war\.[^bible-fe8f7982-ebd8-4a83-a2ae-e4f904e4145f]“ Beachten wir: Maria zweifelte noch an der Auferstehung des Herrn und wandte sich um, um Jesus zu sehen[^bible-fe8f7982-ebd8-4a83-a2ae-e4f904e4145f]\. Denn mit eben diesem Zweifel hatte sie gleichsam dem Angesicht des Herrn den Rücken zugekehrt, glaubte sie doch keineswegs, dass er auferstanden war\. Weil sie aber liebte und zugleich zweifelte, sah sie ihn und erkannte ihn nicht: Ihre Liebe zeigte ihn ihr, ihr Zweifel verbarg ihn vor ihr\. Dass sie ihn noch immer nicht erkannte, wird in den folgenden Worten ausgedrückt: „Und sie wusste nicht, dass es Jesus war\. Er sagte zu ihr: ‚Frau, warum weinst du? Wen suchst du?‘[^bible-31ebb1df-e031-4c1c-a0e5-e5bd46110613]“ Sie wird nach dem Grund ihres Schmerzes gefragt, damit ihre Sehnsucht wächst: Indem sie den nennt, den sie sucht, soll sie noch glühender in Liebe zu ihm entbrennen\. „Sie meinte, er sei der Gärtner, und sagte zu ihm: ‚Herr, wenn du ihn weggetragen hast, sag mir, wohin du ihn gelegt hast, und ich werde ihn holen\.‘[^bible-18555d7b-a498-4911-9188-c02d44382b3a]“ Vielleicht irrte diese Frau selbst in ihrem Irrtum nicht, als sie Jesus für den Gärtner hielt[^bible-18555d7b-a498-4911-9188-c02d44382b3a]\. War er für sie nicht im geistlichen Sinn ein Gärtner, der in ihrem Herzen durch die Samen der Liebe zu ihm grünende Tugenden pflanzte?
+
+## Bibelverweise
+
+[^bible-18555d7b-a498-4911-9188-c02d44382b3a]: Joh 20,15
+[^bible-26076813-b482-4c4e-96ac-4ab28b5a26ac]: Gen 46,27
+[^bible-31ebb1df-e031-4c1c-a0e5-e5bd46110613]: Joh 20,14–Joh 20,15
+[^bible-f3c2358f-0c09-4d78-94fa-e65f8f410e0f]: Joh 20,13
+[^bible-fe8f7982-ebd8-4a83-a2ae-e4f904e4145f]: Joh 20,14
