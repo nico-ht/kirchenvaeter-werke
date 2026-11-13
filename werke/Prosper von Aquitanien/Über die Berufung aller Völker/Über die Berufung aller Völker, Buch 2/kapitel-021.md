@@ -1,0 +1,18 @@
+# Über die Berufung aller Völker, Buch 2 – Kapitel 21: Auch Kinder tragen Adams Schuld und sind von Geburt an dem Tod unterworfen
+
+Autor: Prosper von Aquitanien
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/prosper-von-aquitanien/prosper-ueber-die-berufung-aller-voelker-buch-2#kapitel-2cb34742-4cff-4d27-ee38-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch die Tiefe dieser Unterscheidung, die Gott trifft, wird unser demütiges Herz nicht beunruhigen, wenn wir mit festem, unerschütterlichem Glauben darauf vertrauen, dass jedes Urteil Gottes gerecht ist, und nicht zu erkennen verlangen, was er verborgen halten wollte\. Wo sich nicht ergründen lässt, warum er so urteilt, soll es uns genügen zu wissen, wer urteilt\. Allerdings ist diese Frage nicht so unzugänglich, dass wir daraus keinerlei Erkenntnis gewinnen könnten, wenn wir mit dem ruhigen Blick eines nüchternen Herzens betrachten, was sich erkennen lässt\. Wenn wir nämlich bedenken, wie viele kleine Kinder unter den Heiden, den Juden, den Häretikern und selbst unter den katholischen Christen zugrunde gehen, obwohl feststeht, dass sie aus eigenem Willen weder Gutes noch Böses getan haben[^bible-8dd81578-7eb4-4344-b306-ad8ca020fb7d], dann erkennen wir: Auf ihnen lastet noch immer jenes Urteil, das die Menschheit durch die Übertretung ihres Stammvaters Adam auf sich zog\. Dass die Strenge dieses Urteils selbst bei solchen Kindern nicht nachlässt, zeigt, wie groß jene Sünde war\. Niemand aber würde annehmen, dass ein Mensch schon bei seiner Geburt Schuld trägt, wenn es nicht auch solchen Kindern schaden würde, nicht wiedergeboren zu werden\.
+
+Über einen frühen Tod aber besteht kein Grund zur Klage, denn die Sterblichkeit ist einmal durch die Sünde in unsere Natur eingedrungen[^bible-e1d934d4-dd8d-4f54-9ba9-b90fca02102c] und hat damit jeden Tag unseres Lebens ihrer Macht unterworfen\. Es gäbe nämlich einen Zeitraum, in dem man den Menschen in gewisser Hinsicht unsterblich nennen könnte, wenn es eine Zeit gäbe, in der er überhaupt nicht sterben könnte\. Doch das Vergängliche hat niemals so weit an der Unvergänglichkeit teil, dass nicht jederzeit dem Verfall ausgesetzt wäre, was dem Untergang verfallen ist\. Der Anfang dieses Lebens ist der Beginn des Todes; unsere Lebenszeit beginnt nicht früher zuzunehmen als abzunehmen\. Wird ihr eine weitere Zeitspanne hinzugefügt, so kommt diese nicht hinzu, um zu bleiben, sondern geht vorüber, um zu vergehen\. Was also von Anfang an sterblich ist, stirbt, an welchem Tag auch immer, nicht gegen das Gesetz der Sterblichkeit\. Auch ist ihm die Möglichkeit weiterzuleben niemals näher als die Möglichkeit zu sterben\. Obwohl aber die Sterblichkeit aller Menschen aus einer einzigen Ursache hervorgegangen ist, wird die vergängliche Natur nicht von einer einzigen, sondern von vielfältigen Schwächen zerrüttet\. Krankheiten, Gebrechen oder Verletzungen sind nicht nur die Jahre, Monate oder Tage des menschlichen Lebens ausgesetzt, sondern auch alle Stunden und jeder Augenblick\. Es gibt keine Todesart und keine Weise zu sterben, die nicht irgendeinen Teil der Gesamtheit der Sterblichen trifft\. Denn ein schweres Joch bleibt auf den Söhnen Adams liegen, vom Tag an, da sie aus dem Leib ihrer Mutter hervorgehen, bis zum Tag ihrer Bestattung in der Mutter aller\.[^bible-061ac72d-2745-4233-a319-d430c7a13be9]
+
+## Bibelverweise
+
+[^bible-061ac72d-2745-4233-a319-d430c7a13be9]: Sir 40,1
+[^bible-8dd81578-7eb4-4344-b306-ad8ca020fb7d]: Röm 9,11
+[^bible-e1d934d4-dd8d-4f54-9ba9-b90fca02102c]: Röm 5,12

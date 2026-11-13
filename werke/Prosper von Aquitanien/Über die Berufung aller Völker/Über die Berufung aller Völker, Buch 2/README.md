@@ -1,0 +1,45 @@
+# Über die Berufung aller Völker, Buch 2
+
+Prosper von Aquitanien
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/prosper-von-aquitanien/prosper-ueber-die-berufung-aller-voelker-buch-2) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- [Kapitel 1: Gott will alle retten, Heil ist unverdiente Gnade, und warum nicht alle gerettet werden, bleibt unergründlich](kapitel-001.md)
+- [Kapitel 2: Christus sendet das Evangelium unterschiedslos an alle Menschen und stärkt seine Verkünder in der Verfolgung](kapitel-002.md)
+- [Kapitel 3: Gott schiebt die Berufung mancher Völker und Menschen aus verborgenen Gründen auf, ohne ihnen die Gnade zu verweigern](kapitel-003.md)
+- [Kapitel 4: Schöpfung und Gottes Wohltaten unterwiesen die Völker wie Gesetz und Propheten das Volk Israel](kapitel-004.md)
+- [Kapitel 5: Zu jeder Zeit rechtfertigt allein Gottes Gnade, auch wenn Maß und Weise ihres Wirkens wechseln](kapitel-005.md)
+- [Kapitel 6: Bei gleicher Verkündigung bestimmt Gott das Maß des Wachstums und die Aufgabe jedes Einzelnen](kapitel-006.md)
+- [Kapitel 7: Der Geist verteilt seine Gaben nach seinem Willen, nicht nach vorausgegangenen Verdiensten](kapitel-007.md)
+- [Kapitel 8: Gottes anvertraute Gaben müssen durch Werke der Liebe wachsen: Danach richtet er den Menschen](kapitel-008.md)
+- [Kapitel 9: Die wechselnde Gnadenfülle für Israel und die Völker lässt sich nur bestaunen, nicht erklären](kapitel-009.md)
+- [Kapitel 10: Gott versorgt und belehrt alle; sein Geist lenkt den Willen, ohne die Möglichkeit zur Abkehr aufzuheben](kapitel-010.md)
+- [Kapitel 11: Gnadengaben wachsen meist allmählich zur vollkommenen Liebe, die allein im Guten standhaft macht](kapitel-011.md)
+- [Kapitel 12: Niemand ist zum Untergang vorherbestimmt: Der Wille kann allein Böses tun, Gutes aber nur mit Gottes Gnade](kapitel-012.md)
+- [Kapitel 13: Gottes Mahnung an Kain und Geduld mit seinen Nachkommen zeigen: Ihre Abkehr war freiwillig, nicht erzwungen](kapitel-013.md)
+- [Kapitel 14: Die Gnade für alle Völker ist früh vorgebildet; ihre einst begrenzte Fülle entschuldigt deren Unwissenheit nicht](kapitel-014.md)
+- [Kapitel 15: Nicht bessere Anlagen, sondern Christi Gnade schuf aus Widerstrebenden ein im Leiden standhaftes Volk](kapitel-015.md)
+- [Kapitel 16: Christus starb für alle unter der Sünde Gebundenen; seine Erlösung wird auch jenseits der Grenzen Roms verkündet](kapitel-016.md)
+- [Kapitel 17: Noch unerreichte Völker erhalten allgemeine Hilfe, doch volle Gotteserkenntnis braucht Christi Licht](kapitel-017.md)
+- [Kapitel 18: Die Berufung aller Völker war den Propheten bekannt und wird durch die gleiche Gnade für Juden und Heiden offenbar](kapitel-018.md)
+- [Kapitel 19: Gottes Heilswille gilt ewig, auch wenn der Grund der späten Offenbarung an alle Völker verborgen bleibt](kapitel-019.md)
+- [Kapitel 20: Warum bei gleicher Schuld ohne eigene Tat manche Säuglinge erwählt, andere verworfen werden, bleibt unergründlich](kapitel-020.md)
+- [Kapitel 21: Auch Kinder tragen Adams Schuld und sind von Geburt an dem Tod unterworfen](kapitel-021.md)
+- [Kapitel 22: Warum Gott bei gemeinsamer Schuld Leiden und Lebenszeit unterschiedlich bemisst, bleibt unerforschlich](kapitel-022.md)
+- [Kapitel 23: Kindern kann die allgemeine Gnade durch ihre Eltern, besondere Erwählung auch durch Fremde zugutekommen](kapitel-023.md)
+- [Kapitel 24: Dass nicht alle Kinder die Taufe empfangen, zeigt die Unverdientheit der Rettung und mahnt zur Wachsamkeit](kapitel-024.md)
+- [Kapitel 25: Gott entzieht niemandem die allgemeine Gnade: Bei manchen siegt die Gnade, bei anderen widerstrebt die Natur](kapitel-025.md)
+- [Kapitel 26: Die Gnade hat den Vorrang, wirkt aber ohne Zwang und verlangt die Zustimmung des menschlichen Willens](kapitel-026.md)
+- [Kapitel 27: Gottesfurcht befreit den Willen; der Vater zieht zu Christus, indem er Glauben und Wollen weckt](kapitel-027.md)
+- [Kapitel 28: Auch Heilige bleiben versuchbar: Gott schenkt das Beharren, ohne die Möglichkeit des Abfalls aufzuheben](kapitel-028.md)
+- [Kapitel 29: Trotz menschlicher Abkehr geht keiner aus der verheißenen Fülle der Völker verloren: Gottes Gnade führt zum Heil](kapitel-029.md)
+- [Kapitel 30: Die Hoffnung auf das Heil lehrt, auf Einsicht in Gottes verborgene Gründe zu warten statt endlos zu streiten](kapitel-030.md)
+- [Kapitel 31: „Retter aller Menschen, besonders der Gläubigen“: Gottes Güte gilt allen, besondere Wohltaten führen zum ewigen Heil](kapitel-031.md)
+- [Kapitel 32: Gottes ungleiche Gaben an die Gläubigen sind nicht zu tadeln: Gnade begründet Verdienste, nicht umgekehrt](kapitel-032.md)
+- [Kapitel 33: Selbst Kriege dienen der Gnade: Gottes ewiger Ratschluss umfasst alles Geschehen und die Erwählung in Christus](kapitel-033.md)
+- [Kapitel 34: Gottes zeitloses Wissen erzwingt keine Sünde: Freie Willen verursachten den Fall, die Gnade heilt ihn](kapitel-034.md)
+- [Kapitel 35: Die Erwählten sind zum Handeln erwählt: Geschenkte Tugenden müssen sich im Kampf gegen Versuchungen bewähren](kapitel-035.md)
+- [Kapitel 36: Wie Tobias’ Beispiel zeigt, hebt Gottes sichere Erwählung beharrliches Gebet und freien Einsatz nicht auf](kapitel-036.md)
+- [Kapitel 37: Bis zum Lebensende ist niemandes Heil gewiss und niemand aufzugeben: Die Kirche soll für alle weiterbeten](kapitel-037.md)

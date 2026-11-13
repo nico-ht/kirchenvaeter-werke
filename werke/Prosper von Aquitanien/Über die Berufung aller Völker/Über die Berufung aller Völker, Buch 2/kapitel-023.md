@@ -1,0 +1,14 @@
+# Über die Berufung aller Völker, Buch 2 – Kapitel 23: Kindern kann die allgemeine Gnade durch ihre Eltern, besondere Erwählung auch durch Fremde zugutekommen
+
+Autor: Prosper von Aquitanien
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/prosper-von-aquitanien/prosper-ueber-die-berufung-aller-voelker-buch-2#kapitel-84bdefda-8e0b-4499-ee3a-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch da der Grund für die Gaben, die die Gnade gewährt, noch unergründlicher ist als der Grund für die Leiden, die die Natur verdient hat, verweist uns gerade die Schwierigkeit, dies zu verstehen, auf unseren Schöpfer zurück\. Und wenn wir fragen, wie es sein kann, dass er will, dass alle Menschen gerettet werden[^bible-ae81cbf7-3866-4c75-b0a9-f55972d84574], und doch nicht allen die Lebenszeit gewährt, in der sie fähig sind, durch freiwilligen Glauben die Gnade zu empfangen, so halte ich es weder für gottlos, zu glauben, noch für unangemessen, anzunehmen, dass diesen Menschen, die nur wenige Tage leben, jener Teil der Gnade zukommt, der stets allen Völkern gewährt wurde\. Würden ihre Eltern diese Gnade recht nutzen, so würden gewiss auch die Kinder durch sie Hilfe erfahren\. Denn der Lebensbeginn aller kleinen Kinder und die ganze erste Zeit, in der sie ihre Vernunft noch nicht gebrauchen, liegen in der Hand anderer und hängen von deren Willen ab\. Nur durch andere kann für sie gesorgt werden, und folglich gehören sie zur Gemeinschaft derer, deren rechte oder verkehrte Gesinnung sie bestimmt\. Wie sie nämlich durch das Bekenntnis anderer glauben, so bleiben sie durch den Unglauben oder die Nachlässigkeit anderer ohne Glauben\. Und da sie selbst weder das gegenwärtige noch das künftige Leben begehrt haben, ist es ebenso wenig ihr eigenes Werk, wenn sie nicht wiedergeboren werden, wie es ihr eigenes Werk war, dass sie geboren wurden\. Wie aber bei den Erwachsenen neben jener allgemeinen Gnade, die zurückhaltender und verborgener an die Herzen aller Menschen klopft, eine besondere Berufung durch ein höheres Wirken, eine reichere Gabe und eine stärkere Kraft wirksam wird, so zeigt sich dieselbe Erwählung auch bei unzähligen kleinen Kindern\. Zwar war sie auch bei denen, die nicht wiedergeboren wurden, in ihren Eltern vorhanden; denen aber, die wiedergeboren wurden, kam sie vor ihren Eltern zugute\. So kam oft vielen, die durch die Gottlosigkeit ihrer Angehörigen im Stich gelassen wurden, die Fürsorge Fremder zu Hilfe, und durch Außenstehende gelangten sie zur Wiedergeburt, zu der ihre nächsten Angehörigen ihnen nicht verholfen hätten\.
+
+## Bibelverweise
+
+[^bible-ae81cbf7-3866-4c75-b0a9-f55972d84574]: 1Tim 2,4

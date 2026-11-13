@@ -1,0 +1,18 @@
+# Über die Berufung aller Völker, Buch 2 – Kapitel 27: Gottesfurcht befreit den Willen; der Vater zieht zu Christus, indem er Glauben und Wollen weckt
+
+Autor: Prosper von Aquitanien
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/prosper-von-aquitanien/prosper-ueber-die-berufung-aller-voelker-buch-2#kapitel-12e6623a-5404-4531-ee3e-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Diese Zustimmung entsteht aber nicht nur durch die Ermahnung der Prediger und die Anregungen der Lehre, sondern auch durch Furcht\. Deshalb steht geschrieben: „Der Anfang der Weisheit ist die Furcht des Herrn\.[^bible-77b13770-6951-4923-947d-dcbf0c6b8f50]“ Wie groß die Schrecken auch sein mögen, durch die diese Furcht geweckt wird: Sie wirkt auf nichts anderes hin, als den, den sie zum Fürchten gebracht hat, auch zum Wollen zu bringen, und nicht nur zum Wollen, sondern auch zur Weisheit\. Daher steht auch geschrieben: „Glücklich ist, wem es geschenkt ist, Gottesfurcht zu haben\.[^bible-e0c6d7a3-58d0-426b-b569-7c9a23383957]“ Denn was macht so glücklich wie diese Furcht, die die Weisheit hervorbringt und heranbildet? Ihr ist gewiss auch der Wille ergeben, der durch den Urheber der Gnade in derselben Furcht Fortschritte macht, mit der er begonnen hat\. Auch wenn diese Furcht also mit einer gewissen Gewalt durch großen Schrecken eingeflößt wird, wird dabei weder die Vernunft ausgelöscht noch der Verstand genommen\. Vielmehr wird die Finsternis vertrieben, die auf dem Geist lastete, damit der zuvor verdorbene und gefangene Wille recht ausgerichtet und frei wird\. Wie also der Geist keine Tugend in sich aufnimmt, wenn er nicht einen Strahl des wahren Lichts empfangen hat, so schenkt die Gnade dem, den sie ruft, nichts, wenn sie ihm nicht die Augen seines Willens geöffnet hat\. Bei vielen ist dieser Wille, wie oben dargelegt, von Anfang an von glühendem Eifer erfüllt und erfährt rasches und starkes Wachstum\. Bei vielen anderen aber schreitet er langsam und zögernd voran und erreicht kaum ein solches Maß an Wachstum, dass er die nötige Festigkeit zum Ausharren besitzt\. Zwar sagt der Herr: „Niemand kommt zu mir, wenn ihn nicht der Vater zieht, der mich gesandt hat\.[^bible-b3961704-6807-4b5b-b468-39fa71487740]“ Doch das wurde gesagt, damit wir erkennen, dass wir den Glauben, ohne den niemand zu Christus kommt, als Geschenk des Vaters haben\. So heißt es auch zum Apostel Petrus: „Glücklich bist du, Simon Bar Jona, denn nicht Fleisch und Blut haben dir das offenbart, sondern mein Vater im Himmel\.[^bible-14970165-55e1-4ffe-839a-0b1acf90ea84]“ In den Herzen derer, die gezogen werden sollten, bewirkte der Vater, dass sie glaubten, und brachte so zustande, dass sie wollten\. Denn es wäre nichts in ihnen, woran er sie ziehen könnte, wenn sie nicht mit ihrem Glauben und Willen folgten\. Wer nicht glaubt, wird überhaupt nicht gezogen und kommt auch nicht; und wer nicht zustimmt, tritt nicht näher, sondern geht fort\. Die also kommen, werden durch Liebe geführt: Denn sie wurden geliebt und haben geliebt[^bible-d709d8c8-c25f-498a-afdd-4a0628d667eb]; sie wurden gesucht und haben gesucht, und was sie nach Gottes Willen wollen sollten, das haben sie gewollt\.
+
+## Bibelverweise
+
+[^bible-14970165-55e1-4ffe-839a-0b1acf90ea84]: Mt 16,17
+[^bible-77b13770-6951-4923-947d-dcbf0c6b8f50]: Spr 9,10
+[^bible-b3961704-6807-4b5b-b468-39fa71487740]: Joh 6,44
+[^bible-d709d8c8-c25f-498a-afdd-4a0628d667eb]: 1Joh 4,19
+[^bible-e0c6d7a3-58d0-426b-b569-7c9a23383957]: Sir 25,11
