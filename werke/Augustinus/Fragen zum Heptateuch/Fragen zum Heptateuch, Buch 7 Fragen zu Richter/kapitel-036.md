@@ -1,0 +1,24 @@
+# Fragen zum Heptateuch, Buch 7: Fragen zu Richter – Kapitel 36: Gottes Zustimmung rechtfertigt Gideons Opfer außerhalb der Stiftshütte; das Felsenfeuer bezeichnet den Heiligen Geist
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/fragen-zum-heptateuch-buch-7-fragen-zu-richter#kapitel-397754b9-7c5b-4a3a-ef62-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Man kann fragen: Warum wagte Gideon es, Gott an einem anderen Ort ein Opfer darzubringen als dort, wo Gott es geboten hatte? Denn Gott hatte verboten, ihm außerhalb seiner Stiftshütte Opfer darzubringen[^bible-bd55a494-5f22-4a30-81e4-9c79e1ed59fe]; an ihre Stelle trat später der Tempel\. Zur Zeit Gideons aber stand Gottes Stiftshütte in Silo, und deshalb konnte nur dort dem Gesetz entsprechend geopfert werden\. Doch muss man bedenken, dass Gideon den Engel zunächst für einen Propheten gehalten und gleichsam Gott in ihm befragt hatte, ob er ein Opfer darbringen solle\. Hätte der Engel es verboten, wäre es gewiss nicht geschehen\. Weil er es aber billigte und seine Zustimmung gab, folgte Gideon mit seinem Handeln der Autorität Gottes\. Denn Gott erließ jene Vorschriften so, dass er die Gesetze nicht sich selbst, sondern den Menschen gab\. Was immer er selbst abweichend davon gebot, wurde also, so muss man es verstehen, nicht von Gesetzesübertretern, sondern vielmehr von frommen und gehorsamen Menschen ausgeführt\. So war es bei Abraham, dem befohlen wurde, seinen Sohn zu opfern[^bible-5cb94a32-9364-4c46-b7bf-f781b68c089b]\. Ebenso opferte Elija außerhalb der Stiftshütte des Herrn, um die Götzenpriester zu überführen[^bible-d99395ab-95af-4985-a578-cf1379aa967d]\. Man muss davon ausgehen, dass er dies auf Befehl des Herrn tat, der ihm als Propheten durch Offenbarung und Eingebung auftrug, so zu handeln\. Allerdings hatte sich der Brauch, außerhalb der Stiftshütte zu opfern, so sehr verbreitet, dass wir sogar von Salomo lesen, er habe auf den Höhen geopfert, ohne dass sein Opfer missbilligt wurde[^bible-b182209b-6bee-4535-88c7-d61d575af6c5]\. Dennoch werden Könige getadelt, die bei all ihren lobenswerten Taten die Höhen nicht zerstörten, auf denen das Volk entgegen Gottes Gesetz zu opfern pflegte; und wer sie zerstörte, wird umso nachdrücklicher gelobt\. So duldete Gott den Brauch seines Volkes, zwar außerhalb seiner Stiftshütte, aber nicht fremden Göttern, sondern dem Herrn, ihrem Gott, zu opfern, eher, als dass er ihn verbot\. Auch unter diesen Umständen erhörte er die Opfernden\. Wer erkennt aber nicht, dass der Engel das, was Gideon tat, so lenkte, dass es prophetische Bedeutung hatte und in dieser Prophetie jener Felsen hervorgehoben wurde? Diesem Felsen wurde freilich nicht geopfert; vielmehr wird berichtet, dass Feuer aus ihm hervorkam, das das Opfer verzehrte\.[^bible-ae1572bb-e967-4895-8e95-b29128b3cf39] Sowohl das Wasser, das der Felsen in der Wüste hervorströmen ließ, als er geschlagen wurde[^bible-1a0ec55f-cd81-49c6-bff7-91761d40db55], als auch das Feuer bezeichnen nämlich die Gabe des Heiligen Geistes, die der Herr Christus in überreicher Fülle über uns ausgegossen hat[^bible-ce8ec92e-2f42-4453-82d4-ea31743ece86]\. Auch im Evangelium wurde diese Gabe durch Wasser bezeichnet, wo der Herr selbst sagt: „Wenn jemand Durst hat, soll er kommen und trinken\. Wer an mich glaubt, aus dessen Innerem werden, wie die Schrift sagt, Ströme lebendigen Wassers fließen\.[^bible-904b43eb-2a67-452f-aaba-872922fd18c8]“ Dazu fügte der Evangelist hinzu: „Das aber sagte er vom Geist, den diejenigen empfangen sollten, die an ihn glaubten\.[^bible-6f3d0171-980b-4912-9b43-0d8ea28e9ced]“ Auch durch Feuer wurde diese Gabe bezeichnet\. So lesen wir darüber, wie der Geist auf die Versammelten herabkam: „Es erschienen ihnen Zungen wie Feuer, die sich verteilten; es ließ sich auch auf jeden Einzelnen von ihnen nieder\.[^bible-8a1d81ca-a054-4479-904d-3314dbd10bf5]“ Und der Herr selbst sagt: „Ich bin gekommen, Feuer auf die Erde zu werfen\.[^bible-e8e8465b-7b61-4dcd-95ee-090d07f0b02b]“
+
+## Bibelverweise
+
+[^bible-1a0ec55f-cd81-49c6-bff7-91761d40db55]: Num 20,11
+[^bible-5cb94a32-9364-4c46-b7bf-f781b68c089b]: Gen 22,2
+[^bible-6f3d0171-980b-4912-9b43-0d8ea28e9ced]: Joh 7,39
+[^bible-8a1d81ca-a054-4479-904d-3314dbd10bf5]: Apg 2,3
+[^bible-904b43eb-2a67-452f-aaba-872922fd18c8]: Joh 7,37–Joh 7,38
+[^bible-ae1572bb-e967-4895-8e95-b29128b3cf39]: Ri 6,21
+[^bible-b182209b-6bee-4535-88c7-d61d575af6c5]: 1Kön 3,4–1Kön 3,15
+[^bible-bd55a494-5f22-4a30-81e4-9c79e1ed59fe]: Dtn 12,13–Dtn 12,14
+[^bible-ce8ec92e-2f42-4453-82d4-ea31743ece86]: Tit 3,6
+[^bible-d99395ab-95af-4985-a578-cf1379aa967d]: 1Kön 18,30–1Kön 18,38
+[^bible-e8e8465b-7b61-4dcd-95ee-090d07f0b02b]: Lk 12,49

@@ -1,0 +1,15 @@
+# Fragen zum Heptateuch, Buch 7: Fragen zu Richter – Kapitel 48: Jiftach spricht Kemosch nur nach Meinung des Königs Landbesitz zu, dem Herrn dagegen tatsächlich
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/fragen-zum-heptateuch-buch-7-fragen-zu-richter#kapitel-4f3e3461-4593-4c08-ef6e-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Unter anderem lässt Jiftach dem König der Ammoniter durch Boten auch Folgendes sagen: „Wirst du nicht alles erben, was dein Gott Kemosch für dich als Erbe erworben hat? Und werden wir nicht alles erben, was der Herr, unser Gott, als Erbe erworben und euch weggenommen hat?[^bible-7143325c-960a-49cb-9169-a11106d47106]“ Einige lateinische Übersetzer meinten, dies so wiedergeben zu müssen: „Wirst du nicht alles besitzen, was dein Gott Kemosch dir als Erbe gegeben hat?[^bible-7143325c-960a-49cb-9169-a11106d47106]“ Dabei kann der Eindruck entstehen, Jiftach habe bestätigt, dass dieser Gott namens Kemosch seinen Verehrern etwas als Erbe geben konnte\. Andere haben dagegen: „Wirst du nicht alles besitzen, was dein Gott Kemosch besessen hat?[^bible-7143325c-960a-49cb-9169-a11106d47106]“ Auch das klingt so, als hätte er etwas besitzen können\. Oder ist dies etwa deshalb gesagt, weil die Völker Engeln unterstellt wurden[^bible-88a048ae-5bd6-4bce-a632-a84de52fc102], wie es im Lied des Mose, des Dieners Gottes, heißt? Wurde also etwa jener Engel, dem die Ammoniter unterstanden, Kemosch genannt? Wer wagte das zu behaupten, da man die Aussage auch so verstehen kann, dass sie sich nach der Meinung des Königs richtet? Dieser glaubte ja, sein Gott besitze das Land oder habe es ihm zum Besitz gegeben\. Deutlicher tritt dieser Sinn jedoch in den Worten des griechischen Textes hervor: „Wirst du nicht alles erben, was dein Gott Kemosch für dich als Erbe erworben hat?[^bible-7143325c-960a-49cb-9169-a11106d47106]“ Das dort stehende „für dich[^bible-7143325c-960a-49cb-9169-a11106d47106]“ ist dann so zu verstehen, als hieße es: „Wie es dir scheint\.“ Denn „für dich hat er es als Erbe erworben[^bible-7143325c-960a-49cb-9169-a11106d47106]“, weil du das glaubst, nicht weil jener etwas als Erbe erwerben könnte\. Schließlich heißt es im Folgenden: „Und alles, was der Herr, unser Gott, als Erbe erworben hat[^bible-7143325c-960a-49cb-9169-a11106d47106]“\. Er sagte nicht: „Er hat es für uns als Erbe erworben“, als wollte er sagen: „Wie es uns scheint\.“ Vielmehr hat er es wirklich „als Erbe erworben[^bible-7143325c-960a-49cb-9169-a11106d47106]“ und euch weggenommen[^bible-7143325c-960a-49cb-9169-a11106d47106]; denn er nahm es jenen weg und gab es diesen\. „Das[^bible-7143325c-960a-49cb-9169-a11106d47106]“, sagt er, „werden wir erben[^bible-7143325c-960a-49cb-9169-a11106d47106]\.“
+
+## Bibelverweise
+
+[^bible-7143325c-960a-49cb-9169-a11106d47106]: Ri 11,24
+[^bible-88a048ae-5bd6-4bce-a632-a84de52fc102]: Dtn 32,8
