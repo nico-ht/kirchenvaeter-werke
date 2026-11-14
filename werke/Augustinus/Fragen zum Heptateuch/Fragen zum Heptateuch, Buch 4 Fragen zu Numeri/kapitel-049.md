@@ -1,0 +1,17 @@
+# Fragen zum Heptateuch, Buch 4: Fragen zu Numeri – Kapitel 49: Gottes Zorn wirkt in Bileams Engel; dessen Eingreifen kann Anklage oder Aufhalten bedeuten
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/fragen-zum-heptateuch-buch-4-fragen-zu-numeri#kapitel-21b9de3a-17c0-4e77-eed7-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Über den Engel, der unterwegs zu Bileam sprach und bei dessen Anblick seine Eselin nicht weiterzugehen wagte[^bible-862cd48f-4afe-4675-a7de-cbd7803994f0], berichtet die Schrift so: „Und Gott entbrannte im Zorn, weil er hinging; und der Engel Gottes erhob sich, um ihn auf dem Weg aufzuhalten\.[^bible-d6572c7b-1966-4847-ad4d-b544ab4e9b2b]“ Hier ist zunächst zu beachten, wie es heißt: „Gott wurde zornig[^bible-d6572c7b-1966-4847-ad4d-b544ab4e9b2b]“, und: „Der Engel Gottes erhob sich\.[^bible-d6572c7b-1966-4847-ad4d-b544ab4e9b2b]“ Dazwischen steht nicht, dass Gott im Zorn den Engel gesandt habe\. Vielmehr wird angedeutet, dass gleichsam Gott im Engel zornig wurde; denn Gottes Wahrheit und Gerechtigkeit ließen den Engel zürnen\. Der Ausdruck „er erhob sich[^bible-d6572c7b-1966-4847-ad4d-b544ab4e9b2b]“ ist nämlich gewiss als innere Erregung zu verstehen\. Dann heißt es: „um ihn auf dem Weg aufzuhalten[^bible-d6572c7b-1966-4847-ad4d-b544ab4e9b2b]“ \(differre eum in via\); dafür steht im Griechischen ein Wort, das auch „anklagen“ bedeuten kann\. Dasselbe sagt im Folgenden auch der Engel selbst: „Und siehe, ich bin ausgezogen, um dich aufzuhalten\.[^bible-547e6021-a06e-43e5-90a2-1b7597800d3c]“ Hier steht im Griechischen das entsprechende Hauptwort\. Vielleicht ist an dieser Stelle „Anklage“ die passendere Bedeutung, sodass auch hier der Ausdruck „ihn auf dem Weg aufzuhalten[^bible-d6572c7b-1966-4847-ad4d-b544ab4e9b2b]“ als „ihn anzuklagen“ zu verstehen wäre\. Daher, so nimmt man an, stammt auch die Bezeichnung diabolus für den Teufel; auf Lateinisch wäre er demnach „Ankläger“ zu nennen\. Nicht etwa, weil niemand auch in guter und gerechter Weise anklagen könnte, sondern weil der Teufel das Anklagen liebt[^bible-c76e7364-63e3-439c-854c-d26f5c2a7c22], getrieben von den Stacheln des Neides, wie es ihm in der Apokalypse bezeugt wird\. Das Wort differre steht aber auch in einer Komödie, weshalb kein Zweifel daran besteht, dass es lateinisch ist\. Es hat dort dieselbe oder jedenfalls eine ähnliche Bedeutung\. Über einen zornigen Vater wird nämlich zum Sohn gesagt: „Er hofft, die Worte gefunden zu haben, mit denen er dich auseinandernehmen kann\.“ Gewöhnlich versteht man differat hier so, dass er ihn gleichsam in einem Sturm von Worten hin und her schleudert, als wollte er ihn zerreißen und in alle Richtungen zerstreuen\. Das wollte er offenbar durch Anklagen tun\. Doch auch wenn wir „ihn auf dem Weg aufzuhalten[^bible-d6572c7b-1966-4847-ad4d-b544ab4e9b2b]“ so verstehen, dass der Engel Bileams Eile hemmte, indem er ihn aufhielt, um ihm das Nötige zu zeigen und zu sagen, ist es keineswegs widersinnig, das Wort auch in dieser Bedeutung zu verwenden\.
+
+## Bibelverweise
+
+[^bible-547e6021-a06e-43e5-90a2-1b7597800d3c]: Num 22,32
+[^bible-862cd48f-4afe-4675-a7de-cbd7803994f0]: Num 22,27–Num 22,32
+[^bible-c76e7364-63e3-439c-854c-d26f5c2a7c22]: Offb 12,10
+[^bible-d6572c7b-1966-4847-ad4d-b544ab4e9b2b]: Num 22,22

@@ -1,0 +1,26 @@
+# Fragen zum Heptateuch, Buch 4: Fragen zu Numeri – Kapitel 48: Bileams erneute Befragung Gottes verrät seine Habsucht; die erzwungene Weissagung macht ihn nicht gerecht
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/fragen-zum-heptateuch-buch-4-fragen-zu-numeri#kapitel-c810e42d-e516-415a-eed6-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+An dem, was Bileam zu den erneut zu ihm gesandten, ranghöheren Boten sagte, ist überhaupt nichts Sündhaftes: „Selbst wenn Balak mir sein Haus voll Silber und Gold gäbe, kann ich mich nicht über das Wort des Herrn hinwegsetzen und nach eigenem Ermessen etwas Kleines oder Großes tun\.[^bible-725cc82b-cee4-46b1-b1d6-f1806dd064ac]“ Was aber folgt, ist nicht ohne schwere Sünde\. Denn er hätte standhaft bleiben müssen, nachdem er einmal gehört hatte, was der Herr ihm gesagt hatte: „Du sollst nicht mit ihnen gehen und das Volk nicht verfluchen; denn es ist gesegnet\.[^bible-c4e7f1ed-67fb-4b12-b15e-81f7856f4d53]“ Er hätte ihnen auch keinerlei Hoffnung machen dürfen, der Herr könne seine Entscheidung zuungunsten seines eigenen Volkes ändern, das er für gesegnet erklärt hatte, als ließe er sich wie Bileam selbst durch Geschenke und Ehrungen umstimmen\. Dass er der Gier erlegen war, zeigte sich aber darin, dass er wollte, dass der Herr noch einmal über diese Sache zu ihm sprach, obwohl er dessen Willen dazu bereits kannte\. Wozu musste er denn noch Folgendes hinzufügen: „Und nun bleibt auch ihr diese Nacht hier, damit ich erfahre, was der Herr mir noch sagen wird[^bible-2140e785-8a80-4be2-85c5-c354a3663375]“? Der Herr sah also, wie die Geschenke seine Gier gefangen genommen und überwältigt hatten, und gestattete ihm zu gehen[^bible-c1a9133d-5fc4-4242-beb0-297e9cc567cd], um seine Habsucht durch das Tier, auf dem er ritt, zu zügeln\. Gerade dadurch stellte er seinen Wahnsinn bloß: Die Eselin wagte nicht, das Verbot zu übertreten, das der Herr durch den Engel ausgesprochen hatte[^bible-4ac773f3-3624-4b25-8b51-a4df4aac1071], während Bileam aus Gier versuchte, es zu übertreten, auch wenn er eben diese Gier aus Furcht unterdrückte\. Denn Gott kam nachts zu Bileam und sagte zu ihm[^bible-c1a9133d-5fc4-4242-beb0-297e9cc567cd]: „Wenn die Männer gekommen sind, um dich zu rufen, steh auf und folge ihnen\. Doch du wirst tun, was immer ich dir sage\.[^bible-c1a9133d-5fc4-4242-beb0-297e9cc567cd]“ Und Bileam stand am Morgen auf, sattelte seine Eselin und zog mit den Fürsten Moabs fort\.[^bible-39a53931-0fc6-4bc0-994b-9205ae81fc22] Warum befragte er Gott nach dieser Erlaubnis nicht noch einmal, während er nach jenem Verbot meinte, ihn erneut befragen zu müssen? Zeigte sich darin nicht seine böse Gier, auch wenn die Furcht vor dem Herrn sie niederhielt? Die Schrift fährt denn auch fort: „Und Gott wurde von Zorn erregt, weil er ging; und der Engel Gottes stellte sich ihm entgegen, um ihn auf dem Weg nicht weiterziehen zu lassen\.[^bible-9ecfd74b-7945-4583-9118-fc7dbac780c2]“ Es folgt die weitere Erzählung, bis schließlich die Eselin sprach[^bible-535eb973-eb7a-4306-8e5b-f7a71a2db2a4]\. Nichts scheint hier erstaunlicher zu sein, als dass Bileam nicht erschrak, als die Eselin sprach[^bible-535eb973-eb7a-4306-8e5b-f7a71a2db2a4], sondern ihr obendrein, als wäre er solche Wunderzeichen gewohnt, in unvermindertem Zorn antwortete[^bible-4a7a17e5-762a-4f27-ab1b-34fb3ca0eff8]\. Später spricht auch der Engel zu ihm und tadelt und missbilligt den Weg, den er geht[^bible-fde48698-74c3-4cda-a35e-f147d7195b60]; „als er diesen sah, warf er sich jedoch erschrocken nieder[^bible-2f4b4977-9ef6-4447-b9e8-9c556dd1505d]“\. Dann durfte er weitergehen[^bible-28eeffde-8b0e-468b-af70-8f4f1f92d3ca], damit nun durch ihn selbst eine ganz klare Weissagung ausgesprochen würde\. Denn er durfte keineswegs sagen, was er wollte, sondern musste sagen, wozu ihn die Kraft des Geistes zwang\. Er selbst blieb freilich ein Verworfener\. Denn später sagte die Heilige Schrift über ihn, „gewisse tadelnswerte und verworfene Menschen seien seinem Weg gefolgt[^bible-33bd876e-860a-47e8-8073-1702345ab84f]“\. Sie sagt: „Sie sind dem Weg Bileams, des Sohnes Beors, gefolgt, der den Lohn der Ungerechtigkeit liebte\.[^bible-33bd876e-860a-47e8-8073-1702345ab84f]“
+
+## Bibelverweise
+
+[^bible-2140e785-8a80-4be2-85c5-c354a3663375]: Num 22,19
+[^bible-28eeffde-8b0e-468b-af70-8f4f1f92d3ca]: Num 22,35
+[^bible-2f4b4977-9ef6-4447-b9e8-9c556dd1505d]: Num 22,31
+[^bible-33bd876e-860a-47e8-8073-1702345ab84f]: 2Petr 2,15
+[^bible-39a53931-0fc6-4bc0-994b-9205ae81fc22]: Num 22,21
+[^bible-4a7a17e5-762a-4f27-ab1b-34fb3ca0eff8]: Num 22,29
+[^bible-4ac773f3-3624-4b25-8b51-a4df4aac1071]: Num 22,23–Num 22,27
+[^bible-535eb973-eb7a-4306-8e5b-f7a71a2db2a4]: Num 22,28
+[^bible-725cc82b-cee4-46b1-b1d6-f1806dd064ac]: Num 22,18
+[^bible-9ecfd74b-7945-4583-9118-fc7dbac780c2]: Num 22,22
+[^bible-c1a9133d-5fc4-4242-beb0-297e9cc567cd]: Num 22,20
+[^bible-c4e7f1ed-67fb-4b12-b15e-81f7856f4d53]: Num 22,12
+[^bible-fde48698-74c3-4cda-a35e-f147d7195b60]: Num 22,32–Num 22,33
