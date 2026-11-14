@@ -1,0 +1,14 @@
+# 34\. Homilie über die Evangelien – Kapitel 8: Die Engelscharen dienen durch Wunder, Vollmacht, Gericht, Erkenntnis und brennende Liebe
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/gregor-evangelien-homilie-34#kapitel-f6503ff7-b7b2-493f-f014-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Kräfte heißen nämlich jene Geister, durch die besonders häufig Zeichen und Wunder geschehen\. Mächte heißen jene, die innerhalb ihrer Ordnung mehr Macht als die übrigen empfangen haben: Ihnen sind die feindlichen Kräfte unterworfen und werden durch ihre Gewalt gezügelt, damit sie die Herzen der Menschen nicht so sehr versuchen können, wie sie wollen\. Fürstentümer heißen jene, die auch den guten Engelgeistern vorstehen\. Indem sie für die ihnen unterstellten Engel anordnen, was jeweils zu tun ist, leiten sie diese bei der Erfüllung der göttlichen Dienste\. Herrschaften aber heißen jene, die auch die Macht der Fürstentümer an Rang weit überragen\. Denn als Fürst zu herrschen bedeutet, unter den übrigen der Erste zu sein; als Herr zu herrschen bedeutet dagegen, die Untergebenen auch zu besitzen\. Jene Engelscharen, die durch wunderbare Macht hervorragen, heißen also Herrschaften, weil die übrigen ihnen zum Gehorsam unterstellt sind\. Throne wiederum heißen jene Scharen, auf denen der allmächtige Gott stets sitzt, um Gericht zu halten\. Da wir „Throne“ im Lateinischen als „Sitze“ bezeichnen, heißen jene Gottes Throne, die so sehr von der Gnade der Gottheit erfüllt werden, dass der Herr in ihnen sitzt und durch sie seine Urteile fällt\. Daher sagt auch der Psalmist: „Du sitzt auf dem Thron, du, der du gerecht richtest\.[^bible-84255b75-cf42-4367-a911-d0f74cdc283b]“ Cherubim bedeutet „Fülle der Erkenntnis“\. Jene höheren Scharen heißen deshalb Cherubim, weil sie mit umso vollkommenerer Erkenntnis erfüllt sind, je näher sie Gottes Herrlichkeit schauen\. So erkennen sie, soweit es einem Geschöpf möglich ist, alles umso umfassender, je näher sie ihrem Schöpfer aufgrund ihrer Würdigkeit in der Schau kommen\. Seraphim heißen jene Scharen heiliger Geister, die durch die einzigartige Nähe zu ihrem Schöpfer in unvergleichlicher Liebe brennen\. Denn Seraphim bedeutet „Brennende“ oder „Entzündende“\. Weil sie so mit Gott verbunden sind, dass zwischen ihnen und Gott keine anderen Geister stehen, brennen sie umso stärker, je näher sie ihn sehen\. Ihre Flamme ist die Liebe: Je feiner sie die Herrlichkeit seiner Gottheit wahrnehmen, desto stärker lodern sie in der Liebe zu ihm\.
+
+## Bibelverweise
+
+[^bible-84255b75-cf42-4367-a911-d0f74cdc283b]: Ps 9,5

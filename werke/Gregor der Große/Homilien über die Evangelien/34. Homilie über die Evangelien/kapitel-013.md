@@ -1,0 +1,15 @@
+# 34\. Homilie über die Evangelien – Kapitel 13: Wahre Buße beweint das begangene Böse und begeht nichts mehr, das zu beweinen ist
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/gregor-evangelien-homilie-34#kapitel-5b6ac47e-f153-49cf-f019-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch seht: Während wir die Geheimnisse der Himmelsbürger erforschen, sind wir weit vom Gang unserer Auslegung abgekommen\. Seufzen wir also in Sehnsucht nach denen, von denen wir sprechen, doch kehren wir zu uns selbst zurück\. Wir müssen ja daran denken, dass wir Fleisch sind\. Schweigen wir vorerst über die Geheimnisse des Himmels und wischen wir stattdessen vor den Augen des Schöpfers mit der Hand der Buße die Flecken unseres Staubes ab\. Seht, die göttliche Barmherzigkeit selbst verheißt: „Im Himmel wird Freude herrschen über einen einzigen Sünder, der Buße tut\.[^bible-8f7c0828-4dea-44b6-9324-b13fbbe302ac]“ Und doch sagt der Herr durch den Propheten: „Denn an welchem Tag auch immer der Gerechte sündigt, werden alle seine gerechten Taten vor mir vergessen sein\.[^bible-4b3a6327-b418-4d9e-998d-8b5216413d4c]“ Betrachten wir, soweit wir es vermögen, das Walten der himmlischen Güte\. Denen, die stehen, droht er Strafe an, falls sie fallen; denen aber, die gefallen sind, verspricht er Barmherzigkeit, damit sie sich danach sehnen, wieder aufzustehen\. Die einen schreckt er, damit sie sich im Guten nicht überheben; den anderen macht er Mut, damit sie im Bösen nicht verzweifeln\. Bist du gerecht, so fürchte den Zorn, damit du nicht stürzt; bist du ein Sünder, so vertraue auf die Barmherzigkeit, damit du aufstehst\. Doch seht, wir sind schon gefallen, haben uns nicht aufrecht halten können und liegen in unseren verkehrten Begierden am Boden\. Aber der uns niedergeschlagen hat, als wir aufrecht standen, wartet noch immer und ruft uns auf, wieder aufzustehen\. Er öffnet den Schoß seiner Güte und will uns durch die Buße wieder bei sich aufnehmen\. Wir können aber nicht in rechter Weise Buße tun, wenn wir nicht auch wissen, wie sie zu geschehen hat\. Buße tun heißt nämlich, das begangene Böse zu beklagen und nichts zu begehen, was beklagt werden muss\. Wer das eine beweint, dabei aber anderes Böses begeht, weicht entweder noch der Buße aus oder weiß nicht, wie man Buße tut\. Denn was nützt es, wenn jemand die Sünden der Ausschweifung beweint und doch noch immer in der Glut der Habgier keucht? Oder was nützt es, wenn er die Verfehlungen seines Zorns schon betrauert und doch noch immer von den Flammen des Neides verzehrt wird? Doch wir verlangen noch sehr wenig, wenn wir sagen: Wer seine Sünden beweint, soll nichts mehr tun, was er beweinen muss, und wer seine Verfehlungen beklagt, soll sich davor fürchten, Verfehlungen zu begehen\.
+
+## Bibelverweise
+
+[^bible-4b3a6327-b418-4d9e-998d-8b5216413d4c]: Hes 33,13
+[^bible-8f7c0828-4dea-44b6-9324-b13fbbe302ac]: Lk 15,7
