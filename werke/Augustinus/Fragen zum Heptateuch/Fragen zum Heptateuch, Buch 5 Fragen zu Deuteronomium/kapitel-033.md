@@ -1,0 +1,16 @@
+# Fragen zum Heptateuch, Buch 5: Fragen zu Deuteronomium – Kapitel 33: Die mildere Strafe für den verleumderischen Ehemann zeigt die nahezu sklavische Unterordnung der Ehefrau im Gesetz
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/fragen-zum-heptateuch-buch-5-fragen-zu-deuteronomium#kapitel-c7d449cd-d4ce-4016-ef08-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Wenn aber jemand eine Frau heiratet, mit ihr zusammenlebt, sie hasst, vorgeschobene Anschuldigungen gegen sie erhebt, sie in Verruf bringt und sagt: ‚Ich habe diese Frau geheiratet, und als ich ihr nahekam, fand ich bei ihr keine Zeichen ihrer Jungfräulichkeit‘, dann sollen der Vater und die Mutter des Mädchens die Zeichen ihrer Jungfräulichkeit nehmen und den Ältesten am Tor vorlegen\. Der Vater des Mädchens soll zu den Ältesten sagen: ‚Ich habe meine Tochter diesem Mann zur Frau gegeben\. Weil er sie hasst, erhebt er nun vorgeschobene Anschuldigungen gegen sie und sagt: „Ich habe bei deiner Tochter keine Zeichen ihrer Jungfräulichkeit gefunden\.“ Hier aber sind die Zeichen der Jungfräulichkeit meiner Tochter\.‘ Dann sollen sie das Tuch vor den Ältesten jener Stadt ausbreiten\. Die Ältesten der Stadt sollen den Mann ergreifen, ihn züchtigen und ihm eine Geldbuße von hundert Schekeln auferlegen\. Diese sollen sie dem Vater des Mädchens geben, weil der Mann eine israelitische Jungfrau in Verruf gebracht hat\. Sie soll seine Frau bleiben; er darf sie sein Leben lang nicht entlassen\. Wenn sich die Aussage aber als wahr erweist und keine Zeichen der Jungfräulichkeit des Mädchens gefunden werden, dann sollen sie das Mädchen zum Eingang des Hauses ihres Vaters führen, und die Männer ihrer Stadt sollen sie zu Tode steinigen\. Denn sie hat unter den Kindern Israels eine schamlose Tat begangen, indem sie das Haus ihres Vaters der Unzucht preisgab\. So sollst du das Böse aus eurer eigenen Mitte entfernen\.[^bible-4268f182-4165-4596-b3e4-b1100b98435d]“ Hier zeigt sich deutlich, wie das Gesetz die Ehefrauen den Männern untergeordnet und beinahe als Sklavinnen wissen wollte\. Denn wenn ein Mann gegen seine Frau eine Aussage macht, aufgrund deren sie gesteinigt werden soll, falls sich diese Aussage als wahr erweist[^bible-4268f182-4165-4596-b3e4-b1100b98435d], wird er selbst dennoch nicht seinerseits gesteinigt, wenn sich herausstellt, dass die Aussage falsch ist\. Vielmehr wird er lediglich gezüchtigt und mit einer Geldbuße belegt, und ihm wird befohlen, für immer mit ihr verbunden zu bleiben[^bible-86579571-b6dd-4ece-b9e5-ff20f9502f64], obwohl er sie loswerden wollte\. In anderen Fällen aber, in denen das Gesetz bei erwiesener Schuld die Tötung des Beschuldigten befiehlt, ordnet es an, denjenigen, der ihm durch eine falsche Zeugenaussage geschadet hat, mit derselben Strafe zu belegen, die den Beschuldigten getroffen hätte, wenn die Aussage wahr gewesen wäre\.[^bible-0116e601-906e-42ae-b25d-4dc75c7fb9b8]
+
+## Bibelverweise
+
+[^bible-0116e601-906e-42ae-b25d-4dc75c7fb9b8]: Dtn 19,16–Dtn 19,19
+[^bible-4268f182-4165-4596-b3e4-b1100b98435d]: Dtn 22,13–Dtn 22,21
+[^bible-86579571-b6dd-4ece-b9e5-ff20f9502f64]: Dtn 22,18–Dtn 22,19

@@ -1,0 +1,24 @@
+# Fragen zum Heptateuch, Buch 5: Fragen zu Deuteronomium – Kapitel 35: Wie konnte Ruth trotz des Ausschlusses der Moabiter aufgenommen werden – galt das Verbot nur Männern?
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/fragen-zum-heptateuch-buch-5-fragen-zu-deuteronomium#kapitel-25a289db-f620-4fd5-ef0a-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Ein Ammoniter oder Moabiter darf nicht in die Gemeinde des Herrn eintreten; auch bis zur zehnten Generation darf er nicht in die Gemeinde des Herrn eintreten, und bis in Ewigkeit nicht\.[^bible-3549d53d-6ef6-4397-bb24-08ea6f382b79]“ Es stellt sich die Frage, wie dann Ruth aufgenommen werden konnte, die eine Moabiterin war[^bible-75e8e6aa-85d5-4139-a3d2-a73a30f56445] und von der auch das Fleisch des Herrn abstammt[^bible-57c1d17c-38bf-4bd4-a5ff-0206b890c1d4]\. Es sei denn, mit den Worten „bis zur zehnten Generation[^bible-3549d53d-6ef6-4397-bb24-08ea6f382b79]“ wäre in verborgenem Sinn prophetisch angekündigt worden, dass gerade sie aufgenommen werden sollte\. Zählt man nämlich die Generationen von Abraham an, zu dessen Zeit auch Lot lebte, der mit seinen Töchtern die Stammväter der Moabiter und Ammoniter zeugte[^bible-0930c5a5-b6dd-4bff-ab74-0d82aafa9f2a], so ergeben sich einschließlich Abrahams zehn Generationen bis zu Salmon, der Boas zeugte[^bible-57c1d17c-38bf-4bd4-a5ff-0206b890c1d4], den zweiten Mann Ruths[^bible-2e34d0e5-132b-47c2-9fb0-21764e56f470]\. Es sind nämlich diese: Abraham, Isaak, Jakob, Judas, Perez, Hezron, Aram, Amminadab, Nachschon und Salmon[^bible-22574e2e-32cd-437e-a85d-ceaf8c85fe9b]\. Salmon zeugte Boas[^bible-57c1d17c-38bf-4bd4-a5ff-0206b890c1d4], der die Witwe Ruth heiratete[^bible-8bf1fe45-2622-4158-948c-384c05b42f8e]\. Demnach scheint sie nach der zehnten Generation in der Gemeinde des Herrn Nachkommen hervorgebracht zu haben, indem sie diesem Boas Kinder gebar[^bible-2e34d0e5-132b-47c2-9fb0-21764e56f470]\. Doch mit Recht bleibt zu fragen, weshalb hinzugefügt wurde: „und bis in Ewigkeit[^bible-3549d53d-6ef6-4397-bb24-08ea6f382b79]“\. Etwa weil danach kein Mensch aus den Ammonitern und Moabitern mehr in jene Gemeinde des hebräischen Volkes eintrat, nachdem sich diese Weissagung in der zehnten Generation erfüllt hatte? Oder wurde „auch bis zur zehnten Generation[^bible-3549d53d-6ef6-4397-bb24-08ea6f382b79]“ vielmehr so gesagt, dass damit schlechthin alle Zeit gemeint sein sollte, da die Zahl Zehn in gewisser Weise die Gesamtheit bezeichnet, sodass dies durch den Zusatz „und bis in Ewigkeit[^bible-3549d53d-6ef6-4397-bb24-08ea6f382b79]“ gleichsam erläutert worden wäre? Wenn es so ist, scheint Ruth entgegen dem Verbot aufgenommen worden zu sein\. Oder verbot er die Aufnahme von Ammonitern, nicht von Ammoniterinnen, also von Männern aus diesem Volk, nicht von Frauen? Dafür spricht besonders, dass den Israeliten, als sie dieses Volk vernichteten, befohlen wurde, alle Männer zu töten, die Frauen dagegen nicht, außer denen, die bereits mit einem Mann geschlafen hatten[^bible-47976704-6fe0-404d-b5ac-8040719d3c6b]; denn sie hatten das Volk zur Unzucht verführt[^bible-7a968105-2439-4618-ab22-993a3375b935]\. Die Jungfrauen aber wollten sie am Leben lassen[^bible-1044705c-6f0c-432c-9431-2f670d3bd60c], da sie ihnen die Schuld nicht anrechneten, derentwegen jenes Volk die Vernichtung verdient hatte\. Diese Schuld erwähnte er auch hier, gleichsam als Antwort auf die Frage, weshalb er die Aufnahme von Moabitern und Ammonitern in die Gemeinde des Herrn nicht zulassen wollte\. Er fügte nämlich hinzu: „Weil sie euch auf dem Weg, als ihr aus Ägypten auszogt, nicht mit Brot und Wasser entgegenkamen und weil sie Bileam, den Sohn Beors, aus Mesopotamien gegen dich anwarben, damit er dich verfluche\.[^bible-bab64547-8e1b-4d91-bc0a-9dadbbf9dc72]“ Diese Vergehen rechneten sie auch damals, als jenes Volk im Krieg besiegt wurde, den Frauen nicht an, die sie lieber am Leben erhalten wollten\.
+
+## Bibelverweise
+
+[^bible-0930c5a5-b6dd-4bff-ab74-0d82aafa9f2a]: Gen 19,37–Gen 19,38
+[^bible-1044705c-6f0c-432c-9431-2f670d3bd60c]: Num 31,18
+[^bible-22574e2e-32cd-437e-a85d-ceaf8c85fe9b]: Mt 1,2–Mt 1,4
+[^bible-2e34d0e5-132b-47c2-9fb0-21764e56f470]: Rut 4,13
+[^bible-3549d53d-6ef6-4397-bb24-08ea6f382b79]: Dtn 23,4
+[^bible-47976704-6fe0-404d-b5ac-8040719d3c6b]: Num 31,7; Num 31,17–Num 31,18
+[^bible-57c1d17c-38bf-4bd4-a5ff-0206b890c1d4]: Mt 1,5
+[^bible-75e8e6aa-85d5-4139-a3d2-a73a30f56445]: Rut 1,22
+[^bible-7a968105-2439-4618-ab22-993a3375b935]: Num 31,16
+[^bible-8bf1fe45-2622-4158-948c-384c05b42f8e]: Rut 4,10
+[^bible-bab64547-8e1b-4d91-bc0a-9dadbbf9dc72]: Dtn 23,5
