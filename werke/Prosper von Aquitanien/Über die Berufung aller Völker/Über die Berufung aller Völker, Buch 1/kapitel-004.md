@@ -1,0 +1,17 @@
+# Über die Berufung aller Völker, Buch 1 – Kapitel 4: Auch rechtschaffenes Handeln führt nicht zur ewigen Seligkeit, wenn der Mensch sich statt Gottes rühmt
+
+Autor: Prosper von Aquitanien
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/prosper-von-aquitanien/prosper-ueber-die-berufung-aller-voelker-buch-1#kapitel-1a7d0f77-c022-4a56-ee0e-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Von diesem sinnlichen Begehren, in dem jene verharren, die, wie wir sehen, auch in reiferen Jahren noch ohne Verstand und dumm sind, steigt man also zum seelischen Willen auf\. Auch wenn er sich über die sinnliche Regung erheben kann, bewegt er sich doch, solange er noch nicht vom Geist Gottes geleitet wird[^bible-e5a176c1-66d3-48b7-8a96-85102610a91a], ohne Anteil an der höchsten Liebe im Irdischen und Vergänglichen\. Auf dieser Stufe erlangen die Menschen mit ihren geistigen Fähigkeiten keinen höheren Lohn als zeitlichen Ruhm, selbst wenn sie der körperlichen Lust nicht auf schändliche Weise dienen und ihre Begierden nach den Gesetzen der Gerechtigkeit und des Anstands zügeln\. Auch wenn sie ihr gegenwärtiges Leben ehrenvoll gestalten, erhalten sie doch nicht den Lohn ewiger Seligkeit\. Denn sie richten ihr rechtschaffenes Handeln und ihr gutes Streben nicht auf das Lob und die Ehre dessen, von dem sie die Gabe empfangen haben, höhere Einsicht zu erlangen und vor anderen hervorzuleuchten\. Manche richteten nämlich den scharfen Blick ihres Geistes nicht nur auf die Grundsätze höchst nützlicher Künste und die Lehren der freien Wissenschaften, sondern auch auf die Erforschung des höchsten Gutes\. Sie schauten das Unsichtbare an Gott, das sie durch das Geschaffene mit dem Verstand erkannten[^bible-44b67466-ed07-404f-b921-ca7b13b48457]\. Dennoch dankten sie Gott nicht[^bible-f3368319-e7fc-45ed-abba-945dfd91de89] und bekannten nicht, dass er ihnen diese Fähigkeit verliehen hatte, sondern behaupteten, weise zu sein[^bible-0b47fd93-5f26-4880-9e65-ff3257f2a774]\. Das heißt, sie rühmten sich nicht Gottes, sondern ihrer selbst, als hätten sie sich durch ihr eigenes Streben und ihre eigenen Überlegungen der Schau der Wahrheit genähert\. So wurde ihr Denken nichtig[^bible-f3368319-e7fc-45ed-abba-945dfd91de89], und was sie gefunden hatten, weil Gottes Gnade sie erleuchtete, verloren sie, weil ihr Hochmut sie verblendete\. Sie fielen aus dem himmlischen Licht in ihre eigene Finsternis zurück, das heißt vom unveränderlichen und ewigen Gut zur veränderlichen und vergänglichen Natur\. Wenn solche Menschen also in die Liebe zu sich selbst zurückfallen und sich selbst so sehr gefallen, dass sie alles, was sie an sich für lobenswert halten, nicht auf Gottes Gaben zurückführen, sondern für sich beanspruchen und dem Streben ihres eigenen Willens zuschreiben, dann leben sie als Verbannte fern von jenem geistlichen Willen\. Sie haben nichts in sich, was sie dem ewigen Leben näherbringt\. Dabei beginnen sie, in sich selbst auch jene zeitlichen Gaben Gottes zu verderben und sich, statt sie gut zu gebrauchen, an unzählige Laster zu gewöhnen\.
+
+## Bibelverweise
+
+[^bible-0b47fd93-5f26-4880-9e65-ff3257f2a774]: Röm 1,22
+[^bible-44b67466-ed07-404f-b921-ca7b13b48457]: Röm 1,20
+[^bible-e5a176c1-66d3-48b7-8a96-85102610a91a]: Röm 8,14
+[^bible-f3368319-e7fc-45ed-abba-945dfd91de89]: Röm 1,21
