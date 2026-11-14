@@ -6,4 +6,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Über die Berufung aller Völker](%C3%9Cber%20die%20Berufung%20aller%20V%C3%B6lker/) · 1 Werk
+- [Über die Berufung aller Völker](%C3%9Cber%20die%20Berufung%20aller%20V%C3%B6lker/) · 2 Werke

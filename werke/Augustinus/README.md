@@ -7,7 +7,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Werksammlungen
 
 - [Die wörtliche Auslegung von Genesis](Die%20w%C3%B6rtliche%20Auslegung%20von%20Genesis/) · 12 Werke
-- [Fragen zum Heptateuch](Fragen%20zum%20Heptateuch/) · 2 Werke
+- [Fragen zum Heptateuch](Fragen%20zum%20Heptateuch/) · 7 Werke
 - [Gegen die Akademiker](Gegen%20die%20Akademiker/) · 3 Werke
 - [Predigten](Predigten/) · 50 Werke
 - [Über Genesis gegen die Manichäer](%C3%9Cber%20Genesis%20gegen%20die%20Manich%C3%A4er/) · 2 Werke

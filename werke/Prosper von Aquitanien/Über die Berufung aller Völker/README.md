@@ -8,4 +8,5 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werke
 
+- [Über die Berufung aller Völker, Buch 1](%C3%9Cber%20die%20Berufung%20aller%20V%C3%B6lker%2C%20Buch%201/) · 25 Kapitel
 - [Über die Berufung aller Völker, Buch 2](%C3%9Cber%20die%20Berufung%20aller%20V%C3%B6lker%2C%20Buch%202/) · 37 Kapitel
