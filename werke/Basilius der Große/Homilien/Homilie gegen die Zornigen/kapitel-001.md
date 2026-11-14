@@ -1,4 +1,4 @@
-# Homilie gegen die Zornigen – Kapitel 1
+# Homilie gegen die Zornigen – Kapitel 1: Zorn verdrängt die Vernunft und macht den Menschen zum wilden Tier
 
 Autor: Basilius der Große
 

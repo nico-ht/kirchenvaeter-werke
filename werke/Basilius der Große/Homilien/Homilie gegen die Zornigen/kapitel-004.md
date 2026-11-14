@@ -1,4 +1,4 @@
-# Homilie gegen die Zornigen – Kapitel 4
+# Homilie gegen die Zornigen – Kapitel 4: Wie Demut und die Erinnerung an Christi Leiden den Zorn über Kränkungen dämpfen
 
 Autor: Basilius der Große
 

@@ -1,4 +1,4 @@
-# Homilie gegen die Zornigen – Kapitel 3
+# Homilie gegen die Zornigen – Kapitel 3: Schmähungen sind eine Bewährungsprobe der Langmut, keine Entschuldigung für eigenen Zorn
 
 Autor: Basilius der Große
 

@@ -1,4 +1,4 @@
-# Homilie gegen die Zornigen – Kapitel 7
+# Homilie gegen die Zornigen – Kapitel 7: Zorn und Bosheit ablegen, gütig und barmherzig werden und auf das Erbe der Sanftmütigen hoffen
 
 Autor: Basilius der Große
 

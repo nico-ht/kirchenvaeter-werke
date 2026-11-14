@@ -1,4 +1,4 @@
-# Homilie gegen die Zornigen – Kapitel 5
+# Homilie gegen die Zornigen – Kapitel 5: Unter der Führung der Vernunft wird Zorn zum Verbündeten gegen die Sünde
 
 Autor: Basilius der Große
 

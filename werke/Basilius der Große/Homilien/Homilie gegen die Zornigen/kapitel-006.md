@@ -1,4 +1,4 @@
-# Homilie gegen die Zornigen – Kapitel 6
+# Homilie gegen die Zornigen – Kapitel 6: Zornesausbrüche und dauernder Groll nähren weitere Laster und versperren dem Heiligen Geist den Zugang zur Seele
 
 Autor: Basilius der Große
 

@@ -1,4 +1,4 @@
-# Homilie gegen die Zornigen – Kapitel 2
+# Homilie gegen die Zornigen – Kapitel 2: Gegenzorn lässt Schmähungen in Gewalt umschlagen – Schweigen setzt dem Übel ein Ende
 
 Autor: Basilius der Große
 
