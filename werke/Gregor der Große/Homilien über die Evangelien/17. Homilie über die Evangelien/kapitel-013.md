@@ -1,0 +1,19 @@
+# 17\. Homilie über die Evangelien – Kapitel 13: Wer Weihen verkauft, verliert sein Priesteramt; auch verborgene Schuld der Hirten richtet Christus selbst
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/gregor-evangelien-homilie-17#kapitel-547fb92c-6fb2-499b-efa8-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch warum sprechen wir davon, wenn wir sehen, dass noch immer so viele mit weit schlimmeren Taten belastet sind? Mit Trauer richte ich meine Worte an euch Priester, denn wir haben erfahren, dass manche von euch gegen Bezahlung Weihen vornehmen, die geistliche Gnade verkaufen und aus den Verfehlungen anderer irdischen Gewinn anhäufen, wobei sie sich selbst mit Sünde belasten\. Warum erinnert ihr euch also nicht an das Gebot des Herrn: „Umsonst habt ihr empfangen, umsonst gebt[^bible-2a1302cf-ec3d-4c50-97c4-3d6fee7cf141]“? Warum ruft ihr euch nicht vor Augen, wie unser Erlöser in den Tempel trat, die Sitze der Taubenverkäufer umstürzte und das Geld der Geldwechsler ausschüttete[^bible-d76953e6-5002-4378-b22f-94a083ea59fc]? Wer verkauft denn heute im Tempel Gottes Tauben, wenn nicht diejenigen, die in der Kirche für die Handauflegung Geld nehmen? Durch diese Handauflegung wird ja der Heilige Geist vom Himmel her geschenkt\. Die Taube wird also verkauft, weil die Handauflegung, durch die man den Heiligen Geist empfängt, gegen Bezahlung angeboten wird\. Doch unser Erlöser stürzt die Sitze der Taubenverkäufer um[^bible-79172a98-6e09-4973-8acc-5dfc2c6695df], weil er das Priestertum solcher Händler vernichtet\. Deshalb verurteilen die heiligen kirchlichen Satzungen die Häresie der Simonie und schreiben vor, diejenigen des Priesteramtes zu entheben, die für die Erteilung der Weihen Geld verlangen\. Der Sitz der Taubenverkäufer wird also umgestürzt[^bible-79172a98-6e09-4973-8acc-5dfc2c6695df], wenn diejenigen, die geistliche Gnade verkaufen, entweder vor den Augen der Menschen oder vor den Augen Gottes ihres Priesteramtes enthoben werden\. Gewiss gibt es noch viele andere Verfehlungen der Vorsteher, die den Augen der Menschen jetzt verborgen sind\. Oft zeigen sie sich den Menschen als heilige Hirten und schämen sich nicht, in ihrem verborgenen Leben vor den Augen des inneren Richters schändlich dazustehen\. Er wird kommen, gewiss wird jener Tag kommen, und er ist nicht mehr fern, an dem der Hirt der Hirten erscheint[^bible-fba5ad86-8b15-40b1-9fc7-0e7dd0ed9412] und die Taten jedes Einzelnen öffentlich ans Licht bringt[^bible-fd35d5e5-9aca-4cf7-910c-1e9e1dd9de2d]\. Er, der jetzt die Schuld der Untergebenen durch ihre Vorsteher bestraft, wird dann die Verfehlungen der Vorsteher selbst im Zorn verdammen\. Deshalb trat er in den Tempel, fertigte eigenhändig eine Art Peitsche aus Stricken an, trieb die bösen Händler aus dem Haus Gottes und stürzte die Sitze der Taubenverkäufer um[^bible-8824faf6-7503-41bc-92b5-f1f36df6dbf6]\. Denn die Schuld der Untergebenen bestraft er durch die Hirten, die Laster der Hirten aber bestraft er selbst\. Seht, jetzt kann man vor den Menschen leugnen, was im Verborgenen geschieht\. Gewiss aber wird jener Richter kommen, vor dem sich niemand durch Schweigen verbergen und den niemand durch Leugnen täuschen kann\.
+
+## Bibelverweise
+
+[^bible-2a1302cf-ec3d-4c50-97c4-3d6fee7cf141]: Mt 10,8
+[^bible-79172a98-6e09-4973-8acc-5dfc2c6695df]: Mt 21,12
+[^bible-8824faf6-7503-41bc-92b5-f1f36df6dbf6]: Mt 21,12; Joh 2,15
+[^bible-d76953e6-5002-4378-b22f-94a083ea59fc]: Mt 21,12; Joh 2,15
+[^bible-fba5ad86-8b15-40b1-9fc7-0e7dd0ed9412]: 1Petr 5,4
+[^bible-fd35d5e5-9aca-4cf7-910c-1e9e1dd9de2d]: 1Kor 4,5
