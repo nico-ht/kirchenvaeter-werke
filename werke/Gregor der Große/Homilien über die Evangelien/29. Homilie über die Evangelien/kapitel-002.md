@@ -1,0 +1,16 @@
+# 29\. Homilie über die Evangelien – Kapitel 2: „Der ganzen Schöpfung“ gilt dem Menschen, der an allem Geschaffenen teilhat, und schließt die Heiden ein
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/gregor-evangelien-homilie-29#kapitel-958731f0-bfa2-4aec-efe1-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Sollte denn, meine Brüder, das heilige Evangelium etwa den empfindungslosen Dingen oder den vernunftlosen Tieren verkündet werden, wenn es dazu gegenüber den Jüngern heißt: „Verkündet es der ganzen Schöpfung\![^bible-6cf0a70f-2cdf-47fa-b2d9-90e0836b8635]“? Mit der ganzen Schöpfung ist jedoch der Mensch gemeint\. Denn Steine sind zwar da, aber sie leben nicht und empfinden nicht\. Gräser und Sträucher sind da und leben zwar, empfinden aber nicht\. Ich sage, dass sie leben, nicht weil sie eine Seele haben, sondern weil sie grünen\. Denn auch Paulus sagt: „Du Tor\! Was du säst, wird nicht lebendig gemacht, wenn es nicht zuvor stirbt\.[^bible-10bbf9cd-432a-4e4b-b66f-9ba4d061122b]“ Also lebt das, was stirbt, um lebendig gemacht zu werden\. Steine sind also da, leben aber nicht\. Sträucher dagegen sind da und leben, empfinden aber nicht\. Die vernunftlosen Tiere wiederum sind da, leben und empfinden, können aber nicht urteilen\. Engel hingegen sind da, leben, empfinden und können urteilen\. Der Mensch aber hat etwas von jedem Geschöpf\. Denn mit den Steinen hat er das Dasein gemeinsam, mit den Bäumen das Leben, mit den Tieren das Empfinden und mit den Engeln das Erkennen\. Wenn also der Mensch mit jedem Geschöpf etwas gemeinsam hat, dann ist er in gewisser Hinsicht die ganze Schöpfung\. Der ganzen Schöpfung wird also das Evangelium verkündet, wenn es allein dem Menschen verkündet wird\. Denn unterwiesen wird derjenige, um dessentwillen alles auf Erden geschaffen wurde und dem nichts fremd ist, weil er mit allem eine gewisse Ähnlichkeit hat\. Mit der ganzen Schöpfung können auch sämtliche Heidenvölker gemeint sein\. Zuvor war nämlich gesagt worden: „Schlagt nicht den Weg zu den Heiden ein\.[^bible-ac028fc7-72d3-49d5-aef0-862c0e760b26]“ Nun aber heißt es: „Verkündet es der ganzen Schöpfung\![^bible-6cf0a70f-2cdf-47fa-b2d9-90e0836b8635]“ So sollte die Verkündigung der Apostel, die zunächst von Judäa zurückgewiesen worden war, uns dann zu Hilfe kommen, nachdem Judäa sie hochmütig, zum Zeugnis seiner eigenen Verdammnis, zurückgewiesen hatte\. Wenn aber die Wahrheit die Jünger zur Verkündigung aussendet, was tut sie dann anderes in der Welt, als Samenkörner auszustreuen? Sie sät wenige Körner aus, um aus unserem Glauben die Frucht vieler Ernten zu empfangen\. Denn auf der ganzen Welt würde keine so große Ernte von Gläubigen heranwachsen, wenn jene auserwählten Samenkörner der Verkündiger nicht aus der Hand des Herrn auf den vernunftbegabten Boden gefallen wären\. Es folgt:
+
+## Bibelverweise
+
+[^bible-10bbf9cd-432a-4e4b-b66f-9ba4d061122b]: 1Kor 15,36
+[^bible-6cf0a70f-2cdf-47fa-b2d9-90e0836b8635]: Mk 16,15
+[^bible-ac028fc7-72d3-49d5-aef0-862c0e760b26]: Mt 10,5
