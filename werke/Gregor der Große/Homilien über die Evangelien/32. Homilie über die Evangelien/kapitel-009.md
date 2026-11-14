@@ -1,0 +1,10 @@
+# 32\. Homilie über die Evangelien – Kapitel 9: Die Märtyrer als Fürsprecher im Gericht suchen und Gottes Erbarmen mit Hoffnung und Furcht erwarten
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/gregor-evangelien-homilie-32#kapitel-ccd9159b-d9f9-4636-f005-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nehmt euch also, geliebte Brüder, diese zu Fürsprechern in eurem Verfahren vor dem strengen Richter; ruft sie an jenem Tag des großen Schreckens als Verteidiger zu Hilfe\. Wenn morgen irgendeine eurer Angelegenheiten vor einem mächtigen Richter verhandelt würde, würdet ihr gewiss den ganzen heutigen Tag mit Überlegungen zubringen\. Ihr würdet einen Fürsprecher suchen und ihn inständig bitten, euch vor einem so mächtigen Richter als Verteidiger beizustehen\. Seht, Jesus, der strenge Richter, wird kommen, und jene gewaltige Versammlung von Engeln und Erzengeln wird Schrecken verbreiten\. In jener Versammlung wird unsere Sache geprüft, und dennoch suchen wir uns jetzt keine Fürsprecher, die wir dann als Verteidiger haben könnten\. Unsere Verteidiger, die heiligen Märtyrer, sind da\. Sie wollen gebeten werden und suchen, wenn ich so sagen darf, selbst danach, gesucht zu werden\. Sucht also bei ihnen Beistand für euer Gebet, gewinnt sie als Beschützer angesichts eurer Schuld\. Denn auch der Richter selbst will gebeten werden, damit er die Sünder nicht bestrafen muss\. Deshalb droht er schon so lange mit seinem Zorn und wartet dennoch voller Erbarmen\. Sein Erbarmen soll uns aber so aufrichten, dass es uns keineswegs nachlässig macht\. Unsere Sünden sollen uns erschüttern, ohne dass unser Geist in Verzweiflung stürzt\. Denn wenn wir bei aller Zuversicht auch Furcht haben und bei aller Furcht hoffen, werden wir umso eher das ewige Reich erlangen, durch ihn, der als Gott mit dem Vater in der Einheit des Heiligen Geistes lebt und herrscht, in alle Ewigkeit\. Amen\.

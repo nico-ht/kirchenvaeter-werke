@@ -1,0 +1,14 @@
+# 32\. Homilie über die Evangelien – Kapitel 4: Enthaltsamkeit darf nicht dem Ruhm dienen, Mitgefühl nicht zur Nachsicht gegenüber Lastern werden
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/gregor-evangelien-homilie-32#kapitel-27ac9fe5-7e50-4270-f000-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch weil bestimmte Laster den Tugenden selbst nahe sind, müssen wir sagen, welches Laster der Enthaltsamkeit des Fleisches und welches dem Mitgefühl der Seele auflauert\. Der Enthaltsamkeit des Fleisches lauert nämlich bisweilen aus nächster Nähe die eitle Ruhmsucht auf: Wenn man den abgemagerten Körper und das blasse Gesicht sieht, lobt man die sichtbar gewordene Tugend\. Und je mehr sie durch die zur Schau gestellte Blässe vor die Augen der Menschen tritt, desto rascher verliert sie sich nach außen\. So geschieht es häufig, dass etwas, das vermeintlich um Gottes willen getan wird, allein um der Gunst der Menschen willen geschieht\. Das veranschaulicht treffend jener Simon, der unterwegs angetroffen wird und das Kreuz des Herrn unter Zwang trägt[^bible-5266312a-7315-4b08-b909-30b5ff7148a2]\. Denn fremde Lasten trägt man unter Zwang, wenn man etwas aus dem Streben nach eitlem Ruhm tut\. Wer also wird durch Simon dargestellt, wenn nicht Menschen, die enthaltsam und hochmütig sind? Sie setzen zwar durch Enthaltsamkeit dem Fleisch zu, suchen aber im Innern nicht nach der Frucht der Enthaltsamkeit\. Simon trägt also das Kreuz des Herrn unter Zwang[^bible-5266312a-7315-4b08-b909-30b5ff7148a2], denn wenn ein Sünder nicht aus gutem Willen zu einem guten Werk bewegt wird, vollbringt er ohne Frucht das Werk eines Gerechten\. Daher trägt dieser Simon das Kreuz[^bible-5266312a-7315-4b08-b909-30b5ff7148a2], stirbt aber nicht: Denn enthaltsame und hochmütige Menschen setzen zwar durch Enthaltsamkeit dem Körper zu, leben aber durch ihr Verlangen nach Ruhm für die Welt\. Dem Mitgefühl der Seele wiederum lauert häufig im Verborgenen falsche Barmherzigkeit auf\. Sie verleitet es bisweilen sogar dazu, Lastern gegenüber nachsichtig zu sein, obwohl man Verfehlungen nicht mit Mitgefühl begegnen darf, sondern mit Eifer gegen sie vorgehen muss\. Dem Menschen gebührt nämlich Mitgefühl; gegenüber den Lastern aber gilt es, an dem festzuhalten, was recht ist\. So sollen wir in ein und demselben Menschen das Gute lieben, das er als Geschöpf ist, und das Böse bekämpfen, das er getan hat\. Wenn wir Verfehlungen unbedacht nachsehen, könnten wir sonst den Eindruck erwecken, nicht mehr aus Liebe mitzufühlen, sondern aus Nachlässigkeit zu Fall gekommen zu sein\.
+
+## Bibelverweise
+
+[^bible-5266312a-7315-4b08-b909-30b5ff7148a2]: Mt 27,32
