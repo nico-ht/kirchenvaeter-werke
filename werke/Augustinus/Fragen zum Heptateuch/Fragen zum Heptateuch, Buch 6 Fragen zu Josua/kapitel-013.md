@@ -1,0 +1,20 @@
+# Fragen zum Heptateuch, Buch 6: Fragen zu Josua – Kapitel 13: Gott billigt die eidliche Schonung der Gibeoniter: Milde zählt mehr als die Erfüllung eines Tötungsschwurs
+
+Autor: Augustinus
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/augustinus/fragen-zum-heptateuch-buch-6-fragen-zu-josua#kapitel-b24660ed-2e26-4962-ef2d-08df40affd7e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Man kann fragen, warum die Hebräer glaubten, den Eid halten zu müssen, den sie den Gibeoniten in der Annahme geschworen hatten, diese seien aus einem fernen Land gekommen, wie sie wahrheitswidrig behauptet hatten[^bible-a1b7c8b2-b27d-4e1d-81a3-55e34c655ba3]\. Denn die Gibeoniten wussten, dass man sie vernichten würde, wenn die Hebräer erfuhren, dass sie in jenem Land wohnten, das den Hebräern verheißen war und das diese nach der Tötung seiner Bewohner in Besitz nehmen sollten[^bible-d623a5f2-c7eb-40f0-bc9e-2241bacdafff]\. Als sie also logen, sie seien aus einem fernen Land zu ihnen gekommen, schworen ihnen die Israeliten einen Eid[^bible-b9f5da36-858e-4293-a557-72158d73ed6d]\. Später erfuhren diese jedoch, dass die Gibeoniten dort wohnten, wo sie nach Gottes Gebot alle vernichten mussten, die sie vorfanden\. Dennoch wollten sie den Eid nicht brechen\. Obwohl sie erkannt hatten, dass jene gelogen hatten, wollten sie sie um des Eides willen lieber verschonen[^bible-67f918da-1422-45a0-9f29-2fb2ce135a5c]\. Dabei hätten sie durchaus sagen können, sie hätten den Eid nur denen geschworen, für die sie jene gehalten hatten, also Menschen, die von weit her kamen\. Nachdem sie aber erfahren hatten, dass es anders war, hätten sie ihnen gegenüber das Gebot des Herrn erfüllen und sie wie die übrigen im Kampf besiegen müssen\. Gott aber billigte ihr Vorgehen und zürnte ihnen nicht, weil sie jene verschonten, obwohl sie nicht nachgefragt hatten, wer jene waren[^bible-17e29122-43c6-4989-a111-069bdc68dbbf], und diese sie deshalb hatten täuschen können\. Daher darf man durchaus annehmen: Auch wenn die Gibeoniten Menschen täuschen wollten, um ihr Leben zu retten, war ihre Furcht vor Gott in seinem Volk dennoch nicht vorgetäuscht\. Deshalb zürnte der Herr weder denen, die den Eid schworen, noch denen, die sie verschonten\. Ja, später zog er das Haus Sauls für das Unrecht an den Gibeoniten zur Rechenschaft, als gehörten sie seinem eigenen Volk an[^bible-3a9f3ffa-b9b4-4fe9-8353-ee9abb7e92e8], wie die Geschichte in den Büchern der Könige zeigt\. Und weil der Eid, wenn auch gegenüber Menschen, die gelogen hatten, so gehalten wurde, dass die Entscheidung zugunsten der Milde ausfiel, missfiel dies Gott nicht\. Denn hätten die Israeliten umgekehrt geschworen, Menschen zu töten, die sie für Gibeoniten im verheißenen Land hielten, und später erfahren, dass sie nicht aus diesem Land stammten, sondern von weit her zu ihnen gekommen waren, so darf man keineswegs annehmen, sie hätten diese Menschen vernichtet, um ihren Eid zu erfüllen\. Denn aus eben dieser Milde, die verschonen will, entschied sich auch der heilige David dafür, Nabal zu verschonen, selbst nachdem er geschworen hatte, ihn zu töten, und dabei genau gewusst hatte, wen er töten wollte\. Er wollte seinen Schwur nicht durch eine so harte Tat erfüllen[^bible-375ae447-2ba5-4ec0-a1a5-383312029d0f]\. Er glaubte nämlich, Gott mehr zu gefallen, wenn er nicht ausführte, was er, vom Zorn aufgewühlt, einem anderen anzutun geschworen hatte, als wenn er es vollbrachte\.
+
+## Bibelverweise
+
+[^bible-17e29122-43c6-4989-a111-069bdc68dbbf]: Jos 9,14
+[^bible-375ae447-2ba5-4ec0-a1a5-383312029d0f]: 1Sam 25,22
+[^bible-3a9f3ffa-b9b4-4fe9-8353-ee9abb7e92e8]: 2Sam 21,1–2Sam 21,9
+[^bible-67f918da-1422-45a0-9f29-2fb2ce135a5c]: Jos 9,16–Jos 9,20
+[^bible-a1b7c8b2-b27d-4e1d-81a3-55e34c655ba3]: Jos 9,6–Jos 9,15
+[^bible-b9f5da36-858e-4293-a557-72158d73ed6d]: Jos 9,9–Jos 9,15
+[^bible-d623a5f2-c7eb-40f0-bc9e-2241bacdafff]: Jos 9,24
