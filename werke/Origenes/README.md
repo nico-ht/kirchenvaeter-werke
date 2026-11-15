@@ -16,7 +16,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Predigten zu Exodus](Predigten%20zu%20Exodus/) · 13 Werke
 - [Predigten zu Genesis](Predigten%20zu%20Genesis/) · 16 Werke
 - [Predigten zu den Psalmen](Predigten%20zu%20den%20Psalmen/) · 3 Werke
-- [Über die Prinzipien](%C3%9Cber%20die%20Prinzipien/) · 2 Werke
+- [Über die Prinzipien](%C3%9Cber%20die%20Prinzipien/) · 5 Werke
 
 ## Einzelwerke
 

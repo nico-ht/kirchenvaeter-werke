@@ -5817,6 +5817,27 @@
     "contentRevision": "sha256:a25fb4d30cc57f44566305476602e9e64af9cff18515016cab547847b6387ec3"
   },
   {
+    "workId": "f0d4a55f-35ef-4491-965c-08dd68df3f86",
+    "authorName": "Origenes",
+    "title": "Über die Prinzipien, Buch 2",
+    "directory": "werke/Origenes/Über die Prinzipien/Über die Prinzipien, Buch 2",
+    "contentRevision": "sha256:8149fd91d7e2de8675599d8e35b7932a795f9b38fbdea6b70c2677054faf1e22"
+  },
+  {
+    "workId": "cb802a8c-654b-43a1-d669-08dee8a86fbb",
+    "authorName": "Origenes",
+    "title": "Über die Prinzipien, Buch 3",
+    "directory": "werke/Origenes/Über die Prinzipien/Über die Prinzipien, Buch 3",
+    "contentRevision": "sha256:df13550fa3d326de769272eb9907304e513e37c190a6e0e43b656b7c0bd28b4f"
+  },
+  {
+    "workId": "ee966a57-da05-4c12-92b8-08df1b60c991",
+    "authorName": "Origenes",
+    "title": "Über die Prinzipien, Buch 4",
+    "directory": "werke/Origenes/Über die Prinzipien/Über die Prinzipien, Buch 4",
+    "contentRevision": "sha256:a8e740416b5c3e608dc6056789bf46925ab83b505569536171b112f3c1474e44"
+  },
+  {
     "workId": "1d743c25-7884-4cfa-35bb-08df28a55220",
     "authorName": "Pacian von Barcelona",
     "title": "Ermahnung zur Buße",
