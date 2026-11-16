@@ -1,0 +1,31 @@
+# Apostolische Konstitutionen, Buch 2 – Kapitel 41: Umkehrende durch Handauflegung wieder aufnehmen, Sünder heilen und nur Unheilbare von der Kirche trennen
+
+Autor: Apostolische Konstitutionen
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-konstitutionen/apostolische-konstitutionen-buch-2#kapitel-0b3844e6-9def-453b-8fb2-08df4263e4d8).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn aber jemand zurückkehrt und Frucht der Umkehr zeigt[^bible-cd8e6cab-5689-48cf-975c-21cecd55c8e0], dann nimm ihn wieder in die Gebetsgemeinschaft auf, wie den verlorenen, verschwenderischen Sohn, der das Vermögen seines Vaters mit Huren verprasst hatte, Schweine fütterte, sich mit Schoten sättigen wollte und keine bekam[^bible-47648523-6037-489b-a804-f3f63deeb5ed]\. Als dieser Sohn umkehrte und zu seinem Vater zurückkehrte[^bible-6beaee32-97c7-474d-860d-758f61eeba44] und sagte: „Ich habe gegen den Himmel und vor dir gesündigt und bin nicht mehr würdig, dein Sohn zu heißen[^bible-09763ec0-d78f-467b-a517-81c6b351b83b]“, empfing ihn der Vater voller Liebe zu seinem Kind mit Musik, gab ihm sein altes Gewand, seinen Ring und seine Schuhe zurück, schlachtete das Mastkalb und feierte mit seinen Freunden[^bible-d9493ec6-b43b-4fe0-95c3-8720d9733375]\. Darum, Bischof, handle ebenso\. Wie du einen Heiden aufnimmst, nachdem du ihn unterwiesen und getauft hast, so lass auch alle gemeinsam für diesen Menschen beten und führe ihn durch Handauflegung an seinen früheren Platz in der Herde zurück, als einen, der durch Umkehr gereinigt ist\. Diese Handauflegung soll ihm anstelle der Taufe dienen; denn durch das Auflegen unserer Hände wurde den Gläubigen der Heilige Geist gegeben[^bible-68ed8fc3-1f79-4768-83ef-62a509133a4b]\. Und wenn einer von den Brüdern, die standhaft geblieben sind, dich beschuldigt, weil du dich mit ihm versöhnt hast, dann sage ihm: „Du bist immer bei mir, und alles, was ich habe, ist dein\. Es war richtig, zu feiern und sich zu freuen; denn dein Bruder war tot und ist wieder lebendig; er war verloren und ist gefunden worden[^bible-39641fbd-17e0-43c5-ae56-e35832886e0f]\.“ Denn der heilige David bezeugt zur Genüge, dass Gott die Umkehrenden nicht nur aufnimmt, sondern ihnen auch ihre frühere Würde zurückgibt\. Nachdem „er in der Sache mit Uria gesündigt hatte[^bible-074c4ff9-14ae-4a87-8dcb-bb9961a787ec]“, betete er zu Gott und sagte: „Gib mir die Freude über dein Heil zurück und stütze mich mit deinem freien Geist[^bible-d61da20e-0240-4a34-9a46-962ab18e8c0b]\.“ Und weiter: „Wende dein Gesicht von meinen Sünden ab und tilge alle meine Verfehlungen\. Schaffe in mir ein reines Herz, Gott, und erneuere in meinem Innern einen rechten Geist\. Verstoße mich nicht aus deiner Gegenwart und nimm deinen Heiligen Geist nicht von mir[^bible-a694056d-e1e4-4bb1-a1a8-6e5ac3e19974]\.“
+
+Heile also wie ein mitfühlender Arzt alle, die gesündigt haben, und wende dabei heilsame Behandlungsmethoden an\. Schneide und brenne nicht nur, setze nicht nur ätzende Mittel ein, sondern lege auch Verbände an, führe Wunddochte ein, verwende milde Heilmittel und streue tröstende Worte darüber\. Handelt es sich um eine Wundhöhle oder eine große Schnittwunde, versorge sie mit einem geeigneten Pflaster, damit sie sich füllt und mit dem übrigen unversehrten Fleisch eine ebene Fläche bildet\. Ist sie verunreinigt, reinige sie mit ätzendem Pulver, das heißt mit Worten der Zurechtweisung\. Hat sich wildes Fleisch gebildet, ätze es mit einem scharfen Pflaster weg: mit den Gerichtsdrohungen\. Breitet es sich weiter aus, brenne es aus und schneide das faulige Fleisch weg, indem du den Kranken durch Fasten kasteist\. Wenn du aber nach allem, was du getan hast, erkennst, dass von den Füßen bis zum Kopf kein Platz für einen lindernden Umschlag, für Öl oder einen Verband bleibt[^bible-76fecb21-275e-477e-8a5b-a12c88bdb85c], sondern die Krankheit sich ausbreitet und jede Heilung verhindert wie ein Wundbrand, der das ganze Glied zersetzt, dann trenne das verfaulte Glied nach reiflicher Überlegung und nach Beratung mit anderen kundigen Ärzten ab, damit nicht der ganze Leib der Kirche von der Fäulnis erfasst wird\. Sei deshalb nicht vorschnell zum Abtrennen bereit und greife auch nicht leichtfertig zur Säge mit ihren vielen Zähnen\. Öffne vielmehr zuerst die Wunde mit einer Lanzette, damit die innere Ursache des Schmerzes herausgezogen wird und der Leib so schmerzfrei bleibt\. Wenn du aber siehst, dass jemand zur Umkehr nicht mehr fähig und unempfindlich geworden ist, dann trenne den Unheilbaren mit Trauer und Klagen von der Kirche ab\. Denn es heißt: „Entfernt jenen Bösen aus eurer Mitte\.[^bible-829f011a-4429-4da0-a67b-ae55a7edb4dc]“ Und: „Du sollst die Kinder Israels in Furcht versetzen\.[^bible-2634d2d5-3a69-4751-8aa5-b23342e83988]“ Und weiter: „Du sollst die Reichen vor Gericht nicht bevorzugen\.[^bible-b89c6669-c333-4328-b844-73cbf5f535ba]“ Und: „Du sollst einen Armen in seinem Rechtsstreit nicht aus Mitleid begünstigen;[^bible-ce4499b1-f45d-4d98-a607-6d0b35762d6c] denn das Gericht gehört dem Herrn\.[^bible-eff0d55f-a397-4a99-bca6-8b0c8c4acfe2]“
+
+## Bibelverweise
+
+[^bible-074c4ff9-14ae-4a87-8dcb-bb9961a787ec]: 2Sam 11,2–2Sam 11,17
+[^bible-09763ec0-d78f-467b-a517-81c6b351b83b]: Lk 15,21
+[^bible-2634d2d5-3a69-4751-8aa5-b23342e83988]: Lev 15,31
+[^bible-39641fbd-17e0-43c5-ae56-e35832886e0f]: Lk 15,31–Lk 15,32
+[^bible-47648523-6037-489b-a804-f3f63deeb5ed]: Lk 15,13–Lk 15,16; Lk 15,30
+[^bible-68ed8fc3-1f79-4768-83ef-62a509133a4b]: Apg 8,17
+[^bible-6beaee32-97c7-474d-860d-758f61eeba44]: Lk 15,17–Lk 15,21
+[^bible-76fecb21-275e-477e-8a5b-a12c88bdb85c]: Jes 1,6
+[^bible-829f011a-4429-4da0-a67b-ae55a7edb4dc]: 1Kor 5,13
+[^bible-a694056d-e1e4-4bb1-a1a8-6e5ac3e19974]: Ps 50,11–Ps 50,13
+[^bible-b89c6669-c333-4328-b844-73cbf5f535ba]: Lev 19,15
+[^bible-cd8e6cab-5689-48cf-975c-21cecd55c8e0]: Mt 3,8
+[^bible-ce4499b1-f45d-4d98-a607-6d0b35762d6c]: Ex 23,3
+[^bible-d61da20e-0240-4a34-9a46-962ab18e8c0b]: Ps 50,14
+[^bible-d9493ec6-b43b-4fe0-95c3-8720d9733375]: Lk 15,20–Lk 15,25
+[^bible-eff0d55f-a397-4a99-bca6-8b0c8c4acfe2]: Dtn 1,17

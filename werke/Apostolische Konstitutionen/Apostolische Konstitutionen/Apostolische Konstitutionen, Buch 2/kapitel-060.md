@@ -1,0 +1,18 @@
+# Apostolische Konstitutionen, Buch 2 – Kapitel 60: Wer der Kirche fernbleibt, steht durch den Versammlungseifer von Heiden und Juden ohne Rechtfertigung da
+
+Autor: Apostolische Konstitutionen
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-konstitutionen/apostolische-konstitutionen-buch-2#kapitel-e7884759-6735-4401-8fc3-08df4263e4d8).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und wie kann jemand etwas anderes als ein Widersacher Gottes sein, wenn er sich Tag und Nacht um Vergängliches bemüht, sich aber um das Ewige nicht kümmert; wenn er täglich auf Waschungen und vergängliche Nahrung achtet, nicht aber auf das, was für immer Bestand hat? Wie kann ein solcher Mensch schon jetzt vermeiden, das Wort des Herrn zu hören: „Die Heiden sind eher gerechtfertigt als ihr[^bible-e0628356-728e-43eb-b9f2-4cee089d7653]“? So hält er Jerusalem vor: „Sodom ist eher gerechtfertigt als du\.[^bible-e0628356-728e-43eb-b9f2-4cee089d7653]“ Denn wenn die Heiden jeden Tag, wenn sie vom Schlaf aufstehen, zu ihren Götzen laufen, um sie anzubeten, und vor all ihrer Arbeit und all ihrer Mühe zuerst zu ihnen beten, wenn sie an ihren Festen und Feiertagen nicht fernbleiben, sondern sich bei ihnen einfinden, und dies nicht nur die Menschen am Ort tun, sondern auch diejenigen, die weit entfernt wohnen, und bei ihren öffentlichen Schauspielen alle wie in einer Synagoge zusammenkommen; wenn ebenso jene, die vergeblich den Namen Juden tragen, nach sechs Tagen Arbeit am siebten Tag ruhen und in ihrer Synagoge zusammenkommen und niemals die Ruhe von der Arbeit oder die gemeinsame Versammlung versäumen oder vernachlässigen, obwohl sie in ihrem Unglauben der Wirksamkeit des Wortes beraubt sind, ja auch der Kraft des Namens Juda, mit dem sie sich selbst bezeichnen \(denn Juda bedeutet Bekenntnis; sie aber, die zu Unrecht das Leiden am Kreuz veranlasst haben, bekennen sich nicht zu Gott, um bei ihrer Umkehr gerettet zu werden\); wenn sich also diejenigen, die nicht gerettet werden, häufig zu Zwecken versammeln, die ihnen keinen Nutzen bringen, wie willst du dich dann vor Gott, dem Herrn, rechtfertigen, wenn du seine Kirche verlässt, nicht einmal die Heiden nachahmst, sondern durch dein Fernbleiben träge wirst oder vom Glauben abfällst oder Böses tust? Zu dir spricht der Herr durch Jeremia: „Du hast meine Satzungen nicht gehalten; ja, du hast nicht nach den Satzungen der Heiden gelebt und hast sie gewissermaßen noch übertroffen\.[^bible-03d6570b-0517-41f0-b0a1-c3971fc2724f]“ Und wiederum: „Israel hat seine Seele eher gerechtfertigt als das treulose Juda\.[^bible-3ee7498c-544b-47ad-af64-b8bc353d230c]“ Und danach: „Werden die Heiden ihre Götter wechseln, die keine Götter sind? Darum zieht hinüber zu den Inseln von Kittim und seht, sendet nach Kedar und prüft genau, ob so etwas geschehen ist\. Denn jene Völker haben ihre Satzungen nicht geändert; aber[^bible-07d810b8-18b9-40cd-92f3-155e3d0bc9af]“, sagt er, „mein Volk hat seine Herrlichkeit gegen etwas eingetauscht, das keinen Nutzen bringt\.[^bible-2361f1e1-607a-4e36-924f-632b0591d2a1]“ Wie will sich also jemand rechtfertigen, der die Kirche Gottes verachtet hat oder ihr ferngeblieben ist?
+
+## Bibelverweise
+
+[^bible-03d6570b-0517-41f0-b0a1-c3971fc2724f]: Hes 5,7
+[^bible-07d810b8-18b9-40cd-92f3-155e3d0bc9af]: Jer 2,10–Jer 2,11
+[^bible-2361f1e1-607a-4e36-924f-632b0591d2a1]: Jer 2,11
+[^bible-3ee7498c-544b-47ad-af64-b8bc353d230c]: Jer 3,11
+[^bible-e0628356-728e-43eb-b9f2-4cee089d7653]: Hes 16,52
