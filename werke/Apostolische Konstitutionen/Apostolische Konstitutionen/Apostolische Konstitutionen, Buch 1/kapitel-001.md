@@ -1,4 +1,4 @@
-# Apostolische Konstitutionen, Buch 1 – Kapitel 1
+# Apostolische Konstitutionen, Buch 1 – Kapitel 1: Gottes Kinder meiden unrechtes Begehren und beantworten Feindschaft mit Liebe
 
 Autor: Apostolische Konstitutionen
 

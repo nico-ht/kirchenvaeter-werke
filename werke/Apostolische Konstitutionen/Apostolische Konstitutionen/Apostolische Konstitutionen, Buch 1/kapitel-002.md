@@ -1,4 +1,4 @@
-# Apostolische Konstitutionen, Buch 1 – Kapitel 2
+# Apostolische Konstitutionen, Buch 1 – Kapitel 2: Schlichter Lebenswandel und Schriftstudium schützen Männer davor, zu verführen und verführt zu werden
 
 Autor: Apostolische Konstitutionen
 

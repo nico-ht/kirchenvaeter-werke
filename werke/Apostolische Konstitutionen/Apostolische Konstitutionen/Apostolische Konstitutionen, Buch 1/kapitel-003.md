@@ -1,4 +1,4 @@
-# Apostolische Konstitutionen, Buch 1 – Kapitel 3
+# Apostolische Konstitutionen, Buch 1 – Kapitel 3: Christliche Frauen sollen allein ihrem Mann gefallen und durch Bescheidenheit und Sanftmut zum Glauben führen
 
 Autor: Apostolische Konstitutionen
 
