@@ -1,0 +1,34 @@
+# Apostolische Konstitutionen, Buch 6 – Kapitel 20: Das Gesetz sind die Zehn Gebote; Opfer\- und Speisegebote legte Gott dem Volk erst nach dem Kalb als Fessel auf
+
+Autor: Apostolische Konstitutionen
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-konstitutionen/apostolische-konstitutionen-buch-6#kapitel-2043e00c-2513-4dd1-e69d-08df1edf27ba).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Das Gesetz aber sind die Zehn Gebote, die der Herr ihnen mit hörbarer Stimme verkündete[^bible-e8cc7623-864c-57bb-944d-011dfa221978], bevor das Volk jenes Kalb machte, das den ägyptischen Apis darstellte\. Das Gesetz ist gerecht und wird deshalb Gesetz genannt, weil nach ihm gemäß dem Naturgesetz Recht gesprochen wird\. Die Anhänger Simons missbrauchen dieses Naturgesetz, indem sie meinen, sie würden nicht danach gerichtet und könnten so der Strafe entgehen\. Dieses Gesetz ist gut und heilig und legt bei solchen Vorschriften keinen Zwang auf\. Denn er sagt: „Wenn du mir einen Altar machen willst, sollst du ihn aus Erde machen\.[^bible-34c27dca-e656-5c5d-8e22-45d0b6138cc9]“ Er sagt nicht: „Mach einen“, sondern: „Wenn du einen machen willst\.“ Er legt keinen Zwang auf, sondern überlässt es ihrer freien Entscheidung\. Denn Gott braucht keine Opfer, da er von Natur aus keinen Mangel kennt\. Er wusste aber, dass Abel, den Gott liebte, Noah, Abraham und ihre Nachfolger früher ohne Aufforderung, allein vom Naturgesetz bewegt, Gott aus dankbarem Herzen Opfer dargebracht hatten\. Ebenso erlaubte er es nun den Hebräern, ohne es ihnen zu gebieten: Wenn sie es wollten, ließ er es zu und zeigte sich an ihren Opfern erfreut, wenn sie aus rechter Absicht darbrachten\. Deshalb sagt er: „Wenn ihr opfern wollt, opfert mir nicht, als würde ich es brauchen; denn ich brauche nichts: Mir gehört die Welt und alles, was sie erfüllt\.[^bible-e425585a-3c9a-5d54-a6c0-b538f64ab7d2]“
+
+ Als dieses Volk das aber vergaß, anstelle des wahren Gottes ein Kalb als Gott anrief und ihm den Auszug aus Ägypten zuschrieb, indem es sagte: „Das sind deine Götter, Israel, die dich aus Ägypten heraufgeführt haben[^bible-00988b07-5ebc-5c38-8db8-8478d232b083]“; als diese Menschen mit dem Abbild eines Kalbes, das Gras frisst[^bible-fd4dc62d-64b2-50d3-8244-c8374a886bb2], Böses trieben und Gott verleugneten, der durch Mose in ihrer Bedrängnis nach ihnen gesehen hatte[^bible-f2801ab6-3908-5345-9ed8-94873bf64fbe], durch seine Hand und seinen Stab Zeichen getan und die Ägypter mit zehn Plagen geschlagen hatte[^bible-c2f65682-7591-5298-8a4e-643adeb076d6]; der die Wasser des Roten Meeres in zwei Teile geteilt und sie mitten durch das Wasser geführt hatte wie ein Pferd über festen Boden; der ihre Feinde und diejenigen, die ihnen auflauerten, ertränkt hatte[^bible-cf1ee4d9-97dd-543d-9919-8db07a7979c0]; der ihnen in Mara die bittere Quelle süß gemacht[^bible-285412de-cbd4-5f41-900e-a4ff1949d7f3] und aus dem harten Felsen Wasser hervorgebracht hatte, bis sie satt waren[^bible-80d2e276-972c-5059-bde7-24e16df22c51]; der sie wegen der übermäßigen Sonnenhitze mit einer Wolkensäule beschattet und mit einer Feuersäule erleuchtet und geführt hatte, als sie den Weg nicht kannten[^bible-313cb7e4-2c99-5b50-8b35-1a544e701369]; der ihnen Manna vom Himmel gegeben[^bible-652fa8df-d67c-5c9e-92a2-2b31e38a25a7] und Wachteln vom Meer als Fleisch herbeigeführt hatte[^bible-3ae0a6bf-b6e9-5327-acd0-9fd883db2583]; der ihnen auf dem Berg das Gesetz gegeben und sie seine Stimme hatte hören lassen[^bible-2439b2d7-2920-5b4c-a957-806ad938b93a]: Ihn verleugneten sie und sagten zu Aaron: „Mach uns Götter, die vor uns hergehen sollen\.[^bible-f0ea9694-3d6c-5a67-93fa-25c609ec3bfd]“ Sie machten ein gegossenes Kalb und opferten einem Götzen\.[^bible-a656e827-e5ee-5186-9412-85f1427b255d] Da wurde Gott zornig, weil sie ihn so undankbar behandelt hatten, und legte ihnen unlösbare Fesseln an, eine quälende Last und ein hartes Halsjoch\. Er sagte nun nicht mehr: „Wenn ihr einen Altar macht“, sondern: „Macht einen Altar und opfert ständig; denn ihr seid vergesslich und undankbar\. Bringt deshalb fortwährend Brandopfer dar, damit ihr an mich denkt\. Weil ihr eure Freiheit böse missbraucht habt, lege ich euch von nun an Zwang auf und gebiete euch, euch von bestimmten Speisen zu enthalten\. Ich ordne die Unterscheidung zwischen reinen und unreinen Geschöpfen an, obwohl jedes Geschöpf gut ist, weil es von mir geschaffen wurde\. Ich verordne euch verschiedene Absonderungen und Reinigungen, häufige Waschungen und Besprengungen, verschiedene Läuterungen und Ruhezeiten\. Wenn ihr etwas davon vernachlässigt, setze ich die Strafe fest, die dem Ungehorsam gebührt, damit ihr, von eurem Halsjoch gedrückt und wund gerieben, den Irrtum des Vielgötterglaubens aufgebt und statt ‚Das sind deine Götter, Israel[^bible-00988b07-5ebc-5c38-8db8-8478d232b083]‘ an das Wort denkt: ‚Höre, Israel, der Herr, dein Gott, ist der einzige Herr\.[^bible-53c169ab-ef3f-5127-819d-ce45a9e523e4]‘ So sollt ihr zu jenem Gesetz zurückkehren, das ich der Natur aller Menschen eingeprägt habe: dass es nur einen Gott im Himmel und auf Erden gibt, dass ihr ihn mit ganzem Herzen, mit ganzer Kraft und mit eurem ganzen Denken liebt[^bible-7b31aba4-5e2f-5c6c-8c1d-a50a5e9b0cc2], keinen außer ihm fürchtet und weder die Namen anderer Götter in eure Gedanken aufnehmt noch eure Zunge sie aussprechen lasst[^bible-4b1234a5-5791-5de6-8eda-d62bbf68d269]\.“ Wegen ihrer Hartherzigkeit band er sie, damit sie durch Opfer, Ruhezeiten, Reinigungen und ähnliche Bräuche den Gott erkennen würden, der ihnen dies verordnet hatte\.
+
+## Bibelverweise
+
+[^bible-00988b07-5ebc-5c38-8db8-8478d232b083]: Ex 32,4
+[^bible-2439b2d7-2920-5b4c-a957-806ad938b93a]: Ex 19,16; Ex 20,22
+[^bible-285412de-cbd4-5f41-900e-a4ff1949d7f3]: Ex 15,25
+[^bible-313cb7e4-2c99-5b50-8b35-1a544e701369]: Ex 13,21–Ex 13,22
+[^bible-34c27dca-e656-5c5d-8e22-45d0b6138cc9]: Ex 20,24
+[^bible-3ae0a6bf-b6e9-5327-acd0-9fd883db2583]: Num 11,31–Num 11,32
+[^bible-4b1234a5-5791-5de6-8eda-d62bbf68d269]: Ex 23,13
+[^bible-53c169ab-ef3f-5127-819d-ce45a9e523e4]: Dtn 6,4
+[^bible-652fa8df-d67c-5c9e-92a2-2b31e38a25a7]: Ex 16,4
+[^bible-7b31aba4-5e2f-5c6c-8c1d-a50a5e9b0cc2]: Dtn 6,5
+[^bible-80d2e276-972c-5059-bde7-24e16df22c51]: Ex 17,6
+[^bible-a656e827-e5ee-5186-9412-85f1427b255d]: Ex 32,4–Ex 32,6
+[^bible-c2f65682-7591-5298-8a4e-643adeb076d6]: Ex 7,14; Ex 12,30
+[^bible-cf1ee4d9-97dd-543d-9919-8db07a7979c0]: Ex 14,21–Ex 14,22; Ex 14,28
+[^bible-e425585a-3c9a-5d54-a6c0-b538f64ab7d2]: Ps 49,12
+[^bible-e8cc7623-864c-57bb-944d-011dfa221978]: Ex 20,1
+[^bible-f0ea9694-3d6c-5a67-93fa-25c609ec3bfd]: Ex 32,1
+[^bible-f2801ab6-3908-5345-9ed8-94873bf64fbe]: Ex 3,7–Ex 3,8
+[^bible-fd4dc62d-64b2-50d3-8244-c8374a886bb2]: Ps 105,20
