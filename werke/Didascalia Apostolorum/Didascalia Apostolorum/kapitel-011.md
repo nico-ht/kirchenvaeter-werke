@@ -1,10 +1,10 @@
-# Didascalia Apostolorum – Kapitel 11
+# Didascalia Apostolorum – Kapitel 11: Bischöfe sollen vor dem Urteil Versöhnung suchen, denn Groll hindert Gebet und Eucharistie
 
-Autor: Apostolische Werke
+Autor: Didascalia Apostolorum
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-werke/didascalia-apostolorum#kapitel-96fd75ae-2459-43d8-bf3c-08dec0ed9724).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/didascalia-apostolorum/didascalia-apostolorum#kapitel-96fd75ae-2459-43d8-bf3c-08dec0ed9724).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Darum bemüht euch, ihr Bischöfe, zusammen mit den Diakonen, recht vor dem Herrn zu stehen; denn der Herr hat gesagt: „Wenn ihr recht mit mir seid, werde auch ich recht mit euch sein; und wenn ihr verkehrt mit mir wandelt, werde auch ich verkehrt mit euch wandeln[^bible-82972cd8-a2bc-4a3e-8f79-04cd4b945586]“, spricht der Herr der Heerscharen\. Seid also rechtschaffen, damit ihr würdig seid, vom Herrn Lob zu empfangen und nicht Tadel von der Gegenseite\. Die Bischöfe und die Diakone sollen also eines Sinnes sein; hütet das Volk sorgfältig in Einmütigkeit\. Denn ihr beide sollt ein Leib sein, Vater und Sohn; denn ihr seid nach dem Gleichnis der Herrschaft\. Und der Diakon soll dem Bischof alles bekannt machen, wie Christus seinem Vater\. Was aber der Diakon regeln kann, das soll er regeln; alles Übrige soll der Bischof beurteilen\. Doch soll der Diakon das Ohr des Bischofs sein, sein Mund, sein Herz und seine Seele; denn wenn ihr beide eines Sinnes seid, wird durch eure Eintracht auch in der Kirche Frieden sein\. Für einen Christen aber ist dies ein angemessenes Lob: dass er mit keinem Menschen ein böses Wort wechselt\. Wenn aber durch das Wirken des Feindes einem Menschen eine Versuchung widerfährt und er einen Rechtsstreit hat, soll er sich bemühen, davon frei zu werden, auch wenn er dabei einen Verlust erleiden muss; und auf keinen Fall soll er vor die Gerichtshöfe der Heiden gehen\. Und ihr sollt kein Zeugnis von den Heiden gegen irgendeinen von unseren eigenen Leuten zulassen; denn durch die Heiden schmiedet der Feind Anschläge gegen die Diener Gottes\. Weil also die Heiden zur Linken stehen[^bible-ac1fa135-5ce7-46cd-bb8b-a0a9edfd8856] werden, nannte er sie ‚die linke Hand‘; denn unser Erlöser sprach so zu uns: „Deine linke Hand soll nicht wissen, was deine rechte tut[^bible-df195c4a-f663-4fc2-90d8-27d6739e172e]\.“

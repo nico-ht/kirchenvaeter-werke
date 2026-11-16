@@ -1,10 +1,10 @@
-# Didascalia Apostolorum – Kapitel 21
+# Didascalia Apostolorum – Kapitel 21: Zu Pascha fasten Christen für die Umkehr ihrer ungläubigen Brüder aus Israel und feiern danach Christi Auferstehung
 
-Autor: Apostolische Werke
+Autor: Didascalia Apostolorum
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-werke/didascalia-apostolorum#kapitel-844e0286-ebe0-4873-bf46-08dec0ed9724).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/didascalia-apostolorum/didascalia-apostolorum#kapitel-844e0286-ebe0-4873-bf46-08dec0ed9724).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Darum soll ein Christ sich vor leerem Gerede und vor leichtfertigen und gottlosen Worten hüten\. Denn nicht einmal an Sonntagen, an denen wir uns freuen und fröhlich sind, ist es irgendjemandem erlaubt, ein leichtfertiges oder der Religion fremdes Wort zu reden, wie auch unser Herr uns im Psalm durch David lehrt, wenn er so spricht: „Und nun, ihr Könige, versteht; lasst euch unterweisen, alle ihr Richter der Erde\. Dient dem Herrn mit Furcht und freut euch vor ihm mit Zittern\. Nehmt Zucht an, damit der Herr nicht zürnt und ihr nicht vom Weg der Gerechtigkeit zugrunde geht; denn sein Zorn wird bald gegen euch entbrennen\. Selig sind alle, die auf ihn vertrauen[^bible-df5ac950-9bc4-49b5-a635-81deee476782]\.“ Wir müssen also unsere Feste und unsere Freuden mit Furcht und Zittern begehen; denn ein gläubiger Christ, so heißt es, darf nicht die Lieder der Heiden singen und auch mit den Gesetzen und Lehren fremder Versammlungen nichts zu tun haben\. Denn es kann geschehen, dass er durch ihre Lieder auch den Namen von Götzen erwähnt; Gott verhüte, dass so etwas von den Gläubigen getan wird\. Denn der Herr tadelt durch Jeremia gewisse Leute und spricht so: „Sie haben mich verlassen und bei denen geschworen, die keine Götter sind[^bible-11c40afc-70e5-4e22-a2f6-1b7fed3385d7]\.“ Und wiederum spricht er: „Wenn Israel umkehren will, so kehre es zu mir um, spricht der Herr; und wenn es seine Gräuel aus seinem Mund entfernt und sich vor meinem Angesicht fürchtet und schwört: So wahr der Herr lebt[^bible-41ef760e-ff6e-40fc-96a6-5a07bc5680af]\.“ Und wiederum spricht er: „Ich werde den Namen der Götzen aus eurem Mund wegnehmen[^bible-f7741f67-8f80-4ba9-8348-0818ffaab92b]\.“ Und durch Mose spricht er wiederum zu ihnen: „Sie haben mich zur Eifersucht gereizt durch das, was kein Gott ist; und mit ihren Götzen haben sie mich erzürnt[^bible-53ed80b8-a87e-4e06-8e1b-cc15a37adac1]\.“ Und in allen Schriften spricht er von diesen Dingen\.

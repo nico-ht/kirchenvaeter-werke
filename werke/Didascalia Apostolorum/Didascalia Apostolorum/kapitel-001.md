@@ -1,10 +1,10 @@
-# Didascalia Apostolorum – Kapitel 1
+# Didascalia Apostolorum – Kapitel 1: Was du selbst nicht erleiden willst, tue keinem anderen an – und vergilt Böses mit Gutem
 
-Autor: Apostolische Werke
+Autor: Didascalia Apostolorum
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-werke/didascalia-apostolorum#kapitel-3a5673bb-21d5-426f-9c30-08deb5f22d1d).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/didascalia-apostolorum/didascalia-apostolorum#kapitel-3a5673bb-21d5-426f-9c30-08deb5f22d1d).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Gottes Pflanzung und heiliger Weinberg seiner katholischen Kirche, ihr Erwählten, die ihr euch auf die Einfalt der Furcht des Herrn stützt, die ihr durch euren Glauben sein ewiges Reich erbt, die ihr die Kraft und Gemeinschaft seines Heiligen Geistes[^bible-6330f272-4b01-464e-a4ee-6aae4c666c60] empfangen habt und durch ihn in dieser Furcht gerüstet und gefestigt seid, die ihr Anteil erhalten habt an der Besprengung[^bible-48e1bd20-1db7-4274-9c34-3c07e3ddd4f5] mit dem reinen und kostbaren Blut[^bible-26fd8237-c625-4151-9e43-733ee513bde5] des großen Gottes Jesus Christus, die ihr den Freimut empfangen habt, den allmächtigen Gott als Vater anzurufen, als Miterben und Teilhaber[^bible-1580bca1-2fd3-4dfd-b8f3-fb628f6daca7] mit seinem Sohn, seinem Geliebten: Hört die Didascalia Gottes, ihr, die ihr auf seine Verheißungen hofft und harrt\. Sie ist nach dem Gebot unseres Erlösers geschrieben und steht im Einklang mit seinen herrlichen Worten\.

@@ -7,4 +7,3 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Einzelwerke
 
 - [Didache](Didache/) · 17 Kapitel
-- [Didascalia Apostolorum](Didascalia%20Apostolorum/) · 27 Kapitel

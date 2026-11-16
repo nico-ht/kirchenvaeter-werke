@@ -1,10 +1,10 @@
-# Didascalia Apostolorum – Kapitel 13
+# Didascalia Apostolorum – Kapitel 13: Die kirchliche Versammlung hat Vorrang vor dem Erwerb; außerhalb der Kirche sollen Gläubige fleißig arbeiten
 
-Autor: Apostolische Werke
+Autor: Didascalia Apostolorum
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-werke/didascalia-apostolorum#kapitel-c6936476-af83-442f-bf3e-08dec0ed9724).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/didascalia-apostolorum/didascalia-apostolorum#kapitel-c6936476-af83-442f-bf3e-08dec0ed9724).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Wenn du nun lehrst, gebiete und ermahne das Volk, beständig in der Kirche zusammenzukommen und nicht fernzubleiben, sondern sich immer zu versammeln, damit niemand die Kirche durch sein Fernbleiben mindert und den Leib Christi[^bible-68ac3c5f-e311-452a-b9a2-655e1fc3bc34] um ein Glied verkürzt\. Denn ein Mensch soll nicht nur an andere denken, sondern auch an sich selbst, indem er auf das hört, was unser Herr gesagt hat: „Wer nicht mit mir sammelt, zerstreut[^bible-0c2932ad-1b24-49b1-aab1-4ba92bea0670]\.“ Da ihr also Glieder Christi[^bible-bf7d2d07-885f-4c73-b762-04de58e106f2] seid, trennt euch nicht durch Fernbleiben von der Kirche\. Da ihr Christus als euer Haupt habt, wie er verheißen hat, ‚ihr habt Gemeinschaft mit uns[^bible-15962d9b-a7a7-460f-b30a-ef2cca5f1604]‘, seid also nicht nachlässig gegen euch selbst, beraubt unseren Retter nicht seiner Glieder und zerreißt und zerstreut seinen Leib nicht\. Stellt eure weltlichen Geschäfte nicht höher als das Wort Gottes, sondern lasst am Tag des Herrn alles zurück und eilt eifrig zu eurer Kirche; denn sie ist eure Ehre\. Welche Entschuldigung haben sonst diejenigen vor Gott, die am Tag des Herrn nicht zusammenkommen, um das Wort des Lebens[^bible-dab7a6c7-f7fa-4221-9763-1d8bf1f5e7d5] zu hören und mit der göttlichen Speise, die für immer bleibt[^bible-1dcb1e9b-95f4-446c-9e83-e8d0bfd10655], genährt zu werden?

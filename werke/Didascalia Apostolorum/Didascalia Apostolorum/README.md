@@ -1,10 +1,10 @@
 # Didascalia Apostolorum
 
-Apostolische Werke
+Didascalia Apostolorum
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-werke/didascalia-apostolorum) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/didascalia-apostolorum/didascalia-apostolorum) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 - [Einleitung: Die apostolische Lehre ordnet die Kirche und verheißt denen ewiges Leben, die ihre Gebote bewahren](kapitel-000.md)
 - [Kapitel 1: Was du selbst nicht erleiden willst, tue keinem anderen an – und vergilt Böses mit Gutem](kapitel-001.md)

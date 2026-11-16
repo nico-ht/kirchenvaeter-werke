@@ -1,10 +1,10 @@
-# Didascalia Apostolorum – Kapitel 17
+# Didascalia Apostolorum – Kapitel 17: Die Gemeinde soll Waisen aufziehen; wer sich selbst helfen kann, darf keine Armenhilfe beanspruchen
 
-Autor: Apostolische Werke
+Autor: Didascalia Apostolorum
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-werke/didascalia-apostolorum#kapitel-1a7ecfb6-4a98-4733-bf42-08dec0ed9724).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/didascalia-apostolorum/didascalia-apostolorum#kapitel-1a7ecfb6-4a98-4733-bf42-08dec0ed9724).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Wenn nun eines von den Kindern der Christen verwaist ist, sei es ein Junge oder ein Mädchen, dann ist es gut, dass einer der Brüder, der keine Kinder hat, das Kind an Kindes statt annimmt\. Und wer einen Sohn hat, soll ein Mädchen aufnehmen; wenn ihre Zeit gekommen ist, soll er sie ihm zur Frau geben, damit sein Werk im Dienst Gottes vollendet wird\. Wenn es aber welche gibt, die das nicht tun wollen, weil sie den Menschen gefallen möchten, und die sich wegen ihres Reichtums der verwaisten Glieder schämen, dann werden solche selbst in eben diese Lage geraten und darin aufbrauchen, was sie gespart haben; und was die Heiligen nicht gegessen haben, werden die Assyrer essen; und ihr Land werden Fremde vor ihren Augen verschlingen[^bible-e94b1812-3aba-42af-b121-72fae7c6ef96]\. Darum, ihr Bischöfe, kümmert euch sorgfältig um ihre Erziehung, damit es ihnen an nichts fehlt\. Und wenn die Zeit einer Jungfrau gekommen ist, verheiratet sie mit einem der Brüder\. Wenn aber ein Junge aufgezogen wird, soll er ein Handwerk lernen; und wenn er ein Mann geworden ist, soll er den Lohn empfangen, der seinem Handwerk angemessen ist, und sich die Werkzeuge anfertigen, die er für sein Handwerk braucht, und von da an der Liebe der Brüder nicht mehr zur Last fallen, die ihm ohne Arglist und ohne Parteilichkeit erwiesen wurde\.

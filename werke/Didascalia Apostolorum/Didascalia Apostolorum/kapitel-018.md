@@ -1,10 +1,10 @@
-# Didascalia Apostolorum – Kapitel 18
+# Didascalia Apostolorum – Kapitel 18: Witwen und Waisen dürfen nur aus gerechter Arbeit ernährt werden, damit die Fürbitte der Witwen rein bleibt
 
-Autor: Apostolische Werke
+Autor: Didascalia Apostolorum
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-werke/didascalia-apostolorum#kapitel-e6880a1e-589b-4b10-bf43-08dec0ed9724).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/didascalia-apostolorum/didascalia-apostolorum#kapitel-e6880a1e-589b-4b10-bf43-08dec0ed9724).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Seid daher, ihr Bischöfe und Diakone, beständig im Dienst am Altar Christi, womit wir die Witwen und Waisen meinen\. Bemüht euch mit aller Sorgfalt und allem Eifer, bei den Gaben nachzuforschen und zu erfahren, wie der Lebenswandel des Mannes oder der Frau ist, der oder die zur Ernährung, wir sagen es noch einmal, des ‚Altars‘ gibt\. Denn wenn Witwen von den Früchten gerechter Arbeit ernährt werden, werden sie vor Gott, dem Allmächtigen, durch seinen geliebten Sohn und seinen heiligen Geist einen heiligen und wohlgefälligen Dienst darbringen; ihm sei Herrlichkeit und Ehre in Ewigkeit\. Macht es euch daher zur Sorge und zum Bemühen, den Witwen aus dem Dienst eines reinen Gewissens zu dienen, damit ihnen das, worum sie bitten und ersuchen, sogleich gewährt wird, wenn sie darum beten\. Wenn es aber Bischöfe gibt, die nachlässig sind und auf diese Dinge nicht achten, sei es aus Ansehen der Person, um schändlichen Gewinns willen oder weil sie es versäumen nachzuforschen, werden sie keine geringe Rechenschaft ablegen müssen\.

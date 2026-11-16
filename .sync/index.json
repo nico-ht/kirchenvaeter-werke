@@ -262,8 +262,57 @@
     "workId": "d0b84c3a-620a-455f-6745-08dd08ce8c1c",
     "authorName": "Apostolische Konstitutionen",
     "title": "Apostolische Konstitutionen, Buch 1",
-    "directory": "werke/Apostolische Konstitutionen/Apostolische Konstitutionen, Buch 1",
-    "contentRevision": "sha256:f5872363838830165f674d37c31d9f35765c5c5e87a03a19c60f860692a1072c"
+    "directory": "werke/Apostolische Konstitutionen/Apostolische Konstitutionen/Apostolische Konstitutionen, Buch 1",
+    "contentRevision": "sha256:a3e22e0f87fd7ed5c8ed2390771865e069efde7d8c846eede59fd5cda390e78d"
+  },
+  {
+    "workId": "a46c32b9-e1f7-43a4-979a-08df1efbfc61",
+    "authorName": "Apostolische Konstitutionen",
+    "title": "Apostolische Konstitutionen, Buch 2",
+    "directory": "werke/Apostolische Konstitutionen/Apostolische Konstitutionen/Apostolische Konstitutionen, Buch 2",
+    "contentRevision": "sha256:c56fed7584895296bd03c55205157de8edf9ea44ae2c1452666210b893b490cd"
+  },
+  {
+    "workId": "7f50d804-be30-47f8-97ae-08df1efbfc61",
+    "authorName": "Apostolische Konstitutionen",
+    "title": "Apostolische Konstitutionen, Buch 3",
+    "directory": "werke/Apostolische Konstitutionen/Apostolische Konstitutionen/Apostolische Konstitutionen, Buch 3",
+    "contentRevision": "sha256:b47caec7621a70b27c9f04e0fc328ffb0bf15737651ed0b46fb1c18dc8644186"
+  },
+  {
+    "workId": "1698d40d-87f7-4992-97af-08df1efbfc61",
+    "authorName": "Apostolische Konstitutionen",
+    "title": "Apostolische Konstitutionen, Buch 4",
+    "directory": "werke/Apostolische Konstitutionen/Apostolische Konstitutionen/Apostolische Konstitutionen, Buch 4",
+    "contentRevision": "sha256:df101f4efc54b781a5cf7de227ca7c86e3f68f894bfd3cc41db27470dc293d84"
+  },
+  {
+    "workId": "a11473fb-3912-48f3-5f7c-08dd666d69ba",
+    "authorName": "Apostolische Konstitutionen",
+    "title": "Apostolische Konstitutionen, Buch 5",
+    "directory": "werke/Apostolische Konstitutionen/Apostolische Konstitutionen/Apostolische Konstitutionen, Buch 5",
+    "contentRevision": "sha256:fa106747d260d25ba611edb5f096679913afcc2d4e5e78f2c2f93b3ce23865cf"
+  },
+  {
+    "workId": "32a7ca0d-49cc-4e0f-d9e0-08dea9fde3d9",
+    "authorName": "Apostolische Konstitutionen",
+    "title": "Apostolische Konstitutionen, Buch 6",
+    "directory": "werke/Apostolische Konstitutionen/Apostolische Konstitutionen/Apostolische Konstitutionen, Buch 6",
+    "contentRevision": "sha256:e82bda2be4830e6ae647ea2557477d9141cf3bfd54dcc956064eb022faa5f222"
+  },
+  {
+    "workId": "10538a18-21cd-4c9a-a279-08dee664dc0b",
+    "authorName": "Apostolische Konstitutionen",
+    "title": "Apostolische Konstitutionen, Buch 7",
+    "directory": "werke/Apostolische Konstitutionen/Apostolische Konstitutionen/Apostolische Konstitutionen, Buch 7",
+    "contentRevision": "sha256:49782fb5c3db55fd504802b47c66d7701fd4c151fe342188a256bdf1db134bb8"
+  },
+  {
+    "workId": "f546236c-4aa5-4697-a294-08dee664dc0b",
+    "authorName": "Apostolische Konstitutionen",
+    "title": "Apostolische Konstitutionen, Buch 8",
+    "directory": "werke/Apostolische Konstitutionen/Apostolische Konstitutionen/Apostolische Konstitutionen, Buch 8",
+    "contentRevision": "sha256:55b8e209c5fd9380d8a9a0385ba5dad152f0bbf87f8d4758c7dfa10535daaa0e"
   },
   {
     "workId": "cee905c3-962a-4a4a-49db-08dd970eab4e",
@@ -271,13 +320,6 @@
     "title": "Didache",
     "directory": "werke/Apostolische Werke/Didache",
     "contentRevision": "sha256:fe9e1a098fc2003170011c049edcc5bb0f3d5914c1459b8eaa8dffb675a7b5bc"
-  },
-  {
-    "workId": "a94f0791-1c85-44ab-ad2b-08deb5f20bc2",
-    "authorName": "Apostolische Werke",
-    "title": "Didascalia Apostolorum",
-    "directory": "werke/Apostolische Werke/Didascalia Apostolorum",
-    "contentRevision": "sha256:073a59a1a4fd786782cb06dd3fc019085578c7d39916895b75fe4e6afab2c2ef"
   },
   {
     "workId": "ef3ef0f4-cdf8-43f7-6f2c-08deb5b3884d",
@@ -1671,6 +1713,13 @@
     "title": "Über Kinderlosigkeit und Abtreibung - 51. Predigt",
     "directory": "werke/Cäsarius von Arles/Predigten/Über Kinderlosigkeit und Abtreibung - 51. Predigt",
     "contentRevision": "sha256:6ef39fe13f8b66f47c7bdcf4ba8f200260ac002348b825bc5d0f3ecbc11d4a53"
+  },
+  {
+    "workId": "a94f0791-1c85-44ab-ad2b-08deb5f20bc2",
+    "authorName": "Didascalia Apostolorum",
+    "title": "Didascalia Apostolorum",
+    "directory": "werke/Didascalia Apostolorum/Didascalia Apostolorum",
+    "contentRevision": "sha256:258fd573924a17832156a3ce321f67fb53dc5714736038e3a3a5ecbe35532414"
   },
   {
     "workId": "e68083fd-6b8d-4d68-5b0d-08ddb35e8d7e",

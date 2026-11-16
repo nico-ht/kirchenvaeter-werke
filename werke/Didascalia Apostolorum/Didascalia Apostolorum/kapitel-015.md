@@ -1,10 +1,10 @@
-# Didascalia Apostolorum – Kapitel 15
+# Didascalia Apostolorum – Kapitel 15: Witwen sollen als Altar Gottes in Stille beten und segnen, frei von Habgier und Neid
 
-Autor: Apostolische Werke
+Autor: Didascalia Apostolorum
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/apostolische-werke/didascalia-apostolorum#kapitel-f8c0a8c5-f8f5-4a8c-bf40-08dec0ed9724).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/didascalia-apostolorum/didascalia-apostolorum#kapitel-f8c0a8c5-f8f5-4a8c-bf40-08dec0ed9724).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Darum soll jede Witwe sanftmütig, still und gütig sein\. Sie soll auch ohne Bosheit und ohne Zorn sein; sie soll nicht geschwätzig oder lärmend sein, nicht vorlaut im Reden und nicht streitsüchtig\. Und wenn sie sieht, dass etwas Unziemliches geschieht, oder davon hört, soll sie sich verhalten, als hätte sie es nicht gesehen und nicht gehört\. Denn eine Witwe soll keine andere Sorge haben als die, für die zu beten, die geben, und für die ganze Kirche\. Und wenn sie von irgendjemandem gefragt wird, soll sie nicht sogleich Antwort geben, außer allein über Gerechtigkeit und Glauben an Gott; vielmehr soll sie diejenigen, die unterwiesen werden wollen, zu den Vorstehern schicken\. Und denen, die sie befragen, sollen sie, die Witwen, nur zur Widerlegung der Götzen und über die Einheit Gottes Antwort geben\. Über Strafe und Lohn aber, über das Königreich des Namens Christi und über seine Heilsordnung soll weder eine Witwe noch ein Laie sprechen; denn wenn sie ohne Kenntnis der Lehre reden, bringen sie Lästerung über das Wort\. Denn unser Herr verglich das Wort seiner Botschaft mit Senf; Senf aber ist, wenn er nicht kundig zubereitet wird, bitter und scharf für die, die ihn gebrauchen\. Darum sprach unser Herr im Evangelium zu den Witwen und zu allen Laien: „Werft eure Perlen nicht vor die Schweine, dass sie sie nicht zertreten, sich gegen euch wenden und euch zerreißen[^bible-fa18ddc6-c456-4cc8-bdd8-70d4eea9d6c7]\.“ Denn wenn die Heiden, die unterwiesen werden, das Wort Gottes nicht so hören, wie es sich gehört und wie es zur Erbauung des ewigen Lebens dienen soll, und erst recht, wenn eine Frau so zu ihnen spricht, dass unser Herr sich mit einem Leib bekleidete, und vom Leiden Christi, dann werden sie spotten und höhnen, statt dem Wort der Lehre Beifall zu geben; und sie wird wegen der Sünde ein schweres Gericht auf sich ziehen\.
