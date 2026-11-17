@@ -1,0 +1,37 @@
+# 33\. Homilie über Lukas – Kapitel 1: Die Völker nehmen Israels Propheten auf und empfangen das von Elia und Elischa vorgebildete Heil
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/33-homilie-ueber-lukas#kapitel-1a5cfe1b-0156-40bc-1f85-08df43d9ed0e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+
+
+Soweit der geschichtliche Bericht erkennen lässt, hatte sich Jesus noch nicht in Kafarnaum aufgehalten\. Auch wird nicht berichtet, dass er dort irgendein Zeichen getan hätte; er war ja noch gar nicht dort gewesen\. Vielmehr wird berichtet, dass er vor seiner Ankunft in Kafarnaum in seiner Heimat, also in Nazaret, gewesen war[^bible-89a575ad-1670-4b2e-98f5-9bea5ada3670]\. „Gewiss werdet ihr mir dieses Sprichwort vorhalten: ‚Arzt, heile dich selbst\!‘ Was wir von deinen Taten in Kafarnaum gehört haben, das tue auch hier in deiner Heimat\.[^bible-67267d07-5495-45cb-b97f-e03b0e072525]“ Daher vermute ich, dass sich in diesen Worten ein Geheimnis verbirgt und dass Nazaret als Sinnbild der Juden Kafarnaum als Sinnbild der Völker vorausging\. Jesus wusste also, dass er in seiner Heimat keine Ehre finden würde[^bible-5721f792-e2fb-4993-8c01-9f901859588c], ebenso wenig wie ein Prophet oder die Apostel\. Deshalb wollte er dort nicht predigen, sondern predigte unter den Völkern, damit seine Landsleute ihm nicht sagen würden: „Gewiss werdet ihr mir dieses Sprichwort vorhalten: ‚Arzt, heile dich selbst\!‘[^bible-67267d07-5495-45cb-b97f-e03b0e072525]“ Denn es wird eine Zeit kommen, in der das Volk der Juden sagen wird: „Was, wie ich gehört habe, in Kafarnaum[^bible-67267d07-5495-45cb-b97f-e03b0e072525] unter den Völkern an Zeichen und Wundern geschehen ist, das tue auch bei uns in deiner Heimat\.[^bible-67267d07-5495-45cb-b97f-e03b0e072525] Was du der ganzen Welt gezeigt hast, das zeige auch uns\. Verkünde dein Wort dem Volk Israel, damit wenigstens dann, wenn die Fülle der Völker eingegangen ist, ganz Israel gerettet wird\.[^bible-28b8dcb2-19f5-4e6d-9ecd-dadff4bb2cb6]“ Deshalb scheint mir die Antwort des Erlösers auf die Fragen der Nazarener folgerichtig zu sein: „Kein Prophet ist in seiner Heimat willkommen\.[^bible-f100b59c-7c66-4e47-a500-3a6249a90797]“ Und ich meine, dass dieses Wort mehr in seinem geheimnisvollen Sinn als nach seinem Buchstaben wahr ist\. Zwar wurde Jeremia in seiner Heimat Anatot nicht aufgenommen[^bible-d8261920-65e4-475d-9f2b-448bad9cda73], ebenso wenig Jesaja, wo auch immer seine Heimat gewesen sein mag, und die übrigen Propheten\. Doch scheint mir folgende Deutung eher zuzutreffen: Die Heimat aller Propheten war das Volk der Beschneidung, und dieses Volk nahm weder die Propheten noch ihre Weissagungen auf\. Die Völker dagegen, die den Propheten fernstanden und nichts von ihnen wussten, nahmen die Weissagung Jesu Christi auf\. Also ist kein Prophet in seiner Heimat willkommen[^bible-f100b59c-7c66-4e47-a500-3a6249a90797], das heißt: im Volk der Juden\.
+
+Wir aber, die wir dem Bund nicht angehörten und den Verheißungen fremd waren[^bible-783dbf79-1cfa-4fd2-88a9-63fa2762cb04], haben die Propheten von ganzem Herzen aufgenommen\. Mose und die Propheten, die Christus verkünden, gehören mehr uns als jenen, die Jesus nicht aufgenommen haben und deshalb auch diejenigen nicht, die ihn angekündigt haben\. Deshalb fügt er seinem Wort „Kein Prophet ist in seiner Heimat willkommen[^bible-31e5f9ec-48fd-4484-bff6-7dc3c0190e81]“ noch ein weiteres hinzu: „Denn ich sage euch in Wahrheit: In den Tagen des Elia gab es viele Witwen in Israel, als der Himmel drei Jahre und sechs Monate lang verschlossen war\.[^bible-be99e46a-5490-4a3b-9e27-845c0cdfc8ec]“ Damit sagt er Folgendes: Elia war ein Prophet, lebte aber im Volk der Juden\. Doch als er im Begriff war, etwas Wunderbares zu tun, „ließ er die vielen Witwen in Israel zurück und ging zu einer Witwe in Sarepta im Gebiet von Sidon, zu einer einfachen heidnischen Frau[^bible-a405101c-2930-48c1-8cf6-126a96a1e8b1]“\. Damit machte er im Vorausbild sichtbar, was künftig geschehen sollte\. Denn als nicht Hunger nach Brot und nicht Durst nach Wasser herrschten, sondern Hunger danach, das Wort Gottes zu hören[^bible-ed3817ab-d519-4d9d-b275-45af30814b0c], kam er zu der Witwe, von der auch der Prophet Zeugnis ablegt, wenn er sagt: „Die Verlassene hat viele Kinder, mehr als die Frau, die einen Mann hat\.[^bible-9e042acf-0d26-4aa3-b57d-da6227ec6c74]“ „Und als er gekommen war, vermehrte er ihr Brot und ihre Nahrung\.[^bible-6a8bad84-ae1f-4727-b530-e23e5a175e44]“ Du warst die Witwe in Sarepta im Gebiet von Sidon\. Aus dieser Gegend kam die kanaanäische Frau, die ihre Tochter geheilt sehen wollte und es durch ihren Glauben verdiente, das Erbetene zu erhalten\.[^bible-2512c6ef-7dae-4314-ba1f-ef8c410f84e1] Viele Witwen gab es also im Volk Israel, doch zu keiner von ihnen wurde Elia gesandt, sondern nur nach Sarepta zu einer Witwe\.[^bible-a405101c-2930-48c1-8cf6-126a96a1e8b1] Er sagt aber noch etwas, das denselben Sinn hat: „Es gab viele Aussätzige in Israel in den Tagen des Propheten Elischa, und keiner von ihnen wurde gereinigt außer dem Syrer Naaman\.[^bible-19366bb1-68ef-43f7-9cfa-f5540f9c034e]“ Dieser gehörte ja nicht zu Israel\. Betrachte die vielen Aussätzigen, die es bis zum heutigen Tag im Israel nach dem Fleisch[^bible-9b195a4a-5bcb-4042-9096-580d7d616b8f] gibt\. Sieh dagegen die Menschen, die vom Schmutz des Aussatzes überzogen sind, und sieh, wie du hingegen vom geistlichen Elischa, unserem Herrn und Erlöser, durch das Sakrament der Taufe gereinigt wirst und wie dir gesagt wird: „Steh auf, geh in den Jordan und wasche dich; dann wird dein Fleisch wieder heil\.[^bible-679ee8c5-ab28-46ce-946c-2854734039d5]“ Naaman stand auf und ging hin\.[^bible-b8aa229f-713e-4957-b7da-8b5f6f296bb6] Nachdem er gesprochen hatte, vollzog er das Geheimnis der Taufe, und sein Fleisch wurde wie das Fleisch eines Kindes[^bible-b8aa229f-713e-4957-b7da-8b5f6f296bb6], das im Bad der Wiedergeburt[^bible-3136e4c2-fb7e-4e45-a070-8273fc74624a] in Christus Jesus geboren worden ist\. Ihm gehören die Herrlichkeit und die Herrschaft in alle Ewigkeit\. Amen\.[^bible-72492a78-62c4-491e-8524-4ca50d6426cd]
+
+## Bibelverweise
+
+[^bible-19366bb1-68ef-43f7-9cfa-f5540f9c034e]: Lk 4,27
+[^bible-2512c6ef-7dae-4314-ba1f-ef8c410f84e1]: Mt 15,21–Mt 15,28
+[^bible-28b8dcb2-19f5-4e6d-9ecd-dadff4bb2cb6]: Röm 11,25–Röm 11,26
+[^bible-3136e4c2-fb7e-4e45-a070-8273fc74624a]: Tit 3,5
+[^bible-31e5f9ec-48fd-4484-bff6-7dc3c0190e81]: Lk 4,24
+[^bible-5721f792-e2fb-4993-8c01-9f901859588c]: Joh 4,44
+[^bible-67267d07-5495-45cb-b97f-e03b0e072525]: Lk 4,23
+[^bible-679ee8c5-ab28-46ce-946c-2854734039d5]: 2Kön 5,10
+[^bible-6a8bad84-ae1f-4727-b530-e23e5a175e44]: 1Kön 17,15–1Kön 17,16
+[^bible-72492a78-62c4-491e-8524-4ca50d6426cd]: 1Petr 4,11
+[^bible-783dbf79-1cfa-4fd2-88a9-63fa2762cb04]: Eph 2,12
+[^bible-89a575ad-1670-4b2e-98f5-9bea5ada3670]: Lk 4,16
+[^bible-9b195a4a-5bcb-4042-9096-580d7d616b8f]: 1Kor 10,18
+[^bible-9e042acf-0d26-4aa3-b57d-da6227ec6c74]: Jes 54,1
+[^bible-a405101c-2930-48c1-8cf6-126a96a1e8b1]: Lk 4,25–Lk 4,26
+[^bible-b8aa229f-713e-4957-b7da-8b5f6f296bb6]: 2Kön 5,14
+[^bible-be99e46a-5490-4a3b-9e27-845c0cdfc8ec]: Lk 4,25
+[^bible-d8261920-65e4-475d-9f2b-448bad9cda73]: Jer 11,21
+[^bible-ed3817ab-d519-4d9d-b275-45af30814b0c]: Am 8,11
+[^bible-f100b59c-7c66-4e47-a500-3a6249a90797]: Lk 4,24
