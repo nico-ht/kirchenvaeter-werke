@@ -1,0 +1,23 @@
+# 5\. Homilie über die Richter – Kapitel 4: Barak steht für das erste Volk, das der Prophetie nicht bis zu Christus folgt und den Sieg Jael überlässt
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/origenes-5-homilie-ueber-die-richter#kapitel-6bb5c790-af96-411d-1f45-08df43d9ed0e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Zunächst also heißt es von dieser Frau: „Sie sandte nach Barak und rief ihn zu sich\.[^bible-8a37c50c-c99a-4cfa-860e-3e2894de8d9b]“ Barak bedeutet „Blitz“\. Ein Blitz hat zwar Licht, aber kein bleibendes Licht; denn er leuchtet nur eine kurze Zeit hell auf und erlischt dann\. Dieser Barak scheint mir also das erste Volk abzubilden, das zuerst von der Prophetie gerufen und eingeladen wurde, die Worte Gottes zu hören und die Gaben des göttlichen Gesetzes zu empfangen\. Dieses Volk leuchtete und blitzte zwar für kurze Zeit im Glanz des Gesetzes auf, hielt aber nicht lange stand und konnte den Glanz des Lichtes nicht ununterbrochen bewahren\. So hatte Debora zu Barak, das heißt die Prophetie zum ersten Volk, gesagt: „Und der Herr, der Gott Israels, hat dir befohlen: ‚Steige auf den Berg Tabor und nimm 10 000 Männer mit\.‘[^bible-8a37c50c-c99a-4cfa-860e-3e2894de8d9b]“ Dazu kommt das Übrige, was geschrieben steht\. Sehen wir nun, was Barak als Vertreter des Volkes der Prophetie antwortete\. Er sagte: „Ich werde nicht hinaufsteigen, wenn du nicht auch mit mir hinaufsteigst; denn ich kenne den Tag nicht, an dem der Herr seinen Engel mit mir senden wird\.[^bible-fadfc98b-bbcf-476c-bc22-931a50b9862e]“ Du siehst also, wie die Prophetie jenem ersten Volk die Worte Gottes mitteilte und ihm sagte, die Gebote seien gegeben, damit es „auf den Berg hinaufsteigt[^bible-8a37c50c-c99a-4cfa-860e-3e2894de8d9b]“\. Es aber bittet und sagt: „Ich werde nicht hinaufsteigen, wenn du nicht auch mit mir hinaufsteigst\.[^bible-fadfc98b-bbcf-476c-bc22-931a50b9862e]“
+
+Was die Ausrede betrifft, ist das tatsächlich wahr; unwahr ist dagegen das im Gegenzug gegebene Versprechen\. Denn es steht fest, dass dieses Volk nicht auf den Berg Gottes hinaufgestiegen ist; unwahr ist aber seine Zusage, bereit zu sein, selbst mit der Prophetie hinaufzusteigen\. Denn es folgte der Prophetie nicht so weit, dass es an den glaubte, über den alle Prophetie niedergeschrieben wurde: Christus\. Deshalb sagt Debora zu ihm: „Ich werde mit dir gehen\. Doch wisse: Auf diesem Weg, den du gehst, wird dir nicht der Vorrang zukommen; vielmehr wird der Herr Sisera in die Hand einer Frau geben\.[^bible-d77a47e6-4ac3-401a-aaa2-0f35ce45605a]“ Das zeigt klar: Unter jenem Volk wird es „keinen[^bible-d77a47e6-4ac3-401a-aaa2-0f35ce45605a] Vorrang[^bible-d77a47e6-4ac3-401a-aaa2-0f35ce45605a]“ geben, und die Siegespalme wird nicht bei ihm bleiben, sondern „in die Hand einer Frau[^bible-d77a47e6-4ac3-401a-aaa2-0f35ce45605a]“, die Jael heißt, „wird Sisera gegeben werden[^bible-d77a47e6-4ac3-401a-aaa2-0f35ce45605a]“\. Weiter wird berichtet: Auf die Ermahnung Deboras, das heißt der Prophetie, hin verfolgte Barak Sisera, den Anführer der Philister, konnte ihn aber selbst nicht fassen[^bible-9db81482-0977-4b62-9276-d0bd8e4402df]; Jael hingegen, eine Frau aus einem fremden Volk, begegnete Sisera auf seiner Flucht[^bible-0764776e-e927-4d04-83fc-510335a84038]\. Diese Frau hatte zuvor ein Freundschaftsbündnis mit ihm geschlossen[^bible-ecb94414-9b4d-4908-bac3-59eba559c40a], und zu ihr war er abgebogen, um sich zu verbergen\. Er bat sie inständig um Wasser, doch sie gab ihm Milch zu trinken[^bible-3fb58c5e-e0eb-483d-9c6c-72f729c84545]\. Nachdem sie ihn versteckt und mit Fellen zugedeckt hatte[^bible-3fb58c5e-e0eb-483d-9c6c-72f729c84545], schlug sie ihm mit einem Hammer einen Pflock durch die Wangenknochen oder Kiefer[^bible-99bb6f74-57b5-4555-ab59-edf94291c3f2]\. Dann begegnete sie Barak, der Sisera verfolgte, und zeigte ihm Sisera, der bereits tot am Boden lag\.[^bible-9db81482-0977-4b62-9276-d0bd8e4402df]
+
+## Bibelverweise
+
+[^bible-0764776e-e927-4d04-83fc-510335a84038]: Ri 4,17–Ri 4,18
+[^bible-3fb58c5e-e0eb-483d-9c6c-72f729c84545]: Ri 4,18–Ri 4,19
+[^bible-8a37c50c-c99a-4cfa-860e-3e2894de8d9b]: Ri 4,6
+[^bible-99bb6f74-57b5-4555-ab59-edf94291c3f2]: Ri 4,21
+[^bible-9db81482-0977-4b62-9276-d0bd8e4402df]: Ri 4,22
+[^bible-d77a47e6-4ac3-401a-aaa2-0f35ce45605a]: Ri 4,9
+[^bible-ecb94414-9b4d-4908-bac3-59eba559c40a]: Ri 4,17
+[^bible-fadfc98b-bbcf-476c-bc22-931a50b9862e]: Ri 4,8
