@@ -1,0 +1,44 @@
+# 6\. Homilie über die Richter – Kapitel 2: Engel leiten unsere Anfänge, danach müssen wir aus freiem Willen selbst den geistlichen Kampf führen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/origenes-6-homilie-ueber-die-richter#kapitel-30d794e1-32a8-4bd4-1f4e-08df43d9ed0e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Für die Einsetzung von Anführern in Israel preist den Herrn mit der bereitwilligen Zustimmung des Volkes[^bible-b9b458a4-56ce-40c4-ad52-97da4f050d70]\.“ Der Lobpreis, mit dem „wir den Herrn preisen[^bible-b9b458a4-56ce-40c4-ad52-97da4f050d70]“, bezieht sich, wie es heißt, „zu Beginn auf die Anführer in Israel[^bible-b9b458a4-56ce-40c4-ad52-97da4f050d70]“ und danach „auf die Zustimmung des Volkes[^bible-b9b458a4-56ce-40c4-ad52-97da4f050d70]“\. Wenn wir zum Beispiel anfangen, Gott zu verehren, und von den „Anführern Israels[^bible-b9b458a4-56ce-40c4-ad52-97da4f050d70]“ eine erste Unterweisung im Wort Gottes und in der himmlischen Lehre empfangen, dann sollen wir diese Grundlagen begierig aufnehmen\. Unter den „Anführern Israels[^bible-b9b458a4-56ce-40c4-ad52-97da4f050d70]“, also des christlichen Volkes, sind meines Erachtens aber die „Engel[^bible-4343d7e5-efb9-4141-86d3-2af8ebcb158e]“ zu verstehen, die der Herr dazu bestimmt, sich um jeden noch so Geringen in der Kirche zu kümmern, und von denen es auch heißt, dass sie „stets das Angesicht des Vaters sehen, der im Himmel ist[^bible-4343d7e5-efb9-4141-86d3-2af8ebcb158e]“\. Sie also sind die Anführer, und von ihnen sollen wir die ersten Grundlagen empfangen\. Wenn etwa ein Junge zum Unterricht kommt, nimmt ihn der Lehrer auf, und er wird dessen Schüler\. Er beginnt aber nicht gleich, bei diesem Lehrer selbst zu lernen\. Vielmehr wird er, nachdem er von ihm nur die ersten Grundlagen empfangen hat, anderen zur Unterweisung anvertraut, sozusagen den Anführern der Schule selbst\. Erst wenn sie ihn gründlich unterwiesen haben und er von ihnen so viel empfangen hat, wie sie ihm vermitteln können, und wenn er bei ihnen die Grundlagen verinnerlicht hat, kann er schließlich auch die vollkommeneren Lehren des Lehrers selbst empfangen\.
+
+So erinnert die Prophetie auch jetzt an die Anfänge unserer Erziehung und sagt, dass wir, nachdem wir unter der Anleitung der „Anführer[^bible-b9b458a4-56ce-40c4-ad52-97da4f050d70]“ den Anfang gemacht haben oder nachdem die „Anführer[^bible-b9b458a4-56ce-40c4-ad52-97da4f050d70]“ begonnen haben, in uns zu wirken, ihnen fortan freiwillig und aus eigenem Entschluss nacheifern und auf diese Weise immer weitere Fortschritte machen können, um nun den Herrn selbst zu preisen[^bible-b9b458a4-56ce-40c4-ad52-97da4f050d70]\. Doch sieh, was gesagt wird: „Für die Einsetzung von Anführern in Israel[^bible-b9b458a4-56ce-40c4-ad52-97da4f050d70]“, heißt es\. Es sind die Anfänge, von denen gesagt wird, dass sie durch die „Anführer[^bible-b9b458a4-56ce-40c4-ad52-97da4f050d70]“ „unterstützt werden“; danach müssen wir uns aus eigenem Willen und eigenem Entschluss um diese Dinge bemühen, damit wir würdig werden, den Herrn zu preisen[^bible-b9b458a4-56ce-40c4-ad52-97da4f050d70]\. Denn auch als das Volk Israel aus Ägypten aufbrach[^bible-33a3c433-c088-4eba-8b24-6e92eb67d713] und das Rote Meer durchquerte[^bible-19892bd8-5b44-4117-a186-1e0cdcc30efc], wurde nichts durch seine eigene Mühe vollbracht, sondern alles durch die Anführer, das heißt durch die Engel\. So sagt auch Mose zum Volk: „Ihr alle[^bible-c15ad2bf-6b34-436a-9df3-4fb3f6bde7c5]“, sagt er, „werdet still sein, und der Herr wird für euch kämpfen[^bible-c15ad2bf-6b34-436a-9df3-4fb3f6bde7c5]\.“ Oder wird nicht geschildert, wie der Verderberengel[^bible-d2e58547-baa2-4e55-bdc9-a1ae5a0ec8b7] offen für sie kämpfte: jener, der die Erstgeborenen der Ägypter tötete[^bible-097f9666-ba71-4dcd-992c-6de4d0b44d2d] und sogar dafür sorgte, dass die Schafe der Israeliten nicht einmal blökten[^bible-f760c0d1-2069-4285-a114-dd0fbe11b622]?
+
+Wir dürfen jedoch nicht immer erwarten, dass die Engel „für uns kämpfen[^bible-c15ad2bf-6b34-436a-9df3-4fb3f6bde7c5]“\. Nur „für die Einsetzung[^bible-b9b458a4-56ce-40c4-ad52-97da4f050d70]“, das heißt in unseren Anfängen, helfen uns die Engel als „Anführer[^bible-b9b458a4-56ce-40c4-ad52-97da4f050d70]“\. Mit der Zeit müssen dann auch wir selbst bewaffnet zu den Kämpfen ausziehen\.
+
+Gewiss, bevor wir die Kämpfe erkennen lernen, bevor wir daran denken können, die Kämpfe des Herrn zu führen, werden wir von den Engeln als „Anführern“ aufgezogen\. Bevor wir den Jahresvorrat an „himmlischem Brot[^bible-e062f4f6-870a-4146-b087-e0f4d2afa8eb]“ empfangen und durch das Fleisch „des makellosen Lammes[^bible-b9a74d8a-e593-43f6-a7e0-dec998a6b1c4]“ gesättigt werden, bevor wir vom Blut des „wahren Weinstocks[^bible-c0b4699b-ded0-4106-af62-b58fe11fa243]“ berauscht werden, der aus der Wurzel Davids[^bible-0d8982d4-9a3f-4c21-ad46-3555cfa4a4da] hervorgewachsen ist, verhalten wir uns, solange wir noch „unmündige Kinder[^bible-d2bf27fa-2362-4e5e-9338-ceea43caadff]“ sind, „mit Milch[^bible-ad92a18e-f233-4d64-b845-2c59c7a8f5b2]“ ernährt werden und an der Rede von den Anfangsgründen Christi festhalten[^bible-a92760fc-5273-45ce-8d98-458a5c9391b7], wie „unmündige Kinder[^bible-8603cc1e-f743-4164-b357-bbcfe736c022]“, die Engeln als „Vormündern[^bible-5288210b-98b8-4653-aa64-c2895e4abee7]“ und Engeln als „Verwaltern[^bible-5288210b-98b8-4653-aa64-c2895e4abee7]“ unterstehen\. Höre aber, wie uns, sobald wir die Geheimnisse „des himmlischen Heeres“ gekostet haben und durch „das Brot des Lebens[^bible-42eba998-4240-491f-ad28-dd8236b6d55d]“ gestärkt worden sind, die apostolische Kriegsposaune zum Kampf antreibt\. Denn Paulus ruft uns mit mächtiger Stimme zu: „Legt die Rüstung Gottes an, damit ihr den Listen des Teufels standhalten könnt\.[^bible-547325d9-2b26-490f-af76-5288ac679a6c]“ Er lässt uns nicht länger unter den Flügeln derer verborgen bleiben, die uns mit Milch[^bible-ad92a18e-f233-4d64-b845-2c59c7a8f5b2] nähren\. Stattdessen ruft er uns auf die Schlachtfelder\. Es heißt: „Legt den Brustpanzer der Liebe an[^bible-c05b2708-ed7b-4b40-823b-a77515753113]“ und ebenso: „Nehmt den Helm des Heils[^bible-2c927e11-3d2c-4fdb-8b44-abd4c6ec59e2], dazu das Schwert des Geistes[^bible-2c927e11-3d2c-4fdb-8b44-abd4c6ec59e2] und vor allem den Schild des Glaubens, mit dem ihr[^bible-ae9361cd-138d-4e0b-8ff9-cef5c84f3e92]“, sagt er, „alle feurigen Geschosse des Bösen auslöschen könnt\.[^bible-ae9361cd-138d-4e0b-8ff9-cef5c84f3e92]“
+
+Du siehst also, wie beim Volk Gottes alles einer Ordnung folgt und nichts verworren ist; nichts geschieht ungeordnet oder verkehrt\. Denn „am Anfang[^bible-86c81a14-98ec-4802-a438-e1c1583e1b87]“ helfen „die Anführer[^bible-86c81a14-98ec-4802-a438-e1c1583e1b87]“; wenn du aber von den Anführern Hilfe und Unterweisung empfangen hast, dann tu aus eigenem Antrieb und freiem Willen, was du von den Anführern gelernt hast\. Tatsächlich werden wir mit Recht unserem eigenen Willen überlassen, weil unsere Anfänge gereift und die ersten Grundlagen in uns gesammelt sind, damit uns entweder zu Recht der Ruhm zukommt, den wir durch unsere Tugend erringen, oder nach dem Gesetz die Schuld zugerechnet wird, die aus unserer Trägheit entsteht\. Deshalb steht geschrieben: „Für die Einsetzung von Anführern in Israel preist mit der Bereitschaft des Volkes den Herrn\.[^bible-86c81a14-98ec-4802-a438-e1c1583e1b87]“
+
+## Bibelverweise
+
+[^bible-097f9666-ba71-4dcd-992c-6de4d0b44d2d]: Ex 12,29
+[^bible-0d8982d4-9a3f-4c21-ad46-3555cfa4a4da]: Offb 5,5
+[^bible-19892bd8-5b44-4117-a186-1e0cdcc30efc]: Ex 14,21–Ex 14,22
+[^bible-2c927e11-3d2c-4fdb-8b44-abd4c6ec59e2]: Eph 6,17
+[^bible-33a3c433-c088-4eba-8b24-6e92eb67d713]: Ex 12,37
+[^bible-42eba998-4240-491f-ad28-dd8236b6d55d]: Joh 6,35
+[^bible-4343d7e5-efb9-4141-86d3-2af8ebcb158e]: Mt 18,10
+[^bible-5288210b-98b8-4653-aa64-c2895e4abee7]: Gal 4,2
+[^bible-547325d9-2b26-490f-af76-5288ac679a6c]: Eph 6,11
+[^bible-8603cc1e-f743-4164-b357-bbcfe736c022]: Gal 4,1
+[^bible-86c81a14-98ec-4802-a438-e1c1583e1b87]: Ri 5,2
+[^bible-a92760fc-5273-45ce-8d98-458a5c9391b7]: Hebr 6,1
+[^bible-ad92a18e-f233-4d64-b845-2c59c7a8f5b2]: Hebr 5,12–Hebr 5,13
+[^bible-ae9361cd-138d-4e0b-8ff9-cef5c84f3e92]: Eph 6,16
+[^bible-b9a74d8a-e593-43f6-a7e0-dec998a6b1c4]: 1Petr 1,19
+[^bible-b9b458a4-56ce-40c4-ad52-97da4f050d70]: Ri 5,2
+[^bible-c05b2708-ed7b-4b40-823b-a77515753113]: 1Thess 5,8
+[^bible-c0b4699b-ded0-4106-af62-b58fe11fa243]: Joh 15,1
+[^bible-c15ad2bf-6b34-436a-9df3-4fb3f6bde7c5]: Ex 14,14
+[^bible-d2bf27fa-2362-4e5e-9338-ceea43caadff]: Hebr 5,13
+[^bible-d2e58547-baa2-4e55-bdc9-a1ae5a0ec8b7]: Ex 12,23
+[^bible-e062f4f6-870a-4146-b087-e0f4d2afa8eb]: Ps 77,24
+[^bible-f760c0d1-2069-4285-a114-dd0fbe11b622]: Ex 11,7
