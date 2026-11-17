@@ -1,0 +1,36 @@
+# 2\. Homilie über die Richter – Kapitel 5: Wie Sünder dem Satan ausgeliefert werden: durch Kirchenausschluss oder Gottes Rückzug aus ihrem Herzen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/origenes-2-homilie-ueber-die-richter#kapitel-558f8b90-d53d-4652-1f64-08df43d9ed0e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Deshalb heißt es: „Sie reizten den Herrn zum Zorn und verließen den Herrn, und sie beteten Baal und Astarot an\. Da geriet der Herr in heftigen Zorn gegen Israel und lieferte sie in die Hände von Plünderern aus\.[^bible-9536ffde-bc0d-469e-a54a-3b533d53a393]“ Solange jemand Gott dient, wird er nicht „in die Hände von Plünderern ausgeliefert[^bible-fc05b178-9772-4f74-8a20-05297f6754f9]“\. Wenn er aber „den Herrn verlassen hat[^bible-103fa2c9-0183-4722-9b87-abe25c94f582]“ und begonnen hat, seinen Leidenschaften zu dienen, dann heißt es von ihm: „Gott hat sie schändlichen Leidenschaften ausgeliefert\.[^bible-a283990c-0bf9-48a3-a8cd-91d27730b7a8]“ Und weiter: „Er hat sie einem verkehrten Denken ausgeliefert, sodass sie tun, was sich nicht gehört\.[^bible-c56cc7f5-4767-4a44-bc87-98246a0caf49]“ Warum? Weil sie, wie es heißt, „mit aller Bosheit, Erbärmlichkeit, Unzucht und Habgier erfüllt sind[^bible-014d1698-c306-4842-acec-9e7ed4f9d83f]“ und mit all dem anderen, was dort genannt wird\. Ebenso heißt es nun auch hier: „Weil sie den Baalen und Astarot dienten und sie anbeteten, lieferte Gott sie in die Hände von Plünderern aus, und es geschah durch die Hand ihrer Feinde\.[^bible-506d4666-590d-4802-87a1-e2316aac799a]“
+
+Die Juden lesen diese Dinge also, wie ich schon oft gesagt habe, als wären es Geschichten von Geschehenem und Vergangenem\. „Wir[^bible-c9124dd8-4d46-4aa9-8a0c-381091ce4ef7]“ aber, von denen es heißt, dass „dies für uns aufgeschrieben wurde[^bible-c9124dd8-4d46-4aa9-8a0c-381091ce4ef7]“, müssen wissen: Wenn wir gegen den Herrn gesündigt haben und die Vergnügungen unseres Geistes und die Begierden des Fleisches als Gott anbeten, dann werden auch wir wiederum gemäß apostolischer Vollmacht übergeben und in die Hände des Teufels ausgeliefert\. Höre nämlich den genauen Wortlaut über den, der gesündigt hatte: „Ich habe[^bible-2f131f43-e12e-4b7b-8b4d-e78e1be57db1]“, heißt es, „einen solchen Menschen dem Satan ausgeliefert, zur Zerstörung des Fleisches, damit der Geist gerettet wird\.[^bible-2f131f43-e12e-4b7b-8b4d-e78e1be57db1]“ Du siehst also: Auch jetzt hat Gott die Sünder nicht nur durch seine Apostel „in die Hände von Feinden[^bible-fc05b178-9772-4f74-8a20-05297f6754f9]“ „ausgeliefert[^bible-fc05b178-9772-4f74-8a20-05297f6754f9]“; auch durch jene, die der Kirche vorstehen und die Vollmacht haben, Sünder nicht nur zu lösen, sondern auch zu binden[^bible-98a5cd5e-435a-4b61-a0a3-70fbca291412], „werden sie zur Zerstörung des Fleisches ausgeliefert[^bible-2f131f43-e12e-4b7b-8b4d-e78e1be57db1]“, wenn sie wegen ihrer Vergehen vom Leib Christi getrennt werden\.
+
+Und mir scheint, dass auch heute Menschen auf zweierlei Weise von der Kirche in die Gewalt des Teufels ausgeliefert werden\. Auf die schon beschriebene Weise geschieht das, wenn die Übertretung eines Menschen vor der Kirche offenbar wird und die Priester ihn aus der Kirche verbannen, damit er sich, von den Menschen mit Schande gebrandmarkt, schämt und nach seiner Umkehr an ihm geschieht, was darauf folgt: „damit der Geist am Tag unseres Herrn Jesus Christus gerettet wird\.[^bible-31ab0361-d138-4287-ae27-5c73c85a5017]“ Auf andere Weise aber wird jemand „dem Teufel ausgeliefert[^bible-31ab0361-d138-4287-ae27-5c73c85a5017]“, wenn seine Sünde den Menschen verborgen bleibt, Gott aber, „der im Verborgenen sieht[^bible-d56f932a-f2c7-4bff-927a-f3b25651f8ee]“, in seinen Geist und seine Neigungen blickt und erkennt, dass sie Lastern und Leidenschaften dienen, und in sein Herz blickt und erkennt, dass dort nicht er angebetet wird, sondern Habgier oder Wollust oder Prahlerei oder anderes dieser Art\. Einen solchen Menschen „liefert[^bible-31ab0361-d138-4287-ae27-5c73c85a5017]“ der Herr selbst „dem Satan aus[^bible-31ab0361-d138-4287-ae27-5c73c85a5017]“\. Wie „liefert[^bible-31ab0361-d138-4287-ae27-5c73c85a5017]“ er ihn „dem Satan aus[^bible-31ab0361-d138-4287-ae27-5c73c85a5017]“? Gott zieht sich aus dessen Geist zurück, wendet sich ab, flieht vor seinen bösen Gedanken und schändlichen Begierden und verlässt das „leere Haus[^bible-e5d7980b-a6fd-405c-9827-353b3138394d]“ seines Herzens\. Dann wird sich an diesem Menschen erfüllen, was geschrieben steht: „Wenn aber ein unreiner Geist aus einem Menschen ausgefahren ist, durchstreift er trockene Gegenden; und wenn er keine Ruhe gefunden hat, kehrt er in sein Haus zurück\. Findet er es leer und sauber vor, nimmt er sieben andere Geister mit sich, die noch übler sind als er selbst, zieht ein und wohnt in jenem Haus\. Und dann wird der letzte Zustand dieses Menschen schlimmer sein als der erste\.[^bible-7cb1f28f-62be-462a-9522-91290695527c]“
+
+So ist es also zu verstehen, wenn Gott diejenigen „ausliefert[^bible-31ab0361-d138-4287-ae27-5c73c85a5017]“, die er ausliefert: Nicht, dass er selbst jemanden ausliefern würde; vielmehr verlässt er unwürdige Menschen, nämlich jene, die sich nicht so bessern und von ihren Sünden reinigen, dass Gott gern in ihnen wohnt\. Wenn Gott eine Seele flieht, die in Unreinheit und Lastern verharrt, und sich von ihr abwendet, heißt es, dass sie von ihm ausgeliefert wird, weil sie sich als leer von Gott erweist und von einem üblen Geist ergriffen wird\. Deshalb lasst uns mit größtem Eifer wachsam sein und uns beeilen, uns von Lastern und bösen Begierden zu reinigen, damit wir Gott in uns bewahren und er in uns zu wohnen geruht, solange er an unseren Taten, Worten und Gedanken Freude hat, sofern wir bei allem, was wir tun, seinem Willen folgen, sodass wir, „ob wir essen oder trinken oder was wir sonst tun[^bible-fb93ca7d-fd2e-4c46-bc1b-21438c6ef43c]“, „alles im Namen unseres Herrn Jesus Christus tun[^bible-37634d0a-632e-4cea-a4d2-bd7be3e34403]“, „dem Herrlichkeit und Herrschaft gehören in alle Ewigkeit\. Amen\.[^bible-82d36241-e2c3-4c2b-94f5-69548e78f672]“
+
+## Bibelverweise
+
+[^bible-014d1698-c306-4842-acec-9e7ed4f9d83f]: Röm 1,29
+[^bible-103fa2c9-0183-4722-9b87-abe25c94f582]: Ri 2,13
+[^bible-2f131f43-e12e-4b7b-8b4d-e78e1be57db1]: 1Kor 5,5
+[^bible-31ab0361-d138-4287-ae27-5c73c85a5017]: 1Kor 5,5
+[^bible-37634d0a-632e-4cea-a4d2-bd7be3e34403]: Kol 3,17
+[^bible-506d4666-590d-4802-87a1-e2316aac799a]: Ri 2,13–Ri 2,14
+[^bible-7cb1f28f-62be-462a-9522-91290695527c]: Mt 12,43–Mt 12,45
+[^bible-82d36241-e2c3-4c2b-94f5-69548e78f672]: 1Petr 4,11
+[^bible-9536ffde-bc0d-469e-a54a-3b533d53a393]: Ri 2,12–Ri 2,14
+[^bible-98a5cd5e-435a-4b61-a0a3-70fbca291412]: Mt 18,18
+[^bible-a283990c-0bf9-48a3-a8cd-91d27730b7a8]: Röm 1,26
+[^bible-c56cc7f5-4767-4a44-bc87-98246a0caf49]: Röm 1,28
+[^bible-c9124dd8-4d46-4aa9-8a0c-381091ce4ef7]: 1Kor 10,11
+[^bible-d56f932a-f2c7-4bff-927a-f3b25651f8ee]: Mt 6,6
+[^bible-e5d7980b-a6fd-405c-9827-353b3138394d]: Mt 12,44
+[^bible-fb93ca7d-fd2e-4c46-bc1b-21438c6ef43c]: 1Kor 10,31
+[^bible-fc05b178-9772-4f74-8a20-05297f6754f9]: Ri 2,14
