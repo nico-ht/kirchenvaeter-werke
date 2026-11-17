@@ -1,0 +1,35 @@
+# 37\. Homilie über Lukas – Kapitel 1: Das losgebundene Eselsfohlen zeigt, wie Christus uns von Sünden befreit und sein Wort in uns einzieht
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/origenes-lukas-homilie-37#kapitel-c8bdf1ed-1cde-491e-1f79-08df43d9ed0e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+
+
+Aus dem Evangelium nach Lukas wurde vorgelesen, wie der Retter nach Bethphage und Bethanien am Ölberg kam und zwei seiner Jünger ausschickte, um ein angebundenes Eselsfohlen loszubinden, auf dem noch nie ein Mensch gesessen hatte[^bible-e80b8b9c-6f0b-4bbd-b1b0-dc310b43239e]\. Das scheint mir eher einen tieferen Sinn zu haben als nur ein schlichter Bericht über das Geschehen zu sein\. Der Esel war angebunden[^bible-1e2c6f22-9627-40c0-b397-d098b1a0547f]\. Wo? Gegenüber von Bethphage und Bethanien[^bible-e80b8b9c-6f0b-4bbd-b1b0-dc310b43239e]\. Bethanien bedeutet „Haus des Gehorsams“, Bethphage dagegen „Haus der Kiefer“ und ist damit gewissermaßen ein Ort der Priester\. Denn die Kiefer wurden den Priestern gegeben[^bible-7118dedd-4c2f-40ad-a882-8c9ec3b09446], wie es im Gesetz vorgeschrieben ist\. Dorthin also, wo Gehorsam herrscht, an den Ort, der den Priestern vorbehalten ist, sendet der Retter seine Jünger, damit sie das Eselsfohlen losbinden, auf dem noch nie ein Mensch gesessen hat[^bible-1e2c6f22-9627-40c0-b397-d098b1a0547f]\. Was aber kann außer einem Menschen sonst auf einem Esel sitzen? Ich will kurz ein Beispiel heranziehen, damit verständlich wird, was ich sagen werde\. Bei Jesaja steht geschrieben: „Vision von vierfüßigen Tieren in Bedrängnis und Not[^bible-b56e22af-3967-4238-b288-25f986684b71]“, und so weiter bis zu der Stelle, an der er sagt: „Die Reichtümer der Nattern werden ihnen nichts nützen\.[^bible-b56e22af-3967-4238-b288-25f986684b71]“ Jeder von uns soll bedenken, welche Schätze der Nattern[^bible-b56e22af-3967-4238-b288-25f986684b71] er früher getragen hat, welche Reichtümer der wilden Tiere[^bible-b56e22af-3967-4238-b288-25f986684b71], und dass auf unserem Esel niemals ein vernunftbegabter Mensch gesessen hat: nicht das Wort des Mose, nicht das Jesajas, nicht das Jeremias und auch nicht das Wort irgendeines der übrigen Propheten\. Er wird erkennen, dass sich das Wort Gottes und die Vernunft erst dann auf uns setzten, als der Herr Jesus kam und seinen Jüngern befahl, hinzugehen und das zuvor angebundene Eselsfohlen loszubinden[^bible-e80b8b9c-6f0b-4bbd-b1b0-dc310b43239e], damit es frei gehen konnte\. Das losgebundene Eselsfohlen wird also zu Jesus geführt[^bible-4fd74d98-ab95-413b-bb2b-7c3dc1e95a4f]\. Als er die Jünger ausschickte, es loszubinden[^bible-1e2c6f22-9627-40c0-b397-d098b1a0547f], hatte er gesagt: „Wenn euch jemand fragt, warum ihr das Fohlen losbindet, dann sagt ihm, dass der Herr es braucht\.[^bible-042b1a87-6a5e-47f6-ba64-3872197c0401]“ Dieses Fohlen hatte viele Herren[^bible-17ad2148-902d-4166-ba7e-1b47c60265e4], bevor der Retter es brauchte[^bible-042b1a87-6a5e-47f6-ba64-3872197c0401]\. Als aber er sein Herr wurde, hatte es nicht länger mehrere Herren\. Denn niemand kann Gott und dem Mammon dienen[^bible-f8bdabbe-5fc3-4f07-9a1c-4c6687ae2efd]\. Wenn wir der Bosheit dienen, sind wir vielen Leidenschaften und Lastern unterworfen\. Also wird das Fohlen losgebunden[^bible-17ad2148-902d-4166-ba7e-1b47c60265e4], weil der Herr es braucht[^bible-042b1a87-6a5e-47f6-ba64-3872197c0401]\. Ihr seid das Eselsfohlen\. Was braucht der Sohn Gottes von euch? Was verlangt er von euch? Er braucht euer Heil; er wünscht, dass ihr von den Fesseln der Sünden befreit werdet\. Dann werfen die Jünger ihre Kleider auf den Esel und setzen den Retter darauf[^bible-4fd74d98-ab95-413b-bb2b-7c3dc1e95a4f]\. Sie nehmen das Wort Gottes und legen es auf die Seelen der Zuhörer\. Sie ziehen ihre Kleider aus und breiten sie auf dem Weg aus[^bible-73939358-37ff-490f-8567-c290ede4d3a6]\. Auf uns liegen die Kleider der Apostel: Ihre guten Werke sind unser Schmuck\. Die Apostel wollen, dass wir auf ihre Kleider treten\. Und tatsächlich tritt der von den Jüngern losgebundene Esel, der Jesus trägt, auf die Kleider der Apostel[^bible-5c208c72-56bd-4b09-9b85-2a88a9df9ce2], wenn er ihrer Lehre folgt und ihr Leben nachahmt\. Wer von uns ist so glücklich, dass Jesus auf ihm sitzt? Solange er auf dem Berg war, blieb er bei seinen Aposteln\. Als er sich aber dem Abhang näherte, begegnete ihm eine Volksmenge[^bible-56108656-6449-4d12-bbe0-0e3e407809a4]\. Wenn er nicht bis an den Abhang gekommen wäre, hätte ihm die Menge nicht begegnen können\.
+
+Er stieg hinab, setzte sich auf das Eselsfohlen, und das ganze Volk lobte Gott mit einer Stimme\.[^bible-202af8a5-e348-4c2b-9741-773838eee570] Als die Pharisäer das sahen, sagten sie zum Herrn: „Weise sie zurecht\.[^bible-b48b5b1e-45c8-4995-9614-dc7758179727]“ Er antwortete ihnen: „Wenn diese schweigen, werden die Steine schreien\.[^bible-05b19faa-67bc-4084-b66e-d5b08722437b]“ Wenn wir sprechen, schweigen die Steine; wenn wir schweigen, schreien die Steine\.[^bible-05b19faa-67bc-4084-b66e-d5b08722437b] Denn der Herr kann aus diesen Steinen Abraham Kinder erwecken\.[^bible-d3f7270e-c3fb-40e4-906a-63118e2c377d] Wann werden wir schweigen? Wenn die Liebe vieler erkaltet ist[^bible-6cbf2edf-cc3c-450b-8e8a-5816c764102d], wenn sich erfüllt hat, was der Retter vorausgesagt hat: „Wird der Menschensohn wohl Glauben auf der Erde finden, wenn er kommt?[^bible-5e1d01ed-0ef9-4ed0-b3a4-a7338ec276e8]“ Darum wollen wir den Herrn um sein Erbarmen bitten, damit nicht die Steine schreien, während wir schweigen[^bible-05b19faa-67bc-4084-b66e-d5b08722437b]; vielmehr wollen wir sprechen und Gott im Vater, im Sohn und im Heiligen Geist loben: Ihm gehören Herrlichkeit und Herrschaft in alle Ewigkeit\. Amen\.[^bible-292742b1-90d8-47dc-9b8f-b37625ba7f7b]
+
+## Bibelverweise
+
+[^bible-042b1a87-6a5e-47f6-ba64-3872197c0401]: Lk 19,31
+[^bible-05b19faa-67bc-4084-b66e-d5b08722437b]: Lk 19,40
+[^bible-17ad2148-902d-4166-ba7e-1b47c60265e4]: Lk 19,33
+[^bible-1e2c6f22-9627-40c0-b397-d098b1a0547f]: Lk 19,30
+[^bible-202af8a5-e348-4c2b-9741-773838eee570]: Lk 19,35–Lk 19,37
+[^bible-292742b1-90d8-47dc-9b8f-b37625ba7f7b]: 1Petr 4,11
+[^bible-4fd74d98-ab95-413b-bb2b-7c3dc1e95a4f]: Lk 19,35
+[^bible-56108656-6449-4d12-bbe0-0e3e407809a4]: Lk 19,37
+[^bible-5c208c72-56bd-4b09-9b85-2a88a9df9ce2]: Lk 19,33–Lk 19,36
+[^bible-5e1d01ed-0ef9-4ed0-b3a4-a7338ec276e8]: Lk 18,8
+[^bible-6cbf2edf-cc3c-450b-8e8a-5816c764102d]: Mt 24,12
+[^bible-7118dedd-4c2f-40ad-a882-8c9ec3b09446]: Dtn 18,3
+[^bible-73939358-37ff-490f-8567-c290ede4d3a6]: Lk 19,36
+[^bible-b48b5b1e-45c8-4995-9614-dc7758179727]: Lk 19,39
+[^bible-b56e22af-3967-4238-b288-25f986684b71]: Jes 30,6
+[^bible-d3f7270e-c3fb-40e4-906a-63118e2c377d]: Mt 3,9
+[^bible-e80b8b9c-6f0b-4bbd-b1b0-dc310b43239e]: Lk 19,29–Lk 19,30
+[^bible-f8bdabbe-5fc3-4f07-9a1c-4c6687ae2efd]: Lk 16,13
