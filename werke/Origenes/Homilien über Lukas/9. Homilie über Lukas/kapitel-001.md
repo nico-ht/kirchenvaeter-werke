@@ -1,0 +1,32 @@
+# 9\. Homilie über Lukas – Kapitel 1: Wie Johannes’ Heranreifen, Geburt und Namensgebung das Wirken des Heiligen Geistes erkennen lassen
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/origenes-lukas-homilie-9#kapitel-8fa7c0c8-11b8-4f17-1f5e-08df43d9ed0e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+
+
+Sowohl das Gesagte als auch die berichteten Geschehnisse müssen einen Sinn haben, der des Heiligen Geistes und des Glaubens an Christus würdig ist, zu dem wir als Glaubende berufen werden\. Deshalb müssen wir auch jetzt nach dem Grund fragen, weshalb Maria nach der Empfängnis zu Elisabeth kam[^bible-ba7bf2e6-b8ad-4290-9613-6526901767d1] und drei Monate bei ihr blieb[^bible-41ed0cb8-4c67-4f1b-9299-7f335ca2709a], oder weshalb Lukas, der den Bericht des Evangeliums verfasste, auch festhielt, dass sie drei Monate bei ihr blieb und danach in ihr Haus zurückkehrte[^bible-41ed0cb8-4c67-4f1b-9299-7f335ca2709a]\. Gewiss muss es dafür einen Grund geben\. Wenn der Herr unser Herz öffnet, wird ihn die folgende Auslegung zeigen\. Wenn nämlich schon dadurch, dass Maria nur zu Elisabeth kam und sie begrüßte[^bible-ba7bf2e6-b8ad-4290-9613-6526901767d1], das Kind vor Freude hüpfte[^bible-7249a94b-4a44-4653-8aef-c42e0f5add32] und Elisabeth vom Heiligen Geist erfüllt wurde[^bible-3878519e-fe23-48db-8950-2f198e83c84f] und das weissagte, was im Evangelium geschrieben steht, wenn es also in einer einzigen Stunde solche Fortschritte gab, dann bleibt es unserer Vorstellung überlassen, welche Fortschritte Johannes in drei Monaten machte, während Maria bei Elisabeth war\. Denn es wäre höchst unangemessen anzunehmen, dass in einem winzigen Augenblick das Kind hüpfte und sich gewissermaßen ausgelassen freute[^bible-7249a94b-4a44-4653-8aef-c42e0f5add32] und Elisabeth vom Heiligen Geist erfüllt wurde[^bible-3878519e-fe23-48db-8950-2f198e83c84f], dass aber während dreier Monate weder Johannes noch Elisabeth durch die unmittelbare Gegenwart der Mutter des Herrn und des Erlösers selbst Fortschritte machten\. Johannes wurde also geschult und drei Monate lang im Leib seiner heiligen Mutter gewissermaßen wie auf einem Übungsplatz angespornt\. Er wurde im Mutterleib darauf vorbereitet, nach seiner wunderbaren Geburt noch wunderbarer aufgezogen zu werden\. Weil er nämlich anders als gewöhnlich aufgezogen wurde, steht nicht geschrieben, wie er an den Brüsten seiner Mutter gestillt oder auf dem Schoß einer Pflegerin gehalten wurde\. Vielmehr folgt sogleich: „Und er war in den Wüsten bis zu dem Tag, an dem er vor Israel auftrat\.[^bible-28beb1f2-ecb0-4682-8a82-184c18cde411]“ Dann lesen wir: „Für Elisabeth aber erfüllte sich die Zeit, da sie gebären sollte, und sie gebar einen Sohn\.[^bible-f1af4523-2299-48db-874a-6fcc0bc21bab]“ Viele halten die Worte für überflüssig: „Für Elisabeth aber erfüllte sich die Zeit, da sie gebären sollte, und sie gebar einen Sohn\.[^bible-f1af4523-2299-48db-874a-6fcc0bc21bab]“ Welche Frau kann denn gebären, wenn sie nicht zuvor die Zeit bis zur Geburt vollendet hat? Wer aber die Schriften aufs Genaueste betrachtet und das Volk sprechen hört, soll bei der Lesung darauf achten und sowohl im Alten als auch im Neuen Testament prüfen, ob er irgendwo bei der Geburt eines Sünders die Worte findet: „Es erfüllte sich die Zeit, da sie gebären sollte\.[^bible-f1af4523-2299-48db-874a-6fcc0bc21bab]“ Er wird sie nicht ein einziges Mal finden\. Wo aber ein Gerechter geboren wird, da erfüllt sich der Tag, da vollendet sich sein Kommen in die Welt\. Die Geburt eines Gerechten birgt Fülle; die Geburt eines Sünders dagegen, wenn wir es so ausdrücken dürfen, Leere und Nichtigkeit\. So viel zu den Worten: „Es erfüllte sich die Zeit, da sie gebären sollte\.[^bible-f1af4523-2299-48db-874a-6fcc0bc21bab]“ Die Nachbarn und Verwandten freuten sich mit seiner Mutter und wollten dem Kind zu Ehren seines Vaters den Namen Zacharias geben\.[^bible-79e4b460-685e-419a-9f2a-9b823cd46993] Elisabeth aber sagte auf Eingebung des Heiligen Geistes: „Johannes ist sein Name\.[^bible-163ca2e9-7d45-4106-9651-14bfc188e17d]“ „Darauf wollten sie triftige Gründe dafür wissen, weshalb er gerade Johannes heißen sollte, da niemand in seiner Verwandtschaft diesen Namen trug, und befragten den Vater, der nicht antworten konnte[^bible-9f0f4c33-e61a-4cee-afc5-da3b81922e1b]“ \(er sprach mit der Hand und mit Buchstaben\)\. Er schrieb nämlich auf ein Täfelchen[^bible-7924459d-9887-45fb-b547-5d0c7fd54cd3]: „Johannes ist sein Name\.[^bible-7924459d-9887-45fb-b547-5d0c7fd54cd3]“ Und sobald er den Griffel ins Wachs gedrückt hatte, wurde seine zuvor gefesselte Zunge gelöst[^bible-c73392b8-9712-40c7-a840-cd6bf2401d5f]\.
+
+Er erhielt die Sprache zurück[^bible-68272c7e-a066-40ef-bb66-d0b84adbe95b], doch keine menschliche, denn seine Zunge war gefesselt gewesen[^bible-39d9e594-8658-4f0b-8eaf-a1c5b16cdf55]; menschlich aber war sie nicht\. Der Unglaube hatte sie nämlich gefesselt\.[^bible-39d9e594-8658-4f0b-8eaf-a1c5b16cdf55] Sobald sie gelöst war[^bible-68272c7e-a066-40ef-bb66-d0b84adbe95b], hörte sie auf, menschlich zu sein, und er sprach und pries Gott\.[^bible-68272c7e-a066-40ef-bb66-d0b84adbe95b] Und er weissagte[^bible-f4cf57aa-0bf4-4ea7-a79a-6935c404086e], was im Evangelium geschrieben steht\. Darüber werden wir zur gegebenen Zeit sprechen, wenn der Herr Jesus Christus es gewährt\. „Ihm gehören Herrlichkeit und Herrschaft in alle Ewigkeit\. Amen\.[^bible-c9fc7d51-ab60-49b8-9f93-1b859874e72d]“
+
+## Bibelverweise
+
+[^bible-163ca2e9-7d45-4106-9651-14bfc188e17d]: Lk 1,60
+[^bible-28beb1f2-ecb0-4682-8a82-184c18cde411]: Lk 1,80
+[^bible-3878519e-fe23-48db-8950-2f198e83c84f]: Lk 1,41
+[^bible-39d9e594-8658-4f0b-8eaf-a1c5b16cdf55]: Lk 1,20
+[^bible-41ed0cb8-4c67-4f1b-9299-7f335ca2709a]: Lk 1,56
+[^bible-68272c7e-a066-40ef-bb66-d0b84adbe95b]: Lk 1,64
+[^bible-7249a94b-4a44-4653-8aef-c42e0f5add32]: Lk 1,41; Lk 1,44
+[^bible-7924459d-9887-45fb-b547-5d0c7fd54cd3]: Lk 1,63
+[^bible-79e4b460-685e-419a-9f2a-9b823cd46993]: Lk 1,58–Lk 1,59
+[^bible-9f0f4c33-e61a-4cee-afc5-da3b81922e1b]: Lk 1,61–Lk 1,62
+[^bible-ba7bf2e6-b8ad-4290-9613-6526901767d1]: Lk 1,39–Lk 1,40
+[^bible-c73392b8-9712-40c7-a840-cd6bf2401d5f]: Lk 1,64
+[^bible-c9fc7d51-ab60-49b8-9f93-1b859874e72d]: 1Petr 4,11
+[^bible-f1af4523-2299-48db-874a-6fcc0bc21bab]: Lk 1,57
+[^bible-f4cf57aa-0bf4-4ea7-a79a-6935c404086e]: Lk 1,67
