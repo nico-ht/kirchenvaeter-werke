@@ -2877,6 +2877,13 @@
     "contentRevision": "sha256:5c079cb9bd57ce35c8f3656fd4bd5beb29da675e2439eff53a10d634e8104dcf"
   },
   {
+    "workId": "15dae56e-0965-40a2-30d8-08df44243c92",
+    "authorName": "Johannes Chrysostomus",
+    "title": "1. Homilie über die Apostelgeschichte",
+    "directory": "werke/Johannes Chrysostomus/Homilien über die Apostelgeschichte/1. Homilie über die Apostelgeschichte",
+    "contentRevision": "sha256:d17e6b25356fd673946ef0ee27697f207036c8883c9aca832c5edde96b26c145"
+  },
+  {
     "workId": "de4192f8-4486-4a09-c725-08dd21fc0e0e",
     "authorName": "Johannes Chrysostomus",
     "title": "1. Predigt zu Titus",
@@ -3262,6 +3269,13 @@
     "contentRevision": "sha256:79f82832a62eab75cd996d67b2af22f841ee661aa2d749a1b16fede82631341d"
   },
   {
+    "workId": "9beea2cd-97ad-4528-30da-08df44243c92",
+    "authorName": "Johannes Chrysostomus",
+    "title": "3. Homilie über die Apostelgeschichte",
+    "directory": "werke/Johannes Chrysostomus/Homilien über die Apostelgeschichte/3. Homilie über die Apostelgeschichte",
+    "contentRevision": "sha256:17bcaa1ea0722563b8f3061e9473717641c08d41cfd9840cad60d12afd9a19ab"
+  },
+  {
     "workId": "c3599bf3-4f69-478e-61eb-08ddaf4d2cf4",
     "authorName": "Johannes Chrysostomus",
     "title": "3. Predigt zu Titus",
@@ -3435,6 +3449,13 @@
     "title": "4. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/4. Homilie über Matthäus",
     "contentRevision": "sha256:2e1188ed3c766637eeebc2a3d2278ad5c0431f45d4b70c6b1455cc9c49bf811d"
+  },
+  {
+    "workId": "b405ba4b-0a83-4b4d-30db-08df44243c92",
+    "authorName": "Johannes Chrysostomus",
+    "title": "4. Homilie über die Apostelgeschichte",
+    "directory": "werke/Johannes Chrysostomus/Homilien über die Apostelgeschichte/4. Homilie über die Apostelgeschichte",
+    "contentRevision": "sha256:fd5de75e59555bd33483488a5147a4c64e2848781ecaa6ed0e374695b4396806"
   },
   {
     "workId": "4ee884dc-89f5-4a8b-3992-08ddbba818d1",
@@ -3612,6 +3633,13 @@
     "contentRevision": "sha256:063ab4d82fbe30a41a12d471ab475323d9f84554df0a1ee1dc9e577b5ee17915"
   },
   {
+    "workId": "fcd81d53-7e9a-4c01-30dc-08df44243c92",
+    "authorName": "Johannes Chrysostomus",
+    "title": "5. Homilie über die Apostelgeschichte",
+    "directory": "werke/Johannes Chrysostomus/Homilien über die Apostelgeschichte/5. Homilie über die Apostelgeschichte",
+    "contentRevision": "sha256:53e633e952f0b3519219b08b2818b00c5b1e506e05ca560b40c9a1ab1467519e"
+  },
+  {
     "workId": "aac46e8f-e2af-4b1f-c2bc-08ddbe61ab21",
     "authorName": "Johannes Chrysostomus",
     "title": "5. Predigt zu Titus",
@@ -3787,6 +3815,13 @@
     "contentRevision": "sha256:2826fb96b02df27f217e5a68885496801e1ec8b14874e2ffcfb8f5a425fd2f3f"
   },
   {
+    "workId": "29fa9ef9-8345-4597-30dd-08df44243c92",
+    "authorName": "Johannes Chrysostomus",
+    "title": "6. Homilie über die Apostelgeschichte",
+    "directory": "werke/Johannes Chrysostomus/Homilien über die Apostelgeschichte/6. Homilie über die Apostelgeschichte",
+    "contentRevision": "sha256:c7c05a1ae16c39341493c1691f43bbb06fcb9fbb9adf3c84eb250a028862f00d"
+  },
+  {
     "workId": "d7589646-f2ae-4da8-c2bd-08ddbe61ab21",
     "authorName": "Johannes Chrysostomus",
     "title": "6. Predigt zu Titus",
@@ -3948,6 +3983,13 @@
     "contentRevision": "sha256:515f44f94cb00a8a30543166ed3060be26a2bc191bd6d142bf5f1b7ab670f12d"
   },
   {
+    "workId": "11ef273c-01af-4ac0-30de-08df44243c92",
+    "authorName": "Johannes Chrysostomus",
+    "title": "7. Homilie über die Apostelgeschichte",
+    "directory": "werke/Johannes Chrysostomus/Homilien über die Apostelgeschichte/7. Homilie über die Apostelgeschichte",
+    "contentRevision": "sha256:845beff8f9b771c71961a4d678c538e9435b14475933183c6609866e08e4cf43"
+  },
+  {
     "workId": "3a7cd878-0898-4a92-8821-08df34555aa5",
     "authorName": "Johannes Chrysostomus",
     "title": "7. Predigt über Genesis",
@@ -4044,6 +4086,13 @@
     "title": "8. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/8. Homilie über Matthäus",
     "contentRevision": "sha256:8ae91d3544efe5c25d802954fdcbc39894ecb84e0dc728655abbd803a00695e8"
+  },
+  {
+    "workId": "841be85e-414b-4792-30df-08df44243c92",
+    "authorName": "Johannes Chrysostomus",
+    "title": "8. Homilie über die Apostelgeschichte",
+    "directory": "werke/Johannes Chrysostomus/Homilien über die Apostelgeschichte/8. Homilie über die Apostelgeschichte",
+    "contentRevision": "sha256:c6ab69da3288921d2718fe9e526842e0156106de79b7a49ef3d2a56734c5527d"
   },
   {
     "workId": "8ca6552e-ff7d-4702-8822-08df34555aa5",
@@ -4956,11 +5005,25 @@
     "contentRevision": "sha256:224291d1339e9a11a4c3fc6b3926bb31f997e3d5f1a7a8472f0a0e201d851e4a"
   },
   {
+    "workId": "04cc7523-bf65-4fb2-97b8-08df1efbfc61",
+    "authorName": "Origenes",
+    "title": "1. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/1. Homilie über Lukas",
+    "contentRevision": "sha256:8a915b197289b007a445a48a907464042bccd64662f9f0aaa4df198c75a912af"
+  },
+  {
     "workId": "30b1f0b8-69c7-4706-2ca4-08df276bd3eb",
     "authorName": "Origenes",
     "title": "1. Homilie über Numeri",
     "directory": "werke/Origenes/Homilien über Numeri/1. Homilie über Numeri",
     "contentRevision": "sha256:98a2b0000153b3259c00c19036863817db6df843f4bc0f1e6ff78792d54691c4"
+  },
+  {
+    "workId": "288e1228-7c2f-4597-1889-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "1. Homilie über die Richter",
+    "directory": "werke/Origenes/Homilien über die Richter/1. Homilie über die Richter",
+    "contentRevision": "sha256:64ffef6149d2030321c4f8308c420adc1f69ac4c226ee8a877798fcc8201f223"
   },
   {
     "workId": "85a57ae9-feda-4e79-d9a2-08de02c79663",
@@ -4989,6 +5052,13 @@
     "title": "10. Homilie über Levitikus",
     "directory": "werke/Origenes/Homilien über Levitikus/10. Homilie über Levitikus",
     "contentRevision": "sha256:3bcb461205fdbcf2232963a6d94b539e33a4dfc5f90975c7d8b32f52451a44b8"
+  },
+  {
+    "workId": "4fb942c4-15ba-4ee3-1897-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "10. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/10. Homilie über Lukas",
+    "contentRevision": "sha256:de00ab59769bf0fb2b6ca82b12c27bd60066fe4111793c8cd02cf0d85491a38d"
   },
   {
     "workId": "d10dcbee-3b46-455a-2caa-08df276bd3eb",
@@ -5026,6 +5096,13 @@
     "contentRevision": "sha256:2b233ae379c5a81afa1ea3e7b5b01f07eabef377b3e8d4a3acb736d65a4bab1a"
   },
   {
+    "workId": "c5346579-8249-4213-1898-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "11. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/11. Homilie über Lukas",
+    "contentRevision": "sha256:337498ee42859ea97dd19921a28c28ea78df8e582babec8c73c4e257bb040138"
+  },
+  {
     "workId": "de71191f-8094-4ea9-2cab-08df276bd3eb",
     "authorName": "Origenes",
     "title": "11. Homilie über Numeri",
@@ -5061,6 +5138,13 @@
     "contentRevision": "sha256:f7de36df93c6227087e69b633575ac9ef85a04652d5afcc4f8cad17418e52765"
   },
   {
+    "workId": "6e2d4312-c5f3-44ca-d668-08dee8a86fbb",
+    "authorName": "Origenes",
+    "title": "12. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/12. Homilie über Lukas",
+    "contentRevision": "sha256:49272905e1310ef2926fcd69194ca0fd7b7cb0edf88bba658fe199cfee7979c9"
+  },
+  {
     "workId": "87661978-ea8e-4fc9-a27e-08dee664dc0b",
     "authorName": "Origenes",
     "title": "12. Homilie über Numeri",
@@ -5082,11 +5166,25 @@
     "contentRevision": "sha256:11635d2f125748ed33341500c4a6079f9939e0152ba621b5af6e951782d7365a"
   },
   {
+    "workId": "201d5d1c-3b93-422b-3c10-08deabac7077",
+    "authorName": "Origenes",
+    "title": "13. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/13. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:b5a64142e34fe41c6b3ce5dd53debee1905b801b6993c917c2d429d935166d81"
+  },
+  {
     "workId": "e0eb99cc-36fc-47c8-a2e0-08df26c2cd69",
     "authorName": "Origenes",
     "title": "13. Homilie über Levitikus",
     "directory": "werke/Origenes/Homilien über Levitikus/13. Homilie über Levitikus",
     "contentRevision": "sha256:97660920f2ac488b5053779c70df911544f64274876c47709294adcae7cbac02"
+  },
+  {
+    "workId": "4f9b1554-92d4-4116-1899-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "13. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/13. Homilie über Lukas",
+    "contentRevision": "sha256:ae42155241b87c49c40e8eaa014493983d0e181017813e79c3c882138abd63a8"
   },
   {
     "workId": "d4faa9ed-e5d4-47a0-2cac-08df276bd3eb",
@@ -5122,6 +5220,13 @@
     "title": "14. Homilie über Levitikus",
     "directory": "werke/Origenes/Homilien über Levitikus/14. Homilie über Levitikus",
     "contentRevision": "sha256:90a380ac8a5be5768dba471b5cc4d5b327bbfa2084577f7f869b8018a23ed8cd"
+  },
+  {
+    "workId": "2cea7b4b-6968-4d40-01aa-08dea9eae948",
+    "authorName": "Origenes",
+    "title": "14. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/14. Homilie über Lukas",
+    "contentRevision": "sha256:33f566ec7dfdb778dc3c157e0a094e72c2468e61d3582212241d93a7ed1e245f"
   },
   {
     "workId": "effb5009-6688-4b8d-2cad-08df276bd3eb",
@@ -5180,6 +5285,13 @@
     "contentRevision": "sha256:de8b125622b1c8348884cfcc0522c0f2703d4fd7235f734c480f4be66b3bf356"
   },
   {
+    "workId": "47611451-9e34-4e6b-97ba-08df1efbfc61",
+    "authorName": "Origenes",
+    "title": "16. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/16. Homilie über Lukas",
+    "contentRevision": "sha256:d44fc621d84cef744e9618a0ed783a11744e3c68aed03a5dd80a88cabd2afd74"
+  },
+  {
     "workId": "de64d174-ac3a-430e-2cae-08df276bd3eb",
     "authorName": "Origenes",
     "title": "16. Homilie über Numeri",
@@ -5201,6 +5313,13 @@
     "contentRevision": "sha256:2a13596719f16f078bc3d7dacff4834937c34b76f1192f2f348dea0f7746a64e"
   },
   {
+    "workId": "504cc168-0c41-4048-481c-08deae7e3625",
+    "authorName": "Origenes",
+    "title": "17. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/17. Homilie über Lukas",
+    "contentRevision": "sha256:aded29a3fc7ad5d2bbd23d69947ec2cac9637ba32ee33a32f77f82a3160ac03a"
+  },
+  {
     "workId": "db6021fd-e0f7-4b67-2caf-08df276bd3eb",
     "authorName": "Origenes",
     "title": "17. Homilie über Numeri",
@@ -5215,6 +5334,13 @@
     "contentRevision": "sha256:03bfad50930f608641f2443c53011070f3f9b5bccce3a6f034c514cbb68448b9"
   },
   {
+    "workId": "4717c35b-4edb-4dc6-189a-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "18. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/18. Homilie über Lukas",
+    "contentRevision": "sha256:35fcf4aca04c3083ef1576f8ab7e8d7fca5b826f1033e455ec5160a2fea2ac8c"
+  },
+  {
     "workId": "6b2be568-5c6c-4cce-2cb0-08df276bd3eb",
     "authorName": "Origenes",
     "title": "18. Homilie über Numeri",
@@ -5227,6 +5353,13 @@
     "title": "19. Homilie über Josua (Jesus)",
     "directory": "werke/Origenes/Homilien über Josua (Jesus)/19. Homilie über Josua (Jesus)",
     "contentRevision": "sha256:8c82742b7d7e439931a1893e3e23ef3967d11d83eb91b771dcedbb858e0b9be6"
+  },
+  {
+    "workId": "475638d4-dbf6-4a8d-189b-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "19. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/19. Homilie über Lukas",
+    "contentRevision": "sha256:fbd0dac664fdbfd96c404a81a99a000be5abd3703cb18899987867b53826c623"
   },
   {
     "workId": "779f2359-a396-47e6-2cb1-08df276bd3eb",
@@ -5250,11 +5383,25 @@
     "contentRevision": "sha256:247881b0dc880ad54b690e95f448ea86c6bb2c3a23888278a7fdf9ec7d85c47e"
   },
   {
+    "workId": "857f9b23-93f0-444a-97d9-08df1efbfc61",
+    "authorName": "Origenes",
+    "title": "2. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/2. Homilie über Lukas",
+    "contentRevision": "sha256:d34baff0574fe5667e23b0457da591a68012102159897223f37a18502142d507"
+  },
+  {
     "workId": "2f2a64e1-d53e-44cb-2ca5-08df276bd3eb",
     "authorName": "Origenes",
     "title": "2. Homilie über Numeri",
     "directory": "werke/Origenes/Homilien über Numeri/2. Homilie über Numeri",
     "contentRevision": "sha256:aabf16894dbc8128353d373776a0081a90a239e087ec0f44adb5b8498def84a7"
+  },
+  {
+    "workId": "99f9773a-5554-4b2e-2fec-08df20b17306",
+    "authorName": "Origenes",
+    "title": "2. Homilie über die Richter",
+    "directory": "werke/Origenes/Homilien über die Richter/2. Homilie über die Richter",
+    "contentRevision": "sha256:d3542b7b733e6fea4277f1a5b4a45cbdce48b9d9872db3b4a7a49e076b47a7d1"
   },
   {
     "workId": "d0b0afe8-458f-495b-ca1a-08de0a9887c9",
@@ -5278,6 +5425,13 @@
     "contentRevision": "sha256:224b775e276a6ae6576fd1ba65ce786ae435d890919ff0e108cbd0f80d63405d"
   },
   {
+    "workId": "b30f3647-b4c5-4277-564b-08df2a344594",
+    "authorName": "Origenes",
+    "title": "20. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/20. Homilie über Lukas",
+    "contentRevision": "sha256:6051bc3cb4e4daad4419c38519ea3f29284deb881943f75658afed8a1db0e1ed"
+  },
+  {
     "workId": "1634ffd7-60ad-44d4-2cb2-08df276bd3eb",
     "authorName": "Origenes",
     "title": "20. Homilie über Numeri",
@@ -5290,6 +5444,13 @@
     "title": "21. Homilie über Josua (Jesus)",
     "directory": "werke/Origenes/Homilien über Josua (Jesus)/21. Homilie über Josua (Jesus)",
     "contentRevision": "sha256:e1d71e46bc90f7dfcbf7b74f4f3508c326114a31e8085bd18c8577e5a35b6123"
+  },
+  {
+    "workId": "cafb722d-f82d-41bf-189c-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "21. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/21. Homilie über Lukas",
+    "contentRevision": "sha256:f7ce6217ed77c506f850c8f69abd4057c332e419c176c8c6849808189f65385b"
   },
   {
     "workId": "4c4d9ddd-a693-46de-2cb3-08df276bd3eb",
@@ -5306,6 +5467,13 @@
     "contentRevision": "sha256:c026a9605b28aea3530dada049b0b806eed0289295b38315051d726738fcfa80"
   },
   {
+    "workId": "bab915f9-d4a7-467e-189d-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "22. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/22. Homilie über Lukas",
+    "contentRevision": "sha256:bf398e1abea2d958faed2776ac1a6a5644927b719363c0cabfff69eb30c7fb6c"
+  },
+  {
     "workId": "83b69f86-2253-4d1d-330f-08deae0a27b1",
     "authorName": "Origenes",
     "title": "22. Homilie über Numeri",
@@ -5318,6 +5486,13 @@
     "title": "23. Homilie über Josua (Jesus)",
     "directory": "werke/Origenes/Homilien über Josua (Jesus)/23. Homilie über Josua (Jesus)",
     "contentRevision": "sha256:08e5e5098fe05adb237f320681ad8a07b85a2123fb4d7fcf5acec344b033dcd7"
+  },
+  {
+    "workId": "aa856183-2d95-4213-189e-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "23. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/23. Homilie über Lukas",
+    "contentRevision": "sha256:c39f432302e45341740341c951980d1fdf6145dfa6932eda10170ad7c95a73c5"
   },
   {
     "workId": "95e0d9a0-8d05-448f-2cb4-08df276bd3eb",
@@ -5334,6 +5509,13 @@
     "contentRevision": "sha256:91609509354929cfd785c54848c1385b2797ab738fd9381221a4ccd7a4344c4d"
   },
   {
+    "workId": "d7c2791b-f8c4-46bb-189f-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "24. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/24. Homilie über Lukas",
+    "contentRevision": "sha256:a5084d7ee85cebb4e30cb3990cf29430869298c6c097fc943324f76017fc5a10"
+  },
+  {
     "workId": "215c60bd-3968-425e-2cb5-08df276bd3eb",
     "authorName": "Origenes",
     "title": "24. Homilie über Numeri",
@@ -5346,6 +5528,13 @@
     "title": "25. Homilie über Josua (Jesus)",
     "directory": "werke/Origenes/Homilien über Josua (Jesus)/25. Homilie über Josua (Jesus)",
     "contentRevision": "sha256:04cdc4653a963fcecbfb0fd9c4a459811996af3f55872a78c6232567bf656bef"
+  },
+  {
+    "workId": "4f1b0bbf-459b-48eb-18a0-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "25. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/25. Homilie über Lukas",
+    "contentRevision": "sha256:544b4d279096bdf33c78c19c299275982b6fe36e864b9a642d0f4ea942b4b57a"
   },
   {
     "workId": "ccf1bcfe-5db7-4c22-2cb6-08df276bd3eb",
@@ -5362,11 +5551,25 @@
     "contentRevision": "sha256:0ff365426b360f1b948dca04a13391193dcf23ce369ee5f7b5474071682bed30"
   },
   {
+    "workId": "05db1d00-1c86-4f1d-18a1-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "26. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/26. Homilie über Lukas",
+    "contentRevision": "sha256:5d59486dd86a4d021fb1c5fb18aabc3ebb2d1b3e05cb4f067a9050b8da7523e5"
+  },
+  {
     "workId": "364ba912-7d72-49e4-2cb7-08df276bd3eb",
     "authorName": "Origenes",
     "title": "26. Homilie über Numeri",
     "directory": "werke/Origenes/Homilien über Numeri/26. Homilie über Numeri",
     "contentRevision": "sha256:54b6ff8a6d6223b594140f434439f0fe5e90586226f24b4f553562898bb2e219"
+  },
+  {
+    "workId": "7ff76753-a497-4ed8-18a2-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "27. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/27. Homilie über Lukas",
+    "contentRevision": "sha256:f20b34766b0bb16ba374a4b7df63b86a1dabfce4ab5df6a2f3c390c33ea8233a"
   },
   {
     "workId": "d3a88806-9779-4c85-2cb8-08df276bd3eb",
@@ -5376,11 +5579,25 @@
     "contentRevision": "sha256:0c1117cb5092b00c4850904d7aab64ba7d402185f960cbd3040d24b8f74555bd"
   },
   {
+    "workId": "14252e01-1ee9-41d9-55b7-08dee4bd3e57",
+    "authorName": "Origenes",
+    "title": "28. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/28. Homilie über Lukas",
+    "contentRevision": "sha256:36345ab8b27b3293959a7650327044d921e9309509ba9d8edc50b5fd83ddbd01"
+  },
+  {
     "workId": "521cd085-9f3c-44cf-2cb9-08df276bd3eb",
     "authorName": "Origenes",
     "title": "28. Homilie über Numeri",
     "directory": "werke/Origenes/Homilien über Numeri/28. Homilie über Numeri",
     "contentRevision": "sha256:ac5397d0d015f0b4bb32d830b41c18045e7c12afee6e63fe272bb8d1c9840afb"
+  },
+  {
+    "workId": "30ef1261-78a5-4c5e-9eb0-08df40e2b485",
+    "authorName": "Origenes",
+    "title": "29. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/29. Homilie über Lukas",
+    "contentRevision": "sha256:1c562c4121530980c8e77587b4c0c2ac85d95ce03968998891df37902624e32c"
   },
   {
     "workId": "a7db0097-caff-4422-97a6-08df1efbfc61",
@@ -5397,11 +5614,25 @@
     "contentRevision": "sha256:4e5cb07c4220b1ddc9ea34b710ae3dae1fe1b1c1e52ce02da366903d6076b717"
   },
   {
+    "workId": "91debdc9-8824-43ee-1891-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "3. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/3. Homilie über Lukas",
+    "contentRevision": "sha256:4c7ac953f9a7ba5e58753aa4c4d148bd9ad75f0dd1134b1076420c8fb58a9b91"
+  },
+  {
     "workId": "ae7ae522-f20d-4079-2ca6-08df276bd3eb",
     "authorName": "Origenes",
     "title": "3. Homilie über Numeri",
     "directory": "werke/Origenes/Homilien über Numeri/3. Homilie über Numeri",
     "contentRevision": "sha256:e8405e58dc25afc0129cd166d6ee2ca2f593d622cbb49fbc706fb9e0572412eb"
+  },
+  {
+    "workId": "8dedde63-9e1e-4ff7-bb04-08df2ab5644e",
+    "authorName": "Origenes",
+    "title": "3. Homilie über die Richter",
+    "directory": "werke/Origenes/Homilien über die Richter/3. Homilie über die Richter",
+    "contentRevision": "sha256:a189f1046262b170ac5711d8c6c735694a5248651fe232797b5e4c90d1b9b4c6"
   },
   {
     "workId": "f62cca36-e10f-4b35-8d52-08de0b5e2e48",
@@ -5418,6 +5649,76 @@
     "contentRevision": "sha256:e69d47ccbe8e4dd7bba61d976249f115b0d63d9bcaf32d82d84925baa7402ac1"
   },
   {
+    "workId": "e994089d-0e6f-4d6d-18a3-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "30. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/30. Homilie über Lukas",
+    "contentRevision": "sha256:7bc3080719a2e3b11d47d17951c040dcfe76f4dfbbf2aaa97c4a0a83e6b9969c"
+  },
+  {
+    "workId": "522b7e82-3f9e-4a60-97b9-08df1efbfc61",
+    "authorName": "Origenes",
+    "title": "31. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/31. Homilie über Lukas",
+    "contentRevision": "sha256:d2ec70e1909894821bab0084e82dd5a332a67b617f14c22268a176da0c1cdf7f"
+  },
+  {
+    "workId": "b896b9df-4f86-4456-18a4-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "32. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/32. Homilie über Lukas",
+    "contentRevision": "sha256:9da9b2104e0f6bca09d94bbb5115dac2446f9d2d8d34f50786764d3c7139c8f5"
+  },
+  {
+    "workId": "c2155d79-aaa1-43d8-55b8-08dee4bd3e57",
+    "authorName": "Origenes",
+    "title": "33. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/33. Homilie über Lukas",
+    "contentRevision": "sha256:2ada73ddceb1c3a6b4d9c7ae5e97efad42b7c03f246ccb0c31dd15d8e2284347"
+  },
+  {
+    "workId": "ccb971fa-eb51-4b37-18a5-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "34. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/34. Homilie über Lukas",
+    "contentRevision": "sha256:2d2144808fc3dfd39f9af72d096a4740666678454ce563eb7c350e85399d69e3"
+  },
+  {
+    "workId": "8c39bb34-78f5-4b36-18a6-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "35. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/35. Homilie über Lukas",
+    "contentRevision": "sha256:bd9de917a2559fa2320b7706c3fac19acc7ff2a9cce396d868875a65a32b3586"
+  },
+  {
+    "workId": "dac7b122-c94a-4615-18a7-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "36. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/36. Homilie über Lukas",
+    "contentRevision": "sha256:722f15db1930b05d8b1156b2c217a6273f80a7b3063ab11bfaf0ecb5e1a10bdc"
+  },
+  {
+    "workId": "291518ad-a8eb-4338-18a8-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "37. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/37. Homilie über Lukas",
+    "contentRevision": "sha256:459ad60513a0f9b3e5761773cc5e756a7f669919c2be21944f2aa45c2810c5dc"
+  },
+  {
+    "workId": "4232b181-6baa-4537-18a9-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "38. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/38. Homilie über Lukas",
+    "contentRevision": "sha256:1e9c94657ee515a038ccb4e8f0322db01c4118dca1bb608f280eae4ad69a11cf"
+  },
+  {
+    "workId": "cf02bf78-a5e2-4d8a-18aa-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "39. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/39. Homilie über Lukas",
+    "contentRevision": "sha256:2811ff90d751863cc563468e3e1cdf0302b6ca0500041ba961614e4cf3a77040"
+  },
+  {
     "workId": "33266379-86d9-4fe2-3d59-08df23bd2351",
     "authorName": "Origenes",
     "title": "4. Homilie über Josua (Jesus)",
@@ -5432,11 +5733,25 @@
     "contentRevision": "sha256:3a87572ef6e7cf4115bedf269668514b7c4b02a4aa82e34f26660f691f26d5f5"
   },
   {
+    "workId": "9c767a6b-4b80-478d-1893-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "4. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/4. Homilie über Lukas",
+    "contentRevision": "sha256:d8a298745b6f077c4827a105224ba4510e38036bce1ad2bd275d19260ab8ee62"
+  },
+  {
     "workId": "bfffe85c-eb10-47a7-2ca7-08df276bd3eb",
     "authorName": "Origenes",
     "title": "4. Homilie über Numeri",
     "directory": "werke/Origenes/Homilien über Numeri/4. Homilie über Numeri",
     "contentRevision": "sha256:7eea8640630e1ebb15fa8076128560d39441c8d917e618f2d09bfae18dcd0249"
+  },
+  {
+    "workId": "063edc9d-41c8-45e9-188a-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "4. Homilie über die Richter",
+    "directory": "werke/Origenes/Homilien über die Richter/4. Homilie über die Richter",
+    "contentRevision": "sha256:31ac92b89d99ea8d357d852ae84dbe71e89ac8183fb53b438aaab2e87b29eccb"
   },
   {
     "workId": "cebfc77a-09d3-4751-1ecb-08dde73b5470",
@@ -5467,11 +5782,25 @@
     "contentRevision": "sha256:3dc3aba5a72a3135ebf7ac208f2d589bcc94a7b9903a7e0096e1f164a2ec8b30"
   },
   {
+    "workId": "26d7ed15-1dda-44bf-1894-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "5. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/5. Homilie über Lukas",
+    "contentRevision": "sha256:4f934b98802b6e4febc76253a8f2562efbc946fc338999cf30b4d58d79c237a9"
+  },
+  {
     "workId": "8a707ca4-712a-4ee3-55ba-08dee4bd3e57",
     "authorName": "Origenes",
     "title": "5. Homilie über Numeri",
     "directory": "werke/Origenes/Homilien über Numeri/5. Homilie über Numeri",
     "contentRevision": "sha256:3340e9d888ab71b159e6145b8a5bc2e089bae51a8e3ca345156694e309b9c712"
+  },
+  {
+    "workId": "6f5102f5-c81e-422c-188c-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "5. Homilie über die Richter",
+    "directory": "werke/Origenes/Homilien über die Richter/5. Homilie über die Richter",
+    "contentRevision": "sha256:ce1e950907c714194f6d895800c39268d1ad8ee87ce7aa4de2f46754faa3188a"
   },
   {
     "workId": "d4f791c2-fec7-4e22-a470-08de29b75efa",
@@ -5502,11 +5831,25 @@
     "contentRevision": "sha256:ea24c4152d1784cdc8dcfcf081fab1076f6201e02a2866130ef50ff57575288c"
   },
   {
+    "workId": "aa4b3c0e-17ad-48ce-35ab-08df28a55220",
+    "authorName": "Origenes",
+    "title": "6. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/6. Homilie über Lukas",
+    "contentRevision": "sha256:e58bf5ef07f6890409ff23228dd95b1e1240a312a3e0049e26204a7dce05f67e"
+  },
+  {
     "workId": "0c1098f5-25d7-4961-330e-08deae0a27b1",
     "authorName": "Origenes",
     "title": "6. Homilie über Numeri",
     "directory": "werke/Origenes/Homilien über Numeri/6. Homilie über Numeri",
     "contentRevision": "sha256:ccf0a4e4219e65b3837377947b3153bbd25abbcbd18445e1ad86efd01c302b8c"
+  },
+  {
+    "workId": "6a27e4ab-6b9f-4805-188e-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "6. Homilie über die Richter",
+    "directory": "werke/Origenes/Homilien über die Richter/6. Homilie über die Richter",
+    "contentRevision": "sha256:48a6c737ff2631f2ed8fdb7f40f4b9617744f6b358538cbdd42fe335d2a2c6d7"
   },
   {
     "workId": "e2a3a1a3-b375-44a1-82b2-08de2d205df9",
@@ -5537,11 +5880,25 @@
     "contentRevision": "sha256:a36a853c0da15dbf019b57b37184f1416e6f2d23e7fca2b8e399b215b18091ed"
   },
   {
+    "workId": "d35de971-de5a-470b-59b6-08deb3e82ecc",
+    "authorName": "Origenes",
+    "title": "7. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/7. Homilie über Lukas",
+    "contentRevision": "sha256:3dbfa5faf0132c50140ef31f0ed1df830d82b40b68a2185b24970067dc46117d"
+  },
+  {
     "workId": "f3e7b3ef-8e4d-4f07-4a8c-08dee4f1cc9d",
     "authorName": "Origenes",
     "title": "7. Homilie über Numeri",
     "directory": "werke/Origenes/Homilien über Numeri/7. Homilie über Numeri",
     "contentRevision": "sha256:7390885df6b3b7723d266c153b36eb458e41f83e77ca59d15adb5e65f1c228ea"
+  },
+  {
+    "workId": "181cfb20-fa64-4ea2-1890-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "7. Homilie über die Richter",
+    "directory": "werke/Origenes/Homilien über die Richter/7. Homilie über die Richter",
+    "contentRevision": "sha256:b81dcd103cdeb7c948a3493e9348ce8ac8eff9ca476b4178113ed9991115450d"
   },
   {
     "workId": "8dd63641-1f75-4a2a-82b3-08de2d205df9",
@@ -5558,11 +5915,25 @@
     "contentRevision": "sha256:33b3b57e3d862a0f65340d96757828bbddf3f996e42299562f95ea1e6bf36cc6"
   },
   {
+    "workId": "ca876922-3b91-42a2-60aa-08ddf7c3acd9",
+    "authorName": "Origenes",
+    "title": "8. Homilie über Josua (Jesus)",
+    "directory": "werke/Origenes/Homilien über Josua (Jesus)/8. Homilie über Josua (Jesus)",
+    "contentRevision": "sha256:de0b043c6ab40e8d3024f321b23245180630d5d7e218f19bb434d7aaf26f2aba"
+  },
+  {
     "workId": "90efa8ff-f172-4be1-bcfc-08dea9ee81d2",
     "authorName": "Origenes",
     "title": "8. Homilie über Levitikus",
     "directory": "werke/Origenes/Homilien über Levitikus/8. Homilie über Levitikus",
     "contentRevision": "sha256:6584af8ae9bc8c066863c1af4d228aadf1b662d9e1164bb84e8d29fd1cbc7bd2"
+  },
+  {
+    "workId": "98a4cf90-31de-46bb-1895-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "8. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/8. Homilie über Lukas",
+    "contentRevision": "sha256:a9558f86a34bc07313677d31aa521c2dbb99d08d827cf4d060ca424af9e706e8"
   },
   {
     "workId": "e37a1c36-7c5c-40ee-2ca8-08df276bd3eb",
@@ -5586,13 +5957,6 @@
     "contentRevision": "sha256:4b006fd75f6303480ea0f795171e95f852297c477673efcd1075866825e266bb"
   },
   {
-    "workId": "ca876922-3b91-42a2-60aa-08ddf7c3acd9",
-    "authorName": "Origenes",
-    "title": "8. Predigt zu Jesus",
-    "directory": "werke/Origenes/Homilien über Josua (Jesus)/8. Predigt zu Jesus",
-    "contentRevision": "sha256:e50d23f85291b628f8f73090232756eca8d4246aea7a5aae603a6d01837f9b21"
-  },
-  {
     "workId": "14ee341a-9e96-4555-5ba3-08df27871084",
     "authorName": "Origenes",
     "title": "9. Homilie über Josua (Jesus)",
@@ -5607,11 +5971,25 @@
     "contentRevision": "sha256:a85137993d430f76f0c170b39f61e02bcedae5501f032f0305b36b7ae574b7aa"
   },
   {
+    "workId": "232891c2-d1be-4c0b-1896-08df43ddc705",
+    "authorName": "Origenes",
+    "title": "9. Homilie über Lukas",
+    "directory": "werke/Origenes/Homilien über Lukas/9. Homilie über Lukas",
+    "contentRevision": "sha256:eaf2cd096c722867a46415eaa6fbdd2009a590a619f7e01b3b6efd57a871bd79"
+  },
+  {
     "workId": "66c727dc-6c15-47cd-2ca9-08df276bd3eb",
     "authorName": "Origenes",
     "title": "9. Homilie über Numeri",
     "directory": "werke/Origenes/Homilien über Numeri/9. Homilie über Numeri",
     "contentRevision": "sha256:f8ebe9b9153cf65573c085f918535253a722e217b697ba5e2351f037e579cf72"
+  },
+  {
+    "workId": "2abac8d0-24a5-452d-3055-08dee4f5be62",
+    "authorName": "Origenes",
+    "title": "9. Homilie über die Richter",
+    "directory": "werke/Origenes/Homilien über die Richter/9. Homilie über die Richter",
+    "contentRevision": "sha256:911c8071a7ba7ccb35fe21ee49757b967d9e4ba24d630b34e59be96d42940a34"
   },
   {
     "workId": "ce92a7a2-56b4-4c34-7fe2-08de432eeccb",
@@ -5745,6 +6123,13 @@
     "title": "Gegen Celsus, Buch 8",
     "directory": "werke/Origenes/Gegen Celsus/Gegen Celsus, Buch 8",
     "contentRevision": "sha256:4a4bd285880c4b488085c4e8ac79f5c7fc3b07b44480ec8c27486694f3fd37e2"
+  },
+  {
+    "workId": "ec35b578-8721-45a8-e95b-08deba997adb",
+    "authorName": "Origenes",
+    "title": "Homilie 15",
+    "directory": "werke/Origenes/Homilien über Lukas/Homilie 15",
+    "contentRevision": "sha256:988d843ff814632b8c065e1e6b139ddb2c011808460179e04a5447af662ed130"
   },
   {
     "workId": "72a24bdd-8b1f-4065-01fc-08de04e590d4",
