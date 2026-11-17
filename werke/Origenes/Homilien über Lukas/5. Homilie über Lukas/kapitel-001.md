@@ -1,0 +1,24 @@
+# 5\. Homilie über Lukas – Kapitel 1: Zacharias’ Verstummen deutet Israels Verlust des Wortes und mahnt die geretteten Völker zur Wachsamkeit
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/origenes-lukas-homilie-5#kapitel-f1523d62-ab69-4f18-1f5c-08df43d9ed0e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+
+
+Als der Priester Zacharias im Tempel Räucherwerk darbringt, wird er zum Schweigen verurteilt und darin festgehalten; ja, er spricht nur noch durch Gebärden und bleibt bis zur Geburt seines Sohnes Johannes stumm\.[^bible-68289f72-c242-4cca-b0f3-b73f73930bb5] Worauf zielt diese Geschichte? Das Schweigen des Zacharias ist das Schweigen der Propheten im Volk Israel\. Gott spricht nicht mehr zu ihnen, und „das Wort, das von Anfang an beim Vater war und Gott war[^bible-b1708a75-99a3-43ee-96e7-6f939df8ffd2]“, ist zu uns übergegangen\. Uns gegenüber schweigt Christus nicht; bei ihnen schweigt er bis heute\. Deshalb schwieg auch der Prophet Zacharias\. Aus seinen eigenen Worten geht ganz deutlich hervor, dass er sowohl Prophet als auch Priester war\. Was aber bedeutet der folgende Satz: „Er gab ihnen Zeichen und glich den Verlust seiner Stimme durch Gebärden aus[^bible-1c804d34-0851-49d3-aebb-c0f7a6d57013]“? Meines Erachtens verhält es sich ebenso mit Werken ohne Wort: Was die Vernunft angeht, unterscheiden sie sich in nichts von Gebärden\. Wo aber Vernunft und Wort vorausgehen und dann das Werk folgt, darf man solche Werke nicht für bloße Gebärden halten, denn Wort oder Vernunft schmücken sie\. Wenn du also siehst, dass die Lebensführung der Juden ohne Vernunft und Wort ist, sodass sie ihr Tun nicht begründen können, dann begreife: Was damals an Zacharias vorweggenommen wurde, erfüllt sich bis heute in seinem Abbild\. Ihre Beschneidung gleicht Gebärden\. Wenn nämlich die Beschneidung nicht begründet wird, ist sie eine Gebärde und ein stummes Werk\. Das Passah und die anderen Feste sind eher Gebärden als Wahrheit\. Bis heute ist das Volk Israel taub und stumm\. Es konnte auch gar nicht anders als taub und stumm sein, da es das Wort von sich gestoßen hatte\. Einst sagte Mose: „Ich aber bin alogos\.[^bible-2157ad4e-8833-4d97-8205-3665e2ddab24]“ Auch wenn der lateinische Übersetzer es anders wiedergegeben hat, lässt es sich genau mit „ohne Wort“ oder „ohne Vernunft“ übersetzen\. Nachdem Mose dies gesagt hatte, empfing er Vernunft und Wort, das ihm nach seinem eigenen Bekenntnis zuvor gefehlt hatte\. Bevor das Volk Israel das Gesetz empfing, war es ohne Vernunft und Wort, gewissermaßen stumm\. Dann empfing es das Wort, dessen Abbild Mose war\. Dieses Volk bekennt jetzt also nicht, was Mose damals bekannt hat: dass es stumm und alogos ist\. Vielmehr zeigt es durch Gebärden und Schweigen, dass es weder Wort noch Vernunft besitzt\. Erscheint es dir nicht als Eingeständnis der eigenen Dummheit, wenn keiner von ihnen den Sinn der Gesetzesgebote und der prophetischen Weissagung erklären kann? Christus ist nicht mehr in ihnen, das Wort hat sie verlassen\. Erfüllt hat sich, was bei Jesaja geschrieben steht: „Die Tochter Zion wird zurückbleiben wie ein Zelt im Weinberg, wie eine Wachhütte im Gurkenfeld, wie eine Stadt, die erstürmt wird\.[^bible-6a6a38de-ee11-454b-8ef1-04fd56c4e3a7]“ Nachdem sie verlassen worden waren, ging die Rettung auf die Völker über, um jene zur Eifersucht zu reizen[^bible-39b26917-5aa8-4407-982a-9dbb954ebebc]\. Wenn wir also Gottes Heilsordnung und sein Geheimnis betrachten, wie Israel bei unserer Rettung verworfen wurde[^bible-d50ff854-cd34-4966-ba48-3dcbde81c7f0], müssen wir auf der Hut sein, damit nicht etwa jene um unseretwillen ausgestoßen worden sind[^bible-b1014910-63f0-4b52-85c2-187b245ebb99] und wir selbst eine noch schwerere Strafe verdienen, wir, um derentwillen auch andere verlassen wurden[^bible-b1014910-63f0-4b52-85c2-187b245ebb99] und die dennoch nichts getan haben, was der Gotteskindschaft und seiner Güte würdig wäre, mit der er uns in Christus Jesus als Kinder angenommen und zu seinen Kindern gezählt hat\. Ihm gehören Herrlichkeit und Herrschaft in alle Ewigkeit\. Amen\.[^bible-0821b317-c60c-4cf4-b222-ece5861e9bff]
+
+## Bibelverweise
+
+[^bible-0821b317-c60c-4cf4-b222-ece5861e9bff]: 1Petr 4,11
+[^bible-1c804d34-0851-49d3-aebb-c0f7a6d57013]: Lk 1,22
+[^bible-2157ad4e-8833-4d97-8205-3665e2ddab24]: Ex 6,12
+[^bible-39b26917-5aa8-4407-982a-9dbb954ebebc]: Röm 11,11
+[^bible-68289f72-c242-4cca-b0f3-b73f73930bb5]: Lk 1,9; Lk 1,20; Lk 1,22
+[^bible-6a6a38de-ee11-454b-8ef1-04fd56c4e3a7]: Jes 1,8
+[^bible-b1014910-63f0-4b52-85c2-187b245ebb99]: Röm 11,19
+[^bible-b1708a75-99a3-43ee-96e7-6f939df8ffd2]: Joh 1,1
+[^bible-d50ff854-cd34-4966-ba48-3dcbde81c7f0]: Röm 11,15
