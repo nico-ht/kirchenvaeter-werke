@@ -1,10 +1,10 @@
-# 8\. Predigt zu Jesus – Kapitel 6
+# 8\. Homilie über Josua \(Jesus\) – Kapitel 6
 
 Autor: Origenes
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/8-predigt-zu-jesus#kapitel-7e74874d-fc90-42a3-9122-08ddf7b770e0).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/8-homilie-ueber-josua-jesus#kapitel-7e74874d-fc90-42a3-9122-08ddf7b770e0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Doch an dieser Stelle kommt mir noch etwas in den Sinn, wenn ich darüber nachdenke, wie Jesus vor dem Heer von Ai die Flucht ergreift\. Warum, meint ihr, wird Jesus als fliehend beschrieben? Prüfen wir, ob es nicht manches gibt, das wir gerade durch Fliehen überwinden, und ob im Fliehen nicht eine vollkommene Tugend liegt\. Paulus, der Apostel, lehrt uns und sagt: „Flieht vor sexueller Unmoral\.“[^bible-0214ab09-5e36-4d99-b6fc-345f93cf4730] Ihr seht also, dass es einen gewissen „Geist der Unzucht“ gibt, vor dem wir fliehen sollen, alle, die in Christus keusch, fromm und bescheiden bleiben wollen\. Diese Flucht birgt Rettung in sich; diese Flucht hat Kraft; diese Flucht verleiht Seligkeit\. Und nicht nur vor dem Geist der Unzucht muss man fliehen, sondern ebenso, so wie gesagt ist „Flieht vor sexueller Unmoral“[^bible-7e543a17-364d-4ca4-87b4-c21027947d8c], wollen wir es auch an uns gerichtet hören: Flieht den Zorn, flieht die Habsucht, flieht Gier und Neid, flieht Herabsetzungen und Verleumdungen\. Doch ich weiß nicht, ob irgendjemand vor diesen Dingen fliehen kann; ich weiß nicht, ob jemand ihnen entkommt\. So beschaffen war jenes Heer von Ai, vor dem Jesus seine Soldaten anwies zu fliehen, und vielleicht hat er im Blick auf eben dies seinen Jüngern eingeschärft: „Wenn sie euch in dieser Stadt verfolgen, flieht in eine andere; und wenn auch dort, dann flieht in eine weitere\.“[^bible-d3cd51f3-a852-41d4-910b-3bfdcd8473b3]

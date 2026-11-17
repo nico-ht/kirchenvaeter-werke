@@ -1,10 +1,10 @@
-# 8\. Predigt zu Jesus – Kapitel 7
+# 8\. Homilie über Josua \(Jesus\) – Kapitel 7
 
 Autor: Origenes
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/8-predigt-zu-jesus#kapitel-a3f4e523-f521-40c0-9123-08ddf7b770e0).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/8-homilie-ueber-josua-jesus#kapitel-a3f4e523-f521-40c0-9123-08ddf7b770e0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Aber sehen wir, was im Folgenden steht: Es heißt: „Und sie schlugen sie mit der Schwertschneide, bis keiner übrig war, der gerettet würde oder entkäme\.“[^bible-29335412-7225-4188-923f-a43141a15e72] Wenn die Juden dies lesen, werden sie grausam und dürsten nach Menschenblut; sie meinen, sogar heilige Männer hätten die Bewohner von Ai so niedergemacht, dass keiner übrig blieb, „der gerettet würde oder entkäme“\. Sie verstehen nicht, dass in diesen Worten Geheimnisse schattenhaft angedeutet sind und sie uns viel wahrer zeigen, dass wir keinen von jenen Dämonen in uns zurücklassen sollen, die tief im Inneren sitzen, deren Wohnstatt das Chaos ist und die im Abgrund herrschen, sondern sie alle zerstören\. Wir erschlagen Dämonen, aber wir vernichten ihr Wesen nicht\. Denn ihr Werk und ihr Eifer besteht darin, Menschen zur Sünde zu verführen\. Wenn wir sündigen, haben sie Leben; wenn wir aber nicht sündigen, sind sie zunichte\. Darum töten alle Heiligen die Einwohner von Ai; sie vernichten sie und lassen keinen von ihnen entkommen\. Das sind zweifellos jene, die ihr Herz mit größter Wachsamkeit hüten, damit daraus keine bösen Gedanken hervorgehen, und die auf ihren Mund achten, damit „kein böses Wort“ daraus hervorgeht\. Keinen fliehen zu lassen heißt dies: wenn ihnen kein böses Wort entwischt\.

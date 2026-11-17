@@ -1,10 +1,10 @@
-# 8\. Predigt zu Jesus – Kapitel 3
+# 8\. Homilie über Josua \(Jesus\) – Kapitel 3
 
 Autor: Origenes
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/8-predigt-zu-jesus#kapitel-6e558bb6-7704-4a60-911f-08ddf7b770e0).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/8-homilie-ueber-josua-jesus#kapitel-6e558bb6-7704-4a60-911f-08ddf7b770e0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Doch am Ende heißt es, der König von Ai werde „am doppelten Holz aufgehängt“\. Hier liegt ein Geheimnis sehr tief verborgen\. Mit euren Gebeten wollen wir versuchen, diese Dinge aufzuschließen, nicht aus unseren Meinungen, sondern aus den Zeugnissen der göttlichen Schrift\.

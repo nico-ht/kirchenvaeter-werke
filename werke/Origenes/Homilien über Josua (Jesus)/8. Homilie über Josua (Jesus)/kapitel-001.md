@@ -1,10 +1,10 @@
-# 8\. Predigt zu Jesus – Kapitel 1
+# 8\. Homilie über Josua \(Jesus\) – Kapitel 1
 
 Autor: Origenes
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/8-predigt-zu-jesus#kapitel-41329d14-7b06-4bef-911d-08ddf7b770e0).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/8-homilie-ueber-josua-jesus#kapitel-41329d14-7b06-4bef-911d-08ddf7b770e0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Wir bitten euch inständig, ihr Hörer der heiligen Schriften: Hört das, was vorgelesen wird, nicht mit Abscheu oder Widerwillen, nur weil die Erzählung weniger angenehm scheint\. Denn ihr sollt wissen: Was vorgelesen wird, ist tatsächlich der Rede des Heiligen Geistes würdig; um es auszulegen, brauchen wir jedoch die Gnade des Heiligen Geistes, wie der Apostel sagt: „Dem einen wird durch den Geist das Wort der Weisheit gegeben, dem anderen gemäß demselben Geist das Wort der Erkenntnis\.“[^bible-52b0eeb6-f0ac-4672-8220-ee57e59fd95e] Diese Gnade brauchen also gerade wir bei den vorliegenden Abschnitten, in denen berichtet wird, dass Jesus Mose nachfolgte und das Volk nun selbst führt\. In unserer heutigen Lesung wird diese Art Geschichte gleichsam im Schattenriss vorgezeichnet\.

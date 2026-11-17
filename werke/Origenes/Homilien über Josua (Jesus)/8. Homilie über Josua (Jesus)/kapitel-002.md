@@ -1,10 +1,10 @@
-# 8\. Predigt zu Jesus – Kapitel 2
+# 8\. Homilie über Josua \(Jesus\) – Kapitel 2
 
 Autor: Origenes
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/8-predigt-zu-jesus#kapitel-eab5e2dd-4560-47d6-911e-08ddf7b770e0).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/8-homilie-ueber-josua-jesus#kapitel-eab5e2dd-4560-47d6-911e-08ddf7b770e0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Wenn Menschen dies hören, sagen sie vermutlich: „Was geht mich das an? Was bringt es mir zu wissen, dass die Bewohner von Ai besiegt wurden, als wären nicht ähnliche oder sogar noch gewaltigere Kriege geführt worden oder gerade geführt werden? War dies die Sorge des Heiligen Geistes, dass bei so vielen großen und edlen Städten, die verödet und niedergerissen sind, ausgerechnet die Schlacht um die Stadt Ai im heiligen Buch zur Niederschrift angeordnet wird?“

@@ -1,10 +1,10 @@
-# 8\. Predigt zu Jesus – Kapitel 4
+# 8\. Homilie über Josua \(Jesus\) – Kapitel 4
 
 Autor: Origenes
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/8-predigt-zu-jesus#kapitel-776979cd-ef0d-4445-9120-08ddf7b770e0).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/8-homilie-ueber-josua-jesus#kapitel-776979cd-ef0d-4445-9120-08ddf7b770e0).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Gibt es aber zufällig unter den Zuhörern jemanden, der aufmerksamer ist, dann könnte er sagen: „Zwar scheint die Auslegung mit den Taten übereinzustimmen, aber es beunruhigt mich dennoch, dass der Teufel und sein Heer vernichtet seien\. Wenn das als Vorausbild der Geschichte gelten soll, wie kommt es dann, dass wir nach wie vor sehen, wie sowohl der Teufel als auch die gegnerischen Mächte so viel Macht gegen die Diener Gottes haben? Selbst der Apostel Petrus warnt mit großer Umsicht und sagt, wir müssten wachen, denn: „Unser Widersacher, der Teufel, geht umher wie ein brüllender Löwe und sucht, wen er verschlingen kann\.“[^bible-edba6153-bfbb-4fe7-94c8-b5429626e046]“
