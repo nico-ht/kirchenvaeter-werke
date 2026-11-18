@@ -15,4 +15,5 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [5. Homilie über die Richter](5.%20Homilie%20%C3%BCber%20die%20Richter/) · 6 Kapitel
 - [6. Homilie über die Richter](6.%20Homilie%20%C3%BCber%20die%20Richter/) · 6 Kapitel
 - [7. Homilie über die Richter](7.%20Homilie%20%C3%BCber%20die%20Richter/) · 2 Kapitel
+- [8. Homilie über die Richter](8.%20Homilie%20%C3%BCber%20die%20Richter/) · 5 Kapitel
 - [9. Homilie über die Richter](9.%20Homilie%20%C3%BCber%20die%20Richter/) · 2 Kapitel

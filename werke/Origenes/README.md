@@ -9,11 +9,12 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Fragmente zu Exodus](Fragmente%20zu%20Exodus/) · 3 Werke
 - [Fragmente zu Genesis](Fragmente%20zu%20Genesis/) · 3 Werke
 - [Gegen Celsus](Gegen%20Celsus/) · 8 Werke
+- [Homilien über Jeremia](Homilien%20%C3%BCber%20Jeremia/) · 16 Werke
 - [Homilien über Josua (Jesus)](Homilien%20%C3%BCber%20Josua%20%28Jesus%29/) · 26 Werke
 - [Homilien über Levitikus](Homilien%20%C3%BCber%20Levitikus/) · 16 Werke
 - [Homilien über Lukas](Homilien%20%C3%BCber%20Lukas/) · 39 Werke
 - [Homilien über Numeri](Homilien%20%C3%BCber%20Numeri/) · 28 Werke
-- [Homilien über die Richter](Homilien%20%C3%BCber%20die%20Richter/) · 8 Werke
+- [Homilien über die Richter](Homilien%20%C3%BCber%20die%20Richter/) · 9 Werke
 - [Kommentar zu Matthäus](Kommentar%20zu%20Matth%C3%A4us/) · 10 Werke
 - [Predigten zu Exodus](Predigten%20zu%20Exodus/) · 13 Werke
 - [Predigten zu Genesis](Predigten%20zu%20Genesis/) · 16 Werke
@@ -25,5 +26,6 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Brief an Freunde in Alexandria](Brief%20an%20Freunde%20in%20Alexandria/) · 5 Kapitel
 - [Dialog mit Heraklides](Dialog%20mit%20Heraklides/) · 2 Kapitel
 - [Ermutigung zum Märtyrertod](Ermutigung%20zum%20M%C3%A4rtyrertod/) · 51 Kapitel
+- [Homilie über 1. Könige 28 (Die Totenbeschwörerin von Endor)](Homilie%20%C3%BCber%201.%20K%C3%B6nige%2028%20%28Die%20Totenbeschw%C3%B6rerin%20von%20Endor%29/) · 10 Kapitel
 - [Kommentar zum Matthäusevangelium – Fragmente zu Mt 1–13 (die verlorenen Bücher 1–9)](Kommentar%20zum%20Matth%C3%A4usevangelium%20%E2%80%93%20Fragmente%20zu%20Mt%201%E2%80%9313%20%28die%20verlorenen%20B%C3%BCcher%201%E2%80%939%29/) · 22 Kapitel
 - [Über das Gebet](%C3%9Cber%20das%20Gebet/) · 34 Kapitel

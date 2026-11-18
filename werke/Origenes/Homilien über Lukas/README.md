@@ -22,6 +22,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [12. Homilie über Lukas](12.%20Homilie%20%C3%BCber%20Lukas/) · 1 Kapitel
 - [13. Homilie über Lukas](13.%20Homilie%20%C3%BCber%20Lukas/) · 1 Kapitel
 - [14. Homilie über Lukas](14.%20Homilie%20%C3%BCber%20Lukas/) · 1 Kapitel
+- [15. Homilie über Lukas](15.%20Homilie%20%C3%BCber%20Lukas/) · 1 Kapitel
 - [16. Homilie über Lukas](16.%20Homilie%20%C3%BCber%20Lukas/) · 1 Kapitel
 - [17. Homilie über Lukas](17.%20Homilie%20%C3%BCber%20Lukas/) · 1 Kapitel
 - [18. Homilie über Lukas](18.%20Homilie%20%C3%BCber%20Lukas/) · 1 Kapitel
@@ -46,4 +47,3 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [37. Homilie über Lukas](37.%20Homilie%20%C3%BCber%20Lukas/) · 1 Kapitel
 - [38. Homilie über Lukas](38.%20Homilie%20%C3%BCber%20Lukas/) · 1 Kapitel
 - [39. Homilie über Lukas](39.%20Homilie%20%C3%BCber%20Lukas/) · 1 Kapitel
-- [Homilie 15](Homilie%2015/) · 1 Kapitel
