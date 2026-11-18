@@ -1,0 +1,33 @@
+# 5\. Homilie über Jeremia – Kapitel 13: Vor der Aussaat des Schriftwortes müssen Lehrende und Hörer den Seelenacker von Dornen befreien
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/origenes-5-homilie-ueber-jeremia#kapitel-77e5073c-4cde-4e2f-7739-08df44cc0222).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Er fügt hinzu: „Und die Völker werden sich in ihm segnen, und in ihm werden sie Gott preisen[^bible-9155746d-4522-4679-94d8-b7b3eefc94ab] in Jerusalem\. Denn so spricht der Herr zu den Männern Judas und zu den Bewohnern Jerusalems\.[^bible-e8bc0be5-0182-4189-bd28-297a235bfb3b]“ Er hat zu den Menschen aus den heidnischen Völkern gesprochen, er hat auch zu denen aus Israel gesprochen, und nun spricht er zu denen aus Juda\. Ich erinnere mich an die allegorischen Deutungen, die kürzlich über Juda und die Bewohner Jerusalems vorgetragen wurden\. Denn wir wohnen, so Gott will, in Jerusalem\. Weil dort, wo der Schatz ist, auch das Herz ist[^bible-320781aa-711d-4705-8382-b0d938a13bf5], haben wir, wenn wir unseren Schatz im Himmel haben[^bible-60cf64f2-a75f-4fa9-b8d0-ba8890e2f63b], auch unser Herz im oberen Jerusalem\. Über dieses sagte der Apostel: „Das obere Jerusalem ist frei, und es ist unsere Mutter; denn es steht geschrieben[^bible-41dc39a4-3983-47fa-a66f-becf442c40e0]“, und so weiter\.
+
+Dies also sagt der Herr zu den Männern Judas und zu den Bewohnern Jerusalems[^bible-e8bc0be5-0182-4189-bd28-297a235bfb3b]: „Brecht Brachland um und sät nicht unter Dornen\.[^bible-e8bc0be5-0182-4189-bd28-297a235bfb3b]“ Dieses Wort richtet sich besonders an die Lehrenden: Sie sollen den Schülern das Gesagte nicht voreilig anvertrauen, bevor sie das Brachland in deren Seelen vorbereitet haben\. Denn sooft sie die Hand an den Pflug legen[^bible-c49c6601-b81c-42a8-8cbb-2d586899a686], brechen sie das Brachland in deren Seelen um, entsprechend dem schönen und guten Boden der Hörer[^bible-eb525fff-09e0-4c02-a6b3-a02539645888]\. Wenn sie dann säen, säen sie nicht unter Dornen[^bible-e8bc0be5-0182-4189-bd28-297a235bfb3b]\. Nimmt aber jemand die heiligen Samen und sät sie aus, bevor er im Herzen der Hörer gepflügt und das Brachland umgebrochen hat, so missachtet er das erste Gebot\. Diese Samen sind das Wort über den Vater, über den Sohn und den Heiligen Geist, das Wort über die Auferstehung, das Wort über die Strafe, das Wort über die endgültige Ruhe, über das Gesetz, die Propheten und überhaupt jede einzelne der Schriften\. Das Gebot sagt erstens: „Brecht ihr Brachland um[^bible-e8bc0be5-0182-4189-bd28-297a235bfb3b]“, und zweitens: „Und sät nicht unter Dornen\.[^bible-e8bc0be5-0182-4189-bd28-297a235bfb3b]“
+
+Doch jemand unter den Hörern wird sagen: „Ich lehre nicht; dieses Gebot gilt nicht für mich\.“ Und du: Bestelle dich selbst wie ein Bauer und säe nicht unter Dornen[^bible-e8bc0be5-0182-4189-bd28-297a235bfb3b], sondern brich für dich den brachliegenden Acker um[^bible-e8bc0be5-0182-4189-bd28-297a235bfb3b], den dir der Gott des Alls anvertraut hat\. Betrachte den Acker, sieh nach, wo Dornen stehen, wo die Sorgen des Lebens, die Täuschung durch den Reichtum und die Liebe zum Vergnügen[^bible-401d6d63-9bdf-44c1-8a3a-4902b0cdc452] sind\. Wenn du die Dornen in deiner Seele betrachtet hast, suche den geistlichen Pflug, über den Jesus sagte: „Niemand, der seine Hand an den Pflug legt und zurückblickt, ist des Reiches Gottes würdig\.[^bible-c49c6601-b81c-42a8-8cbb-2d586899a686]“ Wenn du ihn gesucht und gefunden hast, hole aus den Schriften die Stiere zusammen, die reinen Arbeiter; pflüge und brich die Erde um\. Damit sie nicht länger alt ist, erneuere sie, indem du den alten Menschen mit seinen Taten ablegst und den neuen Menschen anziehst, der zur Erkenntnis erneuert wird[^bible-c3d65800-01ee-46be-a86e-972109d74cb5]\. Brich für dich Brachland um[^bible-e8bc0be5-0182-4189-bd28-297a235bfb3b]\. Wenn du es umgebrochen hast, nimm die Samen von den Lehrenden, nimm Samen aus dem Gesetz, nimm sie aus den Propheten, aus den Evangelien, aus den Worten der Apostel\. Und wenn du diese Samen genommen hast, besäe deine Seele durch Einprägen und Einüben\.
+
+Es mag den Anschein haben, dass diese Samen von selbst aufgehen\. Doch es stimmt nicht, dass sie aufgehen, nachdem man sie sich eingeprägt hat; vielmehr wird Gott sie wachsen lassen\. „Ich habe gepflanzt, Apollos hat gegossen, aber Gott hat sie wachsen lassen\.[^bible-8a748dd5-6c4b-4660-8ee3-91914c082f67]“ Und wenn es jemandem gelungen ist, die Schrift zu verstehen, hat er Brachland umgebrochen und nach dem Umbrechen nicht unter die Dornen gesät\.[^bible-3ac3e52c-9eb1-4902-baa2-32bf17bcb21b] Gott lässt aus diesen Samen nicht plötzlich Pflanzen werden; vielmehr ist es so, wie es im Evangelium nach Markus heißt: „Zuerst der Halm, dann die Ähre, dann ist die Saat reif zur Ernte\.[^bible-bb3ddbcc-0827-4d4f-a990-3544ba46f57c]“ Wenn sie reif zur Ernte ist[^bible-accf5749-5e3b-4e2b-8e1e-371fc88261c2], werden die zur Ernte Ausgesandten kommen\. Wenn sie reif zur Ernte ist[^bible-accf5749-5e3b-4e2b-8e1e-371fc88261c2], werden sie zu denen kommen, zu denen das Wort gesagt hat: „Hebt eure Augen auf und seht die Felder an: Sie sind schon weiß zur Ernte\.[^bible-65f4567e-43cc-4048-a4ea-4ba54130ee34]“ So sagt er uns: „Macht aus euch selbst Brachland und sät nicht unter die Dornen\.[^bible-3ac3e52c-9eb1-4902-baa2-32bf17bcb21b]“ Wenn du aber, bevor du deine Seele gereinigt hast und während sie noch Dornen hat, zu jemandem gehst, der lehren kann oder es behauptet oder sich als Lehrer bezeichnet, und um Unterweisung und geistliche Samen bittest, übertrittst du das Gebot, das lautet: „Sät nicht unter die Dornen\.[^bible-3ac3e52c-9eb1-4902-baa2-32bf17bcb21b]“
+
+## Bibelverweise
+
+[^bible-320781aa-711d-4705-8382-b0d938a13bf5]: Mt 6,21
+[^bible-3ac3e52c-9eb1-4902-baa2-32bf17bcb21b]: Jer 4,3
+[^bible-401d6d63-9bdf-44c1-8a3a-4902b0cdc452]: Mk 4,19; Lk 8,14
+[^bible-41dc39a4-3983-47fa-a66f-becf442c40e0]: Gal 4,26–Gal 4,27
+[^bible-60cf64f2-a75f-4fa9-b8d0-ba8890e2f63b]: Mt 6,20
+[^bible-65f4567e-43cc-4048-a4ea-4ba54130ee34]: Joh 4,35
+[^bible-8a748dd5-6c4b-4660-8ee3-91914c082f67]: 1Kor 3,6
+[^bible-9155746d-4522-4679-94d8-b7b3eefc94ab]: Jer 4,2
+[^bible-accf5749-5e3b-4e2b-8e1e-371fc88261c2]: Mk 4,29
+[^bible-bb3ddbcc-0827-4d4f-a990-3544ba46f57c]: Mk 4,28–Mk 4,29
+[^bible-c3d65800-01ee-46be-a86e-972109d74cb5]: Kol 3,9–Kol 3,10
+[^bible-c49c6601-b81c-42a8-8cbb-2d586899a686]: Lk 9,62
+[^bible-e8bc0be5-0182-4189-bd28-297a235bfb3b]: Jer 4,3
+[^bible-eb525fff-09e0-4c02-a6b3-a02539645888]: Lk 8,15
