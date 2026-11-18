@@ -1,10 +1,10 @@
-# Homilie 15 – Kapitel 1: Wer wie Simeon vom Geist geführt Christus umfängt, kann in Frieden aus dem Leben scheiden
+# 15\. Homilie über Lukas – Kapitel 1: Wer wie Simeon vom Geist geführt Christus umfängt, kann in Frieden aus dem Leben scheiden
 
 Autor: Origenes
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/homilie-15#kapitel-e210a4d7-357a-49f9-9f8b-08deba9b1bbf).
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/15-homilie-ueber-lukas#kapitel-e210a4d7-357a-49f9-9f8b-08deba9b1bbf).
 Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
 
 Über Simeon, der im Geist zum Tempel kam[^bible-6e7e848d-9b3b-42ff-89b4-b1a71a970610], bis zu der Stelle, an der er sagt: „Nun entlässt du deinen Diener, Herr, in Frieden[^bible-4c2f639d-ac37-4570-b344-66a1a97f0074]\.“
