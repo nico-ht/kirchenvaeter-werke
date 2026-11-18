@@ -1,0 +1,48 @@
+# 19\. Homilie über Jeremia – Kapitel 5: Wer nach mühevollem Tugendstreben sündigt, verliert wie Jerusalem seine Schätze an den König von Babylon
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/origenes-19-homilie-ueber-jeremia#kapitel-4ddb0485-6edf-4259-7788-08df44cc0222).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Und es geschah am folgenden Tag: Paschor holte Jeremia aus der Grube\.[^bible-e492feae-8763-4857-a26a-b089666563cc]“ O Herr Jesus, komm wieder und erschließe dies sowohl mir als auch denen, die gekommen sind, um geistliche Nahrung zu empfangen\. Wie holte er Jeremia am folgenden Tag aus der Grube[^bible-e492feae-8763-4857-a26a-b089666563cc]? Denn da der heutige Tag angebrochen ist \(und das Heute ist dieses ganze Zeitalter\), hat der Sünder den Propheten in die Grube hinabgeworfen[^bible-ad629467-b12d-4df0-8e93-75b473f40973]\. Wenn aber der angebrochene Tag zu Ende geht und der morgige kommt, dann holt er ihn aus der Grube[^bible-e492feae-8763-4857-a26a-b089666563cc], nachdem er bereut hat\.
+
+Dann sagt Jeremia ihm, was Paschor erleiden wird\. Was sagt er zu ihm? „Er hat dich nicht Paschor genannt, sondern Verbannter\.[^bible-e492feae-8763-4857-a26a-b089666563cc]“ „Denn so spricht der Herr\.[^bible-8b4b06ef-34d1-4be6-bd62-8255b4cbd027]“ „Paschor wird nach Babylon verbannt, und nicht nur er selbst, sondern mit ihm auch seine Freunde[^bible-2cc2e22f-50a1-4a15-aa20-9dbd542a490f]“, entsprechend dem Ausmaß seiner Sünden\. Denn er wird Nebukadnezar ausgeliefert[^bible-602bef91-9b81-478d-98df-6fc8328b96ec], in die Verwirrung verschleppt und für seine Sünden bestraft, weil er den Propheten in die Grube geworfen hat[^bible-ad629467-b12d-4df0-8e93-75b473f40973]\. Wer also sind die Freunde Paschors, dessen Name für die Schwärze des Mundes steht? Alle, die seine Worte aufnehmen, die durch seinen schwarz gewordenen Mund geschwärzt wurden und die Lehren der Schwärze annehmen\.
+
+„Und sie werden durch das Schwert ihrer Feinde fallen\.[^bible-8b4b06ef-34d1-4be6-bd62-8255b4cbd027]“ Die mit der Bestrafung Beauftragten sind es, die Schwerter tragen und jene zu Fall bringen\. Davon hat das Wort geweissagt und gesagt: „Und deine Augen werden es sehen\.[^bible-8b4b06ef-34d1-4be6-bd62-8255b4cbd027]“ „Deine Augen[^bible-8b4b06ef-34d1-4be6-bd62-8255b4cbd027]“, sagte es, „werden sehen[^bible-8b4b06ef-34d1-4be6-bd62-8255b4cbd027]“, was geweissagt wird\. „Und ich werde sowohl dich als auch ganz Judas in die Hände des Königs von Babylon ausliefern\.[^bible-8b4b06ef-34d1-4be6-bd62-8255b4cbd027]“ Wenn er sich als Sünder in Judas niedergelassen hat, verdient er es damit, in den Besitz des Königs von Babylon, der Verwirrung, zu geraten\. Ihm wird er ausgeliefert, und der König von Babylon wird die Sünder aufnehmen\. Der König von Babylon ist nach dem geschichtlichen Sinn Nebukadnezar, nach dem geistlichen Sinn aber der Böse\. Diesem wird der Sünder übergeben, denn er ist bald das eine, bald das andere: Feind und Rächer[^bible-66f0e391-cc5f-4d64-a759-281ceff3a991]\. Dass aber der Sünder ihm ausgeliefert wird, soll dich Paulus lehren\. Über Phygelus und Hermogenes sagt er: „Ich habe sie dem Satan übergeben, damit sie lernen, nicht zu lästern\.[^bible-3f1e7b7e-654f-4ddd-9fb3-bd58bd9e3af9]“ Und über den, der Unzucht getrieben hat, sagt er: „Ich habe beschlossen, wenn ihr und mein Geist mit der Macht des Herrn Jesus versammelt seid, einen solchen Menschen dem Satan zur Vernichtung des Fleisches zu übergeben, damit der Geist am Tag des Herrn Jesus Christus gerettet wird\.[^bible-90918f43-184e-4b2c-8bac-cdf356d3896d]“
+
+So wird Paschor, der mit dem schwarzen Mund, in die Hände des babylonischen Königs ausgeliefert, und man verbannt ihn nach Babylon[^bible-602bef91-9b81-478d-98df-6fc8328b96ec]\. „Und sie werden sie mit Schwertern zerhauen\.[^bible-8b4b06ef-34d1-4be6-bd62-8255b4cbd027]“ „Und ich werde die ganze Stärke dieser Stadt ausliefern\.[^bible-efe50d44-c3cf-4d04-89d3-8c8a94632144]“ Es ist leicht zu sagen, dass dies über Jerusalem geweissagt wird\. Denn ihre ganze Stärke und alles, was mitgebracht wird, werden dem König der Babylonier ausgeliefert[^bible-efe50d44-c3cf-4d04-89d3-8c8a94632144]\. Es ist leicht zu sagen, dass diese Worte über diese Stadt geweissagt werden, die zur Zeit des Erlösers ihren Feinden ausgeliefert wurde: Die Söhne Jerusalems gingen in die Gefangenschaft, und die Stadt wurde zerstört\.
+
+Wenn du aber die Umstände prüfst und unter einer Stadt nicht die Steine, sondern die Menschen verstehst, wirst du erkennen: Eben dieses Jerusalem, das Volk, wurde wegen seiner Gottlosigkeit und seiner Sünde gegen Christus in die Hände des Königs von Babylon ausgeliefert\. Und nun bist du Jerusalem\. Wenn also das Wort jetzt Jerusalem droht, dann fürchte dich davor, dass du, wenn du sündigst, ein Sünder wie Jerusalem bist und ausgeliefert wirst, sodass du nicht länger Jerusalem bist, sondern zu Babylon und zur Verwirrten wirst, weil Nebukadnezar, der König der Babylonier, dich in seine Gewalt gebracht hat\.
+
+„Und alle Mühen Jerusalems liefert er aus\.[^bible-4da84f0c-2420-460e-a9df-48f872484e56]“ Wie liefert er alle Mühen[^bible-4da84f0c-2420-460e-a9df-48f872484e56] aus? Wenn du nach Leiden und Kämpfen unterliegst und sündigst, sind alle deine Mühen in die Hände Nebukadnezars gefallen\. Wie ist das zu verstehen: alle deine Mühen[^bible-4da84f0c-2420-460e-a9df-48f872484e56]? Wenn du dich für die Wahrheit in vielem aufgerieben hast und dann fällst, wird man dir sagen: „Hast du so vieles vergeblich erlitten?[^bible-48a51043-2aa2-4860-8401-f57dfbb157e4]“ Vor allem sollten sich diejenigen, die sich gewissenhaft unter vielen Mühen für die Tugend verausgabt haben, davor fürchten, dass Nebukadnezar, der König von Babylon, wegen irgendeiner Sünde ihre Mühen, Jerusalem zu werden, an sich reißt\. Damit du aber deutlicher erkennst, wie Nebukadnezar sich der Mühen bemächtigt, wenn Jerusalem sündigt, werde ich auf Worte zurückgreifen, die bei Hesekiel geschrieben stehen\. Sie lauten so: „Wenn der Gerechte sich von seiner Gerechtigkeit abwendet und eine Übertretung begeht, werde ich mich niemals an die gerechten Taten erinnern, die er getan hat\.[^bible-4d02269f-22e7-4fa8-9e8b-5b3a40076390]“ Warum? Nebukadnezar bemächtigt sich der gerechten Taten, die unter Mühen zustande kommen, und Nebukadnezar, der König von Babylon, löscht sie aus\.
+
+„Und er bemächtigt sich jeder Ehre Jerusalems\.[^bible-4da84f0c-2420-460e-a9df-48f872484e56]“ Das geschieht, wenn ein Mensch bei Gott in Ehren steht und trotz seiner Ehrenstellung nichts verstanden hat[^bible-72fb588b-8dc9-49d1-8d5e-aebb4935f354] und gesündigt hat\. Wenn du also als Mensch in Ehren Einsicht hast und dich als einer, der zur Ehre berufen ist, durch Sünden wieder erniedrigst, bemächtigt sich der babylonische König der Ehre Jerusalems[^bible-4da84f0c-2420-460e-a9df-48f872484e56]\.
+
+Nun betrachten wir die Worte: „Und alle Schätze des Königs von Juda\.[^bible-4da84f0c-2420-460e-a9df-48f872484e56]“ Jerusalem ist reich; wenn sie aber sündigt, nimmt ihr der Babylonier ihre Schätze\.
+
+„Und sie werden sie plündern und an sich nehmen und nach Babylon bringen\. Und du, Paschor, und alle, die in deinem Haus wohnen, werdet in die Gefangenschaft nach Babylon gehen, und dort wirst du sterben und dort begraben werden\.[^bible-44fb22bc-9eff-4809-96b7-0ef239c05817]“ Wer von Verwirrung überwältigt wird, stirbt in Babylon\. Und wer das Gegenteil erfährt, statt mit Christus begraben zu werden[^bible-accdd009-5a28-40db-a2a1-dbeb67ef671f], wird in Babylon begraben\. Denn man kann auf gute Weise durch die Taufe mit Christus begraben werden[^bible-accdd009-5a28-40db-a2a1-dbeb67ef671f]\. Dem Schriftwort zufolge werden wir mit Christus begraben und mit ihm auferweckt[^bible-4af2c10b-48e0-4074-b95f-82fa79fa4627]\. So wie es ein Geheimnis ist, mit Christus begraben zu werden[^bible-4af2c10b-48e0-4074-b95f-82fa79fa4627], so ist es auch ein Geheimnis, in Babylon begraben zu werden, nachdem man durch eine Übertretung zum Sünder geworden ist\.
+
+„Und alle[^bible-df0dade5-2759-4bea-9928-68a15a67ed2c]“, sagt er, „deine Freunde, denen du Lügen geweissagt hast, gehen dorthin\.[^bible-df0dade5-2759-4bea-9928-68a15a67ed2c]“ Wer die Aussprüche Gottes in böser Weise auslegt und die prophetischen Worte in die Grube wirft, der weissagt, aber er weissagt Lügen\. Denn jeder, der die prophetischen Worte auslegt, weissagt, wenn er die Wahrheit sagt, und weissagt Wahrheit\. Wenn er aber lügt, ist er ein Lügenprophet, der über die prophetischen Worte Falsches sagt\.
+
+## Bibelverweise
+
+[^bible-2cc2e22f-50a1-4a15-aa20-9dbd542a490f]: Jer 20,6
+[^bible-3f1e7b7e-654f-4ddd-9fb3-bd58bd9e3af9]: 1Tim 1,20
+[^bible-44fb22bc-9eff-4809-96b7-0ef239c05817]: Jer 20,5–Jer 20,6
+[^bible-48a51043-2aa2-4860-8401-f57dfbb157e4]: Gal 3,4
+[^bible-4af2c10b-48e0-4074-b95f-82fa79fa4627]: Kol 2,12
+[^bible-4d02269f-22e7-4fa8-9e8b-5b3a40076390]: Hes 18,24
+[^bible-4da84f0c-2420-460e-a9df-48f872484e56]: Jer 20,5
+[^bible-602bef91-9b81-478d-98df-6fc8328b96ec]: Jer 20,4–Jer 20,6
+[^bible-66f0e391-cc5f-4d64-a759-281ceff3a991]: Ps 8,3
+[^bible-72fb588b-8dc9-49d1-8d5e-aebb4935f354]: Ps 48,13
+[^bible-8b4b06ef-34d1-4be6-bd62-8255b4cbd027]: Jer 20,4
+[^bible-90918f43-184e-4b2c-8bac-cdf356d3896d]: 1Kor 5,3–1Kor 5,5
+[^bible-accdd009-5a28-40db-a2a1-dbeb67ef671f]: Röm 6,4
+[^bible-ad629467-b12d-4df0-8e93-75b473f40973]: Jer 20,2
+[^bible-df0dade5-2759-4bea-9928-68a15a67ed2c]: Jer 20,6
+[^bible-e492feae-8763-4857-a26a-b089666563cc]: Jer 20,3
+[^bible-efe50d44-c3cf-4d04-89d3-8c8a94632144]: Jer 20,5
