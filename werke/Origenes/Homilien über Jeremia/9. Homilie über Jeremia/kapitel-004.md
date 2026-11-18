@@ -1,0 +1,42 @@
+# 9\. Homilie über Jeremia – Kapitel 4: In jeder Sünde werden wir vom Teufel gezeugt, in jeder guten Tat zeugt uns Gott in Christus
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/origenes-9-homilie-ueber-jeremia#kapitel-68b1ffab-bbbf-4feb-7750-08df44cc0222).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Als Nächstes antwortet der Prophet auf das, was der Herr zuvor gesagt hat\. Auf die Worte „Verflucht ist der Mensch, der die Worte dieses Bundes nicht hört[^bible-43e98568-46d6-4440-bf47-1dc43860da61]“ sagt er: „Und ich antwortete und sagte[^bible-2cbf1d8a-9bf0-45e1-babc-91f45e77d06d]“: „‚So sei es, Herr\.[^bible-2cbf1d8a-9bf0-45e1-babc-91f45e77d06d]‘“ Was bedeutet „So sei es, Herr[^bible-2cbf1d8a-9bf0-45e1-babc-91f45e77d06d]“? Dass tatsächlich verflucht ist, wer nicht bei den Worten des Bundes bleibt[^bible-43e98568-46d6-4440-bf47-1dc43860da61]\.
+
+Und der Herr sagte zu mir[^bible-3fd129ce-4f93-41a9-aed6-b259b8cbb5f4]: „Lies diese Worte in den Städten von Juda und außerhalb Jerusalems\.[^bible-3fd129ce-4f93-41a9-aed6-b259b8cbb5f4]“ Auch denen, die draußen sind, lesen wir die Worte Gottes vor, wenn wir sie zum Heil rufen und sagen: „Hört die Worte des Bundes und handelt danach\.[^bible-3fd129ce-4f93-41a9-aed6-b259b8cbb5f4]“ Und sie handelten nicht danach\.[^bible-fc2e59f0-63d9-4e35-9fa2-3cc80b91afd9] Und der Herr sagte zu mir[^bible-86097961-2bc3-4392-81a6-8ba6babc6663]: „Bei den Männern von Juda und bei den Bewohnern Jerusalems fand sich ein Band\.[^bible-86097961-2bc3-4392-81a6-8ba6babc6663]“ Wollen wir die Sünde bereuen, von der im Zusammenhang mit den Männern von Juda die Rede ist, da wir doch wissen, dass wir die Männer von Juda sind, und zwar durch Christus, von dem geweissagt wurde und der Juda genannt wurde? Denn vielleicht sagt der Prophet deshalb: „Bei den Männern von Juda und bei den Bewohnern Jerusalems fand sich ein Band[^bible-86097961-2bc3-4392-81a6-8ba6babc6663]“, weil es unter uns einige Sünder gibt, die gegen die rechte Vernunft handeln\. Denn wann immer sich bei jemandem, der dem Namen nach zur Kirche gehört, ein Band des Unrechts und ein Band der Sünden finden, sodass man auf den Sünder das Wort anwenden kann, dass jeder in den Schlingen seiner Sünden gefangen ist[^bible-b7ac79b1-b4d3-4a12-8d9b-cd98ecc49b02], könnte Gott sagen: „Bei den Männern von Juda fand sich ein Band\.[^bible-86097961-2bc3-4392-81a6-8ba6babc6663]“ Möge sich aber bei uns kein Band finden\. Doch wie könnte sich bei uns kein Band finden, wenn sich doch sogar bei einigen bis heute ein Band findet? „Löse jedes Band der Bosheit, löse die Joche erzwungener Vereinbarungen, brich jeden ungerechten Vertrag\. Teile dem Armen sein Brot aus\.[^bible-ee514b30-7fff-4e46-85ca-37c29841d305]“
+
+Also: „Bei den Männern von Juda und bei den Bewohnern Jerusalems fand sich ein Band\. Sie sind zu den Verfehlungen ihrer Vorväter zurückgekehrt\.[^bible-90309138-3ec7-4201-898d-5b6afc152c12]“ Zu wessen Verfehlungen sind sie zurückgekehrt? Er sagt nicht einfach: „der Väter“\. Wer kommt noch hinzu? „Sie sind zu den Verfehlungen der Vorväter zurückgekehrt\.[^bible-3bb354cc-6bfc-47ac-bb36-053b93d58961]“ Wir sagten, dass diese Worte an uns und an diejenigen unter uns gerichtet sind, die sündigen\. Wie sind nun diejenigen unter uns, die sündigen, zu den Verfehlungen nicht der Väter, sondern der Vorväter zurückgekehrt? Vielleicht haben wir also zwei Arten von Vätern, und die geringere Art von Vätern ist in uns; denn bevor wir glauben, sind wir in gewissem Sinne Söhne des Teufels\. Darauf weist das Wort des Evangeliums hin, wenn es sagt: „Ihr habt den Teufel zum Vater\.[^bible-71efb3a7-a591-44e9-9bc3-3dc380fb7e02]“ Wenn wir aber glauben, werden wir Söhne Gottes\. Daher kehren wir jedes Mal, wenn wir sündigen, zu den Verfehlungen nicht nur der Väter, sondern der Vorväter zurück\. Um aber zu beweisen, dass wir zwei Arten von Vätern haben, werde ich Worte aus dem vierundvierzigsten Psalm anführen, der die Sache so erfasst: „Höre, Tochter, und bedenke es und neige dein Ohr; vergiss dein Volk und das Haus deines Vaters\.[^bible-a26b5b98-b7b7-4457-8261-ee779e85da20]“ Ein Vater sagt: „Vergiss das Haus deines Vaters[^bible-a26b5b98-b7b7-4457-8261-ee779e85da20]“, während ein anderer Vater sagt: „Höre, Tochter\.[^bible-a26b5b98-b7b7-4457-8261-ee779e85da20]“ Wir haben also zwei Arten von Vätern; doch „Vergiss das Haus deines Vaters[^bible-a26b5b98-b7b7-4457-8261-ee779e85da20]“ bezieht sich auf den ersten\.
+
+Wenn du wieder zu deinen Sünden zurückkehrst, nachdem du das Haus deines ersten Vaters vergessen hast[^bible-166e427a-b2d8-45ce-a68e-855deaac756f], hast du die Sünden begangen, von denen hier die Rede ist\.
+
+„Sie sind zu den Verfehlungen ihrer Vorväter zurückgekehrt\.[^bible-cbd7998a-0479-49d6-8968-0d126e8d0445]“ Ich sagte, dass auch der Teufel unser erster Vater war, bevor Gott unser Vater wurde \(wenn nicht der Teufel auch jetzt noch unser Vater ist\)\. Wir werden das mit dem katholischen Brief des Johannes belegen, in dem geschrieben steht: „Jeder, der Sünde tut, ist vom Teufel gezeugt\.[^bible-4b294566-c59a-4bd6-b403-6be89f2198c6]“ Wenn „jeder, der Sünde tut, vom Teufel gezeugt ist[^bible-4b294566-c59a-4bd6-b403-6be89f2198c6]“, werden wir jedes Mal, wenn wir sündigen, vom Teufel gezeugt\. So ist elend, wer immerfort aus dem Teufel geboren wird, wie umgekehrt derjenige immer selig ist, der von Gott gezeugt wird\. Denn ich will nicht sagen, dass der Gerechte nur einmal von Gott gezeugt wird, sondern dass er immerfort gezeugt wird, in jeder guten Tat, in der Gott den Gerechten zeugt\. Wenn ich euch also im Blick auf den Erlöser darlege, dass der Vater den Sohn nicht gezeugt und ihn dann von seiner Zeugung getrennt hat, sondern ihn immerfort zeugt, werde ich auch für den Gerechten etwas Ähnliches aufzeigen\.
+
+Betrachten wir aber, wer unser Erlöser ist: ein Abglanz der Herrlichkeit[^bible-c5aaef4f-0c56-4344-b95d-990ce81b0d67]\. Der Abglanz der Herrlichkeit[^bible-c5aaef4f-0c56-4344-b95d-990ce81b0d67] ist nicht nur einmal gezeugt worden, sodass er danach nicht mehr gezeugt würde\. Vielmehr wird der Abglanz der Herrlichkeit Gottes[^bible-c5aaef4f-0c56-4344-b95d-990ce81b0d67] so gezeugt, wie das Licht einen Abglanz hervorbringt\. Unser Erlöser ist die Weisheit Gottes[^bible-2ade2731-fee1-494d-8dda-de640c512f4d]\. Die Weisheit aber ist der Abglanz des ewigen Lichts[^bible-5a151ab4-2289-49f0-9bc7-64a0d99082bd]\. Wenn also der Erlöser immerfort gezeugt wird \(deshalb sagt er auch: „Vor allen Hügeln zeugt er mich[^bible-da5e3218-356d-454f-9baf-96c615ad0318]“, und nicht: „Vor allen Hügeln hat er mich gezeugt[^bible-da5e3218-356d-454f-9baf-96c615ad0318]“, sondern: „Vor allen Hügeln zeugt er mich[^bible-da5e3218-356d-454f-9baf-96c615ad0318]“\), und wenn der Erlöser immerfort vom Vater gezeugt wird, dann zeugt Gott ebenso auch dich immerfort in ihm, wenn du den Geist der Sohnschaft[^bible-6727e6ce-fce1-484c-a7eb-938551242f7b] hast: entsprechend jedem Werk, entsprechend jedem Gedanken\. Und wer so gezeugt wird, möge immer ein gezeugter Sohn Gottes in Christus Jesus sein, dem die Herrlichkeit und die Macht gehören in alle Ewigkeit\. Amen\.
+
+## Bibelverweise
+
+[^bible-166e427a-b2d8-45ce-a68e-855deaac756f]: Ps 44,11
+[^bible-2ade2731-fee1-494d-8dda-de640c512f4d]: 1Kor 1,24
+[^bible-2cbf1d8a-9bf0-45e1-babc-91f45e77d06d]: Jer 11,5
+[^bible-3bb354cc-6bfc-47ac-bb36-053b93d58961]: Jer 11,10
+[^bible-3fd129ce-4f93-41a9-aed6-b259b8cbb5f4]: Jer 11,6
+[^bible-43e98568-46d6-4440-bf47-1dc43860da61]: Jer 11,3
+[^bible-4b294566-c59a-4bd6-b403-6be89f2198c6]: 1Joh 3,8
+[^bible-5a151ab4-2289-49f0-9bc7-64a0d99082bd]: Weish 7,26
+[^bible-6727e6ce-fce1-484c-a7eb-938551242f7b]: Röm 8,15
+[^bible-71efb3a7-a591-44e9-9bc3-3dc380fb7e02]: Joh 8,44
+[^bible-86097961-2bc3-4392-81a6-8ba6babc6663]: Jer 11,9
+[^bible-90309138-3ec7-4201-898d-5b6afc152c12]: Jer 11,9–Jer 11,10
+[^bible-a26b5b98-b7b7-4457-8261-ee779e85da20]: Ps 44,11
+[^bible-b7ac79b1-b4d3-4a12-8d9b-cd98ecc49b02]: Spr 5,22
+[^bible-c5aaef4f-0c56-4344-b95d-990ce81b0d67]: Hebr 1,3
+[^bible-cbd7998a-0479-49d6-8968-0d126e8d0445]: Jer 11,10
+[^bible-da5e3218-356d-454f-9baf-96c615ad0318]: Spr 8,25
+[^bible-ee514b30-7fff-4e46-85ca-37c29841d305]: Jes 58,6–Jes 58,7
+[^bible-fc2e59f0-63d9-4e35-9fa2-3cc80b91afd9]: Jer 11,8
