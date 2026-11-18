@@ -1,0 +1,50 @@
+# 8\. Homilie über die Richter – Kapitel 4: Gideons doppelte Tauprobe kündigt Christi Kommen zuerst zu Israel, dann zu den Heiden an
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/origenes-8-homilie-ueber-die-richter#kapitel-b3c7a692-f622-4ec7-1f5a-08df43d9ed0e).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Es heißt: „Und dann sagte Gideon zu Gott:[^bible-9bad4858-9e2e-45d5-8645-f7260b509f79] ‚Wenn du Israel durch meine Hand rettest, wie du gesagt hast, dann bin ich hier und werde ein Wollvlies auf den Dreschplatz legen\. Wenn nun Tau auf das Vlies fällt und auf dem ganzen Boden Trockenheit herrscht, dann werde ich erkennen, dass du Israel durch meine Hand retten wirst, wie du gesagt hast\.[^bible-67685b8a-aaa9-4e79-8ad9-1aee3bf9df27]‘ Und so geschah es\.[^bible-563e1354-fbca-4a78-a103-5049facf7735]“ Gideon hätte von Gott unzählige Zeichen oder prophetische Wunderzeichen erbitten können, um Gottes Verheißung bestätigen zu lassen\. Warum hielt er es nach der Stimme des Engels und der himmlischen Verheißung für richtig, Gott um ein so ungewöhnliches Zeichen zu bitten? Denn er sagt: „Ich werde ein Wollvlies auf den Dreschplatz legen\. Wenn nur auf dem Vlies Tau liegt und auf dem ganzen Boden Trockenheit herrscht, dann werde ich gewiss sein, dass du Israel durch meine Hand retten wirst\.[^bible-caa0323f-0d23-4c53-8512-c9cee50d3d3a]“ Und als Gideon Gott inständig um dieses Zeichen gebeten hatte, geschah es\.[^bible-4cbaf97e-d6e8-4d05-a58f-678d8a194c46]
+
+Doch wahrlich, Gideon, du hast die Wirksamkeit eines Zeichens erfahren\. Warum nimmst du nun auch noch „ein Wollvlies[^bible-563e1354-fbca-4a78-a103-5049facf7735]“ und „wringst es in eine Schale aus[^bible-563e1354-fbca-4a78-a103-5049facf7735]“? Was hat dich dazu bewogen? Doch wahrlich, du hast das erste Zeichen erhalten\. Warum bittest du dann noch um ein zweites Zeichen, bei dem die Verhältnisse umgekehrt und völlig verändert sind[^bible-6191319c-aca9-41b6-80df-a561edaefadd]? Vielleicht sagt nämlich jemand unter denen, die dem Vorgelesenen aufmerksamer zuhören, dies scheine nicht mit dem übereinzustimmen, was als Gebot im Gesetz geschrieben steht: „Du sollst den Herrn, deinen Gott, nicht auf die Probe stellen\.[^bible-53ff61cd-d4c1-4b73-b96e-1b17b92a59b7]“ Doch der Ausgang der Sache zeigt, dass er nicht gegen das Gebot gehandelt hat\. Denn Gott hätte eine Bitte nicht erhört, die etwas Gesetzwidriges verlangt\.
+
+Nun aber wollen wir besonders darauf achten, dass beim ersten Zeichen „der Tau[^bible-563e1354-fbca-4a78-a103-5049facf7735]“ tatsächlich „auf das Wollvlies fiel, während auf dem ganzen Boden Trockenheit herrschte[^bible-563e1354-fbca-4a78-a103-5049facf7735]“, beim zweiten Zeichen dagegen „der Tau auf den ganzen Boden fiel, während das Vlies trocken blieb[^bible-3f6991f8-6e1c-41d9-ab8f-e3f676b88620]“\. So erhielt Gideon die Gewissheit, dass der Herr Israel durch Gideons Hand retten würde\.[^bible-3d83d9e3-93a1-4e9f-b4cb-517922c5b8f9] Wir müssen den Sinn dieses Geheimnisses erkennen\. Ich erinnere mich, dass einer unserer Vorgänger dazu in seinen Schriften sagte, das „Wollvlies[^bible-caa0323f-0d23-4c53-8512-c9cee50d3d3a]“ sei das Volk Israel; den übrigen Boden deutete er dagegen als die übrigen Völker\. Der „Tau[^bible-caa0323f-0d23-4c53-8512-c9cee50d3d3a]“, der „auf das Vlies[^bible-caa0323f-0d23-4c53-8512-c9cee50d3d3a]“ fiel, sei das Wort Gottes, das allein diesem Volk vom Himmel geschenkt worden war\. Denn nur auf Israel war der „Tau[^bible-caa0323f-0d23-4c53-8512-c9cee50d3d3a]“ der göttlichen Gesetzgebung gekommen\. Alle Völker aber hielt die Trockenheit gefangen, weil keine Feuchtigkeit des göttlichen Wortes über sie ausgegossen wurde\.
+
+Der Grund dafür, dass sich beim zweiten Zeichen alles ins Gegenteil verkehrte, worüber es heißt: „Da nun Tau auf den ganzen Boden herabkommt, während das Vlies trocken bleibt[^bible-3f6991f8-6e1c-41d9-ab8f-e3f676b88620]“, ist aber folgendermaßen zu verstehen\.
+
+Sieh dieses ganze Volk, das aus den Völkern auf der ganzen Erde zusammengeführt wurde und nun den göttlichen Tau in sich trägt\. Sieh, wie es vom Tau des Mose übergossen und von den Schriften der Propheten befeuchtet wird; sieh, wie es auch durch die Feuchtigkeit des Evangeliums und der Apostel grünt, während jenes Vlies, das heißt das jüdische Volk, unter Trockenheit und Dürre leidet, weil ihm das Wort Gottes fehlt\. So steht es geschrieben: „Das Volk Israel wird lange Zeit ohne König, ohne Anführer, ohne Propheten sein; es wird weder Altar noch Opfergabe noch Opfer geben\.[^bible-4b24d3b5-b411-405a-a231-0c46f256ae53]“ Bedenke, wie viel „Trockenheit[^bible-3cf08224-f2d1-4f94-af7a-15a05271461c]“ bei ihnen bleibt, welche Dürre sie trifft, weil ihnen das göttliche Wort fehlt\. Dies haben unsere Vorfahren durch ihre Arbeit für uns zusammengetragen, was wir gebührend anerkennen müssen\. Doch weil auch wir „ein von den Weisen gehörtes Wort[^bible-59cce9f6-3e28-46d5-bddc-a24d74bcb0d9]“, wie geschrieben steht, „würdigen und ergänzen[^bible-59cce9f6-3e28-46d5-bddc-a24d74bcb0d9]“ müssen, wollen wir sehen, was auch wir darauf aufbauen können\.
+
+Ich dachte nämlich oft für mich über den 71\. Psalm nach\. Dabei fiel mir auf, dass er dort, wo er das Kommen Christi darstellt, gerade an dieser Stelle verkündet, was geschehen wird\. Es heißt: „Und er wird herabkommen wie Regen auf das Vlies und wie Regentropfen, die auf den Boden rieseln\.[^bible-dc59419e-c0ca-4c5b-b62c-2edb37b5b942]“ Hier ist vom „Vlies[^bible-119c2348-6506-4eea-9099-1dced4e76d57]“ die Rede, und auch in den Psalmen steht „Vlies[^bible-dc59419e-c0ca-4c5b-b62c-2edb37b5b942]“\. „Er wird herabkommen wie Regen[^bible-dc59419e-c0ca-4c5b-b62c-2edb37b5b942]“, heißt es nämlich, „auf das Vlies\.[^bible-dc59419e-c0ca-4c5b-b62c-2edb37b5b942]“ Also kommt er auf dieses Vlies herab[^bible-dc59419e-c0ca-4c5b-b62c-2edb37b5b942], das heißt auf das Volk der Beschneidung\. Und „wie Regentropfen, die auf den Boden rieseln[^bible-dc59419e-c0ca-4c5b-b62c-2edb37b5b942]“, das heißt auf den übrigen Boden, „tropft[^bible-dc59419e-c0ca-4c5b-b62c-2edb37b5b942]“ unser Herr Jesus Christus auch „auf[^bible-dc59419e-c0ca-4c5b-b62c-2edb37b5b942]“ uns herab und schenkt auch uns, den Heiden, Tropfen himmlischen Taus, damit auch wir trinken können, die wir, von unablässiger Dürre ausgetrocknet, „auf[^bible-dc59419e-c0ca-4c5b-b62c-2edb37b5b942]“ der ganzen „Erde[^bible-dc59419e-c0ca-4c5b-b62c-2edb37b5b942]“ lebten\. So hat denn der heilige Gideon, der mit prophetischem Geist über diese Ordnung des Geheimnisses nachdachte, nicht nur das erste Zeichen von Gott erbeten, sondern verlangt auch ein zweites Zeichen, bei dem es sich umgekehrt verhält[^bible-0ea2bcaa-a411-410f-b322-3f10ba34065b]\. Denn er kannte den göttlichen „Tau[^bible-3cf08224-f2d1-4f94-af7a-15a05271461c]“, der die Ankunft des Sohnes Gottes ist und nicht nur zu den Juden, sondern danach auch zu den Heiden kommen sollte, da ja durch den „Unglauben[^bible-328531a9-b272-4d1b-816d-0eeaed9919c9]“ Israels „das Heil zu den Heiden kommt[^bible-328531a9-b272-4d1b-816d-0eeaed9919c9]“\. Und deshalb wird wegen der Trockenheit des Vlieses[^bible-3cf08224-f2d1-4f94-af7a-15a05271461c] die ganze Erde[^bible-3cf08224-f2d1-4f94-af7a-15a05271461c] mit der Gnade des göttlichen Taus übergossen[^bible-3cf08224-f2d1-4f94-af7a-15a05271461c]\.
+
+Außerdem dürfen wir bei dieser Tat Gideons, eines sehr gläubigen Mannes, wie ich meine, eines keinesfalls übergehen: Darin kann sich für uns eine Art geistlicher Vorsicht zeigen\. „Er sah einen Engel[^bible-9cbf5579-caaf-409e-a63e-fb56aa33b1f5]“, doch als kundiger Mann, der auch schon das Beispiel seines Vorgängers Jesus, des Sohnes Nuns, kennt, geht er vorsichtiger vor\. Denn er wusste, dass sich sogar die Engel der Finsternis „in Engel des Lichts verwandeln[^bible-b8dfd916-1070-40f5-a7ea-a425d5071d8a]“ können\. Darum heißt es bei dieser höchst vorsichtigen Prüfung: „Ich will ‚den Geist prüfen, ob er von Gott ist[^bible-d65924aa-c5eb-46bc-9ac2-8bd74815d6e2]‘“, denn „der geistliche Mensch prüft alles\.[^bible-720b20e9-0e2d-49fd-8351-5d44a42f2e2d]“
+
+Denn so war schon sein Vorgänger Jesus, der Sohn Nuns, vorgegangen: Als er „den Anführer des himmlischen Heeres[^bible-2a6da33d-f5db-404f-9852-6e01dea8b8e6]“ sah, fragte er nach und prüfte, ob „er zu uns oder zu unseren Feinden gehört[^bible-17a57c08-d3e2-40f3-8d11-6f36ac2483f3]“\. Auf diese Weise prüft auch der überaus heilige Gideon die Engelserscheinung anhand unterschiedlicher Zeichen und ihrer Umkehrung[^bible-e295dabe-63df-4aea-a682-55b674a9dbc3]\.
+
+## Bibelverweise
+
+[^bible-0ea2bcaa-a411-410f-b322-3f10ba34065b]: Ri 6,36–Ri 6,40
+[^bible-119c2348-6506-4eea-9099-1dced4e76d57]: Ri 6,37
+[^bible-17a57c08-d3e2-40f3-8d11-6f36ac2483f3]: Jos 5,13
+[^bible-2a6da33d-f5db-404f-9852-6e01dea8b8e6]: Jos 5,14
+[^bible-328531a9-b272-4d1b-816d-0eeaed9919c9]: Röm 11,11
+[^bible-3cf08224-f2d1-4f94-af7a-15a05271461c]: Ri 6,40
+[^bible-3d83d9e3-93a1-4e9f-b4cb-517922c5b8f9]: Ri 6,37–Ri 6,40
+[^bible-3f6991f8-6e1c-41d9-ab8f-e3f676b88620]: Ri 6,40
+[^bible-4b24d3b5-b411-405a-a231-0c46f256ae53]: Hos 3,4
+[^bible-4cbaf97e-d6e8-4d05-a58f-678d8a194c46]: Ri 6,37–Ri 6,38
+[^bible-53ff61cd-d4c1-4b73-b96e-1b17b92a59b7]: Dtn 6,16
+[^bible-563e1354-fbca-4a78-a103-5049facf7735]: Ri 6,38
+[^bible-59cce9f6-3e28-46d5-bddc-a24d74bcb0d9]: Sir 21,15
+[^bible-6191319c-aca9-41b6-80df-a561edaefadd]: Ri 6,39
+[^bible-67685b8a-aaa9-4e79-8ad9-1aee3bf9df27]: Ri 6,36–Ri 6,37
+[^bible-720b20e9-0e2d-49fd-8351-5d44a42f2e2d]: 1Kor 2,15
+[^bible-9bad4858-9e2e-45d5-8645-f7260b509f79]: Ri 6,36
+[^bible-9cbf5579-caaf-409e-a63e-fb56aa33b1f5]: Ri 6,12
+[^bible-b8dfd916-1070-40f5-a7ea-a425d5071d8a]: 2Kor 11,14
+[^bible-caa0323f-0d23-4c53-8512-c9cee50d3d3a]: Ri 6,37
+[^bible-d65924aa-c5eb-46bc-9ac2-8bd74815d6e2]: 1Joh 4,1
+[^bible-dc59419e-c0ca-4c5b-b62c-2edb37b5b942]: Ps 71,6
+[^bible-e295dabe-63df-4aea-a682-55b674a9dbc3]: Ri 6,36–Ri 6,40
