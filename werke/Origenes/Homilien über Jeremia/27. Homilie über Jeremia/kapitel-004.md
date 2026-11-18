@@ -1,0 +1,28 @@
+# 27\. Homilie über Jeremia – Kapitel 4: Gott führt aus dem „Land der Chaldäer“: Nicht die Sterne, sondern er lenkt unser Leben
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/origenes-27-homilie-ueber-jeremia#kapitel-165e3ee1-ef29-47ce-7796-08df44cc0222).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Im Land der Chaldäer braucht man den Herrn der Mächte\.[^bible-e349bb08-8139-4aa5-838c-a0b70342c2be] Ein irdischer Ort kann, je nachdem, unter welchem Gesichtspunkt man ihn betrachtet, vielerlei Namen tragen\. Auch der Erlöser hat unter verschiedenen Gesichtspunkten viele Namen; denn er ist zwar seiner Substanz nach einer, in seinen Kräften aber vielfältig\. So werden auch die irdischen Dinge wegen der Bosheit des Menschengeschlechts, obwohl sie ihrer Substanz nach eins sind, in ihrer Verschiedenheit als vieles aufgefasst\. Was ich sage, wird aber vielleicht deutlicher, wenn ich zunächst das Beispiel untersuche, das der Erlöser bietet, und dann darüber hinaus zu dem übergehe, was der Erklärung bedarf\. Mein Herr Jesus, der Erlöser, hat eine einzige Substanz\. Obwohl er eine einzige Substanz ist, ist er unter einem Gesichtspunkt ein Arzt, wie geschrieben steht: „Nicht die Gesunden brauchen einen Arzt, sondern die Kranken\.[^bible-a1875778-a93b-4f89-a158-d4607da6d02c]“ Unter einem anderen Gesichtspunkt ist er ein Hirte; als solcher leitet er das Vernunftlose\. Unter einem weiteren ist er ein König; als solcher herrscht er über die vernunftbegabten Wesen\. Wieder unter einem anderen Gesichtspunkt ist er der wahre Weinstock, durch den wir Menschen, in ihn eingepfropft, reichlich Frucht bringen und, vom Vater, dem Winzer, gepflegt, durch die Verbindung mit der einzigen Wurzel aus der Fülle des wahren Weinstocks genährt werden[^bible-af787878-3d94-4105-b137-92acb434b92b]\. Unter einem Gesichtspunkt ist er Weisheit[^bible-3ba3c9a8-5b29-47df-bf36-ed05703204c6], unter einem anderen Wahrheit[^bible-c6a2e33b-ca12-4c16-8d87-00cc8c35ce78], unter einem weiteren Gerechtigkeit[^bible-3ba3c9a8-5b29-47df-bf36-ed05703204c6]\. Dennoch ist er eine einzige Substanz\. Wie es also beim Erlöser, der eine einzige Substanz ist, viele Gesichtspunkte gibt, denen seine verschiedenen Namen entsprechen, so sind auch die irdischen Dinge zwar ihrer Substanz nach eins, unter verschiedenen Gesichtspunkten aber vielfältig\.
+
+Wenn wir Babylon allegorisch deuten, sagen wir häufig, dass damit die irdischen Dinge gemeint sind, die stets mit Fehlern behaftet sind\. Entsprechend ist Ägypten das, was uns schwächt\. Was aber das Land der Chaldäer betrifft: Die Chaldäer führen das meiste, was auf der Erde geschieht, auf die Sterne zurück und behaupten, dass alles, was wir tun, ob Sünde oder Tugend, aus deren Bewegungen hervorgeht\. Deshalb sagen wir, dass damit jene gemeint sind, die sich solchen Ansichten verschrieben haben\. Jeder Mensch also, der diesen Ansichten Glauben schenkt, ist im Land der Chaldäer\. Wenn jemand von euch den Wahnvorstellungen der Astrologen folgt, ist er im Land der Chaldäer\. Wenn jemand den Tag seiner Geburt berechnet, an die Bedeutung unterschiedlicher Stunden und Berechnungszeitpunkte glaubt und die Lehre vertritt, dass die Sterne aus diesem oder jenem Grund die Menschen zu Maßlosen, Ehebrechern, Keuschen oder was auch immer machen, dann ist dieser Mensch im Land der Chaldäer\. Nun meinen sie, dass Christen durch den Lauf der Sterne geboren werden\. Wer von euch so denkt, wer von euch diesen Worten glaubt: Du bist im Land der Chaldäer\. Wenn Gott also denen droht, die im Land der Chaldäer sind, dann droht er jenen, die sich den Genealogien und dem Schicksal verschreiben und behaupten, dass alles, was unter den Sterblichen geschieht, entweder aus den Bewegungen der Sterne oder aus der Notwendigkeit des Schicksals hervorgeht\.
+
+Als Gott aber Abraham zu Besserem führte, sagte er zu ihm: „Ich bin es, der dich aus dem Land der Chaldäer führt\.[^bible-ea427b97-b822-4b5b-9680-d6419206f0a2]“ Denn Gott ist die Macht, die auch uns gewährt, das Land der Chaldäer zu verlassen\. Und wir glauben, dass kein anderer als er uns je nach Art unserer Verdienste unterschiedliche Lebensumstände zuteilt, indem er alles lenkt und unser Leben regiert\. Denn die Ursachen dessen, was uns widerfährt, liegen nicht im Funkeln irgendeines Sternbilds des Phaethon, wie sie sagen, oder des Sterns des verdorbenen Ganymed\. Nach einer Deutung ist jedenfalls derjenige, der den zuvor genannten Berechnungen Glauben schenkt, im Land der Chaldäer; nach einer anderen steigt er auf das Dach und betet das Heer des Himmels an[^bible-73ef4065-ab44-4fa3-abb4-e6324aaa755c]\. Bei Jeremia finden wir aber viele bedrohliche Drohworte gegen jene, die dem Heer des Himmels opfern[^bible-7382d0a0-8302-490c-a4cb-2793a67d5058]\.
+
+Darum braucht es im Land der Chaldäer den Herrn der Mächte, denn ihre Zeit ist gekommen\.[^bible-294b41bf-8e53-4769-998e-5e1900c75b85]
+
+## Bibelverweise
+
+[^bible-294b41bf-8e53-4769-998e-5e1900c75b85]: Jer 50,25
+[^bible-3ba3c9a8-5b29-47df-bf36-ed05703204c6]: 1Kor 1,30
+[^bible-7382d0a0-8302-490c-a4cb-2793a67d5058]: Jer 19,13
+[^bible-73ef4065-ab44-4fa3-abb4-e6324aaa755c]: Zef 1,5
+[^bible-a1875778-a93b-4f89-a158-d4607da6d02c]: Mt 9,12
+[^bible-af787878-3d94-4105-b137-92acb434b92b]: Joh 15,1–Joh 15,5; Röm 11,17
+[^bible-c6a2e33b-ca12-4c16-8d87-00cc8c35ce78]: Joh 14,6
+[^bible-e349bb08-8139-4aa5-838c-a0b70342c2be]: Jer 50,25
+[^bible-ea427b97-b822-4b5b-9680-d6419206f0a2]: Gen 15,7
