@@ -1,0 +1,24 @@
+# 4\. Homilie über Jeremia – Kapitel 4: Israels Höhen und Haine als Warnung vor Hochmut und den fruchtlosen Lehren der Häretiker
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/origenes-4-homilie-ueber-jeremia#kapitel-fc8286c3-b6db-485d-772a-08df44cc0222).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn er also zunächst davon spricht, dass er Israel wegen ihrer Sünden fortgeschickt und ins Exil gesandt hat, Juda aber nicht umgekehrt ist, als sie hörte, was Israel widerfahren war[^bible-562db8e3-0f7b-4c34-907c-6dd69ff6519d], dann spricht er von unseren Sünden\. Wenn wir von den Ereignissen erfahren, die Israel betreffen, und von den Verfehlungen dieses Volkes, sollen wir Furcht empfinden und sagen: „Wenn er die natürlichen Zweige nicht verschont hat, wie viel weniger wird er uns verschonen\.[^bible-e80cefec-1f8e-428d-bc8b-b9aa9dabb9f3]“ Wenn der gütige und zugleich wohlwollende Gott, der diejenigen nicht verschont[^bible-e80cefec-1f8e-428d-bc8b-b9aa9dabb9f3], die fest in der Wurzel der Patriarchen Abraham, Isaak und Jakob verwurzelt sind, diejenigen abschneidet[^bible-40ff9d9f-d67b-4741-8fa8-3e3daf634711], die sich rühmen, edle Bäume zu sein, dann gilt: „Wie viel weniger wird er uns verschonen\![^bible-e80cefec-1f8e-428d-bc8b-b9aa9dabb9f3]“
+
+Denn beachte die Güte und die Strenge Gottes[^bible-2fee5060-bc55-4165-b069-8e7ca8d7686d]\. Er ist nämlich nicht gütig, ohne streng zu sein, und nicht streng, ohne gütig zu sein\. Wenn er nur gütig und nicht streng wäre, würden wir seine Güte nicht sonderlich schätzen\. Wenn er streng und nicht gütig wäre, würden wir vielleicht auch in unseren Sünden verzweifeln\. Nun aber ist Gott zugleich gütig und streng\. Denn wir Menschen, die wir umkehren, brauchen seine Güte; diejenigen unter uns aber, die in den Sünden verharren, brauchen seine Strenge\. Deshalb spricht er auch durch die Propheten zu uns und sagt: „Du hast gesehen, was die Gemeinde Israel[^bible-7d18b6d1-e174-49c8-9dc8-cd7b8b7a8b25]“ \(mit Israel meine ich jenes Volk\) „mir angetan hat\. Sie ist auf jeden hohen Hügel und unter jeden schattenspendenden Baum gegangen\.[^bible-7d18b6d1-e174-49c8-9dc8-cd7b8b7a8b25]“ Wenn du siehst, wie der Pharisäer zum Tempel hinaufgeht[^bible-d034776b-e4fb-4c54-b43e-c5720b4803df], und zwar hochmütig, wie er sich weder an die Brust schlägt[^bible-18c24f07-fef2-43f1-b2d2-3fa20db5126e] noch über seine eigenen Verfehlungen besorgt ist, sondern sagt: „Ich bin dankbar, dass ich nicht wie die anderen Menschen bin: Erpresser, Ungerechte, Ehebrecher oder gar wie dieser Zöllner\. Ich faste zweimal in der Woche und gebe den Zehnten von allem, was ich erhalte[^bible-7a8a24b4-8541-4e84-9c8e-66242a32a692]“, dann wirst du erkennen, dass er in schuldhafter Weise auf jeden hohen Hügel hinaufgestiegen ist[^bible-7d18b6d1-e174-49c8-9dc8-cd7b8b7a8b25]: aus Liebe zum Hochmut, aus Prahlerei und Überheblichkeit\. Aber er ist auch auf jeden hohen Hügel hinaufgestiegen und unter jedem Baum erschienen[^bible-7d18b6d1-e174-49c8-9dc8-cd7b8b7a8b25], der keine Früchte trägt, sondern zu einem heiligen Hain gehört\. Denn die einen sind Bäume für einen heiligen Hain, die anderen sind fruchttragende Bäume\. Wenn man Bäume für einen heiligen Hain pflanzt, pflanzt man keine Obstbäume, keine Feigenbäume oder Weinstöcke, sondern fruchtlose Bäume, die allein dem Vergnügen dienen\. So verhält es sich, wie du siehst, mit den Worten der Häretiker und der Schönheit ihrer höchst überzeugenden Gedanken: Sie bessern die Hörer nicht\. Wenn sich also jemand solchen Worten hingibt, hat er sich unter jeden Baum eines heiligen Hains[^bible-7d18b6d1-e174-49c8-9dc8-cd7b8b7a8b25] begeben\. Er hat nicht „jeden Baum[^bible-7d18b6d1-e174-49c8-9dc8-cd7b8b7a8b25]“ gesagt und es dabei belassen; auch hat er nicht „jeden fruchttragenden Baum“ hinzugefügt\. Vielmehr hat er gesagt: „unter jedem Baum eines heiligen Hains[^bible-7d18b6d1-e174-49c8-9dc8-cd7b8b7a8b25]“\. Daher kannst du verstehen, warum der Gesetzgeber einst sagte: „Du sollst vor dem Altar des Herrn, deines Gottes, nicht jeden Baum pflanzen und keinen heiligen Hain anlegen\.[^bible-f0aa13fc-ebfc-4765-a81f-4f9273255f4a]“ Denn du hast sogar die Bezeichnung „heiliger Hain“ verworfen\.
+
+## Bibelverweise
+
+[^bible-18c24f07-fef2-43f1-b2d2-3fa20db5126e]: Lk 18,13
+[^bible-2fee5060-bc55-4165-b069-8e7ca8d7686d]: Röm 11,22
+[^bible-40ff9d9f-d67b-4741-8fa8-3e3daf634711]: Röm 11,17
+[^bible-562db8e3-0f7b-4c34-907c-6dd69ff6519d]: Jer 3,8
+[^bible-7a8a24b4-8541-4e84-9c8e-66242a32a692]: Lk 18,11–Lk 18,12
+[^bible-7d18b6d1-e174-49c8-9dc8-cd7b8b7a8b25]: Jer 3,6
+[^bible-d034776b-e4fb-4c54-b43e-c5720b4803df]: Lk 18,10
+[^bible-e80cefec-1f8e-428d-bc8b-b9aa9dabb9f3]: Röm 11,21
+[^bible-f0aa13fc-ebfc-4765-a81f-4f9273255f4a]: Dtn 16,21
