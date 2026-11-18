@@ -1,0 +1,16 @@
+# 10\. Homilie über Jeremia – Kapitel 6: Die trauernde Erde meint ihren Engel, der über die Sünden ihrer Bewohner trauert
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/origenes-10-homilie-ueber-jeremia#kapitel-24276923-d236-4b3a-7756-08df44cc0222).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Wie lange wird die Erde trauern und das Gras des Feldes wegen der Bosheit ihrer Bewohner vertrocknen?[^bible-ed76ad86-b817-480d-be05-ff657dac7338]“ Der Prophet spricht hier wieder so, als wäre die Erde lebendig, wenn er sagt, dass „die Erde wegen der Bosheit derer trauert, die auf ihr gehen[^bible-ed76ad86-b817-480d-be05-ff657dac7338]“\. Um jeden von uns trauert die Erde also oder freut sich über ihn\. Denn entweder trauert sie über die Bosheit ihrer Bewohner[^bible-ed76ad86-b817-480d-be05-ff657dac7338] oder freut sich über deren Tugend\. Für jeden von uns gilt also: Das Element selbst freut sich über uns oder trauert um uns\. Wenn aber die Erde das tut, dann vielleicht auch die übrigen Elemente\. Dasselbe will ich auch vom Wasser und dem Engel sagen, der über das Wasser gesetzt ist, um zu erörtern, inwiefern die Erde trauert oder nicht trauert\. Denn dieser Körper, die Erde, trauert nicht wegen seiner Bewohner\. Bedenke vielmehr bitte: Für die Ordnung aller Dinge ist ein bestimmter Engel über die Erde gesetzt, ein anderer über die Gewässer, ein weiterer über die Luft und ein vierter über das Feuer\. Steige also mit mir in Gedanken zu der Ordnung auf, die in den Tieren, den Pflanzen und den Sternen des Himmels besteht\. Auch über die Sonne ist ein Engel gesetzt, ein anderer über den Mond und wieder ein anderer über die Sterne\. Diese Engel, mit denen wir zusammen sind, solange wir auf der Erde leben, freuen sich über uns oder trauern um uns, wenn wir sündigen\. „Die Erde trauert[^bible-ed76ad86-b817-480d-be05-ff657dac7338]“, sagt er, „wegen ihrer Bewohner\.[^bible-ed76ad86-b817-480d-be05-ff657dac7338]“ Den Engel der Erde nennt er mit demselben Namen: Erde\. Denn es ist wie bei dem Wort: „Schwer verflucht ist das von Hand Gemachte und der, der es gemacht hat\.[^bible-03b859f7-b267-4589-87d1-ed77f148bd95]“ Nicht das Leblose selbst ist verflucht; vielmehr meint er mit dem „von Hand Gemachten[^bible-03b859f7-b267-4589-87d1-ed77f148bd95]“ das, was sich sorgsam um das leblose Standbild kümmert und diesen Namen trägt\. Ebenso will ich auch sagen, dass mit der Erde der Engel gemeint ist, der über die Erde gesetzt ist\. Und mit dem Wasser ist der Engel gemeint, der über das Wasser gesetzt ist, entsprechend dem Wort: „Die Wasser sahen dich, o Gott, die Wasser sahen dich und fürchteten sich; die Tiefe geriet in Aufruhr unter vielfachem Tosen der Wasser, die Wolken ließen ihre Stimme hören, denn auch deine Pfeile fuhren hindurch\.[^bible-8ba33ab6-94a0-44da-af83-42611ef63410]“
+
+## Bibelverweise
+
+[^bible-03b859f7-b267-4589-87d1-ed77f148bd95]: Weish 14,8
+[^bible-8ba33ab6-94a0-44da-af83-42611ef63410]: Ps 76,17–Ps 76,18
+[^bible-ed76ad86-b817-480d-be05-ff657dac7338]: Jer 12,4
