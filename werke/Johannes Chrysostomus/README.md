@@ -7,6 +7,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Werksammlungen
 
 - [Einzelne Predigten](Einzelne%20Predigten/) · 12 Werke
+- [Gegen die Gegner des Mönchslebens](Gegen%20die%20Gegner%20des%20M%C3%B6nchslebens/) · 1 Werk
 - [Homilien über Genesis](Homilien%20%C3%BCber%20Genesis/) · 67 Werke
 - [Homilien über Matthäus](Homilien%20%C3%BCber%20Matth%C3%A4us/) · 90 Werke
 - [Homilien über Philemon](Homilien%20%C3%BCber%20Philemon/) · 4 Werke
@@ -19,6 +20,5 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Einzelwerke
 
 - [Dass Frauen nicht mit Männern zusammenwohnen sollen](Dass%20Frauen%20nicht%20mit%20M%C3%A4nnern%20zusammenwohnen%20sollen/) · 12 Kapitel
-- [Gegen die Gegner des Mönchslebens, Buch 3](Gegen%20die%20Gegner%20des%20M%C3%B6nchslebens%2C%20Buch%203/) · 21 Kapitel
 - [Zwei Ermahnungen an den gefallenen Theodor](Zwei%20Ermahnungen%20an%20den%20gefallenen%20Theodor/) · 24 Kapitel
 - [Über Eitelkeit und den richtigen Weg für Eltern, ihre Kinder zu erziehen](%C3%9Cber%20Eitelkeit%20und%20den%20richtigen%20Weg%20f%C3%BCr%20Eltern%2C%20ihre%20Kinder%20zu%20erziehen/) · 90 Kapitel

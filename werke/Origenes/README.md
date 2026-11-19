@@ -9,7 +9,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Fragmente zu Exodus](Fragmente%20zu%20Exodus/) · 3 Werke
 - [Fragmente zu Genesis](Fragmente%20zu%20Genesis/) · 3 Werke
 - [Gegen Celsus](Gegen%20Celsus/) · 8 Werke
-- [Homilien über Jeremia](Homilien%20%C3%BCber%20Jeremia/) · 16 Werke
+- [Homilien über Jeremia](Homilien%20%C3%BCber%20Jeremia/) · 22 Werke
 - [Homilien über Josua (Jesus)](Homilien%20%C3%BCber%20Josua%20%28Jesus%29/) · 26 Werke
 - [Homilien über Levitikus](Homilien%20%C3%BCber%20Levitikus/) · 16 Werke
 - [Homilien über Lukas](Homilien%20%C3%BCber%20Lukas/) · 39 Werke

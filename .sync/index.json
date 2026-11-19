@@ -4504,8 +4504,8 @@
     "workId": "49eff90e-3275-4c00-a66e-08df44cc0105",
     "authorName": "Johannes Chrysostomus",
     "title": "Gegen die Gegner des Mönchslebens, Buch 3",
-    "directory": "werke/Johannes Chrysostomus/Gegen die Gegner des Mönchslebens, Buch 3",
-    "contentRevision": "sha256:5d92eb103a90f535f0b9097abfb132af02bc0e46c3ce7ab4440913a9db6eca64"
+    "directory": "werke/Johannes Chrysostomus/Gegen die Gegner des Mönchslebens/Gegen die Gegner des Mönchslebens, Buch 3",
+    "contentRevision": "sha256:a5813a7ce5a423a2fc530d66a391ad83f9bc3ef5076184b452f473074277c7b0"
   },
   {
     "workId": "58b85d91-0a13-4b85-6190-08df382da9a2",
@@ -5257,6 +5257,13 @@
     "contentRevision": "sha256:2b95eb896f32243279af15e1beb3a9c609fd746119bc0bbfd5ca79f4155a58b0"
   },
   {
+    "workId": "42e1cce6-4fcf-4322-a670-08df44cc0105",
+    "authorName": "Origenes",
+    "title": "1. Homilie über Jeremia",
+    "directory": "werke/Origenes/Homilien über Jeremia/1. Homilie über Jeremia",
+    "contentRevision": "sha256:2c4c66dfb76ee5a67330adcb65c677c60b914fc89e1a2ba27b1aa1063842a59e"
+  },
+  {
     "workId": "17034cf8-2b48-4c6e-5476-08ddc777b053",
     "authorName": "Origenes",
     "title": "1. Homilie über Josua (Jesus)",
@@ -5404,6 +5411,13 @@
     "contentRevision": "sha256:230de4f83245f6413508417027eee2a35327b3b09d532460fc04849b088c95a6"
   },
   {
+    "workId": "8ba2af24-be41-41af-44b9-08dddb6bb68a",
+    "authorName": "Origenes",
+    "title": "12. Homilie über Jeremia",
+    "directory": "werke/Origenes/Homilien über Jeremia/12. Homilie über Jeremia",
+    "contentRevision": "sha256:e68450c8041c6226d0ddd1db38f87ac4d39dd28e18532b9871c67e28ebe525a4"
+  },
+  {
     "workId": "2081e8ae-8979-47fd-5ba6-08df27871084",
     "authorName": "Origenes",
     "title": "12. Homilie über Josua (Jesus)",
@@ -5495,6 +5509,13 @@
     "contentRevision": "sha256:55cde64481b64f3d91551226bd56ae74cf4800ed22a83d9d0e5ad40edebc3365"
   },
   {
+    "workId": "9b3e24a0-be13-4aa3-a67b-08df44cc0105",
+    "authorName": "Origenes",
+    "title": "14. Homilie über Jeremia",
+    "directory": "werke/Origenes/Homilien über Jeremia/14. Homilie über Jeremia",
+    "contentRevision": "sha256:86f25c5ce5173bf9ffa8e707b3dc02c943791c26950a59eb4d8123988c20986e"
+  },
+  {
     "workId": "d9422041-d2bd-4078-97d0-08df1efbfc61",
     "authorName": "Origenes",
     "title": "14. Homilie über Josua (Jesus)",
@@ -5565,6 +5586,20 @@
     "contentRevision": "sha256:a2e0af51a866cc003f0a8830fee5c4d167f6d8b277c1e79c57eb5eb7bab03908"
   },
   {
+    "workId": "3d212166-8be1-41bc-9fa4-08df227459a9",
+    "authorName": "Origenes",
+    "title": "15. Predigt zu Jeremia",
+    "directory": "werke/Origenes/Homilien über Jeremia/15. Predigt zu Jeremia",
+    "contentRevision": "sha256:a3002fdccde0ccf2fc691d705ba06d275629533e561b6011f3801cb331283f28"
+  },
+  {
+    "workId": "0dc0df99-9182-4f50-a67c-08df44cc0105",
+    "authorName": "Origenes",
+    "title": "16. Homilie über Jeremia",
+    "directory": "werke/Origenes/Homilien über Jeremia/16. Homilie über Jeremia",
+    "contentRevision": "sha256:e500f9f5714505e7a5f48591c9a843ce6c76e10e72fbc63813f6c9ea1e947a74"
+  },
+  {
     "workId": "f5ca6b07-a203-4f79-5ba7-08df27871084",
     "authorName": "Origenes",
     "title": "16. Homilie über Josua (Jesus)",
@@ -5628,6 +5663,13 @@
     "contentRevision": "sha256:31d3c5e28725c60b7817bc6a7f2eb55e88cf7b49036b2dbb59cb0d9b3a3c3f23"
   },
   {
+    "workId": "95e3696d-4a35-409c-b029-08df130d01a4",
+    "authorName": "Origenes",
+    "title": "18. Homilie über Jeremia",
+    "directory": "werke/Origenes/Homilien über Jeremia/18. Homilie über Jeremia",
+    "contentRevision": "sha256:a17ea89bb4a4b11ad00b0c485e72ef58038bc329eab0211f77094673de81af8c"
+  },
+  {
     "workId": "de189973-d22d-4353-5ba9-08df27871084",
     "authorName": "Origenes",
     "title": "18. Homilie über Josua (Jesus)",
@@ -5653,7 +5695,7 @@
     "authorName": "Origenes",
     "title": "19. Homilie über Jeremia",
     "directory": "werke/Origenes/Homilien über Jeremia/19. Homilie über Jeremia",
-    "contentRevision": "sha256:f66c1acfd15f8578cdfa2a07247808940939cba5af0adcb87944750325c50ad2"
+    "contentRevision": "sha256:a91548ee7b274a849b1ad1754202bed6629a23907a36cf56d288e63abe023125"
   },
   {
     "workId": "d50bdfcc-adcb-4a87-5baa-08df27871084",
@@ -5737,7 +5779,7 @@
     "authorName": "Origenes",
     "title": "20. Homilie über Jeremia",
     "directory": "werke/Origenes/Homilien über Jeremia/20. Homilie über Jeremia",
-    "contentRevision": "sha256:3d4899cc10d10f0aa852fb949ab24e83e2e23f854c30c73b74ef457b480bc396"
+    "contentRevision": "sha256:beb8f0d0b473afa7605620449e3c36afbd84fc7ad3ba1cfde267bd6870624c49"
   },
   {
     "workId": "f0563135-e162-462a-5bab-08df27871084",
@@ -5940,7 +5982,7 @@
     "authorName": "Origenes",
     "title": "3. Homilie über Jeremia",
     "directory": "werke/Origenes/Homilien über Jeremia/3. Homilie über Jeremia",
-    "contentRevision": "sha256:b7c334997fc31510cca4e04fddd7e315d57d19729ba35fd058275399483c5912"
+    "contentRevision": "sha256:4af076a91100679450e2574d3b36d939ae144136056b5ae28a2f368a446b6951"
   },
   {
     "workId": "a7db0097-caff-4422-97a6-08df1efbfc61",
@@ -6066,7 +6108,7 @@
     "authorName": "Origenes",
     "title": "4. Homilie über Jeremia",
     "directory": "werke/Origenes/Homilien über Jeremia/4. Homilie über Jeremia",
-    "contentRevision": "sha256:cd10ccf304dfde7e34c1546c2698e27b393d9b3ffe5fa45f06b4dc583dae78c9"
+    "contentRevision": "sha256:0f67e3c41402b5b31cba3cecc25ebeaee50153dbd9db556f10352d7337883a29"
   },
   {
     "workId": "33266379-86d9-4fe2-3d59-08df23bd2351",
@@ -6122,7 +6164,7 @@
     "authorName": "Origenes",
     "title": "5. Homilie über Jeremia",
     "directory": "werke/Origenes/Homilien über Jeremia/5. Homilie über Jeremia",
-    "contentRevision": "sha256:235c227a341f5eeff3ae30c07d6904879ddfbd0ff6bfeb30c2b313fedb8830d9"
+    "contentRevision": "sha256:790d8035a09bfb87360a1b589f2b15fa2dabfe038d78e8b9065d3adc352f5923"
   },
   {
     "workId": "53ab7d79-123c-4e49-3d5a-08df23bd2351",
