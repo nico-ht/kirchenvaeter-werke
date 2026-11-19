@@ -1,0 +1,19 @@
+# 12\. Homilie über Jeremia – Kapitel 10: Die „kurze Zeit“ des göttlichen Zorns bemisst sich an Gott und kann für Menschen ganze Zeitalter dauern
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/12-homilie-ueber-jeremia#kapitel-05f88d8f-d637-4aa9-77b9-08df44cc0222).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Vielleicht verstehen wir das Geschriebene, wenn wir uns mit einem Wort des Erlösers aus dem Evangelium befassen, das diesen Gedanken so ausdrückt: „Arbeitet, solange es Tag ist\. Es kommt die Nacht, in der niemand arbeiten kann\.[^bible-e4cb5f27-47f2-46a4-b702-8ef40e25e914]“ Er hat hier dieses Zeitalter als Tag bezeichnet\. Das Wort „hier“ musste ich allerdings hinzufügen, denn ich weiß, dass an anderen Stellen andere Bedeutungen zum Ausdruck kommen\. Er hat also dieses Zeitalter als Tag bezeichnet, die Vollendung aber wegen der Strafen als Finsternis und Nacht\. Denn „warum verlangt ihr nach dem Tag des Herrn? Und er ist Finsternis und nicht Licht[^bible-c6846f15-08e4-4fe8-bc36-8b714eaf9e3f]“, sagt der Prophet Amos\. Wenn du dir vorstellen kannst, welches Dunkel nach der Vollendung der Welt herrscht, ein Dunkel, das fast alle Menschen verfolgt, die wegen ihrer Sünden bestraft werden, dann wirst du sehen, dass sich die Luft zu jener Zeit verdunkeln wird und niemand jemals wieder Gott die Ehre geben kann\. Denn das Wort hat den Gerechten befohlen: „Geh, mein Volk, tritt in deine Kammern ein, schließ deine Tür, verbirg dich für kurze Zeit, bis die Gewalt meines Zorns vorüber ist\.[^bible-cc8c875f-f423-4d1f-8d1a-4386b747ea49]“
+
+Halte dir aber, wenn du kannst, vor Augen, dass er an diesen Stellen zugleich „für kurze Zeit[^bible-cc8c875f-f423-4d1f-8d1a-4386b747ea49]“ gesagt hat\. Diese kurze Zeit ist zwar für Gott kurz, für den Menschen aber nicht\. Denn man muss erkennen, dass es vom Einzelnen abhängt, was wenig und was viel ist\. Ich werde an einem Beispiel zeigen, dass es vom Einzelnen abhängt, was wenig oder viel ist\. Für jedes Lebewesen gilt: Ob eine Nahrungsmenge gering ist, hängt von seinem Körperbau ab; ob eine Nahrungsmenge groß ist, hängt wiederum von seiner körperlichen Beschaffenheit ab\. Ebenso ist das, was für den Menschen wenig ist, für ein anderes Lebewesen viel\. Was für einen erwachsenen Mann sozusagen wenig ist, ist für einen Säugling viel\. Ebenso sind die gesamte Lebenszeit eines Menschen und die eines alten Mannes eine kurze Zeit im Vergleich zur gesamten Dauer des gegenwärtigen Zeitalters\. Ferner ist das, was für Gott wenig ist, für uns viel, und was für Gott eine kurze Zeit ist, ist ein ganzes Zeitalter\. Wenn er also gesagt hat: „Geh, mein Volk, tritt in deine Kammern ein, schließ deine Tür, verbirg dich für kurze Zeit[^bible-cc8c875f-f423-4d1f-8d1a-4386b747ea49]“, muss man verstehen, dass diese kurze Zeit nicht im Verhältnis zu dem angegeben ist, der den Befehl erhält, zu gehen und in seine Kammern einzutreten[^bible-cc8c875f-f423-4d1f-8d1a-4386b747ea49], sondern im Verhältnis zu dem, der dies befiehlt\. Was für ihn wenig ist, ist für den anderen viel\. Denn wenn es notwendig ist, dass einige in ihre Kammern eintreten, bis die Gewalt des Zorns Gottes vorüber ist[^bible-cc8c875f-f423-4d1f-8d1a-4386b747ea49], während anderen die Sünden nicht nur während dieses ganzen Zeitalters, sondern auch während des ganzen künftigen Zeitalters nicht vergeben werden[^bible-1ef54071-52c2-4571-996d-4a31ee83cbf2], dann ist klar, dass sich die kurze Zeit über die genannten Zeiträume erstreckt\.
+
+## Bibelverweise
+
+[^bible-1ef54071-52c2-4571-996d-4a31ee83cbf2]: Mt 12,32
+[^bible-c6846f15-08e4-4fe8-bc36-8b714eaf9e3f]: Am 5,18
+[^bible-cc8c875f-f423-4d1f-8d1a-4386b747ea49]: Jes 26,20
+[^bible-e4cb5f27-47f2-46a4-b702-8ef40e25e914]: Joh 9,4
