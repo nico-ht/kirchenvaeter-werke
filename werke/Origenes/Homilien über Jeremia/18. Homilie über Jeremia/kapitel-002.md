@@ -1,0 +1,40 @@
+# 18\. Homilie über Jeremia – Kapitel 2: Aufstieg und Abstieg zum Wort erschließen die himmlischen und die unteren Dinge
+
+Autor: Origenes
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/origenes/18-predigt-zu-jeremia#kapitel-e86700d1-6e34-4a3f-77be-08df44cc0222).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Betrachten wir aber anhand desselben Textes, was über das Tongefäß in der Hand des Töpfers[^bible-81f7168e-1027-4a9a-a5c1-35a7b05acc9d] gesagt wird und wie das Wort im Propheten, der Herr, der in ihm weissagt, auch nicht wenige weitere Anhaltspunkte bietet, um die Aussagen über das Gebilde in der Hand des Töpfers[^bible-81f7168e-1027-4a9a-a5c1-35a7b05acc9d] zu deuten\.
+
+Das Wort, das vom Herrn an Jeremia erging[^bible-e295ae2f-eea3-41fe-bc8b-1dd82f9c1b87], sprach: „Steh auf und geh hinab zum Haus des Töpfers\.[^bible-605e8e38-b062-48ae-ad6b-54d6ad008c52]“ Jeremia ist oben; er ist über die Tongefäße hinaufgestiegen\. Das Tongefäß ist unten, und auch das Wesen, das über die Tongefäße waltet, ist unten, wenn es sich zu denen herablässt, über die es waltet\. Deshalb sagte das Wort, das vom Herrn an Jeremia erging[^bible-e295ae2f-eea3-41fe-bc8b-1dd82f9c1b87], zu ihm: „Steh auf und geh hinab zum Haus des Töpfers; dort wirst du meine Worte hören\.[^bible-605e8e38-b062-48ae-ad6b-54d6ad008c52]“ Zu Mose heißt es: „Geh hinauf auf den Berg und höre\.[^bible-a523cca2-b688-4f6d-b39e-db666ca51a46]“ Zu Jeremia heißt es: „Geh hinab zum Haus des Töpfers und höre\.[^bible-605e8e38-b062-48ae-ad6b-54d6ad008c52]“ Denn jeder, der Worte hört, wird entweder über die Dinge oben belehrt oder lernt etwas über die Dinge unten\. Wenn ich über das belehrt werde, was unten ist, gehe ich zum Wort hinab, um die Dinge unten zu erkennen\. Lerne ich aber die Dinge oben kennen, so gehe ich ihretwegen zum Wort hinauf, um das zu betrachten, was dort ist\.
+
+Damit du aber allem Gesagten nach deinen Kräften folgen kannst, werde ich auch ein Beispiel aus der Schrift heranziehen\. Mit diesem Beispiel werde ich dir zugleich eine Erläuterung geben, die dich in die gewährte Deutung einführt\. „Im Namen Jesu soll sich jedes Knie beugen, im Himmel, auf der Erde und unter der Erde, und jede Zunge wird bekennen, dass Jesus Christus der Herr ist, zur Ehre Gottes, des Vaters\.[^bible-87c3a496-b6fa-4b98-9f05-bd98bc6d1c61]“ Und für jeden dieser Bereiche gibt es eine bestimmte Weisheit: eine Weisheit über den Himmel, darüber, wie die himmlischen Dinge geordnet sind, und eine Weisheit über das, was unter der Erde ist\. Denn die Weisheit Gottes betrifft auch die Ordnung dessen, was unter der Erde ist, ebenso wie die Ordnung dessen, was auf der Erde ist\. Wenn ich die Weisheit über die himmlischen Dinge erfassen will, steige ich in die himmlischen Bereiche hinauf, wie Mose zum Gipfel des Berges hinaufgestiegen war[^bible-bef99611-dfb8-456b-9f93-74568573b1c6], damit er, wie geschrieben steht, „die Stimme aus dem Himmel hören konnte[^bible-792c3340-629c-4735-9c15-50da90ac7ef2]“\. Denn er sollte in den himmlischen Formen des Gottesdienstes unterwiesen werden\. In den Gesetzen, die oben niedergeschrieben wurden, finden sich nämlich Schatten und Abbilder göttlicher Geheimnisse[^bible-c57898d5-175f-49c8-8d29-eca7af171ae5], wie der Apostel lehrte, als er sagte: „die als Abbild und Schatten des himmlischen Heiligtums dienen\.[^bible-c57898d5-175f-49c8-8d29-eca7af171ae5]“ So wie ich also hinaufsteige, wenn ich über die himmlischen Dinge belehrt werden will, steige ich hinab, wenn ich etwas über die Dinge unter der Erde lernen muss, selbst wenn ich ein Prophet werde\. Vielleicht ist deshalb auch Samuel, als er über die Dinge unter der Erde belehrt wurde, hinabgestiegen und war im Hades[^bible-96357df0-f3ca-420a-8d75-2f833127aacc]\. Er war allerdings nicht aufgrund einer Verurteilung im Hades, sondern war dorthin gekommen, um die Geheimnisse der Dinge unter der Erde zu beobachten und zu betrachten\.
+
+Ein solches Verständnis kann auch in den Worten des Apostels über die Weisheit zum Ausdruck kommen, mit denen er uns aufträgt zu erkennen, „was Breite und Länge und Tiefe und Höhe sind[^bible-5d0da362-29f1-4f0a-82b9-84ab184c4510]“\. Du wirst die Höhe erkennen, wenn du zum Wort in seiner Höhe hinaufsteigst\. Du wirst die Tiefe erkennen, wenn du zum Wort in seiner Tiefe hinabsteigst\. Du wirst die Mitte zwischen Höhe und Tiefe erkennen, wenn du die Breite und Länge erkennst\. Der Verstand, der dem Sohn Gottes folgen kann, gelangt überallhin, wenn ihn das Wort führt, das über alles belehrt; und er folgt ihm, wenn er der Welt entsagt und sein Kreuz auf sich genommen hat[^bible-58a36e41-49d1-488e-bd45-0bad25fd295f]\. Denn wer sagen kann: „Die Welt ist mir gekreuzigt und ich der Welt[^bible-118d866b-b50e-427f-a2c4-46d301822cc0]“, der kann Jesus folgen\.
+
+Wir müssen die Stelle erklären: „Geh hinab zum Haus des Töpfers, und dort wirst du meine Worte hören\.[^bible-35c93b79-6778-4c7d-ad30-6a0f40b82ad8]“ Denn wir müssen sie mit der Stelle vergleichen: „Geh hinauf, und du wirst meine Worte hören\.“ Unter denen, die hören, steigen nämlich manche hinauf, um belehrt zu werden; doch ihr Aufstieg ist nicht ganz und gar körperlich\. Und manche steigen hinab und haben dabei ihre Seele oben, um das Wort zu schauen, das über den Dingen unten steht\. Mein Herr Jesus Christus ist selbst hinaufgestiegen und hinabgestiegen\.[^bible-047822ac-842c-4f7c-b4f4-c8acde7ad320] Denn wer hinaufgestiegen ist, ist auch der, der hinabgestiegen ist\. Er ist weit über den Himmeln\.[^bible-6c6ab8c0-faa4-4455-8c25-2bae2cb92f9e] Wenn du also den begreifen willst, der nach oben hinaufgestiegen ist, das Wort, das über die Dinge oben belehrt, dann verstehe den, der zu den Dingen unten hinabsteigt und über die Dinge unten belehrt\. Sage nicht[^bible-8471fbda-230d-41bc-acaa-69d5fffb576d]: „Wer wird in den Himmel hinaufsteigen?[^bible-8471fbda-230d-41bc-acaa-69d5fffb576d]“ \(das heißt: Christus herabzuholen[^bible-8471fbda-230d-41bc-acaa-69d5fffb576d]\), „oder wer wird in den Abgrund hinabsteigen?[^bible-18118eda-3faf-4961-894f-416387509da4]“ \(das heißt: Christus von den Toten heraufzuholen[^bible-18118eda-3faf-4961-894f-416387509da4]\)\. Aber was sagt die Schrift? „Das Wort ist dir nahe, auf deinen Lippen und in deinem Herzen\.[^bible-a30f51de-45b1-4be6-b6d8-94bd95690c1c]“ Durch dieses Wort steigst du zum Himmel hinauf\. Und was den Weg nach oben betrifft, so ist dir das Wort nahe[^bible-a30f51de-45b1-4be6-b6d8-94bd95690c1c], und was die Dinge unten betrifft, so ist dir das Wort nahe[^bible-a30f51de-45b1-4be6-b6d8-94bd95690c1c]\. Denn was kann der heilige Mensch anderes in sich haben als das Wort, das überall ist? Denn das Himmelreich ist in euch\.[^bible-23e96d7f-38da-4dc1-9b25-f036a0d708fe]
+
+## Bibelverweise
+
+[^bible-047822ac-842c-4f7c-b4f4-c8acde7ad320]: Eph 4,9–Eph 4,10
+[^bible-118d866b-b50e-427f-a2c4-46d301822cc0]: Gal 6,14
+[^bible-18118eda-3faf-4961-894f-416387509da4]: Röm 10,7
+[^bible-23e96d7f-38da-4dc1-9b25-f036a0d708fe]: Lk 17,21
+[^bible-35c93b79-6778-4c7d-ad30-6a0f40b82ad8]: Jer 18,2
+[^bible-58a36e41-49d1-488e-bd45-0bad25fd295f]: Mt 16,24
+[^bible-5d0da362-29f1-4f0a-82b9-84ab184c4510]: Eph 3,18
+[^bible-605e8e38-b062-48ae-ad6b-54d6ad008c52]: Jer 18,2
+[^bible-6c6ab8c0-faa4-4455-8c25-2bae2cb92f9e]: Eph 4,10
+[^bible-792c3340-629c-4735-9c15-50da90ac7ef2]: Dtn 4,36
+[^bible-81f7168e-1027-4a9a-a5c1-35a7b05acc9d]: Jer 18,4
+[^bible-8471fbda-230d-41bc-acaa-69d5fffb576d]: Röm 10,6
+[^bible-87c3a496-b6fa-4b98-9f05-bd98bc6d1c61]: Phil 2,10–Phil 2,11
+[^bible-96357df0-f3ca-420a-8d75-2f833127aacc]: 1Sam 28,13–1Sam 28,15
+[^bible-a30f51de-45b1-4be6-b6d8-94bd95690c1c]: Röm 10,8
+[^bible-a523cca2-b688-4f6d-b39e-db666ca51a46]: Ex 24,12
+[^bible-bef99611-dfb8-456b-9f93-74568573b1c6]: Ex 19,20
+[^bible-c57898d5-175f-49c8-8d29-eca7af171ae5]: Hebr 8,5
+[^bible-e295ae2f-eea3-41fe-bc8b-1dd82f9c1b87]: Jer 18,1
