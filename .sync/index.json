@@ -2275,6 +2275,48 @@
     "contentRevision": "sha256:79c47af5ffefaf8c51266ecf6e3036fc370c2bbfc62369f43091274bbb74cd5c"
   },
   {
+    "workId": "9e1e2185-6fba-490f-ccfa-08df46e3c72c",
+    "authorName": "Gregor der Große",
+    "title": "Auslegung zu Hiob, Buch 1",
+    "directory": "werke/Gregor der Große/Auslegungen zu Hiob/Auslegung zu Hiob, Buch 1",
+    "contentRevision": "sha256:1cca8395d061970cbfd63951a724e47e8e6c11a2e9da20b5685ccabe122786f4"
+  },
+  {
+    "workId": "32e64288-0393-40ca-cd04-08df46e3c72c",
+    "authorName": "Gregor der Große",
+    "title": "Auslegung zu Hiob, Buch 12",
+    "directory": "werke/Gregor der Große/Auslegungen zu Hiob/Auslegung zu Hiob, Buch 12",
+    "contentRevision": "sha256:d36e041acba5caaec20af0492ff407f649fa3e5ce47b88d4f7cbc1d11eb0f85d"
+  },
+  {
+    "workId": "4e40c05c-e7e8-4a7c-9136-08df200aaa32",
+    "authorName": "Gregor der Große",
+    "title": "Auslegung zu Hiob, Buch 2",
+    "directory": "werke/Gregor der Große/Auslegungen zu Hiob/Auslegung zu Hiob, Buch 2",
+    "contentRevision": "sha256:fac1204bb0c9a3812d4ccda56e961be3fca7ed4438f749d859a4ce2f599cc937"
+  },
+  {
+    "workId": "6092f3a1-284e-401a-cd0c-08df46e3c72c",
+    "authorName": "Gregor der Große",
+    "title": "Auslegung zu Hiob, Buch 21",
+    "directory": "werke/Gregor der Große/Auslegungen zu Hiob/Auslegung zu Hiob, Buch 21",
+    "contentRevision": "sha256:ee00bb75119fbb5807719a95f2c9bd0128dc574782d2101e5148552abb60e87a"
+  },
+  {
+    "workId": "0de95b9a-8681-43d7-cd0d-08df46e3c72c",
+    "authorName": "Gregor der Große",
+    "title": "Auslegung zu Hiob, Buch 22",
+    "directory": "werke/Gregor der Große/Auslegungen zu Hiob/Auslegung zu Hiob, Buch 22",
+    "contentRevision": "sha256:86124a28699fb7e581db3355d66a56a8f4108906b36a1dd137fa8145b1f527f4"
+  },
+  {
+    "workId": "fb970da8-eab6-444d-cd13-08df46e3c72c",
+    "authorName": "Gregor der Große",
+    "title": "Auslegung zu Hiob, Buch 28",
+    "directory": "werke/Gregor der Große/Auslegungen zu Hiob/Auslegung zu Hiob, Buch 28",
+    "contentRevision": "sha256:8f2e347af5753e5d10af179fd9f5d846d49dcaef04052fa89be20b90bc2063e9"
+  },
+  {
     "workId": "d4dc0cb4-27f5-422b-47c4-08dd468a1db5",
     "authorName": "Gregor der Große",
     "title": "Hirtenregel, Buch 1",
@@ -3371,7 +3413,7 @@
     "authorName": "Johannes Chrysostomus",
     "title": "29. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/29. Homilie über Matthäus",
-    "contentRevision": "sha256:02adfe548f775e1ad078d9f37b407268374fbd4530917912c7a5d87f38002f4d"
+    "contentRevision": "sha256:ffc1a24537dcdcdd6958db027f4f0b9ac7698185c45f00b25f5eb1428f724394"
   },
   {
     "workId": "ac82285c-5ed2-458d-1b70-08dd32f4f052",
