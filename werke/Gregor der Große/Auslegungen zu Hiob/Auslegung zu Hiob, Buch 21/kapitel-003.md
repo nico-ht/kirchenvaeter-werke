@@ -1,0 +1,14 @@
+# Auslegung zu Hiob, Buch 21 – Kapitel 3: Hiobs Taten sind vor allem als Geschichte zu lesen, da sein Bericht nur vereinzelt einen geistlichen Sinn eröffnet
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-21#kapitel-c9f71720-b0bc-4575-10ce-08df46e3c7cb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Denn die Worte Gottes sind bald auf ihren inneren Sinn hin zu erforschen, bald ihrem äußeren Sinn gemäß zu befolgen\. Darum heißt es auch bei Salomo: „Wer die Euter kräftig drückt, um Milch zu gewinnen, presst Butter heraus; und wer mit Gewalt presst, bringt Blut hervor[^bible-b9a4ae25-d719-4690-a3fc-4c1b20efeb48]\.“ Wir drücken die Euter kräftig, wenn wir die Worte der Heiligen Schrift mit feinem Verständnis abwägen\. Bei diesem Druck suchen wir Milch und finden Butter\. Denn wenn wir uns auch nur von einem geringen Maß an Verständnis zu nähren suchen, werden wir mit der Fülle des inneren Fettes gesalbt\. Doch dürfen wir das weder übertreiben noch immer tun, damit nicht Blut kommt, wenn wir aus den Eutern Milch zu gewinnen suchen\. Denn es geschieht oft, dass manche in ein fleischliches Verständnis verfallen, wenn sie die Worte der Heiligen Schrift über Gebühr untersuchen\. Denn „wer mit Gewalt presst, bringt Blut hervor“: Was man bei übermäßiger Erforschung des geistlichen Sinns erfasst, wird fleischlich\. Deshalb müssen wir die Taten des seligen Hiob so erforschen, wie es dem Gewicht der geschichtlichen Erzählung entspricht\. Mitten unter den Vorwürfen seiner Freunde erzählt Hiob von diesen Taten, damit sein gequältes Herz nicht in Verzweiflung versinkt\. Denn wenn unser Geist mehr als nötig nach ihrem geistlichen Sinn forscht, könnte uns aus den Eutern seiner Worte Blut statt Milch entgegenkommen\. Wenn er aber hier und da etwas von geheimnisvoller Bedeutung in die Erzählung seiner Taten einflicht, muss unser Geist sich rasch wieder dem zuwenden, wozu ihn, wie sich erkennen lässt, der Gang seiner Rede selbst ruft\. Denn der heilige Mann hat zunächst erzählt, was ihm durch die Geißel des Herrn zugefügt worden war\. Nun zählt er der Reihe nach seine Tugenden auf und lässt erkennen, wie er war, ehe ihn die Geißel traf\. Dabei webt er die Geschichte seines Lebens so, dass er nur ganz selten etwas einflicht, das sich allegorisch verstehen lässt\. So ist sein Bericht zum größten Teil geschichtlich, und dennoch erhebt er sich bisweilen gerade durch das, was er erzählt, zu einem geistlichen Verständnis\. Mit welcher Kraft er also sein äußeres Tun durch die Disziplin innerer Wachsamkeit im Zaum hielt und so vor jedem Fehltritt bewahrte, zeigt er mit den Worten:
+
+## Bibelverweise
+
+[^bible-b9a4ae25-d719-4690-a3fc-4c1b20efeb48]: Spr 30,33

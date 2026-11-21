@@ -1,0 +1,19 @@
+# Auslegung zu Hiob, Buch 21 – Kapitel 8: Das Leid bereitet die Gerechten auf das ewige Erbe vor, während das Glück der Frevler im Untergang endet
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-21#kapitel-46aefd57-f77f-46cd-10d3-08df46e3c7cb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Steht nicht dem Frevler der Untergang bevor und denen, die Unrecht tun, der Ausschluss?[^bible-391ba5ac-1990-4836-80cf-21d419c0b0ce]“
+
+Wenn die Guten sich das Ende der Bösen vor Augen halten, finden sie rasch Trost\. Denn an deren Untergang sehen sie, welchem Übel sie selbst entgehen, und so wiegt für sie leicht, was sie in diesem Leben an Widrigkeiten erdulden\. Mögen also die Verworfenen jetzt ihres Weges gehen und sich die Genüsse gönnen, nach denen sie verlangen\. Am Ende, bei ihrer Verdammung, werden sie spüren, dass sie mit ihrem schlechten Leben den Tod geliebt haben[^bible-05e9c4d4-eeeb-42f7-b178-0cab5e012b9f]\. Die Erwählten dagegen mögen für eine Weile unter der Geißel leiden, damit die Schläge jene von ihrem verkehrten Weg abbringen, die die väterliche Liebe für das Erbe bewahrt[^bible-d135f4dc-cbb8-40b4-be57-288280c777a3]\. Denn jetzt wird der Gerechte gegeißelt und durch Zuchtschläge zurechtgebracht, weil er darauf vorbereitet wird, das ewige Erbe des Vaters anzutreten\. Den Ungerechten dagegen lässt man seinen Genüssen nachgehen, denn in dem Maß, in dem ihm die ewigen Güter versagt bleiben, stehen ihm die zeitlichen zur Verfügung\. Der Ungerechte läuft dem Tod entgegen, den er verdient hat, und gibt sich zügellos seinen Vergnügungen hin, denn auch die Kälber, die geschlachtet werden sollen, lässt man frei weiden\. Dem Gerechten dagegen wird die Freude an vergänglichen Genüssen verwehrt, denn auch das Kalb, das sein Leben lang arbeiten soll, hält man unter dem Joch\. Den Erwählten werden in diesem Leben die irdischen Güter versagt, denn auch der Arzt gewährt den Kranken, für deren Überleben noch Hoffnung besteht, keineswegs alles, wonach sie verlangen\. Den Verworfenen dagegen werden die Güter gegeben, nach denen sie in diesem Leben verlangen, denn auch den Kranken, für die es keine Hoffnung mehr gibt, versagt man nichts von dem, was sie sich wünschen\. Die Gerechten sollen also bedenken, welches Unheil die Frevler erwartet, und sie keineswegs um ihr flüchtiges Glück beneiden\. Was gibt es denn an ihren Freuden zu bewundern, wenn die Gerechten selbst auf rauem Weg der Heimat des Heils entgegengehen, die Frevler aber wie über liebliche Wiesen auf eine Grube zusteuern? Darum soll der heilige Mann sagen: „Steht nicht dem Frevler der Untergang bevor und denen, die Unrecht tun, der Ausschluss?[^bible-391ba5ac-1990-4836-80cf-21d419c0b0ce]“ Das Wort „Ausschluss“ würde freilich härter klingen, wenn der Übersetzer den Ausdruck der ursprünglichen Sprache beibehalten hätte\. Denn was bei uns „Ausschluss“ heißt, heißt bei den Hebräern „Anathema“\. Der Ausschluss trifft also die Verworfenen, wenn sie erkennen, dass sie als Verfluchte vom Erbe des strengen Richters verbannt sind, weil sie ihn hier durch ihren verkehrten Lebenswandel verachtet haben\. Mögen die Frevler also blühen: Von der Blüte des ewigen Erbes bleiben sie ausgeschlossen\. Die Gerechten aber sollen sich selbst aufmerksam prüfen und in tiefer Furcht bedenken, dass der Herr sie bei allem sieht, was sie tun[^bible-432075f8-20ab-4c9f-a7db-1b517d2da199]\. Deshalb heißt es gleich darauf treffend:
+
+## Bibelverweise
+
+[^bible-05e9c4d4-eeeb-42f7-b178-0cab5e012b9f]: Spr 8,36
+[^bible-391ba5ac-1990-4836-80cf-21d419c0b0ce]: Hi 31,3
+[^bible-432075f8-20ab-4c9f-a7db-1b517d2da199]: Hi 31,4
+[^bible-d135f4dc-cbb8-40b4-be57-288280c777a3]: Hebr 12,6–Hebr 12,7

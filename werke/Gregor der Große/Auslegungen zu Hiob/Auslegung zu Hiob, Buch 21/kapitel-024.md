@@ -1,0 +1,19 @@
+# Auslegung zu Hiob, Buch 21 – Kapitel 24: Wer sich die Gleichheit aller Menschen vor Augen hält, weist übertriebene Ehre zurück und urteilt ohne Ansehen des Rangs
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-21#kapitel-e35ca651-21a4-49f4-10e3-08df46e3c7cb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Gibt es aber keinen Fehler zu korrigieren, so freuen sie sich nicht über den Vorrang, den ihnen ihre Macht gibt, sondern darüber, dass sie als Menschen mit ihren Untergebenen auf einer Stufe stehen\. Sie wollen von ihnen nicht gefürchtet werden; selbst mehr Ehre, als nötig ist, weisen sie zurück\. Denn sie glauben, dass ihre Demut keinen geringen Schaden nimmt, wenn ihre Untergebenen sie vielleicht um ihres Ranges willen höher achten\. Als Kornelius sich vor ihm niederwarf[^bible-9b814a6c-7153-44ed-99a4-49562755205b], erkannte der erste Hirte der Kirche, dass ihm damit mehr Ehre erwiesen wurde, als ihm zukam\. Darum besann er sich sogleich darauf, dass beide als Menschen auf einer Stufe standen, und sagte: „Steh auf, auch ich bin ein Mensch\.[^bible-716fe759-8337-4221-bdee-75b4cabc6bd1]“ Wer wüsste denn nicht, dass der Mensch sich vor seinem Schöpfer niederwerfen soll und nicht vor einem Menschen? Weil er also sah, wie sein Nächster sich vor ihm beugte[^bible-9b814a6c-7153-44ed-99a4-49562755205b], und zwar tiefer, als es sich gehörte, besann er sich darauf, dass auch er ein Mensch war[^bible-716fe759-8337-4221-bdee-75b4cabc6bd1], damit sich sein Denken nicht über die Grenzen des Menschseins hinaus aufblähte\. Indem er sich diese Gleichheit vor Augen hielt, brach er den Stolz, den die ihm erwiesene Ehre wecken konnte\. Ebenso erkannte der Engel, als Johannes sich vor ihm niederwarf[^bible-142a22e2-60bd-4ac6-a04c-f3796c5653bb], dass er ein Geschöpf war, und sagte: „Tu das nicht\! Ich bin dein Mitknecht und der Mitknecht deiner Brüder\.[^bible-c634a10c-3e56-4405-8a5e-f9b4ff2be9fd]“ So wird auch der Prophet, wenn er entrückt wird, um Erhabenes zu schauen, „Menschensohn[^bible-47dd3ce8-185f-4398-b649-0a5cf324460e]“ genannt, damit er, zum Himmlischen geführt, daran denkt, dass er ein Mensch ist\. Es ist, als würde ihn die göttliche Stimme mit deutlicheren Worten mahnen: „Denk daran, was du bist\. Überhebe dich nicht wegen dessen, wozu du entrückt wirst, sondern halte der Höhe der Offenbarung die Erinnerung an dein Menschsein entgegen\.“ Daran lässt sich also ermessen, wie nachdrücklich wir uns unsere gemeinsame Natur vor Augen halten müssen, um im Herzen den Hochmut irdischer Macht niederzuhalten, wenn schon die Bezeichnung als Mensch verhindern soll, dass aus den Geheimnissen des Himmels Stolz im Denken erwächst\. Wie gut sich der selige Hiob dieses Menschsein stets vor Augen hielt, zeigen seine Worte: „Hat mich nicht der im Mutterleib gemacht, der auch ihn geschaffen hat, und hat uns nicht ein und derselbe im Mutterschoß geformt?[^bible-f33c9935-643b-497e-aff6-02c583d67750]“ Damit sagt er gleichsam offen: „Warum sollten wir nicht in jeder Sache vor Gericht nach demselben Maß geprüft werden, wo wir doch durch die Macht des Schöpfers gleichermaßen geschaffen sind?“ Nachdem wir nun gesehen haben, wie er in Keuschheit und Demut gehandelt hat, wollen wir sehen, wie er Freigebigkeit geübt hat\. Weiter heißt es:
+
+## Bibelverweise
+
+[^bible-142a22e2-60bd-4ac6-a04c-f3796c5653bb]: Offb 19,10; Offb 22,8
+[^bible-47dd3ce8-185f-4398-b649-0a5cf324460e]: Hes 3,1
+[^bible-716fe759-8337-4221-bdee-75b4cabc6bd1]: Apg 10,26
+[^bible-9b814a6c-7153-44ed-99a4-49562755205b]: Apg 10,25
+[^bible-c634a10c-3e56-4405-8a5e-f9b4ff2be9fd]: Offb 19,10; Offb 22,9
+[^bible-f33c9935-643b-497e-aff6-02c583d67750]: Hi 31,15

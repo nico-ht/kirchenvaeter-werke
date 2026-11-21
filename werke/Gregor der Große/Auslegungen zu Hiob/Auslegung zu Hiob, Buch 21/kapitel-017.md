@@ -1,0 +1,16 @@
+# Auslegung zu Hiob, Buch 21 – Kapitel 17: Wahre Lehrer stellen das Heil ihrer Schüler über den eigenen Ruhm und gönnen anderen das Lob
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-21#kapitel-1671dbf5-86c4-441b-10dc-08df46e3c7cb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch die falsche Mutter scheute sich nicht, den Sohn, den sie nicht geboren hatte, töten zu lassen[^bible-2ed2b6e6-d709-4f55-81c4-dbf1aec41adc]\. Denn überhebliche Lehrer, die von der Liebe nichts wissen, gehen grausam gegen das Leben fremder Schüler vor, wenn sie durch sie nicht den höchsten Ruhm erlangen können\. Von der Fackel des Neids entflammt, wollen sie nicht, dass diejenigen für andere leben, die sie, wie sie sehen, nicht für sich haben können\. Darum ruft jene Frau in ihrer Bosheit: „Er soll weder mir noch der da gehören[^bible-2ed2b6e6-d709-4f55-81c4-dbf1aec41adc]\.“ Denn wie gesagt: Wenn sie sehen, dass Schüler ihnen nicht zu Diensten sind, um ihnen vergänglichen Ruhm zu verschaffen, missgönnen sie es anderen, dass diese Schüler durch die Wahrheit für sie leben\. Die wahre Mutter dagegen setzt alles daran, dass ihr Sohn wenigstens bei der fremden Frau sein und am Leben bleiben kann[^bible-2ed2b6e6-d709-4f55-81c4-dbf1aec41adc]\. Denn wahrhaftige Lehrer lassen es zu, dass andere durch ihre Schüler als Lehrer Lob finden, sofern diese Schüler dabei die Lauterkeit ihres Lebens nicht verlieren\. An diesem Erbarmen aus tiefstem Innern erkennt man eben diese Frau als die wahre Mutter[^bible-0ff7c91f-bb84-415e-b2d8-e72b880c8e6d]; denn ob einer sich als Lehrer bewährt, erweist sich in der Prüfung der Liebe\. Und sie allein verdiente es, den Sohn ganz zurückzubekommen, weil sie ihn gleichsam ganz hergegeben hatte[^bible-0ff7c91f-bb84-415e-b2d8-e72b880c8e6d]\. Denn treue Vorsteher missgönnen anderen nicht das Lob, das ihnen durch ihre guten Schüler zuteilwird, sondern erbitten für sie sogar den Gewinn, den der Fortschritt dieser Schüler bringt\. Eben deshalb erhalten sie selbst ihre Söhne unversehrt und lebend zurück, wenn ihnen bei der letzten Prüfung aus dem Leben ihrer Schüler die Freuden vollkommener Vergeltung erwachsen\. Mit diesem kurzen Abstecher wollten wir zeigen, wie die Nachlässigkeit der Lehrer die Hörer, ihre eigenen Nachkommen, zugrunde richtet\. Denn wer nicht so lebt, wie er redet, reißt durch sein Tun diejenigen aus dem festen Boden der Rechtschaffenheit, die er durch sein Wort gezeugt hat\. Der selige Hiob aber hat die, die er wachsam durch seine Predigt zur Welt gebracht hatte, keineswegs durch Schläfrigkeit in seinem Tun zugrunde gerichtet\. Darum sagt er voller Zuversicht: „Wenn ich das zuvor Gesagte nicht erfüllt habe, dann soll ich säen, und ein anderer soll essen, und meine Nachkommen sollen entwurzelt werden[^bible-1d90c64d-9ced-484b-969d-7b6a67eb6c04]\.“ Er prüft sich weiter darauf, ob ihn böses Tun befleckt hat, und fährt fort:
+
+## Bibelverweise
+
+[^bible-0ff7c91f-bb84-415e-b2d8-e72b880c8e6d]: 1Kön 3,26–1Kön 3,27
+[^bible-1d90c64d-9ced-484b-969d-7b6a67eb6c04]: Hi 31,8
+[^bible-2ed2b6e6-d709-4f55-81c4-dbf1aec41adc]: 1Kön 3,26
