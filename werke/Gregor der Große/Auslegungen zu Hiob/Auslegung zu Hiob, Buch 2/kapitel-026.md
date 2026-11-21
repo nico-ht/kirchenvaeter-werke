@@ -1,0 +1,14 @@
+# Auslegung zu Hiob, Buch 2 – Kapitel 26: Geben sich Vorgesetzte dem Vergnügen hin, kann der Teufel ihre Untergebenen leichter zu Fall bringen
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-2#kapitel-8f2a3399-7d8d-4147-d109-08df46eae4b9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn die Vorgesetzten dem Vergnügen dienen, lockern sich für die Untergebenen die Zügel\. Selbst bei maßvollen Festmählern findet der Teufel Raum\. Eines aber sollten wir meines Erachtens nicht achtlos übergehen: Die Kinder saßen im Haus des ältesten Bruders beim Festmahl, als sie umkamen[^bible-f262717f-937a-4a32-a17b-d79defe74f53]\. Wir haben ja schon gesagt, dass Festmähler kaum ohne Schuld verlaufen können\. Reden wir also von uns, nicht von ihnen\. Wir müssen uns klarmachen: Geben sich die Untergebenen dem Vergnügen hin, halten die Vorgesetzten sie durch Disziplin im Zaum\. Dienen aber die Vorgesetzten selbst dem Vergnügen, dann lockern sich unweigerlich die Zügel, die den Übermut der Untergebenen bändigen\. Wer hält sich denn noch in den Schranken der Disziplin, wenn sich sogar diejenigen den Vergnügungen hingeben, denen das Recht übertragen ist, andere in Schranken zu halten? So kommen sie beim Festmahl im Haus des ältesten Bruders um[^bible-f262717f-937a-4a32-a17b-d79defe74f53], denn der Feind gewinnt im Kampf gegen uns erst recht an Kraft, wenn er merkt, dass selbst diejenigen, die zur Wahrung der Disziplin eingesetzt sind, dem Frohsinn dienen\. Er setzt nämlich umso ungehinderter zum Schlag an, je mehr sich auch diejenigen dem Vergnügen widmen, die bei Verfehlungen hätten Fürsprache einlegen können\. Fern sei uns aber der Verdacht, die Kinder eines so großen Mannes hätten aus Lust an Festmählern nur ihrem Bauch gedient und sich vollgestopft\. Eines aber wissen wir gewiss: Selbst wenn jemand Disziplin wahrt und darum beim Essen nicht über das Notwendige hinausgeht, erlahmt beim Festmahl doch der glühende Eifer seines Geistes\. Und wer sich in Sicherheit wiegt und deshalb nachlässt, bedenkt weniger, wie heftig der Kampf mit den Versuchungen ist, in dem er steht\. So hat der Feind am Tag des ältesten Bruders die Kinder verschüttet[^bible-f262717f-937a-4a32-a17b-d79defe74f53]\. Denn will der alte Feind den Untergebenen den Tod bringen, sucht er in der Nachlässigkeit der Vorgesetzten einen Zugang, um sie zu Fall zu bringen\. Doch nun wissen wir, wie schwer ihn die Geschosse dieser Meldungen getroffen haben\. Hören wir also, wie unser tapferer Mann mit all seinen Wunden standhält\. Weiter heißt es:
+
+## Bibelverweise
+
+[^bible-f262717f-937a-4a32-a17b-d79defe74f53]: Hi 1,18–Hi 1,19

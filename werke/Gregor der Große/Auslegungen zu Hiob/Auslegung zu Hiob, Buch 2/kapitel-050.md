@@ -1,0 +1,22 @@
+# Auslegung zu Hiob, Buch 2 – Kapitel 50: Die drei Chaldäergruppen stehen für Christi Gegner, die durch Zureden und Amtsgewalt vom rechten Verständnis abbringen
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-2#kapitel-6d9f0bca-6e1a-4a39-d121-08df46eae4b9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Doch noch während er sprach, kam ein anderer und sagte: „Die Chaldäer bildeten drei Gruppen, fielen über die Kamele her und nahmen sie mit\. Auch die Knechte erschlugen sie mit dem Schwert\. Ich allein bin entkommen, um es dir zu melden[^bible-64753994-6b7e-42db-b17c-2af3bbf74295]\.“
+
+Wir wissen, dass der Name der Chaldäer „die Wilden“ bedeutet\. Wer sonst ist also mit den Chaldäern gemeint als die Urheber der Verfolgung, die in ihrer Bosheit so weit gehen, offen zu schreien: „Kreuzige, kreuzige[^bible-0548a830-0639-44f7-ab8c-d889e1a95047]\!“? Aus ihren eigenen Reihen bilden sie drei[^bible-64753994-6b7e-42db-b17c-2af3bbf74295] Gruppen, indem sich die Pharisäer, die Herodianer und die Sadduzäer aufteilen, um dem Herrn Streitfragen vorzulegen[^bible-865fae3b-6a35-4407-8eae-bad7a43921cf]\. Zwar wurden sie vom Mund der Weisheit besiegt\. Doch da sie, wie anzunehmen ist, einige dumme Menschen hinter sich herzogen, bildeten sie Gruppen und nahmen die Kamele mit[^bible-64753994-6b7e-42db-b17c-2af3bbf74295]\. Denn jede ihrer Gruppen verdarb die Herzen der Unverständigen und brachte sie dazu, dieselben verkehrten Ansichten zu hegen wie sie selbst\. Indem sie sie durch ihr Zureden ins Verderben zog, führte sie gleichsam das krumme Denken der Schwachen in die Gefangenschaft\. Denn als der Herr in Samaria predigte, wurden viele Samaritaner aufgenommen und gehörten fortan ihm, unserem Erlöser[^bible-04be9bd9-e530-4d1b-b344-cd63d82e0ca2]\. Aber haben diejenigen, die ohne Hoffnung auf die Auferstehung den Herrn mit dem Fall der sieben verstorbenen Ehemänner ein und derselben Frau auf die Probe stellen[^bible-308cb1c9-871d-4197-a61d-225554688ea2], etwa gar nicht versucht, die gläubigen Samaritaner vom Glauben abzubringen, von denen doch feststeht, dass sie die Hoffnung auf die Auferstehung nicht kennen? Indem sie manches aus dem Gesetz annehmen und anderes verachten, gleichen sie den Kamelen: Sie käuen wieder wie ein reines Tier, haben aber wie ein unreines keinen gespaltenen Huf[^bible-efb41eb4-edfc-4b06-a8c7-29ad5c1aded8]\. Allerdings stehen die Kamele, die wiederkäuen und doch keine gespaltenen Hufe haben[^bible-efb41eb4-edfc-4b06-a8c7-29ad5c1aded8], auch für jene, die in Judäa die Geschichte dem Wortlaut nach gehört hatten, ihre Kraft aber nicht geistlich zu erfassen wussten\. Mit ihren drei Gruppen verschleppen die Chaldäer sie[^bible-64753994-6b7e-42db-b17c-2af3bbf74295]: Die Pharisäer, die Herodianer und die Sadduzäer bringen sie mit ihrem verwerflichen Zureden von jedem rechten Verständnis ab\. Zugleich schlagen sie die Knechte mit dem Schwert[^bible-64753994-6b7e-42db-b17c-2af3bbf74295]\. Denn auch wenn manche im Volk schon ihre Vernunft gebrauchen konnten, traten ihnen die Verfolger nicht mit der Kraft der Vernunft entgegen, sondern mit der Autorität, die ihnen ihre Macht verlieh\. Sie wollen als Vorsteher von ihren Untergebenen nachgeahmt werden und ziehen ihre Anhänger, auch wenn diese manches verstehen können, doch mit der Autorität des Leitungsamts, das sie übernommen haben, ins Verderben\. Dazu passt, dass ihnen ein einziger Knecht entkommt, um Bericht zu erstatten[^bible-64753994-6b7e-42db-b17c-2af3bbf74295]\. Denn während die Pharisäer, die Herodianer und die Sadduzäer Unrecht verüben, verlässt sie ja das prophetische Wort und gewinnt an Kraft\. Es sagt: „Und die das Gesetz in Händen hielten, kannten mich nicht[^bible-16d3e21d-5042-40b2-8c78-b65b7dbd0a89]\.“ Es folgt:
+
+## Bibelverweise
+
+[^bible-04be9bd9-e530-4d1b-b344-cd63d82e0ca2]: Joh 4,39–Joh 4,42
+[^bible-0548a830-0639-44f7-ab8c-d889e1a95047]: Lk 23,21
+[^bible-16d3e21d-5042-40b2-8c78-b65b7dbd0a89]: Jer 2,8
+[^bible-308cb1c9-871d-4197-a61d-225554688ea2]: Mt 22,23–Mt 22,28
+[^bible-64753994-6b7e-42db-b17c-2af3bbf74295]: Hi 1,17
+[^bible-865fae3b-6a35-4407-8eae-bad7a43921cf]: Mt 22,15–Mt 22,28
+[^bible-efb41eb4-edfc-4b06-a8c7-29ad5c1aded8]: Lev 11,4

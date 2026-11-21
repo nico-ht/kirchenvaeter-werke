@@ -1,0 +1,24 @@
+# Auslegung zu Hiob, Buch 2 – Kapitel 55: Hiobs Schur und Sturz stehen dafür, dass Christus Judäas Priestertum die Geheimnisse entzieht und die Heiden rettet
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-2#kapitel-488ab0bd-615e-43d5-d126-08df46eae4b9).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Und mit geschorenem Kopf stürzte er auf die Erde und betete an\.[^bible-5e2881fa-f60f-4359-abd1-657c57fb106e]“
+
+Was wird durch das abgeschnittene Haar[^bible-5e2881fa-f60f-4359-abd1-657c57fb106e] anderes bezeichnet als die Feinheit der Geheimnisse, und was durch den Kopf[^bible-5e2881fa-f60f-4359-abd1-657c57fb106e] anderes als der höchste Rang des Priestertums? Darum wird auch dem Propheten Hesekiel gesagt: „Du, Menschensohn, nimm dir ein scharfes Schwert zum Rasieren der Haare\. Nimm es und führe es über deinen Kopf und deinen Bart\.[^bible-fb40218e-3c73-45da-8f88-f7ca757a1a1c]“ An der Tat des Propheten soll nämlich das Gericht des Erlösers sichtbar werden\. Als er im Fleisch erschien, schor er den Kopf: Er entzog dem jüdischen Priestertum die Geheimnisse seiner Gebote\. Er schor den Bart: Er verließ das israelitische Königtum und schnitt ihm so den Glanz seiner Macht ab\. Was aber bezeichnet hier die Erde[^bible-5e2881fa-f60f-4359-abd1-657c57fb106e] anderes als den sündigen Menschen? Zum ersten Menschen, der sündigte, wurde ja gesagt: „Du bist Erde, und zur Erde wirst du gehen\.[^bible-fb85fdca-cb7d-4489-9c13-5a579cc2d36a]“ Mit der Erde ist also die sündige Heidenwelt gemeint\. Denn Judäa hielt sich selbst für gerecht; wie abfällig es über die Heidenwelt dachte, geht deutlich aus dem Zeugnis des Paulus hervor: „Wir sind von Natur aus Juden und nicht Sünder aus den Heidenvölkern\.[^bible-dc1936fd-e83e-4fee-b689-72e5e7a59e8a]“ Unser Mittler ist also gleichsam mit geschorenem Kopf auf die Erde gestürzt[^bible-5e2881fa-f60f-4359-abd1-657c57fb106e]\. Denn als er Judäa verließ und dem dortigen Priestertum seine Geheimnisse entzog, wurde er den Heidenvölkern bekannt\. Er schor das Haar vom Kopf[^bible-5e2881fa-f60f-4359-abd1-657c57fb106e], denn er nahm seinem ersten Priestertum die Geheimnisse des Gesetzes\. Und er stürzte auf die Erde[^bible-5e2881fa-f60f-4359-abd1-657c57fb106e], denn er gab sich den Sündern hin, um sie zu retten\. Während er die verließ, die sich selbst für gerecht hielten, nahm er die an, die wussten und eingestanden, dass sie ungerecht waren\. Darum sagt er auch selbst im Evangelium: „Zum Gericht bin ich in diese Welt gekommen, damit die, die nicht sehen, sehen und die, die sehen, blind werden\.[^bible-e06dda00-1f22-47a2-aef6-70bea9dea1ef]“ So erklärt sich auch, dass die Wolkensäule, die dem Volk in der Wüste vorausging, nicht am Tag, sondern in der Nacht im Glanz des Feuers erstrahlte[^bible-389be200-5bc7-4240-a66e-d012069221d0]\. Denn unser Erlöser wies denen, die ihm folgten, durch das Beispiel seines Lebens den Weg: Für die, die auf ihre eigene Gerechtigkeit vertrauten, ging von ihm kein Licht aus; denen aber, die das Dunkel ihrer Sünden erkannten, leuchtete er im Feuer seiner Liebe\. Dass von Hiob erzählt wird, er sei gestürzt[^bible-5e2881fa-f60f-4359-abd1-657c57fb106e], soll niemand für ein Bild halten, das des Erlösers unwürdig wäre\. Denn es steht geschrieben: „Der Herr sandte ein Wort an Jakob, und es fiel in Israel nieder\.[^bible-818cde89-010f-4517-968f-30fca1f11a2c]“ Jakob heißt nämlich „der zu Fall bringt“, Israel dagegen „der Gott sieht“\. Und was ist mit Jakob anderes gemeint als das jüdische Volk, und was mit Israel anderes als das Volk der Heiden? Denn den, den Jakob durch den Tod des Fleisches zu Fall zu bringen suchte, sah die Heidenwelt mit den Augen des Glaubens als Gott\. So ist das an Jakob gesandte Wort in Israel niedergefallen[^bible-818cde89-010f-4517-968f-30fca1f11a2c]: Denn den, den das jüdische Volk zurückwies, als er zu ihm kam[^bible-1275f43c-a879-4bf3-89eb-9211734b3128], fand das Volk der Heiden plötzlich, indem es sich zu ihm bekannte\. Denn über den Heiligen Geist steht geschrieben: „Der Geist des Herrn fiel auf sie\.[^bible-d7cafc8f-1bb0-4126-8af9-fdfcf2bb57a4]“
+
+## Bibelverweise
+
+[^bible-1275f43c-a879-4bf3-89eb-9211734b3128]: Joh 1,11
+[^bible-389be200-5bc7-4240-a66e-d012069221d0]: Ex 13,21
+[^bible-5e2881fa-f60f-4359-abd1-657c57fb106e]: Hi 1,20
+[^bible-818cde89-010f-4517-968f-30fca1f11a2c]: Jes 9,8
+[^bible-d7cafc8f-1bb0-4126-8af9-fdfcf2bb57a4]: Apg 10,44
+[^bible-dc1936fd-e83e-4fee-b689-72e5e7a59e8a]: Gal 2,15
+[^bible-e06dda00-1f22-47a2-aef6-70bea9dea1ef]: Joh 9,39
+[^bible-fb40218e-3c73-45da-8f88-f7ca757a1a1c]: Hes 5,1
+[^bible-fb85fdca-cb7d-4489-9c13-5a579cc2d36a]: Gen 3,19
