@@ -1,0 +1,15 @@
+# Auslegung zu Hiob, Buch 22 – Kapitel 2: Ohne die anderen Tugenden ist eine Tugend entweder nicht echt oder bleibt unvollkommen
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-22#kapitel-7d03d222-d8b3-4b87-10f0-08df46e3c7cb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Zunächst aber muss man eines wissen: Wer sich durch eine Tugend auszuzeichnen scheint, zeichnet sich erst dann wirklich durch sie aus, wenn ihn nicht in anderer Hinsicht Laster beherrschen\. Denn wer an anderer Stelle Lastern unterworfen ist, steht auch dort nicht fest, wo er zu stehen schien\. Jede Tugend ist nämlich umso schwächer, je mehr von den übrigen fehlen\. So haben wir oft Menschen erlebt, die zwar keusch waren, aber nicht demütig; andere schienen demütig, waren aber nicht barmherzig; wieder andere schienen barmherzig, waren aber keineswegs gerecht; und andere wiederum schienen gerecht, vertrauten aber eher auf sich selbst[^bible-830b3338-7b4c-493c-86ab-c5d9aae16ef7] als auf den Herrn\. Wem die Demut fehlt, der hat gewiss keine echte Keuschheit im Herzen\. Denn wenn er sich in seiner Selbstliebe von der göttlichen Liebe abwendet, treibt er Unzucht, während ihn der Hochmut von innen her verdirbt\. Auch die Demut ist nicht echt, wenn sie nicht mit Barmherzigkeit verbunden ist\. Denn was sich nicht dazu bewegen lässt, die Not des Bruders mitzuempfinden, verdient den Namen Demut nicht\. Auch die Barmherzigkeit ist nicht echt, wenn ihr die Rechtschaffenheit der Gerechtigkeit fremd ist; denn wenn sie durch Ungerechtigkeit befleckt werden kann, versteht sie es ohne Zweifel nicht, sich ihrer selbst zu erbarmen\. Auch die Gerechtigkeit ist nicht echt, wenn sie ihr Vertrauen nicht auf den Schöpfer aller Dinge setzt, sondern etwa auf sich selbst oder auf Geschaffenes\. Denn wer seine Hoffnung vom Schöpfer abwendet, verkehrt damit für sich selbst die Ordnung der grundlegenden Gerechtigkeit\. Eine Tugend ohne die anderen ist also entweder gar keine Tugend oder sie bleibt unvollkommen\. Nehmen wir etwa die Tugenden, die manche für die vier wichtigsten halten: Klugheit, Mäßigung, Tapferkeit und Gerechtigkeit[^bible-60298b2d-01e6-4828-88c1-a1a911e0812e]\. Je enger sie untereinander verbunden sind, desto vollkommener ist jede einzelne\. Getrennt voneinander können sie keineswegs vollkommen sein\. Denn Klugheit ist nicht echt, wenn sie nicht gerecht, maßvoll und tapfer ist; Mäßigung ist nicht vollkommen, wenn sie nicht tapfer, gerecht und klug ist; Tapferkeit bleibt unvollständig, wenn sie nicht klug, maßvoll und gerecht ist; und Gerechtigkeit ist nicht echt, wenn sie nicht klug, tapfer und maßvoll ist\.
+
+## Bibelverweise
+
+[^bible-60298b2d-01e6-4828-88c1-a1a911e0812e]: 4Makk 1,18
+[^bible-830b3338-7b4c-493c-86ab-c5d9aae16ef7]: Lk 18,9

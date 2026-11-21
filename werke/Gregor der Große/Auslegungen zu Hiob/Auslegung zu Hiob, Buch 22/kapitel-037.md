@@ -1,0 +1,18 @@
+# Auslegung zu Hiob, Buch 22 – Kapitel 37: Die Heiligen nehmen lieber Verachtung in Kauf, als ihre Weisheit vor unbelehrbaren Zuhörern zur Schau zu stellen
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-22#kapitel-cddcf11e-2e09-44af-1113-08df46e3c7cb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Manche aber fürchten, völlig verachtet zu werden, und wollen deshalb weise erscheinen, damit man sie nicht etwa für unbedeutend hält\. Sie werden dazu getrieben, zur Tür hinauszugehen: Wenn Beleidigungen sie treffen, reden sie und verkünden, welche Größe sich in ihnen verbirgt\. Von der Ungeduld überwältigt, geben sie manches über sich preis, was bisher nicht bekannt war, und treten damit gleichsam durch die Tür ihres Mundes hinaus\. Darum stellte der selige Hiob seiner Aussage, er sei nicht zur Tür[^bible-9457b2a8-757a-4104-bde7-5f41af3bb8db] seines Mundes hinausgegangen[^bible-9457b2a8-757a-4104-bde7-5f41af3bb8db], mit Recht das Wort voran: „Ich schwieg\.[^bible-9457b2a8-757a-4104-bde7-5f41af3bb8db]“ Denn hätte er nicht zu schweigen gewusst, wäre er, von Ungeduld aufgewühlt, aus dem Haus seines Gewissens hinausgegangen\. Wenn Unruhe sie auf die Probe stellt, hüten sich heilige Menschen entschieden davor, sich selbst zur Schau zu stellen\. Können sie ihren Zuhörern nicht helfen, schweigen sie lieber und nehmen sogar Verachtung in Kauf, statt ihre Weisheit zur Schau zu stellen und sich damit zu rühmen\. Wenn sie mit Bedacht reden, geht es ihnen nicht um den eigenen Ruhm, sondern um das Leben ihrer Zuhörer\. Sehen sie aber, dass sie durch ihr Reden das Leben ihrer Zuhörer nicht gewinnen können, schweigen sie und behalten ihr Wissen für sich\. Denn wir laufen gleichsam auf ein uns gestecktes Ziel zu[^bible-e300d14d-e271-4506-8c47-b7a496487b92]: so zu leben wie der Herr\. Der Herr selbst sah nämlich, dass Herodes nicht danach strebte, selbst voranzukommen, sondern danach, Zeichen zu bestaunen[^bible-830ca233-736a-4548-914d-adc927568133] oder Wissen zu bewundern\. Darum schwieg er, als Herodes ihn befragte\.[^bible-852d0db1-cf76-414f-b425-95fd418c7d45] Weil er beharrlich schwieg, ging er fort, von Herodes verspottet\.[^bible-1cbdd57a-1821-44f1-83c1-abc31c2475b2] Denn es steht geschrieben: „Als Herodes Jesus sah, freute er sich sehr\. Er wollte ihn nämlich schon seit Langem sehen, weil er viel von ihm gehört hatte, und hoffte zu sehen, wie er ein Zeichen tat\.[^bible-830ca233-736a-4548-914d-adc927568133]“ Weiter heißt es dort: „Er befragte ihn mit vielen Worten, doch Jesus antwortete ihm nichts\.[^bible-852d0db1-cf76-414f-b425-95fd418c7d45]“ Wie sehr der Herr verachtet wurde, als er schwieg, zeigt der Satz, der unmittelbar darauf folgt: „Herodes verachtete ihn zusammen mit seinen Soldaten und verspottete ihn\.[^bible-1cbdd57a-1821-44f1-83c1-abc31c2475b2]“ Wenn wir davon hören, müssen wir daraus lernen: Immer wenn unsere Zuhörer erfahren wollen, was sie an uns loben könnten, das Verkehrte an sich selbst aber nicht ändern wollen, müssen wir ganz schweigen\. Denn wenn wir das Wort Gottes verkünden, um uns zur Schau zu stellen, bleibt ihre Schuld bestehen, und wir laden eine Schuld auf uns, die wir zuvor nicht hatten\.
+
+## Bibelverweise
+
+[^bible-1cbdd57a-1821-44f1-83c1-abc31c2475b2]: Lk 23,11
+[^bible-830ca233-736a-4548-914d-adc927568133]: Lk 23,8
+[^bible-852d0db1-cf76-414f-b425-95fd418c7d45]: Lk 23,9
+[^bible-9457b2a8-757a-4104-bde7-5f41af3bb8db]: Hi 31,34
+[^bible-e300d14d-e271-4506-8c47-b7a496487b92]: Phil 3,14

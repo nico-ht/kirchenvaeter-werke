@@ -1,0 +1,19 @@
+# Auslegung zu Hiob, Buch 22 – Kapitel 52: Wie die Gemeinde ihren Hirten Unterhalt gewährt, so schulden die Hirten ihr den Dienst der Ermahnung
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-22#kapitel-6038c009-f45a-4c32-1122-08df46e3c7cb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Wenn ich seine Früchte gegessen habe, ohne dafür zu bezahlen[^bible-9cb6c051-f691-4b08-9688-548f8151c570]\.“
+
+Denn die Früchte des Ackers zu essen, ohne dafür zu bezahlen[^bible-9cb6c051-f691-4b08-9688-548f8151c570], heißt, dass man zwar von der Kirche seinen Unterhalt bezieht, ihr aber die Predigt als Gegenleistung schuldig bleibt\. Von dieser Predigt spricht der Schöpfer selbst: „Du hättest mein Geld den Geldwechslern anvertrauen sollen, und bei meiner Rückkehr hätte ich gewiss das Meine mit Zinsen zurückbekommen[^bible-35efdee7-acd3-4537-b11f-820721d6b9f4]\.“ Wer also die Zuwendungen der Kirche für seine körperlichen Bedürfnisse empfängt, dem Volk aber nicht den Dienst der Ermahnung leistet, isst die Früchte des Ackers, ohne dafür zu bezahlen[^bible-9cb6c051-f691-4b08-9688-548f8151c570]\. Was sagen wir Hirten dazu, die wir dem Kommen des strengen Richters vorausgehen und zwar das Amt des Herolds übernehmen, aber stumm verzehren, was uns die Kirche an Nahrung gibt? Wir fordern, was unserem Körper zusteht, leisten aber nicht, was wir den Herzen der uns Unterstellten schulden\. Seht, der heilige Mann war in dieser Welt so vielfach an die Seinen gebunden und blieb doch mitten in zahllosen Geschäften frei, sich der Predigt zu widmen\. Nie hat er die Früchte des Ackers gegessen, ohne dafür zu bezahlen[^bible-9cb6c051-f691-4b08-9688-548f8151c570]\. Denn von den ihm Unterstellten empfing er die Früchte ihres leiblichen Dienstes, und dafür gab er ihnen das Wort guter Ermahnung\. Das schuldet dem allmächtigen Gott jeder, der einem Volk vorsteht\. Das schuldet ihm, wer vielen vorsteht, und das schuldet ihm auch, wer weniger Menschen vorsteht: Er soll die geschuldeten Dienste von den ihm Unterstellten so einfordern, dass er auch selbst stets gewissenhaft darauf achtet, welche Ermahnung er ihnen schuldet\. Denn was sind wir alle, die wir nach der Ordnung des Schöpfers unter dem einen wahren Herrn durch wechselseitigen Dienst miteinander verbunden sind, anderes als Diener füreinander? Wenn also der Unterstellte dient, indem er gehorcht, dann muss ohne Zweifel auch der, der ihm vorsteht, mit dem Wort dienen\. Wenn der Unterstellte den Anordnungen folgt, muss der, der ihm vorsteht, ihm aufmerksame und liebevolle Fürsorge erweisen\. So werden wir, wenn wir uns jetzt eifrig bemühen, einander aus Liebe zu dienen[^bible-4211e6d8-546e-41d1-9748-7236f5cfd22e], einst mit dem wahren Herrn in gemeinsamem Jubel herrschen\. Manche aber üben das Amt der Predigt aus und missgönnen dabei anderen das Gute, das sie selbst haben\. Eben darum haben sie es in Wahrheit schon nicht mehr\. Ihnen gilt mit Recht das Wort des Jakobus: „Wenn ihr aber bitteren Neid gegeneinander hegt und in euren Herzen Streit herrscht, dann ist das keine Weisheit, die von oben herabkommt, sondern eine irdische, ungeistliche, teuflische[^bible-ab3660e1-ef5c-4a50-8656-ff5d7ae69576]\.“ Darum folgt auch hier auf die Worte „Wenn ich seine Früchte gegessen habe, ohne dafür zu bezahlen[^bible-9cb6c051-f691-4b08-9688-548f8151c570]“ mit Recht:
+
+## Bibelverweise
+
+[^bible-35efdee7-acd3-4537-b11f-820721d6b9f4]: Mt 25,27
+[^bible-4211e6d8-546e-41d1-9748-7236f5cfd22e]: Gal 5,13
+[^bible-9cb6c051-f691-4b08-9688-548f8151c570]: Hi 31,39
+[^bible-ab3660e1-ef5c-4a50-8656-ff5d7ae69576]: Jak 3,14–Jak 3,15
