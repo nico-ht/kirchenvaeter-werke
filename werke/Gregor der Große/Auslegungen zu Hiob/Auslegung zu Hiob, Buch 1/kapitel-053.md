@@ -1,0 +1,16 @@
+# Auslegung zu Hiob, Buch 1 – Kapitel 53: Das Bild der Ferse mahnt, die Reinheit der Absicht bis zum Ende einer guten Tat zu hüten
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-1#kapitel-536a0647-c84d-4568-0c10-08df46e3c7cb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wenn aber der alte Feind uns weder beim Fassen der Absicht trifft noch auf dem Weg der Ausführung abfängt, spannt er am Ende stärkere Schlingen\. Dieses Ende belagert er mit umso größerer Tücke, als er sieht, dass ihm nur noch dort eine Gelegenheit zur Täuschung bleibt\. Eben diese Schlingen, die ihm am Ende seines Tuns gelegt waren, hatte der Prophet vor Augen, als er sagte: „Sie werden meine Ferse im Auge behalten[^bible-20329e3d-8f82-48e6-ab35-84bbe3922ea8]\.“ Denn die Ferse ist das Ende des Körpers\. Was könnte sie also anderes bezeichnen als das Ende einer Tat? Wer also das Ende einer guten Tat verderben will, behält die Ferse im Auge[^bible-20329e3d-8f82-48e6-ab35-84bbe3922ea8]\. Das gilt für böse Geister ebenso wie für verkehrte Menschen, die dem Hochmut dieser Geister nacheifern\. Darum wird auch zu eben dieser Schlange gesagt: „Sie wird deinen Kopf im Auge behalten und du ihre Ferse[^bible-b98f208c-4b19-46b1-b31a-a8d1dbee513d]\.“ Den Kopf der Schlange im Auge zu behalten[^bible-b98f208c-4b19-46b1-b31a-a8d1dbee513d] heißt nämlich, ihre Einflüsterung schon in ihren Anfängen zu erkennen und sie mit der Hand wachsamer Prüfung an der Schwelle des Herzens mitsamt der Wurzel auszureißen\. Wird die Schlange aber schon zu Anfang ertappt, versucht sie, die Ferse zu treffen[^bible-b98f208c-4b19-46b1-b31a-a8d1dbee513d]\. Denn auch wenn sie mit ihrer ersten Einflüsterung der Absicht keinen Schlag versetzt, sucht sie doch am Ende zu täuschen\. Ist aber das Herz erst einmal in seiner Absicht verdorben, hat der listige Feind die Mitte und das Ende der folgenden Tat sicher in seiner Gewalt\. Denn er sieht, wie ihm der ganze Baum Früchte trägt, den er mit seinem Giftzahn an der Wurzel verdorben hat\. Weil wir also mit größter Sorgfalt darüber wachen müssen, dass der Geist nicht durch eine verwerfliche Absicht befleckt wird, selbst wenn er sich guten Werken widmet, heißt es zu Recht: „Vielleicht haben meine Söhne gesündigt und Gott in ihrem Herzen gesegnet[^bible-f9f32258-ef79-40da-b555-2d68da57330d]\.“ Das ist, als hieße es ausdrücklich: „Nichts, was man nach außen hin tut, ist gut, wenn dafür nicht im Innern vor Gottes Augen auf dem Altar des Herzens das Opfer der Unschuld dargebracht wird\.“ Darum müssen wir mit aller Kraft prüfen, ob der Strom des Tuns rein aus der Quelle der Gedanken fließt\. Mit aller Sorgfalt muss das Auge des Herzens vor dem Staub der Bosheit bewahrt werden, damit es nicht in sich selbst durch den Makel einer verkehrten Absicht verbiegt, was es den Menschen in seinem Tun als gerade vorzeigt\.
+
+## Bibelverweise
+
+[^bible-20329e3d-8f82-48e6-ab35-84bbe3922ea8]: Ps 56,7
+[^bible-b98f208c-4b19-46b1-b31a-a8d1dbee513d]: Gen 3,15
+[^bible-f9f32258-ef79-40da-b555-2d68da57330d]: Hi 1,5
