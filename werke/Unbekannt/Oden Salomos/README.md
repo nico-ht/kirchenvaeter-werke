@@ -1,0 +1,48 @@
+# Oden Salomos
+
+Unbekannt
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/unbekannt/oden-salomos) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- [Kapitel 1: Weil der Herr uns zuerst liebt, können wir ihn lieben und in der Verbindung mit ihm unsterblich werden](kapitel-001.md)
+- [Kapitel 2: Gott schenkt uns Gemeinschaft, weil wir ihn brauchen, und nimmt seine Gabe nicht zurück](kapitel-002.md)
+- [Kapitel 3: Wer beim Herrn Zuflucht findet, fürchtet seine Verfolger nicht und bleibt standhaft, selbst wenn alles vergeht](kapitel-003.md)
+- [Kapitel 4: Das lebendige Wasser des Höchsten lässt sich nicht aufhalten, stillt den Durst und rettet vor dem Tod](kapitel-004.md)
+- [Kapitel 5: Der Herr wird uns gleich, damit wir ihn erkennen, und ruft die ganze Schöpfung zu seinem Lob](kapitel-005.md)
+- [Kapitel 6: Wer in der Liebe des Herrn wächst und bleibt, den bewahrt er als sein Werk vor dem Vergehen](kapitel-006.md)
+- [Kapitel 7: Der Herr will uns ewiges Leben schenken, und im Kampf empfangen die Siegreichen die Wahrheit als Krone](kapitel-007.md)
+- [Kapitel 8: Vom Herrn zur Verkündigung befähigt, ruft der Sänger zur Umkehr und führt die Zerstreuten in die Freiheit](kapitel-008.md)
+- [Kapitel 9: Der Höchste beschneidet das Herz durch seinen Geist und lässt den Geretteten im Paradies Frucht tragen](kapitel-009.md)
+- [Kapitel 10: Das Wort des Höchsten stiftet Eintracht unter den Welten, sodass sie ihren Schöpfer erkennen](kapitel-010.md)
+- [Kapitel 11: Im Herrn erkennen wir uns wie in einem Spiegel und ziehen seine Heiligkeit an, um bei ihm makellos zu bleiben](kapitel-011.md)
+- [Kapitel 12: Der Sänger bittet den Herrn, ihn bis ans Ende zu führen und ihn durch seinen Geist das Lob zu lehren](kapitel-012.md)
+- [Kapitel 13: Der Herr vertreibt wie die Sonne die Finsternis und schenkt denen, die ihm vertrauen, ein Leben ohne Tod](kapitel-013.md)
+- [Kapitel 14: Im Lob des Sängers offenbart der Geist, wie der Herr durch sein Wort die Welten schuf und ordnete](kapitel-014.md)
+- [Kapitel 15: Der selbst Befreite löst die Fesseln der Gefangenen und rettet sie, indem er sie zu seinen Gliedern macht](kapitel-015.md)
+- [Kapitel 16: Der Höchste kennt keinen Irrtum, und mit dem Atem, den er ihnen einhaucht, sprechen die Erkennenden die Wahrheit](kapitel-016.md)
+- [Kapitel 17: Der Geist gibt der Welt die Milch des Vaters, und die Jungfrau empfängt sie und gebiert den Sohn](kapitel-017.md)
+- [Kapitel 18: Dem Herrn bringt man Gerechtigkeit und Reinheit dar, mit seiner Gnade bekleidet zieht man ins Paradies ein](kapitel-018.md)
+- [Kapitel 19: Der Herr befreit den Sänger aus seinen Fesseln und lässt in seiner Nähe den Lobpreis aus dessen Herzen strömen](kapitel-019.md)
+- [Kapitel 20: Gott weckt die Glaubenden aus den Gräbern und erneuert die Welt, während sein Reich auf dem Fels besteht](kapitel-020.md)
+- [Kapitel 21: Das Schreiben aus der Höhe offenbart den Sohn als Erben aller Dinge und bezeugt Gottes ewige Herrschaft](kapitel-021.md)
+- [Kapitel 22: Der Herr vereitelt die Pläne derer, denen die Wahrheit fehlt, und zeigt in seiner Gnade seine Reinheit](kapitel-022.md)
+- [Kapitel 23: Gott richtet den Verachteten auf, hüllt ihn in das Gewand seines Geistes und macht ihn sich zu eigen](kapitel-023.md)
+- [Kapitel 24: Statt die Wunder des Herrn zu deuten, genügt es, sie zu erkennen und in seinem Lob zu ruhen](kapitel-024.md)
+- [Kapitel 25: Der Sänger heiligt den Herrn mit ausgestreckten Händen, die das Zeichen des aufgerichteten Holzes bilden](kapitel-025.md)
+- [Kapitel 26: Das erlittene Unrecht wird dem Sänger zur Rettung, denn der Geist in ihm kann nicht sterben](kapitel-026.md)
+- [Kapitel 27: Der Herr entreißt den Sänger dem Tod und lässt ihn durch sein Wort über die Feinde siegen](kapitel-027.md)
+- [Kapitel 28: Die einst verborgene Quelle des Herrn steht den Durstigen offen und schenkt ihrer Seele Ruhe](kapitel-028.md)
+- [Kapitel 29: Der Herr erträgt das ungerechte Urteil, um sein Volk zu erlösen und die Verheißung an die Erzväter zu erfüllen](kapitel-029.md)
+- [Kapitel 30: Das Wort kommt aus der Wahrheit und bleibt durch die heilige Kraft des Höchsten ewig unerschütterlich](kapitel-030.md)
+- [Kapitel 31: Die vollkommene Jungfrau ruft zur Umkehr und führt die, die auf sie hören, aus dem Verderben zur Unvergänglichkeit](kapitel-031.md)
+- [Kapitel 32: Ein aufrichtiges Herz bleibt unversehrt, und die offenbarte Gnade ruft zum Glauben, der rettet](kapitel-032.md)
+- [Kapitel 33: Während alles erbebt, birgt der Herr den Sänger und nährt ihn mit seinem Tau, bis er zur Ruhe findet](kapitel-033.md)
+- [Kapitel 34: Der Geist gebiert den Sänger vor dem Herrn, und obwohl er Mensch ist, wird er Sohn Gottes genannt](kapitel-034.md)
+- [Kapitel 35: Der Herr erhört das Gebet des Sängers, und sein Wort schenkt ihm die Früchte seiner Mühen und Ruhe aus Gnade](kapitel-035.md)
+- [Kapitel 36: Die Wahrheit entlarvt die Verführung und führt den Sänger am Verderben vorbei zum unvergänglichen Leben](kapitel-036.md)
+- [Kapitel 37: Christi Fußspuren bleiben auf dem Wasser und weisen den Glaubenden den sicheren Weg durch die reißenden Flüsse](kapitel-037.md)
+- [Kapitel 38: Aus der Hoffnung auf Gott sprudelt das Lob, und bei ihm gewinnt der Sänger unvergängliches Leben](kapitel-038.md)
+- [Kapitel 39: Der Messias war schon vor Grundlegung der Welt bekannt, um den Seelen durch seinen Namen ewiges Leben zu schenken](kapitel-039.md)
+- [Kapitel 40: Der Sohn Gottes steigt ins Totenreich hinab und macht die Toten, die ihm glauben, zu einer Gemeinschaft von Lebenden](kapitel-040.md)
