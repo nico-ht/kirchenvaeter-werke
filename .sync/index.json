@@ -1,5 +1,12 @@
 [
   {
+    "workId": "d39d1d1b-01df-4556-19ab-08df47d17bd6",
+    "authorName": "Aileran der Weise",
+    "title": "Mystische Deutung der Vorfahren Christi",
+    "directory": "werke/Aileran der Weise/Mystische Deutung der Vorfahren Christi",
+    "contentRevision": "sha256:4e4cf43a605a5cb87e364d149f66825627359e371de75a6bf7d781909f958003"
+  },
+  {
     "workId": "fed8c38b-5513-460a-c39b-08df346fe1ab",
     "authorName": "Ambrosius von Mailand",
     "title": "1. Schrift über Abraham",
@@ -1729,11 +1736,116 @@
     "contentRevision": "sha256:e0508a0daea7c74085634039ade74f59d37f407f6df6b61a10ca428686628a14"
   },
   {
+    "workId": "87268a92-64aa-4296-199f-08df47d17bd6",
+    "authorName": "Dionysius von Alexandria",
+    "title": "Aus dem vierten Festbrief",
+    "directory": "werke/Dionysius von Alexandria/Briefe/Aus dem vierten Festbrief",
+    "contentRevision": "sha256:c987818f7f175199c4003cd0ec6bba7f7d261c8ba9805da09e10ee4d2c22973e"
+  },
+  {
+    "workId": "6eb65b66-548f-4ecb-19a1-08df47d17bd6",
+    "authorName": "Dionysius von Alexandria",
+    "title": "Auslegungen zum Lukasevangelium (Fragmente)",
+    "directory": "werke/Dionysius von Alexandria/Auslegungen zum Lukasevangelium (Fragmente)",
+    "contentRevision": "sha256:19f4e6077dc8c50660813648e22c5a1cb844749e983b4b61fac477116f97197e"
+  },
+  {
     "workId": "9801f42b-3e63-4ad8-6123-08df2a82baf6",
     "authorName": "Dionysius von Alexandria",
     "title": "Brief an Basilides",
-    "directory": "werke/Dionysius von Alexandria/Brief an Basilides",
-    "contentRevision": "sha256:818727b9d812b997b0cf5e08648ba0b78c39b6f06849a2fa2c5fd512e1b6378b"
+    "directory": "werke/Dionysius von Alexandria/Briefe/Brief an Basilides",
+    "contentRevision": "sha256:5d847cf52b8ae4235c50ea1babc3ccd9a2911e160ba0774bcc936a29e3be9523"
+  },
+  {
+    "workId": "e8d72e12-803f-4b14-1998-08df47d17bd6",
+    "authorName": "Dionysius von Alexandria",
+    "title": "Brief an Cornelius von Rom",
+    "directory": "werke/Dionysius von Alexandria/Briefe/Brief an Cornelius von Rom",
+    "contentRevision": "sha256:67120eedd6110fba94bc1f8d0bbe99afe611bba4dac0b2c778d8c87ba5c4db41"
+  },
+  {
+    "workId": "b78c9a09-916d-4f37-199a-08df47d17bd6",
+    "authorName": "Dionysius von Alexandria",
+    "title": "Brief an Dionysius",
+    "directory": "werke/Dionysius von Alexandria/Briefe/Brief an Dionysius",
+    "contentRevision": "sha256:6b361b3e4d73e62198c2a271d83dc38f613a1893624087c6c060022a8fb92cf0"
+  },
+  {
+    "workId": "d4e4a912-2267-44bb-199c-08df47d17bd6",
+    "authorName": "Dionysius von Alexandria",
+    "title": "Brief an Hermammon",
+    "directory": "werke/Dionysius von Alexandria/Briefe/Brief an Hermammon",
+    "contentRevision": "sha256:7f0fc7dad20a354cad935151c24e16fa1844f543da4b6c33cebfeb1b214475fc"
+  },
+  {
+    "workId": "d3525e5a-11fa-4dd1-199e-08df47d17bd6",
+    "authorName": "Dionysius von Alexandria",
+    "title": "Brief an Hierax, Bischof in Ägypten",
+    "directory": "werke/Dionysius von Alexandria/Briefe/Brief an Hierax, Bischof in Ägypten",
+    "contentRevision": "sha256:5b803020b911a1fc8b700b6e0a8f486e661f3fe3f71e7375066e349e4c3c63cc"
+  },
+  {
+    "workId": "54b30a75-480b-48f6-1996-08df47d17bd6",
+    "authorName": "Dionysius von Alexandria",
+    "title": "Brief an Novatus",
+    "directory": "werke/Dionysius von Alexandria/Briefe/Brief an Novatus",
+    "contentRevision": "sha256:d8367eed45e18d8700ff6a23822385c72240821ca1576deac48b298167f1915c"
+  },
+  {
+    "workId": "05804afd-b6d1-4bbc-1999-08df47d17bd6",
+    "authorName": "Dionysius von Alexandria",
+    "title": "Brief an den Presbyter Philemon",
+    "directory": "werke/Dionysius von Alexandria/Briefe/Brief an den Presbyter Philemon",
+    "contentRevision": "sha256:07509964f36a22f7299382c552f856cc88d63b2a7338099352f6da81c6619967"
+  },
+  {
+    "workId": "8b3afa61-18e2-43a8-199d-08df47d17bd6",
+    "authorName": "Dionysius von Alexandria",
+    "title": "Brief an die Alexandriner",
+    "directory": "werke/Dionysius von Alexandria/Briefe/Brief an die Alexandriner",
+    "contentRevision": "sha256:1d8c7b759ada8234bfc520299b5611afdda6f9d0ba0faaac35ccab17a1a4336a"
+  },
+  {
+    "workId": "c3751cb7-924c-442f-199b-08df47d17bd6",
+    "authorName": "Dionysius von Alexandria",
+    "title": "Gegen Bischof Germanus",
+    "directory": "werke/Dionysius von Alexandria/Gegen Bischof Germanus",
+    "contentRevision": "sha256:1602e469005a76346467693581a7dc8c4477534e2c860f493edf82ce006f5190"
+  },
+  {
+    "workId": "5495e5fb-4234-4c9a-1994-08df47d17bd6",
+    "authorName": "Dionysius von Alexandria",
+    "title": "Gegen Sabellius: Ob die Materie ungeworden sei (Fragment)",
+    "directory": "werke/Dionysius von Alexandria/Gegen Sabellius Ob die Materie ungeworden sei (Fragment)",
+    "contentRevision": "sha256:4a42bcfb08f7f18ae1eddc0a08a41bec721e474d501ceb98c93f99b2e0e64927"
+  },
+  {
+    "workId": "36925818-dcf8-4a79-19a2-08df47d17bd6",
+    "authorName": "Dionysius von Alexandria",
+    "title": "Kleinere Fragmente (zu Johannes 8,12; über die eine Wesenheit; über die Wiederaufnahme der Gefallenen)",
+    "directory": "werke/Dionysius von Alexandria/Kleinere Fragmente (zu Johannes 8,12; über die eine Wesenheit; über die Wiederaufnahme der Gefallenen)",
+    "contentRevision": "sha256:df3cdfa5c655b42e3f79769eb5a969e57b61beadb1d4d58ce7e7efb83f41f1c7"
+  },
+  {
+    "workId": "4198e8e9-ea5f-4b23-19a0-08df47d17bd6",
+    "authorName": "Dionysius von Alexandria",
+    "title": "Kommentar zum Anfang des Predigers (Fragmente)",
+    "directory": "werke/Dionysius von Alexandria/Kommentar zum Anfang des Predigers (Fragmente)",
+    "contentRevision": "sha256:a05b11d6b9e86bd0ab0083b34ea0869e5e3e39c73347eebc2cb2844054b3302a"
+  },
+  {
+    "workId": "87b53e9e-0922-4ebf-1993-08df47d17bd6",
+    "authorName": "Dionysius von Alexandria",
+    "title": "Über die Natur (Fragmente)",
+    "directory": "werke/Dionysius von Alexandria/Über die Natur (Fragmente)",
+    "contentRevision": "sha256:51a90d9c7a89a98f7beb2a7417c01c4e1f2e6ca77974894679510481e7d80f35"
+  },
+  {
+    "workId": "e1d220b5-f934-48a9-1992-08df47d17bd6",
+    "authorName": "Dionysius von Alexandria",
+    "title": "Über die Verheißungen (Fragmente)",
+    "directory": "werke/Dionysius von Alexandria/Über die Verheißungen (Fragmente)",
+    "contentRevision": "sha256:e18efbe5255839230e3b699a1e09304ed3e65405850a080b8ebb9d019cb419b0"
   },
   {
     "workId": "602b47f2-6b1d-454e-795d-08df2f547e9f",
@@ -1902,6 +2014,13 @@
     "title": "Zu den Inschriften der Säulenschrift",
     "directory": "werke/Eustathius von Antioch/Fragmente/Zu den Inschriften der Säulenschrift",
     "contentRevision": "sha256:33572954e8cf54cf7b2a0fd01dd7368fb46f14bda8e18240e9c6f0fb14753215"
+  },
+  {
+    "workId": "cea933c2-711c-4449-19aa-08df47d17bd6",
+    "authorName": "Eutropius von Valencia",
+    "title": "Brief an Papst Petrus über die acht Laster",
+    "directory": "werke/Eutropius von Valencia/Brief an Papst Petrus über die acht Laster",
+    "contentRevision": "sha256:d76c7e3b68e30329811df1d3050a8bd0b90099c5a28588e79ef4fd8fef70aa3c"
   },
   {
     "workId": "a8566146-1a6f-46be-eb23-08df2a23853e",
@@ -2275,6 +2394,13 @@
     "contentRevision": "sha256:79c47af5ffefaf8c51266ecf6e3036fc370c2bbfc62369f43091274bbb74cd5c"
   },
   {
+    "workId": "063fe9c3-5d2a-47b2-1243-08df46eb831d",
+    "authorName": "Gregor der Große",
+    "title": "Auslegung zu Hiob, Brief an Leander",
+    "directory": "werke/Gregor der Große/Auslegungen zu Hiob/Auslegung zu Hiob, Brief an Leander",
+    "contentRevision": "sha256:549530529de1d58c2b0c26f111058d0b307ec3db022230996f95412b50aeb964"
+  },
+  {
     "workId": "9e1e2185-6fba-490f-ccfa-08df46e3c72c",
     "authorName": "Gregor der Große",
     "title": "Auslegung zu Hiob, Buch 1",
@@ -2300,7 +2426,7 @@
     "authorName": "Gregor der Große",
     "title": "Auslegung zu Hiob, Buch 21",
     "directory": "werke/Gregor der Große/Auslegungen zu Hiob/Auslegung zu Hiob, Buch 21",
-    "contentRevision": "sha256:ee00bb75119fbb5807719a95f2c9bd0128dc574782d2101e5148552abb60e87a"
+    "contentRevision": "sha256:440bb20840bf511183aae945071047b9ae5865c8166ccacace1c036c870462e0"
   },
   {
     "workId": "0de95b9a-8681-43d7-cd0d-08df46e3c72c",
@@ -2315,6 +2441,13 @@
     "title": "Auslegung zu Hiob, Buch 28",
     "directory": "werke/Gregor der Große/Auslegungen zu Hiob/Auslegung zu Hiob, Buch 28",
     "contentRevision": "sha256:8f2e347af5753e5d10af179fd9f5d846d49dcaef04052fa89be20b90bc2063e9"
+  },
+  {
+    "workId": "f25ea879-690d-4151-1244-08df46eb831d",
+    "authorName": "Gregor der Große",
+    "title": "Auslegung zu Hiob, Vorwort",
+    "directory": "werke/Gregor der Große/Auslegungen zu Hiob/Auslegung zu Hiob, Vorwort",
+    "contentRevision": "sha256:8df1121cd813c0f9aaa245a83ebb2c55421479c1c72fdb686cbc24fcc7602119"
   },
   {
     "workId": "d4dc0cb4-27f5-422b-47c4-08dd468a1db5",
@@ -2357,6 +2490,13 @@
     "title": "Rede und Lobpreisung an Origenes",
     "directory": "werke/Gregor der Wundertäter/Rede und Lobpreisung an Origenes",
     "contentRevision": "sha256:ef6566acca609707ec7e8cd014773ef06cfea0ba7e59a7b893c15d7e5b196d2b"
+  },
+  {
+    "workId": "18629971-5016-42f4-19b7-08df47d17bd6",
+    "authorName": "Gregor von Agrigent",
+    "title": "Auslegung des Predigers, Buch 1",
+    "directory": "werke/Gregor von Agrigent/Auslegung des Predigers/Auslegung des Predigers, Buch 1",
+    "contentRevision": "sha256:cd28ab10998edb67f0f316323d2ccc4af3ec0a0c4aeb54ef534e2839064c0014"
   },
   {
     "workId": "feb4be0a-cb3c-4fec-ef76-08df374b6d26",
@@ -2581,6 +2721,20 @@
     "title": "Über die drei Tage zwischen Tod und Auferstehung",
     "directory": "werke/Gregor von Nyssa/Homilien/Über die drei Tage zwischen Tod und Auferstehung",
     "contentRevision": "sha256:04c4a8bee6be3bd7cd43f1122be49d6d1d6fcac2f1197108fa4f0eba5f15100c"
+  },
+  {
+    "workId": "246fe544-6757-48c9-19c5-08df47d17bd6",
+    "authorName": "Hadrian der Exeget",
+    "title": "Einführung in die Heilige Schrift",
+    "directory": "werke/Hadrian der Exeget/Einführung in die Heilige Schrift",
+    "contentRevision": "sha256:cd9ab3f3d8822194dc0592f33f9b4a00003dbe40a0c00f59fdec5d185059f38d"
+  },
+  {
+    "workId": "fdf09c9e-ac64-417c-1991-08df47d17bd6",
+    "authorName": "Hegesippus",
+    "title": "Fragmente aus den fünf Büchern der Denkwürdigkeiten",
+    "directory": "werke/Hegesippus/Fragmente aus den fünf Büchern der Denkwürdigkeiten",
+    "contentRevision": "sha256:f01b1f83ca2a0c1697efd353096016da338d2d39acaddd76bebf916e03548f24"
   },
   {
     "workId": "07b8ea1d-e055-460f-e4c8-08dd0635942f",
@@ -2870,6 +3024,13 @@
     "contentRevision": "sha256:33b0bb9692a8f422691face53868a7ff6da59738880813a7c5b3504774c5b467"
   },
   {
+    "workId": "5bd36f44-871a-47e5-9d57-08df47b62bf4",
+    "authorName": "Jakob von Sarug",
+    "title": "Eine Ermahnung",
+    "directory": "werke/Jakob von Sarug/Homilien/Eine Ermahnung",
+    "contentRevision": "sha256:829ca159931cbe9182b940306b7823c8fc361632c8ab48bb07aea107d0c8c5a4"
+  },
+  {
     "workId": "d7b1c4fa-4f83-438e-efa9-08df374b6d26",
     "authorName": "Jakob von Sarug",
     "title": "Homilie über den Priester Aaron",
@@ -2877,11 +3038,32 @@
     "contentRevision": "sha256:7dfde1e7bc5c05001bb2321e1e035dee98bb04ddacb54b57cff883bf24d8dc2d"
   },
   {
+    "workId": "bac5a1f9-fcf0-4db2-9d58-08df47b62bf4",
+    "authorName": "Jakob von Sarug",
+    "title": "Homilie über den Stern, den die Magier sahen",
+    "directory": "werke/Jakob von Sarug/Homilien/Homilie über den Stern, den die Magier sahen",
+    "contentRevision": "sha256:2b61021401ee92b9191c19e8f2d1ae4a4cd31d0d7812a44575dd2f35d3a1851a"
+  },
+  {
+    "workId": "1dfe11d1-fe9c-423d-9d5a-08df47b62bf4",
+    "authorName": "Jakob von Sarug",
+    "title": "Homilie über den verlorenen Sohn",
+    "directory": "werke/Jakob von Sarug/Homilien/Homilie über den verlorenen Sohn",
+    "contentRevision": "sha256:b2ce2a7435a169201ea5fe8d36ebd789c4331257d506f7b165050e955c0962b1"
+  },
+  {
     "workId": "c2bc4a43-67d9-4d2e-efa7-08df374b6d26",
     "authorName": "Jakob von Sarug",
     "title": "Homilie über die Herabkunft des Höchsten auf den Berg Sinai",
     "directory": "werke/Jakob von Sarug/Homilien/Homilie über die Herabkunft des Höchsten auf den Berg Sinai",
     "contentRevision": "sha256:9dd930348a85d3ae43cbc10d19938424020de3c4fbff090a49df4451c1831d88"
+  },
+  {
+    "workId": "bbed6d43-a5b6-4cac-9d59-08df47b62bf4",
+    "authorName": "Jakob von Sarug",
+    "title": "Homilie über die Taufe des Gesetzes, die Taufe des Johannes und die Taufe, die unser Herr den Aposteln gab",
+    "directory": "werke/Jakob von Sarug/Homilien/Homilie über die Taufe des Gesetzes, die Taufe des Johannes und die Taufe, die unser Herr den Aposteln gab",
+    "contentRevision": "sha256:3e102cb93a002f66664b1aa89f2d0095052ea9c3c8f080141f2bd288fa640763"
   },
   {
     "workId": "d99f01af-9d66-4483-c9aa-08df3763c831",
@@ -2896,6 +3078,13 @@
     "title": "Homilie über die Weihe der Kirche und über den Propheten Mose",
     "directory": "werke/Jakob von Sarug/Homilien/Homilie über die Weihe der Kirche und über den Propheten Mose",
     "contentRevision": "sha256:372e01261d8d546014f3790caee491f5b41bb9cc0c6a459bc2d8e4a11e83f532"
+  },
+  {
+    "workId": "868ca458-f082-4fd9-9d56-08df47b62bf4",
+    "authorName": "Jakob von Sarug",
+    "title": "Homilie über die eherne Schlange, die Mose in der Wüste aufrichtete",
+    "directory": "werke/Jakob von Sarug/Homilien/Homilie über die eherne Schlange, die Mose in der Wüste aufrichtete",
+    "contentRevision": "sha256:27d91f3b2b1deddcabe95f0701d3b40d683b89dca02661296f405f09c7607946"
   },
   {
     "workId": "c7b710e1-2bd2-4b70-bf61-08dd2e7f7439",
@@ -7266,6 +7455,13 @@
     "contentRevision": "sha256:2ccf0ecc701fbb2a311fec4db9d0496649fe25e99550d655cc0c8bb1d35d4862"
   },
   {
+    "workId": "48b93dea-d5f6-4931-19a4-08df47d17bd6",
+    "authorName": "Polykrates von Ephesus",
+    "title": "Brief an Victor von Rom über den Ostertermin (Fragment)",
+    "directory": "werke/Polykrates von Ephesus/Brief an Victor von Rom über den Ostertermin (Fragment)",
+    "contentRevision": "sha256:0223dcf9e224628973ac8e597e82ac07434f2914dfbb7986fe7f4391b7381310"
+  },
+  {
     "workId": "e88d2d84-9a1e-4718-9306-08df2ab9dfd2",
     "authorName": "Potamius von Lissabon",
     "title": "Über Lazarus",
@@ -7313,6 +7509,13 @@
     "title": "Gegen Symmachus, Buch 2",
     "directory": "werke/Prudentius/Gegen Symmachus/Gegen Symmachus, Buch 2",
     "contentRevision": "sha256:e5f0b62585773f642ee2d71feef6428f41e2163b8d0948559414acd7cf79c3d7"
+  },
+  {
+    "workId": "a6bda03b-1d97-41c8-19a3-08df47d17bd6",
+    "authorName": "Quadratus von Athen",
+    "title": "Apologie (Fragment)",
+    "directory": "werke/Quadratus von Athen/Apologie (Fragment)",
+    "contentRevision": "sha256:74764241504747d6d78b0fd22fbcdab6363eebaf9e970b923e395f54ed1c8bf0"
   },
   {
     "workId": "62cda066-f363-43cd-ec3d-08ddcd5c12c2",
@@ -7397,6 +7600,34 @@
     "title": "Brief an Cyprian über die Wiederaufnahme der Gefallenen",
     "directory": "werke/Römischer Klerus/Brief an Cyprian über die Wiederaufnahme der Gefallenen",
     "contentRevision": "sha256:b397a1f3f06afd1a6c145062360953c81d61bb391c3e866c0c5a94eba0d447c3"
+  },
+  {
+    "workId": "f0d9d30c-e05d-4ae6-19ac-08df47d17bd6",
+    "authorName": "Salonius von Genf",
+    "title": "Mystische Auslegung der Sprüche Salomos",
+    "directory": "werke/Salonius von Genf/Mystische Auslegung der Sprüche Salomos",
+    "contentRevision": "sha256:545d78ee0467492e1b994fffd8bb495fe856907e3d6672918c3bc1b73a301c0d"
+  },
+  {
+    "workId": "4005fca0-9c67-4d28-19ad-08df47d17bd6",
+    "authorName": "Salonius von Genf",
+    "title": "Mystische Auslegung des Predigers",
+    "directory": "werke/Salonius von Genf/Mystische Auslegung des Predigers",
+    "contentRevision": "sha256:76c586088b016af79f4bd6c7a5388b1add8dc107e839f1064aae85bae699ecf4"
+  },
+  {
+    "workId": "202f42b8-73c9-4556-19ae-08df47d17bd6",
+    "authorName": "Salvian von Marseille",
+    "title": "Über die Weltregierung Gottes, Buch 1",
+    "directory": "werke/Salvian von Marseille/Über die Weltregierung Gottes/Über die Weltregierung Gottes, Buch 1",
+    "contentRevision": "sha256:d46d48de82b0a32064638b418daaf86620a87a0e5b12784e38e4cd6f485734fa"
+  },
+  {
+    "workId": "4b16eb2c-ce86-44da-19af-08df47d17bd6",
+    "authorName": "Salvian von Marseille",
+    "title": "Über die Weltregierung Gottes, Buch 2",
+    "directory": "werke/Salvian von Marseille/Über die Weltregierung Gottes/Über die Weltregierung Gottes, Buch 2",
+    "contentRevision": "sha256:80a38de94f47674d4925842b01a0a2f061fa0c29444a2b0a82d5b285d4122261"
   },
   {
     "workId": "62f6137d-5226-4ec4-e830-08de248cd454",
@@ -7651,6 +7882,13 @@
     "contentRevision": "sha256:f10f71e630c6dc60830376deccdf71398d87514f2f7dc0be5d25142692b9c1b6"
   },
   {
+    "workId": "0b0406b7-7956-4e6e-19b6-08df47d17bd6",
+    "authorName": "Thalassius der Libyer",
+    "title": "Kapitel über Liebe, Enthaltsamkeit und die geistige Lebensführung",
+    "directory": "werke/Thalassius der Libyer/Kapitel über Liebe, Enthaltsamkeit und die geistige Lebensführung",
+    "contentRevision": "sha256:15c1c2f7f15eb4b2822508d3c26573bc675a3ae8e11fdc3d0b0e93f48469396e"
+  },
+  {
     "workId": "c8bbe3eb-7671-4ddf-040a-08df342ae31e",
     "authorName": "Theodor von Herakleia",
     "title": "Fragmente zu Matthäus",
@@ -7805,11 +8043,25 @@
     "contentRevision": "sha256:56cca5793d1f463bc9bff81a69eebfdc8b823ab4afbafdf0fe6390dbbec1ae36"
   },
   {
+    "workId": "dc2d0128-1690-41e0-19a6-08df47d17bd6",
+    "authorName": "Unbekannt",
+    "title": "Gegen die Montanisten, an Avircius Marcellus (Fragmente)",
+    "directory": "werke/Unbekannt/Gegen die Montanisten, an Avircius Marcellus (Fragmente)",
+    "contentRevision": "sha256:fd674098e8e3c6b1854becf0ff6e1bd609f1db5ae459b90ef7b21d3a011c4cd4"
+  },
+  {
     "workId": "5faaac4b-7265-4aae-2982-08df0355bdaf",
     "authorName": "Unbekannt",
     "title": "Gespräch des Archelaus",
     "directory": "werke/Unbekannt/Gespräch des Archelaus",
     "contentRevision": "sha256:cd9bf3f116dd1cd513e6a326e840047ce205d17c9b8cb2255e732eee7dbf1c57"
+  },
+  {
+    "workId": "eca4bde8-6ffb-4581-19a7-08df47d17bd6",
+    "authorName": "Unbekannt",
+    "title": "Oden Salomos",
+    "directory": "werke/Unbekannt/Oden Salomos",
+    "contentRevision": "sha256:8d07e325aeeb1592d19f41a6d25a5066b43cbe86814bc62740b34966b4950377"
   },
   {
     "workId": "b02d8ca4-1b39-4d0a-7246-08df1bbdfa0a",
@@ -7894,6 +8146,13 @@
     "title": "Pseudo-Hippolyt: Predigt auf das heilige Pascha",
     "directory": "werke/Unbekannt/Pseudo-Hippolyt Predigt auf das heilige Pascha",
     "contentRevision": "sha256:9fad53679aaf939291d5d2fabfcd832d67df2de32e66806ffc404dc4f34044aa"
+  },
+  {
+    "workId": "76ab8e3c-ed77-474b-19c1-08df47d17bd6",
+    "authorName": "Unbekannt",
+    "title": "Streitgespräch gegen die Juden",
+    "directory": "werke/Unbekannt/Streitgespräch gegen die Juden",
+    "contentRevision": "sha256:0d59e922b124ffdbdf59305fcdbdc96dd9c9053af66dae4ba2961e122fa97375"
   },
   {
     "workId": "da012c97-77fd-4904-d39b-08dd5a4cf805",
@@ -8062,5 +8321,12 @@
     "title": "Schriften über Exodus (Buch 2, 54–68)",
     "directory": "werke/Zeno von Verona/Schriften über Exodus (Buch 2, 54–68)",
     "contentRevision": "sha256:dbb9e4b35a520b9fe75caed3eca3b36f9cee0df21ba12daa5fadf1162f35fefe"
+  },
+  {
+    "workId": "7dafb392-9e48-4f27-19c4-08df47d17bd6",
+    "authorName": "Äneas von Gaza",
+    "title": "Theophrastos oder Über die Unsterblichkeit der Seele und die Auferstehung der Leiber",
+    "directory": "werke/Äneas von Gaza/Theophrastos oder Über die Unsterblichkeit der Seele und die Auferstehung der Leiber",
+    "contentRevision": "sha256:eb69c576e1c46e954a18dc1bdb08f8afb7f79af2e8b73c6294f7f57e017bf869"
   }
 ]

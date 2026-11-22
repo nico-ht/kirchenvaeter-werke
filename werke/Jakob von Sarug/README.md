@@ -6,4 +6,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Homilien](Homilien/) · 4 Werke
+- [Homilien](Homilien/) · 9 Werke
