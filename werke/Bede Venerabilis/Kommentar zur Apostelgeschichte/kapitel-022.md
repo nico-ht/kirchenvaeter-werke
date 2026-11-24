@@ -1,0 +1,58 @@
+# Kommentar zur Apostelgeschichte – Kapitel 22: Paulus hält in Jerusalem an Moses Bräuchen fest, ohne sie zur Bedingung des Heils zu machen
+
+Autor: Bede Venerabilis
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/bede/kommentar-zur-apostelgeschichte#kapitel-a3ec20eb-89eb-4733-7bfd-08df4870b521).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Wir brachen auf und zogen weiter, und sie begleiteten uns mit ihren Frauen und Kindern[^bible-73d67a6e-7406-481f-aed2-6a29e21d08e0] …“ Damit hat sich die Weissagung erfüllt, die sich im Lied an die Kirche wendet: „Die Töchter von Tyrus mit Gaben, alle Reichen des Volkes: Sie werden dein Angesicht anflehen[^bible-02536be7-ebb2-4a1a-849a-ba49fa363b3e]“, und so weiter bis zum Ende des Psalms\. Denn keine Stadt hat den Apostel mit größerer Herzlichkeit aufgenommen, bei sich behalten und verabschiedet\. Noch heute zeigt man die Stelle, an der sie gemeinsam am Strand beteten[^bible-73d67a6e-7406-481f-aed2-6a29e21d08e0]\.
+
+„Ein Prophet aus Judäa kam hinzu[^bible-e39ea00b-972b-43c2-b425-7ad7b1885d37]\.“ „Aus Judäa[^bible-e39ea00b-972b-43c2-b425-7ad7b1885d37]“ heißt es, weil Cäsarea, wo sie sich aufhielten, zum Gebiet von Samaria gehört und an der Grenze zwischen Phönizien und Palästina liegt\.
+
+„So spricht der Heilige Geist: Den Mann, dem dieser Gürtel gehört, werden die Juden in Jerusalem so fesseln[^bible-d6d48b77-c7e0-4e4d-ae01-29b8c616301a]\.“ Damit folgt er dem Vorbild der alten Propheten, die zu sagen pflegten: „So spricht Gott, der Herr\.“ Denn der Heilige Geist ist ebenso Herr und Gott wie der Vater und der Sohn, und ihr Wirken lässt sich nicht trennen, weil sie ein Wesen und einen Willen haben\. Daher lesen wir auch weiter oben: „Der Heilige Geist spricht: Sondert mir Barnabas und Saulus für das Werk ab, zu dem ich sie berufen habe[^bible-cfcf5438-79db-4db3-a18c-2330387ec43b]\.“ Damit ist das Apostelamt gemeint\. Und Paulus selbst schreibt: „Paulus, Apostel nicht von Menschen her und nicht durch einen Menschen, sondern durch Jesus Christus und Gott, den Vater[^bible-89b4c9da-3d1c-419b-9c08-67b04d536830]\.“ Das haben wir gesagt, damit nicht etwa jemand im Sinne des Macedonius glaubt, der Heilige Geist sei ein Geschöpf oder habe geringere Autorität als der Vater oder der Sohn\.
+
+„Am folgenden Tag aber ging Paulus mit uns zu Jakobus[^bible-0a36556b-83f0-4e61-9b37-ac79b4eb5752]\.“ Dieser Jakobus war der Bruder des Herrn[^bible-fd4bd6f7-25d8-46e9-af45-ab8b5e6d36ba], das heißt, er war der Sohn jener Maria, der Schwester der Mutter des Herrn[^bible-f3f17976-6069-412f-b8cc-bdc90c2e2b3b], die der Evangelist Johannes erwähnt\. Unmittelbar nach dem Leiden des Herrn weihten ihn die Apostel zum Bischof\. Er leitete dreißig Jahre lang die Kirche in Jerusalem, also bis zum siebten Regierungsjahr Neros\. Denn da die Juden Paulus nicht töten konnten, obwohl sie vor allem darauf aus waren, legten sie gleich nach dem Tod des Festus Hand an Jakobus, noch ehe Albinus in der Provinz eingetroffen war\. Jakobus wurde beim Tempel begraben, wo man ihn hinabgestürzt hatte\.
+
+„Sie haben aber über dich gehört, du lehrtest die Juden, die unter den Völkern leben, den Abfall von Mose[^bible-c30486bd-fda7-44c5-8b28-ecf69922721f] …“ Das heißt: Du sagtest, die Lehre Christi verwerfe als frevelhaft und nicht auf Gottes Geheiß niedergeschrieben, was den Vätern durch Mose übermittelt worden war\. Das hatten nicht diejenigen über Paulus verbreitet, die verstanden, in welchem Geist die gläubigen Juden damals an diesen Bräuchen festhalten sollten: Sie sollten damit die göttliche Autorität und die prophetische Heiligkeit jener Sakramente zur Geltung bringen, nicht aber das Heil erlangen\. Das Heil war ja schon in Christus offenbart und wurde durch das Sakrament der Taufe vermittelt\. Über Paulus verbreitet hatten es vielmehr diejenigen, die auf der Einhaltung dieser Bräuche bestanden, als könne es ohne sie im Evangelium für die Glaubenden kein Heil geben\. Sie hatten in Paulus nämlich einen überaus entschiedenen Verkünder der Gnade erkannt, dessen Lehre ihren Absichten ganz zuwiderlief: Der Mensch wird nicht durch jene Bräuche gerechtfertigt, sondern durch die Gnade Christi\. Um diese Gnade im Voraus anzukündigen, waren jene Schatten im Gesetz vorgeschrieben\. Um deshalb Hass gegen ihn zu schüren und ihn der Verfolgung auszusetzen, beschuldigten sie ihn, ein Feind des Gesetzes und der göttlichen Gebote zu sein\. Dem Hass, den diese falsche Anschuldigung weckte, konnte er am besten entgehen, indem er selbst die Bräuche vollzog, von denen man glaubte, er verwerfe sie als frevelhaft\. So konnte er zeigen, dass man damals diese Bräuche weder den Juden als gottlos verbieten noch den Nichtjuden als notwendig aufzwingen durfte\. Denn wenn Paulus diese Bräuche tatsächlich so abgelehnt hätte, wie man es über ihn gehört hatte, und wenn er sie nur zum Schein vollzogen hätte, um seine Überzeugung zu verbergen, hätte Jakobus nicht zu ihm gesagt:
+
+„Und alle werden wissen, dass das, was sie über dich gehört haben, falsch ist[^bible-df6e05ea-2e8b-456c-99dc-4ec8f87c5ff9]\.“ Er hätte vielmehr gesagt: „Alle werden es für falsch halten\.“ Das gilt umso mehr, als die Apostel schon in Jerusalem selbst beschlossen hatten, dass niemand die Nichtjuden zwingen dürfe, nach jüdischer Weise zu leben[^bible-e0776967-82cd-450a-85a4-15a9b858b8f4]\. Sie hatten dagegen nicht beschlossen, dass man den Juden damals verbieten sollte, nach jüdischer Weise zu leben, obwohl die christliche Lehre inzwischen auch sie nicht mehr dazu verpflichtete\.
+
+„Als aber die sieben Tage zu Ende gingen[^bible-f1a3435b-95a1-43b3-bce5-54b5c49bcc52]\.“ Diese Tage waren noch nicht abgelaufen; sie liefen noch, und man sah ihrem Ende entgegen\. Daher heißt es im Griechischen deutlicher: „Als aber die sieben Tage begannen, zu Ende zu gehen[^bible-f1a3435b-95a1-43b3-bce5-54b5c49bcc52]\.“ Sonst kann die Aussage nicht stimmen, die Paulus selbst fünf Tage nach seiner Ankunft in Cäsarea[^bible-35280124-3cbc-4e11-a71c-34c100ccd85b] vor dem Statthalter machte: „Es sind nicht mehr als zwölf Tage vergangen, seit ich nach Jerusalem hinaufgezogen bin, um anzubeten[^bible-fe0eb337-3abb-40f3-a198-89cb62cc4247]\.“ Rechnet man nämlich zu diesen sieben und jenen fünf Tagen noch den Tag jener Ratsversammlung hinzu, an dem Paulus die Pharisäer und Sadduzäer entzweit hatte[^bible-d3e0a789-4d2d-43f7-9ce2-6f4b94acc032], und den Tag, an dem die Juden unter einem Fluch geschworen hatten, ihn zu töten[^bible-ca3086c4-7cb3-4375-a12a-3425dc292c47], so kommt man zweifellos auf mehr als zwölf Tage\.
+
+„Das ist der Mann, der überall allen eine Lehre verkündet, die sich gegen das Volk, das Gesetz und diesen Ort richtet[^bible-405928d5-7b8f-44a3-9710-ac57762c7dc1]\.“ Weil sie sahen, dass die Anhänger der neuen Gnade seltener an den Riten des Gesetzes und an den Feiern des Tempels teilnahmen, fürchteten sie, wie es im Evangelium heißt, die Römer könnten kommen und ihnen sowohl den Ort als auch das Volk nehmen[^bible-4fb57c84-b591-4356-beb0-206078e0060d]\.
+
+Der Tribun fragte: „Kannst du Griechisch[^bible-17cd37a5-3854-4872-8890-167a06c50fc7]? Bist du nicht der Ägypter[^bible-9095b250-5150-4e92-9e40-df6bba9e00b6] …?“ Ein Ägypter war nämlich nach Judäa gekommen, hatte sich mit Zauberkunst den Ruf eines Propheten verschafft und an die dreißigtausend Juden um sich gesammelt\. Er führte sie durch die Wüste und gelangte bis zum Ölberg, bereit, von dort aus in Jerusalem einzufallen und sich die Stadt zu unterwerfen\. Doch Felix kam ihm zuvor und trat ihm sogleich mit Bewaffneten entgegen\. Der Ägypter wurde mit wenigen Begleitern in die Flucht geschlagen, andere wurden sogar getötet\. So setzte Felix dem unbesonnenen Unternehmen ohne Mühe ein Ende\.
+
+„Viertausend Sikarier[^bible-9095b250-5150-4e92-9e40-df6bba9e00b6]\.“ Was die Zahl der Gefolgsleute angeht, braucht man keinen Widerspruch zwischen den Worten des Tribunen und dem Bericht des Josephus über den Ägypter anzunehmen\. Es ist nämlich möglich, dass er zunächst mit wenigen Leuten kam, die im Verborgenen eine Gewaltherrschaft ausübten, und später durch Täuschung in aller Öffentlichkeit mehr Anhänger gewann\. Wie man liest, kam zur Zeit des Felix eine Art von Räubern auf, die sich weder abgelegene Orte noch unbeobachtete Stunden aussuchten, sondern sich am helllichten Tag mit Dolchen, also kurzen Schwertern, in der Hand unter die Leute mischten\. Sie drängten sich dicht an ihre Opfer heran und fügten ihnen unbemerkt blutige Wunden zu, sodass der Tod der Klage zuvorkam und der Täter unerkannt blieb\. Und wer sich darüber empörte, dass so etwas mitten in der Stadt geschah, kam ebenfalls um\. So wurde der Sikarier nicht gefasst, weil man entweder die Gefahr fürchtete oder so tat, als hätte man nichts bemerkt\.
+
+„Ich stamme aus Tarsus in Kilikien, einer nicht unbekannten Stadt, deren Gemeindebürger ich bin[^bible-ff6bca20-4889-469a-a5a1-9c7ad11d46c0]\.“ Geboren wurde der Apostel allerdings in Gischala, einer Stadt in Galiläa\. Als die Römer Gischala eingenommen hatten, zog er mit seinen Eltern nach Tarsus in Kilikien\. Seine Eltern schickten ihn zum Studium des Gesetzes nach Jerusalem\. Dort erhielt er, wie er im Folgenden selbst berichtet, Unterricht bei Gamaliel[^bible-12b62408-0bcb-4871-b7a0-3021671957c6], einem hochgelehrten Mann\. Er nennt sich aber nicht „Stadtbürger“, sondern „Gemeindebürger“, nach dem Municipium, das heißt dem Gebiet jener Stadt, in dem er aufwuchs\. Municipium heißt es, weil es nur die munia entrichtet, das heißt die geschuldeten Abgaben oder Leistungen\. Denn Rechtsfälle, in denen es um den freien Stand eines Menschen geht, die aufsehenerregendsten Rechtsfälle und diejenigen, die vom Herrscher ausgehen, fallen in die Zuständigkeit der Städte, wie es ihrem Rang entspricht\. Es ist also kein Wunder, dass er sich einen Mann aus Tarsus[^bible-ff6bca20-4889-469a-a5a1-9c7ad11d46c0] nennt und nicht einen aus Gischala\. Denn der Herr selbst kam in Bethlehem zur Welt[^bible-cd76fb03-6bed-477a-b570-f7d35f3159be], wurde aber nicht Bethlehemiter, sondern Nazarener genannt[^bible-a83d772d-338c-4707-8f14-36166df0efd1]\.
+
+## Bibelverweise
+
+[^bible-02536be7-ebb2-4a1a-849a-ba49fa363b3e]: Ps 45,13
+[^bible-0a36556b-83f0-4e61-9b37-ac79b4eb5752]: Apg 21,18
+[^bible-12b62408-0bcb-4871-b7a0-3021671957c6]: Apg 22,3
+[^bible-17cd37a5-3854-4872-8890-167a06c50fc7]: Apg 21,37
+[^bible-35280124-3cbc-4e11-a71c-34c100ccd85b]: Apg 24,1
+[^bible-405928d5-7b8f-44a3-9710-ac57762c7dc1]: Apg 21,28
+[^bible-4fb57c84-b591-4356-beb0-206078e0060d]: Joh 11,48
+[^bible-73d67a6e-7406-481f-aed2-6a29e21d08e0]: Apg 21,5
+[^bible-89b4c9da-3d1c-419b-9c08-67b04d536830]: Gal 1,1
+[^bible-9095b250-5150-4e92-9e40-df6bba9e00b6]: Apg 21,38
+[^bible-a83d772d-338c-4707-8f14-36166df0efd1]: Mt 2,23
+[^bible-c30486bd-fda7-44c5-8b28-ecf69922721f]: Apg 21,21
+[^bible-ca3086c4-7cb3-4375-a12a-3425dc292c47]: Apg 23,12
+[^bible-cd76fb03-6bed-477a-b570-f7d35f3159be]: Mt 2,1
+[^bible-cfcf5438-79db-4db3-a18c-2330387ec43b]: Apg 13,2
+[^bible-d3e0a789-4d2d-43f7-9ce2-6f4b94acc032]: Apg 23,6–Apg 23,10
+[^bible-d6d48b77-c7e0-4e4d-ae01-29b8c616301a]: Apg 21,11
+[^bible-df6e05ea-2e8b-456c-99dc-4ec8f87c5ff9]: Apg 21,24
+[^bible-e0776967-82cd-450a-85a4-15a9b858b8f4]: Apg 15,19–Apg 15,29
+[^bible-e39ea00b-972b-43c2-b425-7ad7b1885d37]: Apg 21,10
+[^bible-f1a3435b-95a1-43b3-bce5-54b5c49bcc52]: Apg 21,27
+[^bible-f3f17976-6069-412f-b8cc-bdc90c2e2b3b]: Joh 19,25
+[^bible-fd4bd6f7-25d8-46e9-af45-ab8b5e6d36ba]: Gal 1,19
+[^bible-fe0eb337-3abb-40f3-a198-89cb62cc4247]: Apg 24,11
+[^bible-ff6bca20-4889-469a-a5a1-9c7ad11d46c0]: Apg 21,39
