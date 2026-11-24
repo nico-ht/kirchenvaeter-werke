@@ -11,5 +11,6 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Einzelwerke
 
+- [Kommentar zur Apostelgeschichte](Kommentar%20zur%20Apostelgeschichte/) · 29 Kapitel
 - [Über den Tempel Salomos](%C3%9Cber%20den%20Tempel%20Salomos/) · 26 Kapitel
 - [Über die Zeitrechnung (De temporum ratione)](%C3%9Cber%20die%20Zeitrechnung%20%28De%20temporum%20ratione%29/) · 72 Kapitel

@@ -238,11 +238,67 @@
     "contentRevision": "sha256:6d6577748f350ce75955decfd63b6f277685d3ec13c08c3a8ec21cfd7124d3c0"
   },
   {
+    "workId": "12209307-3d34-4331-e4df-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "10. Unterweisung – Über die Hirten",
+    "directory": "werke/Aphrahat/Unterweisungen/10. Unterweisung – Über die Hirten",
+    "contentRevision": "sha256:0c929e912f50cd7e4776fd99c8ede26b5bc80bc12f4ee1fd7fc8426a4c2fa155"
+  },
+  {
     "workId": "532c5494-9a0d-42fc-efa2-08df374b6d26",
     "authorName": "Aphrahat",
     "title": "12. Unterweisung – Über das Pascha",
     "directory": "werke/Aphrahat/Unterweisungen/12. Unterweisung – Über das Pascha",
     "contentRevision": "sha256:511bfd5ff35e286b9a8978767373d3c03e7d1b6b40b287c542092d467a00f52b"
+  },
+  {
+    "workId": "509b8a84-22d8-4413-e4e0-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "13. Unterweisung – Über den Sabbat",
+    "directory": "werke/Aphrahat/Unterweisungen/13. Unterweisung – Über den Sabbat",
+    "contentRevision": "sha256:6d5479e3686189b656d5e5f3bc548999b0344639a3ace3e4c92321ea55bf716e"
+  },
+  {
+    "workId": "e3d6e168-7ccd-4610-e4e3-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "16. Unterweisung – Über die Völker, die an die Stelle des Volkes getreten sind",
+    "directory": "werke/Aphrahat/Unterweisungen/16. Unterweisung – Über die Völker, die an die Stelle des Volkes getreten sind",
+    "contentRevision": "sha256:d39abfa062d4594a4929dae981d7111fc5925d99cd10d7ac0de8fe226f24e753"
+  },
+  {
+    "workId": "2989c907-cbe4-42f5-e4e5-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "18. Unterweisung – Gegen die Juden: Über Jungfräulichkeit und Heiligkeit",
+    "directory": "werke/Aphrahat/Unterweisungen/18. Unterweisung – Gegen die Juden Über Jungfräulichkeit und Heiligkeit",
+    "contentRevision": "sha256:f9eddb3f57f0bf02d030be62a26a54adec633676978fa178eee540ca358b79c5"
+  },
+  {
+    "workId": "ee80d2c6-ee69-4c80-e4da-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "4. Unterweisung – Über das Gebet",
+    "directory": "werke/Aphrahat/Unterweisungen/4. Unterweisung – Über das Gebet",
+    "contentRevision": "sha256:ff15a6c942cd844368697c926a34ddec14bb2fd11a95c5f2d5178d669adb287b"
+  },
+  {
+    "workId": "a918013d-46f5-4166-e4db-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "5. Unterweisung – Über die Kriege",
+    "directory": "werke/Aphrahat/Unterweisungen/5. Unterweisung – Über die Kriege",
+    "contentRevision": "sha256:179566b4058f8c1cb522f75f38fe24d7a5b4fdae76bbb357a84c58a379a36605"
+  },
+  {
+    "workId": "bcd2d6e6-86d1-4551-e4dd-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "8. Unterweisung – Über die Auferstehung der Toten",
+    "directory": "werke/Aphrahat/Unterweisungen/8. Unterweisung – Über die Auferstehung der Toten",
+    "contentRevision": "sha256:237802a66b77118ffd1e3f788c7fd5fc2a59bfba4d04ef9fadd5246b31c6ffcc"
+  },
+  {
+    "workId": "2b818902-5db6-4c2e-e4de-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "9. Unterweisung – Über die Demut",
+    "directory": "werke/Aphrahat/Unterweisungen/9. Unterweisung – Über die Demut",
+    "contentRevision": "sha256:fd9b6b9b1842e1154cd4062e198235676766c55232af579b7d3f629626acdebc"
   },
   {
     "workId": "1ec90c15-195f-4618-481e-08deae7e3625",
@@ -1286,6 +1342,13 @@
     "title": "Kommentar zu Markus, Buch 4",
     "directory": "werke/Bede Venerabilis/Kommentar zu Markus/Kommentar zu Markus, Buch 4",
     "contentRevision": "sha256:d7ac8016edce639172138758cb300918bf4fb9d48fd24ce8a16d0b8db91528ad"
+  },
+  {
+    "workId": "85e56b87-072d-4255-6f4b-08df4870b4c2",
+    "authorName": "Bede Venerabilis",
+    "title": "Kommentar zur Apostelgeschichte",
+    "directory": "werke/Bede Venerabilis/Kommentar zur Apostelgeschichte",
+    "contentRevision": "sha256:6da2d8000825832f12ebf3acdfe87155ff860d950610ad23f0ca3cb7fa8ee019"
   },
   {
     "workId": "6ff5a02b-dae5-4ca8-70d0-08df3a508666",
@@ -2443,6 +2506,13 @@
     "contentRevision": "sha256:8f2e347af5753e5d10af179fd9f5d846d49dcaef04052fa89be20b90bc2063e9"
   },
   {
+    "workId": "c7ade4a6-1d41-4120-ccfb-08df46e3c72c",
+    "authorName": "Gregor der Große",
+    "title": "Auslegung zu Hiob, Buch 3",
+    "directory": "werke/Gregor der Große/Auslegungen zu Hiob/Auslegung zu Hiob, Buch 3",
+    "contentRevision": "sha256:d46b6f7024166a6739c4a9f9e5f1783853ddc7560622765f3c9af03caff3beb5"
+  },
+  {
     "workId": "f25ea879-690d-4151-1244-08df46eb831d",
     "authorName": "Gregor der Große",
     "title": "Auslegung zu Hiob, Vorwort",
@@ -2496,7 +2566,7 @@
     "authorName": "Gregor von Agrigent",
     "title": "Auslegung des Predigers, Buch 1",
     "directory": "werke/Gregor von Agrigent/Auslegung des Predigers/Auslegung des Predigers, Buch 1",
-    "contentRevision": "sha256:cd28ab10998edb67f0f316323d2ccc4af3ec0a0c4aeb54ef534e2839064c0014"
+    "contentRevision": "sha256:23f6ca0142687f090a9a9c2291306aa847a1287688ba0a9e3d9f05e79aabbc5b"
   },
   {
     "workId": "feb4be0a-cb3c-4fec-ef76-08df374b6d26",
@@ -7630,6 +7700,13 @@
     "contentRevision": "sha256:80a38de94f47674d4925842b01a0a2f061fa0c29444a2b0a82d5b285d4122261"
   },
   {
+    "workId": "4bb044f0-419d-42a3-19b0-08df47d17bd6",
+    "authorName": "Salvian von Marseille",
+    "title": "Über die Weltregierung Gottes, Buch 3",
+    "directory": "werke/Salvian von Marseille/Über die Weltregierung Gottes/Über die Weltregierung Gottes, Buch 3",
+    "contentRevision": "sha256:33a69786959a738a7d8f06e57e7595532b0c48904506ccf5fcc8b15eacb8f832"
+  },
+  {
     "workId": "62f6137d-5226-4ec4-e830-08de248cd454",
     "authorName": "Serapion von Thmuis",
     "title": "Über den Vater und den Sohn",
@@ -8327,6 +8404,6 @@
     "authorName": "Äneas von Gaza",
     "title": "Theophrastos oder Über die Unsterblichkeit der Seele und die Auferstehung der Leiber",
     "directory": "werke/Äneas von Gaza/Theophrastos oder Über die Unsterblichkeit der Seele und die Auferstehung der Leiber",
-    "contentRevision": "sha256:eb69c576e1c46e954a18dc1bdb08f8afb7f79af2e8b73c6294f7f57e017bf869"
+    "contentRevision": "sha256:26366009403819772556b98cb60307035ad2a08c8863412c1f74d545231f2607"
   }
 ]

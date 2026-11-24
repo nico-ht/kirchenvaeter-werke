@@ -6,4 +6,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Unterweisungen](Unterweisungen/) · 1 Werk
+- [Unterweisungen](Unterweisungen/) · 9 Werke
