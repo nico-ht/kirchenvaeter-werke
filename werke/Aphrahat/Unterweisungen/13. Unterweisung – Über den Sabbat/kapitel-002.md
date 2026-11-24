@@ -1,0 +1,19 @@
+# 13\. Unterweisung – Über den Sabbat – Kapitel 2: Am Vieh zeigt sich: Der Sabbat gewährt Ruhe, ohne dass sein Halten als Gerechtigkeit angerechnet wird
+
+Autor: Aphrahat
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/aphrahat/13-unterweisung-ueber-den-sabbat#kapitel-0f52921e-ea5c-4998-11db-08df4969f332).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Der Sabbat wurde nämlich nicht eingesetzt, um zwischen Tod und Leben zu scheiden, auch nicht zwischen Gerechtigkeit und Sünde\. Er wurde vielmehr zur Ruhe gegeben\. Anders ist es bei manchen anderen Geboten: Durch sie leben die Menschen[^bible-6f7bd252-10c3-4ae1-adf9-a666c3de3c32]; wer sie aber nicht befolgt, stirbt\. Als man den Sabbat hielt, war er ja dem Volk zur Ruhe gegeben\. Und nicht nur die Menschen sollten ausruhen, sondern auch das Vieh\. Denn es heißt: „Dein Rind, dein Esel und dein ganzes Vieh sollen ausruhen\.[^bible-372368ed-94d8-4140-a1f7-9d12d6c1b485]“ Wäre der Sabbat aber dazu eingesetzt, zwischen Tod und Leben, zwischen Gerechtigkeit und Sünden zu scheiden, was hätte das Vieh davon, den Sabbat zu halten? Oder welche Strafe hätte es zu erleiden, wenn es ihn nicht hielte? Wir sehen ja: An den anderen Tagen, an denen das Vieh seinen Dienst tut und sich bei der Arbeit abmüht, ist es weit eher gerecht zu nennen als am Sabbat\. Denn an den Arbeitstagen müht sich das Vieh damit ab, Lasten zu tragen, und die Rinder ziehen den Pflug\. Vor Müdigkeit haben die Tiere keine Gelegenheit zu sündigen\. Am Sabbat dagegen, wenn Esel, Rinder und das Vieh aller Arten untätig sind, hält sie nichts davon ab, sich mit ihren Müttern, ihren Schwestern oder sonstigen nahen Blutsverwandten zu paaren\. Und doch wird ihnen keine Sünde zur Last gelegt, wenn sie am Sabbat solche Sünden begehen\. Denn das ist das Gesetz, nach dem alles Vieh lebt\. Bedenke: Das Vieh lädt mit diesem Verhalten keine Sünde auf sich, und ebenso wenig kommt ihm Gerechtigkeit zu\. Denn wer Taten der Gerechtigkeit vollbringt, empfängt den Lohn dafür in der neuen Welt, wenn die Toten wieder lebendig werden\. Für das Vieh aber gibt es keine Auferstehung, bei der es für das Halten des Sabbats seinen Lohn empfangen könnte, und es kommt auch nicht vor Gericht\. So wenig das Gesetz dem Vieh ein anderes Gebot auferlegt, das es halten müsste, so wenig nützt ihm der Sabbat\. Der Heilige hat ja in seinem Gesetz geboten: „Du sollst nicht die Ehe brechen\.[^bible-d6a73a03-def5-4ec6-9363-f419da5c65e5]“ Das Vieh aber begeht vor aller Augen Ehebruch und treibt offen Unzucht\. Das Gesetz gebietet und warnt auch: „Verflucht ist jeder, der seine Schwester oder eine andere nahe Blutsverwandte zur Frau nimmt\.[^bible-9ee6f441-e63f-4bb3-af60-a4160249f373]“ All das tut das Vieh\. Weiter steht geschrieben: „Du sollst nicht töten\.[^bible-469aaa7e-db4c-4f1a-9823-8f8c12a49828]“ Das Vieh aber tötet aus Unverstand seine Gefährtin und frisst von ihrem Fleisch\. Auch das steht geschrieben: „Schlachte und iss alles, doch Blut sollst du nicht essen\.[^bible-f68cf8f8-bb50-4a5a-9752-c5bbe26597ab]“ Das Vieh aber leckt sein eigenes Blut auf, und unreines Fleisch frisst es noch lieber\. Wenn es also dem Vieh etwas nützen würde, den Sabbat zu halten, würde das Gesetz es zuerst von diesen Unreinheiten abhalten und ihm erst dann das Halten des Sabbats als Gerechtigkeit anrechnen\.
+
+## Bibelverweise
+
+[^bible-372368ed-94d8-4140-a1f7-9d12d6c1b485]: Dtn 5,14
+[^bible-469aaa7e-db4c-4f1a-9823-8f8c12a49828]: Ex 20,13
+[^bible-6f7bd252-10c3-4ae1-adf9-a666c3de3c32]: Lev 18,5
+[^bible-9ee6f441-e63f-4bb3-af60-a4160249f373]: Dtn 27,22
+[^bible-d6a73a03-def5-4ec6-9363-f419da5c65e5]: Ex 20,14
+[^bible-f68cf8f8-bb50-4a5a-9752-c5bbe26597ab]: Dtn 12,15–Dtn 12,16
