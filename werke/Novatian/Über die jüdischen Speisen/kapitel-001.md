@@ -1,0 +1,18 @@
+# Über die jüdischen Speisen – Kapitel 1: Novatian bestärkt die Brüder im Evangelium und kündigt seine Kritik am Reinheitsanspruch der Speisegebote an
+
+Autor: Novatian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/novatian/ueber-die-juedischen-speisen#kapitel-85009083-d360-404c-175e-08df4a002c55).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Während der Verfolgung unter Decius lebte der römische Presbyter Novatian zurückgezogen\. Verschiedene Briefe der Brüder gaben ihm damals Anlass, nach seinen beiden früheren Briefen über die Beschneidung und den Sabbat auch diesen gegen die Juden gerichteten Brief über die jüdischen Speisen zu veröffentlichen\.
+
+Keinen Tag sehne ich mehr herbei, heiligste Brüder, als den, an dem ich eure Briefe und Schriften erhalte\. Ich zähle ihn zu den bedeutendsten und glücklichsten Tagen \(was sonst könnte mich jetzt freier machen?\)\. Doch für nicht weniger bedeutend halte ich den Tag, an dem ich euch in der Liebe, die ich euch schulde, mit ebensolchen Briefen antworte und meinerseits mit demselben Verlangen an euch schreibe\. Auch ihn zähle ich zu den besonderen Tagen\. Denn nichts, heiligste Brüder, hält mich so fest in Fesseln, nichts stachelt mich mit solcher Sorge und Unruhe auf und treibt mich so um wie die Befürchtung, ihr könntet meinen, ihr hättet durch meine Abwesenheit einen Verlust erlitten\. Dem suche ich abzuhelfen, indem ich mich bemühe, euch durch häufige Briefe gegenwärtig zu sein\. Schon die Pflicht, die ich zu erfüllen habe, die Fürsorge, die ich übernommen habe, und das mir auferlegte Amt selbst nötigen mich also, euch zu schreiben\. Doch ihr macht mir das Schreiben noch dringlicher, indem ihr mich mit immer häufigeren Briefen dazu auffordert\. Zu solchen Liebesdiensten bin ich ohnehin bereit, doch spornt ihr mich noch mehr dazu an, indem ihr zeigt, dass ihr unablässig am Evangelium festhaltet\. So kommt es, dass ich euch mit meinen Briefen weniger belehre als ansporne: Ihr seid schon unterwiesen und steht bereit\. Denn ihr haltet nicht nur am reinen Evangelium fest, das von jedem Makel verkehrter Lehre frei ist, sondern lehrt es auch mutig\. Ihr sucht keinen Menschen als Lehrer, denn durch euer Tun zeigt ihr, dass ihr selbst Lehrer seid\. So ermuntere ich euch, die ihr lauft, rüttle euch auf, die ihr wacht, rede euch im Kampf gegen die geistlichen Mächte der Bosheit[^bible-410f9372-1d8f-4464-a970-16be74beab04] zu und treibe euch an, die ihr im Lauf der Berufung in Christus dem Siegespreis entgegenstrebt[^bible-3cfe269a-5298-4221-b581-0d6dbcd070d4]\. So sollt ihr die frevelhaften Verleumdungen der Häretiker ebenso wie die müßigen Fabeln der Juden[^bible-195ced1d-2f04-496d-8e3c-0bf3efcdec9e] mit Füßen treten und verwerfen und allein an der Überlieferung und Lehre Christi festhalten, damit ihr die Autorität seines Namens mit Fug und Recht für euch beanspruchen könnt\. Wie verkehrt aber die Juden sind und wie fern ihnen das Verständnis ihres eigenen Gesetzes liegt, habe ich, wie ich meine, in den beiden früheren Briefen ausführlich gezeigt\. Darin ist erwiesen, dass sie überhaupt nicht wissen, was die wahre Beschneidung ist und was der wahre Sabbat\. In diesem Brief weise ich ihre Blindheit noch deutlicher nach, indem ich kurz auf ihre Speisen eingehe\. Denn wegen dieser Speisen halten sie sich allein für heilig und alle anderen für unrein\.
+
+## Bibelverweise
+
+[^bible-195ced1d-2f04-496d-8e3c-0bf3efcdec9e]: Tit 1,14
+[^bible-3cfe269a-5298-4221-b581-0d6dbcd070d4]: Phil 3,14
+[^bible-410f9372-1d8f-4464-a970-16be74beab04]: Eph 6,12
