@@ -91,6 +91,13 @@
     "contentRevision": "sha256:3516ececb9303a2e61a89e2d5d34234c4c382e0a1aea441666144e6a05adfcea"
   },
   {
+    "workId": "7a9c7d00-d3c4-4ba5-26b4-08df4a002bf7",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Kommentar zu Lukas, Prolog",
+    "directory": "werke/Ambrosius von Mailand/Kommentar zu Lukas/Kommentar zu Lukas, Prolog",
+    "contentRevision": "sha256:aa2c8d64285276055fade16a870a55bb143175f052fa650e5b3cd0a7b1235c03"
+  },
+  {
     "workId": "b27be0ce-8b3a-4bef-2530-08dd75f9cbf5",
     "authorName": "Ambrosius von Mailand",
     "title": "Kommentar zu Psalm 1",
@@ -263,7 +270,7 @@
     "authorName": "Aphrahat",
     "title": "16. Unterweisung – Über die Völker, die an die Stelle des Volkes getreten sind",
     "directory": "werke/Aphrahat/Unterweisungen/16. Unterweisung – Über die Völker, die an die Stelle des Volkes getreten sind",
-    "contentRevision": "sha256:d39abfa062d4594a4929dae981d7111fc5925d99cd10d7ac0de8fe226f24e753"
+    "contentRevision": "sha256:2c4dc3c36fb8dd3a2eea8b162ec92b1929aa5f99ca12551389ca6fde6690a171"
   },
   {
     "workId": "2989c907-cbe4-42f5-e4e5-08df4969f2a1",
@@ -271,6 +278,41 @@
     "title": "18. Unterweisung – Gegen die Juden: Über Jungfräulichkeit und Heiligkeit",
     "directory": "werke/Aphrahat/Unterweisungen/18. Unterweisung – Gegen die Juden Über Jungfräulichkeit und Heiligkeit",
     "contentRevision": "sha256:f9eddb3f57f0bf02d030be62a26a54adec633676978fa178eee540ca358b79c5"
+  },
+  {
+    "workId": "d5a9ffdc-4e2e-490a-e4d8-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "2. Unterweisung – Über die Liebe",
+    "directory": "werke/Aphrahat/Unterweisungen/2. Unterweisung – Über die Liebe",
+    "contentRevision": "sha256:c73fa8e61fb041158927efd22be1c2176f1342c304dc694ff27bf99b7c95970c"
+  },
+  {
+    "workId": "35fc0c4a-e1cb-4623-e4e7-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "20. Unterweisung – Über die Sorge für die Armen",
+    "directory": "werke/Aphrahat/Unterweisungen/20. Unterweisung – Über die Sorge für die Armen",
+    "contentRevision": "sha256:c050365f2e30956afca8b79825eb95675f72a54155b018e8ab0a03d5bd6b5c39"
+  },
+  {
+    "workId": "3e7d162c-3ab1-41f2-e4e8-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "21. Unterweisung – Über die Verfolgung",
+    "directory": "werke/Aphrahat/Unterweisungen/21. Unterweisung – Über die Verfolgung",
+    "contentRevision": "sha256:1171fb2d946fc0474c0da68c6ebddd95ac94b74e1965dcc74755ee46700fbb05"
+  },
+  {
+    "workId": "ab85405c-97d5-4314-e4e9-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "22. Unterweisung – Über den Tod und die letzten Zeiten",
+    "directory": "werke/Aphrahat/Unterweisungen/22. Unterweisung – Über den Tod und die letzten Zeiten",
+    "contentRevision": "sha256:c561902e213bab7f4980ad5410cd7b597ec8e55e02e55ce7881cd6688e5fe26b"
+  },
+  {
+    "workId": "24eb1ea8-e2ac-41f2-e4d9-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "3. Unterweisung – Über das Fasten",
+    "directory": "werke/Aphrahat/Unterweisungen/3. Unterweisung – Über das Fasten",
+    "contentRevision": "sha256:b9c97b5f13092a09cd66d5eeb7346cdc788e3f8447dc43bf69807d9a3dfb5ba4"
   },
   {
     "workId": "ee80d2c6-ee69-4c80-e4da-08df4969f2a1",
@@ -285,6 +327,13 @@
     "title": "5. Unterweisung – Über die Kriege",
     "directory": "werke/Aphrahat/Unterweisungen/5. Unterweisung – Über die Kriege",
     "contentRevision": "sha256:179566b4058f8c1cb522f75f38fe24d7a5b4fdae76bbb357a84c58a379a36605"
+  },
+  {
+    "workId": "45ce5afd-c9eb-4367-9eb2-08df40e2b485",
+    "authorName": "Aphrahat",
+    "title": "7. Unterweisung – Über die Büßer",
+    "directory": "werke/Aphrahat/Unterweisungen/7. Unterweisung – Über die Büßer",
+    "contentRevision": "sha256:55596dea7bec9fc1b1b254e40e500e702841a531a435fb23d6f228cdd18d9df8"
   },
   {
     "workId": "bcd2d6e6-86d1-4551-e4dd-08df4969f2a1",
@@ -1946,6 +1995,20 @@
     "contentRevision": "sha256:c95547a72ddcb4895c2b3a069d940b12720992272595c36569d50db2b46f3bde"
   },
   {
+    "workId": "a30ba580-9c8c-42ca-30d6-08df44243c92",
+    "authorName": "Euagrios Ponticos",
+    "title": "Über das Gebet",
+    "directory": "werke/Euagrios Ponticos/Über das Gebet",
+    "contentRevision": "sha256:35a10eec0b95ad3c986c0d78ac3da965ec945a18f15cefee5d489a8104cca772"
+  },
+  {
+    "workId": "40053f9a-2960-42be-30d7-08df44243c92",
+    "authorName": "Euagrios Ponticos",
+    "title": "Über die verschiedenen bösen Gedanken",
+    "directory": "werke/Euagrios Ponticos/Über die verschiedenen bösen Gedanken",
+    "contentRevision": "sha256:65f2df35a6e2dd661643dbb7659fb608b8632fd4923af6fe3c159b8707a8351c"
+  },
+  {
     "workId": "af05db84-d4a2-477b-70be-08df3a508666",
     "authorName": "Eucherius von Lyon",
     "title": "Unterweisungen, Buch 1",
@@ -2352,6 +2415,13 @@
     "contentRevision": "sha256:a6e8355cfc1c588973504f0871b54c8b9dcf90a2e1c0fcd617b8d8fa28d440ad"
   },
   {
+    "workId": "52a6a62d-384c-4c6e-1cec-08df40afae0d",
+    "authorName": "Gregor der Große",
+    "title": "31. Homilie über die Evangelien",
+    "directory": "werke/Gregor der Große/Homilien über die Evangelien/31. Homilie über die Evangelien",
+    "contentRevision": "sha256:c6792459d8a954fbe1a0354d128a54b669acfd268908a7cbcc3371ecf10ce6ef"
+  },
+  {
     "workId": "68e52079-e3da-4d6b-1ced-08df40afae0d",
     "authorName": "Gregor der Große",
     "title": "32. Homilie über die Evangelien",
@@ -2511,6 +2581,13 @@
     "title": "Auslegung zu Hiob, Buch 3",
     "directory": "werke/Gregor der Große/Auslegungen zu Hiob/Auslegung zu Hiob, Buch 3",
     "contentRevision": "sha256:d46b6f7024166a6739c4a9f9e5f1783853ddc7560622765f3c9af03caff3beb5"
+  },
+  {
+    "workId": "d550762f-1d16-4a40-ccfc-08df46e3c72c",
+    "authorName": "Gregor der Große",
+    "title": "Auslegung zu Hiob, Buch 4",
+    "directory": "werke/Gregor der Große/Auslegungen zu Hiob/Auslegung zu Hiob, Buch 4",
+    "contentRevision": "sha256:3d27cba70ae1a935d6b972b4b7de42c53cce9378d24ce3466fbd69f42c8d81fd"
   },
   {
     "workId": "f25ea879-690d-4151-1244-08df46eb831d",
@@ -3535,6 +3612,13 @@
     "contentRevision": "sha256:cb8690ae0e69e3e6cd1b326007e1cd9f208b4da065a5076a88cb8e5f63dbfb76"
   },
   {
+    "workId": "071de236-82ae-4250-30f3-08df44243c92",
+    "authorName": "Johannes Chrysostomus",
+    "title": "22. Homilie über die Apostelgeschichte",
+    "directory": "werke/Johannes Chrysostomus/Homilien über die Apostelgeschichte/22. Homilie über die Apostelgeschichte",
+    "contentRevision": "sha256:f1b79b54342510221fba436e09dcda7e96e96766fbc6e9e1f35144e2f342aa4b"
+  },
+  {
     "workId": "edca205b-35ce-406e-0d14-08deaac01ae8",
     "authorName": "Johannes Chrysostomus",
     "title": "23. Homilie über Genesis",
@@ -3675,6 +3759,13 @@
     "contentRevision": "sha256:ffc1a24537dcdcdd6958db027f4f0b9ac7698185c45f00b25f5eb1428f724394"
   },
   {
+    "workId": "067c8f1f-1225-495c-30fb-08df44243c92",
+    "authorName": "Johannes Chrysostomus",
+    "title": "29. Homilie über die Apostelgeschichte",
+    "directory": "werke/Johannes Chrysostomus/Homilien über die Apostelgeschichte/29. Homilie über die Apostelgeschichte",
+    "contentRevision": "sha256:8526c79ffcaacab3cac57ae6e1e04352cacd556e3d8986e7c5bd7be796b79f7d"
+  },
+  {
     "workId": "ac82285c-5ed2-458d-1b70-08dd32f4f052",
     "authorName": "Johannes Chrysostomus",
     "title": "3. Homilie über Genesis",
@@ -3778,6 +3869,13 @@
     "title": "32. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/32. Homilie über Matthäus",
     "contentRevision": "sha256:b48a6c758efd63b114e2cad551ba70535741de6ff919ff895b8866f964d05697"
+  },
+  {
+    "workId": "a3b6fba3-a02f-4d8f-3100-08df44243c92",
+    "authorName": "Johannes Chrysostomus",
+    "title": "32. Homilie über die Apostelgeschichte",
+    "directory": "werke/Johannes Chrysostomus/Homilien über die Apostelgeschichte/32. Homilie über die Apostelgeschichte",
+    "contentRevision": "sha256:07c5b49e85a50fc951b5b0fedb170aa5dc466d94d842e8bf11f956e40ba23baf"
   },
   {
     "workId": "01efa7d6-371d-4743-883a-08df34555aa5",
@@ -4074,6 +4172,13 @@
     "contentRevision": "sha256:5ed75ed6964a3b795ab4213cc138ffb14fc15bc46388ffdbc9a545aca24a0b91"
   },
   {
+    "workId": "9b189ec2-a7d0-435b-e9aa-08df442be408",
+    "authorName": "Johannes Chrysostomus",
+    "title": "45. Homilie über die Apostelgeschichte",
+    "directory": "werke/Johannes Chrysostomus/Homilien über die Apostelgeschichte/45. Homilie über die Apostelgeschichte",
+    "contentRevision": "sha256:81caa307a68c91297e1ef2b87bce73987d6d366a5b877a021c1965abca6f7090"
+  },
+  {
     "workId": "4b512f5c-1589-421f-8847-08df34555aa5",
     "authorName": "Johannes Chrysostomus",
     "title": "46. Homilie über Genesis",
@@ -4086,6 +4191,13 @@
     "title": "46. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/46. Homilie über Matthäus",
     "contentRevision": "sha256:aa4035a0d0702b9ae7adb4f241e057f599b7d26bfafaaa7f1e505eb68c1d50b1"
+  },
+  {
+    "workId": "eced4489-2601-4c98-e9ab-08df442be408",
+    "authorName": "Johannes Chrysostomus",
+    "title": "46. Homilie über die Apostelgeschichte",
+    "directory": "werke/Johannes Chrysostomus/Homilien über die Apostelgeschichte/46. Homilie über die Apostelgeschichte",
+    "contentRevision": "sha256:6c8c12139d8a14c91caeecd9431d72539270063af79a83c236ee6d0b7f3c43ac"
   },
   {
     "workId": "ee2780b3-8ed0-43f9-9151-08df200aaa32",
@@ -4205,6 +4317,13 @@
     "title": "50. Homilie über Matthäus",
     "directory": "werke/Johannes Chrysostomus/Homilien über Matthäus/50. Homilie über Matthäus",
     "contentRevision": "sha256:f31dfd6bcc6ec2278db4e58c598a27c6ccc33241203feb0677036c9106abc233"
+  },
+  {
+    "workId": "942c3f52-98cb-4e2b-e9af-08df442be408",
+    "authorName": "Johannes Chrysostomus",
+    "title": "50. Homilie über die Apostelgeschichte",
+    "directory": "werke/Johannes Chrysostomus/Homilien über die Apostelgeschichte/50. Homilie über die Apostelgeschichte",
+    "contentRevision": "sha256:0fefb427ef6c88dd8fdb59132fb543d87cbad4363f4446c3d618c62434c89a55"
   },
   {
     "workId": "8641c6ae-25ef-4b04-884b-08df34555aa5",
@@ -5556,6 +5675,13 @@
     "title": "Über die Trinität",
     "directory": "werke/Novatian/Über die Trinität",
     "contentRevision": "sha256:2b95eb896f32243279af15e1beb3a9c609fd746119bc0bbfd5ca79f4155a58b0"
+  },
+  {
+    "workId": "95e0f8b3-55b2-4336-26a8-08df4a002bf7",
+    "authorName": "Novatian",
+    "title": "Über die jüdischen Speisen",
+    "directory": "werke/Novatian/Über die jüdischen Speisen",
+    "contentRevision": "sha256:efc1f6d6cd1017d81362627d33bd6faccfab632b4d7a0f5fc5895265708c67be"
   },
   {
     "workId": "42e1cce6-4fcf-4322-a670-08df44cc0105",
@@ -7707,6 +7833,13 @@
     "contentRevision": "sha256:33a69786959a738a7d8f06e57e7595532b0c48904506ccf5fcc8b15eacb8f832"
   },
   {
+    "workId": "241f20c0-e5e9-48ce-19b1-08df47d17bd6",
+    "authorName": "Salvian von Marseille",
+    "title": "Über die Weltregierung Gottes, Buch 4",
+    "directory": "werke/Salvian von Marseille/Über die Weltregierung Gottes/Über die Weltregierung Gottes, Buch 4",
+    "contentRevision": "sha256:69be305452d4d53f0e1f6543e1d1023410ec9c8ad230f3bbed6c6c7a9123d141"
+  },
+  {
     "workId": "62f6137d-5226-4ec4-e830-08de248cd454",
     "authorName": "Serapion von Thmuis",
     "title": "Über den Vater und den Sohn",
@@ -7761,6 +7894,20 @@
     "title": "Vita Martini",
     "directory": "werke/Sulpicius Severus/Vita Martini",
     "contentRevision": "sha256:6810fc5a692fc4c7a2b1c32376dcd5b4b820c96373461e6dbfaa025abeb71ff8"
+  },
+  {
+    "workId": "07573dc4-92cc-4669-19a8-08df47d17bd6",
+    "authorName": "Synode von Ankyra",
+    "title": "Kanones",
+    "directory": "werke/Synode von Ankyra/Kanones",
+    "contentRevision": "sha256:b0ea62bdf9c519a50529fb8a11d0eac3ef253a17e62b0ff5885ca4f02b444cb5"
+  },
+  {
+    "workId": "f8619cae-c419-4fd5-19a9-08df47d17bd6",
+    "authorName": "Synode von Antiochien",
+    "title": "Kanones",
+    "directory": "werke/Synode von Antiochien/Kanones",
+    "contentRevision": "sha256:b7548aadbf01bc6af7bc5c04ef87972f84875df608855deb91bc865d71849374"
   },
   {
     "workId": "157434d8-4624-48d7-f954-08ded167e5bd",
@@ -8265,6 +8412,13 @@
     "title": "Vom Untergang Jerusalems, Buch 5",
     "directory": "werke/Unbekannt/Vom Untergang Jerusalems/Vom Untergang Jerusalems, Buch 5",
     "contentRevision": "sha256:b572c6c5241d7d2d6adca84f469a1c93a304d1c3ac8097ebf35093aa85041153"
+  },
+  {
+    "workId": "5f28cf67-34b6-4a3c-4559-08df132d7450",
+    "authorName": "Unbekannt",
+    "title": "Über das Erhabene",
+    "directory": "werke/Unbekannt/Über das Erhabene",
+    "contentRevision": "sha256:573c8ba3df9560b095bb62f391be01825462d7641fe0c87f3addadfdbaf71c08"
   },
   {
     "workId": "9f75808c-a3fe-4010-bcc8-08df20c6ce7a",

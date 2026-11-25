@@ -35,6 +35,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [28. Homilie über die Evangelien](28.%20Homilie%20%C3%BCber%20die%20Evangelien/) · 3 Kapitel
 - [29. Homilie über die Evangelien](29.%20Homilie%20%C3%BCber%20die%20Evangelien/) · 11 Kapitel
 - [30. Homilie über die Evangelien](30.%20Homilie%20%C3%BCber%20die%20Evangelien/) · 10 Kapitel
+- [31. Homilie über die Evangelien](31.%20Homilie%20%C3%BCber%20die%20Evangelien/) · 8 Kapitel
 - [32. Homilie über die Evangelien](32.%20Homilie%20%C3%BCber%20die%20Evangelien/) · 9 Kapitel
 - [33. Homilie über die Evangelien](33.%20Homilie%20%C3%BCber%20die%20Evangelien/) · 7 Kapitel
 - [34. Homilie über die Evangelien](34.%20Homilie%20%C3%BCber%20die%20Evangelien/) · 16 Kapitel

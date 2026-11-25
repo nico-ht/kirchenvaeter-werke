@@ -25,5 +25,6 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Prozess und Martyrium Cyprians](Prozess%20und%20Martyrium%20Cyprians/) · 6 Kapitel
 - [Pseudo-Hippolyt: Predigt auf das heilige Pascha](Pseudo-Hippolyt%20Predigt%20auf%20das%20heilige%20Pascha/) · 63 Kapitel
 - [Streitgespräch gegen die Juden](Streitgespr%C3%A4ch%20gegen%20die%20Juden/) · 1 Kapitel
+- [Über das Erhabene](%C3%9Cber%20das%20Erhabene/) · 44 Kapitel
 - [Über die Herrlichkeit des Martyriums](%C3%9Cber%20die%20Herrlichkeit%20des%20Martyriums/) · 30 Kapitel
 - [Über die Osterberechnung](%C3%9Cber%20die%20Osterberechnung/) · 23 Kapitel

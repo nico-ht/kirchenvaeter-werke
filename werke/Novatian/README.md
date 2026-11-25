@@ -7,3 +7,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Einzelwerke
 
 - [Über die Trinität](%C3%9Cber%20die%20Trinit%C3%A4t/) · 31 Kapitel
+- [Über die jüdischen Speisen](%C3%9Cber%20die%20j%C3%BCdischen%20Speisen/) · 7 Kapitel
