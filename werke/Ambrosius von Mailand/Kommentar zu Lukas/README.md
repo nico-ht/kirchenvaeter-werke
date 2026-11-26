@@ -8,4 +8,5 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werke
 
+- [Kommentar zu Lukas, Buch 1](Kommentar%20zu%20Lukas%2C%20Buch%201/) · 46 Kapitel
 - [Kommentar zu Lukas, Prolog](Kommentar%20zu%20Lukas%2C%20Prolog/) · 8 Kapitel

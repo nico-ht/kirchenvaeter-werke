@@ -7,6 +7,62 @@
     "contentRevision": "sha256:4e4cf43a605a5cb87e364d149f66825627359e371de75a6bf7d781909f958003"
   },
   {
+    "workId": "504be243-cdfe-49e2-f4c7-08df1be94294",
+    "authorName": "Ambrosiaster",
+    "title": "Kommentar zum 1. Korintherbrief",
+    "directory": "werke/Ambrosiaster/Kommentar zum 1. Korintherbrief",
+    "contentRevision": "sha256:b1db4eece678353050748a70e735df8430042197340fd8ef53b69a194940ee20"
+  },
+  {
+    "workId": "7d0c2aa3-847d-4343-f4be-08df1be94294",
+    "authorName": "Ambrosiaster",
+    "title": "Kommentar zum 1. Timotheusbrief",
+    "directory": "werke/Ambrosiaster/Kommentar zum 1. Timotheusbrief",
+    "contentRevision": "sha256:08558bf686e25273d14d314fc133bcc134fe65790f5813a4a50e07bc98d0f060"
+  },
+  {
+    "workId": "c3833226-4600-45e5-26af-08df4a002bf7",
+    "authorName": "Ambrosiaster",
+    "title": "Kommentar zum 2. Korintherbrief",
+    "directory": "werke/Ambrosiaster/Kommentar zum 2. Korintherbrief",
+    "contentRevision": "sha256:9b52717b4ec96c7d353c42eb5b2808394bc07bb239701cdf0efb8d76f89079a9"
+  },
+  {
+    "workId": "cbcb3190-3cb7-4d4d-f4c6-08df1be94294",
+    "authorName": "Ambrosiaster",
+    "title": "Kommentar zum 2. Timotheusbrief",
+    "directory": "werke/Ambrosiaster/Kommentar zum 2. Timotheusbrief",
+    "contentRevision": "sha256:2fbe9f0951ac520401c2d491a47535f301393869fd607ae7121024fff86c97da"
+  },
+  {
+    "workId": "9902af4b-d780-44e1-f4c1-08df1be94294",
+    "authorName": "Ambrosiaster",
+    "title": "Kommentar zum Epheserbrief",
+    "directory": "werke/Ambrosiaster/Kommentar zum Epheserbrief",
+    "contentRevision": "sha256:933b533b9e0f5d3ebe9dcdf6a2db5a99adf788547d7fcd9cd0466fd8cbd76f0d"
+  },
+  {
+    "workId": "c42fc464-cae5-4017-fc91-08df1bddb43b",
+    "authorName": "Ambrosiaster",
+    "title": "Kommentar zum Galaterbrief",
+    "directory": "werke/Ambrosiaster/Kommentar zum Galaterbrief",
+    "contentRevision": "sha256:9ff2fcc969452094c088ed5799de56e07ae83722c61c96f5f25f028d30793a2b"
+  },
+  {
+    "workId": "e14189f7-25e2-4bd7-9e96-08df40e2b485",
+    "authorName": "Ambrosiaster",
+    "title": "Kommentar zum Kolosserbrief",
+    "directory": "werke/Ambrosiaster/Kommentar zum Kolosserbrief",
+    "contentRevision": "sha256:200493cb96feb9702393d90e258159afcec472338a3aaf67b6d9d8f8d54cd7a9"
+  },
+  {
+    "workId": "12223e68-c75d-41bc-bccc-08df20c6ce7a",
+    "authorName": "Ambrosiaster",
+    "title": "Kommentar zum Philipperbrief",
+    "directory": "werke/Ambrosiaster/Kommentar zum Philipperbrief",
+    "contentRevision": "sha256:c47ba526058c0e8947538fc5ec05bd4feaa922e5dbdf171aac730a68b0f29ea6"
+  },
+  {
     "workId": "fed8c38b-5513-460a-c39b-08df346fe1ab",
     "authorName": "Ambrosius von Mailand",
     "title": "1. Schrift über Abraham",
@@ -89,6 +145,13 @@
     "title": "Kain und Abel, Buch 2",
     "directory": "werke/Ambrosius von Mailand/Kain und Abel/Kain und Abel, Buch 2",
     "contentRevision": "sha256:3516ececb9303a2e61a89e2d5d34234c4c382e0a1aea441666144e6a05adfcea"
+  },
+  {
+    "workId": "d20d9233-1528-4112-dfbc-08df218848c7",
+    "authorName": "Ambrosius von Mailand",
+    "title": "Kommentar zu Lukas, Buch 1",
+    "directory": "werke/Ambrosius von Mailand/Kommentar zu Lukas/Kommentar zu Lukas, Buch 1",
+    "contentRevision": "sha256:5d895e3306592d78ebad32edc7a8bb696b7cc46b89110433fcee79822b8de80b"
   },
   {
     "workId": "7a9c7d00-d3c4-4ba5-26b4-08df4a002bf7",
@@ -2588,6 +2651,13 @@
     "title": "Auslegung zu Hiob, Buch 4",
     "directory": "werke/Gregor der Große/Auslegungen zu Hiob/Auslegung zu Hiob, Buch 4",
     "contentRevision": "sha256:3d27cba70ae1a935d6b972b4b7de42c53cce9378d24ce3466fbd69f42c8d81fd"
+  },
+  {
+    "workId": "40e6f994-5863-4bb7-ccfd-08df46e3c72c",
+    "authorName": "Gregor der Große",
+    "title": "Auslegung zu Hiob, Buch 5",
+    "directory": "werke/Gregor der Große/Auslegungen zu Hiob/Auslegung zu Hiob, Buch 5",
+    "contentRevision": "sha256:53f40568e5b5badd6997ecacd416b054cdbc294e65938afe26e6baeea178beae"
   },
   {
     "workId": "f25ea879-690d-4151-1244-08df46eb831d",
@@ -7838,6 +7908,20 @@
     "title": "Über die Weltregierung Gottes, Buch 4",
     "directory": "werke/Salvian von Marseille/Über die Weltregierung Gottes/Über die Weltregierung Gottes, Buch 4",
     "contentRevision": "sha256:69be305452d4d53f0e1f6543e1d1023410ec9c8ad230f3bbed6c6c7a9123d141"
+  },
+  {
+    "workId": "39603fb5-2d56-446d-19b2-08df47d17bd6",
+    "authorName": "Salvian von Marseille",
+    "title": "Über die Weltregierung Gottes, Buch 5",
+    "directory": "werke/Salvian von Marseille/Über die Weltregierung Gottes/Über die Weltregierung Gottes, Buch 5",
+    "contentRevision": "sha256:c515e2d222579980242af7ccbf25e8789de00587529cf184b805f8cd64492414"
+  },
+  {
+    "workId": "d77c0505-3346-414e-19b3-08df47d17bd6",
+    "authorName": "Salvian von Marseille",
+    "title": "Über die Weltregierung Gottes, Buch 6",
+    "directory": "werke/Salvian von Marseille/Über die Weltregierung Gottes/Über die Weltregierung Gottes, Buch 6",
+    "contentRevision": "sha256:fc80d917e340f9f4dfc0767a8c2669144bf2d2fc127616699ed4f402a095c035"
   },
   {
     "workId": "62f6137d-5226-4ec4-e830-08de248cd454",

@@ -9,7 +9,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Briefe](Briefe/) · 1 Werk
 - [Die Klagen Hiobs und Davids](Die%20Klagen%20Hiobs%20und%20Davids/) · 4 Werke
 - [Kain und Abel](Kain%20und%20Abel/) · 2 Werke
-- [Kommentar zu Lukas](Kommentar%20zu%20Lukas/) · 1 Werk
+- [Kommentar zu Lukas](Kommentar%20zu%20Lukas/) · 2 Werke
 - [Kommentare zu den Psalmen](Kommentare%20zu%20den%20Psalmen/) · 1 Werk
 - [Sechstagewerk](Sechstagewerk/) · 6 Werke
 - [Sieben exegetische Werke](Sieben%20exegetische%20Werke/) · 5 Werke

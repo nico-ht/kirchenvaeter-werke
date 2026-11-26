@@ -6,4 +6,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Über die Weltregierung Gottes](%C3%9Cber%20die%20Weltregierung%20Gottes/) · 4 Werke
+- [Über die Weltregierung Gottes](%C3%9Cber%20die%20Weltregierung%20Gottes/) · 6 Werke
