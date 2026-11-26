@@ -1,0 +1,17 @@
+# Auslegung zu Hiob, Buch 5 – Kapitel 28: Häretiker verdecken Irrtum mit Wahrheit, können aber durch die Predigt der Kirche zurechtgebracht werden
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-5#kapitel-14ca8ea1-0715-4e5e-0cbc-08df46e3c7cb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Da wir aber weiter oben gesagt haben, dass eben diese Freunde des seligen Hiob für die Häretiker stehen, wollen wir nun untersuchen, inwiefern ihre Worte zu den Häretikern passen\. In manchem denken sie nämlich ganz richtig, und doch gleiten sie zwischendurch ins Verkehrte ab\. Es ist den Häretikern eigen, Gutes unter Böses zu mischen, um ihre Hörer leicht in ihrem Urteil zu täuschen\. Würden sie nämlich immer nur Verkehrtes sagen, würde man ihre Verkehrtheit schneller erkennen, und sie könnten niemanden von dem überzeugen, was sie vermitteln wollen\. Würden sie dagegen immer richtig denken, wären sie gewiss keine Häretiker\. Doch in ihrer Kunst der Täuschung bedienen sie sich beider Seiten: Mit dem Bösen verderben sie das Gute, mit dem Guten verdecken sie das Böse, damit es angenommen wird\. So bestreicht einer, der einen Becher mit Gift reicht, dessen Rand mit süßem Honig\. Wer beim ersten Ansetzen das Süße kostet, schluckt ohne Argwohn auch das Tödliche\. So mischen die Häretiker Richtiges mit Verkehrtem: Sie zeigen ihren Hörern das Gute, um sie an sich zu ziehen, und setzen ihnen das Böse vor, um sie mit einer verborgenen Seuche zu verderben\. Mitunter aber werden sie durch die Predigt und Ermahnung der heiligen Kirche zurechtgebracht und so aus diesem Zwiespalt ihres Denkens gerettet\. So erklärt sich auch, dass Hiobs Freunde das Opfer zu ihrer Versöhnung durch die Hände eben dieses heiligen Mannes darbringen[^bible-cb877b16-756d-4785-8f69-967853d55726] und selbst als Verurteilte zur Gnade des himmlischen Richters zurückgerufen werden\. Ein treffendes Bild für sie ist im Evangelium die Reinigung der zehn Aussätzigen[^bible-0754c150-512d-4f19-a090-b6bcd1ac65aa]\. Beim Aussatz nämlich beginnt ein Teil der Haut hell zu glänzen, während ein anderer seine gesunde Farbe behält\. So stehen die Aussätzigen für die Häretiker: Indem diese Richtiges mit Verkehrtem vermischen, übersäen sie die gesunde Farbe mit Flecken\. Darum ist es auch bezeichnend, dass sie, um gerettet zu werden, rufen: „Jesus, Meister\![^bible-bd338ef3-b0fe-4fbe-9f9f-b91b780cfe5f]“ Denn sie geben damit zu erkennen, dass sie seine Worte falsch verstanden haben, und nennen ihn demütig „Meister[^bible-bd338ef3-b0fe-4fbe-9f9f-b91b780cfe5f]“, um gerettet zu werden\. Und wenn sie ihn wieder als Meister erkennen, gewinnen sie sogleich ihr gesundes Aussehen zurück\. Da wir aber die Vorrede zur Auslegung der Worte der Freunde etwas länger gehalten haben, wollen wir nun ihre Worte selbst genau abwägen\. Weiter heißt es: Da antwortete Elifas von Teman: „Wenn wir anfangen, mit dir zu reden, nimmst du es vielleicht übel[^bible-8403d7b5-33a1-4930-b5cc-7b2753158610]\.“
+
+## Bibelverweise
+
+[^bible-0754c150-512d-4f19-a090-b6bcd1ac65aa]: Lk 17,14–Lk 17,15
+[^bible-8403d7b5-33a1-4930-b5cc-7b2753158610]: Hi 4,1–Hi 4,2
+[^bible-bd338ef3-b0fe-4fbe-9f9f-b91b780cfe5f]: Lk 17,13
+[^bible-cb877b16-756d-4785-8f69-967853d55726]: Hi 42,8–Hi 42,9

@@ -1,0 +1,16 @@
+# Auslegung zu Hiob, Buch 5 – Kapitel 39: Der Tiger steht für den Heuchler, dessen Laster durch den Tugendschein brechen und der sich fremdes Lob aneignet
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-5#kapitel-c9ab731f-65d8-4883-0cc7-08df46e3c7cb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Der Tiger ging zugrunde, weil er keine Beute hatte, und die Löwenjungen wurden zerstreut\.[^bible-18e01a82-0e71-4d95-9d3b-ac212fa48227]“
+
+Wen sonst als den seligen Hiob stellt er denn mit dem Namen „Tiger[^bible-18e01a82-0e71-4d95-9d3b-ac212fa48227]“ als scheckig hin oder als übersät mit den Flecken der Verstellung? Denn wer sich verstellt, will rechtschaffen erscheinen, zeigt sich dabei aber nicht in jeder Hinsicht rein: Während er sich aus Heuchelei gewisse Tugenden zulegt und sich heimlich den Lastern unterwirft, brechen manche dieser verborgenen Laster plötzlich nach außen durch\. Sie mischen sich in die vorgetäuschte Erscheinung, die er sich wie ein Fell übergezogen hat, und lassen sie scheckig aussehen\. So wundert man sich oft, warum ein Mensch, der sich durch so große Tugenden auszuzeichnen scheint, sich auch mit so verwerflichen Taten befleckt\. Aber in der Tat ist jeder Heuchler ein Tiger: Seine reine Farbe rührt von der Verstellung her, doch das Schwarz der Laster durchbricht sie und macht sie scheckig\. Denn oft wird er für die Reinheit seiner Keuschheit gerühmt, und zugleich entstellt ihn der Schmutz der Habgier\. Oft lässt ihn die Tugend der Freigebigkeit glänzen, und zugleich beschmutzen ihn die Flecken der Ausschweifung\. Oft trägt er den Schmuck der Keuschheit und Freigebigkeit wie ein Gewand, und zugleich verdunkelt ihn entsetzliche Grausamkeit, als käme sie aus Eifer für die Gerechtigkeit\. Oft ist er in den schönen Schein von Freigebigkeit, Keuschheit und Güte gekleidet, doch das Dunkel des Hochmuts mischt sich hinein und hinterlässt seine Spur\. Weil sich so die Laster hineinmischen, zeigt sich der Heuchler nicht rein und kann, einem Tiger gleich, unmöglich einfarbig sein\. Dieser Tiger reißt Beute, denn er eignet sich den Ruhm an, den ihm die Gunst der Menschen verschafft\. Wen nämlich geraubtes Lob emporhebt, der wird davon satt wie von einer Beute\. Zu Recht heißt das Lob der Heuchler Beute\. Denn Beute ist, was man anderen mit Gewalt wegnimmt\. Wenn also ein Heuchler ein Leben in Gerechtigkeit vortäuscht und so das Lob an sich reißt, das den Gerechten zusteht, nimmt er tatsächlich etwas, das ihm nicht gehört\. Elifas wusste, dass der selige Hiob Lobenswertes getan hatte, solange es ihm gut ging\. Als dann der Schlag kam, glaubte Elifas deshalb, Hiob habe sich aus Heuchelei so verhalten, und sagte: „Der Tiger ging zugrunde, weil er keine Beute hatte\.[^bible-18e01a82-0e71-4d95-9d3b-ac212fa48227]“ Als wollte er geradeheraus sagen: „Die Scheckigkeit deiner Verstellung ist dahin, weil dir auch das schmeichelnde Lob genommen wurde\. Deine Heuchelei hat keine Beute mehr, denn der Schlag Gottes hat sie um die Gunst der Menschen gebracht\.“
+
+## Bibelverweise
+
+[^bible-18e01a82-0e71-4d95-9d3b-ac212fa48227]: Hi 4,11

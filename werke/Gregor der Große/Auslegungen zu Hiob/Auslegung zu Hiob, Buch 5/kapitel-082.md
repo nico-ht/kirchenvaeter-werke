@@ -1,0 +1,19 @@
+# Auslegung zu Hiob, Buch 5 – Kapitel 82: Zorn aus Ungeduld macht blind, Eifer für das Rechte trübt die Schau nur vorübergehend und schärft sie danach
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-5#kapitel-912a4103-3a4f-4e2a-0cf2-08df46e3c7cb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Bei alledem muss man jedoch genau unterscheiden: Es gibt einen Zorn, den Ungeduld weckt, und einen anderen, den Eifer hervorbringt\. Der eine entspringt dem Laster, der andere der Tugend\. Gäbe es nämlich keinen Zorn, der aus der Tugend erwächst, dann hätte Pinhas nicht dem hereinbrechenden Strafgericht Gottes mit dem Schwert Einhalt gebieten[^bible-c9aaab10-b6ec-4a7c-a16a-6ad83a8d383f] können\. Weil es Eli an diesem Zorn fehlte, zog er die unerbittliche Vergeltung von oben auf sich[^bible-1721fe79-6536-4af5-8935-79c089e662ad]\. Denn je lauer er den Lastern derer begegnete, die ihm unterstanden, desto heftiger entbrannte gegen ihn die Strenge des ewigen Herrschers\. Von diesem Zorn heißt es beim Psalmisten: „Zürnt und sündigt nicht\.[^bible-be80e849-0e31-47b3-a405-24365c0ba02b]“ Wer meint, wir sollten nur über uns selbst zornig sein und nicht auch über unsere Nächsten, wenn sie sich vergehen, versteht das freilich nicht richtig\. Denn wenn uns geboten ist, unsere Nächsten so zu lieben wie uns selbst[^bible-71059c23-51b3-4015-87cf-91c86f04b1ab], dann folgt daraus, dass wir über ihre Verfehlungen ebenso zornig sein sollen wie über unsere eigenen Laster\. Von diesem Zorn sagt Salomo: „Zorn ist besser als Lachen, denn ein trauriges Gesicht bessert das Herz dessen, der sich vergeht\.[^bible-da475c34-caec-4c28-8a30-b5cb356615c6]“ Von diesem Zorn sagt auch der Psalmist: „Mein Auge ist vor Zorn getrübt\.[^bible-63b2145a-44e7-4fd3-a188-757dae15ef0e]“ Denn Zorn aus einem Laster macht das Auge des Geistes blind, Zorn aus Eifer dagegen trübt es: Schon wenn der Eifer für das Rechte den Geist erschüttert, schwindet jene Schau, die nur einem ruhigen Herzen möglich ist\. Eben dieser Eifer für das Rechte versetzt den Geist in Unruhe und verdunkelt ihm sogleich den Blick, sodass er in der Erregung das Höhere nicht sieht, das er zuvor in der Ruhe schon beinahe sah\. Doch gerade das, was den Geist vorübergehend zurückwirft und ihm die Sicht nimmt, führt ihn zum Höheren zurück, sodass er es genauer erkennt\. Denn derselbe Eifer für das Rechte, der ihm durch die Erregung das Ewige vorübergehend verschließt, erschließt es ihm wenig später in der Ruhe umso umfassender\. Und gerade das, was den Geist aufwühlt und ihm die Sicht nimmt, lässt ihn an Klarheit gewinnen, sodass er wahrer sieht\. So wird einem kranken Auge das Licht ganz genommen, wenn man Salbe hineingibt\. Doch durch dasselbe Mittel, das ihm das Licht vorübergehend und zu seinem Besten nimmt, erhält es das Licht wenig später wirklich zurück\. Nie aber gehen Erregung und Schau zusammen\. Ein aufgewühlter Geist kann nicht erblicken, wonach sich selbst ein ruhiger kaum auszustrecken vermag\. Denn auch ein Sonnenstrahl ist nicht zu sehen, wenn ziehende Wolken das Antlitz des Himmels verhüllen\. Ebenso wenig gibt eine aufgewühlte Quelle dem, der hineinschaut, sein Bild zurück\. In der Ruhe zeigt sie es getreu, doch je mehr ihr Wasser zittert, desto undeutlicher wird darin das Spiegelbild\.
+
+## Bibelverweise
+
+[^bible-1721fe79-6536-4af5-8935-79c089e662ad]: 1Sam 3,12–1Sam 3,14
+[^bible-63b2145a-44e7-4fd3-a188-757dae15ef0e]: Ps 6,8
+[^bible-71059c23-51b3-4015-87cf-91c86f04b1ab]: Lev 19,18
+[^bible-be80e849-0e31-47b3-a405-24365c0ba02b]: Ps 4,5
+[^bible-c9aaab10-b6ec-4a7c-a16a-6ad83a8d383f]: Num 25,7–Num 25,11
+[^bible-da475c34-caec-4c28-8a30-b5cb356615c6]: Pred 7,3
