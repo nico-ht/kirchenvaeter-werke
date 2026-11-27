@@ -75,7 +75,7 @@ Darum setzte der Apostel die Beredsamkeit beiseite\. Ihm ging es darum, dass der
 
 „Gott der Vater, auch der Vater unseres Herrn Jesus Christus, weiß, dass ich nicht lüge, er, der in Ewigkeit gepriesen ist\.[^bible-07c326b1-2c23-468a-b1d4-74e627ad8d46]“ Er ruft Gott zum Zeugen, damit seine Worte ohne Weiteres Glauben finden, und zwar allein um derer willen, die ihn nicht als wahren Apostel ehrten\.
 
-„In Damaskus ließ der Ethnarch des Königs Aretas die Stadt der Damaszener bewachen, um mich festzunehmen\. Durch ein Fenster wurde ich in einem Korb an der Mauer hinabgelassen und entkam so seiner Hand\.[^bible-7bb4ec8b-fca8-4976-bbf9-3bb436f40d5c]
+„In Damaskus ließ der Ethnarch des Königs Aretas die Stadt der Damaszener bewachen, um mich festzunehmen\. Durch ein Fenster wurde ich in einem Korb an der Mauer hinabgelassen und entkam so seiner Hand\.“[^bible-7bb4ec8b-fca8-4976-bbf9-3bb436f40d5c]
 
 ## Bibelverweise
 
