@@ -1,0 +1,41 @@
+# Kommentar zu den Psalmen – Kapitel 87: Psalm 87: Der Verlassene ist Christus, den die Jünger allein zurückließen
+
+Autor: Arnobius der Jüngere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-juengere/kommentar-zu-den-psalmen#kapitel-60e0659f-975d-4404-74c2-08df499d7458).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Ein Psalmlied der Söhne Korachs\. Auf das Ende hin, für Maheleth, zum Antworten\. Eine Einsicht für Eman, den Esrachiter\.[^bible-6e1a3e0f-2553-48ca-95cc-4349973fc072]
+
+„Herr, Gott meines Heils, bei Tag und bei Nacht habe ich vor dir gerufen\. Lass mein Gebet vor dich kommen, neige dein Ohr meiner Bitte zu\. Denn meine Seele ist voller Leid, und mein Leben ist dem Totenreich nahegekommen\. Man hat mich zu denen gezählt, die in die Grube hinabsteigen\. Ich bin geworden wie ein Mensch ohne Hilfe, frei unter den Toten, wie die Verwundeten, die in den Gräbern schlafen\. Du denkst nicht mehr an sie, und sie sind aus deiner Hand verstoßen\. Sie haben mich tief unten in die Grube gelegt, in die Finsternis und in den Schatten des Todes\. Dein Grimm lastet schwer auf mir, und du hast alle deine Wogen wieder über mich hereinbrechen lassen\. Du hast meine Bekannten weit von mir entfernt; sie haben mich zum Gegenstand ihres Abscheus gemacht\. Ich wurde ausgeliefert und kam nicht hinaus; meine Augen wurden schwach vor Not\. Den ganzen Tag habe ich zu dir gerufen, Herr, und meine Hände zu dir hin ausgebreitet\. Wirst du an den Toten Wunder tun? Oder werden Ärzte sie auferwecken, und werden sie dir danken? Wird jemand im Grab von deiner Barmherzigkeit erzählen und im Verderben von deiner Wahrheit? Wird man in der Finsternis deine Wunder erkennen und im Land des Vergessens deine Gerechtigkeit? Ich aber habe zu dir gerufen, Herr, und am Morgen wird mein Gebet dir zuvorkommen\. Warum, Herr, weist du mein Gebet zurück und wendest dein Gesicht von mir ab? Ich bin arm und lebe seit meiner Jugend in Mühsal\. Doch als ich erhöht war, wurde ich erniedrigt und erschüttert\. Die Ausbrüche deines Zorns gingen über mich hinweg, und deine Schrecken haben mich erschüttert\. Sie umschlossen mich wie Wasser, den ganzen Tag umschlossen sie mich alle zugleich\. Du hast Freund und Nächsten weit von mir entfernt, und wegen des Elends auch meine Bekannten\.[^bible-ee7cee41-2709-4e35-89b2-a1ae8171c179]“
+
+Im Titel dieses Psalms werden zwar die Söhne Korachs genannt, doch der Psalm richtet sein Lied an Maheleth und gibt Heman, dem Esrachiter, Einsicht[^bible-4639bcc2-9e04-42ba-8909-210267f23997]\. Maheleth bedeutet „der Verlassene“, Heman nennen sie „den Bedürftigen“\. Das Wort richtet sich also an den Verlassenen und Armen\. Ich glaube, es meint jenen Verlassenen, den die Jünger allein in den Händen seiner Häscher zurückließen, als sie flohen[^bible-9c31f68f-bc15-480e-ab1c-59f3e5e3ac80]\. Und welchen Armen sollte es meinen, wenn nicht den, von dem der Apostel sagt: „Obwohl er reich war, wurde er für uns arm[^bible-5f00219e-f4a3-415e-84d4-b053794e0417]“? So arm wurde er, dass seine Augen vor Not schwach wurden[^bible-b753cbe4-d381-4af5-899c-074988054fe0]\. Arm war er: Im Leiden besaß er den Reichtum der Unsterblichkeit nicht\. Eben diese Schwäche war es, die ihm im Tod die Augen schloss\. Da, sagt er, können ihn Ärzte nicht auferwecken[^bible-8c316038-4ba9-4666-a780-fb6f58c14ac3]; da, sagt er auch, wurde er in die tiefste Grube gelegt, in die Finsternis und in den Schatten des Todes[^bible-6f92f051-3362-41d3-a0a3-5acf40a2f851]\. Das war zu der Zeit, als sie ihn zum Gegenstand ihres Abscheus machten[^bible-515d9cd3-b3a8-4a07-9f47-5df3f3f68b1f] und Judas ihn auslieferte[^bible-46d0f303-c014-41ba-bc55-a25b87ab165f]\. „Damals“, sagt er, „als ich ausgeliefert wurde und nicht hinausging[^bible-515d9cd3-b3a8-4a07-9f47-5df3f3f68b1f], entriss ich den Händen derer, die mich fesselten, den Kelch des Leidens nicht\. Damals wurden meine Augen schwach vor Not[^bible-b753cbe4-d381-4af5-899c-074988054fe0]\. Denn ich nahm die Unversehrtheit der Gottheit nicht in Anspruch, sondern litt unter der Schwäche der angenommenen Menschennatur\.“ Hören wir also, was der angenommene Mensch selbst sagt: „Du hast es gefügt, dass ich von der Jungfrau geboren wurde[^bible-2158ce03-b4eb-4805-a500-2ded6470f11b], damit die Menschen deine Wunder erzählen und dabei zum Glauben finden, dem Unglauben entfliehen und so zum Leben gelangen\. Du hast mich trockenen Fußes über das wogende Meer gehen[^bible-0836fa7d-b9ca-41d4-bd90-66f8aac4d55c] und den Winden gebieten[^bible-a8c29a64-53a9-4183-958d-2234db3badd5] lassen\. Du hast es gewirkt, dass ich den Blinden das Augenlicht zurückgab, den Kranken die Gesundheit und den Toten das Leben, das sie verloren hatten[^bible-716f897e-2cbe-4e56-8dc3-9b81821cb798]\. Warum lässt du mich jetzt in den Tod gehen? Werden sie in den Gräbern von deiner Barmherzigkeit erzählen? Oder erkennen jene, die im Verderben liegen, deine Wahrheit[^bible-3f3eeaac-c7c4-4e75-ab0f-0860880e2f5e]? Oder erkennen jene, die ins Land des Vergessens geführt wurden, deine Gerechtigkeit[^bible-ea5391c2-317d-4b70-b6b0-394bf75d4d72]? Das habe ich in meinem Gebet zu dir gerufen, als ich sagte: ‚Wenn es möglich ist, so gehe der Kelch des Leidens an mir vorüber[^bible-35bc5223-95a3-41e3-b8a9-188f3fcdb186]\. Doch weil er nicht vorübergehen kann, ohne dass ich ihn trinke, geschehe dein Wille[^bible-22827689-9565-4559-81cc-bbab8d853331]\.‘ So soll ich am Kreuz erhöht werden, vor den Augen des Richters erniedrigt werden und auf dem Weg in den Tod beschämt dastehen\. Auf diese Weise soll ich erhöht, erniedrigt und beschämt sein[^bible-9a1bd505-5eb4-44c6-9967-2e0b6f6a42e6]\. Doch weil ich unter den Toten frei bin[^bible-1109bfb5-1d0c-4516-af10-0ac81df9402e], wird mein Gebet dir am Morgen zuvorkommen[^bible-61afae96-ca6c-4a19-a2b7-339d0ce3ecf5]\. Sie werden den auferstehen sehen, den sie den ganzen Tag mit ausgebreiteten Händen am Kreuz[^bible-b753cbe4-d381-4af5-899c-074988054fe0] gesehen hatten und danach im Grab liegen sahen\. Jeder Freund und jeder Nächste war weit von ihm entfernt, gerade wegen des Elends seines Leidens[^bible-e7019c1f-b4e9-4698-a036-ae5dd4541738]\.“ Denn sein Gebet tritt vor Gott, und Gott hat sein Ohr seinem Frieden zugeneigt[^bible-a70d6d0b-182f-4390-a7bd-ac3b709e364f]\. Und sein Leben, das der Unterwelt nahe gekommen[^bible-56dc90b1-e893-4f22-9b27-141d057a9941] war, soll von den Toten auferstehen\. Denn sobald es Morgen wird, wird sein Gebet Gott sogleich zuvorkommen[^bible-61afae96-ca6c-4a19-a2b7-339d0ce3ecf5] und die Verheißung der Auferstehung erfüllen, damit er sich nicht nur lebend zeigt, sondern auch sehen lässt, wie er in den Himmel aufsteigt\. Ihm sei die Herrlichkeit in alle Ewigkeit\. Amen\.
+
+## Bibelverweise
+
+[^bible-0836fa7d-b9ca-41d4-bd90-66f8aac4d55c]: Mk 6,48
+[^bible-1109bfb5-1d0c-4516-af10-0ac81df9402e]: Ps 88,6
+[^bible-2158ce03-b4eb-4805-a500-2ded6470f11b]: Mt 1,23
+[^bible-22827689-9565-4559-81cc-bbab8d853331]: Mt 26,42
+[^bible-35bc5223-95a3-41e3-b8a9-188f3fcdb186]: Mt 26,39
+[^bible-3f3eeaac-c7c4-4e75-ab0f-0860880e2f5e]: Ps 88,12
+[^bible-4639bcc2-9e04-42ba-8909-210267f23997]: Ps 88,1
+[^bible-46d0f303-c014-41ba-bc55-a25b87ab165f]: Mk 14,43–Mk 14,46
+[^bible-515d9cd3-b3a8-4a07-9f47-5df3f3f68b1f]: Ps 88,9
+[^bible-56dc90b1-e893-4f22-9b27-141d057a9941]: Ps 88,4
+[^bible-5f00219e-f4a3-415e-84d4-b053794e0417]: 2Kor 8,9
+[^bible-61afae96-ca6c-4a19-a2b7-339d0ce3ecf5]: Ps 88,14
+[^bible-6e1a3e0f-2553-48ca-95cc-4349973fc072]: Ps 88,1
+[^bible-6f92f051-3362-41d3-a0a3-5acf40a2f851]: Ps 88,7
+[^bible-716f897e-2cbe-4e56-8dc3-9b81821cb798]: Mt 11,5
+[^bible-8c316038-4ba9-4666-a780-fb6f58c14ac3]: Ps 88,11
+[^bible-9a1bd505-5eb4-44c6-9967-2e0b6f6a42e6]: Ps 88,16
+[^bible-9c31f68f-bc15-480e-ab1c-59f3e5e3ac80]: Mk 14,50
+[^bible-a70d6d0b-182f-4390-a7bd-ac3b709e364f]: Ps 88,3
+[^bible-a8c29a64-53a9-4183-958d-2234db3badd5]: Mk 4,39–Mk 4,41
+[^bible-b753cbe4-d381-4af5-899c-074988054fe0]: Ps 88,10
+[^bible-e7019c1f-b4e9-4698-a036-ae5dd4541738]: Ps 88,19
+[^bible-ea5391c2-317d-4b70-b6b0-394bf75d4d72]: Ps 88,13
+[^bible-ee7cee41-2709-4e35-89b2-a1ae8171c179]: Ps 88,2–Ps 88,19

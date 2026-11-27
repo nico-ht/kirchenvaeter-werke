@@ -1,0 +1,41 @@
+# Kommentar zu den Psalmen – Kapitel 59: Psalm 59: Das Zeichen im Blut des Lammes schützt die Gottesfürchtigen
+
+Autor: Arnobius der Jüngere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-juengere/kommentar-zu-den-psalmen#kapitel-7285189e-f400-45b5-74a6-08df499d7458).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Psalm 59\. Zum Ende\. Für die, die verwandelt werden\. Als Titelinschrift für David selbst, zur Unterweisung\. Als er das syrische Mesopotamien und Sobal in Brand setzte und Joab umkehrte und im Salztal zwölftausend Mann aus Edom erschlug\.[^bible-826084da-64fa-4292-9131-3109b7ea60f3]
+
+„Gott, du hast uns verstoßen und zerschlagen\. Du warst zornig und hast uns Erbarmen erwiesen\. Du hast die Erde erschüttert und ins Wanken gebracht\. Heile ihre Risse, denn sie wankt\. Du hast dein Volk Hartes erleben lassen\. Du hast uns den Wein des Schmerzes zu trinken gegeben\. Du hast denen, die dich fürchten, ein Zeichen gegeben, damit sie vor dem Bogen fliehen und deine Geliebten gerettet werden\. Rette mich mit deiner Rechten und erhöre mich\. Gott hat in seinem Heiligen gesprochen; ich will jubeln, Sichem aufteilen und das Tal der Zelte ausmessen\. Mir gehört Gilead, mir gehört Manasse, und Ephraim ist die Stärke meines Hauptes\. Juda ist mein König, Moab der Topf meiner Hoffnung\. Nach Idumäa hin strecke ich meinen Schuh aus; mir sind die Fremden unterworfen\. Wer führt mich bis in die befestigte Stadt, wer führt mich bis nach Idumäa? Bist du es nicht, Gott, der uns verstoßen hat? Und du wirst, Gott, nicht mit unseren Heeren ausziehen\. Hilf uns aus der Bedrängnis, denn Rettung durch Menschen ist vergeblich\. Mit Gott werden wir machtvolle Taten vollbringen, und er selbst wird die zunichtemachen, die uns bedrängen\.[^bible-71c22023-6599-4a62-bd5c-9bb04908ce75]“
+
+Als die Feinde niedergeworfen waren, lehrte er uns, den Sieg dem Herrn zuzuschreiben: Wenn der Herr zornig ist, werden wir besiegt; wenn er Erbarmen zeigt, siegen wir[^bible-120ecf04-a63b-429c-b343-d57a6f6ca71e]\. Er selbst erschüttert die Erde unseres Körpers und bringt sie ins Wanken[^bible-c220dcec-b2c8-4d80-b03c-4a21c3888e5b], sei es durch die Drohung mit dem kommenden Gericht, sei es durch einen Schlag, der schon jetzt Verderben bringt\. Darum bitten wir ihn, ihre Risse zu heilen[^bible-c220dcec-b2c8-4d80-b03c-4a21c3888e5b]\. „Du hast dein Volk Hartes erleben lassen[^bible-54476ee5-7cff-4085-97d7-18cea9200a32]“, heißt es ja: das harte Herz des Pharaos[^bible-bb87a385-4586-4c30-9ea8-c1cd9ad1e699] bei der harten Arbeit[^bible-2d30daee-acde-4e4e-9358-9ace8cca7487]\. „Du hast uns den Wein des Schmerzes zu trinken gegeben\.[^bible-54476ee5-7cff-4085-97d7-18cea9200a32]“ Wo immer der Herr zürnt und Menschen eine Plage erleiden, ist entweder vom Kelch des Zorns oder vom Wein des Rausches die Rede, wie Jeremia zu Jerusalem sagt: „Du bist trunken vom Kelch des Zorns und Grimms des Herrn\.[^bible-510838fe-5c69-4afb-8926-fb5304eb1e80]“ „Damals also in Ägypten, als du uns den Wein des Schmerzes zu trinken gabst[^bible-54476ee5-7cff-4085-97d7-18cea9200a32], hast du denen, die dich fürchteten, ein Zeichen gegeben, damit sie vor dem Bogen fliehen konnten\.[^bible-7bde5635-4b5f-4ec1-9002-1c30ac14fad3]
+
+So sollte der, der die Erstgeborenen tötete, sie beim Anblick des Zeichens im Blut des Lammes nicht antasten[^bible-48b7fc62-aa65-4259-87fb-3b326652ab4f]\. Da du also derselbe Gott bist wie damals, rette mich[^bible-77a14100-ace9-4ea5-bf5e-06460c67476b] nicht durch meine eigene Kraft, sondern durch deine Rechte und erhöre mich\.[^bible-77a14100-ace9-4ea5-bf5e-06460c67476b]“ Denn Gott hat in seinem Heiligen gesprochen[^bible-0c389a57-38f3-43d2-adc7-587770d01a26], in seinem Diener Mose: „Ich werde mich freuen, Sichem aufteilen und das Tal der Zelte ausmessen\.[^bible-0c389a57-38f3-43d2-adc7-587770d01a26]“ Er selbst hat gesagt: „Mir gehört Gilead, mir gehört Manasse, und Ephraim ist die Stärke meines Hauptes\.[^bible-5d4b190f-f4f1-4f33-ae30-12f60b82b057]“ Er selbst hat gesagt: „Judas ist mein König\.[^bible-5d4b190f-f4f1-4f33-ae30-12f60b82b057]“ All das hat Gott in seinem Heiligen ausgesprochen[^bible-0c389a57-38f3-43d2-adc7-587770d01a26]; in ihm sollte es sich erfüllen, das heißt in unserem Herrn Jesus Christus\. Auf dreierlei Weise hat er in einem Heiligen gesprochen[^bible-0c389a57-38f3-43d2-adc7-587770d01a26]\. Er hat in seinem Heiligen gesprochen[^bible-0c389a57-38f3-43d2-adc7-587770d01a26], das heißt: Er hat in Jakob über Ephraim und Manasse und über Judas gesprochen[^bible-8b15ab80-251e-4df1-8b32-217c37f2b0af]\. Dasselbe hat er in seinem Heiligen ausgesprochen[^bible-0c389a57-38f3-43d2-adc7-587770d01a26], wie wir schon sagten: in Mose\. Doch in ihnen sprach er im übertragenen Sinn, damit sich das Gesagte in Jesus Christus nicht im übertragenen, sondern im eigentlichen Sinn erfüllte\. In ihm hat Judas nämlich die Königsherrschaft erlangt, und sein Reich wird kein Ende haben[^bible-b7b64552-e263-493b-b8a0-7d04206158a8]\. Also: „Judas ist mein König, Moab ist der Kessel meiner Hoffnung\.[^bible-caf43aeb-8572-4b92-ba6f-7ddb7c51c0bc]“ Kessel, das heißt: ein Topf\. Weil Moab ein Sohn der Unzucht ist[^bible-e593f3b1-97c8-45ce-80f8-b1f798920159], steckt seine Begierde in einem brennenden Topf\. Und weil die Moabiter Idumäa besetzt haben, sagt er: „Ich werde Moab von dort vertreiben, ‚und ich selbst werde dort meine Sandale ausstrecken\.[^bible-56ae47a8-91d1-4a9e-9885-5a42eab1a544]‘“ Wenn also auch du, Christ, Moab aus dem Land vertreibst, in das er eingefallen ist, und wenn du die Herrschaft über die Fremdvölker erlangst[^bible-56ae47a8-91d1-4a9e-9885-5a42eab1a544], nachdem du den König der Begierde gefangen genommen oder wie einen Topf in Brand gesetzt hast, dann wird dich der Herr mit seiner Hilfe in die Stadt derer führen, die dich umringen[^bible-ae39b484-08b2-4f2e-beb3-e6ccbc13b52e]\. Dort auf dem Felsen der Zuflucht umringen dich die Engel und leiten dich, bis du die befestigte Stadt erreichst[^bible-ae39b484-08b2-4f2e-beb3-e6ccbc13b52e]\. Wenn du die Herrschaft über Idumäa erlangt hast und wenn in deinem Körper, wo das Unrecht überhandgenommen hat, die Gnade umso reicher ist[^bible-a889acfb-4eba-439a-800f-17061016b134], dann hüte dich davor, aus Vertrauen auf deine eigene Kraft zu meinen, du könntest all das vollbringen\. Denn der Ruhm des Menschen ist nicht verlässlich, sondern nichtig\. Ruf vielmehr zum Herrn und sprich mit allen Heiligen: „Hilf uns aus der Bedrängnis, denn bei Menschen sucht man vergeblich Rettung\.[^bible-d6f7e17f-1871-4c5d-be58-78cb80122c60] Mit dir[^bible-a142bbfd-f50f-4916-afcf-893d09710b8a], Herr, werden wir Gewaltiges vollbringen, denn du wirst alle zunichtemachen, die uns bedrängen[^bible-a142bbfd-f50f-4916-afcf-893d09710b8a], du, der du in alle Ewigkeit herrschst\. Amen\.“
+
+## Bibelverweise
+
+[^bible-0c389a57-38f3-43d2-adc7-587770d01a26]: Ps 59,8
+[^bible-120ecf04-a63b-429c-b343-d57a6f6ca71e]: Ps 60,3
+[^bible-2d30daee-acde-4e4e-9358-9ace8cca7487]: Ex 1,14
+[^bible-48b7fc62-aa65-4259-87fb-3b326652ab4f]: Ex 12,13; Ex 12,23; Hebr 11,28
+[^bible-510838fe-5c69-4afb-8926-fb5304eb1e80]: Jes 51,17
+[^bible-54476ee5-7cff-4085-97d7-18cea9200a32]: Ps 60,5
+[^bible-56ae47a8-91d1-4a9e-9885-5a42eab1a544]: Ps 59,10
+[^bible-5d4b190f-f4f1-4f33-ae30-12f60b82b057]: Ps 59,9
+[^bible-71c22023-6599-4a62-bd5c-9bb04908ce75]: Ps 60,3–Ps 60,14
+[^bible-77a14100-ace9-4ea5-bf5e-06460c67476b]: Ps 59,7
+[^bible-7bde5635-4b5f-4ec1-9002-1c30ac14fad3]: Ps 60,6
+[^bible-826084da-64fa-4292-9131-3109b7ea60f3]: Ps 60,1–Ps 60,2
+[^bible-8b15ab80-251e-4df1-8b32-217c37f2b0af]: Gen 48,19–Gen 48,20; Gen 49,8–Gen 49,10
+[^bible-a142bbfd-f50f-4916-afcf-893d09710b8a]: Ps 59,14
+[^bible-a889acfb-4eba-439a-800f-17061016b134]: Röm 5,20
+[^bible-ae39b484-08b2-4f2e-beb3-e6ccbc13b52e]: Ps 59,11
+[^bible-b7b64552-e263-493b-b8a0-7d04206158a8]: Lk 1,33
+[^bible-bb87a385-4586-4c30-9ea8-c1cd9ad1e699]: Ex 7,13–Ex 7,14
+[^bible-c220dcec-b2c8-4d80-b03c-4a21c3888e5b]: Ps 60,4
+[^bible-caf43aeb-8572-4b92-ba6f-7ddb7c51c0bc]: Ps 59,9–Ps 59,10
+[^bible-d6f7e17f-1871-4c5d-be58-78cb80122c60]: Ps 59,13
+[^bible-e593f3b1-97c8-45ce-80f8-b1f798920159]: Gen 19,36–Gen 19,37

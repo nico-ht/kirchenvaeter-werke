@@ -1,0 +1,31 @@
+# Kommentar zu den Psalmen – Kapitel 45: Psalm 45: Ein Schwall des Jordans schenkt die Vergebung der Sünden
+
+Autor: Arnobius der Jüngere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-juengere/kommentar-zu-den-psalmen#kapitel-c492f4ce-ca12-4485-7498-08df499d7458).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Psalm 45\. Für das Ende\. Für die Söhne Korachs, über das Verborgene[^bible-cfa8458e-a081-44d3-b7fe-29afe003d345]\.
+
+Unser Gott ist Zuflucht und Stärke, ein Helfer in den Bedrängnissen, die uns so schwer getroffen haben[^bible-fd5f5c3d-22bd-4735-848f-91d4d76e908d]\. Darum werden wir uns nicht fürchten, wenn die Erde erbebt und die Berge ins Herz des Meeres versetzt werden[^bible-caa8870e-ad8f-4650-9794-c6450e9def1b]\. Ihre Wasser brausten und gerieten in Aufruhr, und die Berge wurden von seiner Kraft erschüttert[^bible-e06aff9b-cb1f-476b-b7c8-75b864f9183c]\. Die Flut des Stroms erfreut die Stadt Gottes\. Der Höchste hat sein Zelt geheiligt[^bible-47ee7be7-cc73-4cb6-ba81-3ece56547829]\. Gott wird in ihrer Mitte nicht wanken\. Bei Tagesanbruch wird Gott ihr helfen[^bible-a018ce54-fd14-43c8-b6f6-3791b5f6454d]\. Die Völker gerieten in Aufruhr, die Reiche gerieten ins Wanken\. Er ließ seine Stimme hören, und die Erde erbebte[^bible-18a18584-79fd-43ab-ac54-6a2c419cbb81]\. Der Herr der Mächte ist mit uns, unser Beschützer ist der Gott Jakobs[^bible-038e610a-fbf7-4f00-9921-2a994215d991]\. Kommt und seht die Werke des Herrn, die er als Wunderzeichen auf der Erde vollbracht hat[^bible-cefc3e8b-9047-4c61-bc5f-4708d236884a]\. Sie werden den Kriegen bis ans Ende der Erde ein Ende setzen\. Er wird den Bogen zertrümmern, die Waffen zerbrechen und die Schilde im Feuer verbrennen[^bible-b3ede482-9196-43f6-8794-8e986d9e5018]\. „Haltet inne und seht, dass ich Gott bin\. Ich werde unter den Völkern erhöht werden, ich werde auf der Erde erhöht werden[^bible-781a14ec-7e24-4a80-b3b1-c06ff2edfd22]\.“ Der Herr der Mächte ist mit uns, unser Beschützer ist der Gott Jakobs[^bible-4e324bfe-9090-471d-b9ed-ee721e658dfd]\.
+
+Wenn du unter Tränen und in der Bedrängnis deiner Seele dein Gebet vor Gott ausgießt, dann sei gewiss: Gott wird dir zur Zuflucht und zur Stärke[^bible-fd5f5c3d-22bd-4735-848f-91d4d76e908d]\. Du beginnst, dich nicht mehr zu fürchten, wenn die Erde erbebt[^bible-caa8870e-ad8f-4650-9794-c6450e9def1b], die Erde deines Körpers\. Denn die Berge werden versetzt[^bible-caa8870e-ad8f-4650-9794-c6450e9def1b]: die Apostel des Herrn, die seine Höhe verkünden\. Sie selbst werden ins Herz des Meeres versetzt[^bible-caa8870e-ad8f-4650-9794-c6450e9def1b], in die Gemüter der wogenden Welt\. Wie sehr auch seine Wasser brausen und in Aufruhr geraten, wie sehr auch die Berge selbst erschüttert werden[^bible-e06aff9b-cb1f-476b-b7c8-75b864f9183c], das heißt die Apostel, und zwar von seiner Kraft[^bible-e06aff9b-cb1f-476b-b7c8-75b864f9183c], das heißt von seinem Leiden, wie schwer auch die Sünden sind, die die Seelen erschüttern, und wie sehr auch die Menschen, die das Bewusstsein ihrer Sünden niederdrückt, bei der Predigt der Apostel in Bedrängnis geraten: Ein einziger Schwall des Jordans schenkt die Vergebung der Sünden und erfreut die Stadt Gottes[^bible-47ee7be7-cc73-4cb6-ba81-3ece56547829], wenn der Heilige Geist das Zelt heiligt[^bible-47ee7be7-cc73-4cb6-ba81-3ece56547829], das dein Körper ist\. In dir wird nun Gott nicht wanken, wenn Gott deiner Seele mit seinem Blick hilft[^bible-a018ce54-fd14-43c8-b6f6-3791b5f6454d]\. Im Hebräischen heißt es: „Gott hat ihm bei Tagesanbruch geholfen[^bible-a018ce54-fd14-43c8-b6f6-3791b5f6454d]\.“ Das heißt: Wenn durch die Flut des Stroms[^bible-47ee7be7-cc73-4cb6-ba81-3ece56547829] das Dunkel der Sünden vergangen ist, lässt Gott, der Licht ist[^bible-cb644465-6309-498a-ba68-0573a4545b1c], im Herzen das erste Licht aufleuchten und hilft ihr, das heißt der Seele, die sagt: „Der Herr der Mächte ist mit uns, unser Beschützer ist der Gott Jakobs[^bible-038e610a-fbf7-4f00-9921-2a994215d991]\.“ So sehr auch die Völker in Aufruhr geraten[^bible-18a18584-79fd-43ab-ac54-6a2c419cbb81], das heißt die Götzenanbeter, die sich gegen die Märtyrer des Herrn erheben, und so sehr auch die Reiche dazu neigen[^bible-18a18584-79fd-43ab-ac54-6a2c419cbb81], sie zu verfolgen: Der Höchste lässt in ihren Herzen seine Stimme hören[^bible-18a18584-79fd-43ab-ac54-6a2c419cbb81]\. So erbebt die Erde[^bible-18a18584-79fd-43ab-ac54-6a2c419cbb81], die Erde ihrer Körper, sodass sie sich überhaupt nicht vor denen fürchten, die den Körper töten, sondern vor dem, der Seele und Körper in der Gehenna zugrunde richten kann[^bible-5564c1cb-fcc2-4da9-a02e-9e72de92129e]\. So sehr verachten sie deren Seelen, dass sie ihnen durch ihre eigenen Leiden die Bögen zertrümmern und die Waffen zerbrechen[^bible-b3ede482-9196-43f6-8794-8e986d9e5018]\. Wer tut das? Diejenigen, die frei sind von allen Sorgen der Welt und sehen, dass er Gott ist[^bible-781a14ec-7e24-4a80-b3b1-c06ff2edfd22], er, der von den Heiden verleugnet und von den Juden gekreuzigt wird\. Er ist unsere Zuflucht, er ist unsere Stärke, er ist unser Helfer[^bible-fd5f5c3d-22bd-4735-848f-91d4d76e908d]\. Er ist der Gott der Mächte, er ist unser Beschützer, er ist auch der Gott Jakobs[^bible-038e610a-fbf7-4f00-9921-2a994215d991]\. Er herrscht mit dem Vater und dem Heiligen Geist jetzt und immer und in alle Ewigkeiten\. Amen\.
+
+## Bibelverweise
+
+[^bible-038e610a-fbf7-4f00-9921-2a994215d991]: Ps 46,8
+[^bible-18a18584-79fd-43ab-ac54-6a2c419cbb81]: Ps 46,7
+[^bible-47ee7be7-cc73-4cb6-ba81-3ece56547829]: Ps 46,5
+[^bible-4e324bfe-9090-471d-b9ed-ee721e658dfd]: Ps 46,12
+[^bible-5564c1cb-fcc2-4da9-a02e-9e72de92129e]: Mt 10,28
+[^bible-781a14ec-7e24-4a80-b3b1-c06ff2edfd22]: Ps 46,11
+[^bible-a018ce54-fd14-43c8-b6f6-3791b5f6454d]: Ps 46,6
+[^bible-b3ede482-9196-43f6-8794-8e986d9e5018]: Ps 46,10
+[^bible-caa8870e-ad8f-4650-9794-c6450e9def1b]: Ps 46,3
+[^bible-cb644465-6309-498a-ba68-0573a4545b1c]: 1Joh 1,5
+[^bible-cefc3e8b-9047-4c61-bc5f-4708d236884a]: Ps 46,9
+[^bible-cfa8458e-a081-44d3-b7fe-29afe003d345]: Ps 46,1
+[^bible-e06aff9b-cb1f-476b-b7c8-75b864f9183c]: Ps 46,4
+[^bible-fd5f5c3d-22bd-4735-848f-91d4d76e908d]: Ps 46,2

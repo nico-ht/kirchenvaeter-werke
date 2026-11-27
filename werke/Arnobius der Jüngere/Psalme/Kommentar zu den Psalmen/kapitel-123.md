@@ -1,0 +1,22 @@
+# Kommentar zu den Psalmen – Kapitel 123: Psalm 123: Wäre der Herr nicht in uns, könnten wir nicht siegen
+
+Autor: Arnobius der Jüngere
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/arnobius-der-juengere/kommentar-zu-den-psalmen#kapitel-d70feb0a-18e5-4ba4-74e8-08df499d7458).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Psalm 123\. Ein Stufenlied[^bible-d8226868-a6e5-4419-87fb-ea7cf529906b]\.
+
+Wäre der Herr nicht in uns gewesen – so soll Israel jetzt sagen –, wäre der Herr nicht in uns gewesen: Als sich Menschen gegen uns erhoben, hätten sie uns vielleicht lebendig verschlungen\. Als ihr Zorn gegen uns entbrannte, hätte uns vielleicht das Wasser verschlungen\. Unsere Seele hat den Wildbach durchquert; vielleicht hätte unsere Seele das Wasser durchquert, dem man nicht standhalten kann\. Gepriesen sei der Herr, der uns ihren Zähnen nicht als Beute überließ\. Unsere Seele wurde wie ein Sperling aus der Schlinge der Jäger gerettet\. Die Schlinge ist zerrissen, und wir sind befreit\. Unsere Hilfe ist im Namen des Herrn, der Himmel und Erde gemacht hat\.[^bible-51cf83cd-7fac-494f-81d6-7a6a4bb568f0]
+
+Was ungläubige Menschen den Märtyrern in den Verfolgungen angetan haben, das tun uns in den Versuchungen unsichtbare Feinde an, sofern wir Gott wirklich dienen\. Wenn du also von ihren sichtbaren Kämpfen liest, denk an deine unsichtbaren\. Widersprich im Innern dem Geist, der dir eingibt, was unrecht ist, so wie sie dem Menschen widersprachen, der sie zum Opfern überreden wollte\. Wodurch sie gesiegt haben, dadurch siege auch du\. Ihr Sieg war der Tod, dein Sieg soll das Leben sein\. Bei ihnen waren Überredung und Gewalt am Werk\. Stell dir vor, es ginge auch dir so und Überredung und Gewalt kämpften gegen dich, obwohl doch nur die Überredung auf dich einwirkt, du überaus christlicher Lehrer\. Denn wenn du im Gespräch mit mir gerecht urteilst, wirst du zugeben, dass du dich allein gegen die Überredung wehrst\. Aber ich räume ein, dass sowohl die Überredung als auch die Gewalt der Dämonen mit dir ringen\. Du hast, was du zum Sieg brauchst; die Hilfsmittel stehen bereit\. Fang an zu kämpfen: Der Herr ist mit dir\. Mehr noch: Der Herr ist in dir, wie er in denen war, die nach diesem Sieg dem Herrn den Psalm mit diesen Worten sangen: „Wäre der Herr nicht in uns gewesen – so soll Israel jetzt sagen –, wäre der Herr nicht in uns gewesen: Als sich Menschen gegen uns erhoben, hätten sie uns vielleicht lebendig verschlungen\. Als ihr Herz im Zorn gegen uns aufwallte[^bible-00691c1e-89bc-4cf0-be25-283ae4551730] …“ Warum sollten sie nicht zornig werden? Warum wehrten sich die Märtyrer mit ihrem Widerspruch und fürchteten sich nicht vor denen, die ihnen drohten, sie schlugen und folterten und ihnen mit vielen ausgeklügelten Martern sogar das Leben nahmen? Stell dir vor, es ginge auch dir so\. Ich schlage gegen die Folterklaue des Herzens, ich schlage gegen die Angriffe auf den Geist\. Ruf: „Ich willige nicht ein\!“ Sie bieten dir ja Gelegenheit zur Sünde, süße Worte, die Anmut einer Frau, Gelegenheiten, Gewinn zu machen, und die Frömmigkeit fleischlichen Tuns\. „Es ist fromm, wenn du den Richter aufsuchst, deine Sache verteidigst, eine Bittschrift einreichst, deine Bitten vorbringst und zwischendurch zu Mittag isst\. Heute soll ein froher Tag sein, heute Nacht wird nicht gewacht\.“ Mit solchen und ähnlichen Worten bringen sie den Kämpfer um seine Waffen\. Glaub das nicht: Du wirst in die Irre geführt\. Glaub dem, der aus Erfahrung spricht\. Bete, wache, ruf und halte an deinem Vorsatz fest: Du bekennst dich dazu, den Märtyrern zu folgen\. Ruf jedes Mal: „Ich willige nicht ein\!“ Dann wird der Herr mit dir sein\. Durch ihn wird deine Seele aus der Schlinge der Jäger gerettet[^bible-da4088b9-9ff3-41e7-ab37-a8f1305bf07f], damit du mit den Heiligen lieblich singst: „Die Schlinge ist zerrissen, und wir sind befreit\. Unsere Hilfe ist im Namen des Herrn, der Himmel und Erde gemacht hat\.[^bible-31677147-8768-4144-b18c-c522fe22d760]“ Ihm sei die Herrlichkeit in Ewigkeit\. Amen\.
+
+## Bibelverweise
+
+[^bible-00691c1e-89bc-4cf0-be25-283ae4551730]: Ps 124,1–Ps 124,3
+[^bible-31677147-8768-4144-b18c-c522fe22d760]: Ps 124,7–Ps 124,8
+[^bible-51cf83cd-7fac-494f-81d6-7a6a4bb568f0]: Ps 124,1–Ps 124,8
+[^bible-d8226868-a6e5-4419-87fb-ea7cf529906b]: Ps 124,1
+[^bible-da4088b9-9ff3-41e7-ab37-a8f1305bf07f]: Ps 124,7
