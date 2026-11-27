@@ -1,0 +1,12 @@
+# Wider die Irrlehren, Buch 2 – Kapitel 2: Magier und Zandiken lehren beide zwei Wurzeln und unterscheiden sich nur in ihrer Lebensführung
+
+Autor: Eznik von Kolb
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/eznik-von-kolb/eznik-wider-die-irrlehren-buch-2#kapitel-2e0caab3-d344-4fba-5106-08df4bcb415b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Auf solche unglaubhaften Behauptungen und solches Geschwätz, von dummen Köpfen zusammengeflickt, müsste man überhaupt nicht antworten\. Ihre eigene Torheit würde genügen, um sie schon anhand ihrer eigenen Worte bloßzustellen, denn diese liegen miteinander im Streit und widersprechen einander\. Doch solche Reden lassen die Führer dieser Lehre in den Augen derer, die sich ihnen unterworfen haben, bedeutend erscheinen\. Sie legen ihnen eine Schlinge um und ziehen sie in den Abgrund\. Deshalb muss man antworten und zeigen, dass sie nichts anderes sagen als Mani, dem sie selbst die Haut abgezogen haben\. Denn Mani lehrt zwei Wurzeln, eine des Guten und eine des Bösen\. Beide seien nicht durch Empfängnis und Geburt entstanden, sondern bestünden aus sich selbst und stünden einander entgegen\.
+
+Dasselbe lehren auch sie, nur lassen sie die beiden Wurzeln aus Zurvans Verlangen durch Empfängnis und Geburt hervorgehen\. Wenn beide dieselbe Lehre haben, warum hassen dann die Magier die Zandiken? Doch nur, weil sie sich in ihrer Lebensführung unterscheiden, und auch da nur dem Anschein nach, nicht in Wirklichkeit\. In ihrer Lehre aber sind beide eins: Die Zandiken lehren zwei Wurzeln, die Magier ebenso; jene beten die Sonne an, diese dienen der Sonne; jene meinen, alles Unbeseelte habe eine Seele, und diese denken genauso\. Mani aber wollte durch Verstellung den Eindruck erwecken, er sei ganz und gar frei vom Zwang der Begierden und stehe in seiner Lebensführung nicht nur über den Magiern, sondern auch über den Anhängern aller anderen Glaubensrichtungen\. Als man ihm jedoch nachwies, dass er Mädchen liebkost hatte, zog man ihm die Haut ab, und er kam dabei ums Leben\. Daran sieht man, dass sie sich allein in ihrer Lebensführung unterscheiden: Jene verstellen sich, diese leben ausschweifend und geben sich ganz offen ihren Vergnügungen hin\. In ihrer Religion aber sind sie gleich und von derselben Art\.

@@ -1,0 +1,12 @@
+# Wider die Irrlehren, Buch 2 – Kapitel 15: Wer Unrecht bestraft oder abwehrt, zeigt damit, dass es aus menschlichem Handeln und nicht aus Schicksalssprüchen folgt
+
+Autor: Eznik von Kolb
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/eznik-von-kolb/eznik-wider-die-irrlehren-buch-2#kapitel-b7085ac8-50e5-4177-5113-08df4bcb415b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Damit ist klar: So wenig der Stern die Königsherrschaft bewirkt, so wenig verleiht er Macht oder macht jemanden reich\. Wir sehen doch, wie Reiche verarmen und Arme zu Reichtum kommen\. Können sie etwa auch behaupten, ein und derselbe Stern könne Reichtum und Armut, Macht und Schwäche bewirken? Denn wir sehen mitunter, wie Mächtige schwach und Schwache mächtig werden, wie Böse rechtschaffen und Rechtschaffene böse werden\. Was bleibt da von ihrer Behauptung: „Was die Sprüche als Schicksal festgeschrieben haben, dem kann niemand entgehen\. Wer als ruhmreich verzeichnet ist, ist ruhmreich, und wer als elend verzeichnet ist, ist elend\. Wo und durch wen die Menschen sterben, bestimmen die Sprüche, und so geschieht es auch\. Dem festgesetzten Spruch kann niemand entgehen“?
+
+O schwacher Spruch, o machtlose Bestimmung, die selbst Diebe und Räuber zunichtemachen können, wenn sie über jemanden herfallen und ihm Besitz und Leben rauben\! Wenn alles nach einem festgesetzten Spruch geschähe, dann sollten weder Könige den Befehl zur Hinrichtung geben noch Richter einen Mörder foltern und hinrichten\. Indem sie aber die Strafe verhängen, zeigen sie, dass die Sünden der Sünder nicht einem festgesetzten Spruch entspringen, sondern der Gewalt ihres bösen Tuns\. Oder wenn ein Feind ins Land einfällt, um zu plündern und die Menschen niederzumachen, dann sollten sie keine Truppen sammeln und nicht Schar um Schar aufstellen, um den Feind aus dem Land zu treiben\. Vielmehr sollten sie ihm das Recht dazu zugestehen: „Die Sprüche bestimmen, dass der Feind das Land verheert\. Warum sollten wir uns den Sprüchen widersetzen?“ Doch indem sie die Truppen zusammenziehen und den Feind aus dem Land treiben, zeigen sie, dass das Gemetzel nicht auf einen festgesetzten Spruch zurückgeht, sondern auf die Gewalt des Feindes, der ins Land einfällt, es aus Habgier verheert und ihm Hab und Gut raubt\.

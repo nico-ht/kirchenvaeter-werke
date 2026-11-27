@@ -1,0 +1,14 @@
+# Wider die Irrlehren, Buch 2 – Kapitel 19: Leibliche Regungen kommen aus der Natur, nicht von Geistern – das zeigt ihr Vorkommen bei Mensch und Tier
+
+Autor: Eznik von Kolb
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/eznik-von-kolb/eznik-wider-die-irrlehren-buch-2#kapitel-3a604a53-e958-4c1b-5117-08df4bcb415b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Natürliche Regungen gibt es nicht nur bei den Tieren, sondern auch bei den Menschen, die sprechen und vernünftig denken können\. Wenn etwa das Auge von Natur aus zuckt, ist das nach Ansicht derer, die häufig darauf achten, ein Zeichen dafür, dass man jemanden zu Gesicht bekommen wird, den man noch nicht kennt\. Zuckt das Fleisch an den Hüften oder an anderen Körperteilen, so bedeutet das, wie man sagt, dass man reiten, feine Kleider anziehen, einem geliebten Menschen begegnen oder Prügel beziehen wird\. Ähnlich ist es, wenn der Fuß oder die Hand juckt\. Das eine, sagt man, kündige eine Reise oder Regen an, das andere bedeute, dass man von jemandem etwas bekomme oder jemandem etwas gebe\. Auch das Niesen, das Stechen auf der Zunge, das Klopfen im Ohr und das Kratzen im Hals kommen nicht von einem bösen Geist, sondern gehen auf die natürliche Regung zurück, die der Schöpfer den Gliedern eingepflanzt hat\. Diese Regung soll den Menschen schützen, wenn er es an vernünftiger Vorsicht fehlen lässt\.
+
+Auch das Gähnen und Sichstrecken rühren nicht, wie manche gemeint haben, von einem Dämon her, sondern von der Mattigkeit und Schwäche des Körpers\. Häufiges Gähnen und Sichstrecken führen erfahrene Ärzte daher darauf zurück, dass sich Körpersäfte ansammeln\. Das zeigt schon die Erfahrung: Wer immer wieder gähnt, dem fährt ein Schauer durch die Knochen und ein Frösteln durch die Glieder\. Auch das Niesen kommt nicht von einem Engel, sondern entweder von der Kälte oder von einer anderen natürlichen Regung\. Manchmal bringt einen eine Erinnerung zum Seufzen, manchmal seufzt man aber auch, ohne an jemanden zu denken\. Dass es sich um natürliche Regungen handelt und sie nicht von Dämonen kommen, zeigt sich daran, dass dieselben Regungen auch zur Natur der Tiere gehören\.
+
+Wenn man seufzt, ohne dabei an jemanden, an etwas Gutes oder an eine Notlage zu denken, ist das eine natürliche Regung\. Sie soll den Menschen in der Furcht vor dem Schöpfer halten und ihn die Schwäche seiner eigenen Natur erkennen lassen\. Entspringt der Seufzer dagegen einer Erinnerung, so geschieht das entweder aus Liebe zu einem geliebten Menschen oder weil man Unwürdiges und Verluste beklagt\. So halten auch nächtliche Träume den Menschen in Furcht, wenn er im Wachen nachlässig wird\.
