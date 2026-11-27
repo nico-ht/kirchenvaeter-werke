@@ -1,0 +1,85 @@
+# Formen des geistlichen Verständnisses – Kapitel 12: Zahlen von eins bis tausend verweisen in der Schrift auf Geheimnisse Gottes und seines Heilswirkens
+
+Autor: Eucherius von Lyon
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/eucherius-von-lyon/formen-des-geistlichen-verstaendnisses#kapitel-0db1348a-e7db-4601-a020-08df4b99e2fa).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Nachdem wir diese Ausdrücke nun behandelt haben, wollen wir auch die Zahlen kurz der Reihe nach durchgehen, denen der verborgene Sinn der Beispiele unter den heiligen Zahlen einen besonderen Rang gegeben hat\. Die Eins verweist auf die Einheit der Gottheit\. Im Pentateuch heißt es: „Höre, Israel: Der Herr, dein Gott, ist einer[^bible-7869b71f-6486-45a1-a3ab-5bd2fad93e32]\.“ Und der Apostel schreibt: „Ein Gott, ein Glaube, eine Taufe[^bible-66466343-74f0-427f-9612-852c3afb65bf]\.“ Auch die Arche Noahs, die für die heilige Kirche steht, findet mit einer einzigen Elle ihren Abschluss[^bible-48886c63-1aab-444e-8f95-93aab8cec707], denn in der Schau des einen Gottes findet die ewige Ruhe ihre Vollendung\.
+
+Die Zwei verweist auf die beiden Testamente des göttlichen Gesetzes\. In den Königsbüchern steht: „Und er machte im Dabir zwei Kerubim, zehn Ellen groß[^bible-d93d9be6-82ed-4527-8ad8-6fd1fe7e500d]\.“ Die Zwei verweist auch auf die beiden Gebote der Liebe: Gott und den Nächsten zu lieben[^bible-1a3ccfb1-8f51-47e2-90ed-98860bb48f9d]\. Im heiligen Evangelium lesen wir von zwei auf dem Feld[^bible-dcfc04d3-9341-4882-b2c9-6db84d5efa61], zwei an der Mühle[^bible-ac5dfac0-28e5-41c5-9602-9246e732563f] und zwei im Bett[^bible-d3201eae-35dd-41e9-acde-6a1fa01f440f]\. Die Drei verweist auf die Dreieinigkeit\. Im Johannesbrief heißt es: „Drei sind es, die im Himmel Zeugnis ablegen: der Vater, das Wort und der Heilige Geist[^bible-588ec396-bd39-46a2-960b-9471ceaa1a88]\. Und drei sind es, die auf der Erde Zeugnis ablegen: der Geist, das Wasser und das Blut[^bible-551c51c4-3bf4-4524-a31f-48606cf9921b]\.“ In der Genesis ist von „drei Ranken[^bible-17345d33-a1ba-4e79-a33a-6650375026ba]“ die Rede\. Die Vier verweist auf die vier Evangelien\. Bei Hesekiel steht: „Und aus ihrer Mitte erschien die Gestalt von vier Lebewesen[^bible-d6f19e17-2a9f-486a-b7dc-dae2a9e15d02]\.“ Hierher gehören auch die vier Flüsse des Paradieses[^bible-c6faa527-7008-4098-bd6d-fe3c9be27119]\. Der Name, das Tetragramm, wird mit vier hebräischen Buchstaben geschrieben\. Vier Hörner kennzeichnen das heilige Kreuz, wie es bei Habakuk heißt: „Hörner sind in seinen Händen[^bible-723c6900-509b-4b08-adbe-f534e39b4c72]\.“ Die Fünf verweist auf die fünf Bücher Mose, auf die fünf Säulenhallen[^bible-f0494c5b-f9ad-4737-af05-b6d589dc153f], auf die fünf Brote[^bible-6a125cc1-dc33-4469-8229-c9d20811e7fa] und auf die fünf Wunden am Leib des Herrn[^bible-af0112a5-6637-4c24-8912-0cd1f9e39ff8]\. Der Apostel schreibt: „In der Gemeinde will ich fünf Worte mit meinem Verstand sprechen[^bible-3447f321-80bb-4319-a9c8-1d9a549e6724]\.“ Die Sechs verweist auf den sechsten Tag, an dem der Herr den Menschen zusammen mit allen Lebewesen der Erde schuf[^bible-f2decfc4-d453-4058-97cd-b8011bb8f5ee]\. In der Genesis heißt es: „Lasst uns den Menschen nach unserem Bild schaffen, uns ähnlich[^bible-9e086d13-89c4-4ee1-99cd-bc6e119500e9]\.“ Und wenig später: „Und es wurde Abend, und es wurde Morgen: der sechste Tag[^bible-37c34615-ba35-4ab5-a1f8-e52c62c69394]\.“ In der Zahl Sechs liegt die Vollkommenheit\. Deshalb steht geschrieben, dass Gott die Welt in sechs Tagen vollendet hat[^bible-66e81459-5dcb-422d-a748-a976a01413d2]; und zu eben diesen fünf kommt eins hinzu, damit das Gesetz durch das Evangelium erfüllt wird[^bible-14fca0d2-90d6-405f-bd22-539fb55429a8]\. Die Welt hat sechs Zeitalter\. Fünf sind vergangen, das sechste reicht von Johannes dem Täufer und dem menschgewordenen Christus bis zum Ende der Welt\. Darum schuf Gott am sechsten Tag den Menschen nach seinem Bild[^bible-8bfd0743-d073-41e9-94ac-fe2312cc3923]: In diesem sechsten Zeitalter wird nämlich durch das Evangelium die Neugestaltung unseres Geistes nach dem Bild dessen, der uns geschaffen hat[^bible-3a0f3f34-e42a-407c-baa3-b9e57fa64ac2], offenbar\. Für diese sechs Zeitalter stehen jene sechs Krüge, die der Herr mit Wasser zu füllen befahl und in denen das Wasser zu Wein wurde[^bible-bc5b9757-442d-464e-b365-b77f42267d72], damit wir den nun offenbarten Christus im Gesetz und in den Propheten erkennen\. Diese sechs Zeiten, gleichsam in Abschnitte gegliedert und voneinander abgegrenzt, wären also wie leere Gefäße, wenn Christus sie nicht füllte\. Die Zeiten würden ja leer verstreichen, wenn in ihnen nicht der Herr Jesus Christus verkündigt würde\. Somit wurden die Krüge gefüllt[^bible-3ed8a20f-da3a-427d-8194-bac0dff6d454], das heißt: Die Weissagungen gingen in Erfüllung\.
+
+Die Sieben steht für den siebten Tag, an dem der Herr ruhte, nachdem alles vollendet war[^bible-c4c6bbb4-7038-4307-9baf-b8a106f7d7c2]\. In der Genesis heißt es: „Und Gott ruhte am siebten Tag von all dem Werk, das er vollbracht hatte[^bible-c4c6bbb4-7038-4307-9baf-b8a106f7d7c2]\.“ Für das menschliche Denken bezeichnet diese Zahl die höchste Vollkommenheit, weil sie sich aus der ersten geraden und der ersten ungeraden Zahl zusammensetzt: aus der ersten also, die sich teilen lässt, und der ersten, die sich nicht teilen lässt\. Daher besteht das Jubeljahr aus sieben Jahrwochen[^bible-2b54a4a1-940a-4650-b648-b18edfb7d217]; in ihm kommt die vollkommene Ruhe zum Ausdruck\. Daher auch die sieben Geister, die vor dem Thron Gottes sind[^bible-438cf82a-57ec-4dc3-bfbf-e076380f05b2]\. Und die sieben Brote, mit denen Christus viertausend Menschen satt machte[^bible-f58d236a-6859-41c1-9026-f04ec8303ea7], standen für die siebenfache Gnade des Heiligen Geistes\. Die Acht steht für den Tag des Herrn, den Tag seiner Auferstehung, also für den achten Tag\. Die Überschrift des Psalms lautet: „Zum Ende, für die Oktave[^bible-4a5aa580-1731-44e6-ac2a-a01e81194f7f]\.“ Die Neun verweist auf das Geheimnis der neunten Stunde, in der der Herr seinen Geist aushauchte[^bible-e707232e-cb3d-40d9-94b8-a9c8dd217521]\. Im Evangelium heißt es: „Und um die neunte Stunde rief Jesus mit lauter Stimme[^bible-c8b9f23f-453f-48f3-bcb6-bd32e59b7426]\.“ Es gibt auch neun Namen von Edelsteinen[^bible-726cb84b-ec27-4bd2-a8e3-53372c1c8156] und neun Ordnungen der Engel\. Die Zehn steht für den Dekalog, das heißt für die zehn Worte, die auf zwei Tafeln geschrieben wurden[^bible-918bc04d-6c66-43f9-86b6-3e7321358932]\. Im Psalm heißt es: „Auf der zehnsaitigen Harfe will ich dir spielen[^bible-2e208e02-dba8-4255-bbbf-a3a8afa90576]\.“ Die Elf steht für die Apostel\. Im Evangelium heißt es: „Die elf Jünger aber gingen nach Galiläa[^bible-caec7079-630d-4868-9c7f-f12f5a001117]\.“ Die Elf steht auch für Übertretung und Tadel, insofern sie die Zehn um eins übersteigt\. Deshalb ließ es der Apostel Petrus nicht bei elf Aposteln bewenden, sondern wählte Matthias zum Zwölften in ihrer Reihe[^bible-e6ba1589-67e6-41c5-8099-005f12f39a80]\. Daher schreibt das alte Gesetz vor, elf Decken aus Ziegenhaar anzufertigen[^bible-f993fb32-8d16-48a6-858d-2437d13dcca2]\. Sie stehen für die Werke, mit denen Menschen für die Sünden, die sie begangen haben, Buße tun\. Zur elften Stunde[^bible-324f1c08-df3f-4d43-abd9-f0508cdc1d85] schließlich ergeht der Ruf an die Heiden und an die Menschen im hohen, gebrechlichen Alter\. Die Zwölf steht für die Apostel\. Im Evangelium heißt es: „Dies aber sind die Namen der zwölf Apostel[^bible-c579cd8e-09d5-4900-9382-cfda4b380b75]\.“ Diese Zahl bezeichnet die Gesamtheit derer, die zu Gericht sitzen[^bible-7be54f49-e2b5-4b24-a363-00628e612774]\. Der Grund liegt in den beiden Teilen der Sieben, die meist für die Gesamtheit steht: Multipliziert man diese beiden Teile, drei und vier, miteinander, erhält man zwölf\. Die Vierzehn verweist auf das Geheimnis der Abstammung des Herrn\. Im Evangelium heißt es: „Von Abraham bis David sind es vierzehn Generationen[^bible-6f11fb9c-615b-42b9-a1cb-b29422e33316]\.“ Die Fünfzehn steht für die fünfzehn Stufen des Tempels, die Salomo anlegen ließ\. Nach der Zahl dieser Stufen wurden die fünfzehn Psalme verfasst, die den Titel „Stufenlied“ tragen: vom Psalm „Zum Herrn, als ich in Bedrängnis war[^bible-0ee8bd79-8211-4183-a04c-fa1b0cd2b9dd]“ bis zu „Lobt den Namen des Herrn[^bible-536ffd24-2a6b-475f-bbde-d19df84e487c]“\. Die Sechzehn steht für die Zahl der Propheten\. Die Zweiundzwanzig verweist auf das Geheimnis der göttlichen Bücher, deren Zahl der Zahl der hebräischen Buchstaben entspricht\. Die Vierundzwanzig verweist auf das Geheimnis der Zahl der Ältesten\. In der Offenbarung heißt es: „Und auf den Thronen vierundzwanzig Älteste[^bible-ddecae0f-26fd-45ef-bf96-e0fe6ad28400]\.“ Auch teilte König David die Priester für den Tempeldienst durch das Los in vierundzwanzig Gruppen ein[^bible-e0c8697d-69aa-4562-9158-83683e8dfe82]\. Die Dreißig steht für die Früchte der Ehen der Gläubigen\. Im Evangelium heißt es: „Und sie werden Frucht bringen: das eine hundertfach, das andere sechzigfach, das andere dreißigfach[^bible-0fb2f6dd-2c05-462f-887b-a48774b0e70f]\.“
+
+Das gilt für die Eheleute; das Sechzigfache[^bible-914f6322-46a5-4a5a-94c7-6ebac125a86b] gilt den Witwen, das Hundertfache[^bible-914f6322-46a5-4a5a-94c7-6ebac125a86b] den Jungfrauen\. Die Dreiunddreißig verweist auf das Geheimnis der Lebensjahre, die der Herr im Fleisch verbrachte\. Manche lesen das aus dem Wort des Apostels heraus: „Bis wir in der Einheit des Glaubens und der Erkenntnis des Sohnes Gottes zusammenfinden, zum vollkommenen Mann werden und das Maß des Lebensalters erreichen, das der Fülle Christi entspricht[^bible-6cb89814-4d81-4433-ac1d-8e44a9848779]\.“ Die Vierzig steht für das Geheimnis der Fastenzeit\. Im Evangelium heißt es: „Und er wurde vierzig Tage lang vom Geist in der Wüste geführt[^bible-82f18655-d364-4c6e-8074-133a9c72dc28]\.“ Durch die vier Bücher des Evangeliums kommt die Kraft der Zehn Gebote zur vollen Geltung\. Wir aber erfüllen die Zehn Gebote, wenn wir die vier Bücher des heiligen Evangeliums in allem befolgen\. So gelangen wir durch Enthaltsamkeit, Nachtwachen, Gebete und alles andere, was der Apostel anführt, durch diese „Waffen der Gerechtigkeit[^bible-0ddf2f0f-daab-480a-82b3-24b42069d674]“ zum Lohn des unsterblichen Lebens\. Die Zweiundvierzig steht für die Zahl der Lagerplätze in der Wüste[^bible-d3f47d8b-affc-44a5-b74c-805c39588f23] oder für die Zahl der Generationen von Abraham bis zum Herrn Jesus Christus[^bible-ba2259d0-dac5-48f5-bfd6-e7bd17620235]\. Der Tempel wurde in sechsundvierzig Jahren erbaut[^bible-1ede44fa-7227-4661-b062-f13675ede8a8], und zwar bei seiner zweiten Errichtung, nach Salomo, als die Juden aus der Verbannung zurückkehrten\. Diese Zahl von Jahren passt besonders gut zur Vollkommenheit des Leibes des Herrn\. Die Fünfzig steht für Pfingsten\. In der Apostelgeschichte heißt es: „Und als sich die Tage des Pfingstfestes erfüllten[^bible-e10afb05-a320-4a03-8c96-18a4c98aacae] …“ Die Sechzig steht für die Frucht, die den Witwen oder den Enthaltsamen zukommt\. Im Evangelium heißt es: „Und sie werden Frucht bringen, das eine sechzigfach[^bible-914f6322-46a5-4a5a-94c7-6ebac125a86b]\.“ Die Zweiundsiebzig steht für die Zahl der Ältesten bei Mose[^bible-1237beab-9154-4cec-88e1-278ce2b7ac64] oder der Jünger, die der Herr auswählte[^bible-a4857596-f42f-4d04-a4f2-626420bab6b7]\. Im Evangelium heißt es: „Danach aber bestimmte der Herr noch zweiundsiebzig andere und sandte sie zu zweit vor sich her in jede Stadt[^bible-a4857596-f42f-4d04-a4f2-626420bab6b7]\.“ Die Hundert steht für die Frucht der Märtyrer oder der Jungfrauen\. Im Evangelium heißt es: „Sie werden Frucht bringen, das eine hundertfach[^bible-914f6322-46a5-4a5a-94c7-6ebac125a86b]\.“ Diese Zahl bezeichnet die uneingeschränkte Vollkommenheit\. So heißt es von den Erwählten: „Wer ein Haus oder Brüder oder Schwestern verlassen hat[^bible-15c0dc35-d5f1-45d9-bc16-411df27e7e0c]“, und so weiter, „wird das Hundertfache empfangen und das ewige Leben besitzen[^bible-15c0dc35-d5f1-45d9-bc16-411df27e7e0c]\.“ Die Hundert gibt auch eine Zeitspanne an, so bei Jesaja: „Ein hundertjähriges Kind wird sterben[^bible-191e255d-8aec-47e7-bd46-0fe4033fd3b2]“, und so weiter\. Im Evangelium gibt es auch das hundertste Schaf[^bible-d0cb81a2-6c3f-44d7-8a09-76b71143d21a], das Christus auf seine heiligen Schultern nahm[^bible-403e36e8-f777-4bbb-8f5d-604e1758e55a] und in die himmlische Heimat trug\.
+
+Die Tausend steht für die Vollkommenheit aller Zahlen und dafür, alles Gute vollkommen zu tun\. So schreibt Petrus in seinem Brief: „Eines aber soll euch nicht verborgen bleiben, meine Lieben: Ein Tag bei Gott ist wie tausend Jahre[^bible-b6439b97-2ce1-421f-a12e-9d0cc64c1a02]\.“ Denn in Gottes Erkenntnis sind das Vergangene, das Gegenwärtige und das Zukünftige gleichermaßen gegenwärtig\. Zeiträume, die uns lang oder kurz erscheinen, sind bei Gott gleich lang\. Diese feststehenden, geheiligten Zahlen haben wir also nur als Beispiele angeführt\. Viele weitere Zahlen aber sind ebenfalls geheiligt, ja beinahe alle\. Auf welche Weise sie geheiligt werden, wirst du selbst herausfinden, wenn du die göttlichen Schriften erforschst\.
+
+## Bibelverweise
+
+[^bible-0ddf2f0f-daab-480a-82b3-24b42069d674]: 2Kor 6,7
+[^bible-0ee8bd79-8211-4183-a04c-fa1b0cd2b9dd]: Ps 119,1
+[^bible-0fb2f6dd-2c05-462f-887b-a48774b0e70f]: Mt 13,8
+[^bible-1237beab-9154-4cec-88e1-278ce2b7ac64]: Num 11,24
+[^bible-14fca0d2-90d6-405f-bd22-539fb55429a8]: Mt 5,17
+[^bible-15c0dc35-d5f1-45d9-bc16-411df27e7e0c]: Mt 19,29
+[^bible-17345d33-a1ba-4e79-a33a-6650375026ba]: Gen 40,10
+[^bible-191e255d-8aec-47e7-bd46-0fe4033fd3b2]: Jes 65,20
+[^bible-1a3ccfb1-8f51-47e2-90ed-98860bb48f9d]: Mt 22,37–Mt 22,39
+[^bible-1ede44fa-7227-4661-b062-f13675ede8a8]: Joh 2,20
+[^bible-2b54a4a1-940a-4650-b648-b18edfb7d217]: Lev 25,8–Lev 25,10
+[^bible-2e208e02-dba8-4255-bbbf-a3a8afa90576]: Ps 143,9
+[^bible-324f1c08-df3f-4d43-abd9-f0508cdc1d85]: Mt 20,6
+[^bible-3447f321-80bb-4319-a9c8-1d9a549e6724]: 1Kor 14,19
+[^bible-37c34615-ba35-4ab5-a1f8-e52c62c69394]: Gen 1,31
+[^bible-3a0f3f34-e42a-407c-baa3-b9e57fa64ac2]: Kol 3,10
+[^bible-3ed8a20f-da3a-427d-8194-bac0dff6d454]: Joh 2,7
+[^bible-403e36e8-f777-4bbb-8f5d-604e1758e55a]: Lk 15,5
+[^bible-438cf82a-57ec-4dc3-bfbf-e076380f05b2]: Offb 1,4
+[^bible-48886c63-1aab-444e-8f95-93aab8cec707]: Gen 6,16
+[^bible-4a5aa580-1731-44e6-ac2a-a01e81194f7f]: Ps 6,1
+[^bible-536ffd24-2a6b-475f-bbde-d19df84e487c]: Ps 134,1
+[^bible-551c51c4-3bf4-4524-a31f-48606cf9921b]: 1Joh 5,8
+[^bible-588ec396-bd39-46a2-960b-9471ceaa1a88]: 1Joh 5,7
+[^bible-66466343-74f0-427f-9612-852c3afb65bf]: Eph 4,5
+[^bible-66e81459-5dcb-422d-a748-a976a01413d2]: Ex 20,11
+[^bible-6a125cc1-dc33-4469-8229-c9d20811e7fa]: Joh 6,9
+[^bible-6cb89814-4d81-4433-ac1d-8e44a9848779]: Eph 4,13
+[^bible-6f11fb9c-615b-42b9-a1cb-b29422e33316]: Mt 1,17
+[^bible-723c6900-509b-4b08-adbe-f534e39b4c72]: Hab 3,4
+[^bible-726cb84b-ec27-4bd2-a8e3-53372c1c8156]: Hes 28,13
+[^bible-7869b71f-6486-45a1-a3ab-5bd2fad93e32]: Dtn 6,4
+[^bible-7be54f49-e2b5-4b24-a363-00628e612774]: Mt 19,28
+[^bible-82f18655-d364-4c6e-8074-133a9c72dc28]: Lk 4,2
+[^bible-8bfd0743-d073-41e9-94ac-fe2312cc3923]: Gen 1,27–Gen 1,31
+[^bible-914f6322-46a5-4a5a-94c7-6ebac125a86b]: Mt 13,8
+[^bible-918bc04d-6c66-43f9-86b6-3e7321358932]: Dtn 4,13
+[^bible-9e086d13-89c4-4ee1-99cd-bc6e119500e9]: Gen 1,26
+[^bible-a4857596-f42f-4d04-a4f2-626420bab6b7]: Lk 10,1
+[^bible-ac5dfac0-28e5-41c5-9602-9246e732563f]: Lk 17,35
+[^bible-af0112a5-6637-4c24-8912-0cd1f9e39ff8]: Joh 20,25
+[^bible-b6439b97-2ce1-421f-a12e-9d0cc64c1a02]: 2Petr 3,8
+[^bible-ba2259d0-dac5-48f5-bfd6-e7bd17620235]: Mt 1,1–Mt 1,17
+[^bible-bc5b9757-442d-464e-b365-b77f42267d72]: Joh 2,6–Joh 2,9
+[^bible-c4c6bbb4-7038-4307-9baf-b8a106f7d7c2]: Gen 2,2
+[^bible-c579cd8e-09d5-4900-9382-cfda4b380b75]: Mt 10,2
+[^bible-c6faa527-7008-4098-bd6d-fe3c9be27119]: Gen 2,10
+[^bible-c8b9f23f-453f-48f3-bcb6-bd32e59b7426]: Mt 27,46
+[^bible-caec7079-630d-4868-9c7f-f12f5a001117]: Mt 28,16
+[^bible-d0cb81a2-6c3f-44d7-8a09-76b71143d21a]: Lk 15,4
+[^bible-d3201eae-35dd-41e9-acde-6a1fa01f440f]: Lk 17,34
+[^bible-d3f47d8b-affc-44a5-b74c-805c39588f23]: Num 33,5–Num 33,49
+[^bible-d6f19e17-2a9f-486a-b7dc-dae2a9e15d02]: Hes 1,5
+[^bible-d93d9be6-82ed-4527-8ad8-6fd1fe7e500d]: 1Kön 6,23
+[^bible-dcfc04d3-9341-4882-b2c9-6db84d5efa61]: Lk 17,36
+[^bible-ddecae0f-26fd-45ef-bf96-e0fe6ad28400]: Offb 4,4
+[^bible-e0c8697d-69aa-4562-9158-83683e8dfe82]: 1Chr 24,3–1Chr 24,19
+[^bible-e10afb05-a320-4a03-8c96-18a4c98aacae]: Apg 2,1
+[^bible-e6ba1589-67e6-41c5-8099-005f12f39a80]: Apg 1,26
+[^bible-e707232e-cb3d-40d9-94b8-a9c8dd217521]: Mt 27,46–Mt 27,50
+[^bible-f0494c5b-f9ad-4737-af05-b6d589dc153f]: Joh 5,2
+[^bible-f2decfc4-d453-4058-97cd-b8011bb8f5ee]: Gen 1,24–Gen 1,31
+[^bible-f58d236a-6859-41c1-9026-f04ec8303ea7]: Mt 15,34–Mt 15,38
+[^bible-f993fb32-8d16-48a6-858d-2437d13dcca2]: Ex 26,7
