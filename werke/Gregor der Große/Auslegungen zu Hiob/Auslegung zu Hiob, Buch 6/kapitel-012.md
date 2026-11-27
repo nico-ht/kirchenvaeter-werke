@@ -1,0 +1,17 @@
+# Auslegung zu Hiob, Buch 6 – Kapitel 12: Durch Liebe zur Schrift und rechtes Tun übertreffen die Einfachen die nachlässigen Begabten
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-6#kapitel-287cdd9b-c699-4de4-0d02-08df46e3c7cb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Und die Durstigen werden seinen Reichtum trinken\.[^bible-e02938bf-cfcf-4be9-a01c-e2d52f95a6a9]“
+
+Oft hat ein dummer Mensch eine Quelle inneren Wassers und trinkt doch nicht daraus\. Denn er hat zwar die Gabe des Verstehens empfangen, verschmäht es aber, durch Lesen die Aussagen der Wahrheit kennenzulernen\. Er weiß, dass er sie verstehen könnte, wenn er sich darum bemühte, und hält sich doch aus Widerwillen von allem Lernen fern\. Die Worte der heiligen Schrift sind ein Reichtum des Geistes\. Der dumme Mensch hat diesen Reichtum vor Augen, nimmt aber nichts davon, um sich damit zu schmücken\. Denn wenn er die Worte des Gesetzes hört, erkennt er zwar ihre Größe, bringt aber nicht den geringsten Eifer der Liebe auf, um sie zu begreifen\. Ein anderer dagegen hat Durst, aber keine Auffassungsgabe\. Die Liebe drängt ihn zum Nachsinnen, doch sein schwerfälliger Verstand steht ihm im Weg\. Und doch begreift er durch das Studium des göttlichen Gesetzes mit der Zeit oft gerade das, was der Begabte aus Nachlässigkeit nicht weiß\. So trinken die Durstigen den Reichtum dieses Dummen[^bible-e02938bf-cfcf-4be9-a01c-e2d52f95a6a9]: Aus Liebe erfassen die Schwerfälligen die Gebote Gottes, die den Begabten aus Widerwillen unbekannt bleiben\. Bei ihnen erhellt das Auge der Liebe das Dunkel ihrer Schwerfälligkeit\. Denn den Langsameren öffnet der Durst, was den Schnelleren der Widerwille verschließt\. Zu den Höhen der Erkenntnis gelangen sie auch deshalb, weil sie, wenn es ans Tun geht, nicht das Geringste von dem verschmähen, was sie verstanden haben\. Indem sie ihrem Verstand mit den Händen zu Hilfe kommen, steigen sie höher als die Begabten\. Darum heißt es treffend bei Salomo: „Der Gecko stützt sich auf seine Hände und hält sich im Haus des Königs auf\.[^bible-9add31e7-5abe-4e93-b89e-b86d124b703d]“ Denn Vögel, die sich mit ihren Flügeln in die Luft erheben können, sitzen oft im Dornengestrüpp\. Ohne Flügel zum Fliegen stützt sich der Gecko dagegen auf seine Hände und hat seinen Platz im königlichen Gemäuer[^bible-9add31e7-5abe-4e93-b89e-b86d124b703d]\. So verharren denn auch die Begabten oft in verkehrtem Tun, weil ihre Nachlässigkeit sie lähmt\. Die Einfachen dagegen, denen die Flügel der Begabung nicht helfen, hebt die Kraft ihres Tuns empor und verschafft ihnen einen Platz innerhalb der Mauern des ewigen Reiches\. So hält sich der Gecko, der sich auf seine Hände stützt, im Haus des Königs auf[^bible-9add31e7-5abe-4e93-b89e-b86d124b703d]\. Denn der einfache Mensch gelangt im Streben nach rechtem Tun dorthin, wohin der Begabte nicht hinaufsteigt\. Doch wenn wir das hören, erhebt sich in unserem Herzen die Frage: Warum wird dem Nachlässigen die Gabe des Verstehens geschenkt, und warum steht dem Eifrigen sein langsamer Verstand im Weg? Die Antwort folgt sogleich, denn es heißt weiter:
+
+## Bibelverweise
+
+[^bible-9add31e7-5abe-4e93-b89e-b86d124b703d]: Spr 30,28
+[^bible-e02938bf-cfcf-4be9-a01c-e2d52f95a6a9]: Hi 5,5

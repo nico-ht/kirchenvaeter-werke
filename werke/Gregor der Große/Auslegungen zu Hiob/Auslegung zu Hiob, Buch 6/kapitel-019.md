@@ -1,0 +1,17 @@
+# Auslegung zu Hiob, Buch 6 – Kapitel 19: Wie vertraute Schöpfungswunder den Glauben an die Auferstehung stärken, die der Verstand nicht ergründen kann
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-6#kapitel-8c21b762-9c23-4f33-0d09-08df46e3c7cb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Bei alldem muss man aber wissen: Gottes Wunder soll man stets mit Sorgfalt betrachten, aber nie mit dem Verstand ergründen\. Denn wenn der menschliche Verstand nach einer Erklärung für manche Dinge sucht und keine findet, stürzt er sich oft in den Abgrund des Zweifels\. So kommt es, dass manche die zu Staub gewordenen Körper der Toten betrachten und, weil sie die Kraft der Auferstehung mit der Vernunft nicht erfassen können, die Hoffnung aufgeben, diese Körper könnten je in ihren früheren Zustand zurückkehren\. Wunder gilt es also im Glauben anzunehmen, nicht mit der Vernunft zu ergründen\. Denn wenn die Vernunft sie vor unseren Augen enthüllen könnte, wären es keine Wunder\. Sollten wir dabei aber ins Wanken geraten, müssen wir uns ins Gedächtnis rufen, was uns aus dem Alltag vertraut ist und was wir doch mit der Vernunft nicht erfassen\. So können wir am Beispiel eines ähnlichen Vorgangs den Glauben stärken, den, wie wir merken, unser eigener Scharfsinn ins Wanken bringt\. Beim Anblick des Staubes, zu dem das menschliche Fleisch geworden ist, sind manche erschüttert und verlieren die Hoffnung: Wann soll der Staub je wieder zu Fleisch werden und sich nach den Umrissen der Glieder zu einem wiederbelebten Körper fügen? Wann soll jene dürre Erde in lebendigen Gliedern ergrünen und sich in deren unterschiedlichem Aussehen und ihrer Gestalt ausprägen? Das lässt sich mit der Vernunft gewiss nicht begreifen; ein Beispiel aber macht es leicht, daran zu glauben\. Wer würde denn glauben, dass aus einem einzigen Samenkorn ein riesiger Baum wächst, wenn er es nicht aus Erfahrung sicher wüsste? Wo verbergen sich in einem so winzigen, fast ganz gleichförmigen Korn die Härte des Holzes und das Mark, das weicher oder härter ist als das Holz, die Rauheit der Rinde, das Grün der Wurzel, der Geschmack der Früchte, die lieblichen Düfte, die Vielfalt der Farben und die Weichheit der Blätter? Und doch zweifeln wir nicht daran, dass all dies aus einem einzigen Samenkorn hervorgeht, weil wir es aus Erfahrung wissen\. Was sollte also daran schwer sein, dass aus Staub wieder Glieder werden? Sehen wir doch täglich die Macht des Schöpfers, der auf wunderbare Weise aus einem Korn einen Baum und auf noch wunderbarere Weise aus dem Baum Früchte schafft\. Darum soll er sagen: „Der Großes und Unerforschliches tut und Wunder ohne Zahl vollbringt[^bible-0a474ab7-5a14-46d7-9d03-9dbe8d8ba64a]“, denn die Größe der göttlichen Werke lässt sich weder ihrer Art nach ergründen noch ihrer Menge nach in Zahlen fassen\. Daher heißt es weiter:
+
+„Der Regen auf die Erde fallen lässt und alles mit Wasser tränkt\. Der die Niedrigen in die Höhe hebt und die Trauernden aufrichtet, indem er ihnen Heil schenkt\.[^bible-721274a4-04ec-4633-b4b0-3e23b09164ff]“
+
+## Bibelverweise
+
+[^bible-0a474ab7-5a14-46d7-9d03-9dbe8d8ba64a]: Hi 5,9
+[^bible-721274a4-04ec-4633-b4b0-3e23b09164ff]: Hi 5,10–Hi 5,11

@@ -1,0 +1,17 @@
+# Auslegung zu Hiob, Buch 6 – Kapitel 57: Liebe erhebt den Geist zur Kontemplation, doch Ehrfurcht und Reinheit bewahren ihn vor vermessenem Irrtum
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-6#kapitel-e7108338-a65c-4571-0d2f-08df46e3c7cb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Dabei gilt es aber zu bedenken: Oft treibt die Liebe träge Gemüter zum Handeln an, und die Furcht zügelt unruhige Gemüter in der Kontemplation\. Denn das Gewicht der Furcht ist der Anker des Herzens\. Immer wieder werfen die Wogen der Gedanken das Herz hin und her, doch die Bande seiner Disziplin halten es fest\. Im Sturm seiner Unruhe erleidet es keinen Schiffbruch, weil die vollkommene Liebe es am Ufer der göttlichen Liebe festmacht\. Wer also zur Kontemplation drängt, muss sich zuerst eingehend fragen, wie sehr er liebt\. Denn die Kraft der Liebe ist für den Geist ein Hebewerk: Indem sie ihn aus der Welt herauszieht, hebt sie ihn in die Höhe\. Zuerst soll er also prüfen, ob er liebt, wenn er das Höchste sucht, ob er sich fürchtet, wenn er liebt, und ob er es versteht, das Unbekannte durch Liebe zu erfassen oder das, was er nicht erfasst, in Ehrfurcht zu verehren\. Denn wenn in der Kontemplation die Liebe den Geist nicht weckt, verdunkelt ihn die Trägheit seiner Lauheit; wenn die Furcht ihm kein Gewicht gibt, hebt ihn sein Sinn durch die Leere hinauf in den Nebel des Irrtums\. Öffnet sich ihm die verschlossene Tür zu den Geheimnissen nur langsam, treibt ihn seine eigene Vermessenheit noch weiter von ihr fort\. Denn er will gewaltsam in das eindringen, was er sucht, ohne es zu finden\. Und wenn der hochmütige Geist den Irrtum für die Wahrheit hält, führt ihn gerade der Schritt nach draußen, mit dem er nach innen zu gelangen meint\. Darum stieg der Herr in Feuer und Rauch herab[^bible-d0ae4d87-3709-4469-8294-f78c57992a49], um das Gesetz zu geben\. Denn durch den Glanz seiner Erscheinung erleuchtet er die Demütigen, durch das Dunkel des Irrtums aber verfinstert er die Augen der Hochmütigen\. Der Geist muss also zuerst vom Streben nach vergänglichem Ruhm und von jeder Lust am Begehren des Fleisches gereinigt werden\. Erst dann ist er zum klaren Blick der Kontemplation zu erheben\. Deshalb wird bei der Übergabe des Gesetzes das Volk vom Berg ferngehalten[^bible-6188857d-3a0d-408a-b19a-0f0abc631890], damit sich jene, deren Geist noch schwach ist und die nach Irdischem verlangen, nicht anmaßen, das Hohe zu betrachten\. Darum heißt es zu Recht: „Wenn ein Tier den Berg berührt, wird es gesteinigt\.[^bible-eed6eaa5-73fc-4720-8fee-c23b94104fe5]“ Denn ein Tier berührt den Berg[^bible-eed6eaa5-73fc-4720-8fee-c23b94104fe5], wenn sich ein Geist, der von unvernünftigen Begierden beherrscht wird, zu den Höhen der Kontemplation erhebt\. Doch es wird von Steinen getroffen[^bible-76ede2b6-ed5d-4619-aa89-46e9e616b1ee]; denn der Geist hält dem Höchsten nicht stand, und eben die Schläge der Last aus der Höhe töten ihn\.
+
+## Bibelverweise
+
+[^bible-6188857d-3a0d-408a-b19a-0f0abc631890]: Ex 19,12
+[^bible-76ede2b6-ed5d-4619-aa89-46e9e616b1ee]: Ex 19,13; Hebr 12,20
+[^bible-d0ae4d87-3709-4469-8294-f78c57992a49]: Ex 19,18
+[^bible-eed6eaa5-73fc-4720-8fee-c23b94104fe5]: Ex 19,12–Ex 19,13; Hebr 12,20

@@ -1,0 +1,20 @@
+# Auslegung zu Hiob, Buch 6 – Kapitel 47: In Gottes gerechtem Urteil finden die Gerechten Trost und freuen sich, ohne die Verdammten zu bemitleiden
+
+Autor: Gregor der Große
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/gregor-der-grosse/auslegung-zu-hiob-buch-6#kapitel-81146884-1930-42a6-0d25-08df46e3c7cb).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Unter der Geißel der Zunge[^bible-3b989094-abdf-4895-9a3e-fa8ff5b3cce8] lässt sich auch der Urteilsspruch verstehen, mit dem der strenge Richter die letzte Strafe verhängt, wenn er zu den Verworfenen sagt: „Geht weg von mir, ihr Verfluchten, ins ewige Feuer, das für den Teufel und seine Engel bereitet ist[^bible-c86e0203-9bc2-49b8-82c2-54874c8f4599]\.“ Der Gerechte bleibt also vor der Geißel der Zunge und dem hereinbrechenden Unheil verborgen[^bible-3b989094-abdf-4895-9a3e-fa8ff5b3cce8]\. Denn bei aller Strenge des Urteils findet er dann Trost in der freundlichen Stimme des Richters, wenn es heißt: „Ich hatte Hunger, und ihr habt mir zu essen gegeben; ich hatte Durst, und ihr habt mir zu trinken gegeben; ich war ein Fremder, und ihr habt mich aufgenommen; ich war nackt, und ihr habt mich bekleidet; ich war krank, und ihr habt mich besucht; ich war im Gefängnis, und ihr seid zu mir gekommen[^bible-70a52114-f57d-41b4-8ff0-07261f5db1d5]\.“ Diesen Worten stellt er voran: „Kommt, ihr Gesegneten meines Vaters, nehmt das Reich in Besitz, das seit der Grundlegung der Welt für euch bereitet ist[^bible-bcc26378-f76f-4d46-ba4d-891cb0480c55]\.“ Der Gerechte also wird bei Verwüstung und Hunger lachen[^bible-bf6ec044-4f8f-4222-8701-a2bbfe006b38]\. Denn wenn die letzte Strafe alle Ungerechten trifft, freut er sich über die Herrlichkeit der Vergeltung, die ihm gebührt\. Dann empfindet er auch kein menschliches Mitleid mehr mit den Verdammten\. Denn in der Schau ist er der göttlichen Gerechtigkeit eng verbunden, und die unerschütterliche Kraft ihrer innersten Strenge festigt ihn\. Kein Erbarmen nämlich rührt die Herzen der Erwählten, die im Glanz der himmlischen Gerechtigkeit emporgehoben sind, denn die Höhe der Seligkeit entrückt sie allem Elend\. Darum heißt es auch zu Recht beim Psalmisten: „Die Gerechten werden es sehen und sich fürchten, und sie werden über ihn lachen und sagen: ‚Seht, da ist der Mensch, der Gott nicht zu seinem Helfer gemacht hat[^bible-16b307c5-8cfb-4717-a2ee-cfdf0c6e18b4]\.‘“ Denn jetzt sehen die Gerechten die Ungerechten und fürchten sich; dann werden sie sie sehen und lachen[^bible-71e54776-382b-4a70-a355-80afd4c7fa15]\. Hier fürchten sie sich, weil sie jetzt noch so weit abgleiten können, dass sie es ihnen gleichtun; dort aber empfinden sie kein Mitleid, weil sie den Verdammten dann nicht helfen können\. Dass man mit denen, die der ewigen Strafe übergeben sind, kein Mitleid haben soll, lesen sie also in eben der Gerechtigkeit des Richters, in der sie selig sind\. Wollten sie nämlich im Reich etwas, was sie auf keine Weise verwirklichen können, so würden sie damit das Glück schmälern, das ihnen zuteilgeworden ist\. Das aber darf man nicht einmal vermuten\. Wer sich jedoch nach den Geboten des Lebens richtet, bekommt schon hier, bevor er den ewigen Lohn empfängt, einen ersten Vorgeschmack auf die Sicherheit, die für immer Bestand haben wird\. So fürchtet er den alten Feind nicht, und wenn die Stunde des Todes kommt, erzittert er auch vor dessen heftigen Angriffen nicht im Geringsten\. Denn für die Gerechten beginnt die Vergeltung oft schon mit der inneren Sicherheit im Sterben\. Darum heißt es zu Recht weiter:
+
+## Bibelverweise
+
+[^bible-16b307c5-8cfb-4717-a2ee-cfdf0c6e18b4]: Ps 52,8–Ps 52,9
+[^bible-3b989094-abdf-4895-9a3e-fa8ff5b3cce8]: Hi 5,21
+[^bible-70a52114-f57d-41b4-8ff0-07261f5db1d5]: Mt 25,35–Mt 25,36
+[^bible-71e54776-382b-4a70-a355-80afd4c7fa15]: Ps 52,8
+[^bible-bcc26378-f76f-4d46-ba4d-891cb0480c55]: Mt 25,34
+[^bible-bf6ec044-4f8f-4222-8701-a2bbfe006b38]: Hi 5,22
+[^bible-c86e0203-9bc2-49b8-82c2-54874c8f4599]: Mt 25,41
