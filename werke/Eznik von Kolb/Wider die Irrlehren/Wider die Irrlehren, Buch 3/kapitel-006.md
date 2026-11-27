@@ -1,0 +1,20 @@
+# Wider die Irrlehren, Buch 3 – Kapitel 6: Das Leben der Geschöpfe ist von verschiedener Art und stammt nicht aus Gottes Wesen
+
+Autor: Eznik von Kolb
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/eznik-von-kolb/eznik-wider-die-irrlehren-buch-3#kapitel-0c85add8-70cc-4962-5141-08df4bcb415b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Wie wir bereits gesagt haben, verdient es Lob, dass die Philosophen bei ihrer Suche nach Gott von dem natürlichen Gesetz ausgehen, das dem menschlichen Denken eingepflanzt ist\. Aber vielen Göttern zu verfallen und die Welt für ebenso ewig zu halten wie Gott, ist eine ungeheuerliche Gottlosigkeit\. Auf sie trifft das Wort des Apostels zu: „Sie erkannten Gott und verherrlichten ihn nicht als Gott\.[^bible-e473dfeb-d96f-4097-8791-5d83aca5c0a8]“ Denn Gott zu verherrlichen hätte bedeutet, die Ehre des Schöpfers von den Geschöpfen zu scheiden\. Diese verkünden ja selbst durch ihre Bewegungen und Veränderungen, jedes auf seine Weise, den Schöpfer\. Wenn nun nach ihrem Gefasel die Sterne Götter wären und ebenso der Himmel, die Sonne und der Mond, die weder sprechen noch einen Laut von sich geben, was hätte dann die Ursache dem Verursachten voraus?
+
+Das gilt erst recht, wenn sie annehmen, Gottes eigener Geist und seine eigene Seele \(sofern man überhaupt von einer Seele Gottes sprechen kann\) kämen von Natur aus allen beseelten und unbeseelten Geschöpfen zu, und zwar aus seinem Wesen\. Es ist eine ungeheuerliche Gottlosigkeit, das Leben, das Gottes eigenem Wesen zukommt, unterschiedslos für das Leben der Geistwesen, der beseelten und der unbeseelten Geschöpfe zu halten, statt in den Engeln, Dämonen und Menschen, die Vernunft und Verstand besitzen, geschaffenes Leben anzuerkennen und in den übrigen beseelten Geschöpfen natürliches Leben, das aus den vier Säften gemischt und zusammengefügt ist\. Trennen sich diese Säfte, so löst sich auch das Leben wieder in dieselben vier Säfte auf\.
+
+Es gibt die Geister der Engel und Dämonen und die Seelen der Menschen\. Müssten sie sich da nicht schon ihrer eigenen Worte schämen? Sie behaupten, die Seele sei ungeschaffen, unsterblich und göttlich und stamme aus Gottes Natur\. Zugleich aber nehmen sie Qualen und Strafen für die Seelen an, die sich vergangen haben\. Das ist der Gipfel der Gotteslästerung: Gottes Wesen würde in Teile zerlegt und in viele Seelen zerbrochen, und die eine Hälfte von Gottes eigener Natur würde die andere quälen\. Die eine Hälfte wäre in Herrlichkeit, die andere in Schande, die eine Seite in Freuden, die andere in der Hölle\. Weiter sagen sie: „Wenn nicht in allem Leben ist, wie kommt es dann, dass sich alles bewegt? Samen und Setzlinge, die man in die Erde bringt, treiben aus\. Und bei Mensch und Tier führt der Same, der in den weiblichen Körper gelangt, zu Geburt und Wachstum\.“
+
+Das bestreiten auch wir nicht, denn die Erfahrung zeigt, was dabei geschieht\. Worauf es ankommt, ist vielmehr dies: Dieses Leben ist nicht das Leben des göttlichen Wesens, sondern geschaffenes Leben\. Es ist von einer Art in den Wesen mit Vernunft und Verstand, von einer anderen in den Tieren und allen beseelten Geschöpfen und wieder von einer anderen in den Dingen, die natürliches Leben haben, etwa im Samen, der bei Mensch und Tier in den weiblichen Körper gelangt\. Unter diesen Lebensformen ist die des Menschen die höchste und edelste: In seinem Leib hat er natürliches Leben, in seiner Seele aber das wunderbare Leben der Vernunft\. Denn auch der Leib des Menschen besteht aus den vier Säften\. Sein Geist dagegen ist nicht aus vier Stoffen zusammengefügt, sondern von einfacher und feiner Natur\. Bei den übrigen Tieren ist das Leben anders beschaffen: Es entspringt einer natürlichen, empfindungsfähigen Natur\. Beim Samen wiederum ist es von anderer Art und geht aus natürlichen, unbeseelten Bewegungen hervor\.
+
+## Bibelverweise
+
+[^bible-e473dfeb-d96f-4097-8791-5d83aca5c0a8]: Röm 1,21
