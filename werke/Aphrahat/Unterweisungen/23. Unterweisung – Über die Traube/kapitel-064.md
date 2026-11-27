@@ -1,0 +1,27 @@
+# 23\. Unterweisung – Über die Traube – Kapitel 64: Zedekias Eidbruch wiegt schwerer als der Wortbruch seiner Vorgänger, weil er beim Gott Israels schwor
+
+Autor: Aphrahat
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/aphrahat/23-unterweisung-ueber-die-traube#kapitel-830cf869-0648-4276-12d2-08df4969f332).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Denn die Könige Israels begingen große und bittere Sünden\. Manche wandten sich von Gott ab und warfen sich vor den Götzen nieder, andere stellten den Frauen ihrer Nächsten nach\. Sie töteten Menschen und begingen Ehebruch\. Doch das Urteil über sie wog nicht so schwer wie das, was denen aufs Haupt gelegt wurde, die schworen und dabei logen\. Dem gottlosen König Nebukadnezar war die ganze Erde in die Hände gegeben[^bible-17ee6f07-9caa-40f4-83fa-07eeacf78e3a]\. Als auch das Volk Israel in seine Hände gegeben wurde, führte er einige Israeliten als Geiseln nach Babel\. Das Volk und seine Könige ließ er aufgrund eines Bundes ohne Eid in ihrem Land\. Als sie ihm zusagten: ‚Wir werden dir dienen‘, schloss Jojakim mit ihm einen Bund ohne Eid\. Später lehnte er sich gegen ihn auf[^bible-a7dd316a-a733-419a-b8ad-1e63515ed6cb] und brach sein Wort\. Nachdem er sein Wort gebrochen hatte, wurde er getötet\. Nach Jojakim kam sein Sohn Jojachin auf den Thron[^bible-f7533fd6-ca3f-4bbe-b362-4be956df2dfc]: Nebukadnezar setzte ihn als König ein\. Auch mit Jojachin schloss er einen Bund ohne Eid\. ‚Ich werde mich nicht auflehnen‘, versprach Jojachin\. Doch er brach den Bund und lehnte sich gegen den König von Babel auf\. Daraufhin ließ Nebukadnezar ihn in Ketten legen und nach Babel bringen[^bible-12c165ba-5318-4063-8b2b-6cbacd859c8a]\. Dort saß er siebenunddreißig Jahre im Gefängnis[^bible-1f80c8dc-ff60-43f7-b07e-8fe1a53d8a1b]\. Nebukadnezar setzte Jojachins Onkel Zedekia als König ein[^bible-21b214a1-ec11-43ad-87c1-db84120e416e]\. Nun überlegte Nebukadnezar und suchte Rat: Wie konnte er Zedekia auf dem Thron lassen und sicher sein, dass dieser sich nicht auflehnen würde? Seine Ratgeber sagten zu ihm: ‚Frag die Priester, die das Gesetz kennen\.‘ Nebukadnezar ließ die Priester rufen und fragte sie: ‚Woran kann ich erkennen, dass ihr mir dienen und euch nicht auflehnen werdet?‘ Sie antworteten ihm: ‚Wir und unser König schwören beim Gott Israels und schließen einen Bund mit einer Opfergabe, die auf dem Altar dargebracht wird\.‘ Da sagte Nebukadnezar: ‚Ich werde euch beim Gott Israels schwören lassen\. Wenn ihr bei diesem Eid lügt, wird er euch in meine Hände geben\. Bei den Göttern von Babel lasse ich euch nicht schwören\.‘ Darauf brachten König Zedekia, die Priester und die führenden Männer ein Kalb herbei\. Sie legten dem Kalb die Hände auf den Kopf und schlachteten es\. Die Priester nahmen etwas von seinem Blut und gossen es rings um den Altar aus\. Sein Fett ließen sie auf dem Altar in Rauch aufgehen, damit ein besänftigender Duft aufstieg[^bible-d3ff6d10-34ed-446b-be5d-e65ddc77dde2]\. Dann nahmen sie das Kalb und schnitten es in zwei Teile\. Die führenden Männer von Juda, die Priester und die Lehrer des Volkes gingen zwischen den beiden Hälften hindurch[^bible-b236c4fa-af93-4f7b-b586-dda4d80bf7b5], König Zedekia mit ihnen\. Sie schlossen einen Bund, indem sie beim Gott Israels schworen: ‚Wir werden uns nicht auflehnen[^bible-b23e59d9-f910-4cfe-bb2a-6878e9ccbbb3]\.‘ Nebukadnezar glaubte ihnen\. Später aber brachen sie die Eide, die sie beim Gott Israels geschworen hatten, und lehnten sich gegen den König von Babel auf[^bible-a2a8632f-3e05-4181-ae15-c4fe043c8197]\. Zu jener Zeit weissagten ihnen Jeremia und Hesekiel: Jeremia in Jerusalem und Hesekiel in der babylonischen Gefangenschaft\. Als sie ihren Eid gebrochen und sich aufgelehnt hatten, rief ihnen der Prophet Jeremia zu: ‚Ihr Männer von Juda und ihr Einwohner Jerusalems, König Zedekia und ganz Juda, dient dem König von Babel, dann bleibt ihr am Leben[^bible-bf7c69a1-7725-449f-a187-927ad4daa481]\! Brecht nicht die Eide, die ihr geschworen habt\. Denkt an das Kalb, das ihr in zwei Teile geschnitten habt und zwischen dessen Hälften ihr hindurchgegangen seid[^bible-109b7dfd-5a5f-4e80-ae57-5241d19f1c18]\.‘ Sie hörten aber nicht auf den Propheten\. Als er ihnen immer wieder zurief, packten sie ihn und warfen ihn in die schlammige Grube[^bible-ab0e867d-aabe-435b-8d9a-c3020a12889f]\. Einige von ihnen sagten: ‚Kommt, wir wollen ihn mit seiner eigenen Zunge schlagen und auf nichts hören, was er sagt[^bible-e988dc09-1a6d-4825-9527-6142521a920f]\.‘
+
+## Bibelverweise
+
+[^bible-109b7dfd-5a5f-4e80-ae57-5241d19f1c18]: Jer 34,18
+[^bible-12c165ba-5318-4063-8b2b-6cbacd859c8a]: 2Kön 24,15
+[^bible-17ee6f07-9caa-40f4-83fa-07eeacf78e3a]: Jer 27,6
+[^bible-1f80c8dc-ff60-43f7-b07e-8fe1a53d8a1b]: 2Kön 25,27
+[^bible-21b214a1-ec11-43ad-87c1-db84120e416e]: 2Kön 24,17
+[^bible-a2a8632f-3e05-4181-ae15-c4fe043c8197]: 2Chr 36,13
+[^bible-a7dd316a-a733-419a-b8ad-1e63515ed6cb]: 2Kön 24,1
+[^bible-ab0e867d-aabe-435b-8d9a-c3020a12889f]: Jer 38,6
+[^bible-b236c4fa-af93-4f7b-b586-dda4d80bf7b5]: Jer 34,18–Jer 34,19
+[^bible-b23e59d9-f910-4cfe-bb2a-6878e9ccbbb3]: Hes 17,13–Hes 17,14
+[^bible-bf7c69a1-7725-449f-a187-927ad4daa481]: Jer 27,17
+[^bible-d3ff6d10-34ed-446b-be5d-e65ddc77dde2]: Lev 3,2–Lev 3,5
+[^bible-e988dc09-1a6d-4825-9527-6142521a920f]: Jer 18,18
+[^bible-f7533fd6-ca3f-4bbe-b362-4be956df2dfc]: 2Kön 24,6

@@ -1,0 +1,22 @@
+# 23\. Unterweisung – Über die Traube – Kapitel 11: Christi Bitte, vom Tod verschont zu bleiben, blieb unerhört, damit er uns durch Tod und Auferstehung das Leben verbürgt
+
+Autor: Aphrahat
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/aphrahat/23-unterweisung-ueber-die-traube#kapitel-643b8c2d-5198-4923-129d-08df4969f332).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Und wenn mich der Hörer fragt, warum in bösen Zeiten der Bedrängnis kein Gebet erhört wird, obwohl es Gerechte und Rechtschaffene auf Erden gibt, dann soll der Hörer, ohne darüber zu streiten, bedenken, was ich ihm weiter oben dargelegt habe: Mose, der große Prophet und Führer ganz Israels, erwirkte mit seinem Gebet mehr als einmal Vergebung für sein ganzes Volk\. Ein anderes Mal aber wurde er nicht einmal erhört, als er für sich selbst bat[^bible-096132b0-7c15-4ceb-a214-984f0baaa0a0]\. Erkenne an Jesus, dem großen Retter und Sohn Gottes, etwas noch Größeres: Weil sein Gebet angenommen und erhört wurde, versöhnte sich Gott mit seiner Schöpfung\. Wie der Apostel sagt, hat er selbst uns mit seinem Vater versöhnt[^bible-047ff5e3-d7db-4bc0-8aa1-4799457f9721]\. Als seine Stunde kam, betete er, bat und flehte[^bible-952bb43d-e1dc-43ac-8f15-7c5343d0bbc1], obwohl er es nicht nötig hatte\. Er sagte: „Mein Vater, wenn es möglich ist, soll dieser Kelch an mir vorübergehen[^bible-e4727e26-5d83-433d-9e10-eeeaffa5af56]\.“ Das Gebet, das er für sich selbst sprach, wurde nicht erhört\. Dass unser Retter nicht erhört wurde, geschah uns zur Hilfe\. Denn er musste sterben, um uns ein Unterpfand zu geben: Er starb wie wir, tötete den Tod, stand auf und ließ uns auferstehen\. Und er versprach uns, dass wir leben werden[^bible-7ac3b8c6-bd1b-4051-9489-345b7799a403]\. Denn wäre er erhört worden, als er, mit einem Leib bekleidet, darum bat, vom Tod verschont zu werden[^bible-952bb43d-e1dc-43ac-8f15-7c5343d0bbc1], wer hätte uns dann die Auferstehung verbürgt? Durch seinen Tod machte er uns Mut, und seine Auferstehung erfüllte uns mit Freude\. Auch darin, dass er den Tod fürchtete, handelte er in seiner Weisheit, um uns zu helfen: Er wollte allen Menschen deutlich die Schwäche des Leibes zeigen, mit dem er wie wir bekleidet war\. Denn wäre er nicht wie wir geboren worden, hätte es für ihn keinen Weg zum Tod gegeben\. Und wäre nichts von seinem Geist des Lebens in uns, hätte er uns auch kein Unterpfand des Lebens dafür gegeben, dass wir auferstehen wie er\. Zuerst starb er unseren Tod, damit wir durch seinen Tod Mut fassen\. Dann stand er mit großer Kraft auf, frei von Schwäche\. Er besiegte den Tod und stieg aus dessen Reich herauf\. Wir freuen uns, dass unser Tod von seinem Leben verschlungen wird[^bible-ced53b09-0169-473a-b547-d6f6fd4014f4], und haben in seinem Tod das Unterpfand des Lebens empfangen\. Wäre Christus nicht in dem Leib gestorben, den er von uns hat, hätte er uns kein Unterpfand geben können, das wir als sichere Gewähr dafür empfangen könnten, dass wir aus dem Tod zum Leben kommen\. Doch er hat alle Unterpfänder in seiner eigenen Person zur Vollendung gebracht, und von ihm haben wir das Unterpfand als sichere Gewähr dafür empfangen, dass wir aus dem Tod zum Leben kommen\. Dass wir geboren werden, bekümmert uns nicht, denn er wurde geboren wie wir\. Und in unseren Krankheiten verzagen wir nicht, denn auch er wurde krank wie wir\. Er wurde müde[^bible-1e20855b-d7ba-4225-bd98-ac8488452e98] und bekam auch Hunger, um uns das Fasten zu lehren[^bible-37ef2045-f78f-4c77-9943-55ec0341bd79]\. Der Schlaf überwältigte ihn, und er litt und wurde auf die Probe gestellt in einem schwachen Leib, damit er denen helfen kann, die auf die Probe gestellt werden[^bible-531d3d57-ebb8-4140-a658-8054ef2718c4]\.
+
+## Bibelverweise
+
+[^bible-047ff5e3-d7db-4bc0-8aa1-4799457f9721]: 2Kor 5,18
+[^bible-096132b0-7c15-4ceb-a214-984f0baaa0a0]: Dtn 3,23–Dtn 3,26
+[^bible-1e20855b-d7ba-4225-bd98-ac8488452e98]: Joh 4,6
+[^bible-37ef2045-f78f-4c77-9943-55ec0341bd79]: Mt 4,2
+[^bible-531d3d57-ebb8-4140-a658-8054ef2718c4]: Hebr 2,18
+[^bible-7ac3b8c6-bd1b-4051-9489-345b7799a403]: Joh 14,19
+[^bible-952bb43d-e1dc-43ac-8f15-7c5343d0bbc1]: Hebr 5,7
+[^bible-ced53b09-0169-473a-b547-d6f6fd4014f4]: 2Kor 5,4
+[^bible-e4727e26-5d83-433d-9e10-eeeaffa5af56]: Mt 26,39
