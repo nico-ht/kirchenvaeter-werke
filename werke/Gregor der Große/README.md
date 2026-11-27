@@ -6,6 +6,6 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Auslegungen zu Hiob](Auslegungen%20zu%20Hiob/) · 11 Werke
+- [Auslegungen zu Hiob](Auslegungen%20zu%20Hiob/) · 12 Werke
 - [Die Hirtenregeln](Die%20Hirtenregeln/) · 2 Werke
 - [Homilien über die Evangelien](Homilien%20%C3%BCber%20die%20Evangelien/) · 37 Werke

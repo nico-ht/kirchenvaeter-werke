@@ -7,3 +7,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Werksammlungen
 
 - [Unterweisungen](Unterweisungen/) · 2 Werke
+
+## Einzelwerke
+
+- [Formen des geistlichen Verständnisses](Formen%20des%20geistlichen%20Verst%C3%A4ndnisses/) · 12 Kapitel

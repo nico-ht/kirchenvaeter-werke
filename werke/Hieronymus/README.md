@@ -14,4 +14,6 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Buch über Hebräische Namen](Buch%20%C3%BCber%20Hebr%C3%A4ische%20Namen/) · 56 Kapitel
 - [Hebräische Fragen zur Genesis](Hebr%C3%A4ische%20Fragen%20zur%20Genesis/) · 46 Kapitel
 - [Kommentar zu Jona](Kommentar%20zu%20Jona/) · 41 Kapitel
+- [Kommentar zum Philemonbrief](Kommentar%20zum%20Philemonbrief/) · 2 Kapitel
+- [Kommentar zum Prediger](Kommentar%20zum%20Prediger/) · 13 Kapitel
 - [Leben und Gefangenschaft des Mönchs Malchus](Leben%20und%20Gefangenschaft%20des%20M%C3%B6nchs%20Malchus/) · 10 Kapitel

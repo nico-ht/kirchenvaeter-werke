@@ -14,6 +14,13 @@
     "contentRevision": "sha256:b1db4eece678353050748a70e735df8430042197340fd8ef53b69a194940ee20"
   },
   {
+    "workId": "85ce9cc4-0261-4c35-26b0-08df4a002bf7",
+    "authorName": "Ambrosiaster",
+    "title": "Kommentar zum 1. Thessalonicherbrief",
+    "directory": "werke/Ambrosiaster/Kommentar zum 1. Thessalonicherbrief",
+    "contentRevision": "sha256:8fca875ca497afa896e7728aaa184df4e3d042f46981f21aeeaa34f314bbfc52"
+  },
+  {
     "workId": "7d0c2aa3-847d-4343-f4be-08df1be94294",
     "authorName": "Ambrosiaster",
     "title": "Kommentar zum 1. Timotheusbrief",
@@ -25,7 +32,7 @@
     "authorName": "Ambrosiaster",
     "title": "Kommentar zum 2. Korintherbrief",
     "directory": "werke/Ambrosiaster/Kommentar zum 2. Korintherbrief",
-    "contentRevision": "sha256:9b52717b4ec96c7d353c42eb5b2808394bc07bb239701cdf0efb8d76f89079a9"
+    "contentRevision": "sha256:2fd8d9d2058c000076a3be4e480a5adae68ae34a1af6f36fa8ffc3338bf2e103"
   },
   {
     "workId": "cbcb3190-3cb7-4d4d-f4c6-08df1be94294",
@@ -329,6 +336,20 @@
     "contentRevision": "sha256:6d5479e3686189b656d5e5f3bc548999b0344639a3ace3e4c92321ea55bf716e"
   },
   {
+    "workId": "19672068-19ef-42cf-e4e1-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "14. Unterweisung – Eine Bittschrift",
+    "directory": "werke/Aphrahat/Unterweisungen/14. Unterweisung – Eine Bittschrift",
+    "contentRevision": "sha256:9685d312df49dd2d93b92379f8b953bad1b6684f3b781f1b1894fe68af5bf203"
+  },
+  {
+    "workId": "3d24b968-15fd-455f-e4e2-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "15. Unterweisung – Über die Unterscheidung der Speisen",
+    "directory": "werke/Aphrahat/Unterweisungen/15. Unterweisung – Über die Unterscheidung der Speisen",
+    "contentRevision": "sha256:3f68e2110d54a42f07becbcba067856111b111671abde2be98e509cf889b8262"
+  },
+  {
     "workId": "e3d6e168-7ccd-4610-e4e3-08df4969f2a1",
     "authorName": "Aphrahat",
     "title": "16. Unterweisung – Über die Völker, die an die Stelle des Volkes getreten sind",
@@ -336,11 +357,25 @@
     "contentRevision": "sha256:2c4dc3c36fb8dd3a2eea8b162ec92b1929aa5f99ca12551389ca6fde6690a171"
   },
   {
+    "workId": "0c3c289e-0e91-40b4-e4e4-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "17. Unterweisung – Über den Messias, dass er der Sohn Gottes ist",
+    "directory": "werke/Aphrahat/Unterweisungen/17. Unterweisung – Über den Messias, dass er der Sohn Gottes ist",
+    "contentRevision": "sha256:1c5ff2354b9527e13a0cfc5b3c8ea9b344f2f66ece881626198d1e10ba87b7f1"
+  },
+  {
     "workId": "2989c907-cbe4-42f5-e4e5-08df4969f2a1",
     "authorName": "Aphrahat",
     "title": "18. Unterweisung – Gegen die Juden: Über Jungfräulichkeit und Heiligkeit",
     "directory": "werke/Aphrahat/Unterweisungen/18. Unterweisung – Gegen die Juden Über Jungfräulichkeit und Heiligkeit",
     "contentRevision": "sha256:f9eddb3f57f0bf02d030be62a26a54adec633676978fa178eee540ca358b79c5"
+  },
+  {
+    "workId": "c56935a4-1f15-4a8d-e4e6-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "19. Unterweisung – Brief gegen die Juden, weil sie sagen, sie würden wieder gesammelt werden",
+    "directory": "werke/Aphrahat/Unterweisungen/19. Unterweisung – Brief gegen die Juden, weil sie sagen, sie würden wieder gesammelt werden",
+    "contentRevision": "sha256:7897963e915aff42afdd1531137c9a2d57f9c0ca95d4a20a47e8fa199dd9799f"
   },
   {
     "workId": "d5a9ffdc-4e2e-490a-e4d8-08df4969f2a1",
@@ -371,6 +406,13 @@
     "contentRevision": "sha256:c561902e213bab7f4980ad5410cd7b597ec8e55e02e55ce7881cd6688e5fe26b"
   },
   {
+    "workId": "de3dae50-83e6-481d-e4ea-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "23. Unterweisung – Über die Traube",
+    "directory": "werke/Aphrahat/Unterweisungen/23. Unterweisung – Über die Traube",
+    "contentRevision": "sha256:ddc974908fd6be79c20d4c1b2aae8006f93a9022238d07985f4f8bde982999cb"
+  },
+  {
     "workId": "24eb1ea8-e2ac-41f2-e4d9-08df4969f2a1",
     "authorName": "Aphrahat",
     "title": "3. Unterweisung – Über das Fasten",
@@ -390,6 +432,13 @@
     "title": "5. Unterweisung – Über die Kriege",
     "directory": "werke/Aphrahat/Unterweisungen/5. Unterweisung – Über die Kriege",
     "contentRevision": "sha256:179566b4058f8c1cb522f75f38fe24d7a5b4fdae76bbb357a84c58a379a36605"
+  },
+  {
+    "workId": "ca21b7b8-c365-42a0-e4dc-08df4969f2a1",
+    "authorName": "Aphrahat",
+    "title": "6. Unterweisung – Über die Bundessöhne",
+    "directory": "werke/Aphrahat/Unterweisungen/6. Unterweisung – Über die Bundessöhne",
+    "contentRevision": "sha256:0dd7ae71a163c10df611dddcf851fbb6aa87ddd2d50aa69b9946ce19949154f0"
   },
   {
     "workId": "45ce5afd-c9eb-4367-9eb2-08df40e2b485",
@@ -502,6 +551,13 @@
     "title": "Apologie",
     "directory": "werke/Aristides von Athen/Apologie",
     "contentRevision": "sha256:829e6de327915c718c250f58ad3988ac2ba5450320c88312b4e0de984f39be23"
+  },
+  {
+    "workId": "341386b2-c386-45ee-a01b-08ddb5cd62ea",
+    "authorName": "Arnobius der Jüngere",
+    "title": "Kommentar zu den Psalmen",
+    "directory": "werke/Arnobius der Jüngere/Psalme/Kommentar zu den Psalmen",
+    "contentRevision": "sha256:f9cf4be40e5a738df7c25c1bfe6246826bf29fc96cf84db7bef2727013921d0d"
   },
   {
     "workId": "6f0c8e2d-3965-468e-9166-08df200aaa32",
@@ -1407,6 +1463,62 @@
     "contentRevision": "sha256:8babdf2358baab7b161db12c15641c20b806523b3220c9c4d1563db4252ab479"
   },
   {
+    "workId": "e1508358-61e1-4352-c357-08df4acadc83",
+    "authorName": "Bede Venerabilis",
+    "title": "1. Evangelienhomilie",
+    "directory": "werke/Bede Venerabilis/Evangelienhomilien, Buch 1/1. Evangelienhomilie",
+    "contentRevision": "sha256:7f69aa5e3c69da3f7cafe4a60b8a64c0ed83e8d4a20b4efa0be705c1edb2a22a"
+  },
+  {
+    "workId": "0f73b24d-b68f-4bcb-c358-08df4acadc83",
+    "authorName": "Bede Venerabilis",
+    "title": "2. Evangelienhomilie",
+    "directory": "werke/Bede Venerabilis/Evangelienhomilien, Buch 1/2. Evangelienhomilie",
+    "contentRevision": "sha256:38b5b7be0d44401d390c5ce86f81b73f9afe5d29f6ca06d1276b6370ac7afdf9"
+  },
+  {
+    "workId": "332272c6-86f9-4872-c359-08df4acadc83",
+    "authorName": "Bede Venerabilis",
+    "title": "3. Evangelienhomilie",
+    "directory": "werke/Bede Venerabilis/Evangelienhomilien, Buch 1/3. Evangelienhomilie",
+    "contentRevision": "sha256:4defc70934e5dd815fa9f0b43ec0dc6b454bf91eea1b4c11e5239aef35108f2e"
+  },
+  {
+    "workId": "a4ab256f-6e0c-4084-c35a-08df4acadc83",
+    "authorName": "Bede Venerabilis",
+    "title": "4. Evangelienhomilie",
+    "directory": "werke/Bede Venerabilis/Evangelienhomilien, Buch 1/4. Evangelienhomilie",
+    "contentRevision": "sha256:7bfb0a74bb28e1da3f0fa7ecaada30a747a1a410ae69f6fd46393bf67bd1fc64"
+  },
+  {
+    "workId": "6cd95563-8c64-433f-c35b-08df4acadc83",
+    "authorName": "Bede Venerabilis",
+    "title": "5. Evangelienhomilie",
+    "directory": "werke/Bede Venerabilis/Evangelienhomilien, Buch 1/5. Evangelienhomilie",
+    "contentRevision": "sha256:00eace7e02ad74c52f719cfcedb24aa408d98d0194abb6cb73b3582126a4c637"
+  },
+  {
+    "workId": "8a7985c4-d203-44a4-c35c-08df4acadc83",
+    "authorName": "Bede Venerabilis",
+    "title": "6. Evangelienhomilie",
+    "directory": "werke/Bede Venerabilis/Evangelienhomilien, Buch 1/6. Evangelienhomilie",
+    "contentRevision": "sha256:8cd8f4b856658ccdc4a39e204e30617d1b0e69f1dde1d845ba0f1b7610776e15"
+  },
+  {
+    "workId": "68d4cda8-e0fa-4c62-c35d-08df4acadc83",
+    "authorName": "Bede Venerabilis",
+    "title": "7. Evangelienhomilie",
+    "directory": "werke/Bede Venerabilis/Evangelienhomilien, Buch 1/7. Evangelienhomilie",
+    "contentRevision": "sha256:ac06d8354156d8bacf11925fd99516035dd361483814ade6c1d4cda876ee093b"
+  },
+  {
+    "workId": "0cd3e560-dccd-42d2-c35e-08df4acadc83",
+    "authorName": "Bede Venerabilis",
+    "title": "8. Evangelienhomilie",
+    "directory": "werke/Bede Venerabilis/Evangelienhomilien, Buch 1/8. Evangelienhomilie",
+    "contentRevision": "sha256:9828fff2c2e41af03d2e0e630b054da8e2045df45878eaf20c7ee63b0d7dea0b"
+  },
+  {
     "workId": "60f12d5e-6ae6-4907-70d1-08df3a508666",
     "authorName": "Bede Venerabilis",
     "title": "Auslegung zu Esra und Nehemia, Buch 1",
@@ -2072,6 +2184,13 @@
     "contentRevision": "sha256:65f2df35a6e2dd661643dbb7659fb608b8632fd4923af6fe3c159b8707a8351c"
   },
   {
+    "workId": "c6b5474c-30ef-4377-1cf2-08df4b99e294",
+    "authorName": "Eucherius von Lyon",
+    "title": "Formen des geistlichen Verständnisses",
+    "directory": "werke/Eucherius von Lyon/Formen des geistlichen Verständnisses",
+    "contentRevision": "sha256:03084788111b163f5cb2fd996e1e3392810c1b0297041e528680dce2d07cbbc8"
+  },
+  {
     "workId": "af05db84-d4a2-477b-70be-08df3a508666",
     "authorName": "Eucherius von Lyon",
     "title": "Unterweisungen, Buch 1",
@@ -2212,11 +2331,39 @@
     "contentRevision": "sha256:d76c7e3b68e30329811df1d3050a8bd0b90099c5a28588e79ef4fd8fef70aa3c"
   },
   {
+    "workId": "a58fc3d6-de03-4f2f-403e-08df4bc904e7",
+    "authorName": "Eznik von Kolb",
+    "title": "Wider die Irrlehren, Buch 2",
+    "directory": "werke/Eznik von Kolb/Wider die Irrlehren/Wider die Irrlehren, Buch 2",
+    "contentRevision": "sha256:a896340a9e5fd40880be3a1a2a20a95f02980f79da36f17fb5afb731289a1c83"
+  },
+  {
+    "workId": "aa1eb1a4-696c-474c-403f-08df4bc904e7",
+    "authorName": "Eznik von Kolb",
+    "title": "Wider die Irrlehren, Buch 3",
+    "directory": "werke/Eznik von Kolb/Wider die Irrlehren/Wider die Irrlehren, Buch 3",
+    "contentRevision": "sha256:d26b3b021e091f1e2dc83059685a7fb274d8115b377c2f6dbd837f87500b7f93"
+  },
+  {
+    "workId": "19b224e2-5590-4e79-4040-08df4bc904e7",
+    "authorName": "Eznik von Kolb",
+    "title": "Wider die Irrlehren, Buch 4",
+    "directory": "werke/Eznik von Kolb/Wider die Irrlehren/Wider die Irrlehren, Buch 4",
+    "contentRevision": "sha256:16e723236911d739ce7f554e5aa2e2c336e1140186ebda693455aca3a8be9887"
+  },
+  {
     "workId": "a8566146-1a6f-46be-eb23-08df2a23853e",
     "authorName": "Faltonia Betitia Proba",
     "title": "Biblischer Vergil-Cento",
     "directory": "werke/Faltonia Betitia Proba/Biblischer Vergil-Cento",
     "contentRevision": "sha256:6da71d6e9f35cb84238cb5e088cb8cf33219f0aebb1cfe52539e580d81364b21"
+  },
+  {
+    "workId": "f1230e2a-a358-479f-c353-08df4acadc83",
+    "authorName": "Faustinus und Marcellinus",
+    "title": "Bittschrift an die Kaiser (Libellus precum)",
+    "directory": "werke/Faustinus und Marcellinus/Bittschrift an die Kaiser (Libellus precum)",
+    "contentRevision": "sha256:ee2a93700bca040b6ff7970cce2f305fff557123cdd9b1815937c0bccf505454"
   },
   {
     "workId": "4c7ebc14-08fd-49d8-d650-08df23023ec4",
@@ -2660,6 +2807,13 @@
     "contentRevision": "sha256:53f40568e5b5badd6997ecacd416b054cdbc294e65938afe26e6baeea178beae"
   },
   {
+    "workId": "acd07815-b5f1-4317-ccfe-08df46e3c72c",
+    "authorName": "Gregor der Große",
+    "title": "Auslegung zu Hiob, Buch 6",
+    "directory": "werke/Gregor der Große/Auslegungen zu Hiob/Auslegung zu Hiob, Buch 6",
+    "contentRevision": "sha256:eaef660349fd0186fea89fcd86a74397ca28b30fa352364ea96c3a651070142d"
+  },
+  {
     "workId": "f25ea879-690d-4151-1244-08df46eb831d",
     "authorName": "Gregor der Große",
     "title": "Auslegung zu Hiob, Vorwort",
@@ -3057,6 +3211,20 @@
     "title": "Kommentar zu Matthäus, Buch 4",
     "directory": "werke/Hieronymus/Kommentar zu Matthäus/Kommentar zu Matthäus, Buch 4",
     "contentRevision": "sha256:7fdd27796734d4f358f316a590dc623eca933de01fd97889ba7f21d9c053ed0e"
+  },
+  {
+    "workId": "11e21105-d3ff-4592-c355-08df4acadc83",
+    "authorName": "Hieronymus",
+    "title": "Kommentar zum Philemonbrief",
+    "directory": "werke/Hieronymus/Kommentar zum Philemonbrief",
+    "contentRevision": "sha256:7b60697a140e79d07d32a6d63c7bf1a9f9c23040f54f355e119e2785c2e9e0d2"
+  },
+  {
+    "workId": "96e4b97d-2860-452c-c354-08df4acadc83",
+    "authorName": "Hieronymus",
+    "title": "Kommentar zum Prediger",
+    "directory": "werke/Hieronymus/Kommentar zum Prediger",
+    "contentRevision": "sha256:1d1bb105d3669abce4b427a63e71839173fce52b6301ac6dbf8f33d0730dfe53"
   },
   {
     "workId": "6f252af7-8140-4308-d003-08df29550049",

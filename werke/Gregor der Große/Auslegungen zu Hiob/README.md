@@ -14,6 +14,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Auslegung zu Hiob, Buch 3](Auslegung%20zu%20Hiob%2C%20Buch%203/) · 69 Kapitel
 - [Auslegung zu Hiob, Buch 4](Auslegung%20zu%20Hiob%2C%20Buch%204/) · 72 Kapitel
 - [Auslegung zu Hiob, Buch 5](Auslegung%20zu%20Hiob%2C%20Buch%205/) · 86 Kapitel
+- [Auslegung zu Hiob, Buch 6](Auslegung%20zu%20Hiob%2C%20Buch%206/) · 63 Kapitel
 - [Auslegung zu Hiob, Buch 12](Auslegung%20zu%20Hiob%2C%20Buch%2012/) · 64 Kapitel
 - [Auslegung zu Hiob, Buch 21](Auslegung%20zu%20Hiob%2C%20Buch%2021/) · 35 Kapitel
 - [Auslegung zu Hiob, Buch 22](Auslegung%20zu%20Hiob%2C%20Buch%2022/) · 55 Kapitel

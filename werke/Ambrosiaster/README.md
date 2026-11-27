@@ -7,6 +7,7 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Einzelwerke
 
 - [Kommentar zum 1. Korintherbrief](Kommentar%20zum%201.%20Korintherbrief/) · 16 Kapitel
+- [Kommentar zum 1. Thessalonicherbrief](Kommentar%20zum%201.%20Thessalonicherbrief/) · 6 Kapitel
 - [Kommentar zum 1. Timotheusbrief](Kommentar%20zum%201.%20Timotheusbrief/) · 6 Kapitel
 - [Kommentar zum 2. Korintherbrief](Kommentar%20zum%202.%20Korintherbrief/) · 14 Kapitel
 - [Kommentar zum 2. Timotheusbrief](Kommentar%20zum%202.%20Timotheusbrief/) · 4 Kapitel
