@@ -7,7 +7,8 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 ## Werksammlungen
 
 - [Auslegung zu Esra und Nehemia](Auslegung%20zu%20Esra%20und%20Nehemia/) · 3 Werke
-- [Evangelienhomilien, Buch 1](Evangelienhomilien%2C%20Buch%201/) · 8 Werke
+- [Evangelienhomilien, Buch 1](Evangelienhomilien%2C%20Buch%201/) · 25 Werke
+- [Evangelienhomilien, Buch 2](Evangelienhomilien%2C%20Buch%202/) · 24 Werke
 - [Kommentar zu Markus](Kommentar%20zu%20Markus/) · 4 Werke
 
 ## Einzelwerke

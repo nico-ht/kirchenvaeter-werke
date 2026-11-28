@@ -14,3 +14,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 - [Über die Weltregierung Gottes, Buch 4](%C3%9Cber%20die%20Weltregierung%20Gottes%2C%20Buch%204/) · 1 Kapitel
 - [Über die Weltregierung Gottes, Buch 5](%C3%9Cber%20die%20Weltregierung%20Gottes%2C%20Buch%205/) · 1 Kapitel
 - [Über die Weltregierung Gottes, Buch 6](%C3%9Cber%20die%20Weltregierung%20Gottes%2C%20Buch%206/) · 1 Kapitel
+- [Über die Weltregierung Gottes, Buch 7](%C3%9Cber%20die%20Weltregierung%20Gottes%2C%20Buch%207/) · 1 Kapitel

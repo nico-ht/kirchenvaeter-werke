@@ -6,4 +6,4 @@ Deutsche Übersetzungen von [Die ersten Christen](https://www.erste-christen.de)
 
 ## Werksammlungen
 
-- [Wider die Irrlehren](Wider%20die%20Irrlehren/) · 3 Werke
+- [Wider die Irrlehren](Wider%20die%20Irrlehren/) · 4 Werke
