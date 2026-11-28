@@ -1,0 +1,59 @@
+# Kommentar zum 2\. Thessalonicherbrief – Kapitel 4: Paulus arbeitet als Vorbild für die Gemeinde: Wer sich der Arbeit verweigert, bleibt dennoch ein Bruder
+
+Autor: Ambrosiaster
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/ambrosiaster/kommentar-zum-2-thessalonicherbrief#kapitel-1915bbb6-d7a4-443a-17d6-08df4a002c55).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+„Betet schließlich für uns, Brüder, damit das Wort des Herrn seinen Lauf nimmt und verherrlicht wird, wie auch bei euch, und damit wir von aufdringlichen und niederträchtigen Menschen befreit werden\. Denn nicht alle haben den Glauben\.[^bible-065b57c0-9d40-40cc-bafb-e57920c839bf]“ Er fordert sie auf, nun zu beten: Gott möge seine Lehre in unermüdlichem Lauf voranbringen und sie durch den Mund seines Apostels in die Ohren der Zuhörer strömen lassen\. Er möge auch den Aufruhr eindämmen und stillen, den böse Menschen stiften, die der Wahrheit keinen Glauben schenken\. Auch soll der Apostel beim Reden an Zuversicht gewinnen, damit sein Wirken Frucht trägt und viele sich bekehren\.
+
+„Gott aber ist treu\. Er wird sie stärken und vor dem Bösen bewahren\.[^bible-27572bbf-1120-4e42-b8be-2fc0de9130df]“ Gott hat den Gläubigen und den Menschen, die ein gutes Leben führen, versprochen, dass es ihnen in der Not nicht an seiner Hilfe fehlen wird, damit sie gestärkt werden\. Die Thessalonicher aber eiferten den Guten im Glauben wie im Tun nach\. Deshalb nennt der Apostel Gott treu in seinen Verheißungen, denn seine Fürsorge galt ihnen\.
+
+„Wir aber vertrauen im Herrn darauf, dass ihr tut und auch künftig tun werdet, was wir euch aufgetragen haben\.[^bible-c717f8e2-84c4-4235-baf6-457d1c977707]“ Weil er fest darauf vertraute, dass ihnen Gottes Schutz zuteilwürde, wie sie es verdienten, zweifelt er nicht daran: Was er ihnen im Namen des Herrn auftrug, das tun sie und werden es auch künftig tun[^bible-c717f8e2-84c4-4235-baf6-457d1c977707]\.
+
+„Der Herr aber richte eure Herzen auf die Liebe Gottes und die Geduld Christi\.[^bible-d65adaad-57b2-425e-9c37-b052f2ca25b4]“ Das erbittet er für sie von Gott, ohne daran zu zweifeln, dass Gott es ihnen schenken kann: Ihr Herz soll in der Liebe Gottes wachsen, damit sie das Kommen des Herrn erwarten und sich, nachdem sie die Welt verworfen haben, nach dem Kommen dessen sehnen, der die Welt besiegt hat[^bible-a0db3dae-cfcd-4e0d-8d62-0178adb20be3]\.
+
+„Wir weisen euch aber, Brüder, im Namen unseres Herrn Jesus Christus an: Haltet euch von jedem Bruder fern, der zügellos lebt und sich nicht an die Überlieferung hält, die ihr von uns empfangen habt\.[^bible-b554f853-15e3-469a-9c2c-78eb48a89334]“ Denn in jeder Gemeinde gibt es Menschen, die dem Wort der Lehre \(nicht des Gesetzes\) nicht gehorchen, sondern ihrem eigenen Gutdünken und ihren eigenen Plänen folgen\. Deshalb gebietet der Apostel, sich von ihnen fernzuhalten, damit sie erkennen, dass sie selbst im Irrtum sind\.
+
+„Ihr wisst ja selbst, wie ihr uns nachahmen sollt\. Denn wir haben bei euch nicht zügellos gelebt und von niemandem umsonst Brot gegessen\. Vielmehr haben wir unter Mühe und Anstrengung Tag und Nacht gearbeitet, um keinem von euch zur Last zu fallen\. Nicht etwa, weil wir kein Recht gehabt hätten, Brot anzunehmen, sondern um selbst ein Vorbild für euch zu sein, damit ihr uns nachahmt[^bible-090f05fc-c196-4f3a-840a-661d2ac8c93e]\.“ Er sagt, sie wüssten um seine Arbeit und Mühe\. Er verrichtete seine Arbeit mit Fleiß, um nicht auf fremdes Brot angewiesen zu sein und ihnen ein Vorbild zu geben, damit sie ihn nachahmten[^bible-323b1b10-44d9-4732-ae14-4c2f647c740f]\. Es wäre ihm ja nicht vorzuwerfen, wenn er für seinen leiblichen Unterhalt Brot von denen annähme, deren Seelen er geistliche Nahrung gab[^bible-2827f072-68f9-4a6a-8362-48e2161c3b85], eine Nahrung, die auch dem Leib Unsterblichkeit und Herrlichkeit verschaffen sollte\. Denn erst dann kann die Freiheit voll zur Geltung kommen, wenn jemand sich weder um des Bauches noch um des Geldes willen einem anderen unterordnet, sondern sich mit seinem eigenen Brot begnügt[^bible-674b5585-4cd4-4efb-8214-e7d2e44c508d]\. Umso mehr Lob verdient es, wenn einer darauf verzichtet, etwas anzunehmen, obwohl es ihm erlaubt ist und er das Recht dazu hat\. Ein solcher Mensch kann denen nützen, die ihm zuhören: Sie werden vor dieser Strenge Achtung haben und seine Anweisungen nicht unbeachtet lassen können\.
+
+„Denn als wir bei euch waren, haben wir euch dies aufgetragen: Wer nicht arbeiten will, soll auch nicht essen[^bible-fd2b7a4b-b738-4cc0-b560-cf4545254715]\.“ Er lehrte nicht nur mit Worten, sondern ermutigte auch durch seine Taten\. Denn ein guter Lehrer setzt in die Tat um, was er mit Worten lehrt\. Wenn die Lernenden nicht erleben, dass ihr Lehrer das Gelehrte vernachlässigt, wissen sie, dass sie Wahres hören\. Denn auch wenn niemand verkennt, dass das, was gelehrt wird, offenkundig wahr ist, wird es den Hörern kaum nützen, sobald der Lehrer es selbst zu vernachlässigen beginnt\. Taten überzeugen nämlich mehr als Worte\. Darum gebührt denen großer Lohn, die trotz nachlässiger Lehrer allein durch deren Worte im Handeln wie im Verständnis Fortschritte machen\. So war er denen in der Gemeinde ein Vorbild, die über eine mittlere oder geringe materielle Substanz verfügten: Sie sollten lernen, wie sie ihre Freiheit bewahren konnten\. Daher auch Salomos Mahnung: „Nur selten[^bible-b33e650e-57da-440c-adef-2599d43d8017]“, sagt er, „sollst du deinen Fuß ins Haus deines Freundes setzen, damit er dich nicht satthat und hasst[^bible-b33e650e-57da-440c-adef-2599d43d8017]\.“ Denn wer immer wieder am Tisch anderer einkehrt und sich dem Müßiggang hingibt, muss dem schmeicheln, der ihn ernährt\. Unser Glaube aber ruft die Menschen zur Freiheit[^bible-ee857322-cda9-4ab8-b9cf-ca922a16cdd5]\. „Wenn jemand[^bible-fd2b7a4b-b738-4cc0-b560-cf4545254715]“, sagt er deshalb, „das Essen verschmäht, soll er aufhören zu arbeiten[^bible-fd2b7a4b-b738-4cc0-b560-cf4545254715]\.“ Da aber niemand ohne Nahrung leben kann, soll er sich an die Arbeit machen, damit er nach eigenem Ermessen lebt und dabei Gottes Gnade finden kann\.
+
+„Denn wir haben gehört, dass einige unter euch zügellos leben: Sie arbeiten nicht, machen sich aber überall zu schaffen[^bible-4c45f447-07f9-4ae8-b4f1-789c9d5b38d4]\.“ Wer untätig bleiben will, sucht nach einer Gelegenheit, sich in den Häusern der Reichen zum gern gesehenen Gast zu machen\. Solche Leute ziehen umher und tragen mit feinem Gespür zusammen, was geschehen ist und was die Leute reden\. Sie wissen, was man über wen hören will, und wollen so erreichen, dass man sie zu sich bittet und gern bewirtet\. Ein solches Tun steht ganz und gar im Widerspruch zur Lebensordnung des Herrn\. Denn ihr Gott ist der Bauch[^bible-f79f29ab-e7f9-4252-8037-d87690bea1dc]: Sie sorgen auf schändliche Weise für das, was sie zum Leben brauchen\.
+
+„Im Herrn Jesus Christus gebieten wir also denen, die sich so verhalten, und ermahnen sie, in Ruhe zu arbeiten und ihr eigenes Brot zu essen\.[^bible-1c76dfaa-3b41-4ce2-9daf-fc11bc2fb6a9]“ Um sie leichter zu überzeugen, nennt er in seiner Mahnung den Namen des Herrn Jesus Christus: Sie sollen befolgen, was ihnen nützt\.
+
+„Ihr aber, Brüder, lasst nicht nach, Gutes zu tun\.[^bible-32cc6c9f-8752-4ecf-a756-a1fa2286ffd1] Wenn aber jemand nicht befolgt, was wir euch in diesem Brief sagen, merkt euch, wer es ist, und meidet den Umgang mit ihm, damit er aus Achtung Scham empfindet\.[^bible-a5ec3caa-67b8-44ba-8ad4-1e393ca5b8a5] Haltet ihn nicht für einen Feind, sondern ermahnt ihn wie einen Bruder, indem ihr ihm Rat gebt\.[^bible-c050b77e-261f-494f-ac38-d4328723d8c8]“ Zuvor hatte er jedem geboten, sein eigenes Brot zu essen[^bible-1c76dfaa-3b41-4ce2-9daf-fc11bc2fb6a9]\. Damit nun nicht etwa einige von ihnen dies zum Vorwand für Geiz und Unmenschlichkeit nähmen, fügte er gleich hinzu: „Ihr aber, Brüder, werdet nicht müde, Gutes zu tun\.[^bible-32cc6c9f-8752-4ecf-a756-a1fa2286ffd1]“ Denn nicht wer menschenfreundlich und großzügig ist, verdient Tadel, sondern wer sein Leben in Untätigkeit verbringen will, obwohl er die Mühe der Arbeit auf sich nehmen könnte\. Wenn ihn die Autorität des Briefes nicht zur Besserung bringt, lautet die Anweisung, sich zu merken, wer es ist, und den Umgang mit ihm zu meiden[^bible-a5ec3caa-67b8-44ba-8ad4-1e393ca5b8a5]\. So soll er sich, beschämt darüber, dass ihn alle meiden, den Weisungen des Apostels fügen\. Das soll allerdings ohne Zorn und ohne Beleidigungen geschehen: Mit Geduld soll man ihm aus dem Weg gehen\. Wenn es die Umstände aber mit sich bringen, dass man mit ihm spricht, soll man ihn ermahnen, sich zurechtweisen zu lassen und die Weisungen des Apostels nicht länger zu missachten\. Auch soll man keinen vertrauten Umgang mit ihm pflegen, bis er gehorcht\. Denn wenn ihn Beleidigungen zum Zorn reizen, wird er schlimmer, als er zuvor war\. Man treibt ihn damit zum Streit: Er wird anfangen, seinen Fehler zu verteidigen, und sich später schämen, sich zu bessern\. Denn er will nicht den Eindruck erwecken, er gestehe nun ein, was er zuvor zu entschuldigen suchte\.
+
+„Der Gott des Friedens selbst aber schenke euch Frieden, allezeit und an jedem Ort\. Der Herr sei mit euch allen\.[^bible-11ca0153-fcc7-4688-8e80-fa07d6fde504]“ Wie es seine Art ist, gibt er ihnen stets einen guten Wunsch mit wie seinen liebsten Kindern: Er wünscht, dass der Friede immer bei ihnen bleibt[^bible-11ca0153-fcc7-4688-8e80-fa07d6fde504]\. Dieser Friede weist ihnen den Weg zum ewigen Leben\. Denn der Herr hat versprochen, bei denen zu sein, die auf Frieden bedacht sind\.
+
+„Den Gruß selbst schreibe ich, Paulus, mit eigener Hand\. Das ist das Zeichen in jedem Brief: So schreibe ich\.[^bible-45085df8-aa66-4a30-82c6-a10008267fe0]“ Weil es Leute gibt, die Zusätze in die Schriften einschieben oder sie verfälschen, versichert er, dass er den Gruß in jedem seiner Briefe stets eigenhändig unter den Text setzt[^bible-45085df8-aa66-4a30-82c6-a10008267fe0]\. So kann ein Brief, der nicht von seiner Hand unterzeichnet ist, nicht unter seinem Namen als echt verbreitet werden\.
+
+„Die Gnade unseres Herrn Jesus Christus sei mit euch allen\.[^bible-a514df17-7389-4264-8b42-832ec71dac3e]“ Diesen Gruß hat der Apostel eigenhändig geschrieben\. Er wünscht damit, dass die Gnade unseres Herrn Jesus Christus mit ihnen sei[^bible-a514df17-7389-4264-8b42-832ec71dac3e]\. Amen\.
+
+## Bibelverweise
+
+[^bible-065b57c0-9d40-40cc-bafb-e57920c839bf]: 2Thess 3,1–2Thess 3,2
+[^bible-090f05fc-c196-4f3a-840a-661d2ac8c93e]: 2Thess 3,7–2Thess 3,9
+[^bible-11ca0153-fcc7-4688-8e80-fa07d6fde504]: 2Thess 3,16
+[^bible-1c76dfaa-3b41-4ce2-9daf-fc11bc2fb6a9]: 2Thess 3,12
+[^bible-27572bbf-1120-4e42-b8be-2fc0de9130df]: 2Thess 3,3
+[^bible-2827f072-68f9-4a6a-8362-48e2161c3b85]: 1Kor 9,11
+[^bible-323b1b10-44d9-4732-ae14-4c2f647c740f]: 2Thess 3,8–2Thess 3,9
+[^bible-32cc6c9f-8752-4ecf-a756-a1fa2286ffd1]: 2Thess 3,13
+[^bible-45085df8-aa66-4a30-82c6-a10008267fe0]: 2Thess 3,17
+[^bible-4c45f447-07f9-4ae8-b4f1-789c9d5b38d4]: 2Thess 3,11
+[^bible-674b5585-4cd4-4efb-8214-e7d2e44c508d]: 2Thess 3,12
+[^bible-a0db3dae-cfcd-4e0d-8d62-0178adb20be3]: Joh 16,33
+[^bible-a514df17-7389-4264-8b42-832ec71dac3e]: 2Thess 3,18
+[^bible-a5ec3caa-67b8-44ba-8ad4-1e393ca5b8a5]: 2Thess 3,14
+[^bible-b33e650e-57da-440c-adef-2599d43d8017]: Spr 25,17
+[^bible-b554f853-15e3-469a-9c2c-78eb48a89334]: 2Thess 3,6
+[^bible-c050b77e-261f-494f-ac38-d4328723d8c8]: 2Thess 3,15
+[^bible-c717f8e2-84c4-4235-baf6-457d1c977707]: 2Thess 3,4
+[^bible-d65adaad-57b2-425e-9c37-b052f2ca25b4]: 2Thess 3,5
+[^bible-ee857322-cda9-4ab8-b9cf-ca922a16cdd5]: Gal 5,13
+[^bible-f79f29ab-e7f9-4252-8037-d87690bea1dc]: Phil 3,19
+[^bible-fd2b7a4b-b738-4cc0-b560-cf4545254715]: 2Thess 3,10
