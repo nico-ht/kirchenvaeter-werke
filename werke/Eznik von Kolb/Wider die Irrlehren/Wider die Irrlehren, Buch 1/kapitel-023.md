@@ -1,0 +1,50 @@
+# Wider die Irrlehren, Buch 1 – Kapitel 23: Engel, Dämonen und Menschengeister sind körperlos; körperlich ist, was auf die Sinne wirkt
+
+Autor: Eznik von Kolb
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/eznik-von-kolb/eznik-wider-die-irrlehren-buch-1#kapitel-2d71adfd-233a-4611-5137-08df4bcb415b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Aber auch das müssen wir wissen: Engel, Dämonen und die Geister der Menschen sind körperlos\. Denn von den Engeln heißt es: „Er machte seine Engel zu Geistern und seine Diener zu Feuerflammen\.[^bible-fb660b5f-a4a4-4669-a0d4-c2351e4b9d38]“ Er nennt sie Geister wegen ihrer Schnelligkeit\. Damit will er sagen, dass sie leichter sind als die Winde\. Denn im Hebräischen, Griechischen und Syrischen haben Geist und Wind denselben Namen\. Bei genauerem Hinsehen findet man dasselbe sogar im Armenischen\. Wird jemand von einem anderen bedrängt, sagt er: „Er ließ mich nicht zu Atem kommen“ oder „Er ließ mich nicht Atem holen\.“ Damit meint er die Luft, die wir unablässig einatmen\. Wegen ihrer Wucht nennt er sie Flammenwesen\. So heißt es an anderer Stelle: „Sie sind mächtig an Kraft, seinen Willen zu tun\.[^bible-5819a7d4-59be-4de5-89f9-6e698216eab2]“ Das heißt aber nicht, dass sie von der Natur des Windes und des Feuers wären\. Denn dann würde man mit Recht auch sie körperlich nennen und nicht körperlos\. Alles Körperliche ist nämlich aus vier Grundstoffen zusammengesetzt, so auch die Körper der Menschen und aller Tiere\. Was dagegen keinen Körper hat, ist von einfacher Natur, wie die Engel, die Dämonen und die Geister der Menschen\.
+
+Wo sollten da jene noch zu flüstern wagen, die behaupten, Engel hätten Frauen geheiratet[^bible-7331c6f9-2817-4a71-861e-479ccc38b467]? Die Engel heißen ja Feuerwesen, die Menschen dagegen Graswesen, wie der Prophet sagt: „Alles Fleisch ist Gras\.[^bible-c0caf07e-c49d-4eca-b669-24e7f6ef30d9]“ Damit ist klar: Wo Feuer auf Gras trifft, wird keine Ehe geschlossen, sondern das Gras verzehrt\. Da diese drei Gruppen von gleicher Natur sind, tragen sie ähnliche Bezeichnungen, ja sogar denselben Namen\. Ein Engel heißt Geist, aber ein zum Dienst verpflichteter Geist: Er gehorcht und tut, was ihm aufgetragen wird\. Auch ein Dämon heißt Geist, doch wegen seines Ungehorsams und seiner Auflehnung ein böser Geist\. Zwar sagen wir in unserer Sprache dafür „ays čʿar“, nach der Unterscheidung unserer Vorväter und gemäß dem bei uns eingebürgerten Sprachgebrauch\. Wir wissen aber, dass „ays“ Wind bedeutet und Wind wiederum Geist, wie schon gesagt\. Denn wo wir sagen: „Der sikʿ weht“, sagen die Leute im Tiefland: „Der ays weht\.“ Allein wegen ihrer Ausbreitung und Schnelligkeit nennt man Engel, Dämonen und die Geister der Menschen Geistwesen, das heißt Windwesen\. Wie die Engel wegen ihrer Wucht Flammenwesen heißen, so heißen sie wegen ihrer Schnelligkeit und Ausbreitung Geistwesen, das heißt Windwesen\. Ihre Natur aber steht über Wind und Feuer und ist feiner und schneller als der Gedanke\.
+
+Es ist nicht verwunderlich, dass sie die Namen von Geschöpfen tragen, die uns umgeben, wenn selbst ihr Schöpfer es nicht verschmäht, in seiner Fürsorge je nach Anlass solche Namen anzunehmen\. Gott wird Geist genannt, doch es gibt einen Unterschied\. Es heißt: „Gott ist lebendiger Geist\.[^bible-3df3edd2-9c59-4c1d-920a-768460c70d7c]“ Das heißt: Er spendet Leben\. Er wird auch Feuer genannt, heißt es doch: „Dein Gott ist ein verzehrendes Feuer\.[^bible-d664b479-ee2e-4327-9e48-637aae241cc5]“ Sehen wir nun, ob Gott nur ein verzehrendes Feuer[^bible-d664b479-ee2e-4327-9e48-637aae241cc5] ist\. Derselbe Geist hat doch durch einen anderen Propheten offenbart, dass Gott Licht ist: „Der Herr ist mein Licht und mein Leben\. Vor wem sollte ich mich fürchten?[^bible-27dafa0d-7bdc-4189-bdbe-2f4543b9fe03]“ Wäre er nichts als verzehrendes Feuer[^bible-d664b479-ee2e-4327-9e48-637aae241cc5], wie könnte er dann lebenspendendes Licht heißen? Ist es nicht klar, dass er dort Feuer genannt wird, wo Strenge nötig ist, und dort lebenspendendes Licht, wo Milde nötig ist? Er selbst aber steht über Feuer und Licht und nimmt noch viele andere Namen an, um auf vielerlei Weise Heilung zu bringen\.
+
+Wenn Gott seinen Heiligen erscheinen wollte, zeigte er sich in keiner anderen Gestalt als der des Menschen, den er nach seinem Bild geschaffen hatte[^bible-5000fc65-4ea7-4f2f-81a6-85971ffc4875]\. Das geschah nicht ohne Grund: Er wollte zeigen, wie groß seine Liebe zu den Menschen war\. Zugleich wollte er sie im Voraus zu dieser Erkenntnis hinführen: Wenn er seinen Sohn als Menschen in die Welt sandte, sollte ihnen das nicht fremd vorkommen\. Sie sollten vielmehr wissen, dass er selbst schon in dieser Gestalt erschienen war\. So stieg er zu Adam ins Paradies hinab und ließ wie ein Mensch seine Schritte hören[^bible-af9f5f6b-f35b-479b-83fb-d7a8c4d23ad9]\. Als der Sohn mit zwei Engeln zu Abraham kam, erwies er ihm die Ehre, in dessen Zelt ein Mahl einzunehmen[^bible-2db14602-5533-4cf3-84ee-e674ab4a9ad0]\.
+
+Als er auf dem Berg mit Abraham ins Gespräch gekommen war[^bible-5dba4d50-e74b-47e5-b12c-79ab5a321be1], schickte er seine beiden jungen Diener, die Engel in Menschengestalt, nach Sodom zu Lot, dem vortrefflichen Gastgeber[^bible-02b72a06-8478-4673-aff7-6725b90d9b8f]\. Er ließ den Engel im Dornbusch aufflammen, ohne ihn zu verändern, gab ihm eine menschliche Stimme und ließ ihn mit Mose sprechen[^bible-1da01ad4-174f-480a-b773-7221ba412023], dem schon zuvor geweihten Mann Gottes\. Seinem Heerführer Michael gab er die Gestalt eines Mannes und ließ ihn so seinem Feldherrn Jesus auf freiem Feld erscheinen[^bible-0695048b-2912-4638-8392-acef7634d0a1]\. Den Engel, den er zum Gespräch mit Manoach in dessen Haus sandte, ließ er wie einen Menschen auftreten[^bible-b4f46f6e-f6d0-452e-b2f0-a57ab33d1acf]\. Bisweilen sprach er, beinahe selbst Mensch geworden, mit seinem Freund Mose von Mund zu Mund[^bible-b02d94d6-2489-4328-add5-929eb997661c], Hand in Hand\.
+
+Als der König, in dem Gott einen Mann nach seinem Herzen gefunden hatte[^bible-f50edb2f-9e2f-4be0-9d09-e8e5e9897fe7], über die Schläge betrübt war, zeigte Gott ihm einen Engel in Menschengestalt mit einem Schwert in der Hand[^bible-895488f1-6121-4a9d-82ed-59ab5ac00a79]\. Hesekiel ließ er einen Wagen sehen, der wie Feuer aussah, Flammenzungen hatte und aus vielerlei Gestalten gefügt war, dazu einen Wagenlenker in Menschengestalt[^bible-42bae634-5077-45d2-a33a-4c8fc9910e70]\. Er zeigte ihm auch Cherubim, aus vielerlei wilden Tieren gefügt, und mitten unter ihnen die ausgestreckte Hand eines Cherubs, die wie eine Menschenhand aussah[^bible-55680a24-b81b-4a6a-bdc7-21288bd749c8]\. Er selbst nahm in seiner Fürsorge je nach Anlass eine andere Gestalt an und erschien dem geliebten Mann bald wie der Alte an Tagen[^bible-757de0af-b605-4a0d-bf2b-eb9889964012], bald wie einer, der jung an Tagen ist[^bible-b847da75-01bb-4ca7-bb03-3fabf2485f01]\. Indem er selbst ebenso erschien wie seine Diener, zeigte er, wie groß seine Liebe zum Menschen war\.
+
+All das wurde gesagt, um zu zeigen: Was sichtbar ist, ist körperlich, und was nicht sichtbar ist, ist unkörperlich\. Unter den körperlichen Dingen sind manche dicht, andere von geringer Dichte\. So sagt der Apostel: „Von einer Art sind die Körper der himmlischen Dinge, von einer anderen die Körper der irdischen[^bible-0baa51bc-60af-475e-9281-2374aad0237c]\.“ Zu den irdischen zählen die Körper von Menschen und Vieh, Vögeln und Kriechtieren[^bible-8a50027f-5e2c-4733-bc2b-f52648c86974], zu den himmlischen die von Sonne, Mond und Sternen[^bible-3416b589-4f99-456c-a1ac-3bf7f69ac9db]\. Dass er von ihnen und nicht von den Engeln spricht, macht er gleich darauf deutlich: „Von einer Art ist die Herrlichkeit der Sonne, von einer anderen die Herrlichkeit des Mondes[^bible-3416b589-4f99-456c-a1ac-3bf7f69ac9db]\.“ Kurz gesagt: Was sich mit den Sinnen ertasten oder wahrnehmen lässt oder auf sie einwirkt, ist körperlich\. Was nicht auf die Sinne einwirkt, ist unkörperlich\. Das Element Licht ist fein, aber weil es sich mit dem Auge wahrnehmen lässt, ist es körperlich\. Auch das Element Luft ist fein, doch es wirkt durch seine Kälte auf den Körper ein und ist daher körperlich\. Das Element Feuer ist fein, aber weil es durch seine Wärme auf den Körper einwirkt, ist es körperlich\. Ebenso verhält es sich mit dem Element Wasser: Es ist feiner als die festen Stoffe und dichter als die leichten\.
+
+## Bibelverweise
+
+[^bible-02b72a06-8478-4673-aff7-6725b90d9b8f]: Gen 19,1–Gen 19,3
+[^bible-0695048b-2912-4638-8392-acef7634d0a1]: Jos 5,13–Jos 5,15
+[^bible-0baa51bc-60af-475e-9281-2374aad0237c]: 1Kor 15,40
+[^bible-1da01ad4-174f-480a-b773-7221ba412023]: Ex 3,2–Ex 3,6
+[^bible-27dafa0d-7bdc-4189-bdbe-2f4543b9fe03]: Ps 27,1
+[^bible-2db14602-5533-4cf3-84ee-e674ab4a9ad0]: Gen 18,1–Gen 18,8
+[^bible-3416b589-4f99-456c-a1ac-3bf7f69ac9db]: 1Kor 15,41
+[^bible-3df3edd2-9c59-4c1d-920a-768460c70d7c]: Joh 4,24
+[^bible-42bae634-5077-45d2-a33a-4c8fc9910e70]: Hes 1,5–Hes 1,28
+[^bible-5000fc65-4ea7-4f2f-81a6-85971ffc4875]: Gen 1,27
+[^bible-55680a24-b81b-4a6a-bdc7-21288bd749c8]: Hes 10,7–Hes 10,14
+[^bible-5819a7d4-59be-4de5-89f9-6e698216eab2]: Ps 103,20
+[^bible-5dba4d50-e74b-47e5-b12c-79ab5a321be1]: Gen 18,22–Gen 18,33
+[^bible-7331c6f9-2817-4a71-861e-479ccc38b467]: Gen 6,2
+[^bible-757de0af-b605-4a0d-bf2b-eb9889964012]: Dan 7,9
+[^bible-895488f1-6121-4a9d-82ed-59ab5ac00a79]: 1Chr 21,15–1Chr 21,17
+[^bible-8a50027f-5e2c-4733-bc2b-f52648c86974]: 1Kor 15,39
+[^bible-af9f5f6b-f35b-479b-83fb-d7a8c4d23ad9]: Gen 3,8
+[^bible-b02d94d6-2489-4328-add5-929eb997661c]: Num 12,8
+[^bible-b4f46f6e-f6d0-452e-b2f0-a57ab33d1acf]: Ri 13,6–Ri 13,11
+[^bible-b847da75-01bb-4ca7-bb03-3fabf2485f01]: Dan 7,13
+[^bible-c0caf07e-c49d-4eca-b669-24e7f6ef30d9]: Jes 40,6
+[^bible-d664b479-ee2e-4327-9e48-637aae241cc5]: Dtn 4,24
+[^bible-f50edb2f-9e2f-4be0-9d09-e8e5e9897fe7]: 1Sam 13,14
+[^bible-fb660b5f-a4a4-4669-a0d4-c2351e4b9d38]: Ps 104,4

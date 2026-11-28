@@ -1,0 +1,17 @@
+# Wider die Irrlehren, Buch 1 – Kapitel 24: Hambaru und Parik bezeichnen Truggestalten der Dämonen, keine eigenen vernunftbegabten Geschöpfe
+
+Autor: Eznik von Kolb
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/eznik-von-kolb/eznik-wider-die-irrlehren-buch-1#kapitel-ac1c49ee-b7d7-41b6-5138-08df4bcb415b).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Da nun Engel und Dämonen unkörperlich sind, haben sie auch keine Nachkommen\. „Die Hambarus aber“, wendet man ein, „haben Nachkommen und sterben\.“ Prüfen wir zunächst, ob es außer Engeln, Dämonen und Menschen überhaupt andere vernunftbegabte Geschöpfe gibt\. Danach gehen wir der Frage nach, ob manche Dämonen körperlich und andere unkörperlich sind\. Dass es außer diesen drei Gruppen, den Engeln, den Dämonen und den Menschen, keine vernunftbegabten Geschöpfe gibt, geht aus allen von Gott gegebenen Schriften und aus der Natur der Geschöpfe hervor\. Zwar begegnen in der Schrift Namen wie Juschkaparik, Hambaru oder Parik, doch folgen diese Benennungen menschlichen Vorstellungen und nicht der Natur der Dinge\. Denn Dämonen zeigen sich in vielerlei Gestalt, und nach diesen Gestalten geben ihnen die Menschen ihre Namen\. Wenn etwa Städte und Dörfer verwüstet werden, lassen sich dort Dämonen nieder und erscheinen in wechselnden Truggestalten\. Die Menschen benennen sie nach diesen Truggestalten: Den einen nennen sie Juschkaparik, den anderen Parik, wieder einen anderen Hambaru\. Ebenso folgt die Schrift den Vorstellungen der Menschen: Um zu zeigen, wie schwer das Land verwüstet ist, sagt sie, dass „Juschkapariks in den Ruinen wohnen[^bible-abb313e0-6259-4d2f-b784-69530f91faa8]“\. Im griechischen Wortlaut heißen sie „Eselstiere[^bible-abb313e0-6259-4d2f-b784-69530f91faa8]“\.
+
+Können sie nun zeigen, dass in Babylon Eselstiere zu finden sind[^bible-abb313e0-6259-4d2f-b784-69530f91faa8]? Es ist also klar: Juschkaparik und Eselstier[^bible-abb313e0-6259-4d2f-b784-69530f91faa8] sind Namen, denen keine wirklichen Wesen entsprechen\. Die Schrift hat sich an die gängigen Vorstellungen der Menschen gehalten und diese Namen gebraucht, um die Verwüstung Babylons vor Augen zu führen\. Ebenso verhält es sich mit dem Meerstier, der aus einer Kuh hervorgegangen sein soll, mit einem gewissen Paj, der von Menschen stammen soll, und mit dem Arlez, der von einem Hund stammen soll\. Das sind keine wirklichen Wesen, sondern Namen aus leerem Gerede und Hirngespinste von Menschen, die von Dämonen in die Irre geführt wurden\. Denn aus etwas Körperlichem geht nichts Unsichtbares hervor, ebenso wenig wie etwas Körperliches aus etwas Unsichtbarem\. Nie ist aus Menschen ein Paj hervorgegangen, der Wildtiere weidet, und nie aus Kühen ein Meerstier, der in Seen lebt\. Denn ein körperliches Wesen kann nicht im Wasser leben, ebenso wenig wie ein Wassertier an Land\. Auch ist nie aus einem Hund ein Wesen hervorgegangen, das bei irgendwelchen unsichtbaren Mächten lebt und einen Verwundeten wieder gesund leckt, nachdem er im Kampf zu Boden gegangen ist und man ihn hingelegt hat\. Das alles sind Fabeln und Altweibergeschwätz[^bible-55bee4ed-cb62-4d2e-a01d-e75842e2da76]; mehr noch: Es geht auf die Täuschung durch die Dämonen selbst zurück\.
+
+## Bibelverweise
+
+[^bible-55bee4ed-cb62-4d2e-a01d-e75842e2da76]: 1Tim 4,7
+[^bible-abb313e0-6259-4d2f-b784-69530f91faa8]: Jes 13,22
